@@ -1,6 +1,6 @@
 # openvinotoolkit/openvino
 
-⭐ 11,066 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/openvinotoolkit/openvino) · [官网](https://docs.openvino.ai) · 组织维护
+⭐ 11,071 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openvinotoolkit/openvino) · [官网](https://docs.openvino.ai) · 组织维护
 
 **深度学习模型优化与推理部署工具包**
 
@@ -44,13 +44,13 @@ OpenVINO 是 Intel 维护的开源工具包，面向开发者将深度学习模�
 
 ```mermaid
 xychart-beta
-    title "openvinotoolkit/openvino 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11013 --> 11070
-    line [11017, 11024, 11035, 11041, 11047, 11062, 11066]
+    title "openvinotoolkit/openvino 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11012 --> 11076
+    line [11017, 11024, 11035, 11041, 11047, 11062, 11066, 11071]
 ```
 
-2026-10-18 11,017 → 2026-10-26 11,066（+49）
+2026-10-18 11,017 → 2026-10-27 11,071（+54）
 
 
 ---

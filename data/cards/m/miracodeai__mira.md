@@ -1,6 +1,6 @@
 # miracodeai/mira
 
-⭐ 378 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/miracodeai/mira) · [官网](https://docs.miracode.ai) · 组织维护
+⭐ 378 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/miracodeai/mira) · [官网](https://docs.miracode.ai) · 组织维护
 
 **自托管 AI 代码审查工具：用自带 LLM key 自动审查 PR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "miracodeai/mira 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 366 --> 379
     line [367, 371, 374, 376, 378, 378]
 ```
 
-2026-10-18 367 → 2026-10-26 378（+11）
+2026-10-18 367 → 2026-10-27 378（+11）
 
 
 ---

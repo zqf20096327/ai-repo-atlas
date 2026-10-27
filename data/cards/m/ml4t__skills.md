@@ -1,6 +1,6 @@
 # ml4t/skills
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ml4t/skills) · [官网](https://ml4trading.io) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ml4t/skills) · [官网](https://ml4trading.io) · 个人维护
 
 **量化交易机器学习的 AI 编程助手技能集（61 条 SKILL.md）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ml4t/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    title "ml4t/skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 26 --> 37
-    line [27, 31, 33, 34, 36]
+    line [27, 31, 33, 34, 36, 36]
 ```
 
-2026-10-18 27 → 2026-10-26 36（+9）
+2026-10-18 27 → 2026-10-27 36（+9）
 
 
 ---

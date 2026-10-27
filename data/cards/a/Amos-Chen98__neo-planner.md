@@ -1,6 +1,6 @@
 # Amos-Chen98/neo-planner
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/Amos-Chen98/neo-planner) · [官网](https://yichengchen.com/publication/neo-planner) · 组织维护
+⭐ 36 · Python · GPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/Amos-Chen98/neo-planner) · [官网](https://yichengchen.com/publication/neo-planner) · 组织维护
 
 **IROS'25 无人机导航规划器：学习初始化轨迹优化**
 
@@ -47,12 +47,12 @@ IROS'25 论文 Learning to Initialize Trajectory Optimization 的官方代码库
 ```mermaid
 xychart-beta
     title "Amos-Chen98/neo-planner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-26 35（+1）
+2026-10-18 34 → 2026-10-27 36（+2）
 
 
 ---

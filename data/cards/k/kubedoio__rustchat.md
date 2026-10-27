@@ -1,6 +1,6 @@
 # kubedoio/rustchat
 
-⭐ 47 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kubedoio/rustchat) · [官网](https://rustchat.io) · 组织维护
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kubedoio/rustchat) · [官网](https://rustchat.io) · 组织维护
 
 **自托管团队聊天与协作基础设施（含 AI Agent 功能）**
 
@@ -45,13 +45,13 @@ Rust 后端 + Vue 前端的自托管通信系统，提供频道、线程、私�
 
 ```mermaid
 xychart-beta
-    title "kubedoio/rustchat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "kubedoio/rustchat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 42 --> 48
-    line [43, 45, 46, 47]
+    line [43, 45, 46, 47, 47]
 ```
 
-2026-10-18 43 → 2026-10-26 47（+4）
+2026-10-18 43 → 2026-10-27 47（+4）
 
 
 ---

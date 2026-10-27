@@ -1,6 +1,6 @@
 # meangrinch/LocalLens
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meangrinch/LocalLens) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meangrinch/LocalLens) · 个人维护
 
 **本地图片/视频离线语义搜索引擎：自然语言查找与以图搜图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "meangrinch/LocalLens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 22 --> 28
-    line [23, 26, 27]
+    title "meangrinch/LocalLens 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 22 --> 29
+    line [23, 26, 27, 28]
 ```
 
-2026-10-18 23 → 2026-10-26 27（+4）
+2026-10-18 23 → 2026-10-27 28（+5）
 
 
 ---

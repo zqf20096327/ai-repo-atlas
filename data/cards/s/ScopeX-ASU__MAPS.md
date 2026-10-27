@@ -1,6 +1,6 @@
 # ScopeX-ASU/MAPS
 
-⭐ 46 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/ScopeX-ASU/MAPS) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/ScopeX-ASU/MAPS) · 组织维护
 
 **给光子学研究者的多保真 AI 光子仿真与逆向设计框架**
 
@@ -46,12 +46,12 @@ DATE 2025 论文的官方实现，面向光子集成电路器件的仿真与逆�
 ```mermaid
 xychart-beta
     title "ScopeX-ASU/MAPS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 47（+1）
 
 
 ---

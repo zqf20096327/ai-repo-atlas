@@ -1,6 +1,6 @@
 # betweentwomidnights/gary4juce
 
-⭐ 105 · C++ · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/betweentwomidnights/gary4juce) · 个人维护
+⭐ 106 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/betweentwomidnights/gary4juce) · 个人维护
 
 **在 DAW 内运行 8 个开源 AI 音乐模型的 VST3/AU 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "betweentwomidnights/gary4juce 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 99 --> 106
-    line [100, 101, 103, 105]
+    title "betweentwomidnights/gary4juce 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 99 --> 107
+    line [100, 101, 103, 105, 106]
 ```
 
-2026-10-18 100 → 2026-10-26 105（+5）
+2026-10-18 100 → 2026-10-27 106（+6）
 
 
 ---

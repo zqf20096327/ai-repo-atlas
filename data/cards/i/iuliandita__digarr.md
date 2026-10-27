@@ -1,6 +1,6 @@
 # iuliandita/digarr
 
-⭐ 316 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/iuliandita/digarr) · [官网](https://github.com/iuliandita/digarr#readme) · 个人维护
+⭐ 317 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/iuliandita/digarr) · [官网](https://github.com/iuliandita/digarr#readme) · 个人维护
 
 **自托管音乐发现工具：从收听历史生成推荐并送往 Lidarr 等服务**
 
@@ -45,12 +45,12 @@ Digarr 是面向个人音乐库的自托管发现应用：连接 ListenBrainz、
 ```mermaid
 xychart-beta
     title "iuliandita/digarr 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 308 --> 317
-    line [310, 309, 312, 313, 315, 316, 316]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 308 --> 318
+    line [310, 309, 312, 313, 315, 316, 317]
 ```
 
-2026-10-18 310 → 2026-10-26 316（+6）
+2026-10-18 310 → 2026-10-27 317（+7）
 
 
 ---

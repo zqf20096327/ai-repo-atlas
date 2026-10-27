@@ -44,12 +44,12 @@ Next.js + Chakra UI 构建的网页应用：用户输入自己的 OpenAI API key
 ```mermaid
 xychart-beta
     title "Justmalhar/open-audio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-26 96（+0）
+2026-10-18 96 → 2026-10-27 96（+0）
 
 
 ---

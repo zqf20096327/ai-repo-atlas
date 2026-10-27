@@ -1,6 +1,6 @@
 # ArtLjn/agriagent-os
 
-⭐ 53 · Python · 推送 2026-10-25 · [GitHub](https://github.com/ArtLjn/agriagent-os) · [官网](https://farm.lllcnm.cn) · 个人维护 · 中文 README
+⭐ 52 · Python · 推送 2026-10-25 · [GitHub](https://github.com/ArtLjn/agriagent-os) · [官网](https://farm.lllcnm.cn) · 个人维护 · 中文 README
 
 **面向农场日常经营的 AI 助手与管理工作台**
 
@@ -40,6 +40,18 @@
 > L21: 田掌柜是面向农场日常经营的 AI 助手与管理工作台。它把作物、种植周期、农事记录、收支、天气和提醒放在同一套系统中，让使用者通过对话查询信息、整理计划，并在授权后执行操作。
 > L31: |农场经营|仪表盘、作物模板、种植周期、农事日志、收支与用工管理|
 > L91: 农场数据由 Business 服务统一管理，管理后台、App 和 Agent 工具共享业务规则。可以从页面直接维护，也可以让助手根据自然语言查询和组织操作。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArtLjn/agriagent-os 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 51 --> 54
+    line [53, 52]
+```
+
+2026-10-26 53 → 2026-10-27 52（-1）
 
 
 ---

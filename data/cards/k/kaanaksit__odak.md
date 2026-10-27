@@ -1,6 +1,6 @@
 # kaanaksit/odak
 
-⭐ 217 · Python · MPL-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kaanaksit/odak) · [官网](https://kaanaksit.com/odak) · 组织维护
+⭐ 217 · Python · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kaanaksit/odak) · [官网](https://kaanaksit.com/odak) · 组织维护
 
 **光学、图形学与视觉感知的可微分科学计算库，服务光学设计与实验研究**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kaanaksit/odak 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 215 --> 218
     line [216, 217, 217]
 ```
 
-2026-10-18 216 → 2026-10-26 217（+1）
+2026-10-18 216 → 2026-10-27 217（+1）
 
 
 ---

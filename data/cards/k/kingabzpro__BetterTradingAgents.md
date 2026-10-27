@@ -1,6 +1,6 @@
 # kingabzpro/BetterTradingAgents
 
-⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kingabzpro/BetterTradingAgents) · [官网](https://github.com/kingabzpro/BetterTradingAgents/wiki) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kingabzpro/BetterTradingAgents) · [官网](https://github.com/kingabzpro/BetterTradingAgents/wiki) · 个人维护
 
 **多智能体股票研究模拟交易平台：生成风险控制的买卖建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingabzpro/BetterTradingAgents 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 19 --> 27
-    line [20, 26]
+    title "kingabzpro/BetterTradingAgents 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 19 --> 33
+    line [20, 26, 32]
 ```
 
-2026-10-25 20 → 2026-10-26 26（+6）
+2026-10-25 20 → 2026-10-27 32（+12）
 
 
 ---

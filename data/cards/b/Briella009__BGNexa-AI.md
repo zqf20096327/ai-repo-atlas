@@ -1,6 +1,6 @@
 # Briella009/BGNexa-AI
 
-⭐ 30 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Briella009/BGNexa-AI) · [官网](https://bgnexa-ai.streamlit.app/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Briella009/BGNexa-AI) · [官网](https://bgnexa-ai.streamlit.app/) · 个人维护
 
 **面向 GRC/审计团队的安全合规证据评估工作台**
 
@@ -40,6 +40,18 @@
 > L27: BGNexa can run without an API key in deterministic retrieval/manual-review mode.
 > L108: BGNexa works without an API key in deterministic retrieval/manual-review mode.
 > L110: Optional generation supports OpenAI or Groq. External-AI mode only sends the evidence selected for the request to 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Briella009/BGNexa-AI 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 34
+    line [30, 33]
+```
+
+2026-10-26 30 → 2026-10-27 33（+3）
 
 
 ---

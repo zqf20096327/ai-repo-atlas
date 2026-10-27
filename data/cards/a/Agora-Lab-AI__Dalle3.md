@@ -1,6 +1,6 @@
 # Agora-Lab-AI/Dalle3
 
-⭐ 193 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Agora-Lab-AI/Dalle3) · [官网](https://discord.gg/qUtxnK2NMf) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Agora-Lab-AI/Dalle3) · [官网](https://discord.gg/qUtxnK2NMf) · 组织维护
 
 **通过 Bing Image Creator 生成图像的 DALL-E 3 非官方 API**
 
@@ -46,12 +46,12 @@ Python 库形式封装 DALL-E 3 非官方 API：使用 Selenium WebDriver 打开
 ```mermaid
 xychart-beta
     title "Agora-Lab-AI/Dalle3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 192 --> 194
     line [193, 193]
 ```
 
-2026-10-18 193 → 2026-10-26 193（+0）
+2026-10-18 193 → 2026-10-27 193（+0）
 
 
 ---

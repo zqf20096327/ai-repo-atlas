@@ -1,6 +1,6 @@
 # InternLM/OVO-S-Bench
 
-⭐ 59 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/InternLM/OVO-S-Bench) · 组织维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/InternLM/OVO-S-Bench) · 组织维护 · 中文 README
 
 **多模态 LLM 流式空间智能评测基准：1,680 题人工标注数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InternLM/OVO-S-Bench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 60]
 ```
 
-2026-10-18 57 → 2026-10-26 59（+2）
+2026-10-18 57 → 2026-10-27 60（+3）
 
 
 ---

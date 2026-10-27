@@ -1,6 +1,6 @@
 # lucaGazzola/forgeo
 
-⭐ 35 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/lucaGazzola/forgeo) · [官网](https://forgeo.org) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/lucaGazzola/forgeo) · [官网](https://forgeo.org) · 个人维护
 
 **给编码 agent 的调度工厂：按 JSON backlog 自动跑任务并提交**
 
@@ -46,12 +46,12 @@ Forgeo 是一个基于终端的自动化流水线工具：读取纯 JSON 或 Git
 ```mermaid
 xychart-beta
     title "lucaGazzola/forgeo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 33 --> 36
-    line [35, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 33 --> 37
+    line [35, 34, 35, 36]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 36（+1）
 
 
 ---

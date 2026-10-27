@@ -45,12 +45,12 @@ Bitermplus 是 Biterm Topic Model（BTM，短文本主题建模）的 Python 实
 ```mermaid
 xychart-beta
     title "maximtrp/bitermplus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-26 85（+0）
+2026-10-18 85 → 2026-10-27 85（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # confluentinc/quickstart-streaming-agents
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/confluentinc/quickstart-streaming-agents) · [官网](https://confluent.io/product/streaming-agents/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/confluentinc/quickstart-streaming-agents) · [官网](https://confluent.io/product/streaming-agents/) · 组织维护
 
 **Confluent Cloud 上构建流式 AI agent 的动手实验快速入门**
 
@@ -45,12 +45,12 @@ Confluent 提供的官方 quickstart 仓库，含四个动手实验：MCP 工具
 ```mermaid
 xychart-beta
     title "confluentinc/quickstart-streaming-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-10-26 91（+0）
+2026-10-18 91 → 2026-10-27 91（+0）
 
 
 ---

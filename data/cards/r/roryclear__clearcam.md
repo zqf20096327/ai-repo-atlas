@@ -1,6 +1,6 @@
 # roryclear/clearcam
 
-⭐ 2,026 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
+⭐ 2,039 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
 
 **给任意 RTSP 摄像头加目标检测、追踪与搜索的自托管 NVR**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "roryclear/clearcam 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1985 --> 2029
-    line [1988, 2005, 2015, 2018, 2020, 2023, 2026]
+    title "roryclear/clearcam 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1983 --> 2044
+    line [1988, 2005, 2015, 2018, 2020, 2023, 2026, 2039]
 ```
 
-2026-10-18 1,988 → 2026-10-26 2,026（+38）
+2026-10-18 1,988 → 2026-10-27 2,039（+51）
 
 
 ---

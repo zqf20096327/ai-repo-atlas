@@ -1,6 +1,6 @@
 # OleksandrChekhovskyi/hax
 
-⭐ 937 · C · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
+⭐ 938 · C · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
 
 **C 编写的极简终端编码 agent，支持本地与云端模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OleksandrChekhovskyi/hax 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 919 --> 938
-    line [920, 927, 929, 932, 934, 936, 937]
+    title "OleksandrChekhovskyi/hax 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 919 --> 939
+    line [920, 927, 929, 932, 934, 936, 937, 938]
 ```
 
-2026-10-18 920 → 2026-10-26 937（+17）
+2026-10-18 920 → 2026-10-27 938（+18）
 
 
 ---

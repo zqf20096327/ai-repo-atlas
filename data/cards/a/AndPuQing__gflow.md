@@ -1,6 +1,6 @@
 # AndPuQing/gflow
 
-⭐ 101 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndPuQing/gflow) · [官网](https://runqd.com) · 个人维护 · 中文 README
+⭐ 102 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndPuQing/gflow) · [官网](https://runqd.com) · 个人维护 · 中文 README
 
 **单机 GPU 作业调度器：给共享工作站带来类 Slurm 工作流**
 
@@ -45,12 +45,12 @@ Rust 实现的轻量级单 Linux 机器作业调度器，面向共享 GPU 工作
 ```mermaid
 xychart-beta
     title "AndPuQing/gflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-18 101 → 2026-10-26 101（+0）
+2026-10-18 101 → 2026-10-27 102（+1）
 
 
 ---

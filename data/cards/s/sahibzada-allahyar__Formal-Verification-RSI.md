@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sahibzada-allahyar/Formal-Verification-RSI 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26"]
+    title "sahibzada-allahyar/Formal-Verification-RSI 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2851 --> 2857
-    line [2852, 2854, 2856]
+    line [2852, 2854, 2856, 2856]
 ```
 
-2026-10-23 2,852 → 2026-10-26 2,856（+4）
+2026-10-23 2,852 → 2026-10-27 2,856（+4）
 
 
 ---

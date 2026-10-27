@@ -1,6 +1,6 @@
 # ryanfrigo/kalshi-ai-trading-bot
 
-⭐ 632 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ryanfrigo/kalshi-ai-trading-bot) · [官网](https://kalshi-community.vercel.app) · 个人维护
+⭐ 634 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ryanfrigo/kalshi-ai-trading-bot) · [官网](https://kalshi-community.vercel.app) · 个人维护
 
 **面向 Kalshi 预测市场的 AI 交易策略工具包与胜率度量框架**
 
@@ -46,12 +46,12 @@ Python 工具包，供开发者构建并运行 Kalshi 预测市场交易策略�
 ```mermaid
 xychart-beta
     title "ryanfrigo/kalshi-ai-trading-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 619 --> 633
-    line [620, 621, 624, 626, 630, 632, 632]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 619 --> 635
+    line [620, 621, 624, 626, 630, 632, 634]
 ```
 
-2026-10-18 620 → 2026-10-26 632（+12）
+2026-10-18 620 → 2026-10-27 634（+14）
 
 
 ---

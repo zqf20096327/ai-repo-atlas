@@ -1,6 +1,6 @@
 # xcc-zach/xtalk
 
-⭐ 248 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/xcc-zach/xtalk) · [官网](https://xtalk.sjtuxlance.com) · 个人维护
+⭐ 248 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xcc-zach/xtalk) · [官网](https://xtalk.sjtuxlance.com) · 个人维护
 
 **开源全双工级联语音对话系统框架：低延迟可打断的人机语音交互**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xcc-zach/xtalk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 246 --> 249
     line [247, 248, 248]
 ```
 
-2026-10-18 247 → 2026-10-26 248（+1）
+2026-10-18 247 → 2026-10-27 248（+1）
 
 
 ---

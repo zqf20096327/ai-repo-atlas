@@ -1,6 +1,6 @@
 # gabe565/docker-obico
 
-⭐ 37 · 推送 2026-10-23 · [GitHub](https://github.com/gabe565/docker-obico) · [官网](https://obico.io) · 个人维护
+⭐ 38 · 推送 2026-10-23 · [GitHub](https://github.com/gabe565/docker-obico) · [官网](https://obico.io) · 个人维护
 
 **为 Obico 服务器提供预构建 Docker 镜像，便于在不支持本地构建的托管环境部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gabe565/docker-obico 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38]
 ```
 
-2026-10-18 36 → 2026-10-26 37（+1）
+2026-10-18 36 → 2026-10-27 38（+2）
 
 
 ---

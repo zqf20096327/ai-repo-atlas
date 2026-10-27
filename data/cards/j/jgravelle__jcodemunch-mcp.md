@@ -1,6 +1,6 @@
 # jgravelle/jcodemunch-mcp
 
-⭐ 2,806 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
+⭐ 2,808 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/jgravelle/jcodemunch-mcp) · [官网](https://jcodemunch.com/) · 个人维护
 
 **给 AI 编程代理的 MCP 代码检索服务器：按符号精确取码省 token**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jgravelle/jcodemunch-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2778 --> 2808
-    line [2780, 2785, 2796, 2797, 2804, 2806]
+    title "jgravelle/jcodemunch-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2778 --> 2810
+    line [2780, 2785, 2796, 2797, 2804, 2806, 2808]
 ```
 
-2026-10-18 2,780 → 2026-10-26 2,806（+26）
+2026-10-18 2,780 → 2026-10-27 2,808（+28）
 
 
 ---

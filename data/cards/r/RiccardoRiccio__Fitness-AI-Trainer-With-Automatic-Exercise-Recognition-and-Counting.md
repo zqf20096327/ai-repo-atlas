@@ -46,12 +46,12 @@ Streamlit Web 应用：通过 MediaPipe 提取人体关键点，用 LSTM/BiLSTM 
 ```mermaid
 xychart-beta
     title "RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-10-26 170（+0）
+2026-10-18 170 → 2026-10-27 170（+0）
 
 
 ---

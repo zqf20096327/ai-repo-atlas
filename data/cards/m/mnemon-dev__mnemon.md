@@ -1,6 +1,6 @@
 # mnemon-dev/mnemon
 
-⭐ 660 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/mnemon-dev/mnemon) · [官网](https://mnemon.dev) · 组织维护 · 中文 README
+⭐ 661 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mnemon-dev/mnemon) · [官网](https://mnemon.dev) · 组织维护 · 中文 README
 
 **给 AI agent 用的 LLM 监督式持久记忆：四图知识库与跨会话召回**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mnemon-dev/mnemon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 636 --> 662
-    line [638, 640, 649, 652, 655, 657, 660]
+    title "mnemon-dev/mnemon 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 636 --> 663
+    line [638, 640, 649, 652, 655, 657, 660, 661]
 ```
 
-2026-10-18 638 → 2026-10-26 660（+22）
+2026-10-18 638 → 2026-10-27 661（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fromlan/X-agent
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Fromlan/X-agent) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Fromlan/X-agent) · 个人维护 · 中文 README
 
 **面向 Godot 4 开发者的桌面 AI 编程助手客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fromlan/X-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cerlancism/chatgpt-subtitle-translator
 
-⭐ 391 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Cerlancism/chatgpt-subtitle-translator) · [官网](https://cerlancism.github.io/chatgpt-subtitle-translator/) · 个人维护
+⭐ 391 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Cerlancism/chatgpt-subtitle-translator) · [官网](https://cerlancism.github.io/chatgpt-subtitle-translator/) · 个人维护
 
 **基于 LLM API 的 SRT 字幕/逐行文本翻译工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cerlancism/chatgpt-subtitle-translator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 389 --> 392
     line [390, 391, 391]
 ```
 
-2026-10-18 390 → 2026-10-26 391（+1）
+2026-10-18 390 → 2026-10-27 391（+1）
 
 
 ---

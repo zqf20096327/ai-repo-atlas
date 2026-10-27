@@ -1,6 +1,6 @@
 # crp4222/PrivAiTe
 
-⭐ 55 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/crp4222/PrivAiTe) · [官网](https://crp4222.github.io/PrivAiTe/) · 个人维护
+⭐ 57 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/crp4222/PrivAiTe) · [官网](https://crp4222.github.io/PrivAiTe/) · 个人维护
 
 **自托管 PII 脱敏代理：在请求离开本机前清洗 LLM 流量并在回复中还原**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crp4222/PrivAiTe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55]
+    title "crp4222/PrivAiTe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 52 --> 58
+    line [53, 54, 55, 57]
 ```
 
-2026-10-18 53 → 2026-10-26 55（+2）
+2026-10-18 53 → 2026-10-27 57（+4）
 
 
 ---

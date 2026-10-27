@@ -1,6 +1,6 @@
 # pinecone-io/recommender-example-typescript
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/recommender-example-typescript) · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pinecone-io/recommender-example-typescript) · 组织维护
 
 **TypeScript 示例：基于 Pinecone 向量检索的文章推荐器**
 
@@ -44,12 +44,12 @@ Pinecone 官方维护的 TypeScript 教程工程，演示用向量相似度检�
 ```mermaid
 xychart-beta
     title "pinecone-io/recommender-example-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 57（+0）
 
 
 ---

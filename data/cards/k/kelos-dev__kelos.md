@@ -1,6 +1,6 @@
 # kelos-dev/kelos
 
-⭐ 348 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/kelos-dev/kelos) · 组织维护
+⭐ 348 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kelos-dev/kelos) · 组织维护
 
 **在 Kubernetes 上编排自主 AI 编码代理的框架**
 
@@ -46,13 +46,13 @@ Kelos 将编码代理（Claude Code、OpenAI Codex、Google Gemini、OpenCode、
 
 ```mermaid
 xychart-beta
-    title "kelos-dev/kelos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "kelos-dev/kelos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 343 --> 349
-    line [344, 346, 347, 348]
+    line [344, 346, 347, 348, 348]
 ```
 
-2026-10-18 344 → 2026-10-26 348（+4）
+2026-10-18 344 → 2026-10-27 348（+4）
 
 
 ---

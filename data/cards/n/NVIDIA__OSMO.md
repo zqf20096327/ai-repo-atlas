@@ -1,6 +1,6 @@
 # NVIDIA/OSMO
 
-⭐ 277 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/NVIDIA/OSMO) · [官网](https://nvidia.github.io/OSMO) · 组织维护
+⭐ 278 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/OSMO) · [官网](https://nvidia.github.io/OSMO) · 组织维护
 
 **面向 Physical AI 的跨异构计算工作流编排平台**
 
@@ -45,13 +45,13 @@ NVIDIA 开源的 Physical AI 工作流编排平台：以 YAML 声明工作流，
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/OSMO 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 269 --> 278
-    line [270, 271, 273, 275, 276, 277]
+    title "NVIDIA/OSMO 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 269 --> 279
+    line [270, 271, 273, 275, 276, 277, 278]
 ```
 
-2026-10-18 270 → 2026-10-26 277（+7）
+2026-10-18 270 → 2026-10-27 278（+8）
 
 
 ---

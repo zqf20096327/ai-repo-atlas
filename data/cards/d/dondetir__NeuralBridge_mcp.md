@@ -1,6 +1,6 @@
 # dondetir/NeuralBridge_mcp
 
-⭐ 41 · Kotlin · NOASSERTION · 推送 2026-03-16 · [GitHub](https://github.com/dondetir/NeuralBridge_mcp) · [官网](https://dondetir.github.io/NeuralBridge_mcp/) · 个人维护
+⭐ 43 · Kotlin · NOASSERTION · 推送 2026-03-16 · [GitHub](https://github.com/dondetir/NeuralBridge_mcp) · [官网](https://dondetir.github.io/NeuralBridge_mcp/) · 个人维护
 
 **MCP 服务器：让 AI agent 直接控制 Android 设备执行自动化操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dondetir/NeuralBridge_mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 44
+    line [41, 43]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 43（+2）
 
 
 ---

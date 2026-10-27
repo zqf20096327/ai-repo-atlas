@@ -45,13 +45,13 @@ TinyFish 官方维护的集成仓库：把托管的网页搜索、页面抓取�
 
 ```mermaid
 xychart-beta
-    title "tinyfish-io/tinyfish-web-agent-integrations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "tinyfish-io/tinyfish-web-agent-integrations 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 19 --> 48
-    line [21, 43, 45, 46]
+    line [21, 43, 45, 46, 46]
 ```
 
-2026-10-18 21 → 2026-10-26 46（+25）
+2026-10-18 21 → 2026-10-27 46（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-OpenClaw
 
-⭐ 559 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/rookiestar28/ComfyUI-OpenClaw) · 个人维护 · 中文 README
+⭐ 559 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rookiestar28/ComfyUI-OpenClaw) · 个人维护 · 中文 README
 
 **ComfyUI 的安全优先编排层：加固自动化 API 与远程管理控制台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rookiestar28/ComfyUI-OpenClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    title "rookiestar28/ComfyUI-OpenClaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 557 --> 560
-    line [558, 559, 558, 559]
+    line [558, 559, 558, 559, 559]
 ```
 
-2026-10-18 558 → 2026-10-26 559（+1）
+2026-10-18 558 → 2026-10-27 559（+1）
 
 
 ---

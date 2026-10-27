@@ -1,6 +1,6 @@
 # infobyte/faraday
 
-⭐ 6,819 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/infobyte/faraday) · [官网](https://www.faradaysec.com) · 组织维护
+⭐ 6,822 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/infobyte/faraday) · [官网](https://www.faradaysec.com) · 组织维护
 
 **开源漏洞管理平台：聚合安全扫描结果并集中管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "infobyte/faraday 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6778 --> 6822
-    line [6781, 6806, 6817, 6816, 6819]
+    title "infobyte/faraday 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6777 --> 6826
+    line [6781, 6806, 6817, 6816, 6819, 6822]
 ```
 
-2026-10-18 6,781 → 2026-10-26 6,819（+38）
+2026-10-18 6,781 → 2026-10-27 6,822（+41）
 
 
 ---

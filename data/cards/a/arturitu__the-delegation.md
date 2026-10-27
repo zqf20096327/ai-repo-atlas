@@ -1,6 +1,6 @@
 # arturitu/the-delegation
 
-⭐ 710 · TypeScript · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/arturitu/the-delegation) · [官网](https://arturitu.github.io/the-delegation/) · 个人维护
+⭐ 715 · TypeScript · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/arturitu/the-delegation) · [官网](https://arturitu.github.io/the-delegation/) · 个人维护
 
 **无代码 3D 游乐场：可视化探索与设计多智能体系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arturitu/the-delegation 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 698 --> 711
-    line [699, 702, 703, 707, 708, 710]
+    title "arturitu/the-delegation 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 698 --> 716
+    line [699, 702, 703, 707, 708, 710, 715]
 ```
 
-2026-10-18 699 → 2026-10-26 710（+11）
+2026-10-18 699 → 2026-10-27 715（+16）
 
 
 ---

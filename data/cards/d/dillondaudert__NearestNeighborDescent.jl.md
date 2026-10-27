@@ -44,12 +44,12 @@ Nearest Neighbor Descent（NNDescent）算法的 Julia 实现包，提供近似 
 ```mermaid
 xychart-beta
     title "dillondaudert/NearestNeighborDescent.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 49（+0）
 
 
 ---

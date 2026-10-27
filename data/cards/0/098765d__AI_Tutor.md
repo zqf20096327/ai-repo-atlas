@@ -1,6 +1,6 @@
 # 098765d/AI_Tutor
 
-⭐ 63 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/098765d/AI_Tutor) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/098765d/AI_Tutor) · 组织维护
 
 **基于知识图谱增强 RAG 的自适应课程 AI 辅导系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "098765d/AI_Tutor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 61 --> 64
+    line [63, 62]
 ```
 
-2026-10-18 63 → 2026-10-26 63（+0）
+2026-10-18 63 → 2026-10-27 62（-1）
 
 
 ---

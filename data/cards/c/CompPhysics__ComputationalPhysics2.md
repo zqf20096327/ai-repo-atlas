@@ -43,13 +43,13 @@ University of Oslo 的 FYS4411/FYS9411 计算物理研究生课程仓库，收�
 
 ```mermaid
 xychart-beta
-    title "CompPhysics/ComputationalPhysics2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "CompPhysics/ComputationalPhysics2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 227 --> 230
-    line [228, 229]
+    line [228, 229, 229]
 ```
 
-2026-10-18 228 → 2026-10-26 229（+1）
+2026-10-18 228 → 2026-10-27 229（+1）
 
 
 ---

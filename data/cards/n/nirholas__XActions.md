@@ -1,6 +1,6 @@
 # nirholas/XActions
 
-⭐ 622 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nirholas/XActions) · [官网](https://xactions.app/features) · 个人维护
+⭐ 624 · HTML · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nirholas/XActions) · [官网](https://xactions.app/features) · 个人维护
 
 **X/Twitter 自动化工具集：爬取、自动化与面向 AI agent 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nirholas/XActions 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 597 --> 624
-    line [599, 604, 610, 612, 616, 620, 622]
+    title "nirholas/XActions 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 597 --> 626
+    line [599, 604, 610, 612, 616, 620, 622, 624]
 ```
 
-2026-10-18 599 → 2026-10-26 622（+23）
+2026-10-18 599 → 2026-10-27 624（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # echo-loop/Echo-Loop
 
-⭐ 4,400 · Dart · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/echo-loop/Echo-Loop) · [官网](https://www.echo-loop.top) · 组织维护 · 中文 README
+⭐ 4,506 · Dart · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/echo-loop/Echo-Loop) · [官网](https://www.echo-loop.top) · 组织维护 · 中文 README
 
 **自动驱动听说闭环的英语学习 App（Flutter）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "echo-loop/Echo-Loop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4180 --> 4420
-    line [4200, 4213, 4227, 4238, 4244, 4259, 4400]
+    title "echo-loop/Echo-Loop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4170 --> 4536
+    line [4200, 4213, 4227, 4238, 4244, 4259, 4400, 4506]
 ```
 
-2026-10-18 4,200 → 2026-10-26 4,400（+200）
+2026-10-18 4,200 → 2026-10-27 4,506（+306）
 
 
 ---

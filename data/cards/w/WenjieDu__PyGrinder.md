@@ -1,6 +1,6 @@
 # WenjieDu/PyGrinder
 
-⭐ 71 · Python · BSD-3-Clause · 推送 2026-08-25 · [GitHub](https://github.com/WenjieDu/PyGrinder) · [官网](https://pypots.com/ecosystem/#PyGrinder) · 个人维护
+⭐ 71 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/WenjieDu/PyGrinder) · [官网](https://pypots.com/ecosystem/#PyGrinder) · 个人维护
 
 **给数据科学家的 Python 工具包：按多种缺失机制向数据注入缺失值**
 
@@ -44,12 +44,12 @@ PyGrinder 是用于破坏数据完整性的 Python 工具包，提供多种缺�
 ```mermaid
 xychart-beta
     title "WenjieDu/PyGrinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-26 71（+0）
+2026-10-18 71 → 2026-10-27 71（+0）
 
 
 ---

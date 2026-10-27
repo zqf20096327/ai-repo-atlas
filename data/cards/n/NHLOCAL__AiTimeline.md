@@ -1,6 +1,6 @@
 # NHLOCAL/AiTimeline
 
-⭐ 172 · SCSS · MIT · 推送 2026-09-13 · [GitHub](https://github.com/NHLOCAL/AiTimeline) · [官网](https://nhlocal.github.io/AiTimeline/) · 个人维护
+⭐ 173 · SCSS · MIT · 推送 2026-09-13 · [GitHub](https://github.com/NHLOCAL/AiTimeline) · [官网](https://nhlocal.github.io/AiTimeline/) · 个人维护
 
 **追踪 2022 年以来 AI 领域发展事件的开源时间线站点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NHLOCAL/AiTimeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 171 --> 174
+    line [172, 173]
 ```
 
-2026-10-18 172 → 2026-10-26 172（+0）
+2026-10-18 172 → 2026-10-27 173（+1）
 
 
 ---

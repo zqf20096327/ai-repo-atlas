@@ -1,6 +1,6 @@
 # Andiii208/seu-handbook-skill
 
-⭐ 51 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Andiii208/seu-handbook-skill) · 个人维护 · 中文 README
+⭐ 52 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Andiii208/seu-handbook-skill) · 个人维护 · 中文 README
 
 **东南大学学生手册的 Agent Skill 知识包：带条款引用的规章问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Andiii208/seu-handbook-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 48 --> 52
-    line [49, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 48 --> 53
+    line [49, 51, 52]
 ```
 
-2026-10-18 49 → 2026-10-26 51（+2）
+2026-10-18 49 → 2026-10-27 52（+3）
 
 
 ---

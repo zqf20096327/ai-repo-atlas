@@ -1,6 +1,6 @@
 # apple/axlearn
 
-⭐ 2,376 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/apple/axlearn) · 组织维护
+⭐ 2,377 · Python · Apache-2.0 · 推送 2026-07-08 · [GitHub](https://github.com/apple/axlearn) · 组织维护
 
 **面向大规模模型的 JAX/XLA 深度学习训练库，给模型开发者**
 
@@ -45,12 +45,12 @@ Apple 维护的深度学习库，构建于 JAX 与 XLA 之上，用于开发、�
 ```mermaid
 xychart-beta
     title "apple/axlearn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2373 --> 2377
-    line [2374, 2375, 2376, 2376]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2373 --> 2378
+    line [2374, 2375, 2376, 2377]
 ```
 
-2026-10-18 2,374 → 2026-10-26 2,376（+2）
+2026-10-18 2,374 → 2026-10-27 2,377（+3）
 
 
 ---

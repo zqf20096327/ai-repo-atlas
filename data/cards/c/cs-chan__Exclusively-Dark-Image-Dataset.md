@@ -1,6 +1,6 @@
 # cs-chan/Exclusively-Dark-Image-Dataset
 
-⭐ 654 · MATLAB · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) · 组织维护
+⭐ 656 · MATLAB · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) · 组织维护
 
 **低光照图像数据集：7,363 张暗光图像带目标框标注**
 
@@ -44,13 +44,13 @@ CVIU2019 论文配套的 Exclusively Dark (ExDark) 数据集，收录 7,363 张�
 
 ```mermaid
 xychart-beta
-    title "cs-chan/Exclusively-Dark-Image-Dataset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 650 --> 655
-    line [651, 653, 654]
+    title "cs-chan/Exclusively-Dark-Image-Dataset 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 650 --> 657
+    line [651, 653, 654, 656]
 ```
 
-2026-10-18 651 → 2026-10-26 654（+3）
+2026-10-18 651 → 2026-10-27 656（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/open-computer-use
 
-⭐ 296 · Swift · MIT · 推送 2026-06-10 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护 · 中文 README
+⭐ 297 · Swift · MIT · 推送 2026-06-10 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护 · 中文 README
 
 **让 AI agent 通过 MCP 控制三平台电脑的计算机使用服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/open-computer-use 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 290 --> 297
-    line [291, 294, 295, 296, 296]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 290 --> 298
+    line [291, 294, 295, 296, 297]
 ```
 
-2026-10-18 291 → 2026-10-26 296（+5）
+2026-10-18 291 → 2026-10-27 297（+6）
 
 
 ---

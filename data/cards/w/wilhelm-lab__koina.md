@@ -1,6 +1,6 @@
 # wilhelm-lab/koina
 
-⭐ 57 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/wilhelm-lab/koina) · [官网](https://koina.wilhelmlab.org/) · 组织维护
+⭐ 58 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/wilhelm-lab/koina) · [官网](https://koina.wilhelmlab.org/) · 组织维护
 
 **蛋白质组学深度学习推理服务器：在线/自托管获取模型预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wilhelm-lab/koina 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 58（+1）
 
 
 ---

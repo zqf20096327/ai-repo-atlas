@@ -1,6 +1,6 @@
 # teableio/teable
 
-⭐ 21,925 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
+⭐ 21,930 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/teableio/teable) · [官网](https://teable.ai) · 组织维护
 
 **面向企业的 AI 电子表格：数据管理、AI 工作流与应用构建一体**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "teableio/teable 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 21894 --> 21927
-    line [21896, 21905, 21910, 21919, 21922, 21925]
+    title "teableio/teable 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 21893 --> 21933
+    line [21896, 21905, 21910, 21919, 21922, 21925, 21930]
 ```
 
-2026-10-18 21,896 → 2026-10-26 21,925（+29）
+2026-10-18 21,896 → 2026-10-27 21,930（+34）
 
 
 ---

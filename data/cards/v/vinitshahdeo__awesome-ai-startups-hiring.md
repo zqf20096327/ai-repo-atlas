@@ -1,6 +1,6 @@
 # vinitshahdeo/awesome-ai-startups-hiring
 
-⭐ 78 · 推送 2026-09-14 · [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) · [官网](https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026) · 个人维护
+⭐ 79 · 推送 2026-09-14 · [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) · [官网](https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026) · 个人维护
 
 **160+ AI 创业公司招聘与融资信息策展清单，面向求职工程师**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vinitshahdeo/awesome-ai-startups-hiring 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 75 --> 79
-    line [76, 78, 78]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 75 --> 80
+    line [76, 78, 79]
 ```
 
-2026-10-18 76 → 2026-10-26 78（+2）
+2026-10-18 76 → 2026-10-27 79（+3）
 
 
 ---

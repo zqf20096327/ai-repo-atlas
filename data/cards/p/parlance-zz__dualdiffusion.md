@@ -1,6 +1,6 @@
 # parlance-zz/dualdiffusion
 
-⭐ 94 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/parlance-zz/dualdiffusion) · [官网](https://www.g-diffuser.com/dualdiffusion/) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/parlance-zz/dualdiffusion) · [官网](https://www.g-diffuser.com/dualdiffusion/) · 个人维护
 
 **基于扩散模型的电子游戏配乐音乐生成模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "parlance-zz/dualdiffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-18 94 → 2026-10-26 94（+0）
+2026-10-18 94 → 2026-10-27 94（+0）
 
 
 ---

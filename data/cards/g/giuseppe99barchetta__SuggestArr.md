@@ -1,6 +1,6 @@
 # giuseppe99barchetta/SuggestArr
 
-⭐ 1,358 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
+⭐ 1,362 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
 
 **基于观影历史自动推荐并向 Seer 提交下载请求的媒体自动化工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "giuseppe99barchetta/SuggestArr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1342 --> 1359
-    line [1343, 1346, 1351, 1355, 1358]
+    title "giuseppe99barchetta/SuggestArr 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1342 --> 1363
+    line [1343, 1346, 1351, 1355, 1358, 1362]
 ```
 
-2026-10-18 1,343 → 2026-10-26 1,358（+15）
+2026-10-18 1,343 → 2026-10-27 1,362（+19）
 
 
 ---

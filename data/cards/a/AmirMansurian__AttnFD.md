@@ -45,12 +45,12 @@ WACV26 LENS Workshop 论文 Attention as Geometric Transformation 的 PyTorch �
 ```mermaid
 xychart-beta
     title "AmirMansurian/AttnFD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 43（+0）
 
 
 ---

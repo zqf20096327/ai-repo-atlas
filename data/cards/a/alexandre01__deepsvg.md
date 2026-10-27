@@ -1,6 +1,6 @@
 # alexandre01/deepsvg
 
-⭐ 1,169 · Jupyter Notebook · MIT · 推送 2026-09-04 · [GitHub](https://github.com/alexandre01/deepsvg) · 个人维护
+⭐ 1,168 · Jupyter Notebook · MIT · 推送 2026-09-04 · [GitHub](https://github.com/alexandre01/deepsvg) · 个人维护
 
 **NeurIPS 2020 论文官方代码：SVG 矢量图形动画的层级生成网络及配套库**
 
@@ -46,12 +46,12 @@ DeepSVG 论文（NeurIPS 2020）的官方 PyTorch 实现，提供训练代码、
 ```mermaid
 xychart-beta
     title "alexandre01/deepsvg 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 1167 --> 1170
-    line [1168, 1169, 1169]
+    line [1168, 1169, 1168]
 ```
 
-2026-10-18 1,168 → 2026-10-26 1,169（+1）
+2026-10-18 1,168 → 2026-10-27 1,168（+0）
 
 
 ---

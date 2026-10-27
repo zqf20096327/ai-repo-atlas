@@ -1,6 +1,6 @@
 # Aimee51819/FileFlipper
 
-⭐ 45 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Aimee51819/FileFlipper) · [官网](https://fileflipper.app) · 个人维护 · 中文 README
+⭐ 46 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Aimee51819/FileFlipper) · [官网](https://fileflipper.app) · 个人维护 · 中文 README
 
 **Mac/Windows 菜单栏文件转换工具：拖拽转格式与 Markdown**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aimee51819/FileFlipper 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 34 --> 46
-    line [35, 38, 41, 42, 43, 44, 45]
+    title "Aimee51819/FileFlipper 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 34 --> 47
+    line [35, 38, 41, 42, 43, 44, 45, 46]
 ```
 
-2026-10-18 35 → 2026-10-26 45（+10）
+2026-10-18 35 → 2026-10-27 46（+11）
 
 
 ---

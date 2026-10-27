@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ismailsaoulaj/reddit-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    title "ismailsaoulaj/reddit-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 37]
+    line [37, 38, 37, 37]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 37（+0）
 
 
 ---

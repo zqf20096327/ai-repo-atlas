@@ -1,6 +1,6 @@
 # Runfusion/Fusion
 
-⭐ 1,292 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Runfusion/Fusion) · [官网](http://runfusion.ai) · 组织维护 · 中文 README
+⭐ 1,294 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Runfusion/Fusion) · [官网](http://runfusion.ai) · 组织维护 · 中文 README
 
 **多 agent 编排软件工厂：用 AI agent 团队自动规划、编写、评审并交付代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Runfusion/Fusion 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1278 --> 1293
-    line [1279, 1281, 1285, 1288, 1289, 1292]
+    title "Runfusion/Fusion 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1278 --> 1295
+    line [1279, 1281, 1285, 1288, 1289, 1292, 1294]
 ```
 
-2026-10-18 1,279 → 2026-10-26 1,292（+13）
+2026-10-18 1,279 → 2026-10-27 1,294（+15）
 
 
 ---

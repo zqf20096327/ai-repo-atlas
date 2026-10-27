@@ -1,6 +1,6 @@
 # metauto-ai/GPTSwarm
 
-⭐ 1,062 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/metauto-ai/GPTSwarm) · [官网](https://gptswarm.org) · 组织维护 · 中文 README
+⭐ 1,061 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/metauto-ai/GPTSwarm) · [官网](https://gptswarm.org) · 组织维护 · 中文 README
 
 **图结构构建与优化 LLM agent 群的开源框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metauto-ai/GPTSwarm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1051 --> 1063
-    line [1052, 1055, 1057, 1062, 1062]
+    line [1052, 1055, 1057, 1062, 1061]
 ```
 
-2026-10-18 1,052 → 2026-10-26 1,062（+10）
+2026-10-18 1,052 → 2026-10-27 1,061（+9）
 
 
 ---

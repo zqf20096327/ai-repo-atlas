@@ -1,6 +1,6 @@
 # scaleapi/llm-engine
 
-⭐ 839 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/scaleapi/llm-engine) · [官网](https://llm-engine.scale.com) · 组织维护
+⭐ 839 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/scaleapi/llm-engine) · [官网](https://llm-engine.scale.com) · 组织维护
 
 **面向开发者的 LLM 微调与推理服务引擎**
 
@@ -45,12 +45,12 @@ Scale 公司开源的 LLM Engine，以 Python 库、CLI 和 Helm Chart 形式提
 ```mermaid
 xychart-beta
     title "scaleapi/llm-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 838 --> 840
     line [839, 839]
 ```
 
-2026-10-18 839 → 2026-10-26 839（+0）
+2026-10-18 839 → 2026-10-27 839（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bentoml/BentoDiffusion
 
-⭐ 390 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/bentoml/BentoDiffusion) · [官网](https://bentoml.com) · 组织维护
+⭐ 390 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bentoml/BentoDiffusion) · [官网](https://bentoml.com) · 组织维护
 
 **用 BentoML 自托管 Stable Diffusion 系列扩散模型的示例项目集**
 
@@ -45,12 +45,12 @@ BentoML 官方维护的扩散模型部署示例集合：演示如何将 SDXL Tur
 ```mermaid
 xychart-beta
     title "bentoml/BentoDiffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 388 --> 391
     line [389, 390, 390]
 ```
 
-2026-10-18 389 → 2026-10-26 390（+1）
+2026-10-18 389 → 2026-10-27 390（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Automations-Project/VSCode-Perplexity-MCP
 
-⭐ 79 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Automations-Project/VSCode-Perplexity-MCP) · [官网](https://www.npmjs.com/package/perplexity-user-mcp) · 组织维护
+⭐ 78 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Automations-Project/VSCode-Perplexity-MCP) · [官网](https://www.npmjs.com/package/perplexity-user-mcp) · 组织维护
 
 **把 Perplexity 账号封装为 MCP 工具的 VS Code 扩展与独立服务器**
 
@@ -46,12 +46,12 @@ Monorepo 形态提供两种交付：VS Code 原生扩展（内嵌 MCP 守护进�
 ```mermaid
 xychart-beta
     title "Automations-Project/VSCode-Perplexity-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 79, 79]
+    line [76, 77, 79, 78]
 ```
 
-2026-10-18 76 → 2026-10-26 79（+3）
+2026-10-18 76 → 2026-10-27 78（+2）
 
 
 ---

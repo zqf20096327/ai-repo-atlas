@@ -1,6 +1,6 @@
 # njgymb/diffusers-sculptor
 
-⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/njgymb/diffusers-sculptor) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/njgymb/diffusers-sculptor) · 个人维护
 
 **配置驱动的扩散模型微调框架（FluxForge）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "njgymb/diffusers-sculptor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

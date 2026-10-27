@@ -1,6 +1,6 @@
 # jaisurya-dev-art/rigby2d
 
-⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://github.com/jaisurya-dev-art/rigby2d#readme) · 组织维护
+⭐ 49 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://jaisurya-dev-art.github.io/rigby2d/) · 组织维护
 
 **开源 2D 骨骼动画编辑器：绑定 PSD/PNG、制作动画、导出运行时，内置 MCP 供 AI 助手操作**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaisurya-dev-art/rigby2d 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13 --> 43
-    line [15, 18, 26, 27, 30, 35, 41]
+    title "jaisurya-dev-art/rigby2d 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12 --> 52
+    line [15, 18, 26, 27, 30, 35, 41, 49]
 ```
 
-2026-10-18 15 → 2026-10-26 41（+26）
+2026-10-18 15 → 2026-10-27 49（+34）
 
 
 ---

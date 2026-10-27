@@ -45,12 +45,12 @@ USENIX Security 2023 论文 GAP（Aggregation Perturbation 差分隐私图神经
 ```mermaid
 xychart-beta
     title "sisaman/GAP 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-22", "2026-10-27"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-22 50 → 2026-10-26 50（+0）
+2026-10-22 50 → 2026-10-27 50（+0）
 
 
 ---

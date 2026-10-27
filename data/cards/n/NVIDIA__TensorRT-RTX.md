@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-RTX
 
-⭐ 114 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/NVIDIA/TensorRT-RTX) · [官网](https://developer.nvidia.com/tensorrt-rtx) · 组织维护
+⭐ 115 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/NVIDIA/TensorRT-RTX) · [官网](https://developer.nvidia.com/tensorrt-rtx) · 组织维护
 
 **面向 NVIDIA RTX GPU 的高性能 AI 推理 SDK（含开源组件）**
 
@@ -45,12 +45,12 @@ NVIDIA 官方的 TensorRT-RTX SDK 开源组件仓库：在 TensorRT 推理库基
 ```mermaid
 xychart-beta
     title "NVIDIA/TensorRT-RTX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 112 --> 115
-    line [113, 114, 114]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 112 --> 116
+    line [113, 114, 115]
 ```
 
-2026-10-18 113 → 2026-10-26 114（+1）
+2026-10-18 113 → 2026-10-27 115（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # oramasearch/orama
 
-⭐ 10,585 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/oramasearch/orama) · [官网](https://docs.orama.com/docs/orama-js) · 组织维护
+⭐ 10,587 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/oramasearch/orama) · [官网](https://docs.orama.com/docs/orama-js) · 组织维护
 
 **在浏览器/服务器/边缘运行的轻量全文+向量+混合搜索引擎库**
 
@@ -45,13 +45,13 @@ TypeScript 编写的嵌入式搜索引擎库，体积小于 2kb，支持全文�
 
 ```mermaid
 xychart-beta
-    title "oramasearch/orama 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 10577 --> 10586
-    line [10578, 10579, 10583, 10584, 10585]
+    title "oramasearch/orama 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 10577 --> 10588
+    line [10578, 10579, 10583, 10584, 10585, 10587]
 ```
 
-2026-10-18 10,578 → 2026-10-26 10,585（+7）
+2026-10-18 10,578 → 2026-10-27 10,587（+9）
 
 
 ---

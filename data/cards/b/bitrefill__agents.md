@@ -45,13 +45,13 @@ Bitrefill 官方发布的 Agent Skills 技能包，为 AI 编码 agent（Claude 
 
 ```mermaid
 xychart-beta
-    title "bitrefill/agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "bitrefill/agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 25 --> 29
-    line [26, 27, 28]
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-10-26 28（+2）
+2026-10-18 26 → 2026-10-27 28（+2）
 
 
 ---

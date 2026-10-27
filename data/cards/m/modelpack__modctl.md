@@ -1,6 +1,6 @@
 # modelpack/modctl
 
-⭐ 83 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelpack/modctl) · [官网](https://modelpack.github.io/modctl/) · 组织维护 · 中文 README
+⭐ 83 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelpack/modctl) · [官网](https://modelpack.github.io/modctl/) · 组织维护 · 中文 README
 
 **管理 OCI 模型制品的命令行工具（build/pull/push）**
 
@@ -44,12 +44,12 @@ ModelPack 维护的 CLI 工具 modctl，将按 Model Spec 打包的 AI 模型转
 ```mermaid
 xychart-beta
     title "modelpack/modctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-26 83（+0）
+2026-10-18 83 → 2026-10-27 83（+0）
 
 
 ---

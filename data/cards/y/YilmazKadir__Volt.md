@@ -1,6 +1,6 @@
 # YilmazKadir/Volt
 
-⭐ 192 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/YilmazKadir/Volt) · [官网](https://www.vision.rwth-aachen.de/Volt) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/YilmazKadir/Volt) · [官网](https://www.vision.rwth-aachen.de/Volt) · 组织维护
 
 **3D 场景理解的体素 Transformer 语义/实例分割模型官方实现**
 
@@ -45,12 +45,12 @@ ECCV 2026 论文 Volume Transformer (Volt) 的官方实现，基于 Pointcept �
 ```mermaid
 xychart-beta
     title "YilmazKadir/Volt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 191 --> 196
-    line [192, 194, 195, 192, 192]
+    line [192, 194, 195, 192, 193]
 ```
 
-2026-10-18 192 → 2026-10-26 192（+0）
+2026-10-18 192 → 2026-10-27 193（+1）
 
 
 ---

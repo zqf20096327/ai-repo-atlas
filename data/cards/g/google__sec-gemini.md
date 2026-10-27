@@ -1,6 +1,6 @@
 # google/sec-gemini
 
-⭐ 661 · Svelte · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/google/sec-gemini) · [官网](https://secgemini.google/) · 组织维护
+⭐ 662 · Svelte · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/google/sec-gemini) · [官网](https://secgemini.google/) · 组织维护
 
 **Google 安全 AI 模型 Sec-Gemini 的 Python/TS SDK 仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "google/sec-gemini 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 659 --> 662
-    line [661, 660, 661, 661]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 659 --> 663
+    line [661, 660, 661, 662]
 ```
 
-2026-10-18 661 → 2026-10-26 661（+0）
+2026-10-18 661 → 2026-10-27 662（+1）
 
 
 ---

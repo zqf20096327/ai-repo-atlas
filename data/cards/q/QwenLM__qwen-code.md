@@ -1,6 +1,6 @@
 # QwenLM/qwen-code
 
-⭐ 28,713 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
+⭐ 28,736 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
 
 **面向开发者的终端 AI 编码 agent，支持多模型多界面**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "QwenLM/qwen-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 28522 --> 28730
-    line [28539, 28585, 28627, 28655, 28671, 28697, 28713]
+    title "QwenLM/qwen-code 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28520 --> 28755
+    line [28539, 28585, 28627, 28655, 28671, 28697, 28713, 28736]
 ```
 
-2026-10-18 28,539 → 2026-10-26 28,713（+174）
+2026-10-18 28,539 → 2026-10-27 28,736（+197）
 
 
 ---

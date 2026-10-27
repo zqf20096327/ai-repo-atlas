@@ -1,6 +1,6 @@
 # Usagi-org/ai-goofish-monitor
 
-⭐ 15,146 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) · 组织维护 · 中文 README
+⭐ 15,167 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) · 组织维护 · 中文 README
 
 **面向闲鱼用户的商品实时监控与 AI 智能分析系统**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Usagi-org/ai-goofish-monitor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14950 --> 15163
-    line [14967, 15022, 15063, 15106, 15120, 15131, 15146]
+    title "Usagi-org/ai-goofish-monitor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14947 --> 15187
+    line [14967, 15022, 15063, 15106, 15120, 15131, 15146, 15167]
 ```
 
-2026-10-18 14,967 → 2026-10-26 15,146（+179）
+2026-10-18 14,967 → 2026-10-27 15,167（+200）
 
 
 ---

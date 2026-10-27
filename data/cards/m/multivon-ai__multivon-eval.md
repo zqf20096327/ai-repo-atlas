@@ -47,12 +47,12 @@ Python 测试库，用于评测 LLM 应用、RAG 系统与 agent：定义任务�
 ```mermaid
 xychart-beta
     title "multivon-ai/multivon-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

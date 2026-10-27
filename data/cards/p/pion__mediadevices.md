@@ -1,6 +1,6 @@
 # pion/mediadevices
 
-⭐ 648 · Go · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pion/mediadevices) · [官网](https://pion.ly/) · 组织维护
+⭐ 648 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pion/mediadevices) · [官网](https://pion.ly/) · 组织维护
 
 **Go 的 MediaDevices API 实现：访问摄像头/麦克风/屏幕并编码**
 
@@ -45,12 +45,12 @@ Pion 生态的 Go 库，实现浏览器 MediaDevices API，提供对摄像头、
 ```mermaid
 xychart-beta
     title "pion/mediadevices 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 647 --> 649
     line [648, 648]
 ```
 
-2026-10-18 648 → 2026-10-26 648（+0）
+2026-10-18 648 → 2026-10-27 648（+0）
 
 
 ---

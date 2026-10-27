@@ -1,6 +1,6 @@
 # DeadWaveWave/opencove
 
-⭐ 1,639 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/DeadWaveWave/opencove) · 组织维护 · 中文 README
+⭐ 1,640 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/DeadWaveWave/opencove) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的无限画布式空间开发工作区（桌面应用）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeadWaveWave/opencove 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1610 --> 1641
-    line [1612, 1624, 1631, 1633, 1634, 1637, 1639]
+    title "DeadWaveWave/opencove 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1610 --> 1642
+    line [1612, 1624, 1631, 1633, 1634, 1637, 1639, 1640]
 ```
 
-2026-10-18 1,612 → 2026-10-26 1,639（+27）
+2026-10-18 1,612 → 2026-10-27 1,640（+28）
 
 
 ---

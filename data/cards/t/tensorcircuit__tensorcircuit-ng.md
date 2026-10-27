@@ -1,6 +1,6 @@
 # tensorcircuit/tensorcircuit-ng
 
-⭐ 92 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tensorcircuit/tensorcircuit-ng) · [官网](https://tensorcircuit-ng.readthedocs.io/en/latest/platform/index.html) · 组织维护 · 中文 README
+⭐ 92 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tensorcircuit/tensorcircuit-ng) · [官网](https://tensorcircuit-ng.readthedocs.io/en/latest/platform/index.html) · 组织维护 · 中文 README
 
 **给量子研究者的张量网络量子电路模拟与AI工作流框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tensorcircuit/tensorcircuit-ng 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-26 92（+0）
+2026-10-18 92 → 2026-10-27 92（+0）
 
 
 ---

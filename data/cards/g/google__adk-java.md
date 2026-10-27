@@ -1,6 +1,6 @@
 # google/adk-java
 
-⭐ 1,753 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google/adk-java) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 1,755 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/adk-java) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **Google 开源的 Java 版 AI agent 构建工具包**
 
@@ -45,13 +45,13 @@ Agent Development Kit (ADK) 的 Java 实现：以代码优先方式在 Java 中�
 
 ```mermaid
 xychart-beta
-    title "google/adk-java 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "google/adk-java 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1751 --> 1757
-    line [1752, 1753, 1754, 1756, 1755, 1754, 1753]
+    line [1752, 1753, 1754, 1756, 1755, 1754, 1753, 1755]
 ```
 
-2026-10-18 1,752 → 2026-10-26 1,753（+1）
+2026-10-18 1,752 → 2026-10-27 1,755（+3）
 
 
 ---

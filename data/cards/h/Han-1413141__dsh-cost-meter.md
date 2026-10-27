@@ -1,6 +1,6 @@
 # Han-1413141/dsh-cost-meter
 
-⭐ 533 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Han-1413141/dsh-cost-meter) · 个人维护 · 中文 README
+⭐ 541 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Han-1413141/dsh-cost-meter) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的成本追踪插件：会话费用、token 用量与配额监控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Han-1413141/dsh-cost-meter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 436 --> 541
-    line [444, 466, 498, 507, 517, 533]
+    title "Han-1413141/dsh-cost-meter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 435 --> 550
+    line [444, 466, 498, 507, 517, 533, 541]
 ```
 
-2026-10-18 444 → 2026-10-26 533（+89）
+2026-10-18 444 → 2026-10-27 541（+97）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZhuofanWu/TaxiAgent
 
-⭐ 103 · Java · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ZhuofanWu/TaxiAgent) · 个人维护 · 中文 README
+⭐ 104 · Java · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ZhuofanWu/TaxiAgent) · 个人维护 · 中文 README
 
 **网约车业务全栈实战项目：Redis 高并发 + 多 Agent + RAG**
 
@@ -47,12 +47,12 @@ Spring Boot 3 全栈实战项目，同一套网约车业务代码承载两条学
 ```mermaid
 xychart-beta
     title "ZhuofanWu/TaxiAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 102 --> 105
+    line [103, 104]
 ```
 
-2026-10-18 103 → 2026-10-26 103（+0）
+2026-10-18 103 → 2026-10-27 104（+1）
 
 
 ---

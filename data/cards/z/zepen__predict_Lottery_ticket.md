@@ -1,6 +1,6 @@
 # zepen/predict_Lottery_ticket
 
-⭐ 1,052 · Python · 推送 2026-09-10 · [GitHub](https://github.com/zepen/predict_Lottery_ticket) · [官网](https://www.ai-spinach.xyz) · 个人维护 · 中文 README
+⭐ 1,054 · Python · 推送 2026-09-10 · [GitHub](https://github.com/zepen/predict_Lottery_ticket) · [官网](https://www.ai-spinach.xyz) · 个人维护 · 中文 README
 
 **基于 LSTM+CRF 的彩票号码预测实验项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zepen/predict_Lottery_ticket 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1049 --> 1053
-    line [1050, 1051, 1050, 1052]
+    title "zepen/predict_Lottery_ticket 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1049 --> 1055
+    line [1050, 1051, 1050, 1052, 1054]
 ```
 
-2026-10-18 1,050 → 2026-10-26 1,052（+2）
+2026-10-18 1,050 → 2026-10-27 1,054（+4）
 
 
 ---

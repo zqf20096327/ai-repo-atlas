@@ -1,6 +1,6 @@
 # Mars-Sea/dsh-commandcode-provider
 
-⭐ 435 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Mars-Sea/dsh-commandcode-provider) · [官网](https://www.npmjs.com/package/@mars-sea/dsh-commandcode-provider) · 个人维护 · 中文 README
+⭐ 439 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Mars-Sea/dsh-commandcode-provider) · [官网](https://www.npmjs.com/package/@mars-sea/dsh-commandcode-provider) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 接入 Command Code 模型的 dsh 插件**
 
@@ -44,13 +44,13 @@ DeepSeek Harness (dsh) 的非官方 LLM provider 插件，将 Command Code 模�
 
 ```mermaid
 xychart-beta
-    title "Mars-Sea/dsh-commandcode-provider 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 400 --> 438
-    line [403, 413, 427, 429, 433, 435]
+    title "Mars-Sea/dsh-commandcode-provider 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 400 --> 442
+    line [403, 413, 427, 429, 433, 435, 439]
 ```
 
-2026-10-18 403 → 2026-10-26 435（+32）
+2026-10-18 403 → 2026-10-27 439（+36）
 
 
 ---

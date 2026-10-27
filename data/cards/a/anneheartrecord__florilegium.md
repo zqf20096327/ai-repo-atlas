@@ -1,6 +1,6 @@
 # anneheartrecord/florilegium
 
-⭐ 35 · Shell · MIT · 推送 2026-08-29 · [GitHub](https://github.com/anneheartrecord/florilegium) · 个人维护 · 中文 README
+⭐ 35 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anneheartrecord/florilegium) · 个人维护 · 中文 README
 
 **本地 agent workflow：视频链接/文字稿转成 Obsidian 阅读笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anneheartrecord/florilegium 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 15 --> 36
     line [16, 19, 32, 35, 35]
 ```
 
-2026-10-18 16 → 2026-10-26 35（+19）
+2026-10-18 16 → 2026-10-27 35（+19）
 
 
 ---

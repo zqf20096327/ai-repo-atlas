@@ -1,6 +1,6 @@
 # LearnPrompt/LearnPrompt
 
-⭐ 2,717 · MDX · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/LearnPrompt/LearnPrompt) · [官网](https://www.learnprompt.pro/) · 个人维护 · 中文 README
+⭐ 2,719 · MDX · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/LearnPrompt/LearnPrompt) · [官网](https://www.learnprompt.pro/) · 个人维护 · 中文 README
 
 **永久免费开源的中文 AI 实战教程站（LearnPrompt）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LearnPrompt/LearnPrompt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2703 --> 2718
-    line [2704, 2708, 2713, 2714, 2716, 2717]
+    title "LearnPrompt/LearnPrompt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2703 --> 2720
+    line [2704, 2708, 2713, 2714, 2716, 2717, 2719]
 ```
 
-2026-10-18 2,704 → 2026-10-26 2,717（+13）
+2026-10-18 2,704 → 2026-10-27 2,719（+15）
 
 
 ---

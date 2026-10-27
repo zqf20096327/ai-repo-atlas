@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DeepLearningForPhysicsResearchBook/deep-learning-physics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-10-26 78（+1）
+2026-10-18 77 → 2026-10-27 78（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kamra-PMS/kamra-pms
 
-⭐ 69 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Kamra-PMS/kamra-pms) · [官网](https://kamrapms.com) · 组织维护
+⭐ 71 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kamra-PMS/kamra-pms) · [官网](https://kamrapms.com) · 组织维护
 
 **开源酒店/民宿 PMS：前台、账务、POS 与供 AI 代理调用的 MCP 层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kamra-PMS/kamra-pms 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 68 --> 71
-    line [70, 69, 69]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 68 --> 72
+    line [70, 69, 71]
 ```
 
-2026-10-22 70 → 2026-10-26 69（-1）
+2026-10-22 70 → 2026-10-27 71（+1）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Poyu123/CNN-application-on-CRFAR10-picture-distinguish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

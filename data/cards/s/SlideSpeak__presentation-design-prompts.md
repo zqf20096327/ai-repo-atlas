@@ -1,6 +1,6 @@
 # SlideSpeak/presentation-design-prompts
 
-⭐ 188 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/SlideSpeak/presentation-design-prompts) · [官网](https://slidespeak.co/slide-design-prompts?utm-source=github) · 组织维护
+⭐ 189 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/SlideSpeak/presentation-design-prompts) · [官网](https://slidespeak.co/slide-design-prompts?utm-source=github) · 组织维护
 
 **幻灯片设计提示词库：128 套主题供粘贴到 AI 聊天工具**
 
@@ -45,13 +45,13 @@ SlideSpeak 维护的演示文稿设计提示词集合：每套主题是一个完
 
 ```mermaid
 xychart-beta
-    title "SlideSpeak/presentation-design-prompts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 179 --> 189
-    line [180, 182, 183, 187, 188]
+    title "SlideSpeak/presentation-design-prompts 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 179 --> 190
+    line [180, 182, 183, 187, 188, 189]
 ```
 
-2026-10-18 180 → 2026-10-26 188（+8）
+2026-10-18 180 → 2026-10-27 189（+9）
 
 
 ---

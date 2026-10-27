@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.7
 
-⭐ 365 · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护 · 中文 README
+⭐ 365 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护 · 中文 README
 
 **MiniMax 开源的 M2.7 大语言模型权重，面向 agent 与工程任务**
 
@@ -44,13 +44,13 @@ MiniMax 公司发布的开源权重大语言模型 M2.7，官方 README 描述�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-M2.7 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "MiniMax-AI/MiniMax-M2.7 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 362 --> 366
-    line [364, 363, 364, 365]
+    line [364, 363, 364, 365, 365]
 ```
 
-2026-10-18 364 → 2026-10-26 365（+1）
+2026-10-18 364 → 2026-10-27 365（+1）
 
 
 ---

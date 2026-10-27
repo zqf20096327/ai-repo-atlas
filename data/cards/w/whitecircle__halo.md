@@ -1,6 +1,6 @@
 # whitecircle/halo
 
-⭐ 834 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
+⭐ 833 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
 
 **训练 LLM 与多模态模型的开源框架**
 
@@ -46,12 +46,12 @@ White Circle 开发的训练框架，覆盖预训练、SFT、偏好优化与全�
 ```mermaid
 xychart-beta
     title "whitecircle/halo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 824 --> 835
-    line [825, 827, 833, 834, 834]
+    line [825, 827, 833, 834, 833]
 ```
 
-2026-10-18 825 → 2026-10-26 834（+9）
+2026-10-18 825 → 2026-10-27 833（+8）
 
 
 ---

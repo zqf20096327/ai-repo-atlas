@@ -1,6 +1,6 @@
 # NativeMindBrowser/NativeMindExtension
 
-⭐ 1,135 · TypeScript · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/NativeMindBrowser/NativeMindExtension) · [官网](https://nativemind.app) · 组织维护
+⭐ 1,136 · TypeScript · AGPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/NativeMindBrowser/NativeMindExtension) · [官网](https://nativemind.app) · 组织维护
 
 **在浏览器本地运行 LLM 的隐私优先 AI 助手扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NativeMindBrowser/NativeMindExtension 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1131 --> 1136
-    line [1133, 1132, 1134, 1135]
+    title "NativeMindBrowser/NativeMindExtension 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1131 --> 1137
+    line [1133, 1132, 1134, 1135, 1136]
 ```
 
-2026-10-18 1,133 → 2026-10-26 1,135（+2）
+2026-10-18 1,133 → 2026-10-27 1,136（+3）
 
 
 ---

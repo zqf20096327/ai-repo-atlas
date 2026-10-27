@@ -46,12 +46,12 @@ Mastercard 官方维护的 agent 工具包：提供一个基于 Model Context Pr
 ```mermaid
 xychart-beta
     title "Mastercard/developers-agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-26 55（+0）
+2026-10-18 55 → 2026-10-27 55（+0）
 
 
 ---

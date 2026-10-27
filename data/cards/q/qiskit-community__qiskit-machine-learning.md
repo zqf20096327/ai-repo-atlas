@@ -1,6 +1,6 @@
 # qiskit-community/qiskit-machine-learning
 
-⭐ 1,110 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/qiskit-community/qiskit-machine-learning) · [官网](https://qiskit-community.github.io/qiskit-machine-learning/) · 组织维护
+⭐ 1,111 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/qiskit-community/qiskit-machine-learning) · [官网](https://qiskit-community.github.io/qiskit-machine-learning/) · 组织维护
 
 **基于 Qiskit 的量子机器学习库：量子核与量子神经网络**
 
@@ -45,12 +45,12 @@ Qiskit 社区生态下的量子机器学习 Python 库，由 IBM 与英国 Hartr
 ```mermaid
 xychart-beta
     title "qiskit-community/qiskit-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1109 --> 1111
-    line [1110, 1110]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1109 --> 1112
+    line [1110, 1111]
 ```
 
-2026-10-18 1,110 → 2026-10-26 1,110（+0）
+2026-10-18 1,110 → 2026-10-27 1,111（+1）
 
 
 ---

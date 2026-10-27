@@ -1,6 +1,6 @@
 # mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP
 
-⭐ 28 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP) · 个人维护
 
 **在 ComfyUI 中运行 Qwen-Image 2.1 官方提示词增强器的节点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-10-26 28（+1）
+2026-10-18 27 → 2026-10-27 29（+2）
 
 
 ---

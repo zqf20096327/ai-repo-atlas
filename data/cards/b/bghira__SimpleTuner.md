@@ -1,6 +1,6 @@
 # bghira/SimpleTuner
 
-⭐ 2,945 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/bghira/SimpleTuner) · 组织维护
+⭐ 2,946 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/bghira/SimpleTuner) · 组织维护
 
 **面向图像/视频/音频扩散模型的通用微调工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bghira/SimpleTuner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 2939 --> 2946
-    line [2940, 2941, 2945, 2944, 2945]
+    title "bghira/SimpleTuner 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2939 --> 2947
+    line [2940, 2941, 2945, 2944, 2945, 2946]
 ```
 
-2026-10-18 2,940 → 2026-10-26 2,945（+5）
+2026-10-18 2,940 → 2026-10-27 2,946（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # dramaclaw/dramaclaw
 
-⭐ 6,449 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
+⭐ 6,470 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
 
 **开源可自部署的 AIGC 视频生产引擎：从剧本到成片**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dramaclaw/dramaclaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6314 --> 6461
-    line [6326, 6363, 6387, 6407, 6423, 6430, 6449]
+    title "dramaclaw/dramaclaw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6312 --> 6484
+    line [6326, 6363, 6387, 6407, 6423, 6430, 6449, 6470]
 ```
 
-2026-10-18 6,326 → 2026-10-26 6,449（+123）
+2026-10-18 6,326 → 2026-10-27 6,470（+144）
 
 
 ---

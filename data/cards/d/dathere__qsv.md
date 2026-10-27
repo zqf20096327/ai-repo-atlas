@@ -1,6 +1,6 @@
 # dathere/qsv
 
-⭐ 3,814 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
+⭐ 3,816 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
 
 **命令行数据清洗工具集，处理/校验/富化 CSV 等表格数据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dathere/qsv 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 3809 --> 3815
-    line [3810, 3811, 3813, 3814]
+    title "dathere/qsv 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3809 --> 3817
+    line [3810, 3811, 3813, 3814, 3816]
 ```
 
-2026-10-18 3,810 → 2026-10-26 3,814（+4）
+2026-10-18 3,810 → 2026-10-27 3,816（+6）
 
 
 ---

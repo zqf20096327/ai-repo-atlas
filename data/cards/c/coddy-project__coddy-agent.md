@@ -1,6 +1,6 @@
 # coddy-project/coddy-agent
 
-⭐ 187 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/coddy-project/coddy-agent) · [官网](https://coddy.dev) · 组织维护
+⭐ 187 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/coddy-project/coddy-agent) · [官网](https://coddy.dev) · 组织维护
 
 **单二进制通用 AI agent：终端/编辑器/浏览器/Telegram 多端接入**
 
@@ -46,13 +46,13 @@ Go 编写的单静态二进制通用 agent 框架（harness），同一 agent �
 
 ```mermaid
 xychart-beta
-    title "coddy-project/coddy-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "coddy-project/coddy-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 178 --> 188
-    line [179, 181, 183, 187]
+    line [179, 181, 183, 187, 187]
 ```
 
-2026-10-18 179 → 2026-10-26 187（+8）
+2026-10-18 179 → 2026-10-27 187（+8）
 
 
 ---

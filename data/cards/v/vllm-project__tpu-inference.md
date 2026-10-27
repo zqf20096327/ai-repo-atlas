@@ -1,6 +1,6 @@
 # vllm-project/tpu-inference
 
-⭐ 467 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/tpu-inference) · [官网](https://docs.vllm.ai/projects/tpu) · 组织维护
+⭐ 467 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/tpu-inference) · [官网](https://docs.vllm.ai/projects/tpu) · 组织维护
 
 **在 Google TPU 上以 vLLM 服务 JAX/PyTorch 模型的统一后端**
 
@@ -46,12 +46,12 @@ vllm-jax（原 tpu-inference）是 vLLM 项目内的硬件插件，通过单一 
 ```mermaid
 xychart-beta
     title "vllm-project/tpu-inference 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 462 --> 468
     line [463, 464, 465, 466, 467, 467]
 ```
 
-2026-10-18 463 → 2026-10-26 467（+4）
+2026-10-18 463 → 2026-10-27 467（+4）
 
 
 ---

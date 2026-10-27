@@ -43,13 +43,13 @@ Claude Code 的 YouTube 插件：以两个技能与一个 agent 的形式封装�
 
 ```mermaid
 xychart-beta
-    title "JCodesMore/youtube-for-ai-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "JCodesMore/youtube-for-ai-agents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 54 --> 61
-    line [55, 56, 58, 60]
+    line [55, 56, 58, 60, 60]
 ```
 
-2026-10-18 55 → 2026-10-26 60（+5）
+2026-10-18 55 → 2026-10-27 60（+5）
 
 
 ---

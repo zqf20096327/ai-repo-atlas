@@ -1,6 +1,6 @@
 # thushan/olla
 
-⭐ 319 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 组织维护
+⭐ 319 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 组织维护
 
 **自托管 LLM 推理后端的代理与负载均衡器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thushan/olla 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "thushan/olla 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 318 --> 322
-    line [319, 321, 320, 319]
+    line [319, 321, 320, 319, 319]
 ```
 
-2026-10-18 319 → 2026-10-26 319（+0）
+2026-10-18 319 → 2026-10-27 319（+0）
 
 
 ---

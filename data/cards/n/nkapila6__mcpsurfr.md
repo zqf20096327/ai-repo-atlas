@@ -1,6 +1,6 @@
 # nkapila6/mcpsurfr
 
-⭐ 135 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nkapila6/mcpsurfr) · 个人维护
+⭐ 144 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nkapila6/mcpsurfr) · 个人维护
 
 **本地网页搜索 MCP 服务器：LLM 无 API key 联网检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nkapila6/mcpsurfr 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 133 --> 145
+    line [134, 135, 144]
 ```
 
-2026-10-24 134 → 2026-10-26 135（+1）
+2026-10-24 134 → 2026-10-27 144（+10）
 
 
 ---

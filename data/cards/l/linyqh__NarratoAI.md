@@ -1,6 +1,6 @@
 # linyqh/NarratoAI
 
-⭐ 11,535 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/linyqh/NarratoAI) · [官网](https://www.narratoai.cn) · 个人维护 · 中文 README
+⭐ 11,553 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/linyqh/NarratoAI) · [官网](https://www.narratoai.cn) · 个人维护 · 中文 README
 
 **面向内容创作者的 AI 影视解说与自动化剪辑工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linyqh/NarratoAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11425 --> 11545
-    line [11435, 11464, 11500, 11514, 11521, 11535]
+    title "linyqh/NarratoAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11424 --> 11564
+    line [11435, 11464, 11500, 11514, 11521, 11535, 11553]
 ```
 
-2026-10-18 11,435 → 2026-10-26 11,535（+100）
+2026-10-18 11,435 → 2026-10-27 11,553（+118）
 
 
 ---

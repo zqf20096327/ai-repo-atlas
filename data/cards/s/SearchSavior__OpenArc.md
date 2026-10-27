@@ -1,6 +1,6 @@
 # SearchSavior/OpenArc
 
-⭐ 545 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/SearchSavior/OpenArc) · [官网](https://searchsavior.github.io/OpenArc/) · 组织维护
+⭐ 544 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/SearchSavior/OpenArc) · [官网](https://searchsavior.github.io/OpenArc/) · 组织维护
 
 **面向 Intel 设备的推理引擎，经 OpenAI 兼容端点服务多种模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SearchSavior/OpenArc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "SearchSavior/OpenArc 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 539 --> 546
-    line [540, 543, 544, 545]
+    line [540, 543, 544, 545, 544]
 ```
 
-2026-10-18 540 → 2026-10-26 545（+5）
+2026-10-18 540 → 2026-10-27 544（+4）
 
 
 ---

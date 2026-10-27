@@ -1,6 +1,6 @@
 # widget-js/widgets
 
-⭐ 740 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/widget-js/widgets) · [官网](https://widget-js.github.io/widgets/#/) · 组织维护 · 中文 README
+⭐ 741 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/widget-js/widgets) · [官网](https://widget-js.github.io/widgets/#/) · 组织维护 · 中文 README
 
 **Windows 桌面组件应用：内置多种小组件并支持 AI 生成新组件**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "widget-js/widgets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 739 --> 741
-    line [740, 740]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 739 --> 742
+    line [740, 741]
 ```
 
-2026-10-18 740 → 2026-10-26 740（+0）
+2026-10-18 740 → 2026-10-27 741（+1）
 
 
 ---

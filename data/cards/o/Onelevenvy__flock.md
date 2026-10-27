@@ -1,6 +1,6 @@
 # Onelevenvy/flock
 
-⭐ 1,125 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/Onelevenvy/flock) · 个人维护 · 中文 README
+⭐ 1,126 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/Onelevenvy/flock) · 个人维护 · 中文 README
 
 **桌面端多 agent 编排工具：可视化工作流+沙箱运行 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Onelevenvy/flock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1119 --> 1126
-    line [1120, 1123, 1125, 1125]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1119 --> 1127
+    line [1120, 1123, 1125, 1126]
 ```
 
-2026-10-18 1,120 → 2026-10-26 1,125（+5）
+2026-10-18 1,120 → 2026-10-27 1,126（+6）
 
 
 ---

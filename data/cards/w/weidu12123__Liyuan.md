@@ -1,6 +1,6 @@
 # weidu12123/Liyuan
 
-⭐ 286 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/weidu12123/Liyuan) · 个人维护 · 中文 README
+⭐ 288 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/weidu12123/Liyuan) · 个人维护 · 中文 README
 
 **面向角色扮演用户的 RP Agent 应用，将编码 agent 机制引入叙事**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "weidu12123/Liyuan 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 278 --> 287
-    line [279, 282, 284, 285, 286]
+    title "weidu12123/Liyuan 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 278 --> 289
+    line [279, 282, 284, 285, 286, 288]
 ```
 
-2026-10-18 279 → 2026-10-26 286（+7）
+2026-10-18 279 → 2026-10-27 288（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # skydashnet/material-design-3-ui-skill
 
-⭐ 155 · PowerShell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/skydashnet/material-design-3-ui-skill) · 个人维护
+⭐ 156 · PowerShell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/skydashnet/material-design-3-ui-skill) · 个人维护
 
 **面向 AI 编码代理的 Material Design 3 设计决策技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "skydashnet/material-design-3-ui-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 148 --> 156
-    line [149, 151, 152, 154, 155]
+    title "skydashnet/material-design-3-ui-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 148 --> 157
+    line [149, 151, 152, 154, 155, 156]
 ```
 
-2026-10-18 149 → 2026-10-26 155（+6）
+2026-10-18 149 → 2026-10-27 156（+7）
 
 
 ---

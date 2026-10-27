@@ -1,6 +1,6 @@
 # zJay26/douyin-skills
 
-⭐ 59 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/zJay26/douyin-skills) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/zJay26/douyin-skills) · 个人维护 · 中文 README
 
 **面向 agent 的抖音网页操作技能包：本地浏览器执行、人工确认**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zJay26/douyin-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 60（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/intelligent-terminal
 
-⭐ 2,079 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/intelligent-terminal) · [官网](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) · 组织维护
+⭐ 2,080 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/intelligent-terminal) · [官网](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) · 组织维护
 
 **带原生 Agent 集成的 Windows Terminal 实验性分支**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/intelligent-terminal 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2056 --> 2081
-    line [2058, 2065, 2069, 2074, 2075, 2079, 2079]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2056 --> 2082
+    line [2058, 2065, 2069, 2074, 2075, 2079, 2080]
 ```
 
-2026-10-18 2,058 → 2026-10-26 2,079（+21）
+2026-10-18 2,058 → 2026-10-27 2,080（+22）
 
 
 ---

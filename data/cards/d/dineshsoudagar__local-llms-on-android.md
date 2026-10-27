@@ -1,6 +1,6 @@
 # dineshsoudagar/local-llms-on-android
 
-⭐ 464 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dineshsoudagar/local-llms-on-android) · 个人维护
+⭐ 466 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dineshsoudagar/local-llms-on-android) · 个人维护
 
 **在 Android 手机上离线运行本地 LLM 聊天与局域网推理服务器的应用**
 
@@ -46,13 +46,13 @@ Android 应用，把手机变成本地 LLM 运行环境：应用内或 PC 浏览
 
 ```mermaid
 xychart-beta
-    title "dineshsoudagar/local-llms-on-android 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 455 --> 465
-    line [456, 459, 461, 462, 463, 464]
+    title "dineshsoudagar/local-llms-on-android 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 455 --> 467
+    line [456, 459, 461, 462, 463, 464, 466]
 ```
 
-2026-10-18 456 → 2026-10-26 464（+8）
+2026-10-18 456 → 2026-10-27 466（+10）
 
 
 ---

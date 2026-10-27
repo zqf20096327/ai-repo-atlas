@@ -45,12 +45,12 @@ Codespaces 就绪的练习工作区：预配置含 Zava 公司销售/客服/产�
 ```mermaid
 xychart-beta
     title "microsoft/sql-ai-promptathon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 49（+0）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "apoapostolov/hermes-agent-awesome-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "apoapostolov/hermes-agent-awesome-plugins 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 29 --> 38
-    line [30, 35, 36, 37]
+    line [30, 35, 36, 37, 37]
 ```
 
-2026-10-18 30 → 2026-10-26 37（+7）
+2026-10-18 30 → 2026-10-27 37（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # SenteLabsAI/OpenExecutive
 
-⭐ 5,667 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/SenteLabsAI/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
+⭐ 5,674 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SenteLabsAI/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
 
 **开源虚拟高管团队：一个统一决策人设背后由 9 个专家 agent 支撑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SenteLabsAI/OpenExecutive 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5609 --> 5672
-    line [5614, 5629, 5636, 5650, 5660, 5658, 5667]
+    title "SenteLabsAI/OpenExecutive 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5608 --> 5680
+    line [5614, 5629, 5636, 5650, 5660, 5658, 5667, 5674]
 ```
 
-2026-10-18 5,614 → 2026-10-26 5,667（+53）
+2026-10-18 5,614 → 2026-10-27 5,674（+60）
 
 
 ---

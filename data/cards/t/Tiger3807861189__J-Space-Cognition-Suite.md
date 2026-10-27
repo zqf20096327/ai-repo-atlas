@@ -1,6 +1,6 @@
 # Tiger3807861189/J-Space-Cognition-Suite
 
-⭐ 2,962 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) · 个人维护 · 中文 README
+⭐ 2,960 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) · 个人维护 · 中文 README
 
 **给 agent 宿主的推理时控制技能套件：长任务决策与证据管控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tiger3807861189/J-Space-Cognition-Suite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2961 --> 2975
-    line [2974, 2972, 2968, 2965, 2963, 2962]
+    title "Tiger3807861189/J-Space-Cognition-Suite 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2959 --> 2975
+    line [2974, 2972, 2968, 2965, 2963, 2962, 2960]
 ```
 
-2026-10-18 2,974 → 2026-10-26 2,962（-12）
+2026-10-18 2,974 → 2026-10-27 2,960（-14）
 
 
 ---

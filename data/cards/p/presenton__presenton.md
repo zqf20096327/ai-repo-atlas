@@ -1,6 +1,6 @@
 # presenton/presenton
 
-⭐ 11,334 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
+⭐ 11,383 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
 
 **开源 AI 演示文稿生成器与 API，自托管生成 PPTX**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "presenton/presenton 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11153 --> 11350
-    line [11169, 11216, 11252, 11275, 11291, 11304, 11334]
+    title "presenton/presenton 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11148 --> 11404
+    line [11169, 11216, 11252, 11275, 11291, 11304, 11334, 11383]
 ```
 
-2026-10-18 11,169 → 2026-10-26 11,334（+165）
+2026-10-18 11,169 → 2026-10-27 11,383（+214）
 
 
 ---

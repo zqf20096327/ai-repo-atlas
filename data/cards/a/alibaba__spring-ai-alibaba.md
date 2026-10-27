@@ -1,6 +1,6 @@
 # alibaba/spring-ai-alibaba
 
-⭐ 11,059 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 11,065 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
 **面向 Java 开发者的 Agentic AI 应用开发框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/spring-ai-alibaba 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 11027 --> 11063
-    line [11030, 11035, 11045, 11053, 11060, 11059]
+    title "alibaba/spring-ai-alibaba 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11027 --> 11068
+    line [11030, 11035, 11045, 11053, 11060, 11059, 11065]
 ```
 
-2026-10-18 11,030 → 2026-10-26 11,059（+29）
+2026-10-18 11,030 → 2026-10-27 11,065（+35）
 
 
 ---

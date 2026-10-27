@@ -1,6 +1,6 @@
 # MedMaxLab/selfEEG
 
-⭐ 75 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/MedMaxLab/selfEEG) · [官网](https://selfeeg.readthedocs.io/en/latest/) · 组织维护
+⭐ 75 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MedMaxLab/selfEEG) · [官网](https://selfeeg.readthedocs.io/en/latest/) · 组织维护
 
 **面向 EEG 数据自监督学习实验的 PyTorch 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MedMaxLab/selfEEG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-10-26 75（+0）
+2026-10-18 75 → 2026-10-27 75（+0）
 
 
 ---

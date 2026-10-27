@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "namin/llm-verified-with-monte-carlo-tree-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 294 --> 296
     line [295, 295]
 ```
 
-2026-10-18 295 → 2026-10-26 295（+0）
+2026-10-18 295 → 2026-10-27 295（+0）
 
 
 ---

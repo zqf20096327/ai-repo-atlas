@@ -1,6 +1,6 @@
 # insight-platform/Savant
 
-⭐ 863 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/insight-platform/Savant) · [官网](https://savant-ai.io) · 组织维护
+⭐ 864 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/insight-platform/Savant) · [官网](https://savant-ai.io) · 组织维护
 
 **面向开发者的实时视频分析与计算机视觉流水线框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "insight-platform/Savant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 862 --> 864
-    line [863, 863]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 862 --> 865
+    line [863, 864]
 ```
 
-2026-10-18 863 → 2026-10-26 863（+0）
+2026-10-18 863 → 2026-10-27 864（+1）
 
 
 ---

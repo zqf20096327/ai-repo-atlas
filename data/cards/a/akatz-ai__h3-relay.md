@@ -1,6 +1,6 @@
 # akatz-ai/h3-relay
 
-⭐ 36 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/akatz-ai/h3-relay) · 组织维护
+⭐ 38 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/akatz-ai/h3-relay) · 组织维护
 
 **ComfyUI 节点包：分阶段、可恢复的 MiniMax H3 视频工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "akatz-ai/h3-relay 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 29 --> 37
-    line [30, 34, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 29 --> 39
+    line [30, 34, 35, 36, 38]
 ```
 
-2026-10-18 30 → 2026-10-26 36（+6）
+2026-10-18 30 → 2026-10-27 38（+8）
 
 
 ---

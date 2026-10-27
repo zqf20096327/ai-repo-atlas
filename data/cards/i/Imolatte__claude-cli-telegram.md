@@ -45,12 +45,12 @@ Node.js 编写的 Telegram bot，在用户本机或服务器上启动真实的 C
 ```mermaid
 xychart-beta
     title "Imolatte/claude-cli-telegram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

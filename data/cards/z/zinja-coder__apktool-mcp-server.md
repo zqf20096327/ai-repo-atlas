@@ -1,6 +1,6 @@
 # zinja-coder/apktool-mcp-server
 
-⭐ 678 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/zinja-coder/apktool-mcp-server) · 个人维护
+⭐ 677 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/zinja-coder/apktool-mcp-server) · 个人维护
 
 **把 apktool 接入 LLM 的 MCP 服务器：对话式逆向分析 Android APK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zinja-coder/apktool-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 672 --> 680
-    line [673, 675, 676, 677, 679, 678, 678]
+    line [673, 675, 676, 677, 679, 678, 677]
 ```
 
-2026-10-18 673 → 2026-10-26 678（+5）
+2026-10-18 673 → 2026-10-27 677（+4）
 
 
 ---

@@ -46,12 +46,12 @@ Python 编写的命令行 ChatGPT 客户端，通过官方 OpenAI API（或 Azur
 ```mermaid
 xychart-beta
     title "marcolardera/chatgpt-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 474 --> 476
     line [475, 475]
 ```
 
-2026-10-18 475 → 2026-10-26 475（+0）
+2026-10-18 475 → 2026-10-27 475（+0）
 
 
 ---

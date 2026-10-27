@@ -47,12 +47,12 @@ MathWorks 官方的 MATLAB 附加工具，用于在 MATLAB 环境中构建和运
 ```mermaid
 xychart-beta
     title "matlab/matlab-ai-agent-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 57（+0）
 
 
 ---

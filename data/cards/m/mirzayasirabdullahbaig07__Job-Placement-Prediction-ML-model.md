@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model
 
-⭐ 45 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) · [官网](https://job-placement-prediction-ml-model-007.streamlit.app/) · 个人维护
+⭐ 46 · Jupyter Notebook · 推送 2025-11-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model) · [官网](https://job-placement-prediction-ml-model-007.streamlit.app/) · 个人维护
 
 **Streamlit Web 应用：预测求职者能否被录用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/Job-Placement-Prediction-ML-model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 46（+1）
 
 
 ---

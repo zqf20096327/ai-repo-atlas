@@ -1,6 +1,6 @@
 # microsoft/FoundryLocalAndroid
 
-⭐ 54 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/FoundryLocalAndroid) · 组织维护
+⭐ 55 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/FoundryLocalAndroid) · 组织维护
 
 **面向 Android 开发者的端侧生成式 AI 推理 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/FoundryLocalAndroid 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 46 --> 55
-    line [47, 50, 51, 52, 53, 54]
+    title "microsoft/FoundryLocalAndroid 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 46 --> 56
+    line [47, 50, 51, 52, 53, 54, 55]
 ```
 
-2026-10-18 47 → 2026-10-26 54（+7）
+2026-10-18 47 → 2026-10-27 55（+8）
 
 
 ---

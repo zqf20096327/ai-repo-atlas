@@ -1,6 +1,6 @@
 # IBM/mcp-context-forge
 
-⭐ 4,687 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/IBM/mcp-context-forge) · [官网](https://ibm.github.io/mcp-context-forge/) · 组织维护
+⭐ 4,699 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/IBM/mcp-context-forge) · [官网](https://ibm.github.io/mcp-context-forge/) · 组织维护
 
 **IBM 开源的 MCP/A2A/REST 联邦网关与注册中心**
 
@@ -45,13 +45,13 @@ ContextForge 是开源的 AI 网关、注册中心与代理，将 MCP 服务器�
 
 ```mermaid
 xychart-beta
-    title "IBM/mcp-context-forge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4642 --> 4691
-    line [4646, 4655, 4673, 4680, 4685, 4687]
+    title "IBM/mcp-context-forge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4641 --> 4704
+    line [4646, 4655, 4673, 4680, 4685, 4687, 4699]
 ```
 
-2026-10-18 4,646 → 2026-10-26 4,687（+41）
+2026-10-18 4,646 → 2026-10-27 4,699（+53）
 
 
 ---

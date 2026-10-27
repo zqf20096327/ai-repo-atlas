@@ -1,6 +1,6 @@
 # oliver-kriska/scribe
 
-⭐ 67 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/oliver-kriska/scribe) · [官网](https://getscribe.dev/) · 个人维护
+⭐ 67 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/oliver-kriska/scribe) · [官网](https://getscribe.dev/) · 个人维护
 
 **自动构建跨项目个人知识库的单二进制 CLI，供编码 agent 检索**
 
@@ -47,12 +47,12 @@ scribe 是 Go 编写的单二进制 CLI：从 git 仓库、ccrider 索引的编�
 ```mermaid
 xychart-beta
     title "oliver-kriska/scribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 65 --> 68
     line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-10-26 67（+1）
+2026-10-18 66 → 2026-10-27 67（+1）
 
 
 ---

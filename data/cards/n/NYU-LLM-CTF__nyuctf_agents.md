@@ -1,6 +1,6 @@
 # NYU-LLM-CTF/nyuctf_agents
 
-⭐ 172 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents) · [官网](https://nyu-llm-ctf.github.io) · 组织维护
+⭐ 174 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/NYU-LLM-CTF/nyuctf_agents) · [官网](https://nyu-llm-ctf.github.io) · 组织维护
 
 **解 CTF 题目的 LLM 多智能体框架（D-CIPHER 与基线）**
 
@@ -45,12 +45,12 @@ NYU CTF Bench 配套的自动化解题智能体仓库，含 D-CIPHER 多智能�
 ```mermaid
 xychart-beta
     title "NYU-LLM-CTF/nyuctf_agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 169 --> 173
-    line [170, 171, 172, 172]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 169 --> 175
+    line [170, 171, 172, 174]
 ```
 
-2026-10-18 170 → 2026-10-26 172（+2）
+2026-10-18 170 → 2026-10-27 174（+4）
 
 
 ---

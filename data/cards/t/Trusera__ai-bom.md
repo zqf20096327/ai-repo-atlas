@@ -1,6 +1,6 @@
 # Trusera/ai-bom
 
-⭐ 348 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/Trusera/ai-bom) · [官网](https://trusera.dev) · 组织维护
+⭐ 350 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/Trusera/ai-bom) · [官网](https://trusera.dev) · 组织维护
 
 **扫描代码库发现 AI 组件并生成合规 AI-BOM 的 CLI 工具**
 
@@ -44,13 +44,13 @@ Python CLI 工具 ai-bom：通过 13 个自动注册的扫描器分析源码、D
 
 ```mermaid
 xychart-beta
-    title "Trusera/ai-bom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 345 --> 349
-    line [346, 347, 348]
+    title "Trusera/ai-bom 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 345 --> 351
+    line [346, 347, 348, 350]
 ```
 
-2026-10-18 346 → 2026-10-26 348（+2）
+2026-10-18 346 → 2026-10-27 350（+4）
 
 
 ---

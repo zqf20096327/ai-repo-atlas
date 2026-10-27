@@ -1,6 +1,6 @@
 # RightNow-AI/ouroboros
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/RightNow-AI/ouroboros) · [官网](https://runinfra.ai/) · 组织维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/RightNow-AI/ouroboros) · [官网](https://runinfra.ai/) · 组织维护
 
 **为递归 Transformer 生成动态权重的超网络研究库**
 
@@ -45,12 +45,12 @@ PyTorch 研究项目：在递归 transformer 块上挂载 CompactController 超�
 ```mermaid
 xychart-beta
     title "RightNow-AI/ouroboros 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 37（+1）
 
 
 ---

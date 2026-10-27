@@ -1,6 +1,6 @@
 # FujitsuResearch/OneCompression
 
-⭐ 443 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
+⭐ 443 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
 
 **面向 LLM 的自动量化压缩 Python 工具包**
 
@@ -45,12 +45,12 @@ Fujitsu 研究团队开发的 LLM 压缩 Python 包：一条命令检测 GPU VRA
 ```mermaid
 xychart-beta
     title "FujitsuResearch/OneCompression 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 435 --> 444
     line [436, 443, 443]
 ```
 
-2026-10-18 436 → 2026-10-26 443（+7）
+2026-10-18 436 → 2026-10-27 443（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # csinva/csinva.github.io
 
-⭐ 624 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/csinva/csinva.github.io) · [官网](https://csinva.io) · 个人维护
+⭐ 625 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/csinva/csinva.github.io) · [官网](https://csinva.io) · 个人维护
 
 **研究者的个人笔记网站：AI/ML 幻灯片、论文综述与课程笔记**
 
@@ -45,12 +45,12 @@ Chandan Singh（Microsoft Research 研究员）基于 Jekyll/GitHub Pages 维护
 ```mermaid
 xychart-beta
     title "csinva/csinva.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 623 --> 625
-    line [624, 624]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 623 --> 626
+    line [624, 625]
 ```
 
-2026-10-18 624 → 2026-10-26 624（+0）
+2026-10-18 624 → 2026-10-27 625（+1）
 
 
 ---

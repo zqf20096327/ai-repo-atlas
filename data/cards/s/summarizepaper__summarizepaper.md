@@ -1,6 +1,6 @@
 # summarizepaper/summarizepaper
 
-⭐ 312 · Python · 推送 2026-10-25 · [GitHub](https://github.com/summarizepaper/summarizepaper) · 个人维护
+⭐ 312 · Python · 推送 2026-10-26 · [GitHub](https://github.com/summarizepaper/summarizepaper) · 个人维护
 
 **arXiv 论文 AI 摘要网站，附全文问答助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "summarizepaper/summarizepaper 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-26"]
+    title "summarizepaper/summarizepaper 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 310 --> 313
-    line [311, 312]
+    line [311, 312, 312]
 ```
 
-2026-10-19 311 → 2026-10-26 312（+1）
+2026-10-19 311 → 2026-10-27 312（+1）
 
 
 ---

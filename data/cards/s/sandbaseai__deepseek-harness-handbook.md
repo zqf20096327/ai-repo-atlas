@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandbaseai/deepseek-harness-handbook 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    title "sandbaseai/deepseek-harness-handbook 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 233 --> 236
-    line [234, 235, 234]
+    line [234, 235, 234, 234]
 ```
 
-2026-10-18 234 → 2026-10-26 234（+0）
+2026-10-18 234 → 2026-10-27 234（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ros-claw/rosclaw
 
-⭐ 230 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ros-claw/rosclaw) · [官网](https://rosclaw.io) · 组织维护 · 中文 README
+⭐ 230 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ros-claw/rosclaw) · [官网](https://rosclaw.io) · 组织维护 · 中文 README
 
 **具身智能体运行时：把 Agent 意图转为受治理的物理动作与经验**
 
@@ -45,12 +45,12 @@ ROSClaw 是面向具身 Agent 的 Physical AI 运行时，位于上层 Agent（C
 ```mermaid
 xychart-beta
     title "ros-claw/rosclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 224 --> 231
     line [225, 228, 230, 230]
 ```
 
-2026-10-18 225 → 2026-10-26 230（+5）
+2026-10-18 225 → 2026-10-27 230（+5）
 
 
 ---

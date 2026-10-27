@@ -1,6 +1,6 @@
 # TimeCopilot/timecopilot
 
-⭐ 626 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/TimeCopilot/timecopilot) · [官网](https://docs.timecopilot.dev/timecopilot) · 组织维护
+⭐ 627 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/TimeCopilot/timecopilot) · [官网](https://docs.timecopilot.dev/timecopilot) · 组织维护
 
 **自然语言时间序列预测 agent：LLM 组合时序基础模型出预测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TimeCopilot/timecopilot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 622 --> 627
-    line [623, 624, 626, 626]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 622 --> 628
+    line [623, 624, 626, 627]
 ```
 
-2026-10-18 623 → 2026-10-26 626（+3）
+2026-10-18 623 → 2026-10-27 627（+4）
 
 
 ---

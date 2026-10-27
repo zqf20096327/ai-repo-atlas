@@ -1,6 +1,6 @@
 # huggingface/transformers.js
 
-⭐ 16,377 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
+⭐ 16,380 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/transformers.js) · [官网](https://huggingface.co/docs/transformers.js) · 组织维护
 
 **Web 开发者在浏览器中运行 Transformer 预训练模型的 JS 库**
 
@@ -52,13 +52,13 @@ Transformers.js 是 Hugging Face transformers Python 库在 JavaScript 上的功
 
 ```mermaid
 xychart-beta
-    title "huggingface/transformers.js 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 16347 --> 16379
-    line [16349, 16354, 16360, 16365, 16369, 16370, 16377]
+    title "huggingface/transformers.js 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 16346 --> 16383
+    line [16349, 16354, 16360, 16365, 16369, 16370, 16377, 16380]
 ```
 
-2026-10-18 16,349 → 2026-10-26 16,377（+28）
+2026-10-18 16,349 → 2026-10-27 16,380（+31）
 
 
 ---

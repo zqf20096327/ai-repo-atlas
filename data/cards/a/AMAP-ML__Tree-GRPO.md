@@ -1,6 +1,6 @@
 # AMAP-ML/Tree-GRPO
 
-⭐ 408 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/AMAP-ML/Tree-GRPO) · 组织维护 · 中文 README
+⭐ 409 · Python · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/AMAP-ML/Tree-GRPO) · 组织维护 · 中文 README
 
 **ICLR 2026 论文代码：树搜索策略强化学习训练 LLM agent**
 
@@ -45,13 +45,13 @@ AMAP（阿里巴巴）联合厦门大学、南方科技大学发布的论文代�
 
 ```mermaid
 xychart-beta
-    title "AMAP-ML/Tree-GRPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 406 --> 409
-    line [407, 408]
+    title "AMAP-ML/Tree-GRPO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 406 --> 410
+    line [407, 408, 409]
 ```
 
-2026-10-18 407 → 2026-10-26 408（+1）
+2026-10-18 407 → 2026-10-27 409（+2）
 
 
 ---

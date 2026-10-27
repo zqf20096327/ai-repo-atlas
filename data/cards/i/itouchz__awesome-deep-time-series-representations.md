@@ -45,12 +45,12 @@ KAIST 团队维护的论文清单仓库，配套论文《Universal Time-Series R
 ```mermaid
 xychart-beta
     title "itouchz/awesome-deep-time-series-representations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-18 212 → 2026-10-26 212（+0）
+2026-10-18 212 → 2026-10-27 212（+0）
 
 
 ---

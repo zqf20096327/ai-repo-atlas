@@ -44,13 +44,13 @@ SyntheRela 是一个用于评测与比较合成关系数据库生成方法的基
 
 ```mermaid
 xychart-beta
-    title "martinjurkovic/syntherela 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "martinjurkovic/syntherela 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 67 --> 71
-    line [68, 69, 70]
+    line [68, 69, 70, 70]
 ```
 
-2026-10-18 68 → 2026-10-26 70（+2）
+2026-10-18 68 → 2026-10-27 70（+2）
 
 
 ---

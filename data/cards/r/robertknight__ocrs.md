@@ -1,6 +1,6 @@
 # robertknight/ocrs
 
-⭐ 1,907 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/robertknight/ocrs) · 个人维护
+⭐ 1,908 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/robertknight/ocrs) · 个人维护
 
 **Rust 编写的 OCR 库与 CLI：从图像中提取文本**
 
@@ -45,13 +45,13 @@ Rust 语言实现的 OCR 库及命令行工具，用于从扫描文档、照片�
 
 ```mermaid
 xychart-beta
-    title "robertknight/ocrs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1904 --> 1908
-    line [1905, 1906, 1907]
+    title "robertknight/ocrs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1904 --> 1909
+    line [1905, 1906, 1907, 1908]
 ```
 
-2026-10-18 1,905 → 2026-10-26 1,907（+2）
+2026-10-18 1,905 → 2026-10-27 1,908（+3）
 
 
 ---

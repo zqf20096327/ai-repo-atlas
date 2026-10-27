@@ -1,6 +1,6 @@
 # sensoris/semcache
 
-⭐ 97 · Rust · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sensoris/semcache) · [官网](https://semcache.io) · 组织维护
+⭐ 98 · Rust · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sensoris/semcache) · [官网](https://semcache.io) · 组织维护
 
 **面向 LLM 应用的语义缓存层：复用相似回答、降低开销**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sensoris/semcache 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 98（+1）
 
 
 ---

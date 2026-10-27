@@ -43,12 +43,12 @@ Microsoft 维护的实验性 .NET 框架，基于 Semantic Kernel 与 Orleans �
 ```mermaid
 xychart-beta
     title "microsoft/project-oagents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 309 --> 311
     line [310, 310]
 ```
 
-2026-10-18 310 → 2026-10-26 310（+0）
+2026-10-18 310 → 2026-10-27 310（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gymcoach-app/gymcoach
 
-⭐ 131 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gymcoach-app/gymcoach) · [官网](https://demo-gymcoach.mesureprivee.com) · 组织维护
+⭐ 132 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gymcoach-app/gymcoach) · [官网](https://demo-gymcoach.mesureprivee.com) · 组织维护
 
 **自托管健身记录器，带基于自有训练数据的 AI 教练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gymcoach-app/gymcoach 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 96 --> 134
-    line [99, 105, 121, 124, 127, 131]
+    title "gymcoach-app/gymcoach 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 96 --> 135
+    line [99, 105, 121, 124, 127, 131, 132]
 ```
 
-2026-10-18 99 → 2026-10-26 131（+32）
+2026-10-18 99 → 2026-10-27 132（+33）
 
 
 ---

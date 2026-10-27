@@ -1,6 +1,6 @@
 # subev/libratory
 
-⭐ 135 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/subev/libratory) · [官网](https://libratory.dev) · 个人维护
+⭐ 136 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/subev/libratory) · [官网](https://libratory.dev) · 个人维护
 
 **本地自托管的电子书/有声书工坊：PDF 转 M4B 有声书、双语版与跟读**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "subev/libratory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 125 --> 136
-    line [126, 130, 132, 133, 135]
+    title "subev/libratory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 125 --> 137
+    line [126, 130, 132, 133, 135, 136]
 ```
 
-2026-10-18 126 → 2026-10-26 135（+9）
+2026-10-18 126 → 2026-10-27 136（+10）
 
 
 ---

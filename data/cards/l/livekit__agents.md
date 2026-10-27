@@ -1,6 +1,6 @@
 # livekit/agents
 
-⭐ 14,935 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
+⭐ 14,943 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
 
 **给开发者：构建实时语音 AI Agent 的 Python 框架**
 
@@ -53,13 +53,13 @@ LiveKit Agents 是用于在服务器上构建实时、可编程参与者的框�
 
 ```mermaid
 xychart-beta
-    title "livekit/agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14775 --> 14949
-    line [14789, 14846, 14878, 14897, 14909, 14919, 14935]
+    title "livekit/agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14774 --> 14958
+    line [14789, 14846, 14878, 14897, 14909, 14919, 14935, 14943]
 ```
 
-2026-10-18 14,789 → 2026-10-26 14,935（+146）
+2026-10-18 14,789 → 2026-10-27 14,943（+154）
 
 
 ---

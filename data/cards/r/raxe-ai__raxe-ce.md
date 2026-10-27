@@ -1,6 +1,6 @@
 # raxe-ai/raxe-ce
 
-⭐ 121 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/raxe-ai/raxe-ce) · [官网](https://www.raxe.ai) · 组织维护
+⭐ 121 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/raxe-ai/raxe-ce) · [官网](https://www.raxe.ai) · 组织维护
 
 **本地运行时安全层：检测 AI agent 的提示注入与工具攻击**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raxe-ai/raxe-ce 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-26 121（+0）
+2026-10-18 121 → 2026-10-27 121（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mats2208/MCP-Packet-Tracer
 
-⭐ 287 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Mats2208/MCP-Packet-Tracer) · [官网](https://www.mcpnetwork.top/) · 个人维护
+⭐ 293 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Mats2208/MCP-Packet-Tracer) · [官网](https://www.mcpnetwork.top/) · 个人维护
 
 **让 LLM 通过自然语言自动构建和部署 Packet Tracer 网络拓扑的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mats2208/MCP-Packet-Tracer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 268 --> 288
-    line [269, 272, 281, 283, 284, 287]
+    title "Mats2208/MCP-Packet-Tracer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 267 --> 295
+    line [269, 272, 281, 283, 284, 287, 293]
 ```
 
-2026-10-18 269 → 2026-10-26 287（+18）
+2026-10-18 269 → 2026-10-27 293（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/USM
 
-⭐ 36 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/USM) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/USM) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **Google USM 语音模型的 PyTorch 复现实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/USM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

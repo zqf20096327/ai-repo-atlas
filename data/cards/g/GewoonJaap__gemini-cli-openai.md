@@ -1,6 +1,6 @@
 # GewoonJaap/gemini-cli-openai
 
-⭐ 895 · TypeScript · 推送 2026-09-03 · [GitHub](https://github.com/GewoonJaap/gemini-cli-openai) · 个人维护
+⭐ 894 · TypeScript · 推送 2026-09-03 · [GitHub](https://github.com/GewoonJaap/gemini-cli-openai) · 个人维护
 
 **将 Gemini CLI 接口转为 OpenAI 兼容 API 的 Cloudflare Worker**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GewoonJaap/gemini-cli-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 894 --> 896
-    line [895, 895]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 893 --> 896
+    line [895, 894]
 ```
 
-2026-10-18 895 → 2026-10-26 895（+0）
+2026-10-18 895 → 2026-10-27 894（-1）
 
 
 ---

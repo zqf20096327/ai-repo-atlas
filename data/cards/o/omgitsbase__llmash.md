@@ -1,6 +1,6 @@
 # omgitsbase/llmash
 
-⭐ 33 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/omgitsbase/llmash) · 个人维护
+⭐ 36 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/omgitsbase/llmash) · 个人维护
 
 **Ollama 兼容的本地 LLM 服务器与命令行，基于调优 llama.cpp 分叉**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "omgitsbase/llmash 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14 --> 34
-    line [15, 30, 33]
+    title "omgitsbase/llmash 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13 --> 38
+    line [15, 30, 33, 36]
 ```
 
-2026-10-18 15 → 2026-10-26 33（+18）
+2026-10-18 15 → 2026-10-27 36（+21）
 
 
 ---

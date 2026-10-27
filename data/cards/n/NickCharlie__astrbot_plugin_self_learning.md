@@ -1,6 +1,6 @@
 # NickCharlie/astrbot_plugin_self_learning
 
-⭐ 433 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
+⭐ 435 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
 
 **AstrBot 自主学习插件：让聊天 Bot 学习对话风格与群组黑话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NickCharlie/astrbot_plugin_self_learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 415 --> 434
-    line [416, 420, 422, 424, 426, 429, 433]
+    title "NickCharlie/astrbot_plugin_self_learning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 415 --> 436
+    line [416, 420, 422, 424, 426, 429, 433, 435]
 ```
 
-2026-10-18 416 → 2026-10-26 433（+17）
+2026-10-18 416 → 2026-10-27 435（+19）
 
 
 ---

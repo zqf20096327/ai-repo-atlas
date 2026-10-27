@@ -1,6 +1,6 @@
 # uucz/moyu
 
-⭐ 272 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/uucz/moyu) · [官网](https://uucz.github.io/moyu/) · 个人维护 · 中文 README
+⭐ 275 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/uucz/moyu) · [官网](https://uucz.github.io/moyu/) · 个人维护 · 中文 README
 
 **约束 AI 编码助手少做废活的提示词技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "uucz/moyu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 61 --> 291
-    line [80, 236, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 61 --> 294
+    line [80, 236, 271, 272, 275]
 ```
 
-2026-10-18 80 → 2026-10-26 272（+192）
+2026-10-18 80 → 2026-10-27 275（+195）
 
 
 ---

@@ -1,6 +1,6 @@
 # RunWield/runwield
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/RunWield/runwield) · [官网](https://docs.runwield.dev/) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RunWield/runwield) · [官网](https://docs.runwield.dev/) · 个人维护
 
 **面向开发者的 AI 编码代理框架：先审计划再动代码**
 
@@ -45,13 +45,13 @@ RunWield 是一个 MIT 开源的本地 AI 编码代理框架（harness），核�
 
 ```mermaid
 xychart-beta
-    title "RunWield/runwield 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 48 --> 53
-    line [49, 52, 51, 52]
+    title "RunWield/runwield 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 48 --> 55
+    line [49, 52, 51, 52, 54]
 ```
 
-2026-10-23 49 → 2026-10-26 52（+3）
+2026-10-23 49 → 2026-10-27 54（+5）
 
 
 ---

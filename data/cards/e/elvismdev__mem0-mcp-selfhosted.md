@@ -1,6 +1,6 @@
 # elvismdev/mem0-mcp-selfhosted
 
-⭐ 111 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/elvismdev/mem0-mcp-selfhosted) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-03-13 · [GitHub](https://github.com/elvismdev/mem0-mcp-selfhosted) · 个人维护
 
 **Claude Code 的自托管 mem0 记忆 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elvismdev/mem0-mcp-selfhosted 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 110 --> 113
+    line [111, 112]
 ```
 
-2026-10-18 111 → 2026-10-26 111（+0）
+2026-10-18 111 → 2026-10-27 112（+1）
 
 
 ---

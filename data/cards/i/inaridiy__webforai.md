@@ -41,6 +41,18 @@
 > L63: - **Agent mode** adds the `## Links` section — related, pagination, section and site navigation,
 > L110: |**CLI** — `webforai-cli`|`npx webforai-cli <url>`|The shell, scripts and AI agents (it ships an Agent Skill). CLI
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inaridiy/webforai 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 80 --> 82
+    line [81, 81]
+```
+
+2026-10-26 81 → 2026-10-27 81（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `cdac79fec546` · [字段定义](../../DATASET.md)*

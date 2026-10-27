@@ -1,6 +1,6 @@
 # bkingfilm/lapian-notes
 
-⭐ 736 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/bkingfilm/lapian-notes) · [官网](https://discord.gg/uT6xryBX9w) · 个人维护 · 中文 README
+⭐ 737 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/bkingfilm/lapian-notes) · [官网](https://discord.gg/uT6xryBX9w) · 个人维护 · 中文 README
 
 **本地运行的电影拉片工具：AI 辅助生成泳道时间轴与结构树**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bkingfilm/lapian-notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 728 --> 737
-    line [729, 731, 734, 735, 736]
+    title "bkingfilm/lapian-notes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 728 --> 738
+    line [729, 731, 734, 735, 736, 737]
 ```
 
-2026-10-18 729 → 2026-10-26 736（+7）
+2026-10-18 729 → 2026-10-27 737（+8）
 
 
 ---

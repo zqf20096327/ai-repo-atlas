@@ -1,6 +1,6 @@
 # LINJIANG12/video2book-courses
 
-⭐ 211 · 推送 2026-10-20 · [GitHub](https://github.com/LINJIANG12/video2book-courses) · 个人维护 · 中文 README
+⭐ 219 · 推送 2026-10-20 · [GitHub](https://github.com/LINJIANG12/video2book-courses) · 个人维护 · 中文 README
 
 **AI 生成的网课精读教材/笔记/逐字稿合集，供学习复习**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LINJIANG12/video2book-courses 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 153 --> 216
-    line [158, 175, 186, 193, 197, 203, 211]
+    title "LINJIANG12/video2book-courses 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 152 --> 225
+    line [158, 175, 186, 193, 197, 203, 211, 219]
 ```
 
-2026-10-18 158 → 2026-10-26 211（+53）
+2026-10-18 158 → 2026-10-27 219（+61）
 
 
 ---

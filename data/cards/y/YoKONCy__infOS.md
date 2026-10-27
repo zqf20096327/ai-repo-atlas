@@ -1,6 +1,6 @@
 # YoKONCy/infOS
 
-⭐ 161 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/YoKONCy/infOS) · 组织维护 · 中文 README
+⭐ 161 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/YoKONCy/infOS) · 组织维护 · 中文 README
 
 **AI 伙伴运行时内核：长记忆引擎加桌面陪伴应用**
 
@@ -46,13 +46,13 @@ infOS 是以主 Agent 为中心的 AI 工作站与运行时内核，TypeScript �
 
 ```mermaid
 xychart-beta
-    title "YoKONCy/infOS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "YoKONCy/infOS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 154 --> 162
-    line [156, 155, 158, 159, 161]
+    line [156, 155, 158, 159, 161, 161]
 ```
 
-2026-10-18 156 → 2026-10-26 161（+5）
+2026-10-18 156 → 2026-10-27 161（+5）
 
 
 ---

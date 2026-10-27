@@ -1,6 +1,6 @@
 # xcena-dev/maru
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xcena-dev/maru) · [官网](https://xcena-dev.github.io/maru/) · 组织维护
+⭐ 66 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xcena-dev/maru) · [官网](https://xcena-dev.github.io/maru/) · 组织维护
 
 **面向 LLM 推理的 CXL/RDMA 共享内存 KV Cache 存储引擎**
 
@@ -46,12 +46,12 @@ Maru 是构建在 CXL 共享内存池与 RDMA 内存池之上的 KV cache 存储
 ```mermaid
 xychart-beta
     title "xcena-dev/maru 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 63 --> 66
-    line [64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 63 --> 67
+    line [64, 65, 66]
 ```
 
-2026-10-18 64 → 2026-10-26 65（+1）
+2026-10-18 64 → 2026-10-27 66（+2）
 
 
 ---

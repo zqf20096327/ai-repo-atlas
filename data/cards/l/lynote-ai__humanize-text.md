@@ -1,6 +1,6 @@
 # lynote-ai/humanize-text
 
-⭐ 3,449 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
+⭐ 3,453 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
 
 **将 AI 生成文本改写为自然人类文风的开源管线**
 
@@ -45,13 +45,13 @@ Lynote 团队开源的 AI 文本人性化改写管线，供需要降低 AI 痕�
 
 ```mermaid
 xychart-beta
-    title "lynote-ai/humanize-text 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3443 --> 3453
-    line [3444, 3448, 3445, 3452, 3448, 3449]
+    title "lynote-ai/humanize-text 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3443 --> 3454
+    line [3444, 3448, 3445, 3452, 3448, 3449, 3453]
 ```
 
-2026-10-18 3,444 → 2026-10-26 3,449（+5）
+2026-10-18 3,444 → 2026-10-27 3,453（+9）
 
 
 ---

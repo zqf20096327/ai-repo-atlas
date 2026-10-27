@@ -1,6 +1,6 @@
 # octo-patch/MorningAI
 
-⭐ 33 · Python · 推送 2026-05-16 · [GitHub](https://github.com/octo-patch/MorningAI) · 个人维护 · 中文 README
+⭐ 32 · Python · 推送 2026-05-16 · [GitHub](https://github.com/octo-patch/MorningAI) · 个人维护 · 中文 README
 
 **运行在编码 Agent 内的 AI 新闻追踪技能：生成评分日报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "octo-patch/MorningAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 32（-1）
 
 
 ---

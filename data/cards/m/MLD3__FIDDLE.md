@@ -46,12 +46,12 @@ FIDDLE 读取四列格式（ID/t/variable_name/variable_value）的结构化电�
 ```mermaid
 xychart-beta
     title "MLD3/FIDDLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-26 100（+0）
+2026-10-18 100 → 2026-10-27 100（+0）
 
 
 ---

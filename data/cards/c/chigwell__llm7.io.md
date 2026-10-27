@@ -1,6 +1,6 @@
 # chigwell/llm7.io
 
-⭐ 245 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/chigwell/llm7.io) · [官网](https://llm7.io/) · 个人维护
+⭐ 249 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/chigwell/llm7.io) · [官网](https://llm7.io/) · 个人维护
 
 **LLM7.io 落地页源码：免费 OpenAI 兼容 LLM API 网关的门面站点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chigwell/llm7.io 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 241 --> 247
-    line [242, 243, 245, 246, 245]
+    title "chigwell/llm7.io 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 241 --> 250
+    line [242, 243, 245, 246, 245, 249]
 ```
 
-2026-10-18 242 → 2026-10-26 245（+3）
+2026-10-18 242 → 2026-10-27 249（+7）
 
 
 ---

@@ -46,12 +46,12 @@ gophernotes 是一个 Jupyter 内核，让用户在浏览器 notebook 或 nterac
 ```mermaid
 xychart-beta
     title "gopherdata/gophernotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 3967 --> 3969
     line [3968, 3968]
 ```
 
-2026-10-18 3,968 → 2026-10-26 3,968（+0）
+2026-10-18 3,968 → 2026-10-27 3,968（+0）
 
 
 ---

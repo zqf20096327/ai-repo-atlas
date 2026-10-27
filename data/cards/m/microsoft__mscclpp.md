@@ -1,6 +1,6 @@
 # microsoft/mscclpp
 
-⭐ 565 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/mscclpp) · [官网](https://microsoft.github.io/mscclpp/) · 组织维护
+⭐ 566 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/mscclpp) · [官网](https://microsoft.github.io/mscclpp/) · 组织维护
 
 **面向分布式 GPU 应用的 GPU 驱动通信栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/mscclpp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 562 --> 566
-    line [564, 563, 564, 565, 565]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 562 --> 567
+    line [564, 563, 564, 565, 566]
 ```
 
-2026-10-18 564 → 2026-10-26 565（+1）
+2026-10-18 564 → 2026-10-27 566（+2）
 
 
 ---

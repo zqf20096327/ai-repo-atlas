@@ -1,6 +1,6 @@
 # OpenNMT/CTranslate2
 
-⭐ 4,719 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/OpenNMT/CTranslate2) · [官网](https://opennmt.net/CTranslate2) · 组织维护
+⭐ 4,721 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OpenNMT/CTranslate2) · [官网](https://opennmt.net/CTranslate2) · 组织维护
 
 **Transformer 模型的高效推理运行时库（C++/Python）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenNMT/CTranslate2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4711 --> 4720
-    line [4712, 4713, 4714, 4716, 4717, 4719]
+    title "OpenNMT/CTranslate2 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4711 --> 4722
+    line [4712, 4713, 4714, 4716, 4717, 4719, 4721]
 ```
 
-2026-10-18 4,712 → 2026-10-26 4,719（+7）
+2026-10-18 4,712 → 2026-10-27 4,721（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox-sdk-python
 
-⭐ 192 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-python) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 192 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-python) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **与 MCP Toolbox 数据库工具集成的 Python SDK**
 
@@ -44,12 +44,12 @@ Google 维护的 Python SDK 集合，用于将 MCP Toolbox（数据库工具服�
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-10-26 192（+0）
+2026-10-18 192 → 2026-10-27 192（+0）
 
 
 ---

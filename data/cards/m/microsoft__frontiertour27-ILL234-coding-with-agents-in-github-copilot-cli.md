@@ -44,12 +44,12 @@ Microsoft Frontier Tour 2027 的动手实验课程（ILL234）配套仓库：围
 ```mermaid
 xychart-beta
     title "microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 18 --> 31
     line [19, 27, 30, 30]
 ```
 
-2026-10-22 19 → 2026-10-26 30（+11）
+2026-10-22 19 → 2026-10-27 30（+11）
 
 
 ---

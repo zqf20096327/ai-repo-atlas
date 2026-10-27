@@ -1,6 +1,6 @@
 # Miosa-osa/OSA
 
-⭐ 79 · Elixir · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Miosa-osa/OSA) · 组织维护
+⭐ 78 · Elixir · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Miosa-osa/OSA) · 组织维护
 
 **终端 AI 代理：分类任务、过滤噪声并路由到多模型执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Miosa-osa/OSA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    line [78, 79, 78]
 ```
 
-2026-10-18 78 → 2026-10-26 79（+1）
+2026-10-18 78 → 2026-10-27 78（+0）
 
 
 ---

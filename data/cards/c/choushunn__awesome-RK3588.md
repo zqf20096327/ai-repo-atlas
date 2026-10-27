@@ -1,6 +1,6 @@
 # choushunn/awesome-RK3588
 
-⭐ 603 · CC0-1.0 · 推送 2025-12-07 · [GitHub](https://github.com/choushunn/awesome-RK3588) · 个人维护 · 中文 README
+⭐ 605 · CC0-1.0 · 推送 2025-12-07 · [GitHub](https://github.com/choushunn/awesome-RK3588) · 个人维护 · 中文 README
 
 **RK3588 芯片开发资源策展清单：SDK、模型、板卡、系统一册收**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "choushunn/awesome-RK3588 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 599 --> 604
-    line [600, 602, 603, 603]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 599 --> 606
+    line [600, 602, 603, 605]
 ```
 
-2026-10-18 600 → 2026-10-26 603（+3）
+2026-10-18 600 → 2026-10-27 605（+5）
 
 
 ---

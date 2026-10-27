@@ -1,6 +1,6 @@
 # fenixsoft/dmla
 
-⭐ 80 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fenixsoft/dmla) · [官网](https://ai.icyfenix.cn) · 个人维护 · 中文 README
+⭐ 81 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/fenixsoft/dmla) · [官网](https://ai.icyfenix.cn) · 个人维护 · 中文 README
 
 **面向软件工程师的机器学习应用系统设计开放书籍**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fenixsoft/dmla 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 78 --> 82
+    line [79, 80, 81]
 ```
 
-2026-10-18 79 → 2026-10-26 80（+1）
+2026-10-18 79 → 2026-10-27 81（+2）
 
 
 ---

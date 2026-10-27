@@ -1,6 +1,6 @@
 # OnlyTerp/opengrok
 
-⭐ 495 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/OnlyTerp/opengrok) · [官网](https://github.com/OnlyTerp/opengrok#-quick-start) · 个人维护
+⭐ 496 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/OnlyTerp/opengrok) · [官网](https://github.com/OnlyTerp/opengrok#-quick-start) · 个人维护
 
 **让 Grok Bot 使用任意模型的配置工具与模型切换面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OnlyTerp/opengrok 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 488 --> 496
-    line [489, 492, 494, 495, 495]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 488 --> 497
+    line [489, 492, 494, 495, 496]
 ```
 
-2026-10-18 489 → 2026-10-26 495（+6）
+2026-10-18 489 → 2026-10-27 496（+7）
 
 
 ---

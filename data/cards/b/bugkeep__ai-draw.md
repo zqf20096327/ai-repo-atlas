@@ -1,6 +1,6 @@
 # bugkeep/ai-draw
 
-⭐ 233 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/bugkeep/ai-draw) · 个人维护 · 中文 README
+⭐ 307 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bugkeep/ai-draw) · 个人维护 · 中文 README
 
 **通过对话生成和编辑草图、插图与流程图的自托管绘图应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bugkeep/ai-draw 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 19 --> 252
-    line [38, 86, 141, 199, 233]
+    title "bugkeep/ai-draw 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12 --> 333
+    line [38, 86, 141, 199, 233, 307]
 ```
 
-2026-10-22 38 → 2026-10-26 233（+195）
+2026-10-22 38 → 2026-10-27 307（+269）
 
 
 ---

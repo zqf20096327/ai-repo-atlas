@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_mpc
 
-⭐ 1,751 · C++ · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/mujoco_mpc) · [官网](https://github.com/deepmind/mujoco_mpc) · 组织维护
+⭐ 1,752 · C++ · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/mujoco_mpc) · [官网](https://github.com/deepmind/mujoco_mpc) · 组织维护
 
 **基于 MuJoCo 的实时预测控制（MPC）交互应用与框架**
 
@@ -45,13 +45,13 @@ Google DeepMind 开发的实时预测控制软件：提供交互式 GUI 应用�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/mujoco_mpc 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1745 --> 1752
-    line [1746, 1749, 1748, 1749, 1750, 1751]
+    title "google-deepmind/mujoco_mpc 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1745 --> 1753
+    line [1746, 1749, 1748, 1749, 1750, 1751, 1752]
 ```
 
-2026-10-18 1,746 → 2026-10-26 1,751（+5）
+2026-10-18 1,746 → 2026-10-27 1,752（+6）
 
 
 ---

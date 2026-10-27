@@ -1,6 +1,6 @@
 # imlrz/DeepResearch-Bench-II
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
+⭐ 98 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
 
 **深度研究 agent 评测基准：以专家报告分解的评分细则打分**
 
@@ -46,12 +46,12 @@ DeepResearch Bench II 是测量深度研究系统与人类专家差距的基准�
 ```mermaid
 xychart-beta
     title "imlrz/DeepResearch-Bench-II 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 95 --> 99
+    line [96, 98]
 ```
 
-2026-10-18 96 → 2026-10-26 96（+0）
+2026-10-18 96 → 2026-10-27 98（+2）
 
 
 ---

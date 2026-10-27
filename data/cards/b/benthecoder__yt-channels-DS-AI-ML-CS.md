@@ -1,6 +1,6 @@
 # benthecoder/yt-channels-DS-AI-ML-CS
 
-⭐ 1,687 · 推送 2026-07-19 · [GitHub](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) · [官网](https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/) · 个人维护
+⭐ 1,694 · 推送 2026-07-19 · [GitHub](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) · [官网](https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/) · 个人维护
 
 **数据科学与 AI 学习类 YouTube 频道清单（180+）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "benthecoder/yt-channels-DS-AI-ML-CS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1639 --> 1691
-    line [1643, 1654, 1658, 1668, 1678, 1685, 1687]
+    title "benthecoder/yt-channels-DS-AI-ML-CS 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1638 --> 1699
+    line [1643, 1654, 1658, 1668, 1678, 1685, 1687, 1694]
 ```
 
-2026-10-18 1,643 → 2026-10-26 1,687（+44）
+2026-10-18 1,643 → 2026-10-27 1,694（+51）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0xSero/omarchy-local-ai
 
-⭐ 158 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xSero/omarchy-local-ai) · [官网](https://local.sybilsolutions.ai) · 个人维护
+⭐ 159 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/0xSero/omarchy-local-ai) · [官网](https://local.sybilsolutions.ai) · 个人维护
 
 **Omarchy 桌面的本地模型运行面板：按显卡选模型并服务编码 agent**
 
@@ -44,13 +44,13 @@ Omarchy（Quattro shell）插件，以面板加栏按钮的形式在本机 GPU/C
 
 ```mermaid
 xychart-beta
-    title "0xSero/omarchy-local-ai 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 147 --> 159
-    line [148, 149, 152, 155, 158]
+    title "0xSero/omarchy-local-ai 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 147 --> 160
+    line [148, 149, 152, 155, 158, 159]
 ```
 
-2026-10-19 148 → 2026-10-26 158（+10）
+2026-10-19 148 → 2026-10-27 159（+11）
 
 
 ---

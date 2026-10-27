@@ -1,6 +1,6 @@
 # ahmetdrak/drakben
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/ahmetdrak/drakben) · 个人维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/ahmetdrak/drakben) · 个人维护
 
 **自然语言驱动的自主渗透测试框架，覆盖侦察到报告全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahmetdrak/drakben 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 25 --> 30
-    line [26, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 25 --> 31
+    line [26, 28, 29, 30]
 ```
 
-2026-10-18 26 → 2026-10-26 29（+3）
+2026-10-18 26 → 2026-10-27 30（+4）
 
 
 ---

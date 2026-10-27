@@ -1,6 +1,6 @@
 # clawwork-ai/ClawWork
 
-⭐ 531 · TypeScript · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/clawwork-ai/ClawWork) · [官网](https://clawwork-ai.github.io/ClawWork/) · 组织维护 · 中文 README
+⭐ 531 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/clawwork-ai/ClawWork) · [官网](https://clawwork-ai.github.io/ClawWork/) · 组织维护 · 中文 README
 
 **给 OpenClaw 用户的多会话并行桌面客户端，本地管理 agent 任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "clawwork-ai/ClawWork 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 530 --> 535
     line [534, 533, 532, 531, 531]
 ```
 
-2026-10-18 534 → 2026-10-26 531（-3）
+2026-10-18 534 → 2026-10-27 531（-3）
 
 
 ---

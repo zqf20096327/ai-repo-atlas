@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Azure-Analytics-and-AI-Engagement 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 178 --> 180
     line [179, 179]
 ```
 
-2026-10-18 179 → 2026-10-26 179（+0）
+2026-10-18 179 → 2026-10-27 179（+0）
 
 
 ---

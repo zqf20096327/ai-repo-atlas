@@ -1,6 +1,6 @@
 # kiyotakali/Miru
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/kiyotakali/Miru) · [官网](https://mirulife.top/) · 个人维护 · 中文 README
+⭐ 186 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/kiyotakali/Miru) · [官网](https://mirulife.top/) · 个人维护 · 中文 README
 
 **自托管的 Live2D AI 桌宠伴侣：本地运行、长期记忆、主动陪伴**
 
@@ -45,13 +45,13 @@ Miru 是一个自托管的 AI 陪伴应用：以 Live2D 角色形式驻留在桌
 
 ```mermaid
 xychart-beta
-    title "kiyotakali/Miru 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 177 --> 185
-    line [178, 180, 181, 183, 184]
+    title "kiyotakali/Miru 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 177 --> 187
+    line [178, 180, 181, 183, 184, 186]
 ```
 
-2026-10-18 178 → 2026-10-26 184（+6）
+2026-10-18 178 → 2026-10-27 186（+8）
 
 
 ---

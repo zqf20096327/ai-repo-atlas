@@ -1,6 +1,6 @@
 # awangwang123/jianhao-travel-planner
 
-⭐ 414 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/awangwang123/jianhao-travel-planner) · 个人维护 · 中文 README
+⭐ 415 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/awangwang123/jianhao-travel-planner) · 个人维护 · 中文 README
 
 **旅行路书生成 Skill：联网实查产出可核验的单文件 HTML 攻略**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "awangwang123/jianhao-travel-planner 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 387 --> 416
-    line [389, 396, 402, 404, 408, 409, 414]
+    title "awangwang123/jianhao-travel-planner 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 387 --> 417
+    line [389, 396, 402, 404, 408, 409, 414, 415]
 ```
 
-2026-10-18 389 → 2026-10-26 414（+25）
+2026-10-18 389 → 2026-10-27 415（+26）
 
 
 ---

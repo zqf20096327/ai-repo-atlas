@@ -1,6 +1,6 @@
 # ruc-datalab/SkillAdam
 
-⭐ 100 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ruc-datalab/SkillAdam) · 组织维护 · 中文 README
+⭐ 99 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/ruc-datalab/SkillAdam) · 组织维护 · 中文 README
 
 **自动测试并改进 AI agent 的 SKILL.md 技能文件的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ruc-datalab/SkillAdam 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 96 --> 102
-    line [97, 99, 100, 101, 100, 100]
+    line [97, 99, 100, 101, 100, 99]
 ```
 
-2026-10-18 97 → 2026-10-26 100（+3）
+2026-10-18 97 → 2026-10-27 99（+2）
 
 
 ---

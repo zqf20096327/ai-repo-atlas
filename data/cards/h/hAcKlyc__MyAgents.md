@@ -1,6 +1,6 @@
 # hAcKlyc/MyAgents
 
-⭐ 582 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/hAcKlyc/MyAgents) · [官网](https://myagents.io) · 组织维护 · 中文 README
+⭐ 585 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/hAcKlyc/MyAgents) · [官网](https://myagents.io) · 组织维护 · 中文 README
 
 **本地优先的 Agent 桌面工作台与任务系统，供个人跨设备调度 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hAcKlyc/MyAgents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 578 --> 585
-    line [581, 583, 584, 579, 580, 582]
+    title "hAcKlyc/MyAgents 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 578 --> 586
+    line [581, 583, 584, 579, 580, 582, 585]
 ```
 
-2026-10-18 581 → 2026-10-26 582（+1）
+2026-10-18 581 → 2026-10-27 585（+4）
 
 
 ---

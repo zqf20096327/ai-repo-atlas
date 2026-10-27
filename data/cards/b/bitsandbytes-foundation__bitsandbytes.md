@@ -1,6 +1,6 @@
 # bitsandbytes-foundation/bitsandbytes
 
-⭐ 8,531 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bitsandbytes-foundation/bitsandbytes) · [官网](https://huggingface.co/docs/bitsandbytes/main/en/index) · 组织维护
+⭐ 8,533 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/bitsandbytes-foundation/bitsandbytes) · [官网](https://huggingface.co/docs/bitsandbytes/main/en/index) · 组织维护
 
 **面向 PyTorch 的 k-bit 量化库，降低 LLM 推理与训练显存占用**
 
@@ -45,13 +45,13 @@ bitsandbytes 是 PyTorch 生态的量化库，提供三项主要能力：8-bit �
 
 ```mermaid
 xychart-beta
-    title "bitsandbytes-foundation/bitsandbytes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 8525 --> 8532
-    line [8526, 8529, 8528, 8531]
+    title "bitsandbytes-foundation/bitsandbytes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8525 --> 8534
+    line [8526, 8529, 8528, 8531, 8533]
 ```
 
-2026-10-18 8,526 → 2026-10-26 8,531（+5）
+2026-10-18 8,526 → 2026-10-27 8,533（+7）
 
 
 ---

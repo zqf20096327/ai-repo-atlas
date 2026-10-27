@@ -1,6 +1,6 @@
 # ZhengPeng7/motion_magnification_learning-based
 
-⭐ 119 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/ZhengPeng7/motion_magnification_learning-based) · 个人维护 · 中文 README
+⭐ 120 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/ZhengPeng7/motion_magnification_learning-based) · 个人维护 · 中文 README
 
 **PyTorch 复现《Learning-based Video Motion Magnification》：视频运动放大**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhengPeng7/motion_magnification_learning-based 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 118 --> 121
+    line [119, 120]
 ```
 
-2026-10-18 119 → 2026-10-26 119（+0）
+2026-10-18 119 → 2026-10-27 120（+1）
 
 
 ---

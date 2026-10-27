@@ -1,6 +1,6 @@
 # JeffWang0325/Image-Identification-for-Self-Driving-Cars
 
-⭐ 52 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/JeffWang0325/Image-Identification-for-Self-Driving-Cars) · 个人维护 · 中文 README
+⭐ 52 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/JeffWang0325/Image-Identification-for-Self-Driving-Cars) · 个人维护 · 中文 README
 
 **自动驾驶影像识别桌面应用：YOLOv5 检测加红绿灯/标志分类**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JeffWang0325/Image-Identification-for-Self-Driving-Cars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

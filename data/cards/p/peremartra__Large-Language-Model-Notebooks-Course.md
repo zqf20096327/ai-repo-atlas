@@ -1,6 +1,6 @@
 # peremartra/Large-Language-Model-Notebooks-Course
 
-⭐ 1,827 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) · [官网](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce) · 个人维护
+⭐ 1,826 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) · [官网](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce) · 个人维护
 
 **LLM 实践课程仓库：含教程文章、notebook 与小型项目**
 
@@ -45,12 +45,12 @@ Apress 书籍《Large Language Models》的非官方配套仓库，提供基于 
 ```mermaid
 xychart-beta
     title "peremartra/Large-Language-Model-Notebooks-Course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1824 --> 1828
-    line [1825, 1827, 1827]
+    line [1825, 1827, 1826]
 ```
 
-2026-10-18 1,825 → 2026-10-26 1,827（+2）
+2026-10-18 1,825 → 2026-10-27 1,826（+1）
 
 
 ---

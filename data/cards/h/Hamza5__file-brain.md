@@ -1,6 +1,6 @@
 # Hamza5/file-brain
 
-⭐ 235 · Python · GPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/Hamza5/file-brain) · [官网](https://file-brain.com/) · 个人维护
+⭐ 236 · Python · GPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/Hamza5/file-brain) · [官网](https://file-brain.com/) · 个人维护
 
 **本地桌面文件语义搜索应用：用自然语言找文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hamza5/file-brain 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 233 --> 237
-    line [234, 235, 236, 235, 235]
+    line [234, 235, 236, 235, 236]
 ```
 
-2026-10-18 234 → 2026-10-26 235（+1）
+2026-10-18 234 → 2026-10-27 236（+2）
 
 
 ---

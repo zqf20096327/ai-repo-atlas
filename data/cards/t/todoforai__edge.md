@@ -1,6 +1,6 @@
 # todoforai/edge
 
-⭐ 87 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/todoforai/edge) · [官网](https://todofor.ai) · 组织维护
+⭐ 87 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/todoforai/edge) · [官网](https://todofor.ai) · 组织维护
 
 **把本机接入 TODO for AI 服务器的连接器，赋予 agent 本地操作能力**
 
@@ -45,12 +45,12 @@ TODO for AI 的 Web 连接器组件：在本机运行并连接 TODO for AI 服�
 ```mermaid
 xychart-beta
     title "todoforai/edge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-18 87 → 2026-10-26 87（+0）
+2026-10-18 87 → 2026-10-27 87（+0）
 
 
 ---

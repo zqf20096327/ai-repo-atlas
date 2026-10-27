@@ -1,6 +1,6 @@
 # asreview/asreview
 
-⭐ 1,051 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/asreview/asreview) · [官网](https://asreview.ai) · 组织维护
+⭐ 1,052 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/asreview/asreview) · [官网](https://asreview.ai) · 组织维护
 
 **系统综述文献筛选的主动学习工具：AI 排序相关记录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asreview/asreview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1040 --> 1052
-    line [1041, 1042, 1046, 1049, 1050, 1051]
+    title "asreview/asreview 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1040 --> 1053
+    line [1041, 1042, 1046, 1049, 1050, 1051, 1052]
 ```
 
-2026-10-18 1,041 → 2026-10-26 1,051（+10）
+2026-10-18 1,041 → 2026-10-27 1,052（+11）
 
 
 ---

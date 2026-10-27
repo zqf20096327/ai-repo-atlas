@@ -1,6 +1,6 @@
 # squall01337/mixamo-llm-mocap
 
-⭐ 406 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/squall01337/mixamo-llm-mocap) · 个人维护
+⭐ 410 · Python · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/squall01337/mixamo-llm-mocap) · 个人维护
 
 **把固定机位视频转成 Mixamo 骨骼 FK 动画的动捕流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "squall01337/mixamo-llm-mocap 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 373 --> 409
-    line [376, 383, 393, 398, 401, 403, 406]
+    title "squall01337/mixamo-llm-mocap 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 373 --> 413
+    line [376, 383, 393, 398, 401, 403, 406, 410]
 ```
 
-2026-10-18 376 → 2026-10-26 406（+30）
+2026-10-18 376 → 2026-10-27 410（+34）
 
 
 ---

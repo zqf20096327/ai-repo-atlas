@@ -1,6 +1,6 @@
 # op7418/guizang-social-card-skill
 
-⭐ 7,727 · HTML · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
+⭐ 7,762 · HTML · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 的社交卡片生成 skill：小红书图文与公众号封面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "op7418/guizang-social-card-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7549 --> 7743
-    line [7565, 7591, 7614, 7672, 7694, 7717, 7727]
+    title "op7418/guizang-social-card-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7546 --> 7781
+    line [7565, 7591, 7614, 7672, 7694, 7717, 7727, 7762]
 ```
 
-2026-10-18 7,565 → 2026-10-26 7,727（+162）
+2026-10-18 7,565 → 2026-10-27 7,762（+197）
 
 
 ---

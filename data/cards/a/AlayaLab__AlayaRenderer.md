@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlayaLab/AlayaRenderer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "AlayaLab/AlayaRenderer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 648 --> 651
-    line [649, 650]
+    line [649, 650, 650]
 ```
 
-2026-10-18 649 → 2026-10-26 650（+1）
+2026-10-18 649 → 2026-10-27 650（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tensorflow/model-optimization
 
-⭐ 1,581 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tensorflow/model-optimization) · [官网](https://www.tensorflow.org/model_optimization) · 组织维护
+⭐ 1,582 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tensorflow/model-optimization) · [官网](https://www.tensorflow.org/model_optimization) · 组织维护
 
 **面向 Keras/TensorFlow 的模型部署优化工具包（量化与剪枝）**
 
@@ -45,12 +45,12 @@ TensorFlow 官方维护的模型优化工具套件，提供面向新手与高级
 ```mermaid
 xychart-beta
     title "tensorflow/model-optimization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1579 --> 1582
-    line [1580, 1581, 1581]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1579 --> 1583
+    line [1580, 1581, 1582]
 ```
 
-2026-10-18 1,580 → 2026-10-26 1,581（+1）
+2026-10-18 1,580 → 2026-10-27 1,582（+2）
 
 
 ---

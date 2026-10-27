@@ -1,6 +1,6 @@
 # ccf/agentcairn
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ccf/agentcairn) · [官网](https://agentcairn.dev) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ccf/agentcairn) · [官网](https://agentcairn.dev) · 组织维护
 
 **给 AI 编程 agent 的跨项目长期记忆层，Markdown 为唯一事实源**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ccf/agentcairn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 65 --> 69
-    line [67, 66, 67, 68, 68]
+    line [67, 66, 67, 68, 67]
 ```
 
-2026-10-18 67 → 2026-10-26 68（+1）
+2026-10-18 67 → 2026-10-27 67（+0）
 
 
 ---

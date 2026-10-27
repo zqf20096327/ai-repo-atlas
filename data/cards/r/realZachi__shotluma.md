@@ -1,6 +1,6 @@
 # realZachi/shotluma
 
-⭐ 151 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
+⭐ 152 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
 
 **浏览器内本地优先的 iOS 截图画布编辑器，AI agent 生成可编辑设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "realZachi/shotluma 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 147 --> 152
-    line [148, 150, 151, 151]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 147 --> 153
+    line [148, 150, 151, 152]
 ```
 
-2026-10-18 148 → 2026-10-26 151（+3）
+2026-10-18 148 → 2026-10-27 152（+4）
 
 
 ---

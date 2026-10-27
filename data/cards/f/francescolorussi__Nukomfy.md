@@ -46,12 +46,12 @@ Foundry Nuke 的 Python 插件：将 ComfyUI 工作流转换为可复用的 Nuke
 ```mermaid
 xychart-beta
     title "francescolorussi/Nukomfy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 35（+1）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

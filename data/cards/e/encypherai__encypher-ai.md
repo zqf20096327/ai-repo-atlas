@@ -46,12 +46,12 @@ Python 库，通过 Unicode variation selectors 在不改变可读性的前提�
 ```mermaid
 xychart-beta
     title "encypherai/encypher-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

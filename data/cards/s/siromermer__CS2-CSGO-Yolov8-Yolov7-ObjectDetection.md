@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-26 60（+0）
+2026-10-18 60 → 2026-10-27 60（+0）
 
 
 ---

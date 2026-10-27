@@ -1,6 +1,6 @@
 # gameguild-gg/mobagen
 
-⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/gameguild-gg/mobagen) · 组织维护
+⭐ 80 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/gameguild-gg/mobagen) · 组织维护
 
 **模块化 C++ 游戏引擎教学工具：跨平台、WebAssembly 优先**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gameguild-gg/mobagen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 78 --> 81
+    line [79, 80]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 80（+1）
 
 
 ---

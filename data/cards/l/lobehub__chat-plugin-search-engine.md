@@ -1,6 +1,6 @@
 # lobehub/chat-plugin-search-engine
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/chat-plugin-search-engine) · [官网](https://search-engine.chat-plugin.lobehub.com) · 组织维护
+⭐ 47 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/chat-plugin-search-engine) · [官网](https://search-engine.chat-plugin.lobehub.com) · 组织维护
 
 **LobeChat 插件：接入 SerpApi 搜索引擎供对话调用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugin-search-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 47（+1）
 
 
 ---

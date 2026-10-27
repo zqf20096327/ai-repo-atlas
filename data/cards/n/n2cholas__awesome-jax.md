@@ -1,6 +1,6 @@
 # n2cholas/awesome-jax
 
-⭐ 2,168 · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/n2cholas/awesome-jax) · 个人维护
+⭐ 2,169 · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/n2cholas/awesome-jax) · 个人维护
 
 **JAX 生态资源策展清单：收录库、模型实现与项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "n2cholas/awesome-jax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 2167 --> 2170
-    line [2169, 2168, 2168]
+    line [2169, 2168, 2169]
 ```
 
-2026-10-18 2,169 → 2026-10-26 2,168（-1）
+2026-10-18 2,169 → 2026-10-27 2,169（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Cell Research 论文的官方代码实现：基于 TensorFlow/Keras 的 XBCR-net
 ```mermaid
 xychart-beta
     title "jianqingzheng/XBCR-net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

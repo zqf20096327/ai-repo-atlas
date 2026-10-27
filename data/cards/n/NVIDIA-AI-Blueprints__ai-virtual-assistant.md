@@ -45,13 +45,13 @@ NVIDIA AI Blueprint 系列的客服虚拟助手参考方案：基于 NIM 微服�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/ai-virtual-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "NVIDIA-AI-Blueprints/ai-virtual-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 279 --> 282
-    line [280, 281]
+    line [280, 281, 281]
 ```
 
-2026-10-18 280 → 2026-10-26 281（+1）
+2026-10-18 280 → 2026-10-27 281（+1）
 
 
 ---

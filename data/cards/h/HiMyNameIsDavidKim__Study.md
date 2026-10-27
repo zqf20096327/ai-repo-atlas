@@ -1,6 +1,6 @@
 # HiMyNameIsDavidKim/Study
 
-⭐ 28 · Jupyter Notebook · 推送 2026-10-19 · [GitHub](https://github.com/HiMyNameIsDavidKim/Study) · 个人维护
+⭐ 28 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/HiMyNameIsDavidKim/Study) · 个人维护
 
 **个人数据科学/AI 学习与论文阅读记录仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HiMyNameIsDavidKim/Study 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # larchanka/manbot
 
-⭐ 70 · TypeScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/larchanka/manbot) · [官网](https://manbothq.github.io/) · 个人维护
+⭐ 71 · TypeScript · MIT · 推送 2026-06-12 · [GitHub](https://github.com/larchanka/manbot) · [官网](https://manbothq.github.io/) · 个人维护
 
 **本地多进程 AI 任务执行平台：Telegram 交互，DAG 规划执行重任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "larchanka/manbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 69 --> 72
-    line [71, 70, 70]
+    line [71, 70, 71]
 ```
 
-2026-10-18 71 → 2026-10-26 70（-1）
+2026-10-18 71 → 2026-10-27 71（+0）
 
 
 ---

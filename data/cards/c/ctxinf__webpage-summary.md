@@ -1,6 +1,6 @@
 # ctxinf/webpage-summary
 
-⭐ 70 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ctxinf/webpage-summary) · 个人维护 · 中文 README
+⭐ 71 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ctxinf/webpage-summary) · 个人维护 · 中文 README
 
 **浏览器扩展：用自己的 API key 调 AI 总结网页正文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctxinf/webpage-summary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-10-26 70（+0）
+2026-10-18 70 → 2026-10-27 71（+1）
 
 
 ---

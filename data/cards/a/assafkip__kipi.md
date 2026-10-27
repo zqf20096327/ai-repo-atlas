@@ -1,6 +1,6 @@
 # assafkip/kipi
 
-⭐ 101 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/assafkip/kipi) · 个人维护
+⭐ 102 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/assafkip/kipi) · 个人维护
 
 **自托管 OSINT 调查平台：文档转实体图谱并由 agent 自主调查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "assafkip/kipi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 93 --> 102
-    line [94, 95, 97, 98, 99, 101]
+    title "assafkip/kipi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 93 --> 103
+    line [94, 95, 97, 98, 99, 101, 102]
 ```
 
-2026-10-18 94 → 2026-10-26 101（+7）
+2026-10-18 94 → 2026-10-27 102（+8）
 
 
 ---

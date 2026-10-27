@@ -1,6 +1,6 @@
 # ecogex/ai-label
 
-⭐ 33 · HTML · 推送 2026-04-09 · [GitHub](https://github.com/ecogex/ai-label) · [官网](https://ai-label.org) · 个人维护
+⭐ 33 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/ecogex/ai-label) · [官网](https://ai-label.org) · 个人维护
 
 **标注内容是否由 AI 生成的图形标签包**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "ecogex/ai-label 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-26 33（+1）
+2026-10-18 32 → 2026-10-27 33（+1）
 
 
 ---

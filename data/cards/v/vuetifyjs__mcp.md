@@ -45,12 +45,12 @@ Vuetify 官方维护的 Model Context Protocol 服务器，把 Vuetify 组件库
 ```mermaid
 xychart-beta
     title "vuetifyjs/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-26 115（+0）
+2026-10-18 115 → 2026-10-27 115（+0）
 
 
 ---

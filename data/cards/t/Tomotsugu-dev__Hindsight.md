@@ -1,6 +1,6 @@
 # Tomotsugu-dev/Hindsight
 
-⭐ 178 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Tomotsugu-dev/Hindsight) · [官网](https://hindsight.kyosweb.com/) · 个人维护 · 中文 README
+⭐ 186 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Tomotsugu-dev/Hindsight) · [官网](https://hindsight.kyosweb.com/) · 个人维护 · 中文 README
 
 **本地优先的桌面活动记录器：自动记录并用 AI 生成日报**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tomotsugu-dev/Hindsight 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 161 --> 179
-    line [162, 163, 165, 167, 169, 178]
+    title "Tomotsugu-dev/Hindsight 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 160 --> 188
+    line [162, 163, 165, 167, 169, 178, 186]
 ```
 
-2026-10-18 162 → 2026-10-26 178（+16）
+2026-10-18 162 → 2026-10-27 186（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zenglian990/AI_Tutor_Release
 
-⭐ 69 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Zenglian990/AI_Tutor_Release) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Zenglian990/AI_Tutor_Release) · 个人维护 · 中文 README
 
 **面向1-9年级学生的开源 RAG AI 教辅私教（移动/Web 应用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zenglian990/AI_Tutor_Release 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 64 --> 70
-    line [65, 67, 68, 69]
+    title "Zenglian990/AI_Tutor_Release 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 64 --> 73
+    line [65, 67, 68, 69, 72]
 ```
 
-2026-10-18 65 → 2026-10-26 69（+4）
+2026-10-18 65 → 2026-10-27 72（+7）
 
 
 ---

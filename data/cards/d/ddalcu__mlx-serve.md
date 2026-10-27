@@ -1,6 +1,6 @@
 # ddalcu/mlx-serve
 
-⭐ 2,095 · Zig · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
+⭐ 2,104 · Zig · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 与媒体推理服务器及原生应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ddalcu/mlx-serve 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1955 --> 2107
-    line [1967, 1989, 2017, 2033, 2060, 2074, 2095]
+    title "ddalcu/mlx-serve 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1954 --> 2117
+    line [1967, 1989, 2017, 2033, 2060, 2074, 2095, 2104]
 ```
 
-2026-10-18 1,967 → 2026-10-26 2,095（+128）
+2026-10-18 1,967 → 2026-10-27 2,104（+137）
 
 
 ---

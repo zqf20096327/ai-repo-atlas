@@ -1,6 +1,6 @@
 # ydflow/Trail
 
-⭐ 7 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/ydflow/Trail) · [官网](https://github.com/ydflow/Trail#readme) · 组织维护 · 中文 README
+⭐ 68 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/ydflow/Trail) · [官网](https://github.com/ydflow/Trail#readme) · 组织维护 · 中文 README
 
 **本地优先的 AI 投资研究桌面工作台，含证据链与持续复核**
 
@@ -46,12 +46,12 @@ Electron + React/TypeScript 桌面应用，面向需反复研究公开市场标�
 ```mermaid
 xychart-beta
     title "ydflow/Trail 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 0 --> 191
-    line [83, 175, 7, 7]
+    line [83, 175, 7, 68]
 ```
 
-2026-10-19 83 → 2026-10-26 7（-76）
+2026-10-19 83 → 2026-10-27 68（-15）
 
 
 ---

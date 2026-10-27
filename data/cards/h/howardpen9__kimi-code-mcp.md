@@ -46,12 +46,12 @@ TypeScript 实现的 MCP server，将 Claude Code 与 Kimi Code（k3/kimi-for-co
 ```mermaid
 xychart-beta
     title "howardpen9/kimi-code-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

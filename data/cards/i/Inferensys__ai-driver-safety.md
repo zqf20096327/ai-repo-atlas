@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Inferensys/ai-driver-safety 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Inferensys/ai-driver-safety 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 78 --> 81
-    line [79, 80]
+    line [79, 80, 80]
 ```
 
-2026-10-18 79 → 2026-10-26 80（+1）
+2026-10-18 79 → 2026-10-27 80（+1）
 
 
 ---

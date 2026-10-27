@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hotchpotch/openai-api-server-via-codex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "hotchpotch/openai-api-server-via-codex 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 81 --> 86
-    line [82, 83, 84, 85]
+    line [82, 83, 84, 85, 85]
 ```
 
-2026-10-18 82 → 2026-10-26 85（+3）
+2026-10-18 82 → 2026-10-27 85（+3）
 
 
 ---

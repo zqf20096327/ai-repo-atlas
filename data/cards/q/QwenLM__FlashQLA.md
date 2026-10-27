@@ -1,6 +1,6 @@
 # QwenLM/FlashQLA
 
-⭐ 737 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/FlashQLA) · 组织维护 · 中文 README
+⭐ 738 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/QwenLM/FlashQLA) · 组织维护 · 中文 README
 
 **基于 TileLang 的 GDN 线性注意力高性能 GPU 核文库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/FlashQLA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 727 --> 738
-    line [728, 732, 735, 736, 737, 737]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 727 --> 739
+    line [728, 732, 735, 736, 737, 738]
 ```
 
-2026-10-18 728 → 2026-10-26 737（+9）
+2026-10-18 728 → 2026-10-27 738（+10）
 
 
 ---

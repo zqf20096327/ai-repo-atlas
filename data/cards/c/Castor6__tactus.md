@@ -1,6 +1,6 @@
 # Castor6/tactus
 
-⭐ 378 · TypeScript · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Castor6/tactus) · [官网](https://tactus.cc.cd/) · 个人维护 · 中文 README
+⭐ 379 · TypeScript · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Castor6/tactus) · [官网](https://tactus.cc.cd/) · 个人维护 · 中文 README
 
 **支持 Agent Skills 的浏览器 AI Agent 扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Castor6/tactus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 377 --> 381
-    line [380, 379, 378, 378]
+    line [380, 379, 378, 379]
 ```
 
-2026-10-18 380 → 2026-10-26 378（-2）
+2026-10-18 380 → 2026-10-27 379（-1）
 
 
 ---

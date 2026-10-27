@@ -1,6 +1,6 @@
 # Litlyx/litlyx
 
-⭐ 1,747 · TypeScript · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/Litlyx/litlyx) · [官网](https://litlyx.com) · 组织维护
+⭐ 1,748 · TypeScript · Apache-2.0 · 推送 2025-12-03 · [GitHub](https://github.com/Litlyx/litlyx) · [官网](https://litlyx.com) · 组织维护
 
 **面向网站的 Cookie-free 自托管分析工具**
 
@@ -45,13 +45,13 @@ Litlyx 是一个网站访问分析工具：通过 script 标签或 npm 包接入
 
 ```mermaid
 xychart-beta
-    title "Litlyx/litlyx 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1742 --> 1748
-    line [1743, 1744, 1745, 1746, 1747]
+    title "Litlyx/litlyx 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1742 --> 1749
+    line [1743, 1744, 1745, 1746, 1747, 1748]
 ```
 
-2026-10-18 1,743 → 2026-10-26 1,747（+4）
+2026-10-18 1,743 → 2026-10-27 1,748（+5）
 
 
 ---

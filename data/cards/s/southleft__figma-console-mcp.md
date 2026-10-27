@@ -1,6 +1,6 @@
 # southleft/figma-console-mcp
 
-⭐ 2,598 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 个人维护
+⭐ 2,605 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 个人维护
 
 **连接 AI 与 Figma 的双向设计系统 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "southleft/figma-console-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2502 --> 2606
-    line [2510, 2543, 2573, 2581, 2593, 2594, 2598]
+    title "southleft/figma-console-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2501 --> 2614
+    line [2510, 2543, 2573, 2581, 2593, 2594, 2598, 2605]
 ```
 
-2026-10-18 2,510 → 2026-10-26 2,598（+88）
+2026-10-18 2,510 → 2026-10-27 2,605（+95）
 
 
 ---

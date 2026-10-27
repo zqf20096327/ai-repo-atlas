@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yanshengjia/artificial-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 527 --> 529
     line [528, 528]
 ```
 
-2026-10-18 528 → 2026-10-26 528（+0）
+2026-10-18 528 → 2026-10-27 528（+0）
 
 
 ---

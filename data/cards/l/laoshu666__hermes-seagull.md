@@ -1,6 +1,6 @@
 # laoshu666/hermes-seagull
 
-⭐ 95 · PowerShell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/laoshu666/hermes-seagull) · [官网](https://hermes-agent.nousresearch.com) · 个人维护 · 中文 README
+⭐ 99 · PowerShell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/laoshu666/hermes-seagull) · [官网](https://hermes-agent.nousresearch.com) · 个人维护 · 中文 README
 
 **面向 Hermes Agent 的 CTF/红队 AI 人格插件**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "laoshu666/hermes-seagull 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 70 --> 97
-    line [72, 79, 85, 88, 90, 94, 95]
+    title "laoshu666/hermes-seagull 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 70 --> 101
+    line [72, 79, 85, 88, 90, 94, 95, 99]
 ```
 
-2026-10-18 72 → 2026-10-26 95（+23）
+2026-10-18 72 → 2026-10-27 99（+27）
 
 
 ---

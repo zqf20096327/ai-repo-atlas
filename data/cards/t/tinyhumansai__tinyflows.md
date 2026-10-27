@@ -1,6 +1,6 @@
 # tinyhumansai/tinyflows
 
-⭐ 86 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/tinyhumansai/tinyflows) · [官网](https://crates.io/crates/tinyflows) · 组织维护
+⭐ 86 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tinyhumansai/tinyflows) · [官网](https://crates.io/crates/tinyflows) · 组织维护
 
 **Rust 工作流自动化引擎库：供宿主应用构建运行 agentic 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinyhumansai/tinyflows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 84 --> 87
     line [85, 86, 86]
 ```
 
-2026-10-18 85 → 2026-10-26 86（+1）
+2026-10-18 85 → 2026-10-27 86（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Python 应用，通过 Reddit API 抓取配置的与探索性 subreddit 的帖�
 ```mermaid
 xychart-beta
     title "Mohamedsaleh14/Reddit_Scrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 213 --> 215
     line [214, 214]
 ```
 
-2026-10-18 214 → 2026-10-26 214（+0）
+2026-10-18 214 → 2026-10-27 214（+0）
 
 
 ---

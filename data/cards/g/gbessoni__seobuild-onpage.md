@@ -1,6 +1,6 @@
 # gbessoni/seobuild-onpage
 
-⭐ 260 · Python · 推送 2026-10-20 · [GitHub](https://github.com/gbessoni/seobuild-onpage) · 个人维护
+⭐ 261 · Python · 推送 2026-10-20 · [GitHub](https://github.com/gbessoni/seobuild-onpage) · 个人维护
 
 **面向 SEO/GEO 的页面生成 AI agent：一条命令产出可排名页面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gbessoni/seobuild-onpage 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 256 --> 261
-    line [257, 258, 259, 260, 260]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 256 --> 262
+    line [257, 258, 259, 260, 261]
 ```
 
-2026-10-18 257 → 2026-10-26 260（+3）
+2026-10-18 257 → 2026-10-27 261（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # openclaw/Peekaboo
 
-⭐ 5,387 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/openclaw/Peekaboo) · [官网](http://www.peekaboo.boo) · 个人维护
+⭐ 5,394 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openclaw/Peekaboo) · [官网](http://www.peekaboo.boo) · 个人维护
 
 **macOS 屏幕截图与 UI 自动化 CLI，可供 AI agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openclaw/Peekaboo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5330 --> 5392
-    line [5335, 5345, 5359, 5373, 5379, 5380, 5387]
+    title "openclaw/Peekaboo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5330 --> 5399
+    line [5335, 5345, 5359, 5373, 5379, 5380, 5387, 5394]
 ```
 
-2026-10-18 5,335 → 2026-10-26 5,387（+52）
+2026-10-18 5,335 → 2026-10-27 5,394（+59）
 
 
 ---

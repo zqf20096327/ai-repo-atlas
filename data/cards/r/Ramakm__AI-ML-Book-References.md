@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ramakm/AI-ML-Book-References 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Ramakm/AI-ML-Book-References 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 542 --> 545
-    line [543, 544]
+    line [543, 544, 544]
 ```
 
-2026-10-18 543 → 2026-10-26 544（+1）
+2026-10-18 543 → 2026-10-27 544（+1）
 
 
 ---

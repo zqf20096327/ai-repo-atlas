@@ -1,6 +1,6 @@
 # ofershap/real-browser-mcp
 
-⭐ 57 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ofershap/real-browser-mcp) · 个人维护
+⭐ 58 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ofershap/real-browser-mcp) · 个人维护
 
 **让 AI 代理控制你已登录的真实 Chrome 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ofershap/real-browser-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-26 57（+1）
+2026-10-18 56 → 2026-10-27 58（+2）
 
 
 ---

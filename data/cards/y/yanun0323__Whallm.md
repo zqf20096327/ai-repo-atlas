@@ -1,6 +1,6 @@
 # yanun0323/Whallm
 
-⭐ 150 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yanun0323/Whallm) · 个人维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yanun0323/Whallm) · 个人维护 · 中文 README
 
 **在 Apple Silicon Mac 上本地运行超大 MoE 模型的推理应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yanun0323/Whallm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 142 --> 151
-    line [143, 147, 149, 150, 150]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 142 --> 153
+    line [143, 147, 149, 150, 152]
 ```
 
-2026-10-18 143 → 2026-10-26 150（+7）
+2026-10-18 143 → 2026-10-27 152（+9）
 
 
 ---

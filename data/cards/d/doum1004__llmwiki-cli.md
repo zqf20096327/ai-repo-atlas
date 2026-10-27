@@ -45,12 +45,12 @@ npm 安装的 CLI，提供 wiki init/read/write/search/lint/links 等命令，�
 ```mermaid
 xychart-beta
     title "doum1004/llmwiki-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 102 --> 104
     line [103, 103]
 ```
 
-2026-10-18 103 → 2026-10-26 103（+0）
+2026-10-18 103 → 2026-10-27 103（+0）
 
 
 ---

@@ -45,12 +45,12 @@ VideoDB Capture SDK 提供桌面屏幕、麦克风与系统音频的实时采集
 ```mermaid
 xychart-beta
     title "video-db/videodb-capture-quickstart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

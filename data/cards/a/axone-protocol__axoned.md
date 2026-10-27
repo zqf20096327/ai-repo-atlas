@@ -1,6 +1,6 @@
 # axone-protocol/axoned
 
-⭐ 177 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/axone-protocol/axoned) · [官网](https://axone.xyz) · 组织维护
+⭐ 177 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/axone-protocol/axoned) · [官网](https://axone.xyz) · 组织维护
 
 **面向 AI 资源共享与编排的 Cosmos SDK 公链节点实现**
 
@@ -46,12 +46,12 @@ axoned 是 AXONE 网络（dPoS layer 1）的节点软件，基于 Cosmos SDK 与
 ```mermaid
 xychart-beta
     title "axone-protocol/axoned 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-10-26 177（+0）
+2026-10-18 177 → 2026-10-27 177（+0）
 
 
 ---

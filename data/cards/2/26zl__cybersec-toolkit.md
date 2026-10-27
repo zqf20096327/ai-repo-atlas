@@ -1,6 +1,6 @@
 # 26zl/cybersec-toolkit
 
-⭐ 82 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/26zl/cybersec-toolkit) · 个人维护
+⭐ 84 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/26zl/cybersec-toolkit) · 个人维护
 
 **AI agent 驱动的安全工具集：一键装 670+ 工具+MCP 治理执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "26zl/cybersec-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 75 --> 83
-    line [76, 77, 78, 80, 82]
+    title "26zl/cybersec-toolkit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 75 --> 85
+    line [76, 77, 78, 80, 82, 84]
 ```
 
-2026-10-18 76 → 2026-10-26 82（+6）
+2026-10-18 76 → 2026-10-27 84（+8）
 
 
 ---

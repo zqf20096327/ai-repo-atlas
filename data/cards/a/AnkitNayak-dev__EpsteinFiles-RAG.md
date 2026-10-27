@@ -1,6 +1,6 @@
 # AnkitNayak-dev/EpsteinFiles-RAG
 
-⭐ 387 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) · 个人维护
+⭐ 386 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/AnkitNayak-dev/EpsteinFiles-RAG) · 个人维护
 
 **基于 Epstein 文件数据集的 RAG 问答系统：检索文档生成有据回答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnkitNayak-dev/EpsteinFiles-RAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 385 --> 388
-    line [386, 387, 387]
+    line [386, 387, 386]
 ```
 
-2026-10-18 386 → 2026-10-26 387（+1）
+2026-10-18 386 → 2026-10-27 386（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI-Northstar-Tech/vector-io
 
-⭐ 271 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/AI-Northstar-Tech/vector-io) · [官网](https://vector-io.com) · 个人维护
+⭐ 271 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AI-Northstar-Tech/vector-io) · [官网](https://vector-io.com) · 个人维护
 
 **向量数据库通用导入导出工具：统一格式迁移与重嵌入向量数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-Northstar-Tech/vector-io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 270 --> 272
     line [271, 271]
 ```
 
-2026-10-18 271 → 2026-10-26 271（+0）
+2026-10-18 271 → 2026-10-27 271（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # coderamp-labs/gitingest
 
-⭐ 16,009 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
+⭐ 16,017 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/coderamp-labs/gitingest) · [官网](https://gitingest.com) · 组织维护 · 中文 README
 
 **把 Git 仓库转成 LLM 可用文本摘要的开发者工具**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "coderamp-labs/gitingest 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15935 --> 16015
-    line [15941, 15957, 15974, 15980, 15985, 15996, 16009]
+    title "coderamp-labs/gitingest 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 15934 --> 16024
+    line [15941, 15957, 15974, 15980, 15985, 15996, 16009, 16017]
 ```
 
-2026-10-18 15,941 → 2026-10-26 16,009（+68）
+2026-10-18 15,941 → 2026-10-27 16,017（+76）
 
 
 ---

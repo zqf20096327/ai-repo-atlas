@@ -1,6 +1,6 @@
 # hajdu-patrik/trirouter
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/hajdu-patrik/trirouter) · 个人维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hajdu-patrik/trirouter) · 个人维护
 
 **多 agent 编码工具的提示路由与编排系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hajdu-patrik/trirouter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18 --> 33
-    line [19, 20, 23, 25, 27, 30, 32]
+    title "hajdu-patrik/trirouter 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18 --> 34
+    line [19, 20, 23, 25, 27, 30, 32, 33]
 ```
 
-2026-10-18 19 → 2026-10-26 32（+13）
+2026-10-18 19 → 2026-10-27 33（+14）
 
 
 ---

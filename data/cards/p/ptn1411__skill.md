@@ -1,6 +1,6 @@
 # ptn1411/skill
 
-⭐ 299 · Python · 推送 2026-09-22 · [GitHub](https://github.com/ptn1411/skill) · [官网](https://ptn1411.github.io/skill/skill_playbook.html) · 个人维护
+⭐ 308 · Python · 推送 2026-09-22 · [GitHub](https://github.com/ptn1411/skill) · [官网](https://ptn1411.github.io/skill/skill_playbook.html) · 个人维护
 
 **面向 AI agent 的授权安全审计技能集与配套 Python CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ptn1411/skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 250 --> 303
-    line [254, 267, 272, 277, 278, 299]
+    title "ptn1411/skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 249 --> 313
+    line [254, 267, 272, 277, 278, 299, 308]
 ```
 
-2026-10-18 254 → 2026-10-26 299（+45）
+2026-10-18 254 → 2026-10-27 308（+54）
 
 
 ---

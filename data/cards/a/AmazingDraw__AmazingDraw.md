@@ -1,6 +1,6 @@
 # AmazingDraw/AmazingDraw
 
-⭐ 82 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AmazingDraw/AmazingDraw) · [官网](https://t.me/AmazingDraw) · 个人维护 · 中文 README
+⭐ 81 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AmazingDraw/AmazingDraw) · [官网](https://t.me/AmazingDraw) · 个人维护 · 中文 README
 
 **本地 ComfyUI 抽卡引擎：一句话生成图片，内置场景/角色库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmazingDraw/AmazingDraw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "AmazingDraw/AmazingDraw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 73 --> 83
-    line [74, 79, 80, 82]
+    line [74, 79, 80, 82, 81]
 ```
 
-2026-10-18 74 → 2026-10-26 82（+8）
+2026-10-18 74 → 2026-10-27 81（+7）
 
 
 ---

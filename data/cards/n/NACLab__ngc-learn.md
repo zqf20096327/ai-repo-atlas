@@ -1,6 +1,6 @@
 # NACLab/ngc-learn
 
-⭐ 212 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/NACLab/ngc-learn) · [官网](https://ngc-learn.readthedocs.io/en/latest/#) · 组织维护
+⭐ 212 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/NACLab/ngc-learn) · [官网](https://ngc-learn.readthedocs.io/en/latest/#) · 组织维护
 
 **计算神经科学研究库：构建与仿真生物合理的神经网络与智能体**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NACLab/ngc-learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "NACLab/ngc-learn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 210 --> 213
-    line [211, 212]
+    line [211, 212, 212]
 ```
 
-2026-10-18 211 → 2026-10-26 212（+1）
+2026-10-18 211 → 2026-10-27 212（+1）
 
 
 ---

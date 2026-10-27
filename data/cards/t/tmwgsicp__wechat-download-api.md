@@ -1,6 +1,6 @@
 # tmwgsicp/wechat-download-api
 
-⭐ 1,198 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/tmwgsicp/wechat-download-api) · [官网](https://wechatrss.waytomaster.com) · 个人维护 · 中文 README
+⭐ 1,199 · Python · AGPL-3.0 · 推送 2026-07-27 · [GitHub](https://github.com/tmwgsicp/wechat-download-api) · [官网](https://wechatrss.waytomaster.com) · 个人维护 · 中文 README
 
 **微信公众号文章获取与 RSS 订阅 API 服务，支持多格式导出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tmwgsicp/wechat-download-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1178 --> 1199
-    line [1179, 1184, 1188, 1190, 1193, 1198]
+    title "tmwgsicp/wechat-download-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1177 --> 1201
+    line [1179, 1184, 1188, 1190, 1193, 1198, 1199]
 ```
 
-2026-10-18 1,179 → 2026-10-26 1,198（+19）
+2026-10-18 1,179 → 2026-10-27 1,199（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # stephanj/LSP4J-MCP
 
-⭐ 37 · Java · 推送 2026-10-05 · [GitHub](https://github.com/stephanj/LSP4J-MCP) · 个人维护
+⭐ 38 · Java · 推送 2026-10-05 · [GitHub](https://github.com/stephanj/LSP4J-MCP) · 个人维护
 
 **将 JDTLS 的 Java IDE 能力经 MCP 暴露给 AI 助手的服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "stephanj/LSP4J-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 38（+1）
 
 
 ---

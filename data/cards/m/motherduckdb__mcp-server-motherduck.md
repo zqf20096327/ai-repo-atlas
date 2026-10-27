@@ -1,6 +1,6 @@
 # motherduckdb/mcp-server-motherduck
 
-⭐ 534 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/motherduckdb/mcp-server-motherduck) · 组织维护
+⭐ 535 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/motherduckdb/mcp-server-motherduck) · 组织维护
 
 **面向 AI 助手的 DuckDB/MotherDuck 本地 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "motherduckdb/mcp-server-motherduck 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 529 --> 535
-    line [530, 532, 533, 534, 534]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 529 --> 536
+    line [530, 532, 533, 534, 535]
 ```
 
-2026-10-18 530 → 2026-10-26 534（+4）
+2026-10-18 530 → 2026-10-27 535（+5）
 
 
 ---

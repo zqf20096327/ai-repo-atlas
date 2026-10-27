@@ -1,6 +1,6 @@
 # notwitcheer/llm-bench-rig
 
-⭐ 42 · Python · 推送 2026-10-25 · [GitHub](https://github.com/notwitcheer/llm-bench-rig) · 个人维护
+⭐ 42 · Python · 推送 2026-10-26 · [GitHub](https://github.com/notwitcheer/llm-bench-rig) · 个人维护
 
 **NVIDIA GPU 上的 LLM 双引擎基准测试流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "notwitcheer/llm-bench-rig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "notwitcheer/llm-bench-rig 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 42（+1）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

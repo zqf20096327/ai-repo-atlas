@@ -1,6 +1,6 @@
 # alikon-art/DeterminFlow
 
-⭐ 934 · Python · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/alikon-art/DeterminFlow) · 个人维护 · 中文 README
+⭐ 937 · Python · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/alikon-art/DeterminFlow) · 个人维护 · 中文 README
 
 **面向生产的 AI 工作流运行时：编排、校验、恢复并交付为服务**
 
@@ -45,13 +45,13 @@ DeterminFlow 是一个 AI 工作流运行框架，把 LLM、脚本、API、数�
 
 ```mermaid
 xychart-beta
-    title "alikon-art/DeterminFlow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 914 --> 935
-    line [915, 922, 927, 931, 934]
+    title "alikon-art/DeterminFlow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 913 --> 939
+    line [915, 922, 927, 931, 934, 937]
 ```
 
-2026-10-18 915 → 2026-10-26 934（+19）
+2026-10-18 915 → 2026-10-27 937（+22）
 
 
 ---

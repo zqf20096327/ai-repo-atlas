@@ -1,6 +1,6 @@
 # Soneji/spotify-vibe-check
 
-⭐ 26 · JavaScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Soneji/spotify-vibe-check) · [官网](https://spotify.soneji.xyz) · 个人维护
+⭐ 26 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Soneji/spotify-vibe-check) · [官网](https://spotify.soneji.xyz) · 个人维护
 
 **分析 Spotify 播放列表“氛围”的 Web 应用（因 CORS 暂不可用）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Soneji/spotify-vibe-check 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

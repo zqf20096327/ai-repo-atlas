@@ -1,6 +1,6 @@
 # GetStream/Vision-Agents
 
-⭐ 8,186 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/GetStream/Vision-Agents) · [官网](https://visionagents.ai) · 组织维护
+⭐ 8,187 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GetStream/Vision-Agents) · [官网](https://visionagents.ai) · 组织维护
 
 **构建实时语音/视觉 Agent 的开源框架（Stream 出品）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GetStream/Vision-Agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 8169 --> 8187
-    line [8170, 8183, 8184, 8185, 8184, 8186]
+    title "GetStream/Vision-Agents 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8169 --> 8188
+    line [8170, 8183, 8184, 8185, 8184, 8186, 8187]
 ```
 
-2026-10-18 8,170 → 2026-10-26 8,186（+16）
+2026-10-18 8,170 → 2026-10-27 8,187（+17）
 
 
 ---

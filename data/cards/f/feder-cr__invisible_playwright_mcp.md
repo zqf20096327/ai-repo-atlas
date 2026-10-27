@@ -1,6 +1,6 @@
 # feder-cr/invisible_playwright_mcp
 
-⭐ 881 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/feder-cr/invisible_playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
+⭐ 883 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/feder-cr/invisible_playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
 
 **绕过反爬检测的隐身浏览器自动化 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feder-cr/invisible_playwright_mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "feder-cr/invisible_playwright_mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 684 --> 2958
-    line [2762, 2769, 873, 876, 877, 881]
+    line [2762, 2769, 873, 876, 877, 881, 883]
 ```
 
-2026-10-18 2,762 → 2026-10-26 881（-1,881）
+2026-10-18 2,762 → 2026-10-27 883（-1,879）
 
 
 ---

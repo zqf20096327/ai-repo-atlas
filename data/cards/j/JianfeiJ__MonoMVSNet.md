@@ -1,6 +1,6 @@
 # JianfeiJ/MonoMVSNet
 
-⭐ 40 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/JianfeiJ/MonoMVSNet) · 组织维护
+⭐ 41 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/JianfeiJ/MonoMVSNet) · 组织维护
 
 **单目先验引导的多视图立体网络：从多视图图像生成深度图与稠密点云**
 
@@ -44,12 +44,12 @@ ICCV 2025 论文 MonoMVSNet 的官方代码，面向三维重建与多视图立�
 ```mermaid
 xychart-beta
     title "JianfeiJ/MonoMVSNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-26 40（+0）
+2026-10-18 40 → 2026-10-27 41（+1）
 
 
 ---

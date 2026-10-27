@@ -1,6 +1,6 @@
 # swarmclawai/swarmvault
 
-⭐ 730 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmvault) · [官网](https://www.swarmvault.ai) · 组织维护 · 中文 README
+⭐ 729 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmvault) · [官网](https://www.swarmvault.ai) · 组织维护 · 中文 README
 
 **本地优先的 LLM Wiki 工具链：把文档/代码构建为知识图谱与 RAG 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swarmclawai/swarmvault 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 721 --> 731
-    line [722, 723, 727, 729, 730, 730]
+    line [722, 723, 727, 729, 730, 729]
 ```
 
-2026-10-18 722 → 2026-10-26 730（+8）
+2026-10-18 722 → 2026-10-27 729（+7）
 
 
 ---

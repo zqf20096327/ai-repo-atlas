@@ -1,6 +1,6 @@
 # petekp/claude-code-setup
 
-⭐ 48 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/petekp/claude-code-setup) · 个人维护
+⭐ 48 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/petekp/claude-code-setup) · 个人维护
 
 **可 fork 的 Claude Code/Codex 配置集：技能与脚本一键链接同步**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "petekp/claude-code-setup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

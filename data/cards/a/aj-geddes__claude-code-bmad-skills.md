@@ -1,6 +1,6 @@
 # aj-geddes/claude-code-bmad-skills
 
-⭐ 492 · Shell · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/aj-geddes/claude-code-bmad-skills) · 个人维护
+⭐ 493 · Shell · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/aj-geddes/claude-code-bmad-skills) · 个人维护
 
 **把 BMAD 敏捷方法接入 Claude Code 的规划编排插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aj-geddes/claude-code-bmad-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 487 --> 493
-    line [488, 489, 492, 492]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 487 --> 494
+    line [488, 489, 492, 493]
 ```
 
-2026-10-18 488 → 2026-10-26 492（+4）
+2026-10-18 488 → 2026-10-27 493（+5）
 
 
 ---

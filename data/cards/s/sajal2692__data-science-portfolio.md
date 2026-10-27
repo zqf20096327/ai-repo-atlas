@@ -1,6 +1,6 @@
 # sajal2692/data-science-portfolio
 
-⭐ 1,449 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sajal2692/data-science-portfolio) · [官网](https://sajalsharma.com) · 个人维护
+⭐ 1,450 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/sajal2692/data-science-portfolio) · [官网](https://sajalsharma.com) · 个人维护
 
 **个人数据科学项目作品集：Jupyter 笔记本与 R 分析集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sajal2692/data-science-portfolio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1436 --> 1450
-    line [1437, 1440, 1442, 1444, 1447, 1448, 1449]
+    title "sajal2692/data-science-portfolio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1436 --> 1451
+    line [1437, 1440, 1442, 1444, 1447, 1448, 1449, 1450]
 ```
 
-2026-10-18 1,437 → 2026-10-26 1,449（+12）
+2026-10-18 1,437 → 2026-10-27 1,450（+13）
 
 
 ---

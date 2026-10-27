@@ -1,6 +1,6 @@
 # aixplain/koder
 
-⭐ 34 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/aixplain/koder) · [官网](https://koder.aixplain.com) · 组织维护
+⭐ 34 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/aixplain/koder) · [官网](https://koder.aixplain.com) · 组织维护
 
 **桌面与终端 AI 编程代理，带权限检查与可审查改动**
 
@@ -46,12 +46,12 @@ aixplain 公司开发的 AI 编程代理，提供桌面应用（含 Koder 编程
 ```mermaid
 xychart-beta
     title "aixplain/koder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

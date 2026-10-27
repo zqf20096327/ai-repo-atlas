@@ -1,6 +1,6 @@
 # AgriciDaniel/fablesecondbrain
 
-⭐ 41 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/fablesecondbrain) · [官网](https://agricidaniel.github.io/fablesecondbrain) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/fablesecondbrain) · [官网](https://agricidaniel.github.io/fablesecondbrain) · 个人维护
 
 **面向 Claude Fable 5 与 agent 运维的 Obsidian 知识库（第二大脑）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/fablesecondbrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # weaviate/weaviate-go-client
 
-⭐ 61 · Go · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/weaviate/weaviate-go-client) · 组织维护
+⭐ 61 · Go · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/weaviate/weaviate-go-client) · 组织维护
 
 **Weaviate 数据库的官方 Go 客户端库**
 
@@ -43,12 +43,12 @@ Weaviate 向量数据库的原生 Go 客户端，供开发者在 Go 程序中连
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-go-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

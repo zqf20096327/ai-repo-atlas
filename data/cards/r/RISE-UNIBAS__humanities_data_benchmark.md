@@ -1,6 +1,6 @@
 # RISE-UNIBAS/humanities_data_benchmark
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/RISE-UNIBAS/humanities_data_benchmark) · [官网](https://rise-services.rise.unibas.ch/benchmarks/) · 组织维护
+⭐ 31 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/RISE-UNIBAS/humanities_data_benchmark) · [官网](https://rise-services.rise.unibas.ch/benchmarks/) · 组织维护
 
 **面向人文数据的 LLM 评测基准套件：转录、抽取与版面分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RISE-UNIBAS/humanities_data_benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

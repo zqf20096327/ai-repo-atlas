@@ -1,6 +1,6 @@
 # google-deepmind/dm_pix
 
-⭐ 452 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/dm_pix) · [官网](https://dm-pix.readthedocs.io) · 组织维护
+⭐ 452 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/dm_pix) · [官网](https://dm-pix.readthedocs.io) · 组织维护
 
 **基于 JAX 的图像处理函数库，支持 jit/vmap/pmap 加速**
 
@@ -47,12 +47,12 @@ PIX 是 DeepMind JAX Ecosystem 中的纯 Python 图像处理库，构建于 JAX 
 ```mermaid
 xychart-beta
     title "google-deepmind/dm_pix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 451 --> 453
     line [452, 452]
 ```
 
-2026-10-18 452 → 2026-10-26 452（+0）
+2026-10-18 452 → 2026-10-27 452（+0）
 
 
 ---

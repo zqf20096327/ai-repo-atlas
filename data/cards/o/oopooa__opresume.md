@@ -1,6 +1,6 @@
 # oopooa/opresume
 
-⭐ 268 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/oopooa/opresume) · [官网](https://opresume.pages.dev) · 个人维护 · 中文 README
+⭐ 267 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/oopooa/opresume) · [官网](https://opresume.pages.dev) · 个人维护 · 中文 README
 
 **本地运行的简历制作工具，数据仅存浏览器，含 AI 辅助功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oopooa/opresume 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 265 --> 269
-    line [266, 267, 268, 268]
+    line [266, 267, 268, 267]
 ```
 
-2026-10-18 266 → 2026-10-26 268（+2）
+2026-10-18 266 → 2026-10-27 267（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Soodok/Deepseek-Harness-Local-Android
 
-⭐ 343 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Soodok/Deepseek-Harness-Local-Android) · 个人维护 · 中文 README
+⭐ 350 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Soodok/Deepseek-Harness-Local-Android) · 个人维护 · 中文 README
 
 **在 Android 手机本地运行 DeepSeek Harness Agent 的移植 App**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Soodok/Deepseek-Harness-Local-Android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 266 --> 350
-    line [273, 296, 307, 305, 310, 326, 343]
+    title "Soodok/Deepseek-Harness-Local-Android 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 266 --> 357
+    line [273, 296, 307, 305, 310, 326, 343, 350]
 ```
 
-2026-10-18 273 → 2026-10-26 343（+70）
+2026-10-18 273 → 2026-10-27 350（+77）
 
 
 ---

@@ -1,6 +1,6 @@
 # SnowLeopard-Elysia/SnowLeopard-Vision
 
-⭐ 195 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/SnowLeopard-Elysia/SnowLeopard-Vision) · [官网](https://snowleopard-elysia.github.io/SnowLeopard-Vision/) · 个人维护 · 中文 README
+⭐ 197 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/SnowLeopard-Elysia/SnowLeopard-Vision) · [官网](https://snowleopard-elysia.github.io/SnowLeopard-Vision/) · 个人维护 · 中文 README
 
 **本地 AI 图片与视频增强工具：超分与补帧**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SnowLeopard-Elysia/SnowLeopard-Vision 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 172 --> 197
-    line [174, 180, 184, 186, 190, 195, 195]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 172 --> 199
+    line [174, 180, 184, 186, 190, 195, 197]
 ```
 
-2026-10-18 174 → 2026-10-26 195（+21）
+2026-10-18 174 → 2026-10-27 197（+23）
 
 
 ---

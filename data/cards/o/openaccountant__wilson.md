@@ -1,6 +1,6 @@
 # openaccountant/wilson
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/openaccountant/wilson) · [官网](https://openaccountant.ai) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/openaccountant/wilson) · [官网](https://openaccountant.ai) · 组织维护
 
 **本地优先的 AI 记账 CLI：导入账单、AI 分类、预算与报表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openaccountant/wilson 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 43 --> 48
-    line [44, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 43 --> 49
+    line [44, 46, 47, 48]
 ```
 
-2026-10-18 44 → 2026-10-26 47（+3）
+2026-10-18 44 → 2026-10-27 48（+4）
 
 
 ---

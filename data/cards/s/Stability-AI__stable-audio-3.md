@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-3
 
-⭐ 824 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Stability-AI/stable-audio-3) · 组织维护
+⭐ 828 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Stability-AI/stable-audio-3) · 组织维护
 
 **音频/音乐生成开源平台：文本生成音频、编辑与微调**
 
@@ -45,13 +45,13 @@ Stability AI 的音频与音乐生成推理及 LoRA 微调平台，提供 Small-
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/stable-audio-3 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 804 --> 825
-    line [805, 809, 814, 819, 821, 823, 824]
+    title "Stability-AI/stable-audio-3 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 803 --> 830
+    line [805, 809, 814, 819, 821, 823, 824, 828]
 ```
 
-2026-10-18 805 → 2026-10-26 824（+19）
+2026-10-18 805 → 2026-10-27 828（+23）
 
 
 ---

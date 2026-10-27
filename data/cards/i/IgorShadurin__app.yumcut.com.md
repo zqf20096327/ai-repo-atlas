@@ -1,6 +1,6 @@
 # IgorShadurin/app.yumcut.com
 
-⭐ 895 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/IgorShadurin/app.yumcut.com) · [官网](https://yumcut.com) · 个人维护
+⭐ 897 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/IgorShadurin/app.yumcut.com) · [官网](https://yumcut.com) · 个人维护
 
 **自托管的 AI 竖版短视频生成器：提示词转 TikTok/Shorts 成片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IgorShadurin/app.yumcut.com 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 892 --> 896
-    line [893, 894, 895, 895]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 892 --> 898
+    line [893, 894, 895, 897]
 ```
 
-2026-10-18 893 → 2026-10-26 895（+2）
+2026-10-18 893 → 2026-10-27 897（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hyperai/triton-cn
 
-⭐ 128 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hyperai/triton-cn) · [官网](https://triton.hyper.ai) · 组织维护 · 中文 README
+⭐ 129 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hyperai/triton-cn) · [官网](https://triton.hyper.ai) · 组织维护 · 中文 README
 
 **Triton 中文文档翻译项目：GPU 内核编程语言的学习资料**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hyperai/triton-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 127 --> 130
+    line [128, 129]
 ```
 
-2026-10-18 128 → 2026-10-26 128（+0）
+2026-10-18 128 → 2026-10-27 129（+1）
 
 
 ---

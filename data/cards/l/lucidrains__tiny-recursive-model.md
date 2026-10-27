@@ -44,12 +44,12 @@ lucidrains 对 Tiny Recursive Model (TRM) 的非官方 PyTorch 实现。TRM 是 
 ```mermaid
 xychart-beta
     title "lucidrains/tiny-recursive-model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-10-26 192（+0）
+2026-10-18 192 → 2026-10-27 192（+0）
 
 
 ---

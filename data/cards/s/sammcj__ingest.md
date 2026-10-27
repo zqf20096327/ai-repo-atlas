@@ -1,6 +1,6 @@
 # sammcj/ingest
 
-⭐ 389 · Go · MIT · 推送 2026-08-11 · [GitHub](https://github.com/sammcj/ingest) · 个人维护
+⭐ 388 · Go · MIT · 推送 2026-08-11 · [GitHub](https://github.com/sammcj/ingest) · 个人维护
 
 **把代码目录/网页解析为单个 Markdown 供 AI/LLM 摄入的 CLI**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具：遍历目录生成文件树与合并 Markdown，�
 ```mermaid
 xychart-beta
     title "sammcj/ingest 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 387 --> 390
-    line [388, 389, 389]
+    line [388, 389, 388]
 ```
 
-2026-10-18 388 → 2026-10-26 389（+1）
+2026-10-18 388 → 2026-10-27 388（+0）
 
 
 ---

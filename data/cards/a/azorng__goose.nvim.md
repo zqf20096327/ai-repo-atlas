@@ -1,6 +1,6 @@
 # azorng/goose.nvim
 
-⭐ 313 · Lua · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/azorng/goose.nvim) · 个人维护
+⭐ 314 · Lua · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/azorng/goose.nvim) · 个人维护
 
 **Neovim 插件：在编辑器内接入 goose AI agent 对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "azorng/goose.nvim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 312 --> 315
-    line [314, 313, 313]
+    line [314, 313, 314]
 ```
 
-2026-10-18 314 → 2026-10-26 313（-1）
+2026-10-18 314 → 2026-10-27 314（+0）
 
 
 ---

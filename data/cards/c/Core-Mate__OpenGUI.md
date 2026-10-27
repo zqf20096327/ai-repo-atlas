@@ -1,6 +1,6 @@
 # Core-Mate/OpenGUI
 
-⭐ 1,802 · HTML · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Core-Mate/OpenGUI) · [官网](https://opengui.ai/) · 组织维护 · 中文 README
+⭐ 1,803 · HTML · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Core-Mate/OpenGUI) · [官网](https://opengui.ai/) · 组织维护 · 中文 README
 
 **Android 手机 GUI agent 框架：让 AI 看屏、规划并操作真实应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Core-Mate/OpenGUI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "Core-Mate/OpenGUI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1799 --> 1824
-    line [1819, 1820, 1822, 1802, 1801, 1802]
+    line [1819, 1820, 1822, 1802, 1801, 1802, 1803]
 ```
 
-2026-10-18 1,819 → 2026-10-26 1,802（-17）
+2026-10-18 1,819 → 2026-10-27 1,803（-16）
 
 
 ---

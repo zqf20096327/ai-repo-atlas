@@ -1,6 +1,6 @@
 # georgeguimaraes/soothsayer
 
-⭐ 142 · Elixir · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/georgeguimaraes/soothsayer) · [官网](https://hexdocs.pm/soothsayer) · 个人维护
+⭐ 142 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/georgeguimaraes/soothsayer) · [官网](https://hexdocs.pm/soothsayer) · 个人维护
 
 **Elixir 时间序列预测库，受 Prophet/NeuralProphet 启发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "georgeguimaraes/soothsayer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 140 --> 143
     line [141, 142, 142]
 ```
 
-2026-10-18 141 → 2026-10-26 142（+1）
+2026-10-18 141 → 2026-10-27 142（+1）
 
 
 ---

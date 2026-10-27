@@ -1,6 +1,6 @@
 # moltlaunch/cashclaw
 
-⭐ 1,223 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/moltlaunch/cashclaw) · [官网](https://moltlaunch.com) · 组织维护
+⭐ 1,222 · TypeScript · MIT · 推送 2026-03-14 · [GitHub](https://github.com/moltlaunch/cashclaw) · [官网](https://moltlaunch.com) · 组织维护
 
 **接入链上任务市场的自主接单工作 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "moltlaunch/cashclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1222 --> 1226
-    line [1224, 1225, 1224, 1223]
+    title "moltlaunch/cashclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1221 --> 1226
+    line [1224, 1225, 1224, 1223, 1222]
 ```
 
-2026-10-18 1,224 → 2026-10-26 1,223（-1）
+2026-10-18 1,224 → 2026-10-27 1,222（-2）
 
 
 ---

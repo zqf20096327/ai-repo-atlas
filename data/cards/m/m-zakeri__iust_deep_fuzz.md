@@ -45,12 +45,12 @@ IUST-DeepFuzz 是一个用深度神经语言模型（TensorFlow/Keras，含 RNN�
 ```mermaid
 xychart-beta
     title "m-zakeri/iust_deep_fuzz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

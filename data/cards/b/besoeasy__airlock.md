@@ -1,6 +1,6 @@
 # besoeasy/airlock
 
-⭐ 108 · Shell · 推送 2026-09-28 · [GitHub](https://github.com/besoeasy/airlock) · 个人维护
+⭐ 108 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/besoeasy/airlock) · 个人维护
 
 **用一次性 Podman 容器隔离运行代码与 AI agent 的 CLI**
 
@@ -45,12 +45,12 @@ Airlock 是一个 Bash 编写的单脚本 CLI，将项目放入预配置的无�
 ```mermaid
 xychart-beta
     title "besoeasy/airlock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-26 108（+0）
+2026-10-18 108 → 2026-10-27 108（+0）
 
 
 ---

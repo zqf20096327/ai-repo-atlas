@@ -1,6 +1,6 @@
 # isair/jarvis
 
-⭐ 2,136 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/isair/jarvis) · [官网](https://barissencan.com/jarvis/) · 个人维护
+⭐ 2,140 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/isair/jarvis) · [官网](https://barissencan.com/jarvis/) · 个人维护
 
 **桌面端私有本地 AI 语音/文字助手，带个人记忆与 MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "isair/jarvis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2089 --> 2140
-    line [2093, 2110, 2118, 2129, 2132, 2136]
+    title "isair/jarvis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2089 --> 2144
+    line [2093, 2110, 2118, 2129, 2132, 2136, 2140]
 ```
 
-2026-10-18 2,093 → 2026-10-26 2,136（+43）
+2026-10-18 2,093 → 2026-10-27 2,140（+47）
 
 
 ---

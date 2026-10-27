@@ -1,6 +1,6 @@
 # KelaoHu/dsh-lowtide
 
-⭐ 172 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/KelaoHu/dsh-lowtide) · 个人维护 · 中文 README
+⭐ 175 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/KelaoHu/dsh-lowtide) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的错峰任务排队插件：闲时提交、谷价自动执行**
 
@@ -43,13 +43,13 @@ dsh-lowtide 是 DeepSeek Harness (dsh) 的 Cordis 插件，面向希望在模型
 
 ```mermaid
 xychart-beta
-    title "KelaoHu/dsh-lowtide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "KelaoHu/dsh-lowtide 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 158 --> 176
-    line [174, 175, 159, 163, 170, 172]
+    line [174, 175, 159, 163, 170, 172, 175]
 ```
 
-2026-10-18 174 → 2026-10-26 172（-2）
+2026-10-18 174 → 2026-10-27 175（+1）
 
 
 ---

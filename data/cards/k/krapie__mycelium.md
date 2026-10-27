@@ -1,6 +1,6 @@
 # krapie/mycelium
 
-⭐ 42 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/krapie/mycelium) · [官网](https://tiny.kevinprk.com/mycelium-npm) · 个人维护
+⭐ 42 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/krapie/mycelium) · [官网](https://tiny.kevinprk.com/mycelium-npm) · 个人维护
 
 **管理 AI 编码会话并把知识带入下一次会话的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "krapie/mycelium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

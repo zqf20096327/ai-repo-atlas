@@ -1,6 +1,6 @@
 # fengzhizi715/YoloWebAgentStarter
 
-⭐ 128 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fengzhizi715/YoloWebAgentStarter) · 个人维护 · 中文 README
+⭐ 129 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fengzhizi715/YoloWebAgentStarter) · 个人维护 · 中文 README
 
 **本地单用户 YOLO 数据集工作台：标注、训练、评估加 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "fengzhizi715/YoloWebAgentStarter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 114 --> 129
-    line [115, 118, 125, 126, 128]
+    title "fengzhizi715/YoloWebAgentStarter 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 114 --> 130
+    line [115, 118, 125, 126, 128, 129]
 ```
 
-2026-10-18 115 → 2026-10-26 128（+13）
+2026-10-18 115 → 2026-10-27 129（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # Abraxas-365/langchain-rust
 
-⭐ 1,351 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 个人维护
+⭐ 1,352 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 个人维护
 
 **LangChain 的 Rust 实现：用 Rust 组合式构建 LLM 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abraxas-365/langchain-rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1348 --> 1352
-    line [1349, 1350, 1349, 1351]
+    title "Abraxas-365/langchain-rust 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1348 --> 1353
+    line [1349, 1350, 1349, 1351, 1352]
 ```
 
-2026-10-18 1,349 → 2026-10-26 1,351（+2）
+2026-10-18 1,349 → 2026-10-27 1,352（+3）
 
 
 ---

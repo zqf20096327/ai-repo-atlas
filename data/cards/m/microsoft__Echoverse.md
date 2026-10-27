@@ -1,6 +1,6 @@
 # microsoft/Echoverse
 
-⭐ 41 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Echoverse) · 组织维护
+⭐ 41 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/Echoverse) · 组织维护
 
 **计算机使用 agent 的深度仿真环境工厂与评测 harness**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Echoverse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

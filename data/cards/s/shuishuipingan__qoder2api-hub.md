@@ -1,6 +1,6 @@
 # shuishuipingan/qoder2api-hub
 
-⭐ 373 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
+⭐ 400 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
 
 **把 Qoder 双区多账号封装成 OpenAI/Anthropic 兼容接口的自托管网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuishuipingan/qoder2api-hub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 173 --> 391
-    line [191, 233, 309, 341, 352, 362, 373]
+    title "shuishuipingan/qoder2api-hub 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 171 --> 420
+    line [191, 233, 309, 341, 352, 362, 373, 400]
 ```
 
-2026-10-18 191 → 2026-10-26 373（+182）
+2026-10-18 191 → 2026-10-27 400（+209）
 
 
 ---

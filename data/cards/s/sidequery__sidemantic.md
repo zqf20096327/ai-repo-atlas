@@ -1,6 +1,6 @@
 # sidequery/sidemantic
 
-⭐ 132 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/sidequery/sidemantic) · [官网](https://sidemantic.com) · 组织维护
+⭐ 132 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sidequery/sidemantic) · [官网](https://sidemantic.com) · 组织维护
 
 **开源语义层运行时：统一定义治理指标并多格式复用**
 
@@ -46,13 +46,13 @@ Sidemantic 是一个开源语义层运行时（universal metrics layer），允�
 
 ```mermaid
 xychart-beta
-    title "sidequery/sidemantic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "sidequery/sidemantic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 130 --> 133
-    line [131, 132]
+    line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-10-26 132（+1）
+2026-10-18 131 → 2026-10-27 132（+1）
 
 
 ---

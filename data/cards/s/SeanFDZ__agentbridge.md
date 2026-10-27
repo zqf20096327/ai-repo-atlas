@@ -1,6 +1,6 @@
 # SeanFDZ/agentbridge
 
-⭐ 27 · C · GPL-3.0 · 推送 2026-04-20 · [GitHub](https://github.com/SeanFDZ/agentbridge) · [官网](https://apps.fallingdata.zone/agentbridge/) · 个人维护
+⭐ 28 · C · GPL-3.0 · 推送 2026-04-20 · [GitHub](https://github.com/SeanFDZ/agentbridge) · [官网](https://apps.fallingdata.zone/agentbridge/) · 个人维护
 
 **让 AI agent 通过共享文件夹协议控制 Classic Mac OS（7–9）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SeanFDZ/agentbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

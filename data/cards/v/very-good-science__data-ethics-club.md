@@ -1,6 +1,6 @@
 # very-good-science/data-ethics-club
 
-⭐ 88 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/very-good-science/data-ethics-club) · [官网](https://dataethicsclub.com) · 组织维护
+⭐ 88 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/very-good-science/data-ethics-club) · [官网](https://dataethicsclub.com) · 组织维护
 
 **数据伦理双周读书会：阅读清单与会议材料库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "very-good-science/data-ethics-club 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

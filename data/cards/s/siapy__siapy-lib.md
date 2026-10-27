@@ -1,6 +1,6 @@
 # siapy/siapy-lib
 
-⭐ 113 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/siapy/siapy-lib) · [官网](https://siapy.github.io/siapy-lib/) · 组织维护
+⭐ 113 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/siapy/siapy-lib) · [官网](https://siapy.github.io/siapy-lib/) · 组织维护
 
 **科研用的光谱图像处理与分析 Python 库**
 
@@ -46,12 +46,12 @@ SiaPy 是面向科学与学术用途的 Python 库，提供光谱图像的读取
 ```mermaid
 xychart-beta
     title "siapy/siapy-lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-18 113 → 2026-10-26 113（+0）
+2026-10-18 113 → 2026-10-27 113（+0）
 
 
 ---

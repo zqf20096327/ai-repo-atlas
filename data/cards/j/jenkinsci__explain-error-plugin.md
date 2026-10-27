@@ -1,6 +1,6 @@
 # jenkinsci/explain-error-plugin
 
-⭐ 46 · Java · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jenkinsci/explain-error-plugin) · [官网](https://plugins.jenkins.io/explain-error/) · 组织维护
+⭐ 46 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jenkinsci/explain-error-plugin) · [官网](https://plugins.jenkins.io/explain-error/) · 组织维护
 
 **Jenkins 插件：用 AI 解释失败构建的原因并给出修复建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jenkinsci/explain-error-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 46（+0）
 
 
 ---

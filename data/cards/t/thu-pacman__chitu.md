@@ -1,6 +1,6 @@
 # thu-pacman/chitu
 
-⭐ 2,990 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/thu-pacman/chitu) · [官网](https://chitu.ai/) · 组织维护 · 中文 README
+⭐ 2,991 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/thu-pacman/chitu) · [官网](https://chitu.ai/) · 组织维护 · 中文 README
 
 **面向生产环境的大模型推理引擎，支持多元算力与集群部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thu-pacman/chitu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2986 --> 2991
-    line [2988, 2987, 2990, 2989, 2990]
+    title "thu-pacman/chitu 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2986 --> 2992
+    line [2988, 2987, 2990, 2989, 2990, 2991]
 ```
 
-2026-10-18 2,988 → 2026-10-26 2,990（+2）
+2026-10-18 2,988 → 2026-10-27 2,991（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kulchankas/paranoid
 
-⭐ 48 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/kulchankas/paranoid) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kulchankas/paranoid) · 个人维护
 
 **AI 编程 agent 的安全技能：对本地运行的应用做渗透测试并修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kulchankas/paranoid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

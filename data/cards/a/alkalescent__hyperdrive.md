@@ -1,6 +1,6 @@
 # alkalescent/hyperdrive
 
-⭐ 159 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/alkalescent/hyperdrive) · [官网](https://Algotrade.io) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/alkalescent/hyperdrive) · [官网](https://Algotrade.io) · 个人维护
 
 **ML 驱动的算法交易库：数据采集、回测与下单**
 
@@ -45,12 +45,12 @@ Python 算法交易库，量化研究公司 Algotrade.io 在用。功能聚合�
 ```mermaid
 xychart-beta
     title "alkalescent/hyperdrive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 158 --> 161
+    line [159, 160]
 ```
 
-2026-10-18 159 → 2026-10-26 159（+0）
+2026-10-18 159 → 2026-10-27 160（+1）
 
 
 ---

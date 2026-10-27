@@ -1,6 +1,6 @@
 # skyvanguard/Kryon
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/skyvanguard/Kryon) · [官网](https://www.skyvanguard.com.py) · 个人维护
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/skyvanguard/Kryon) · [官网](https://www.skyvanguard.com.py) · 个人维护
 
 **本地优先的自主攻防安全 agent：一条提示词完成侦察与合规审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skyvanguard/Kryon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # VinkyDev/vibestart
 
-⭐ 249 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
+⭐ 254 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
 
 **为 AI 编码智能体生成经验证的全栈 TypeScript 项目脚手架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VinkyDev/vibestart 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 174 --> 255
-    line [180, 205, 223, 229, 233, 242, 249]
+    title "VinkyDev/vibestart 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 173 --> 261
+    line [180, 205, 223, 229, 233, 242, 249, 254]
 ```
 
-2026-10-18 180 → 2026-10-26 249（+69）
+2026-10-18 180 → 2026-10-27 254（+74）
 
 
 ---

@@ -1,6 +1,6 @@
 # Past-da-king/agent
 
-⭐ 52 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Past-da-king/agent) · [官网](https://past-da-king.github.io/agent/) · 个人维护
+⭐ 51 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Past-da-king/agent) · [官网](https://past-da-king.github.io/agent/) · 个人维护
 
 **Android 常驻自主 agent 应用：自带浏览器与 wiki 记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Past-da-king/agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "Past-da-king/agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 39 --> 53
-    line [40, 43, 44, 45, 48, 49, 52]
+    line [40, 43, 44, 45, 48, 49, 52, 51]
 ```
 
-2026-10-18 40 → 2026-10-26 52（+12）
+2026-10-18 40 → 2026-10-27 51（+11）
 
 
 ---

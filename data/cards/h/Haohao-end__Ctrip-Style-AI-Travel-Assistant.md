@@ -1,6 +1,6 @@
 # Haohao-end/Ctrip-Style-AI-Travel-Assistant
 
-⭐ 57 · Python · 推送 2026-01-10 · [GitHub](https://github.com/Haohao-end/Ctrip-Style-AI-Travel-Assistant) · 个人维护
+⭐ 58 · Python · 推送 2026-01-10 · [GitHub](https://github.com/Haohao-end/Ctrip-Style-AI-Travel-Assistant) · 个人维护
 
 **基于 LangGraph 的多 Agent 旅行服务系统，含人工确认机制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Haohao-end/Ctrip-Style-AI-Travel-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 58（+1）
 
 
 ---

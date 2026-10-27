@@ -1,6 +1,6 @@
 # fuxiaoai/tidings-rss
 
-⭐ 621 · Python · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/fuxiaoai/tidings-rss) · [官网](https://tidings.info/) · 组织维护 · 中文 README
+⭐ 622 · Python · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/fuxiaoai/tidings-rss) · [官网](https://tidings.info/) · 组织维护 · 中文 README
 
 **经活体验证的 RSS 订阅源 OPML 策展合集（718 源，14 类）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fuxiaoai/tidings-rss 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 601 --> 622
-    line [602, 612, 611, 614, 616, 621, 621]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 600 --> 624
+    line [602, 612, 611, 614, 616, 621, 622]
 ```
 
-2026-10-18 602 → 2026-10-26 621（+19）
+2026-10-18 602 → 2026-10-27 622（+20）
 
 
 ---

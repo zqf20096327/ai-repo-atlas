@@ -1,6 +1,6 @@
 # vas3k/TaxHacker
 
-⭐ 6,757 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vas3k/TaxHacker) · [官网](https://taxhacker.app) · 个人维护
+⭐ 6,761 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vas3k/TaxHacker) · [官网](https://taxhacker.app) · 个人维护
 
 **自托管 AI 记账应用：自动识别收据发票并提取结构化数据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vas3k/TaxHacker 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6750 --> 6759
-    line [6751, 6755, 6757, 6758, 6757]
+    title "vas3k/TaxHacker 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6750 --> 6762
+    line [6751, 6755, 6757, 6758, 6757, 6761]
 ```
 
-2026-10-18 6,751 → 2026-10-26 6,757（+6）
+2026-10-18 6,751 → 2026-10-27 6,761（+10）
 
 
 ---

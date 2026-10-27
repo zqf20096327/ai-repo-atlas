@@ -1,6 +1,6 @@
 # GradientHQ/parallax
 
-⭐ 1,408 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/GradientHQ/parallax) · 组织维护
+⭐ 1,409 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/GradientHQ/parallax) · 组织维护
 
 **分布式 LLM 推理引擎：跨设备组建集群共享 GPU 托管模型**
 
@@ -44,13 +44,13 @@ Gradient 开发的去中心化模型推理框架，可将物理位置与配置�
 
 ```mermaid
 xychart-beta
-    title "GradientHQ/parallax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1396 --> 1409
-    line [1397, 1405, 1407, 1408]
+    title "GradientHQ/parallax 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1396 --> 1410
+    line [1397, 1405, 1407, 1408, 1409]
 ```
 
-2026-10-18 1,397 → 2026-10-26 1,408（+11）
+2026-10-18 1,397 → 2026-10-27 1,409（+12）
 
 
 ---

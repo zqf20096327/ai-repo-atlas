@@ -1,6 +1,6 @@
 # chmouel/liseur
 
-⭐ 153 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chmouel/liseur) · [官网](https://f-droid.org/en/packages/com.chmouel.liseur/) · 个人维护
+⭐ 159 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/chmouel/liseur) · [官网](https://f-droid.org/en/packages/com.chmouel.liseur/) · 个人维护
 
 **Android 开源 EPUB 阅读器，支持远程书库与 AI 阅读伴侣**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chmouel/liseur 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 135 --> 154
-    line [136, 139, 142, 144, 147, 153]
+    title "chmouel/liseur 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 134 --> 161
+    line [136, 139, 142, 144, 147, 153, 159]
 ```
 
-2026-10-18 136 → 2026-10-26 153（+17）
+2026-10-18 136 → 2026-10-27 159（+23）
 
 
 ---

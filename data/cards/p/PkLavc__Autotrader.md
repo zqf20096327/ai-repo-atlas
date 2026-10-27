@@ -1,6 +1,6 @@
 # PkLavc/Autotrader
 
-⭐ 32 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PkLavc/Autotrader) · [官网](https://pklavc.com/Autotrader) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PkLavc/Autotrader) · [官网](https://pklavc.com/Autotrader) · 个人维护
 
 **基于 Kronos 金融模型的全自动市场预测与模拟盘交易系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PkLavc/Autotrader 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 31 --> 39
-    line [34, 36, 37, 38, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 30 --> 39
+    line [34, 36, 37, 38, 32, 31]
 ```
 
-2026-10-18 34 → 2026-10-26 32（-2）
+2026-10-18 34 → 2026-10-27 31（-3）
 
 
 ---

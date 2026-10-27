@@ -1,6 +1,6 @@
 # EliranG/claude-duet
 
-⭐ 153 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/EliranG/claude-duet) · [官网](https://www.npmjs.com/package/claude-duet) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/EliranG/claude-duet) · [官网](https://www.npmjs.com/package/claude-duet) · 个人维护
 
 **双人实时共享 Claude Code 会话的 P2P 加密协作 CLI 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "EliranG/claude-duet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 141 --> 154
-    line [142, 147, 148, 152, 153]
+    title "EliranG/claude-duet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 141 --> 155
+    line [142, 147, 148, 152, 153, 154]
 ```
 
-2026-10-18 142 → 2026-10-26 153（+11）
+2026-10-18 142 → 2026-10-27 154（+12）
 
 
 ---

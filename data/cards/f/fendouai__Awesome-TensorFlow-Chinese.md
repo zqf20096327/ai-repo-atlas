@@ -1,6 +1,6 @@
 # fendouai/Awesome-TensorFlow-Chinese
 
-⭐ 1,384 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/Awesome-TensorFlow-Chinese) · [官网](http://panchuang.net/) · 个人维护 · 中文 README
+⭐ 1,385 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/fendouai/Awesome-TensorFlow-Chinese) · [官网](http://panchuang.net/) · 个人维护 · 中文 README
 
 **TensorFlow 中文学习资源精选清单：教程/项目/书籍/论文聚合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fendouai/Awesome-TensorFlow-Chinese 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1383 --> 1386
-    line [1384, 1385, 1384, 1384]
+    line [1384, 1385, 1384, 1385]
 ```
 
-2026-10-18 1,384 → 2026-10-26 1,384（+0）
+2026-10-18 1,384 → 2026-10-27 1,385（+1）
 
 
 ---

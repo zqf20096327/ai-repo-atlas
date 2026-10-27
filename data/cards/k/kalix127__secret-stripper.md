@@ -1,6 +1,6 @@
 # kalix127/secret-stripper
 
-⭐ 43 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kalix127/secret-stripper) · 个人维护
+⭐ 42 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kalix127/secret-stripper) · 个人维护
 
 **Linux 剪贴板脱敏粘贴工具：一键粘贴前隐藏密钥与 PII**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kalix127/secret-stripper 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 34 --> 49
-    line [35, 42, 48, 47, 43, 43]
+    line [35, 42, 48, 47, 43, 42]
 ```
 
-2026-10-18 35 → 2026-10-26 43（+8）
+2026-10-18 35 → 2026-10-27 42（+7）
 
 
 ---

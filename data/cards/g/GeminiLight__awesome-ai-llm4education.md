@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeminiLight/awesome-ai-llm4education 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "GeminiLight/awesome-ai-llm4education 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 219 --> 222
-    line [220, 221]
+    line [220, 221, 221]
 ```
 
-2026-10-18 220 → 2026-10-26 221（+1）
+2026-10-18 220 → 2026-10-27 221（+1）
 
 
 ---

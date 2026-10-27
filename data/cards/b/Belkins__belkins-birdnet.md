@@ -1,6 +1,6 @@
 # Belkins/belkins-birdnet
 
-⭐ 111 · Python · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/Belkins/belkins-birdnet) · 组织维护
+⭐ 112 · Python · NOASSERTION · 推送 2026-09-09 · [GitHub](https://github.com/Belkins/belkins-birdnet) · 组织维护
 
 **树莓派鸟类鸣声识别装置：实时鸟鸣检测生成手绘鸟图拼贴**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Belkins/belkins-birdnet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 98 --> 112
-    line [99, 101, 105, 108, 109, 111]
+    title "Belkins/belkins-birdnet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 98 --> 113
+    line [99, 101, 105, 108, 109, 111, 112]
 ```
 
-2026-10-18 99 → 2026-10-26 111（+12）
+2026-10-18 99 → 2026-10-27 112（+13）
 
 
 ---

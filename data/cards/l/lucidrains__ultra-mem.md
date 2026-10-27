@@ -44,12 +44,12 @@ lucidrains 对 ByteDance AI Lab 论文 Ultra-Sparse Memory Network（UltraMem，
 ```mermaid
 xychart-beta
     title "lucidrains/ultra-mem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

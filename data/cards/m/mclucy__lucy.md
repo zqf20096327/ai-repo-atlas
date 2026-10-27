@@ -1,6 +1,6 @@
 # mclucy/lucy
 
-⭐ 51 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mclucy/lucy) · [官网](https://lucy.lc/docs) · 个人维护 · 中文 README
+⭐ 51 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mclucy/lucy) · [官网](https://lucy.lc/docs) · 个人维护 · 中文 README
 
 **Minecraft 服务器的包管理器：声明式定义并复现服务端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mclucy/lucy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "mclucy/lucy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 45 --> 52
-    line [46, 47, 48, 50, 51]
+    line [46, 47, 48, 50, 51, 51]
 ```
 
-2026-10-18 46 → 2026-10-26 51（+5）
+2026-10-18 46 → 2026-10-27 51（+5）
 
 
 ---

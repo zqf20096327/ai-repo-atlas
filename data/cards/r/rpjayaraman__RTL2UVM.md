@@ -1,6 +1,6 @@
 # rpjayaraman/RTL2UVM
 
-⭐ 34 · SystemVerilog · MIT · 推送 2026-02-24 · [GitHub](https://github.com/rpjayaraman/RTL2UVM) · 个人维护
+⭐ 35 · SystemVerilog · MIT · 推送 2026-02-24 · [GitHub](https://github.com/rpjayaraman/RTL2UVM) · 个人维护
 
 **从 Verilog RTL 自动生成 UVM 验证环境的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rpjayaraman/RTL2UVM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

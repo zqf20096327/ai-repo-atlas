@@ -1,6 +1,6 @@
 # agentclientprotocol/registry
 
-⭐ 436 · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentclientprotocol/registry) · [官网](https://agentclientprotocol.com/registry) · 组织维护
+⭐ 437 · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agentclientprotocol/registry) · [官网](https://agentclientprotocol.com/registry) · 组织维护
 
 **实现 ACP 协议的 AI agent 官方注册表清单**
 
@@ -43,13 +43,13 @@ Agent Client Protocol (ACP) 的 agent 注册表仓库，维护一份经过 CI �
 
 ```mermaid
 xychart-beta
-    title "agentclientprotocol/registry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 419 --> 437
-    line [420, 421, 426, 429, 431, 433, 436]
+    title "agentclientprotocol/registry 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 419 --> 438
+    line [420, 421, 426, 429, 431, 433, 436, 437]
 ```
 
-2026-10-18 420 → 2026-10-26 436（+16）
+2026-10-18 420 → 2026-10-27 437（+17）
 
 
 ---

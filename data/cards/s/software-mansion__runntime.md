@@ -1,6 +1,6 @@
 # software-mansion/runntime
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/software-mansion/runntime) · [官网](http://docs.swmansion.com/runntime/) · 组织维护
+⭐ 96 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/software-mansion/runntime) · [官网](http://docs.swmansion.com/runntime/) · 组织维护
 
 **面向 Web 前端开发者的浏览器 GPU 神经网络运行框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "software-mansion/runntime 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 86 --> 97
     line [87, 89, 94, 96, 96]
 ```
 
-2026-10-18 87 → 2026-10-26 96（+9）
+2026-10-18 87 → 2026-10-27 96（+9）
 
 
 ---

@@ -45,12 +45,12 @@ ggml-easy 是一个 header-only 的 C++ 库，封装 GGML（llama.cpp 所用的�
 ```mermaid
 xychart-beta
     title "ngxson/ggml-easy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

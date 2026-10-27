@@ -1,6 +1,6 @@
 # Claw-Company/clawcompany
 
-⭐ 489 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/Claw-Company/clawcompany) · 组织维护
+⭐ 488 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/Claw-Company/clawcompany) · 组织维护
 
 **开源 AI 公司 OS：38 个角色、6 套模板、4 层记忆的自主多智能体**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Claw-Company/clawcompany 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 486 --> 490
-    line [487, 488, 489, 489]
+    line [487, 488, 489, 488]
 ```
 
-2026-10-18 487 → 2026-10-26 489（+2）
+2026-10-18 487 → 2026-10-27 488（+1）
 
 
 ---

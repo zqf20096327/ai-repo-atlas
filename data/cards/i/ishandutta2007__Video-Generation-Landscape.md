@@ -1,6 +1,6 @@
 # ishandutta2007/Video-Generation-Landscape
 
-⭐ 37 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ishandutta2007/Video-Generation-Landscape) · 个人维护
+⭐ 36 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ishandutta2007/Video-Generation-Landscape) · 个人维护
 
 **AI 视频生成模型/论文/数据集的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ishandutta2007/Video-Generation-Landscape 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "ishandutta2007/Video-Generation-Landscape 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 32 --> 38
-    line [33, 34, 36, 37]
+    line [33, 34, 36, 37, 36]
 ```
 
-2026-10-18 33 → 2026-10-26 37（+4）
+2026-10-18 33 → 2026-10-27 36（+3）
 
 
 ---

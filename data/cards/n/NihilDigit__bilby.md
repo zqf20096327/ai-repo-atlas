@@ -1,6 +1,6 @@
 # NihilDigit/bilby
 
-⭐ 48 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/NihilDigit/bilby) · 个人维护 · 中文 README
+⭐ 49 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/NihilDigit/bilby) · 个人维护 · 中文 README
 
 **面向 Android/Windows 的 bilibili 客户端，含 Agentic 检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NihilDigit/bilby 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 41 --> 49
-    line [42, 44, 48, 48]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 41 --> 50
+    line [42, 44, 48, 49]
 ```
 
-2026-10-18 42 → 2026-10-26 48（+6）
+2026-10-18 42 → 2026-10-27 49（+7）
 
 
 ---

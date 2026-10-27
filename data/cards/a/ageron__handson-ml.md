@@ -1,6 +1,6 @@
 # ageron/handson-ml
 
-⭐ 25,610 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
+⭐ 25,612 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/ageron/handson-ml) · 个人维护
 
 **机器学习入门者的 Python 笔记本练习集（第一版，已过时）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "ageron/handson-ml 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 25601 --> 25611
-    line [25603, 25602, 25606, 25608, 25610]
+    title "ageron/handson-ml 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 25601 --> 25613
+    line [25603, 25602, 25606, 25608, 25610, 25612]
 ```
 
-2026-10-18 25,603 → 2026-10-26 25,610（+7）
+2026-10-18 25,603 → 2026-10-27 25,612（+9）
 
 
 ---

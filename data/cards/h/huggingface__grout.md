@@ -1,6 +1,6 @@
 # huggingface/grout
 
-⭐ 104 · Rust · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/huggingface/grout) · 组织维护
+⭐ 105 · Rust · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/huggingface/grout) · 组织维护
 
 **基于 cuTile Rust 的 Qwen3 GPU 推理引擎与基准测试床**
 
@@ -45,13 +45,13 @@ HuggingFace 维护的 LLM 推理引擎测试床：针对 Qwen3 模型（4B/32B�
 
 ```mermaid
 xychart-beta
-    title "huggingface/grout 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    title "huggingface/grout 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 99 --> 106
-    line [100, 102, 104, 105, 104]
+    line [100, 102, 104, 105, 104, 105]
 ```
 
-2026-10-18 100 → 2026-10-26 104（+4）
+2026-10-18 100 → 2026-10-27 105（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # sktime/skpro
 
-⭐ 337 · Python · BSD-3-Clause · 推送 2026-10-11 · [GitHub](https://github.com/sktime/skpro) · [官网](https://skpro.readthedocs.io/en/latest) · 组织维护
+⭐ 338 · Python · BSD-3-Clause · 推送 2026-10-11 · [GitHub](https://github.com/sktime/skpro) · [官网](https://skpro.readthedocs.io/en/latest) · 组织维护
 
 **Python 概率预测库：表格概率回归、生存预测与概率分布**
 
@@ -45,12 +45,12 @@ skpro 是面向监督概率预测的 Python 库，提供 scikit-learn 风格接�
 ```mermaid
 xychart-beta
     title "sktime/skpro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 336 --> 338
-    line [337, 337]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 336 --> 339
+    line [337, 338]
 ```
 
-2026-10-18 337 → 2026-10-26 337（+0）
+2026-10-18 337 → 2026-10-27 338（+1）
 
 
 ---

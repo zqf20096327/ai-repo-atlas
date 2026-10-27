@@ -1,6 +1,6 @@
 # bogdanr/fono
 
-⭐ 26 · Rust · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/bogdanr/fono) · [官网](https://fono.page) · 个人维护
+⭐ 27 · Rust · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/bogdanr/fono) · [官网](https://fono.page) · 个人维护
 
 **Linux 本地优先的语音听写与语音助手（单二进制全栈）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bogdanr/fono 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-26 26（+2）
+2026-10-18 24 → 2026-10-27 27（+3）
 
 
 ---

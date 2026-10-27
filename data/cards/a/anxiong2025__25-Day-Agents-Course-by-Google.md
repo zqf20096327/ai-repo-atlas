@@ -45,12 +45,12 @@ Google Cloud 'Advent of Agents 2025' 课程的配套学习仓库：25 天每日�
 ```mermaid
 xychart-beta
     title "anxiong2025/25-Day-Agents-Course-by-Google 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-18 241 → 2026-10-26 241（+0）
+2026-10-18 241 → 2026-10-27 241（+0）
 
 
 ---

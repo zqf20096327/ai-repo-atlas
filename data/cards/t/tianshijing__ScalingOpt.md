@@ -1,6 +1,6 @@
 # tianshijing/ScalingOpt
 
-⭐ 108 · HTML · 推送 2026-09-19 · [GitHub](https://github.com/tianshijing/ScalingOpt) · [官网](https://tianshijing.github.io/ScalingOpt/) · 组织维护
+⭐ 109 · HTML · 推送 2026-09-19 · [GitHub](https://github.com/tianshijing/ScalingOpt) · [官网](https://tianshijing.github.io/ScalingOpt/) · 组织维护
 
 **面向高效 AI 的优化方法知识社区与策展中心**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tianshijing/ScalingOpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 107 --> 110
+    line [108, 109]
 ```
 
-2026-10-18 108 → 2026-10-26 108（+0）
+2026-10-18 108 → 2026-10-27 109（+1）
 
 
 ---

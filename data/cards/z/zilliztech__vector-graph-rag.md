@@ -1,6 +1,6 @@
 # zilliztech/vector-graph-rag
 
-⭐ 261 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/zilliztech/vector-graph-rag) · [官网](https://zilliztech.github.io/vector-graph-rag/) · 组织维护
+⭐ 262 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/zilliztech/vector-graph-rag) · [官网](https://zilliztech.github.io/vector-graph-rag/) · 组织维护
 
 **纯向量检索实现 Graph RAG 的多跳问答库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zilliztech/vector-graph-rag 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 258 --> 262
-    line [260, 261, 260, 259, 261, 261]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 258 --> 263
+    line [260, 261, 260, 259, 261, 262]
 ```
 
-2026-10-18 260 → 2026-10-26 261（+1）
+2026-10-18 260 → 2026-10-27 262（+2）
 
 
 ---

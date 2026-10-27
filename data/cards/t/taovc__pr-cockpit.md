@@ -1,6 +1,6 @@
 # taovc/pr-cockpit
 
-⭐ 485 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/taovc/pr-cockpit) · 个人维护 · 中文 README
+⭐ 485 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/taovc/pr-cockpit) · 个人维护 · 中文 README
 
 **本地 AI PR 审查工作台：用 Claude/Codex 批量审 PR，人工把关后发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "taovc/pr-cockpit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 484 --> 490
     line [489, 485, 485]
 ```
 
-2026-10-18 489 → 2026-10-26 485（-4）
+2026-10-18 489 → 2026-10-27 485（-4）
 
 
 ---

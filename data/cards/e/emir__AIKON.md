@@ -1,6 +1,6 @@
 # emir/AIKON
 
-⭐ 356 · Java · MIT · 推送 2026-10-04 · [GitHub](https://github.com/emir/AIKON) · [官网](https://aikonchat.com/) · 个人维护
+⭐ 357 · Java · MIT · 推送 2026-10-04 · [GitHub](https://github.com/emir/AIKON) · [官网](https://aikonchat.com/) · 个人维护
 
 **让 2007 年诺基亚功能机用上 Claude/ChatGPT 等 AI 聊天**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emir/AIKON 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 350 --> 357
-    line [351, 354, 353, 354, 356]
+    title "emir/AIKON 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 350 --> 358
+    line [351, 354, 353, 354, 356, 357]
 ```
 
-2026-10-18 351 → 2026-10-26 356（+5）
+2026-10-18 351 → 2026-10-27 357（+6）
 
 
 ---

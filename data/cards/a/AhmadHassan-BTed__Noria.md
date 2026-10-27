@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/Noria
 
-⭐ 2,998 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AhmadHassan-BTed/Noria) · [官网](https://noria-app.streamlit.app/) · 个人维护
+⭐ 3,257 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/AhmadHassan-BTed/Noria) · [官网](https://noria-app.streamlit.app/) · 个人维护
 
 **经聊天接收消息/URL、AI 评估机会并回发结构化摘要的 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmadHassan-BTed/Noria 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 94 --> 3262
-    line [358, 1745, 2036, 2370, 2614, 2802, 2998]
+    title "AhmadHassan-BTed/Noria 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 69 --> 3546
+    line [358, 1745, 2036, 2370, 2614, 2802, 2998, 3257]
 ```
 
-2026-10-18 358 → 2026-10-26 2,998（+2,640）
+2026-10-18 358 → 2026-10-27 3,257（+2,899）
 
 
 ---

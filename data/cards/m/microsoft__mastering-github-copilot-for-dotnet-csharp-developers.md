@@ -1,6 +1,6 @@
 # microsoft/mastering-github-copilot-for-dotnet-csharp-developers
 
-⭐ 393 · C# · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) · 组织维护
+⭐ 394 · C# · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers) · 组织维护
 
 **面向 C#/.NET 开发者的 GitHub Copilot 六课教学课程**
 
@@ -43,13 +43,13 @@ Microsoft 维护的 6 课时 GitHub Copilot 课程：从 GitHub 仓库基础、C
 
 ```mermaid
 xychart-beta
-    title "microsoft/mastering-github-copilot-for-dotnet-csharp-developers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 390 --> 394
-    line [391, 392, 393]
+    title "microsoft/mastering-github-copilot-for-dotnet-csharp-developers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 390 --> 395
+    line [391, 392, 393, 394]
 ```
 
-2026-10-18 391 → 2026-10-26 393（+2）
+2026-10-18 391 → 2026-10-27 394（+3）
 
 
 ---

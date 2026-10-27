@@ -1,6 +1,6 @@
 # PeonPing/peon-ping
 
-⭐ 5,087 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PeonPing/peon-ping) · [官网](https://www.peonping.com) · 组织维护 · 中文 README
+⭐ 5,089 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PeonPing/peon-ping) · [官网](https://www.peonping.com) · 组织维护 · 中文 README
 
 **AI 编程代理的语音/弹窗事件通知工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PeonPing/peon-ping 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5080 --> 5089
-    line [5081, 5083, 5087, 5088, 5085, 5087]
+    title "PeonPing/peon-ping 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5080 --> 5090
+    line [5081, 5083, 5087, 5088, 5085, 5087, 5089]
 ```
 
-2026-10-18 5,081 → 2026-10-26 5,087（+6）
+2026-10-18 5,081 → 2026-10-27 5,089（+8）
 
 
 ---

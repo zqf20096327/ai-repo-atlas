@@ -1,6 +1,6 @@
 # elevenlabs/cli
 
-⭐ 102 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/elevenlabs/cli) · [官网](https://www.elevenlabs.io) · 组织维护
+⭐ 102 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/elevenlabs/cli) · [官网](https://www.elevenlabs.io) · 组织维护
 
 **ElevenLabs 平台命令行工具：全 API 访问与 Agent 配置管理**
 
@@ -46,12 +46,12 @@ Rust 编写的 ElevenLabs 平台 CLI：将每个 API 端点暴露为子命令（
 ```mermaid
 xychart-beta
     title "elevenlabs/cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 99 --> 103
     line [100, 102, 102]
 ```
 
-2026-10-18 100 → 2026-10-26 102（+2）
+2026-10-18 100 → 2026-10-27 102（+2）
 
 
 ---

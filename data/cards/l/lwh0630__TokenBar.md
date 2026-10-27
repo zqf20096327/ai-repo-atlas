@@ -1,6 +1,6 @@
 # lwh0630/TokenBar
 
-⭐ 39 · Dart · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lwh0630/TokenBar) · 个人维护 · 中文 README
+⭐ 78 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lwh0630/TokenBar) · 个人维护 · 中文 README
 
 **跨平台 AI 配额/余额监控应用：聚合显示 50 个服务的用量限额**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lwh0630/TokenBar 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 9 --> 41
-    line [11, 39]
+    title "lwh0630/TokenBar 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5 --> 84
+    line [11, 39, 78]
 ```
 
-2026-10-25 11 → 2026-10-26 39（+28）
+2026-10-25 11 → 2026-10-27 78（+67）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyungseo/learnstead
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/kyungseo/learnstead) · 个人维护 · 中文 README
+⭐ 46 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/kyungseo/learnstead) · 个人维护 · 中文 README
 
 **本地 LLM·RAG·AI Agent 实践学习资料合集（韩文）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyungseo/learnstead 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 46（+1）
 
 
 ---

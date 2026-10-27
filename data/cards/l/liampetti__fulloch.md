@@ -1,6 +1,6 @@
 # liampetti/fulloch
 
-⭐ 162 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/liampetti/fulloch) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/liampetti/fulloch) · 个人维护
 
 **本地运行的家庭语音助手：语音对话、笔记与智能家居控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liampetti/fulloch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 159 --> 163
-    line [160, 161, 162]
+    title "liampetti/fulloch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 159 --> 165
+    line [160, 161, 162, 164]
 ```
 
-2026-10-18 160 → 2026-10-26 162（+2）
+2026-10-18 160 → 2026-10-27 164（+4）
 
 
 ---

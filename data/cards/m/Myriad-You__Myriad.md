@@ -1,6 +1,6 @@
 # Myriad-You/Myriad
 
-⭐ 94 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 组织维护 · 中文 README
+⭐ 97 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 组织维护 · 中文 README
 
 **自托管个人主页与创作工作台：聚合平台数据并运行站点级 AI 角色**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Myriad-You/Myriad 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 77 --> 95
-    line [78, 81, 84, 88, 92, 94]
+    title "Myriad-You/Myriad 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 77 --> 98
+    line [78, 81, 84, 88, 92, 94, 97]
 ```
 
-2026-10-18 78 → 2026-10-26 94（+16）
+2026-10-18 78 → 2026-10-27 97（+19）
 
 
 ---

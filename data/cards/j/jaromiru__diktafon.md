@@ -1,6 +1,6 @@
 # jaromiru/diktafon
 
-⭐ 274 · C++ · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/jaromiru/diktafon) · 个人维护
+⭐ 277 · C++ · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/jaromiru/diktafon) · 个人维护
 
 **本地转写与摘要的私密语音备忘录应用（卡带式组织）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jaromiru/diktafon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 258 --> 275
-    line [259, 262, 271, 272, 274]
+    title "jaromiru/diktafon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 258 --> 278
+    line [259, 262, 271, 272, 274, 277]
 ```
 
-2026-10-18 259 → 2026-10-26 274（+15）
+2026-10-18 259 → 2026-10-27 277（+18）
 
 
 ---

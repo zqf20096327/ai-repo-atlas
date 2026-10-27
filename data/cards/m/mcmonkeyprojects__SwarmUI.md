@@ -1,6 +1,6 @@
 # mcmonkeyprojects/SwarmUI
 
-⭐ 4,703 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mcmonkeyprojects/SwarmUI) · 个人维护
+⭐ 4,707 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mcmonkeyprojects/SwarmUI) · 个人维护
 
 **面向 Stable Diffusion 等模型的模块化 AI 图像生成 Web 界面**
 
@@ -44,13 +44,13 @@ SwarmUI（前称 StableSwarmUI）是基于 .NET 的 AI 图像/视频/音频生�
 
 ```mermaid
 xychart-beta
-    title "mcmonkeyprojects/SwarmUI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4675 --> 4705
-    line [4677, 4683, 4696, 4698, 4699, 4701, 4703]
+    title "mcmonkeyprojects/SwarmUI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4674 --> 4710
+    line [4677, 4683, 4696, 4698, 4699, 4701, 4703, 4707]
 ```
 
-2026-10-18 4,677 → 2026-10-26 4,703（+26）
+2026-10-18 4,677 → 2026-10-27 4,707（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # nixfred/infomarchy
 
-⭐ 126 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nixfred/infomarchy) · 个人维护
+⭐ 132 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nixfred/infomarchy) · 个人维护
 
 **把壁纸变成本机 AI agent 实时监控面板的 Omarchy 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nixfred/infomarchy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 122 --> 127
-    line [123, 124, 125, 126]
+    title "nixfred/infomarchy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 122 --> 133
+    line [123, 124, 125, 126, 132]
 ```
 
-2026-10-18 123 → 2026-10-26 126（+3）
+2026-10-18 123 → 2026-10-27 132（+9）
 
 
 ---

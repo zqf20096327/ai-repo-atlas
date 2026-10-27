@@ -1,6 +1,6 @@
 # mduongvandinh/llm-wiki
 
-⭐ 222 · HTML · MIT · 推送 2026-04-16 · [GitHub](https://github.com/mduongvandinh/llm-wiki) · 个人维护
+⭐ 221 · HTML · MIT · 推送 2026-04-16 · [GitHub](https://github.com/mduongvandinh/llm-wiki) · 个人维护
 
 **由 LLM 自动构建与维护的个人知识库系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mduongvandinh/llm-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 213 --> 223
-    line [214, 222, 222]
+    line [214, 222, 221]
 ```
 
-2026-10-18 214 → 2026-10-26 222（+8）
+2026-10-18 214 → 2026-10-27 221（+7）
 
 
 ---

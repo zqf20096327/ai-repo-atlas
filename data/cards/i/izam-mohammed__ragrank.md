@@ -1,6 +1,6 @@
 # izam-mohammed/ragrank
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/izam-mohammed/ragrank) · [官网](https://ragrank.readthedocs.io/) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/izam-mohammed/ragrank) · [官网](https://ragrank.readthedocs.io/) · 组织维护
 
 **给 LLM/RAG 开发者的评测工具包：对流水线输出打分**
 
@@ -47,12 +47,12 @@ RAGRank 是用于评估 LLM 应用与 RAG 流水线的 Python 库：输入问题
 ```mermaid
 xychart-beta
     title "izam-mohammed/ragrank 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-26 47（+0）
+2026-10-18 47 → 2026-10-27 47（+0）
 
 
 ---

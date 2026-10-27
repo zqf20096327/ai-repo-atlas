@@ -1,6 +1,6 @@
 # ModelEngine-Group/DataMate
 
-⭐ 373 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ModelEngine-Group/DataMate) · [官网](https://github.com/ModelEngine-Group/DataMate) · 组织维护 · 中文 README
+⭐ 374 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ModelEngine-Group/DataMate) · [官网](https://github.com/ModelEngine-Group/DataMate) · 组织维护 · 中文 README
 
 **面向微调与 RAG 的企业级数据处理一体平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ModelEngine-Group/DataMate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 370 --> 374
-    line [371, 373, 373]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 370 --> 375
+    line [371, 373, 374]
 ```
 
-2026-10-18 371 → 2026-10-26 373（+2）
+2026-10-18 371 → 2026-10-27 374（+3）
 
 
 ---

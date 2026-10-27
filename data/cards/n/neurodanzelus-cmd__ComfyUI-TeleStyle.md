@@ -45,12 +45,12 @@ TeleStyle 的非官方 ComfyUI 节点实现，聚焦视频风格迁移：使用 
 ```mermaid
 xychart-beta
     title "neurodanzelus-cmd/ComfyUI-TeleStyle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 45（+0）
 
 
 ---

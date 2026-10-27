@@ -1,6 +1,6 @@
 # NVIDIA/exemplar-performance
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/exemplar-performance) · 组织维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/exemplar-performance) · 组织维护
 
 **NVIDIA 的 AI 工作负载性能基准测试配方集（训练/微调/推理）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NVIDIA/exemplar-performance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 115 --> 118
     line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-10-26 117（+1）
+2026-10-18 116 → 2026-10-27 117（+1）
 
 
 ---

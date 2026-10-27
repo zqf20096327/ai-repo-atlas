@@ -1,6 +1,6 @@
 # filipi86/drogonsec
 
-⭐ 213 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/filipi86/drogonsec) · [官网](https://cross-intel.com/opensource/drogonsec) · 组织维护
+⭐ 214 · Go · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/filipi86/drogonsec) · [官网](https://cross-intel.com/opensource/drogonsec) · 组织维护
 
 **开源安全扫描器：SAST/SCA/密钥检测/IaC 分析并给出 AI 修复建议**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "filipi86/drogonsec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 183 --> 215
-    line [185, 186, 213, 213]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 183 --> 216
+    line [185, 186, 213, 214]
 ```
 
-2026-10-18 185 → 2026-10-26 213（+28）
+2026-10-18 185 → 2026-10-27 214（+29）
 
 
 ---

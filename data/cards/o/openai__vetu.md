@@ -1,6 +1,6 @@
 # openai/vetu
 
-⭐ 305 · Go · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openai/vetu) · 组织维护
+⭐ 306 · Go · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openai/vetu) · 组织维护
 
 **Linux 主机上易用的临时 Linux 虚拟机创建与运行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/vetu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 301 --> 306
-    line [302, 305, 305]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 301 --> 307
+    line [302, 305, 306]
 ```
 
-2026-10-18 302 → 2026-10-26 305（+3）
+2026-10-18 302 → 2026-10-27 306（+4）
 
 
 ---

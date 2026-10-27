@@ -1,6 +1,6 @@
 # Dramwig/FlowLine
 
-⭐ 397 · JavaScript · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/Dramwig/FlowLine) · 个人维护 · 中文 README
+⭐ 396 · JavaScript · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/Dramwig/FlowLine) · 个人维护 · 中文 README
 
 **GPU 资源监控与并发任务调度的自动化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Dramwig/FlowLine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 396 --> 398
-    line [397, 397]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 395 --> 398
+    line [397, 396]
 ```
 
-2026-10-18 397 → 2026-10-26 397（+0）
+2026-10-18 397 → 2026-10-27 396（-1）
 
 
 ---

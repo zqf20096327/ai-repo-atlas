@@ -1,6 +1,6 @@
 # openeverest/openeverest
 
-⭐ 954 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
+⭐ 955 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
 
 **在 Kubernetes 上自动化部署管理数据库、存储与 LLM 的开源平台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "openeverest/openeverest 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 949 --> 955
-    line [950, 951, 954, 954]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 949 --> 956
+    line [950, 951, 954, 955]
 ```
 
-2026-10-18 950 → 2026-10-26 954（+4）
+2026-10-18 950 → 2026-10-27 955（+5）
 
 
 ---

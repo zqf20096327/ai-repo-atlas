@@ -1,6 +1,6 @@
 # openvinotoolkit/model_server
 
-⭐ 952 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openvinotoolkit/model_server) · [官网](https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html) · 组织维护
+⭐ 952 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openvinotoolkit/model_server) · [官网](https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html) · 组织维护
 
 **OpenVINO 驱动的生产级推理服务，面向 GenAI 与经典深度学习模型**
 
@@ -45,12 +45,12 @@ C++ 实现的模型服务进程，通过 OpenAI 兼容 API 与 KServe API 在网
 ```mermaid
 xychart-beta
     title "openvinotoolkit/model_server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 947 --> 953
     line [948, 951, 952, 952]
 ```
 
-2026-10-18 948 → 2026-10-26 952（+4）
+2026-10-18 948 → 2026-10-27 952（+4）
 
 
 ---

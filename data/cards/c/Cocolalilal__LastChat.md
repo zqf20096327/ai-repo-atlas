@@ -1,6 +1,6 @@
 # Cocolalilal/LastChat
 
-⭐ 386 · Kotlin · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Cocolalilal/LastChat) · 个人维护
+⭐ 389 · Kotlin · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Cocolalilal/LastChat) · 个人维护
 
 **Android 端多供应商 AI 聊天助手应用（RikkaHub 分支）**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cocolalilal/LastChat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 377 --> 387
-    line [378, 380, 382, 383, 384, 386]
+    title "Cocolalilal/LastChat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 377 --> 390
+    line [378, 380, 382, 383, 384, 386, 389]
 ```
 
-2026-10-18 378 → 2026-10-26 386（+8）
+2026-10-18 378 → 2026-10-27 389（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1zhangyy1/momoding
 
-⭐ 30 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/1zhangyy1/momoding) · 个人维护 · 中文 README
+⭐ 35 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/1zhangyy1/momoding) · 个人维护 · 中文 README
 
 **安卓手机上的个人 AI Agent：一句话代办手机上的事**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "1zhangyy1/momoding 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 19 --> 31
-    line [20, 30]
+    title "1zhangyy1/momoding 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 19 --> 36
+    line [20, 30, 35]
 ```
 
-2026-10-25 20 → 2026-10-26 30（+10）
+2026-10-25 20 → 2026-10-27 35（+15）
 
 
 ---

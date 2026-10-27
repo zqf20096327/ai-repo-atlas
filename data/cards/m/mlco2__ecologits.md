@@ -1,6 +1,6 @@
 # mlco2/ecologits
 
-⭐ 350 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mlco2/ecologits) · [官网](https://ecologits.ai/) · 组织维护
+⭐ 352 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mlco2/ecologits) · [官网](https://ecologits.ai/) · 组织维护
 
 **追踪生成式 AI API 调用能耗与环境足迹的 Python 库**
 
@@ -45,12 +45,12 @@ EcoLogits 是一个 Python 库，通过包装主流生成式 AI 提供商的 API
 ```mermaid
 xychart-beta
     title "mlco2/ecologits 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 347 --> 351
-    line [348, 349, 350, 350]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 347 --> 353
+    line [348, 349, 350, 352]
 ```
 
-2026-10-18 348 → 2026-10-26 350（+2）
+2026-10-18 348 → 2026-10-27 352（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # jphall663/awesome-machine-learning-interpretability
 
-⭐ 4,076 · CC0-1.0 · 推送 2026-06-03 · [GitHub](https://github.com/jphall663/awesome-machine-learning-interpretability) · 个人维护
+⭐ 4,079 · CC0-1.0 · 推送 2026-06-03 · [GitHub](https://github.com/jphall663/awesome-machine-learning-interpretability) · 个人维护
 
 **机器学习可解释性与负责任 AI 资源策展清单（已迁移）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jphall663/awesome-machine-learning-interpretability 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4073 --> 4077
-    line [4074, 4075, 4076, 4076]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 4073 --> 4080
+    line [4074, 4075, 4076, 4079]
 ```
 
-2026-10-18 4,074 → 2026-10-26 4,076（+2）
+2026-10-18 4,074 → 2026-10-27 4,079（+5）
 
 
 ---

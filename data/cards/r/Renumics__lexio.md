@@ -1,6 +1,6 @@
 # Renumics/lexio
 
-⭐ 44 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Renumics/lexio) · 组织维护
+⭐ 44 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Renumics/lexio) · 组织维护
 
 **构建 RAG 对话界面的 React 组件库，供开发者快速搭建**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Renumics/lexio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 44（+0）
 
 
 ---

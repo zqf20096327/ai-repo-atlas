@@ -1,6 +1,6 @@
 # NYBaywatch/AgrusScanner
 
-⭐ 39 · C# · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NYBaywatch/AgrusScanner) · [官网](https://github.com/NYBaywatch/AgrusScanner/releases/latest) · 个人维护
+⭐ 39 · C# · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NYBaywatch/AgrusScanner) · [官网](https://github.com/NYBaywatch/AgrusScanner/releases/latest) · 个人维护
 
 **Windows 网络扫描器：发现内网中的 AI/ML 服务与 MCP 服务器（影子 AI 探测）**
 
@@ -46,12 +46,12 @@ C#/.NET WPF 编写的 Windows 网络侦察工具，面向安全团队、IT 管�
 ```mermaid
 xychart-beta
     title "NYBaywatch/AgrusScanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-26 39（+0）
+2026-10-18 39 → 2026-10-27 39（+0）
 
 
 ---

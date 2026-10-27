@@ -1,6 +1,6 @@
 # Fabric-Project/Fabric
 
-⭐ 604 · Swift · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/Fabric-Project/Fabric) · [官网](https://fabric.graphics) · 个人维护
+⭐ 604 · Swift · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/Fabric-Project/Fabric) · [官网](https://fabric.graphics) · 个人维护
 
 **macOS 节点式创意编程环境，用于交互视觉与 3D 创作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fabric-Project/Fabric 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 601 --> 605
     line [602, 603, 604, 604]
 ```
 
-2026-10-18 602 → 2026-10-26 604（+2）
+2026-10-18 602 → 2026-10-27 604（+2）
 
 
 ---

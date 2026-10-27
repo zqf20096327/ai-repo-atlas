@@ -1,6 +1,6 @@
 # agarwalvishal/claude-chat-exporter
 
-⭐ 732 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agarwalvishal/claude-chat-exporter) · [官网](https://agarwalvishal.github.io/claude-chat-exporter/) · 个人维护
+⭐ 733 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agarwalvishal/claude-chat-exporter) · [官网](https://agarwalvishal.github.io/claude-chat-exporter/) · 个人维护
 
 **浏览器端一键导出 Claude.ai 对话为 Markdown 的书签工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agarwalvishal/claude-chat-exporter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 723 --> 733
-    line [724, 725, 728, 730, 731, 732]
+    title "agarwalvishal/claude-chat-exporter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 723 --> 734
+    line [724, 725, 728, 730, 731, 732, 733]
 ```
 
-2026-10-18 724 → 2026-10-26 732（+8）
+2026-10-18 724 → 2026-10-27 733（+9）
 
 
 ---

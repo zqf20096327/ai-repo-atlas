@@ -44,12 +44,12 @@ lucidrains 维护的 PyTorch 库，实现基于注意力的快速权重情景记
 ```mermaid
 xychart-beta
     title "lucidrains/fast-weight-attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

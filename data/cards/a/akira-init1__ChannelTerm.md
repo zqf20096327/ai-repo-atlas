@@ -1,6 +1,6 @@
 # akira-init1/ChannelTerm
 
-⭐ 90 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/akira-init1/ChannelTerm) · 个人维护
+⭐ 102 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/akira-init1/ChannelTerm) · 个人维护
 
 **人与 AI 共享串口/SSH 终端会话的硬件调试工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "akira-init1/ChannelTerm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5 --> 97
-    line [12, 28, 41, 53, 67, 76, 90]
+    title "akira-init1/ChannelTerm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3 --> 111
+    line [12, 28, 41, 53, 67, 76, 90, 102]
 ```
 
-2026-10-18 12 → 2026-10-26 90（+78）
+2026-10-18 12 → 2026-10-27 102（+90）
 
 
 ---

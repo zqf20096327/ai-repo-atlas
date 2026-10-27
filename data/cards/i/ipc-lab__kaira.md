@@ -1,6 +1,6 @@
 # ipc-lab/kaira
 
-⭐ 63 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/ipc-lab/kaira) · [官网](https://kaira.readthedocs.io/) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ipc-lab/kaira) · [官网](https://kaira.readthedocs.io/) · 组织维护
 
 **给通信研究者的 PyTorch 通信系统仿真工具箱**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ipc-lab/kaira 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-26 63（+0）
+2026-10-18 63 → 2026-10-27 63（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # estelledc/langchain-langgraph-langsmith-tutorial
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/estelledc/langchain-langgraph-langsmith-tutorial) · 个人维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/estelledc/langchain-langgraph-langsmith-tutorial) · 个人维护 · 中文 README
 
 **Agent 工程实践课程：25 个实验，离线对比 Workflow 与 Agent 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "estelledc/langchain-langgraph-langsmith-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 36（-1）
 
 
 ---

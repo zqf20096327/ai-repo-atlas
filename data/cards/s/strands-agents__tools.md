@@ -1,6 +1,6 @@
 # strands-agents/tools
 
-⭐ 1,336 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/strands-agents/tools) · [官网](https://strandsagents.com) · 组织维护
+⭐ 1,338 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/strands-agents/tools) · [官网](https://strandsagents.com) · 组织维护
 
 **为 Strands Agents 提供 30+ 现成工具的 Python 工具库**
 
@@ -44,13 +44,13 @@ Strands Agents 生态的社区驱动工具集合，pip 安装 strands-agents-too
 
 ```mermaid
 xychart-beta
-    title "strands-agents/tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1325 --> 1337
-    line [1326, 1329, 1334, 1336, 1335, 1336]
+    title "strands-agents/tools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1325 --> 1339
+    line [1326, 1329, 1334, 1336, 1335, 1336, 1338]
 ```
 
-2026-10-18 1,326 → 2026-10-26 1,336（+10）
+2026-10-18 1,326 → 2026-10-27 1,338（+12）
 
 
 ---

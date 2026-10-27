@@ -1,6 +1,6 @@
 # yan-mc/dsh-normify
 
-⭐ 120 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/yan-mc/dsh-normify) · 个人维护 · 中文 README
+⭐ 121 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/yan-mc/dsh-normify) · 个人维护 · 中文 README
 
 **DSH 插件：让 AI 把项目建成可校验的分形模块树并渲染架构图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yan-mc/dsh-normify 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 116 --> 121
-    line [118, 117, 119, 120]
+    title "yan-mc/dsh-normify 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 116 --> 122
+    line [118, 117, 119, 120, 121]
 ```
 
-2026-10-18 118 → 2026-10-26 120（+2）
+2026-10-18 118 → 2026-10-27 121（+3）
 
 
 ---

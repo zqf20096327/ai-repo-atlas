@@ -46,12 +46,12 @@ AWS 官方 samples 项目：用 AWS CDK 部署一套全托管 RAG 后端（API G
 ```mermaid
 xychart-beta
     title "aws-samples/amazon-bedrock-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 212 --> 214
     line [213, 213]
 ```
 
-2026-10-18 213 → 2026-10-26 213（+0）
+2026-10-18 213 → 2026-10-27 213（+0）
 
 
 ---

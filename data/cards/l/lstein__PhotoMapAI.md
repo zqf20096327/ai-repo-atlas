@@ -1,6 +1,6 @@
 # lstein/PhotoMapAI
 
-⭐ 89 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lstein/PhotoMapAI) · [官网](https://lstein.github.io/PhotoMapAI/) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lstein/PhotoMapAI) · [官网](https://lstein.github.io/PhotoMapAI/) · 个人维护 · 中文 README
 
 **用 CLIP 生成照片集"语义地图"的本地图片浏览与搜索工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lstein/PhotoMapAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-18 89 → 2026-10-26 89（+0）
+2026-10-18 89 → 2026-10-27 89（+0）
 
 
 ---

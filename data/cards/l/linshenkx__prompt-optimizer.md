@@ -1,6 +1,6 @@
 # linshenkx/prompt-optimizer
 
-⭐ 39,220 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护 · 中文 README
+⭐ 39,321 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护 · 中文 README
 
 **提示词优化工具：编写、测试与评估更好的 AI 提示词**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "linshenkx/prompt-optimizer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 38263 --> 39307
-    line [38350, 38574, 38951, 39060, 39143, 39220]
+    title "linshenkx/prompt-optimizer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 38253 --> 39418
+    line [38350, 38574, 38951, 39060, 39143, 39220, 39321]
 ```
 
-2026-10-18 38,350 → 2026-10-26 39,220（+870）
+2026-10-18 38,350 → 2026-10-27 39,321（+971）
 
 
 ---

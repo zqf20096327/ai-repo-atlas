@@ -1,6 +1,6 @@
 # secureagentics/Adrian
 
-⭐ 586 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/secureagentics/Adrian) · [官网](https://secureagentics.ai) · 组织维护
+⭐ 587 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/secureagentics/Adrian) · [官网](https://secureagentics.ai) · 组织维护
 
 **AI agent 运行时安全监控引擎：检测并拦截恶意工具调用与提示注入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "secureagentics/Adrian 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 584 --> 588
-    line [585, 587, 586, 586]
+    line [585, 587, 586, 587]
 ```
 
-2026-10-18 585 → 2026-10-26 586（+1）
+2026-10-18 585 → 2026-10-27 587（+2）
 
 
 ---

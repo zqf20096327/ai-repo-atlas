@@ -1,6 +1,6 @@
 # PunithVT/ai-avatar-system
 
-⭐ 551 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/PunithVT/ai-avatar-system) · [官网](https://github.com/sponsors/PunithVT) · 个人维护
+⭐ 553 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/PunithVT/ai-avatar-system) · [官网](https://github.com/sponsors/PunithVT) · 个人维护
 
 **自托管实时 AI 数字人对话平台：照片+声音克隆生成唇形同步视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PunithVT/ai-avatar-system 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 536 --> 553
-    line [537, 542, 551, 552, 551]
+    title "PunithVT/ai-avatar-system 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 536 --> 554
+    line [537, 542, 551, 552, 551, 553]
 ```
 
-2026-10-18 537 → 2026-10-26 551（+14）
+2026-10-18 537 → 2026-10-27 553（+16）
 
 
 ---

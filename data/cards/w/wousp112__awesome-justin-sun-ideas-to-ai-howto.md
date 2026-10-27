@@ -1,6 +1,6 @@
 # wousp112/awesome-justin-sun-ideas-to-ai-howto
 
-⭐ 186 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) · 个人维护 · 中文 README
+⭐ 188 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) · 个人维护 · 中文 README
 
 **孙宇晨访谈带时间戳全文与配套 AI 教程的知识仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wousp112/awesome-justin-sun-ideas-to-ai-howto 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 168 --> 187
-    line [169, 176, 181, 183, 182, 186]
+    title "wousp112/awesome-justin-sun-ideas-to-ai-howto 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 168 --> 189
+    line [169, 176, 181, 183, 182, 186, 188]
 ```
 
-2026-10-19 169 → 2026-10-26 186（+17）
+2026-10-19 169 → 2026-10-27 188（+19）
 
 
 ---

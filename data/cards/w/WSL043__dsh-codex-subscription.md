@@ -1,6 +1,6 @@
 # WSL043/dsh-codex-subscription
 
-⭐ 266 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WSL043/dsh-codex-subscription) · [官网](https://www.npmjs.com/package/dsh-codex-subscription) · 个人维护 · 中文 README
+⭐ 275 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/WSL043/dsh-codex-subscription) · [官网](https://www.npmjs.com/package/dsh-codex-subscription) · 个人维护 · 中文 README
 
 **让 DSH 使用 ChatGPT/Codex 订阅的插件：模型、额度、生图、远程控制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WSL043/dsh-codex-subscription 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 184 --> 273
-    line [191, 211, 227, 241, 249, 255, 266]
+    title "WSL043/dsh-codex-subscription 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 183 --> 283
+    line [191, 211, 227, 241, 249, 255, 266, 275]
 ```
 
-2026-10-18 191 → 2026-10-26 266（+75）
+2026-10-18 191 → 2026-10-27 275（+84）
 
 
 ---

@@ -1,6 +1,6 @@
 # fru-dev3/glyph-studio
 
-⭐ 37 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
+⭐ 37 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/fru-dev3/glyph-studio) · [官网](https://glyph.fru.dev/studio) · 个人维护
 
 **本地优先的 macOS 个人 AI 助手，按人生领域管理记忆**
 
@@ -40,6 +40,18 @@
 > L7: Formerly **Prevail**. Glyph Studio is a private AI harness for your life: a
 > L8: local-first macOS app that runs AI per life domain (**wealth, health, tax,
 > L47: - **Any model, one cockpit.** Installed CLIs (Claude · Codex · Antigravity · Ollama) **or** bring-your-own via the 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fru-dev3/glyph-studio 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
+```
+
+2026-10-26 37 → 2026-10-27 37（+0）
 
 
 ---

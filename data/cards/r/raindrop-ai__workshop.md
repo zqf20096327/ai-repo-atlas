@@ -1,6 +1,6 @@
 # raindrop-ai/workshop
 
-⭐ 1,115 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/raindrop-ai/workshop) · [官网](https://www.raindrop.ai/workshop/) · 组织维护
+⭐ 1,116 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/raindrop-ai/workshop) · [官网](https://www.raindrop.ai/workshop/) · 组织维护
 
 **给编码 agent 用的本地调试器：实时追踪与写评测**
 
@@ -46,12 +46,12 @@ Raindrop 出品的本地 agent 调试工具：通过 /instrument-agent 给编码
 ```mermaid
 xychart-beta
     title "raindrop-ai/workshop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1110 --> 1116
-    line [1111, 1113, 1115, 1115]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1110 --> 1117
+    line [1111, 1113, 1115, 1116]
 ```
 
-2026-10-18 1,111 → 2026-10-26 1,115（+4）
+2026-10-18 1,111 → 2026-10-27 1,116（+5）
 
 
 ---

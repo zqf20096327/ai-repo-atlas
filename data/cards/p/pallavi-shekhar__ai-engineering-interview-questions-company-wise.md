@@ -1,6 +1,6 @@
 # pallavi-shekhar/ai-engineering-interview-questions-company-wise
 
-⭐ 1,838 · Markdown · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 组织维护
+⭐ 1,917 · Markdown · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 组织维护
 
 **按公司整理的 35 家 AI 公司工程面试题与答案清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pallavi-shekhar/ai-engineering-interview-questions-company-wise 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1749 --> 1846
-    line [1757, 1762, 1769, 1773, 1794, 1805, 1838]
+    title "pallavi-shekhar/ai-engineering-interview-questions-company-wise 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1741 --> 1933
+    line [1757, 1762, 1769, 1773, 1794, 1805, 1838, 1917]
 ```
 
-2026-10-18 1,757 → 2026-10-26 1,838（+81）
+2026-10-18 1,757 → 2026-10-27 1,917（+160）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/tapnet
 
-⭐ 2,239 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/google-deepmind/tapnet) · [官网](https://deepmind-tapir.github.io/blogpost.html) · 组织维护
+⭐ 2,240 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/google-deepmind/tapnet) · [官网](https://deepmind-tapir.github.io/blogpost.html) · 组织维护
 
 **视频任意点跟踪的模型、数据集与评测基准官方仓库**
 
@@ -46,13 +46,13 @@ Google DeepMind 的 Tracking Any Point 官方仓库，包含 TAPIR、BootsTAPIR�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/tapnet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2223 --> 2240
-    line [2224, 2226, 2230, 2231, 2233, 2238, 2239]
+    title "google-deepmind/tapnet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2223 --> 2241
+    line [2224, 2226, 2230, 2231, 2233, 2238, 2239, 2240]
 ```
 
-2026-10-18 2,224 → 2026-10-26 2,239（+15）
+2026-10-18 2,224 → 2026-10-27 2,240（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # leaningtech/browsercode
 
-⭐ 145 · Svelte · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/leaningtech/browsercode) · [官网](https://browsercode.io) · 组织维护
+⭐ 147 · Svelte · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/leaningtech/browsercode) · [官网](https://browsercode.io) · 组织维护
 
 **在浏览器沙箱中运行 AI 编程 CLI 与全栈框架原型的 Web IDE**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leaningtech/browsercode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 141 --> 146
-    line [142, 143, 144, 145]
+    title "leaningtech/browsercode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 141 --> 148
+    line [142, 143, 144, 145, 147]
 ```
 
-2026-10-18 142 → 2026-10-26 145（+3）
+2026-10-18 142 → 2026-10-27 147（+5）
 
 
 ---

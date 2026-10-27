@@ -1,6 +1,6 @@
 # rakei076/sycm-cli
 
-⭐ 75 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rakei076/sycm-cli) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rakei076/sycm-cli) · 个人维护 · 中文 README
 
 **生意参谋只读取数 CLI，配合 AI 助手做店铺经营分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rakei076/sycm-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 68 --> 76
-    line [69, 70, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 68 --> 78
+    line [69, 70, 74, 75, 77]
 ```
 
-2026-10-18 69 → 2026-10-26 75（+6）
+2026-10-18 69 → 2026-10-27 77（+8）
 
 
 ---

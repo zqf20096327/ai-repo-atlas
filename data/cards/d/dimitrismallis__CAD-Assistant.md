@@ -1,6 +1,6 @@
 # dimitrismallis/CAD-Assistant
 
-⭐ 85 · Python · NOASSERTION · 推送 2025-10-30 · [GitHub](https://github.com/dimitrismallis/CAD-Assistant) · [官网](https://cadassistant.github.io/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICCV 2025 论文代码：工具增强视觉语言模型生成 FreeCAD 代码解 CAD 任务**
 
@@ -11,7 +11,7 @@ CAD-Assistant 的官方代码库，是面向 AI 辅助 CAD 的工具增强视觉
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

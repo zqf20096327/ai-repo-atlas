@@ -1,6 +1,6 @@
 # intel/llm-scaler
 
-⭐ 578 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/intel/llm-scaler) · 组织维护
+⭐ 579 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/intel/llm-scaler) · 组织维护
 
 **面向 Intel Arc Pro B60/B70 GPU 的 GenAI 推理与生成服务方案**
 
@@ -45,13 +45,13 @@ Intel 维护的 GenAI 解决方案，以 Docker 镜像形式在 Intel Arc Pro B6
 
 ```mermaid
 xychart-beta
-    title "intel/llm-scaler 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 565 --> 579
-    line [566, 570, 573, 574, 575, 576, 578]
+    title "intel/llm-scaler 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 565 --> 580
+    line [566, 570, 573, 574, 575, 576, 578, 579]
 ```
 
-2026-10-18 566 → 2026-10-26 578（+12）
+2026-10-18 566 → 2026-10-27 579（+13）
 
 
 ---

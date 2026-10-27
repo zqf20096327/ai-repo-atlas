@@ -1,6 +1,6 @@
 # seungmanchoi/react-native-fsd-agent-template
 
-⭐ 51 · TypeScript · 推送 2026-10-17 · [GitHub](https://github.com/seungmanchoi/react-native-fsd-agent-template) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/seungmanchoi/react-native-fsd-agent-template) · 个人维护 · 中文 README
 
 **React Native + Expo 项目模板：内置 FSD 架构与 10 个 Claude Code agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seungmanchoi/react-native-fsd-agent-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-26 51（+0）
+2026-10-18 51 → 2026-10-27 51（+0）
 
 
 ---

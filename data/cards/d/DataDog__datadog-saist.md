@@ -1,6 +1,6 @@
 # DataDog/datadog-saist
 
-⭐ 110 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/DataDog/datadog-saist) · [官网](https://docs.datadoghq.com/security/code_security/) · 组织维护
+⭐ 110 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/DataDog/datadog-saist) · [官网](https://docs.datadoghq.com/security/code_security/) · 组织维护
 
 **用 LLM 检测代码漏洞的静态安全测试工具**
 
@@ -44,13 +44,13 @@ Datadog 开源的 AI SAST 命令行工具：通过 Claude、GPT、Gemini 等 LLM
 
 ```mermaid
 xychart-beta
-    title "DataDog/datadog-saist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "DataDog/datadog-saist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 108 --> 111
-    line [109, 110]
+    line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-10-26 110（+1）
+2026-10-18 109 → 2026-10-27 110（+1）
 
 
 ---

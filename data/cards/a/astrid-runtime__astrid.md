@@ -1,6 +1,6 @@
 # astrid-runtime/astrid
 
-⭐ 10,286 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/astrid-runtime/astrid) · 组织维护
+⭐ 10,287 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/astrid-runtime/astrid) · 组织维护
 
 **面向 agent 的能力安全 WASM 运行时：沙箱化组合并隔离各组件权限**
 
@@ -45,13 +45,13 @@ Astrid 是以 WebAssembly capsule 为组合单元的用户空间运行时（macO
 
 ```mermaid
 xychart-beta
-    title "astrid-runtime/astrid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 10281 --> 10287
-    line [10283, 10282, 10284, 10286]
+    title "astrid-runtime/astrid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 10281 --> 10288
+    line [10283, 10282, 10284, 10286, 10287]
 ```
 
-2026-10-18 10,283 → 2026-10-26 10,286（+3）
+2026-10-18 10,283 → 2026-10-27 10,287（+4）
 
 
 ---

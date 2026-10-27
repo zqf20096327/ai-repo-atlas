@@ -1,6 +1,6 @@
 # aibox22/readmeX
 
-⭐ 652 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/aibox22/readmeX) · 个人维护 · 中文 README
+⭐ 653 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/aibox22/readmeX) · 个人维护 · 中文 README
 
 **AI 驱动的 README 与项目 logo 自动生成 CLI 工具**
 
@@ -44,13 +44,13 @@ Python CLI 工具 readmex：分析项目代码后用 LLM 生成结构化 Markdow
 
 ```mermaid
 xychart-beta
-    title "aibox22/readmeX 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 636 --> 653
-    line [637, 638, 649, 651, 648, 652]
+    title "aibox22/readmeX 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 636 --> 654
+    line [637, 638, 649, 651, 648, 652, 653]
 ```
 
-2026-10-18 637 → 2026-10-26 652（+15）
+2026-10-18 637 → 2026-10-27 653（+16）
 
 
 ---

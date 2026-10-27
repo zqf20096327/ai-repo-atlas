@@ -1,6 +1,6 @@
 # spiceai/cookbook
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/spiceai/cookbook) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/spiceai/cookbook) · 组织维护
 
 **Spice.ai 数据与 AI 应用的示例配方集合（教程库）**
 
@@ -45,12 +45,12 @@ Spice.ai 官方维护的 OSS Cookbook，收录大量自包含示例配方，覆�
 ```mermaid
 xychart-beta
     title "spiceai/cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

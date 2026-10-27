@@ -1,6 +1,6 @@
 # vueuse/skills
 
-⭐ 401 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vueuse/skills) · 组织维护
+⭐ 402 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/vueuse/skills) · 组织维护
 
 **帮助 AI agent 准确使用 VueUse 的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vueuse/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 397 --> 402
-    line [398, 399, 400, 401]
+    title "vueuse/skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 397 --> 403
+    line [398, 399, 400, 401, 402]
 ```
 
-2026-10-18 398 → 2026-10-26 401（+3）
+2026-10-18 398 → 2026-10-27 402（+4）
 
 
 ---

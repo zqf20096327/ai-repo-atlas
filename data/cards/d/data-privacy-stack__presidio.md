@@ -1,6 +1,6 @@
 # data-privacy-stack/presidio
 
-⭐ 11,501 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/data-privacy-stack/presidio) · [官网](https://presidio.dataprivacystack.org) · 组织维护
+⭐ 11,527 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/data-privacy-stack/presidio) · [官网](https://presidio.dataprivacystack.org) · 组织维护
 
 **文本与图像中敏感数据（PII）的检测、脱敏与匿名化 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "data-privacy-stack/presidio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11356 --> 11514
-    line [11369, 11418, 11450, 11463, 11476, 11490, 11501]
+    title "data-privacy-stack/presidio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11354 --> 11542
+    line [11369, 11418, 11450, 11463, 11476, 11490, 11501, 11527]
 ```
 
-2026-10-18 11,369 → 2026-10-26 11,501（+132）
+2026-10-18 11,369 → 2026-10-27 11,527（+158）
 
 
 ---

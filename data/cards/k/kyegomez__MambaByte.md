@@ -1,6 +1,6 @@
 # kyegomez/MambaByte
 
-⭐ 129 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kyegomez/MambaByte) · [官网](https://discord.gg/Czg5rpMZaC) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MambaByte) · [官网](https://discord.gg/Czg5rpMZaC) · 个人维护
 
 **MambaByte 论文的 PyTorch 实现：token-free 选择性状态空间模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MambaByte 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-18 129 → 2026-10-26 129（+0）
+2026-10-18 129 → 2026-10-27 129（+0）
 
 
 ---

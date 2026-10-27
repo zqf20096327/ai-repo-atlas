@@ -1,6 +1,6 @@
 # Exadra37/ai-intent-driven-development
 
-⭐ 40 · Shell · 推送 2026-01-27 · [GitHub](https://github.com/Exadra37/ai-intent-driven-development) · 个人维护
+⭐ 41 · Shell · 推送 2026-01-27 · [GitHub](https://github.com/Exadra37/ai-intent-driven-development) · 个人维护
 
 **面向 AI 编码代理的意图驱动开发指南与指令集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Exadra37/ai-intent-driven-development 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-26 40（+0）
+2026-10-18 40 → 2026-10-27 41（+1）
 
 
 ---

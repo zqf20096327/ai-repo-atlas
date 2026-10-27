@@ -1,6 +1,6 @@
 # virtengine/bosun
 
-⭐ 284 · JavaScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/virtengine/bosun) · [官网](https://bosun.engineer) · 组织维护
+⭐ 284 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/virtengine/bosun) · [官网](https://bosun.engineer) · 组织维护
 
 **自主软件工程师的控制平面：调度多个 AI 执行器完成交付**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "virtengine/bosun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 283 --> 286
     line [285, 284, 284]
 ```
 
-2026-10-18 285 → 2026-10-26 284（-1）
+2026-10-18 285 → 2026-10-27 284（-1）
 
 
 ---

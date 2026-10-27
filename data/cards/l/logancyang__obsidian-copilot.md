@@ -1,6 +1,6 @@
 # logancyang/obsidian-copilot
 
-⭐ 7,885 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/logancyang/obsidian-copilot) · [官网](https://www.obsidiancopilot.com) · 组织维护
+⭐ 7,890 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/logancyang/obsidian-copilot) · [官网](https://www.obsidiancopilot.com) · 组织维护
 
 **Obsidian 笔记库内的 AI Agent 插件：接入 opencode/Claude Code/Codex**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "logancyang/obsidian-copilot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7843 --> 7888
-    line [7846, 7859, 7864, 7873, 7880, 7881, 7885]
+    title "logancyang/obsidian-copilot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7842 --> 7894
+    line [7846, 7859, 7864, 7873, 7880, 7881, 7885, 7890]
 ```
 
-2026-10-18 7,846 → 2026-10-26 7,885（+39）
+2026-10-18 7,846 → 2026-10-27 7,890（+44）
 
 
 ---

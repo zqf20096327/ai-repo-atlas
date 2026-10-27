@@ -1,6 +1,6 @@
 # Th0rgal/orb
 
-⭐ 534 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
+⭐ 633 · Rust · 推送 2026-10-26 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
 
 **统一管理 AI 订阅、机器与 agent 运行的 macOS/iOS 客户端**
 
@@ -45,12 +45,12 @@ Orb 是连接沙箱后端 sandboxed.sh 的桌面（Tauri+SolidJS）与 iOS（Swi
 ```mermaid
 xychart-beta
     title "Th0rgal/orb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 529 --> 535
-    line [530, 532, 534, 534]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 520 --> 643
+    line [530, 532, 534, 633]
 ```
 
-2026-10-18 530 → 2026-10-26 534（+4）
+2026-10-18 530 → 2026-10-27 633（+103）
 
 
 ---

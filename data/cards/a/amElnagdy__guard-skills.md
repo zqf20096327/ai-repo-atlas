@@ -1,6 +1,6 @@
 # amElnagdy/guard-skills
 
-⭐ 1,283 · MIT · 推送 2026-07-04 · [GitHub](https://github.com/amElnagdy/guard-skills) · [官网](https://skills.sh/amElnagdy/guard-skills) · 个人维护
+⭐ 1,284 · MIT · 推送 2026-07-04 · [GitHub](https://github.com/amElnagdy/guard-skills) · [官网](https://skills.sh/amElnagdy/guard-skills) · 个人维护
 
 **给编码 agent 的守卫技能包：审查 AI 生成的代码、测试与文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amElnagdy/guard-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1269 --> 1284
-    line [1270, 1273, 1277, 1278, 1280, 1283, 1283]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1269 --> 1285
+    line [1270, 1273, 1277, 1278, 1280, 1283, 1284]
 ```
 
-2026-10-18 1,270 → 2026-10-26 1,283（+13）
+2026-10-18 1,270 → 2026-10-27 1,284（+14）
 
 
 ---

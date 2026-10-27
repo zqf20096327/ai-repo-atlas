@@ -1,6 +1,6 @@
 # huggingface/faceberg
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/faceberg) · [官网](https://faceberg.kszucs.dev/) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/faceberg) · [官网](https://faceberg.kszucs.dev/) · 组织维护
 
 **将 HuggingFace 数据集映射为 Apache Iceberg 表的元数据桥接工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/faceberg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

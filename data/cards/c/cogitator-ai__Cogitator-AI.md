@@ -1,6 +1,6 @@
 # cogitator-ai/Cogitator-AI
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cogitator-ai/Cogitator-AI) · [官网](https://cogitator.app) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cogitator-ai/Cogitator-AI) · [官网](https://cogitator.app) · 组织维护
 
 **面向工程团队的自托管 TypeScript LLM Agent 运行时**
 
@@ -46,12 +46,12 @@ Cogitator 是运行在自有基础设施上的 TypeScript LLM Agent 运行时，
 ```mermaid
 xychart-beta
     title "cogitator-ai/Cogitator-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 39 --> 44
     line [40, 41, 43, 43]
 ```
 
-2026-10-18 40 → 2026-10-26 43（+3）
+2026-10-18 40 → 2026-10-27 43（+3）
 
 
 ---

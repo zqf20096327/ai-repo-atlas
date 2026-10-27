@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-101
 
-⭐ 695 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langgraph-101) · 组织维护
+⭐ 697 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langgraph-101) · 组织维护
 
 **LangGraph 官方入门教程库：用 notebook 学习构建 agent**
 
@@ -44,13 +44,13 @@ LangChain 团队维护的动手教程仓库，分 101/201 两条学习路径：1
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraph-101 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 686 --> 697
-    line [687, 690, 691, 693, 696, 695]
+    title "langchain-ai/langgraph-101 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 686 --> 698
+    line [687, 690, 691, 693, 696, 695, 697]
 ```
 
-2026-10-18 687 → 2026-10-26 695（+8）
+2026-10-18 687 → 2026-10-27 697（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # isLinXu/paper-list
 
-⭐ 165 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/isLinXu/paper-list) · [官网](https://islinxu.github.io/paper-list/) · 个人维护
+⭐ 165 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/isLinXu/paper-list) · [官网](https://islinxu.github.io/paper-list/) · 个人维护
 
 **自动追踪 arXiv 最新论文的每日聚合清单（20+ 主题）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "isLinXu/paper-list 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "isLinXu/paper-list 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 164 --> 168
-    line [165, 166, 167, 166, 165]
+    line [165, 166, 167, 166, 165, 165]
 ```
 
-2026-10-18 165 → 2026-10-26 165（+0）
+2026-10-18 165 → 2026-10-27 165（+0）
 
 
 ---

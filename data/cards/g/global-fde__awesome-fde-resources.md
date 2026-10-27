@@ -1,6 +1,6 @@
 # global-fde/awesome-fde-resources
 
-⭐ 310 · Python · CC-BY-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/global-fde/awesome-fde-resources) · 组织维护 · 中文 README
+⭐ 313 · Python · CC-BY-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/global-fde/awesome-fde-resources) · 组织维护 · 中文 README
 
 **面向前置部署工程师（FDE）的资源清单：课程、实践、案例与工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "global-fde/awesome-fde-resources 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 303 --> 311
-    line [304, 306, 307, 310, 310]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 303 --> 314
+    line [304, 306, 307, 310, 313]
 ```
 
-2026-10-18 304 → 2026-10-26 310（+6）
+2026-10-18 304 → 2026-10-27 313（+9）
 
 
 ---

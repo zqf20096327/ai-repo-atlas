@@ -1,6 +1,6 @@
 # aymara/lima
 
-⭐ 119 · C++ · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/aymara/lima) · [官网](http://aymara.github.io/lima/) · 组织维护
+⭐ 119 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/aymara/lima) · [官网](http://aymara.github.io/lima/) · 组织维护
 
 **多语言 NLP 分析工具包：分词、词性标注、实体关系抽取**
 
@@ -44,12 +44,12 @@ CEA LIST 实验室开发的 C++ 自然语言处理工具包，MIT 许可。基�
 ```mermaid
 xychart-beta
     title "aymara/lima 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-18 119 → 2026-10-26 119（+0）
+2026-10-18 119 → 2026-10-27 119（+0）
 
 
 ---

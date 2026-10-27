@@ -1,6 +1,6 @@
 # Electricitysheep/dsh-handbook
 
-⭐ 908 · HTML · 推送 2026-10-04 · [GitHub](https://github.com/Electricitysheep/dsh-handbook) · [官网](https://github.com/Electricitysheep/dsh-handbook) · 个人维护 · 中文 README
+⭐ 913 · HTML · 推送 2026-10-04 · [GitHub](https://github.com/Electricitysheep/dsh-handbook) · [官网](https://github.com/Electricitysheep/dsh-handbook) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 从 0 到 1 中文深度手册与生态观察**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Electricitysheep/dsh-handbook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 873 --> 911
-    line [876, 884, 890, 900, 904, 908]
+    title "Electricitysheep/dsh-handbook 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 873 --> 916
+    line [876, 884, 890, 900, 904, 908, 913]
 ```
 
-2026-10-18 876 → 2026-10-26 908（+32）
+2026-10-18 876 → 2026-10-27 913（+37）
 
 
 ---

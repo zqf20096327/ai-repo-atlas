@@ -1,6 +1,6 @@
 # didilili/deepsearch-agents
 
-⭐ 295 · Python · 推送 2026-10-14 · [GitHub](https://github.com/didilili/deepsearch-agents) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E6%B7%B1%E5%BA%A6%E7%A0%94%E6%90%9C/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
+⭐ 297 · Python · 推送 2026-10-14 · [GitHub](https://github.com/didilili/deepsearch-agents) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E6%B7%B1%E5%BA%A6%E7%A0%94%E6%90%9C/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
 
 **对话式多智能体深度研搜系统，面向 DeepAgents 学习与实战**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "didilili/deepsearch-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 282 --> 296
-    line [283, 284, 287, 288, 292, 293, 295]
+    title "didilili/deepsearch-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 282 --> 298
+    line [283, 284, 287, 288, 292, 293, 295, 297]
 ```
 
-2026-10-18 283 → 2026-10-26 295（+12）
+2026-10-18 283 → 2026-10-27 297（+14）
 
 
 ---

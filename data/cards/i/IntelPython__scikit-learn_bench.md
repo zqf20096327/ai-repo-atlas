@@ -45,12 +45,12 @@ IntelPython 维护的基准测试工具，对实现 Scikit-learn 类 API 及其�
 ```mermaid
 xychart-beta
     title "IntelPython/scikit-learn_bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-26 124（+0）
+2026-10-18 124 → 2026-10-27 124（+0）
 
 
 ---

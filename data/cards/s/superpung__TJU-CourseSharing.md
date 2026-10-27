@@ -1,6 +1,6 @@
 # superpung/TJU-CourseSharing
 
-⭐ 1,006 · Tcl · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/superpung/TJU-CourseSharing) · [官网](https://cs.tjuse.com) · 个人维护 · 中文 README
+⭐ 1,008 · Tcl · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/superpung/TJU-CourseSharing) · [官网](https://cs.tjuse.com) · 个人维护 · 中文 README
 
 **天津大学课程资料共享仓库：选课攻略与历年试卷**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "superpung/TJU-CourseSharing 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 997 --> 1007
-    line [998, 1000, 1002, 1005, 1004, 1006]
+    title "superpung/TJU-CourseSharing 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 997 --> 1009
+    line [998, 1000, 1002, 1005, 1004, 1006, 1008]
 ```
 
-2026-10-18 998 → 2026-10-26 1,006（+8）
+2026-10-18 998 → 2026-10-27 1,008（+10）
 
 
 ---

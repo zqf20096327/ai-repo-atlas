@@ -1,6 +1,6 @@
 # guardrails-ai/guardrails
 
-⭐ 7,559 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/guardrails-ai/guardrails) · [官网](https://www.guardrailsai.com/docs) · 组织维护
+⭐ 7,560 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/guardrails-ai/guardrails) · [官网](https://www.guardrailsai.com/docs) · 组织维护
 
 **LLM 应用的输入/输出校验防护框架**
 
@@ -44,13 +44,13 @@ Python 框架，为 LLM 应用提供两类功能：一是从 Guardrails Hub 安�
 
 ```mermaid
 xychart-beta
-    title "guardrails-ai/guardrails 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7530 --> 7561
-    line [7532, 7538, 7549, 7555, 7557, 7558, 7559]
+    title "guardrails-ai/guardrails 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7530 --> 7562
+    line [7532, 7538, 7549, 7555, 7557, 7558, 7559, 7560]
 ```
 
-2026-10-18 7,532 → 2026-10-26 7,559（+27）
+2026-10-18 7,532 → 2026-10-27 7,560（+28）
 
 
 ---

@@ -1,6 +1,6 @@
 # liaotxcn/Weave
 
-⭐ 541 · Go · 推送 2026-07-15 · [GitHub](https://github.com/liaotxcn/Weave) · [官网](https://github.com/NexusForgeAI/Weave-Toolkit) · 个人维护 · 中文 README
+⭐ 540 · Go · 推送 2026-07-15 · [GitHub](https://github.com/liaotxcn/Weave) · [官网](https://github.com/NexusForgeAI/Weave-Toolkit) · 个人维护 · 中文 README
 
 **面向开发者的 Go 应用开发平台，集成 LLM/Agent/RAG 能力**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liaotxcn/Weave 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 540 --> 549
-    line [544, 546, 548, 541, 541]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 539 --> 549
+    line [544, 546, 548, 541, 540]
 ```
 
-2026-10-18 544 → 2026-10-26 541（-3）
+2026-10-18 544 → 2026-10-27 540（-4）
 
 
 ---

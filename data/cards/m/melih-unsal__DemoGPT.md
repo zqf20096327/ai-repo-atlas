@@ -1,6 +1,6 @@
 # melih-unsal/DemoGPT
 
-⭐ 1,906 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/melih-unsal/DemoGPT) · 个人维护
+⭐ 1,905 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/melih-unsal/DemoGPT) · 个人维护
 
 **提示词自动生成 LangChain/Streamlit 应用与 Agent 的工具库**
 
@@ -45,12 +45,12 @@ DemoGPT 提供两条能力：一是根据用户指令自动生成 LangChain 代�
 ```mermaid
 xychart-beta
     title "melih-unsal/DemoGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1905 --> 1908
-    line [1907, 1906, 1906]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1904 --> 1908
+    line [1907, 1906, 1905]
 ```
 
-2026-10-18 1,907 → 2026-10-26 1,906（-1）
+2026-10-18 1,907 → 2026-10-27 1,905（-2）
 
 
 ---

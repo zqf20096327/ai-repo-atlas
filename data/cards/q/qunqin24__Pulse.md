@@ -1,6 +1,6 @@
 # qunqin24/Pulse
 
-⭐ 596 · Swift · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/qunqin24/Pulse) · [官网](https://github.com/qunqin24/Pulse/releases/latest) · 个人维护 · 中文 README
+⭐ 600 · Swift · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/qunqin24/Pulse) · [官网](https://github.com/qunqin24/Pulse/releases/latest) · 个人维护 · 中文 README
 
 **macOS 悬浮监控条：一屏查看 76 种 AI 编程工具剩余额度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qunqin24/Pulse 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 562 --> 599
-    line [565, 574, 589, 593, 595, 596]
+    title "qunqin24/Pulse 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 562 --> 603
+    line [565, 574, 589, 593, 595, 596, 600]
 ```
 
-2026-10-18 565 → 2026-10-26 596（+31）
+2026-10-18 565 → 2026-10-27 600（+35）
 
 
 ---

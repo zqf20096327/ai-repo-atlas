@@ -1,6 +1,6 @@
 # microsoft/Mnemis
 
-⭐ 107 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/microsoft/Mnemis) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/microsoft/Mnemis) · 组织维护
 
 **论文官方仓库：面向 LLM 长期记忆的双路检索框架**
 
@@ -46,12 +46,12 @@ ACL 2026 论文 Mnemis 的官方代码仓库，作者来自 Microsoft。框架�
 ```mermaid
 xychart-beta
     title "microsoft/Mnemis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 106 --> 109
+    line [107, 108]
 ```
 
-2026-10-18 107 → 2026-10-26 107（+0）
+2026-10-18 107 → 2026-10-27 108（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nothingnesses/agent-images
 
-⭐ 47 · Shell · BlueOak-1.0.0 · 推送 2026-10-25 · [GitHub](https://github.com/nothingnesses/agent-images) · 个人维护
+⭐ 48 · Shell · BlueOak-1.0.0 · 推送 2026-10-26 · [GitHub](https://github.com/nothingnesses/agent-images) · 个人维护
 
 **用 Nix 可复现构建 AI 编程 agent 沙箱容器镜像**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nothingnesses/agent-images 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-10-26 47（+0）
+2026-10-18 47 → 2026-10-27 48（+1）
 
 
 ---

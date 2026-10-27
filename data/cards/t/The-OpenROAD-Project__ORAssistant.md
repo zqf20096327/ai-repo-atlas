@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/ORAssistant
 
-⭐ 48 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/The-OpenROAD-Project/ORAssistant) · 组织维护
+⭐ 48 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/The-OpenROAD-Project/ORAssistant) · 组织维护
 
 **面向 OpenROAD 用户的 RAG 文档问答聊天助手**
 
@@ -46,12 +46,12 @@ OpenROAD 项目官方的聊天助手：对 OpenROAD、OpenROAD-flow-scripts、Op
 ```mermaid
 xychart-beta
     title "The-OpenROAD-Project/ORAssistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

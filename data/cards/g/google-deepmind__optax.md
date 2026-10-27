@@ -1,6 +1,6 @@
 # google-deepmind/optax
 
-⭐ 2,358 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/optax) · [官网](https://optax.readthedocs.io) · 组织维护
+⭐ 2,359 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/optax) · [官网](https://optax.readthedocs.io) · 组织维护
 
 **面向 JAX 的梯度处理与优化器构建库**
 
@@ -44,12 +44,12 @@ DeepMind JAX Ecosystem 中的梯度处理与优化库，提供 Adam 等常用优
 ```mermaid
 xychart-beta
     title "google-deepmind/optax 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2350 --> 2359
-    line [2351, 2353, 2354, 2356, 2358, 2358]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2350 --> 2360
+    line [2351, 2353, 2354, 2356, 2358, 2359]
 ```
 
-2026-10-18 2,351 → 2026-10-26 2,358（+7）
+2026-10-18 2,351 → 2026-10-27 2,359（+8）
 
 
 ---

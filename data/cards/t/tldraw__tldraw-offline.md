@@ -1,6 +1,6 @@
 # tldraw/tldraw-offline
 
-⭐ 665 · 推送 2026-10-23 · [GitHub](https://github.com/tldraw/tldraw-offline) · [官网](https://offline.tldraw.com) · 组织维护
+⭐ 668 · 推送 2026-10-23 · [GitHub](https://github.com/tldraw/tldraw-offline) · [官网](https://offline.tldraw.com) · 组织维护
 
 **本地离线的 tldraw 白板桌面应用，支持 AI agent 读写画布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tldraw/tldraw-offline 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 650 --> 666
-    line [651, 653, 655, 661, 663, 665]
+    title "tldraw/tldraw-offline 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 650 --> 669
+    line [651, 653, 655, 661, 663, 665, 668]
 ```
 
-2026-10-18 651 → 2026-10-26 665（+14）
+2026-10-18 651 → 2026-10-27 668（+17）
 
 
 ---

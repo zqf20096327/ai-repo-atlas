@@ -1,6 +1,6 @@
 # moe-mizrak/laravel-openrouter
 
-⭐ 158 · PHP · MIT · 推送 2026-06-11 · [GitHub](https://github.com/moe-mizrak/laravel-openrouter) · [官网](https://moe-mizrak.gitbook.io/laravel-openrouter/) · 个人维护
+⭐ 159 · PHP · MIT · 推送 2026-06-11 · [GitHub](https://github.com/moe-mizrak/laravel-openrouter) · [官网](https://moe-mizrak.gitbook.io/laravel-openrouter/) · 个人维护
 
 **Laravel 包：将 OpenRouter 统一 LLM API 接入 Laravel 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moe-mizrak/laravel-openrouter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "moe-mizrak/laravel-openrouter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 157 --> 160
-    line [159, 158]
+    line [159, 158, 159]
 ```
 
-2026-10-18 159 → 2026-10-26 158（-1）
+2026-10-18 159 → 2026-10-27 159（+0）
 
 
 ---

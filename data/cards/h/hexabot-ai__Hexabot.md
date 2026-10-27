@@ -1,6 +1,6 @@
 # hexabot-ai/Hexabot
 
-⭐ 1,149 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/hexabot-ai/Hexabot) · [官网](https://docs.hexabot.ai) · 组织维护
+⭐ 1,148 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/hexabot-ai/Hexabot) · [官网](https://docs.hexabot.ai) · 组织维护
 
 **给开发者的 AI 工作流自动化平台：跨渠道构建与运行 agent 工作流**
 
@@ -45,13 +45,13 @@ Hexabot v3 是将工作流、动作、agent 与会话渠道合并于同一运行
 
 ```mermaid
 xychart-beta
-    title "hexabot-ai/Hexabot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "hexabot-ai/Hexabot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1146 --> 1160
-    line [1152, 1153, 1157, 1158, 1159, 1147, 1149]
+    line [1152, 1153, 1157, 1158, 1159, 1147, 1149, 1148]
 ```
 
-2026-10-18 1,152 → 2026-10-26 1,149（-3）
+2026-10-18 1,152 → 2026-10-27 1,148（-4）
 
 
 ---

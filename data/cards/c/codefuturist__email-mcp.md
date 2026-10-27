@@ -1,6 +1,6 @@
 # codefuturist/email-mcp
 
-⭐ 136 · TypeScript · LGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/codefuturist/email-mcp) · 个人维护
+⭐ 137 · TypeScript · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/codefuturist/email-mcp) · 个人维护
 
 **给 AI 助手的邮件 MCP 服务器：IMAP+SMTP 收发管理邮件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codefuturist/email-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 127 --> 137
-    line [128, 133, 134, 135, 136, 136]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 127 --> 138
+    line [128, 133, 134, 135, 136, 137]
 ```
 
-2026-10-18 128 → 2026-10-26 136（+8）
+2026-10-18 128 → 2026-10-27 137（+9）
 
 
 ---

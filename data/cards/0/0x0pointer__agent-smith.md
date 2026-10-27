@@ -1,6 +1,6 @@
 # 0x0pointer/agent-smith
 
-⭐ 148 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 组织维护
+⭐ 149 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 组织维护
 
 **AI 驱动的渗透测试框架：LLM 规划并执行授权安全测试**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "0x0pointer/agent-smith 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 147 --> 149
-    line [148, 148]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 147 --> 150
+    line [148, 149]
 ```
 
-2026-10-18 148 → 2026-10-26 148（+0）
+2026-10-18 148 → 2026-10-27 149（+1）
 
 
 ---

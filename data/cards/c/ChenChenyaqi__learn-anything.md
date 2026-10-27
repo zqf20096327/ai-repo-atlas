@@ -1,6 +1,6 @@
 # ChenChenyaqi/learn-anything
 
-⭐ 491 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ChenChenyaqi/learn-anything) · 个人维护 · 中文 README
+⭐ 494 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ChenChenyaqi/learn-anything) · 个人维护 · 中文 README
 
 **为 30+ AI 编码工具生成苏格拉底式学习命令的 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChenChenyaqi/learn-anything 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 481 --> 492
-    line [482, 484, 488, 489, 490, 491]
+    title "ChenChenyaqi/learn-anything 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 481 --> 495
+    line [482, 484, 488, 489, 490, 491, 494]
 ```
 
-2026-10-18 482 → 2026-10-26 491（+9）
+2026-10-18 482 → 2026-10-27 494（+12）
 
 
 ---

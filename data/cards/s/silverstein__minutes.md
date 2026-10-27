@@ -1,6 +1,6 @@
 # silverstein/minutes
 
-⭐ 1,569 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
+⭐ 1,572 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
 
 **本地优先的会议/语音录制转录应用，产出自有 Markdown 记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "silverstein/minutes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1557 --> 1570
-    line [1558, 1559, 1562, 1564, 1567, 1569]
+    title "silverstein/minutes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1557 --> 1573
+    line [1558, 1559, 1562, 1564, 1567, 1569, 1572]
 ```
 
-2026-10-18 1,558 → 2026-10-26 1,569（+11）
+2026-10-18 1,558 → 2026-10-27 1,572（+14）
 
 
 ---

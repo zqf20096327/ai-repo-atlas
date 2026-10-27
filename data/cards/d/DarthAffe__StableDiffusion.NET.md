@@ -1,6 +1,6 @@
 # DarthAffe/StableDiffusion.NET
 
-⭐ 117 · C# · MIT · 推送 2026-06-11 · [GitHub](https://github.com/DarthAffe/StableDiffusion.NET) · 个人维护
+⭐ 118 · C# · MIT · 推送 2026-06-11 · [GitHub](https://github.com/DarthAffe/StableDiffusion.NET) · 个人维护
 
 **stable-diffusion.cpp 的 C#/.NET 封装库，供 .NET 应用生成图像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DarthAffe/StableDiffusion.NET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 116 --> 119
+    line [117, 118]
 ```
 
-2026-10-18 117 → 2026-10-26 117（+0）
+2026-10-18 117 → 2026-10-27 118（+1）
 
 
 ---

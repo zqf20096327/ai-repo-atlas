@@ -1,6 +1,6 @@
 # VJ-HLR-Developers/Half-Life-Resurgence
 
-⭐ 79 · Lua · 推送 2026-10-23 · [GitHub](https://github.com/VJ-HLR-Developers/Half-Life-Resurgence) · [官网](https://steamcommunity.com/sharedfiles/filedetails/?id=2548809283) · 组织维护
+⭐ 79 · Lua · 推送 2026-10-26 · [GitHub](https://github.com/VJ-HLR-Developers/Half-Life-Resurgence) · [官网](https://steamcommunity.com/sharedfiles/filedetails/?id=2548809283) · 组织维护
 
 **将半衰期系列 NPC、实体与武器复刻进 GMod 的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VJ-HLR-Developers/Half-Life-Resurgence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 79（+0）
 
 
 ---

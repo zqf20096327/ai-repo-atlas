@@ -1,6 +1,6 @@
 # argonne-lcf/dlio_benchmark
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/argonne-lcf/dlio_benchmark) · [官网](https://dlio-benchmark.readthedocs.io) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/argonne-lcf/dlio_benchmark) · [官网](https://dlio-benchmark.readthedocs.io) · 组织维护
 
 **深度学习应用的 I/O 基准测试工具，模拟数据加载 I/O 行为**
 
@@ -45,12 +45,12 @@ Argonne 实验室 ALCF 团队维护的 I/O 基准：通过 Data Generator 生成
 ```mermaid
 xychart-beta
     title "argonne-lcf/dlio_benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 110 --> 114
+    line [111, 112, 113]
 ```
 
-2026-10-18 111 → 2026-10-26 112（+1）
+2026-10-18 111 → 2026-10-27 113（+2）
 
 
 ---

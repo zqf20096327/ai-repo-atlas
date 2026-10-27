@@ -46,12 +46,12 @@ Microsoft 与 UIUC 等机构发布的 AsyncWebRL：基于 AReaL 异步 RL 框架
 ```mermaid
 xychart-beta
     title "microsoft/webgym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 50（+0）
 
 
 ---

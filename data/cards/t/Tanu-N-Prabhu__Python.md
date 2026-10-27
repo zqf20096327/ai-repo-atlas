@@ -1,6 +1,6 @@
 # Tanu-N-Prabhu/Python
 
-⭐ 2,309 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/Tanu-N-Prabhu/Python) · [官网](https://github.com/Tanu-N-Prabhu) · 个人维护
+⭐ 2,311 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/Tanu-N-Prabhu/Python) · [官网](https://github.com/Tanu-N-Prabhu) · 个人维护
 
 **从零学习 Python、数据科学与机器学习的教程仓库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tanu-N-Prabhu/Python 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2307 --> 2311
-    line [2309, 2308, 2310, 2309, 2310, 2309]
+    title "Tanu-N-Prabhu/Python 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2307 --> 2312
+    line [2309, 2308, 2310, 2309, 2310, 2309, 2311]
 ```
 
-2026-10-18 2,309 → 2026-10-26 2,309（+0）
+2026-10-18 2,309 → 2026-10-27 2,311（+2）
 
 
 ---

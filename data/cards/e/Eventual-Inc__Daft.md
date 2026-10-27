@@ -1,6 +1,6 @@
 # Eventual-Inc/Daft
 
-⭐ 5,812 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Eventual-Inc/Daft) · [官网](https://daft.ai) · 组织维护
+⭐ 5,813 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Eventual-Inc/Daft) · [官网](https://daft.ai) · 组织维护
 
 **面向 AI 与多模态工作负载的高性能分布式数据引擎**
 
@@ -45,13 +45,13 @@ Daft 是 Python 原生、Rust 实现的分布式数据引擎（dataframe），�
 
 ```mermaid
 xychart-beta
-    title "Eventual-Inc/Daft 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5805 --> 5813
-    line [5806, 5807, 5809, 5810, 5811, 5812]
+    title "Eventual-Inc/Daft 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5805 --> 5814
+    line [5806, 5807, 5809, 5810, 5811, 5812, 5813]
 ```
 
-2026-10-18 5,806 → 2026-10-26 5,812（+6）
+2026-10-18 5,806 → 2026-10-27 5,813（+7）
 
 
 ---

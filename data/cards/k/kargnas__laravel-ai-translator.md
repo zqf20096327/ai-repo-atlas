@@ -1,6 +1,6 @@
 # kargnas/laravel-ai-translator
 
-⭐ 249 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kargnas/laravel-ai-translator) · [官网](https://kargn.as/projects/laravel-ai-translator) · 个人维护
+⭐ 249 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kargnas/laravel-ai-translator) · [官网](https://kargn.as/projects/laravel-ai-translator) · 个人维护
 
 **用 AI 将 Laravel 语言文件自动翻译成多语言的包**
 
@@ -45,12 +45,12 @@ Laravel 的 Composer 包，通过 artisan 命令读取 lang 目录下源语言�
 ```mermaid
 xychart-beta
     title "kargnas/laravel-ai-translator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 248 --> 250
     line [249, 249]
 ```
 
-2026-10-18 249 → 2026-10-26 249（+0）
+2026-10-18 249 → 2026-10-27 249（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SeanCole02/doom-neuron
 
-⭐ 304 · Python · GPL-3.0 · 推送 2026-05-09 · [GitHub](https://github.com/SeanCole02/doom-neuron) · 个人维护
+⭐ 305 · Python · GPL-3.0 · 推送 2026-05-09 · [GitHub](https://github.com/SeanCole02/doom-neuron) · 个人维护
 
 **用 CL1 生物神经元通过 PPO 学习玩 Doom 的实验代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeanCole02/doom-neuron 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 300 --> 305
-    line [301, 302, 303, 304]
+    title "SeanCole02/doom-neuron 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 300 --> 306
+    line [301, 302, 303, 304, 305]
 ```
 
-2026-10-18 301 → 2026-10-26 304（+3）
+2026-10-18 301 → 2026-10-27 305（+4）
 
 
 ---

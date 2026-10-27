@@ -42,13 +42,13 @@ Anthropic 官方维护的 C#/.NET SDK，从 10 版起作为 Claude API 的官方
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-csharp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "anthropics/anthropic-sdk-csharp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 336 --> 341
-    line [337, 339, 340, 339]
+    line [337, 339, 340, 339, 339]
 ```
 
-2026-10-18 337 → 2026-10-26 339（+2）
+2026-10-18 337 → 2026-10-27 339（+2）
 
 
 ---

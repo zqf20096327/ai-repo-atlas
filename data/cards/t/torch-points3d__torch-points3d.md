@@ -1,6 +1,6 @@
 # torch-points3d/torch-points3d
 
-⭐ 2,713 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/torch-points3d/torch-points3d) · [官网](https://torch-points3d.readthedocs.io/en/latest/) · 组织维护
+⭐ 2,712 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/torch-points3d/torch-points3d) · [官网](https://torch-points3d.readthedocs.io/en/latest/) · 组织维护
 
 **面向研究者的点云深度学习 PyTorch 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "torch-points3d/torch-points3d 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 2712 --> 2719
-    line [2718, 2717, 2714, 2713]
+    title "torch-points3d/torch-points3d 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2711 --> 2719
+    line [2718, 2717, 2714, 2713, 2712]
 ```
 
-2026-10-18 2,718 → 2026-10-26 2,713（-5）
+2026-10-18 2,718 → 2026-10-27 2,712（-6）
 
 
 ---

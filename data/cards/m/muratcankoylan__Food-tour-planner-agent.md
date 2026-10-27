@@ -1,6 +1,6 @@
 # muratcankoylan/Food-tour-planner-agent
 
-⭐ 97 · Python · 推送 2025-11-06 · [GitHub](https://github.com/muratcankoylan/Food-tour-planner-agent) · [官网](https://x.com/koylanai/status/1985741020743467472) · 个人维护
+⭐ 96 · Python · 推送 2025-11-06 · [GitHub](https://github.com/muratcankoylan/Food-tour-planner-agent) · [官网](https://x.com/koylanai/status/1985741020743467472) · 个人维护
 
 **AI 美食之旅规划应用：多智能体生成个性化巡游方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muratcankoylan/Food-tour-planner-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 95 --> 98
+    line [97, 96]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 96（-1）
 
 
 ---

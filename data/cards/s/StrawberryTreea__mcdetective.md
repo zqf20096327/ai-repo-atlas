@@ -1,6 +1,6 @@
 # StrawberryTreea/mcdetective
 
-⭐ 76 · HTML · 推送 2026-10-14 · [GitHub](https://github.com/StrawberryTreea/mcdetective) · [官网](https://mcdetective.app.workbuddy.host) · 个人维护 · 中文 README
+⭐ 75 · HTML · 推送 2026-10-14 · [GitHub](https://github.com/StrawberryTreea/mcdetective) · [官网](https://mcdetective.app.workbuddy.host) · 个人维护 · 中文 README
 
 **调麦当劳 MCP 只读查价比货的 AI 侦探工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "StrawberryTreea/mcdetective 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "StrawberryTreea/mcdetective 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 12 --> 81
-    line [17, 18, 30, 41, 45, 76]
+    line [17, 18, 30, 41, 45, 76, 75]
 ```
 
-2026-10-18 17 → 2026-10-26 76（+59）
+2026-10-18 17 → 2026-10-27 75（+58）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/EduGemma-AI-Tutor
 
-⭐ 42 · Jupyter Notebook · 推送 2026-05-06 · [GitHub](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) · [官网](https://edugemma.netlify.app/) · 个人维护
+⭐ 44 · Jupyter Notebook · 推送 2026-05-06 · [GitHub](https://github.com/mirzayasirabdullahbaig07/EduGemma-AI-Tutor) · [官网](https://edugemma.netlify.app/) · 个人维护
 
 **基于 Gemma 4 的离线自适应 AI 辅导应用，面向低资源地区学生**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/EduGemma-AI-Tutor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 41 --> 45
+    line [42, 44]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 44（+2）
 
 
 ---

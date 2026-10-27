@@ -1,6 +1,6 @@
 # decocms/studio
 
-⭐ 412 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/decocms/studio) · [官网](https://decocms.com/studio) · 组织维护
+⭐ 412 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/decocms/studio) · [官网](https://decocms.com/studio) · 组织维护
 
 **组织内部 AI agent 的开源控制平面：接入工具、模型与成本追踪**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "decocms/studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 409 --> 413
     line [410, 411, 412, 412]
 ```
 
-2026-10-18 410 → 2026-10-26 412（+2）
+2026-10-18 410 → 2026-10-27 412（+2）
 
 
 ---

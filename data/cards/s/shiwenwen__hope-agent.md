@@ -1,6 +1,6 @@
 # shiwenwen/hope-agent
 
-⭐ 1,860 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shiwenwen/hope-agent) · 个人维护 · 中文 README
+⭐ 1,860 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shiwenwen/hope-agent) · 个人维护 · 中文 README
 
 **跨设备桌面个人 AI agent：记忆、自主目标与动态工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shiwenwen/hope-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "shiwenwen/hope-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1855 --> 1900
-    line [1858, 1875, 1897, 1858, 1859, 1860]
+    line [1858, 1875, 1897, 1858, 1859, 1860, 1860]
 ```
 
-2026-10-18 1,858 → 2026-10-26 1,860（+2）
+2026-10-18 1,858 → 2026-10-27 1,860（+2）
 
 
 ---

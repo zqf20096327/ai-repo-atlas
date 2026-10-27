@@ -1,6 +1,6 @@
 # yasserfarouk/negmas
 
-⭐ 101 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yasserfarouk/negmas) · 个人维护
+⭐ 102 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yasserfarouk/negmas) · 个人维护
 
 **构建自主谈判智能体的 Python 库，支持多边谈判与仿真**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yasserfarouk/negmas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-18 101 → 2026-10-26 101（+0）
+2026-10-18 101 → 2026-10-27 102（+1）
 
 
 ---

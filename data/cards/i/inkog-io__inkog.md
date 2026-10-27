@@ -1,6 +1,6 @@
 # inkog-io/inkog
 
-⭐ 31 · Go · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/inkog-io/inkog) · [官网](https://inkog.io) · 组织维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/inkog-io/inkog) · [官网](https://inkog.io) · 组织维护
 
 **AI agent 代码的静态安全扫描器：上线前查注入、失控循环与合规缺口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inkog-io/inkog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-26 31（+1）
+2026-10-18 30 → 2026-10-27 31（+1）
 
 
 ---

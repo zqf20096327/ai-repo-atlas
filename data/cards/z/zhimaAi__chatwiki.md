@@ -1,6 +1,6 @@
 # zhimaAi/chatwiki
 
-⭐ 2,094 · Vue · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zhimaAi/chatwiki) · [官网](https://chatwiki.ai) · 组织维护 · 中文 README
+⭐ 2,095 · Vue · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/zhimaAi/chatwiki) · [官网](https://chatwiki.ai) · 组织维护 · 中文 README
 
 **面向微信生态的 AI 知识库与工作流 Agent 平台**
 
@@ -44,13 +44,13 @@ ChatWiki 是聚焦微信公众号生态的工作流自动化平台：通过拖�
 
 ```mermaid
 xychart-beta
-    title "zhimaAi/chatwiki 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2089 --> 2095
-    line [2090, 2091, 2092, 2094]
+    title "zhimaAi/chatwiki 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2089 --> 2096
+    line [2090, 2091, 2092, 2094, 2095]
 ```
 
-2026-10-18 2,090 → 2026-10-26 2,094（+4）
+2026-10-18 2,090 → 2026-10-27 2,095（+5）
 
 
 ---

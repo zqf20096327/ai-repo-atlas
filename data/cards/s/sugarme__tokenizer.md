@@ -1,6 +1,6 @@
 # sugarme/tokenizer
 
-⭐ 341 · Go · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sugarme/tokenizer) · 个人维护
+⭐ 342 · Go · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sugarme/tokenizer) · 个人维护
 
 **Go 语言 NLP 分词库：加载/训练 Word、WordPiece、BPE 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sugarme/tokenizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 339 --> 342
-    line [340, 341, 341]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 339 --> 343
+    line [340, 341, 342]
 ```
 
-2026-10-18 340 → 2026-10-26 341（+1）
+2026-10-18 340 → 2026-10-27 342（+2）
 
 
 ---

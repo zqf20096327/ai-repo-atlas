@@ -46,12 +46,12 @@ ECCV 2024 Oral 论文 'Tackling Structural Hallucination in Image Translation wi
 ```mermaid
 xychart-beta
     title "edshkim98/LocalDiffusion-Hallucination 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ilbie/Toss-Design-Skill
 
-⭐ 57 · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
+⭐ 58 · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
 
 **参考 Toss Tech 设计文章的非官方 agent 技能包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Ilbie/Toss-Design-Skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 58（+1）
 
 
 ---

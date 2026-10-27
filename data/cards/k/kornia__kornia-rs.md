@@ -1,6 +1,6 @@
 # kornia/kornia-rs
 
-⭐ 741 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kornia/kornia-rs) · [官网](https://docs.rs/kornia) · 组织维护 · 中文 README
+⭐ 743 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kornia/kornia-rs) · [官网](https://docs.rs/kornia) · 组织维护 · 中文 README
 
 **Rust 底层计算机视觉库：快速图像 I/O 与 CPU/GPU 图像处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kornia/kornia-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 738 --> 742
-    line [739, 740, 741]
+    title "kornia/kornia-rs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 738 --> 744
+    line [739, 740, 741, 743]
 ```
 
-2026-10-18 739 → 2026-10-26 741（+2）
+2026-10-18 739 → 2026-10-27 743（+4）
 
 
 ---

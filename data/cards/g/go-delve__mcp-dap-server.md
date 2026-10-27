@@ -1,6 +1,6 @@
 # go-delve/mcp-dap-server
 
-⭐ 105 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/go-delve/mcp-dap-server) · 组织维护
+⭐ 106 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/go-delve/mcp-dap-server) · 组织维护
 
 **让 AI Agent 通过 DAP 调试器调试运行中程序的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "go-delve/mcp-dap-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-10-18 105 → 2026-10-26 105（+0）
+2026-10-18 105 → 2026-10-27 106（+1）
 
 
 ---

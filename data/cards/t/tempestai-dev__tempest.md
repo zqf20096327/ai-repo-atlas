@@ -1,6 +1,6 @@
 # tempestai-dev/tempest
 
-⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tempestai-dev/tempest) · [官网](https://tempestai.dev) · 组织维护
+⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tempestai-dev/tempest) · [官网](https://tempestai.dev) · 组织维护
 
 **并行运行 Claude Code、Codex 等 CLI Agent 的桌面管理器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tempestai-dev/tempest 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 190 --> 195
-    line [191, 193, 194, 193, 193]
+    line [191, 193, 194, 193, 194]
 ```
 
-2026-10-18 191 → 2026-10-26 193（+2）
+2026-10-18 191 → 2026-10-27 194（+3）
 
 
 ---

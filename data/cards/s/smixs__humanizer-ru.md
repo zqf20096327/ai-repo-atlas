@@ -1,6 +1,6 @@
 # smixs/humanizer-ru
 
-⭐ 195 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/smixs/humanizer-ru) · 个人维护
+⭐ 196 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/smixs/humanizer-ru) · 个人维护
 
 **俄语文本 AI 痕迹去除与检测的 agent 技能（SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smixs/humanizer-ru 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 189 --> 196
-    line [190, 193, 195, 195]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 189 --> 197
+    line [190, 193, 195, 196]
 ```
 
-2026-10-18 190 → 2026-10-26 195（+5）
+2026-10-18 190 → 2026-10-27 196（+6）
 
 
 ---

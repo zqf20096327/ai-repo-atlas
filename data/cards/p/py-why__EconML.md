@@ -1,6 +1,6 @@
 # py-why/EconML
 
-⭐ 4,829 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/py-why/EconML) · [官网](https://www.microsoft.com/en-us/research/project/alice/) · 组织维护
+⭐ 4,828 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/py-why/EconML) · [官网](https://www.microsoft.com/en-us/research/project/alice/) · 组织维护
 
 **微软研究院出品的异质性处理效应估计 Python 库（因果推断）**
 
@@ -45,12 +45,12 @@ EconML 是微软研究院 ALICE 项目的 Python 包，用机器学习方法从�
 ```mermaid
 xychart-beta
     title "py-why/EconML 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 4815 --> 4830
-    line [4816, 4818, 4821, 4823, 4825, 4829, 4829]
+    line [4816, 4818, 4821, 4823, 4825, 4829, 4828]
 ```
 
-2026-10-18 4,816 → 2026-10-26 4,829（+13）
+2026-10-18 4,816 → 2026-10-27 4,828（+12）
 
 
 ---

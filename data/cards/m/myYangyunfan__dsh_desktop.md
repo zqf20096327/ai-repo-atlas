@@ -1,6 +1,6 @@
 # myYangyunfan/dsh_desktop
 
-⭐ 727 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
+⭐ 728 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 装进桌面的开箱即用客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "myYangyunfan/dsh_desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "myYangyunfan/dsh_desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 714 --> 729
-    line [715, 716, 721, 723, 726, 728, 727]
+    line [715, 716, 721, 723, 726, 728, 727, 728]
 ```
 
-2026-10-18 715 → 2026-10-26 727（+12）
+2026-10-18 715 → 2026-10-27 728（+13）
 
 
 ---

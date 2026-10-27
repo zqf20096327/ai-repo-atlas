@@ -45,13 +45,13 @@ Very Good Ventures 开发的 Claude Code 插件：以技能（skills）、子代
 
 ```mermaid
 xychart-beta
-    title "VeryGoodOpenSource/vgv-ai-flutter-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "VeryGoodOpenSource/vgv-ai-flutter-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 171 --> 175
-    line [172, 173, 174]
+    line [172, 173, 174, 174]
 ```
 
-2026-10-18 172 → 2026-10-26 174（+2）
+2026-10-18 172 → 2026-10-27 174（+2）
 
 
 ---

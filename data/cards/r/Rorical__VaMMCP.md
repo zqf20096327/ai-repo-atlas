@@ -1,6 +1,6 @@
 # Rorical/VaMMCP
 
-⭐ 26 · C# · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Rorical/VaMMCP) · 个人维护 · 中文 README
+⭐ 27 · C# · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Rorical/VaMMCP) · 个人维护 · 中文 README
 
 **让 MCP 客户端用自然语言控制 Virt-A-Mate 的 BepInEx 插件（63 工具）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rorical/VaMMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    title "Rorical/VaMMCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-26 26（+2）
+2026-10-18 24 → 2026-10-27 27（+3）
 
 
 ---

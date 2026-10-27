@@ -1,6 +1,6 @@
 # backblaze-labs/b2-mcp
 
-⭐ 45 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/backblaze-labs/b2-mcp) · [官网](https://backblaze-labs.github.io/b2-mcp/) · 组织维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/backblaze-labs/b2-mcp) · [官网](https://backblaze-labs.github.io/b2-mcp/) · 组织维护
 
 **Backblaze 官方 B2 云存储 MCP 服务器，供 AI 客户端操作存储**
 
@@ -45,12 +45,12 @@ Backblaze Labs 维护的 Model Context Protocol 服务器，让 Claude 等 MCP �
 ```mermaid
 xychart-beta
     title "backblaze-labs/b2-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 45（+0）
 
 
 ---

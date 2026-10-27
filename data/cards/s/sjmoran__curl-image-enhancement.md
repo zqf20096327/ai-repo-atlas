@@ -45,12 +45,12 @@ Huawei Noah's Ark Lab 发表的 ICPR 2020 论文 CURL 的官方代码。方法�
 ```mermaid
 xychart-beta
     title "sjmoran/curl-image-enhancement 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 221 --> 223
     line [222, 222]
 ```
 
-2026-10-18 222 → 2026-10-26 222（+0）
+2026-10-18 222 → 2026-10-27 222（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-driven-dev/framework
 
-⭐ 536 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ai-driven-dev/framework) · [官网](https://www.ai-driven-dev.fr/) · 组织维护
+⭐ 538 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ai-driven-dev/framework) · [官网](https://www.ai-driven-dev.fr/) · 组织维护
 
 **面向 AI 编码工具的 SDLC 框架：插件/技能/代理标准化开发流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-driven-dev/framework 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 518 --> 537
-    line [519, 522, 523, 525, 532, 533, 536]
+    title "ai-driven-dev/framework 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 518 --> 539
+    line [519, 522, 523, 525, 532, 533, 536, 538]
 ```
 
-2026-10-18 519 → 2026-10-26 536（+17）
+2026-10-18 519 → 2026-10-27 538（+19）
 
 
 ---

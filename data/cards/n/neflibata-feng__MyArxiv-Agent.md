@@ -1,6 +1,6 @@
 # neflibata-feng/MyArxiv-Agent
 
-⭐ 125 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/neflibata-feng/MyArxiv-Agent) · [官网](https://neflibata-feng.github.io/MyArxiv-Agent/) · 个人维护 · 中文 README
+⭐ 125 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/neflibata-feng/MyArxiv-Agent) · [官网](https://neflibata-feng.github.io/MyArxiv-Agent/) · 个人维护 · 中文 README
 
 **个人 arXiv 论文自动化知识空间模板：抓取、筛选、归档与笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neflibata-feng/MyArxiv-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-18 125 → 2026-10-26 125（+0）
+2026-10-18 125 → 2026-10-27 125（+0）
 
 
 ---

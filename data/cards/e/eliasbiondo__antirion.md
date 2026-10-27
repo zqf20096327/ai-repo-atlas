@@ -1,6 +1,6 @@
 # eliasbiondo/antirion
 
-⭐ 278 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/eliasbiondo/antirion) · [官网](https://antirion.ai) · 个人维护
+⭐ 326 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/eliasbiondo/antirion) · [官网](https://antirion.ai) · 个人维护
 
 **单二进制 Rust LLM 网关：统一接入多家模型商并路由计费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eliasbiondo/antirion 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 49 --> 298
-    line [69, 152, 145, 148, 210, 278]
+    title "eliasbiondo/antirion 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 44 --> 351
+    line [69, 152, 145, 148, 210, 278, 326]
 ```
 
-2026-10-19 69 → 2026-10-26 278（+209）
+2026-10-19 69 → 2026-10-27 326（+257）
 
 
 ---

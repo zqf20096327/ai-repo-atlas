@@ -1,6 +1,6 @@
 # AbdelStark/attnres
 
-⭐ 54 · Rust · MIT · 推送 2026-03-23 · [GitHub](https://github.com/AbdelStark/attnres) · [官网](https://abdelstark.github.io/attnres/) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-03-23 · [GitHub](https://github.com/AbdelStark/attnres) · [官网](https://abdelstark.github.io/attnres/) · 个人维护
 
 **Rust 实现的 Attention Residuals Transformer 组件与参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AbdelStark/attnres 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 53 --> 56
+    line [54, 55]
 ```
 
-2026-10-18 54 → 2026-10-26 54（+0）
+2026-10-18 54 → 2026-10-27 55（+1）
 
 
 ---

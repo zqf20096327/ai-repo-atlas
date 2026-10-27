@@ -47,12 +47,12 @@ C/C++ 神经网络框架，支持在手机、Tizen、Android、Linux、Windows �
 ```mermaid
 xychart-beta
     title "nntrainer/nntrainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 213 --> 215
     line [214, 214]
 ```
 
-2026-10-18 214 → 2026-10-26 214（+0）
+2026-10-18 214 → 2026-10-27 214（+0）
 
 
 ---

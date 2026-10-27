@@ -1,6 +1,6 @@
 # letuswerss/werss
 
-⭐ 76 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/letuswerss/werss) · [官网](https://letuswerss.github.io/werss/) · 组织维护 · 中文 README
+⭐ 78 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/letuswerss/werss) · [官网](https://letuswerss.github.io/werss/) · 组织维护 · 中文 README
 
 **自托管微信公众号聚合与 AI 分析系统，输出 RSS 与热点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "letuswerss/werss 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 70 --> 77
-    line [71, 72, 74, 75, 76]
+    title "letuswerss/werss 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 70 --> 79
+    line [71, 72, 74, 75, 76, 78]
 ```
 
-2026-10-18 71 → 2026-10-26 76（+5）
+2026-10-18 71 → 2026-10-27 78（+7）
 
 
 ---

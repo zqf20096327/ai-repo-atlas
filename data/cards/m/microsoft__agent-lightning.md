@@ -1,6 +1,6 @@
 # microsoft/agent-lightning
 
-⭐ 18,810 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
+⭐ 18,817 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
 
 **面向开发者的 agent 强化学习训练框架**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-lightning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18726 --> 18817
-    line [18733, 18755, 18779, 18788, 18793, 18800, 18810]
+    title "microsoft/agent-lightning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18725 --> 18825
+    line [18733, 18755, 18779, 18788, 18793, 18800, 18810, 18817]
 ```
 
-2026-10-18 18,733 → 2026-10-26 18,810（+77）
+2026-10-18 18,733 → 2026-10-27 18,817（+84）
 
 
 ---

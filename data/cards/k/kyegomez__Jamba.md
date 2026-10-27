@@ -1,6 +1,6 @@
 # kyegomez/Jamba
 
-⭐ 222 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/Jamba) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 222 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/Jamba) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **Jamba 混合 Transformer-Mamba 语言模型的 PyTorch 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/Jamba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 221 --> 224
     line [223, 222, 222]
 ```
 
-2026-10-18 223 → 2026-10-26 222（-1）
+2026-10-18 223 → 2026-10-27 222（-1）
 
 
 ---

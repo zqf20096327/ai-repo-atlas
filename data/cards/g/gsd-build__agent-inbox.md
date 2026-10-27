@@ -1,6 +1,6 @@
 # gsd-build/agent-inbox
 
-⭐ 63 · JavaScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/gsd-build/agent-inbox) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/gsd-build/agent-inbox) · 组织维护
 
 **给 AI agent 提供一次性邮箱的 MCP 服务器，用于验证邮件与测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gsd-build/agent-inbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-10-26 63（+1）
+2026-10-18 62 → 2026-10-27 64（+2）
 
 
 ---

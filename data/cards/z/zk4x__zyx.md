@@ -1,6 +1,6 @@
 # zk4x/zyx
 
-⭐ 74 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/zk4x/zyx) · 个人维护
+⭐ 74 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/zk4x/zyx) · 个人维护
 
 **面向多后端硬件的 Rust 张量/机器学习库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zk4x/zyx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 74（+0）
 
 
 ---

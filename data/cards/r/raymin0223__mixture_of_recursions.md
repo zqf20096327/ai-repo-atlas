@@ -1,6 +1,6 @@
 # raymin0223/mixture_of_recursions
 
-⭐ 643 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/raymin0223/mixture_of_recursions) · [官网](https://arxiv.org/abs/2507.10524) · 组织维护
+⭐ 647 · Python · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/raymin0223/mixture_of_recursions) · [官网](https://arxiv.org/abs/2507.10524) · 组织维护
 
 **NeurIPS 2025 论文 MoR 官方代码：为 LLM 学习逐 token 的动态递归深度**
 
@@ -46,12 +46,12 @@ Mixture-of-Recursions 的研究代码，出自 KAIST、Mila 与 Google 系机构
 ```mermaid
 xychart-beta
     title "raymin0223/mixture_of_recursions 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 640 --> 644
-    line [641, 642, 643, 642, 643, 643]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 640 --> 648
+    line [641, 642, 643, 642, 643, 647]
 ```
 
-2026-10-18 641 → 2026-10-26 643（+2）
+2026-10-18 641 → 2026-10-27 647（+6）
 
 
 ---

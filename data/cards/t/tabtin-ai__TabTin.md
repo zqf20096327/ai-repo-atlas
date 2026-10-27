@@ -1,6 +1,6 @@
 # tabtin-ai/TabTin
 
-⭐ 443 · TypeScript · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/tabtin-ai/TabTin) · [官网](https://www.tabtin.com/) · 组织维护 · 中文 README
+⭐ 444 · TypeScript · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/tabtin-ai/TabTin) · [官网](https://www.tabtin.com/) · 组织维护 · 中文 README
 
 **人与多 Agent 团队协作平台：让 Agent 参与真实工作并支持任务交接**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tabtin-ai/TabTin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 434 --> 444
-    line [436, 435, 440, 443, 443]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 434 --> 445
+    line [436, 435, 440, 443, 444]
 ```
 
-2026-10-18 436 → 2026-10-26 443（+7）
+2026-10-18 436 → 2026-10-27 444（+8）
 
 
 ---

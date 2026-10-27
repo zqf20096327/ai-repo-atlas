@@ -1,6 +1,6 @@
 # retrofor/iamai
 
-⭐ 32 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/retrofor/iamai) · [官网](https://iamai.is-a.dev) · 组织维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/retrofor/iamai) · [官网](https://iamai.is-a.dev) · 组织维护 · 中文 README
 
 **跨平台聊天机器人/AI agent 消息运行时框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "retrofor/iamai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

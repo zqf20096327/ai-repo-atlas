@@ -1,6 +1,6 @@
 # a-r-j/graphein
 
-⭐ 1,197 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 组织维护
+⭐ 1,197 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 组织维护
 
 **蛋白质/ RNA 结构与生物互作网络的图构建库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "a-r-j/graphein 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 1196 --> 1198
     line [1197, 1197]
 ```
 
-2026-10-18 1,197 → 2026-10-26 1,197（+0）
+2026-10-18 1,197 → 2026-10-27 1,197（+0）
 
 
 ---

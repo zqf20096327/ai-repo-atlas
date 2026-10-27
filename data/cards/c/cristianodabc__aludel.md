@@ -1,6 +1,6 @@
 # cristianodabc/aludel
 
-⭐ 41 · Elixir · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cristianodabc/aludel) · [官网](https://hexdocs.pm/aludel) · 个人维护
+⭐ 41 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cristianodabc/aludel) · [官网](https://hexdocs.pm/aludel) · 个人维护
 
 **Elixir/Phoenix 的 LLM 评测与提示词测试工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cristianodabc/aludel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

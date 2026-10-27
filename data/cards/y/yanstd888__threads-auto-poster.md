@@ -1,6 +1,6 @@
 # yanstd888/threads-auto-poster
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/yanstd888/threads-auto-poster) · [官网](https://threads.aiclub.ai.id/) · 个人维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/yanstd888/threads-auto-poster) · [官网](https://threads.aiclub.ai.id/) · 个人维护
 
 **自托管 Threads 发帖调度工作台，含可选 AI 起草与人工审批**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yanstd888/threads-auto-poster 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "yanstd888/threads-auto-poster 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 15 --> 39
-    line [17, 24, 28, 33, 36, 37]
+    line [17, 24, 28, 33, 36, 37, 36]
 ```
 
-2026-10-19 17 → 2026-10-26 37（+20）
+2026-10-19 17 → 2026-10-27 36（+19）
 
 
 ---

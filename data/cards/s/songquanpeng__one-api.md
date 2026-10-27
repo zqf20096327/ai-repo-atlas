@@ -1,6 +1,6 @@
 # songquanpeng/one-api
 
-⭐ 37,246 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
+⭐ 37,254 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
 
 **开发者的 LLM API 网关：统一多家模型接口并管理分发 key**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "songquanpeng/one-api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 37185 --> 37251
-    line [37190, 37203, 37218, 37221, 37233, 37238, 37246]
+    title "songquanpeng/one-api 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 37184 --> 37260
+    line [37190, 37203, 37218, 37221, 37233, 37238, 37246, 37254]
 ```
 
-2026-10-18 37,190 → 2026-10-26 37,246（+56）
+2026-10-18 37,190 → 2026-10-27 37,254（+64）
 
 
 ---

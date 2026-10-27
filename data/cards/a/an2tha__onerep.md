@@ -1,6 +1,6 @@
 # an2tha/onerep
 
-⭐ 74 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/an2tha/onerep) · [官网](https://www.onerep.life) · 个人维护
+⭐ 75 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/an2tha/onerep) · [官网](https://www.onerep.life) · 个人维护
 
 **开源自托管健身追踪应用：饮食/训练/日记与 AI 教练一体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "an2tha/onerep 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 70 --> 75
-    line [71, 72, 73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 70 --> 76
+    line [71, 72, 73, 74, 75]
 ```
 
-2026-10-18 71 → 2026-10-26 74（+3）
+2026-10-18 71 → 2026-10-27 75（+4）
 
 
 ---

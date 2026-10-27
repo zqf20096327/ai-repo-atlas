@@ -1,6 +1,6 @@
 # unitedrhino/docling
 
-⭐ 61 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/unitedrhino/docling) · [官网](https://www.unitedrhino.com/) · 组织维护 · 中文 README
+⭐ 63 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/unitedrhino/docling) · [官网](https://www.unitedrhino.com/) · 组织维护 · 中文 README
 
 **纯 Go 文档解析库：12+ 种格式统一转为 Docling 协议供 LLM 摄入**
 
@@ -45,12 +45,12 @@ Docling 协议的纯 Go 实现，将 PDF、Word、PPT、Excel、HTML、Markdown�
 ```mermaid
 xychart-beta
     title "unitedrhino/docling 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 43 --> 62
-    line [44, 45, 55, 56, 59, 61, 61]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 43 --> 64
+    line [44, 45, 55, 56, 59, 61, 63]
 ```
 
-2026-10-18 44 → 2026-10-26 61（+17）
+2026-10-18 44 → 2026-10-27 63（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # ShishirPatil/gorilla
 
-⭐ 13,059 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/ShishirPatil/gorilla) · [官网](https://gorilla.cs.berkeley.edu/) · 组织维护
+⭐ 13,060 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/ShishirPatil/gorilla) · [官网](https://gorilla.cs.berkeley.edu/) · 组织维护
 
 **让 LLM 输出正确 API 调用的模型与评测基准项目**
 
@@ -44,13 +44,13 @@ UC Berkeley 团维护的 LLM 工具调用项目集合：核心是 Gorilla 与 Op
 
 ```mermaid
 xychart-beta
-    title "ShishirPatil/gorilla 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 13052 --> 13060
-    line [13054, 13053, 13056, 13057, 13058, 13059]
+    title "ShishirPatil/gorilla 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13052 --> 13061
+    line [13054, 13053, 13056, 13057, 13058, 13059, 13060]
 ```
 
-2026-10-18 13,054 → 2026-10-26 13,059（+5）
+2026-10-18 13,054 → 2026-10-27 13,060（+6）
 
 
 ---

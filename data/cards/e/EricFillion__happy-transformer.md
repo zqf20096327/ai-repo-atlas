@@ -1,6 +1,6 @@
 # EricFillion/happy-transformer
 
-⭐ 546 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/EricFillion/happy-transformer) · [官网](http://happytransformer.com) · 组织维护
+⭐ 547 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/EricFillion/happy-transformer) · [官网](http://happytransformer.com) · 组织维护
 
 **NLP Transformer 模型的微调与推理 Python 库**
 
@@ -43,13 +43,13 @@ Happy Transformer 是一个封装 Hugging Face 生态的 Python 库，提供文�
 
 ```mermaid
 xychart-beta
-    title "EricFillion/happy-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 544 --> 547
-    line [545, 546]
+    title "EricFillion/happy-transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 544 --> 548
+    line [545, 546, 547]
 ```
 
-2026-10-18 545 → 2026-10-26 546（+1）
+2026-10-18 545 → 2026-10-27 547（+2）
 
 
 ---

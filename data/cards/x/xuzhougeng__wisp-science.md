@@ -1,6 +1,6 @@
 # xuzhougeng/wisp-science
 
-⭐ 1,055 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xuzhougeng/wisp-science) · [官网](http://wispscience.com/) · 个人维护 · 中文 README
+⭐ 1,055 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/xuzhougeng/wisp-science) · [官网](http://wispscience.com/) · 个人维护 · 中文 README
 
 **本地优先的开源 AI 科研工作台：科学计算+文献检索**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuzhougeng/wisp-science 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "xuzhougeng/wisp-science 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1043 --> 1056
-    line [1044, 1047, 1049, 1051, 1052, 1054, 1055]
+    line [1044, 1047, 1049, 1051, 1052, 1054, 1055, 1055]
 ```
 
-2026-10-18 1,044 → 2026-10-26 1,055（+11）
+2026-10-18 1,044 → 2026-10-27 1,055（+11）
 
 
 ---

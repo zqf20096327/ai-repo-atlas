@@ -1,6 +1,6 @@
 # n4ze3m/page-assist
 
-⭐ 8,282 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/n4ze3m/page-assist) · [官网](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo) · 个人维护 · 中文 README
+⭐ 8,283 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/n4ze3m/page-assist) · [官网](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo) · 个人维护 · 中文 README
 
 **在浏览器中调用本地 AI 模型的开源扩展：侧栏问答与网页对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "n4ze3m/page-assist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 8260 --> 8284
-    line [8262, 8265, 8266, 8272, 8278, 8282]
+    title "n4ze3m/page-assist 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8260 --> 8285
+    line [8262, 8265, 8266, 8272, 8278, 8282, 8283]
 ```
 
-2026-10-18 8,262 → 2026-10-26 8,282（+20）
+2026-10-18 8,262 → 2026-10-27 8,283（+21）
 
 
 ---

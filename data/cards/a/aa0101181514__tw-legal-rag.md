@@ -1,6 +1,6 @@
 # aa0101181514/tw-legal-rag
 
-⭐ 334 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/aa0101181514/tw-legal-rag) · [官网](https://dr-legal.com.tw) · 个人维护 · 中文 README
+⭐ 335 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/aa0101181514/tw-legal-rag) · [官网](https://dr-legal.com.tw) · 个人维护 · 中文 README
 
 **台灣法律語義檢索 MCP 伺服器與 CLI，供 AI 助理調用判決資料**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aa0101181514/tw-legal-rag 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 327 --> 335
-    line [328, 330, 332, 333, 334]
+    title "aa0101181514/tw-legal-rag 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 327 --> 336
+    line [328, 330, 332, 333, 334, 335]
 ```
 
-2026-10-18 328 → 2026-10-26 334（+6）
+2026-10-18 328 → 2026-10-27 335（+7）
 
 
 ---

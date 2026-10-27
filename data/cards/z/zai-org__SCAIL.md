@@ -1,6 +1,6 @@
 # zai-org/SCAIL
 
-⭐ 1,064 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/zai-org/SCAIL) · 组织维护 · 中文 README
+⭐ 1,065 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/zai-org/SCAIL) · 组织维护 · 中文 README
 
 **14B DiT 角色动画视频生成模型：参考图+驱动视频生成动画**
 
@@ -45,12 +45,12 @@ CVPR 2026 Findings 论文 SCAIL 的官方推理实现：基于 14B DiT 的角色
 ```mermaid
 xychart-beta
     title "zai-org/SCAIL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1059 --> 1065
-    line [1060, 1063, 1064, 1064]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 1059 --> 1066
+    line [1060, 1063, 1064, 1065]
 ```
 
-2026-10-18 1,060 → 2026-10-26 1,064（+4）
+2026-10-18 1,060 → 2026-10-27 1,065（+5）
 
 
 ---

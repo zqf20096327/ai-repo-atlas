@@ -1,6 +1,6 @@
 # zkwi/VoxType
 
-⭐ 91 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zkwi/VoxType) · [官网](https://github.com/zkwi/VoxType/releases/latest) · 个人维护 · 中文 README
+⭐ 91 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zkwi/VoxType) · [官网](https://github.com/zkwi/VoxType/releases/latest) · 个人维护 · 中文 README
 
 **Windows 隐私敏感型开源 AI 语音输入工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zkwi/VoxType 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-10-26 91（+0）
+2026-10-18 91 → 2026-10-27 91（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # appleboy/CodeGPT
 
-⭐ 1,505 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/appleboy/CodeGPT) · 个人维护 · 中文 README
+⭐ 1,504 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/appleboy/CodeGPT) · 个人维护 · 中文 README
 
 **为开发者用 AI 生成 git 提交信息与代码审查摘要的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "appleboy/CodeGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1504 --> 1507
-    line [1506, 1505, 1505]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1503 --> 1507
+    line [1506, 1505, 1504]
 ```
 
-2026-10-18 1,506 → 2026-10-26 1,505（-1）
+2026-10-18 1,506 → 2026-10-27 1,504（-2）
 
 
 ---

@@ -43,13 +43,13 @@ Browser Use Cloud 的官方 SDK 集合，提供 Python（PyPI）与 TypeScript�
 
 ```mermaid
 xychart-beta
-    title "browser-use/sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "browser-use/sdk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 24 --> 29
-    line [25, 27, 28]
+    line [25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-10-26 28（+3）
+2026-10-18 25 → 2026-10-27 28（+3）
 
 
 ---

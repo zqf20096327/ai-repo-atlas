@@ -45,12 +45,12 @@ Payload CMS 3.x 的插件，将集合内容向量化以支持语义搜索与 RAG
 ```mermaid
 xychart-beta
     title "techiejd/payloadcms-vectorize 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-26 96（+0）
+2026-10-18 96 → 2026-10-27 96（+0）
 
 
 ---

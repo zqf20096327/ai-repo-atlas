@@ -1,6 +1,6 @@
 # ai-action/ollama-action
 
-⭐ 33 · MIT · 推送 2026-06-24 · [GitHub](https://github.com/ai-action/ollama-action) · [官网](https://github.com/marketplace/actions/ollama-action) · 个人维护
+⭐ 34 · MIT · 推送 2026-06-24 · [GitHub](https://github.com/ai-action/ollama-action) · [官网](https://github.com/marketplace/actions/ollama-action) · 个人维护
 
 **GitHub Action：在 CI 工作流中运行 Ollama 大语言模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ai-action/ollama-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

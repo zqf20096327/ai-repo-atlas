@@ -1,6 +1,6 @@
 # zhuobichen/weflow-cli
 
-⭐ 119 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zhuobichen/weflow-cli) · 个人维护 · 中文 README
+⭐ 124 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zhuobichen/weflow-cli) · 个人维护 · 中文 README
 
 **本地优先的微信数据 CLI：聊天记录查询导出、日报、知识库与 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhuobichen/weflow-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 107 --> 120
-    line [108, 109, 115, 116, 118, 119]
+    title "zhuobichen/weflow-cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 107 --> 125
+    line [108, 109, 115, 116, 118, 119, 124]
 ```
 
-2026-10-18 108 → 2026-10-26 119（+11）
+2026-10-18 108 → 2026-10-27 124（+16）
 
 
 ---

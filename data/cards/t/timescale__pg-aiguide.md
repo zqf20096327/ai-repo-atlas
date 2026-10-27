@@ -1,6 +1,6 @@
 # timescale/pg-aiguide
 
-⭐ 1,872 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
+⭐ 1,874 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
 
 **给 AI 编码工具提供 PostgreSQL 知识的 MCP 服务器与技能包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "timescale/pg-aiguide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1869 --> 1874
-    line [1870, 1871, 1872, 1873, 1872]
+    title "timescale/pg-aiguide 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1869 --> 1875
+    line [1870, 1871, 1872, 1873, 1872, 1874]
 ```
 
-2026-10-18 1,870 → 2026-10-26 1,872（+2）
+2026-10-18 1,870 → 2026-10-27 1,874（+4）
 
 
 ---

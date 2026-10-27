@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-go
 
-⭐ 46 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
+⭐ 68 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
 
 **手机上运行 DeepSeek Harness 的 Android 非官方客户端**
 
@@ -39,6 +39,18 @@ Flutter 编写的 DeepSeek Harness（DSH）Android 客户端，社区开发、�
 
 > L5:  DeepSeek Harness 的 Android 客户端。手机上直接跑，也能遥控你电脑上的 DSH。
 > L81: 没有关系。dsh-go 是社区开发的非官方客户端，基于开源的 DeepSeek Harness 构建。手机上运行的是 DSH 本身，模型在 DeepSeek 云端，需要联网，按你的账户计费。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ccch1mneyyy/dsh-go 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 44 --> 70
+    line [46, 68]
+```
+
+2026-10-26 46 → 2026-10-27 68（+22）
 
 
 ---

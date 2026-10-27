@@ -1,6 +1,6 @@
 # ahpxex/read-aware
 
-⭐ 476 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ahpxex/read-aware) · [官网](https://readaware.app) · 个人维护 · 中文 README
+⭐ 477 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/ahpxex/read-aware) · [官网](https://readaware.app) · 个人维护 · 中文 README
 
 **带自进化 AI agent 的跨平台电子书阅读器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahpxex/read-aware 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "ahpxex/read-aware 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 457 --> 478
-    line [458, 463, 469, 470, 474, 477, 476]
+    line [458, 463, 469, 470, 474, 477, 476, 477]
 ```
 
-2026-10-18 458 → 2026-10-26 476（+18）
+2026-10-18 458 → 2026-10-27 477（+19）
 
 
 ---

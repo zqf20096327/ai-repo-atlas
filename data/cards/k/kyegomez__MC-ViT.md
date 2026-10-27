@@ -1,6 +1,6 @@
 # kyegomez/MC-ViT
 
-⭐ 27 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/MC-ViT) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MC-ViT) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **MC-ViT 模型实现：长上下文视频理解的记忆巩固 ViT**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MC-ViT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 27（+0）
 
 
 ---

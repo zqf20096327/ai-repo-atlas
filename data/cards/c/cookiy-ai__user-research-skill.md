@@ -1,6 +1,6 @@
 # cookiy-ai/user-research-skill
 
-⭐ 1,569 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cookiy-ai/user-research-skill) · [官网](https://cookiy.ai) · 组织维护
+⭐ 1,570 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cookiy-ai/user-research-skill) · [官网](https://cookiy.ai) · 组织维护
 
 **面向 AI agent 的用户研究技能：规划、执行并合成定性/定量研究**
 
@@ -45,12 +45,12 @@ MIT 许可的 agent 技能包，安装到 Claude Code、Codex、Cursor、OpenCla
 ```mermaid
 xychart-beta
     title "cookiy-ai/user-research-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 1567 --> 1573
-    line [1568, 1569, 1572, 1569, 1569]
+    line [1568, 1569, 1572, 1569, 1570]
 ```
 
-2026-10-18 1,568 → 2026-10-26 1,569（+1）
+2026-10-18 1,568 → 2026-10-27 1,570（+2）
 
 
 ---

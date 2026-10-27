@@ -1,6 +1,6 @@
 # albumentations-team/AlbumentationsX
 
-⭐ 577 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/albumentations-team/AlbumentationsX) · [官网](https://albumentations.ai/pricing) · 组织维护
+⭐ 578 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/albumentations-team/AlbumentationsX) · [官网](https://albumentations.ai/pricing) · 组织维护
 
 **面向计算机视觉训练的 Python 图像增强库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "albumentations-team/AlbumentationsX 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 568 --> 578
-    line [569, 571, 573, 574, 576, 577]
+    title "albumentations-team/AlbumentationsX 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 568 --> 579
+    line [569, 571, 573, 574, 576, 577, 578]
 ```
 
-2026-10-18 569 → 2026-10-26 577（+8）
+2026-10-18 569 → 2026-10-27 578（+9）
 
 
 ---

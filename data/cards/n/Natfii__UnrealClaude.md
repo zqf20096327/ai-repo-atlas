@@ -1,6 +1,6 @@
 # Natfii/UnrealClaude
 
-⭐ 959 · C++ · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/UnrealClaude) · 个人维护
+⭐ 964 · C++ · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/UnrealClaude) · 个人维护
 
 **UE5.7 编辑器内集成 Claude Code CLI 的 AI 编码助手插件**
 
@@ -45,13 +45,13 @@ Unreal Engine 5.7 编辑器插件，将 Claude Code CLI 集成为停靠聊天面
 
 ```mermaid
 xychart-beta
-    title "Natfii/UnrealClaude 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 939 --> 960
-    line [941, 940, 942, 948, 949, 952, 959]
+    title "Natfii/UnrealClaude 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 938 --> 966
+    line [941, 940, 942, 948, 949, 952, 959, 964]
 ```
 
-2026-10-18 941 → 2026-10-26 959（+18）
+2026-10-18 941 → 2026-10-27 964（+23）
 
 
 ---

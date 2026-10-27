@@ -1,6 +1,6 @@
 # 122-syf-wcy/PhysicsOS
 
-⭐ 255 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/122-syf-wcy/PhysicsOS) · [官网](https://physics.dongsiwei.com) · 个人维护 · 中文 README
+⭐ 257 · TypeScript · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/122-syf-wcy/PhysicsOS) · [官网](https://physics.dongsiwei.com) · 个人维护 · 中文 README
 
 **面向初高中物理学习的公益可视化 AI 智能体：AI 解题+物理引擎仿真**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "122-syf-wcy/PhysicsOS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 246 --> 256
-    line [247, 249, 251, 252, 253, 254, 255]
+    title "122-syf-wcy/PhysicsOS 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 246 --> 258
+    line [247, 249, 251, 252, 253, 254, 255, 257]
 ```
 
-2026-10-18 247 → 2026-10-26 255（+8）
+2026-10-18 247 → 2026-10-27 257（+10）
 
 
 ---

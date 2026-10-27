@@ -1,6 +1,6 @@
 # kyegomez/PALI3
 
-⭐ 146 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/PALI3) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 146 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/PALI3) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **PaLI-3 视觉语言模型的开源实现库：图像+文本生成回答**
 
@@ -44,12 +44,12 @@ kyegomez 对论文 PaLI-3 (5B) 的 PyTorch 实现：SigLIP 对比预训练 ViT �
 ```mermaid
 xychart-beta
     title "kyegomez/PALI3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-18 146 → 2026-10-26 146（+0）
+2026-10-18 146 → 2026-10-27 146（+0）
 
 
 ---

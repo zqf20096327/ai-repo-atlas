@@ -46,12 +46,12 @@ TypeScript 实现的多 agent 编码控制面，重新实现 Sakana Fugu 的思�
 ```mermaid
 xychart-beta
     title "BicaMindLabs/FuguNano 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

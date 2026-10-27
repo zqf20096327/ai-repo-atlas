@@ -43,12 +43,12 @@ Google PAIR 开源的字体潜在空间探索网站源码，配套 Distil.pub �
 ```mermaid
 xychart-beta
     title "PAIR-code/font-explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

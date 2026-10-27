@@ -1,6 +1,6 @@
 # nekomeowww/ollama-operator
 
-⭐ 242 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nekomeowww/ollama-operator) · [官网](https://ollama-operator.ayaka.io) · 个人维护
+⭐ 242 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nekomeowww/ollama-operator) · [官网](https://ollama-operator.ayaka.io) · 个人维护
 
 **在 Kubernetes 上运行 Ollama 大模型的运维算子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nekomeowww/ollama-operator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 241 --> 243
     line [242, 242]
 ```
 
-2026-10-18 242 → 2026-10-26 242（+0）
+2026-10-18 242 → 2026-10-27 242（+0）
 
 
 ---

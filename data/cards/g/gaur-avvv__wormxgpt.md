@@ -1,6 +1,6 @@
 # gaur-avvv/wormxgpt
 
-⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/wormxgpt) · [官网](https://xgpt-snowy.vercel.app/) · 个人维护
+⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/wormxgpt) · [官网](https://xgpt-snowy.vercel.app/) · 个人维护
 
 **多提供商 AI 终端与 agent 套件：Web 仪表盘 + CLI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaur-avvv/wormxgpt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 56 --> 67
-    line [57, 58, 62, 64, 66]
+    title "gaur-avvv/wormxgpt 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 56 --> 68
+    line [57, 58, 62, 64, 66, 67]
 ```
 
-2026-10-18 57 → 2026-10-26 66（+9）
+2026-10-18 57 → 2026-10-27 67（+10）
 
 
 ---

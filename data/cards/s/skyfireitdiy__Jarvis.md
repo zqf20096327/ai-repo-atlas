@@ -1,6 +1,6 @@
 # skyfireitdiy/Jarvis
 
-⭐ 152 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 个人维护 · 中文 README
+⭐ 154 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 个人维护 · 中文 README
 
 **本地运行的多 Agent 协作式 AI 开发平台，覆盖人×Agent 四种协作模式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skyfireitdiy/Jarvis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 144 --> 153
-    line [145, 150, 151, 152]
+    title "skyfireitdiy/Jarvis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 144 --> 155
+    line [145, 150, 151, 152, 154]
 ```
 
-2026-10-18 145 → 2026-10-26 152（+7）
+2026-10-18 145 → 2026-10-27 154（+9）
 
 
 ---

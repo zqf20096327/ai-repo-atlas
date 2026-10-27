@@ -1,6 +1,6 @@
 # kyegomez/WhiteRock
 
-⭐ 44 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/kyegomez/WhiteRock) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/WhiteRock) · 个人维护
 
 **自动化 VC 投资流程的多 agent 系统：触达、尽调、决策、监控**
 
@@ -46,12 +46,12 @@ WhiteRock 是一个以 Python 包（pip3 install whiterock）形式提供的自�
 ```mermaid
 xychart-beta
     title "kyegomez/WhiteRock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 44（+0）
 
 
 ---

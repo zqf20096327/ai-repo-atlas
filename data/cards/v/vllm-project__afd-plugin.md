@@ -1,6 +1,6 @@
 # vllm-project/afd-plugin
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护 · 中文 README
+⭐ 242 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护 · 中文 README
 
 **vLLM 注意力-FFN 分离部署插件（GPU 与昇腾 NPU）**
 
@@ -46,12 +46,12 @@ vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）�
 ```mermaid
 xychart-beta
     title "vllm-project/afd-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 239 --> 242
-    line [240, 241, 241]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 239 --> 243
+    line [240, 241, 242]
 ```
 
-2026-10-18 240 → 2026-10-26 241（+1）
+2026-10-18 240 → 2026-10-27 242（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/R-DMesh
 
-⭐ 64 · Python · 推送 2026-08-11 · [GitHub](https://github.com/Tencent-Hunyuan/R-DMesh) · [官网](https://r-dmesh.github.io/) · 组织维护 · 中文 README
+⭐ 65 · Python · 推送 2026-08-11 · [GitHub](https://github.com/Tencent-Hunyuan/R-DMesh) · [官网](https://r-dmesh.github.io/) · 组织维护 · 中文 README
 
 **视频驱动的 4D 网格动画生成框架（SIGGRAPH 2026 论文官方代码）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/R-DMesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 63 --> 66
+    line [64, 65]
 ```
 
-2026-10-18 64 → 2026-10-26 64（+0）
+2026-10-18 64 → 2026-10-27 65（+1）
 
 
 ---

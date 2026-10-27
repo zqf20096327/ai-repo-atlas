@@ -1,6 +1,6 @@
 # kklt92/awesome-ai-extensions
 
-⭐ 532 · CC0-1.0 · 推送 2026-04-08 · [GitHub](https://github.com/kklt92/awesome-ai-extensions) · 个人维护
+⭐ 533 · CC0-1.0 · 推送 2026-04-08 · [GitHub](https://github.com/kklt92/awesome-ai-extensions) · 个人维护
 
 **AI 浏览器扩展/插件策展清单，按用途分类收录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kklt92/awesome-ai-extensions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 531 --> 533
-    line [532, 532]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 531 --> 534
+    line [532, 533]
 ```
 
-2026-10-18 532 → 2026-10-26 532（+0）
+2026-10-18 532 → 2026-10-27 533（+1）
 
 
 ---

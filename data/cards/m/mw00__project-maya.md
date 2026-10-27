@@ -1,6 +1,6 @@
 # mw00/project-maya
 
-⭐ 1,842 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
+⭐ 1,975 · Cuda · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mw00/project-maya) · [官网](https://huggingface.co/peasantsmith) · 个人维护
 
 **在自有 GPU 上私有运行 GLM-5.3-Flash/DeepSeek-V4.1-Flash 的推理套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mw00/project-maya 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 917 --> 1926
-    line [1001, 1079, 1359, 1477, 1646, 1748, 1842]
+    title "mw00/project-maya 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 904 --> 2072
+    line [1001, 1079, 1359, 1477, 1646, 1748, 1842, 1975]
 ```
 
-2026-10-18 1,001 → 2026-10-26 1,842（+841）
+2026-10-18 1,001 → 2026-10-27 1,975（+974）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/wiqd
 
-⭐ 39 · PowerShell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/wiqd) · 组织维护
+⭐ 40 · PowerShell · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/wiqd) · 组织维护
 
 **微软 365 Copilot 声明式智能体的全生命周期开发工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/wiqd 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 31 --> 40
-    line [32, 33, 36, 37, 38, 39]
+    title "microsoft/wiqd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 31 --> 41
+    line [32, 33, 36, 37, 38, 39, 40]
 ```
 
-2026-10-18 32 → 2026-10-26 39（+7）
+2026-10-18 32 → 2026-10-27 40（+8）
 
 
 ---

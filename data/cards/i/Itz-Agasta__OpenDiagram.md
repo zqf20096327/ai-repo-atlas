@@ -1,6 +1,6 @@
 # Itz-Agasta/OpenDiagram
 
-⭐ 61 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Itz-Agasta/OpenDiagram) · [官网](https://opendiagram.ink) · 个人维护
+⭐ 61 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Itz-Agasta/OpenDiagram) · [官网](https://opendiagram.ink) · 个人维护
 
 **自然语言生成可编辑软件架构图的 AI 工具，可自托管**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Itz-Agasta/OpenDiagram 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 54 --> 62
     line [55, 56, 57, 59, 61, 61]
 ```
 
-2026-10-18 55 → 2026-10-26 61（+6）
+2026-10-18 55 → 2026-10-27 61（+6）
 
 
 ---

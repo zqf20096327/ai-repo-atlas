@@ -1,6 +1,6 @@
 # openscilab/memor
 
-⭐ 68 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openscilab/memor) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openscilab/memor) · 组织维护
 
 **面向开发者的 LLM 对话结构化记忆库：可复现地保存与迁移会话**
 
@@ -46,12 +46,12 @@ Python 库，将用户提示与模型回答抽象为 Prompt/Response/Session 三
 ```mermaid
 xychart-beta
     title "openscilab/memor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-26 68（+0）
+2026-10-18 68 → 2026-10-27 68（+0）
 
 
 ---

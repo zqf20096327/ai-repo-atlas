@@ -1,6 +1,6 @@
 # xlang-ai/OSWorld-V2
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xlang-ai/OSWorld-V2) · [官网](https://osworld-v2.xlang.ai) · 组织维护
+⭐ 386 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xlang-ai/OSWorld-V2) · [官网](https://osworld-v2.xlang.ai) · 组织维护
 
 **计算机使用智能体（CUA）长程真实任务评测基准**
 
@@ -45,12 +45,12 @@ OSWorld 2.0/2.1 是面向 computer use agent 的基准环境：在真实操作�
 ```mermaid
 xychart-beta
     title "xlang-ai/OSWorld-V2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 370 --> 384
-    line [371, 377, 381, 382, 383, 383]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 370 --> 387
+    line [371, 377, 381, 382, 383, 386]
 ```
 
-2026-10-18 371 → 2026-10-26 383（+12）
+2026-10-18 371 → 2026-10-27 386（+15）
 
 
 ---

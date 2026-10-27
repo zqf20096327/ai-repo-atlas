@@ -1,6 +1,6 @@
 # milvus-io/talon
 
-⭐ 30 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/milvus-io/talon) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/milvus-io/talon) · 组织维护
 
 **分布式 S3 对象存储缓存（Rust）：元数据不随数据增长**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "milvus-io/talon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 32]
 ```
 
-2026-10-18 28 → 2026-10-26 30（+2）
+2026-10-18 28 → 2026-10-27 32（+4）
 
 
 ---

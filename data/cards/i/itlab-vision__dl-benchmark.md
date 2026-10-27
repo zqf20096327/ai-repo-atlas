@@ -1,6 +1,6 @@
 # itlab-vision/dl-benchmark
 
-⭐ 36 · HTML · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/itlab-vision/dl-benchmark) · [官网](http://hpc-education.unn.ru/dli) · 组织维护
+⭐ 36 · HTML · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/itlab-vision/dl-benchmark) · [官网](http://hpc-education.unn.ru/dli) · 组织维护
 
 **多框架深度学习推理性能基准测试工具**
 
@@ -45,12 +45,12 @@ DLI 测量多种深度学习模型在不同推理框架与硬件上的推理性�
 ```mermaid
 xychart-beta
     title "itlab-vision/dl-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

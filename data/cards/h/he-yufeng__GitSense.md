@@ -1,6 +1,6 @@
 # he-yufeng/GitSense
 
-⭐ 91 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/GitSense) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/GitSense) · 个人维护 · 中文 README
 
 **帮开发者按技能匹配可做的开源 issue 并评估仓库健康度的 CLI**
 
@@ -44,12 +44,12 @@ GitSense 是一个 Python CLI（pip 安装）：根据用户声明的技能构�
 ```mermaid
 xychart-beta
     title "he-yufeng/GitSense 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 90 --> 93
-    line [92, 91, 91]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 89 --> 93
+    line [92, 91, 90]
 ```
 
-2026-10-18 92 → 2026-10-26 91（-1）
+2026-10-18 92 → 2026-10-27 90（-2）
 
 
 ---

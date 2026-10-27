@@ -1,6 +1,6 @@
 # wsxiaoys/awesome-ai-coding
 
-⭐ 767 · CC0-1.0 · 推送 2026-03-02 · [GitHub](https://github.com/wsxiaoys/awesome-ai-coding) · 个人维护
+⭐ 768 · CC0-1.0 · 推送 2026-03-02 · [GitHub](https://github.com/wsxiaoys/awesome-ai-coding) · 个人维护
 
 **AI 编程主题资源清单：项目/数据集/模型/论文/产品聚合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "wsxiaoys/awesome-ai-coding 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 764 --> 768
-    line [765, 766, 767, 767]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 764 --> 769
+    line [765, 766, 767, 768]
 ```
 
-2026-10-18 765 → 2026-10-26 767（+2）
+2026-10-18 765 → 2026-10-27 768（+3）
 
 
 ---

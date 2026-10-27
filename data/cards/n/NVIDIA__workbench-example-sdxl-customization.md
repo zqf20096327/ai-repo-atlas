@@ -45,12 +45,12 @@ NVIDIA 官方 AI Workbench 示例工程，演示如何基于 Hugging Face Stable
 ```mermaid
 xychart-beta
     title "NVIDIA/workbench-example-sdxl-customization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-10-26 65（+0）
+2026-10-18 65 → 2026-10-27 65（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenOSINT/OpenOSINT
 
-⭐ 1,814 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
+⭐ 1,816 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
 
 **面向安全研究者的 OSINT 代理：21 种调查工具+自然语言/MCP 驱动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenOSINT/OpenOSINT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1765 --> 1818
-    line [1769, 1781, 1786, 1795, 1797, 1802, 1814]
+    title "OpenOSINT/OpenOSINT 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1765 --> 1820
+    line [1769, 1781, 1786, 1795, 1797, 1802, 1814, 1816]
 ```
 
-2026-10-18 1,769 → 2026-10-26 1,814（+45）
+2026-10-18 1,769 → 2026-10-27 1,816（+47）
 
 
 ---

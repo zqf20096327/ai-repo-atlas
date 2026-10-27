@@ -1,6 +1,6 @@
 # Sunanzhe2004/shushu-internship-resume-optimizer
 
-⭐ 128 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) · 个人维护 · 中文 README
+⭐ 129 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Sunanzhe2004/shushu-internship-resume-optimizer) · 个人维护 · 中文 README
 
 **把实习材料转成简历 bullet 与面试叙事的 AI 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sunanzhe2004/shushu-internship-resume-optimizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 124 --> 129
-    line [125, 126, 127, 128, 128]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 124 --> 130
+    line [125, 126, 127, 128, 129]
 ```
 
-2026-10-18 125 → 2026-10-26 128（+3）
+2026-10-18 125 → 2026-10-27 129（+4）
 
 
 ---

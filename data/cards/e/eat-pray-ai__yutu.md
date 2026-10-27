@@ -1,6 +1,6 @@
 # eat-pray-ai/yutu
 
-⭐ 704 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/eat-pray-ai/yutu) · [官网](https://yutu.ifor.dev) · 个人维护 · 中文 README
+⭐ 705 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/eat-pray-ai/yutu) · [官网](https://yutu.ifor.dev) · 个人维护 · 中文 README
 
 **自动化 YouTube 运营的 CLI/MCP 服务器/AI 代理工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eat-pray-ai/yutu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 698 --> 705
-    line [699, 701, 702, 703, 704, 704]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 698 --> 706
+    line [699, 701, 702, 703, 704, 705]
 ```
 
-2026-10-18 699 → 2026-10-26 704（+5）
+2026-10-18 699 → 2026-10-27 705（+6）
 
 
 ---

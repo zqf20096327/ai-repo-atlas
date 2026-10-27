@@ -1,6 +1,6 @@
 # tastytrade/tastytrade-mcp
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tastytrade/tastytrade-mcp) · [官网](https://developer.tastytrade.com/) · 组织维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tastytrade/tastytrade-mcp) · [官网](https://developer.tastytrade.com/) · 组织维护
 
 **给 LLM agent 接入 tastytrade 券商 API 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tastytrade/tastytrade-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33]
+    title "tastytrade/tastytrade-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 34]
 ```
 
-2026-10-18 30 → 2026-10-26 33（+3）
+2026-10-18 30 → 2026-10-27 34（+4）
 
 
 ---

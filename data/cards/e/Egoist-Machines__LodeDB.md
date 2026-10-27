@@ -48,12 +48,12 @@ Apache-2.0 许可的嵌入式向量数据库，由 Egoist Machines, Inc. 维护�
 ```mermaid
 xychart-beta
     title "Egoist-Machines/LodeDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 102 --> 104
     line [103, 103]
 ```
 
-2026-10-18 103 → 2026-10-26 103（+0）
+2026-10-18 103 → 2026-10-27 103（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hust-open-atom-club/oh-dsh
 
-⭐ 324 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/hust-open-atom-club/oh-dsh) · [官网](https://dsh.openatom.club/) · 组织维护 · 中文 README
+⭐ 323 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/hust-open-atom-club/oh-dsh) · [官网](https://dsh.openatom.club/) · 组织维护 · 中文 README
 
 **DSH runtime 发行版：Desktop/Web/TUI 三端本地 AI 开发工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hust-open-atom-club/oh-dsh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 320 --> 325
-    line [321, 323, 324, 324]
+    line [321, 323, 324, 323]
 ```
 
-2026-10-18 321 → 2026-10-26 324（+3）
+2026-10-18 321 → 2026-10-27 323（+2）
 
 
 ---

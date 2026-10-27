@@ -1,6 +1,6 @@
 # geml-spec/geml
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/geml-spec/geml) · [官网](https://geml-spec.github.io/) · 组织维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/geml-spec/geml) · [官网](https://geml-spec.github.io/) · 组织维护 · 中文 README
 
 **面向人机共写的结构化纯文本标记语言与 CLI 工具**
 
@@ -46,12 +46,12 @@ GEML 是一种轻量级标记语言，用统一的类型化块（typed block）�
 ```mermaid
 xychart-beta
     title "geml-spec/geml 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 28 --> 31
     line [29, 30, 29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

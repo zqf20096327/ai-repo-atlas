@@ -1,6 +1,6 @@
 # eznix86/laravel-ai-memory
 
-⭐ 31 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/eznix86/laravel-ai-memory) · [官网](https://packagist.org/packages/eznix86/laravel-ai-memory) · 个人维护
+⭐ 31 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/eznix86/laravel-ai-memory) · [官网](https://packagist.org/packages/eznix86/laravel-ai-memory) · 个人维护
 
 **给 Laravel AI SDK 的 agent 记忆扩展：存储、检索与注入上下文**
 
@@ -47,12 +47,12 @@ Laravel AI SDK 的 agentic 记忆扩展包：通过 AgentMemory Facade 存储/�
 ```mermaid
 xychart-beta
     title "eznix86/laravel-ai-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

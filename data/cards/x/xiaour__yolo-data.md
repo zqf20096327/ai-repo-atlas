@@ -1,6 +1,6 @@
 # xiaour/yolo-data
 
-⭐ 46 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xiaour/yolo-data) · [官网](https://xiaour.github.io/yolo-data/) · 组织维护 · 中文 README
+⭐ 49 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xiaour/yolo-data) · [官网](https://xiaour.github.io/yolo-data/) · 组织维护 · 中文 README
 
 **面向业务团队的自然语言问数与治理分析平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaour/yolo-data 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 34 --> 47
-    line [35, 37, 42, 43, 45, 46]
+    title "xiaour/yolo-data 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 34 --> 50
+    line [35, 37, 42, 43, 45, 46, 49]
 ```
 
-2026-10-18 35 → 2026-10-26 46（+11）
+2026-10-18 35 → 2026-10-27 49（+14）
 
 
 ---

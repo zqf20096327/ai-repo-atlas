@@ -1,6 +1,6 @@
 # LongxingTan/Machine-learning-interview
 
-⭐ 347 · 推送 2026-05-30 · [GitHub](https://github.com/LongxingTan/Machine-learning-interview) · [官网](https://longxingtan.gitbook.io/ml-interview/) · 个人维护 · 中文 README
+⭐ 349 · 推送 2026-05-30 · [GitHub](https://github.com/LongxingTan/Machine-learning-interview) · [官网](https://longxingtan.gitbook.io/ml-interview/) · 个人维护 · 中文 README
 
 **面向海外/外企大厂的中文 CS 面试指南书籍**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LongxingTan/Machine-learning-interview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 342 --> 348
-    line [343, 345, 346, 347, 347]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 342 --> 350
+    line [343, 345, 346, 347, 349]
 ```
 
-2026-10-18 343 → 2026-10-26 347（+4）
+2026-10-18 343 → 2026-10-27 349（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # skypilot-org/skypilot
 
-⭐ 10,746 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/skypilot-org/skypilot) · [官网](https://skypilot.ai/) · 组织维护
+⭐ 10,751 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/skypilot-org/skypilot) · [官网](https://skypilot.ai/) · 组织维护
 
 **跨云/集群运行管理 AI 与 GPU 工作负载的统一平台**
 
@@ -46,13 +46,13 @@ SkyPilot 是一个在任何 AI 基础设施（Kubernetes、Slurm、20+ 云）上
 
 ```mermaid
 xychart-beta
-    title "skypilot-org/skypilot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 10711 --> 10749
-    line [10714, 10721, 10726, 10731, 10738, 10741, 10746]
+    title "skypilot-org/skypilot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 10711 --> 10754
+    line [10714, 10721, 10726, 10731, 10738, 10741, 10746, 10751]
 ```
 
-2026-10-18 10,714 → 2026-10-26 10,746（+32）
+2026-10-18 10,714 → 2026-10-27 10,751（+37）
 
 
 ---

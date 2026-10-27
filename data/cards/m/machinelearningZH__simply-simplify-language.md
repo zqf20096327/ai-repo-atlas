@@ -1,6 +1,6 @@
 # machinelearningZH/simply-simplify-language
 
-⭐ 51 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/machinelearningZH/simply-simplify-language) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/machinelearningZH/simply-simplify-language) · 组织维护
 
 **苏黎世州政府的 LLM 文本简化应用：把公文改写为易懂德语**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "machinelearningZH/simply-simplify-language 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-26 51（+0）
+2026-10-18 51 → 2026-10-27 51（+0）
 
 
 ---

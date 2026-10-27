@@ -1,6 +1,6 @@
 # small-cactus/M.I.L.E.S
 
-⭐ 234 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/small-cactus/M.I.L.E.S) · [官网](https://github.com/small-cactus/M.I.L.E.S) · 个人维护
+⭐ 237 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/small-cactus/M.I.L.E.S) · [官网](https://github.com/small-cactus/M.I.L.E.S) · 个人维护
 
 **GPT-4 Turbo 驱动的桌面语音助手，控制家居/Spotify并记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "small-cactus/M.I.L.E.S 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 232 --> 235
-    line [234, 233, 234, 234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 232 --> 238
+    line [234, 233, 234, 237]
 ```
 
-2026-10-18 234 → 2026-10-26 234（+0）
+2026-10-18 234 → 2026-10-27 237（+3）
 
 
 ---

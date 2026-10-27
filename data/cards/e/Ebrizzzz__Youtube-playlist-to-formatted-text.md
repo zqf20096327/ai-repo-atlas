@@ -1,6 +1,6 @@
 # Ebrizzzz/Youtube-playlist-to-formatted-text
 
-⭐ 581 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text) · 个人维护
+⭐ 582 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text) · 个人维护
 
 **把 YouTube 播放列表字幕经 Gemini 精炼成结构化电子书文本的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ebrizzzz/Youtube-playlist-to-formatted-text 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 579 --> 582
-    line [580, 581, 581]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 579 --> 583
+    line [580, 581, 582]
 ```
 
-2026-10-18 580 → 2026-10-26 581（+1）
+2026-10-18 580 → 2026-10-27 582（+2）
 
 
 ---

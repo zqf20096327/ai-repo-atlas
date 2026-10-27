@@ -1,6 +1,6 @@
 # vllm-project/aibrix
 
-⭐ 5,161 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/aibrix) · 组织维护
+⭐ 5,162 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/aibrix) · 组织维护
 
 **面向生产 LLM 推理的 Kubernetes 控制平面与网关**
 
@@ -44,13 +44,13 @@ AIBrix 是部署在 Kubernetes 上的 GenAI 推理基础设施层：用户自带
 
 ```mermaid
 xychart-beta
-    title "vllm-project/aibrix 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 5145 --> 5162
-    line [5146, 5152, 5157, 5159, 5160, 5161]
+    title "vllm-project/aibrix 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5145 --> 5163
+    line [5146, 5152, 5157, 5159, 5160, 5161, 5162]
 ```
 
-2026-10-18 5,146 → 2026-10-26 5,161（+15）
+2026-10-18 5,146 → 2026-10-27 5,162（+16）
 
 
 ---

@@ -44,13 +44,13 @@ Audiomentations 是一个 Python 音频数据增强库，API 设计参考 albume
 
 ```mermaid
 xychart-beta
-    title "iver56/audiomentations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "iver56/audiomentations 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2322 --> 2325
-    line [2323, 2324]
+    line [2323, 2324, 2324]
 ```
 
-2026-10-18 2,323 → 2026-10-26 2,324（+1）
+2026-10-18 2,323 → 2026-10-27 2,324（+1）
 
 
 ---

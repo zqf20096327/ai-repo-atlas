@@ -45,12 +45,12 @@ NeurIPS DBT 2021 提出的 HPO 评测基准：包含 176 个元数据集上不�
 ```mermaid
 xychart-beta
     title "machinelearningnuremberg/HPO-B 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

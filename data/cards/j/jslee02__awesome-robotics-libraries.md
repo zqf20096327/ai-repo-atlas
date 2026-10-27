@@ -1,6 +1,6 @@
 # jslee02/awesome-robotics-libraries
 
-⭐ 3,092 · Python · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/jslee02/awesome-robotics-libraries) · [官网](http://jslee02.github.io/awesome-robotics-libraries/) · 个人维护
+⭐ 3,095 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/jslee02/awesome-robotics-libraries) · [官网](http://jslee02.github.io/awesome-robotics-libraries/) · 个人维护
 
 **机器人学库与仿真器策展清单，供机器人开发者选型查阅**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jslee02/awesome-robotics-libraries 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3082 --> 3093
-    line [3083, 3084, 3087, 3089, 3091, 3092, 3092]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 3082 --> 3096
+    line [3083, 3084, 3087, 3089, 3091, 3092, 3095]
 ```
 
-2026-10-18 3,083 → 2026-10-26 3,092（+9）
+2026-10-18 3,083 → 2026-10-27 3,095（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Stonewuu/agenteam
 
-⭐ 35 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Stonewuu/agenteam) · 个人维护 · 中文 README
+⭐ 35 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Stonewuu/agenteam) · 个人维护 · 中文 README
 
 **开源企业级多智能体协作平台，组建数字员工团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Stonewuu/agenteam 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 30 --> 36
     line [31, 32, 34, 35, 35]
 ```
 
-2026-10-18 31 → 2026-10-26 35（+4）
+2026-10-18 31 → 2026-10-27 35（+4）
 
 
 ---

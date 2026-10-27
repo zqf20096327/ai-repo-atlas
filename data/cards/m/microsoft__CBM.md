@@ -1,6 +1,6 @@
 # microsoft/CBM
 
-⭐ 63 · Jupyter Notebook · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/CBM) · 组织维护
+⭐ 63 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/CBM) · 组织维护
 
 **可解释的计数数据预测库：Cyclic Boosting 的 scikit-learn 兼容实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/CBM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-26 63（+0）
+2026-10-18 63 → 2026-10-27 63（+0）
 
 
 ---

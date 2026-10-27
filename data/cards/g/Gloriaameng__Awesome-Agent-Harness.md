@@ -1,6 +1,6 @@
 # Gloriaameng/Awesome-Agent-Harness
 
-⭐ 374 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/Gloriaameng/Awesome-Agent-Harness) · 组织维护 · 中文 README
+⭐ 373 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/Gloriaameng/Awesome-Agent-Harness) · 组织维护 · 中文 README
 
 **LLM Agent Harness 综述论文仓库：168 篇文献证据索引**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Gloriaameng/Awesome-Agent-Harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 371 --> 375
-    line [372, 373, 374, 374]
+    line [372, 373, 374, 373]
 ```
 
-2026-10-18 372 → 2026-10-26 374（+2）
+2026-10-18 372 → 2026-10-27 373（+1）
 
 
 ---

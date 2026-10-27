@@ -43,13 +43,13 @@ aws-samples 仓库，收录用于 Amazon SageMaker AI Projects 的自定义项�
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sagemaker-custom-project-templates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "aws-samples/sagemaker-custom-project-templates 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 238 --> 241
-    line [239, 240]
+    line [239, 240, 240]
 ```
 
-2026-10-18 239 → 2026-10-26 240（+1）
+2026-10-18 239 → 2026-10-27 240（+1）
 
 
 ---

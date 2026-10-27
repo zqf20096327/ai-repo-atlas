@@ -1,6 +1,6 @@
 # WHU-Sigma/HyperSIGMA
 
-⭐ 394 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/WHU-Sigma/HyperSIGMA) · 组织维护 · 中文 README
+⭐ 395 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/WHU-Sigma/HyperSIGMA) · 组织维护 · 中文 README
 
 **高光谱遥感智能理解基础模型（首个十亿级参数）**
 
@@ -45,12 +45,12 @@ WHU-Sigma 团队发布的高光谱图像（HSI）理解基础模型，发表于 
 ```mermaid
 xychart-beta
     title "WHU-Sigma/HyperSIGMA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 391 --> 395
-    line [392, 394, 394]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 391 --> 396
+    line [392, 394, 395]
 ```
 
-2026-10-18 392 → 2026-10-26 394（+2）
+2026-10-18 392 → 2026-10-27 395（+3）
 
 
 ---

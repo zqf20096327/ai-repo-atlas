@@ -1,6 +1,6 @@
 # hermes-hq/hermes-ide
 
-⭐ 344 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/hermes-hq/hermes-ide) · [官网](https://hermes-ide.com) · 组织维护
+⭐ 344 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/hermes-hq/hermes-ide) · [官网](https://hermes-ide.com) · 组织维护
 
 **多编码 agent 统一控制台：并行运行、隔离分支与集中审阅**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hermes-hq/hermes-ide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 336 --> 345
     line [337, 340, 342, 343, 344, 344]
 ```
 
-2026-10-18 337 → 2026-10-26 344（+7）
+2026-10-18 337 → 2026-10-27 344（+7）
 
 
 ---

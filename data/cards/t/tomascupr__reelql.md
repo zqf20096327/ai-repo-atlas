@@ -1,6 +1,6 @@
 # tomascupr/reelql
 
-⭐ 33 · HTML · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tomascupr/reelql) · 个人维护
+⭐ 34 · HTML · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tomascupr/reelql) · 个人维护
 
 **视频链接转结构化 JSON 的分析 API，配 Claude 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomascupr/reelql 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 31 --> 34
-    line [32, 33]
+    title "tomascupr/reelql 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-10-26 33（+1）
+2026-10-18 32 → 2026-10-27 34（+2）
 
 
 ---

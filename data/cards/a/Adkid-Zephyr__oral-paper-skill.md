@@ -1,6 +1,6 @@
 # Adkid-Zephyr/oral-paper-skill
 
-⭐ 454 · Python · 推送 2026-09-17 · [GitHub](https://github.com/Adkid-Zephyr/oral-paper-skill) · 个人维护 · 中文 README
+⭐ 459 · Python · 推送 2026-09-17 · [GitHub](https://github.com/Adkid-Zephyr/oral-paper-skill) · 个人维护 · 中文 README
 
 **从 883 篇顶会 Oral 论文提炼写作方法的 Skill 与提示词包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adkid-Zephyr/oral-paper-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 416 --> 457
-    line [419, 431, 443, 448, 450, 451, 454]
+    title "Adkid-Zephyr/oral-paper-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 415 --> 463
+    line [419, 431, 443, 448, 450, 451, 454, 459]
 ```
 
-2026-10-18 419 → 2026-10-26 454（+35）
+2026-10-18 419 → 2026-10-27 459（+40）
 
 
 ---

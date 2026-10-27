@@ -5,6 +5,6 @@
 {"product": "GitHub Copilot", "repos": ["Natively-AI-assistant/natively-cluely-ai-assistant", "TabbyML/tabby", "anjerodev/commitollama", "ianustec/neura-office", "levimackay/lydia-cli", "maruakshay/miii-cli", "meeehdi-dev/bropilot.nvim", "timwuhaotian/the-pair", "zhikunqingtao/zhikuncode"], "n": 9}
 {"product": "Hugging Face", "repos": ["NLPOptimize/flash-tokenizer", "OpenCSGs/csghub", "marcelroed/gigatoken"], "n": 3}
 {"product": "Jasper", "repos": ["IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio", "SamurAIGPT/social-post"], "n": 2}
-{"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "nMaroulis/protolink", "stanford-mast/a1", "swarmclawai/swarmclaw"], "n": 6}
+{"product": "LangChain", "repos": ["Mangaba-ai/mangaba_ai", "Michael-A-Kuykendall/rustchain", "ModelEngine-Group/fit-framework", "OoriData/OgbujiPT", "nMaroulis/protolink", "stanford-mast/a1", "swarmclawai/swarmclaw"], "n": 7}
 {"product": "Lovable", "repos": ["BuildingTechAlternatives/OpenThorn", "OpenCoworkAI/open-codesign", "SimaDevelopment/opsiforce", "buildingopen/openpage", "davidmonterocrespo24/DaveLovable", "dyad-sh/dyad", "polterguy/magic", "sa4hnd/vibra-code", "sammwyy/singulary", "tinykit-studio/tinykit"], "n": 10}
 {"product": "Perplexity", "repos": ["edoigtrd/ubiquite", "xprivo/ai-chat"], "n": 2}

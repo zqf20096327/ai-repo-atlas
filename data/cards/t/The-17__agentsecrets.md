@@ -1,6 +1,6 @@
 # The-17/agentsecrets
 
-⭐ 193 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/The-17/agentsecrets) · [官网](https://agentsecrets.tech) · 个人维护
+⭐ 194 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/The-17/agentsecrets) · [官网](https://agentsecrets.tech) · 个人维护
 
 **面向 AI agent 的零知识凭证基础设施：agent 只引用键名不接触明文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-17/agentsecrets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 185 --> 194
-    line [186, 190, 191, 193, 193]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 185 --> 195
+    line [186, 190, 191, 193, 194]
 ```
 
-2026-10-18 186 → 2026-10-26 193（+7）
+2026-10-18 186 → 2026-10-27 194（+8）
 
 
 ---

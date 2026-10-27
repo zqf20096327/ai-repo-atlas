@@ -46,12 +46,12 @@ EMSANet 论文（IEEE Xplore/arXiv）的官方代码库，基于 PyTorch，在�
 ```mermaid
 xychart-beta
     title "TUI-NICR/EMSANet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-26 71（+0）
+2026-10-18 71 → 2026-10-27 71（+0）
 
 
 ---

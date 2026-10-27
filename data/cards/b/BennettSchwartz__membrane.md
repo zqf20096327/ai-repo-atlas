@@ -1,6 +1,6 @@
 # BennettSchwartz/membrane
 
-⭐ 95 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/BennettSchwartz/membrane) · [官网](https://membrane.gustycube.com/) · 个人维护
+⭐ 96 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/BennettSchwartz/membrane) · [官网](https://membrane.gustycube.com/) · 个人维护
 
 **给 LLM agent 提供持久化、可修订结构化记忆的存储层**
 
@@ -47,12 +47,12 @@ Membrane 为 LLM agent 提供持久、结构化的记忆基底：以 Go 库嵌�
 ```mermaid
 xychart-beta
     title "BennettSchwartz/membrane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-18 95 → 2026-10-26 95（+0）
+2026-10-18 95 → 2026-10-27 96（+1）
 
 
 ---

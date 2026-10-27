@@ -1,6 +1,6 @@
 # spiceai/spiceai
 
-⭐ 3,104 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/spiceai/spiceai) · [官网](https://docs.spiceai.org) · 组织维护
+⭐ 3,108 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/spiceai/spiceai) · [官网](https://docs.spiceai.org) · 组织维护
 
 **给开发者的数据与 AI 引擎：联邦 SQL、搜索与 LLM 推理一体运行时**
 
@@ -45,13 +45,13 @@ Spice 是用 Rust 编写的单二进制数据与 AI 引擎，面向构建数据�
 
 ```mermaid
 xychart-beta
-    title "spiceai/spiceai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3098 --> 3106
-    line [3099, 3102, 3103, 3104, 3105, 3104]
+    title "spiceai/spiceai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3098 --> 3109
+    line [3099, 3102, 3103, 3104, 3105, 3104, 3108]
 ```
 
-2026-10-18 3,099 → 2026-10-26 3,104（+5）
+2026-10-18 3,099 → 2026-10-27 3,108（+9）
 
 
 ---

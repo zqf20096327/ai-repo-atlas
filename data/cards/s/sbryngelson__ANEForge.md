@@ -1,6 +1,6 @@
 # sbryngelson/ANEForge
 
-⭐ 65 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sbryngelson/ANEForge) · [官网](https://aneforge.com) · 个人维护
+⭐ 67 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sbryngelson/ANEForge) · [官网](https://aneforge.com) · 个人维护
 
 **在 Apple 神经引擎上直接训练与运行神经网络的 Python 运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sbryngelson/ANEForge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 63 --> 66
-    line [64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 63 --> 68
+    line [64, 65, 67]
 ```
 
-2026-10-18 64 → 2026-10-26 65（+1）
+2026-10-18 64 → 2026-10-27 67（+3）
 
 
 ---

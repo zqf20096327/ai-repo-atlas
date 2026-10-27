@@ -1,6 +1,6 @@
 # CelaDaniel/free-ai-resources-x
 
-⭐ 948 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/CelaDaniel/free-ai-resources-x) · [官网](https://github.com/CelaDaniel/free-ai-resources-x/) · 个人维护
+⭐ 949 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/CelaDaniel/free-ai-resources-x) · [官网](https://github.com/CelaDaniel/free-ai-resources-x/) · 个人维护
 
 **面向自学者的免费 AI 学习资源清单（411+ 条，30 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CelaDaniel/free-ai-resources-x 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 937 --> 949
-    line [938, 942, 943, 946, 948, 948]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 937 --> 950
+    line [938, 942, 943, 946, 948, 949]
 ```
 
-2026-10-18 938 → 2026-10-26 948（+10）
+2026-10-18 938 → 2026-10-27 949（+11）
 
 
 ---

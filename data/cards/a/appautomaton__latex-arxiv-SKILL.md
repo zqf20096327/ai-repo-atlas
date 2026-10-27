@@ -1,6 +1,6 @@
 # appautomaton/latex-arxiv-SKILL
 
-⭐ 467 · TeX · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/latex-arxiv-SKILL) · [官网](https://appautomaton.com/latex-arxiv-SKILL/) · 个人维护
+⭐ 469 · TeX · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/latex-arxiv-SKILL) · [官网](https://appautomaton.com/latex-arxiv-SKILL/) · 个人维护
 
 **驱动编码代理生成 arXiv 就绪综述论文的 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "appautomaton/latex-arxiv-SKILL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 464 --> 468
-    line [465, 467, 467]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 464 --> 470
+    line [465, 467, 469]
 ```
 
-2026-10-18 465 → 2026-10-26 467（+2）
+2026-10-18 465 → 2026-10-27 469（+4）
 
 
 ---

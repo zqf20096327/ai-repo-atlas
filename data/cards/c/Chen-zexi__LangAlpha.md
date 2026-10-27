@@ -1,6 +1,6 @@
 # Chen-zexi/LangAlpha
 
-⭐ 253 · Jupyter Notebook · 推送 2026-10-05 · [GitHub](https://github.com/Chen-zexi/LangAlpha) · [官网](https://langalpha.ai) · 个人维护
+⭐ 255 · Jupyter Notebook · 推送 2026-10-05 · [GitHub](https://github.com/Chen-zexi/LangAlpha) · [官网](https://langalpha.ai) · 个人维护
 
 **面向美股研究的多智能体金融分析系统，生成 Markdown 研究报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chen-zexi/LangAlpha 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 247 --> 254
-    line [248, 249, 250, 249, 253]
+    title "Chen-zexi/LangAlpha 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 247 --> 256
+    line [248, 249, 250, 249, 253, 255]
 ```
 
-2026-10-18 248 → 2026-10-26 253（+5）
+2026-10-18 248 → 2026-10-27 255（+7）
 
 
 ---

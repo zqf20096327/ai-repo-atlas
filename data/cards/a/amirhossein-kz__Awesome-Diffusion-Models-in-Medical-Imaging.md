@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2110 --> 2114
-    line [2112, 2111, 2112, 2113, 2112]
+    line [2112, 2111, 2112, 2113, 2112, 2112]
 ```
 
-2026-10-18 2,112 → 2026-10-26 2,112（+0）
+2026-10-18 2,112 → 2026-10-27 2,112（+0）
 
 
 ---

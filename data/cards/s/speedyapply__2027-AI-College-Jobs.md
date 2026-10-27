@@ -1,6 +1,6 @@
 # speedyapply/2027-AI-College-Jobs
 
-⭐ 6,596 · 推送 2026-10-25 · [GitHub](https://github.com/speedyapply/2027-AI-College-Jobs) · [官网](https://speedyapply.com/discord) · 组织维护
+⭐ 6,597 · 推送 2026-10-26 · [GitHub](https://github.com/speedyapply/2027-AI-College-Jobs) · [官网](https://speedyapply.com/discord) · 组织维护
 
 **面向大学生的 2027 届 AI/ML 实习与新毕业生职位清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "speedyapply/2027-AI-College-Jobs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6567 --> 6598
-    line [6569, 6578, 6582, 6590, 6591, 6592, 6596]
+    title "speedyapply/2027-AI-College-Jobs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6567 --> 6599
+    line [6569, 6578, 6582, 6590, 6591, 6592, 6596, 6597]
 ```
 
-2026-10-18 6,569 → 2026-10-26 6,596（+27）
+2026-10-18 6,569 → 2026-10-27 6,597（+28）
 
 
 ---

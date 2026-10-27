@@ -1,6 +1,6 @@
 # coder/boo
 
-⭐ 790 · Zig · MIT · 推送 2026-07-05 · [GitHub](https://github.com/coder/boo) · 组织维护
+⭐ 789 · Zig · MIT · 推送 2026-07-05 · [GitHub](https://github.com/coder/boo) · 组织维护
 
 **GNU screen 风格的终端复用器，供脚本与 AI agent 驱动终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coder/boo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 789 --> 792
-    line [791, 790, 790]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 788 --> 792
+    line [791, 790, 789]
 ```
 
-2026-10-18 791 → 2026-10-26 790（-1）
+2026-10-18 791 → 2026-10-27 789（-2）
 
 
 ---

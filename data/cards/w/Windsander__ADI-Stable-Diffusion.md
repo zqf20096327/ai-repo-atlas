@@ -1,6 +1,6 @@
 # Windsander/ADI-Stable-Diffusion
 
-⭐ 449 · C++ · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/Windsander/ADI-Stable-Diffusion) · [官网](https://adi.cyberfederal.io/) · 个人维护 · 中文 README
+⭐ 450 · C++ · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/Windsander/ADI-Stable-Diffusion) · [官网](https://adi.cyberfederal.io/) · 个人维护 · 中文 README
 
 **C++/ONNXRuntime 的 Stable Diffusion 推理库与 CLI，跨九平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Windsander/ADI-Stable-Diffusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 446 --> 450
-    line [447, 448, 449, 449]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 446 --> 451
+    line [447, 448, 449, 450]
 ```
 
-2026-10-18 447 → 2026-10-26 449（+2）
+2026-10-18 447 → 2026-10-27 450（+3）
 
 
 ---

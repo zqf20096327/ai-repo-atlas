@@ -1,6 +1,6 @@
 # PerryLink/dsh-industry-research
 
-⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://perrylink.github.io/plugins/dsh-industry-research/) · 个人维护 · 中文 README
+⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://perrylink.github.io/plugins/dsh-industry-research/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的行业/公司研究插件：带溯源的可审计研究报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-industry-research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "PerryLink/dsh-industry-research 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 212 --> 217
-    line [213, 215, 216, 213, 214]
+    line [213, 215, 216, 213, 214, 214]
 ```
 
-2026-10-18 213 → 2026-10-26 214（+1）
+2026-10-18 213 → 2026-10-27 214（+1）
 
 
 ---

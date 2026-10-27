@@ -1,6 +1,6 @@
 # justxor/deepseek-local-guide-ru
 
-⭐ 143 · Shell · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/justxor/deepseek-local-guide-ru) · 个人维护
+⭐ 148 · Shell · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/justxor/deepseek-local-guide-ru) · 个人维护
 
 **俄文本地部署 DeepSeek 的完整教程与选型指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "justxor/deepseek-local-guide-ru 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 28 --> 153
-    line [38, 114, 131, 133, 135, 136, 143]
+    title "justxor/deepseek-local-guide-ru 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 27 --> 159
+    line [38, 114, 131, 133, 135, 136, 143, 148]
 ```
 
-2026-10-18 38 → 2026-10-26 143（+105）
+2026-10-18 38 → 2026-10-27 148（+110）
 
 
 ---

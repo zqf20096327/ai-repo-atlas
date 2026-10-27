@@ -1,6 +1,6 @@
 # microsoft/promptflow
 
-⭐ 11,257 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/promptflow) · [官网](https://microsoft.github.io/promptflow/) · 组织维护
+⭐ 11,256 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/promptflow) · [官网](https://microsoft.github.io/promptflow/) · 组织维护
 
 **微软的 LLM 应用开发工具套件：原型到部署与监控**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/promptflow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "microsoft/promptflow 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 11252 --> 11258
-    line [11253, 11255, 11256, 11253, 11257]
+    line [11253, 11255, 11256, 11253, 11257, 11256]
 ```
 
-2026-10-18 11,253 → 2026-10-26 11,257（+4）
+2026-10-18 11,253 → 2026-10-27 11,256（+3）
 
 
 ---

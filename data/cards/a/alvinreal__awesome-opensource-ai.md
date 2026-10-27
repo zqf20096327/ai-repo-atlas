@@ -1,6 +1,6 @@
 # alvinreal/awesome-opensource-ai
 
-⭐ 4,936 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [官网](https://awesomeosai.com) · 个人维护
+⭐ 4,942 · Python · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/alvinreal/awesome-opensource-ai) · [官网](https://awesomeosai.com) · 个人维护
 
 **开源 AI 项目精选清单：覆盖模型、框架与基础设施**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alvinreal/awesome-opensource-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4889 --> 4940
-    line [4893, 4909, 4917, 4919, 4924, 4929, 4936]
+    title "alvinreal/awesome-opensource-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4889 --> 4946
+    line [4893, 4909, 4917, 4919, 4924, 4929, 4936, 4942]
 ```
 
-2026-10-18 4,893 → 2026-10-26 4,936（+43）
+2026-10-18 4,893 → 2026-10-27 4,942（+49）
 
 
 ---

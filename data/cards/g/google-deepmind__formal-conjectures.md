@@ -1,6 +1,6 @@
 # google-deepmind/formal-conjectures
 
-⭐ 1,336 · Lean · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google-deepmind/formal-conjectures) · [官网](https://google-deepmind.github.io/formal-conjectures/) · 组织维护
+⭐ 1,338 · Lean · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/formal-conjectures) · [官网](https://google-deepmind.github.io/formal-conjectures/) · 组织维护
 
 **面向 Lean 4/mathlib 的数学猜想形式化语句数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/formal-conjectures 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1329 --> 1337
-    line [1330, 1331, 1332, 1334, 1335, 1336]
+    title "google-deepmind/formal-conjectures 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1329 --> 1339
+    line [1330, 1331, 1332, 1334, 1335, 1336, 1338]
 ```
 
-2026-10-18 1,330 → 2026-10-26 1,336（+6）
+2026-10-18 1,330 → 2026-10-27 1,338（+8）
 
 
 ---

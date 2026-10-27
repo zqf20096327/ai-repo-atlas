@@ -1,6 +1,6 @@
 # TianZerL/Anime4KCPP
 
-⭐ 2,042 · C++ · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/TianZerL/Anime4KCPP) · 个人维护
+⭐ 2,043 · C++ · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/TianZerL/Anime4KCPP) · 个人维护
 
 **基于 CNN 算法的动漫图像/视频高性能放大器**
 
@@ -45,12 +45,12 @@ C++ 实现的动漫图像放大工具，v3 采用 CNN 算法，支持 OpenCL 与
 ```mermaid
 xychart-beta
     title "TianZerL/Anime4KCPP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2039 --> 2043
-    line [2040, 2042, 2042]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2039 --> 2044
+    line [2040, 2042, 2043]
 ```
 
-2026-10-18 2,040 → 2026-10-26 2,042（+2）
+2026-10-18 2,040 → 2026-10-27 2,043（+3）
 
 
 ---

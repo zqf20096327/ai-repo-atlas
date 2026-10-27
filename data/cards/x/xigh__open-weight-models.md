@@ -1,6 +1,6 @@
 # xigh/open-weight-models
 
-⭐ 88 · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/xigh/open-weight-models) · [官网](https://philippe-anel.fr/en/blog/2026/04/04/panorama-llm-open-source-2026/) · 个人维护
+⭐ 89 · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/xigh/open-weight-models) · [官网](https://philippe-anel.fr/en/blog/2026/04/04/panorama-llm-open-source-2026/) · 个人维护
 
 **可商用许可开放权重模型的策展清单，按硬件门槛筛选**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xigh/open-weight-models 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 81 --> 89
-    line [82, 84, 86, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 81 --> 90
+    line [82, 84, 86, 87, 88, 89]
 ```
 
-2026-10-18 82 → 2026-10-26 88（+6）
+2026-10-18 82 → 2026-10-27 89（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # WeikaiTan/Toronto-3D
 
-⭐ 303 · 推送 2025-10-30 · [GitHub](https://github.com/WeikaiTan/Toronto-3D) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **城市道路移动激光雷达点云语义分割数据集（约1公里、7830万点）**
 

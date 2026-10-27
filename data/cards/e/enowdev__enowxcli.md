@@ -1,6 +1,6 @@
 # enowdev/enowxcli
 
-⭐ 68 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/enowdev/enowxcli) · [官网](https://enowx.ai) · 组织维护
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/enowdev/enowxcli) · [官网](https://enowx.ai) · 组织维护
 
 **终端多智能体 AI 编程助手，单一二进制**
 
@@ -46,12 +46,12 @@ Rust 编写的终端 AI 编程代理：任务由 Orchestrator/Writer/Researcher 
 ```mermaid
 xychart-beta
     title "enowdev/enowxcli 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-26"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-22", "2026-10-27"]
+    y-axis "stars" 66 --> 69
+    line [68, 67]
 ```
 
-2026-10-22 68 → 2026-10-26 68（+0）
+2026-10-22 68 → 2026-10-27 67（-1）
 
 
 ---

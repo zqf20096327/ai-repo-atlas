@@ -1,6 +1,6 @@
 # ShiftHackZ/Stable-Diffusion-KMP
 
-⭐ 1,283 · Kotlin · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
+⭐ 1,284 · Kotlin · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/ShiftHackZ/Stable-Diffusion-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
 
 **Android/iOS 上的 Stable Diffusion 图像生成客户端，多后端接入**
 
@@ -44,13 +44,13 @@ Kotlin Multiplatform 编写的开源移动端 AI 图像生成应用，面向 And
 
 ```mermaid
 xychart-beta
-    title "ShiftHackZ/Stable-Diffusion-KMP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1273 --> 1284
-    line [1274, 1278, 1279, 1280, 1281, 1283]
+    title "ShiftHackZ/Stable-Diffusion-KMP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1273 --> 1285
+    line [1274, 1278, 1279, 1280, 1281, 1283, 1284]
 ```
 
-2026-10-18 1,274 → 2026-10-26 1,283（+9）
+2026-10-18 1,274 → 2026-10-27 1,284（+10）
 
 
 ---

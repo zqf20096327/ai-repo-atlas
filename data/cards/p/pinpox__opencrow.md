@@ -1,6 +1,6 @@
 # pinpox/opencrow
 
-⭐ 51 · Go · 推送 2026-10-22 · [GitHub](https://github.com/pinpox/opencrow) · 个人维护
+⭐ 52 · Go · 推送 2026-10-22 · [GitHub](https://github.com/pinpox/opencrow) · 个人维护
 
 **通过 Matrix/Nostr/Signal 聊天使用个人 AI 编码助手的桥接机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pinpox/opencrow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-10-26 51（+1）
+2026-10-18 50 → 2026-10-27 52（+2）
 
 
 ---

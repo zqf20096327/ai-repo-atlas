@@ -1,6 +1,6 @@
 # canvascomputing/agentwerk
 
-⭐ 28 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/canvascomputing/agentwerk) · [官网](https://canvascomputing.org/) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/canvascomputing/agentwerk) · [官网](https://canvascomputing.org/) · 组织维护
 
 **构建多 agent 协作 harness 的 Rust 极简 agentic loop 框架**
 
@@ -45,12 +45,12 @@ Rust 编写的 agentic loop 框架，面向需要构建 agent harness 的开发�
 ```mermaid
 xychart-beta
     title "canvascomputing/agentwerk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

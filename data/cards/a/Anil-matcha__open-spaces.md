@@ -1,6 +1,6 @@
 # Anil-matcha/open-spaces
 
-⭐ 922 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/open-spaces) · [官网](https://github.com/Anil-matcha/open-spaces) · 个人维护
+⭐ 920 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/open-spaces) · [官网](https://github.com/Anil-matcha/open-spaces) · 个人维护
 
 **可自托管的共享 AI 工作区：共享页面、对话与 AI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/open-spaces 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 920 --> 923
-    line [922, 921, 922, 922]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 919 --> 923
+    line [922, 921, 922, 920]
 ```
 
-2026-10-18 922 → 2026-10-26 922（+0）
+2026-10-18 922 → 2026-10-27 920（-2）
 
 
 ---

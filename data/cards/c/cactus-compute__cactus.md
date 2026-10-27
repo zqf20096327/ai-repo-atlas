@@ -1,6 +1,6 @@
 # cactus-compute/cactus
 
-⭐ 6,158 · C++ · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
+⭐ 6,160 · C++ · NOASSERTION · 推送 2026-09-26 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
 
 **面向手机与可穿戴设备的本地 LLM/VLM 推理引擎**
 
@@ -44,13 +44,13 @@ Cactus 是面向移动设备与可穿戴设备的端侧 AI 推理引擎，以 C/
 
 ```mermaid
 xychart-beta
-    title "cactus-compute/cactus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 6124 --> 6161
-    line [6127, 6130, 6147, 6148, 6152, 6158]
+    title "cactus-compute/cactus 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6124 --> 6163
+    line [6127, 6130, 6147, 6148, 6152, 6158, 6160]
 ```
 
-2026-10-18 6,127 → 2026-10-26 6,158（+31）
+2026-10-18 6,127 → 2026-10-27 6,160（+33）
 
 
 ---

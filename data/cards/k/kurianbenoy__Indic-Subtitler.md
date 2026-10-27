@@ -1,6 +1,6 @@
 # kurianbenoy/Indic-Subtitler
 
-⭐ 95 · Jupyter Notebook · MIT · 推送 2026-09-07 · [GitHub](https://github.com/kurianbenoy/Indic-Subtitler) · [官网](https://indicsubtitler.in/) · 个人维护
+⭐ 95 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kurianbenoy/Indic-Subtitler) · [官网](https://indicsubtitler.in/) · 个人维护
 
 **印度语言视频/音频转写与字幕翻译的开源平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kurianbenoy/Indic-Subtitler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-10-26 95（+0）
+2026-10-18 95 → 2026-10-27 95（+0）
 
 
 ---

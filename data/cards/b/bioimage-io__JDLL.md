@@ -1,6 +1,6 @@
 # bioimage-io/JDLL
 
-⭐ 37 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bioimage-io/JDLL) · [官网](https://github.com/bioimage-io/JDLL/wiki) · 组织维护
+⭐ 37 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bioimage-io/JDLL) · [官网](https://github.com/bioimage-io/JDLL/wiki) · 组织维护
 
 **Java 库：在 Java 软件中运行 PyTorch/TensorFlow/ONNX 深度学习模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bioimage-io/JDLL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 37（+0）
 
 
 ---

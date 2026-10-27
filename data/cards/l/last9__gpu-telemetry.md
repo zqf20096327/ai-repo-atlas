@@ -1,6 +1,6 @@
 # last9/gpu-telemetry
 
-⭐ 76 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/last9/gpu-telemetry) · [官网](https://last9.io/gpu-observability/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/last9/gpu-telemetry) · [官网](https://last9.io/gpu-observability/) · 组织维护
 
 **带工作负载归因的 GPU 遥测代理：把 GPU 指标关联到 K8s pod 或 Slurm 作业**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "last9/gpu-telemetry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 74 --> 77
     line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-10-26 76（+1）
+2026-10-18 75 → 2026-10-27 76（+1）
 
 
 ---

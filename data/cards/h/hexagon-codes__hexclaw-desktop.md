@@ -1,6 +1,6 @@
 # hexagon-codes/hexclaw-desktop
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hexagon-codes/hexclaw-desktop) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/hexagon-codes/hexclaw-desktop) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
 
 **连接本机或云端 HexClaw 服务的 AI Agent 桌面工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hexagon-codes/hexclaw-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 29（+1）
 
 
 ---

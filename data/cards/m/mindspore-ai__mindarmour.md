@@ -1,6 +1,6 @@
 # mindspore-ai/mindarmour
 
-⭐ 92 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/mindspore-ai/mindarmour) · 组织维护 · 中文 README
+⭐ 92 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mindspore-ai/mindarmour) · 组织维护 · 中文 README
 
 **面向 MindSpore 用户的模型安全与可信度增强工具箱**
 
@@ -47,12 +47,12 @@ MindSpore 生态的模型安全工具箱，v2.0 含三大模块：对抗鲁棒�
 ```mermaid
 xychart-beta
     title "mindspore-ai/mindarmour 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-26 92（+0）
+2026-10-18 92 → 2026-10-27 92（+0）
 
 
 ---

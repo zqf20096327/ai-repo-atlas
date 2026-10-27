@@ -45,12 +45,12 @@ Georgia Tech 与 Tricentis 合作的毕业设计仓库：基于 1000+ 营销销�
 ```mermaid
 xychart-beta
     title "olivierzach/tricentis-lead-scoring 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 49（+0）
 
 
 ---

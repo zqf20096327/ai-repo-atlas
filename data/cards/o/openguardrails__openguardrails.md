@@ -1,6 +1,6 @@
 # openguardrails/openguardrails
 
-⭐ 59 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openguardrails/openguardrails) · [官网](https://openguardrails.com) · 组织维护
+⭐ 60 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openguardrails/openguardrails) · [官网](https://openguardrails.com) · 组织维护
 
 **面向 AI agent 安全的厂商中立协议规范与检测器基准**
 
@@ -46,12 +46,12 @@ OpenGuardrails (OGR) 是一个 Apache-2.0 协议规范 monorepo，定义 agent �
 ```mermaid
 xychart-beta
     title "openguardrails/openguardrails 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 56 --> 60
-    line [57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 59, 60]
 ```
 
-2026-10-18 57 → 2026-10-26 59（+2）
+2026-10-18 57 → 2026-10-27 60（+3）
 
 
 ---

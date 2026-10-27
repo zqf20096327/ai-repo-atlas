@@ -1,6 +1,6 @@
 # clips/pattern
 
-⭐ 8,855 · Python · BSD-3-Clause · 推送 2026-08-05 · [GitHub](https://github.com/clips/pattern) · [官网](https://github.com/clips/pattern/wiki) · 组织维护
+⭐ 8,856 · Python · BSD-3-Clause · 推送 2026-08-05 · [GitHub](https://github.com/clips/pattern) · [官网](https://github.com/clips/pattern/wiki) · 组织维护
 
 **Python 网络挖掘库：抓取、NLP、机器学习与网络分析工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "clips/pattern 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 8853 --> 8856
-    line [8854, 8855, 8854, 8855]
+    title "clips/pattern 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8853 --> 8857
+    line [8854, 8855, 8854, 8855, 8856]
 ```
 
-2026-10-18 8,854 → 2026-10-26 8,855（+1）
+2026-10-18 8,854 → 2026-10-27 8,856（+2）
 
 
 ---

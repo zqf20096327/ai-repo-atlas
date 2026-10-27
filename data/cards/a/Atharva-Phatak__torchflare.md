@@ -1,6 +1,6 @@
 # Atharva-Phatak/torchflare
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Atharva-Phatak/torchflare) · [官网](https://torchflare.readthedocs.io/en/latest/) · 个人维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Atharva-Phatak/torchflare) · [官网](https://torchflare.readthedocs.io/en/latest/) · 个人维护
 
 **简化 PyTorch 模型训练的高层框架：Keras 式训练体验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Atharva-Phatak/torchflare 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-10-26 84（+0）
+2026-10-18 84 → 2026-10-27 84（+0）
 
 
 ---

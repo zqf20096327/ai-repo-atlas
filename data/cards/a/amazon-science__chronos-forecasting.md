@@ -1,6 +1,6 @@
 # amazon-science/chronos-forecasting
 
-⭐ 6,188 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amazon-science/chronos-forecasting) · [官网](https://arxiv.org/abs/2510.15821) · 组织维护
+⭐ 6,193 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amazon-science/chronos-forecasting) · [官网](https://arxiv.org/abs/2510.15821) · 组织维护
 
 **预训练时间序列预测模型库：零样本单变量/多变量预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amazon-science/chronos-forecasting 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6120 --> 6194
-    line [6126, 6146, 6164, 6174, 6180, 6184, 6188]
+    title "amazon-science/chronos-forecasting 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6120 --> 6199
+    line [6126, 6146, 6164, 6174, 6180, 6184, 6188, 6193]
 ```
 
-2026-10-18 6,126 → 2026-10-26 6,188（+62）
+2026-10-18 6,126 → 2026-10-27 6,193（+67）
 
 
 ---

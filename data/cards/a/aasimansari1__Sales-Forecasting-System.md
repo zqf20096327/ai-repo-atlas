@@ -1,6 +1,6 @@
 # aasimansari1/Sales-Forecasting-System
 
-⭐ 29 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/aasimansari1/Sales-Forecasting-System) · 个人维护
+⭐ 28 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/aasimansari1/Sales-Forecasting-System) · 个人维护
 
 **全栈销售预测平台：5 种 ML 模型预测销量并管理库存**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aasimansari1/Sales-Forecasting-System 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-26"]
+    title "aasimansari1/Sales-Forecasting-System 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 11 --> 30
-    line [12, 15, 29]
+    line [12, 15, 29, 28]
 ```
 
-2026-10-19 12 → 2026-10-26 29（+17）
+2026-10-19 12 → 2026-10-27 28（+16）
 
 
 ---

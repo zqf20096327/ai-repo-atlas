@@ -1,6 +1,6 @@
 # thewh1teagle/vibe
 
-⭐ 7,895 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thewh1teagle/vibe) · [官网](https://thewh1teagle.github.io/vibe/) · 个人维护
+⭐ 7,913 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thewh1teagle/vibe) · [官网](https://thewh1teagle.github.io/vibe/) · 个人维护
 
 **离线本地语音转录桌面应用：音频视频转文字与摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thewh1teagle/vibe 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7803 --> 7903
-    line [7811, 7830, 7853, 7869, 7874, 7884, 7895]
+    title "thewh1teagle/vibe 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7801 --> 7923
+    line [7811, 7830, 7853, 7869, 7874, 7884, 7895, 7913]
 ```
 
-2026-10-18 7,811 → 2026-10-26 7,895（+84）
+2026-10-18 7,811 → 2026-10-27 7,913（+102）
 
 
 ---

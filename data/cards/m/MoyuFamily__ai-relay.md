@@ -1,6 +1,6 @@
 # MoyuFamily/ai-relay
 
-⭐ 130 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MoyuFamily/ai-relay) · [官网](https://airelay.izmw.me) · 组织维护 · 中文 README
+⭐ 129 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MoyuFamily/ai-relay) · [官网](https://airelay.izmw.me) · 组织维护 · 中文 README
 
 **开源 AI API 网关：多厂商聚合、密钥轮换与故障转移**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MoyuFamily/ai-relay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 127 --> 131
-    line [128, 130, 130]
+    line [128, 130, 129]
 ```
 
-2026-10-18 128 → 2026-10-26 130（+2）
+2026-10-18 128 → 2026-10-27 129（+1）
 
 
 ---

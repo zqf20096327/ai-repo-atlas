@@ -1,6 +1,6 @@
 # paperless-ngx/paperless-ngx
 
-⭐ 47,085 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
+⭐ 47,115 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/paperless-ngx/paperless-ngx) · [官网](http://docs.paperless-ngx.com/) · 组织维护
 
 **将纸质文档扫描、索引并归档为可搜索在线档案的文档管理系统**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "paperless-ngx/paperless-ngx 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 46777 --> 47113
-    line [46805, 46883, 46962, 46999, 47026, 47057, 47085]
+    title "paperless-ngx/paperless-ngx 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 46774 --> 47146
+    line [46805, 46883, 46962, 46999, 47026, 47057, 47085, 47115]
 ```
 
-2026-10-18 46,805 → 2026-10-26 47,085（+280）
+2026-10-18 46,805 → 2026-10-27 47,115（+310）
 
 
 ---

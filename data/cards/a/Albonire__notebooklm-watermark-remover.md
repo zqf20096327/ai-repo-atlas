@@ -1,6 +1,6 @@
 # Albonire/notebooklm-watermark-remover
 
-⭐ 82 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Albonire/notebooklm-watermark-remover) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/Albonire/notebooklm-watermark-remover) · 个人维护 · 中文 README
 
 **去除 NotebookLM 导出文件中水印的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Albonire/notebooklm-watermark-remover 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-10-26 82（+0）
+2026-10-18 82 → 2026-10-27 83（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # erikzeng2008-del/mcd-dual-budget-coach
 
-⭐ 111 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/erikzeng2008-del/mcd-dual-budget-coach) · [官网](https://erikzeng2008-del.github.io/mcd-dual-budget-coach/) · 个人维护 · 中文 README
+⭐ 110 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/erikzeng2008-del/mcd-dual-budget-coach) · [官网](https://erikzeng2008-del.github.io/mcd-dual-budget-coach/) · 个人维护 · 中文 README
 
 **麦当劳中国双预算配餐 Agent 技能：钱和热量双闸门配餐**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erikzeng2008-del/mcd-dual-budget-coach 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 0 --> 121
-    line [6, 110, 111, 111]
+    line [6, 110, 111, 110]
 ```
 
-2026-10-18 6 → 2026-10-26 111（+105）
+2026-10-18 6 → 2026-10-27 110（+104）
 
 
 ---

@@ -1,6 +1,6 @@
 # meme-search/meme-search
 
-⭐ 763 · Ruby · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/meme-search/meme-search) · [官网](https://meme-search.neonwatty.com/) · 组织维护
+⭐ 765 · Ruby · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/meme-search/meme-search) · [官网](https://meme-search.neonwatty.com/) · 组织维护
 
 **自托管的表情包语义搜索引擎，AI 生成图片描述并支持向量检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meme-search/meme-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 761 --> 764
-    line [762, 763]
+    title "meme-search/meme-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 761 --> 766
+    line [762, 763, 765]
 ```
 
-2026-10-18 762 → 2026-10-26 763（+1）
+2026-10-18 762 → 2026-10-27 765（+3）
 
 
 ---

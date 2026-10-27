@@ -1,6 +1,6 @@
 # Akun-python/autumn-recruitment
 
-⭐ 288 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Akun-python/autumn-recruitment) · 个人维护 · 中文 README
+⭐ 289 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Akun-python/autumn-recruitment) · 个人维护 · 中文 README
 
 **面向秋招的算法/AI 中文学习共建仓库（26 模块 273 Notebook）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Akun-python/autumn-recruitment 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 261 --> 290
-    line [263, 273, 279, 282, 283, 288]
+    title "Akun-python/autumn-recruitment 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 261 --> 291
+    line [263, 273, 279, 282, 283, 288, 289]
 ```
 
-2026-10-18 263 → 2026-10-26 288（+25）
+2026-10-18 263 → 2026-10-27 289（+26）
 
 
 ---

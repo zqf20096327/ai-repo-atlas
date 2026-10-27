@@ -1,6 +1,6 @@
 # drewnekota/cetus
 
-⭐ 148 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/drewnekota/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
+⭐ 148 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/drewnekota/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
 
 **macOS 桌面客户端：统一管理与审阅多个编码 agent 运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "drewnekota/cetus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-26 148（+0）
+2026-10-18 148 → 2026-10-27 148（+0）
 
 
 ---

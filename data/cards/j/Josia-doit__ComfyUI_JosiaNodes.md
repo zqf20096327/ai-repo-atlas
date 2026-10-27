@@ -1,6 +1,6 @@
 # Josia-doit/ComfyUI_JosiaNodes
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Josia-doit/ComfyUI_JosiaNodes) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Josia-doit/ComfyUI_JosiaNodes) · 个人维护 · 中文 README
 
 **ComfyUI 实用节点集：文本编码、多图加载、图像缩放等 18 个节点**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Josia-doit/ComfyUI_JosiaNodes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 32 --> 39
-    line [33, 37, 38, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 32 --> 41
+    line [33, 37, 38, 37, 38, 40]
 ```
 
-2026-10-18 33 → 2026-10-26 38（+5）
+2026-10-18 33 → 2026-10-27 40（+7）
 
 
 ---

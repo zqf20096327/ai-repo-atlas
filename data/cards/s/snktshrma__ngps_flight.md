@@ -1,6 +1,6 @@
 # snktshrma/ngps_flight
 
-⭐ 47 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/snktshrma/ngps_flight) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/snktshrma/ngps_flight) · 个人维护
 
 **无人机 GPS 拒止环境下的视觉全局定位系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snktshrma/ngps_flight 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 46, 47]
+    title "snktshrma/ngps_flight 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 42 --> 49
+    line [43, 44, 45, 46, 47, 48]
 ```
 
-2026-10-18 43 → 2026-10-26 47（+4）
+2026-10-18 43 → 2026-10-27 48（+5）
 
 
 ---

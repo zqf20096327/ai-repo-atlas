@@ -1,6 +1,6 @@
 # rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms
 
-⭐ 438 · Python · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms) · [官网](https://www.manning.com/books/grokking-ai-algorithms-second-edition) · 个人维护
+⭐ 439 · Python · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms) · [官网](https://www.manning.com/books/grokking-ai-algorithms-second-edition) · 个人维护
 
 **《Grokking AI Algorithms》书籍配套示例代码仓库**
 
@@ -46,12 +46,12 @@ Manning 出版书籍《Grokking Artificial Intelligence Algorithms》（作者 R
 ```mermaid
 xychart-beta
     title "rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 433 --> 439
-    line [434, 435, 436, 437, 438, 438]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 433 --> 440
+    line [434, 435, 436, 437, 438, 439]
 ```
 
-2026-10-18 434 → 2026-10-26 438（+4）
+2026-10-18 434 → 2026-10-27 439（+5）
 
 
 ---

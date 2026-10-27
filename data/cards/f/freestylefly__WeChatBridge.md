@@ -1,6 +1,6 @@
 # freestylefly/WeChatBridge
 
-⭐ 1,665 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 个人维护 · 中文 README
+⭐ 1,739 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/freestylefly/WeChatBridge) · [官网](https://render.qmuse.pub/p/muse/2413870555736078/index.html) · 个人维护 · 中文 README
 
 **把微信聊天记录一键转发到 AI Agent 与 Obsidian 的 macOS 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "freestylefly/WeChatBridge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1483 --> 1681
-    line [1499, 1525, 1553, 1576, 1631, 1651, 1665]
+    title "freestylefly/WeChatBridge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1475 --> 1763
+    line [1499, 1525, 1553, 1576, 1631, 1651, 1665, 1739]
 ```
 
-2026-10-18 1,499 → 2026-10-26 1,665（+166）
+2026-10-18 1,499 → 2026-10-27 1,739（+240）
 
 
 ---

@@ -1,6 +1,6 @@
 # mahmoudrabie/agentic-ai
 
-⭐ 177 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mahmoudrabie/agentic-ai) · 个人维护
+⭐ 181 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mahmoudrabie/agentic-ai) · 个人维护
 
 **Agentic AI 研究资源策展清单（300+ 条，24 领域）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mahmoudrabie/agentic-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 160 --> 178
-    line [161, 174, 176, 177, 177]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 159 --> 183
+    line [161, 174, 176, 177, 181]
 ```
 
-2026-10-18 161 → 2026-10-26 177（+16）
+2026-10-18 161 → 2026-10-27 181（+20）
 
 
 ---

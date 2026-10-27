@@ -1,6 +1,6 @@
 # khaledali2702-prog/torch-trainer-forge
 
-⭐ 53 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/khaledali2702-prog/torch-trainer-forge) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/khaledali2702-prog/torch-trainer-forge) · 个人维护
 
 **面向 PyTorch 的训练循环编排层，封装训练流程管理**
 
@@ -45,12 +45,12 @@ EpochForge 是包裹 PyTorch nn.Module、DataLoader 与优化器的薄编排层�
 ```mermaid
 xychart-beta
     title "khaledali2702-prog/torch-trainer-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-26 53（+0）
+2026-10-18 53 → 2026-10-27 53（+0）
 
 
 ---

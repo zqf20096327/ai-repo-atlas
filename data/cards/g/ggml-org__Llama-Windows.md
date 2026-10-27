@@ -1,6 +1,6 @@
 # ggml-org/Llama-Windows
 
-⭐ 285 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ggml-org/Llama-Windows) · [官网](https://llama.app) · 组织维护
+⭐ 296 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ggml-org/Llama-Windows) · [官网](https://llama.app) · 组织维护
 
 **Windows 11 托盘应用：一键本地运行 llama.cpp 模型并对话**
 
@@ -44,13 +44,13 @@ ggml-org 出品的 WinUI 3 托盘应用，是 Llama for Mac 的 Windows 移植�
 
 ```mermaid
 xychart-beta
-    title "ggml-org/Llama-Windows 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 215 --> 291
-    line [221, 240, 256, 265, 269, 278, 285]
+    title "ggml-org/Llama-Windows 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 214 --> 303
+    line [221, 240, 256, 265, 269, 278, 285, 296]
 ```
 
-2026-10-18 221 → 2026-10-26 285（+64）
+2026-10-18 221 → 2026-10-27 296（+75）
 
 
 ---

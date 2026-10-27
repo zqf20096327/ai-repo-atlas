@@ -1,6 +1,6 @@
 # JIUSIS/shiyi-agent
 
-⭐ 45 · Dart · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/JIUSIS/shiyi-agent) · [官网](https://github.com/JIUSIS/shiyi-agent/releases) · 个人维护 · 中文 README
+⭐ 44 · Dart · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/JIUSIS/shiyi-agent) · [官网](https://github.com/JIUSIS/shiyi-agent/releases) · 个人维护 · 中文 README
 
 **Android/Windows 个人 AI 工作台：读写文件、跑命令、多 Agent 协作**
 
@@ -46,13 +46,13 @@ Flutter 编写的跨平台（Android/Windows）个人 AI 工作台，把 LLM 对
 
 ```mermaid
 xychart-beta
-    title "JIUSIS/shiyi-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "JIUSIS/shiyi-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 40 --> 46
-    line [41, 42, 43, 45]
+    line [41, 42, 43, 45, 44]
 ```
 
-2026-10-18 41 → 2026-10-26 45（+4）
+2026-10-18 41 → 2026-10-27 44（+3）
 
 
 ---

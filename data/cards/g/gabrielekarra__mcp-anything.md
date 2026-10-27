@@ -45,13 +45,13 @@ CLI 工具，通过自然语言 brief 或静态扫描代码库、OpenAPI/GraphQL
 
 ```mermaid
 xychart-beta
-    title "gabrielekarra/mcp-anything 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "gabrielekarra/mcp-anything 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 51 --> 56
-    line [52, 53, 55]
+    line [52, 53, 55, 55]
 ```
 
-2026-10-18 52 → 2026-10-26 55（+3）
+2026-10-18 52 → 2026-10-27 55（+3）
 
 
 ---

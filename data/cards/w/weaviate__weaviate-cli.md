@@ -45,12 +45,12 @@ Python 编写的 CLI，用于从终端管理 Weaviate 向量数据库实例：�
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/yu-ai-learn
 
-⭐ 142 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/liyupi/yu-ai-learn) · [官网](https://www.codefather.cn/course/2037104890135748610) · 个人维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/liyupi/yu-ai-learn) · [官网](https://www.codefather.cn/course/2037104890135748610) · 个人维护 · 中文 README
 
 **AI 闯关学习微信小程序教学项目：一句话出题、闯关答题与复盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/yu-ai-learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 141 --> 144
+    line [142, 143]
 ```
 
-2026-10-18 142 → 2026-10-26 142（+0）
+2026-10-18 142 → 2026-10-27 143（+1）
 
 
 ---

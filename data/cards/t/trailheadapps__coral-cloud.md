@@ -1,6 +1,6 @@
 # trailheadapps/coral-cloud
 
-⭐ 157 · HTML · CC0-1.0 · 推送 2026-10-14 · [GitHub](https://github.com/trailheadapps/coral-cloud) · 组织维护
+⭐ 157 · HTML · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/trailheadapps/coral-cloud) · 组织维护
 
 **Salesforce 示例应用：演示 Data Cloud、Agentforce 与 Prompts**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "trailheadapps/coral-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 156 --> 158
     line [157, 157]
 ```
 
-2026-10-18 157 → 2026-10-26 157（+0）
+2026-10-18 157 → 2026-10-27 157（+0）
 
 
 ---

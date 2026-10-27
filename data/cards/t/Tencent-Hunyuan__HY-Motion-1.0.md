@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Motion-1.0
 
-⭐ 2,625 · Python · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
+⭐ 2,630 · Python · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
 
 **腾讯混元的文本生成 3D 人体动作模型系列**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HY-Motion-1.0 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 2606 --> 2626
-    line [2607, 2613, 2617, 2619, 2625, 2625]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 2605 --> 2632
+    line [2607, 2613, 2617, 2619, 2625, 2630]
 ```
 
-2026-10-18 2,607 → 2026-10-26 2,625（+18）
+2026-10-18 2,607 → 2026-10-27 2,630（+23）
 
 
 ---

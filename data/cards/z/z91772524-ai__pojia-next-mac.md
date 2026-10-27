@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next-mac
 
-⭐ 79 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/z91772524-ai/pojia-next-mac) · 个人维护 · 中文 README
+⭐ 82 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/z91772524-ai/pojia-next-mac) · 个人维护 · 中文 README
 
 **macOS 工具：替换 WorkBuddy/Codex 客户端内置提示词为用户自写人格**
 
@@ -44,13 +44,13 @@ pojia-next 的 macOS 移植版，以纯 Python 标准库 + Bash 脚本替换 Wor
 
 ```mermaid
 xychart-beta
-    title "z91772524-ai/pojia-next-mac 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 55 --> 81
-    line [57, 68, 73, 74, 75, 77, 79]
+    title "z91772524-ai/pojia-next-mac 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 55 --> 84
+    line [57, 68, 73, 74, 75, 77, 79, 82]
 ```
 
-2026-10-18 57 → 2026-10-26 79（+22）
+2026-10-18 57 → 2026-10-27 82（+25）
 
 
 ---

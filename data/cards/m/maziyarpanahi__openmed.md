@@ -1,6 +1,6 @@
 # maziyarpanahi/openmed
 
-⭐ 5,710 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/maziyarpanahi/openmed) · [官网](https://openmed.life/) · 个人维护 · 中文 README
+⭐ 5,714 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/maziyarpanahi/openmed) · [官网](https://openmed.life/) · 个人维护 · 中文 README
 
 **本地优先的医疗文本 SDK：临床 NER 与 PII 脱敏**
 
@@ -45,13 +45,13 @@ Apache-2.0 的 Python SDK，在本地硬件上对临床文本做命名实体识�
 
 ```mermaid
 xychart-beta
-    title "maziyarpanahi/openmed 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5694 --> 5711
-    line [5695, 5696, 5701, 5698, 5701, 5706, 5710]
+    title "maziyarpanahi/openmed 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5694 --> 5715
+    line [5695, 5696, 5701, 5698, 5701, 5706, 5710, 5714]
 ```
 
-2026-10-18 5,695 → 2026-10-26 5,710（+15）
+2026-10-18 5,695 → 2026-10-27 5,714（+19）
 
 
 ---

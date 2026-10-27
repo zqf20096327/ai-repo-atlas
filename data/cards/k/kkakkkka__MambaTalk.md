@@ -1,6 +1,6 @@
 # kkakkkka/MambaTalk
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/MambaTalk) · 组织维护
+⭐ 98 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/MambaTalk) · 组织维护
 
 **语音驱动全身手势与面部动作合成的 PyTorch 研究代码（NeurIPS 2024）**
 
@@ -45,12 +45,12 @@ MambaTalk 论文的官方 PyTorch 实现，基于选择性状态空间模型（M
 ```mermaid
 xychart-beta
     title "kkakkkka/MambaTalk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 98（+1）
 
 
 ---

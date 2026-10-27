@@ -1,6 +1,6 @@
 # ihsan-ramadhan/bansos-router
 
-⭐ 151 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ihsan-ramadhan/bansos-router) · [官网](https://ihsan-ramadhan.github.io/bansos-router/) · 个人维护
+⭐ 151 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ihsan-ramadhan/bansos-router) · [官网](https://ihsan-ramadhan.github.io/bansos-router/) · 个人维护
 
 **本地守护进程：免密钥免费编码模型路由到多种编码工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihsan-ramadhan/bansos-router 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 134 --> 152
     line [135, 147, 149, 150, 151, 151]
 ```
 
-2026-10-18 135 → 2026-10-26 151（+16）
+2026-10-18 135 → 2026-10-27 151（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # lploc94/raw-cli
 
-⭐ 107 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lploc94/raw-cli) · [官网](https://raw.tlelabs.com) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lploc94/raw-cli) · [官网](https://raw.tlelabs.com) · 个人维护
 
 **可 fork 的 agent harness：工具循环、压缩、会话、审批皆文件化**
 
@@ -45,12 +45,12 @@ TypeScript 编写的命令行 agent 框架，提供可运行的 agent 循环、�
 ```mermaid
 xychart-beta
     title "lploc94/raw-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
     y-axis "stars" 104 --> 108
     line [105, 106, 107, 107]
 ```
 
-2026-10-18 105 → 2026-10-26 107（+2）
+2026-10-18 105 → 2026-10-27 107（+2）
 
 
 ---

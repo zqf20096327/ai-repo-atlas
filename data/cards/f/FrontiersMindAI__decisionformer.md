@@ -1,6 +1,6 @@
 # FrontiersMindAI/decisionformer
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/FrontiersMindAI/decisionformer) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/FrontiersMindAI/decisionformer) · 组织维护
 
 **在任意 Hugging Face 模型上微调与服务校准决策模型的库**
 
@@ -45,13 +45,13 @@ Python 库与 CLI：将 Hugging Face transformers 的各类骨干（解码器、
 
 ```mermaid
 xychart-beta
-    title "FrontiersMindAI/decisionformer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 26 --> 35
-    line [27, 34]
+    title "FrontiersMindAI/decisionformer 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 26 --> 39
+    line [27, 34, 38]
 ```
 
-2026-10-25 27 → 2026-10-26 34（+7）
+2026-10-25 27 → 2026-10-27 38（+11）
 
 
 ---

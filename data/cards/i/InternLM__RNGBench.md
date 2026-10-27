@@ -1,6 +1,6 @@
 # InternLM/RNGBench
 
-⭐ 42 · Python · 推送 2026-10-14 · [GitHub](https://github.com/InternLM/RNGBench) · [官网](https://internlm.github.io/RNGBench/) · 组织维护 · 中文 README
+⭐ 42 · Python · 推送 2026-10-26 · [GitHub](https://github.com/InternLM/RNGBench) · [官网](https://internlm.github.io/RNGBench/) · 组织维护 · 中文 README
 
 **评测多模态大模型在非马尔可夫游戏中记忆-行动能力的基准**
 
@@ -46,12 +46,12 @@ RNG-Bench 是 EMNLP 2026 论文的官方实现，通过两个互补游戏（Matc
 ```mermaid
 xychart-beta
     title "InternLM/RNGBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

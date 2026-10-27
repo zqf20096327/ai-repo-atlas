@@ -1,6 +1,6 @@
 # gabe-santana/arkdraw
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
 
 **带 AI 助手的本地优先开源图表编辑器**
 
@@ -39,6 +39,18 @@
 
 > L9:  An open-source diagram editor with an AI assistant that draws, edits and animates real architecture diagrams,
 > L62: - **Local-first.** `.arkdraw` is plain JSON that diffs in git. No account, works offline.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gabe-santana/arkdraw 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 42 --> 50
+    line [43, 49]
+```
+
+2026-10-26 43 → 2026-10-27 49（+6）
 
 
 ---

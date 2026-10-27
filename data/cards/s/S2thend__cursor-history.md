@@ -1,6 +1,6 @@
 # S2thend/cursor-history
 
-⭐ 152 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/S2thend/cursor-history) · [官网](https://www.npmjs.com/package/cursor-history) · 个人维护 · 中文 README
+⭐ 152 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/S2thend/cursor-history) · [官网](https://www.npmjs.com/package/cursor-history) · 个人维护 · 中文 README
 
 **浏览/搜索/导出/备份本地 Cursor 聊天历史的 CLI 与 Node.js 库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "S2thend/cursor-history 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 151 --> 153
     line [152, 152]
 ```
 
-2026-10-18 152 → 2026-10-26 152（+0）
+2026-10-18 152 → 2026-10-27 152（+0）
 
 
 ---

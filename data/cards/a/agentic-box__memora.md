@@ -1,6 +1,6 @@
 # agentic-box/memora
 
-⭐ 745 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentic-box/memora) · 组织维护
+⭐ 746 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/agentic-box/memora) · 组织维护
 
 **给 AI agent 提供持久共享记忆的 MCP 记忆层服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentic-box/memora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 741 --> 746
-    line [742, 744, 745]
+    title "agentic-box/memora 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 741 --> 747
+    line [742, 744, 745, 746]
 ```
 
-2026-10-18 742 → 2026-10-26 745（+3）
+2026-10-18 742 → 2026-10-27 746（+4）
 
 
 ---

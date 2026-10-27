@@ -1,6 +1,6 @@
 # brontoguana/krasis
 
-⭐ 524 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/brontoguana/krasis) · 组织维护
+⭐ 524 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/brontoguana/krasis) · 组织维护
 
 **在消费级 NVIDIA GPU 上运行超大 MoE 模型的 LLM 推理运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brontoguana/krasis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "brontoguana/krasis 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 520 --> 525
-    line [521, 522, 523, 524]
+    line [521, 522, 523, 524, 524]
 ```
 
-2026-10-18 521 → 2026-10-26 524（+3）
+2026-10-18 521 → 2026-10-27 524（+3）
 
 
 ---

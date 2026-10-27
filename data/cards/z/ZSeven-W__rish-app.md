@@ -1,6 +1,6 @@
 # ZSeven-W/rish-app
 
-⭐ 162 · Objective-C++ · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ZSeven-W/rish-app) · 个人维护 · 中文 README
+⭐ 160 · Objective-C++ · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ZSeven-W/rish-app) · 个人维护 · 中文 README
 
 **iOS/Android 上的本地优先 AI agent 应用：手机上运行对话、工作区与工具执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZSeven-W/rish-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "ZSeven-W/rish-app 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 156 --> 163
-    line [157, 160, 161, 162]
+    line [157, 160, 161, 162, 160]
 ```
 
-2026-10-18 157 → 2026-10-26 162（+5）
+2026-10-18 157 → 2026-10-27 160（+3）
 
 
 ---

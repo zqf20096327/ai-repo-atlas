@@ -1,6 +1,6 @@
 # AgustiPuigserver/opus-prompt-architect
 
-⭐ 126 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/AgustiPuigserver/opus-prompt-architect) · 个人维护
+⭐ 126 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/AgustiPuigserver/opus-prompt-architect) · 个人维护
 
 **面向 LLM 的提示词架构设计工具，浏览器本地构建与导出提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgustiPuigserver/opus-prompt-architect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-26 126（+0）
+2026-10-18 126 → 2026-10-27 126（+0）
 
 
 ---

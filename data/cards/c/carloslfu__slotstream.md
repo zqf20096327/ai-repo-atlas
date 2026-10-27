@@ -1,6 +1,6 @@
 # carloslfu/slotstream
 
-⭐ 482 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/carloslfu/slotstream) · 个人维护
+⭐ 565 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/carloslfu/slotstream) · 个人维护
 
 **在内存装不下 105GB 模型的 Mac 上流式运行本地大模型**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "carloslfu/slotstream 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 475 --> 484
-    line [476, 477, 478, 481, 483, 482]
+    title "carloslfu/slotstream 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 468 --> 573
+    line [476, 477, 478, 481, 483, 482, 565]
 ```
 
-2026-10-18 476 → 2026-10-26 482（+6）
+2026-10-18 476 → 2026-10-27 565（+89）
 
 
 ---

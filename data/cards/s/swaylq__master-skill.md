@@ -1,6 +1,6 @@
 # swaylq/master-skill
 
-⭐ 169 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/swaylq/master-skill) · [官网](https://master-skill.org) · 个人维护 · 中文 README
+⭐ 171 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/swaylq/master-skill) · [官网](https://master-skill.org) · 个人维护 · 中文 README
 
 **输入行业自动蒸馏出行业资深专家 agent skill 的元技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "swaylq/master-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 160 --> 170
-    line [161, 162, 164, 165, 167, 168, 169]
+    title "swaylq/master-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 160 --> 172
+    line [161, 162, 164, 165, 167, 168, 169, 171]
 ```
 
-2026-10-18 161 → 2026-10-26 169（+8）
+2026-10-18 161 → 2026-10-27 171（+10）
 
 
 ---

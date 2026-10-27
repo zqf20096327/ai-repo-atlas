@@ -1,6 +1,6 @@
 # devaldaki3/CineMatch
 
-⭐ 101 · Jupyter Notebook · 推送 2026-04-18 · [GitHub](https://github.com/devaldaki3/CineMatch) · [官网](https://cinematch-40bc.onrender.com/) · 个人维护
+⭐ 100 · Jupyter Notebook · 推送 2026-04-18 · [GitHub](https://github.com/devaldaki3/CineMatch) · [官网](https://cinematch-40bc.onrender.com/) · 个人维护
 
 **电影推荐 Web 应用：混合评分推荐 + 实时影评情感分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "devaldaki3/CineMatch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "devaldaki3/CineMatch 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 86 --> 102
-    line [87, 89, 93, 94, 95, 101]
+    line [87, 89, 93, 94, 95, 101, 100]
 ```
 
-2026-10-18 87 → 2026-10-26 101（+14）
+2026-10-18 87 → 2026-10-27 100（+13）
 
 
 ---

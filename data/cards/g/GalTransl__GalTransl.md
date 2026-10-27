@@ -1,6 +1,6 @@
 # GalTransl/GalTransl
 
-⭐ 2,363 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/GalTransl/GalTransl) · 组织维护 · 中文 README
+⭐ 2,367 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/GalTransl/GalTransl) · 组织维护 · 中文 README
 
 **用大模型自动翻译 Galgame 台词并制作内嵌翻译补丁的桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GalTransl/GalTransl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2345 --> 2364
-    line [2346, 2353, 2356, 2362, 2363]
+    title "GalTransl/GalTransl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2344 --> 2369
+    line [2346, 2353, 2356, 2362, 2363, 2367]
 ```
 
-2026-10-18 2,346 → 2026-10-26 2,363（+17）
+2026-10-18 2,346 → 2026-10-27 2,367（+21）
 
 
 ---

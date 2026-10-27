@@ -40,6 +40,18 @@
 > L15: 用 Go 编写的 MCP 搜索服务。内置百度网页、Bing、DuckDuckGo 等通用引擎、Parallel / AnySearch / Exa / Firecrawl 四个零 Key 托管 MCP 上游和 9 个学术引擎，搜索
 > L27: |**接入**|Claude Code / Qwen Code / Cursor / HTTP API / 嵌入 Go 模块|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daidaiJ/websearch-mcpserver 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-10-26 26 → 2026-10-27 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 high · 依据 README sha `fdf4b6ca375d` · [字段定义](../../DATASET.md)*

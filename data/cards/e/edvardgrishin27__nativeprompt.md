@@ -1,6 +1,6 @@
 # edvardgrishin27/nativeprompt
 
-⭐ 128 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/edvardgrishin27/nativeprompt) · [官网](https://pypi.org/project/nativeprompt/) · 个人维护
+⭐ 128 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/edvardgrishin27/nativeprompt) · [官网](https://pypi.org/project/nativeprompt/) · 个人维护
 
 **离线提示词改写 CLI：按当前模型的官方规则重写并建议努力级别**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "edvardgrishin27/nativeprompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-18 128 → 2026-10-26 128（+0）
+2026-10-18 128 → 2026-10-27 128（+0）
 
 
 ---

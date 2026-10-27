@@ -1,6 +1,6 @@
 # Shaitrish/37studio
 
-⭐ 65 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Shaitrish/37studio) · [官网](https://studio.shaitrish.com) · 组织维护
+⭐ 71 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Shaitrish/37studio) · [官网](https://studio.shaitrish.com) · 组织维护
 
 **自托管的 AI 视频制作与社交媒体发布台，面向中小企业**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shaitrish/37studio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 39 --> 67
-    line [41, 65]
+    title "Shaitrish/37studio 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 38 --> 74
+    line [41, 65, 71]
 ```
 
-2026-10-25 41 → 2026-10-26 65（+24）
+2026-10-25 41 → 2026-10-27 71（+30）
 
 
 ---

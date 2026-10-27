@@ -1,6 +1,6 @@
 # GradientHQ/symphony
 
-⭐ 48 · Python · MIT · 推送 2025-10-30 · [GitHub](https://github.com/GradientHQ/symphony) · [官网](https://arxiv.org/abs/2508.20019) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在消费级边缘设备上运行去中心化多智能体协作的框架**
 
@@ -11,7 +11,7 @@ Symphony 是一个去中心化多智能体框架，通过信标（Beacon）引�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

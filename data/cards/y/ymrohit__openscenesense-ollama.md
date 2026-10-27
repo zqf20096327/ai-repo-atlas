@@ -1,6 +1,6 @@
 # ymrohit/openscenesense-ollama
 
-⭐ 55 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/ymrohit/openscenesense-ollama) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ymrohit/openscenesense-ollama) · 个人维护
 
 **本地视频理解库：经 Ollama 视觉模型产出摘要与时间线**
 
@@ -45,12 +45,12 @@ Python 库，通过本地 Ollama 视觉模型分析视频：筛选关键帧后�
 ```mermaid
 xychart-beta
     title "ymrohit/openscenesense-ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-26 55（+0）
+2026-10-18 55 → 2026-10-27 55（+0）
 
 
 ---

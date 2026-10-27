@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/utcp-specification 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    title "universal-tool-calling-protocol/utcp-specification 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 312 --> 316
-    line [314, 313, 314, 315]
+    line [314, 313, 314, 315, 315]
 ```
 
-2026-10-18 314 → 2026-10-26 315（+1）
+2026-10-18 314 → 2026-10-27 315（+1）
 
 
 ---

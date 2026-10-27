@@ -1,6 +1,6 @@
 # Y1X1n/dsh-prompt-optimizer
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Y1X1n/dsh-prompt-optimizer) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Y1X1n/dsh-prompt-optimizer) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：发送栏一键优化提示词草稿并流式上屏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Y1X1n/dsh-prompt-optimizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 23 --> 29
     line [24, 25, 26, 28, 28]
 ```
 
-2026-10-18 24 → 2026-10-26 28（+4）
+2026-10-18 24 → 2026-10-27 28（+4）
 
 
 ---

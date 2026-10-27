@@ -1,6 +1,6 @@
 # standardagents/dmux
 
-⭐ 1,807 · HTML · MIT · 推送 2026-08-16 · [GitHub](https://github.com/standardagents/dmux) · [官网](https://dmux.ai) · 组织维护
+⭐ 1,810 · HTML · MIT · 推送 2026-08-16 · [GitHub](https://github.com/standardagents/dmux) · [官网](https://dmux.ai) · 组织维护
 
 **用 tmux 与 git worktrees 并行管理多个 AI 编码 agent 的复用器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "standardagents/dmux 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1803 --> 1808
-    line [1805, 1804, 1805, 1807, 1807]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 1803 --> 1811
+    line [1805, 1804, 1805, 1807, 1810]
 ```
 
-2026-10-18 1,805 → 2026-10-26 1,807（+2）
+2026-10-18 1,805 → 2026-10-27 1,810（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Geramy/LemonSeed-Studio
 
-⭐ 59 · C · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Geramy/LemonSeed-Studio) · 个人维护
+⭐ 61 · C · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Geramy/LemonSeed-Studio) · 个人维护
 
 **在 iPad 上通过雷雷电外接 AMD GPU 运行本地 LLM 推理的 IDE**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Geramy/LemonSeed-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 58 --> 62
+    line [59, 61]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 61（+2）
 
 
 ---

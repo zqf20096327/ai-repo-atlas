@@ -1,6 +1,6 @@
 # qingmeng1/bilijump-ai
 
-⭐ 420 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/qingmeng1/bilijump-ai) · [官网](https://oooo.uno) · 个人维护 · 中文 README
+⭐ 419 · JavaScript · 推送 2026-08-30 · [GitHub](https://github.com/qingmeng1/bilijump-ai) · [官网](https://oooo.uno) · 个人维护 · 中文 README
 
 **用 AI 自动识别并跳过 Bilibili 视频植入广告的浏览器扩展**
 
@@ -46,12 +46,12 @@ Chrome/Firefox 浏览器扩展，通过 AI 分析视频字幕或音频识别植�
 ```mermaid
 xychart-beta
     title "qingmeng1/bilijump-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 419 --> 423
-    line [422, 421, 420, 420]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 418 --> 423
+    line [422, 421, 420, 419]
 ```
 
-2026-10-18 422 → 2026-10-26 420（-2）
+2026-10-18 422 → 2026-10-27 419（-3）
 
 
 ---

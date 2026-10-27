@@ -1,6 +1,6 @@
 # AdamBien/airails
 
-⭐ 59 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AdamBien/airails) · [官网](https://airails.dev) · 个人维护
+⭐ 59 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AdamBien/airails) · [官网](https://airails.dev) · 个人维护
 
 **面向 AI 编程 agent 的 Java/Web 开发规范与技能集（SKILLS.md/AGENTS.md）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdamBien/airails 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-10-26 59（+1）
+2026-10-18 58 → 2026-10-27 59（+1）
 
 
 ---

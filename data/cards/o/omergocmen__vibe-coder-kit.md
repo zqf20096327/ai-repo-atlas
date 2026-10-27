@@ -1,6 +1,6 @@
 # omergocmen/vibe-coder-kit
 
-⭐ 97 · MIT · 推送 2026-06-04 · [GitHub](https://github.com/omergocmen/vibe-coder-kit) · 个人维护
+⭐ 98 · MIT · 推送 2026-06-04 · [GitHub](https://github.com/omergocmen/vibe-coder-kit) · 个人维护
 
 **把 AI 代码助手配置成结构化开发团队的 agent 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "omergocmen/vibe-coder-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 92 --> 98
-    line [93, 95, 96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 92 --> 99
+    line [93, 95, 96, 97, 98]
 ```
 
-2026-10-18 93 → 2026-10-26 97（+4）
+2026-10-18 93 → 2026-10-27 98（+5）
 
 
 ---

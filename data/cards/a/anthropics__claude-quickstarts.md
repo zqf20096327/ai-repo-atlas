@@ -1,6 +1,6 @@
 # anthropics/claude-quickstarts
 
-⭐ 18,991 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
+⭐ 19,003 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
 
 **帮助开发者快速上手 Claude API 构建应用的示例项目集**
 
@@ -52,13 +52,13 @@ Anthropic 维护的快速入门项目集合，每个子项目演示一类 Claude
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-quickstarts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18190 --> 19063
-    line [18262, 18834, 18929, 18955, 18970, 18974, 18991]
+    title "anthropics/claude-quickstarts 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18188 --> 19077
+    line [18262, 18834, 18929, 18955, 18970, 18974, 18991, 19003]
 ```
 
-2026-10-18 18,262 → 2026-10-26 18,991（+729）
+2026-10-18 18,262 → 2026-10-27 19,003（+741）
 
 
 ---

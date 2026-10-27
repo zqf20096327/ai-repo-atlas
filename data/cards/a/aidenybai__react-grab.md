@@ -1,6 +1,6 @@
 # aidenybai/react-grab
 
-⭐ 7,682 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aidenybai/react-grab) · [官网](https://react-grab.com) · 个人维护
+⭐ 7,687 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aidenybai/react-grab) · [官网](https://react-grab.com) · 个人维护
 
 **把浏览器选中的 UI 元素复制为带源码位置的上下文供 agent 使用**
 
@@ -44,13 +44,13 @@ React 开发者工具库：在开发模式下悬停任意 UI 元素并按 ⌘C/C
 
 ```mermaid
 xychart-beta
-    title "aidenybai/react-grab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7665 --> 7683
-    line [7666, 7671, 7676, 7677, 7680, 7682]
+    title "aidenybai/react-grab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7664 --> 7689
+    line [7666, 7671, 7676, 7677, 7680, 7682, 7687]
 ```
 
-2026-10-18 7,666 → 2026-10-26 7,682（+16）
+2026-10-18 7,666 → 2026-10-27 7,687（+21）
 
 
 ---

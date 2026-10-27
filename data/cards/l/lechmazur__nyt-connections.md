@@ -1,6 +1,6 @@
 # lechmazur/nyt-connections
 
-⭐ 249 · Python · 推送 2026-10-23 · [GitHub](https://github.com/lechmazur/nyt-connections) · 个人维护
+⭐ 250 · Python · 推送 2026-10-23 · [GitHub](https://github.com/lechmazur/nyt-connections) · 个人维护
 
 **基于 NYT Connections 谜题的 LLM 言语联想推理评测基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lechmazur/nyt-connections 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 245 --> 250
-    line [246, 247, 248, 249]
+    title "lechmazur/nyt-connections 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 245 --> 251
+    line [246, 247, 248, 249, 250]
 ```
 
-2026-10-18 246 → 2026-10-26 249（+3）
+2026-10-18 246 → 2026-10-27 250（+4）
 
 
 ---

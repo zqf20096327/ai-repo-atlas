@@ -1,6 +1,6 @@
 # lucidrains/x-jepa
 
-⭐ 131 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lucidrains/x-jepa) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/x-jepa) · 个人维护
 
 **JEPA 类自监督世界模型架构的探索性代码库**
 
@@ -43,12 +43,12 @@ lucidrains 维护的探索性研究仓库，围绕 Yann LeCun 提倡的 JEPA（�
 ```mermaid
 xychart-beta
     title "lucidrains/x-jepa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 125 --> 132
     line [126, 129, 130, 131, 131]
 ```
 
-2026-10-18 126 → 2026-10-26 131（+5）
+2026-10-18 126 → 2026-10-27 131（+5）
 
 
 ---

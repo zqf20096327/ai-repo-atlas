@@ -44,12 +44,12 @@ ICCV 2025 论文 Vamba 的官方代码：提出混合 Mamba-Transformer 架构�
 ```mermaid
 xychart-beta
     title "TIGER-AI-Lab/Vamba 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-27"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-19 110 → 2026-10-26 110（+0）
+2026-10-19 110 → 2026-10-27 110（+0）
 
 
 ---

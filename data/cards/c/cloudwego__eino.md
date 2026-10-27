@@ -1,6 +1,6 @@
 # cloudwego/eino
 
-⭐ 13,440 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
+⭐ 13,449 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
 
 **Go 语言的 LLM/AI 应用开发框架**
 
@@ -52,13 +52,13 @@ Eino 是面向 Golang 的 LLM 应用开发框架，设计上参照 LangChain、G
 
 ```mermaid
 xychart-beta
-    title "cloudwego/eino 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13321 --> 13450
-    line [13331, 13348, 13378, 13406, 13421, 13430, 13440]
+    title "cloudwego/eino 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13320 --> 13460
+    line [13331, 13348, 13378, 13406, 13421, 13430, 13440, 13449]
 ```
 
-2026-10-18 13,331 → 2026-10-26 13,440（+109）
+2026-10-18 13,331 → 2026-10-27 13,449（+118）
 
 
 ---

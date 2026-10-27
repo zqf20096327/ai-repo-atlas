@@ -1,6 +1,6 @@
 # cobusgreyling/loop-engineering
 
-⭐ 11,629 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cobusgreyling/loop-engineering) · [官网](https://cobusgreyling.github.io/loop-engineering/) · 个人维护 · 中文 README
+⭐ 11,638 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cobusgreyling/loop-engineering) · [官网](https://cobusgreyling.github.io/loop-engineering/) · 个人维护 · 中文 README
 
 **AI 编程代理的循环工程模式库与 CLI 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cobusgreyling/loop-engineering 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11562 --> 11635
-    line [11568, 11584, 11609, 11618, 11619, 11629]
+    title "cobusgreyling/loop-engineering 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11561 --> 11645
+    line [11568, 11584, 11609, 11618, 11619, 11629, 11638]
 ```
 
-2026-10-18 11,568 → 2026-10-26 11,629（+61）
+2026-10-18 11,568 → 2026-10-27 11,638（+70）
 
 
 ---

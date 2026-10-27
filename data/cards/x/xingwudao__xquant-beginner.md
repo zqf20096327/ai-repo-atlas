@@ -1,6 +1,6 @@
 # xingwudao/xquant-beginner
 
-⭐ 828 · TypeScript · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/xingwudao/xquant-beginner) · [官网](https://xingwudao.github.io/xquant-beginner/) · 个人维护 · 中文 README
+⭐ 844 · TypeScript · NOASSERTION · 推送 2026-09-02 · [GitHub](https://github.com/xingwudao/xquant-beginner) · [官网](https://xingwudao.github.io/xquant-beginner/) · 个人维护 · 中文 README
 
 **面向零基础读者的量化交易 AI+Python 自学开源书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xingwudao/xquant-beginner 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 818 --> 829
-    line [819, 820, 822, 824, 825, 826, 828]
+    title "xingwudao/xquant-beginner 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 817 --> 846
+    line [819, 820, 822, 824, 825, 826, 828, 844]
 ```
 
-2026-10-18 819 → 2026-10-26 828（+9）
+2026-10-18 819 → 2026-10-27 844（+25）
 
 
 ---

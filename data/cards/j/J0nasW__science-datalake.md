@@ -1,6 +1,6 @@
 # J0nasW/science-datalake
 
-⭐ 26 · Jupyter Notebook · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/J0nasW/science-datalake) · [官网](https://j0nasw.github.io/science-datalake/) · 个人维护
+⭐ 27 · Jupyter Notebook · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/J0nasW/science-datalake) · [官网](https://j0nasw.github.io/science-datalake/) · 个人维护
 
 **2.93亿篇科学文献的统一数据湖，DuckDB 单接口可查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "J0nasW/science-datalake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-10-26 26（+1）
+2026-10-18 25 → 2026-10-27 27（+2）
 
 
 ---

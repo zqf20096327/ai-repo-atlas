@@ -1,6 +1,6 @@
 # aisingapore/TagUI
 
-⭐ 6,339 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aisingapore/TagUI) · 组织维护 · 中文 README
+⭐ 6,338 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/aisingapore/TagUI) · 组织维护 · 中文 README
 
 **开源 RPA 工具：用简单语言脚本自动化网页、桌面与命令行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aisingapore/TagUI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "aisingapore/TagUI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 6337 --> 6340
-    line [6338, 6339, 6338, 6339]
+    line [6338, 6339, 6338, 6339, 6338]
 ```
 
-2026-10-18 6,338 → 2026-10-26 6,339（+1）
+2026-10-18 6,338 → 2026-10-27 6,338（+0）
 
 
 ---

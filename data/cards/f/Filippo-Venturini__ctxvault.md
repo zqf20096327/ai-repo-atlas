@@ -1,6 +1,6 @@
 # Filippo-Venturini/ctxvault
 
-⭐ 62 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Filippo-Venturini/ctxvault) · [官网](https://filippo-venturini.github.io/ctxvault/) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Filippo-Venturini/ctxvault) · [官网](https://filippo-venturini.github.io/ctxvault/) · 个人维护
 
 **面向 AI agent 的本地记忆基础设施：隔离的分区化知识库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Filippo-Venturini/ctxvault 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 61 --> 64
     line [63, 62, 62]
 ```
 
-2026-10-18 63 → 2026-10-26 62（-1）
+2026-10-18 63 → 2026-10-27 62（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # valpere/session-indexer
 
-⭐ 42 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/valpere/session-indexer) · [官网](https://valpere.github.io/projects/session-indexer/) · 个人维护
+⭐ 42 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/valpere/session-indexer) · [官网](https://valpere.github.io/projects/session-indexer/) · 个人维护
 
 **对个人 Claude Code 会话历史做项目内语义检索的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "valpere/session-indexer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

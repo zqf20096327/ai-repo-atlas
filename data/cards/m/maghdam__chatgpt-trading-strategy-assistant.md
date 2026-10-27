@@ -1,6 +1,6 @@
 # maghdam/chatgpt-trading-strategy-assistant
 
-⭐ 41 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/maghdam/chatgpt-trading-strategy-assistant) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/maghdam/chatgpt-trading-strategy-assistant) · 个人维护
 
 **ChatGPT 交易助手后端：经 cTrader API 分析行情并下单记账**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maghdam/chatgpt-trading-strategy-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # minipuft/claude-prompts-mcp
 
-⭐ 190 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/minipuft/claude-prompts-mcp) · [官网](https://github.com/minipuft/claude-prompts-mcp/tree/main/docs) · 个人维护
+⭐ 191 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/minipuft/claude-prompts-mcp) · [官网](https://github.com/minipuft/claude-prompts-mcp/tree/main/docs) · 个人维护
 
 **给 AI 编码客户端加可复用提示词模板与工作流的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "minipuft/claude-prompts-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 187 --> 191
-    line [188, 189, 190]
+    title "minipuft/claude-prompts-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 187 --> 192
+    line [188, 189, 190, 191]
 ```
 
-2026-10-18 188 → 2026-10-26 190（+2）
+2026-10-18 188 → 2026-10-27 191（+3）
 
 
 ---

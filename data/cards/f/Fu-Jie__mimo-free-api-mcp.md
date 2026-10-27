@@ -1,6 +1,6 @@
 # Fu-Jie/mimo-free-api-mcp
 
-⭐ 29 · TypeScript · GPL-3.0 · 推送 2026-04-26 · [GitHub](https://github.com/Fu-Jie/mimo-free-api-mcp) · [官网](https://github.com/Fu-Jie/mimo-free-api-mcp) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · GPL-3.0 · 推送 2026-04-26 · [GitHub](https://github.com/Fu-Jie/mimo-free-api-mcp) · [官网](https://github.com/Fu-Jie/mimo-free-api-mcp) · 个人维护 · 中文 README
 
 **逆向小米 MiMo 官网构建的 OpenAI 兼容网关与 MCP 插件服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fu-Jie/mimo-free-api-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 30（+1）
 
 
 ---

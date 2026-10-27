@@ -1,6 +1,6 @@
 # snelusha/noto
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/snelusha/noto) · [官网](https://noto.snelusha.dev) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/snelusha/noto) · [官网](https://noto.snelusha.dev) · 个人维护
 
 **开发者用：基于 Gemini 从暂存改动生成 commit 消息的 CLI 工具**
 
@@ -45,12 +45,12 @@ npm 全局安装的命令行工具，读取 Git 暂存区改动，调用 Google 
 ```mermaid
 xychart-beta
     title "snelusha/noto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

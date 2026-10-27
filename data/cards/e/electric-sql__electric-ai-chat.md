@@ -46,12 +46,12 @@ ElectricSQL 团队发布的演示应用：展示如何在 Postgres 同步引擎 
 ```mermaid
 xychart-beta
     title "electric-sql/electric-ai-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-10-26 75（+0）
+2026-10-18 75 → 2026-10-27 75（+0）
 
 
 ---

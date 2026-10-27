@@ -1,6 +1,6 @@
 # qupath/qupath
 
-⭐ 1,467 · Java · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
+⭐ 1,467 · Java · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
 
 **开源生物图像分析软件：标注、分割与机器学习分类**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qupath/qupath 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1463 --> 1468
     line [1464, 1465, 1466, 1467, 1467]
 ```
 
-2026-10-18 1,464 → 2026-10-26 1,467（+3）
+2026-10-18 1,464 → 2026-10-27 1,467（+3）
 
 
 ---

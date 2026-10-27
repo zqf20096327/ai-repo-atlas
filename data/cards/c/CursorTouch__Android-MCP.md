@@ -1,6 +1,6 @@
 # CursorTouch/Android-MCP
 
-⭐ 905 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/CursorTouch/Android-MCP) · 组织维护
+⭐ 906 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/CursorTouch/Android-MCP) · 组织维护
 
 **让 LLM agent 通过 MCP 直接操控 Android 设备的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CursorTouch/Android-MCP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 897 --> 906
-    line [898, 901, 902, 903, 905, 905]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 897 --> 907
+    line [898, 901, 902, 903, 905, 906]
 ```
 
-2026-10-18 898 → 2026-10-26 905（+7）
+2026-10-18 898 → 2026-10-27 906（+8）
 
 
 ---

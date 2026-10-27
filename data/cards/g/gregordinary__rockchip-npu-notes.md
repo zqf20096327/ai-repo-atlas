@@ -1,6 +1,6 @@
 # gregordinary/rockchip-npu-notes
 
-⭐ 27 · Shell · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/rockchip-npu-notes) · 个人维护
+⭐ 28 · Shell · CC-BY-4.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/rockchip-npu-notes) · 个人维护
 
 **RK3588 NPU 硬件与 regcmd 寄存器接口的逆向研究笔记集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gregordinary/rockchip-npu-notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 26, 27, 28]
 ```
 
-2026-10-18 23 → 2026-10-26 27（+4）
+2026-10-18 23 → 2026-10-27 28（+5）
 
 
 ---

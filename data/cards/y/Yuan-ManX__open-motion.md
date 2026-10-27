@@ -1,6 +1,6 @@
 # Yuan-ManX/open-motion
 
-⭐ 47 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Yuan-ManX/open-motion) · [官网](https://yuan-manx.github.io/open-motion/) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Yuan-ManX/open-motion) · [官网](https://yuan-manx.github.io/open-motion/) · 个人维护 · 中文 README
 
 **AI 原生动效运行时：网页与视频中的动画可对话编辑与复用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yuan-ManX/open-motion 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 28 --> 48
-    line [29, 38, 44, 45, 46, 47]
+    title "Yuan-ManX/open-motion 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28 --> 49
+    line [29, 38, 44, 45, 46, 47, 48]
 ```
 
-2026-10-18 29 → 2026-10-26 47（+18）
+2026-10-18 29 → 2026-10-27 48（+19）
 
 
 ---

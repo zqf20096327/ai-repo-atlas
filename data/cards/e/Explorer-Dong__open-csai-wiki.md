@@ -1,6 +1,6 @@
 # Explorer-Dong/open-csai-wiki
 
-⭐ 115 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Explorer-Dong/open-csai-wiki) · [官网](https://wiki.dwj601.cn) · 个人维护 · 中文 README
+⭐ 115 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Explorer-Dong/open-csai-wiki) · [官网](https://wiki.dwj601.cn) · 个人维护 · 中文 README
 
 **围绕计算机与人工智能的个人知识库（技术博客/笔记）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Explorer-Dong/open-csai-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-26 115（+0）
+2026-10-18 115 → 2026-10-27 115（+0）
 
 
 ---

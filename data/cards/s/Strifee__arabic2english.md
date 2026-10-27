@@ -1,6 +1,6 @@
 # Strifee/arabic2english
 
-⭐ 28 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/Strifee/arabic2english) · 个人维护
+⭐ 29 · Jupyter Notebook · 推送 2026-04-01 · [GitHub](https://github.com/Strifee/arabic2english) · 个人维护
 
 **从零训练的阿拉伯语→英语 Transformer 神经机器翻译实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Strifee/arabic2english 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 29（+1）
 
 
 ---

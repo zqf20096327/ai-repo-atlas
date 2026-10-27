@@ -1,6 +1,6 @@
 # underworldhistory1-ctrl/minimax-h3-higgsfield
 
-⭐ 27 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-higgsfield) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-higgsfield) · 个人维护
 
 **自托管浏览器工作室：用 MiniMax H3 生成视频、Qwen 生成图像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "underworldhistory1-ctrl/minimax-h3-higgsfield 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

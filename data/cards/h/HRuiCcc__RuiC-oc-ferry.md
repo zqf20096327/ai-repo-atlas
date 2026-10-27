@@ -1,6 +1,6 @@
 # HRuiCcc/RuiC-oc-ferry
 
-⭐ 366 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/HRuiCcc/RuiC-oc-ferry) · 个人维护 · 中文 README
+⭐ 379 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HRuiCcc/RuiC-oc-ferry) · 个人维护 · 中文 README
 
 **把 OpenCode 免费模型探测后摆渡给 WorkBuddy 的托盘应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HRuiCcc/RuiC-oc-ferry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 193 --> 381
-    line [208, 250, 303, 324, 344, 353, 366]
+    title "HRuiCcc/RuiC-oc-ferry 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 191 --> 396
+    line [208, 250, 303, 324, 344, 353, 366, 379]
 ```
 
-2026-10-18 208 → 2026-10-26 366（+158）
+2026-10-18 208 → 2026-10-27 379（+171）
 
 
 ---

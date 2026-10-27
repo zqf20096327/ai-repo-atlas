@@ -1,6 +1,6 @@
 # xqbase/eleeye
 
-⭐ 406 · C++ · LGPL-2.1 · 推送 2026-10-23 · [GitHub](https://github.com/xqbase/eleeye) · [官网](http://www.xqbase.com/) · 个人维护 · 中文 README
+⭐ 408 · C++ · LGPL-2.1 · 推送 2026-10-23 · [GitHub](https://github.com/xqbase/eleeye) · [官网](http://www.xqbase.com/) · 个人维护 · 中文 README
 
 **中国象棋对弈引擎（象眼），供 UCCI 界面调用下棋与分析**
 
@@ -44,13 +44,13 @@ ElephantEye（象眼）是基于 LGPL 协议的中国象棋引擎程序，实现
 
 ```mermaid
 xychart-beta
-    title "xqbase/eleeye 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 404 --> 407
-    line [405, 406]
+    title "xqbase/eleeye 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 404 --> 409
+    line [405, 406, 408]
 ```
 
-2026-10-18 405 → 2026-10-26 406（+1）
+2026-10-18 405 → 2026-10-27 408（+3）
 
 
 ---

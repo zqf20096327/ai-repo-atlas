@@ -1,6 +1,6 @@
 # kyegomez/movie-gen
 
-⭐ 61 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/movie-gen) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/movie-gen) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
 
 **Meta Movie Gen 论文的开源社区实现：视频/音频生成模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/movie-gen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

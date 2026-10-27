@@ -33,7 +33,7 @@ Afferm 维护的 Python 概率校准工具包：提供 LinearSplineLogisticRegre
 
 ## 场景标签
 
- · 领域:机器学习/模型评估
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -45,12 +45,12 @@ Afferm 维护的 Python 概率校准工具包：提供 LinearSplineLogisticRegre
 ```mermaid
 xychart-beta
     title "Affirm/splinator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

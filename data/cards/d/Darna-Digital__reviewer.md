@@ -1,6 +1,6 @@
 # Darna-Digital/reviewer
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Darna-Digital/reviewer) · [官网](https://reviewer.sh) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Darna-Digital/reviewer) · [官网](https://reviewer.sh) · 组织维护
 
 **macOS 原生应用：查看 diff 并评审 AI 生成的代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Darna-Digital/reviewer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 17 --> 34
-    line [18, 19, 20, 28, 30, 31, 33]
+    title "Darna-Digital/reviewer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 17 --> 35
+    line [18, 19, 20, 28, 30, 31, 33, 34]
 ```
 
-2026-10-18 18 → 2026-10-26 33（+15）
+2026-10-18 18 → 2026-10-27 34（+16）
 
 
 ---

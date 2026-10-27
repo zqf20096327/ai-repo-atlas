@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/Keywordo-kun-AI-SEO-Agent-n8n-Workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-26 81（+0）
+2026-10-18 81 → 2026-10-27 81（+0）
 
 
 ---

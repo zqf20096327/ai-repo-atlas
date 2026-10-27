@@ -1,6 +1,6 @@
 # moooossee/moose
 
-⭐ 47 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/moooossee/moose) · [官网](https://moooossee.github.io/) · 个人维护
+⭐ 48 · Rust · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/moooossee/moose) · [官网](https://moooossee.github.io/) · 个人维护
 
 **Linux 原生桌面 AI 聊天应用：本地模型与云端对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moooossee/moose 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 35 --> 48
-    line [36, 43, 45, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 35 --> 49
+    line [36, 43, 45, 46, 47, 48]
 ```
 
-2026-10-18 36 → 2026-10-26 47（+11）
+2026-10-18 36 → 2026-10-27 48（+12）
 
 
 ---

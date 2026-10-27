@@ -1,6 +1,6 @@
 # jedarden/NEEDLE
 
-⭐ 30 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jedarden/NEEDLE) · [官网](https://jedarden.com/projects/needle/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jedarden/NEEDLE) · [官网](https://jedarden.com/projects/needle/) · 个人维护
 
 **面向无头编码 CLI agent 的确定性队列编排器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jedarden/NEEDLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 31（+1）
 
 
 ---

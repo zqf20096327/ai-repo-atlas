@@ -1,6 +1,6 @@
 # whobot-ai/claude-code-feishu-channel
 
-⭐ 26 · TypeScript · 推送 2026-03-22 · [GitHub](https://github.com/whobot-ai/claude-code-feishu-channel) · 组织维护 · 中文 README
+⭐ 27 · TypeScript · 推送 2026-03-22 · [GitHub](https://github.com/whobot-ai/claude-code-feishu-channel) · 组织维护 · 中文 README
 
 **连接飞书与 Claude Code 的 Channel 插件：飞书消息直达本地会话**
 
@@ -45,12 +45,12 @@ Claude Code 的社区飞书（Feishu/Lark）Channel 插件，以本地 MCP 服�
 ```mermaid
 xychart-beta
     title "whobot-ai/claude-code-feishu-channel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 27（+1）
 
 
 ---

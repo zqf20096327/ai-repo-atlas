@@ -1,6 +1,6 @@
 # yancent-dao/cockpit-agent-sim
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yancent-dao/cockpit-agent-sim) · 个人维护 · 中文 README
+⭐ 97 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yancent-dao/cockpit-agent-sim) · 个人维护 · 中文 README
 
 **智能座舱 Agent 演示框架：车辆信号模拟+Agent 运行时全栈底座**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yancent-dao/cockpit-agent-sim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 94 --> 104
-    line [103, 95, 96, 96]
+    line [103, 95, 96, 97]
 ```
 
-2026-10-18 103 → 2026-10-26 96（-7）
+2026-10-18 103 → 2026-10-27 97（-6）
 
 
 ---

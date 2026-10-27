@@ -1,6 +1,6 @@
 # julep-ai/julep
 
-⭐ 6,574 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/julep-ai/julep) · [官网](https://docs.julep.ai) · 组织维护
+⭐ 6,575 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/julep-ai/julep) · [官网](https://docs.julep.ai) · 组织维护
 
 **面向开发者的持久化可组合 AI agent 工作流框架**
 
@@ -45,13 +45,13 @@ Julep 3 将 AI agent 构建为可组合、可持久化的数据流：`@flow` 定
 
 ```mermaid
 xychart-beta
-    title "julep-ai/julep 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "julep-ai/julep 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 6573 --> 6577
-    line [6576, 6575, 6574]
+    line [6576, 6575, 6574, 6575]
 ```
 
-2026-10-18 6,576 → 2026-10-26 6,574（-2）
+2026-10-18 6,576 → 2026-10-27 6,575（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pantani/tdmcp
 
-⭐ 55 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Pantani/tdmcp) · [官网](https://pantani.github.io/tdmcp/) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Pantani/tdmcp) · [官网](https://pantani.github.io/tdmcp/) · 个人维护
 
 **TouchDesigner 的 MCP server：用自然语言让 AI 搭建可运行的节点网络**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pantani/tdmcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 50 --> 56
-    line [51, 53, 54, 55]
+    title "Pantani/tdmcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 50 --> 57
+    line [51, 53, 54, 55, 56]
 ```
 
-2026-10-18 51 → 2026-10-26 55（+4）
+2026-10-18 51 → 2026-10-27 56（+5）
 
 
 ---

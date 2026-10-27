@@ -1,6 +1,6 @@
 # automata/aicodeguide
 
-⭐ 2,756 · 推送 2026-03-23 · [GitHub](https://github.com/automata/aicodeguide) · [官网](https://aicode.guide) · 个人维护
+⭐ 2,760 · 推送 2026-03-23 · [GitHub](https://github.com/automata/aicodeguide) · [官网](https://aicode.guide) · 个人维护
 
 **AI 辅助编程入门路线图：教你用 AI/vibe coding 写代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "automata/aicodeguide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2744 --> 2757
-    line [2745, 2746, 2745, 2747, 2750, 2753, 2756]
+    title "automata/aicodeguide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2744 --> 2761
+    line [2745, 2746, 2745, 2747, 2750, 2753, 2756, 2760]
 ```
 
-2026-10-18 2,745 → 2026-10-26 2,756（+11）
+2026-10-18 2,745 → 2026-10-27 2,760（+15）
 
 
 ---

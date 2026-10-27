@@ -1,6 +1,6 @@
 # URML-MARS/URML
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/URML-MARS/URML) · [官网](https://www.urml.dev) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/URML-MARS/URML) · [官网](https://www.urml.dev) · 个人维护
 
 **机器人意图描述语言：规范、校验器与参考运行时**
 
@@ -47,12 +47,12 @@ URML 是一种描述机器人意图的开放语言规范，附带参考实现：
 ```mermaid
 xychart-beta
     title "URML-MARS/URML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 29（-1）
 
 
 ---

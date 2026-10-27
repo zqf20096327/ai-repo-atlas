@@ -1,6 +1,6 @@
 # hailo-ai/tappas
 
-⭐ 204 · C++ · LGPL-2.1 · 推送 2026-08-20 · [GitHub](https://github.com/hailo-ai/tappas) · [官网](http://hailo.ai/) · 组织维护
+⭐ 204 · C++ · LGPL-2.1 · 推送 2026-10-26 · [GitHub](https://github.com/hailo-ai/tappas) · [官网](http://hailo.ai/) · 组织维护
 
 **面向 Hailo 边缘设备的视频 AI 流水线框架与预训练应用示例**
 
@@ -46,12 +46,12 @@ Hailo 官方的基础设施项目：基于 GStreamer 构建 AI 视频处理流�
 ```mermaid
 xychart-beta
     title "hailo-ai/tappas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 203 --> 205
     line [204, 204]
 ```
 
-2026-10-18 204 → 2026-10-26 204（+0）
+2026-10-18 204 → 2026-10-27 204（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OFA-Sys/Chinese-CLIP
 
-⭐ 6,022 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/OFA-Sys/Chinese-CLIP) · 组织维护 · 中文 README
+⭐ 6,023 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/OFA-Sys/Chinese-CLIP) · 组织维护 · 中文 README
 
 **CLIP 模型的中文版本，用于中文图文检索与特征计算**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OFA-Sys/Chinese-CLIP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6015 --> 6023
-    line [6016, 6018, 6019, 6020, 6022]
+    title "OFA-Sys/Chinese-CLIP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6015 --> 6024
+    line [6016, 6018, 6019, 6020, 6022, 6023]
 ```
 
-2026-10-18 6,016 → 2026-10-26 6,022（+6）
+2026-10-18 6,016 → 2026-10-27 6,023（+7）
 
 
 ---

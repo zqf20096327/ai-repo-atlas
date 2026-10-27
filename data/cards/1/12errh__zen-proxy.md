@@ -1,6 +1,6 @@
 # 12errh/zen-proxy
 
-⭐ 90 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/12errh/zen-proxy) · 个人维护
+⭐ 102 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/12errh/zen-proxy) · 个人维护
 
 **让任意编程 agent 使用 OpenCode Zen 免费模型的本地代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "12errh/zen-proxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 57 --> 93
-    line [60, 72, 76, 78, 81, 90]
+    title "12errh/zen-proxy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 56 --> 106
+    line [60, 72, 76, 78, 81, 90, 102]
 ```
 
-2026-10-18 60 → 2026-10-26 90（+30）
+2026-10-18 60 → 2026-10-27 102（+42）
 
 
 ---

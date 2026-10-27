@@ -1,6 +1,6 @@
 # lds051332/OptionTradingAgent
 
-⭐ 31 · Python · 推送 2026-09-28 · [GitHub](https://github.com/lds051332/OptionTradingAgent) · [官网](https://option.xdashan.top/) · 个人维护 · 中文 README
+⭐ 32 · Python · 推送 2026-10-26 · [GitHub](https://github.com/lds051332/OptionTradingAgent) · [官网](https://option.xdashan.top/) · 个人维护 · 中文 README
 
 **美股短周期轮式策略（卖put/covered call）决策建议台，只给建议不下单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lds051332/OptionTradingAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 32（+1）
 
 
 ---

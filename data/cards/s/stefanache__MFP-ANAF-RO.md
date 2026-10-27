@@ -1,6 +1,6 @@
 # stefanache/MFP-ANAF-RO
 
-⭐ 53 · PHP · 推送 2026-10-15 · [GitHub](https://github.com/stefanache/MFP-ANAF-RO) · [官网](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md) · 个人维护
+⭐ 53 · PHP · 推送 2026-10-26 · [GitHub](https://github.com/stefanache/MFP-ANAF-RO) · [官网](https://github.com/stefanache/MFP-ANAF-RO/blob/main/README.md) · 个人维护
 
 **罗马尼亚税务当局（MFP/ANAF）标准与数据集编目知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stefanache/MFP-ANAF-RO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-26 53（+0）
+2026-10-18 53 → 2026-10-27 53（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Twigpine/openclaude
 
-⭐ 34,150 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
+⭐ 34,167 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
 
 **面向开发者的多后端编码 agent CLI，统一终端工作流**
 
@@ -52,13 +52,13 @@ OpenClaude 是一个开源编码 agent CLI，通过一套终端工作流接入�
 
 ```mermaid
 xychart-beta
-    title "Twigpine/openclaude 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 33944 --> 34168
-    line [33962, 34020, 34069, 34099, 34121, 34129, 34150]
+    title "Twigpine/openclaude 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 33942 --> 34187
+    line [33962, 34020, 34069, 34099, 34121, 34129, 34150, 34167]
 ```
 
-2026-10-18 33,962 → 2026-10-26 34,150（+188）
+2026-10-18 33,962 → 2026-10-27 34,167（+205）
 
 
 ---

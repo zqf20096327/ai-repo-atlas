@@ -1,6 +1,6 @@
 # controlplaneio/sandbox-probe
 
-⭐ 28 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/controlplaneio/sandbox-probe) · [官网](https://control-plane.io) · 组织维护
+⭐ 28 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/controlplaneio/sandbox-probe) · [官网](https://control-plane.io) · 组织维护
 
 **沙箱安全探测工具：审计 AI 编码代理沙箱的实际边界**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "controlplaneio/sandbox-probe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

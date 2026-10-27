@@ -1,6 +1,6 @@
 # bgts-ai-org/bgts-context-engine
 
-⭐ 169 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bgts-ai-org/bgts-context-engine) · 组织维护 · 中文 README
+⭐ 171 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/bgts-ai-org/bgts-context-engine) · 组织维护 · 中文 README
 
 **给 AI 编程代理的确定性代码图谱上下文引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bgts-ai-org/bgts-context-engine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 66 --> 178
-    line [75, 158, 162, 166, 167, 169]
+    title "bgts-ai-org/bgts-context-engine 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 66 --> 180
+    line [75, 158, 162, 166, 167, 169, 171]
 ```
 
-2026-10-18 75 → 2026-10-26 169（+94）
+2026-10-18 75 → 2026-10-27 171（+96）
 
 
 ---

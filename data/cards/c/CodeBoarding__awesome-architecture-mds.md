@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "CodeBoarding/awesome-architecture-mds 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 166 --> 168
     line [167, 167]
 ```
 
-2026-10-18 167 → 2026-10-26 167（+0）
+2026-10-18 167 → 2026-10-27 167（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nokryong/mobile-codex
 
-⭐ 52 · Java · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/nokryong/mobile-codex) · 个人维护
+⭐ 55 · Java · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/nokryong/mobile-codex) · 个人维护
 
 **Android 上的 Codex 独立客户端，可语音对话并邀请 Claude/Gemini 协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nokryong/mobile-codex 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52]
+    title "nokryong/mobile-codex 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 48 --> 56
+    line [49, 50, 51, 52, 55]
 ```
 
-2026-10-22 49 → 2026-10-26 52（+3）
+2026-10-22 49 → 2026-10-27 55（+6）
 
 
 ---

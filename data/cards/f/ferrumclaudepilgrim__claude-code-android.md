@@ -1,6 +1,6 @@
 # ferrumclaudepilgrim/claude-code-android
 
-⭐ 295 · Shell · MIT · 推送 2026-07-27 · [GitHub](https://github.com/ferrumclaudepilgrim/claude-code-android) · [官网](https://ferrumclaudepilgrim.com) · 个人维护
+⭐ 299 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ferrumclaudepilgrim/claude-code-android) · [官网](https://ferrumclaudepilgrim.com) · 个人维护
 
 **在 Android 手机上原生运行 Claude Code 的安装指南与脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ferrumclaudepilgrim/claude-code-android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 273 --> 297
-    line [275, 280, 282, 285, 289, 291, 295]
+    title "ferrumclaudepilgrim/claude-code-android 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 273 --> 301
+    line [275, 280, 282, 285, 289, 291, 295, 299]
 ```
 
-2026-10-18 275 → 2026-10-26 295（+20）
+2026-10-18 275 → 2026-10-27 299（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinta/pangu.space
 
-⭐ 31 · HTML · 推送 2026-10-22 · [GitHub](https://github.com/vinta/pangu.space) · [官网](https://pangu.space) · 个人维护 · 中文 README
+⭐ 31 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/vinta/pangu.space) · [官网](https://pangu.space) · 个人维护 · 中文 README
 
 **CJK 与西文之间自动加空格的网站与 HTTP API 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vinta/pangu.space 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

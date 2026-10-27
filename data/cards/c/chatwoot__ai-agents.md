@@ -1,6 +1,6 @@
 # chatwoot/ai-agents
 
-⭐ 163 · Ruby · MIT · 推送 2026-10-15 · [GitHub](https://github.com/chatwoot/ai-agents) · [官网](https://ai-agents.chatwoot.dev/) · 组织维护
+⭐ 163 · Ruby · MIT · 推送 2026-10-26 · [GitHub](https://github.com/chatwoot/ai-agents) · [官网](https://ai-agents.chatwoot.dev/) · 组织维护
 
 **面向 Ruby 开发者的多 agent 工作流构建 SDK**
 
@@ -45,12 +45,12 @@ Provider 无关的 Ruby AI Agents SDK，用于构建多 agent 工作流：提供
 ```mermaid
 xychart-beta
     title "chatwoot/ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 161 --> 164
     line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-10-26 163（+1）
+2026-10-18 162 → 2026-10-27 163（+1）
 
 
 ---

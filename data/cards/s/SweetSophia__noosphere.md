@@ -1,6 +1,6 @@
 # SweetSophia/noosphere
 
-⭐ 28 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/SweetSophia/noosphere) · [官网](https://noosphere-memory.com) · 个人维护
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/SweetSophia/noosphere) · [官网](https://noosphere-memory.com) · 个人维护
 
 **AI agent 的自托管记忆与知识层，兼作人类 Markdown wiki**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SweetSophia/noosphere 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 29（+1）
 
 
 ---

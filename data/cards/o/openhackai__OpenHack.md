@@ -1,6 +1,6 @@
 # openhackai/OpenHack
 
-⭐ 429 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/openhackai/OpenHack) · [官网](https://openhack.com) · 组织维护
+⭐ 430 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/openhackai/OpenHack) · [官网](https://openhack.com) · 组织维护
 
 **开源 Agentic 安全扫描器：用多 Agent 流水线检测并验证代码漏洞**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openhackai/OpenHack 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 423 --> 430
-    line [424, 427, 428, 429]
+    title "openhackai/OpenHack 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 423 --> 431
+    line [424, 427, 428, 429, 430]
 ```
 
-2026-10-18 424 → 2026-10-26 429（+5）
+2026-10-18 424 → 2026-10-27 430（+6）
 
 
 ---

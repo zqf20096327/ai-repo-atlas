@@ -1,6 +1,6 @@
 # iamsonal/aiAgentStudio
 
-⭐ 87 · Apex · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/iamsonal/aiAgentStudio) · [官网](https://iamsonal.github.io/aiAgentStudio/) · 个人维护
+⭐ 89 · Apex · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/iamsonal/aiAgentStudio) · [官网](https://iamsonal.github.io/aiAgentStudio/) · 个人维护
 
 **在 Salesforce 内运行 AI agent 的引擎（标准许可证）**
 
@@ -46,12 +46,12 @@ Pluto 是在 Salesforce 平台内运行 AI agent 的引擎套件，以解锁包�
 ```mermaid
 xychart-beta
     title "iamsonal/aiAgentStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 86 --> 90
+    line [87, 89]
 ```
 
-2026-10-18 87 → 2026-10-26 87（+0）
+2026-10-18 87 → 2026-10-27 89（+2）
 
 
 ---

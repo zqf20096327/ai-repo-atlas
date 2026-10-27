@@ -1,6 +1,6 @@
 # ValueByte-AI/Awesome-LLM-in-Social-Science
 
-⭐ 652 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) · 组织维护 · 中文 README
+⭐ 653 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) · 组织维护 · 中文 README
 
 **社会科学视角下的 LLM 论文清单：评测/对齐/数据集/综述**
 
@@ -45,12 +45,12 @@ Awesome 风格的论文聚合清单，收录从社会科学视角评测与对齐
 ```mermaid
 xychart-beta
     title "ValueByte-AI/Awesome-LLM-in-Social-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 651 --> 653
-    line [652, 652]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 651 --> 654
+    line [652, 653]
 ```
 
-2026-10-18 652 → 2026-10-26 652（+0）
+2026-10-18 652 → 2026-10-27 653（+1）
 
 
 ---

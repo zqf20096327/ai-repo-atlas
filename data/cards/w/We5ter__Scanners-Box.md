@@ -1,6 +1,6 @@
 # We5ter/Scanners-Box
 
-⭐ 9,137 · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/We5ter/Scanners-Box) · [官网](https://we5ter.github.io/ai-tools/) · 个人维护 · 中文 README
+⭐ 9,141 · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/We5ter/Scanners-Box) · [官网](https://we5ter.github.io/ai-tools/) · 个人维护 · 中文 README
 
 **面向黑客、企业与 AI 智能体的开源安全工具聚合清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "We5ter/Scanners-Box 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9110 --> 9139
-    line [9112, 9124, 9132, 9135, 9137, 9136, 9137]
+    title "We5ter/Scanners-Box 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9110 --> 9143
+    line [9112, 9124, 9132, 9135, 9137, 9136, 9137, 9141]
 ```
 
-2026-10-18 9,112 → 2026-10-26 9,137（+25）
+2026-10-18 9,112 → 2026-10-27 9,141（+29）
 
 
 ---

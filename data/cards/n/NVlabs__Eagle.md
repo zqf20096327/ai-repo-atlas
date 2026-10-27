@@ -1,6 +1,6 @@
 # NVlabs/Eagle
 
-⭐ 3,726 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/NVlabs/Eagle) · [官网](https://nvlabs.github.io/Eagle/) · 组织维护
+⭐ 3,727 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/NVlabs/Eagle) · [官网](https://nvlabs.github.io/Eagle/) · 组织维护
 
 **NVIDIA 前沿视觉-语言模型家族：图像/视频理解与定位**
 
@@ -46,12 +46,12 @@ NVIDIA 发布的视觉-语言模型系列（Eagle、Eagle 2、Eagle 2.5、Locate
 ```mermaid
 xychart-beta
     title "NVlabs/Eagle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3704 --> 3728
-    line [3706, 3708, 3719, 3722, 3726, 3726]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 3704 --> 3729
+    line [3706, 3708, 3719, 3722, 3726, 3727]
 ```
 
-2026-10-18 3,706 → 2026-10-26 3,726（+20）
+2026-10-18 3,706 → 2026-10-27 3,727（+21）
 
 
 ---

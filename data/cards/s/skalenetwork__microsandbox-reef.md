@@ -1,6 +1,6 @@
 # skalenetwork/microsandbox-reef
 
-⭐ 25 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/skalenetwork/microsandbox-reef) · [官网](https://reef.clawbits.ai) · 组织维护
+⭐ 25 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/skalenetwork/microsandbox-reef) · [官网](https://reef.clawbits.ai) · 组织维护
 
 **在自管服务器 microVM 中运行 AI agent 的角色策略编排工具**
 
@@ -46,12 +46,12 @@ reef 是一个 Rust CLI，在自有服务器上用 microsandbox microVM 运行 O
 ```mermaid
 xychart-beta
     title "skalenetwork/microsandbox-reef 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-26 25（+0）
+2026-10-18 25 → 2026-10-27 25（+0）
 
 
 ---

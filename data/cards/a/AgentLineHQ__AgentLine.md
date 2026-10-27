@@ -1,6 +1,6 @@
 # AgentLineHQ/AgentLine
 
-⭐ 56 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AgentLineHQ/AgentLine) · [官网](https://agentline.cloud) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/AgentLineHQ/AgentLine) · [官网](https://agentline.cloud) · 组织维护
 
 **给 AI agent 提供真实电话号码的开源电话 API 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgentLineHQ/AgentLine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 57（+1）
 
 
 ---

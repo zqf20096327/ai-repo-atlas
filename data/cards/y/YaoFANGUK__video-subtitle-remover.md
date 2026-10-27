@@ -1,6 +1,6 @@
 # YaoFANGUK/video-subtitle-remover
 
-⭐ 13,435 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
+⭐ 13,451 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/YaoFANGUK/video-subtitle-remover) · 个人维护 · 中文 README
 
 **给需要去除视频硬字幕/文本水印的用户，本地AI修复填充**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "YaoFANGUK/video-subtitle-remover 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13320 --> 13445
-    line [13330, 13351, 13377, 13395, 13410, 13423, 13435]
+    title "YaoFANGUK/video-subtitle-remover 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13318 --> 13463
+    line [13330, 13351, 13377, 13395, 13410, 13423, 13435, 13451]
 ```
 
-2026-10-18 13,330 → 2026-10-26 13,435（+105）
+2026-10-18 13,330 → 2026-10-27 13,451（+121）
 
 
 ---

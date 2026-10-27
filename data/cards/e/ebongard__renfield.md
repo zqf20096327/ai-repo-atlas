@@ -1,6 +1,6 @@
 # ebongard/renfield
 
-⭐ 39 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ebongard/renfield) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ebongard/renfield) · 个人维护
 
 **自托管离线语音 AI 助手，支持多房间语音卫星与 RAG 知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ebongard/renfield 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-26 39（+0）
+2026-10-18 39 → 2026-10-27 39（+0）
 
 
 ---

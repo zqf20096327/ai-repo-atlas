@@ -46,12 +46,12 @@ Swift/SwiftUI 构建的开源 macOS 原生阅读应用，导入 PDF/EPUB/TXT 后
 ```mermaid
 xychart-beta
     title "Marvy101/reader-source 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

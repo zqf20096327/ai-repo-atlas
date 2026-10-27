@@ -1,6 +1,6 @@
 # charlesjones-dev/ai-agent-plugins
 
-⭐ 35 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/charlesjones-dev/ai-agent-plugins) · [官网](https://charlesjones.dev) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/charlesjones-dev/ai-agent-plugins) · [官网](https://charlesjones.dev) · 个人维护
 
 **面向 Claude Code/Codex/Cursor 的 13 个开发工作流插件集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charlesjones-dev/ai-agent-plugins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

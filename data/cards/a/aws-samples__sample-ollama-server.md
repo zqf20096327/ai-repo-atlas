@@ -1,6 +1,6 @@
 # aws-samples/sample-ollama-server
 
-⭐ 29 · MIT-0 · 推送 2026-08-16 · [GitHub](https://github.com/aws-samples/sample-ollama-server) · 组织维护
+⭐ 30 · MIT-0 · 推送 2026-08-16 · [GitHub](https://github.com/aws-samples/sample-ollama-server) · 组织维护
 
 **AWS CloudFormation 模板：一键部署 GPU EC2 上的 Ollama 与 Open WebUI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/sample-ollama-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 30（+1）
 
 
 ---

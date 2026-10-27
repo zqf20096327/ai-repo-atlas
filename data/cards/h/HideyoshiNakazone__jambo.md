@@ -45,12 +45,12 @@ Jambo 是一个 Python 包，读取 JSON Schema 定义并动态生成 Pydantic �
 ```mermaid
 xychart-beta
     title "HideyoshiNakazone/jambo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-10-26 95（+0）
+2026-10-18 95 → 2026-10-27 95（+0）
 
 
 ---

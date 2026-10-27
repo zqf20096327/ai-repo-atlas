@@ -1,6 +1,6 @@
 # kanitvural/aws-data-science-data-engineering-mlops-infra
 
-⭐ 58 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/kanitvural/aws-data-science-data-engineering-mlops-infra) · 个人维护
+⭐ 59 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/kanitvural/aws-data-science-data-engineering-mlops-infra) · 个人维护
 
 **AWS 端到端数据与 AI 平台：实时航班延误预测 + 多 Agent 聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kanitvural/aws-data-science-data-engineering-mlops-infra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 59（+1）
 
 
 ---

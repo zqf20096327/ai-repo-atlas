@@ -1,6 +1,6 @@
 # MorDavid/BruteForceAI
 
-⭐ 1,906 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/MorDavid/BruteForceAI) · [官网](https://www.MORDAVID.com) · 个人维护
+⭐ 1,909 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/MorDavid/BruteForceAI) · [官网](https://www.MORDAVID.com) · 个人维护
 
 **LLM 辅助分析登录表单的渗透测试爆破工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MorDavid/BruteForceAI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1869 --> 1909
-    line [1872, 1889, 1897, 1900, 1904, 1903, 1906]
+    title "MorDavid/BruteForceAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1869 --> 1912
+    line [1872, 1889, 1897, 1900, 1904, 1903, 1906, 1909]
 ```
 
-2026-10-18 1,872 → 2026-10-26 1,906（+34）
+2026-10-18 1,872 → 2026-10-27 1,909（+37）
 
 
 ---

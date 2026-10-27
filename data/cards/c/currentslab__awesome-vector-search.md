@@ -1,6 +1,6 @@
 # currentslab/awesome-vector-search
 
-⭐ 1,593 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/currentslab/awesome-vector-search) · 个人维护
+⭐ 1,594 · MIT · 推送 2026-07-06 · [GitHub](https://github.com/currentslab/awesome-vector-search) · 个人维护
 
 **向量检索引擎/库/云服务与研究论文的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "currentslab/awesome-vector-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1592 --> 1594
-    line [1593, 1593]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1592 --> 1595
+    line [1593, 1594]
 ```
 
-2026-10-18 1,593 → 2026-10-26 1,593（+0）
+2026-10-18 1,593 → 2026-10-27 1,594（+1）
 
 
 ---

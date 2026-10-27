@@ -45,12 +45,12 @@ Audrey 以 npm 包安装在 Codex / Claude Code 旁，通过 hooks 形成记忆�
 ```mermaid
 xychart-beta
     title "Evilander/Audrey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

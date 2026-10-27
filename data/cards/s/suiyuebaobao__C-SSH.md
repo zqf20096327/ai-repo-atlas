@@ -1,6 +1,6 @@
 # suiyuebaobao/C-SSH
 
-⭐ 187 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/suiyuebaobao/C-SSH) · [官网](https://c-ssh.com) · 个人维护 · 中文 README
+⭐ 186 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/suiyuebaobao/C-SSH) · [官网](https://c-ssh.com) · 个人维护 · 中文 README
 
 **面向 Windows/Mac/Android/Linux 的服务器运维客户端，含 AI 对话**
 
@@ -45,12 +45,12 @@ C-SSH 是一款跨平台服务器运维客户端（Rust 构建），覆盖 Windo
 ```mermaid
 xychart-beta
     title "suiyuebaobao/C-SSH 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 185 --> 188
-    line [186, 187, 187]
+    line [186, 187, 186]
 ```
 
-2026-10-18 186 → 2026-10-26 187（+1）
+2026-10-18 186 → 2026-10-27 186（+0）
 
 
 ---

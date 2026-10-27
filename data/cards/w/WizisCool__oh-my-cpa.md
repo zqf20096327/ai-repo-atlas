@@ -1,6 +1,6 @@
 # WizisCool/oh-my-cpa
 
-⭐ 235 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
+⭐ 242 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/WizisCool/oh-my-cpa) · [官网](https://omc-demo.junze.dev) · 个人维护 · 中文 README
 
 **CLIProxyAPI 网关的自托管管理与用量观测控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WizisCool/oh-my-cpa 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 196 --> 238
-    line [199, 216, 221, 227, 231, 232, 235]
+    title "WizisCool/oh-my-cpa 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 195 --> 246
+    line [199, 216, 221, 227, 231, 232, 235, 242]
 ```
 
-2026-10-18 199 → 2026-10-26 235（+36）
+2026-10-18 199 → 2026-10-27 242（+43）
 
 
 ---

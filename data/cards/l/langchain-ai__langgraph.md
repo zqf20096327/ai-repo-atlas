@@ -1,6 +1,6 @@
 # langchain-ai/langgraph
 
-⭐ 43,879 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
+⭐ 43,936 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langgraph) · [官网](https://docs.langchain.com/oss/python/langgraph/) · 组织维护
 
 **面向构建有状态长期运行 agent 的低层编排框架**
 
@@ -51,13 +51,13 @@ LangGraph 是由 LangChain Inc 构建的 Python 库，用于构建、管理和�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 43356 --> 43926
-    line [43403, 43524, 43648, 43723, 43790, 43830, 43879]
+    title "langchain-ai/langgraph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 43350 --> 43989
+    line [43403, 43524, 43648, 43723, 43790, 43830, 43879, 43936]
 ```
 
-2026-10-18 43,403 → 2026-10-26 43,879（+476）
+2026-10-18 43,403 → 2026-10-27 43,936（+533）
 
 
 ---

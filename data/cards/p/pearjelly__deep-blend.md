@@ -1,6 +1,6 @@
 # pearjelly/deep-blend
 
-⭐ 101 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pearjelly/deep-blend) · [官网](https://github.com/pearjelly/deep-blend#quick-start) · 个人维护 · 中文 README
+⭐ 101 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pearjelly/deep-blend) · [官网](https://github.com/pearjelly/deep-blend#quick-start) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 中构建与渲染 Blender 产品场景的插件**
 
@@ -45,13 +45,13 @@ DeepBlend Studio 是一个 DSH（DeepSeek Harness）插件，在宿主会话内�
 
 ```mermaid
 xychart-beta
-    title "pearjelly/deep-blend 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "pearjelly/deep-blend 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 28 --> 107
-    line [34, 60, 72, 80, 94, 96, 101]
+    line [34, 60, 72, 80, 94, 96, 101, 101]
 ```
 
-2026-10-18 34 → 2026-10-26 101（+67）
+2026-10-18 34 → 2026-10-27 101（+67）
 
 
 ---

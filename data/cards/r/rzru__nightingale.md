@@ -1,6 +1,6 @@
 # rzru/nightingale
 
-⭐ 1,514 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rzru/nightingale) · [官网](https://nightingale.cafe) · 个人维护
+⭐ 1,516 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rzru/nightingale) · [官网](https://nightingale.cafe) · 个人维护
 
 **本地音乐库的 AI 卡拉OK应用：分离人声、生成歌词、打分**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rzru/nightingale 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1501 --> 1515
-    line [1502, 1505, 1507, 1508, 1510, 1513, 1514]
+    title "rzru/nightingale 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1501 --> 1517
+    line [1502, 1505, 1507, 1508, 1510, 1513, 1514, 1516]
 ```
 
-2026-10-18 1,502 → 2026-10-26 1,514（+12）
+2026-10-18 1,502 → 2026-10-27 1,516（+14）
 
 
 ---

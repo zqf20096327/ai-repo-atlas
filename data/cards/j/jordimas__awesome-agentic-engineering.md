@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jordimas/awesome-agentic-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "jordimas/awesome-agentic-engineering 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 111 --> 114
-    line [112, 113]
+    line [112, 113, 113]
 ```
 
-2026-10-18 112 → 2026-10-26 113（+1）
+2026-10-18 112 → 2026-10-27 113（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leomaurodesenv/game-datasets
 
-⭐ 1,139 · CC-BY-4.0 · 推送 2026-10-17 · [GitHub](https://github.com/leomaurodesenv/game-datasets) · 个人维护
+⭐ 1,141 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/leomaurodesenv/game-datasets) · 个人维护
 
 **游戏领域 AI 与数据挖掘的数据集/工具/资料策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leomaurodesenv/game-datasets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1133 --> 1140
-    line [1134, 1136, 1137, 1138, 1139]
+    title "leomaurodesenv/game-datasets 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1133 --> 1142
+    line [1134, 1136, 1137, 1138, 1139, 1141]
 ```
 
-2026-10-18 1,134 → 2026-10-26 1,139（+5）
+2026-10-18 1,134 → 2026-10-27 1,141（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # RMA-MUN/RAGNotebook
 
-⭐ 478 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/RMA-MUN/RAGNotebook) · 组织维护 · 中文 README
+⭐ 480 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/RMA-MUN/RAGNotebook) · 组织维护 · 中文 README
 
 **个人知识管理工具：笔记+知识图谱+GraphRAG+AI写作辅助**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RMA-MUN/RAGNotebook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 471 --> 479
-    line [472, 476, 477, 478]
+    title "RMA-MUN/RAGNotebook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 471 --> 481
+    line [472, 476, 477, 478, 480]
 ```
 
-2026-10-18 472 → 2026-10-26 478（+6）
+2026-10-18 472 → 2026-10-27 480（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # AnubhavChaturvedi-GitHub/jarvis-ai-assistant
 
-⭐ 371 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
+⭐ 373 · Python · GPL-3.0 · 推送 2026-08-12 · [GitHub](https://github.com/AnubhavChaturvedi-GitHub/jarvis-ai-assistant) · [官网](https://www.youtube.com/@NetHyTech) · 个人维护
 
 **语音控制的 Python 桌面 AI 助手：听说、联网、控电脑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 362 --> 372
-    line [363, 365, 367, 368, 369, 371]
+    title "AnubhavChaturvedi-GitHub/jarvis-ai-assistant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 362 --> 374
+    line [363, 365, 367, 368, 369, 371, 373]
 ```
 
-2026-10-18 363 → 2026-10-26 371（+8）
+2026-10-18 363 → 2026-10-27 373（+10）
 
 
 ---

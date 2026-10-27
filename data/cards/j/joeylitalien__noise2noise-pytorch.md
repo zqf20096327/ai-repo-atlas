@@ -1,6 +1,6 @@
 # joeylitalien/noise2noise-pytorch
 
-⭐ 344 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/joeylitalien/noise2noise-pytorch) · 个人维护
+⭐ 344 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/joeylitalien/noise2noise-pytorch) · 个人维护
 
 **Noise2Noise 图像去噪的 PyTorch 非官方实现**
 
@@ -45,12 +45,12 @@ Lehtinen 等 2018 年 Noise2Noise 论文的非官方 PyTorch 复现：用带噪�
 ```mermaid
 xychart-beta
     title "joeylitalien/noise2noise-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 343 --> 345
     line [344, 344]
 ```
 
-2026-10-18 344 → 2026-10-26 344（+0）
+2026-10-18 344 → 2026-10-27 344（+0）
 
 
 ---

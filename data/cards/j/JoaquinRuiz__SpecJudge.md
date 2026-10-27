@@ -1,6 +1,6 @@
 # JoaquinRuiz/SpecJudge
 
-⭐ 59 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/JoaquinRuiz/SpecJudge) · [官网](https://jokiruiz.com) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/JoaquinRuiz/SpecJudge) · [官网](https://jokiruiz.com) · 个人维护
 
 **读取规格文档并推荐性价比最合适 AI 模型的本地 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JoaquinRuiz/SpecJudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 60（+1）
 
 
 ---

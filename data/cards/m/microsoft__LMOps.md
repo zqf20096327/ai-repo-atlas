@@ -1,6 +1,6 @@
 # microsoft/LMOps
 
-⭐ 4,484 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/LMOps) · [官网](https://aka.ms/GeneralAI) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软的 LLM/基础模型技术集合：提示优化、推理加速等研究项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

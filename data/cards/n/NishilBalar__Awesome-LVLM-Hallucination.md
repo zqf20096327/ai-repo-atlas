@@ -1,6 +1,6 @@
 # NishilBalar/Awesome-LVLM-Hallucination
 
-⭐ 333 · 推送 2026-08-28 · [GitHub](https://github.com/NishilBalar/Awesome-LVLM-Hallucination) · 个人维护
+⭐ 334 · 推送 2026-08-28 · [GitHub](https://github.com/NishilBalar/Awesome-LVLM-Hallucination) · 个人维护
 
 **LVLM 幻觉研究论文与基准的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "NishilBalar/Awesome-LVLM-Hallucination 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 332 --> 335
-    line [334, 333, 333]
+    line [334, 333, 334]
 ```
 
-2026-10-18 334 → 2026-10-26 333（-1）
+2026-10-18 334 → 2026-10-27 334（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI
 
-⭐ 2,799 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI) · [官网](https://neptunehub.github.io/AudioMuse-AI/) · 组织维护
+⭐ 2,806 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI) · [官网](https://neptunehub.github.io/AudioMuse-AI/) · 组织维护
 
 **自托管音乐库声学分析与智能歌单生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeptuneHub/AudioMuse-AI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2730 --> 2805
-    line [2736, 2756, 2783, 2789, 2797, 2799]
+    title "NeptuneHub/AudioMuse-AI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2729 --> 2813
+    line [2736, 2756, 2783, 2789, 2797, 2799, 2806]
 ```
 
-2026-10-18 2,736 → 2026-10-26 2,799（+63）
+2026-10-18 2,736 → 2026-10-27 2,806（+70）
 
 
 ---

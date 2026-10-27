@@ -1,6 +1,6 @@
 # anthropics/claude-desktop-buddy
 
-⭐ 2,670 · C++ · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/anthropics/claude-desktop-buddy) · 组织维护
+⭐ 2,677 · C++ · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/anthropics/claude-desktop-buddy) · 组织维护
 
 **Claude 桌面端 BLE API 参考实现：ESP32 桌宠硬件示例**
 
@@ -46,12 +46,12 @@ Anthropic 官方仓库，提供 Claude for macOS/Windows 连接外设的蓝牙�
 ```mermaid
 xychart-beta
     title "anthropics/claude-desktop-buddy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2655 --> 2671
-    line [2656, 2658, 2663, 2665, 2669, 2670, 2670]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2654 --> 2679
+    line [2656, 2658, 2663, 2665, 2669, 2670, 2677]
 ```
 
-2026-10-18 2,656 → 2026-10-26 2,670（+14）
+2026-10-18 2,656 → 2026-10-27 2,677（+21）
 
 
 ---

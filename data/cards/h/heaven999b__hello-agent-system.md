@@ -1,6 +1,6 @@
 # heaven999b/hello-agent-system
 
-⭐ 304 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/heaven999b/hello-agent-system) · 个人维护 · 中文 README
+⭐ 305 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/heaven999b/hello-agent-system) · 个人维护 · 中文 README
 
 **中英双语企业级 Agent 系统设计课程，含可运行的 agentkit 运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "heaven999b/hello-agent-system 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 216 --> 312
-    line [224, 251, 276, 282, 293, 302, 304]
+    title "heaven999b/hello-agent-system 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 216 --> 313
+    line [224, 251, 276, 282, 293, 302, 304, 305]
 ```
 
-2026-10-18 224 → 2026-10-26 304（+80）
+2026-10-18 224 → 2026-10-27 305（+81）
 
 
 ---

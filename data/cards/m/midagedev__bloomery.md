@@ -1,6 +1,6 @@
 # midagedev/bloomery
 
-⭐ 54 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/midagedev/bloomery) · 个人维护
+⭐ 54 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/midagedev/bloomery) · 个人维护
 
 **面向 MoE 模型的 GPU+CPU 混合推理引擎，llama-server 兼容**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "midagedev/bloomery 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "midagedev/bloomery 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 24 --> 56
-    line [26, 49, 52, 53, 54]
+    line [26, 49, 52, 53, 54, 54]
 ```
 
-2026-10-18 26 → 2026-10-26 54（+28）
+2026-10-18 26 → 2026-10-27 54（+28）
 
 
 ---

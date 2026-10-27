@@ -1,6 +1,6 @@
 # tensorflow/privacy
 
-⭐ 2,039 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/privacy) · 组织维护
+⭐ 2,038 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tensorflow/privacy) · 组织维护
 
 **TensorFlow 差分隐私训练库：DP 优化器与隐私保证分析工具**
 
@@ -45,12 +45,12 @@ TensorFlow Privacy 是 Google 维护的 Python 库，提供差分隐私版 Tenso
 ```mermaid
 xychart-beta
     title "tensorflow/privacy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2038 --> 2041
-    line [2040, 2039, 2039]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2037 --> 2041
+    line [2040, 2039, 2038]
 ```
 
-2026-10-18 2,040 → 2026-10-26 2,039（-1）
+2026-10-18 2,040 → 2026-10-27 2,038（-2）
 
 
 ---

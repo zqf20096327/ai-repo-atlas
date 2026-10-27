@@ -1,6 +1,6 @@
 # Somnusochi/VLM-AutoYOLO
 
-⭐ 268 · Python · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/Somnusochi/VLM-AutoYOLO) · 个人维护 · 中文 README
+⭐ 269 · Python · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/Somnusochi/VLM-AutoYOLO) · 个人维护 · 中文 README
 
 **VLM 自动标注与 YOLO 训练一体化平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Somnusochi/VLM-AutoYOLO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 263 --> 269
-    line [264, 266, 267, 268, 268]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 263 --> 270
+    line [264, 266, 267, 268, 269]
 ```
 
-2026-10-18 264 → 2026-10-26 268（+4）
+2026-10-18 264 → 2026-10-27 269（+5）
 
 
 ---

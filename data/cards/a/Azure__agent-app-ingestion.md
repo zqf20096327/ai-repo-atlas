@@ -46,12 +46,12 @@ Python 3.12 编写的摄取服务，面向 Agent Landing Zone 平台：读取 PD
 ```mermaid
 xychart-beta
     title "Azure/agent-app-ingestion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 187 --> 189
     line [188, 188]
 ```
 
-2026-10-18 188 → 2026-10-26 188（+0）
+2026-10-18 188 → 2026-10-27 188（+0）
 
 
 ---

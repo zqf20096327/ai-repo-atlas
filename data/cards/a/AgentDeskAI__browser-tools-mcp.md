@@ -1,6 +1,6 @@
 # AgentDeskAI/browser-tools-mcp
 
-⭐ 7,332 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) · [官网](https://agentdesk.ai/) · 组织维护
+⭐ 7,335 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) · [官网](https://agentdesk.ai/) · 组织维护
 
 **MCP 服务器：把真实 Chrome 会话的日志/网络/截图/审计流给 AI 编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgentDeskAI/browser-tools-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7327 --> 7333
-    line [7328, 7329, 7330, 7331, 7332, 7332]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 7327 --> 7336
+    line [7328, 7329, 7330, 7331, 7332, 7335]
 ```
 
-2026-10-18 7,328 → 2026-10-26 7,332（+4）
+2026-10-18 7,328 → 2026-10-27 7,335（+7）
 
 
 ---

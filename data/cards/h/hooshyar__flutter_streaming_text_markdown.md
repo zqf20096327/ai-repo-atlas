@@ -1,6 +1,6 @@
 # hooshyar/flutter_streaming_text_markdown
 
-⭐ 38 · Dart · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hooshyar/flutter_streaming_text_markdown) · [官网](https://hooshyar.github.io/flutter_streaming_text_markdown/) · 个人维护
+⭐ 38 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hooshyar/flutter_streaming_text_markdown) · [官网](https://hooshyar.github.io/flutter_streaming_text_markdown/) · 个人维护
 
 **Flutter 组件：将 LLM 流式输出实时渲染为 markdown**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hooshyar/flutter_streaming_text_markdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/harmony
 
-⭐ 4,532 · Rust · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/openai/harmony) · 组织维护
+⭐ 4,535 · Rust · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/openai/harmony) · 组织维护
 
 **gpt-oss 的 harmony 响应格式渲染与解析库（Rust/Python）**
 
@@ -44,13 +44,13 @@ OpenAI 为其开放权重模型系列 gpt-oss 所用 harmony 响应格式提供�
 
 ```mermaid
 xychart-beta
-    title "openai/harmony 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4527 --> 4534
-    line [4528, 4531, 4533, 4531, 4532]
+    title "openai/harmony 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4527 --> 4536
+    line [4528, 4531, 4533, 4531, 4532, 4535]
 ```
 
-2026-10-18 4,528 → 2026-10-26 4,532（+4）
+2026-10-18 4,528 → 2026-10-27 4,535（+7）
 
 
 ---

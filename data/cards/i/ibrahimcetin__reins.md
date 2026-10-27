@@ -1,6 +1,6 @@
 # ibrahimcetin/reins
 
-⭐ 555 · Dart · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/ibrahimcetin/reins) · [官网](https://getreins.app) · 个人维护
+⭐ 556 · Dart · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/ibrahimcetin/reins) · [官网](https://getreins.app) · 个人维护
 
 **面向苹果设备的本地 AI 聊天应用：连接本地服务器或端侧运行模型**
 
@@ -45,13 +45,13 @@ iPhone/iPad/Mac 平台的私有 AI 聊天应用，无登录与数据收集，聊
 
 ```mermaid
 xychart-beta
-    title "ibrahimcetin/reins 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 551 --> 556
-    line [552, 553, 552, 554, 555]
+    title "ibrahimcetin/reins 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 551 --> 557
+    line [552, 553, 552, 554, 555, 556]
 ```
 
-2026-10-18 552 → 2026-10-26 555（+3）
+2026-10-18 552 → 2026-10-27 556（+4）
 
 
 ---

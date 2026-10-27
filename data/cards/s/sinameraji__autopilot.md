@@ -1,6 +1,6 @@
 # sinameraji/autopilot
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sinameraji/autopilot) · [官网](https://directionallylocal.com/autopilot) · 个人维护
+⭐ 177 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sinameraji/autopilot) · [官网](https://directionallylocal.com/autopilot) · 个人维护
 
 **自带密钥的终端编码 agent 与 SDK，支持 25+ 提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sinameraji/autopilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-10-26 177（+0）
+2026-10-18 177 → 2026-10-27 177（+0）
 
 
 ---

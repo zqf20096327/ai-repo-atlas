@@ -1,6 +1,6 @@
 # agentty-org/agentty
 
-⭐ 617 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentty-org/agentty) · [官网](https://agentty.org) · 组织维护
+⭐ 617 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/agentty-org/agentty) · [官网](https://agentty.org) · 组织维护
 
 **终端 AI 结对编程工具：单一静态二进制，任意模型接入**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "agentty-org/agentty 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 616 --> 626
     line [625, 624, 623, 617, 617]
 ```
 
-2026-10-19 625 → 2026-10-26 617（-8）
+2026-10-19 625 → 2026-10-27 617（-8）
 
 
 ---

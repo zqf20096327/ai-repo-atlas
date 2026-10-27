@@ -1,6 +1,6 @@
 # hegongshan/Storage-for-AI-Paper
 
-⭐ 67 · 推送 2026-10-08 · [GitHub](https://github.com/hegongshan/Storage-for-AI-Paper) · 个人维护
+⭐ 67 · 推送 2026-10-26 · [GitHub](https://github.com/hegongshan/Storage-for-AI-Paper) · 个人维护
 
 **存储视角加速 AI 训练与推理的必读论文清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hegongshan/Storage-for-AI-Paper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-26 67（+0）
+2026-10-18 67 → 2026-10-27 67（+0）
 
 
 ---

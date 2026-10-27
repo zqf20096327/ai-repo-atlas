@@ -1,6 +1,6 @@
 # sleepinginsummer/agent-database-cli
 
-⭐ 35 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sleepinginsummer/agent-database-cli) · [官网](https://www.npmjs.com/package/agent-database-cli) · 个人维护 · 中文 README
+⭐ 35 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sleepinginsummer/agent-database-cli) · [官网](https://www.npmjs.com/package/agent-database-cli) · 个人维护 · 中文 README
 
 **面向 Agent 的多数据库本地 CLI：连接、查询、元信息与权限控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sleepinginsummer/agent-database-cli 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-19 35 → 2026-10-26 35（+0）
+2026-10-19 35 → 2026-10-27 35（+0）
 
 
 ---

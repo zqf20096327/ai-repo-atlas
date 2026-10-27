@@ -1,6 +1,6 @@
 # aiagenta2z/ai-agent-marketplace
 
-⭐ 58 · Python · 推送 2026-10-25 · [GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) · [官网](https://www.deepnlp.org/store/ai-agent) · 组织维护 · 中文 README
+⭐ 58 · Python · 推送 2026-10-26 · [GitHub](https://github.com/aiagenta2z/ai-agent-marketplace) · [官网](https://www.deepnlp.org/store/ai-agent) · 组织维护 · 中文 README
 
 **面向开发者的 AI Agent 目录与注册平台：收录、部署与变现**
 
@@ -45,12 +45,12 @@ DeepNLP 运营的 AI Agent 市场与索引服务：从 GitHub/HuggingFace/Produc
 ```mermaid
 xychart-beta
     title "aiagenta2z/ai-agent-marketplace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

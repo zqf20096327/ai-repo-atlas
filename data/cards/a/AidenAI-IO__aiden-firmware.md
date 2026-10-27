@@ -1,6 +1,6 @@
 # AidenAI-IO/aiden-firmware
 
-⭐ 65 · Go · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/AidenAI-IO/aiden-firmware) · [官网](https://aidenai.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **移动设备 AI Agent 开发板固件：HDMI 观测 + USB HID 控制手机**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | NOASSERTION |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # rupeshs/filedig
 
-⭐ 38 · Rust · MIT · 推送 2026-10-11 · [GitHub](https://github.com/rupeshs/filedig) · 个人维护
+⭐ 39 · Rust · MIT · 推送 2026-10-11 · [GitHub](https://github.com/rupeshs/filedig) · 个人维护
 
 **Windows 本地语义文件搜索：按内容找文档与图片**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rupeshs/filedig 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 35 --> 39
-    line [37, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 35 --> 40
+    line [37, 36, 37, 38, 39]
 ```
 
-2026-10-18 37 → 2026-10-26 38（+1）
+2026-10-18 37 → 2026-10-27 39（+2）
 
 
 ---

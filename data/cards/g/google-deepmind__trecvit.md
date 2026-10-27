@@ -1,6 +1,6 @@
 # google-deepmind/trecvit
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/google-deepmind/trecvit) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/google-deepmind/trecvit) · 组织维护
 
 **高效视频建模的循环 Transformer 架构：LRU 时序混合+空间自注意力**
 
@@ -46,12 +46,12 @@ Google DeepMind 发布的视频模型架构 TRecViT：用门控线性循环单�
 ```mermaid
 xychart-beta
     title "google-deepmind/trecvit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

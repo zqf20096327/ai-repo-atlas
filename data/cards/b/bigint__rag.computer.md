@@ -46,12 +46,12 @@ bigRAG 是基于 Turbopuffer 的开源自托管 RAG 平台，通过统一 REST A
 ```mermaid
 xychart-beta
     title "bigint/rag.computer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-26 100（+0）
+2026-10-18 100 → 2026-10-27 100（+0）
 
 
 ---

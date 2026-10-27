@@ -45,12 +45,12 @@ Google DeepMind Superhuman Reasoning 团队（Thang Luong 领导）的聚合仓�
 ```mermaid
 xychart-beta
     title "google-deepmind/superhuman 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 805 --> 809
     line [808, 807, 806, 806]
 ```
 
-2026-10-18 808 → 2026-10-26 806（-2）
+2026-10-18 808 → 2026-10-27 806（-2）
 
 
 ---

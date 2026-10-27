@@ -1,6 +1,6 @@
 # bcorfman/raven-checkers
 
-⭐ 32 · Python · MIT-0 · 推送 2026-10-20 · [GitHub](https://github.com/bcorfman/raven-checkers) · 个人维护
+⭐ 32 · Python · MIT-0 · 推送 2026-10-25 · [GitHub](https://github.com/bcorfman/raven-checkers) · 个人维护
 
 **开源 Python 跳棋游戏，内置 AI 对手与棋局学习功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bcorfman/raven-checkers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

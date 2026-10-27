@@ -1,6 +1,6 @@
 # 1diot9/VulnHunter-White
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/1diot9/VulnHunter-White) · 个人维护 · 中文 README
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/1diot9/VulnHunter-White) · 个人维护 · 中文 README
 
 **面向安全研究者的 LLM 白盒漏洞挖掘 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1diot9/VulnHunter-White 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-10-26 31（+1）
+2026-10-18 30 → 2026-10-27 32（+2）
 
 
 ---

@@ -44,12 +44,12 @@ Shinkai 的 Rust 后端节点：支持不写代码地创建 AI agent、定义任
 ```mermaid
 xychart-beta
     title "dcSpark/shinkai-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-26 66（+0）
+2026-10-18 66 → 2026-10-27 66（+0）
 
 
 ---

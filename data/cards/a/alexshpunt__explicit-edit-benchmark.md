@@ -1,6 +1,6 @@
 # alexshpunt/explicit-edit-benchmark
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexshpunt/explicit-edit-benchmark) · [官网](https://huggingface.co/spaces/alexshpunt/benchmark-explorer) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alexshpunt/explicit-edit-benchmark) · [官网](https://huggingface.co/spaces/alexshpunt/benchmark-explorer) · 个人维护
 
 **评测编码代理文件编辑精度的开源基准（226 项字节级任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexshpunt/explicit-edit-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-26 40（+0）
+2026-10-18 40 → 2026-10-27 40（+0）
 
 
 ---

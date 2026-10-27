@@ -1,6 +1,6 @@
 # linuztx/alter-zero
 
-⭐ 91 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/linuztx/alter-zero) · 个人维护
+⭐ 95 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/linuztx/alter-zero) · 个人维护
 
 **Rust 编写的终端 AI 编程 agent，兼做安全研究与自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "linuztx/alter-zero 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 44 --> 95
-    line [48, 57, 64, 70, 76, 91]
+    title "linuztx/alter-zero 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 44 --> 99
+    line [48, 57, 64, 70, 76, 91, 95]
 ```
 
-2026-10-18 48 → 2026-10-26 91（+43）
+2026-10-18 48 → 2026-10-27 95（+47）
 
 
 ---

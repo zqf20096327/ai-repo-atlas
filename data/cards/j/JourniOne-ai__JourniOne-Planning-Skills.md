@@ -1,6 +1,6 @@
 # JourniOne-ai/JourniOne-Planning-Skills
 
-⭐ 1,173 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/JourniOne-ai/JourniOne-Planning-Skills) · [官网](https://journione.ai/) · 组织维护 · 中文 README
+⭐ 1,174 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/JourniOne-ai/JourniOne-Planning-Skills) · [官网](https://journione.ai/) · 组织维护 · 中文 README
 
 **给 AI 客户端的旅行规划 Skill：生成逐日路线与可分享 Travel Journal**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JourniOne-ai/JourniOne-Planning-Skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 938 --> 1194
-    line [959, 1009, 1055, 1092, 1119, 1150, 1173]
+    title "JourniOne-ai/JourniOne-Planning-Skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 938 --> 1195
+    line [959, 1009, 1055, 1092, 1119, 1150, 1173, 1174]
 ```
 
-2026-10-18 959 → 2026-10-26 1,173（+214）
+2026-10-18 959 → 2026-10-27 1,174（+215）
 
 
 ---

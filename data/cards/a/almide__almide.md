@@ -1,6 +1,6 @@
 # almide/almide
 
-⭐ 35 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/almide/almide) · [官网](https://almide.github.io/docs/) · 组织维护
+⭐ 35 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/almide/almide) · [官网](https://almide.github.io/docs/) · 组织维护
 
 **面向 LLM 代码生成的静态类型语言，错误诊断直接给出修复**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "almide/almide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

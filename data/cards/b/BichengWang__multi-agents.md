@@ -1,6 +1,6 @@
 # BichengWang/multi-agents
 
-⭐ 120 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/BichengWang/multi-agents) · [官网](https://bichengwang.github.io/multi-agents/) · 个人维护
+⭐ 133 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BichengWang/multi-agents) · [官网](https://bichengwang.github.io/multi-agents/) · 个人维护
 
 **编排编码 agent 团队并测量其效果的运行器与基准**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BichengWang/multi-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 71 --> 124
-    line [84, 75, 101, 119, 120]
+    title "BichengWang/multi-agents 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 70 --> 138
+    line [84, 75, 101, 119, 120, 133]
 ```
 
-2026-10-18 84 → 2026-10-26 120（+36）
+2026-10-18 84 → 2026-10-27 133（+49）
 
 
 ---

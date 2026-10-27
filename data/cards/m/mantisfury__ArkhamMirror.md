@@ -1,6 +1,6 @@
 # mantisfury/ArkhamMirror
 
-⭐ 497 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/mantisfury/ArkhamMirror) · 个人维护
+⭐ 498 · Python · MIT · 推送 2026-01-25 · [GitHub](https://github.com/mantisfury/ArkhamMirror) · 个人维护
 
 **本地优先的调查性文档情报分析平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mantisfury/ArkhamMirror 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 493 --> 498
-    line [495, 494, 495, 496, 497]
+    title "mantisfury/ArkhamMirror 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 493 --> 499
+    line [495, 494, 495, 496, 497, 498]
 ```
 
-2026-10-18 495 → 2026-10-26 497（+2）
+2026-10-18 495 → 2026-10-27 498（+3）
 
 
 ---

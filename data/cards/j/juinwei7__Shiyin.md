@@ -1,6 +1,6 @@
 # juinwei7/Shiyin
 
-⭐ 112 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/juinwei7/Shiyin) · [官网](https://shiyin.weibuilds.com) · 个人维护 · 中文 README
+⭐ 114 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/juinwei7/Shiyin) · [官网](https://shiyin.weibuilds.com) · 个人维护 · 中文 README
 
 **macOS/Windows 本地会议转录与笔记应用（拾音）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juinwei7/Shiyin 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 64 --> 116
-    line [68, 102, 109, 110, 112]
+    title "juinwei7/Shiyin 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 64 --> 118
+    line [68, 102, 109, 110, 112, 114]
 ```
 
-2026-10-22 68 → 2026-10-26 112（+44）
+2026-10-22 68 → 2026-10-27 114（+46）
 
 
 ---

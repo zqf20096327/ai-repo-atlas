@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeyism/opencode-history-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "joeyism/opencode-history-search 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 128 --> 131
-    line [129, 130]
+    line [129, 130, 130]
 ```
 
-2026-10-18 129 → 2026-10-26 130（+1）
+2026-10-18 129 → 2026-10-27 130（+1）
 
 
 ---

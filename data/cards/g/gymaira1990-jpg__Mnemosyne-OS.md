@@ -1,6 +1,6 @@
 # gymaira1990-jpg/Mnemosyne-OS
 
-⭐ 31 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/gymaira1990-jpg/Mnemosyne-OS) · [官网](https://g-cat.cn) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gymaira1990-jpg/Mnemosyne-OS) · [官网](https://g-cat.cn) · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管长期记忆系统（认知记忆 OS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gymaira1990-jpg/Mnemosyne-OS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 30 --> 33
     line [32, 31, 31]
 ```
 
-2026-10-18 32 → 2026-10-26 31（-1）
+2026-10-18 32 → 2026-10-27 31（-1）
 
 
 ---

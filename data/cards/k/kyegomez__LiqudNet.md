@@ -1,6 +1,6 @@
 # kyegomez/LiqudNet
 
-⭐ 72 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/LiqudNet) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/LiqudNet) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **LiquidNet（液态神经网络）的 PyTorch 实现，含视觉变体**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/LiqudNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-26 72（+0）
+2026-10-18 72 → 2026-10-27 72（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # CloudLLM-ai/mentisdb
 
-⭐ 87 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CloudLLM-ai/mentisdb) · [官网](https://mentisdb.com) · 组织维护
+⭐ 90 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/CloudLLM-ai/mentisdb) · [官网](https://mentisdb.com) · 组织维护
 
 **给 AI agent 的持久记忆引擎与版本化技能注册库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CloudLLM-ai/mentisdb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 85 --> 91
+    line [86, 87, 90]
 ```
 
-2026-10-18 86 → 2026-10-26 87（+1）
+2026-10-18 86 → 2026-10-27 90（+4）
 
 
 ---

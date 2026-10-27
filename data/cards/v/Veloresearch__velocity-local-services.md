@@ -1,6 +1,6 @@
 # Veloresearch/velocity-local-services
 
-⭐ 34 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Veloresearch/velocity-local-services) · [官网](https://veloresearch.com/vls) · 组织维护
+⭐ 34 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Veloresearch/velocity-local-services) · [官网](https://veloresearch.com/vls) · 组织维护
 
 **本地运行 GGUF 模型的桌面应用：聊天、语音、电脑操作与 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Veloresearch/velocity-local-services 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 34（+1）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

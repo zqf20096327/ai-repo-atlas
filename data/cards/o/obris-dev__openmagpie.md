@@ -1,6 +1,6 @@
 # obris-dev/openmagpie
 
-⭐ 75 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/obris-dev/openmagpie) · [官网](https://www.openmagpie.ai) · 组织维护
+⭐ 78 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/obris-dev/openmagpie) · [官网](https://www.openmagpie.ai) · 组织维护
 
 **自托管社交监听工具：用本地 LLM 对社区帖子做相关性筛选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "obris-dev/openmagpie 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 68 --> 76
-    line [69, 70, 71, 73, 75]
+    title "obris-dev/openmagpie 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 68 --> 79
+    line [69, 70, 71, 73, 75, 78]
 ```
 
-2026-10-18 69 → 2026-10-26 75（+6）
+2026-10-18 69 → 2026-10-27 78（+9）
 
 
 ---

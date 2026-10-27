@@ -1,6 +1,6 @@
 # liguodongiot/llm-action
 
-⭐ 25,214 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/liguodongiot/llm-action) · [官网](https://www.zhihu.com/column/c_1456193767213043713) · 个人维护 · 中文 README
+⭐ 25,225 · HTML · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/liguodongiot/llm-action) · [官网](https://www.zhihu.com/column/c_1456193767213043713) · 个人维护 · 中文 README
 
 **大模型工程化与实践教程合集：覆盖训练、推理、压缩、评测**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "liguodongiot/llm-action 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 25176 --> 25217
-    line [25179, 25186, 25198, 25208, 25210, 25214]
+    title "liguodongiot/llm-action 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 25175 --> 25229
+    line [25179, 25186, 25198, 25208, 25210, 25214, 25225]
 ```
 
-2026-10-18 25,179 → 2026-10-26 25,214（+35）
+2026-10-18 25,179 → 2026-10-27 25,225（+46）
 
 
 ---

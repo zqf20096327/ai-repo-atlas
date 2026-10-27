@@ -1,6 +1,6 @@
 # Peiiii/nextclaw
 
-⭐ 262 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Peiiii/nextclaw) · [官网](https://nextclaw.io) · 个人维护 · 中文 README
+⭐ 262 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Peiiii/nextclaw) · [官网](https://nextclaw.io) · 个人维护 · 中文 README
 
 **面向个人的长期 AI 伙伴：本地优先的桌面 Agent 工作台**
 
@@ -46,12 +46,12 @@ NextClaw 是开源、本地优先的个人 AI 助手应用：用户以目标发�
 ```mermaid
 xychart-beta
     title "Peiiii/nextclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 261 --> 263
     line [262, 262]
 ```
 
-2026-10-18 262 → 2026-10-26 262（+0）
+2026-10-18 262 → 2026-10-27 262（+0）
 
 
 ---

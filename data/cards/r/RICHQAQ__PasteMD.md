@@ -1,6 +1,6 @@
 # RICHQAQ/PasteMD
 
-⭐ 5,396 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/RICHQAQ/PasteMD) · [官网](https://pastemd.richqaq.cn/) · 个人维护 · 中文 README
+⭐ 5,397 · Python · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/RICHQAQ/PasteMD) · [官网](https://pastemd.richqaq.cn/) · 个人维护 · 中文 README
 
 **常驻托盘工具：一键把 Markdown/AI 网页回复粘贴进 Word/WPS/Excel**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RICHQAQ/PasteMD 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5383 --> 5397
-    line [5384, 5388, 5389, 5392, 5393, 5395, 5396]
+    title "RICHQAQ/PasteMD 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5383 --> 5398
+    line [5384, 5388, 5389, 5392, 5393, 5395, 5396, 5397]
 ```
 
-2026-10-18 5,384 → 2026-10-26 5,396（+12）
+2026-10-18 5,384 → 2026-10-27 5,397（+13）
 
 
 ---

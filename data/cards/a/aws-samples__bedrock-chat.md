@@ -1,6 +1,6 @@
 # aws-samples/bedrock-chat
 
-⭐ 1,324 · TypeScript · MIT-0 · 推送 2026-10-21 · [GitHub](https://github.com/aws-samples/bedrock-chat) · 组织维护 · 中文 README
+⭐ 1,324 · TypeScript · MIT-0 · 推送 2026-10-26 · [GitHub](https://github.com/aws-samples/bedrock-chat) · 组织维护 · 中文 README
 
 **基于 Amazon Bedrock 的多语言生成式 AI 对话平台**
 
@@ -46,12 +46,12 @@ AWS 官方 samples 出品的生成式 AI 聊天平台：基于 Amazon Bedrock �
 ```mermaid
 xychart-beta
     title "aws-samples/bedrock-chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1323 --> 1326
     line [1324, 1325, 1324, 1324]
 ```
 
-2026-10-18 1,324 → 2026-10-26 1,324（+0）
+2026-10-18 1,324 → 2026-10-27 1,324（+0）
 
 
 ---

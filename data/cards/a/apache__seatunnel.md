@@ -1,6 +1,6 @@
 # apache/seatunnel
 
-⭐ 9,757 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/apache/seatunnel) · [官网](https://seatunnel.apache.org/) · 组织维护
+⭐ 9,763 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apache/seatunnel) · [官网](https://seatunnel.apache.org/) · 组织维护
 
 **分布式多模态数据集成工具：同步海量异构数据**
 
@@ -44,13 +44,13 @@ Apache 基金会下的分布式数据集成工具，提供 160 余个 Source/Sin
 
 ```mermaid
 xychart-beta
-    title "apache/seatunnel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9729 --> 9759
-    line [9733, 9731, 9743, 9750, 9752, 9757]
+    title "apache/seatunnel 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9728 --> 9766
+    line [9733, 9731, 9743, 9750, 9752, 9757, 9763]
 ```
 
-2026-10-18 9,733 → 2026-10-26 9,757（+24）
+2026-10-18 9,733 → 2026-10-27 9,763（+30）
 
 
 ---

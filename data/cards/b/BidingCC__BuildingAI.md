@@ -1,6 +1,6 @@
 # BidingCC/BuildingAI
 
-⭐ 1,918 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/BidingCC/BuildingAI) · [官网](https://www.buildingai.cc) · 组织维护 · 中文 README
+⭐ 1,919 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/BidingCC/BuildingAI) · [官网](https://www.buildingai.cc) · 组织维护 · 中文 README
 
 **积木式可视化搭建企业 AI 应用与智能体的开源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BidingCC/BuildingAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1911 --> 1920
-    line [1912, 1914, 1917, 1919, 1918, 1918]
+    line [1912, 1914, 1917, 1919, 1918, 1919]
 ```
 
-2026-10-18 1,912 → 2026-10-26 1,918（+6）
+2026-10-18 1,912 → 2026-10-27 1,919（+7）
 
 
 ---

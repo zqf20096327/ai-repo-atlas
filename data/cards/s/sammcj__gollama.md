@@ -1,6 +1,6 @@
 # sammcj/gollama
 
-⭐ 1,841 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sammcj/gollama) · [官网](https://smcleod.net) · 个人维护
+⭐ 1,842 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sammcj/gollama) · [官网](https://smcleod.net) · 个人维护
 
 **管理 Ollama 模型的 macOS/Linux TUI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sammcj/gollama 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "sammcj/gollama 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1840 --> 1844
-    line [1841, 1842, 1843, 1842, 1841]
+    line [1841, 1842, 1843, 1842, 1841, 1842]
 ```
 
-2026-10-18 1,841 → 2026-10-26 1,841（+0）
+2026-10-18 1,841 → 2026-10-27 1,842（+1）
 
 
 ---

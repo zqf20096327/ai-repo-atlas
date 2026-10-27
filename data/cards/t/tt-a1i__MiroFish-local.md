@@ -1,6 +1,6 @@
 # tt-a1i/MiroFish-local
 
-⭐ 159 · Python · AGPL-3.0 · 推送 2026-03-17 · [GitHub](https://github.com/tt-a1i/MiroFish-local) · 个人维护 · 中文 README
+⭐ 160 · Python · AGPL-3.0 · 推送 2026-03-17 · [GitHub](https://github.com/tt-a1i/MiroFish-local) · 个人维护 · 中文 README
 
 **MiroFish 的本地化 fork：Graphiti+Neo4j 替代 Zep Cloud 本地跑通**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tt-a1i/MiroFish-local 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 156 --> 160
-    line [157, 158, 159, 159]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 156 --> 161
+    line [157, 158, 159, 160]
 ```
 
-2026-10-18 157 → 2026-10-26 159（+2）
+2026-10-18 157 → 2026-10-27 160（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MolecularAI/REINVENT4
 
-⭐ 883 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MolecularAI/REINVENT4) · 组织维护
+⭐ 884 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MolecularAI/REINVENT4) · 组织维护
 
 **AI 分子设计工具：从头设计、骨架跃迁与分子优化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MolecularAI/REINVENT4 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 877 --> 884
-    line [878, 879, 880, 882, 883]
+    title "MolecularAI/REINVENT4 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 877 --> 885
+    line [878, 879, 880, 882, 883, 884]
 ```
 
-2026-10-18 878 → 2026-10-26 883（+5）
+2026-10-18 878 → 2026-10-27 884（+6）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keirsalterego/jailbreak-fable 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "keirsalterego/jailbreak-fable 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-26 44（+1）
+2026-10-18 43 → 2026-10-27 44（+1）
 
 
 ---

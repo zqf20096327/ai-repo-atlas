@@ -1,6 +1,6 @@
 # wildboar-foundation/wildboar
 
-⭐ 33 · Python · BSD-3-Clause · 推送 2026-04-19 · [GitHub](https://github.com/wildboar-foundation/wildboar) · [官网](https://wildboar.dev) · 个人维护
+⭐ 33 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/wildboar-foundation/wildboar) · [官网](https://wildboar.dev) · 个人维护
 
 **时间序列机器学习 Python 库：分类/回归/解释与快速距离计算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wildboar-foundation/wildboar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

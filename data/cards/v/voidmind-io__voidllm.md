@@ -1,6 +1,6 @@
 # voidmind-io/voidllm
 
-⭐ 145 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/voidmind-io/voidllm) · [官网](https://voidllm.ai) · 组织维护
+⭐ 144 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/voidmind-io/voidllm) · [官网](https://voidllm.ai) · 组织维护
 
 **自托管零知识 LLM 代理与 AI 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "voidmind-io/voidllm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "voidmind-io/voidllm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 141 --> 146
-    line [142, 143, 144, 145]
+    line [142, 143, 144, 145, 144]
 ```
 
-2026-10-18 142 → 2026-10-26 145（+3）
+2026-10-18 142 → 2026-10-27 144（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # RYOITABASHI/Shelly
 
-⭐ 66 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/RYOITABASHI/Shelly) · 个人维护
+⭐ 67 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/RYOITABASHI/Shelly) · 个人维护
 
 **Android 手机上的 AI 终端 IDE 与无人值守 agent 运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RYOITABASHI/Shelly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-26 66（+0）
+2026-10-18 66 → 2026-10-27 67（+1）
 
 
 ---

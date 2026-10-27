@@ -1,6 +1,6 @@
 # AVADSA25/codec
 
-⭐ 109 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AVADSA25/codec) · [官网](https://opencodec.org/) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AVADSA25/codec) · [官网](https://opencodec.org/) · 组织维护
 
 **macOS 语音控制的开源 AI 工作站，本地运行 7 个子产品**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AVADSA25/codec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 107 --> 110
+    line [109, 108]
 ```
 
-2026-10-18 109 → 2026-10-26 109（+0）
+2026-10-18 109 → 2026-10-27 108（-1）
 
 
 ---

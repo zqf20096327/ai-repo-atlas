@@ -1,6 +1,6 @@
 # dair-ai/Prompt-Engineering-Guide
 
-⭐ 79,518 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
+⭐ 79,557 · MDX · MIT · 推送 2026-03-11 · [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide) · [官网](https://www.promptingguide.ai/) · 组织维护
 
 **面向研究者与开发者的提示工程指南：论文、课程、笔记本与资源合集**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "dair-ai/Prompt-Engineering-Guide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 79234 --> 79543
-    line [79259, 79343, 79409, 79438, 79461, 79491, 79518]
+    title "dair-ai/Prompt-Engineering-Guide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 79230 --> 79586
+    line [79259, 79343, 79409, 79438, 79461, 79491, 79518, 79557]
 ```
 
-2026-10-18 79,259 → 2026-10-26 79,518（+259）
+2026-10-18 79,259 → 2026-10-27 79,557（+298）
 
 
 ---

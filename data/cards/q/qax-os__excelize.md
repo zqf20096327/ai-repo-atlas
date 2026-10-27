@@ -1,6 +1,6 @@
 # qax-os/excelize
 
-⭐ 21,016 · Go · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
+⭐ 21,018 · Go · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
 
 **给 Go 开发者的 Excel 读写库：操作 XLSX 等电子表格文件**
 
@@ -50,13 +50,13 @@ Excelize 是纯 Go 编写的库，提供读写 XLAM/XLSM/XLSX/XLTM/XLTX 电子�
 
 ```mermaid
 xychart-beta
-    title "qax-os/excelize 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 20996 --> 21017
-    line [20997, 21005, 21009, 21015, 21016, 21014, 21016]
+    title "qax-os/excelize 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 20995 --> 21020
+    line [20997, 21005, 21009, 21015, 21016, 21014, 21016, 21018]
 ```
 
-2026-10-18 20,997 → 2026-10-26 21,016（+19）
+2026-10-18 20,997 → 2026-10-27 21,018（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # lakeday-org/perch
 
-⭐ 350 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lakeday-org/perch) · [官网](https://perchscan.com) · 组织维护
+⭐ 353 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lakeday-org/perch) · [官网](https://perchscan.com) · 组织维护
 
 **基于决策模型的语义代码检查 CLI，供开发者扫描代码问题**
 
@@ -45,12 +45,12 @@ npm 安装的命令行语义代码检查工具：运行 perch scan 分析代码�
 ```mermaid
 xychart-beta
     title "lakeday-org/perch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 349 --> 360
-    line [353, 357, 359, 350, 350]
+    line [353, 357, 359, 350, 353]
 ```
 
-2026-10-18 353 → 2026-10-26 350（-3）
+2026-10-18 353 → 2026-10-27 353（+0）
 
 
 ---

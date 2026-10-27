@@ -1,6 +1,6 @@
 # MacPaw/ai-sdk-typescript
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MacPaw/ai-sdk-typescript) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MacPaw/ai-sdk-typescript) · 组织维护
 
 **MacPaw AI Gateway 的 TypeScript SDK：统一接入多模型与音视频端点**
 
@@ -45,12 +45,12 @@ MacPaw 官方维护的 Vercel AI SDK 扩展包，为 MacPaw AI Gateway 提供 Op
 ```mermaid
 xychart-beta
     title "MacPaw/ai-sdk-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

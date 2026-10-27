@@ -1,6 +1,6 @@
 # NiceEval/NiceEval
 
-⭐ 161 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 组织维护 · 中文 README
+⭐ 161 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 组织维护 · 中文 README
 
 **用 TypeScript 写类单元测试的 LLM agent 评测框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NiceEval/NiceEval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 159 --> 162
     line [160, 161, 161]
 ```
 
-2026-10-18 160 → 2026-10-26 161（+1）
+2026-10-18 160 → 2026-10-27 161（+1）
 
 
 ---

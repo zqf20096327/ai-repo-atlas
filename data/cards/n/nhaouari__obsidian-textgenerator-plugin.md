@@ -1,6 +1,6 @@
 # nhaouari/obsidian-textgenerator-plugin
 
-⭐ 1,992 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/nhaouari/obsidian-textgenerator-plugin) · [官网](https://text-gen.com/) · 个人维护
+⭐ 1,993 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/nhaouari/obsidian-textgenerator-plugin) · [官网](https://text-gen.com/) · 个人维护
 
 **Obsidian 插件：在笔记库中调用 AI 生成与组织文本内容**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nhaouari/obsidian-textgenerator-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1990 --> 1993
-    line [1992, 1991, 1992, 1992]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1990 --> 1994
+    line [1992, 1991, 1992, 1993]
 ```
 
-2026-10-18 1,992 → 2026-10-26 1,992（+0）
+2026-10-18 1,992 → 2026-10-27 1,993（+1）
 
 
 ---

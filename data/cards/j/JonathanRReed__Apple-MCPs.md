@@ -1,6 +1,6 @@
 # JonathanRReed/Apple-MCPs
 
-⭐ 31 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JonathanRReed/Apple-MCPs) · [官网](https://jonathanrreed.com/projects/apple-mcps/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/JonathanRReed/Apple-MCPs) · [官网](https://jonathanrreed.com/projects/apple-mcps/) · 个人维护
 
 **让 AI agent 经 MCP 操作 macOS 应用（邮件/日历/短信等）的服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JonathanRReed/Apple-MCPs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    title "JonathanRReed/Apple-MCPs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 27 --> 32
-    line [28, 29, 31]
+    line [28, 29, 31, 31]
 ```
 
-2026-10-18 28 → 2026-10-26 31（+3）
+2026-10-18 28 → 2026-10-27 31（+3）
 
 
 ---

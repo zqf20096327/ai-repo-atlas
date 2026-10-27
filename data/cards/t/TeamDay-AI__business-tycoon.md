@@ -1,6 +1,6 @@
 # TeamDay-AI/business-tycoon
 
-⭐ 29 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/TeamDay-AI/business-tycoon) · [官网](https://tycoon.teamday.ai) · 组织维护
+⭐ 30 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/TeamDay-AI/business-tycoon) · [官网](https://tycoon.teamday.ai) · 组织维护
 
 **浏览器直接运行的等距 AI 创业公司模拟经营游戏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TeamDay-AI/business-tycoon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29]
+    title "TeamDay-AI/business-tycoon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 30]
 ```
 
-2026-10-18 27 → 2026-10-26 29（+2）
+2026-10-18 27 → 2026-10-27 30（+3）
 
 
 ---

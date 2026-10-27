@@ -1,6 +1,6 @@
 # Quackone/homr_gui
 
-⭐ 122 · Jupyter Notebook · AGPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/Quackone/homr_gui) · 个人维护 · 中文 README
+⭐ 123 · Jupyter Notebook · AGPL-3.0 · 推送 2026-09-05 · [GitHub](https://github.com/Quackone/homr_gui) · 个人维护 · 中文 README
 
 **光学乐谱识别桌面 GUI：截图/拖图一键转 MusicXML 与 MIDI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Quackone/homr_gui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 115 --> 123
-    line [116, 118, 119, 121, 122, 122]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 115 --> 124
+    line [116, 118, 119, 121, 122, 123]
 ```
 
-2026-10-18 116 → 2026-10-26 122（+6）
+2026-10-18 116 → 2026-10-27 123（+7）
 
 
 ---

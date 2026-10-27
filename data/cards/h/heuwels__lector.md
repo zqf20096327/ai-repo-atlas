@@ -1,6 +1,6 @@
 # heuwels/lector
 
-⭐ 45 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/heuwels/lector) · [官网](https://lector.dev) · 个人维护
+⭐ 45 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/heuwels/lector) · [官网](https://lector.dev) · 个人维护
 
 **语言学习阅读器：导入 EPUB/YouTube，点词翻译、完形 SRS、同步 Anki**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heuwels/lector 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 38 --> 46
     line [39, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 39 → 2026-10-26 45（+6）
+2026-10-18 39 → 2026-10-27 45（+6）
 
 
 ---

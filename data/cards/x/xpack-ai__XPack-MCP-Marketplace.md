@@ -1,6 +1,6 @@
 # xpack-ai/XPack-MCP-Marketplace
 
-⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-05-18 · [GitHub](https://github.com/xpack-ai/XPack-MCP-Marketplace) · [官网](https://xpack.ai) · 组织维护 · 中文 README
+⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xpack-ai/XPack-MCP-Marketplace) · [官网](https://xpack.ai) · 组织维护 · 中文 README
 
 **开源自托管 MCP 交易市场平台，可快速上架并销售 MCP 服务**
 
@@ -46,12 +46,12 @@ XPack 是一个自托管的开源 MCP 市场建站平台：一键将 OpenAPI 转
 ```mermaid
 xychart-beta
     title "xpack-ai/XPack-MCP-Marketplace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 172 --> 174
     line [173, 173]
 ```
 
-2026-10-18 173 → 2026-10-26 173（+0）
+2026-10-18 173 → 2026-10-27 173（+0）
 
 
 ---

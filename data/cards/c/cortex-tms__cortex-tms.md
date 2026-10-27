@@ -1,6 +1,6 @@
 # cortex-tms/cortex-tms
 
-⭐ 180 · MDX · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cortex-tms/cortex-tms) · [官网](https://cortex-tms.org/) · 个人维护
+⭐ 180 · MDX · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cortex-tms/cortex-tms) · [官网](https://cortex-tms.org/) · 个人维护
 
 **为 AI 编码代理生成并校验项目治理文档的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cortex-tms/cortex-tms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 179 --> 181
     line [180, 180]
 ```
 
-2026-10-18 180 → 2026-10-26 180（+0）
+2026-10-18 180 → 2026-10-27 180（+0）
 
 
 ---

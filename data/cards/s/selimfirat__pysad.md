@@ -1,6 +1,6 @@
 # selimfirat/pysad
 
-⭐ 314 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
+⭐ 314 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
 
 **Python 流式异常检测库：逐点打分并校准告警**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "selimfirat/pysad 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 295 --> 315
     line [296, 297, 305, 314, 314]
 ```
 
-2026-10-18 296 → 2026-10-26 314（+18）
+2026-10-18 296 → 2026-10-27 314（+18）
 
 
 ---

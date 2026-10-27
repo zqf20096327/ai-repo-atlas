@@ -1,6 +1,6 @@
 # open-webui/docs
 
-⭐ 904 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
+⭐ 904 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
 
 **Open WebUI 官方文档站：部署、插件、API 与 RAG 使用指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/docs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "open-webui/docs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 895 --> 905
-    line [896, 898, 899, 902, 904]
+    line [896, 898, 899, 902, 904, 904]
 ```
 
-2026-10-18 896 → 2026-10-26 904（+8）
+2026-10-18 896 → 2026-10-27 904（+8）
 
 
 ---

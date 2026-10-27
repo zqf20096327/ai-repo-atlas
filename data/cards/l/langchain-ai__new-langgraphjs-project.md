@@ -45,12 +45,12 @@ LangGraph.js 的空项目模板：核心逻辑在 src/agent/graph.ts 中实现�
 ```mermaid
 xychart-beta
     title "langchain-ai/new-langgraphjs-project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 74 --> 77
     line [76, 75, 75]
 ```
 
-2026-10-18 76 → 2026-10-26 75（-1）
+2026-10-18 76 → 2026-10-27 75（-1）
 
 
 ---

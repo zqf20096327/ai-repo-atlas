@@ -1,6 +1,6 @@
 # erhanmeydan/kilnframe
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
+⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
 
 **把口述内容变成动画插片与配乐的视频剪辑插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "erhanmeydan/kilnframe 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 25 --> 36
-    line [26, 28, 29, 30, 35]
+    title "erhanmeydan/kilnframe 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 23 --> 66
+    line [26, 28, 29, 30, 35, 63]
 ```
 
-2026-10-19 26 → 2026-10-26 35（+9）
+2026-10-19 26 → 2026-10-27 63（+37）
 
 
 ---

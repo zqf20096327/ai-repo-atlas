@@ -45,12 +45,12 @@ VideoDB 官方维护的 Cookbook 仓库，收录用 VideoDB SDK 解决常见任�
 ```mermaid
 xychart-beta
     title "video-db/videodb-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bingyunjiang/more-paper-workflow
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/bingyunjiang/more-paper-workflow) · 个人维护 · 中文 README
+⭐ 32 · Python · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/bingyunjiang/more-paper-workflow) · 个人维护 · 中文 README
 
 **面向中文/双语论文的八步证据闭环 AI 写作工作流 Skill**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bingyunjiang/more-paper-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 32（+1）
 
 
 ---

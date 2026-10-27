@@ -1,6 +1,6 @@
 # pkill37/gitshaman.com
 
-⭐ 77 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/pkill37/gitshaman.com) · [官网](https://gitshaman.com) · 个人维护
+⭐ 77 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/pkill37/gitshaman.com) · [官网](https://gitshaman.com) · 个人维护
 
 **语义代码智能工具：静态源码浏览与本地代码分析 CLI**
 
@@ -46,12 +46,12 @@ GitShaman 是一个 static-first 的 Next.js 源码浏览器，结合 VS Code �
 ```mermaid
 xychart-beta
     title "pkill37/gitshaman.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-26 77（+0）
+2026-10-18 77 → 2026-10-27 77（+0）
 
 
 ---

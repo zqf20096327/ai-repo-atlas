@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Fake-News-Detector
 
-⭐ 126 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/AmirhosseinHonardoust/Fake-News-Detector) · 个人维护
 
 **教育用新闻文本风格风险分类器（TF-IDF+逻辑回归）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Fake-News-Detector 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 125 --> 135
-    line [132, 134, 133, 126, 126]
+    line [132, 134, 133, 126, 127]
 ```
 
-2026-10-18 132 → 2026-10-26 126（-6）
+2026-10-18 132 → 2026-10-27 127（-5）
 
 
 ---

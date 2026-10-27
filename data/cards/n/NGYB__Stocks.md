@@ -1,6 +1,6 @@
 # NGYB/Stocks
 
-⭐ 379 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/NGYB/Stocks) · 个人维护
+⭐ 380 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/NGYB/Stocks) · 个人维护
 
 **股票预测与评估程序集合**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "NGYB/Stocks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 377 --> 380
-    line [378, 379, 379]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 377 --> 381
+    line [378, 379, 380]
 ```
 
-2026-10-18 378 → 2026-10-26 379（+1）
+2026-10-18 378 → 2026-10-27 380（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # CherryHQ/cherry-studio
 
-⭐ 52,967 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
+⭐ 52,999 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
 
 **多模型桌面 AI 客户端：统一接入云/本地 LLM 与助手**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "CherryHQ/cherry-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 52686 --> 52992
-    line [52711, 52762, 52828, 52887, 52920, 52947, 52967]
+    title "CherryHQ/cherry-studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 52683 --> 53027
+    line [52711, 52762, 52828, 52887, 52920, 52947, 52967, 52999]
 ```
 
-2026-10-18 52,711 → 2026-10-26 52,967（+256）
+2026-10-18 52,711 → 2026-10-27 52,999（+288）
 
 
 ---

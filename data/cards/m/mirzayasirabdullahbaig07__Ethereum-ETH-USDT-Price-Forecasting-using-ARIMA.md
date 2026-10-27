@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Ethereum-ETH-USDT-Price-Forecasting-using-ARIMA
 
-⭐ 50 · Jupyter Notebook · 推送 2026-08-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Ethereum-ETH-USDT-Price-Forecasting-using-ARIMA) · 个人维护
+⭐ 51 · Jupyter Notebook · 推送 2026-08-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Ethereum-ETH-USDT-Price-Forecasting-using-ARIMA) · 个人维护
 
 **用 ARIMA 模型预测以太坊（ETH/USDT）未来价格的时间序列分析项目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/Ethereum-ETH-USDT-Price-Forecasting-using-ARIMA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 51（+1）
 
 
 ---

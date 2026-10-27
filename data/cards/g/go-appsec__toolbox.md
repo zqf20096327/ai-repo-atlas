@@ -1,6 +1,6 @@
 # go-appsec/toolbox
 
-⭐ 43 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/go-appsec/toolbox) · 组织维护
+⭐ 43 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/go-appsec/toolbox) · 组织维护
 
 **人机协作应用安全测试工具集：CLI 与 MCP 服务器加内置代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "go-appsec/toolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 43（+0）
 
 
 ---

@@ -45,12 +45,12 @@ FastAPI 应用，提供 OpenAI Vector Stores 兼容的 HTTP 端点：创建/列�
 ```mermaid
 xychart-beta
     title "BerriAI/litellm-pgvector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ToolkitlyAI/awesome-ai-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "ToolkitlyAI/awesome-ai-tools 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 33 --> 37
-    line [34, 35, 36]
+    line [34, 35, 36, 36]
 ```
 
-2026-10-18 34 → 2026-10-26 36（+2）
+2026-10-18 34 → 2026-10-27 36（+2）
 
 
 ---

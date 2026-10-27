@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Maya1_TTS
 
-⭐ 64 · Python · Apache-2.0 · 推送 2025-11-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Maya1_TTS) · [官网](https://huggingface.co/maya-research/maya1) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2025-11-11 · [GitHub](https://github.com/Saganaki22/ComfyUI-Maya1_TTS) · [官网](https://huggingface.co/maya-research/maya1) · 个人维护
 
 **ComfyUI 的 Maya1 语音合成节点：情感化 TTS 与声音设计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Maya1_TTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 63 --> 66
+    line [64, 65]
 ```
 
-2026-10-18 64 → 2026-10-26 64（+0）
+2026-10-18 64 → 2026-10-27 65（+1）
 
 
 ---

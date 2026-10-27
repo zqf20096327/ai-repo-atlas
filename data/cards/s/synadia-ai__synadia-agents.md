@@ -1,6 +1,6 @@
 # synadia-ai/synadia-agents
 
-⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/synadia-ai/synadia-agents) · 组织维护
+⭐ 86 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/synadia-ai/synadia-agents) · 组织维护
 
 **将 AI agent 接入 NATS 的协议 SDK 与预构建通道插件集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "synadia-ai/synadia-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-10-26 86（+0）
+2026-10-18 86 → 2026-10-27 86（+0）
 
 
 ---

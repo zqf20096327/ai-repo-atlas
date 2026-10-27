@@ -1,6 +1,6 @@
 # SirUli/homeassistant-ollama-addon
 
-⭐ 82 · 推送 2026-10-25 · [GitHub](https://github.com/SirUli/homeassistant-ollama-addon) · [官网](https://wolf-u.li) · 个人维护
+⭐ 83 · 推送 2026-10-26 · [GitHub](https://github.com/SirUli/homeassistant-ollama-addon) · [官网](https://wolf-u.li) · 个人维护
 
 **为 Home Assistant 提供 Ollama 的插件仓库封装**
 
@@ -43,12 +43,12 @@ Home Assistant 插件（addon）仓库，用于在 Home Assistant 环境中运�
 ```mermaid
 xychart-beta
     title "SirUli/homeassistant-ollama-addon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-10-26 82（+0）
+2026-10-18 82 → 2026-10-27 83（+1）
 
 
 ---

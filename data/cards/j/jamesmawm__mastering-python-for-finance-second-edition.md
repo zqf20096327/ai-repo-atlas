@@ -46,12 +46,12 @@ Packt 出版书籍的代码仓库，提供全书各章节示例源码，内容�
 ```mermaid
 xychart-beta
     title "jamesmawm/mastering-python-for-finance-second-edition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 471 --> 473
     line [472, 472]
 ```
 
-2026-10-18 472 → 2026-10-26 472（+0）
+2026-10-18 472 → 2026-10-27 472（+0）
 
 
 ---

@@ -46,12 +46,12 @@ CrackSQL 是一个 SQL 方言翻译工具，结合 SQLGlot 规则与大语言模
 ```mermaid
 xychart-beta
     title "OpenDataBox/CrackSQL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

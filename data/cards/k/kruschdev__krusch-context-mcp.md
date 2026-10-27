@@ -1,6 +1,6 @@
 # kruschdev/krusch-context-mcp
 
-⭐ 82 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kruschdev/krusch-context-mcp) · 个人维护
+⭐ 82 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kruschdev/krusch-context-mcp) · 个人维护
 
 **给 AI 编码代理的持久化项目记忆 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kruschdev/krusch-context-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "kruschdev/krusch-context-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 70 --> 83
-    line [71, 72, 76, 82]
+    line [71, 72, 76, 82, 82]
 ```
 
-2026-10-18 71 → 2026-10-26 82（+11）
+2026-10-18 71 → 2026-10-27 82（+11）
 
 
 ---

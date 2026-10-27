@@ -47,12 +47,12 @@ Python 编写的命令行工具，接入 OpenAI、Ollama、Groq、Claude、Gemin
 ```mermaid
 xychart-beta
     title "nazdridoy/ngpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

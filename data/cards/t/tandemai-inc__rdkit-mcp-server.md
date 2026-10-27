@@ -1,6 +1,6 @@
 # tandemai-inc/rdkit-mcp-server
 
-⭐ 42 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/tandemai-inc/rdkit-mcp-server) · [官网](https://tandemai.com) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/tandemai-inc/rdkit-mcp-server) · [官网](https://tandemai.com) · 组织维护
 
 **让语言模型通过自然语言调用 RDKit 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tandemai-inc/rdkit-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 43（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Acly/comfyui-tooling-nodes
 
-⭐ 679 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-tooling-nodes) · 个人维护
+⭐ 680 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-tooling-nodes) · 个人维护
 
 **将 ComfyUI 作为外部工具后端的节点与 HTTP API 扩展**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点集合，面向把 ComfyUI 用作后端的外部工具开
 
 ```mermaid
 xychart-beta
-    title "Acly/comfyui-tooling-nodes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 675 --> 680
-    line [676, 677, 678, 679]
+    title "Acly/comfyui-tooling-nodes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 675 --> 681
+    line [676, 677, 678, 679, 680]
 ```
 
-2026-10-18 676 → 2026-10-26 679（+3）
+2026-10-18 676 → 2026-10-27 680（+4）
 
 
 ---

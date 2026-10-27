@@ -1,6 +1,6 @@
 # huggingface/optimum
 
-⭐ 3,510 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/huggingface/optimum) · [官网](https://huggingface.co/docs/optimum/main/) · 组织维护
+⭐ 3,512 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/optimum) · [官网](https://huggingface.co/docs/optimum/main/) · 组织维护
 
 **加速 Transformers 等模型推理与训练的硬件优化工具库**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的 Transformers、Diffusers、TIMM 与 Sentence-Transformers
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3502 --> 3511
-    line [3503, 3504, 3508, 3509, 3510]
+    title "huggingface/optimum 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3502 --> 3513
+    line [3503, 3504, 3508, 3509, 3510, 3512]
 ```
 
-2026-10-18 3,503 → 2026-10-26 3,510（+7）
+2026-10-18 3,503 → 2026-10-27 3,512（+9）
 
 
 ---

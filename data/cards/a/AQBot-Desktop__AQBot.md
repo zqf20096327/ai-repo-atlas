@@ -1,6 +1,6 @@
 # AQBot-Desktop/AQBot
 
-⭐ 914 · Rust · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/AQBot-Desktop/AQBot) · [官网](https://app.aqbot.top) · 组织维护 · 中文 README
+⭐ 915 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/AQBot-Desktop/AQBot) · [官网](https://app.aqbot.top) · 组织维护 · 中文 README
 
 **本地优先的桌面 AI 工作台：多服务商对话+Agent+知识库+API网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AQBot-Desktop/AQBot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 910 --> 915
-    line [911, 912, 913, 914, 914]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 910 --> 916
+    line [911, 912, 913, 914, 915]
 ```
 
-2026-10-18 911 → 2026-10-26 914（+3）
+2026-10-18 911 → 2026-10-27 915（+4）
 
 
 ---

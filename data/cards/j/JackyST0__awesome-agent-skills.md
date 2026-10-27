@@ -1,6 +1,6 @@
 # JackyST0/awesome-agent-skills
 
-⭐ 657 · JavaScript · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护 · 中文 README
+⭐ 659 · JavaScript · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护 · 中文 README
 
 **面向 AI 编程工具的 Agent Skills 策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JackyST0/awesome-agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 651 --> 658
-    line [653, 652, 653, 655, 657, 657]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 651 --> 660
+    line [653, 652, 653, 655, 657, 659]
 ```
 
-2026-10-18 653 → 2026-10-26 657（+4）
+2026-10-18 653 → 2026-10-27 659（+6）
 
 
 ---

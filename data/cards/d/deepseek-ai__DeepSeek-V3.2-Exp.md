@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-V3.2-Exp
 
-⭐ 1,661 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) · 组织维护 · 中文 README
+⭐ 1,664 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) · 组织维护 · 中文 README
 
 **DeepSeek 实验版大模型权重：引入稀疏注意力的 671B MoE 模型**
 
@@ -44,13 +44,13 @@ DeepSeek-AI 发布的实验性开源大模型权重仓库，基于 V3.1-Terminus
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSeek-V3.2-Exp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1654 --> 1662
-    line [1655, 1656, 1659, 1660, 1661]
+    title "deepseek-ai/DeepSeek-V3.2-Exp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1654 --> 1665
+    line [1655, 1656, 1659, 1660, 1661, 1664]
 ```
 
-2026-10-18 1,655 → 2026-10-26 1,661（+6）
+2026-10-18 1,655 → 2026-10-27 1,664（+9）
 
 
 ---

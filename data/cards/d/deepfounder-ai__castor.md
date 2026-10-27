@@ -1,6 +1,6 @@
 # deepfounder-ai/castor
 
-⭐ 65 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/deepfounder-ai/castor) · [官网](https://qwe-qwe.deepfounder.ai/) · 组织维护
+⭐ 66 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/deepfounder-ai/castor) · [官网](https://qwe-qwe.deepfounder.ai/) · 组织维护
 
 **自托管商业流程 AI agent：客服/自动化/知识检索/定时报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepfounder-ai/castor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-10-26 65（+0）
+2026-10-18 65 → 2026-10-27 66（+1）
 
 
 ---

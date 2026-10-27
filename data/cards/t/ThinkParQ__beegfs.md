@@ -1,6 +1,6 @@
 # ThinkParQ/beegfs
 
-⭐ 234 · C++ · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/ThinkParQ/beegfs) · [官网](https://www.beegfs.io) · 组织维护
+⭐ 235 · C++ · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/ThinkParQ/beegfs) · [官网](https://www.beegfs.io) · 组织维护
 
 **面向 HPC 集群的并行文件系统，解决 I/O 密集型工作负载存储**
 
@@ -45,12 +45,12 @@ BeeGFS（原 FhGFS）是并行集群文件系统，包含元数据服务、存�
 ```mermaid
 xychart-beta
     title "ThinkParQ/beegfs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 231 --> 235
-    line [233, 232, 234, 234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 231 --> 236
+    line [233, 232, 234, 235]
 ```
 
-2026-10-18 233 → 2026-10-26 234（+1）
+2026-10-18 233 → 2026-10-27 235（+2）
 
 
 ---

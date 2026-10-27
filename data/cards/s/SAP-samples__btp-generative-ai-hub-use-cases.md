@@ -45,12 +45,12 @@ SAP 维护的示例仓库，收录 SAP BTP AI Foundation 用例系列各场次�
 ```mermaid
 xychart-beta
     title "SAP-samples/btp-generative-ai-hub-use-cases 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 79（+0）
 
 
 ---

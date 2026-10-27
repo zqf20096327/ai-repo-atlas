@@ -1,6 +1,6 @@
 # FlagOpen/FlagEmbedding
 
-⭐ 12,274 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/FlagOpen/FlagEmbedding) · [官网](http://www.bge-model.com/) · 组织维护 · 中文 README
+⭐ 12,278 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/FlagOpen/FlagEmbedding) · [官网](http://www.bge-model.com/) · 组织维护 · 中文 README
 
 **面向搜索与 RAG 的嵌入/重排序模型工具箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlagOpen/FlagEmbedding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 12255 --> 12275
-    line [12256, 12260, 12266, 12271, 12274]
+    title "FlagOpen/FlagEmbedding 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12254 --> 12280
+    line [12256, 12260, 12266, 12271, 12274, 12278]
 ```
 
-2026-10-18 12,256 → 2026-10-26 12,274（+18）
+2026-10-18 12,256 → 2026-10-27 12,278（+22）
 
 
 ---

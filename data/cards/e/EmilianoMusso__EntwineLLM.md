@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EmilianoMusso/EntwineLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "EmilianoMusso/EntwineLLM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 35 --> 38
-    line [37, 36]
+    line [37, 36, 36]
 ```
 
-2026-10-18 37 → 2026-10-26 36（-1）
+2026-10-18 37 → 2026-10-27 36（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # piesauce/awesome-dLLM-resources
 
-⭐ 58 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/piesauce/awesome-dLLM-resources) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/piesauce/awesome-dLLM-resources) · 个人维护
 
 **扩散大语言模型（dLLM）论文与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "piesauce/awesome-dLLM-resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

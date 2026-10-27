@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Video-Depth-Anything
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything) · 个人维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything) · 个人维护
 
 **ComfyUI 节点：对长视频做一致性深度估计**
 
@@ -44,12 +44,12 @@ Video Depth Anything 的非官方 ComfyUI 实现，以 custom_nodes 形式接入
 ```mermaid
 xychart-beta
     title "yuvraj108c/ComfyUI-Video-Depth-Anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 59（+1）
 
 
 ---

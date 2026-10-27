@@ -1,6 +1,6 @@
 # zdk/lowfat
 
-⭐ 583 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zdk/lowfat) · 个人维护
+⭐ 582 · Rust · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zdk/lowfat) · 个人维护
 
 **缩减 AI agent 上下文体积的 CLI 输出过滤器**
 
@@ -44,13 +44,13 @@ Rust 编写的轻量 CLI 工具，在命令输出与文件内容进入 agent 上
 
 ```mermaid
 xychart-beta
-    title "zdk/lowfat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "zdk/lowfat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 580 --> 584
-    line [581, 582, 583]
+    line [581, 582, 583, 582]
 ```
 
-2026-10-18 581 → 2026-10-26 583（+2）
+2026-10-18 581 → 2026-10-27 582（+1）
 
 
 ---

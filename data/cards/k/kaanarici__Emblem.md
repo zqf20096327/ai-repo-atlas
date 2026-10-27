@@ -1,6 +1,6 @@
 # kaanarici/Emblem
 
-⭐ 27 · Swift · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/kaanarici/Emblem) · 个人维护
+⭐ 30 · Swift · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/kaanarici/Emblem) · 个人维护
 
 **开源 iPhone AI 助手：回答以原生页面而非文字段落呈现**
 
@@ -39,6 +39,18 @@
 
 > L7: Emblem is an iPhone assistant that answers with native pages. Ask about a trip and you get a map and a day-by-day pl
 > L19: - **Any model.** Any OpenRouter model with tool calling and structured outputs (tested with Claude, Gemini, DeepSee
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kaanarici/Emblem 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 26 --> 31
+    line [27, 30]
+```
+
+2026-10-26 27 → 2026-10-27 30（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # rpamis/comet
 
-⭐ 3,232 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 个人维护 · 中文 README
+⭐ 3,234 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 个人维护 · 中文 README
 
 **给编码 Agent 的可断点续跑任务工作流与 Skill 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rpamis/comet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3199 --> 3235
-    line [3202, 3206, 3214, 3215, 3227, 3229, 3232]
+    title "rpamis/comet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3199 --> 3237
+    line [3202, 3206, 3214, 3215, 3227, 3229, 3232, 3234]
 ```
 
-2026-10-18 3,202 → 2026-10-26 3,232（+30）
+2026-10-18 3,202 → 2026-10-27 3,234（+32）
 
 
 ---

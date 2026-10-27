@@ -1,6 +1,6 @@
 # wuwangzhang1216/abliterix
 
-⭐ 263 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/wuwangzhang1216/abliterix) · 个人维护
+⭐ 264 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/wuwangzhang1216/abliterix) · 个人维护
 
 **LLM 拒绝行为消除的自动调参工具：Optuna 搜索最优 abliteration 参数**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuwangzhang1216/abliterix 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 257 --> 264
-    line [258, 259, 260, 262, 263]
+    title "wuwangzhang1216/abliterix 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 257 --> 265
+    line [258, 259, 260, 262, 263, 264]
 ```
 
-2026-10-18 258 → 2026-10-26 263（+5）
+2026-10-18 258 → 2026-10-27 264（+6）
 
 
 ---

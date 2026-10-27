@@ -1,6 +1,6 @@
 # pmndrs/triplex
 
-⭐ 1,330 · TypeScript · 推送 2026-06-11 · [GitHub](https://github.com/pmndrs/triplex) · [官网](https://triplex.dev) · 组织维护
+⭐ 1,331 · TypeScript · 推送 2026-06-11 · [GitHub](https://github.com/pmndrs/triplex) · [官网](https://triplex.dev) · 组织维护
 
 **React / Three Fiber 的开源可视化场景编辑工作台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pmndrs/triplex 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1325 --> 1331
-    line [1326, 1329, 1330, 1330]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 1325 --> 1332
+    line [1326, 1329, 1330, 1331]
 ```
 
-2026-10-18 1,326 → 2026-10-26 1,330（+4）
+2026-10-18 1,326 → 2026-10-27 1,331（+5）
 
 
 ---

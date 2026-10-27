@@ -1,6 +1,6 @@
 # truehot/LMLocal
 
-⭐ 27 · C# · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/truehot/LMLocal) · 个人维护
+⭐ 27 · C# · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/truehot/LMLocal) · 个人维护
 
 **Visual Studio 的 AI 编程助手扩展，支持本地与云端模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "truehot/LMLocal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "truehot/LMLocal 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 26 --> 29
-    line [28, 27]
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-10-26 27（-1）
+2026-10-18 28 → 2026-10-27 27（-1）
 
 
 ---

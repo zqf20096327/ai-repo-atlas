@@ -1,6 +1,6 @@
 # eracle/OpenOutreach
 
-⭐ 3,411 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
+⭐ 3,420 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
 
 **自托管的 B2B 线索挖掘 AI agent：描述产品即找人选人并发信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eracle/OpenOutreach 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3309 --> 3420
-    line [3318, 3336, 3377, 3386, 3394, 3411]
+    title "eracle/OpenOutreach 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3308 --> 3430
+    line [3318, 3336, 3377, 3386, 3394, 3411, 3420]
 ```
 
-2026-10-18 3,318 → 2026-10-26 3,411（+93）
+2026-10-18 3,318 → 2026-10-27 3,420（+102）
 
 
 ---

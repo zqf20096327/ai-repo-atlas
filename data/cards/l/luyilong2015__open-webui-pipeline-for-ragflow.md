@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "luyilong2015/open-webui-pipeline-for-ragflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "luyilong2015/open-webui-pipeline-for-ragflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 176 --> 179
-    line [178, 177]
+    line [178, 177, 177]
 ```
 
-2026-10-18 178 → 2026-10-26 177（-1）
+2026-10-18 178 → 2026-10-27 177（-1）
 
 
 ---

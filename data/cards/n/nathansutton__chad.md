@@ -1,6 +1,6 @@
 # nathansutton/chad
 
-⭐ 143 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nathansutton/chad) · 个人维护
+⭐ 143 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nathansutton/chad) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行的编程 Agent（MLX + 27B 模型）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nathansutton/chad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    title "nathansutton/chad 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 137 --> 144
-    line [138, 140, 141, 143]
+    line [138, 140, 141, 143, 143]
 ```
 
-2026-10-18 138 → 2026-10-26 143（+5）
+2026-10-18 138 → 2026-10-27 143（+5）
 
 
 ---

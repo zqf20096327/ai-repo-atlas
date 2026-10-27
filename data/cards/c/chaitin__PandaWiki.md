@@ -1,6 +1,6 @@
 # chaitin/PandaWiki
 
-⭐ 10,337 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/PandaWiki) · [官网](https://pandawiki.docs.baizhi.cloud/) · 组织维护 · 中文 README
+⭐ 10,340 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/PandaWiki) · [官网](https://pandawiki.docs.baizhi.cloud/) · 组织维护 · 中文 README
 
 **自托管的开源知识库/Wiki 搭建系统，提供 AI 创作、问答与搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chaitin/PandaWiki 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 10323 --> 10338
-    line [10324, 10329, 10331, 10334, 10335, 10337]
+    title "chaitin/PandaWiki 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 10323 --> 10341
+    line [10324, 10329, 10331, 10334, 10335, 10337, 10340]
 ```
 
-2026-10-18 10,324 → 2026-10-26 10,337（+13）
+2026-10-18 10,324 → 2026-10-27 10,340（+16）
 
 
 ---

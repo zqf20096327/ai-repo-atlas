@@ -1,6 +1,6 @@
 # lobehub/chat-plugin-web-crawler
 
-⭐ 66 · HTML · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/chat-plugin-web-crawler) · [官网](http://web-crawler.chat-plugin.lobehub.com) · 组织维护 · 中文 README
+⭐ 67 · HTML · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/chat-plugin-web-crawler) · [官网](http://web-crawler.chat-plugin.lobehub.com) · 组织维护 · 中文 README
 
 **LobeChat 网页抓取插件：抓取指定 URL 正文作对话上下文**
 
@@ -43,12 +43,12 @@ LobeChat 的 Function Calling 插件，接收指定 URL，抓取该网页的主�
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugin-web-crawler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-26 66（+0）
+2026-10-18 66 → 2026-10-27 67（+1）
 
 
 ---

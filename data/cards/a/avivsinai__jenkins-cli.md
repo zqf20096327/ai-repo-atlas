@@ -1,6 +1,6 @@
 # avivsinai/jenkins-cli
 
-⭐ 95 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/avivsinai/jenkins-cli) · [官网](https://github.com/avivsinai/jenkins-cli) · 个人维护
+⭐ 95 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/avivsinai/jenkins-cli) · [官网](https://github.com/avivsinai/jenkins-cli) · 个人维护
 
 **面向 Jenkins 运维者的 GitHub CLI 风格终端工具（Go 单二进制）**
 
@@ -45,12 +45,12 @@ jk 是用 Go 编写的单二进制 CLI，供 Jenkins 运维者在终端中跨文
 ```mermaid
 xychart-beta
     title "avivsinai/jenkins-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 93 --> 96
     line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-10-26 95（+1）
+2026-10-18 94 → 2026-10-27 95（+1）
 
 
 ---

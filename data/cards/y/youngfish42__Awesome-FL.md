@@ -1,6 +1,6 @@
 # youngfish42/Awesome-FL
 
-⭐ 2,021 · Python · CC-BY-SA-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/youngfish42/Awesome-FL) · [官网](https://youngfish42.github.io/Awesome-FL) · 个人维护 · 中文 README
+⭐ 2,022 · Python · CC-BY-SA-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/youngfish42/Awesome-FL) · [官网](https://youngfish42.github.io/Awesome-FL) · 个人维护 · 中文 README
 
 **联邦学习学术资源清单：论文、框架、数据集与教程汇总**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "youngfish42/Awesome-FL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 2019 --> 2022
-    line [2020, 2021, 2021]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 2019 --> 2023
+    line [2020, 2021, 2022]
 ```
 
-2026-10-18 2,020 → 2026-10-26 2,021（+1）
+2026-10-18 2,020 → 2026-10-27 2,022（+2）
 
 
 ---

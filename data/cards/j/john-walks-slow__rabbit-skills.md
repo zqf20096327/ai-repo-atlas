@@ -1,6 +1,6 @@
 # john-walks-slow/rabbit-skills
 
-⭐ 27 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/john-walks-slow/rabbit-skills) · [官网](https://john-walks-slow.github.io/rabbit-skills/) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/john-walks-slow/rabbit-skills) · [官网](https://john-walks-slow.github.io/rabbit-skills/) · 个人维护 · 中文 README
 
 **轻量 Coding Agent 配置套件：指令、子代理与工作流技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "john-walks-slow/rabbit-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 24 --> 29
-    line [25, 27, 28, 27, 27]
+    line [25, 27, 28, 27, 26]
 ```
 
-2026-10-18 25 → 2026-10-26 27（+2）
+2026-10-18 25 → 2026-10-27 26（+1）
 
 
 ---

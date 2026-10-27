@@ -1,6 +1,6 @@
 # siril9/presentation-skill
 
-⭐ 85 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/siril9/presentation-skill) · [官网](https://github.com/siril9/presentation-skill#readme) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/siril9/presentation-skill) · [官网](https://github.com/siril9/presentation-skill#readme) · 个人维护
 
 **给编码 agent 的 PowerPoint 技能：从 JSON 源生成可编辑幻灯片并做版式 QA**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "siril9/presentation-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 77 --> 86
-    line [78, 80, 82, 84, 85]
+    title "siril9/presentation-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 77 --> 87
+    line [78, 80, 82, 84, 85, 86]
 ```
 
-2026-10-18 78 → 2026-10-26 85（+7）
+2026-10-18 78 → 2026-10-27 86（+8）
 
 
 ---

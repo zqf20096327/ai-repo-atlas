@@ -1,6 +1,6 @@
 # gglucass/headroom-desktop
 
-⭐ 621 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gglucass/headroom-desktop) · [官网](https://extraheadroom.com) · 组织维护
+⭐ 624 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gglucass/headroom-desktop) · [官网](https://extraheadroom.com) · 组织维护
 
 **桌面托盘应用：本地代理压缩 Claude Code/Codex 等的 token 消耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gglucass/headroom-desktop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 603 --> 622
-    line [604, 608, 618, 619, 620, 621]
+    title "gglucass/headroom-desktop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 602 --> 626
+    line [604, 608, 618, 619, 620, 621, 624]
 ```
 
-2026-10-18 604 → 2026-10-26 621（+17）
+2026-10-18 604 → 2026-10-27 624（+20）
 
 
 ---

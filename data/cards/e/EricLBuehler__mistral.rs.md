@@ -1,6 +1,6 @@
 # EricLBuehler/mistral.rs
 
-⭐ 7,772 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EricLBuehler/mistral.rs) · 个人维护
+⭐ 7,775 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EricLBuehler/mistral.rs) · 个人维护
 
 **Rust 编写的 LLM 推理引擎与服务器，面向开发者本地部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EricLBuehler/mistral.rs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7753 --> 7773
-    line [7754, 7759, 7762, 7765, 7769, 7772]
+    title "EricLBuehler/mistral.rs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7752 --> 7777
+    line [7754, 7759, 7762, 7765, 7769, 7772, 7775]
 ```
 
-2026-10-18 7,754 → 2026-10-26 7,772（+18）
+2026-10-18 7,754 → 2026-10-27 7,775（+21）
 
 
 ---

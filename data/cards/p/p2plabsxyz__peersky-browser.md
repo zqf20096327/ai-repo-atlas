@@ -1,6 +1,6 @@
 # p2plabsxyz/peersky-browser
 
-⭐ 90 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/p2plabsxyz/peersky-browser) · [官网](https://peersky.p2plabs.xyz/) · 组织维护
+⭐ 90 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/p2plabsxyz/peersky-browser) · [官网](https://peersky.p2plabs.xyz/) · 组织维护
 
 **本地优先的点对点浏览器：让电脑成为节点访问 P2P 网络**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "p2plabsxyz/peersky-browser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "p2plabsxyz/peersky-browser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 87 --> 91
-    line [88, 89, 90]
+    line [88, 89, 90, 90]
 ```
 
-2026-10-18 88 → 2026-10-26 90（+2）
+2026-10-18 88 → 2026-10-27 90（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # GeminiLight/SocialCoach
 
-⭐ 431 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/SocialCoach) · [官网](https://tianfu.wang/SocialCoach/) · 组织维护 · 中文 README
+⭐ 434 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GeminiLight/SocialCoach) · [官网](https://tianfu.wang/SocialCoach/) · 组织维护 · 中文 README
 
 **个人社交技能练习工具：情境对练、复盘反馈与 3D 实景演练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeminiLight/SocialCoach 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 248 --> 447
-    line [264, 272, 416, 424, 428, 431]
+    title "GeminiLight/SocialCoach 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 247 --> 451
+    line [264, 272, 416, 424, 428, 431, 434]
 ```
 
-2026-10-18 264 → 2026-10-26 431（+167）
+2026-10-18 264 → 2026-10-27 434（+170）
 
 
 ---

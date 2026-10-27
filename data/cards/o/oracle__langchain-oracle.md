@@ -45,12 +45,12 @@ Oracle 维护的官方集成仓库，提供 5 个包：langchain-oci（OCI Gener
 ```mermaid
 xychart-beta
     title "oracle/langchain-oracle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-26 64（+0）
+2026-10-18 64 → 2026-10-27 64（+0）
 
 
 ---

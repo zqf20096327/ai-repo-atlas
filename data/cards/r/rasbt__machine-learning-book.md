@@ -1,6 +1,6 @@
 # rasbt/machine-learning-book
 
-⭐ 5,451 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rasbt/machine-learning-book) · [官网](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn) · 个人维护
+⭐ 5,452 · Jupyter Notebook · MIT · 推送 2026-06-15 · [GitHub](https://github.com/rasbt/machine-learning-book) · [官网](https://sebastianraschka.com/books/#machine-learning-with-pytorch-and-scikit-learn) · 个人维护
 
 **《Machine Learning with PyTorch and Scikit-Learn》一书配套代码仓库**
 
@@ -44,13 +44,13 @@ Packt 出版的机器学习教材（770 页，2022）的官方代码仓库，作
 
 ```mermaid
 xychart-beta
-    title "rasbt/machine-learning-book 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5436 --> 5452
-    line [5437, 5438, 5441, 5446, 5448, 5451]
+    title "rasbt/machine-learning-book 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5436 --> 5453
+    line [5437, 5438, 5441, 5446, 5448, 5451, 5452]
 ```
 
-2026-10-18 5,437 → 2026-10-26 5,451（+14）
+2026-10-18 5,437 → 2026-10-27 5,452（+15）
 
 
 ---

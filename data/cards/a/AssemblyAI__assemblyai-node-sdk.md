@@ -1,6 +1,6 @@
 # AssemblyAI/assemblyai-node-sdk
 
-⭐ 77 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AssemblyAI/assemblyai-node-sdk) · [官网](https://www.assemblyai.com) · 组织维护
+⭐ 77 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AssemblyAI/assemblyai-node-sdk) · [官网](https://www.assemblyai.com) · 组织维护
 
 **面向开发者的 AssemblyAI 语音转文字 API 的 JavaScript/TypeScript SDK**
 
@@ -45,12 +45,12 @@ AssemblyAI 官方 Node.js SDK（TypeScript 编写并导出全部类型），封�
 ```mermaid
 xychart-beta
     title "AssemblyAI/assemblyai-node-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-26 77（+0）
+2026-10-18 77 → 2026-10-27 77（+0）
 
 
 ---

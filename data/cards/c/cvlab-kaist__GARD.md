@@ -1,6 +1,6 @@
 # cvlab-kaist/GARD
 
-⭐ 54 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cvlab-kaist/GARD) · [官网](https://cvlab-kaist.github.io/GARD/) · 组织维护
+⭐ 55 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cvlab-kaist/GARD) · [官网](https://cvlab-kaist.github.io/GARD/) · 组织维护
 
 **多视图 3D 重建的特征空间扩散去噪方法（NeurIPS 2026）**
 
@@ -45,12 +45,12 @@ KAIST AI 与 Samsung Electronics 合作的论文官方实现：GARD 在前馈 3D
 ```mermaid
 xychart-beta
     title "cvlab-kaist/GARD 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-18 53 → 2026-10-26 54（+1）
+2026-10-18 53 → 2026-10-27 55（+2）
 
 
 ---

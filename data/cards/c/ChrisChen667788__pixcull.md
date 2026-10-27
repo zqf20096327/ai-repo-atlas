@@ -1,6 +1,6 @@
 # ChrisChen667788/pixcull
 
-⭐ 124 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ChrisChen667788/pixcull) · [官网](https://github.com/ChrisChen667788/pixcull) · 个人维护 · 中文 README
+⭐ 126 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ChrisChen667788/pixcull) · [官网](https://github.com/ChrisChen667788/pixcull) · 个人维护 · 中文 README
 
 **本地优先的 AI 照片筛选工具：六轴打分并写 XMP 给摄影师**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChrisChen667788/pixcull 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 122 --> 126
-    line [123, 125, 123, 124]
+    title "ChrisChen667788/pixcull 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 122 --> 127
+    line [123, 125, 123, 124, 126]
 ```
 
-2026-10-18 123 → 2026-10-26 124（+1）
+2026-10-18 123 → 2026-10-27 126（+3）
 
 
 ---

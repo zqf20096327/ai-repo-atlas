@@ -1,6 +1,6 @@
 # myriade-ai/agentlys
 
-⭐ 31 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/myriade-ai/agentlys) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/myriade-ai/agentlys) · 组织维护
 
 **轻量 Python 库：把现有函数/类即刻变成 AI 工具**
 
@@ -46,12 +46,12 @@ Agentlys 是一个异步原生的 Python AI agent 库，核心约 500 行代码�
 ```mermaid
 xychart-beta
     title "myriade-ai/agentlys 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

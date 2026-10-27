@@ -1,6 +1,6 @@
 # opensandbox-group/OpenSandbox
 
-⭐ 16,157 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
+⭐ 16,192 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
 
 **面向 AI agent 的沙箱运行时：自建基础设施上隔离执行代码**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "opensandbox-group/OpenSandbox 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15899 --> 16180
-    line [15922, 15978, 16022, 16058, 16109, 16131, 16157]
+    title "opensandbox-group/OpenSandbox 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 15895 --> 16219
+    line [15922, 15978, 16022, 16058, 16109, 16131, 16157, 16192]
 ```
 
-2026-10-18 15,922 → 2026-10-26 16,157（+235）
+2026-10-18 15,922 → 2026-10-27 16,192（+270）
 
 
 ---

@@ -1,6 +1,6 @@
 # HKUDS/CatchMe
 
-⭐ 517 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/HKUDS/CatchMe) · [官网](https://hkuds.github.io/CatchMe/) · 组织维护 · 中文 README
+⭐ 517 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/HKUDS/CatchMe) · [官网](https://bingxi.life/blog/catchme.html) · 组织维护 · 中文 README
 
 **本地记录全屏活动并构建可查询活动记忆树的工具，供 AI agent 调用**
 
@@ -46,12 +46,12 @@ CatchMe 通过六个后台录制器（窗口、键盘、鼠标、截图、剪贴
 ```mermaid
 xychart-beta
     title "HKUDS/CatchMe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 514 --> 518
     line [515, 516, 517, 517]
 ```
 
-2026-10-18 515 → 2026-10-26 517（+2）
+2026-10-18 515 → 2026-10-27 517（+2）
 
 
 ---

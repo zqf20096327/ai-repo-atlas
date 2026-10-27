@@ -1,6 +1,6 @@
 # codeaashu/grokbot-shim
 
-⭐ 27 · JavaScript · ISC · 推送 2026-08-29 · [GitHub](https://github.com/codeaashu/grokbot-shim) · 个人维护
+⭐ 28 · JavaScript · ISC · 推送 2026-08-29 · [GitHub](https://github.com/codeaashu/grokbot-shim) · 个人维护
 
 **让 Grok Bot 桌面代理在本地接入自选模型后端运行的垫片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codeaashu/grokbot-shim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

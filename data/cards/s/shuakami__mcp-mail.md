@@ -1,6 +1,6 @@
 # shuakami/mcp-mail
 
-⭐ 49 · TypeScript · 推送 2025-11-12 · [GitHub](https://github.com/shuakami/mcp-mail) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · 推送 2025-11-12 · [GitHub](https://github.com/shuakami/mcp-mail) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 收发和管理电子邮件的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shuakami/mcp-mail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 50（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # do-md/domd
 
-⭐ 588 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 个人维护 · 中文 README
+⭐ 587 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 个人维护 · 中文 README
 
 **30KB Markdown 原生 WYSIWYG 编辑器内核与编辑器产品，支持 AI 流式输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "do-md/domd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 586 --> 589
-    line [587, 588, 588]
+    line [587, 588, 587]
 ```
 
-2026-10-18 587 → 2026-10-26 588（+1）
+2026-10-18 587 → 2026-10-27 587（+0）
 
 
 ---

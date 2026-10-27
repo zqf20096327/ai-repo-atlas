@@ -1,6 +1,6 @@
 # suiflex/suitest
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/suiflex/suitest) · [官网](https://suitest.suiflex.dev/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/suiflex/suitest) · [官网](https://suitest.suiflex.dev/) · 组织维护
 
 **自托管测试平台：用例管理+MCP 自动执行+可选 AI 分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "suiflex/suitest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "suiflex/suitest 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-10-26 39（+1）
+2026-10-18 38 → 2026-10-27 39（+1）
 
 
 ---

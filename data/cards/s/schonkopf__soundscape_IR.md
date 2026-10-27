@@ -45,12 +45,12 @@ Python 工具箱 soundscape_IR，面向声学生态学研究者，提供两大�
 ```mermaid
 xychart-beta
     title "schonkopf/soundscape_IR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 46（+0）
 
 
 ---

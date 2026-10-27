@@ -1,6 +1,6 @@
 # PhySpace/SimpleCADAPI
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/PhySpace/SimpleCADAPI) · [官网](physpace.dev) · 组织维护 · 中文 README
+⭐ 160 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PhySpace/SimpleCADAPI) · [官网](physpace.dev) · 组织维护 · 中文 README
 
 **面向编码 agent 的参数化 CAD Python SDK：用代码构建可编辑 3D 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PhySpace/SimpleCADAPI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 147 --> 160
-    line [148, 150, 157, 159, 159]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 147 --> 161
+    line [148, 150, 157, 159, 160]
 ```
 
-2026-10-18 148 → 2026-10-26 159（+11）
+2026-10-18 148 → 2026-10-27 160（+12）
 
 
 ---

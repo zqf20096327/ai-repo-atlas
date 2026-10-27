@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "hans00/react-native-transformers-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-26 77（+0）
+2026-10-18 77 → 2026-10-27 77（+0）
 
 
 ---

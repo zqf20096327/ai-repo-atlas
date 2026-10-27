@@ -1,6 +1,6 @@
 # ansuman-shukla/Suki
 
-⭐ 28 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ansuman-shukla/Suki) · 个人维护
+⭐ 29 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ansuman-shukla/Suki) · 个人维护
 
 **macOS 全局语音听写工具，自带 API Key，支持多模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ansuman-shukla/Suki 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3 --> 30
-    line [5, 22, 28]
+    title "ansuman-shukla/Suki 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3 --> 31
+    line [5, 22, 28, 29]
 ```
 
-2026-10-24 5 → 2026-10-26 28（+23）
+2026-10-24 5 → 2026-10-27 29（+24）
 
 
 ---

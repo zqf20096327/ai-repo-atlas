@@ -1,6 +1,6 @@
 # roboflow/notebooks
 
-⭐ 9,724 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/roboflow/notebooks) · [官网](https://roboflow.com/models) · 组织维护
+⭐ 9,726 · Jupyter Notebook · 推送 2026-09-22 · [GitHub](https://github.com/roboflow/notebooks) · [官网](https://roboflow.com/models) · 组织维护
 
 **计算机视觉模型教程笔记本合集（88+ 本）**
 
@@ -45,13 +45,13 @@ Roboflow 维护的计算机视觉教程笔记本集合：61 本模型教程覆�
 
 ```mermaid
 xychart-beta
-    title "roboflow/notebooks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9716 --> 9725
-    line [9717, 9720, 9722, 9723, 9722, 9724]
+    title "roboflow/notebooks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9716 --> 9727
+    line [9717, 9720, 9722, 9723, 9722, 9724, 9726]
 ```
 
-2026-10-18 9,717 → 2026-10-26 9,724（+7）
+2026-10-18 9,717 → 2026-10-27 9,726（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # initMAX/zabbix-mcp-server
 
-⭐ 244 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/initMAX/zabbix-mcp-server) · [官网](https://www.initmax.com) · 组织维护
+⭐ 245 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/initMAX/zabbix-mcp-server) · [官网](https://www.initmax.com) · 组织维护
 
 **将完整 Zabbix API 暴露给 MCP 客户端的服务器（241+14 工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "initMAX/zabbix-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 235 --> 245
-    line [236, 238, 244, 244]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 235 --> 246
+    line [236, 238, 244, 245]
 ```
 
-2026-10-18 236 → 2026-10-26 244（+8）
+2026-10-18 236 → 2026-10-27 245（+9）
 
 
 ---

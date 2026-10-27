@@ -1,6 +1,6 @@
 # moeru-ai/xsai
 
-⭐ 664 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/moeru-ai/xsai) · [官网](https://xsai.js.org) · 组织维护
+⭐ 664 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/moeru-ai/xsai) · [官网](https://xsai.js.org) · 组织维护
 
 **面向 Web 标准的极小型 TypeScript AI SDK**
 
@@ -46,12 +46,12 @@ xsAI 是一个按协议适配的 TypeScript AI SDK：不为每个服务商发单
 ```mermaid
 xychart-beta
     title "moeru-ai/xsai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 663 --> 665
     line [664, 664]
 ```
 
-2026-10-18 664 → 2026-10-26 664（+0）
+2026-10-18 664 → 2026-10-27 664（+0）
 
 
 ---

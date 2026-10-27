@@ -1,6 +1,6 @@
 # vectara/open-rag-eval
 
-⭐ 417 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/vectara/open-rag-eval) · [官网](https://github.com/vectara/open-rag-eval) · 组织维护
+⭐ 418 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/vectara/open-rag-eval) · [官网](https://github.com/vectara/open-rag-eval) · 组织维护
 
 **开源 RAG 评测工具包：无需标准答案评估 RAG 质量**
 
@@ -47,12 +47,12 @@ Vectara 开源的 Python RAG 评测工具包，核心指标 UMBRELA 与 AutoNugg
 ```mermaid
 xychart-beta
     title "vectara/open-rag-eval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 413 --> 418
-    line [414, 415, 416, 417, 417]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 413 --> 419
+    line [414, 415, 416, 417, 418]
 ```
 
-2026-10-18 414 → 2026-10-26 417（+3）
+2026-10-18 414 → 2026-10-27 418（+4）
 
 
 ---

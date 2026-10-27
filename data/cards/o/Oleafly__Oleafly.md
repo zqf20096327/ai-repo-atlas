@@ -1,6 +1,6 @@
 # Oleafly/Oleafly
 
-⭐ 275 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Oleafly/Oleafly) · [官网](https://oleafly.com) · 组织维护
+⭐ 283 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Oleafly/Oleafly) · [官网](https://oleafly.com) · 组织维护
 
 **面向科研写作的 LaTeX/Typst/Markdown 实时协作编辑器，AI 可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Oleafly/Oleafly 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 241 --> 278
-    line [244, 258, 263, 267, 269, 270, 275]
+    title "Oleafly/Oleafly 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 241 --> 286
+    line [244, 258, 263, 267, 269, 270, 275, 283]
 ```
 
-2026-10-18 244 → 2026-10-26 275（+31）
+2026-10-18 244 → 2026-10-27 283（+39）
 
 
 ---

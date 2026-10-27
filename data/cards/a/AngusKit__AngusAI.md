@@ -46,12 +46,12 @@ AngusKit 旗下面向企业的 AI Agent 开发平台（Build 产品线），提�
 ```mermaid
 xychart-beta
     title "AngusKit/AngusAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-18 91 → 2026-10-26 91（+0）
+2026-10-18 91 → 2026-10-27 91（+0）
 
 
 ---

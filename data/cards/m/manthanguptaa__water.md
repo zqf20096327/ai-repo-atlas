@@ -44,13 +44,13 @@ Water 是一个 agent harness 框架，提供 AI agent 周边的基础设施而�
 
 ```mermaid
 xychart-beta
-    title "manthanguptaa/water 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "manthanguptaa/water 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 337 --> 340
-    line [338, 339]
+    line [338, 339, 339]
 ```
 
-2026-10-18 338 → 2026-10-26 339（+1）
+2026-10-18 338 → 2026-10-27 339（+1）
 
 
 ---

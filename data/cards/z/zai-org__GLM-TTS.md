@@ -1,6 +1,6 @@
 # zai-org/GLM-TTS
 
-⭐ 1,066 · Python · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/zai-org/GLM-TTS) · [官网](https://audio.z.ai) · 组织维护 · 中文 README
+⭐ 1,067 · Python · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/zai-org/GLM-TTS) · [官网](https://audio.z.ai) · 组织维护 · 中文 README
 
 **零样本语音克隆与情感表达的开源 TTS 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/GLM-TTS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1063 --> 1067
-    line [1065, 1064, 1065, 1066, 1066]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1063 --> 1068
+    line [1065, 1064, 1065, 1066, 1067]
 ```
 
-2026-10-18 1,065 → 2026-10-26 1,066（+1）
+2026-10-18 1,065 → 2026-10-27 1,067（+2）
 
 
 ---

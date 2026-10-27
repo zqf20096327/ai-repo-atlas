@@ -1,6 +1,6 @@
 # Renset/macai
 
-⭐ 935 · Swift · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Renset/macai) · [官网](https://macai.chat) · 个人维护
+⭐ 936 · Swift · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Renset/macai) · [官网](https://macai.chat) · 个人维护
 
 **原生 macOS AI 聊天客户端：一个应用接入多家 AI 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Renset/macai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 933 --> 936
-    line [935, 934, 935, 935]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 933 --> 937
+    line [935, 934, 935, 936]
 ```
 
-2026-10-18 935 → 2026-10-26 935（+0）
+2026-10-18 935 → 2026-10-27 936（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sakalond/StableGen
 
-⭐ 964 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/sakalond/StableGen) · 个人维护
+⭐ 967 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/sakalond/StableGen) · 个人维护
 
 **Blender 生成式 AI 插件：图像/文本生成并纹理化 3D 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sakalond/StableGen 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 952 --> 965
-    line [953, 954, 957, 959, 960, 964]
+    title "sakalond/StableGen 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 952 --> 968
+    line [953, 954, 957, 959, 960, 964, 967]
 ```
 
-2026-10-18 953 → 2026-10-26 964（+11）
+2026-10-18 953 → 2026-10-27 967（+14）
 
 
 ---

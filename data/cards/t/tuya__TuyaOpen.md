@@ -1,6 +1,6 @@
 # tuya/TuyaOpen
 
-⭐ 1,897 · C · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/tuya/TuyaOpen) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
+⭐ 1,900 · C · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/tuya/TuyaOpen) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
 
 **面向 IoT 硬件开发者的 AI+IoT 嵌入式 C/C++ SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuya/TuyaOpen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1885 --> 1898
-    line [1886, 1890, 1892, 1893, 1897]
+    title "tuya/TuyaOpen 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1885 --> 1901
+    line [1886, 1890, 1892, 1893, 1897, 1900]
 ```
 
-2026-10-18 1,886 → 2026-10-26 1,897（+11）
+2026-10-18 1,886 → 2026-10-27 1,900（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # SeriousOldMan/Simulator-Controller
 
-⭐ 453 · AutoHotkey · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
+⭐ 453 · AutoHotkey · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
 
 **Sim Racing 的模块化管理与控制工具，含多个 AI 赛事语音助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeriousOldMan/Simulator-Controller 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    title "SeriousOldMan/Simulator-Controller 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 450 --> 454
-    line [451, 452, 451, 452, 453]
+    line [451, 452, 451, 452, 453, 453]
 ```
 
-2026-10-18 451 → 2026-10-26 453（+2）
+2026-10-18 451 → 2026-10-27 453（+2）
 
 
 ---

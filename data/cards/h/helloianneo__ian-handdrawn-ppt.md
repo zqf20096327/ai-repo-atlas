@@ -1,6 +1,6 @@
 # helloianneo/ian-handdrawn-ppt
 
-⭐ 1,491 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/helloianneo/ian-handdrawn-ppt) · [官网](https://ianneo.xyz) · 个人维护 · 中文 README
+⭐ 1,493 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/helloianneo/ian-handdrawn-ppt) · [官网](https://ianneo.xyz) · 个人维护 · 中文 README
 
 **让 Codex Agent 生成中文手绘技术解释图整页 PNG 的 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/ian-handdrawn-ppt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1471 --> 1492
-    line [1472, 1477, 1482, 1489, 1490, 1491]
+    title "helloianneo/ian-handdrawn-ppt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1470 --> 1495
+    line [1472, 1477, 1482, 1489, 1490, 1491, 1493]
 ```
 
-2026-10-18 1,472 → 2026-10-26 1,491（+19）
+2026-10-18 1,472 → 2026-10-27 1,493（+21）
 
 
 ---

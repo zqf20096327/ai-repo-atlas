@@ -1,6 +1,6 @@
 # Rescenix/Yosuri
 
-⭐ 89 · Go · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/Rescenix/Yosuri) · [官网](https://www.yosuri.com) · 个人维护 · 中文 README
+⭐ 88 · Go · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/Rescenix/Yosuri) · [官网](https://www.yosuri.com) · 个人维护 · 中文 README
 
 **本地优先的自进化 AI agent 工作台，聚合免费模型为统一 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rescenix/Yosuri 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    line [88, 89, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 89（+1）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

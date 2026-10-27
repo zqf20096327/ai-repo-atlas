@@ -1,6 +1,6 @@
 # smol-machines/smolvm
 
-⭐ 6,834 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/smol-machines/smolvm) · [官网](https://smolmachines.com) · 个人维护
+⭐ 6,840 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/smol-machines/smolvm) · [官网](https://smolmachines.com) · 个人维护
 
 **面向 AI agent 的可嵌入、可分支本地 microVM 运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smol-machines/smolvm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6746 --> 6842
-    line [6754, 6767, 6798, 6818, 6828, 6834]
+    title "smol-machines/smolvm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6746 --> 6848
+    line [6754, 6767, 6798, 6818, 6828, 6834, 6840]
 ```
 
-2026-10-18 6,754 → 2026-10-26 6,834（+80）
+2026-10-18 6,754 → 2026-10-27 6,840（+86）
 
 
 ---

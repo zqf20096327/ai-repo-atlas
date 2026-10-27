@@ -41,6 +41,18 @@ Django 网页应用：输入 GitHub 仓库 URL 或上传 ZIP 文件，抽取其�
 > L10: Claude, and Gemini. By downloading a GitHub repository or uploading a ZIP file as a single
 > L31: We provide a token count for the text file. The
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dmwyatt/gh_repo_download 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 43 --> 45
+    line [44, 44]
+```
+
+2026-10-26 44 → 2026-10-27 44（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `7be68e712879` · [字段定义](../../DATASET.md)*

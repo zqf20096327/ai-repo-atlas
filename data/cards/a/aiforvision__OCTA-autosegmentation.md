@@ -1,6 +1,6 @@
 # aiforvision/OCTA-autosegmentation
 
-⭐ 51 · Jupyter Notebook · MIT · 推送 2026-09-01 · [GitHub](https://github.com/aiforvision/OCTA-autosegmentation) · [官网](https://doi.org/10.1109/TMI.2024.3354408) · 组织维护
+⭐ 52 · Jupyter Notebook · MIT · 推送 2026-09-01 · [GitHub](https://github.com/aiforvision/OCTA-autosegmentation) · [官网](https://doi.org/10.1109/TMI.2024.3354408) · 组织维护
 
 **无需人工标注的视网膜 OCTA 血管分割：合成数据训练模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiforvision/OCTA-autosegmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-26 51（+0）
+2026-10-18 51 → 2026-10-27 52（+1）
 
 
 ---

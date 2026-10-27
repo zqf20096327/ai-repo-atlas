@@ -1,6 +1,6 @@
 # materialsproject/matbench
 
-⭐ 222 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/materialsproject/matbench) · [官网](https://matbench.materialsproject.org) · 组织维护
+⭐ 223 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/materialsproject/matbench) · [官网](https://matbench.materialsproject.org) · 组织维护
 
 **材料科学性质预测的基准测试任务集（13 个任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "materialsproject/matbench 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-25", "2026-10-27"]
+    y-axis "stars" 221 --> 224
+    line [222, 223]
 ```
 
-2026-10-25 222 → 2026-10-26 222（+0）
+2026-10-25 222 → 2026-10-27 223（+1）
 
 
 ---

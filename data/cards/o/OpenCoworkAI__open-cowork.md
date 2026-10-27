@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-cowork
 
-⭐ 2,227 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OpenCoworkAI/open-cowork) · [官网](https://github.com/OpenCoworkAI/open-cowork) · 组织维护 · 中文 README
+⭐ 2,231 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OpenCoworkAI/open-cowork) · [官网](https://github.com/OpenCoworkAI/open-cowork) · 组织维护 · 中文 README
 
 **给普通用户的开源 AI agent 桌面应用，一键安装多模型办公自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenCoworkAI/open-cowork 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2217 --> 2228
-    line [2218, 2219, 2222, 2225, 2226, 2227]
+    title "OpenCoworkAI/open-cowork 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2217 --> 2232
+    line [2218, 2219, 2222, 2225, 2226, 2227, 2231]
 ```
 
-2026-10-18 2,218 → 2026-10-26 2,227（+9）
+2026-10-18 2,218 → 2026-10-27 2,231（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # InvolutionHell/involutionhell
 
-⭐ 166 · MDX · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InvolutionHell/involutionhell) · [官网](https://involutionhell.com) · 组织维护 · 中文 README
+⭐ 167 · MDX · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/InvolutionHell/involutionhell) · [官网](https://involutionhell.com) · 组织维护 · 中文 README
 
 **学生共享学习资料与课程笔记的开源网站**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "InvolutionHell/involutionhell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 165 --> 167
-    line [166, 166]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 165 --> 168
+    line [166, 167]
 ```
 
-2026-10-18 166 → 2026-10-26 166（+0）
+2026-10-18 166 → 2026-10-27 167（+1）
 
 
 ---

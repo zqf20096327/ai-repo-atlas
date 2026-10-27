@@ -45,12 +45,12 @@ Kubernetes operator，以自定义资源（BaseModel、ServingRuntime、Inferenc
 ```mermaid
 xychart-beta
     title "ome-projects/ome 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 516 --> 521
     line [517, 518, 520, 520]
 ```
 
-2026-10-18 517 → 2026-10-26 520（+3）
+2026-10-18 517 → 2026-10-27 520（+3）
 
 
 ---

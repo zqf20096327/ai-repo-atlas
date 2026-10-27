@@ -1,6 +1,6 @@
 # sbi-dev/sbi
 
-⭐ 877 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
+⭐ 879 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
 
 **Python 仿真推断库：用贝叶斯方法估计仿真器参数后验分布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sbi-dev/sbi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 875 --> 878
-    line [876, 877]
+    title "sbi-dev/sbi 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 875 --> 880
+    line [876, 877, 879]
 ```
 
-2026-10-18 876 → 2026-10-26 877（+1）
+2026-10-18 876 → 2026-10-27 879（+3）
 
 
 ---

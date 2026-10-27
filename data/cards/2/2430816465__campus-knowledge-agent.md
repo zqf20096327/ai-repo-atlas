@@ -1,6 +1,6 @@
 # 2430816465/campus-knowledge-agent
 
-⭐ 88 · Python · 推送 2026-10-14 · [GitHub](https://github.com/2430816465/campus-knowledge-agent) · [官网](https://zlyb.cloud) · 个人维护 · 中文 README
+⭐ 91 · Python · 推送 2026-10-14 · [GitHub](https://github.com/2430816465/campus-knowledge-agent) · [官网](https://zlyb.cloud) · 个人维护 · 中文 README
 
 **校园通知与办事资料的 RAG 问答平台，含证据溯源与人工审核**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "2430816465/campus-knowledge-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 48 --> 91
-    line [51, 60, 75, 80, 83, 86, 88]
+    title "2430816465/campus-knowledge-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 47 --> 95
+    line [51, 60, 75, 80, 83, 86, 88, 91]
 ```
 
-2026-10-18 51 → 2026-10-26 88（+37）
+2026-10-18 51 → 2026-10-27 91（+40）
 
 
 ---

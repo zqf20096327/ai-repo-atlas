@@ -1,6 +1,6 @@
 # SINGROUP/dscribe
 
-⭐ 474 · C++ · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/SINGROUP/dscribe) · [官网](https://singroup.github.io/dscribe/) · 组织维护
+⭐ 473 · C++ · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/SINGROUP/dscribe) · [官网](https://singroup.github.io/dscribe/) · 组织维护
 
 **将原子结构转为定长数值描述符的 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SINGROUP/dscribe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 473 --> 475
-    line [474, 474]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 472 --> 475
+    line [474, 473]
 ```
 
-2026-10-18 474 → 2026-10-26 474（+0）
+2026-10-18 474 → 2026-10-27 473（-1）
 
 
 ---

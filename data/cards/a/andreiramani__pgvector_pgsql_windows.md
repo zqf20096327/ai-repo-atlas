@@ -1,6 +1,6 @@
 # andreiramani/pgvector_pgsql_windows
 
-⭐ 226 · 推送 2026-10-21 · [GitHub](https://github.com/andreiramani/pgvector_pgsql_windows) · 个人维护
+⭐ 227 · 推送 2026-10-21 · [GitHub](https://github.com/andreiramani/pgvector_pgsql_windows) · 个人维护
 
 **pgvector 的 Windows 原生编译二进制分发仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "andreiramani/pgvector_pgsql_windows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 223 --> 227
-    line [224, 226, 226]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 223 --> 228
+    line [224, 226, 227]
 ```
 
-2026-10-18 224 → 2026-10-26 226（+2）
+2026-10-18 224 → 2026-10-27 227（+3）
 
 
 ---

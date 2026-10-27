@@ -1,6 +1,6 @@
 # MiniMax-AI/minimax-code
 
-⭐ 2,096 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MiniMax-AI/minimax-code) · [官网](https://agent.minimax.io/download) · 组织维护 · 中文 README
+⭐ 2,103 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MiniMax-AI/minimax-code) · [官网](https://agent.minimax.io/download) · 组织维护 · 中文 README
 
 **终端编码 Agent CLI：用 MiniMax 或自有模型把提示词变成可运行代码**
 
@@ -44,13 +44,13 @@ MiniMax 开源的终端编码 Agent（MCode）：提供交互式 TUI、headless 
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/minimax-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2039 --> 2101
-    line [2044, 2046, 2058, 2067, 2074, 2085, 2096]
+    title "MiniMax-AI/minimax-code 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2039 --> 2108
+    line [2044, 2046, 2058, 2067, 2074, 2085, 2096, 2103]
 ```
 
-2026-10-18 2,044 → 2026-10-26 2,096（+52）
+2026-10-18 2,044 → 2026-10-27 2,103（+59）
 
 
 ---

@@ -1,6 +1,6 @@
 # CaptCanadaMan/pi-ollama
 
-⭐ 12 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/CaptCanadaMan/pi-ollama) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CaptCanadaMan/pi-ollama) · 个人维护
 
 **为 pi 编码代理提供 Ollama 本地模型原生接入的扩展**
 
@@ -49,12 +49,12 @@ pi-ollama 是 pi coding agent 的 TypeScript 扩展，直接对接 Ollama 原生
 ```mermaid
 xychart-beta
     title "CaptCanadaMan/pi-ollama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-18 11 → 2026-10-26 12（+1）
+2026-10-18 11 → 2026-10-27 12（+1）
 
 
 ---

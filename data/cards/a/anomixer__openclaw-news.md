@@ -1,6 +1,6 @@
 # anomixer/openclaw-news
 
-⭐ 41 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/anomixer/openclaw-news) · [官网](https://anomixer.github.io/openclaw-news/) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/anomixer/openclaw-news) · [官网](https://anomixer.github.io/openclaw-news/) · 个人维护 · 中文 README
 
 **OpenClaw 生态每日新闻日志兼 Windows/WSL2 安装指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anomixer/openclaw-news 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

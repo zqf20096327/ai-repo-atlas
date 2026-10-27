@@ -1,6 +1,6 @@
 # stravu/crystal
 
-⭐ 3,132 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/stravu/crystal) · [官网](https://nimbalyst.com/) · 个人维护
+⭐ 3,131 · TypeScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/stravu/crystal) · [官网](https://nimbalyst.com/) · 个人维护
 
 **已弃用：在并行 git worktree 中管理多个 AI 编码会话的桌面应用**
 
@@ -42,13 +42,13 @@ Crystal 是一个桌面应用（Electron 构建），用于在多个 git worktre
 
 ```mermaid
 xychart-beta
-    title "stravu/crystal 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "stravu/crystal 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 3130 --> 3136
-    line [3132, 3134, 3135, 3134, 3131, 3133, 3132]
+    line [3132, 3134, 3135, 3134, 3131, 3133, 3132, 3131]
 ```
 
-2026-10-18 3,132 → 2026-10-26 3,132（+0）
+2026-10-18 3,132 → 2026-10-27 3,131（-1）
 
 
 ---

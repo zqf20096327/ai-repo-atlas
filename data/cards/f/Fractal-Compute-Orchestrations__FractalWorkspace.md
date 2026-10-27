@@ -1,6 +1,6 @@
 # Fractal-Compute-Orchestrations/FractalWorkspace
 
-⭐ 5,141 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
+⭐ 5,796 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
 
 **面向安卓边缘设备的联邦学习与分布式推理编排框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fractal-Compute-Orchestrations/FractalWorkspace 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 0 --> 5617
-    line [377, 1808, 2639, 3458, 4078, 4578, 5141]
+    title "Fractal-Compute-Orchestrations/FractalWorkspace 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 6337
+    line [377, 1808, 2639, 3458, 4078, 4578, 5141, 5796]
 ```
 
-2026-10-18 377 → 2026-10-26 5,141（+4,764）
+2026-10-18 377 → 2026-10-27 5,796（+5,419）
 
 
 ---

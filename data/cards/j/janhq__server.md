@@ -1,6 +1,6 @@
 # janhq/server
 
-⭐ 76 · Go · 推送 2026-06-21 · [GitHub](https://github.com/janhq/server) · [官网](https://chat.jan.ai) · 组织维护
+⭐ 77 · Go · 推送 2026-06-21 · [GitHub](https://github.com/janhq/server) · [官网](https://chat.jan.ai) · 组织维护
 
 **自托管微服务 LLM API 平台，带 MCP 工具集成**
 
@@ -45,12 +45,12 @@ Jan Server 是以 Docker Compose 部署的微服务 LLM API 平台，面向需�
 ```mermaid
 xychart-beta
     title "janhq/server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 73 --> 77
-    line [74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 73 --> 78
+    line [74, 75, 76, 77]
 ```
 
-2026-10-18 74 → 2026-10-26 76（+2）
+2026-10-18 74 → 2026-10-27 77（+3）
 
 
 ---

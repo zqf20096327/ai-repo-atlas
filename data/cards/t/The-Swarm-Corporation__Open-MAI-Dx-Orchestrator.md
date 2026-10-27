@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/Open-MAI-Dx-Orchestrator
 
-⭐ 73 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) · [官网](https://swarms.ai) · 组织维护
+⭐ 75 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) · [官网](https://swarms.ai) · 组织维护
 
 **微软 Sequential Diagnosis 论文的开源多智能体医学诊断实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/Open-MAI-Dx-Orchestrator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 65 --> 74
-    line [66, 70, 71, 73]
+    title "The-Swarm-Corporation/Open-MAI-Dx-Orchestrator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 65 --> 76
+    line [66, 70, 71, 73, 75]
 ```
 
-2026-10-18 66 → 2026-10-26 73（+7）
+2026-10-18 66 → 2026-10-27 75（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # nf-core/drugresponseeval
 
-⭐ 30 · Nextflow · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nf-core/drugresponseeval) · [官网](https://nf-co.re/drugresponseeval) · 组织维护
+⭐ 30 · Nextflow · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nf-core/drugresponseeval) · [官网](https://nf-co.re/drugresponseeval) · 组织维护
 
 **药物响应预测模型的标准化评测框架（Nextflow 流程）**
 
@@ -46,12 +46,12 @@ DrEval 由 PyPI 包 drevalpy 与本仓库的 Nextflow 流水线组成，用于�
 ```mermaid
 xychart-beta
     title "nf-core/drugresponseeval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

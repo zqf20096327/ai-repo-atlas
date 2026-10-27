@@ -1,6 +1,6 @@
 # ollama/ollama-js
 
-⭐ 4,402 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-js) · [官网](https://ollama.com) · 组织维护
+⭐ 4,404 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-js) · [官网](https://ollama.com) · 组织维护
 
 **Ollama 官方 JavaScript 客户端库，供 JS 项目接入 Ollama**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ollama/ollama-js 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4388 --> 4403
-    line [4389, 4392, 4395, 4396, 4398, 4400, 4402]
+    title "ollama/ollama-js 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4388 --> 4405
+    line [4389, 4392, 4395, 4396, 4398, 4400, 4402, 4404]
 ```
 
-2026-10-18 4,389 → 2026-10-26 4,402（+13）
+2026-10-18 4,389 → 2026-10-27 4,404（+15）
 
 
 ---

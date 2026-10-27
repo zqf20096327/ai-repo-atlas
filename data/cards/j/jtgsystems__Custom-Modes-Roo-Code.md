@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtgsystems/Custom-Modes-Roo-Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    title "jtgsystems/Custom-Modes-Roo-Code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 183 --> 186
-    line [185, 184, 185]
+    line [185, 184, 185, 185]
 ```
 
-2026-10-18 185 → 2026-10-26 185（+0）
+2026-10-18 185 → 2026-10-27 185（+0）
 
 
 ---

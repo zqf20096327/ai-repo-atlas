@@ -1,6 +1,6 @@
 # metorial/metorial-platform
 
-⭐ 221 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/metorial/metorial-platform) · [官网](https://metorial.com/) · 组织维护
+⭐ 222 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/metorial/metorial-platform) · [官网](https://metorial.com/) · 组织维护
 
 **面向开发者的开源 MCP 集成平台，一次函数调用接入数千工具**
 
@@ -45,12 +45,12 @@ Metorial Platform 是基于 Model Context Protocol（MCP）的开源集成平台
 ```mermaid
 xychart-beta
     title "metorial/metorial-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 219 --> 222
-    line [220, 221, 221]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 219 --> 223
+    line [220, 221, 222]
 ```
 
-2026-10-18 220 → 2026-10-26 221（+1）
+2026-10-18 220 → 2026-10-27 222（+2）
 
 
 ---

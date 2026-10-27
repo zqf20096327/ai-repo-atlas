@@ -1,6 +1,6 @@
 # Krilliac/SparkEngine
 
-⭐ 32 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Krilliac/SparkEngine) · 个人维护
+⭐ 33 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Krilliac/SparkEngine) · 个人维护
 
 **源码可得的 C++23 3D 游戏引擎，面向 FPS 及多类型游戏开发**
 
@@ -43,13 +43,13 @@ C++23 编写的 3D 游戏引擎，最初围绕第一人称射击构建，现含 
 
 ```mermaid
 xychart-beta
-    title "Krilliac/SparkEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 30 --> 33
-    line [31, 32]
+    title "Krilliac/SparkEngine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-10-26 32（+1）
+2026-10-18 31 → 2026-10-27 33（+2）
 
 
 ---

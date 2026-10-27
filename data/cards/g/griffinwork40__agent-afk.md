@@ -1,6 +1,6 @@
 # griffinwork40/agent-afk
 
-⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/griffinwork40/agent-afk) · [官网](https://agentafk.com) · 个人维护
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/griffinwork40/agent-afk) · [官网](https://agentafk.com) · 个人维护
 
 **可离席的自主编码 agent：跑长任务、自验证、完成后通知**
 
@@ -46,13 +46,13 @@ Apache-2.0 的开源编码 agent harness，npm 全局安装本地运行，支持
 
 ```mermaid
 xychart-beta
-    title "griffinwork40/agent-afk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "griffinwork40/agent-afk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 60 --> 63
-    line [61, 62]
+    line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-10-26 62（+1）
+2026-10-18 61 → 2026-10-27 62（+1）
 
 
 ---

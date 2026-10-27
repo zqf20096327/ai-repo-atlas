@@ -41,6 +41,18 @@
 > L73: For Word, the agent unpacks the `.docx`, analyzes Word XML, injects GRACE metadata, adds invisible bookmarks around
 > L127: 2. Open Claude, ChatGPT, Codex, or another agent that can inspect and edit OpenXML internals.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xronocode/grace-docx 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 37 --> 39
+    line [38, 38]
+```
+
+2026-10-26 38 → 2026-10-27 38（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `4bf9774e8b2f` · [字段定义](../../DATASET.md)*

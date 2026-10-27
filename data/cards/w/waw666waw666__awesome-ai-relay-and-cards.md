@@ -1,6 +1,6 @@
 # waw666waw666/awesome-ai-relay-and-cards
 
-⭐ 49 · Python · 推送 2026-10-20 · [GitHub](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · [官网](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · 个人维护 · 中文 README
+⭐ 49 · Python · 推送 2026-10-26 · [GitHub](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · [官网](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · 个人维护 · 中文 README
 
 **AI 发卡比价与 API 中转站评测收录清单（40 家）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "waw666waw666/awesome-ai-relay-and-cards 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 38 --> 50
     line [39, 41, 42, 46, 49, 49]
 ```
 
-2026-10-19 39 → 2026-10-26 49（+10）
+2026-10-19 39 → 2026-10-27 49（+10）
 
 
 ---

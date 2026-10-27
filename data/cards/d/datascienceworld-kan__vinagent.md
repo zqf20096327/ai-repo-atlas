@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datascienceworld-kan/vinagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "datascienceworld-kan/vinagent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 74 --> 78
-    line [75, 77]
+    line [75, 77, 77]
 ```
 
-2026-10-18 75 → 2026-10-26 77（+2）
+2026-10-18 75 → 2026-10-27 77（+2）
 
 
 ---

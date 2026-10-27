@@ -1,6 +1,6 @@
 # galilai-group/stable-pretraining
 
-⭐ 335 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/galilai-group/stable-pretraining) · [官网](https://galilai-group.github.io/stable-pretraining/) · 组织维护
+⭐ 336 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/galilai-group/stable-pretraining) · [官网](https://galilai-group.github.io/stable-pretraining/) · 组织维护
 
 **PyTorch Lightning 上的自监督学习训练框架：换目标不换训练流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "galilai-group/stable-pretraining 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 332 --> 336
-    line [333, 334, 335, 335]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 332 --> 337
+    line [333, 334, 335, 336]
 ```
 
-2026-10-18 333 → 2026-10-26 335（+2）
+2026-10-18 333 → 2026-10-27 336（+3）
 
 
 ---

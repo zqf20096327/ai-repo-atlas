@@ -1,6 +1,6 @@
 # webwhiz-ai/webwhiz
 
-⭐ 1,046 · TypeScript · AGPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/webwhiz-ai/webwhiz) · [官网](https://www.webwhiz.ai/) · 组织维护
+⭐ 1,045 · TypeScript · AGPL-3.0 · 推送 2026-01-08 · [GitHub](https://github.com/webwhiz-ai/webwhiz) · [官网](https://www.webwhiz.ai/) · 组织维护
 
 **自托管工具：用网站数据训练 ChatGPT 构建客服聊天机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "webwhiz-ai/webwhiz 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1045 --> 1047
-    line [1046, 1046]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1044 --> 1047
+    line [1046, 1045]
 ```
 
-2026-10-18 1,046 → 2026-10-26 1,046（+0）
+2026-10-18 1,046 → 2026-10-27 1,045（-1）
 
 
 ---

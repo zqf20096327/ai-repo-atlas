@@ -1,6 +1,6 @@
 # IntelLabs/DeepMath
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/IntelLabs/DeepMath) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/IntelLabs/DeepMath) · 组织维护
 
 **训练与评测数学推理 agent 的框架：小模型+沙箱执行器+GRPO**
 
@@ -46,12 +46,12 @@ Intel Labs 发布的轻量级数学推理 agent 框架：基于 Qwen3-4B Thinkin
 ```mermaid
 xychart-beta
     title "IntelLabs/DeepMath 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

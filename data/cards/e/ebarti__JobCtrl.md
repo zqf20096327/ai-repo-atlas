@@ -1,6 +1,6 @@
 # ebarti/JobCtrl
 
-⭐ 80 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
+⭐ 80 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
 
 **本地优先的求职自动化应用：发现岗位、评分、定制简历**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ebarti/JobCtrl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 79 --> 82
     line [81, 80, 80]
 ```
 
-2026-10-18 81 → 2026-10-26 80（-1）
+2026-10-18 81 → 2026-10-27 80（-1）
 
 
 ---

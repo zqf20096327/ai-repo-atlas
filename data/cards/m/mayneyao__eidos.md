@@ -1,6 +1,6 @@
 # mayneyao/eidos
 
-⭐ 3,198 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
+⭐ 3,199 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/mayneyao/eidos) · [官网](https://eidos.space) · 个人维护
 
 **面向用户与 AI agent 的单文件关系型电子表格**
 
@@ -44,13 +44,13 @@ Eidos 定义了基于标准 SQLite 的开放单文件格式 Eidos File，并配�
 
 ```mermaid
 xychart-beta
-    title "mayneyao/eidos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "mayneyao/eidos 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 3196 --> 3202
-    line [3201, 3200, 3198, 3197, 3198]
+    line [3201, 3200, 3198, 3197, 3198, 3199]
 ```
 
-2026-10-18 3,201 → 2026-10-26 3,198（-3）
+2026-10-18 3,201 → 2026-10-27 3,199（-2）
 
 
 ---

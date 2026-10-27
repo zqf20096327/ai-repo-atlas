@@ -1,6 +1,6 @@
 # AstrBotDevs/AstrBot
 
-⭐ 43,407 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
+⭐ 43,804 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
 
 **对接多家 IM 平台与 LLM 的开源 Agent 聊天机器人平台**
 
@@ -52,13 +52,13 @@ AstrBot 是一个开源的一体化 Agent 聊天机器人平台，接入 QQ、�
 
 ```mermaid
 xychart-beta
-    title "AstrBotDevs/AstrBot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 41920 --> 43542
-    line [42055, 42256, 42580, 42789, 42988, 43197, 43407]
+    title "AstrBotDevs/AstrBot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 41881 --> 43978
+    line [42055, 42256, 42580, 42789, 42988, 43197, 43407, 43804]
 ```
 
-2026-10-18 42,055 → 2026-10-26 43,407（+1,352）
+2026-10-18 42,055 → 2026-10-27 43,804（+1,749）
 
 
 ---

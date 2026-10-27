@@ -1,6 +1,6 @@
 # genspark-ai/genoffice
 
-⭐ 10,812 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/genspark-ai/genoffice) · [官网](https://genoffice.ai/) · 组织维护 · 中文 README
+⭐ 10,942 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/genspark-ai/genoffice) · [官网](https://genoffice.ai/) · 组织维护 · 中文 README
 
 **开源 AI 办公套件：本地编辑 Office/PDF/Markdown/HTML 并带 AI 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "genspark-ai/genoffice 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9799 --> 10904
-    line [9891, 10031, 10280, 10504, 10646, 10722, 10812]
+    title "genspark-ai/genoffice 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9786 --> 11047
+    line [9891, 10031, 10280, 10504, 10646, 10722, 10812, 10942]
 ```
 
-2026-10-18 9,891 → 2026-10-26 10,812（+921）
+2026-10-18 9,891 → 2026-10-27 10,942（+1,051）
 
 
 ---

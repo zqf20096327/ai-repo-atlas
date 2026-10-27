@@ -1,6 +1,6 @@
 # oleksiijko/pmb
 
-⭐ 286 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/oleksiijko/pmb) · [官网](https://pypi.org/project/pmb-ai/) · 个人维护
+⭐ 287 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/oleksiijko/pmb) · [官网](https://pypi.org/project/pmb-ai/) · 个人维护
 
 **给 AI 编程 agent 的本地持久记忆 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oleksiijko/pmb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 283 --> 287
-    line [285, 284, 285, 286, 286]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 283 --> 288
+    line [285, 284, 285, 286, 287]
 ```
 
-2026-10-18 285 → 2026-10-26 286（+1）
+2026-10-18 285 → 2026-10-27 287（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kstevica/captain-claw
 
-⭐ 178 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
+⭐ 179 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
 
 **自托管多 AI agent 编排框架：多模式协同与完整编码流水线**
 
@@ -44,13 +44,13 @@ Python 实现的自托管 agent 编排框架，提供七种编排模式（Agent 
 
 ```mermaid
 xychart-beta
-    title "kstevica/captain-claw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 168 --> 179
-    line [169, 173, 175, 176, 178]
+    title "kstevica/captain-claw 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 168 --> 180
+    line [169, 173, 175, 176, 178, 179]
 ```
 
-2026-10-18 169 → 2026-10-26 178（+9）
+2026-10-18 169 → 2026-10-27 179（+10）
 
 
 ---

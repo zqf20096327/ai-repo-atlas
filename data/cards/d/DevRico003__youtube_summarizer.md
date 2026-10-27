@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevRico003/youtube_summarizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "DevRico003/youtube_summarizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 216 --> 219
-    line [218, 217]
+    line [218, 217, 217]
 ```
 
-2026-10-18 218 → 2026-10-26 217（-1）
+2026-10-18 218 → 2026-10-27 217（-1）
 
 
 ---

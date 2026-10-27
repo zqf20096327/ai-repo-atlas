@@ -1,6 +1,6 @@
 # Innei/haklex
 
-⭐ 38 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/Innei/haklex) · [官网](https://haklex.innei.dev) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/Innei/haklex) · [官网](https://haklex.innei.dev) · 个人维护 · 中文 README
 
 **面向 React 开发者的 AI-agent 原生富文本编辑器生态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Innei/haklex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 38（+0）
 
 
 ---

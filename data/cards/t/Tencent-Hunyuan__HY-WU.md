@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-WU
 
-⭐ 875 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WU) · 组织维护 · 中文 README
+⭐ 883 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WU) · 组织维护 · 中文 README
 
 **为文本引导图像编辑即时生成 LoRA 适配器的神经记忆框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY-WU 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 807 --> 881
-    line [813, 829, 849, 847, 851, 862, 875]
+    title "Tencent-Hunyuan/HY-WU 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 806 --> 890
+    line [813, 829, 849, 847, 851, 862, 875, 883]
 ```
 
-2026-10-18 813 → 2026-10-26 875（+62）
+2026-10-18 813 → 2026-10-27 883（+70）
 
 
 ---

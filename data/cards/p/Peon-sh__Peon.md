@@ -1,6 +1,6 @@
 # Peon-sh/Peon
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Peon-sh/Peon) · [官网](https://peon.sh) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Peon-sh/Peon) · [官网](https://peon.sh) · 个人维护
 
 **自托管部署平台：将 Git 应用、Compose、数据库部署到自有服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Peon-sh/Peon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "Peon-sh/Peon 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 101]
+    line [101, 102, 101, 101]
 ```
 
-2026-10-18 101 → 2026-10-26 101（+0）
+2026-10-18 101 → 2026-10-27 101（+0）
 
 
 ---

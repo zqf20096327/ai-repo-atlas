@@ -1,6 +1,6 @@
 # mc3545dada/mspm0-skill
 
-⭐ 377 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mc3545dada/mspm0-skill) · 个人维护 · 中文 README
+⭐ 376 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mc3545dada/mspm0-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 参与 MSPM0 嵌入式开发与电赛备赛的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mc3545dada/mspm0-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 376 --> 379
-    line [378, 377, 377]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 375 --> 379
+    line [378, 377, 376]
 ```
 
-2026-10-18 378 → 2026-10-26 377（-1）
+2026-10-18 378 → 2026-10-27 376（-2）
 
 
 ---

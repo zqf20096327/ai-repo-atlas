@@ -1,6 +1,6 @@
 # Mactarvish/vue-image-viewer
 
-⭐ 43 · Vue · 推送 2026-09-30 · [GitHub](https://github.com/Mactarvish/vue-image-viewer) · 个人维护 · 中文 README
+⭐ 43 · Vue · 推送 2026-10-26 · [GitHub](https://github.com/Mactarvish/vue-image-viewer) · 个人维护 · 中文 README
 
 **基于 Vue2+Flask 的多文件夹 Web 看图工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mactarvish/vue-image-viewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 43（+0）
 
 
 ---

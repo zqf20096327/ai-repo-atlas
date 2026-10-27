@@ -1,6 +1,6 @@
 # Usmansayed/scubiee
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Usmansayed/scubiee) · [官网](https://scubiee.com) · 个人维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Usmansayed/scubiee) · [官网](https://scubiee.com) · 个人维护
 
 **本地代码上下文引擎：为 AI 编程代理提供语义化代码检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Usmansayed/scubiee 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 12 --> 81
-    line [17, 52, 58, 67, 76]
+    title "Usmansayed/scubiee 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8 --> 117
+    line [17, 52, 58, 67, 76, 108]
 ```
 
-2026-10-22 17 → 2026-10-26 76（+59）
+2026-10-22 17 → 2026-10-27 108（+91）
 
 
 ---

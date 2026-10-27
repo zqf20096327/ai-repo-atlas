@@ -45,12 +45,12 @@ Manning 出版书籍 Build AI Drug Discovery Pipelines 的官方配套仓库，�
 ```mermaid
 xychart-beta
     title "nrflynn2/ml-drug-discovery 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 110 --> 113
     line [111, 112, 112]
 ```
 
-2026-10-18 111 → 2026-10-26 112（+1）
+2026-10-18 111 → 2026-10-27 112（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # smkalami/prompt-decorators
 
-⭐ 481 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/smkalami/prompt-decorators) · 个人维护
+⭐ 480 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/smkalami/prompt-decorators) · 个人维护
 
 **LLM 提示词装饰器框架：以 +++ 前缀声明式控制模型推理与输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smkalami/prompt-decorators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 480 --> 482
-    line [481, 481]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 479 --> 482
+    line [481, 480]
 ```
 
-2026-10-18 481 → 2026-10-26 481（+0）
+2026-10-18 481 → 2026-10-27 480（-1）
 
 
 ---

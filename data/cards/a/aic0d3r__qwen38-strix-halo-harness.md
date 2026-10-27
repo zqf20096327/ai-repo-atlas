@@ -1,6 +1,6 @@
 # aic0d3r/qwen38-strix-halo-harness
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aic0d3r/qwen38-strix-halo-harness) · [官网](https://github.com/aic0d3r/qwen38-strix-halo-harness/blob/master/docs/local-vs-cloud-model-comparison.md) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aic0d3r/qwen38-strix-halo-harness) · [官网](https://github.com/aic0d3r/qwen38-strix-halo-harness/blob/master/docs/local-vs-cloud-model-comparison.md) · 个人维护
 
 **AMD Strix Halo 本地 AI 编程 agent 运行套件（125B 模型）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aic0d3r/qwen38-strix-halo-harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 27 --> 35
-    line [28, 29, 31, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 27 --> 37
+    line [28, 29, 31, 34, 36]
 ```
 
-2026-10-18 28 → 2026-10-26 34（+6）
+2026-10-18 28 → 2026-10-27 36（+8）
 
 
 ---

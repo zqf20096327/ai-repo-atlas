@@ -46,12 +46,12 @@ Aiko Services 是一个 Python 分布式服务框架，基于 Actor 模型与消
 ```mermaid
 xychart-beta
     title "geekscape/aiko_services 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

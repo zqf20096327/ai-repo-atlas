@@ -1,6 +1,6 @@
 # spotify/pedalboard
 
-⭐ 6,381 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
+⭐ 6,382 · C++ · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
 
 **Python 音频处理库：读写/加效果/加载 VST3 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spotify/pedalboard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6356 --> 6383
-    line [6358, 6367, 6369, 6373, 6375, 6377, 6381]
+    title "spotify/pedalboard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6356 --> 6384
+    line [6358, 6367, 6369, 6373, 6375, 6377, 6381, 6382]
 ```
 
-2026-10-18 6,358 → 2026-10-26 6,381（+23）
+2026-10-18 6,358 → 2026-10-27 6,382（+24）
 
 
 ---

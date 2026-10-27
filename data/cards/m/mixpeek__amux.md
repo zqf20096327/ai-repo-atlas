@@ -1,6 +1,6 @@
 # mixpeek/amux
 
-⭐ 547 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/mixpeek/amux) · [官网](https://amux.io) · 组织维护
+⭐ 547 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mixpeek/amux) · [官网](https://amux.io) · 组织维护
 
 **并行编排 Claude Code/Codex/Gemini 等 AI 编码 agent 的控制平面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mixpeek/amux 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "mixpeek/amux 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 538 --> 548
-    line [539, 544, 543, 544, 545, 547]
+    line [539, 544, 543, 544, 545, 547, 547]
 ```
 
-2026-10-18 539 → 2026-10-26 547（+8）
+2026-10-18 539 → 2026-10-27 547（+8）
 
 
 ---

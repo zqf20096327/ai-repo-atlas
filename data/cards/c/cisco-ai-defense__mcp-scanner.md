@@ -1,6 +1,6 @@
 # cisco-ai-defense/mcp-scanner
 
-⭐ 1,097 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/cisco-ai-defense/mcp-scanner) · [官网](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner) · 组织维护
+⭐ 1,098 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/cisco-ai-defense/mcp-scanner) · [官网](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner) · 组织维护
 
 **扫描 MCP 服务器与工具安全风险的 Python 安全工具**
 
@@ -44,13 +44,13 @@ Cisco AI Defense 维护的 Python CLI/SDK/REST API 工具，用于扫描 MCP（M
 
 ```mermaid
 xychart-beta
-    title "cisco-ai-defense/mcp-scanner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1093 --> 1098
-    line [1094, 1096, 1097]
+    title "cisco-ai-defense/mcp-scanner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1093 --> 1099
+    line [1094, 1096, 1097, 1098]
 ```
 
-2026-10-18 1,094 → 2026-10-26 1,097（+3）
+2026-10-18 1,094 → 2026-10-27 1,098（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoMoM101/RAG-ReActAgent
 
-⭐ 208 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/MoMoM101/RAG-ReActAgent) · [官网](https://github.com/MoMoM101/RAG-ReActAgent#readme) · 个人维护 · 中文 README
+⭐ 208 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MoMoM101/RAG-ReActAgent) · [官网](https://github.com/MoMoM101/RAG-ReActAgent#readme) · 个人维护 · 中文 README
 
 **本地优先的 RAG 知识库问答系统，带 ReAct Agent 与引用校验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MoMoM101/RAG-ReActAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 207 --> 210
     line [208, 209, 208, 208]
 ```
 
-2026-10-18 208 → 2026-10-26 208（+0）
+2026-10-18 208 → 2026-10-27 208（+0）
 
 
 ---

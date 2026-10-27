@@ -1,6 +1,6 @@
 # RediSearch/RediSearch
 
-⭐ 6,243 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/RediSearch/RediSearch) · [官网](https://redis.io/docs/latest/develop/ai/search-and-query/) · 组织维护
+⭐ 6,244 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/RediSearch/RediSearch) · [官网](https://redis.io/docs/latest/develop/ai/search-and-query/) · 组织维护
 
 **Redis 查询与索引引擎：全文检索、向量相似度与聚合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RediSearch/RediSearch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 6241 --> 6244
-    line [6242, 6243, 6242, 6243]
+    title "RediSearch/RediSearch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6241 --> 6245
+    line [6242, 6243, 6242, 6243, 6244]
 ```
 
-2026-10-18 6,242 → 2026-10-26 6,243（+1）
+2026-10-18 6,242 → 2026-10-27 6,244（+2）
 
 
 ---

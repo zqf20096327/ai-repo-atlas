@@ -1,6 +1,6 @@
 # thu-ml/SpargeAttn
 
-⭐ 1,262 · Cuda · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/thu-ml/SpargeAttn) · [官网](https://arxiv.org/abs/2502.18137) · 组织维护
+⭐ 1,263 · Cuda · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/thu-ml/SpargeAttn) · [官网](https://arxiv.org/abs/2502.18137) · 组织维护
 
 **免训练稀疏注意力库：加速语言/图像/视频模型推理**
 
@@ -45,12 +45,12 @@ ICML 2025 论文 SpargeAttention 的官方实现，基于 SageAttention2 的免�
 ```mermaid
 xychart-beta
     title "thu-ml/SpargeAttn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1260 --> 1264
-    line [1263, 1261, 1262, 1262]
+    line [1263, 1261, 1262, 1263]
 ```
 
-2026-10-18 1,263 → 2026-10-26 1,262（-1）
+2026-10-18 1,263 → 2026-10-27 1,263（+0）
 
 
 ---

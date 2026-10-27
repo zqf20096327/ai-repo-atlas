@@ -1,6 +1,6 @@
 # DLYZZT/pi-desktop
 
-⭐ 289 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/DLYZZT/pi-desktop) · [官网](https://pi-desktop.app) · 个人维护 · 中文 README
+⭐ 292 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/DLYZZT/pi-desktop) · [官网](https://pi-desktop.app) · 个人维护 · 中文 README
 
 **给 Pi Coding Agent 用户的本地优先跨平台桌面工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DLYZZT/pi-desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 272 --> 290
-    line [273, 276, 280, 282, 285, 288, 289]
+    title "DLYZZT/pi-desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 272 --> 293
+    line [273, 276, 280, 282, 285, 288, 289, 292]
 ```
 
-2026-10-18 273 → 2026-10-26 289（+16）
+2026-10-18 273 → 2026-10-27 292（+19）
 
 
 ---

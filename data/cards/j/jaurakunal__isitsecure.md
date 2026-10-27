@@ -1,6 +1,6 @@
 # jaurakunal/isitsecure
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaurakunal/isitsecure) · [官网](https://jaurakunal.github.io/isitsecure/) · 个人维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jaurakunal/isitsecure) · [官网](https://jaurakunal.github.io/isitsecure/) · 个人维护
 
 **面向非安全专家的 Web 应用安全扫描器：SAST+DAST+LLM 审查一条命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaurakunal/isitsecure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 43（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # travisjneuman/.claude
 
-⭐ 106 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/travisjneuman/.claude) · [官网](https://claude.travisjneuman.com) · 个人维护
+⭐ 106 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/travisjneuman/.claude) · [官网](https://claude.travisjneuman.com) · 个人维护
 
 **Claude Code 的即插式配置工具包：180 技能+10 agents+81 市场**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "travisjneuman/.claude 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 100 --> 107
     line [101, 104, 105, 106, 106]
 ```
 
-2026-10-18 101 → 2026-10-26 106（+5）
+2026-10-18 101 → 2026-10-27 106（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # RLabs-Inc/memory-ts
 
-⭐ 33 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/RLabs-Inc/memory-ts) · 组织维护
+⭐ 32 · TypeScript · 推送 2026-03-03 · [GitHub](https://github.com/RLabs-Inc/memory-ts) · 组织维护
 
 **为 Claude Code/Gemini CLI 保存跨会话记忆的记忆层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RLabs-Inc/memory-ts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 31 --> 35
+    line [34, 33, 32]
 ```
 
-2026-10-18 34 → 2026-10-26 33（-1）
+2026-10-18 34 → 2026-10-27 32（-2）
 
 
 ---

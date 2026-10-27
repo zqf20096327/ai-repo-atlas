@@ -1,6 +1,6 @@
 # lechmazur/step_game
 
-⭐ 92 · 推送 2025-12-09 · [GitHub](https://github.com/lechmazur/step_game) · 个人维护
+⭐ 93 · 推送 2025-12-09 · [GitHub](https://github.com/lechmazur/step_game) · 个人维护
 
 **多智能体赛跑基准：评测 LLM 博弈中的协作与欺骗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lechmazur/step_game 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 91 --> 94
+    line [92, 93]
 ```
 
-2026-10-18 92 → 2026-10-26 92（+0）
+2026-10-18 92 → 2026-10-27 93（+1）
 
 
 ---

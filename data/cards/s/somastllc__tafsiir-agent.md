@@ -1,6 +1,6 @@
 # somastllc/tafsiir-agent
 
-⭐ 25 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/somastllc/tafsiir-agent) · [官网](https://tafsiir.omartood.com/) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/somastllc/tafsiir-agent) · [官网](https://tafsiir.omartood.com/) · 个人维护
 
 **面向索马里社区的古兰经索语注释 AI 问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "somastllc/tafsiir-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-10-26 25（+1）
+2026-10-18 24 → 2026-10-27 26（+2）
 
 
 ---

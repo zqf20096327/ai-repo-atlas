@@ -1,6 +1,6 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-⭐ 295 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 个人维护
+⭐ 295 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 个人维护
 
 **面向 AI 硬件工程师的学习路线图：从模型到自研 SoC**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-hpc/ai-hardware-engineer-roadmap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 287 --> 296
     line [288, 291, 292, 293, 295, 295]
 ```
 
-2026-10-18 288 → 2026-10-26 295（+7）
+2026-10-18 288 → 2026-10-27 295（+7）
 
 
 ---

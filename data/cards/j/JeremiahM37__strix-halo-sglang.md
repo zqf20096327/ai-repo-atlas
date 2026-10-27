@@ -1,6 +1,6 @@
 # JeremiahM37/strix-halo-sglang
 
-⭐ 41 · Python · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/JeremiahM37/strix-halo-sglang) · 个人维护
+⭐ 42 · Python · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/JeremiahM37/strix-halo-sglang) · 个人维护
 
 **面向 AMD Strix Halo 的 SGLang Docker 推理镜像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JeremiahM37/strix-halo-sglang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

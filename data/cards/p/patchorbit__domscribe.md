@@ -1,6 +1,6 @@
 # patchorbit/domscribe
 
-⭐ 195 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/patchorbit/domscribe) · [官网](https://domscribe.com) · 组织维护
+⭐ 195 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/patchorbit/domscribe) · [官网](https://domscribe.com) · 组织维护
 
 **让 AI 编程 agent 看见运行中前端并定位源码的 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "patchorbit/domscribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 193 --> 196
     line [194, 195, 195]
 ```
 
-2026-10-18 194 → 2026-10-26 195（+1）
+2026-10-18 194 → 2026-10-27 195（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Python 编写的 F1 比赛模拟引擎，以真实 F1 数据（Fast-F1 API，占
 ```mermaid
 xychart-beta
     title "mehmetkahya0/f1-race-prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 50（+0）
 
 
 ---

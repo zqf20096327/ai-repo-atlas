@@ -1,6 +1,6 @@
 # daveebbelaar/ai-cookbook
 
-⭐ 4,672 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/daveebbelaar/ai-cookbook) · [官网](https://www.youtube.com/@daveebbelaar) · 个人维护
+⭐ 4,674 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/daveebbelaar/ai-cookbook) · [官网](https://www.youtube.com/@daveebbelaar) · 个人维护
 
 **帮助开发者构建 AI 系统的示例与教程代码集**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "daveebbelaar/ai-cookbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4647 --> 4674
-    line [4649, 4653, 4659, 4664, 4666, 4669, 4672]
+    title "daveebbelaar/ai-cookbook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4647 --> 4676
+    line [4649, 4653, 4659, 4664, 4666, 4669, 4672, 4674]
 ```
 
-2026-10-18 4,649 → 2026-10-26 4,672（+23）
+2026-10-18 4,649 → 2026-10-27 4,674（+25）
 
 
 ---

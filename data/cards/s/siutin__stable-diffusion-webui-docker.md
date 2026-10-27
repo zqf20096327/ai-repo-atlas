@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "siutin/stable-diffusion-webui-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-18 123 → 2026-10-26 123（+0）
+2026-10-18 123 → 2026-10-27 123（+0）
 
 
 ---

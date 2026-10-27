@@ -1,6 +1,6 @@
 # cellinlab/how-pi-agent-works
 
-⭐ 973 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/cellinlab/how-pi-agent-works) · [官网](https://how-pi-agent-works.vercel.app) · 个人维护 · 中文 README
+⭐ 974 · MIT · 推送 2026-05-26 · [GitHub](https://github.com/cellinlab/how-pi-agent-works) · [官网](https://how-pi-agent-works.vercel.app) · 个人维护 · 中文 README
 
 **从零实现 AI Agent 的中文 VitePress 教程项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cellinlab/how-pi-agent-works 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 959 --> 974
-    line [960, 966, 968, 970, 971, 972, 973]
+    title "cellinlab/how-pi-agent-works 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 959 --> 975
+    line [960, 966, 968, 970, 971, 972, 973, 974]
 ```
 
-2026-10-18 960 → 2026-10-26 973（+13）
+2026-10-18 960 → 2026-10-27 974（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # zilliztech/GPTCache
 
-⭐ 8,215 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/GPTCache) · [官网](https://gptcache.readthedocs.io) · 组织维护
+⭐ 8,216 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/GPTCache) · [官网](https://gptcache.readthedocs.io) · 组织维护
 
 **为开发者给 LLM 查询做语义缓存的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zilliztech/GPTCache 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 8211 --> 8216
-    line [8213, 8212, 8213, 8214, 8213, 8215]
+    title "zilliztech/GPTCache 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8211 --> 8217
+    line [8213, 8212, 8213, 8214, 8213, 8215, 8216]
 ```
 
-2026-10-18 8,213 → 2026-10-26 8,215（+2）
+2026-10-18 8,213 → 2026-10-27 8,216（+3）
 
 
 ---

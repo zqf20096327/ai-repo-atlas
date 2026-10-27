@@ -1,6 +1,6 @@
 # raphaelmansuy/code2prompt
 
-⭐ 885 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/raphaelmansuy/code2prompt) · 个人维护
+⭐ 886 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/raphaelmansuy/code2prompt) · 个人维护
 
 **把代码库转换成 LLM 可用 Markdown 提示词的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raphaelmansuy/code2prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 884 --> 886
-    line [885, 885]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 884 --> 887
+    line [885, 886]
 ```
 
-2026-10-18 885 → 2026-10-26 885（+0）
+2026-10-18 885 → 2026-10-27 886（+1）
 
 
 ---

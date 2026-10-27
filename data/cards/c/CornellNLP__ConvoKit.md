@@ -44,13 +44,13 @@ Cornell NLP 组维护的 Python 工具包，提供统一接口（与 scikit-lear
 
 ```mermaid
 xychart-beta
-    title "CornellNLP/ConvoKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    title "CornellNLP/ConvoKit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 649 --> 652
-    line [651, 650, 651]
+    line [651, 650, 651, 651]
 ```
 
-2026-10-18 651 → 2026-10-26 651（+0）
+2026-10-18 651 → 2026-10-27 651（+0）
 
 
 ---

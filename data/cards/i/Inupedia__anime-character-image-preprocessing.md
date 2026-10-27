@@ -44,12 +44,12 @@ Python 编写的角色图片预处理工具，通过背景透明化（rembg 多�
 ```mermaid
 xychart-beta
     title "Inupedia/anime-character-image-preprocessing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 37（+0）
 
 
 ---

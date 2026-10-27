@@ -1,6 +1,6 @@
 # mozilla-ai/any-agent
 
-⭐ 1,252 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/mozilla-ai/any-agent) · [官网](https://docs.mozilla.ai/any-agent) · 组织维护
+⭐ 1,251 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/mozilla-ai/any-agent) · [官网](https://docs.mozilla.ai/any-agent) · 组织维护
 
 **统一 API 调用与评测多种 agent 框架的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozilla-ai/any-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "mozilla-ai/any-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1245 --> 1253
-    line [1246, 1247, 1250, 1251, 1252]
+    line [1246, 1247, 1250, 1251, 1252, 1251]
 ```
 
-2026-10-18 1,246 → 2026-10-26 1,252（+6）
+2026-10-18 1,246 → 2026-10-27 1,251（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # gugarosa/opytimizer
 
-⭐ 632 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/gugarosa/opytimizer) · [官网](https://github.com/recogna-lab/opytimizer) · 组织维护
+⭐ 632 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gugarosa/opytimizer) · [官网](https://github.com/recogna-lab/opytimizer) · 组织维护
 
 **自然启发的元启发式优化算法 Python 库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "gugarosa/opytimizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 630 --> 633
     line [631, 632, 632]
 ```
 
-2026-10-18 631 → 2026-10-26 632（+1）
+2026-10-18 631 → 2026-10-27 632（+1）
 
 
 ---

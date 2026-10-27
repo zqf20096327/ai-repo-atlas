@@ -1,6 +1,6 @@
 # vmoranv/jshookmcp
 
-⭐ 2,062 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/vmoranv/jshookmcp) · [官网](https://vmoranv.github.io/jshookmcp/) · 个人维护 · 中文 README
+⭐ 2,065 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/vmoranv/jshookmcp) · [官网](https://vmoranv.github.io/jshookmcp/) · 个人维护 · 中文 README
 
 **面向 AI agent 的 JS 逆向工程 MCP 服务器（735 工具/36 域）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vmoranv/jshookmcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2053 --> 2063
-    line [2054, 2058, 2059, 2060, 2061, 2062]
+    title "vmoranv/jshookmcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2053 --> 2066
+    line [2054, 2058, 2059, 2060, 2061, 2062, 2065]
 ```
 
-2026-10-18 2,054 → 2026-10-26 2,062（+8）
+2026-10-18 2,054 → 2026-10-27 2,065（+11）
 
 
 ---

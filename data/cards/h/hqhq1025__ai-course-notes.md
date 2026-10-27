@@ -1,6 +1,6 @@
 # hqhq1025/ai-course-notes
 
-⭐ 195 · TeX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hqhq1025/ai-course-notes) · [官网](https://hqhq1025.github.io/ai-course-notes/) · 个人维护 · 中文 README
+⭐ 196 · TeX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hqhq1025/ai-course-notes) · [官网](https://hqhq1025.github.io/ai-course-notes/) · 个人维护 · 中文 README
 
 **389 份 AI/LLM 中文讲义合集，支持在线阅读与本地 PDF 编译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hqhq1025/ai-course-notes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "hqhq1025/ai-course-notes 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 183 --> 197
-    line [184, 185, 187, 188, 194, 196, 195]
+    line [184, 185, 187, 188, 194, 196, 195, 196]
 ```
 
-2026-10-18 184 → 2026-10-26 195（+11）
+2026-10-18 184 → 2026-10-27 196（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # linzzzzzz/openclip
 
-⭐ 576 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/linzzzzzz/openclip) · [官网](https://discord.gg/SFJQQg9VmJ) · 个人维护 · 中文 README
+⭐ 578 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/linzzzzzz/openclip) · [官网](https://discord.gg/SFJQQg9VmJ) · 个人维护 · 中文 README
 
 **AI 驱动的长视频精彩片段自动提取流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linzzzzzz/openclip 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 573 --> 577
-    line [575, 574, 576, 575, 576, 576]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 573 --> 579
+    line [575, 574, 576, 575, 576, 578]
 ```
 
-2026-10-18 575 → 2026-10-26 576（+1）
+2026-10-18 575 → 2026-10-27 578（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dpro-at/Dpro-Bot
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Dpro-at/Dpro-Bot) · [官网](https://agent-player.com) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Dpro-at/Dpro-Bot) · [官网](https://agent-player.com) · 个人维护
 
 **给个人与企业的 AI 员工桌面助手：请求路由到专属 agent 执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dpro-at/Dpro-Bot 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 69 --> 72
-    line [70, 71]
+    title "Dpro-at/Dpro-Bot 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 69 --> 77
+    line [70, 71, 76]
 ```
 
-2026-10-25 70 → 2026-10-26 71（+1）
+2026-10-25 70 → 2026-10-27 76（+6）
 
 
 ---

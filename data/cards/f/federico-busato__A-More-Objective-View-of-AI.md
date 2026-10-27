@@ -1,6 +1,6 @@
 # federico-busato/A-More-Objective-View-of-AI
 
-⭐ 33 · HTML · CC-BY-SA-4.0 · 推送 2026-08-28 · [GitHub](https://github.com/federico-busato/A-More-Objective-View-of-AI) · 个人维护
+⭐ 34 · HTML · CC-BY-SA-4.0 · 推送 2026-08-28 · [GitHub](https://github.com/federico-busato/A-More-Objective-View-of-AI) · 个人维护
 
 **AI 能力与局限的循证综述笔记（PDF/HTML，双许可）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "federico-busato/A-More-Objective-View-of-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

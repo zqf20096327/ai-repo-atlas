@@ -45,12 +45,12 @@ Ray 项目的治理类仓库，跟踪 Ray Enhancement Proposals（REP）：提�
 ```mermaid
 xychart-beta
     title "ray-project/enhancements 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-26 68（+0）
+2026-10-18 68 → 2026-10-27 68（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PaddlePaddle/FlashMask
 
-⭐ 54 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/PaddlePaddle/FlashMask) · 组织维护 · 中文 README
+⭐ 55 · Python · BSD-3-Clause · 推送 2026-10-16 · [GitHub](https://github.com/PaddlePaddle/FlashMask) · 组织维护 · 中文 README
 
 **面向稀疏掩码的高效注意力算子库，服务长上下文训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/FlashMask 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 34 --> 55
-    line [35, 50, 51, 53, 54]
+    title "PaddlePaddle/FlashMask 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 33 --> 57
+    line [35, 50, 51, 53, 54, 55]
 ```
 
-2026-10-18 35 → 2026-10-26 54（+19）
+2026-10-18 35 → 2026-10-27 55（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai4s-research/ai4s-skills
 
-⭐ 251 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ai4s-research/ai4s-skills) · 组织维护 · 中文 README
+⭐ 254 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/ai4s-research/ai4s-skills) · 组织维护 · 中文 README
 
 **面向 AI for Science 的 7 个编码 agent 技能：综述、实验、论文与审计**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai4s-research/ai4s-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 238 --> 252
-    line [239, 245, 248, 250, 251]
+    title "ai4s-research/ai4s-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 238 --> 255
+    line [239, 245, 248, 250, 251, 254]
 ```
 
-2026-10-18 239 → 2026-10-26 251（+12）
+2026-10-18 239 → 2026-10-27 254（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # hanlulong/awesome-ai-for-economists
 
-⭐ 684 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/hanlulong/awesome-ai-for-economists) · [官网](https://openecon.ai) · 组织维护
+⭐ 687 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/hanlulong/awesome-ai-for-economists) · [官网](https://openecon.ai) · 组织维护
 
 **面向经济学研究与教学的 AI 工具与资源策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanlulong/awesome-ai-for-economists 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 673 --> 686
-    line [674, 678, 680, 681, 685, 684]
+    title "hanlulong/awesome-ai-for-economists 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 673 --> 688
+    line [674, 678, 680, 681, 685, 684, 687]
 ```
 
-2026-10-18 674 → 2026-10-26 684（+10）
+2026-10-18 674 → 2026-10-27 687（+13）
 
 
 ---

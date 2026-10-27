@@ -1,6 +1,6 @@
 # izhaorui/Zr.Admin.NET
 
-⭐ 1,649 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/izhaorui/Zr.Admin.NET) · [官网](http://www.izhaorui.cn) · 个人维护 · 中文 README
+⭐ 1,651 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/izhaorui/Zr.Admin.NET) · [官网](http://www.izhaorui.cn) · 个人维护 · 中文 README
 
 **基于 .NET8+Vue 的 RBAC 权限管理后台框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "izhaorui/Zr.Admin.NET 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1648 --> 1651
-    line [1649, 1650, 1649]
+    title "izhaorui/Zr.Admin.NET 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1648 --> 1652
+    line [1649, 1650, 1649, 1651]
 ```
 
-2026-10-18 1,649 → 2026-10-26 1,649（+0）
+2026-10-18 1,649 → 2026-10-27 1,651（+2）
 
 
 ---

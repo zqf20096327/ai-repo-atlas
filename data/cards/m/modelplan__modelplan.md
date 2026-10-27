@@ -1,6 +1,6 @@
 # modelplan/modelplan
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/modelplan/modelplan) · [官网](https://modelplan.ai) · 组织维护 · 中文 README
+⭐ 41 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/modelplan/modelplan) · [官网](https://modelplan.ai) · 组织维护 · 中文 README
 
 **AI 编码模型选型榜单与 CLI：按推荐档位比模型、结合本地配额给建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelplan/modelplan 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "modelplan/modelplan 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 18 --> 44
-    line [20, 34, 42, 41]
+    line [20, 34, 42, 41, 41]
 ```
 
-2026-10-19 20 → 2026-10-26 41（+21）
+2026-10-19 20 → 2026-10-27 41（+21）
 
 
 ---

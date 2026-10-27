@@ -1,6 +1,6 @@
 # SMTorg/smt
 
-⭐ 923 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-22 · [GitHub](https://github.com/SMTorg/smt) · [官网](https://smt.readthedocs.io/en/stable) · 组织维护
+⭐ 925 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/SMTorg/smt) · [官网](https://smt.readthedocs.io/en/stable) · 组织维护
 
 **Python 代理建模工具箱：含代理模型、采样与基准测试**
 
@@ -45,12 +45,12 @@ SMT 是一个 Python 代理建模工具箱，收录多种代理建模方法（�
 ```mermaid
 xychart-beta
     title "SMTorg/smt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 920 --> 924
-    line [921, 923, 923]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 920 --> 926
+    line [921, 923, 925]
 ```
 
-2026-10-18 921 → 2026-10-26 923（+2）
+2026-10-18 921 → 2026-10-27 925（+4）
 
 
 ---

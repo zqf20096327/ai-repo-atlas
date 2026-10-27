@@ -1,6 +1,6 @@
 # shen-shanshan/cs-self-learning
 
-⭐ 102 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/shen-shanshan/cs-self-learning) · [官网](https://shen-shanshan.github.io/articles/) · 个人维护 · 中文 README
+⭐ 103 · Jupyter Notebook · MIT · 推送 2026-09-24 · [GitHub](https://github.com/shen-shanshan/cs-self-learning) · [官网](https://shen-shanshan.github.io/articles/) · 个人维护 · 中文 README
 
 **计算机科学自学笔记与技术博客/论文资料归档仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shen-shanshan/cs-self-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-26 102（+0）
+2026-10-18 102 → 2026-10-27 103（+1）
 
 
 ---

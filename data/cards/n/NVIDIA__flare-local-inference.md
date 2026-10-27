@@ -1,6 +1,6 @@
 # NVIDIA/flare-local-inference
 
-⭐ 656 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/flare-local-inference) · 组织维护
+⭐ 667 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/flare-local-inference) · 组织维护
 
 **面向 NVIDIA SM120/121 GPU 的本地推理服务器，服务编码 Agent 长会话**
 
@@ -44,13 +44,13 @@ Flare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark）的本地推理服�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/flare-local-inference 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 362 --> 682
-    line [388, 602, 624, 638, 656]
+    title "NVIDIA/flare-local-inference 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 361 --> 694
+    line [388, 602, 624, 638, 656, 667]
 ```
 
-2026-10-22 388 → 2026-10-26 656（+268）
+2026-10-22 388 → 2026-10-27 667（+279）
 
 
 ---

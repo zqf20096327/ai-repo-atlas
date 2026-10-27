@@ -1,6 +1,6 @@
 # ArkanDash/Advanced-RVC-Inference
 
-⭐ 90 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/ArkanDash/Advanced-RVC-Inference) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/ArkanDash/Advanced-RVC-Inference) · 个人维护
 
 **RVC 语音转换的 Web UI：模型下载、推理、训练与实时变声**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArkanDash/Advanced-RVC-Inference 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 90]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 91]
 ```
 
-2026-10-18 89 → 2026-10-26 90（+1）
+2026-10-18 89 → 2026-10-27 91（+2）
 
 
 ---

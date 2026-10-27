@@ -1,6 +1,6 @@
 # smixs/iva-agent
 
-⭐ 266 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/smixs/iva-agent) · [官网](https://iva-agent.com) · 个人维护 · 中文 README
+⭐ 268 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/smixs/iva-agent) · [官网](https://iva-agent.com) · 个人维护 · 中文 README
 
 **自托管的 Telegram 个人 AI 助理，带分层长期记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smixs/iva-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 246 --> 267
-    line [247, 260, 263, 265, 266, 266]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 245 --> 270
+    line [247, 260, 263, 265, 266, 268]
 ```
 
-2026-10-18 247 → 2026-10-26 266（+19）
+2026-10-18 247 → 2026-10-27 268（+21）
 
 
 ---

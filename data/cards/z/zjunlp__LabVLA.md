@@ -1,6 +1,6 @@
 # zjunlp/LabVLA
 
-⭐ 107 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/zjunlp/LabVLA) · [官网](https://zjunlp.github.io/LabVLA/) · 组织维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/zjunlp/LabVLA) · [官网](https://zjunlp.github.io/LabVLA/) · 组织维护 · 中文 README
 
 **面向科学实验室的视觉-语言-动作机器人基础模型**
 
@@ -45,12 +45,12 @@ LabVLA 基于 Qwen3-VL-4B-Instruct 视觉语言骨干，通过 DiT 流匹配动�
 ```mermaid
 xychart-beta
     title "zjunlp/LabVLA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 105 --> 108
-    line [106, 107, 107]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 108]
 ```
 
-2026-10-18 106 → 2026-10-26 107（+1）
+2026-10-18 106 → 2026-10-27 108（+2）
 
 
 ---

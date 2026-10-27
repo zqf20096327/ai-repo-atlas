@@ -1,6 +1,6 @@
 # Manuteaa/dbd_autoSkillCheck
 
-⭐ 134 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/Manuteaa/dbd_autoSkillCheck) · 个人维护
+⭐ 135 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/Manuteaa/dbd_autoSkillCheck) · 个人维护
 
 **AI 检测并自动命中黎明杀机完美技能校验的桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Manuteaa/dbd_autoSkillCheck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 132 --> 135
-    line [133, 134, 134]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 132 --> 136
+    line [133, 134, 135]
 ```
 
-2026-10-18 133 → 2026-10-26 134（+1）
+2026-10-18 133 → 2026-10-27 135（+2）
 
 
 ---

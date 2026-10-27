@@ -1,6 +1,6 @@
 # lightly-ai/lightly-studio
 
-⭐ 898 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/lightly-ai/lightly-studio) · [官网](https://docs.lightly.ai/studio/) · 组织维护
+⭐ 898 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lightly-ai/lightly-studio) · [官网](https://docs.lightly.ai/studio/) · 组织维护
 
 **多模态 ML 的本地数据管理平台：图像/视频集策展与标注**
 
@@ -45,13 +45,13 @@ LightlyStudio 是在本地运行、浏览器中打开的数据平台：用 Pytho
 
 ```mermaid
 xychart-beta
-    title "lightly-ai/lightly-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "lightly-ai/lightly-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 895 --> 899
-    line [896, 897, 898]
+    line [896, 897, 898, 898]
 ```
 
-2026-10-18 896 → 2026-10-26 898（+2）
+2026-10-18 896 → 2026-10-27 898（+2）
 
 
 ---

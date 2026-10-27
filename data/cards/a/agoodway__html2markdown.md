@@ -45,12 +45,12 @@ Elixir 语言的 HTML 转 Markdown 库，面向内容提取场景：自动过滤
 ```mermaid
 xychart-beta
     title "agoodway/html2markdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-26 39（+0）
+2026-10-18 39 → 2026-10-27 39（+0）
 
 
 ---

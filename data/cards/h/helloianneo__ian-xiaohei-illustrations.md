@@ -1,6 +1,6 @@
 # helloianneo/ian-xiaohei-illustrations
 
-⭐ 12,808 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 12,869 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **Codex Skill：为中文文章生成小黑怪诞手绘正文配图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/ian-xiaohei-illustrations 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 12607 --> 12826
-    line [12625, 12682, 12717, 12752, 12774, 12797, 12808]
+    title "helloianneo/ian-xiaohei-illustrations 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12601 --> 12893
+    line [12625, 12682, 12717, 12752, 12774, 12797, 12808, 12869]
 ```
 
-2026-10-18 12,625 → 2026-10-26 12,808（+183）
+2026-10-18 12,625 → 2026-10-27 12,869（+244）
 
 
 ---

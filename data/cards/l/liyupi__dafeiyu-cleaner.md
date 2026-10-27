@@ -1,6 +1,6 @@
 # liyupi/dafeiyu-cleaner
 
-⭐ 87 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/liyupi/dafeiyu-cleaner) · [官网](https://www.bilibili.com/video/BV1Ywn46EEyF) · 个人维护 · 中文 README
+⭐ 106 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/liyupi/dafeiyu-cleaner) · [官网](https://www.bilibili.com/video/BV1Ywn46EEyF) · 个人维护 · 中文 README
 
 **识别并本地隐藏 B 站评论区 AI 机器人账号的浏览器插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/dafeiyu-cleaner 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 32 --> 92
-    line [37, 66, 87]
+    title "liyupi/dafeiyu-cleaner 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 31 --> 112
+    line [37, 66, 87, 106]
 ```
 
-2026-10-24 37 → 2026-10-26 87（+50）
+2026-10-24 37 → 2026-10-27 106（+69）
 
 
 ---

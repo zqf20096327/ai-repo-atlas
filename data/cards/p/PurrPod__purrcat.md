@@ -1,6 +1,6 @@
 # PurrPod/purrcat
 
-⭐ 64 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/PurrPod/purrcat) · [官网](https://purrpod.github.io/) · 组织维护
+⭐ 77 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PurrPod/purrcat) · [官网](https://purrpod.github.io/) · 组织维护
 
 **以信息流为核心的自我托管 Agent 基础框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PurrPod/purrcat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 53 --> 65
-    line [54, 55, 56, 59, 64]
+    title "PurrPod/purrcat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 52 --> 79
+    line [54, 55, 56, 59, 64, 77]
 ```
 
-2026-10-18 54 → 2026-10-26 64（+10）
+2026-10-18 54 → 2026-10-27 77（+23）
 
 
 ---

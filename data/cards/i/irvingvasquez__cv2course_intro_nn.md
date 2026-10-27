@@ -1,6 +1,6 @@
 # irvingvasquez/cv2course_intro_nn
 
-⭐ 58 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/irvingvasquez/cv2course_intro_nn) · [官网](https://jivg.org/cursos/introduccion-a-las-redes-neuronales-2/) · 个人维护
+⭐ 59 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/irvingvasquez/cv2course_intro_nn) · [官网](https://jivg.org/cursos/introduccion-a-las-redes-neuronales-2/) · 个人维护
 
 **神经网络入门教学练习集：从零用 Python/numpy 实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "irvingvasquez/cv2course_intro_nn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 59（+1）
 
 
 ---

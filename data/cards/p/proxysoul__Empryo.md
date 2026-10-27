@@ -1,6 +1,6 @@
 # proxysoul/Empryo
 
-⭐ 1,453 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 个人维护
+⭐ 1,454 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 个人维护
 
 **面向桌面、终端与 CI 的 AI 编码代理，按符号编辑代码并跑检查**
 
@@ -44,13 +44,13 @@ Empryo 是一个 AI coding harness，覆盖桌面应用、终端与 headless CI 
 
 ```mermaid
 xychart-beta
-    title "proxysoul/Empryo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1425 --> 1455
-    line [1427, 1432, 1444, 1450, 1451, 1453]
+    title "proxysoul/Empryo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1425 --> 1456
+    line [1427, 1432, 1444, 1450, 1451, 1453, 1454]
 ```
 
-2026-10-18 1,427 → 2026-10-26 1,453（+26）
+2026-10-18 1,427 → 2026-10-27 1,454（+27）
 
 
 ---

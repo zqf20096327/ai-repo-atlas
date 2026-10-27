@@ -1,6 +1,6 @@
 # hesreallyhim/awesome-claude-code
 
-⭐ 56,506 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
+⭐ 56,604 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
 
 **Claude Code 生态资源精选清单（awesome list）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "hesreallyhim/awesome-claude-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 55824 --> 56568
-    line [55886, 56023, 56254, 56334, 56409, 56506]
+    title "hesreallyhim/awesome-claude-code 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 55815 --> 56675
+    line [55886, 56023, 56254, 56334, 56409, 56506, 56604]
 ```
 
-2026-10-18 55,886 → 2026-10-26 56,506（+620）
+2026-10-18 55,886 → 2026-10-27 56,604（+718）
 
 
 ---

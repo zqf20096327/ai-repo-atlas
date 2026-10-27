@@ -1,6 +1,6 @@
 # NVIDIA/nccl
 
-⭐ 5,185 · C++ · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
+⭐ 5,186 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
 
 **GPU 集合通信库：为多 GPU/多机提供高性能通信原语**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的独立 GPU 通信例程库，实现 all-reduce、all-gather、br
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nccl 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5169 --> 5186
-    line [5170, 5174, 5178, 5179, 5181, 5180, 5185]
+    title "NVIDIA/nccl 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5169 --> 5187
+    line [5170, 5174, 5178, 5179, 5181, 5180, 5185, 5186]
 ```
 
-2026-10-18 5,170 → 2026-10-26 5,185（+15）
+2026-10-18 5,170 → 2026-10-27 5,186（+16）
 
 
 ---

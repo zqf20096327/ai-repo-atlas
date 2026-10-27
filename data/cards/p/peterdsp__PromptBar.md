@@ -1,6 +1,6 @@
 # peterdsp/PromptBar
 
-⭐ 52 · Swift · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/peterdsp/PromptBar) · [官网](https://promptbar.peterdsp.dev) · 个人维护
+⭐ 52 · Swift · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/peterdsp/PromptBar) · [官网](https://promptbar.peterdsp.dev) · 个人维护
 
 **macOS 菜单栏 AI 聊天容器：封装任意网页聊天与 BYO Key API 端点**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的 macOS 菜单栏应用，默认不内置任何服务商：用�
 ```mermaid
 xychart-beta
     title "peterdsp/PromptBar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

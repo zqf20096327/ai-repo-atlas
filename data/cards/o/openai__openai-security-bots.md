@@ -42,13 +42,13 @@ OpenAI 维护的开源仓库，提供一组接入 OpenAI API 的 Slack 机器人
 
 ```mermaid
 xychart-beta
-    title "openai/openai-security-bots 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "openai/openai-security-bots 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 399 --> 403
-    line [400, 401, 402]
+    line [400, 401, 402, 402]
 ```
 
-2026-10-18 400 → 2026-10-26 402（+2）
+2026-10-18 400 → 2026-10-27 402（+2）
 
 
 ---

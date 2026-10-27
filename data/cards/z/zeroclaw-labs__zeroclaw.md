@@ -1,6 +1,6 @@
 # zeroclaw-labs/zeroclaw
 
-⭐ 33,043 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
+⭐ 33,044 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
 
 **个人 AI 助手运行时：单二进制 Rust 程序，多渠道多模型自托管**
 
@@ -52,13 +52,13 @@ ZeroClaw 是一个以单个 Rust 二进制分发的 agent 运行时，用户在�
 
 ```mermaid
 xychart-beta
-    title "zeroclaw-labs/zeroclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 32983 --> 33048
-    line [32988, 33008, 33021, 33025, 33038, 33043]
+    title "zeroclaw-labs/zeroclaw 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 32983 --> 33049
+    line [32988, 33008, 33021, 33025, 33038, 33043, 33044]
 ```
 
-2026-10-18 32,988 → 2026-10-26 33,043（+55）
+2026-10-18 32,988 → 2026-10-27 33,044（+56）
 
 
 ---

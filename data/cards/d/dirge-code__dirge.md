@@ -1,6 +1,6 @@
 # dirge-code/dirge
 
-⭐ 376 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/dirge-code/dirge) · 组织维护
+⭐ 376 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/dirge-code/dirge) · 组织维护
 
 **Rust 编写的轻量终端编码 agent，带跨会话记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dirge-code/dirge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    title "dirge-code/dirge 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 369 --> 377
-    line [370, 374, 375, 376]
+    line [370, 374, 375, 376, 376]
 ```
 
-2026-10-18 370 → 2026-10-26 376（+6）
+2026-10-18 370 → 2026-10-27 376（+6）
 
 
 ---

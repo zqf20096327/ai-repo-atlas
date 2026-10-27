@@ -1,6 +1,6 @@
 # VedAstro/VedAstro
 
-⭐ 666 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/VedAstro/VedAstro) · [官网](https://vedastro.org) · 组织维护
+⭐ 667 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/VedAstro/VedAstro) · [官网](https://vedastro.org) · 组织维护
 
 **开源印度占星平台：面向普通用户的算命/合婚工具与 API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VedAstro/VedAstro 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 658 --> 667
-    line [659, 663, 664, 665, 666]
+    title "VedAstro/VedAstro 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 658 --> 668
+    line [659, 663, 664, 665, 666, 667]
 ```
 
-2026-10-18 659 → 2026-10-26 666（+7）
+2026-10-18 659 → 2026-10-27 667（+8）
 
 
 ---

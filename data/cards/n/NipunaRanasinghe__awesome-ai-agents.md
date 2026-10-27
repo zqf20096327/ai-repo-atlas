@@ -1,6 +1,6 @@
 # NipunaRanasinghe/awesome-ai-agents
 
-⭐ 58 · HTML · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/NipunaRanasinghe/awesome-ai-agents) · [官网](https://nipunaranasinghe.github.io/awesome-ai-agents) · 个人维护
+⭐ 59 · HTML · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/NipunaRanasinghe/awesome-ai-agents) · [官网](https://nipunaranasinghe.github.io/awesome-ai-agents) · 个人维护
 
 **AI agent 框架与工具的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NipunaRanasinghe/awesome-ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 59（+1）
 
 
 ---

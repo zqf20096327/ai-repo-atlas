@@ -1,6 +1,6 @@
 # liaisonio/liaison
 
-⭐ 162 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/liaisonio/liaison) · [官网](https://liaison.cloud) · 组织维护 · 中文 README
+⭐ 163 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/liaisonio/liaison) · [官网](https://liaison.cloud) · 组织维护 · 中文 README
 
 **自托管访问网关：安全接入私有应用、本地 LLM 与 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liaisonio/liaison 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 88 --> 168
-    line [94, 112, 144, 153, 157, 161, 162]
+    title "liaisonio/liaison 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 88 --> 169
+    line [94, 112, 144, 153, 157, 161, 162, 163]
 ```
 
-2026-10-18 94 → 2026-10-26 162（+68）
+2026-10-18 94 → 2026-10-27 163（+69）
 
 
 ---

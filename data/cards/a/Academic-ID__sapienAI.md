@@ -1,6 +1,6 @@
 # Academic-ID/sapienAI
 
-⭐ 208 · Shell · NOASSERTION · 推送 2026-06-13 · [GitHub](https://github.com/Academic-ID/sapienAI) · [官网](https://academicid.io/) · 组织维护
+⭐ 209 · Shell · NOASSERTION · 推送 2026-06-13 · [GitHub](https://github.com/Academic-ID/sapienAI) · [官网](https://academicid.io/) · 组织维护
 
 **自托管的学术聊天机器人与科研写作工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Academic-ID/sapienAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 207 --> 209
-    line [208, 208]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 207 --> 210
+    line [208, 209]
 ```
 
-2026-10-18 208 → 2026-10-26 208（+0）
+2026-10-18 208 → 2026-10-27 209（+1）
 
 
 ---

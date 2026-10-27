@@ -1,6 +1,6 @@
 # Waikato/moa
 
-⭐ 670 · Java · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Waikato/moa) · [官网](http://moa.cms.waikato.ac.nz/) · 组织维护
+⭐ 670 · Java · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Waikato/moa) · [官网](http://moa.cms.waikato.ac.nz/) · 组织维护
 
 **大数据流挖掘框架：提供流式机器学习算法与评测工具**
 
@@ -45,12 +45,12 @@ Java 编写的大数据流挖掘开源框架，与 WEKA 项目相关。内置分
 ```mermaid
 xychart-beta
     title "Waikato/moa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 668 --> 671
     line [669, 670, 670]
 ```
 
-2026-10-18 669 → 2026-10-26 670（+1）
+2026-10-18 669 → 2026-10-27 670（+1）
 
 
 ---

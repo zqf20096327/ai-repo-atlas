@@ -1,6 +1,6 @@
 # UCDvision/gen2seg
 
-⭐ 77 · Python · 推送 2026-02-09 · [GitHub](https://github.com/UCDvision/gen2seg) · [官网](https://reachomk.github.io/gen2seg/) · 组织维护
+⭐ 78 · Python · 推送 2026-02-09 · [GitHub](https://github.com/UCDvision/gen2seg) · [官网](https://reachomk.github.io/gen2seg/) · 组织维护
 
 **基于生成模型的通用实例分割方法（ICLR 2026 代码）**
 
@@ -46,12 +46,12 @@ UC Davis 团队在 ICLR 2026 发表的 gen2seg 论文官方代码：将 Stable D
 ```mermaid
 xychart-beta
     title "UCDvision/gen2seg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 76 --> 79
+    line [77, 78]
 ```
 
-2026-10-18 77 → 2026-10-26 77（+0）
+2026-10-18 77 → 2026-10-27 78（+1）
 
 
 ---

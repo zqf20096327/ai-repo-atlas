@@ -1,6 +1,6 @@
 # metame-ai/awesome-llm-plaza
 
-⭐ 217 · MIT · 推送 2025-11-02 · [GitHub](https://github.com/metame-ai/awesome-llm-plaza) · 个人维护 · 中文 README
+⭐ 218 · MIT · 推送 2025-11-02 · [GitHub](https://github.com/metame-ai/awesome-llm-plaza) · 个人维护 · 中文 README
 
 **每日追踪 LLM 论文/项目/资源的分类策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "metame-ai/awesome-llm-plaza 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 216 --> 218
-    line [217, 217]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 216 --> 219
+    line [217, 218]
 ```
 
-2026-10-18 217 → 2026-10-26 217（+0）
+2026-10-18 217 → 2026-10-27 218（+1）
 
 
 ---

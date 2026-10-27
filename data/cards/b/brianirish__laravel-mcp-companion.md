@@ -1,6 +1,6 @@
 # brianirish/laravel-mcp-companion
 
-⭐ 38 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/brianirish/laravel-mcp-companion) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/brianirish/laravel-mcp-companion) · 个人维护
 
 **面向 Laravel 生态的 MCP 文档服务器：为 AI 助手聚合 Laravel 文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brianirish/laravel-mcp-companion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 38（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jakemanger/whatmodel
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakemanger/whatmodel) · [官网](https://whatmodel.sh) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakemanger/whatmodel) · [官网](https://whatmodel.sh) · 个人维护
 
 **开放 AI 模型排行榜：按硬件与预算筛出可运行的模型**
 
@@ -45,13 +45,13 @@ whatmodel.sh 的排行榜仓库：收录 885 个模型，以 22,291 条已发表
 
 ```mermaid
 xychart-beta
-    title "jakemanger/whatmodel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 32 --> 39
-    line [33, 34, 35, 37, 38]
+    title "jakemanger/whatmodel 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 32 --> 41
+    line [33, 34, 35, 37, 38, 40]
 ```
 
-2026-10-18 33 → 2026-10-26 38（+5）
+2026-10-18 33 → 2026-10-27 40（+7）
 
 
 ---

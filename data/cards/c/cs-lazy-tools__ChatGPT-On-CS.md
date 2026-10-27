@@ -1,6 +1,6 @@
 # cs-lazy-tools/ChatGPT-On-CS
 
-⭐ 4,517 · TypeScript · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/cs-lazy-tools/ChatGPT-On-CS) · [官网](https://jinxiaoai.com/) · 组织维护 · 中文 README
+⭐ 4,520 · TypeScript · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/cs-lazy-tools/ChatGPT-On-CS) · [官网](https://jinxiaoai.com/) · 组织维护 · 中文 README
 
 **面向电商的多平台 AI 智能客服 SaaS，自动回复与售后处理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cs-lazy-tools/ChatGPT-On-CS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4481 --> 4520
-    line [4484, 4493, 4498, 4502, 4511, 4514, 4517]
+    title "cs-lazy-tools/ChatGPT-On-CS 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4481 --> 4523
+    line [4484, 4493, 4498, 4502, 4511, 4514, 4517, 4520]
 ```
 
-2026-10-18 4,484 → 2026-10-26 4,517（+33）
+2026-10-18 4,484 → 2026-10-27 4,520（+36）
 
 
 ---

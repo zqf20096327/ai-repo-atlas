@@ -1,6 +1,6 @@
 # Vanguard-s/Electronic-Component-Sorter
 
-⭐ 160 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/Vanguard-s/Electronic-Component-Sorter) · 个人维护
+⭐ 161 · Python · MIT · 推送 2025-11-17 · [GitHub](https://github.com/Vanguard-s/Electronic-Component-Sorter) · 个人维护
 
 **用摄像头识别电子元件类别的 CNN 分类器（7 类）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vanguard-s/Electronic-Component-Sorter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 159 --> 161
-    line [160, 160]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 159 --> 162
+    line [160, 161]
 ```
 
-2026-10-18 160 → 2026-10-26 160（+0）
+2026-10-18 160 → 2026-10-27 161（+1）
 
 
 ---

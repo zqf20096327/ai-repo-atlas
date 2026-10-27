@@ -1,6 +1,6 @@
 # kyegomez/MM1
 
-⭐ 26 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/kyegomez/MM1) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MM1) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **论文 MM1 的 PyTorch 实现：多模态 LLM 预训练架构组件**
 
@@ -44,12 +44,12 @@ PyTorch 复现苹果论文《MM1: Methods, Analysis & Insights from Multimodal L
 ```mermaid
 xychart-beta
     title "kyegomez/MM1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

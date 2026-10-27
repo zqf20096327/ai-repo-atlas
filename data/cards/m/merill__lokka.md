@@ -1,6 +1,6 @@
 # merill/lokka
 
-⭐ 306 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/merill/lokka) · [官网](https://lokka.dev) · 个人维护
+⭐ 307 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/merill/lokka) · [官网](https://lokka.dev) · 个人维护
 
 **让 AI 客户端用自然语言管理 Microsoft 365 与 Azure 租户的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Lokka 是一个 Model Context Protocol (MCP) 服务器，封装 Microsoft Graph 
 ```mermaid
 xychart-beta
     title "merill/lokka 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 305 --> 307
-    line [306, 306]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 305 --> 308
+    line [306, 307]
 ```
 
-2026-10-18 306 → 2026-10-26 306（+0）
+2026-10-18 306 → 2026-10-27 307（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Augus1999/bayesian-flow-network-for-chemistry
 
-⭐ 31 · Python · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/Augus1999/bayesian-flow-network-for-chemistry) · [官网](https://augus1999.github.io/bayesian-flow-network-for-chemistry/) · 组织维护
+⭐ 31 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Augus1999/bayesian-flow-network-for-chemistry) · [官网](https://augus1999.github.io/bayesian-flow-network-for-chemistry/) · 组织维护
 
 **面向化学任务的贝叶斯流网络模型库：分子/蛋白质生成与性质预测**
 
@@ -46,12 +46,12 @@ ChemBFN 的 PyTorch 实现仓库，以单一模型覆盖 SMILES/SELFIES 从头�
 ```mermaid
 xychart-beta
     title "Augus1999/bayesian-flow-network-for-chemistry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

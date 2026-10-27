@@ -1,6 +1,6 @@
 # Javis603/token-monitor
 
-⭐ 3,350 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Javis603/token-monitor) · [官网](http://javis-ai.com/token-monitor/) · 个人维护
+⭐ 3,377 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Javis603/token-monitor) · [官网](http://javis-ai.com/token-monitor/) · 个人维护
 
 **桌面小组件：追踪 46+ AI 编码工具的 token 用量与额度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Javis603/token-monitor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3143 --> 3368
-    line [3161, 3202, 3239, 3275, 3303, 3323, 3350]
+    title "Javis603/token-monitor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3140 --> 3398
+    line [3161, 3202, 3239, 3275, 3303, 3323, 3350, 3377]
 ```
 
-2026-10-18 3,161 → 2026-10-26 3,350（+189）
+2026-10-18 3,161 → 2026-10-27 3,377（+216）
 
 
 ---

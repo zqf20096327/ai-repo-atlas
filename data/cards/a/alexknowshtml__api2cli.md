@@ -1,6 +1,6 @@
 # alexknowshtml/api2cli
 
-⭐ 454 · MIT · 推送 2026-02-20 · [GitHub](https://github.com/alexknowshtml/api2cli) · 个人维护
+⭐ 455 · MIT · 推送 2026-02-20 · [GitHub](https://github.com/alexknowshtml/api2cli) · 个人维护
 
 **Claude Code 技能：把任意 API 文档生成为双模式 CLI 与技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexknowshtml/api2cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 453 --> 455
-    line [454, 454]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 453 --> 456
+    line [454, 455]
 ```
 
-2026-10-18 454 → 2026-10-26 454（+0）
+2026-10-18 454 → 2026-10-27 455（+1）
 
 
 ---

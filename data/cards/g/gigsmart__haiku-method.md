@@ -45,12 +45,12 @@ H·AI·K·U 是一个 Claude Code 插件，将任意领域的 AI 辅助工作编
 ```mermaid
 xychart-beta
     title "gigsmart/haiku-method 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

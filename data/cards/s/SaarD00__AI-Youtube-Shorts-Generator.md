@@ -1,6 +1,6 @@
 # SaarD00/AI-Youtube-Shorts-Generator
 
-⭐ 259 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) · 个人维护
+⭐ 261 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SaarD00/AI-Youtube-Shorts-Generator) · 个人维护
 
 **自动生成“无人出镜”短视频的 Python 流水线**
 
@@ -44,13 +44,13 @@ AutoShorts AI 是一条端到端视频生产流水线：用 Google Gemini 生成
 
 ```mermaid
 xychart-beta
-    title "SaarD00/AI-Youtube-Shorts-Generator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 245 --> 260
-    line [246, 250, 252, 256, 257, 258, 259]
+    title "SaarD00/AI-Youtube-Shorts-Generator 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 245 --> 262
+    line [246, 250, 252, 256, 257, 258, 259, 261]
 ```
 
-2026-10-18 246 → 2026-10-26 259（+13）
+2026-10-18 246 → 2026-10-27 261（+15）
 
 
 ---

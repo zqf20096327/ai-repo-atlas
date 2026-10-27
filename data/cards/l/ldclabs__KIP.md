@@ -1,6 +1,6 @@
 # ldclabs/KIP
 
-⭐ 88 · HTML · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ldclabs/KIP) · [官网](https://anda.ai) · 组织维护 · 中文 README
+⭐ 88 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ldclabs/KIP) · [官网](https://anda.ai) · 组织维护 · 中文 README
 
 **面向 AI agent 开发者的持久记忆与学习开放协议**
 
@@ -45,12 +45,12 @@ KIP 2.0（规范草案）为 agent 开发者定义持久记忆与学习的认知
 ```mermaid
 xychart-beta
     title "ldclabs/KIP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

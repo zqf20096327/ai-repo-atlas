@@ -1,6 +1,6 @@
 # Synaptic-Graph/Synaptic
 
-⭐ 31 · Rust · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Synaptic-Graph/Synaptic) · [官网](synapticgraph.com) · 个人维护
+⭐ 31 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Synaptic-Graph/Synaptic) · [官网](synapticgraph.com) · 个人维护
 
 **给编程助手用的代码库知识图谱工具：依赖映射与变更影响分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Synaptic-Graph/Synaptic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

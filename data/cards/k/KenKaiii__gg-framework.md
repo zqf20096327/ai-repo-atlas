@@ -46,12 +46,12 @@ GG Coder 是面向开发者的桌面 AI 应用（macOS/Windows），提供编程
 ```mermaid
 xychart-beta
     title "KenKaiii/gg-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

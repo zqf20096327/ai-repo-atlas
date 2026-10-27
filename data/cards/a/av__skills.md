@@ -1,6 +1,6 @@
 # av/skills
 
-⭐ 27 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/av/skills) · [官网](https://github.com/av/skills) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/av/skills) · [官网](https://github.com/av/skills) · 个人维护
 
 **面向 Claude Code 等编码 agent 的技能库（26 个 SKILL.md）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "av/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 19 --> 28
-    line [20, 21, 27, 27]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 19 --> 29
+    line [20, 21, 27, 28]
 ```
 
-2026-10-18 20 → 2026-10-26 27（+7）
+2026-10-18 20 → 2026-10-27 28（+8）
 
 
 ---

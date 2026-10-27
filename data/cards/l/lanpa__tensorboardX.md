@@ -1,6 +1,6 @@
 # lanpa/tensorboardX
 
-⭐ 8,002 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/lanpa/tensorboardX) · [官网](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) · 个人维护
+⭐ 8,001 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/lanpa/tensorboardX) · [官网](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) · 个人维护
 
 **为 PyTorch 等框架写入 TensorBoard 事件的可视化日志库**
 
@@ -45,12 +45,12 @@ tensorboardX 让 PyTorch、Chainer、MXNet、NumPy 等框架通过简单函数�
 ```mermaid
 xychart-beta
     title "lanpa/tensorboardX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 8001 --> 8003
-    line [8002, 8002]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 8000 --> 8003
+    line [8002, 8001]
 ```
 
-2026-10-18 8,002 → 2026-10-26 8,002（+0）
+2026-10-18 8,002 → 2026-10-27 8,001（-1）
 
 
 ---

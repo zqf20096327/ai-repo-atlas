@@ -1,6 +1,6 @@
 # quantbelt/jupyter-quant
 
-⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
+⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
 
 **Docker 化的 Jupyter 量化研究环境，预装量化与统计包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quantbelt/jupyter-quant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 246 --> 248
     line [247, 247]
 ```
 
-2026-10-18 247 → 2026-10-26 247（+0）
+2026-10-18 247 → 2026-10-27 247（+0）
 
 
 ---

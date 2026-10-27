@@ -1,6 +1,6 @@
 # ZJU-OmniAI/Scene-Designer
 
-⭐ 27 · Python · 推送 2026-10-19 · [GitHub](https://github.com/ZJU-OmniAI/Scene-Designer) · [官网](https://zju-omniai.github.io/Scene-Designer/) · 组织维护 · 中文 README
+⭐ 26 · Python · 推送 2026-10-19 · [GitHub](https://github.com/ZJU-OmniAI/Scene-Designer) · [官网](https://zju-omniai.github.io/Scene-Designer/) · 组织维护 · 中文 README
 
 **学习设计智能的 Agent 式 3D 场景生成框架与模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZJU-OmniAI/Scene-Designer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 7 --> 28
-    line [8, 18, 27, 27]
+    line [8, 18, 27, 26]
 ```
 
-2026-10-18 8 → 2026-10-26 27（+19）
+2026-10-18 8 → 2026-10-27 26（+18）
 
 
 ---

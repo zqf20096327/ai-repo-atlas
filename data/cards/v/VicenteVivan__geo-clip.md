@@ -1,6 +1,6 @@
 # VicenteVivan/geo-clip
 
-⭐ 414 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/VicenteVivan/geo-clip) · [官网](https://arxiv.org/abs/2309.16020) · 组织维护
+⭐ 414 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/VicenteVivan/geo-clip) · [官网](https://arxiv.org/abs/2309.16020) · 组织维护
 
 **图像全球地理定位模型：将图像与 GPS 坐标对齐预测拍摄位置**
 
@@ -45,12 +45,12 @@ NeurIPS 2023 论文 GeoCLIP 的官方 PyTorch 实现。借鉴 CLIP 对比学习�
 ```mermaid
 xychart-beta
     title "VicenteVivan/geo-clip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 411 --> 415
     line [412, 413, 414, 414]
 ```
 
-2026-10-18 412 → 2026-10-26 414（+2）
+2026-10-18 412 → 2026-10-27 414（+2）
 
 
 ---

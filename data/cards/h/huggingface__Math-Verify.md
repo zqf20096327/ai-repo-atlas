@@ -1,6 +1,6 @@
 # huggingface/Math-Verify
 
-⭐ 1,198 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/huggingface/Math-Verify) · 组织维护
+⭐ 1,199 · Python · Apache-2.0 · 推送 2026-01-10 · [GitHub](https://github.com/huggingface/Math-Verify) · 组织维护
 
 **面向 LLM 数学任务的答案评测校验库，判定输出与标准答案等价**
 
@@ -45,13 +45,13 @@ HuggingFace 维护的数学表达式评测系统，用于评估大模型在数�
 
 ```mermaid
 xychart-beta
-    title "huggingface/Math-Verify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1196 --> 1199
-    line [1197, 1198]
+    title "huggingface/Math-Verify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1196 --> 1200
+    line [1197, 1198, 1199]
 ```
 
-2026-10-18 1,197 → 2026-10-26 1,198（+1）
+2026-10-18 1,197 → 2026-10-27 1,199（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Rust + Tree-sitter 实现的 MCP server：对代码库建立语义图（实体�
 ```mermaid
 xychart-beta
     title "userFRM/rpg-encoder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

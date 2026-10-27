@@ -1,6 +1,6 @@
 # opengeos/segment-geospatial
 
-⭐ 4,177 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/opengeos/segment-geospatial) · [官网](https://samgeo.gishub.org) · 个人维护
+⭐ 4,177 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/opengeos/segment-geospatial) · [官网](https://samgeo.gishub.org) · 个人维护
 
 **用 SAM 系列模型对遥感影像做地理空间分割的 Python 库**
 
@@ -45,13 +45,13 @@ SamGeo（segment-geospatial）是基于 Segment Anything Model 的地理空间�
 
 ```mermaid
 xychart-beta
-    title "opengeos/segment-geospatial 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "opengeos/segment-geospatial 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 4167 --> 4178
-    line [4168, 4170, 4172, 4175, 4177]
+    line [4168, 4170, 4172, 4175, 4177, 4177]
 ```
 
-2026-10-18 4,168 → 2026-10-26 4,177（+9）
+2026-10-18 4,168 → 2026-10-27 4,177（+9）
 
 
 ---

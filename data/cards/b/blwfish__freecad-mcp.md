@@ -1,6 +1,6 @@
 # blwfish/freecad-mcp
 
-⭐ 61 · Python · LGPL-2.1 · 推送 2026-10-23 · [GitHub](https://github.com/blwfish/freecad-mcp) · 个人维护
+⭐ 62 · Python · LGPL-2.1 · 推送 2026-10-26 · [GitHub](https://github.com/blwfish/freecad-mcp) · 个人维护
 
 **连接 AI agent 与 FreeCAD 的 MCP 服务器，含 32 个 CAD 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "blwfish/freecad-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 61, 62]
 ```
 
-2026-10-18 59 → 2026-10-26 61（+2）
+2026-10-18 59 → 2026-10-27 62（+3）
 
 
 ---

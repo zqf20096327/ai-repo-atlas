@@ -1,6 +1,6 @@
 # Overbrilliant/ob-1
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Overbrilliant/ob-1) · [官网](https://overbrilliant.com) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Overbrilliant/ob-1) · [官网](https://overbrilliant.com) · 个人维护
 
 **免账号免 API key 的终端编码 agent，并行子代理与自我纠错**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Overbrilliant/ob-1 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 21 --> 27
-    line [22, 24, 25, 26, 26]
+    line [22, 24, 25, 26, 25]
 ```
 
-2026-10-18 22 → 2026-10-26 26（+4）
+2026-10-18 22 → 2026-10-27 25（+3）
 
 
 ---

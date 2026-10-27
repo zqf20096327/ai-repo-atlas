@@ -1,6 +1,6 @@
 # ember-tooling/ember-mcp
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ember-tooling/ember-mcp) · 组织维护
+⭐ 28 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ember-tooling/ember-mcp) · 组织维护
 
 **面向 Ember.js 开发者的 MCP Server：为 AI agent 提供文档与最佳实践访问**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ember-tooling/ember-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 28（+0）
 
 
 ---

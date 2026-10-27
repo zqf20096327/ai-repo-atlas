@@ -1,6 +1,6 @@
 # DayuanJiang/next-ai-draw-io
 
-⭐ 36,405 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DayuanJiang/next-ai-draw-io) · [官网](https://next-ai-drawio.jiang.jp/) · 个人维护
+⭐ 36,422 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/DayuanJiang/next-ai-draw-io) · [官网](https://next-ai-drawio.jiang.jp/) · 个人维护
 
 **通过对话生成与编辑 draw.io 图表的 AI 工具**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "DayuanJiang/next-ai-draw-io 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 36293 --> 36415
-    line [36303, 36324, 36336, 36373, 36390, 36399, 36405]
+    title "DayuanJiang/next-ai-draw-io 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 36292 --> 36433
+    line [36303, 36324, 36336, 36373, 36390, 36399, 36405, 36422]
 ```
 
-2026-10-18 36,303 → 2026-10-26 36,405（+102）
+2026-10-18 36,303 → 2026-10-27 36,422（+119）
 
 
 ---

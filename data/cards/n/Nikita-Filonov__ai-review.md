@@ -1,6 +1,6 @@
 # Nikita-Filonov/ai-review
 
-⭐ 596 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/Nikita-Filonov/ai-review) · [官网](https://boosty.to/ai_review) · 个人维护
+⭐ 598 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/Nikita-Filonov/ai-review) · [官网](https://boosty.to/ai_review) · 个人维护
 
 **在 CI/CD 中自动生成 AI 代码评审评论的开发者工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nikita-Filonov/ai-review 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "Nikita-Filonov/ai-review 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 595 --> 600
-    line [596, 598, 599, 598, 597, 596]
+    line [596, 598, 599, 598, 597, 596, 598]
 ```
 
-2026-10-18 596 → 2026-10-26 596（+0）
+2026-10-18 596 → 2026-10-27 598（+2）
 
 
 ---

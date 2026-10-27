@@ -1,6 +1,6 @@
 # mobile-next/mobilecli
 
-⭐ 306 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护 · 中文 README
+⭐ 308 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护 · 中文 README
 
 **iOS/Android 设备与模拟器统一管理 CLI，支持 AI agent 驱动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mobile-next/mobilecli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 298 --> 307
-    line [299, 300, 303, 304, 305, 306]
+    title "mobile-next/mobilecli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 298 --> 309
+    line [299, 300, 303, 304, 305, 306, 308]
 ```
 
-2026-10-18 299 → 2026-10-26 306（+7）
+2026-10-18 299 → 2026-10-27 308（+9）
 
 
 ---

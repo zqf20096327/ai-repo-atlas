@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/maid
 
-⭐ 2,742 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/maid) · 组织维护
+⭐ 2,743 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/maid) · 组织维护
 
 **Android 本地/远程 LLM 聊天客户端，支持 llama.cpp 端侧推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mobile-Artificial-Intelligence/maid 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2726 --> 2743
-    line [2727, 2729, 2733, 2734, 2738, 2741, 2742]
+    title "Mobile-Artificial-Intelligence/maid 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2726 --> 2744
+    line [2727, 2729, 2733, 2734, 2738, 2741, 2742, 2743]
 ```
 
-2026-10-18 2,727 → 2026-10-26 2,742（+15）
+2026-10-18 2,727 → 2026-10-27 2,743（+16）
 
 
 ---

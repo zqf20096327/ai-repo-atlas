@@ -1,6 +1,6 @@
 # seunghyuns98/VideoColorGrading
 
-⭐ 97 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/seunghyuns98/VideoColorGrading) · 组织维护
+⭐ 98 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/seunghyuns98/VideoColorGrading) · 组织维护
 
 **基于扩散模型的参考引导视频调色框架（ICCV 2025）**
 
@@ -45,12 +45,12 @@ ICCV 2025 论文的官方实现：给定参考图像与输入视频，通过扩�
 ```mermaid
 xychart-beta
     title "seunghyuns98/VideoColorGrading 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 94 --> 98
-    line [95, 97, 97]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 94 --> 99
+    line [95, 97, 98]
 ```
 
-2026-10-18 95 → 2026-10-26 97（+2）
+2026-10-18 95 → 2026-10-27 98（+3）
 
 
 ---

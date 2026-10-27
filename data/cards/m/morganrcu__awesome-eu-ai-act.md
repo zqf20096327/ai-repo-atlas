@@ -1,6 +1,6 @@
 # morganrcu/awesome-eu-ai-act
 
-⭐ 27 · 推送 2026-09-26 · [GitHub](https://github.com/morganrcu/awesome-eu-ai-act) · 个人维护
+⭐ 28 · 推送 2026-09-26 · [GitHub](https://github.com/morganrcu/awesome-eu-ai-act) · 个人维护
 
 **欧盟 AI 法案合规与 AI 治理工具策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "morganrcu/awesome-eu-ai-act 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 28]
 ```
 
-2026-10-18 25 → 2026-10-26 27（+2）
+2026-10-18 25 → 2026-10-27 28（+3）
 
 
 ---

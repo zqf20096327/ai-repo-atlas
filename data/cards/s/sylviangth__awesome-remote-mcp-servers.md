@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sylviangth/awesome-remote-mcp-servers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "sylviangth/awesome-remote-mcp-servers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 71 --> 75
-    line [72, 73, 74]
+    line [72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-10-26 74（+2）
+2026-10-18 72 → 2026-10-27 74（+2）
 
 
 ---

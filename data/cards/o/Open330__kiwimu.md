@@ -1,6 +1,6 @@
 # Open330/kiwimu
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Open330/kiwimu) · [官网](https://open330.github.io/kiwimu/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Open330/kiwimu) · [官网](https://open330.github.io/kiwimu/) · 个人维护
 
 **把教科书/PDF/网页变成 LLM 生成的个人学习维基**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Open330/kiwimu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

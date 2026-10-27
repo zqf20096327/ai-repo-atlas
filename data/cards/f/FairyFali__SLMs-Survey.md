@@ -1,6 +1,6 @@
 # FairyFali/SLMs-Survey
 
-⭐ 261 · MIT · 推送 2025-11-06 · [GitHub](https://github.com/FairyFali/SLMs-Survey) · 组织维护
+⭐ 262 · MIT · 推送 2025-11-06 · [GitHub](https://github.com/FairyFali/SLMs-Survey) · 组织维护
 
 **小语言模型综述配套论文清单：SLM 技术与可信性研究汇编**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FairyFali/SLMs-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 260 --> 262
-    line [261, 261]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 260 --> 263
+    line [261, 262]
 ```
 
-2026-10-18 261 → 2026-10-26 261（+0）
+2026-10-18 261 → 2026-10-27 262（+1）
 
 
 ---

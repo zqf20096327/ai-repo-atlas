@@ -1,6 +1,6 @@
 # charlesdove977/carousel-builder
 
-⭐ 44 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/charlesdove977/carousel-builder) · 个人维护
+⭐ 45 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/charlesdove977/carousel-builder) · 个人维护
 
 **在 Claude Code 内端到端生成品牌化 Instagram 轮播图文的命令插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charlesdove977/carousel-builder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 45（+1）
 
 
 ---

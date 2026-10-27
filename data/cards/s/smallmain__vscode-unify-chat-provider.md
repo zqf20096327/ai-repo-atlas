@@ -44,13 +44,13 @@ VS Code 扩展，通过 Language Model API 将多个 LLM API 提供商接入 Git
 
 ```mermaid
 xychart-beta
-    title "smallmain/vscode-unify-chat-provider 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    title "smallmain/vscode-unify-chat-provider 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 717 --> 720
-    line [719, 718, 719, 718]
+    line [719, 718, 719, 718, 718]
 ```
 
-2026-10-18 719 → 2026-10-26 718（-1）
+2026-10-18 719 → 2026-10-27 718（-1）
 
 
 ---

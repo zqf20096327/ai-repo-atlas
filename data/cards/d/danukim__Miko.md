@@ -1,6 +1,6 @@
 # danukim/Miko
 
-⭐ 286 · C# · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/danukim/Miko) · [官网](https://www.youtube.com/@0neReality) · 个人维护
+⭐ 287 · C# · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/danukim/Miko) · [官网](https://www.youtube.com/@0neReality) · 个人维护
 
 **Windows 桌面 3D AI 伙伴：Ollama 本地大模型 + 双语音合成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "danukim/Miko 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 281 --> 287
-    line [282, 283, 284, 285, 286]
+    title "danukim/Miko 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 281 --> 288
+    line [282, 283, 284, 285, 286, 287]
 ```
 
-2026-10-18 282 → 2026-10-26 286（+4）
+2026-10-18 282 → 2026-10-27 287（+5）
 
 
 ---

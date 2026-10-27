@@ -1,6 +1,6 @@
 # agent-launch/agent-launcher
 
-⭐ 261 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/agent-launch/agent-launcher) · 组织维护 · 中文 README
+⭐ 260 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agent-launch/agent-launcher) · 组织维护 · 中文 README
 
 **桌面端工作台：统一配置并运行多种编码 agent CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agent-launch/agent-launcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 260 --> 262
-    line [261, 261]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 259 --> 262
+    line [261, 260]
 ```
 
-2026-10-18 261 → 2026-10-26 261（+0）
+2026-10-18 261 → 2026-10-27 260（-1）
 
 
 ---

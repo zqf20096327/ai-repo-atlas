@@ -1,6 +1,6 @@
 # EvolvingAgentsLabs/evolving-agents
 
-⭐ 457 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
+⭐ 457 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
 
 **把团队规则编译为链式声明的指挥型 agent，接入 Claude Code/本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvolvingAgentsLabs/evolving-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 453 --> 458
     line [454, 456, 457, 457]
 ```
 
-2026-10-18 454 → 2026-10-26 457（+3）
+2026-10-18 454 → 2026-10-27 457（+3）
 
 
 ---

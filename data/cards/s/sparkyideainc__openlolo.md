@@ -1,6 +1,6 @@
 # sparkyideainc/openlolo
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sparkyideainc/openlolo) · [官网](https://openlolo.com) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sparkyideainc/openlolo) · [官网](https://openlolo.com) · 组织维护
 
 **通过 ARM64 Linux 盒子让 AI agent 观察和操作 iPhone 的开源服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparkyideainc/openlolo 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26"]
+    title "sparkyideainc/openlolo 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 22 --> 26
-    line [23, 24, 25]
+    line [23, 24, 25, 25]
 ```
 
-2026-10-22 23 → 2026-10-26 25（+2）
+2026-10-22 23 → 2026-10-27 25（+2）
 
 
 ---

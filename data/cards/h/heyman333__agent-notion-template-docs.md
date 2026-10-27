@@ -1,6 +1,6 @@
 # heyman333/agent-notion-template-docs
 
-⭐ 107 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/heyman333/agent-notion-template-docs) · 个人维护
+⭐ 107 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/heyman333/agent-notion-template-docs) · 个人维护
 
 **让 AI agent 生成 Notion 视觉风格 HTML 文档的技能插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heyman333/agent-notion-template-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 105 --> 108
     line [106, 107, 107]
 ```
 
-2026-10-18 106 → 2026-10-26 107（+1）
+2026-10-18 106 → 2026-10-27 107（+1）
 
 
 ---

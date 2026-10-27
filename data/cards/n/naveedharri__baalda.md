@@ -1,6 +1,6 @@
 # naveedharri/baalda
 
-⭐ 223 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/naveedharri/baalda) · [官网](https://baalda.com) · 组织维护
+⭐ 236 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/naveedharri/baalda) · [官网](https://baalda.com) · 组织维护
 
 **本地 Markdown 团队笔记应用：AI 可像队友一样读写笔记**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "naveedharri/baalda 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 190 --> 226
-    line [193, 202, 208, 211, 212, 216, 223]
+    title "naveedharri/baalda 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 189 --> 240
+    line [193, 202, 208, 211, 212, 216, 223, 236]
 ```
 
-2026-10-18 193 → 2026-10-26 223（+30）
+2026-10-18 193 → 2026-10-27 236（+43）
 
 
 ---

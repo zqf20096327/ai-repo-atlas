@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ptrefall/fluid-hierarchical-task-network 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 456 --> 458
     line [457, 457]
 ```
 
-2026-10-18 457 → 2026-10-26 457（+0）
+2026-10-18 457 → 2026-10-27 457（+0）
 
 
 ---

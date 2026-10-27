@@ -1,6 +1,6 @@
 # open-gitagent/gitagent
 
-⭐ 724 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-gitagent/gitagent) · 组织维护
+⭐ 736 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-gitagent/gitagent) · 组织维护
 
 **git 原生 AI Agent 框架：以仓库形式管理 agent 身份与记忆**
 
@@ -47,13 +47,13 @@ TypeScript 实现的通用 agent 框架，核心机制是『agent 即 git 仓库
 
 ```mermaid
 xychart-beta
-    title "open-gitagent/gitagent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 716 --> 725
-    line [717, 718, 720, 721, 724]
+    title "open-gitagent/gitagent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 716 --> 737
+    line [717, 718, 720, 721, 724, 736]
 ```
 
-2026-10-18 717 → 2026-10-26 724（+7）
+2026-10-18 717 → 2026-10-27 736（+19）
 
 
 ---

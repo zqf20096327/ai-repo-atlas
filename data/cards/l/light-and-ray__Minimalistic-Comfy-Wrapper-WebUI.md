@@ -1,6 +1,6 @@
 # light-and-ray/Minimalistic-Comfy-Wrapper-WebUI
 
-⭐ 145 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI) · [官网](https://registry.comfy.org/publishers/light-and-ray/nodes/mcww-webui) · 个人维护
+⭐ 146 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI) · [官网](https://registry.comfy.org/publishers/light-and-ray/nodes/mcww-webui) · 个人维护
 
 **为 ComfyUI 附加的轻量推理 UI，可独立运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 143 --> 146
-    line [144, 145, 145]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 143 --> 147
+    line [144, 145, 146]
 ```
 
-2026-10-18 144 → 2026-10-26 145（+1）
+2026-10-18 144 → 2026-10-27 146（+2）
 
 
 ---

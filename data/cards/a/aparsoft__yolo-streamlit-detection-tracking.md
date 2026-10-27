@@ -1,6 +1,6 @@
 # aparsoft/yolo-streamlit-detection-tracking
 
-⭐ 430 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/aparsoft/yolo-streamlit-detection-tracking) · [官网](https://aparsoft.com) · 个人维护
+⭐ 431 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/aparsoft/yolo-streamlit-detection-tracking) · [官网](https://aparsoft.com) · 个人维护
 
 **基于 Streamlit 的视频目标检测/分割/姿态/文本检索与追踪计数应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aparsoft/yolo-streamlit-detection-tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 429 --> 431
-    line [430, 430]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 429 --> 432
+    line [430, 431]
 ```
 
-2026-10-18 430 → 2026-10-26 430（+0）
+2026-10-18 430 → 2026-10-27 431（+1）
 
 
 ---

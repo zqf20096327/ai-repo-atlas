@@ -1,6 +1,6 @@
 # pytorch/helion
 
-⭐ 971 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/pytorch/helion) · 组织维护
+⭐ 974 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/pytorch/helion) · 组织维护
 
 **Python 嵌入式 DSL：帮开发者高效编写 GPU ML 内核**
 
@@ -44,13 +44,13 @@ PyTorch 官方维护的 Python 嵌入式领域专用语言，用于编写机器�
 
 ```mermaid
 xychart-beta
-    title "pytorch/helion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 964 --> 972
-    line [965, 969, 970, 971]
+    title "pytorch/helion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 964 --> 975
+    line [965, 969, 970, 971, 974]
 ```
 
-2026-10-18 965 → 2026-10-26 971（+6）
+2026-10-18 965 → 2026-10-27 974（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Srijan-D/pdf.ai
 
-⭐ 32 · TypeScript · 推送 2026-04-28 · [GitHub](https://github.com/Srijan-D/pdf.ai) · [官网](https://srijan-pdf-ai.vercel.app) · 个人维护
+⭐ 31 · TypeScript · 推送 2026-04-28 · [GitHub](https://github.com/Srijan-D/pdf.ai) · [官网](https://srijan-pdf-ai.vercel.app) · 个人维护
 
 **与 PDF 对话问答的 AI 助手 Web 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Srijan-D/pdf.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 30 --> 33
+    line [32, 31]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 31（-1）
 
 
 ---

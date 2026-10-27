@@ -45,12 +45,12 @@ Google DeepMind 论文 Long-form factuality in large language models 的官方�
 ```mermaid
 xychart-beta
     title "google-deepmind/long-form-factuality 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 694 --> 699
     line [695, 696, 698, 698]
 ```
 
-2026-10-18 695 → 2026-10-26 698（+3）
+2026-10-18 695 → 2026-10-27 698（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # zexadev/gemini-web2api-go
 
-⭐ 692 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zexadev/gemini-web2api-go) · 个人维护 · 中文 README
+⭐ 704 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zexadev/gemini-web2api-go) · 个人维护 · 中文 README
 
 **自托管代理：把 Gemini 网页端反代成 OpenAI 兼容 API**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zexadev/gemini-web2api-go 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 626 --> 698
-    line [632, 655, 666, 673, 682, 687, 692]
+    title "zexadev/gemini-web2api-go 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 625 --> 711
+    line [632, 655, 666, 673, 682, 687, 692, 704]
 ```
 
-2026-10-18 632 → 2026-10-26 692（+60）
+2026-10-18 632 → 2026-10-27 704（+72）
 
 
 ---

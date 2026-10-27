@@ -1,6 +1,6 @@
 # NVIDIA/Model-Optimizer
 
-⭐ 5,435 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/Model-Optimizer) · [官网](https://nvidia.github.io/Model-Optimizer/) · 组织维护
+⭐ 5,444 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/Model-Optimizer) · [官网](https://nvidia.github.io/Model-Optimizer/) · 组织维护
 
 **NVIDIA 的模型压缩优化库：量化/剪枝/蒸馏加速推理部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Model-Optimizer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5336 --> 5444
-    line [5345, 5370, 5394, 5413, 5425, 5428, 5435]
+    title "NVIDIA/Model-Optimizer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5336 --> 5453
+    line [5345, 5370, 5394, 5413, 5425, 5428, 5435, 5444]
 ```
 
-2026-10-18 5,345 → 2026-10-26 5,435（+90）
+2026-10-18 5,345 → 2026-10-27 5,444（+99）
 
 
 ---

@@ -1,6 +1,6 @@
 # argosopentech/argos-translate
 
-⭐ 6,592 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 组织维护
+⭐ 6,597 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 组织维护
 
 **离线机器翻译 Python 库，可直接产出翻译结果**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "argosopentech/argos-translate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6568 --> 6594
-    line [6570, 6579, 6585, 6586, 6589, 6591, 6592]
+    title "argosopentech/argos-translate 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6568 --> 6599
+    line [6570, 6579, 6585, 6586, 6589, 6591, 6592, 6597]
 ```
 
-2026-10-18 6,570 → 2026-10-26 6,592（+22）
+2026-10-18 6,570 → 2026-10-27 6,597（+27）
 
 
 ---

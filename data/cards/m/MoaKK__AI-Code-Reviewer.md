@@ -1,6 +1,6 @@
 # MoaKK/AI-Code-Reviewer
 
-⭐ 39 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/MoaKK/AI-Code-Reviewer) · 个人维护
+⭐ 38 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/MoaKK/AI-Code-Reviewer) · 个人维护
 
 **用 Claude API 自动审查 PR 的 GitHub Actions 机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MoaKK/AI-Code-Reviewer 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 38 --> 46
-    line [43, 45, 39, 39]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 37 --> 46
+    line [43, 45, 39, 38]
 ```
 
-2026-10-22 43 → 2026-10-26 39（-4）
+2026-10-22 43 → 2026-10-27 38（-5）
 
 
 ---

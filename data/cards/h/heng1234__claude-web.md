@@ -1,6 +1,6 @@
 # heng1234/claude-web
 
-⭐ 89 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heng1234/claude-web) · 个人维护 · 中文 README
+⭐ 90 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heng1234/claude-web) · 个人维护 · 中文 README
 
 **Claude Code CLI 的本地 Web 界面，支持多会话与工具可视化**
 
@@ -47,12 +47,12 @@ Claude Code 的本地 GUI 包装器：Code 模式经 Claude Agent SDK 原生持�
 ```mermaid
 xychart-beta
     title "heng1234/claude-web 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 83 --> 90
-    line [85, 84, 86, 87, 89, 89]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 83 --> 91
+    line [85, 84, 86, 87, 89, 90]
 ```
 
-2026-10-18 85 → 2026-10-26 89（+4）
+2026-10-18 85 → 2026-10-27 90（+5）
 
 
 ---

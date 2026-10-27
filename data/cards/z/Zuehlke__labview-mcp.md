@@ -1,6 +1,6 @@
 # Zuehlke/labview-mcp
 
-⭐ 74 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Zuehlke/labview-mcp) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Zuehlke/labview-mcp) · 组织维护
 
 **让 AI 助手读写运行本机 LabVIEW 代码的 MCP 服务器**
 
@@ -45,13 +45,13 @@ Zühlke 开源的 MCP 服务器，驱动运行中的 LabVIEW 2026，把 VI 转�
 
 ```mermaid
 xychart-beta
-    title "Zuehlke/labview-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 60 --> 75
-    line [61, 64, 69, 70, 71, 73, 74]
+    title "Zuehlke/labview-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 60 --> 77
+    line [61, 64, 69, 70, 71, 73, 74, 76]
 ```
 
-2026-10-18 61 → 2026-10-26 74（+13）
+2026-10-18 61 → 2026-10-27 76（+15）
 
 
 ---

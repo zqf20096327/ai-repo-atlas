@@ -1,6 +1,6 @@
 # Qingyon-AI/Revornix
 
-⭐ 291 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/Qingyon-AI/Revornix) · [官网](https://revornix.com) · 组织维护 · 中文 README
+⭐ 292 · TypeScript · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/Qingyon-AI/Revornix) · [官网](https://revornix.com) · 组织维护 · 中文 README
 
 **个人与团队的自托管 AI 信息工作台：收集内容并生成知识与播客**
 
@@ -47,12 +47,12 @@ Revornix 是可自托管的本地优先 AI 信息工作台，面向个人与团�
 ```mermaid
 xychart-beta
     title "Qingyon-AI/Revornix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 290 --> 292
-    line [291, 291]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 290 --> 293
+    line [291, 292]
 ```
 
-2026-10-18 291 → 2026-10-26 291（+0）
+2026-10-18 291 → 2026-10-27 292（+1）
 
 
 ---

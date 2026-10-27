@@ -1,6 +1,6 @@
 # meshy-dev/meshy-3d-agent
 
-⭐ 104 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/meshy-dev/meshy-3d-agent) · 组织维护
+⭐ 106 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/meshy-dev/meshy-3d-agent) · 组织维护
 
 **驱动 Meshy CLI 的 agent 技能包：文生/图生 3D 与 3D 打印工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meshy-dev/meshy-3d-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 101 --> 105
-    line [102, 103, 104]
+    title "meshy-dev/meshy-3d-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 101 --> 107
+    line [102, 103, 104, 106]
 ```
 
-2026-10-18 102 → 2026-10-26 104（+2）
+2026-10-18 102 → 2026-10-27 106（+4）
 
 
 ---

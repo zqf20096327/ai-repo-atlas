@@ -1,6 +1,6 @@
 # hbofz/NeSLE
 
-⭐ 35 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/hbofz/NeSLE) · [官网](https://github.com/hbofz/NeSLE/tree/main/docs) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hbofz/NeSLE) · [官网](https://github.com/hbofz/NeSLE/tree/main/docs) · 个人维护
 
 **GPU 上的 NES 模拟器 RL 栈：单卡并行数千环境训练智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hbofz/NeSLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

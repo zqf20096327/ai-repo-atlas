@@ -1,6 +1,6 @@
 # crynta/BibleOS
 
-⭐ 33 · TypeScript · MIT · 推送 2026-04-14 · [GitHub](https://github.com/crynta/BibleOS) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-04-14 · [GitHub](https://github.com/crynta/BibleOS) · 个人维护
 
 **带 AI 经文对话的跨平台轻量圣经阅读器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crynta/BibleOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 29 --> 34
-    line [30, 33]
+    title "crynta/BibleOS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 35
+    line [30, 33, 34]
 ```
 
-2026-10-18 30 → 2026-10-26 33（+3）
+2026-10-18 30 → 2026-10-27 34（+4）
 
 
 ---

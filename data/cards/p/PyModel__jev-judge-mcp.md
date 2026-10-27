@@ -1,6 +1,6 @@
 # PyModel/jev-judge-mcp
 
-⭐ 49 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/PyModel/jev-judge-mcp) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PyModel/jev-judge-mcp) · 组织维护
 
 **给编码 agent 提供 15 个类型化判断工具的 MCP 服务器**
 
@@ -45,13 +45,13 @@ MCP 服务器，向 Claude Code、Codex、Cursor、OpenCode、Pi 等编码 agent
 
 ```mermaid
 xychart-beta
-    title "PyModel/jev-judge-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "PyModel/jev-judge-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 47 --> 50
-    line [48, 49]
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-26 49（+1）
+2026-10-18 48 → 2026-10-27 49（+1）
 
 
 ---

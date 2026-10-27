@@ -1,6 +1,6 @@
 # IRISX-AI/IRIS-AI
 
-⭐ 220 · TypeScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/IRISX-AI/IRIS-AI) · [官网](https://www.irisxai.in/) · 个人维护
+⭐ 220 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/IRISX-AI/IRIS-AI) · [官网](https://www.irisxai.in/) · 个人维护
 
 **语音优先的桌面 AI 助手：用语音指挥执行系统操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IRISX-AI/IRIS-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 214 --> 221
     line [215, 217, 220, 220]
 ```
 
-2026-10-18 215 → 2026-10-26 220（+5）
+2026-10-18 215 → 2026-10-27 220（+5）
 
 
 ---

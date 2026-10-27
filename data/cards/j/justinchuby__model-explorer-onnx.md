@@ -45,12 +45,12 @@ google-ai-edge/model-explorer 的 ONNX 适配器，以 Python 包发布到 PyPI�
 ```mermaid
 xychart-beta
     title "justinchuby/model-explorer-onnx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-26 73（+0）
+2026-10-18 73 → 2026-10-27 73（+0）
 
 
 ---

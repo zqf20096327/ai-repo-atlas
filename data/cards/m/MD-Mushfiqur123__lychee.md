@@ -1,6 +1,6 @@
 # MD-Mushfiqur123/lychee
 
-⭐ 42 · Go · MIT · 推送 2026-06-17 · [GitHub](https://github.com/MD-Mushfiqur123/lychee) · [官网](https://github.com/MD-Mushfiqur123/lychee) · 个人维护
+⭐ 41 · Go · MIT · 推送 2026-06-17 · [GitHub](https://github.com/MD-Mushfiqur123/lychee) · [官网](https://github.com/MD-Mushfiqur123/lychee) · 个人维护
 
 **本地 LLM 运行时：兼容 Ollama 端口，支持 HuggingFace 模型直拉**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MD-Mushfiqur123/lychee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    line [41, 42, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 42（+1）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

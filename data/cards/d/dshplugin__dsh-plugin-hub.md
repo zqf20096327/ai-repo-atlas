@@ -1,6 +1,6 @@
 # dshplugin/dsh-plugin-hub
 
-⭐ 343 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dshplugin/dsh-plugin-hub) · [官网](https://dsh-plugin.org) · 组织维护 · 中文 README
+⭐ 358 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dshplugin/dsh-plugin-hub) · [官网](https://dsh-plugin.org) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的社区插件市场：浏览、搜索、一键安装插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dshplugin/dsh-plugin-hub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 232 --> 353
-    line [242, 269, 290, 304, 322, 331, 343]
+    title "dshplugin/dsh-plugin-hub 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 231 --> 369
+    line [242, 269, 290, 304, 322, 331, 343, 358]
 ```
 
-2026-10-18 242 → 2026-10-26 343（+101）
+2026-10-18 242 → 2026-10-27 358（+116）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaojingang/yao-geo-skills
 
-⭐ 897 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaojingang/yao-geo-skills) · [官网](https://yaojingang.github.io/yao-geo-skills/) · 个人维护 · 中文 README
+⭐ 900 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yaojingang/yao-geo-skills) · [官网](https://yaojingang.github.io/yao-geo-skills/) · 个人维护 · 中文 README
 
 **GEO（生成式引擎优化）工作流的 Agent Skill 集合仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaojingang/yao-geo-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 886 --> 898
-    line [887, 889, 891, 894, 895, 897, 897]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 886 --> 901
+    line [887, 889, 891, 894, 895, 897, 900]
 ```
 
-2026-10-18 887 → 2026-10-26 897（+10）
+2026-10-18 887 → 2026-10-27 900（+13）
 
 
 ---

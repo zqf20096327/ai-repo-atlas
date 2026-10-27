@@ -1,6 +1,6 @@
 # MiniMax-AI/OpenAgentCore
 
-⭐ 248 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MiniMax-AI/OpenAgentCore) · [官网](https://openagentcore.dev/) · 组织维护 · 中文 README
+⭐ 273 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/OpenAgentCore) · [官网](https://openagentcore.dev/) · 组织维护 · 中文 README
 
 **开源自托管版 OpenAI Agents API，用自有模型跑 Codex/Claude Code 等**
 
@@ -45,13 +45,13 @@ MiniMax 开源的自托管 agent 运行时：提供与 OpenAI Agents API 相同�
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/OpenAgentCore 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 232 --> 249
-    line [233, 236, 241, 244, 246, 248]
+    title "MiniMax-AI/OpenAgentCore 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 229 --> 277
+    line [233, 236, 241, 244, 246, 248, 273]
 ```
 
-2026-10-18 233 → 2026-10-26 248（+15）
+2026-10-18 233 → 2026-10-27 273（+40）
 
 
 ---

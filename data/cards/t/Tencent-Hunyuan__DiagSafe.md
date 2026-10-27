@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/DiagSafe
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Tencent-Hunyuan/DiagSafe) · [官网](https://tencent-hunyuan.github.io/DiagSafe/) · 组织维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Tencent-Hunyuan/DiagSafe) · [官网](https://tencent-hunyuan.github.io/DiagSafe/) · 组织维护 · 中文 README
 
 **LLM 安全诊断基准：3,489 条中英双语提示词与提示级评分细则**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/DiagSafe 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 21 --> 28
-    line [22, 26, 27]
+    title "Tencent-Hunyuan/DiagSafe 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 21 --> 31
+    line [22, 26, 27, 30]
 ```
 
-2026-10-23 22 → 2026-10-26 27（+5）
+2026-10-23 22 → 2026-10-27 30（+8）
 
 
 ---

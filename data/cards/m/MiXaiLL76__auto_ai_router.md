@@ -1,6 +1,6 @@
 # MiXaiLL76/auto_ai_router
 
-⭐ 54 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/MiXaiLL76/auto_ai_router) · [官网](https://mixaill76.github.io/auto_ai_router/) · 个人维护
+⭐ 54 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/MiXaiLL76/auto_ai_router) · [官网](https://mixaill76.github.io/auto_ai_router/) · 个人维护
 
 **面向多 LLM API 的高性能代理路由与负载均衡网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MiXaiLL76/auto_ai_router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-26 54（+0）
+2026-10-18 54 → 2026-10-27 54（+0）
 
 
 ---

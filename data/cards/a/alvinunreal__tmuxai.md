@@ -1,6 +1,6 @@
 # alvinunreal/tmuxai
 
-⭐ 1,965 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alvinunreal/tmuxai) · [官网](https://tmuxai.dev) · 个人维护
+⭐ 1,966 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alvinunreal/tmuxai) · [官网](https://tmuxai.dev) · 个人维护
 
 **驻留 tmux 会话的终端 AI 助手，读屏并代执行命令**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alvinunreal/tmuxai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1958 --> 1966
-    line [1959, 1963, 1964, 1965, 1965]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1958 --> 1967
+    line [1959, 1963, 1964, 1965, 1966]
 ```
 
-2026-10-18 1,959 → 2026-10-26 1,965（+6）
+2026-10-18 1,959 → 2026-10-27 1,966（+7）
 
 
 ---

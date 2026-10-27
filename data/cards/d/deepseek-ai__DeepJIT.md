@@ -1,6 +1,6 @@
 # deepseek-ai/DeepJIT
 
-⭐ 428 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/DeepJIT) · 组织维护 · 中文 README
+⭐ 429 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/deepseek-ai/DeepJIT) · 组织维护 · 中文 README
 
 **面向 C++/Python 扩展作者的 CUDA/昇腾内核 JIT 编译运行时**
 
@@ -45,12 +45,12 @@ header-only C++20 库，为 NVIDIA CUDA GPU 与华为昇腾 NPU 提供统一的�
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepJIT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 386 --> 431
-    line [389, 392, 413, 423, 425, 428, 428]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 385 --> 433
+    line [389, 392, 413, 423, 425, 428, 429]
 ```
 
-2026-10-18 389 → 2026-10-26 428（+39）
+2026-10-18 389 → 2026-10-27 429（+40）
 
 
 ---

@@ -1,6 +1,6 @@
 # LthreeC/pyruns
 
-⭐ 52 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/LthreeC/pyruns) · [官网](https://lthreec.github.io/pyruns/) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/LthreeC/pyruns) · [官网](https://lthreec.github.io/pyruns/) · 个人维护 · 中文 README
 
 **磁盘优先的 Python 实验与终端任务运行管理器**
 
@@ -46,12 +46,12 @@ Pyruns 以 pip 包提供的 CLI 工具（短入口 pyr），把命令、配置�
 ```mermaid
 xychart-beta
     title "LthreeC/pyruns 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 40 --> 57
-    line [41, 51, 56, 55, 52, 52]
+    line [41, 51, 56, 55, 52, 51]
 ```
 
-2026-10-18 41 → 2026-10-26 52（+11）
+2026-10-18 41 → 2026-10-27 51（+10）
 
 
 ---

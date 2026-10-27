@@ -1,6 +1,6 @@
 # gaosh/ToMoE
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/gaosh/ToMoE) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/gaosh/ToMoE) · 个人维护
 
 **科研代码：通过动态结构剪枝把稠密 LLaMA 转为 MoE 模型**
 
@@ -46,12 +46,12 @@ TMLR 论文 ToMoE 的官方实现，提供两条流水线：Pipeline A 训练超
 ```mermaid
 xychart-beta
     title "gaosh/ToMoE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

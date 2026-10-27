@@ -1,6 +1,6 @@
 # Orenoid/BabelDuck
 
-⭐ 692 · TypeScript · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Orenoid/BabelDuck) · [官网](https://duck.orenoid.com) · 个人维护 · 中文 README
+⭐ 693 · TypeScript · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Orenoid/BabelDuck) · [官网](https://duck.orenoid.com) · 个人维护 · 中文 README
 
 **面向语言学习者的 AI 口语对话练习应用，支持语音交互**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Orenoid/BabelDuck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 691 --> 694
-    line [693, 692, 692]
+    line [693, 692, 693]
 ```
 
-2026-10-18 693 → 2026-10-26 692（-1）
+2026-10-18 693 → 2026-10-27 693（+0）
 
 
 ---

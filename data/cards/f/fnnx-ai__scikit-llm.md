@@ -1,6 +1,6 @@
 # fnnx-ai/scikit-llm
 
-⭐ 3,534 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/fnnx-ai/scikit-llm) · [官网](https://beastbyte.ai/) · 组织维护
+⭐ 3,535 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/fnnx-ai/scikit-llm) · [官网](https://beastbyte.ai/) · 组织维护
 
 **将 LLM 集成到 scikit-learn 的 Python 库**
 
@@ -43,12 +43,12 @@ Scikit-LLM 是一个把 ChatGPT 等语言模型接入 scikit-learn 流水线的 
 ```mermaid
 xychart-beta
     title "fnnx-ai/scikit-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 3532 --> 3535
-    line [3533, 3534, 3534]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 3532 --> 3536
+    line [3533, 3534, 3535]
 ```
 
-2026-10-18 3,533 → 2026-10-26 3,534（+1）
+2026-10-18 3,533 → 2026-10-27 3,535（+2）
 
 
 ---

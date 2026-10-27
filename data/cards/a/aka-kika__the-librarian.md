@@ -1,6 +1,6 @@
 # aka-kika/the-librarian
 
-⭐ 42 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aka-kika/the-librarian) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aka-kika/the-librarian) · 个人维护
 
 **本地优先的 MCP 技能图书管理员：按意图检索技能并按使用结果策展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aka-kika/the-librarian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

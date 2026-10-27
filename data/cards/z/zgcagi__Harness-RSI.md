@@ -1,6 +1,6 @@
 # zgcagi/Harness-RSI
 
-⭐ 414 · TeX · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/zgcagi/Harness-RSI) · [官网](https://zgcagi.github.io/Harness-RSI/) · 组织维护 · 中文 README
+⭐ 420 · TeX · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/zgcagi/Harness-RSI) · [官网](https://zgcagi.github.io/Harness-RSI/) · 组织维护 · 中文 README
 
 **Agent Harness 自进化综述配套文献清单：理论/方法/评测条目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zgcagi/Harness-RSI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 142 --> 438
-    line [166, 230, 296, 310, 401, 411, 414]
+    title "zgcagi/Harness-RSI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 141 --> 445
+    line [166, 230, 296, 310, 401, 411, 414, 420]
 ```
 
-2026-10-18 166 → 2026-10-26 414（+248）
+2026-10-18 166 → 2026-10-27 420（+254）
 
 
 ---

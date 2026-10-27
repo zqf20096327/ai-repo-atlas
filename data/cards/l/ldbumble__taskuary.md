@@ -1,6 +1,6 @@
 # ldbumble/taskuary
 
-⭐ 143 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ldbumble/taskuary) · [官网](https://taskuary.com) · 个人维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ldbumble/taskuary) · [官网](https://taskuary.com) · 个人维护 · 中文 README
 
 **本地运行的个人信息AI助手：邮件/工单转任务，AI CLI 代办**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ldbumble/taskuary 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "ldbumble/taskuary 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 138 --> 144
-    line [139, 140, 141, 143]
+    line [139, 140, 141, 143, 143]
 ```
 
-2026-10-18 139 → 2026-10-26 143（+4）
+2026-10-18 139 → 2026-10-27 143（+4）
 
 
 ---

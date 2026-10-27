@@ -1,6 +1,6 @@
 # zanllp/infinite-image-browsing
 
-⭐ 1,363 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zanllp/infinite-image-browsing) · 个人维护 · 中文 README
+⭐ 1,362 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zanllp/infinite-image-browsing) · 个人维护 · 中文 README
 
 **面向 AI 绘图用户的图片/视频管理与语义搜索应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zanllp/infinite-image-browsing 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1358 --> 1364
-    line [1360, 1359, 1360, 1362, 1363, 1363]
+    line [1360, 1359, 1360, 1362, 1363, 1362]
 ```
 
-2026-10-18 1,360 → 2026-10-26 1,363（+3）
+2026-10-18 1,360 → 2026-10-27 1,362（+2）
 
 
 ---

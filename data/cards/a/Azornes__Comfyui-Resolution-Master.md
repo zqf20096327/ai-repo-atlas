@@ -1,6 +1,6 @@
 # Azornes/Comfyui-Resolution-Master
 
-⭐ 319 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Azornes/Comfyui-Resolution-Master) · 个人维护
+⭐ 320 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Azornes/Comfyui-Resolution-Master) · 个人维护
 
 **ComfyUI 自定义节点：精确控制生成分辨率与宽高比**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azornes/Comfyui-Resolution-Master 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 315 --> 320
-    line [316, 317, 319, 319]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 315 --> 321
+    line [316, 317, 319, 320]
 ```
 
-2026-10-18 316 → 2026-10-26 319（+3）
+2026-10-18 316 → 2026-10-27 320（+4）
 
 
 ---

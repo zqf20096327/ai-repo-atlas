@@ -1,6 +1,6 @@
 # aeon-toolkit/aeon
 
-⭐ 1,467 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/aeon-toolkit/aeon) · [官网](https://aeon-toolkit.org/) · 组织维护
+⭐ 1,469 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/aeon-toolkit/aeon) · [官网](https://aeon-toolkit.org/) · 组织维护
 
 **面向时间序列机器学习的 scikit-learn 兼容 Python 工具库**
 
@@ -46,13 +46,13 @@ aeon 是用于时间序列学习的 Python 库，提供分类、回归、聚类�
 
 ```mermaid
 xychart-beta
-    title "aeon-toolkit/aeon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1457 --> 1468
-    line [1458, 1459, 1462, 1463, 1466, 1467]
+    title "aeon-toolkit/aeon 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1457 --> 1470
+    line [1458, 1459, 1462, 1463, 1466, 1467, 1469]
 ```
 
-2026-10-18 1,458 → 2026-10-26 1,467（+9）
+2026-10-18 1,458 → 2026-10-27 1,469（+11）
 
 
 ---

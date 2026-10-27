@@ -1,6 +1,6 @@
 # smixs/osint-skill
 
-⭐ 148 · Shell · MIT · 推送 2026-03-10 · [GitHub](https://github.com/smixs/osint-skill) · [官网](https://github.com/smixs/osint-skill#readme) · 个人维护 · 中文 README
+⭐ 150 · Shell · MIT · 推送 2026-03-10 · [GitHub](https://github.com/smixs/osint-skill) · [官网](https://github.com/smixs/osint-skill#readme) · 个人维护 · 中文 README
 
 **AI 编码代理的 OSINT 技能包：从姓名生成人物情报档案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smixs/osint-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 145 --> 149
-    line [146, 147, 148, 148]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 145 --> 151
+    line [146, 147, 148, 150]
 ```
 
-2026-10-18 146 → 2026-10-26 148（+2）
+2026-10-18 146 → 2026-10-27 150（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # RealAlexandreAI/json-repair
 
-⭐ 384 · Go · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/RealAlexandreAI/json-repair) · [官网](https://pkg.go.dev/github.com/RealAlexandreAI/json-repair) · 个人维护 · 中文 README
+⭐ 384 · Go · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/RealAlexandreAI/json-repair) · [官网](https://pkg.go.dev/github.com/RealAlexandreAI/json-repair) · 个人维护 · 中文 README
 
 **修复 LLM 输出的畸形 JSON 的 Go 库与 CLI**
 
@@ -45,12 +45,12 @@ json_repair 的 Go 移植，模块为 github.com/RealAlexandreAI/json-repair，G
 ```mermaid
 xychart-beta
     title "RealAlexandreAI/json-repair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 383 --> 385
     line [384, 384]
 ```
 
-2026-10-18 384 → 2026-10-26 384（+0）
+2026-10-18 384 → 2026-10-27 384（+0）
 
 
 ---

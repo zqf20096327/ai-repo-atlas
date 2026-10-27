@@ -1,6 +1,6 @@
 # mckinsey/causalnex
 
-⭐ 2,491 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/mckinsey/causalnex) · [官网](http://causalnex.readthedocs.io/) · 组织维护
+⭐ 2,492 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/mckinsey/causalnex) · [官网](http://causalnex.readthedocs.io/) · 组织维护
 
 **基于贝叶斯网络的因果推断与反事实分析 Python 库（已停止维护）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mckinsey/causalnex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 2488 --> 2492
-    line [2489, 2490, 2491]
+    title "mckinsey/causalnex 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2488 --> 2493
+    line [2489, 2490, 2491, 2492]
 ```
 
-2026-10-18 2,489 → 2026-10-26 2,491（+2）
+2026-10-18 2,489 → 2026-10-27 2,492（+3）
 
 
 ---

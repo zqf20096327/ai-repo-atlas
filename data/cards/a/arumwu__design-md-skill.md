@@ -1,6 +1,6 @@
 # arumwu/design-md-skill
 
-⭐ 46 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/arumwu/design-md-skill) · 个人维护 · 中文 README
+⭐ 48 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/arumwu/design-md-skill) · 个人维护 · 中文 README
 
 **Claude/agent 技能：把 74 个品牌设计系统变成可挑选的参考索引**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arumwu/design-md-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 41 --> 47
-    line [42, 43, 45, 46]
+    title "arumwu/design-md-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 41 --> 49
+    line [42, 43, 45, 46, 48]
 ```
 
-2026-10-18 42 → 2026-10-26 46（+4）
+2026-10-18 42 → 2026-10-27 48（+6）
 
 
 ---

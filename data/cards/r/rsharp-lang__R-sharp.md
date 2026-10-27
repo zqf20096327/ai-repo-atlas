@@ -1,6 +1,6 @@
 # rsharp-lang/R-sharp
 
-⭐ 35 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/rsharp-lang/R-sharp) · [官网](https://rsharp.net/) · 个人维护
+⭐ 35 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/rsharp-lang/R-sharp) · [官网](https://rsharp.net/) · 个人维护
 
 **基于 .NET 的类 R 向量化语言，用于生物信息数据分析**
 
@@ -45,12 +45,12 @@ R# 是实现于 .NET 运行时上的类 R 向量化脚本语言，解释器与 .
 ```mermaid
 xychart-beta
     title "rsharp-lang/R-sharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

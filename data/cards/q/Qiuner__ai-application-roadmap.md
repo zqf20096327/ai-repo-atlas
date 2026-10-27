@@ -1,6 +1,6 @@
 # Qiuner/ai-application-roadmap
 
-⭐ 281 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/Qiuner/ai-application-roadmap) · 个人维护 · 中文 README
+⭐ 282 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/Qiuner/ai-application-roadmap) · 个人维护 · 中文 README
 
 **双语 AI 应用工程演进路线图网站（时间线+指南）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Qiuner/ai-application-roadmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 280 --> 283
-    line [282, 281, 281]
+    line [282, 281, 282]
 ```
 
-2026-10-18 282 → 2026-10-26 281（-1）
+2026-10-18 282 → 2026-10-27 282（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/nccl-extensions
 
-⭐ 70 · Cuda · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/nccl-extensions) · 组织维护
+⭐ 71 · Cuda · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/nccl-extensions) · 组织维护
 
 **面向 AI 训练的 GPU 通信模式库，基于 NCCL API**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的通信库集合，构建于 NCCL 设备与主机 API 之上，�
 ```mermaid
 xychart-beta
     title "NVIDIA/nccl-extensions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 67 --> 72
+    line [68, 69, 70, 71]
 ```
 
-2026-10-18 68 → 2026-10-26 70（+2）
+2026-10-18 68 → 2026-10-27 71（+3）
 
 
 ---

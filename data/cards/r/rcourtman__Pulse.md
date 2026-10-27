@@ -1,6 +1,6 @@
 # rcourtman/Pulse
 
-⭐ 6,937 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rcourtman/Pulse) · [官网](https://pulserelay.pro) · 个人维护
+⭐ 6,945 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rcourtman/Pulse) · [官网](https://pulserelay.pro) · 个人维护
 
 **自托管基础设施监控面板：覆盖 Proxmox/Docker/K8s/TrueNAS 等**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rcourtman/Pulse 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6853 --> 6944
-    line [6860, 6892, 6906, 6915, 6923, 6929, 6937]
+    title "rcourtman/Pulse 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6852 --> 6953
+    line [6860, 6892, 6906, 6915, 6923, 6929, 6937, 6945]
 ```
 
-2026-10-18 6,860 → 2026-10-26 6,937（+77）
+2026-10-18 6,860 → 2026-10-27 6,945（+85）
 
 
 ---

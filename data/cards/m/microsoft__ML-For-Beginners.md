@@ -1,6 +1,6 @@
 # microsoft/ML-For-Beginners
 
-⭐ 91,741 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
+⭐ 91,768 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
 
 **面向初学者的 12 周 26 课经典机器学习课程**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ML-For-Beginners 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 91541 --> 91759
-    line [91559, 91606, 91645, 91674, 91694, 91711, 91741]
+    title "microsoft/ML-For-Beginners 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 91539 --> 91788
+    line [91559, 91606, 91645, 91674, 91694, 91711, 91741, 91768]
 ```
 
-2026-10-18 91,559 → 2026-10-26 91,741（+182）
+2026-10-18 91,559 → 2026-10-27 91,768（+209）
 
 
 ---

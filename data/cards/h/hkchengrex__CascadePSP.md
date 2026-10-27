@@ -1,6 +1,6 @@
 # hkchengrex/CascadePSP
 
-⭐ 886 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/hkchengrex/CascadePSP) · [官网](https://hkchengrex.com/CascadePSP/) · 个人维护
+⭐ 887 · Python · MIT · 推送 2026-01-02 · [GitHub](https://github.com/hkchengrex/CascadePSP) · [官网](https://hkchengrex.com/CascadePSP/) · 个人维护
 
 **高分辨率分割掩码精修的 PyTorch 模型与训练代码**
 
@@ -45,12 +45,12 @@ CVPR 2020 论文的官方 PyTorch 实现：CascadePSP 是一个类别无关的�
 ```mermaid
 xychart-beta
     title "hkchengrex/CascadePSP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 884 --> 887
-    line [885, 886, 886]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 884 --> 888
+    line [885, 886, 887]
 ```
 
-2026-10-18 885 → 2026-10-26 886（+1）
+2026-10-18 885 → 2026-10-27 887（+2）
 
 
 ---

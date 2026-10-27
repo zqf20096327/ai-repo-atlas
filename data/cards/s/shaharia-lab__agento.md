@@ -1,6 +1,6 @@
 # shaharia-lab/agento
 
-⭐ 33 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shaharia-lab/agento) · [官网](https://myagento.app/) · 个人维护
+⭐ 33 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shaharia-lab/agento) · [官网](https://myagento.app/) · 个人维护
 
 **Claude Code 用户的桌面平台：会话成本分析与个人 Agent 运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shaharia-lab/agento 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

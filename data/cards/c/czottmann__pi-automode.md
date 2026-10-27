@@ -1,6 +1,6 @@
 # czottmann/pi-automode
 
-⭐ 198 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/czottmann/pi-automode) · [官网](https://npmx.dev/package/@czottmann/pi-automode) · 个人维护
+⭐ 199 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/czottmann/pi-automode) · [官网](https://npmx.dev/package/@czottmann/pi-automode) · 个人维护
 
 **Pi/OMP 的 Claude Code 式 auto 模式守卫扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "czottmann/pi-automode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 195 --> 199
-    line [196, 197, 198]
+    title "czottmann/pi-automode 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 195 --> 200
+    line [196, 197, 198, 199]
 ```
 
-2026-10-18 196 → 2026-10-26 198（+2）
+2026-10-18 196 → 2026-10-27 199（+3）
 
 
 ---

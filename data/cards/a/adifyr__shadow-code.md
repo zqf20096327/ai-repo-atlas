@@ -45,12 +45,12 @@ Shadow Code 是一个免费开源的 VS Code 与 Cursor 扩展，实现所谓 Sh
 ```mermaid
 xychart-beta
     title "adifyr/shadow-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-26 80（+0）
+2026-10-18 80 → 2026-10-27 80（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/paid-media-agent
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/paid-media-agent) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/paid-media-agent) · 组织维护
 
 **跨渠道广告代理：分析 Google/Meta 等广告效果并生成报告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/paid-media-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "langchain-ai/paid-media-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 108 --> 115
-    line [109, 111, 110, 111, 114]
+    line [109, 111, 110, 111, 114, 113]
 ```
 
-2026-10-18 109 → 2026-10-26 114（+5）
+2026-10-18 109 → 2026-10-27 113（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # datawhalechina/reasoning-kingdom
 
-⭐ 217 · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
+⭐ 216 · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
 
 **三部曲开源书籍：从信息论与逻辑剖析 AI 推理的本质与边界**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/reasoning-kingdom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 215 --> 218
-    line [216, 217, 217]
+    line [216, 217, 216]
 ```
 
-2026-10-18 216 → 2026-10-26 217（+1）
+2026-10-18 216 → 2026-10-27 216（+0）
 
 
 ---

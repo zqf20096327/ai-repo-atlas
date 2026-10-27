@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "handsomeZR-netizen/cn-patent-drafter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "handsomeZR-netizen/cn-patent-drafter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 60 --> 64
-    line [61, 62, 63]
+    line [61, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-10-26 63（+2）
+2026-10-18 61 → 2026-10-27 63（+2）
 
 
 ---

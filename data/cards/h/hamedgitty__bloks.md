@@ -1,6 +1,6 @@
 # hamedgitty/bloks
 
-⭐ 229 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 组织维护
+⭐ 232 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 组织维护
 
 **本地优先的个人 AI agent 桌面工作区（Mac/Win/Linux+iPhone）**
 
@@ -45,13 +45,13 @@ Bloks 是一个 Electron 桌面应用，把个人 AI agent 以消息应用的形
 
 ```mermaid
 xychart-beta
-    title "hamedgitty/bloks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 190 --> 232
-    line [193, 198, 217, 223, 226, 229]
+    title "hamedgitty/bloks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 190 --> 235
+    line [193, 198, 217, 223, 226, 229, 232]
 ```
 
-2026-10-18 193 → 2026-10-26 229（+36）
+2026-10-18 193 → 2026-10-27 232（+39）
 
 
 ---

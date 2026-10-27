@@ -1,6 +1,6 @@
 # camel-ai/oasis
 
-⭐ 5,346 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/oasis) · [官网](https://docs.oasis.camel-ai.org/) · 组织维护 · 中文 README
+⭐ 5,352 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/camel-ai/oasis) · [官网](https://docs.oasis.camel-ai.org/) · 组织维护 · 中文 README
 
 **给科研人员的百万级 LLM 智能体社交媒体模拟平台**
 
@@ -45,13 +45,13 @@ OASIS 是开源社交媒体模拟器，用大语言模型智能体模拟 Twitter
 
 ```mermaid
 xychart-beta
-    title "camel-ai/oasis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5293 --> 5350
-    line [5297, 5312, 5323, 5329, 5336, 5339, 5346]
+    title "camel-ai/oasis 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5292 --> 5357
+    line [5297, 5312, 5323, 5329, 5336, 5339, 5346, 5352]
 ```
 
-2026-10-18 5,297 → 2026-10-26 5,346（+49）
+2026-10-18 5,297 → 2026-10-27 5,352（+55）
 
 
 ---

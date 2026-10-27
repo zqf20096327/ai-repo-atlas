@@ -1,6 +1,6 @@
 # AliSharjeell/OpenBUA
 
-⭐ 50 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/AliSharjeell/OpenBUA) · [官网](www.openbua.com) · 个人维护
+⭐ 51 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/AliSharjeell/OpenBUA) · [官网](www.openbua.com) · 个人维护
 
 **本地运行的 Chrome 自主 AI 浏览器代理扩展**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "AliSharjeell/OpenBUA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50]
+    title "AliSharjeell/OpenBUA 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 49, 50, 51]
 ```
 
-2026-10-18 47 → 2026-10-26 50（+3）
+2026-10-18 47 → 2026-10-27 51（+4）
 
 
 ---

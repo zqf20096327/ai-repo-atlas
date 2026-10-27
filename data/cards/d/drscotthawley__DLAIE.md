@@ -45,12 +45,12 @@ Scott H. Hawley 在 Belmont 大学 2019-2023 年讲授的 Deep Learning & AI Eth
 ```mermaid
 xychart-beta
     title "drscotthawley/DLAIE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 46（+0）
 
 
 ---

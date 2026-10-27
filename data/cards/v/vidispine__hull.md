@@ -1,6 +1,6 @@
 # vidispine/hull
 
-⭐ 295 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/vidispine/hull) · [官网](https://hull.readthedocs.io/en/latest/) · 组织维护
+⭐ 295 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vidispine/hull) · [官网](https://hull.readthedocs.io/en/latest/) · 组织维护
 
 **Helm 库图表：在 values.yaml 中直接定义 Kubernetes 对象**
 
@@ -46,12 +46,12 @@ HULL 是一个 Helm library chart，用于简化基于 Helm chart 的工作流�
 ```mermaid
 xychart-beta
     title "vidispine/hull 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-23", "2026-10-27"]
     y-axis "stars" 294 --> 296
     line [295, 295]
 ```
 
-2026-10-23 295 → 2026-10-26 295（+0）
+2026-10-23 295 → 2026-10-27 295（+0）
 
 
 ---

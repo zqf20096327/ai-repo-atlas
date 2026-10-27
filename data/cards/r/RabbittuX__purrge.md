@@ -1,6 +1,6 @@
 # RabbittuX/purrge
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/RabbittuX/purrge) · 个人维护 · 中文 README
+⭐ 65 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/RabbittuX/purrge) · 个人维护 · 中文 README
 
 **macOS/Windows 的 AI 辅助磁盘清理工具：低空间预警+AI 分析+用户确认**
 
@@ -45,13 +45,13 @@ macOS 与 Windows 的磁盘空间管理工具：后台服务定时检测剩余�
 
 ```mermaid
 xychart-beta
-    title "RabbittuX/purrge 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6 --> 33
-    line [8, 9, 10, 31]
+    title "RabbittuX/purrge 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3 --> 70
+    line [8, 9, 10, 31, 65]
 ```
 
-2026-10-23 8 → 2026-10-26 31（+23）
+2026-10-23 8 → 2026-10-27 65（+57）
 
 
 ---

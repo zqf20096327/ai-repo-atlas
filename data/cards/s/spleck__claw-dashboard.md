@@ -1,6 +1,6 @@
 # spleck/claw-dashboard
 
-⭐ 122 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/spleck/claw-dashboard) · [官网](https://www.npmjs.com/package/claw-dashboard) · 个人维护
+⭐ 122 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/spleck/claw-dashboard) · [官网](https://www.npmjs.com/package/claw-dashboard) · 个人维护
 
 **终端实时监控面板：监控 OpenClaw 实例与系统资源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spleck/claw-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 121 --> 123
     line [122, 122]
 ```
 
-2026-10-18 122 → 2026-10-26 122（+0）
+2026-10-18 122 → 2026-10-27 122（+0）
 
 
 ---

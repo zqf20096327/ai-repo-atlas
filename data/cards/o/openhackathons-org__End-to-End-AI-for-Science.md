@@ -45,12 +45,12 @@ OpenHackathons 发布的 Bootcamp 教材仓库：以 NVIDIA PhysicsNeMo 框架�
 ```mermaid
 xychart-beta
     title "openhackathons-org/End-to-End-AI-for-Science 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 263 --> 269
     line [264, 267, 268, 268]
 ```
 
-2026-10-18 264 → 2026-10-26 268（+4）
+2026-10-18 264 → 2026-10-27 268（+4）
 
 
 ---

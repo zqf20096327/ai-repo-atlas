@@ -1,6 +1,6 @@
 # santosomar/AI-agents-for-cybersecurity
 
-⭐ 256 · Python · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/santosomar/AI-agents-for-cybersecurity) · 个人维护
+⭐ 257 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/santosomar/AI-agents-for-cybersecurity) · 个人维护
 
 **面向安全团队的 AI agent 实战代码、实验与参考资料库**
 
@@ -47,12 +47,12 @@ Omar Santos 维护的伴生代码仓库，服务于其培训课程、视频课�
 ```mermaid
 xychart-beta
     title "santosomar/AI-agents-for-cybersecurity 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 247 --> 257
-    line [248, 250, 252, 253, 254, 256, 256]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 247 --> 258
+    line [248, 250, 252, 253, 254, 256, 257]
 ```
 
-2026-10-18 248 → 2026-10-26 256（+8）
+2026-10-18 248 → 2026-10-27 257（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # AllSpark-Research/Vela
 
-⭐ 30 · 推送 2026-10-14 · [GitHub](https://github.com/AllSpark-Research/Vela) · [官网](https://allspark-research.github.io/Vela/) · 组织维护 · 中文 README
+⭐ 31 · 推送 2026-10-14 · [GitHub](https://github.com/AllSpark-Research/Vela) · [官网](https://allspark-research.github.io/Vela/) · 组织维护 · 中文 README
 
 **Vela 论文官方仓库：74 个用户行为监督任务模板与提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AllSpark-Research/Vela 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 24 --> 31
-    line [25, 26, 30, 30]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 24 --> 32
+    line [25, 26, 30, 31]
 ```
 
-2026-10-18 25 → 2026-10-26 30（+5）
+2026-10-18 25 → 2026-10-27 31（+6）
 
 
 ---

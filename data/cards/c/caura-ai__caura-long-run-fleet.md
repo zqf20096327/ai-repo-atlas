@@ -1,6 +1,6 @@
 # caura-ai/caura-long-run-fleet
 
-⭐ 79 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-long-run-fleet) · [官网](https://caura.ai) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-long-run-fleet) · [官网](https://caura.ai) · 组织维护
 
 **演示多 Agent 共享治理记忆的参考舰队示例（Caura）**
 
@@ -46,12 +46,12 @@ Caura（开源 Agent 共享记忆层，曾名 MemClaw）官方维护的可运行
 ```mermaid
 xychart-beta
     title "caura-ai/caura-long-run-fleet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 78 --> 84
-    line [79, 82, 83, 79, 79]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 77 --> 84
+    line [79, 82, 83, 79, 78]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 78（-1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/logits-processor-zoo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "NVIDIA/logits-processor-zoo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 389 --> 392
-    line [390, 391]
+    line [390, 391, 391]
 ```
 
-2026-10-18 390 → 2026-10-26 391（+1）
+2026-10-18 390 → 2026-10-27 391（+1）
 
 
 ---

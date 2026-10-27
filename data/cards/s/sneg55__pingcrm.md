@@ -1,6 +1,6 @@
 # sneg55/pingcrm
 
-⭐ 126 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/sneg55/pingcrm) · [官网](https://pingcrm.xyz) · 个人维护
+⭐ 127 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sneg55/pingcrm) · [官网](https://pingcrm.xyz) · 个人维护
 
 **可自托管的开源个人人脉 CRM，AI 生成跟进建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sneg55/pingcrm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 125 --> 131
-    line [129, 130, 126, 126]
+    line [129, 130, 126, 127]
 ```
 
-2026-10-18 129 → 2026-10-26 126（-3）
+2026-10-18 129 → 2026-10-27 127（-2）
 
 
 ---

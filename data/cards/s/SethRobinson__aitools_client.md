@@ -1,6 +1,6 @@
 # SethRobinson/aitools_client
 
-⭐ 188 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SethRobinson/aitools_client) · 个人维护
+⭐ 188 · C# · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/SethRobinson/aitools_client) · 个人维护
 
 **Unity 桌面前端：通过 ComfyUI 与 LLM 生成故事、图像、视频、海报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SethRobinson/aitools_client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 187 --> 189
     line [188, 188]
 ```
 
-2026-10-18 188 → 2026-10-26 188（+0）
+2026-10-18 188 → 2026-10-27 188（+0）
 
 
 ---

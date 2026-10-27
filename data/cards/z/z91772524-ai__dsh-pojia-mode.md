@@ -1,6 +1,6 @@
 # z91772524-ai/dsh-pojia-mode
 
-⭐ 113 · PowerShell · MIT · 推送 2026-09-25 · [GitHub](https://github.com/z91772524-ai/dsh-pojia-mode) · 个人维护 · 中文 README
+⭐ 118 · PowerShell · MIT · 推送 2026-09-25 · [GitHub](https://github.com/z91772524-ai/dsh-pojia-mode) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 一键安装「破甲模式」Agent Preset 的 PowerShell 安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "z91772524-ai/dsh-pojia-mode 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 88 --> 115
-    line [90, 98, 102, 105, 109, 110, 113]
+    title "z91772524-ai/dsh-pojia-mode 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 88 --> 120
+    line [90, 98, 102, 105, 109, 110, 113, 118]
 ```
 
-2026-10-18 90 → 2026-10-26 113（+23）
+2026-10-18 90 → 2026-10-27 118（+28）
 
 
 ---

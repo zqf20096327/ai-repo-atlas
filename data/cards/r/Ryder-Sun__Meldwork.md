@@ -1,6 +1,6 @@
 # Ryder-Sun/Meldwork
 
-⭐ 1,090 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Ryder-Sun/Meldwork) · [官网](https://ryder-sun.github.io/Meldwork/) · 个人维护 · 中文 README
+⭐ 1,107 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Ryder-Sun/Meldwork) · [官网](https://ryder-sun.github.io/Meldwork/) · 个人维护 · 中文 README
 
 **本地优先的多 AI 编码 agent 协作桌面工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ryder-Sun/Meldwork 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 999 --> 1098
-    line [1007, 1058, 1085, 1066, 1084, 1090, 1090]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 997 --> 1117
+    line [1007, 1058, 1085, 1066, 1084, 1090, 1107]
 ```
 
-2026-10-18 1,007 → 2026-10-26 1,090（+83）
+2026-10-18 1,007 → 2026-10-27 1,107（+100）
 
 
 ---

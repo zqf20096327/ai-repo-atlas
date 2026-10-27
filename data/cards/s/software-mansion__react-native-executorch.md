@@ -1,6 +1,6 @@
 # software-mansion/react-native-executorch
 
-⭐ 1,776 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/software-mansion/react-native-executorch) · [官网](http://docs.swmansion.com/react-native-executorch/) · 组织维护
+⭐ 1,777 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/software-mansion/react-native-executorch) · [官网](http://docs.swmansion.com/react-native-executorch/) · 组织维护
 
 **React Native 应用内的端侧 AI 推理库，基于 ExecuTorch 运行模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "software-mansion/react-native-executorch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1764 --> 1777
-    line [1765, 1767, 1770, 1773, 1774, 1776]
+    title "software-mansion/react-native-executorch 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1764 --> 1778
+    line [1765, 1767, 1770, 1773, 1774, 1776, 1777]
 ```
 
-2026-10-18 1,765 → 2026-10-26 1,776（+11）
+2026-10-18 1,765 → 2026-10-27 1,777（+12）
 
 
 ---

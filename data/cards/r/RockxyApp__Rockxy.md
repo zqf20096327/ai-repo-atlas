@@ -1,6 +1,6 @@
 # RockxyApp/Rockxy
 
-⭐ 1,441 · Swift · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/RockxyApp/Rockxy) · [官网](https://rockxy.io) · 组织维护 · 中文 README
+⭐ 1,445 · Swift · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/RockxyApp/Rockxy) · [官网](https://rockxy.io) · 组织维护 · 中文 README
 
 **macOS 原生 HTTP/HTTPS 调试代理（AGPL 社区源码版）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RockxyApp/Rockxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1425 --> 1442
-    line [1426, 1434, 1435, 1438, 1439, 1441]
+    title "RockxyApp/Rockxy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1425 --> 1446
+    line [1426, 1434, 1435, 1438, 1439, 1441, 1445]
 ```
 
-2026-10-18 1,426 → 2026-10-26 1,441（+15）
+2026-10-18 1,426 → 2026-10-27 1,445（+19）
 
 
 ---

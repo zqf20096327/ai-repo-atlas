@@ -1,6 +1,6 @@
 # Creepybits/ComfyUI-Creepy_nodes
 
-⭐ 33 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Creepybits/ComfyUI-Creepy_nodes) · [官网](https://zanno.se/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Creepybits/ComfyUI-Creepy_nodes) · [官网](https://zanno.se/) · 个人维护
 
 **ComfyUI 自定义节点套件：媒体优化、放大与云盘集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Creepybits/ComfyUI-Creepy_nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

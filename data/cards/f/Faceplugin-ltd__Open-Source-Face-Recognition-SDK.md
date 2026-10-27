@@ -1,6 +1,6 @@
 # Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 
-⭐ 2,957 · Python · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 3,023 · Python · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) · [官网](https://faceplugin.com/) · 组织维护
 
 **开源人脸识别 SDK：本地完成人脸检测、关键点与比对**
 
@@ -45,13 +45,13 @@ Faceplugin 公司发布的 Python 人脸识别 SDK，本地运行深度学习模
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/Open-Source-Face-Recognition-SDK 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2590 --> 2990
-    line [2623, 2661, 2737, 2744, 2757, 2887, 2957]
+    title "Faceplugin-ltd/Open-Source-Face-Recognition-SDK 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2583 --> 3063
+    line [2623, 2661, 2737, 2744, 2757, 2887, 2957, 3023]
 ```
 
-2026-10-18 2,623 → 2026-10-26 2,957（+334）
+2026-10-18 2,623 → 2026-10-27 3,023（+400）
 
 
 ---

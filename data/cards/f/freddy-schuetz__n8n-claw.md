@@ -1,6 +1,6 @@
 # freddy-schuetz/n8n-claw
 
-⭐ 560 · Shell · 推送 2026-10-25 · [GitHub](https://github.com/freddy-schuetz/n8n-claw) · [官网](https://n8n-claw.com) · 个人维护
+⭐ 561 · Shell · 推送 2026-10-25 · [GitHub](https://github.com/freddy-schuetz/n8n-claw) · [官网](https://n8n-claw.com) · 个人维护
 
 **自托管个人 AI agent：n8n 上运行，经 Telegram/HTTP 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "freddy-schuetz/n8n-claw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 558 --> 561
-    line [559, 560, 560]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 558 --> 562
+    line [559, 560, 561]
 ```
 
-2026-10-18 559 → 2026-10-26 560（+1）
+2026-10-18 559 → 2026-10-27 561（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # localai-org/vllm.cpp
 
-⭐ 458 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/localai-org/vllm.cpp) · 组织维护
+⭐ 461 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/localai-org/vllm.cpp) · 组织维护
 
 **C++20 实现的 vLLM 式本地推理引擎，无 Python 依赖**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "localai-org/vllm.cpp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 450 --> 459
-    line [451, 452, 454, 455, 456, 458]
+    title "localai-org/vllm.cpp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 450 --> 462
+    line [451, 452, 454, 455, 456, 458, 461]
 ```
 
-2026-10-18 451 → 2026-10-26 458（+7）
+2026-10-18 451 → 2026-10-27 461（+10）
 
 
 ---

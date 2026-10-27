@@ -1,6 +1,6 @@
 # alvinreal/awesome-openclaw
 
-⭐ 745 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/alvinreal/awesome-openclaw) · [官网](https://clawisthelaw.com) · 个人维护 · 中文 README
+⭐ 747 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/alvinreal/awesome-openclaw) · [官网](https://clawisthelaw.com) · 个人维护 · 中文 README
 
 **OpenClaw 生态资源策展清单：官方项目、技能、面板与部署工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alvinreal/awesome-openclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 741 --> 746
-    line [742, 743, 744, 745]
+    title "alvinreal/awesome-openclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 741 --> 748
+    line [742, 743, 744, 745, 747]
 ```
 
-2026-10-18 742 → 2026-10-26 745（+3）
+2026-10-18 742 → 2026-10-27 747（+5）
 
 
 ---

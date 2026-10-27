@@ -46,12 +46,12 @@ ICML 2024 论文 Let Go of Your Labels with Unsupervised Transfer 的官方源�
 ```mermaid
 xychart-beta
     title "mlbio-epfl/turtle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-26 81（+0）
+2026-10-18 81 → 2026-10-27 81（+0）
 
 
 ---

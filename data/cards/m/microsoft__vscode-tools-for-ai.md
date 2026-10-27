@@ -45,12 +45,12 @@ Azure Machine Learning for Visual Studio Code 扩展（早期名称 Visual Studi
 ```mermaid
 xychart-beta
     title "microsoft/vscode-tools-for-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 339 --> 341
     line [340, 340]
 ```
 
-2026-10-18 340 → 2026-10-26 340（+0）
+2026-10-18 340 → 2026-10-27 340（+0）
 
 
 ---

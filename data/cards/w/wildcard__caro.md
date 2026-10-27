@@ -1,6 +1,6 @@
 # wildcard/caro
 
-⭐ 40 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wildcard/caro) · [官网](https://caro.sh/) · 个人维护
+⭐ 40 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/wildcard/caro) · [官网](https://caro.sh/) · 个人维护
 
 **自然语言生成安全 POSIX 命令的 Rust CLI（本地 LLM）**
 
@@ -45,12 +45,12 @@ Rust 单二进制 CLI，将自然语言任务描述转换为 POSIX shell 命令�
 ```mermaid
 xychart-beta
     title "wildcard/caro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-26 40（+0）
+2026-10-18 40 → 2026-10-27 40（+0）
 
 
 ---

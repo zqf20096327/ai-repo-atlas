@@ -1,6 +1,6 @@
 # lucidrains/x-mlps-pytorch
 
-⭐ 51 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lucidrains/x-mlps-pytorch) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/x-mlps-pytorch) · 个人维护
 
 **PyTorch 的 MLP 及变体组件库，避免跨项目重复实现**
 
@@ -44,12 +44,12 @@ lucidrains 维护的 PyTorch 多层感知机（MLP）组件集合，收录从常
 ```mermaid
 xychart-beta
     title "lucidrains/x-mlps-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-26 51（+0）
+2026-10-18 51 → 2026-10-27 51（+0）
 
 
 ---

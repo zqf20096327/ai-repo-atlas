@@ -1,6 +1,6 @@
 # trademav/ramdeck-core-public
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/trademav/ramdeck-core-public) · [官网](https://ramdeck.com) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/trademav/ramdeck-core-public) · [官网](https://ramdeck.com) · 组织维护
 
 **把多台旧设备的 RAM 池化，分布式跑更大 LLM 的节点引擎**
 
@@ -44,13 +44,13 @@ RAMDeck 的核心节点引擎公开参考快照：在 Mac/Windows/Android 设备
 
 ```mermaid
 xychart-beta
-    title "trademav/ramdeck-core-public 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 56 --> 64
-    line [57, 58, 60, 61, 62, 63]
+    title "trademav/ramdeck-core-public 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 56 --> 68
+    line [57, 58, 60, 61, 62, 63, 67]
 ```
 
-2026-10-18 57 → 2026-10-26 63（+6）
+2026-10-18 57 → 2026-10-27 67（+10）
 
 
 ---

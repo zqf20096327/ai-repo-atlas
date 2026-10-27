@@ -1,6 +1,6 @@
 # vercel/ai
 
-⭐ 27,510 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/vercel/ai) · [官网](https://ai-sdk.dev) · 组织维护
+⭐ 27,522 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/vercel/ai) · [官网](https://ai-sdk.dev) · 组织维护
 
 **给 TypeScript 开发者的统一接口 AI 应用与 Agent 构建工具包**
 
@@ -51,13 +51,13 @@ Vercel 出品的 provider-agnostic TypeScript 工具库，用于构建 AI 应用
 
 ```mermaid
 xychart-beta
-    title "vercel/ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 27350 --> 27524
-    line [27364, 27401, 27435, 27457, 27489, 27493, 27510]
+    title "vercel/ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 27349 --> 27537
+    line [27364, 27401, 27435, 27457, 27489, 27493, 27510, 27522]
 ```
 
-2026-10-18 27,364 → 2026-10-26 27,510（+146）
+2026-10-18 27,364 → 2026-10-27 27,522（+158）
 
 
 ---

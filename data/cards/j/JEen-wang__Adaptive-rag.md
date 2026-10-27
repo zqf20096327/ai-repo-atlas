@@ -1,6 +1,6 @@
 # JEen-wang/Adaptive-rag
 
-⭐ 159 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JEen-wang/Adaptive-rag) · 个人维护 · 中文 README
+⭐ 162 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JEen-wang/Adaptive-rag) · 个人维护 · 中文 README
 
 **按问题复杂度分流的电商客服多智能体 RAG 示例工程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JEen-wang/Adaptive-rag 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 123 --> 162
-    line [126, 136, 143, 150, 159]
+    title "JEen-wang/Adaptive-rag 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 123 --> 165
+    line [126, 136, 143, 150, 159, 162]
 ```
 
-2026-10-22 126 → 2026-10-26 159（+33）
+2026-10-22 126 → 2026-10-27 162（+36）
 
 
 ---

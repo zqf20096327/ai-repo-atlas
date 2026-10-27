@@ -1,6 +1,6 @@
 # microsoft/quicksand
 
-⭐ 359 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/quicksand) · [官网](https://microsoft.github.io/quicksand/) · 组织维护
+⭐ 386 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/quicksand) · [官网](https://microsoft.github.io/quicksand/) · 组织维护
 
 **面向 AI agent 沙箱化的 QEMU 虚拟机异步 Python API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/quicksand 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 220 --> 371
-    line [232, 304, 334, 346, 354, 358, 359]
+    title "microsoft/quicksand 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 217 --> 401
+    line [232, 304, 334, 346, 354, 358, 359, 386]
 ```
 
-2026-10-18 232 → 2026-10-26 359（+127）
+2026-10-18 232 → 2026-10-27 386（+154）
 
 
 ---

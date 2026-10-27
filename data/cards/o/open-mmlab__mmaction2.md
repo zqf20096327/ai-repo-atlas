@@ -1,6 +1,6 @@
 # open-mmlab/mmaction2
 
-⭐ 5,183 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/open-mmlab/mmaction2) · [官网](https://mmaction2.readthedocs.io) · 组织维护 · 中文 README
+⭐ 5,185 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/open-mmlab/mmaction2) · [官网](https://mmaction2.readthedocs.io) · 组织维护 · 中文 README
 
 **基于 PyTorch 的视频理解工具箱：行为识别/定位/检测/检索**
 
@@ -44,13 +44,13 @@ OpenMMLab 视频理解工具箱，覆盖行为识别、时序行为定位、时�
 
 ```mermaid
 xychart-beta
-    title "open-mmlab/mmaction2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 5176 --> 5184
-    line [5177, 5180, 5181, 5182, 5183]
+    title "open-mmlab/mmaction2 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5176 --> 5186
+    line [5177, 5180, 5181, 5182, 5183, 5185]
 ```
 
-2026-10-18 5,177 → 2026-10-26 5,183（+6）
+2026-10-18 5,177 → 2026-10-27 5,185（+8）
 
 
 ---

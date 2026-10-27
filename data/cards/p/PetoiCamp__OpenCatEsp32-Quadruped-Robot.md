@@ -1,6 +1,6 @@
 # PetoiCamp/OpenCatEsp32-Quadruped-Robot
 
-⭐ 512 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) · 组织维护
+⭐ 515 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) · 组织维护
 
 **ESP32 四足机器宠物的开源框架，面向教育、研究与DIY**
 
@@ -46,13 +46,13 @@ Petoi 维护的 OpenCat 四足机器人框架在 ESP32/BiBoard 上的代码库�
 
 ```mermaid
 xychart-beta
-    title "PetoiCamp/OpenCatEsp32-Quadruped-Robot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 490 --> 514
-    line [492, 498, 502, 505, 508, 509, 512]
+    title "PetoiCamp/OpenCatEsp32-Quadruped-Robot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 490 --> 517
+    line [492, 498, 502, 505, 508, 509, 512, 515]
 ```
 
-2026-10-18 492 → 2026-10-26 512（+20）
+2026-10-18 492 → 2026-10-27 515（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/langchainjs
 
-⭐ 18,294 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
+⭐ 18,297 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchainjs) · [官网](https://docs.langchain.com/langchain/) · 组织维护
 
 **JavaScript 开发者构建 LLM 应用的组件化框架**
 
@@ -52,13 +52,13 @@ LangChain.js 是 TypeScript 编写的框架，用于构建由 LLM 驱动的应�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchainjs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18274 --> 18295
-    line [18275, 18280, 18287, 18289, 18293, 18292, 18294]
+    title "langchain-ai/langchainjs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18273 --> 18299
+    line [18275, 18280, 18287, 18289, 18293, 18292, 18294, 18297]
 ```
 
-2026-10-18 18,275 → 2026-10-26 18,294（+19）
+2026-10-18 18,275 → 2026-10-27 18,297（+22）
 
 
 ---

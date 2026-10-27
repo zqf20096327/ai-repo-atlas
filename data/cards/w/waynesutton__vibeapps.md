@@ -1,6 +1,6 @@
 # waynesutton/vibeapps
 
-⭐ 25 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/waynesutton/vibeapps) · [官网](https://vibeapps.dev) · 个人维护
+⭐ 25 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/waynesutton/vibeapps) · [官网](https://vibeapps.dev) · 个人维护
 
 **应用展示社区平台：提交、评分与竞赛评审 App 目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "waynesutton/vibeapps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-26 25（+0）
+2026-10-18 25 → 2026-10-27 25（+0）
 
 
 ---

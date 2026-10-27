@@ -1,6 +1,6 @@
 # Pupok462/open-geo
 
-⭐ 27 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Pupok462/open-geo) · [官网](https://pupok462.github.io/open-geo/) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Pupok462/open-geo) · [官网](https://pupok462.github.io/open-geo/) · 个人维护 · 中文 README
 
 **测量品牌在七大 AI 引擎答案中可见度的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pupok462/open-geo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # balrog-ai/BALROG
 
-⭐ 275 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/balrog-ai/BALROG) · [官网](https://balrogai.com) · 组织维护
+⭐ 276 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/balrog-ai/BALROG) · [官网](https://balrogai.com) · 组织维护
 
 **评测 LLM/VLM 在游戏环境中 agent 推理能力的基准**
 
@@ -45,12 +45,12 @@ BALROG 是一个基于强化学习环境（游戏）的评测基准，衡量 LLM
 ```mermaid
 xychart-beta
     title "balrog-ai/BALROG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 273 --> 276
-    line [274, 275, 275]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 273 --> 277
+    line [274, 275, 276]
 ```
 
-2026-10-18 274 → 2026-10-26 275（+1）
+2026-10-18 274 → 2026-10-27 276（+2）
 
 
 ---

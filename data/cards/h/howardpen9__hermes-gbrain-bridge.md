@@ -1,6 +1,6 @@
 # howardpen9/hermes-gbrain-bridge
 
-⭐ 69 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/howardpen9/hermes-gbrain-bridge) · 个人维护 · 中文 README
+⭐ 70 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/howardpen9/hermes-gbrain-bridge) · 个人维护 · 中文 README
 
 **把各类 AI agent 记忆转换为 markdown 供 gBrain 导入的桥接工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "howardpen9/hermes-gbrain-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-26 69（+0）
+2026-10-18 69 → 2026-10-27 70（+1）
 
 
 ---

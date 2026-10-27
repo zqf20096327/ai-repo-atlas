@@ -1,6 +1,6 @@
 # dxxzst/mml-book-chinese
 
-⭐ 272 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/dxxzst/mml-book-chinese) · 个人维护 · 中文 README
+⭐ 273 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/dxxzst/mml-book-chinese) · 个人维护 · 中文 README
 
 **《机器学习中的数学》中文学术教材翻译项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dxxzst/mml-book-chinese 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 269 --> 273
-    line [270, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 269 --> 274
+    line [270, 271, 272, 273]
 ```
 
-2026-10-18 270 → 2026-10-26 272（+2）
+2026-10-18 270 → 2026-10-27 273（+3）
 
 
 ---

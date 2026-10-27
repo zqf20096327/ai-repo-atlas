@@ -1,6 +1,6 @@
 # Flood-Lab/HydroTuring
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Flood-Lab/HydroTuring) · [官网](https://flood-lab.github.io/HydroTuring/) · 组织维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Flood-Lab/HydroTuring) · [官网](https://flood-lab.github.io/HydroTuring/) · 组织维护
 
 **AI 水文模型的物理守恒基准测试套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Flood-Lab/HydroTuring 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-26 39（+0）
+2026-10-18 39 → 2026-10-27 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # github/copilot-app-for-beginners
 
-⭐ 67 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/github/copilot-app-for-beginners) · [官网](https://gh.io/copilot-app-course) · 组织维护
+⭐ 68 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/github/copilot-app-for-beginners) · [官网](https://gh.io/copilot-app-course) · 组织维护
 
 **GitHub Copilot 桌面应用入门课程：教你指挥 AI 编码 agent**
 
@@ -45,12 +45,12 @@ GitHub 官方维护的入门教程仓库，主题为 GitHub Copilot app——一
 ```mermaid
 xychart-beta
     title "github/copilot-app-for-beginners 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 60 --> 68
-    line [61, 63, 65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 60 --> 69
+    line [61, 63, 65, 66, 67, 68]
 ```
 
-2026-10-18 61 → 2026-10-26 67（+6）
+2026-10-18 61 → 2026-10-27 68（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # osqp/osqp
 
-⭐ 2,213 · C · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/osqp/osqp) · [官网](https://osqp.org) · 组织维护
+⭐ 2,214 · C · Apache-2.0 · 推送 2026-01-12 · [GitHub](https://github.com/osqp/osqp) · [官网](https://osqp.org) · 组织维护
 
 **数值优化库：求解二次规划（QP）问题**
 
@@ -45,12 +45,12 @@ OSQP（Operator Splitting Quadratic Program）是用 ADMM 类算子分裂方法�
 ```mermaid
 xychart-beta
     title "osqp/osqp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2209 --> 2214
-    line [2210, 2211, 2213, 2213]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2209 --> 2215
+    line [2210, 2211, 2213, 2214]
 ```
 
-2026-10-18 2,210 → 2026-10-26 2,213（+3）
+2026-10-18 2,210 → 2026-10-27 2,214（+4）
 
 
 ---

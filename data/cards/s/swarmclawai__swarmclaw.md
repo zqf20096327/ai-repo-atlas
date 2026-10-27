@@ -1,6 +1,6 @@
 # swarmclawai/swarmclaw
 
-⭐ 697 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmclaw) · [官网](https://www.swarmclaw.ai) · 组织维护
+⭐ 698 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/swarmclawai/swarmclaw) · [官网](https://www.swarmclaw.ai) · 组织维护
 
 **自托管多智能体运行时与编排框架，支持 23+ LLM 提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swarmclawai/swarmclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 690 --> 699
-    line [691, 693, 697, 698, 697, 697]
+    line [691, 693, 697, 698, 697, 698]
 ```
 
-2026-10-18 691 → 2026-10-26 697（+6）
+2026-10-18 691 → 2026-10-27 698（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # daimonia-ai/STC-Simplified-Technical-Chinese
 
-⭐ 100 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
+⭐ 103 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
 
 **给 AI 用的开源中文写作规范：规则、词表与检查工具**
 
@@ -46,12 +46,12 @@ STC 提供中文表达规则（通用规则加对话、文档、产品界面、A
 ```mermaid
 xychart-beta
     title "daimonia-ai/STC-Simplified-Technical-Chinese 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 67 --> 103
-    line [70, 81, 89, 93, 97, 100, 100]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 67 --> 106
+    line [70, 81, 89, 93, 97, 100, 103]
 ```
 
-2026-10-18 70 → 2026-10-26 100（+30）
+2026-10-18 70 → 2026-10-27 103（+33）
 
 
 ---

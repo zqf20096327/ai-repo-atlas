@@ -1,6 +1,6 @@
 # StayLameBro/backburner
 
-⭐ 1,118 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/StayLameBro/backburner) · 组织维护
+⭐ 1,123 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/StayLameBro/backburner) · 组织维护
 
 **iPhone 经 USB-C 协助 Mac 本地跑 27B 模型：更快预填充与更长上下文**
 
@@ -44,13 +44,13 @@ llama.cpp 的分支推理引擎：将 iPhone/iPad 经 10 Gb/s USB-C 接入 Mac�
 
 ```mermaid
 xychart-beta
-    title "StayLameBro/backburner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1015 --> 1127
-    line [1024, 1070, 1094, 1103, 1108, 1118]
+    title "StayLameBro/backburner 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1015 --> 1132
+    line [1024, 1070, 1094, 1103, 1108, 1118, 1123]
 ```
 
-2026-10-18 1,024 → 2026-10-26 1,118（+94）
+2026-10-18 1,024 → 2026-10-27 1,123（+99）
 
 
 ---

@@ -1,6 +1,6 @@
 # heypinchy/pinchy
 
-⭐ 184 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/heypinchy/pinchy) · [官网](https://heypinchy.com) · 个人维护
+⭐ 184 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/heypinchy/pinchy) · [官网](https://heypinchy.com) · 个人维护
 
 **自托管的企业级 AI agent 平台，基于 OpenClaw 加权限与审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heypinchy/pinchy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 182 --> 185
     line [183, 184, 184]
 ```
 
-2026-10-18 183 → 2026-10-26 184（+1）
+2026-10-18 183 → 2026-10-27 184（+1）
 
 
 ---

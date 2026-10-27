@@ -1,6 +1,6 @@
 # Eshaan-Nair/ArcRift
 
-⭐ 248 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Eshaan-Nair/ArcRift) · [官网](https://arcrift.vercel.app/) · 个人维护
+⭐ 247 · TypeScript · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Eshaan-Nair/ArcRift) · [官网](https://arcrift.vercel.app/) · 个人维护
 
 **给 AI 编程工具与浏览器聊天的本地持久记忆层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eshaan-Nair/ArcRift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Eshaan-Nair/ArcRift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 246 --> 249
-    line [247, 248]
+    line [247, 248, 247]
 ```
 
-2026-10-18 247 → 2026-10-26 248（+1）
+2026-10-18 247 → 2026-10-27 247（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FlineDev/TranslateKitSDK
 
-⭐ 217 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FlineDev/TranslateKitSDK) · [官网](https://translatekit.app) · 个人维护
+⭐ 216 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FlineDev/TranslateKitSDK) · [官网](https://translatekit.app) · 个人维护
 
 **Swift 应用预置本地化字符串 SDK：2000+ 条 40 语言**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlineDev/TranslateKitSDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "FlineDev/TranslateKitSDK 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 215 --> 218
-    line [216, 217]
+    line [216, 217, 216]
 ```
 
-2026-10-18 216 → 2026-10-26 217（+1）
+2026-10-18 216 → 2026-10-27 216（+0）
 
 
 ---

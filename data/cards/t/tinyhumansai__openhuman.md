@@ -1,6 +1,6 @@
 # tinyhumansai/openhuman
 
-⭐ 42,331 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
+⭐ 42,353 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tinyhumansai/openhuman) · [官网](https://tinyhumans.ai/openhuman) · 个人维护 · 中文 README
 
 **Rust 编写的 agent 运行时：单机运行数百个 agent 的桌面应用与库**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/openhuman 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 42110 --> 42351
-    line [42130, 42158, 42231, 42255, 42298, 42331]
+    title "tinyhumansai/openhuman 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 42108 --> 42375
+    line [42130, 42158, 42231, 42255, 42298, 42331, 42353]
 ```
 
-2026-10-18 42,130 → 2026-10-26 42,331（+201）
+2026-10-18 42,130 → 2026-10-27 42,353（+223）
 
 
 ---

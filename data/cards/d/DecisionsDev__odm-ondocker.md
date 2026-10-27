@@ -1,6 +1,6 @@
 # DecisionsDev/odm-ondocker
 
-⭐ 54 · Shell · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/DecisionsDev/odm-ondocker) · [官网](https://odmdev.github.io/odm-ondocker/) · 组织维护
+⭐ 54 · Shell · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/DecisionsDev/odm-ondocker) · [官网](https://odmdev.github.io/odm-ondocker/) · 组织维护
 
 **用 Docker Compose 部署 IBM ODM 决策平台的仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "DecisionsDev/odm-ondocker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-26 54（+0）
+2026-10-18 54 → 2026-10-27 54（+0）
 
 
 ---

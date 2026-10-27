@@ -1,6 +1,6 @@
 # arthurdjn/pytorch-pointcloud
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/arthurdjn/pytorch-pointcloud) · [官网](https://pytorch-pointcloud.org) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/arthurdjn/pytorch-pointcloud) · [官网](https://pytorch-pointcloud.org) · 个人维护
 
 **点云深度学习模型库：提供预训练权重与统一接口**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "arthurdjn/pytorch-pointcloud 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 25 --> 31
-    line [26, 28, 30, 30]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 25 --> 32
+    line [26, 28, 30, 31]
 ```
 
-2026-10-18 26 → 2026-10-26 30（+4）
+2026-10-18 26 → 2026-10-27 31（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-MCP
 
-⭐ 1,591 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
+⭐ 1,592 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
 
 **MiniMax 官方 MCP 服务器：语音、图像与视频生成 API 接入**
 
@@ -45,13 +45,13 @@ MiniMax 官方维护的 Model Context Protocol 服务器，把 MiniMax 的文本
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-MCP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "MiniMax-AI/MiniMax-MCP 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1589 --> 1595
-    line [1590, 1591, 1593, 1594, 1590, 1591]
+    line [1590, 1591, 1593, 1594, 1590, 1591, 1592]
 ```
 
-2026-10-18 1,590 → 2026-10-26 1,591（+1）
+2026-10-18 1,590 → 2026-10-27 1,592（+2）
 
 
 ---

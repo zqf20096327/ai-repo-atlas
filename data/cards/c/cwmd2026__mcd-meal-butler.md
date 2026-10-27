@@ -41,6 +41,18 @@ WorkBuddy Skill 形态的麦当劳拼单助手：由 Agent 读取 SKILL.md 指�
 > L69: |🗣️ **大白话点单**|随口说"板烧不要生菜""可乐换无糖"，Agent 解析成结构化订单|
 > L90: Agent 会走完 解析 → 精算 → 分账 → 海报 → （可选）下单 全流程，最终给出四块内容：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cwmd2026/mcd-meal-butler 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 54 --> 56
+    line [55, 55]
+```
+
+2026-10-26 55 → 2026-10-27 55（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `f7c7455d7f2d` · [字段定义](../../DATASET.md)*

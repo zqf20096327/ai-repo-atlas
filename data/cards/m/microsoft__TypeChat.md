@@ -1,6 +1,6 @@
 # microsoft/TypeChat
 
-⭐ 8,691 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护
+⭐ 8,691 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护
 
 **用类型 schema 构建自然语言接口的库**
 
@@ -45,12 +45,12 @@ TypeChat 是微软维护的库，把自然语言请求映射到开发者定义�
 ```mermaid
 xychart-beta
     title "microsoft/TypeChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 8690 --> 8694
     line [8693, 8692, 8691, 8691]
 ```
 
-2026-10-18 8,693 → 2026-10-26 8,691（-2）
+2026-10-18 8,693 → 2026-10-27 8,691（-2）
 
 
 ---

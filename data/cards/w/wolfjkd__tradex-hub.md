@@ -1,6 +1,6 @@
 # wolfjkd/tradex-hub
 
-⭐ 65 · Python · 推送 2026-10-20 · [GitHub](https://github.com/wolfjkd/tradex-hub) · 个人维护 · 中文 README
+⭐ 67 · Python · 推送 2026-10-20 · [GitHub](https://github.com/wolfjkd/tradex-hub) · 个人维护 · 中文 README
 
 **本地运行的 A 股金融数据中台，供 AI Agent 统一调用**
 
@@ -46,12 +46,12 @@ tradex-hub 是本地运行的金融数据网关：把通达信（eltdx/TQ/官方
 ```mermaid
 xychart-beta
     title "wolfjkd/tradex-hub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 61 --> 66
-    line [62, 65, 65]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 61 --> 68
+    line [62, 65, 67]
 ```
 
-2026-10-18 62 → 2026-10-26 65（+3）
+2026-10-18 62 → 2026-10-27 67（+5）
 
 
 ---

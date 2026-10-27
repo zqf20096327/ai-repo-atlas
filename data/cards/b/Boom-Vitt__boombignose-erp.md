@@ -1,6 +1,6 @@
 # Boom-Vitt/boombignose-erp
 
-⭐ 53 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Boom-Vitt/boombignose-erp) · 组织维护 · 中文 README
+⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Boom-Vitt/boombignose-erp) · 组织维护 · 中文 README
 
 **面向泰国中小企业的开源 ERP（CRM/销售/采购/库存/财务）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Boom-Vitt/boombignose-erp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-23 52 → 2026-10-26 53（+1）
+2026-10-23 52 → 2026-10-27 54（+2）
 
 
 ---

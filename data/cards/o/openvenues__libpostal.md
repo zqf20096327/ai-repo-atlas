@@ -1,6 +1,6 @@
 # openvenues/libpostal
 
-⭐ 4,914 · C · MIT · 推送 2026-05-13 · [GitHub](https://github.com/openvenues/libpostal) · 组织维护
+⭐ 4,915 · C · MIT · 推送 2026-05-13 · [GitHub](https://github.com/openvenues/libpostal) · 组织维护
 
 **全球街道地址解析/归一化的 C 库，供地理与数据清洗使用**
 
@@ -44,13 +44,13 @@ libpostal 是纯 C 编写的街道地址解析与归一化库，面向处理地�
 
 ```mermaid
 xychart-beta
-    title "openvenues/libpostal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 4911 --> 4915
-    line [4913, 4912, 4913, 4914]
+    title "openvenues/libpostal 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4911 --> 4916
+    line [4913, 4912, 4913, 4914, 4915]
 ```
 
-2026-10-18 4,913 → 2026-10-26 4,914（+1）
+2026-10-18 4,913 → 2026-10-27 4,915（+2）
 
 
 ---

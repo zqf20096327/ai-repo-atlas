@@ -1,6 +1,6 @@
 # stereolabs/zed-sdk
 
-⭐ 1,246 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/stereolabs/zed-sdk) · [官网](https://stereolabs.com) · 组织维护
+⭐ 1,247 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/stereolabs/zed-sdk) · [官网](https://stereolabs.com) · 组织维护
 
 **ZED 立体相机的空间感知 SDK：深度/检测/追踪/建图**
 
@@ -44,13 +44,13 @@ Stereolabs 为 ZED 立体相机提供的跨平台空间感知库及配套教程�
 
 ```mermaid
 xychart-beta
-    title "stereolabs/zed-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1241 --> 1247
-    line [1242, 1244, 1245, 1246]
+    title "stereolabs/zed-sdk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1241 --> 1248
+    line [1242, 1244, 1245, 1246, 1247]
 ```
 
-2026-10-18 1,242 → 2026-10-26 1,246（+4）
+2026-10-18 1,242 → 2026-10-27 1,247（+5）
 
 
 ---

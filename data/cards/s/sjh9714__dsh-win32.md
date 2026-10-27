@@ -1,6 +1,6 @@
 # sjh9714/dsh-win32
 
-⭐ 139 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sjh9714/dsh-win32) · [官网](https://www.npmjs.com/package/dsh-win32) · 个人维护 · 中文 README
+⭐ 140 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/sjh9714/dsh-win32) · [官网](https://www.npmjs.com/package/dsh-win32) · 个人维护 · 中文 README
 
 **在原生 Windows 上诊断并修复 DeepSeek Harness（DSH）的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjh9714/dsh-win32 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "sjh9714/dsh-win32 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 123 --> 141
-    line [124, 132, 137, 139, 140, 137, 139]
+    line [124, 132, 137, 139, 140, 137, 139, 140]
 ```
 
-2026-10-18 124 → 2026-10-26 139（+15）
+2026-10-18 124 → 2026-10-27 140（+16）
 
 
 ---

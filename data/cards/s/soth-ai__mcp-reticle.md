@@ -1,6 +1,6 @@
 # soth-ai/mcp-reticle
 
-⭐ 123 · Rust · MIT · 推送 2026-01-06 · [GitHub](https://github.com/soth-ai/mcp-reticle) · 组织维护
+⭐ 124 · Rust · MIT · 推送 2026-01-06 · [GitHub](https://github.com/soth-ai/mcp-reticle) · 组织维护
 
 **MCP JSON-RPC 流量实时拦截、可视化与性能分析工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "soth-ai/mcp-reticle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 121 --> 125
+    line [122, 123, 124]
 ```
 
-2026-10-18 122 → 2026-10-26 123（+1）
+2026-10-18 122 → 2026-10-27 124（+2）
 
 
 ---

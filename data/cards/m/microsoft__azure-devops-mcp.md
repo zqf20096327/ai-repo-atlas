@@ -1,6 +1,6 @@
 # microsoft/azure-devops-mcp
 
-⭐ 2,068 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/azure-devops-mcp) · 组织维护
+⭐ 2,070 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/azure-devops-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 访问 Azure DevOps 的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-devops-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2054 --> 2069
-    line [2055, 2059, 2060, 2062, 2065, 2067, 2068]
+    title "microsoft/azure-devops-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2054 --> 2071
+    line [2055, 2059, 2060, 2062, 2065, 2067, 2068, 2070]
 ```
 
-2026-10-18 2,055 → 2026-10-26 2,068（+13）
+2026-10-18 2,055 → 2026-10-27 2,070（+15）
 
 
 ---

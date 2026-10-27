@@ -1,6 +1,6 @@
 # xiaofang142/hivemtk
 
-⭐ 139 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xiaofang142/hivemtk) · [官网](https://xapptool.cn/) · 组织维护 · 中文 README
+⭐ 140 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/xiaofang142/hivemtk) · [官网](https://xapptool.cn/) · 组织维护 · 中文 README
 
 **中文私域运营团队的开源 AI 营销 SCRM 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaofang142/hivemtk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 124 --> 140
-    line [125, 127, 131, 135, 138, 139]
+    title "xiaofang142/hivemtk 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 124 --> 141
+    line [125, 127, 131, 135, 138, 139, 140]
 ```
 
-2026-10-18 125 → 2026-10-26 139（+14）
+2026-10-18 125 → 2026-10-27 140（+15）
 
 
 ---

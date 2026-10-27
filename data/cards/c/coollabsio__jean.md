@@ -1,6 +1,6 @@
 # coollabsio/jean
 
-⭐ 1,362 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/coollabsio/jean) · [官网](https://jean.build) · 个人维护
+⭐ 1,364 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/coollabsio/jean) · [官网](https://jean.build) · 个人维护
 
 **AI agent 开发环境：并行运行多家 CLI agent 于独立 worktree**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coollabsio/jean 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1336 --> 1364
-    line [1338, 1345, 1351, 1355, 1357, 1358, 1362]
+    title "coollabsio/jean 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1336 --> 1366
+    line [1338, 1345, 1351, 1355, 1357, 1358, 1362, 1364]
 ```
 
-2026-10-18 1,338 → 2026-10-26 1,362（+24）
+2026-10-18 1,338 → 2026-10-27 1,364（+26）
 
 
 ---

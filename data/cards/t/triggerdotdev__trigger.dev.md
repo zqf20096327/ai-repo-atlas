@@ -1,6 +1,6 @@
 # triggerdotdev/trigger.dev
 
-⭐ 16,616 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/triggerdotdev/trigger.dev) · [官网](https://trigger.dev/changelog) · 组织维护
+⭐ 16,621 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/triggerdotdev/trigger.dev) · [官网](https://trigger.dev/changelog) · 组织维护
 
 **为开发者提供 TypeScript 平台构建部署持久化 AI 工作流**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "triggerdotdev/trigger.dev 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 16557 --> 16621
-    line [16562, 16580, 16592, 16604, 16607, 16608, 16616]
+    title "triggerdotdev/trigger.dev 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 16557 --> 16626
+    line [16562, 16580, 16592, 16604, 16607, 16608, 16616, 16621]
 ```
 
-2026-10-18 16,562 → 2026-10-26 16,616（+54）
+2026-10-18 16,562 → 2026-10-27 16,621（+59）
 
 
 ---

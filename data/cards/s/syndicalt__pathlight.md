@@ -1,6 +1,6 @@
 # syndicalt/pathlight
 
-⭐ 26 · TypeScript · 推送 2026-05-01 · [GitHub](https://github.com/syndicalt/pathlight) · 组织维护
+⭐ 25 · TypeScript · 推送 2026-05-01 · [GitHub](https://github.com/syndicalt/pathlight) · 组织维护
 
 **给 AI agent 开发者的可视化调试与执行追踪观测平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "syndicalt/pathlight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 24 --> 27
+    line [26, 25]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 25（-1）
 
 
 ---

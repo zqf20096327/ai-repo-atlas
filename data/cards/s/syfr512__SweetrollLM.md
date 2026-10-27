@@ -1,6 +1,6 @@
 # syfr512/SweetrollLM
 
-⭐ 75 · Python · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/syfr512/SweetrollLM) · 个人维护
+⭐ 77 · Python · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/syfr512/SweetrollLM) · 个人维护
 
 **本地优先的桌面 AI 角色扮演聊天客户端，含 GGUF 推理与 agent 工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "syfr512/SweetrollLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 61 --> 76
-    line [62, 65, 68, 72, 73, 75]
+    title "syfr512/SweetrollLM 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 61 --> 78
+    line [62, 65, 68, 72, 73, 75, 77]
 ```
 
-2026-10-18 62 → 2026-10-26 75（+13）
+2026-10-18 62 → 2026-10-27 77（+15）
 
 
 ---

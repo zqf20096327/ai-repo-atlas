@@ -1,6 +1,6 @@
 # embabel/embabel-agent
 
-⭐ 4,532 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/embabel/embabel-agent) · [官网](https://hub.embabel.com) · 组织维护
+⭐ 4,534 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/embabel/embabel-agent) · [官网](https://hub.embabel.com) · 组织维护
 
 **JVM/Kotlin 上的 agentic 流程编排框架，由 Spring 创始人发起**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "embabel/embabel-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4519 --> 4533
-    line [4520, 4525, 4527, 4528, 4532, 4532]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 4519 --> 4535
+    line [4520, 4525, 4527, 4528, 4532, 4534]
 ```
 
-2026-10-18 4,520 → 2026-10-26 4,532（+12）
+2026-10-18 4,520 → 2026-10-27 4,534（+14）
 
 
 ---

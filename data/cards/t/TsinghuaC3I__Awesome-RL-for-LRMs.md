@@ -1,6 +1,6 @@
 # TsinghuaC3I/Awesome-RL-for-LRMs
 
-⭐ 2,495 · TeX · MIT · 推送 2026-09-14 · [GitHub](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) · [官网](https://arxiv.org/abs/2509.08827) · 组织维护 · 中文 README
+⭐ 2,496 · TeX · MIT · 推送 2026-09-14 · [GitHub](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) · [官网](https://arxiv.org/abs/2509.08827) · 组织维护 · 中文 README
 
 **大推理模型强化学习综述论文清单（科研向策展）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TsinghuaC3I/Awesome-RL-for-LRMs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "TsinghuaC3I/Awesome-RL-for-LRMs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2491 --> 2497
-    line [2494, 2492, 2494, 2495, 2496, 2495]
+    line [2494, 2492, 2494, 2495, 2496, 2495, 2496]
 ```
 
-2026-10-18 2,494 → 2026-10-26 2,495（+1）
+2026-10-18 2,494 → 2026-10-27 2,496（+2）
 
 
 ---

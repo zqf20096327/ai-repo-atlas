@@ -1,6 +1,6 @@
 # anthropics/claude-tag-plugins
 
-⭐ 67 · Shell · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/claude-tag-plugins) · 组织维护
+⭐ 70 · Shell · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/claude-tag-plugins) · 组织维护
 
 **将 Claude agent 接入常见 SaaS 服务的官方插件集合**
 
@@ -45,12 +45,12 @@ Anthropic 维护的 @claude 插件集合，每个服务一个独立插件，覆�
 ```mermaid
 xychart-beta
     title "anthropics/claude-tag-plugins 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 62 --> 68
-    line [63, 64, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 62 --> 71
+    line [63, 64, 66, 67, 70]
 ```
 
-2026-10-18 63 → 2026-10-26 67（+4）
+2026-10-18 63 → 2026-10-27 70（+7）
 
 
 ---

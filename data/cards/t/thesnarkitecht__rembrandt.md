@@ -1,6 +1,6 @@
 # thesnarkitecht/rembrandt
 
-⭐ 186 · C++ · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/thesnarkitecht/rembrandt) · 个人维护
+⭐ 187 · C++ · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/thesnarkitecht/rembrandt) · 个人维护
 
 **免费开源 RAW 照片编辑器与图库，含端侧 AI 功能，可自托管**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thesnarkitecht/rembrandt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 148 --> 189
-    line [151, 165, 175, 176, 181, 183, 186]
+    title "thesnarkitecht/rembrandt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 148 --> 190
+    line [151, 165, 175, 176, 181, 183, 186, 187]
 ```
 
-2026-10-18 151 → 2026-10-26 186（+35）
+2026-10-18 151 → 2026-10-27 187（+36）
 
 
 ---

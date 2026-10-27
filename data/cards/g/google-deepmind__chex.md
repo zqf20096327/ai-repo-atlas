@@ -45,13 +45,13 @@ DeepMind 维护的 Python 工具库，面向编写 JAX 代码的开发者。提�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/chex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "google-deepmind/chex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 956 --> 959
-    line [957, 958]
+    line [957, 958, 958]
 ```
 
-2026-10-18 957 → 2026-10-26 958（+1）
+2026-10-18 957 → 2026-10-27 958（+1）
 
 
 ---

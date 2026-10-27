@@ -1,6 +1,6 @@
 # devnen/qwen3.6-windows-server
 
-⭐ 232 · Python · 推送 2026-05-14 · [GitHub](https://github.com/devnen/qwen3.6-windows-server) · 个人维护
+⭐ 231 · Python · 推送 2026-05-14 · [GitHub](https://github.com/devnen/qwen3.6-windows-server) · 个人维护
 
 **Windows 一键本地运行 Qwen3.6-27B 的 vLLM 服务启动器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "devnen/qwen3.6-windows-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 230 --> 233
-    line [231, 232, 232]
+    line [231, 232, 231]
 ```
 
-2026-10-18 231 → 2026-10-26 232（+1）
+2026-10-18 231 → 2026-10-27 231（+0）
 
 
 ---

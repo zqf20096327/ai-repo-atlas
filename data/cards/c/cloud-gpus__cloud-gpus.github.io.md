@@ -1,6 +1,6 @@
 # cloud-gpus/cloud-gpus.github.io
 
-⭐ 52 · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cloud-gpus/cloud-gpus.github.io) · [官网](https://Cloud-GPUs.com) · 个人维护
+⭐ 53 · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cloud-gpus/cloud-gpus.github.io) · [官网](https://Cloud-GPUs.com) · 个人维护
 
 **云 GPU 实例比价数据库：5000+ 配置、30+ 供应商每日更新**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cloud-gpus/cloud-gpus.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dotnet/maui-labs
 
-⭐ 229 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dotnet/maui-labs) · [官网](https://dot.net/maui) · 组织维护
+⭐ 229 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dotnet/maui-labs) · [官网](https://dot.net/maui) · 组织维护
 
 **.NET MAUI 的实验性工具与预发布包合集（CLI、UI 框架、调试与 AI 集成）**
 
@@ -47,12 +47,12 @@ Microsoft dotnet 组织维护的 .NET MAUI 实验性项目集合，包含 10 个
 ```mermaid
 xychart-beta
     title "dotnet/maui-labs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 227 --> 230
     line [228, 229, 229]
 ```
 
-2026-10-18 228 → 2026-10-26 229（+1）
+2026-10-18 228 → 2026-10-27 229（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # arvarik/contrack
 
-⭐ 85 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/arvarik/contrack) · [官网](https://arvarik.com/contrack) · 个人维护
+⭐ 86 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/arvarik/contrack) · [官网](https://arvarik.com/contrack) · 个人维护
 
 **自托管的个人/团队联系人管理与追踪应用，含可选 AI 增强**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arvarik/contrack 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 54 --> 87
-    line [56, 72, 79, 81, 82, 83, 85]
+    title "arvarik/contrack 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 53 --> 89
+    line [56, 72, 79, 81, 82, 83, 85, 86]
 ```
 
-2026-10-18 56 → 2026-10-26 85（+29）
+2026-10-18 56 → 2026-10-27 86（+30）
 
 
 ---

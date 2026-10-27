@@ -1,6 +1,6 @@
 # lobbystack/lobbystack
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobbystack/lobbystack) · [官网](https://lobbystack.com) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lobbystack/lobbystack) · [官网](https://lobbystack.com) · 组织维护
 
 **面向小企业的开源 AI 电话前台：接电话、订日程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lobbystack/lobbystack 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40]
+    title "lobbystack/lobbystack 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 41]
 ```
 
-2026-10-24 38 → 2026-10-26 40（+2）
+2026-10-24 38 → 2026-10-27 41（+3）
 
 
 ---

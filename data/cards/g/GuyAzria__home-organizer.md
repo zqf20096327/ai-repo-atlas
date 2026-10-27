@@ -1,6 +1,6 @@
 # GuyAzria/home-organizer
 
-⭐ 49 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/GuyAzria/home-organizer) · 个人维护
+⭐ 49 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/GuyAzria/home-organizer) · 个人维护
 
 **Home Assistant 家庭库存管理面板，含 AI 语音助手**
 
@@ -47,12 +47,12 @@ Home Organizer 是 Home Assistant 侧边栏的全屏应用，管理家庭物品�
 ```mermaid
 xychart-beta
     title "GuyAzria/home-organizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 49（+0）
 
 
 ---

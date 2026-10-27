@@ -1,6 +1,6 @@
 # alumnium-hq/alumnium
 
-⭐ 1,017 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alumnium-hq/alumnium) · [官网](https://alumnium.ai) · 组织维护
+⭐ 1,018 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alumnium-hq/alumnium) · [官网](https://alumnium.ai) · 组织维护
 
 **AI 原生的端到端测试库与 MCP，用于简化应用测试**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alumnium-hq/alumnium 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "alumnium-hq/alumnium 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1015 --> 1020
-    line [1016, 1017, 1018, 1019, 1018, 1017]
+    line [1016, 1017, 1018, 1019, 1018, 1017, 1018]
 ```
 
-2026-10-18 1,016 → 2026-10-26 1,017（+1）
+2026-10-18 1,016 → 2026-10-27 1,018（+2）
 
 
 ---

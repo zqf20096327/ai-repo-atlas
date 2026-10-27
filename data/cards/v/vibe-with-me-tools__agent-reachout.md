@@ -1,6 +1,6 @@
 # vibe-with-me-tools/agent-reachout
 
-⭐ 57 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/vibe-with-me-tools/agent-reachout) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/vibe-with-me-tools/agent-reachout) · 个人维护
 
 **Claude Code 插件：任务完成或需决策时通过 Telegram 通知用户**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vibe-with-me-tools/agent-reachout 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-26 57（+1）
+2026-10-18 56 → 2026-10-27 58（+2）
 
 
 ---

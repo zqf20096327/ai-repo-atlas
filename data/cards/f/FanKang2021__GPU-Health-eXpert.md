@@ -1,6 +1,6 @@
 # FanKang2021/GPU-Health-eXpert
 
-⭐ 85 · C · 推送 2025-10-30 · [GitHub](https://github.com/FanKang2021/GPU-Health-eXpert) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **Kubernetes 上的 GPU 集群健康监控与诊断系统**
 

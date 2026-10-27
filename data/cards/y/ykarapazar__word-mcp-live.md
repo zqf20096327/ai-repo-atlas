@@ -1,6 +1,6 @@
 # ykarapazar/word-mcp-live
 
-⭐ 240 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ykarapazar/word-mcp-live) · 个人维护
+⭐ 243 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ykarapazar/word-mcp-live) · 个人维护
 
 **让 AI 助手直接编辑打开中 Word 文档的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ykarapazar/word-mcp-live 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 234 --> 241
-    line [235, 237, 239, 240]
+    title "ykarapazar/word-mcp-live 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 234 --> 244
+    line [235, 237, 239, 240, 243]
 ```
 
-2026-10-18 235 → 2026-10-26 240（+5）
+2026-10-18 235 → 2026-10-27 243（+8）
 
 
 ---

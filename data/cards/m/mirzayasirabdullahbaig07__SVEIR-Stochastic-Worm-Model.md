@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model
 
-⭐ 45 · Python · 推送 2025-12-11 · [GitHub](https://github.com/mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model) · [官网](https://sveir-stochastic-worm-model.streamlit.app/) · 个人维护
+⭐ 46 · Python · 推送 2025-12-11 · [GitHub](https://github.com/mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model) · [官网](https://sveir-stochastic-worm-model.streamlit.app/) · 个人维护
 
 **随机 SVEIR 蠕虫传播模型：模拟无线网络中蠕虫扩散与灭绝条件**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/SVEIR-Stochastic-Worm-Model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 46（+1）
 
 
 ---

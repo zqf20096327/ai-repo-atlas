@@ -1,6 +1,6 @@
 # roboflow/maestro
 
-⭐ 2,695 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/roboflow/maestro) · [官网](https://maestro.roboflow.com) · 组织维护
+⭐ 2,695 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/roboflow/maestro) · [官网](https://maestro.roboflow.com) · 组织维护
 
 **多模态视觉语言模型（Florence-2/PaliGemma 2/Qwen2.5-VL）微调工具**
 
@@ -45,12 +45,12 @@ Roboflow 维护的多模态模型微调工具：封装配置、数据加载、�
 ```mermaid
 xychart-beta
     title "roboflow/maestro 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 2692 --> 2696
     line [2693, 2694, 2695, 2695]
 ```
 
-2026-10-18 2,693 → 2026-10-26 2,695（+2）
+2026-10-18 2,693 → 2026-10-27 2,695（+2）
 
 
 ---

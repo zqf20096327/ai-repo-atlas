@@ -1,6 +1,6 @@
 # tdi/awesome-private-ai
 
-⭐ 190 · CC0-1.0 · 推送 2026-09-21 · [GitHub](https://github.com/tdi/awesome-private-ai) · 组织维护
+⭐ 191 · CC0-1.0 · 推送 2026-09-21 · [GitHub](https://github.com/tdi/awesome-private-ai) · 组织维护
 
 **私有化部署 AI 工具的策展清单：本地运行/构建/部署 AI 资源**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tdi/awesome-private-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 189 --> 191
-    line [190, 190]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 189 --> 192
+    line [190, 191]
 ```
 
-2026-10-18 190 → 2026-10-26 190（+0）
+2026-10-18 190 → 2026-10-27 191（+1）
 
 
 ---

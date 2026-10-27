@@ -1,6 +1,6 @@
 # halli75/motion-mirror
 
-⭐ 123 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/halli75/motion-mirror) · 个人维护
+⭐ 124 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/halli75/motion-mirror) · 个人维护
 
 **本地运行动作迁移工具：从参考视频驱动角色图像生成视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "halli75/motion-mirror 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "halli75/motion-mirror 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 121 --> 129
-    line [128, 123, 122, 123]
+    line [128, 123, 122, 123, 124]
 ```
 
-2026-10-18 128 → 2026-10-26 123（-5）
+2026-10-18 128 → 2026-10-27 124（-4）
 
 
 ---

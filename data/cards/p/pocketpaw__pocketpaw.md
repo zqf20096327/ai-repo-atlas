@@ -1,6 +1,6 @@
 # pocketpaw/pocketpaw
 
-⭐ 894 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
+⭐ 894 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
 
 **自托管个人 AI agent，多渠道对话+桌面应用，本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pocketpaw/pocketpaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 890 --> 895
     line [891, 892, 893, 894, 894]
 ```
 
-2026-10-18 891 → 2026-10-26 894（+3）
+2026-10-18 891 → 2026-10-27 894（+3）
 
 
 ---

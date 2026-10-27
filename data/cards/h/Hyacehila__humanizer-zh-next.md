@@ -1,6 +1,6 @@
 # Hyacehila/humanizer-zh-next
 
-⭐ 212 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hyacehila/humanizer-zh-next) · 个人维护 · 中文 README
+⭐ 218 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hyacehila/humanizer-zh-next) · 个人维护 · 中文 README
 
 **去除中文文本 AI 写作痕迹的 Agent 编辑技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hyacehila/humanizer-zh-next 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 193 --> 213
-    line [194, 200, 204, 205, 206, 212]
+    title "Hyacehila/humanizer-zh-next 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 192 --> 220
+    line [194, 200, 204, 205, 206, 212, 218]
 ```
 
-2026-10-18 194 → 2026-10-26 212（+18）
+2026-10-18 194 → 2026-10-27 218（+24）
 
 
 ---

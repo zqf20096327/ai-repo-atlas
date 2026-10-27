@@ -45,12 +45,12 @@ Paddle2ONNX 提供将 PaddlePaddle 部署模型（json 结构文件 + pdiparams 
 ```mermaid
 xychart-beta
     title "PaddlePaddle/Paddle2ONNX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 945 --> 947
     line [946, 946]
 ```
 
-2026-10-18 946 → 2026-10-26 946（+0）
+2026-10-18 946 → 2026-10-27 946（+0）
 
 
 ---

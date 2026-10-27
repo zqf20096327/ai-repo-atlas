@@ -1,6 +1,6 @@
 # Hesper-Labs/owly
 
-⭐ 138 · TypeScript · MIT · 推送 2026-04-14 · [GitHub](https://github.com/Hesper-Labs/owly) · [官网](https://github.com/hsperus/owly/wiki) · 组织维护
+⭐ 139 · TypeScript · MIT · 推送 2026-04-14 · [GitHub](https://github.com/Hesper-Labs/owly) · [官网](https://github.com/hsperus/owly/wiki) · 组织维护
 
 **自托管 AI 客服 agent：统一 WhatsApp/邮件/电话渠道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hesper-Labs/owly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 133 --> 139
-    line [134, 136, 137, 138]
+    title "Hesper-Labs/owly 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 133 --> 140
+    line [134, 136, 137, 138, 139]
 ```
 
-2026-10-18 134 → 2026-10-26 138（+4）
+2026-10-18 134 → 2026-10-27 139（+5）
 
 
 ---

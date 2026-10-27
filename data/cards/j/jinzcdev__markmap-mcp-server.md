@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinzcdev/markmap-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "jinzcdev/markmap-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 288 --> 291
-    line [289, 290]
+    line [289, 290, 290]
 ```
 
-2026-10-18 289 → 2026-10-26 290（+1）
+2026-10-18 289 → 2026-10-27 290（+1）
 
 
 ---

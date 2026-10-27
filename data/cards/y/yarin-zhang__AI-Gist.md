@@ -1,6 +1,6 @@
 # yarin-zhang/AI-Gist
 
-⭐ 903 · TypeScript · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/yarin-zhang/AI-Gist) · [官网](https://getaigist.com) · 个人维护 · 中文 README
+⭐ 904 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/yarin-zhang/AI-Gist) · [官网](https://getaigist.com) · 个人维护 · 中文 README
 
 **隐私优先的本地 AI 提示词管理工具，支持 AI 生成与调优**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yarin-zhang/AI-Gist 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 898 --> 904
-    line [899, 901, 902, 903, 903]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 898 --> 905
+    line [899, 901, 902, 903, 904]
 ```
 
-2026-10-18 899 → 2026-10-26 903（+4）
+2026-10-18 899 → 2026-10-27 904（+5）
 
 
 ---

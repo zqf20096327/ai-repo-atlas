@@ -45,12 +45,12 @@ EdgeSHAPer 的官方 PyTorch 实现：通过 Monte Carlo 采样近似 Shapley �
 ```mermaid
 xychart-beta
     title "AndMastro/EdgeSHAPer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

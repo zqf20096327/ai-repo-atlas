@@ -1,6 +1,6 @@
 # georgezouq/awesome-ai-in-finance
 
-⭐ 6,697 · CC0-1.0 · 推送 2026-09-08 · [GitHub](https://github.com/georgezouq/awesome-ai-in-finance) · [官网](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4) · 个人维护 · 中文 README
+⭐ 6,701 · CC0-1.0 · 推送 2026-09-08 · [GitHub](https://github.com/georgezouq/awesome-ai-in-finance) · [官网](https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4) · 个人维护 · 中文 README
 
 **金融市场 AI 应用与研究的策展清单（Agent/LLM/MCP/论文）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgezouq/awesome-ai-in-finance 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6669 --> 6699
-    line [6671, 6676, 6679, 6681, 6689, 6694, 6697]
+    title "georgezouq/awesome-ai-in-finance 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6668 --> 6704
+    line [6671, 6676, 6679, 6681, 6689, 6694, 6697, 6701]
 ```
 
-2026-10-18 6,671 → 2026-10-26 6,697（+26）
+2026-10-18 6,671 → 2026-10-27 6,701（+30）
 
 
 ---

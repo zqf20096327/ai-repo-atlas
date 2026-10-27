@@ -1,6 +1,6 @@
 # pow505/tobub
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pow505/tobub) · [官网](https://www.tobub.com) · 组织维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pow505/tobub) · [官网](https://www.tobub.com) · 组织维护 · 中文 README
 
 **Tobub 桌面端的开源自动化 Skill 层：AI agent 驱动本地浏览器工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pow505/tobub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-26 34（+1）
+2026-10-18 33 → 2026-10-27 34（+1）
 
 
 ---

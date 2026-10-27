@@ -1,6 +1,6 @@
 # c8dhjp4tyv-bit/hawkpoint-npu-llm
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/c8dhjp4tyv-bit/hawkpoint-npu-llm) · 个人维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/c8dhjp4tyv-bit/hawkpoint-npu-llm) · 个人维护
 
 **在 AMD XDNA1 NPU 上运行小模型推理的研究运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "c8dhjp4tyv-bit/hawkpoint-npu-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "c8dhjp4tyv-bit/hawkpoint-npu-llm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 25 --> 31
-    line [26, 27, 30]
+    line [26, 27, 30, 30]
 ```
 
-2026-10-18 26 → 2026-10-26 30（+4）
+2026-10-18 26 → 2026-10-27 30（+4）
 
 
 ---

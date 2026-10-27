@@ -1,6 +1,6 @@
 # KbWen/agentic-os
 
-⭐ 218 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/KbWen/agentic-os) · [官网](https://www.kbwen.com/tags/agentic-os/) · 个人维护 · 中文 README
+⭐ 220 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/KbWen/agentic-os) · [官网](https://www.kbwen.com/tags/agentic-os/) · 个人维护 · 中文 README
 
 **AI 编码 agent 的治理框架：用 git hook 与 CI 核验证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KbWen/agentic-os 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 212 --> 219
-    line [213, 214, 217, 218, 218]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 212 --> 221
+    line [213, 214, 217, 218, 220]
 ```
 
-2026-10-18 213 → 2026-10-26 218（+5）
+2026-10-18 213 → 2026-10-27 220（+7）
 
 
 ---

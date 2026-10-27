@@ -1,6 +1,6 @@
 # lf1up/careersim
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lf1up/careersim) · [官网](https://careersim.ai) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lf1up/careersim) · [官网](https://careersim.ai) · 个人维护
 
 **面向个人的 AI 职场技能模拟器：练习面试与谈判并获反馈**
 
@@ -46,12 +46,12 @@ B2C Web 应用，用 LangGraph 生成式 AI 引擎模拟行为面试、艰难对
 ```mermaid
 xychart-beta
     title "lf1up/careersim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 27（+0）
 
 
 ---

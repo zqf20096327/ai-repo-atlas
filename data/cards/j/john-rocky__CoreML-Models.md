@@ -1,6 +1,6 @@
 # john-rocky/CoreML-Models
 
-⭐ 1,888 · Swift · 推送 2026-10-05 · [GitHub](https://github.com/john-rocky/CoreML-Models) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 1,889 · Swift · 推送 2026-10-05 · [GitHub](https://github.com/john-rocky/CoreML-Models) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **iOS/macOS 的 Core ML 模型动物园：含转换脚本与示例 App**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "john-rocky/CoreML-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 1886 --> 1889
-    line [1887, 1888, 1888]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 1886 --> 1890
+    line [1887, 1888, 1889]
 ```
 
-2026-10-18 1,887 → 2026-10-26 1,888（+1）
+2026-10-18 1,887 → 2026-10-27 1,889（+2）
 
 
 ---

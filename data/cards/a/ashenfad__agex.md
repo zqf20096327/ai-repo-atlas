@@ -1,6 +1,6 @@
 # ashenfad/agex
 
-⭐ 44 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ashenfad/agex) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ashenfad/agex) · 个人维护
 
 **在版本化工作区上运行的 Python agent 框架**
 
@@ -45,12 +45,12 @@ agex 是构建在 nontainer 工作区（文件系统、shell、沙箱 Python）�
 ```mermaid
 xychart-beta
     title "ashenfad/agex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 44（+0）
 
 
 ---

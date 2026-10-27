@@ -1,6 +1,6 @@
 # aivrar/portable-hermes-agent
 
-⭐ 239 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 241 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
 
 **Windows 便携 AI agent 桌面应用：100 工具、GUI、本地/云端模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aivrar/portable-hermes-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 234 --> 240
-    line [235, 236, 238, 239]
+    title "aivrar/portable-hermes-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 234 --> 242
+    line [235, 236, 238, 239, 241]
 ```
 
-2026-10-18 235 → 2026-10-26 239（+4）
+2026-10-18 235 → 2026-10-27 241（+6）
 
 
 ---

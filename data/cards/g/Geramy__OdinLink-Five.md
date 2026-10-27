@@ -1,6 +1,6 @@
 # Geramy/OdinLink-Five
 
-⭐ 72 · C · 推送 2026-10-19 · [GitHub](https://github.com/Geramy/OdinLink-Five) · 个人维护
+⭐ 75 · C · 推送 2026-10-19 · [GitHub](https://github.com/Geramy/OdinLink-Five) · 个人维护
 
 **把 Thunderbolt 5 变成 RDMA 互联的内核驱动与 NCCL/RCCL 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Geramy/OdinLink-Five 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 71 --> 76
+    line [72, 75]
 ```
 
-2026-10-18 72 → 2026-10-26 72（+0）
+2026-10-18 72 → 2026-10-27 75（+3）
 
 
 ---

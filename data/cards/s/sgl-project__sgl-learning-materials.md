@@ -45,13 +45,13 @@ SGLang 官方团队维护的学习材料合集，按幻灯片、博客、视频�
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sgl-learning-materials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "sgl-project/sgl-learning-materials 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 896 --> 899
-    line [897, 898]
+    line [897, 898, 898]
 ```
 
-2026-10-18 897 → 2026-10-26 898（+1）
+2026-10-18 897 → 2026-10-27 898（+1）
 
 
 ---

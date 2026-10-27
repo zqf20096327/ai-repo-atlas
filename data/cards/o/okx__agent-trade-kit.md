@@ -1,6 +1,6 @@
 # okx/agent-trade-kit
 
-⭐ 489 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/okx/agent-trade-kit) · 组织维护 · 中文 README
+⭐ 492 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/okx/agent-trade-kit) · 组织维护 · 中文 README
 
 **让 AI 代理经 MCP 直接交易 OKX 的工具包（MCP server + CLI）**
 
@@ -44,13 +44,13 @@ OKX 官方维护的交易工具包，含两个独立包：okx-trade-mcp（MCP se
 
 ```mermaid
 xychart-beta
-    title "okx/agent-trade-kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 476 --> 490
-    line [477, 481, 483, 484, 486, 489]
+    title "okx/agent-trade-kit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 476 --> 493
+    line [477, 481, 483, 484, 486, 489, 492]
 ```
 
-2026-10-18 477 → 2026-10-26 489（+12）
+2026-10-18 477 → 2026-10-27 492（+15）
 
 
 ---

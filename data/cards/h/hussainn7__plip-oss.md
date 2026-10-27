@@ -1,6 +1,6 @@
 # hussainn7/plip-oss
 
-⭐ 37 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hussainn7/plip-oss) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hussainn7/plip-oss) · 个人维护
 
 **驻留 MacBook 刘海区的语音 AI 屏幕助手，指位与代操作**
 
@@ -45,12 +45,12 @@ macOS 上的常驻语音助手：按住快捷键口述提问，读取屏幕截�
 ```mermaid
 xychart-beta
     title "hussainn7/plip-oss 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 31 --> 38
-    line [32, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 31 --> 40
+    line [32, 36, 37, 39]
 ```
 
-2026-10-18 32 → 2026-10-26 37（+5）
+2026-10-18 32 → 2026-10-27 39（+7）
 
 
 ---

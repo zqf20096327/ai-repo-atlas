@@ -1,6 +1,6 @@
 # boommanpro/gaia-workflow-engine
 
-⭐ 216 · Java · MIT · 推送 2026-10-23 · [GitHub](https://github.com/boommanpro/gaia-workflow-engine) · [官网](https://boommanpro.github.io/gaia-workflow-engine/) · 个人维护 · 中文 README
+⭐ 216 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/boommanpro/gaia-workflow-engine) · [官网](https://boommanpro.github.io/gaia-workflow-engine/) · 个人维护 · 中文 README
 
 **可视化 AI 工作流编排平台：画布设计、Agent 对话生成流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boommanpro/gaia-workflow-engine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 212 --> 217
     line [213, 215, 214, 215, 216, 216]
 ```
 
-2026-10-18 213 → 2026-10-26 216（+3）
+2026-10-18 213 → 2026-10-27 216（+3）
 
 
 ---

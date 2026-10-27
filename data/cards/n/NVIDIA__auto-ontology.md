@@ -1,6 +1,6 @@
 # NVIDIA/auto-ontology
 
-⭐ 120 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/auto-ontology) · 组织维护
+⭐ 178 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/auto-ontology) · 组织维护
 
 **从企业元数据构建语义本体层、供 agent 可信查询的框架**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 Python 框架，用于在关系型数据源上构建语义目�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/auto-ontology 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 23 --> 128
-    line [31, 35, 43, 57, 63, 102, 120]
+    title "NVIDIA/auto-ontology 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 17 --> 192
+    line [31, 35, 43, 57, 63, 102, 120, 178]
 ```
 
-2026-10-18 31 → 2026-10-26 120（+89）
+2026-10-18 31 → 2026-10-27 178（+147）
 
 
 ---

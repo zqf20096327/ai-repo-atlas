@@ -46,12 +46,12 @@ TypeScript 编写的约 8,500 行终端编码 agent，是 Rust 项目 CodeWhale 
 ```mermaid
 xychart-beta
     title "appleweiping/WEIPING_WHALE 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-23", "2026-10-27"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-23 131 → 2026-10-26 131（+0）
+2026-10-23 131 → 2026-10-27 131（+0）
 
 
 ---

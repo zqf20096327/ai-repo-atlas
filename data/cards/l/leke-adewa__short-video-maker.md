@@ -1,6 +1,6 @@
 # leke-adewa/short-video-maker
 
-⭐ 34 · Python · 推送 2026-10-12 · [GitHub](https://github.com/leke-adewa/short-video-maker) · 个人维护
+⭐ 35 · Python · 推送 2026-10-12 · [GitHub](https://github.com/leke-adewa/short-video-maker) · 个人维护
 
 **为短视频平台自动生成竖屏视频的 Python 工具**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "leke-adewa/short-video-maker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

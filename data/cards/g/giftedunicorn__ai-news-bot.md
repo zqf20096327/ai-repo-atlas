@@ -1,6 +1,6 @@
 # giftedunicorn/ai-news-bot
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-07-20 · [GitHub](https://github.com/giftedunicorn/ai-news-bot) · [官网](https://giftedunicorn.github.io/ai-news-bot/) · 个人维护 · 中文 README
+⭐ 27 · Python · GPL-3.0 · 推送 2026-07-20 · [GitHub](https://github.com/giftedunicorn/ai-news-bot) · [官网](https://giftedunicorn.github.io/ai-news-bot/) · 个人维护 · 中文 README
 
 **自动抓取 RSS 并用 LLM 生成每日 AI 新闻摘要邮件的机器人**
 
@@ -46,12 +46,12 @@ Python 编写的自动化新闻摘要生成器：从 RSS 源（含 36Kr、机器
 ```mermaid
 xychart-beta
     title "giftedunicorn/ai-news-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 27（+1）
 
 
 ---

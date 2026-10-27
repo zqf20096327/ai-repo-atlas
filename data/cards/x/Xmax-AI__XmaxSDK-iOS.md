@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-iOS
 
-⭐ 66 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-iOS) · [官网](https://platform.xmaxai.com/docs) · 组织维护 · 中文 README
+⭐ 67 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-iOS) · [官网](https://platform.xmaxai.com/docs) · 组织维护 · 中文 README
 
 **面向 iOS 开发者的实时交互式视频生成 SDK（Xmax 模型客户端）**
 
@@ -44,13 +44,13 @@ XmaxSDK 是原生 iOS SDK（Swift 6，iOS 15.0+），用于接入 Xmax 模型实
 
 ```mermaid
 xychart-beta
-    title "Xmax-AI/XmaxSDK-iOS 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "Xmax-AI/XmaxSDK-iOS 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 51 --> 68
-    line [53, 52, 53, 62, 67, 66]
+    line [53, 52, 53, 62, 67, 66, 67]
 ```
 
-2026-10-19 53 → 2026-10-26 66（+13）
+2026-10-19 53 → 2026-10-27 67（+14）
 
 
 ---

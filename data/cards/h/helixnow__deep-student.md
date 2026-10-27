@@ -1,6 +1,6 @@
 # helixnow/deep-student
 
-⭐ 291 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 组织维护 · 中文 README
+⭐ 292 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 学习工作台，Agent 直接操作笔记与复习应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "helixnow/deep-student 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 282 --> 292
-    line [283, 284, 287, 288, 291, 291]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 282 --> 293
+    line [283, 284, 287, 288, 291, 292]
 ```
 
-2026-10-18 283 → 2026-10-26 291（+8）
+2026-10-18 283 → 2026-10-27 292（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepnote/deepnote-toolkit
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/deepnote/deepnote-toolkit) · [官网](https://pypi.org/project/deepnote-toolkit/) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepnote/deepnote-toolkit) · [官网](https://pypi.org/project/deepnote-toolkit/) · 组织维护
 
 **驱动 Deepnote 环境的 Python 工具包：SQL、图表与 notebook 运行时**
 
@@ -45,12 +45,12 @@ Deepnote 官方维护的 Python 工具包，支撑 Deepnote Cloud 与开源版�
 ```mermaid
 xychart-beta
     title "deepnote/deepnote-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 27（+0）
 
 
 ---

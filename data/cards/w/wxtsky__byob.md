@@ -1,6 +1,6 @@
 # wxtsky/byob
 
-⭐ 143 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wxtsky/byob) · [官网](https://github.com/wxtsky/byob) · 个人维护 · 中文 README
+⭐ 144 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wxtsky/byob) · [官网](https://github.com/wxtsky/byob) · 个人维护 · 中文 README
 
 **本地 MCP 服务器：让 AI 编码工具直接控制你已登录的 Chrome**
 
@@ -45,12 +45,12 @@ byob 是一个运行在本地的 MCP 服务器，配合 Chrome 扩展（MV3）�
 ```mermaid
 xychart-beta
     title "wxtsky/byob 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 142 --> 145
+    line [143, 144]
 ```
 
-2026-10-18 143 → 2026-10-26 143（+0）
+2026-10-18 143 → 2026-10-27 144（+1）
 
 
 ---

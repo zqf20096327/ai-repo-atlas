@@ -1,6 +1,6 @@
 # kqwang/phase-recovery
 
-⭐ 1,208 · MIT · 推送 2026-06-11 · [GitHub](https://github.com/kqwang/phase-recovery) · [官网](https://doi.org/10.1038/s41377-023-01340-x) · 个人维护
+⭐ 1,207 · MIT · 推送 2026-06-11 · [GitHub](https://github.com/kqwang/phase-recovery) · [官网](https://doi.org/10.1038/s41377-023-01340-x) · 个人维护
 
 **相位恢复领域研究团队与资源策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kqwang/phase-recovery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "kqwang/phase-recovery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1206 --> 1210
-    line [1208, 1209, 1207, 1208]
+    line [1208, 1209, 1207, 1208, 1207]
 ```
 
-2026-10-18 1,208 → 2026-10-26 1,208（+0）
+2026-10-18 1,208 → 2026-10-27 1,207（-1）
 
 
 ---

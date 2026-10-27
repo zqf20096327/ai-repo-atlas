@@ -1,6 +1,6 @@
 # MemPalace/mempalace
 
-⭐ 59,736 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
+⭐ 59,748 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
 
 **本地优先的 AI 记忆系统：逐字存储对话并语义检索**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "MemPalace/mempalace 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 59597 --> 59748
-    line [59609, 59644, 59675, 59697, 59718, 59725, 59736]
+    title "MemPalace/mempalace 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 59596 --> 59761
+    line [59609, 59644, 59675, 59697, 59718, 59725, 59736, 59748]
 ```
 
-2026-10-18 59,609 → 2026-10-26 59,736（+127）
+2026-10-18 59,609 → 2026-10-27 59,748（+139）
 
 
 ---

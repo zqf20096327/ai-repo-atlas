@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-.Net
 
-⭐ 51 · C# · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-.Net) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 52 · C# · 推送 2026-09-21 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-.Net) · [官网](https://faceplugin.com/) · 组织维护
 
 **.NET/C# 人脸识别 SDK，含 3D 被动活体检测，本地运行**
 
@@ -45,12 +45,12 @@ FacePlugin 提供面向 .NET MAUI 与 C# 的人脸识别 SDK，功能覆盖人�
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-.Net 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-10-26 51（+1）
+2026-10-18 50 → 2026-10-27 52（+2）
 
 
 ---

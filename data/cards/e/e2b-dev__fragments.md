@@ -1,6 +1,6 @@
 # e2b-dev/fragments
 
-⭐ 6,399 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/fragments) · [官网](https://fragments.e2b.dev) · 组织维护
+⭐ 6,402 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/fragments) · [官网](https://fragments.e2b.dev) · 组织维护
 
 **AI 生成全栈应用的 Next.js 模板（Claude Artifacts/v0 开源版）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/fragments 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 6390 --> 6400
-    line [6391, 6392, 6397, 6399]
+    title "e2b-dev/fragments 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6390 --> 6403
+    line [6391, 6392, 6397, 6399, 6402]
 ```
 
-2026-10-18 6,391 → 2026-10-26 6,399（+8）
+2026-10-18 6,391 → 2026-10-27 6,402（+11）
 
 
 ---

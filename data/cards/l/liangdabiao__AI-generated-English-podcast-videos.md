@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "liangdabiao/AI-generated-English-podcast-videos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "liangdabiao/AI-generated-English-podcast-videos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 181 --> 184
-    line [182, 183]
+    line [182, 183, 183]
 ```
 
-2026-10-18 182 → 2026-10-26 183（+1）
+2026-10-18 182 → 2026-10-27 183（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eastreams/loong
 
-⭐ 637 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/eastreams/loong) · [官网](https://loongclaw.ai) · 组织维护 · 中文 README
+⭐ 638 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/eastreams/loong) · [官网](https://loongclaw.ai) · 组织维护 · 中文 README
 
 **Rust 编写的垂直 AI agent 基础设施框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eastreams/loong 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 636 --> 640
-    line [639, 638, 637, 637]
+    line [639, 638, 637, 638]
 ```
 
-2026-10-18 639 → 2026-10-26 637（-2）
+2026-10-18 639 → 2026-10-27 638（-1）
 
 
 ---

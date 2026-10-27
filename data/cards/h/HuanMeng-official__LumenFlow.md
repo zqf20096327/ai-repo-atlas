@@ -1,6 +1,6 @@
 # HuanMeng-official/LumenFlow
 
-⭐ 28 · Dart · MIT · 推送 2026-10-24 · [GitHub](https://github.com/HuanMeng-official/LumenFlow) · 个人维护 · 中文 README
+⭐ 28 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HuanMeng-official/LumenFlow) · 个人维护 · 中文 README
 
 **跨平台 AI 聊天客户端：聚合 12+ AI 平台与本地对话管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HuanMeng-official/LumenFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "HuanMeng-official/LumenFlow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 28（+1）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

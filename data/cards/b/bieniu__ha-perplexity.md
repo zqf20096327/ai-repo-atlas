@@ -46,12 +46,12 @@ Home Assistant 自定义集成，通过 Perplexity Agent API 将 Perplexity 接�
 ```mermaid
 xychart-beta
     title "bieniu/ha-perplexity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

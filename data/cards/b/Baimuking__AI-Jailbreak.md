@@ -1,6 +1,6 @@
 # Baimuking/AI-Jailbreak
 
-⭐ 140 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Baimuking/AI-Jailbreak) · [官网](https://baimuking.github.io/AI-Jailbreak/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 破甲（越狱）提示词合集与一键注入工具，覆盖主流模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

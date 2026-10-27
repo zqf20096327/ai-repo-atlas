@@ -1,6 +1,6 @@
 # deepset-ai/hayhooks
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/deepset-ai/hayhooks) · [官网](https://deepset-ai.github.io/hayhooks/) · 组织维护
+⭐ 154 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepset-ai/hayhooks) · [官网](https://deepset-ai.github.io/hayhooks/) · 组织维护
 
 **将 Haystack 管道与 agent 部署为 REST/OpenAI 兼容/MCP/A2A 服务**
 
@@ -46,12 +46,12 @@ deepset 维护的 Haystack 管线服务化工具：开发者编写 Python wrappe
 ```mermaid
 xychart-beta
     title "deepset-ai/hayhooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 153 --> 155
     line [154, 154]
 ```
 
-2026-10-18 154 → 2026-10-26 154（+0）
+2026-10-18 154 → 2026-10-27 154（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiangzhang1015/Deep-Learning-for-BCI
 
-⭐ 303 · Jupyter Notebook · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/xiangzhang1015/Deep-Learning-for-BCI) · 组织维护
+⭐ 304 · Jupyter Notebook · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/xiangzhang1015/Deep-Learning-for-BCI) · 组织维护
 
 **BCI 教科书配套资源库：脑信号深度学习代码与数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiangzhang1015/Deep-Learning-for-BCI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 301 --> 304
-    line [302, 303, 303]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 301 --> 305
+    line [302, 303, 304]
 ```
 
-2026-10-18 302 → 2026-10-26 303（+1）
+2026-10-18 302 → 2026-10-27 304（+2）
 
 
 ---

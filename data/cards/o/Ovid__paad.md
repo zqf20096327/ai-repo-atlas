@@ -1,6 +1,6 @@
 # Ovid/paad
 
-⭐ 144 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Ovid/paad) · [官网](https://curtispoe.org/paad/) · 个人维护
+⭐ 144 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Ovid/paad) · [官网](https://curtispoe.org/paad/) · 个人维护
 
 **面向 AI 编程助手的工程化技能集：规范质疑、对齐、架构与代码评审**
 
@@ -44,13 +44,13 @@ PAAD（Pushback, Alignment, Architecture, Discipline）是一组可装入 AI 编
 
 ```mermaid
 xychart-beta
-    title "Ovid/paad 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "Ovid/paad 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 137 --> 145
-    line [138, 141, 142, 144]
+    line [138, 141, 142, 144, 144]
 ```
 
-2026-10-18 138 → 2026-10-26 144（+6）
+2026-10-18 138 → 2026-10-27 144（+6）
 
 
 ---

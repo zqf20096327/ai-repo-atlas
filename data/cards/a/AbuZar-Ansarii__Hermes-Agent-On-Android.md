@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/Hermes-Agent-On-Android
 
-⭐ 261 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android) · 个人维护
+⭐ 264 · Shell · 推送 2026-08-13 · [GitHub](https://github.com/AbuZar-Ansarii/Hermes-Agent-On-Android) · 个人维护
 
 **在 Android Termux 上一键安装运行 Hermes Agent 的安装指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbuZar-Ansarii/Hermes-Agent-On-Android 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 250 --> 262
-    line [251, 256, 258, 259, 260, 261]
+    title "AbuZar-Ansarii/Hermes-Agent-On-Android 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 250 --> 265
+    line [251, 256, 258, 259, 260, 261, 264]
 ```
 
-2026-10-18 251 → 2026-10-26 261（+10）
+2026-10-18 251 → 2026-10-27 264（+13）
 
 
 ---

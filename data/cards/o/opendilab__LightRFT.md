@@ -1,6 +1,6 @@
 # opendilab/LightRFT
 
-⭐ 392 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/opendilab/LightRFT) · [官网](https://opendilab.github.io/LightRFT) · 组织维护 · 中文 README
+⭐ 391 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/opendilab/LightRFT) · [官网](https://opendilab.github.io/LightRFT) · 组织维护 · 中文 README
 
 **面向 LLM/VLM 的轻量强化微调训练框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opendilab/LightRFT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 391 --> 398
-    line [397, 392, 392]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 390 --> 398
+    line [397, 392, 391]
 ```
 
-2026-10-18 397 → 2026-10-26 392（-5）
+2026-10-18 397 → 2026-10-27 391（-6）
 
 
 ---

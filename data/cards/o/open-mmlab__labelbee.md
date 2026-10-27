@@ -43,12 +43,12 @@ OpenMMLab 维护的标注场景前端库，分为 lb-annotation 渲染库与 lb-
 ```mermaid
 xychart-beta
     title "open-mmlab/labelbee 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 302 --> 304
     line [303, 303]
 ```
 
-2026-10-18 303 → 2026-10-26 303（+0）
+2026-10-18 303 → 2026-10-27 303（+0）
 
 
 ---

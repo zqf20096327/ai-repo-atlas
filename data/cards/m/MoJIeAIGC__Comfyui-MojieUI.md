@@ -1,6 +1,6 @@
 # MoJIeAIGC/Comfyui-MojieUI
 
-⭐ 45 · Python · BSD-2-Clause · 推送 2025-10-30 · [GitHub](https://github.com/MoJIeAIGC/Comfyui-MojieUI) · [官网](https://www.qihuaimage.com/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **以 ComfyUI 为后端的图像生成商用平台前后端源码**
 
@@ -11,7 +11,7 @@ Mojie-UI（已更名奇画AI-2.0 beta，原开源版不再维护）是以 ComfyU
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-2-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

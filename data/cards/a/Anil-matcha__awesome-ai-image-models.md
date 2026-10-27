@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-ai-image-models
 
-⭐ 87 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Anil-matcha/awesome-ai-image-models) · 组织维护
+⭐ 88 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Anil-matcha/awesome-ai-image-models) · 组织维护
 
 **AI 图像生成模型对比清单：模型、API、单价与适用场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-ai-image-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-18 87 → 2026-10-26 87（+0）
+2026-10-18 87 → 2026-10-27 88（+1）
 
 
 ---

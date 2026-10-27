@@ -1,6 +1,6 @@
 # khanlab/hippunfold
 
-⭐ 70 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/khanlab/hippunfold) · [官网](https://hippunfold.readthedocs.io) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/khanlab/hippunfold) · [官网](https://hippunfold.readthedocs.io) · 组织维护
 
 **海马体 MRI 自动展开与亚区分割的神经影像工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "khanlab/hippunfold 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-26 70（+0）
+2026-10-18 70 → 2026-10-27 70（+0）
 
 
 ---

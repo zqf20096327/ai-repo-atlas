@@ -1,6 +1,6 @@
 # avirtual/clodex
 
-⭐ 133 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/avirtual/clodex) · [官网](https://github.com/avirtual/clodex/releases/latest) · 个人维护
+⭐ 134 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/avirtual/clodex) · [官网](https://github.com/avirtual/clodex/releases/latest) · 个人维护
 
 **管理 Claude Code/Codex/Muse 编码代理机群的桌面与无头会话管理器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "avirtual/clodex 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 126 --> 134
-    line [127, 129, 130, 132, 133]
+    title "avirtual/clodex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 126 --> 135
+    line [127, 129, 130, 132, 133, 134]
 ```
 
-2026-10-18 127 → 2026-10-26 133（+6）
+2026-10-18 127 → 2026-10-27 134（+7）
 
 
 ---

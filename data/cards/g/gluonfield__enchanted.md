@@ -1,6 +1,6 @@
 # gluonfield/enchanted
 
-⭐ 6,015 · Swift · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/gluonfield/enchanted) · 个人维护
+⭐ 6,016 · Swift · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/gluonfield/enchanted) · 个人维护
 
 **macOS/iOS/visionOS 上连接私有 Ollama 模型的聊天客户端**
 
@@ -46,12 +46,12 @@ Swift 编写的 Apple 平台应用，提供类似 ChatGPT 的对话界面，通�
 ```mermaid
 xychart-beta
     title "gluonfield/enchanted 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 6011 --> 6016
-    line [6012, 6014, 6015, 6015]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 6011 --> 6017
+    line [6012, 6014, 6015, 6016]
 ```
 
-2026-10-18 6,012 → 2026-10-26 6,015（+3）
+2026-10-18 6,012 → 2026-10-27 6,016（+4）
 
 
 ---

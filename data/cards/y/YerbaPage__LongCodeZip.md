@@ -1,6 +1,6 @@
 # YerbaPage/LongCodeZip
 
-⭐ 168 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/YerbaPage/LongCodeZip) · 组织维护
+⭐ 169 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/YerbaPage/LongCodeZip) · 组织维护
 
 **面向代码 LLM 的两阶段长代码压缩方法（ASE 2025 论文实现）**
 
@@ -44,12 +44,12 @@ ASE 2025 论文 LongCodeZip 的官方实现，提供即插即用的长代码压�
 ```mermaid
 xychart-beta
     title "YerbaPage/LongCodeZip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-18 168 → 2026-10-26 168（+0）
+2026-10-18 168 → 2026-10-27 169（+1）
 
 
 ---

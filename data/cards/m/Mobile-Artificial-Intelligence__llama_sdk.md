@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/llama_sdk
 
-⭐ 122 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · 组织维护
+⭐ 122 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · 组织维护
 
 **llama.cpp 的 Dart 实现，供 Maid 移动端运行本地模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mobile-Artificial-Intelligence/llama_sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 120 --> 123
     line [121, 122, 122]
 ```
 
-2026-10-18 121 → 2026-10-26 122（+1）
+2026-10-18 121 → 2026-10-27 122（+1）
 
 
 ---

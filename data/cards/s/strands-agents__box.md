@@ -1,6 +1,6 @@
 # strands-agents/box
 
-⭐ 471 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/strands-agents/box) · [官网](https://strandsagents.com) · 组织维护
+⭐ 481 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/strands-agents/box) · [官网](https://strandsagents.com) · 组织维护
 
 **Rust 编写的 AI agent 沙箱引擎：限制 agent 的执行/读写/网络访问**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "strands-agents/box 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 423 --> 475
-    line [427, 443, 449, 456, 462, 468, 471]
+    title "strands-agents/box 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 422 --> 486
+    line [427, 443, 449, 456, 462, 468, 471, 481]
 ```
 
-2026-10-18 427 → 2026-10-26 471（+44）
+2026-10-18 427 → 2026-10-27 481（+54）
 
 
 ---

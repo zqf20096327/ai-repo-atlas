@@ -1,6 +1,6 @@
 # GitHamza0206/simba
 
-⭐ 1,545 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/GitHamza0206/simba) · [官网](https://simba.mintlify.app) · 个人维护
+⭐ 1,546 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/GitHamza0206/simba) · [官网](https://simba.mintlify.app) · 个人维护
 
 **开源自托管 AI 客服助手，内置评估与监控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GitHamza0206/simba 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1544 --> 1548
-    line [1547, 1546, 1545, 1545]
+    line [1547, 1546, 1545, 1546]
 ```
 
-2026-10-18 1,547 → 2026-10-26 1,545（-2）
+2026-10-18 1,547 → 2026-10-27 1,546（-1）
 
 
 ---

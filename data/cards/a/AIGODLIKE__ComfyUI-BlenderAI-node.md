@@ -1,6 +1,6 @@
 # AIGODLIKE/ComfyUI-BlenderAI-node
 
-⭐ 1,569 · Python · GPL-3.0 · 推送 2025-11-28 · [GitHub](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) · 组织维护 · 中文 README
+⭐ 1,570 · Python · GPL-3.0 · 推送 2025-11-28 · [GitHub](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) · 组织维护 · 中文 README
 
 **在 Blender 内使用 ComfyUI 的插件：AI 材质生成与节点式 AI 渲染**
 
@@ -46,12 +46,12 @@ Blender 插件，将 ComfyUI 节点转换为 Blender 节点，用户可在 Blend
 ```mermaid
 xychart-beta
     title "AIGODLIKE/ComfyUI-BlenderAI-node 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1561 --> 1570
-    line [1562, 1565, 1566, 1567, 1568, 1569, 1569]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1561 --> 1571
+    line [1562, 1565, 1566, 1567, 1568, 1569, 1570]
 ```
 
-2026-10-18 1,562 → 2026-10-26 1,569（+7）
+2026-10-18 1,562 → 2026-10-27 1,570（+8）
 
 
 ---

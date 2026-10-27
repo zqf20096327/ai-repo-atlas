@@ -1,6 +1,6 @@
 # thomasahle/sunfish
 
-⭐ 3,302 · Python · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/thomasahle/sunfish) · [官网](https://www.chessprogramming.org/Sunfish) · 个人维护
+⭐ 3,304 · Python · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/thomasahle/sunfish) · [官网](https://www.chessprogramming.org/Sunfish) · 个人维护
 
 **用约 126 行 Python 实现的极简国际象棋引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thomasahle/sunfish 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 3298 --> 3303
-    line [3299, 3302, 3301, 3302]
+    title "thomasahle/sunfish 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3298 --> 3305
+    line [3299, 3302, 3301, 3302, 3304]
 ```
 
-2026-10-18 3,299 → 2026-10-26 3,302（+3）
+2026-10-18 3,299 → 2026-10-27 3,304（+5）
 
 
 ---

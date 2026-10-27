@@ -1,6 +1,6 @@
 # microsoft/semantic-kernel
 
-⭐ 28,697 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
+⭐ 28,697 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
 
 **为开发者提供构建 AI 智能体与多智能体系统的 SDK**
 
@@ -52,13 +52,13 @@ Semantic Kernel 是一个模型无关的 SDK，提供 Python、.NET、Java 三�
 
 ```mermaid
 xychart-beta
-    title "microsoft/semantic-kernel 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "microsoft/semantic-kernel 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 28667 --> 28699
-    line [28669, 28675, 28682, 28690, 28696, 28694, 28697]
+    line [28669, 28675, 28682, 28690, 28696, 28694, 28697, 28697]
 ```
 
-2026-10-18 28,669 → 2026-10-26 28,697（+28）
+2026-10-18 28,669 → 2026-10-27 28,697（+28）
 
 
 ---

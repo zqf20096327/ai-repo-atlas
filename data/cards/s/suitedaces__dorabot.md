@@ -1,6 +1,6 @@
 # suitedaces/dorabot
 
-⭐ 247 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/suitedaces/dorabot) · [官网](https://dora.so) · 组织维护
+⭐ 247 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/suitedaces/dorabot) · [官网](https://dora.so) · 组织维护
 
 **macOS 常驻自主 AI agent 桌面应用，带 IDE 工作区与多渠道消息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "suitedaces/dorabot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 245 --> 248
     line [246, 247, 247]
 ```
 
-2026-10-18 246 → 2026-10-26 247（+1）
+2026-10-18 246 → 2026-10-27 247（+1）
 
 
 ---

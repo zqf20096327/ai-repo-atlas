@@ -1,6 +1,6 @@
 # Dsadd4/AgentFigureGallery
 
-⭐ 170 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Dsadd4/AgentFigureGallery) · [官网](https://huggingface.co/datasets/dsadd4/AgentFigureGallery) · 个人维护 · 中文 README
+⭐ 171 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Dsadd4/AgentFigureGallery) · [官网](https://huggingface.co/datasets/dsadd4/AgentFigureGallery) · 个人维护 · 中文 README
 
 **给编程 agent 的科研绘图参考库技能：供其生成出版级图表**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dsadd4/AgentFigureGallery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 165 --> 171
-    line [166, 168, 169, 170]
+    title "Dsadd4/AgentFigureGallery 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 165 --> 172
+    line [166, 168, 169, 170, 171]
 ```
 
-2026-10-18 166 → 2026-10-26 170（+4）
+2026-10-18 166 → 2026-10-27 171（+5）
 
 
 ---

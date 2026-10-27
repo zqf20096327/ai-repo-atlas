@@ -1,6 +1,6 @@
 # mrmps/classifier-dev
 
-⭐ 432 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mrmps/classifier-dev) · [官网](https://classifier.dev) · 个人维护
+⭐ 433 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mrmps/classifier-dev) · [官网](https://classifier.dev) · 个人维护
 
 **免 Key 的零样本文本分类 HTTP API、CLI 与 MCP 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrmps/classifier-dev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 424 --> 433
-    line [425, 429, 432]
+    title "mrmps/classifier-dev 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 424 --> 434
+    line [425, 429, 432, 433]
 ```
 
-2026-10-18 425 → 2026-10-26 432（+7）
+2026-10-18 425 → 2026-10-27 433（+8）
 
 
 ---

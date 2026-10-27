@@ -1,6 +1,6 @@
 # langchain-ai/langchain-cohere
 
-⭐ 50 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-cohere) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-cohere) · 组织维护
 
 **Cohere 模型接入 LangChain 的官方集成包**
 
@@ -42,13 +42,13 @@ langchain-ai 维护的 Cohere 集成仓库，含单一 Python 包 langchain-cohe
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-cohere 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "langchain-ai/langchain-cohere 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-26 50（+1）
+2026-10-18 49 → 2026-10-27 50（+1）
 
 
 ---

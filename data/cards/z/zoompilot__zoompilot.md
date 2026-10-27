@@ -1,6 +1,6 @@
 # zoompilot/zoompilot
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zoompilot/zoompilot) · [官网](https://zoompilot.ai) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zoompilot/zoompilot) · [官网](https://zoompilot.ai) · 个人维护
 
 **面向马自达 CX-5/CX-9 的开源驾驶辅助系统（sunnypilot 分支）**
 
@@ -45,12 +45,12 @@ sunnypilot 的马自达优化分支，运行在 comma 设备上，目标为 2022
 ```mermaid
 xychart-beta
     title "zoompilot/zoompilot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 24 --> 31
     line [25, 26, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-10-26 30（+5）
+2026-10-18 25 → 2026-10-27 30（+5）
 
 
 ---

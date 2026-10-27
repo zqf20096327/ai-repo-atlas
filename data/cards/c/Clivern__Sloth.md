@@ -1,6 +1,6 @@
 # Clivern/Sloth
 
-⭐ 197 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Clivern/Sloth) · [官网](https://sloth.clivern.com) · 个人维护
+⭐ 198 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Clivern/Sloth) · [官网](https://sloth.clivern.com) · 个人维护
 
 **面向 AI agent、API 与 MCP 服务器的网关和服务发现注册中心**
 
@@ -43,12 +43,12 @@ Sloth 是一个网关与服务发现注册中心，面向 AI agent、API 和 MCP
 ```mermaid
 xychart-beta
     title "Clivern/Sloth 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-26"]
-    y-axis "stars" 196 --> 198
-    line [197, 197]
+    x-axis ["2026-10-24", "2026-10-27"]
+    y-axis "stars" 196 --> 199
+    line [197, 198]
 ```
 
-2026-10-24 197 → 2026-10-26 197（+0）
+2026-10-24 197 → 2026-10-27 198（+1）
 
 
 ---

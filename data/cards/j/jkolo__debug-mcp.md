@@ -1,6 +1,6 @@
 # jkolo/debug-mcp
 
-⭐ 30 · C# · AGPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/jkolo/debug-mcp) · [官网](https://debug-mcp.net) · 个人维护
+⭐ 31 · C# · AGPL-3.0 · 推送 2026-08-26 · [GitHub](https://github.com/jkolo/debug-mcp) · [官网](https://debug-mcp.net) · 个人维护
 
 **让 AI agent 交互式调试 .NET 应用的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jkolo/debug-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-10-26 30（+1）
+2026-10-18 29 → 2026-10-27 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # openlayer-ai/jevals
 
-⭐ 106 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/openlayer-ai/jevals) · [官网](https://github.com/openlayer-ai/jevals) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/openlayer-ai/jevals) · [官网](https://github.com/openlayer-ai/jevals) · 组织维护
 
 **面向 agent 轨迹的评测与护栏库，单请求低成本运行**
 
@@ -45,12 +45,12 @@ Python 评测库（pip 安装），提供 agent 评测（工具选择、结果�
 ```mermaid
 xychart-beta
     title "openlayer-ai/jevals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 104 --> 107
-    line [105, 106, 106]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107]
 ```
 
-2026-10-18 105 → 2026-10-26 106（+1）
+2026-10-18 105 → 2026-10-27 107（+2）
 
 
 ---

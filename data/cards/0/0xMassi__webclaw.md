@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-⭐ 2,388 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
+⭐ 2,390 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
 
 **面向 LLM/Agent 的本地网页抽取工具：网页转 Markdown/JSON/LLM 上下文**
 
@@ -48,12 +48,12 @@ Rust 编写的网页内容抽取引擎，将 URL 转为干净的 Markdown、JSON
 ```mermaid
 xychart-beta
     title "0xMassi/webclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2380 --> 2389
-    line [2381, 2383, 2387, 2386, 2388, 2388]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2380 --> 2391
+    line [2381, 2383, 2387, 2386, 2388, 2390]
 ```
 
-2026-10-18 2,381 → 2026-10-26 2,388（+7）
+2026-10-18 2,381 → 2026-10-27 2,390（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # CatCatUncle/ruanzhu-kit
 
-⭐ 76 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CatCatUncle/ruanzhu-kit) · 个人维护 · 中文 README
+⭐ 78 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CatCatUncle/ruanzhu-kit) · 个人维护 · 中文 README
 
 **给中国软著申请人：从源码生成页数精确的登记材料 PDF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CatCatUncle/ruanzhu-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 38 --> 79
-    line [41, 42, 43, 49, 76]
+    title "CatCatUncle/ruanzhu-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 38 --> 81
+    line [41, 42, 43, 49, 76, 78]
 ```
 
-2026-10-18 41 → 2026-10-26 76（+35）
+2026-10-18 41 → 2026-10-27 78（+37）
 
 
 ---

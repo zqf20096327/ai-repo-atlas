@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mfmezger/conversational-agent-langchain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "mfmezger/conversational-agent-langchain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 255 --> 258
-    line [256, 257]
+    line [256, 257, 257]
 ```
 
-2026-10-18 256 → 2026-10-26 257（+1）
+2026-10-18 256 → 2026-10-27 257（+1）
 
 
 ---

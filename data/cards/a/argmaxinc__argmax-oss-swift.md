@@ -1,6 +1,6 @@
 # argmaxinc/argmax-oss-swift
 
-⭐ 6,417 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/argmaxinc/argmax-oss-swift) · 组织维护
+⭐ 6,419 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/argmaxinc/argmax-oss-swift) · 组织维护
 
 **Apple 芯片端侧语音 AI SDK：语音识别、说话人分离与语音合成**
 
@@ -46,13 +46,13 @@ Argmax 公司维护的 Swift 端侧推理框架集合，包含三个库产品：
 
 ```mermaid
 xychart-beta
-    title "argmaxinc/argmax-oss-swift 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 6404 --> 6418
-    line [6405, 6408, 6411, 6413, 6417]
+    title "argmaxinc/argmax-oss-swift 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6404 --> 6420
+    line [6405, 6408, 6411, 6413, 6417, 6419]
 ```
 
-2026-10-18 6,405 → 2026-10-26 6,417（+12）
+2026-10-18 6,405 → 2026-10-27 6,419（+14）
 
 
 ---

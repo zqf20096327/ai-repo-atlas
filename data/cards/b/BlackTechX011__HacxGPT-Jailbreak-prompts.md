@@ -1,6 +1,6 @@
 # BlackTechX011/HacxGPT-Jailbreak-prompts
 
-⭐ 220 · MIT · 推送 2026-03-15 · [GitHub](https://github.com/BlackTechX011/HacxGPT-Jailbreak-prompts) · [官网](https://github.com/BlackTechX011/HacxGPT-Jailbreak-prompts) · 个人维护
+⭐ 221 · MIT · 推送 2026-03-15 · [GitHub](https://github.com/BlackTechX011/HacxGPT-Jailbreak-prompts) · [官网](https://github.com/BlackTechX011/HacxGPT-Jailbreak-prompts) · 个人维护
 
 **LLM 越狱提示词研究集合：记录绕过模型安全协议的提示技术**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "BlackTechX011/HacxGPT-Jailbreak-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 217 --> 221
-    line [218, 220, 220]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 217 --> 222
+    line [218, 220, 221]
 ```
 
-2026-10-18 218 → 2026-10-26 220（+2）
+2026-10-18 218 → 2026-10-27 221（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # vercel/ai-elements
 
-⭐ 2,497 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/vercel/ai-elements) · [官网](https://elements.ai-sdk.dev) · 组织维护
+⭐ 2,498 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/vercel/ai-elements) · [官网](https://elements.ai-sdk.dev) · 组织维护
 
 **面向 AI 应用的 React 组件库与注册表，基于 shadcn/ui**
 
@@ -45,12 +45,12 @@ Vercel 维护的组件库：提供对话、消息、代码块、推理展示等�
 ```mermaid
 xychart-beta
     title "vercel/ai-elements 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 2493 --> 2499
-    line [2495, 2494, 2496, 2497, 2498, 2497, 2497]
+    line [2495, 2494, 2496, 2497, 2498, 2497, 2498]
 ```
 
-2026-10-18 2,495 → 2026-10-26 2,497（+2）
+2026-10-18 2,495 → 2026-10-27 2,498（+3）
 
 
 ---

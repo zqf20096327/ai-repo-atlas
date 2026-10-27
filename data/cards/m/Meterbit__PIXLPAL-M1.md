@@ -46,12 +46,12 @@ Meterbit Cybernetics 的 Pixlpal-M1 固件，运行于 ESP32-S3（N16R8）之上
 ```mermaid
 xychart-beta
     title "Meterbit/PIXLPAL-M1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

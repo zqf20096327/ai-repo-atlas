@@ -1,6 +1,6 @@
 # xorbitsai/xagent
 
-⭐ 305 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护 · 中文 README
+⭐ 305 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护 · 中文 README
 
 **面向个人到企业的自主代理运行平台：描述目标即完成工作**
 
@@ -46,12 +46,12 @@ Xagent 是一个 agentic 执行运行时：用户描述任务目标，平台的�
 ```mermaid
 xychart-beta
     title "xorbitsai/xagent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 303 --> 307
     line [304, 305, 306, 305, 305]
 ```
 
-2026-10-18 304 → 2026-10-26 305（+1）
+2026-10-18 304 → 2026-10-27 305（+1）
 
 
 ---

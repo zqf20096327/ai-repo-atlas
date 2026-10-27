@@ -1,6 +1,6 @@
 # grayhatdevelopers/vidxp
 
-⭐ 59 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/grayhatdevelopers/vidxp) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/grayhatdevelopers/vidxp) · 组织维护
 
 **本地优先的视频语义搜索引擎：按语音、画面、人脸搜索视频**
 
@@ -46,12 +46,12 @@ VidXP 将单个或成批视频索引为可按语义搜索的库：支持语音�
 ```mermaid
 xychart-beta
     title "grayhatdevelopers/vidxp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

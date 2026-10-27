@@ -1,6 +1,6 @@
 # AIDotNet/Sol
 
-⭐ 29 · C# · MIT · 推送 2026-10-09 · [GitHub](https://github.com/AIDotNet/Sol) · [官网](https://sol.routin.ai/) · 组织维护 · 中文 README
+⭐ 30 · C# · MIT · 推送 2026-10-09 · [GitHub](https://github.com/AIDotNet/Sol) · [官网](https://sol.routin.ai/) · 组织维护 · 中文 README
 
 **浏览器端可视化 AI 画布：节点式编排图像、视频与文本生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AIDotNet/Sol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-10-26 29（+1）
+2026-10-18 28 → 2026-10-27 30（+2）
 
 
 ---

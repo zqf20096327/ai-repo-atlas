@@ -1,6 +1,6 @@
 # LibrePhotos/librephotos
 
-⭐ 8,114 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/LibrePhotos/librephotos) · [官网](https://docs.librephotos.com/) · 组织维护
+⭐ 8,116 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/LibrePhotos/librephotos) · [官网](https://docs.librephotos.com/) · 组织维护
 
 **自托管照片管理服务：人脸识别、语义搜索的私有相册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LibrePhotos/librephotos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 8106 --> 8115
-    line [8107, 8112, 8110, 8112, 8114]
+    title "LibrePhotos/librephotos 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8106 --> 8117
+    line [8107, 8112, 8110, 8112, 8114, 8116]
 ```
 
-2026-10-18 8,107 → 2026-10-26 8,114（+7）
+2026-10-18 8,107 → 2026-10-27 8,116（+9）
 
 
 ---

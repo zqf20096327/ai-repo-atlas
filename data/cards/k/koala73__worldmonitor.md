@@ -1,6 +1,6 @@
 # koala73/worldmonitor
 
-⭐ 89,499 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
+⭐ 89,594 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
 
 **实时全球情报仪表盘：新闻聚合、地缘政治与基础设施监控**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "koala73/worldmonitor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 88519 --> 89588
-    line [88608, 88837, 89038, 89198, 89333, 89410, 89499]
+    title "koala73/worldmonitor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 88510 --> 89692
+    line [88608, 88837, 89038, 89198, 89333, 89410, 89499, 89594]
 ```
 
-2026-10-18 88,608 → 2026-10-26 89,499（+891）
+2026-10-18 88,608 → 2026-10-27 89,594（+986）
 
 
 ---

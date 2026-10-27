@@ -1,6 +1,6 @@
 # Fadi002/de4py
 
-⭐ 1,008 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/Fadi002/de4py) · 个人维护
+⭐ 1,009 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/Fadi002/de4py) · 个人维护
 
 **面向逆向工程师的 Python 反混淆工具箱（含 AI 反混淆引擎）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fadi002/de4py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1007 --> 1009
-    line [1008, 1008]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1007 --> 1010
+    line [1008, 1009]
 ```
 
-2026-10-18 1,008 → 2026-10-26 1,008（+0）
+2026-10-18 1,008 → 2026-10-27 1,009（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # benlamiro/ShipGenAI
 
-⭐ 257 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/benlamiro/ShipGenAI) · [官网](https://shipgenai.site/) · 个人维护
+⭐ 258 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/benlamiro/ShipGenAI) · [官网](https://shipgenai.site/) · 个人维护
 
 **50 个可白标商用的生成式 AI SaaS 应用模板合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benlamiro/ShipGenAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 254 --> 258
-    line [255, 256, 257, 257]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 254 --> 259
+    line [255, 256, 257, 258]
 ```
 
-2026-10-18 255 → 2026-10-26 257（+2）
+2026-10-18 255 → 2026-10-27 258（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cloudflare/vibesdk
 
-⭐ 5,428 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cloudflare/vibesdk) · [官网](https://build.cloudflare.dev) · 组织维护
+⭐ 5,429 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cloudflare/vibesdk) · [官网](https://build.cloudflare.dev) · 组织维护
 
 **开源 vibe coding 平台：用 AI 编码代理在 Cloudflare 上构建全栈应用**
 
@@ -44,13 +44,13 @@ Cloudflare 维护的开源 agentic 平台，用户以自然语言描述需求，
 
 ```mermaid
 xychart-beta
-    title "cloudflare/vibesdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 5409 --> 5429
-    line [5410, 5415, 5420, 5428]
+    title "cloudflare/vibesdk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5409 --> 5430
+    line [5410, 5415, 5420, 5428, 5429]
 ```
 
-2026-10-18 5,410 → 2026-10-26 5,428（+18）
+2026-10-18 5,410 → 2026-10-27 5,429（+19）
 
 
 ---

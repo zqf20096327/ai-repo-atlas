@@ -45,12 +45,12 @@ PearAI 主仓库，汇总构成整个项目的各子仓库：pearai-app（VSCode
 ```mermaid
 xychart-beta
     title "trypear/pearai-master 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 772 --> 774
     line [773, 773]
 ```
 
-2026-10-18 773 → 2026-10-26 773（+0）
+2026-10-18 773 → 2026-10-27 773（+0）
 
 
 ---

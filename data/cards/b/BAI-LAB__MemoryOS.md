@@ -1,6 +1,6 @@
 # BAI-LAB/MemoryOS
 
-⭐ 1,612 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/BAI-LAB/MemoryOS) · [官网](https://baijia.online/memoryos/) · 组织维护 · 中文 README
+⭐ 1,613 · Python · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/BAI-LAB/MemoryOS) · [官网](https://baijia.online/memoryos/) · 组织维护 · 中文 README
 
 **为个性化 AI agent 提供长期记忆管理的记忆操作系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BAI-LAB/MemoryOS 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1603 --> 1613
-    line [1604, 1605, 1609, 1610, 1611, 1612]
+    title "BAI-LAB/MemoryOS 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1603 --> 1614
+    line [1604, 1605, 1609, 1610, 1611, 1612, 1613]
 ```
 
-2026-10-18 1,604 → 2026-10-26 1,612（+8）
+2026-10-18 1,604 → 2026-10-27 1,613（+9）
 
 
 ---

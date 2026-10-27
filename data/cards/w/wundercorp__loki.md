@@ -1,6 +1,6 @@
 # wundercorp/loki
 
-⭐ 26 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wundercorp/loki) · [官网](https://loki.computer) · 组织维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wundercorp/loki) · [官网](https://loki.computer) · 组织维护 · 中文 README
 
 **自我改进的个人 AI agent：学习循环+多平台消息接入**
 
@@ -46,12 +46,12 @@ WunderCorp 开发的命令行 AI agent，核心机制是学习闭环：从任务
 ```mermaid
 xychart-beta
     title "wundercorp/loki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-26 26（+1）
+2026-10-18 25 → 2026-10-27 26（+1）
 
 
 ---

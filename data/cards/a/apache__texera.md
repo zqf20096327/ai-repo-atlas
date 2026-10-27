@@ -1,6 +1,6 @@
 # apache/texera
 
-⭐ 326 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/apache/texera) · [官网](https://texera.apache.org/) · 组织维护
+⭐ 326 · Scala · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apache/texera) · [官网](https://texera.apache.org/) · 组织维护
 
 **面向数据分析师的可视化工作流人机协同数据科学平台**
 
@@ -45,13 +45,13 @@ Apache 孵化中的开源平台，供人类分析师通过 GUI 构建、执行�
 
 ```mermaid
 xychart-beta
-    title "apache/texera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "apache/texera 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 321 --> 327
-    line [322, 325, 326]
+    line [322, 325, 326, 326]
 ```
 
-2026-10-18 322 → 2026-10-26 326（+4）
+2026-10-18 322 → 2026-10-27 326（+4）
 
 
 ---

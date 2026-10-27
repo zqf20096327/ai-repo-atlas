@@ -1,6 +1,6 @@
 # langchain-ai/langchain-redis
 
-⭐ 69 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-redis) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-redis) · 组织维护
 
 **Redis 与 LangChain 的集成包，提供 Redis 向量存储等接入**
 
@@ -42,12 +42,12 @@ langchain-ai 组织下的 Redis 集成仓库，根 README 仅作索引：包含�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-redis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-26 69（+0）
+2026-10-18 69 → 2026-10-27 69（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zijinz456/OpenTutor
 
-⭐ 148 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zijinz456/OpenTutor) · 个人维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zijinz456/OpenTutor) · 个人维护 · 中文 README
 
 **本地自托管的自适应 AI 学习平台：上传材料生成笔记与测验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zijinz456/OpenTutor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 141 --> 150
-    line [142, 145, 148, 149, 148]
+    title "zijinz456/OpenTutor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 141 --> 153
+    line [142, 145, 148, 149, 148, 152]
 ```
 
-2026-10-18 142 → 2026-10-26 148（+6）
+2026-10-18 142 → 2026-10-27 152（+10）
 
 
 ---

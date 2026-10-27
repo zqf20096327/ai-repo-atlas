@@ -1,6 +1,6 @@
 # MeXenon/codex-session-export
 
-⭐ 126 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MeXenon/codex-session-export) · 个人维护
+⭐ 127 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/MeXenon/codex-session-export) · 个人维护
 
 **Codex 会话日志导出工具：解析 .jsonl 并按需筛选生成 Markdown**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MeXenon/codex-session-export 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 122 --> 127
-    line [123, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 122 --> 128
+    line [123, 125, 126, 127]
 ```
 
-2026-10-18 123 → 2026-10-26 126（+3）
+2026-10-18 123 → 2026-10-27 127（+4）
 
 
 ---

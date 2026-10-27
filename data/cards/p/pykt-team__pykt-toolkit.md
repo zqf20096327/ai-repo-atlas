@@ -1,6 +1,6 @@
 # pykt-team/pykt-toolkit
 
-⭐ 451 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pykt-team/pykt-toolkit) · [官网](https://pykt.org) · 组织维护
+⭐ 452 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/pykt-team/pykt-toolkit) · [官网](https://pykt.org) · 组织维护
 
 **基于 PyTorch 的深度知识追踪模型基准测试库**
 
@@ -44,12 +44,12 @@ pyKT 是基于 PyTorch 构建的 Python 库，用于训练深度学习知识追�
 ```mermaid
 xychart-beta
     title "pykt-team/pykt-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 449 --> 452
-    line [450, 451, 451]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 449 --> 453
+    line [450, 451, 452]
 ```
 
-2026-10-18 450 → 2026-10-26 451（+1）
+2026-10-18 450 → 2026-10-27 452（+2）
 
 
 ---

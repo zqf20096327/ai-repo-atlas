@@ -1,6 +1,6 @@
 # PyGCL/PyGCL
 
-⭐ 966 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/PyGCL/PyGCL) · [官网](https://PyGCL.readthedocs.io) · 组织维护
+⭐ 967 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/PyGCL/PyGCL) · [官网](https://PyGCL.readthedocs.io) · 组织维护
 
 **图对比学习 PyTorch 库：为研究者提供模块化 GCL 组件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PyGCL/PyGCL 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 965 --> 968
-    line [966, 967, 966, 966]
+    line [966, 967, 966, 967]
 ```
 
-2026-10-18 966 → 2026-10-26 966（+0）
+2026-10-18 966 → 2026-10-27 967（+1）
 
 
 ---

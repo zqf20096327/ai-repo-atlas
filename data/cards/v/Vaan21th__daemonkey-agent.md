@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vaan21th/daemonkey-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Vaan21th/daemonkey-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 93 --> 96
-    line [94, 95]
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-10-26 95（+1）
+2026-10-18 94 → 2026-10-27 95（+1）
 
 
 ---

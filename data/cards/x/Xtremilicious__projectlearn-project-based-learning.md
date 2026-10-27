@@ -1,6 +1,6 @@
 # Xtremilicious/projectlearn-project-based-learning
 
-⭐ 6,374 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning) · [官网](https://projectlearn.io) · 个人维护
+⭐ 6,375 · TypeScript · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Xtremilicious/projectlearn-project-based-learning) · [官网](https://projectlearn.io) · 个人维护
 
 **项目式学习教程策展清单：从零构建应用的分类项目目录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xtremilicious/projectlearn-project-based-learning 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6359 --> 6375
-    line [6360, 6363, 6367, 6371, 6372, 6374]
+    title "Xtremilicious/projectlearn-project-based-learning 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6359 --> 6376
+    line [6360, 6363, 6367, 6371, 6372, 6374, 6375]
 ```
 
-2026-10-18 6,360 → 2026-10-26 6,374（+14）
+2026-10-18 6,360 → 2026-10-27 6,375（+15）
 
 
 ---

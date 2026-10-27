@@ -1,6 +1,6 @@
 # rudra496/StealthHumanizer
 
-⭐ 188 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rudra496/StealthHumanizer) · [官网](https://stealthhumanizer.vercel.app/) · 个人维护
+⭐ 189 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rudra496/StealthHumanizer) · [官网](https://stealthhumanizer.vercel.app/) · 个人维护
 
 **面向学生与写作者的开源 AI 文本人性化改写工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rudra496/StealthHumanizer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 172 --> 189
-    line [173, 178, 180, 183, 184, 187, 188]
+    title "rudra496/StealthHumanizer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 172 --> 190
+    line [173, 178, 180, 183, 184, 187, 188, 189]
 ```
 
-2026-10-18 173 → 2026-10-26 188（+15）
+2026-10-18 173 → 2026-10-27 189（+16）
 
 
 ---

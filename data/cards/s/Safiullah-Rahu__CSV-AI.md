@@ -1,6 +1,6 @@
 # Safiullah-Rahu/CSV-AI
 
-⭐ 340 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Safiullah-Rahu/CSV-AI) · [官网](https://csv-ai.streamlit.app/) · 个人维护
+⭐ 341 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/Safiullah-Rahu/CSV-AI) · [官网](https://csv-ai.streamlit.app/) · 个人维护
 
 **与 CSV 文件对话、总结与分析的 Streamlit AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Safiullah-Rahu/CSV-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 339 --> 341
-    line [340, 340]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 339 --> 342
+    line [340, 341]
 ```
 
-2026-10-18 340 → 2026-10-26 340（+0）
+2026-10-18 340 → 2026-10-27 341（+1）
 
 
 ---

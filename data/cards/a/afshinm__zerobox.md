@@ -1,6 +1,6 @@
 # afshinm/zerobox
 
-⭐ 724 · Rust · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/afshinm/zerobox) · 个人维护
+⭐ 725 · Rust · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/afshinm/zerobox) · 个人维护
 
 **跨平台进程沙箱工具：以文件/网络/凭据管控运行任意命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "afshinm/zerobox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 720 --> 725
-    line [721, 722, 724, 724]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 720 --> 726
+    line [721, 722, 724, 725]
 ```
 
-2026-10-18 721 → 2026-10-26 724（+3）
+2026-10-18 721 → 2026-10-27 725（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hayowei/aisandboxgame
 
-⭐ 81 · JavaScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/hayowei/aisandboxgame) · [官网](https://aisandboxgame.com) · 个人维护 · 中文 README
+⭐ 82 · JavaScript · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/hayowei/aisandboxgame) · [官网](https://aisandboxgame.com) · 个人维护 · 中文 README
 
 **本地优先的浏览器端 LLM 文字 RPG 框架，自带世界卡创作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hayowei/aisandboxgame 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 78 --> 83
+    line [79, 80, 81, 82]
 ```
 
-2026-10-18 79 → 2026-10-26 81（+2）
+2026-10-18 79 → 2026-10-27 82（+3）
 
 
 ---

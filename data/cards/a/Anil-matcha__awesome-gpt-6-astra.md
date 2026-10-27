@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-gpt-6-astra
 
-⭐ 1,153 · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Anil-matcha/awesome-gpt-6-astra) · 个人维护
+⭐ 10 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Anil-matcha/awesome-gpt-6-astra) · 个人维护
 
 **GPT-6 Astra 用例/提示词/集成/评测与安全笔记的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-gpt-6-astra 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1147 --> 1154
-    line [1148, 1150, 1151, 1153, 1153]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 0 --> 1267
+    line [1148, 1150, 1151, 1153, 10]
 ```
 
-2026-10-18 1,148 → 2026-10-26 1,153（+5）
+2026-10-18 1,148 → 2026-10-27 10（-1,138）
 
 
 ---

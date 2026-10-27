@@ -1,6 +1,6 @@
 # esrrhs/majiang_algorithm
 
-⭐ 482 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/esrrhs/majiang_algorithm) · [官网](http://majiang.esrrhs.xyz) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **麻将算法库：胡牌检测、听牌计算与出牌决策，三种语言实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # axolotl-ai-cloud/axolotl
 
-⭐ 12,629 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [官网](https://docs.axolotl.ai) · 组织维护
+⭐ 12,633 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [官网](https://docs.axolotl.ai) · 组织维护
 
 **开源 LLM 后训练/微调框架，面向开发者**
 
@@ -46,13 +46,13 @@ Axolotl 是免费开源的大语言模型后训练与微调工具，支持 GPT-O
 
 ```mermaid
 xychart-beta
-    title "axolotl-ai-cloud/axolotl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 12577 --> 12633
-    line [12581, 12592, 12612, 12624, 12628, 12629]
+    title "axolotl-ai-cloud/axolotl 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12576 --> 12638
+    line [12581, 12592, 12612, 12624, 12628, 12629, 12633]
 ```
 
-2026-10-18 12,581 → 2026-10-26 12,629（+48）
+2026-10-18 12,581 → 2026-10-27 12,633（+52）
 
 
 ---

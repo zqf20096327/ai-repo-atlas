@@ -1,6 +1,6 @@
 # omgits0mar/ai-engineer-jobs
 
-⭐ 80 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/omgits0mar/ai-engineer-jobs) · [官网](https://omgits0mar.github.io/ai-engineer-jobs/) · 个人维护
+⭐ 81 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/omgits0mar/ai-engineer-jobs) · [官网](https://omgits0mar.github.io/ai-engineer-jobs/) · 个人维护
 
 **社区维护的 AI/ML/数据岗位公司目录（213 家，直链招聘页）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "omgits0mar/ai-engineer-jobs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 78 --> 82
+    line [79, 80, 81]
 ```
 
-2026-10-18 79 → 2026-10-26 80（+1）
+2026-10-18 79 → 2026-10-27 81（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fractal-Compute-Orchestrations/FractalAndroid
 
-⭐ 3,672 · Kotlin · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalAndroid) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
+⭐ 3,868 · Kotlin · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalAndroid) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
 
 **面向联邦学习的 Android 边缘计算节点客户端，含硬件遥测门控**
 
@@ -45,13 +45,13 @@ Kotlin 编写的 Android 应用，作为 Fractal 去中心化计算框架（Frac
 
 ```mermaid
 xychart-beta
-    title "Fractal-Compute-Orchestrations/FractalAndroid 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 0 --> 4006
-    line [325, 1729, 2552, 3238, 3409, 3544, 3672]
+    title "Fractal-Compute-Orchestrations/FractalAndroid 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 4222
+    line [325, 1729, 2552, 3238, 3409, 3544, 3672, 3868]
 ```
 
-2026-10-18 325 → 2026-10-26 3,672（+3,347）
+2026-10-18 325 → 2026-10-27 3,868（+3,543）
 
 
 ---

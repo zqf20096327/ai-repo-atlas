@@ -1,6 +1,6 @@
 # xianglin226/Benchmarking-Single-Cell-Perturbation
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/xianglin226/Benchmarking-Single-Cell-Perturbation) · 个人维护
+⭐ 130 · Python · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/xianglin226/Benchmarking-Single-Cell-Perturbation) · 个人维护
 
 **单细胞扰动模型论文与数据集策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xianglin226/Benchmarking-Single-Cell-Perturbation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 128 --> 131
+    line [129, 130]
 ```
 
-2026-10-18 129 → 2026-10-26 129（+0）
+2026-10-18 129 → 2026-10-27 130（+1）
 
 
 ---

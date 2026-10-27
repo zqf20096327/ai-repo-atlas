@@ -1,6 +1,6 @@
 # etalab-ia/OpenGateLLM
 
-⭐ 217 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/etalab-ia/OpenGateLLM) · 组织维护
+⭐ 217 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/etalab-ia/OpenGateLLM) · 组织维护
 
 **面向自托管 LLM 的统一 API 网关：集中接入、安全与治理**
 
@@ -45,12 +45,12 @@ OpenGateLLM 是一个开源的生成式 AI API 网关，定位为面向组织的
 ```mermaid
 xychart-beta
     title "etalab-ia/OpenGateLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 211 --> 218
     line [212, 213, 217, 217]
 ```
 
-2026-10-18 212 → 2026-10-26 217（+5）
+2026-10-18 212 → 2026-10-27 217（+5）
 
 
 ---

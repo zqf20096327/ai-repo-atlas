@@ -1,6 +1,6 @@
 # EXXETA/exxperts
 
-⭐ 406 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/EXXETA/exxperts) · 组织维护
+⭐ 405 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/EXXETA/exxperts) · [官网](https://exxeta.com/exxperts) · 组织维护
 
 **本地优先的 AI 同事应用：审批制记忆，任意模型商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EXXETA/exxperts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 404 --> 409
-    line [405, 406, 408, 406, 406]
+    line [405, 406, 408, 406, 405]
 ```
 
-2026-10-18 405 → 2026-10-26 406（+1）
+2026-10-18 405 → 2026-10-27 405（+0）
 
 
 ---

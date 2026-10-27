@@ -1,6 +1,6 @@
 # CyberSunil/LLMVault
 
-⭐ 345 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/CyberSunil/LLMVault) · 个人维护
+⭐ 344 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/CyberSunil/LLMVault) · 个人维护
 
 **OWASP LLM Top 10 攻防训练靶场：25 个 CTF 实验室+真实本地模型对抗**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CyberSunil/LLMVault 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "CyberSunil/LLMVault 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 339 --> 346
-    line [340, 341, 342, 343, 345]
+    line [340, 341, 342, 343, 345, 344]
 ```
 
-2026-10-18 340 → 2026-10-26 345（+5）
+2026-10-18 340 → 2026-10-27 344（+4）
 
 
 ---

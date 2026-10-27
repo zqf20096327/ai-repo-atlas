@@ -1,6 +1,6 @@
 # Evvvvvvvan/XianYuSmart
 
-⭐ 89 · Java · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Evvvvvvvan/XianYuSmart) · 个人维护 · 中文 README
+⭐ 91 · Java · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Evvvvvvvan/XianYuSmart) · 个人维护 · 中文 README
 
 **闲鱼虚拟商品多租户自动化运营系统：发货、客服、售后一站式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Evvvvvvvan/XianYuSmart 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 79 --> 90
-    line [80, 82, 85, 88, 89]
+    title "Evvvvvvvan/XianYuSmart 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 79 --> 92
+    line [80, 82, 85, 88, 89, 91]
 ```
 
-2026-10-18 80 → 2026-10-26 89（+9）
+2026-10-18 80 → 2026-10-27 91（+11）
 
 
 ---

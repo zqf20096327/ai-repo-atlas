@@ -1,6 +1,6 @@
 # openagentemail/openagentemail
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/openagentemail/openagentemail) · [官网](https://openagent.email) · 组织维护 · 中文 README
+⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openagentemail/openagentemail) · [官网](https://openagent.email) · 组织维护 · 中文 README
 
 **AI agent 间自托管邮件与任务交接基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openagentemail/openagentemail 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-18 49 → 2026-10-26 50（+1）
+2026-10-18 49 → 2026-10-27 51（+2）
 
 
 ---

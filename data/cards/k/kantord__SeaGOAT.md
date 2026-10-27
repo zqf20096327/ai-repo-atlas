@@ -1,6 +1,6 @@
 # kantord/SeaGOAT
 
-⭐ 1,314 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kantord/SeaGOAT) · [官网](https://kantord.github.io/SeaGOAT/) · 个人维护
+⭐ 1,315 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kantord/SeaGOAT) · [官网](https://kantord.github.io/SeaGOAT/) · 个人维护
 
 **本地优先的语义代码搜索引擎，向量嵌入+正则检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kantord/SeaGOAT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 1312 --> 1315
-    line [1313, 1314, 1314]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 1312 --> 1316
+    line [1313, 1314, 1315]
 ```
 
-2026-10-18 1,313 → 2026-10-26 1,314（+1）
+2026-10-18 1,313 → 2026-10-27 1,315（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai4s-research/open-science
 
-⭐ 2,039 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/ai4s-research/open-science) · [官网](https://openedscience.com/) · 组织维护 · 中文 README
+⭐ 2,044 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ai4s-research/open-science) · [官网](https://openedscience.com/) · 组织维护 · 中文 README
 
 **本地优先、模型无关的 AI 科研工作台桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai4s-research/open-science 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1828 --> 2058
-    line [1847, 1910, 1981, 2022, 2033, 2035, 2039]
+    title "ai4s-research/open-science 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1828 --> 2063
+    line [1847, 1910, 1981, 2022, 2033, 2035, 2039, 2044]
 ```
 
-2026-10-18 1,847 → 2026-10-26 2,039（+192）
+2026-10-18 1,847 → 2026-10-27 2,044（+197）
 
 
 ---

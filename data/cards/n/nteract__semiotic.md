@@ -1,6 +1,6 @@
 # nteract/semiotic
 
-⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
+⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
 
 **面向 AI 辅助开发的 React 数据可视化库**
 
@@ -45,12 +45,12 @@ nteract 维护的 React 图表库，覆盖 XY、分类、网络图、地理、�
 ```mermaid
 xychart-beta
     title "nteract/semiotic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 2715 --> 2717
     line [2716, 2716]
 ```
 
-2026-10-18 2,716 → 2026-10-26 2,716（+0）
+2026-10-18 2,716 → 2026-10-27 2,716（+0）
 
 
 ---

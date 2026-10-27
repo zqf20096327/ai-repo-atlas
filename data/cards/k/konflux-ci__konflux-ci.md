@@ -1,6 +1,6 @@
 # konflux-ci/konflux-ci
 
-⭐ 216 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/konflux-ci/konflux-ci) · [官网](https://konflux-ci.dev/) · 组织维护
+⭐ 216 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/konflux-ci/konflux-ci) · [官网](https://konflux-ci.dev/) · 组织维护
 
 **Kubernetes 原生 CI/CD 平台：构建、测试与发布可信软件制品**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "konflux-ci/konflux-ci 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "konflux-ci/konflux-ci 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 198 --> 217
-    line [199, 202, 212, 214, 215, 216]
+    line [199, 202, 212, 214, 215, 216, 216]
 ```
 
-2026-10-18 199 → 2026-10-26 216（+17）
+2026-10-18 199 → 2026-10-27 216（+17）
 
 
 ---

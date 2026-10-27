@@ -1,6 +1,6 @@
 # mozilla-ai/llamafile
 
-⭐ 26,485 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
+⭐ 26,491 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mozilla-ai/llamafile) · [官网](https://docs.mozilla.ai/llamafile) · 组织维护
 
 **把 LLM 打包成单文件分发与本地运行的开发者工具**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozilla-ai/llamafile 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 26381 --> 26494
-    line [26390, 26441, 26448, 26456, 26468, 26480, 26485]
+    title "mozilla-ai/llamafile 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 26380 --> 26501
+    line [26390, 26441, 26448, 26456, 26468, 26480, 26485, 26491]
 ```
 
-2026-10-18 26,390 → 2026-10-26 26,485（+95）
+2026-10-18 26,390 → 2026-10-27 26,491（+101）
 
 
 ---

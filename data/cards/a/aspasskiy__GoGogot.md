@@ -1,6 +1,6 @@
 # aspasskiy/GoGogot
 
-⭐ 261 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aspasskiy/GoGogot) · [官网](https://go-go-got.com/) · 个人维护
+⭐ 263 · Go · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aspasskiy/GoGogot) · [官网](https://go-go-got.com/) · 个人维护
 
 **Go 编写的自托管 AI agent，经 Telegram 对话执行任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aspasskiy/GoGogot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 260 --> 263
-    line [262, 261, 261]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 260 --> 264
+    line [262, 261, 263]
 ```
 
-2026-10-18 262 → 2026-10-26 261（-1）
+2026-10-18 262 → 2026-10-27 263（+1）
 
 
 ---

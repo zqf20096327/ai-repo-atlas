@@ -1,6 +1,6 @@
 # zenineasa/Konjugate
 
-⭐ 32 · JavaScript · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/zenineasa/Konjugate) · [官网](https://konjugate.com) · 个人维护
+⭐ 32 · JavaScript · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zenineasa/Konjugate) · [官网](https://konjugate.com) · 个人维护
 
 **面向工程仿真与数字孪生的图原生可组合仿真引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zenineasa/Konjugate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

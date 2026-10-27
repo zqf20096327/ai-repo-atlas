@@ -1,6 +1,6 @@
 # talirezun/the-curator
 
-⭐ 100 · JavaScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/talirezun/the-curator) · 个人维护
+⭐ 101 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/talirezun/the-curator) · 个人维护
 
 **把阅读资料整合为可共享的 markdown 知识库，并作为 agent 记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "talirezun/the-curator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-10-26 100（+0）
+2026-10-18 100 → 2026-10-27 101（+1）
 
 
 ---

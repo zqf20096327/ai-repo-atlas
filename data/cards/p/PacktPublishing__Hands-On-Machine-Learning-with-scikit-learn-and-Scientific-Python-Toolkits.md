@@ -45,12 +45,12 @@ Packt 出版书籍《Hands-On Machine Learning with Scikit-Learn and Scientific 
 ```mermaid
 xychart-beta
     title "PacktPublishing/Hands-On-Machine-Learning-with-scikit-learn-and-Scientific-Python-Toolkits 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 152 --> 155
     line [153, 154, 154]
 ```
 
-2026-10-18 153 → 2026-10-26 154（+1）
+2026-10-18 153 → 2026-10-27 154（+1）
 
 
 ---

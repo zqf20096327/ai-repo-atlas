@@ -1,6 +1,6 @@
 # devcxl/mattpocock-skills-zh
 
-⭐ 508 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devcxl/mattpocock-skills-zh) · 个人维护 · 中文 README
+⭐ 512 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devcxl/mattpocock-skills-zh) · 个人维护 · 中文 README
 
 **面向工程实践的 AI 编程智能体技能集中文翻译版**
 
@@ -46,13 +46,13 @@ Matt Pocock mattpocock/skills 的第三方简体中文汉化版，由 devcxl 维
 
 ```mermaid
 xychart-beta
-    title "devcxl/mattpocock-skills-zh 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 483 --> 510
-    line [485, 498, 499, 502, 505, 507, 508]
+    title "devcxl/mattpocock-skills-zh 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 483 --> 514
+    line [485, 498, 499, 502, 505, 507, 508, 512]
 ```
 
-2026-10-18 485 → 2026-10-26 508（+23）
+2026-10-18 485 → 2026-10-27 512（+27）
 
 
 ---

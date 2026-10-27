@@ -1,6 +1,6 @@
 # NatLibFi/Annif
 
-⭐ 274 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NatLibFi/Annif) · [官网](https://annif.org) · 组织维护
+⭐ 274 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NatLibFi/Annif) · [官网](https://annif.org) · 组织维护
 
 **面向图书馆等机构的自动主题标引工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatLibFi/Annif 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
     y-axis "stars" 271 --> 275
     line [272, 273, 274, 274]
 ```
 
-2026-10-18 272 → 2026-10-26 274（+2）
+2026-10-18 272 → 2026-10-27 274（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bhavyakeerthi3/-purplle_hackathon
 
-⭐ 31 · HTML · 推送 2026-06-22 · [GitHub](https://github.com/bhavyakeerthi3/-purplle_hackathon) · 个人维护
+⭐ 33 · HTML · 推送 2026-06-22 · [GitHub](https://github.com/bhavyakeerthi3/-purplle_hackathon) · 个人维护
 
 **把 CCTV 录像转为门店客流与销售分析的平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bhavyakeerthi3/-purplle_hackathon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31]
+    title "bhavyakeerthi3/-purplle_hackathon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 30, 31, 33]
 ```
 
-2026-10-18 28 → 2026-10-26 31（+3）
+2026-10-18 28 → 2026-10-27 33（+5）
 
 
 ---

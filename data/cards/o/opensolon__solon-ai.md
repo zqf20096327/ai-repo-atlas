@@ -1,6 +1,6 @@
 # opensolon/solon-ai
 
-⭐ 468 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/opensolon/solon-ai) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
+⭐ 468 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/opensolon/solon-ai) · [官网](https://solon.noear.org) · 组织维护 · 中文 README
 
 **面向 Java 开发者的 LLM/RAG/MCP/Agent 应用开发框架**
 
@@ -45,13 +45,13 @@ Solon 项目核心子项目，Java 全场景 AI 开发框架，提供 ChatModel 
 
 ```mermaid
 xychart-beta
-    title "opensolon/solon-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "opensolon/solon-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 463 --> 469
-    line [464, 465, 466, 467, 466, 467, 468]
+    line [464, 465, 466, 467, 466, 467, 468, 468]
 ```
 
-2026-10-18 464 → 2026-10-26 468（+4）
+2026-10-18 464 → 2026-10-27 468（+4）
 
 
 ---

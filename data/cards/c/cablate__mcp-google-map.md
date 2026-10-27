@@ -1,6 +1,6 @@
 # cablate/mcp-google-map
 
-⭐ 483 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cablate/mcp-google-map) · [官网](https://www.npmjs.com/package/@cablate/mcp-google-map) · 个人维护 · 中文 README
+⭐ 484 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cablate/mcp-google-map) · [官网](https://www.npmjs.com/package/@cablate/mcp-google-map) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Google Maps 工具集：18 个只读工具+3 个技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cablate/mcp-google-map 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 470 --> 484
-    line [471, 473, 476, 478, 479, 483]
+    title "cablate/mcp-google-map 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 470 --> 485
+    line [471, 473, 476, 478, 479, 483, 484]
 ```
 
-2026-10-18 471 → 2026-10-26 483（+12）
+2026-10-18 471 → 2026-10-27 484（+13）
 
 
 ---

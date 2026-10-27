@@ -1,6 +1,6 @@
 # yuhao-nie/Stanford-solar-forecasting-dataset
 
-⭐ 259 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) · 组织维护
+⭐ 260 · Jupyter Notebook · MIT · 推送 2026-10-07 · [GitHub](https://github.com/yuhao-nie/Stanford-solar-forecasting-dataset) · 组织维护
 
 **斯坦福天空图像与光伏功率数据集：短期太阳能预测研究**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuhao-nie/Stanford-solar-forecasting-dataset 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 256 --> 260
-    line [257, 258, 259, 259]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 256 --> 261
+    line [257, 258, 259, 260]
 ```
 
-2026-10-18 257 → 2026-10-26 259（+2）
+2026-10-18 257 → 2026-10-27 260（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Noveum/ai-gateway
 
-⭐ 97 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Noveum/ai-gateway) · [官网](https://noveum.ai) · 组织维护
+⭐ 98 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Noveum/ai-gateway) · [官网](https://noveum.ai) · 组织维护
 
 **Rust 编写的 OpenAI 兼容多供应商 AI 网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Noveum/ai-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 98（+1）
 
 
 ---

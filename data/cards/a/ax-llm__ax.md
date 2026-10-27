@@ -1,6 +1,6 @@
 # ax-llm/ax
 
-⭐ 2,969 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ax-llm/ax) · [官网](http://axllm.dev) · 个人维护
+⭐ 2,971 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ax-llm/ax) · [官网](http://axllm.dev) · 个人维护
 
 **TypeScript 优先的 DSPy 式 LLM 编程框架，多语言生成移植**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ax-llm/ax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2966 --> 2970
-    line [2967, 2968, 2969, 2969]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2966 --> 2972
+    line [2967, 2968, 2969, 2971]
 ```
 
-2026-10-18 2,967 → 2026-10-26 2,969（+2）
+2026-10-18 2,967 → 2026-10-27 2,971（+4）
 
 
 ---

@@ -46,12 +46,12 @@ Markdown 原生的 AI 系统工程操作典（canon），含 12 卷、37 篇报�
 ```mermaid
 xychart-beta
     title "Stunspot/stunspots-guide-to-ai-systems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

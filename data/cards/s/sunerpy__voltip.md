@@ -1,6 +1,6 @@
 # sunerpy/voltip
 
-⭐ 33 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sunerpy/voltip) · [官网](https://voltip.firlab.app/) · 个人维护 · 中文 README
+⭐ 38 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sunerpy/voltip) · [官网](https://voltip.firlab.app/) · 个人维护 · 中文 README
 
 **跨平台按住说话的听写应用：云端或本机语音转文字**
 
@@ -48,13 +48,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunerpy/voltip 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5 --> 35
-    line [7, 14, 28, 33]
+    title "sunerpy/voltip 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4 --> 41
+    line [7, 14, 28, 33, 38]
 ```
 
-2026-10-23 7 → 2026-10-26 33（+26）
+2026-10-23 7 → 2026-10-27 38（+31）
 
 
 ---

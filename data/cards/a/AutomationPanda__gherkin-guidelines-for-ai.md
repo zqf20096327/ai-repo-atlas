@@ -1,6 +1,6 @@
 # AutomationPanda/gherkin-guidelines-for-ai
 
-⭐ 60 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AutomationPanda/gherkin-guidelines-for-ai) · 个人维护
+⭐ 62 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/AutomationPanda/gherkin-guidelines-for-ai) · 个人维护
 
 **供 AI 编码代理使用的 Gherkin 场景编写规范文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AutomationPanda/gherkin-guidelines-for-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 59, 60, 62]
 ```
 
-2026-10-18 57 → 2026-10-26 60（+3）
+2026-10-18 57 → 2026-10-27 62（+5）
 
 
 ---

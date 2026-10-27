@@ -1,6 +1,6 @@
 # anthropics/buffa
 
-⭐ 925 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/anthropics/buffa) · 组织维护
+⭐ 926 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/anthropics/buffa) · 组织维护
 
 **纯 Rust 的 Protocol Buffers 实现，支持 editions 与零拷贝视图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/buffa 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "anthropics/buffa 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 914 --> 927
-    line [915, 918, 921, 923, 925, 926, 925]
+    line [915, 918, 921, 923, 925, 926, 925, 926]
 ```
 
-2026-10-18 915 → 2026-10-26 925（+10）
+2026-10-18 915 → 2026-10-27 926（+11）
 
 
 ---

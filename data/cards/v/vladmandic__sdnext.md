@@ -1,6 +1,6 @@
 # vladmandic/sdnext
 
-⭐ 7,361 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vladmandic/sdnext) · [官网](https://vladmandic.github.io/sdnext/) · 个人维护
+⭐ 7,361 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vladmandic/sdnext) · [官网](https://vladmandic.github.io/sdnext/) · 个人维护
 
 **面向用户的扩散模型图像/视频生成与编辑 WebUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vladmandic/sdnext 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "vladmandic/sdnext 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 7353 --> 7362
-    line [7354, 7355, 7357, 7359, 7361]
+    line [7354, 7355, 7357, 7359, 7361, 7361]
 ```
 
-2026-10-18 7,354 → 2026-10-26 7,361（+7）
+2026-10-18 7,354 → 2026-10-27 7,361（+7）
 
 
 ---

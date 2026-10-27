@@ -1,6 +1,6 @@
 # microsoft/skills-for-fabric
 
-⭐ 1,281 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/skills-for-fabric) · 组织维护
+⭐ 1,284 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/skills-for-fabric) · 组织维护
 
 **微软 Fabric 的 AI 编码工具技能与 MCP 集合包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/skills-for-fabric 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1251 --> 1283
-    line [1253, 1259, 1268, 1274, 1279, 1281, 1281]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1250 --> 1287
+    line [1253, 1259, 1268, 1274, 1279, 1281, 1284]
 ```
 
-2026-10-18 1,253 → 2026-10-26 1,281（+28）
+2026-10-18 1,253 → 2026-10-27 1,284（+31）
 
 
 ---

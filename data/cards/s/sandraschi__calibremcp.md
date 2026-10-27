@@ -1,6 +1,6 @@
 # sandraschi/calibremcp
 
-⭐ 49 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sandraschi/calibremcp) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sandraschi/calibremcp) · 个人维护
 
 **给 Calibre 电子书库的 FastMCP 服务器：AI 搜索、RAG 与库管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sandraschi/calibremcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    line [48, 49, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 49（+1）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

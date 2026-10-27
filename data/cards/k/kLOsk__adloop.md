@@ -1,6 +1,6 @@
 # kLOsk/adloop
 
-⭐ 287 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
+⭐ 288 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
 
 **让 AI 助手读写 Google Ads/GA4 的 MCP 服务器，带防误花钱护栏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kLOsk/adloop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 281 --> 288
-    line [282, 284, 286, 287, 287]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 281 --> 289
+    line [282, 284, 286, 287, 288]
 ```
 
-2026-10-18 282 → 2026-10-26 287（+5）
+2026-10-18 282 → 2026-10-27 288（+6）
 
 
 ---

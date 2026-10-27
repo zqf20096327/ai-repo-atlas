@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 136 --> 140
-    line [137, 138, 139]
+    line [137, 138, 139, 139]
 ```
 
-2026-10-18 137 → 2026-10-26 139（+2）
+2026-10-18 137 → 2026-10-27 139（+2）
 
 
 ---

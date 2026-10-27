@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhiHui6/zhiai_nodes_comfyui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "ZhiHui6/zhiai_nodes_comfyui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 180 --> 183
-    line [181, 182]
+    line [181, 182, 182]
 ```
 
-2026-10-18 181 → 2026-10-26 182（+1）
+2026-10-18 181 → 2026-10-27 182（+1）
 
 
 ---

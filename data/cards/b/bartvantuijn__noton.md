@@ -1,6 +1,6 @@
 # bartvantuijn/noton
 
-⭐ 202 · PHP · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/bartvantuijn/noton) · 个人维护
+⭐ 203 · PHP · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/bartvantuijn/noton) · 个人维护
 
 **自托管文档平台，集成 Ollama/OpenClaw 提供私有 AI 功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bartvantuijn/noton 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 201 --> 203
-    line [202, 202]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 201 --> 204
+    line [202, 203]
 ```
 
-2026-10-18 202 → 2026-10-26 202（+0）
+2026-10-18 202 → 2026-10-27 203（+1）
 
 
 ---

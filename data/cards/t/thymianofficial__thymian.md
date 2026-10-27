@@ -1,6 +1,6 @@
 # thymianofficial/thymian
 
-⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/thymianofficial/thymian) · [官网](https://thymian.dev) · 组织维护
+⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/thymianofficial/thymian) · [官网](https://thymian.dev) · 组织维护
 
 **语言无关的 HTTP 一致性与 API 治理校验工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thymianofficial/thymian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgentBull/ankole
 
-⭐ 159 · Elixir · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AgentBull/ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
+⭐ 162 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AgentBull/ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
 
 **自托管企业 AI Agent 平台，接入 Slack/Teams/飞书等聊天工具**
 
@@ -44,13 +44,13 @@ Elixir/OTP 控制平面驱动的自托管 Agent Harness：Agent 通过 Slack、T
 
 ```mermaid
 xychart-beta
-    title "AgentBull/ankole 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 123 --> 162
-    line [126, 140, 141, 142, 151, 153, 159]
+    title "AgentBull/ankole 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 123 --> 165
+    line [126, 140, 141, 142, 151, 153, 159, 162]
 ```
 
-2026-10-18 126 → 2026-10-26 159（+33）
+2026-10-18 126 → 2026-10-27 162（+36）
 
 
 ---

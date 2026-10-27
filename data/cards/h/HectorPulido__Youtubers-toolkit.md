@@ -45,12 +45,12 @@ Python 编写的命令行视频处理工具集，面向视频编辑与 YouTube �
 ```mermaid
 xychart-beta
     title "HectorPulido/Youtubers-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

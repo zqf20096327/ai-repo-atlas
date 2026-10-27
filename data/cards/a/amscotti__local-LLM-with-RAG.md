@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amscotti/local-LLM-with-RAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "amscotti/local-LLM-with-RAG 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 287 --> 290
-    line [288, 289]
+    line [288, 289, 289]
 ```
 
-2026-10-18 288 → 2026-10-26 289（+1）
+2026-10-18 288 → 2026-10-27 289（+1）
 
 
 ---

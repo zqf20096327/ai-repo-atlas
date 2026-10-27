@@ -1,6 +1,6 @@
 # xjyzs/Operator-on-Android
 
-⭐ 33 · Kotlin · MIT · 推送 2026-10-06 · [GitHub](https://github.com/xjyzs/Operator-on-Android) · [官网](http://self.655300.xyz/Operator-on-Android/) · 个人维护 · 中文 README
+⭐ 34 · Kotlin · MIT · 推送 2026-10-06 · [GitHub](https://github.com/xjyzs/Operator-on-Android) · [官网](http://self.655300.xyz/Operator-on-Android/) · 个人维护 · 中文 README
 
 **安卓端侧 AI Agent：用视觉语言模型直接操作手机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xjyzs/Operator-on-Android 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-10-26 33（+2）
+2026-10-18 31 → 2026-10-27 34（+3）
 
 
 ---

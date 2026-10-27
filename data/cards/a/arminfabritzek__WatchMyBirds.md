@@ -1,6 +1,6 @@
 # arminfabritzek/WatchMyBirds
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/arminfabritzek/WatchMyBirds) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/arminfabritzek/WatchMyBirds) · 个人维护
 
 **从摄像头实时检测与分类鸟类的自托管监控应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arminfabritzek/WatchMyBirds 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

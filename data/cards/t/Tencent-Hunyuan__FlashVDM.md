@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/FlashVDM
 
-⭐ 337 · Python · NOASSERTION · 推送 2026-03-13 · [GitHub](https://github.com/Tencent-Hunyuan/FlashVDM) · 组织维护 · 中文 README
+⭐ 338 · Python · NOASSERTION · 推送 2026-03-13 · [GitHub](https://github.com/Tencent-Hunyuan/FlashVDM) · 组织维护 · 中文 README
 
 **加速 Vecset 扩散模型 3D 形状生成的通用框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/FlashVDM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 335 --> 338
-    line [336, 337]
+    title "Tencent-Hunyuan/FlashVDM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 335 --> 339
+    line [336, 337, 338]
 ```
 
-2026-10-18 336 → 2026-10-26 337（+1）
+2026-10-18 336 → 2026-10-27 338（+2）
 
 
 ---

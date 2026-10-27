@@ -1,6 +1,6 @@
 # bodo-ai/Bodo
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/bodo-ai/Bodo) · [官网](https://docs.bodo.ai) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bodo-ai/Bodo) · [官网](https://docs.bodo.ai) · 组织维护
 
 **面向大规模数据与 AI 工作流的 Pandas 替代型高性能 DataFrame 库**
 
@@ -47,12 +47,12 @@ Bodo DataFrames 是一个 Python DataFrame 库，定位为 Pandas 的 drop-in �
 ```mermaid
 xychart-beta
     title "bodo-ai/Bodo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 382 --> 384
     line [383, 383]
 ```
 
-2026-10-18 383 → 2026-10-26 383（+0）
+2026-10-18 383 → 2026-10-27 383（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai4co/parco
 
-⭐ 60 · Python · MIT · 推送 2025-12-03 · [GitHub](https://github.com/ai4co/parco) · [官网](https://arxiv.org/abs/2409.03811) · 组织维护
+⭐ 61 · Python · MIT · 推送 2025-12-03 · [GitHub](https://github.com/ai4co/parco) · [官网](https://arxiv.org/abs/2409.03811) · 组织维护
 
 **NeurIPS 2025 论文官方库：并行自回归模型解多智能体组合优化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai4co/parco 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 57 --> 61
-    line [58, 60, 60]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 57 --> 62
+    line [58, 60, 61]
 ```
 
-2026-10-18 58 → 2026-10-26 60（+2）
+2026-10-18 58 → 2026-10-27 61（+3）
 
 
 ---

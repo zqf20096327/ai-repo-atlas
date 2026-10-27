@@ -45,12 +45,12 @@ APIMart 维护的模型调用文档仓库：说明如何经 OpenAI 兼容端点 
 ```mermaid
 xychart-beta
     title "apimartha/ollama-migration-guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

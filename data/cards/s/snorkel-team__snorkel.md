@@ -1,6 +1,6 @@
 # snorkel-team/snorkel
 
-⭐ 6,027 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/snorkel-team/snorkel) · [官网](https://snorkel.org) · 组织维护
+⭐ 6,028 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/snorkel-team/snorkel) · [官网](https://snorkel.org) · 组织维护
 
 **弱监督编程式构建训练数据的 Python 框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snorkel-team/snorkel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 6019 --> 6028
-    line [6020, 6024, 6025, 6026, 6027]
+    title "snorkel-team/snorkel 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6019 --> 6029
+    line [6020, 6024, 6025, 6026, 6027, 6028]
 ```
 
-2026-10-18 6,020 → 2026-10-26 6,027（+7）
+2026-10-18 6,020 → 2026-10-27 6,028（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # Snailclimb/AIGuide
 
-⭐ 706 · 推送 2026-07-07 · [GitHub](https://github.com/Snailclimb/AIGuide) · [官网](https://javaguide.cn/ai/) · 个人维护 · 中文 README
+⭐ 707 · 推送 2026-07-07 · [GitHub](https://github.com/Snailclimb/AIGuide) · [官网](https://javaguide.cn/ai/) · 个人维护 · 中文 README
 
 **面向工程师的 AI 应用开发与 AI 编程中文学习指南**
 
@@ -47,12 +47,12 @@ JavaGuide 作者维护的开源中文知识库，系统整理 AI 应用开发、
 ```mermaid
 xychart-beta
     title "Snailclimb/AIGuide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 690 --> 707
-    line [691, 696, 704, 705, 706, 706]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 690 --> 708
+    line [691, 696, 704, 705, 706, 707]
 ```
 
-2026-10-18 691 → 2026-10-26 706（+15）
+2026-10-18 691 → 2026-10-27 707（+16）
 
 
 ---

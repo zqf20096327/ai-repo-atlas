@@ -1,6 +1,6 @@
 # kyegomez/GPT4o
 
-⭐ 33 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kyegomez/GPT4o) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 33 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/GPT4o) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **GPT-4o 的社区 PyTorch 复现实现：多模态模型代码**
 
@@ -43,12 +43,12 @@ kyegomez 维护的 GPT-4o 社区开源 PyTorch 实现，覆盖文本、图像、
 ```mermaid
 xychart-beta
     title "kyegomez/GPT4o 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

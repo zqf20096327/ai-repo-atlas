@@ -1,6 +1,6 @@
 # savka777/jev-use
 
-⭐ 126 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/savka777/jev-use) · 个人维护
+⭐ 127 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/savka777/jev-use) · 个人维护
 
 **macOS 语音/文字操控电脑的 computer-use 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "savka777/jev-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 123 --> 127
-    line [124, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 123 --> 128
+    line [124, 125, 126, 127]
 ```
 
-2026-10-18 124 → 2026-10-26 126（+2）
+2026-10-18 124 → 2026-10-27 127（+3）
 
 
 ---

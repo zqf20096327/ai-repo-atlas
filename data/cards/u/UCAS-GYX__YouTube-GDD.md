@@ -1,6 +1,6 @@
 # UCAS-GYX/YouTube-GDD
 
-⭐ 41 · Python · Apache-2.0 · 推送 2025-12-12 · [GitHub](https://github.com/UCAS-GYX/YouTube-GDD) · 组织维护
+⭐ 42 · Python · Apache-2.0 · 推送 2025-12-12 · [GitHub](https://github.com/UCAS-GYX/YouTube-GDD) · 组织维护
 
 **枪支检测数据集 YouTube-GDD：5000 图、16064 枪支标注**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UCAS-GYX/YouTube-GDD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 42（+1）
 
 
 ---

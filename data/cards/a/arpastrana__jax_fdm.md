@@ -1,6 +1,6 @@
 # arpastrana/jax_fdm
 
-⭐ 120 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/arpastrana/jax_fdm) · [官网](https://arpastrana.github.io/jax_fdm) · 组织维护
+⭐ 121 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/arpastrana/jax_fdm) · [官网](https://arpastrana.github.io/jax_fdm) · 组织维护
 
 **面向轻量结构找形的可微力密度法库（JAX）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arpastrana/jax_fdm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 119 --> 121
-    line [120, 120]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 119 --> 122
+    line [120, 121]
 ```
 
-2026-10-18 120 → 2026-10-26 120（+0）
+2026-10-18 120 → 2026-10-27 121（+1）
 
 
 ---

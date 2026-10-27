@@ -1,6 +1,6 @@
 # Arindam200/awesome-ai-apps
 
-⭐ 16,630 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://dub.sh/nebius) · 个人维护
+⭐ 16,635 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://dub.sh/nebius) · 个人维护
 
 **面向开发者的 132 个 LLM 应用示例合集（agent/RAG/MCP/语音）**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arindam200/awesome-ai-apps 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 16276 --> 16662
-    line [16308, 16409, 16442, 16507, 16624, 16628, 16630]
+    title "Arindam200/awesome-ai-apps 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 16276 --> 16667
+    line [16308, 16409, 16442, 16507, 16624, 16628, 16630, 16635]
 ```
 
-2026-10-18 16,308 → 2026-10-26 16,630（+322）
+2026-10-18 16,308 → 2026-10-27 16,635（+327）
 
 
 ---

@@ -1,6 +1,6 @@
 # weaviate/weaviate-io
 
-⭐ 88 · MDX · 推送 2026-10-22 · [GitHub](https://github.com/weaviate/weaviate-io) · [官网](https://weaviate.io) · 组织维护
+⭐ 88 · MDX · 推送 2026-10-26 · [GitHub](https://github.com/weaviate/weaviate-io) · [官网](https://weaviate.io) · 组织维护
 
 **Weaviate 向量数据库文档站的源码仓库（构建与贡献指南）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

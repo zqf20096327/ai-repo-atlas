@@ -1,6 +1,6 @@
 # NVIDIA/nurec-skills
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/NVIDIA/nurec-skills) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/NVIDIA/nurec-skills) · 组织维护
 
 **教 AI agent 驱动 NVIDIA 神经重建流水线的技能文件仓库**
 
@@ -47,12 +47,12 @@ NVIDIA 维护的 agent 技能（skills）仓库：6 个 SKILL.md 格式的薄协
 ```mermaid
 xychart-beta
     title "NVIDIA/nurec-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 49（+1）
 
 
 ---

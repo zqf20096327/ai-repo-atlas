@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-server
 
-⭐ 526 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-consulting.com/en/projects/unity-mcp) · 组织维护
+⭐ 527 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-consulting.com/en/projects/unity-mcp) · 组织维护
 
 **连接 AI 助手与 Unity 编辑器的 MCP 服务器（347 项操作）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AnkleBreaker-Studio/unity-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 512 --> 527
-    line [513, 517, 522, 525, 526, 526]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 512 --> 528
+    line [513, 517, 522, 525, 526, 527]
 ```
 
-2026-10-18 513 → 2026-10-26 526（+13）
+2026-10-18 513 → 2026-10-27 527（+14）
 
 
 ---

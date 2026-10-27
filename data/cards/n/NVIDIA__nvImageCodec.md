@@ -1,6 +1,6 @@
 # NVIDIA/nvImageCodec
 
-⭐ 162 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/NVIDIA/nvImageCodec) · [官网](https://docs.nvidia.com/cuda/nvimagecodec/index.html) · 组织维护
+⭐ 163 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/NVIDIA/nvImageCodec) · [官网](https://docs.nvidia.com/cuda/nvimagecodec/index.html) · 组织维护
 
 **GPU/CPU 加速图像编解码库：统一接口解码编码多格式图像**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的开源图像编解码库，以扩展插件框架形式提供 GPU
 ```mermaid
 xychart-beta
     title "NVIDIA/nvImageCodec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 160 --> 163
-    line [161, 162, 162]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 160 --> 164
+    line [161, 162, 163]
 ```
 
-2026-10-18 161 → 2026-10-26 162（+1）
+2026-10-18 161 → 2026-10-27 163（+2）
 
 
 ---

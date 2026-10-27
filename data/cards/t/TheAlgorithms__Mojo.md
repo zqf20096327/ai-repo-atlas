@@ -44,12 +44,12 @@ TheAlgorithms 社区维护的算法仓库的 Mojo 版本：以 Mojo 语言实现
 ```mermaid
 xychart-beta
     title "TheAlgorithms/Mojo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-26 62（+0）
+2026-10-18 62 → 2026-10-27 62（+0）
 
 
 ---

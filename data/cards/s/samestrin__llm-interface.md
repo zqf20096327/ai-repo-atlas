@@ -1,6 +1,6 @@
 # samestrin/llm-interface
 
-⭐ 124 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samestrin/llm-interface) · [官网](https://www.npmjs.com/package/llm-interface) · 个人维护
+⭐ 123 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samestrin/llm-interface) · [官网](https://www.npmjs.com/package/llm-interface) · 个人维护
 
 **Node.js 统一 LLM 接口库：一个 API 调用 36 家模型服务商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "samestrin/llm-interface 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 122 --> 125
+    line [124, 123]
 ```
 
-2026-10-18 124 → 2026-10-26 124（+0）
+2026-10-18 124 → 2026-10-27 123（-1）
 
 
 ---

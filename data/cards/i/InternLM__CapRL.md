@@ -1,6 +1,6 @@
 # InternLM/CapRL
 
-⭐ 234 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/InternLM/CapRL) · [官网](https://arxiv.org/pdf/2509.22647) · 组织维护 · 中文 README
+⭐ 236 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/InternLM/CapRL) · [官网](https://arxiv.org/pdf/2509.22647) · 组织维护 · 中文 README
 
 **强化学习训练的密集图像/视频描述模型及训练代码（ICLR 2026）**
 
@@ -46,12 +46,12 @@ CapRL 是密集图像描述模型系列：以可验证奖励（QA 派生效用�
 ```mermaid
 xychart-beta
     title "InternLM/CapRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 232 --> 235
-    line [233, 234, 234]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 232 --> 237
+    line [233, 234, 236]
 ```
 
-2026-10-18 233 → 2026-10-26 234（+1）
+2026-10-18 233 → 2026-10-27 236（+3）
 
 
 ---

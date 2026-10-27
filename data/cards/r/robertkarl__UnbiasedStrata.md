@@ -1,6 +1,6 @@
 # robertkarl/UnbiasedStrata
 
-⭐ 162 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/robertkarl/UnbiasedStrata) · 个人维护
+⭐ 164 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/robertkarl/UnbiasedStrata) · 个人维护
 
 **离线 NVIDIA 单卡部署的 Strata 推理引擎 C++ 前端**
 
@@ -44,13 +44,13 @@ PolyStrata v0.1.45-poly.1 的 fork，保留其两个推理引擎，移除安装�
 
 ```mermaid
 xychart-beta
-    title "robertkarl/UnbiasedStrata 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 104 --> 167
-    line [109, 122, 139, 147, 152, 157, 162]
+    title "robertkarl/UnbiasedStrata 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 104 --> 169
+    line [109, 122, 139, 147, 152, 157, 162, 164]
 ```
 
-2026-10-18 109 → 2026-10-26 162（+53）
+2026-10-18 109 → 2026-10-27 164（+55）
 
 
 ---

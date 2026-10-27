@@ -1,6 +1,6 @@
 # WestWaters/pollard-weights
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/WestWaters/pollard-weights) · [官网](Pollard.app) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/WestWaters/pollard-weights) · [官网](Pollard.app) · 个人维护
 
 **按目标设备内存测量并构建量化模型的工具链**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WestWaters/pollard-weights 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "WestWaters/pollard-weights 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 27 --> 31
-    line [28, 30]
+    line [28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-10-26 30（+2）
+2026-10-18 28 → 2026-10-27 30（+2）
 
 
 ---

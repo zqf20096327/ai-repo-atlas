@@ -1,6 +1,6 @@
 # wheelry/deep-skill-finder
 
-⭐ 555 · Python · 推送 2026-10-12 · [GitHub](https://github.com/wheelry/deep-skill-finder) · [官网](https://www.deepskill.market?ref=github) · 个人维护 · 中文 README
+⭐ 565 · Python · 推送 2026-10-12 · [GitHub](https://github.com/wheelry/deep-skill-finder) · [官网](https://www.deepskill.market?ref=github) · 个人维护 · 中文 README
 
 **给 AI Agent 用的技能发现引擎：从 20 万技能中检索并按实测反馈排序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wheelry/deep-skill-finder 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 339 --> 574
-    line [358, 421, 479, 487, 512, 536, 555]
+    title "wheelry/deep-skill-finder 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 338 --> 585
+    line [358, 421, 479, 487, 512, 536, 555, 565]
 ```
 
-2026-10-18 358 → 2026-10-26 555（+197）
+2026-10-18 358 → 2026-10-27 565（+207）
 
 
 ---

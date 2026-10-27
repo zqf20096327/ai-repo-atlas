@@ -43,13 +43,13 @@ Kenneth Leung 的个人技术作品集 README，按云计算、计算机视觉�
 
 ```mermaid
 xychart-beta
-    title "kennethleungty/kennethleungty 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "kennethleungty/kennethleungty 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 31 --> 34
-    line [33, 32]
+    line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-10-26 32（-1）
+2026-10-18 33 → 2026-10-27 32（-1）
 
 
 ---

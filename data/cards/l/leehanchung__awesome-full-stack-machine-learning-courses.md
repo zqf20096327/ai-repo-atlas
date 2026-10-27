@@ -1,6 +1,6 @@
 # leehanchung/awesome-full-stack-machine-learning-courses
 
-⭐ 537 · JavaScript · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) · 个人维护
+⭐ 538 · JavaScript · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) · 个人维护
 
 **机器学习工程公开课程策展清单：覆盖基础到生产部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leehanchung/awesome-full-stack-machine-learning-courses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 535 --> 538
-    line [536, 537, 537]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 535 --> 539
+    line [536, 537, 538]
 ```
 
-2026-10-18 536 → 2026-10-26 537（+1）
+2026-10-18 536 → 2026-10-27 538（+2）
 
 
 ---

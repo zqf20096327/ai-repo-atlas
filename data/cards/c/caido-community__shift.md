@@ -1,6 +1,6 @@
 # caido-community/shift
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/caido-community/shift) · [官网](https://shiftplugin.com/)
+⭐ 58 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/caido-community/shift) · [官网](https://shiftplugin.com/)
 
 **将 LLM 集成进 Caido 的 AI 插件：自然语言操控 HTTP 测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caido-community/shift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

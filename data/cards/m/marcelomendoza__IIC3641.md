@@ -1,6 +1,6 @@
 # marcelomendoza/IIC3641
 
-⭐ 34 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/marcelomendoza/IIC3641) · 组织维护
+⭐ 34 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/marcelomendoza/IIC3641) · 组织维护
 
 **智利大学图机器学习课程（IIC3641）的 Python 代码与示例集**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "marcelomendoza/IIC3641 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

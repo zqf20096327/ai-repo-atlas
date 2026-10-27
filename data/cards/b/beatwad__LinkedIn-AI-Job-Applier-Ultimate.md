@@ -45,13 +45,13 @@ AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright
 
 ```mermaid
 xychart-beta
-    title "beatwad/LinkedIn-AI-Job-Applier-Ultimate 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "beatwad/LinkedIn-AI-Job-Applier-Ultimate 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 175 --> 181
-    line [176, 177, 176, 177, 179, 180]
+    line [176, 177, 176, 177, 179, 180, 180]
 ```
 
-2026-10-18 176 → 2026-10-26 180（+4）
+2026-10-18 176 → 2026-10-27 180（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Snailclimb/JavaGuide
 
-⭐ 159,249 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
+⭐ 159,269 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
 
 **Java 后端求职者的面试知识指南，覆盖基础到分布式**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "Snailclimb/JavaGuide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 159081 --> 159264
-    line [159096, 159142, 159178, 159207, 159220, 159230, 159249]
+    title "Snailclimb/JavaGuide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 159079 --> 159286
+    line [159096, 159142, 159178, 159207, 159220, 159230, 159249, 159269]
 ```
 
-2026-10-18 159,096 → 2026-10-26 159,249（+153）
+2026-10-18 159,096 → 2026-10-27 159,269（+173）
 
 
 ---

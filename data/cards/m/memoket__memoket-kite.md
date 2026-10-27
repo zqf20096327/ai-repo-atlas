@@ -1,6 +1,6 @@
 # memoket/memoket-kite
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/memoket/memoket-kite) · [官网](https://memoket.ai) · 组织维护
+⭐ 225 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/memoket/memoket-kite) · [官网](https://memoket.ai) · 组织维护
 
 **AI agent 的向量无关长期记忆引擎，带证据溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "memoket/memoket-kite 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 140 --> 219
-    line [146, 161, 175, 184, 196, 207, 213]
+    title "memoket/memoket-kite 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 139 --> 232
+    line [146, 161, 175, 184, 196, 207, 213, 225]
 ```
 
-2026-10-18 146 → 2026-10-26 213（+67）
+2026-10-18 146 → 2026-10-27 225（+79）
 
 
 ---

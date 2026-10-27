@@ -1,6 +1,6 @@
 # radareorg/r2ai
 
-⭐ 491 · C · MIT · 推送 2026-10-20 · [GitHub](https://github.com/radareorg/r2ai) · [官网](https://www.radare.org) · 组织维护
+⭐ 490 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/radareorg/r2ai) · [官网](https://www.radare.org) · 组织维护
 
 **radare2 的 LLM 插件：逆向工程中调用大模型辅助分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "radareorg/r2ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 488 --> 492
-    line [489, 490, 491, 491]
+    line [489, 490, 491, 490]
 ```
 
-2026-10-18 489 → 2026-10-26 491（+2）
+2026-10-18 489 → 2026-10-27 490（+1）
 
 
 ---

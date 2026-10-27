@@ -46,13 +46,13 @@ Python 编写的 Model Context Protocol 服务器，把 Proxmox VE REST API 暴�
 
 ```mermaid
 xychart-beta
-    title "ry-ops/proxmox-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "ry-ops/proxmox-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 33 --> 43
-    line [34, 37, 40, 41, 42]
+    line [34, 37, 40, 41, 42, 42]
 ```
 
-2026-10-18 34 → 2026-10-26 42（+8）
+2026-10-18 34 → 2026-10-27 42（+8）
 
 
 ---

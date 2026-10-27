@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio2
 
-⭐ 1,526 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio2) · 组织维护 · 中文 README
+⭐ 1,527 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio2) · 组织维护 · 中文 README
 
 **端到端多模态语音大模型：音频理解与语音对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stepfun-ai/Step-Audio2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1525 --> 1527
-    line [1526, 1526]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1525 --> 1528
+    line [1526, 1527]
 ```
 
-2026-10-18 1,526 → 2026-10-26 1,526（+0）
+2026-10-18 1,526 → 2026-10-27 1,527（+1）
 
 
 ---

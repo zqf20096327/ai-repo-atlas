@@ -1,6 +1,6 @@
 # CursorTouch/Windows-MCP
 
-⭐ 10,317 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
+⭐ 10,432 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
 
 **让 AI agent 通过 MCP 操控 Windows 桌面的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CursorTouch/Windows-MCP 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9250 --> 10414
-    line [9347, 9565, 9792, 9999, 10132, 10225, 10317]
+    title "CursorTouch/Windows-MCP 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9239 --> 10540
+    line [9347, 9565, 9792, 9999, 10132, 10225, 10317, 10432]
 ```
 
-2026-10-18 9,347 → 2026-10-26 10,317（+970）
+2026-10-18 9,347 → 2026-10-27 10,432（+1,085）
 
 
 ---

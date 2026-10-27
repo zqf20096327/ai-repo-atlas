@@ -1,6 +1,6 @@
 # ACADLab/SPICEPilot
 
-⭐ 47 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ACADLab/SPICEPilot) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ACADLab/SPICEPilot) · 组织维护
 
 **面向电路设计的 LLM 生成 SPICE 代码框架与基准**
 
@@ -46,12 +46,12 @@ SPICEPilot 是用 LLM 生成 Python 风格 SPICE 代码并驱动电路仿真的�
 ```mermaid
 xychart-beta
     title "ACADLab/SPICEPilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 48]
 ```
 
-2026-10-18 46 → 2026-10-26 47（+1）
+2026-10-18 46 → 2026-10-27 48（+2）
 
 
 ---

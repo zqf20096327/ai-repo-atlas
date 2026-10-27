@@ -1,6 +1,6 @@
 # 777genius/os-ai-computer-use
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/777genius/os-ai-computer-use) · 个人维护
+⭐ 184 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/777genius/os-ai-computer-use) · 个人维护
 
 **让 AI 直接操控桌面（点击/输入/截屏）的跨平台代理应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "777genius/os-ai-computer-use 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 183 --> 185
     line [184, 184]
 ```
 
-2026-10-18 184 → 2026-10-26 184（+0）
+2026-10-18 184 → 2026-10-27 184（+0）
 
 
 ---

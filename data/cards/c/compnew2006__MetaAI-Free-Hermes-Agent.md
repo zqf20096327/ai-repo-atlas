@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "compnew2006/MetaAI-Free-Hermes-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "compnew2006/MetaAI-Free-Hermes-Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 29 --> 33
-    line [30, 32]
+    line [30, 32, 32]
 ```
 
-2026-10-18 30 → 2026-10-26 32（+2）
+2026-10-18 30 → 2026-10-27 32（+2）
 
 
 ---

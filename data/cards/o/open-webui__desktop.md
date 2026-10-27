@@ -1,6 +1,6 @@
 # open-webui/desktop
 
-⭐ 3,016 · Svelte · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
+⭐ 3,025 · Svelte · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
 
 **Open WebUI 桌面原生应用：本地跑模型或连接远程服务器聊天**
 
@@ -44,13 +44,13 @@ Open WebUI 的原生桌面客户端，以安装包形式分发（macOS/Windows/L
 
 ```mermaid
 xychart-beta
-    title "open-webui/desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2950 --> 3022
-    line [2956, 2977, 2989, 2996, 3006, 3012, 3016]
+    title "open-webui/desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2950 --> 3031
+    line [2956, 2977, 2989, 2996, 3006, 3012, 3016, 3025]
 ```
 
-2026-10-18 2,956 → 2026-10-26 3,016（+60）
+2026-10-18 2,956 → 2026-10-27 3,025（+69）
 
 
 ---

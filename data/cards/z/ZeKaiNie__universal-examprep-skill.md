@@ -1,6 +1,6 @@
 # ZeKaiNie/universal-examprep-skill
 
-⭐ 318 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill) · [官网](https://github.com/ZeKaiNie/universal-examprep-skill/releases/latest) · 个人维护 · 中文 README
+⭐ 319 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ZeKaiNie/universal-examprep-skill) · [官网](https://github.com/ZeKaiNie/universal-examprep-skill/releases/latest) · 个人维护 · 中文 README
 
 **面向编码 agent 的备考教练技能：从讲义教学、出题测验到小抄**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeKaiNie/universal-examprep-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 307 --> 319
-    line [308, 309, 312, 313, 314, 317, 318]
+    title "ZeKaiNie/universal-examprep-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 307 --> 320
+    line [308, 309, 312, 313, 314, 317, 318, 319]
 ```
 
-2026-10-18 308 → 2026-10-26 318（+10）
+2026-10-18 308 → 2026-10-27 319（+11）
 
 
 ---

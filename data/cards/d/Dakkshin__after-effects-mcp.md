@@ -1,6 +1,6 @@
 # Dakkshin/after-effects-mcp
 
-⭐ 795 · JavaScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Dakkshin/after-effects-mcp) · 个人维护
+⭐ 804 · JavaScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Dakkshin/after-effects-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 协议远程控制 After Effects 的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dakkshin/after-effects-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 755 --> 798
-    line [758, 765, 774, 777, 785, 792, 795]
+    title "Dakkshin/after-effects-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 754 --> 808
+    line [758, 765, 774, 777, 785, 792, 795, 804]
 ```
 
-2026-10-18 758 → 2026-10-26 795（+37）
+2026-10-18 758 → 2026-10-27 804（+46）
 
 
 ---

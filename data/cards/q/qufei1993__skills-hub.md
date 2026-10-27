@@ -1,6 +1,6 @@
 # qufei1993/skills-hub
 
-⭐ 1,824 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qufei1993/skills-hub) · [官网](https://aiskillshub.link) · 个人维护 · 中文 README
+⭐ 1,831 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/qufei1993/skills-hub) · [官网](https://aiskillshub.link) · 个人维护 · 中文 README
 
 **跨平台桌面应用：统一管理 Agent Skills 并同步到 48 种 AI 编码工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qufei1993/skills-hub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1816 --> 1825
-    line [1817, 1819, 1821, 1822, 1824]
+    title "qufei1993/skills-hub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1816 --> 1832
+    line [1817, 1819, 1821, 1822, 1824, 1831]
 ```
 
-2026-10-18 1,817 → 2026-10-26 1,824（+7）
+2026-10-18 1,817 → 2026-10-27 1,831（+14）
 
 
 ---

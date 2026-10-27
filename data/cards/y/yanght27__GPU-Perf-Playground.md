@@ -1,6 +1,6 @@
 # yanght27/GPU-Perf-Playground
 
-⭐ 126 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/yanght27/GPU-Perf-Playground) · 个人维护 · 中文 README
+⭐ 127 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/yanght27/GPU-Perf-Playground) · 个人维护 · 中文 README
 
 **面向初学者的 GPU 性能与 AI Infra 学习项目（29 个增量 Ticket）**
 
@@ -46,12 +46,12 @@ GPU 性能与 AI Infra 的结构化学习实践仓库：以 29 个最小增量 T
 ```mermaid
 xychart-beta
     title "yanght27/GPU-Perf-Playground 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 124 --> 129
-    line [127, 128, 125, 126, 126]
+    line [127, 128, 125, 126, 127]
 ```
 
-2026-10-18 127 → 2026-10-26 126（-1）
+2026-10-18 127 → 2026-10-27 127（+0）
 
 
 ---

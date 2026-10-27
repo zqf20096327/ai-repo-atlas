@@ -1,6 +1,6 @@
 # Goldziher/uncomment
 
-⭐ 140 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Goldziher/uncomment) · 个人维护
+⭐ 140 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Goldziher/uncomment) · 个人维护
 
 **基于 tree-sitter AST 移除代码注释并做 TODO 类注释 lint 的 CLI**
 
@@ -45,13 +45,13 @@ Rust 编写的命令行工具，用 tree-sitter 将代码解析为语法树后�
 
 ```mermaid
 xychart-beta
-    title "Goldziher/uncomment 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "Goldziher/uncomment 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 134 --> 141
-    line [135, 139, 140]
+    line [135, 139, 140, 140]
 ```
 
-2026-10-18 135 → 2026-10-26 140（+5）
+2026-10-18 135 → 2026-10-27 140（+5）
 
 
 ---

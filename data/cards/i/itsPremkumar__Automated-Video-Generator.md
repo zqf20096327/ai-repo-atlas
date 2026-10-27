@@ -1,6 +1,6 @@
 # itsPremkumar/Automated-Video-Generator
 
-⭐ 112 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/itsPremkumar/Automated-Video-Generator) · [官网](https://itspremkumar.github.io/Automated-Video-Generator/) · 个人维护
+⭐ 114 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/itsPremkumar/Automated-Video-Generator) · [官网](https://itspremkumar.github.io/Automated-Video-Generator/) · 个人维护
 
 **本地自托管的文本转视频全自动流水线：脚本进、配音成片出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsPremkumar/Automated-Video-Generator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 97 --> 113
-    line [98, 100, 105, 107, 109, 112]
+    title "itsPremkumar/Automated-Video-Generator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 97 --> 115
+    line [98, 100, 105, 107, 109, 112, 114]
 ```
 
-2026-10-18 98 → 2026-10-26 112（+14）
+2026-10-18 98 → 2026-10-27 114（+16）
 
 
 ---

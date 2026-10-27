@@ -1,6 +1,6 @@
 # kyegomez/ScreenAI
 
-⭐ 387 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/ScreenAI) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 387 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/ScreenAI) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **ScreenAI 视觉语言模型的 PyTorch 复现：UI 与信息图理解**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/ScreenAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 386 --> 388
     line [387, 387]
 ```
 
-2026-10-18 387 → 2026-10-26 387（+0）
+2026-10-18 387 → 2026-10-27 387（+0）
 
 
 ---

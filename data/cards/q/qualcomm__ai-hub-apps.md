@@ -1,6 +1,6 @@
 # qualcomm/ai-hub-apps
 
-⭐ 470 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/qualcomm/ai-hub-apps) · 组织维护
+⭐ 471 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/qualcomm/ai-hub-apps) · 组织维护
 
 **高通设备端部署机器学习模型的示例应用与教程集合**
 
@@ -46,12 +46,12 @@ Qualcomm 官方维护的仓库，收录面向高通芯片设备端部署机器�
 ```mermaid
 xychart-beta
     title "qualcomm/ai-hub-apps 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 466 --> 471
-    line [467, 468, 469, 470, 470]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 466 --> 472
+    line [467, 468, 469, 470, 471]
 ```
 
-2026-10-18 467 → 2026-10-26 470（+3）
+2026-10-18 467 → 2026-10-27 471（+4）
 
 
 ---

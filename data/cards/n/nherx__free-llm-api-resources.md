@@ -1,6 +1,6 @@
 # nherx/free-llm-api-resources
 
-⭐ 32 · Python · 推送 2026-10-12 · [GitHub](https://github.com/nherx/free-llm-api-resources) · 个人维护
+⭐ 33 · Python · 推送 2026-10-12 · [GitHub](https://github.com/nherx/free-llm-api-resources) · 个人维护
 
 **免费 LLM API 服务与额度的策展清单，供零成本试用模型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nherx/free-llm-api-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-10-26 32（+1）
+2026-10-18 31 → 2026-10-27 33（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # InternLM/ARM-Thinker
 
-⭐ 199 · Python · 推送 2026-10-13 · [GitHub](https://github.com/InternLM/ARM-Thinker) · 组织维护 · 中文 README
+⭐ 201 · Python · 推送 2026-10-13 · [GitHub](https://github.com/InternLM/ARM-Thinker) · 组织维护 · 中文 README
 
 **科研者用的多模态生成式奖励模型：带工具调用的智能体推理与训练代码**
 
@@ -46,12 +46,12 @@ CVPR 2026 论文的官方代码仓库，实现 ARM-Thinker：一种结合智能�
 ```mermaid
 xychart-beta
     title "InternLM/ARM-Thinker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 198 --> 200
-    line [199, 199]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 198 --> 202
+    line [199, 201]
 ```
 
-2026-10-18 199 → 2026-10-26 199（+0）
+2026-10-18 199 → 2026-10-27 201（+2）
 
 
 ---

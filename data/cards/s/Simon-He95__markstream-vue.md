@@ -1,6 +1,6 @@
 # Simon-He95/markstream-vue
 
-⭐ 3,033 · Vue · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
+⭐ 3,037 · Vue · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
 
 **多框架流式 Markdown 渲染组件库，服务 AI 聊天界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Simon-He95/markstream-vue 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 3024 --> 3034
-    line [3025, 3026, 3029, 3032, 3033, 3033]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 3024 --> 3038
+    line [3025, 3026, 3029, 3032, 3033, 3037]
 ```
 
-2026-10-18 3,025 → 2026-10-26 3,033（+8）
+2026-10-18 3,025 → 2026-10-27 3,037（+12）
 
 
 ---

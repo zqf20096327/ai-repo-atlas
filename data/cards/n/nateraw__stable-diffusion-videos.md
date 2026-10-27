@@ -1,6 +1,6 @@
 # nateraw/stable-diffusion-videos
 
-⭐ 4,713 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/nateraw/stable-diffusion-videos) · 个人维护
+⭐ 4,712 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/nateraw/stable-diffusion-videos) · 个人维护
 
 **用 Stable Diffusion 在文本提示间插值生成视频的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nateraw/stable-diffusion-videos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    title "nateraw/stable-diffusion-videos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 4711 --> 4714
-    line [4712, 4713, 4712, 4713]
+    line [4712, 4713, 4712, 4713, 4712]
 ```
 
-2026-10-18 4,712 → 2026-10-26 4,713（+1）
+2026-10-18 4,712 → 2026-10-27 4,712（+0）
 
 
 ---

@@ -43,12 +43,12 @@ lucidrains 对 CMU Hwang 等人 H-net 论文中动态分块机制的独立 PyTor
 ```mermaid
 xychart-beta
     title "lucidrains/h-net-dynamic-chunking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-26 80（+0）
+2026-10-18 80 → 2026-10-27 80（+0）
 
 
 ---

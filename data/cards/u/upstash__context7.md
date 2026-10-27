@@ -1,6 +1,6 @@
 # upstash/context7
 
-⭐ 63,652 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
+⭐ 63,729 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
 
 **为 AI 编码代理提供最新版本库文档的检索平台**
 
@@ -52,13 +52,13 @@ Context7 是 Upstash 维护的文档检索平台，向编码代理注入最新�
 
 ```mermaid
 xychart-beta
-    title "upstash/context7 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 63149 --> 63697
-    line [63194, 63322, 63502, 63545, 63595, 63652]
+    title "upstash/context7 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 63141 --> 63782
+    line [63194, 63322, 63502, 63545, 63595, 63652, 63729]
 ```
 
-2026-10-18 63,194 → 2026-10-26 63,652（+458）
+2026-10-18 63,194 → 2026-10-27 63,729（+535）
 
 
 ---

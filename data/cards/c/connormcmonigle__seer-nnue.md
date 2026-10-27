@@ -1,6 +1,6 @@
 # connormcmonigle/seer-nnue
 
-⭐ 143 · C++ · GPL-3.0 · 推送 2026-03-14 · [GitHub](https://github.com/connormcmonigle/seer-nnue) · 个人维护
+⭐ 144 · C++ · GPL-3.0 · 推送 2026-03-14 · [GitHub](https://github.com/connormcmonigle/seer-nnue) · 个人维护
 
 **使用神经网络评估局面的 UCI 国际象棋引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "connormcmonigle/seer-nnue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 142 --> 145
+    line [143, 144]
 ```
 
-2026-10-18 143 → 2026-10-26 143（+0）
+2026-10-18 143 → 2026-10-27 144（+1）
 
 
 ---

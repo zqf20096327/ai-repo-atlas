@@ -1,6 +1,6 @@
 # zeekk0/OpenSakura
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
+⭐ 53 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
 
 **开源 3D 虚拟 AI 伴侣：语音对话、情绪状态与本地语音合成**
 
@@ -40,6 +40,18 @@ MekaHime 的原型 AI 伴侣，以 FastAPI 后端驱动：本地 STT（改版 Se
 > L9: Sakura is MekaHime's first prototype companion — a mood, a memory, a voice and a body —
 > L27:  you ──mic──▶ STT (MekaHime-modified SenseVoiceSmall, local) ──▶ Sakura brain ──▶ TTS (MekaHime build of GPT-SoVITS
 > L50: |**Fully local** (100% free)|Ollama, `qwen3:8b`|on your GPU|Windows 10/11 (Linux untested), NVIDIA RTX, 16 GB VRAM 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zeekk0/OpenSakura 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 55
+    line [31, 53]
+```
+
+2026-10-26 31 → 2026-10-27 53（+22）
 
 
 ---

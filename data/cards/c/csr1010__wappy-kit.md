@@ -1,6 +1,6 @@
 # csr1010/wappy-kit
 
-⭐ 143 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/csr1010/wappy-kit) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
+⭐ 147 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/csr1010/wappy-kit) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
 
 **本地优先的开源 WhatsApp AI agent SDK，自带模型与号码**
 
@@ -46,13 +46,13 @@ TypeScript 编写的 AI agent SDK，通过 npm create 脚手架生成可在本�
 
 ```mermaid
 xychart-beta
-    title "csr1010/wappy-kit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 112 --> 145
-    line [114, 119, 125, 129, 131, 140, 143]
+    title "csr1010/wappy-kit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 111 --> 150
+    line [114, 119, 125, 129, 131, 140, 143, 147]
 ```
 
-2026-10-18 114 → 2026-10-26 143（+29）
+2026-10-18 114 → 2026-10-27 147（+33）
 
 
 ---

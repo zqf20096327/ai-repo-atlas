@@ -1,6 +1,6 @@
 # walkinglabs/awesome-harness-engineering
 
-⭐ 4,466 · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 个人维护
+⭐ 4,474 · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 个人维护
 
 **harness 工程策展清单：文章、基准、规范与开源项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/awesome-harness-engineering 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4413 --> 4470
-    line [4417, 4431, 4447, 4454, 4459, 4462, 4466]
+    title "walkinglabs/awesome-harness-engineering 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4412 --> 4479
+    line [4417, 4431, 4447, 4454, 4459, 4462, 4466, 4474]
 ```
 
-2026-10-18 4,417 → 2026-10-26 4,466（+49）
+2026-10-18 4,417 → 2026-10-27 4,474（+57）
 
 
 ---

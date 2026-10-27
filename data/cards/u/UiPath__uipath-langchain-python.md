@@ -1,6 +1,6 @@
 # UiPath/uipath-langchain-python
 
-⭐ 74 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/UiPath/uipath-langchain-python) · [官网](https://uipath.github.io/uipath-python/langchain/quick_start/) · 组织维护
+⭐ 74 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/UiPath/uipath-langchain-python) · [官网](https://uipath.github.io/uipath-python/langchain/quick_start/) · 组织维护
 
 **将 LangGraph agent 构建部署到 UiPath 云平台的 Python SDK**
 
@@ -44,12 +44,12 @@ UiPath 官方 Python SDK，作为 UiPath Python SDK 的扩展，实现 UiPath Ru
 ```mermaid
 xychart-beta
     title "UiPath/uipath-langchain-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 74（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/TimeCraft
 
-⭐ 1,096 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/TimeCraft) · 组织维护
+⭐ 1,097 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/TimeCraft) · 组织维护
 
 **面向真实应用的扩散模型时间序列生成框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/TimeCraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1095 --> 1097
-    line [1096, 1096]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1095 --> 1098
+    line [1096, 1097]
 ```
 
-2026-10-18 1,096 → 2026-10-26 1,096（+0）
+2026-10-18 1,096 → 2026-10-27 1,097（+1）
 
 
 ---

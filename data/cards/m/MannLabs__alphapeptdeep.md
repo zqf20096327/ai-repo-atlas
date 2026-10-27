@@ -1,6 +1,6 @@
 # MannLabs/alphapeptdeep
 
-⭐ 160 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/MannLabs/alphapeptdeep) · 组织维护
+⭐ 161 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/MannLabs/alphapeptdeep) · 组织维护
 
 **蛋白质组学深度学习框架：预测肽段 RT/CCS/MS2 并生成谱库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MannLabs/alphapeptdeep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 159 --> 161
-    line [160, 160]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 159 --> 162
+    line [160, 161]
 ```
 
-2026-10-18 160 → 2026-10-26 160（+0）
+2026-10-18 160 → 2026-10-27 161（+1）
 
 
 ---

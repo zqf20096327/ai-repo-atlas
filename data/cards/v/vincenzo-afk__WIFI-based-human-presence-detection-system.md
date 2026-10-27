@@ -1,6 +1,6 @@
 # vincenzo-afk/WIFI-based-human-presence-detection-system
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 个人维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system) · 个人维护
 
 **基于 WiFi CSI 的人体存在/区域/活动检测实时仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vincenzo-afk/WIFI-based-human-presence-detection-system 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 40 --> 45
-    line [41, 42, 43, 44]
+    title "vincenzo-afk/WIFI-based-human-presence-detection-system 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 40 --> 46
+    line [41, 42, 43, 44, 45]
 ```
 
-2026-10-18 41 → 2026-10-26 44（+3）
+2026-10-18 41 → 2026-10-27 45（+4）
 
 
 ---

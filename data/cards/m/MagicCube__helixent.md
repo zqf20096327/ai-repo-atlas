@@ -1,6 +1,6 @@
 # MagicCube/helixent
 
-⭐ 685 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/MagicCube/helixent) · 个人维护 · 中文 README
+⭐ 686 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/MagicCube/helixent) · 个人维护 · 中文 README
 
 **基于 Bun 的 ReAct 式 agent 循环库与编码 agent CLI**
 
@@ -45,13 +45,13 @@ TypeScript 库，提供可复用的 ReAct 风格 agent 循环、Model/Message/To
 
 ```mermaid
 xychart-beta
-    title "MagicCube/helixent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 682 --> 686
-    line [683, 684, 685]
+    title "MagicCube/helixent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 682 --> 687
+    line [683, 684, 685, 686]
 ```
 
-2026-10-18 683 → 2026-10-26 685（+2）
+2026-10-18 683 → 2026-10-27 686（+3）
 
 
 ---

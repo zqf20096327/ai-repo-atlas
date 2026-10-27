@@ -1,6 +1,6 @@
 # xynehq/xyne
 
-⭐ 697 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xynehq/xyne) · [官网](https://xyne.ai) · 组织维护
+⭐ 697 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xynehq/xyne) · [官网](https://xyne.ai) · 组织维护
 
 **面向工作的 AI 优先搜索与问答引擎，聚合企业应用数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xynehq/xyne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "xynehq/xyne 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 695 --> 698
-    line [696, 697]
+    line [696, 697, 697]
 ```
 
-2026-10-18 696 → 2026-10-26 697（+1）
+2026-10-18 696 → 2026-10-27 697（+1）
 
 
 ---

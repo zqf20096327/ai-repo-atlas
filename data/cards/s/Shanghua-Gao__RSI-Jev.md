@@ -1,6 +1,6 @@
 # Shanghua-Gao/RSI-Jev
 
-⭐ 123 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Shanghua-Gao/RSI-Jev) · [官网](https://shgao.site) · 个人维护
+⭐ 124 · HTML · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Shanghua-Gao/RSI-Jev) · [官网](https://shgao.site) · 个人维护
 
 **AI 自我改进研究循环产出的类型化决策模型及全部实验记录**
 
@@ -45,13 +45,13 @@ RSI-Jev 是一个递归自我改进的研究循环项目：AI agent 提出假设
 
 ```mermaid
 xychart-beta
-    title "Shanghua-Gao/RSI-Jev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 116 --> 124
-    line [117, 119, 120, 122, 123]
+    title "Shanghua-Gao/RSI-Jev 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 116 --> 125
+    line [117, 119, 120, 122, 123, 124]
 ```
 
-2026-10-18 117 → 2026-10-26 123（+6）
+2026-10-18 117 → 2026-10-27 124（+7）
 
 
 ---

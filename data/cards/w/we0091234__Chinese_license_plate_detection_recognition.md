@@ -1,6 +1,6 @@
 # we0091234/Chinese_license_plate_detection_recognition
 
-⭐ 1,890 · Python · GPL-3.0 · 推送 2026-06-05 · [GitHub](https://github.com/we0091234/Chinese_license_plate_detection_recognition) · 个人维护 · 中文 README
+⭐ 1,891 · Python · GPL-3.0 · 推送 2026-06-05 · [GitHub](https://github.com/we0091234/Chinese_license_plate_detection_recognition) · 个人维护 · 中文 README
 
 **基于 YOLOv5 的中文车牌检测与识别工具，支持 12 种车牌**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "we0091234/Chinese_license_plate_detection_recognition 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1885 --> 1891
-    line [1886, 1888, 1890, 1890]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 1885 --> 1892
+    line [1886, 1888, 1890, 1891]
 ```
 
-2026-10-18 1,886 → 2026-10-26 1,890（+4）
+2026-10-18 1,886 → 2026-10-27 1,891（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Eynzof/Hermes-CN-Desktop
 
-⭐ 1,711 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Eynzof/Hermes-CN-Desktop) · [官网](https://hermesagent.org.cn) · 组织维护 · 中文 README
+⭐ 1,714 · TypeScript · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Eynzof/Hermes-CN-Desktop) · [官网](https://hermesagent.org.cn) · 组织维护 · 中文 README
 
 **Hermes Agent 中文社区桌面客户端，托管 Agent 内核与运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eynzof/Hermes-CN-Desktop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "Eynzof/Hermes-CN-Desktop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1708 --> 1720
-    line [1713, 1717, 1719, 1709, 1710, 1711]
+    line [1713, 1717, 1719, 1709, 1710, 1711, 1714]
 ```
 
-2026-10-18 1,713 → 2026-10-26 1,711（-2）
+2026-10-18 1,713 → 2026-10-27 1,714（+1）
 
 
 ---

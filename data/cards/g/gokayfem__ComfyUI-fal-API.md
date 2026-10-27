@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI-fal-API
 
-⭐ 227 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gokayfem/ComfyUI-fal-API) · 个人维护
+⭐ 228 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gokayfem/ComfyUI-fal-API) · 个人维护
 
 **将 fal.ai 全目录模型接入 ComfyUI 的自定义节点集**
 
@@ -44,13 +44,13 @@ ComfyUI 自定义节点包，把 fal.ai 平台上约 1,400 个公开模型以节
 
 ```mermaid
 xychart-beta
-    title "gokayfem/ComfyUI-fal-API 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 224 --> 228
-    line [225, 226, 227]
+    title "gokayfem/ComfyUI-fal-API 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 224 --> 229
+    line [225, 226, 227, 228]
 ```
 
-2026-10-18 225 → 2026-10-26 227（+2）
+2026-10-18 225 → 2026-10-27 228（+3）
 
 
 ---

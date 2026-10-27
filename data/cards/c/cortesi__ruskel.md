@@ -44,12 +44,12 @@ Ruskel 从 Rust crate 的 rustdoc JSON 生成保留文档注释、剥离实现�
 ```mermaid
 xychart-beta
     title "cortesi/ruskel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

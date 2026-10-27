@@ -45,12 +45,12 @@ Kommunicate 提供开源的网站聊天挂件插件：企业通过 Kompose 无�
 ```mermaid
 xychart-beta
     title "Kommunicate-io/Kommunicate-Web-SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 42（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Rustic AI 的 UI 组件库：提供一组可复用的 React 组件，用于构�
 ```mermaid
 xychart-beta
     title "rustic-ai/rustic-ui-components 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-26 71（+0）
+2026-10-18 71 → 2026-10-27 71（+0）
 
 
 ---

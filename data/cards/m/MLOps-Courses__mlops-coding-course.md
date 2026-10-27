@@ -1,6 +1,6 @@
 # MLOps-Courses/mlops-coding-course
 
-⭐ 743 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/MLOps-Courses/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 组织维护
+⭐ 744 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/MLOps-Courses/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 组织维护
 
 **教你构建与维护 MLOps 代码库的实践课程（教程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MLOps-Courses/mlops-coding-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 740 --> 744
-    line [741, 742, 743, 743]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 740 --> 745
+    line [741, 742, 743, 744]
 ```
 
-2026-10-18 741 → 2026-10-26 743（+2）
+2026-10-18 741 → 2026-10-27 744（+3）
 
 
 ---

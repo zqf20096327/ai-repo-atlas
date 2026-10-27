@@ -1,6 +1,6 @@
 # nekomeowww/insights-bot
 
-⭐ 287 · Go · MIT · 推送 2026-02-11 · [GitHub](https://github.com/nekomeowww/insights-bot) · 个人维护 · 中文 README
+⭐ 288 · Go · MIT · 推送 2026-02-11 · [GitHub](https://github.com/nekomeowww/insights-bot) · 个人维护 · 中文 README
 
 **接入 GPT 的信息流摘要机器人，面向 Telegram/Slack/Discord 用户**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nekomeowww/insights-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "nekomeowww/insights-bot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 286 --> 289
-    line [288, 287]
+    line [288, 287, 288]
 ```
 
-2026-10-18 288 → 2026-10-26 287（-1）
+2026-10-18 288 → 2026-10-27 288（+0）
 
 
 ---

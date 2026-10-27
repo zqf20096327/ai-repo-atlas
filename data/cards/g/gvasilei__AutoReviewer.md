@@ -1,6 +1,6 @@
 # gvasilei/AutoReviewer
 
-⭐ 50 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gvasilei/AutoReviewer) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gvasilei/AutoReviewer) · 个人维护
 
 **用 OpenAI 模型做自动代码评审的 GitHub Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gvasilei/AutoReviewer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 51（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mnemosyne-oss/mnemosyne
 
-⭐ 3,516 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mnemosyne-oss/mnemosyne) · [官网](https://mnemosyne.site) · 组织维护
+⭐ 3,523 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mnemosyne-oss/mnemosyne) · [官网](https://mnemosyne.site) · 组织维护
 
 **给 AI agent 提供本地 SQLite 记忆层的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mnemosyne-oss/mnemosyne 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3434 --> 3523
-    line [3441, 3457, 3480, 3496, 3503, 3513, 3516]
+    title "mnemosyne-oss/mnemosyne 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3433 --> 3531
+    line [3441, 3457, 3480, 3496, 3503, 3513, 3516, 3523]
 ```
 
-2026-10-18 3,441 → 2026-10-26 3,516（+75）
+2026-10-18 3,441 → 2026-10-27 3,523（+82）
 
 
 ---

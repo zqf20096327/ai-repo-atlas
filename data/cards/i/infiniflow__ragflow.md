@@ -1,6 +1,6 @@
 # infiniflow/ragflow
 
-⭐ 92,839 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
+⭐ 92,912 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
 
 **企业级开源 RAG 引擎：融合 Agent 能力为 LLM 提供上下文层**
 
@@ -50,13 +50,13 @@ RAGFlow 是 infiniflow 维护的开源检索增强生成引擎，结合 Agent �
 
 ```mermaid
 xychart-beta
-    title "infiniflow/ragflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 92329 --> 92885
-    line [92375, 92480, 92597, 92663, 92748, 92807, 92839]
+    title "infiniflow/ragflow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 92322 --> 92965
+    line [92375, 92480, 92597, 92663, 92748, 92807, 92839, 92912]
 ```
 
-2026-10-18 92,375 → 2026-10-26 92,839（+464）
+2026-10-18 92,375 → 2026-10-27 92,912（+537）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pinvou/pinvou-agent
 
-⭐ 2,640 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Pinvou/pinvou-agent) · [官网](https://pinvou.com/) · 组织维护 · 中文 README
+⭐ 2,654 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Pinvou/pinvou-agent) · [官网](https://pinvou.com/) · 组织维护 · 中文 README
 
 **开源桌面 AI agent 工作台：工作、设计与编码一体化交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pinvou/pinvou-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2543 --> 2648
-    line [2551, 2593, 2633, 2581, 2594, 2613, 2640]
+    title "Pinvou/pinvou-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2541 --> 2664
+    line [2551, 2593, 2633, 2581, 2594, 2613, 2640, 2654]
 ```
 
-2026-10-18 2,551 → 2026-10-26 2,640（+89）
+2026-10-18 2,551 → 2026-10-27 2,654（+103）
 
 
 ---

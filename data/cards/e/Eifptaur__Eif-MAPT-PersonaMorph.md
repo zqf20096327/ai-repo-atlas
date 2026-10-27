@@ -1,6 +1,6 @@
 # Eifptaur/Eif-MAPT-PersonaMorph
 
-⭐ 98 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Eifptaur/Eif-MAPT-PersonaMorph) · [官网](https://github.com/Eifptaur/Eif-MAPT-PersonaMorph/releases/latest) · 个人维护 · 中文 README
+⭐ 99 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Eifptaur/Eif-MAPT-PersonaMorph) · [官网](https://github.com/Eifptaur/Eif-MAPT-PersonaMorph/releases/latest) · 个人维护 · 中文 README
 
 **本地运行的微信群聊 AI 人设机器人，按角色口吻自动回群消息**
 
@@ -45,12 +45,12 @@ Windows 桌面应用（PySide6 控制台，27 个面板）：读取本机微信�
 ```mermaid
 xychart-beta
     title "Eifptaur/Eif-MAPT-PersonaMorph 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 72 --> 100
-    line [74, 79, 89, 92, 98, 98]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 72 --> 101
+    line [74, 79, 89, 92, 98, 99]
 ```
 
-2026-10-18 74 → 2026-10-26 98（+24）
+2026-10-18 74 → 2026-10-27 99（+25）
 
 
 ---

@@ -45,12 +45,12 @@ AI Guru 主办的 Road to AI Stage 1 竞赛仓库：任务是构建越南语法�
 ```mermaid
 xychart-beta
     title "aigurutinix/r2ai-stage-1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-26 40（+0）
+2026-10-18 40 → 2026-10-27 40（+0）
 
 
 ---

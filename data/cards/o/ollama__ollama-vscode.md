@@ -1,6 +1,6 @@
 # ollama/ollama-vscode
 
-⭐ 70 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama/ollama-vscode) · 组织维护
+⭐ 71 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama/ollama-vscode) · 组织维护
 
 **把运行中的 Ollama 模型接入 VS Code Chat 的官方扩展**
 
@@ -46,12 +46,12 @@ Ollama 官方维护的 VS Code 扩展：将本地 Ollama 服务器的模型添�
 ```mermaid
 xychart-beta
     title "ollama/ollama-vscode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 61 --> 71
-    line [62, 63, 66, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 61 --> 72
+    line [62, 63, 66, 69, 70, 71]
 ```
 
-2026-10-18 62 → 2026-10-26 70（+8）
+2026-10-18 62 → 2026-10-27 71（+9）
 
 
 ---

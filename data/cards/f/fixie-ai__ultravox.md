@@ -1,6 +1,6 @@
 # fixie-ai/ultravox
 
-⭐ 4,583 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/fixie-ai/ultravox) · [官网](https://ultravox.ai) · 组织维护
+⭐ 4,579 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/fixie-ai/ultravox) · [官网](https://ultravox.ai) · 组织维护
 
 **实时语音多模态 LLM：音频直入 LLM，无需独立 ASR**
 
@@ -46,12 +46,12 @@ fixie-ai 开发的开源多模态 LLM，通过多模态投影器将音频直接�
 ```mermaid
 xychart-beta
     title "fixie-ai/ultravox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4579 --> 4584
-    line [4580, 4581, 4583, 4582, 4583, 4583]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 4578 --> 4584
+    line [4580, 4581, 4583, 4582, 4583, 4579]
 ```
 
-2026-10-18 4,580 → 2026-10-26 4,583（+3）
+2026-10-18 4,580 → 2026-10-27 4,579（-1）
 
 
 ---

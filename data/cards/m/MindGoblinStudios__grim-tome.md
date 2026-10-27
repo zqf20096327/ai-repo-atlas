@@ -1,6 +1,6 @@
 # MindGoblinStudios/grim-tome
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MindGoblinStudios/grim-tome) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MindGoblinStudios/grim-tome) · 个人维护
 
 **面向任意 AI agent 的提示词/技能合集（50+ /skills，20 位顾问）**
 
@@ -46,12 +46,12 @@ AI 提示词法书：收录 50 余个 /skills（.md 提示、代码与设计模�
 ```mermaid
 xychart-beta
     title "MindGoblinStudios/grim-tome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

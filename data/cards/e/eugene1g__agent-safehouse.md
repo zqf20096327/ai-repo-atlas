@@ -1,6 +1,6 @@
 # eugene1g/agent-safehouse
 
-⭐ 2,120 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eugene1g/agent-safehouse) · [官网](https://agent-safehouse.dev) · 个人维护
+⭐ 2,121 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eugene1g/agent-safehouse) · [官网](https://agent-safehouse.dev) · 个人维护
 
 **macOS 上为 LLM 编程 agent 做文件/集成权限沙箱的加固层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eugene1g/agent-safehouse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2109 --> 2121
-    line [2110, 2113, 2118, 2119, 2120]
+    title "eugene1g/agent-safehouse 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2109 --> 2122
+    line [2110, 2113, 2118, 2119, 2120, 2121]
 ```
 
-2026-10-18 2,110 → 2026-10-26 2,120（+10）
+2026-10-18 2,110 → 2026-10-27 2,121（+11）
 
 
 ---

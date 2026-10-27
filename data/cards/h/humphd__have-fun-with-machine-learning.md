@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "humphd/have-fun-with-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "humphd/have-fun-with-machine-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 5115 --> 5119
-    line [5116, 5117, 5118]
+    line [5116, 5117, 5118, 5118]
 ```
 
-2026-10-18 5,116 → 2026-10-26 5,118（+2）
+2026-10-18 5,116 → 2026-10-27 5,118（+2）
 
 
 ---

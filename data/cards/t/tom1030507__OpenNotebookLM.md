@@ -1,6 +1,6 @@
 # tom1030507/OpenNotebookLM
 
-⭐ 69 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tom1030507/OpenNotebookLM) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tom1030507/OpenNotebookLM) · 个人维护
 
 **自托管的 NotebookLM 替代：导入文档问答并带引用溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tom1030507/OpenNotebookLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 65 --> 70
-    line [66, 67, 68, 69]
+    title "tom1030507/OpenNotebookLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 65 --> 73
+    line [66, 67, 68, 69, 72]
 ```
 
-2026-10-18 66 → 2026-10-26 69（+3）
+2026-10-18 66 → 2026-10-27 72（+6）
 
 
 ---

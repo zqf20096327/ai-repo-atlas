@@ -1,6 +1,6 @@
 # yanliudesign/product-teardown-skill
 
-⭐ 132 · Python · 推送 2026-07-23 · [GitHub](https://github.com/yanliudesign/product-teardown-skill) · 个人维护 · 中文 README
+⭐ 133 · Python · 推送 2026-07-23 · [GitHub](https://github.com/yanliudesign/product-teardown-skill) · 个人维护 · 中文 README
 
 **面向产品经理的产品拆解提示词技能：生成双语 HTML 拆解报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yanliudesign/product-teardown-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 129 --> 133
-    line [130, 131, 132, 132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 129 --> 134
+    line [130, 131, 132, 133]
 ```
 
-2026-10-18 130 → 2026-10-26 132（+2）
+2026-10-18 130 → 2026-10-27 133（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # buildingjoshbetter/TrueMemory
 
-⭐ 382 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [官网](https://truememory.net) · 个人维护
+⭐ 383 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/buildingjoshbetter/TrueMemory) · [官网](https://truememory.net) · 个人维护
 
 **本地优先的 AI agent 自动记忆层：自动捕获与召回对话记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buildingjoshbetter/TrueMemory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 380 --> 383
-    line [381, 382, 382]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 380 --> 384
+    line [381, 382, 383]
 ```
 
-2026-10-18 381 → 2026-10-26 382（+1）
+2026-10-18 381 → 2026-10-27 383（+2）
 
 
 ---

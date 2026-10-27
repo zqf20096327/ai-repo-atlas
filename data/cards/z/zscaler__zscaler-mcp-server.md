@@ -1,6 +1,6 @@
 # zscaler/zscaler-mcp-server
 
-⭐ 52 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/zscaler/zscaler-mcp-server) · [官网](https://pypi.org/project/zscaler-mcp/) · 组织维护
+⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zscaler/zscaler-mcp-server) · [官网](https://pypi.org/project/zscaler-mcp/) · 组织维护
 
 **连接 AI 代理与 Zscaler 零信任平台的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zscaler/zscaler-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "zscaler/zscaler-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52]
+    line [49, 50, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-10-26 52（+3）
+2026-10-18 49 → 2026-10-27 52（+3）
 
 
 ---

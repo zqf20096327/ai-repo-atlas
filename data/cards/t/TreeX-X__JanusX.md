@@ -1,6 +1,6 @@
 # TreeX-X/JanusX
 
-⭐ 156 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TreeX-X/JanusX) · [官网](https://treex-x.github.io/JanusX/) · 个人维护 · 中文 README
+⭐ 162 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TreeX-X/JanusX) · [官网](https://treex-x.github.io/JanusX/) · 个人维护 · 中文 README
 
 **把项目、终端与 AI 编程 CLI 放进同一桌面工作区的 Electron 应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TreeX-X/JanusX 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 145 --> 162
-    line [146, 161, 153, 155, 156, 156]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 145 --> 163
+    line [146, 161, 153, 155, 156, 162]
 ```
 
-2026-10-18 146 → 2026-10-26 156（+10）
+2026-10-18 146 → 2026-10-27 162（+16）
 
 
 ---

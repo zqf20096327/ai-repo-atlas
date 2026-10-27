@@ -1,6 +1,6 @@
 # SethRobinson/UGTLive
 
-⭐ 117 · C# · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/SethRobinson/UGTLive) · 个人维护
+⭐ 118 · C# · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/SethRobinson/UGTLive) · 个人维护
 
 **Windows 实时屏幕翻译工具：OCR 加 LLM 翻译游戏漫画**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SethRobinson/UGTLive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 116 --> 119
-    line [118, 117, 117]
+    line [118, 117, 118]
 ```
 
-2026-10-18 118 → 2026-10-26 117（-1）
+2026-10-18 118 → 2026-10-27 118（+0）
 
 
 ---

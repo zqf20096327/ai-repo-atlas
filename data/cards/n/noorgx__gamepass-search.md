@@ -46,12 +46,12 @@ Electron 桌面应用，从微软官方目录 API 同步全部 Game Pass 游戏�
 ```mermaid
 xychart-beta
     title "noorgx/gamepass-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

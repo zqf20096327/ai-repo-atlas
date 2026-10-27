@@ -1,6 +1,6 @@
 # korotovsky/slack-mcp-server
 
-⭐ 1,872 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/korotovsky/slack-mcp-server) · 个人维护
+⭐ 1,873 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/korotovsky/slack-mcp-server) · 个人维护
 
 **让 MCP 客户端读写 Slack 工作区的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "korotovsky/slack-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "korotovsky/slack-mcp-server 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1866 --> 1874
-    line [1867, 1869, 1871, 1873, 1871, 1872]
+    line [1867, 1869, 1871, 1873, 1871, 1872, 1873]
 ```
 
-2026-10-18 1,867 → 2026-10-26 1,872（+5）
+2026-10-18 1,867 → 2026-10-27 1,873（+6）
 
 
 ---

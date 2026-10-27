@@ -1,6 +1,6 @@
 # NVIDIA/Megatron-LM
 
-⭐ 18,267 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
+⭐ 18,274 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
 
 **面向研究团队的大规模 transformer 模型分布式训练库**
 
@@ -52,13 +52,13 @@ NVIDIA 维护的大规模 transformer 训练代码库，含两个组件：Megatr
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/Megatron-LM 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18170 --> 18275
-    line [18178, 18198, 18227, 18241, 18253, 18259, 18267]
+    title "NVIDIA/Megatron-LM 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18169 --> 18283
+    line [18178, 18198, 18227, 18241, 18253, 18259, 18267, 18274]
 ```
 
-2026-10-18 18,178 → 2026-10-26 18,267（+89）
+2026-10-18 18,178 → 2026-10-27 18,274（+96）
 
 
 ---

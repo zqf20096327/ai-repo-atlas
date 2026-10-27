@@ -1,6 +1,6 @@
 # open-webui/cookbook
 
-⭐ 54 · Jupyter Notebook · 推送 2026-05-04 · [GitHub](https://github.com/open-webui/cookbook) · 组织维护
+⭐ 55 · Jupyter Notebook · 推送 2026-05-04 · [GitHub](https://github.com/open-webui/cookbook) · 组织维护
 
 **Open WebUI 官方示例集：提供用法食谱与集成示例**
 
@@ -39,13 +39,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/cookbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "open-webui/cookbook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 53 --> 56
-    line [55, 54]
+    line [55, 54, 55]
 ```
 
-2026-10-18 55 → 2026-10-26 54（-1）
+2026-10-18 55 → 2026-10-27 55（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Coherence-Daddy/use-ollama-to-enhance-claude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-26 47（+0）
+2026-10-18 47 → 2026-10-27 47（+0）
 
 
 ---

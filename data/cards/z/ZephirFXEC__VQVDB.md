@@ -1,6 +1,6 @@
 # ZephirFXEC/VQVDB
 
-⭐ 107 · C++ · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/ZephirFXEC/VQVDB) · 个人维护
+⭐ 108 · C++ · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/ZephirFXEC/VQVDB) · 个人维护
 
 **用 VQ-VAE 压缩 OpenVDB 体素的深度学习工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZephirFXEC/VQVDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 106 --> 108
-    line [107, 107]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 106 --> 109
+    line [107, 108]
 ```
 
-2026-10-18 107 → 2026-10-26 107（+0）
+2026-10-18 107 → 2026-10-27 108（+1）
 
 
 ---

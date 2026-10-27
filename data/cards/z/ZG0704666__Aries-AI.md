@@ -1,6 +1,6 @@
 # ZG0704666/Aries-AI
 
-⭐ 127 · Kotlin · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ZG0704666/Aries-AI) · [官网](https://aries-agent.com) · 个人维护 · 中文 README
+⭐ 128 · Kotlin · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ZG0704666/Aries-AI) · [官网](https://aries-agent.com) · 个人维护 · 中文 README
 
 **开源 Android AI Agent：自然语言驱动自动操控手机跨应用完成任务**
 
@@ -44,13 +44,13 @@ Android UI 自动化引擎应用：接入大语言模型后，AI 读取屏幕截
 
 ```mermaid
 xychart-beta
-    title "ZG0704666/Aries-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 122 --> 128
-    line [123, 124, 125, 126, 127]
+    title "ZG0704666/Aries-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 122 --> 129
+    line [123, 124, 125, 126, 127, 128]
 ```
 
-2026-10-18 123 → 2026-10-26 127（+4）
+2026-10-18 123 → 2026-10-27 128（+5）
 
 
 ---

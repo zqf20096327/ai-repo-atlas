@@ -1,6 +1,6 @@
 # renarchi/Re-SISR
 
-⭐ 28 · JavaScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/renarchi/Re-SISR) · [官网](https://renarchi.github.io/Re-SISR/) · 个人维护
+⭐ 29 · JavaScript · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/renarchi/Re-SISR) · [官网](https://renarchi.github.io/Re-SISR/) · 个人维护
 
 **自训练的超分辨率模型集合：动漫与通用图像放大**
 
@@ -45,12 +45,12 @@ renarchi 训练并发布的一系列单图像超分辨率（SISR）模型权重�
 ```mermaid
 xychart-beta
     title "renarchi/Re-SISR 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 25 --> 30
+    line [26, 27, 28, 29]
 ```
 
-2026-10-18 26 → 2026-10-26 28（+2）
+2026-10-18 26 → 2026-10-27 29（+3）
 
 
 ---

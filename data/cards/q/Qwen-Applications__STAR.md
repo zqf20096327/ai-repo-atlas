@@ -46,13 +46,13 @@ ICLR 2026 论文的官方代码库：STAR 框架通过两阶段课程将大模�
 
 ```mermaid
 xychart-beta
-    title "Qwen-Applications/STAR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Qwen-Applications/STAR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 64 --> 67
-    line [65, 66]
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-10-26 66（+1）
+2026-10-18 65 → 2026-10-27 66（+1）
 
 
 ---

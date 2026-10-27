@@ -1,6 +1,6 @@
 # kortix-ai/suna
 
-⭐ 20,313 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
+⭐ 20,320 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kortix-ai/suna) · [官网](https://www.kortix.com) · 组织维护
 
 **开源 AI 操作系统：自托管运行企业 AI agent 团队**
 
@@ -52,13 +52,13 @@ Kortix 以『AI 操作系统』定位为企业提供 agent 工作平台：agent�
 
 ```mermaid
 xychart-beta
-    title "kortix-ai/suna 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 20276 --> 20316
-    line [20279, 20287, 20290, 20299, 20305, 20308, 20313]
+    title "kortix-ai/suna 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 20275 --> 20324
+    line [20279, 20287, 20290, 20299, 20305, 20308, 20313, 20320]
 ```
 
-2026-10-18 20,279 → 2026-10-26 20,313（+34）
+2026-10-18 20,279 → 2026-10-27 20,320（+41）
 
 
 ---

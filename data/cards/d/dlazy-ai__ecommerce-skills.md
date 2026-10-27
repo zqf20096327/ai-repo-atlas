@@ -1,6 +1,6 @@
 # dlazy-ai/ecommerce-skills
 
-⭐ 49 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/dlazy-ai/ecommerce-skills) · 组织维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dlazy-ai/ecommerce-skills) · 组织维护 · 中文 README
 
 **电商视觉生产的 Agent 技能库：26 个可组合 skill.md 生成商品图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dlazy-ai/ecommerce-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 42 --> 50
-    line [43, 44, 45, 48, 49, 49]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 42 --> 52
+    line [43, 44, 45, 48, 49, 51]
 ```
 
-2026-10-18 43 → 2026-10-26 49（+6）
+2026-10-18 43 → 2026-10-27 51（+8）
 
 
 ---

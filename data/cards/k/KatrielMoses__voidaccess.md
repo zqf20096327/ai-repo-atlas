@@ -1,6 +1,6 @@
 # KatrielMoses/voidaccess
 
-⭐ 920 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KatrielMoses/voidaccess) · [官网](https://voidaccess.pro) · 个人维护
+⭐ 936 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KatrielMoses/voidaccess) · [官网](https://voidaccess.pro) · 个人维护
 
 **自托管暗网 OSINT 平台：一次查询产出报告、图谱与 IOC**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "KatrielMoses/voidaccess 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 791 --> 931
-    line [802, 807, 896, 910, 914, 917, 920]
+    title "KatrielMoses/voidaccess 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 789 --> 949
+    line [802, 807, 896, 910, 914, 917, 920, 936]
 ```
 
-2026-10-18 802 → 2026-10-26 920（+118）
+2026-10-18 802 → 2026-10-27 936（+134）
 
 
 ---

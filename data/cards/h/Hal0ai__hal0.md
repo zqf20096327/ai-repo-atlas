@@ -1,6 +1,6 @@
 # Hal0ai/hal0
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Hal0ai/hal0) · [官网](https://hal0.dev) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Hal0ai/hal0) · [官网](https://hal0.dev) · 组织维护
 
 **面向 AMD Strix Halo 的自托管家庭 AI 推理平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hal0ai/hal0 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 80 --> 85
     line [81, 82, 83, 84, 84]
 ```
 
-2026-10-18 81 → 2026-10-26 84（+3）
+2026-10-18 81 → 2026-10-27 84（+3）
 
 
 ---

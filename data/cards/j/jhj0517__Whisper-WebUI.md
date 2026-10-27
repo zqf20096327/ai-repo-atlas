@@ -1,6 +1,6 @@
 # jhj0517/Whisper-WebUI
 
-⭐ 2,897 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/jhj0517/Whisper-WebUI) · 个人维护
+⭐ 2,899 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/jhj0517/Whisper-WebUI) · 个人维护
 
 **Whisper 语音转写字幕的 Gradio 网页界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jhj0517/Whisper-WebUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 2894 --> 2898
-    line [2896, 2895, 2897]
+    title "jhj0517/Whisper-WebUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2894 --> 2900
+    line [2896, 2895, 2897, 2899]
 ```
 
-2026-10-18 2,896 → 2026-10-26 2,897（+1）
+2026-10-18 2,896 → 2026-10-27 2,899（+3）
 
 
 ---

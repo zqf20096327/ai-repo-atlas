@@ -1,6 +1,6 @@
 # haseeb-heaven/langchain-coder
 
-⭐ 124 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/haseeb-heaven/langchain-coder) · [官网](https://langchain-coder.streamlit.app) · 个人维护
+⭐ 124 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/haseeb-heaven/langchain-coder) · [官网](https://langchain-coder.streamlit.app) · 个人维护
 
 **面向开发者的 Web 代码生成工具：接多家 LLM 生成并执行代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "haseeb-heaven/langchain-coder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-26 124（+0）
+2026-10-18 124 → 2026-10-27 124（+0）
 
 
 ---

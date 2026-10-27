@@ -1,6 +1,6 @@
 # Amirhosein-gh98/Gnosis
 
-⭐ 46 · Python · 推送 2026-07-15 · [GitHub](https://github.com/Amirhosein-gh98/Gnosis) · 个人维护
+⭐ 47 · Python · 推送 2026-07-15 · [GitHub](https://github.com/Amirhosein-gh98/Gnosis) · 个人维护
 
 **科研工作：给冻结 LLM 附加自意识头，预测回答的正确概率**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Amirhosein-gh98/Gnosis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 47（+1）
 
 
 ---

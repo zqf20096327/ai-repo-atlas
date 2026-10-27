@@ -1,6 +1,6 @@
 # targed/Awesome-Plugins
 
-⭐ 153 · JSON · MIT · 推送 2026-10-25 · [GitHub](https://github.com/targed/Awesome-Plugins) · 个人维护
+⭐ 153 · JSON · MIT · 推送 2026-10-26 · [GitHub](https://github.com/targed/Awesome-Plugins) · 个人维护
 
 **ChatGPT 及 GPT 兼容模型插件清单，附插件可用性状态页**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "targed/Awesome-Plugins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-10-18 153 → 2026-10-26 153（+0）
+2026-10-18 153 → 2026-10-27 153（+0）
 
 
 ---

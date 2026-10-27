@@ -1,6 +1,6 @@
 # cvs-health/uqlm
 
-⭐ 1,213 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/cvs-health/uqlm) · [官网](https://cvs-health.github.io/uqlm/latest/index.html) · 组织维护
+⭐ 1,214 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/cvs-health/uqlm) · [官网](https://cvs-health.github.io/uqlm/latest/index.html) · 组织维护
 
 **检测 LLM 输出幻觉的 Python 不确定性量化库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cvs-health/uqlm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1208 --> 1214
-    line [1209, 1211, 1212, 1213, 1213]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1208 --> 1215
+    line [1209, 1211, 1212, 1213, 1214]
 ```
 
-2026-10-18 1,209 → 2026-10-26 1,213（+4）
+2026-10-18 1,209 → 2026-10-27 1,214（+5）
 
 
 ---

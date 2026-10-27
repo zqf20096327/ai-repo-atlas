@@ -45,12 +45,12 @@ TACO（Trash Annotations in Context）是持续扩充的野外垃圾图像数据
 ```mermaid
 xychart-beta
     title "pedropro/TACO 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-22", "2026-10-27"]
     y-axis "stars" 774 --> 776
     line [775, 775]
 ```
 
-2026-10-22 775 → 2026-10-26 775（+0）
+2026-10-22 775 → 2026-10-27 775（+0）
 
 
 ---

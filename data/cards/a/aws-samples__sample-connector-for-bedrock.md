@@ -1,6 +1,6 @@
 # aws-samples/sample-connector-for-bedrock
 
-⭐ 104 · TypeScript · MIT-0 · 推送 2026-10-24 · [GitHub](https://github.com/aws-samples/sample-connector-for-bedrock) · [官网](https://aws-samples.github.io/sample-connector-for-bedrock/) · 组织维护
+⭐ 104 · TypeScript · MIT-0 · 推送 2026-10-26 · [GitHub](https://github.com/aws-samples/sample-connector-for-bedrock) · [官网](https://aws-samples.github.io/sample-connector-for-bedrock/) · 组织维护
 
 **面向开发者的 Amazon Bedrock API 转发与虚拟密钥/成本管理工具**
 
@@ -45,12 +45,12 @@ Bedrock 及其他 AWS 生成式 AI 服务的 API 转发工具（BRConnector）�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-connector-for-bedrock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-18 104 → 2026-10-26 104（+0）
+2026-10-18 104 → 2026-10-27 104（+0）
 
 
 ---

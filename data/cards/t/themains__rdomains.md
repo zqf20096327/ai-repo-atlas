@@ -1,6 +1,6 @@
 # themains/rdomains
 
-⭐ 59 · R · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/themains/rdomains) · [官网](http://themains.github.io/rdomains/) · 个人维护
+⭐ 59 · R · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/themains/rdomains) · [官网](http://themains.github.io/rdomains/) · 个人维护
 
 **R 包：基于内容的域名分类，支持 LLM 与 ML 模型**
 
@@ -45,12 +45,12 @@ R 语言包，提供多种按内容对域名分类的途径：调用 OpenAI GPT 
 ```mermaid
 xychart-beta
     title "themains/rdomains 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

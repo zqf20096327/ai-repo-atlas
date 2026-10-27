@@ -1,6 +1,6 @@
 # google-deepmind/reverb
 
-⭐ 793 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/reverb) · 组织维护
+⭐ 793 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/reverb) · 组织维护
 
 **面向机器学习研究的数据存储与传输系统，主要作分布式 RL 经验回放**
 
@@ -46,12 +46,12 @@ DeepMind 开源的 C++ 实现数据存储与传输系统，主要用作分布式
 ```mermaid
 xychart-beta
     title "google-deepmind/reverb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 792 --> 794
     line [793, 793]
 ```
 
-2026-10-18 793 → 2026-10-26 793（+0）
+2026-10-18 793 → 2026-10-27 793（+0）
 
 
 ---

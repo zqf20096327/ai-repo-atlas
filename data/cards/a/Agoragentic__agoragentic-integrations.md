@@ -1,6 +1,6 @@
 # Agoragentic/agoragentic-integrations
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Agoragentic/agoragentic-integrations) · [官网](https://agoragentic.com/integrations/) · 组织维护
+⭐ 41 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Agoragentic/agoragentic-integrations) · [官网](https://agoragentic.com/integrations/) · 组织维护
 
 **已部署 AI agent 的治理与证据层：策略边界、审批与回执**
 
@@ -47,12 +47,12 @@ Triptych OS (Agent OS) 的开源集成与治理入口：为已有 agent/框架�
 ```mermaid
 xychart-beta
     title "Agoragentic/agoragentic-integrations 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-25", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-25 41 → 2026-10-26 41（+0）
+2026-10-25 41 → 2026-10-27 41（+0）
 
 
 ---

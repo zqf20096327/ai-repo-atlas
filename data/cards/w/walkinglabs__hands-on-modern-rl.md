@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-modern-rl
 
-⭐ 4,769 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/walkinglabs/hands-on-modern-rl) · [官网](https://walkinglabs.github.io/hands-on-modern-rl/) · 组织维护 · 中文 README
+⭐ 4,779 · Jupyter Notebook · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/walkinglabs/hands-on-modern-rl) · [官网](https://walkinglabs.github.io/hands-on-modern-rl/) · 组织维护 · 中文 README
 
 **现代强化学习动手课程：从经典 RL 到 RLHF/DPO/GRPO 与 Agentic RL**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/hands-on-modern-rl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4676 --> 4777
-    line [4684, 4713, 4754, 4756, 4763, 4769]
+    title "walkinglabs/hands-on-modern-rl 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4675 --> 4788
+    line [4684, 4713, 4754, 4756, 4763, 4769, 4779]
 ```
 
-2026-10-18 4,684 → 2026-10-26 4,769（+85）
+2026-10-18 4,684 → 2026-10-27 4,779（+95）
 
 
 ---

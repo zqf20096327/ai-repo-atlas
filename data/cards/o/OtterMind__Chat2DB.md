@@ -1,6 +1,6 @@
 # OtterMind/Chat2DB
 
-⭐ 28,334 · Java · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
+⭐ 28,337 · Java · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OtterMind/Chat2DB) · [官网](https://chat2db.ai) · 组织维护 · 中文 README
 
 **连接 40+ 数据库的本地优先 SQL 客户端，支持自带 AI 模型**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "OtterMind/Chat2DB 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 28321 --> 28335
-    line [28323, 28322, 28329, 28331, 28334]
+    title "OtterMind/Chat2DB 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28321 --> 28338
+    line [28323, 28322, 28329, 28331, 28334, 28337]
 ```
 
-2026-10-18 28,323 → 2026-10-26 28,334（+11）
+2026-10-18 28,323 → 2026-10-27 28,337（+14）
 
 
 ---

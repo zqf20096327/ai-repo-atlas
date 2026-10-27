@@ -1,6 +1,6 @@
 # ljleb/comfy-mecha
 
-⭐ 103 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/ljleb/comfy-mecha) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ljleb/comfy-mecha) · 个人维护
 
 **ComfyUI 模型合并节点包：低内存执行合并配方**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ljleb/comfy-mecha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 102 --> 104
     line [103, 103]
 ```
 
-2026-10-18 103 → 2026-10-26 103（+0）
+2026-10-18 103 → 2026-10-27 103（+0）
 
 
 ---

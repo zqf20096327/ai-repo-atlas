@@ -1,6 +1,6 @@
 # wuji3/Doraemon
 
-⭐ 807 · Python · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/wuji3/Doraemon) · 组织维护
+⭐ 806 · Python · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/wuji3/Doraemon) · 组织维护
 
 **PyTorch 视觉建模库：图像分类、检索与人脸识别的训练部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wuji3/Doraemon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 805 --> 808
-    line [806, 807, 807]
+    line [806, 807, 806]
 ```
 
-2026-10-18 806 → 2026-10-26 807（+1）
+2026-10-18 806 → 2026-10-27 806（+0）
 
 
 ---

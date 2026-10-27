@@ -1,6 +1,6 @@
 # e2b-dev/E2B
 
-⭐ 14,548 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
+⭐ 14,567 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
 
 **为 AI agent 提供云端安全沙箱，运行生成的代码**
 
@@ -52,13 +52,13 @@ E2B 是开源基础设施，在云端安全隔离沙箱中运行 AI 生成的代
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/E2B 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14400 --> 14561
-    line [14413, 14448, 14488, 14501, 14520, 14530, 14548]
+    title "e2b-dev/E2B 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14398 --> 14582
+    line [14413, 14448, 14488, 14501, 14520, 14530, 14548, 14567]
 ```
 
-2026-10-18 14,413 → 2026-10-26 14,548（+135）
+2026-10-18 14,413 → 2026-10-27 14,567（+154）
 
 
 ---

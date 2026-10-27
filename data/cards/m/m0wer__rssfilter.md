@@ -1,6 +1,6 @@
 # m0wer/rssfilter
 
-⭐ 45 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/m0wer/rssfilter) · [官网](https://rssfilter.sgn.space/) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-02-03 · [GitHub](https://github.com/m0wer/rssfilter) · [官网](https://rssfilter.sgn.space/) · 个人维护
 
 **基于阅读历史的 AI RSS 过滤与文章推荐自托管服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "m0wer/rssfilter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MahdiKordian/DataForge
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/MahdiKordian/DataForge) · [官网](https://dataforge-prep.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 ML 的引导式数据预处理 Web 应用：脏数据进、可建模数据出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

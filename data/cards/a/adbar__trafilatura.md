@@ -1,6 +1,6 @@
 # adbar/trafilatura
 
-⭐ 7,021 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/adbar/trafilatura) · [官网](https://trafilatura.readthedocs.io) · 个人维护
+⭐ 7,026 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/adbar/trafilatura) · [官网](https://trafilatura.readthedocs.io) · 个人维护
 
 **Python/命令行网页正文与元数据抽取工具**
 
@@ -45,13 +45,13 @@ Python 包兼命令行工具，将原始 HTML 转为结构化数据：支持网�
 
 ```mermaid
 xychart-beta
-    title "adbar/trafilatura 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6974 --> 7025
-    line [6978, 6992, 7001, 7009, 7011, 7018, 7021]
+    title "adbar/trafilatura 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6974 --> 7030
+    line [6978, 6992, 7001, 7009, 7011, 7018, 7021, 7026]
 ```
 
-2026-10-18 6,978 → 2026-10-26 7,021（+43）
+2026-10-18 6,978 → 2026-10-27 7,026（+48）
 
 
 ---

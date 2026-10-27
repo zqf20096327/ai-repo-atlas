@@ -1,6 +1,6 @@
 # dmMaze/BallonsTranslator
 
-⭐ 5,233 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmMaze/BallonsTranslator) · 个人维护 · 中文 README
+⭐ 5,237 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/dmMaze/BallonsTranslator) · 个人维护 · 中文 README
 
 **深度学习辅助的漫画机翻与图像/文本编辑桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dmMaze/BallonsTranslator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5213 --> 5234
-    line [5214, 5220, 5223, 5224, 5227, 5230, 5233]
+    title "dmMaze/BallonsTranslator 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5212 --> 5239
+    line [5214, 5220, 5223, 5224, 5227, 5230, 5233, 5237]
 ```
 
-2026-10-18 5,214 → 2026-10-26 5,233（+19）
+2026-10-18 5,214 → 2026-10-27 5,237（+23）
 
 
 ---

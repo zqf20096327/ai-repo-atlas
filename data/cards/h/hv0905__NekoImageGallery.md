@@ -1,6 +1,6 @@
 # hv0905/NekoImageGallery
 
-⭐ 197 · Python · AGPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/hv0905/NekoImageGallery) · [官网](https://image-insights.edgeneko.com/) · 个人维护 · 中文 README
+⭐ 196 · Python · AGPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/hv0905/NekoImageGallery) · [官网](https://image-insights.edgeneko.com/) · 个人维护 · 中文 README
 
 **基于 CLIP 的 AI 图片搜索引擎：自然语言与以图搜图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hv0905/NekoImageGallery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 196 --> 198
-    line [197, 197]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 195 --> 198
+    line [197, 196]
 ```
 
-2026-10-18 197 → 2026-10-26 197（+0）
+2026-10-18 197 → 2026-10-27 196（-1）
 
 
 ---

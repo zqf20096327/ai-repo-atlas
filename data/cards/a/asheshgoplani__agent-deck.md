@@ -1,6 +1,6 @@
 # asheshgoplani/agent-deck
 
-⭐ 1,157 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/asheshgoplani/agent-deck) · [官网](https://discord.gg/e4xSs6NBN8) · 个人维护
+⭐ 1,162 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/asheshgoplani/agent-deck) · [官网](https://discord.gg/e4xSs6NBN8) · 个人维护
 
 **在终端里统一管理多个 AI 编码 agent 会话的 TUI 控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asheshgoplani/agent-deck 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1097 --> 1162
-    line [1102, 1124, 1133, 1139, 1148, 1154, 1157]
+    title "asheshgoplani/agent-deck 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1096 --> 1168
+    line [1102, 1124, 1133, 1139, 1148, 1154, 1157, 1162]
 ```
 
-2026-10-18 1,102 → 2026-10-26 1,157（+55）
+2026-10-18 1,102 → 2026-10-27 1,162（+60）
 
 
 ---

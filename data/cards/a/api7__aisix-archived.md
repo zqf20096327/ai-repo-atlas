@@ -1,6 +1,6 @@
 # api7/aisix-archived
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/api7/aisix-archived) · [官网](https://api7.ai/ai-gateway) · 组织维护
+⭐ 58 · Rust · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/api7/aisix-archived) · [官网](https://api7.ai/ai-gateway) · 组织维护
 
 **Rust 编写的 AI 网关与 LLM 代理，统一 OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@ AISIX 是 API7 维护的开源 AI Gateway 与 LLM proxy，用 Rust + Tokio 实�
 ```mermaid
 xychart-beta
     title "api7/aisix-archived 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 57 --> 60
+    line [59, 58]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 58（-1）
 
 
 ---

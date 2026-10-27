@@ -1,6 +1,6 @@
 # Anaconda-Labs/building-intelligent-apps-with-anaconda
 
-⭐ 228 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) · [官网](https://www.anaconda.com/docs/getting-started) · 组织维护
+⭐ 228 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) · [官网](https://www.anaconda.com/docs/getting-started) · 组织维护
 
 **用 Anaconda 生态构建 AI 原生应用的 10 模块实践课程**
 
@@ -45,12 +45,12 @@ Anaconda Labs 出品的动手教程：以 NASA TESS 望远镜观测的真实系�
 ```mermaid
 xychart-beta
     title "Anaconda-Labs/building-intelligent-apps-with-anaconda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 227 --> 229
     line [228, 228]
 ```
 
-2026-10-18 228 → 2026-10-26 228（+0）
+2026-10-18 228 → 2026-10-27 228（+0）
 
 
 ---

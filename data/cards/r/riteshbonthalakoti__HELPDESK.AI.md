@@ -1,6 +1,6 @@
 # riteshbonthalakoti/HELPDESK.AI
 
-⭐ 182 · JavaScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://helpdeskai1918.vercel.app) · 个人维护
+⭐ 184 · Python · 推送 2026-10-26 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://helpdeskai1918.vercel.app) · 个人维护
 
 **多租户 AI 工单平台：自动分类工单、查重与建议修复**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "riteshbonthalakoti/HELPDESK.AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
+    title "riteshbonthalakoti/HELPDESK.AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 174 --> 188
-    line [175, 184, 187, 183, 182]
+    line [175, 184, 187, 183, 182, 184]
 ```
 
-2026-10-18 175 → 2026-10-26 182（+7）
+2026-10-18 175 → 2026-10-27 184（+9）
 
 
 ---

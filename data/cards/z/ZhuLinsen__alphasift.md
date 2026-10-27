@@ -1,6 +1,6 @@
 # ZhuLinsen/alphasift
 
-⭐ 376 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ZhuLinsen/alphasift) · 个人维护 · 中文 README
+⭐ 377 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/ZhuLinsen/alphasift) · 个人维护 · 中文 README
 
 **A股全市场选股筛选引擎：确定性因子+可选LLM排序与复盘评估**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhuLinsen/alphasift 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 374 --> 377
-    line [375, 376, 376]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 374 --> 378
+    line [375, 376, 377]
 ```
 
-2026-10-18 375 → 2026-10-26 376（+1）
+2026-10-18 375 → 2026-10-27 377（+2）
 
 
 ---

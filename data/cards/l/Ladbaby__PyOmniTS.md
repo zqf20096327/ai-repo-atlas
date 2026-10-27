@@ -1,6 +1,6 @@
 # Ladbaby/PyOmniTS
 
-⭐ 105 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Ladbaby/PyOmniTS) · [官网](https://ladbaby.github.io/PyOmniTS-docs/) · 组织维护
+⭐ 106 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Ladbaby/PyOmniTS) · [官网](https://ladbaby.github.io/PyOmniTS-docs/) · 组织维护
 
 **时间序列分析训练框架：任意模型×数据集×损失组合训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ladbaby/PyOmniTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-10-18 105 → 2026-10-26 105（+0）
+2026-10-18 105 → 2026-10-27 106（+1）
 
 
 ---

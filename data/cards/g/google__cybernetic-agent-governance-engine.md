@@ -1,6 +1,6 @@
 # google/cybernetic-agent-governance-engine
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google/cybernetic-agent-governance-engine) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/cybernetic-agent-governance-engine) · 组织维护
 
 **域无关的 AI agent 运行时治理与对齐评测引擎**
 
@@ -46,12 +46,12 @@ CAGE 是一个不含内置应用的控制中间件与治理基底：在线侧通
 ```mermaid
 xychart-beta
     title "google/cybernetic-agent-governance-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39]
 ```
 
-2026-10-18 37 → 2026-10-26 38（+1）
+2026-10-18 37 → 2026-10-27 39（+2）
 
 
 ---

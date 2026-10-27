@@ -1,6 +1,6 @@
 # Heman10x-NGU/openJev-verdict-2.0
 
-⭐ 304 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Heman10x-NGU/openJev-verdict-2.0) · [官网](https://heman10x-ngu.github.io/openJev-verdict-2.0/) · 个人维护
+⭐ 305 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/Heman10x-NGU/openJev-verdict-2.0) · [官网](https://heman10x-ngu.github.io/openJev-verdict-2.0/) · 个人维护
 
 **149.6M 非自回归类型化决策模型：给确定性代码提供分类判定**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Heman10x-NGU/openJev-verdict-2.0 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 294 --> 305
-    line [295, 296, 297, 299, 302, 304]
+    title "Heman10x-NGU/openJev-verdict-2.0 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 294 --> 306
+    line [295, 296, 297, 299, 302, 304, 305]
 ```
 
-2026-10-18 295 → 2026-10-26 304（+9）
+2026-10-18 295 → 2026-10-27 305（+10）
 
 
 ---

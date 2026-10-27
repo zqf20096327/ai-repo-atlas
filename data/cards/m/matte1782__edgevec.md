@@ -1,6 +1,6 @@
 # matte1782/edgevec
 
-⭐ 99 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/matte1782/edgevec) · 个人维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/matte1782/edgevec) · 个人维护
 
 **面向浏览器/Node/Edge 的 WASM 嵌入式向量数据库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matte1782/edgevec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-18 99 → 2026-10-26 99（+0）
+2026-10-18 99 → 2026-10-27 100（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ainfosec/FISSURE
 
-⭐ 2,074 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ainfosec/FISSURE) · [官网](https://twitter.com/FissureRF) · 组织维护
+⭐ 2,075 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ainfosec/FISSURE) · [官网](https://twitter.com/FissureRF) · 组织维护
 
 **面向射频分析与逆向工程的开源 SDR 框架（含分布式节点）**
 
@@ -47,12 +47,12 @@ FISSURE 是开源的射频（RF）分析、自动化与分布式作业框架：�
 ```mermaid
 xychart-beta
     title "ainfosec/FISSURE 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 2068 --> 2075
-    line [2069, 2073, 2074, 2074]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 2068 --> 2076
+    line [2069, 2073, 2074, 2075]
 ```
 
-2026-10-18 2,069 → 2026-10-26 2,074（+5）
+2026-10-18 2,069 → 2026-10-27 2,075（+6）
 
 
 ---

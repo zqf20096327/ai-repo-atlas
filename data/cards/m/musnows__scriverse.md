@@ -1,6 +1,6 @@
 # musnows/scriverse
 
-⭐ 227 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/musnows/scriverse) · [官网](https://scriverse.top) · 个人维护 · 中文 README
+⭐ 228 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/musnows/scriverse) · [官网](https://scriverse.top) · 个人维护 · 中文 README
 
 **面向长篇小说的本地 AI 创作工作台（自部署 Web 应用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "musnows/scriverse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 223 --> 228
-    line [224, 226, 225, 226, 227]
+    title "musnows/scriverse 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 223 --> 229
+    line [224, 226, 225, 226, 227, 228]
 ```
 
-2026-10-18 224 → 2026-10-26 227（+3）
+2026-10-18 224 → 2026-10-27 228（+4）
 
 
 ---

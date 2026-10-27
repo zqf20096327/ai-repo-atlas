@@ -1,6 +1,6 @@
 # pixelartistry/PixelArtistry-Pixal3D-Multiview
 
-⭐ 25 · Batchfile · MIT · 推送 2026-09-29 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Pixal3D-Multiview) · 个人维护
+⭐ 26 · Batchfile · MIT · 推送 2026-09-29 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Pixal3D-Multiview) · 个人维护
 
 **本地 ComfyUI 工作流：一条提示词生成 3D 角色 GLB 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pixelartistry/PixelArtistry-Pixal3D-Multiview 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 20 --> 26
-    line [21, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 20 --> 27
+    line [21, 24, 25, 26]
 ```
 
-2026-10-18 21 → 2026-10-26 25（+4）
+2026-10-18 21 → 2026-10-27 26（+5）
 
 
 ---

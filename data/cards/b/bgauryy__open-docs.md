@@ -1,6 +1,6 @@
 # bgauryy/open-docs
 
-⭐ 518 · 推送 2026-01-20 · [GitHub](https://github.com/bgauryy/open-docs) · 个人维护
+⭐ 517 · 推送 2026-01-20 · [GitHub](https://github.com/bgauryy/open-docs) · 个人维护
 
 **AI CLI 编码工具的逆向深读文档库：解析架构与未文档化细节**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bgauryy/open-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "bgauryy/open-docs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 515 --> 519
-    line [517, 516, 518]
+    line [517, 516, 518, 517]
 ```
 
-2026-10-18 517 → 2026-10-26 518（+1）
+2026-10-18 517 → 2026-10-27 517（+0）
 
 
 ---

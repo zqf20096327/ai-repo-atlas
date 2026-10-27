@@ -1,6 +1,6 @@
 # mytechnotalent/rea
 
-⭐ 87 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mytechnotalent/rea) · 个人维护
+⭐ 90 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mytechnotalent/rea) · 个人维护
 
 **纯 Rust 逆向工程框架：一条命令生成二进制分析报告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mytechnotalent/rea 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 69 --> 88
-    line [70, 76, 80, 82, 85, 87]
+    title "mytechnotalent/rea 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 68 --> 92
+    line [70, 76, 80, 82, 85, 87, 90]
 ```
 
-2026-10-18 70 → 2026-10-26 87（+17）
+2026-10-18 70 → 2026-10-27 90（+20）
 
 
 ---

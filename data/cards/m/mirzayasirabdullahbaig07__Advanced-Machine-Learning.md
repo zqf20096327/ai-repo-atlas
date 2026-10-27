@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Advanced-Machine-Learning
 
-⭐ 46 · Python · 推送 2026-01-12 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Advanced-Machine-Learning) · 个人维护
+⭐ 47 · Python · 推送 2026-01-12 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Advanced-Machine-Learning) · 个人维护
 
 **机器学习学习路径仓库：从基础到进阶的笔记与代码实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/Advanced-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 47（+1）
 
 
 ---

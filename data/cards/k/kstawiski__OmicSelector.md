@@ -1,6 +1,6 @@
 # kstawiski/OmicSelector
 
-⭐ 36 · R · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/kstawiski/OmicSelector) · [官网](https://kstawiski.github.io/OmicSelector/) · 个人维护
+⭐ 36 · R · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kstawiski/OmicSelector) · [官网](https://kstawiski.github.io/OmicSelector/) · 个人维护
 
 **面向组学数据的生物标志物筛选与深度学习诊断 R 包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kstawiski/OmicSelector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

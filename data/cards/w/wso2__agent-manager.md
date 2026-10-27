@@ -1,6 +1,6 @@
 # wso2/agent-manager
 
-⭐ 111 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/wso2/agent-manager) · [官网](https://wso2.github.io/agent-manager/) · 组织维护
+⭐ 111 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/wso2/agent-manager) · [官网](https://wso2.github.io/agent-manager/) · 组织维护
 
 **企业级 AI agent 控制平面：大规模部署、治理与可观测**
 
@@ -45,12 +45,12 @@ WSO2 维护的开源控制平面，面向企业部署内部托管或外部部署
 ```mermaid
 xychart-beta
     title "wso2/agent-manager 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 108 --> 112
     line [109, 110, 111, 111]
 ```
 
-2026-10-18 109 → 2026-10-26 111（+2）
+2026-10-18 109 → 2026-10-27 111（+2）
 
 
 ---

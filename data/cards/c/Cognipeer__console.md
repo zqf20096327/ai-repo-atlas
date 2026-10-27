@@ -1,6 +1,6 @@
 # Cognipeer/console
 
-⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Cognipeer/console) · [官网](https://docs.cognipeer.com/console/) · 组织维护
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Cognipeer/console) · [官网](https://docs.cognipeer.com/console/) · 组织维护
 
 **面向多租户组织的自托管 AI 网关与一体化控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cognipeer/console 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

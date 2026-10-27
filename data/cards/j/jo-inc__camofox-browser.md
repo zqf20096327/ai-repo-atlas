@@ -1,6 +1,6 @@
 # jo-inc/camofox-browser
 
-⭐ 11,940 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jo-inc/camofox-browser) · [官网](https://github.com/jo-inc/camofox-browser#readme) · 组织维护
+⭐ 11,980 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jo-inc/camofox-browser) · [官网](https://github.com/jo-inc/camofox-browser#readme) · 组织维护
 
 **面向 AI agent 的反检测无头浏览器服务器，基于 Camoufox**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jo-inc/camofox-browser 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11625 --> 11968
-    line [11653, 11716, 11775, 11847, 11870, 11896, 11940]
+    title "jo-inc/camofox-browser 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11621 --> 12012
+    line [11653, 11716, 11775, 11847, 11870, 11896, 11940, 11980]
 ```
 
-2026-10-18 11,653 → 2026-10-26 11,940（+287）
+2026-10-18 11,653 → 2026-10-27 11,980（+327）
 
 
 ---

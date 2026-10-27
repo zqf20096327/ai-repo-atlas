@@ -46,12 +46,12 @@ OpenAI 维护的 React/浏览器层组件，用于在应用中嵌入基于 Realt
 ```mermaid
 xychart-beta
     title "openai/realtime-voice-component 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 885 --> 887
     line [886, 886]
 ```
 
-2026-10-18 886 → 2026-10-26 886（+0）
+2026-10-18 886 → 2026-10-27 886（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sIlENtbuffER/Generative-Models
 
-⭐ 160 · C · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sIlENtbuffER/Generative-Models) · 个人维护
+⭐ 159 · C · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sIlENtbuffER/Generative-Models) · 个人维护
 
 **从零实现生成式模型的学习项目：NumPy/C/CUDA 三层实现**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sIlENtbuffER/Generative-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 152 --> 161
-    line [153, 160, 160]
+    line [153, 160, 159]
 ```
 
-2026-10-18 153 → 2026-10-26 160（+7）
+2026-10-18 153 → 2026-10-27 159（+6）
 
 
 ---

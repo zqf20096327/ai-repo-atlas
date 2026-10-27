@@ -1,6 +1,6 @@
 # invoke-ai/InvokeAI
 
-⭐ 28,860 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
+⭐ 28,871 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/invoke-ai/InvokeAI) · [官网](https://invoke-ai.github.io/InvokeAI/) · 组织维护
 
 **面向创作者的 Stable Diffusion 本地图像生成 WebUI 与工作流工具**
 
@@ -51,13 +51,13 @@ Invoke 是一个基于 Stable Diffusion 系列模型的本地图像生成引擎�
 
 ```mermaid
 xychart-beta
-    title "invoke-ai/InvokeAI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 28689 --> 28875
-    line [28704, 28765, 28804, 28815, 28837, 28848, 28860]
+    title "invoke-ai/InvokeAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28688 --> 28887
+    line [28704, 28765, 28804, 28815, 28837, 28848, 28860, 28871]
 ```
 
-2026-10-18 28,704 → 2026-10-26 28,860（+156）
+2026-10-18 28,704 → 2026-10-27 28,871（+167）
 
 
 ---

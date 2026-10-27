@@ -1,6 +1,6 @@
 # ModelEngine-Group/app-platform
 
-⭐ 1,458 · Java · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ModelEngine-Group/app-platform) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
+⭐ 1,459 · Java · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ModelEngine-Group/app-platform) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
 
 **面向工程师与产品经理的低代码 AI 应用开发与编排平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelEngine-Group/app-platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "ModelEngine-Group/app-platform 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1455 --> 1460
-    line [1456, 1459, 1458]
+    line [1456, 1459, 1458, 1459]
 ```
 
-2026-10-18 1,456 → 2026-10-26 1,458（+2）
+2026-10-18 1,456 → 2026-10-27 1,459（+3）
 
 
 ---

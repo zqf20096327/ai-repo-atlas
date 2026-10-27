@@ -1,6 +1,6 @@
 # Agent-Field/CodeAF
 
-⭐ 546 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Agent-Field/CodeAF) · [官网](agentfield.ai/codeaf) · 组织维护
+⭐ 550 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Agent-Field/CodeAF) · [官网](agentfield.ai/codeaf) · 组织维护
 
 **面向开源模型的终端编码代理“工厂”，统一编排多项目任务**
 
@@ -45,13 +45,13 @@ CodeAF 是用 Go 编写的单二进制编码 harness（coding harness），面�
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/CodeAF 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 458 --> 554
-    line [466, 476, 486, 514, 527, 537, 546]
+    title "Agent-Field/CodeAF 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 458 --> 558
+    line [466, 476, 486, 514, 527, 537, 546, 550]
 ```
 
-2026-10-18 466 → 2026-10-26 546（+80）
+2026-10-18 466 → 2026-10-27 550（+84）
 
 
 ---

@@ -1,6 +1,6 @@
 # rlcode/reinforcement-learning
 
-⭐ 3,676 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/rlcode/reinforcement-learning) · 组织维护
+⭐ 3,677 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/rlcode/reinforcement-learning) · 组织维护
 
 **极简强化学习算法示例集：一算法一文件，从基础到深度 RL**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rlcode/reinforcement-learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3673 --> 3677
-    line [3674, 3676, 3674, 3675, 3676]
+    title "rlcode/reinforcement-learning 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3673 --> 3678
+    line [3674, 3676, 3674, 3675, 3676, 3677]
 ```
 
-2026-10-18 3,674 → 2026-10-26 3,676（+2）
+2026-10-18 3,674 → 2026-10-27 3,677（+3）
 
 
 ---

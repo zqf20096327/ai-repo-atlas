@@ -1,6 +1,6 @@
 # WagnerAgent/awesome-mcp-servers-devops
 
-⭐ 97 · CC0-1.0 · 推送 2026-10-14 · [GitHub](https://github.com/WagnerAgent/awesome-mcp-servers-devops) · [官网](https://trywagner.dev) · 个人维护
+⭐ 98 · CC0-1.0 · 推送 2026-10-14 · [GitHub](https://github.com/WagnerAgent/awesome-mcp-servers-devops) · [官网](https://trywagner.dev) · 个人维护
 
 **DevOps 领域 MCP 服务器策展清单：源码管理/IaC/K8s/CI-CD 等**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WagnerAgent/awesome-mcp-servers-devops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 98（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NodeDB-Lab/nodedb
 
-⭐ 234 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NodeDB-Lab/nodedb) · [官网](https://nodedb.dev) · 组织维护
+⭐ 235 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NodeDB-Lab/nodedb) · [官网](https://nodedb.dev) · 组织维护
 
 **面向 AI agent 的多模型内存与存储引擎，边到云、兼容 PostgreSQL**
 
@@ -47,12 +47,12 @@ NodeDB 是定位为 AI agent 记忆与存储引擎的多模数据库：向量、
 ```mermaid
 xychart-beta
     title "NodeDB-Lab/nodedb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 230 --> 235
-    line [231, 232, 233, 234, 234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 230 --> 236
+    line [231, 232, 233, 234, 235]
 ```
 
-2026-10-18 231 → 2026-10-26 234（+3）
+2026-10-18 231 → 2026-10-27 235（+4）
 
 
 ---

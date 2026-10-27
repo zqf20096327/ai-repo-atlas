@@ -1,6 +1,6 @@
 # microsoft/typeagent-py
 
-⭐ 893 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/typeagent-py) · 组织维护
+⭐ 893 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/typeagent-py) · 组织维护
 
 **微软的结构化 RAG 原型库：数据摄取、索引与查询**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/typeagent-py 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "microsoft/typeagent-py 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 890 --> 895
-    line [891, 892, 894, 893]
+    line [891, 892, 894, 893, 893]
 ```
 
-2026-10-18 891 → 2026-10-26 893（+2）
+2026-10-18 891 → 2026-10-27 893（+2）
 
 
 ---

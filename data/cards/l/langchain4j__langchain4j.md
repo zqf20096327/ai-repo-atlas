@@ -1,6 +1,6 @@
 # langchain4j/langchain4j
 
-⭐ 13,295 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
+⭐ 13,304 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/langchain4j/langchain4j) · [官网](https://docs.langchain4j.dev) · 组织维护
 
 **给 JVM/Java 开发者的 LLM 应用开发库**
 
@@ -51,13 +51,13 @@ LangChain4j 是一个面向 JVM 的开源 Java 库，目标是简化在 Java 应
 
 ```mermaid
 xychart-beta
-    title "langchain4j/langchain4j 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13255 --> 13298
-    line [13258, 13266, 13275, 13279, 13288, 13289, 13295]
+    title "langchain4j/langchain4j 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13254 --> 13308
+    line [13258, 13266, 13275, 13279, 13288, 13289, 13295, 13304]
 ```
 
-2026-10-18 13,258 → 2026-10-26 13,295（+37）
+2026-10-18 13,258 → 2026-10-27 13,304（+46）
 
 
 ---

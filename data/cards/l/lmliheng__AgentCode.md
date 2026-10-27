@@ -45,12 +45,12 @@ TypeScript pnpm 多包结构的 Agent 学习与实战仓库：packages/ 下拆�
 ```mermaid
 xychart-beta
     title "lmliheng/AgentCode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-26 54（+0）
+2026-10-18 54 → 2026-10-27 54（+0）
 
 
 ---

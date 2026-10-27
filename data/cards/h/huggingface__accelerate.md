@@ -1,6 +1,6 @@
 # huggingface/accelerate
 
-⭐ 9,924 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
+⭐ 9,926 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
 
 **让原生 PyTorch 训练脚本在任意设备/分布式配置上运行的轻量封装库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/accelerate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9915 --> 9925
-    line [9916, 9920, 9924, 9921, 9922, 9921, 9924]
+    title "huggingface/accelerate 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9915 --> 9927
+    line [9916, 9920, 9924, 9921, 9922, 9921, 9924, 9926]
 ```
 
-2026-10-18 9,916 → 2026-10-26 9,924（+8）
+2026-10-18 9,916 → 2026-10-27 9,926（+10）
 
 
 ---

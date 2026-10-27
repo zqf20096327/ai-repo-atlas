@@ -1,6 +1,6 @@
 # Q00/ouroboros
 
-⭐ 6,274 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护 · 中文 README
+⭐ 6,278 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的本地工作流运行时（Agent OS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Q00/ouroboros 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6233 --> 6277
-    line [6236, 6249, 6257, 6265, 6268, 6274]
+    title "Q00/ouroboros 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6232 --> 6282
+    line [6236, 6249, 6257, 6265, 6268, 6274, 6278]
 ```
 
-2026-10-18 6,236 → 2026-10-26 6,274（+38）
+2026-10-18 6,236 → 2026-10-27 6,278（+42）
 
 
 ---

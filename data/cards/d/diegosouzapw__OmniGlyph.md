@@ -1,6 +1,6 @@
 # diegosouzapw/OmniGlyph
 
-⭐ 143 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/diegosouzapw/OmniGlyph) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
+⭐ 144 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/diegosouzapw/OmniGlyph) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
 **本地代理：把 LLM 上下文渲染为 PNG 图像以削减 token 费用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "diegosouzapw/OmniGlyph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 135 --> 144
-    line [136, 138, 142, 143]
+    title "diegosouzapw/OmniGlyph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 135 --> 145
+    line [136, 138, 142, 143, 144]
 ```
 
-2026-10-18 136 → 2026-10-26 143（+7）
+2026-10-18 136 → 2026-10-27 144（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Accera
 
-⭐ 119 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/Accera) · [官网](https://microsoft.github.io/Accera) · 组织维护
+⭐ 119 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/Accera) · [官网](https://microsoft.github.io/Accera) · 组织维护
 
 **面向计算密集循环的跨平台优化编译器（Python 库）**
 
@@ -45,12 +45,12 @@ Accera 是微软研究院开源的编译器，以 Python 库形式提供，让�
 ```mermaid
 xychart-beta
     title "microsoft/Accera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 117 --> 120
     line [118, 119, 119]
 ```
 
-2026-10-18 118 → 2026-10-26 119（+1）
+2026-10-18 118 → 2026-10-27 119（+1）
 
 
 ---

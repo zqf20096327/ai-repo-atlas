@@ -1,6 +1,6 @@
 # w00000dy/ai-hand-detection
 
-⭐ 43 · JavaScript · 推送 2026-03-08 · [GitHub](https://github.com/w00000dy/ai-hand-detection) · [官网](https://hand-detection.ai.woody.pizza/) · 个人维护
+⭐ 44 · JavaScript · 推送 2026-03-08 · [GitHub](https://github.com/w00000dy/ai-hand-detection) · [官网](https://hand-detection.ai.woody.pizza/) · 个人维护
 
 **浏览器内 AI 手部检测 Web 应用，可用手势控制鼠标**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "w00000dy/ai-hand-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 44（+1）
 
 
 ---

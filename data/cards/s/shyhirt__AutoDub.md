@@ -45,13 +45,13 @@ Python 命令行脚本：用 OpenAI Whisper 转录视频音频并带时间戳，
 
 ```mermaid
 xychart-beta
-    title "shyhirt/AutoDub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "shyhirt/AutoDub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-26 31（+1）
+2026-10-18 30 → 2026-10-27 31（+1）
 
 
 ---

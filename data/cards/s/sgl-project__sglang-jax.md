@@ -1,6 +1,6 @@
 # sgl-project/sglang-jax
 
-⭐ 367 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sgl-project/sglang-jax) · 组织维护
+⭐ 368 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sgl-project/sglang-jax) · 组织维护
 
 **面向 TPU 的 JAX 大模型推理引擎，SGL 的 JAX 后端**
 
@@ -46,12 +46,12 @@ sgl-project 维护的 LLM 推理引擎，基于 JAX 并针对 Google TPU 优化�
 ```mermaid
 xychart-beta
     title "sgl-project/sglang-jax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 365 --> 368
-    line [366, 367, 367]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 365 --> 369
+    line [366, 367, 368]
 ```
 
-2026-10-18 366 → 2026-10-26 367（+1）
+2026-10-18 366 → 2026-10-27 368（+2）
 
 
 ---

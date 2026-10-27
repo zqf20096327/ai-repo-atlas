@@ -1,6 +1,6 @@
 # no-human-ai/no_human
 
-⭐ 331 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/no-human-ai/no_human) · [官网](https://getnohuman.com) · 组织维护 · 中文 README
+⭐ 329 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/no-human-ai/no_human) · [官网](https://getnohuman.com) · 组织维护 · 中文 README
 
 **本地运行的 AI 编码工厂：从工单到经审查的拉取请求**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "no-human-ai/no_human 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 329 --> 333
-    line [330, 332, 330, 331, 331]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 328 --> 333
+    line [330, 332, 330, 331, 329]
 ```
 
-2026-10-18 330 → 2026-10-26 331（+1）
+2026-10-18 330 → 2026-10-27 329（-1）
 
 
 ---

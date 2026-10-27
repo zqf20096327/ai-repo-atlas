@@ -46,12 +46,12 @@ Oracle DevRel 团队维护的 AI 解决方案集合，收录可部署应用、�
 ```mermaid
 xychart-beta
     title "oracle-devrel/ai-solutions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-26 25（+0）
+2026-10-18 25 → 2026-10-27 25（+0）
 
 
 ---

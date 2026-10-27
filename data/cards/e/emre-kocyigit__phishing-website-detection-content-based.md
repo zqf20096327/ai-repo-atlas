@@ -1,6 +1,6 @@
 # emre-kocyigit/phishing-website-detection-content-based
 
-⭐ 34 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/emre-kocyigit/phishing-website-detection-content-based) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/emre-kocyigit/phishing-website-detection-content-based) · 个人维护
 
 **基于 HTML 内容特征的钓鱼网站检测 ML 流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "emre-kocyigit/phishing-website-detection-content-based 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 32 --> 35
+    line [34, 33]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 33（-1）
 
 
 ---

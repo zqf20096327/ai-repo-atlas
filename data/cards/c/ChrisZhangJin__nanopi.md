@@ -1,6 +1,6 @@
 # ChrisZhangJin/nanopi
 
-⭐ 30 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ChrisZhangJin/nanopi) · 个人维护 · 中文 README
+⭐ 30 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ChrisZhangJin/nanopi) · 个人维护 · 中文 README
 
 **单文件约 4MB 静态 Rust 编码 agent CLI，适配老旧低资源 Linux**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChrisZhangJin/nanopi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

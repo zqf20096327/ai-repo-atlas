@@ -1,6 +1,6 @@
 # AI-Hypercomputer/maxtext
 
-⭐ 2,449 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AI-Hypercomputer/maxtext) · [官网](https://maxtext.readthedocs.io) · 组织维护
+⭐ 2,452 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AI-Hypercomputer/maxtext) · [官网](https://maxtext.readthedocs.io) · 组织维护
 
 **面向 TPU/GPU 的 JAX LLM 训练库：预训练与后训练多种开源模型**
 
@@ -46,12 +46,12 @@ Google AI Hypercomputer 组织维护的高性能、可扩展 LLM 库与参考实
 ```mermaid
 xychart-beta
     title "AI-Hypercomputer/maxtext 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2443 --> 2450
-    line [2444, 2445, 2446, 2448, 2449, 2449]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2443 --> 2453
+    line [2444, 2445, 2446, 2448, 2449, 2452]
 ```
 
-2026-10-18 2,444 → 2026-10-26 2,449（+5）
+2026-10-18 2,444 → 2026-10-27 2,452（+8）
 
 
 ---

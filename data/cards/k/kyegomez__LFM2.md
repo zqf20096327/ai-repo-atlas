@@ -1,6 +1,6 @@
 # kyegomez/LFM2
 
-⭐ 33 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kyegomez/LFM2) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/LFM2) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
 
 **Liquid AI LFM2 架构的 PyTorch 最小实现，供研究教育用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/LFM2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-26 33（+1）
+2026-10-18 32 → 2026-10-27 33（+1）
 
 
 ---

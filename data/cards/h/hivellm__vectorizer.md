@@ -1,6 +1,6 @@
 # hivellm/vectorizer
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hivellm/vectorizer) · 组织维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/hivellm/vectorizer) · 组织维护
 
 **Rust 内存向量数据库，面向语义搜索与 top-k 近邻查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hivellm/vectorizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 28（+1）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

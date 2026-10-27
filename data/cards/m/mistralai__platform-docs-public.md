@@ -1,6 +1,6 @@
 # mistralai/platform-docs-public
 
-⭐ 75 · MDX · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mistralai/platform-docs-public) · [官网](https://platform-docs-public-mistral-ai.vercel.app) · 组织维护
+⭐ 75 · MDX · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mistralai/platform-docs-public) · [官网](https://platform-docs-public-mistral-ai.vercel.app) · 组织维护
 
 **Mistral AI 官方 LLM 文档仓库：平台设置与 API 文档**
 
@@ -44,12 +44,12 @@ Mistral AI 维护的公开文档仓库，收录 Mistral LLM 平台设置与 API 
 ```mermaid
 xychart-beta
     title "mistralai/platform-docs-public 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 72 --> 76
     line [73, 74, 75, 75]
 ```
 
-2026-10-18 73 → 2026-10-26 75（+2）
+2026-10-18 73 → 2026-10-27 75（+2）
 
 
 ---

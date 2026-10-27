@@ -1,6 +1,6 @@
 # tover0314-w/opentypeless
 
-⭐ 640 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tover0314-w/opentypeless) · [官网](https://www.opentypeless.com) · 个人维护 · 中文 README
+⭐ 641 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tover0314-w/opentypeless) · [官网](https://www.opentypeless.com) · 个人维护 · 中文 README
 
 **跨平台 AI 语音输入工具：热键说话即得润色文本**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tover0314-w/opentypeless 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 621 --> 641
-    line [622, 625, 628, 629, 634, 636, 640]
+    title "tover0314-w/opentypeless 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 621 --> 642
+    line [622, 625, 628, 629, 634, 636, 640, 641]
 ```
 
-2026-10-18 622 → 2026-10-26 640（+18）
+2026-10-18 622 → 2026-10-27 641（+19）
 
 
 ---

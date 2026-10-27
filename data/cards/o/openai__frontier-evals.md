@@ -1,6 +1,6 @@
 # openai/frontier-evals
 
-⭐ 1,321 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/openai/frontier-evals) · 组织维护
+⭐ 1,323 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/openai/frontier-evals) · 组织维护
 
 **OpenAI 前沿模型能力评测代码集（PaperBench/SWE-Lancer 等）**
 
@@ -45,12 +45,12 @@ OpenAI 维护的前沿模型评测代码仓库，包含多个评测套件：Pape
 ```mermaid
 xychart-beta
     title "openai/frontier-evals 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1316 --> 1323
-    line [1317, 1321, 1322, 1321, 1321]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1316 --> 1324
+    line [1317, 1321, 1322, 1321, 1323]
 ```
 
-2026-10-18 1,317 → 2026-10-26 1,321（+4）
+2026-10-18 1,317 → 2026-10-27 1,323（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # dorylab/dory
 
-⭐ 306 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/dorylab/dory) · [官网](https://getdory.dev) · 组织维护
+⭐ 306 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dorylab/dory) · [官网](https://getdory.dev) · 组织维护
 
 **面向人类与 AI agent 的 SQL 工作台客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dorylab/dory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 303 --> 307
     line [304, 305, 306, 306]
 ```
 
-2026-10-18 304 → 2026-10-26 306（+2）
+2026-10-18 304 → 2026-10-27 306（+2）
 
 
 ---

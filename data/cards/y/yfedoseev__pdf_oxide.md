@@ -1,6 +1,6 @@
 # yfedoseev/pdf_oxide
 
-⭐ 1,091 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/yfedoseev/pdf_oxide) · [官网](https://oxide.fyi) · 个人维护
+⭐ 1,131 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/yfedoseev/pdf_oxide) · [官网](https://oxide.fyi) · 个人维护
 
 **面向 20 种语言的 PDF 处理库：提取、转换与编辑，附 CLI 与 MCP**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yfedoseev/pdf_oxide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1082 --> 1092
-    line [1083, 1088, 1089, 1090, 1091, 1091]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1079 --> 1135
+    line [1083, 1088, 1089, 1090, 1091, 1131]
 ```
 
-2026-10-18 1,083 → 2026-10-26 1,091（+8）
+2026-10-18 1,083 → 2026-10-27 1,131（+48）
 
 
 ---

@@ -1,6 +1,6 @@
 # lgy1027/matrix-live-diarizer
 
-⭐ 131 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/lgy1027/matrix-live-diarizer) · 个人维护 · 中文 README
+⭐ 132 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/lgy1027/matrix-live-diarizer) · 个人维护 · 中文 README
 
 **本机优先的会议转写工具：上传分离 + 实时字幕 + 声纹匹配**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lgy1027/matrix-live-diarizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 130 --> 134
-    line [133, 131, 131]
+    line [133, 131, 132]
 ```
 
-2026-10-18 133 → 2026-10-26 131（-2）
+2026-10-18 133 → 2026-10-27 132（-1）
 
 
 ---

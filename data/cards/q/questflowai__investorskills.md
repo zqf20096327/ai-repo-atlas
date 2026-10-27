@@ -1,6 +1,6 @@
 # questflowai/investorskills
 
-⭐ 1,882 · Swift · MIT · 推送 2026-08-23 · [GitHub](https://github.com/questflowai/investorskills) · [官网](https://questflow.ai) · 组织维护
+⭐ 1,885 · Swift · MIT · 推送 2026-08-23 · [GitHub](https://github.com/questflowai/investorskills) · [官网](https://questflow.ai) · 组织维护
 
 **历史著名投资者判断体系的开源技能包库，供 AI 金融 agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "questflowai/investorskills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1874 --> 1925
-    line [1911, 1918, 1921, 1878, 1881, 1882, 1882]
+    line [1911, 1918, 1921, 1878, 1881, 1882, 1885]
 ```
 
-2026-10-18 1,911 → 2026-10-26 1,882（-29）
+2026-10-18 1,911 → 2026-10-27 1,885（-26）
 
 
 ---

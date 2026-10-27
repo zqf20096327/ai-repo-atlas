@@ -45,13 +45,13 @@ ScrapeGraphAI 官方命令行工具，封装 ScrapeGraph AI API 工作流：将�
 
 ```mermaid
 xychart-beta
-    title "ScrapeGraphAI/just-scrape 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "ScrapeGraphAI/just-scrape 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 69 --> 74
-    line [70, 71, 72, 73]
+    line [70, 71, 72, 73, 73]
 ```
 
-2026-10-18 70 → 2026-10-26 73（+3）
+2026-10-18 70 → 2026-10-27 73（+3）
 
 
 ---

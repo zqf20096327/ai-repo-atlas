@@ -1,6 +1,6 @@
 # mizorewww/laya-mlx
 
-⭐ 7,024 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mizorewww/laya-mlx) · [官网](https://pypi.org/project/laya-mlx/) · 个人维护 · 中文 README
+⭐ 7,027 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/mizorewww/laya-mlx) · [官网](https://pypi.org/project/laya-mlx/) · 个人维护 · 中文 README
 
 **Laya 类型化决策模型的 MLX 本地推理运行时（Apple Silicon）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mizorewww/laya-mlx 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6947 --> 7031
-    line [6954, 6978, 6994, 7002, 7013, 7019, 7024]
+    title "mizorewww/laya-mlx 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6947 --> 7034
+    line [6954, 6978, 6994, 7002, 7013, 7019, 7024, 7027]
 ```
 
-2026-10-18 6,954 → 2026-10-26 7,024（+70）
+2026-10-18 6,954 → 2026-10-27 7,027（+73）
 
 
 ---

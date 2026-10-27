@@ -1,6 +1,6 @@
 # ymybxx/SoloMCN
 
-⭐ 71 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ymybxx/SoloMCN) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ymybxx/SoloMCN) · 个人维护 · 中文 README
 
 **让 Claude Code 全程操刀短视频创作与多平台发布的工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ymybxx/SoloMCN 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 58 --> 72
-    line [59, 65, 68, 70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 58 --> 73
+    line [59, 65, 68, 70, 71, 72]
 ```
 
-2026-10-18 59 → 2026-10-26 71（+12）
+2026-10-18 59 → 2026-10-27 72（+13）
 
 
 ---

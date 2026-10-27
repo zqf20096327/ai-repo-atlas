@@ -1,6 +1,6 @@
 # mock-server/mockserver-monorepo
 
-⭐ 4,997 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mock-server/mockserver-monorepo) · [官网](https://www.mock-server.com) · 个人维护
+⭐ 4,999 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mock-server/mockserver-monorepo) · [官网](https://www.mock-server.com) · 个人维护
 
 **测试用 HTTP(S) mock 服务器与代理，支持 mock AI/LLM API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mock-server/mockserver-monorepo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4992 --> 4998
-    line [4993, 4995, 4996, 4997]
+    title "mock-server/mockserver-monorepo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4992 --> 5000
+    line [4993, 4995, 4996, 4997, 4999]
 ```
 
-2026-10-18 4,993 → 2026-10-26 4,997（+4）
+2026-10-18 4,993 → 2026-10-27 4,999（+6）
 
 
 ---

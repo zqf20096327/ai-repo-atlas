@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FraidoonOmarzai/Comprehensive_AI_ML_RESOURCES 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-10-26 39（+1）
+2026-10-18 38 → 2026-10-27 39（+1）
 
 
 ---

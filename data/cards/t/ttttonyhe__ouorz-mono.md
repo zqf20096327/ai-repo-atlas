@@ -1,6 +1,6 @@
 # ttttonyhe/ouorz-mono
 
-⭐ 1,068 · TypeScript · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ttttonyhe/ouorz-mono) · [官网](https://lipeng.ac) · 个人维护 · 中文 README
+⭐ 1,068 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ttttonyhe/ouorz-mono) · [官网](https://lipeng.ac) · 个人维护 · 中文 README
 
 **个人网站与学术主页的 monorepo（前端+WordPress+统计）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ttttonyhe/ouorz-mono 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1067 --> 1071
     line [1069, 1068, 1069, 1070, 1068, 1068]
 ```
 
-2026-10-18 1,069 → 2026-10-26 1,068（-1）
+2026-10-18 1,069 → 2026-10-27 1,068（-1）
 
 
 ---

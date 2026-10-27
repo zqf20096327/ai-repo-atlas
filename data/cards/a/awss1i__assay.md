@@ -1,6 +1,6 @@
 # awss1i/assay
 
-⭐ 108 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/awss1i/assay) · [官网](https://pypi.org/project/assay-ui/) · 个人维护 · 中文 README
+⭐ 109 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/awss1i/assay) · [官网](https://pypi.org/project/assay-ui/) · 个人维护 · 中文 README
 
 **面向编码 agent 的网页确定性 QA CLI：自动发现控件并检查**
 
@@ -45,12 +45,12 @@ assay 是一个用 pip 安装的 Python 命令行工具：在 Chromium 中打开
 ```mermaid
 xychart-beta
     title "awss1i/assay 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 109]
 ```
 
-2026-10-18 107 → 2026-10-26 108（+1）
+2026-10-18 107 → 2026-10-27 109（+2）
 
 
 ---

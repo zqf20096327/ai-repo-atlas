@@ -1,6 +1,6 @@
 # OpenRouterTeam/ai-sdk-provider
 
-⭐ 690 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
+⭐ 691 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
 
 **让 Vercel AI SDK 接入 OpenRouter 300+ 模型的 provider 包**
 
@@ -45,12 +45,12 @@ OpenRouter 官方维护的 Vercel AI SDK provider：通过 OpenRouter chat/compl
 ```mermaid
 xychart-beta
     title "OpenRouterTeam/ai-sdk-provider 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 689 --> 693
-    line [691, 692, 690, 690]
+    line [691, 692, 690, 691]
 ```
 
-2026-10-18 691 → 2026-10-26 690（-1）
+2026-10-18 691 → 2026-10-27 691（+0）
 
 
 ---

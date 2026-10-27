@@ -1,6 +1,6 @@
 # Alisa0808/vibe-creating-skill
 
-⭐ 152 · JavaScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/Alisa0808/vibe-creating-skill) · [官网](https://www.atlascloud.ai?ref=F27PTG) · 个人维护 · 中文 README
+⭐ 153 · JavaScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/Alisa0808/vibe-creating-skill) · [官网](https://www.atlascloud.ai?ref=F27PTG) · 个人维护 · 中文 README
 
 **给视频创作者的 AI 文生视频提示词改写技能（Agent Skill）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alisa0808/vibe-creating-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 149 --> 153
-    line [150, 151, 152]
+    title "Alisa0808/vibe-creating-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 149 --> 154
+    line [150, 151, 152, 153]
 ```
 
-2026-10-18 150 → 2026-10-26 152（+2）
+2026-10-18 150 → 2026-10-27 153（+3）
 
 
 ---

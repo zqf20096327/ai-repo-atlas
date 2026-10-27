@@ -1,6 +1,6 @@
 # GioiaZheng/msmarco-genqa
 
-⭐ 34 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GioiaZheng/msmarco-genqa) · [官网](https://gioiazheng.github.io/projects/msmarco-genqa/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/GioiaZheng/msmarco-genqa) · [官网](https://gioiazheng.github.io/projects/msmarco-genqa/) · 个人维护
 
 **MS MARCO 检索增强问答流水线：检索、重排、生成与统计评测的可复现实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GioiaZheng/msmarco-genqa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # qntx/openai-python
 
-⭐ 262 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/qntx/openai-python) · [官网](https://pypi.org/project/x402-openai/) · 个人维护
+⭐ 262 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/qntx/openai-python) · [官网](https://pypi.org/project/x402-openai/) · 个人维护
 
 **带 x402 透明支付支持的 OpenAI Python 客户端替换库**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "qntx/openai-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 261 --> 263
     line [262, 262]
 ```
 
-2026-10-18 262 → 2026-10-26 262（+0）
+2026-10-18 262 → 2026-10-27 262（+0）
 
 
 ---

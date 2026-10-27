@@ -1,6 +1,6 @@
 # smallchristy123/mcmeal-compass
 
-⭐ 117 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/smallchristy123/mcmeal-compass) · 个人维护 · 中文 README
+⭐ 122 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/smallchristy123/mcmeal-compass) · 个人维护 · 中文 README
 
 **基于麦当劳中国官方 MCP 的营养搭配与官方计价 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smallchristy123/mcmeal-compass 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 0 --> 127
-    line [8, 17, 43, 54, 61, 117]
+    title "smallchristy123/mcmeal-compass 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 133
+    line [8, 17, 43, 54, 61, 117, 122]
 ```
 
-2026-10-19 8 → 2026-10-26 117（+109）
+2026-10-19 8 → 2026-10-27 122（+114）
 
 
 ---

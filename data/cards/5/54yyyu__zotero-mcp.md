@@ -1,6 +1,6 @@
 # 54yyyu/zotero-mcp
 
-⭐ 5,564 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/54yyyu/zotero-mcp) · [官网](https://stevenyuyy.com/zotero-mcp/) · 个人维护
+⭐ 5,579 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/54yyyu/zotero-mcp) · [官网](https://stevenyuyy.com/zotero-mcp/) · 个人维护
 
 **将 Zotero 文献库接入 Claude/ChatGPT 等 AI 助手的 MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "54yyyu/zotero-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 5431 --> 5576
-    line [5443, 5474, 5504, 5527, 5539, 5549, 5564]
+    title "54yyyu/zotero-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 5430 --> 5592
+    line [5443, 5474, 5504, 5527, 5539, 5549, 5564, 5579]
 ```
 
-2026-10-18 5,443 → 2026-10-26 5,564（+121）
+2026-10-18 5,443 → 2026-10-27 5,579（+136）
 
 
 ---

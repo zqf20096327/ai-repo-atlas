@@ -1,6 +1,6 @@
 # bhimrazy/receipt-ocr
 
-⭐ 746 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/bhimrazy/receipt-ocr) · [官网](https://pypi.org/project/receipt-ocr) · 个人维护
+⭐ 746 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bhimrazy/receipt-ocr) · [官网](https://pypi.org/project/receipt-ocr) · 个人维护
 
 **收据图片 OCR 与 LLM 结构化数据提取引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bhimrazy/receipt-ocr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 743 --> 747
     line [744, 745, 746, 746]
 ```
 
-2026-10-18 744 → 2026-10-26 746（+2）
+2026-10-18 744 → 2026-10-27 746（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-VL-Embedding
 
-⭐ 1,408 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/QwenLM/Qwen3-VL-Embedding) · 组织维护 · 中文 README
+⭐ 1,414 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/QwenLM/Qwen3-VL-Embedding) · 组织维护 · 中文 README
 
 **基于 Qwen3-VL 的多模态嵌入与重排序模型系列（2B/8B）**
 
@@ -45,13 +45,13 @@ Qwen 团队在 Qwen3-VL 基础模型上构建的检索模型套件：Embedding �
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen3-VL-Embedding 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1405 --> 1410
-    line [1406, 1407, 1409, 1408]
+    title "QwenLM/Qwen3-VL-Embedding 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1405 --> 1415
+    line [1406, 1407, 1409, 1408, 1414]
 ```
 
-2026-10-18 1,406 → 2026-10-26 1,408（+2）
+2026-10-18 1,406 → 2026-10-27 1,414（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/local-deep-researcher
 
-⭐ 9,389 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/local-deep-researcher) · 组织维护
+⭐ 9,390 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/langchain-ai/local-deep-researcher) · 组织维护
 
 **全本地化网络深度研究助手：给定主题自动多轮搜索并生成报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/local-deep-researcher 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9374 --> 9390
-    line [9375, 9378, 9383, 9387, 9386, 9388, 9389]
+    title "langchain-ai/local-deep-researcher 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9374 --> 9391
+    line [9375, 9378, 9383, 9387, 9386, 9388, 9389, 9390]
 ```
 
-2026-10-18 9,375 → 2026-10-26 9,389（+14）
+2026-10-18 9,375 → 2026-10-27 9,390（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # calesthio/generative-media-skills
 
-⭐ 215 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/calesthio/generative-media-skills) · [官网](https://github.com/calesthio/OpenMontage) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/calesthio/generative-media-skills) · [官网](https://github.com/calesthio/OpenMontage) · 个人维护
 
 **面向 AI 编码助手的生成式媒体制作技能库（153 个技能包）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "calesthio/generative-media-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 204 --> 216
-    line [205, 206, 210, 212, 213, 214, 215]
+    title "calesthio/generative-media-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 204 --> 217
+    line [205, 206, 210, 212, 213, 214, 215, 216]
 ```
 
-2026-10-18 205 → 2026-10-26 215（+10）
+2026-10-18 205 → 2026-10-27 216（+11）
 
 
 ---

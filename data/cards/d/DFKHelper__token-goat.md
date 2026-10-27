@@ -1,6 +1,6 @@
 # DFKHelper/token-goat
 
-⭐ 143 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
+⭐ 143 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
 
 **AI 编码工具的 token 消耗拦截器：削减重复读取与注入防御**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DFKHelper/token-goat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 140 --> 144
     line [141, 143, 143]
 ```
 
-2026-10-18 141 → 2026-10-26 143（+2）
+2026-10-18 141 → 2026-10-27 143（+2）
 
 
 ---

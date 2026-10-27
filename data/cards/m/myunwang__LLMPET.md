@@ -1,6 +1,6 @@
 # myunwang/LLMPET
 
-⭐ 125 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/myunwang/LLMPET) · 个人维护 · 中文 README
+⭐ 126 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/myunwang/LLMPET) · 个人维护 · 中文 README
 
 **监控 Claude Code/Codex/dsh 的桌宠工作台：状态表情、会话管理与交接**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "myunwang/LLMPET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 123 --> 126
-    line [124, 125]
+    title "myunwang/LLMPET 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 123 --> 127
+    line [124, 125, 126]
 ```
 
-2026-10-18 124 → 2026-10-26 125（+1）
+2026-10-18 124 → 2026-10-27 126（+2）
 
 
 ---

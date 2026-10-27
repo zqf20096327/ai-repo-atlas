@@ -1,6 +1,6 @@
 # ItsJazii/pane
 
-⭐ 81 · Rust · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ItsJazii/pane) · [官网](https://trypane.xyz) · 个人维护 · 中文 README
+⭐ 81 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ItsJazii/pane) · [官网](https://trypane.xyz) · 个人维护 · 中文 README
 
 **Windows 托盘应用：统一查看 25+ AI 订阅的额度与花费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ItsJazii/pane 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 76 --> 82
     line [77, 78, 79, 81, 81]
 ```
 
-2026-10-18 77 → 2026-10-26 81（+4）
+2026-10-18 77 → 2026-10-27 81（+4）
 
 
 ---

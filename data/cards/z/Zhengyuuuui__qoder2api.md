@@ -1,6 +1,6 @@
 # Zhengyuuuui/qoder2api
 
-⭐ 98 · Go · 推送 2026-10-23 · [GitHub](https://github.com/Zhengyuuuui/qoder2api) · 个人维护 · 中文 README
+⭐ 102 · Go · 推送 2026-10-26 · [GitHub](https://github.com/Zhengyuuuui/qoder2api) · 个人维护 · 中文 README
 
 **将 Qoder AI 服务转为 OpenAI/Claude/Codex 兼容 API 的网关**
 
@@ -45,13 +45,13 @@ Go 编写的 API 网关，把 Qoder 的模型服务桥接为 OpenAI / Claude / C
 
 ```mermaid
 xychart-beta
-    title "Zhengyuuuui/qoder2api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 70 --> 100
-    line [72, 76, 91, 94, 96, 98]
+    title "Zhengyuuuui/qoder2api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 69 --> 105
+    line [72, 76, 91, 94, 96, 98, 102]
 ```
 
-2026-10-18 72 → 2026-10-26 98（+26）
+2026-10-18 72 → 2026-10-27 102（+30）
 
 
 ---

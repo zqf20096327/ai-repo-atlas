@@ -1,6 +1,6 @@
 # neondatabase/examples
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/neondatabase/examples) · [官网](https://fuzzy-semantic-search-nextjs-theta.vercel.app) · 组织维护
+⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/neondatabase/examples) · [官网](https://fuzzy-semantic-search-nextjs-theta.vercel.app) · 组织维护
 
 **Neon 云 Postgres 的集成示例与起步工程合集**
 
@@ -46,12 +46,12 @@ Neon 官方维护的示例仓库：每个子目录是独立可运行示例，克
 ```mermaid
 xychart-beta
     title "neondatabase/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-26 81（+0）
+2026-10-18 81 → 2026-10-27 81（+0）
 
 
 ---

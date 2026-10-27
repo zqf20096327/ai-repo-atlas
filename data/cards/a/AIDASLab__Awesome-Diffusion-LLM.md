@@ -1,6 +1,6 @@
 # AIDASLab/Awesome-Diffusion-LLM
 
-⭐ 108 · 推送 2026-10-22 · [GitHub](https://github.com/AIDASLab/Awesome-Diffusion-LLM) · 组织维护 · 中文 README
+⭐ 109 · 推送 2026-10-22 · [GitHub](https://github.com/AIDASLab/Awesome-Diffusion-LLM) · 组织维护 · 中文 README
 
 **扩散语言模型（dLLM）研究论文的策展清单，供研究者查阅**
 
@@ -45,12 +45,12 @@ AIDASLab 维护的 Large-Language-Diffusion-Models 论文聚合清单：按综�
 ```mermaid
 xychart-beta
     title "AIDASLab/Awesome-Diffusion-LLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 104 --> 109
-    line [105, 106, 108, 108]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 104 --> 110
+    line [105, 106, 108, 109]
 ```
 
-2026-10-18 105 → 2026-10-26 108（+3）
+2026-10-18 105 → 2026-10-27 109（+4）
 
 
 ---

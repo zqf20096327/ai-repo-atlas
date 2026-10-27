@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-gcp
 
-⭐ 33 · HCL · MIT · 推送 2026-10-19 · [GitHub](https://github.com/langfuse/langfuse-terraform-gcp) · 组织维护
+⭐ 33 · HCL · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langfuse/langfuse-terraform-gcp) · 组织维护
 
 **在 GCP 上部署 Langfuse 的 Terraform 模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-terraform-gcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

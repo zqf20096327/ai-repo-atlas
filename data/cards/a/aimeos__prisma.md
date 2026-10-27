@@ -1,6 +1,6 @@
 # aimeos/prisma
 
-⭐ 239 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aimeos/prisma) · [官网](https://php-prisma.org) · 组织维护
+⭐ 239 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aimeos/prisma) · [官网](https://php-prisma.org) · 组织维护
 
 **PHP 多模态 LLM 统一集成包：一套接口接入 40+ 供应商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aimeos/prisma 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    title "aimeos/prisma 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 235 --> 240
-    line [236, 237, 238, 239]
+    line [236, 237, 238, 239, 239]
 ```
 
-2026-10-18 236 → 2026-10-26 239（+3）
+2026-10-18 236 → 2026-10-27 239（+3）
 
 
 ---

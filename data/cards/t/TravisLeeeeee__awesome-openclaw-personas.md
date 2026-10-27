@@ -1,6 +1,6 @@
 # TravisLeeeeee/awesome-openclaw-personas
 
-⭐ 111 · 推送 2026-04-08 · [GitHub](https://github.com/TravisLeeeeee/awesome-openclaw-personas) · [官网](https://deskclaw.net) · 组织维护 · 中文 README
+⭐ 112 · 推送 2026-04-08 · [GitHub](https://github.com/TravisLeeeeee/awesome-openclaw-personas) · [官网](https://deskclaw.net) · 组织维护 · 中文 README
 
 **面向 OpenClaw 的 214+ 个 AI agent 人格配置策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TravisLeeeeee/awesome-openclaw-personas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 112]
 ```
 
-2026-10-18 110 → 2026-10-26 111（+1）
+2026-10-18 110 → 2026-10-27 112（+2）
 
 
 ---

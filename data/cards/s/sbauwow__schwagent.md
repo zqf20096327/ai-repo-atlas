@@ -1,6 +1,6 @@
 # sbauwow/schwagent
 
-⭐ 26 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/sbauwow/schwagent) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/sbauwow/schwagent) · 个人维护
 
 **面向 Charles Schwab API 的自动化量化交易 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sbauwow/schwagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-10-26 26（+1）
+2026-10-18 25 → 2026-10-27 27（+2）
 
 
 ---

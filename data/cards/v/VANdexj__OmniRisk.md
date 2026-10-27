@@ -1,6 +1,6 @@
 # VANdexj/OmniRisk
 
-⭐ 54 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/VANdexj/OmniRisk) · [官网](https://arxiv.org/abs/2609.18191) · 组织维护
+⭐ 55 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/VANdexj/OmniRisk) · [官网](https://arxiv.org/abs/2609.18191) · 组织维护
 
 **四旋翼全向轨迹风险学习：机载一次前向评估全部机动避障**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VANdexj/OmniRisk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 46 --> 55
-    line [47, 51, 52, 53, 54]
+    title "VANdexj/OmniRisk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 46 --> 56
+    line [47, 51, 52, 53, 54, 55]
 ```
 
-2026-10-18 47 → 2026-10-26 54（+7）
+2026-10-18 47 → 2026-10-27 55（+8）
 
 
 ---

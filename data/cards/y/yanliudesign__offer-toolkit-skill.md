@@ -1,6 +1,6 @@
 # yanliudesign/offer-toolkit-skill
 
-⭐ 540 · HTML · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yanliudesign/offer-toolkit-skill) · 个人维护 · 中文 README
+⭐ 542 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yanliudesign/offer-toolkit-skill) · 个人维护 · 中文 README
 
 **求职全流程 Claude 技能包：找工作、JD 分析、简历、面试、比薪、谈薪六件套**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yanliudesign/offer-toolkit-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 531 --> 541
-    line [532, 538, 539, 540, 538, 539, 540]
+    title "yanliudesign/offer-toolkit-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 531 --> 543
+    line [532, 538, 539, 540, 538, 539, 540, 542]
 ```
 
-2026-10-18 532 → 2026-10-26 540（+8）
+2026-10-18 532 → 2026-10-27 542（+10）
 
 
 ---

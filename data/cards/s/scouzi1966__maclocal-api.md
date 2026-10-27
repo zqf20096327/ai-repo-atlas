@@ -1,6 +1,6 @@
 # scouzi1966/maclocal-api
 
-⭐ 349 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/scouzi1966/maclocal-api) · 个人维护
+⭐ 349 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/scouzi1966/maclocal-api) · 个人维护
 
 **把 Apple Silicon Mac 变成本地 OpenAI 兼容 AI 服务器的 CLI**
 
@@ -46,13 +46,13 @@ Swift 编写的 macOS 本地推理服务：通过 `afm` 命令启动本地 OpenA
 
 ```mermaid
 xychart-beta
-    title "scouzi1966/maclocal-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "scouzi1966/maclocal-api 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 346 --> 350
-    line [347, 348, 349]
+    line [347, 348, 349, 349]
 ```
 
-2026-10-18 347 → 2026-10-26 349（+2）
+2026-10-18 347 → 2026-10-27 349（+2）
 
 
 ---

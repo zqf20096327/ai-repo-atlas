@@ -46,12 +46,12 @@ Electron + React + TypeScript 构建的 macOS（13+，Apple Silicon）桌面应�
 ```mermaid
 xychart-beta
     title "runta-dev/errand 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 133 --> 137
     line [134, 136, 136]
 ```
 
-2026-10-18 134 → 2026-10-26 136（+2）
+2026-10-18 134 → 2026-10-27 136（+2）
 
 
 ---

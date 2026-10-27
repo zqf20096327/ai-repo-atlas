@@ -1,6 +1,6 @@
 # gokayfem/awesome-vlm-architectures
 
-⭐ 1,341 · Markdown · CC0-1.0 · 推送 2026-07-31 · [GitHub](https://github.com/gokayfem/awesome-vlm-architectures) · 个人维护
+⭐ 1,342 · Markdown · CC0-1.0 · 推送 2026-07-31 · [GitHub](https://github.com/gokayfem/awesome-vlm-architectures) · 个人维护
 
 **155+ 视觉-语言模型架构的可视化编目清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gokayfem/awesome-vlm-architectures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1338 --> 1342
-    line [1339, 1341, 1341]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 1338 --> 1343
+    line [1339, 1341, 1342]
 ```
 
-2026-10-18 1,339 → 2026-10-26 1,341（+2）
+2026-10-18 1,339 → 2026-10-27 1,342（+3）
 
 
 ---

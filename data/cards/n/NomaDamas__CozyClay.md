@@ -1,6 +1,6 @@
 # NomaDamas/CozyClay
 
-⭐ 1,029 · JavaScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/NomaDamas/CozyClay) · [官网](https://cozyclay.org) · 组织维护
+⭐ 1,098 · JavaScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/NomaDamas/CozyClay) · [官网](https://cozyclay.org) · 组织维护
 
 **浏览器中的开源 3D 预演工具：排布场景与运镜后交给 AI 视频模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NomaDamas/CozyClay 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 781 --> 1051
-    line [803, 808, 880, 920, 972, 999, 1029]
+    title "NomaDamas/CozyClay 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 774 --> 1127
+    line [803, 808, 880, 920, 972, 999, 1029, 1098]
 ```
 
-2026-10-18 803 → 2026-10-26 1,029（+226）
+2026-10-18 803 → 2026-10-27 1,098（+295）
 
 
 ---

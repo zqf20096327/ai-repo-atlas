@@ -46,12 +46,12 @@ XLang 是一门 agent 原生的动态编程语言，采用类 Python 语法与�
 ```mermaid
 xychart-beta
     title "xlang-foundation/xlang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-26 73（+0）
+2026-10-18 73 → 2026-10-27 73（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tryAGI/HuggingFace
 
-⭐ 58 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tryAGI/HuggingFace) · [官网](https://tryagi.github.io/HuggingFace/) · 组织维护
+⭐ 58 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/HuggingFace) · [官网](https://tryagi.github.io/HuggingFace/) · 组织维护
 
 **面向 .NET 开发者的 Hugging Face API C# SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tryAGI/HuggingFace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

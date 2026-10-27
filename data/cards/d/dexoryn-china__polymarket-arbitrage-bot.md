@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dexoryn-china/polymarket-arbitrage-bot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-23", "2026-10-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-23 42 → 2026-10-26 42（+0）
+2026-10-23 42 → 2026-10-27 42（+0）
 
 
 ---

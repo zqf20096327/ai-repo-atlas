@@ -1,6 +1,6 @@
 # AndersonBY/vector-vein
 
-⭐ 940 · Vue · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/AndersonBY/vector-vein) · [官网](https://vectorvein.ai) · 个人维护 · 中文 README
+⭐ 940 · Vue · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AndersonBY/vector-vein) · [官网](https://vectorvein.ai) · 个人维护 · 中文 README
 
 **无代码 AI 工作流桌面软件：拖拽节点搭建自动化流程**
 
@@ -47,12 +47,12 @@ VectorVein 是基于 pywebview 的无代码 AI 工作流软件，用户通过拖
 ```mermaid
 xychart-beta
     title "AndersonBY/vector-vein 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 939 --> 941
     line [940, 940]
 ```
 
-2026-10-18 940 → 2026-10-26 940（+0）
+2026-10-18 940 → 2026-10-27 940（+0）
 
 
 ---

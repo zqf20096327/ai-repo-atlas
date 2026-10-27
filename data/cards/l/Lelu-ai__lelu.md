@@ -1,6 +1,6 @@
 # Lelu-ai/lelu
 
-⭐ 68 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Lelu-ai/lelu) · [官网](https://lelu-ai.com/) · 组织维护
+⭐ 68 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Lelu-ai/lelu) · [官网](https://lelu-ai.com/) · 组织维护
 
 **AI agent 授权引擎：每次行动前判定允许/拒绝/人工审查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lelu-ai/lelu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-26 68（+0）
+2026-10-18 68 → 2026-10-27 68（+0）
 
 
 ---

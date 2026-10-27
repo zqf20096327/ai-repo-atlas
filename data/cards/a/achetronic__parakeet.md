@@ -1,6 +1,6 @@
 # achetronic/parakeet
 
-⭐ 330 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/achetronic/parakeet) · 个人维护
+⭐ 334 · Go · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/achetronic/parakeet) · 个人维护
 
 **Go 编写的 Whisper 兼容 ASR 服务器，基于 Parakeet ONNX 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "achetronic/parakeet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 318 --> 331
-    line [319, 321, 324, 326, 330]
+    title "achetronic/parakeet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 318 --> 335
+    line [319, 321, 324, 326, 330, 334]
 ```
 
-2026-10-18 319 → 2026-10-26 330（+11）
+2026-10-18 319 → 2026-10-27 334（+15）
 
 
 ---

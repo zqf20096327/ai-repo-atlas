@@ -45,13 +45,13 @@ Chainbase 团队维护的区块链数据流处理框架：用户以 manuscript.y
 
 ```mermaid
 xychart-beta
-    title "chainbase-labs/manuscript-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "chainbase-labs/manuscript-core 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 689 --> 693
-    line [690, 691, 692]
+    line [690, 691, 692, 692]
 ```
 
-2026-10-18 690 → 2026-10-26 692（+2）
+2026-10-18 690 → 2026-10-27 692（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-checkpoint-rewind
 
-⭐ 30 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/PerryLink/dsh-checkpoint-rewind) · [官网](https://perrylink.github.io/plugins/dsh-checkpoint-rewind/) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-checkpoint-rewind) · [官网](https://perrylink.github.io/plugins/dsh-checkpoint-rewind/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的检查点/回滚插件：三态快照一键恢复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-checkpoint-rewind 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 24 --> 31
     line [25, 27, 29, 30, 30]
 ```
 
-2026-10-18 25 → 2026-10-26 30（+5）
+2026-10-18 25 → 2026-10-27 30（+5）
 
 
 ---

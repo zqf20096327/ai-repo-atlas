@@ -1,6 +1,6 @@
 # yuga-hashimoto/and-code
 
-⭐ 184 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护 · 中文 README
+⭐ 190 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护 · 中文 README
 
 **Android 原生 GUI：在手机上本地或远程运行 AI 编程 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuga-hashimoto/and-code 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 154 --> 186
-    line [156, 165, 168, 169, 175, 177, 184]
+    title "yuga-hashimoto/and-code 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 153 --> 193
+    line [156, 165, 168, 169, 175, 177, 184, 190]
 ```
 
-2026-10-18 156 → 2026-10-26 184（+28）
+2026-10-18 156 → 2026-10-27 190（+34）
 
 
 ---

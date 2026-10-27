@@ -1,6 +1,6 @@
 # ufo-ai/ufo-core
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ufo-ai/ufo-core) · [官网](https://ufo.ai) · 组织维护
+⭐ 99 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/ufo-ai/ufo-core) · [官网](https://ufo.ai) · 组织维护
 
 **面向团队自托管的 AI agent 运行时与终端客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ufo-ai/ufo-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    line [99, 100, 99]
 ```
 
-2026-10-18 99 → 2026-10-26 100（+1）
+2026-10-18 99 → 2026-10-27 99（+0）
 
 
 ---

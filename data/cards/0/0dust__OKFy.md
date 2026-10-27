@@ -1,6 +1,6 @@
 # 0dust/OKFy
 
-⭐ 74 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/0dust/OKFy) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/0dust/OKFy) · 个人维护
 
 **把文档转成 agent 可检索的本地知识包（MCP 服务器）**
 
@@ -46,12 +46,12 @@ npm 包（okfy-ai）与 CLI：把文档网站或 Markdown/Obsidian 文件夹爬�
 ```mermaid
 xychart-beta
     title "0dust/OKFy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 75（+1）
 
 
 ---

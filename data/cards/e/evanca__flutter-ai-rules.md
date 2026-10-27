@@ -1,6 +1,6 @@
 # evanca/flutter-ai-rules
 
-⭐ 660 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
+⭐ 662 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
 
 **36 个源自官方文档的 Flutter/Dart AI 编码技能集，供编码 agent 自主加载**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "evanca/flutter-ai-rules 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 652 --> 661
-    line [653, 654, 655, 658, 660, 660]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 652 --> 663
+    line [653, 654, 655, 658, 660, 662]
 ```
 
-2026-10-18 653 → 2026-10-26 660（+7）
+2026-10-18 653 → 2026-10-27 662（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # leoxiaoping/pbottleRPA
 
-⭐ 156 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leoxiaoping/pbottleRPA) · [官网](https://officetool.online/pbottle-rpa/) · 组织维护 · 中文 README
+⭐ 156 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/leoxiaoping/pbottleRPA) · [官网](https://officetool.online/pbottle-rpa/) · 组织维护 · 中文 README
 
 **面向专业用户的 RPA+AI 流程自动化软件**
 
@@ -45,12 +45,12 @@ Pbottle RPA 是一款轻量级桌面 RPA 软件，支持浏览器网页应用与
 ```mermaid
 xychart-beta
     title "leoxiaoping/pbottleRPA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 155 --> 157
     line [156, 156]
 ```
 
-2026-10-18 156 → 2026-10-26 156（+0）
+2026-10-18 156 → 2026-10-27 156（+0）
 
 
 ---

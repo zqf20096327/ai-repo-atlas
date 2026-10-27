@@ -1,6 +1,6 @@
 # lucidrains/PaLM-rlhf-pytorch
 
-⭐ 7,864 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/lucidrains/PaLM-rlhf-pytorch) · 个人维护
+⭐ 7,863 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/lucidrains/PaLM-rlhf-pytorch) · 个人维护
 
 **PyTorch 实现的 PaLM+RLHF 训练库，供研究者复现**
 
@@ -43,13 +43,13 @@ lucidrains 维护的 PyTorch 库，在 PaLM 架构上实现 RLHF 流程：依次
 
 ```mermaid
 xychart-beta
-    title "lucidrains/PaLM-rlhf-pytorch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "lucidrains/PaLM-rlhf-pytorch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 7858 --> 7865
-    line [7860, 7859, 7862, 7861, 7862, 7863, 7864]
+    line [7860, 7859, 7862, 7861, 7862, 7863, 7864, 7863]
 ```
 
-2026-10-18 7,860 → 2026-10-26 7,864（+4）
+2026-10-18 7,860 → 2026-10-27 7,863（+3）
 
 
 ---

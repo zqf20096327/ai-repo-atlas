@@ -1,6 +1,6 @@
 # tambo-ai/tambo
 
-⭐ 11,202 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tambo-ai/tambo) · [官网](https://tambo.co) · 组织维护
+⭐ 11,204 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tambo-ai/tambo) · [官网](https://tambo.co) · 组织维护
 
 **React 生成式 UI 工具包：让 agent 选择并流式渲染组件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tambo-ai/tambo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 11192 --> 11203
-    line [11193, 11198, 11197, 11201, 11202]
+    title "tambo-ai/tambo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 11192 --> 11205
+    line [11193, 11198, 11197, 11201, 11202, 11204]
 ```
 
-2026-10-18 11,193 → 2026-10-26 11,202（+9）
+2026-10-18 11,193 → 2026-10-27 11,204（+11）
 
 
 ---

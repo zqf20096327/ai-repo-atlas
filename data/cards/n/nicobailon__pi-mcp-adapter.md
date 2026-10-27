@@ -1,6 +1,6 @@
 # nicobailon/pi-mcp-adapter
 
-⭐ 1,615 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nicobailon/pi-mcp-adapter) · 个人维护
+⭐ 1,621 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nicobailon/pi-mcp-adapter) · 个人维护
 
 **让 Pi coding agent 以低 token 开销接入 MCP 服务器的适配器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicobailon/pi-mcp-adapter 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1593 --> 1617
-    line [1595, 1598, 1604, 1608, 1612, 1614, 1615]
+    title "nicobailon/pi-mcp-adapter 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1593 --> 1623
+    line [1595, 1598, 1604, 1608, 1612, 1614, 1615, 1621]
 ```
 
-2026-10-18 1,595 → 2026-10-26 1,615（+20）
+2026-10-18 1,595 → 2026-10-27 1,621（+26）
 
 
 ---

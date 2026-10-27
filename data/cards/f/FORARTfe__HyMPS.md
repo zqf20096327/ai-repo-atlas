@@ -1,6 +1,6 @@
 # FORARTfe/HyMPS
 
-⭐ 332 · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/FORARTfe/HyMPS) · [官网](https://forart.it/HyMPS) · 个人维护
+⭐ 333 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/FORARTfe/HyMPS) · [官网](https://forart.it/HyMPS) · 个人维护
 
 **音视频制作软件资源策展清单（AI 音频/视频分类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FORARTfe/HyMPS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 331 --> 333
-    line [332, 332]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 331 --> 334
+    line [332, 333]
 ```
 
-2026-10-18 332 → 2026-10-26 332（+0）
+2026-10-18 332 → 2026-10-27 333（+1）
 
 
 ---

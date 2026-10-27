@@ -1,6 +1,6 @@
 # guoxinxin20252025/workflowagent
 
-⭐ 50 · TypeScript · NOASSERTION · 推送 2025-12-22 · [GitHub](https://github.com/guoxinxin20252025/workflowagent) · 组织维护 · 中文 README
+⭐ 51 · TypeScript · NOASSERTION · 推送 2025-12-22 · [GitHub](https://github.com/guoxinxin20252025/workflowagent) · 组织维护 · 中文 README
 
 **自然语言生成 Dify 工作流的 Agent 功能（基于 Dify 二开）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guoxinxin20252025/workflowagent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 51（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # konic-labs/kubic
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
 
 **面向团队/企业的终端 AI 编程代理，可控可撤销**
 
@@ -39,6 +39,18 @@ Konic 开源的终端编码代理（TUI，Node 22.19+）：用户自选模型（
 
 > L5: **Kubic is Konic's open-source coding agent.** It runs in your terminal with the
 > L18:  Anthropic, OpenAI, Google, Bedrock, OpenRouter or your own endpoint.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "konic-labs/kubic 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 35 --> 45
+    line [36, 44]
+```
+
+2026-10-26 36 → 2026-10-27 44（+8）
 
 
 ---

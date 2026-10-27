@@ -1,6 +1,6 @@
 # wamich/personal-vocabulary
 
-⭐ 36 · JavaScript · 推送 2026-09-27 · [GitHub](https://github.com/wamich/personal-vocabulary) · [官网](https://mingchang.wang) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · 推送 2026-09-27 · [GitHub](https://github.com/wamich/personal-vocabulary) · [官网](https://mingchang.wang) · 个人维护 · 中文 README
 
 **帮助英语阅读者高亮生词并构建个人词库的浏览器插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wamich/personal-vocabulary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 37（+1）
 
 
 ---

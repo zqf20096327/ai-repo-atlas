@@ -1,6 +1,6 @@
 # sahandsafizadeh/qeep
 
-⭐ 50 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sahandsafizadeh/qeep) · 个人维护
+⭐ 50 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sahandsafizadeh/qeep) · 个人维护
 
 **Go 语言深度学习框架：张量、自动微分与 CUDA 加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sahandsafizadeh/qeep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 50（+0）
 
 
 ---

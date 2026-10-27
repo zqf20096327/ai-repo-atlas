@@ -1,6 +1,6 @@
 # getlilac/lilac
 
-⭐ 125 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/getlilac/lilac) · [官网](https://getlilac.com) · 组织维护
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/getlilac/lilac) · [官网](https://getlilac.com) · 组织维护
 
 **面向数据科学团队的 GPU 算力聚合与任务调度平台**
 
@@ -45,12 +45,12 @@ Lilac 连接来自本地或云端的任意计算资源，组成统一集群：�
 ```mermaid
 xychart-beta
     title "getlilac/lilac 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 123 --> 126
+    line [125, 124]
 ```
 
-2026-10-18 125 → 2026-10-26 125（+0）
+2026-10-18 125 → 2026-10-27 124（-1）
 
 
 ---

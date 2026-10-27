@@ -1,6 +1,6 @@
 # ahkamboh/agent-caption
 
-⭐ 37 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ahkamboh/agent-caption) · [官网](https://ahkamboh.github.io/agent-caption/) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ahkamboh/agent-caption) · [官网](https://ahkamboh.github.io/agent-caption/) · 个人维护
 
 **本地离线给视频/歌曲加字幕的 Python CLI，支持 99 种语言**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahkamboh/agent-caption 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 28 --> 38
-    line [29, 33, 34, 37]
+    title "ahkamboh/agent-caption 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28 --> 42
+    line [29, 33, 34, 37, 41]
 ```
 
-2026-10-18 29 → 2026-10-26 37（+8）
+2026-10-18 29 → 2026-10-27 41（+12）
 
 
 ---

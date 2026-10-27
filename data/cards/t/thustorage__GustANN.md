@@ -1,6 +1,6 @@
 # thustorage/GustANN
 
-⭐ 31 · Cuda · 推送 2026-10-20 · [GitHub](https://github.com/thustorage/GustANN) · 组织维护 · 中文 README
+⭐ 32 · Cuda · 推送 2026-10-20 · [GitHub](https://github.com/thustorage/GustANN) · 组织维护 · 中文 README
 
 **单 GPU 十亿级向量检索引擎：SSD/内存/显存多模式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thustorage/GustANN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 32（+1）
 
 
 ---

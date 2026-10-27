@@ -1,6 +1,6 @@
 # bytedance/Sa2VA
 
-⭐ 1,691 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
+⭐ 1,693 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
 
 **像素级接地多模态大模型家族：SAM-2 与 MLLM 结合的图像视频分割理解**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/Sa2VA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1687 --> 1692
-    line [1688, 1689, 1690, 1691]
+    title "bytedance/Sa2VA 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1687 --> 1694
+    line [1688, 1689, 1690, 1691, 1693]
 ```
 
-2026-10-18 1,688 → 2026-10-26 1,691（+3）
+2026-10-18 1,688 → 2026-10-27 1,693（+5）
 
 
 ---

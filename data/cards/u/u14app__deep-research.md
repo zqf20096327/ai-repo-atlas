@@ -1,6 +1,6 @@
 # u14app/deep-research
 
-⭐ 4,687 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/u14app/deep-research) · [官网](https://research.u14.app) · 个人维护 · 中文 README
+⭐ 4,686 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/u14app/deep-research) · [官网](https://research.u14.app) · 个人维护 · 中文 README
 
 **多模型深度研究工具：数分钟生成带引用的研究报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "u14app/deep-research 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 4686 --> 4695
-    line [4694, 4693, 4692, 4693, 4691, 4687]
+    title "u14app/deep-research 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4685 --> 4695
+    line [4694, 4693, 4692, 4693, 4691, 4687, 4686]
 ```
 
-2026-10-18 4,694 → 2026-10-26 4,687（-7）
+2026-10-18 4,694 → 2026-10-27 4,686（-8）
 
 
 ---

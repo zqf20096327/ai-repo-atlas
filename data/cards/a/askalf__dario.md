@@ -1,6 +1,6 @@
 # askalf/dario
 
-⭐ 575 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/askalf/dario) · [官网](https://www.npmjs.com/package/@askalf/dario) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地代理网关：让 AI 工具复用 Claude/ChatGPT 订阅**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

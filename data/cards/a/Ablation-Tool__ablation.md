@@ -1,6 +1,6 @@
 # Ablation-Tool/ablation
 
-⭐ 223 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Ablation-Tool/ablation) · 组织维护 · 中文 README
+⭐ 224 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Ablation-Tool/ablation) · 组织维护 · 中文 README
 
 **AI 辅助逆向工程框架：用 agent 与图分析解析二进制**
 
@@ -40,6 +40,18 @@ Ablation 是面向二进制与固件分析的 AI 辅助逆向工程（AIARE）�
 > L5: Ablation is an AI-assisted reverse engineering (AIARE) framework.
 > L52: |**Agentic GraphRAG**|1&nbsp;2|Agentic GraphRAG merges knowledge graphs (structured nodes and edges) with autonomou
 > L74: |**LLM Analyst Loop & RAG**|1&nbsp;2|An LLM analyst loop runs a bounded tool-calling cycle where the model selects 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ablation-Tool/ablation 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 222 --> 225
+    line [223, 224]
+```
+
+2026-10-26 223 → 2026-10-27 224（+1）
 
 
 ---

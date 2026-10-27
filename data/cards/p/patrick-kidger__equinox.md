@@ -1,6 +1,6 @@
 # patrick-kidger/equinox
 
-⭐ 2,993 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/patrick-kidger/equinox) · 个人维护
+⭐ 2,994 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/patrick-kidger/equinox) · 个人维护
 
 **JAX 神经网络与科学计算库：PyTree 式模型定义**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "patrick-kidger/equinox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2989 --> 2994
-    line [2990, 2991, 2993, 2993]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2989 --> 2995
+    line [2990, 2991, 2993, 2994]
 ```
 
-2026-10-18 2,990 → 2026-10-26 2,993（+3）
+2026-10-18 2,990 → 2026-10-27 2,994（+4）
 
 
 ---

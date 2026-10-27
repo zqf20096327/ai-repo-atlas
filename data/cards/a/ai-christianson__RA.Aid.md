@@ -1,6 +1,6 @@
 # ai-christianson/RA.Aid
 
-⭐ 2,218 · Python · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/ai-christianson/RA.Aid) · [官网](https://ra-aid.ai/) · 个人维护
+⭐ 2,217 · Python · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/ai-christianson/RA.Aid) · [官网](https://ra-aid.ai/) · 个人维护
 
 **自主软件开发编程 Agent：研究-规划-实现三阶段执行任务**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "ai-christianson/RA.Aid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2217 --> 2224
-    line [2223, 2222, 2219, 2218, 2218]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2216 --> 2224
+    line [2223, 2222, 2219, 2218, 2217]
 ```
 
-2026-10-18 2,223 → 2026-10-26 2,218（-5）
+2026-10-18 2,223 → 2026-10-27 2,217（-6）
 
 
 ---

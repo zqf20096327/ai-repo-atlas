@@ -1,6 +1,6 @@
 # froggeric/gemini-watermark-and-synthid-remover
 
-⭐ 101 · C++ · MIT · 推送 2026-09-25 · [GitHub](https://github.com/froggeric/gemini-watermark-and-synthid-remover) · 个人维护
+⭐ 107 · C++ · MIT · 推送 2026-09-25 · [GitHub](https://github.com/froggeric/gemini-watermark-and-synthid-remover) · 个人维护
 
 **移除 Gemini/Veo/NotebookLM 水印与 SynthID 的跨平台 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "froggeric/gemini-watermark-and-synthid-remover 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 92 --> 102
-    line [93, 95, 98, 99, 101]
+    title "froggeric/gemini-watermark-and-synthid-remover 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 92 --> 108
+    line [93, 95, 98, 99, 101, 107]
 ```
 
-2026-10-18 93 → 2026-10-26 101（+8）
+2026-10-18 93 → 2026-10-27 107（+14）
 
 
 ---

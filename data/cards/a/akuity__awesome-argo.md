@@ -1,6 +1,6 @@
 # akuity/awesome-argo
 
-⭐ 2,502 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
+⭐ 2,503 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
 
 **面向 Argo 生态的策展清单：项目、书籍与博客资源汇总**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "akuity/awesome-argo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 2499 --> 2504
-    line [2500, 2502, 2503, 2502, 2503, 2502, 2502]
+    line [2500, 2502, 2503, 2502, 2503, 2502, 2503]
 ```
 
-2026-10-18 2,500 → 2026-10-26 2,502（+2）
+2026-10-18 2,500 → 2026-10-27 2,503（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/optimum-quanto
 
-⭐ 1,053 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
+⭐ 1,053 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
 
 **PyTorch 模型量化库：将 float 模型转为低比特量化模型**
 
@@ -45,12 +45,12 @@ Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用
 ```mermaid
 xychart-beta
     title "huggingface/optimum-quanto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 1052 --> 1054
     line [1053, 1053]
 ```
 
-2026-10-18 1,053 → 2026-10-26 1,053（+0）
+2026-10-18 1,053 → 2026-10-27 1,053（+0）
 
 
 ---

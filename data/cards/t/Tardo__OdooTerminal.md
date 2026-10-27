@@ -1,6 +1,6 @@
 # Tardo/OdooTerminal
 
-⭐ 152 · JavaScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Tardo/OdooTerminal) · 个人维护
+⭐ 153 · JavaScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Tardo/OdooTerminal) · 个人维护
 
 **Odoo 开发者浏览器终端扩展：用命令操作 Odoo json-rpc**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tardo/OdooTerminal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 149 --> 153
-    line [150, 151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 149 --> 154
+    line [150, 151, 152, 153]
 ```
 
-2026-10-18 150 → 2026-10-26 152（+2）
+2026-10-18 150 → 2026-10-27 153（+3）
 
 
 ---

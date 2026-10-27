@@ -45,12 +45,12 @@ sparklyr 是 CRAN 上的 R 包，提供到 Apache Spark 的连接与操作接口
 ```mermaid
 xychart-beta
     title "sparklyr/sparklyr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 971 --> 973
     line [972, 972]
 ```
 
-2026-10-18 972 → 2026-10-26 972（+0）
+2026-10-18 972 → 2026-10-27 972（+0）
 
 
 ---

@@ -43,13 +43,13 @@ nihui 维护的 Android 示例工程：在移动端运行 SqueezeNet 模型做�
 
 ```mermaid
 xychart-beta
-    title "nihui/ncnn-android-squeezenet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "nihui/ncnn-android-squeezenet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 187 --> 190
-    line [188, 189]
+    line [188, 189, 189]
 ```
 
-2026-10-18 188 → 2026-10-26 189（+1）
+2026-10-18 188 → 2026-10-27 189（+1）
 
 
 ---

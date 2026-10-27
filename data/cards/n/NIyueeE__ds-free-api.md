@@ -1,6 +1,6 @@
 # NIyueeE/ds-free-api
 
-⭐ 840 · Rust · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/NIyueeE/ds-free-api) · 个人维护 · 中文 README
+⭐ 842 · Rust · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/NIyueeE/ds-free-api) · 个人维护 · 中文 README
 
 **把 DeepSeek 免费网页端反代为 OpenAI/Anthropic 兼容 API 的 Rust 代理**
 
@@ -44,13 +44,13 @@ Rust 实现的单二进制 API 代理服务：将 DeepSeek 网页端对话反代
 
 ```mermaid
 xychart-beta
-    title "NIyueeE/ds-free-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 812 --> 842
-    line [814, 822, 829, 833, 835, 840]
+    title "NIyueeE/ds-free-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 812 --> 844
+    line [814, 822, 829, 833, 835, 840, 842]
 ```
 
-2026-10-18 814 → 2026-10-26 840（+26）
+2026-10-18 814 → 2026-10-27 842（+28）
 
 
 ---

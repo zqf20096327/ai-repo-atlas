@@ -1,6 +1,6 @@
 # killertcell428/aigis
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/killertcell428/aigis) · [官网](https://pypi.org/project/pyaigis/) · 个人维护 · 中文 README
+⭐ 53 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/killertcell428/aigis) · [官网](https://pypi.org/project/pyaigis/) · 个人维护 · 中文 README
 
 **给 AI agent 工具调用加策略护栏与防篡改审计日志的 Python OSS**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "killertcell428/aigis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-26 53（+0）
+2026-10-18 53 → 2026-10-27 53（+0）
 
 
 ---

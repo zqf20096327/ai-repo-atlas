@@ -1,6 +1,6 @@
 # ModelTC/ComfyUI-Lightx2vWrapper
 
-⭐ 95 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ModelTC/ComfyUI-Lightx2vWrapper) · 组织维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ModelTC/ComfyUI-Lightx2vWrapper) · 组织维护 · 中文 README
 
 **ComfyUI 自定义节点：封装 LightX2V 做视频生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ModelTC/ComfyUI-Lightx2vWrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-18 95 → 2026-10-26 95（+0）
+2026-10-18 95 → 2026-10-27 96（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nuxt/nuxt-evals
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nuxt/nuxt-evals) · [官网](https://nuxt.com/evals) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nuxt/nuxt-evals) · [官网](https://nuxt.com/evals) · 组织维护
 
 **Nuxt 官方维护的 AI 模型编码能力评测集与评测脚手架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nuxt/nuxt-evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

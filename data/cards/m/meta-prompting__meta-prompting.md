@@ -1,6 +1,6 @@
 # meta-prompting/meta-prompting
 
-⭐ 329 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/meta-prompting/meta-prompting) · [官网](https://meta-prompting.github.io) · 组织维护
+⭐ 330 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/meta-prompting/meta-prompting) · [官网](https://meta-prompting.github.io) · 组织维护
 
 **论文官方实现：提供元提示（Meta Prompting）提示模板与在线演示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meta-prompting/meta-prompting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 328 --> 330
-    line [329, 329]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 328 --> 331
+    line [329, 330]
 ```
 
-2026-10-18 329 → 2026-10-26 329（+0）
+2026-10-18 329 → 2026-10-27 330（+1）
 
 
 ---

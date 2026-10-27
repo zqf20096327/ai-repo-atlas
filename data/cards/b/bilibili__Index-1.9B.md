@@ -1,6 +1,6 @@
 # bilibili/Index-1.9B
 
-⭐ 1,037 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
+⭐ 1,037 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
 
 **B 站开源的 1.9B 轻量多语言对话与角色扮演模型系列**
 
@@ -46,13 +46,13 @@ bilibili 开源的 Index 系列 1.9B 参数（非嵌入）小语言模型，含 
 
 ```mermaid
 xychart-beta
-    title "bilibili/Index-1.9B 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "bilibili/Index-1.9B 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1035 --> 1038
-    line [1036, 1037]
+    line [1036, 1037, 1037]
 ```
 
-2026-10-18 1,036 → 2026-10-26 1,037（+1）
+2026-10-18 1,036 → 2026-10-27 1,037（+1）
 
 
 ---

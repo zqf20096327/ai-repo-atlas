@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FedericoTs/quantprobe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "FedericoTs/quantprobe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 89 --> 92
-    line [90, 91]
+    line [90, 91, 91]
 ```
 
-2026-10-18 90 → 2026-10-26 91（+1）
+2026-10-18 90 → 2026-10-27 91（+1）
 
 
 ---

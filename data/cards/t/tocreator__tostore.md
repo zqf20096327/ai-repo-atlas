@@ -41,6 +41,18 @@ ToStore 是用 Dart 编写的跨平台数据引擎，以 pub 包形式提供给 
 > L61:  - Multi-channel recall on one query chain (vector + structured and more)
 > L177: |`vector`|`VectorData` / `List<num>`|High-dimensional vector data for AI semantic retrieval (embeddings)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tocreator/tostore 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 64 --> 66
+    line [65, 65]
+```
+
+2026-10-26 65 → 2026-10-27 65（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `e48bcb890516` · [字段定义](../../DATASET.md)*

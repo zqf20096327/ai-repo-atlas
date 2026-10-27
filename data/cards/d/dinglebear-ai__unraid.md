@@ -1,6 +1,6 @@
 # dinglebear-ai/unraid
 
-⭐ 143 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dinglebear-ai/unraid) · 组织维护
+⭐ 146 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dinglebear-ai/unraid) · 组织维护
 
 **通过 MCP 工具查询与管理 Unraid 服务器的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dinglebear-ai/unraid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 139 --> 144
-    line [140, 141, 142, 143, 143]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 139 --> 147
+    line [140, 141, 142, 143, 146]
 ```
 
-2026-10-18 140 → 2026-10-26 143（+3）
+2026-10-18 140 → 2026-10-27 146（+6）
 
 
 ---

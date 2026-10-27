@@ -1,6 +1,6 @@
 # nikolausm/imap-mcp-server
 
-⭐ 112 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nikolausm/imap-mcp-server) · 个人维护
+⭐ 112 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nikolausm/imap-mcp-server) · 个人维护
 
 **让 AI 助手通过 MCP 收发和管理多个邮箱的 IMAP/SMTP 服务器**
 
@@ -45,12 +45,12 @@ TypeScript 实现的 Model Context Protocol 服务器，把 IMAP/SMTP 邮件能�
 ```mermaid
 xychart-beta
     title "nikolausm/imap-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 110 --> 113
     line [111, 112, 112]
 ```
 
-2026-10-18 111 → 2026-10-26 112（+1）
+2026-10-18 111 → 2026-10-27 112（+1）
 
 
 ---

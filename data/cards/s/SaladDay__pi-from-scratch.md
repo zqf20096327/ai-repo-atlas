@@ -1,6 +1,6 @@
 # SaladDay/pi-from-scratch
 
-⭐ 1,295 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SaladDay/pi-from-scratch) · [官网](https://pi-from-scratch.vercel.app) · 个人维护 · 中文 README
+⭐ 1,297 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SaladDay/pi-from-scratch) · [官网](https://pi-from-scratch.vercel.app) · 个人维护 · 中文 README
 
 **600 行 TypeScript 从零实现 coding agent 的交互式教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SaladDay/pi-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1287 --> 1296
-    line [1288, 1290, 1294, 1295, 1295]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1287 --> 1298
+    line [1288, 1290, 1294, 1295, 1297]
 ```
 
-2026-10-18 1,288 → 2026-10-26 1,295（+7）
+2026-10-18 1,288 → 2026-10-27 1,297（+9）
 
 
 ---

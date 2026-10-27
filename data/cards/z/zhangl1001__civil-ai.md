@@ -1,6 +1,6 @@
 # zhangl1001/civil-ai
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zhangl1001/civil-ai) · [官网](https://github.com/zhangl1001/civil-ai/releases/latest) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zhangl1001/civil-ai) · [官网](https://github.com/zhangl1001/civil-ai/releases/latest) · 个人维护 · 中文 README
 
 **面向 iOS/Web 的本地优先自适应教育 Agent 基础框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhangl1001/civil-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

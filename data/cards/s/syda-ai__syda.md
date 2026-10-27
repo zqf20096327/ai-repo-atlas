@@ -1,6 +1,6 @@
 # syda-ai/syda
 
-⭐ 177 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/syda-ai/syda) · [官网](https://python.syda.ai/) · 组织维护
+⭐ 178 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/syda-ai/syda) · [官网](https://python.syda.ai/) · 组织维护
 
 **给开发者的 LLM 合成数据生成库：保持引用完整性的结构化表格与文档**
 
@@ -46,12 +46,12 @@ Python 库（CLI 同步提供），调用多提供商 LLM 生成合成测试数�
 ```mermaid
 xychart-beta
     title "syda-ai/syda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 176 --> 178
-    line [177, 177]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 176 --> 179
+    line [177, 178]
 ```
 
-2026-10-18 177 → 2026-10-26 177（+0）
+2026-10-18 177 → 2026-10-27 178（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Doriandarko/texts-to-transformer
 
-⭐ 474 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Doriandarko/texts-to-transformer) · 个人维护
+⭐ 473 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Doriandarko/texts-to-transformer) · 个人维护
 
 **在 Mac 上用 iMessage 记录从零训练个人风格小 Transformer**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Doriandarko/texts-to-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Doriandarko/texts-to-transformer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 472 --> 475
-    line [473, 474]
+    line [473, 474, 473]
 ```
 
-2026-10-18 473 → 2026-10-26 474（+1）
+2026-10-18 473 → 2026-10-27 473（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/qwen-code-examples
 
-⭐ 142 · TypeScript · 推送 2026-05-19 · [GitHub](https://github.com/QwenLM/qwen-code-examples) · 组织维护 · 中文 README
+⭐ 143 · TypeScript · 推送 2026-05-19 · [GitHub](https://github.com/QwenLM/qwen-code-examples) · 组织维护 · 中文 README
 
 **Qwen Code 实用示例与最佳实践合集（技能/扩展/SDK）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/qwen-code-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 140 --> 143
-    line [141, 142, 142]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 140 --> 144
+    line [141, 142, 143]
 ```
 
-2026-10-18 141 → 2026-10-26 142（+1）
+2026-10-18 141 → 2026-10-27 143（+2）
 
 
 ---

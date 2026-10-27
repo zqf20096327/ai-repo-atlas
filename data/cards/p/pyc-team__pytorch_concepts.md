@@ -1,6 +1,6 @@
 # pyc-team/pytorch_concepts
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pyc-team/pytorch_concepts) · [官网](https://pytorch-concepts.readthedocs.io/en/latest/) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pyc-team/pytorch_concepts) · [官网](https://pytorch-concepts.readthedocs.io/en/latest/) · 组织维护
 
 **基于 PyTorch 的概念化可解释深度学习模型构建库**
 
@@ -45,12 +45,12 @@ PyC（PyTorch Concepts）是构建在 PyTorch 与 PyTorch Lightning 之上的库
 ```mermaid
 xychart-beta
     title "pyc-team/pytorch_concepts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 158 --> 160
     line [159, 159]
 ```
 
-2026-10-18 159 → 2026-10-26 159（+0）
+2026-10-18 159 → 2026-10-27 159（+0）
 
 
 ---

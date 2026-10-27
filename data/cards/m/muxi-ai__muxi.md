@@ -1,6 +1,6 @@
 # muxi-ai/muxi
 
-⭐ 186 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/muxi-ai/muxi) · [官网](https://muxi.org/docs) · 个人维护
+⭐ 187 · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/muxi-ai/muxi) · [官网](https://muxi.org/docs) · 个人维护
 
 **自托管 AI 应用服务器：以声明式 Formation 部署与运行 agent 系统**
 
@@ -46,12 +46,12 @@ MUXI 是一个开源、可自托管的 AI 应用服务器，将 agent 作为原�
 ```mermaid
 xychart-beta
     title "muxi-ai/muxi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 185 --> 192
-    line [191, 186, 186]
+    line [191, 186, 187]
 ```
 
-2026-10-18 191 → 2026-10-26 186（-5）
+2026-10-18 191 → 2026-10-27 187（-4）
 
 
 ---

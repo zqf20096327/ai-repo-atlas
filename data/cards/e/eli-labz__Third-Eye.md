@@ -1,6 +1,6 @@
 # eli-labz/Third-Eye
 
-⭐ 857 · TypeScript · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eli-labz/Third-Eye) · [官网](https://geospatialcommand.center) · 个人维护
+⭐ 858 · TypeScript · MIT · 推送 2026-06-13 · [GitHub](https://github.com/eli-labz/Third-Eye) · [官网](https://geospatialcommand.center) · 个人维护
 
 **开源 OSINT 全球情报聚合平台：多源态势感知仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eli-labz/Third-Eye 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "eli-labz/Third-Eye 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 854 --> 879
-    line [877, 862, 856, 857]
+    line [877, 862, 856, 857, 858]
 ```
 
-2026-10-18 877 → 2026-10-26 857（-20）
+2026-10-18 877 → 2026-10-27 858（-19）
 
 
 ---

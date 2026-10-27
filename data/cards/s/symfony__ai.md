@@ -1,6 +1,6 @@
 # symfony/ai
 
-⭐ 1,231 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/symfony/ai) · [官网](https://ai.symfony.com/) · 组织维护
+⭐ 1,231 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai) · [官网](https://ai.symfony.com/) · 组织维护
 
 **为 PHP 应用集成 AI 能力的 Symfony 组件与 Bundle 集合**
 
@@ -44,13 +44,13 @@ Symfony 官方维护的 PHP AI 组件库，提供 Agent（构建可与用户交�
 
 ```mermaid
 xychart-beta
-    title "symfony/ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "symfony/ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1224 --> 1232
-    line [1225, 1226, 1227, 1228, 1231]
+    line [1225, 1226, 1227, 1228, 1231, 1231]
 ```
 
-2026-10-18 1,225 → 2026-10-26 1,231（+6）
+2026-10-18 1,225 → 2026-10-27 1,231（+6）
 
 
 ---

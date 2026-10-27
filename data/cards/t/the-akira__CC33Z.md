@@ -1,6 +1,6 @@
 # the-akira/CC33Z
 
-⭐ 70 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/the-akira/CC33Z) · [官网](https://cc33z.pythonanywhere.com) · 个人维护
+⭐ 70 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/the-akira/CC33Z) · [官网](https://cc33z.pythonanywhere.com) · 个人维护
 
 **计算机科学自学课程目录：覆盖算法到机器学习等多学科**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "the-akira/CC33Z 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-26 70（+0）
+2026-10-18 70 → 2026-10-27 70（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tele-AI/TeleFuser
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Tele-AI/TeleFuser) · [官网](https://tele-ai.github.io/TeleFuser/) · 组织维护 · 中文 README
+⭐ 36 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Tele-AI/TeleFuser) · [官网](https://tele-ai.github.io/TeleFuser/) · 组织维护 · 中文 README
 
 **世界模型与多模态生成的实时流式推理服务框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tele-AI/TeleFuser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 31 --> 36
-    line [32, 35, 35]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 31 --> 37
+    line [32, 35, 36]
 ```
 
-2026-10-18 32 → 2026-10-26 35（+3）
+2026-10-18 32 → 2026-10-27 36（+4）
 
 
 ---

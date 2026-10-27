@@ -1,6 +1,6 @@
 # Readplace/readplace.com
 
-⭐ 30 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/Readplace/readplace.com) · [官网](https://readplace.com/) · 个人维护
+⭐ 30 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/Readplace/readplace.com) · [官网](https://readplace.com/) · 个人维护
 
 **自托管的稍后阅读应用：保存文章/通讯链接，稍后阅读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Readplace/readplace.com 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

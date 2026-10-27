@@ -1,6 +1,6 @@
 # Zzz1phyrf/ComfyUI-H3-LongVideo
 
-⭐ 169 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Zzz1phyrf/ComfyUI-H3-LongVideo) · 个人维护 · 中文 README
+⭐ 170 · Python · 推送 2026-10-07 · [GitHub](https://github.com/Zzz1phyrf/ComfyUI-H3-LongVideo) · 个人维护 · 中文 README
 
 **ComfyUI 长音频分段生成插件：驱动 MiniMax H3 制作唱歌/口播数字人长视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zzz1phyrf/ComfyUI-H3-LongVideo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 159 --> 170
-    line [160, 164, 165, 166, 167, 168, 169]
+    title "Zzz1phyrf/ComfyUI-H3-LongVideo 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 159 --> 171
+    line [160, 164, 165, 166, 167, 168, 169, 170]
 ```
 
-2026-10-18 160 → 2026-10-26 169（+9）
+2026-10-18 160 → 2026-10-27 170（+10）
 
 
 ---

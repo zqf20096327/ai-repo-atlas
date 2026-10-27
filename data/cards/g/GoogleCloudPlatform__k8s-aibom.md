@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/k8s-aibom
 
-⭐ 57 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/GoogleCloudPlatform/k8s-aibom) · 组织维护
+⭐ 60 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GoogleCloudPlatform/k8s-aibom) · 组织维护
 
 **K8s 控制器：运行时盘点集群内 AI 负载并生成 ML-BOM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/k8s-aibom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 56 --> 61
+    line [57, 60]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 60（+3）
 
 
 ---

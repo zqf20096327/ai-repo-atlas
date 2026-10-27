@@ -1,6 +1,6 @@
 # sakurawwwxh/qq-agent-plus
 
-⭐ 87 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sakurawwwxh/qq-agent-plus) · 个人维护 · 中文 README
+⭐ 93 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sakurawwwxh/qq-agent-plus) · 个人维护 · 中文 README
 
 **面向 Linux 服务器的 QQ 群聊 Agent，带贴纸/语音/主动发言与运维命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sakurawwwxh/qq-agent-plus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 73 --> 88
-    line [74, 77, 81, 84, 86, 87]
+    title "sakurawwwxh/qq-agent-plus 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 73 --> 94
+    line [74, 77, 81, 84, 86, 87, 93]
 ```
 
-2026-10-18 74 → 2026-10-26 87（+13）
+2026-10-18 74 → 2026-10-27 93（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # keli-wen/agy-staff
 
-⭐ 788 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/keli-wen/agy-staff) · 个人维护 · 中文 README
+⭐ 791 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/keli-wen/agy-staff) · 个人维护 · 中文 README
 
 **让 Claude Code/Codex 等编码代理把任务委派给 Antigravity CLI 的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keli-wen/agy-staff 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 747 --> 791
-    line [750, 756, 769, 771, 776, 788]
+    title "keli-wen/agy-staff 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 746 --> 795
+    line [750, 756, 769, 771, 776, 788, 791]
 ```
 
-2026-10-18 750 → 2026-10-26 788（+38）
+2026-10-18 750 → 2026-10-27 791（+41）
 
 
 ---

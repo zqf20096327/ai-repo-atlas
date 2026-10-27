@@ -1,6 +1,6 @@
 # ShipfoxHQ/shipfox
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ShipfoxHQ/shipfox) · [官网](https://www.shipfox.io) · 组织维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ShipfoxHQ/shipfox) · [官网](https://www.shipfox.io) · 组织维护
 
 **给工程团队的开源自托管 AI 编码代理工作流平台**
 
@@ -46,13 +46,13 @@ Shipfox 是一个 MIT 许可、可自托管的软件工厂平台：以 YAML 工�
 
 ```mermaid
 xychart-beta
-    title "ShipfoxHQ/shipfox 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 26 --> 55
-    line [28, 29, 51, 52, 53]
+    title "ShipfoxHQ/shipfox 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 26 --> 56
+    line [28, 29, 51, 52, 53, 54]
 ```
 
-2026-10-18 28 → 2026-10-26 53（+25）
+2026-10-18 28 → 2026-10-27 54（+26）
 
 
 ---

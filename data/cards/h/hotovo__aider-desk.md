@@ -1,6 +1,6 @@
 # hotovo/aider-desk
 
-⭐ 1,460 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hotovo/aider-desk) · [官网](https://aiderdesk.hotovo.com) · 组织维护
+⭐ 1,459 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/hotovo/aider-desk) · [官网](https://aiderdesk.hotovo.com) · 组织维护
 
 **面向专业软件工程师的 AI 编排桌面平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hotovo/aider-desk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "hotovo/aider-desk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1457 --> 1461
-    line [1458, 1460, 1459, 1460]
+    line [1458, 1460, 1459, 1460, 1459]
 ```
 
-2026-10-18 1,458 → 2026-10-26 1,460（+2）
+2026-10-18 1,458 → 2026-10-27 1,459（+1）
 
 
 ---

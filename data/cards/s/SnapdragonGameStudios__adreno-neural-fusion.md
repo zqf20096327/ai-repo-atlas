@@ -1,6 +1,6 @@
 # SnapdragonGameStudios/adreno-neural-fusion
 
-⭐ 33 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SnapdragonGameStudios/adreno-neural-fusion) · [官网](https://www.qualcomm.com/developer/snapdragon-game-toolkit) · 组织维护
+⭐ 34 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SnapdragonGameStudios/adreno-neural-fusion) · [官网](https://www.qualcomm.com/developer/snapdragon-game-toolkit) · 组织维护
 
 **高通面向移动游戏的神经渲染 SDK：超分与帧生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnapdragonGameStudios/adreno-neural-fusion 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 16 --> 34
-    line [17, 25, 27, 32, 33]
+    title "SnapdragonGameStudios/adreno-neural-fusion 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 16 --> 35
+    line [17, 25, 27, 32, 33, 34]
 ```
 
-2026-10-18 17 → 2026-10-26 33（+16）
+2026-10-18 17 → 2026-10-27 34（+17）
 
 
 ---

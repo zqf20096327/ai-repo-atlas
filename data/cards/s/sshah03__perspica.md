@@ -1,6 +1,6 @@
 # sshah03/perspica
 
-⭐ 38 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sshah03/perspica) · [官网](https://sshah03.github.io/perspica/) · 个人维护
+⭐ 39 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sshah03/perspica) · [官网](https://sshah03.github.io/perspica/) · 个人维护
 
 **面向 AI 编码代理的代码变更审查工具，按意图解读 diff**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sshah03/perspica 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-10-26 38（+2）
+2026-10-18 36 → 2026-10-27 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # upgini/upgini
 
-⭐ 358 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/upgini/upgini) · [官网](https://upgini.com) · 组织维护
+⭐ 358 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/upgini/upgini) · [官网](https://upgini.com) · 组织维护
 
 **面向 ML 管道的外部数据特征搜索与增强库**
 
@@ -45,12 +45,12 @@ Upgini 是一个 Python 数据搜索与增强库：用户以带标签的训练�
 ```mermaid
 xychart-beta
     title "upgini/upgini 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 357 --> 359
     line [358, 358]
 ```
 
-2026-10-18 358 → 2026-10-26 358（+0）
+2026-10-18 358 → 2026-10-27 358（+0）
 
 
 ---

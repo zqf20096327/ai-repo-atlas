@@ -1,6 +1,6 @@
 # felinics/Memoh
 
-⭐ 2,740 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/felinics/Memoh) · [官网](https://memoh.ai) · 组织维护 · 中文 README
+⭐ 2,747 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/felinics/Memoh) · [官网](https://memoh.ai) · 组织维护 · 中文 README
 
 **开源多 agent 平台：每个 agent 配专属云电脑与长期记忆**
 
@@ -45,13 +45,13 @@ Memoh 是开源多 agent 平台，为每个 agent 分配独立的云工作区，
 
 ```mermaid
 xychart-beta
-    title "felinics/Memoh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 2699 --> 2743
-    line [2702, 2709, 2718, 2725, 2733, 2740]
+    title "felinics/Memoh 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2698 --> 2751
+    line [2702, 2709, 2718, 2725, 2733, 2740, 2747]
 ```
 
-2026-10-18 2,702 → 2026-10-26 2,740（+38）
+2026-10-18 2,702 → 2026-10-27 2,747（+45）
 
 
 ---

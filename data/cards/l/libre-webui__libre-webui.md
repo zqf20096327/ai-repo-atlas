@@ -1,6 +1,6 @@
 # libre-webui/libre-webui
 
-⭐ 97 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/libre-webui/libre-webui) · [官网](https://librewebui.org) · 组织维护
+⭐ 99 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/libre-webui/libre-webui) · [官网](https://librewebui.org) · 组织维护
 
 **自托管本地优先 AI 工作台：聊天、知识检索、工件与隔离 agent 任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "libre-webui/libre-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 93 --> 98
-    line [94, 96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 93 --> 100
+    line [94, 96, 97, 99]
 ```
 
-2026-10-18 94 → 2026-10-26 97（+3）
+2026-10-18 94 → 2026-10-27 99（+5）
 
 
 ---

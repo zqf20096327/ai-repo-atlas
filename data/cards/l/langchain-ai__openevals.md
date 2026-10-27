@@ -1,6 +1,6 @@
 # langchain-ai/openevals
 
-⭐ 1,231 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/openevals) · 组织维护
+⭐ 1,232 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/openevals) · 组织维护
 
 **LLM 应用预置评测器库：提供 LLM-as-judge 等开箱评测**
 
@@ -44,13 +44,13 @@ LangChain 团队维护的 LLM 应用评测库，提供 Python 与 TypeScript 版
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/openevals 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1224 --> 1232
-    line [1225, 1226, 1227, 1228, 1229, 1230, 1231]
+    title "langchain-ai/openevals 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1224 --> 1233
+    line [1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232]
 ```
 
-2026-10-18 1,225 → 2026-10-26 1,231（+6）
+2026-10-18 1,225 → 2026-10-27 1,232（+7）
 
 
 ---

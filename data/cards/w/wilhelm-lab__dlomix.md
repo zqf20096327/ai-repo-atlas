@@ -1,6 +1,6 @@
 # wilhelm-lab/dlomix
 
-⭐ 42 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/wilhelm-lab/dlomix) · [官网](https://dlomix.readthedocs.io/) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/wilhelm-lab/dlomix) · [官网](https://dlomix.readthedocs.io/) · 组织维护
 
 **蛋白质组学深度学习框架：多后端实现肽段预测模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wilhelm-lab/dlomix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 43（+1）
 
 
 ---

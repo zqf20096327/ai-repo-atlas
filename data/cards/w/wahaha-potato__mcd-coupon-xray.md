@@ -1,6 +1,6 @@
 # wahaha-potato/mcd-coupon-xray
 
-⭐ 123 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wahaha-potato/mcd-coupon-xray) · 个人维护 · 中文 README
+⭐ 117 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wahaha-potato/mcd-coupon-xray) · 个人维护 · 中文 README
 
 **麦当劳优惠券核销校验 Skill：逐店验哪张券真能用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wahaha-potato/mcd-coupon-xray 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
+    title "wahaha-potato/mcd-coupon-xray 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 0 --> 134
-    line [8, 36, 123]
+    line [8, 36, 123, 117]
 ```
 
-2026-10-24 8 → 2026-10-26 123（+115）
+2026-10-24 8 → 2026-10-27 117（+109）
 
 
 ---

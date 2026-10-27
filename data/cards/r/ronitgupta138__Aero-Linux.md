@@ -1,6 +1,6 @@
 # ronitgupta138/Aero-Linux
 
-⭐ 72 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ronitgupta138/Aero-Linux) · [官网](https://ronitgupta138.github.io/Aero-Linux/) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ronitgupta138/Aero-Linux) · [官网](https://ronitgupta138.github.io/Aero-Linux/) · 个人维护
 
 **面向开发者的轻量 Linux 发行版：低内存占用并集成一键本地 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ronitgupta138/Aero-Linux 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 42 --> 74
-    line [44, 45, 46, 72, 72]
+    line [44, 45, 46, 72, 71]
 ```
 
-2026-10-18 44 → 2026-10-26 72（+28）
+2026-10-18 44 → 2026-10-27 71（+27）
 
 
 ---

@@ -1,6 +1,6 @@
 # nexscope-ai/eCommerce-Skills
 
-⭐ 1,255 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/nexscope-ai/eCommerce-Skills) · 组织维护
+⭐ 1,264 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/nexscope-ai/eCommerce-Skills) · 组织维护
 
 **面向电商卖家的 AI agent 技能集合（157 条，markdown 指令文件）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexscope-ai/eCommerce-Skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1164 --> 1263
-    line [1172, 1192, 1209, 1227, 1239, 1248, 1255]
+    title "nexscope-ai/eCommerce-Skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1163 --> 1273
+    line [1172, 1192, 1209, 1227, 1239, 1248, 1255, 1264]
 ```
 
-2026-10-18 1,172 → 2026-10-26 1,255（+83）
+2026-10-18 1,172 → 2026-10-27 1,264（+92）
 
 
 ---

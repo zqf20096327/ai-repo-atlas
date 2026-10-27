@@ -1,6 +1,6 @@
 # redf0x1/camofox-browser
 
-⭐ 427 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-browser) · 个人维护
+⭐ 428 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-browser) · 个人维护
 
 **面向 AI agent 的反检测浏览器服务器（封装 Camoufox 引擎）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "redf0x1/camofox-browser 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "redf0x1/camofox-browser 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 422 --> 429
-    line [423, 425, 427, 428, 427]
+    line [423, 425, 427, 428, 427, 428]
 ```
 
-2026-10-18 423 → 2026-10-26 427（+4）
+2026-10-18 423 → 2026-10-27 428（+5）
 
 
 ---

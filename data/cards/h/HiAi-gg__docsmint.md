@@ -1,6 +1,6 @@
 # HiAi-gg/docsmint
 
-⭐ 109 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/HiAi-gg/docsmint) · [官网](https://docsmint.com) · 组织维护
+⭐ 109 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/HiAi-gg/docsmint) · [官网](https://docsmint.com) · 组织维护
 
 **面向人与 AI agent 的自托管知识库：富文本编辑+混合搜索+MCP**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HiAi-gg/docsmint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 108 --> 119
     line [118, 110, 109, 109]
 ```
 
-2026-10-18 118 → 2026-10-26 109（-9）
+2026-10-18 118 → 2026-10-27 109（-9）
 
 
 ---

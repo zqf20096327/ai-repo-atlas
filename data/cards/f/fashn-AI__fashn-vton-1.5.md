@@ -1,6 +1,6 @@
 # fashn-AI/fashn-vton-1.5
 
-⭐ 365 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/fashn-AI/fashn-vton-1.5) · [官网](https://fashn.ai/research/vton-1-5) · 组织维护
+⭐ 367 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/fashn-AI/fashn-vton-1.5) · [官网](https://fashn.ai/research/vton-1-5) · 组织维护
 
 **像素空间免分割蒙版的虚拟试穿图像生成模型**
 
@@ -44,13 +44,13 @@ FASHN AI 发布的虚拟试穿模型 v1.5 推理代码仓库：输入人物图�
 
 ```mermaid
 xychart-beta
-    title "fashn-AI/fashn-vton-1.5 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 353 --> 366
-    line [354, 356, 357, 358, 363, 365]
+    title "fashn-AI/fashn-vton-1.5 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 353 --> 368
+    line [354, 356, 357, 358, 363, 365, 367]
 ```
 
-2026-10-18 354 → 2026-10-26 365（+11）
+2026-10-18 354 → 2026-10-27 367（+13）
 
 
 ---

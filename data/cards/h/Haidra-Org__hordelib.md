@@ -1,6 +1,6 @@
 # Haidra-Org/hordelib
 
-⭐ 72 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Haidra-Org/hordelib) · [官网](https://hordelib.org) · 组织维护
+⭐ 73 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Haidra-Org/hordelib) · [官网](https://hordelib.org) · 组织维护
 
 **封装固定版本 ComfyUI，供 AI Horde 程序化运行推理管线**
 
@@ -45,12 +45,12 @@ horde-engine（Python 模块 hordelib）将一个固定 commit 的 ComfyUI 包�
 ```mermaid
 xychart-beta
     title "Haidra-Org/hordelib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 71 --> 74
+    line [72, 73]
 ```
 
-2026-10-18 72 → 2026-10-26 72（+0）
+2026-10-18 72 → 2026-10-27 73（+1）
 
 
 ---

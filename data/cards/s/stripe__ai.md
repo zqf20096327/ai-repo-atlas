@@ -1,6 +1,6 @@
 # stripe/ai
 
-⭐ 1,968 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/stripe/ai) · [官网](https://docs.stripe.com/agents) · 组织维护
+⭐ 1,973 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/stripe/ai) · [官网](https://docs.stripe.com/agents) · 组织维护
 
 **Stripe 官方 AI 集成集合：SDK、MCP 服务与 agent 技能**
 
@@ -45,13 +45,13 @@ Stripe 维护的 AI 集成仓库：提供 @stripe/ai-sdk（将 Stripe 计费接�
 
 ```mermaid
 xychart-beta
-    title "stripe/ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1952 --> 1970
-    line [1953, 1963, 1964, 1965, 1969, 1965, 1968]
+    title "stripe/ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1951 --> 1975
+    line [1953, 1963, 1964, 1965, 1969, 1965, 1968, 1973]
 ```
 
-2026-10-18 1,953 → 2026-10-26 1,968（+15）
+2026-10-18 1,953 → 2026-10-27 1,973（+20）
 
 
 ---

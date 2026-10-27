@@ -1,6 +1,6 @@
 # synaptiai/prompt-decorators
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/synaptiai/prompt-decorators) · [官网](https://synaptiai.github.io/prompt-decorators/) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/synaptiai/prompt-decorators) · [官网](https://synaptiai.github.io/prompt-decorators/) · 组织维护
 
 **提示词装饰器规范与 Python 参考实现：可组合注解控制 LLM 行为**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "synaptiai/prompt-decorators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 44（+0）
 
 
 ---

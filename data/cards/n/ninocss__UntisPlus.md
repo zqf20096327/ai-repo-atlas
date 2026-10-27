@@ -1,6 +1,6 @@
 # ninocss/UntisPlus
 
-⭐ 45 · Dart · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ninocss/UntisPlus) · [官网](https://nino161er.tech) · 个人维护
+⭐ 45 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ninocss/UntisPlus) · [官网](https://nino161er.tech) · 个人维护
 
 **隐私优先的 WebUntis 客户端：课表、考试、空闲教室与本地 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ninocss/UntisPlus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 45（+0）
 
 
 ---

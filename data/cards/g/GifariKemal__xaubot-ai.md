@@ -1,6 +1,6 @@
 # GifariKemal/xaubot-ai
 
-⭐ 100 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/GifariKemal/xaubot-ai) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/GifariKemal/xaubot-ai) · 个人维护
 
 **面向 MetaTrader 5 的 XAUUSD 黄金 AI 交易机器人**
 
@@ -45,12 +45,12 @@ Python 编写的 XAUUSD（黄金）自动交易机器人，运行于 MetaTrader 
 ```mermaid
 xychart-beta
     title "GifariKemal/xaubot-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 95 --> 101
-    line [96, 97, 100, 100]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 95 --> 103
+    line [96, 97, 100, 102]
 ```
 
-2026-10-18 96 → 2026-10-26 100（+4）
+2026-10-18 96 → 2026-10-27 102（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-ai-research-papers
 
-⭐ 74 · Python · 推送 2026-09-13 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-research-papers) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 75 · Python · 推送 2026-09-13 · [GitHub](https://github.com/brandonhimpfen/awesome-ai-research-papers) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **AI 领域重要研究论文的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brandonhimpfen/awesome-ai-research-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 75（+1）
 
 
 ---

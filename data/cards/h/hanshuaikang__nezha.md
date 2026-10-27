@@ -1,6 +1,6 @@
 # hanshuaikang/nezha
 
-⭐ 1,908 · TypeScript · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/hanshuaikang/nezha) · [官网](https://nezha.hanshutx.com/) · 个人维护 · 中文 README
+⭐ 1,907 · TypeScript · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/hanshuaikang/nezha) · [官网](https://nezha.hanshutx.com/) · 个人维护 · 中文 README
 
 **面向 AI 编程的轻量级跨平台 IDE，并发管理多个 Agent 会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hanshuaikang/nezha 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 1905 --> 1909
-    line [1906, 1907, 1908, 1908]
+    line [1906, 1907, 1908, 1907]
 ```
 
-2026-10-18 1,906 → 2026-10-26 1,908（+2）
+2026-10-18 1,906 → 2026-10-27 1,907（+1）
 
 
 ---

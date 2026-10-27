@@ -1,6 +1,6 @@
 # victorcodess/nexus-ui
 
-⭐ 131 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/victorcodess/nexus-ui) · [官网](https://nexus-ui.dev) · 个人维护
+⭐ 132 · TypeScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/victorcodess/nexus-ui) · [官网](https://nexus-ui.dev) · 个人维护
 
 **面向 AI 应用的 React 组件库，shadcn/ui 风格可复制源码**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "victorcodess/nexus-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 130 --> 133
-    line [132, 131, 131]
+    line [132, 131, 132]
 ```
 
-2026-10-18 132 → 2026-10-26 131（-1）
+2026-10-18 132 → 2026-10-27 132（+0）
 
 
 ---

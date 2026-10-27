@@ -1,6 +1,6 @@
 # DevYangJC/Argus
 
-⭐ 286 · Java · 推送 2026-08-16 · [GitHub](https://github.com/DevYangJC/Argus) · 组织维护 · 中文 README
+⭐ 287 · Java · 推送 2026-08-16 · [GitHub](https://github.com/DevYangJC/Argus) · 组织维护 · 中文 README
 
 **面向企业的 RAG + AI Agent 开源知识库问答平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevYangJC/Argus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 280 --> 287
-    line [281, 282, 283, 284, 285, 286]
+    title "DevYangJC/Argus 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 280 --> 288
+    line [281, 282, 283, 284, 285, 286, 287]
 ```
 
-2026-10-18 281 → 2026-10-26 286（+5）
+2026-10-18 281 → 2026-10-27 287（+6）
 
 
 ---

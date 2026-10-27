@@ -48,12 +48,12 @@ Rust 编写的本地语音 AI 框架，流水线为 VAD(Silero)→STT(Whisper/Sh
 ```mermaid
 xychart-beta
     title "mrtozner/vox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 49（+0）
 
 
 ---

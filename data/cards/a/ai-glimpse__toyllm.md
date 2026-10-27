@@ -1,6 +1,6 @@
 # ai-glimpse/toyllm
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ai-glimpse/toyllm) · [官网](https://ai-glimpse.github.io/toyllm/) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ai-glimpse/toyllm) · [官网](https://ai-glimpse.github.io/toyllm/) · 个人维护
 
 **从零实现学习 LLM 的教育项目：GPT-2 训练与推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-glimpse/toyllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

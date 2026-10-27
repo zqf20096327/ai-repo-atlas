@@ -1,6 +1,6 @@
 # tradecatlabs-projects/tradecat-public
 
-⭐ 959 · Makefile · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tradecatlabs-projects/tradecat-public) · [官网](https://x.com/tradecat_ai) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **供 Agent 框架驱动的 Binance 合约纸面交易系统（public-readonly）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

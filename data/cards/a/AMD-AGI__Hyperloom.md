@@ -1,6 +1,6 @@
 # AMD-AGI/Hyperloom
 
-⭐ 254 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
+⭐ 254 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
 
 **在 AMD Instinct GPU 上自动优化 LLM 推理的多 Agent 系统**
 
@@ -46,12 +46,12 @@ ROCm Hyperloom 是面向 AMD Instinct GPU（MI300X/MI325X/MI355X）的推理优�
 ```mermaid
 xychart-beta
     title "AMD-AGI/Hyperloom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 240 --> 255
     line [241, 245, 248, 249, 253, 254, 254]
 ```
 
-2026-10-18 241 → 2026-10-26 254（+13）
+2026-10-18 241 → 2026-10-27 254（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # guolola/SoftJL
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/guolola/SoftJL) · [官网](https://jianglisoftware.com) · 组织维护 · 中文 README
+⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/guolola/SoftJL) · [官网](https://jianglisoftware.com) · 组织维护 · 中文 README
 
 **面向课程/毕设的自托管 AI 软件工程工作台，生成 UML、测试用例与文档**
 
@@ -46,13 +46,13 @@ SoftJL Community 是自托管的 AI 软件工程工作区，面向软件课程�
 
 ```mermaid
 xychart-beta
-    title "guolola/SoftJL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 55 --> 117
-    line [60, 84, 103, 108, 112, 109, 111]
+    title "guolola/SoftJL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 55 --> 118
+    line [60, 84, 103, 108, 112, 109, 111, 113]
 ```
 
-2026-10-18 60 → 2026-10-26 111（+51）
+2026-10-18 60 → 2026-10-27 113（+53）
 
 
 ---

@@ -1,6 +1,6 @@
 # pengpengyi92/dsh-quant
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pengpengyi92/dsh-quant) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pengpengyi92/dsh-quant) · 个人维护
 
 **面向 AI agent 的量化研究插件：59 个量化工具覆盖数据到报告全链路**
 
@@ -45,13 +45,13 @@ dsh-quant 是运行于 dsh 插件框架 Node 运行时内的量化研究工具�
 
 ```mermaid
 xychart-beta
-    title "pengpengyi92/dsh-quant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "pengpengyi92/dsh-quant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 51 --> 56
-    line [52, 53, 54, 55]
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-10-26 55（+3）
+2026-10-18 52 → 2026-10-27 55（+3）
 
 
 ---

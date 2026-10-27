@@ -1,6 +1,6 @@
 # neosun100/cosyvoice-docker
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/neosun100/cosyvoice-docker) · 个人维护 · 中文 README
+⭐ 89 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/neosun100/cosyvoice-docker) · 个人维护 · 中文 README
 
 **CosyVoice 语音合成的 All-in-One Docker 服务：Web UI + API + 声音克隆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neosun100/cosyvoice-docker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 87 --> 90
-    line [88, 89, 88, 88]
+    line [88, 89, 88, 89]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 89（+1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryanontheinside/ComfyUI_RyanOnTheInside 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "ryanontheinside/ComfyUI_RyanOnTheInside 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 865 --> 868
-    line [866, 867]
+    line [866, 867, 867]
 ```
 
-2026-10-18 866 → 2026-10-26 867（+1）
+2026-10-18 866 → 2026-10-27 867（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kalil0321/reverse-api-engineer
 
-⭐ 1,909 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kalil0321/reverse-api-engineer) · [官网](https://reverseapi.dev) · 个人维护
+⭐ 1,954 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kalil0321/reverse-api-engineer) · [官网](https://reverseapi.dev) · 个人维护
 
 **把网站逆向成类型化 API 客户端的 AI agent 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kalil0321/reverse-api-engineer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1337 --> 1961
-    line [1389, 1408, 1640, 1766, 1806, 1854, 1909]
+    title "kalil0321/reverse-api-engineer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1333 --> 2010
+    line [1389, 1408, 1640, 1766, 1806, 1854, 1909, 1954]
 ```
 
-2026-10-18 1,389 → 2026-10-26 1,909（+520）
+2026-10-18 1,389 → 2026-10-27 1,954（+565）
 
 
 ---

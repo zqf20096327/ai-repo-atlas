@@ -1,6 +1,6 @@
 # See-Sol-Lab/DeepSeekGUI
 
-⭐ 271 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/See-Sol-Lab/DeepSeekGUI) · [官网](https://www.ailover-atlas.com/deepseekgui/) · 组织维护 · 中文 README
+⭐ 270 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/See-Sol-Lab/DeepSeekGUI) · [官网](https://www.ailover-atlas.com/deepseekgui/) · 组织维护 · 中文 README
 
 **基于 DeepSeek Harness 的本地 agentic 编程桌面工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "See-Sol-Lab/DeepSeekGUI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 270 --> 290
-    line [289, 288, 279, 280, 271, 271]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 269 --> 290
+    line [289, 288, 279, 280, 271, 270]
 ```
 
-2026-10-18 289 → 2026-10-26 271（-18）
+2026-10-18 289 → 2026-10-27 270（-19）
 
 
 ---

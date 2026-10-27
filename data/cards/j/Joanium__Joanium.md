@@ -1,6 +1,6 @@
 # Joanium/Joanium
 
-⭐ 161 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Joanium/Joanium) · [官网](https://www.joanium.com) · 组织维护
+⭐ 160 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Joanium/Joanium) · [官网](https://www.joanium.com) · 组织维护
 
 **本地优先的 AI 桌面助手：多模型对话与定时后台 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Joanium/Joanium 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 160 --> 180
-    line [174, 176, 179, 161, 161]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 159 --> 180
+    line [174, 176, 179, 161, 160]
 ```
 
-2026-10-18 174 → 2026-10-26 161（-13）
+2026-10-18 174 → 2026-10-27 160（-14）
 
 
 ---

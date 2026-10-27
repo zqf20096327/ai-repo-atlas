@@ -1,6 +1,6 @@
 # openai/mle-bench
 
-⭐ 1,783 · Python · NOASSERTION · 推送 2026-04-24 · [GitHub](https://github.com/openai/mle-bench) · [官网](https://openai.com/index/mle-bench/) · 组织维护
+⭐ 1,786 · Python · NOASSERTION · 推送 2026-04-24 · [GitHub](https://github.com/openai/mle-bench) · [官网](https://openai.com/index/mle-bench/) · 组织维护
 
 **评测 AI agent 机器学习工程能力的基准（75 个 Kaggle 竞赛）**
 
@@ -44,13 +44,13 @@ OpenAI 发布的论文配套代码，构建于 75 个 Kaggle 竞赛数据集之�
 
 ```mermaid
 xychart-beta
-    title "openai/mle-bench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1775 --> 1784
-    line [1776, 1780, 1782, 1783]
+    title "openai/mle-bench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1775 --> 1787
+    line [1776, 1780, 1782, 1783, 1786]
 ```
 
-2026-10-18 1,776 → 2026-10-26 1,783（+7）
+2026-10-18 1,776 → 2026-10-27 1,786（+10）
 
 
 ---

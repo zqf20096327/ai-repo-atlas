@@ -1,6 +1,6 @@
 # IrtezaAsadRizvi/ai-megalist
 
-⭐ 75 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IrtezaAsadRizvi/ai-megalist) · 个人维护
+⭐ 76 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IrtezaAsadRizvi/ai-megalist) · 个人维护
 
 **225+ AI 工具策展索引：按任务与角色组织，附选型建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IrtezaAsadRizvi/ai-megalist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 66 --> 76
-    line [67, 68, 70, 71, 73, 75]
+    title "IrtezaAsadRizvi/ai-megalist 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 66 --> 77
+    line [67, 68, 70, 71, 73, 75, 76]
 ```
 
-2026-10-18 67 → 2026-10-26 75（+8）
+2026-10-18 67 → 2026-10-27 76（+9）
 
 
 ---

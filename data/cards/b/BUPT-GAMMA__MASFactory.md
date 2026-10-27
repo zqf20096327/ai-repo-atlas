@@ -1,6 +1,6 @@
 # BUPT-GAMMA/MASFactory
 
-⭐ 559 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/BUPT-GAMMA/MASFactory) · [官网](https://masfactory.dev) · 组织维护 · 中文 README
+⭐ 560 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/BUPT-GAMMA/MASFactory) · [官网](https://masfactory.dev) · 组织维护 · 中文 README
 
 **面向多智能体系统的图编排框架：意图生成可执行工作流**
 
@@ -45,13 +45,13 @@ BUPT-GAMMA 团队维护的多智能体系统编排框架，以 Node/Edge 图结�
 
 ```mermaid
 xychart-beta
-    title "BUPT-GAMMA/MASFactory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    title "BUPT-GAMMA/MASFactory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 557 --> 566
-    line [565, 558, 559]
+    line [565, 558, 559, 560]
 ```
 
-2026-10-18 565 → 2026-10-26 559（-6）
+2026-10-18 565 → 2026-10-27 560（-5）
 
 
 ---

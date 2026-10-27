@@ -1,6 +1,6 @@
 # Odevio/Odevio-CLI
 
-⭐ 422 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Odevio/Odevio-CLI) · [官网](https://www.odevio.com) · 组织维护
+⭐ 423 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Odevio/Odevio-CLI) · [官网](https://www.odevio.com) · 组织维护
 
 **无需 Mac/Xcode，通过 AI agent 在远程 Mac 构建、签名并发布 iOS 应用**
 
@@ -46,12 +46,12 @@ Python 编写的 CLI 工具，面向 Flutter 开发者：将 iOS 构建、代码
 ```mermaid
 xychart-beta
     title "Odevio/Odevio-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 421 --> 423
-    line [422, 422]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 421 --> 424
+    line [422, 423]
 ```
 
-2026-10-18 422 → 2026-10-26 422（+0）
+2026-10-18 422 → 2026-10-27 423（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # agencyenterprise/GlossoGen
 
-⭐ 27 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agencyenterprise/GlossoGen) · [官网](https://agencyenterprise.github.io/GlossoGen/) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/agencyenterprise/GlossoGen) · [官网](https://agencyenterprise.github.io/GlossoGen/) · 组织维护
 
 **运行多 LLM agent 团队受控实验的平台**
 
@@ -45,12 +45,12 @@ GlossoGen 是一个用于在 LLM agent 团队上开展受控实验的平台：�
 ```mermaid
 xychart-beta
     title "agencyenterprise/GlossoGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 27（+0）
 
 
 ---

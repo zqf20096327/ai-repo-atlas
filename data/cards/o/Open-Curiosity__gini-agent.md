@@ -1,6 +1,6 @@
 # Open-Curiosity/gini-agent
 
-⭐ 2,160 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Open-Curiosity/gini-agent) · 组织维护
+⭐ 2,173 · TypeScript · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Open-Curiosity/gini-agent) · 组织维护
 
 **个人 AI agent 运行时：带记忆与技能学习的本地网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Curiosity/gini-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2001 --> 2174
-    line [2015, 2031, 2071, 2097, 2120, 2142, 2160]
+    title "Open-Curiosity/gini-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2000 --> 2188
+    line [2015, 2031, 2071, 2097, 2120, 2142, 2160, 2173]
 ```
 
-2026-10-18 2,015 → 2026-10-26 2,160（+145）
+2026-10-18 2,015 → 2026-10-27 2,173（+158）
 
 
 ---

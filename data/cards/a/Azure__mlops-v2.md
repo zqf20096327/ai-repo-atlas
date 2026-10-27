@@ -1,6 +1,6 @@
 # Azure/mlops-v2
 
-⭐ 657 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure/mlops-v2) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
+⭐ 658 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure/mlops-v2) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
 
 **面向企业的 Azure MLOps 端到端部署模板加速器**
 
@@ -46,12 +46,12 @@ Azure 官方维护的 MLOps (v2) 解决方案加速器：提供基于模式架�
 ```mermaid
 xychart-beta
     title "Azure/mlops-v2 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 654 --> 658
-    line [655, 656, 657, 657]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 654 --> 659
+    line [655, 656, 657, 658]
 ```
 
-2026-10-18 655 → 2026-10-26 657（+2）
+2026-10-18 655 → 2026-10-27 658（+3）
 
 
 ---

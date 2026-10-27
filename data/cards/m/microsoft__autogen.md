@@ -1,6 +1,6 @@
 # microsoft/autogen
 
-⭐ 61,558 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
+⭐ 61,574 · Python · CC-BY-4.0 · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/autogen) · [官网](https://microsoft.github.io/autogen/) · 组织维护
 
 **微软多智能体 AI 应用框架：构建可自主运行或与人协作的 agent 应用**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/autogen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 61439 --> 61568
-    line [61449, 61491, 61508, 61529, 61540, 61548, 61558]
+    title "microsoft/autogen 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 61437 --> 61586
+    line [61449, 61491, 61508, 61529, 61540, 61548, 61558, 61574]
 ```
 
-2026-10-18 61,449 → 2026-10-26 61,558（+109）
+2026-10-18 61,449 → 2026-10-27 61,574（+125）
 
 
 ---

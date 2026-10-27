@@ -1,6 +1,6 @@
 # AaronGIG/pdf2zh-desktop
 
-⭐ 504 · Python · 推送 2026-10-23 · [GitHub](https://github.com/AaronGIG/pdf2zh-desktop) · [官网](https://aarongig.github.io/pdf2zh-desktop/) · 个人维护 · 中文 README
+⭐ 506 · Python · 推送 2026-10-26 · [GitHub](https://github.com/AaronGIG/pdf2zh-desktop) · [官网](https://aarongig.github.io/pdf2zh-desktop/) · 个人维护 · 中文 README
 
 **开箱即用的 PDF 学术翻译桌面应用，保留公式排版并联动 Zotero**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AaronGIG/pdf2zh-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 495 --> 506
-    line [496, 499, 505, 504]
+    title "AaronGIG/pdf2zh-desktop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 495 --> 507
+    line [496, 499, 505, 504, 506]
 ```
 
-2026-10-18 496 → 2026-10-26 504（+8）
+2026-10-18 496 → 2026-10-27 506（+10）
 
 
 ---

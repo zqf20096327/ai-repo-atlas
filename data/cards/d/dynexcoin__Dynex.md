@@ -1,6 +1,6 @@
 # dynexcoin/Dynex
 
-⭐ 160 · C++ · MIT · 推送 2026-08-26 · [GitHub](https://github.com/dynexcoin/Dynex) · 组织维护
+⭐ 161 · C++ · MIT · 推送 2026-08-26 · [GitHub](https://github.com/dynexcoin/Dynex) · 组织维护
 
 **面向神经形态计算的去中心化区块链平台与 DNX 币节点/钱包**
 
@@ -46,12 +46,12 @@ Dynex 是基于自适应区块链的去中心化神经形态计算网络：矿�
 ```mermaid
 xychart-beta
     title "dynexcoin/Dynex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 159 --> 161
-    line [160, 160]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 159 --> 162
+    line [160, 161]
 ```
 
-2026-10-18 160 → 2026-10-26 160（+0）
+2026-10-18 160 → 2026-10-27 161（+1）
 
 
 ---

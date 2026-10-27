@@ -1,6 +1,6 @@
 # aurict/aurict
 
-⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/aurict/aurict) · [官网](https://aurict.com/) · 组织维护
+⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/aurict/aurict) · [官网](https://aurict.com/) · 组织维护
 
 **终端原生 AI 编码 agent：多模型接入与沙箱化工具执行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aurict/aurict 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

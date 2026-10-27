@@ -1,6 +1,6 @@
 # AstraNetLab/CacheRoute
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/AstraNetLab/CacheRoute) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/AstraNetLab/CacheRoute) · 组织维护
 
 **面向知识密集型 LLM 服务的 KV 缓存复用调度框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AstraNetLab/CacheRoute 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 233 --> 249
-    line [234, 238, 242, 245, 246, 248]
+    title "AstraNetLab/CacheRoute 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 233 --> 250
+    line [234, 238, 242, 245, 246, 248, 249]
 ```
 
-2026-10-18 234 → 2026-10-26 248（+14）
+2026-10-18 234 → 2026-10-27 249（+15）
 
 
 ---

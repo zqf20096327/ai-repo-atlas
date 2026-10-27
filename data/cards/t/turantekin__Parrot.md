@@ -1,6 +1,6 @@
 # turantekin/Parrot
 
-⭐ 118 · Swift · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/turantekin/Parrot) · [官网](https://openparrot.app) · 个人维护
+⭐ 120 · Swift · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/turantekin/Parrot) · [官网](https://openparrot.app) · 个人维护
 
 **Mac 本地优先的会议录制器：通话中实时转写并给出 AI 助答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "turantekin/Parrot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 108 --> 119
-    line [109, 113, 114, 118, 118]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 108 --> 121
+    line [109, 113, 114, 118, 120]
 ```
 
-2026-10-18 109 → 2026-10-26 118（+9）
+2026-10-18 109 → 2026-10-27 120（+11）
 
 
 ---

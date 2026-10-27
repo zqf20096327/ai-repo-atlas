@@ -1,6 +1,6 @@
 # derisk-ai/OpenDerisk
 
-⭐ 973 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/derisk-ai/OpenDerisk) · 组织维护 · 中文 README
+⭐ 974 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/derisk-ai/OpenDerisk) · 组织维护 · 中文 README
 
 **面向应用系统运维的 AI 风险智能管理与根因分析系统**
 
@@ -46,13 +46,13 @@ AI-Native 风险智能系统，用于 AIOps/SRE 场景的 7×24 小时系统保�
 
 ```mermaid
 xychart-beta
-    title "derisk-ai/OpenDerisk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "derisk-ai/OpenDerisk 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 971 --> 975
-    line [972, 973, 974, 973]
+    line [972, 973, 974, 973, 974]
 ```
 
-2026-10-18 972 → 2026-10-26 973（+1）
+2026-10-18 972 → 2026-10-27 974（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # crate/crate
 
-⭐ 4,445 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/crate/crate) · [官网](https://cratedb.com/database) · 组织维护
+⭐ 4,446 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/crate/crate) · [官网](https://cratedb.com/database) · 组织维护
 
 **分布式 SQL 数据库：海量数据近实时存储与分析**
 
@@ -44,13 +44,13 @@ CrateDB 是基于 Lucene 的分布式 SQL 数据库，兼容 PostgreSQL wire pro
 
 ```mermaid
 xychart-beta
-    title "crate/crate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "crate/crate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 4442 --> 4447
-    line [4443, 4446, 4445, 4444, 4445]
+    line [4443, 4446, 4445, 4444, 4445, 4446]
 ```
 
-2026-10-18 4,443 → 2026-10-26 4,445（+2）
+2026-10-18 4,443 → 2026-10-27 4,446（+3）
 
 
 ---

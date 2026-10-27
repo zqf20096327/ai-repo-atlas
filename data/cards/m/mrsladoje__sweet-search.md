@@ -1,6 +1,6 @@
 # mrsladoje/sweet-search
 
-⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrsladoje/sweet-search) · [官网](https://www.npmjs.com/package/sweet-search) · 个人维护
+⭐ 50 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrsladoje/sweet-search) · [官网](https://www.npmjs.com/package/sweet-search) · 个人维护
 
 **面向 AI 编程代理的本地代码搜索工具集（六工具+索引）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrsladoje/sweet-search 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 29 --> 49
-    line [30, 33, 46, 48]
+    title "mrsladoje/sweet-search 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28 --> 52
+    line [30, 33, 46, 48, 50]
 ```
 
-2026-10-18 30 → 2026-10-26 48（+18）
+2026-10-18 30 → 2026-10-27 50（+20）
 
 
 ---

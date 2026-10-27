@@ -46,12 +46,12 @@ AlignTrue 定位为 AI 的 system of record，面向在生产环境运行 agent 
 ```mermaid
 xychart-beta
     title "AlignTrue/aligntrue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

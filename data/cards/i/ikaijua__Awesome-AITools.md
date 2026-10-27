@@ -1,6 +1,6 @@
 # ikaijua/Awesome-AITools
 
-⭐ 6,246 · Python · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护 · 中文 README
+⭐ 6,251 · Python · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护 · 中文 README
 
 **AI 工具收录清单：分类汇总助手、模型、开发工具等资源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ikaijua/Awesome-AITools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6219 --> 6248
-    line [6221, 6227, 6233, 6237, 6241, 6246]
+    title "ikaijua/Awesome-AITools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6218 --> 6254
+    line [6221, 6227, 6233, 6237, 6241, 6246, 6251]
 ```
 
-2026-10-18 6,221 → 2026-10-26 6,246（+25）
+2026-10-18 6,221 → 2026-10-27 6,251（+30）
 
 
 ---

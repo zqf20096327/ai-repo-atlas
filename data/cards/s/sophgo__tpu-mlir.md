@@ -1,6 +1,6 @@
 # sophgo/tpu-mlir
 
-⭐ 1,008 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sophgo/tpu-mlir) · 组织维护 · 中文 README
+⭐ 1,009 · C++ · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/sophgo/tpu-mlir) · 组织维护 · 中文 README
 
 **面向 Sophgo TPU 的 MLIR 机器学习编译器：模型转 bmodel**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sophgo/tpu-mlir 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    title "sophgo/tpu-mlir 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1000 --> 1010
-    line [1001, 1004, 1009, 1008]
+    line [1001, 1004, 1009, 1008, 1009]
 ```
 
-2026-10-18 1,001 → 2026-10-26 1,008（+7）
+2026-10-18 1,001 → 2026-10-27 1,009（+8）
 
 
 ---

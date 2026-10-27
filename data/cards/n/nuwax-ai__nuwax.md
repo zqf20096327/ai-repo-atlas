@@ -1,6 +1,6 @@
 # nuwax-ai/nuwax
 
-⭐ 896 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nuwax-ai/nuwax) · [官网](https://nuwax.com) · 组织维护 · 中文 README
+⭐ 897 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nuwax-ai/nuwax) · [官网](https://nuwax.com) · 组织维护 · 中文 README
 
 **企业级 AI Agent 开发运营平台：私有化构建与部署智能体**
 
@@ -45,12 +45,12 @@ Nuwax Agent OS 是私有化部署的 Agentic AI 平台，覆盖 agent 创建与�
 ```mermaid
 xychart-beta
     title "nuwax-ai/nuwax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 893 --> 897
-    line [894, 895, 896, 896]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 893 --> 898
+    line [894, 895, 896, 897]
 ```
 
-2026-10-18 894 → 2026-10-26 896（+2）
+2026-10-18 894 → 2026-10-27 897（+3）
 
 
 ---

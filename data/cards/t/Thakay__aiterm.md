@@ -1,6 +1,6 @@
 # Thakay/aiterm
 
-⭐ 64 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Thakay/aiterm) · 个人维护
+⭐ 65 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Thakay/aiterm) · 个人维护
 
 **把自然语言转成终端 shell 命令并按确认执行的 Go CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Thakay/aiterm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 63 --> 66
+    line [64, 65]
 ```
 
-2026-10-18 64 → 2026-10-26 64（+0）
+2026-10-18 64 → 2026-10-27 65（+1）
 
 
 ---

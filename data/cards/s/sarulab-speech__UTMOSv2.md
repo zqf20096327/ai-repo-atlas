@@ -45,13 +45,13 @@ UTokyo-SaruLab 的 MOS（平均意见分）预测系统官方实现，VoiceMOS C
 
 ```mermaid
 xychart-beta
-    title "sarulab-speech/UTMOSv2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "sarulab-speech/UTMOSv2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 373 --> 377
-    line [374, 375, 376]
+    line [374, 375, 376, 376]
 ```
 
-2026-10-18 374 → 2026-10-26 376（+2）
+2026-10-18 374 → 2026-10-27 376（+2）
 
 
 ---

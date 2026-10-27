@@ -1,6 +1,6 @@
 # lemony-ai/cascadeflow
 
-⭐ 3,931 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lemony-ai/cascadeflow) · [官网](https://cascadeflow.ai) · 组织维护
+⭐ 3,933 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/lemony-ai/cascadeflow) · [官网](https://cascadeflow.ai) · 组织维护
 
 **面向 AI agent 的进程内模型级联运行时：优化成本/时延/质量/预算**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lemony-ai/cascadeflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "lemony-ai/cascadeflow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 3930 --> 3946
-    line [3945, 3941, 3939, 3936, 3934, 3933, 3931]
+    line [3945, 3941, 3939, 3936, 3934, 3933, 3931, 3933]
 ```
 
-2026-10-18 3,945 → 2026-10-26 3,931（-14）
+2026-10-18 3,945 → 2026-10-27 3,933（-12）
 
 
 ---

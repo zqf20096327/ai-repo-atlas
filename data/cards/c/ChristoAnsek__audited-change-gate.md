@@ -1,6 +1,6 @@
 # ChristoAnsek/audited-change-gate
 
-⭐ 116 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/ChristoAnsek/audited-change-gate) · 个人维护
+⭐ 116 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/ChristoAnsek/audited-change-gate) · 个人维护
 
 **自主 agent 基础设施变更的密码学审计门控（proof-carrying envelope）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChristoAnsek/audited-change-gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-10-26 116（+0）
+2026-10-18 116 → 2026-10-27 116（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Huabu
 
-⭐ 163 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/Huabu) · [官网](https://microsoft.github.io/Huabu/) · 组织维护
+⭐ 164 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/Huabu) · [官网](https://microsoft.github.io/Huabu/) · 组织维护
 
 **微软的无限画布式思考空间：人与自有 agent 协同整理思路**
 
@@ -45,12 +45,12 @@ Huabu 是一个可视化无限工作界面（桌面应用为主，另有 web 版
 ```mermaid
 xychart-beta
     title "microsoft/Huabu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 159 --> 164
-    line [160, 161, 162, 163, 163]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 159 --> 165
+    line [160, 161, 162, 163, 164]
 ```
 
-2026-10-18 160 → 2026-10-26 163（+3）
+2026-10-18 160 → 2026-10-27 164（+4）
 
 
 ---

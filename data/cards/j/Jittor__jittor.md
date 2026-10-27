@@ -1,6 +1,6 @@
 # Jittor/jittor
 
-⭐ 3,241 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Jittor/jittor) · [官网](https://cg.cs.tsinghua.edu.cn/jittor/) · 组织维护 · 中文 README
+⭐ 3,242 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Jittor/jittor) · [官网](https://cg.cs.tsinghua.edu.cn/jittor/) · 组织维护 · 中文 README
 
 **基于 JIT 编译与元算子的深度学习框架，面向研究者与开发者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jittor/jittor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 3236 --> 3242
-    line [3237, 3240, 3241]
+    title "Jittor/jittor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3236 --> 3243
+    line [3237, 3240, 3241, 3242]
 ```
 
-2026-10-18 3,237 → 2026-10-26 3,241（+4）
+2026-10-18 3,237 → 2026-10-27 3,242（+5）
 
 
 ---

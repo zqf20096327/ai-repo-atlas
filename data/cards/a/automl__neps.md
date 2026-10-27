@@ -1,6 +1,6 @@
 # automl/neps
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/automl/neps) · [官网](https://automl.github.io/neps/) · 组织维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/automl/neps) · [官网](https://automl.github.io/neps/) · 组织维护
 
 **面向深度学习专家的神经管线与超参数搜索工具**
 
@@ -47,12 +47,12 @@ NePS 是一个深度学习管线设计选择调优工具，支持超参数优化
 ```mermaid
 xychart-beta
     title "automl/neps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 87 --> 90
     line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-10-26 89（+1）
+2026-10-18 88 → 2026-10-27 89（+1）
 
 
 ---

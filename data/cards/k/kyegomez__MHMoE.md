@@ -1,6 +1,6 @@
 # kyegomez/MHMoE
 
-⭐ 31 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/MHMoE) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MHMoE) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **Multi-Head MoE 论文的 PyTorch 社区实现库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MHMoE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

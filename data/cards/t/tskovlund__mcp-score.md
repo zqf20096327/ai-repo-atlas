@@ -1,6 +1,6 @@
 # tskovlund/mcp-score
 
-⭐ 30 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tskovlund/mcp-score) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tskovlund/mcp-score) · 个人维护
 
 **让 AI 助手生成与编辑乐谱的 MCP server（MusicXML+MuseScore）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tskovlund/mcp-score 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-26 30（+1）
+2026-10-18 29 → 2026-10-27 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anil-matcha/MiniMax-H3-API
 
-⭐ 55 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/MiniMax-H3-API) · [官网](https://muapi.ai/minimax-h3) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/MiniMax-H3-API) · [官网](https://muapi.ai/minimax-h3) · 个人维护
 
 **MiniMax H3 视频生成 API 的 Python SDK**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/MiniMax-H3-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 52 --> 56
-    line [53, 54, 55, 55]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 55, 56]
 ```
 
-2026-10-18 53 → 2026-10-26 55（+2）
+2026-10-18 53 → 2026-10-27 56（+3）
 
 
 ---

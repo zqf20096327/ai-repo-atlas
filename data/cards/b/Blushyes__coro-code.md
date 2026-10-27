@@ -1,6 +1,6 @@
 # Blushyes/coro-code
 
-⭐ 369 · Rust · 推送 2025-10-30 · [GitHub](https://github.com/Blushyes/coro-code) · [官网](https://sofast.fun) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Rust 编写的终端 AI 编码 Agent，生成与调试代码**
 

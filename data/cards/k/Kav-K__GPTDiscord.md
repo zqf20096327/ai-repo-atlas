@@ -1,6 +1,6 @@
 # Kav-K/GPTDiscord
 
-⭐ 1,850 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Kav-K/GPTDiscord) · 个人维护
+⭐ 1,851 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Kav-K/GPTDiscord) · 个人维护
 
 **在 Discord 中提供 OpenAI 对话、图像生成与审核的机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kav-K/GPTDiscord 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1849 --> 1851
-    line [1850, 1850]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1849 --> 1852
+    line [1850, 1851]
 ```
 
-2026-10-18 1,850 → 2026-10-26 1,850（+0）
+2026-10-18 1,850 → 2026-10-27 1,851（+1）
 
 
 ---

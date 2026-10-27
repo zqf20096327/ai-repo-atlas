@@ -1,6 +1,6 @@
 # beltromatti/get-it
 
-⭐ 1,134 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/beltromatti/get-it) · [官网](https://getit.noesisai.it) · 组织维护
+⭐ 1,135 · JavaScript · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/beltromatti/get-it) · [官网](https://getit.noesisai.it) · 组织维护
 
 **把 PDF 变成掌握度地图的桌面学习伴侣应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beltromatti/get-it 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1108 --> 1136
-    line [1110, 1121, 1126, 1127, 1130, 1132, 1134]
+    title "beltromatti/get-it 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1108 --> 1137
+    line [1110, 1121, 1126, 1127, 1130, 1132, 1134, 1135]
 ```
 
-2026-10-18 1,110 → 2026-10-26 1,134（+24）
+2026-10-18 1,110 → 2026-10-27 1,135（+25）
 
 
 ---

@@ -44,13 +44,13 @@ ComfyUI 自定义节点扩展，把 SAM2（Segment Anything 2）适配进 ComfyU
 
 ```mermaid
 xychart-beta
-    title "neverbiasu/ComfyUI-SAM2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "neverbiasu/ComfyUI-SAM2 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 263 --> 266
-    line [265, 264, 265]
+    line [265, 264, 265, 265]
 ```
 
-2026-10-18 265 → 2026-10-26 265（+0）
+2026-10-18 265 → 2026-10-27 265（+0）
 
 
 ---

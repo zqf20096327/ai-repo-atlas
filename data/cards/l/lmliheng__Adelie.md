@@ -1,6 +1,6 @@
 # lmliheng/Adelie
 
-⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/lmliheng/Adelie) · 个人维护 · 中文 README
+⭐ 134 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lmliheng/Adelie) · 个人维护 · 中文 README
 
 **本地优先的多智能体应用开发平台（PenguinHarness 分支）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lmliheng/Adelie 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "lmliheng/Adelie 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 24 --> 149
-    line [35, 34, 71, 122, 133, 138, 139]
+    line [35, 34, 71, 122, 133, 138, 139, 134]
 ```
 
-2026-10-18 35 → 2026-10-26 139（+104）
+2026-10-18 35 → 2026-10-27 134（+99）
 
 
 ---

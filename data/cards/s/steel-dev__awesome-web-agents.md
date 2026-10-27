@@ -1,6 +1,6 @@
 # steel-dev/awesome-web-agents
 
-⭐ 1,594 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/steel-dev/awesome-web-agents) · 组织维护
+⭐ 1,595 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/steel-dev/awesome-web-agents) · 组织维护
 
 **构建 AI 网页智能体的工具与框架策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "steel-dev/awesome-web-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1590 --> 1595
-    line [1594, 1591, 1593, 1594, 1594]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1590 --> 1596
+    line [1594, 1591, 1593, 1594, 1595]
 ```
 
-2026-10-18 1,594 → 2026-10-26 1,594（+0）
+2026-10-18 1,594 → 2026-10-27 1,595（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIScientists-Dev/Flowtrace
 
-⭐ 483 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/AIScientists-Dev/Flowtrace) · [官网](https://morphmind.ai) · 组织维护 · 中文 README
+⭐ 482 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/AIScientists-Dev/Flowtrace) · [官网](https://morphmind.ai) · 组织维护 · 中文 README
 
 **把 agent 的工作流转为可留存、可复用、可逐步验证的 trace 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIScientists-Dev/Flowtrace 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 482 --> 487
-    line [485, 486, 484, 483]
+    title "AIScientists-Dev/Flowtrace 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 481 --> 487
+    line [485, 486, 484, 483, 482]
 ```
 
-2026-10-18 485 → 2026-10-26 483（-2）
+2026-10-18 485 → 2026-10-27 482（-3）
 
 
 ---

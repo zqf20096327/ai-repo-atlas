@@ -1,6 +1,6 @@
 # Sekolah76/syadagentic
 
-⭐ 91 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Sekolah76/syadagentic) · [官网](https://github.com/Sekolah76/syadagentic) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Sekolah76/syadagentic) · [官网](https://github.com/Sekolah76/syadagentic) · 个人维护
 
 **零拒绝 AI agent 框架：越狱模板与自动化/安全技能集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sekolah76/syadagentic 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 43 --> 95
-    line [47, 64, 77, 81, 83, 87, 91]
+    title "Sekolah76/syadagentic 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 43 --> 98
+    line [47, 64, 77, 81, 83, 87, 91, 94]
 ```
 
-2026-10-18 47 → 2026-10-26 91（+44）
+2026-10-18 47 → 2026-10-27 94（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # CN-UPB/ml-for-resource-allocation
 
-⭐ 59 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/CN-UPB/ml-for-resource-allocation) · 组织维护
+⭐ 59 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/CN-UPB/ml-for-resource-allocation) · 组织维护
 
 **用机器学习回归预测 NFV 虚拟网络功能资源需求的研究代码与数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CN-UPB/ml-for-resource-allocation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

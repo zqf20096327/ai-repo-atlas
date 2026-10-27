@@ -1,6 +1,6 @@
 # shootthesound/comfyUI-Realtime-Lora
 
-⭐ 575 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/shootthesound/comfyUI-Realtime-Lora) · 个人维护
+⭐ 576 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/shootthesound/comfyUI-Realtime-Lora) · 个人维护
 
 **ComfyUI 内实时 LoRA 训练/分析/分块加载节点集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shootthesound/comfyUI-Realtime-Lora 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 571 --> 576
-    line [572, 573, 574, 575]
+    title "shootthesound/comfyUI-Realtime-Lora 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 571 --> 577
+    line [572, 573, 574, 575, 576]
 ```
 
-2026-10-18 572 → 2026-10-26 575（+3）
+2026-10-18 572 → 2026-10-27 576（+4）
 
 
 ---

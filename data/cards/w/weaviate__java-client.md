@@ -1,6 +1,6 @@
 # weaviate/java-client
 
-⭐ 34 · Java · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/weaviate/java-client) · 组织维护
+⭐ 34 · Java · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/weaviate/java-client) · 组织维护
 
 **Weaviate 向量数据库的官方 Java 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/java-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

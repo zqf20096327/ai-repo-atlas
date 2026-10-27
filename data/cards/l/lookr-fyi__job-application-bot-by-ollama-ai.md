@@ -1,6 +1,6 @@
 # lookr-fyi/job-application-bot-by-ollama-ai
 
-⭐ 472 · 推送 2026-03-03 · [GitHub](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) · [官网](https://jobhuntr.fyi) · 组织维护
+⭐ 473 · 推送 2026-03-03 · [GitHub](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai) · [官网](https://jobhuntr.fyi) · 组织维护
 
 **面向求职者的自动投递 AI agent 桌面应用**
 
@@ -46,12 +46,12 @@ JobHuntr 是一款求职自动化 AI agent 桌面应用（macOS/Windows 下载�
 ```mermaid
 xychart-beta
     title "lookr-fyi/job-application-bot-by-ollama-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 469 --> 473
-    line [470, 471, 472, 472]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 469 --> 474
+    line [470, 471, 472, 473]
 ```
 
-2026-10-18 470 → 2026-10-26 472（+2）
+2026-10-18 470 → 2026-10-27 473（+3）
 
 
 ---

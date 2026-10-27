@@ -1,6 +1,6 @@
 # interpretml/interpret
 
-⭐ 6,969 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/interpretml/interpret) · [官网](https://interpret.ml/docs) · 组织维护
+⭐ 6,970 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/interpretml/interpret) · [官网](https://interpret.ml/docs) · 组织维护
 
 **机器学习可解释性工具包：训练玻璃盒模型并解释黑盒模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "interpretml/interpret 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 6960 --> 6970
-    line [6961, 6963, 6965, 6966, 6968, 6969]
+    title "interpretml/interpret 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6960 --> 6971
+    line [6961, 6963, 6965, 6966, 6968, 6969, 6970]
 ```
 
-2026-10-18 6,961 → 2026-10-26 6,969（+8）
+2026-10-18 6,961 → 2026-10-27 6,970（+9）
 
 
 ---

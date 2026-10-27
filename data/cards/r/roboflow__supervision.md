@@ -1,6 +1,6 @@
 # roboflow/supervision
 
-⭐ 51,354 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
+⭐ 51,374 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
 
 **计算机视觉开发者的可复用工具集：模型接入、标注、数据集处理**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "roboflow/supervision 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 51219 --> 51366
-    line [51231, 51252, 51254, 51261, 51311, 51340, 51354]
+    title "roboflow/supervision 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 51217 --> 51388
+    line [51231, 51252, 51254, 51261, 51311, 51340, 51354, 51374]
 ```
 
-2026-10-18 51,231 → 2026-10-26 51,354（+123）
+2026-10-18 51,231 → 2026-10-27 51,374（+143）
 
 
 ---

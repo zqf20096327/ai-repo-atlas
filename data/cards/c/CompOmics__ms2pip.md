@@ -1,6 +1,6 @@
 # CompOmics/ms2pip
 
-⭐ 50 · HTML · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/CompOmics/ms2pip) · [官网](https://ms2pip.readthedocs.io) · 组织维护
+⭐ 51 · HTML · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/CompOmics/ms2pip) · [官网](https://ms2pip.readthedocs.io) · 组织维护
 
 **从肽序列预测 MS2 质谱峰强度的蛋白质组学工具**
 
@@ -45,12 +45,12 @@ MS²PIP 基于 XGBoost 机器学习算法（Python 编写，Rust 辅助函数）
 ```mermaid
 xychart-beta
     title "CompOmics/ms2pip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 51（+1）
 
 
 ---

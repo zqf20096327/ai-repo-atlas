@@ -1,6 +1,6 @@
 # onnx/neural-compressor
 
-⭐ 102 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/onnx/neural-compressor) · 组织维护
+⭐ 103 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/onnx/neural-compressor) · 组织维护
 
 **面向 ONNX 模型的量化压缩 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "onnx/neural-compressor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-26 102（+0）
+2026-10-18 102 → 2026-10-27 103（+1）
 
 
 ---

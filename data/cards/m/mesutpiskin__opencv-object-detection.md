@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mesutpiskin/opencv-object-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 173 --> 175
     line [174, 174]
 ```
 
-2026-10-18 174 → 2026-10-26 174（+0）
+2026-10-18 174 → 2026-10-27 174（+0）
 
 
 ---

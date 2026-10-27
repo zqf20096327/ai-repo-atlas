@@ -1,6 +1,6 @@
 # ccmdi/geobench
 
-⭐ 66 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ccmdi/geobench) · [官网](https://geobench.org) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/ccmdi/geobench) · [官网](https://geobench.org) · 个人维护
 
 **评估大语言模型图像地理定位能力的 GeoGuessr 基准**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ccmdi/geobench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    line [65, 66, 65]
 ```
 
-2026-10-18 65 → 2026-10-26 66（+1）
+2026-10-18 65 → 2026-10-27 65（+0）
 
 
 ---

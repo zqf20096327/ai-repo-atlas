@@ -45,12 +45,12 @@ Unstructured Platform API 的 HTTP 客户端 SDK，以 Python 库形式提供，
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-python-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 119 --> 121
     line [120, 120]
 ```
 
-2026-10-18 120 → 2026-10-26 120（+0）
+2026-10-18 120 → 2026-10-27 120（+0）
 
 
 ---

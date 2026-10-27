@@ -1,6 +1,6 @@
 # rawveg/ollama-mcp
 
-⭐ 175 · TypeScript · AGPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/rawveg/ollama-mcp) · 个人维护
+⭐ 176 · TypeScript · AGPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/rawveg/ollama-mcp) · 个人维护
 
 **把 Ollama SDK 全量封装为 MCP 工具的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rawveg/ollama-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 174 --> 177
+    line [175, 176]
 ```
 
-2026-10-18 175 → 2026-10-26 175（+0）
+2026-10-18 175 → 2026-10-27 176（+1）
 
 
 ---

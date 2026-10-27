@@ -1,6 +1,6 @@
 # google/elephant-goldfish-model
 
-⭐ 772 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google/elephant-goldfish-model) · [官网](https://egm.dev) · 组织维护
+⭐ 1,672 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/google/elephant-goldfish-model) · [官网](https://egm.dev) · 组织维护
 
 **Google 出品的规格驱动开发框架：多智能体对抗评审设计规范**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/elephant-goldfish-model 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 0 --> 845
-    line [36, 142, 276, 466, 772]
+    title "google/elephant-goldfish-model 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 1835
+    line [36, 142, 276, 466, 772, 1672]
 ```
 
-2026-10-22 36 → 2026-10-26 772（+736）
+2026-10-22 36 → 2026-10-27 1,672（+1,636）
 
 
 ---

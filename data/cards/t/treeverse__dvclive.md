@@ -1,6 +1,6 @@
 # treeverse/dvclive
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/treeverse/dvclive) · [官网](https://dvc.org/doc/dvclive) · 组织维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/treeverse/dvclive) · [官网](https://dvc.org/doc/dvclive) · 组织维护
 
 **Python 库：以文件格式记录并跟踪 ML 指标、参数与模型**
 
@@ -45,12 +45,12 @@ DVCLive 是一个 Python 的 ML 实验记录库，将训练指标、参数、模
 ```mermaid
 xychart-beta
     title "treeverse/dvclive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 194 --> 196
     line [195, 195]
 ```
 
-2026-10-18 195 → 2026-10-26 195（+0）
+2026-10-18 195 → 2026-10-27 195（+0）
 
 
 ---

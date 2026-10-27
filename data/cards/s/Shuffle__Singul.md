@@ -1,6 +1,6 @@
 # Shuffle/Singul
 
-⭐ 26 · Go · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/Shuffle/Singul) · [官网](https://singul.io) · 组织维护
+⭐ 26 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Shuffle/Singul) · [官网](https://singul.io) · 组织维护
 
 **一行代码连接各服务的 API 标准化客户端，用 LLM 做请求翻译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Shuffle/Singul 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

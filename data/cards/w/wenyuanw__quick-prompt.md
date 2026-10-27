@@ -1,6 +1,6 @@
 # wenyuanw/quick-prompt
 
-⭐ 859 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/wenyuanw/quick-prompt) · [官网](https://quick-prompt.wenyuanw.me/) · 个人维护 · 中文 README
+⭐ 860 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/wenyuanw/quick-prompt) · [官网](https://quick-prompt.wenyuanw.me/) · 个人维护 · 中文 README
 
 **浏览器插件：在任何网页输入框快速插入与管理的提示词库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wenyuanw/quick-prompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 857 --> 860
-    line [858, 859, 859]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 857 --> 861
+    line [858, 859, 860]
 ```
 
-2026-10-18 858 → 2026-10-26 859（+1）
+2026-10-18 858 → 2026-10-27 860（+2）
 
 
 ---

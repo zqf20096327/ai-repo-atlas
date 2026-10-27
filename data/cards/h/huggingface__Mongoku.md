@@ -1,6 +1,6 @@
 # huggingface/Mongoku
 
-⭐ 1,427 · Svelte · MIT · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/Mongoku) · 组织维护
+⭐ 1,427 · Svelte · MIT · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/Mongoku) · 组织维护
 
 **基于浏览器的 MongoDB Web 管理客户端**
 
@@ -45,12 +45,12 @@ Mongoku 是一个用 TypeScript/Node.js/SvelteKit 构建的 MongoDB Web 客户�
 ```mermaid
 xychart-beta
     title "huggingface/Mongoku 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1426 --> 1429
     line [1428, 1427, 1427]
 ```
 
-2026-10-18 1,428 → 2026-10-26 1,427（-1）
+2026-10-18 1,428 → 2026-10-27 1,427（-1）
 
 
 ---

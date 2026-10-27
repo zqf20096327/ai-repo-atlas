@@ -1,6 +1,6 @@
 # SerialLain3170/AwesomeAnimeResearch
 
-⭐ 1,254 · 推送 2026-07-20 · [GitHub](https://github.com/SerialLain3170/AwesomeAnimeResearch) · 个人维护
+⭐ 1,255 · 推送 2026-07-20 · [GitHub](https://github.com/SerialLain3170/AwesomeAnimeResearch) · 个人维护
 
 **动画/漫画研究的论文与数据集策展清单**
 
@@ -44,12 +44,12 @@ Awesome 系列的学术资源聚合仓库，收录动画与漫画方向的论文
 ```mermaid
 xychart-beta
     title "SerialLain3170/AwesomeAnimeResearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1253 --> 1255
-    line [1254, 1254]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1253 --> 1256
+    line [1254, 1255]
 ```
 
-2026-10-18 1,254 → 2026-10-26 1,254（+0）
+2026-10-18 1,254 → 2026-10-27 1,255（+1）
 
 
 ---

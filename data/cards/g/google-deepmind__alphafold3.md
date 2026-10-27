@@ -1,6 +1,6 @@
 # google-deepmind/alphafold3
 
-⭐ 8,679 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/alphafold3) · 组织维护
+⭐ 8,685 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/alphafold3) · 组织维护
 
 **给结构生物学研究者：预测蛋白质及生物分子相互作用的推断管线**
 
@@ -45,13 +45,13 @@ AlphaFold 3 推断管线的官方实现：输入 JSON 描述的序列（蛋白�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphafold3 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 8648 --> 8681
-    line [8650, 8659, 8665, 8668, 8672, 8674, 8679]
+    title "google-deepmind/alphafold3 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8647 --> 8688
+    line [8650, 8659, 8665, 8668, 8672, 8674, 8679, 8685]
 ```
 
-2026-10-18 8,650 → 2026-10-26 8,679（+29）
+2026-10-18 8,650 → 2026-10-27 8,685（+35）
 
 
 ---

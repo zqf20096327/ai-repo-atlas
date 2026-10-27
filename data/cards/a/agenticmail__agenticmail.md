@@ -1,6 +1,6 @@
 # agenticmail/agenticmail
 
-⭐ 241 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agenticmail/agenticmail) · [官网](https://www.npmjs.com/package/agenticmail) · 组织维护
+⭐ 242 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/agenticmail/agenticmail) · [官网](https://www.npmjs.com/package/agenticmail) · 组织维护
 
 **给 AI agent 提供真实邮箱、手机号与通话的通信基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenticmail/agenticmail 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 238 --> 242
-    line [239, 240, 241]
+    title "agenticmail/agenticmail 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 238 --> 243
+    line [239, 240, 241, 242]
 ```
 
-2026-10-18 239 → 2026-10-26 241（+2）
+2026-10-18 239 → 2026-10-27 242（+3）
 
 
 ---

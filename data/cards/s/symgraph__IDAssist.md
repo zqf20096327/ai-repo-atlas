@@ -1,6 +1,6 @@
 # symgraph/IDAssist
 
-⭐ 888 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/IDAssist) · 个人维护
+⭐ 890 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/IDAssist) · 个人维护
 
 **为逆向工程师提供 IDA Pro 内 LLM 辅助二进制分析插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "symgraph/IDAssist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 882 --> 889
-    line [883, 885, 887, 888]
+    title "symgraph/IDAssist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 882 --> 891
+    line [883, 885, 887, 888, 890]
 ```
 
-2026-10-18 883 → 2026-10-26 888（+5）
+2026-10-18 883 → 2026-10-27 890（+7）
 
 
 ---

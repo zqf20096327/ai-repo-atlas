@@ -1,6 +1,6 @@
 # microsoft/generative-ai-for-beginners
 
-⭐ 122,150 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
+⭐ 122,220 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/generative-ai-for-beginners) · 组织维护
 
 **面向初学者的生成式 AI 应用开发入门课程（21 课）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/generative-ai-for-beginners 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 121459 --> 122212
-    line [121521, 121645, 121823, 121929, 122002, 122075, 122150]
+    title "microsoft/generative-ai-for-beginners 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 121452 --> 122289
+    line [121521, 121645, 121823, 121929, 122002, 122075, 122150, 122220]
 ```
 
-2026-10-18 121,521 → 2026-10-26 122,150（+629）
+2026-10-18 121,521 → 2026-10-27 122,220（+699）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mixar-AI/mixar-app
 
-⭐ 557 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mixar-AI/mixar-app) · [官网](https://www.mixar.app) · 组织维护
+⭐ 560 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Mixar-AI/mixar-app) · [官网](https://www.mixar.app) · 组织维护
 
 **带 AI 助手与生成工具的 Blender 定制桌面应用（3D 创作套件）**
 
@@ -45,13 +45,13 @@ Mixar 是基于 Blender 5.2 的定制分支桌面应用，在保留 Blender 全�
 
 ```mermaid
 xychart-beta
-    title "Mixar-AI/mixar-app 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 527 --> 559
-    line [529, 542, 547, 550, 552, 555, 557]
+    title "Mixar-AI/mixar-app 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 526 --> 563
+    line [529, 542, 547, 550, 552, 555, 557, 560]
 ```
 
-2026-10-18 529 → 2026-10-26 557（+28）
+2026-10-18 529 → 2026-10-27 560（+31）
 
 
 ---

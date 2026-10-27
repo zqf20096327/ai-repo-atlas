@@ -1,6 +1,6 @@
 # siyuan-note/siyuan
 
-⭐ 46,931 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/siyuan-note/siyuan) · [官网](https://b3log.org/siyuan) · 组织维护 · 中文 README
+⭐ 46,945 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/siyuan-note/siyuan) · [官网](https://b3log.org/siyuan) · 组织维护 · 中文 README
 
 **隐私优先自托管知识管理工具，人与 AI agent 协作**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "siyuan-note/siyuan 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 46801 --> 46942
-    line [46812, 46843, 46871, 46884, 46901, 46911, 46931]
+    title "siyuan-note/siyuan 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 46799 --> 46958
+    line [46812, 46843, 46871, 46884, 46901, 46911, 46931, 46945]
 ```
 
-2026-10-18 46,812 → 2026-10-26 46,931（+119）
+2026-10-18 46,812 → 2026-10-27 46,945（+133）
 
 
 ---

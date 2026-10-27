@@ -1,6 +1,6 @@
 # AgentSkillOS/SkillAnything
 
-⭐ 472 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/AgentSkillOS/SkillAnything) · 组织维护
+⭐ 473 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/AgentSkillOS/SkillAnything) · 组织维护
 
 **为 AI agent 平台自动生成生产级技能（Skill）的元技能工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentSkillOS/SkillAnything 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 467 --> 473
-    line [468, 470, 471, 472]
+    title "AgentSkillOS/SkillAnything 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 467 --> 474
+    line [468, 470, 471, 472, 473]
 ```
 
-2026-10-18 468 → 2026-10-26 472（+4）
+2026-10-18 468 → 2026-10-27 473（+5）
 
 
 ---

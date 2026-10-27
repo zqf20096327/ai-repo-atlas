@@ -1,6 +1,6 @@
 # Hy4ri/hermes-mobile
 
-⭐ 338 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Hy4ri/hermes-mobile) · [官网](https://hy4ri.github.io/hermes-mobile/) · 个人维护
+⭐ 342 · Kotlin · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Hy4ri/hermes-mobile) · [官网](https://hy4ri.github.io/hermes-mobile/) · 个人维护
 
 **在 Android 手机上控制 Hermes AI agent 的原生客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hy4ri/hermes-mobile 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 291 --> 342
-    line [295, 304, 316, 321, 323, 329, 338]
+    title "Hy4ri/hermes-mobile 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 291 --> 346
+    line [295, 304, 316, 321, 323, 329, 338, 342]
 ```
 
-2026-10-18 295 → 2026-10-26 338（+43）
+2026-10-18 295 → 2026-10-27 342（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # roandejager/Hillock
 
-⭐ 144 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/roandejager/Hillock) · 个人维护
+⭐ 144 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/roandejager/Hillock) · 个人维护
 
 **本地超维计算记忆引擎：为边缘硬件提供低显存 RAG 替代**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "roandejager/Hillock 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 142 --> 145
     line [143, 144, 144]
 ```
 
-2026-10-18 143 → 2026-10-26 144（+1）
+2026-10-18 143 → 2026-10-27 144（+1）
 
 
 ---

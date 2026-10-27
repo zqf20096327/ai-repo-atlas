@@ -1,6 +1,6 @@
 # kyegomez/OpenR1
 
-⭐ 31 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kyegomez/OpenR1) · [官网](https://swarms.ai) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/OpenR1) · [官网](https://swarms.ai) · 个人维护 · 中文 README
 
 **DeepSeek R1 的开源复现，提供 GRPO 强化学习训练流程**
 
@@ -44,12 +44,12 @@ kyegomez 维护的开源项目，复现 DeepSeek R1 的训练方法：提供基�
 ```mermaid
 xychart-beta
     title "kyegomez/OpenR1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 31（+0）
 
 
 ---

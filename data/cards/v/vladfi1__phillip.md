@@ -1,6 +1,6 @@
 # vladfi1/phillip
 
-⭐ 595 · Python · GPL-3.0 · 推送 2026-07-06 · [GitHub](https://github.com/vladfi1/phillip) · 个人维护
+⭐ 596 · Python · GPL-3.0 · 推送 2026-07-06 · [GitHub](https://github.com/vladfi1/phillip) · 个人维护
 
 **基于深度强化学习的 SSBM（任天堂明星大乱斗DX）游戏 AI 玩家**
 
@@ -45,12 +45,12 @@ Phillip 是用深度强化训练的 SSBM 对战 AI，通过本地回环接口与
 ```mermaid
 xychart-beta
     title "vladfi1/phillip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 594 --> 596
-    line [595, 595]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 594 --> 597
+    line [595, 596]
 ```
 
-2026-10-18 595 → 2026-10-26 595（+0）
+2026-10-18 595 → 2026-10-27 596（+1）
 
 
 ---

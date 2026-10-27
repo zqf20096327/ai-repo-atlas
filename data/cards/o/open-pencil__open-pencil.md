@@ -1,6 +1,6 @@
 # open-pencil/open-pencil
 
-⭐ 9,265 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
+⭐ 9,299 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
 
 **开源设计编辑器：读写 .fig 文件并内置 AI 生成设计**
 
@@ -45,13 +45,13 @@ MIT 许可的开源设计编辑器，定位为 Figma 替代品：原生读取/�
 
 ```mermaid
 xychart-beta
-    title "open-pencil/open-pencil 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9050 --> 9284
-    line [9069, 9127, 9163, 9190, 9218, 9239, 9265]
+    title "open-pencil/open-pencil 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9046 --> 9322
+    line [9069, 9127, 9163, 9190, 9218, 9239, 9265, 9299]
 ```
 
-2026-10-18 9,069 → 2026-10-26 9,265（+196）
+2026-10-18 9,069 → 2026-10-27 9,299（+230）
 
 
 ---

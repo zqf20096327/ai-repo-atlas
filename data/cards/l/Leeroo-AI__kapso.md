@@ -1,6 +1,6 @@
 # Leeroo-AI/kapso
 
-⭐ 133 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
 
 **面向 AI/数据系统优化的长时运行 agent 框架**
 
@@ -45,13 +45,13 @@ Leeroo 开源的 Python 框架（PyPI 包 leeroo-kapso）：用户给出目标�
 
 ```mermaid
 xychart-beta
-    title "Leeroo-AI/kapso 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 127 --> 134
-    line [128, 129, 130, 131, 132, 133]
+    title "Leeroo-AI/kapso 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 127 --> 135
+    line [128, 129, 130, 131, 132, 133, 134]
 ```
 
-2026-10-18 128 → 2026-10-26 133（+5）
+2026-10-18 128 → 2026-10-27 134（+6）
 
 
 ---

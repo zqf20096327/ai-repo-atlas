@@ -1,6 +1,6 @@
 # LuoDi-Nate/financial-management
 
-⭐ 370 · Java · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LuoDi-Nate/financial-management) · [官网](https://beta.dixi-token.top) · 个人维护 · 中文 README
+⭐ 371 · Java · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/LuoDi-Nate/financial-management) · [官网](https://beta.dixi-token.top) · 个人维护 · 中文 README
 
 **自托管家庭资产管理应用：月度快照 + XIRR/TWR + AI 体检**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LuoDi-Nate/financial-management 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 363 --> 371
-    line [364, 365, 369, 370]
+    title "LuoDi-Nate/financial-management 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 363 --> 372
+    line [364, 365, 369, 370, 371]
 ```
 
-2026-10-18 364 → 2026-10-26 370（+6）
+2026-10-18 364 → 2026-10-27 371（+7）
 
 
 ---

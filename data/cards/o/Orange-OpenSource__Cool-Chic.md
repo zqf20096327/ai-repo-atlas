@@ -1,6 +1,6 @@
 # Orange-OpenSource/Cool-Chic
 
-⭐ 241 · Python · BSD-3-Clause · 推送 2026-07-17 · [GitHub](https://github.com/Orange-OpenSource/Cool-Chic) · [官网](https://orange-opensource.github.io/Cool-Chic/) · 组织维护
+⭐ 242 · Python · BSD-3-Clause · 推送 2026-07-17 · [GitHub](https://github.com/Orange-OpenSource/Cool-Chic) · [官网](https://orange-opensource.github.io/Cool-Chic/) · 组织维护
 
 **低复杂度神经图像/视频编解码器，基于过拟合实现压缩**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Orange-OpenSource/Cool-Chic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 238 --> 242
-    line [239, 240, 241]
+    title "Orange-OpenSource/Cool-Chic 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 238 --> 243
+    line [239, 240, 241, 242]
 ```
 
-2026-10-18 239 → 2026-10-26 241（+2）
+2026-10-18 239 → 2026-10-27 242（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # anshull-rajput/Tik-tak-toe
 
-⭐ 26 · C++ · 推送 2026-09-02 · [GitHub](https://github.com/anshull-rajput/Tik-tak-toe) · [官网](https://ai-healthvault-2aqxa4mwhvxgo2auwaet36.streamlit.app/) · 个人维护
+⭐ 25 · C++ · 推送 2026-09-02 · [GitHub](https://github.com/anshull-rajput/Tik-tak-toe) · [官网](https://ai-healthvault-2aqxa4mwhvxgo2auwaet36.streamlit.app/) · 个人维护
 
 **C++ 控制台井字棋：双人对战与 Minimax AI 对手**
 
@@ -44,13 +44,13 @@ C++ 编写的井字棋控制台游戏，包含两个源文件：tictactoe.cpp �
 
 ```mermaid
 xychart-beta
-    title "anshull-rajput/Tik-tak-toe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 25 --> 28
-    line [27, 26]
+    title "anshull-rajput/Tik-tak-toe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 24 --> 28
+    line [27, 26, 25]
 ```
 
-2026-10-18 27 → 2026-10-26 26（-1）
+2026-10-18 27 → 2026-10-27 25（-2）
 
 
 ---

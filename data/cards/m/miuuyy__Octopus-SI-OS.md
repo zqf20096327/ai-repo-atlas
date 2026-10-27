@@ -1,6 +1,6 @@
 # miuuyy/Octopus-SI-OS
 
-⭐ 316 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/miuuyy/Octopus-SI-OS) · 个人维护
+⭐ 537 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/miuuyy/Octopus-SI-OS) · 个人维护
 
 **自进化 agentic OS：以操作系统原理运行 AI agent 的研究预览**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "miuuyy/Octopus-SI-OS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 0 --> 346
-    line [11, 13, 15, 16, 316]
+    title "miuuyy/Octopus-SI-OS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 589
+    line [11, 13, 15, 16, 316, 537]
 ```
 
-2026-10-18 11 → 2026-10-26 316（+305）
+2026-10-18 11 → 2026-10-27 537（+526）
 
 
 ---

@@ -1,6 +1,6 @@
 # BIT-DataLab/Edit-Banana
 
-⭐ 5,499 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/BIT-DataLab/Edit-Banana) · [官网](https://www.editbanana.net) · 组织维护 · 中文 README
+⭐ 5,500 · Python · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/BIT-DataLab/Edit-Banana) · [官网](https://www.editbanana.net) · 组织维护 · 中文 README
 
 **将静态图表图片转换为可编辑 DrawIO XML 的框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BIT-DataLab/Edit-Banana 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 5495 --> 5502
-    line [5501, 5498, 5497, 5496, 5498, 5499, 5499]
+    line [5501, 5498, 5497, 5496, 5498, 5499, 5500]
 ```
 
-2026-10-18 5,501 → 2026-10-26 5,499（-2）
+2026-10-18 5,501 → 2026-10-27 5,500（-1）
 
 
 ---

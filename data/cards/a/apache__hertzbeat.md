@@ -1,6 +1,6 @@
 # apache/hertzbeat
 
-⭐ 7,441 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/apache/hertzbeat) · [官网](https://hertzbeat.apache.org/) · 组织维护 · 中文 README
+⭐ 7,442 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apache/hertzbeat) · [官网](https://hertzbeat.apache.org/) · 组织维护 · 中文 README
 
 **Apache 开源实时可观测系统：指标日志采集、告警与状态页**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apache/hertzbeat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 7430 --> 7442
-    line [7431, 7432, 7436, 7437, 7441]
+    title "apache/hertzbeat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7430 --> 7443
+    line [7431, 7432, 7436, 7437, 7441, 7442]
 ```
 
-2026-10-18 7,431 → 2026-10-26 7,441（+10）
+2026-10-18 7,431 → 2026-10-27 7,442（+11）
 
 
 ---

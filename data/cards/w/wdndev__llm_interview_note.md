@@ -1,6 +1,6 @@
 # wdndev/llm_interview_note
 
-⭐ 15,296 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
+⭐ 15,305 · HTML · 推送 2026-06-14 · [GitHub](https://github.com/wdndev/llm_interview_note) · [官网](https://wdndev.github.io/llm_interview_note) · 个人维护 · 中文 README
 
 **大模型算法工程师的知识整理与面试题笔记**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "wdndev/llm_interview_note 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15250 --> 15300
-    line [15254, 15262, 15284, 15288, 15292, 15296]
+    title "wdndev/llm_interview_note 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 15249 --> 15310
+    line [15254, 15262, 15284, 15288, 15292, 15296, 15305]
 ```
 
-2026-10-18 15,254 → 2026-10-26 15,296（+42）
+2026-10-18 15,254 → 2026-10-27 15,305（+51）
 
 
 ---

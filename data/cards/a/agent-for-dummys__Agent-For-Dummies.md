@@ -1,6 +1,6 @@
 # agent-for-dummys/Agent-For-Dummies
 
-⭐ 134 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/agent-for-dummys/Agent-For-Dummies) · 个人维护 · 中文 README
+⭐ 137 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/agent-for-dummys/Agent-For-Dummies) · 个人维护 · 中文 README
 
 **零基础学 Agent/RAG/LLM 的学习笔记与入门编程平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-for-dummys/Agent-For-Dummies 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "agent-for-dummys/Agent-For-Dummies 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 113 --> 146
-    line [115, 128, 144, 131, 132, 133, 134]
+    line [115, 128, 144, 131, 132, 133, 134, 137]
 ```
 
-2026-10-18 115 → 2026-10-26 134（+19）
+2026-10-18 115 → 2026-10-27 137（+22）
 
 
 ---

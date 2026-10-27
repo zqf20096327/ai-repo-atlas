@@ -1,6 +1,6 @@
 # pgElephant/pgBalancer
 
-⭐ 32 · C · NOASSERTION · 推送 2025-10-30 · [GitHub](https://github.com/pgElephant/pgBalancer) · [官网](https://www.pgelephant.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **pgpool-II 分支：带 AI 负载均衡的 PostgreSQL 连接池与负载均衡器**
 
@@ -11,7 +11,7 @@ pgpool-II 的分支，面向 PostgreSQL 13-18 提供连接池、负载均衡、�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

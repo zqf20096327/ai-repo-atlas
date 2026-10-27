@@ -1,6 +1,6 @@
 # supadata-ai/mcp
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/supadata-ai/mcp) · [官网](https://supadata.ai) · 组织维护
+⭐ 63 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/supadata-ai/mcp) · [官网](https://supadata.ai) · 组织维护
 
 **为 MCP 客户端接入 Supadata 视频转录与网页抓取的服务**
 
@@ -46,12 +46,12 @@ Supadata 官方维护的 Model Context Protocol（MCP）服务器，把 Supadata
 ```mermaid
 xychart-beta
     title "supadata-ai/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-26 63（+0）
+2026-10-18 63 → 2026-10-27 63（+0）
 
 
 ---

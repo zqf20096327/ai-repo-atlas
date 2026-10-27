@@ -1,6 +1,6 @@
 # znyupup/ai-video-editing-skill
 
-⭐ 164 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/znyupup/ai-video-editing-skill) · 个人维护 · 中文 README
+⭐ 166 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/znyupup/ai-video-editing-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 用的旅行 Vlog 自动剪辑技能文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "znyupup/ai-video-editing-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 155 --> 165
-    line [156, 158, 159, 161, 162, 163, 164]
+    title "znyupup/ai-video-editing-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 155 --> 167
+    line [156, 158, 159, 161, 162, 163, 164, 166]
 ```
 
-2026-10-18 156 → 2026-10-26 164（+8）
+2026-10-18 156 → 2026-10-27 166（+10）
 
 
 ---

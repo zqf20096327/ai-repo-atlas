@@ -1,6 +1,6 @@
 # neurodata/treeple
 
-⭐ 88 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/neurodata/treeple) · [官网](https://treeple.ai) · 组织维护
+⭐ 88 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/neurodata/treeple) · [官网](https://treeple.ai) · 组织维护
 
 **scikit-learn 兼容的扩展决策树/森林 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "neurodata/treeple 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

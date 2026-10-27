@@ -1,6 +1,6 @@
 # Menghuan1918/drawio2go
 
-⭐ 241 · TypeScript · MIT · 推送 2026-01-04 · [GitHub](https://github.com/Menghuan1918/drawio2go) · [官网](https://drawio2go.vercel.app) · 个人维护 · 中文 README
+⭐ 240 · TypeScript · MIT · 推送 2026-01-04 · [GitHub](https://github.com/Menghuan1918/drawio2go) · [官网](https://drawio2go.vercel.app) · 个人维护 · 中文 README
 
 **带 AI 协作绘图的 DrawIO 编辑器（Electron/Web）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Menghuan1918/drawio2go 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 238 --> 242
-    line [239, 240, 241, 241]
+    line [239, 240, 241, 240]
 ```
 
-2026-10-18 239 → 2026-10-26 241（+2）
+2026-10-18 239 → 2026-10-27 240（+1）
 
 
 ---

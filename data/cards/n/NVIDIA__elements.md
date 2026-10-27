@@ -1,6 +1,6 @@
 # NVIDIA/elements
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA/elements) · [官网](https://nvidia.github.io/elements/) · 组织维护
+⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/elements) · [官网](https://nvidia.github.io/elements/) · 组织维护
 
 **面向 AI 工厂/机器人/自动驾驶的 NVIDIA 设计系统与 UI Agent 工具集**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的设计系统仓库：包含核心 UI 组件库（Web Components�
 ```mermaid
 xychart-beta
     title "NVIDIA/elements 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 92 --> 107
     line [93, 98, 105, 106, 106]
 ```
 
-2026-10-18 93 → 2026-10-26 106（+13）
+2026-10-18 93 → 2026-10-27 106（+13）
 
 
 ---

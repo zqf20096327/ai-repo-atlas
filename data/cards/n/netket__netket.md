@@ -1,6 +1,6 @@
 # netket/netket
 
-⭐ 704 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
+⭐ 705 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
 
 **基于 JAX 的多体量子系统机器学习 Python 库**
 
@@ -44,13 +44,13 @@ NetKet 是开源 Python 库，基于 JAX 构建，将神经网络与机器学习
 
 ```mermaid
 xychart-beta
-    title "netket/netket 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 702 --> 705
-    line [704, 703, 704, 703, 704]
+    title "netket/netket 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 702 --> 706
+    line [704, 703, 704, 703, 704, 705]
 ```
 
-2026-10-18 704 → 2026-10-26 704（+0）
+2026-10-18 704 → 2026-10-27 705（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # claimed-framework/claimed
 
-⭐ 2,305 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/claimed-framework/claimed) · 组织维护
+⭐ 2,304 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/claimed-framework/claimed) · 组织维护
 
 **把脚本/笔记本编译为容器化 AI 组件与 Kubeflow 流水线的工具**
 
@@ -45,12 +45,12 @@ CLAIMED Component Compiler（C3）是 CLAIMED 低代码框架的核心项目：�
 ```mermaid
 xychart-beta
     title "claimed-framework/claimed 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2304 --> 2308
-    line [2307, 2305, 2306, 2305, 2305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2303 --> 2308
+    line [2307, 2305, 2306, 2305, 2304]
 ```
 
-2026-10-18 2,307 → 2026-10-26 2,305（-2）
+2026-10-18 2,307 → 2026-10-27 2,304（-3）
 
 
 ---

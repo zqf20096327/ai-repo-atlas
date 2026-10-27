@@ -1,6 +1,6 @@
 # steel-dev/steel-mcp-server
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/steel-dev/steel-mcp-server) · [官网](https://steel.dev) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/steel-dev/steel-mcp-server) · [官网](https://steel.dev) · 组织维护
 
 **给 MCP 客户端提供云端 Chrome 浏览器操作的服务器**
 
@@ -46,12 +46,12 @@ Steel MCP Server 让 Claude、Cursor 等 MCP 客户端通过 16 个工具操作�
 ```mermaid
 xychart-beta
     title "steel-dev/steel-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-26 58（+0）
+2026-10-18 58 → 2026-10-27 58（+0）
 
 
 ---

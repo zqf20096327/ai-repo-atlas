@@ -1,6 +1,6 @@
 # MarkPDFdown/markpdfdown
 
-⭐ 2,305 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/MarkPDFdown/markpdfdown) · 组织维护 · 中文 README
+⭐ 2,306 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/MarkPDFdown/markpdfdown) · 组织维护 · 中文 README
 
 **基于多模态大模型的 PDF/图片转 Markdown 转录工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarkPDFdown/markpdfdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2294 --> 2306
-    line [2295, 2297, 2303, 2305]
+    title "MarkPDFdown/markpdfdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2294 --> 2307
+    line [2295, 2297, 2303, 2305, 2306]
 ```
 
-2026-10-18 2,295 → 2026-10-26 2,305（+10）
+2026-10-18 2,295 → 2026-10-27 2,306（+11）
 
 
 ---

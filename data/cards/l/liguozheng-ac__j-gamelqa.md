@@ -1,6 +1,6 @@
 # liguozheng-ac/j-gamelqa
 
-⭐ 53 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/liguozheng-ac/j-gamelqa) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/liguozheng-ac/j-gamelqa) · 个人维护 · 中文 README
 
 **中→日游戏本地化 QA 系统：规则检查混合上下文感知 LLM 评估**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liguozheng-ac/j-gamelqa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 24 --> 57
-    line [26, 36, 45, 55, 53]
+    title "liguozheng-ac/j-gamelqa 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 23 --> 60
+    line [26, 36, 45, 55, 53, 57]
 ```
 
-2026-10-18 26 → 2026-10-26 53（+27）
+2026-10-18 26 → 2026-10-27 57（+31）
 
 
 ---

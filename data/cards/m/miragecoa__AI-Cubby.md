@@ -1,6 +1,6 @@
 # miragecoa/AI-Cubby
 
-⭐ 377 · Vue · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/miragecoa/AI-Cubby) · 个人维护 · 中文 README
+⭐ 378 · Vue · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/miragecoa/AI-Cubby) · 个人维护 · 中文 README
 
 **本地优先的文件/程序使用记录与资源管理器，AI 打标签**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "miragecoa/AI-Cubby 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "miragecoa/AI-Cubby 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 374 --> 379
-    line [375, 378, 376, 377]
+    line [375, 378, 376, 377, 378]
 ```
 
-2026-10-18 375 → 2026-10-26 377（+2）
+2026-10-18 375 → 2026-10-27 378（+3）
 
 
 ---

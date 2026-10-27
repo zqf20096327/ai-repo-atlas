@@ -46,12 +46,12 @@ Provence 式 reranker–pruner 模型的开源实现：在检索增强生成流�
 ```mermaid
 xychart-beta
     title "hotchpotch/open_provence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-26 70（+0）
+2026-10-18 70 → 2026-10-27 70（+0）
 
 
 ---

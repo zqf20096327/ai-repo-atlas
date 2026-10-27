@@ -1,6 +1,6 @@
 # iffse/pay-respects
 
-⭐ 732 · Rust · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/iffse/pay-respects) · [官网](https://codeberg.org/iff/pay-respects) · 个人维护
+⭐ 733 · Rust · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/iffse/pay-respects) · [官网](https://codeberg.org/iff/pay-respects) · 个人维护
 
 **按 F 键修正 shell 命令错误的 CLI 工具，AI 为可选补充**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iffse/pay-respects 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 724 --> 733
-    line [725, 727, 729, 730, 729, 732]
+    title "iffse/pay-respects 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 724 --> 734
+    line [725, 727, 729, 730, 729, 732, 733]
 ```
 
-2026-10-18 725 → 2026-10-26 732（+7）
+2026-10-18 725 → 2026-10-27 733（+8）
 
 
 ---

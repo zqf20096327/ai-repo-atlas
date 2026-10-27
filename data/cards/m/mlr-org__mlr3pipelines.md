@@ -1,6 +1,6 @@
 # mlr-org/mlr3pipelines
 
-⭐ 149 · R · LGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/mlr-org/mlr3pipelines) · [官网](https://mlr3pipelines.mlr-org.com/) · 组织维护
+⭐ 149 · R · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/mlr-org/mlr3pipelines) · [官网](https://mlr3pipelines.mlr-org.com/) · 组织维护
 
 **R 语言机器学习数据流（流水线）构建工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3pipelines 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-10-18 149 → 2026-10-26 149（+0）
+2026-10-18 149 → 2026-10-27 149（+0）
 
 
 ---

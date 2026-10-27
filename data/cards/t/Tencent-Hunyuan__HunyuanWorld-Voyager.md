@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanWorld-Voyager
 
-⭐ 1,606 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 1,605 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **单图生成世界一致 3D 点云视频的可交互 RGBD 视频扩散模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanWorld-Voyager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 1603 --> 1607
-    line [1604, 1606, 1606]
+    line [1604, 1606, 1605]
 ```
 
-2026-10-18 1,604 → 2026-10-26 1,606（+2）
+2026-10-18 1,604 → 2026-10-27 1,605（+1）
 
 
 ---

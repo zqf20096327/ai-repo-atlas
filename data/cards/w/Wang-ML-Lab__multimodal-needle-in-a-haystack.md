@@ -45,12 +45,12 @@ NAACL 2025 Oral 论文的代码与数据仓库：在由多张拼接子图组成�
 ```mermaid
 xychart-beta
     title "Wang-ML-Lab/multimodal-needle-in-a-haystack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-26 57（+0）
+2026-10-18 57 → 2026-10-27 57（+0）
 
 
 ---

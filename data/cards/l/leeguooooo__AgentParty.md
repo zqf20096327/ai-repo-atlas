@@ -1,6 +1,6 @@
 # leeguooooo/AgentParty
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/leeguooooo/AgentParty) · [官网](https://agentparty.leeguoo.com/docs/) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/leeguooooo/AgentParty) · [官网](https://agentparty.leeguoo.com/docs/) · 个人维护 · 中文 README
 
 **让跨团队编码 agent 在终端频道中互发消息协作的托管服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "leeguooooo/AgentParty 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 35（+1）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SALT-NLP/collaborative-gym
 
-⭐ 163 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/SALT-NLP/collaborative-gym) · [官网](https://cogym.saltlab.stanford.edu/) · 组织维护
+⭐ 165 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/SALT-NLP/collaborative-gym) · [官网](https://cogym.saltlab.stanford.edu/) · 组织维护
 
 **人机协作 agent 的构建与评测框架（Co-Gym）**
 
@@ -46,12 +46,12 @@ SALT-NLP 维护的 Python 框架，用于构建和评测能与人类协作的 LL
 ```mermaid
 xychart-beta
     title "SALT-NLP/collaborative-gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 162 --> 166
+    line [163, 165]
 ```
 
-2026-10-18 163 → 2026-10-26 163（+0）
+2026-10-18 163 → 2026-10-27 165（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # chaehyun2/claudetuner
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chaehyun2/claudetuner) · [官网](https://claudetuner.com) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/chaehyun2/claudetuner) · [官网](https://claudetuner.com) · 个人维护
 
 **监控 Claude/ChatGPT/Gemini 用量限额的 Chrome 扩展**
 
@@ -46,12 +46,12 @@ Chrome 扩展加 Web 仪表盘：读取 claude.ai、ChatGPT、Gemini 账号的�
 ```mermaid
 xychart-beta
     title "chaehyun2/claudetuner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

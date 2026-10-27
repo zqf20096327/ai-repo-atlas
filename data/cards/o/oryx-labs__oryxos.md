@@ -1,6 +1,6 @@
 # oryx-labs/oryxos
 
-⭐ 196 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护
+⭐ 197 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护
 
 **面向企业的自托管分布式 AI Agent 操作系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "oryx-labs/oryxos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 191 --> 197
-    line [192, 193, 194, 195, 196]
+    title "oryx-labs/oryxos 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 191 --> 198
+    line [192, 193, 194, 195, 196, 197]
 ```
 
-2026-10-18 192 → 2026-10-26 196（+4）
+2026-10-18 192 → 2026-10-27 197（+5）
 
 
 ---

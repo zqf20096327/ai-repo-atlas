@@ -1,6 +1,6 @@
 # michaelwilhelmsen/humla
 
-⭐ 324 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/michaelwilhelmsen/humla) · [官网](https://humla.team) · 个人维护
+⭐ 327 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/michaelwilhelmsen/humla) · [官网](https://humla.team) · 个人维护
 
 **macOS 本地优先的开源 AI 会议笔记应用：录音转写与摘要**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "michaelwilhelmsen/humla 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 312 --> 325
-    line [313, 316, 320, 321, 323, 324]
+    title "michaelwilhelmsen/humla 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 312 --> 328
+    line [313, 316, 320, 321, 323, 324, 327]
 ```
 
-2026-10-18 313 → 2026-10-26 324（+11）
+2026-10-18 313 → 2026-10-27 327（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # agamm/awesome-ai-sre
 
-⭐ 126 · CC0-1.0 · 推送 2026-09-23 · [GitHub](https://github.com/agamm/awesome-ai-sre) · [官网](https://github.com/agamm/awesome-ai-sre) · 个人维护
+⭐ 127 · CC0-1.0 · 推送 2026-09-23 · [GitHub](https://github.com/agamm/awesome-ai-sre) · [官网](https://github.com/agamm/awesome-ai-sre) · 个人维护
 
 **面向 SRE 的 AI 工具策展清单：收录 100+ 工具与平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agamm/awesome-ai-sre 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 117 --> 127
-    line [118, 120, 121, 122, 124, 126]
+    title "agamm/awesome-ai-sre 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 117 --> 128
+    line [118, 120, 121, 122, 124, 126, 127]
 ```
 
-2026-10-18 118 → 2026-10-26 126（+8）
+2026-10-18 118 → 2026-10-27 127（+9）
 
 
 ---

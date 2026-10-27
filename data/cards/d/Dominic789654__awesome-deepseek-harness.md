@@ -1,6 +1,6 @@
 # Dominic789654/awesome-deepseek-harness
 
-⭐ 401 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 个人维护 · 中文 README
+⭐ 400 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 个人维护 · 中文 README
 
 **DeepSeek Harness（DSH）生态插件策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dominic789654/awesome-deepseek-harness 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "Dominic789654/awesome-deepseek-harness 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 384 --> 402
-    line [385, 387, 394, 397, 400, 401]
+    line [385, 387, 394, 397, 400, 401, 400]
 ```
 
-2026-10-18 385 → 2026-10-26 401（+16）
+2026-10-18 385 → 2026-10-27 400（+15）
 
 
 ---

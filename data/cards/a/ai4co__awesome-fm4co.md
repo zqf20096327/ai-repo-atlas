@@ -1,6 +1,6 @@
 # ai4co/awesome-fm4co
 
-⭐ 595 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ai4co/awesome-fm4co) · 组织维护
+⭐ 596 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ai4co/awesome-fm4co) · 组织维护
 
 **组合优化领域基础模型/LLM 研究论文清单（awesome list）**
 
@@ -45,12 +45,12 @@ ai4co 维护的研究论文策展清单，收录用现有 LLM 做组合优化（
 ```mermaid
 xychart-beta
     title "ai4co/awesome-fm4co 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 592 --> 596
-    line [593, 595, 595]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 592 --> 597
+    line [593, 595, 596]
 ```
 
-2026-10-18 593 → 2026-10-26 595（+2）
+2026-10-18 593 → 2026-10-27 596（+3）
 
 
 ---

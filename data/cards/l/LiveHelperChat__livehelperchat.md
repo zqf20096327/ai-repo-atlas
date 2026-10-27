@@ -1,6 +1,6 @@
 # LiveHelperChat/livehelperchat
 
-⭐ 2,248 · PHP · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 组织维护
+⭐ 2,247 · PHP · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 组织维护
 
 **面向网站的在线客服聊天系统，支持 AI 机器人与多渠道接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LiveHelperChat/livehelperchat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2247 --> 2251
-    line [2250, 2249, 2248, 2248]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2246 --> 2251
+    line [2250, 2249, 2248, 2247]
 ```
 
-2026-10-18 2,250 → 2026-10-26 2,248（-2）
+2026-10-18 2,250 → 2026-10-27 2,247（-3）
 
 
 ---

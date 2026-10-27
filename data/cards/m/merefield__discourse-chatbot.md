@@ -1,6 +1,6 @@
 # merefield/discourse-chatbot
 
-⭐ 85 · Ruby · GPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/merefield/discourse-chatbot) · 个人维护
+⭐ 85 · Ruby · GPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/merefield/discourse-chatbot) · 个人维护
 
 **给 Discourse 论坛的 RAG AI 聊天机器人插件，支持社区内容客服**
 
@@ -46,12 +46,12 @@ Discourse 论坛的 AI 聊天机器人插件：在帖子、私信、Chat 频道�
 ```mermaid
 xychart-beta
     title "merefield/discourse-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-26 85（+0）
+2026-10-18 85 → 2026-10-27 85（+0）
 
 
 ---

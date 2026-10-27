@@ -1,6 +1,6 @@
 # lab-v2/pyreason
 
-⭐ 354 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/lab-v2/pyreason) · [官网](https://pyreason.syracuse.edu/) · 组织维护
+⭐ 354 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/lab-v2/pyreason) · [官网](https://pyreason.syracuse.edu/) · 组织维护
 
 **开放世界时序逻辑推理软件：在图上做可解释逻辑推断**
 
@@ -44,12 +44,12 @@ PyReason 是一个可解释的图上推理工具：用户提供逻辑规则与�
 ```mermaid
 xychart-beta
     title "lab-v2/pyreason 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 353 --> 355
     line [354, 354]
 ```
 
-2026-10-18 354 → 2026-10-26 354（+0）
+2026-10-18 354 → 2026-10-27 354（+0）
 
 
 ---

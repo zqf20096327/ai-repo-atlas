@@ -1,6 +1,6 @@
 # manykarim/rf-mcp
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manykarim/rf-mcp) · 个人维护
+⭐ 118 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manykarim/rf-mcp) · 个人维护
 
 **让编码代理通过 MCP 实时执行并生成 Robot Framework 测试**
 
@@ -46,12 +46,12 @@ rf-mcp 是一个 Model Context Protocol 服务器，将 Robot Framework 测试�
 ```mermaid
 xychart-beta
     title "manykarim/rf-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 116 --> 119
+    line [117, 118]
 ```
 
-2026-10-18 117 → 2026-10-26 117（+0）
+2026-10-18 117 → 2026-10-27 118（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-coder
 
-⭐ 834 · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-coder) · 组织维护 · 中文 README
+⭐ 835 · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-coder) · 组织维护 · 中文 README
 
 **DeepSeek Coder 相关开源项目策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deepseek-ai/awesome-deepseek-coder 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 828 --> 835
-    line [829, 832, 833, 834, 834]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 828 --> 836
+    line [829, 832, 833, 834, 835]
 ```
 
-2026-10-18 829 → 2026-10-26 834（+5）
+2026-10-18 829 → 2026-10-27 835（+6）
 
 
 ---

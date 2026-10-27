@@ -1,6 +1,6 @@
 # huggingface/pi-llama
 
-⭐ 112 · TypeScript · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/pi-llama) · 组织维护
+⭐ 111 · TypeScript · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/pi-llama) · 组织维护
 
 **Pi coding agent 扩展：自动发现 llama.cpp 服务模型并注册为 provider**
 
@@ -43,12 +43,12 @@ Hugging Face 维护的 Pi 编码代理扩展：连接正在运行的 llama.cpp �
 ```mermaid
 xychart-beta
     title "huggingface/pi-llama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    line [111, 112, 111]
 ```
 
-2026-10-18 111 → 2026-10-26 112（+1）
+2026-10-18 111 → 2026-10-27 111（+0）
 
 
 ---

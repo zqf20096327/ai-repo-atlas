@@ -1,6 +1,6 @@
 # Agent-Field/agentfield
 
-⭐ 2,620 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
+⭐ 2,624 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
 
 **给开发者的 AI agent 控制平面：像 API 一样构建与运行 agent**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/agentfield 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2612 --> 2621
-    line [2613, 2614, 2615, 2616, 2617, 2620]
+    title "Agent-Field/agentfield 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2612 --> 2625
+    line [2613, 2614, 2615, 2616, 2617, 2620, 2624]
 ```
 
-2026-10-18 2,613 → 2026-10-26 2,620（+7）
+2026-10-18 2,613 → 2026-10-27 2,624（+11）
 
 
 ---

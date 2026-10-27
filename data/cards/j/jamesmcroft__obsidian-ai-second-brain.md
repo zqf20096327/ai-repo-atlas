@@ -1,6 +1,6 @@
 # jamesmcroft/obsidian-ai-second-brain
 
-⭐ 52 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/jamesmcroft/obsidian-ai-second-brain) · [官网](https://www.jamescroft.co.uk/why-your-second-brain-needs-an-ai-companion/) · 个人维护
+⭐ 53 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/jamesmcroft/obsidian-ai-second-brain) · [官网](https://www.jamescroft.co.uk/why-your-second-brain-needs-an-ai-companion/) · 个人维护
 
 **用 Obsidian 与 CODE/PARA 搭建 AI 增强第二大脑的启动模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamesmcroft/obsidian-ai-second-brain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53]
 ```
 
-2026-10-18 51 → 2026-10-26 52（+1）
+2026-10-18 51 → 2026-10-27 53（+2）
 
 
 ---

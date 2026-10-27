@@ -1,6 +1,6 @@
 # ashukae/ComfyUI-MangaScreen
 
-⭐ 159 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ashukae/ComfyUI-MangaScreen) · 个人维护
+⭐ 161 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ashukae/ComfyUI-MangaScreen) · 个人维护
 
 **ComfyUI 漫画/黑白漫画滤镜节点包，含网目调与分格处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashukae/ComfyUI-MangaScreen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 23 --> 171
-    line [35, 138, 152, 154, 157, 158, 159]
+    title "ashukae/ComfyUI-MangaScreen 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 23 --> 173
+    line [35, 138, 152, 154, 157, 158, 159, 161]
 ```
 
-2026-10-18 35 → 2026-10-26 159（+124）
+2026-10-18 35 → 2026-10-27 161（+126）
 
 
 ---

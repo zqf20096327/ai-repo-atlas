@@ -1,6 +1,6 @@
 # CurvineIO/curvine
 
-⭐ 1,008 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/CurvineIO/curvine) · [官网](https://curvineio.github.io) · 组织维护 · 中文 README
+⭐ 1,024 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/CurvineIO/curvine) · [官网](https://curvineio.github.io) · 组织维护 · 中文 README
 
 **面向 AI 训练与 Agent 平台的云对象存储高性能缓存文件系统**
 
@@ -46,13 +46,13 @@ Curvine 是用 Rust 编写的分布式缓存文件系统（CNCF Sandbox 项目�
 
 ```mermaid
 xychart-beta
-    title "CurvineIO/curvine 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 971 --> 1011
-    line [974, 980, 986, 987, 1005, 1007, 1008]
+    title "CurvineIO/curvine 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 969 --> 1029
+    line [974, 980, 986, 987, 1005, 1007, 1008, 1024]
 ```
 
-2026-10-18 974 → 2026-10-26 1,008（+34）
+2026-10-18 974 → 2026-10-27 1,024（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # lgwrightlab/schematic-figure
 
-⭐ 58 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lgwrightlab/schematic-figure) · [官网](https://lgwrightlab.github.io/schematic-figure/) · 组织维护
+⭐ 59 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lgwrightlab/schematic-figure) · [官网](https://lgwrightlab.github.io/schematic-figure/) · 组织维护
 
 **AI agent 技能：为科研论文绘制可编辑的矢量示意图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lgwrightlab/schematic-figure 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 31 --> 60
-    line [33, 46, 51, 52, 53, 56, 58]
+    title "lgwrightlab/schematic-figure 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 31 --> 61
+    line [33, 46, 51, 52, 53, 56, 58, 59]
 ```
 
-2026-10-18 33 → 2026-10-26 58（+25）
+2026-10-18 33 → 2026-10-27 59（+26）
 
 
 ---

@@ -1,6 +1,6 @@
 # BrendownFerreira/transcriber
 
-⭐ 147 · Python · 推送 2026-03-18 · [GitHub](https://github.com/BrendownFerreira/transcriber) · [官网](https://noktech.com.br/softwares/transcriber) · 个人维护
+⭐ 150 · Python · 推送 2026-03-18 · [GitHub](https://github.com/BrendownFerreira/transcriber) · [官网](https://noktech.com.br/softwares/transcriber) · 个人维护
 
 **自托管 Whisper 语音转文字 Web 应用，本地转录音视频与 YouTube**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BrendownFerreira/transcriber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 146 --> 151
+    line [147, 150]
 ```
 
-2026-10-18 147 → 2026-10-26 147（+0）
+2026-10-18 147 → 2026-10-27 150（+3）
 
 
 ---

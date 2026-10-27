@@ -1,6 +1,6 @@
 # oprogramadorreal/optimus-claude
 
-⭐ 74 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/oprogramadorreal/optimus-claude) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/oprogramadorreal/optimus-claude) · 个人维护
 
 **为 Claude Code 准备项目上下文的工程技能插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oprogramadorreal/optimus-claude 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 75（+1）
 
 
 ---

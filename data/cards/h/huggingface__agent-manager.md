@@ -1,6 +1,6 @@
 # huggingface/agent-manager
 
-⭐ 64 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/agent-manager) · 组织维护
+⭐ 65 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/agent-manager) · 组织维护
 
 **在浏览器中集中管理多个 AI 编程 CLI 会话的私有工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/agent-manager 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14 --> 68
-    line [18, 43, 61, 62, 63, 64]
+    title "huggingface/agent-manager 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14 --> 69
+    line [18, 43, 61, 62, 63, 64, 65]
 ```
 
-2026-10-18 18 → 2026-10-26 64（+46）
+2026-10-18 18 → 2026-10-27 65（+47）
 
 
 ---

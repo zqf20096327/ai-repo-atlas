@@ -1,6 +1,6 @@
 # gtapps/hermitd
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gtapps/hermitd) · [官网](https://hermitd.dev) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gtapps/hermitd) · [官网](https://hermitd.dev) · 组织维护
 
 **本地常驻 Claude Code agent 插件：从聊天渠道启动并托管会话**
 
@@ -45,12 +45,12 @@ hermitd 是官方 Claude Code CLI 的插件（v1.4.20，MIT 许可），在用�
 ```mermaid
 xychart-beta
     title "gtapps/hermitd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 79 --> 83
     line [80, 82, 82]
 ```
 
-2026-10-18 80 → 2026-10-26 82（+2）
+2026-10-18 80 → 2026-10-27 82（+2）
 
 
 ---

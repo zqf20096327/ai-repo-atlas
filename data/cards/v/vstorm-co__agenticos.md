@@ -1,6 +1,6 @@
 # vstorm-co/agenticos
 
-⭐ 120 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/agenticos/) · 组织维护
+⭐ 121 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/agenticos/) · 组织维护
 
 **自托管的企业 AI agent 层：构建、运行并治理 AI 队友**
 
@@ -44,13 +44,13 @@ Apache-2.0 开源、自托管的 agent 平台，由 Vstorm 维护：团队在浏
 
 ```mermaid
 xychart-beta
-    title "vstorm-co/agenticos 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 106 --> 121
-    line [107, 109, 112, 114, 116, 118, 120]
+    title "vstorm-co/agenticos 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 106 --> 122
+    line [107, 109, 112, 114, 116, 118, 120, 121]
 ```
 
-2026-10-18 107 → 2026-10-26 120（+13）
+2026-10-18 107 → 2026-10-27 121（+14）
 
 
 ---

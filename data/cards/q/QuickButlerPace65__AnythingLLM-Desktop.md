@@ -1,6 +1,6 @@
 # QuickButlerPace65/AnythingLLM-Desktop
 
-⭐ 37 · 推送 2026-10-23 · [GitHub](https://github.com/QuickButlerPace65/AnythingLLM-Desktop) · 个人维护
+⭐ 36 · 推送 2026-10-23 · [GitHub](https://github.com/QuickButlerPace65/AnythingLLM-Desktop) · 个人维护
 
 **便携版一体化 AI 桌面应用：连接任意 LLM 与文档对话**
 
@@ -46,12 +46,12 @@ AnythingLLM Desktop 的便携 Windows 分支：打包为免安装的绿色版应
 ```mermaid
 xychart-beta
     title "QuickButlerPace65/AnythingLLM-Desktop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-25", "2026-10-27"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-25 37 → 2026-10-26 37（+0）
+2026-10-25 37 → 2026-10-27 36（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mistralai/client-python
 
-⭐ 774 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mistralai/client-python) · 组织维护
+⭐ 775 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mistralai/client-python) · 组织维护
 
 **Mistral AI 平台的官方 Python SDK，供开发者调用其 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mistralai/client-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 773 --> 776
-    line [774, 775, 774, 774]
+    line [774, 775, 774, 775]
 ```
 
-2026-10-18 774 → 2026-10-26 774（+0）
+2026-10-18 774 → 2026-10-27 775（+1）
 
 
 ---

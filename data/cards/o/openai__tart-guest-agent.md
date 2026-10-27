@@ -1,6 +1,6 @@
 # openai/tart-guest-agent
 
-⭐ 41 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/openai/tart-guest-agent) · 组织维护
+⭐ 42 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/openai/tart-guest-agent) · 组织维护
 
 **Tart 虚拟机内的客户机代理：主机与客户机通信及自动化功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/tart-guest-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 38 --> 43
+    line [39, 41, 42]
 ```
 
-2026-10-18 39 → 2026-10-26 41（+2）
+2026-10-18 39 → 2026-10-27 42（+3）
 
 
 ---

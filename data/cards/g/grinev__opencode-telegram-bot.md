@@ -1,6 +1,6 @@
 # grinev/opencode-telegram-bot
 
-⭐ 1,284 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/grinev/opencode-telegram-bot) · 个人维护
+⭐ 1,290 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/grinev/opencode-telegram-bot) · 个人维护
 
 **通过 Telegram 远程运行和监控本地 OpenCode 编码任务的客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "grinev/opencode-telegram-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1260 --> 1286
-    line [1262, 1267, 1271, 1275, 1279, 1282, 1284]
+    title "grinev/opencode-telegram-bot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1260 --> 1292
+    line [1262, 1267, 1271, 1275, 1279, 1282, 1284, 1290]
 ```
 
-2026-10-18 1,262 → 2026-10-26 1,284（+22）
+2026-10-18 1,262 → 2026-10-27 1,290（+28）
 
 
 ---

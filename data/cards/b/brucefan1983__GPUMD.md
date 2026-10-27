@@ -1,6 +1,6 @@
 # brucefan1983/GPUMD
 
-⭐ 859 · Cuda · 推送 2026-10-25 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
+⭐ 859 · Cuda · 推送 2026-10-26 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
 
 **面向材料模拟的 GPU 分子动力学软件包，含 NEP 机器学习势训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brucefan1983/GPUMD 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "brucefan1983/GPUMD 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 852 --> 860
-    line [853, 855, 856, 858, 859]
+    line [853, 855, 856, 858, 859, 859]
 ```
 
-2026-10-18 853 → 2026-10-26 859（+6）
+2026-10-18 853 → 2026-10-27 859（+6）
 
 
 ---

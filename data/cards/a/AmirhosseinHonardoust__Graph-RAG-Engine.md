@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Graph-RAG-Engine
 
-⭐ 26 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/AmirhosseinHonardoust/Graph-RAG-Engine) · 个人维护
 
 **可解释的图+向量混合检索 RAG 系统：答案带引用与推理路径**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Graph-RAG-Engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-10-26 26（+1）
+2026-10-18 25 → 2026-10-27 27（+2）
 
 
 ---

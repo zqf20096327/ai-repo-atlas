@@ -1,6 +1,6 @@
 # lucidrains/titans-pytorch
 
-⭐ 1,995 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/lucidrains/titans-pytorch) · 个人维护
+⭐ 1,997 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/lucidrains/titans-pytorch) · 个人维护
 
 **Titans 神经记忆模块的 PyTorch 非官方实现，供研究者使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/titans-pytorch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 1993 --> 1998
-    line [1994, 1997, 1996, 1995, 1995]
+    line [1994, 1997, 1996, 1995, 1997]
 ```
 
-2026-10-18 1,994 → 2026-10-26 1,995（+1）
+2026-10-18 1,994 → 2026-10-27 1,997（+3）
 
 
 ---

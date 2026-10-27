@@ -1,6 +1,6 @@
 # deepinv/deepinv
 
-⭐ 836 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/deepinv/deepinv) · [官网](http://deepinv.org/) · 组织维护
+⭐ 838 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/deepinv/deepinv) · [官网](http://deepinv.org/) · 组织维护
 
 **PyTorch 成像逆问题求解库：深度学习重建/去噪/去模糊**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepinv/deepinv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 833 --> 837
-    line [834, 835, 836]
+    title "deepinv/deepinv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 833 --> 839
+    line [834, 835, 836, 838]
 ```
 
-2026-10-18 834 → 2026-10-26 836（+2）
+2026-10-18 834 → 2026-10-27 838（+4）
 
 
 ---

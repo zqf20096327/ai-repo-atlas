@@ -1,6 +1,6 @@
 # hogeheer499-commits/strix-halo-guide
 
-⭐ 363 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hogeheer499-commits/strix-halo-guide) · [官网](https://strixhaloguide.com/) · 个人维护
+⭐ 364 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/hogeheer499-commits/strix-halo-guide) · [官网](https://strixhaloguide.com/) · 个人维护
 
 **AMD Strix Halo 本地 LLM 配置指南与基准证据库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hogeheer499-commits/strix-halo-guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 359 --> 364
-    line [360, 361, 362, 363, 363]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 359 --> 365
+    line [360, 361, 362, 363, 364]
 ```
 
-2026-10-18 360 → 2026-10-26 363（+3）
+2026-10-18 360 → 2026-10-27 364（+4）
 
 
 ---

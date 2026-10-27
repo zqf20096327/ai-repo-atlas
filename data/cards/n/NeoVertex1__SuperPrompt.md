@@ -1,6 +1,6 @@
 # NeoVertex1/SuperPrompt
 
-⭐ 6,425 · 推送 2026-04-26 · [GitHub](https://github.com/NeoVertex1/SuperPrompt) · 个人维护
+⭐ 6,428 · 推送 2026-04-26 · [GitHub](https://github.com/NeoVertex1/SuperPrompt) · 个人维护
 
 **引导 LLM 深度推理的提示词模板，配 Claude 使用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeoVertex1/SuperPrompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6422 --> 6426
-    line [6423, 6425, 6424, 6425]
+    title "NeoVertex1/SuperPrompt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6422 --> 6429
+    line [6423, 6425, 6424, 6425, 6428]
 ```
 
-2026-10-18 6,423 → 2026-10-26 6,425（+2）
+2026-10-18 6,423 → 2026-10-27 6,428（+5）
 
 
 ---

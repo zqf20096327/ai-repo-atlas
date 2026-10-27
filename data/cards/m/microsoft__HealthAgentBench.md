@@ -1,6 +1,6 @@
 # microsoft/HealthAgentBench
 
-⭐ 61 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/HealthAgentBench) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/HealthAgentBench) · 组织维护
 
 **评测健康医疗 agent 的终端基准套件（54 任务，7 类）**
 
@@ -45,12 +45,12 @@ Microsoft 发布的终端环境基准套件：把 agent 置于终端任务中，
 ```mermaid
 xychart-beta
     title "microsoft/HealthAgentBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 57 --> 62
-    line [58, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 57 --> 63
+    line [58, 60, 61, 62]
 ```
 
-2026-10-18 58 → 2026-10-26 61（+3）
+2026-10-18 58 → 2026-10-27 62（+4）
 
 
 ---

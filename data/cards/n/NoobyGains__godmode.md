@@ -41,6 +41,18 @@
 > L60: > Nothing to configure. GodMode is Markdown skills plus two small hooks (a session-start bootstrap and a one-line r
 > L86:  🧩 One repo, every harness
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NoobyGains/godmode 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 113 --> 115
+    line [114, 114]
+```
+
+2026-10-26 114 → 2026-10-27 114（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `0b8d0d470282` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # google-deepmind/alphaprotein-novo
 
-⭐ 305 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/alphaprotein-novo) · 组织维护
+⭐ 306 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/alphaprotein-novo) · 组织维护
 
 **从头酶设计的生成式扩散模型流水线**
 
@@ -46,12 +46,12 @@ DeepMind 发布的酶从头设计工具：扩散模型以催化 motif 和配体�
 ```mermaid
 xychart-beta
     title "google-deepmind/alphaprotein-novo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 296 --> 306
-    line [297, 304, 303, 304, 305, 305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 296 --> 307
+    line [297, 304, 303, 304, 305, 306]
 ```
 
-2026-10-18 297 → 2026-10-26 305（+8）
+2026-10-18 297 → 2026-10-27 306（+9）
 
 
 ---

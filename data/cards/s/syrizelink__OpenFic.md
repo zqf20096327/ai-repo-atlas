@@ -1,6 +1,6 @@
 # syrizelink/OpenFic
 
-⭐ 1,247 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/syrizelink/OpenFic) · 组织维护 · 中文 README
+⭐ 1,249 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/syrizelink/OpenFic) · 组织维护 · 中文 README
 
 **面向小说创作的 AI Native 一站式 Vibe Writing 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "syrizelink/OpenFic 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1224 --> 1250
-    line [1226, 1233, 1240, 1243, 1248, 1247]
+    title "syrizelink/OpenFic 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1224 --> 1251
+    line [1226, 1233, 1240, 1243, 1248, 1247, 1249]
 ```
 
-2026-10-18 1,226 → 2026-10-26 1,247（+21）
+2026-10-18 1,226 → 2026-10-27 1,249（+23）
 
 
 ---

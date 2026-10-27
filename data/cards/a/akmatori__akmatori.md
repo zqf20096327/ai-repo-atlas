@@ -1,6 +1,6 @@
 # akmatori/akmatori
 
-⭐ 45 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/akmatori/akmatori) · [官网](https://akmatori.com) · 组织维护
+⭐ 45 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/akmatori/akmatori) · [官网](https://akmatori.com) · 组织维护
 
 **自托管 AI AIOps 平台：SRE 用 LLM agent 调查与处置告警**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "akmatori/akmatori 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "akmatori/akmatori 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 41 --> 46
-    line [42, 43, 44, 45]
+    line [42, 43, 44, 45, 45]
 ```
 
-2026-10-18 42 → 2026-10-26 45（+3）
+2026-10-18 42 → 2026-10-27 45（+3）
 
 
 ---

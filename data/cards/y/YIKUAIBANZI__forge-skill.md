@@ -1,6 +1,6 @@
 # YIKUAIBANZI/forge-skill
 
-⭐ 126 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/YIKUAIBANZI/forge-skill) · 个人维护 · 中文 README
+⭐ 127 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/YIKUAIBANZI/forge-skill) · 个人维护 · 中文 README
 
 **本地优先的 Claude Code 人格蒸馏引擎：蒸馏自己与他人**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "YIKUAIBANZI/forge-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 122 --> 127
-    line [124, 123, 124, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 122 --> 128
+    line [124, 123, 124, 125, 126, 127]
 ```
 
-2026-10-18 124 → 2026-10-26 126（+2）
+2026-10-18 124 → 2026-10-27 127（+3）
 
 
 ---

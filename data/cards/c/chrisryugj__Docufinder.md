@@ -1,6 +1,6 @@
 # chrisryugj/Docufinder
 
-⭐ 666 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/chrisryugj/Docufinder) · 个人维护 · 中文 README
+⭐ 667 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/chrisryugj/Docufinder) · 个人维护 · 中文 README
 
 **离线全文检索本机韩文文档（HWP/PDF/Office）的桌面搜索引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chrisryugj/Docufinder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 659 --> 667
-    line [660, 663, 664, 666]
+    title "chrisryugj/Docufinder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 659 --> 668
+    line [660, 663, 664, 666, 667]
 ```
 
-2026-10-18 660 → 2026-10-26 666（+6）
+2026-10-18 660 → 2026-10-27 667（+7）
 
 
 ---

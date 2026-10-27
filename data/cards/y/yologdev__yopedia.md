@@ -1,6 +1,6 @@
 # yologdev/yopedia
 
-⭐ 68 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/yologdev/yopedia) · [官网](https://yologdev.github.io/yopedia/) · 个人维护
+⭐ 68 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/yologdev/yopedia) · [官网](https://yologdev.github.io/yopedia/) · 个人维护
 
 **人与 agent 共读共写的开源 wiki，由 agent 自主构建维护**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yologdev/yopedia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 67 --> 70
     line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-10-26 68（-1）
+2026-10-18 69 → 2026-10-27 68（-1）
 
 
 ---

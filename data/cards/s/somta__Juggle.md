@@ -1,6 +1,6 @@
 # somta/Juggle
 
-⭐ 1,161 · Java · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/somta/Juggle) · [官网](https://www.juggle.plus) · 组织维护 · 中文 README
+⭐ 1,162 · Java · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/somta/Juggle) · [官网](https://www.juggle.plus) · 组织维护 · 中文 README
 
 **零代码/低代码的微服务接口编排与系统集成平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "somta/Juggle 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1156 --> 1162
-    line [1157, 1159, 1160, 1161]
+    title "somta/Juggle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1156 --> 1163
+    line [1157, 1159, 1160, 1161, 1162]
 ```
 
-2026-10-18 1,157 → 2026-10-26 1,161（+4）
+2026-10-18 1,157 → 2026-10-27 1,162（+5）
 
 
 ---

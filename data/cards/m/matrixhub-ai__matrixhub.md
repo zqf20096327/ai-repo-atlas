@@ -1,6 +1,6 @@
 # matrixhub-ai/matrixhub
 
-⭐ 357 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/matrixhub-ai/matrixhub) · [官网](https://matrixhub.ai) · 组织维护
+⭐ 358 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/matrixhub-ai/matrixhub) · [官网](https://matrixhub.ai) · 组织维护
 
 **自托管私有 AI 模型仓库，加速 vLLM/SGLang 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "matrixhub-ai/matrixhub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 353 --> 358
-    line [354, 356, 357, 357]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 353 --> 359
+    line [354, 356, 357, 358]
 ```
 
-2026-10-18 354 → 2026-10-26 357（+3）
+2026-10-18 354 → 2026-10-27 358（+4）
 
 
 ---

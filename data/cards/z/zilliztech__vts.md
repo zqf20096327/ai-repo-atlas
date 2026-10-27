@@ -1,6 +1,6 @@
 # zilliztech/vts
 
-⭐ 134 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/zilliztech/vts) · [官网](https://zilliz.com/) · 组织维护
+⭐ 134 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zilliztech/vts) · [官网](https://zilliz.com/) · 组织维护
 
 **向量与非结构化数据迁移工具：把各类数据源接入 Milvus**
 
@@ -45,12 +45,12 @@ Zilliz 基于 Apache SeaTunnel 开发的开源数据迁移工具，用于在各�
 ```mermaid
 xychart-beta
     title "zilliztech/vts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 133 --> 135
     line [134, 134]
 ```
 
-2026-10-18 134 → 2026-10-26 134（+0）
+2026-10-18 134 → 2026-10-27 134（+0）
 
 
 ---

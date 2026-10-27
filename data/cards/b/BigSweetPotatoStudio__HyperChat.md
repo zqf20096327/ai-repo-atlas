@@ -1,6 +1,6 @@
 # BigSweetPotatoStudio/HyperChat
 
-⭐ 708 · TypeScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/BigSweetPotatoStudio/HyperChat) · 组织维护 · 中文 README
+⭐ 707 · TypeScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/BigSweetPotatoStudio/HyperChat) · 组织维护 · 中文 README
 
 **本地 AI Agent 平台/聊天客户端，配置文件驱动，MCP 工具集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BigSweetPotatoStudio/HyperChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 707 --> 710
-    line [709, 708, 708]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 706 --> 710
+    line [709, 708, 707]
 ```
 
-2026-10-18 709 → 2026-10-26 708（-1）
+2026-10-18 709 → 2026-10-27 707（-2）
 
 
 ---

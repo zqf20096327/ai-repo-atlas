@@ -1,6 +1,6 @@
 # scverse/cellrank
 
-⭐ 459 · Python · BSD-3-Clause · 推送 2026-10-14 · [GitHub](https://github.com/scverse/cellrank) · [官网](https://cellrank.readthedocs.io/en/latest/) · 组织维护
+⭐ 460 · Python · BSD-3-Clause · 推送 2026-10-14 · [GitHub](https://github.com/scverse/cellrank) · [官网](https://cellrank.readthedocs.io/en/latest/) · 组织维护
 
 **单细胞多视图数据的细胞命运推断框架（马尔可夫态建模）**
 
@@ -45,12 +45,12 @@ CellRank 是研究细胞动力学的模块化框架，基于马尔可夫态建�
 ```mermaid
 xychart-beta
     title "scverse/cellrank 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 458 --> 460
-    line [459, 459]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 458 --> 461
+    line [459, 460]
 ```
 
-2026-10-18 459 → 2026-10-26 459（+0）
+2026-10-18 459 → 2026-10-27 460（+1）
 
 
 ---

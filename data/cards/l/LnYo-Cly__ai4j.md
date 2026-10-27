@@ -1,6 +1,6 @@
 # LnYo-Cly/ai4j
 
-⭐ 435 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/LnYo-Cly/ai4j) · [官网](https://lnyo-cly.github.io/ai4j/) · 个人维护 · 中文 README
+⭐ 434 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/LnYo-Cly/ai4j) · [官网](https://lnyo-cly.github.io/ai4j/) · 个人维护 · 中文 README
 
 **面向 JDK 8+ 的 Java AI Agentic 开发套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LnYo-Cly/ai4j 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 434 --> 437
-    line [435, 436, 435]
+    title "LnYo-Cly/ai4j 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 433 --> 437
+    line [435, 436, 435, 434]
 ```
 
-2026-10-18 435 → 2026-10-26 435（+0）
+2026-10-18 435 → 2026-10-27 434（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # perminder-klair/locca
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/perminder-klair/locca) · [官网](https://locca.klair.co) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/perminder-klair/locca) · [官网](https://locca.klair.co) · 个人维护
 
 **管理本地 GGUF 模型与 llama.cpp 服务器的终端 TUI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "perminder-klair/locca 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

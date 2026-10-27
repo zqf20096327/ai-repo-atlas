@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "thubZ09/vision-language-model-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "thubZ09/vision-language-model-research 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 64 --> 68
-    line [65, 66, 67]
+    line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-10-26 67（+2）
+2026-10-18 65 → 2026-10-27 67（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # viperrcrypto/Siftly
 
-⭐ 3,079 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/viperrcrypto/Siftly) · 个人维护
+⭐ 3,080 · TypeScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/viperrcrypto/Siftly) · 个人维护
 
 **本地自托管的 Twitter/X 书签管理器，AI 分类与思维导图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "viperrcrypto/Siftly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3070 --> 3080
-    line [3071, 3074, 3077, 3079, 3078, 3079]
+    title "viperrcrypto/Siftly 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3070 --> 3081
+    line [3071, 3074, 3077, 3079, 3078, 3079, 3080]
 ```
 
-2026-10-18 3,071 → 2026-10-26 3,079（+8）
+2026-10-18 3,071 → 2026-10-27 3,080（+9）
 
 
 ---

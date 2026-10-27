@@ -1,6 +1,6 @@
 # akseolabs-seo/cinematic-ui
 
-⭐ 82 · MIT · 推送 2026-04-08 · [GitHub](https://github.com/akseolabs-seo/cinematic-ui) · [官网](https://akseolabs.com/) · 组织维护 · 中文 README
+⭐ 84 · MIT · 推送 2026-04-08 · [GitHub](https://github.com/akseolabs-seo/cinematic-ui) · [官网](https://akseolabs.com/) · 组织维护 · 中文 README
 
 **让 AI 编程代理以导演工作流设计网站的跨工具技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "akseolabs-seo/cinematic-ui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 75 --> 83
-    line [76, 77, 78, 80, 81, 82]
+    title "akseolabs-seo/cinematic-ui 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 75 --> 85
+    line [76, 77, 78, 80, 81, 82, 84]
 ```
 
-2026-10-18 76 → 2026-10-26 82（+6）
+2026-10-18 76 → 2026-10-27 84（+8）
 
 
 ---

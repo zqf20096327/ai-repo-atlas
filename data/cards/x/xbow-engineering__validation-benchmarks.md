@@ -1,6 +1,6 @@
 # xbow-engineering/validation-benchmarks
 
-⭐ 738 · PHP · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/xbow-engineering/validation-benchmarks) · [官网](https://xbow.com) · 组织维护
+⭐ 739 · PHP · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/xbow-engineering/validation-benchmarks) · [官网](https://xbow.com) · 组织维护
 
 **104 个 Web 攻防 CTF 基准，用于评测 LLM 网络安全能力**
 
@@ -45,12 +45,12 @@ XBOW 发布的网络安全评测基准集：104 个 Jeopardy 式 CTF 挑战，�
 ```mermaid
 xychart-beta
     title "xbow-engineering/validation-benchmarks 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 727 --> 739
-    line [728, 729, 733, 736, 735, 738, 738]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 727 --> 740
+    line [728, 729, 733, 736, 735, 738, 739]
 ```
 
-2026-10-18 728 → 2026-10-26 738（+10）
+2026-10-18 728 → 2026-10-27 739（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # pardnchiu/Agenvoy
 
-⭐ 522 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
+⭐ 557 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
 **自托管 24/7 本地个人 AI 代理：把对话变成电脑上完成的工作**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pardnchiu/Agenvoy 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-26"]
-    y-axis "stars" 511 --> 523
-    line [512, 522]
+    title "pardnchiu/Agenvoy 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 508 --> 561
+    line [512, 522, 557]
 ```
 
-2026-10-25 512 → 2026-10-26 522（+10）
+2026-10-25 512 → 2026-10-27 557（+45）
 
 
 ---

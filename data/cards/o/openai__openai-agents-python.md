@@ -1,6 +1,6 @@
 # openai/openai-agents-python
 
-⭐ 30,275 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
+⭐ 30,302 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
 
 **给开发者的多 Agent 工作流 Python 框架**
 
@@ -51,13 +51,13 @@ OpenAI 官方发布的 Python SDK，用于构建多 Agent 工作流。核心概�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-agents-python 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 30083 --> 30292
-    line [30100, 30144, 30202, 30230, 30246, 30258, 30275]
+    title "openai/openai-agents-python 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 30080 --> 30322
+    line [30100, 30144, 30202, 30230, 30246, 30258, 30275, 30302]
 ```
 
-2026-10-18 30,100 → 2026-10-26 30,275（+175）
+2026-10-18 30,100 → 2026-10-27 30,302（+202）
 
 
 ---

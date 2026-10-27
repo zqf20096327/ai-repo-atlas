@@ -1,6 +1,6 @@
 # genesisinteractive/LiveTalk-Unity
 
-⭐ 53 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/genesisinteractive/LiveTalk-Unity) · 组织维护
+⭐ 54 · C# · MIT · 推送 2026-10-25 · [GitHub](https://github.com/genesisinteractive/LiveTalk-Unity) · 组织维护
 
 **Unity 端侧数字人库：输入肖像与文本生成本地语音与口型视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genesisinteractive/LiveTalk-Unity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-26 53（+0）
+2026-10-18 53 → 2026-10-27 54（+1）
 
 
 ---

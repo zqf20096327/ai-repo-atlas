@@ -45,12 +45,12 @@ JeecgBoot 低代码平台的核心启动器模块集合，基于 Spring Boot 4 �
 ```mermaid
 xychart-beta
     title "jeecgboot/jeecg-boot-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-26 102（+0）
+2026-10-18 102 → 2026-10-27 102（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DuckTapeKiller/dive
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DuckTapeKiller/dive) · 个人维护
+⭐ 30 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DuckTapeKiller/dive) · 个人维护
 
 **本地优先的桌面聊天与 Agent 客户端，接入多种本地/云端模型后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DuckTapeKiller/dive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

@@ -44,13 +44,13 @@ LobeHub 团队维护的 React 图表库（@lobehub/charts），基于 recharts �
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-charts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "lobehub/lobe-charts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 118 --> 122
-    line [119, 120, 121]
+    line [119, 120, 121, 121]
 ```
 
-2026-10-18 119 → 2026-10-26 121（+2）
+2026-10-18 119 → 2026-10-27 121（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # baidu-baige/LoongForge
 
-⭐ 721 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
+⭐ 727 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
 
 **百度百度的多模态大模型与具身模型训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baidu-baige/LoongForge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 685 --> 724
-    line [688, 694, 709, 715, 717, 721]
+    title "baidu-baige/LoongForge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 685 --> 730
+    line [688, 694, 709, 715, 717, 721, 727]
 ```
 
-2026-10-18 688 → 2026-10-26 721（+33）
+2026-10-18 688 → 2026-10-27 727（+39）
 
 
 ---

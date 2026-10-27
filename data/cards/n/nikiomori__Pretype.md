@@ -1,6 +1,6 @@
 # nikiomori/Pretype
 
-⭐ 35 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nikiomori/Pretype) · [官网](https://pretype.app) · 个人维护
+⭐ 36 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nikiomori/Pretype) · [官网](https://pretype.app) · 个人维护
 
 **macOS 全系统本地 AI 自动补全：任意文本框中获得 Copilot 式建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nikiomori/Pretype 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15 --> 36
-    line [16, 17, 25, 26, 28, 34, 35]
+    title "nikiomori/Pretype 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14 --> 38
+    line [16, 17, 25, 26, 28, 34, 35, 36]
 ```
 
-2026-10-18 16 → 2026-10-26 35（+19）
+2026-10-18 16 → 2026-10-27 36（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # ValueCell-ai/valuecell
 
-⭐ 11,029 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/ValueCell-ai/valuecell) · [官网](https://valuecell.ai) · 组织维护 · 中文 README
+⭐ 11,031 · Python · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/ValueCell-ai/valuecell) · [官网](https://valuecell.ai) · 组织维护 · 中文 README
 
 **面向金融投资的多 Agent 平台：选股、研究、跟踪与交易**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ValueCell-ai/valuecell 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 11023 --> 11031
-    line [11024, 11030, 11026, 11027, 11029, 11029]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 11023 --> 11032
+    line [11024, 11030, 11026, 11027, 11029, 11031]
 ```
 
-2026-10-18 11,024 → 2026-10-26 11,029（+5）
+2026-10-18 11,024 → 2026-10-27 11,031（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # jezweb/claude-skills
 
-⭐ 1,076 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/jezweb/claude-skills) · [官网](https://jezweb.com.au) · 个人维护
+⭐ 1,077 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/jezweb/claude-skills) · [官网](https://jezweb.com.au) · 个人维护
 
 **面向 Claude Code 的生产工作流技能插件合集（10 插件）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jezweb/claude-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1067 --> 1077
-    line [1068, 1070, 1072, 1073, 1074, 1075, 1076]
+    title "jezweb/claude-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1067 --> 1078
+    line [1068, 1070, 1072, 1073, 1074, 1075, 1076, 1077]
 ```
 
-2026-10-18 1,068 → 2026-10-26 1,076（+8）
+2026-10-18 1,068 → 2026-10-27 1,077（+9）
 
 
 ---

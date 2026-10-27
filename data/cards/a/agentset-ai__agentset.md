@@ -1,6 +1,6 @@
 # agentset-ai/agentset
 
-⭐ 2,114 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agentset-ai/agentset) · [官网](https://agentset.ai) · 组织维护
+⭐ 2,115 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agentset-ai/agentset) · [官网](https://agentset.ai) · 组织维护
 
 **开源 RAG 平台：构建、评测与部署生产级 RAG/Agent 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentset-ai/agentset 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2110 --> 2115
-    line [2112, 2111, 2112, 2111, 2114]
+    title "agentset-ai/agentset 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2110 --> 2116
+    line [2112, 2111, 2112, 2111, 2114, 2115]
 ```
 
-2026-10-18 2,112 → 2026-10-26 2,114（+2）
+2026-10-18 2,112 → 2026-10-27 2,115（+3）
 
 
 ---

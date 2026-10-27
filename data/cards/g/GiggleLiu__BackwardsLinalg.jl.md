@@ -44,12 +44,12 @@ Zygote.jl 的扩展库，为线性代数函数（SVD、随机 SVD、QR、特征�
 ```mermaid
 xychart-beta
     title "GiggleLiu/BackwardsLinalg.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

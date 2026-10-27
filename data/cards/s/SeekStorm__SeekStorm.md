@@ -1,6 +1,6 @@
 # SeekStorm/SeekStorm
 
-⭐ 1,924 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/SeekStorm/SeekStorm) · [官网](https://seekstorm.com) · 个人维护
+⭐ 1,928 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SeekStorm/SeekStorm) · [官网](https://seekstorm.com) · 个人维护
 
 **Rust 实现的词法/向量/混合搜索引擎库与多租户服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeekStorm/SeekStorm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1915 --> 1925
-    line [1916, 1917, 1919, 1920, 1924]
+    title "SeekStorm/SeekStorm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1915 --> 1929
+    line [1916, 1917, 1919, 1920, 1924, 1928]
 ```
 
-2026-10-18 1,916 → 2026-10-26 1,924（+8）
+2026-10-18 1,916 → 2026-10-27 1,928（+12）
 
 
 ---

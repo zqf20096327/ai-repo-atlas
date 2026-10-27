@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChiSonKon/telegram-business-ai-bot 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-27"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-19 74 → 2026-10-26 74（+0）
+2026-10-19 74 → 2026-10-27 74（+0）
 
 
 ---

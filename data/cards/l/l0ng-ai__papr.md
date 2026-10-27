@@ -1,6 +1,6 @@
 # l0ng-ai/papr
 
-⭐ 543 · Rust · MIT · 推送 2026-09-23 · [GitHub](https://github.com/l0ng-ai/papr) · 个人维护 · 中文 README
+⭐ 545 · Rust · MIT · 推送 2026-09-23 · [GitHub](https://github.com/l0ng-ai/papr) · 个人维护 · 中文 README
 
 **带 AI 摘要与 Agent CLI 的本地 RSS 阅读器**
 
@@ -44,13 +44,13 @@ Rust 编写的桌面 RSS 阅读器，提供订阅管理、智能视图、标签�
 
 ```mermaid
 xychart-beta
-    title "l0ng-ai/papr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 539 --> 544
-    line [541, 540, 541, 543]
+    title "l0ng-ai/papr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 539 --> 546
+    line [541, 540, 541, 543, 545]
 ```
 
-2026-10-18 541 → 2026-10-26 543（+2）
+2026-10-18 541 → 2026-10-27 545（+4）
 
 
 ---

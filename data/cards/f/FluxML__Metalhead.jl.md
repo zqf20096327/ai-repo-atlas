@@ -1,6 +1,6 @@
 # FluxML/Metalhead.jl
 
-⭐ 350 · Julia · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/FluxML/Metalhead.jl) · [官网](https://fluxml.ai/Metalhead.jl) · 组织维护
+⭐ 350 · Julia · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/FluxML/Metalhead.jl) · [官网](https://fluxml.ai/Metalhead.jl) · 组织维护
 
 **Julia/Flux 的计算机视觉模型架构库：提供标准 CV 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FluxML/Metalhead.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 348 --> 351
     line [349, 350, 350]
 ```
 
-2026-10-18 349 → 2026-10-26 350（+1）
+2026-10-18 349 → 2026-10-27 350（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ErcinDedeoglu/crypto-market-data
 
-⭐ 92 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/ErcinDedeoglu/crypto-market-data) · [官网](https://github.com/ErcinDedeoglu/crypto-market-data) · 个人维护
+⭐ 94 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ErcinDedeoglu/crypto-market-data) · [官网](https://github.com/ErcinDedeoglu/crypto-market-data) · 个人维护
 
 **面向 ML 研究的免费加密货币链上与衍生品日度数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErcinDedeoglu/crypto-market-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 89 --> 93
-    line [90, 91, 92]
+    title "ErcinDedeoglu/crypto-market-data 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 89 --> 95
+    line [90, 91, 92, 94]
 ```
 
-2026-10-18 90 → 2026-10-26 92（+2）
+2026-10-18 90 → 2026-10-27 94（+4）
 
 
 ---

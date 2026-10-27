@@ -1,6 +1,6 @@
 # Exocija/ZetaLib
 
-⭐ 909 · 推送 2026-09-01 · [GitHub](https://github.com/Exocija/ZetaLib) · [官网](https://zetalib.neocities.org) · 个人维护
+⭐ 911 · 推送 2026-09-01 · [GitHub](https://github.com/Exocija/ZetaLib) · [官网](https://zetalib.neocities.org) · 个人维护
 
 **按类目组织 AI 内容的发现库/导航清单**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "Exocija/ZetaLib 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 903 --> 910
-    line [904, 905, 907, 908, 909]
+    title "Exocija/ZetaLib 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 903 --> 912
+    line [904, 905, 907, 908, 909, 911]
 ```
 
-2026-10-18 904 → 2026-10-26 909（+5）
+2026-10-18 904 → 2026-10-27 911（+7）
 
 
 ---

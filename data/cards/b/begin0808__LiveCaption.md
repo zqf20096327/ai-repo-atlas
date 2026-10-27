@@ -1,6 +1,6 @@
 # begin0808/LiveCaption
 
-⭐ 101 · HTML · 推送 2026-07-31 · [GitHub](https://github.com/begin0808/LiveCaption) · 个人维护 · 中文 README
+⭐ 102 · HTML · 推送 2026-07-31 · [GitHub](https://github.com/begin0808/LiveCaption) · 个人维护 · 中文 README
 
 **本机离线的网页影片实时双语字幕系统（Chrome 扩展+Python 后端）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "begin0808/LiveCaption 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 101, 101]
+    line [101, 102, 101, 102]
 ```
 
-2026-10-18 101 → 2026-10-26 101（+0）
+2026-10-18 101 → 2026-10-27 102（+1）
 
 
 ---

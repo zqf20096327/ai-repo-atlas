@@ -1,6 +1,6 @@
 # online-ml/river
 
-⭐ 6,134 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/online-ml/river) · [官网](https://riverml.xyz) · 组织维护
+⭐ 6,135 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/online-ml/river) · [官网](https://riverml.xyz) · 组织维护
 
 **Python 在线机器学习库：流式数据上逐样本训练与预测**
 
@@ -44,13 +44,13 @@ River 是用于在线机器学习的 Python 库，由 creme 与 scikit-multiflow
 
 ```mermaid
 xychart-beta
-    title "online-ml/river 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6128 --> 6135
-    line [6129, 6130, 6131, 6132, 6134]
+    title "online-ml/river 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6128 --> 6136
+    line [6129, 6130, 6131, 6132, 6134, 6135]
 ```
 
-2026-10-18 6,129 → 2026-10-26 6,134（+5）
+2026-10-18 6,129 → 2026-10-27 6,135（+6）
 
 
 ---

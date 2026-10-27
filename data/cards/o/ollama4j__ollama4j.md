@@ -1,6 +1,6 @@
 # ollama4j/ollama4j
 
-⭐ 506 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ollama4j/ollama4j) · [官网](https://ollama4j.github.io/ollama4j) · 组织维护
+⭐ 506 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ollama4j/ollama4j) · [官网](https://ollama4j.github.io/ollama4j) · 组织维护
 
 **Java 库：封装 Ollama REST API，供 Java 应用调用本地模型**
 
@@ -46,12 +46,12 @@ Ollama server 的 Java 包装库，把文本生成、多轮对话、流式输出
 ```mermaid
 xychart-beta
     title "ollama4j/ollama4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 505 --> 507
     line [506, 506]
 ```
 
-2026-10-18 506 → 2026-10-26 506（+0）
+2026-10-18 506 → 2026-10-27 506（+0）
 
 
 ---

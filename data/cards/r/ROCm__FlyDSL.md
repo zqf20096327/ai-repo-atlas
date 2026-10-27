@@ -1,6 +1,6 @@
 # ROCm/FlyDSL
 
-⭐ 304 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/ROCm/FlyDSL) · 组织维护
+⭐ 304 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ROCm/FlyDSL) · 组织维护
 
 **面向 AMD GPU 的 Python DSL + MLIR 编译栈，用于编写高性能内核**
 
@@ -45,13 +45,13 @@ ROCm/FlyDSL 是一个用于编写高性能 GPU 内核的 Python DSL，配套 MLI
 
 ```mermaid
 xychart-beta
-    title "ROCm/FlyDSL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "ROCm/FlyDSL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 294 --> 305
-    line [295, 297, 299, 300, 301, 302, 304]
+    line [295, 297, 299, 300, 301, 302, 304, 304]
 ```
 
-2026-10-18 295 → 2026-10-26 304（+9）
+2026-10-18 295 → 2026-10-27 304（+9）
 
 
 ---

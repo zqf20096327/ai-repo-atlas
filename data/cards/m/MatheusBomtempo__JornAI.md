@@ -1,6 +1,6 @@
 # MatheusBomtempo/JornAI
 
-⭐ 125 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MatheusBomtempo/JornAI) · [官网](https://jorn-ia.vercel.app/about) · 个人维护
+⭐ 127 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MatheusBomtempo/JornAI) · [官网](https://jorn-ia.vercel.app/about) · 个人维护
 
 **新闻编辑室的 AI 辅助 Instagram 发文工具，人工终审**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MatheusBomtempo/JornAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 99 --> 127
-    line [101, 107, 111, 117, 119, 125]
+    title "MatheusBomtempo/JornAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 99 --> 129
+    line [101, 107, 111, 117, 119, 125, 127]
 ```
 
-2026-10-18 101 → 2026-10-26 125（+24）
+2026-10-18 101 → 2026-10-27 127（+26）
 
 
 ---

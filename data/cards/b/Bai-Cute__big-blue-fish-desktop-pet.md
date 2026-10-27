@@ -1,6 +1,6 @@
 # Bai-Cute/big-blue-fish-desktop-pet
 
-⭐ 78 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) · 个人维护 · 中文 README
+⭐ 85 · C# · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) · 个人维护 · 中文 README
 
 **本地大模型驱动的蓝色鲸鱼娘 AI 桌面桌宠**
 
@@ -45,13 +45,13 @@ Windows/Linux 桌面宠物软件：内置 Qwen3.5-4B Q4_K_M 量化 GGUF 模型�
 
 ```mermaid
 xychart-beta
-    title "Bai-Cute/big-blue-fish-desktop-pet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 16 --> 83
-    line [21, 40, 53, 62, 71, 75, 78]
+    title "Bai-Cute/big-blue-fish-desktop-pet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 15 --> 91
+    line [21, 40, 53, 62, 71, 75, 78, 85]
 ```
 
-2026-10-18 21 → 2026-10-26 78（+57）
+2026-10-18 21 → 2026-10-27 85（+64）
 
 
 ---

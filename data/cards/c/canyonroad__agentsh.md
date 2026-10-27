@@ -1,6 +1,6 @@
 # canyonroad/agentsh
 
-⭐ 401 · Go · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/canyonroad/agentsh) · [官网](https://www.agentsh.org) · 个人维护
+⭐ 404 · Go · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/canyonroad/agentsh) · [官网](https://www.agentsh.org) · 个人维护
 
 **面向 AI agent 的策略强制执行 shell 网关与审计层**
 
@@ -44,13 +44,13 @@ agentsh 是运行在 agent/工具之下的执行层安全网关：拦截文件�
 
 ```mermaid
 xychart-beta
-    title "canyonroad/agentsh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 394 --> 402
-    line [395, 396, 398, 399, 400, 401]
+    title "canyonroad/agentsh 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 394 --> 405
+    line [395, 396, 398, 399, 400, 401, 404]
 ```
 
-2026-10-18 395 → 2026-10-26 401（+6）
+2026-10-18 395 → 2026-10-27 404（+9）
 
 
 ---

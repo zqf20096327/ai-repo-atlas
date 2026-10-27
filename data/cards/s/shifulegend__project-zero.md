@@ -1,6 +1,6 @@
 # shifulegend/project-zero
 
-⭐ 52 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shifulegend/project-zero) · [官网](https://github.com/shifulegend/project-zero/discussions) · 个人维护
+⭐ 53 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/shifulegend/project-zero) · [官网](https://github.com/shifulegend/project-zero/discussions) · 个人维护
 
 **纯 C 实现的 CPU LLM 推理引擎，单二进制运行多族模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shifulegend/project-zero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 47 --> 53
-    line [48, 49, 50, 52]
+    title "shifulegend/project-zero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 47 --> 54
+    line [48, 49, 50, 52, 53]
 ```
 
-2026-10-18 48 → 2026-10-26 52（+4）
+2026-10-18 48 → 2026-10-27 53（+5）
 
 
 ---

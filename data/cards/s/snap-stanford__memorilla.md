@@ -1,6 +1,6 @@
 # snap-stanford/memorilla
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/snap-stanford/memorilla) · [官网](https://memory.stanford.edu) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/snap-stanford/memorilla) · [官网](https://memory.stanford.edu) · 组织维护
 
 **给冻结 LLM 的隐式语义记忆系统：文档集压缩为 16 个记忆 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "snap-stanford/memorilla 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 16 --> 35
     line [17, 29, 33, 34, 34]
 ```
 
-2026-10-19 17 → 2026-10-26 34（+17）
+2026-10-19 17 → 2026-10-27 34（+17）
 
 
 ---

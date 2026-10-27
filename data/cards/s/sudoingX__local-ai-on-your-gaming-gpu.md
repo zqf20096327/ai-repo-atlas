@@ -1,6 +1,6 @@
 # sudoingX/local-ai-on-your-gaming-gpu
 
-⭐ 167 · Python · 推送 2026-10-17 · [GitHub](https://github.com/sudoingX/local-ai-on-your-gaming-gpu) · 个人维护
+⭐ 168 · Python · 推送 2026-10-17 · [GitHub](https://github.com/sudoingX/local-ai-on-your-gaming-gpu) · 个人维护
 
 **一行命令在游戏显卡上本地运行 27B 模型的一体化安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sudoingX/local-ai-on-your-gaming-gpu 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 154 --> 168
-    line [155, 157, 159, 162, 165, 167, 167]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 154 --> 169
+    line [155, 157, 159, 162, 165, 167, 168]
 ```
 
-2026-10-18 155 → 2026-10-26 167（+12）
+2026-10-18 155 → 2026-10-27 168（+13）
 
 
 ---

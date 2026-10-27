@@ -1,6 +1,6 @@
 # JovianHQ/opendatasets
 
-⭐ 346 · Python · MIT · 推送 2026-01-10 · [GitHub](https://github.com/JovianHQ/opendatasets) · 组织维护
+⭐ 347 · Python · MIT · 推送 2026-01-10 · [GitHub](https://github.com/JovianHQ/opendatasets) · 组织维护
 
 **从 Kaggle、Google Drive 等在线来源下载数据集的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JovianHQ/opendatasets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 345 --> 347
-    line [346, 346]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 345 --> 348
+    line [346, 347]
 ```
 
-2026-10-18 346 → 2026-10-26 346（+0）
+2026-10-18 346 → 2026-10-27 347（+1）
 
 
 ---

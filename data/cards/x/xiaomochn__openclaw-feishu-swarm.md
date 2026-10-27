@@ -46,12 +46,12 @@ OpenClaw 的飞书多 Bot 协作插件，解决飞书机器人彼此看不到对
 ```mermaid
 xychart-beta
     title "xiaomochn/openclaw-feishu-swarm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 37（+0）
 
 
 ---

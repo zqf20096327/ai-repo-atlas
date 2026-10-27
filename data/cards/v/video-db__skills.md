@@ -1,6 +1,6 @@
 # video-db/skills
 
-⭐ 139 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/video-db/skills) · [官网](https://docs.videodb.io) · 组织维护
+⭐ 139 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/video-db/skills) · [官网](https://docs.videodb.io) · 组织维护
 
 **让 AI 编码代理执行服务端视频工作流的技能包**
 
@@ -46,12 +46,12 @@ VideoDB 团队维护的 agent 技能包，为 Claude Code、Cursor、Copilot 等
 ```mermaid
 xychart-beta
     title "video-db/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 131 --> 140
     line [132, 136, 139, 139]
 ```
 
-2026-10-18 132 → 2026-10-26 139（+7）
+2026-10-18 132 → 2026-10-27 139（+7）
 
 
 ---

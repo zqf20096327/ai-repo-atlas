@@ -1,6 +1,6 @@
 # lmwilki/civ6-mcp
 
-⭐ 227 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lmwilki/civ6-mcp) · [官网](https://civ6-mcp.lwilko.com) · 个人维护
+⭐ 228 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lmwilki/civ6-mcp) · [官网](https://civ6-mcp.lwilko.com) · 个人维护
 
 **让 LLM Agent 完整游玩文明6的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lmwilki/civ6-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 219 --> 228
-    line [220, 222, 224, 225, 227, 227]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 219 --> 229
+    line [220, 222, 224, 225, 227, 228]
 ```
 
-2026-10-18 220 → 2026-10-26 227（+7）
+2026-10-18 220 → 2026-10-27 228（+8）
 
 
 ---

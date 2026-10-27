@@ -1,6 +1,6 @@
 # allenai/ScienceWorld
 
-⭐ 399 · Scala · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/allenai/ScienceWorld) · [官网](https://sciworld.apps.allenai.org/) · 组织维护
+⭐ 400 · Scala · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/allenai/ScienceWorld) · [官网](https://sciworld.apps.allenai.org/) · 组织维护
 
 **面向小学科学课程任务的文本虚拟环境，供智能体研究与评测**
 
@@ -44,13 +44,13 @@ ScienceWorld 是围绕标准化小学科学课程任务构建的文本交互虚�
 
 ```mermaid
 xychart-beta
-    title "allenai/ScienceWorld 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 396 --> 400
-    line [397, 398, 399]
+    title "allenai/ScienceWorld 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 396 --> 401
+    line [397, 398, 399, 400]
 ```
 
-2026-10-18 397 → 2026-10-26 399（+2）
+2026-10-18 397 → 2026-10-27 400（+3）
 
 
 ---

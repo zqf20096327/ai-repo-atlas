@@ -1,6 +1,6 @@
 # kevinpbuckley/VibeUE
 
-⭐ 787 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kevinpbuckley/VibeUE) · [官网](https://www.vibeue.com) · 个人维护
+⭐ 788 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kevinpbuckley/VibeUE) · [官网](https://www.vibeue.com) · 个人维护
 
 **扩展 Unreal Engine 5.8+ 原生 MCP 的 AI 编辑器工具集插件**
 
@@ -45,12 +45,12 @@ Unreal Engine 5.8+ 的插件，接入引擎自带的 MCP server 与 ToolsetRegis
 ```mermaid
 xychart-beta
     title "kevinpbuckley/VibeUE 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 775 --> 788
-    line [776, 782, 785, 786, 787, 787]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 775 --> 789
+    line [776, 782, 785, 786, 787, 788]
 ```
 
-2026-10-18 776 → 2026-10-26 787（+11）
+2026-10-18 776 → 2026-10-27 788（+12）
 
 
 ---

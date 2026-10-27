@@ -1,6 +1,6 @@
 # imgompanda/fireauto
 
-⭐ 140 · JavaScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/imgompanda/fireauto) · 个人维护
+⭐ 139 · JavaScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/imgompanda/fireauto) · 个人维护
 
 **Claude Code 插件：为 AI 编程提供项目管理与知识自动积累的 harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "imgompanda/fireauto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 138 --> 141
+    line [140, 139]
 ```
 
-2026-10-18 140 → 2026-10-26 140（+0）
+2026-10-18 140 → 2026-10-27 139（-1）
 
 
 ---

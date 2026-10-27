@@ -1,6 +1,6 @@
 # camunda/skills
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/camunda/skills) · [官网](https://camunda.com) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/camunda/skills) · [官网](https://camunda.com) · 组织维护
 
 **Camunda 8 官方 AI 编程技能包，供 Agent 构建 Camunda 解决方案**
 
@@ -44,13 +44,13 @@ Camunda 维护的 AI coding skills 仓库，遵循 Agent Skills 开放标准（S
 
 ```mermaid
 xychart-beta
-    title "camunda/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "camunda/skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 21 --> 27
-    line [22, 23, 24, 25, 26]
+    line [22, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-10-26 26（+4）
+2026-10-18 22 → 2026-10-27 26（+4）
 
 
 ---

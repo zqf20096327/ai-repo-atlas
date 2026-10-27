@@ -1,6 +1,6 @@
 # anton-abyzov/ccx-rs
 
-⭐ 26 · Rust · MIT · 推送 2026-04-02 · [GitHub](https://github.com/anton-abyzov/ccx-rs) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anton-abyzov/ccx-rs) · 个人维护
 
 **Rust 编写的终端 AI 编程助手，多模型、免订阅**
 
@@ -46,12 +46,12 @@ CCX-RS 是单文件 4.7MB 二进制的终端 AI 编程助手，用 Rust 实现�
 ```mermaid
 xychart-beta
     title "anton-abyzov/ccx-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

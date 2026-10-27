@@ -1,6 +1,6 @@
 # aartikis/RTEC
 
-⭐ 108 · Prolog · LGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/aartikis/RTEC) · 组织维护
+⭐ 108 · Prolog · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/aartikis/RTEC) · 组织维护
 
 **面向数据流的 Event Calculus 逻辑编程系统（流推理）**
 
@@ -45,12 +45,12 @@ RTEC 是开源的 Event Calculus 方言，使用 Prolog 编写，针对数据流
 ```mermaid
 xychart-beta
     title "aartikis/RTEC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-26 108（+0）
+2026-10-18 108 → 2026-10-27 108（+0）
 
 
 ---

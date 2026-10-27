@@ -1,6 +1,6 @@
 # cyberchitta/openai_ex
 
-⭐ 217 · Elixir · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/cyberchitta/openai_ex) · [官网](https://hexdocs.pm/openai_ex) · 组织维护
+⭐ 217 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyberchitta/openai_ex) · [官网](https://hexdocs.pm/openai_ex) · 组织维护
 
 **Elixir 语言的 OpenAI API 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberchitta/openai_ex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 216 --> 218
     line [217, 217]
 ```
 
-2026-10-18 217 → 2026-10-26 217（+0）
+2026-10-18 217 → 2026-10-27 217（+0）
 
 
 ---

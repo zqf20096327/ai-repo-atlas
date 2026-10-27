@@ -1,6 +1,6 @@
 # microsoft/FLAML
 
-⭐ 4,416 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/FLAML) · [官网](https://microsoft.github.io/FLAML/) · 组织维护 · 中文 README
+⭐ 4,416 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/FLAML) · [官网](https://microsoft.github.io/FLAML/) · 组织维护 · 中文 README
 
 **轻量 AutoML 与超参数优化 Python 库，低算力选出可用模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/FLAML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 4408 --> 4417
     line [4409, 4412, 4414, 4416, 4416]
 ```
 
-2026-10-18 4,409 → 2026-10-26 4,416（+7）
+2026-10-18 4,409 → 2026-10-27 4,416（+7）
 
 
 ---

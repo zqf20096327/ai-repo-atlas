@@ -1,6 +1,6 @@
 # BlackSnufkin/LitterBox
 
-⭐ 1,551 · YARA · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/BlackSnufkin/LitterBox) · 个人维护
+⭐ 1,552 · YARA · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/BlackSnufkin/LitterBox) · 个人维护
 
 **红队自托管载荷分析沙箱：检测评分判断 payload 可用性**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlackSnufkin/LitterBox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "BlackSnufkin/LitterBox 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1550 --> 1558
-    line [1551, 1553, 1557, 1555, 1553, 1551]
+    line [1551, 1553, 1557, 1555, 1553, 1551, 1552]
 ```
 
-2026-10-18 1,551 → 2026-10-26 1,551（+0）
+2026-10-18 1,551 → 2026-10-27 1,552（+1）
 
 
 ---

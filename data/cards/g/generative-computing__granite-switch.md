@@ -1,6 +1,6 @@
 # generative-computing/granite-switch
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/generative-computing/granite-switch) · [官网](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) · 组织维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/generative-computing/granite-switch) · [官网](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) · 组织维护
 
 **把可组合 LoRA 适配函数组装进单一模型的架构与作曲工具链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "generative-computing/granite-switch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 105 --> 116
     line [106, 110, 113, 115, 115]
 ```
 
-2026-10-18 106 → 2026-10-26 115（+9）
+2026-10-18 106 → 2026-10-27 115（+9）
 
 
 ---

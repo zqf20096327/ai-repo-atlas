@@ -1,6 +1,6 @@
 # Blazemeter/bzm-mcp
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Blazemeter/bzm-mcp) · [官网](https://help.blazemeter.com/docs/guide/integrations-blazemeter-mcp-server.html) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Blazemeter/bzm-mcp) · [官网](https://help.blazemeter.com/docs/guide/integrations-blazemeter-mcp-server.html) · 组织维护
 
 **官方 BlazeMeter MCP 服务器：让 AI 助手管理云负载测试**
 
@@ -45,12 +45,12 @@ Perforce/BlazeMeter 官方发布的 MCP 服务器，把 AI 工具（VS Code、Cl
 ```mermaid
 xychart-beta
     title "Blazemeter/bzm-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

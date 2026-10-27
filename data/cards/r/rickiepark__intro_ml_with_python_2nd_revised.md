@@ -45,12 +45,12 @@ Andreas Müller 与 Sarah Guido 所著《Introduction to Machine Learning with P
 ```mermaid
 xychart-beta
     title "rickiepark/intro_ml_with_python_2nd_revised 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-26 62（+0）
+2026-10-18 62 → 2026-10-27 62（+0）
 
 
 ---

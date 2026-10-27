@@ -1,6 +1,6 @@
 # kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8
 
-⭐ 36 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8) · 个人维护
+⭐ 37 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8) · 个人维护
 
 **检测 SAR 卫星影像中船舶的系统：Lee 滤波+YOLOv8-OBB**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kbhujbal/Trident-synthetic_aperture_radar_maritime_vessel_detection_yolov8 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 37（+1）
 
 
 ---

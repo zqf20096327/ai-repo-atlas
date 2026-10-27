@@ -1,6 +1,6 @@
 # anthropics/single-agent-loop-kit
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/single-agent-loop-kit) · 组织维护
+⭐ 219 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anthropics/single-agent-loop-kit) · 组织维护
 
 **把多 agent 系统收敛为单循环的 Claude Code 技能工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/single-agent-loop-kit 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6 --> 140
-    line [17, 70, 129]
+    title "anthropics/single-agent-loop-kit 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 239
+    line [17, 70, 129, 219]
 ```
 
-2026-10-24 17 → 2026-10-26 129（+112）
+2026-10-24 17 → 2026-10-27 219（+202）
 
 
 ---

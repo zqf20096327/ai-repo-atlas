@@ -1,6 +1,6 @@
 # url-kaist/MambaGlue
 
-⭐ 280 · Python · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/url-kaist/MambaGlue) · 组织维护
+⭐ 282 · Python · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/url-kaist/MambaGlue) · 组织维护
 
 **Mamba+Transformer 混合架构的图像局部特征匹配网络（ICRA'25）**
 
@@ -45,12 +45,12 @@ KAIST 团队发表的 MambaGlue：将 Mamba 与 Transformer 混合用于两张�
 ```mermaid
 xychart-beta
     title "url-kaist/MambaGlue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 279 --> 281
-    line [280, 280]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 279 --> 283
+    line [280, 282]
 ```
 
-2026-10-18 280 → 2026-10-26 280（+0）
+2026-10-18 280 → 2026-10-27 282（+2）
 
 
 ---

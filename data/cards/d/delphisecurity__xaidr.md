@@ -1,6 +1,6 @@
 # delphisecurity/xaidr
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/delphisecurity/xaidr) · [官网](delphisecurity.ai/xaidr) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/delphisecurity/xaidr) · [官网](delphisecurity.ai/xaidr) · 组织维护
 
 **AI agent 运行时安全传感器：进程内检测提示注入与危险工具调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "delphisecurity/xaidr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

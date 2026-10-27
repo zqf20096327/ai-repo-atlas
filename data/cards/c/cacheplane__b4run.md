@@ -1,6 +1,6 @@
 # cacheplane/b4run
 
-⭐ 301 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cacheplane/b4run) · [官网](https://b4.run) · 个人维护
+⭐ 301 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cacheplane/b4run) · [官网](https://b4.run) · 个人维护
 
 **给 TypeScript 开发者的 LangGraph.js Agent 应用框架**
 
@@ -46,12 +46,12 @@ B4.run 是基于 LangGraph.js 的 TypeScript Agent 框架：以文件系统路�
 ```mermaid
 xychart-beta
     title "cacheplane/b4run 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 300 --> 312
     line [311, 302, 301, 301]
 ```
 
-2026-10-18 311 → 2026-10-26 301（-10）
+2026-10-18 311 → 2026-10-27 301（-10）
 
 
 ---

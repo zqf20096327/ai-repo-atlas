@@ -1,6 +1,6 @@
 # kyegomez/MORPHEUS-1
 
-⭐ 133 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kyegomez/MORPHEUS-1) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 133 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MORPHEUS-1) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **MORPHEUS-1 论文复现：从 fMRI/EEG 生成超声调控的 Transformer**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MORPHEUS-1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-26 133（+0）
+2026-10-18 133 → 2026-10-27 133（+0）
 
 
 ---

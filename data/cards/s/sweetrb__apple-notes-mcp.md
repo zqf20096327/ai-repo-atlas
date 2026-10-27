@@ -1,6 +1,6 @@
 # sweetrb/apple-notes-mcp
 
-⭐ 170 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sweetrb/apple-notes-mcp) · 个人维护
+⭐ 171 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sweetrb/apple-notes-mcp) · 个人维护
 
 **让 AI 助手读写管理 macOS Apple Notes 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sweetrb/apple-notes-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 157 --> 171
-    line [158, 160, 162, 165, 167, 169, 170]
+    title "sweetrb/apple-notes-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 157 --> 172
+    line [158, 160, 162, 165, 167, 169, 170, 171]
 ```
 
-2026-10-18 158 → 2026-10-26 170（+12）
+2026-10-18 158 → 2026-10-27 171（+13）
 
 
 ---

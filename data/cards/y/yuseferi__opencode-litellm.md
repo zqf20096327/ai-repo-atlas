@@ -1,6 +1,6 @@
 # yuseferi/opencode-litellm
 
-⭐ 97 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yuseferi/opencode-litellm) · [官网](https://www.npmjs.com/package/opencode-plugin-litellm) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yuseferi/opencode-litellm) · [官网](https://www.npmjs.com/package/opencode-plugin-litellm) · 个人维护
 
 **让 OpenCode CLI/Desktop 自动发现 LiteLLM 代理模型的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuseferi/opencode-litellm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 92 --> 98
-    line [93, 94, 95, 97]
+    title "yuseferi/opencode-litellm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 92 --> 100
+    line [93, 94, 95, 97, 99]
 ```
 
-2026-10-18 93 → 2026-10-26 97（+4）
+2026-10-18 93 → 2026-10-27 99（+6）
 
 
 ---

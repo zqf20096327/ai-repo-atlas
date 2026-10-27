@@ -1,6 +1,6 @@
 # chefroger/smart-trade-ai
 
-⭐ 94 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/chefroger/smart-trade-ai) · [官网](https://chefroger.github.io/smart-trade-ai/) · 个人维护 · 中文 README
+⭐ 95 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/chefroger/smart-trade-ai) · [官网](https://chefroger.github.io/smart-trade-ai/) · 个人维护 · 中文 README
 
 **外贸业务员的本地 AI 助手：客户开发、背调、开发信一站式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chefroger/smart-trade-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 87 --> 95
-    line [88, 90, 93, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 87 --> 96
+    line [88, 90, 93, 94, 95]
 ```
 
-2026-10-18 88 → 2026-10-26 94（+6）
+2026-10-18 88 → 2026-10-27 95（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # SimonZeng7108/efficientsam3
 
-⭐ 697 · Jupyter Notebook · 推送 2026-08-11 · [GitHub](https://github.com/SimonZeng7108/efficientsam3) · [官网](https://simonzeng7108.github.io/efficientsam3/) · 组织维护
+⭐ 699 · Jupyter Notebook · 推送 2026-08-11 · [GitHub](https://github.com/SimonZeng7108/efficientsam3) · [官网](https://simonzeng7108.github.io/efficientsam3/) · 组织维护
 
 **将 SAM3 蒸馏为轻量模型，用于边缘端概念分割与跟踪**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SimonZeng7108/efficientsam3 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 693 --> 699
-    line [694, 695, 696, 697, 698, 697]
+    title "SimonZeng7108/efficientsam3 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 693 --> 700
+    line [694, 695, 696, 697, 698, 697, 699]
 ```
 
-2026-10-18 694 → 2026-10-26 697（+3）
+2026-10-18 694 → 2026-10-27 699（+5）
 
 
 ---

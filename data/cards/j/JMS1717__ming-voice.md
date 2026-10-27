@@ -1,6 +1,6 @@
 # JMS1717/ming-voice
 
-⭐ 276 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JMS1717/ming-voice) · 个人维护 · 中文 README
+⭐ 321 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/JMS1717/ming-voice) · 个人维护 · 中文 README
 
 **AMD/NVIDIA GPU 上本地运行的实时语音助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JMS1717/ming-voice 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 150 --> 287
-    line [161, 223, 276]
+    title "JMS1717/ming-voice 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 145 --> 337
+    line [161, 223, 276, 321]
 ```
 
-2026-10-24 161 → 2026-10-26 276（+115）
+2026-10-24 161 → 2026-10-27 321（+160）
 
 
 ---

@@ -1,6 +1,6 @@
 # cyberbotics/webots
 
-⭐ 4,720 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cyberbotics/webots) · [官网](https://cyberbotics.com) · 组织维护
+⭐ 4,722 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyberbotics/webots) · [官网](https://cyberbotics.com) · 组织维护
 
 **开源机器人模拟器：建模、编程与仿真机器人/车辆/机械系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyberbotics/webots 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 4710 --> 4721
-    line [4711, 4716, 4717, 4718, 4719, 4720]
+    title "cyberbotics/webots 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 4710 --> 4723
+    line [4711, 4716, 4717, 4718, 4719, 4720, 4722]
 ```
 
-2026-10-18 4,711 → 2026-10-26 4,720（+9）
+2026-10-18 4,711 → 2026-10-27 4,722（+11）
 
 
 ---

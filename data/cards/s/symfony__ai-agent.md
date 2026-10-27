@@ -1,6 +1,6 @@
 # symfony/ai-agent
 
-⭐ 35 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/symfony/ai-agent) · [官网](https://symfony.com/packages/ai-agent) · 组织维护
+⭐ 35 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-agent) · [官网](https://symfony.com/packages/ai-agent) · 组织维护
 
 **Symfony 生态的 PHP AI Agent 构建框架组件**
 
@@ -44,12 +44,12 @@ symfony/ai-agent 是 Symfony AI 系列中的 Agent 组件，基于 Platform 与 
 ```mermaid
 xychart-beta
     title "symfony/ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

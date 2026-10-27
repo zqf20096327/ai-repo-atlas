@@ -1,6 +1,6 @@
 # VersusControl/devops-vn-blog
 
-⭐ 69 · HCL · 推送 2026-10-01 · [GitHub](https://github.com/VersusControl/devops-vn-blog) · [官网](https://devopsvn.tech) · 组织维护
+⭐ 72 · HCL · 推送 2026-10-01 · [GitHub](https://github.com/VersusControl/devops-vn-blog) · [官网](https://devopsvn.tech) · 组织维护
 
 **分享 DevOps 与云计算知识的博客网站（Jekyll）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VersusControl/devops-vn-blog 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 61 --> 70
-    line [62, 64, 66, 69]
+    title "VersusControl/devops-vn-blog 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 61 --> 73
+    line [62, 64, 66, 69, 72]
 ```
 
-2026-10-18 62 → 2026-10-26 69（+7）
+2026-10-18 62 → 2026-10-27 72（+10）
 
 
 ---

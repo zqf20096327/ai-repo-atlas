@@ -1,6 +1,6 @@
 # Zer0Qing/Muse
 
-⭐ 65 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Zer0Qing/Muse) · [官网](https://museai.ltd) · 个人维护 · 中文 README
+⭐ 68 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Zer0Qing/Muse) · [官网](https://museai.ltd) · 个人维护 · 中文 README
 
 **本地优先的开源 Android AI 伴侣应用，带持久记忆与系统能力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zer0Qing/Muse 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 59 --> 66
-    line [60, 62, 64, 63, 64, 65]
+    title "Zer0Qing/Muse 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 59 --> 69
+    line [60, 62, 64, 63, 64, 65, 68]
 ```
 
-2026-10-18 60 → 2026-10-26 65（+5）
+2026-10-18 60 → 2026-10-27 68（+8）
 
 
 ---

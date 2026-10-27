@@ -44,13 +44,13 @@ Speakeasy 提供以 OpenAPI 3.X 为输入的开发工具链：生成 10 种语�
 
 ```mermaid
 xychart-beta
-    title "speakeasy-api/speakeasy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "speakeasy-api/speakeasy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 453 --> 456
-    line [454, 455]
+    line [454, 455, 455]
 ```
 
-2026-10-18 454 → 2026-10-26 455（+1）
+2026-10-18 454 → 2026-10-27 455（+1）
 
 
 ---

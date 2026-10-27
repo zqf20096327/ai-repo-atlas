@@ -1,6 +1,6 @@
 # srcbookdev/srcbook
 
-⭐ 3,436 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/srcbookdev/srcbook) · 组织维护
+⭐ 3,437 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/srcbookdev/srcbook) · 组织维护
 
 **本地运行的 TypeScript notebook，支持 AI 辅助探索代码与想法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "srcbookdev/srcbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 3435 --> 3437
-    line [3436, 3436]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 3435 --> 3438
+    line [3436, 3437]
 ```
 
-2026-10-18 3,436 → 2026-10-26 3,436（+0）
+2026-10-18 3,436 → 2026-10-27 3,437（+1）
 
 
 ---

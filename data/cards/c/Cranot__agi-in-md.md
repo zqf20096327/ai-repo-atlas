@@ -1,6 +1,6 @@
 # Cranot/agi-in-md
 
-⭐ 146 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/Cranot/agi-in-md) · 个人维护
+⭐ 145 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/Cranot/agi-in-md) · 个人维护
 
 **用 markdown 提示词“棱镜”驱动 Claude 做结构化分析的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cranot/agi-in-md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 145 --> 147
-    line [146, 146]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 144 --> 147
+    line [146, 145]
 ```
 
-2026-10-18 146 → 2026-10-26 146（+0）
+2026-10-18 146 → 2026-10-27 145（-1）
 
 
 ---

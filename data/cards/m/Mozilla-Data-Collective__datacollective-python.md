@@ -46,12 +46,12 @@ Mozilla Data Collective 平台的官方 Python 客户端库，面向数据使用
 ```mermaid
 xychart-beta
     title "Mozilla-Data-Collective/datacollective-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 27 --> 31
     line [28, 30, 30]
 ```
 
-2026-10-18 28 → 2026-10-26 30（+2）
+2026-10-18 28 → 2026-10-27 30（+2）
 
 
 ---

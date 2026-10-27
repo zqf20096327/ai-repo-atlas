@@ -1,6 +1,6 @@
 # SalesforceAIResearch/uni2ts
 
-⭐ 1,615 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/uni2ts) · 组织维护
+⭐ 1,616 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/uni2ts) · 组织维护
 
 **时序预测基础模型库：统一预训练、微调与评估 Moirai**
 
@@ -46,12 +46,12 @@ Salesforce AI Research 维护的 PyTorch 时序预测库，为通用时序 Trans
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/uni2ts 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1609 --> 1616
-    line [1610, 1614, 1615, 1615]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 1609 --> 1617
+    line [1610, 1614, 1615, 1616]
 ```
 
-2026-10-18 1,610 → 2026-10-26 1,615（+5）
+2026-10-18 1,610 → 2026-10-27 1,616（+6）
 
 
 ---

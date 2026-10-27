@@ -1,6 +1,6 @@
 # vvts-alpha/VERDICT
 
-⭐ 26 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/vvts-alpha/VERDICT) · 组织维护
+⭐ 26 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/vvts-alpha/VERDICT) · 组织维护
 
 **带证据核验的 AI 自动化 Web 渗透测试桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vvts-alpha/VERDICT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-26 26（+1）
+2026-10-18 25 → 2026-10-27 26（+1）
 
 
 ---

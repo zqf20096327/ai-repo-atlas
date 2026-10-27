@@ -1,6 +1,6 @@
 # lineai-intelligence/lineai-mcp-server
 
-⭐ 37 · Python · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/lineai-intelligence/lineai-mcp-server) · [官网](https://codelogic.com/) · 组织维护
+⭐ 37 · Python · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lineai-intelligence/lineai-mcp-server) · [官网](https://codelogic.com/) · 组织维护
 
 **让 AI 编程助手调用 Lineai 依赖数据图的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lineai-intelligence/lineai-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-26 37（+0）
+2026-10-18 37 → 2026-10-27 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # henrique-coder/perplexity-webui-scraper
 
-⭐ 138 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/henrique-coder/perplexity-webui-scraper) · [官网](https://perplexity-webui-scraper.readthedocs.io) · 个人维护
+⭐ 138 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/henrique-coder/perplexity-webui-scraper) · [官网](https://perplexity-webui-scraper.readthedocs.io) · 个人维护
 
 **通过逆向 Perplexity WebUI 接口获取 AI 回答的 Python 库与 API/MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "henrique-coder/perplexity-webui-scraper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "henrique-coder/perplexity-webui-scraper 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 135 --> 139
-    line [136, 137, 138]
+    line [136, 137, 138, 138]
 ```
 
-2026-10-18 136 → 2026-10-26 138（+2）
+2026-10-18 136 → 2026-10-27 138（+2）
 
 
 ---

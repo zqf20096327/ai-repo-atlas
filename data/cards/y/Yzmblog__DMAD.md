@@ -1,6 +1,6 @@
 # Yzmblog/DMAD
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护 · 中文 README
+⭐ 229 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护 · 中文 README
 
 **扩散模型对抗蒸馏方法 DMAD 的训练与少步推理代码**
 
@@ -45,13 +45,13 @@ DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏
 
 ```mermaid
 xychart-beta
-    title "Yzmblog/DMAD 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 182 --> 223
-    line [185, 197, 207, 211, 217, 218, 220]
+    title "Yzmblog/DMAD 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 181 --> 233
+    line [185, 197, 207, 211, 217, 218, 220, 229]
 ```
 
-2026-10-18 185 → 2026-10-26 220（+35）
+2026-10-18 185 → 2026-10-27 229（+44）
 
 
 ---

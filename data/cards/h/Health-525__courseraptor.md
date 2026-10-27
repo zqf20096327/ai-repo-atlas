@@ -1,6 +1,6 @@
 # Health-525/courseraptor
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Health-525/courseraptor) · [官网](https://health-525.github.io/courseraptor/) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Health-525/courseraptor) · [官网](https://health-525.github.io/courseraptor/) · 个人维护 · 中文 README
 
 **面向大学生的本地优先 AI 学习工作台：课表、待办与知识库一处管理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Health-525/courseraptor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "Health-525/courseraptor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 35 --> 44
-    line [36, 37, 38, 43]
+    line [36, 37, 38, 43, 43]
 ```
 
-2026-10-18 36 → 2026-10-26 43（+7）
+2026-10-18 36 → 2026-10-27 43（+7）
 
 
 ---

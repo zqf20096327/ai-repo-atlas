@@ -1,6 +1,6 @@
 # openai/openai-java
 
-⭐ 1,557 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/openai/openai-java) · 组织维护
+⭐ 1,557 · Kotlin · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openai/openai-java) · 组织维护
 
 **OpenAI API 官方 Java SDK：在 Java 应用中调用 OpenAI REST API**
 
@@ -44,13 +44,13 @@ OpenAI 官方维护的 Java 库，封装对 OpenAI REST API 的访问：通过 R
 
 ```mermaid
 xychart-beta
-    title "openai/openai-java 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "openai/openai-java 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1548 --> 1558
-    line [1549, 1552, 1554, 1555, 1556, 1557]
+    line [1549, 1552, 1554, 1555, 1556, 1557, 1557]
 ```
 
-2026-10-18 1,549 → 2026-10-26 1,557（+8）
+2026-10-18 1,549 → 2026-10-27 1,557（+8）
 
 
 ---

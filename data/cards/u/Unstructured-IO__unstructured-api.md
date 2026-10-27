@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured-api
 
-⭐ 957 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Unstructured-IO/unstructured-api) · 组织维护
+⭐ 958 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Unstructured-IO/unstructured-api) · 组织维护
 
 **文档分区 REST API：上传文件返回结构化文档元素**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Unstructured-IO/unstructured-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 952 --> 958
-    line [953, 954, 955, 957]
+    title "Unstructured-IO/unstructured-api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 952 --> 959
+    line [953, 954, 955, 957, 958]
 ```
 
-2026-10-18 953 → 2026-10-26 957（+4）
+2026-10-18 953 → 2026-10-27 958（+5）
 
 
 ---

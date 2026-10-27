@@ -1,6 +1,6 @@
 # openai/openai-agents-js
 
-⭐ 3,943 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-agents-js) · [官网](https://openai.github.io/openai-agents-js/) · 组织维护
+⭐ 3,946 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/openai/openai-agents-js) · [官网](https://openai.github.io/openai-agents-js/) · 组织维护
 
 **OpenAI 官方的 JS/TS 多 Agent 与语音 Agent 开发框架**
 
@@ -44,13 +44,13 @@ OpenAI 维护的 JavaScript/TypeScript Agent 开发框架，声明 provider-agno
 
 ```mermaid
 xychart-beta
-    title "openai/openai-agents-js 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3923 --> 3944
-    line [3924, 3929, 3934, 3936, 3938, 3939, 3943]
+    title "openai/openai-agents-js 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3922 --> 3948
+    line [3924, 3929, 3934, 3936, 3938, 3939, 3943, 3946]
 ```
 
-2026-10-18 3,924 → 2026-10-26 3,943（+19）
+2026-10-18 3,924 → 2026-10-27 3,946（+22）
 
 
 ---

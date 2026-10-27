@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "taovietducofficial/OpenTechNotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "taovietducofficial/OpenTechNotes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 69 --> 72
-    line [70, 71]
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-10-26 71（+1）
+2026-10-18 70 → 2026-10-27 71（+1）
 
 
 ---

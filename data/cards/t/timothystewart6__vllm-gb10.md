@@ -1,6 +1,6 @@
 # timothystewart6/vllm-gb10
 
-⭐ 56 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/timothystewart6/vllm-gb10) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/timothystewart6/vllm-gb10) · 个人维护
 
 **面向 NVIDIA DGX Spark (GB10) 的 vLLM Docker 镜像构建与验证仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "timothystewart6/vllm-gb10 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 53 --> 57
-    line [54, 56, 56]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 53 --> 58
+    line [54, 56, 57]
 ```
 
-2026-10-18 54 → 2026-10-26 56（+2）
+2026-10-18 54 → 2026-10-27 57（+3）
 
 
 ---

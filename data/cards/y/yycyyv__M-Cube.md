@@ -1,6 +1,6 @@
 # yycyyv/M-Cube
 
-⭐ 211 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/yycyyv/M-Cube) · 个人维护 · 中文 README
+⭐ 210 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/yycyyv/M-Cube) · 个人维护 · 中文 README
 
 **多智能体协同的专利撰写与审查意见答复助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yycyyv/M-Cube 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 210 --> 215
-    line [214, 211, 211]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 209 --> 215
+    line [214, 211, 210]
 ```
 
-2026-10-18 214 → 2026-10-26 211（-3）
+2026-10-18 214 → 2026-10-27 210（-4）
 
 
 ---

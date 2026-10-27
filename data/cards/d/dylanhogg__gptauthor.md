@@ -1,6 +1,6 @@
 # dylanhogg/gptauthor
 
-⭐ 117 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/dylanhogg/gptauthor) · 个人维护
+⭐ 118 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/dylanhogg/gptauthor) · 个人维护
 
 **用 ChatGPT 生成多章节长篇小说的命令行写作工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dylanhogg/gptauthor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 115 --> 118
-    line [116, 117, 117]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 115 --> 119
+    line [116, 117, 118]
 ```
 
-2026-10-18 116 → 2026-10-26 117（+1）
+2026-10-18 116 → 2026-10-27 118（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nobodywho-ooo/nobodywho
 
-⭐ 1,643 · Rust · EUPL-1.2 · 推送 2026-10-24 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
+⭐ 1,646 · Rust · EUPL-1.2 · 推送 2026-10-26 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
 
 **多平台本地 LLM 推理引擎，提供六种语言绑定**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nobodywho-ooo/nobodywho 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1574 --> 1649
-    line [1580, 1582, 1587, 1616, 1638, 1643, 1643]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1574 --> 1652
+    line [1580, 1582, 1587, 1616, 1638, 1643, 1646]
 ```
 
-2026-10-18 1,580 → 2026-10-26 1,643（+63）
+2026-10-18 1,580 → 2026-10-27 1,646（+66）
 
 
 ---

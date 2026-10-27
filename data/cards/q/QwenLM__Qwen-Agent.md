@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Agent
 
-⭐ 17,210 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/QwenLM/Qwen-Agent) · [官网](https://pypi.org/project/qwen-agent/) · 组织维护 · 中文 README
+⭐ 17,214 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/QwenLM/Qwen-Agent) · [官网](https://pypi.org/project/qwen-agent/) · 组织维护 · 中文 README
 
 **面向开发者的 Qwen 系列 LLM 应用开发 Agent 框架**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 17184 --> 17212
-    line [17186, 17194, 17202, 17205, 17208, 17209, 17210]
+    title "QwenLM/Qwen-Agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 17184 --> 17216
+    line [17186, 17194, 17202, 17205, 17208, 17209, 17210, 17214]
 ```
 
-2026-10-18 17,186 → 2026-10-26 17,210（+24）
+2026-10-18 17,186 → 2026-10-27 17,214（+28）
 
 
 ---

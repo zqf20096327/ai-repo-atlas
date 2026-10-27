@@ -1,6 +1,6 @@
 # sharzoy/auto-job-apply
 
-⭐ 179 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/sharzoy/auto-job-apply) · 个人维护 · 中文 README
+⭐ 180 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/sharzoy/auto-job-apply) · 个人维护 · 中文 README
 
 **AI 求职助手 Skill：简历解析、JD 匹配打分、生成投递包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sharzoy/auto-job-apply 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 175 --> 180
-    line [176, 177, 179, 179]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 175 --> 181
+    line [176, 177, 179, 180]
 ```
 
-2026-10-18 176 → 2026-10-26 179（+3）
+2026-10-18 176 → 2026-10-27 180（+4）
 
 
 ---

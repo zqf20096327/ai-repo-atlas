@@ -43,12 +43,12 @@ Grafbase 是用 Rust 实现的 GraphQL Federation Gateway，主题标签含 MCP�
 ```mermaid
 xychart-beta
     title "grafbase/grafbase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 1227 --> 1229
     line [1228, 1228]
 ```
 
-2026-10-18 1,228 → 2026-10-26 1,228（+0）
+2026-10-18 1,228 → 2026-10-27 1,228（+0）
 
 
 ---

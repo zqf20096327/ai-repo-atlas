@@ -1,6 +1,6 @@
 # spacedriveapp/spacebot
 
-⭐ 2,421 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/spacedriveapp/spacebot) · [官网](https://spacebot.sh) · 组织维护
+⭐ 2,422 · Rust · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/spacedriveapp/spacebot) · [官网](https://spacebot.sh) · 组织维护
 
 **面向团队与社区的多线程 AI agent 编排基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spacedriveapp/spacebot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 2418 --> 2423
-    line [2419, 2421, 2422, 2421, 2421]
+    line [2419, 2421, 2422, 2421, 2422]
 ```
 
-2026-10-18 2,419 → 2026-10-26 2,421（+2）
+2026-10-18 2,419 → 2026-10-27 2,422（+3）
 
 
 ---

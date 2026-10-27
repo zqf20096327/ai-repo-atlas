@@ -1,6 +1,6 @@
 # microsoft/skills
 
-⭐ 3,148 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/skills) · [官网](https://microsoft.github.io/skills/) · 组织维护
+⭐ 3,149 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/skills) · [官网](https://microsoft.github.io/skills/) · 组织维护
 
 **面向 AI 编码代理的 Azure/Foundry 技能与模板库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3125 --> 3150
-    line [3127, 3133, 3137, 3139, 3144, 3145, 3148]
+    title "microsoft/skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3125 --> 3151
+    line [3127, 3133, 3137, 3139, 3144, 3145, 3148, 3149]
 ```
 
-2026-10-18 3,127 → 2026-10-26 3,148（+21）
+2026-10-18 3,127 → 2026-10-27 3,149（+22）
 
 
 ---

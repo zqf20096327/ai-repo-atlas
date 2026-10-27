@@ -1,6 +1,6 @@
 # mlr-org/mlr3
 
-⭐ 1,083 · R · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlr-org/mlr3) · [官网](https://mlr3.mlr-org.com) · 组织维护
+⭐ 1,084 · R · LGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/mlr-org/mlr3) · [官网](https://mlr3.mlr-org.com) · 组织维护
 
 **R 语言面向对象机器学习框架，mlr 的继任者**
 
@@ -46,12 +46,12 @@ mlr-org 团队维护的 R 机器学习框架，提供任务、学习器、重采
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1081 --> 1084
-    line [1082, 1083, 1083]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1081 --> 1085
+    line [1082, 1083, 1084]
 ```
 
-2026-10-18 1,082 → 2026-10-26 1,083（+1）
+2026-10-18 1,082 → 2026-10-27 1,084（+2）
 
 
 ---

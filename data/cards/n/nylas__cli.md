@@ -1,6 +1,6 @@
 # nylas/cli
 
-⭐ 77 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nylas/cli) · [官网](https://cli.nylas.com/) · 组织维护
+⭐ 76 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nylas/cli) · [官网](https://cli.nylas.com/) · 组织维护
 
 **Nylas 官方 CLI：终端统一管理邮件、日历、联系人**
 
@@ -46,12 +46,12 @@ Go 编写的统一命令行工具，通过 Nylas API 对接 Google、Microsoft �
 ```mermaid
 xychart-beta
     title "nylas/cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 74 --> 78
-    line [75, 77, 77]
+    line [75, 77, 76]
 ```
 
-2026-10-18 75 → 2026-10-26 77（+2）
+2026-10-18 75 → 2026-10-27 76（+1）
 
 
 ---

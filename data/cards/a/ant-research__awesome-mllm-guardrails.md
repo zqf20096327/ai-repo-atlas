@@ -1,6 +1,6 @@
 # ant-research/awesome-mllm-guardrails
 
-⭐ 38 · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/ant-research/awesome-mllm-guardrails) · 组织维护 · 中文 README
+⭐ 39 · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/ant-research/awesome-mllm-guardrails) · 组织维护 · 中文 README
 
 **LLM/MLLM 安全护栏资源策展清单：基准、护栏模型、攻击与数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ant-research/awesome-mllm-guardrails 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 39（+1）
 
 
 ---

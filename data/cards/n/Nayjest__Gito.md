@@ -1,6 +1,6 @@
 # Nayjest/Gito
 
-⭐ 451 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Nayjest/Gito) · [官网](http://gito.bot/) · 个人维护
+⭐ 454 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Nayjest/Gito) · [官网](http://gito.bot/) · 个人维护
 
 **开源 AI 代码审查工具：审查 GitHub PR 与本地改动**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nayjest/Gito 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 446 --> 452
-    line [447, 449, 450, 451, 451]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 446 --> 455
+    line [447, 449, 450, 451, 454]
 ```
 
-2026-10-18 447 → 2026-10-26 451（+4）
+2026-10-18 447 → 2026-10-27 454（+7）
 
 
 ---

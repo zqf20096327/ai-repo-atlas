@@ -1,6 +1,6 @@
 # openkinome/kinoml
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/openkinome/kinoml) · [官网](https://openkinome.org/kinoml/) · 组织维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openkinome/kinoml) · [官网](https://openkinome.org/kinoml/) · 组织维护
 
 **面向激酶的药物发现机器学习框架，覆盖数据到模型全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openkinome/kinoml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-26 61（+0）
+2026-10-18 61 → 2026-10-27 61（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # metaevo-ai/harness-zero
 
-⭐ 126 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/metaevo-ai/harness-zero) · 组织维护
+⭐ 127 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/metaevo-ai/harness-zero) · 组织维护
 
 **把优化 agent harness 的行为蒸馏进模型权重的训练框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "metaevo-ai/harness-zero 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 109 --> 127
-    line [110, 114, 117, 122, 124, 125, 126]
+    title "metaevo-ai/harness-zero 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 109 --> 128
+    line [110, 114, 117, 122, 124, 125, 126, 127]
 ```
 
-2026-10-18 110 → 2026-10-26 126（+16）
+2026-10-18 110 → 2026-10-27 127（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # IstiN/flutter_agent_harness
 
-⭐ 84 · Dart · MIT · 推送 2026-10-25 · [GitHub](https://github.com/IstiN/flutter_agent_harness) · [官网](https://fa1.dev) · 个人维护
+⭐ 84 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IstiN/flutter_agent_harness) · [官网](https://fa1.dev) · 个人维护
 
 **Dart/Flutter 跨平台 AI agent 框架与终端编码代理 fa**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IstiN/flutter_agent_harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 76 --> 85
     line [77, 78, 83, 84, 84]
 ```
 
-2026-10-18 77 → 2026-10-26 84（+7）
+2026-10-18 77 → 2026-10-27 84（+7）
 
 
 ---

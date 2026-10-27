@@ -1,6 +1,6 @@
 # sindresorhus/awesome-chatgpt
 
-⭐ 6,464 · CC0-1.0 · 推送 2026-02-15 · [GitHub](https://github.com/sindresorhus/awesome-chatgpt) · 个人维护
+⭐ 6,469 · CC0-1.0 · 推送 2026-02-15 · [GitHub](https://github.com/sindresorhus/awesome-chatgpt) · 个人维护
 
 **ChatGPT 相关工具与项目策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "sindresorhus/awesome-chatgpt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6446 --> 6465
-    line [6447, 6452, 6454, 6457, 6456, 6461, 6464]
+    title "sindresorhus/awesome-chatgpt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6445 --> 6471
+    line [6447, 6452, 6454, 6457, 6456, 6461, 6464, 6469]
 ```
 
-2026-10-18 6,447 → 2026-10-26 6,464（+17）
+2026-10-18 6,447 → 2026-10-27 6,469（+22）
 
 
 ---

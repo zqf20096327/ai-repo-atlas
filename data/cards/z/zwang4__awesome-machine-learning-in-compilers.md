@@ -1,6 +1,6 @@
 # zwang4/awesome-machine-learning-in-compilers
 
-⭐ 1,705 · CC0-1.0 · 推送 2026-08-26 · [GitHub](https://github.com/zwang4/awesome-machine-learning-in-compilers) · 个人维护
+⭐ 1,704 · CC0-1.0 · 推送 2026-08-26 · [GitHub](https://github.com/zwang4/awesome-machine-learning-in-compilers) · 个人维护
 
 **机器学习用于编译器与程序优化的论文/数据集/工具策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zwang4/awesome-machine-learning-in-compilers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "zwang4/awesome-machine-learning-in-compilers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1702 --> 1706
-    line [1703, 1704, 1705]
+    line [1703, 1704, 1705, 1704]
 ```
 
-2026-10-18 1,703 → 2026-10-26 1,705（+2）
+2026-10-18 1,703 → 2026-10-27 1,704（+1）
 
 
 ---

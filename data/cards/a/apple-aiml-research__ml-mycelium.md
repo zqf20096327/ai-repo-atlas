@@ -45,12 +45,12 @@ Apple AIML Research 出品的 Svelte 图可视化库，用于快速生成机器�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-mycelium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 79（+0）
 
 
 ---

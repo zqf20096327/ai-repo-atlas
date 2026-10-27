@@ -1,6 +1,6 @@
 # MoonshotAI/Attention-Residuals
 
-⭐ 3,549 · 推送 2026-03-17 · [GitHub](https://github.com/MoonshotAI/Attention-Residuals) · 组织维护 · 中文 README
+⭐ 3,556 · 推送 2026-03-17 · [GitHub](https://github.com/MoonshotAI/Attention-Residuals) · 组织维护 · 中文 README
 
 **Transformer 残差连接的注意力替换方法（AttnRes）官方仓库**
 
@@ -44,13 +44,13 @@ MoonshotAI/Kimi Team 的 Attention Residuals 论文官方仓库：提出用逐�
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/Attention-Residuals 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3524 --> 3551
-    line [3526, 3538, 3543, 3547, 3549]
+    title "MoonshotAI/Attention-Residuals 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3523 --> 3559
+    line [3526, 3538, 3543, 3547, 3549, 3556]
 ```
 
-2026-10-18 3,526 → 2026-10-26 3,549（+23）
+2026-10-18 3,526 → 2026-10-27 3,556（+30）
 
 
 ---

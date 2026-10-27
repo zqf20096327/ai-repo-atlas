@@ -1,6 +1,6 @@
 # deepmodeling/deepmd-kit
 
-⭐ 2,068 · Python · LGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/deepmodeling/deepmd-kit) · [官网](https://docs.deepmodeling.com/projects/deepmd/) · 组织维护 · 中文 README
+⭐ 2,068 · Python · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepmodeling/deepmd-kit) · [官网](https://docs.deepmodeling.com/projects/deepmd/) · 组织维护 · 中文 README
 
 **面向分子动力学的深度势能模型训练与部署工具包**
 
@@ -45,13 +45,13 @@ DeePMD-kit 将量子力学参考数据转化为快速可扩展的原子间相互
 
 ```mermaid
 xychart-beta
-    title "deepmodeling/deepmd-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "deepmodeling/deepmd-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2060 --> 2069
-    line [2061, 2062, 2064, 2066, 2068]
+    line [2061, 2062, 2064, 2066, 2068, 2068]
 ```
 
-2026-10-18 2,061 → 2026-10-26 2,068（+7）
+2026-10-18 2,061 → 2026-10-27 2,068（+7）
 
 
 ---

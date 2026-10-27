@@ -1,6 +1,6 @@
 # runzhliu/welink
 
-⭐ 301 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/runzhliu/welink) · [官网](https://welink.click) · 个人维护 · 中文 README
+⭐ 304 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/runzhliu/welink) · [官网](https://welink.click) · 个人维护 · 中文 README
 
 **本地化微信聊天数据分析 AI 平台：分析、画像与 AI 分身**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "runzhliu/welink 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 296 --> 302
-    line [297, 298, 300, 301, 301]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 296 --> 305
+    line [297, 298, 300, 301, 304]
 ```
 
-2026-10-18 297 → 2026-10-26 301（+4）
+2026-10-18 297 → 2026-10-27 304（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # lobehub/lobe-icons
 
-⭐ 2,643 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lobehub/lobe-icons) · [官网](https://icons.lobehub.com) · 组织维护 · 中文 README
+⭐ 2,646 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lobehub/lobe-icons) · [官网](https://icons.lobehub.com) · 组织维护 · 中文 README
 
 **AI/LLM 品牌图标库：为 React 应用提供静态 SVG/PNG/WebP 图标**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-icons 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2606 --> 2646
-    line [2609, 2618, 2622, 2626, 2634, 2640, 2643]
+    title "lobehub/lobe-icons 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2606 --> 2649
+    line [2609, 2618, 2622, 2626, 2634, 2640, 2643, 2646]
 ```
 
-2026-10-18 2,609 → 2026-10-26 2,643（+34）
+2026-10-18 2,609 → 2026-10-27 2,646（+37）
 
 
 ---

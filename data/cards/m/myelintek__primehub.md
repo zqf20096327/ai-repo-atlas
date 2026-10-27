@@ -45,12 +45,12 @@ PrimeHub Community Edition 是构建在 Kubernetes 之上的机器学习基础�
 ```mermaid
 xychart-beta
     title "myelintek/primehub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 410 --> 412
     line [411, 411]
 ```
 
-2026-10-18 411 → 2026-10-26 411（+0）
+2026-10-18 411 → 2026-10-27 411（+0）
 
 
 ---

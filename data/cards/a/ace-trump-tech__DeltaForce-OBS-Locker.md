@@ -1,6 +1,6 @@
 # ace-trump-tech/DeltaForce-OBS-Locker
 
-⭐ 1,480 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
+⭐ 1,496 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
 
 **游戏《三角洲行动》基于 OBS 画面识别的锁头辅助工具（PC/安卓）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ace-trump-tech/DeltaForce-OBS-Locker 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1372 --> 1489
-    line [1381, 1405, 1425, 1439, 1455, 1468, 1480]
+    title "ace-trump-tech/DeltaForce-OBS-Locker 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1370 --> 1507
+    line [1381, 1405, 1425, 1439, 1455, 1468, 1480, 1496]
 ```
 
-2026-10-18 1,381 → 2026-10-26 1,480（+99）
+2026-10-18 1,381 → 2026-10-27 1,496（+115）
 
 
 ---

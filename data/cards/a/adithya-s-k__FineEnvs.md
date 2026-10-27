@@ -1,6 +1,6 @@
 # adithya-s-k/FineEnvs
 
-⭐ 530 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 个人维护
+⭐ 532 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 个人维护
 
 **面向 LLM 智能体的开源 RL 环境项目集与教程资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adithya-s-k/FineEnvs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 503 --> 532
-    line [505, 516, 525, 528, 530, 530]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 503 --> 534
+    line [505, 516, 525, 528, 530, 532]
 ```
 
-2026-10-18 505 → 2026-10-26 530（+25）
+2026-10-18 505 → 2026-10-27 532（+27）
 
 
 ---

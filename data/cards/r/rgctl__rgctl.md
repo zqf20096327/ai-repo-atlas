@@ -1,6 +1,6 @@
 # rgctl/rgctl
 
-⭐ 25 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
+⭐ 25 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
 
 **给 LLM 编程 agent 用的代码知识图谱 CLI，输出紧凑确定性 JSON**
 
@@ -40,6 +40,18 @@ Rust 编写的命令行代码知识图谱工具：用 tree-sitter 对 15+ 种 Ti
 > L1: # rgctl - Code knowledge graph for LLM agents.
 > L32: > Index once (`discover`), then ask callers, blast radius, control/data-flow slices, clones, communities, and PR ca
 > L112: ## Use with coding agents
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rgctl/rgctl 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-26 25 → 2026-10-27 25（+0）
 
 
 ---

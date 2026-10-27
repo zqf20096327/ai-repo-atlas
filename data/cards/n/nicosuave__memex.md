@@ -1,6 +1,6 @@
 # nicosuave/memex
 
-⭐ 282 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nicosuave/memex) · 个人维护
+⭐ 287 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nicosuave/memex) · 个人维护
 
 **本地编码 agent 会话历史的索引、搜索与恢复工具**
 
@@ -45,13 +45,13 @@ Memex 索引 Claude Code、Codex、Cursor、Copilot 等 18 种编码工具在本
 
 ```mermaid
 xychart-beta
-    title "nicosuave/memex 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 265 --> 283
-    line [266, 269, 271, 275, 279, 280, 282]
+    title "nicosuave/memex 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 264 --> 289
+    line [266, 269, 271, 275, 279, 280, 282, 287]
 ```
 
-2026-10-18 266 → 2026-10-26 282（+16）
+2026-10-18 266 → 2026-10-27 287（+21）
 
 
 ---

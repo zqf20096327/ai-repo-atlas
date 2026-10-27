@@ -1,6 +1,6 @@
 # Haervwe/open-webui-tools
 
-⭐ 824 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Haervwe/open-webui-tools) · 个人维护
+⭐ 825 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Haervwe/open-webui-tools) · 个人维护
 
 **为 Open WebUI 扩展 20+ 工具/管道/过滤器的工具集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Haervwe/open-webui-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 822 --> 825
-    line [823, 824, 824]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 822 --> 826
+    line [823, 824, 825]
 ```
 
-2026-10-18 823 → 2026-10-26 824（+1）
+2026-10-18 823 → 2026-10-27 825（+2）
 
 
 ---

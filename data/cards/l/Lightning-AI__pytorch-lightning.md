@@ -1,6 +1,6 @@
 # Lightning-AI/pytorch-lightning
 
-⭐ 31,431 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
+⭐ 31,433 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
 
 **为深度学习开发者提供的 PyTorch 训练框架，自动化工程代码**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lightning-AI/pytorch-lightning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 31412 --> 31432
-    line [31413, 31417, 31422, 31425, 31426, 31429, 31431]
+    title "Lightning-AI/pytorch-lightning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 31411 --> 31435
+    line [31413, 31417, 31422, 31425, 31426, 31429, 31431, 31433]
 ```
 
-2026-10-18 31,413 → 2026-10-26 31,431（+18）
+2026-10-18 31,413 → 2026-10-27 31,433（+20）
 
 
 ---

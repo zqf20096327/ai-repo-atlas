@@ -1,6 +1,6 @@
 # rsxdalv/bark-speaker-directory
 
-⭐ 50 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/rsxdalv/bark-speaker-directory) · [官网](https://rsxdalv.github.io/bark-speaker-directory/) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/rsxdalv/bark-speaker-directory) · [官网](https://rsxdalv.github.io/bark-speaker-directory/) · 个人维护
 
 **Bark TTS 语音提示词共享目录网站，含预览音频库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rsxdalv/bark-speaker-directory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 48 --> 51
+    line [50, 49]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 49（-1）
 
 
 ---

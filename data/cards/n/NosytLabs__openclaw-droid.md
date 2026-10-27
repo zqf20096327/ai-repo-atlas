@@ -40,6 +40,18 @@
 > L5: This installer automates the exact steps from the "Bionic Bypass" guide to run OpenClaw on Android using Termux and 
 > L13: - **Automated Setup**: Installs Node 22, OpenClaw, and the Bionic Bypass automatically.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NosytLabs/openclaw-droid 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-10-26 34 → 2026-10-27 34（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `97e651ba9474` · [字段定义](../../DATASET.md)*

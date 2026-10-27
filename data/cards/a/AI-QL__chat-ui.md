@@ -1,6 +1,6 @@
 # AI-QL/chat-ui
 
-⭐ 97 · HTML · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/AI-QL/chat-ui) · [官网](https://chat.aiql.com) · 组织维护
+⭐ 96 · HTML · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/AI-QL/chat-ui) · [官网](https://chat.aiql.com) · 组织维护
 
 **单 HTML 文件的多模态聊天机器人前端界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-QL/chat-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 95 --> 98
+    line [97, 96]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 96（-1）
 
 
 ---

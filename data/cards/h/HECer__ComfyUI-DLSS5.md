@@ -1,6 +1,6 @@
 # HECer/ComfyUI-DLSS5
 
-⭐ 34 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/HECer/ComfyUI-DLSS5) · [官网](https://registry.comfy.org/publishers/hecer/nodes/experimental-dlss-neural-rendering) · 个人维护
+⭐ 35 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/HECer/ComfyUI-DLSS5) · [官网](https://registry.comfy.org/publishers/hecer/nodes/experimental-dlss-neural-rendering) · 个人维护
 
 **Windows 版 ComfyUI 节点：NVIDIA DLSS 超分与实验性神经渲染**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HECer/ComfyUI-DLSS5 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

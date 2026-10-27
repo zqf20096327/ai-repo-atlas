@@ -1,6 +1,6 @@
 # Cloud-CV/EvalAI-Starters
 
-⭐ 86 · Python · 推送 2026-03-26 · [GitHub](https://github.com/Cloud-CV/EvalAI-Starters) · 组织维护
+⭐ 87 · Python · 推送 2026-03-26 · [GitHub](https://github.com/Cloud-CV/EvalAI-Starters) · 组织维护
 
 **EvalAI 竞赛创建模板仓库：快速搭建 AI 评测挑战**
 
@@ -46,12 +46,12 @@ Cloud-CV 维护的模板仓库，用于在 EvalAI 平台上创建数据科学/�
 ```mermaid
 xychart-beta
     title "Cloud-CV/EvalAI-Starters 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 85 --> 88
+    line [86, 87]
 ```
 
-2026-10-18 86 → 2026-10-26 86（+0）
+2026-10-18 86 → 2026-10-27 87（+1）
 
 
 ---

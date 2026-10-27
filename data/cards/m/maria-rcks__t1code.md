@@ -1,6 +1,6 @@
 # maria-rcks/t1code
 
-⭐ 534 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/maria-rcks/t1code) · 个人维护
+⭐ 536 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/maria-rcks/t1code) · 个人维护
 
 **在终端中运行的 T3Code（基于 codex 的编码工具 TUI 版）**
 
@@ -44,12 +44,12 @@ T3Code 的终端界面版本，以 TUI 形式在终端中运行，通过 bunx �
 ```mermaid
 xychart-beta
     title "maria-rcks/t1code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 531 --> 535
-    line [532, 534, 534]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 531 --> 537
+    line [532, 534, 536]
 ```
 
-2026-10-18 532 → 2026-10-26 534（+2）
+2026-10-18 532 → 2026-10-27 536（+4）
 
 
 ---

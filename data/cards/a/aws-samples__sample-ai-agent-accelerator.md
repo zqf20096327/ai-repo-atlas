@@ -1,6 +1,6 @@
 # aws-samples/sample-ai-agent-accelerator
 
-⭐ 29 · HCL · MIT-0 · 推送 2025-11-03 · [GitHub](https://github.com/aws-samples/sample-ai-agent-accelerator) · [官网](https://builder.aws.com/content/31Z6LBVoHw6xLCzPnYDGUVjwVj1/exploring-bedrock-agentcore-building-an-ai-agent-accelerator-reference-implementation) · 组织维护
+⭐ 30 · HCL · MIT-0 · 推送 2025-11-03 · [GitHub](https://github.com/aws-samples/sample-ai-agent-accelerator) · [官网](https://builder.aws.com/content/31Z6LBVoHw6xLCzPnYDGUVjwVj1/exploring-bedrock-agentcore-building-an-ai-agent-accelerator-reference-implementation) · 组织维护
 
 **在 AWS 上快速部署 Bedrock AgentCore AI Agent 的参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/sample-ai-agent-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 30（+1）
 
 
 ---

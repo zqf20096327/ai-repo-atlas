@@ -1,6 +1,6 @@
 # softmata/horus
 
-⭐ 445 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/softmata/horus) · [官网](https://docs.horusrobotics.dev/) · 组织维护 · 中文 README
+⭐ 445 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/softmata/horus) · [官网](https://docs.horusrobotics.dev/) · 组织维护 · 中文 README
 
 **面向机器人与实时系统的分布式中间件，替代 DDS/ROS2**
 
@@ -45,12 +45,12 @@ HORUS 是用共享内存环形缓冲与无锁同步替代 DDS 的实时分布式
 ```mermaid
 xychart-beta
     title "softmata/horus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 440 --> 446
     line [441, 442, 443, 444, 445, 445]
 ```
 
-2026-10-18 441 → 2026-10-26 445（+4）
+2026-10-18 441 → 2026-10-27 445（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # devswha/patina
 
-⭐ 380 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/devswha/patina) · [官网](https://patina.vibetip.help/) · 组织维护
+⭐ 382 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/devswha/patina) · [官网](https://patina.vibetip.help/) · 组织维护
 
 **面向 KO/EN/ZH/JA 的模式化文本改写工具，去除 AI 腔调**
 
@@ -44,13 +44,13 @@ patina 是一个基于 189 个命名模式的确定性文本改写器，覆盖�
 
 ```mermaid
 xychart-beta
-    title "devswha/patina 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 374 --> 381
-    line [376, 375, 378, 380]
+    title "devswha/patina 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 374 --> 383
+    line [376, 375, 378, 380, 382]
 ```
 
-2026-10-18 376 → 2026-10-26 380（+4）
+2026-10-18 376 → 2026-10-27 382（+6）
 
 
 ---

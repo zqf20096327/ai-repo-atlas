@@ -1,6 +1,6 @@
 # bearlike/Assistant
 
-⭐ 44 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bearlike/Assistant) · [官网](https://docs.mewbo.com/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bearlike/Assistant) · [官网](https://docs.mewbo.com/) · 个人维护
 
 **开源 agent 工作栈：长任务自动化、代码库 wiki 问答与跨工具搜索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bearlike/Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-26 44（+0）
+2026-10-18 44 → 2026-10-27 44（+0）
 
 
 ---

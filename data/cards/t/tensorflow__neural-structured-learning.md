@@ -46,12 +46,12 @@ Neural Structured Learning（NSL）是 TensorFlow 下的训练框架，供开发
 ```mermaid
 xychart-beta
     title "tensorflow/neural-structured-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 1011 --> 1013
     line [1012, 1012]
 ```
 
-2026-10-18 1,012 → 2026-10-26 1,012（+0）
+2026-10-18 1,012 → 2026-10-27 1,012（+0）
 
 
 ---

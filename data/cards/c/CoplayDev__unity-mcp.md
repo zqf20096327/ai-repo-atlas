@@ -1,6 +1,6 @@
 # CoplayDev/unity-mcp
 
-⭐ 15,405 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
+⭐ 15,445 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护
 
 **给 Unity 开发者的 MCP 桥：让 AI 助手控制编辑器**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "CoplayDev/unity-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15013 --> 15440
-    line [15048, 15159, 15268, 15322, 15353, 15376, 15405]
+    title "CoplayDev/unity-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 15009 --> 15484
+    line [15048, 15159, 15268, 15322, 15353, 15376, 15405, 15445]
 ```
 
-2026-10-18 15,048 → 2026-10-26 15,405（+357）
+2026-10-18 15,048 → 2026-10-27 15,445（+397）
 
 
 ---

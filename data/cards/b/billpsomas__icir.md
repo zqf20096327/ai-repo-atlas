@@ -1,6 +1,6 @@
 # billpsomas/icir
 
-⭐ 56 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/billpsomas/icir) · [官网](https://vrg.fel.cvut.cz/icir/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/billpsomas/icir) · [官网](https://vrg.fel.cvut.cz/icir/) · 组织维护
 
 **实例级组合图像检索基准 i-CIR 与免训练方法 BASIC 官方实现**
 
@@ -46,12 +46,12 @@ NeurIPS 2025 论文 Instance-Level Composed Image Retrieval 的官方实现，�
 ```mermaid
 xychart-beta
     title "billpsomas/icir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

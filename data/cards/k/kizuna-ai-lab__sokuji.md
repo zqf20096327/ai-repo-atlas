@@ -1,6 +1,6 @@
 # kizuna-ai-lab/sokuji
 
-⭐ 1,434 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/kizuna-ai-lab/sokuji) · [官网](https://sokuji.kizuna.ai) · 组织维护 · 中文 README
+⭐ 1,440 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/kizuna-ai-lab/sokuji) · [官网](https://sokuji.kizuna.ai) · 组织维护 · 中文 README
 
 **双语会议实时双向语音翻译应用，云端或本地离线可用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kizuna-ai-lab/sokuji 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1399 --> 1437
-    line [1402, 1410, 1417, 1423, 1425, 1429, 1434]
+    title "kizuna-ai-lab/sokuji 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1399 --> 1443
+    line [1402, 1410, 1417, 1423, 1425, 1429, 1434, 1440]
 ```
 
-2026-10-18 1,402 → 2026-10-26 1,434（+32）
+2026-10-18 1,402 → 2026-10-27 1,440（+38）
 
 
 ---

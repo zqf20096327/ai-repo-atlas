@@ -1,6 +1,6 @@
 # routecraftjs/routecraft
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/routecraftjs/routecraft) · [官网](https://routecraft.dev/) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/routecraftjs/routecraft) · [官网](https://routecraft.dev/) · 组织维护
 
 **开源 AI 自动化平台：把能力写成类型化 TypeScript 路由供 agent 复用**
 
@@ -46,12 +46,12 @@ Routecraft 是用 TypeScript 编写的开源 AI 自动化平台：开发者将�
 ```mermaid
 xychart-beta
     title "routecraftjs/routecraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-26 36（+0）
+2026-10-18 36 → 2026-10-27 36（+0）
 
 
 ---

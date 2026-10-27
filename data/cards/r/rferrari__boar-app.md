@@ -1,6 +1,6 @@
 # rferrari/boar-app
 
-⭐ 42 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rferrari/boar-app) · [官网](https://boarapp.com) · 个人维护
+⭐ 43 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/rferrari/boar-app) · [官网](https://boarapp.com) · 个人维护
 
 **离线运行的 Android 本地 AI 研究问答助手，答案带出处**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rferrari/boar-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-26 42（+0）
+2026-10-18 42 → 2026-10-27 43（+1）
 
 
 ---

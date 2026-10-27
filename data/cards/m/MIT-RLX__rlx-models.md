@@ -1,6 +1,6 @@
 # MIT-RLX/rlx-models
 
-⭐ 39 · Rust · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/MIT-RLX/rlx-models) · [官网](https://crates.io/crates/rlx-models) · 组织维护
+⭐ 39 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/MIT-RLX/rlx-models) · [官网](https://crates.io/crates/rlx-models) · 组织维护
 
 **RLX 编译器/运行时上的 184 个模型移植库（LLM/视觉/语音）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MIT-RLX/rlx-models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    title "MIT-RLX/rlx-models 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-10-26 39（+3）
+2026-10-18 36 → 2026-10-27 39（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # gendigitalinc/sage
 
-⭐ 321 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/gendigitalinc/sage) · [官网](https://ai.gendigital.com/sage) · 组织维护
+⭐ 322 · TypeScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/gendigitalinc/sage) · [官网](https://ai.gendigital.com/sage) · 组织维护
 
 **保护 AI 编程助手执行动作的安全检测与响应层**
 
@@ -44,13 +44,13 @@ Gen Digital 维护的轻量级 Agent 安全层：拦截 shell 命令、URL 抓�
 
 ```mermaid
 xychart-beta
-    title "gendigitalinc/sage 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 315 --> 322
-    line [316, 317, 318, 319, 320, 321]
+    title "gendigitalinc/sage 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 315 --> 323
+    line [316, 317, 318, 319, 320, 321, 322]
 ```
 
-2026-10-18 316 → 2026-10-26 321（+5）
+2026-10-18 316 → 2026-10-27 322（+6）
 
 
 ---

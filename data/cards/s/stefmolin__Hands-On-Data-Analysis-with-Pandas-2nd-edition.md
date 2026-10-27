@@ -1,6 +1,6 @@
 # stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition
 
-⭐ 736 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450) · 个人维护
+⭐ 737 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450) · 个人维护
 
 **《Hands-On Data Analysis with Pandas》第二版配套代码仓库**
 
@@ -44,13 +44,13 @@ Packt 出版图书的官方代码仓库，提供全部章节的 Jupyter notebook
 
 ```mermaid
 xychart-beta
-    title "stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 734 --> 737
-    line [735, 736]
+    title "stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 734 --> 738
+    line [735, 736, 737]
 ```
 
-2026-10-18 735 → 2026-10-26 736（+1）
+2026-10-18 735 → 2026-10-27 737（+2）
 
 
 ---

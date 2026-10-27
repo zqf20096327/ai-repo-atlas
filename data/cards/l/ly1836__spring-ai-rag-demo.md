@@ -1,6 +1,6 @@
 # ly1836/spring-ai-rag-demo
 
-⭐ 100 · Java · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/ly1836/spring-ai-rag-demo) · 个人维护 · 中文 README
+⭐ 101 · Java · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/ly1836/spring-ai-rag-demo) · 个人维护 · 中文 README
 
 **面向制造业 ERP 的 Spring AI 智能助手：RAG 问答+实时业务数据查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ly1836/spring-ai-rag-demo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 96 --> 101
-    line [97, 99, 100, 100]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 96 --> 102
+    line [97, 99, 100, 101]
 ```
 
-2026-10-18 97 → 2026-10-26 100（+3）
+2026-10-18 97 → 2026-10-27 101（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # AskTheWay/dsh-auto-memory
 
-⭐ 108 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护
+⭐ 109 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护
 
 **给 DeepSeek Harness 补上 Claude Code 式持久记忆的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AskTheWay/dsh-auto-memory 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "AskTheWay/dsh-auto-memory 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 99 --> 112
-    line [106, 109, 111, 100, 103, 105, 108]
+    line [106, 109, 111, 100, 103, 105, 108, 109]
 ```
 
-2026-10-18 106 → 2026-10-26 108（+2）
+2026-10-18 106 → 2026-10-27 109（+3）
 
 
 ---

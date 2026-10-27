@@ -1,6 +1,6 @@
 # elevenlabs/ui
 
-⭐ 2,431 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/elevenlabs/ui) · [官网](https://ui.elevenlabs.io) · 组织维护
+⭐ 2,430 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/elevenlabs/ui) · [官网](https://ui.elevenlabs.io) · 组织维护
 
 **面向语音/Agent 应用的 React 组件库，基于 shadcn/ui**
 
@@ -43,13 +43,13 @@ ElevenLabs 维护的 React 组件库，构建于 shadcn/ui 之上，提供面向
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/ui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "elevenlabs/ui 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2424 --> 2432
-    line [2425, 2427, 2428, 2429, 2431]
+    line [2425, 2427, 2428, 2429, 2431, 2430]
 ```
 
-2026-10-18 2,425 → 2026-10-26 2,431（+6）
+2026-10-18 2,425 → 2026-10-27 2,430（+5）
 
 
 ---

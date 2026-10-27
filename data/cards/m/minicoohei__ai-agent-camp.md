@@ -1,6 +1,6 @@
 # minicoohei/ai-agent-camp
 
-⭐ 346 · Python · 推送 2026-10-07 · [GitHub](https://github.com/minicoohei/ai-agent-camp) · [官网](https://ai-agent.camp) · 个人维护
+⭐ 345 · Python · 推送 2026-10-07 · [GitHub](https://github.com/minicoohei/ai-agent-camp) · [官网](https://ai-agent.camp) · 个人维护
 
 **面向非工程师的 AI Agent 实训课程仓库（Claude Code/Cursor/Codex）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "minicoohei/ai-agent-camp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    title "minicoohei/ai-agent-camp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 344 --> 347
-    line [346, 345, 346]
+    line [346, 345, 346, 345]
 ```
 
-2026-10-18 346 → 2026-10-26 346（+0）
+2026-10-18 346 → 2026-10-27 345（-1）
 
 
 ---

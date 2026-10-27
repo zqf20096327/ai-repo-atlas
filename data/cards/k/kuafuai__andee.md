@@ -1,6 +1,6 @@
 # kuafuai/andee
 
-⭐ 2,880 · Kotlin · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
+⭐ 3,078 · Kotlin · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
 
 **驻留 Android 手机、跨应用代为操作的端上个人 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kuafuai/andee 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 68 --> 3135
-    line [323, 1000, 2058, 2404, 2565, 2727, 2880]
+    title "kuafuai/andee 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 48 --> 3353
+    line [323, 1000, 2058, 2404, 2565, 2727, 2880, 3078]
 ```
 
-2026-10-18 323 → 2026-10-26 2,880（+2,557）
+2026-10-18 323 → 2026-10-27 3,078（+2,755）
 
 
 ---

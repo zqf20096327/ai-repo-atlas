@@ -1,6 +1,6 @@
 # BlackMixture/Mix-Studio
 
-⭐ 300 · JavaScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/BlackMixture/Mix-Studio) · [官网](https://blackmixture.com) · 个人维护
+⭐ 301 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/BlackMixture/Mix-Studio) · [官网](https://blackmixture.com) · 个人维护
 
 **基于 ComfyUI 的本地 AI 图像/视频生成工作台**
 
@@ -45,12 +45,12 @@ Mix Studio 是运行在本地浏览器中的 Web 界面，构建并提交 ComfyU
 ```mermaid
 xychart-beta
     title "BlackMixture/Mix-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 297 --> 301
-    line [298, 300, 300]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 297 --> 302
+    line [298, 300, 301]
 ```
 
-2026-10-18 298 → 2026-10-26 300（+2）
+2026-10-18 298 → 2026-10-27 301（+3）
 
 
 ---

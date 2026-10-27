@@ -1,6 +1,6 @@
 # xingjian-bai/opal
 
-⭐ 200 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
+⭐ 215 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xingjian-bai/opal) · [官网](https://xingjianbai.com/reactive-optimizers/) · 个人维护
 
 **PyTorch 优化器包装器：让编程 agent 在训练中改写优化器**
 
@@ -45,13 +45,13 @@ OPAL 是一个 PyTorch 优化器包装库：把用户已有的优化器包装后
 
 ```mermaid
 xychart-beta
-    title "xingjian-bai/opal 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 142 --> 205
-    line [147, 181, 189, 200]
+    title "xingjian-bai/opal 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 141 --> 221
+    line [147, 181, 189, 200, 215]
 ```
 
-2026-10-23 147 → 2026-10-26 200（+53）
+2026-10-23 147 → 2026-10-27 215（+68）
 
 
 ---

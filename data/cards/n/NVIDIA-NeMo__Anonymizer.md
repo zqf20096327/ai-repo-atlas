@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Anonymizer
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/NVIDIA-NeMo/Anonymizer) · [官网](https://nvidia-nemo.github.io/Anonymizer/latest/) · 组织维护
+⭐ 132 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA-NeMo/Anonymizer) · [官网](https://nvidia-nemo.github.io/Anonymizer/latest/) · 组织维护
 
 **面向开发者的文本 PII 检测与匿名化库（GLiNER+LLM）**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 Python 库，用 GLiNER-PII 检测文本中的敏感实体，�
 ```mermaid
 xychart-beta
     title "NVIDIA-NeMo/Anonymizer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 126 --> 131
-    line [127, 128, 129, 130, 130]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 126 --> 133
+    line [127, 128, 129, 130, 132]
 ```
 
-2026-10-18 127 → 2026-10-26 130（+3）
+2026-10-18 127 → 2026-10-27 132（+5）
 
 
 ---

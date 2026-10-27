@@ -1,6 +1,6 @@
 # Harsh-vardhan09/AthLead
 
-⭐ 34 · JavaScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Harsh-vardhan09/AthLead) · [官网](https://athlead-frontend.onrender.com) · 个人维护
+⭐ 34 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Harsh-vardhan09/AthLead) · [官网](https://athlead-frontend.onrender.com) · 个人维护
 
 **面向运动员与教练的体育人才发现与排名平台（SIH 2025）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Harsh-vardhan09/AthLead 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

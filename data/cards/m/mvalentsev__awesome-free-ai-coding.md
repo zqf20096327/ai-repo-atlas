@@ -1,6 +1,6 @@
 # mvalentsev/awesome-free-ai-coding
 
-⭐ 89 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mvalentsev/awesome-free-ai-coding) · [官网](https://mvalentsev.github.io/awesome-free-ai-coding/) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mvalentsev/awesome-free-ai-coding) · [官网](https://mvalentsev.github.io/awesome-free-ai-coding/) · 个人维护
 
 **合法免费 LLM API 与编程 agent 的验证式策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mvalentsev/awesome-free-ai-coding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 74 --> 90
-    line [75, 77, 81, 86, 89]
+    title "mvalentsev/awesome-free-ai-coding 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 74 --> 93
+    line [75, 77, 81, 86, 89, 92]
 ```
 
-2026-10-18 75 → 2026-10-26 89（+14）
+2026-10-18 75 → 2026-10-27 92（+17）
 
 
 ---

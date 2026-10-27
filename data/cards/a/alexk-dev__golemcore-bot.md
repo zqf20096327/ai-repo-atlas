@@ -45,12 +45,12 @@ GolemCore Bot 是运行渠道连接型 AI Agent 的平台：通过仪表盘、Te
 ```mermaid
 xychart-beta
     title "alexk-dev/golemcore-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-26 41（+0）
+2026-10-18 41 → 2026-10-27 41（+0）
 
 
 ---

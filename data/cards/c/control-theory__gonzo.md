@@ -1,6 +1,6 @@
 # control-theory/gonzo
 
-⭐ 2,789 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/control-theory/gonzo) · [官网](https://www.controltheory.com/gonzo/) · 组织维护
+⭐ 2,791 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/control-theory/gonzo) · [官网](https://www.controltheory.com/gonzo/) · 组织维护
 
 **Go 编写的终端日志分析 TUI，支持 AI 洞察与 OTLP 接收**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "control-theory/gonzo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2783 --> 2790
-    line [2784, 2785, 2787, 2786, 2788, 2789, 2789]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 2783 --> 2792
+    line [2784, 2785, 2787, 2786, 2788, 2789, 2791]
 ```
 
-2026-10-18 2,784 → 2026-10-26 2,789（+5）
+2026-10-18 2,784 → 2026-10-27 2,791（+7）
 
 
 ---

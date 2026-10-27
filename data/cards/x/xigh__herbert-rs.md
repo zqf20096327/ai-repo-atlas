@@ -1,6 +1,6 @@
 # xigh/herbert-rs
 
-⭐ 43 · Rust · MIT · 推送 2026-03-18 · [GitHub](https://github.com/xigh/herbert-rs) · [官网](https://philippe-anel.fr/en/blog/2026/03/15/herbert-comprendre-avant-optimiser/) · 个人维护
+⭐ 44 · Rust · MIT · 推送 2026-03-18 · [GitHub](https://github.com/xigh/herbert-rs) · [官网](https://philippe-anel.fr/en/blog/2026/03/15/herbert-comprendre-avant-optimiser/) · 个人维护
 
 **Rust 从零实现的本地 LLM 推理引擎，含 CPU/GPU 内核与 CLI/服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xigh/herbert-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 44（+1）
 
 
 ---

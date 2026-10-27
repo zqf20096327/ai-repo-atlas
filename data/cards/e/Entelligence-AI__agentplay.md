@@ -1,6 +1,6 @@
 # Entelligence-AI/agentplay
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Entelligence-AI/agentplay) · [官网](https://entelligence.ai/agentplay) · 组织维护
+⭐ 316 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Entelligence-AI/agentplay) · [官网](https://entelligence.ai/agentplay) · 组织维护
 
 **本地回放编码 agent 会话的工具：把会话转成地图和时间线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Entelligence-AI/agentplay 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 295 --> 308
-    line [296, 303, 307]
+    title "Entelligence-AI/agentplay 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 294 --> 318
+    line [296, 303, 307, 316]
 ```
 
-2026-10-24 296 → 2026-10-26 307（+11）
+2026-10-24 296 → 2026-10-27 316（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # HacxGPT-Official/HacxGPT-CLI
 
-⭐ 1,142 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/HacxGPT-Official/HacxGPT-CLI) · [官网](https://hacxgpt.com) · 组织维护
+⭐ 1,143 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/HacxGPT-Official/HacxGPT-CLI) · [官网](https://hacxgpt.com) · 组织维护
 
 **命令行 AI 聊天客户端，自带密钥接入多平台模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HacxGPT-Official/HacxGPT-CLI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "HacxGPT-Official/HacxGPT-CLI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1137 --> 1144
-    line [1138, 1142, 1143, 1142]
+    line [1138, 1142, 1143, 1142, 1143]
 ```
 
-2026-10-18 1,138 → 2026-10-26 1,142（+4）
+2026-10-18 1,138 → 2026-10-27 1,143（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kain-90/RAG-Play
 
-⭐ 123 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Kain-90/RAG-Play) · [官网](https://rag-play.vercel.app) · 个人维护
+⭐ 124 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Kain-90/RAG-Play) · [官网](https://rag-play.vercel.app) · 个人维护
 
 **交互式 RAG 流程可视化工具：分步演示与调试检索增强生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kain-90/RAG-Play 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 115 --> 124
-    line [116, 122, 123, 123]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 115 --> 125
+    line [116, 122, 123, 124]
 ```
 
-2026-10-18 116 → 2026-10-26 123（+7）
+2026-10-18 116 → 2026-10-27 124（+8）
 
 
 ---

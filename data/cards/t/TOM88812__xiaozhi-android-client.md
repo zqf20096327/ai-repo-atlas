@@ -1,6 +1,6 @@
 # TOM88812/xiaozhi-android-client
 
-⭐ 1,639 · Dart · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/TOM88812/xiaozhi-android-client) · [官网](https://jtai.lhht.cc) · 个人维护 · 中文 README
+⭐ 1,641 · Dart · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/TOM88812/xiaozhi-android-client) · [官网](https://jtai.lhht.cc) · 个人维护 · 中文 README
 
 **基于小智 AI 的跨平台实时语音对话客户端，覆盖手机与 PC**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TOM88812/xiaozhi-android-client 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1621 --> 1640
-    line [1622, 1628, 1633, 1635, 1636, 1637, 1639]
+    title "TOM88812/xiaozhi-android-client 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1621 --> 1642
+    line [1622, 1628, 1633, 1635, 1636, 1637, 1639, 1641]
 ```
 
-2026-10-18 1,622 → 2026-10-26 1,639（+17）
+2026-10-18 1,622 → 2026-10-27 1,641（+19）
 
 
 ---

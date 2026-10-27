@@ -1,6 +1,6 @@
 # openscilab/pymilo
 
-⭐ 170 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openscilab/pymilo) · 组织维护
+⭐ 170 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openscilab/pymilo) · 组织维护
 
 **把训练好的 ML 模型透明导出为 JSON 的 Python 库**
 
@@ -45,12 +45,12 @@ PyMilo 是用于机器学习模型输入/输出的开源 Python 包：将 scikit
 ```mermaid
 xychart-beta
     title "openscilab/pymilo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-18 170 → 2026-10-26 170（+0）
+2026-10-18 170 → 2026-10-27 170（+0）
 
 
 ---

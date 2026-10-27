@@ -1,6 +1,6 @@
 # networkoptix/nx_open
 
-⭐ 83 · C++ · 推送 2026-10-24 · [GitHub](https://github.com/networkoptix/nx_open) · [官网](https://networkoptix.com) · 组织维护
+⭐ 83 · C++ · 推送 2026-10-26 · [GitHub](https://github.com/networkoptix/nx_open) · [官网](https://networkoptix.com) · 组织维护
 
 **Nx 视频管理平台桌面客户端的开源组件，可自行构建 VMS 桌面端**
 
@@ -45,12 +45,12 @@ Network Optix 开源的 Meta Platform 组件仓库，包含用于构建 Powered-
 ```mermaid
 xychart-beta
     title "networkoptix/nx_open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-26 83（+0）
+2026-10-18 83 → 2026-10-27 83（+0）
 
 
 ---

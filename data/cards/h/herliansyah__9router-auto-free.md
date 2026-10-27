@@ -1,6 +1,6 @@
 # herliansyah/9router-auto-free
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/herliansyah/9router-auto-free) · [官网](https://www.npmjs.com/package/9router-auto-free) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/herliansyah/9router-auto-free) · [官网](https://www.npmjs.com/package/9router-auto-free) · 个人维护
 
 **为 9router 自动聚合免费 AI 编程模型的抓取与注入工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "herliansyah/9router-auto-free 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 44 --> 49
-    line [45, 46, 47, 48]
+    title "herliansyah/9router-auto-free 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 44 --> 51
+    line [45, 46, 47, 48, 50]
 ```
 
-2026-10-18 45 → 2026-10-26 48（+3）
+2026-10-18 45 → 2026-10-27 50（+5）
 
 
 ---

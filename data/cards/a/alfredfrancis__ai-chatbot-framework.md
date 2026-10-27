@@ -1,6 +1,6 @@
 # alfredfrancis/ai-chatbot-framework
 
-⭐ 2,169 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alfredfrancis/ai-chatbot-framework) · 个人维护
+⭐ 2,168 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alfredfrancis/ai-chatbot-framework) · 个人维护
 
 **自托管低代码聊天机器人构建平台，含 NLU 与 LLM 能力**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alfredfrancis/ai-chatbot-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 2168 --> 2171
-    line [2170, 2169, 2169]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 2167 --> 2171
+    line [2170, 2169, 2168]
 ```
 
-2026-10-18 2,170 → 2026-10-26 2,169（-1）
+2026-10-18 2,170 → 2026-10-27 2,168（-2）
 
 
 ---

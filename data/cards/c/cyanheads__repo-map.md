@@ -1,6 +1,6 @@
 # cyanheads/repo-map
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/cyanheads/repo-map) · [官网](https://pypi.org/project/repo-map/) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyanheads/repo-map) · [官网](https://pypi.org/project/repo-map/) · 个人维护
 
 **CLI 工具：遍历仓库并生成带 LLM 注释的文件树 Markdown 报告**
 
@@ -45,12 +45,12 @@ Python 命令行工具：扫描仓库目录，把符合条件的文本文件（�
 ```mermaid
 xychart-beta
     title "cyanheads/repo-map 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-26 64（+0）
+2026-10-18 64 → 2026-10-27 64（+0）
 
 
 ---

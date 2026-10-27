@@ -1,6 +1,6 @@
 # apimarthu2fpeug/ollama-alternatives
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/apimarthu2fpeug/ollama-alternatives) · [官网](https://go.apimart.ai/k-b317c6) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/apimarthu2fpeug/ollama-alternatives) · [官网](https://go.apimart.ai/k-b317c6) · 组织维护
 
 **APIMart 商业 API 网关的 Nano Banana Pro 接入文档与价格页**
 
@@ -45,12 +45,12 @@ APIMart 运营的 API 聚合网关的单模型文档仓库：说明如何通过�
 ```mermaid
 xychart-beta
     title "apimarthu2fpeug/ollama-alternatives 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

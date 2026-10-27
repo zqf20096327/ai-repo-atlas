@@ -45,12 +45,12 @@ OpenClawX 是 Electron + Vue + Fastify 构建的桌面 Agent 工作台：用户�
 ```mermaid
 xychart-beta
     title "next-open-ai/openclawx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

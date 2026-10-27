@@ -1,6 +1,6 @@
 # sigstore/model-transparency
 
-⭐ 249 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
 
 **给 ML 从业者的模型签名与校验工具，保障模型供应链完整性**
 
@@ -45,12 +45,12 @@ Sigstore 维护的 ML 供应链安全项目：对模型文件生成哈希清单�
 ```mermaid
 xychart-beta
     title "sigstore/model-transparency 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 247 --> 250
     line [248, 249, 249]
 ```
 
-2026-10-18 248 → 2026-10-26 249（+1）
+2026-10-18 248 → 2026-10-27 249（+1）
 
 
 ---

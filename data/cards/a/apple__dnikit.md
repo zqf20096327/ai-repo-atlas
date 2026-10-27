@@ -1,6 +1,6 @@
 # apple/dnikit
 
-⭐ 78 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/apple/dnikit) · [官网](https://apple.github.io/dnikit/) · 组织维护
+⭐ 79 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/apple/dnikit) · [官网](https://apple.github.io/dnikit/) · 组织维护
 
 **分析机器学习模型与数据集的 Python 内省工具包**
 
@@ -42,12 +42,12 @@ DNIKit（Data and Network Introspection Kit）是 Apple 维护的 Python 工具�
 ```mermaid
 xychart-beta
     title "apple/dnikit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-10-26 78（+0）
+2026-10-18 78 → 2026-10-27 79（+1）
 
 
 ---

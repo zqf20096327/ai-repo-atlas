@@ -1,6 +1,6 @@
 # sligter/LandPPT
 
-⭐ 3,632 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sligter/LandPPT) · [官网](https://landppt.com) · 个人维护 · 中文 README
+⭐ 3,633 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sligter/LandPPT) · [官网](https://landppt.com) · 个人维护 · 中文 README
 
 **基于 LLM 的 PPT 自动生成平台：主题或文档一键变演示文稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sligter/LandPPT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "sligter/LandPPT 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 3617 --> 3635
-    line [3618, 3621, 3628, 3631, 3632, 3634, 3632]
+    line [3618, 3621, 3628, 3631, 3632, 3634, 3632, 3633]
 ```
 
-2026-10-18 3,618 → 2026-10-26 3,632（+14）
+2026-10-18 3,618 → 2026-10-27 3,633（+15）
 
 
 ---

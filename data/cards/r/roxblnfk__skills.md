@@ -1,6 +1,6 @@
 # roxblnfk/skills
 
-⭐ 50 · PHP · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/roxblnfk/skills) · 个人维护
+⭐ 51 · PHP · BSD-3-Clause · 推送 2026-10-19 · [GitHub](https://github.com/roxblnfk/skills) · 个人维护
 
 **以 Composer 依赖形式分发 AI Skills 的插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "roxblnfk/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 47 --> 51
-    line [48, 49, 50]
+    title "roxblnfk/skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 47 --> 52
+    line [48, 49, 50, 51]
 ```
 
-2026-10-18 48 → 2026-10-26 50（+2）
+2026-10-18 48 → 2026-10-27 51（+3）
 
 
 ---

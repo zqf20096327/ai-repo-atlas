@@ -1,6 +1,6 @@
 # vllm-project/vllm-xpu-kernels
 
-⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/vllm-xpu-kernels) · 组织维护
+⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/vllm-xpu-kernels) · 组织维护
 
 **为 Intel GPU 提供 vLLM 定制算子与内核的加速库**
 
@@ -45,13 +45,13 @@ vLLM 项目的组件，用 SYCL/DPC++ 编写并基于 oneDNN 实现 Intel XPU（
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-xpu-kernels 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    title "vllm-project/vllm-xpu-kernels 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 79]
+    line [76, 77, 79, 79]
 ```
 
-2026-10-18 76 → 2026-10-26 79（+3）
+2026-10-18 76 → 2026-10-27 79（+3）
 
 
 ---

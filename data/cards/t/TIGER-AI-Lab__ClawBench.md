@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/ClawBench
 
-⭐ 1,113 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) · [官网](https://claw-bench.com) · 组织维护 · 中文 README
+⭐ 1,125 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) · [官网](https://claw-bench.com) · 组织维护 · 中文 README
 
 **评测浏览器 AI agent 日常在线任务的开源基准**
 
@@ -45,13 +45,13 @@ TIGER-AI-Lab/NAIL Group 维护的开源基准，在 163 个真实网站上评测
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/ClawBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1055 --> 1118
-    line [1060, 1080, 1078, 1086, 1097, 1113]
+    title "TIGER-AI-Lab/ClawBench 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1054 --> 1131
+    line [1060, 1080, 1078, 1086, 1097, 1113, 1125]
 ```
 
-2026-10-18 1,060 → 2026-10-26 1,113（+53）
+2026-10-18 1,060 → 2026-10-27 1,125（+65）
 
 
 ---

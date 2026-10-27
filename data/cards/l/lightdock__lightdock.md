@@ -45,12 +45,12 @@ LightDock 是一个分子对接框架，用 Glowworm Swarm Optimization（GSO）
 ```mermaid
 xychart-beta
     title "lightdock/lightdock 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 411 --> 414
     line [412, 413, 413]
 ```
 
-2026-10-18 412 → 2026-10-26 413（+1）
+2026-10-18 412 → 2026-10-27 413（+1）
 
 
 ---

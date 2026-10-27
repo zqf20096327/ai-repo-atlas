@@ -1,6 +1,6 @@
 # vimalinx/ArtIflow
 
-⭐ 50 · Kotlin · 推送 2026-03-08 · [GitHub](https://github.com/vimalinx/ArtIflow) · 个人维护 · 中文 README
+⭐ 49 · Kotlin · 推送 2026-03-08 · [GitHub](https://github.com/vimalinx/ArtIflow) · 个人维护 · 中文 README
 
 **面向中学学习的 Android AI 辅导应用，滑动交互式拍照问答**
 
@@ -46,12 +46,12 @@ Kotlin + Jetpack Compose 编写的 Android 学习应用：拍照/相册上传题
 ```mermaid
 xychart-beta
     title "vimalinx/ArtIflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 48 --> 51
+    line [50, 49]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 49（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # GabrielNicolas10/haiku-forge
 
-⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/GabrielNicolas10/haiku-forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/GabrielNicolas10/haiku-forge) · 个人维护
 
 **面向 dm-haiku 的 JAX 模型训练全栈框架，给科研与工程用户**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GabrielNicolas10/haiku-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

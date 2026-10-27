@@ -44,13 +44,13 @@ Mintplex Labs 维护的 Chrome 浏览器扩展，用于连接本地或远程的 
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-extension 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "Mintplex-Labs/anythingllm-extension 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 229 --> 234
-    line [230, 231, 232, 233]
+    line [230, 231, 232, 233, 233]
 ```
 
-2026-10-18 230 → 2026-10-26 233（+3）
+2026-10-18 230 → 2026-10-27 233（+3）
 
 
 ---

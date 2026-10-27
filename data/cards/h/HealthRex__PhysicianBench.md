@@ -1,6 +1,6 @@
 # HealthRex/PhysicianBench
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/HealthRex/PhysicianBench) · [官网](https://healthrex.github.io/PhysicianBench/) · 组织维护
+⭐ 66 · Python · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/HealthRex/PhysicianBench) · [官网](https://healthrex.github.io/PhysicianBench/) · 组织维护
 
 **评测 LLM agent 在真实 EHR 环境中执行医生任务的基准与评测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HealthRex/PhysicianBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 61 --> 66
-    line [62, 63, 65, 65]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 61 --> 67
+    line [62, 63, 65, 66]
 ```
 
-2026-10-18 62 → 2026-10-26 65（+3）
+2026-10-18 62 → 2026-10-27 66（+4）
 
 
 ---

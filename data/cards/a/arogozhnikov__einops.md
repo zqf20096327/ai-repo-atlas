@@ -1,6 +1,6 @@
 # arogozhnikov/einops
 
-⭐ 9,623 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/arogozhnikov/einops) · [官网](https://einops.rocks) · 个人维护
+⭐ 9,626 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/arogozhnikov/einops) · [官网](https://einops.rocks) · 个人维护
 
 **跨深度学习框架的张量操作库，用爱因斯坦式记号重排张量**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arogozhnikov/einops 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 9621 --> 9624
-    line [9622, 9623, 9622, 9623]
+    title "arogozhnikov/einops 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 9621 --> 9627
+    line [9622, 9623, 9622, 9623, 9626]
 ```
 
-2026-10-18 9,622 → 2026-10-26 9,623（+1）
+2026-10-18 9,622 → 2026-10-27 9,626（+4）
 
 
 ---

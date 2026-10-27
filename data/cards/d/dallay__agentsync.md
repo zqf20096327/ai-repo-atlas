@@ -1,6 +1,6 @@
 # dallay/agentsync
 
-⭐ 72 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dallay/agentsync) · [官网](https://dallay.github.io/agentsync/) · 个人维护
+⭐ 72 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dallay/agentsync) · [官网](https://dallay.github.io/agentsync/) · 个人维护
 
 **CLI 工具：用符号链接把 AI agent 配置同步到多个编码助手**
 
@@ -44,13 +44,13 @@ Rust 编写的命令行工具，将 `.agents/` 目录作为唯一配置源，通
 
 ```mermaid
 xychart-beta
-    title "dallay/agentsync 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    title "dallay/agentsync 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 68 --> 73
-    line [69, 70, 71, 72]
+    line [69, 70, 71, 72, 72]
 ```
 
-2026-10-18 69 → 2026-10-26 72（+3）
+2026-10-18 69 → 2026-10-27 72（+3）
 
 
 ---

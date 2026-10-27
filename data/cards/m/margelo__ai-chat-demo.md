@@ -45,12 +45,12 @@ Margelo 出品的移动端聊天应用示例：基于 OpenAI Responses API，通
 ```mermaid
 xychart-beta
     title "margelo/ai-chat-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 192 --> 194
     line [193, 193]
 ```
 
-2026-10-18 193 → 2026-10-26 193（+0）
+2026-10-18 193 → 2026-10-27 193（+0）
 
 
 ---

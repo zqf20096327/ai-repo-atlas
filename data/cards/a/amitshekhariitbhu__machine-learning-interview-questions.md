@@ -1,6 +1,6 @@
 # amitshekhariitbhu/machine-learning-interview-questions
 
-⭐ 448 · Markdown · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 449 · Markdown · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **机器学习面试题与答案的备考清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/machine-learning-interview-questions 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 437 --> 449
-    line [438, 440, 443, 446, 448]
+    title "amitshekhariitbhu/machine-learning-interview-questions 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 437 --> 450
+    line [438, 440, 443, 446, 448, 449]
 ```
 
-2026-10-18 438 → 2026-10-26 448（+10）
+2026-10-18 438 → 2026-10-27 449（+11）
 
 
 ---

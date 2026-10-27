@@ -1,6 +1,6 @@
 # FJRG2007/snatch
 
-⭐ 35 · Python · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/FJRG2007/snatch) · [官网](https://tpe.li/P-SNATCH) · 个人维护
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/FJRG2007/snatch) · [官网](https://tpe.li/P-SNATCH) · 个人维护
 
 **已弃用的 AI 增强 OSINT 多功能工具：信息收集与下载**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FJRG2007/snatch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 34（-1）
 
 
 ---

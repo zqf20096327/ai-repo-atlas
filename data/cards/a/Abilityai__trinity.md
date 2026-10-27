@@ -1,6 +1,6 @@
 # Abilityai/trinity
 
-⭐ 699 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Abilityai/trinity) · [官网](https://www.ability.ai/trinity) · 组织维护
+⭐ 703 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Abilityai/trinity) · [官网](https://www.ability.ai/trinity) · 组织维护
 
 **企业自托管 AI Agent 平台：编排、治理并运行编码 Agent**
 
@@ -46,13 +46,13 @@ Apache 2.0 开源的自托管 AI Agent 平台，面向以 AI 为核心的组织�
 
 ```mermaid
 xychart-beta
-    title "Abilityai/trinity 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 660 --> 702
-    line [663, 675, 688, 691, 694, 696, 699]
+    title "Abilityai/trinity 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 659 --> 707
+    line [663, 675, 688, 691, 694, 696, 699, 703]
 ```
 
-2026-10-18 663 → 2026-10-26 699（+36）
+2026-10-18 663 → 2026-10-27 703（+40）
 
 
 ---

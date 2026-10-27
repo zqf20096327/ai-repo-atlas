@@ -1,6 +1,6 @@
 # vixhal-baraiya/microgpt-c
 
-⭐ 850 · C · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vixhal-baraiya/microgpt-c) · 个人维护
+⭐ 849 · C · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vixhal-baraiya/microgpt-c) · 个人维护
 
 **单文件纯 C 实现的字符级 GPT 训练与推理库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vixhal-baraiya/microgpt-c 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 847 --> 851
-    line [849, 848, 850, 850]
+    line [849, 848, 850, 849]
 ```
 
-2026-10-18 849 → 2026-10-26 850（+1）
+2026-10-18 849 → 2026-10-27 849（+0）
 
 
 ---

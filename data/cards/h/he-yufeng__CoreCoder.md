@@ -1,6 +1,6 @@
 # he-yufeng/CoreCoder
 
-⭐ 1,870 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
+⭐ 1,873 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
 
 **极简可读的 AI 编码 agent：约 1.3k 行引擎供学习与二次开发**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "he-yufeng/CoreCoder 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1834 --> 1873
-    line [1837, 1850, 1857, 1861, 1864, 1867, 1870]
+    title "he-yufeng/CoreCoder 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1834 --> 1876
+    line [1837, 1850, 1857, 1861, 1864, 1867, 1870, 1873]
 ```
 
-2026-10-18 1,837 → 2026-10-26 1,870（+33）
+2026-10-18 1,837 → 2026-10-27 1,873（+36）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/torch-einops-utils
 
-⭐ 54 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lucidrains/torch-einops-utils) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/torch-einops-utils) · 个人维护
 
 **简化模型 forward 返回多个输出的辅助装饰器工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/torch-einops-utils 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-26 54（+0）
+2026-10-18 54 → 2026-10-27 54（+0）
 
 
 ---

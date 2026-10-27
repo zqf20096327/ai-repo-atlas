@@ -1,6 +1,6 @@
 # Heerozh/PromptUGUI
 
-⭐ 90 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Heerozh/PromptUGUI) · 个人维护 · 中文 README
+⭐ 91 · C# · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Heerozh/PromptUGUI) · 个人维护 · 中文 README
 
 **面向 Code Agent 的 Unity uGUI 框架：用文本描述直接生成界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Heerozh/PromptUGUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 89 --> 93
-    line [92, 90, 90]
+    line [92, 90, 91]
 ```
 
-2026-10-18 92 → 2026-10-26 90（-2）
+2026-10-18 92 → 2026-10-27 91（-1）
 
 
 ---

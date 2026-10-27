@@ -1,6 +1,6 @@
 # OpenGVLab/Ask-Anything
 
-⭐ 3,362 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/OpenGVLab/Ask-Anything) · [官网](https://vchat.opengvlab.com/) · 组织维护 · 中文 README
+⭐ 3,363 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/OpenGVLab/Ask-Anything) · [官网](https://vchat.opengvlab.com/) · 组织维护 · 中文 README
 
 **视频理解对话模型系列 VideoChat：支持多种 LLM 的视频问答**
 
@@ -47,12 +47,12 @@ OpenGVLab/上海AI实验室开源的视频对话模型家族，包含端到端�
 ```mermaid
 xychart-beta
     title "OpenGVLab/Ask-Anything 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3359 --> 3363
-    line [3361, 3360, 3362, 3361, 3362, 3362]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 3359 --> 3364
+    line [3361, 3360, 3362, 3361, 3362, 3363]
 ```
 
-2026-10-18 3,361 → 2026-10-26 3,362（+1）
+2026-10-18 3,361 → 2026-10-27 3,363（+2）
 
 
 ---

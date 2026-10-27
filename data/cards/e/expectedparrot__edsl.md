@@ -1,6 +1,6 @@
 # expectedparrot/edsl
 
-⭐ 510 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/expectedparrot/edsl) · [官网](https://docs.expectedparrot.com) · 组织维护
+⭐ 510 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/expectedparrot/edsl) · [官网](https://docs.expectedparrot.com) · 组织维护
 
 **用 AI agent 和 LLM 设计、运行和分析调查与实验的 DSL 框架**
 
@@ -44,13 +44,13 @@ Expected Parrot 的 Python 领域特定语言（EDSL），面向计算社会科�
 
 ```mermaid
 xychart-beta
-    title "expectedparrot/edsl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    title "expectedparrot/edsl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 506 --> 511
-    line [507, 508, 510]
+    line [507, 508, 510, 510]
 ```
 
-2026-10-18 507 → 2026-10-26 510（+3）
+2026-10-18 507 → 2026-10-27 510（+3）
 
 
 ---

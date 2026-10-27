@@ -1,6 +1,6 @@
 # agenmod/immortal-skill
 
-⭐ 1,120 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/agenmod/immortal-skill) · [官网](https://agenworld.com) · 组织维护 · 中文 README
+⭐ 1,125 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/agenmod/immortal-skill) · [官网](https://agenworld.com) · 组织维护 · 中文 README
 
 **开源数字永生框架：从聊天记录蒸馏任何人的数字分身 Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenmod/immortal-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1089 --> 1122
-    line [1091, 1099, 1108, 1111, 1114, 1119, 1120]
+    title "agenmod/immortal-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1088 --> 1128
+    line [1091, 1099, 1108, 1111, 1114, 1119, 1120, 1125]
 ```
 
-2026-10-18 1,091 → 2026-10-26 1,120（+29）
+2026-10-18 1,091 → 2026-10-27 1,125（+34）
 
 
 ---

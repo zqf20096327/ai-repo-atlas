@@ -1,6 +1,6 @@
 # Chess-analysis-mcp/tintins-chess-analysis
 
-⭐ 52 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Chess-analysis-mcp/tintins-chess-analysis) · [官网](https://chess-analysis-mcp.github.io/tintins-chess-analysis/) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Chess-analysis-mcp/tintins-chess-analysis) · [官网](https://chess-analysis-mcp.github.io/tintins-chess-analysis/) · 个人维护
 
 **Stockfish 引擎复盘加 LLM 讲解的国际象棋教练应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Chess-analysis-mcp/tintins-chess-analysis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-10-26 52（+1）
+2026-10-18 51 → 2026-10-27 52（+1）
 
 
 ---

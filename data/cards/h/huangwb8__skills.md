@@ -1,6 +1,6 @@
 # huangwb8/skills
 
-⭐ 50 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/skills) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/skills) · 个人维护 · 中文 README
 
 **Agent Skill 集合与开发流水线：创建、安装、检查、追踪 Skill 执行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huangwb8/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 48 --> 51
+    line [50, 49]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 49（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Desko77/claude-code-skills-1c
 
-⭐ 85 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Desko77/claude-code-skills-1c) · 个人维护 · 中文 README
+⭐ 85 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Desko77/claude-code-skills-1c) · 个人维护 · 中文 README
 
 **给 Claude Code 的 1С 开发技能包：121 技能+40 规则，无 Configurator 操作源码**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Desko77/claude-code-skills-1c 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "Desko77/claude-code-skills-1c 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 80 --> 86
-    line [81, 82, 83, 84, 85]
+    line [81, 82, 83, 84, 85, 85]
 ```
 
-2026-10-18 81 → 2026-10-26 85（+4）
+2026-10-18 81 → 2026-10-27 85（+4）
 
 
 ---

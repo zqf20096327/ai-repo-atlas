@@ -1,6 +1,6 @@
 # DreambigOu/ELI5
 
-⭐ 1,843 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/DreambigOu/ELI5) · [官网](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/) · 个人维护
+⭐ 1,854 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/DreambigOu/ELI5) · [官网](https://andrewou.pages.dev/posts/building-an-eli5-skill-for-claude/) · 个人维护
 
 **Claude Code 技能：让 Claude 按受众调整解释风格**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "DreambigOu/ELI5 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1766 --> 1850
-    line [1773, 1786, 1829, 1834, 1837, 1843]
+    title "DreambigOu/ELI5 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1765 --> 1862
+    line [1773, 1786, 1829, 1834, 1837, 1843, 1854]
 ```
 
-2026-10-18 1,773 → 2026-10-26 1,843（+70）
+2026-10-18 1,773 → 2026-10-27 1,854（+81）
 
 
 ---

@@ -1,6 +1,6 @@
 # incubrain/foundry
 
-⭐ 79 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/incubrain/foundry) · [官网](https://foundry.incubrain.org) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/incubrain/foundry) · [官网](https://foundry.incubrain.org) · 组织维护
 
 **面向 AI-native 业务的 Nuxt 4 营销站模板，带信号采集与 agent 就绪层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "incubrain/foundry 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-26 79（+0）
+2026-10-18 79 → 2026-10-27 79（+0）
 
 
 ---

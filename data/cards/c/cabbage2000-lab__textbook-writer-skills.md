@@ -1,6 +1,6 @@
 # cabbage2000-lab/textbook-writer-skills
 
-⭐ 37 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cabbage2000-lab/textbook-writer-skills) · [官网](https://github.com/cabbage2000-lab/textbook-writer-skills#readme) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cabbage2000-lab/textbook-writer-skills) · [官网](https://github.com/cabbage2000-lab/textbook-writer-skills#readme) · 个人维护 · 中文 README
 
 **装进编程智能体的教材写作 skill 组合，覆盖设计到定稿五阶段**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cabbage2000-lab/textbook-writer-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 38]
 ```
 
-2026-10-18 36 → 2026-10-26 37（+1）
+2026-10-18 36 → 2026-10-27 38（+2）
 
 
 ---

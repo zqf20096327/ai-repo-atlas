@@ -45,12 +45,12 @@ Provider 中立的 Kotlin SDK，在 JVM 与 Android 上提供单一受治理的�
 ```mermaid
 xychart-beta
     title "susyimes/android-agent-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

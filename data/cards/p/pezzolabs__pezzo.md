@@ -1,6 +1,6 @@
 # pezzolabs/pezzo
 
-⭐ 3,278 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/pezzolabs/pezzo) · [官网](https://pezzo.ai) · 组织维护
+⭐ 3,277 · TypeScript · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/pezzolabs/pezzo) · [官网](https://pezzo.ai) · 组织维护
 
 **开源 LLMOps 平台：提示词管理、可观测性与协作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pezzolabs/pezzo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3277 --> 3281
-    line [3278, 3280, 3278, 3278]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 3276 --> 3281
+    line [3278, 3280, 3278, 3277]
 ```
 
-2026-10-18 3,278 → 2026-10-26 3,278（+0）
+2026-10-18 3,278 → 2026-10-27 3,277（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # opensec-git/Pi-Bolt
 
-⭐ 568 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
+⭐ 603 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
 
 **Pi 编程代理的 AOT 原生编译分发版，单可执行文件启动**
 
@@ -45,13 +45,13 @@ Pi-Bolt 是 Pi coding agent 的独立 fork，将 Pi 连同 Bun 运行时通过 b
 
 ```mermaid
 xychart-beta
-    title "opensec-git/Pi-Bolt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 345 --> 588
-    line [365, 373, 386, 392, 428, 532, 568]
+    title "opensec-git/Pi-Bolt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 342 --> 626
+    line [365, 373, 386, 392, 428, 532, 568, 603]
 ```
 
-2026-10-18 365 → 2026-10-26 568（+203）
+2026-10-18 365 → 2026-10-27 603（+238）
 
 
 ---

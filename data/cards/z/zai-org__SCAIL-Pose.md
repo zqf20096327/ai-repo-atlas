@@ -1,6 +1,6 @@
 # zai-org/SCAIL-Pose
 
-⭐ 229 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/zai-org/SCAIL-Pose) · 组织维护 · 中文 README
+⭐ 230 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/zai-org/SCAIL-Pose) · 组织维护 · 中文 README
 
 **SCAIL 角色动画框架的驱动视频姿态提取与渲染代码**
 
@@ -44,12 +44,12 @@ zai-org/SCAIL 系列的官方周边仓库，为主仓库提供驱动视频的前
 ```mermaid
 xychart-beta
     title "zai-org/SCAIL-Pose 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 228 --> 230
-    line [229, 229]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 228 --> 231
+    line [229, 230]
 ```
 
-2026-10-18 229 → 2026-10-26 229（+0）
+2026-10-18 229 → 2026-10-27 230（+1）
 
 
 ---

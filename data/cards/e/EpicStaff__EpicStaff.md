@@ -1,6 +1,6 @@
 # EpicStaff/EpicStaff
 
-⭐ 358 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
+⭐ 358 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
 
 **面向运营团队的自托管 AI Agent 编排平台（Django 后端+可视化编辑器）**
 
@@ -46,12 +46,12 @@ EpicStaff 是一个源码可用的自托管 AI Agent 编排平台：基于节点
 ```mermaid
 xychart-beta
     title "EpicStaff/EpicStaff 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 357 --> 360
     line [359, 358, 358]
 ```
 
-2026-10-18 359 → 2026-10-26 358（-1）
+2026-10-18 359 → 2026-10-27 358（-1）
 
 
 ---

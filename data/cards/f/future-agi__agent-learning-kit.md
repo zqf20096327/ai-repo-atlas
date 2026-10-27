@@ -1,6 +1,6 @@
 # future-agi/agent-learning-kit
 
-⭐ 128 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/future-agi/agent-learning-kit) · [官网](https://futureagi.com) · 组织维护
+⭐ 128 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/future-agi/agent-learning-kit) · [官网](https://futureagi.com) · 组织维护
 
 **AI agent 本地优先的测试/仿真/红队/优化 SDK 与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "future-agi/agent-learning-kit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
     y-axis "stars" 126 --> 129
     line [128, 127, 128, 128]
 ```
 
-2026-10-18 128 → 2026-10-26 128（+0）
+2026-10-18 128 → 2026-10-27 128（+0）
 
 
 ---

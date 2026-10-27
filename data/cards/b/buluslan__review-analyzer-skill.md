@@ -1,6 +1,6 @@
 # buluslan/review-analyzer-skill
 
-⭐ 137 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/buluslan/review-analyzer-skill) · 个人维护 · 中文 README
+⭐ 138 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/buluslan/review-analyzer-skill) · 个人维护 · 中文 README
 
 **Agent 原生的电商评论分析 Skill：22维打标、生成15章洞察报告**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "buluslan/review-analyzer-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 134 --> 138
-    line [135, 136, 137, 137]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 134 --> 139
+    line [135, 136, 137, 138]
 ```
 
-2026-10-18 135 → 2026-10-26 137（+2）
+2026-10-18 135 → 2026-10-27 138（+3）
 
 
 ---

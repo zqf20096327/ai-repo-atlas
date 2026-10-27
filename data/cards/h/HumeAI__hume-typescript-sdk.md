@@ -1,6 +1,6 @@
 # HumeAI/hume-typescript-sdk
 
-⭐ 84 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/HumeAI/hume-typescript-sdk) · [官网](https://hume.ai) · 组织维护
+⭐ 83 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/HumeAI/hume-typescript-sdk) · [官网](https://hume.ai) · 组织维护
 
 **Hume AI 官方 TypeScript SDK，接入共情语音与 TTS API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HumeAI/hume-typescript-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 82 --> 85
+    line [84, 83]
 ```
 
-2026-10-18 84 → 2026-10-26 84（+0）
+2026-10-18 84 → 2026-10-27 83（-1）
 
 
 ---

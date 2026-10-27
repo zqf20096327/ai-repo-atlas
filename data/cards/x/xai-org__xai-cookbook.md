@@ -1,6 +1,6 @@
 # xai-org/xai-cookbook
 
-⭐ 626 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xai-org/xai-cookbook) · 组织维护
+⭐ 627 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xai-org/xai-cookbook) · 组织维护
 
 **xAI Grok API 的实战示例集：从入门到进阶的 25 个可运行应用**
 
@@ -43,13 +43,13 @@ xAI 官方维护的 cookbook，收录基于 SpaceXSI（xAI）TypeScript SDK 与 
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-cookbook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 620 --> 627
-    line [621, 622, 623, 624, 625, 626]
+    title "xai-org/xai-cookbook 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 620 --> 628
+    line [621, 622, 623, 624, 625, 626, 627]
 ```
 
-2026-10-18 621 → 2026-10-26 626（+5）
+2026-10-18 621 → 2026-10-27 627（+6）
 
 
 ---

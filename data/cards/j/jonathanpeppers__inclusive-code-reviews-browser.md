@@ -1,6 +1,6 @@
 # jonathanpeppers/inclusive-code-reviews-browser
 
-⭐ 35 · JavaScript · LGPL-2.1 · 推送 2026-10-19 · [GitHub](https://github.com/jonathanpeppers/inclusive-code-reviews-browser) · 个人维护
+⭐ 35 · JavaScript · LGPL-2.1 · 推送 2026-10-26 · [GitHub](https://github.com/jonathanpeppers/inclusive-code-reviews-browser) · 个人维护
 
 **浏览器扩展：发评论前提示改写不包容措辞**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jonathanpeppers/inclusive-code-reviews-browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

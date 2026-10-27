@@ -1,6 +1,6 @@
 # lukasmasuch/best-of-ml-python
 
-⭐ 23,846 · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
+⭐ 23,847 · CC-BY-SA-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/lukasmasuch/best-of-ml-python) · [官网](https://ml-python.best-of.org) · 个人维护
 
 **给 ML 开发者的 Python 库排名清单，每周更新**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "lukasmasuch/best-of-ml-python 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "lukasmasuch/best-of-ml-python 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 23843 --> 23851
-    line [23849, 23850, 23849, 23848, 23844, 23846]
+    line [23849, 23850, 23849, 23848, 23844, 23846, 23847]
 ```
 
-2026-10-18 23,849 → 2026-10-26 23,846（-3）
+2026-10-18 23,849 → 2026-10-27 23,847（-2）
 
 
 ---

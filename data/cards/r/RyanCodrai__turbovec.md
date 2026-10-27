@@ -1,6 +1,6 @@
 # RyanCodrai/turbovec
 
-⭐ 17,422 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
+⭐ 17,426 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/RyanCodrai/turbovec) · [官网](https://pypi.org/project/turbovec/) · 个人维护
 
 **面向 Python/Rust 开发者的 2-4 比特量化内存向量索引库**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "RyanCodrai/turbovec 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 17392 --> 17424
-    line [17394, 17405, 17407, 17411, 17414, 17418, 17422]
+    title "RyanCodrai/turbovec 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 17391 --> 17429
+    line [17394, 17405, 17407, 17411, 17414, 17418, 17422, 17426]
 ```
 
-2026-10-18 17,394 → 2026-10-26 17,422（+28）
+2026-10-18 17,394 → 2026-10-27 17,426（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # zxh0/ann-book
 
-⭐ 28 · Python · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/zxh0/ann-book) · [官网](https://zxh0.github.io/ann-book/) · 个人维护 · 中文 README
+⭐ 30 · Python · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/zxh0/ann-book) · [官网](https://zxh0.github.io/ann-book/) · 个人维护 · 中文 README
 
 **面向中文读者的人工神经网络入门书与 LLM 技术图解笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zxh0/ann-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 27 --> 31
+    line [28, 30]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 30（+2）
 
 
 ---

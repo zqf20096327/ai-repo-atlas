@@ -43,12 +43,12 @@ Go 语言通用文本分类库，提供 naïve bayes 与 k-nearest neighbors 两
 ```mermaid
 xychart-beta
     title "n3integration/classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 43（+0）
 
 
 ---

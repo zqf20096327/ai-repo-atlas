@@ -1,6 +1,6 @@
 # pqh22/ColaVLA
 
-⭐ 67 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/pqh22/ColaVLA) · [官网](https://pqh22.github.io/projects/ColaVLA/index.html) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/pqh22/ColaVLA) · [官网](https://pqh22.github.io/projects/ColaVLA/index.html) · 组织维护
 
 **面向自动驾驶轨迹规划的视觉-语言-动作框架（CVPR2026 论文代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pqh22/ColaVLA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
     y-axis "stars" 66 --> 69
-    line [67, 68, 67, 67]
+    line [67, 68, 67, 68]
 ```
 
-2026-10-18 67 → 2026-10-26 67（+0）
+2026-10-18 67 → 2026-10-27 68（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LeoYeAI/openclaw-master-skills
 
-⭐ 2,167 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LeoYeAI/openclaw-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 2,166 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LeoYeAI/openclaw-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **MyClaw.ai 维护的 OpenClaw agent 技能策展清单（1211+，周更）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoYeAI/openclaw-master-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "LeoYeAI/openclaw-master-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2165 --> 2170
-    line [2166, 2168, 2167, 2169, 2168, 2167]
+    line [2166, 2168, 2167, 2169, 2168, 2167, 2166]
 ```
 
-2026-10-18 2,166 → 2026-10-26 2,167（+1）
+2026-10-18 2,166 → 2026-10-27 2,166（+0）
 
 
 ---

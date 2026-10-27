@@ -1,6 +1,6 @@
 # Ahren09/AgentReview
 
-⭐ 642 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Ahren09/AgentReview) · [官网](https://agentreview.github.io/) · 组织维护
+⭐ 647 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/Ahren09/AgentReview) · [官网](https://agentreview.github.io/) · 组织维护
 
 **用 LLM Agent 模拟学术同行评审的研究框架**
 
@@ -44,13 +44,13 @@ EMNLP 2024 论文的官方实现：将论文评审建模为五阶段流水线（
 
 ```mermaid
 xychart-beta
-    title "Ahren09/AgentReview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 598 --> 646
-    line [602, 610, 623, 630, 635, 642]
+    title "Ahren09/AgentReview 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 598 --> 651
+    line [602, 610, 623, 630, 635, 642, 647]
 ```
 
-2026-10-18 602 → 2026-10-26 642（+40）
+2026-10-18 602 → 2026-10-27 647（+45）
 
 
 ---

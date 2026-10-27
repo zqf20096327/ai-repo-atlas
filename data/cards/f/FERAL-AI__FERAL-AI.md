@@ -1,6 +1,6 @@
 # FERAL-AI/FERAL-AI
 
-⭐ 131 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/FERAL-AI/FERAL-AI) · [官网](https://docs.feral.sh) · 组织维护
+⭐ 130 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/FERAL-AI/FERAL-AI) · [官网](https://docs.feral.sh) · 组织维护
 
 **本地优先的个人 AI 代理运行时：统一记忆、策略受控执行与设备连接**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FERAL-AI/FERAL-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 129 --> 132
+    line [131, 130]
 ```
 
-2026-10-18 131 → 2026-10-26 131（+0）
+2026-10-18 131 → 2026-10-27 130（-1）
 
 
 ---

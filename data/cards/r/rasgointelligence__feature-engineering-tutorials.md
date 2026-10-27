@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rasgointelligence/feature-engineering-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 287 --> 289
     line [288, 288]
 ```
 
-2026-10-18 288 → 2026-10-26 288（+0）
+2026-10-18 288 → 2026-10-27 288（+0）
 
 
 ---

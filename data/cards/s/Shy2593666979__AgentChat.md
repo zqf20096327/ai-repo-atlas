@@ -1,6 +1,6 @@
 # Shy2593666979/AgentChat
 
-⭐ 924 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Shy2593666979/AgentChat) · [官网](http://agentchat.cloud) · 个人维护 · 中文 README
+⭐ 925 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Shy2593666979/AgentChat) · [官网](http://agentchat.cloud) · 个人维护 · 中文 README
 
 **连接模型、知识与工具的智能体应用平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Shy2593666979/AgentChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 919 --> 925
-    line [920, 923, 924, 924]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 919 --> 926
+    line [920, 923, 924, 925]
 ```
 
-2026-10-18 920 → 2026-10-26 924（+4）
+2026-10-18 920 → 2026-10-27 925（+5）
 
 
 ---

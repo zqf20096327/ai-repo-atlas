@@ -1,6 +1,6 @@
 # wannabespace/tamery
 
-⭐ 1,458 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wannabespace/tamery) · [官网](https://tamery.app) · 组织维护
+⭐ 1,458 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/wannabespace/tamery) · [官网](https://tamery.app) · 组织维护
 
 **面向用户与 AI agent 的桌面/网页数据库客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wannabespace/tamery 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1451 --> 1459
     line [1452, 1457, 1458, 1458]
 ```
 
-2026-10-19 1,452 → 2026-10-26 1,458（+6）
+2026-10-19 1,452 → 2026-10-27 1,458（+6）
 
 
 ---

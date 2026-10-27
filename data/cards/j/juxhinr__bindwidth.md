@@ -1,6 +1,6 @@
 # juxhinr/bindwidth
 
-⭐ 111 · JavaScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/juxhinr/bindwidth) · [官网](https://juxhinr.github.io/bindwidth/) · 个人维护
+⭐ 112 · JavaScript · MIT · 推送 2026-08-02 · [GitHub](https://github.com/juxhinr/bindwidth) · [官网](https://juxhinr.github.io/bindwidth/) · 个人维护
 
 **面向私有化本地 LLM 部署的约束测算与 TCO 计算器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "juxhinr/bindwidth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 110 --> 112
-    line [111, 111]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 110 --> 113
+    line [111, 112]
 ```
 
-2026-10-18 111 → 2026-10-26 111（+0）
+2026-10-18 111 → 2026-10-27 112（+1）
 
 
 ---

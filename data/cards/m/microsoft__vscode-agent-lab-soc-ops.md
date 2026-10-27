@@ -1,6 +1,6 @@
 # microsoft/vscode-agent-lab-soc-ops
 
-⭐ 63 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/microsoft/vscode-agent-lab-soc-ops) · [官网](https://microsoft.github.io/vscode-agent-lab-soc-ops/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **线下社交破冰用的宾果游戏，配合 VS Code Agent 实验教程**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

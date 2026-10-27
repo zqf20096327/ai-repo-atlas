@@ -1,6 +1,6 @@
 # yarik-contr/mcp-forge-studio-bridge
 
-⭐ 73 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/yarik-contr/mcp-forge-studio-bridge) · 个人维护
+⭐ 73 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/yarik-contr/mcp-forge-studio-bridge) · 个人维护
 
 **连接 AI 编码助手与 Roblox Studio 的 MCP 服务器及配套插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yarik-contr/mcp-forge-studio-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-26 73（+0）
+2026-10-18 73 → 2026-10-27 73（+0）
 
 
 ---

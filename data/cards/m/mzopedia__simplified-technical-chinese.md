@@ -1,6 +1,6 @@
 # mzopedia/simplified-technical-chinese
 
-⭐ 66 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/mzopedia/simplified-technical-chinese) · 个人维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/mzopedia/simplified-technical-chinese) · 个人维护 · 中文 README
 
 **中文技术写作受控语言规范：40条规则+词表+零依赖检查脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mzopedia/simplified-technical-chinese 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 29 --> 69
-    line [32, 44, 52, 53, 62, 66, 66]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 29 --> 71
+    line [32, 44, 52, 53, 62, 66, 68]
 ```
 
-2026-10-18 32 → 2026-10-26 66（+34）
+2026-10-18 32 → 2026-10-27 68（+36）
 
 
 ---

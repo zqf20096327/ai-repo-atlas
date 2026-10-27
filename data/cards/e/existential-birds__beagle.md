@@ -46,12 +46,12 @@ Agent Skills 市场，为支持 Agent Skills 的编码 agent（Claude Code、Cod
 ```mermaid
 xychart-beta
     title "existential-birds/beagle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-10-26 84（+0）
+2026-10-18 84 → 2026-10-27 84（+0）
 
 
 ---

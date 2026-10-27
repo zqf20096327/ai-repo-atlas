@@ -1,6 +1,6 @@
 # ATOM00blue/machine-learning-library
 
-⭐ 259 · Python · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/ATOM00blue/machine-learning-library) · 个人维护
+⭐ 260 · Python · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/ATOM00blue/machine-learning-library) · 个人维护
 
 **923 篇 ML 论文/讲义策展知识库 + 自研 APRL 表格学习算法**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ATOM00blue/machine-learning-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 254 --> 260
-    line [255, 259, 259]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 254 --> 261
+    line [255, 259, 260]
 ```
 
-2026-10-18 255 → 2026-10-26 259（+4）
+2026-10-18 255 → 2026-10-27 260（+5）
 
 
 ---

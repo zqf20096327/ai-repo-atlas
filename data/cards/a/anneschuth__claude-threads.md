@@ -1,6 +1,6 @@
 # anneschuth/claude-threads
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anneschuth/claude-threads) · [官网](https://claude-threads.run) · 个人维护
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anneschuth/claude-threads) · [官网](https://claude-threads.run) · 个人维护
 
 **在 Slack/Mattermost 中驱动 Claude Code 的团队协作机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anneschuth/claude-threads 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46]
 ```
 
-2026-10-18 43 → 2026-10-26 45（+2）
+2026-10-18 43 → 2026-10-27 46（+3）
 
 
 ---

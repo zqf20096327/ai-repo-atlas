@@ -1,6 +1,6 @@
 # Codename-11/hermes-relay
 
-⭐ 388 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Codename-11/hermes-relay) · [官网](https://hermes-relay.dev) · 个人维护 · 中文 README
+⭐ 393 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Codename-11/hermes-relay) · [官网](https://hermes-relay.dev) · 个人维护 · 中文 README
 
 **Android/桌面客户端：把自托管 Hermes AI agent 带到手机与任意配对机器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Codename-11/hermes-relay 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 354 --> 391
-    line [357, 361, 364, 370, 378, 382, 388]
+    title "Codename-11/hermes-relay 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 354 --> 396
+    line [357, 361, 364, 370, 378, 382, 388, 393]
 ```
 
-2026-10-18 357 → 2026-10-26 388（+31）
+2026-10-18 357 → 2026-10-27 393（+36）
 
 
 ---

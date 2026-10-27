@@ -40,6 +40,18 @@
 > L19: Machine Learning 101 is a free, browser-based platform for building intuition about machine learning.
 > L30: - 🎯 **Interactive learning** — Real-time parameter adjustments with immediate visual feedback
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marvelefe/machinelearning101 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-10-26 30 → 2026-10-27 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 high · 依据 README sha `ec664ee5ab4b` · [字段定义](../../DATASET.md)*

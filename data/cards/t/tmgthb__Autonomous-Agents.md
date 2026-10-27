@@ -1,6 +1,6 @@
 # tmgthb/Autonomous-Agents
 
-⭐ 1,386 · MIT · 推送 2026-06-24 · [GitHub](https://github.com/tmgthb/Autonomous-Agents) · 个人维护
+⭐ 1,385 · MIT · 推送 2026-06-24 · [GitHub](https://github.com/tmgthb/Autonomous-Agents) · 个人维护
 
 **自主智能体（LLM Agent）研究论文清单，每日更新**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tmgthb/Autonomous-Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
     y-axis "stars" 1383 --> 1387
-    line [1384, 1385, 1386, 1386]
+    line [1384, 1385, 1386, 1385]
 ```
 
-2026-10-18 1,384 → 2026-10-26 1,386（+2）
+2026-10-18 1,384 → 2026-10-27 1,385（+1）
 
 
 ---

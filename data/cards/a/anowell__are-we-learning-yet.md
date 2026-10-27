@@ -1,6 +1,6 @@
 # anowell/are-we-learning-yet
 
-⭐ 537 · Rust · CC-BY-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/anowell/are-we-learning-yet) · [官网](http://arewelearningyet.com) · 个人维护
+⭐ 538 · Rust · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/anowell/are-we-learning-yet) · [官网](http://arewelearningyet.com) · 个人维护
 
 **Rust 机器学习生态的策展目录站点（arewelearningyet.com）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anowell/are-we-learning-yet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 536 --> 538
-    line [537, 537]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 536 --> 539
+    line [537, 538]
 ```
 
-2026-10-18 537 → 2026-10-26 537（+0）
+2026-10-18 537 → 2026-10-27 538（+1）
 
 
 ---

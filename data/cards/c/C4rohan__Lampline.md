@@ -1,6 +1,6 @@
 # C4rohan/Lampline
 
-⭐ 283 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/C4rohan/Lampline) · 个人维护
+⭐ 267 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/C4rohan/Lampline) · 个人维护
 
 **自托管开源语音电话 agent 平台：导入 Dialogflow CX 构建测试运行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "C4rohan/Lampline 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "C4rohan/Lampline 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 0 --> 310
-    line [31, 13, 163, 166, 171, 283]
+    line [31, 13, 163, 166, 171, 283, 267]
 ```
 
-2026-10-19 31 → 2026-10-26 283（+252）
+2026-10-19 31 → 2026-10-27 267（+236）
 
 
 ---

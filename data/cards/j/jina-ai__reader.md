@@ -1,6 +1,6 @@
 # jina-ai/reader
 
-⭐ 12,192 · TypeScript · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/jina-ai/reader) · [官网](https://jina.ai/reader) · 组织维护
+⭐ 12,197 · TypeScript · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/jina-ai/reader) · [官网](https://jina.ai/reader) · 组织维护
 
 **把任意 URL/文件转为 LLM 友好输入，并提供网页搜索服务**
 
@@ -45,13 +45,13 @@ Jina AI 的开源 Reader：通过 URL 前缀 https://r.jina.ai/ 将网页（head
 
 ```mermaid
 xychart-beta
-    title "jina-ai/reader 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 12155 --> 12195
-    line [12158, 12171, 12184, 12187, 12189, 12192]
+    title "jina-ai/reader 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12155 --> 12200
+    line [12158, 12171, 12184, 12187, 12189, 12192, 12197]
 ```
 
-2026-10-18 12,158 → 2026-10-26 12,192（+34）
+2026-10-18 12,158 → 2026-10-27 12,197（+39）
 
 
 ---

@@ -1,6 +1,6 @@
 # ZhgChgLi/linkyee
 
-⭐ 183 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ZhgChgLi/linkyee) · [官网](https://link.zhgchg.li/) · 个人维护 · 中文 README
+⭐ 183 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ZhgChgLi/linkyee) · [官网](https://link.zhgchg.li/) · 个人维护 · 中文 README
 
 **部署在 GitHub Pages 的开源自建 LinkTree 替代链接页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhgChgLi/linkyee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "ZhgChgLi/linkyee 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 180 --> 184
-    line [181, 182, 183]
+    line [181, 182, 183, 183]
 ```
 
-2026-10-18 181 → 2026-10-26 183（+2）
+2026-10-18 181 → 2026-10-27 183（+2）
 
 
 ---

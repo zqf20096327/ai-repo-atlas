@@ -1,6 +1,6 @@
 # microsoft/copilot-intellij-feedback
 
-⭐ 137 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/microsoft/copilot-intellij-feedback) · 组织维护
+⭐ 136 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/microsoft/copilot-intellij-feedback) · 组织维护
 
 **GitHub Copilot JetBrains 插件的官方反馈 issue 仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/copilot-intellij-feedback 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 135 --> 138
+    line [137, 136]
 ```
 
-2026-10-18 137 → 2026-10-26 137（+0）
+2026-10-18 137 → 2026-10-27 136（-1）
 
 
 ---

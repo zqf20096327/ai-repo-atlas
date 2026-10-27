@@ -1,6 +1,6 @@
 # priyankark/phonepi-mcp
 
-⭐ 38 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/priyankark/phonepi-mcp) · [官网](https://www.phonepimcp.com/) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/priyankark/phonepi-mcp) · [官网](https://www.phonepimcp.com/) · 个人维护
 
 **让 AI 助手远程操控手机的 MCP 服务器与配套应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "priyankark/phonepi-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 37（-1）
 
 
 ---

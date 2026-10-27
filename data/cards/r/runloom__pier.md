@@ -1,6 +1,6 @@
 # runloom/pier
 
-⭐ 320 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/runloom/pier) · [官网](https://pier.codes) · 组织维护 · 中文 README
+⭐ 346 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/runloom/pier) · [官网](https://pier.codes) · 组织维护 · 中文 README
 
 **macOS 本地工作台：集中查看多个 AI 终端会话状态，旁边改文件、看 Git**
 
@@ -45,13 +45,13 @@ Electron 构建的 macOS 桌面应用（Apple Silicon / Intel），作为原生�
 
 ```mermaid
 xychart-beta
-    title "runloom/pier 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 185 --> 332
-    line [197, 234, 257, 260, 273, 290, 320]
+    title "runloom/pier 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 183 --> 360
+    line [197, 234, 257, 260, 273, 290, 320, 346]
 ```
 
-2026-10-18 197 → 2026-10-26 320（+123）
+2026-10-18 197 → 2026-10-27 346（+149）
 
 
 ---

@@ -1,6 +1,6 @@
 # zapplyjobs/awesome-ml-internships-2027
 
-⭐ 463 · 推送 2026-10-25 · [GitHub](https://github.com/zapplyjobs/awesome-ml-internships-2027) · [官网](https://softwarejobs.dev/?ref=gh-awesome-ml-internships) · 组织维护
+⭐ 463 · 推送 2026-10-26 · [GitHub](https://github.com/zapplyjobs/awesome-ml-internships-2027) · [官网](https://softwarejobs.dev/?ref=gh-awesome-ml-internships) · 组织维护
 
 **面向学生的 AI/ML 实习职位聚合清单（Zapply 管道刷新）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "zapplyjobs/awesome-ml-internships-2027 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    title "zapplyjobs/awesome-ml-internships-2027 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 461 --> 465
-    line [463, 462, 463, 464, 463]
+    line [463, 462, 463, 464, 463, 463]
 ```
 
-2026-10-18 463 → 2026-10-26 463（+0）
+2026-10-18 463 → 2026-10-27 463（+0）
 
 
 ---

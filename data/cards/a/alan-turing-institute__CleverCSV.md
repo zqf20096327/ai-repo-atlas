@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alan-turing-institute/CleverCSV 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "alan-turing-institute/CleverCSV 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1340 --> 1343
-    line [1342, 1341]
+    line [1342, 1341, 1341]
 ```
 
-2026-10-18 1,342 → 2026-10-26 1,341（-1）
+2026-10-18 1,342 → 2026-10-27 1,341（-1）
 
 
 ---

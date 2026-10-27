@@ -1,6 +1,6 @@
 # headroomlabs-ai/headroom
 
-⭐ 77,795 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
+⭐ 77,916 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
 
 **为 AI agent 压缩上下文输入输出的本地压缩层**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "headroomlabs-ai/headroom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 75351 --> 78017
-    line [75573, 76161, 77048, 77538, 77632, 77708, 77795]
+    title "headroomlabs-ai/headroom 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 75339 --> 78150
+    line [75573, 76161, 77048, 77538, 77632, 77708, 77795, 77916]
 ```
 
-2026-10-18 75,573 → 2026-10-26 77,795（+2,222）
+2026-10-18 75,573 → 2026-10-27 77,916（+2,343）
 
 
 ---

@@ -1,6 +1,6 @@
 # slyfox1186/script-repo
 
-⭐ 137 · Shell · MIT · 推送 2026-10-13 · [GitHub](https://github.com/slyfox1186/script-repo) · 个人维护
+⭐ 138 · Shell · MIT · 推送 2026-10-13 · [GitHub](https://github.com/slyfox1186/script-repo) · 个人维护
 
 **多语言系统管理脚本合集：Linux/Windows 软件安装与自动化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "slyfox1186/script-repo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 136 --> 139
+    line [137, 138]
 ```
 
-2026-10-18 137 → 2026-10-26 137（+0）
+2026-10-18 137 → 2026-10-27 138（+1）
 
 
 ---

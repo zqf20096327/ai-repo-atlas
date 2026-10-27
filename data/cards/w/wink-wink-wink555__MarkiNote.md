@@ -1,6 +1,6 @@
 # wink-wink-wink555/MarkiNote
 
-⭐ 106 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wink-wink-wink555/MarkiNote) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wink-wink-wink555/MarkiNote) · 个人维护 · 中文 README
 
 **自托管的 Markdown 写作阅读与 AI Agent 文档工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wink-wink-wink555/MarkiNote 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-10-26 106（+0）
+2026-10-18 106 → 2026-10-27 106（+0）
 
 
 ---

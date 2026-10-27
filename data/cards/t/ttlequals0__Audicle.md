@@ -1,6 +1,6 @@
 # ttlequals0/Audicle
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ttlequals0/Audicle) · 个人维护
+⭐ 101 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ttlequals0/Audicle) · 个人维护
 
 **把收藏文章转成自托管播客的自建服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ttlequals0/Audicle 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 92 --> 100
-    line [93, 94, 98, 99, 99]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 92 --> 102
+    line [93, 94, 98, 99, 101]
 ```
 
-2026-10-18 93 → 2026-10-26 99（+6）
+2026-10-18 93 → 2026-10-27 101（+8）
 
 
 ---

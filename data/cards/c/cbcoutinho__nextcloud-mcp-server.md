@@ -1,6 +1,6 @@
 # cbcoutinho/nextcloud-mcp-server
 
-⭐ 392 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/cbcoutinho/nextcloud-mcp-server) · 个人维护
+⭐ 392 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/cbcoutinho/nextcloud-mcp-server) · 个人维护
 
 **连接 AI 助手与 Nextcloud 的独立 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cbcoutinho/nextcloud-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 384 --> 393
     line [385, 387, 388, 390, 392, 392]
 ```
 
-2026-10-18 385 → 2026-10-26 392（+7）
+2026-10-18 385 → 2026-10-27 392（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/SparseAttention
 
-⭐ 102 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/SparseAttention) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/SparseAttention) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **稀疏注意力机制的 PyTorch 实现库，处理长序列**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/SparseAttention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-26 102（+0）
+2026-10-18 102 → 2026-10-27 102（+0）
 
 
 ---

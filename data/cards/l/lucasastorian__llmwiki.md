@@ -1,6 +1,6 @@
 # lucasastorian/llmwiki
 
-⭐ 1,718 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lucasastorian/llmwiki) · [官网](https://llmwiki.app) · 个人维护
+⭐ 1,719 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lucasastorian/llmwiki) · [官网](https://llmwiki.app) · 个人维护
 
 **AI 自主维护的个人维基：上传资料，Claude 经 MCP 自动撰写**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucasastorian/llmwiki 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1693 --> 1720
-    line [1695, 1698, 1706, 1710, 1713, 1714, 1718]
+    title "lucasastorian/llmwiki 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1693 --> 1721
+    line [1695, 1698, 1706, 1710, 1713, 1714, 1718, 1719]
 ```
 
-2026-10-18 1,695 → 2026-10-26 1,718（+23）
+2026-10-18 1,695 → 2026-10-27 1,719（+24）
 
 
 ---

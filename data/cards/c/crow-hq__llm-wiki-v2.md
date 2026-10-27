@@ -1,6 +1,6 @@
 # crow-hq/llm-wiki-v2
 
-⭐ 247 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/crow-hq/llm-wiki-v2) · [官网](https://pypi.org/project/llmwiki2/) · 组织维护
+⭐ 247 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/crow-hq/llm-wiki-v2) · [官网](https://pypi.org/project/llmwiki2/) · 组织维护
 
 **把文档整理成带引用回答的本地 Markdown 百科（LLM Wiki v2）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "crow-hq/llm-wiki-v2 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "crow-hq/llm-wiki-v2 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 229 --> 248
-    line [230, 232, 244, 245, 246, 247]
+    line [230, 232, 244, 245, 246, 247, 247]
 ```
 
-2026-10-18 230 → 2026-10-26 247（+17）
+2026-10-18 230 → 2026-10-27 247（+17）
 
 
 ---

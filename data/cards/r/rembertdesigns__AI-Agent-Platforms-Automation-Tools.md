@@ -1,6 +1,6 @@
 # rembertdesigns/AI-Agent-Platforms-Automation-Tools
 
-⭐ 26 · MIT · 推送 2025-10-30 · [GitHub](https://github.com/rembertdesigns/AI-Agent-Platforms-Automation-Tools) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自主 AI 智能体、框架与自动化工具的社区维护清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

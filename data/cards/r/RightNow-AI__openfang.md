@@ -1,6 +1,6 @@
 # RightNow-AI/openfang
 
-⭐ 18,225 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
+⭐ 18,229 · Rust · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/RightNow-AI/openfang) · [官网](https://www.openfang.sh/) · 组织维护
 
 **给需要自主运行的 agent 的 Rust 单二进制操作系统**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "RightNow-AI/openfang 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18209 --> 18226
-    line [18211, 18210, 18221, 18219, 18225]
+    title "RightNow-AI/openfang 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18209 --> 18230
+    line [18211, 18210, 18221, 18219, 18225, 18229]
 ```
 
-2026-10-18 18,211 → 2026-10-26 18,225（+14）
+2026-10-18 18,211 → 2026-10-27 18,229（+18）
 
 
 ---

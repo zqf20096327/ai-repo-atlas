@@ -1,6 +1,6 @@
 # nf-core/deepmodeloptim
 
-⭐ 32 · Nextflow · MIT · 推送 2026-10-07 · [GitHub](https://github.com/nf-core/deepmodeloptim) · [官网](https://nf-co.re/deepmodeloptim) · 组织维护
+⭐ 32 · Nextflow · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nf-core/deepmodeloptim) · [官网](https://nf-co.re/deepmodeloptim) · 组织维护
 
 **面向生物数据的深度学习训练集优化 Nextflow 流水线**
 
@@ -46,12 +46,12 @@ nf-core 社区维护的生物信息流水线（原名 STIMULUS 思路）：以 C
 ```mermaid
 xychart-beta
     title "nf-core/deepmodeloptim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

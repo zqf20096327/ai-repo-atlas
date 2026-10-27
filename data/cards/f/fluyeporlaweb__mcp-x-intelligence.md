@@ -1,6 +1,6 @@
 # fluyeporlaweb/mcp-x-intelligence
 
-⭐ 49 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/fluyeporlaweb/mcp-x-intelligence) · 个人维护
+⭐ 50 · TypeScript · 推送 2026-08-17 · [GitHub](https://github.com/fluyeporlaweb/mcp-x-intelligence) · 个人维护
 
 **面向 Claude/Cursor 等 AI agent 的 X/Twitter 只读研究 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fluyeporlaweb/mcp-x-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-26 49（+0）
+2026-10-18 49 → 2026-10-27 50（+1）
 
 
 ---

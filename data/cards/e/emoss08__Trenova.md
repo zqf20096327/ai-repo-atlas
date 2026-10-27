@@ -1,6 +1,6 @@
 # emoss08/Trenova
 
-⭐ 313 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 个人维护
+⭐ 313 · Go · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 个人维护
 
 **面向美国中小卡车承运商的开源可自托管运输管理系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "emoss08/Trenova 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 312 --> 333
     line [330, 332, 315, 313, 313]
 ```
 
-2026-10-18 330 → 2026-10-26 313（-17）
+2026-10-18 330 → 2026-10-27 313（-17）
 
 
 ---

@@ -1,6 +1,6 @@
 # AppitStudio/awesome-jev
 
-⭐ 109 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/AppitStudio/awesome-jev) · 组织维护 · 中文 README
+⭐ 109 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AppitStudio/awesome-jev) · 组织维护 · 中文 README
 
 **Jev（TypeSafe System One）应用与开发者资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AppitStudio/awesome-jev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 104 --> 110
     line [105, 107, 108, 109, 109]
 ```
 
-2026-10-18 105 → 2026-10-26 109（+4）
+2026-10-18 105 → 2026-10-27 109（+4）
 
 
 ---

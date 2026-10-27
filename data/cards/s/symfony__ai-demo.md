@@ -1,6 +1,6 @@
 # symfony/ai-demo
 
-⭐ 48 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/symfony/ai-demo) · [官网](https://symfony.com/packages/ai-demo) · 组织维护
+⭐ 48 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-demo) · [官网](https://symfony.com/packages/ai-demo) · 组织维护
 
 **Symfony AI 组件的官方演示应用：聊天机器人等 11 个示例**
 
@@ -45,12 +45,12 @@ Symfony 官方组织维护的演示应用，展示 Symfony AI 组件的用法：
 ```mermaid
 xychart-beta
     title "symfony/ai-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-26 48（+0）
+2026-10-18 48 → 2026-10-27 48（+0）
 
 
 ---

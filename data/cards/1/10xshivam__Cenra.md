@@ -46,12 +46,12 @@ Cenra 是面向现代 SaaS 公司的 AI 支持代理：通过 Firecrawl 与 Jina
 ```mermaid
 xychart-beta
     title "10xshivam/Cenra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

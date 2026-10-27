@@ -1,6 +1,6 @@
 # METR/hawk
 
-⭐ 97 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/METR/hawk) · [官网](https://hawk.metr.org) · 组织维护
+⭐ 97 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/METR/hawk) · [官网](https://hawk.metr.org) · 组织维护
 
 **在 AWS 上规模化运行 Inspect AI 评测的系统**
 
@@ -44,13 +44,13 @@ METR 开源的 LLM 评测运行平台：用一份 YAML 定义任务、agent 与�
 
 ```mermaid
 xychart-beta
-    title "METR/hawk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "METR/hawk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 93 --> 98
-    line [94, 96, 95, 96, 97]
+    line [94, 96, 95, 96, 97, 97]
 ```
 
-2026-10-18 94 → 2026-10-26 97（+3）
+2026-10-18 94 → 2026-10-27 97（+3）
 
 
 ---

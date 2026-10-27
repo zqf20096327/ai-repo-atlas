@@ -1,6 +1,6 @@
 # zeroa234/game-asset-aesthetic-test
 
-⭐ 30 · Python · 推送 2026-10-18 · [GitHub](https://github.com/zeroa234/game-asset-aesthetic-test) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-10-18 · [GitHub](https://github.com/zeroa234/game-asset-aesthetic-test) · 个人维护 · 中文 README
 
 **面向游戏美术 Agent 的 8 个技能包：像素精灵、Spine 动画、方块角色与 TTS 配音**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeroa234/game-asset-aesthetic-test 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13 --> 31
-    line [14, 19, 24, 25, 27, 30]
+    title "zeroa234/game-asset-aesthetic-test 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13 --> 34
+    line [14, 19, 24, 25, 27, 30, 33]
 ```
 
-2026-10-19 14 → 2026-10-26 30（+16）
+2026-10-19 14 → 2026-10-27 33（+19）
 
 
 ---

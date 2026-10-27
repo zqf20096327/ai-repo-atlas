@@ -1,6 +1,6 @@
 # 416rehman/DeepZero
 
-⭐ 751 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/416rehman/DeepZero) · [官网](http://blog.ahmadz.ai/DeepZero/) · 个人维护 · 中文 README
+⭐ 753 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/416rehman/DeepZero) · [官网](http://blog.ahmadz.ai/DeepZero/) · 个人维护 · 中文 README
 
 **以 YAML 定义流水线的自动化漏洞研究引擎（LLM 集成）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "416rehman/DeepZero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 745 --> 752
-    line [746, 748, 749, 751]
+    title "416rehman/DeepZero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 745 --> 754
+    line [746, 748, 749, 751, 753]
 ```
 
-2026-10-18 746 → 2026-10-26 751（+5）
+2026-10-18 746 → 2026-10-27 753（+7）
 
 
 ---

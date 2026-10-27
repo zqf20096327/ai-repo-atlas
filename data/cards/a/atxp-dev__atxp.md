@@ -45,12 +45,12 @@ ATXP（Agent Transaction Protocol）以标准 MCP 服务器形式运行，让 AI
 ```mermaid
 xychart-beta
     title "atxp-dev/atxp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-26 45（+0）
+2026-10-18 45 → 2026-10-27 45（+0）
 
 
 ---

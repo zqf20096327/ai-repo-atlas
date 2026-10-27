@@ -1,6 +1,6 @@
 # JGRFW/comfyui-AICG3D
 
-⭐ 317 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D) · [官网](https://github.com/JGRFW/comfyui-AICG3D) · 组织维护 · 中文 README
+⭐ 326 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D) · [官网](https://github.com/JGRFW/comfyui-AICG3D) · 组织维护 · 中文 README
 
 **ComfyUI 插件：基于 MiniMax H3 生成本地无限时长短剧视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JGRFW/comfyui-AICG3D 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 246 --> 323
-    line [252, 262, 275, 288, 299, 308, 317]
+    title "JGRFW/comfyui-AICG3D 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 245 --> 333
+    line [252, 262, 275, 288, 299, 308, 317, 326]
 ```
 
-2026-10-18 252 → 2026-10-26 317（+65）
+2026-10-18 252 → 2026-10-27 326（+74）
 
 
 ---

@@ -41,12 +41,12 @@ Weaviate 组织维护的代码集合，提供用 DSPy 框架与 Weaviate 向量�
 ```mermaid
 xychart-beta
     title "weaviate/retrieve-dspy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-26 100（+0）
+2026-10-18 100 → 2026-10-27 100（+0）
 
 
 ---

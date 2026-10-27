@@ -1,6 +1,6 @@
 # DataTalksClub/machine-learning-zoomcamp
 
-⭐ 14,841 · Jupyter Notebook · 推送 2026-10-16 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
+⭐ 14,853 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/DataTalksClub/machine-learning-zoomcamp) · [官网](https://courses.datatalks.club/register/ml-zoomcamp/) · 组织维护
 
 **面向工程师的免费 4 个月机器学习工程实战课程**
 
@@ -52,13 +52,13 @@ DataTalks.Club 出品的免费机器学习工程课程，覆盖从问题定义�
 
 ```mermaid
 xychart-beta
-    title "DataTalksClub/machine-learning-zoomcamp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 14767 --> 14847
-    line [14773, 14796, 14812, 14821, 14826, 14829, 14841]
+    title "DataTalksClub/machine-learning-zoomcamp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 14765 --> 14861
+    line [14773, 14796, 14812, 14821, 14826, 14829, 14841, 14853]
 ```
 
-2026-10-18 14,773 → 2026-10-26 14,841（+68）
+2026-10-18 14,773 → 2026-10-27 14,853（+80）
 
 
 ---

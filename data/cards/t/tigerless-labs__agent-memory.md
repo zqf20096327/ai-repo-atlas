@@ -1,6 +1,6 @@
 # tigerless-labs/agent-memory
 
-⭐ 4,726 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tigerless-labs/agent-memory) · 组织维护
+⭐ 4,734 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tigerless-labs/agent-memory) · 组织维护
 
 **面向 AI agent 的长期记忆运行时，Markdown 为唯一事实源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tigerless-labs/agent-memory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3993 --> 4792
-    line [4059, 4385, 4459, 4554, 4718, 4726]
+    title "tigerless-labs/agent-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 3992 --> 4801
+    line [4059, 4385, 4459, 4554, 4718, 4726, 4734]
 ```
 
-2026-10-18 4,059 → 2026-10-26 4,726（+667）
+2026-10-18 4,059 → 2026-10-27 4,734（+675）
 
 
 ---

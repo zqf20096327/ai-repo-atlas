@@ -1,6 +1,6 @@
 # blundergoat/goat-flow
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/blundergoat/goat-flow) · [官网](https://goat-flow.com) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/blundergoat/goat-flow) · [官网](https://goat-flow.com) · 个人维护
 
 **给 AI 编程 agent 的 harness 工程系统与本地仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blundergoat/goat-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

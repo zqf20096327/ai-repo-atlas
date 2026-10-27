@@ -1,6 +1,6 @@
 # sums001/Windows-Copilot-API
 
-⭐ 1,254 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/sums001/Windows-Copilot-API) · 个人维护
+⭐ 1,256 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/sums001/Windows-Copilot-API) · 个人维护
 
 **将 Microsoft Copilot 网页版逆向封装为 OpenAI 兼容本地 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sums001/Windows-Copilot-API 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "sums001/Windows-Copilot-API 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1251 --> 1258
-    line [1255, 1257, 1253, 1252, 1255, 1254]
+    line [1255, 1257, 1253, 1252, 1255, 1254, 1256]
 ```
 
-2026-10-18 1,255 → 2026-10-26 1,254（-1）
+2026-10-18 1,255 → 2026-10-27 1,256（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhangliang605/latest_arxiv_analyze_ai
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/zhangliang605/latest_arxiv_analyze_ai) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zhangliang605/latest_arxiv_analyze_ai) · 个人维护
 
 **每日用 LLM 分析 600+ 篇 arXiv 最新论文并输出摘要订阅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhangliang605/latest_arxiv_analyze_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-26 33（+0）
+2026-10-18 33 → 2026-10-27 33（+0）
 
 
 ---

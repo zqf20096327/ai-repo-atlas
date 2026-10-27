@@ -45,12 +45,12 @@ Node.js/TypeScript 的 AI Agent 框架，将智能体抽象为数据摄取触发
 ```mermaid
 xychart-beta
     title "UraniumCorporation/maiar-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-18 87 → 2026-10-26 87（+0）
+2026-10-18 87 → 2026-10-27 87（+0）
 
 
 ---

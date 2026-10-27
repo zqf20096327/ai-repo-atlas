@@ -1,6 +1,6 @@
 # PRIME-RL/TTRL
 
-⭐ 1,129 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/PRIME-RL/TTRL) · [官网](https://arxiv.org/abs/2504.16084) · 组织维护
+⭐ 1,130 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/PRIME-RL/TTRL) · [官网](https://arxiv.org/abs/2504.16084) · 组织维护
 
 **在无标签测试数据上对 LLM 做测试时强化学习的研究框架**
 
@@ -45,12 +45,12 @@ NeurIPS 2025 论文 TTRL 的开源实现：研究在无真值标签的数据（�
 ```mermaid
 xychart-beta
     title "PRIME-RL/TTRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
     y-axis "stars" 1128 --> 1131
-    line [1130, 1129, 1129]
+    line [1130, 1129, 1130]
 ```
 
-2026-10-18 1,130 → 2026-10-26 1,129（-1）
+2026-10-18 1,130 → 2026-10-27 1,130（+0）
 
 
 ---

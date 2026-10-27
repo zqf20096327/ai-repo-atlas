@@ -1,6 +1,6 @@
 # arklexai/arksim
 
-⭐ 233 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
+⭐ 233 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
 
 **多轮对话模拟测试工具：用合成用户在上线前发现 agent 失败**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arklexai/arksim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
     y-axis "stars" 232 --> 235
     line [233, 234, 233, 233]
 ```
 
-2026-10-18 233 → 2026-10-26 233（+0）
+2026-10-18 233 → 2026-10-27 233（+0）
 
 
 ---

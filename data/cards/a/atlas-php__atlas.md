@@ -1,6 +1,6 @@
 # atlas-php/atlas
 
-⭐ 54 · PHP · MIT · 推送 2026-07-21 · [GitHub](https://github.com/atlas-php/atlas) · [官网](http://atlasphp.org/) · 组织维护
+⭐ 55 · PHP · MIT · 推送 2026-07-21 · [GitHub](https://github.com/atlas-php/atlas) · [官网](http://atlasphp.org/) · 组织维护
 
 **面向 Laravel 的统一 AI SDK：构建 agent、工具并接入多家模型服务商**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atlas-php/atlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "atlas-php/atlas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 53 --> 56
-    line [55, 54]
+    line [55, 54, 55]
 ```
 
-2026-10-18 55 → 2026-10-26 54（-1）
+2026-10-18 55 → 2026-10-27 55（+0）
 
 
 ---

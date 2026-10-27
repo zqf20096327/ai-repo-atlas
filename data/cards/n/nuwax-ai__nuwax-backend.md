@@ -1,6 +1,6 @@
 # nuwax-ai/nuwax-backend
 
-⭐ 38 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nuwax-ai/nuwax-backend) · [官网](https://nuwax.com) · 组织维护 · 中文 README
+⭐ 39 · Java · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nuwax-ai/nuwax-backend) · [官网](https://nuwax.com) · 组织维护 · 中文 README
 
 **企业级 AI Agent 开发运营平台的后端服务**
 
@@ -46,12 +46,12 @@ Java 17 / Spring Boot 3.3.8 实现的 AI Agent 平台后端，提供可视化拖
 ```mermaid
 xychart-beta
     title "nuwax-ai/nuwax-backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-26 38（+0）
+2026-10-18 38 → 2026-10-27 39（+1）
 
 
 ---

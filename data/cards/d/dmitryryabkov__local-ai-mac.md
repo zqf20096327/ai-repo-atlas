@@ -1,6 +1,6 @@
 # dmitryryabkov/local-ai-mac
 
-⭐ 96 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/dmitryryabkov/local-ai-mac) · 个人维护
+⭐ 97 · MIT · 推送 2026-06-13 · [GitHub](https://github.com/dmitryryabkov/local-ai-mac) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行 LLM 与编码 agent 的实践指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dmitryryabkov/local-ai-mac 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 85 --> 97
-    line [86, 87, 90, 93, 95, 96]
+    title "dmitryryabkov/local-ai-mac 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 85 --> 98
+    line [86, 87, 90, 93, 95, 96, 97]
 ```
 
-2026-10-18 86 → 2026-10-26 96（+10）
+2026-10-18 86 → 2026-10-27 97（+11）
 
 
 ---

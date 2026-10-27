@@ -1,6 +1,6 @@
 # CodingFeng101/CanvasAnvil
 
-⭐ 97 · TypeScript · AGPL-3.0 · 推送 2026-09-06 · [GitHub](https://github.com/CodingFeng101/CanvasAnvil) · [官网](https://canvasanvil.codingfgd.asia) · 个人维护 · 中文 README
+⭐ 97 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/CodingFeng101/CanvasAnvil) · [官网](https://canvasanvil.codingfgd.asia) · 个人维护 · 中文 README
 
 **AI 多画布创作平台：图表/室内设计/PPT 生成工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CodingFeng101/CanvasAnvil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-26 97（+0）
+2026-10-18 97 → 2026-10-27 97（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mintplex-Labs/anything-llm
 
-⭐ 67,540 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护
+⭐ 67,593 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护
 
 **本地优先的一体化 AI 应用：私聊文档、运行 AI Agent**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anything-llm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 67218 --> 67569
-    line [67247, 67324, 67397, 67447, 67487, 67514, 67540]
+    title "Mintplex-Labs/anything-llm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 67213 --> 67627
+    line [67247, 67324, 67397, 67447, 67487, 67514, 67540, 67593]
 ```
 
-2026-10-18 67,247 → 2026-10-26 67,540（+293）
+2026-10-18 67,247 → 2026-10-27 67,593（+346）
 
 
 ---

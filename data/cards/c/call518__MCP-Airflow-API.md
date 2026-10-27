@@ -1,6 +1,6 @@
 # call518/MCP-Airflow-API
 
-⭐ 52 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/call518/MCP-Airflow-API) · [官网](https://deepwiki.com/call518/MCP-Airflow-API) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/call518/MCP-Airflow-API) · [官网](https://deepwiki.com/call518/MCP-Airflow-API) · 个人维护
 
 **用自然语言管理 Apache Airflow 的 MCP 服务器**
 
@@ -45,12 +45,12 @@ MCP-Airflow-API 是将 Apache Airflow REST API 操作封装为自然语言工具
 ```mermaid
 xychart-beta
     title "call518/MCP-Airflow-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 52（+0）
 
 
 ---

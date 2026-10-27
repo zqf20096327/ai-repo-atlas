@@ -1,6 +1,6 @@
 # xu-xiang/everything-claude-code-zh
 
-⭐ 2,001 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/xu-xiang/everything-claude-code-zh) · [官网](https://oneskill.one) · 个人维护 · 中文 README
+⭐ 2,002 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/xu-xiang/everything-claude-code-zh) · [官网](https://oneskill.one) · 个人维护 · 中文 README
 
 **Claude Code 配置系统的中文翻译：智能体/技能/钩子/命令/规则集合**
 
@@ -46,12 +46,12 @@ everything-claude-code 的中文翻译项目，收录为 AI 智能体框架打�
 ```mermaid
 xychart-beta
     title "xu-xiang/everything-claude-code-zh 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1993 --> 2002
-    line [1994, 1996, 1999, 2001, 2001]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 1993 --> 2003
+    line [1994, 1996, 1999, 2001, 2002]
 ```
 
-2026-10-18 1,994 → 2026-10-26 2,001（+7）
+2026-10-18 1,994 → 2026-10-27 2,002（+8）
 
 
 ---

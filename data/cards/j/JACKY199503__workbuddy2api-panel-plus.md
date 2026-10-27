@@ -1,6 +1,6 @@
 # JACKY199503/workbuddy2api-panel-plus
 
-⭐ 31 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/JACKY199503/workbuddy2api-panel-plus) · [官网](https://github.com/JACKY199503/workbuddy2api-panel-plus) · 个人维护 · 中文 README
+⭐ 32 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/JACKY199503/workbuddy2api-panel-plus) · [官网](https://github.com/JACKY199503/workbuddy2api-panel-plus) · 个人维护 · 中文 README
 
 **把 CodeBuddy 账号变成 OpenAI 兼容 API 的多账号网关增强版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JACKY199503/workbuddy2api-panel-plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 29 --> 33
-    line [31, 30, 32, 31, 31]
+    line [31, 30, 32, 31, 32]
 ```
 
-2026-10-18 31 → 2026-10-26 31（+0）
+2026-10-18 31 → 2026-10-27 32（+1）
 
 
 ---

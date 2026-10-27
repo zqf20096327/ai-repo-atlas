@@ -1,6 +1,6 @@
 # nfstream/nfstream
 
-⭐ 1,224 · Python · LGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/nfstream/nfstream) · [官网](https://www.nfstream.org) · 组织维护
+⭐ 1,223 · Python · LGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/nfstream/nfstream) · [官网](https://www.nfstream.org) · 组织维护
 
 **网络流量分析框架： pcap/实时流量提取流特征与数据集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nfstream/nfstream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 1223 --> 1225
-    line [1224, 1224]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 1222 --> 1225
+    line [1224, 1223]
 ```
 
-2026-10-18 1,224 → 2026-10-26 1,224（+0）
+2026-10-18 1,224 → 2026-10-27 1,223（-1）
 
 
 ---

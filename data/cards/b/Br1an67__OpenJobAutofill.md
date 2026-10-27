@@ -1,6 +1,6 @@
 # Br1an67/OpenJobAutofill
 
-⭐ 119 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Br1an67/OpenJobAutofill) · 个人维护 · 中文 README
+⭐ 120 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Br1an67/OpenJobAutofill) · 个人维护 · 中文 README
 
 **隐私优先的网申表单自动填写浏览器扩展，AI 可选辅助字段理解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Br1an67/OpenJobAutofill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 115 --> 120
-    line [116, 117, 118, 119, 119]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 115 --> 121
+    line [116, 117, 118, 119, 120]
 ```
 
-2026-10-18 116 → 2026-10-26 119（+3）
+2026-10-18 116 → 2026-10-27 120（+4）
 
 
 ---

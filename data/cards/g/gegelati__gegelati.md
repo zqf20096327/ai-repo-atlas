@@ -1,6 +1,6 @@
 # gegelati/gegelati
 
-⭐ 50 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/gegelati/gegelati) · 组织维护
+⭐ 50 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gegelati/gegelati) · 组织维护
 
 **C++ 强化学习框架：基于 TPG 训练智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gegelati/gegelati 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 48 --> 51
     line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-26 50（+1）
+2026-10-18 49 → 2026-10-27 50（+1）
 
 
 ---

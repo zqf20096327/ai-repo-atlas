@@ -1,6 +1,6 @@
 # microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
 
-⭐ 8,164 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) · 组织维护
+⭐ 8,167 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) · 组织维护
 
 **微软出品的 GitHub Copilot AI 结对编程多模块课程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 8156 --> 8167
-    line [8157, 8161, 8163, 8166, 8165, 8164]
+    title "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 8156 --> 8168
+    line [8157, 8161, 8163, 8166, 8165, 8164, 8167]
 ```
 
-2026-10-18 8,157 → 2026-10-26 8,164（+7）
+2026-10-18 8,157 → 2026-10-27 8,167（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # zai-org/Synapse
 
-⭐ 496 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zai-org/Synapse) · [官网](https://synapse-zai-org.vercel.app/) · 组织维护 · 中文 README
+⭐ 505 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zai-org/Synapse) · [官网](https://synapse-zai-org.vercel.app/) · 组织维护 · 中文 README
 
 **自托管的共享 AI 队友工作台：对话即协作边界**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/Synapse 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 459 --> 499
-    line [462, 463, 472, 480, 487, 496]
+    title "zai-org/Synapse 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 458 --> 509
+    line [462, 463, 472, 480, 487, 496, 505]
 ```
 
-2026-10-18 462 → 2026-10-26 496（+34）
+2026-10-18 462 → 2026-10-27 505（+43）
 
 
 ---

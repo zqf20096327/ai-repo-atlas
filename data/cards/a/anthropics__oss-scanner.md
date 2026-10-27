@@ -1,6 +1,6 @@
 # anthropics/oss-scanner
 
-⭐ 1,515 · Dockerfile · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/anthropics/oss-scanner) · 组织维护
+⭐ 1,568 · Dockerfile · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/anthropics/oss-scanner) · 组织维护
 
 **开源仓库安全扫描服务的报名配置仓库（Anthropic 运营）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/oss-scanner 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1041 --> 1558
-    line [1084, 1139, 1403, 1447, 1480, 1493, 1515]
+    title "anthropics/oss-scanner 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1036 --> 1616
+    line [1084, 1139, 1403, 1447, 1480, 1493, 1515, 1568]
 ```
 
-2026-10-18 1,084 → 2026-10-26 1,515（+431）
+2026-10-18 1,084 → 2026-10-27 1,568（+484）
 
 
 ---

@@ -1,6 +1,6 @@
 # eclypse-org/eclypse
 
-⭐ 39 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eclypse-org/eclypse) · [官网](https://eclypse.readthedocs.io) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/eclypse-org/eclypse) · [官网](https://eclypse.readthedocs.io) · 组织维护
 
 **云-边连续体仿真与模拟的 Python 实验平台**
 
@@ -45,12 +45,12 @@ ECLYPSE 是一个纯 Python 编写的仿真库，用于在变化的基础设施�
 ```mermaid
 xychart-beta
     title "eclypse-org/eclypse 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-26 39（+0）
+2026-10-18 39 → 2026-10-27 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pnnl/neuromancer
 
-⭐ 1,384 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pnnl/neuromancer) · [官网](https://pnnl.github.io/neuromancer/) · 组织维护
+⭐ 1,385 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pnnl/neuromancer) · [官网](https://pnnl.github.io/neuromancer/) · 组织维护
 
 **PyTorch 可微编程库：求解参数化优化、系统辨识与预测控制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pnnl/neuromancer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 1381 --> 1385
-    line [1383, 1382, 1383, 1384, 1384]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 1381 --> 1386
+    line [1383, 1382, 1383, 1384, 1385]
 ```
 
-2026-10-18 1,383 → 2026-10-26 1,384（+1）
+2026-10-18 1,383 → 2026-10-27 1,385（+2）
 
 
 ---

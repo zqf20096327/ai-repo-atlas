@@ -1,6 +1,6 @@
 # gaganmanku96/Finding-missing-person-using-AI
 
-⭐ 654 · Python · 推送 2026-03-13 · [GitHub](https://github.com/gaganmanku96/Finding-missing-person-using-AI) · 个人维护
+⭐ 656 · Python · 推送 2026-03-13 · [GitHub](https://github.com/gaganmanku96/Finding-missing-person-using-AI) · 个人维护
 
 **面向失踪人口报案与目击比对人脸识别 Web 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaganmanku96/Finding-missing-person-using-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 653 --> 656
-    line [655, 654, 654]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 653 --> 657
+    line [655, 654, 656]
 ```
 
-2026-10-18 655 → 2026-10-26 654（-1）
+2026-10-18 655 → 2026-10-27 656（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cssmagic/Awesome-AI
 
-⭐ 303 · 推送 2026-10-22 · [GitHub](https://github.com/cssmagic/Awesome-AI) · 个人维护 · 中文 README
+⭐ 304 · 推送 2026-10-26 · [GitHub](https://github.com/cssmagic/Awesome-AI) · 个人维护 · 中文 README
 
 **生成式 AI 资料清单：汇总 LLM、AI 编程、绘画音视频工具入口**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cssmagic/Awesome-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 299 --> 304
-    line [300, 302, 303, 303]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 299 --> 305
+    line [300, 302, 303, 304]
 ```
 
-2026-10-18 300 → 2026-10-26 303（+3）
+2026-10-18 300 → 2026-10-27 304（+4）
 
 
 ---

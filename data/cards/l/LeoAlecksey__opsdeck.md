@@ -1,6 +1,6 @@
 # LeoAlecksey/opsdeck
 
-⭐ 201 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LeoAlecksey/opsdeck) · [官网](https://leoalecksey.github.io/opsdeck/) · 个人维护
+⭐ 202 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LeoAlecksey/opsdeck) · [官网](https://leoalecksey.github.io/opsdeck/) · 个人维护
 
 **DevOps 工程师一体化桌面驾驶舱：终端+AI+K8s+数据库+IDE**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LeoAlecksey/opsdeck 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 192 --> 202
-    line [193, 198, 199, 201, 201]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 192 --> 203
+    line [193, 198, 199, 201, 202]
 ```
 
-2026-10-18 193 → 2026-10-26 201（+8）
+2026-10-18 193 → 2026-10-27 202（+9）
 
 
 ---

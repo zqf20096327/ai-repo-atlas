@@ -1,6 +1,6 @@
 # phil65/agentpool
 
-⭐ 198 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/phil65/agentpool) · [官网](https://phil65.github.io/agentpool/) · 个人维护
+⭐ 199 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/phil65/agentpool) · [官网](https://phil65.github.io/agentpool/) · 个人维护
 
 **用 YAML 统一编排多 AI agent 并以标准协议暴露的枢纽**
 
@@ -47,12 +47,12 @@ AgentPool 是一个 agent 编排中心：在单个 YAML 文件中定义原生（
 ```mermaid
 xychart-beta
     title "phil65/agentpool 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 196 --> 199
-    line [197, 198, 198]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 196 --> 200
+    line [197, 198, 199]
 ```
 
-2026-10-18 197 → 2026-10-26 198（+1）
+2026-10-18 197 → 2026-10-27 199（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/TWL300-AI-Apps-and-agents
 
-⭐ 46 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/TWL300-AI-Apps-and-agents) · [官网](https://microsoft.github.io/TWL300-AI-Apps-and-agents/) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TWL300-AI-Apps-and-agents) · [官网](https://microsoft.github.io/TWL300-AI-Apps-and-agents/) · 组织维护
 
 **微软教学实验：用 Microsoft Foundry 构建与测试 AI 应用和 agent**
 
@@ -43,12 +43,12 @@ Microsoft 维护的动手实验（lab）仓库，教授如何基于 Microsoft Fo
 ```mermaid
 xychart-beta
     title "microsoft/TWL300-AI-Apps-and-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-26 46（+0）
+2026-10-18 46 → 2026-10-27 46（+0）
 
 
 ---

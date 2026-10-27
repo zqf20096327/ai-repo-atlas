@@ -1,6 +1,6 @@
 # alibaba/page-agent
 
-⭐ 29,562 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
+⭐ 29,570 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
 
 **网页内嵌 JS GUI agent：让任意网页支持自然语言控制**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/page-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 29455 --> 29571
-    line [29464, 29509, 29531, 29548, 29557, 29558, 29562]
+    title "alibaba/page-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 29454 --> 29580
+    line [29464, 29509, 29531, 29548, 29557, 29558, 29562, 29570]
 ```
 
-2026-10-18 29,464 → 2026-10-26 29,562（+98）
+2026-10-18 29,464 → 2026-10-27 29,570（+106）
 
 
 ---

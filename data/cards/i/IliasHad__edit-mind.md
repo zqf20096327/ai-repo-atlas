@@ -1,6 +1,6 @@
 # IliasHad/edit-mind
 
-⭐ 1,816 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/IliasHad/edit-mind) · [官网](https://orcah.app) · 个人维护
+⭐ 1,818 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/IliasHad/edit-mind) · [官网](https://orcah.app) · 个人维护
 
 **本地自托管视频知识库：索引视频并用自然语言检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IliasHad/edit-mind 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1813 --> 1818
-    line [1814, 1815, 1816, 1817, 1816]
+    title "IliasHad/edit-mind 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1813 --> 1819
+    line [1814, 1815, 1816, 1817, 1816, 1818]
 ```
 
-2026-10-18 1,814 → 2026-10-26 1,816（+2）
+2026-10-18 1,814 → 2026-10-27 1,818（+4）
 
 
 ---

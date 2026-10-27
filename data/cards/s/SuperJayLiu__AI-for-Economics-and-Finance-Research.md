@@ -46,12 +46,12 @@ GitHub 原生的实用手册与资源库，指导经济学与金融学研究者�
 ```mermaid
 xychart-beta
     title "SuperJayLiu/AI-for-Economics-and-Finance-Research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 30（+0）
 
 
 ---

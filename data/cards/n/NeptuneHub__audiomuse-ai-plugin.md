@@ -1,6 +1,6 @@
 # NeptuneHub/audiomuse-ai-plugin
 
-⭐ 143 · C# · AGPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/NeptuneHub/audiomuse-ai-plugin) · 个人维护
+⭐ 144 · C# · AGPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/NeptuneHub/audiomuse-ai-plugin) · 个人维护
 
 **Jellyfin 插件：把 AudioMuse-AI 音乐分析功能接入媒体服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeptuneHub/audiomuse-ai-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 139 --> 144
-    line [140, 142, 143]
+    title "NeptuneHub/audiomuse-ai-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 139 --> 145
+    line [140, 142, 143, 144]
 ```
 
-2026-10-18 140 → 2026-10-26 143（+3）
+2026-10-18 140 → 2026-10-27 144（+4）
 
 
 ---

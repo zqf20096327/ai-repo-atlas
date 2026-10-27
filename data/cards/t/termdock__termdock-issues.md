@@ -1,6 +1,6 @@
 # termdock/termdock-issues
 
-⭐ 160 · Shell · 推送 2026-10-11 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护 · 中文 README
+⭐ 160 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护 · 中文 README
 
 **面向 AI 编码代理会话的 GPU 加速终端（macOS/Windows）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "termdock/termdock-issues 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 159 --> 161
     line [160, 160]
 ```
 
-2026-10-18 160 → 2026-10-26 160（+0）
+2026-10-18 160 → 2026-10-27 160（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lmstudio-ai/lmstudio-js
 
-⭐ 1,802 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lmstudio-ai/lmstudio-js) · [官网](https://www.npmjs.com/package/@lmstudio/sdk) · 组织维护
+⭐ 1,802 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lmstudio-ai/lmstudio-js) · [官网](https://www.npmjs.com/package/@lmstudio/sdk) · 组织维护
 
 **LM Studio 官方 TypeScript SDK：在 TS 中调用本地 LLM**
 
@@ -44,13 +44,13 @@ LM Studio 官方维护的 JavaScript/TypeScript 客户端 SDK，通过 LM Studio
 
 ```mermaid
 xychart-beta
-    title "lmstudio-ai/lmstudio-js 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "lmstudio-ai/lmstudio-js 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1794 --> 1803
-    line [1795, 1798, 1800, 1801, 1802]
+    line [1795, 1798, 1800, 1801, 1802, 1802]
 ```
 
-2026-10-18 1,795 → 2026-10-26 1,802（+7）
+2026-10-18 1,795 → 2026-10-27 1,802（+7）
 
 
 ---

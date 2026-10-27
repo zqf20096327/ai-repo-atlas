@@ -45,12 +45,12 @@ ComfyUI 自定义节点套件，含三个节点：Config Builder（可视化构�
 ```mermaid
 xychart-beta
     title "JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-26 105（+0）
+2026-10-18 105 → 2026-10-27 105（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # acids-ircam/RAVE
 
-⭐ 1,818 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/acids-ircam/RAVE) · 组织维护
+⭐ 1,819 · Python · NOASSERTION · 推送 2026-03-07 · [GitHub](https://github.com/acids-ircam/RAVE) · 组织维护
 
 **实时神经音频变分自编码器：训练/导出自定义音频生成模型**
 
@@ -46,13 +46,13 @@ RAVE 模型的官方实现，供音频/音乐研究者与创作者在自有音�
 
 ```mermaid
 xychart-beta
-    title "acids-ircam/RAVE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1815 --> 1819
-    line [1816, 1817, 1818]
+    title "acids-ircam/RAVE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1815 --> 1820
+    line [1816, 1817, 1818, 1819]
 ```
 
-2026-10-18 1,816 → 2026-10-26 1,818（+2）
+2026-10-18 1,816 → 2026-10-27 1,819（+3）
 
 
 ---

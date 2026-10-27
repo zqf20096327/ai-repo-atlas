@@ -1,6 +1,6 @@
 # nikuscs/orbs
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nikuscs/orbs) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nikuscs/orbs) · 个人维护
 
 **自托管多机器人 AI 群聊：多模型机器人共用聊天室**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nikuscs/orbs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 40 --> 48
-    line [41, 44, 46, 47]
+    title "nikuscs/orbs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 40 --> 51
+    line [41, 44, 46, 47, 50]
 ```
 
-2026-10-18 41 → 2026-10-26 47（+6）
+2026-10-18 41 → 2026-10-27 50（+9）
 
 
 ---

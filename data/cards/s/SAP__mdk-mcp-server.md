@@ -1,6 +1,6 @@
 # SAP/mdk-mcp-server
 
-⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/SAP/mdk-mcp-server) · 组织维护
+⭐ 38 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SAP/mdk-mcp-server) · 组织维护
 
 **面向 SAP MDK 开发的 MCP 服务器：让 AI 代理成为 MDK 开发专家**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SAP/mdk-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-26 38（+1）
+2026-10-18 37 → 2026-10-27 38（+1）
 
 
 ---

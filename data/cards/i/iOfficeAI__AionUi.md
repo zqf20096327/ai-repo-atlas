@@ -1,6 +1,6 @@
 # iOfficeAI/AionUi
 
-⭐ 33,761 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
+⭐ 33,797 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iOfficeAI/AionUi) · [官网](https://www.aionui.com) · 组织维护 · 中文 README
 
 **桌面 AI Agent 协作应用：内置 Agent 并接入 20+ CLI Agent**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "iOfficeAI/AionUi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 33582 --> 33777
-    line [33598, 33638, 33677, 33702, 33727, 33743, 33761]
+    title "iOfficeAI/AionUi 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 33579 --> 33816
+    line [33598, 33638, 33677, 33702, 33727, 33743, 33761, 33797]
 ```
 
-2026-10-18 33,598 → 2026-10-26 33,761（+163）
+2026-10-18 33,598 → 2026-10-27 33,797（+199）
 
 
 ---

@@ -46,12 +46,12 @@ ModsysML（modsys）是开源的模型响应评测工具箱：以 Python SDK 与
 ```mermaid
 xychart-beta
     title "cloudguruab/modsysML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-26 35（+0）
+2026-10-18 35 → 2026-10-27 35（+0）
 
 
 ---

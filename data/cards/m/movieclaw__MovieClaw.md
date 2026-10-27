@@ -1,6 +1,6 @@
 # movieclaw/MovieClaw
 
-⭐ 184 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/movieclaw/MovieClaw) · [官网](https://movieclaw.io) · 组织维护 · 中文 README
+⭐ 185 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/movieclaw/MovieClaw) · [官网](https://movieclaw.io) · 组织维护 · 中文 README
 
 **一体化家庭媒体服务器，内置 AI 代理替代 *arr 全家桶**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "movieclaw/MovieClaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 174 --> 185
-    line [175, 177, 180, 182, 184]
+    title "movieclaw/MovieClaw 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 174 --> 186
+    line [175, 177, 180, 182, 184, 185]
 ```
 
-2026-10-18 175 → 2026-10-26 184（+9）
+2026-10-18 175 → 2026-10-27 185（+10）
 
 
 ---

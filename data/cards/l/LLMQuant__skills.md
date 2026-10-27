@@ -1,6 +1,6 @@
 # LLMQuant/skills
 
-⭐ 234 · Shell · MIT · 推送 2026-05-30 · [GitHub](https://github.com/LLMQuant/skills) · [官网](https://llmquantdata.com/agent) · 组织维护 · 中文 README
+⭐ 235 · Shell · MIT · 推送 2026-05-30 · [GitHub](https://github.com/LLMQuant/skills) · [官网](https://llmquantdata.com/agent) · 组织维护 · 中文 README
 
 **面向金融 Agent 的技能目录：18 类工作流接入 LLMQuant Data**
 
@@ -45,12 +45,12 @@ LLMQuant 维护的金融 agent 技能目录仓库：以类别文件夹为安装�
 ```mermaid
 xychart-beta
     title "LLMQuant/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 233 --> 235
-    line [234, 234]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 233 --> 236
+    line [234, 235]
 ```
 
-2026-10-18 234 → 2026-10-26 234（+0）
+2026-10-18 234 → 2026-10-27 235（+1）
 
 
 ---

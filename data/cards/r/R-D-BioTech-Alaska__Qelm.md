@@ -1,6 +1,6 @@
 # R-D-BioTech-Alaska/Qelm
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/R-D-BioTech-Alaska/Qelm) · [官网](https://www.Qelm.org) · 个人维护
+⭐ 27 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/R-D-BioTech-Alaska/Qelm) · [官网](https://www.Qelm.org) · 个人维护
 
 **量子增强生成式语言模型框架：用量子电路做语言建模与训练**
 
@@ -46,12 +46,12 @@ QELM 是围绕可训练量子电路构建的完整语言模型框架，包含 to
 ```mermaid
 xychart-beta
     title "R-D-BioTech-Alaska/Qelm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-26 27（+0）
+2026-10-18 27 → 2026-10-27 27（+0）
 
 
 ---

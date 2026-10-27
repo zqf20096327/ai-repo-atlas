@@ -1,6 +1,6 @@
 # 520huxiangli/Aharou
 
-⭐ 29 · Kotlin · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/520huxiangli/Aharou) · 个人维护 · 中文 README
+⭐ 29 · Kotlin · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/520huxiangli/Aharou) · 个人维护 · 中文 README
 
 **手机上的 AI 助手与 Coding Agent，内置 Linux 环境**
 
@@ -45,13 +45,13 @@ Android 平台的 AI 助手与 Coding Agent 应用，以 Kotlin/Jetpack Compose 
 
 ```mermaid
 xychart-beta
-    title "520huxiangli/Aharou 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26"]
+    title "520huxiangli/Aharou 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 24 --> 30
-    line [25, 26, 27, 28, 29]
+    line [25, 26, 27, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-10-26 29（+4）
+2026-10-18 25 → 2026-10-27 29（+4）
 
 
 ---

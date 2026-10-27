@@ -1,6 +1,6 @@
 # trefeon/pi-freeflow
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/trefeon/pi-freeflow) · [官网](https://pi.dev/packages/pi-freeflow) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/trefeon/pi-freeflow) · [官网](https://pi.dev/packages/pi-freeflow) · 个人维护
 
 **为 Pi/Oh My Pi 提供 37 个免费模型与中继代理的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trefeon/pi-freeflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "trefeon/pi-freeflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 77 --> 103
-    line [79, 89, 93, 95, 99, 101]
+    line [79, 89, 93, 95, 99, 101, 101]
 ```
 
-2026-10-18 79 → 2026-10-26 101（+22）
+2026-10-18 79 → 2026-10-27 101（+22）
 
 
 ---

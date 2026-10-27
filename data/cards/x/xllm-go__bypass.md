@@ -1,6 +1,6 @@
 # xllm-go/bypass
 
-⭐ 1,244 · Go · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xllm-go/bypass) · [官网](https://xllm-go.github.io/bypass) · 个人维护 · 中文 README
+⭐ 1,243 · Go · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xllm-go/bypass) · [官网](https://xllm-go.github.io/bypass) · 个人维护 · 中文 README
 
 **将多款 AI 聊天逆向接口适配为 OpenAI 标准接口的服务端**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xllm-go/bypass 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1243 --> 1247
-    line [1246, 1245, 1244, 1244]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 1242 --> 1247
+    line [1246, 1245, 1244, 1243]
 ```
 
-2026-10-18 1,246 → 2026-10-26 1,244（-2）
+2026-10-18 1,246 → 2026-10-27 1,243（-3）
 
 
 ---

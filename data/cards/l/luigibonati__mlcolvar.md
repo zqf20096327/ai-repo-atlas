@@ -1,6 +1,6 @@
 # luigibonati/mlcolvar
 
-⭐ 147 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/luigibonati/mlcolvar) · 组织维护
+⭐ 147 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/luigibonati/mlcolvar) · 组织维护
 
 **供模拟开发者设计数据驱动集合变量的 Python 库**
 
@@ -45,12 +45,12 @@ mlcolvar 是面向增强采样分子模拟的 Python 库，用于设计数据驱
 ```mermaid
 xychart-beta
     title "luigibonati/mlcolvar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
     y-axis "stars" 144 --> 148
     line [145, 146, 147, 147]
 ```
 
-2026-10-18 145 → 2026-10-26 147（+2）
+2026-10-18 145 → 2026-10-27 147（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # surya-koritala/condor
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/surya-koritala/condor) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/surya-koritala/condor) · 个人维护
 
 **单张 12-16GB NVIDIA GPU 本地运行 180B MoE 模型的自研推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "surya-koritala/condor 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 28 --> 34
-    line [30, 29, 31, 32, 33]
+    title "surya-koritala/condor 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 28 --> 35
+    line [30, 29, 31, 32, 33, 34]
 ```
 
-2026-10-22 30 → 2026-10-26 33（+3）
+2026-10-22 30 → 2026-10-27 34（+4）
 
 
 ---

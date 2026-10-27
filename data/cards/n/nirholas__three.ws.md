@@ -1,6 +1,6 @@
 # nirholas/three.ws
 
-⭐ 249 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nirholas/three.ws) · [官网](https://three.ws) · 组织维护
+⭐ 250 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nirholas/three.ws) · [官网](https://three.ws) · 组织维护
 
 **浏览器端 3D AI agent 平台：文本/图片生成可动 GLB 虚拟形象并嵌入网页**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/three.ws 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 238 --> 250
-    line [239, 241, 247, 249, 249]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 238 --> 251
+    line [239, 241, 247, 249, 250]
 ```
 
-2026-10-18 239 → 2026-10-26 249（+10）
+2026-10-18 239 → 2026-10-27 250（+11）
 
 
 ---

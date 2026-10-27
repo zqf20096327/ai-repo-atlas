@@ -1,6 +1,6 @@
 # google/agents-cli
 
-⭐ 6,172 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/agents-cli) · [官网](https://google.github.io/agents-cli/) · 组织维护
+⭐ 6,179 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/agents-cli) · [官网](https://google.github.io/agents-cli/) · 组织维护
 
 **让编程助手具备 Google Cloud ADK 智能体构建/评测/部署能力的 CLI 与技能包**
 
@@ -44,13 +44,13 @@ Google 官方维护的 CLI 与 agent 技能集合，配合 Antigravity CLI、Cla
 
 ```mermaid
 xychart-beta
-    title "google/agents-cli 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6091 --> 6179
-    line [6098, 6101, 6137, 6152, 6162, 6164, 6172]
+    title "google/agents-cli 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6090 --> 6187
+    line [6098, 6101, 6137, 6152, 6162, 6164, 6172, 6179]
 ```
 
-2026-10-18 6,098 → 2026-10-26 6,172（+74）
+2026-10-18 6,098 → 2026-10-27 6,179（+81）
 
 
 ---

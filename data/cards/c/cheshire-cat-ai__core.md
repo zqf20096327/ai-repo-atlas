@@ -1,6 +1,6 @@
 # cheshire-cat-ai/core
 
-⭐ 3,097 · Python · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cheshire-cat-ai/core) · [官网](https://cheshirecat.ai) · 组织维护
+⭐ 3,098 · Python · GPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/cheshire-cat-ai/core) · [官网](https://cheshirecat.ai) · 组织维护
 
 **教学与研究向的 AI agent 微服务框架（v2 alpha）**
 
@@ -44,12 +44,12 @@ Cheshire Cat AI（Stregatto）是一个用 Python 编写的 AI agent 微服务�
 ```mermaid
 xychart-beta
     title "cheshire-cat-ai/core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 3094 --> 3098
-    line [3095, 3096, 3097, 3097]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 3094 --> 3099
+    line [3095, 3096, 3097, 3098]
 ```
 
-2026-10-18 3,095 → 2026-10-26 3,097（+2）
+2026-10-18 3,095 → 2026-10-27 3,098（+3）
 
 
 ---

@@ -46,12 +46,12 @@ HOUZZkit AI HA 是「小瑞 Agent」智能音箱的 Home Assistant 自定义集�
 ```mermaid
 xychart-beta
     title "houzzkit/houzzkit-ai-ha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

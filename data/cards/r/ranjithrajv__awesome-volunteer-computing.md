@@ -1,6 +1,6 @@
 # ranjithrajv/awesome-volunteer-computing
 
-⭐ 35 · CC0-1.0 · 推送 2026-10-19 · [GitHub](https://github.com/ranjithrajv/awesome-volunteer-computing) · [官网](https://github.com/ranjithrajv/awesome-volunteer-computing) · 个人维护
+⭐ 35 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/ranjithrajv/awesome-volunteer-computing) · [官网](https://github.com/ranjithrajv/awesome-volunteer-computing) · 个人维护
 
 **志愿计算项目与平台策展清单：闲置算力捐给科研**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranjithrajv/awesome-volunteer-computing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-26 35（+1）
+2026-10-18 34 → 2026-10-27 35（+1）
 
 
 ---

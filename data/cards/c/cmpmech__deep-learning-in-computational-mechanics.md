@@ -44,12 +44,12 @@ Springer 2025 出版教材《Deep Learning in Computational Mechanics: An Introd
 ```mermaid
 xychart-beta
     title "cmpmech/deep-learning-in-computational-mechanics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-26 46（+1）
+2026-10-18 45 → 2026-10-27 46（+1）
 
 
 ---

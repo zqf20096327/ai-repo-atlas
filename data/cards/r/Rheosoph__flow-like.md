@@ -1,6 +1,6 @@
 # Rheosoph/flow-like
 
-⭐ 967 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Rheosoph/flow-like) · [官网](https://flow-like.com) · 组织维护
+⭐ 967 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Rheosoph/flow-like) · [官网](https://flow-like.com) · 组织维护
 
 **面向开发者团队的自托管低代码应用/自动化/AI 开发平台**
 
@@ -45,12 +45,12 @@ Flow-Like 是一个可自托管的开發平台，用 1,900+ 内置类型化节�
 ```mermaid
 xychart-beta
     title "Rheosoph/flow-like 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
     y-axis "stars" 961 --> 968
     line [962, 965, 967, 967]
 ```
 
-2026-10-18 962 → 2026-10-26 967（+5）
+2026-10-18 962 → 2026-10-27 967（+5）
 
 
 ---

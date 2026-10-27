@@ -1,6 +1,6 @@
 # 0xsline/OpenChatCut
 
-⭐ 2,672 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
+⭐ 2,690 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
 
 **开源本地优先的对话式 AI 视频编辑器，Agent 可直接编辑真实时间线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xsline/OpenChatCut 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2424 --> 2694
-    line [2446, 2530, 2584, 2614, 2642, 2654, 2672]
+    title "0xsline/OpenChatCut 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2422 --> 2714
+    line [2446, 2530, 2584, 2614, 2642, 2654, 2672, 2690]
 ```
 
-2026-10-18 2,446 → 2026-10-26 2,672（+226）
+2026-10-18 2,446 → 2026-10-27 2,690（+244）
 
 
 ---

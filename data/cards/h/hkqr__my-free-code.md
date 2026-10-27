@@ -1,6 +1,6 @@
 # hkqr/my-free-code
 
-⭐ 625 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hkqr/my-free-code) · 个人维护
+⭐ 628 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/hkqr/my-free-code) · 个人维护
 
 **面向编码代理的多供应商 AI 网关，支持路由与本地模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hkqr/my-free-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 623 --> 626
-    line [624, 625]
+    title "hkqr/my-free-code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 623 --> 629
+    line [624, 625, 628]
 ```
 
-2026-10-18 624 → 2026-10-26 625（+1）
+2026-10-18 624 → 2026-10-27 628（+4）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Curated-Awesome-Lists/awesome-ai-music-generation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    title "Curated-Awesome-Lists/awesome-ai-music-generation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
     y-axis "stars" 500 --> 504
-    line [501, 502, 503]
+    line [501, 502, 503, 503]
 ```
 
-2026-10-18 501 → 2026-10-26 503（+2）
+2026-10-18 501 → 2026-10-27 503（+2）
 
 
 ---

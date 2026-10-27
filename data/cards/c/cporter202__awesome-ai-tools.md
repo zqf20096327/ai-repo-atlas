@@ -1,6 +1,6 @@
 # cporter202/awesome-ai-tools
 
-⭐ 316 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/awesome-ai-tools) · 个人维护
+⭐ 317 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/awesome-ai-tools) · 个人维护
 
 **16 款精选 AI 工具策展清单：内容、变现、建站、自动化与语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cporter202/awesome-ai-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 305 --> 317
-    line [306, 310, 311, 312, 316]
+    title "cporter202/awesome-ai-tools 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 305 --> 318
+    line [306, 310, 311, 312, 316, 317]
 ```
 
-2026-10-18 306 → 2026-10-26 316（+10）
+2026-10-18 306 → 2026-10-27 317（+11）
 
 
 ---

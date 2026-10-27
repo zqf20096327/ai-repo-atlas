@@ -1,6 +1,6 @@
 # zephyr4123/speakmore
 
-⭐ 154 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zephyr4123/speakmore) · [官网](https://speakmore.zephyrxiang.com) · 个人维护 · 中文 README
+⭐ 155 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zephyr4123/speakmore) · [官网](https://speakmore.zephyrxiang.com) · 个人维护 · 中文 README
 
 **面向普通用户的语音输入与划词翻译桌面工具（Mac/Windows）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zephyr4123/speakmore 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 143 --> 155
-    line [144, 151, 154]
+    title "zephyr4123/speakmore 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 143 --> 156
+    line [144, 151, 154, 155]
 ```
 
-2026-10-24 144 → 2026-10-26 154（+10）
+2026-10-24 144 → 2026-10-27 155（+11）
 
 
 ---

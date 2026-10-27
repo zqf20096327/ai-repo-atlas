@@ -1,6 +1,6 @@
 # xuhan-rgb/zotero-ai-sidebar
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/xuhan-rgb/zotero-ai-sidebar) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/xuhan-rgb/zotero-ai-sidebar) · 个人维护 · 中文 README
 
 **Zotero 内置的论文 AI 研究助手侧栏插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xuhan-rgb/zotero-ai-sidebar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
     y-axis "stars" 31 --> 35
     line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-10-26 34（+2）
+2026-10-18 32 → 2026-10-27 34（+2）
 
 
 ---

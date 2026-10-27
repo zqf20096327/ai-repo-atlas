@@ -1,6 +1,6 @@
 # vllm-project/vllm-torchtpu
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/vllm-project/vllm-torchtpu) · [官网](https://vllm-torchtpu.readthedocs.io/) · 组织维护
+⭐ 114 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/vllm-torchtpu) · [官网](https://vllm-torchtpu.readthedocs.io/) · 组织维护
 
 **vLLM 的 PyTorch 原生 TPU 后端插件**
 
@@ -44,13 +44,13 @@ vLLM 的 out-of-tree 平台插件，打包为 vllm-torchtpu，通过 TorchTPU（
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-torchtpu 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 57 --> 118
-    line [62, 83, 99, 107, 112, 113]
+    title "vllm-project/vllm-torchtpu 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 57 --> 119
+    line [62, 83, 99, 107, 112, 113, 114]
 ```
 
-2026-10-19 62 → 2026-10-26 113（+51）
+2026-10-19 62 → 2026-10-27 114（+52）
 
 
 ---

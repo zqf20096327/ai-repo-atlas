@@ -1,6 +1,6 @@
 # speedyk-005/chunklet-py
 
-⭐ 88 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/speedyk-005/chunklet-py) · [官网](https://speedyk-005.github.io/chunklet-py/latest) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/speedyk-005/chunklet-py) · [官网](https://speedyk-005.github.io/chunklet-py/latest) · 个人维护
 
 **面向 RAG/LLM 的文本、代码与文档智能分块 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "speedyk-005/chunklet-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

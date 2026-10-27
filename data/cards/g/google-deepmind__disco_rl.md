@@ -1,6 +1,6 @@
 # google-deepmind/disco_rl
 
-⭐ 745 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/google-deepmind/disco_rl) · [官网](https://google-deepmind.github.io/disco_rl) · 组织维护
+⭐ 747 · Python · Apache-2.0 · 推送 2025-12-02 · [GitHub](https://github.com/google-deepmind/disco_rl) · [官网](https://google-deepmind.github.io/disco_rl) · 组织维护
 
 **DiscoRL 论文配套代码：JAX 复现与元学习强化学习更新规则**
 
@@ -45,12 +45,12 @@ Google DeepMind 发布的 Nature 论文《Discovering State-of-the-art Reinforce
 ```mermaid
 xychart-beta
     title "google-deepmind/disco_rl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 743 --> 746
-    line [744, 745, 745]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 743 --> 748
+    line [744, 745, 747]
 ```
 
-2026-10-18 744 → 2026-10-26 745（+1）
+2026-10-18 744 → 2026-10-27 747（+3）
 
 
 ---

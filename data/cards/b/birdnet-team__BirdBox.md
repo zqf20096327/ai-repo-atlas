@@ -1,6 +1,6 @@
 # birdnet-team/BirdBox
 
-⭐ 44 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/birdnet-team/BirdBox) · [官网](https://birdnet-team.github.io/BirdBox/) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/birdnet-team/BirdBox) · [官网](https://birdnet-team.github.io/BirdBox/) · 组织维护
 
 **基于 YOLO 频谱图目标检测的鸟类鸣声检测与评估系统**
 
@@ -45,12 +45,12 @@ BirdBox 使用深度学习检测音频录音中的鸟类鸣声：将音频转为
 ```mermaid
 xychart-beta
     title "birdnet-team/BirdBox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-10-26 44（+1）
+2026-10-18 43 → 2026-10-27 45（+2）
 
 
 ---

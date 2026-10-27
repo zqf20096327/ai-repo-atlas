@@ -1,6 +1,6 @@
 # ydflow/research-trail
 
-⭐ 34 · Python · 推送 2026-10-16 · [GitHub](https://github.com/ydflow/research-trail) · [官网](https://github.com/ydflow/research-trail/releases/tag/v1.0.0) · 组织维护 · 中文 README
+⭐ 35 · Python · 推送 2026-10-16 · [GitHub](https://github.com/ydflow/research-trail) · [官网](https://github.com/ydflow/research-trail/releases/tag/v1.0.0) · 组织维护 · 中文 README
 
 **给个人投资研究者的本地 AI 研究工作台，研究有据、判断留痕**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ydflow/research-trail 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 33 --> 37
-    line [36, 34, 34]
+    line [36, 34, 35]
 ```
 
-2026-10-18 36 → 2026-10-26 34（-2）
+2026-10-18 36 → 2026-10-27 35（-1）
 
 
 ---

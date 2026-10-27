@@ -1,6 +1,6 @@
 # multigroupco/DMG-Data-Science-Awesome
 
-⭐ 527 · MIT · 推送 2026-05-11 · [GitHub](https://github.com/multigroupco/DMG-Data-Science-Awesome) · 组织维护
+⭐ 528 · MIT · 推送 2026-05-11 · [GitHub](https://github.com/multigroupco/DMG-Data-Science-Awesome) · 组织维护
 
 **数据科学学习资源清单：土耳其语的学习路线与教程合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "multigroupco/DMG-Data-Science-Awesome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 526 --> 528
-    line [527, 527]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 526 --> 529
+    line [527, 528]
 ```
 
-2026-10-18 527 → 2026-10-26 527（+0）
+2026-10-18 527 → 2026-10-27 528（+1）
 
 
 ---

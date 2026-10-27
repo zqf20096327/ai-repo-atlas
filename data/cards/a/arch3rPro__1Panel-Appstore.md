@@ -1,6 +1,6 @@
 # arch3rPro/1Panel-Appstore
 
-⭐ 222 · CSS · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arch3rPro/1Panel-Appstore) · [官网](https://arch3rpro.github.io/appstore) · 个人维护 · 中文 README
+⭐ 223 · CSS · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arch3rPro/1Panel-Appstore) · [官网](https://arch3rpro.github.io/appstore) · 个人维护 · 中文 README
 
 **1Panel 第三方应用商店：精选自托管应用的一键部署合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arch3rPro/1Panel-Appstore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 219 --> 223
-    line [220, 221, 222, 222]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 219 --> 224
+    line [220, 221, 222, 223]
 ```
 
-2026-10-18 220 → 2026-10-26 222（+2）
+2026-10-18 220 → 2026-10-27 223（+3）
 
 
 ---

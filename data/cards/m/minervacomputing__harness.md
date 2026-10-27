@@ -1,6 +1,6 @@
 # minervacomputing/harness
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/minervacomputing/harness) · [官网](https://minervacomputing.com) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/minervacomputing/harness) · [官网](https://minervacomputing.com) · 个人维护
 
 **面向敏感数据与关键业务的受控 AI agent 运行引擎**
 
@@ -44,13 +44,13 @@ Minerva 的开源 harness：在 Cloudflare 上运行 agent 回合的引擎，含
 
 ```mermaid
 xychart-beta
-    title "minervacomputing/harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "minervacomputing/harness 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 23 --> 28
-    line [24, 25, 27, 26, 27, 26, 27]
+    line [24, 25, 27, 26, 27, 26, 27, 27]
 ```
 
-2026-10-18 24 → 2026-10-26 27（+3）
+2026-10-18 24 → 2026-10-27 27（+3）
 
 
 ---

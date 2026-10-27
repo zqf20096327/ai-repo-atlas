@@ -1,6 +1,6 @@
 # huggingface/agentcap
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agentcap) · 组织维护
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/agentcap) · 组织维护
 
 **采集、分析并导出编码 agent 会话的运行框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/agentcap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37]
 ```
 
-2026-10-18 35 → 2026-10-26 36（+1）
+2026-10-18 35 → 2026-10-27 37（+2）
 
 
 ---

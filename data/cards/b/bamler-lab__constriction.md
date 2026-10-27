@@ -45,12 +45,12 @@ constriction 提供一组可组合的熵编码算法（ANS、Range Coding、实�
 ```mermaid
 xychart-beta
     title "bamler-lab/constriction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 110 --> 112
     line [111, 111]
 ```
 
-2026-10-18 111 → 2026-10-26 111（+0）
+2026-10-18 111 → 2026-10-27 111（+0）
 
 
 ---

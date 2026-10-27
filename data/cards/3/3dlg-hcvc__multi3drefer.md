@@ -1,6 +1,6 @@
 # 3dlg-hcvc/multi3drefer
 
-⭐ 98 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/3dlg-hcvc/multi3drefer) · [官网](https://3dlg-hcvc.github.io/multi3drefer/) · 组织维护
+⭐ 99 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/3dlg-hcvc/multi3drefer) · [官网](https://3dlg-hcvc.github.io/multi3drefer/) · 组织维护
 
 **3D 视觉定位研究代码：文本描述定位多个 3D 物体**
 
@@ -44,12 +44,12 @@ ICCV 2023 论文 Multi3DRefer 的官方 PyTorch 实现（M3DRef-CLIP）：将自
 ```mermaid
 xychart-beta
     title "3dlg-hcvc/multi3drefer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 97 --> 100
+    line [98, 99]
 ```
 
-2026-10-18 98 → 2026-10-26 98（+0）
+2026-10-18 98 → 2026-10-27 99（+1）
 
 
 ---

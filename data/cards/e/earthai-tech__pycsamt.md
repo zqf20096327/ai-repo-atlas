@@ -1,6 +1,6 @@
 # earthai-tech/pycsamt
 
-⭐ 43 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/earthai-tech/pycsamt) · [官网](https://pycsamt.org) · 组织维护
+⭐ 44 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/earthai-tech/pycsamt) · [官网](https://pycsamt.org) · 组织维护
 
 **电磁法地球物理全流程工具包：数据处理到反演与解释**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "earthai-tech/pycsamt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 43, 44]
 ```
 
-2026-10-18 41 → 2026-10-26 43（+2）
+2026-10-18 41 → 2026-10-27 44（+3）
 
 
 ---

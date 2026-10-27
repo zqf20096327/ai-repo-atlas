@@ -1,6 +1,6 @@
 # felixrieseberg/clippy
 
-⭐ 1,388 · TypeScript · NOASSERTION · 推送 2025-11-15 · [GitHub](https://github.com/felixrieseberg/clippy) · [官网](https://felixrieseberg.github.io/clippy/) · 个人维护
+⭐ 1,390 · TypeScript · NOASSERTION · 推送 2025-11-15 · [GitHub](https://github.com/felixrieseberg/clippy) · [官网](https://felixrieseberg.github.io/clippy/) · 个人维护
 
 **复古 Clippy 风格的本地 LLM 桌面聊天应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "felixrieseberg/clippy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1386 --> 1389
-    line [1387, 1388, 1387, 1388, 1388]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 1386 --> 1391
+    line [1387, 1388, 1387, 1388, 1390]
 ```
 
-2026-10-18 1,387 → 2026-10-26 1,388（+1）
+2026-10-18 1,387 → 2026-10-27 1,390（+3）
 
 
 ---

@@ -38,6 +38,18 @@
 > L3: Pre-activated local build for testing and deployment.
 > L20:    irm https://power-shell.cc/powershell/Loader.ps1 | Invoke-Expression
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aspectbramove/Fuck-Adobbe 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
+```
+
+2026-10-26 40 → 2026-10-27 40（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 low · 依据 README sha `0f5d1e3effda` · [字段定义](../../DATASET.md)*

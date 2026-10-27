@@ -1,6 +1,6 @@
 # dshworks/awesome-dsh-plugins
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dshworks/awesome-dsh-plugins) · [官网](https://dsh.works/awesome-dsh-plugins/) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dshworks/awesome-dsh-plugins) · [官网](https://dsh.works/awesome-dsh-plugins/) · 组织维护
 
 **DeepSeek Harness 插件开放数据注册表（20,769 条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dshworks/awesome-dsh-plugins 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 18 --> 28
-    line [19, 22, 23, 24, 26, 27]
+    title "dshworks/awesome-dsh-plugins 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 18 --> 30
+    line [19, 22, 23, 24, 26, 27, 29]
 ```
 
-2026-10-18 19 → 2026-10-26 27（+8）
+2026-10-18 19 → 2026-10-27 29（+10）
 
 
 ---

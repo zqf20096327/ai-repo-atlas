@@ -1,6 +1,6 @@
 # apoorvdarshan/fud-ai
 
-⭐ 494 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 个人维护
+⭐ 496 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 个人维护
 
 **面向消费者的开源 AI 卡路里与运动追踪 App（iOS/Android）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apoorvdarshan/fud-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 476 --> 495
-    line [477, 483, 487, 489, 490, 494]
+    title "apoorvdarshan/fud-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 476 --> 497
+    line [477, 483, 487, 489, 490, 494, 496]
 ```
 
-2026-10-18 477 → 2026-10-26 494（+17）
+2026-10-18 477 → 2026-10-27 496（+19）
 
 
 ---

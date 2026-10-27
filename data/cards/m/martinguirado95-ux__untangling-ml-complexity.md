@@ -1,6 +1,6 @@
 # martinguirado95-ux/untangling-ml-complexity
 
-⭐ 56 · HTML · 推送 2026-10-25 · [GitHub](https://github.com/martinguirado95-ux/untangling-ml-complexity) · 组织维护
+⭐ 56 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/martinguirado95-ux/untangling-ml-complexity) · 组织维护
 
 **面向研究者的机器学习实验结构化框架：防泄漏、可复现**
 
@@ -46,12 +46,12 @@ Python 机器学习框架 MLForge，以声明式 DAG 管道组织预处理、模
 ```mermaid
 xychart-beta
     title "martinguirado95-ux/untangling-ml-complexity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

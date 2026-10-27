@@ -1,6 +1,6 @@
 # amajorai/ryu
 
-⭐ 42 · HTML · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/amajorai/ryu) · [官网](https://ryuhq.com) · 组织维护
+⭐ 43 · HTML · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/amajorai/ryu) · [官网](https://ryuhq.com) · 组织维护
 
 **自托管 agent 运行时与编排基础设施，可接入现成 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amajorai/ryu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-10-26 42（+1）
+2026-10-18 41 → 2026-10-27 43（+2）
 
 
 ---

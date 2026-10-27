@@ -1,6 +1,6 @@
 # HeiGeAi/HeiGe-GEO-SEO
 
-⭐ 76 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HeiGeAi/HeiGe-GEO-SEO) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HeiGeAi/HeiGe-GEO-SEO) · 个人维护 · 中文 README
 
 **中国市场优先的 GEO+SEO 内容优化工具包：让内容被 AI 引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HeiGeAi/HeiGe-GEO-SEO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 74 --> 78
-    line [75, 76, 77, 76, 76]
+    line [75, 76, 77, 76, 77]
 ```
 
-2026-10-18 75 → 2026-10-26 76（+1）
+2026-10-18 75 → 2026-10-27 77（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ForeverToAI/AiPC
 
-⭐ 46 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ForeverToAI/AiPC) · [官网](https://aipc.sysik.mom) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/ForeverToAI/AiPC) · [官网](https://aipc.sysik.mom) · 个人维护
 
 **让 AI agent 通过 MCP 获得真实 PC 控制能力的本地服务**
 
@@ -44,13 +44,13 @@ AiPC 是本地服务加控制台工具，通过 MCP（Model Context Protocol）�
 
 ```mermaid
 xychart-beta
-    title "ForeverToAI/AiPC 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 29 --> 47
-    line [30, 36, 45, 46]
+    title "ForeverToAI/AiPC 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 29 --> 48
+    line [30, 36, 45, 46, 47]
 ```
 
-2026-10-18 30 → 2026-10-26 46（+16）
+2026-10-18 30 → 2026-10-27 47（+17）
 
 
 ---

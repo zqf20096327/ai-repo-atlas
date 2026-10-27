@@ -1,6 +1,6 @@
 # ilindaniel/ponytail-lite
 
-⭐ 225 · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ilindaniel/ponytail-lite) · 个人维护
+⭐ 228 · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ilindaniel/ponytail-lite) · 个人维护
 
 **单文件 AGENTS.md 规则：约束 AI agent 避免过度设计**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ilindaniel/ponytail-lite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 210 --> 226
-    line [211, 215, 223, 225, 223, 225]
+    title "ilindaniel/ponytail-lite 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 210 --> 229
+    line [211, 215, 223, 225, 223, 225, 228]
 ```
 
-2026-10-18 211 → 2026-10-26 225（+14）
+2026-10-18 211 → 2026-10-27 228（+17）
 
 
 ---

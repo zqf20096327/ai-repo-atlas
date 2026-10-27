@@ -1,6 +1,6 @@
 # Rimagination/bili-note
 
-⭐ 341 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Rimagination/bili-note) · 个人维护 · 中文 README
+⭐ 343 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Rimagination/bili-note) · 个人维护 · 中文 README
 
 **把 B 站视频/图文整理成学习型 Markdown 笔记的 Agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rimagination/bili-note 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 326 --> 342
-    line [327, 329, 330, 331, 333, 334, 341]
+    title "Rimagination/bili-note 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 326 --> 344
+    line [327, 329, 330, 331, 333, 334, 341, 343]
 ```
 
-2026-10-18 327 → 2026-10-26 341（+14）
+2026-10-18 327 → 2026-10-27 343（+16）
 
 
 ---

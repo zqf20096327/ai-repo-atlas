@@ -1,6 +1,6 @@
 # openakita/openakita
 
-⭐ 2,005 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/openakita/openakita) · [官网](http://openakita.ai) · 组织维护 · 中文 README
+⭐ 2,004 · Python · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/openakita/openakita) · [官网](http://openakita.ai) · 组织维护 · 中文 README
 
 **开源多 Agent AI 助手：可组建自主运行的 AI 团队**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openakita/openakita 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 1998 --> 2006
-    line [1999, 2003, 2005, 2004, 2005, 2005]
+    line [1999, 2003, 2005, 2004, 2005, 2004]
 ```
 
-2026-10-18 1,999 → 2026-10-26 2,005（+6）
+2026-10-18 1,999 → 2026-10-27 2,004（+5）
 
 
 ---

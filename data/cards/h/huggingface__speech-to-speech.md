@@ -1,6 +1,6 @@
 # huggingface/speech-to-speech
 
-⭐ 13,555 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
+⭐ 13,565 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
 **全本地开源语音 agent 服务：一条命令起对话，免 API key**
 
@@ -52,13 +52,13 @@ Hugging Face 维护的低延迟语音 agent 服务：默认流水线为 Silero V
 
 ```mermaid
 xychart-beta
-    title "huggingface/speech-to-speech 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 13485 --> 13561
-    line [13491, 13514, 13513, 13532, 13543, 13546, 13555]
+    title "huggingface/speech-to-speech 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13484 --> 13572
+    line [13491, 13514, 13513, 13532, 13543, 13546, 13555, 13565]
 ```
 
-2026-10-18 13,491 → 2026-10-26 13,555（+64）
+2026-10-18 13,491 → 2026-10-27 13,565（+74）
 
 
 ---

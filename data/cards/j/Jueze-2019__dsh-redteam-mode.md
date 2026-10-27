@@ -1,6 +1,6 @@
 # Jueze-2019/dsh-redteam-mode
 
-⭐ 127 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Jueze-2019/dsh-redteam-mode) · 个人维护 · 中文 README
+⭐ 132 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Jueze-2019/dsh-redteam-mode) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 变成红队指挥台的智能体编排插件（仅限授权测试）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jueze-2019/dsh-redteam-mode 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 96 --> 129
-    line [98, 99, 118, 124, 125, 126, 127]
+    title "Jueze-2019/dsh-redteam-mode 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 95 --> 135
+    line [98, 99, 118, 124, 125, 126, 127, 132]
 ```
 
-2026-10-18 98 → 2026-10-26 127（+29）
+2026-10-18 98 → 2026-10-27 132（+34）
 
 
 ---

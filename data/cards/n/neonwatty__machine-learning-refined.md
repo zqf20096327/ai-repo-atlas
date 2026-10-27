@@ -1,6 +1,6 @@
 # neonwatty/machine-learning-refined
 
-⭐ 2,304 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/neonwatty/machine-learning-refined) · [官网](https://www.mlrefined.com/) · 组织维护
+⭐ 2,305 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/neonwatty/machine-learning-refined) · [官网](https://www.mlrefined.com/) · 组织维护
 
 **机器学习教材配套资源库：章节PDF、笔记、练习与讲义**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neonwatty/machine-learning-refined 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    title "neonwatty/machine-learning-refined 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2300 --> 2306
-    line [2301, 2303, 2304, 2305, 2304]
+    line [2301, 2303, 2304, 2305, 2304, 2305]
 ```
 
-2026-10-18 2,301 → 2026-10-26 2,304（+3）
+2026-10-18 2,301 → 2026-10-27 2,305（+4）
 
 
 ---

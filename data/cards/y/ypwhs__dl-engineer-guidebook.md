@@ -1,6 +1,6 @@
 # ypwhs/dl-engineer-guidebook
 
-⭐ 921 · Python · 推送 2025-12-24 · [GitHub](https://github.com/ypwhs/dl-engineer-guidebook) · [官网](https://dl.ypw.io) · 个人维护 · 中文 README
+⭐ 920 · Python · 推送 2025-12-24 · [GitHub](https://github.com/ypwhs/dl-engineer-guidebook) · [官网](https://dl.ypw.io) · 个人维护 · 中文 README
 
 **面向深度学习工程师的环境配置与工具知识手册**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ypwhs/dl-engineer-guidebook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 920 --> 922
-    line [921, 921]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 919 --> 922
+    line [921, 920]
 ```
 
-2026-10-18 921 → 2026-10-26 921（+0）
+2026-10-18 921 → 2026-10-27 920（-1）
 
 
 ---

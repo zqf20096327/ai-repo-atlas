@@ -1,6 +1,6 @@
 # Nitjsefnie/Overflow
 
-⭐ 107 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Nitjsefnie/Overflow) · [官网](https://overflow.nitjsefni.eu) · 个人维护
+⭐ 119 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Nitjsefnie/Overflow) · [官网](https://overflow.nitjsefni.eu) · 个人维护
 
 **开源贡献互记分账本：用闲置 LLM 订阅额度结算互助工作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nitjsefnie/Overflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 25 --> 114
-    line [32, 40, 43, 44, 53, 107]
+    title "Nitjsefnie/Overflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 24 --> 127
+    line [32, 40, 43, 44, 53, 107, 119]
 ```
 
-2026-10-18 32 → 2026-10-26 107（+75）
+2026-10-18 32 → 2026-10-27 119（+87）
 
 
 ---

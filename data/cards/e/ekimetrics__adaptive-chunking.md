@@ -1,6 +1,6 @@
 # ekimetrics/adaptive-chunking
 
-⭐ 397 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ekimetrics/adaptive-chunking) · 组织维护
+⭐ 398 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ekimetrics/adaptive-chunking) · 组织维护
 
 **为 RAG 逐文档自动选出最优分块策略的库（LREC 2026 论文实现）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ekimetrics/adaptive-chunking 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 395 --> 398
-    line [396, 397, 397]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 395 --> 399
+    line [396, 397, 398]
 ```
 
-2026-10-18 396 → 2026-10-26 397（+1）
+2026-10-18 396 → 2026-10-27 398（+2）
 
 
 ---

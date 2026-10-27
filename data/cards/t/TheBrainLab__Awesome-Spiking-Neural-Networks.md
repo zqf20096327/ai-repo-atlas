@@ -1,6 +1,6 @@
 # TheBrainLab/Awesome-Spiking-Neural-Networks
 
-⭐ 849 · 推送 2026-10-06 · [GitHub](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) · 组织维护 · 中文 README
+⭐ 850 · 推送 2026-10-06 · [GitHub](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) · 组织维护 · 中文 README
 
 **脉冲神经网络论文与代码聚合清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 845 --> 850
-    line [846, 848, 849]
+    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 845 --> 851
+    line [846, 848, 849, 850]
 ```
 
-2026-10-18 846 → 2026-10-26 849（+3）
+2026-10-18 846 → 2026-10-27 850（+4）
 
 
 ---

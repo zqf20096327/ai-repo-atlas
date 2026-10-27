@@ -1,6 +1,6 @@
 # HowieHwong/TrustLLM
 
-⭐ 632 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/HowieHwong/TrustLLM) · [官网](https://trustllmbenchmark.github.io/TrustLLM-Website/) · 组织维护
+⭐ 633 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/HowieHwong/TrustLLM) · [官网](https://trustllmbenchmark.github.io/TrustLLM-Website/) · 组织维护
 
 **评测 LLM 可信度的研究工具包：六维度基准与评分**
 
@@ -46,12 +46,12 @@ ICML 2024 论文配套的开源研究工具包，用于评估大语言模型在�
 ```mermaid
 xychart-beta
     title "HowieHwong/TrustLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 631 --> 633
-    line [632, 632]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 631 --> 634
+    line [632, 633]
 ```
 
-2026-10-18 632 → 2026-10-26 632（+0）
+2026-10-18 632 → 2026-10-27 633（+1）
 
 
 ---

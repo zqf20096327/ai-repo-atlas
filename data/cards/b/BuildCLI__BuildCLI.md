@@ -1,6 +1,6 @@
 # BuildCLI/BuildCLI
 
-⭐ 164 · Java · MIT · 推送 2026-10-22 · [GitHub](https://github.com/BuildCLI/BuildCLI) · [官网](https://buildcli.dev) · 组织维护
+⭐ 164 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BuildCLI/BuildCLI) · [官网](https://buildcli.dev) · 组织维护
 
 **给 Java 开发者的项目创建、构建、Docker 化与 CI/CD 命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BuildCLI/BuildCLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 163 --> 165
     line [164, 164]
 ```
 
-2026-10-18 164 → 2026-10-26 164（+0）
+2026-10-18 164 → 2026-10-27 164（+0）
 
 
 ---

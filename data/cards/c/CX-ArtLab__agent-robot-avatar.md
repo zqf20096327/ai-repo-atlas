@@ -1,6 +1,6 @@
 # CX-ArtLab/agent-robot-avatar
 
-⭐ 58 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CX-ArtLab/agent-robot-avatar) · [官网](https://cx-artlab.github.io/agent-robot-avatar/?lang=en) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/CX-ArtLab/agent-robot-avatar) · [官网](https://cx-artlab.github.io/agent-robot-avatar/?lang=en) · 个人维护 · 中文 README
 
 **给 AI agent 界面加可交互动画机器人头像的 Web Component**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CX-ArtLab/agent-robot-avatar 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 51 --> 59
-    line [52, 53, 55, 56, 57, 58]
+    title "CX-ArtLab/agent-robot-avatar 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 51 --> 60
+    line [52, 53, 55, 56, 57, 58, 59]
 ```
 
-2026-10-18 52 → 2026-10-26 58（+6）
+2026-10-18 52 → 2026-10-27 59（+7）
 
 
 ---

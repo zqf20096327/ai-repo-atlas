@@ -46,12 +46,12 @@ AgentManager 运行多个 Claude Code CLI 进程作为自治编码 agent，每�
 ```mermaid
 xychart-beta
     title "simonstaton/AgentManager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-26 28（+1）
+2026-10-18 27 → 2026-10-27 28（+1）
 
 
 ---

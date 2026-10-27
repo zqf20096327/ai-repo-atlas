@@ -1,6 +1,6 @@
 # lazercaveman/nuxt-starter
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lazercaveman/nuxt-starter) · [官网](https://alisoueidan.com/blog/nuxt-starter-kit-your-launchpad-for-modern-web-development) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lazercaveman/nuxt-starter) · [官网](https://alisoueidan.com/blog/nuxt-starter-kit-your-launchpad-for-modern-web-development) · 个人维护
 
 **预配置的 Nuxt 4 项目模板，含工具链与 Claude Code 配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lazercaveman/nuxt-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-26 92（+0）
+2026-10-18 92 → 2026-10-27 92（+0）
 
 
 ---

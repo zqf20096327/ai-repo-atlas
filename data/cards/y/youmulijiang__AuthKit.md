@@ -1,6 +1,6 @@
 # youmulijiang/AuthKit
 
-⭐ 46 · Java · 推送 2026-10-05 · [GitHub](https://github.com/youmulijiang/AuthKit) · 个人维护 · 中文 README
+⭐ 47 · Java · 推送 2026-10-05 · [GitHub](https://github.com/youmulijiang/AuthKit) · 个人维护 · 中文 README
 
 **Burp Suite 越权漏洞辅助检测插件，支持 AI 分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "youmulijiang/AuthKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-18 45 → 2026-10-26 46（+1）
+2026-10-18 45 → 2026-10-27 47（+2）
 
 
 ---

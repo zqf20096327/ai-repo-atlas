@@ -1,6 +1,6 @@
 # Derpyu520/qq-bridge
 
-⭐ 2,447 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Derpyu520/qq-bridge) · 个人维护 · 中文 README
+⭐ 2,815 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Derpyu520/qq-bridge) · 个人维护 · 中文 README
 
 **把 QQ 消息接入 DeepSeek Harness agent 的桥接程序**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Derpyu520/qq-bridge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1015 --> 2577
-    line [1145, 1350, 1595, 1780, 1993, 2220, 2447]
+    title "Derpyu520/qq-bridge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 978 --> 2982
+    line [1145, 1350, 1595, 1780, 1993, 2220, 2447, 2815]
 ```
 
-2026-10-18 1,145 → 2026-10-26 2,447（+1,302）
+2026-10-18 1,145 → 2026-10-27 2,815（+1,670）
 
 
 ---

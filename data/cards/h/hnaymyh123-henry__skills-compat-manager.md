@@ -1,6 +1,6 @@
 # hnaymyh123-henry/skills-compat-manager
 
-⭐ 83 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/hnaymyh123-henry/skills-compat-manager) · [官网](https://github.com/hnaymyh123-henry/skills-compat-manager) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/hnaymyh123-henry/skills-compat-manager) · [官网](https://github.com/hnaymyh123-henry/skills-compat-manager) · 个人维护 · 中文 README
 
 **AI agent 技能的跨平台兼容层：执行前依赖预检与 MCP 分发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hnaymyh123-henry/skills-compat-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 82 --> 85
+    line [83, 84]
 ```
 
-2026-10-18 83 → 2026-10-26 83（+0）
+2026-10-18 83 → 2026-10-27 84（+1）
 
 
 ---

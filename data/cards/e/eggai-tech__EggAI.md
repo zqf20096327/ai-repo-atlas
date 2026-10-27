@@ -1,6 +1,6 @@
 # eggai-tech/EggAI
 
-⭐ 56 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eggai-tech/EggAI) · [官网](https://docs.egg-ai.com/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/eggai-tech/EggAI) · [官网](https://docs.egg-ai.com/) · 组织维护
 
 **面向企业的异步优先多智能体元框架与Python SDK**
 
@@ -47,12 +47,12 @@ EggAI 是构建企业级多智能体系统的 Python 元框架，采用异步优
 ```mermaid
 xychart-beta
     title "eggai-tech/EggAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-26 56（+0）
+2026-10-18 56 → 2026-10-27 56（+0）
 
 
 ---

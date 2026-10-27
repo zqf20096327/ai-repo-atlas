@@ -1,6 +1,6 @@
 # vastsa/PI-Desktop
 
-⭐ 7,256 · TypeScript · LGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/vastsa/PI-Desktop) · [官网](https://pi-docs.aiuo.net) · 个人维护 · 中文 README
+⭐ 7,327 · TypeScript · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/vastsa/PI-Desktop) · [官网](https://pi-docs.aiuo.net) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的本地优先模块化桌面工作区**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vastsa/PI-Desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 6926 --> 7286
-    line [6956, 7028, 7102, 7147, 7179, 7219, 7256]
+    title "vastsa/PI-Desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 6919 --> 7364
+    line [6956, 7028, 7102, 7147, 7179, 7219, 7256, 7327]
 ```
 
-2026-10-18 6,956 → 2026-10-26 7,256（+300）
+2026-10-18 6,956 → 2026-10-27 7,327（+371）
 
 
 ---

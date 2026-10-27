@@ -1,6 +1,6 @@
 # DagsHub/client
 
-⭐ 105 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/DagsHub/client) · [官网](https://dagshub.com/docs/client/) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DagsHub/client) · [官网](https://dagshub.com/docs/client/) · 组织维护
 
 **DagsHub 平台的 Python 客户端库：实验追踪与数据流式上传**
 
@@ -45,12 +45,12 @@ DagsHub（机器学习与数据科学团队协作平台）的官方客户端库�
 ```mermaid
 xychart-beta
     title "DagsHub/client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-26 105（+0）
+2026-10-18 105 → 2026-10-27 105（+0）
 
 
 ---

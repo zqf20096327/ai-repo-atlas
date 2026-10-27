@@ -1,6 +1,6 @@
 # naver/bergen
 
-⭐ 282 · Jupyter Notebook · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/naver/bergen) · 组织维护
+⭐ 283 · Jupyter Notebook · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/naver/bergen) · 组织维护
 
 **RAG 系统评测基准库：统一评测检索与生成各组件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naver/bergen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 281 --> 283
-    line [282, 282]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 281 --> 284
+    line [282, 283]
 ```
 
-2026-10-18 282 → 2026-10-26 282（+0）
+2026-10-18 282 → 2026-10-27 283（+1）
 
 
 ---

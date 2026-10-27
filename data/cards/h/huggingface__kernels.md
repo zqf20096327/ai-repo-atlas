@@ -1,6 +1,6 @@
 # huggingface/kernels
 
-⭐ 780 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/huggingface/kernels) · [官网](https://huggingface.co/docs/kernels/) · 组织维护
+⭐ 782 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/kernels) · [官网](https://huggingface.co/docs/kernels/) · 组织维护
 
 **从 Hugging Face Hub 动态加载计算内核的 Python 库与构建工具**
 
@@ -44,13 +44,13 @@ Kernel Hub 生态的客户端与构建工具：`kernels` Python 包支持在运�
 
 ```mermaid
 xychart-beta
-    title "huggingface/kernels 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 774 --> 781
-    line [775, 776, 775, 776, 780]
+    title "huggingface/kernels 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 774 --> 783
+    line [775, 776, 775, 776, 780, 782]
 ```
 
-2026-10-18 775 → 2026-10-26 780（+5）
+2026-10-18 775 → 2026-10-27 782（+7）
 
 
 ---

@@ -45,12 +45,12 @@ OpenDataBox 维护的 agent 记忆系统论文策展仓库：沿四个轴组织�
 ```mermaid
 xychart-beta
     title "OpenDataBox/awesome-agent-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

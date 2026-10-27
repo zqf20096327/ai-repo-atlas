@@ -1,6 +1,6 @@
 # 0xhimanshu/governor
 
-⭐ 131 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/0xhimanshu/governor) · [官网](https://github.com/0xhimanshu/governor) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/0xhimanshu/governor) · [官网](https://github.com/0xhimanshu/governor) · 个人维护
 
 **面向 AI 编码代理的上下文治理插件：工具输出过滤与记忆压缩**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "0xhimanshu/governor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-10-26 131（+0）
+2026-10-18 131 → 2026-10-27 132（+1）
 
 
 ---

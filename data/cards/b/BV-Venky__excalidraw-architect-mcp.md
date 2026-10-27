@@ -1,6 +1,6 @@
 # BV-Venky/excalidraw-architect-mcp
 
-⭐ 160 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/BV-Venky/excalidraw-architect-mcp) · 个人维护
+⭐ 161 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/BV-Venky/excalidraw-architect-mcp) · 个人维护
 
 **为 AI IDE 生成 25 类 Excalidraw 手绘图的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BV-Venky/excalidraw-architect-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 158 --> 161
-    line [159, 160, 160]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 158 --> 162
+    line [159, 160, 161]
 ```
 
-2026-10-18 159 → 2026-10-26 160（+1）
+2026-10-18 159 → 2026-10-27 161（+2）
 
 
 ---

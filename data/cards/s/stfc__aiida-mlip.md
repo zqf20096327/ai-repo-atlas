@@ -1,6 +1,6 @@
 # stfc/aiida-mlip
 
-⭐ 26 · Python · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/stfc/aiida-mlip) · [官网](https://stfc.github.io/aiida-mlip/) · 组织维护
+⭐ 26 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/stfc/aiida-mlip) · [官网](https://stfc.github.io/aiida-mlip/) · 组织维护
 
 **AiiDA 插件：在工作流中运行机器学习原子间势计算与训练**
 
@@ -46,12 +46,12 @@ stfc 维护的 AiiDA 插件，将机器学习原子间势（MLIP）计算接入 
 ```mermaid
 xychart-beta
     title "stfc/aiida-mlip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-26 26（+0）
+2026-10-18 26 → 2026-10-27 26（+0）
 
 
 ---

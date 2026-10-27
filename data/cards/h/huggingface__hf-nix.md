@@ -44,12 +44,12 @@ Hugging Face 维护的 Nix flake，收录其内部使用、nixpkgs 中缺失或�
 ```mermaid
 xychart-beta
     title "huggingface/hf-nix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-26 29（+0）
+2026-10-18 29 → 2026-10-27 29（+0）
 
 
 ---

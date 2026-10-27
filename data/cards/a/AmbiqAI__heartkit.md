@@ -1,6 +1,6 @@
 # AmbiqAI/heartkit
 
-⭐ 59 · HTML · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/AmbiqAI/heartkit) · [官网](https://ambiqai.github.io/heartkit/) · 组织维护
+⭐ 59 · HTML · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/AmbiqAI/heartkit) · [官网](https://ambiqai.github.io/heartkit/) · 组织维护
 
 **面向 Ambiq 超低功耗 SoC 的实时心脏监测 AI 开发套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmbiqAI/heartkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-26 59（+0）
+2026-10-18 59 → 2026-10-27 59（+0）
 
 
 ---

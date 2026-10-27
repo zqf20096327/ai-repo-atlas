@@ -1,6 +1,6 @@
 # mrexodia/ida-pro-mcp
 
-⭐ 13,149 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrexodia/ida-pro-mcp) · [官网](https://plugins.hex-rays.com/mrexodia/ida-pro-mcp) · 个人维护
+⭐ 13,165 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mrexodia/ida-pro-mcp) · [官网](https://plugins.hex-rays.com/mrexodia/ida-pro-mcp) · 个人维护
 
 **连接 IDA Pro 与 LLM 的 MCP 服务器，辅助逆向分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrexodia/ida-pro-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 12960 --> 13166
-    line [12977, 13020, 13066, 13084, 13116, 13126, 13149]
+    title "mrexodia/ida-pro-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 12959 --> 13183
+    line [12977, 13020, 13066, 13084, 13116, 13126, 13149, 13165]
 ```
 
-2026-10-18 12,977 → 2026-10-26 13,149（+172）
+2026-10-18 12,977 → 2026-10-27 13,165（+188）
 
 
 ---

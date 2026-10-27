@@ -1,6 +1,6 @@
 # deepseek-ai/DeepEP-Ascend
 
-⭐ 272 · C++ · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
+⭐ 274 · C++ · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
 
 **面向华为昇腾 NPU 的 MoE 专家并行通信库**
 
@@ -45,12 +45,12 @@ DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提�
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepEP-Ascend 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 259 --> 273
-    line [260, 265, 269, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 259 --> 275
+    line [260, 265, 269, 271, 272, 274]
 ```
 
-2026-10-18 260 → 2026-10-26 272（+12）
+2026-10-18 260 → 2026-10-27 274（+14）
 
 
 ---

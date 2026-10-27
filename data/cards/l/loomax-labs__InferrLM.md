@@ -1,6 +1,6 @@
 # loomax-labs/InferrLM
 
-⭐ 112 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/loomax-labs/InferrLM) · 组织维护 · 中文 README
+⭐ 113 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/loomax-labs/InferrLM) · 组织维护 · 中文 README
 
 **手机上本地运行 LLM 并充当局域网服务器的 AI 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "loomax-labs/InferrLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 111 --> 114
+    line [112, 113]
 ```
 
-2026-10-18 112 → 2026-10-26 112（+0）
+2026-10-18 112 → 2026-10-27 113（+1）
 
 
 ---

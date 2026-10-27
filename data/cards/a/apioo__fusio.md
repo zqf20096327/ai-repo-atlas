@@ -1,6 +1,6 @@
 # apioo/fusio
 
-⭐ 2,127 · PHP · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/apioo/fusio) · [官网](https://www.fusio-project.org) · 个人维护
+⭐ 2,127 · PHP · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apioo/fusio) · [官网](https://www.fusio-project.org) · 个人维护
 
 **自托管 PHP API 管理平台：把业务逻辑变成 API 产品并接入 AI 生态**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "apioo/fusio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
     y-axis "stars" 2125 --> 2129
     line [2126, 2127, 2128, 2127, 2127]
 ```
 
-2026-10-18 2,126 → 2026-10-26 2,127（+1）
+2026-10-18 2,126 → 2026-10-27 2,127（+1）
 
 
 ---

@@ -45,13 +45,13 @@ PSSA 是一个用 Rust 从零编写的小型语言模型，不依赖 PyTorch/Ten
 
 ```mermaid
 xychart-beta
-    title "Sparticle62ops/pssa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Sparticle62ops/pssa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 115 --> 118
-    line [116, 117]
+    line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-10-26 117（+1）
+2026-10-18 116 → 2026-10-27 117（+1）
 
 
 ---

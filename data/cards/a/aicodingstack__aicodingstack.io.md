@@ -1,6 +1,6 @@
 # aicodingstack/aicodingstack.io
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/aicodingstack/aicodingstack.io) · [官网](https://aicodingstack.io) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aicodingstack/aicodingstack.io) · [官网](https://aicodingstack.io) · 组织维护 · 中文 README
 
 **AI 编码工具目录站：社区维护的元数据仓库与对比平台**
 
@@ -45,12 +45,12 @@ AI Coding Stack 是一个收录 AI 编程工具、模型与平台的目录网站
 ```mermaid
 xychart-beta
     title "aicodingstack/aicodingstack.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-26 31（+1）
+2026-10-18 30 → 2026-10-27 31（+1）
 
 
 ---

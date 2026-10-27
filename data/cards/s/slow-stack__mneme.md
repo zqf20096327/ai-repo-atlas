@@ -1,6 +1,6 @@
 # slow-stack/mneme
 
-⭐ 179 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
+⭐ 181 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
 
 **给 DeepSeek Harness 装跨会话记忆的插件，本地 SQLite+Markdown**
 
@@ -45,13 +45,13 @@ dsh-mneme 是 DeepSeek Harness (DSH) 的跨会话记忆插件：记忆落在本�
 
 ```mermaid
 xychart-beta
-    title "slow-stack/mneme 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 155 --> 181
-    line [157, 162, 167, 171, 174, 177, 179]
+    title "slow-stack/mneme 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 155 --> 183
+    line [157, 162, 167, 171, 174, 177, 179, 181]
 ```
 
-2026-10-18 157 → 2026-10-26 179（+22）
+2026-10-18 157 → 2026-10-27 181（+24）
 
 
 ---

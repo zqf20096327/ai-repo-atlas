@@ -1,6 +1,6 @@
 # zjunlp/SkillNet
 
-⭐ 1,420 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/zjunlp/SkillNet) · [官网](http://skillnet.openkg.cn/) · 组织维护 · 中文 README
+⭐ 1,421 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/zjunlp/SkillNet) · [官网](http://skillnet.openkg.cn/) · 组织维护 · 中文 README
 
 **面向开发者的 AI agent 技能发现、评估与路由基础设施**
 
@@ -44,13 +44,13 @@ SkillNet 提供 agent 技能全生命周期工具：从 50 万+ GitHub 技能索
 
 ```mermaid
 xychart-beta
-    title "zjunlp/SkillNet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1414 --> 1421
-    line [1415, 1417, 1419, 1420]
+    title "zjunlp/SkillNet 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1414 --> 1422
+    line [1415, 1417, 1419, 1420, 1421]
 ```
 
-2026-10-18 1,415 → 2026-10-26 1,420（+5）
+2026-10-18 1,415 → 2026-10-27 1,421（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # raullenchai/esp32-thinks
 
-⭐ 254 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
+⭐ 255 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raullenchai/esp32-thinks) · 个人维护
 
 **ESP32 个人 AI 语音助手固件：可自选任意 OpenAI 兼容模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raullenchai/esp32-thinks 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 88 --> 269
-    line [103, 228, 236, 246, 251, 253, 254]
+    title "raullenchai/esp32-thinks 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 88 --> 270
+    line [103, 228, 236, 246, 251, 253, 254, 255]
 ```
 
-2026-10-18 103 → 2026-10-26 254（+151）
+2026-10-18 103 → 2026-10-27 255（+152）
 
 
 ---

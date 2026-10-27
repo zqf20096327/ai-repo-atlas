@@ -1,6 +1,6 @@
 # isas1/skills
 
-⭐ 221 · MIT · 推送 2026-09-26 · [GitHub](https://github.com/isas1/skills) · 个人维护
+⭐ 223 · MIT · 推送 2026-09-26 · [GitHub](https://github.com/isas1/skills) · 个人维护
 
 **两个 Claude 技能：聊天内白话解释与生成单页 HTML 摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "isas1/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 220 --> 222
-    line [221, 221]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 220 --> 224
+    line [221, 223]
 ```
 
-2026-10-18 221 → 2026-10-26 221（+0）
+2026-10-18 221 → 2026-10-27 223（+2）
 
 
 ---

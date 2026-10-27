@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HaoranZhuExplorer/World-Models-Autonomous-Driving-Survey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 533 --> 535
     line [534, 534]
 ```
 
-2026-10-18 534 → 2026-10-26 534（+0）
+2026-10-18 534 → 2026-10-27 534（+0）
 
 
 ---

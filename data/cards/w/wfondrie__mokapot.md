@@ -1,6 +1,6 @@
 # wfondrie/mokapot
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/wfondrie/mokapot) · [官网](https://mokapot.readthedocs.io) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/wfondrie/mokapot) · [官网](https://mokapot.readthedocs.io) · 组织维护
 
 **蛋白质组学肽段检测的半监督学习 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wfondrie/mokapot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-10-26 52（+0）
+2026-10-18 52 → 2026-10-27 53（+1）
 
 
 ---

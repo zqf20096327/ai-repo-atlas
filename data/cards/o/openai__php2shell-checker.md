@@ -1,6 +1,6 @@
 # openai/php2shell-checker
 
-⭐ 1,392 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
+⭐ 1,420 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/openai/php2shell-checker) · 组织维护
 
 **检测网站或本地 PHP 是否暴露 php2shell 可利用版本的检查工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/php2shell-checker 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 716 --> 1453
-    line [777, 1089, 1373, 1392]
+    title "openai/php2shell-checker 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 713 --> 1484
+    line [777, 1089, 1373, 1392, 1420]
 ```
 
-2026-10-23 777 → 2026-10-26 1,392（+615）
+2026-10-23 777 → 2026-10-27 1,420（+643）
 
 
 ---

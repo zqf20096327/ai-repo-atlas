@@ -1,6 +1,6 @@
 # echoVic/orca-agent
 
-⭐ 509 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护 · 中文 README
+⭐ 510 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护 · 中文 README
 
 **DeepSeek 原生的终端编码 agent，读码改文件跑命令直至任务完成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "echoVic/orca-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
     y-axis "stars" 506 --> 511
-    line [510, 507, 508, 509, 509]
+    line [510, 507, 508, 509, 510]
 ```
 
-2026-10-18 510 → 2026-10-26 509（-1）
+2026-10-18 510 → 2026-10-27 510（+0）
 
 
 ---

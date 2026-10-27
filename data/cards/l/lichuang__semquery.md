@@ -46,12 +46,12 @@ Rust 编写的本地优先 RAG 工具：索引 Markdown/纯文本/PDF/Word 文�
 ```mermaid
 xychart-beta
     title "lichuang/semquery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-26 71（+0）
+2026-10-18 71 → 2026-10-27 71（+0）
 
 
 ---

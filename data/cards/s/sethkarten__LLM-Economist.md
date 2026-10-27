@@ -1,6 +1,6 @@
 # sethkarten/LLM-Economist
 
-⭐ 125 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/sethkarten/LLM-Economist) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/sethkarten/LLM-Economist) · 组织维护
 
 **科研框架：用 LLM 驱动多智能体经济模拟研究税收机制设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sethkarten/LLM-Economist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 124 --> 127
+    line [125, 126]
 ```
 
-2026-10-18 125 → 2026-10-26 125（+0）
+2026-10-18 125 → 2026-10-27 126（+1）
 
 
 ---

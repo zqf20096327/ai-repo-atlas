@@ -1,6 +1,6 @@
 # Smalldy/godot-bridge
 
-⭐ 42 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Smalldy/godot-bridge) · 个人维护 · 中文 README
+⭐ 43 · GDScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Smalldy/godot-bridge) · 个人维护 · 中文 README
 
 **DSH 插件：让 DeepSeek agent 原生驱动 Godot 4.x 游戏开发**
 
@@ -44,13 +44,13 @@ DeepSeek Harness (DSH) 的宿主插件，通过游戏内置的 TCP 交互服务�
 
 ```mermaid
 xychart-beta
-    title "Smalldy/godot-bridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 34 --> 43
-    line [35, 37, 38, 39, 41, 42]
+    title "Smalldy/godot-bridge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 34 --> 44
+    line [35, 37, 38, 39, 41, 42, 43]
 ```
 
-2026-10-18 35 → 2026-10-26 42（+7）
+2026-10-18 35 → 2026-10-27 43（+8）
 
 
 ---

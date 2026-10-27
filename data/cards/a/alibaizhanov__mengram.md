@@ -1,6 +1,6 @@
 # alibaizhanov/mengram
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaizhanov/mengram) · [官网](https://mengram.io) · 个人维护
+⭐ 204 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/alibaizhanov/mengram) · [官网](https://mengram.io) · 个人维护
 
 **给 AI agent 的记忆层：语义/情景/程序性记忆与失败演化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alibaizhanov/mengram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 203 --> 205
     line [204, 204]
 ```
 
-2026-10-18 204 → 2026-10-26 204（+0）
+2026-10-18 204 → 2026-10-27 204（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # minorcell/mini-claude-code
 
-⭐ 70 · Go · MIT · 推送 2026-06-28 · [GitHub](https://github.com/minorcell/mini-claude-code) · [官网](https://www.bilibili.com/video/BV1eiwRzPE4n) · 个人维护 · 中文 README
+⭐ 70 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/minorcell/mini-claude-code) · [官网](https://www.bilibili.com/video/BV1eiwRzPE4n) · 个人维护 · 中文 README
 
 **Go 实现的教学向终端 Code Agent（Mini Claude Code）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "minorcell/mini-claude-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 68 --> 71
     line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-26 70（+1）
+2026-10-18 69 → 2026-10-27 70（+1）
 
 
 ---

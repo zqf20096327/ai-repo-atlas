@@ -1,6 +1,6 @@
 # niklub/rulefy
 
-⭐ 28 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/niklub/rulefy) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/niklub/rulefy) · 个人维护
 
 **从代码仓库生成 Cursor AI 规则文件的 CLI 工具**
 
@@ -45,12 +45,12 @@ Node.js 命令行工具，读取 GitHub 仓库或本地代码库，提取项目�
 ```mermaid
 xychart-beta
     title "niklub/rulefy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-10-26 28（+0）
+2026-10-18 28 → 2026-10-27 27（-1）
 
 
 ---

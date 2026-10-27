@@ -1,6 +1,6 @@
 # kyegomez/MambaTransformer
 
-⭐ 230 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kyegomez/MambaTransformer) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 230 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MambaTransformer) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **融合 Mamba 与 Transformer 的序列建模 PyTorch 架构库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MambaTransformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-18 230 → 2026-10-26 230（+0）
+2026-10-18 230 → 2026-10-27 230（+0）
 
 
 ---

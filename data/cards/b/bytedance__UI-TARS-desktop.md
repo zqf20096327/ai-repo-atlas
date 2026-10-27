@@ -1,6 +1,6 @@
 # bytedance/UI-TARS-desktop
 
-⭐ 39,385 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
+⭐ 39,395 · TypeScript · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/bytedance/UI-TARS-desktop) · [官网](https://agent-tars.com) · 组织维护 · 中文 README
 
 **开发者的多模态 GUI Agent 栈：用自然语言操作电脑与浏览器**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/UI-TARS-desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 39297 --> 39393
-    line [39305, 39336, 39361, 39368, 39371, 39374, 39385]
+    title "bytedance/UI-TARS-desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 39296 --> 39404
+    line [39305, 39336, 39361, 39368, 39371, 39374, 39385, 39395]
 ```
 
-2026-10-18 39,305 → 2026-10-26 39,385（+80）
+2026-10-18 39,305 → 2026-10-27 39,395（+90）
 
 
 ---

@@ -1,6 +1,6 @@
 # spyrae/kronos-agent-os
 
-⭐ 55 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spyrae/kronos-agent-os) · [官网](https://github.com/spyrae/kronos-agent-os/tree/main/docs) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spyrae/kronos-agent-os) · [官网](https://github.com/spyrae/kronos-agent-os/tree/main/docs) · 个人维护
 
 **自托管的持久 AI agent 运行时，含记忆/技能/MCP 工具/自动化**
 
@@ -45,13 +45,13 @@ KAOS 是本地优先的自托管 agent 运行层：提供自定义 ReAct 循环�
 
 ```mermaid
 xychart-beta
-    title "spyrae/kronos-agent-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 53 --> 56
-    line [54, 55]
+    title "spyrae/kronos-agent-os 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 53 --> 62
+    line [54, 55, 61]
 ```
 
-2026-10-18 54 → 2026-10-26 55（+1）
+2026-10-18 54 → 2026-10-27 61（+7）
 
 
 ---

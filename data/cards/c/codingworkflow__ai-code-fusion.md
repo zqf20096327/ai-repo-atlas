@@ -1,6 +1,6 @@
 # codingworkflow/ai-code-fusion
 
-⭐ 88 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/codingworkflow/ai-code-fusion) · [官网](https://www.codingworkflow.com/) · 个人维护
+⭐ 88 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/codingworkflow/ai-code-fusion) · [官网](https://www.codingworkflow.com/) · 个人维护
 
 **桌面应用：把代码仓库内容合并为单个文件供 AI 工具使用**
 
@@ -45,12 +45,12 @@ Electron 桌面应用，面向需要将代码仓库喂给 AI 工具的用户：�
 ```mermaid
 xychart-beta
     title "codingworkflow/ai-code-fusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-26 88（+0）
+2026-10-18 88 → 2026-10-27 88（+0）
 
 
 ---

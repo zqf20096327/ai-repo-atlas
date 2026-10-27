@@ -1,6 +1,6 @@
 # brillcp/PocketDex
 
-⭐ 138 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/brillcp/PocketDex) · 个人维护
+⭐ 137 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/brillcp/PocketDex) · 个人维护
 
 **SwiftUI 宝可梦图鉴与回合制对战示例应用，供 iOS 工程师学习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brillcp/PocketDex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 136 --> 139
+    line [138, 137]
 ```
 
-2026-10-18 138 → 2026-10-26 138（+0）
+2026-10-18 138 → 2026-10-27 137（-1）
 
 
 ---

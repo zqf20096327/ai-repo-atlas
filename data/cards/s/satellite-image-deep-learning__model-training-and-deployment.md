@@ -1,6 +1,6 @@
 # satellite-image-deep-learning/model-training-and-deployment
 
-⭐ 74 · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/satellite-image-deep-learning/model-training-and-deployment) · 组织维护
+⭐ 74 · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/satellite-image-deep-learning/model-training-and-deployment) · 组织维护
 
 **卫星与航空影像深度学习模型训练与部署的实践指南清单**
 
@@ -46,12 +46,12 @@ satellite-image-deep-learning 系列的模型训练与部署知识页：汇总�
 ```mermaid
 xychart-beta
     title "satellite-image-deep-learning/model-training-and-deployment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-26 74（+0）
+2026-10-18 74 → 2026-10-27 74（+0）
 
 
 ---

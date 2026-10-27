@@ -1,6 +1,6 @@
 # microsoft/evodiff
 
-⭐ 689 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/microsoft/evodiff) · 组织维护
+⭐ 690 · Python · MIT · 推送 2026-01-15 · [GitHub](https://github.com/microsoft/evodiff) · 组织维护
 
 **序列空间蛋白质生成框架：离散扩散模型产出序列与比对**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/evodiff 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 686 --> 690
-    line [687, 688, 689, 689]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 686 --> 691
+    line [687, 688, 689, 690]
 ```
 
-2026-10-18 687 → 2026-10-26 689（+2）
+2026-10-18 687 → 2026-10-27 690（+3）
 
 
 ---

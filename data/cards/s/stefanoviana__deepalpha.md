@@ -1,6 +1,6 @@
 # stefanoviana/deepalpha
 
-⭐ 50 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/stefanoviana/deepalpha) · [官网](https://deepalphabot.com) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/stefanoviana/deepalpha) · [官网](https://deepalphabot.com) · 个人维护
 
 **开源 ML 加密货币交易机器人：预测价格方向并自动交易**
 
@@ -46,12 +46,12 @@ Python 编写的加密货币量化交易系统，通过 ccxt 接入 Bybit、Bina
 ```mermaid
 xychart-beta
     title "stefanoviana/deepalpha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 49 --> 53
+    line [50, 52]
 ```
 
-2026-10-18 50 → 2026-10-26 50（+0）
+2026-10-18 50 → 2026-10-27 52（+2）
 
 
 ---

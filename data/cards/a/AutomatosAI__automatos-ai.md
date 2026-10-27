@@ -1,6 +1,6 @@
 # AutomatosAI/automatos-ai
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AutomatosAI/automatos-ai) · [官网](https://automatos.app) · 组织维护
+⭐ 73 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AutomatosAI/automatos-ai) · [官网](https://automatos.app) · 组织维护
 
 **自托管多智能体编排系统：在本机运行 AI 工作者团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AutomatosAI/automatos-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 52 --> 73
-    line [53, 54, 55, 58, 69, 71, 72]
+    title "AutomatosAI/automatos-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 51 --> 75
+    line [53, 54, 55, 58, 69, 71, 72, 73]
 ```
 
-2026-10-18 53 → 2026-10-26 72（+19）
+2026-10-18 53 → 2026-10-27 73（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # JerryZLiu/Dayflow
 
-⭐ 7,321 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JerryZLiu/Dayflow) · [官网](https://www.dayflow.so/) · 个人维护
+⭐ 7,334 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/JerryZLiu/Dayflow) · [官网](https://www.dayflow.so/) · 个人维护
 
 **Mac 上的自动化工作日志：用 AI 把屏幕活动变成时间线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JerryZLiu/Dayflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 7272 --> 7325
-    line [7276, 7289, 7304, 7311, 7313, 7321]
+    title "JerryZLiu/Dayflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 7271 --> 7339
+    line [7276, 7289, 7304, 7311, 7313, 7321, 7334]
 ```
 
-2026-10-18 7,276 → 2026-10-26 7,321（+45）
+2026-10-18 7,276 → 2026-10-27 7,334（+58）
 
 
 ---

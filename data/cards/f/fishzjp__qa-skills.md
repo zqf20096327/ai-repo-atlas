@@ -1,6 +1,6 @@
 # fishzjp/qa-skills
 
-⭐ 50 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fishzjp/qa-skills) · [官网](https://fishzjp.github.io/qa-skills/) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fishzjp/qa-skills) · [官网](https://fishzjp.github.io/qa-skills/) · 个人维护 · 中文 README
 
 **面向 AI 编程 Agent 的测试工程 Skill 框架（12 skill + 共享知识库）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fishzjp/qa-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 45 --> 51
-    line [46, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 45 --> 53
+    line [46, 49, 50, 52]
 ```
 
-2026-10-18 46 → 2026-10-26 50（+4）
+2026-10-18 46 → 2026-10-27 52（+6）
 
 
 ---

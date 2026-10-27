@@ -1,6 +1,6 @@
 # wuxuyun0606-collab/lmc-5
 
-⭐ 155 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 个人维护 · 中文 README
+⭐ 157 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 个人维护 · 中文 README
 
 **为长期运行 LLM agent 提供五轴记忆架构与可恢复记忆层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuxuyun0606-collab/lmc-5 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 150 --> 156
-    line [151, 152, 154, 155]
+    title "wuxuyun0606-collab/lmc-5 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 150 --> 158
+    line [151, 152, 154, 155, 157]
 ```
 
-2026-10-18 151 → 2026-10-26 155（+4）
+2026-10-18 151 → 2026-10-27 157（+6）
 
 
 ---

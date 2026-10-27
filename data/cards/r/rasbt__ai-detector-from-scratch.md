@@ -1,6 +1,6 @@
 # rasbt/ai-detector-from-scratch
 
-⭐ 51 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/rasbt/ai-detector-from-scratch) · [官网](https://magazine.sebastianraschka.com/p/ai-detector-from-scratch) · 个人维护
+⭐ 52 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/rasbt/ai-detector-from-scratch) · [官网](https://magazine.sebastianraschka.com/p/ai-detector-from-scratch) · 个人维护
 
 **从零构建 AI 文本检测器的端到端训练与推理项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasbt/ai-detector-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 47 --> 52
-    line [48, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    y-axis "stars" 47 --> 53
+    line [48, 50, 51, 52]
 ```
 
-2026-10-18 48 → 2026-10-26 51（+3）
+2026-10-18 48 → 2026-10-27 52（+4）
 
 
 ---

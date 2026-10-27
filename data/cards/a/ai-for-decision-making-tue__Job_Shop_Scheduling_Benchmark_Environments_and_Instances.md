@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 212 --> 215
     line [213, 214, 214]
 ```
 
-2026-10-18 213 → 2026-10-26 214（+1）
+2026-10-18 213 → 2026-10-27 214（+1）
 
 
 ---

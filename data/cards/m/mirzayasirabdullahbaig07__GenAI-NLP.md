@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/GenAI-NLP
 
-⭐ 43 · Python · 推送 2026-03-16 · [GitHub](https://github.com/mirzayasirabdullahbaig07/GenAI-NLP) · 个人维护
+⭐ 44 · Python · 推送 2026-03-16 · [GitHub](https://github.com/mirzayasirabdullahbaig07/GenAI-NLP) · 个人维护
 
 **NLP 课程的结构化笔记与实现集合（含实战项目）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/GenAI-NLP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-26 43（+0）
+2026-10-18 43 → 2026-10-27 44（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cygnux-Labs/Tracekit
 
-⭐ 173 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
+⭐ 250 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
 
 **AI agent 的防篡改追踪与策略门控库：记录并核验 agent 每步行为**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cygnux-Labs/Tracekit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 126 --> 177
-    line [130, 137, 146, 149, 150, 173]
+    title "Cygnux-Labs/Tracekit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 118 --> 262
+    line [130, 137, 146, 149, 150, 173, 250]
 ```
 
-2026-10-18 130 → 2026-10-26 173（+43）
+2026-10-18 130 → 2026-10-27 250（+120）
 
 
 ---

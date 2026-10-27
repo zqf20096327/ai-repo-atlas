@@ -1,6 +1,6 @@
 # GMSSH/GMSSH
 
-⭐ 815 · Go · 推送 2026-10-15 · [GitHub](https://github.com/GMSSH/GMSSH) · [官网](https://www.gmssh.com/) · 组织维护 · 中文 README
+⭐ 817 · Go · 推送 2026-10-15 · [GitHub](https://github.com/GMSSH/GMSSH) · [官网](https://www.gmssh.com/) · 组织维护 · 中文 README
 
 **基于 SSH 的 Linux 服务器桌面工作区，带 GMAI 辅助运维**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GMSSH/GMSSH 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 814 --> 817
-    line [816, 815, 816, 815]
+    title "GMSSH/GMSSH 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 814 --> 818
+    line [816, 815, 816, 815, 817]
 ```
 
-2026-10-18 816 → 2026-10-26 815（-1）
+2026-10-18 816 → 2026-10-27 817（+1）
 
 
 ---

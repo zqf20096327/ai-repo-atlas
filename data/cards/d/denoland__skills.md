@@ -1,6 +1,6 @@
 # denoland/skills
 
-⭐ 101 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/denoland/skills) · 组织维护
+⭐ 102 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/denoland/skills) · 组织维护
 
 **Deno 官方维护的 AI 编程助手技能包：教助手用 Deno**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "denoland/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 102]
 ```
 
-2026-10-18 100 → 2026-10-26 101（+1）
+2026-10-18 100 → 2026-10-27 102（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # WSL043/DSH-Portable
 
-⭐ 78 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/WSL043/DSH-Portable) · [官网](https://wsl043.github.io/DSH-Portable/) · 个人维护 · 中文 README
+⭐ 80 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/WSL043/DSH-Portable) · [官网](https://wsl043.github.io/DSH-Portable/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 便携版：一个文件夹携带会话与设置的桌面客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WSL043/DSH-Portable 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 64 --> 79
-    line [65, 67, 72, 75, 76, 77, 78]
+    title "WSL043/DSH-Portable 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 64 --> 81
+    line [65, 67, 72, 75, 76, 77, 78, 80]
 ```
 
-2026-10-18 65 → 2026-10-26 78（+13）
+2026-10-18 65 → 2026-10-27 80（+15）
 
 
 ---

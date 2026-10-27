@@ -45,12 +45,12 @@ Laravel Composer 包，以步骤级 instrumentation 追踪业务流程：记录�
 ```mermaid
 xychart-beta
     title "iazaran/trace-replay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-18 104 → 2026-10-26 104（+0）
+2026-10-18 104 → 2026-10-27 104（+0）
 
 
 ---

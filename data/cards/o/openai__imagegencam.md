@@ -1,6 +1,6 @@
 # openai/imagegencam
 
-⭐ 482 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/openai/imagegencam) · 组织维护
+⭐ 484 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/openai/imagegencam) · 组织维护
 
 **用 Codex 协助自制的拍照+图像生成数码相机套件**
 
@@ -44,13 +44,13 @@ Raspberry Pi Zero 2 W 与 3D 打印外壳组装的 DIY 数码相机项目：拍�
 
 ```mermaid
 xychart-beta
-    title "openai/imagegencam 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 478 --> 483
-    line [479, 481, 482]
+    title "openai/imagegencam 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 478 --> 485
+    line [479, 481, 482, 484]
 ```
 
-2026-10-18 479 → 2026-10-26 482（+3）
+2026-10-18 479 → 2026-10-27 484（+5）
 
 
 ---

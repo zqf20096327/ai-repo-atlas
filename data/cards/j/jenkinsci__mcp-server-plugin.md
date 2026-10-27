@@ -1,6 +1,6 @@
 # jenkinsci/mcp-server-plugin
 
-⭐ 118 · Java · MIT · 推送 2026-10-24 · [GitHub](https://github.com/jenkinsci/mcp-server-plugin) · [官网](https://plugins.jenkins.io/mcp-server/) · 组织维护
+⭐ 118 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jenkinsci/mcp-server-plugin) · [官网](https://plugins.jenkins.io/mcp-server/) · 组织维护
 
 **让 Jenkins 作为 MCP 服务器向 AI 客户端提供工具与上下文的插件**
 
@@ -45,12 +45,12 @@ Jenkins 官方组织下的插件，基于 MCP Java SDK 0.17.2（规范 2025-06-1
 ```mermaid
 xychart-beta
     title "jenkinsci/mcp-server-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
     y-axis "stars" 115 --> 119
     line [116, 117, 118, 118]
 ```
 
-2026-10-18 116 → 2026-10-26 118（+2）
+2026-10-18 116 → 2026-10-27 118（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # duyongan/dots-agent
 
-⭐ 87 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/duyongan/dots-agent) · 个人维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/duyongan/dots-agent) · 个人维护 · 中文 README
 
 **主动发现任务并积累技能的自主智能体，配命令行与桌面界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duyongan/dots-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 15 --> 93
-    line [21, 42, 48, 59, 65, 79, 87]
+    title "duyongan/dots-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 13 --> 109
+    line [21, 42, 48, 59, 65, 79, 87, 101]
 ```
 
-2026-10-18 21 → 2026-10-26 87（+66）
+2026-10-18 21 → 2026-10-27 101（+80）
 
 
 ---

@@ -1,6 +1,6 @@
 # nullclaw/nullclaw
 
-⭐ 8,134 · Zig · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nullclaw/nullclaw) · [官网](https://nullclaw.io) · 组织维护 · 中文 README
+⭐ 8,132 · Zig · MIT · 推送 2026-10-08 · [GitHub](https://github.com/nullclaw/nullclaw) · [官网](https://nullclaw.io) · 组织维护 · 中文 README
 
 **Zig 编写的自主 AI 助手基础设施，678KB 单二进制运行于边缘设备**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nullclaw/nullclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "nullclaw/nullclaw 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 8129 --> 8135
-    line [8130, 8132, 8131, 8133, 8132, 8134]
+    line [8130, 8132, 8131, 8133, 8132, 8134, 8132]
 ```
 
-2026-10-18 8,130 → 2026-10-26 8,134（+4）
+2026-10-18 8,130 → 2026-10-27 8,132（+2）
 
 
 ---

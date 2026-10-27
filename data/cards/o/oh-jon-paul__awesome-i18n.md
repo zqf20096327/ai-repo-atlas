@@ -1,6 +1,6 @@
 # oh-jon-paul/awesome-i18n
 
-⭐ 412 · 推送 2026-10-21 · [GitHub](https://github.com/oh-jon-paul/awesome-i18n) · 个人维护
+⭐ 411 · 推送 2026-10-21 · [GitHub](https://github.com/oh-jon-paul/awesome-i18n) · 个人维护
 
 **i18n 资源策展清单：收录各语言框架的国际化工具与教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oh-jon-paul/awesome-i18n 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 411 --> 413
-    line [412, 412]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 410 --> 413
+    line [412, 411]
 ```
 
-2026-10-18 412 → 2026-10-26 412（+0）
+2026-10-18 412 → 2026-10-27 411（-1）
 
 
 ---

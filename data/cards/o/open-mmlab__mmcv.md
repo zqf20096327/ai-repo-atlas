@@ -1,6 +1,6 @@
 # open-mmlab/mmcv
 
-⭐ 6,482 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/open-mmlab/mmcv) · [官网](https://mmcv.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 6,483 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/open-mmlab/mmcv) · [官网](https://mmcv.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **面向计算机视觉研究的基础库：图像处理、变换与 CPU/CUDA 算子**
 
@@ -45,13 +45,13 @@ OpenMMLab 团队维护的计算机视觉基础库，为 CV 研究与上层工具
 
 ```mermaid
 xychart-beta
-    title "open-mmlab/mmcv 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
+    title "open-mmlab/mmcv 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 6480 --> 6484
-    line [6483, 6482, 6481, 6482]
+    line [6483, 6482, 6481, 6482, 6483]
 ```
 
-2026-10-18 6,483 → 2026-10-26 6,482（-1）
+2026-10-18 6,483 → 2026-10-27 6,483（+0）
 
 
 ---

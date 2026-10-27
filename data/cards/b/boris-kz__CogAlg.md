@@ -1,6 +1,6 @@
 # boris-kz/CogAlg
 
-⭐ 101 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/boris-kz/CogAlg) · [官网](https://boris-kz.github.io/CogAlg/) · 个人维护
+⭐ 101 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/boris-kz/CogAlg) · [官网](https://boris-kz.github.io/CogAlg/) · 个人维护
 
 **自底向上层级聚类模式发现算法的实验实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boris-kz/CogAlg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-26 101（+0）
+2026-10-18 101 → 2026-10-27 101（+0）
 
 
 ---

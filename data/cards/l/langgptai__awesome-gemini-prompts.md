@@ -1,6 +1,6 @@
 # langgptai/awesome-gemini-prompts
 
-⭐ 493 · CC0-1.0 · 推送 2026-08-25 · [GitHub](https://github.com/langgptai/awesome-gemini-prompts) · [官网](https://www.langgpt.ai) · 个人维护 · 中文 README
+⭐ 494 · CC0-1.0 · 推送 2026-08-25 · [GitHub](https://github.com/langgptai/awesome-gemini-prompts) · [官网](https://www.langgpt.ai) · 个人维护 · 中文 README
 
 **Gemini 模型的提示词示例合集（含中文与越狱提示）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langgptai/awesome-gemini-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 492 --> 494
-    line [493, 493]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 492 --> 495
+    line [493, 494]
 ```
 
-2026-10-18 493 → 2026-10-26 493（+0）
+2026-10-18 493 → 2026-10-27 494（+1）
 
 
 ---

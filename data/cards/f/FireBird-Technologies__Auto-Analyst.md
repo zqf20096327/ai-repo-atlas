@@ -1,6 +1,6 @@
 # FireBird-Technologies/Auto-Analyst
 
-⭐ 708 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/FireBird-Technologies/Auto-Analyst) · [官网](https://www.autoanalyst.ai) · 组织维护
+⭐ 707 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/FireBird-Technologies/Auto-Analyst) · [官网](https://www.autoanalyst.ai) · 组织维护
 
 **开源 AI 数据科学平台：对话式完成清洗、分析与可视化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FireBird-Technologies/Auto-Analyst 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 707 --> 709
-    line [708, 708]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 706 --> 709
+    line [708, 707]
 ```
 
-2026-10-18 708 → 2026-10-26 708（+0）
+2026-10-18 708 → 2026-10-27 707（-1）
 
 
 ---

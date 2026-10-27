@@ -1,6 +1,6 @@
 # LumiDesk/verifin
 
-⭐ 167 · Dart · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/LumiDesk/verifin) · [官网](https://verifin.talyra42.top) · 个人维护 · 中文 README
+⭐ 169 · Dart · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/LumiDesk/verifin) · [官网](https://verifin.talyra42.top) · 个人维护 · 中文 README
 
 **本地优先、无账号的 Android 个人记账应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LumiDesk/verifin 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 158 --> 168
-    line [159, 160, 162, 163, 167]
+    title "LumiDesk/verifin 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 158 --> 170
+    line [159, 160, 162, 163, 167, 169]
 ```
 
-2026-10-19 159 → 2026-10-26 167（+8）
+2026-10-19 159 → 2026-10-27 169（+10）
 
 
 ---

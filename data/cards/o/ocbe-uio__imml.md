@@ -1,6 +1,6 @@
 # ocbe-uio/imml
 
-⭐ 35 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/ocbe-uio/imml) · [官网](https://imml.readthedocs.io) · 组织维护
+⭐ 37 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/ocbe-uio/imml) · [官网](https://imml.readthedocs.io) · 组织维护
 
 **处理不完整多模态数据的机器学习 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ocbe-uio/imml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 37]
 ```
 
-2026-10-18 34 → 2026-10-26 35（+1）
+2026-10-18 34 → 2026-10-27 37（+3）
 
 
 ---

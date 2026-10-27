@@ -45,12 +45,12 @@ EnvLogger 是 DeepMind 开发的 dm_env.Environment 包装器，用于录制智�
 ```mermaid
 xychart-beta
     title "google-deepmind/envlogger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-26 136（+0）
+2026-10-18 136 → 2026-10-27 136（+0）
 
 
 ---

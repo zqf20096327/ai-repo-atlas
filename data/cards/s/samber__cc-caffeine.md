@@ -1,6 +1,6 @@
 # samber/cc-caffeine
 
-⭐ 73 · JavaScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/samber/cc-caffeine) · 个人维护
+⭐ 73 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samber/cc-caffeine) · 个人维护
 
 **在 Claude Code 工作时阻止电脑休眠的插件**
 
@@ -45,12 +45,12 @@ Claude Code 插件，监测会话状态并利用 Electron 电源管理在 Claude
 ```mermaid
 xychart-beta
     title "samber/cc-caffeine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-26 73（+0）
+2026-10-18 73 → 2026-10-27 73（+0）
 
 
 ---

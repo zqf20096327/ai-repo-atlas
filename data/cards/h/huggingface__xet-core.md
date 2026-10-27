@@ -1,6 +1,6 @@
 # huggingface/xet-core
 
-⭐ 618 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/xet-core) · 组织维护
+⭐ 619 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/xet-core) · 组织维护
 
 **为 huggingface_hub 提供 Xet 存储传输的 Rust/Python 客户端技术**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/xet-core 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 610 --> 619
-    line [611, 613, 614, 615, 618]
+    title "huggingface/xet-core 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 610 --> 620
+    line [611, 613, 614, 615, 618, 619]
 ```
 
-2026-10-18 611 → 2026-10-26 618（+7）
+2026-10-18 611 → 2026-10-27 619（+8）
 
 
 ---

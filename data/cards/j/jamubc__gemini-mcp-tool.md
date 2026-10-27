@@ -1,6 +1,6 @@
 # jamubc/gemini-mcp-tool
 
-⭐ 2,295 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/jamubc/gemini-mcp-tool) · [官网](https://jamubc.github.io/gemini-mcp-tool/) · 个人维护
+⭐ 2,294 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/jamubc/gemini-mcp-tool) · [官网](https://jamubc.github.io/gemini-mcp-tool/) · 个人维护
 
 **让 AI 助手通过 MCP 调用 Gemini/Antigravity CLI 的服务器**
 
@@ -44,13 +44,13 @@ Model Context Protocol 服务器，使 Claude 等 AI 助手可调用 Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "jamubc/gemini-mcp-tool 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "jamubc/gemini-mcp-tool 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 2288 --> 2296
-    line [2289, 2290, 2293, 2294, 2293, 2294, 2295]
+    line [2289, 2290, 2293, 2294, 2293, 2294, 2295, 2294]
 ```
 
-2026-10-18 2,289 → 2026-10-26 2,295（+6）
+2026-10-18 2,289 → 2026-10-27 2,294（+5）
 
 
 ---

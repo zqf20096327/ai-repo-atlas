@@ -1,6 +1,6 @@
 # symfony/mcp-bundle
 
-⭐ 54 · PHP · MIT · 推送 2026-10-23 · [GitHub](https://github.com/symfony/mcp-bundle) · [官网](https://symfony.com/packages/mcp-bundle) · 组织维护
+⭐ 54 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/mcp-bundle) · [官网](https://symfony.com/packages/mcp-bundle) · 组织维护
 
 **Symfony 的 Model Context Protocol 集成 Bundle（服务端+客户端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "symfony/mcp-bundle 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
     y-axis "stars" 52 --> 55
     line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-10-26 54（+1）
+2026-10-18 53 → 2026-10-27 54（+1）
 
 
 ---

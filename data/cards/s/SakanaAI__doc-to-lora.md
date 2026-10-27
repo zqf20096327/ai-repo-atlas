@@ -1,6 +1,6 @@
 # SakanaAI/doc-to-lora
 
-⭐ 836 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/SakanaAI/doc-to-lora) · [官网](https://arxiv.org/abs/2602.15902) · 组织维护
+⭐ 837 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/SakanaAI/doc-to-lora) · [官网](https://arxiv.org/abs/2602.15902) · 组织维护
 
 **从文档即时生成 LoRA 使 LLM 内化事实记忆的超网络参考实现**
 
@@ -45,12 +45,12 @@ SakanaAI 的 Doc-to-LoRA (D2L) 参考实现：训练一个超网络，读取上�
 ```mermaid
 xychart-beta
     title "SakanaAI/doc-to-lora 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 833 --> 837
-    line [834, 836, 836]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 833 --> 838
+    line [834, 836, 837]
 ```
 
-2026-10-18 834 → 2026-10-26 836（+2）
+2026-10-18 834 → 2026-10-27 837（+3）
 
 
 ---

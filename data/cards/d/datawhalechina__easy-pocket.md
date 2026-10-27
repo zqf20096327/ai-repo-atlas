@@ -45,12 +45,12 @@ Datawhale 出品的 PocketFlow 交互式中文教程。PocketFlow 本身是 100 
 ```mermaid
 xychart-beta
     title "datawhalechina/easy-pocket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-26 34（+0）
+2026-10-18 34 → 2026-10-27 34（+0）
 
 
 ---

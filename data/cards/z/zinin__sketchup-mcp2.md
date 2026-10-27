@@ -1,6 +1,6 @@
 # zinin/sketchup-mcp2
 
-⭐ 52 · Ruby · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zinin/sketchup-mcp2) · 个人维护
+⭐ 53 · Ruby · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zinin/sketchup-mcp2) · 个人维护
 
 **把 Claude 等 MCP 客户端接入 SketchUp 做自然语言 3D 建模的桥接服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zinin/sketchup-mcp2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 46 --> 53
-    line [47, 48, 50, 52, 52]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 46 --> 54
+    line [47, 48, 50, 52, 53]
 ```
 
-2026-10-18 47 → 2026-10-26 52（+5）
+2026-10-18 47 → 2026-10-27 53（+6）
 
 
 ---

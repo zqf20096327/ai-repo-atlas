@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onenightcarnival/agent-engineering-philosophy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26"]
+    title "Onenightcarnival/agent-engineering-philosophy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
     y-axis "stars" 113 --> 124
-    line [114, 117, 119, 121, 123]
+    line [114, 117, 119, 121, 123, 123]
 ```
 
-2026-10-18 114 → 2026-10-26 123（+9）
+2026-10-18 114 → 2026-10-27 123（+9）
 
 
 ---

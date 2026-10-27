@@ -1,6 +1,6 @@
 # recepyagmur/EnglishPractice
 
-⭐ 88 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/recepyagmur/EnglishPractice) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/recepyagmur/EnglishPractice) · 个人维护
 
 **面向土耳其语使用者的离线便携英语练习应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "recepyagmur/EnglishPractice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 84 --> 89
-    line [85, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    y-axis "stars" 84 --> 90
+    line [85, 87, 88, 89]
 ```
 
-2026-10-18 85 → 2026-10-26 88（+3）
+2026-10-18 85 → 2026-10-27 89（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tariux/AI-Skills-Not-Awesome
 
-⭐ 49 · 推送 2026-08-12 · [GitHub](https://github.com/Tariux/AI-Skills-Not-Awesome) · 个人维护
+⭐ 49 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/Tariux/AI-Skills-Not-Awesome) · 个人维护
 
 **面向 skills.sh 生态的系统提示词/技能集合（13 个）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tariux/AI-Skills-Not-Awesome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "Tariux/AI-Skills-Not-Awesome 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 47 --> 50
-    line [48, 49]
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-26 49（+1）
+2026-10-18 48 → 2026-10-27 49（+1）
 
 
 ---

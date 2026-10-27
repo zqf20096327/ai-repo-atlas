@@ -1,6 +1,6 @@
 # IBM/iac-spec-kit
 
-⭐ 89 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IBM/iac-spec-kit) · 组织维护
+⭐ 89 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IBM/iac-spec-kit) · 组织维护
 
 **面向基础设施即代码的规格驱动开发工具包：用 AI 助手把需求转为 IaC 代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IBM/iac-spec-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
+    title "IBM/iac-spec-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
     y-axis "stars" 86 --> 90
-    line [87, 88, 89]
+    line [87, 88, 89, 89]
 ```
 
-2026-10-18 87 → 2026-10-26 89（+2）
+2026-10-18 87 → 2026-10-27 89（+2）
 
 
 ---

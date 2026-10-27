@@ -1,6 +1,6 @@
 # changh95/visual-slam-roadmap
 
-⭐ 1,815 · Astro · MIT · 推送 2026-07-19 · [GitHub](https://github.com/changh95/visual-slam-roadmap) · [官网](https://www.cv-learn.com/visual-slam-roadmap/) · 个人维护
+⭐ 1,816 · Astro · MIT · 推送 2026-07-19 · [GitHub](https://github.com/changh95/visual-slam-roadmap) · [官网](https://www.cv-learn.com/visual-slam-roadmap/) · 个人维护
 
 **视觉 SLAM 开发者学习路线图（2026），面向入门者到工程师**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "changh95/visual-slam-roadmap 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 1811 --> 1816
-    line [1812, 1813, 1814, 1815]
+    title "changh95/visual-slam-roadmap 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1811 --> 1817
+    line [1812, 1813, 1814, 1815, 1816]
 ```
 
-2026-10-18 1,812 → 2026-10-26 1,815（+3）
+2026-10-18 1,812 → 2026-10-27 1,816（+4）
 
 
 ---

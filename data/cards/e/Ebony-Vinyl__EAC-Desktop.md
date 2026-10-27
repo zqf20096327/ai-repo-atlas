@@ -1,6 +1,6 @@
 # Ebony-Vinyl/EAC-Desktop
 
-⭐ 2,266 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
+⭐ 2,278 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
 
 **基于 DeepSeek Harness 的桌面 Agent 工作台，聚合数百个 DSH 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ebony-Vinyl/EAC-Desktop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 2049 --> 2285
-    line [2068, 2132, 2187, 2215, 2230, 2238, 2266]
+    title "Ebony-Vinyl/EAC-Desktop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 2047 --> 2299
+    line [2068, 2132, 2187, 2215, 2230, 2238, 2266, 2278]
 ```
 
-2026-10-18 2,068 → 2026-10-26 2,266（+198）
+2026-10-18 2,068 → 2026-10-27 2,278（+210）
 
 
 ---

@@ -1,6 +1,6 @@
 # testdino-hq/playwright-skill
 
-⭐ 402 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/testdino-hq/playwright-skill) · [官网](https://www.testdino.com) · 组织维护
+⭐ 404 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/testdino-hq/playwright-skill) · [官网](https://www.testdino.com) · 组织维护
 
 **面向 AI 编程 agent 的 Playwright 测试技能指南包（79 篇）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "testdino-hq/playwright-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 395 --> 403
-    line [396, 397, 398, 400, 401, 402]
+    title "testdino-hq/playwright-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 395 --> 405
+    line [396, 397, 398, 400, 401, 402, 404]
 ```
 
-2026-10-18 396 → 2026-10-26 402（+6）
+2026-10-18 396 → 2026-10-27 404（+8）
 
 
 ---

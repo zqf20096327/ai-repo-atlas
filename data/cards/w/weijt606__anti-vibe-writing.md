@@ -1,6 +1,6 @@
 # weijt606/anti-vibe-writing
 
-⭐ 124 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/weijt606/anti-vibe-writing) · 个人维护 · 中文 README
+⭐ 125 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/weijt606/anti-vibe-writing) · 个人维护 · 中文 README
 
 **给 agent 用户的写作技能：清除文稿中的 AI 腔与模板痕迹**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "weijt606/anti-vibe-writing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 122 --> 125
-    line [123, 124]
+    title "weijt606/anti-vibe-writing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 122 --> 126
+    line [123, 124, 125]
 ```
 
-2026-10-18 123 → 2026-10-26 124（+1）
+2026-10-18 123 → 2026-10-27 125（+2）
 
 
 ---

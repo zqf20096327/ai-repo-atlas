@@ -1,6 +1,6 @@
 # axoviq-ai/synthadoc
 
-⭐ 1,568 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/axoviq-ai/synthadoc) · 组织维护
+⭐ 1,574 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/axoviq-ai/synthadoc) · 组织维护
 
 **把原始文档编译为本地优先结构化 wiki 的 LLM 知识引擎**
 
@@ -44,13 +44,13 @@ Synthadoc 在摄入时用 LLM 将 PDF、表格、网页、视频、Word 及 AI �
 
 ```mermaid
 xychart-beta
-    title "axoviq-ai/synthadoc 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "axoviq-ai/synthadoc 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 1565 --> 1597
-    line [1591, 1593, 1594, 1595, 1567, 1568]
+    line [1591, 1593, 1594, 1595, 1567, 1568, 1574]
 ```
 
-2026-10-18 1,591 → 2026-10-26 1,568（-23）
+2026-10-18 1,591 → 2026-10-27 1,574（-17）
 
 
 ---

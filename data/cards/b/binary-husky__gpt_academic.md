@@ -1,6 +1,6 @@
 # binary-husky/gpt_academic
 
-⭐ 71,537 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
+⭐ 71,543 · Python · GPL-3.0 · 推送 2026-01-25 · [GitHub](https://github.com/binary-husky/gpt_academic) · [官网](https://github.com/binary-husky/gpt_academic/wiki/online) · 个人维护 · 中文 README
 
 **为学术用户提供LLM交互接口，优化论文阅读润色写作**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "binary-husky/gpt_academic 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 71492 --> 71543
-    line [71496, 71509, 71524, 71527, 71531, 71539, 71537]
+    title "binary-husky/gpt_academic 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 71492 --> 71547
+    line [71496, 71509, 71524, 71527, 71531, 71539, 71537, 71543]
 ```
 
-2026-10-18 71,496 → 2026-10-26 71,537（+41）
+2026-10-18 71,496 → 2026-10-27 71,543（+47）
 
 
 ---

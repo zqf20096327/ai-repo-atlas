@@ -1,6 +1,6 @@
 # w95/awesome-claude-corporate-skills
 
-⭐ 277 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/w95/awesome-claude-corporate-skills) · 个人维护
+⭐ 278 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/w95/awesome-claude-corporate-skills) · 个人维护
 
 **按企业职能组织的 166 个 Claude AI 技能策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "w95/awesome-claude-corporate-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 253 --> 279
-    line [255, 263, 269, 271, 273, 277]
+    title "w95/awesome-claude-corporate-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 253 --> 280
+    line [255, 263, 269, 271, 273, 277, 278]
 ```
 
-2026-10-18 255 → 2026-10-26 277（+22）
+2026-10-18 255 → 2026-10-27 278（+23）
 
 
 ---

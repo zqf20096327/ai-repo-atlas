@@ -1,6 +1,6 @@
 # codesstar/loci
 
-⭐ 500 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codesstar/loci) · 个人维护 · 中文 README
+⭐ 501 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codesstar/loci) · 个人维护 · 中文 README
 
 **给 AI 编码工具的本地记忆宫殿：跨 Agent 共享记忆与项目上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codesstar/loci 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
     y-axis "stars" 499 --> 509
-    line [508, 500, 500]
+    line [508, 500, 501]
 ```
 
-2026-10-18 508 → 2026-10-26 500（-8）
+2026-10-18 508 → 2026-10-27 501（-7）
 
 
 ---

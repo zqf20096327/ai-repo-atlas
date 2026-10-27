@@ -1,6 +1,6 @@
 # robertvoy/ComfyUI-Distributed
 
-⭐ 641 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/robertvoy/ComfyUI-Distributed) · 个人维护
+⭐ 643 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/robertvoy/ComfyUI-Distributed) · 个人维护
 
 **ComfyUI 分布式扩展：跨多 GPU 与多机并行生成/放大图片视频**
 
@@ -46,12 +46,12 @@ ComfyUI 的 custom node 扩展，把工作流分发到多块 GPU 并行执行：
 ```mermaid
 xychart-beta
     title "robertvoy/ComfyUI-Distributed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 637 --> 642
-    line [638, 641, 641]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 637 --> 644
+    line [638, 641, 643]
 ```
 
-2026-10-18 638 → 2026-10-26 641（+3）
+2026-10-18 638 → 2026-10-27 643（+5）
 
 
 ---

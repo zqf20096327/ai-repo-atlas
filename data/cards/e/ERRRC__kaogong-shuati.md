@@ -1,6 +1,6 @@
 # ERRRC/kaogong-shuati
 
-⭐ 114 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ERRRC/kaogong-shuati) · 个人维护 · 中文 README
+⭐ 122 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ERRRC/kaogong-shuati) · 个人维护 · 中文 README
 
 **考公刷题应用：本地题库刷题+错题本+AI解析批改**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ERRRC/kaogong-shuati 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 68 --> 118
-    line [72, 76, 83, 93, 104, 108, 114]
+    title "ERRRC/kaogong-shuati 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 67 --> 127
+    line [72, 76, 83, 93, 104, 108, 114, 122]
 ```
 
-2026-10-18 72 → 2026-10-26 114（+42）
+2026-10-18 72 → 2026-10-27 122（+50）
 
 
 ---

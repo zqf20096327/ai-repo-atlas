@@ -1,6 +1,6 @@
 # microsoft/agent-host-protocol
 
-⭐ 414 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/agent-host-protocol) · [官网](https://microsoft.github.io/agent-host-protocol/) · 组织维护
+⭐ 416 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agent-host-protocol) · [官网](https://microsoft.github.io/agent-host-protocol/) · 组织维护
 
 **微软的 AI agent 会话多客户端状态同步协议**
 
@@ -44,13 +44,13 @@ Agent Host Protocol（AHP）定义便携独立会话服务器与客户端之间�
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-host-protocol 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 403 --> 415
-    line [404, 408, 410, 411, 413, 414]
+    title "microsoft/agent-host-protocol 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 403 --> 417
+    line [404, 408, 410, 411, 413, 414, 416]
 ```
 
-2026-10-18 404 → 2026-10-26 414（+10）
+2026-10-18 404 → 2026-10-27 416（+12）
 
 
 ---

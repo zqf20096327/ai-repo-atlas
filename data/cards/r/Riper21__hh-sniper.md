@@ -1,6 +1,6 @@
 # Riper21/hh-sniper
 
-⭐ 32 · Python · 推送 2026-10-19 · [GitHub](https://github.com/Riper21/hh-sniper) · 个人维护
+⭐ 33 · Python · 推送 2026-10-19 · [GitHub](https://github.com/Riper21/hh-sniper) · 个人维护
 
 **hh.ru 职位自动狙击器：LLM 打分、10 分钟内自动投递**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Riper21/hh-sniper 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-19 31 → 2026-10-26 32（+1）
+2026-10-19 31 → 2026-10-27 33（+2）
 
 
 ---

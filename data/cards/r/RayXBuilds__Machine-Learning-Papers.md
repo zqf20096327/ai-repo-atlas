@@ -1,6 +1,6 @@
 # RayXBuilds/Machine-Learning-Papers
 
-⭐ 69 · Python · 推送 2026-10-25 · [GitHub](https://github.com/RayXBuilds/Machine-Learning-Papers) · 个人维护 · 中文 README
+⭐ 69 · Python · 推送 2026-10-26 · [GitHub](https://github.com/RayXBuilds/Machine-Learning-Papers) · 个人维护 · 中文 README
 
 **按主题整理的机器学习论文中文导读与历史资料库**
 
@@ -40,6 +40,18 @@
 
 > L5: **按主题整理的机器学习论文、中文导读与历史资料库。**
 > L35: 数量为 2026-10-26 整理时快照：26 篇独立导读、147 份历史 PDF。PDF 包含译文与技术资料，不代表 147 篇独立论文。后续收录同步维护目录和数量。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RayXBuilds/Machine-Learning-Papers 星数(近 2 点)"
+    x-axis ["2026-10-26", "2026-10-27"]
+    y-axis "stars" 68 --> 70
+    line [69, 69]
+```
+
+2026-10-26 69 → 2026-10-27 69（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mikkel/ComfyUI-text-overlay
 
-⭐ 65 · Python · 推送 2026-10-23 · [GitHub](https://github.com/mikkel/ComfyUI-text-overlay) · 个人维护
+⭐ 66 · Python · 推送 2026-10-23 · [GitHub](https://github.com/mikkel/ComfyUI-text-overlay) · 个人维护
 
 **ComfyUI 插件：在图像上叠加自定义文字**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "mikkel/ComfyUI-text-overlay 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-26"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-24", "2026-10-27"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-24 65 → 2026-10-26 65（+0）
+2026-10-24 65 → 2026-10-27 66（+1）
 
 
 ---

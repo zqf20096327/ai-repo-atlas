@@ -1,6 +1,6 @@
 # glincker/glin-profanity
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/glincker/glin-profanity) · [官网](https://www.glincker.com/tools/glin-profanity) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/glincker/glin-profanity) · [官网](https://www.glincker.com/tools/glin-profanity) · 组织维护
 
 **给开发者的离线内容检测库：脏话/PII/密钥/提示注入过滤**
 
@@ -44,13 +44,13 @@ MIT 许可的脏话与内容检测库，提供 npm 与 PyPI 双语言包及 MCP 
 
 ```mermaid
 xychart-beta
-    title "glincker/glin-profanity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    title "glincker/glin-profanity 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
     y-axis "stars" 64 --> 67
-    line [66, 65]
+    line [66, 65, 66]
 ```
 
-2026-10-18 66 → 2026-10-26 65（-1）
+2026-10-18 66 → 2026-10-27 66（+0）
 
 
 ---

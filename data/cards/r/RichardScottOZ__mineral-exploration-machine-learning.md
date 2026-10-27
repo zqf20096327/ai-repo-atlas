@@ -1,6 +1,6 @@
 # RichardScottOZ/mineral-exploration-machine-learning
 
-⭐ 349 · 推送 2026-10-18 · [GitHub](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) · 个人维护
+⭐ 350 · 推送 2026-10-18 · [GitHub](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) · 个人维护
 
 **矿产勘查机器学习资源清单：框架、找矿预测与地质制图代码示例**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RichardScottOZ/mineral-exploration-machine-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 345 --> 350
-    line [346, 347, 349, 349]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 345 --> 351
+    line [346, 347, 349, 350]
 ```
 
-2026-10-18 346 → 2026-10-26 349（+3）
+2026-10-18 346 → 2026-10-27 350（+4）
 
 
 ---

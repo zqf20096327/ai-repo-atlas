@@ -1,6 +1,6 @@
 # jaeseok614/ai-hardware-fit
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/jaeseok614/ai-hardware-fit) · [官网](https://jaeseok614.github.io/ai-hardware-fit/) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jaeseok614/ai-hardware-fit) · [官网](https://jaeseok614.github.io/ai-hardware-fit/) · 个人维护
 
 **GPU 与 AI 模型适配查询工具：选 GPU 得可跑模型与运行命令**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jaeseok614/ai-hardware-fit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-26 44（+1）
+2026-10-18 43 → 2026-10-27 44（+1）
 
 
 ---

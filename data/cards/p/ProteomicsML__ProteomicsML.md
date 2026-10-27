@@ -1,6 +1,6 @@
 # ProteomicsML/ProteomicsML
 
-⭐ 60 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-10-31 · [GitHub](https://github.com/ProteomicsML/ProteomicsML) · [官网](https://www.proteomicsml.org) · 组织维护
+⭐ 61 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-10-31 · [GitHub](https://github.com/ProteomicsML/ProteomicsML) · [官网](https://www.proteomicsml.org) · 组织维护
 
 **蛋白质组学机器学习的社区数据集与教程平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProteomicsML/ProteomicsML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-18 60 → 2026-10-26 60（+0）
+2026-10-18 60 → 2026-10-27 61（+1）
 
 
 ---

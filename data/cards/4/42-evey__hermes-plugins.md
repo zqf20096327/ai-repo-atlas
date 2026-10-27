@@ -1,6 +1,6 @@
 # 42-evey/hermes-plugins
 
-⭐ 536 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/42-evey/hermes-plugins) · [官网](https://evey.cc) · 个人维护
+⭐ 538 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/42-evey/hermes-plugins) · [官网](https://evey.cc) · 个人维护
 
 **hermes-agent 的 23 个自定义插件：自主决策/遥测/成本控制**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "42-evey/hermes-plugins 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 530 --> 537
-    line [531, 533, 531, 532, 534, 536]
+    title "42-evey/hermes-plugins 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 530 --> 539
+    line [531, 533, 531, 532, 534, 536, 538]
 ```
 
-2026-10-18 531 → 2026-10-26 536（+5）
+2026-10-18 531 → 2026-10-27 538（+7）
 
 
 ---

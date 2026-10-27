@@ -1,6 +1,6 @@
 # developeryj1992/ai-trend-studio
 
-⭐ 82 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/developeryj1992/ai-trend-studio) · 个人维护 · 中文 README
+⭐ 240 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/developeryj1992/ai-trend-studio) · 个人维护 · 中文 README
 
 **本地优先的 AI 趋势雷达与直播内容结构化摘要工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "developeryj1992/ai-trend-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 1 --> 100
-    line [9, 27, 92, 82]
+    title "developeryj1992/ai-trend-studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 0 --> 263
+    line [9, 27, 92, 82, 240]
 ```
 
-2026-10-18 9 → 2026-10-26 82（+73）
+2026-10-18 9 → 2026-10-27 240（+231）
 
 
 ---

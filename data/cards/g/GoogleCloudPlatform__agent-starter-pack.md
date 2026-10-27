@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/agent-starter-pack
 
-⭐ 6,570 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/GoogleCloudPlatform/agent-starter-pack) · [官网](http://goo.gle/agents-cli) · 组织维护
+⭐ 6,571 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/GoogleCloudPlatform/agent-starter-pack) · [官网](http://goo.gle/agents-cli) · 组织维护
 
 **Google Cloud 上构建与部署 GenAI agent 的生产级模板包**
 
@@ -45,12 +45,12 @@ Google CloudPlatform 维护的 Python 包，为 GenAI agent 提供生产就绪�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/agent-starter-pack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 6567 --> 6571
-    line [6568, 6570, 6570]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 6567 --> 6572
+    line [6568, 6570, 6571]
 ```
 
-2026-10-18 6,568 → 2026-10-26 6,570（+2）
+2026-10-18 6,568 → 2026-10-27 6,571（+3）
 
 
 ---

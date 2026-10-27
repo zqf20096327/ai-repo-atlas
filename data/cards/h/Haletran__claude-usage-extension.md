@@ -1,6 +1,6 @@
 # Haletran/claude-usage-extension
 
-⭐ 30 · JavaScript · MIT · 推送 2026-02-13 · [GitHub](https://github.com/Haletran/claude-usage-extension) · 个人维护
+⭐ 31 · JavaScript · MIT · 推送 2026-02-13 · [GitHub](https://github.com/Haletran/claude-usage-extension) · 个人维护
 
 **GNOME Shell 扩展：在顶栏显示 Claude Code 用量百分比**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Haletran/claude-usage-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-26 30（+0）
+2026-10-18 30 → 2026-10-27 31（+1）
 
 
 ---

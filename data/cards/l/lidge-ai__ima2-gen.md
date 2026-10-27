@@ -1,6 +1,6 @@
 # lidge-ai/ima2-gen
 
-⭐ 886 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护
+⭐ 887 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护
 
 **本地优先的图像/视频生成工作室，供人与编码 agent 使用**
 
@@ -46,13 +46,13 @@ ima2-gen 是运行在本机的视觉生成运行时与工作室：本地起小�
 
 ```mermaid
 xychart-beta
-    title "lidge-ai/ima2-gen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 872 --> 887
-    line [873, 876, 879, 881, 884, 885, 886]
+    title "lidge-ai/ima2-gen 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 872 --> 888
+    line [873, 876, 879, 881, 884, 885, 886, 887]
 ```
 
-2026-10-18 873 → 2026-10-26 886（+13）
+2026-10-18 873 → 2026-10-27 887（+14）
 
 
 ---

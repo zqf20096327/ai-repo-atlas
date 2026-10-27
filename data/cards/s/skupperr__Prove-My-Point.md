@@ -1,6 +1,6 @@
 # skupperr/Prove-My-Point
 
-⭐ 51 · JavaScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/skupperr/Prove-My-Point) · [官网](https://prove-my-point.vercel.app) · 个人维护
+⭐ 52 · JavaScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/skupperr/Prove-My-Point) · [官网](https://prove-my-point.vercel.app) · 个人维护
 
 **基于学术论文检索的 RAG 问答 Web 助手，回答附引用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skupperr/Prove-My-Point 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-26 51（+0）
+2026-10-18 51 → 2026-10-27 52（+1）
 
 
 ---

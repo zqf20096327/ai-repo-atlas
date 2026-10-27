@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
     y-axis "stars" 249 --> 252
     line [251, 250, 250]
 ```
 
-2026-10-18 251 → 2026-10-26 250（-1）
+2026-10-18 251 → 2026-10-27 250（-1）
 
 
 ---

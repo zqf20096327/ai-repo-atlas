@@ -1,6 +1,6 @@
 # AmbiqAI/sleepkit
 
-⭐ 32 · HTML · BSD-3-Clause · 推送 2026-10-07 · [GitHub](https://github.com/AmbiqAI/sleepkit) · [官网](https://ambiqai.github.io/sleepkit/) · 组织维护
+⭐ 32 · HTML · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/AmbiqAI/sleepkit) · [官网](https://ambiqai.github.io/sleepkit/) · 组织维护
 
 **超低功耗 Ambiq SoC 上的实时睡眠监测 AI 开发套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmbiqAI/sleepkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
+    x-axis ["2026-10-18", "2026-10-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-26 32（+0）
+2026-10-18 32 → 2026-10-27 32（+0）
 
 
 ---

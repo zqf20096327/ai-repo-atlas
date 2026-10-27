@@ -1,6 +1,6 @@
 # rayanht/msplat
 
-⭐ 101 · Metal · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/rayanht/msplat) · 个人维护
+⭐ 102 · Metal · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/rayanht/msplat) · 个人维护
 
 **Apple Silicon 上的 3D 高斯泼溅训练引擎，全 Metal 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rayanht/msplat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26"]
-    y-axis "stars" 96 --> 102
-    line [97, 98, 101, 101]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    y-axis "stars" 96 --> 103
+    line [97, 98, 101, 102]
 ```
 
-2026-10-18 97 → 2026-10-26 101（+4）
+2026-10-18 97 → 2026-10-27 102（+5）
 
 
 ---

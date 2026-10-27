@@ -1,6 +1,6 @@
 # matank001/clodfarm
 
-⭐ 210 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/matank001/clodfarm) · [官网](https://towers.app) · 个人维护
+⭐ 212 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/matank001/clodfarm) · [官网](https://towers.app) · 个人维护
 
 **多账号 Claude Code agent 集群编排系统：全天运行、按量限速**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "matank001/clodfarm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26"]
-    y-axis "stars" 195 --> 211
-    line [196, 200, 205, 208, 209, 210]
+    title "matank001/clodfarm 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 195 --> 213
+    line [196, 200, 205, 208, 209, 210, 212]
 ```
 
-2026-10-18 196 → 2026-10-26 210（+14）
+2026-10-18 196 → 2026-10-27 212（+16）
 
 
 ---

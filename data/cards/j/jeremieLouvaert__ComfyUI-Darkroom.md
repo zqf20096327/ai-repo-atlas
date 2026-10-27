@@ -1,6 +1,6 @@
 # jeremieLouvaert/ComfyUI-Darkroom
 
-⭐ 127 · Python · 推送 2026-10-05 · [GitHub](https://github.com/jeremieLouvaert/ComfyUI-Darkroom) · 个人维护
+⭐ 130 · Python · 推送 2026-10-05 · [GitHub](https://github.com/jeremieLouvaert/ComfyUI-Darkroom) · 个人维护
 
 **ComfyUI 调色与胶片模拟节点套件：59 个节点、161 种胶片**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeremieLouvaert/ComfyUI-Darkroom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 122 --> 128
-    line [123, 125, 126, 127]
+    title "jeremieLouvaert/ComfyUI-Darkroom 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 122 --> 131
+    line [123, 125, 126, 127, 130]
 ```
 
-2026-10-18 123 → 2026-10-26 127（+4）
+2026-10-18 123 → 2026-10-27 130（+7）
 
 
 ---

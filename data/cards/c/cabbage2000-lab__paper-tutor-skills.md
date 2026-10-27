@@ -1,6 +1,6 @@
 # cabbage2000-lab/paper-tutor-skills
 
-⭐ 46 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/cabbage2000-lab/paper-tutor-skills) · 个人维护 · 中文 README
+⭐ 47 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/cabbage2000-lab/paper-tutor-skills) · 个人维护 · 中文 README
 
 **面向中文研究生的学术辅导 skill 套件：选题到投稿全流程命令**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cabbage2000-lab/paper-tutor-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-18 45 → 2026-10-26 46（+1）
+2026-10-18 45 → 2026-10-27 47（+2）
 
 
 ---

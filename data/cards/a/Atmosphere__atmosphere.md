@@ -1,6 +1,6 @@
 # Atmosphere/atmosphere
 
-⭐ 3,823 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
+⭐ 3,824 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
 
 **JVM 上的 AI agent 实时运行时框架：一个 @Agent 跨 12 个运行时适配器运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Atmosphere/atmosphere 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26"]
-    y-axis "stars" 3819 --> 3824
-    line [3820, 3821, 3823, 3823]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    y-axis "stars" 3819 --> 3825
+    line [3820, 3821, 3823, 3824]
 ```
 
-2026-10-18 3,820 → 2026-10-26 3,823（+3）
+2026-10-18 3,820 → 2026-10-27 3,824（+4）
 
 
 ---

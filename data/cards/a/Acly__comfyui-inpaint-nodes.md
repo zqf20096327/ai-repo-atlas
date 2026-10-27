@@ -1,6 +1,6 @@
 # Acly/comfyui-inpaint-nodes
 
-⭐ 1,251 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-inpaint-nodes) · 个人维护
+⭐ 1,252 · Python · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/Acly/comfyui-inpaint-nodes) · 个人维护
 
 **ComfyUI 图像重绘节点集：Fooocus 重绘模型、LaMa/MAT 与遮罩预处理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Acly/comfyui-inpaint-nodes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26"]
-    y-axis "stars" 1246 --> 1252
-    line [1247, 1248, 1249, 1250, 1251]
+    title "Acly/comfyui-inpaint-nodes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    y-axis "stars" 1246 --> 1253
+    line [1247, 1248, 1249, 1250, 1251, 1252]
 ```
 
-2026-10-18 1,247 → 2026-10-26 1,251（+4）
+2026-10-18 1,247 → 2026-10-27 1,252（+5）
 
 
 ---

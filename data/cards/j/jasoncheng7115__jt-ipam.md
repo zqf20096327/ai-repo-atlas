@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-ipam
 
-⭐ 122 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/jasoncheng7115/jt-ipam) · [官网](https://jasoncheng7115.github.io/jt-ipam/) · 组织维护 · 中文 README
+⭐ 122 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jasoncheng7115/jt-ipam) · [官网](https://jasoncheng7115.github.io/jt-ipam/) · 组织维护 · 中文 README
 
 **自托管 IPAM：操作流接近 phpIPAM，深度集成多种 DNS/网络/虚拟化平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasoncheng7115/jt-ipam 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26"]
+    title "jasoncheng7115/jt-ipam 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
     y-axis "stars" 117 --> 123
-    line [118, 119, 120, 121, 122]
+    line [118, 119, 120, 121, 122, 122]
 ```
 
-2026-10-18 118 → 2026-10-26 122（+4）
+2026-10-18 118 → 2026-10-27 122（+4）
 
 
 ---

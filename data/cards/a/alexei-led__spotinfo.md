@@ -1,6 +1,6 @@
 # alexei-led/spotinfo
 
-⭐ 164 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alexei-led/spotinfo) · 个人维护
+⭐ 165 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/alexei-led/spotinfo) · 个人维护
 
 **跨 AWS/GCP/Azure 的 Spot 实例比价 CLI，内嵌价格快照可离线**
 
@@ -45,12 +45,12 @@ Go 编写的命令行工具，面向需要挑选 Spot/抢占式实例的云成�
 ```mermaid
 xychart-beta
     title "alexei-led/spotinfo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-26"]
-    y-axis "stars" 163 --> 165
-    line [164, 164]
+    x-axis ["2026-10-18", "2026-10-27"]
+    y-axis "stars" 163 --> 166
+    line [164, 165]
 ```
 
-2026-10-18 164 → 2026-10-26 164（+0）
+2026-10-18 164 → 2026-10-27 165（+1）
 
 
 ---
