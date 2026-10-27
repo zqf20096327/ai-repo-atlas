@@ -1,1 +1,85 @@
-{"fn": "kkk-bot/HowToLiveWithAI", "sha": "8de7e36c9d10", "source": "readme", "identity": {"one_liner": "写给普通年轻人的中文 AI 学习指南（6 章 29 节）", "review": "一份面向普通年轻人的 AI 学习参考指南：用白话讲解 AI 基础概念（模型、记忆、幻觉）、与 AI 配合的方法、技能选择、行动安排、工作机会与使用边界，共 6 章 29 节正文加 4 个附录，配练习与参考答案。依据分级标注为研究、官方资料与作者建议，作者方法尚未经读者实测；提供 HTML/PDF/离线包阅读形式，附研究资料索引（R01—R41）。仓库含 book/ 源文件与 Python/Node 构建脚本，内容以 CC BY 4.0 发布，另有 PDF 付费下载版。", "highlights": ["6 章 29 节正文 + 4 个附录，v0.19.1，附练习与参考答案", "依据分级（研究/官方资料/作者建议）并明示使用边界与未实测声明", "提供 HTML 检索、连续阅读、PDF（67 个书签）与离线阅读包", "仓库含生成脚本，同步 HTML/Markdown/PDF 并校验编号与交叉引用"], "use_cases": ["刚接触 AI，想了解基础概念再决定学什么", "想通过可检查的小练习开始使用 AI", "按眼前问题（求职、办公、家庭使用）选读相关章节"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15, 74, 122]}}, "links": {"scenario_tags": ["AI 素养", "学习指南", "中文内容", "科普/教学", "CC BY 4.0"], "domain": "AI 通识教育/学习资料", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 与正文", "小红书/抖音发布与付费下载版", "中文课程入口（B 站、抖音线索）"]}, "trust": {"confidence": "high", "evidence": ["L9: **这是一份写给正在学习、初入职场或寻找方向的普通年轻人的 AI 学习指南。用白话认识基础知识，讨论值得学的技能，再从一件容易检查的小事开始。**", "L11: 认识 AI，减少焦虑，学会判断，从小事开始行动。你可以按六章主线阅读，也可以从眼前的问题选读；无需购买昂贵工具、完成商业项目或公开作品。每节说明理由、做法、可尝试的动作和检查方法。正文补有工具选择、资料冲突、数据比例、学习纠错、岗位分析和青"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kkk-bot/HowToLiveWithAI",
+ "sha": "8de7e36c9d10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "写给普通年轻人的中文 AI 学习指南（6 章 29 节）",
+  "review": "一份面向普通年轻人的 AI 学习参考指南：用白话讲解 AI 基础概念（模型、记忆、幻觉）、与 AI 配合的方法、技能选择、行动安排、工作机会与使用边界，共 6 章 29 节正文加 4 个附录，配练习与参考答案。依据分级标注为研究、官方资料与作者建议，作者方法尚未经读者实测；提供 HTML/PDF/离线包阅读形式，附研究资料索引（R01—R41）。仓库含 book/ 源文件与 Python/Node 构建脚本，内容以 CC BY 4.0 发布，另有 PDF 付费下载版。",
+  "highlights": [
+   "6 章 29 节正文 + 4 个附录，v0.19.1，附练习与参考答案",
+   "依据分级（研究/官方资料/作者建议）并明示使用边界与未实测声明",
+   "提供 HTML 检索、连续阅读、PDF（67 个书签）与离线阅读包",
+   "仓库含生成脚本，同步 HTML/Markdown/PDF 并校验编号与交叉引用"
+  ],
+  "use_cases": [
+   "刚接触 AI，想了解基础概念再决定学什么",
+   "想通过可检查的小练习开始使用 AI",
+   "按眼前问题（求职、办公、家庭使用）选读相关章节"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15,
+    74,
+    122
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI 素养",
+   "学习指南",
+   "中文内容",
+   "科普/教学",
+   "CC BY 4.0"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与正文",
+   "小红书/抖音发布与付费下载版",
+   "中文课程入口（B 站、抖音线索）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: **这是一份写给正在学习、初入职场或寻找方向的普通年轻人的 AI 学习指南。用白话认识基础知识，讨论值得学的技能，再从一件容易检查的小事开始。**",
+   "L11: 认识 AI，减少焦虑，学会判断，从小事开始行动。你可以按六章主线阅读，也可以从眼前的问题选读；无需购买昂贵工具、完成商业项目或公开作品。每节说明理由、做法、可尝试的动作和检查方法。正文补有工具选择、资料冲突、数据比例、学习纠错、岗位分析和青"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
