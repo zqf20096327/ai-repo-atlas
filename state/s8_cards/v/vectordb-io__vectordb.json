@@ -1,1 +1,80 @@
-{"fn": "vectordb-io/vectordb", "sha": "b408c38f1551", "source": "readme", "identity": {"one_liner": "Rust 编写的独立向量数据库，支持语义搜索与 RAG 存储", "review": "以 Rust 实现的独立向量数据库：提供可嵌入引擎、HTTP 服务与命令行，持久化基于嵌入式 SQLite（WAL、事务、崩溃恢复、快照备份）。支持多库/集合/分区、多种向量类型与 COSINE/IP/L2/HAMMING/JACCARD 距离、FLAT/IVF_FLAT/HNSW 索引、标量预过滤与多向量 RRF/加权融合排序。不自动生成嵌入，应用需自行提交向量。处于 0.1.0 Alpha，明确不是 Milvus 的直接替代品；另含 Python 嵌入包（未发布到 PyPI，本地构建）。", "highlights": ["SQLite WAL 持久化：事务、崩溃恢复、快照备份、JSONL 导入导出", "FLAT/IVF_FLAT/HNSW 索引与标量预过滤、范围/分组/多向量搜索", "可嵌入形态：Rust crate、本地构建的 Python 包（vectordb_io）、HTTP 服务", "Bearer 认证、并发队列限制、Prometheus 指标、优雅停机"], "use_cases": ["为 RAG 应用提供带元数据过滤的向量存储与检索", "在 Python 或 Rust 进程内嵌入使用向量数据库", "需要单机事务性与崩溃恢复的语义搜索服务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [7, 51]}}, "links": {"scenario_tags": ["向量数据库", "RAG", "语义搜索", "嵌入式数据库", "Rust"], "domain": "数据库/AI 基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: A standalone vector database reimplemented in Rust, with an embeddable engine, an HTTP service, transactional persistenc", "L38: Embeddings are not generated automatically; applications must generate and submit vectors. The database logic, filters, "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vectordb-io/vectordb",
+ "sha": "b408c38f1551",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Rust 编写的独立向量数据库，支持语义搜索与 RAG 存储",
+  "review": "以 Rust 实现的独立向量数据库：提供可嵌入引擎、HTTP 服务与命令行，持久化基于嵌入式 SQLite（WAL、事务、崩溃恢复、快照备份）。支持多库/集合/分区、多种向量类型与 COSINE/IP/L2/HAMMING/JACCARD 距离、FLAT/IVF_FLAT/HNSW 索引、标量预过滤与多向量 RRF/加权融合排序。不自动生成嵌入，应用需自行提交向量。处于 0.1.0 Alpha，明确不是 Milvus 的直接替代品；另含 Python 嵌入包（未发布到 PyPI，本地构建）。",
+  "highlights": [
+   "SQLite WAL 持久化：事务、崩溃恢复、快照备份、JSONL 导入导出",
+   "FLAT/IVF_FLAT/HNSW 索引与标量预过滤、范围/分组/多向量搜索",
+   "可嵌入形态：Rust crate、本地构建的 Python 包（vectordb_io）、HTTP 服务",
+   "Bearer 认证、并发队列限制、Prometheus 指标、优雅停机"
+  ],
+  "use_cases": [
+   "为 RAG 应用提供带元数据过滤的向量存储与检索",
+   "在 Python 或 Rust 进程内嵌入使用向量数据库",
+   "需要单机事务性与崩溃恢复的语义搜索服务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    7,
+    51
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "向量数据库",
+   "RAG",
+   "语义搜索",
+   "嵌入式数据库",
+   "Rust"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "vector-database"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: A standalone vector database reimplemented in Rust, with an embeddable engine, an HTTP service, transactional persistenc",
+   "L38: Embeddings are not generated automatically; applications must generate and submit vectors. The database logic, filters, "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

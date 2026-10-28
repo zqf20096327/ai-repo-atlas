@@ -32,7 +32,7 @@ Suisha 是一个 Discord 机器人，通过 Automatic1111 WebUI 的 API 作为�
 
 ## 场景标签
 
- · 领域:图像生成/聊天机器人
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

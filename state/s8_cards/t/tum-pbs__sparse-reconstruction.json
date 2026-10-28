@@ -1,1 +1,76 @@
-{"fn": "tum-pbs/sparse-reconstruction", "sha": "0fbb6e6e6e29", "source": "readme", "identity": {"one_liner": "用引导扩散模型从稀疏数据重建流场的论文参考实现", "review": "慕尼黑工业大学团队发表的 Physics of Fluids 论文“Guiding diffusion models to reconstruct flow fields from sparse data”的官方实现。提供 2D 场景的 U-net 网络与训练代码（networks.py、diffusion.py 中的 masked_diffusion() 方法），以及示例 notebook 演示从预训练扩散模型采样并用掩码扩散方法从稀疏测量重建流场。使用 Kolmogorov 涡流数据集（需自行下载置于 data 目录），通过 trainer.py 脚本训练。目前仅含 2D 场景，3D 场景尚未发布。", "highlights": ["掩码扩散引导方法（Diffusion 类的 masked_diffusion()）从稀疏测量重建流场", "提供 2D 场景的网络与训练代码，含可调参数的 trainer.py", "示例 notebook 演示预训练模型采样与稀疏重建流程"], "use_cases": ["复现论文中的流场稀疏重建方法", "在 Kolmogorov 涡流数据集上训练扩散重建模型", "基于代码开展 CFD 稀疏数据重建研究"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1063/5.0304492", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["科学计算", "扩散模型", "CFD/流体力学", "论文实现"], "domain": "科学计算/流体力学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains the reference implementation of the framework presented in the article “Guiding diffusion model", "L8: The repository currently contains the network and training codes for the 2D scenario (3D scenario coming soon). Moreover", "L11: The architecture of the U-net network behind the model can be found in `networks.py`. The implementation of our guidance"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tum-pbs/sparse-reconstruction",
+ "sha": "0fbb6e6e6e29",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用引导扩散模型从稀疏数据重建流场的论文参考实现",
+  "review": "慕尼黑工业大学团队发表的 Physics of Fluids 论文“Guiding diffusion models to reconstruct flow fields from sparse data”的官方实现。提供 2D 场景的 U-net 网络与训练代码（networks.py、diffusion.py 中的 masked_diffusion() 方法），以及示例 notebook 演示从预训练扩散模型采样并用掩码扩散方法从稀疏测量重建流场。使用 Kolmogorov 涡流数据集（需自行下载置于 data 目录），通过 trainer.py 脚本训练。目前仅含 2D 场景，3D 场景尚未发布。",
+  "highlights": [
+   "掩码扩散引导方法（Diffusion 类的 masked_diffusion()）从稀疏测量重建流场",
+   "提供 2D 场景的网络与训练代码，含可调参数的 trainer.py",
+   "示例 notebook 演示预训练模型采样与稀疏重建流程"
+  ],
+  "use_cases": [
+   "复现论文中的流场稀疏重建方法",
+   "在 Kolmogorov 涡流数据集上训练扩散重建模型",
+   "基于代码开展 CFD 稀疏数据重建研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1063/5.0304492",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "科学计算",
+   "扩散模型",
+   "CFD/流体力学",
+   "论文实现"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains the reference implementation of the framework presented in the article “Guiding diffusion model",
+   "L8: The repository currently contains the network and training codes for the 2D scenario (3D scenario coming soon). Moreover",
+   "L11: The architecture of the U-net network behind the model can be found in `networks.py`. The implementation of our guidance"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

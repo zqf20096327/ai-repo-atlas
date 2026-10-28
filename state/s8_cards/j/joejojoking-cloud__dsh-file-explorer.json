@@ -1,1 +1,79 @@
-{"fn": "joejojoking-cloud/dsh-file-explorer", "sha": "4efd46fa6b22", "source": "readme", "identity": {"one_liner": "DeepSeek Harness 的全局文件资源管理器插件", "review": "面向 DeepSeek Harness 的右侧面板插件：在会话标题栏提供文件树入口，支持可调宽度面板（260–900px）、浏览器式多标签文件预览、Markdown 渲染与按扩展名语法高亮、面板内编辑并写回磁盘、一键在 VS Code 或系统文件管理器中打开，以及跳过 .git/node_modules 的工作区递归搜索（最多 300 条）。超过 1 MB 的文件不支持预览。通过 dsh plugin 命令安装，重启 harness 后对所有会话生效；源码分 host 与 web client 两半部，构建后由内容哈希自动换新。", "highlights": ["右侧可调宽度文件树 + 独立收起的预览面板", "浏览器式多标签预览：Markdown 渲染与按扩展名语法高亮，面板内编辑写回磁盘", "一键 VS Code / 系统文件管理器打开，双击聊天区按项目过滤标签", "递归工作区搜索，跳过 .git/node_modules，上限 300 条"], "use_cases": ["在 DeepSeek Harness 会话中直接浏览和编辑项目文件", "预览 Markdown 与代码文件而不离开对话界面", "从插件快速跳转到 VS Code 或系统文件管理器继续操作"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent 插件", "文件管理", "开发者工具", "DeepSeek Harness"], "domain": "AI Agent 工具链/文件管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 正文"]}, "trust": {"confidence": "high", "evidence": ["L3: > **File Explorer for DeepSeek Harness** — right-side resizable file tree with Markdown rendering, syntax highlighting, ", "L5: DeepSeek Harness 的全局文件资源管理器插件：在任何会话的标题栏右侧提供文件夹切换按钮，点击后在页面**右侧**打开可调宽度的文件树面板。", "L29: - `src/client/index.ts` — web client 半部（`tsc` → `lib/client/index.js` → `tsdown` → `lib/client.js`）：注册 `shell.overlay` 面"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "joejojoking-cloud/dsh-file-explorer",
+ "sha": "4efd46fa6b22",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的全局文件资源管理器插件",
+  "review": "面向 DeepSeek Harness 的右侧面板插件：在会话标题栏提供文件树入口，支持可调宽度面板（260–900px）、浏览器式多标签文件预览、Markdown 渲染与按扩展名语法高亮、面板内编辑并写回磁盘、一键在 VS Code 或系统文件管理器中打开，以及跳过 .git/node_modules 的工作区递归搜索（最多 300 条）。超过 1 MB 的文件不支持预览。通过 dsh plugin 命令安装，重启 harness 后对所有会话生效；源码分 host 与 web client 两半部，构建后由内容哈希自动换新。",
+  "highlights": [
+   "右侧可调宽度文件树 + 独立收起的预览面板",
+   "浏览器式多标签预览：Markdown 渲染与按扩展名语法高亮，面板内编辑写回磁盘",
+   "一键 VS Code / 系统文件管理器打开，双击聊天区按项目过滤标签",
+   "递归工作区搜索，跳过 .git/node_modules，上限 300 条"
+  ],
+  "use_cases": [
+   "在 DeepSeek Harness 会话中直接浏览和编辑项目文件",
+   "预览 Markdown 与代码文件而不离开对话界面",
+   "从插件快速跳转到 VS Code 或系统文件管理器继续操作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent 插件",
+   "文件管理",
+   "开发者工具",
+   "DeepSeek Harness"
+  ],
+  "domain": "AI Agent 工具链/文件管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 正文"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: > **File Explorer for DeepSeek Harness** — right-side resizable file tree with Markdown rendering, syntax highlighting, ",
+   "L5: DeepSeek Harness 的全局文件资源管理器插件：在任何会话的标题栏右侧提供文件夹切换按钮，点击后在页面**右侧**打开可调宽度的文件树面板。",
+   "L29: - `src/client/index.ts` — web client 半部（`tsc` → `lib/client/index.js` → `tsdown` → `lib/client.js`）：注册 `shell.overlay` 面"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

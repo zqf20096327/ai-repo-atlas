@@ -1,1 +1,75 @@
-{"fn": "trflorian/virtual-hand-clone", "sha": "49a6eabfe42f", "source": "readme", "identity": {"one_liner": "用单个摄像头追踪手部并在 Godot 中生成 3D 手部克隆", "review": "通过 Python + MediaPipe + OpenCV 从单个摄像头检测并追踪手部关键点坐标，坐标经 UDP 发送至 Godot 4.6 游戏引擎，在 3D 场景中可视化虚拟手部克隆。运行方式：在 python 目录用 uv run hand_detection.py 启动检测窗口，同时在 Godot 中打开 godot 目录项目运行。项目提供教程与演示动画，MIT 许可。", "highlights": ["MediaPipe + OpenCV 单摄像头手部关键点检测", "检测坐标经 UDP 发送至 Godot 进行 3D 可视化", "uv 一键安装依赖并运行检测脚本"], "use_cases": ["在 Godot 游戏或原型中用自己的手实时操控 3D 虚拟手", "学习手部追踪与引擎间 UDP 通信的实现方式"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["手部追踪", "计算机视觉", "Godot", "实时交互"], "domain": "计算机视觉/交互应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: In this project I created a digital 3D clone of my hands with a single webcam.", "L10: To track the hands, I use mediapipe with OpenCV and Python.", "L11: The identified hand landmark coordinates are then packaged and sent via UDP to Godot, where the virtual hands are then v"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "trflorian/virtual-hand-clone",
+ "sha": "49a6eabfe42f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用单个摄像头追踪手部并在 Godot 中生成 3D 手部克隆",
+  "review": "通过 Python + MediaPipe + OpenCV 从单个摄像头检测并追踪手部关键点坐标，坐标经 UDP 发送至 Godot 4.6 游戏引擎，在 3D 场景中可视化虚拟手部克隆。运行方式：在 python 目录用 uv run hand_detection.py 启动检测窗口，同时在 Godot 中打开 godot 目录项目运行。项目提供教程与演示动画，MIT 许可。",
+  "highlights": [
+   "MediaPipe + OpenCV 单摄像头手部关键点检测",
+   "检测坐标经 UDP 发送至 Godot 进行 3D 可视化",
+   "uv 一键安装依赖并运行检测脚本"
+  ],
+  "use_cases": [
+   "在 Godot 游戏或原型中用自己的手实时操控 3D 虚拟手",
+   "学习手部追踪与引擎间 UDP 通信的实现方式"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "手部追踪",
+   "计算机视觉",
+   "Godot",
+   "实时交互"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: In this project I created a digital 3D clone of my hands with a single webcam.",
+   "L10: To track the hands, I use mediapipe with OpenCV and Python.",
+   "L11: The identified hand landmark coordinates are then packaged and sent via UDP to Godot, where the virtual hands are then v"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

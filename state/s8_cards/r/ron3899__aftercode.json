@@ -1,1 +1,80 @@
-{"fn": "ron3899/aftercode", "sha": "4e251b05b560", "source": "readme", "identity": {"one_liner": "把 AI 编程会话转成双语播客的自托管工具", "review": "Rust CLI + API 后端 + React Web UI 的自托管应用：自动检测 Claude Code / Codex / Cursor 的本地会话记录与 git diff，用 LLM 提炼技术主题并生成两主播播客脚本，经 TTS（ElevenLabs/OpenAI）合成音频，在网页播放列表中浏览收听，支持英语和希伯来语，附主题筛选、要点与测验。LLM 供应商在 trait 后可插拔，上传前有密钥正则脱敏与 preview 预览；目前为单用户构建，正式 OAuth/多用户在 Phase 3 计划中。标准安装仅需 Docker 运行后端镜像并安装 CLI 预编译二进制。", "highlights": ["自动检测 Claude Code / Codex / Cursor 会话 + git diff 生成播客", "LLM（Anthropic/OpenAI/mock）与 TTS（ElevenLabs/OpenAI/mock）供应商可插拔，支持无 key 的 mock 模式", "Docker 镜像后端 + 预编译 CLI，无需 clone 与编译", "上传前正则脱敏密钥，aftercode preview 可查看将发送的内容"], "use_cases": ["把每天的 AI 结对编程会话变成复习用的播客", "通勤时收听当天代码背后的技术概念讲解", "在网页播放列表中按主题、语言筛选和回放往期节目"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程", "播客生成", "学习工具", "自托管", "TTS"], "domain": "开发者学习工具/内容生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: **Turn your daily AI coding sessions into personalized learning podcasts.**", "L7: Aftercode connects to your coding-agent workflow (Claude Code, Codex, Cursor, …), figures out the deeper technical topic"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ron3899/aftercode",
+ "sha": "4e251b05b560",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 AI 编程会话转成双语播客的自托管工具",
+  "review": "Rust CLI + API 后端 + React Web UI 的自托管应用：自动检测 Claude Code / Codex / Cursor 的本地会话记录与 git diff，用 LLM 提炼技术主题并生成两主播播客脚本，经 TTS（ElevenLabs/OpenAI）合成音频，在网页播放列表中浏览收听，支持英语和希伯来语，附主题筛选、要点与测验。LLM 供应商在 trait 后可插拔，上传前有密钥正则脱敏与 preview 预览；目前为单用户构建，正式 OAuth/多用户在 Phase 3 计划中。标准安装仅需 Docker 运行后端镜像并安装 CLI 预编译二进制。",
+  "highlights": [
+   "自动检测 Claude Code / Codex / Cursor 会话 + git diff 生成播客",
+   "LLM（Anthropic/OpenAI/mock）与 TTS（ElevenLabs/OpenAI/mock）供应商可插拔，支持无 key 的 mock 模式",
+   "Docker 镜像后端 + 预编译 CLI，无需 clone 与编译",
+   "上传前正则脱敏密钥，aftercode preview 可查看将发送的内容"
+  ],
+  "use_cases": [
+   "把每天的 AI 结对编程会话变成复习用的播客",
+   "通勤时收听当天代码背后的技术概念讲解",
+   "在网页播放列表中按主题、语言筛选和回放往期节目"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "播客生成",
+   "学习工具",
+   "自托管",
+   "TTS"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "tts",
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: **Turn your daily AI coding sessions into personalized learning podcasts.**",
+   "L7: Aftercode connects to your coding-agent workflow (Claude Code, Codex, Cursor, …), figures out the deeper technical topic"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

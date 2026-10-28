@@ -1,1 +1,79 @@
-{"fn": "xLabel/AutoPatch-J", "sha": "0912d770f348", "source": "readme", "identity": {"one_liner": "面向 Java 仓库的代码修复 Agent：审阅问题并生成补丁", "review": "AutoPatch-J 是针对 Java 仓库的代码修复 Agent，读取静态扫描产生的 finding，由 LLM 生成补丁，经独立证据（重扫原规则）与人工审核后交付。关键机制包括：以 finding 附近源码为起点的按需上下文扩展与 focus scope 路径限制、按任务类型授权的工具系统（拦截未授权工具与绕过审核的写入）、对话之外保存 finding 队列与补丁状态、编译/测试等独立验收证据。可在本地 CLI 使用，也可接入 CI/CD 以 MR/PR 形式交付补丁。README 未给出安装命令与支持的 LLM 提供商清单。", "highlights": ["扫描 finding 驱动的逐项补丁生成，补丁绑定当前 finding 并限定修改范围", "工具系统按任务类型授权，拦截未授权工具与绕过审核的文件写入", "补丁应用后重扫原规则，以扫描结果作为独立验收证据", "支持本地 CLI 与 CI/CD 集成，以可评审的 MR/PR 交付"], "use_cases": ["在 CI 流水线中把静态扫描结果转成可评审的修复补丁", "开发者对 Java 仓库问题做人工在环（human-in-the-loop）的补丁审核", "跨项目复用代码风格与提交规范等工程偏好记忆"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码修复", "AI Agent", "静态分析", "CI/CD", "Java"], "domain": "软件工程/代码修复", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "mid", "evidence": ["L3:  面向 Java 仓库的代码修复 Agent，自动审阅代码，并针对发现的问题生成高质量补丁。", "L4:  它既可以在本地 CLI 中使用，也可以接入 CI/CD。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xLabel/AutoPatch-J",
+ "sha": "0912d770f348",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Java 仓库的代码修复 Agent：审阅问题并生成补丁",
+  "review": "AutoPatch-J 是针对 Java 仓库的代码修复 Agent，读取静态扫描产生的 finding，由 LLM 生成补丁，经独立证据（重扫原规则）与人工审核后交付。关键机制包括：以 finding 附近源码为起点的按需上下文扩展与 focus scope 路径限制、按任务类型授权的工具系统（拦截未授权工具与绕过审核的写入）、对话之外保存 finding 队列与补丁状态、编译/测试等独立验收证据。可在本地 CLI 使用，也可接入 CI/CD 以 MR/PR 形式交付补丁。README 未给出安装命令与支持的 LLM 提供商清单。",
+  "highlights": [
+   "扫描 finding 驱动的逐项补丁生成，补丁绑定当前 finding 并限定修改范围",
+   "工具系统按任务类型授权，拦截未授权工具与绕过审核的文件写入",
+   "补丁应用后重扫原规则，以扫描结果作为独立验收证据",
+   "支持本地 CLI 与 CI/CD 集成，以可评审的 MR/PR 交付"
+  ],
+  "use_cases": [
+   "在 CI 流水线中把静态扫描结果转成可评审的修复补丁",
+   "开发者对 Java 仓库问题做人工在环（human-in-the-loop）的补丁审核",
+   "跨项目复用代码风格与提交规范等工程偏好记忆"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码修复",
+   "AI Agent",
+   "静态分析",
+   "CI/CD",
+   "Java"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3:  面向 Java 仓库的代码修复 Agent，自动审阅代码，并针对发现的问题生成高质量补丁。",
+   "L4:  它既可以在本地 CLI 中使用，也可以接入 CI/CD。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "staskh/awesome-math-and-trading", "sha": "c7608b21e002", "source": "readme", "identity": {"one_liner": "面向量化交易者的数学、概率与 ML 资源策展清单", "review": "由个人维护的策展清单（awesome list），收录数学、统计、概率论、随机微积分、机器学习与量化交易领域的资源链接，按主题目录组织。面向金融领域的 ML 从业者、准备量化面试的学生、量化交易员与系统化/算法交易者。README 声明条目按深度与长期实用价值筛选，并设有贡献指南与版权/许可问题反馈渠道。清单本身不含代码或安装过程。", "highlights": ["覆盖概率论、随机微积分到算法交易实践的资源链接", "按目录组织，声明按深度与长期实用性筛选", "设有贡献指南与版权问题移除机制"], "use_cases": ["量化交易者系统查找数学与 ML 基础资料", "学生准备量化面试时按主题补课", "金融 ML 从业者查找算法交易相关资源"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["资源清单", "量化交易", "数学/概率", "机器学习"], "domain": "量化金融/知识聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: A curated list of high-quality resources on mathematics, statistics, machine learning, and quantitative trading.", "L15: This list focuses on the mathematical and quantitative foundations of trading —"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "staskh/awesome-math-and-trading",
+ "sha": "c7608b21e002",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向量化交易者的数学、概率与 ML 资源策展清单",
+  "review": "由个人维护的策展清单（awesome list），收录数学、统计、概率论、随机微积分、机器学习与量化交易领域的资源链接，按主题目录组织。面向金融领域的 ML 从业者、准备量化面试的学生、量化交易员与系统化/算法交易者。README 声明条目按深度与长期实用价值筛选，并设有贡献指南与版权/许可问题反馈渠道。清单本身不含代码或安装过程。",
+  "highlights": [
+   "覆盖概率论、随机微积分到算法交易实践的资源链接",
+   "按目录组织，声明按深度与长期实用性筛选",
+   "设有贡献指南与版权问题移除机制"
+  ],
+  "use_cases": [
+   "量化交易者系统查找数学与 ML 基础资料",
+   "学生准备量化面试时按主题补课",
+   "金融 ML 从业者查找算法交易相关资源"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "资源清单",
+   "量化交易",
+   "数学/概率",
+   "机器学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: A curated list of high-quality resources on mathematics, statistics, machine learning, and quantitative trading.",
+   "L15: This list focuses on the mathematical and quantitative foundations of trading —"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

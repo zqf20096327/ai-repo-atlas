@@ -1,1 +1,78 @@
-{"fn": "saadnvd1/hydra", "sha": "7b93aaf4e92f", "source": "readme", "identity": {"one_liner": "AI 编程 CLI 的统一包装器：限流时自动切换并传递上下文", "review": "用 Go 编写的终端工具，将 Claude Code、Codex、OpenCode、Pi 等 AI 编程 CLI 以完整交互式 TUI 方式启动。通过监控终端输出识别限流/配额错误，触发切换时向所有运行中会话发送 SIGUSR1，提供按键式 provider 选择器；切换时把对话历史（解析 Claude Code 的 JSONL 会话文件）、git diff 与最近 5 条提交复制到剪贴板，粘贴到新 CLI 继续。默认回退链可在 config.yaml 配置，支持任意可交互运行的 CLI 作为 provider。需 Unix 终端（macOS/Linux/WSL）与至少一个 AI 编程 CLI，Linux 需 xclip 或 xsel。", "highlights": ["监控终端输出识别限流并触发 provider 切换", "切换时提取对话历史 + git diff + 最近提交到剪贴板", "hydra switch 向所有运行中会话发送 SIGUSR1（限流按账户生效）", "可通过配置接入任意交互式 CLI 作为 provider"], "use_cases": ["AI 编程 CLI 频繁触发使用上限时自动切换到备用工具", "在多个 AI 编程 CLI 之间保留上下文无缝切换", "多会话并行开发中统一触发 provider 切换"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CLI工具", "AI编程", "多provider切换", "终端", "Go"], "domain": "开发者工具/AI 编程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Unified wrapper for AI coding CLIs. Run Claude Code, Codex, OpenCode, or Pi as a full interactive TUI. When one hits a r", "L60: 1. `hydra` spawns your AI coding CLI in a PTY — full interactive TUI, identical to running it directly", "L66: 4. On switch: conversation context (history + git diff + recent commits) is extracted and copied to clipboard"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "saadnvd1/hydra",
+ "sha": "7b93aaf4e92f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 编程 CLI 的统一包装器：限流时自动切换并传递上下文",
+  "review": "用 Go 编写的终端工具，将 Claude Code、Codex、OpenCode、Pi 等 AI 编程 CLI 以完整交互式 TUI 方式启动。通过监控终端输出识别限流/配额错误，触发切换时向所有运行中会话发送 SIGUSR1，提供按键式 provider 选择器；切换时把对话历史（解析 Claude Code 的 JSONL 会话文件）、git diff 与最近 5 条提交复制到剪贴板，粘贴到新 CLI 继续。默认回退链可在 config.yaml 配置，支持任意可交互运行的 CLI 作为 provider。需 Unix 终端（macOS/Linux/WSL）与至少一个 AI 编程 CLI，Linux 需 xclip 或 xsel。",
+  "highlights": [
+   "监控终端输出识别限流并触发 provider 切换",
+   "切换时提取对话历史 + git diff + 最近提交到剪贴板",
+   "hydra switch 向所有运行中会话发送 SIGUSR1（限流按账户生效）",
+   "可通过配置接入任意交互式 CLI 作为 provider"
+  ],
+  "use_cases": [
+   "AI 编程 CLI 频繁触发使用上限时自动切换到备用工具",
+   "在多个 AI 编程 CLI 之间保留上下文无缝切换",
+   "多会话并行开发中统一触发 provider 切换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CLI工具",
+   "AI编程",
+   "多provider切换",
+   "终端",
+   "Go"
+  ],
+  "domain": "开发者工具/AI 编程",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Unified wrapper for AI coding CLIs. Run Claude Code, Codex, OpenCode, or Pi as a full interactive TUI. When one hits a r",
+   "L60: 1. `hydra` spawns your AI coding CLI in a PTY — full interactive TUI, identical to running it directly",
+   "L66: 4. On switch: conversation context (history + git diff + recent commits) is extracted and copied to clipboard"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

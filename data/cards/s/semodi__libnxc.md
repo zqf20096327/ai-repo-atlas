@@ -33,7 +33,7 @@ Libnxc 提供 C++ 库、Fortran 绑定与 Python 实现（pylibnxc），用于�
 
 ## 场景标签
 
- · 领域:计算化学/密度泛函理论
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 

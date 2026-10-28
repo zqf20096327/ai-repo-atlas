@@ -1,1 +1,83 @@
-{"fn": "supastishn/AutoMate", "sha": "333f7500f91f", "source": "readme", "identity": {"one_liner": "自托管个人 AI agent：多渠道、可调用工具、插件扩展", "review": "TypeScript 编写的自托管个人 AI 助手平台，运行于用户自有硬件（服务器到 Android 平板/Termux 均可）。接入任意 OpenAI 兼容 LLM（OpenAI、Anthropic 代理、Ollama、LM Studio 等），提供 Web UI、Discord、CLI 三种交互渠道。内置 30+ 工具（shell、文件、隐身浏览器自动化、网页搜索、图片分析/生成、cron 等），支持双层持久记忆与向量检索、并行子 agent、热重载插件与 SKILL.md 技能、定时自主巡检（heartbeat）。浏览器自动化依赖可选的 Python 3.10+ 与 Chrome/Chromium。", "highlights": ["30+ 内置工具，按会话懒加载", "Python 隐身浏览器引擎（undetected-chromedriver，人类化输入与点击）", "双层记忆（日志 + MEMORY.md）与向量+BM25 混合检索", "热重载 JS 插件系统与 SKILL.md 技能、ClawHub 技能注册表"], "use_cases": ["在自己服务器上跑一个跨 Discord/Web/CLI 的个人 AI 助手", "让 agent 定时执行任务、操作浏览器和处理文件", "用低配置设备（如 Android + Termux）运行精简 agent"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["个人助理", "AI agent", "自托管", "浏览器自动化", "Discord 机器人"], "domain": "个人 AI 助手/agent 平台", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L12: AutoMate is a personal AI assistant platform that runs on your own hardware. Connect any OpenAI-compatible LLM, give it ", "L19: - **30+ built-in tools** — Shell, file ops, browser automation, web search, image analysis/generation, cron jobs, backgr", "L105: |Agent|`src/agent/agent.ts`|Core agent loop — LLM calls, tool execution, context management|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "supastishn/AutoMate",
+ "sha": "333f7500f91f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管个人 AI agent：多渠道、可调用工具、插件扩展",
+  "review": "TypeScript 编写的自托管个人 AI 助手平台，运行于用户自有硬件（服务器到 Android 平板/Termux 均可）。接入任意 OpenAI 兼容 LLM（OpenAI、Anthropic 代理、Ollama、LM Studio 等），提供 Web UI、Discord、CLI 三种交互渠道。内置 30+ 工具（shell、文件、隐身浏览器自动化、网页搜索、图片分析/生成、cron 等），支持双层持久记忆与向量检索、并行子 agent、热重载插件与 SKILL.md 技能、定时自主巡检（heartbeat）。浏览器自动化依赖可选的 Python 3.10+ 与 Chrome/Chromium。",
+  "highlights": [
+   "30+ 内置工具，按会话懒加载",
+   "Python 隐身浏览器引擎（undetected-chromedriver，人类化输入与点击）",
+   "双层记忆（日志 + MEMORY.md）与向量+BM25 混合检索",
+   "热重载 JS 插件系统与 SKILL.md 技能、ClawHub 技能注册表"
+  ],
+  "use_cases": [
+   "在自己服务器上跑一个跨 Discord/Web/CLI 的个人 AI 助手",
+   "让 agent 定时执行任务、操作浏览器和处理文件",
+   "用低配置设备（如 Android + Termux）运行精简 agent"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人助理",
+   "AI agent",
+   "自托管",
+   "浏览器自动化",
+   "Discord 机器人"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L12: AutoMate is a personal AI assistant platform that runs on your own hardware. Connect any OpenAI-compatible LLM, give it ",
+   "L19: - **30+ built-in tools** — Shell, file ops, browser automation, web search, image analysis/generation, cron jobs, backgr",
+   "L105: |Agent|`src/agent/agent.ts`|Core agent loop — LLM calls, tool execution, context management|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

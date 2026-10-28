@@ -33,7 +33,7 @@ Rust CLI + API 后端 + React Web UI 的自托管应用：自动检测 Claude Co
 
 ## 场景标签
 
- · 领域:开发者学习工具/内容生成
+`语音合成` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 

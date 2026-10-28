@@ -33,7 +33,7 @@ Memcortex 是一个 Go 编写的概念验证（PoC）项目，为对话 agent �
 
 ## 场景标签
 
- · 领域:LLM 基础设施/记忆层
+`Agent 记忆` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,76 @@
-{"fn": "thesysdev/genui-widget", "sha": "159e3af7630e", "source": "readme", "identity": {"one_liner": "可嵌入网页的生成式 UI 聊天组件，连接 LangGraph/n8n 后端", "review": "由 Thesys 构建的嵌入式聊天 widget，让 AI 聊天机器人渲染按钮、表单、图表等富交互 UI 而非纯文本。面向在自己的应用中接入 AI 对话的开发者：通过单个 script 标签或 npm 包安装，后端可接 LangGraph/LangChain 部署（云端或自托管）、n8n、Make.com 或自定义 webhook；支持 SSE 流式响应、会话与线程管理，存储可选 localStorage、LangGraph 服务端或内存；提供全页/侧栏/底部托盘三种布局与明暗主题。限制：需自行配置后端，Node.js 20.9.0+ 用于开发。", "highlights": ["单个 script 标签或 npm 包即可嵌入", "后端支持 LangGraph、n8n、Make.com 及自定义 webhook", "SSE 实时流式响应与线程管理（创建/切换/删除）", "三种存储模式：内存/localStorage/LangGraph 服务端"], "use_cases": ["给网站快速嵌入 AI 聊天窗口", "把 LangGraph 或 n8n 工作流的输出渲染为交互式 UI", "跨设备同步对话历史的服务端部署"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天组件", "Generative UI", "前端widget", "LLM应用集成"], "domain": "前端/LLM 应用组件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: An embeddable chat widget that lets your AI chatbots render rich, interactive UI like buttons, forms, charts, cards and ", "L16: - 🔌 **Multi-Provider** - LangGraph, n8n, Make.com, or custom webhooks"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thesysdev/genui-widget",
+ "sha": "159e3af7630e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "可嵌入网页的生成式 UI 聊天组件，连接 LangGraph/n8n 后端",
+  "review": "由 Thesys 构建的嵌入式聊天 widget，让 AI 聊天机器人渲染按钮、表单、图表等富交互 UI 而非纯文本。面向在自己的应用中接入 AI 对话的开发者：通过单个 script 标签或 npm 包安装，后端可接 LangGraph/LangChain 部署（云端或自托管）、n8n、Make.com 或自定义 webhook；支持 SSE 流式响应、会话与线程管理，存储可选 localStorage、LangGraph 服务端或内存；提供全页/侧栏/底部托盘三种布局与明暗主题。限制：需自行配置后端，Node.js 20.9.0+ 用于开发。",
+  "highlights": [
+   "单个 script 标签或 npm 包即可嵌入",
+   "后端支持 LangGraph、n8n、Make.com 及自定义 webhook",
+   "SSE 实时流式响应与线程管理（创建/切换/删除）",
+   "三种存储模式：内存/localStorage/LangGraph 服务端"
+  ],
+  "use_cases": [
+   "给网站快速嵌入 AI 聊天窗口",
+   "把 LangGraph 或 n8n 工作流的输出渲染为交互式 UI",
+   "跨设备同步对话历史的服务端部署"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天组件",
+   "Generative UI",
+   "前端widget",
+   "LLM应用集成"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: An embeddable chat widget that lets your AI chatbots render rich, interactive UI like buttons, forms, charts, cards and ",
+   "L16: - 🔌 **Multi-Provider** - LangGraph, n8n, Make.com, or custom webhooks"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

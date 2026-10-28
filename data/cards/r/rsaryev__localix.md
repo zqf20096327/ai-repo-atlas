@@ -34,7 +34,7 @@ macOS 桌面应用（Tauri/Bun 技术栈），提供专业分工的 AI 代理团
 
 ## 场景标签
 
- · 领域:开发者工具/Agentic IDE
+`多智能体` `编码 Agent` `浏览器自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

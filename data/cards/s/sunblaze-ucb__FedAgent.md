@@ -33,7 +33,7 @@ FedAgent 是用于 LLM agent 联邦强化学习训练的 Python 库：在 verl 0
 
 ## 场景标签
 
- · 领域:LLM 训练框架/联邦学习
+`科研工具` `强化学习` · 领域:学习与行业
 
 ## 证据(README 行号)
 

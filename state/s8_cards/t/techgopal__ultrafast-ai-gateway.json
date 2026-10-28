@@ -1,1 +1,84 @@
-{"fn": "techgopal/ultrafast-ai-gateway", "sha": "ee02c548a5fb", "source": "readme", "identity": {"one_liner": "自托管 LLM API 网关：单 Rust 二进制提供路由、限额与控制台", "review": "用单个 Rust 二进制实现的 LLM 网关，位于应用与模型提供商之间：兼容 OpenAI 与 Anthropic API 格式，支持 Gemini、Azure OpenAI 及任意 OpenAI 兼容后端（Groq/Mistral/OpenRouter/Ollama 等）。提供加权路由与故障转移、重试、熔断、请求/令牌/并发限流、预算与告警、虚拟密钥与团队权限、护栏（关键词/正则/PII）、MCP 网关及内置 Web 控制台，存储用 SQLite（可切 PostgreSQL）。面向自托管的小团队，通过 Docker 或预编译二进制安装。", "highlights": ["兼容 OpenAI/Anthropic API，跨格式翻译工具调用与编码代理请求", "加权路由、有序故障转移、熔断、单飞缓存与响应缓存", "虚拟密钥、团队/用户/密钥级限流与预算，凭据静态加密", "内置控制台、Prometheus 指标、OpenTelemetry 追踪与 MCP 网关"], "use_cases": ["小团队统一接入多家模型提供商并做密钥管理", "按团队和密钥控制模型用量、花费与权限", "为 Claude Code / Codex 等编码代理提供带故障转移的代理入口"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "自托管", "LLMOps", "Rust", "API代理"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "azure", "groq", "openrouter", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: Ultrafast is one small Rust binary that sits between your apps and your LLM", "L10: providers. It speaks the OpenAI and Anthropic APIs, adds an admin API, and", "L42: - **Providers.** OpenAI, Anthropic, Gemini, Azure OpenAI, and any"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "techgopal/ultrafast-ai-gateway",
+ "sha": "ee02c548a5fb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 LLM API 网关：单 Rust 二进制提供路由、限额与控制台",
+  "review": "用单个 Rust 二进制实现的 LLM 网关，位于应用与模型提供商之间：兼容 OpenAI 与 Anthropic API 格式，支持 Gemini、Azure OpenAI 及任意 OpenAI 兼容后端（Groq/Mistral/OpenRouter/Ollama 等）。提供加权路由与故障转移、重试、熔断、请求/令牌/并发限流、预算与告警、虚拟密钥与团队权限、护栏（关键词/正则/PII）、MCP 网关及内置 Web 控制台，存储用 SQLite（可切 PostgreSQL）。面向自托管的小团队，通过 Docker 或预编译二进制安装。",
+  "highlights": [
+   "兼容 OpenAI/Anthropic API，跨格式翻译工具调用与编码代理请求",
+   "加权路由、有序故障转移、熔断、单飞缓存与响应缓存",
+   "虚拟密钥、团队/用户/密钥级限流与预算，凭据静态加密",
+   "内置控制台、Prometheus 指标、OpenTelemetry 追踪与 MCP 网关"
+  ],
+  "use_cases": [
+   "小团队统一接入多家模型提供商并做密钥管理",
+   "按团队和密钥控制模型用量、花费与权限",
+   "为 Claude Code / Codex 等编码代理提供带故障转移的代理入口"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "自托管",
+   "LLMOps",
+   "Rust",
+   "API代理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "azure",
+   "groq",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: Ultrafast is one small Rust binary that sits between your apps and your LLM",
+   "L10: providers. It speaks the OpenAI and Anthropic APIs, adds an admin API, and",
+   "L42: - **Providers.** OpenAI, Anthropic, Gemini, Azure OpenAI, and any"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

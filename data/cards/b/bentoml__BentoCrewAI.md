@@ -33,7 +33,7 @@ BentoML 团维护的参考实现：演示如何用 BentoML serving 框架把 Cre
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 服务
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

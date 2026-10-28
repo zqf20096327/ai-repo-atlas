@@ -33,7 +33,7 @@ ClaraVerse 的 hardfork，基于 Tauri+Qwik+Rust 的本地 AI 聊天应用，面
 
 ## 场景标签
 
- · 领域:AI 桌面/移动应用
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

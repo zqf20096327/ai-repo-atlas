@@ -1,1 +1,78 @@
-{"fn": "xKevIsDev/nextjs-bolt", "sha": "7e9e1121ce0f", "source": "readme", "identity": {"one_liner": "Next.js 实现的 Bolt：对话式 AI 全栈 Web 应用生成器", "review": "对 StackBlitz Bolt OSS 项目的 Next.js 重实现，原版基于 Vite 与 Remix。用户通过聊天界面描述需求，AI 生成完整全栈 Web 应用代码，支持前端与后端组件，应用随修改实时自动更新。支持多个 AI 提供商（Anthropic、Google、TogetherAI），侧边栏可导航、选择模型与管理聊天记录。以源码方式安装：克隆仓库后 npm/yarn/pnpm/bun 安装依赖并运行开发服务器，需 Node.js v18+，通过 .env.local 配置环境变量。README 列出错误自动修复、版本控制、部署与 Supabase 集成等待实现项。", "highlights": ["对话式 AI 生成全栈 Web 应用代码（前端+后端）", "多 AI 提供商支持：Anthropic、Google、TogetherAI", "实时更新：修改后应用自动更新", "移动端响应式界面与可定制侧边栏"], "use_cases": ["通过对话快速生成全栈 Web 应用原型", "在 Next.js 技术栈上搭建类似 bolt.new 的 AI 编程环境", "自托管并自选 AI 提供商的应用生成工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程", "代码生成", "Web应用构建", "Next.js", "自托管"], "domain": "开发工具/AI 应用生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: BoltNext is a cutting-edge application that allows you to build full-stack web applications using the power of AI. By si", "L9: * **AI-Powered Code Generation:** Chat with the AI to describe your desired application, and BoltNext will generate the ", "L12: * **Multiple AI Provider Support:** Choose from various AI providers like Anthropic, Google, and TogetherAI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xKevIsDev/nextjs-bolt",
+ "sha": "7e9e1121ce0f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Next.js 实现的 Bolt：对话式 AI 全栈 Web 应用生成器",
+  "review": "对 StackBlitz Bolt OSS 项目的 Next.js 重实现，原版基于 Vite 与 Remix。用户通过聊天界面描述需求，AI 生成完整全栈 Web 应用代码，支持前端与后端组件，应用随修改实时自动更新。支持多个 AI 提供商（Anthropic、Google、TogetherAI），侧边栏可导航、选择模型与管理聊天记录。以源码方式安装：克隆仓库后 npm/yarn/pnpm/bun 安装依赖并运行开发服务器，需 Node.js v18+，通过 .env.local 配置环境变量。README 列出错误自动修复、版本控制、部署与 Supabase 集成等待实现项。",
+  "highlights": [
+   "对话式 AI 生成全栈 Web 应用代码（前端+后端）",
+   "多 AI 提供商支持：Anthropic、Google、TogetherAI",
+   "实时更新：修改后应用自动更新",
+   "移动端响应式界面与可定制侧边栏"
+  ],
+  "use_cases": [
+   "通过对话快速生成全栈 Web 应用原型",
+   "在 Next.js 技术栈上搭建类似 bolt.new 的 AI 编程环境",
+   "自托管并自选 AI 提供商的应用生成工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "代码生成",
+   "Web应用构建",
+   "Next.js",
+   "自托管"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: BoltNext is a cutting-edge application that allows you to build full-stack web applications using the power of AI. By si",
+   "L9: * **AI-Powered Code Generation:** Chat with the AI to describe your desired application, and BoltNext will generate the ",
+   "L12: * **Multiple AI Provider Support:** Choose from various AI providers like Anthropic, Google, and TogetherAI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "scszcoder/eCan.ai", "sha": "39a4b746a8a0", "source": "readme", "identity": {"one_liner": "面向跨境电商卖家的隐私优先 AI agent 应用：低代码编排与网络化运行", "review": "跨平台（Windows/macOS/Web）桌面应用，供电商卖家以 AI agent 运营多渠道业务：选品采购、营销调研、广告、客服等。技能（skill）基于 LangGraph 工作流，内置定制 Flowgram 图形编辑器拖拽搭建，可运行/暂停/断点调试，支持流程图与 LangGraph 双向转换。agent 间采用 A2A 协议通信，可在多台主机组成的网络上部署，并集成 browser-use/Crawl4ai/指纹浏览器自动化、MCP 工具集与内置 RAG。隐私机制包括本地 Ollama 部署（如 Qwen3）与敏感数据过滤。远程通信渠道（WhatsApp/微信等）需订阅 Pro 计划。提供各平台安装包与本地构建脚本。", "highlights": ["Flowgram 图形化编辑 LangGraph 工作流，支持断点/单步/状态修改", "A2A 协议的跨主机网络化 agent 部署与远程指挥", "集成 browser-use、Crawl4ai、AdsPower 等指纹浏览器的浏览器自动化", "隐私优先：本地 Ollama 部署、敏感数据过滤工具、内置 RAG"], "use_cases": ["用 AI agent 自动执行电商选品、营销调研、客服等日常任务", "不写或少写代码，用图形编辑器搭建 agent 工作流", "多台电脑组网运行 agent 并通过手机/IM 渠道远程指挥"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["电商自动化", "多Agent", "工作流编排", "浏览器自动化", "桌面应用"], "domain": "电商/自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["支持微信/钉钉通信渠道"]}, "trust": {"confidence": "high", "evidence": ["L2: eCan.ai is an AI native, privacy-first, cross-platform(win/mac/linux/web), developer friendly, multi-communication chann", "L25: eCan.ai builds on top of Langgraph (from Langchain), the state of art agent development framework. Any agent task will r"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "scszcoder/eCan.ai",
+ "sha": "39a4b746a8a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向跨境电商卖家的隐私优先 AI agent 应用：低代码编排与网络化运行",
+  "review": "跨平台（Windows/macOS/Web）桌面应用，供电商卖家以 AI agent 运营多渠道业务：选品采购、营销调研、广告、客服等。技能（skill）基于 LangGraph 工作流，内置定制 Flowgram 图形编辑器拖拽搭建，可运行/暂停/断点调试，支持流程图与 LangGraph 双向转换。agent 间采用 A2A 协议通信，可在多台主机组成的网络上部署，并集成 browser-use/Crawl4ai/指纹浏览器自动化、MCP 工具集与内置 RAG。隐私机制包括本地 Ollama 部署（如 Qwen3）与敏感数据过滤。远程通信渠道（WhatsApp/微信等）需订阅 Pro 计划。提供各平台安装包与本地构建脚本。",
+  "highlights": [
+   "Flowgram 图形化编辑 LangGraph 工作流，支持断点/单步/状态修改",
+   "A2A 协议的跨主机网络化 agent 部署与远程指挥",
+   "集成 browser-use、Crawl4ai、AdsPower 等指纹浏览器的浏览器自动化",
+   "隐私优先：本地 Ollama 部署、敏感数据过滤工具、内置 RAG"
+  ],
+  "use_cases": [
+   "用 AI agent 自动执行电商选品、营销调研、客服等日常任务",
+   "不写或少写代码，用图形编辑器搭建 agent 工作流",
+   "多台电脑组网运行 agent 并通过手机/IM 渠道远程指挥"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "电商自动化",
+   "多Agent",
+   "工作流编排",
+   "浏览器自动化",
+   "桌面应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "workflow-automation",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "支持微信/钉钉通信渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L2: eCan.ai is an AI native, privacy-first, cross-platform(win/mac/linux/web), developer friendly, multi-communication chann",
+   "L25: eCan.ai builds on top of Langgraph (from Langchain), the state of art agent development framework. Any agent task will r"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

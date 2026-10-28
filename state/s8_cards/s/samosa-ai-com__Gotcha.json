@@ -1,1 +1,82 @@
-{"fn": "samosa-ai-com/Gotcha", "sha": "f206a5562577", "source": "readme", "identity": {"one_liner": "安卓端上 AI 副驾：自然语言驱动的全设备操作应用", "review": "单 APK 安装于 Android 11+ 的自包含应用：LLM 读取用户请求与实时设备上下文，从 100+ 设备控制工具（通话、短信、日历、文件、终端、屏幕自动化、root 等）中选取并执行真实操作。支持自带任意 OpenAI 兼容 API key（OpenAI/OpenRouter/Groq 或本地 llama.cpp/LM Studio/Ollama），密钥仅加密存于设备，也可登录 Samosa AI 免 key。提供 Monitor 只读与 Operator 全权两种模式，含敏感操作确认门与审计日志；文本提取在设备端完成，LLM 推理可云端或本地。限制：模型幻觉可能导致意外操作，官方建议从 Monitor 模式起步。", "highlights": ["100+ 设备控制工具，自然语言驱动真实设备操作", "自带 API key（OpenAI/OpenRouter/Groq/本地 llama.cpp·LM Studio·Ollama），密钥设备端加密不同步", "Monitor/Operator 双模式、敏感操作确认门与 append-only 审计日志", "支持 MCP Server 接入自定义工具、Termux Linux shell 工具"], "use_cases": ["用一句话让手机代发短信、清理空间或查询屏幕内容", "通过悬浮球在任何应用上发起语音对话操作设备", "圈选屏幕内容复制、翻译或提问（文本提取端上完成）"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.youtube.com/watch?v=Zk5-dtqRB64", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["移动端AI助手", "设备自动化/Agent", "端上隐私", "MCP", "Android应用"], "domain": "移动端 AI 应用/设备自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq", "openrouter", "ollama"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L17: Say *\"text mom I'm running late\"*, *\"free up some space\"*, or *\"what's on my screen?\"*. An LLM reads your request plus l", "L19: Everything runs in **one self-contained app on your phone**. Bring your own API key (OpenAI, OpenRouter, Groq, or a loca"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "samosa-ai-com/Gotcha",
+ "sha": "f206a5562577",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安卓端上 AI 副驾：自然语言驱动的全设备操作应用",
+  "review": "单 APK 安装于 Android 11+ 的自包含应用：LLM 读取用户请求与实时设备上下文，从 100+ 设备控制工具（通话、短信、日历、文件、终端、屏幕自动化、root 等）中选取并执行真实操作。支持自带任意 OpenAI 兼容 API key（OpenAI/OpenRouter/Groq 或本地 llama.cpp/LM Studio/Ollama），密钥仅加密存于设备，也可登录 Samosa AI 免 key。提供 Monitor 只读与 Operator 全权两种模式，含敏感操作确认门与审计日志；文本提取在设备端完成，LLM 推理可云端或本地。限制：模型幻觉可能导致意外操作，官方建议从 Monitor 模式起步。",
+  "highlights": [
+   "100+ 设备控制工具，自然语言驱动真实设备操作",
+   "自带 API key（OpenAI/OpenRouter/Groq/本地 llama.cpp·LM Studio·Ollama），密钥设备端加密不同步",
+   "Monitor/Operator 双模式、敏感操作确认门与 append-only 审计日志",
+   "支持 MCP Server 接入自定义工具、Termux Linux shell 工具"
+  ],
+  "use_cases": [
+   "用一句话让手机代发短信、清理空间或查询屏幕内容",
+   "通过悬浮球在任何应用上发起语音对话操作设备",
+   "圈选屏幕内容复制、翻译或提问（文本提取端上完成）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.youtube.com/watch?v=Zk5-dtqRB64",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动端AI助手",
+   "设备自动化/Agent",
+   "端上隐私",
+   "MCP",
+   "Android应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "openrouter",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L17: Say *\"text mom I'm running late\"*, *\"free up some space\"*, or *\"what's on my screen?\"*. An LLM reads your request plus l",
+   "L19: Everything runs in **one self-contained app on your phone**. Bring your own API key (OpenAI, OpenRouter, Groq, or a loca"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

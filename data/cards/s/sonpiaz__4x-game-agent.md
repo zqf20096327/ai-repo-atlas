@@ -33,7 +33,7 @@ Python 框架，用于构建自动游玩 4X 移动策略游戏（Kingshot、Rise
 
 ## 场景标签
 
- · 领域:游戏自动化/AI Agent
+`Agent 框架` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

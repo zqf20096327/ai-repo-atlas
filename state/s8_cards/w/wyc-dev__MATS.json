@@ -1,1 +1,83 @@
-{"fn": "wyc-dev/MATS", "sha": "3ca2ac207e10", "source": "readme", "identity": {"one_liner": "自进化加密量化交易系统：9 个 AI agent 辩论并执行每笔交易", "review": "TypeScript 编写的自动化量化交易系统，面向 Hyperliquid 交易：LLM 读取双时间框架 K 线与世界事件给出方向判断，9 个 AI agent（含 Skeptics 审查与 System Engineer 自修复）对每笔交易辩论并加权表决；配套 60+ 层认知进化管线（Q-RL alpha 发现、PAEL 出场学习、边缘验证、反模式记忆等）。快速启动路径基于本地 Ollama（Node.js 22+），提供 npm 启动与 Web Dashboard；README 含大量未经独立验证的收益性描述，不构成业绩证据。", "highlights": ["9 个 AI agent 辩论每笔交易，Skeptics 行使否决权", "LLM 读取 1h×30 + 5m×60 双时间框架 K 线作为方向来源", "System Engineer 模式可自主检测并修复学习系统 bug，修复经 tsc + 测试验证后自动回滚或重启", "60+ 层认知进化管线：Q-RL alpha 发现、PAEL、边缘验证、反模式记忆、动态信念门限"], "use_cases": ["在 Hyperliquid 上运行多 agent 辩论驱动的自动化交易", "让 LLM 阅读图表与世界事件生成并验证交易论点", "通过自然语言向系统设定交易偏好（如仅周一 GMT 交易）"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://github.com/wyc-dev/MATS/blob/main/docs/dashboard.mp4", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["量化交易", "multi-agent", "LLM应用", "加密货币", "自动化交易"], "domain": "金融/量化交易", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["L16 出现中文短语『SL 裸奔』"]}, "trust": {"confidence": "high", "evidence": ["L3: **9 AI agents debate every trade. Skeptics stress-tests every thesis. System Engineer fixes its own bugs. A 60+-layer co", "L7: - 🧠 **LLM World-Model Layer** — the LLM is the *direction source*: reads K-LINE charts (1h×30 + 5m×60, dual-timeframe) +", "L37: ## Quick Start (Ollama)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wyc-dev/MATS",
+ "sha": "3ca2ac207e10",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自进化加密量化交易系统：9 个 AI agent 辩论并执行每笔交易",
+  "review": "TypeScript 编写的自动化量化交易系统，面向 Hyperliquid 交易：LLM 读取双时间框架 K 线与世界事件给出方向判断，9 个 AI agent（含 Skeptics 审查与 System Engineer 自修复）对每笔交易辩论并加权表决；配套 60+ 层认知进化管线（Q-RL alpha 发现、PAEL 出场学习、边缘验证、反模式记忆等）。快速启动路径基于本地 Ollama（Node.js 22+），提供 npm 启动与 Web Dashboard；README 含大量未经独立验证的收益性描述，不构成业绩证据。",
+  "highlights": [
+   "9 个 AI agent 辩论每笔交易，Skeptics 行使否决权",
+   "LLM 读取 1h×30 + 5m×60 双时间框架 K 线作为方向来源",
+   "System Engineer 模式可自主检测并修复学习系统 bug，修复经 tsc + 测试验证后自动回滚或重启",
+   "60+ 层认知进化管线：Q-RL alpha 发现、PAEL、边缘验证、反模式记忆、动态信念门限"
+  ],
+  "use_cases": [
+   "在 Hyperliquid 上运行多 agent 辩论驱动的自动化交易",
+   "让 LLM 阅读图表与世界事件生成并验证交易论点",
+   "通过自然语言向系统设定交易偏好（如仅周一 GMT 交易）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://github.com/wyc-dev/MATS/blob/main/docs/dashboard.mp4",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "量化交易",
+   "multi-agent",
+   "LLM应用",
+   "加密货币",
+   "自动化交易"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "quant-finance"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "L16 出现中文短语『SL 裸奔』"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: **9 AI agents debate every trade. Skeptics stress-tests every thesis. System Engineer fixes its own bugs. A 60+-layer co",
+   "L7: - 🧠 **LLM World-Model Layer** — the LLM is the *direction source*: reads K-LINE charts (1h×30 + 5m×60, dual-timeframe) +",
+   "L37: ## Quick Start (Ollama)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

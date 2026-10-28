@@ -1,1 +1,76 @@
-{"fn": "tshu-w/ComEM", "sha": "44f6d6d63890", "source": "readme", "identity": {"one_liner": "COLING 2025 论文代码：LLM 实体匹配的三种策略与复合框架", "review": "论文 'Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching'（COLING 2025）的配套代码。研究 LLM 实体匹配中匹配、比较、选择三种策略，并设计复合实体匹配框架 ComEM，组合多种策略与多个 LLM；在 8 个 ER 数据集、9 个 LLM 上进行实验。使用方式为 git clone 后安装依赖并准备数据，运行 python src/{strategy}.py 复现论文主要结果。", "highlights": ["对比 matching/comparing/selecting 三种 LLM 实体匹配策略", "复合框架 ComEM 组合多策略与多 LLM", "在 8 个 ER 数据集和 9 个 LLM 上实验"], "use_cases": ["复现论文的实体匹配实验结果", "研究 LLM 在数据集成/实体消解中的应用方式", "比较不同 LLM 匹配策略的成本与效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["实体匹配", "实体消解", "LLM应用", "数据集成", "论文代码"], "domain": "数据集成/自然语言处理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: Entity matching (EM) is a critical step in entity resolution (ER). Recently, entity matching based on large language mod", "L28: python src/{strategy}.py"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tshu-w/ComEM",
+ "sha": "44f6d6d63890",
+ "source": "readme",
+ "identity": {
+  "one_liner": "COLING 2025 论文代码：LLM 实体匹配的三种策略与复合框架",
+  "review": "论文 'Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching'（COLING 2025）的配套代码。研究 LLM 实体匹配中匹配、比较、选择三种策略，并设计复合实体匹配框架 ComEM，组合多种策略与多个 LLM；在 8 个 ER 数据集、9 个 LLM 上进行实验。使用方式为 git clone 后安装依赖并准备数据，运行 python src/{strategy}.py 复现论文主要结果。",
+  "highlights": [
+   "对比 matching/comparing/selecting 三种 LLM 实体匹配策略",
+   "复合框架 ComEM 组合多策略与多 LLM",
+   "在 8 个 ER 数据集和 9 个 LLM 上实验"
+  ],
+  "use_cases": [
+   "复现论文的实体匹配实验结果",
+   "研究 LLM 在数据集成/实体消解中的应用方式",
+   "比较不同 LLM 匹配策略的成本与效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "实体匹配",
+   "实体消解",
+   "LLM应用",
+   "数据集成",
+   "论文代码"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Entity matching (EM) is a critical step in entity resolution (ER). Recently, entity matching based on large language mod",
+   "L28: python src/{strategy}.py"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

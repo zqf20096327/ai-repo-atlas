@@ -1,1 +1,78 @@
-{"fn": "tech4ai/t4ai-signature-detect-server", "sha": "fc01dab04950", "source": "readme", "identity": {"one_liner": "签名检测 YOLOv8 模型在 Triton 上的部署与推理管线", "review": "提供将自训练 YOLOv8 签名检测模型部署到 Triton Inference Server 的完整管线，支持本地、Docker 与 Google Cloud Vertex AI 三种部署方式，含部署脚本、Docker 镜像配置与 entrypoint 初始化。推理侧提供 Triton Client、Vertex AI、HTTP 及本地 ONNX Runtime 多种预测方法，附 Gradio GUI 实时测试与统计推理耗时的 CLI 报告；模型与前后处理组合为 Triton Ensemble Model，并用 Triton Model Analyzer 做性能剖析。服务端通过 admin-key 限制管理端点访问。模型权重与数据集托管在 Hugging Face。", "highlights": ["YOLOv8 与前后处理组成 Triton Ensemble Model", "本地/Docker/Vertex AI 多部署方式与可扩展的 predictor 类体系", "Gradio GUI 实时测试与推理耗时统计报告", "基于 admin-key 的 HTTP/gRPC 管理端点访问控制"], "use_cases": ["把签名检测模型部署到 Triton 或 Vertex AI 上提供推理服务", "对比不同部署配置下模型的推理性能", "通过 GUI 快速验证检测效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["目标检测", "Triton部署", "签名检测", "MLOps"], "domain": "计算机视觉/模型部署", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L13: This project provides a pipeline for deploying and performing inference with a YOLOv8 object detection model using Trito", "L24: - **`signature-detection/`**: Contains scripts for performing inference with the YOLOv8 model.", "L245: This project uses a custom-trained YOLOv8 model for signature detection. All model weights, training artifacts, and the "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tech4ai/t4ai-signature-detect-server",
+ "sha": "fc01dab04950",
+ "source": "readme",
+ "identity": {
+  "one_liner": "签名检测 YOLOv8 模型在 Triton 上的部署与推理管线",
+  "review": "提供将自训练 YOLOv8 签名检测模型部署到 Triton Inference Server 的完整管线，支持本地、Docker 与 Google Cloud Vertex AI 三种部署方式，含部署脚本、Docker 镜像配置与 entrypoint 初始化。推理侧提供 Triton Client、Vertex AI、HTTP 及本地 ONNX Runtime 多种预测方法，附 Gradio GUI 实时测试与统计推理耗时的 CLI 报告；模型与前后处理组合为 Triton Ensemble Model，并用 Triton Model Analyzer 做性能剖析。服务端通过 admin-key 限制管理端点访问。模型权重与数据集托管在 Hugging Face。",
+  "highlights": [
+   "YOLOv8 与前后处理组成 Triton Ensemble Model",
+   "本地/Docker/Vertex AI 多部署方式与可扩展的 predictor 类体系",
+   "Gradio GUI 实时测试与推理耗时统计报告",
+   "基于 admin-key 的 HTTP/gRPC 管理端点访问控制"
+  ],
+  "use_cases": [
+   "把签名检测模型部署到 Triton 或 Vertex AI 上提供推理服务",
+   "对比不同部署配置下模型的推理性能",
+   "通过 GUI 快速验证检测效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标检测",
+   "Triton部署",
+   "签名检测",
+   "MLOps"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "inference-engine",
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: This project provides a pipeline for deploying and performing inference with a YOLOv8 object detection model using Trito",
+   "L24: - **`signature-detection/`**: Contains scripts for performing inference with the YOLOv8 model.",
+   "L245: This project uses a custom-trained YOLOv8 model for signature detection. All model weights, training artifacts, and the "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

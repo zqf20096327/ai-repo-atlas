@@ -1,1 +1,81 @@
-{"fn": "thuongh2/git-mimir", "sha": "e76e3faaea1c", "source": "readme", "identity": {"one_liner": "Go 编写的代码知识图谱引擎，经 MCP/API 供 AI 检索代码", "review": "用 Go 编写的代码情报引擎：将仓库索引为知识图谱（支持 TS/JS/Go/Python/Rust/Java/C/C++ 8 种语言，基于 tree-sitter AST 解析与 git-diff 增量索引），通过 MCP（12 个工具，含混合搜索、影响面分析、重命名规划）、HTTP API 与内嵌 Web UI 暴露给 AI agent 与开发者。可选嵌入向量检索（需 ollama 或 OpenAI），存储用纯 Go SQLite 与 sqlite-vec，Louvain 社区聚类。提供一键安装脚本、go install 与源码构建方式，`mimir setup` 自动配置多种编辑器接入。", "highlights": ["仓库索引为知识图谱，支持 8 种语言的 tree-sitter AST 解析", "MCP 提供 12 个工具：混合搜索（BM25+向量）、影响面/爆炸半径分析、跨仓查询", "git-diff 增量再索引与 Louvain 社区聚类", "自动配置 Claude Code、VS Code、Cursor 等编辑器与 agent hooks"], "use_cases": ["让 AI 编程 agent 通过 MCP 语义检索并理解大型代码库", "重构前做影响面分析，查看改动会波及哪些调用方", "在 Web UI 中可视化浏览代码结构与符号关系"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码智能", "MCP", "知识图谱", "开发者工具", "AI编程基础设施"], "domain": "开发工具/代码智能", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Mimir is a **Go-based code intelligence engine** that indexes your repository into a knowledge graph and exposes it to A", "L11: |**AI Agents (MCP)**|7 tools for semantic search, impact analysis, and blast radius queries|", "L98: AI agents get access to 12 tools via MCP:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "thuongh2/git-mimir",
+ "sha": "e76e3faaea1c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 编写的代码知识图谱引擎，经 MCP/API 供 AI 检索代码",
+  "review": "用 Go 编写的代码情报引擎：将仓库索引为知识图谱（支持 TS/JS/Go/Python/Rust/Java/C/C++ 8 种语言，基于 tree-sitter AST 解析与 git-diff 增量索引），通过 MCP（12 个工具，含混合搜索、影响面分析、重命名规划）、HTTP API 与内嵌 Web UI 暴露给 AI agent 与开发者。可选嵌入向量检索（需 ollama 或 OpenAI），存储用纯 Go SQLite 与 sqlite-vec，Louvain 社区聚类。提供一键安装脚本、go install 与源码构建方式，`mimir setup` 自动配置多种编辑器接入。",
+  "highlights": [
+   "仓库索引为知识图谱，支持 8 种语言的 tree-sitter AST 解析",
+   "MCP 提供 12 个工具：混合搜索（BM25+向量）、影响面/爆炸半径分析、跨仓查询",
+   "git-diff 增量再索引与 Louvain 社区聚类",
+   "自动配置 Claude Code、VS Code、Cursor 等编辑器与 agent hooks"
+  ],
+  "use_cases": [
+   "让 AI 编程 agent 通过 MCP 语义检索并理解大型代码库",
+   "重构前做影响面分析，查看改动会波及哪些调用方",
+   "在 Web UI 中可视化浏览代码结构与符号关系"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码智能",
+   "MCP",
+   "知识图谱",
+   "开发者工具",
+   "AI编程基础设施"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-graph",
+   "semantic-search"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Mimir is a **Go-based code intelligence engine** that indexes your repository into a knowledge graph and exposes it to A",
+   "L11: |**AI Agents (MCP)**|7 tools for semantic search, impact analysis, and blast radius queries|",
+   "L98: AI agents get access to 12 tools via MCP:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

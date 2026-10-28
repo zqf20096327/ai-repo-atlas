@@ -1,1 +1,81 @@
-{"fn": "altmbr/claude-research-skill", "sha": "10b569a35e63", "source": "readme", "identity": {"one_liner": "Claude Code 技能：把研究问题分解为并行 agent 并综合成文档", "review": "以 SKILL.md 形式提供的 Claude Code 技能：/research 命令将任意研究问题分解为 2-4 个不重叠的并行研究工作流，经用户批准后启动多个子 agent，各 agent 按严格写后即搜协议向独立 markdown 文件实时写入带内联引用的研究内容；编排器按递增间隔（30s/2min/5min）监控进度，自动杀死并预加载数据重启卡住的 agent；最后由综合 agent 生成含执行摘要、跨主题发现、矛盾点与置信度评估的统一文档。安装方式为复制 SKILL.md 到 Claude Code 命令目录，需 Claude Code CLI，无需 API key 或外部依赖。", "highlights": ["问题分解为 2-4 个并行研究工作流，启动前需用户批准计划", "写后即搜协议强制 agent 每次搜索后写入文件，防止循环", "卡住 agent 自动杀死并以已获数据预加载重启", "综合 agent 产出跨主题发现、矛盾点与置信度评估的统一文档"], "use_cases": ["在 Claude Code 中用一条命令发起多来源深度研究", "自动监控并恢复卡住的研究子 agent", "把多份研究产出综合为带内联引用的统一文档"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多agent编排", "深度研究", "Claude Code技能", "研究自动化", "SKILL.md"], "domain": "AI Agent/研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: A Claude Code skill that decomposes any research question into parallel agent workstreams, launches them simultaneously,", "L46: The skill uses Claude Code's built-in Task tool to launch multiple `general-purpose` subagents in parallel. Each agent:", "L83: - Claude Code (CLI)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "altmbr/claude-research-skill",
+ "sha": "10b569a35e63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Claude Code 技能：把研究问题分解为并行 agent 并综合成文档",
+  "review": "以 SKILL.md 形式提供的 Claude Code 技能：/research 命令将任意研究问题分解为 2-4 个不重叠的并行研究工作流，经用户批准后启动多个子 agent，各 agent 按严格写后即搜协议向独立 markdown 文件实时写入带内联引用的研究内容；编排器按递增间隔（30s/2min/5min）监控进度，自动杀死并预加载数据重启卡住的 agent；最后由综合 agent 生成含执行摘要、跨主题发现、矛盾点与置信度评估的统一文档。安装方式为复制 SKILL.md 到 Claude Code 命令目录，需 Claude Code CLI，无需 API key 或外部依赖。",
+  "highlights": [
+   "问题分解为 2-4 个并行研究工作流，启动前需用户批准计划",
+   "写后即搜协议强制 agent 每次搜索后写入文件，防止循环",
+   "卡住 agent 自动杀死并以已获数据预加载重启",
+   "综合 agent 产出跨主题发现、矛盾点与置信度评估的统一文档"
+  ],
+  "use_cases": [
+   "在 Claude Code 中用一条命令发起多来源深度研究",
+   "自动监控并恢复卡住的研究子 agent",
+   "把多份研究产出综合为带内联引用的统一文档"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多agent编排",
+   "深度研究",
+   "Claude Code技能",
+   "研究自动化",
+   "SKILL.md"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: A Claude Code skill that decomposes any research question into parallel agent workstreams, launches them simultaneously,",
+   "L46: The skill uses Claude Code's built-in Task tool to launch multiple `general-purpose` subagents in parallel. Each agent:",
+   "L83: - Claude Code (CLI)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,83 @@
-{"fn": "tcpsyn/CareerPulse", "sha": "901886645ee1", "source": "readme", "identity": {"one_liner": "自托管求职平台：抓取14个招聘源并用AI评分、生成简历与自动填表", "review": "自托管的求职搜索自动化平台：抓取 LinkedIn、Indeed 等 14 个招聘源，用 AI 按简历对职位打分（0-100，含匹配理由与技能差距分析），生成定制简历与求职信，通过 Chrome 扩展在 Workday/Greenhouse/Lever 等 ATS 表单上 AI 自动填写，并追踪申请全流程。AI 后端支持 Anthropic、OpenAI、Gemini、OpenRouter 或 Ollama 完全本地推理；数据经 Docker 自托管，SQLite 持久化。含薪资计算器、联系人 CRM、面试轮次与日历订阅等功能。", "highlights": ["14 个招聘源抓取，含限速、UA 轮换与去重", "AI 匹配打分 0-100，含技能差距分析", "Chrome 扩展对任意 ATS 表单 AI 自动填写，不自动提交", "5 种 AI 后端可选，支持 Ollama 完全本地推理"], "use_cases": ["在自己机器上聚合各招聘网站职位并按简历匹配度排序", "为每个职位生成定制简历与求职信并自动填写 ATS 表单", "追踪从投递到 offer 的完整申请流程与面试安排"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["求职自动化", "自托管", "简历定制", "ATS自动填表", "LLM应用"], "domain": "求职/职业工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "openrouter", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L5: CareerPulse is a self-hosted job search automation platform. It scrapes 14 job boards, scores listings against your resu", "L12: - **AI-powered matching** — Scores jobs 0-100 against your resume with match reasons, concerns, and skill gap analysis. "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tcpsyn/CareerPulse",
+ "sha": "901886645ee1",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管求职平台：抓取14个招聘源并用AI评分、生成简历与自动填表",
+  "review": "自托管的求职搜索自动化平台：抓取 LinkedIn、Indeed 等 14 个招聘源，用 AI 按简历对职位打分（0-100，含匹配理由与技能差距分析），生成定制简历与求职信，通过 Chrome 扩展在 Workday/Greenhouse/Lever 等 ATS 表单上 AI 自动填写，并追踪申请全流程。AI 后端支持 Anthropic、OpenAI、Gemini、OpenRouter 或 Ollama 完全本地推理；数据经 Docker 自托管，SQLite 持久化。含薪资计算器、联系人 CRM、面试轮次与日历订阅等功能。",
+  "highlights": [
+   "14 个招聘源抓取，含限速、UA 轮换与去重",
+   "AI 匹配打分 0-100，含技能差距分析",
+   "Chrome 扩展对任意 ATS 表单 AI 自动填写，不自动提交",
+   "5 种 AI 后端可选，支持 Ollama 完全本地推理"
+  ],
+  "use_cases": [
+   "在自己机器上聚合各招聘网站职位并按简历匹配度排序",
+   "为每个职位生成定制简历与求职信并自动填写 ATS 表单",
+   "追踪从投递到 offer 的完整申请流程与面试安排"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "求职自动化",
+   "自托管",
+   "简历定制",
+   "ATS自动填表",
+   "LLM应用"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping",
+   "ai-writing",
+   "browser-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: CareerPulse is a self-hosted job search automation platform. It scrapes 14 job boards, scores listings against your resu",
+   "L12: - **AI-powered matching** — Scores jobs 0-100 against your resume with match reasons, concerns, and skill gap analysis. "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

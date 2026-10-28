@@ -33,7 +33,7 @@ TypeScript 编写的自动化量化交易系统，面向 Hyperliquid 交易：LL
 
 ## 场景标签
 
- · 领域:金融/量化交易
+`多智能体` `金融量化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -1,1 +1,75 @@
-{"fn": "synpse-hq/synpse", "sha": "1fa3c4c545cf", "source": "readme", "identity": {"one_liner": "服务器与 IoT 设备集群管理平台：声明式部署、SSH 隧道与 OTA 更新", "review": "设备与应用编排工具：设备注册后可通过 UI/CLI 查看，支持基于隧道的 SSH/TCP 访问（设备无需公网 IP）、从 GitHub/Gitlab 等仓库读取清单的声明式应用部署、基于标签与选择器的设备分组调度、加密密钥存储与命名空间隔离。平台支持 Linux（amd64/aarch64/arm32），Darwin 需自行以守护进程方式安装 agent，Windows 支持列为计划项。README 未提及 AI 相关功能，仓库主题标签含 ai/machine-learning 但正文无对应说明。", "highlights": ["设备清单管理与 UI/CLI 仪表盘", "通过隧道的 SSH/TCP 访问，设备无需公网 IP", "声明式应用部署与基于标签的设备调度", "加密密钥存储与命名空间隔离"], "use_cases": ["管理分散的服务器或 IoT 设备集群并做 OTA 更新", "给无公网 IP 的设备建立 SSH/TCP 远程访问", "用声明式清单向设备子集部署应用（如 A/B 测试）"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["devops", "IoT设备管理", "远程访问", "应用部署"], "domain": "DevOps/设备编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L18: - Device inventory management: each of your device will register as an entry in our database and will be visible via UI/", "L19: - SSH/TCP connections to your devices via tunnels: you don't need to have a public IP on your device to have access to i", "L20: - Declarative application deployment: store your manifests in GitHub, Gitlab or any other SCM repository, deploy applica"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "synpse-hq/synpse",
+ "sha": "1fa3c4c545cf",
+ "source": "readme",
+ "identity": {
+  "one_liner": "服务器与 IoT 设备集群管理平台：声明式部署、SSH 隧道与 OTA 更新",
+  "review": "设备与应用编排工具：设备注册后可通过 UI/CLI 查看，支持基于隧道的 SSH/TCP 访问（设备无需公网 IP）、从 GitHub/Gitlab 等仓库读取清单的声明式应用部署、基于标签与选择器的设备分组调度、加密密钥存储与命名空间隔离。平台支持 Linux（amd64/aarch64/arm32），Darwin 需自行以守护进程方式安装 agent，Windows 支持列为计划项。README 未提及 AI 相关功能，仓库主题标签含 ai/machine-learning 但正文无对应说明。",
+  "highlights": [
+   "设备清单管理与 UI/CLI 仪表盘",
+   "通过隧道的 SSH/TCP 访问，设备无需公网 IP",
+   "声明式应用部署与基于标签的设备调度",
+   "加密密钥存储与命名空间隔离"
+  ],
+  "use_cases": [
+   "管理分散的服务器或 IoT 设备集群并做 OTA 更新",
+   "给无公网 IP 的设备建立 SSH/TCP 远程访问",
+   "用声明式清单向设备子集部署应用（如 A/B 测试）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "devops",
+   "IoT设备管理",
+   "远程访问",
+   "应用部署"
+  ],
+  "domain": "DevOps/设备编排",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L18: - Device inventory management: each of your device will register as an entry in our database and will be visible via UI/",
+   "L19: - SSH/TCP connections to your devices via tunnels: you don't need to have a public IP on your device to have access to i",
+   "L20: - Declarative application deployment: store your manifests in GitHub, Gitlab or any other SCM repository, deploy applica"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,76 @@
-{"fn": "tarmojussila/minimax-code-review", "sha": "0b9288ac2611", "source": "readme", "identity": {"one_liner": "用 MiniMax 模型做 GitHub PR 代码审查的 Action", "review": "面向 GitHub 仓库的 Actions 集成：在 pull request 上调用 MiniMax 模型（默认 MiniMax-M2.5）生成代码审查评论，覆盖 bug 检测与改进建议。通过 workflow 文件引用该 action（tarmojussila/minimax-code-review@v0.4.1），以 GitHub secret 配置 MiniMax API key；可自定义模型、system prompt、审查者名称、排除文件模式与 diff 字符上限，也可将模型等参数改为 Actions variables 管理。MIT 许可。", "highlights": ["GitHub Actions 形式接入，PR 触发自动审查评论", "默认使用 MiniMax-M2.5，模型可自定义", "支持自定义 system prompt（如安全聚焦审查）", "EXCLUDE_PATTERNS 排除 lock 文件等，MAX_DIFF_CHARS 限制 diff 长度"], "use_cases": ["PR 合并前自动获得 AI 代码审查评论", "以安全为导向的代码变更审查", "按团队编码规范定制审查提示词"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["代码审查", "CI/CD", "GitHub Actions", "LLM 应用"], "domain": "开发工具/CI-CD", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: AI-powered GitHub Pull Request code review using MiniMax models. Automatic PR comments, bug detection, and improvement s", "L27: |`MINIMAX_API_KEY`|Yes|—|Your MiniMax API key|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tarmojussila/minimax-code-review",
+ "sha": "0b9288ac2611",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用 MiniMax 模型做 GitHub PR 代码审查的 Action",
+  "review": "面向 GitHub 仓库的 Actions 集成：在 pull request 上调用 MiniMax 模型（默认 MiniMax-M2.5）生成代码审查评论，覆盖 bug 检测与改进建议。通过 workflow 文件引用该 action（tarmojussila/minimax-code-review@v0.4.1），以 GitHub secret 配置 MiniMax API key；可自定义模型、system prompt、审查者名称、排除文件模式与 diff 字符上限，也可将模型等参数改为 Actions variables 管理。MIT 许可。",
+  "highlights": [
+   "GitHub Actions 形式接入，PR 触发自动审查评论",
+   "默认使用 MiniMax-M2.5，模型可自定义",
+   "支持自定义 system prompt（如安全聚焦审查）",
+   "EXCLUDE_PATTERNS 排除 lock 文件等，MAX_DIFF_CHARS 限制 diff 长度"
+  ],
+  "use_cases": [
+   "PR 合并前自动获得 AI 代码审查评论",
+   "以安全为导向的代码变更审查",
+   "按团队编码规范定制审查提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码审查",
+   "CI/CD",
+   "GitHub Actions",
+   "LLM 应用"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: AI-powered GitHub Pull Request code review using MiniMax models. Automatic PR comments, bug detection, and improvement s",
+   "L27: |`MINIMAX_API_KEY`|Yes|—|Your MiniMax API key|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

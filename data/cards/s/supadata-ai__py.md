@@ -33,7 +33,7 @@ Supadata API 的官方 Python 客户端库，供开发者通过 API key 调用 S
 
 ## 场景标签
 
- · 领域:数据抓取/API 客户端
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

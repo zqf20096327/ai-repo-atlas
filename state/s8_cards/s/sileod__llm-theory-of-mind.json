@@ -1,1 +1,78 @@
-{"fn": "sileod/llm-theory-of-mind", "sha": "2fc7f0938283", "source": "readme", "identity": {"one_liner": "用认知逻辑生成问题、评测语言模型心智理论的基准", "review": "MindGames 论文（EMNLP Findings 2023）的配套代码与数据集：基于动态认知模态逻辑自动生成类似 muddy children 的认知推理问题，用于测试自然语言模型的心智理论（ToM）能力。问题标签由 SMCDEL 求得，另有独立编写的第二检查器交叉验证标签；评测脚本通过 OpenRouter 调用任意模型作答并打分，截断或不可解析的回答计为错误。数据集托管在 HuggingFace（v1.3）。", "highlights": ["基于模态逻辑自动生成认知推理问题", "SMCDEL 标注 + 独立第二检查器交叉验证", "经 OpenRouter 评测任意模型并输出分数", "提供 multi-round muddy-children 的 diamond 测试配置"], "use_cases": ["我要评测 LLM 在心智理论/认知推理任务上的表现", "我要研究模态逻辑生成的推理基准数据", "复现论文中的实验结果"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://aclanthology.org/2023.findings-emnlp.xxx/", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["评测基准", "心智理论", "认知逻辑", "数据集"], "domain": "NLP/认知推理评测", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L4: We generate epistemic reasoning problems (akin to muddy children or drinking logicians) using modal logic to target theo", "L6: 🤗 https://hf.co/datasets/sileod/mindgames (version 1.3, see the changelog there)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sileod/llm-theory-of-mind",
+ "sha": "2fc7f0938283",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用认知逻辑生成问题、评测语言模型心智理论的基准",
+  "review": "MindGames 论文（EMNLP Findings 2023）的配套代码与数据集：基于动态认知模态逻辑自动生成类似 muddy children 的认知推理问题，用于测试自然语言模型的心智理论（ToM）能力。问题标签由 SMCDEL 求得，另有独立编写的第二检查器交叉验证标签；评测脚本通过 OpenRouter 调用任意模型作答并打分，截断或不可解析的回答计为错误。数据集托管在 HuggingFace（v1.3）。",
+  "highlights": [
+   "基于模态逻辑自动生成认知推理问题",
+   "SMCDEL 标注 + 独立第二检查器交叉验证",
+   "经 OpenRouter 评测任意模型并输出分数",
+   "提供 multi-round muddy-children 的 diamond 测试配置"
+  ],
+  "use_cases": [
+   "我要评测 LLM 在心智理论/认知推理任务上的表现",
+   "我要研究模态逻辑生成的推理基准数据",
+   "复现论文中的实验结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://aclanthology.org/2023.findings-emnlp.xxx/",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "心智理论",
+   "认知逻辑",
+   "数据集"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L4: We generate epistemic reasoning problems (akin to muddy children or drinking logicians) using modal logic to target theo",
+   "L6: 🤗 https://hf.co/datasets/sileod/mindgames (version 1.3, see the changelog there)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

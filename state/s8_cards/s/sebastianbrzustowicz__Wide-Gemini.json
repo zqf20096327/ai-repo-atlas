@@ -1,1 +1,70 @@
-{"fn": "sebastianbrzustowicz/Wide-Gemini", "sha": "a3190038667a", "source": "readme", "identity": {"one_liner": "调整 Gemini 网页版界面宽度的 Chrome 扩展", "review": "面向 Google Gemini 网页端的浏览器扩展：通过滑块调节对话区宽度，提供 Clean View 隐藏多余页面元素，并附带复制按钮固定、表格多格式复制等界面改进。安装方式为在 chrome://extensions 开发者模式下加载解压目录，MIT 许可。本体是界面定制工具，不涉及模型能力本身。", "highlights": ["滑块调节 Gemini 页面内容宽度", "Clean View 隐藏多余页面元素", "复制按钮固定与表格多格式复制等界面改进"], "use_cases": ["在宽屏显示器上获得更宽的 Gemini 对话区", "隐藏干扰元素以获得更简洁的界面", "更方便地复制回答文本与表格"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["浏览器扩展", "UI定制", "Gemini", "前端工具"], "domain": "浏览器扩展/UI 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L13: Extension for Gemini extension. It is possible to adjust the width with a slider.", "L14: Additionally, you can enable \"Clean View\" to hide extra page elements for a cleaner interface."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sebastianbrzustowicz/Wide-Gemini",
+ "sha": "a3190038667a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "调整 Gemini 网页版界面宽度的 Chrome 扩展",
+  "review": "面向 Google Gemini 网页端的浏览器扩展：通过滑块调节对话区宽度，提供 Clean View 隐藏多余页面元素，并附带复制按钮固定、表格多格式复制等界面改进。安装方式为在 chrome://extensions 开发者模式下加载解压目录，MIT 许可。本体是界面定制工具，不涉及模型能力本身。",
+  "highlights": [
+   "滑块调节 Gemini 页面内容宽度",
+   "Clean View 隐藏多余页面元素",
+   "复制按钮固定与表格多格式复制等界面改进"
+  ],
+  "use_cases": [
+   "在宽屏显示器上获得更宽的 Gemini 对话区",
+   "隐藏干扰元素以获得更简洁的界面",
+   "更方便地复制回答文本与表格"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器扩展",
+   "UI定制",
+   "Gemini",
+   "前端工具"
+  ],
+  "domain": "浏览器扩展/UI 工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L13: Extension for Gemini extension. It is possible to adjust the width with a slider.",
+   "L14: Additionally, you can enable \"Clean View\" to hide extra page elements for a cleaner interface."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

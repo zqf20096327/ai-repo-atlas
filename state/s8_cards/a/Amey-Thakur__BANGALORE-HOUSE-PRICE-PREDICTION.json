@@ -1,1 +1,77 @@
-{"fn": "Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION", "sha": "a6f4b94c74ad", "source": "readme", "identity": {"one_liner": "用多元回归预测班加罗尔房价的 Flask 机器学习项目", "review": "在 IIT ROPAR - Diginique Techlabs 暑期实习期间完成的机器学习研究项目：基于班加罗尔房产数据集（位置、面积、BHK、卫浴数），使用 Scikit-learn 训练 Linear/Lasso/Ridge 回归模型估计房价，含数据清洗、独热编码降维与离群值处理；模型经 Pickle 序列化后由 Flask Web 服务器提供实时估价界面。项目以 IRJET 论文形式发表并附 viXra 预印本，提供 Kaggle Notebook 与 Hugging Face Space 在线演示，面向学生与教学场景。README 建议随市场变化定期重训模型。", "highlights": ["Linear/Lasso/Ridge 三种回归对比，以 RMSE 最小化选型", "独热编码处理高基数位置特征与离群值剔除", "Pickle 序列化模型，Flask Web 实时估价", "附带 Kaggle Notebook、论文与 Hugging Face Space 演示"], "use_cases": ["输入位置/面积/BHK 估计班加罗尔房价", "学习多元回归、独热编码与离群值检测流程", "作为数据科学课程的实验示例"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": "https://youtu.be/HaiXYHBPHVg", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["房价预测", "回归分析", "教学项目", "Flask部署"], "domain": "机器学习/房地产分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L8:  A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estat", "L31: By leveraging **Scikit-learn**, the system models the real estate landscape where an algorithm learns the relationship b", "L108:  Real-time price estimation based on the trained regression model."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Amey-Thakur/BANGALORE-HOUSE-PRICE-PREDICTION",
+ "sha": "a6f4b94c74ad",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用多元回归预测班加罗尔房价的 Flask 机器学习项目",
+  "review": "在 IIT ROPAR - Diginique Techlabs 暑期实习期间完成的机器学习研究项目：基于班加罗尔房产数据集（位置、面积、BHK、卫浴数），使用 Scikit-learn 训练 Linear/Lasso/Ridge 回归模型估计房价，含数据清洗、独热编码降维与离群值处理；模型经 Pickle 序列化后由 Flask Web 服务器提供实时估价界面。项目以 IRJET 论文形式发表并附 viXra 预印本，提供 Kaggle Notebook 与 Hugging Face Space 在线演示，面向学生与教学场景。README 建议随市场变化定期重训模型。",
+  "highlights": [
+   "Linear/Lasso/Ridge 三种回归对比，以 RMSE 最小化选型",
+   "独热编码处理高基数位置特征与离群值剔除",
+   "Pickle 序列化模型，Flask Web 实时估价",
+   "附带 Kaggle Notebook、论文与 Hugging Face Space 演示"
+  ],
+  "use_cases": [
+   "输入位置/面积/BHK 估计班加罗尔房价",
+   "学习多元回归、独热编码与离群值检测流程",
+   "作为数据科学课程的实验示例"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": "https://youtu.be/HaiXYHBPHVg",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "房价预测",
+   "回归分析",
+   "教学项目",
+   "Flask部署"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8:  A machine learning study demonstrating the application of **Multivariate Regression** algorithms to estimate real estat",
+   "L31: By leveraging **Scikit-learn**, the system models the real estate landscape where an algorithm learns the relationship b",
+   "L108:  Real-time price estimation based on the trained regression model."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

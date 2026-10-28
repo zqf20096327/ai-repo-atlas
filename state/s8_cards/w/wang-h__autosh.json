@@ -1,1 +1,83 @@
-{"fn": "wang-h/autosh", "sha": "44bfd3de6990", "source": "readme", "identity": {"one_liner": "给中文程序员的终端 AI 助手：一句中文生成 shell 命令", "review": "AutoSH（命令 ah）是集成到 zsh/bash 的终端工具：读取当前命令行缓冲区中的中文描述，发送给 AI API（DeepSeek/Kimi/MiniMax/Qwen/GLM 任选其一），将生成的 shell 命令替换回命令行。提供两种模式：Ctrl+G 直接出命令，Ctrl+/ 弹出三个候选并附中文解释。不上传命令历史，带本地常驻进程（daemon）与 doctor 环境检查。需要 Python 3.11+ 与任一提供商 API Key。", "highlights": ["读取命令行缓冲区→AI 生成→替换回命令行，不上传命令历史", "两种模式：Ctrl+G 极速直出 / Ctrl+/ 三个候选+中文解释", "支持 5 个 AI 提供商一键切换（deepseek/kimi/minimax/qwen/glm）", "zsh 与 bash 双支持，快捷键可自定义"], "use_cases": ["忘记命令语法时用中文描述直接得到可执行命令", "英文不熟时用中文操作 docker 等命令行工具", "在不离开终端的情况下快速获得命令候选与解释"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["终端工具", "shell 集成", "命令生成", "中文输入"], "domain": "开发者工具/终端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中文程序员的产品定位", "默认内置国内 AI 提供商"]}, "trust": {"confidence": "high", "evidence": ["L16: AutoSH（`ah`）是给中文程序员的终端 AI 助手。在 zsh 里写中文，按一下就出命令。", "L138: 读取当前命令行缓冲区 → 发送给 AI API → 模型生成命令 → 替换回命令行。不上传命令历史。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wang-h/autosh",
+ "sha": "44bfd3de6990",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给中文程序员的终端 AI 助手：一句中文生成 shell 命令",
+  "review": "AutoSH（命令 ah）是集成到 zsh/bash 的终端工具：读取当前命令行缓冲区中的中文描述，发送给 AI API（DeepSeek/Kimi/MiniMax/Qwen/GLM 任选其一），将生成的 shell 命令替换回命令行。提供两种模式：Ctrl+G 直接出命令，Ctrl+/ 弹出三个候选并附中文解释。不上传命令历史，带本地常驻进程（daemon）与 doctor 环境检查。需要 Python 3.11+ 与任一提供商 API Key。",
+  "highlights": [
+   "读取命令行缓冲区→AI 生成→替换回命令行，不上传命令历史",
+   "两种模式：Ctrl+G 极速直出 / Ctrl+/ 三个候选+中文解释",
+   "支持 5 个 AI 提供商一键切换（deepseek/kimi/minimax/qwen/glm）",
+   "zsh 与 bash 双支持，快捷键可自定义"
+  ],
+  "use_cases": [
+   "忘记命令语法时用中文描述直接得到可执行命令",
+   "英文不熟时用中文操作 docker 等命令行工具",
+   "在不离开终端的情况下快速获得命令候选与解释"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "终端工具",
+   "shell 集成",
+   "命令生成",
+   "中文输入"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "code-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文程序员的产品定位",
+   "默认内置国内 AI 提供商"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L16: AutoSH（`ah`）是给中文程序员的终端 AI 助手。在 zsh 里写中文，按一下就出命令。",
+   "L138: 读取当前命令行缓冲区 → 发送给 AI API → 模型生成命令 → 替换回命令行。不上传命令历史。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
