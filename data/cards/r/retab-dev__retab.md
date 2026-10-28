@@ -1,6 +1,6 @@
 # retab-dev/retab
 
-⭐ 45 · Go · 推送 2026-10-04 · [GitHub](https://github.com/retab-dev/retab) · [官网](https://www.retab.com) · 组织维护
+⭐ 45 · Go · 推送 2026-10-28 · [GitHub](https://github.com/retab-dev/retab) · [官网](https://www.retab.com) · 组织维护
 
 **面向开发者的 LLM 文档处理平台与 SDK**
 

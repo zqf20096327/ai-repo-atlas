@@ -1,6 +1,6 @@
 # diodiogod/Comfy-Inpainting-Works
 
-⭐ 75 · Python · 推送 2025-11-04 · [GitHub](https://github.com/diodiogod/Comfy-Inpainting-Works) · 个人维护
+⭐ 74 · Python · 推送 2025-11-04 · [GitHub](https://github.com/diodiogod/Comfy-Inpainting-Works) · 个人维护
 
 **ComfyUI 用的 Flux 局部重绘/外绘工作流模板（Expanded/Compact 双版本）**
 

@@ -1,6 +1,6 @@
 # google-deepmind/regress-lm
 
-⭐ 366 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/regress-lm) · 组织维护
+⭐ 367 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/regress-lm) · 组织维护
 
 **序列到序列数值预测库：从可分词输入预测浮点数**
 

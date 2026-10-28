@@ -1,6 +1,6 @@
 # wquguru/harness-books
 
-⭐ 3,208 · Python · 推送 2026-04-19 · [GitHub](https://github.com/wquguru/harness-books) · [官网](http://harness-books.agentway.dev/) · 组织维护 · 中文 README
+⭐ 3,210 · Python · 推送 2026-04-19 · [GitHub](https://github.com/wquguru/harness-books) · [官网](http://harness-books.agentway.dev/) · 组织维护 · 中文 README
 
 **关于 Claude Code 与 Codex harness 工程的两本技术书籍**
 

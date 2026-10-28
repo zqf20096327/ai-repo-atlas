@@ -1,6 +1,6 @@
 # 2witstudios/PurePoint
 
-⭐ 27 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/2witstudios/PurePoint) · [官网](https://PurePoint.dev) · 组织维护
+⭐ 27 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/2witstudios/PurePoint) · [官网](https://PurePoint.dev) · 组织维护
 
 **macOS 上并行管理多个编码 agent 的终端工作区**
 

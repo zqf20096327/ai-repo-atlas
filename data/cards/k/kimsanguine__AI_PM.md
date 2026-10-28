@@ -1,6 +1,6 @@
 # kimsanguine/AI_PM
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kimsanguine/AI_PM) · 个人维护
+⭐ 58 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kimsanguine/AI_PM) · 个人维护
 
 **面向韩国语 PM 的 Claude Code 实战课程（8 部分 + 10 用例）**
 

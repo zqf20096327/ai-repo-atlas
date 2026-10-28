@@ -1,6 +1,6 @@
 # joeycumines/go-behaviortree
 
-⭐ 80 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/joeycumines/go-behaviortree) · 个人维护
+⭐ 81 · Go · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/joeycumines/go-behaviortree) · 个人维护
 
 **Go 行为树库：为游戏 AI 与机器人控制提供行为树运行机制**
 

@@ -1,6 +1,6 @@
 # zacharyfmarion/openscad-studio
 
-⭐ 245 · TypeScript · GPL-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/zacharyfmarion/openscad-studio) · [官网](https://openscad-studio.pages.dev/) · 个人维护
+⭐ 246 · TypeScript · GPL-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/zacharyfmarion/openscad-studio) · [官网](https://openscad-studio.pages.dev/) · 个人维护
 
 **带 AI 助手的 OpenSCAD 代码编辑器（Web 与 macOS）**
 

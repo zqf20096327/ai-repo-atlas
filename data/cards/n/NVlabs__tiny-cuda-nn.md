@@ -1,6 +1,6 @@
 # NVlabs/tiny-cuda-nn
 
-⭐ 4,542 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/NVlabs/tiny-cuda-nn) · 组织维护
+⭐ 4,544 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/NVlabs/tiny-cuda-nn) · 组织维护
 
 **面向 CUDA GPU 的轻量神经网络训练/查询 C++ 框架**
 

@@ -1,6 +1,6 @@
 # chaehyun2/claudetuner
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/chaehyun2/claudetuner) · [官网](https://claudetuner.com) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/chaehyun2/claudetuner) · [官网](https://claudetuner.com) · 个人维护
 
 **监控 Claude/ChatGPT/Gemini 用量限额的 Chrome 扩展**
 

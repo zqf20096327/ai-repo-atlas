@@ -1,6 +1,6 @@
 # blackwell-systems/gcf
 
-⭐ 61 · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/blackwell-systems/gcf) · [官网](http://www.gcformat.com/) · 组织维护
+⭐ 61 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/blackwell-systems/gcf) · [官网](http://www.gcformat.com/) · 组织维护
 
 **面向 LLM/Agent 的结构化数据序列化格式，替代 JSON 降 token**
 

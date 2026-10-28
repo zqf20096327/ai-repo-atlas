@@ -1,6 +1,6 @@
 # Lightning-AI/LitServe
 
-⭐ 3,956 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Lightning-AI/LitServe) · [官网](https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme) · 组织维护
+⭐ 3,957 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Lightning-AI/LitServe) · [官网](https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme) · 组织维护
 
 **用纯 Python 构建自定义 AI 推理服务器的轻量框架**
 

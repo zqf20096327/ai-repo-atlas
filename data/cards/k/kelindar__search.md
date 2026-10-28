@@ -1,6 +1,6 @@
 # kelindar/search
 
-⭐ 560 · Go · MIT · 推送 2026-09-19 · [GitHub](https://github.com/kelindar/search) · 个人维护
+⭐ 561 · Go · MIT · 推送 2026-09-19 · [GitHub](https://github.com/kelindar/search) · 个人维护
 
 **Go 向量检索与语义嵌入库：精确余弦索引+本地/云端嵌入**
 

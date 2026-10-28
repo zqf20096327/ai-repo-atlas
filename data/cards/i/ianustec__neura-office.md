@@ -1,6 +1,6 @@
 # ianustec/neura-office
 
-⭐ 83 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ianustec/neura-office) · [官网](https://ianustec.com) · 组织维护
+⭐ 84 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ianustec/neura-office) · [官网](https://ianustec.com) · 组织维护
 
 **Open WebUI 的 Office 文件生成工具套件：聊天产出可编辑 docx/pptx/xlsx**
 

@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-code-essentials-vs-code
 
-⭐ 64 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AgriciDaniel/claude-code-essentials-vs-code) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AgriciDaniel/claude-code-essentials-vs-code) · [官网](https://agricidaniel.com) · 个人维护
 
 **Claude Code 与 VS Code 扩展的选择性安装脚本助手**
 

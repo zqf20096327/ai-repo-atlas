@@ -1,6 +1,6 @@
 # montevive/penpot-mcp
 
-⭐ 241 · Python · 推送 2025-11-01 · [GitHub](https://github.com/montevive/penpot-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **连接 Claude/Cursor 等 LLM 与 Penpot 设计文件的 MCP 服务器**
 

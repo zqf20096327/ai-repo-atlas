@@ -1,6 +1,6 @@
 # xop01/project-progress-mcp
 
-⭐ 33 · Zig · 推送 2026-10-04 · [GitHub](https://github.com/xop01/project-progress-mcp) · 个人维护
+⭐ 34 · Zig · 推送 2026-10-04 · [GitHub](https://github.com/xop01/project-progress-mcp) · 个人维护
 
 **Zig 编写的 MCP 服务器：让编码 agent 持久化项目进度并检测漂移**
 

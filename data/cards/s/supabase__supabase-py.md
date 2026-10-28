@@ -1,6 +1,6 @@
 # supabase/supabase-py
 
-⭐ 2,612 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
+⭐ 2,614 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
 
 **Supabase 官方 Python 客户端 monorepo：数据库、认证、存储、实时**
 

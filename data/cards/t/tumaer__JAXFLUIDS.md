@@ -1,6 +1,6 @@
 # tumaer/JAXFLUIDS
 
-⭐ 660 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/tumaer/JAXFLUIDS) · 组织维护
+⭐ 661 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/tumaer/JAXFLUIDS) · 组织维护
 
 **可微分 CFD 求解器：用 JAX 做 3D 可压缩流仿真与端到端优化**
 

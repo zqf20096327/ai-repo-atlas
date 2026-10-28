@@ -1,6 +1,6 @@
 # Dishant27/medium-mcp-server
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/medium-mcp-server) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Dishant27/medium-mcp-server) · 个人维护
 
 **让 AI 助手读写 Medium 账号的 MCP 服务器**
 

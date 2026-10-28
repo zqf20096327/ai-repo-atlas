@@ -1,6 +1,6 @@
 # yohasebe/wp2txt
 
-⭐ 196 · Ruby · MIT · 推送 2026-10-03 · [GitHub](https://github.com/yohasebe/wp2txt) · 个人维护 · 中文 README
+⭐ 196 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yohasebe/wp2txt) · 个人维护 · 中文 README
 
 **从 Wikipedia dump 提取纯文本与分类数据的命令行工具**
 

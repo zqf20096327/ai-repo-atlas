@@ -1,6 +1,6 @@
 # AndrewDryga/coop
 
-⭐ 29 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AndrewDryga/coop) · [官网](http://coop.dryga.com/) · 个人维护
+⭐ 29 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AndrewDryga/coop) · [官网](http://coop.dryga.com/) · 个人维护
 
 **面向开发者的编码 agent 沙箱运行器：隔离权限、任务队列与无人值守循环**
 

@@ -1,6 +1,6 @@
 # rayenfeng/riko_project
 
-⭐ 1,172 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rayenfeng/riko_project) · 个人维护
+⭐ 1,175 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rayenfeng/riko_project) · 个人维护
 
 **本地运行的开源动漫 AI 语音陪伴助手，含 3D 口型同步虚拟形象**
 

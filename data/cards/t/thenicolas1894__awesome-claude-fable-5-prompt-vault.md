@@ -1,6 +1,6 @@
 # thenicolas1894/awesome-claude-fable-5-prompt-vault
 
-⭐ 140 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) · 个人维护
+⭐ 140 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) · 个人维护
 
 **提示工程模式知识库：模板、评估框架与部署蓝图合集**
 

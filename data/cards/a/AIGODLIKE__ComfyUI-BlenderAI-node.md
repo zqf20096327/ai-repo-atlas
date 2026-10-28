@@ -1,6 +1,6 @@
 # AIGODLIKE/ComfyUI-BlenderAI-node
 
-⭐ 1,573 · Python · GPL-3.0 · 推送 2025-11-28 · [GitHub](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) · 组织维护 · 中文 README
+⭐ 1,574 · Python · GPL-3.0 · 推送 2025-11-28 · [GitHub](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) · 组织维护 · 中文 README
 
 **在 Blender 内使用 ComfyUI 的插件：AI 材质生成与节点式 AI 渲染**
 

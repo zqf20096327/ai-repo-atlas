@@ -1,6 +1,6 @@
 # vkorost/weekend-diy-book
 
-⭐ 32 · Shell · CC0-1.0 · 推送 2026-08-15 · [GitHub](https://github.com/vkorost/weekend-diy-book) · 个人维护
+⭐ 33 · Shell · CC0-1.0 · 推送 2026-08-15 · [GitHub](https://github.com/vkorost/weekend-diy-book) · 个人维护
 
 **AI 一个周末写成的 Claude Code 进阶技术书，附自写指南**
 

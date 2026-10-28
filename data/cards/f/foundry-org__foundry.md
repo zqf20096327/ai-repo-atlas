@@ -1,6 +1,6 @@
 # foundry-org/foundry
 
-⭐ 66 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/foundry-org/foundry) · [官网](https://arxiv.org/abs/2604.06664) · 组织维护
+⭐ 67 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/foundry-org/foundry) · [官网](https://arxiv.org/abs/2604.06664) · 组织维护
 
 **CUDA 图持久化系统：让 LLM 推理引擎跳过预热秒级冷启动**
 

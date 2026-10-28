@@ -1,6 +1,6 @@
 # DavidVeksler/CodeContext
 
-⭐ 23 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/DavidVeksler/CodeContext) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DavidVeksler/CodeContext) · 个人维护
 
 **将代码库转为文本供 LLM 读取的 CLI 工具与 MCP 服务器**
 

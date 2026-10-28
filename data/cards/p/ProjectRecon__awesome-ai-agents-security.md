@@ -1,6 +1,6 @@
 # ProjectRecon/awesome-ai-agents-security
 
-⭐ 77 · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/ProjectRecon/awesome-ai-agents-security) · 组织维护
+⭐ 78 · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/ProjectRecon/awesome-ai-agents-security) · 组织维护
 
 **AI agent 安全工具与资源的策展清单（awesome list）**
 

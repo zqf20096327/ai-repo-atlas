@@ -1,6 +1,6 @@
 # duongthinh03/portfolio
 
-⭐ 84 · Python · 推送 2026-06-30 · [GitHub](https://github.com/duongthinh03/portfolio) · [官网](https://dqt-03.vercel.app/) · 个人维护
+⭐ 83 · Python · 推送 2026-06-30 · [GitHub](https://github.com/duongthinh03/portfolio) · [官网](https://dqt-03.vercel.app/) · 个人维护
 
 **个人作品集网站：展示全栈/.NET 开发者的项目与经历**
 

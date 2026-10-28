@@ -1,6 +1,6 @@
 # langchain-ai/new-langgraph-project
 
-⭐ 298 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/new-langgraph-project) · 组织维护
+⭐ 298 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/new-langgraph-project) · 组织维护
 
 **LangGraph 官方项目模板：演示如何用 LangGraph Server/Studio 起步**
 

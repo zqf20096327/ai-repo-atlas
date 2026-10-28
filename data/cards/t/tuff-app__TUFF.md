@@ -1,6 +1,6 @@
 # tuff-app/TUFF
 
-⭐ 64 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tuff-app/TUFF) · [官网](https://tuff-app.github.io/) · 个人维护
+⭐ 66 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tuff-app/TUFF) · [官网](https://tuff-app.github.io/) · 个人维护
 
 **Apple Silicon Mac 本地 LLM 聊天应用，可从 SSD 流式运行超大 MoE 模型**
 

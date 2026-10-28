@@ -1,6 +1,6 @@
 # mrbuslov/capcut-ai-editor
 
-⭐ 123 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mrbuslov/capcut-ai-editor) · 个人维护
+⭐ 122 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mrbuslov/capcut-ai-editor) · 个人维护
 
 **给视频创作者的 MCP 服务器：在剪映工程内自动去静音与重复片段**
 

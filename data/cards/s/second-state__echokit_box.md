@@ -1,6 +1,6 @@
 # second-state/echokit_box
 
-⭐ 217 · Rust · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/second-state/echokit_box) · [官网](https://echokit.dev/) · 组织维护
+⭐ 218 · Rust · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/second-state/echokit_box) · [官网](https://echokit.dev/) · 组织维护
 
 **EchoKit 语音设备的 ESP32 固件（Rust 编写）**
 

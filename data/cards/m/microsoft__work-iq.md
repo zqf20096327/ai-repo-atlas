@@ -1,6 +1,6 @@
 # microsoft/work-iq
 
-⭐ 1,043 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/work-iq) · 组织维护
+⭐ 1,044 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/work-iq) · 组织维护
 
 **连接 AI 助手与 Microsoft 365 数据的 MCP Server 与 CLI 插件集**
 

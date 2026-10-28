@@ -1,6 +1,6 @@
 # ghostwright/shadow
 
-⭐ 92 · Swift · MIT · 推送 2026-03-16 · [GitHub](https://github.com/ghostwright/shadow) · [官网](https://ghostwright.dev/shadow) · 组织维护
+⭐ 93 · Swift · MIT · 推送 2026-03-16 · [GitHub](https://github.com/ghostwright/shadow) · [官网](https://ghostwright.dev/shadow) · 组织维护
 
 **macOS 本地个人智能引擎：全量记录电脑行为并主动提供 AI 辅助**
 

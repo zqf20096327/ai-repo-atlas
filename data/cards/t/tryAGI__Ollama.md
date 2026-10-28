@@ -1,6 +1,6 @@
 # tryAGI/Ollama
 
-⭐ 208 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/Ollama) · [官网](https://tryagi.github.io/Ollama/) · 组织维护
+⭐ 208 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tryAGI/Ollama) · [官网](https://tryagi.github.io/Ollama/) · 组织维护
 
 **面向 .NET 开发者的 Ollama 官方风格 SDK，接入本地 LLM**
 

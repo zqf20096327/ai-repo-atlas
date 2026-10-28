@@ -1,6 +1,6 @@
 # libAudioFlux/audioFlux
 
-⭐ 3,379 · C · MIT · 推送 2026-03-06 · [GitHub](https://github.com/libAudioFlux/audioFlux) · [官网](https://audioflux.top) · 组织维护
+⭐ 3,380 · C · MIT · 推送 2026-03-06 · [GitHub](https://github.com/libAudioFlux/audioFlux) · [官网](https://audioflux.top) · 组织维护
 
 **面向深度学习的音频与音乐分析、特征提取库**
 

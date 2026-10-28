@@ -1,6 +1,6 @@
 # alaliqing/AlphaAD
 
-⭐ 35 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/alaliqing/AlphaAD) · [官网](https://alaliqing.github.io/AlphaAD/) · 个人维护
+⭐ 35 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/alaliqing/AlphaAD) · [官网](https://alaliqing.github.io/AlphaAD/) · 个人维护
 
 **自动驾驶 arXiv 论文日更清单：分类浏览最新研究**
 

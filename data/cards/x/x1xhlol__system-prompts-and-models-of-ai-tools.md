@@ -1,6 +1,6 @@
 # x1xhlol/system-prompts-and-models-of-ai-tools
 
-⭐ 144,287 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
+⭐ 144,309 · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) · 个人维护
 
 **收录多款 AI 编程工具系统提示词的资料合集**
 

@@ -1,6 +1,6 @@
 # FrontiersMindAI/decisionformer
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/FrontiersMindAI/decisionformer) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/FrontiersMindAI/decisionformer) · 组织维护
 
 **在任意 Hugging Face 模型上微调与服务校准决策模型的库**
 

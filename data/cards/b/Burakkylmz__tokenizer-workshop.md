@@ -1,6 +1,6 @@
 # Burakkylmz/tokenizer-workshop
 
-⭐ 20 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Burakkylmz/tokenizer-workshop) · 个人维护
+⭐ 24 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Burakkylmz/tokenizer-workshop) · 个人维护
 
 **教学型 Python 项目：从零实现字符/字节/BPE 分词器学习分词原理**
 

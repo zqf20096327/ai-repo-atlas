@@ -1,6 +1,6 @@
 # pyro-ppl/pyro
 
-⭐ 9,073 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/pyro-ppl/pyro) · [官网](http://pyro.ai) · 组织维护
+⭐ 9,072 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/pyro-ppl/pyro) · [官网](http://pyro.ai) · 组织维护
 
 **基于 PyTorch 的通用深度概率编程库，供研究者做贝叶斯建模与变分推断**
 

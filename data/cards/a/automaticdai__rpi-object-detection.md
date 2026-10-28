@@ -1,6 +1,6 @@
 # automaticdai/rpi-object-detection
 
-⭐ 315 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/automaticdai/rpi-object-detection) · 个人维护
+⭐ 315 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/automaticdai/rpi-object-detection) · 个人维护
 
 **面向树莓派的实时目标检测与追踪示例集合**
 

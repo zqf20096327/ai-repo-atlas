@@ -1,6 +1,6 @@
 # ValerianXXX/JobFlow
 
-⭐ 197 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/ValerianXXX/JobFlow) · 个人维护
+⭐ 196 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ValerianXXX/JobFlow) · 个人维护
 
 **本地优先的 Windows 求职申请工作流：AI 生成有据材料，人工确认提交**
 

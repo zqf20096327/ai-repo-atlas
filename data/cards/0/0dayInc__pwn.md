@@ -1,6 +1,6 @@
 # 0dayInc/pwn
 
-⭐ 86 · Ruby · MIT · 推送 2026-10-24 · [GitHub](https://github.com/0dayInc/pwn) · [官网](https://github.com/0dayinc/pwn) · 组织维护
+⭐ 86 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/0dayInc/pwn) · [官网](https://github.com/0dayinc/pwn) · 组织维护
 
 **开源 Ruby 攻击性安全自动化工具包，AI 代理可调用其工具链**
 

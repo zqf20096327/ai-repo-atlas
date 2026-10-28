@@ -1,6 +1,6 @@
 # Ak-cybe/soc-roadmap-2026
 
-⭐ 235 · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Ak-cybe/soc-roadmap-2026) · 个人维护
+⭐ 236 · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Ak-cybe/soc-roadmap-2026) · 个人维护
 
 **SOC 安全分析师训练路线图：18 个动手项目与学习路径**
 

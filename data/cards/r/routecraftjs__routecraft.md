@@ -1,6 +1,6 @@
 # routecraftjs/routecraft
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/routecraftjs/routecraft) · [官网](https://routecraft.dev/) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/routecraftjs/routecraft) · [官网](https://routecraft.dev/) · 组织维护
 
 **开源 AI 自动化平台：把能力写成类型化 TypeScript 路由供 agent 复用**
 

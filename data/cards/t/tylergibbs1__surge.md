@@ -1,6 +1,6 @@
 # tylergibbs1/surge
 
-⭐ 25 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/tylergibbs1/surge) · [官网](https://surgeforecast.com) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tylergibbs1/surge) · [官网](https://surgeforecast.com) · 个人维护
 
 **美国电网日前负荷概率预测：Chronos-2 微调模型+库+API+playground**
 

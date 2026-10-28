@@ -1,6 +1,6 @@
 # simmzx/SynFrag
 
-⭐ 24 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/simmzx/SynFrag) · 组织维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/simmzx/SynFrag) · 组织维护 · 中文 README
 
 **药物发现中预测分子合成可及性的片段组装生成模型**
 

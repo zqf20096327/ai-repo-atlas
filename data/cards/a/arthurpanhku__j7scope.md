@@ -1,6 +1,6 @@
 # arthurpanhku/j7scope
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/arthurpanhku/j7scope) · 个人维护 · 中文 README
+⭐ 21 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/arthurpanhku/j7scope) · 个人维护 · 中文 README
 
 **检验语言模型内部 J-space 跨语言共享性的研究项目与实时旁路工具**
 

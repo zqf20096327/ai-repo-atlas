@@ -1,6 +1,6 @@
 # fei-aiart/courses
 
-⭐ 500 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/fei-aiart/courses) · [官网](https://github.com/fei-aiart/courses) · 个人维护 · 中文 README
+⭐ 501 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/fei-aiart/courses) · [官网](https://github.com/fei-aiart/courses) · 个人维护 · 中文 README
 
 **个人教学课件汇总：深度学习、CV、机器学习等课程讲义**
 

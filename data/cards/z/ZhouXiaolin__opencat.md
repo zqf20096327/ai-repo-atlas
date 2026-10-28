@@ -1,6 +1,6 @@
 # ZhouXiaolin/opencat
 
-⭐ 71 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/ZhouXiaolin/opencat) · [官网](http://www.catcut.cc) · 个人维护 · 中文 README
+⭐ 71 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/ZhouXiaolin/opencat) · [官网](http://www.catcut.cc) · 个人维护 · 中文 README
 
 **面向 AI agent 的 JSX 声明式视频渲染引擎（Rust+Skia+FFmpeg）**
 

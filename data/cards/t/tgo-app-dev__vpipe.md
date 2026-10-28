@@ -1,6 +1,6 @@
 # tgo-app-dev/vpipe
 
-⭐ 227 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tgo-app-dev/vpipe) · 组织维护 · 中文 README
+⭐ 231 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tgo-app-dev/vpipe) · 组织维护 · 中文 README
 
 **Apple Silicon 上的本地多模态 AI 推理运行时与 macOS 应用**
 

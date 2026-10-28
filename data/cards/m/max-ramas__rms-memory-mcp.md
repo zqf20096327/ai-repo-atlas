@@ -1,6 +1,6 @@
 # max-ramas/rms-memory-mcp
 
-⭐ 43 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/max-ramas/rms-memory-mcp) · [官网](https://rms-ds.com/) · 个人维护
+⭐ 61 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/max-ramas/rms-memory-mcp) · [官网](https://rms-ds.com/) · 个人维护
 
 **给 AI 编码 agent 的本地跨 IDE 持久记忆 MCP 服务器**
 

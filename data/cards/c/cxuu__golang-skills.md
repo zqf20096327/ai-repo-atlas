@@ -1,6 +1,6 @@
 # cxuu/golang-skills
 
-⭐ 185 · HTML · Apache-2.0 · 推送 2026-06-20 · [GitHub](https://github.com/cxuu/golang-skills) · 个人维护
+⭐ 186 · HTML · Apache-2.0 · 推送 2026-06-20 · [GitHub](https://github.com/cxuu/golang-skills) · 个人维护
 
 **给 AI 编程助手的 Go 语言最佳实践技能包（20 项技能）**
 

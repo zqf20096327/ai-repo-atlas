@@ -1,6 +1,6 @@
 # affromero/kin3o
 
-⭐ 26 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/affromero/kin3o) · [官网](https://kin3o.com) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/affromero/kin3o) · [官网](https://kin3o.com) · 个人维护
 
 **终端文本生成 Lottie 动画的 AI CLI 工具**
 

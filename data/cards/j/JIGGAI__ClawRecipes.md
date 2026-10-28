@@ -1,6 +1,6 @@
 # JIGGAI/ClawRecipes
 
-⭐ 100 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/JIGGAI/ClawRecipes) · [官网](https://clawkitchen.ai) · 个人维护
+⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/JIGGAI/ClawRecipes) · [官网](https://clawkitchen.ai) · 个人维护
 
 **OpenClaw 插件：用 Markdown 配方脚手架化 agent 团队与文件优先工作流**
 

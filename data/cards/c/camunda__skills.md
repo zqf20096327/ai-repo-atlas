@@ -1,6 +1,6 @@
 # camunda/skills
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/camunda/skills) · [官网](https://camunda.com) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/camunda/skills) · [官网](https://camunda.com) · 组织维护
 
 **Camunda 8 官方 AI 编程技能包，供 Agent 构建 Camunda 解决方案**
 

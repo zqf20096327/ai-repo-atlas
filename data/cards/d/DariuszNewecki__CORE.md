@@ -1,6 +1,6 @@
 # DariuszNewecki/CORE
 
-⭐ 39 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DariuszNewecki/CORE) · [官网](https://dariusznewecki.github.io/CORE/) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DariuszNewecki/CORE) · [官网](https://dariusznewecki.github.io/CORE/) · 个人维护
 
 **AI 辅助开发的宪法治理运行时：审计代码、人工批准变更**
 

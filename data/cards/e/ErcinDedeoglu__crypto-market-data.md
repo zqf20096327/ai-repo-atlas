@@ -1,6 +1,6 @@
 # ErcinDedeoglu/crypto-market-data
 
-⭐ 94 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ErcinDedeoglu/crypto-market-data) · [官网](https://github.com/ErcinDedeoglu/crypto-market-data) · 个人维护
+⭐ 94 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ErcinDedeoglu/crypto-market-data) · [官网](https://github.com/ErcinDedeoglu/crypto-market-data) · 个人维护
 
 **面向 ML 研究的免费加密货币链上与衍生品日度数据集**
 

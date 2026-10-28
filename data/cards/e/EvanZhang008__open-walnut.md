@@ -1,6 +1,6 @@
 # EvanZhang008/open-walnut
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EvanZhang008/open-walnut) · [官网](https://openwalnut.dev) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EvanZhang008/open-walnut) · [官网](https://openwalnut.dev) · 个人维护
 
 **自托管网页端管理本机与远程 Claude Code 会话的工作台**
 

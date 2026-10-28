@@ -1,6 +1,6 @@
 # nekomeowww/ollama-operator
 
-⭐ 242 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nekomeowww/ollama-operator) · [官网](https://ollama-operator.ayaka.io) · 个人维护
+⭐ 242 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nekomeowww/ollama-operator) · [官网](https://ollama-operator.ayaka.io) · 个人维护
 
 **在 Kubernetes 上运行 Ollama 大模型的运维算子**
 

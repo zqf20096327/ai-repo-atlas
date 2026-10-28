@@ -1,6 +1,6 @@
 # kuhumcst/DanNet
 
-⭐ 29 · Clojure · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kuhumcst/DanNet) · [官网](https://wordnet.dk) · 组织维护
+⭐ 29 · Clojure · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kuhumcst/DanNet) · [官网](https://wordnet.dk) · 组织维护
 
 **丹麦语 WordNet 词汇语义网络数据集与 RDF 知识图谱应用**
 

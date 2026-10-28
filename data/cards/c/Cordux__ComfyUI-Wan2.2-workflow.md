@@ -1,6 +1,6 @@
 # Cordux/ComfyUI-Wan2.2-workflow
 
-⭐ 67 · Unlicense · 推送 2026-01-26 · [GitHub](https://github.com/Cordux/ComfyUI-Wan2.2-workflow) · 个人维护
+⭐ 68 · Unlicense · 推送 2026-01-26 · [GitHub](https://github.com/Cordux/ComfyUI-Wan2.2-workflow) · 个人维护
 
 **低显存用户的 Wan 2.2 14B 文生视频/图生视频 ComfyUI 工作流**
 

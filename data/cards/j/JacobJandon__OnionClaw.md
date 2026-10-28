@@ -1,6 +1,6 @@
 # JacobJandon/OnionClaw
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JacobJandon/OnionClaw) · [官网](https://github.com/JacobJandon/OnionClaw) · 个人维护
+⭐ 85 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JacobJandon/OnionClaw) · [官网](https://github.com/JacobJandon/OnionClaw) · 个人维护
 
 **供 AI agent 与终端使用的 Tor 暗网访问与 OSINT 工具集**
 

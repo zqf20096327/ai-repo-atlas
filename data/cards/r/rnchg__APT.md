@@ -1,6 +1,6 @@
 # rnchg/APT
 
-⭐ 771 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
+⭐ 770 · C# · MIT · 推送 2025-12-13 · [GitHub](https://github.com/rnchg/APT) · 个人维护 · 中文 README
 
 **面向普通用户的本地离线 AI 图片/视频/音频批量处理桌面工具**
 

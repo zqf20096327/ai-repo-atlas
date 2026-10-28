@@ -1,6 +1,6 @@
 # zeekk0/OpenSakura
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
+⭐ 64 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/zeekk0/OpenSakura) · [官网](https://www.mekahime.com/sakura) · 个人维护
 
 **开源 3D 虚拟 AI 伴侣：语音对话、情绪状态与本地语音合成**
 

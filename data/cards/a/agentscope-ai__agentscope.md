@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope
 
-⭐ 34,439 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
+⭐ 34,629 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
 
 **给开发者的 agent 构建框架与服务运行时**
 

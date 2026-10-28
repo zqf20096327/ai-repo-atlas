@@ -1,6 +1,6 @@
 # Ishannaik/agent-sweep
 
-⭐ 88 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Ishannaik/agent-sweep) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ishannaik/agent-sweep) · 个人维护
 
 **扫描并就地脱敏 AI 编程助手本地历史中泄露密钥的离线 CLI**
 

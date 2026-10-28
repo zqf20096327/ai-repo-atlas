@@ -1,6 +1,6 @@
 # FullStackWithLawrence/aws-openai
 
-⭐ 68 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/FullStackWithLawrence/aws-openai) · [官网](https://openai.lawrencemcdaniel.com/) · 个人维护
+⭐ 68 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FullStackWithLawrence/aws-openai) · [官网](https://openai.lawrencemcdaniel.com/) · 个人维护
 
 **OpenAI 官方示例的全栈实现：React+AWS Serverless 聊天应用模板**
 

@@ -1,6 +1,6 @@
 # seehiong/blender-mcp-bridge
 
-⭐ 81 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/seehiong/blender-mcp-bridge) · [官网](https://seehiong.github.io/blender-mcp-bridge/) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/seehiong/blender-mcp-bridge) · [官网](https://seehiong.github.io/blender-mcp-bridge/) · 个人维护
 
 **让 AI agent 通过 MCP 远程操控 Blender 建模的桥接服务器与插件**
 

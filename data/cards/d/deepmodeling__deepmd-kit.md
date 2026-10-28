@@ -1,6 +1,6 @@
 # deepmodeling/deepmd-kit
 
-⭐ 2,070 · Python · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/deepmodeling/deepmd-kit) · [官网](https://docs.deepmodeling.com/projects/deepmd/) · 组织维护 · 中文 README
+⭐ 2,072 · Python · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/deepmodeling/deepmd-kit) · [官网](https://docs.deepmodeling.com/projects/deepmd/) · 组织维护 · 中文 README
 
 **面向分子动力学的深度势能模型训练与部署工具包**
 

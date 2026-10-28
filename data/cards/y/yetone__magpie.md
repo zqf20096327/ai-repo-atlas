@@ -1,6 +1,6 @@
 # yetone/magpie
 
-⭐ 23,537 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
+⭐ 24,534 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
 **给多 AI agent 统一切换模型与账号的本地网关**
 

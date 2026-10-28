@@ -1,6 +1,6 @@
 # git-ai-project/git-ai
 
-⭐ 2,898 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/git-ai-project/git-ai) · [官网](https://usegitai.com) · 个人维护
+⭐ 2,904 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/git-ai-project/git-ai) · [官网](https://usegitai.com) · 个人维护
 
 **Git 扩展：追踪并归因仓库中 AI 生成的每一行代码**
 

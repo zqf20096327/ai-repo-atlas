@@ -1,6 +1,6 @@
 # davidmacmillan/DeepLearningStudyGroup
 
-⭐ 42 · 推送 2026-10-21 · [GitHub](https://github.com/davidmacmillan/DeepLearningStudyGroup) · 个人维护
+⭐ 42 · 推送 2026-10-28 · [GitHub](https://github.com/davidmacmillan/DeepLearningStudyGroup) · 个人维护
 
 **深度学习研读会的每周论文清单与讨论资料归档**
 

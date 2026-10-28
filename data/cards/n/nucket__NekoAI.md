@@ -1,6 +1,6 @@
 # nucket/NekoAI
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nucket/NekoAI) · [官网](https://nekoai.dev/) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nucket/NekoAI) · [官网](https://nekoai.dev/) · 个人维护
 
 **带 AI 聊天能力的开源桌面宠物（经典 Neko 复刻）**
 

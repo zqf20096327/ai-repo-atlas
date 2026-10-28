@@ -1,6 +1,6 @@
 # ccfddl/ccf-deadlines
 
-⭐ 9,484 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 组织维护 · 中文 README
+⭐ 9,489 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ccfddl/ccf-deadlines) · [官网](https://ccfddl.com) · 组织维护 · 中文 README
 
 **面向科研人员的会议截止日期追踪工具（网站/CLI/小程序）**
 

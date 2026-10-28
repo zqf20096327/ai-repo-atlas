@@ -1,6 +1,6 @@
 # Hive-Academy/ptah-extension
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hive-Academy/ptah-extension) · [官网](https://ptah.live) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hive-Academy/ptah-extension) · [官网](https://ptah.live) · 组织维护
 
 **AI 开发环境：带持久记忆的多智能体编程助手，覆盖桌面/CLI/VS Code**
 

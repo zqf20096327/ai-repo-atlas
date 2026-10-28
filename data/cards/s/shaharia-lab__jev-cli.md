@@ -1,6 +1,6 @@
 # shaharia-lab/jev-cli
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/shaharia-lab/jev-cli) · 组织维护
+⭐ 40 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shaharia-lab/jev-cli) · 组织维护
 
 **TypeSafe AI Jev 模型的命令行客户端：对文本提问返回校准概率**
 

@@ -1,6 +1,6 @@
 # microsoft/GitHub-Copilot-for-Azure
 
-⭐ 259 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/GitHub-Copilot-for-Azure) · 组织维护
+⭐ 259 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/GitHub-Copilot-for-Azure) · 组织维护
 
 **面向 Azure 开发的 Copilot 扩展集：IDE 内问答与运维辅助**
 

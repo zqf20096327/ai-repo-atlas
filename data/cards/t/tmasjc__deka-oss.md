@@ -1,6 +1,6 @@
 # tmasjc/deka-oss
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/tmasjc/deka-oss) · [官网](https://tinyurl.com/s33sstx4) · 个人维护 · 中文 README
 
 **人机协同工作台：把专家直觉转化为可复用的语料标注**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # smclab/openk9
 
-⭐ 51 · Java · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/smclab/openk9) · [官网](https://www.openk9.io) · 组织维护
+⭐ 51 · Java · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/smclab/openk9) · [官网](https://www.openk9.io) · 组织维护
 
 **面向企业的开源认知搜索引擎，用 ML 增强非结构化数据检索**
 

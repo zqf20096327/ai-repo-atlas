@@ -1,6 +1,6 @@
 # langchain-ai/langchain-datastax
 
-⭐ 35 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-datastax) · [官网](https://python.langchain.com/docs/integrations/providers/astradb) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/langchain-datastax) · [官网](https://python.langchain.com/docs/integrations/providers/astradb) · 组织维护
 
 **DataStax Astra DB 与 LangChain 的集成包**
 

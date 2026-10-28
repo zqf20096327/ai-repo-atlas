@@ -1,6 +1,6 @@
 # gaia-research/gaia-skill-tree
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/gaia-research/gaia-skill-tree) · [官网](https://gaiaskilltree.com/) · 组织维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/gaia-research/gaia-skill-tree) · [官网](https://gaiaskilltree.com/) · 组织维护
 
 **AI agent 技能开放注册表：以升级式技能树验证并归属作者**
 

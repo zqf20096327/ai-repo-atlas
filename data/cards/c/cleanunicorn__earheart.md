@@ -1,6 +1,6 @@
 # cleanunicorn/earheart
 
-⭐ 33 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cleanunicorn/earheart) · [官网](https://github.com/cleanunicorn/earheart/releases/latest) · 个人维护
+⭐ 34 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cleanunicorn/earheart) · [官网](https://github.com/cleanunicorn/earheart/releases/latest) · 个人维护
 
 **本地离线语音听写工具：一键热键把语音转文字贴进编码代理**
 

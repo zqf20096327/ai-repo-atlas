@@ -1,6 +1,6 @@
 # Agenta-AI/agenta
 
-⭐ 4,864 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Agenta-AI/agenta) · [官网](http://www.agenta.ai) · 组织维护 · 中文 README
+⭐ 4,869 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Agenta-AI/agenta) · [官网](http://www.agenta.ai) · 组织维护 · 中文 README
 
 **面向团队的开源 agent 工作区：聊天式构建、共享与运行 AI 同事**
 

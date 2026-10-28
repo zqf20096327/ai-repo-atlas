@@ -1,6 +1,6 @@
 # symfony/ai-mate
 
-⭐ 42 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-mate) · [官网](https://symfony.com/packages/ai-mate) · 组织维护
+⭐ 42 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/symfony/ai-mate) · [官网](https://symfony.com/packages/ai-mate) · 组织维护
 
 **Symfony 项目的 CLI 开发助手：为编码 agent 暴露项目感知工具**
 

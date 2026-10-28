@@ -1,6 +1,6 @@
 # inite-ai/inite-brain-service
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/inite-ai/inite-brain-service) · [官网](https://brain.inite.ai) · 组织维护
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/inite-ai/inite-brain-service) · [官网](https://brain.inite.ai) · 组织维护
 
 **给 AI agent 的双时态知识图谱长期记忆服务**
 

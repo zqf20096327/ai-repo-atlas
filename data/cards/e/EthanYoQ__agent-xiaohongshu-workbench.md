@@ -1,6 +1,6 @@
 # EthanYoQ/agent-xiaohongshu-workbench
 
-⭐ 164 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) · 个人维护 · 中文 README
+⭐ 165 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/EthanYoQ/agent-xiaohongshu-workbench) · 个人维护 · 中文 README
 
 **面向多账号创作者的小红书图文内容本地 Agent 工作台**
 

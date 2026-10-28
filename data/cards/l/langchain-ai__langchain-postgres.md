@@ -1,6 +1,6 @@
 # langchain-ai/langchain-postgres
 
-⭐ 283 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-postgres) · 组织维护
+⭐ 282 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-postgres) · 组织维护
 
 **基于 Postgres 实现 LangChain 核心抽象的 Python 集成包**
 

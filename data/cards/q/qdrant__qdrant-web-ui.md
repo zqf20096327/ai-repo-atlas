@@ -1,6 +1,6 @@
 # qdrant/qdrant-web-ui
 
-⭐ 436 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant-web-ui) · 组织维护
+⭐ 437 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant-web-ui) · 组织维护
 
 **Qdrant 向量检索引擎的自托管 Web 管理界面**
 

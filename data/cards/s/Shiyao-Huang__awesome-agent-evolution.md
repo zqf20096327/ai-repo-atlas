@@ -1,6 +1,6 @@
 # Shiyao-Huang/awesome-agent-evolution
 
-⭐ 66 · JavaScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Shiyao-Huang/awesome-agent-evolution) · [官网](https://agent-evolution.com/) · 个人维护 · 中文 README
+⭐ 67 · JavaScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Shiyao-Huang/awesome-agent-evolution) · [官网](https://agent-evolution.com/) · 个人维护 · 中文 README
 
 **AI Agent 自进化方向的开放 Survey 与证据地图**
 

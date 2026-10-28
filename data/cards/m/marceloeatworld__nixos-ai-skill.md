@@ -1,6 +1,6 @@
 # marceloeatworld/nixos-ai-skill
 
-⭐ 33 · Shell · 推送 2026-10-27 · [GitHub](https://github.com/marceloeatworld/nixos-ai-skill) · 个人维护
+⭐ 33 · Shell · 推送 2026-10-28 · [GitHub](https://github.com/marceloeatworld/nixos-ai-skill) · 个人维护
 
 **NixOS/Nix 文档的 AI 编程助手技能包，日更自动生成**
 

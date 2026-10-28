@@ -1,6 +1,6 @@
 # DeepSQLAI/deepsql
 
-⭐ 40 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/DeepSQLAI/deepsql) · [官网](https://deepsql.ai/) · 组织维护
+⭐ 40 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/DeepSQLAI/deepsql) · [官网](https://deepsql.ai/) · 组织维护
 
 **面向 Postgres/MySQL 的自托管数据库 AI 代理：自然语言问答、慢查询分析、索引建议**
 

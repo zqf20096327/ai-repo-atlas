@@ -1,6 +1,6 @@
 # typex-ink/Typex
 
-⭐ 39 · Rust · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/typex-ink/Typex) · [官网](typex.ink) · 个人维护 · 中文 README
+⭐ 40 · Rust · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/typex-ink/Typex) · [官网](typex.ink) · 个人维护 · 中文 README
 
 **开源桌面 AI 语音输入工具：说话即转文字到任意应用**
 

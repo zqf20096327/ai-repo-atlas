@@ -1,6 +1,6 @@
 # arc-labs-ai/brain-db
 
-⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/arc-labs-ai/brain-db) · 组织维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/arc-labs-ai/brain-db) · 组织维护
 
 **面向 AI agent 的记忆数据库：类型化记忆存储与融合检索**
 

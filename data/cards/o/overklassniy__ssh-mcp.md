@@ -1,6 +1,6 @@
 # overklassniy/ssh-mcp
 
-⭐ 33 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/overklassniy/ssh-mcp) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/overklassniy/ssh-mcp) · 个人维护
 
 **给 AI 助手用的受限 SSH MCP 服务器：远程执行命令与传文件**
 

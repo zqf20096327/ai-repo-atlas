@@ -1,6 +1,6 @@
 # bansky-cl/graphrag-arxiv-daily-paper
 
-⭐ 44 · Python · 推送 2026-10-08 · [GitHub](https://github.com/bansky-cl/graphrag-arxiv-daily-paper) · 个人维护
+⭐ 45 · Python · 推送 2026-10-08 · [GitHub](https://github.com/bansky-cl/graphrag-arxiv-daily-paper) · 个人维护
 
 **arXiv GraphRAG 论文每日追踪清单**
 

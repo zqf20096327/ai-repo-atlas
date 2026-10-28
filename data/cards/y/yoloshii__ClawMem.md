@@ -1,6 +1,6 @@
 # yoloshii/ClawMem
 
-⭐ 212 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yoloshii/ClawMem) · 个人维护
+⭐ 213 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yoloshii/ClawMem) · 个人维护
 
 **给 AI 编码 agent 的本地持久记忆层：检索增强 + hooks + MCP**
 

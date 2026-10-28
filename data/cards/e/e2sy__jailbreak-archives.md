@@ -1,6 +1,6 @@
 # e2sy/jailbreak-archives
 
-⭐ 70 · Roff · MIT · 推送 2026-10-27 · [GitHub](https://github.com/e2sy/jailbreak-archives) · [官网](https://www.youtube.com/@mayankforge) · 个人维护
+⭐ 72 · Roff · MIT · 推送 2026-10-28 · [GitHub](https://github.com/e2sy/jailbreak-archives) · [官网](https://www.youtube.com/@mayankforge) · 个人维护
 
 **面向 AI 安全研究的 LLM 越狱提示词结构化版本化存档（16 条，7 模型族）**
 

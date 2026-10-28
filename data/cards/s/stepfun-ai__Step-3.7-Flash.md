@@ -1,6 +1,6 @@
 # stepfun-ai/Step-3.7-Flash
 
-⭐ 347 · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/stepfun-ai/Step-3.7-Flash) · [官网](https://static.stepfun.com/blog/step-3.7-flash/) · 组织维护 · 中文 README
+⭐ 348 · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/stepfun-ai/Step-3.7-Flash) · [官网](https://static.stepfun.com/blog/step-3.7-flash/) · 组织维护 · 中文 README
 
 **面向开发者 Agent 工作流的 198B MoE 视觉语言模型**
 

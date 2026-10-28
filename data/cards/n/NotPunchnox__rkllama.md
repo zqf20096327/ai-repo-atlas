@@ -1,6 +1,6 @@
 # NotPunchnox/rkllama
 
-⭐ 618 · Python · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/NotPunchnox/rkllama) · 个人维护
+⭐ 618 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/NotPunchnox/rkllama) · 个人维护
 
 **在 Rockchip NPU 上运行 LLM 的服务器与客户端，兼容 Ollama API**
 

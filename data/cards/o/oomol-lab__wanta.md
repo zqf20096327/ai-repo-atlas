@@ -1,6 +1,6 @@
 # oomol-lab/wanta
 
-⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/oomol-lab/wanta) · [官网](https://wanta.ai) · 组织维护 · 中文 README
+⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/oomol-lab/wanta) · [官网](https://wanta.ai) · 组织维护 · 中文 README
 
 **开源桌面 Agent 宿主：承载自带模型/Agent 与 1400+ 应用连接**
 

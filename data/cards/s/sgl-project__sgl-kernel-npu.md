@@ -1,6 +1,6 @@
 # sgl-project/sgl-kernel-npu
 
-⭐ 196 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sgl-project/sgl-kernel-npu) · 组织维护 · 中文 README
+⭐ 196 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sgl-kernel-npu) · 组织维护 · 中文 README
 
 **SGLang 框架面向昇腾 NPU 的推理算子库**
 

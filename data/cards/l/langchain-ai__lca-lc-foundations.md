@@ -1,6 +1,6 @@
 # langchain-ai/lca-lc-foundations
 
-⭐ 696 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
+⭐ 698 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
 
 **LangChain 入门课程的配套代码仓库（三模块）**
 

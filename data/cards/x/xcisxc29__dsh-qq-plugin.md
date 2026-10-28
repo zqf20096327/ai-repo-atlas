@@ -1,6 +1,6 @@
 # xcisxc29/dsh-qq-plugin
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-qq-plugin) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-qq-plugin) · 个人维护 · 中文 README
 
 **在 QQ 中远程驱动本机 DeepSeek Harness agent 的插件**
 

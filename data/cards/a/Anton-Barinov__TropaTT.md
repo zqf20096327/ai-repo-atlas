@@ -1,6 +1,6 @@
 # Anton-Barinov/TropaTT
 
-⭐ 20 · PHP · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anton-Barinov/TropaTT) · [官网](https://tropatt.com) · 个人维护 · 中文 README
+⭐ 20 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Anton-Barinov/TropaTT) · [官网](https://tropatt.com) · 个人维护 · 中文 README
 
 **自托管的开源 CRM 与工作管理一体化平台（PHP/MySQL，含 AI 工作流）**
 

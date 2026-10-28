@@ -1,6 +1,6 @@
 # davidalmeida90/glassbench
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/davidalmeida90/glassbench) · [官网](https://davidariasfinance.com/glassbench/) · 个人维护
+⭐ 21 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/davidalmeida90/glassbench) · [官网](https://davidariasfinance.com/glassbench/) · 个人维护
 
 **连接并基准测试金融 agent 系统的开源平台，可接券商模拟盘**
 

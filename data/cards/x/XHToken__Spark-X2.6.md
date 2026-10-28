@@ -1,6 +1,6 @@
 # XHToken/Spark-X2.6
 
-⭐ 859 · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护 · 中文 README
+⭐ 864 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护 · 中文 README
 
 **4B 参数开源 LLM 系列，面向端侧 agent 与编码任务**
 

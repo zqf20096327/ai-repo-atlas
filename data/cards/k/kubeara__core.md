@@ -1,6 +1,6 @@
 # kubeara/core
 
-⭐ 42 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/kubeara/core) · [官网](https://kubeara.dev/) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kubeara/core) · [官网](https://kubeara.dev/) · 个人维护
 
 **自托管 PaaS：在自有服务器上一键部署 200+ 服务与 AI 模型**
 

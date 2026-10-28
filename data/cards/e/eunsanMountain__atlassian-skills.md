@@ -1,6 +1,6 @@
 # eunsanMountain/atlassian-skills
 
-⭐ 25 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/eunsanMountain/atlassian-skills) · [官网](https://pypi.org/project/atlassian-skills/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/eunsanMountain/atlassian-skills) · [官网](https://pypi.org/project/atlassian-skills/) · 个人维护
 
 **面向 LLM agent 的 Atlassian Server/DC 轻量命令行客户端**
 

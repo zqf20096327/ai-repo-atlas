@@ -1,6 +1,6 @@
 # microsoft/PyRIT
 
-⭐ 4,701 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
+⭐ 4,708 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
 
 **生成式 AI 系统风险识别的 Python 红队开源框架**
 

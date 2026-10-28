@@ -1,6 +1,6 @@
 # Marvae/douban-cli
 
-⭐ 183 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Marvae/douban-cli) · [官网](https://www.npmjs.com/package/@marvae24/douban-cli) · 个人维护 · 中文 README
+⭐ 191 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Marvae/douban-cli) · [官网](https://www.npmjs.com/package/@marvae24/douban-cli) · 个人维护 · 中文 README
 
 **豆瓣命令行工具 + AI Agent Skill：查影书、备份记录、AI 代标记评分**
 

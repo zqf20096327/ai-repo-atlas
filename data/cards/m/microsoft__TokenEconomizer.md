@@ -1,6 +1,6 @@
 # microsoft/TokenEconomizer
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
+⭐ 327 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
 
 **编码 agent 的成本控制插件：从历史会话学习并削减后续开销**
 

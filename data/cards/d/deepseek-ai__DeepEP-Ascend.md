@@ -1,6 +1,6 @@
 # deepseek-ai/DeepEP-Ascend
 
-⭐ 278 · C++ · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
+⭐ 279 · C++ · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
 
 **面向华为昇腾 NPU 的 MoE 专家并行通信库**
 

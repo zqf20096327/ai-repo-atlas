@@ -1,6 +1,6 @@
 # ModuRL/ModuRL
 
-⭐ 24 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ModuRL/ModuRL) · [官网](https://modurl.github.io/ModuRL/) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ModuRL/ModuRL) · [官网](https://modurl.github.io/ModuRL/) · 组织维护
 
 **面向 Rust 的深度强化学习框架，提供训练与环境集成**
 

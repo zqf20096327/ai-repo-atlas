@@ -1,6 +1,6 @@
 # emotixco/claude-skills-founder
 
-⭐ 741 · Markdown · MIT · 推送 2026-10-20 · [GitHub](https://github.com/emotixco/claude-skills-founder) · 组织维护
+⭐ 749 · Markdown · MIT · 推送 2026-10-20 · [GitHub](https://github.com/emotixco/claude-skills-founder) · 组织维护
 
 **给创业者的 Claude Code 技能包：验证想法、定价、融资等 13 个斜杠命令**
 

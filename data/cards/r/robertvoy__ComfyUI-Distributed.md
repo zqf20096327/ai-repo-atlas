@@ -1,6 +1,6 @@
 # robertvoy/ComfyUI-Distributed
 
-⭐ 644 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/robertvoy/ComfyUI-Distributed) · 个人维护
+⭐ 643 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/robertvoy/ComfyUI-Distributed) · 个人维护
 
 **ComfyUI 分布式扩展：跨多 GPU 与多机并行生成/放大图片视频**
 

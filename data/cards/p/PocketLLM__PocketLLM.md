@@ -1,6 +1,6 @@
 # PocketLLM/PocketLLM
 
-⭐ 71 · Dart · 推送 2026-07-01 · [GitHub](https://github.com/PocketLLM/PocketLLM) · [官网](https://pocketllm-ai.vercel.app/) · 组织维护
+⭐ 72 · Dart · 推送 2026-07-01 · [GitHub](https://github.com/PocketLLM/PocketLLM) · [官网](https://pocketllm-ai.vercel.app/) · 组织维护
 
 **跨平台 LLM 聊天客户端：Flutter 应用加 FastAPI 后端**
 

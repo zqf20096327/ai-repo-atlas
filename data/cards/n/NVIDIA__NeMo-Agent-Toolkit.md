@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Agent-Toolkit
 
-⭐ 2,681 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit) · [官网](https://docs.nvidia.com/nemo/agent-toolkit/latest/) · 组织维护
+⭐ 2,685 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit) · [官网](https://docs.nvidia.com/nemo/agent-toolkit/latest/) · 组织维护
 
 **NVIDIA 开源 AI agent 开发与优化工具包**
 

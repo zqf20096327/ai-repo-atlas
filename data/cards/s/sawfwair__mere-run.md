@@ -1,6 +1,6 @@
 # sawfwair/mere-run
 
-⭐ 85 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sawfwair/mere-run) · [官网](https://mere.run) · 个人维护
+⭐ 86 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sawfwair/mere-run) · [官网](https://mere.run) · 个人维护
 
 **本地 AI 运行时 CLI：跑模型、生成媒体、提供 OpenAI 兼容 API**
 

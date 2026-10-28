@@ -1,6 +1,6 @@
 # wmde/WikidataMCP
 
-⭐ 36 · Python · BSD-3-Clause · 推送 2026-09-21 · [GitHub](https://github.com/wmde/WikidataMCP) · [官网](https://wd-mcp.wmcloud.org/) · 组织维护
+⭐ 35 · Python · BSD-3-Clause · 推送 2026-09-21 · [GitHub](https://github.com/wmde/WikidataMCP) · [官网](https://wd-mcp.wmcloud.org/) · 组织维护
 
 **Wikidata 的 MCP 服务器：让 LLM 搜索与查询维基数据**
 

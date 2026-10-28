@@ -1,6 +1,6 @@
 # innovatorved/realtime-interview-copilot
 
-⭐ 132 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/innovatorved/realtime-interview-copilot) · 个人维护
+⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/innovatorved/realtime-interview-copilot) · 个人维护
 
 **桌面应用：实时转录面试音频并生成 AI 回答**
 

@@ -1,6 +1,6 @@
 # orthoseg/orthoseg
 
-⭐ 51 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/orthoseg/orthoseg) · [官网](https://orthoseg.readthedocs.io/) · 组织维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/orthoseg/orthoseg) · [官网](https://orthoseg.readthedocs.io/) · 组织维护
 
 **训练自有神经网络对正射影像做地物分割的 Python 包**
 

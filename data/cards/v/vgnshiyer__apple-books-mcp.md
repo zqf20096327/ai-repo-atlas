@@ -1,6 +1,6 @@
 # vgnshiyer/apple-books-mcp
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/vgnshiyer/apple-books-mcp) · [官网](https://vgnshiyer.me/AppleBooksMcp) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/vgnshiyer/apple-books-mcp) · [官网](https://vgnshiyer.me/AppleBooksMcp) · 个人维护
 
 **让 Claude 读取 Apple Books 书库、划线与章节内容的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # scarletkc/agents
 
-⭐ 224 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/scarletkc/agents) · 个人维护
+⭐ 226 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/scarletkc/agents) · 个人维护
 
 **面向 AI 编码 agent 的共享规范与可复用技能集**
 

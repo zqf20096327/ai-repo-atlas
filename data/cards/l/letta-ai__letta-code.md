@@ -1,6 +1,6 @@
 # letta-ai/letta-code
 
-⭐ 3,717 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/letta-ai/letta-code) · [官网](https://www.letta.com/agent) · 组织维护
+⭐ 3,728 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/letta-ai/letta-code) · [官网](https://www.letta.com/agent) · 组织维护
 
 **给开发者的有状态 agent 运行框架：记忆、自我改写与多端交互**
 

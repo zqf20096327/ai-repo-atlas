@@ -1,6 +1,6 @@
 # dataease/SQLBot
 
-⭐ 6,982 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dataease/SQLBot) · [官网](https://sqlbot.org/) · 组织维护 · 中文 README
+⭐ 7,007 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/dataease/SQLBot) · [官网](https://sqlbot.org/) · 组织维护 · 中文 README
 
 **基于大模型与 RAG 的对话式问数系统（ChatBI/Text-to-SQL）**
 

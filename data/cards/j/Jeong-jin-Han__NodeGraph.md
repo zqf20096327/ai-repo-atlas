@@ -1,6 +1,6 @@
 # Jeong-jin-Han/NodeGraph
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Jeong-jin-Han/NodeGraph) · [官网](https://marketplace.visualstudio.com/items?itemName=JeongjinHan.nodegraph) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Jeong-jin-Han/NodeGraph) · [官网](https://marketplace.visualstudio.com/items?itemName=JeongjinHan.nodegraph) · 个人维护 · 中文 README
 
 **把研究论文转成可溯源知识图谱的 VS Code 扩展**
 

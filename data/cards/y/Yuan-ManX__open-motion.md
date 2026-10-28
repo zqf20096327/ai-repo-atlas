@@ -1,6 +1,6 @@
 # Yuan-ManX/open-motion
 
-⭐ 49 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Yuan-ManX/open-motion) · [官网](https://yuan-manx.github.io/open-motion/) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Yuan-ManX/open-motion) · [官网](https://yuan-manx.github.io/open-motion/) · 个人维护 · 中文 README
 
 **AI 原生动效运行时：网页与视频中的动画可对话编辑与复用**
 

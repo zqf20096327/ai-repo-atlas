@@ -1,6 +1,6 @@
 # aannoo/hcom
 
-⭐ 605 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aannoo/hcom) · [官网](https://pypi.org/project/hcom/) · 个人维护
+⭐ 606 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/aannoo/hcom) · [官网](https://pypi.org/project/hcom/) · 个人维护
 
 **跨终端连接各编码 agent CLI：互发消息、监控、派生**
 

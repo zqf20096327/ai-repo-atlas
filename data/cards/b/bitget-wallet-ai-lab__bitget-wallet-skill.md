@@ -1,6 +1,6 @@
 # bitget-wallet-ai-lab/bitget-wallet-skill
 
-⭐ 253 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护
+⭐ 254 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护
 
 **面向 AI agent 的 Bitget Wallet 链上操作技能包：查询、换币与跨链**
 

@@ -1,6 +1,6 @@
 # Guillain-RDCDE/FLAC_Detective
 
-⭐ 25 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Guillain-RDCDE/FLAC_Detective) · [官网](https://pypi.org/project/flac-detective/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Guillain-RDCDE/FLAC_Detective) · [官网](https://pypi.org/project/flac-detective/) · 个人维护
 
 **检测伪装成 FLAC 的有损压缩音乐文件的工具**
 

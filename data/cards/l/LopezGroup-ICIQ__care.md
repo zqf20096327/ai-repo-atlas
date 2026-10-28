@@ -1,6 +1,6 @@
 # LopezGroup-ICIQ/care
 
-⭐ 94 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/LopezGroup-ICIQ/care) · [官网](https://doi.org/10.1038/s44286-026-00361-8) · 组织维护
+⭐ 95 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/LopezGroup-ICIQ/care) · [官网](https://doi.org/10.1038/s44286-026-00361-8) · 组织维护
 
 **多相催化反应网络自动构建与微动力学模拟框架**
 

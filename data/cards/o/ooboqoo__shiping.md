@@ -1,6 +1,6 @@
 # ooboqoo/shiping
 
-⭐ 1,111 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ooboqoo/shiping) · 个人维护 · 中文 README
+⭐ 1,114 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ooboqoo/shiping) · 个人维护 · 中文 README
 
 **截屏/对话 AI 助手：看懂屏幕内容与实时语音，给出解答提示**
 

@@ -1,6 +1,6 @@
 # snapotter-hq/SnapOtter
 
-⭐ 2,857 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/snapotter-hq/SnapOtter) · [官网](https://snapotter.com) · 个人维护
+⭐ 2,876 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/snapotter-hq/SnapOtter) · [官网](https://snapotter.com) · 个人维护
 
 **自托管文件处理套件：转换/压缩/OCR/转录与本地 AI，文件不出网**
 

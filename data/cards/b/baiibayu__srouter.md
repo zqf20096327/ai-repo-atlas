@@ -1,6 +1,6 @@
 # baiibayu/srouter
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/baiibayu/srouter) · [官网](https://github.com/baiibayu/srouter) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/baiibayu/srouter) · [官网](https://github.com/baiibayu/srouter) · 个人维护 · 中文 README
 
 **自托管 AI 网关：统一 OpenAI 兼容端点聚合 60+ 提供商**
 

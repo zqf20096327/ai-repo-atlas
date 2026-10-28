@@ -1,6 +1,6 @@
 # Quazmoz/InferBridge
 
-⭐ 51 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Quazmoz/InferBridge) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Quazmoz/InferBridge) · 个人维护
 
 **Windows 本地 LLM 服务器：OpenVINO GenAI 驱动 Intel CPU/GPU/NPU**
 

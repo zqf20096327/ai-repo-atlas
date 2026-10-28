@@ -1,6 +1,6 @@
 # sgl-project/sglang-omni
 
-⭐ 1,637 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/sgl-project/sglang-omni) · [官网](https://sgl-project.github.io/sglang-omni/) · 组织维护
+⭐ 1,646 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sglang-omni) · [官网](https://sgl-project.github.io/sglang-omni/) · 组织维护
 
 **语音与全模态模型的推理服务运行时框架**
 

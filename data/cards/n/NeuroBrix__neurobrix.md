@@ -1,6 +1,6 @@
 # NeuroBrix/neurobrix
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NeuroBrix/neurobrix) · [官网](https://neurobrix.es) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NeuroBrix/neurobrix) · [官网](https://neurobrix.es) · 组织维护
 
 **多模态模型推理引擎：一种容器格式运行语言/语音/图像/视频模型**
 

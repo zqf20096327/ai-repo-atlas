@@ -1,6 +1,6 @@
 # yuvraj108c/ComfyUI-Video-Depth-Anything
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything) · 个人维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-01-08 · [GitHub](https://github.com/yuvraj108c/ComfyUI-Video-Depth-Anything) · 个人维护
 
 **ComfyUI 节点：对长视频做一致性深度估计**
 

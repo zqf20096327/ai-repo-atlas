@@ -1,6 +1,6 @@
 # shanraisshan/codex-cli-best-practice
 
-⭐ 1,017 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-best-practice) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 1,019 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-best-practice) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **Codex CLI 使用实践与技巧合集：概念、工作流与 50 条提示**
 

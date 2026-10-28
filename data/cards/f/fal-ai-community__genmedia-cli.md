@@ -1,6 +1,6 @@
 # fal-ai-community/genmedia-cli
 
-⭐ 82 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fal-ai-community/genmedia-cli) · [官网](https://genmedia.sh) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fal-ai-community/genmedia-cli) · [官网](https://genmedia.sh) · 组织维护
 
 **面向 fal.ai 模型平台的 agent 优先命令行客户端**
 

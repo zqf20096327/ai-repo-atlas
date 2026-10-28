@@ -1,6 +1,6 @@
 # marjoballabani/hypergrep
 
-⭐ 24 · Rust · MIT · 推送 2026-03-29 · [GitHub](https://github.com/marjoballabani/hypergrep) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-03-29 · [GitHub](https://github.com/marjoballabani/hypergrep) · 个人维护
 
 **面向 AI 编程代理的代码库结构化搜索引擎，降低 token 消耗**
 

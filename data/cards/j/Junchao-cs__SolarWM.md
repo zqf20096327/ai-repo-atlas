@@ -1,6 +1,6 @@
 # Junchao-cs/SolarWM
 
-⭐ 798 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Junchao-cs/SolarWM) · [官网](https://junchao-cs.github.io/SolarWM-Web/) · 组织维护
+⭐ 802 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Junchao-cs/SolarWM) · [官网](https://junchao-cs.github.io/SolarWM-Web/) · 组织维护
 
 **长时程交互视频世界模型的开源数据与训练框架**
 

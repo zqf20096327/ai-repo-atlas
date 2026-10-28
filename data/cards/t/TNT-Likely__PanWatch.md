@@ -1,6 +1,6 @@
 # TNT-Likely/PanWatch
 
-⭐ 2,262 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
+⭐ 2,269 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
 
 **自托管的 AI 股票盯盘与持仓分析应用（A股/港股/美股）**
 

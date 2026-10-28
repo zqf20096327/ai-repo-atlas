@@ -1,6 +1,6 @@
 # VolkanSah/AI-API-Security-Best-Practices
 
-⭐ 33 · 推送 2026-01-31 · [GitHub](https://github.com/VolkanSah/AI-API-Security-Best-Practices) · [官网](https://volkansah.github.io/AI-API-Security-Best-Practices/) · 个人维护
+⭐ 33 · 推送 2026-10-28 · [GitHub](https://github.com/VolkanSah/AI-API-Security-Best-Practices) · [官网](https://volkansah.github.io/AI-API-Security-Best-Practices/) · 个人维护
 
 **面向开发者的 LLM API 集成安全最佳实践指南**
 

@@ -1,6 +1,6 @@
 # FoShmily/ai-paper-system
 
-⭐ 503 · 推送 2026-10-13 · [GitHub](https://github.com/FoShmily/ai-paper-system) · [官网](https://www.openlun.com) · 组织维护 · 中文 README
+⭐ 507 · 推送 2026-10-13 · [GitHub](https://github.com/FoShmily/ai-paper-system) · [官网](https://www.openlun.com) · 组织维护 · 中文 README
 
 **面向机构加盟的 AI 论文写作 SAAS 系统（OEM 白标）**
 

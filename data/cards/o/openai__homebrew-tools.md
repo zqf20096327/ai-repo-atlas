@@ -1,6 +1,6 @@
 # openai/homebrew-tools
 
-⭐ 28 · Ruby · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openai/homebrew-tools) · 组织维护
+⭐ 28 · Ruby · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openai/homebrew-tools) · 组织维护
 
 **OpenAI 官方 Homebrew tap，分发 OpenAI CLI 及 Tart 相关命令行工具**
 

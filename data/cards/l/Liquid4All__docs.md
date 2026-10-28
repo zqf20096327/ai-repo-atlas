@@ -1,6 +1,6 @@
 # Liquid4All/docs
 
-⭐ 31 · MDX · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Liquid4All/docs) · [官网](https://docs.liquid.ai) · 组织维护
+⭐ 31 · MDX · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Liquid4All/docs) · [官网](https://docs.liquid.ai) · 组织维护
 
 **Liquid AI 官方文档仓库：LFM 模型开发指南与 MCP 接入**
 

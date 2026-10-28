@@ -1,6 +1,6 @@
 # deverman/FocusRelayMCP
 
-⭐ 57 · Swift · MIT · 推送 2026-10-17 · [GitHub](https://github.com/deverman/FocusRelayMCP) · 个人维护
+⭐ 58 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deverman/FocusRelayMCP) · 个人维护
 
 **让 AI 助手读写 OmniFocus 任务的 macOS MCP 服务器与 CLI**
 

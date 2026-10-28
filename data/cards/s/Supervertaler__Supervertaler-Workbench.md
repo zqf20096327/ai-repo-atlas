@@ -1,6 +1,6 @@
 # Supervertaler/Supervertaler-Workbench
 
-⭐ 58 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Supervertaler/Supervertaler-Workbench) · [官网](https://supervertaler.com/) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Supervertaler/Supervertaler-Workbench) · [官网](https://supervertaler.com/) · 个人维护 · 中文 README
 
 **开源独立 CAT 工具：翻译编辑器加多 LLM 辅助翻译**
 

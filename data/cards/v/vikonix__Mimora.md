@@ -1,6 +1,6 @@
 # vikonix/Mimora
 
-⭐ 28 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vikonix/Mimora) · [官网](https://github.com/vikonix/Mimora/releases) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vikonix/Mimora) · [官网](https://github.com/vikonix/Mimora/releases) · 个人维护
 
 **面向英语/西语学习者的本地离线发音训练器**
 

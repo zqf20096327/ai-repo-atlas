@@ -1,6 +1,6 @@
 # openai/realtime-voice-component
 
-⭐ 886 · TypeScript · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/openai/realtime-voice-component) · 组织维护
+⭐ 885 · TypeScript · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/openai/realtime-voice-component) · 组织维护
 
 **基于 OpenAI Realtime 的 React 语音控制 UI 组件，给浏览器应用加语音操作**
 

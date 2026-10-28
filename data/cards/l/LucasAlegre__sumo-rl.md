@@ -1,6 +1,6 @@
 # LucasAlegre/sumo-rl
 
-⭐ 1,096 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/LucasAlegre/sumo-rl) · [官网](https://lucasalegre.github.io/sumo-rl) · 个人维护
+⭐ 1,097 · Python · MIT · 推送 2026-03-08 · [GitHub](https://github.com/LucasAlegre/sumo-rl) · [官网](https://lucasalegre.github.io/sumo-rl) · 个人维护
 
 **给研究者的交通信号控制强化学习环境库（基于 SUMO）**
 

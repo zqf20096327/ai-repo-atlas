@@ -1,6 +1,6 @@
 # edwardcapriolo/deliverance
 
-⭐ 40 · Java · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/edwardcapriolo/deliverance) · 个人维护
+⭐ 41 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/edwardcapriolo/deliverance) · 个人维护
 
 **Java 编写的 LLM 推理引擎，本地运行生成/嵌入/分类**
 

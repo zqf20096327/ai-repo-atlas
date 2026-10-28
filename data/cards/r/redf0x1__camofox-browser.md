@@ -1,6 +1,6 @@
 # redf0x1/camofox-browser
 
-⭐ 428 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-browser) · 个人维护
+⭐ 429 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-browser) · 个人维护
 
 **面向 AI agent 的反检测浏览器服务器（封装 Camoufox 引擎）**
 

@@ -1,6 +1,6 @@
 # Harmeet10000/AgentNexus-LangChain-FastAPI
 
-⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Harmeet10000/AgentNexus-LangChain-FastAPI) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Harmeet10000/AgentNexus-LangChain-FastAPI) · 个人维护
 
 **面向印度合同的人工审核法律智能平台（FastAPI 服务）**
 

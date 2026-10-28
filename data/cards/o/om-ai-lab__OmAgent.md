@@ -1,6 +1,6 @@
 # om-ai-lab/OmAgent
 
-⭐ 2,670 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/om-ai-lab/OmAgent) · [官网](https://om-agent.com) · 组织维护
+⭐ 2,671 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/om-ai-lab/OmAgent) · [官网](https://om-agent.com) · 组织维护
 
 **构建多模态语言 Agent 的 Python 框架**
 

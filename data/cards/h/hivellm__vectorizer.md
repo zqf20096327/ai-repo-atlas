@@ -1,6 +1,6 @@
 # hivellm/vectorizer
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/hivellm/vectorizer) · 组织维护
 
 **Rust 内存向量数据库，面向语义搜索与 top-k 近邻查询**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

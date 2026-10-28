@@ -1,6 +1,6 @@
 # ryanmeowy/anchr-app
 
-⭐ 108 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ryanmeowy/anchr-app) · [官网](https://anchr.cloud) · 个人维护 · 中文 README
+⭐ 108 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ryanmeowy/anchr-app) · [官网](https://anchr.cloud) · 个人维护 · 中文 README
 
 **自托管文档知识库/RAG 后端：混合检索、带引用回答与 Agent 深读**
 

@@ -1,6 +1,6 @@
 # shuyu-labs/AntSK
 
-⭐ 1,328 · CSS · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/shuyu-labs/AntSK) · [官网](https://antsk.cn) · 组织维护 · 中文 README
+⭐ 1,329 · CSS · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/shuyu-labs/AntSK) · [官网](https://antsk.cn) · 组织维护 · 中文 README
 
 **面向企业的 .NET 9 AI 知识库/智能体平台，支持全链路离线**
 

@@ -1,6 +1,6 @@
 # joinly-ai/joinly
 
-⭐ 568 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/joinly-ai/joinly) · [官网](https://joinly.ai) · 组织维护
+⭐ 569 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/joinly-ai/joinly) · [官网](https://joinly.ai) · 组织维护
 
 **让 AI Agent 加入并参与视频会议的连接中间件（MCP）**
 

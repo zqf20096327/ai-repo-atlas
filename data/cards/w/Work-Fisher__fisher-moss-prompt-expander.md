@@ -1,6 +1,6 @@
 # Work-Fisher/fisher-moss-prompt-expander
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Work-Fisher/fisher-moss-prompt-expander) · 个人维护 · 中文 README
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Work-Fisher/fisher-moss-prompt-expander) · 个人维护 · 中文 README
 
 **把一句画面想法展开为详细生图提示词的中文 SKILL 与模板**
 

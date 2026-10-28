@@ -1,6 +1,6 @@
 # hyunsungkim-ds/ballradar
 
-⭐ 34 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/hyunsungkim-ds/ballradar) · [官网](https://arxiv.org/abs/2306.08206) · 个人维护
+⭐ 35 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/hyunsungkim-ds/ballradar) · [官网](https://arxiv.org/abs/2306.08206) · 个人维护
 
 **KDD 2023 论文代码：从球员轨迹推断足球比赛球体轨迹**
 

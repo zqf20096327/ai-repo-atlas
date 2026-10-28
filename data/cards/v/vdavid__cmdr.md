@@ -1,6 +1,6 @@
 # vdavid/cmdr
 
-⭐ 119 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/vdavid/cmdr) · [官网](https://getcmdr.com) · 个人维护
+⭐ 120 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/vdavid/cmdr) · [官网](https://getcmdr.com) · 个人维护
 
 **macOS 键盘驱动的双栏文件管理器，AI 功能可选**
 

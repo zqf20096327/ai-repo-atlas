@@ -1,6 +1,6 @@
 # norse/norse
 
-⭐ 828 · Python · LGPL-3.0 · 推送 2026-07-07 · [GitHub](https://github.com/norse/norse) · [官网](https://norse.github.io/norse/) · 组织维护
+⭐ 827 · Python · LGPL-3.0 · 推送 2026-07-07 · [GitHub](https://github.com/norse/norse) · [官网](https://norse.github.io/norse/) · 组织维护
 
 **在 PyTorch 中构建脉冲神经网络（SNN）的深度学习库**
 

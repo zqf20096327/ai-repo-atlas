@@ -1,6 +1,6 @@
 # lobehub/lobe-editor
 
-⭐ 180 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lobehub/lobe-editor) · [官网](https://editor.lobehub.com) · 组织维护
+⭐ 180 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lobehub/lobe-editor) · [官网](https://editor.lobehub.com) · 组织维护
 
 **面向 AI 应用的 React 富文本编辑器（基于 Lexical）**
 

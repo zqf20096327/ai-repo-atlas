@@ -1,6 +1,6 @@
 # Ephemeral-AI-Lab/layerfs
 
-⭐ 2,366 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
+⭐ 2,460 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
 
 **面向 AI agent 的写时复制共享文件系统，支持分支/提交/合并**
 

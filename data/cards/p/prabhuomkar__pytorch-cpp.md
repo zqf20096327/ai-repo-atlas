@@ -1,6 +1,6 @@
 # prabhuomkar/pytorch-cpp
 
-⭐ 2,142 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/prabhuomkar/pytorch-cpp) · 个人维护
+⭐ 2,141 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/prabhuomkar/pytorch-cpp) · 个人维护
 
 **PyTorch 官方教程的 C++/LibTorch 实现合集**
 

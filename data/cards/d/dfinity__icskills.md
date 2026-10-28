@@ -1,6 +1,6 @@
 # dfinity/icskills
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dfinity/icskills) · [官网](https://skills.internetcomputer.org) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dfinity/icskills) · [官网](https://skills.internetcomputer.org) · 组织维护
 
 **面向 AI agent 的 Internet Computer 开发技能文件集**
 

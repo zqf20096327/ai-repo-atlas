@@ -1,6 +1,6 @@
 # nari-labs/nari-qwen3-tts
 
-⭐ 188 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/nari-labs/nari-qwen3-tts) · [官网](https://nari-labs.com/) · 组织维护
+⭐ 190 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/nari-labs/nari-qwen3-tts) · [官网](https://nari-labs.com/) · 组织维护
 
 **单卡 H100 上高性能服务 Qwen3-TTS 的流式推理引擎**
 

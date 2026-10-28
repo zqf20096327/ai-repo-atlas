@@ -1,6 +1,6 @@
 # yakew7/Fair-Code
 
-⭐ 54 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yakew7/Fair-Code) · [官网](https://thefaircode.xyz) · 个人维护
+⭐ 54 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yakew7/Fair-Code) · [官网](https://thefaircode.xyz) · 个人维护
 
 **7 个领域 AI 偏见审计项目：量化公平性差距并给出修复**
 

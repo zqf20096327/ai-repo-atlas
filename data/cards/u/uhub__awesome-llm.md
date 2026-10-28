@@ -1,6 +1,6 @@
 # uhub/awesome-llm
 
-⭐ 866 · 推送 2026-10-22 · [GitHub](https://github.com/uhub/awesome-llm) · 个人维护 · 中文 README
+⭐ 867 · 推送 2026-10-22 · [GitHub](https://github.com/uhub/awesome-llm) · 个人维护 · 中文 README
 
 **LLM 框架、库与软件的策展清单，供开发者查找学习资源与工具**
 

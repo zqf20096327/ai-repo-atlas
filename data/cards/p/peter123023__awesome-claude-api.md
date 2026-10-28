@@ -1,6 +1,6 @@
 # peter123023/awesome-claude-api
 
-⭐ 501 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/peter123023/awesome-claude-api) · 个人维护 · 中文 README
+⭐ 504 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/peter123023/awesome-claude-api) · 个人维护 · 中文 README
 
 **Claude 中转 API 服务商与检测工具的策展清单**
 

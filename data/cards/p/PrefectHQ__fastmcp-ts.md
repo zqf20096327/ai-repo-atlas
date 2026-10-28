@@ -1,6 +1,6 @@
 # PrefectHQ/fastmcp-ts
 
-⭐ 80 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/PrefectHQ/fastmcp-ts) · [官网](https://fastmcp-ts.docs.prefect.io) · 组织维护
+⭐ 80 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/PrefectHQ/fastmcp-ts) · [官网](https://fastmcp-ts.docs.prefect.io) · 组织维护
 
 **构建 MCP 服务器、客户端与交互应用的 TypeScript 框架**
 

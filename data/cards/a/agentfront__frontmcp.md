@@ -1,6 +1,6 @@
 # agentfront/frontmcp
 
-⭐ 148 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
+⭐ 148 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
 
 **TypeScript 的 MCP 服务器开发框架：类型化工具、DI、认证与多平台部署**
 

@@ -1,6 +1,6 @@
 # 1sh1ro/ai-api-zhongzhuan
 
-⭐ 68 · CSS · 推送 2026-10-19 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://1sh1ro.github.io/ai-api-zhongzhuan/) · 个人维护 · 中文 README
+⭐ 70 · CSS · 推送 2026-10-19 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://1sh1ro.github.io/ai-api-zhongzhuan/) · 个人维护 · 中文 README
 
 **AI API 公益站与 Token 中转站导航清单**
 

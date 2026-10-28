@@ -1,6 +1,6 @@
 # Taewan-P/gpt_mobile
 
-⭐ 1,266 · Kotlin · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/Taewan-P/gpt_mobile) · 个人维护
+⭐ 1,265 · Kotlin · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/Taewan-P/gpt_mobile) · 个人维护
 
 **Android 多模型 AI 聊天客户端，BYOK 接入多家 LLM**
 

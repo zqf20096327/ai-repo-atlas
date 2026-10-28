@@ -1,6 +1,6 @@
 # structurizr/structurizr
 
-⭐ 503 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/structurizr/structurizr) · [官网](https://docs.structurizr.com) · 组织维护
+⭐ 506 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/structurizr/structurizr) · [官网](https://docs.structurizr.com) · 组织维护
 
 **面向 C4 模型的 models-as-code 软件架构图工具**
 

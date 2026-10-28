@@ -1,6 +1,6 @@
 # microsoft/Agents-for-js
 
-⭐ 90 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/Agents-for-js) · 组织维护
+⭐ 90 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Agents-for-js) · 组织维护
 
 **微软官方的 Microsoft 365 Agent SDK JavaScript/TypeScript 组件库**
 

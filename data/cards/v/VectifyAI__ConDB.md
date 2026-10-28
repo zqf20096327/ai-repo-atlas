@@ -1,6 +1,6 @@
 # VectifyAI/ConDB
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/VectifyAI/ConDB) · [官网](https://pageindex.ai) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/VectifyAI/ConDB) · [官网](https://pageindex.ai) · 组织维护
 
 **面向推理检索的 KV-cache 原生上下文数据库**
 

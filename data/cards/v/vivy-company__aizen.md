@@ -1,6 +1,6 @@
 # vivy-company/aizen
 
-⭐ 308 · Swift · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/vivy-company/aizen) · [官网](https://aizen.win) · 组织维护 · 中文 README
+⭐ 309 · Swift · GPL-3.0 · 推送 2026-08-01 · [GitHub](https://github.com/vivy-company/aizen) · [官网](https://aizen.win) · 组织维护 · 中文 README
 
 **macOS 并行开发工作区：聚合终端、Git 与 AI agent 会话**
 

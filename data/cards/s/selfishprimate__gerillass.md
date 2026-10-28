@@ -1,6 +1,6 @@
 # selfishprimate/gerillass
 
-⭐ 171 · SCSS · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/selfishprimate/gerillass) · [官网](https://gerillass.com/) · 个人维护
+⭐ 171 · SCSS · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/selfishprimate/gerillass) · [官网](https://gerillass.com/) · 个人维护
 
 **供编码代理读取的 Sass mixin/函数库**
 

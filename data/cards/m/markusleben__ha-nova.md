@@ -1,6 +1,6 @@
 # markusleben/ha-nova
 
-⭐ 20 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/markusleben/ha-nova) · [官网](https://hanova.app) · 个人维护
+⭐ 20 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/markusleben/ha-nova) · [官网](https://hanova.app) · 个人维护
 
 **让 Claude/ChatGPT 等 AI 应用安全操控 Home Assistant 的本地桥接层**
 

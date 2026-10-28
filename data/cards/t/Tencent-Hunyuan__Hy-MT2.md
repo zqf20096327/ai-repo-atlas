@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT2
 
-⭐ 1,505 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT2) · 组织维护 · 中文 README
+⭐ 1,507 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT2) · 组织维护 · 中文 README
 
 **腾讯混元 Hy-MT2 多语言翻译模型系列（1.8B/7B/30B-A3B）**
 

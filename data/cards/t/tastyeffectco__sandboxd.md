@@ -1,6 +1,6 @@
 # tastyeffectco/sandboxd
 
-⭐ 973 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/tastyeffectco/sandboxd) · [官网](https://sandboxd.io/) · 组织维护
+⭐ 976 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tastyeffectco/sandboxd) · [官网](https://sandboxd.io/) · 组织维护
 
 **自托管 AI 应用构建引擎：在隔离沙箱中由 agent 生成并运行应用**
 

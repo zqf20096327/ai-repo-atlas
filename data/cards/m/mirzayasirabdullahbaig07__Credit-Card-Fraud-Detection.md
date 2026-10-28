@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection
 
-⭐ 26 · Python · 推送 2026-08-21 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection) · [官网](https://credit-card-fraud-detection-model07.streamlit.app/) · 个人维护
+⭐ 27 · Python · 推送 2026-08-21 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Credit-Card-Fraud-Detection) · [官网](https://credit-card-fraud-detection-model07.streamlit.app/) · 个人维护
 
 **信用卡欺诈检测训练与部署全流程项目，Streamlit 在线预测应用**
 

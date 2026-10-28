@@ -1,6 +1,6 @@
 # vstaln/gray
 
-⭐ 23 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vstaln/gray) · [官网](https://gray.alignment.id) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstaln/gray) · [官网](https://gray.alignment.id) · 个人维护
 
 **单文件 Rust 编写的常驻 AI agent 运行框架，任意模型可接入**
 

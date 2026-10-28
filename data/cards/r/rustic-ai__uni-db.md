@@ -1,6 +1,6 @@
 # rustic-ai/uni-db
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 57 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rustic-ai/uni-db) · [官网](https://rustic-ai.github.io/uni-db/) · 组织维护
 
 **嵌入式图+向量+列存一体化数据库，面向本地多模态数据访问**
 
@@ -11,7 +11,7 @@ Uni 是一个嵌入式数据库，将属性图（OpenCypher 查询）、向量�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

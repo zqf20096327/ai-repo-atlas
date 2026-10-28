@@ -1,6 +1,6 @@
 # YIKUAIBANZI/forge-skill
 
-⭐ 127 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/YIKUAIBANZI/forge-skill) · 个人维护 · 中文 README
+⭐ 128 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/YIKUAIBANZI/forge-skill) · 个人维护 · 中文 README
 
 **本地优先的 Claude Code 人格蒸馏引擎：蒸馏自己与他人**
 

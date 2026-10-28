@@ -1,6 +1,6 @@
 # FanyinLiu/Nexus
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FanyinLiu/Nexus) · [官网](https://github.com/FanyinLiu/Nexus/releases/latest) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FanyinLiu/Nexus) · [官网](https://github.com/FanyinLiu/Nexus/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的 Live2D 桌面 AI 伙伴：常驻桌面、记忆、文字/语音对话**
 

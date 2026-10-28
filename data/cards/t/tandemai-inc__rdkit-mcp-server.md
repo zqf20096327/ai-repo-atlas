@@ -1,6 +1,6 @@
 # tandemai-inc/rdkit-mcp-server
 
-⭐ 45 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/tandemai-inc/rdkit-mcp-server) · [官网](https://tandemai.com) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/tandemai-inc/rdkit-mcp-server) · [官网](https://tandemai.com) · 组织维护
 
 **让语言模型通过自然语言调用 RDKit 的 MCP 服务器**
 

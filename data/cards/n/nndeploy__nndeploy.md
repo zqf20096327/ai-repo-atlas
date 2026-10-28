@@ -1,6 +1,6 @@
 # nndeploy/nndeploy
 
-⭐ 1,891 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/nndeploy/nndeploy) · [官网](https://nndeploy-zh.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 1,892 · C++ · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/nndeploy/nndeploy) · [官网](https://nndeploy-zh.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **跨端 AI 部署框架：可视化工作流+多推理后端落地算法**
 

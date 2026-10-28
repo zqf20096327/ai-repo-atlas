@@ -1,6 +1,6 @@
 # xushengfeng/lime
 
-⭐ 901 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xushengfeng/lime) · 个人维护 · 中文 README
+⭐ 905 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xushengfeng/lime) · 个人维护 · 中文 README
 
 **LLM 驱动的拼音输入法引擎，以 Rime 为前端**
 

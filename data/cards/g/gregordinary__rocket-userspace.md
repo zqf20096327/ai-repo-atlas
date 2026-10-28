@@ -1,6 +1,6 @@
 # gregordinary/rocket-userspace
 
-⭐ 22 · C · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/rocket-userspace) · 个人维护
+⭐ 23 · C · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/rocket-userspace) · 个人维护
 
 **面向 Rockchip NPU 的用户态驱动与 matmul/算子库（RK3588/RK3576）**
 

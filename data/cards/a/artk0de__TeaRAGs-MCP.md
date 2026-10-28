@@ -1,6 +1,6 @@
 # artk0de/TeaRAGs-MCP
 
-⭐ 29 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/artk0de/TeaRAGs-MCP) · [官网](https://artk0de.github.io/TeaRAGs-MCP/) · 个人维护
+⭐ 29 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/artk0de/TeaRAGs-MCP) · [官网](https://artk0de.github.io/TeaRAGs-MCP/) · 个人维护
 
 **给 AI 编程代理的代码库情报层：五层索引经 MCP 供查询**
 

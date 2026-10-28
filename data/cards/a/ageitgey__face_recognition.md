@@ -1,6 +1,6 @@
 # ageitgey/face_recognition
 
-⭐ 56,854 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
+⭐ 56,859 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/ageitgey/face_recognition) · 个人维护
 
 **给 Python/命令行用户提供的简单人脸识别库**
 

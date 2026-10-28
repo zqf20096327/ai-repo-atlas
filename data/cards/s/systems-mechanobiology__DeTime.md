@@ -1,6 +1,6 @@
 # systems-mechanobiology/DeTime
 
-⭐ 54 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-12 · [GitHub](https://github.com/systems-mechanobiology/DeTime) · [官网](https://systems-mechanobiology.github.io/DeTime/) · 组织维护
+⭐ 54 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/systems-mechanobiology/DeTime) · [官网](https://systems-mechanobiology.github.io/DeTime/) · 组织维护
 
 **面向科研的统一时序分解 Python/CLI 工具库**
 

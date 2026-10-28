@@ -1,6 +1,6 @@
 # GourangaDasSamrat/Gemini-Clone
 
-⭐ 20 · JavaScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/GourangaDasSamrat/Gemini-Clone) · [官网](https://geminiclonebygouranga.netlify.app/) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/GourangaDasSamrat/Gemini-Clone) · [官网](https://geminiclonebygouranga.netlify.app/) · 个人维护
 
 **网页版 Gemini 聊天界面：HTML/CSS/JS 调用 Gemini API**
 

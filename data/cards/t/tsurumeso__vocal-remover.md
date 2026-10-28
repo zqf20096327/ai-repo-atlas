@@ -1,6 +1,6 @@
 # tsurumeso/vocal-remover
 
-⭐ 1,763 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/tsurumeso/vocal-remover) · 个人维护
+⭐ 1,764 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/tsurumeso/vocal-remover) · 个人维护
 
 **深度学习人声分离工具：从歌曲中提取伴奏**
 

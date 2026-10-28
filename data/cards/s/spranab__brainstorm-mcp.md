@@ -1,6 +1,6 @@
 # spranab/brainstorm-mcp
 
-⭐ 71 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/spranab/brainstorm-mcp) · [官网](https://www.npmjs.com/package/brainstorm-mcp) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/spranab/brainstorm-mcp) · [官网](https://www.npmjs.com/package/brainstorm-mcp) · 个人维护
 
 **多模型多轮辩论的 MCP 服务器，输出结构化综合结论**
 

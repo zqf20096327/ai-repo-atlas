@@ -1,6 +1,6 @@
 # hanlulong/awesome-ai-for-economists
 
-⭐ 689 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/hanlulong/awesome-ai-for-economists) · [官网](https://openecon.ai) · 组织维护
+⭐ 691 · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/hanlulong/awesome-ai-for-economists) · [官网](https://openecon.ai) · 组织维护
 
 **面向经济学研究与教学的 AI 工具与资源策展清单**
 

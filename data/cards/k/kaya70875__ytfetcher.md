@@ -1,6 +1,6 @@
 # kaya70875/ytfetcher
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/kaya70875/ytfetcher) · [官网](https://kaya70875.github.io/ytfetcher/) · 个人维护
+⭐ 91 · Python · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/kaya70875/ytfetcher) · [官网](https://kaya70875.github.io/ytfetcher/) · 个人维护
 
 **批量抓取 YouTube 字幕、评论与元数据并导出结构化数据集的 Python 工具**
 

@@ -1,6 +1,6 @@
 # AbrahamPaulJ/nightmare-mobile
 
-⭐ 134 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AbrahamPaulJ/nightmare-mobile) · 个人维护
+⭐ 140 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AbrahamPaulJ/nightmare-mobile) · 个人维护
 
 **安卓手机上跑图像/视频扩散模型的节点图应用（NPU）**
 

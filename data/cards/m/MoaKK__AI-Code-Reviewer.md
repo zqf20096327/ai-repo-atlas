@@ -1,6 +1,6 @@
 # MoaKK/AI-Code-Reviewer
 
-⭐ 38 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/MoaKK/AI-Code-Reviewer) · 个人维护
+⭐ 39 · TypeScript · 推送 2026-05-04 · [GitHub](https://github.com/MoaKK/AI-Code-Reviewer) · 个人维护
 
 **用 Claude API 自动审查 PR 的 GitHub Actions 机器人**
 

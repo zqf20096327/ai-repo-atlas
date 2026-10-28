@@ -1,6 +1,6 @@
 # SakurajimaMaiii/ProtoKD
 
-⭐ 61 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/SakurajimaMaiii/ProtoKD) · [官网](https://arxiv.org/abs/2303.09830) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/SakurajimaMaiii/ProtoKD) · [官网](https://arxiv.org/abs/2303.09830) · 组织维护
 
 **ICASSP 2023 论文 ProtoKD 官方实现：模态缺失下的医学图像分割**
 

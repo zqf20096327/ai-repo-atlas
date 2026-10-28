@@ -1,6 +1,6 @@
 # vectora-foundry/native-devtools-mcp
 
-⭐ 139 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/vectora-foundry/native-devtools-mcp) · [官网](https://www.npmjs.com/package/native-devtools-mcp) · 组织维护
+⭐ 140 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/vectora-foundry/native-devtools-mcp) · [官网](https://www.npmjs.com/package/native-devtools-mcp) · 组织维护
 
 **本地 MCP 服务器：让 AI agent 操控桌面、浏览器与安卓设备**
 

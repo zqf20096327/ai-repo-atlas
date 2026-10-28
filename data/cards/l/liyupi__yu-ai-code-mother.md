@@ -1,6 +1,6 @@
 # liyupi/yu-ai-code-mother
 
-⭐ 1,984 · Java · 推送 2026-09-12 · [GitHub](https://github.com/liyupi/yu-ai-code-mother) · [官网](https://www.codefather.cn/course/1948291549923344386) · 组织维护 · 中文 README
+⭐ 1,985 · Java · 推送 2026-09-12 · [GitHub](https://github.com/liyupi/yu-ai-code-mother) · [官网](https://www.codefather.cn/course/1948291549923344386) · 组织维护 · 中文 README
 
 **面向求职者的 AI 代码生成平台教学项目（Spring Boot 3 + LangChain4j）**
 

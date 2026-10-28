@@ -1,6 +1,6 @@
 # vedaant00/opendot
 
-⭐ 59 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/vedaant00/opendot) · [官网](https://pypi.org/project/opendot) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/vedaant00/opendot) · [官网](https://pypi.org/project/opendot) · 个人维护
 
 **可完全撤销的终端 AI agent：文件与 shell 操作先快照再执行**
 

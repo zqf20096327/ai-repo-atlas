@@ -1,6 +1,6 @@
 # AutoShiftOps/querytuner
 
-⭐ 39 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AutoShiftOps/querytuner) · [官网](https://querytuner.com) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AutoShiftOps/querytuner) · [官网](https://querytuner.com) · 组织维护
 
 **免连库的 SQL 查询诊断工具：粘贴即分析性能问题**
 

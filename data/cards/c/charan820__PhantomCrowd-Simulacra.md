@@ -1,6 +1,6 @@
 # charan820/PhantomCrowd-Simulacra
 
-⭐ 116 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/charan820/PhantomCrowd-Simulacra) · 个人维护
+⭐ 116 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/charan820/PhantomCrowd-Simulacra) · 个人维护
 
 **本地多智能体社交传播模拟器：预演内容的扩散与语义漂移**
 

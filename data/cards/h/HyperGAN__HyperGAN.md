@@ -1,6 +1,6 @@
 # HyperGAN/HyperGAN
 
-⭐ 1,183 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/HyperGAN/HyperGAN) · 组织维护
+⭐ 1,183 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HyperGAN/HyperGAN) · 组织维护
 
 **可组合的 GAN 框架：用 PyTorch 构建、训练与共享生成对抗网络**
 

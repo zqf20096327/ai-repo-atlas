@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System
 
-⭐ 26 · Jupyter Notebook · 推送 2026-09-13 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System) · [官网](https://real-time-smoke-fire-detection-system.streamlit.app/) · 个人维护
+⭐ 27 · Jupyter Notebook · 推送 2026-09-13 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Real-Time-Smoke-Fire-Detection-System) · [官网](https://real-time-smoke-fire-detection-system.streamlit.app/) · 个人维护
 
 **基于 YOLO11 的火烟实时检测系统，支持图片/视频/摄像头**
 

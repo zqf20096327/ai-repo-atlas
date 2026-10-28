@@ -1,6 +1,6 @@
 # weld-project/weld
 
-⭐ 3,011 · Rust · BSD-3-Clause · 推送 2026-04-13 · [GitHub](https://github.com/weld-project/weld) · [官网](https://www.weld.rs) · 组织维护
+⭐ 3,012 · Rust · BSD-3-Clause · 推送 2026-04-13 · [GitHub](https://github.com/weld-project/weld) · [官网](https://www.weld.rs) · 组织维护
 
 **跨库优化数据分析工作流的语言与运行时**
 

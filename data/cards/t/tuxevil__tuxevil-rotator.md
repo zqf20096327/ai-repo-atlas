@@ -1,6 +1,6 @@
 # tuxevil/tuxevil-rotator
 
-⭐ 79 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tuxevil/tuxevil-rotator) · 组织维护
+⭐ 80 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tuxevil/tuxevil-rotator) · 组织维护
 
 **多提供商多账号的 LLM 代理轮换网关，带配额路由**
 

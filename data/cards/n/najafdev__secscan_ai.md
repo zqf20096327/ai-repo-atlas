@@ -1,6 +1,6 @@
 # najafdev/secscan_ai
 
-⭐ 1,289 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/najafdev/secscan_ai) · [官网](https://najafdev.github.io/secscan_ai/) · 个人维护
+⭐ 1,291 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/najafdev/secscan_ai) · [官网](https://najafdev.github.io/secscan_ai/) · 个人维护
 
 **面向企业安全团队的 AI 驱动渗透测试平台**
 

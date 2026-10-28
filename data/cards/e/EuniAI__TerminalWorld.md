@@ -1,6 +1,6 @@
 # EuniAI/TerminalWorld
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/EuniAI/TerminalWorld) · [官网](https://terminalworld.ai/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-05-31 · [GitHub](https://github.com/EuniAI/TerminalWorld) · [官网](https://terminalworld.ai/) · 组织维护
 
 **从真实终端录制反向构造的 agent 评测基准（1,530 任务）**
 

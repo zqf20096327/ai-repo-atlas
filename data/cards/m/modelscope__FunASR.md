@@ -1,6 +1,6 @@
 # modelscope/FunASR
 
-⭐ 20,843 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
+⭐ 20,861 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
 
 **面向开发者的语音识别工具包：训练/推理/流式 ASR 与部署服务**
 

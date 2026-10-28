@@ -1,6 +1,6 @@
 # anycode-ade/anycode
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anycode-ade/anycode) · [官网](https://anycode-ade.github.io/anycode/) · 组织维护
+⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anycode-ade/anycode) · [官网](https://anycode-ade.github.io/anycode/) · 组织维护
 
 **人与 AI agent 协同编程的 Web 代码编辑器平台**
 

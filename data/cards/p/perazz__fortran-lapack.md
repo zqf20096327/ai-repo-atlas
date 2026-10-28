@@ -1,6 +1,6 @@
 # perazz/fortran-lapack
 
-⭐ 42 · Fortran · BSD-3-Clause · 推送 2026-09-07 · [GitHub](https://github.com/perazz/fortran-lapack) · [官网](https://perazz.github.io/fortran-lapack/) · 个人维护
+⭐ 42 · Fortran · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/perazz/fortran-lapack) · [官网](https://perazz.github.io/fortran-lapack/) · 个人维护
 
 **现代 Fortran 线性代数库：Cholesky 分解与特征值求解等 NumPy 风格 API**
 

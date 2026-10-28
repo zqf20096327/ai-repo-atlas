@@ -1,6 +1,6 @@
 # HazelnutParadise/insyra
 
-⭐ 57 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HazelnutParadise/insyra) · [官网](https://insyra.hazelnut-paradise.com) · 个人维护 · 中文 README
+⭐ 58 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HazelnutParadise/insyra) · [官网](https://insyra.hazelnut-paradise.com) · 个人维护 · 中文 README
 
 **Go 语言数据分析生态库：数据处理、统计、机器学习与神经网络**
 

@@ -1,6 +1,6 @@
 # KevKibe/memvectordb
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 31 · Rust · 推送 2026-09-07 · [GitHub](https://github.com/KevKibe/memvectordb) · 个人维护
 
 **Rust 编写的内存向量数据库，支持元数据存储与日志恢复**
 

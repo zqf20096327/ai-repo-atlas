@@ -1,6 +1,6 @@
 # ndom91/open-plan-annotator
 
-⭐ 98 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ndom91/open-plan-annotator) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ndom91/open-plan-annotator) · 个人维护
 
 **本地优先的编码 agent 计划标注插件：拦截计划模式并在浏览器中批注**
 

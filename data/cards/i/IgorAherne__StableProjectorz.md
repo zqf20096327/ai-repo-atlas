@@ -1,6 +1,6 @@
 # IgorAherne/StableProjectorz
 
-⭐ 129 · C# · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/IgorAherne/StableProjectorz) · [官网](https://stableprojectorz.com) · 个人维护
+⭐ 130 · C# · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/IgorAherne/StableProjectorz) · [官网](https://stableprojectorz.com) · 个人维护
 
 **基于 Unity 的工具：用 Stable Diffusion 为 3D 模型生成贴图与模型**
 

@@ -1,6 +1,6 @@
 # UpstandPlatform/OpenRive
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/UpstandPlatform/OpenRive) · [官网](https://openrive.upstand.dev) · 组织维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/UpstandPlatform/OpenRive) · [官网](https://openrive.upstand.dev) · 组织维护
 
 **开源本地优先的 Rive .riv 动画编辑器，支持 AI 助手接入**
 

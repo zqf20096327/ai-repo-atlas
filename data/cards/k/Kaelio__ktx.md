@@ -1,6 +1,6 @@
 # Kaelio/ktx
 
-⭐ 1,623 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kaelio/ktx) · [官网](https://docs.kaelio.com/ktx) · 组织维护
+⭐ 1,624 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kaelio/ktx) · [官网](https://docs.kaelio.com/ktx) · 组织维护
 
 **给数据/分析 AI agent 的仓库上下文层：让 agent 按认可口径查数**
 

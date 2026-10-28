@@ -1,6 +1,6 @@
 # dongrixinyu/JioNLP
 
-⭐ 3,874 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/dongrixinyu/JioNLP) · [官网](https://www.jionlp.com/) · 个人维护 · 中文 README
+⭐ 3,875 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/dongrixinyu/JioNLP) · [官网](https://www.jionlp.com/) · 个人维护 · 中文 README
 
 **面向中文 NLP 开发者的预处理与解析 Python 工具包**
 

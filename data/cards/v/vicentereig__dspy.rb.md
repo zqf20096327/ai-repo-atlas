@@ -1,6 +1,6 @@
 # vicentereig/dspy.rb
 
-⭐ 237 · Ruby · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/vicentereig/dspy.rb) · [官网](https://oss.vicente.services/dspy.rb/) · 组织维护
+⭐ 238 · Ruby · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/vicentereig/dspy.rb) · [官网](https://oss.vicente.services/dspy.rb/) · 组织维护
 
 **Ruby 版 DSPy：用类型化签名与模块编程 LLM，而非提示词**
 

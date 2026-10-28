@@ -1,6 +1,6 @@
 # nihannihu/watermark-remover-ai
 
-⭐ 40 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nihannihu/watermark-remover-ai) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nihannihu/watermark-remover-ai) · 个人维护 · 中文 README
 
 **离线去除图片/视频水印与标识的 AI 桌面工具**
 

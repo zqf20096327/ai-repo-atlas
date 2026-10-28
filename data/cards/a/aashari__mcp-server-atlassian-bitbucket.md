@@ -1,6 +1,6 @@
 # aashari/mcp-server-atlassian-bitbucket
 
-⭐ 163 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/mcp-server-atlassian-bitbucket) · 个人维护
+⭐ 164 · TypeScript · 推送 2026-03-06 · [GitHub](https://github.com/aashari/mcp-server-atlassian-bitbucket) · 个人维护
 
 **连接 AI 助手与 Bitbucket 仓库/PR 的 MCP 服务器**
 

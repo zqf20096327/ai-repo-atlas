@@ -1,6 +1,6 @@
 # trevorstephens/gplearn
 
-⭐ 1,894 · Python · BSD-3-Clause · 推送 2026-08-14 · [GitHub](https://github.com/trevorstephens/gplearn) · [官网](http://gplearn.readthedocs.io/) · 个人维护
+⭐ 1,895 · Python · BSD-3-Clause · 推送 2026-08-14 · [GitHub](https://github.com/trevorstephens/gplearn) · [官网](http://gplearn.readthedocs.io/) · 个人维护
 
 **Python 遗传编程库：面向符号回归与二分类**
 

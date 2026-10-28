@@ -1,6 +1,6 @@
 # HoldMyBeer-gg/blenderwright
 
-⭐ 179 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
+⭐ 182 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
 
 **Blender 的 MCP server：191 个工具让 AI 助手用自然语言做 3D 建模**
 

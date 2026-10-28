@@ -1,6 +1,6 @@
 # 12we21/cute-fat-fish-pet
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/12we21/cute-fat-fish-pet) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/12we21/cute-fat-fish-pet) · 个人维护 · 中文 README
 
 **Windows 桌面宠物：蓝发小女仆，支持本地/在线模型陪聊与语音**
 

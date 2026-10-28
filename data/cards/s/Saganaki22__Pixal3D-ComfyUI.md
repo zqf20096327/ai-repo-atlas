@@ -1,6 +1,6 @@
 # Saganaki22/Pixal3D-ComfyUI
 
-⭐ 220 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Saganaki22/Pixal3D-ComfyUI) · [官网](https://ldyang694.github.io/projects/pixal3d/) · 个人维护 · 中文 README
+⭐ 222 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Saganaki22/Pixal3D-ComfyUI) · [官网](https://ldyang694.github.io/projects/pixal3d/) · 个人维护 · 中文 README
 
 **ComfyUI 图生 3D 节点：本地运行 TencentARC Pixal3D 并导出带纹理 GLB**
 

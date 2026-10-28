@@ -1,6 +1,6 @@
 # asksurf-ai/surf-skills
 
-⭐ 76 · 推送 2026-07-27 · [GitHub](https://github.com/asksurf-ai/surf-skills) · [官网](https://skills.sh/asksurf-ai/surf-skills/surf) · 组织维护
+⭐ 77 · 推送 2026-07-27 · [GitHub](https://github.com/asksurf-ai/surf-skills) · [官网](https://skills.sh/asksurf-ai/surf-skills/surf) · 组织维护
 
 **让 AI agent 查询加密市场与链上数据的技能包（83+ 端点）**
 

@@ -1,6 +1,6 @@
 # cyrusagents/cyrus
 
-⭐ 876 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
+⭐ 879 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
 
 **接入 Linear/GitHub/GitLab/Slack 的后台编码 agent 部署平台**
 

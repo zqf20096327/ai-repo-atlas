@@ -1,6 +1,6 @@
 # bioimage-io/core-bioimage-io-python
 
-⭐ 40 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bioimage-io/core-bioimage-io-python) · [官网](https://bioimage-io.github.io/core-bioimage-io-python) · 组织维护
+⭐ 40 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bioimage-io/core-bioimage-io-python) · [官网](https://bioimage-io.github.io/core-bioimage-io-python) · 组织维护
 
 **加载、运行与打包 bioimage.io 模型的 Python 库**
 

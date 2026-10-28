@@ -1,6 +1,6 @@
 # lanpa/tensorboardX
 
-⭐ 8,001 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/lanpa/tensorboardX) · [官网](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) · 个人维护
+⭐ 8,000 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/lanpa/tensorboardX) · [官网](https://tensorboardx.readthedocs.io/en/latest/tensorboard.html) · 个人维护
 
 **为 PyTorch 等框架写入 TensorBoard 事件的可视化日志库**
 

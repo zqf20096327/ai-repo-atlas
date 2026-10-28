@@ -1,6 +1,6 @@
 # kkk-bot/HowToLiveWithAI
 
-⭐ 28 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kkk-bot/HowToLiveWithAI) · [官网](https://kkk-bot.github.io/HowToLiveWithAI/) · 个人维护 · 中文 README
+⭐ 29 · HTML · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kkk-bot/HowToLiveWithAI) · [官网](https://kkk-bot.github.io/HowToLiveWithAI/) · 个人维护 · 中文 README
 
 **写给普通年轻人的中文 AI 学习指南（6 章 29 节）**
 

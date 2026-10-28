@@ -1,6 +1,6 @@
 # Maciek-roboblog/Claude-Code-Usage-Monitor
 
-⭐ 8,770 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) · 个人维护
+⭐ 8,780 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) · 个人维护
 
 **终端里的 Claude Code 用量/限额实时监控工具**
 

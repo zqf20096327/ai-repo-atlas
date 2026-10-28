@@ -1,6 +1,6 @@
 # Felix3322/PotPlayer_ChatGPT_Translate
 
-⭐ 1,070 · C++ · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
+⭐ 1,069 · C++ · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
 
 **给视频观众：PotPlayer 内实时 AI 字幕翻译插件**
 

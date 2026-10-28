@@ -1,6 +1,6 @@
 # mhaythornthwaite/Football_Prediction_Project
 
-⭐ 317 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/mhaythornthwaite/Football_Prediction_Project) · [官网](http://matthaythornthwaite.pythonanywhere.com/) · 个人维护
+⭐ 318 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/mhaythornthwaite/Football_Prediction_Project) · [官网](http://matthaythornthwaite.pythonanywhere.com/) · 个人维护
 
 **用经典机器学习预测英超比赛结果的分析项目**
 

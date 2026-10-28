@@ -1,6 +1,6 @@
 # walidboulanouar/awesome-jev-use-cases
 
-⭐ 461 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/walidboulanouar/awesome-jev-use-cases) · [官网](https://ayautomate.com/jev-builds) · 个人维护
+⭐ 463 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/walidboulanouar/awesome-jev-use-cases) · [官网](https://ayautomate.com/jev-builds) · 个人维护
 
 **TypeSafe AI Jev 模型用例策展清单：74 个 demo 与 150+ 仓库**
 

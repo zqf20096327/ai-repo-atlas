@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K2
 
-⭐ 11,115 · NOASSERTION · 推送 2026-01-21 · [GitHub](https://github.com/MoonshotAI/Kimi-K2) · 组织维护 · 中文 README
+⭐ 11,113 · NOASSERTION · 推送 2026-01-21 · [GitHub](https://github.com/MoonshotAI/Kimi-K2) · 组织维护 · 中文 README
 
 **Moonshot AI 的开源 1T 参数 MoE 大语言模型（激活 32B）**
 

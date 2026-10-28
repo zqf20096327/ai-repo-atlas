@@ -1,6 +1,6 @@
 # Cvar1984/sussyfinder
 
-⭐ 77 · PHP · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Cvar1984/sussyfinder) · 个人维护
+⭐ 77 · PHP · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Cvar1984/sussyfinder) · 个人维护
 
 **单文件 PHP webshell 扫描器：规则+统计+小型ML检测后门**
 

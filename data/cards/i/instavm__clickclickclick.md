@@ -1,6 +1,6 @@
 # instavm/clickclickclick
 
-⭐ 715 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/instavm/clickclickclick) · [官网](https://instavm.io) · 组织维护
+⭐ 716 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/instavm/clickclickclick) · [官网](https://instavm.io) · 组织维护
 
 **用任意 LLM 驱动 Android 与计算机自主操作的开源框架**
 

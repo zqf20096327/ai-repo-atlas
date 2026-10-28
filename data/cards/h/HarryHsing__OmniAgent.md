@@ -1,6 +1,6 @@
 # HarryHsing/OmniAgent
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/HarryHsing/OmniAgent) · [官网](https://huggingface.co/spaces/harryhsing/OmniAgent-Slides) · 组织维护 · 中文 README
+⭐ 82 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/HarryHsing/OmniAgent) · [官网](https://huggingface.co/spaces/harryhsing/OmniAgent-Slides) · 组织维护 · 中文 README
 
 **全模态主动感知视频理解 agent（7B），感知即推理迭代取帧/音频**
 

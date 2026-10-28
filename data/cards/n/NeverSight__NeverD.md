@@ -1,6 +1,6 @@
 # NeverSight/NeverD
 
-⭐ 99 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NeverSight/NeverD) · 组织维护 · 中文 README
+⭐ 99 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/NeverSight/NeverD) · 组织维护 · 中文 README
 
 **面向 AI 的二进制分析与反编译引擎，基于 LLVM 的 1:1 指令级提升**
 

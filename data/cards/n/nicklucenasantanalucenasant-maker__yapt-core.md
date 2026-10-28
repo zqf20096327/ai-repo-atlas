@@ -1,6 +1,6 @@
 # nicklucenasantanalucenasant-maker/yapt-core
 
-⭐ 53 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/nicklucenasantanalucenasant-maker/yapt-core) · 组织维护 · 中文 README
+⭐ 53 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/nicklucenasantanalucenasant-maker/yapt-core) · 组织维护 · 中文 README
 
 **模块化 PyTorch 训练框架：为研究者与团队提供可组合训练循环**
 

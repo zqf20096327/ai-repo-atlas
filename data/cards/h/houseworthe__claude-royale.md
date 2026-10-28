@@ -1,6 +1,6 @@
 # houseworthe/claude-royale
 
-⭐ 25 · Shell · MIT · 推送 2026-01-25 · [GitHub](https://github.com/houseworthe/claude-royale) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-01-25 · [GitHub](https://github.com/houseworthe/claude-royale) · 个人维护
 
 **让 AI agent 通过屏幕截图与点击自主玩 Clash Royale 的框架**
 

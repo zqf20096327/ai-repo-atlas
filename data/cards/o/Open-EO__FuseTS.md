@@ -1,6 +1,6 @@
 # Open-EO/FuseTS
 
-⭐ 30 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Open-EO/FuseTS) · [官网](https://open-eo.github.io/FuseTS/) · 组织维护
+⭐ 30 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Open-EO/FuseTS) · [官网](https://open-eo.github.io/FuseTS/) · 组织维护
 
 **集成 openEO 的时间序列与数据融合工具箱**
 

@@ -1,6 +1,6 @@
 # nrflynn2/ml-drug-discovery
 
-⭐ 113 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/nrflynn2/ml-drug-discovery) · [官网](https://www.manning.com/books/machine-learning-for-drug-discovery) · 个人维护
+⭐ 114 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/nrflynn2/ml-drug-discovery) · [官网](https://www.manning.com/books/machine-learning-for-drug-discovery) · 个人维护
 
 **《Machine Learning for Drug Discovery》图书配套代码与数据仓库**
 

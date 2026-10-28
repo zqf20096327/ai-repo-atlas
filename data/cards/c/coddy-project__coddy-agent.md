@@ -1,6 +1,6 @@
 # coddy-project/coddy-agent
 
-⭐ 187 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/coddy-project/coddy-agent) · [官网](https://coddy.dev) · 组织维护
+⭐ 186 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/coddy-project/coddy-agent) · [官网](https://coddy.dev) · 组织维护
 
 **单二进制通用 AI agent：终端/编辑器/浏览器/Telegram 多端接入**
 

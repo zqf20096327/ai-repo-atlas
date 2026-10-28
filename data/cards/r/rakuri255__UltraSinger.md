@@ -1,6 +1,6 @@
 # rakuri255/UltraSinger
 
-⭐ 550 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/rakuri255/UltraSinger) · 个人维护
+⭐ 549 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/rakuri255/UltraSinger) · 个人维护
 
 **从歌曲自动生成 UltraStar 卡拉OK、MIDI 与乐谱的 AI 工具**
 

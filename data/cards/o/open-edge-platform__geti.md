@@ -1,6 +1,6 @@
 # open-edge-platform/geti
 
-⭐ 1,364 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/open-edge-platform/geti) · [官网](https://docs.geti.intel.com) · 组织维护
+⭐ 1,364 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/open-edge-platform/geti) · [官网](https://docs.geti.intel.com) · 组织维护
 
 **本地构建、训练、优化与运行计算机视觉模型的开源平台**
 

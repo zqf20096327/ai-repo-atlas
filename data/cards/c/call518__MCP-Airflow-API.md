@@ -1,6 +1,6 @@
 # call518/MCP-Airflow-API
 
-⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/call518/MCP-Airflow-API) · [官网](https://deepwiki.com/call518/MCP-Airflow-API) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/call518/MCP-Airflow-API) · [官网](https://deepwiki.com/call518/MCP-Airflow-API) · 个人维护
 
 **用自然语言管理 Apache Airflow 的 MCP 服务器**
 

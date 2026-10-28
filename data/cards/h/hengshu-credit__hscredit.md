@@ -1,6 +1,6 @@
 # hengshu-credit/hscredit
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hengshu-credit/hscredit) · [官网](https://hscredit.hengshucredit.com) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hengshu-credit/hscredit) · [官网](https://hscredit.hengshucredit.com) · 组织维护 · 中文 README
 
 **给信贷风控人员的全流程量化建模 Python 工具箱**
 

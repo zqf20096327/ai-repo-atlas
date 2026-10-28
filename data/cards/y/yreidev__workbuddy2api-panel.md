@@ -1,6 +1,6 @@
 # yreidev/workbuddy2api-panel
 
-⭐ 42 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 组织维护 · 中文 README
+⭐ 49 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 组织维护 · 中文 README
 
 **把腾讯 WorkBuddy 账号变成 OpenAI 兼容 API 的多账号网关**
 

@@ -1,6 +1,6 @@
 # denizsafak/abogen
 
-⭐ 6,167 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/denizsafak/abogen) · [官网](https://pypi.org/project/abogen/) · 个人维护
+⭐ 6,169 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/denizsafak/abogen) · [官网](https://pypi.org/project/abogen/) · 个人维护
 
 **把 EPUB/PDF/文本转成带同步字幕的有声书工具**
 

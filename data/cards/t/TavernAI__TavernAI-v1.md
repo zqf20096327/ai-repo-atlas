@@ -1,6 +1,6 @@
 # TavernAI/TavernAI-v1
 
-⭐ 2,700 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/TavernAI/TavernAI-v1) · [官网](https://tavernai.net) · 个人维护
+⭐ 2,701 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/TavernAI/TavernAI-v1) · [官网](https://tavernai.net) · 个人维护
 
 **面向用户与 AI 语言模型对话和写作的前端界面**
 

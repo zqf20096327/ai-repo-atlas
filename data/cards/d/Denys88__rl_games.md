@@ -1,6 +1,6 @@
 # Denys88/rl_games
 
-⭐ 1,407 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Denys88/rl_games) · 个人维护
+⭐ 1,407 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Denys88/rl_games) · 个人维护
 
 **面向 GPU 向量化仿真训练的 PyTorch 强化学习框架**
 

@@ -1,6 +1,6 @@
 # jlcodes99/cockpit-tools
 
-⭐ 19,420 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
+⭐ 19,462 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
 **多平台 AI IDE 账号管理桌面工具：一键切号、配额监控与应用多开**
 

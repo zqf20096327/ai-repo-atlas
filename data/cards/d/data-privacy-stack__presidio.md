@@ -1,6 +1,6 @@
 # data-privacy-stack/presidio
 
-⭐ 11,537 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/data-privacy-stack/presidio) · [官网](https://presidio.dataprivacystack.org) · 组织维护
+⭐ 11,563 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/data-privacy-stack/presidio) · [官网](https://presidio.dataprivacystack.org) · 组织维护
 
 **文本与图像中敏感数据（PII）的检测、脱敏与匿名化 SDK**
 

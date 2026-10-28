@@ -1,6 +1,6 @@
 # thushan/olla
 
-⭐ 320 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 组织维护
+⭐ 320 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 组织维护
 
 **自托管 LLM 推理后端的代理与负载均衡器**
 

@@ -1,6 +1,6 @@
 # knecht-works/knecht-cloud
 
-⭐ 46 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/knecht-works/knecht-cloud) · [官网](https://knecht.works) · 组织维护
+⭐ 46 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/knecht-works/knecht-cloud) · [官网](https://knecht.works) · 组织维护
 
 **自托管平台：让 AI agent 在隔离沙箱中复现并修复 DDEV 项目 bug**
 

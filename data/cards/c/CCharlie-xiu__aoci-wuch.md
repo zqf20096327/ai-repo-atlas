@@ -1,6 +1,6 @@
 # CCharlie-xiu/aoci-wuch
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/CCharlie-xiu/aoci-wuch) · [官网](https://skill.wuch-ai.net/) · 个人维护 · 中文 README
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/CCharlie-xiu/aoci-wuch) · [官网](https://skill.wuch-ai.net/) · 个人维护 · 中文 README
 
 **面向 AI 编程代理的任务优先技能库**
 

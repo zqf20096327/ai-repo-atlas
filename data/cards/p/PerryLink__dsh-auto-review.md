@@ -1,6 +1,6 @@
 # PerryLink/dsh-auto-review
 
-⭐ 241 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://perrylink.github.io/plugins/dsh-auto-review/) · 个人维护 · 中文 README
+⭐ 241 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://perrylink.github.io/plugins/dsh-auto-review/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 审批链插件：第二模型自动评审 allow/deny**
 

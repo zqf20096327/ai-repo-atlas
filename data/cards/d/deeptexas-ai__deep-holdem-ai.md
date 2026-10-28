@@ -1,6 +1,6 @@
 # deeptexas-ai/deep-holdem-ai
 
-⭐ 32 · C++ · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/deeptexas-ai/deep-holdem-ai) · [官网](https://deeptexas-ai.github.io/deep-holdem-ai/) · 个人维护 · 中文 README
+⭐ 33 · C++ · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/deeptexas-ai/deep-holdem-ai) · [官网](https://deeptexas-ai.github.io/deep-holdem-ai/) · 个人维护 · 中文 README
 
 **面向 HUNL 德州扑克的研究源码：CFR 子博弈与 ReBeL 递归求解**
 

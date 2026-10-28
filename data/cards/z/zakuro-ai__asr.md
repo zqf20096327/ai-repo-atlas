@@ -1,6 +1,6 @@
 # zakuro-ai/asr
 
-⭐ 72 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/zakuro-ai/asr) · 组织维护
+⭐ 72 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zakuro-ai/asr) · 组织维护
 
 **PyTorch DeepSpeech2 英日语音识别训练框架**
 

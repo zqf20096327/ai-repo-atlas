@@ -1,6 +1,6 @@
 # datopian/portaljs
 
-⭐ 2,370 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/datopian/portaljs) · [官网](https://www.portaljs.com) · 组织维护
+⭐ 2,370 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/datopian/portaljs) · [官网](https://www.portaljs.com) · 组织维护
 
 **AI 原生框架：用 agent 技能从需求简报搭建数据门户**
 

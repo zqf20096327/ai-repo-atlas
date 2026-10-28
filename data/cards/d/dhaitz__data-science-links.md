@@ -1,6 +1,6 @@
 # dhaitz/data-science-links
 
-⭐ 28 · 推送 2026-01-27 · [GitHub](https://github.com/dhaitz/data-science-links) · [官网](https://data-science-links.netlify.app) · 个人维护
+⭐ 28 · 推送 2026-10-28 · [GitHub](https://github.com/dhaitz/data-science-links) · [官网](https://data-science-links.netlify.app) · 个人维护
 
 **数据科学职业与技术文章的策展链接清单**
 

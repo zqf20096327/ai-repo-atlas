@@ -1,6 +1,6 @@
 # mavka-ai/unit-tests-skills
 
-⭐ 69 · Shell · MIT · 推送 2026-09-23 · [GitHub](https://github.com/mavka-ai/unit-tests-skills) · [官网](https://mavka.ai) · 组织维护
+⭐ 70 · Shell · MIT · 推送 2026-09-23 · [GitHub](https://github.com/mavka-ai/unit-tests-skills) · [官网](https://mavka.ai) · 组织维护
 
 **给 AI agent 的 Java 单元测试生成技能包**
 

@@ -1,6 +1,6 @@
 # voidmatcha/e2e-skills
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/voidmatcha/e2e-skills) · [官网](https://voidmatcha.art/talks/awskrug-e2e-2026-en) · 个人维护 · 中文 README
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/voidmatcha/e2e-skills) · [官网](https://voidmatcha.art/talks/awskrug-e2e-2026-en) · 个人维护 · 中文 README
 
 **供 AI 编码 agent 使用的 Playwright/Cypress E2E 测试技能包**
 

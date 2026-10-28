@@ -1,6 +1,6 @@
 # atick-faisal/Real-Time-ECG-Monitoring-Android
 
-⭐ 20 · Kotlin · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/atick-faisal/Real-Time-ECG-Monitoring-Android) · [官网](https://atick.dev) · 个人维护
+⭐ 20 · Kotlin · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/atick-faisal/Real-Time-ECG-Monitoring-Android) · [官网](https://atick.dev) · 个人维护
 
 **Android 实时 ECG 心电异常检测应用（Kotlin）**
 

@@ -1,6 +1,6 @@
 # AtlasCloudAI/atlas-cloud-skills
 
-⭐ 43 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/AtlasCloudAI/atlas-cloud-skills) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 43 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/AtlasCloudAI/atlas-cloud-skills) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **让编码 Agent 调用 Atlas Cloud 300+ 模型的技能包**
 

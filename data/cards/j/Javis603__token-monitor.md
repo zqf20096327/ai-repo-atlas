@@ -1,6 +1,6 @@
 # Javis603/token-monitor
 
-⭐ 3,406 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Javis603/token-monitor) · [官网](http://javis-ai.com/token-monitor/) · 个人维护
+⭐ 3,427 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Javis603/token-monitor) · [官网](http://javis-ai.com/token-monitor/) · 个人维护
 
 **桌面小组件：追踪 46+ AI 编码工具的 token 用量与额度**
 

@@ -1,6 +1,6 @@
 # mrdhnto/libre-manga-translator
 
-⭐ 31 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mrdhnto/libre-manga-translator) · [官网](https://libre.mangatl.asia) · 个人维护
+⭐ 32 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mrdhnto/libre-manga-translator) · [官网](https://libre.mangatl.asia) · 个人维护
 
 **浏览器内本地/云端漫画翻译扩展：气泡检测+OCR+翻译+嵌字**
 

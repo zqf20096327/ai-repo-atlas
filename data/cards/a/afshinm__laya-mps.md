@@ -1,6 +1,6 @@
 # afshinm/laya-mps
 
-⭐ 23 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/afshinm/laya-mps) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/afshinm/laya-mps) · 个人维护
 
 **在 Mac 本地运行 Jev 式类型化决策模型的服务器与 CLI**
 

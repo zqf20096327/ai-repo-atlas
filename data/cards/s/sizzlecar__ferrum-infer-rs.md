@@ -1,6 +1,6 @@
 # sizzlecar/ferrum-infer-rs
 
-⭐ 21 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sizzlecar/ferrum-infer-rs) · [官网](https://ferrum.pandaailabs.com/) · 组织维护 · 中文 README
+⭐ 21 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sizzlecar/ferrum-infer-rs) · [官网](https://ferrum.pandaailabs.com/) · 组织维护 · 中文 README
 
 **单二进制 Rust LLM/图像推理服务引擎，OpenAI 兼容 API**
 

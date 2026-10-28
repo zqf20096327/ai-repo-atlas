@@ -1,6 +1,6 @@
 # skygazer42/MimirQ
 
-⭐ 569 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/skygazer42/MimirQ) · [官网](https://skygazer42.github.io/MimirQ/handbook/) · 组织维护 · 中文 README
+⭐ 572 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/skygazer42/MimirQ) · [官网](https://skygazer42.github.io/MimirQ/handbook/) · 组织维护 · 中文 README
 
 **面向企业的中文优先 RAG 知识库基础设施**
 

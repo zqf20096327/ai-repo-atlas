@@ -1,6 +1,6 @@
 # russelleNVy/three-man-team
 
-⭐ 952 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/russelleNVy/three-man-team) · 个人维护
+⭐ 951 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/russelleNVy/three-man-team) · 个人维护
 
 **给 AI 编码工具的 3 agent 结构化开发团队模板**
 

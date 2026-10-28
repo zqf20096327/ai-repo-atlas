@@ -1,6 +1,6 @@
 # wandercom/kindex
 
-⭐ 47 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wandercom/kindex) · [官网](https://wandercom.github.io/kindex/) · 组织维护
 
 **多 AI 编码 agent 共享读写的本地知识图谱（MCP 插件/CLI）**
 

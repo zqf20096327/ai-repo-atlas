@@ -1,6 +1,6 @@
 # pyrate-llama/hermes-ui
 
-⭐ 206 · HTML · MIT · 推送 2026-06-30 · [GitHub](https://github.com/pyrate-llama/hermes-ui) · 个人维护 · 中文 README
+⭐ 205 · HTML · MIT · 推送 2026-06-30 · [GitHub](https://github.com/pyrate-llama/hermes-ui) · 个人维护 · 中文 README
 
 **Hermes Agent 的 Web 控制台：聊天、监控与技能管理的单文件界面**
 

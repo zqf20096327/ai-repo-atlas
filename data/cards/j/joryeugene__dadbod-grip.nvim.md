@@ -1,6 +1,6 @@
 # joryeugene/dadbod-grip.nvim
 
-⭐ 177 · Lua · MIT · 推送 2026-10-17 · [GitHub](https://github.com/joryeugene/dadbod-grip.nvim) · [官网](https://jorypestorious.com/dadbod-grip-web/) · 个人维护
+⭐ 179 · Lua · MIT · 推送 2026-10-17 · [GitHub](https://github.com/joryeugene/dadbod-grip.nvim) · [官网](https://jorypestorious.com/dadbod-grip-web/) · 个人维护
 
 **Neovim 数据库编辑插件：表变成可编辑缓冲区，支持自然语言生成 SQL**
 

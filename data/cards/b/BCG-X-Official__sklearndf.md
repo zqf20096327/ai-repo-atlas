@@ -1,6 +1,6 @@
 # BCG-X-Official/sklearndf
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/BCG-X-Official/sklearndf) · [官网](https://bcg-x-official.github.io/sklearndf/) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BCG-X-Official/sklearndf) · [官网](https://bcg-x-official.github.io/sklearndf/) · 组织维护
 
 **让 scikit-learn 估计器保持 DataFrame 结构与特征名溯源的库**
 

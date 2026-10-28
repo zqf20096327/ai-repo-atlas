@@ -1,6 +1,6 @@
 # lambdasec/frame
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lambdasec/frame) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/lambdasec/frame) · 组织维护
 
 **结合分离逻辑静态分析与可选 LLM 层的代码安全扫描工具**
 

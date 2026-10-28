@@ -1,6 +1,6 @@
 # Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall
 
-⭐ 90 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall) · 个人维护
 
 **金融文档多模态 RAG 系统：图表理解、混合检索、数字护栏**
 

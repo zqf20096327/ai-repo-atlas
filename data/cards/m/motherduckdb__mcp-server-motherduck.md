@@ -1,6 +1,6 @@
 # motherduckdb/mcp-server-motherduck
 
-⭐ 535 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/motherduckdb/mcp-server-motherduck) · 组织维护
+⭐ 536 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/motherduckdb/mcp-server-motherduck) · 组织维护
 
 **面向 AI 助手的 DuckDB/MotherDuck 本地 MCP 服务器**
 

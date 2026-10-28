@@ -1,6 +1,6 @@
 # ZenSystemAI/Zengram
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZenSystemAI/Zengram) · [官网](https://zensystem.ai) · 组织维护
 
 **面向多 AI agent 的跨机器共享记忆系统（MCP 记忆服务）**
 
@@ -11,7 +11,7 @@ Zengram 为多个 AI agent 提供跨机器、跨会话的共享记忆后端：�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # BedtimeNewsStudio/BedtimeNews-Agent
 
-⭐ 122 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BedtimeNewsStudio/BedtimeNews-Agent) · [官网](https://bedtime.blog) · 组织维护 · 中文 README
+⭐ 122 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BedtimeNewsStudio/BedtimeNews-Agent) · [官网](https://bedtime.blog) · 组织维护 · 中文 README
 
 **睡前消息节目文稿知识库与智能 RAG 问答网站**
 

@@ -1,6 +1,6 @@
 # ageerle/ruoyi-ai
 
-⭐ 5,787 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ageerle/ruoyi-ai) · [官网](https://doc.ruoyiai.chat) · 组织维护 · 中文 README
+⭐ 5,789 · Java · MIT · 推送 2026-10-21 · [GitHub](https://github.com/ageerle/ruoyi-ai) · [官网](https://doc.ruoyiai.chat) · 组织维护 · 中文 README
 
 **企业级全栈 AI 助手平台：多模型、RAG 知识库与可视化工作流**
 

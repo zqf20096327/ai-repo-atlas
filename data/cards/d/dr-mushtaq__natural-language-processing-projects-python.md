@@ -1,6 +1,6 @@
 # dr-mushtaq/natural-language-processing-projects-python
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dr-mushtaq/natural-language-processing-projects-python) · [官网](https://coursesteach.com) · 个人维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dr-mushtaq/natural-language-processing-projects-python) · [官网](https://coursesteach.com) · 个人维护
 
 **Python NLP 从入门到进阶的课程与实操清单**
 

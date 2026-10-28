@@ -1,6 +1,6 @@
 # praetorian-inc/julius
 
-⭐ 249 · Go · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/praetorian-inc/julius) · [官网](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/) · 组织维护
+⭐ 248 · Go · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/praetorian-inc/julius) · [官网](https://www.praetorian.com/blog/introducing-julius-open-source-llm-service-fingerprinting/) · 组织维护
 
 **面向安全人员的 LLM 服务指纹识别工具：探测端点运行哪种 AI 服务**
 

@@ -1,6 +1,6 @@
 # techlab-innov/llmtrace
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/techlab-innov/llmtrace) · [官网](http://docs.llmtrace.io/) · 组织维护
 
 **零代码 LLM 安全与可观测代理：注入检测、PII 扫描与成本控制**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

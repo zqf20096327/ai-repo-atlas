@@ -1,6 +1,6 @@
 # pgeedh/OpenVelo
 
-⭐ 26 · Python · 推送 2026-10-19 · [GitHub](https://github.com/pgeedh/OpenVelo) · 个人维护
+⭐ 26 · Python · 推送 2026-10-28 · [GitHub](https://github.com/pgeedh/OpenVelo) · 个人维护
 
 **用手机视频做自行车 fitting 的开源本地姿态分析工具**
 

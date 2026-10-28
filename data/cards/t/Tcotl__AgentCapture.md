@@ -1,6 +1,6 @@
 # Tcotl/AgentCapture
 
-⭐ 150 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Tcotl/AgentCapture) · [官网](https://agentcapture-demo.vercel.app/) · 个人维护 · 中文 README
+⭐ 150 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Tcotl/AgentCapture) · [官网](https://agentcapture-demo.vercel.app/) · 个人维护 · 中文 README
 
 **面向互联网业务无损接入的蜜罐态势感知与 AI Agent 反制平台**
 

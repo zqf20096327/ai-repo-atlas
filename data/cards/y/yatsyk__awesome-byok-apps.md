@@ -1,6 +1,6 @@
 # yatsyk/awesome-byok-apps
 
-⭐ 41 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/yatsyk/awesome-byok-apps) · 个人维护
+⭐ 42 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/yatsyk/awesome-byok-apps) · 个人维护
 
 **BYOK（自带 API key）应用与 key 提供方策展清单**
 

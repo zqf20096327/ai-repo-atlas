@@ -1,6 +1,6 @@
 # openclaw/ask-molty
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openclaw/ask-molty) · [官网](https://docs.openclaw.ai) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openclaw/ask-molty) · [官网](https://docs.openclaw.ai) · 组织维护
 
 **OpenClaw 文档问答 agent：docs-chat 背后的 Worker 与工具循环**
 

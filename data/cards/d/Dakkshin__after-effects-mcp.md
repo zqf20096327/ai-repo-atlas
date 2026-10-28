@@ -1,6 +1,6 @@
 # Dakkshin/after-effects-mcp
 
-⭐ 806 · JavaScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Dakkshin/after-effects-mcp) · 个人维护
+⭐ 811 · JavaScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Dakkshin/after-effects-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 协议远程控制 After Effects 的服务器**
 

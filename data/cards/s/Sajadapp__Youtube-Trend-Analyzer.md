@@ -1,6 +1,6 @@
 # Sajadapp/Youtube-Trend-Analyzer
 
-⭐ 42 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Sajadapp/Youtube-Trend-Analyzer) · 个人维护
+⭐ 41 · Python · 推送 2026-09-14 · [GitHub](https://github.com/Sajadapp/Youtube-Trend-Analyzer) · 个人维护
 
 **监控 YouTube 趋势并用 LLM 分析、推送 Telegram 的异步机器人**
 

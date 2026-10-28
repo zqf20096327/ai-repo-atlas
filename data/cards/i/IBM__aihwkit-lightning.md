@@ -1,6 +1,6 @@
 # IBM/aihwkit-lightning
 
-⭐ 49 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IBM/aihwkit-lightning) · [官网](https://aihwkit-lightning.readthedocs.io) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IBM/aihwkit-lightning) · [官网](https://aihwkit-lightning.readthedocs.io) · 组织维护
 
 **面向模拟器的硬件感知训练工具包：在 AIMC 上训练大模型**
 

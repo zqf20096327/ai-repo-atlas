@@ -1,6 +1,6 @@
 # VisoMasterFusion/VisoMaster-Fusion
 
-⭐ 979 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/VisoMasterFusion/VisoMaster-Fusion) · 组织维护
+⭐ 981 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/VisoMasterFusion/VisoMaster-Fusion) · 组织维护
 
 **桌面端 AI 换脸与视频编辑软件（图像/视频/摄像头）**
 

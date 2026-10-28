@@ -1,6 +1,6 @@
 # gmickel/gno
 
-⭐ 118 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gmickel/gno) · [官网](https://www.gno.sh) · 个人维护
+⭐ 117 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gmickel/gno) · [官网](https://www.gno.sh) · 个人维护
 
 **本地文档知识引擎：混合检索、可验证 LLM 问答与多接口**
 

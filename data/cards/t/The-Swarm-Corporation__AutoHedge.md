@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/AutoHedge
 
-⭐ 6,554 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/The-Swarm-Corporation/AutoHedge) · [官网](https://swarms.xyz/) · 组织维护
+⭐ 6,567 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/The-Swarm-Corporation/AutoHedge) · [官网](https://swarms.xyz/) · 组织维护
 
 **自主交易的多 agent 对冲基金框架，自动分析并执行交易**
 

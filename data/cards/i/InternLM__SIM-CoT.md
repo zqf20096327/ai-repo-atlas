@@ -1,6 +1,6 @@
 # InternLM/SIM-CoT
 
-⭐ 219 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/InternLM/SIM-CoT) · [官网](https://arxiv.org/pdf/2509.20317) · 组织维护 · 中文 README
+⭐ 219 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/InternLM/SIM-CoT) · [官网](https://arxiv.org/pdf/2509.20317) · 组织维护 · 中文 README
 
 **隐式思维链训练框架：用步级监督稳定潜在推理**
 

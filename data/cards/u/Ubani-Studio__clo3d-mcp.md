@@ -1,6 +1,6 @@
 # Ubani-Studio/clo3d-mcp
 
-⭐ 44 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ubani-Studio/clo3d-mcp) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Ubani-Studio/clo3d-mcp) · 组织维护
 
 **让 Claude/Cursor 等 MCP 客户端控制 CLO3D 服装设计的 MCP 服务器**
 

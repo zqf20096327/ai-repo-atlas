@@ -1,6 +1,6 @@
 # udecode/dotai
 
-⭐ 1,158 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/udecode/dotai) · 组织维护
+⭐ 1,158 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/udecode/dotai) · 组织维护
 
 **面向编码 agent 的共享技能集合（测试审计、pstack 同步等）**
 

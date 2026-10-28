@@ -1,6 +1,6 @@
 # sshah03/perspica
 
-⭐ 40 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sshah03/perspica) · [官网](https://sshah03.github.io/perspica/) · 个人维护
+⭐ 40 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sshah03/perspica) · [官网](https://sshah03.github.io/perspica/) · 个人维护
 
 **面向 AI 编码代理的代码变更审查工具，按意图解读 diff**
 

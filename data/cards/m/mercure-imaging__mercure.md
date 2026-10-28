@@ -1,6 +1,6 @@
 # mercure-imaging/mercure
 
-⭐ 104 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mercure-imaging/mercure) · [官网](https://mercure-imaging.org) · 组织维护
+⭐ 104 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mercure-imaging/mercure) · [官网](https://mercure-imaging.org) · 组织维护
 
 **医学影像科用的 DICOM 路由与处理编排系统**
 

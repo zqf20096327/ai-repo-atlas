@@ -1,6 +1,6 @@
 # jihe520/Agentic-Desktop-Pet
 
-⭐ 340 · Python · 推送 2026-01-10 · [GitHub](https://github.com/jihe520/Agentic-Desktop-Pet) · 个人维护 · 中文 README
+⭐ 341 · Python · 推送 2026-01-10 · [GitHub](https://github.com/jihe520/Agentic-Desktop-Pet) · 个人维护 · 中文 README
 
 **带记忆、情感与 RPG 属性的 LLM 桌面宠物**
 

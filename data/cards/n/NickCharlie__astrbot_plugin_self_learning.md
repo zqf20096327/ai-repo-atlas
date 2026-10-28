@@ -1,6 +1,6 @@
 # NickCharlie/astrbot_plugin_self_learning
 
-⭐ 441 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
+⭐ 442 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
 
 **AstrBot 自主学习插件：让聊天 Bot 学习对话风格与群组黑话**
 

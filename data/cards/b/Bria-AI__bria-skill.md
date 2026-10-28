@@ -1,6 +1,6 @@
 # Bria-AI/bria-skill
 
-⭐ 73 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Bria-AI/bria-skill) · 组织维护
+⭐ 74 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Bria-AI/bria-skill) · 组织维护
 
 **让编程 Agent 调用 Bria 图像生成/编辑能力的技能包**
 

@@ -1,6 +1,6 @@
 # slb350/open-agent-sdk-rust
 
-⭐ 25 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/slb350/open-agent-sdk-rust) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/slb350/open-agent-sdk-rust) · 个人维护
 
 **Rust AI agent SDK：经 OpenAI/Anthropic 协议接入本地或云端模型**
 

@@ -1,6 +1,6 @@
 # Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent
 
-⭐ 36 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) · 个人维护
+⭐ 37 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent) · 个人维护
 
 **给 Gemini 等编码代理加持久记忆、技能与防幻觉规则的插件**
 

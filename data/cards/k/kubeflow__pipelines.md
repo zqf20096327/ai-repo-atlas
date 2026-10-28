@@ -1,6 +1,6 @@
 # kubeflow/pipelines
 
-⭐ 4,257 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
+⭐ 4,259 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kubeflow/pipelines) · [官网](https://www.kubeflow.org/docs/components/pipelines/) · 组织维护
 
 **Kubernetes 上的端到端 ML 工作流编排服务**
 

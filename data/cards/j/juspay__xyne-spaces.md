@@ -1,6 +1,6 @@
 # juspay/xyne-spaces
 
-⭐ 823 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/juspay/xyne-spaces) · [官网](https://xyne.ai) · 组织维护
+⭐ 825 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/juspay/xyne-spaces) · [官网](https://xyne.ai) · 组织维护
 
 **人与 agent 协作的组织上下文平台（自托管 Org OS）**
 

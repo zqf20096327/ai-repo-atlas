@@ -1,6 +1,6 @@
 # dl-cv/labelme-ai
 
-⭐ 42 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/dl-cv/labelme-ai) · 组织维护 · 中文 README
+⭐ 43 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/dl-cv/labelme-ai) · 组织维护 · 中文 README
 
 **基于 LabelMe 深度重开发的图像标注工具，面向数据集构建**
 

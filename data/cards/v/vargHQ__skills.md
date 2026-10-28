@@ -1,6 +1,6 @@
 # vargHQ/skills
 
-⭐ 21 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vargHQ/skills) · [官网](https://varg.ai) · 组织维护
+⭐ 21 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vargHQ/skills) · [官网](https://varg.ai) · 组织维护
 
 **面向 AI agent 的视频/图像/语音/音乐生成技能集**
 

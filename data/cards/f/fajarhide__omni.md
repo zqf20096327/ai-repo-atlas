@@ -1,6 +1,6 @@
 # fajarhide/omni
 
-⭐ 371 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fajarhide/omni) · [官网](https://omni.weekndlabs.com/docs) · 个人维护 · 中文 README
+⭐ 373 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/fajarhide/omni) · [官网](https://omni.weekndlabs.com/docs) · 个人维护 · 中文 README
 
 **为编码 agent 压缩命令输出的上下文蒸馏工具**
 

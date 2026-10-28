@@ -1,6 +1,6 @@
 # data-infra/cube-studio
 
-⭐ 2,574 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/data-infra/cube-studio) · [官网](https://cubestudio.vip) · 组织维护 · 中文 README
+⭐ 2,579 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/data-infra/cube-studio) · [官网](https://cubestudio.vip) · 组织维护 · 中文 README
 
 **面向企业私有化部署的一站式云原生 AI/MLOps/MaaS 平台**
 

@@ -1,6 +1,6 @@
 # Krilliac/SparkEngine
 
-⭐ 33 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Krilliac/SparkEngine) · 个人维护
+⭐ 34 · C++ · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Krilliac/SparkEngine) · 个人维护
 
 **源码可得的 C++23 3D 游戏引擎，面向 FPS 及多类型游戏开发**
 

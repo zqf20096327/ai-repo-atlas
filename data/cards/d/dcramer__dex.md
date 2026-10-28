@@ -1,6 +1,6 @@
 # dcramer/dex
 
-⭐ 386 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/dcramer/dex) · [官网](https://dex.rip) · 个人维护
+⭐ 390 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/dcramer/dex) · [官网](https://dex.rip) · 个人维护
 
 **给 AI agent 的结构化任务追踪工具，提供跨会话持久记忆**
 

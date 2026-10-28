@@ -1,6 +1,6 @@
 # royerlab/napari-mcp
 
-⭐ 46 · Python · BSD-3-Clause · 推送 2026-03-25 · [GitHub](https://github.com/royerlab/napari-mcp) · [官网](https://royerlab.github.io/napari-mcp/) · 组织维护
+⭐ 47 · Python · BSD-3-Clause · 推送 2026-03-25 · [GitHub](https://github.com/royerlab/napari-mcp) · [官网](https://royerlab.github.io/napari-mcp/) · 组织维护
 
 **通过 MCP 让 LLM 远程控制 napari 图像查看器的服务器**
 

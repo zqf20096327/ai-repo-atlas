@@ -1,6 +1,6 @@
 # gabrielmaialva33/winx-code-agent
 
-⭐ 38 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gabrielmaialva33/winx-code-agent) · [官网](https://crates.io/crates/winx-code-agent) · 个人维护 · 中文 README
+⭐ 38 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gabrielmaialva33/winx-code-agent) · [官网](https://crates.io/crates/winx-code-agent) · 个人维护 · 中文 README
 
 **Rust 编写的 MCP 运行时：给 AI 编码代理提供持久 shell 与文件编辑**
 

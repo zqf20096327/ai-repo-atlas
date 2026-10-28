@@ -1,6 +1,6 @@
 # ggml-org/ggml
 
-⭐ 15,544 · C++ · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
+⭐ 15,550 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/ggml) · [官网](https://github.com/ggml-org) · 组织维护
 
 **面向机器学习的 C/C++ 张量计算库**
 

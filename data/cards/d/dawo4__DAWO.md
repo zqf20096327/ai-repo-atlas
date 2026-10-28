@@ -1,6 +1,6 @@
 # dawo4/DAWO
 
-⭐ 23 · Vue · 推送 2026-10-18 · [GitHub](https://github.com/dawo4/DAWO) · [官网](https://github.com/dawo4/DAWO/releases) · 个人维护 · 中文 README
+⭐ 22 · Vue · 推送 2026-10-18 · [GitHub](https://github.com/dawo4/DAWO) · [官网](https://github.com/dawo4/DAWO/releases) · 个人维护 · 中文 README
 
 **面向长篇网文作者的本地优先 AI 写作桌面软件**
 

@@ -1,6 +1,6 @@
 # AskTheWay/dsh-jev-interceptor
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AskTheWay/dsh-jev-interceptor) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AskTheWay/dsh-jev-interceptor) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Jev 决策模型安全插件：毫秒级工具调用风险分级**
 

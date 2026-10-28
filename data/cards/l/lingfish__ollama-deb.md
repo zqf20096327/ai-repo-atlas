@@ -1,6 +1,6 @@
 # lingfish/ollama-deb
 
-⭐ 21 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lingfish/ollama-deb) · 个人维护
+⭐ 22 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lingfish/ollama-deb) · 个人维护
 
 **为 ollama 构建 Debian 软件包的 APT 仓库**
 

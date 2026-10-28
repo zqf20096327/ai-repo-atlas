@@ -1,6 +1,6 @@
 # mrobinson2/AzureAgentForge
 
-⭐ 24 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mrobinson2/AzureAgentForge) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mrobinson2/AzureAgentForge) · 个人维护
 
 **自托管多 Agent 平台的 Azure 部署基座：编排+运行时+记忆+成本治理**
 

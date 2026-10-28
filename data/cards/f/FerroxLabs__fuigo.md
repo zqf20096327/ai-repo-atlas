@@ -1,6 +1,6 @@
 # FerroxLabs/fuigo
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/FerroxLabs/fuigo) · [官网](https://www.npmjs.com/package/fuigo) · 组织维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/FerroxLabs/fuigo) · [官网](https://www.npmjs.com/package/fuigo) · 组织维护
 
 **开源编码 agent：任意模型、沙箱化、可脚本化可嵌入**
 

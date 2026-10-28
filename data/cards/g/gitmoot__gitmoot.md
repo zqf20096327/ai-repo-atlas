@@ -1,6 +1,6 @@
 # gitmoot/gitmoot
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gitmoot/gitmoot) · [官网](https://gitmoot.io/) · 组织维护
+⭐ 24 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gitmoot/gitmoot) · [官网](https://gitmoot.io/) · 组织维护
 
 **本地优先的多 agent 协调层：用 GitHub PR 工作流驱动 agent 运行时**
 

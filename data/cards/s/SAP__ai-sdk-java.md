@@ -1,6 +1,6 @@
 # SAP/ai-sdk-java
 
-⭐ 44 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SAP/ai-sdk-java) · 组织维护
+⭐ 44 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SAP/ai-sdk-java) · 组织维护
 
 **面向 Java 应用接入 SAP AI Core 的官方 SDK**
 

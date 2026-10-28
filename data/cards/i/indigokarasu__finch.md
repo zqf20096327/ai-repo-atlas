@@ -1,6 +1,6 @@
 # indigokarasu/finch
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/indigokarasu/finch) · [官网](https://github.com/indigokarasu/ocas-finch) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/indigokarasu/finch) · [官网](https://github.com/indigokarasu/ocas-finch) · 个人维护
 
 **为 Hermes Agent 挖掘会话历史、自动改进技能与记忆的编排器**
 

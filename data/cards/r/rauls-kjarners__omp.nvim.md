@@ -1,6 +1,6 @@
 # rauls-kjarners/omp.nvim
 
-⭐ 25 · Lua · MIT · 推送 2026-09-24 · [GitHub](https://github.com/rauls-kjarners/omp.nvim) · 个人维护
+⭐ 26 · Lua · MIT · 推送 2026-09-24 · [GitHub](https://github.com/rauls-kjarners/omp.nvim) · 个人维护
 
 **Neovim 与 OMP 编码代理的上下文桥接插件**
 

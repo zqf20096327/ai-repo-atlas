@@ -1,6 +1,6 @@
 # SylphxAI/anymd
 
-⭐ 1,054 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://sylphxai.github.io/anymd/) · 组织维护
+⭐ 1,057 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://sylphxai.github.io/anymd/) · 组织维护
 
 **本地多格式文档转 Markdown 的 Rust MCP 服务器与 CLI**
 

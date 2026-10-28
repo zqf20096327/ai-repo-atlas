@@ -1,6 +1,6 @@
 # carlassmann/tilly
 
-⭐ 65 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/carlassmann/tilly) · [官网](https://tilly.social) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/carlassmann/tilly) · [官网](https://tilly.social) · 个人维护
 
 **带 AI 助手的关系记录本地优先 PWA 日记应用**
 

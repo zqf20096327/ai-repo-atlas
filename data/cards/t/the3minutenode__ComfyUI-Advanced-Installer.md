@@ -1,6 +1,6 @@
 # the3minutenode/ComfyUI-Advanced-Installer
 
-⭐ 29 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/the3minutenode/ComfyUI-Advanced-Installer) · 个人维护
+⭐ 30 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/the3minutenode/ComfyUI-Advanced-Installer) · 个人维护
 
 **Windows 一键便携版 ComfyUI 安装器（Python 3.13 + CUDA 13）**
 

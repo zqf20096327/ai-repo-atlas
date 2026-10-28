@@ -1,6 +1,6 @@
 # a2sys-ai/jevfetch
 
-⭐ 42 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a2sys-ai/jevfetch) · 组织维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a2sys-ai/jevfetch) · 组织维护 · 中文 README
 
 **给编码代理的网页读取工具：按问题逐字返回页面相关片段**
 

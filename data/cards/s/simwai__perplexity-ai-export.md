@@ -1,6 +1,6 @@
 # simwai/perplexity-ai-export
 
-⭐ 60 · TypeScript · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/simwai/perplexity-ai-export) · 个人维护
+⭐ 60 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/simwai/perplexity-ai-export) · 个人维护
 
 **导出 Perplexity 对话历史并构建本地可检索的 RAG 知识库**
 

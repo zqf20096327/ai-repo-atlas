@@ -1,6 +1,6 @@
 # xsoway/codebase-graph-prd-rules
 
-⭐ 38 · HTML · MIT · 推送 2026-09-24 · [GitHub](https://github.com/xsoway/codebase-graph-prd-rules) · [官网](https://xsoway.github.io/codebase-graph-prd-rules/) · 个人维护 · 中文 README
+⭐ 39 · HTML · MIT · 推送 2026-09-24 · [GitHub](https://github.com/xsoway/codebase-graph-prd-rules) · [官网](https://xsoway.github.io/codebase-graph-prd-rules/) · 个人维护 · 中文 README
 
 **把代码库转成可溯源业务规则文档的两个 AI-agent 技能**
 

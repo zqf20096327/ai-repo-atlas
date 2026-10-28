@@ -1,6 +1,6 @@
 # hyper-mcp-rs/hyper-mcp
 
-⭐ 881 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · 组织维护
+⭐ 881 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/hyper-mcp-rs/hyper-mcp) · 组织维护
 
 **通过 WebAssembly 插件扩展能力的 MCP 服务器**
 

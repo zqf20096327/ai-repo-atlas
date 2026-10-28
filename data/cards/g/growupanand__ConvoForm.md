@@ -1,6 +1,6 @@
 # growupanand/ConvoForm
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/growupanand/ConvoForm) · [官网](https://convoform.com) · 个人维护
+⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/growupanand/ConvoForm) · [官网](https://convoform.com) · 个人维护
 
 **把传统表单转成 AI 对话式数据收集的开源表单工具**
 

@@ -1,6 +1,6 @@
 # AttemorySystem/attemory
 
-⭐ 56 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AttemorySystem/attemory) · [官网](https://attemorysystem.github.io/) · 个人维护
+⭐ 57 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AttemorySystem/attemory) · [官网](https://attemorysystem.github.io/) · 个人维护
 
 **面向 AI agent 的注意力式语义检索引擎：长记忆与代码检索**
 

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo-Avatar
 
-⭐ 2,189 · Python · NOASSERTION · 推送 2025-12-16 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) · 组织维护 · 中文 README
+⭐ 2,191 · Python · NOASSERTION · 推送 2025-12-16 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) · 组织维护 · 中文 README
 
 **音频驱动的人物动画视频生成模型，支持多角色对话**
 

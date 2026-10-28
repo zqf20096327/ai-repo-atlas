@@ -1,6 +1,6 @@
 # zapplyjobs/awesome-ml-internships-2027
 
-⭐ 463 · 推送 2026-10-27 · [GitHub](https://github.com/zapplyjobs/awesome-ml-internships-2027) · [官网](https://softwarejobs.dev/?ref=gh-awesome-ml-internships) · 组织维护
+⭐ 463 · 推送 2026-10-28 · [GitHub](https://github.com/zapplyjobs/awesome-ml-internships-2027) · [官网](https://softwarejobs.dev/?ref=gh-awesome-ml-internships) · 组织维护
 
 **面向学生的 AI/ML 实习职位聚合清单（Zapply 管道刷新）**
 

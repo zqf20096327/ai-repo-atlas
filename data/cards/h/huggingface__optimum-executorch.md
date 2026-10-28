@@ -1,6 +1,6 @@
 # huggingface/optimum-executorch
 
-⭐ 142 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/optimum-executorch) · [官网](https://huggingface.co/docs/optimum-executorch/en/index) · 组织维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/optimum-executorch) · [官网](https://huggingface.co/docs/optimum-executorch/en/index) · 组织维护
 
 **把 Hugging Face 模型转换为 ExecuTorch 格式以部署到边缘设备**
 

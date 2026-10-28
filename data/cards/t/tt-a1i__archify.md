@@ -1,6 +1,6 @@
 # tt-a1i/archify
 
-⭐ 90,353 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
+⭐ 90,932 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
 **给编码 Agent 的交互式图表生成技能，将描述或代码库转为可交互 HTML**
 

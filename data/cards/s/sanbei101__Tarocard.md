@@ -1,6 +1,6 @@
 # sanbei101/Tarocard
 
-⭐ 54 · Vue · 推送 2026-10-26 · [GitHub](https://github.com/sanbei101/Tarocard) · [官网](https://tarocard.pages.dev) · 个人维护 · 中文 README
+⭐ 53 · Vue · 推送 2026-10-26 · [GitHub](https://github.com/sanbei101/Tarocard) · [官网](https://tarocard.pages.dev) · 个人维护 · 中文 README
 
 **给塔罗牌爱好者的 Vue 3 塔罗牌 AI 预测趣味应用**
 

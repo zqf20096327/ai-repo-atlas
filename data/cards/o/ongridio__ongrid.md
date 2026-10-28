@@ -1,6 +1,6 @@
 # ongridio/ongrid
 
-⭐ 1,239 · Go · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
+⭐ 1,240 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
 
 **面向运维团队的 AI Agent：从 IM 触发根因分析与修复**
 

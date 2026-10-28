@@ -1,6 +1,6 @@
 # AIGNE-io/aigne-framework
 
-⭐ 369 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/AIGNE-io/aigne-framework) · [官网](https://aigne.io/framework) · 组织维护
+⭐ 370 · TypeScript · NOASSERTION · 推送 2026-01-25 · [GitHub](https://github.com/AIGNE-io/aigne-framework) · [官网](https://aigne.io/framework) · 组织维护
 
 **TypeScript 函数式 AI Agent 开发框架，用于构建 LLM 应用**
 

@@ -1,6 +1,6 @@
 # SubmitGame/awesome-ai-game-dev-tools
 
-⭐ 62 · Python · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/SubmitGame/awesome-ai-game-dev-tools) · [官网](https://submitgame.github.io/awesome-ai-game-dev-tools/) · 组织维护
+⭐ 65 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/SubmitGame/awesome-ai-game-dev-tools) · [官网](https://submitgame.github.io/awesome-ai-game-dev-tools/) · 组织维护
 
 **开源 AI 游戏开发与逆向工具策展清单（150 条活跃工具）**
 

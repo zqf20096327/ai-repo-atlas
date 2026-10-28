@@ -1,6 +1,6 @@
 # google/jaxopt
 
-⭐ 1,067 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/google/jaxopt) · [官网](https://jaxopt.github.io) · 组织维护
+⭐ 1,067 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/jaxopt) · [官网](https://jaxopt.github.io) · 组织维护
 
 **JAX 生态的硬件加速、可批处理、可微分优化器库（已停维）**
 

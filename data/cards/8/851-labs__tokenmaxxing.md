@@ -1,6 +1,6 @@
 # 851-labs/tokenmaxxing
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/851-labs/tokenmaxxing) · [官网](https://tokenmaxxing.sh) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/851-labs/tokenmaxxing) · [官网](https://tokenmaxxing.sh) · 组织维护
 
 **本地 CLI：汇总编码 agent 的 token 用量并同步到公开排行榜**
 

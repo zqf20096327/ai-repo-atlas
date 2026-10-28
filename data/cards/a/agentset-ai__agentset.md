@@ -1,6 +1,6 @@
 # agentset-ai/agentset
 
-⭐ 2,115 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/agentset-ai/agentset) · [官网](https://agentset.ai) · 组织维护
+⭐ 2,115 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/agentset-ai/agentset) · [官网](https://agentset.ai) · 组织维护
 
 **开源 RAG 平台：构建、评测与部署生产级 RAG/Agent 应用**
 

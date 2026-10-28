@@ -1,6 +1,6 @@
 # VictorButoi/FleXray
 
-⭐ 106 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/VictorButoi/FleXray) · [官网](https://flexray.csail.mit.edu/) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/VictorButoi/FleXray) · [官网](https://flexray.csail.mit.edu/) · 组织维护
 
 **通用临床 X 光解剖分割模型：CLI/Python/MCP 三种入口**
 

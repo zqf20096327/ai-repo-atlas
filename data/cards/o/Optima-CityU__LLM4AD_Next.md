@@ -1,6 +1,6 @@
 # Optima-CityU/LLM4AD_Next
 
-⭐ 681 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [官网](https://llm4ad-next.cn) · 组织维护 · 中文 README
+⭐ 683 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [官网](https://llm4ad-next.cn) · 组织维护 · 中文 README
 
 **用 LLM 与进化搜索自动设计算法的平台，一条命令生成可运行搜索**
 

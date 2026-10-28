@@ -1,6 +1,6 @@
 # runify-dev/runify
 
-⭐ 38 · Java · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/runify-dev/runify) · [官网](https://runify.cn) · 组织维护 · 中文 README
+⭐ 39 · Java · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/runify-dev/runify) · [官网](https://runify.cn) · 组织维护 · 中文 README
 
 **轻量白盒多智能体平台：可视化编排工作流与知识库**
 

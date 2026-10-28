@@ -1,6 +1,6 @@
 # Vepricov/claude-brainlab
 
-⭐ 34 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Vepricov/claude-brainlab) · [官网](https://vepricov.github.io/claude-brainlab/lab-showcase/) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Vepricov/claude-brainlab) · [官网](https://vepricov.github.io/claude-brainlab/lab-showcase/) · 组织维护
 
 **研究实验室的 Claude Code 配置包：67 个技能+钩子+git 知识库**
 

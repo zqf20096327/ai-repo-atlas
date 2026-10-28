@@ -1,6 +1,6 @@
 # Orange-OpenSource/Cool-Chic
 
-⭐ 242 · Python · BSD-3-Clause · 推送 2026-07-17 · [GitHub](https://github.com/Orange-OpenSource/Cool-Chic) · [官网](https://orange-opensource.github.io/Cool-Chic/) · 组织维护
+⭐ 243 · Python · BSD-3-Clause · 推送 2026-07-17 · [GitHub](https://github.com/Orange-OpenSource/Cool-Chic) · [官网](https://orange-opensource.github.io/Cool-Chic/) · 组织维护
 
 **低复杂度神经图像/视频编解码器，基于过拟合实现压缩**
 

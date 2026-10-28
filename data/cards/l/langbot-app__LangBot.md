@@ -1,6 +1,6 @@
 # langbot-app/LangBot
 
-⭐ 18,529 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
+⭐ 18,560 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/langbot-app/LangBot) · [官网](https://space.langbot.app/cloud) · 组织维护 · 中文 README
 
 **给开发者的多平台 IM 聊天机器人开发与运行平台**
 

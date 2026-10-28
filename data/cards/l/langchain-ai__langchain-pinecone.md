@@ -1,6 +1,6 @@
 # langchain-ai/langchain-pinecone
 
-⭐ 28 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-pinecone) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-pinecone) · 组织维护
 
 **Pinecone 向量数据库的 LangChain 官方集成包**
 

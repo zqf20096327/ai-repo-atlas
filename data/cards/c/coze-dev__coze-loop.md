@@ -1,6 +1,6 @@
 # coze-dev/coze-loop
 
-⭐ 5,790 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/coze-dev/coze-loop) · 组织维护 · 中文 README
+⭐ 5,791 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/coze-dev/coze-loop) · 组织维护 · 中文 README
 
 **面向开发者的 AI Agent 全生命周期管理平台（开发/调试/评测/监控）**
 

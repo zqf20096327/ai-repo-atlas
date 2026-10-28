@@ -1,6 +1,6 @@
 # easystats/performance
 
-⭐ 1,162 · R · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
+⭐ 1,162 · R · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
 
 **R 回归模型质量与性能指标计算包（R2/ICC/AIC/诊断）**
 

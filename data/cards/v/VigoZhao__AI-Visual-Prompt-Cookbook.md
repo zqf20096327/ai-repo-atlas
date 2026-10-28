@@ -1,6 +1,6 @@
 # VigoZhao/AI-Visual-Prompt-Cookbook
 
-⭐ 812 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) · [官网](https://prompts.vigocreativeai.com/site/) · 个人维护 · 中文 README
+⭐ 817 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) · [官网](https://prompts.vigocreativeai.com/site/) · 个人维护 · 中文 README
 
 **AI 图像风格提示词库：172 个即插即用 style.json**
 

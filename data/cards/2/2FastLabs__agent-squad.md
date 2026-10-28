@@ -1,6 +1,6 @@
 # 2FastLabs/agent-squad
 
-⭐ 7,795 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/2FastLabs/agent-squad) · [官网](https://2fastlabs.github.io/agent-squad/) · 组织维护
+⭐ 7,796 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/2FastLabs/agent-squad) · [官网](https://2fastlabs.github.io/agent-squad/) · 组织维护
 
 **多 AI agent 编排框架：路由查询至专属 agent 并维护上下文**
 

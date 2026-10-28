@@ -1,6 +1,6 @@
 # aloth/overleaf-skill
 
-⭐ 23 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aloth/overleaf-skill) · 个人维护
+⭐ 24 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aloth/overleaf-skill) · 个人维护
 
 **让 AI 助手管理 Overleaf LaTeX 项目的 Agent 技能与 CLI**
 

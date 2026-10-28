@@ -1,6 +1,6 @@
 # WTM30124/XHSWork
 
-⭐ 30 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/WTM30124/XHSWork) · [官网](https://www.xhswork.com/) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/WTM30124/XHSWork) · [官网](https://www.xhswork.com/) · 个人维护 · 中文 README
 
 **面向小红书创作者的 AI 图文生成 SaaS 平台（可自部署）**
 

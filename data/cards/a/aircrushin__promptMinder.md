@@ -1,6 +1,6 @@
 # aircrushin/promptMinder
 
-⭐ 113 · JavaScript · 推送 2026-10-23 · [GitHub](https://github.com/aircrushin/promptMinder) · [官网](https://prompt-minder.com) · 个人维护 · 中文 README
+⭐ 113 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/aircrushin/promptMinder) · [官网](https://prompt-minder.com) · 个人维护 · 中文 README
 
 **面向团队的提示词版本管理与协作平台**
 

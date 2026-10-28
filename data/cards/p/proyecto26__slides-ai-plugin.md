@@ -1,6 +1,6 @@
 # proyecto26/slides-ai-plugin
 
-⭐ 41 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/proyecto26/slides-ai-plugin) · [官网](https://proyecto26.com/slides-ai-plugin/) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-04-13 · [GitHub](https://github.com/proyecto26/slides-ai-plugin) · [官网](https://proyecto26.com/slides-ai-plugin/) · 组织维护
 
 **Claude Code 幻灯片生成技能插件：一句话产出动画 HTML 或可编辑 PPTX**
 

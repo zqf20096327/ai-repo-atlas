@@ -1,6 +1,6 @@
 # stfurkan/bitgpu
 
-⭐ 29 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/stfurkan/bitgpu) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/stfurkan/bitgpu) · 个人维护
 
 **浏览器端 1-bit LLM 的 WebGPU 推理运行时**
 

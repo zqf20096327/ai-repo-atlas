@@ -1,6 +1,6 @@
 # regaan/basilisk
 
-⭐ 76 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/regaan/basilisk) · [官网](https://basilisk.rothackers.com) · 个人维护
+⭐ 78 · Python · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/regaan/basilisk) · [官网](https://basilisk.rothackers.com) · 个人维护
 
 **AI 红队测试框架：用遗传算法演化对抗提示词评估 LLM 安全性**
 

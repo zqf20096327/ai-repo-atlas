@@ -1,6 +1,6 @@
 # sema-lisp/sema
 
-⭐ 56 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sema-lisp/sema) · [官网](https://sema-lang.com/) · 组织维护
+⭐ 57 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sema-lisp/sema) · [官网](https://sema-lang.com/) · 组织维护
 
 **内置 LLM 原语的 Lisp 语言，供开发者构建 agent 脚本**
 

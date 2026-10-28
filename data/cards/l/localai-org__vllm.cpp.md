@@ -1,6 +1,6 @@
 # localai-org/vllm.cpp
 
-⭐ 461 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/localai-org/vllm.cpp) · 组织维护
+⭐ 466 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/localai-org/vllm.cpp) · 组织维护
 
 **C++20 实现的 vLLM 式本地推理引擎，无 Python 依赖**
 

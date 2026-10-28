@@ -1,6 +1,6 @@
 # unrealandychan/learn-python-with-ai
 
-⭐ 31 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/unrealandychan/learn-python-with-ai) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-05-15 · [GitHub](https://github.com/unrealandychan/learn-python-with-ai) · 个人维护 · 中文 README
 
 **面向 AI 应用开发的 Python 自学课程（75 课）**
 

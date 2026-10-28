@@ -1,6 +1,6 @@
 # yxw007/vscode-translate-next
 
-⭐ 76 · CSS · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yxw007/vscode-translate-next) · 个人维护 · 中文 README
+⭐ 76 · CSS · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yxw007/vscode-translate-next) · 个人维护 · 中文 README
 
 **面向开发者的多引擎 VS Code 翻译插件**
 

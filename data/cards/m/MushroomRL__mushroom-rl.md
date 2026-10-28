@@ -1,6 +1,6 @@
 # MushroomRL/mushroom-rl
 
-⭐ 945 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MushroomRL/mushroom-rl) · 组织维护
+⭐ 944 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MushroomRL/mushroom-rl) · 组织维护
 
 **模块化强化学习 Python 库：提供经典与深度 RL 算法做实验**
 

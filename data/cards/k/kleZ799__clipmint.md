@@ -1,6 +1,6 @@
 # kleZ799/clipmint
 
-⭐ 22 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/kleZ799/clipmint) · [官网](https://klez799.github.io/clipmint/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/kleZ799/clipmint) · [官网](https://klez799.github.io/clipmint/) · 个人维护
 
 **本地运行的长视频转竖屏短视频 AI 剪辑生成器**
 

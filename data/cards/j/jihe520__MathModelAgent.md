@@ -1,6 +1,6 @@
 # jihe520/MathModelAgent
 
-⭐ 6,254 · TeX · 推送 2026-10-26 · [GitHub](https://github.com/jihe520/MathModelAgent) · [官网](https://mathmodel.top/home) · 个人维护 · 中文 README
+⭐ 6,258 · TeX · 推送 2026-10-26 · [GitHub](https://github.com/jihe520/MathModelAgent) · [官网](https://mathmodel.top/home) · 个人维护 · 中文 README
 
 **数学建模 Agent & SKILLS：自动建模并生成可提交论文**
 

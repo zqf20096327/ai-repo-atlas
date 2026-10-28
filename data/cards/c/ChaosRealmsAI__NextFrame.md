@@ -1,6 +1,6 @@
 # ChaosRealmsAI/NextFrame
 
-⭐ 24 · Rust · MIT · 推送 2026-04-26 · [GitHub](https://github.com/ChaosRealmsAI/NextFrame) · 组织维护
+⭐ 25 · Rust · MIT · 推送 2026-04-26 · [GitHub](https://github.com/ChaosRealmsAI/NextFrame) · 组织维护
 
 **给 AI/开发者的视频编辑器与运行时：JSON 合成渲染成 MP4**
 

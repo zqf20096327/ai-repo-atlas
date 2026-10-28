@@ -1,6 +1,6 @@
 # lululxvi/deepxde
 
-⭐ 4,491 · Python · LGPL-2.1 · 推送 2026-08-18 · [GitHub](https://github.com/lululxvi/deepxde) · [官网](https://deepxde.readthedocs.io) · 组织维护
+⭐ 4,492 · Python · LGPL-2.1 · 推送 2026-08-18 · [GitHub](https://github.com/lululxvi/deepxde) · [官网](https://deepxde.readthedocs.io) · 组织维护
 
 **科学机器学习库：用 PINN/DeepONet 求解微分方程**
 

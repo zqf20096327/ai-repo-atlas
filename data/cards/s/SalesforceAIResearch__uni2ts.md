@@ -1,6 +1,6 @@
 # SalesforceAIResearch/uni2ts
 
-⭐ 1,616 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/uni2ts) · 组织维护
+⭐ 1,617 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/SalesforceAIResearch/uni2ts) · 组织维护
 
 **时序预测基础模型库：统一预训练、微调与评估 Moirai**
 

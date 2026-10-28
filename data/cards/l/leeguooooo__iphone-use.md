@@ -1,6 +1,6 @@
 # leeguooooo/iphone-use
 
-⭐ 384 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
+⭐ 392 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
 
 **让 AI agent 操作真实 iPhone 的 MCP 工具：读屏、点击、输入、滑动**
 

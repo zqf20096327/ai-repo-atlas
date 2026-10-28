@@ -1,6 +1,6 @@
 # imlewc/video-to-subtitle-summary-skill
 
-⭐ 236 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/imlewc/video-to-subtitle-summary-skill) · [官网](https://top9.cc) · 个人维护 · 中文 README
+⭐ 237 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/imlewc/video-to-subtitle-summary-skill) · [官网](https://top9.cc) · 个人维护 · 中文 README
 
 **视频转字幕并生成 AI 摘要的 Codex/Claude Code Skill**
 

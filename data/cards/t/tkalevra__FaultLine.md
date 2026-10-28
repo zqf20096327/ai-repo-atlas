@@ -1,6 +1,6 @@
 # tkalevra/FaultLine
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tkalevra/FaultLine) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/tkalevra/FaultLine) · 个人维护
 
 **给本地 AI 用的可校验知识图谱记忆层，经 MCP 共享**
 

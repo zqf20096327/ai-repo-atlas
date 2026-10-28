@@ -1,6 +1,6 @@
 # FujitsuResearch/OneCompression
 
-⭐ 443 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
+⭐ 443 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
 
 **面向 LLM 的自动量化压缩 Python 工具包**
 

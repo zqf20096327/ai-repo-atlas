@@ -1,6 +1,6 @@
 # iamarunbrahma/pdf-to-markdown
 
-⭐ 213 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/iamarunbrahma/pdf-to-markdown) · 个人维护
+⭐ 215 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/iamarunbrahma/pdf-to-markdown) · 个人维护
 
 **纯 Python 的 PDF 转 Markdown 结构化提取工具**
 

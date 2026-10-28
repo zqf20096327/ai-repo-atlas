@@ -1,6 +1,6 @@
 # heshengtao/comfyui_LLM_party
 
-⭐ 2,386 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/heshengtao/comfyui_LLM_party) · 个人维护 · 中文 README
+⭐ 2,385 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/heshengtao/comfyui_LLM_party) · 个人维护 · 中文 README
 
 **ComfyUI 里的 LLM 工作流节点集：搭建 Agent/RAG/多模态工作流**
 

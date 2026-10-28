@@ -1,6 +1,6 @@
 # midagedev/bloomery
 
-⭐ 54 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/midagedev/bloomery) · 个人维护
+⭐ 54 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/midagedev/bloomery) · 个人维护
 
 **面向 MoE 模型的 GPU+CPU 混合推理引擎，llama-server 兼容**
 

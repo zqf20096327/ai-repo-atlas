@@ -1,6 +1,6 @@
 # Gen-Verse/Open-AgentRL
 
-⭐ 658 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/Gen-Verse/Open-AgentRL) · [官网](https://arxiv.org/abs/2602.02488) · 组织维护 · 中文 README
+⭐ 659 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/Gen-Verse/Open-AgentRL) · [官网](https://arxiv.org/abs/2602.02488) · 组织维护 · 中文 README
 
 **面向 LLM 与 Agent 场景的开源强化学习训练框架与研究集合**
 

@@ -1,6 +1,6 @@
 # LangLang03/LineCodePro
 
-⭐ 105 · C++ · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/LangLang03/LineCodePro) · 个人维护 · 中文 README
+⭐ 105 · Java · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/LangLang03/LineCodePro) · 个人维护 · 中文 README
 
 **Android 上的原生 AI 编程工作台（C++23/HuxerUI）**
 

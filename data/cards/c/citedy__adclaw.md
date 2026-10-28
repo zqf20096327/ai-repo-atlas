@@ -1,6 +1,6 @@
 # citedy/adclaw
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/citedy/adclaw) · [官网](https://pypi.org/project/adclaw/) · 组织维护 · 中文 README
+⭐ 48 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/citedy/adclaw) · [官网](https://pypi.org/project/adclaw/) · 组织维护 · 中文 README
 
 **面向营销场景的多 agent AI 团队：人格分工+技能+共享记忆**
 

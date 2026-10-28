@@ -1,6 +1,6 @@
 # Hufe921/canvas-editor
 
-⭐ 5,242 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hufe921/canvas-editor) · [官网](https://hufe.club/canvas-editor-docs) · 个人维护 · 中文 README
+⭐ 5,244 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hufe921/canvas-editor) · [官网](https://hufe.club/canvas-editor-docs) · 个人维护 · 中文 README
 
 **基于 Canvas 的浏览器富文本/文档编辑器库，面向开发者**
 

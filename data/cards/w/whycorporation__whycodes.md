@@ -1,6 +1,6 @@
 # whycorporation/whycodes
 
-⭐ 22 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/whycorporation/whycodes) · [官网](https://why.codes) · 组织维护 · 中文 README
+⭐ 23 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/whycorporation/whycodes) · [官网](https://why.codes) · 组织维护 · 中文 README
 
 **Rust 编写的终端编码 agent，支持多模型提供方**
 

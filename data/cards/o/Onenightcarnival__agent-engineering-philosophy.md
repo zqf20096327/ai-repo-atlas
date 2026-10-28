@@ -1,6 +1,6 @@
 # Onenightcarnival/agent-engineering-philosophy
 
-⭐ 123 · Shell · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/Onenightcarnival/agent-engineering-philosophy) · [官网](https://onenightcarnival.github.io/agent-engineering-philosophy/) · 个人维护 · 中文 README
+⭐ 124 · Shell · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/Onenightcarnival/agent-engineering-philosophy) · [官网](https://onenightcarnival.github.io/agent-engineering-philosophy/) · 个人维护 · 中文 README
 
 **把 agent 视作打工人的 AI 工程哲学书籍（写作中）**
 

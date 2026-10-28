@@ -1,6 +1,6 @@
 # simpx/loopat
 
-⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/simpx/loopat) · 个人维护
+⭐ 84 · TypeScript · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/simpx/loopat) · 个人维护
 
 **自托管 AI 工作区：围绕上下文管理单人/团队协作的 agent 平台**
 

@@ -1,6 +1,6 @@
 # zhanglongxiao111/indesign-cli
 
-⭐ 59 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zhanglongxiao111/indesign-cli) · [官网](https://github.com/zhanglongxiao111/indesign-cli/releases/latest) · 个人维护 · 中文 README
+⭐ 60 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/zhanglongxiao111/indesign-cli) · [官网](https://github.com/zhanglongxiao111/indesign-cli/releases/latest) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 CLI 直接操作 Adobe InDesign 的工具桥**
 

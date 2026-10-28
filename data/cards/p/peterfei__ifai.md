@@ -1,6 +1,6 @@
 # peterfei/ifai
 
-⭐ 99 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/peterfei/ifai) · [官网](https://docs.ifai.today) · 个人维护 · 中文 README
+⭐ 100 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/peterfei/ifai) · [官网](https://docs.ifai.today) · 个人维护 · 中文 README
 
 **面向开发者的 AI Agent 编排助手与代码编辑器（Tauri 2.0）**
 

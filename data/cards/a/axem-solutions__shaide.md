@@ -1,6 +1,6 @@
 # axem-solutions/shaide
 
-⭐ 42 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/axem-solutions/shaide) · [官网](https://www.axem.dev/) · 组织维护
+⭐ 42 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/axem-solutions/shaide) · [官网](https://www.axem.dev/) · 组织维护
 
 **面向企业的自托管分布式多模型 LLM 推理平台**
 

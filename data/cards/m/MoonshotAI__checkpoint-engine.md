@@ -1,6 +1,6 @@
 # MoonshotAI/checkpoint-engine
 
-⭐ 1,018 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MoonshotAI/checkpoint-engine) · 组织维护 · 中文 README
+⭐ 1,019 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MoonshotAI/checkpoint-engine) · 组织维护 · 中文 README
 
 **LLM 推理引擎的模型权重热更新中间件，面向强化学习场景**
 

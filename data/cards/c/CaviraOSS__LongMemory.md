@@ -1,6 +1,6 @@
 # CaviraOSS/LongMemory
 
-⭐ 4,547 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CaviraOSS/LongMemory) · [官网](https://cavira.app/projects/longmemory) · 组织维护
+⭐ 4,548 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/CaviraOSS/LongMemory) · [官网](https://cavira.app/projects/longmemory) · 组织维护
 
 **面向 LLM 应用与 agent 的本地持久记忆引擎（存储/检索）**
 

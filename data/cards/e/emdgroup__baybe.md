@@ -1,6 +1,6 @@
 # emdgroup/baybe
 
-⭐ 521 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/emdgroup/baybe) · [官网](https://emdgroup.github.io/baybe/) · 组织维护
+⭐ 522 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/emdgroup/baybe) · [官网](https://emdgroup.github.io/baybe/) · 组织维护
 
 **面向实验人员的贝叶斯实验设计与优化 Python 工具箱**
 

@@ -1,6 +1,6 @@
 # whirlchat/whirl
 
-⭐ 508 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/whirlchat/whirl) · [官网](https://whirl.chat) · 组织维护
+⭐ 510 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/whirlchat/whirl) · [官网](https://whirl.chat) · 组织维护
 
 **可自托管的全栈 AI 聊天应用：多模型、长期记忆、活文档**
 

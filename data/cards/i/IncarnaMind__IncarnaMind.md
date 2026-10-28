@@ -1,6 +1,6 @@
 # IncarnaMind/IncarnaMind
 
-⭐ 847 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
+⭐ 847 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 写作与文档问答应用，引用逐句核验**
 

@@ -1,6 +1,6 @@
 # yuanzhoucq/Tab-Space
 
-⭐ 113 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/yuanzhoucq/Tab-Space) · [官网](https://mytab.space) · 个人维护 · 中文 README
+⭐ 113 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/yuanzhoucq/Tab-Space) · [官网](https://mytab.space) · 个人维护 · 中文 README
 
 **Mac 原生的浏览器标签页保存与恢复应用（开源 web 侧代码）**
 

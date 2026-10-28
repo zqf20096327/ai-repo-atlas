@@ -1,6 +1,6 @@
 # cisco-ai-defense/mcp-scanner
 
-⭐ 1,099 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cisco-ai-defense/mcp-scanner) · [官网](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner) · 组织维护
+⭐ 1,100 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cisco-ai-defense/mcp-scanner) · [官网](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner) · 组织维护
 
 **扫描 MCP 服务器与工具安全风险的 Python 安全工具**
 

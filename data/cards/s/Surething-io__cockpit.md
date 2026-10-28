@@ -1,6 +1,6 @@
 # Surething-io/cockpit
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Surething-io/cockpit) · [官网](https://opencockpit.dev) · 组织维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Surething-io/cockpit) · [官网](https://opencockpit.dev) · 组织维护 · 中文 README
 
 **开源的通用 Claude Code GUI/IDE，多引擎多项目并行的 AI 编码工作台**
 

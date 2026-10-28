@@ -1,6 +1,6 @@
 # rdk/p2rank
 
-⭐ 469 · Groovy · MIT · 推送 2026-09-11 · [GitHub](https://github.com/rdk/p2rank) · 组织维护
+⭐ 470 · Groovy · MIT · 推送 2026-09-11 · [GitHub](https://github.com/rdk/p2rank) · 组织维护
 
 **从蛋白质结构预测配体结合位点的命令行机器学习工具**
 

@@ -1,6 +1,6 @@
 # Br1an67/OpenJobAutofill
 
-⭐ 123 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Br1an67/OpenJobAutofill) · 个人维护 · 中文 README
+⭐ 124 · JavaScript · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Br1an67/OpenJobAutofill) · 个人维护 · 中文 README
 
 **隐私优先的网申表单自动填写浏览器扩展，AI 可选辅助字段理解**
 

@@ -1,6 +1,6 @@
 # SchBenedikt/face
 
-⭐ 25 · Python · 推送 2025-12-06 · [GitHub](https://github.com/SchBenedikt/face) · [官网](https://dev.to/techtech/face-recognition-system-that-actually-works-453e) · 个人维护
+⭐ 26 · Python · 推送 2025-12-06 · [GitHub](https://github.com/SchBenedikt/face) · [官网](https://dev.to/techtech/face-recognition-system-that-actually-works-453e) · 个人维护
 
 **本地人脸检测与识别搜索系统，以图搜相似人脸**
 

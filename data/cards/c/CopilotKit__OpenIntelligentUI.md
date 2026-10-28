@@ -1,6 +1,6 @@
 # CopilotKit/OpenIntelligentUI
 
-⭐ 4,002 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
+⭐ 4,032 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/CopilotKit/OpenIntelligentUI) · [官网](https://opengenerativeui.copilotkit.ai/) · 组织维护
 
 **开源生成式 UI 聊天框架：把问题变成可交互的解释与工具**
 

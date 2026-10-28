@@ -1,6 +1,6 @@
 # lhlizdabezt/NhapMonAI
 
-⭐ 20 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/lhlizdabezt/NhapMonAI) · [官网](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · 个人维护
+⭐ 21 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/lhlizdabezt/NhapMonAI) · [官网](https://github.com/lhlizdabezt/NhapMonAI/releases/latest) · 个人维护
 
 **越南车牌识别学术原型：YOLO 检测 + OCR 桌面推理**
 

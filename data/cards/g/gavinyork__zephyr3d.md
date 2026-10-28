@@ -1,6 +1,6 @@
 # gavinyork/zephyr3d
 
-⭐ 140 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gavinyork/zephyr3d) · [官网](https://zephyr3d.org) · 个人维护 · 中文 README
+⭐ 140 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gavinyork/zephyr3d) · [官网](https://zephyr3d.org) · 个人维护 · 中文 README
 
 **面向浏览器的 TypeScript 3D 渲染引擎，带可视化编辑器**
 

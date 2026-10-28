@@ -1,6 +1,6 @@
 # regolo-ai/awesome-regolo-ai
 
-⭐ 22 · 推送 2026-09-29 · [GitHub](https://github.com/regolo-ai/awesome-regolo-ai) · [官网](https://regolo.ai) · 组织维护
+⭐ 22 · 推送 2026-10-28 · [GitHub](https://github.com/regolo-ai/awesome-regolo-ai) · [官网](https://regolo.ai) · 组织维护
 
 **Regolo.ai 平台的工具与项目集成清单**
 

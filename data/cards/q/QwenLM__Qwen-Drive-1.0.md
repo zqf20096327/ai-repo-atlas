@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Drive-1.0
 
-⭐ 526 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/QwenLM/Qwen-Drive-1.0) · 组织维护 · 中文 README
+⭐ 532 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/QwenLM/Qwen-Drive-1.0) · 组织维护 · 中文 README
 
 **面向自动驾驶的视觉-语言基础模型：3D 感知、驾驶问答与轨迹规划**
 

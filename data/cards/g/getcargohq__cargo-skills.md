@@ -1,6 +1,6 @@
 # getcargohq/cargo-skills
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/getcargohq/cargo-skills) · [官网](https://getcargo.ai) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/getcargohq/cargo-skills) · [官网](https://getcargo.ai) · 组织维护
 
 **给 AI 编码代理的 19 个 GTM 工程技能包：拓客与销售数据工作流**
 

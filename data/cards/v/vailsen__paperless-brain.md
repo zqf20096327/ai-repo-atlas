@@ -1,6 +1,6 @@
 # vailsen/paperless-brain
 
-⭐ 31 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vailsen/paperless-brain) · [官网](https://github.com/vailsen/paperless-brain#quick-start-docker) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vailsen/paperless-brain) · [官网](https://github.com/vailsen/paperless-brain#quick-start-docker) · 个人维护
 
 **面向 Paperless-ngx 用户：用本地或云端 LLM 与文档档案对话**
 

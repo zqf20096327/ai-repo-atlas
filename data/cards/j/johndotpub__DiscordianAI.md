@@ -1,6 +1,6 @@
 # johndotpub/DiscordianAI
 
-⭐ 26 · Python · Unlicense · 推送 2026-08-03 · [GitHub](https://github.com/johndotpub/DiscordianAI) · [官网](https://github.com/johndotpub/DiscordianAI) · 个人维护
+⭐ 26 · Python · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/johndotpub/DiscordianAI) · [官网](https://github.com/johndotpub/DiscordianAI) · 个人维护
 
 **Discord AI 聊天机器人：OpenAI GPT-5 与 Perplexity 双后端混合路由**
 

@@ -1,6 +1,6 @@
 # rouyang2017/SISSO
 
-⭐ 376 · Fortran · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/rouyang2017/SISSO) · 个人维护
+⭐ 377 · Fortran · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/rouyang2017/SISSO) · 个人维护
 
 **材料科学场景的符号回归+压缩感知建模程序（Fortran/MPI）**
 

@@ -1,6 +1,6 @@
 # nitsan-technologies/ns_t3af
 
-⭐ 25 · PHP · GPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nitsan-technologies/ns_t3af) · [官网](https://t3planet.de/ai-foundation-fur-typo3) · 组织维护
+⭐ 25 · PHP · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nitsan-technologies/ns_t3af) · [官网](https://t3planet.de/ai-foundation-fur-typo3) · 组织维护
 
 **TYPO3 的 AI 基础扩展：内置 MCP 服务器与多 LLM 管理**
 

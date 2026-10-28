@@ -1,6 +1,6 @@
 # OWASP/www-project-top-10-for-large-language-model-applications
 
-⭐ 1,469 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) · [官网](http://genai.owasp.org) · 组织维护
+⭐ 1,470 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) · [官网](http://genai.owasp.org) · 组织维护
 
 **OWASP LLM 应用 Top 10 安全风险清单的历史归档仓库**
 

@@ -1,6 +1,6 @@
 # kaorii-ako/Shiori-v1
 
-⭐ 46 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/kaorii-ako/Shiori-v1) · [官网](https://shiori-v1.vercel.app) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/kaorii-ako/Shiori-v1) · [官网](https://shiori-v1.vercel.app) · 个人维护
 
 **面向学生的学习伴侣应用：测验、闪卡、成绩追踪与 AI 学习规划**
 

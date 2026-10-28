@@ -1,6 +1,6 @@
 # leoncuhk/awesome-quant-ai
 
-⭐ 648 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/leoncuhk/awesome-quant-ai) · 个人维护
+⭐ 649 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/leoncuhk/awesome-quant-ai) · 个人维护
 
 **AI/ML 量化投资与交易策略的资源策展清单**
 

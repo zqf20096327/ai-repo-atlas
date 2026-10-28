@@ -1,6 +1,6 @@
 # pacocartones/free-llm-api-hub
 
-⭐ 109 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 组织维护
+⭐ 110 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 组织维护
 
 **持续验证的免费 LLM API 数据集：供开发者选型免费模型 API**
 

@@ -1,6 +1,6 @@
 # gologinapp/gologin-mcp
 
-⭐ 23 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/gologinapp/gologin-mcp) · [官网](gologin.com) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/gologinapp/gologin-mcp) · [官网](gologin.com) · 组织维护
 
 **通过 AI 对话管理 GoLogin 浏览器配置文件的 MCP 服务器**
 

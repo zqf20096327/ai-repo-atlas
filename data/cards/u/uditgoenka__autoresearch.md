@@ -1,6 +1,6 @@
 # uditgoenka/autoresearch
 
-⭐ 6,767 · Shell · MIT · 推送 2026-08-12 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
+⭐ 6,768 · Shell · MIT · 推送 2026-08-12 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
 
 **让 Claude Code/OpenCode/Codex 自主迭代改进代码的技能包**
 

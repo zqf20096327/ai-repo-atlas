@@ -1,6 +1,6 @@
 # bhensley5/overgraph
 
-⭐ 59 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/bhensley5/overgraph) · [官网](https://overgraph.io) · 个人维护
+⭐ 59 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bhensley5/overgraph) · [官网](https://overgraph.io) · 个人维护
 
 **进程内嵌入式图数据库，内置稠密/稀疏向量检索，面向 Agent 记忆与 Graph RAG**
 

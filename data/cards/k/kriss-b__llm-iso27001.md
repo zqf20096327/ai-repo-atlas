@@ -1,6 +1,6 @@
 # kriss-b/llm-iso27001
 
-⭐ 63 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/kriss-b/llm-iso27001) · 个人维护
+⭐ 63 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kriss-b/llm-iso27001) · 个人维护
 
 **供 LLM Agent 克隆并运营的 ISO 27001 信息安全管理体系模板**
 

@@ -1,6 +1,6 @@
 # salesforce/xgen
 
-⭐ 728 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/xgen) · 组织维护
+⭐ 727 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/xgen) · 组织维护
 
 **Salesforce 开源的 7B 长序列 LLM 系列模型（4K/8K 上下文）**
 

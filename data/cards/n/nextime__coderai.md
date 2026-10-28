@@ -1,6 +1,6 @@
 # nextime/coderai
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/nextime/coderai) · [官网](https://aisbf.cloud/coderai/) · 个人维护
+⭐ 26 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/nextime/coderai) · [官网](https://aisbf.cloud/coderai/) · 个人维护
 
 **多后端本地/云端 GPU 模型编排器，暴露 OpenAI 兼容 API**
 

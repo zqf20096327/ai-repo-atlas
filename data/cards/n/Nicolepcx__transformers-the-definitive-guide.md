@@ -1,6 +1,6 @@
 # Nicolepcx/transformers-the-definitive-guide
 
-⭐ 473 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Nicolepcx/transformers-the-definitive-guide) · 个人维护
+⭐ 474 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Nicolepcx/transformers-the-definitive-guide) · 个人维护
 
 **《Transformers: The Definitive Guide》一书配套代码仓库**
 

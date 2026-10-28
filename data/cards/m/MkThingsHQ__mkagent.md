@@ -1,6 +1,6 @@
 # MkThingsHQ/mkagent
 
-⭐ 205 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/MkThingsHQ/mkagent) · [官网](https://mkagent.app) · 个人维护 · 中文 README
+⭐ 206 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/MkThingsHQ/mkagent) · [官网](https://mkagent.app) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 工作台，覆盖桌面/WebUI/CLI**
 

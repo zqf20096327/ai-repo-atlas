@@ -1,6 +1,6 @@
 # classifiedstudentkabir/Sign-Language-Interpreter
 
-⭐ 61 · JavaScript · 推送 2026-02-01 · [GitHub](https://github.com/classifiedstudentkabir/Sign-Language-Interpreter) · [官网](https://classifiedstudentkabir.github.io/Sign-Language-Interpreter/) · 个人维护
+⭐ 62 · JavaScript · 推送 2026-02-01 · [GitHub](https://github.com/classifiedstudentkabir/Sign-Language-Interpreter) · [官网](https://classifiedstudentkabir.github.io/Sign-Language-Interpreter/) · 个人维护
 
 **在浏览器实时识别手语手势并转成文字的网页应用**
 

@@ -1,6 +1,6 @@
 # kejilion/KPanel
 
-⭐ 484 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/kejilion/KPanel) · [官网](https://kpanel.kejilion.sh/) · 个人维护 · 中文 README
+⭐ 487 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/kejilion/KPanel) · [官网](https://kpanel.kejilion.sh/) · 个人维护 · 中文 README
 
 **面向单管理员的 Linux 运维面板，支持多主机管理与 AI 助手**
 

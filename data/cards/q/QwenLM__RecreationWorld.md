@@ -1,6 +1,6 @@
 # QwenLM/RecreationWorld
 
-⭐ 114 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/QwenLM/RecreationWorld) · [官网](https://recreation-bench.cc) · 组织维护 · 中文 README
+⭐ 115 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/QwenLM/RecreationWorld) · [官网](https://recreation-bench.cc) · 组织维护 · 中文 README
 
 **面向混合计算机操作 agent 的五平台可验证评测环境与基准**
 

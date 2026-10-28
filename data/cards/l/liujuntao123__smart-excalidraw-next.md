@@ -1,6 +1,6 @@
 # liujuntao123/smart-excalidraw-next
 
-⭐ 3,548 · JavaScript · 推送 2026-10-12 · [GitHub](https://github.com/liujuntao123/smart-excalidraw-next) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
+⭐ 3,547 · JavaScript · 推送 2026-10-12 · [GitHub](https://github.com/liujuntao123/smart-excalidraw-next) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
 
 **用自然语言生成 Excalidraw 专业图表的 Web 应用**
 

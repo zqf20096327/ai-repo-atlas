@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionERP
 
-⭐ 1,054 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionERP) · [官网](https://openconstructionerp.com) · 组织维护
+⭐ 1,064 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionERP) · [官网](https://openconstructionerp.com) · 组织维护
 
 **自托管建筑造价与项目管理 ERP，带 AI 估价功能**
 

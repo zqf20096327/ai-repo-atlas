@@ -1,6 +1,6 @@
 # Azure-Samples/serverless-chat-langchainjs
 
-⭐ 864 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs) · 组织维护
+⭐ 864 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs) · 组织维护
 
 **Azure 官方的 Serverless RAG 聊天应用示例模板**
 

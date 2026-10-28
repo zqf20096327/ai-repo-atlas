@@ -1,6 +1,6 @@
 # zgs225/pi2.nvim
 
-⭐ 23 · Lua · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zgs225/pi2.nvim) · 个人维护
+⭐ 23 · Lua · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zgs225/pi2.nvim) · 个人维护
 
 **在 Neovim 内使用 pi 编码 agent 的插件（pi.nvim 深度扩展 fork）**
 

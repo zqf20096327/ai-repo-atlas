@@ -1,6 +1,6 @@
 # protocorn/clippy-vision
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/protocorn/clippy-vision) · [官网](https://github.com/protocorn/clippy-vision/releases/latest) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/protocorn/clippy-vision) · [官网](https://github.com/protocorn/clippy-vision/releases/latest) · 个人维护
 
 **本地屏幕活动记录与检索助手，供 MCP 客户端查询**
 

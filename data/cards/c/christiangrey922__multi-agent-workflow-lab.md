@@ -1,6 +1,6 @@
 # christiangrey922/multi-agent-workflow-lab
 
-⭐ 86 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/christiangrey922/multi-agent-workflow-lab) · 个人维护
+⭐ 85 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/christiangrey922/multi-agent-workflow-lab) · 个人维护
 
 **多智能体委派与工作流的开源测试与可观测框架**
 

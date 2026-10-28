@@ -1,6 +1,6 @@
 # ever-works/ever-works
 
-⭐ 182 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ever-works/ever-works) · [官网](https://ever.works) · 组织维护
+⭐ 182 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ever-works/ever-works) · [官网](https://ever.works) · 组织维护
 
 **开源 agentic 运行时：AI agent 自主研究、生成并维护完整业务站点**
 

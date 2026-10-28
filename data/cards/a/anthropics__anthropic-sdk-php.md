@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-php
 
-⭐ 194 · PHP · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
+⭐ 195 · PHP · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
 
 **官方 PHP SDK：在 PHP 应用中访问 Claude API**
 

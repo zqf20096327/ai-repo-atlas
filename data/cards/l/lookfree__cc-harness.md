@@ -1,6 +1,6 @@
 # lookfree/cc-harness
 
-⭐ 49 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/lookfree/cc-harness) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/lookfree/cc-harness) · 个人维护 · 中文 README
 
 **给 Claude Code 用户的桌面观测工作台：可视化子代理拓扑与成本**
 

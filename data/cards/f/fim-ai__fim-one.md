@@ -1,6 +1,6 @@
 # fim-ai/fim-one
 
-⭐ 1,586 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/fim-ai/fim-one) · [官网](https://one.fim.ai) · 组织维护 · 中文 README
+⭐ 1,586 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/fim-ai/fim-one) · [官网](https://one.fim.ai) · 组织维护 · 中文 README
 
 **面向全球化与国内系统互联的自托管一体化 Agent 平台**
 

@@ -1,6 +1,6 @@
 # erayendes/app-store-connect-mcp
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/erayendes/app-store-connect-mcp) · [官网](https://npmjs.com/package/@erayendes/asc-mcp) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/erayendes/app-store-connect-mcp) · [官网](https://npmjs.com/package/@erayendes/asc-mcp) · 个人维护
 
 **为 AI 客户端提供 App Store Connect 全量 API 的本地 MCP 服务器**
 

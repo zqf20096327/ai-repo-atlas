@@ -1,6 +1,6 @@
 # explorium-ai/vibeprospecting-plugin
 
-⭐ 270 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/explorium-ai/vibeprospecting-plugin) · [官网](https://www.vibeprospecting.ai) · 组织维护
+⭐ 275 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/explorium-ai/vibeprospecting-plugin) · [官网](https://www.vibeprospecting.ai) · 组织维护
 
 **面向 AI agent 的 B2B 数据插件：搜索公司与联系人并建线索名单**
 

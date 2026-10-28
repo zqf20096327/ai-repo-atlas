@@ -1,6 +1,6 @@
 # Akxan/ppt-agent-skill
 
-⭐ 166 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Akxan/ppt-agent-skill) · [官网](https://github.com/Akxan/ppt-agent-skill) · 个人维护 · 中文 README
+⭐ 169 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Akxan/ppt-agent-skill) · [官网](https://github.com/Akxan/ppt-agent-skill) · 个人维护 · 中文 README
 
 **Claude Code 技能：把一句话生成专业级演示文稿（HTML+可编辑 PPTX）**
 

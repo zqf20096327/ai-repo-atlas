@@ -1,6 +1,6 @@
 # chrisliu298/awesome-on-policy-distillation
 
-⭐ 898 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-on-policy-distillation) · 个人维护 · 中文 README
+⭐ 900 · CC0-1.0 · 推送 2026-10-06 · [GitHub](https://github.com/chrisliu298/awesome-on-policy-distillation) · 个人维护 · 中文 README
 
 **LLM 在线策略蒸馏（OPD）论文与工具策展清单**
 

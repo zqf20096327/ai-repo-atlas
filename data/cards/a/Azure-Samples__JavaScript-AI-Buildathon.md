@@ -1,6 +1,6 @@
 # Azure-Samples/JavaScript-AI-Buildathon
 
-⭐ 124 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon) · [官网](https://azure-samples.github.io/JavaScript-AI-Buildathon/) · 组织维护
+⭐ 124 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/JavaScript-AI-Buildathon) · [官网](https://azure-samples.github.io/JavaScript-AI-Buildathon/) · 组织维护
 
 **面向 JS/TS 开发者的 AI 实战学习任务集（5 个 Quest）**
 

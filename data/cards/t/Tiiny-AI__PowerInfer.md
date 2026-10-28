@@ -1,6 +1,6 @@
 # Tiiny-AI/PowerInfer
 
-⭐ 9,850 · C++ · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Tiiny-AI/PowerInfer) · 组织维护 · 中文 README
+⭐ 9,853 · C++ · MIT · 推送 2026-05-11 · [GitHub](https://github.com/Tiiny-AI/PowerInfer) · 组织维护 · 中文 README
 
 **消费级单 GPU 上的本地 LLM 高速推理引擎**
 

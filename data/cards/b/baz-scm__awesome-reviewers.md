@@ -1,6 +1,6 @@
 # baz-scm/awesome-reviewers
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/baz-scm/awesome-reviewers) · [官网](https://awesomereviewers.com/) · 组织维护
+⭐ 154 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/baz-scm/awesome-reviewers) · [官网](https://awesomereviewers.com/) · 组织维护
 
 **代码评审系统提示词清单：面向 AI 与基础设施领域**
 

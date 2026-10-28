@@ -1,6 +1,6 @@
 # akshaybabloo/Spikes
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/akshaybabloo/Spikes) · [官网](https://akshaybabloo.github.io/Spikes/) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/akshaybabloo/Spikes) · [官网](https://akshaybabloo.github.io/Spikes/) · 个人维护
 
 **面向 SNN 的时间序列脉冲编码库（TBR/BSA/SF 三种）**
 

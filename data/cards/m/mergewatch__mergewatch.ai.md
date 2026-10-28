@@ -1,6 +1,6 @@
 # mergewatch/mergewatch.ai
 
-⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/mergewatch/mergewatch.ai) · [官网](https://mergewatch.ai) · 组织维护
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mergewatch/mergewatch.ai) · [官网](https://mergewatch.ai) · 组织维护
 
 **自托管的 GitHub App：多 AI agent 并行评审每个 PR**
 

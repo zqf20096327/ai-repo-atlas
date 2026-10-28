@@ -1,6 +1,6 @@
 # rekog-labs/MCP-Nest
 
-⭐ 724 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rekog-labs/MCP-Nest) · 组织维护
+⭐ 725 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rekog-labs/MCP-Nest) · 组织维护
 
 **NestJS 模块：用注解把应用方法暴露为 MCP 服务器**
 

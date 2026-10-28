@@ -1,6 +1,6 @@
 # datawhalechina/easy-vecdb
 
-⭐ 428 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/datawhalechina/easy-vecdb) · [官网](https://datawhalechina.github.io/easy-vecdb/) · 组织维护 · 中文 README
+⭐ 429 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/datawhalechina/easy-vecdb) · [官网](https://datawhalechina.github.io/easy-vecdb/) · 组织维护 · 中文 README
 
 **面向开发者与研究者的向量数据库原理与实践系统教程**
 

@@ -1,6 +1,6 @@
 # daxaur/openpaw
 
-⭐ 173 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/daxaur/openpaw) · [官网](https://www.npmjs.com/package/pawmode) · 个人维护
+⭐ 174 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/daxaur/openpaw) · [官网](https://www.npmjs.com/package/pawmode) · 个人维护
 
 **将 Claude Code 配置为个人助理的安装向导（38 个技能）**
 

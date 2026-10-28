@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-AI-Animation
 
-⭐ 119 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Animation) · [官网](https://ai-game.dev) · 个人维护
+⭐ 120 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-Animation) · [官网](https://ai-game.dev) · 个人维护
 
 **通过 MCP/RQL 用自然语言编辑 Unity 动画与 Animator 的工具包**
 

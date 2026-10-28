@@ -1,6 +1,6 @@
 # timescale/vector-cookbook
 
-⭐ 129 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/timescale/vector-cookbook) · [官网](https://www.timescale.com/ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 PostgreSQL 与 Timescale Vector 构建 LLM 应用的示例代码集**
 

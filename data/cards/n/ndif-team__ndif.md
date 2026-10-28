@@ -1,6 +1,6 @@
 # ndif-team/ndif
 
-⭐ 51 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ndif-team/ndif) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ndif-team/ndif) · 组织维护
 
 **面向可解释性研究的远程模型推理服务端，运行 nnsight 干预实验**
 

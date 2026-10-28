@@ -1,6 +1,6 @@
 # xberg-io/xberg
 
-⭐ 9,454 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xberg-io/xberg) · [官网](https://docs.xberg.io) · 组织维护
+⭐ 9,457 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xberg-io/xberg) · [官网](https://docs.xberg.io) · 组织维护
 
 **Rust 文档智能引擎：从 107 种格式提取文本、表格与结构化数据**
 

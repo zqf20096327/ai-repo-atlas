@@ -1,6 +1,6 @@
 # raold/second-brain
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/raold/second-brain) · [官网](https://raold.github.io/second-brain/) · 个人维护
 
 **本地自托管的个人 AI 知识管理系统，多模态存取与检索**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # najiuwanan/xianyu-Plus
 
-⭐ 24 · Java · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/najiuwanan/xianyu-Plus) · 个人维护 · 中文 README
+⭐ 25 · Java · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/najiuwanan/xianyu-Plus) · 个人维护 · 中文 README
 
 **私有部署的闲鱼多账号运营助手：客服、发货、订单一站管理**
 

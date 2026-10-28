@@ -1,6 +1,6 @@
 # dotnet/maui-labs
 
-⭐ 229 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dotnet/maui-labs) · [官网](https://dot.net/maui) · 组织维护
+⭐ 229 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dotnet/maui-labs) · [官网](https://dot.net/maui) · 组织维护
 
 **.NET MAUI 的实验性工具与预发布包合集（CLI、UI 框架、调试与 AI 集成）**
 

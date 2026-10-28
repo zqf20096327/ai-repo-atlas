@@ -1,6 +1,6 @@
 # andreiramani/pgvector_pgsql_windows
 
-⭐ 228 · 推送 2026-10-21 · [GitHub](https://github.com/andreiramani/pgvector_pgsql_windows) · 个人维护
+⭐ 230 · 推送 2026-10-21 · [GitHub](https://github.com/andreiramani/pgvector_pgsql_windows) · 个人维护
 
 **pgvector 的 Windows 原生编译二进制分发仓库**
 

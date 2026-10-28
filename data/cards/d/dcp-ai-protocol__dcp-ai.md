@@ -1,6 +1,6 @@
 # dcp-ai-protocol/dcp-ai
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dcp-ai-protocol/dcp-ai) · [官网](https://dcp-ai.org) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dcp-ai-protocol/dcp-ai) · [官网](https://dcp-ai.org) · 组织维护 · 中文 README
 
 **AI agent 问责协议：身份绑定、意图声明与可验证审计**
 

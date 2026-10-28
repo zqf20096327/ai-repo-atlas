@@ -1,6 +1,6 @@
 # dat999zx/knowl
 
-⭐ 99 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dat999zx/knowl) · [官网](https://knowl.cloud) · 个人维护
+⭐ 100 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dat999zx/knowl) · [官网](https://knowl.cloud) · 个人维护
 
 **AI agent 持久记忆系统：事实被取代时自动退役旧条目**
 

@@ -1,6 +1,6 @@
 # AI-WorkDeck/aiworkdeck
 
-⭐ 165 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/AI-WorkDeck/aiworkdeck) · [官网](https://www.aiworkdeck.com) · 组织维护 · 中文 README
+⭐ 168 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/AI-WorkDeck/aiworkdeck) · [官网](https://www.aiworkdeck.com) · 组织维护 · 中文 README
 
 **面向法律等专业文书工作的开源 AI 工作台**
 

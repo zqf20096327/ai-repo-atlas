@@ -1,6 +1,6 @@
 # bahree/helloLondon
 
-⭐ 41 · Python · MIT · 推送 2025-11-01 · [GitHub](https://github.com/bahree/helloLondon) · [官网](https://blog.desigeek.com/post/2025/09/building-llm-from-scratch-part1/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向教学的历史英语 LLM 全流程构建项目（含已发布模型）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # benthecoder/yt-channels-DS-AI-ML-CS
 
-⭐ 1,702 · 推送 2026-07-19 · [GitHub](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) · [官网](https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/) · 个人维护
+⭐ 1,710 · 推送 2026-07-19 · [GitHub](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) · [官网](https://benthecoder.github.io/yt-channels-DS-AI-ML-CS/) · 个人维护
 
 **数据科学与 AI 学习类 YouTube 频道清单（180+）**
 

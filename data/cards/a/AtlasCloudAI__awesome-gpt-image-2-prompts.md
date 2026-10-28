@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-gpt-image-2-prompts
 
-⭐ 57 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts) · [官网](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AtlasCloudAI/awesome-gpt-image-2-prompts) · [官网](https://www.atlascloud.ai/prompts-hub/gpt-image-2-prompt?locale=en-US) · 组织维护 · 中文 README
 
 **面向 OpenAI GPT Image 2 的创意提示词策展清单（1,145 条）**
 

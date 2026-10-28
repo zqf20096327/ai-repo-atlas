@@ -1,6 +1,6 @@
 # mljar/mljar-supervised
 
-⭐ 3,305 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mljar/mljar-supervised) · [官网](https://mljar.com) · 组织维护
+⭐ 3,306 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mljar/mljar-supervised) · [官网](https://mljar.com) · 组织维护
 
 **面向表格数据的 Python AutoML 库：自动建模调参与报告**
 

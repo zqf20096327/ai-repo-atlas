@@ -1,6 +1,6 @@
 # mars-sim/mars-sim
 
-⭐ 171 · Java · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mars-sim/mars-sim) · [官网](https://marssim.space) · 组织维护
+⭐ 171 · Java · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/mars-sim/mars-sim) · [官网](https://marssim.space) · 组织维护
 
 **火星定居点运行模拟器：Java 编写的多智能体定居仿真**
 

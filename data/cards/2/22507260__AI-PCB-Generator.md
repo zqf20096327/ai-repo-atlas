@@ -1,6 +1,6 @@
 # 22507260/AI-PCB-Generator
 
-⭐ 86 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/22507260/AI-PCB-Generator) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/22507260/AI-PCB-Generator) · 个人维护
 
 **从自然语言描述生成 PCB 设计的桌面套件**
 

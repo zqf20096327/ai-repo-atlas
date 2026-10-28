@@ -1,6 +1,6 @@
 # Freim32/vllmops
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/Freim32/vllmops) · 个人维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/Freim32/vllmops) · 个人维护
 
 **自托管 vLLM 服务器的轻量控制平面：YAML 声明模型，CLI/TUI 管理全生命周期**
 

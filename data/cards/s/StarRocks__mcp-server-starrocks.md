@@ -1,6 +1,6 @@
 # StarRocks/mcp-server-starrocks
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/StarRocks/mcp-server-starrocks) · 组织维护
+⭐ 196 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/StarRocks/mcp-server-starrocks) · 组织维护
 
 **官方 StarRocks MCP 服务器：让 AI 助手操作 StarRocks 数据库**
 

@@ -1,6 +1,6 @@
 # microsoft/Agensh
 
-⭐ 749 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Agensh) · [官网](https://aka.ms/Agensh) · 组织维护
+⭐ 796 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Agensh) · [官网](https://aka.ms/Agensh) · 组织维护
 
 **去中心化可扩展至 1024 个 agent 的多智能体协同框架**
 

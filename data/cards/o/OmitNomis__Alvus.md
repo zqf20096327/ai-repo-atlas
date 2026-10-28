@@ -1,6 +1,6 @@
 # OmitNomis/Alvus
 
-⭐ 20 · Go · MIT · 推送 2026-08-05 · [GitHub](https://github.com/OmitNomis/Alvus) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-08-05 · [GitHub](https://github.com/OmitNomis/Alvus) · 个人维护
 
 **零依赖 Go 代理：轮换免费档 AI API 密钥池，消除 429**
 

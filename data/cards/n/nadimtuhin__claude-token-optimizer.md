@@ -1,6 +1,6 @@
 # nadimtuhin/claude-token-optimizer
 
-⭐ 633 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nadimtuhin/claude-token-optimizer) · [官网](https://www.npmjs.com/package/claude-token-optimizer) · 个人维护
+⭐ 635 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nadimtuhin/claude-token-optimizer) · [官网](https://www.npmjs.com/package/claude-token-optimizer) · 个人维护
 
 **缩减 Claude Code 会话启动加载 token 的 CLI 工具**
 

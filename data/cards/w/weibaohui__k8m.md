@@ -1,6 +1,6 @@
 # weibaohui/k8m
 
-⭐ 889 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/weibaohui/k8m) · [官网](https://github.com/weibaohui/k8m) · 个人维护 · 中文 README
+⭐ 890 · Go · MIT · 推送 2026-10-17 · [GitHub](https://github.com/weibaohui/k8m) · [官网](https://github.com/weibaohui/k8m) · 个人维护 · 中文 README
 
 **AI 驱动的轻量级 Kubernetes 多集群管理控制台**
 

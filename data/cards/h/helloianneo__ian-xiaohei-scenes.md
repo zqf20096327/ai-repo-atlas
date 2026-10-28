@@ -1,6 +1,6 @@
 # helloianneo/ian-xiaohei-scenes
 
-⭐ 544 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-xiaohei-scenes) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 545 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-xiaohei-scenes) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **指导 AI Agent 为中文文章生成“小黑+真实物件”配图的 Codex Skill**
 

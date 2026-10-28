@@ -1,6 +1,6 @@
 # langchain-ai/langchain-mongodb
 
-⭐ 127 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/langchain-mongodb) · [官网](https://docs.langchain.com/oss/python/integrations/providers/mongodb_atlas) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-mongodb) · [官网](https://docs.langchain.com/oss/python/integrations/providers/mongodb_atlas) · 组织维护
 
 **MongoDB 与 LangChain/LangGraph 的官方集成包集合**
 

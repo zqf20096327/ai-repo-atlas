@@ -1,6 +1,6 @@
 # ai4s-research/awesome-vision-language-action
 
-⭐ 20 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ai4s-research/awesome-vision-language-action) · 组织维护
+⭐ 20 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ai4s-research/awesome-vision-language-action) · 组织维护
 
 **机器人 VLA 模型论文与模型策展清单（2025–2026）**
 

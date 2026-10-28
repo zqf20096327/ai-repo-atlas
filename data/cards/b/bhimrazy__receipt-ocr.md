@@ -1,6 +1,6 @@
 # bhimrazy/receipt-ocr
 
-⭐ 746 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bhimrazy/receipt-ocr) · [官网](https://pypi.org/project/receipt-ocr) · 个人维护
+⭐ 748 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bhimrazy/receipt-ocr) · [官网](https://pypi.org/project/receipt-ocr) · 个人维护
 
 **收据图片 OCR 与 LLM 结构化数据提取引擎**
 

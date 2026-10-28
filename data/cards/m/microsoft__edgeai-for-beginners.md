@@ -1,6 +1,6 @@
 # microsoft/edgeai-for-beginners
 
-⭐ 1,768 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
+⭐ 1,770 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
 
 **微软出品的 Edge AI 初学者课程（9 模块+工作坊）**
 

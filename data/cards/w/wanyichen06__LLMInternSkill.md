@@ -1,6 +1,6 @@
 # wanyichen06/LLMInternSkill
 
-⭐ 333 · Markdown · MIT · 推送 2026-08-04 · [GitHub](https://github.com/wanyichen06/LLMInternSkill) · [官网](https://wanyichen06.github.io/LLMInternSkill/) · 个人维护 · 中文 README
+⭐ 334 · Markdown · MIT · 推送 2026-08-04 · [GitHub](https://github.com/wanyichen06/LLMInternSkill) · [官网](https://wanyichen06.github.io/LLMInternSkill/) · 个人维护 · 中文 README
 
 **面向大模型实习求职的 Codex Skill 简历工具箱**
 

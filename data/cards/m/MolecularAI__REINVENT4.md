@@ -1,6 +1,6 @@
 # MolecularAI/REINVENT4
 
-⭐ 885 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MolecularAI/REINVENT4) · 组织维护
+⭐ 889 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MolecularAI/REINVENT4) · 组织维护
 
 **AI 分子设计工具：从头设计、骨架跃迁与分子优化**
 

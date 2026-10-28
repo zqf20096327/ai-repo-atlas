@@ -1,6 +1,6 @@
 # zinverno/veynrel
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zinverno/veynrel) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zinverno/veynrel) · 个人维护
 
 **Obsidian 笔记连接审阅、受控变更与间隔重复插件，AI 可选**
 

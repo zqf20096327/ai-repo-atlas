@@ -1,6 +1,6 @@
 # ZipengWu365/EchoTime
 
-⭐ 22 · Python · MIT · 推送 2026-07-04 · [GitHub](https://github.com/ZipengWu365/EchoTime) · [官网](https://zipengwu365.github.io/EchoTime/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZipengWu365/EchoTime) · [官网](https://zipengwu365.github.io/EchoTime/) · 个人维护
 
 **可解释时间序列结构相似度比较库，输出 HTML 报告与 agent JSON**
 

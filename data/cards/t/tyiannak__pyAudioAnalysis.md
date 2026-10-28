@@ -1,6 +1,6 @@
 # tyiannak/pyAudioAnalysis
 
-⭐ 6,273 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/tyiannak/pyAudioAnalysis) · [官网](https://magcil.github.io) · 组织维护
+⭐ 6,272 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/tyiannak/pyAudioAnalysis) · [官网](https://magcil.github.io) · 组织维护
 
 **Python 音频分析库：特征提取、分类、分割**
 

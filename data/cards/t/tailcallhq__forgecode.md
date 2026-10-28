@@ -1,6 +1,6 @@
 # tailcallhq/forgecode
 
-⭐ 7,636 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tailcallhq/forgecode) · [官网](https://forgecode.dev) · 组织维护
+⭐ 7,638 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tailcallhq/forgecode) · [官网](https://forgecode.dev) · 组织维护
 
 **终端 AI 结对编程工具：对话式读写代码、提交与语义检索**
 

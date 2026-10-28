@@ -1,6 +1,6 @@
 # gygy-open/question-bank
 
-⭐ 77 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/gygy-open/question-bank) · [官网](https://gygy-open.github.io/question-bank/) · 组织维护 · 中文 README
+⭐ 78 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/gygy-open/question-bank) · [官网](https://gygy-open.github.io/question-bank/) · 组织维护 · 中文 README
 
 **面向教师与教研团队的 AI 原生题库与组稿系统**
 

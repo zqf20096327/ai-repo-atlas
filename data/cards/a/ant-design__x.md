@@ -1,6 +1,6 @@
 # ant-design/x
 
-⭐ 4,819 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/ant-design/x) · [官网](https://x.ant.design) · 组织维护 · 中文 README
+⭐ 4,820 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/ant-design/x) · [官网](https://x.ant.design) · 组织维护 · 中文 README
 
 **蚂蚁开源的 React AI 聊天界面组件库**
 

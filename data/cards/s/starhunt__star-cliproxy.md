@@ -1,6 +1,6 @@
 # starhunt/star-cliproxy
 
-⭐ 42 · TypeScript · 推送 2026-08-12 · [GitHub](https://github.com/starhunt/star-cliproxy) · 组织维护 · 中文 README
+⭐ 43 · TypeScript · 推送 2026-08-12 · [GitHub](https://github.com/starhunt/star-cliproxy) · 组织维护 · 中文 README
 
 **把已订阅的 AI 编程 CLI 封装成本地 OpenAI/Anthropic 兼容 API 的代理网关**
 

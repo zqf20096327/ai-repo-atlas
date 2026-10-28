@@ -1,6 +1,6 @@
 # microsoft/Power-CAT-Copilot-Studio-Kit
 
-⭐ 471 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
+⭐ 472 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
 
 **扩展 Microsoft Copilot Studio 的 agent 开发/测试/治理工具包**
 

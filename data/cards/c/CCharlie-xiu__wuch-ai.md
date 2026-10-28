@@ -1,6 +1,6 @@
 # CCharlie-xiu/wuch-ai
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CCharlie-xiu/wuch-ai) · [官网](https://wuch-ai.net) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CCharlie-xiu/wuch-ai) · [官网](https://wuch-ai.net) · 个人维护 · 中文 README
 
 **对话生成可交互画布 UI 的 Web 应用**
 

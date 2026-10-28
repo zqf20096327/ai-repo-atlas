@@ -1,6 +1,6 @@
 # piyook/llm-mock
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/piyook/llm-mock) · [官网](https://www.npmjs.com/package/llmock) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/piyook/llm-mock) · [官网](https://www.npmjs.com/package/llmock) · 个人维护
 
 **本地模拟 LLM API 的测试服务器，OpenAI/Claude 格式兼容**
 

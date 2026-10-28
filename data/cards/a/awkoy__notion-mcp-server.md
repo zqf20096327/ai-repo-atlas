@@ -1,6 +1,6 @@
 # awkoy/notion-mcp-server
 
-⭐ 179 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/awkoy/notion-mcp-server) · [官网](https://www.npmjs.com/package/notion-mcp-server) · 个人维护
+⭐ 179 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/awkoy/notion-mcp-server) · [官网](https://www.npmjs.com/package/notion-mcp-server) · 个人维护
 
 **MCP 服务器：用单个 Notion token 让各类 AI 客户端读写 Notion**
 

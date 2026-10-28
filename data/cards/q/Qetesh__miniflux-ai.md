@@ -1,6 +1,6 @@
 # Qetesh/miniflux-ai
 
-⭐ 254 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Qetesh/miniflux-ai) · 个人维护
+⭐ 253 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Qetesh/miniflux-ai) · 个人维护
 
 **为 Miniflux RSS 阅读器生成 AI 摘要、翻译与 AI 新闻的工具**
 

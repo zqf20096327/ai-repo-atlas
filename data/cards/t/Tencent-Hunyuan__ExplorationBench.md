@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/ExplorationBench
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/Tencent-Hunyuan/ExplorationBench) · 组织维护 · 中文 README
+⭐ 27 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Tencent-Hunyuan/ExplorationBench) · 组织维护 · 中文 README
 
 **评测 AI 系统在可验证异星世界中探索能力的基准**
 

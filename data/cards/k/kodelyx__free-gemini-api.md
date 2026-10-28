@@ -1,6 +1,6 @@
 # kodelyx/free-gemini-api
 
-⭐ 25 · Go · 推送 2026-10-14 · [GitHub](https://github.com/kodelyx/free-gemini-api) · [官网](https://github.com/kodelyx/free-gemini-api#readme) · 个人维护
+⭐ 26 · Go · 推送 2026-10-14 · [GitHub](https://github.com/kodelyx/free-gemini-api) · [官网](https://github.com/kodelyx/free-gemini-api#readme) · 个人维护
 
 **逆向 Google Gemini 网页协议的免费 OpenAI 兼容代理服务器**
 

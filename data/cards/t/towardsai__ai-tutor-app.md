@@ -1,6 +1,6 @@
 # towardsai/ai-tutor-app
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/towardsai/ai-tutor-app) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/towardsai/ai-tutor-app) · 组织维护
 
 **面向应用 AI/LLM/RAG/Python 学习的 agentic RAG 导师应用**
 

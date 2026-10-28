@@ -1,6 +1,6 @@
 # codecoradev/uteke
 
-⭐ 277 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/codecoradev/uteke) · [官网](https://codecora.dev) · 组织维护
+⭐ 277 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/codecoradev/uteke) · [官网](https://codecora.dev) · 组织维护
 
 **面向 AI agent 的本地优先记忆引擎，单 Rust 二进制，离线语义检索**
 

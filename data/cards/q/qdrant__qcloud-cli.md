@@ -1,6 +1,6 @@
 # qdrant/qcloud-cli
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/qcloud-cli) · 组织维护
+⭐ 21 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/qcloud-cli) · 组织维护
 
 **Qdrant Cloud 官方命令行管理工具**
 

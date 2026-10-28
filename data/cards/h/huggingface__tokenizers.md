@@ -1,6 +1,6 @@
 # huggingface/tokenizers
 
-⭐ 11,204 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/tokenizers) · [官网](https://huggingface.co/docs/tokenizers) · 组织维护
+⭐ 11,206 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/tokenizers) · [官网](https://huggingface.co/docs/tokenizers) · 组织维护
 
 **面向研究与生产的分词器库，Rust 实现含多语言绑定**
 

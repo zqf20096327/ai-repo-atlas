@@ -1,6 +1,6 @@
 # agentty-xyz/agentty
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentty-xyz/agentty) · [官网](https://agentty.xyz) · 组织维护
+⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentty-xyz/agentty) · [官网](https://agentty.xyz) · 组织维护
 
 **终端中的 Agentic 开发环境：统一驱动多款 CLI 编码 agent**
 

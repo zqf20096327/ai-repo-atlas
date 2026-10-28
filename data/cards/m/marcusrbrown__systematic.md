@@ -1,6 +1,6 @@
 # marcusrbrown/systematic
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/marcusrbrown/systematic) · [官网](https://fro.bot/systematic) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/marcusrbrown/systematic) · [官网](https://fro.bot/systematic) · 个人维护
 
 **为 OpenCode/Pi/Claude Code 提供复合工程循环的技能与 Agent 插件**
 

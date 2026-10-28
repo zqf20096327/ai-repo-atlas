@@ -1,6 +1,6 @@
 # Mai-with-u/MaiBot
 
-⭐ 6,647 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Mai-with-u/MaiBot) · [官网](https://maibot.chat/) · 组织维护 · 中文 README
+⭐ 6,699 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Mai-with-u/MaiBot) · [官网](https://maibot.chat/) · 组织维护 · 中文 README
 
 **活跃于 QQ 群聊的 LLM 类人陪伴聊天智能体**
 

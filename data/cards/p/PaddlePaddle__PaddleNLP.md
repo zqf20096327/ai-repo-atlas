@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleNLP
 
-⭐ 12,982 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/PaddlePaddle/PaddleNLP) · [官网](https://paddlenlp.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,981 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/PaddlePaddle/PaddleNLP) · [官网](https://paddlenlp.readthedocs.io) · 组织维护 · 中文 README
 
 **基于飞桨的大语言模型开发套件：训练、压缩、推理全流程**
 

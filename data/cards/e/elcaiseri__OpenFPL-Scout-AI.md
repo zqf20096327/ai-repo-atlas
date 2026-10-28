@@ -1,6 +1,6 @@
 # elcaiseri/OpenFPL-Scout-AI
 
-⭐ 29 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/elcaiseri/OpenFPL-Scout-AI) · [官网](https://openfpl.kassem.dev) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/elcaiseri/OpenFPL-Scout-AI) · [官网](https://openfpl.kassem.dev) · 个人维护
 
 **FPL（英超梦幻联赛）球员积分预测与阵容选择应用**
 

@@ -1,6 +1,6 @@
 # israriqbal/agent-ecologies
 
-⭐ 121 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/israriqbal/agent-ecologies) · 个人维护
+⭐ 121 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/israriqbal/agent-ecologies) · 个人维护
 
 **多智能体操作系统：让 LLM 驱动的 NPC 自主生活在像素世界中**
 

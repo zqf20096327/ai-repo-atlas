@@ -1,6 +1,6 @@
 # SaladDay/pi-from-scratch
 
-⭐ 1,297 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SaladDay/pi-from-scratch) · [官网](https://pi-from-scratch.vercel.app) · 个人维护 · 中文 README
+⭐ 1,300 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SaladDay/pi-from-scratch) · [官网](https://pi-from-scratch.vercel.app) · 个人维护 · 中文 README
 
 **600 行 TypeScript 从零实现 coding agent 的交互式教程**
 

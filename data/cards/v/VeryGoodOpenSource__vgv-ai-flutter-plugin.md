@@ -1,6 +1,6 @@
 # VeryGoodOpenSource/vgv-ai-flutter-plugin
 
-⭐ 175 · Shell · MIT · 推送 2026-10-20 · [GitHub](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) · 组织维护
+⭐ 175 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) · 组织维护
 
 **给 Flutter/Dart 开发者的 Claude Code 最佳实践技能插件**
 

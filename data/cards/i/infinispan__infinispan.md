@@ -1,6 +1,6 @@
 # infinispan/infinispan
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 1,358 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/infinispan/infinispan) · [官网](https://infinispan.org) · 组织维护
 
 **面向 Java 生态的开源分布式内存键值数据库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

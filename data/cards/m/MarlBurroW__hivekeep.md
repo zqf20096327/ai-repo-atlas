@@ -1,6 +1,6 @@
 # MarlBurroW/hivekeep
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MarlBurroW/hivekeep) · [官网](https://hivekeep.app) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MarlBurroW/hivekeep) · [官网](https://hivekeep.app) · 个人维护
 
 **自托管持久多 Agent 平台：常驻记忆的 AI 团队跑在自己服务器上**
 

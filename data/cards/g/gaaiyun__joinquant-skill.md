@@ -1,6 +1,6 @@
 # gaaiyun/joinquant-skill
 
-⭐ 88 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gaaiyun/joinquant-skill) · 个人维护 · 中文 README
+⭐ 89 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gaaiyun/joinquant-skill) · 个人维护 · 中文 README
 
 **给 Coding Agent 用的聚宽量化策略 API 知识库与代码检查工具**
 

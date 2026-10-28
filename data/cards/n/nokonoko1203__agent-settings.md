@@ -1,6 +1,6 @@
 # nokonoko1203/agent-settings
 
-⭐ 92 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nokonoko1203/agent-settings) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nokonoko1203/agent-settings) · 个人维护
 
 **Claude Code 与 Codex 的个人配置、规则、hook 与技能合集**
 

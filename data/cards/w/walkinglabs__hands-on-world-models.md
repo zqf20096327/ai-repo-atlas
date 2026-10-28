@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-world-models
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/walkinglabs/hands-on-world-models) · [官网](https://walkinglabs.github.io/hands-on-world-models/) · 组织维护 · 中文 README
+⭐ 29 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/walkinglabs/hands-on-world-models) · [官网](https://walkinglabs.github.io/hands-on-world-models/) · 组织维护 · 中文 README
 
 **中文世界模型动手课程：从零实现潜在动力学、JEPA、VLA 等模型**
 

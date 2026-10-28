@@ -1,6 +1,6 @@
 # remidej/camox
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/remidej/camox) · [官网](https://camox.ai) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/remidej/camox) · [官网](https://camox.ai) · 组织维护
 
 **供编码 agent 构建并持续管理网站的 CMS 框架**
 

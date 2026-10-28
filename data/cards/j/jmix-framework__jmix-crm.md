@@ -1,6 +1,6 @@
 # jmix-framework/jmix-crm
 
-⭐ 28 · Java · 推送 2026-10-27 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
+⭐ 29 · Java · 推送 2026-10-28 · [GitHub](https://github.com/jmix-framework/jmix-crm) · [官网](https://demo.jmix.io/b2b-crm) · 组织维护
 
 **基于 Jmix 的企业 B2B CRM 示例应用，内置 AI 助手**
 

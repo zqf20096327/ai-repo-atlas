@@ -1,6 +1,6 @@
 # apple-aiml-research/ml-cvnets
 
-⭐ 1,996 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-cvnets) · [官网](https://apple-aiml-research.github.io/ml-cvnets/) · 组织维护
+⭐ 1,997 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/apple-aiml-research/ml-cvnets) · [官网](https://apple-aiml-research.github.io/ml-cvnets/) · 组织维护
 
 **训练计算机视觉网络的 PyTorch 工具库**
 

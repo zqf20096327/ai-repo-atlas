@@ -1,6 +1,6 @@
 # zenstory-ai/zenstory
 
-⭐ 78 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/workbench) · 组织维护 · 中文 README
+⭐ 79 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/workbench) · 组织维护 · 中文 README
 
 **AI Agent 驱动的浏览器小说写作工作台**
 

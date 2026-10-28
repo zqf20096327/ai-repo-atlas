@@ -1,6 +1,6 @@
 # habedi/omni-lpr
 
-⭐ 26 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/habedi/omni-lpr) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/habedi/omni-lpr) · 个人维护
 
 **自托管的车牌识别服务器，提供 REST 与 MCP 双接口**
 

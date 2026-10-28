@@ -1,6 +1,6 @@
 # supabase/agent-skills
 
-⭐ 2,939 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
+⭐ 2,943 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/supabase/agent-skills) · [官网](https://supabase.com/docs/guides/getting-started/ai-skills) · 组织维护
 
 **给 AI 开发者的 Supabase 技能包：指令与参考文档助 agent 用好 Supabase**
 

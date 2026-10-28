@@ -1,6 +1,6 @@
 # kenz1117/dsh-ui-usage-billing
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kenz1117/dsh-ui-usage-billing) · [官网](https://www.npmjs.com/package/@kenz1117/dsh-ui-usage-billing) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kenz1117/dsh-ui-usage-billing) · [官网](https://www.npmjs.com/package/@kenz1117/dsh-ui-usage-billing) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的用量计费仪表盘插件**
 

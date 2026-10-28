@@ -1,6 +1,6 @@
 # microsoft/GitHubCopilotLicenseAssignment
 
-⭐ 29 · HTML · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/GitHubCopilotLicenseAssignment) · [官网](https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment) · 组织维护
+⭐ 29 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/GitHubCopilotLicenseAssignment) · [官网](https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment) · 组织维护
 
 **自助分配 GitHub Copilot 许可证的仓库模板（Issue+Actions 自动化）**
 

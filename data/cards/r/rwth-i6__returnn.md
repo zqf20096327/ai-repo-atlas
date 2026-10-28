@@ -1,6 +1,6 @@
 # rwth-i6/returnn
 
-⭐ 377 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/rwth-i6/returnn) · [官网](http://returnn.readthedocs.io/) · 组织维护
+⭐ 377 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/rwth-i6/returnn) · [官网](http://returnn.readthedocs.io/) · 组织维护
 
 **RWTH 大学的循环神经网络训练框架，面向 ASR/MT 研究**
 

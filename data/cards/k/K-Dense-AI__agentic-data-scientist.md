@@ -1,6 +1,6 @@
 # K-Dense-AI/agentic-data-scientist
 
-⭐ 835 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/agentic-data-scientist) · [官网](https://k-dense.ai) · 组织维护
+⭐ 837 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/agentic-data-scientist) · [官网](https://k-dense.ai) · 组织维护
 
 **面向数据科学家的端到端多智能体分析框架**
 

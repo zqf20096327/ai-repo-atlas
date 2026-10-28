@@ -1,6 +1,6 @@
 # xai-org/grok-prompts
 
-⭐ 4,549 · Jinja · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/xai-org/grok-prompts) · 组织维护
+⭐ 4,548 · Jinja · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/xai-org/grok-prompts) · 组织维护
 
 **xAI 公开的 Grok 聊天助手与 X 平台机器人系统提示词集**
 

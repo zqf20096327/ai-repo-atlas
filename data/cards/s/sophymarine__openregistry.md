@@ -1,6 +1,6 @@
 # sophymarine/openregistry
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sophymarine/openregistry) · [官网](https://openregistry.sophymarine.com) · 组织维护
+⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sophymarine/openregistry) · [官网](https://openregistry.sophymarine.com) · 组织维护
 
 **接入 80+ 国官方公司登记处的实时数据 MCP 服务器与 API**
 

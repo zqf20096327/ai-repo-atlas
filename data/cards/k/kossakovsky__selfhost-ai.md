@@ -1,6 +1,6 @@
 # kossakovsky/selfhost-ai
 
-⭐ 953 · Shell · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/kossakovsky/selfhost-ai) · [官网](https://github.com/kossakovsky/selfhost-ai#readme) · 个人维护
+⭐ 953 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kossakovsky/selfhost-ai) · [官网](https://github.com/kossakovsky/selfhost-ai#readme) · 个人维护
 
 **一条命令在自有服务器部署 30+ 开源自托管 AI 工具栈**
 

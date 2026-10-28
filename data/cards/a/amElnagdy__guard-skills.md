@@ -1,6 +1,6 @@
 # amElnagdy/guard-skills
 
-⭐ 1,286 · MIT · 推送 2026-07-04 · [GitHub](https://github.com/amElnagdy/guard-skills) · [官网](https://skills.sh/amElnagdy/guard-skills) · 个人维护
+⭐ 1,287 · MIT · 推送 2026-07-04 · [GitHub](https://github.com/amElnagdy/guard-skills) · [官网](https://skills.sh/amElnagdy/guard-skills) · 个人维护
 
 **给编码 agent 的守卫技能包：审查 AI 生成的代码、测试与文档**
 

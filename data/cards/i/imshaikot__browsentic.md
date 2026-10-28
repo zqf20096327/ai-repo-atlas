@@ -1,6 +1,6 @@
 # imshaikot/browsentic
 
-⭐ 217 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/imshaikot/browsentic) · [官网](https://browsentic.com) · 个人维护
+⭐ 244 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/imshaikot/browsentic) · [官网](https://browsentic.com) · 个人维护
 
 **浏览器代理侧挂工具：让已有 agent CLI 驱动你登录中的浏览器**
 

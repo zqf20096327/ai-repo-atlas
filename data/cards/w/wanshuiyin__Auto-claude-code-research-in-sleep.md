@@ -1,6 +1,6 @@
 # wanshuiyin/Auto-claude-code-research-in-sleep
 
-⭐ 18,167 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
+⭐ 18,241 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · 个人维护 · 中文 README
 
 **面向 LLM agent 的自主 ML 研究技能集：交叉评审、想法发现、实验自动化**
 

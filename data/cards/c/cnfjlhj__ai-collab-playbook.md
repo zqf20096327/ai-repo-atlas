@@ -1,6 +1,6 @@
 # cnfjlhj/ai-collab-playbook
 
-⭐ 457 · Python · 推送 2026-10-13 · [GitHub](https://github.com/cnfjlhj/ai-collab-playbook) · [官网](https://github.com/cnfjlhj/ai-collab-playbook/blob/main/docs/phd-ai-collab.md) · 个人维护 · 中文 README
+⭐ 458 · Python · 推送 2026-10-13 · [GitHub](https://github.com/cnfjlhj/ai-collab-playbook) · [官网](https://github.com/cnfjlhj/ai-collab-playbook/blob/main/docs/phd-ai-collab.md) · 个人维护 · 中文 README
 
 **AI 协作方法论文档库：科研/写作/编程中的人机协作手册**
 

@@ -1,6 +1,6 @@
 # patrick-llgc/Learning-Deep-Learning
 
-⭐ 1,280 · Jupyter Notebook · 推送 2026-06-04 · [GitHub](https://github.com/patrick-llgc/Learning-Deep-Learning) · 个人维护 · 中文 README
+⭐ 1,281 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/patrick-llgc/Learning-Deep-Learning) · 个人维护 · 中文 README
 
 **个人深度学习与自动驾驶论文阅读笔记库**
 

@@ -1,6 +1,6 @@
 # nuxt-ui-templates/chat
 
-⭐ 378 · Vue · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nuxt-ui-templates/chat) · [官网](https://chat-template.nuxt.dev) · 组织维护
+⭐ 378 · Vue · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nuxt-ui-templates/chat) · [官网](https://chat-template.nuxt.dev) · 组织维护
 
 **Nuxt 全栈 AI 聊天机器人模板，含认证与聊天历史**
 

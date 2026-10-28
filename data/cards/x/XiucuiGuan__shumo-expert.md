@@ -1,6 +1,6 @@
 # XiucuiGuan/shumo-expert
 
-⭐ 27 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/XiucuiGuan/shumo-expert) · 个人维护 · 中文 README
+⭐ 26 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/XiucuiGuan/shumo-expert) · 个人维护 · 中文 README
 
 **数学建模全流程引导智能体：布鲁姆/苏格拉底/P-M-A-D 三角色方法论引导**
 

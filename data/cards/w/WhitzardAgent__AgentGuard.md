@@ -1,6 +1,6 @@
 # WhitzardAgent/AgentGuard
 
-⭐ 154 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/WhitzardAgent/AgentGuard) · [官网](https://whitzard.tech/AgentGuard/) · 组织维护 · 中文 README
+⭐ 155 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/WhitzardAgent/AgentGuard) · [官网](https://whitzard.tech/AgentGuard/) · 组织维护 · 中文 README
 
 **面向 AI agent 的零信任安全防护层：策略化的访问控制与审计**
 

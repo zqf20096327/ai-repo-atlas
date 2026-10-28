@@ -1,6 +1,6 @@
 # ruashots/ComfyUI-OpenH3-IR
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/ComfyUI-OpenH3-IR) · [官网](https://github.com/ruashots/open-h3-ir) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ruashots/ComfyUI-OpenH3-IR) · [官网](https://github.com/ruashots/open-h3-ir) · 个人维护
 
 **ComfyUI 节点包：为 MiniMax H3 编译结构化 Context-IR 简报**
 

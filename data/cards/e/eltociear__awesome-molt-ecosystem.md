@@ -1,6 +1,6 @@
 # eltociear/awesome-molt-ecosystem
 
-⭐ 65 · Dockerfile · 推送 2026-10-27 · [GitHub](https://github.com/eltociear/awesome-molt-ecosystem) · 个人维护
+⭐ 65 · Dockerfile · 推送 2026-10-28 · [GitHub](https://github.com/eltociear/awesome-molt-ecosystem) · 个人维护
 
 **AI agent 变现生态实测清单：记录 230+ 平台与链上真实收入**
 

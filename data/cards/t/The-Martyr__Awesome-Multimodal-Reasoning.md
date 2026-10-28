@@ -1,6 +1,6 @@
 # The-Martyr/Awesome-Multimodal-Reasoning
 
-⭐ 106 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) · 个人维护
+⭐ 107 · MIT · 推送 2026-10-19 · [GitHub](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) · 个人维护
 
 **多模态大模型推理与生成的论文清单（研究综述支持用）**
 

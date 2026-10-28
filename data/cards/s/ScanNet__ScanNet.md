@@ -1,6 +1,6 @@
 # ScanNet/ScanNet
 
-⭐ 2,358 · C · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/ScanNet/ScanNet) · [官网](http://www.scan-net.org/) · 组织维护
+⭐ 2,360 · C · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/ScanNet/ScanNet) · [官网](http://www.scan-net.org/) · 组织维护
 
 **室内场景 RGB-D 3D 数据集：250 万视图、1500+ 扫描及语义标注**
 

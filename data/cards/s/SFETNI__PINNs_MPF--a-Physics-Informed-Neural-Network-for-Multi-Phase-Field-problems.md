@@ -1,6 +1,6 @@
 # SFETNI/PINNs_MPF--a-Physics-Informed-Neural-Network-for-Multi-Phase-Field-problems
 
-⭐ 24 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/SFETNI/PINNs_MPF--a-Physics-Informed-Neural-Network-for-Multi-Phase-Field-problems) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/SFETNI/PINNs_MPF--a-Physics-Informed-Neural-Network-for-Multi-Phase-Field-problems) · 个人维护
 
 **物理信息神经网络求解多相场微结构演化的科研代码**
 

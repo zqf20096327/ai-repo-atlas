@@ -1,6 +1,6 @@
 # microsoft/LLMLingua
 
-⭐ 6,775 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/LLMLingua) · [官网](https://llmlingua.com/) · 组织维护
+⭐ 6,779 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/LLMLingua) · [官网](https://llmlingua.com/) · 组织维护
 
 **给 LLM 开发者：压缩 prompt 与 KV-Cache 以加速推理、降低成本**
 

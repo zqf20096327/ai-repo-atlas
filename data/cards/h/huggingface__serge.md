@@ -1,6 +1,6 @@
 # huggingface/serge
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/serge) · [官网](https://huggingface.github.io/serge/) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/serge) · [官网](https://huggingface.github.io/serge/) · 组织维护
 
 **用 OpenAI 兼容 LLM 审查 GitHub PR 的评审机器人**
 

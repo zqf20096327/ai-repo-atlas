@@ -1,6 +1,6 @@
 # NVlabs/instant-ngp
 
-⭐ 17,582 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
+⭐ 17,584 · Cuda · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/instant-ngp) · [官网](https://nvlabs.github.io/instant-ngp) · 组织维护
 
 **给 NeRF/图形研究者：用哈希编码 MLP 秒级训练并渲染神经图形基元**
 

@@ -1,6 +1,6 @@
 # snap-stanford/stark
 
-⭐ 337 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/snap-stanford/stark) · [官网](https://stark.stanford.edu/) · 组织维护 · 中文 README
+⭐ 338 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/snap-stanford/stark) · [官网](https://stark.stanford.edu/) · 组织维护 · 中文 README
 
 **评测 LLM 检索系统的半结构化知识库基准（NeurIPS 2024）**
 

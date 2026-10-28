@@ -1,6 +1,6 @@
 # appolloqin/gen-txt-to-image
 
-⭐ 107 · Python · 推送 2026-06-28 · [GitHub](https://github.com/appolloqin/gen-txt-to-image) · 个人维护 · 中文 README
+⭐ 108 · Python · 推送 2026-06-28 · [GitHub](https://github.com/appolloqin/gen-txt-to-image) · 个人维护 · 中文 README
 
 **文生视频应用：LLM 生成提示词驱动 Stable Diffusion 出图并合成视频**
 

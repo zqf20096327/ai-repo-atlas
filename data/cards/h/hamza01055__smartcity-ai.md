@@ -1,6 +1,6 @@
 # hamza01055/smartcity-ai
 
-⭐ 26 · Python · 推送 2026-10-27 · [GitHub](https://github.com/hamza01055/smartcity-ai) · 个人维护
+⭐ 26 · Python · 推送 2026-10-28 · [GitHub](https://github.com/hamza01055/smartcity-ai) · 个人维护
 
 **城市问题上报平台：市民拍照后 YOLOv8 自动识别分类并派单**
 

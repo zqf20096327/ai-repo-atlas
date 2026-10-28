@@ -1,6 +1,6 @@
 # JetXu-LLM/llama-github
 
-⭐ 291 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/JetXu-LLM/llama-github) · [官网](https://pypi.org/project/llama-github/) · 个人维护
+⭐ 290 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/JetXu-LLM/llama-github) · [官网](https://pypi.org/project/llama-github/) · 个人维护
 
 **面向 LLM Chatbot 与 Agent 的 GitHub Agentic RAG 上下文检索库**
 

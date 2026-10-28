@@ -1,6 +1,6 @@
 # Anionex/banana-slides
 
-⭐ 15,894 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
+⭐ 15,898 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
 
 **基于图像生成模型的原生 AI PPT 生成应用，几分钟生成可编辑幻灯片**
 

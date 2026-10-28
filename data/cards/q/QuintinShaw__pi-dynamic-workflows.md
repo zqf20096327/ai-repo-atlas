@@ -1,6 +1,6 @@
 # QuintinShaw/pi-dynamic-workflows
 
-⭐ 556 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/QuintinShaw/pi-dynamic-workflows) · [官网](https://quintinshaw.github.io/pi-dynamic-workflows/) · 个人维护
+⭐ 555 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/QuintinShaw/pi-dynamic-workflows) · [官网](https://quintinshaw.github.io/pi-dynamic-workflows/) · 个人维护
 
 **面向 Pi 编码助手的动态多子代理工作流编排扩展**
 

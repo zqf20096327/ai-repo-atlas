@@ -1,6 +1,6 @@
 # thuml/Time-Series-Library
 
-⭐ 13,006 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/thuml/Time-Series-Library) · 组织维护 · 中文 README
+⭐ 13,013 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/thuml/Time-Series-Library) · 组织维护 · 中文 README
 
 **面向深度学习研究者的时间序列分析模型库与基准**
 

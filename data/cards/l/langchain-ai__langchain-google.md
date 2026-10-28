@@ -1,6 +1,6 @@
 # langchain-ai/langchain-google
 
-⭐ 407 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-google) · [官网](https://docs.langchain.com/oss/python/integrations/providers/google) · 组织维护
+⭐ 406 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-google) · [官网](https://docs.langchain.com/oss/python/integrations/providers/google) · 组织维护
 
 **LangChain 与 Google AI 产品（Gemini/Vertex AI）的集成包集合**
 

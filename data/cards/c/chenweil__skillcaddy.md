@@ -1,6 +1,6 @@
 # chenweil/skillcaddy
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chenweil/skillcaddy) · [官网](https://skillcaddy.51ai.vip) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chenweil/skillcaddy) · [官网](https://skillcaddy.51ai.vip) · 个人维护 · 中文 README
 
 **本地 AI 技能中央库：按项目以 symlink 启用技能供多 agent 使用**
 

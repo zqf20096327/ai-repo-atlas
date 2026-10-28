@@ -1,6 +1,6 @@
 # nightona-co/nightona
 
-⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nightona-co/nightona) · 组织维护
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/nightona-co/nightona) · 组织维护
 
 **自托管 AI 代码执行沙箱平台（Daytona 开源分支）**
 

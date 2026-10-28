@@ -1,6 +1,6 @@
 # KuOnoda/AutoRef
 
-⭐ 33 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/KuOnoda/AutoRef) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/KuOnoda/AutoRef) · 组织维护
 
 **论文实现：优化多参考图像生成的 harness，无需训练生成器**
 

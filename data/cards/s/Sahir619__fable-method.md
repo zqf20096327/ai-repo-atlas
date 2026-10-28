@@ -1,6 +1,6 @@
 # Sahir619/fable-method
 
-⭐ 2,307 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sahir619/fable-method) · 个人维护
+⭐ 2,308 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Sahir619/fable-method) · 个人维护
 
 **可移植的 agent 工作流技能集：think/act/prove 纪律与配套评测**
 

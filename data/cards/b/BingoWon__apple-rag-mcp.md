@@ -1,6 +1,6 @@
 # BingoWon/apple-rag-mcp
 
-⭐ 121 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BingoWon/apple-rag-mcp) · [官网](https://apple-rag.com) · 组织维护 · 中文 README
+⭐ 121 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BingoWon/apple-rag-mcp) · [官网](https://apple-rag.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Apple 文档/WWDC 检索 MCP 服务**
 

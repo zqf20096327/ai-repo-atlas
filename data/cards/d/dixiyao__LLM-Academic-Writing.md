@@ -1,6 +1,6 @@
 # dixiyao/LLM-Academic-Writing
 
-⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/dixiyao/LLM-Academic-Writing) · 个人维护
+⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/dixiyao/LLM-Academic-Writing) · 个人维护
 
 **学术写作 LLM 工具集：PDF 论文多智能体审稿与语法润色**
 

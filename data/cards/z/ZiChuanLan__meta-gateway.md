@@ -1,6 +1,6 @@
 # ZiChuanLan/meta-gateway
 
-⭐ 47 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZiChuanLan/meta-gateway) · [官网](https://mg.015201314.xyz) · 个人维护 · 中文 README
+⭐ 49 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZiChuanLan/meta-gateway) · [官网](https://mg.015201314.xyz) · 个人维护 · 中文 README
 
 **自托管多通道 LLM 中继网关：统一上游、单令牌透传**
 

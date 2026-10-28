@@ -1,6 +1,6 @@
 # cacheplane/b4run
 
-⭐ 301 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cacheplane/b4run) · [官网](https://b4.run) · 个人维护
+⭐ 301 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cacheplane/b4run) · [官网](https://b4.run) · 个人维护
 
 **给 TypeScript 开发者的 LangGraph.js Agent 应用框架**
 

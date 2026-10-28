@@ -1,6 +1,6 @@
 # volnei/reviewly
 
-⭐ 19 · TypeScript · GPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/volnei/reviewly) · 个人维护
+⭐ 19 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/volnei/reviewly) · 个人维护
 
 **给开发者的本地优先 GitHub PR 审查桌面应用，AI 在本机运行**
 

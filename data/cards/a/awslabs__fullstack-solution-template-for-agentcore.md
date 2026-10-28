@@ -1,6 +1,6 @@
 # awslabs/fullstack-solution-template-for-agentcore
 
-⭐ 600 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [官网](https://aws.amazon.com/bedrock/agentcore/) · 组织维护
+⭐ 600 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [官网](https://aws.amazon.com/bedrock/agentcore/) · 组织维护
 
 **AWS 官方的 AgentCore 全栈应用部署模板**
 

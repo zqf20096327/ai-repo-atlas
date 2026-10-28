@@ -1,6 +1,6 @@
 # takeshy/obsidian-llm-hub
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/takeshy/obsidian-llm-hub) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/takeshy/obsidian-llm-hub) · 个人维护
 
 **Obsidian 多模型 AI 助手插件：聊天、工作流与语义搜索**
 

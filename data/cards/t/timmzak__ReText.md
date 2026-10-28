@@ -1,6 +1,6 @@
 # timmzak/ReText
 
-⭐ 21 · Python · 推送 2026-10-20 · [GitHub](https://github.com/timmzak/ReText) · [官网](https://arxiv.org/abs/2602.05785) · 组织维护
+⭐ 21 · Python · 推送 2026-10-28 · [GitHub](https://github.com/timmzak/ReText) · [官网](https://arxiv.org/abs/2602.05785) · 组织维护
 
 **用文本描述提升跨域行人重识别泛化的研究方法（WACV 2027）**
 

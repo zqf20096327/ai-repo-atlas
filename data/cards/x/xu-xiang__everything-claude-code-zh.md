@@ -1,6 +1,6 @@
 # xu-xiang/everything-claude-code-zh
 
-⭐ 2,005 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/xu-xiang/everything-claude-code-zh) · [官网](https://oneskill.one) · 个人维护 · 中文 README
+⭐ 2,006 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/xu-xiang/everything-claude-code-zh) · [官网](https://oneskill.one) · 个人维护 · 中文 README
 
 **Claude Code 配置系统的中文翻译：智能体/技能/钩子/命令/规则集合**
 

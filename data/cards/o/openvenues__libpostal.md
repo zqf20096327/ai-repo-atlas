@@ -1,6 +1,6 @@
 # openvenues/libpostal
 
-⭐ 4,916 · C · MIT · 推送 2026-05-13 · [GitHub](https://github.com/openvenues/libpostal) · 组织维护
+⭐ 4,917 · C · MIT · 推送 2026-05-13 · [GitHub](https://github.com/openvenues/libpostal) · 组织维护
 
 **全球街道地址解析/归一化的 C 库，供地理与数据清洗使用**
 

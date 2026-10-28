@@ -1,6 +1,6 @@
 # eracle/OpenOutreach
 
-⭐ 3,427 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
+⭐ 3,433 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
 
 **自托管的 B2B 线索挖掘 AI agent：描述产品即找人选人并发信**
 

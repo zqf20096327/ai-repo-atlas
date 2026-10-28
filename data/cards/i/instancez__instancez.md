@@ -1,6 +1,6 @@
 # instancez/instancez
 
-⭐ 58 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/instancez/instancez) · [官网](https://instancez.ai) · 组织维护
+⭐ 58 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/instancez/instancez) · [官网](https://instancez.ai) · 组织维护
 
 **给开发者的单二进制 Supabase 替代后端：YAML 定义全栈**
 

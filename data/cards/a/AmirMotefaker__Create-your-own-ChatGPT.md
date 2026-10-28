@@ -1,6 +1,6 @@
 # AmirMotefaker/Create-your-own-ChatGPT
 
-⭐ 23 · Jupyter Notebook · 推送 2026-10-25 · [GitHub](https://github.com/AmirMotefaker/Create-your-own-ChatGPT) · 个人维护
+⭐ 23 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/AmirMotefaker/Create-your-own-ChatGPT) · 个人维护
 
 **用 Python 调用 OpenAI Responses API 自建命令行 ChatGPT 示例**
 

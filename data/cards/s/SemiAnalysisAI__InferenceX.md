@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX
 
-⭐ 1,936 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
+⭐ 1,942 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
 
 **开源 LLM 推理性能持续基准测试与仪表盘平台**
 

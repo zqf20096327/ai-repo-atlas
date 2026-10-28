@@ -1,6 +1,6 @@
 # serenakeyitan/open-exam-skills
 
-⭐ 161 · Python · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/serenakeyitan/open-exam-skills) · [官网](https://kael.im/) · 个人维护
+⭐ 163 · Python · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/serenakeyitan/open-exam-skills) · [官网](https://kael.im/) · 个人维护
 
 **面向学生与教师的学习技能集：思维导图/闪卡/测验/引用核查**
 

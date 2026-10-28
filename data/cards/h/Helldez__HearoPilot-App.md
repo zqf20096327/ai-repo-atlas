@@ -1,6 +1,6 @@
 # Helldez/HearoPilot-App
 
-⭐ 105 · Kotlin · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Helldez/HearoPilot-App) · 个人维护
+⭐ 106 · Kotlin · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Helldez/HearoPilot-App) · 个人维护
 
 **Android 离线会议助手：本机实时转录与 LLM 摘要**
 

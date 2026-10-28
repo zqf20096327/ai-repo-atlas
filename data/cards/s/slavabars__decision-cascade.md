@@ -1,6 +1,6 @@
 # slavabars/decision-cascade
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/slavabars/decision-cascade) · 个人维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/slavabars/decision-cascade) · 个人维护
 
 **本地决策引擎：输出类型化、可校准的概率决策而非文本生成**
 

@@ -1,6 +1,6 @@
 # PetoiCamp/OpenCat-Quadruped-Robot
 
-⭐ 5,513 · C++ · MIT · 推送 2026-09-08 · [GitHub](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
+⭐ 5,518 · C++ · MIT · 推送 2026-09-08 · [GitHub](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
 
 **开源四足机器人框架：给教育者/研究者/DIY 者构建机器宠物**
 

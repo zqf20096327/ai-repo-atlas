@@ -1,6 +1,6 @@
 # AutoPTZ/autoptz
 
-⭐ 114 · Python · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AutoPTZ/autoptz) · 组织维护
+⭐ 117 · Python · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AutoPTZ/autoptz) · 组织维护
 
 **AI 驱动的 PTZ 摄像头自动跟踪桌面应用**
 

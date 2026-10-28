@@ -1,6 +1,6 @@
 # zhuobichen/weflow-cli
 
-⭐ 125 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zhuobichen/weflow-cli) · 个人维护 · 中文 README
+⭐ 128 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zhuobichen/weflow-cli) · 个人维护 · 中文 README
 
 **本地优先的微信数据 CLI：聊天记录查询导出、日报、知识库与 AI 助手**
 

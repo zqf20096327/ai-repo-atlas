@@ -1,6 +1,6 @@
 # IST-DASLab/GSQ
 
-⭐ 121 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/IST-DASLab/GSQ) · [官网](https://huggingface.co/collections/ISTA-DASLab/gsq) · 组织维护
+⭐ 124 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/IST-DASLab/GSQ) · [官网](https://huggingface.co/collections/ISTA-DASLab/gsq) · 组织维护
 
 **面向 LLM 的 1–3 bit 后训练量化方法（Gumbel-Softmax，GGUF 兼容）**
 

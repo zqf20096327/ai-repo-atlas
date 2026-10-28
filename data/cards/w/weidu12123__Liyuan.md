@@ -1,6 +1,6 @@
 # weidu12123/Liyuan
 
-⭐ 289 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/weidu12123/Liyuan) · 个人维护 · 中文 README
+⭐ 291 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/weidu12123/Liyuan) · 个人维护 · 中文 README
 
 **面向角色扮演用户的 RP Agent 应用，将编码 agent 机制引入叙事**
 

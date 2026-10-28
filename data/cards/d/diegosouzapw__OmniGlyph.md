@@ -1,6 +1,6 @@
 # diegosouzapw/OmniGlyph
 
-⭐ 145 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/diegosouzapw/OmniGlyph) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
+⭐ 147 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/diegosouzapw/OmniGlyph) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
 **本地代理：把 LLM 上下文渲染为 PNG 图像以削减 token 费用**
 

@@ -1,6 +1,6 @@
 # rssh-org/rssh
 
-⭐ 518 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rssh-org/rssh) · [官网](https://rssh.ofcoder.com/) · 组织维护 · 中文 README
+⭐ 518 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rssh-org/rssh) · [官网](https://rssh.ofcoder.com/) · 组织维护 · 中文 README
 
 **跨平台 SSH 客户端：AI 读取终端并提议命令，覆盖桌面/移动/IDE**
 

@@ -1,6 +1,6 @@
 # lacymorrow/lacy
 
-⭐ 28 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/lacymorrow/lacy) · [官网](https://lacy.sh) · 个人维护
+⭐ 29 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/lacymorrow/lacy) · [官网](https://lacy.sh) · 个人维护
 
 **无需前缀的智能 shell：命令进 shell，问题进 AI 编程工具**
 

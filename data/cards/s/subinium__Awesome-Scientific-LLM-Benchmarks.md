@@ -1,6 +1,6 @@
 # subinium/Awesome-Scientific-LLM-Benchmarks
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) · [官网](https://awesome-scientific-llm-benchmarks.vercel.app) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks) · [官网](https://awesome-scientific-llm-benchmarks.vercel.app) · 个人维护
 
 **科学领域 LLM 基准测试策展清单（数学/物理/化学/生物等）**
 

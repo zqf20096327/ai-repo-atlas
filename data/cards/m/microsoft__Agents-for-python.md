@@ -1,6 +1,6 @@
 # microsoft/Agents-for-python
 
-⭐ 216 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Agents-for-python) · 组织维护
+⭐ 216 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Agents-for-python) · 组织维护
 
 **微软官方 Python SDK：构建多渠道企业 agent 应用**
 

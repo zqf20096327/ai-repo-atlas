@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/Local-NotebookLM
 
-⭐ 1,041 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) · 个人维护
+⭐ 1,043 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) · 个人维护
 
 **把 PDF 转成播客等音频内容的本地 AI 工具**
 

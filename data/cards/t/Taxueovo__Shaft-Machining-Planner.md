@@ -1,6 +1,6 @@
 # Taxueovo/Shaft-Machining-Planner
 
-⭐ 36 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Taxueovo/Shaft-Machining-Planner) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Taxueovo/Shaft-Machining-Planner) · 个人维护
 
 **电机轴加工工艺规划工具：输入几何生成工艺路线并导出工艺卡**
 

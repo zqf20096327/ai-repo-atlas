@@ -1,6 +1,6 @@
 # spences10/nopeek
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/spences10/nopeek) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/spences10/nopeek) · 个人维护
 
 **降低 LLM 编码会话中密钥意外泄露的 CLI 工具**
 

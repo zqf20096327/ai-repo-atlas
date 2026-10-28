@@ -1,6 +1,6 @@
 # Phineas1500/Onhand
 
-⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Phineas1500/Onhand) · [官网](https://useonhand.com) · 组织维护
+⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Phineas1500/Onhand) · [官网](https://useonhand.com) · 组织维护
 
 **浏览器 AI 阅读助手：就当前网页/PDF 提问并定位高亮答案**
 

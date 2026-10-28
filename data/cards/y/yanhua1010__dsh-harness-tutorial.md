@@ -1,6 +1,6 @@
 # yanhua1010/dsh-harness-tutorial
 
-⭐ 85 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/yanhua1010/dsh-harness-tutorial) · 个人维护 · 中文 README
+⭐ 84 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/yanhua1010/dsh-harness-tutorial) · 个人维护 · 中文 README
 
 **DeepSeek Harness 中文教程站：原理讲解 + 8 个 Demo + mini-harness 实现**
 

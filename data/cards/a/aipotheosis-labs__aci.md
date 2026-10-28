@@ -1,6 +1,6 @@
 # aipotheosis-labs/aci
 
-⭐ 4,924 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aipotheosis-labs/aci) · [官网](https://www.aci.dev/) · 组织维护
+⭐ 4,925 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/aipotheosis-labs/aci) · [官网](https://www.aci.dev/) · 组织维护
 
 **开源工具调用平台：为 AI agent 接入 600+ 工具与统一 MCP 服务器**
 

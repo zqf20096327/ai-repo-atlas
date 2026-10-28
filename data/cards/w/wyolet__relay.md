@@ -1,6 +1,6 @@
 # wyolet/relay
 
-⭐ 29 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/wyolet/relay) · [官网](https://docs.wyolet.com) · 组织维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wyolet/relay) · [官网](https://docs.wyolet.com) · 组织维护
 
 **自托管 LLM 网关：统一端点路由多家提供商并管理密钥**
 

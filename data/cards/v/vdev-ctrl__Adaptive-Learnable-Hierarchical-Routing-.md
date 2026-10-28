@@ -1,6 +1,6 @@
 # vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-) · 个人维护
 
 **自注意力的树路由替代方案：O(NlogN) 稀疏注意力模块（beta）**
 

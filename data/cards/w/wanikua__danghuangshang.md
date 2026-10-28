@@ -1,6 +1,6 @@
 # wanikua/danghuangshang
 
-⭐ 2,712 · TypeScript · MIT · 推送 2026-05-22 · [GitHub](https://github.com/wanikua/danghuangshang) · [官网](https://danghuangshang.com) · 个人维护 · 中文 README
+⭐ 2,713 · TypeScript · MIT · 推送 2026-05-22 · [GitHub](https://github.com/wanikua/danghuangshang) · [官网](https://danghuangshang.com) · 个人维护 · 中文 README
 
 **仿明朝官制的多 Agent 协作系统，用 Discord/飞书指挥 AI 大臣**
 

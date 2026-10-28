@@ -1,6 +1,6 @@
 # Alejandros17487/ai-jailbreaks
 
-⭐ 506 · 推送 2026-10-21 · [GitHub](https://github.com/Alejandros17487/ai-jailbreaks) · 个人维护
+⭐ 514 · 推送 2026-10-21 · [GitHub](https://github.com/Alejandros17487/ai-jailbreaks) · 个人维护
 
 **面向 25+ 模型的 35 条越狱提示词合集，用于 AI 安全研究**
 

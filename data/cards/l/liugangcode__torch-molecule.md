@@ -1,6 +1,6 @@
 # liugangcode/torch-molecule
 
-⭐ 333 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/liugangcode/torch-molecule) · 组织维护
+⭐ 333 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/liugangcode/torch-molecule) · 组织维护
 
 **分子发现深度学习库：sklearn 风格接口做性质预测与生成**
 

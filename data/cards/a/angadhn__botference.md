@@ -1,6 +1,6 @@
 # angadhn/botference
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/angadhn/botference) · [官网](https://botference.com) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/angadhn/botference) · [官网](https://botference.com) · 个人维护
 
 **终端多 LLM 规划议事厅：用户与 Claude Code、Codex 协作产出实施方案**
 

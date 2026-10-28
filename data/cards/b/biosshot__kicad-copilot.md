@@ -1,6 +1,6 @@
 # biosshot/kicad-copilot
 
-⭐ 20 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/biosshot/kicad-copilot) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/biosshot/kicad-copilot) · 个人维护
 
 **面向 AI agent 的 KiCad MCP 服务器：自然语言生成原理图与 PCB**
 

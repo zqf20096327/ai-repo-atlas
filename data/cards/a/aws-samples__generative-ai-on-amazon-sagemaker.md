@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-on-amazon-sagemaker
 
-⭐ 114 · Jupyter Notebook · MIT-0 · 推送 2026-10-27 · [GitHub](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker) · 组织维护
+⭐ 113 · Jupyter Notebook · MIT-0 · 推送 2026-10-27 · [GitHub](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker) · 组织维护
 
 **SageMaker/Bedrock 生成式 AI 示例与工作坊合集**
 

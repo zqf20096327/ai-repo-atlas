@@ -1,6 +1,6 @@
 # gaur-avvv/XGPT-WormGPT
 
-⭐ 273 · Shell · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/XGPT-WormGPT) · 个人维护
+⭐ 274 · Shell · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/XGPT-WormGPT) · 个人维护
 
 **面向黑帽场景的越狱提示词集合与展示仓库**
 

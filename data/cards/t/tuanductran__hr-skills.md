@@ -1,6 +1,6 @@
 # tuanductran/hr-skills
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tuanductran/hr-skills) · [官网](https://hr-skills-web.vercel.app) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tuanductran/hr-skills) · [官网](https://hr-skills-web.vercel.app) · 个人维护
 
 **面向 HR 从业者的 Agent Skills 知识库，覆盖招聘到留任全周期**
 

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Embodied-0.5-VLA
 
-⭐ 312 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) · 组织维护 · 中文 README
+⭐ 313 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-0.5-VLA) · 组织维护 · 中文 README
 
 **端到端视觉-语言-动作机器人操作系统：从数据到真机部署**
 

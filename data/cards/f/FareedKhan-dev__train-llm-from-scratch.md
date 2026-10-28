@@ -1,6 +1,6 @@
 # FareedKhan-dev/train-llm-from-scratch
 
-⭐ 12,610 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
+⭐ 12,817 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
 
 **从零手写 PyTorch 训练 LLM 的教学仓库：数据到推理全流程**
 

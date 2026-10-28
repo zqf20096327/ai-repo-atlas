@@ -1,6 +1,6 @@
 # caura-ai/caura-long-run-fleet
 
-⭐ 77 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-long-run-fleet) · [官网](https://caura.ai) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-long-run-fleet) · [官网](https://caura.ai) · 组织维护
 
 **演示多 Agent 共享治理记忆的参考舰队示例（Caura）**
 

@@ -1,6 +1,6 @@
 # caraml-dev/merlin
 
-⭐ 184 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/caraml-dev/merlin) · 组织维护
+⭐ 184 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/caraml-dev/merlin) · 组织维护
 
 **Kubernetes 上 ML 模型部署与 serving 平台**
 

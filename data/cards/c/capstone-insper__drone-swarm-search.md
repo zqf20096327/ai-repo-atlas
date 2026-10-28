@@ -1,6 +1,6 @@
 # capstone-insper/drone-swarm-search
 
-⭐ 85 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/capstone-insper/drone-swarm-search) · [官网](https://capstone-insper.github.io/drone-swarm-search/) · 组织维护
+⭐ 86 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/capstone-insper/drone-swarm-search) · [官网](https://capstone-insper.github.io/drone-swarm-search/) · 组织维护
 
 **面向无人机集群搜救的多智能体强化学习仿真环境库**
 

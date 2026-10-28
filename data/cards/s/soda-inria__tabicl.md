@@ -1,6 +1,6 @@
 # soda-inria/tabicl
 
-⭐ 1,449 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/soda-inria/tabicl) · [官网](https://tabicl.readthedocs.io/en/latest/) · 组织维护
+⭐ 1,449 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/soda-inria/tabicl) · [官网](https://tabicl.readthedocs.io/en/latest/) · 组织维护
 
 **表格数据基础模型：零样本分类/回归/时序预测**
 

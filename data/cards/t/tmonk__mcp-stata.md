@@ -1,6 +1,6 @@
 # tmonk/mcp-stata
 
-⭐ 90 · Python · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/tmonk/mcp-stata) · [官网](https://tdmonk.com) · 个人维护
+⭐ 91 · Python · AGPL-3.0 · 推送 2026-05-12 · [GitHub](https://github.com/tmonk/mcp-stata) · [官网](https://tdmonk.com) · 个人维护
 
 **让 AI agent 操作本地 Stata 的 MCP 服务器，面向实证经济学研究**
 

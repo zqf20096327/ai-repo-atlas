@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Numerical-Analysis-With-MATLAB
 
-⭐ 45 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · [官网](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · 个人维护
+⭐ 46 · MIT · 推送 2025-12-31 · [GitHub](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · [官网](https://github.com/Hazrat-Ali9/Numerical-Analysis-With-MATLAB) · 个人维护
 
 **MATLAB 数值分析算法代码集：欧拉法、Simpson、龙格-库塔等**
 

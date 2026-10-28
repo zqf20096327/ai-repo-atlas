@@ -1,6 +1,6 @@
 # ainoya/chrome-extension-web-distiller-ai
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ainoya/chrome-extension-web-distiller-ai) · [官网](https://chromewebstore.google.com/detail/web-distiller-ai/ooaogogbdciochplilffdihffdijakfk) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ainoya/chrome-extension-web-distiller-ai) · [官网](https://chromewebstore.google.com/detail/web-distiller-ai/ooaogogbdciochplilffdihffdijakfk) · 个人维护
 
 **用 Chrome 内置 Gemini Nano 网页摘要的浏览器扩展**
 

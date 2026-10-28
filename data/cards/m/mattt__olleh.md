@@ -1,6 +1,6 @@
 # mattt/olleh
 
-⭐ 189 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mattt/olleh) · 个人维护
+⭐ 190 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mattt/olleh) · 个人维护
 
 **让 Apple Foundation Models 通过 Ollama 兼容 API 使用的 CLI 桥接工具**
 

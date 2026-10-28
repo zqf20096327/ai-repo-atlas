@@ -1,6 +1,6 @@
 # WncFht/devin2api
 
-⭐ 59 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/WncFht/devin2api) · [官网](https://wncfht.github.io/devin2api/) · 个人维护 · 中文 README
+⭐ 60 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/WncFht/devin2api) · [官网](https://wncfht.github.io/devin2api/) · 个人维护 · 中文 README
 
 **把 Devin 账号模型包装成 OpenAI/Anthropic 兼容 API 的代理**
 

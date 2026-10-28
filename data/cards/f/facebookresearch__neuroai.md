@@ -1,6 +1,6 @@
 # facebookresearch/neuroai
 
-⭐ 335 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/facebookresearch/neuroai) · [官网](https://facebookresearch.github.io/neuroai/) · 组织维护
+⭐ 334 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/facebookresearch/neuroai) · [官网](https://facebookresearch.github.io/neuroai/) · 组织维护
 
 **面向神经科学的 Python 工具套件：数据加载、数据集获取、训练与基准**
 

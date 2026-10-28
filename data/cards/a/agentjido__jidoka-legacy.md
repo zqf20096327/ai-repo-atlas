@@ -1,6 +1,6 @@
 # agentjido/jidoka-legacy
 
-⭐ 44 · Elixir · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentjido/jidoka-legacy) · [官网](https://jido.run/ecosystem/jidoka) · 组织维护
+⭐ 44 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentjido/jidoka-legacy) · [官网](https://jido.run/ecosystem/jidoka) · 组织维护
 
 **面向应用开发的 Elixir LLM agent 框架，构建可暂停审查的 agent**
 

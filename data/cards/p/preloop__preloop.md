@@ -1,6 +1,6 @@
 # preloop/preloop
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/preloop/preloop) · [官网](https://preloop.ai) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/preloop/preloop) · [官网](https://preloop.ai) · 组织维护
 
 **自托管 AI agent 控制平面与软件工厂：治理每次工具与模型调用**
 

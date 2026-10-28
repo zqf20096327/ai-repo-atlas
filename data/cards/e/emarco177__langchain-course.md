@@ -1,6 +1,6 @@
 # emarco177/langchain-course
 
-⭐ 1,746 · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/emarco177/langchain-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 1,748 · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/emarco177/langchain-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **基于项目的 LangChain/LangGraph AI agent 开发课程仓库**
 

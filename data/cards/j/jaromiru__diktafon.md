@@ -1,6 +1,6 @@
 # jaromiru/diktafon
 
-⭐ 277 · C++ · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/jaromiru/diktafon) · 个人维护
+⭐ 278 · C++ · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/jaromiru/diktafon) · 个人维护
 
 **本地转写与摘要的私密语音备忘录应用（卡带式组织）**
 

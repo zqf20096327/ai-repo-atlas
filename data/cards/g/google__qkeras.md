@@ -1,6 +1,6 @@
 # google/qkeras
 
-⭐ 584 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/google/qkeras) · 组织维护
+⭐ 585 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/google/qkeras) · 组织维护
 
 **面向 TensorFlow Keras 的深度神经网络量化扩展库**
 

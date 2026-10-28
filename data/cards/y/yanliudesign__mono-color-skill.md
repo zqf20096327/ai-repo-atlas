@@ -1,6 +1,6 @@
 # yanliudesign/mono-color-skill
 
-⭐ 3,520 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/yanliudesign/mono-color-skill) · 个人维护 · 中文 README
+⭐ 3,533 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/yanliudesign/mono-color-skill) · 个人维护 · 中文 README
 
 **给 Claude 用户的单色/双色版画风格图像生成技能**
 

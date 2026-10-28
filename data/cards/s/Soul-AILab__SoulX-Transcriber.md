@@ -1,6 +1,6 @@
 # Soul-AILab/SoulX-Transcriber
 
-⭐ 303 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/Soul-AILab/SoulX-Transcriber) · [官网](https://soul-ailab.github.io/soulx-transcriber/) · 组织维护 · 中文 README
+⭐ 304 · Python · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/Soul-AILab/SoulX-Transcriber) · [官网](https://soul-ailab.github.io/soulx-transcriber/) · 组织维护 · 中文 README
 
 **多说话人语音转录的端到端音频语言大模型框架**
 

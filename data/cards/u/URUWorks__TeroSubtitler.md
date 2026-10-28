@@ -1,6 +1,6 @@
 # URUWorks/TeroSubtitler
 
-⭐ 471 · Pascal · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/URUWorks/TeroSubtitler) · [官网](https://uruworks.net) · 组织维护
+⭐ 470 · Pascal · MPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/URUWorks/TeroSubtitler) · [官网](https://uruworks.net) · 组织维护
 
 **跨平台开源字幕编辑软件，含自动转录与翻译**
 

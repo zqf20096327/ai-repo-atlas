@@ -1,6 +1,6 @@
 # stabgan/openrouter-mcp-multimodal
 
-⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/stabgan/openrouter-mcp-multimodal) · [官网](https://www.npmjs.com/package/@stabgan/openrouter-mcp-multimodal) · 个人维护
+⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/stabgan/openrouter-mcp-multimodal) · [官网](https://www.npmjs.com/package/@stabgan/openrouter-mcp-multimodal) · 个人维护
 
 **接入 OpenRouter 多模态 LLM API 的 MCP 服务器，21 个工具**
 

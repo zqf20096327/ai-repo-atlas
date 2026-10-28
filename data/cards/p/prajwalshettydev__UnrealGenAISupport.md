@@ -1,6 +1,6 @@
 # prajwalshettydev/UnrealGenAISupport
 
-⭐ 675 · C++ · MIT · 推送 2026-04-28 · [GitHub](https://github.com/prajwalshettydev/UnrealGenAISupport) · [官网](https://muddyterrain.com/docs/) · 个人维护
+⭐ 679 · C++ · MIT · 推送 2026-04-28 · [GitHub](https://github.com/prajwalshettydev/UnrealGenAISupport) · [官网](https://muddyterrain.com/docs/) · 个人维护
 
 **Unreal Engine 的 LLM/GenAI 接入插件与 MCP 服务器**
 

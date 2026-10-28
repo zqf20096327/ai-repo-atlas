@@ -1,6 +1,6 @@
 # scub-france/docling-Studio
 
-⭐ 268 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/scub-france/docling-Studio) · [官网](https://scub-france.github.io/docling-Studio/) · 组织维护
+⭐ 268 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/scub-france/docling-Studio) · [官网](https://scub-france.github.io/docling-Studio/) · 组织维护
 
 **基于 Docling 的可视化文档解析工作台，可索引至 OpenSearch/Neo4j**
 

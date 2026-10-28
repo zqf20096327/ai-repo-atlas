@@ -1,6 +1,6 @@
 # autowarefoundation/vision_pilot
 
-⭐ 919 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/autowarefoundation/vision_pilot) · [官网](https://autoware.org/) · 组织维护
+⭐ 920 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/autowarefoundation/vision_pilot) · [官网](https://autoware.org/) · 组织维护
 
 **面向量产乘用车的开源 L2 ADAS 全栈（端到端 AI）**
 

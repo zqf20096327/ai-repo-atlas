@@ -1,6 +1,6 @@
 # tysoncung/awesome-vibe-coding
 
-⭐ 24 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/tysoncung/awesome-vibe-coding) · 个人维护
+⭐ 25 · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/tysoncung/awesome-vibe-coding) · 个人维护
 
 **AI 编程助手与工具的策展清单（250+ 条）**
 

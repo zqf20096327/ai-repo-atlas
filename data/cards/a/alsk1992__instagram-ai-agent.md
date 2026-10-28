@@ -1,6 +1,6 @@
 # alsk1992/instagram-ai-agent
 
-⭐ 54 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/alsk1992/instagram-ai-agent) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/alsk1992/instagram-ai-agent) · 个人维护
 
 **自主运营 Instagram 账号的 AI agent：生成并定时发布内容**
 

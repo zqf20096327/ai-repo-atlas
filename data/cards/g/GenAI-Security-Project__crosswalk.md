@@ -1,6 +1,6 @@
 # GenAI-Security-Project/crosswalk
 
-⭐ 34 · JavaScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/GenAI-Security-Project/crosswalk) · [官网](https://genai-security-project.github.io/crosswalk/) · 组织维护
+⭐ 34 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/GenAI-Security-Project/crosswalk) · [官网](https://genai-security-project.github.io/crosswalk/) · 组织维护
 
 **OWASP GenAI 安全风险到 26 个合规框架的控件映射知识库**
 

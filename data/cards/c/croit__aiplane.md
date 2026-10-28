@@ -1,6 +1,6 @@
 # croit/aiplane
 
-⭐ 29 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/croit/aiplane) · [官网](https://www.croit.io/solutions/aiplane) · 组织维护
+⭐ 29 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/croit/aiplane) · [官网](https://www.croit.io/solutions/aiplane) · 组织维护
 
 **自托管 AI 平台：面向组织的模型网关、工作区与 agent 运行时**
 

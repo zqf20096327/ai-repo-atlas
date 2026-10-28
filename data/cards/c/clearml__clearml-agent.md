@@ -1,6 +1,6 @@
 # clearml/clearml-agent
 
-⭐ 314 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/clearml/clearml-agent) · [官网](https://clear.ml/docs/) · 组织维护
+⭐ 314 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/clearml/clearml-agent) · [官网](https://clear.ml/docs/) · 组织维护
 
 **面向 ML/DL 研发与运维的实验调度与集群执行 Agent**
 

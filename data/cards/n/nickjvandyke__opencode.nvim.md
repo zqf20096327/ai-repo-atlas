@@ -1,6 +1,6 @@
 # nickjvandyke/opencode.nvim
 
-⭐ 3,902 · Lua · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nickjvandyke/opencode.nvim) · 个人维护
+⭐ 3,901 · Lua · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nickjvandyke/opencode.nvim) · 个人维护
 
 **在 Neovim 中接入 OpenCode AI 编程助手的插件**
 

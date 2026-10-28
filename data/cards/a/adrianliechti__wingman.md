@@ -1,6 +1,6 @@
 # adrianliechti/wingman
 
-⭐ 79 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/adrianliechti/wingman) · 个人维护
+⭐ 79 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/adrianliechti/wingman) · 个人维护
 
 **统一 LLM 推理网关：多供应商与本地运行时单一 API 接入**
 

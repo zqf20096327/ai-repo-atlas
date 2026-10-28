@@ -1,6 +1,6 @@
 # google-deepmind/lab2d
 
-⭐ 445 · C++ · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/lab2d) · 组织维护
+⭐ 446 · C++ · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/lab2d) · 组织维护
 
 **供强化学习/多智能体研究的 2D 网格世界环境构建系统**
 

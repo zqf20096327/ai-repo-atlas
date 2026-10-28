@@ -1,6 +1,6 @@
 # NFeruch/reddit2text
 
-⭐ 124 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/NFeruch/reddit2text) · 个人维护
+⭐ 125 · Python · Apache-2.0 · 推送 2026-03-01 · [GitHub](https://github.com/NFeruch/reddit2text) · 个人维护
 
 **把 Reddit 帖子及评论转为结构化文本的 Python 库**
 

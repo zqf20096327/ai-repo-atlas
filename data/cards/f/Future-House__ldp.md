@@ -1,6 +1,6 @@
 # Future-House/ldp
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Future-House/ldp) · [官网](https://edisonscientific.gitbook.io/edison-cookbook/ldp-language-decision-processes) · 组织维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Future-House/ldp) · [官网](https://edisonscientific.gitbook.io/edison-cookbook/ldp-language-decision-processes) · 组织维护
 
 **语言智能体模块化框架：可互换组合智能体、环境与优化器**
 

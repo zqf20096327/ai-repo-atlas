@@ -1,6 +1,6 @@
 # Kochava-Studios/witsy
 
-⭐ 2,039 · TypeScript · AGPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/Kochava-Studios/witsy) · 组织维护
+⭐ 2,038 · TypeScript · AGPL-3.0 · 推送 2026-04-23 · [GitHub](https://github.com/Kochava-Studios/witsy) · 组织维护
 
 **桌面 AI 助手与通用 MCP 客户端（BYOK 多模型）**
 

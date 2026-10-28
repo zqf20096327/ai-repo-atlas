@@ -1,6 +1,6 @@
 # corveil/crow
 
-⭐ 20 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/corveil/crow) · 个人维护
+⭐ 20 · Swift · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/corveil/crow) · 个人维护
 
 **自托管 Web 会话管理器：并行编排多个 AI 编码 agent 与 git worktree**
 

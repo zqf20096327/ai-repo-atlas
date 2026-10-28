@@ -1,6 +1,6 @@
 # eudk/awesome-ai-tools
 
-⭐ 604 · CC0-1.0 · 推送 2026-06-07 · [GitHub](https://github.com/eudk/awesome-ai-tools) · 组织维护
+⭐ 605 · CC0-1.0 · 推送 2026-06-07 · [GitHub](https://github.com/eudk/awesome-ai-tools) · 组织维护
 
 **AI 工具策展清单：收录模型、平台与工具的社区导航目录**
 

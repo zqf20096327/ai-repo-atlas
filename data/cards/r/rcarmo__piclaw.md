@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-⭐ 885 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
+⭐ 885 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护 · 中文 README
 
 **自托管单用户 AI 编码工作区：浏览器内对话、编辑与执行**
 

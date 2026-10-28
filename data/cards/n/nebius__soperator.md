@@ -1,6 +1,6 @@
 # nebius/soperator
 
-⭐ 454 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nebius/soperator) · 组织维护
+⭐ 455 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nebius/soperator) · 组织维护
 
 **在 Kubernetes 上运行 Slurm 集群的开源 operator，面向 AI 训练与 HPC**
 

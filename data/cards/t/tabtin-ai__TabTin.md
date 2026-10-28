@@ -1,6 +1,6 @@
 # tabtin-ai/TabTin
 
-⭐ 444 · TypeScript · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/tabtin-ai/TabTin) · [官网](https://www.tabtin.com/) · 组织维护 · 中文 README
+⭐ 446 · TypeScript · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/tabtin-ai/TabTin) · [官网](https://www.tabtin.com/) · 组织维护 · 中文 README
 
 **人与多 Agent 团队协作平台：让 Agent 参与真实工作并支持任务交接**
 

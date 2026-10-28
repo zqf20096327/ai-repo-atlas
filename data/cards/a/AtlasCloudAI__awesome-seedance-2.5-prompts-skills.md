@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-seedance-2.5-prompts-skills
 
-⭐ 248 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · [官网](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) · 组织维护 · 中文 README
+⭐ 248 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · [官网](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) · 组织维护 · 中文 README
 
 **Seedance 2.5 视频提示词库与可安装视频生成 Agent Skill**
 

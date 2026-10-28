@@ -1,6 +1,6 @@
 # ShowayLiao/OtakuNeko
 
-⭐ 30 · Python · 推送 2026-10-25 · [GitHub](https://github.com/ShowayLiao/OtakuNeko) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ShowayLiao/OtakuNeko) · 个人维护 · 中文 README
 
 **给二次元爱好者的 LLM 番剧管理与分析私人助手**
 

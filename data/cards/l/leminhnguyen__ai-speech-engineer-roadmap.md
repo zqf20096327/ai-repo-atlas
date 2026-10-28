@@ -1,6 +1,6 @@
 # leminhnguyen/ai-speech-engineer-roadmap
 
-⭐ 48 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/leminhnguyen/ai-speech-engineer-roadmap) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/leminhnguyen/ai-speech-engineer-roadmap) · 个人维护
 
 **语音 AI 工程师学习路线图：课程、论文与动手教程合集**
 

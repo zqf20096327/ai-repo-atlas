@@ -1,6 +1,6 @@
 # Hipst3rMusic/obsidian-third-mind-reader
 
-⭐ 119 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hipst3rMusic/obsidian-third-mind-reader) · 个人维护
+⭐ 120 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hipst3rMusic/obsidian-third-mind-reader) · 个人维护
 
 **Obsidian 中的 EPUB/PDF 阅读器，高亮存为 markdown，AI 聊天可选**
 

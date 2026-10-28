@@ -1,6 +1,6 @@
 # heypinchy/pinchy
 
-⭐ 187 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/heypinchy/pinchy) · [官网](https://heypinchy.com) · 个人维护
+⭐ 192 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/heypinchy/pinchy) · [官网](https://heypinchy.com) · 个人维护
 
 **自托管的企业级 AI agent 平台，基于 OpenClaw 加权限与审计**
 

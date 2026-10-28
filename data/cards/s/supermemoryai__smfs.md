@@ -1,6 +1,6 @@
 # supermemoryai/smfs
 
-⭐ 490 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/supermemoryai/smfs) · [官网](https://smfs.ai) · 组织维护
+⭐ 491 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/supermemoryai/smfs) · [官网](https://smfs.ai) · 组织维护
 
 **把 Supermemory 记忆容器挂载为本地文件系统的 CLI 工具**
 

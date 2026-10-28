@@ -1,6 +1,6 @@
 # pelmesh619/itmo_conspects
 
-⭐ 212 · Markdown · Unlicense · 推送 2026-10-26 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
+⭐ 212 · Markdown · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
 
 **ИТМО大学学生课程笔记汇编（数学到机器学习等多科目）**
 

@@ -1,6 +1,6 @@
 # snake-aabb-wtf/deepseek-web2api-free
 
-⭐ 190 · Python · Unlicense · 推送 2026-10-27 · [GitHub](https://github.com/snake-aabb-wtf/deepseek-web2api-free) · 个人维护 · 中文 README
+⭐ 193 · Python · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/snake-aabb-wtf/deepseek-web2api-free) · 个人维护 · 中文 README
 
 **将 DeepSeek 网页版转换为 OpenAI/Anthropic 兼容 API 的代理**
 

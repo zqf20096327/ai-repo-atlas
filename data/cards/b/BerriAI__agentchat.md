@@ -1,6 +1,6 @@
 # BerriAI/agentchat
 
-⭐ 153 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BerriAI/agentchat) · 组织维护
+⭐ 154 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BerriAI/agentchat) · 组织维护
 
 **将 AI agent 连接到 Slack/Teams 等聊天渠道的 Python SDK**
 

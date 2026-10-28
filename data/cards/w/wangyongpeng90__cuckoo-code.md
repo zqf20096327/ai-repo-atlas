@@ -1,6 +1,6 @@
 # wangyongpeng90/cuckoo-code
 
-⭐ 280 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/wangyongpeng90/cuckoo-code) · 个人维护 · 中文 README
+⭐ 283 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/wangyongpeng90/cuckoo-code) · 个人维护 · 中文 README
 
 **零 Token 成本的 AI Agent 桌面端：网页版账号驱动本地工具执行**
 

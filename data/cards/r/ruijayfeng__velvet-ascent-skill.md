@@ -1,6 +1,6 @@
 # ruijayfeng/velvet-ascent-skill
 
-⭐ 29 · HTML · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ruijayfeng/velvet-ascent-skill) · [官网](https://www.npmjs.com/package/@ruizhefeng/velvet-ascent-skill) · 个人维护 · 中文 README
+⭐ 30 · HTML · MIT · 推送 2026-07-13 · [GitHub](https://github.com/ruijayfeng/velvet-ascent-skill) · [官网](https://www.npmjs.com/package/@ruizhefeng/velvet-ascent-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 装的中文成人向文字 GalGame GM 技能**
 

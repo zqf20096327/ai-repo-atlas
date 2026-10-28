@@ -1,6 +1,6 @@
 # descriptinc/descript-audio-codec
 
-⭐ 1,879 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/descriptinc/descript-audio-codec) · [官网](https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5) · 组织维护
+⭐ 1,881 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/descriptinc/descript-audio-codec) · [官网](https://descript.notion.site/Descript-Audio-Codec-11389fce0ce2419891d6591a68f814d5) · 组织维护
 
 **神经音频编解码器：44.1kHz 音频压缩至 8kbps 离散码**
 

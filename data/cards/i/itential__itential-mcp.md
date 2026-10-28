@@ -1,6 +1,6 @@
 # itential/itential-mcp
 
-⭐ 36 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/itential/itential-mcp) · 组织维护
+⭐ 36 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/itential/itential-mcp) · 组织维护
 
 **连接 LLM 与 Itential 网络自动化平台的 MCP 服务器**
 

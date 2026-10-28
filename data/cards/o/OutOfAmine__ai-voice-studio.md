@@ -1,6 +1,6 @@
 # OutOfAmine/ai-voice-studio
 
-⭐ 25 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OutOfAmine/ai-voice-studio) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/OutOfAmine/ai-voice-studio) · 个人维护
 
 **把手机语音笔记处理成录音棚麦克风音质的本地工具**
 

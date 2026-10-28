@@ -1,6 +1,6 @@
 # Qin-sor/agent-context-lab
 
-⭐ 41 · Python · 推送 2026-07-23 · [GitHub](https://github.com/Qin-sor/agent-context-lab) · 个人维护 · 中文 README
+⭐ 41 · Python · 推送 2026-10-28 · [GitHub](https://github.com/Qin-sor/agent-context-lab) · 个人维护 · 中文 README
 
 **量化 coding-agent 上下文管理代价的最小实验 harness**
 

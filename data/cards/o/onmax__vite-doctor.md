@@ -1,6 +1,6 @@
 # onmax/vite-doctor
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/onmax/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/onmax/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
 
 **面向 AI agent 代码的 Nuxt/Vue/Vite/Nitro 框架缺陷诊断工具**
 

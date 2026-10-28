@@ -1,6 +1,6 @@
 # jassics/awesome-genai-security
 
-⭐ 87 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jassics/awesome-genai-security) · 个人维护
+⭐ 88 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jassics/awesome-genai-security) · 个人维护
 
 **GenAI/Agentic AI 安全领域链接与资源的策展清单**
 

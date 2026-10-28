@@ -1,6 +1,6 @@
 # john-walks-slow/rabbit-skills
 
-⭐ 26 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/john-walks-slow/rabbit-skills) · [官网](https://john-walks-slow.github.io/rabbit-skills/) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/john-walks-slow/rabbit-skills) · [官网](https://john-walks-slow.github.io/rabbit-skills/) · 个人维护 · 中文 README
 
 **轻量 Coding Agent 配置套件：指令、子代理与工作流技能**
 

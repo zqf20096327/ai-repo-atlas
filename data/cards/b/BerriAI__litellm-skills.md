@@ -1,6 +1,6 @@
 # BerriAI/litellm-skills
 
-⭐ 102 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/BerriAI/litellm-skills) · [官网](https://github.com/BerriAI/litellm-skills) · 组织维护
+⭐ 103 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/BerriAI/litellm-skills) · [官网](https://github.com/BerriAI/litellm-skills) · 组织维护
 
 **管理 LiteLLM 代理部署的 Agent Skills 集合**
 

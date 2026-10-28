@@ -1,6 +1,6 @@
 # lobehub/lobe-chat-agents
 
-⭐ 1,243 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-agents) · [官网](https://lobechat.com/discover/assistants) · 组织维护 · 中文 README
+⭐ 1,242 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-agents) · [官网](https://lobechat.com/discover/assistants) · 组织维护 · 中文 README
 
 **LobeChat 的 agent 提示词索引：聚合社区提交的聊天 agent 清单**
 

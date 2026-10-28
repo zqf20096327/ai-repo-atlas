@@ -1,6 +1,6 @@
 # capazme/mcp-legal-it
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/capazme/mcp-legal-it) · [官网](https://capazme.github.io/mcp-legal-it/) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/capazme/mcp-legal-it) · [官网](https://capazme.github.io/mcp-legal-it/) · 个人维护
 
 **意大利法律 MCP 服务器：为 Claude 提供 228 个法律工具**
 

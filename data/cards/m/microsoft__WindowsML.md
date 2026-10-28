@@ -1,6 +1,6 @@
 # microsoft/WindowsML
 
-⭐ 46 · PowerShell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsML) · [官网](https://aka.ms/winml) · 组织维护
+⭐ 45 · PowerShell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/WindowsML) · [官网](https://aka.ms/winml) · 组织维护
 
 **Windows 本地 AI 推理框架：在 CPU/GPU/NPU 上运行 ONNX 模型**
 

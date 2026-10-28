@@ -1,6 +1,6 @@
 # ZhuYichuan/infinite-canvas
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ZhuYichuan/infinite-canvas) · [官网](https://canvas.imihoo.com) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZhuYichuan/infinite-canvas) · [官网](https://canvas.imihoo.com) · 个人维护 · 中文 README
 
 **面向 ComfyUI 的无限画布 AI 创作工作台，纯前端直连生图/视频**
 

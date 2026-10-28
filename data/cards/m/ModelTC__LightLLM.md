@@ -1,6 +1,6 @@
 # ModelTC/LightLLM
 
-⭐ 4,339 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ModelTC/LightLLM) · 组织维护 · 中文 README
+⭐ 4,342 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ModelTC/LightLLM) · 组织维护 · 中文 README
 
 **基于 Python 的 LLM 推理与服务框架**
 

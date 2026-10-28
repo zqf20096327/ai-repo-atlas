@@ -1,6 +1,6 @@
 # laoziocean-code/ai-photo-manager
 
-⭐ 32 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laoziocean-code/ai-photo-manager) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laoziocean-code/ai-photo-manager) · 个人维护 · 中文 README
 
 **从海量照片中自动精选好照片的 AI 摄影管理工具**
 

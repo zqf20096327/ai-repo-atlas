@@ -1,6 +1,6 @@
 # ontogr/agentic-graphrag
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ontogr/agentic-graphrag) · [官网](https://ontogr.github.io/agentic-graphrag/) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ontogr/agentic-graphrag) · [官网](https://ontogr.github.io/agentic-graphrag/) · 组织维护
 
 **Python 框架：把企业文档、agent 历史与决策轨迹接入一张图谱**
 

@@ -1,6 +1,6 @@
 # aantich/oneringai
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aantich/oneringai) · [官网](https://oneringai.io) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aantich/oneringai) · [官网](https://oneringai.io) · 组织维护
 
 **统一多厂商 AI agent TypeScript 库：文本/图像/音频/工作流一体化**
 

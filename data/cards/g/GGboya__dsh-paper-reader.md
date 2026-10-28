@@ -1,6 +1,6 @@
 # GGboya/dsh-paper-reader
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GGboya/dsh-paper-reader) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GGboya/dsh-paper-reader) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：论文伴读工作台，PDF 阅读 + 带页码 AI 问答**
 

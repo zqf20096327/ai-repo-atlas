@@ -1,6 +1,6 @@
 # QwenLM/Qwen-RobotNav
 
-⭐ 195 · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Qwen-RobotNav) · 组织维护 · 中文 README
+⭐ 196 · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Qwen-RobotNav) · 组织维护 · 中文 README
 
 **面向具身智能的统一多域机器人导航模型（基于 Qwen3-VL）**
 

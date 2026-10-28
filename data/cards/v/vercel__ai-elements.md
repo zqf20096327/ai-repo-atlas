@@ -1,6 +1,6 @@
 # vercel/ai-elements
 
-⭐ 2,499 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/vercel/ai-elements) · [官网](https://elements.ai-sdk.dev) · 组织维护
+⭐ 2,500 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/vercel/ai-elements) · [官网](https://elements.ai-sdk.dev) · 组织维护
 
 **面向 AI 应用的 React 组件库与注册表，基于 shadcn/ui**
 

@@ -1,6 +1,6 @@
 # memvid/claude-brain
 
-⭐ 580 · TypeScript · MIT · 推送 2026-01-19 · [GitHub](https://github.com/memvid/claude-brain) · [官网](https://memvid.com) · 组织维护
+⭐ 581 · TypeScript · MIT · 推送 2026-01-19 · [GitHub](https://github.com/memvid/claude-brain) · [官网](https://memvid.com) · 组织维护
 
 **给 Claude Code 增加单文件跨会话记忆的插件**
 

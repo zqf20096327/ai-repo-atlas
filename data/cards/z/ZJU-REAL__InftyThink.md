@@ -1,6 +1,6 @@
 # ZJU-REAL/InftyThink
 
-⭐ 58 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/ZJU-REAL/InftyThink) · [官网](https://zju-real.github.io/InftyThink/) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/ZJU-REAL/InftyThink) · [官网](https://zju-real.github.io/InftyThink/) · 组织维护
 
 **论文项目：将长上下文推理切分为带摘要的迭代短段以降本**
 

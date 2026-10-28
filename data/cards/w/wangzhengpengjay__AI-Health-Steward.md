@@ -1,6 +1,6 @@
 # wangzhengpengjay/AI-Health-Steward
 
-⭐ 67 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wangzhengpengjay/AI-Health-Steward) · [官网](https://wangzhengpengjay.github.io/AI-Health-Steward/) · 个人维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wangzhengpengjay/AI-Health-Steward) · [官网](https://wangzhengpengjay.github.io/AI-Health-Steward/) · 个人维护 · 中文 README
 
 **可私有化部署的家庭 AI 健康管家：健康画像 + AI 咨询**
 

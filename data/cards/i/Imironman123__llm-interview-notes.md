@@ -1,6 +1,6 @@
 # Imironman123/llm-interview-notes
 
-⭐ 35 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Imironman123/llm-interview-notes) · 个人维护 · 中文 README
+⭐ 36 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Imironman123/llm-interview-notes) · 个人维护 · 中文 README
 
 **大模型算法/应用/Infra 岗位面试资料合集：15 份文档、386 道题**
 

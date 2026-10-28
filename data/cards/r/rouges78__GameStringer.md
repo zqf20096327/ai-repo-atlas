@@ -1,6 +1,6 @@
 # rouges78/GameStringer
 
-⭐ 135 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/rouges78/GameStringer) · [官网](https://gamestringer.ai) · 个人维护
+⭐ 136 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/rouges78/GameStringer) · [官网](https://gamestringer.ai) · 个人维护
 
 **桌面应用：自动检测游戏引擎，用 AI 翻译游戏文本并打回补丁**
 

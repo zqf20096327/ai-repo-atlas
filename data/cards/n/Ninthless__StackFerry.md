@@ -1,6 +1,6 @@
 # Ninthless/StackFerry
 
-⭐ 29 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Ninthless/StackFerry) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Ninthless/StackFerry) · 个人维护 · 中文 README
 
 **桌面工具：统一管理 Codex/Claude Code/Grok 的供应商与本地故障转移路由**
 

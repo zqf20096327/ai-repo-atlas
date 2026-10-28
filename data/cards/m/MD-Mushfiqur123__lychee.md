@@ -1,6 +1,6 @@
 # MD-Mushfiqur123/lychee
 
-⭐ 41 · Go · MIT · 推送 2026-06-17 · [GitHub](https://github.com/MD-Mushfiqur123/lychee) · [官网](https://github.com/MD-Mushfiqur123/lychee) · 个人维护
+⭐ 42 · Go · MIT · 推送 2026-06-17 · [GitHub](https://github.com/MD-Mushfiqur123/lychee) · [官网](https://github.com/MD-Mushfiqur123/lychee) · 个人维护
 
 **本地 LLM 运行时：兼容 Ollama 端口，支持 HuggingFace 模型直拉**
 

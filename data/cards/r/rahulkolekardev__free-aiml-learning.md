@@ -1,6 +1,6 @@
 # rahulkolekardev/free-aiml-learning
 
-⭐ 27 · 推送 2025-11-01 · [GitHub](https://github.com/rahulkolekardev/free-aiml-learning) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **社区维护的免费 AI/ML 学习资源清单：从入门到生产**
 

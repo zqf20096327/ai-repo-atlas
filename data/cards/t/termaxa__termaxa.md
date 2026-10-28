@@ -1,6 +1,6 @@
 # termaxa/termaxa
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/termaxa/termaxa) · [官网](https://termaxa.com) · 组织维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/termaxa/termaxa) · [官网](https://termaxa.com) · 组织维护
 
 **拦截 AI 编程 agent 危险 shell 命令的 Rust 守门工具**
 

@@ -1,6 +1,6 @@
 # libre-webui/libre-webui
 
-⭐ 100 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/libre-webui/libre-webui) · [官网](https://librewebui.org) · 组织维护
+⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/libre-webui/libre-webui) · [官网](https://librewebui.org) · 组织维护
 
 **自托管本地优先 AI 工作台：聊天、知识检索、工件与隔离 agent 任务**
 

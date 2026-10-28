@@ -1,6 +1,6 @@
 # nicosuave/memex
 
-⭐ 290 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nicosuave/memex) · 个人维护
+⭐ 292 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nicosuave/memex) · 个人维护
 
 **本地编码 agent 会话历史的索引、搜索与恢复工具**
 

@@ -1,6 +1,6 @@
 # syalia-srl/beaver
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/syalia-srl/beaver) · [官网](https://syalia.com/beaver/) · 组织维护
 
 **给开发者的纯 Python 嵌入式多模型数据库：关系/文档/向量/图/事件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

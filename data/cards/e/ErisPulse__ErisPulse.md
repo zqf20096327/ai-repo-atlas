@@ -1,6 +1,6 @@
 # ErisPulse/ErisPulse
 
-⭐ 58 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ErisPulse/ErisPulse) · [官网](https://www.erisdev.com) · 组织维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ErisPulse/ErisPulse) · [官网](https://www.erisdev.com) · 组织维护 · 中文 README
 
 **事件驱动的多平台聊天机器人框架，一套代码接入 15+ 平台**
 

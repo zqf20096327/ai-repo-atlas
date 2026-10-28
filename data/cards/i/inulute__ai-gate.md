@@ -1,6 +1,6 @@
 # inulute/ai-gate
 
-⭐ 219 · TypeScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/ai-gate) · [官网](https://aigate.inulute.com) · 个人维护
+⭐ 220 · TypeScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/ai-gate) · [官网](https://aigate.inulute.com) · 个人维护
 
 **桌面聚合客户端：在一个应用内同时使用多个 AI 网页工具**
 

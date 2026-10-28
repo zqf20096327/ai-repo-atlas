@@ -1,6 +1,6 @@
 # EuniAI/awesome-code-agents
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/EuniAI/awesome-code-agents) · [官网](https://euniai.github.io/awesome-code-agents/) · 组织维护
+⭐ 169 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/EuniAI/awesome-code-agents) · [官网](https://euniai.github.io/awesome-code-agents/) · 组织维护
 
 **自主代码 agent 前沿研究论文策展清单（470 篇）**
 

@@ -1,6 +1,6 @@
 # AgriciDaniel/fablesecondbrain
 
-⭐ 42 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/fablesecondbrain) · [官网](https://agricidaniel.github.io/fablesecondbrain) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/fablesecondbrain) · [官网](https://agricidaniel.github.io/fablesecondbrain) · 个人维护
 
 **面向 Claude Fable 5 与 agent 运维的 Obsidian 知识库（第二大脑）**
 

@@ -1,6 +1,6 @@
 # unionst/swift-chat
 
-⭐ 40 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/unionst/swift-chat) · [官网](https://unionst.com/swiftchat) · 组织维护
+⭐ 41 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/unionst/swift-chat) · [官网](https://unionst.com/swiftchat) · 组织维护
 
 **给 iOS 开发者的 SwiftUI 聊天 UI 组件库，支持 AI 助手流式对话**
 

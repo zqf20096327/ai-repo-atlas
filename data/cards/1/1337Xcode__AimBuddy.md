@@ -1,6 +1,6 @@
 # 1337Xcode/AimBuddy
 
-⭐ 66 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/1337Xcode/AimBuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护 · 中文 README
+⭐ 69 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/1337Xcode/AimBuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护 · 中文 README
 
 **Android 端实时目标检测辅助应用，供视障玩家检测和追踪对手**
 

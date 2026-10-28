@@ -1,6 +1,6 @@
 # prabanta-dev/janas
 
-⭐ 469 · C · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/prabanta-dev/janas) · 个人维护
+⭐ 471 · C · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/prabanta-dev/janas) · 个人维护
 
 **纯 C 编写的本地 LLM 推理引擎，跑超出内存的大 MoE 模型**
 

@@ -1,6 +1,6 @@
 # aimeos/pagible
 
-⭐ 600 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aimeos/pagible) · [官网](https://pagible.com) · 组织维护
+⭐ 600 · PHP · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aimeos/pagible) · [官网](https://pagible.com) · 组织维护
 
 **可装入 Laravel 应用的 AI 驱动无头 CMS 包**
 

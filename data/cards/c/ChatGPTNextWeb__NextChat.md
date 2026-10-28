@@ -1,6 +1,6 @@
 # ChatGPTNextWeb/NextChat
 
-⭐ 88,903 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
+⭐ 88,912 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChatGPTNextWeb/NextChat) · [官网](https://nextchat.club) · 组织维护 · 中文 README
 
 **给消费者/开发者提供零配置跨平台 AI 聊天客户端**
 

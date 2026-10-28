@@ -1,6 +1,6 @@
 # sanidhyy/duolingo-clone
 
-⭐ 690 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sanidhyy/duolingo-clone) · [官网](https://lingo-clone.vercel.app) · 个人维护
+⭐ 691 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sanidhyy/duolingo-clone) · [官网](https://lingo-clone.vercel.app) · 个人维护
 
 **Duolingo 风格的交互式语言学习 Web 平台**
 

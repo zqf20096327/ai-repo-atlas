@@ -1,6 +1,6 @@
 # Decade-qiu/CookHero
 
-⭐ 635 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Decade-qiu/CookHero) · 个人维护 · 中文 README
+⭐ 636 · Python · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/Decade-qiu/CookHero) · 个人维护 · 中文 README
 
 **面向个人用户的 AI 饮食烹饪助手：菜谱问答与饮食管理平台**
 

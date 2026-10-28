@@ -1,6 +1,6 @@
 # Sibyl-Labs/Sibyl-Memory
 
-⭐ 174 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Sibyl-Labs/Sibyl-Memory) · [官网](https://sibyllabs.org/plugin) · 组织维护
+⭐ 175 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Sibyl-Labs/Sibyl-Memory) · [官网](https://sibyllabs.org/plugin) · 组织维护
 
 **AI agent 的本地文件式长期记忆插件族（五包）**
 

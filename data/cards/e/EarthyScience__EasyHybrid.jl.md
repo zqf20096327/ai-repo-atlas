@@ -1,6 +1,6 @@
 # EarthyScience/EasyHybrid.jl
 
-⭐ 27 · Julia · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EarthyScience/EasyHybrid.jl) · [官网](https://earthyscience.github.io/EasyHybrid.jl/stable/) · 组织维护
+⭐ 27 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EarthyScience/EasyHybrid.jl) · [官网](https://earthyscience.github.io/EasyHybrid.jl/stable/) · 组织维护
 
 **Julia 混合建模框架：把神经网络嵌入过程机理模型并联合训练**
 

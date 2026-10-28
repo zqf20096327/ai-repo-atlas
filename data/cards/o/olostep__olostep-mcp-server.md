@@ -1,6 +1,6 @@
 # olostep/olostep-mcp-server
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/olostep/olostep-mcp-server) · [官网](https://www.olostep.com/integrations/mcp-server) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/olostep/olostep-mcp-server) · [官网](https://www.olostep.com/integrations/mcp-server) · 组织维护
 
 **让 MCP 兼容 AI agent 具备网页抓取、爬取与搜索能力的服务器**
 

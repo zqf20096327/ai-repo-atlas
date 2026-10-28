@@ -1,6 +1,6 @@
 # yihong1120/Construction-Hazard-Detection
 
-⭐ 349 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/yihong1120/Construction-Hazard-Detection) · [官网](https://visionnaire-cda17.web.app/) · 个人维护 · 中文 README
+⭐ 351 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/yihong1120/Construction-Hazard-Detection) · [官网](https://visionnaire-cda17.web.app/) · 个人维护 · 中文 README
 
 **工地摄像头实时安全隐患检测系统（未戴安全帽/接近机械等）**
 

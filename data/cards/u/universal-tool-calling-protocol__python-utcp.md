@@ -1,6 +1,6 @@
 # universal-tool-calling-protocol/python-utcp
 
-⭐ 653 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/universal-tool-calling-protocol/python-utcp) · [官网](https://www.utcp.io/) · 组织维护
+⭐ 652 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/universal-tool-calling-protocol/python-utcp) · [官网](https://www.utcp.io/) · 组织维护
 
 **让 AI agent 直接调用各类 API 的工具调用协议 Python 实现**
 

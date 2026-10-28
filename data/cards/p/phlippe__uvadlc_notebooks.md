@@ -1,6 +1,6 @@
 # phlippe/uvadlc_notebooks
 
-⭐ 3,204 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/phlippe/uvadlc_notebooks) · [官网](https://uvadlc-notebooks.readthedocs.io/en/latest/) · 组织维护
+⭐ 3,203 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/phlippe/uvadlc_notebooks) · [官网](https://uvadlc-notebooks.readthedocs.io/en/latest/) · 组织维护
 
 **阿姆斯特丹大学深度学习课程的 Jupyter 教程笔记本集**
 

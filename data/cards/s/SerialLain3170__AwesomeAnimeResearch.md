@@ -1,6 +1,6 @@
 # SerialLain3170/AwesomeAnimeResearch
 
-⭐ 1,254 · 推送 2026-07-20 · [GitHub](https://github.com/SerialLain3170/AwesomeAnimeResearch) · 个人维护
+⭐ 1,256 · 推送 2026-07-20 · [GitHub](https://github.com/SerialLain3170/AwesomeAnimeResearch) · 个人维护
 
 **动画/漫画研究的论文与数据集策展清单**
 

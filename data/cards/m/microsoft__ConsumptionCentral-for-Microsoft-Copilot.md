@@ -1,6 +1,6 @@
 # microsoft/ConsumptionCentral-for-Microsoft-Copilot
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/ConsumptionCentral-for-Microsoft-Copilot) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/ConsumptionCentral-for-Microsoft-Copilot) · 组织维护
 
 **Microsoft Copilot 额度消耗与成本分析的 Power BI 模板/应用**
 

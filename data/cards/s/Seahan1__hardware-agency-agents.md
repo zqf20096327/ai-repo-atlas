@@ -1,6 +1,6 @@
 # Seahan1/hardware-agency-agents
 
-⭐ 28 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Seahan1/hardware-agency-agents) · 个人维护 · 中文 README
+⭐ 29 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Seahan1/hardware-agency-agents) · 个人维护 · 中文 README
 
 **面向硬件工程师角色的 AI agent 技能文档库（47+16 条）**
 

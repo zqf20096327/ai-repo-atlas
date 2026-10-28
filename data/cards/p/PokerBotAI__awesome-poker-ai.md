@@ -1,6 +1,6 @@
 # PokerBotAI/awesome-poker-ai
 
-⭐ 75 · 推送 2026-10-26 · [GitHub](https://github.com/PokerBotAI/awesome-poker-ai) · 组织维护
+⭐ 76 · 推送 2026-10-26 · [GitHub](https://github.com/PokerBotAI/awesome-poker-ai) · 组织维护
 
 **AI 扑克资源策展清单：论文、开源工具、求解器与评测**
 

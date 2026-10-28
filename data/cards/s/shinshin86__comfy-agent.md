@@ -1,6 +1,6 @@
 # shinshin86/comfy-agent
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shinshin86/comfy-agent) · [官网](https://www.npmjs.com/package/comfy-agent) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shinshin86/comfy-agent) · [官网](https://www.npmjs.com/package/comfy-agent) · 个人维护
 
 **无 GPU 创作者通过 CLI 将图像/视频/音乐生成委托给远程 ComfyUI**
 

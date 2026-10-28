@@ -1,6 +1,6 @@
 # pixano/pixano
 
-⭐ 64 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/pixano/pixano) · [官网](https://pixano.github.io/) · 组织维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pixano/pixano) · [官网](https://pixano.github.io/) · 组织维护
 
 **面向计算机视觉的数据探索与 AI 标注开源工具**
 

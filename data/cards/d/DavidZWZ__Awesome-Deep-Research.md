@@ -1,6 +1,6 @@
 # DavidZWZ/Awesome-Deep-Research
 
-⭐ 875 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research) · [官网](https://arxiv.org/abs/2506.18959) · 个人维护 · 中文 README
+⭐ 874 · MIT · 推送 2026-07-23 · [GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research) · [官网](https://arxiv.org/abs/2506.18959) · 个人维护 · 中文 README
 
 **Agentic Deep Research 领域的资源策展清单（论文/产品/开源实现）**
 

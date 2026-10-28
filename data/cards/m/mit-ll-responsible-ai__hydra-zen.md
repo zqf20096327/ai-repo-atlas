@@ -1,6 +1,6 @@
 # mit-ll-responsible-ai/hydra-zen
 
-⭐ 478 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mit-ll-responsible-ai/hydra-zen) · [官网](https://mit-ll-responsible-ai.github.io/hydra-zen/) · 组织维护
+⭐ 478 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mit-ll-responsible-ai/hydra-zen) · [官网](https://mit-ll-responsible-ai.github.io/hydra-zen/) · 组织维护
 
 **面向可复现工作流的 Hydra 配置库，免写 YAML 与样板代码**
 

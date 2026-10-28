@@ -1,6 +1,6 @@
 # dr-mushtaq/Machine-Learning
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/dr-mushtaq/Machine-Learning) · [官网](https://coursesteach.com/) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dr-mushtaq/Machine-Learning) · [官网](https://coursesteach.com/) · 个人维护
 
 **机器学习与数据科学 A-Z 教程清单：Python 算法实现与课程资源**
 

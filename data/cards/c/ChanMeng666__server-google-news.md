@@ -1,6 +1,6 @@
 # ChanMeng666/server-google-news
 
-⭐ 129 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ChanMeng666/server-google-news) · [官网](https://glama.ai/mcp/servers/dbx6imq4ef) · 个人维护
+⭐ 129 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChanMeng666/server-google-news) · [官网](https://glama.ai/mcp/servers/dbx6imq4ef) · 个人维护
 
 **让 Claude 等 AI 助手搜索 Google News 实时新闻的 MCP 服务器**
 

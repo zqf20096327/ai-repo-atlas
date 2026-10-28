@@ -1,6 +1,6 @@
 # he-yufeng/CoreCoder
 
-⭐ 1,877 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
+⭐ 1,879 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
 
 **极简可读的 AI 编码 agent：约 1.3k 行引擎供学习与二次开发**
 

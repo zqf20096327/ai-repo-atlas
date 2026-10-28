@@ -1,6 +1,6 @@
 # ganapativs/microcharts
 
-⭐ 205 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ganapativs/microcharts) · [官网](https://microcharts.dev) · 个人维护
+⭐ 205 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ganapativs/microcharts) · [官网](https://microcharts.dev) · 个人维护
 
 **面向 LLM 输出场景的 React 微型图表库：106 种字内图表**
 

@@ -1,6 +1,6 @@
 # holasoymalva/deepseek-cli
 
-⭐ 324 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/holasoymalva/deepseek-cli) · [官网](https://deepseek-cli.vercel.app/) · 个人维护
+⭐ 325 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/holasoymalva/deepseek-cli) · [官网](https://deepseek-cli.vercel.app/) · 个人维护
 
 **调用 DeepSeek Coder 模型的命令行 AI 编程助手**
 

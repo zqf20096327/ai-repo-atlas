@@ -1,6 +1,6 @@
 # opensandbox-group/OpenSandbox
 
-⭐ 16,207 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
+⭐ 16,240 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
 
 **面向 AI agent 的沙箱运行时：自建基础设施上隔离执行代码**
 

@@ -1,6 +1,6 @@
 # bieniu/ha-perplexity
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/bieniu/ha-perplexity) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bieniu/ha-perplexity) · 个人维护
 
 **在 Home Assistant 中接入 Perplexity 的对话助手集成**
 

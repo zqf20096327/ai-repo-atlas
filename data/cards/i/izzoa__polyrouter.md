@@ -1,6 +1,6 @@
 # izzoa/polyrouter
 
-⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/izzoa/polyrouter) · [官网](https://polyrouter.app) · 个人维护
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/izzoa/polyrouter) · [官网](https://polyrouter.app) · 个人维护
 
 **可自托管的 LLM 路由/网关：统一端点、多供应商路由与预算控制**
 

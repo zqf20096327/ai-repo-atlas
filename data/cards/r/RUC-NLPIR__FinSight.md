@@ -1,6 +1,6 @@
 # RUC-NLPIR/FinSight
 
-⭐ 276 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/RUC-NLPIR/FinSight) · 组织维护 · 中文 README
+⭐ 277 · Jupyter Notebook · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/RUC-NLPIR/FinSight) · 组织维护 · 中文 README
 
 **输入股票代码即自动产出金融深度研究报告的多智能体系统**
 

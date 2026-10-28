@@ -1,6 +1,6 @@
 # EnragedAntelope/comfyui-identity-forge
 
-⭐ 28 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EnragedAntelope/comfyui-identity-forge) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EnragedAntelope/comfyui-identity-forge) · 个人维护
 
 **ComfyUI 角色生成节点组：下拉菜单生成连贯可复现的角色提示词**
 

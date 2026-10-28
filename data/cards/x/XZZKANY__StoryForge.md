@@ -1,6 +1,6 @@
 # XZZKANY/StoryForge
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/XZZKANY/StoryForge) · [官网](https://github.com/XZZKANY/StoryForge/releases/latest) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/XZZKANY/StoryForge) · [官网](https://github.com/XZZKANY/StoryForge/releases/latest) · 个人维护 · 中文 README
 
 **长篇小说作者的 AI 写作 IDE：对话审稿、逐字 diff 确认落盘**
 

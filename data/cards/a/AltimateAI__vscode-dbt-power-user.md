@@ -1,6 +1,6 @@
 # AltimateAI/vscode-dbt-power-user
 
-⭐ 586 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AltimateAI/vscode-dbt-power-user) · [官网](https://www.altimate.ai) · 组织维护
+⭐ 586 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AltimateAI/vscode-dbt-power-user) · [官网](https://www.altimate.ai) · 组织维护
 
 **让 VSCode 与 dbt 协同开发的扩展，含 AI 文档生成**
 

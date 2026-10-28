@@ -1,6 +1,6 @@
 # openai/openai-fm
 
-⭐ 2,908 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openai/openai-fm) · [官网](https://openai.fm) · 组织维护
+⭐ 2,907 · TypeScript · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openai/openai-fm) · [官网](https://openai.fm) · 组织维护
 
 **OpenAI 文本转语音模型的交互式演示网站（openai.fm 源码）**
 

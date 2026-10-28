@@ -1,6 +1,6 @@
 # DemonGatanjieu/Anomalous_Model_Browser
 
-⭐ 138 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_Model_Browser) · 个人维护 · 中文 README
+⭐ 142 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_Model_Browser) · 个人维护 · 中文 README
 
 **ComfyUI 插件：模型浏览、图库回溯、工作流与提示词管理**
 

@@ -1,6 +1,6 @@
 # jaywyawhare/C-ML
 
-⭐ 117 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jaywyawhare/C-ML) · [官网](https://jaywyawhare.github.io/C-ML/) · 个人维护
+⭐ 117 · C · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jaywyawhare/C-ML) · [官网](https://jaywyawhare.github.io/C-ML/) · 个人维护
 
 **纯 C11 实现的机器学习库：张量、autograd、算子融合编译与 LLM 推理**
 

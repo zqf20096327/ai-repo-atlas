@@ -1,6 +1,6 @@
 # facebookresearch/BenchMARL
 
-⭐ 677 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/facebookresearch/BenchMARL) · [官网](https://benchmarl.readthedocs.io) · 组织维护
+⭐ 678 · Python · MIT · 推送 2026-02-07 · [GitHub](https://github.com/facebookresearch/BenchMARL) · [官网](https://benchmarl.readthedocs.io) · 组织维护
 
 **多智能体强化学习（MARL）训练与基准测试库**
 

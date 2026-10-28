@@ -1,6 +1,6 @@
 # CTRLRun/ctrlrun
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/CTRLRun/ctrlrun) · [官网](https://ctrlrun.dev/docs) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CTRLRun/ctrlrun) · [官网](https://ctrlrun.dev/docs) · 组织维护
 
 **AI 代理动作的执行安全层：行动前按规则校验、审批、留痕**
 

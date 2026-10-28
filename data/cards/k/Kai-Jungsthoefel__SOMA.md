@@ -1,6 +1,6 @@
 # Kai-Jungsthoefel/SOMA
 
-⭐ 394 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kai-Jungsthoefel/SOMA) · [官网](https://somacad.app/) · 个人维护 · 中文 README
+⭐ 406 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kai-Jungsthoefel/SOMA) · [官网](https://somacad.app/) · 个人维护 · 中文 README
 
 **让编程 Agent 用 CadQuery 做参数化 3D 建模的桌面应用**
 

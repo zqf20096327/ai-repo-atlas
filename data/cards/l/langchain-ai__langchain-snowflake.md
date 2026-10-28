@@ -1,6 +1,6 @@
 # langchain-ai/langchain-snowflake
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-snowflake) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-snowflake) · 组织维护
 
 **Snowflake Cortex AI 的 LangChain/LangGraph 集成包**
 

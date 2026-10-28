@@ -1,6 +1,6 @@
 # doccker/cc-use-exp
 
-⭐ 1,064 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/doccker/cc-use-exp) · [官网](https://github.com/dev-agent-kit/recipes.git) · 个人维护 · 中文 README
+⭐ 1,063 · Python · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/doccker/cc-use-exp) · [官网](https://github.com/dev-agent-kit/recipes.git) · 个人维护 · 中文 README
 
 **六款 AI 编码 CLI/IDE 的开箱即用分层配置模板体系**
 

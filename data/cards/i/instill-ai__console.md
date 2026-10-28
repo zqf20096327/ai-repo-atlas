@@ -1,6 +1,6 @@
 # instill-ai/console
 
-⭐ 41 · TypeScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/instill-ai/console) · [官网](https://www.instill-ai.com) · 组织维护
+⭐ 42 · TypeScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/instill-ai/console) · [官网](https://www.instill-ai.com) · 组织维护
 
 **Instill Core 的 Web 控制台：浏览器中管理 AI 流水线与模型**
 

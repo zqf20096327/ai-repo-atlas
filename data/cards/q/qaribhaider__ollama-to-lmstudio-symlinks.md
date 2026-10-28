@@ -1,6 +1,6 @@
 # qaribhaider/ollama-to-lmstudio-symlinks
 
-⭐ 177 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) · 个人维护
+⭐ 178 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/qaribhaider/ollama-to-lmstudio-symlinks) · 个人维护
 
 **Ollama 与 LM Studio 模型共享的符号链接 CLI 工具**
 

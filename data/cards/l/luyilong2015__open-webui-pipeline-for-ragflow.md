@@ -1,6 +1,6 @@
 # luyilong2015/open-webui-pipeline-for-ragflow
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 177 · Python · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/luyilong2015/open-webui-pipeline-for-ragflow) · 个人维护 · 中文 README
 
 **将 RAGFlow 的 agent 接入 open-webui 对话界面的 pipeline 脚本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Unlicense |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

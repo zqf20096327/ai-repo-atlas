@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/CL-bench
 
-⭐ 589 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Tencent-Hunyuan/CL-bench) · 组织维护 · 中文 README
+⭐ 590 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Tencent-Hunyuan/CL-bench) · 组织维护 · 中文 README
 
 **腾讯混元团队的语言模型上下文学习能力评测基准集**
 

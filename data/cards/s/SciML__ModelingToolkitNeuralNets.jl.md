@@ -1,6 +1,6 @@
 # SciML/ModelingToolkitNeuralNets.jl
 
-⭐ 41 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SciML/ModelingToolkitNeuralNets.jl) · [官网](https://docs.sciml.ai/ModelingToolkitNeuralNets/stable/) · 组织维护
+⭐ 41 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SciML/ModelingToolkitNeuralNets.jl) · [官网](https://docs.sciml.ai/ModelingToolkitNeuralNets/stable/) · 组织维护
 
 **Julia 包：在 ODE 系统中嵌入神经网络块求解 UDE**
 

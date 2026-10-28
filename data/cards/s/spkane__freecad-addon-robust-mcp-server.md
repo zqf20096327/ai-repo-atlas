@@ -1,6 +1,6 @@
 # spkane/freecad-addon-robust-mcp-server
 
-⭐ 259 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
+⭐ 259 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
 
 **连接 AI 助手与 FreeCAD 的 MCP 服务器及桥接工作台**
 
@@ -11,7 +11,7 @@ MCP (Model Context Protocol) 服务器及配套的 MCP Bridge 工作台/插件�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

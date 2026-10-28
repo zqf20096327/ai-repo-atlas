@@ -1,6 +1,6 @@
 # Francis1998/nexus-llm-router
 
-⭐ 122 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Francis1998/nexus-llm-router) · 个人维护
+⭐ 122 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Francis1998/nexus-llm-router) · 个人维护
 
 **多 LLM 路由中间件：按任务选模型、控成本、带回退的 OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # ahyield/eze
 
-⭐ 21 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ahyield/eze) · [官网](https://eze.page) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ahyield/eze) · [官网](https://eze.page) · 个人维护
 
 **自托管团队内部静态网站平台：上传 HTML 文件夹即得私有链接**
 

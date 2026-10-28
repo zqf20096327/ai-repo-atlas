@@ -1,6 +1,6 @@
 # hangyav/textLSP
 
-⭐ 91 · Python · GPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/hangyav/textLSP) · 个人维护
+⭐ 90 · Python · GPL-3.0 · 推送 2026-05-01 · [GitHub](https://github.com/hangyav/textLSP) · 个人维护
 
 **文本拼写与语法检查的语言服务器（LSP），可接本地/远程 AI**
 

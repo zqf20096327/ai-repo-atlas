@@ -1,6 +1,6 @@
 # iFurySt/open-browser-use
 
-⭐ 399 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/iFurySt/open-browser-use) · [官网](https://www.ifuryst.com/en/blog/2026/open-browser-use/) · 个人维护 · 中文 README
+⭐ 403 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/iFurySt/open-browser-use) · [官网](https://www.ifuryst.com/en/blog/2026/open-browser-use/) · 个人维护 · 中文 README
 
 **面向 AI agent 的平台中立浏览器自动化层（CLI+SDK+扩展）**
 

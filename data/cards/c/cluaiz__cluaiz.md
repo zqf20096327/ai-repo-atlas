@@ -1,6 +1,6 @@
 # cluaiz/cluaiz
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cluaiz/cluaiz) · [官网](https://cluaiz.com) · 个人维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cluaiz/cluaiz) · [官网](https://cluaiz.com) · 个人维护
 
 **Rust 本地 AI 运行时引擎：本地推理与 agent 工作流编排**
 

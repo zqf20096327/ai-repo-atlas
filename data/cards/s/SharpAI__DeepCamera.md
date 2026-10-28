@@ -1,6 +1,6 @@
 # SharpAI/DeepCamera
 
-⭐ 3,115 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SharpAI/DeepCamera) · [官网](http://www.sharpai.org) · 组织维护
+⭐ 3,117 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/SharpAI/DeepCamera) · [官网](http://www.sharpai.org) · 组织维护
 
 **开源 AI 摄像头技能平台：本地 VLM/YOLO 视频分析与家庭安防监控**
 

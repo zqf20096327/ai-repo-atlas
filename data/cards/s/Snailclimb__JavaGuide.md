@@ -1,6 +1,6 @@
 # Snailclimb/JavaGuide
 
-⭐ 159,302 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
+⭐ 159,316 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Snailclimb/JavaGuide) · [官网](https://javaguide.cn) · 个人维护 · 中文 README
 
 **Java 后端求职者的面试知识指南，覆盖基础到分布式**
 

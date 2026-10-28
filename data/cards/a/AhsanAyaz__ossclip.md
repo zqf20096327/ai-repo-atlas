@@ -1,6 +1,6 @@
 # AhsanAyaz/ossclip
 
-⭐ 56 · TypeScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/AhsanAyaz/ossclip) · [官网](https://ahsanayaz.github.io/ossclip/) · 个人维护
+⭐ 57 · TypeScript · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/AhsanAyaz/ossclip) · [官网](https://ahsanayaz.github.io/ossclip/) · 个人维护
 
 **本地优先的 CLI 短视频制作工具：去静音、逐词字幕、LLM 规划图形**
 

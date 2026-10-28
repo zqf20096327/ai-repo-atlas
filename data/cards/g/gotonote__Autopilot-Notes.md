@@ -1,6 +1,6 @@
 # gotonote/Autopilot-Notes
 
-⭐ 842 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gotonote/Autopilot-Notes) · 个人维护 · 中文 README
+⭐ 842 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gotonote/Autopilot-Notes) · 个人维护 · 中文 README
 
 **自动驾驶技术全栈知识库笔记：感知到控制各模块讲解**
 

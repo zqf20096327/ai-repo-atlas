@@ -1,6 +1,6 @@
 # imhuso/cunzhi
 
-⭐ 1,392 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/imhuso/cunzhi) · 个人维护 · 中文 README
+⭐ 1,393 · Rust · MIT · 推送 2026-05-12 · [GitHub](https://github.com/imhuso/cunzhi) · 个人维护 · 中文 README
 
 **拦截 AI 提前结束对话的 MCP 工具，含记忆管理**
 

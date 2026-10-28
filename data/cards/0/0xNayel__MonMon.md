@@ -1,6 +1,6 @@
 # 0xNayel/MonMon
 
-⭐ 48 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/0xNayel/MonMon) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/0xNayel/MonMon) · 个人维护
 
 **面向赏金猎人的自动化变更监控与告警工具**
 

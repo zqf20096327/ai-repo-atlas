@@ -1,6 +1,6 @@
 # QingYunA/answer-me-with-html
 
-⭐ 4,544 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/QingYunA/answer-me-with-html) · [官网](https://answer-me-with-html.com/) · 个人维护 · 中文 README
+⭐ 4,590 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/QingYunA/answer-me-with-html) · [官网](https://answer-me-with-html.com/) · 个人维护 · 中文 README
 
 **让 AI Agent 用一页可读 HTML 回答复杂问题的技能**
 

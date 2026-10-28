@@ -1,6 +1,6 @@
 # ctxd-dev/ctxd
 
-⭐ 59 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ctxd-dev/ctxd) · [官网](https://ctxd.dev) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ctxd-dev/ctxd) · [官网](https://ctxd.dev) · 组织维护
 
 **为 AI agent 提供本地文件上下文的基础设施**
 

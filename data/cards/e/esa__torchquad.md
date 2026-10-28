@@ -1,6 +1,6 @@
 # esa/torchquad
 
-⭐ 229 · Python · GPL-3.0 · 推送 2026-08-29 · [GitHub](https://github.com/esa/torchquad) · [官网](https://www.esa.int/gsp/ACT/open_source/torchquad/) · 组织维护
+⭐ 229 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/esa/torchquad) · [官网](https://www.esa.int/gsp/ACT/open_source/torchquad/) · 组织维护
 
 **面向科研与 ML 社区的 GPU 高维数值积分库**
 

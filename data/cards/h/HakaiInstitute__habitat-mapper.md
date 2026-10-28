@@ -1,6 +1,6 @@
 # HakaiInstitute/habitat-mapper
 
-⭐ 24 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HakaiInstitute/habitat-mapper) · [官网](https://habitat-mapper.readthedocs.io) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HakaiInstitute/habitat-mapper) · [官网](https://habitat-mapper.readthedocs.io) · 组织维护
 
 **遥感无人机影像的生境/海藻语义分割工具**
 

@@ -1,6 +1,6 @@
 # fedbiomed/fedbiomed
 
-⭐ 93 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/fedbiomed/fedbiomed) · [官网](https://fedbiomed.org) · 组织维护
+⭐ 93 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/fedbiomed/fedbiomed) · [官网](https://fedbiomed.org) · 组织维护
 
 **面向生物医学研究的联邦学习/联邦分析框架**
 

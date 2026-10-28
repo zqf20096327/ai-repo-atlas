@@ -1,6 +1,6 @@
 # sayksii/Aria
 
-⭐ 362 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/sayksii/Aria) · 个人维护 · 中文 README
+⭐ 364 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/sayksii/Aria) · 个人维护 · 中文 README
 
 **Windows 实时字幕桌面应用：系统音频转可移动悬浮字幕**
 

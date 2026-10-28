@@ -1,6 +1,6 @@
 # apconw/Aix-DB
 
-⭐ 2,254 · JavaScript · 推送 2026-10-10 · [GitHub](https://github.com/apconw/Aix-DB) · [官网](https://db.aixhub.top/) · 个人维护 · 中文 README
+⭐ 2,256 · JavaScript · 推送 2026-10-10 · [GitHub](https://github.com/apconw/Aix-DB) · [官网](https://db.aixhub.top/) · 个人维护 · 中文 README
 
 **基于 LLM/RAG 的对话式数据分析系统（ChatBI）**
 

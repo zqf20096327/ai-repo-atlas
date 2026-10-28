@@ -1,6 +1,6 @@
 # starcat-app/Starcat
 
-⭐ 212 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/starcat-app/Starcat) · [官网](https://starcat.ink) · 组织维护 · 中文 README
+⭐ 213 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/starcat-app/Starcat) · [官网](https://starcat.ink) · 组织维护 · 中文 README
 
 **macOS 原生 GitHub Stars 管理器与本地 RAG 知识库**
 

@@ -1,6 +1,6 @@
 # spring-ai-alibaba/examples
 
-⭐ 2,917 · Java · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/spring-ai-alibaba/examples) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 2,918 · Java · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/spring-ai-alibaba/examples) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
 **Spring AI Alibaba 官方示例集：演示框架各类用法**
 

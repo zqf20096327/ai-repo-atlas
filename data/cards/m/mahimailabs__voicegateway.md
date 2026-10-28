@@ -1,6 +1,6 @@
 # mahimailabs/voicegateway
 
-⭐ 54 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/mahimailabs/voicegateway) · [官网](https://voicegateway.dev) · 组织维护
+⭐ 54 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mahimailabs/voicegateway) · [官网](https://voicegateway.dev) · 组织维护
 
 **LiveKit 语音 Agent 的开源观测与分析面板**
 

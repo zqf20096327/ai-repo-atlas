@@ -1,6 +1,6 @@
 # RaguTeam/RAGU
 
-⭐ 141 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/RaguTeam/RAGU) · 组织维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/RaguTeam/RAGU) · 组织维护 · 中文 README
 
 **模块化 GraphRAG 框架：从文本构建知识图谱并多策略检索问答**
 

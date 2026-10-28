@@ -1,6 +1,6 @@
 # NekomyaDev/nudge
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NekomyaDev/nudge) · [官网](https://github.com/NekomyaDev/nudge) · 组织维护 · 中文 README
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NekomyaDev/nudge) · [官网](https://github.com/NekomyaDev/nudge) · 组织维护 · 中文 README
 
 **面向 LLM agent 的类型化、可重放、预算约束编程语言**
 

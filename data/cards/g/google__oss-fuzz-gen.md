@@ -1,6 +1,6 @@
 # google/oss-fuzz-gen
 
-⭐ 1,446 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/oss-fuzz-gen) · 组织维护
+⭐ 1,447 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/oss-fuzz-gen) · 组织维护
 
 **用 LLM 为 C/C++/Java/Python 项目生成并评测 fuzz target 的框架**
 

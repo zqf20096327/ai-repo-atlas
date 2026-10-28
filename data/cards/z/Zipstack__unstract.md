@@ -1,6 +1,6 @@
 # Zipstack/unstract
 
-⭐ 7,302 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
+⭐ 7,347 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
 
 **用 LLM 从非结构化文档抽取结构化 JSON 的平台，面向金融/保险/医疗团队**
 

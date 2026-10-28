@@ -1,6 +1,6 @@
 # Techtonique/ahead
 
-⭐ 24 · R · BSD-3-Clause-Clear · 推送 2026-10-18 · [GitHub](https://github.com/Techtonique/ahead) · [官网](https://techtonique.github.io/ahead/) · 个人维护
+⭐ 25 · R · BSD-3-Clause-Clear · 推送 2026-10-18 · [GitHub](https://github.com/Techtonique/ahead) · [官网](https://techtonique.github.io/ahead/) · 个人维护
 
 **R 包：单变量与多变量时间序列预测，含量化不确定性**
 

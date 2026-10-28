@@ -1,6 +1,6 @@
 # annotate-studio/annotate-studio
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/annotate-studio/annotate-studio) · 个人维护
+⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/annotate-studio/annotate-studio) · 个人维护
 
 **本地优先的学习工作室：阅读、标注、AI 助手、闪卡与考试一体**
 

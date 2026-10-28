@@ -1,6 +1,6 @@
 # cporter202/ai-agent-data-apis
 
-⭐ 41 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-data-apis) · [官网](https://apify.com?fpr=p2hrc6) · 个人维护
+⭐ 49 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-data-apis) · [官网](https://apify.com?fpr=p2hrc6) · 个人维护
 
 **面向 AI agent 的数据 API 目录：2,070 个 Apify actor 清单**
 

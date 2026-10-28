@@ -1,6 +1,6 @@
 # bimwright/rvt-mcp
 
-⭐ 102 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bimwright/rvt-mcp) · [官网](https://github.com/bimwright/rvt-mcp) · 组织维护 · 中文 README
+⭐ 104 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/bimwright/rvt-mcp) · [官网](https://github.com/bimwright/rvt-mcp) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Revit 本地 MCP 工具网关（Revit 2022–2027）**
 

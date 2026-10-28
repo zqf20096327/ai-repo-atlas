@@ -1,6 +1,6 @@
 # CYBIRD-D/FREE-LLM-API-Provider
 
-⭐ 116 · 推送 2026-10-23 · [GitHub](https://github.com/CYBIRD-D/FREE-LLM-API-Provider) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-10-23 · [GitHub](https://github.com/CYBIRD-D/FREE-LLM-API-Provider) · 个人维护 · 中文 README
 
 **免费 LLM API 平台清单：汇总各平台免费额度与速率限制**
 

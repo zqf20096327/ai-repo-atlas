@@ -1,6 +1,6 @@
 # elevenlabs/cli
 
-⭐ 102 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/cli) · [官网](https://www.elevenlabs.io) · 组织维护
+⭐ 102 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/elevenlabs/cli) · [官网](https://www.elevenlabs.io) · 组织维护
 
 **ElevenLabs 平台命令行工具：全 API 访问与 Agent 配置管理**
 

@@ -1,6 +1,6 @@
 # apify/apify-mcp-server
 
-⭐ 13,461 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/apify/apify-mcp-server) · [官网](https://mcp.apify.com) · 组织维护
+⭐ 13,639 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/apify/apify-mcp-server) · [官网](https://mcp.apify.com) · 组织维护
 
 **让 AI agent 通过 MCP 调用 Apify 爬虫/数据提取工具的服务器**
 

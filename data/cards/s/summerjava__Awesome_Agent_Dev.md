@@ -1,6 +1,6 @@
 # summerjava/Awesome_Agent_Dev
 
-⭐ 266 · Python · 推送 2026-05-05 · [GitHub](https://github.com/summerjava/Awesome_Agent_Dev) · 个人维护 · 中文 README
+⭐ 268 · Python · 推送 2026-05-05 · [GitHub](https://github.com/summerjava/Awesome_Agent_Dev) · 个人维护 · 中文 README
 
 **AI Agent 开发学习路线与面试准备的中文资源清单**
 

@@ -1,6 +1,6 @@
 # StonyBrookNLP/appworld
 
-⭐ 540 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/StonyBrookNLP/appworld) · [官网](https://appworld.dev/) · 组织维护
+⭐ 542 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/StonyBrookNLP/appworld) · [官网](https://appworld.dev/) · 组织维护
 
 **评测函数调用与交互式编码 agent 的模拟应用世界基准**
 

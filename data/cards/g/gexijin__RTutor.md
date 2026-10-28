@@ -1,6 +1,6 @@
 # gexijin/RTutor
 
-⭐ 322 · HTML · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gexijin/RTutor) · [官网](https://RTutor.ai) · 个人维护
+⭐ 322 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/gexijin/RTutor) · [官网](https://RTutor.ai) · 个人维护
 
 **用自然语言对话分析数据的 R/Shiny 应用，自动生成并执行 R 代码**
 

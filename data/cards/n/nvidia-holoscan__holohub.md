@@ -1,6 +1,6 @@
 # nvidia-holoscan/holohub
 
-⭐ 242 · Python · 推送 2026-10-23 · [GitHub](https://github.com/nvidia-holoscan/holohub) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
+⭐ 245 · Python · 推送 2026-10-23 · [GitHub](https://github.com/nvidia-holoscan/holohub) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
 
 **NVIDIA Holoscan 生态的中央注册中心与项目枢纽**
 

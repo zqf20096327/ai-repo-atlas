@@ -1,6 +1,6 @@
 # walkinglabs/self-improving-agent-notebook
 
-⭐ 51 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/self-improving-agent-notebook) · [官网](https://walkinglabs.github.io/self-improving-agent-notebook/) · 组织维护 · 中文 README
+⭐ 52 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/self-improving-agent-notebook) · [官网](https://walkinglabs.github.io/self-improving-agent-notebook/) · 组织维护 · 中文 README
 
 **斯坦福 CS329A 配套的 17 讲自改进 Agent 可运行笔记本课程**
 

@@ -1,6 +1,6 @@
 # WildEyeConservation/TrapTagger
 
-⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/WildEyeConservation/TrapTagger) · 组织维护
+⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/WildEyeConservation/TrapTagger) · 组织维护
 
 **面向生态学家的红外相机图像 AI 标注与管理 Web 应用**
 

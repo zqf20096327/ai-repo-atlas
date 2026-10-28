@@ -1,6 +1,6 @@
 # hexart/praise-ai
 
-⭐ 31 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/hexart/praise-ai) · [官网](https://hexart.github.io/praise-ai/) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/hexart/praise-ai) · [官网](https://hexart.github.io/praise-ai/) · 个人维护 · 中文 README
 
 **情感陪伴 AI 聊天应用：多模式对话与情感分析**
 

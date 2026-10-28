@@ -1,6 +1,6 @@
 # Hazrat-Ali9/House-Price-Prediction-with-Machine-Learning
 
-⭐ 22 · 推送 2026-03-11 · [GitHub](https://github.com/Hazrat-Ali9/House-Price-Prediction-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/House-Price-Prediction-with-Machine-Learning) · 个人维护
+⭐ 23 · 推送 2026-03-11 · [GitHub](https://github.com/Hazrat-Ali9/House-Price-Prediction-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/House-Price-Prediction-with-Machine-Learning) · 个人维护
 
 **用回归算法预测房价的数据科学项目**
 

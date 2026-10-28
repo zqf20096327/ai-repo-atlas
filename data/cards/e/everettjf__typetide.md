@@ -1,6 +1,6 @@
 # everettjf/typetide
 
-⭐ 31 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/everettjf/typetide) · [官网](http://xnu.app/typetide/) · 个人维护 · 中文 README
+⭐ 33 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/everettjf/typetide) · [官网](http://xnu.app/typetide/) · 个人维护 · 中文 README
 
 **macOS/Windows 系统级 AI 划词翻译与原位改写工具**
 

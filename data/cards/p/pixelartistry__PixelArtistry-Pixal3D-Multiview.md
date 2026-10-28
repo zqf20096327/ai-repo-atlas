@@ -1,6 +1,6 @@
 # pixelartistry/PixelArtistry-Pixal3D-Multiview
 
-⭐ 26 · Batchfile · MIT · 推送 2026-09-29 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Pixal3D-Multiview) · 个人维护
+⭐ 27 · Batchfile · MIT · 推送 2026-09-29 · [GitHub](https://github.com/pixelartistry/PixelArtistry-Pixal3D-Multiview) · 个人维护
 
 **本地 ComfyUI 工作流：一条提示词生成 3D 角色 GLB 模型**
 

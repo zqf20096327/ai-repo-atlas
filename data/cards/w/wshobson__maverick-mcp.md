@@ -1,6 +1,6 @@
 # wshobson/maverick-mcp
 
-⭐ 711 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wshobson/maverick-mcp) · [官网](https://sethhobson.com) · 个人维护
+⭐ 712 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wshobson/maverick-mcp) · [官网](https://sethhobson.com) · 个人维护
 
 **本地运行的股票市场 MCP 服务器：行情、技术分析、组合与回测**
 

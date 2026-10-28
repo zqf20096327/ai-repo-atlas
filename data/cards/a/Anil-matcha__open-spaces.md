@@ -1,6 +1,6 @@
 # Anil-matcha/open-spaces
 
-⭐ 920 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/open-spaces) · [官网](https://github.com/Anil-matcha/open-spaces) · 个人维护
+⭐ 919 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/open-spaces) · [官网](https://github.com/Anil-matcha/open-spaces) · 个人维护
 
 **可自托管的共享 AI 工作区：共享页面、对话与 AI 工具**
 

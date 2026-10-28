@@ -1,6 +1,6 @@
 # azukds/tubular
 
-⭐ 109 · Python · BSD-3-Clause · 推送 2026-09-23 · [GitHub](https://github.com/azukds/tubular) · [官网](https://tubular.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 109 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/azukds/tubular) · [官网](https://tubular.readthedocs.io/en/latest/index.html) · 组织维护
 
 **面向 pandas/polars 的机器学习表格预处理与特征工程库**
 

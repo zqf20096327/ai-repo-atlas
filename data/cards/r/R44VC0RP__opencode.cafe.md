@@ -1,6 +1,6 @@
 # R44VC0RP/opencode.cafe
 
-⭐ 201 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/R44VC0RP/opencode.cafe) · [官网](https://opencode.cafe) · 个人维护
+⭐ 202 · TypeScript · 推送 2026-05-21 · [GitHub](https://github.com/R44VC0RP/opencode.cafe) · [官网](https://opencode.cafe) · 个人维护
 
 **OpenCode 扩展与插件的社区市集网站**
 

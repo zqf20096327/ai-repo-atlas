@@ -1,6 +1,6 @@
 # kdeps/kdeps
 
-⭐ 37 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kdeps/kdeps) · [官网](https://kdeps.com) · 组织维护
+⭐ 37 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kdeps/kdeps) · [官网](https://kdeps.com) · 组织维护
 
 **用 YAML 定义 AI 工作流与 Agent 的 Git 原生构建工具**
 

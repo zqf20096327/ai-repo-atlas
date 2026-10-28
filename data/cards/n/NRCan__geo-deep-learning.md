@@ -1,6 +1,6 @@
 # NRCan/geo-deep-learning
 
-⭐ 204 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
+⭐ 205 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
 
 **面向遥感地学数据的 PyTorch Lightning 深度学习训练框架**
 

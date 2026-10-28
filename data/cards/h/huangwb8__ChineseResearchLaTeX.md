@@ -1,6 +1,6 @@
 # huangwb8/ChineseResearchLaTeX
 
-⭐ 2,980 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/ChineseResearchLaTeX) · 个人维护 · 中文 README
+⭐ 2,982 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/huangwb8/ChineseResearchLaTeX) · 个人维护 · 中文 README
 
 **面向中国科研者的 LaTeX 模板集与配套 AI 写作技能库**
 

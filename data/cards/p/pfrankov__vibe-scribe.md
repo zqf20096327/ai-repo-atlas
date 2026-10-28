@@ -1,6 +1,6 @@
 # pfrankov/vibe-scribe
 
-⭐ 31 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pfrankov/vibe-scribe) · 个人维护
+⭐ 30 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pfrankov/vibe-scribe) · 个人维护
 
 **macOS 会议录音转写与 AI 摘要应用**
 

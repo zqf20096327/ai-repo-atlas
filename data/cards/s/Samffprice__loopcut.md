@@ -1,6 +1,6 @@
 # Samffprice/loopcut
 
-⭐ 165 · C++ · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Samffprice/loopcut) · [官网](https://loopcut.org) · 组织维护
+⭐ 166 · C++ · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Samffprice/loopcut) · [官网](https://loopcut.org) · 组织维护
 
 **内置 AI agent 的 Blender 5.2 分支，一句话完成技术性操作**
 

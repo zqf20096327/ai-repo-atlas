@@ -1,6 +1,6 @@
 # entireio/cli
 
-⭐ 5,248 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
+⭐ 5,263 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
 
 **随 Git 工作流捕获 AI agent 会话并按提交索引的工具**
 

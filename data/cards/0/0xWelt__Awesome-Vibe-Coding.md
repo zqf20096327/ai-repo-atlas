@@ -1,6 +1,6 @@
 # 0xWelt/Awesome-Vibe-Coding
 
-⭐ 118 · 推送 2026-10-27 · [GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [官网](https://0xwelt.github.io/Awesome-Vibe-Coding/) · 个人维护
+⭐ 119 · 推送 2026-10-28 · [GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [官网](https://0xwelt.github.io/Awesome-Vibe-Coding/) · 个人维护
 
 **Vibe Coding 开源项目、工具与学习资源策展清单**
 

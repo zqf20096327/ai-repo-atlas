@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project
 
-⭐ 25 · Python · 推送 2026-09-25 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project) · 个人维护
+⭐ 26 · Python · 推送 2026-09-25 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project) · 个人维护
 
 **用 DQN 从零自学贪吃蛇的强化学习演示项目**
 

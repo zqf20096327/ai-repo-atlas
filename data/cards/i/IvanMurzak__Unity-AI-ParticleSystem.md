@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-AI-ParticleSystem
 
-⭐ 55 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-ParticleSystem) · [官网](https://ai-game.dev) · 个人维护
+⭐ 56 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-ParticleSystem) · [官网](https://ai-game.dev) · 个人维护
 
 **Unity 粒子系统 MCP 工具：让 AI 通过自然语言编辑粒子特效**
 

@@ -1,6 +1,6 @@
 # yee-yore/DorkAgent
 
-⭐ 329 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/yee-yore/DorkAgent) · 个人维护
+⭐ 330 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/yee-yore/DorkAgent) · 个人维护
 
 **LLM 驱动的自动化 Google Dorking 代理，用于渗透测试与赏金狩猎**
 

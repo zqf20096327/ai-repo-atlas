@@ -1,6 +1,6 @@
 # Astro-Han/karpathy-llm-wiki
 
-⭐ 2,617 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Astro-Han/karpathy-llm-wiki) · 个人维护
+⭐ 2,623 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/Astro-Han/karpathy-llm-wiki) · 个人维护
 
 **给编程 Agent 安装的可复用技能：构建带引用的 LLM 个人维基**
 

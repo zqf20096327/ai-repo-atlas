@@ -1,6 +1,6 @@
 # Mail-0/Zero
 
-⭐ 10,863 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Mail-0/Zero) · [官网](https://discord.gg/mzJ227YJR) · 组织维护
+⭐ 10,870 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Mail-0/Zero) · [官网](https://discord.gg/mzJ227YJR) · 组织维护
 
 **开源自托管 AI 邮件客户端，聚合多邮箱收件箱**
 

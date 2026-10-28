@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-metrics
 
-⭐ 304 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Stability-AI/stable-audio-metrics) · 组织维护
+⭐ 304 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Stability-AI/stable-audio-metrics) · 组织维护
 
 **面向长篇全频段立体声生成模型的音频评测指标集**
 

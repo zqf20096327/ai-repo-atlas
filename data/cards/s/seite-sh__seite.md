@@ -1,6 +1,6 @@
 # seite-sh/seite
 
-⭐ 26 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/seite-sh/seite) · [官网](https://seite.sh) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/seite-sh/seite) · [官网](https://seite.sh) · 个人维护
 
 **AI-native 静态网站生成器：Claude Code 作为内容管理界面**
 

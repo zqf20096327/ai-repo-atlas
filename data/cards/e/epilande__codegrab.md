@@ -1,6 +1,6 @@
 # epilande/codegrab
 
-⭐ 96 · Go · MIT · 推送 2026-01-02 · [GitHub](https://github.com/epilande/codegrab) · 个人维护
+⭐ 97 · Go · MIT · 推送 2026-01-02 · [GitHub](https://github.com/epilande/codegrab) · 个人维护
 
 **给开发者的 CLI 工具：交互式选取代码并打包为 LLM 就绪文件**
 

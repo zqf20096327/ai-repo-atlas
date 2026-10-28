@@ -1,6 +1,6 @@
 # siropkin/robinhood-ai-trading-bot
 
-⭐ 130 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/siropkin/robinhood-ai-trading-bot) · [官网](https://goodbotty.bsky.social) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/siropkin/robinhood-ai-trading-bot) · [官网](https://goodbotty.bsky.social) · 个人维护
 
 **用 OpenAI 分析 RSI/VWAP 等指标并自动执行 Robinhood 交易的脚本**
 

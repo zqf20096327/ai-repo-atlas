@@ -1,6 +1,6 @@
 # reichenbach/iwork_mcp
 
-⭐ 39 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/reichenbach/iwork_mcp) · 个人维护
+⭐ 40 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/reichenbach/iwork_mcp) · 个人维护
 
 **用 AI agent 自动化操作 macOS iWork 三件套的 MCP 服务器**
 

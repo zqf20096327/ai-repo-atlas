@@ -1,6 +1,6 @@
 # GLips/Figma-Context-MCP
 
-⭐ 16,079 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
+⭐ 16,094 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GLips/Figma-Context-MCP) · [官网](https://www.framelink.ai/) · 个人维护
 
 **给 AI 编码工具提供 Figma 布局信息的 MCP 服务器**
 

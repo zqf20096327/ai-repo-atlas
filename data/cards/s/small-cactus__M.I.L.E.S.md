@@ -1,6 +1,6 @@
 # small-cactus/M.I.L.E.S
 
-⭐ 237 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/small-cactus/M.I.L.E.S) · [官网](https://github.com/small-cactus/M.I.L.E.S) · 个人维护
+⭐ 236 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/small-cactus/M.I.L.E.S) · [官网](https://github.com/small-cactus/M.I.L.E.S) · 个人维护
 
 **GPT-4 Turbo 驱动的桌面语音助手，控制家居/Spotify并记忆**
 

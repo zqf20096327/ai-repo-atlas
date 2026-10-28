@@ -1,6 +1,6 @@
 # sreenathmmenon/llmswap
 
-⭐ 35 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/sreenathmmenon/llmswap) · [官网](https://llmswap.org) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/sreenathmmenon/llmswap) · [官网](https://llmswap.org) · 个人维护
 
 **统一接口访问 10 家 LLM 的 Python SDK/CLI：问答、对比与综合**
 

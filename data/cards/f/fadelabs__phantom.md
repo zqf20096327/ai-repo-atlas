@@ -1,6 +1,6 @@
 # fadelabs/phantom
 
-⭐ 42 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/fadelabs/phantom) · [官网](https://fadelab.net?utm_source=github&utm_medium=repo) · 组织维护
+⭐ 43 · Python · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/fadelabs/phantom) · [官网](https://fadelab.net?utm_source=github&utm_medium=repo) · 组织维护
 
 **给 AI 助手的音频混音/母带测量工具集（CLI/库/MCP）**
 

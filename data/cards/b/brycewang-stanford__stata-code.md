@@ -1,6 +1,6 @@
 # brycewang-stanford/stata-code
 
-⭐ 53 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/brycewang-stanford/stata-code) · 组织维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/brycewang-stanford/stata-code) · 组织维护 · 中文 README
 
 **让 LLM 智能体与 Jupyter/VS Code 驱动 Stata 跑实证研究的桥接工具**
 

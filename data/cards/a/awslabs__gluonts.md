@@ -1,6 +1,6 @@
 # awslabs/gluonts
 
-⭐ 5,253 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/awslabs/gluonts) · [官网](https://ts.gluon.ai) · 组织维护
+⭐ 5,254 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/awslabs/gluonts) · [官网](https://ts.gluon.ai) · 组织维护
 
 **面向开发者的 Python 概率时间序列建模与预测库**
 

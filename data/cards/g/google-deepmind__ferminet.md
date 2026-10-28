@@ -1,6 +1,6 @@
 # google-deepmind/ferminet
 
-⭐ 855 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/ferminet) · 组织维护
+⭐ 856 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/ferminet) · 组织维护
 
 **用神经网络计算原子分子基态波函数的从头算电子结构代码**
 

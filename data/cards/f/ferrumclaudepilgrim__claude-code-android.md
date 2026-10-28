@@ -1,6 +1,6 @@
 # ferrumclaudepilgrim/claude-code-android
 
-⭐ 301 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ferrumclaudepilgrim/claude-code-android) · [官网](https://ferrumclaudepilgrim.com) · 个人维护
+⭐ 303 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ferrumclaudepilgrim/claude-code-android) · [官网](https://ferrumclaudepilgrim.com) · 个人维护
 
 **在 Android 手机上原生运行 Claude Code 的安装指南与脚本**
 

@@ -1,6 +1,6 @@
 # oriveo/oriveo
 
-⭐ 550 · Swift · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/oriveo/oriveo) · [官网](https://oriveoai.com) · 组织维护
+⭐ 550 · Swift · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/oriveo/oriveo) · [官网](https://oriveoai.com) · 组织维护
 
 **自带 API Key 的多模型 AI 聊天客户端，覆盖 iOS/Android/Web**
 

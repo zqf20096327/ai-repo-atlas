@@ -1,6 +1,6 @@
 # openkim/kliff
 
-⭐ 40 · Python · LGPL-2.1 · 推送 2026-10-14 · [GitHub](https://github.com/openkim/kliff) · [官网](https://kliff.readthedocs.io) · 组织维护
+⭐ 40 · Python · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/openkim/kliff) · [官网](https://kliff.readthedocs.io) · 组织维护
 
 **面向材料模拟的原子间势拟合框架（物理势与神经网络势）**
 

@@ -1,6 +1,6 @@
 # ykarapazar/word-mcp-live
 
-⭐ 243 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ykarapazar/word-mcp-live) · 个人维护
+⭐ 248 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ykarapazar/word-mcp-live) · 个人维护
 
 **让 AI 助手直接编辑打开中 Word 文档的 MCP 服务器**
 

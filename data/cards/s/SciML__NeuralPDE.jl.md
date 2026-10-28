@@ -1,6 +1,6 @@
 # SciML/NeuralPDE.jl
 
-⭐ 1,237 · Julia · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/SciML/NeuralPDE.jl) · [官网](https://docs.sciml.ai/NeuralPDE/stable/) · 组织维护
+⭐ 1,236 · Julia · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/SciML/NeuralPDE.jl) · [官网](https://docs.sciml.ai/NeuralPDE/stable/) · 组织维护
 
 **面向科研计算：用 PINN 求解微分方程的 Julia 求解器包**
 

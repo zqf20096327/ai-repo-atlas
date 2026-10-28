@@ -1,6 +1,6 @@
 # Apil-Shrestha/token-efficiency-lex
 
-⭐ 115 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/Apil-Shrestha/token-efficiency-lex) · 个人维护
+⭐ 115 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/Apil-Shrestha/token-efficiency-lex) · 个人维护
 
 **量化 14 种语言表达同一语义所需 token 差异的基准与计算工具**
 

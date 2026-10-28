@@ -1,6 +1,6 @@
 # RobThePCGuy/Claude-Patent-Creator
 
-⭐ 205 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
+⭐ 206 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
 
 **面向 Claude Code 的美国专利起草与检索系统（MCP 服务器+插件）**
 

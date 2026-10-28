@@ -1,6 +1,6 @@
 # XMUDeepLIT/LegalGraphRAG
 
-⭐ 64 · Python · 推送 2026-08-03 · [GitHub](https://github.com/XMUDeepLIT/LegalGraphRAG) · [官网](https://arxiv.org/abs/2605.28120) · 组织维护 · 中文 README
+⭐ 65 · Python · 推送 2026-08-03 · [GitHub](https://github.com/XMUDeepLIT/LegalGraphRAG) · [官网](https://arxiv.org/abs/2605.28120) · 组织维护 · 中文 README
 
 **法律判决预测的多智能体图 RAG 评测框架（论文官方代码）**
 

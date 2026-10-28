@@ -1,6 +1,6 @@
 # timoncool/VibeVoice_ASR_portable_ru
 
-⭐ 41 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/timoncool/VibeVoice_ASR_portable_ru) · [官网](https://github.com/timoncool/VibeVoice_ASR_portable_ru/releases) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/timoncool/VibeVoice_ASR_portable_ru) · [官网](https://github.com/timoncool/VibeVoice_ASR_portable_ru/releases) · 个人维护
 
 **Windows 便携离线语音识别工具：微软 VibeVoice 模型音频转文字**
 

@@ -1,6 +1,6 @@
 # lzzsh/GEO_Screener
 
-⭐ 22 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/lzzsh/GEO_Screener) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/lzzsh/GEO_Screener) · 个人维护 · 中文 README
 
 **面向 NCBI GEO 数据集筛选与实验方案提取的自托管研究工作台**
 

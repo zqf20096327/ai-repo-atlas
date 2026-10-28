@@ -1,6 +1,6 @@
 # ggml-org/convert
 
-⭐ 58 · Shell · 推送 2026-10-25 · [GitHub](https://github.com/ggml-org/convert) · [官网](https://huggingface.co/ggml-org) · 组织维护
+⭐ 59 · Shell · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/convert) · [官网](https://huggingface.co/ggml-org) · 组织维护
 
 **自动将模型转换为 GGUF 格式并上传 HF 的流水线**
 

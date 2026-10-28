@@ -1,6 +1,6 @@
 # microsoft/AI-Engineering-Coach
 
-⭐ 4,351 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
+⭐ 4,353 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
 
 **分析本地 AI 编程助手会话日志的 VS Code 扩展仪表盘**
 

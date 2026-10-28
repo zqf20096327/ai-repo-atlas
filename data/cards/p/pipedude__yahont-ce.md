@@ -1,6 +1,6 @@
 # pipedude/yahont-ce
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pipedude/yahont-ce) · [官网](https://www.yahont.ai) · 组织维护 · 中文 README
+⭐ 41 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pipedude/yahont-ce) · [官网](https://www.yahont.ai) · 组织维护 · 中文 README
 
 **自托管团队知识与上下文层：RAG、代理、多源连接器与任意 LLM**
 

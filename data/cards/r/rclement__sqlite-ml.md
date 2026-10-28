@@ -1,6 +1,6 @@
 # rclement/sqlite-ml
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/rclement/sqlite-ml) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rclement/sqlite-ml) · 个人维护
 
 **SQLite 机器学习扩展：用 SQL 函数在库内训练模型并预测**
 

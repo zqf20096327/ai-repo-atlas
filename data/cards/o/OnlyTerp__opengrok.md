@@ -1,6 +1,6 @@
 # OnlyTerp/opengrok
 
-⭐ 497 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/OnlyTerp/opengrok) · [官网](https://github.com/OnlyTerp/opengrok#-quick-start) · 个人维护
+⭐ 498 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/OnlyTerp/opengrok) · [官网](https://github.com/OnlyTerp/opengrok#-quick-start) · 个人维护
 
 **让 Grok Bot 使用任意模型的配置工具与模型切换面板**
 

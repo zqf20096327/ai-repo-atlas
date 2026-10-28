@@ -1,6 +1,6 @@
 # liu00222/Open-Prompt-Injection
 
-⭐ 509 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/liu00222/Open-Prompt-Injection) · 组织维护
+⭐ 510 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/liu00222/Open-Prompt-Injection) · 组织维护
 
 **LLM 提示注入攻击与防御的开源评测工具包**
 

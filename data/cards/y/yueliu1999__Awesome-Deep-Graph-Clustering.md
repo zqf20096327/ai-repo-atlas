@@ -1,6 +1,6 @@
 # yueliu1999/Awesome-Deep-Graph-Clustering
 
-⭐ 1,024 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) · 个人维护
+⭐ 1,023 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) · 个人维护
 
 **深度图聚类方法策展清单：汇总论文、代码与数据集**
 

@@ -1,6 +1,6 @@
 # Pancakes-Labs/astrbot_plugin_proactive_chat
 
-⭐ 473 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat) · 个人维护 · 中文 README
+⭐ 478 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat) · 个人维护 · 中文 README
 
 **AstrBot 主动消息插件：Bot 静默后主动发起拟人对话**
 

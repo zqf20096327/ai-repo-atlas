@@ -1,6 +1,6 @@
 # Tiger3807861189/J-Space-Cognition-Suite
 
-⭐ 2,960 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) · 个人维护 · 中文 README
+⭐ 2,962 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/Tiger3807861189/J-Space-Cognition-Suite) · 个人维护 · 中文 README
 
 **给 agent 宿主的推理时控制技能套件：长任务决策与证据管控**
 

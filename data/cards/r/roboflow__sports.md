@@ -1,6 +1,6 @@
 # roboflow/sports
 
-⭐ 5,444 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/roboflow/sports) · 组织维护
+⭐ 5,450 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/roboflow/sports) · 组织维护
 
 **面向体育场景的计算机视觉工具与数据集集合**
 

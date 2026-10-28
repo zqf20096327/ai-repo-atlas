@@ -1,6 +1,6 @@
 # vfaner/jargus
 
-⭐ 32 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vfaner/jargus) · [官网](https://jargus.qqmu.com/) · 个人维护 · 中文 README
+⭐ 33 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vfaner/jargus) · [官网](https://jargus.qqmu.com/) · 个人维护 · 中文 README
 
 **面向中小 Java 团队的代码质量评审平台，单 JAR 交付**
 

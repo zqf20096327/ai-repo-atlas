@@ -1,6 +1,6 @@
 # photoprism/photoprism
 
-⭐ 40,370 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
+⭐ 40,373 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/photoprism/photoprism) · [官网](https://www.photoprism.app) · 组织维护
 
 **面向个人的自托管 AI 照片管理应用：整理、检索与分享**
 

@@ -1,6 +1,6 @@
 # xcc-zach/xtalk
 
-⭐ 248 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/xcc-zach/xtalk) · [官网](https://xtalk.sjtuxlance.com) · 个人维护
+⭐ 249 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/xcc-zach/xtalk) · [官网](https://xtalk.sjtuxlance.com) · 个人维护
 
 **开源全双工级联语音对话系统框架：低延迟可打断的人机语音交互**
 

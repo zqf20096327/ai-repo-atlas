@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-go
 
-⭐ 34 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/langsmith-go) · 组织维护
+⭐ 34 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langsmith-go) · 组织维护
 
 **LangSmith 官方 Go SDK：在 Go 应用中访问其 REST API**
 

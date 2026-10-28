@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Motion-1.0
 
-⭐ 2,633 · Python · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
+⭐ 2,634 · Python · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
 
 **腾讯混元的文本生成 3D 人体动作模型系列**
 

@@ -1,6 +1,6 @@
 # commercetools/commercetools-sdk-typescript
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/commercetools/commercetools-sdk-typescript) · [官网](https://commercetools.github.io/commercetools-sdk-typescript/) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/commercetools/commercetools-sdk-typescript) · [官网](https://commercetools.github.io/commercetools-sdk-typescript/) · 组织维护
 
 **面向开发者的 commercetools API TypeScript SDK 集合**
 

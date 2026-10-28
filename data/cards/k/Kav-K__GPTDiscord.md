@@ -1,6 +1,6 @@
 # Kav-K/GPTDiscord
 
-⭐ 1,851 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Kav-K/GPTDiscord) · 个人维护
+⭐ 1,850 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Kav-K/GPTDiscord) · 个人维护
 
 **在 Discord 中提供 OpenAI 对话、图像生成与审核的机器人**
 

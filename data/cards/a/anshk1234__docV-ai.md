@@ -1,6 +1,6 @@
 # anshk1234/docV-ai
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/anshk1234/docV-ai) · [官网](https://docv-ai.vercel.app) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/anshk1234/docV-ai) · [官网](https://docv-ai.vercel.app) · 个人维护
 
 **多文档调查问答引擎：跨文档矛盾检测与引用溯源**
 

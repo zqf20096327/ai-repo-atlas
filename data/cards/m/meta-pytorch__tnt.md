@@ -1,6 +1,6 @@
 # meta-pytorch/tnt
 
-⭐ 1,723 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/meta-pytorch/tnt) · [官网](https://pytorch.org/tnt/) · 组织维护
+⭐ 1,723 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/meta-pytorch/tnt) · [官网](https://pytorch.org/tnt/) · 组织维护
 
 **PyTorch 训练工具与实用程序轻量库**
 

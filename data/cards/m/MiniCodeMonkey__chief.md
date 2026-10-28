@@ -1,6 +1,6 @@
 # MiniCodeMonkey/chief
 
-⭐ 471 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/MiniCodeMonkey/chief) · [官网](https://chiefloop.com) · 个人维护
+⭐ 472 · Go · MIT · 推送 2026-09-28 · [GitHub](https://github.com/MiniCodeMonkey/chief) · [官网](https://chiefloop.com) · 个人维护
 
 **把项目拆成任务并循环运行 Claude Code 的 Go TUI 工具**
 

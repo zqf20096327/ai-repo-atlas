@@ -1,6 +1,6 @@
 # gaur-avvv/wormxgpt
 
-⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/wormxgpt) · [官网](https://xgpt-snowy.vercel.app/) · 个人维护
+⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/gaur-avvv/wormxgpt) · [官网](https://xgpt-snowy.vercel.app/) · 个人维护
 
 **多提供商 AI 终端与 agent 套件：Web 仪表盘 + CLI agent**
 

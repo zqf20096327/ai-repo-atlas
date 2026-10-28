@@ -1,6 +1,6 @@
 # animatica-ai/motionmcp-kimodo
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/animatica-ai/motionmcp-kimodo) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/animatica-ai/motionmcp-kimodo) · 组织维护
 
 **把 NVIDIA Kimodo 动作生成模型封装为自托管 MMCP 服务器**
 

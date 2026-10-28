@@ -1,6 +1,6 @@
 # yyxcnasd/amadeus-for-dsh
 
-⭐ 42 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yyxcnasd/amadeus-for-dsh) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yyxcnasd/amadeus-for-dsh) · 个人维护 · 中文 README
 
 **命运石之门0红莉栖 AI 助手插件：给 DSH 加 Live2D 聊天伴侣**
 

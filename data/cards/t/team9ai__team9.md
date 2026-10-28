@@ -1,6 +1,6 @@
 # team9ai/team9
 
-⭐ 1,958 · TypeScript · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/team9ai/team9) · [官网](https://team9.ai) · 组织维护
+⭐ 1,957 · TypeScript · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/team9ai/team9) · [官网](https://team9.ai) · 组织维护
 
 **给团队协作使用的 AI agent 工作区（基于 OpenClaw）**
 

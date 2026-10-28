@@ -1,6 +1,6 @@
 # cai-layer/cai
 
-⭐ 59 · Swift · MIT · 推送 2026-10-11 · [GitHub](https://github.com/cai-layer/cai) · [官网](https://getcai.app/) · 组织维护
+⭐ 60 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cai-layer/cai) · [官网](https://getcai.app/) · 组织维护
 
 **macOS 本地 AI 快捷动作启动器：选中内容按 ⌥C 即变换**
 

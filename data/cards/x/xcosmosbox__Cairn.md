@@ -1,6 +1,6 @@
 # xcosmosbox/Cairn
 
-⭐ 37 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xcosmosbox/Cairn) · 个人维护 · 中文 README
+⭐ 41 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xcosmosbox/Cairn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的领域知识图谱层：蒸馏 Skill 文档并以 MCP 交付**
 

@@ -1,6 +1,6 @@
 # lucidrains/evolutionary-policy-optimization
 
-⭐ 112 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/lucidrains/evolutionary-policy-optimization) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lucidrains/evolutionary-policy-optimization) · 个人维护
 
 **Evolutionary Policy Optimization 的 PyTorch 实现，面向强化学习研究**
 

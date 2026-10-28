@@ -1,6 +1,6 @@
 # mymagicpower/AIAS
 
-⭐ 994 · Java · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/mymagicpower/AIAS) · [官网](http://aias.top) · 个人维护 · 中文 README
+⭐ 993 · Java · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/mymagicpower/AIAS) · [官网](http://aias.top) · 个人维护 · 中文 README
 
 **面向 Java 程序员的 AI 一站式工具箱：训练平台+Web应用+能力API**
 

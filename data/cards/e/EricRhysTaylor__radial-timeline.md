@@ -1,6 +1,6 @@
 # EricRhysTaylor/radial-timeline
 
-⭐ 55 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/EricRhysTaylor/radial-timeline) · [官网](http://www.radialtimeline.com) · 个人维护
+⭐ 55 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/EricRhysTaylor/radial-timeline) · [官网](http://www.radialtimeline.com) · 个人维护
 
 **面向小说作者的 Obsidian 径向时间线可视化插件**
 

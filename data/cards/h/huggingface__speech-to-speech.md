@@ -1,6 +1,6 @@
 # huggingface/speech-to-speech
 
-⭐ 13,581 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
+⭐ 13,586 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
 **全本地开源语音 agent 服务：一条命令起对话，免 API key**
 

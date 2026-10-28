@@ -1,6 +1,6 @@
 # huggingface/notebooks
 
-⭐ 4,653 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/notebooks) · 组织维护
+⭐ 4,655 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/notebooks) · 组织维护
 
 **Hugging Face 官方库使用示例笔记本集合**
 

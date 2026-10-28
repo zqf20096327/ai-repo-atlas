@@ -1,6 +1,6 @@
 # timescale/memory-engine
 
-⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/timescale/memory-engine) · [官网](https://memory.build) · 组织维护
+⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/timescale/memory-engine) · [官网](https://memory.build) · 组织维护
 
 **给 AI 编程代理的持久记忆层：基于 Postgres 与 MCP**
 

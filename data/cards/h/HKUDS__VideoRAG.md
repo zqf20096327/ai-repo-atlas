@@ -1,6 +1,6 @@
 # HKUDS/VideoRAG
 
-⭐ 3,429 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/HKUDS/VideoRAG) · [官网](https://arxiv.org/abs/2502.01549) · 组织维护
+⭐ 3,456 · Python · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/HKUDS/VideoRAG) · [官网](https://arxiv.org/abs/2502.01549) · 组织维护
 
 **面向用户的视频对话桌面应用：基于 VideoRAG 与超长视频问答**
 

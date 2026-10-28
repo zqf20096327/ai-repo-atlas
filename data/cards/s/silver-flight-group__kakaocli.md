@@ -1,6 +1,6 @@
 # silver-flight-group/kakaocli
 
-⭐ 170 · Swift · MIT · 推送 2026-03-30 · [GitHub](https://github.com/silver-flight-group/kakaocli) · 组织维护
+⭐ 171 · Swift · MIT · 推送 2026-03-30 · [GitHub](https://github.com/silver-flight-group/kakaocli) · 组织维护
 
 **macOS KakaoTalk CLI：让 AI agent 读写本地消息**
 

@@ -1,6 +1,6 @@
 # rwilliamspbg-ops/Ghostlink
 
-⭐ 84 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rwilliamspbg-ops/Ghostlink) · [官网](https://rwilliamspbg-ops.github.io/Ghostlink/) · 个人维护
+⭐ 84 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rwilliamspbg-ops/Ghostlink) · [官网](https://rwilliamspbg-ops.github.io/Ghostlink/) · 个人维护
 
 **面向本地异构集群的分布式 LLM 推理架构，提供 OpenAI 兼容 API**
 

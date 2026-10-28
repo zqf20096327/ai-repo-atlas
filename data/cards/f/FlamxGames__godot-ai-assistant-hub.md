@@ -1,6 +1,6 @@
 # FlamxGames/godot-ai-assistant-hub
 
-⭐ 319 · GDScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/FlamxGames/godot-ai-assistant-hub) · 个人维护
+⭐ 318 · GDScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/FlamxGames/godot-ai-assistant-hub) · 个人维护
 
 **在 Godot 编辑器内嵌入 AI 编程助手的插件**
 

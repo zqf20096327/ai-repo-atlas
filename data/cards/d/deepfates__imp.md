@@ -1,6 +1,6 @@
 # deepfates/imp
 
-⭐ 260 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/deepfates/imp) · [官网](https://hex.pm/packages/imp) · 个人维护
+⭐ 261 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/deepfates/imp) · [官网](https://hex.pm/packages/imp) · 个人维护
 
 **Elixir 版 DSPy：声明式可自优化的 LLM 程序框架**
 

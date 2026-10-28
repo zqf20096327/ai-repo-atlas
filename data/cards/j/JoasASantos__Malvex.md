@@ -1,6 +1,6 @@
 # JoasASantos/Malvex
 
-⭐ 50 · Rust · 推送 2026-10-16 · [GitHub](https://github.com/JoasASantos/Malvex) · 个人维护
+⭐ 52 · Rust · 推送 2026-10-16 · [GitHub](https://github.com/JoasASantos/Malvex) · 个人维护
 
 **本地优先的恶意软件分析编排框架：用 AI agent 驱动逆向工具链**
 

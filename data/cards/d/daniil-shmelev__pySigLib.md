@@ -1,6 +1,6 @@
 # daniil-shmelev/pySigLib
 
-⭐ 27 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/daniil-shmelev/pySigLib) · [官网](https://pysiglib.readthedocs.io) · 个人维护
+⭐ 27 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/daniil-shmelev/pySigLib) · [官网](https://pysiglib.readthedocs.io) · 个人维护
 
 **路径签名/log签名/签名核计算库：PyTorch、JAX、CUDA 加速**
 

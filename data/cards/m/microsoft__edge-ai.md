@@ -1,6 +1,6 @@
 # microsoft/edge-ai
 
-⭐ 107 · HCL · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/edge-ai) · 组织维护
+⭐ 107 · HCL · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/edge-ai) · 组织维护
 
 **面向团队的边缘 AI 基础设施即代码与应用组件集（Azure）**
 

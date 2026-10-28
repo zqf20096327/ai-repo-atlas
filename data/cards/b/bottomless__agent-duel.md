@@ -1,6 +1,6 @@
 # bottomless/agent-duel
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/bottomless/agent-duel) · 组织维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/bottomless/agent-duel) · 组织维护
 
 **双编码代理盲战对局的桌面应用：一个提示词，用户投票选优**
 

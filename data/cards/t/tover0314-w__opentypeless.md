@@ -1,6 +1,6 @@
 # tover0314-w/opentypeless
 
-⭐ 644 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tover0314-w/opentypeless) · [官网](https://www.opentypeless.com) · 个人维护 · 中文 README
+⭐ 645 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tover0314-w/opentypeless) · [官网](https://www.opentypeless.com) · 个人维护 · 中文 README
 
 **跨平台 AI 语音输入工具：热键说话即得润色文本**
 

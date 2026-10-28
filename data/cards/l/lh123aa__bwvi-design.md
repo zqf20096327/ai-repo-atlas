@@ -1,6 +1,6 @@
 # lh123aa/bwvi-design
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/lh123aa/bwvi-design) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/lh123aa/bwvi-design) · 个人维护 · 中文 README
 
 **给 AI Agent 的设计决策协议：CLI + MCP 设计决策层**
 

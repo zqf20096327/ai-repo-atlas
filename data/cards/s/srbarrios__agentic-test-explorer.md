@@ -1,6 +1,6 @@
 # srbarrios/agentic-test-explorer
 
-⭐ 35 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/srbarrios/agentic-test-explorer) · [官网](https://oscarbarrios.tech/agentic-test-explorer/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/srbarrios/agentic-test-explorer) · [官网](https://oscarbarrios.tech/agentic-test-explorer/) · 个人维护
 
 **AI 驱动的通用 Web 探索性测试框架：多 agent 操控浏览器找 bug**
 

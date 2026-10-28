@@ -1,6 +1,6 @@
 # langchain-ai/paid-media-agent
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/paid-media-agent) · 组织维护
+⭐ 114 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/paid-media-agent) · 组织维护
 
 **跨渠道广告代理：分析 Google/Meta 等广告效果并生成报告**
 

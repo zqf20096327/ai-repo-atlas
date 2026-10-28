@@ -1,6 +1,6 @@
 # anthropics/cwc-long-running-agents
 
-⭐ 745 · Shell · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/anthropics/cwc-long-running-agents) · 组织维护
+⭐ 750 · Shell · Apache-2.0 · 推送 2026-05-13 · [GitHub](https://github.com/anthropics/cwc-long-running-agents) · 组织维护
 
 **长时运行 Claude Agent 的测试组件示例集：钩挂与子代理模式**
 

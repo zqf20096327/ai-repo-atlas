@@ -1,6 +1,6 @@
 # Hazrat-Ali9/PneumoScan-AI
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Hazrat-Ali9/PneumoScan-AI) · [官网](https://github.com/Hazrat-Ali9/PneumoScan-AI) · 个人维护
+⭐ 23 · Jupyter Notebook · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Hazrat-Ali9/PneumoScan-AI) · [官网](https://github.com/Hazrat-Ali9/PneumoScan-AI) · 个人维护
 
 **胸部 X 光片肺炎检测与肺部异常分割的深度学习项目**
 

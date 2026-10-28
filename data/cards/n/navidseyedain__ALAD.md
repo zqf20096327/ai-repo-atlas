@@ -1,6 +1,6 @@
 # navidseyedain/ALAD
 
-⭐ 31 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/navidseyedain/ALAD) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/navidseyedain/ALAD) · 个人维护
 
 **Chrome 标签页实时 AI 语音配音扩展，支持 78 种语言**
 

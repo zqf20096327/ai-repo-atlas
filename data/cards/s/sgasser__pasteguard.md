@@ -1,6 +1,6 @@
 # sgasser/pasteguard
 
-⭐ 774 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sgasser/pasteguard) · [官网](https://pasteguard.com) · 个人维护
+⭐ 778 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sgasser/pasteguard) · [官网](https://pasteguard.com) · 个人维护
 
 **本地隐私代理：在请求到达 AI 前掩码 PII 与密钥**
 

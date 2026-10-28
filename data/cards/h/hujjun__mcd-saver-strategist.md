@@ -1,6 +1,6 @@
 # hujjun/mcd-saver-strategist
 
-⭐ 1,545 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hujjun/mcd-saver-strategist) · [官网](https://hujjun.github.io/mcd-saver-strategist/) · 个人维护 · 中文 README
+⭐ 1,546 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hujjun/mcd-saver-strategist) · [官网](https://hujjun.github.io/mcd-saver-strategist/) · 个人维护 · 中文 README
 
 **麦当劳点餐省钱 Skill：穷举菜单×优惠券算出最低价组合**
 

@@ -1,6 +1,6 @@
 # aaryansamanta/nextgen-ai
 
-⭐ 491 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/nextgen-ai) · [官网](https://www.nextgenai.org) · 组织维护
+⭐ 492 · HTML · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/nextgen-ai) · [官网](https://www.nextgenai.org) · 组织维护
 
 **面向高中生的国际 AI 教育公益组织官网与资料库**
 

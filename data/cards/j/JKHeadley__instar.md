@@ -1,6 +1,6 @@
 # JKHeadley/instar
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/JKHeadley/instar) · [官网](https://instar.sh) · 个人维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JKHeadley/instar) · [官网](https://instar.sh) · 个人维护
 
 **为 Claude Code/Codex 构建持久化 agent 的基础设施框架**
 

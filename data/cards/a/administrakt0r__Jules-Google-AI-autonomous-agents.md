@@ -1,6 +1,6 @@
 # administrakt0r/Jules-Google-AI-autonomous-agents
 
-⭐ 20 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/administrakt0r/Jules-Google-AI-autonomous-agents) · [官网](https://julesai.pages.dev/) · 个人维护
+⭐ 20 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/administrakt0r/Jules-Google-AI-autonomous-agents) · [官网](https://julesai.pages.dev/) · 个人维护
 
 **面向任意代码库的可移植自主 AI agent 提示词集（26 个专家）**
 

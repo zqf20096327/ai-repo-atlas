@@ -1,6 +1,6 @@
 # maxjb-xyz/blackbox
 
-⭐ 74 · Go · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/maxjb-xyz/blackbox) · [官网](https://blackboxd.dev) · 个人维护
+⭐ 73 · Go · AGPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/maxjb-xyz/blackbox) · [官网](https://blackboxd.dev) · 个人维护
 
 **面向家庭实验室的自托管事件时间线与故障取证平台**
 

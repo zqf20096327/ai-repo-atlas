@@ -1,6 +1,6 @@
 # AlekseiUL/openclaw-agent-doctor
 
-⭐ 25 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AlekseiUL/openclaw-agent-doctor) · [官网](https://t.me/Sprut_AI) · 个人维护
+⭐ 25 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AlekseiUL/openclaw-agent-doctor) · [官网](https://t.me/Sprut_AI) · 个人维护
 
 **OpenClaw 代理的自诊断技能：检查 7 类系统并给出修复建议**
 

@@ -1,6 +1,6 @@
 # hyhmrright/logic-lens
 
-⭐ 25 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/hyhmrright/logic-lens) · [官网](https://github.com/hyhmrright/logic-lens) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hyhmrright/logic-lens) · [官网](https://github.com/hyhmrright/logic-lens) · 个人维护
 
 **面向 Claude Code/Codex/Gemini CLI 的半形式化执行追踪代码审查技能包**
 

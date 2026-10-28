@@ -1,6 +1,6 @@
 # hacrex/Hack-Under-Root
 
-⭐ 33 · HTML · 推送 2026-06-28 · [GitHub](https://github.com/hacrex/Hack-Under-Root) · [官网](http://hackunderroot.blogspot.in/) · 组织维护
+⭐ 34 · HTML · 推送 2026-06-28 · [GitHub](https://github.com/hacrex/Hack-Under-Root) · [官网](http://hackunderroot.blogspot.in/) · 组织维护
 
 **十年技术演进档案库：支撑网络安全/Linux/AI/DevSecOps 博客**
 

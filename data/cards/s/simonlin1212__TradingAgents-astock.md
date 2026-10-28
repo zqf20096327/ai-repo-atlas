@@ -1,6 +1,6 @@
 # simonlin1212/TradingAgents-astock
 
-⭐ 3,812 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/simonlin1212/TradingAgents-astock) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
+⭐ 3,835 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/simonlin1212/TradingAgents-astock) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
 
 **A股多Agent投研框架：7位AI分析师辩论生成投研报告**
 

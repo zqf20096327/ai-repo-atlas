@@ -1,6 +1,6 @@
 # UNLINEARITY/dsh-code
 
-⭐ 43 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/UNLINEARITY/dsh-code) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UNLINEARITY/dsh-code) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的终端编码界面（TUI 插件）**
 

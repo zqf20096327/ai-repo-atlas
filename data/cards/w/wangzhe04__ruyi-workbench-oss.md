@@ -1,6 +1,6 @@
 # wangzhe04/ruyi-workbench-oss
 
-⭐ 40 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/wangzhe04/ruyi-workbench-oss) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wangzhe04/ruyi-workbench-oss) · 个人维护 · 中文 README
 
 **Windows 本地 AI 工作台：让模型在电脑上动手办事并可撤销**
 

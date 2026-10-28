@@ -1,6 +1,6 @@
 # huggingface/optimum-quanto
 
-⭐ 1,053 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
+⭐ 1,054 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
 
 **PyTorch 模型量化库：将 float 模型转为低比特量化模型**
 

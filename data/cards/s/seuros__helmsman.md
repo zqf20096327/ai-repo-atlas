@@ -1,6 +1,6 @@
 # seuros/helmsman
 
-⭐ 24 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/seuros/helmsman) · 个人维护
+⭐ 24 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/seuros/helmsman) · 个人维护
 
 **为 AI 编程 agent 按模型与环境动态生成指令的 MCP 服务器**
 

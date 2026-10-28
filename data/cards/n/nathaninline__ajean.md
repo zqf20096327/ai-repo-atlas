@@ -1,6 +1,6 @@
 # nathaninline/ajean
 
-⭐ 106 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nathaninline/ajean) · [官网](https://ajean.app) · 个人维护
+⭐ 107 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nathaninline/ajean) · [官网](https://ajean.app) · 个人维护
 
 **单文件本地 AI 助手：在家用电脑上运行带记忆与工具的聊天助手**
 

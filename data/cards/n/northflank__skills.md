@@ -1,6 +1,6 @@
 # northflank/skills
 
-⭐ 39 · JavaScript · 推送 2026-10-20 · [GitHub](https://github.com/northflank/skills) · [官网](https://northflank.com) · 组织维护
+⭐ 39 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/northflank/skills) · [官网](https://northflank.com) · 组织维护
 
 **供编码 Agent 使用的 Northflank 部署运维技能包**
 

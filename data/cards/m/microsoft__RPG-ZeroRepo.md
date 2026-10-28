@@ -1,6 +1,6 @@
 # microsoft/RPG-ZeroRepo
 
-⭐ 554 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/RPG-ZeroRepo) · 组织维护 · 中文 README
+⭐ 555 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/RPG-ZeroRepo) · 组织维护 · 中文 README
 
 **面向长程编码 agent 的仓库规划图控制层与研究管线**
 

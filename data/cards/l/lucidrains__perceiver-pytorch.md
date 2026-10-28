@@ -1,6 +1,6 @@
 # lucidrains/perceiver-pytorch
 
-⭐ 1,221 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/perceiver-pytorch) · 个人维护
+⭐ 1,222 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/perceiver-pytorch) · 个人维护
 
 **PyTorch 实现的 Perceiver 注意力架构模型库**
 

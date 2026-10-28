@@ -1,6 +1,6 @@
 # tofrankie/blog
 
-⭐ 37 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/tofrankie/blog) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/tofrankie/blog) · 个人维护 · 中文 README
 
 **Frankie 的个人技术博客，收录 JavaScript 等精选文章清单**
 

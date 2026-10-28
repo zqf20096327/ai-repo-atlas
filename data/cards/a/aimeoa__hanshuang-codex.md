@@ -1,6 +1,6 @@
 # aimeoa/hanshuang-codex
 
-⭐ 540 · Lua · 推送 2026-10-17 · [GitHub](https://github.com/aimeoa/hanshuang-codex) · 个人维护 · 中文 README
+⭐ 560 · Lua · 推送 2026-10-17 · [GitHub](https://github.com/aimeoa/hanshuang-codex) · 个人维护 · 中文 README
 
 **面向九个 AI 编程工具的提示词注入管理桌面工具**
 

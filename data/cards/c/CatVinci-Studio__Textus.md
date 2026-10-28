@@ -1,6 +1,6 @@
 # CatVinci-Studio/Textus
 
-⭐ 521 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/CatVinci-Studio/Textus) · [官网](https://textus.catvinci.com) · 组织维护 · 中文 README
+⭐ 537 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CatVinci-Studio/Textus) · [官网](https://textus.catvinci.com) · 组织维护 · 中文 README
 
 **带 AI 写作助手的开源 Markdown 编辑器（macOS/Windows/Linux）**
 

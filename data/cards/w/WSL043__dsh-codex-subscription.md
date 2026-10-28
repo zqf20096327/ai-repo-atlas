@@ -1,6 +1,6 @@
 # WSL043/dsh-codex-subscription
 
-⭐ 288 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/WSL043/dsh-codex-subscription) · [官网](https://www.npmjs.com/package/dsh-codex-subscription) · 个人维护 · 中文 README
+⭐ 297 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WSL043/dsh-codex-subscription) · [官网](https://www.npmjs.com/package/dsh-codex-subscription) · 个人维护 · 中文 README
 
 **让 DSH 使用 ChatGPT/Codex 订阅的插件：模型、额度、生图、远程控制**
 

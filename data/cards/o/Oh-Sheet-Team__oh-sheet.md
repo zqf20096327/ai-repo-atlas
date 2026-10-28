@@ -1,6 +1,6 @@
 # Oh-Sheet-Team/oh-sheet
 
-⭐ 379 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/Oh-Sheet-Team/oh-sheet) · 组织维护
+⭐ 381 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/Oh-Sheet-Team/oh-sheet) · 组织维护
 
 **把任意歌曲转成可弹钢琴谱的 AI 管线应用**
 

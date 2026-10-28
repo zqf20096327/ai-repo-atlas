@@ -1,6 +1,6 @@
 # lorenzozanizz/rendersynth
 
-⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lorenzozanizz/rendersynth) · [官网](https://lorenzozanizz.github.io/rendersynth/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lorenzozanizz/rendersynth) · [官网](https://lorenzozanizz.github.io/rendersynth/) · 个人维护
 
 **Blender 扩展：无代码生成计算机视觉合成图像数据集**
 

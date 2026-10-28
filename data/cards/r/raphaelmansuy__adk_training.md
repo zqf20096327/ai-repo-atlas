@@ -1,6 +1,6 @@
 # raphaelmansuy/adk_training
 
-⭐ 107 · Python · 推送 2026-03-01 · [GitHub](https://github.com/raphaelmansuy/adk_training) · [官网](https://raphaelmansuy.github.io/adk_training/) · 个人维护
+⭐ 108 · Python · 推送 2026-03-01 · [GitHub](https://github.com/raphaelmansuy/adk_training) · [官网](https://raphaelmansuy.github.io/adk_training/) · 个人维护
 
 **Google ADK 实战教程库：36 个含可运行代码的 agent 开发训练**
 

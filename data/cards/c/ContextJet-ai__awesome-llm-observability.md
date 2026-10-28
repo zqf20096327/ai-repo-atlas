@@ -1,6 +1,6 @@
 # ContextJet-ai/awesome-llm-observability
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ContextJet-ai/awesome-llm-observability) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ContextJet-ai/awesome-llm-observability) · 组织维护
 
 **LLM 可观测化工具策展清单，附 26 个可安装 agent 技能**
 

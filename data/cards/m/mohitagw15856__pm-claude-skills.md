@@ -1,6 +1,6 @@
 # mohitagw15856/pm-claude-skills
 
-⭐ 1,488 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
+⭐ 1,489 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
 
 **给普通用户与职场人的 1295 个 AI 助手职业技能库**
 

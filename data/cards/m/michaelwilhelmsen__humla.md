@@ -1,6 +1,6 @@
 # michaelwilhelmsen/humla
 
-⭐ 329 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/michaelwilhelmsen/humla) · [官网](https://humla.team) · 个人维护
+⭐ 330 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/michaelwilhelmsen/humla) · [官网](https://humla.team) · 个人维护
 
 **macOS 本地优先的开源 AI 会议笔记应用：录音转写与摘要**
 

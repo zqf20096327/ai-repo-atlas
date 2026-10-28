@@ -1,6 +1,6 @@
 # do-md/domd
 
-⭐ 587 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 个人维护 · 中文 README
+⭐ 586 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 个人维护 · 中文 README
 
 **30KB Markdown 原生 WYSIWYG 编辑器内核与编辑器产品，支持 AI 流式输出**
 

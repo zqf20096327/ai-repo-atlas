@@ -1,6 +1,6 @@
 # originalankur/GenerateAgents.md
 
-⭐ 258 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/originalankur/GenerateAgents.md) · 个人维护
+⭐ 259 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/originalankur/GenerateAgents.md) · 个人维护
 
 **自动为 GitHub/本地仓库生成 AGENTS.md 的 CLI 工具**
 

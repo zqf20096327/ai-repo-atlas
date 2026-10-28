@@ -1,6 +1,6 @@
 # ZipengWu365/TOMC
 
-⭐ 265 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZipengWu365/TOMC) · [官网](https://github.com/ZipengWu365/TOMC) · 个人维护 · 中文 README
+⭐ 265 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZipengWu365/TOMC) · [官网](https://github.com/ZipengWu365/TOMC) · 个人维护 · 中文 README
 
 **面向 AI 编程助手的 CPU 上下文压缩与任务记忆工具**
 

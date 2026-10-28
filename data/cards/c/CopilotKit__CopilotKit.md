@@ -1,6 +1,6 @@
 # CopilotKit/CopilotKit
 
-⭐ 38,276 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
+⭐ 38,325 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
 
 **给开发者提供 agent 前端接入栈与 Generative UI**
 

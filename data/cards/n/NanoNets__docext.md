@@ -1,6 +1,6 @@
 # NanoNets/docext
 
-⭐ 2,088 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/NanoNets/docext) · [官网](https://nanonets.com/document-parsing-and-extraction) · 组织维护
+⭐ 2,089 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/NanoNets/docext) · [官网](https://nanonets.com/document-parsing-and-extraction) · 组织维护
 
 **本地部署的 OCR-free 文档信息抽取与 Markdown 转换工具包**
 

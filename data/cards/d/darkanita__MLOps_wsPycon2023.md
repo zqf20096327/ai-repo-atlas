@@ -1,6 +1,6 @@
 # darkanita/MLOps_wsPycon2023
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 50 · Python · 推送 2026-10-24 · [GitHub](https://github.com/darkanita/MLOps_wsPycon2023) · 个人维护
 
 **PyCon 2023 MLOps 工作坊教程：用 WandB 与 GitHub Actions 演练 ML 流程**
 

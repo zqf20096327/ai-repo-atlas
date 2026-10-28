@@ -1,6 +1,6 @@
 # microsoft/devsquad-copilot
 
-⭐ 50 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/devsquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
+⭐ 50 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/devsquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
 
 **基于 GitHub Copilot 的团队交付框架：从业务意图到实现**
 

@@ -1,6 +1,6 @@
 # agent0ai/agent-zero
 
-⭐ 19,583 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 19,593 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/agent0ai/agent-zero) · [官网](https://agent-zero.ai) · 组织维护
 
 **给 agent 一个完整 Dockerized Linux 环境的开源框架**
 

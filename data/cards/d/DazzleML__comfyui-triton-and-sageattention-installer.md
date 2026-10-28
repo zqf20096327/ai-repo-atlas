@@ -1,6 +1,6 @@
 # DazzleML/comfyui-triton-and-sageattention-installer
 
-⭐ 244 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/DazzleML/comfyui-triton-and-sageattention-installer) · 组织维护
+⭐ 245 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/DazzleML/comfyui-triton-and-sageattention-installer) · 组织维护
 
 **Windows 用户在 ComfyUI 中自动安装 Triton 与 SageAttention 的安装器**
 

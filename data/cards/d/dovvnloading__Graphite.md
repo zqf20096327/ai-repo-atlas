@@ -1,6 +1,6 @@
 # dovvnloading/Graphite
 
-⭐ 147 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/dovvnloading/Graphite) · [官网](https://github.com/dovvnloading/Graphlink) · 个人维护
+⭐ 146 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/dovvnloading/Graphite) · [官网](https://github.com/dovvnloading/Graphlink) · 个人维护
 
 **节点画布式桌面 LLM 工作台，本地或 API 多模型对话**
 

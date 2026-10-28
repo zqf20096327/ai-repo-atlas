@@ -1,6 +1,6 @@
 # ashhart/TensorFold
 
-⭐ 1,502 · Zig · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
+⭐ 1,520 · Zig · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
 
 **在 Apple Silicon 与 NVIDIA GPU 上直接运行 LLM 的 Zig 推理引擎**
 

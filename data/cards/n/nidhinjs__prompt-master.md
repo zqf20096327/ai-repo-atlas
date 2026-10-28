@@ -1,6 +1,6 @@
 # nidhinjs/prompt-master
 
-⭐ 15,153 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nidhinjs/prompt-master) · 个人维护
+⭐ 15,202 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nidhinjs/prompt-master) · 个人维护
 
 **给各 AI 工具写精准提示词的 Claude skill**
 

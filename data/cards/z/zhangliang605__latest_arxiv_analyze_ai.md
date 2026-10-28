@@ -1,6 +1,6 @@
 # zhangliang605/latest_arxiv_analyze_ai
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zhangliang605/latest_arxiv_analyze_ai) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zhangliang605/latest_arxiv_analyze_ai) · 个人维护
 
 **每日用 LLM 分析 600+ 篇 arXiv 最新论文并输出摘要订阅**
 

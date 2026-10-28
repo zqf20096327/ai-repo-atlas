@@ -1,6 +1,6 @@
 # woodx9/build-your-claude-code-from-scratch
 
-⭐ 189 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/woodx9/build-your-claude-code-from-scratch) · [官网](https://deepwiki.com/woodx9/build-your-claude-code-from-scratch) · 个人维护 · 中文 README
+⭐ 188 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/woodx9/build-your-claude-code-from-scratch) · [官网](https://deepwiki.com/woodx9/build-your-claude-code-from-scratch) · 个人维护 · 中文 README
 
 **从零构建类 Claude Code 编程 agent 的渐进式教程项目**
 

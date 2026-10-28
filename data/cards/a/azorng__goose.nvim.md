@@ -1,6 +1,6 @@
 # azorng/goose.nvim
 
-⭐ 314 · Lua · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/azorng/goose.nvim) · 个人维护
+⭐ 313 · Lua · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/azorng/goose.nvim) · 个人维护
 
 **Neovim 插件：在编辑器内接入 goose AI agent 对话**
 

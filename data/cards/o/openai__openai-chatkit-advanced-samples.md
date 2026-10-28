@@ -1,6 +1,6 @@
 # openai/openai-chatkit-advanced-samples
 
-⭐ 665 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/openai/openai-chatkit-advanced-samples) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
+⭐ 666 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/openai/openai-chatkit-advanced-samples) · [官网](https://platform.openai.com/docs/guides/chatkit) · 组织维护
 
 **OpenAI ChatKit SDK 的场景化示例应用集合（4 个可运行 demo）**
 

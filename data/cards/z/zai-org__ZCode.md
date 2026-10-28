@@ -1,6 +1,6 @@
 # zai-org/ZCode
 
-⭐ 8,314 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zai-org/ZCode) · [官网](https://zcode.z.ai/) · 组织维护 · 中文 README
+⭐ 8,335 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/zai-org/ZCode) · [官网](https://zcode.z.ai/) · 组织维护 · 中文 README
 
 **Z.ai 的 AI 编程工作台：桌面/Web/终端三种形态的 coding agent**
 

@@ -1,6 +1,6 @@
 # ReksarGames/RN_AI_cpp
 
-⭐ 34 · C++ · MIT · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI_cpp) · [官网](https://mega.nz/file/T8IFHS7I#70_WjY_-3rDZ82U3yKS3meS8mk3bV29_RFrSCQRlFhg) · 个人维护 · 中文 README
+⭐ 35 · C++ · MIT · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI_cpp) · [官网](https://mega.nz/file/T8IFHS7I#70_WjY_-3rDZ82U3yKS3meS8mk3bV29_RFrSCQRlFhg) · 个人维护 · 中文 README
 
 **基于 AI 目标检测的 FPS/TPS 游戏自瞄工具**
 

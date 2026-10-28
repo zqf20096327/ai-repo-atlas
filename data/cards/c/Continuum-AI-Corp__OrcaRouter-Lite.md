@@ -1,6 +1,6 @@
 # Continuum-AI-Corp/OrcaRouter-Lite
 
-⭐ 1,443 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护 · 中文 README
+⭐ 1,444 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护 · 中文 README
 
 **自托管 LLM 路由网关：OpenAI 兼容、多后端、自动选型与故障兜底**
 

@@ -1,6 +1,6 @@
 # matrixhub-ai/matrixhub
 
-⭐ 359 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/matrixhub-ai/matrixhub) · [官网](https://matrixhub.ai) · 组织维护
+⭐ 362 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/matrixhub-ai/matrixhub) · [官网](https://matrixhub.ai) · 组织维护
 
 **自托管私有 AI 模型仓库，加速 vLLM/SGLang 推理**
 

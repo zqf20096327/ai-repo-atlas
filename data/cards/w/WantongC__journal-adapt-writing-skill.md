@@ -1,6 +1,6 @@
 # WantongC/journal-adapt-writing-skill
 
-⭐ 766 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/WantongC/journal-adapt-writing-skill) · 个人维护
+⭐ 767 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/WantongC/journal-adapt-writing-skill) · 个人维护
 
 **从目标期刊论文语料学习写作规范并逐节修改稿件的 agent 技能**
 

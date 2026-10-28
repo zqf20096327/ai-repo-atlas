@@ -1,6 +1,6 @@
 # zexadev/gemini-web2api-go
 
-⭐ 716 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zexadev/gemini-web2api-go) · 个人维护 · 中文 README
+⭐ 723 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zexadev/gemini-web2api-go) · 个人维护 · 中文 README
 
 **自托管代理：把 Gemini 网页端反代成 OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # jmrplens/libgen-mcp
 
-⭐ 24 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jmrplens/libgen-mcp) · [官网](https://docs.jmrp.io/libgen-mcp/) · 个人维护
+⭐ 25 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jmrplens/libgen-mcp) · [官网](https://docs.jmrp.io/libgen-mcp/) · 个人维护
 
 **Go 编写的 MCP server：让 AI 助手检索、下载并阅读 Library Genesis 与开放获取文献**
 

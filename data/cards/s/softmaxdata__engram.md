@@ -1,6 +1,6 @@
 # softmaxdata/engram
 
-⭐ 44 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/softmaxdata/engram) · [官网](https://engram.so) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/softmaxdata/engram) · [官网](https://engram.so) · 组织维护
 
 **面向 AI agent 的可移植上下文数据库服务器**
 

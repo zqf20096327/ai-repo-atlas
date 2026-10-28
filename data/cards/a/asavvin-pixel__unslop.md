@@ -1,6 +1,6 @@
 # asavvin-pixel/unslop
 
-⭐ 78 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/asavvin-pixel/unslop) · 个人维护
+⭐ 79 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/asavvin-pixel/unslop) · 个人维护
 
 **给 Claude 用户去除英文文本 AI 写作痕迹的技能**
 

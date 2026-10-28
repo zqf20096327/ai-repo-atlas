@@ -1,6 +1,6 @@
 # ceilf6/FrontAgent
 
-⭐ 120 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ceilf6/FrontAgent) · [官网](https://marketplace.visualstudio.com/items?itemName=ceilf6.frontagent) · 个人维护 · 中文 README
+⭐ 120 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ceilf6/FrontAgent) · [官网](https://marketplace.visualstudio.com/items?itemName=ceilf6.frontagent) · 个人维护 · 中文 README
 
 **面向前端工程的 AI 编码 Agent 平台，SDD 约束下生成并验证 Web 代码**
 

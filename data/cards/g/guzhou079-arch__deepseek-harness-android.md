@@ -1,6 +1,6 @@
 # guzhou079-arch/deepseek-harness-android
 
-⭐ 45 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) · [官网](https://github.com/guzhou079-arch/deepseek-harness-android/releases) · 个人维护 · 中文 README
+⭐ 49 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) · [官网](https://github.com/guzhou079-arch/deepseek-harness-android/releases) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的安卓 APK 移植版，手机上跑 AI 自动化与自编译发版**
 

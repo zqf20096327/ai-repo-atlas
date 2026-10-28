@@ -1,6 +1,6 @@
 # google/torchax
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/torchax) · [官网](https://google.github.io/torchax/) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google/torchax) · [官网](https://google.github.io/torchax/) · 组织维护
 
 **让 PyTorch 代码经 JAX 后端运行于 TPU 的互操作库**
 

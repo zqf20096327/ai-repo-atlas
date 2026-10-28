@@ -1,6 +1,6 @@
 # VectorInstitute/odyssey
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/VectorInstitute/odyssey) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/VectorInstitute/odyssey) · 组织维护
 
 **可解释临床时间线 EHR 基础模型：事件预测与预警评测框架**
 

@@ -1,6 +1,6 @@
 # jamiepine/voicebox
 
-⭐ 58,726 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
+⭐ 58,882 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
 
 **本地优先的 AI 语音工作室：克隆声音、生成语音、全局听写**
 

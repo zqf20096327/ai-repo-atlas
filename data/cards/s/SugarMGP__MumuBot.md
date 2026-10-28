@@ -1,6 +1,6 @@
 # SugarMGP/MumuBot
 
-⭐ 26 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SugarMGP/MumuBot) · 个人维护 · 中文 README
+⭐ 26 · Go · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/SugarMGP/MumuBot) · 个人维护 · 中文 README
 
 **运行在 QQ 群与私聊里的拟人智能体，会聊天记事并融入群文化**
 

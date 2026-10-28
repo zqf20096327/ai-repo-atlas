@@ -1,6 +1,6 @@
 # syfr512/SweetrollLM
 
-⭐ 79 · Python · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/syfr512/SweetrollLM) · 个人维护
+⭐ 80 · Python · AGPL-3.0 · 推送 2026-06-27 · [GitHub](https://github.com/syfr512/SweetrollLM) · 个人维护
 
 **本地优先的桌面 AI 角色扮演聊天客户端，含 GGUF 推理与 agent 工作区**
 

@@ -1,6 +1,6 @@
 # Projects-Developer/50-Final-Year-Projects-with-Source-Code
 
-⭐ 1,180 · 推送 2026-01-22 · [GitHub](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) · [官网](https://www.finalproject.in) · 个人维护
+⭐ 1,181 · 推送 2026-01-22 · [GitHub](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) · [官网](https://www.finalproject.in) · 个人维护
 
 **面向学生的 50 个毕业设计项目合集（源码+文档+视频）**
 

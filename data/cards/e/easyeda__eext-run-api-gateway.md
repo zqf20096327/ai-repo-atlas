@@ -1,6 +1,6 @@
 # easyeda/eext-run-api-gateway
 
-⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/easyeda/eext-run-api-gateway) · 组织维护 · 中文 README
+⭐ 96 · TypeScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/easyeda/eext-run-api-gateway) · 组织维护 · 中文 README
 
 **嘉立创EDA扩展：为 AI 编程工具提供 WebSocket 网关桥接**
 

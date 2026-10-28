@@ -1,6 +1,6 @@
 # Exorust/TorchLeet
 
-⭐ 2,592 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Exorust/TorchLeet) · [官网](https://torch-leet.vercel.app) · 个人维护
+⭐ 2,596 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Exorust/TorchLeet) · [官网](https://torch-leet.vercel.app) · 个人维护
 
 **68 道 PyTorch/ML 面试实战题库，含 MCP AI 导师**
 

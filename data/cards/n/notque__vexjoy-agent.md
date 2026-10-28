@@ -1,6 +1,6 @@
 # notque/vexjoy-agent
 
-⭐ 443 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/notque/vexjoy-agent) · [官网](https://vexjoy.com) · 个人维护
+⭐ 443 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/notque/vexjoy-agent) · [官网](https://vexjoy.com) · 个人维护
 
 **面向多 AI 编码运行时的 agent/技能/工作流工具箱与路由器**
 

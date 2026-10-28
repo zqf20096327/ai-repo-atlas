@@ -1,6 +1,6 @@
 # GroundedCoreAI/nexusdesk
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://www.aidet.top) · 组织维护 · 中文 README
+⭐ 122 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://www.aidet.top) · 组织维护 · 中文 README
 
 **自托管通用 Agent 平台，首个参考应用为 AI 客服**
 

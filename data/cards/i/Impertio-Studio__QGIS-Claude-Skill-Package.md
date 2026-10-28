@@ -1,6 +1,6 @@
 # Impertio-Studio/QGIS-Claude-Skill-Package
 
-⭐ 36 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/QGIS-Claude-Skill-Package) · 组织维护
+⭐ 37 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/QGIS-Claude-Skill-Package) · 组织维护
 
 **教 Claude 编写 QGIS/PyQGIS 代码的确定性技能包（19 项）**
 

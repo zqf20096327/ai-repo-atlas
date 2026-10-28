@@ -1,6 +1,6 @@
 # AndraxDev/speak-gpt
 
-⭐ 446 · Kotlin · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/AndraxDev/speak-gpt) · [官网](https://play.google.com/store/apps/details?id=org.teslasoft.assistant) · 个人维护
+⭐ 447 · Kotlin · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/AndraxDev/speak-gpt) · [官网](https://play.google.com/store/apps/details?id=org.teslasoft.assistant) · 个人维护
 
 **安卓上的开源语音 AI 助手客户端，接入多厂商 LLM API**
 

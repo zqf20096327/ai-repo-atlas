@@ -1,6 +1,6 @@
 # brandonhimpfen/awesome-prompt-engineering
 
-⭐ 253 · Python · 推送 2026-10-15 · [GitHub](https://github.com/brandonhimpfen/awesome-prompt-engineering) · [官网](https://lnktr.net/awesome) · 个人维护
+⭐ 254 · Python · 推送 2026-10-15 · [GitHub](https://github.com/brandonhimpfen/awesome-prompt-engineering) · [官网](https://lnktr.net/awesome) · 个人维护
 
 **提示工程策展清单：汇集指南、工具、论文与平台资源**
 

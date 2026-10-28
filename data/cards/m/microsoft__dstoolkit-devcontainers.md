@@ -1,6 +1,6 @@
 # microsoft/dstoolkit-devcontainers
 
-⭐ 51 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/dstoolkit-devcontainers) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/dstoolkit-devcontainers) · 组织维护
 
 **微软维护的 ML 项目模板：多 Docker 开发容器与 CI 流水线**
 

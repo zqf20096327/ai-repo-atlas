@@ -1,6 +1,6 @@
 # AspirinCode/awesome-AI4MolConformation-MD
 
-⭐ 306 · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
+⭐ 306 · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
 
 **AI 分子构象生成与分子动力学研究的论文/数据集清单**
 

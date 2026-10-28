@@ -1,6 +1,6 @@
 # hypit-ai/hypit
 
-⭐ 26,056 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
+⭐ 26,221 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
 
 **给编码 Agent 用的视频克隆工作流 DSL 与技能：一条命令产出多版本视频**
 

@@ -1,6 +1,6 @@
 # riba2534/hpc-mail
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/riba2534/hpc-mail) · [官网](https://hpc.email) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/riba2534/hpc-mail) · [官网](https://hpc.email) · 个人维护 · 中文 README
 
 **跑在 Cloudflare Workers 上的多域名多用户邮箱系统，AI Agent 可直接收发邮件**
 

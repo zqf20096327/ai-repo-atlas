@@ -1,6 +1,6 @@
 # KKKenChow/ai-novel-writer
 
-⭐ 36 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/KKKenChow/ai-novel-writer) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/KKKenChow/ai-novel-writer) · 个人维护 · 中文 README
 
 **面向个人作者的 AI 全流程小说创作 Web 工具**
 

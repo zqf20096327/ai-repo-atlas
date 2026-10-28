@@ -1,6 +1,6 @@
 # FreHilm/ordna
 
-⭐ 88 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/FreHilm/ordna) · [官网](https://www.ordna.sh) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/FreHilm/ordna) · [官网](https://www.ordna.sh) · 个人维护
 
 **存放在代码仓库内的本地优先 git 看板工具**
 

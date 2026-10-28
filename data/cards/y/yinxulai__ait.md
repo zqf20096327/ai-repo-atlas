@@ -1,6 +1,6 @@
 # yinxulai/ait
 
-⭐ 32 · Go · MIT · 推送 2026-06-29 · [GitHub](https://github.com/yinxulai/ait) · 个人维护 · 中文 README
+⭐ 33 · Go · MIT · 推送 2026-06-29 · [GitHub](https://github.com/yinxulai/ait) · 个人维护 · 中文 README
 
 **CLI 工具：批量测试 OpenAI/Anthropic 协议模型的性能指标**
 

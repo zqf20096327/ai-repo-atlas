@@ -1,6 +1,6 @@
 # magenta/magenta-realtime
 
-⭐ 1,848 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/magenta/magenta-realtime) · [官网](https://magenta.withgoogle.com/magenta-realtime-2) · 组织维护
+⭐ 1,851 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/magenta/magenta-realtime) · [官网](https://magenta.withgoogle.com/magenta-realtime-2) · 组织维护
 
 **开放权重实时音乐生成模型及配套推理库与应用套件**
 

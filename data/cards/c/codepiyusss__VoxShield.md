@@ -1,6 +1,6 @@
 # codepiyusss/VoxShield
 
-⭐ 32 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/codepiyusss/VoxShield) · [官网](https://voxshield-psi.vercel.app) · 个人维护
+⭐ 36 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/codepiyusss/VoxShield) · [官网](https://voxshield-psi.vercel.app) · 个人维护
 
 **检测音频是否为合成语音的机器学习原型系统**
 

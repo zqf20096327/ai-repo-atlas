@@ -1,6 +1,6 @@
 # aallan/agentlanguages
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/aallan/agentlanguages) · [官网](https://agentlanguages.dev/) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/aallan/agentlanguages) · [官网](https://agentlanguages.dev/) · 个人维护
 
 **面向 AI agent 的编程语言策展目录（三大流派分类）**
 

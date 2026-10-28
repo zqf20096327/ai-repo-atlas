@@ -1,6 +1,6 @@
 # PunithVT/ai-avatar-system
 
-⭐ 555 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/PunithVT/ai-avatar-system) · [官网](https://github.com/sponsors/PunithVT) · 个人维护
+⭐ 558 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/PunithVT/ai-avatar-system) · [官网](https://github.com/sponsors/PunithVT) · 个人维护
 
 **自托管实时 AI 数字人对话平台：照片+声音克隆生成唇形同步视频**
 

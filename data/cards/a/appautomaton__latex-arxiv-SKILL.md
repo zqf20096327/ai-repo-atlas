@@ -1,6 +1,6 @@
 # appautomaton/latex-arxiv-SKILL
 
-⭐ 470 · TeX · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/latex-arxiv-SKILL) · [官网](https://appautomaton.com/latex-arxiv-SKILL/) · 个人维护
+⭐ 471 · TeX · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/latex-arxiv-SKILL) · [官网](https://appautomaton.com/latex-arxiv-SKILL/) · 个人维护
 
 **驱动编码代理生成 arXiv 就绪综述论文的 Agent Skill**
 

@@ -1,6 +1,6 @@
 # digiteinfotech/kairon
 
-⭐ 282 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/digiteinfotech/kairon) · [官网](https://kairon.com) · 组织维护
+⭐ 282 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/digiteinfotech/kairon) · [官网](https://kairon.com) · 组织维护
 
 **基于 Rasa 的对话助手低代码构建与全生命周期管理平台**
 

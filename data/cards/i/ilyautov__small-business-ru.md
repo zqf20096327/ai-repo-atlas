@@ -1,6 +1,6 @@
 # ilyautov/small-business-ru
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/ilyautov/small-business-ru) · [官网](https://small-business-ru.aifrontier.tech/) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/ilyautov/small-business-ru) · [官网](https://small-business-ru.aifrontier.tech/) · 个人维护
 
 **面向俄罗斯小微企业经营者的 34 个 AI agent 技能包**
 

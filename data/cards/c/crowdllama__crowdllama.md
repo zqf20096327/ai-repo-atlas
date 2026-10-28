@@ -1,6 +1,6 @@
 # crowdllama/crowdllama
 
-⭐ 30 · Go · MIT · 推送 2025-11-27 · [GitHub](https://github.com/crowdllama/crowdllama) · [官网](https://crowdllama.ai/) · 组织维护
+⭐ 31 · Go · MIT · 推送 2025-11-27 · [GitHub](https://github.com/crowdllama/crowdllama) · [官网](https://crowdllama.ai/) · 组织维护
 
 **基于 Ollama 的 P2P 多节点分布式 LLM 推理系统**
 

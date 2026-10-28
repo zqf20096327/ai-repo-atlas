@@ -1,6 +1,6 @@
 # slax-lab/slax-reader
 
-⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/slax-lab/slax-reader) · [官网](https://slax.com/reader/) · 组织维护 · 中文 README
+⭐ 84 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/slax-lab/slax-reader) · [官网](https://slax.com/reader/) · 组织维护 · 中文 README
 
 **开源自托管的稍后读应用，网页存档+标注讨论+AI阅读辅助**
 

@@ -1,6 +1,6 @@
 # datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT
 
-⭐ 48 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT) · [官网](https://datadrivenconstruction.io/) · 组织维护
+⭐ 49 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT) · [官网](https://datadrivenconstruction.io/) · 组织维护
 
 **n8n 工作流：将 Revit/IFC/DWG 文件转 Excel 并用 LLM 生成 Python 分析**
 

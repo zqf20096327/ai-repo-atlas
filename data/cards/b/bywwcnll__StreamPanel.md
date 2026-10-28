@@ -1,6 +1,6 @@
 # bywwcnll/StreamPanel
 
-⭐ 185 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/bywwcnll/StreamPanel) · 个人维护 · 中文 README
+⭐ 186 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/bywwcnll/StreamPanel) · 个人维护 · 中文 README
 
 **Chrome DevTools 扩展：实时监控与检查 SSE/Fetch 流式请求**
 

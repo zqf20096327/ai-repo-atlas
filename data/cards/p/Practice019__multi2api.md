@@ -1,6 +1,6 @@
 # Practice019/multi2api
 
-⭐ 26 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Practice019/multi2api) · 个人维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Practice019/multi2api) · 个人维护 · 中文 README
 
 **聚合 13 个 AI 上游账号为 OpenAI 兼容 API 的网关**
 

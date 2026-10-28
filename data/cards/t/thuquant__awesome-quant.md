@@ -1,6 +1,6 @@
 # thuquant/awesome-quant
 
-⭐ 5,696 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/thuquant/awesome-quant) · 组织维护 · 中文 README
+⭐ 5,697 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/thuquant/awesome-quant) · 组织维护 · 中文 README
 
 **中文 Quant 资源索引：数据源/平台/回测/交易 API 等分类清单**
 

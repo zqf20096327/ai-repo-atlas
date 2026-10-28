@@ -1,6 +1,6 @@
 # GitHubDaily/GitHubDaily
 
-⭐ 48,292 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
+⭐ 48,304 · 推送 2025-12-31 · [GitHub](https://github.com/GitHubDaily/GitHubDaily) · [官网](https://githubdaily.com) · 组织维护 · 中文 README
 
 **面向开发者的 GitHub 开源项目分享与年度盘点清单**
 

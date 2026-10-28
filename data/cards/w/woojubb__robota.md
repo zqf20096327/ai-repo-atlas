@@ -1,6 +1,6 @@
 # woojubb/robota
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/woojubb/robota) · [官网](https://robota.io) · 组织维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/woojubb/robota) · [官网](https://robota.io) · 组织维护
 
 **面向开发者的 TypeScript AI agent 构建框架与 CLI 编码助手**
 

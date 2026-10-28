@@ -1,6 +1,6 @@
 # skupperr/Prove-My-Point
 
-⭐ 53 · JavaScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/skupperr/Prove-My-Point) · [官网](https://prove-my-point.vercel.app) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/skupperr/Prove-My-Point) · [官网](https://prove-my-point.vercel.app) · 个人维护
 
 **基于学术论文检索的 RAG 问答 Web 助手，回答附引用**
 

@@ -1,6 +1,6 @@
 # Srivatsa03/rag-redteam
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Srivatsa03/rag-redteam) · [官网](https://pypi.org/project/rag-redteam/) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Srivatsa03/rag-redteam) · [官网](https://pypi.org/project/rag-redteam/) · 个人维护
 
 **面向开发者的 RAG 管线红队安全测试工具，在 CI 中运行**
 

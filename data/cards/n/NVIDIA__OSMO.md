@@ -1,6 +1,6 @@
 # NVIDIA/OSMO
 
-⭐ 278 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/OSMO) · [官网](https://nvidia.github.io/OSMO) · 组织维护
+⭐ 278 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/OSMO) · [官网](https://nvidia.github.io/OSMO) · 组织维护
 
 **面向 Physical AI 的跨异构计算工作流编排平台**
 

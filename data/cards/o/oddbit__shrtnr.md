@@ -1,6 +1,6 @@
 # oddbit/shrtnr
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/oddbit/shrtnr) · [官网](https://oddbit.id/en/projects/shrtnr) · 组织维护
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/oddbit/shrtnr) · [官网](https://oddbit.id/en/projects/shrtnr) · 组织维护
 
 **自托管短链服务：REST API、类型化 SDK 与原生 MCP server**
 

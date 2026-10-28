@@ -1,6 +1,6 @@
 # liu-ziting/what-to-eat
 
-⭐ 3,575 · Vue · 推送 2026-01-12 · [GitHub](https://github.com/liu-ziting/what-to-eat) · [官网](http://eat.lz-t.top) · 个人维护 · 中文 README
+⭐ 3,577 · Vue · 推送 2026-01-12 · [GitHub](https://github.com/liu-ziting/what-to-eat) · [官网](http://eat.lz-t.top) · 个人维护 · 中文 README
 
 **给烹饪用户的 AI 菜谱生成 Web 平台，覆盖八大菜系与国际料理**
 

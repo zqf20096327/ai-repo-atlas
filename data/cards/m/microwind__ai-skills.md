@@ -1,6 +1,6 @@
 # microwind/ai-skills
 
-⭐ 90 · Python · 推送 2026-06-04 · [GitHub](https://github.com/microwind/ai-skills) · 个人维护 · 中文 README
+⭐ 91 · Python · 推送 2026-06-04 · [GitHub](https://github.com/microwind/ai-skills) · 个人维护 · 中文 README
 
 **面向程序员的中文编程技能知识库，96+ 个 AI 可用 SKILL**
 

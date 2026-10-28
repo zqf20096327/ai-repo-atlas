@@ -1,6 +1,6 @@
 # huggingface/agent-manager
 
-⭐ 66 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/agent-manager) · 组织维护
+⭐ 67 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/agent-manager) · 组织维护
 
 **在浏览器中集中管理多个 AI 编程 CLI 会话的私有工作区**
 

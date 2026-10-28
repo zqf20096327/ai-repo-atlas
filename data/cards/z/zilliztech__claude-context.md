@@ -1,6 +1,6 @@
 # zilliztech/claude-context
 
-⭐ 12,650 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/zilliztech/claude-context) · [官网](https://github.com/zilliztech/claude-context/tree/master/docs) · 组织维护
+⭐ 12,656 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/zilliztech/claude-context) · [官网](https://github.com/zilliztech/claude-context/tree/master/docs) · 组织维护
 
 **为 AI 编码 agent 提供全代码库语义检索的 MCP 插件**
 

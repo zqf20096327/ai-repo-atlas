@@ -1,6 +1,6 @@
 # arthurflor23/handwritten-text-recognition
 
-⭐ 307 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
+⭐ 308 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
 
 **基于 TensorFlow 的手写文本识别与合成工具集（pySarah）**
 

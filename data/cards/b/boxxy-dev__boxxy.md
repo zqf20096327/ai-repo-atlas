@@ -1,6 +1,6 @@
 # boxxy-dev/boxxy
 
-⭐ 131 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/boxxy-dev/boxxy) · [官网](https://boxxy.dev) · 组织维护
+⭐ 131 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/boxxy-dev/boxxy) · [官网](https://boxxy.dev) · 组织维护
 
 **内建 AI agent 层的 Linux 终端模拟器**
 

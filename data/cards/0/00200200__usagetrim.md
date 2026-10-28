@@ -1,6 +1,6 @@
 # 00200200/usagetrim
 
-⭐ 43 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/00200200/usagetrim) · [官网](https://00200200.github.io/usagetrim/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/00200200/usagetrim) · [官网](https://00200200.github.io/usagetrim/) · 个人维护
 
 **压缩测试与构建日志输出的本地 CLI 与 MCP 工具**
 

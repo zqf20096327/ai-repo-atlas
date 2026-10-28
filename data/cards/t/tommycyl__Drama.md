@@ -1,6 +1,6 @@
 # tommycyl/Drama
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tommycyl/Drama) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tommycyl/Drama) · 个人维护 · 中文 README
 
 **AI 拍摄指导相机 App：用视觉模型给出构图引导**
 

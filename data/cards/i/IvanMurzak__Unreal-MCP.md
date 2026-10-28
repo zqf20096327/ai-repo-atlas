@@ -1,6 +1,6 @@
 # IvanMurzak/Unreal-MCP
 
-⭐ 51 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IvanMurzak/Unreal-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 52 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IvanMurzak/Unreal-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **把 Unreal Editor 接入 MCP AI agent 的 C++ 插件**
 

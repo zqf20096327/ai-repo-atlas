@@ -1,6 +1,6 @@
 # google/embardiment
 
-⭐ 29 · C# · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/google/embardiment) · [官网](http://embardiment.github.io/) · 组织维护
+⭐ 30 · C# · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/google/embardiment) · [官网](http://embardiment.github.io/) · 组织维护
 
 **在 Unity/Android XR 中集成 ASR/LLM/OCR/TTS 的 AI agent 工具包**
 

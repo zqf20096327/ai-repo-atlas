@@ -1,6 +1,6 @@
 # tsaipifong/whirl-llm
 
-⭐ 34 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tsaipifong/whirl-llm) · 个人维护 · 中文 README
+⭐ 35 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tsaipifong/whirl-llm) · 个人维护 · 中文 README
 
 **Windows 原生 C++/HIP 的 AMD GPU LLM 推理引擎，解压即用**
 

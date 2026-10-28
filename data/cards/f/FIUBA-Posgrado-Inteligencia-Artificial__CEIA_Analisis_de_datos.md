@@ -1,6 +1,6 @@
 # FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos
 
-⭐ 20 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) · 组织维护
+⭐ 20 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/CEIA_Analisis_de_datos) · 组织维护
 
 **FIUBA 数据分析研究生课程的教学材料仓库（notebooks+数据集）**
 

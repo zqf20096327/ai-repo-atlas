@@ -1,6 +1,6 @@
 # yeasy/agentic_ai_guide
 
-⭐ 213 · Python · 推送 2026-10-14 · [GitHub](https://github.com/yeasy/agentic_ai_guide) · [官网](https://yeasy.gitbook.io/agentic_ai_guide/) · 个人维护 · 中文 README
+⭐ 215 · Python · 推送 2026-10-14 · [GitHub](https://github.com/yeasy/agentic_ai_guide) · [官网](https://yeasy.gitbook.io/agentic_ai_guide/) · 个人维护 · 中文 README
 
 **面向工程师与技术决策者的智能体（Agentic AI）中文技术书籍**
 

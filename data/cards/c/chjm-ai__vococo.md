@@ -1,6 +1,6 @@
 # chjm-ai/vococo
 
-⭐ 42 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/chjm-ai/vococo) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/chjm-ai/vococo) · 个人维护 · 中文 README
 
 **基于 Claude 订阅的单用户常驻个人 AI 助理**
 

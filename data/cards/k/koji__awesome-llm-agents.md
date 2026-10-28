@@ -1,6 +1,6 @@
 # koji/awesome-llm-agents
 
-⭐ 38 · Python · 推送 2026-10-20 · [GitHub](https://github.com/koji/awesome-llm-agents) · [官网](https://koji.github.io/awesome-llm-agents/) · 个人维护
+⭐ 38 · Python · 推送 2026-10-28 · [GitHub](https://github.com/koji/awesome-llm-agents) · [官网](https://koji.github.io/awesome-llm-agents/) · 个人维护
 
 **LLM agent 相关资源的策展清单，含框架、应用与提示工程**
 

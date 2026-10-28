@@ -1,6 +1,6 @@
 # opentiny/webmcp-sdk
 
-⭐ 123 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opentiny/webmcp-sdk) · [官网](https://docs.opentiny.design/next-sdk/guide) · 组织维护 · 中文 README
+⭐ 123 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/opentiny/webmcp-sdk) · [官网](https://docs.opentiny.design/next-sdk/guide) · 组织维护 · 中文 README
 
 **前端 WebMCP 工具包：让网页可被 AI Agent 感知与控制**
 

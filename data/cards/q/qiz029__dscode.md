@@ -1,6 +1,6 @@
 # qiz029/dscode
 
-⭐ 998 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/qiz029/dscode) · [官网](https://www.npmjs.com/package/@toddzheng024/dscode) · 个人维护 · 中文 README
+⭐ 998 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/qiz029/dscode) · [官网](https://www.npmjs.com/package/@toddzheng024/dscode) · 个人维护 · 中文 README
 
 **面向 macOS/Linux 的终端编码 agent，基于 DeepSeek Harness**
 

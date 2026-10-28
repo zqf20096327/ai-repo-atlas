@@ -1,6 +1,6 @@
 # YeonwooSung/llm-architecture-from-scratch
 
-⭐ 1,105 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/YeonwooSung/llm-architecture-from-scratch) · 个人维护
+⭐ 1,106 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/YeonwooSung/llm-architecture-from-scratch) · 个人维护
 
 **用 PyTorch 从零复现主流 LLM 架构的教学实现合集**
 

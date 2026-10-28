@@ -1,6 +1,6 @@
 # Mohamedsaleh14/Reddit_Scrapper
 
-⭐ 214 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/Mohamedsaleh14/Reddit_Scrapper) · [官网](https://www.cronlytic.com) · 个人维护
+⭐ 215 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/Mohamedsaleh14/Reddit_Scrapper) · [官网](https://www.cronlytic.com) · 个人维护
 
 **抓取 Reddit 帖子并用 GPT 分析营销痛点与商机的工具**
 

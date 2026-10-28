@@ -1,6 +1,6 @@
 # waw666waw666/awesome-ai-relay-and-cards
 
-⭐ 51 · Python · 推送 2026-10-26 · [GitHub](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · [官网](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · 个人维护 · 中文 README
+⭐ 54 · Python · 推送 2026-10-26 · [GitHub](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · [官网](https://github.com/waw666waw666/awesome-ai-relay-and-cards) · 个人维护 · 中文 README
 
 **AI 发卡比价与 API 中转站评测收录清单（40 家）**
 

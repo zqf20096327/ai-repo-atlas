@@ -1,6 +1,6 @@
 # melihbirim/csvql
 
-⭐ 30 · Zig · MIT · 推送 2026-10-27 · [GitHub](https://github.com/melihbirim/csvql) · [官网](https://melihbirim.github.io/csvql/) · 个人维护
+⭐ 30 · Zig · MIT · 推送 2026-10-28 · [GitHub](https://github.com/melihbirim/csvql) · [官网](https://melihbirim.github.io/csvql/) · 个人维护
 
 **面向 AI agent 的本地 CSV 只读 SQL 查询引擎与 MCP 服务器**
 

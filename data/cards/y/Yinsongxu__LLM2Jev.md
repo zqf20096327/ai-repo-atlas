@@ -1,6 +1,6 @@
 # Yinsongxu/LLM2Jev
 
-⭐ 463 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Yinsongxu/LLM2Jev) · 个人维护 · 中文 README
+⭐ 464 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/Yinsongxu/LLM2Jev) · 个人维护 · 中文 README
 
 **把本地 LLM/MLLM 免训练变为 Jev 式结构化决策模型的工具**
 

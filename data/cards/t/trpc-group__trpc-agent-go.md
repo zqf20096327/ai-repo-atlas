@@ -1,6 +1,6 @@
 # trpc-group/trpc-agent-go
 
-⭐ 1,878 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/trpc-group/trpc-agent-go) · [官网](https://trpc-group.github.io/trpc-agent-go/) · 组织维护 · 中文 README
+⭐ 1,880 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/trpc-group/trpc-agent-go) · [官网](https://trpc-group.github.io/trpc-agent-go/) · 组织维护 · 中文 README
 
 **面向生产环境的 Go 语言 AI Agent 开发框架**
 

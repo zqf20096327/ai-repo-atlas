@@ -1,6 +1,6 @@
 # transitive-bullshit/apple-music-effect
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/transitive-bullshit/apple-music-effect) · [官网](https://apple-music-effect.transitivebullsh.it) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/transitive-bullshit/apple-music-effect) · [官网](https://apple-music-effect.transitivebullsh.it) · 个人维护
 
 **浏览器中重建 Apple Music 液态 logo 动画的 WebGL 项目**
 

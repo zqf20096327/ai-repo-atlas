@@ -1,6 +1,6 @@
 # kengio/dp-800-study-guide
 
-⭐ 27 · JavaScript · MIT · 推送 2026-07-11 · [GitHub](https://github.com/kengio/dp-800-study-guide) · 个人维护
+⭐ 28 · JavaScript · MIT · 推送 2026-07-11 · [GitHub](https://github.com/kengio/dp-800-study-guide) · 个人维护
 
 **Microsoft DP-800 认证备考社区学习指南，含题库与模拟考**
 

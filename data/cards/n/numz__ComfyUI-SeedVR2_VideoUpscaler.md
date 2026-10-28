@@ -1,6 +1,6 @@
 # numz/ComfyUI-SeedVR2_VideoUpscaler
 
-⭐ 2,950 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) · 组织维护
+⭐ 2,954 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler) · 组织维护
 
 **ComfyUI 的 SeedVR2 视频与图像超分/放大节点**
 

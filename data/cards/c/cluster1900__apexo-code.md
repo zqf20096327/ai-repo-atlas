@@ -1,6 +1,6 @@
 # cluster1900/apexo-code
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护 · 中文 README
 
 **跨终端/网页/桌面的通用编程 Agent，多模型接入**
 

@@ -1,6 +1,6 @@
 # Maklith/Kitopia
 
-⭐ 26 · C# · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Maklith/Kitopia) · 个人维护 · 中文 README
+⭐ 26 · C# · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Maklith/Kitopia) · 个人维护 · 中文 README
 
 **带本地 AI 语义搜索与离线 OCR 的桌面效率工具箱**
 

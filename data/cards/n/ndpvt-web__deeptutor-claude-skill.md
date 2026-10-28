@@ -1,6 +1,6 @@
 # ndpvt-web/deeptutor-claude-skill
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/ndpvt-web/deeptutor-claude-skill) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/ndpvt-web/deeptutor-claude-skill) · 个人维护
 
 **Claude Code 技能：把文档变成图增强 RAG 辅导教学会话**
 

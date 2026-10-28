@@ -1,6 +1,6 @@
 # lawrencewzen/wx-bot
 
-⭐ 182 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lawrencewzen/wx-bot) · 个人维护 · 中文 README
+⭐ 189 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lawrencewzen/wx-bot) · 个人维护 · 中文 README
 
 **把微信消息接入个人 AI Agent 的本地收发桥（TypeScript/Bun）**
 

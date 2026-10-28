@@ -1,6 +1,6 @@
 # BiranSama/ReNovel-AI
 
-⭐ 255 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/BiranSama/ReNovel-AI) · 个人维护 · 中文 README
+⭐ 256 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/BiranSama/ReNovel-AI) · 个人维护 · 中文 README
 
 **本地化 AI 小说精修工作台，面向小说作者的重写/扩写/校验**
 

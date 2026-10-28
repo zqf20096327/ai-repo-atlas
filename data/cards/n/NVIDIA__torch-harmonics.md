@@ -1,6 +1,6 @@
 # NVIDIA/torch-harmonics
 
-⭐ 720 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/torch-harmonics) · 组织维护
+⭐ 720 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/torch-harmonics) · 组织维护
 
 **球面可微信号处理库：为 PyTorch 提供球谐变换等算子**
 

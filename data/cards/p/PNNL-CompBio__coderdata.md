@@ -1,6 +1,6 @@
 # PNNL-CompBio/coderdata
 
-⭐ 21 · Jupyter Notebook · BSD-2-Clause · 推送 2026-10-21 · [GitHub](https://github.com/PNNL-CompBio/coderdata) · [官网](https://pnnl-compbio.github.io/coderdata/) · 组织维护
+⭐ 21 · Jupyter Notebook · BSD-2-Clause · 推送 2026-10-28 · [GitHub](https://github.com/PNNL-CompBio/coderdata) · [官网](https://pnnl-compbio.github.io/coderdata/) · 组织维护
 
 **癌症模型药敏基准数据集包：供机器学习训练测试**
 

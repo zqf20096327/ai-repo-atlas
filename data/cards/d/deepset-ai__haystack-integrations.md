@@ -1,6 +1,6 @@
 # deepset-ai/haystack-integrations
 
-⭐ 115 · Python · 推送 2026-10-20 · [GitHub](https://github.com/deepset-ai/haystack-integrations) · [官网](https://haystack.deepset.ai/integrations) · 组织维护
+⭐ 115 · Python · 推送 2026-10-28 · [GitHub](https://github.com/deepset-ai/haystack-integrations) · [官网](https://haystack.deepset.ai/integrations) · 组织维护
 
 **Haystack 框架社区集成的官方索引仓库**
 

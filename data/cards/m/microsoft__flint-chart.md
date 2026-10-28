@@ -1,6 +1,6 @@
 # microsoft/flint-chart
 
-⭐ 4,491 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/flint-chart) · [官网](https://microsoft.github.io/flint-chart/) · 组织维护 · 中文 README
+⭐ 4,494 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/flint-chart) · [官网](https://microsoft.github.io/flint-chart/) · 组织维护 · 中文 README
 
 **面向 AI agent 的可视化中间语言，把简洁图表规格编译为多后端图表**
 

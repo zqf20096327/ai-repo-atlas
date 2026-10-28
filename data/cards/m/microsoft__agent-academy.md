@@ -1,6 +1,6 @@
 # microsoft/agent-academy
 
-⭐ 3,588 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/agent-academy) · [官网](https://aka.ms/agent-academy) · 组织维护
+⭐ 3,595 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/agent-academy) · [官网](https://aka.ms/agent-academy) · 组织维护
 
 **微软官方 Copilot Studio 智能体开发三讲课程**
 

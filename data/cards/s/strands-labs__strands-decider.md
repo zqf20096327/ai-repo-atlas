@@ -1,6 +1,6 @@
 # strands-labs/strands-decider
 
-⭐ 720 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
+⭐ 730 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
 
 **面向 agent 工作流的小型快速决策模型（system one 模型）**
 

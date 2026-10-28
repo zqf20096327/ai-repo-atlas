@@ -1,6 +1,6 @@
 # corticalstack/awesome-foundry-nextgen
 
-⭐ 29 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/corticalstack/awesome-foundry-nextgen) · 个人维护
+⭐ 29 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/corticalstack/awesome-foundry-nextgen) · 个人维护
 
 **Microsoft Foundry 平台动手实验集：Notebook+Bicep 覆盖全流程**
 

@@ -1,6 +1,6 @@
 # manufosela/karajan-code
 
-⭐ 41 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/manufosela/karajan-code) · [官网](https://karajancode.com) · 个人维护
+⭐ 41 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/manufosela/karajan-code) · [官网](https://karajancode.com) · 个人维护
 
 **为 AI 编程代理加装治理层的 CLI：TDD 方法、跨 AI 评审与 git 门禁**
 

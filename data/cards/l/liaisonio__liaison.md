@@ -1,6 +1,6 @@
 # liaisonio/liaison
 
-⭐ 165 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/liaisonio/liaison) · [官网](https://liaison.cloud) · 组织维护 · 中文 README
+⭐ 167 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/liaisonio/liaison) · [官网](https://liaison.cloud) · 组织维护 · 中文 README
 
 **自托管访问网关：安全接入私有应用、本地 LLM 与 AI agent**
 

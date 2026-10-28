@@ -1,6 +1,6 @@
 # EliranG/claude-duet
 
-⭐ 156 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/EliranG/claude-duet) · [官网](https://www.npmjs.com/package/claude-duet) · 个人维护
+⭐ 157 · TypeScript · MIT · 推送 2026-09-08 · [GitHub](https://github.com/EliranG/claude-duet) · [官网](https://www.npmjs.com/package/claude-duet) · 个人维护
 
 **双人实时共享 Claude Code 会话的 P2P 加密协作 CLI 工具**
 

@@ -1,6 +1,6 @@
 # AgileRL/AgileRL
 
-⭐ 960 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
+⭐ 961 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
 
 **面向开发者的 LLM 后训练与深度强化学习训练库**
 

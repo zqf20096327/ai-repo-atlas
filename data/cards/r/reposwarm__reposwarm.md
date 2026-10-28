@@ -1,6 +1,6 @@
 # reposwarm/reposwarm
 
-⭐ 275 · Python · Apache-2.0 · 推送 2026-03-26 · [GitHub](https://github.com/reposwarm/reposwarm) · 组织维护
+⭐ 276 · Python · Apache-2.0 · 推送 2026-03-26 · [GitHub](https://github.com/reposwarm/reposwarm) · 组织维护
 
 **多仓库架构发现平台：为 AI agent 生成架构文档上下文**
 

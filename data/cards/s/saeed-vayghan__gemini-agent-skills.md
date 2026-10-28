@@ -1,6 +1,6 @@
 # saeed-vayghan/gemini-agent-skills
 
-⭐ 48 · TypeScript · MIT · 推送 2026-01-18 · [GitHub](https://github.com/saeed-vayghan/gemini-agent-skills) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-01-18 · [GitHub](https://github.com/saeed-vayghan/gemini-agent-skills) · 个人维护
 
 **面向 Gemini 的 agent 技能合集与 Claude 技能转换 CLI**
 

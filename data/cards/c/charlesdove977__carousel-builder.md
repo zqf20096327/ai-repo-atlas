@@ -1,6 +1,6 @@
 # charlesdove977/carousel-builder
 
-⭐ 46 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/charlesdove977/carousel-builder) · 个人维护
+⭐ 47 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/charlesdove977/carousel-builder) · 个人维护
 
 **在 Claude Code 内端到端生成品牌化 Instagram 轮播图文的命令插件**
 

@@ -1,6 +1,6 @@
 # cqzyys/lang-agent
 
-⭐ 338 · TypeScript · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cqzyys/lang-agent) · 个人维护 · 中文 README
+⭐ 339 · TypeScript · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/cqzyys/lang-agent) · 个人维护 · 中文 README
 
 **面向开发者的可视化 AI Agent 配置平台，基于 LangGraph**
 

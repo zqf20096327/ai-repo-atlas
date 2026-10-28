@@ -1,6 +1,6 @@
 # geml-spec/geml
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/geml-spec/geml) · [官网](https://geml-spec.github.io/) · 组织维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/geml-spec/geml) · [官网](https://geml-spec.github.io/) · 组织维护 · 中文 README
 
 **面向人机共写的结构化纯文本标记语言与 CLI 工具**
 

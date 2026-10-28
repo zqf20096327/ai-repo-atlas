@@ -1,6 +1,6 @@
 # microsoft/postgres-mcp
 
-⭐ 65 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/postgres-mcp) · 组织维护
+⭐ 68 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/postgres-mcp) · 组织维护
 
 **让编码 agent 通过 MCP 连接 PostgreSQL 的服务器**
 

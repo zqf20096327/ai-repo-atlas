@@ -1,6 +1,6 @@
 # microsoft/ai-agent-runbooks
 
-⭐ 67 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/ai-agent-runbooks) · 组织维护
+⭐ 67 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/ai-agent-runbooks) · 组织维护
 
 **微软平台的 AI Agent 实施指南与模式清单**
 

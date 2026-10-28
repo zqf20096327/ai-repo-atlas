@@ -1,6 +1,6 @@
 # KerroKapple/InkFrame
 
-⭐ 30 · Dart · MIT · 推送 2026-10-23 · [GitHub](https://github.com/KerroKapple/InkFrame) · 个人维护 · 中文 README
+⭐ 30 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KerroKapple/InkFrame) · 个人维护 · 中文 README
 
 **本地优先的 AI 影视创作桌面工作站：节点画布串联图文视频生成**
 

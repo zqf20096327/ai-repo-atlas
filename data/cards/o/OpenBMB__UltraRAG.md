@@ -1,6 +1,6 @@
 # OpenBMB/UltraRAG
 
-⭐ 5,733 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/OpenBMB/UltraRAG) · [官网](https://ultrarag.github.io/) · 组织维护 · 中文 README
+⭐ 5,735 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/OpenBMB/UltraRAG) · [官网](https://ultrarag.github.io/) · 组织维护 · 中文 README
 
 **低代码 MCP 架构的 RAG 开发框架：YAML 编排复杂检索问答流水线**
 

@@ -1,6 +1,6 @@
 # langchain-ai/openevals
 
-⭐ 1,233 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/openevals) · 组织维护
+⭐ 1,234 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/openevals) · 组织维护
 
 **LLM 应用预置评测器库：提供 LLM-as-judge 等开箱评测**
 

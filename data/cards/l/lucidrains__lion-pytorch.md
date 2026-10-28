@@ -1,6 +1,6 @@
 # lucidrains/lion-pytorch
 
-⭐ 2,204 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/lucidrains/lion-pytorch) · 个人维护
+⭐ 2,205 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/lucidrains/lion-pytorch) · 个人维护
 
 **PyTorch 版 Lion 优化器：Google Brain 用遗传算法发现的 Adam 替代**
 

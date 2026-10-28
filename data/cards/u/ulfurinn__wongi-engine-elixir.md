@@ -1,6 +1,6 @@
 # ulfurinn/wongi-engine-elixir
 
-⭐ 30 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ulfurinn/wongi-engine-elixir) · 个人维护
+⭐ 30 · Elixir · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ulfurinn/wongi-engine-elixir) · 个人维护
 
 **Elixir 实现的前向链规则引擎，基于 Rete 算法**
 

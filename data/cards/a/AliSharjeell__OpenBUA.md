@@ -1,6 +1,6 @@
 # AliSharjeell/OpenBUA
 
-⭐ 53 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/AliSharjeell/OpenBUA) · [官网](www.openbua.com) · 个人维护
+⭐ 52 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/AliSharjeell/OpenBUA) · [官网](www.openbua.com) · 个人维护
 
 **本地运行的 Chrome 自主 AI 浏览器代理扩展**
 

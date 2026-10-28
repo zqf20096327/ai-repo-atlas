@@ -1,6 +1,6 @@
 # agentjido/req_llm
 
-⭐ 602 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentjido/req_llm) · [官网](https://jido.run/ecosystem/req_llm) · 组织维护
+⭐ 602 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentjido/req_llm) · [官网](https://jido.run/ecosystem/req_llm) · 组织维护
 
 **Elixir 统一 LLM 客户端库：跨 21 家提供商标准化调用**
 

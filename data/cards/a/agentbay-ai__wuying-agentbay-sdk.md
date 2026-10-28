@@ -1,6 +1,6 @@
 # agentbay-ai/wuying-agentbay-sdk
 
-⭐ 1,146 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/agentbay-ai/wuying-agentbay-sdk) · [官网](https://www.aliyun.com/product/agentbay) · 组织维护 · 中文 README
+⭐ 1,146 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentbay-ai/wuying-agentbay-sdk) · [官网](https://www.aliyun.com/product/agentbay) · 组织维护 · 中文 README
 
 **面向 AI agent 的按需云沙箱 SDK：秒级创建隔离环境**
 

@@ -1,6 +1,6 @@
 # camenduru/stable-diffusion-webui-colab
 
-⭐ 15,902 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
+⭐ 15,901 · Jupyter Notebook · Unlicense · 推送 2025-12-16 · [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) · 个人维护
 
 **在 Google Colab 上运行 Stable Diffusion WebUI 的笔记本合集**
 

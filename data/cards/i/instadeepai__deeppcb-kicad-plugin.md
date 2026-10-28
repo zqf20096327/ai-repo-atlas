@@ -1,6 +1,6 @@
 # instadeepai/deeppcb-kicad-plugin
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/instadeepai/deeppcb-kicad-plugin) · [官网](https://deeppcb.ai/) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/instadeepai/deeppcb-kicad-plugin) · [官网](https://deeppcb.ai/) · 组织维护
 
 **为 KiCad 用户提供 DeepPCB 云端 AI 自动布线插件**
 

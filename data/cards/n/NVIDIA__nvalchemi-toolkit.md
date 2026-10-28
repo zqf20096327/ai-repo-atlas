@@ -1,6 +1,6 @@
 # NVIDIA/nvalchemi-toolkit
 
-⭐ 199 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/nvalchemi-toolkit) · [官网](https://nvidia.github.io/nvalchemi-toolkit/) · 组织维护
+⭐ 199 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/nvalchemi-toolkit) · [官网](https://nvidia.github.io/nvalchemi-toolkit/) · 组织维护
 
 **化学与材料科学 AI 原子模拟的 GPU 加速 Python 框架**
 

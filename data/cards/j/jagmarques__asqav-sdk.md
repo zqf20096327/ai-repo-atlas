@@ -1,6 +1,6 @@
 # jagmarques/asqav-sdk
 
-⭐ 607 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jagmarques/asqav-sdk) · [官网](https://asqav.com) · 组织维护
+⭐ 619 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jagmarques/asqav-sdk) · [官网](https://asqav.com) · 组织维护
 
 **为 AI agent 行为签发可验证合规回执的 Python/TS SDK**
 

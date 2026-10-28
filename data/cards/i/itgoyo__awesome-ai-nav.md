@@ -1,6 +1,6 @@
 # itgoyo/awesome-ai-nav
 
-⭐ 38 · 推送 2026-07-08 · [GitHub](https://github.com/itgoyo/awesome-ai-nav) · [官网](https://ai.0xnav.com) · 个人维护 · 中文 README
+⭐ 39 · 推送 2026-07-08 · [GitHub](https://github.com/itgoyo/awesome-ai-nav) · [官网](https://ai.0xnav.com) · 个人维护 · 中文 README
 
 **AI 工具导航清单：分门别类收录数百个国内外 AI 工具站点**
 

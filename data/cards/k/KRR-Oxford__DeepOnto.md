@@ -1,6 +1,6 @@
 # KRR-Oxford/DeepOnto
 
-⭐ 326 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/KRR-Oxford/DeepOnto) · [官网](https://krr-oxford.github.io/DeepOnto/) · 组织维护
+⭐ 327 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/KRR-Oxford/DeepOnto) · [官网](https://krr-oxford.github.io/DeepOnto/) · 组织维护
 
 **面向本体工程的深度学习 Python 包：本体处理与匹配/推理工具**
 

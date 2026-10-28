@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-grok-bot
 
-⭐ 38 · 推送 2026-09-20 · [GitHub](https://github.com/Anil-matcha/awesome-grok-bot) · 个人维护
+⭐ 41 · 推送 2026-09-20 · [GitHub](https://github.com/Anil-matcha/awesome-grok-bot) · 个人维护
 
 **面向 Grok 的即用型机器人提示词模板清单**
 

@@ -1,6 +1,6 @@
 # blueziii/dsh-mc-agent
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/blueziii/dsh-mc-agent) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/blueziii/dsh-mc-agent) · 个人维护 · 中文 README
 
 **DSH 的 Minecraft 插件：给 AI 40 个工具实际进服玩游戏**
 

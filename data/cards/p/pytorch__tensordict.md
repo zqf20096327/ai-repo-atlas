@@ -1,6 +1,6 @@
 # pytorch/tensordict
 
-⭐ 1,043 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
+⭐ 1,043 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
 
 **PyTorch 张量字典容器：像操作单个张量一样操作一组张量**
 

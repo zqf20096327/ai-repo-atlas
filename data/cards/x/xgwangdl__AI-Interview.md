@@ -1,6 +1,6 @@
 # xgwangdl/AI-Interview
 
-⭐ 241 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xgwangdl/AI-Interview) · 个人维护 · 中文 README
+⭐ 242 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xgwangdl/AI-Interview) · 个人维护 · 中文 README
 
 **AI 模拟面试训练系统：数字人面试官逐题提问、追问与评分**
 

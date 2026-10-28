@@ -1,6 +1,6 @@
 # day50-dev/sidechat
 
-⭐ 103 · Shell · MIT · 推送 2026-10-06 · [GitHub](https://github.com/day50-dev/sidechat) · [官网](https://day50.dev) · 组织维护
+⭐ 103 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/day50-dev/sidechat) · [官网](https://day50.dev) · 组织维护
 
 **给终端用户的 tmux 内 LLM 对话面板：在问题发生处诊断**
 

@@ -1,6 +1,6 @@
 # Alibaba-NLP/DeepResearch
 
-⭐ 20,088 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
+⭐ 20,090 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
 
 **面向长程深度信息检索任务的 30B 级开源 agent 模型**
 

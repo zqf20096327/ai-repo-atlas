@@ -1,6 +1,6 @@
 # XRSPACE-Inc/perxona-connect-kit
 
-⭐ 67 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/XRSPACE-Inc/perxona-connect-kit) · [官网](https://connect.perxona.ai) · 组织维护
+⭐ 67 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/XRSPACE-Inc/perxona-connect-kit) · [官网](https://connect.perxona.ai) · 组织维护
 
 **在 Web 应用中接入会说话的 3D AI 虚拟人的 SDK 示例与工具集**
 

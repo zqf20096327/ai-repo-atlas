@@ -1,6 +1,6 @@
 # PeonPing/peon-ping
 
-⭐ 5,092 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PeonPing/peon-ping) · [官网](https://www.peonping.com) · 组织维护 · 中文 README
+⭐ 5,094 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/PeonPing/peon-ping) · [官网](https://www.peonping.com) · 组织维护 · 中文 README
 
 **AI 编程代理的语音/弹窗事件通知工具**
 

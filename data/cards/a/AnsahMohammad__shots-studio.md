@@ -1,6 +1,6 @@
 # AnsahMohammad/shots-studio
 
-⭐ 688 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
+⭐ 686 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
 
 **Android 截图管理应用：AI 搜索、自动打标签与整理**
 

@@ -1,6 +1,6 @@
 # 28naem-del/mnemosyne
 
-⭐ 151 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/28naem-del/mnemosyne) · [官网](https://mnemosy.ai) · 个人维护
+⭐ 153 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/28naem-del/mnemosyne) · [官网](https://mnemosy.ai) · 个人维护
 
 **AI agent 的本地长期记忆：单 SQLite 文件 + 证据溯源**
 

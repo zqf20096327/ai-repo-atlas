@@ -1,6 +1,6 @@
 # vstorm-co/summarization-pydantic-ai
 
-⭐ 73 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vstorm-co/summarization-pydantic-ai) · [官网](https://vstorm-co.github.io/summarization-pydantic-ai/) · 组织维护
+⭐ 73 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/summarization-pydantic-ai) · [官网](https://vstorm-co.github.io/summarization-pydantic-ai/) · 组织维护
 
 **Pydantic AI 代理的上下文管理库：自动摘要或滑窗防溢出**
 

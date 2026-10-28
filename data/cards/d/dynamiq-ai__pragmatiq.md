@@ -1,6 +1,6 @@
 # dynamiq-ai/pragmatiq
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/dynamiq-ai/pragmatiq) · [官网](https://pragmatiq.getdynamiq.ai) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/dynamiq-ai/pragmatiq) · [官网](https://pragmatiq.getdynamiq.ai) · 组织维护
 
 **银行业行为基础模型开源实现：把用户事件史转为嵌入并支持下游任务**
 

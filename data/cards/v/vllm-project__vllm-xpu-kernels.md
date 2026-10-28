@@ -1,6 +1,6 @@
 # vllm-project/vllm-xpu-kernels
 
-⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/vllm-xpu-kernels) · 组织维护
+⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-xpu-kernels) · 组织维护
 
 **为 Intel GPU 提供 vLLM 定制算子与内核的加速库**
 

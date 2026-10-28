@@ -1,6 +1,6 @@
 # khasky/awesome-agent-skills
 
-⭐ 20 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/khasky/awesome-agent-skills) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/khasky/awesome-agent-skills) · 个人维护
 
 **AI 编程 agent 技能清单：代码审查、调试、审计等 SKILL.md 集合**
 

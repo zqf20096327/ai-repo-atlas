@@ -1,6 +1,6 @@
 # PlutoLei/paperbanana-skill
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/PlutoLei/paperbanana-skill) · [官网](https://github.com/PlutoLei/paperbanana-skill#quick-start) · 个人维护 · 中文 README
+⭐ 58 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/PlutoLei/paperbanana-skill) · [官网](https://github.com/PlutoLei/paperbanana-skill#quick-start) · 个人维护 · 中文 README
 
 **给科研者的 agent 技能集：生成学术图表与可编辑 PPT**
 

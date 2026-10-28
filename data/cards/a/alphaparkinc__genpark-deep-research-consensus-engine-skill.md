@@ -1,6 +1,6 @@
 # alphaparkinc/genpark-deep-research-consensus-engine-skill
 
-⭐ 8 · Python · 推送 2026-09-12 · [GitHub](https://github.com/alphaparkinc/genpark-deep-research-consensus-engine-skill) · [官网](https://genpark.ai/mcp) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **零依赖 Python 深度研究多源共识仲裁 MCP 技能**
 

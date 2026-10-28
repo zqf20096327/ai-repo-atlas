@@ -1,6 +1,6 @@
 # Qengineering/Jetson-Nano-Ubuntu-20-image
 
-⭐ 989 · BSD-3-Clause · 推送 2026-07-25 · [GitHub](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) · [官网](https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html) · 个人维护
+⭐ 990 · BSD-3-Clause · 推送 2026-07-25 · [GitHub](https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image) · [官网](https://qengineering.eu/install-ubuntu-20.04-on-jetson-nano.html) · 个人维护
 
 **预装深度学习框架的 Jetson Nano Ubuntu 20.04 SD 卡系统镜像**
 

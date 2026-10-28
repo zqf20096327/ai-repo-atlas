@@ -1,6 +1,6 @@
 # definableai/definable.ai
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/definableai/definable.ai) · [官网](https://docs.definable.ai) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/definableai/definable.ai) · [官网](https://docs.definable.ai) · 组织维护
 
 **给开发者的 Python LLM Agent 应用构建框架**
 

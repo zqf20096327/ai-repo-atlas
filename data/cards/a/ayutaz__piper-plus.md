@@ -1,6 +1,6 @@
 # ayutaz/piper-plus
 
-⭐ 239 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ayutaz/piper-plus) · [官网](https://ayutaz.github.io/piper-plus/) · 个人维护 · 中文 README
+⭐ 239 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ayutaz/piper-plus) · [官网](https://ayutaz.github.io/piper-plus/) · 个人维护 · 中文 README
 
 **多语言神经 TTS 系统：为开发者在 8 种语言运行时中生成语音**
 

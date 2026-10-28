@@ -1,6 +1,6 @@
 # lintsinghua/DeepAudit
 
-⭐ 7,225 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/DeepAudit) · 个人维护 · 中文 README
+⭐ 7,229 · Python · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/DeepAudit) · 个人维护 · 中文 README
 
 **Multi-Agent 协作的 AI 代码安全审计平台，带沙箱 PoC 验证**
 

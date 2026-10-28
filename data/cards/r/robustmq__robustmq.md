@@ -1,6 +1,6 @@
 # robustmq/robustmq
 
-⭐ 1,847 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/robustmq/robustmq) · [官网](http://robustmq.com/) · 组织维护 · 中文 README
+⭐ 1,847 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/robustmq/robustmq) · [官网](http://robustmq.com/) · 组织维护 · 中文 README
 
 **Rust 单二进制统一消息引擎，多协议共享存储，含 AI Agent 通信协议 mq9**
 

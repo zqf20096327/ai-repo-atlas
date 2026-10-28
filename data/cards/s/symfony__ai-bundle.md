@@ -1,6 +1,6 @@
 # symfony/ai-bundle
 
-⭐ 33 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-bundle) · [官网](https://symfony.com/packages/ai-bundle) · 组织维护
+⭐ 33 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/symfony/ai-bundle) · [官网](https://symfony.com/packages/ai-bundle) · 组织维护
 
 **Symfony AI 组件的集成 Bundle，接入 Symfony 生态**
 

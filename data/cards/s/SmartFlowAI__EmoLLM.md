@@ -1,6 +1,6 @@
 # SmartFlowAI/EmoLLM
 
-⭐ 1,795 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/SmartFlowAI/EmoLLM) · [官网](https://openxlab.org.cn/apps/detail/chg0901/EmoLLMV3.0) · 组织维护 · 中文 README
+⭐ 1,796 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/SmartFlowAI/EmoLLM) · [官网](https://openxlab.org.cn/apps/detail/chg0901/EmoLLMV3.0) · 组织维护 · 中文 README
 
 **面向心理健康辅导的开源中文大模型及微调/数据/评测全链路仓库**
 

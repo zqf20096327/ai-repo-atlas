@@ -1,6 +1,6 @@
 # erhanmeydan/kilnframe
 
-⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
+⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
 
 **把口述内容变成动画插片与配乐的视频剪辑插件**
 

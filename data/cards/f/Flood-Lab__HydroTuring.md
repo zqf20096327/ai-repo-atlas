@@ -1,6 +1,6 @@
 # Flood-Lab/HydroTuring
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Flood-Lab/HydroTuring) · [官网](https://flood-lab.github.io/HydroTuring/) · 组织维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Flood-Lab/HydroTuring) · [官网](https://flood-lab.github.io/HydroTuring/) · 组织维护
 
 **AI 水文模型的物理守恒基准测试套件**
 

@@ -1,6 +1,6 @@
 # dimang01/xiyu-ai
 
-⭐ 39 · JavaScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/dimang01/xiyu-ai) · [官网](https://xiyuai.cc) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/dimang01/xiyu-ai) · [官网](https://xiyuai.cc) · 个人维护 · 中文 README
 
 **自托管的 AI 女友陪伴框架：微信聊天、记忆与主动消息**
 

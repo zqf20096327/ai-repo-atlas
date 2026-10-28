@@ -1,6 +1,6 @@
 # Azure/agent-landing-zone
 
-⭐ 1,194 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Azure/agent-landing-zone) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 1,201 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure/agent-landing-zone) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Azure 上部署企业 AI agent 应用的安全落地区模板**
 

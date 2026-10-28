@@ -1,6 +1,6 @@
 # juaml/julearn
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/juaml/julearn) · [官网](https://juaml.github.io/julearn) · 组织维护
+⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/juaml/julearn) · [官网](https://juaml.github.io/julearn) · 组织维护
 
 **科研用 Python 机器学习库：无泄漏的模型评估与检查**
 

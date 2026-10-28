@@ -1,6 +1,6 @@
 # IceWhaleTech/ToolFS
 
-⭐ 29 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IceWhaleTech/ToolFS) · 组织维护 · 中文 README
+⭐ 30 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IceWhaleTech/ToolFS) · 组织维护 · 中文 README
 
 **面向 LLM Agent 的 FUSE 虚拟文件系统框架，统一文件/记忆/RAG/技能接口**
 

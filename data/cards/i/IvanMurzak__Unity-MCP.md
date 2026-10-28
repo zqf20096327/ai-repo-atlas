@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-MCP
 
-⭐ 4,536 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IvanMurzak/Unity-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 4,545 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IvanMurzak/Unity-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **面向 Unity 的 MCP 工具与 AI 技能插件，让 AI agent 操作编辑器与运行时**
 

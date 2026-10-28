@@ -1,6 +1,6 @@
 # chthollyphile/folia-major
 
-⭐ 9,745 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/chthollyphile/folia-major) · [官网](https://folia-site.cielaniska.top/) · 个人维护 · 中文 README
+⭐ 10,007 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/chthollyphile/folia-major) · [官网](https://folia-site.cielaniska.top/) · 个人维护 · 中文 README
 
 **以全屏沉浸式歌词动画为核心的多源音乐播放器**
 

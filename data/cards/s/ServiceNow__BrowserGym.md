@@ -1,6 +1,6 @@
 # ServiceNow/BrowserGym
 
-⭐ 1,420 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ServiceNow/BrowserGym) · 组织维护
+⭐ 1,423 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ServiceNow/BrowserGym) · 组织维护
 
 **面向网页任务自动化的 Gym 环境：web agent 研究基准集合**
 

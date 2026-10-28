@@ -1,6 +1,6 @@
 # dengxianghua888-ops/preference-lab
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dengxianghua888-ops/preference-lab) · 个人维护 · 中文 README
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dengxianghua888-ops/preference-lab) · 个人维护 · 中文 README
 
 **把内容审核策略转成可溯源偏好数据集的工具，供 ML/数据团队使用**
 

@@ -1,6 +1,6 @@
 # acartine/foolery
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/acartine/foolery) · [官网](https://thecartine.substack.com/p/foolery-04?r=1rb8nt&triedRedirect=true) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/acartine/foolery) · [官网](https://thecartine.substack.com/p/foolery-04?r=1rb8nt&triedRedirect=true) · 个人维护
 
 **键盘优先的多 Agent 软件工作编排 Web UI**
 

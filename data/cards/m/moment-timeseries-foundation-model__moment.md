@@ -1,6 +1,6 @@
 # moment-timeseries-foundation-model/moment
 
-⭐ 865 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/moment-timeseries-foundation-model/moment) · [官网](https://moment-timeseries-foundation-model.github.io/) · 组织维护
+⭐ 866 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/moment-timeseries-foundation-model/moment) · [官网](https://moment-timeseries-foundation-model.github.io/) · 组织维护
 
 **开源时间序列基础模型：一个模型处理预测、分类、异常检测与补全**
 

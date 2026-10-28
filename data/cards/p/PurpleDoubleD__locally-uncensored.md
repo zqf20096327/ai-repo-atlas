@@ -1,6 +1,6 @@
 # PurpleDoubleD/locally-uncensored
 
-⭐ 2,672 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
+⭐ 2,914 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
 
 **桌面端一体化本地 AI 工作室：聊天、图像视频生成与编程 Agent**
 

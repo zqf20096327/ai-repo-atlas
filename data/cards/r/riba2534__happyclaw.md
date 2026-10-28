@@ -1,6 +1,6 @@
 # riba2534/happyclaw
 
-⭐ 842 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/riba2534/happyclaw) · [官网](https://happyclaw.cc/) · 个人维护 · 中文 README
+⭐ 843 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/riba2534/happyclaw) · [官网](https://happyclaw.cc/) · 个人维护 · 中文 README
 
 **自托管多用户的 Claude Code 智能体工作台，接入 8 种 IM 渠道**
 

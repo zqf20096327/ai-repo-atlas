@@ -1,6 +1,6 @@
 # Pinvou/pinvou-agent
 
-⭐ 2,679 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Pinvou/pinvou-agent) · [官网](https://pinvou.com/) · 组织维护 · 中文 README
+⭐ 2,698 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Pinvou/pinvou-agent) · [官网](https://pinvou.com/) · 组织维护 · 中文 README
 
 **开源桌面 AI agent 工作台：工作、设计与编码一体化交付**
 

@@ -1,6 +1,6 @@
 # huabeitech/agent-desk
 
-⭐ 287 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huabeitech/agent-desk) · [官网](https://agent-desk.huabei.pro) · 组织维护 · 中文 README
+⭐ 288 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huabeitech/agent-desk) · [官网](https://agent-desk.huabei.pro) · 组织维护 · 中文 README
 
 **开源 AI 客服系统：AI 首答、知识库问答、人工接管与工单**
 

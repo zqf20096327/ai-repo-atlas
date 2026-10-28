@@ -1,6 +1,6 @@
 # GanyuanRan/Autoloom
 
-⭐ 104 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/GanyuanRan/Autoloom) · [官网](autoloom.codes/) · 个人维护 · 中文 README
+⭐ 112 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/GanyuanRan/Autoloom) · [官网](autoloom.codes/) · 个人维护 · 中文 README
 
 **带工程治理方法的 AI 编程桌面客户端（Windows x64）**
 

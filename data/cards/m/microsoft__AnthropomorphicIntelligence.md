@@ -1,6 +1,6 @@
 # microsoft/AnthropomorphicIntelligence
 
-⭐ 153 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/microsoft/AnthropomorphicIntelligence) · 组织维护
+⭐ 154 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/microsoft/AnthropomorphicIntelligence) · 组织维护
 
 **微软拟人化智能研究项目集：评测与推进类人心智的 AI**
 

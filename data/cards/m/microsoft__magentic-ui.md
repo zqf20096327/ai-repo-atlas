@@ -1,6 +1,6 @@
 # microsoft/magentic-ui
 
-⭐ 10,105 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
+⭐ 10,106 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/magentic-ui) · [官网](https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/) · 组织维护
 
 **微软出品的浏览器与本地文件系统自动化 agent 应用**
 

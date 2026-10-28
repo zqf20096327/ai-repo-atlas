@@ -1,6 +1,6 @@
 # weaviate/weaviate-python-client
 
-⭐ 229 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/weaviate/weaviate-python-client) · [官网](https://weaviate.io/developers/weaviate/client-libraries/python) · 组织维护
+⭐ 229 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/weaviate-python-client) · [官网](https://weaviate.io/developers/weaviate/client-libraries/python) · 组织维护
 
 **Weaviate 向量数据库的官方 Python 客户端库**
 

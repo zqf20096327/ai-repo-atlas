@@ -1,6 +1,6 @@
 # IRISX-AI/IRIS-Mini
 
-⭐ 22 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/IRISX-AI/IRIS-Mini) · [官网](https://irisxai.in) · 个人维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/IRISX-AI/IRIS-Mini) · [官网](https://irisxai.in) · 个人维护
 
 **基于 Gemini Live API 的桌面语音 AI 助手，带 CLI**
 

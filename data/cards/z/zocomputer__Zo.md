@@ -1,6 +1,6 @@
 # zocomputer/Zo
 
-⭐ 63 · 推送 2026-10-21 · [GitHub](https://github.com/zocomputer/Zo) · [官网](https://www.zocomputer.com) · 组织维护
+⭐ 64 · 推送 2026-10-21 · [GitHub](https://github.com/zocomputer/Zo) · [官网](https://www.zocomputer.com) · 组织维护
 
 **带 AI 能力的个人云端电脑：存储文件、连接工具并构建项目**
 

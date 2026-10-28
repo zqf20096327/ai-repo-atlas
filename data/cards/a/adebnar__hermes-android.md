@@ -1,6 +1,6 @@
 # adebnar/hermes-android
 
-⭐ 43 · Kotlin · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/adebnar/hermes-android) · 个人维护
+⭐ 44 · Kotlin · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/adebnar/hermes-android) · 个人维护
 
 **Hermes agent 网关的 Android 原生客户端：聊天加全量管理**
 

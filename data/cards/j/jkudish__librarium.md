@@ -1,6 +1,6 @@
 # jkudish/librarium
 
-⭐ 135 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jkudish/librarium) · 个人维护
+⭐ 136 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jkudish/librarium) · [官网](https://librarium.si) · 个人维护
 
 **多供应商深度研究 CLI：并行调用搜索/AI API 并保留证据出处**
 

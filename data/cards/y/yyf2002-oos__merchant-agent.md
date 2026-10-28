@@ -1,6 +1,6 @@
 # yyf2002-oos/merchant-agent
 
-⭐ 83 · Python · 推送 2026-07-18 · [GitHub](https://github.com/yyf2002-oos/merchant-agent) · 个人维护 · 中文 README
+⭐ 84 · Python · 推送 2026-07-18 · [GitHub](https://github.com/yyf2002-oos/merchant-agent) · 个人维护 · 中文 README
 
 **电商商家用的 AI 全流程运营助手：选品/上架/客服/分析/货源**
 

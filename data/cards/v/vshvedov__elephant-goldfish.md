@@ -1,6 +1,6 @@
 # vshvedov/elephant-goldfish
 
-⭐ 75 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/vshvedov/elephant-goldfish) · [官网](https://drensin.medium.com/elephants-goldfish-and-the-new-golden-age-of-software-engineering-c33641a48874) · 个人维护
+⭐ 86 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/vshvedov/elephant-goldfish) · [官网](https://drensin.medium.com/elephants-goldfish-and-the-new-golden-age-of-software-engineering-c33641a48874) · 个人维护
 
 **面向 AI 编程 agent 的可复用工作流：大象/金鱼协作模式**
 

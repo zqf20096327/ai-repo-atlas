@@ -1,6 +1,6 @@
 # NVIDIA/workbench-example-agentic-rag
 
-⭐ 174 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/NVIDIA/workbench-example-agentic-rag) · 组织维护
+⭐ 175 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/NVIDIA/workbench-example-agentic-rag) · 组织维护
 
 **带准确性与幻觉控制的 Agentic RAG 示例 Web 应用**
 

@@ -1,6 +1,6 @@
 # insight-platform/Savant
 
-⭐ 865 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/insight-platform/Savant) · [官网](https://savant-ai.io) · 组织维护
+⭐ 866 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/insight-platform/Savant) · [官网](https://savant-ai.io) · 组织维护
 
 **面向开发者的实时视频分析与计算机视觉流水线框架**
 

@@ -1,6 +1,6 @@
 # clawdotnet/SharpClawCode
 
-⭐ 105 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/clawdotnet/SharpClawCode) · 组织维护
+⭐ 105 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/clawdotnet/SharpClawCode) · 组织维护
 
 **.NET 10 的 C# coding-agent 运行时与嵌入式 SDK**
 

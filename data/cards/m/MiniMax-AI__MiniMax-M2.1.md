@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.1
 
-⭐ 544 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护 · 中文 README
+⭐ 545 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护 · 中文 README
 
 **面向开发与 agent 场景的开源大语言模型权重（M2.1）**
 

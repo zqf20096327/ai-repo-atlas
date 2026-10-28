@@ -1,6 +1,6 @@
 # hashgraph-online/standards-sdk
 
-⭐ 1,272 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hashgraph-online/standards-sdk) · [官网](https://hol.org) · 组织维护
+⭐ 1,273 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hashgraph-online/standards-sdk) · [官网](https://hol.org) · 组织维护
 
 **Hedera HCS 标准的官方 TypeScript SDK：实现文件、注册与代理通信标准**
 

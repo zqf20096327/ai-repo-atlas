@@ -1,6 +1,6 @@
 # pug-sh/pug
 
-⭐ 97 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pug-sh/pug) · [官网](https://pug.sh) · 组织维护
+⭐ 98 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pug-sh/pug) · [官网](https://pug.sh) · 组织维护
 
 **开源产品分析平台：事件采集与漏斗、留存、趋势分析**
 

@@ -1,6 +1,6 @@
 # datawhalechina/daily-interview
 
-⭐ 3,881 · GPL-3.0 · 推送 2026-07-08 · [GitHub](https://github.com/datawhalechina/daily-interview) · [官网](https://datawhalechina.github.io/daily-interview/) · 组织维护 · 中文 README
+⭐ 3,882 · GPL-3.0 · 推送 2026-07-08 · [GitHub](https://github.com/datawhalechina/daily-interview) · [官网](https://datawhalechina.github.io/daily-interview/) · 组织维护 · 中文 README
 
 **Datawhale 维护的技术面试高频知识点面经合集**
 

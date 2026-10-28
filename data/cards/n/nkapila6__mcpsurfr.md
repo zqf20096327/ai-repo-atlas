@@ -1,6 +1,6 @@
 # nkapila6/mcpsurfr
 
-⭐ 146 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nkapila6/mcpsurfr) · 个人维护
+⭐ 148 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nkapila6/mcpsurfr) · 个人维护
 
 **本地网页搜索 MCP 服务器：LLM 无 API key 联网检索**
 

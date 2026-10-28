@@ -1,6 +1,6 @@
 # AlephAITech/WorkBuddyGuide
 
-⭐ 3,632 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/WorkBuddyGuide) · [官网](https://workbuddy.homes/) · 组织维护 · 中文 README
+⭐ 3,638 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/WorkBuddyGuide) · [官网](https://workbuddy.homes/) · 组织维护 · 中文 README
 
 **社区维护的 WorkBuddy 实战教程与案例知识库**
 

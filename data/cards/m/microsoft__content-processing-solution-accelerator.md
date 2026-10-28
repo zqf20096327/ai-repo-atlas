@@ -1,6 +1,6 @@
 # microsoft/content-processing-solution-accelerator
 
-⭐ 252 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/content-processing-solution-accelerator) · [官网](https://github.com/microsoft/solution-accelerators/) · 组织维护
+⭐ 252 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/content-processing-solution-accelerator) · [官网](https://github.com/microsoft/solution-accelerators/) · 组织维护
 
 **面向企业的多文档非结构化内容抽取与理赔处理方案加速器**
 

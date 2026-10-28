@@ -1,6 +1,6 @@
 # CaviraOSS/PageLM
 
-⭐ 2,049 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CaviraOSS/PageLM) · 组织维护
+⭐ 2,050 · TypeScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/CaviraOSS/PageLM) · 组织维护
 
 **开源 AI 学习平台：把学习资料转成测验、闪卡、笔记与播客**
 

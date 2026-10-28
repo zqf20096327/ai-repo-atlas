@@ -1,6 +1,6 @@
 # 0pen-Sourcer/Hearth
 
-⭐ 32 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/0pen-Sourcer/Hearth) · [官网](https://get-hearth.vercel.app/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/0pen-Sourcer/Hearth) · [官网](https://get-hearth.vercel.app/) · 个人维护
 
 **本地优先的 AI 助手框架，可实际操作你的 Windows 电脑**
 

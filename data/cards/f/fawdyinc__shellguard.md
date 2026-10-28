@@ -1,6 +1,6 @@
 # fawdyinc/shellguard
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/fawdyinc/shellguard) · 组织维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/fawdyinc/shellguard) · 组织维护
 
 **给 LLM agent 提供 SSH 只读 shell 访问的 MCP server**
 

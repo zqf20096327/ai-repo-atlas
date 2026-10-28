@@ -1,6 +1,6 @@
 # Asutorufa/hujiang_dictionary
 
-⭐ 73 · Rust · 推送 2026-10-26 · [GitHub](https://github.com/Asutorufa/hujiang_dictionary) · 个人维护 · 中文 README
+⭐ 73 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/Asutorufa/hujiang_dictionary) · 个人维护 · 中文 README
 
 **自托管 AI 词典/翻译/生词卡应用，支持 Telegram bot 与浏览器扩展**
 

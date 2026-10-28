@@ -1,6 +1,6 @@
 # Suraj-G-Rao/Complete-MLOPS
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 47 · Jupyter Notebook · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Suraj-G-Rao/Complete-MLOPS) · 个人维护
 
 **MLOps 学习仓库：10+ 个覆盖 ML 全生命周期的教学项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

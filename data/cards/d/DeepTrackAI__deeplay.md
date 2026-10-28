@@ -1,6 +1,6 @@
 # DeepTrackAI/deeplay
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-03-16 · [GitHub](https://github.com/DeepTrackAI/deeplay) · [官网](https://deeptrackai.github.io/deeplay/) · 组织维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DeepTrackAI/deeplay) · [官网](https://deeptrackai.github.io/deeplay/) · 组织维护
 
 **扩展 PyTorch 的模块化深度学习库，支持创建后修改网络组件**
 

@@ -1,6 +1,6 @@
 # liyupi/dafeiyu-cleaner
 
-⭐ 113 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/liyupi/dafeiyu-cleaner) · [官网](https://www.bilibili.com/video/BV1Ywn46EEyF) · 个人维护 · 中文 README
+⭐ 119 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/liyupi/dafeiyu-cleaner) · [官网](https://www.bilibili.com/video/BV1Ywn46EEyF) · 个人维护 · 中文 README
 
 **识别并本地隐藏 B 站评论区 AI 机器人账号的浏览器插件**
 

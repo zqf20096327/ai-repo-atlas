@@ -1,6 +1,6 @@
 # garfiec/Librechat-Mobile
 
-⭐ 126 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
+⭐ 125 · Kotlin · MIT · 推送 2026-10-28 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
 
 **LibreChat 的第三方原生移动客户端（Android/iOS）**
 

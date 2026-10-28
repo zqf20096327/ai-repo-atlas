@@ -1,6 +1,6 @@
 # study8677/architecture-copilot
 
-⭐ 86 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/study8677/architecture-copilot) · 个人维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/study8677/architecture-copilot) · 个人维护 · 中文 README
 
 **给 Claude Code/Cursor/Codex 的架构引导 skill：写码前用提问理清架构**
 

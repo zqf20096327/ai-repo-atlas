@@ -1,6 +1,6 @@
 # qdrant/qdrant-client
 
-⭐ 1,372 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/qdrant-client) · [官网](https://qdrant.tech) · 组织维护
+⭐ 1,373 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/qdrant/qdrant-client) · [官网](https://qdrant.tech) · 组织维护
 
 **Qdrant 向量搜索引擎的 Python 客户端库与 SDK**
 

@@ -1,6 +1,6 @@
 # mcp-use/mcp-use
 
-⭐ 10,817 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mcp-use/mcp-use) · [官网](https://manufact.com) · 组织维护
+⭐ 10,824 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mcp-use/mcp-use) · [官网](https://manufact.com) · 组织维护
 
 **TypeScript 全栈 MCP 框架：构建 MCP 服务器与 MCP Apps**
 

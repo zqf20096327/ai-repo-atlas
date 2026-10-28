@@ -1,6 +1,6 @@
 # openapi/gknowledge
 
-⭐ 24 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openapi/gknowledge) · [官网](https://openapi.github.io/gknowledge) · 组织维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openapi/gknowledge) · [官网](https://openapi.github.io/gknowledge) · 组织维护 · 中文 README
 
 **GNOME 原生桌面应用：把文档变成 LLM 持续维护的链接知识库**
 

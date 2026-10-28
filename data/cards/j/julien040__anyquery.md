@@ -1,6 +1,6 @@
 # julien040/anyquery
 
-⭐ 1,786 · Go · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/julien040/anyquery) · [官网](https://anyquery.dev) · 个人维护
+⭐ 1,787 · Go · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/julien040/anyquery) · [官网](https://anyquery.dev) · 个人维护
 
 **用 SQL 查询 60+ 工具与文件数据的引擎，可接入 LLM**
 

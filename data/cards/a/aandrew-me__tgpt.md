@@ -1,6 +1,6 @@
 # aandrew-me/tgpt
 
-⭐ 3,287 · Go · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/aandrew-me/tgpt) · 个人维护
+⭐ 3,285 · Go · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/aandrew-me/tgpt) · 个人维护
 
 **跨平台终端 AI 聊天 CLI，无需 API key 即可用**
 

@@ -1,6 +1,6 @@
 # DevYangJC/Argus
 
-⭐ 287 · Java · 推送 2026-08-16 · [GitHub](https://github.com/DevYangJC/Argus) · 组织维护 · 中文 README
+⭐ 289 · Java · 推送 2026-08-16 · [GitHub](https://github.com/DevYangJC/Argus) · 组织维护 · 中文 README
 
 **面向企业的 RAG + AI Agent 开源知识库问答平台**
 

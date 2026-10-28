@@ -1,6 +1,6 @@
 # scverse/scanpy
 
-⭐ 2,596 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
+⭐ 2,598 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
 
 **Python 单细胞基因表达数据分析工具包，可扩展至超百万细胞**
 

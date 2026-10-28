@@ -1,6 +1,6 @@
 # miyago9267/pilotfish-codex
 
-⭐ 57 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/miyago9267/pilotfish-codex) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/miyago9267/pilotfish-codex) · 个人维护 · 中文 README
 
 **Codex CLI 的多模型编排层：按意图路由请求并分配受界角色**
 

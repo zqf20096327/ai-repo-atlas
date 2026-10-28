@@ -1,6 +1,6 @@
 # PatterAI/Patter
 
-⭐ 1,078 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/PatterAI/Patter) · [官网](https://getpatter.com) · 组织维护
+⭐ 1,079 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/PatterAI/Patter) · [官网](https://getpatter.com) · 组织维护
 
 **给 AI agent 配电话号码的开源语音 SDK（Python/TypeScript）**
 

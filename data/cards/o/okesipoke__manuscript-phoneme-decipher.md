@@ -1,6 +1,6 @@
 # okesipoke/manuscript-phoneme-decipher
 
-⭐ 117 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/okesipoke/manuscript-phoneme-decipher) · 个人维护
+⭐ 117 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/okesipoke/manuscript-phoneme-decipher) · 个人维护
 
 **面向未解读文字的语音转写重建引擎：输出 IPA 假设与置信度**
 

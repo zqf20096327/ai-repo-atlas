@@ -1,6 +1,6 @@
 # aionixOS/Openclip
 
-⭐ 33 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/aionixOS/Openclip) · 个人维护
+⭐ 35 · HTML · MIT · 推送 2026-10-01 · [GitHub](https://github.com/aionixOS/Openclip) · 个人维护
 
 **本地自托管工具：粘贴 YouTube 链接自动生成短视频切片**
 

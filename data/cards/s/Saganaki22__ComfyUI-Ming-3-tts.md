@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Ming-3-tts
 
-⭐ 21 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) · [官网](https://huggingface.co/drbaph/Ming-3.0-tts-ComfyUI) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) · [官网](https://huggingface.co/drbaph/Ming-3.0-tts-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 的 Ming-3.0-tts 语音生成节点，支持 0.5B 与 Tiny 9B**
 

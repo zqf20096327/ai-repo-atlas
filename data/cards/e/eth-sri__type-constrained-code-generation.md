@@ -1,6 +1,6 @@
 # eth-sri/type-constrained-code-generation
 
-⭐ 105 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/eth-sri/type-constrained-code-generation) · [官网](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models) · 组织维护
+⭐ 106 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/eth-sri/type-constrained-code-generation) · [官网](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models) · 组织维护
 
 **类型约束 LLM 代码生成：约束采样只产出类型安全的 TypeScript 程序**
 

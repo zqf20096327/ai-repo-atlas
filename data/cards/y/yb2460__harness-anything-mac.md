@@ -1,6 +1,6 @@
 # yb2460/harness-anything-mac
 
-⭐ 89 · Python · 推送 2026-06-12 · [GitHub](https://github.com/yb2460/harness-anything-mac) · 个人维护 · 中文 README
+⭐ 90 · Python · 推送 2026-06-12 · [GitHub](https://github.com/yb2460/harness-anything-mac) · 个人维护 · 中文 README
 
 **供 AI Agent 调用的办公/设计软件 COM 操控 CLI 工具集**
 

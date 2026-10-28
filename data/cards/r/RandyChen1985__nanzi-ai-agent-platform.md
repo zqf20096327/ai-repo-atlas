@@ -1,6 +1,6 @@
 # RandyChen1985/nanzi-ai-agent-platform
 
-⭐ 217 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RandyChen1985/nanzi-ai-agent-platform) · 个人维护 · 中文 README
+⭐ 218 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RandyChen1985/nanzi-ai-agent-platform) · 个人维护 · 中文 README
 
 **面向企业的多智能体编排与 ChatBI 平台，数据直连+RAG**
 

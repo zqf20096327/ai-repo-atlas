@@ -1,6 +1,6 @@
 # infaton/MCP35
 
-⭐ 45 · 1C Enterprise · MIT · 推送 2026-10-16 · [GitHub](https://github.com/infaton/MCP35) · [官网](https://infaton.ru) · 组织维护 · 中文 README
+⭐ 46 · 1C Enterprise · MIT · 推送 2026-10-16 · [GitHub](https://github.com/infaton/MCP35) · [官网](https://infaton.ru) · 组织维护 · 中文 README
 
 **面向 1C:Enterprise ERP 的 MCP 服务器：94 个工具供 AI 访问数据库**
 

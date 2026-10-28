@@ -1,6 +1,6 @@
 # Destrayon/Connapse
 
-⭐ 20 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Destrayon/Connapse) · 个人维护
+⭐ 20 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Destrayon/Connapse) · 个人维护
 
 **给 AI agent 用的自托管知识后端：持久记忆+混合检索**
 

@@ -1,6 +1,6 @@
 # agentvivekkumar/dontbemichael
 
-⭐ 598 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/agentvivekkumar/dontbemichael) · [官网](https://dontbemichael.com) · 个人维护
+⭐ 596 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/agentvivekkumar/dontbemichael) · [官网](https://dontbemichael.com) · 个人维护
 
 **面向小企业的本地多 AI 员工办公室桌面应用**
 

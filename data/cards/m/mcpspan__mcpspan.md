@@ -1,6 +1,6 @@
 # mcpspan/mcpspan
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mcpspan/mcpspan) · [官网](https://mcpspan.com) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mcpspan/mcpspan) · [官网](https://mcpspan.com) · 组织维护
 
 **面向 MCP 服务器的自托管开源调用分析平台**
 

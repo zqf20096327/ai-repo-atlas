@@ -1,6 +1,6 @@
 # attevon-llc/OpenTranscribe
 
-⭐ 102 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/attevon-llc/OpenTranscribe) · [官网](http://docs.opentranscribe.app) · 组织维护
+⭐ 102 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/attevon-llc/OpenTranscribe) · [官网](http://docs.opentranscribe.app) · 组织维护
 
 **自托管 AI 转录平台：语音转文字、说话人分离与全文检索**
 

@@ -1,6 +1,6 @@
 # marimo-team/marimo-pair
 
-⭐ 430 · Shell · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/marimo-team/marimo-pair) · 组织维护
+⭐ 432 · Shell · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/marimo-team/marimo-pair) · 组织维护
 
 **让 agent 接入运行中 marimo 笔记本会话的技能/插件**
 

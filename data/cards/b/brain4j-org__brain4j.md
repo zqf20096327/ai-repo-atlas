@@ -1,6 +1,6 @@
 # brain4j-org/brain4j
 
-⭐ 124 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/brain4j-org/brain4j) · [官网](https://brain4j.org) · 组织维护
+⭐ 124 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/brain4j-org/brain4j) · [官网](https://brain4j.org) · 组织维护
 
 **面向 Java 的轻量级开源深度学习框架**
 

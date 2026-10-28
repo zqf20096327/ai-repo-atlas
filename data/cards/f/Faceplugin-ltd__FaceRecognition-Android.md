@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-Android
 
-⭐ 469 · Kotlin · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 470 · Kotlin · 推送 2026-10-02 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **Android 端人脸识别 SDK 演示应用：离线完成注册/1:N 识别与活体检测**
 

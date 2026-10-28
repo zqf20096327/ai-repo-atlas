@@ -1,6 +1,6 @@
 # GramosoftAI/GSearchAI
 
-⭐ 27 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
+⭐ 27 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
 
 **自托管企业 AI 搜索与 Graph RAG 平台，面向多租户场景**
 

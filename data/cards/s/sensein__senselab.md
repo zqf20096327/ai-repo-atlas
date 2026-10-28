@@ -1,6 +1,6 @@
 # sensein/senselab
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 44 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sensein/senselab) · [官网](http://sensein.group/senselab/) · 组织维护
 
 **语音/视频等行为数据生物特征分析流水线 Python 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

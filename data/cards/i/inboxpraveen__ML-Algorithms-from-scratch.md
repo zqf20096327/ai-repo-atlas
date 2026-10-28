@@ -1,6 +1,6 @@
 # inboxpraveen/ML-Algorithms-from-scratch
 
-⭐ 25 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/inboxpraveen/ML-Algorithms-from-scratch) · [官网](https://inboxpraveen.github.io/projects/project-5.html) · 个人维护
+⭐ 26 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/inboxpraveen/ML-Algorithms-from-scratch) · [官网](https://inboxpraveen.github.io/projects/project-5.html) · 个人维护
 
 **28 种机器学习算法的 NumPy 教学实现，含数学讲解与可运行示例**
 

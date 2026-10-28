@@ -1,6 +1,6 @@
 # microsoft/LangChain4j-for-Beginners
 
-⭐ 547 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/LangChain4j-for-Beginners) · 组织维护
+⭐ 548 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/LangChain4j-for-Beginners) · 组织维护
 
 **微软出品的 LangChain4j 入门课程：从基础聊天到 AI agent**
 

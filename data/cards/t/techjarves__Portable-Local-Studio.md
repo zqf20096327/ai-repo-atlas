@@ -1,6 +1,6 @@
 # techjarves/Portable-Local-Studio
 
-⭐ 1,571 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/techjarves/Portable-Local-Studio) · 个人维护
+⭐ 1,576 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/techjarves/Portable-Local-Studio) · 个人维护
 
 **零配置本地离线 AI 工作台：图像生成/LLM 对话/语音转文字/TTS**
 

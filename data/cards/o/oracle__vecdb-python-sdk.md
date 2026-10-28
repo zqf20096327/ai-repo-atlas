@@ -1,6 +1,6 @@
 # oracle/vecdb-python-sdk
 
-⭐ 71 · Python · UPL-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/oracle/vecdb-python-sdk) · [官网](https://docs.oracle.com/en/cloud/paas/autonomous-vector-database/vcapi/quickstart.html) · 组织维护
+⭐ 72 · Python · UPL-1.0 · 推送 2026-10-16 · [GitHub](https://github.com/oracle/vecdb-python-sdk) · [官网](https://docs.oracle.com/en/cloud/paas/autonomous-vector-database/vcapi/quickstart.html) · 组织维护
 
 **在 Oracle AI Database 上构建向量搜索与 RAG 的 Python SDK**
 

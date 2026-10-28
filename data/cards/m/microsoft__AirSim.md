@@ -1,6 +1,6 @@
 # microsoft/AirSim
 
-⭐ 18,578 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
+⭐ 18,580 · C++ · NOASSERTION · 推送 2026-09-15 · [GitHub](https://github.com/microsoft/AirSim) · [官网](https://microsoft.github.io/AirSim/) · 组织维护
 
 **无人机/自动驾驶仿真平台：供 AI 研究者做模拟实验**
 

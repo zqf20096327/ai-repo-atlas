@@ -1,6 +1,6 @@
 # cubrid-lab/cubrid-mcp-server
 
-⭐ 32 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cubrid-lab/cubrid-mcp-server) · [官网](https://cubrid-lab.github.io/cubrid-mcp-server/) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cubrid-lab/cubrid-mcp-server) · [官网](https://cubrid-lab.github.io/cubrid-mcp-server/) · 组织维护
 
 **CUBRID 数据库的 MCP 服务器：让 LLM 安全查 schema 与执行只读查询**
 

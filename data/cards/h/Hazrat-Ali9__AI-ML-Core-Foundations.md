@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-ML-Core-Foundations
 
-⭐ 54 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations) · [官网](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundation) · 个人维护
+⭐ 55 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations) · [官网](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundation) · 个人维护
 
 **AI/ML 基础学习仓库：数学、算法与实践代码合集**
 

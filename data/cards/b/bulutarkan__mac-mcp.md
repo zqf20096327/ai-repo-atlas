@@ -1,6 +1,6 @@
 # bulutarkan/mac-mcp
 
-⭐ 95 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bulutarkan/mac-mcp) · [官网](https://bulutarkan.github.io/mac-mcp/) · 个人维护
+⭐ 95 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bulutarkan/mac-mcp) · [官网](https://bulutarkan.github.io/mac-mcp/) · 个人维护
 
 **让 Claude/ChatGPT 等 AI 应用操控你 Mac 的本地 MCP 服务器**
 

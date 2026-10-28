@@ -1,6 +1,6 @@
 # microsoft/llmwiki
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/llmwiki) · 组织维护
+⭐ 97 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/llmwiki) · 组织维护
 
 **VS Code 扩展：由 LLM 自动维护的个人知识库/wiki**
 

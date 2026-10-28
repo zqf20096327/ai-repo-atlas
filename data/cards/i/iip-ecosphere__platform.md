@@ -1,6 +1,6 @@
 # iip-ecosphere/platform
 
-⭐ 26 · Java · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/iip-ecosphere/platform) · [官网](https://www.oktoflow.de/) · 组织维护
+⭐ 26 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/iip-ecosphere/platform) · [官网](https://www.oktoflow.de/) · 组织维护
 
 **面向工业4.0的模型驱动IIoT平台：统一部署与运行含AI的服务**
 

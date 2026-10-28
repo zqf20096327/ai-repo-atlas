@@ -1,6 +1,6 @@
 # zeroa234/game-asset-aesthetic-test
 
-⭐ 35 · Python · 推送 2026-10-18 · [GitHub](https://github.com/zeroa234/game-asset-aesthetic-test) · 个人维护 · 中文 README
+⭐ 38 · Python · 推送 2026-10-18 · [GitHub](https://github.com/zeroa234/game-asset-aesthetic-test) · 个人维护 · 中文 README
 
 **面向游戏美术 Agent 的 8 个技能包：像素精灵、Spine 动画、方块角色与 TTS 配音**
 

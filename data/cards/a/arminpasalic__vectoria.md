@@ -1,6 +1,6 @@
 # arminpasalic/vectoria
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arminpasalic/vectoria) · [官网](https://vectoria.app) · 个人维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arminpasalic/vectoria) · [官网](https://vectoria.app) · 个人维护
 
 **浏览器内本地文本探索、聚类与 RAG 问答工具**
 

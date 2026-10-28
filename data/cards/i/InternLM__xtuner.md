@@ -1,6 +1,6 @@
 # InternLM/xtuner
 
-⭐ 5,220 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/InternLM/xtuner) · [官网](https://xtuner.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 5,219 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/InternLM/xtuner) · [官网](https://xtuner.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **面向超大规模 MoE 模型的 LLM 训练引擎**
 

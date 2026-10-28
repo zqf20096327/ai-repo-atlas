@@ -1,6 +1,6 @@
 # AidenAI-IO/aico-link
 
-⭐ 67 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AidenAI-IO/aico-link) · [官网](https://aico.link/) · 组织维护
+⭐ 69 · C · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AidenAI-IO/aico-link) · [官网](https://aico.link/) · 组织维护
 
 **让 AI Agent 通过 HDMI 采集与 USB HID 操控手机/电脑的开发板固件**
 

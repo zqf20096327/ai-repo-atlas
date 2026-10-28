@@ -1,6 +1,6 @@
 # suiyuebaobao/C-SSH
 
-⭐ 187 · Rust · 推送 2026-10-12 · [GitHub](https://github.com/suiyuebaobao/C-SSH) · [官网](https://c-ssh.com) · 个人维护 · 中文 README
+⭐ 187 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/suiyuebaobao/C-SSH) · [官网](https://c-ssh.com) · 个人维护 · 中文 README
 
 **面向 Windows/Mac/Android/Linux 的服务器运维客户端，含 AI 对话**
 

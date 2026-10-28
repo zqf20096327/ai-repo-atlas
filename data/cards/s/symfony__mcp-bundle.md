@@ -1,6 +1,6 @@
 # symfony/mcp-bundle
 
-⭐ 54 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/mcp-bundle) · [官网](https://symfony.com/packages/mcp-bundle) · 组织维护
+⭐ 54 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/symfony/mcp-bundle) · [官网](https://symfony.com/packages/mcp-bundle) · 组织维护
 
 **Symfony 的 Model Context Protocol 集成 Bundle（服务端+客户端）**
 

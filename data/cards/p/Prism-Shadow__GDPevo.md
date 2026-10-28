@@ -1,6 +1,6 @@
 # Prism-Shadow/GDPevo
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/Prism-Shadow/GDPevo) · [官网](https://prism-shadow.github.io/GDPevo/) · 组织维护 · 中文 README
+⭐ 117 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/Prism-Shadow/GDPevo) · [官网](https://prism-shadow.github.io/GDPevo/) · 组织维护 · 中文 README
 
 **评测 agent 自我进化能力的公开基准（240 个真实业务任务）**
 

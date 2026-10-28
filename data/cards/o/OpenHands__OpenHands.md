@@ -1,6 +1,6 @@
 # OpenHands/OpenHands
 
-⭐ 92,009 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
+⭐ 92,108 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
 
 **自托管的编码 agent 控制中心：统一运行与管理多种 coding agent**
 

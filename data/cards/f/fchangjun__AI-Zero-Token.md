@@ -1,6 +1,6 @@
 # fchangjun/AI-Zero-Token
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/fchangjun/AI-Zero-Token) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fchangjun/AI-Zero-Token) · 个人维护 · 中文 README
 
 **本地 OpenAI 兼容网关：把 ChatGPT/Codex OAuth 账号转成本地 API**
 

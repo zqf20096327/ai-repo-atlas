@@ -1,6 +1,6 @@
 # mikel-brostrom/boxmot
 
-⭐ 8,316 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
+⭐ 8,320 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
 
 **可插拔多目标跟踪模块库，供开发者对任意检测器输出做跟踪**
 

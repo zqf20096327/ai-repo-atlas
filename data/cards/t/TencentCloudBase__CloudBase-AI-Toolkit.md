@@ -1,6 +1,6 @@
 # TencentCloudBase/CloudBase-AI-Toolkit
 
-⭐ 1,152 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) · [官网](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/) · 组织维护 · 中文 README
+⭐ 1,152 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) · [官网](https://docs.cloudbase.net/ai/cloudbase-ai-toolkit/) · 组织维护 · 中文 README
 
 **让 AI 编程工具直接操作腾讯云 CloudBase 后端的集成层**
 

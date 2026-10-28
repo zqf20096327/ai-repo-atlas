@@ -1,6 +1,6 @@
 # Brekel/VisionCaptioner
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/Brekel/VisionCaptioner) · [官网](https://brekel.com) · 个人维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/Brekel/VisionCaptioner) · [官网](https://brekel.com) · 个人维护
 
 **本地桌面应用：批量为图像/视频数据集生成字幕与分割掩码**
 

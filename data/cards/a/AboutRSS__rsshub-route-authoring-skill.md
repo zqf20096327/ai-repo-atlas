@@ -1,6 +1,6 @@
 # AboutRSS/rsshub-route-authoring-skill
 
-⭐ 24 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/AboutRSS/rsshub-route-authoring-skill) · 组织维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/AboutRSS/rsshub-route-authoring-skill) · 组织维护 · 中文 README
 
 **辅助 agent 编写可通过评审的 RSSHub 路由的技能包**
 

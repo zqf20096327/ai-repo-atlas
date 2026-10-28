@@ -1,6 +1,6 @@
 # spotify/voyager
 
-⭐ 1,605 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/spotify/voyager) · [官网](https://spotify.github.io/voyager/) · 组织维护
+⭐ 1,606 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/spotify/voyager) · [官网](https://spotify.github.io/voyager/) · 组织维护
 
 **面向向量嵌入的内存近似最近邻搜索库（Python/Java）**
 

@@ -1,6 +1,6 @@
 # humansensinglab/MVCHead
 
-⭐ 27 · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/humansensinglab/MVCHead) · [官网](https://humansensinglab.github.io/MVCHead/) · 组织维护
+⭐ 28 · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/humansensinglab/MVCHead) · [官网](https://humansensinglab.github.io/MVCHead/) · 组织维护
 
 **单视角图像生成多视角一致 3D 高斯头像的研究项目**
 

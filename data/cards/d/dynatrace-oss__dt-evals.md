@@ -1,6 +1,6 @@
 # dynatrace-oss/dt-evals
 
-⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/dynatrace-oss/dt-evals) · 组织维护
+⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dynatrace-oss/dt-evals) · 组织维护
 
 **面向 Dynatrace 用户的 LLM 评测 CLI 与工具集**
 

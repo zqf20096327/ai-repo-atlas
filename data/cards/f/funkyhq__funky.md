@@ -1,6 +1,6 @@
 # funkyhq/funky
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/funkyhq/funky) · [官网](https://funky.dev) · 组织维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/funkyhq/funky) · [官网](https://funky.dev) · 组织维护
 
 **面向 AI agent 的并行批量任务运行时引擎**
 

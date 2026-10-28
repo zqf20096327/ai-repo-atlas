@@ -1,6 +1,6 @@
 # Meeting-BaaS/speaking-meeting-bot
 
-⭐ 61 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Meeting-BaaS/speaking-meeting-bot) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Meeting-BaaS/speaking-meeting-bot) · 组织维护
 
 **可加入 Google Meet/Teams 会议的 AI 语音机器人，基于 Pipecat**
 

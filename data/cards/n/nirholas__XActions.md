@@ -1,6 +1,6 @@
 # nirholas/XActions
 
-⭐ 626 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nirholas/XActions) · [官网](https://xactions.app/features) · 个人维护
+⭐ 631 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nirholas/XActions) · [官网](https://xactions.app/features) · 个人维护
 
 **X/Twitter 自动化工具集：爬取、自动化与面向 AI agent 的 MCP 服务器**
 

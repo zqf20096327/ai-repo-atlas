@@ -1,6 +1,6 @@
 # ENTERPILOT/GoModel
 
-⭐ 1,277 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ENTERPILOT/GoModel) · [官网](https://gomodel.enterpilot.io/?utm_source=github_desc) · 组织维护
+⭐ 1,282 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ENTERPILOT/GoModel) · [官网](https://gomodel.enterpilot.io/?utm_source=github_desc) · 组织维护
 
 **Go 编写的 AI 网关：统一 OpenAI/Anthropic 兼容 API 接入多家模型**
 

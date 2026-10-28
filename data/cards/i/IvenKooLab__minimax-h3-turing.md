@@ -1,6 +1,6 @@
 # IvenKooLab/minimax-h3-turing
 
-⭐ 20 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IvenKooLab/minimax-h3-turing) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IvenKooLab/minimax-h3-turing) · 组织维护 · 中文 README
 
 **在 2080Ti（Turing）上本地运行 MiniMax H3 视频生成的实测手册与工作流套件**
 

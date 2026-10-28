@@ -1,6 +1,6 @@
 # yarin-zhang/AI-Gist
 
-⭐ 905 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/yarin-zhang/AI-Gist) · [官网](https://getaigist.com) · 个人维护 · 中文 README
+⭐ 905 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/yarin-zhang/AI-Gist) · [官网](https://getaigist.com) · 个人维护 · 中文 README
 
 **隐私优先的本地 AI 提示词管理工具，支持 AI 生成与调优**
 

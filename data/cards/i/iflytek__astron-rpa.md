@@ -1,6 +1,6 @@
 # iflytek/astron-rpa
 
-⭐ 5,279 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/iflytek/astron-rpa) · [官网](http://www.iflyrpa.com) · 组织维护 · 中文 README
+⭐ 5,280 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/iflytek/astron-rpa) · [官网](http://www.iflyrpa.com) · 组织维护 · 中文 README
 
 **面向企业与个人的开源 RPA 桌面应用，低代码构建自动化流程**
 

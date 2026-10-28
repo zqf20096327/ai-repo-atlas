@@ -1,6 +1,6 @@
 # meshapplied/goethe
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/meshapplied/goethe) · [官网](https://meshapplied.com) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/meshapplied/goethe) · [官网](https://meshapplied.com) · 组织维护
 
 **自托管 GPU 模型推理服务：把 Linux 机器变成兼容 OpenAI 的 API**
 

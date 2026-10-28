@@ -1,6 +1,6 @@
 # Aspirin0000/zhouli-translator
 
-⭐ 322 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Aspirin0000/zhouli-translator) · [官网](https://hehuzhouli.com/) · 个人维护 · 中文 README
+⭐ 322 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Aspirin0000/zhouli-translator) · [官网](https://hehuzhouli.com/) · 个人维护 · 中文 README
 
 **中文梗文案生成器：普通话↔周礼体双向翻译 Web 应用**
 

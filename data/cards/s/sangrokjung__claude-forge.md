@@ -1,6 +1,6 @@
 # sangrokjung/claude-forge
 
-⭐ 863 · Shell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sangrokjung/claude-forge) · [官网](https://sangrokjung.github.io/claude-forge) · 个人维护 · 中文 README
+⭐ 865 · Shell · MIT · 推送 2026-09-03 · [GitHub](https://github.com/sangrokjung/claude-forge) · [官网](https://sangrokjung.github.io/claude-forge) · 个人维护 · 中文 README
 
 **Claude Code 的配置增强套件：一次安装获得 16 agents、35 命令、33 技能与 22 hooks**
 

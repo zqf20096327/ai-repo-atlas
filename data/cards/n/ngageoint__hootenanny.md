@@ -1,6 +1,6 @@
 # ngageoint/hootenanny
 
-⭐ 395 · JavaScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ngageoint/hootenanny) · 组织维护
+⭐ 396 · JavaScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ngageoint/hootenanny) · 组织维护
 
 **将多源地图合并为单一无缝地图的地理数据融合工具**
 

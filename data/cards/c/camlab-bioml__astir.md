@@ -1,6 +1,6 @@
 # camlab-bioml/astir
 
-⭐ 57 · Python · GPL-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/camlab-bioml/astir) · [官网](https://astir.readthedocs.io/en/latest) · 组织维护
+⭐ 59 · Python · GPL-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/camlab-bioml/astir) · [官网](https://astir.readthedocs.io/en/latest) · 组织维护
 
 **从单细胞多重成像与蛋白质组数据自动识别细胞类型的建模框架**
 

@@ -1,6 +1,6 @@
 # jax-ml/jax-tpu-embedding
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jax-ml/jax-tpu-embedding) · [官网](https://jax-tpu-embedding.readthedocs.io/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/jax-ml/jax-tpu-embedding) · [官网](https://jax-tpu-embedding.readthedocs.io/) · 组织维护
 
 **JAX 在 TPU SparseCore 上做大规模嵌入加速的库**
 

@@ -1,6 +1,6 @@
 # sljeff/anycast
 
-⭐ 63 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sljeff/anycast) · [官网](https://anycast.website) · 个人维护
+⭐ 63 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sljeff/anycast) · [官网](https://anycast.website) · 个人维护
 
 **AI 驱动的跨平台播客应用：转录、双语字幕与对话**
 

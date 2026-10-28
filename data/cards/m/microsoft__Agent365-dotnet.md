@@ -1,6 +1,6 @@
 # microsoft/Agent365-dotnet
 
-⭐ 29 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Agent365-dotnet) · 组织维护
+⭐ 29 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Agent365-dotnet) · 组织维护
 
 **微软面向企业级 Agent 开发的 C#/.NET 扩展 SDK**
 

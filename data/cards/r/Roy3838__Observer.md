@@ -1,6 +1,6 @@
 # Roy3838/Observer
 
-⭐ 1,662 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Roy3838/Observer) · [官网](https://observer-ai.com/) · 个人维护
+⭐ 1,663 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Roy3838/Observer) · [官网](https://observer-ai.com/) · 个人维护
 
 **本地模型驱动的屏幕监控 Agent 应用，按条件触发通知**
 

@@ -1,6 +1,6 @@
 # antonbabenko/deliberation
 
-⭐ 178 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/antonbabenko/deliberation) · 个人维护
+⭐ 178 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/antonbabenko/deliberation) · 个人维护
 
 **让编码代理向 GPT/Gemini/Grok 等多模型征求二次意见与共识的 MCP 服务器**
 

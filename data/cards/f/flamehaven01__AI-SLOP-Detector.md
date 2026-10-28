@@ -1,6 +1,6 @@
 # flamehaven01/AI-SLOP-Detector
 
-⭐ 105 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/flamehaven01/AI-SLOP-Detector) · [官网](https://flamehaven.space/work/ai-slop-detector/) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/flamehaven01/AI-SLOP-Detector) · [官网](https://flamehaven.space/work/ai-slop-detector/) · 个人维护
 
 **面向开发者：静态检测 AI 生成代码中的空壳与造假结构**
 

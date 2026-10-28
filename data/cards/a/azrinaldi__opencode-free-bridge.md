@@ -1,6 +1,6 @@
 # azrinaldi/opencode-free-bridge
 
-⭐ 75 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/azrinaldi/opencode-free-bridge) · 个人维护
+⭐ 77 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/azrinaldi/opencode-free-bridge) · 个人维护
 
 **把 OpenCode 免费层模型桥接为本地 OpenAI 兼容 API，无需账号**
 

@@ -1,6 +1,6 @@
 # daobataotie/CAD-MCP
 
-⭐ 643 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/daobataotie/CAD-MCP) · 个人维护 · 中文 README
+⭐ 650 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/daobataotie/CAD-MCP) · 个人维护 · 中文 README
 
 **通过自然语言/MCP 控制 AutoCAD 等 CAD 软件绘图的 MCP 服务器**
 

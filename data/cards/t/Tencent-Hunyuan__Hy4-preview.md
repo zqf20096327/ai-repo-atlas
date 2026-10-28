@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4-preview
 
-⭐ 402 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-preview) · 组织维护 · 中文 README
+⭐ 403 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-preview) · 组织维护 · 中文 README
 
 **腾讯混元团队的 770B MoE 旗舰大模型（49B 激活）**
 

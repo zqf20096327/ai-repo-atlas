@@ -1,6 +1,6 @@
 # stfc/janus-core
 
-⭐ 51 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/stfc/janus-core) · [官网](https://stfc.github.io/janus-core/) · 组织维护
+⭐ 51 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/stfc/janus-core) · [官网](https://stfc.github.io/janus-core/) · 组织维护
 
 **机器学习原子间势（MLIP）的计算工具库，服务材料/分子模拟**
 

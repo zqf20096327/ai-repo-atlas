@@ -1,6 +1,6 @@
 # easychen/openMode
 
-⭐ 169 · Dart · MIT · 推送 2025-11-05 · [GitHub](https://github.com/easychen/openMode) · 个人维护
+⭐ 170 · Dart · MIT · 推送 2025-11-05 · [GitHub](https://github.com/easychen/openMode) · 个人维护
 
 **OpenCode 的移动客户端：手机上连接并使用 AI 编程助手**
 

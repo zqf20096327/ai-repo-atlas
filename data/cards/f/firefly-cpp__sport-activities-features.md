@@ -1,6 +1,6 @@
 # firefly-cpp/sport-activities-features
 
-⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/firefly-cpp/sport-activities-features) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/firefly-cpp/sport-activities-features) · 组织维护
 
 **从 TCX/GPX 运动活动文件中提取特征的最小化 Python 工具箱**
 

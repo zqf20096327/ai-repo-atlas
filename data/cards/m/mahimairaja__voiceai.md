@@ -1,6 +1,6 @@
 # mahimairaja/voiceai
 
-⭐ 337 · Astro · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mahimairaja/voiceai) · [官网](https://voiceai.mahimai.ca) · 个人维护 · 中文 README
+⭐ 337 · Astro · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mahimairaja/voiceai) · [官网](https://voiceai.mahimai.ca) · 个人维护 · 中文 README
 
 **实时语音 AI agent 开发学习资源策展清单**
 

@@ -1,6 +1,6 @@
 # Kinds-of-Intelligence-CFI/animal-ai
 
-⭐ 104 · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Kinds-of-Intelligence-CFI/animal-ai) · [官网](https://sites.google.com/csah.cam.ac.uk/animalai/) · 组织维护
+⭐ 105 · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Kinds-of-Intelligence-CFI/animal-ai) · [官网](https://sites.google.com/csah.cam.ac.uk/animalai/) · 组织维护
 
 **Unity 仿真实验环境：供人与 AI 做跨物种认知测试**
 

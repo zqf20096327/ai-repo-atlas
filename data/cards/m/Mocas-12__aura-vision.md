@@ -1,6 +1,6 @@
 # Mocas-12/aura-vision
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Mocas-12/aura-vision) · [官网](https://aura-vision-beige.vercel.app) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Mocas-12/aura-vision) · [官网](https://aura-vision-beige.vercel.app) · 个人维护 · 中文 README
 
 **手机摄像头实时 AI 物体识别网页应用，赛博朋克 UI**
 

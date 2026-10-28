@@ -1,6 +1,6 @@
 # tomasz-tomczyk/crit-web
 
-⭐ 34 · Elixir · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tomasz-tomczyk/crit-web) · [官网](https://crit.md) · 个人维护
+⭐ 35 · Elixir · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tomasz-tomczyk/crit-web) · [官网](https://crit.md) · 个人维护
 
 **Crit CLI 的托管分享服务：将 AI agent 审查结果发布为公开网页**
 

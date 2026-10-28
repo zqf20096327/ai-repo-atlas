@@ -1,6 +1,6 @@
 # xiyue188/RAG
 
-⭐ 58 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/xiyue188/RAG) · [官网](http://deepblue-brain.cn/) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/xiyue188/RAG) · [官网](http://deepblue-brain.cn/) · 个人维护 · 中文 README
 
 **面向开发者与研究者的 RAG 全链路白盒化观察平台**
 

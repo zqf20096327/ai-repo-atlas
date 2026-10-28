@@ -1,6 +1,6 @@
 # OriEra-engine/engine
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/OriEra-engine/engine) · [官网](https://oriera-engine.github.io/engine/) · 组织维护 · 中文 README
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/OriEra-engine/engine) · [官网](https://oriera-engine.github.io/engine/) · 组织维护 · 中文 README
 
 **AI 原生开放数字世界引擎：自然语言创作与自演化 3D 世界**
 

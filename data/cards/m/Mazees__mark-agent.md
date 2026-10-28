@@ -1,6 +1,6 @@
 # Mazees/mark-agent
 
-⭐ 43 · JavaScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Mazees/mark-agent) · 个人维护
+⭐ 43 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Mazees/mark-agent) · 个人维护
 
 **Windows 本地运行的个人 AI 助理，带长期记忆与多 Agent 系统**
 

@@ -1,6 +1,6 @@
 # qdrant/mcp-server-qdrant
 
-⭐ 1,556 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 1,558 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **为 LLM 客户端提供基于 Qdrant 的语义记忆层 MCP 服务器**
 

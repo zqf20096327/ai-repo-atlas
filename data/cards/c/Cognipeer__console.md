@@ -1,6 +1,6 @@
 # Cognipeer/console
 
-⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Cognipeer/console) · [官网](https://docs.cognipeer.com/console/) · 组织维护
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Cognipeer/console) · [官网](https://docs.cognipeer.com/console/) · 组织维护
 
 **面向多租户组织的自托管 AI 网关与一体化控制台**
 

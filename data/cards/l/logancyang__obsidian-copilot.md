@@ -1,6 +1,6 @@
 # logancyang/obsidian-copilot
 
-⭐ 7,895 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/logancyang/obsidian-copilot) · [官网](https://www.obsidiancopilot.com) · 组织维护
+⭐ 7,905 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/logancyang/obsidian-copilot) · [官网](https://www.obsidiancopilot.com) · 组织维护
 
 **Obsidian 笔记库内的 AI Agent 插件：接入 opencode/Claude Code/Codex**
 

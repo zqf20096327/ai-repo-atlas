@@ -1,6 +1,6 @@
 # huawei-noah/trustworthyAI
 
-⭐ 1,153 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/huawei-noah/trustworthyAI) · 组织维护 · 中文 README
+⭐ 1,152 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/huawei-noah/trustworthyAI) · 组织维护 · 中文 README
 
 **华为诺亚方舟实验室可信 AI 相关项目集合仓库**
 

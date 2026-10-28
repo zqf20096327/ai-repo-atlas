@@ -1,6 +1,6 @@
 # AgentiLoop/Agent
 
-⭐ 650 · Swift · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AgentiLoop/Agent) · [官网](https://agentiloop.ai) · 个人维护 · 中文 README
+⭐ 651 · Swift · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AgentiLoop/Agent) · [官网](https://agentiloop.ai) · 个人维护 · 中文 README
 
 **macOS 原生自主 AI 代理：驱动应用、写码、执行系统任务**
 

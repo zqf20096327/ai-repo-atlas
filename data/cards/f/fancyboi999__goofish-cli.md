@@ -1,6 +1,6 @@
 # fancyboi999/goofish-cli
 
-⭐ 374 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/fancyboi999/goofish-cli) · 个人维护 · 中文 README
+⭐ 380 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/fancyboi999/goofish-cli) · 个人维护 · 中文 README
 
 **面向 AI Agent 的闲鱼运营 CLI，含 MCP server 与 Skills**
 

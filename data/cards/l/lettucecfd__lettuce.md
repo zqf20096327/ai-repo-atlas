@@ -1,6 +1,6 @@
 # lettucecfd/lettuce
 
-⭐ 296 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lettucecfd/lettuce) · 组织维护
+⭐ 297 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/lettucecfd/lettuce) · 组织维护
 
 **基于 PyTorch 与格子玻尔兹曼方法的 CFD 仿真框架**
 

@@ -1,6 +1,6 @@
 # Minqi824/ADBench
 
-⭐ 1,029 · Python · BSD-2-Clause · 推送 2026-01-08 · [GitHub](https://github.com/Minqi824/ADBench) · 组织维护 · 中文 README
+⭐ 1,030 · Python · BSD-2-Clause · 推送 2026-01-08 · [GitHub](https://github.com/Minqi824/ADBench) · 组织维护 · 中文 README
 
 **表格数据异常检测基准：30 种算法在 57 个数据集上的评测**
 

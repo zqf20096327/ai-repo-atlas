@@ -1,6 +1,6 @@
 # AdamBien/airails
 
-⭐ 60 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AdamBien/airails) · [官网](https://airails.dev) · 个人维护
+⭐ 60 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AdamBien/airails) · [官网](https://airails.dev) · 个人维护
 
 **面向 AI 编程 agent 的 Java/Web 开发规范与技能集（SKILLS.md/AGENTS.md）**
 

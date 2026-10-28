@@ -1,6 +1,6 @@
 # Viy1204/recruiting-copilot
 
-⭐ 103 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Viy1204/recruiting-copilot) · 个人维护 · 中文 README
+⭐ 104 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Viy1204/recruiting-copilot) · 个人维护 · 中文 README
 
 **给 HR/猎头的 AI 招聘工作流：寻源初筛到台账日报全流程**
 

@@ -1,6 +1,6 @@
 # mne-tools/mne-python
 
-⭐ 3,569 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
+⭐ 3,571 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
 
 **面向科研者的 MEG/EEG 等神经生理数据分析 Python 库**
 

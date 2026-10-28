@@ -1,6 +1,6 @@
 # patrickfreyer/apple-mail-mcp
 
-⭐ 240 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/patrickfreyer/apple-mail-mcp) · 个人维护
+⭐ 241 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/patrickfreyer/apple-mail-mcp) · 个人维护
 
 **让 AI 助手通过自然语言操作 Apple Mail 的 MCP 服务器**
 

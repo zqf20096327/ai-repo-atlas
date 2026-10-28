@@ -1,6 +1,6 @@
 # precis1onz/tokenation
 
-⭐ 38 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/precis1onz/tokenation) · 个人维护 · 中文 README
+⭐ 40 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/precis1onz/tokenation) · 个人维护 · 中文 README
 
 **免费 LLM API 羊毛清单：85 条评分条目，日更逐条核实**
 

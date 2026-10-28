@@ -1,6 +1,6 @@
 # pyg-team/pyg-lib
 
-⭐ 243 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pyg-team/pyg-lib) · [官网](https://pyg-lib.readthedocs.io) · 组织维护
+⭐ 243 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pyg-team/pyg-lib) · [官网](https://pyg-lib.readthedocs.io) · 组织维护
 
 **PyG 的底层图神经网络算子库，提供高效图计算原语**
 

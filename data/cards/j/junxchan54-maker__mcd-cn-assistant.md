@@ -1,6 +1,6 @@
 # junxchan54-maker/mcd-cn-assistant
 
-⭐ 398 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/junxchan54-maker/mcd-cn-assistant) · 个人维护 · 中文 README
+⭐ 381 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/junxchan54-maker/mcd-cn-assistant) · 个人维护 · 中文 README
 
 **麦当劳中国 MCP 助手技能：把 35 个官方工具编排成点餐/活动/拼单分账流程**
 

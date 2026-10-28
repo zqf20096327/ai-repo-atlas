@@ -1,6 +1,6 @@
 # MAZHARMIK/python-ai-agent-ollama
 
-⭐ 32 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MAZHARMIK/python-ai-agent-ollama) · [官网](https://www.youtube.com/watch?v=f0HBW-47wwU&list=PLGSKQmIKK2zQ) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MAZHARMIK/python-ai-agent-ollama) · [官网](https://www.youtube.com/watch?v=f0HBW-47wwU&list=PLGSKQmIKK2zQ) · 个人维护
 
 **从零实现的本地 Python AI agent：Ollama 对话+多步工具调用**
 

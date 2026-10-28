@@ -1,6 +1,6 @@
 # gretl-project/gretl
 
-⭐ 20 · C · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/gretl-project/gretl) · [官网](https://gretl.sourceforge.net/) · 组织维护
+⭐ 20 · C · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/gretl-project/gretl) · [官网](https://gretl.sourceforge.net/) · 组织维护
 
 **计量经济学统计软件包：回归、时间序列与面板数据分析**
 

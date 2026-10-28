@@ -1,6 +1,6 @@
 # microsoft/new-copilot-studio-tech-guide
 
-⭐ 20 · Astro · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/new-copilot-studio-tech-guide) · [官网](https://microsoft.github.io/new-copilot-studio-tech-guide/) · 组织维护
+⭐ 20 · Astro · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/new-copilot-studio-tech-guide) · [官网](https://microsoft.github.io/new-copilot-studio-tech-guide/) · 组织维护
 
 **Copilot Studio 代理与工作流示例的展示站与一键部署包**
 

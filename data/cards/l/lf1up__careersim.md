@@ -1,6 +1,6 @@
 # lf1up/careersim
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lf1up/careersim) · [官网](https://careersim.ai) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lf1up/careersim) · [官网](https://careersim.ai) · 个人维护
 
 **面向个人的 AI 职场技能模拟器：练习面试与谈判并获反馈**
 

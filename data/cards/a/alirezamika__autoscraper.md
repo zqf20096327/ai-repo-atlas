@@ -1,6 +1,6 @@
 # alirezamika/autoscraper
 
-⭐ 8,063 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/alirezamika/autoscraper) · 个人维护
+⭐ 8,066 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/alirezamika/autoscraper) · 个人维护
 
 **给开发者的智能网页爬虫：从样例数据自动学习抓取规则**
 

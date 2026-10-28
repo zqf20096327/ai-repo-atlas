@@ -1,6 +1,6 @@
 # Teichlab/celltypist
 
-⭐ 515 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Teichlab/celltypist) · [官网](https://www.celltypist.org/) · 组织维护
+⭐ 516 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Teichlab/celltypist) · [官网](https://www.celltypist.org/) · 组织维护
 
 **scRNA-seq 数据的细胞类型自动注释工具**
 

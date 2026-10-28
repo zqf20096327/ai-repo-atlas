@@ -1,6 +1,6 @@
 # j3soon/whisper-to-input
 
-⭐ 141 · Kotlin · GPL-3.0 · 推送 2025-12-21 · [GitHub](https://github.com/j3soon/whisper-to-input) · 个人维护 · 中文 README
+⭐ 142 · Kotlin · GPL-3.0 · 推送 2025-12-21 · [GitHub](https://github.com/j3soon/whisper-to-input) · 个人维护 · 中文 README
 
 **调用 Whisper 语音转文字的 Android 输入法键盘**
 

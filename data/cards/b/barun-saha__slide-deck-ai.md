@@ -1,6 +1,6 @@
 # barun-saha/slide-deck-ai
 
-⭐ 376 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/barun-saha/slide-deck-ai) · [官网](https://barunsaha-slide-deck-ai.hf.space/) · 个人维护
+⭐ 377 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/barun-saha/slide-deck-ai) · [官网](https://barunsaha-slide-deck-ai.hf.space/) · 个人维护
 
 **面向演示者的 AI 助手：根据主题生成 PowerPoint 幻灯片**
 

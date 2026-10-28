@@ -1,6 +1,6 @@
 # alan-turing-institute/CleverCSV
 
-⭐ 1,341 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/alan-turing-institute/CleverCSV) · [官网](https://clevercsv.readthedocs.io) · 组织维护
+⭐ 1,342 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/alan-turing-institute/CleverCSV) · [官网](https://clevercsv.readthedocs.io) · 组织维护
 
 **处理混乱 CSV 的 Python 库：自动检测方言并标准化文件**
 

@@ -1,6 +1,6 @@
 # rubiojr/rugo
 
-⭐ 24 · Go · MIT · 推送 2026-10-01 · [GitHub](https://github.com/rubiojr/rugo) · [官网](https://rugo-lang.dev) · 个人维护
+⭐ 24 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rubiojr/rugo) · [官网](https://rugo-lang.dev) · 个人维护
 
 **Ruby 语法编译为 Go 原生二进制的编程语言**
 

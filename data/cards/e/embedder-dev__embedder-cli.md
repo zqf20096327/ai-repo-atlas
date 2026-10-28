@@ -1,6 +1,6 @@
 # embedder-dev/embedder-cli
 
-⭐ 27 · Shell · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/embedder-dev/embedder-cli) · [官网](https://embedder.com/) · 组织维护
+⭐ 27 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/embedder-dev/embedder-cli) · [官网](https://embedder.com/) · 组织维护
 
 **面向嵌入式软件的企业 AI 平台：agent 直接对真实硬件写码烧录调试**
 

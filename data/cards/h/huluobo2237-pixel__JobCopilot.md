@@ -1,6 +1,6 @@
 # huluobo2237-pixel/JobCopilot
 
-⭐ 141 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/huluobo2237-pixel/JobCopilot) · 个人维护 · 中文 README
+⭐ 142 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/huluobo2237-pixel/JobCopilot) · 个人维护 · 中文 README
 
 **BOSS 直聘自动投递浏览器扩展：AI 筛岗位并生成招呼语**
 

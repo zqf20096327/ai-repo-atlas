@@ -1,6 +1,6 @@
 # yandexdataschool/Practical_RL
 
-⭐ 6,596 · Jupyter Notebook · Unlicense · 推送 2026-10-20 · [GitHub](https://github.com/yandexdataschool/Practical_RL) · 组织维护
+⭐ 6,597 · Jupyter Notebook · Unlicense · 推送 2026-10-20 · [GitHub](https://github.com/yandexdataschool/Practical_RL) · 组织维护
 
 **面向在线学生的强化学习实战开放课程**
 

@@ -1,6 +1,6 @@
 # jjang-ai/mlxstudio
 
-⭐ 988 · 推送 2026-10-21 · [GitHub](https://github.com/jjang-ai/mlxstudio) · [官网](https://mlx.studio) · 组织维护
+⭐ 989 · 推送 2026-10-27 · [GitHub](https://github.com/jjang-ai/mlxstudio) · [官网](https://mlx.studio) · 组织维护
 
 **macOS 本地 LLM 运行应用：Apple Silicon 上跑模型并供 OpenAI 兼容 API**
 

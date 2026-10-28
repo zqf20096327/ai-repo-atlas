@@ -1,6 +1,6 @@
 # codesstar/hermes-skill-atlas
 
-⭐ 98 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codesstar/hermes-skill-atlas) · [官网](https://codesstar.github.io/hermes-skill-atlas/) · 个人维护 · 中文 README
+⭐ 97 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codesstar/hermes-skill-atlas) · [官网](https://codesstar.github.io/hermes-skill-atlas/) · 个人维护 · 中文 README
 
 **Hermes Agent 技能目录：单文件 HTML 浏览 70+ 精选 Skill**
 

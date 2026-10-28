@@ -1,6 +1,6 @@
 # oxylabs/oxylabs-mcp
 
-⭐ 104 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/oxylabs/oxylabs-mcp) · [官网](https://oxylabs.io) · 组织维护
+⭐ 104 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/oxylabs/oxylabs-mcp) · [官网](https://oxylabs.io) · 组织维护
 
 **为 AI 模型接入网页抓取能力的 Oxylabs MCP 服务器**
 

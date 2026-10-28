@@ -1,6 +1,6 @@
 # Zefan-Cai/KVCache-Factory
 
-⭐ 1,390 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Zefan-Cai/KVCache-Factory) · 组织维护
+⭐ 1,391 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Zefan-Cai/KVCache-Factory) · 组织维护
 
 **面向长上下文 LLM 推理的 KV 缓存压缩方法统一评测框架**
 

@@ -1,6 +1,6 @@
 # kyleskom/NBA-Machine-Learning-Sports-Betting
 
-⭐ 1,762 · Python · 推送 2026-09-12 · [GitHub](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) · 个人维护
+⭐ 1,763 · Python · 推送 2026-09-12 · [GitHub](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) · 个人维护
 
 **用机器学习预测 NBA 比赛胜负与大小分的投注分析工具**
 

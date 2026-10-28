@@ -1,6 +1,6 @@
 # Zuehlke/labview-mcp
 
-⭐ 76 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Zuehlke/labview-mcp) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Zuehlke/labview-mcp) · 组织维护
 
 **让 AI 助手读写运行本机 LabVIEW 代码的 MCP 服务器**
 

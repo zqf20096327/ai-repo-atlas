@@ -1,6 +1,6 @@
 # lobehub/lobe-assets
 
-⭐ 27 · CSS · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lobehub/lobe-assets) · 组织维护 · 中文 README
+⭐ 27 · CSS · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lobehub/lobe-assets) · 组织维护 · 中文 README
 
 **LobeHub 的 Logo、favicon、emoji 与 Web 字体资源库**
 

@@ -1,6 +1,6 @@
 # kdsz001/OpenWiki
 
-⭐ 644 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/kdsz001/OpenWiki) · [官网](https://openwiki.pages.dev) · 个人维护 · 中文 README
+⭐ 645 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/kdsz001/OpenWiki) · [官网](https://openwiki.pages.dev) · 个人维护 · 中文 README
 
 **Mac/Windows 桌面个人知识管理工具：剪藏内容由 AI 整理成 Wiki**
 

@@ -1,6 +1,6 @@
 # NVIDIA/DALI
 
-⭐ 5,785 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/DALI) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
+⭐ 5,786 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/DALI) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
 
 **面向深度学习训练与推理的 GPU 加速数据加载与预处理库**
 

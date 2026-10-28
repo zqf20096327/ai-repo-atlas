@@ -1,6 +1,6 @@
 # Anil-matcha/open-duet
 
-⭐ 6,225 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
+⭐ 6,290 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
 
 **自托管的 AI 同事工作台：带记忆、例程与审批的命名 agent**
 

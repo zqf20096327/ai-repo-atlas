@@ -1,6 +1,6 @@
 # zgornel/DataLinter
 
-⭐ 19 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/zgornel/DataLinter) · 个人维护
+⭐ 19 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zgornel/DataLinter) · 个人维护
 
 **面向 ML 工作流的数据与代码 linting 库与工具**
 

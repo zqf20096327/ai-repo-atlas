@@ -1,6 +1,6 @@
 # monbooru/monbooru
 
-⭐ 117 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/monbooru/monbooru) · [官网](https://monbooru.github.io/mondocs/) · 个人维护
+⭐ 123 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/monbooru/monbooru) · [官网](https://monbooru.github.io/mondocs/) · 个人维护
 
 **自托管私有图库（booru 式），含本地自动打标**
 

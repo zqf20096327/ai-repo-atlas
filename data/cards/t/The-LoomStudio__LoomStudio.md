@@ -1,6 +1,6 @@
 # The-LoomStudio/LoomStudio
 
-⭐ 24 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/The-LoomStudio/LoomStudio) · [官网](https://loomstudio.pages.dev/) · 组织维护 · 中文 README
+⭐ 27 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/The-LoomStudio/LoomStudio) · [官网](https://loomstudio.pages.dev/) · 组织维护 · 中文 README
 
 **本地运行的 AI 角色扮演与互动叙事创作工作台**
 

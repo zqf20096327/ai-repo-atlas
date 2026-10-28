@@ -1,6 +1,6 @@
 # iblai/os
 
-⭐ 793 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/iblai/os) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 793 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/iblai/os) · [官网](https://ibl.ai/join) · 组织维护
 
 **开源 AI agent 平台 ibl.ai 的多端前端，用于构建和管理会话式 agent**
 

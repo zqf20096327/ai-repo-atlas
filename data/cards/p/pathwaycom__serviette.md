@@ -1,6 +1,6 @@
 # pathwaycom/serviette
 
-⭐ 58,756 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
+⭐ 58,754 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
 
 **面向企业和开发者的零代码文档问答 RAG 服务器，答案随文档实时更新**
 

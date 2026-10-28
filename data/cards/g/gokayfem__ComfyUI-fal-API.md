@@ -1,6 +1,6 @@
 # gokayfem/ComfyUI-fal-API
 
-⭐ 228 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gokayfem/ComfyUI-fal-API) · 个人维护
+⭐ 227 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/gokayfem/ComfyUI-fal-API) · 个人维护
 
 **将 fal.ai 全目录模型接入 ComfyUI 的自定义节点集**
 

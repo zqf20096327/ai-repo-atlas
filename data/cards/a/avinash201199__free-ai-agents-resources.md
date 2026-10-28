@@ -1,6 +1,6 @@
 # avinash201199/free-ai-agents-resources
 
-⭐ 1,072 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/avinash201199/free-ai-agents-resources) · [官网](https://www.lets-code.co.in/) · 个人维护
+⭐ 1,074 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/avinash201199/free-ai-agents-resources) · [官网](https://www.lets-code.co.in/) · 个人维护
 
 **AI agent 免费学习资源策展清单：教程、框架、社区与课程**
 

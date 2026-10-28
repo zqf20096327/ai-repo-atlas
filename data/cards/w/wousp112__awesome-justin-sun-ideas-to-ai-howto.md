@@ -1,6 +1,6 @@
 # wousp112/awesome-justin-sun-ideas-to-ai-howto
 
-⭐ 189 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) · 个人维护 · 中文 README
+⭐ 190 · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto) · 个人维护 · 中文 README
 
 **孙宇晨访谈带时间戳全文与配套 AI 教程的知识仓库**
 

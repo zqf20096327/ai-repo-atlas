@@ -1,6 +1,6 @@
 # mishushakov/llm-scraper
 
-⭐ 6,949 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mishushakov/llm-scraper) · 个人维护
+⭐ 6,952 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mishushakov/llm-scraper) · 个人维护
 
 **用 LLM 把网页提取为结构化数据的 TypeScript 库**
 

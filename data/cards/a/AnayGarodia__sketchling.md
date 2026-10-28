@@ -1,6 +1,6 @@
 # AnayGarodia/sketchling
 
-⭐ 26 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/AnayGarodia/sketchling) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/AnayGarodia/sketchling) · 个人维护
 
 **供 LLM/编码代理使用的手绘插画与动画语言**
 

@@ -1,6 +1,6 @@
 # AprilNEA/AChat
 
-⭐ 3,255 · TypeScript · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AprilNEA/AChat) · [官网](https://achat.dev) · 个人维护 · 中文 README
+⭐ 3,254 · TypeScript · NOASSERTION · 推送 2026-04-17 · [GitHub](https://github.com/AprilNEA/AChat) · [官网](https://achat.dev) · 个人维护 · 中文 README
 
 **面向企业与团队的自托管本地优先 AI 对话平台**
 

@@ -1,6 +1,6 @@
 # clearml/clearml-helm-charts
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 50 · Go Template · 推送 2026-06-08 · [GitHub](https://github.com/clearml/clearml-helm-charts) · [官网](https://clear.ml/docs) · 组织维护
 
 **ClearML 服务端在 Kubernetes 上的 Helm 部署 charts**
 

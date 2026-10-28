@@ -1,6 +1,6 @@
 # kubeopencode/kubeopencode
 
-⭐ 119 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kubeopencode/kubeopencode) · [官网](https://kubeopencode.github.io/kubeopencode/) · 组织维护
+⭐ 119 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kubeopencode/kubeopencode) · [官网](https://kubeopencode.github.io/kubeopencode/) · 组织维护
 
 **在 Kubernetes 上运行 OpenCode AI agent 的企业级平台**
 

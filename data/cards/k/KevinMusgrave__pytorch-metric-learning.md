@@ -1,6 +1,6 @@
 # KevinMusgrave/pytorch-metric-learning
 
-⭐ 6,344 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) · [官网](https://kevinmusgrave.github.io/pytorch-metric-learning/) · 个人维护
+⭐ 6,344 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KevinMusgrave/pytorch-metric-learning) · [官网](https://kevinmusgrave.github.io/pytorch-metric-learning/) · 个人维护
 
 **面向开发者的 PyTorch 深度度量学习模块化库**
 

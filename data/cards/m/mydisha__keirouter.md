@@ -1,6 +1,6 @@
 # mydisha/keirouter
 
-⭐ 155 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mydisha/keirouter) · [官网](https://keirouter.app) · 个人维护
+⭐ 156 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mydisha/keirouter) · [官网](https://keirouter.app) · 个人维护
 
 **面向 AI 编码工具的自托管 AI 网关：统一接入、路由与成本管控**
 

@@ -1,6 +1,6 @@
 # zerolovesea/Brevia
 
-⭐ 74 · JavaScript · ISC · 推送 2026-10-22 · [GitHub](https://github.com/zerolovesea/Brevia) · [官网](https://brevia.work) · 个人维护 · 中文 README
+⭐ 75 · JavaScript · ISC · 推送 2026-10-22 · [GitHub](https://github.com/zerolovesea/Brevia) · [官网](https://brevia.work) · 个人维护 · 中文 README
 
 **本地优先的 AI 会议助手：录音转写、AI 笔记与纪要**
 

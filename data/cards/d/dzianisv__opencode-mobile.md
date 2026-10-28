@@ -1,6 +1,6 @@
 # dzianisv/opencode-mobile
 
-⭐ 263 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dzianisv/opencode-mobile) · [官网](https://agentlabs.cc/opencode) · 组织维护
+⭐ 264 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dzianisv/opencode-mobile) · [官网](https://agentlabs.cc/opencode) · 组织维护
 
 **自托管 opencode AI 编程代理的开源 Android 客户端**
 

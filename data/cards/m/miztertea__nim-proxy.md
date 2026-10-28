@@ -1,6 +1,6 @@
 # miztertea/nim-proxy
 
-⭐ 40 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/miztertea/nim-proxy) · [官网](https://github.com/miztertea/nim-proxy) · 个人维护
+⭐ 41 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/miztertea/nim-proxy) · [官网](https://github.com/miztertea/nim-proxy) · 个人维护
 
 **面向 NVIDIA NIM API 的 OpenAI 兼容限流代理，含监控面板**
 

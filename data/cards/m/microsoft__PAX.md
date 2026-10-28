@@ -1,6 +1,6 @@
 # microsoft/PAX
 
-⭐ 30 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/PAX) · [官网](https://aka.ms/PAXapp) · 组织维护
+⭐ 31 · PowerShell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/PAX) · [官网](https://aka.ms/PAXapp) · 组织维护
 
 **企业工具集：导出 M365 Copilot 审计日志为分析就绪数据**
 

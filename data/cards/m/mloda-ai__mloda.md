@@ -1,6 +1,6 @@
 # mloda-ai/mloda
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mloda-ai/mloda) · [官网](https://mloda.ai) · 组织维护
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mloda-ai/mloda) · [官网](https://mloda.ai) · 组织维护
 
 **面向 AI 代理的声明式数据访问与插件化数据管道框架**
 

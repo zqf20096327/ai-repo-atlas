@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Web
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Web) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 65 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Web) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **接入 Xmax 视频生成服务的 JavaScript Web SDK**
 

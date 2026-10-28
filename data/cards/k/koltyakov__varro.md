@@ -1,6 +1,6 @@
 # koltyakov/varro
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/koltyakov/varro) · [官网](https://marketplace.visualstudio.com/items?itemName=koltyakov.varro) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/koltyakov/varro) · [官网](https://marketplace.visualstudio.com/items?itemName=koltyakov.varro) · 个人维护
 
 **在 VS Code 内运行 OpenCode 的编码 agent 工作台扩展**
 

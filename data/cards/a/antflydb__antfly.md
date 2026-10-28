@@ -1,6 +1,6 @@
 # antflydb/antfly
 
-⭐ 476 · Zig · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
+⭐ 477 · Zig · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/antflydb/antfly) · [官网](https://antfly.io) · 组织维护
 
 **Zig 编写的检索与推理数据库：混合搜索+RAG+内置推理一体**
 

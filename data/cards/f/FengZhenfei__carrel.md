@@ -1,6 +1,6 @@
 # FengZhenfei/carrel
 
-⭐ 643 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/FengZhenfei/carrel) · 个人维护 · 中文 README
+⭐ 635 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/FengZhenfei/carrel) · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管知识库：文档解析、索引与检索**
 

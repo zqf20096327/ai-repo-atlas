@@ -1,6 +1,6 @@
 # microsoft/Dataverse-skills
 
-⭐ 246 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Dataverse-skills) · 组织维护
+⭐ 247 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Dataverse-skills) · 组织维护
 
 **教 AI 编程代理操作 Microsoft Dataverse 的技能插件**
 

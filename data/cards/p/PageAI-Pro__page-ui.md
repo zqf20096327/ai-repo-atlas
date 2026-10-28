@@ -1,6 +1,6 @@
 # PageAI-Pro/page-ui
 
-⭐ 1,696 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PageAI-Pro/page-ui) · [官网](https://pageai.pro) · 组织维护
+⭐ 1,697 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PageAI-Pro/page-ui) · [官网](https://pageai.pro) · 组织维护
 
 **React/Next.js 落地页组件与模板库，复制粘贴即用**
 

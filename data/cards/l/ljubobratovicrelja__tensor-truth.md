@@ -1,6 +1,6 @@
 # ljubobratovicrelja/tensor-truth
 
-⭐ 28 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/ljubobratovicrelja/tensor-truth) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ljubobratovicrelja/tensor-truth) · 个人维护
 
 **本地优先的技术文档与论文 RAG 问答应用，主打检索质量**
 

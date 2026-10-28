@@ -1,6 +1,6 @@
 # minthcm/minthcm
 
-⭐ 439 · PHP · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/minthcm/minthcm) · [官网](https://minthcm.org/) · 组织维护
+⭐ 439 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/minthcm/minthcm) · [官网](https://minthcm.org/) · 组织维护
 
 **开源 AI 原生 HCM 平台：面向企业用 AI agent 管理 HR 流程**
 

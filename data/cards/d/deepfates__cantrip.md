@@ -1,6 +1,6 @@
 # deepfates/cantrip
 
-⭐ 128 · Elixir · MIT · 推送 2026-07-24 · [GitHub](https://github.com/deepfates/cantrip) · [官网](https://deepwiki.com/deepfates/cantrip) · 个人维护
+⭐ 129 · Elixir · MIT · 推送 2026-07-24 · [GitHub](https://github.com/deepfates/cantrip) · [官网](https://deepwiki.com/deepfates/cantrip) · 个人维护
 
 **Elixir 多智能体运行时：以受限循环构建可复用的 LLM 智能体**
 

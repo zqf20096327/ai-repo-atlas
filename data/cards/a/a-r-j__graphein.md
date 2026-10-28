@@ -1,6 +1,6 @@
 # a-r-j/graphein
 
-⭐ 1,197 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 组织维护
+⭐ 1,197 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/a-r-j/graphein) · [官网](https://graphein.ai/) · 组织维护
 
 **蛋白质/ RNA 结构与生物互作网络的图构建库**
 

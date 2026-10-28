@@ -1,6 +1,6 @@
 # BlockRunAI/blockrun-mcp
 
-⭐ 392 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BlockRunAI/blockrun-mcp) · [官网](https://www.npmjs.com/package/@blockrun/mcp) · 组织维护
+⭐ 392 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BlockRunAI/blockrun-mcp) · [官网](https://www.npmjs.com/package/@blockrun/mcp) · 组织维护
 
 **面向 AI agent 的实时数据与交易 MCP 服务器，按调用付费**
 

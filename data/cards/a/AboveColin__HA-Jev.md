@@ -1,6 +1,6 @@
 # AboveColin/HA-Jev
 
-⭐ 80 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AboveColin/HA-Jev) · [官网](https://jev.cdevries.dev/) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AboveColin/HA-Jev) · [官网](https://jev.cdevries.dev/) · 个人维护
 
 **Home Assistant 集成：向 TypeSafe Jev 提问并把回答变成实体**
 

@@ -1,6 +1,6 @@
 # ashuiGordon/stata-cli
 
-⭐ 57 · Python · 推送 2026-08-21 · [GitHub](https://github.com/ashuiGordon/stata-cli) · [官网](https://ashuigordon.github.io/stata-cli/) · 个人维护 · 中文 README
+⭐ 57 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ashuiGordon/stata-cli) · [官网](https://ashuigordon.github.io/stata-cli/) · 个人维护 · 中文 README
 
 **供 AI 编程代理调用 Stata 的命令行工具**
 

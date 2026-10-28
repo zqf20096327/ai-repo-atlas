@@ -1,6 +1,6 @@
 # guillaumemeyer/watermarks-remover
 
-⭐ 25,061 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
+⭐ 25,298 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guillaumemeyer/watermarks-remover) · [官网](https://github.com/guillaumemeyer/watermarks-remover) · 个人维护
 
 **给内容所有者去除多厂商 AI 水印/溯源标记的 agent skill 与本地服务**
 

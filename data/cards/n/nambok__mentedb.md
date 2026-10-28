@@ -1,6 +1,6 @@
 # nambok/mentedb
 
-⭐ 121 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nambok/mentedb) · [官网](https://mentedb.com) · 个人维护
+⭐ 122 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nambok/mentedb) · [官网](https://mentedb.com) · 个人维护
 
 **面向 AI agent 记忆的 Rust 数据库引擎：存储、检索与上下文预组装**
 

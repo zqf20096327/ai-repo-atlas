@@ -1,6 +1,6 @@
 # Dpro-at/Girru
 
-⭐ 76 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Dpro-at/Girru) · [官网](https://agent-player.com) · 个人维护
+⭐ 80 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Dpro-at/Girru) · [官网](https://agent-player.com) · 个人维护
 
 **开源跨平台 AI 桌面助手：多 Agent 团队路由执行任务**
 

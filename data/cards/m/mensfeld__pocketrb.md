@@ -1,6 +1,6 @@
 # mensfeld/pocketrb
 
-⭐ 38 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mensfeld/pocketrb) · 个人维护
+⭐ 38 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mensfeld/pocketrb) · 个人维护
 
 **面向 Ruby 开发者的轻量多 LLM agent 框架与助手**
 

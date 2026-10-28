@@ -1,6 +1,6 @@
 # Fzhiyu1/improv-os
 
-⭐ 125 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Fzhiyu1/improv-os) · [官网](https://os.fzhiyu.dev) · 个人维护 · 中文 README
+⭐ 126 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Fzhiyu1/improv-os) · [官网](https://os.fzhiyu.dev) · 个人维护 · 中文 README
 
 **每个应用都由 AI 现场生成的 macOS 风格网页 OS**
 

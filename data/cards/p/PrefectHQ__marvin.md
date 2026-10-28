@@ -1,6 +1,6 @@
 # PrefectHQ/marvin
 
-⭐ 6,207 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PrefectHQ/marvin) · [官网](https://marvin.mintlify.app) · 组织维护
+⭐ 6,206 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PrefectHQ/marvin) · [官网](https://marvin.mintlify.app) · 组织维护
 
 **构建 AI agent 工作流与结构化输出的 Python 框架**
 

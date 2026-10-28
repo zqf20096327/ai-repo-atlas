@@ -1,6 +1,6 @@
 # kingcharleslzy-ai/dsh-qwen-studio
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) · [官网](https://github.com/kingcharleslzy-ai/dsh-qwen-studio#readme) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/kingcharleslzy-ai/dsh-qwen-studio) · [官网](https://github.com/kingcharleslzy-ai/dsh-qwen-studio#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Qwen Image 2.1 本机生图/改图插件**
 

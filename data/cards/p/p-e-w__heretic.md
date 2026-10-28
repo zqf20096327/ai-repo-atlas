@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-⭐ 36,692 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
+⭐ 36,962 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
 
 **自动去除语言模型审查（abliteration）的命令行工具**
 

@@ -1,6 +1,6 @@
 # traccia-ai/traccia-py
 
-⭐ 127 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/traccia-ai/traccia-py) · [官网](https://traccia.ai/) · 组织维护
+⭐ 128 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/traccia-ai/traccia-py) · [官网](https://traccia.ai/) · 组织维护
 
 **AI agent 可观测与治理 SDK：追踪、评测、运行时策略执行**
 

@@ -1,6 +1,6 @@
 # 1nn0k3sh4/GigaChat-Prompt-Jailbreak
 
-⭐ 29 · MIT · 推送 2025-12-27 · [GitHub](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) · 个人维护
+⭐ 30 · MIT · 推送 2025-12-27 · [GitHub](https://github.com/1nn0k3sh4/GigaChat-Prompt-Jailbreak) · 个人维护
 
 **GigaChat 内容过滤器绕过漏洞的技术研究报告**
 

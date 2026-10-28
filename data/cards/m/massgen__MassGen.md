@@ -1,6 +1,6 @@
 # massgen/MassGen
 
-⭐ 1,144 · Python · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/massgen/MassGen) · [官网](https://docs.massgen.ai) · 组织维护
+⭐ 1,145 · Python · NOASSERTION · 推送 2026-06-12 · [GitHub](https://github.com/massgen/MassGen) · [官网](https://docs.massgen.ai) · 组织维护
 
 **终端多智能体编排系统：多模型并行解题并投票取共识**
 

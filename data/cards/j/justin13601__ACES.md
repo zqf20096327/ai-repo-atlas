@@ -1,6 +1,6 @@
 # justin13601/ACES
 
-⭐ 50 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/justin13601/ACES) · [官网](https://eventstreamaces.readthedocs.io/en/latest/) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/justin13601/ACES) · [官网](https://eventstreamaces.readthedocs.io/en/latest/) · 个人维护
 
 **从事件流 EHR 数据中按 YAML 配置提取任务队列的 Python 库**
 

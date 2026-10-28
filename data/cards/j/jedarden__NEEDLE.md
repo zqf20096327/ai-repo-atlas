@@ -1,6 +1,6 @@
 # jedarden/NEEDLE
 
-⭐ 31 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jedarden/NEEDLE) · [官网](https://jedarden.com/projects/needle/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jedarden/NEEDLE) · [官网](https://jedarden.com/projects/needle/) · 个人维护
 
 **面向无头编码 CLI agent 的确定性队列编排器**
 

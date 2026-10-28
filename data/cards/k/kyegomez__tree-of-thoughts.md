@@ -1,6 +1,6 @@
 # kyegomez/tree-of-thoughts
 
-⭐ 4,594 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kyegomez/tree-of-thoughts) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
+⭐ 4,593 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/kyegomez/tree-of-thoughts) · [官网](https://discord.gg/qUtxnK2NMf) · 个人维护
 
 **Tree of Thoughts 推理搜索的即插即用实现**
 

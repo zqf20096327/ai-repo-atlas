@@ -1,6 +1,6 @@
 # hAcKlyc/MyAgents
 
-⭐ 585 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/hAcKlyc/MyAgents) · [官网](https://myagents.io) · 组织维护 · 中文 README
+⭐ 584 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/hAcKlyc/MyAgents) · [官网](https://myagents.io) · 组织维护 · 中文 README
 
 **本地优先的 Agent 桌面工作台与任务系统，供个人跨设备调度 Agent**
 

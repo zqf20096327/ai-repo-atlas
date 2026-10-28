@@ -1,6 +1,6 @@
 # ZHYsfl/ai-whys
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ZHYsfl/ai-whys) · 个人维护 · 中文 README
+⭐ 120 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ZHYsfl/ai-whys) · 个人维护 · 中文 README
 
 **深度学习与强化学习学习路线：39 个从零实现实验配推导笔记**
 

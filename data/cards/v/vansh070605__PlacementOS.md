@@ -1,6 +1,6 @@
 # vansh070605/PlacementOS
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vansh070605/PlacementOS) · [官网](https://placementosai.vercel.app/) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vansh070605/PlacementOS) · [官网](https://placementosai.vercel.app/) · 个人维护
 
 **本地优先的 AI 求职指挥中心：多 Agent 分析代码与市场助力求职**
 

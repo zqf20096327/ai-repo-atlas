@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/OpenResearcher
 
-⭐ 1,264 · Python · 推送 2026-06-10 · [GitHub](https://github.com/TIGER-AI-Lab/OpenResearcher) · [官网](https://github.com/TIGER-AI-Lab/OpenResearcher) · 组织维护 · 中文 README
+⭐ 1,263 · Python · 推送 2026-06-10 · [GitHub](https://github.com/TIGER-AI-Lab/OpenResearcher) · [官网](https://github.com/TIGER-AI-Lab/OpenResearcher) · 组织维护 · 中文 README
 
 **面向长程深度研究的开源 agentic LLM（30B-A3B）及全流程配方**
 

@@ -1,6 +1,6 @@
 # SAP-samples/ai-core-samples
 
-⭐ 101 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/SAP-samples/ai-core-samples) · 组织维护
+⭐ 102 · Jupyter Notebook · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/SAP-samples/ai-core-samples) · 组织维护
 
 **SAP AI Core 官方示例：notebook 与工作流模板集合**
 

@@ -1,6 +1,6 @@
 # BerriAI/litellm-pgvector
 
-⭐ 89 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/BerriAI/litellm-pgvector) · 组织维护
+⭐ 90 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/BerriAI/litellm-pgvector) · 组织维护
 
 **基于 PGVector 的 OpenAI 兼容向量存储 API 服务，供开发者自建向量库**
 

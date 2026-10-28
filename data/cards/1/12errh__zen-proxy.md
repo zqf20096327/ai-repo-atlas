@@ -1,6 +1,6 @@
 # 12errh/zen-proxy
 
-⭐ 111 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/12errh/zen-proxy) · 个人维护
+⭐ 118 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/12errh/zen-proxy) · 个人维护
 
 **让任意编程 agent 使用 OpenCode Zen 免费模型的本地代理**
 

@@ -1,6 +1,6 @@
 # simonlin1212/Vibe-Research
 
-⭐ 3,111 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
+⭐ 3,355 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
 
 **面向个人投资者的 A股/美股/港股本地投研工作台**
 

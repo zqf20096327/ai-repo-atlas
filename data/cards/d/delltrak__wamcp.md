@@ -1,6 +1,6 @@
 # delltrak/wamcp
 
-⭐ 26 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/delltrak/wamcp) · 个人维护
+⭐ 26 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/delltrak/wamcp) · 个人维护
 
 **让 AI agent 通过 MCP 接入 WhatsApp 的服务器**
 

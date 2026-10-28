@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Heart-Disease-Prediction
 
-⭐ 26 · Jupyter Notebook · 推送 2026-09-08 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Heart-Disease-Prediction) · [官网](https://heart-disease-prediction07.streamlit.app/) · 个人维护
+⭐ 27 · Jupyter Notebook · 推送 2026-09-08 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Heart-Disease-Prediction) · [官网](https://heart-disease-prediction07.streamlit.app/) · 个人维护
 
 **基于 Random Forest 的心脏病风险预测 Streamlit 应用**
 

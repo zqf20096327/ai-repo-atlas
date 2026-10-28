@@ -1,6 +1,6 @@
 # ai-prompts/prompt-lists
 
-⭐ 82 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ai-prompts/prompt-lists) · [官网](https://prompter.fofr.ai) · 个人维护
+⭐ 82 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ai-prompts/prompt-lists) · [官网](https://prompter.fofr.ai) · 个人维护
 
 **为 AI 图像与媒体生成提供分类词汇列表的 npm 包**
 

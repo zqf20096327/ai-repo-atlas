@@ -1,6 +1,6 @@
 # ilkruglov/developing-ai-agents-skill
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/ilkruglov/developing-ai-agents-skill) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/ilkruglov/developing-ai-agents-skill) · 个人维护
 
 **基于 Bojie Li 著作的 AI 代理设计/调试/评测技能插件**
 

@@ -1,6 +1,6 @@
 # limix-ldm-ai/LimiX
 
-⭐ 4,399 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/limix-ldm-ai/LimiX) · [官网](https://www.limix.ai) · 组织维护 · 中文 README
+⭐ 4,399 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/limix-ldm-ai/LimiX) · [官网](https://www.limix.ai) · 组织维护 · 中文 README
 
 **结构化数据（表格）基础模型：单模型完成分类/回归/缺失值填补**
 

@@ -1,6 +1,6 @@
 # amagimedia/avplumber
 
-⭐ 50 · C++ · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/amagimedia/avplumber) · 组织维护
+⭐ 50 · C++ · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/amagimedia/avplumber) · 组织维护
 
 **基于 FFmpeg/libav 的实时流媒体处理图框架，支持动态重配**
 

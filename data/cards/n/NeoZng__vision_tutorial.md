@@ -1,6 +1,6 @@
 # NeoZng/vision_tutorial
 
-⭐ 387 · Shell · MIT · 推送 2026-08-23 · [GitHub](https://github.com/NeoZng/vision_tutorial) · 个人维护 · 中文 README
+⭐ 388 · Shell · MIT · 推送 2026-08-23 · [GitHub](https://github.com/NeoZng/vision_tutorial) · 个人维护 · 中文 README
 
 **计算机视觉与 RoboMaster 入门教程及 OpenCV 练习代码仓库**
 

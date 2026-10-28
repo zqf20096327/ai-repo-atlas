@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-mcp
 
-⭐ 308 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Comfy-Org/comfy-mcp) · 组织维护
+⭐ 310 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Comfy-Org/comfy-mcp) · 组织维护
 
 **让 AI agent 通过 MCP 驱动本地 ComfyUI 的服务器**
 

@@ -1,6 +1,6 @@
 # Orion-zhen/abliteration
 
-⭐ 191 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Orion-zhen/abliteration) · 个人维护
+⭐ 192 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Orion-zhen/abliteration) · 个人维护
 
 **用 transformers 计算并移除 LLM 拒绝方向的模型修改工具**
 

@@ -1,6 +1,6 @@
 # uav4geo/GeoDeep
 
-⭐ 516 · Python · AGPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/uav4geo/GeoDeep) · 组织维护
+⭐ 517 · Python · AGPL-3.0 · 推送 2026-05-13 · [GitHub](https://github.com/uav4geo/GeoDeep) · 组织维护
 
 **对地理空间栅格做目标检测与语义分割的 Python 库**
 

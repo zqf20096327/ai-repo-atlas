@@ -1,6 +1,6 @@
 # CommonstackAI/TwinRouterBench
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/CommonstackAI/TwinRouterBench) · [官网](https://commonstackai.github.io/TwinRouterBench/) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CommonstackAI/TwinRouterBench) · [官网](https://commonstackai.github.io/TwinRouterBench/) · 组织维护
 
 **逐步 LLM 路由基准：静态标签+动态 SWE-bench 评测与排行榜**
 

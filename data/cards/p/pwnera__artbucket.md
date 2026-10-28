@@ -1,6 +1,6 @@
 # pwnera/artbucket
 
-⭐ 28 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pwnera/artbucket) · [官网](https://artbucket.io) · 组织维护
+⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pwnera/artbucket) · [官网](https://artbucket.io) · 组织维护
 
 **自托管开源品牌资产管理系统，供团队与 AI agent 统一读取**
 

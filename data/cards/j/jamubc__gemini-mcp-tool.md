@@ -1,6 +1,6 @@
 # jamubc/gemini-mcp-tool
 
-⭐ 2,293 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/jamubc/gemini-mcp-tool) · [官网](https://jamubc.github.io/gemini-mcp-tool/) · 个人维护
+⭐ 2,292 · TypeScript · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/jamubc/gemini-mcp-tool) · [官网](https://jamubc.github.io/gemini-mcp-tool/) · 个人维护
 
 **让 AI 助手通过 MCP 调用 Gemini/Antigravity CLI 的服务器**
 

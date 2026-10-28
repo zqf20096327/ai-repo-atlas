@@ -1,6 +1,6 @@
 # GokuMohandas/Made-With-ML
 
-⭐ 49,831 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
+⭐ 49,838 · Jupyter Notebook · MIT · 推送 2026-03-04 · [GitHub](https://github.com/GokuMohandas/Made-With-ML) · [官网](https://madewithml.com) · 个人维护
 
 **面向开发者的生产级 ML/MLOps 应用开发课程**
 

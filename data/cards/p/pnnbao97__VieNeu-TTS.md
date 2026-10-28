@@ -1,6 +1,6 @@
 # pnnbao97/VieNeu-TTS
 
-⭐ 3,007 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pnnbao97/VieNeu-TTS) · [官网](https://www.vieneu.io) · 个人维护
+⭐ 3,021 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pnnbao97/VieNeu-TTS) · [官网](https://www.vieneu.io) · 个人维护
 
 **越南语设备端 TTS：即时声音克隆、实时流式合成**
 

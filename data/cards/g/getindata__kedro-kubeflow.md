@@ -1,6 +1,6 @@
 # getindata/kedro-kubeflow
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/getindata/kedro-kubeflow) · [官网](https://kedro-kubeflow.readthedocs.io) · 组织维护
 
 **将 Kedro 工作流翻译并部署到 Kubeflow Pipelines 的插件**
 
@@ -11,7 +11,7 @@ Kedro 插件，把 Kedro pipeline DSL 翻译为 Kubeflow Pipelines SDK（kfp）�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

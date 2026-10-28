@@ -1,6 +1,6 @@
 # machinesoul11/anti-sycophant-ai-agent-skills
 
-⭐ 33 · MIT · 推送 2026-07-20 · [GitHub](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills) · 个人维护
+⭐ 34 · MIT · 推送 2026-07-20 · [GitHub](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills) · 个人维护
 
 **三个让 AI 助手不再默认附和的产品创意检验技能**
 

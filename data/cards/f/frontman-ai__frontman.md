@@ -1,6 +1,6 @@
 # frontman-ai/frontman
 
-⭐ 720 · ReScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/frontman-ai/frontman) · [官网](https://frontman.sh) · 组织维护
+⭐ 720 · ReScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/frontman-ai/frontman) · [官网](https://frontman.sh) · 组织维护
 
 **浏览器内 AI 编码 agent：点击页面元素用自然语言改前端源码**
 

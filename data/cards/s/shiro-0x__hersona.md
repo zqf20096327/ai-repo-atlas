@@ -1,6 +1,6 @@
 # shiro-0x/hersona
 
-⭐ 55 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/shiro-0x/hersona) · [官网](https://shiro-0x.github.io/hersona/) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/shiro-0x/hersona) · [官网](https://shiro-0x.github.io/hersona/) · 个人维护 · 中文 README
 
 **AI agent 人格模板库：346 个可组合角色属性，一次构建多端移植**
 

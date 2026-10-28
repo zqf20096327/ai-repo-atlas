@@ -1,6 +1,6 @@
 # SentryPeer/SentryPeerHQ
 
-⭐ 24 · Elixir · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/SentryPeer/SentryPeerHQ) · [官网](https://sentrypeer.com) · 组织维护
+⭐ 24 · Elixir · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/SentryPeer/SentryPeerHQ) · [官网](https://sentrypeer.com) · 组织维护
 
 **管理 SentryPeer 节点数据的 Web 应用与 API（VoIP 欺诈检测）**
 

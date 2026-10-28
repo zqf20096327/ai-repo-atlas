@@ -1,6 +1,6 @@
 # outcrawlai/scout
 
-⭐ 941 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
+⭐ 946 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/outcrawlai/scout) · [官网](https://outcrawl.ai) · 组织维护
 
 **开源浏览器代理：用自然语言任务驱动真实浏览器完成操作**
 

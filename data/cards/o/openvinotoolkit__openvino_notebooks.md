@@ -1,6 +1,6 @@
 # openvinotoolkit/openvino_notebooks
 
-⭐ 3,231 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openvinotoolkit/openvino_notebooks) · [官网](https://openvinotoolkit.github.io/openvino_notebooks/) · 组织维护 · 中文 README
+⭐ 3,232 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openvinotoolkit/openvino_notebooks) · [官网](https://openvinotoolkit.github.io/openvino_notebooks/) · 组织维护 · 中文 README
 
 **OpenVINO 工具包的 Jupyter 教程笔记本合集**
 

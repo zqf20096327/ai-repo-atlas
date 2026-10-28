@@ -1,6 +1,6 @@
 # zc-xzc/embodied-ai-learning-handbook
 
-⭐ 66 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zc-xzc/embodied-ai-learning-handbook) · 个人维护 · 中文 README
+⭐ 67 · NOASSERTION · 推送 2026-08-15 · [GitHub](https://github.com/zc-xzc/embodied-ai-learning-handbook) · 个人维护 · 中文 README
 
 **具身智能系统性学习手册：17 目录 69 篇文档与 1800+ 资源**
 

@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Gym
 
-⭐ 1,295 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
+⭐ 1,301 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
 
 **评测与训练模型/智能体的环境库**
 

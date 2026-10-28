@@ -1,6 +1,6 @@
 # kevinnie2003/LOMAssistant
 
-⭐ 96 · C# · 推送 2026-10-27 · [GitHub](https://github.com/kevinnie2003/LOMAssistant) · 个人维护 · 中文 README
+⭐ 102 · C# · 推送 2026-10-28 · [GitHub](https://github.com/kevinnie2003/LOMAssistant) · 个人维护 · 中文 README
 
 **《活侠传》全能游戏 Mod：AI 陪玩、剧情回顾与存档优化**
 

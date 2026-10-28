@@ -1,6 +1,6 @@
 # TykTechnologies/tyk
 
-⭐ 10,870 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
+⭐ 10,870 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/TykTechnologies/tyk) · [官网](https://tyk.io/docs/getting-started/quick-start) · 组织维护
 
 **云原生开源 API 与 AI 网关：管理 REST/GraphQL/gRPC/MCP 流量**
 

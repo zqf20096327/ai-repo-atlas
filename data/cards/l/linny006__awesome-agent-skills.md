@@ -1,6 +1,6 @@
 # linny006/awesome-agent-skills
 
-⭐ 44 · Python · 推送 2026-10-27 · [GitHub](https://github.com/linny006/awesome-agent-skills) · 个人维护 · 中文 README
+⭐ 45 · Python · 推送 2026-10-28 · [GitHub](https://github.com/linny006/awesome-agent-skills) · 个人维护 · 中文 README
 
 **自动更新的 AI agent 技能策展清单（GitHub 每15分钟刷新）**
 

@@ -1,6 +1,6 @@
 # kenqia/bilibili-drum-score-to-pdf
 
-⭐ 25 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kenqia/bilibili-drum-score-to-pdf) · [官网](https://drum.kenqia.top) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kenqia/bilibili-drum-score-to-pdf) · [官网](https://drum.kenqia.top) · 个人维护 · 中文 README
 
 **把B站滚动鼓谱视频拼接为可打印A4 PDF的网页工具**
 

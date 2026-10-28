@@ -1,6 +1,6 @@
 # KMnO4-zx/paper-insight
 
-⭐ 138 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/KMnO4-zx/paper-insight) · [官网](https://paper-insight.herobase.tech/) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/KMnO4-zx/paper-insight) · [官网](https://paper-insight.herobase.tech/) · 个人维护 · 中文 README
 
 **帮研究者快速初筛 AI 会议论文并管理精读候选的工具**
 

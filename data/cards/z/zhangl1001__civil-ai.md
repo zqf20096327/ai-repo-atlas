@@ -1,6 +1,6 @@
 # zhangl1001/civil-ai
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zhangl1001/civil-ai) · [官网](https://github.com/zhangl1001/civil-ai/releases/latest) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zhangl1001/civil-ai) · [官网](https://github.com/zhangl1001/civil-ai/releases/latest) · 个人维护 · 中文 README
 
 **面向 iOS/Web 的本地优先自适应教育 Agent 基础框架**
 

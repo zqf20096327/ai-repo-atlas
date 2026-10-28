@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Linear
 
-⭐ 1,623 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Linear) · 组织维护 · 中文 README
+⭐ 1,624 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Linear) · 组织维护 · 中文 README
 
 **月之暗面开源的混合线性注意力架构模型（48B/A3B）**
 

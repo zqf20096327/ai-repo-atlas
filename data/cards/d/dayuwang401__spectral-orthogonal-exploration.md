@@ -1,6 +1,6 @@
 # dayuwang401/spectral-orthogonal-exploration
 
-⭐ 84 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/dayuwang401/spectral-orthogonal-exploration) · [官网](https://aclanthology.org/2026.acl-long.761.pdf) · 组织维护
+⭐ 94 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/dayuwang401/spectral-orthogonal-exploration) · [官网](https://aclanthology.org/2026.acl-long.761.pdf) · 组织维护
 
 **ACL 2026 论文官方代码：训练无关的推理时扩展方法 SOE**
 

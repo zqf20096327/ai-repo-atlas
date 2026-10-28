@@ -1,6 +1,6 @@
 # youngfish42/Awesome-FL
 
-⭐ 2,022 · Python · CC-BY-SA-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/youngfish42/Awesome-FL) · [官网](https://youngfish42.github.io/Awesome-FL) · 个人维护 · 中文 README
+⭐ 2,020 · Python · CC-BY-SA-4.0 · 推送 2026-10-18 · [GitHub](https://github.com/youngfish42/Awesome-FL) · [官网](https://youngfish42.github.io/Awesome-FL) · 个人维护 · 中文 README
 
 **联邦学习学术资源清单：论文、框架、数据集与教程汇总**
 

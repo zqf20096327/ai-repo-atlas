@@ -1,6 +1,6 @@
 # liyupi/ai-desktop-outfit-video
 
-⭐ 55 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/liyupi/ai-desktop-outfit-video) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/liyupi/ai-desktop-outfit-video) · 个人维护 · 中文 README
 
 **AI 桌面换装视频的提示词模板与 Agent Skill 教程仓库**
 

@@ -1,6 +1,6 @@
 # kunwarVivek/mcp-github-project-manager
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/kunwarVivek/mcp-github-project-manager) · [官网](https://github.com/kunwarVivek/mcp-github-project-manager#readme) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kunwarVivek/mcp-github-project-manager) · [官网](https://github.com/kunwarVivek/mcp-github-project-manager#readme) · 个人维护
 
 **面向 AI 编码代理的 GitHub 项目管理 MCP 服务器**
 

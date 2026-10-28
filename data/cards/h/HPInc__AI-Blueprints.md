@@ -1,6 +1,6 @@
 # HPInc/AI-Blueprints
 
-⭐ 216 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HPInc/AI-Blueprints) · [官网](https://hp.com/ai-studio) · 组织维护
+⭐ 217 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HPInc/AI-Blueprints) · [官网](https://hp.com/ai-studio) · 组织维护
 
 **HP 维护的本地 AI 蓝图项目集：20+ 端到端示例工程**
 

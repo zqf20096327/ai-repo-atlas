@@ -1,6 +1,6 @@
 # maximilien/weave-cli
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 35 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/maximilien/weave-cli) · [官网](https://github.com/maximilien/weave-cli) · 个人维护
 
 **管理多种向量数据库的通用 CLI：查看/建删/搜索集合与文档**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

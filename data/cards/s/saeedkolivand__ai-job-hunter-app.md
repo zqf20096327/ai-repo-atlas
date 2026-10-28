@@ -1,6 +1,6 @@
 # saeedkolivand/ai-job-hunter-app
 
-⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/saeedkolivand/ai-job-hunter-app) · [官网](https://aijobhunter.app) · 个人维护
+⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/saeedkolivand/ai-job-hunter-app) · [官网](https://aijobhunter.app) · 个人维护
 
 **求职者用的本地优先 AI 桌面助手：抓取职位、匹配简历、生成简历与求职信**
 

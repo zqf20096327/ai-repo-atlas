@@ -1,6 +1,6 @@
 # jagoff/memo
 
-⭐ 24 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jagoff/memo) · [官网](https://memo-web-sigma.vercel.app) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jagoff/memo) · [官网](https://memo-web-sigma.vercel.app) · 个人维护
 
 **给编码 agent 用的本地持久记忆：MCP 服务，Markdown 为真源**
 

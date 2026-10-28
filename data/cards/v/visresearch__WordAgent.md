@@ -1,6 +1,6 @@
 # visresearch/WordAgent
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/visresearch/WordAgent) · [官网](https://visresearch.github.io/WordAgent/) · 组织维护 · 中文 README
+⭐ 156 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/visresearch/WordAgent) · [官网](https://visresearch.github.io/WordAgent/) · 组织维护 · 中文 README
 
 **面向 WPS 与 Word 的 AI 智能体写作辅助加载项系统**
 

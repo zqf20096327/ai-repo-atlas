@@ -1,6 +1,6 @@
 # eunomia-bpf/agentsight
 
-⭐ 756 · C · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eunomia-bpf/agentsight) · [官网](https://eunomia.dev/agentsight/) · 组织维护 · 中文 README
+⭐ 762 · C · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eunomia-bpf/agentsight) · [官网](https://eunomia.dev/agentsight/) · 组织维护 · 中文 README
 
 **面向开发者的 eBPF 系统级 AI agent 监控剖析工具**
 

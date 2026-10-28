@@ -1,6 +1,6 @@
 # anthropics/claude-for-financial-advisors
 
-⭐ 121 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/claude-for-financial-advisors) · 组织维护
+⭐ 124 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anthropics/claude-for-financial-advisors) · 组织维护
 
 **面向财务顾问的 Claude Cowork 插件：8 个即用工作流**
 

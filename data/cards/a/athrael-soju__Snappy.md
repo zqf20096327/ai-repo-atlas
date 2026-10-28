@@ -1,6 +1,6 @@
 # athrael-soju/Snappy
 
-⭐ 91 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/athrael-soju/Snappy) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/athrael-soju/Snappy) · 个人维护
 
 **区域级文档检索系统：ColPali 相关性传播过滤 OCR 区域**
 

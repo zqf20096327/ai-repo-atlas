@@ -1,6 +1,6 @@
 # deepseek-ai/DeepInfer
 
-⭐ 23,365 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepseek-ai/DeepInfer) · 组织维护 · 中文 README
+⭐ 23,868 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepseek-ai/DeepInfer) · 组织维护 · 中文 README
 
 **DeepSeek 模型的高性能大规模推理框架**
 

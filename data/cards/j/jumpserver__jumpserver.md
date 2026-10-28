@@ -1,6 +1,6 @@
 # jumpserver/jumpserver
 
-⭐ 31,838 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
+⭐ 31,846 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/jumpserver/jumpserver) · [官网](https://jumpserver.com) · 组织维护 · 中文 README
 
 **为 DevOps/IT 团队提供带 AI 能力的开源堡垒机（PAM）平台**
 

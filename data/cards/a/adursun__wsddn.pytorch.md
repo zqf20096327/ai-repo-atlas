@@ -1,6 +1,6 @@
 # adursun/wsddn.pytorch
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/adursun/wsddn.pytorch) · 个人维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/adursun/wsddn.pytorch) · 个人维护
 
 **弱监督深度检测网络 WSDDN 的 PyTorch 复现，供科研使用**
 

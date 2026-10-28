@@ -1,6 +1,6 @@
 # ciri/comfyui-model-downloader
 
-⭐ 130 · Python · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/ciri/comfyui-model-downloader) · 个人维护
+⭐ 131 · Python · AGPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/ciri/comfyui-model-downloader) · 个人维护
 
 **ComfyUI 自定义节点：在画布内从 Hugging Face/CivitAI 下载模型**
 

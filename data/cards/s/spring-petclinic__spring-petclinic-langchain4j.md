@@ -1,6 +1,6 @@
 # spring-petclinic/spring-petclinic-langchain4j
 
-⭐ 26 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-langchain4j) · 组织维护
+⭐ 26 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-langchain4j) · 组织维护
 
 **Spring PetClinic 示例：演示在 Java 应用中集成 LangChain4j 聊天机器人**
 

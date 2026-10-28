@@ -1,6 +1,6 @@
 # XieWxx/maxhub-api-skills
 
-⭐ 60 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/XieWxx/maxhub-api-skills) · [官网](https://www.aconfig.cn) · 组织维护 · 中文 README
+⭐ 61 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/XieWxx/maxhub-api-skills) · [官网](https://www.aconfig.cn) · 组织维护 · 中文 README
 
 **给 AI Agent 接入 20 个平台数据的技能集（984 端点）**
 

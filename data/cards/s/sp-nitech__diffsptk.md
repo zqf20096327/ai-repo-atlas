@@ -1,6 +1,6 @@
 # sp-nitech/diffsptk
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/sp-nitech/diffsptk) · [官网](http://sp-tk.sourceforge.net) · 组织维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sp-nitech/diffsptk) · [官网](http://sp-tk.sourceforge.net) · 组织维护
 
 **可微分语音信号处理工具库：SPTK 的 PyTorch 实现**
 

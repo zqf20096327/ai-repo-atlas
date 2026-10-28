@@ -1,6 +1,6 @@
 # rocketride-org/rocketride-server
 
-⭐ 17,751 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
+⭐ 18,426 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rocketride-org/rocketride-server) · 组织维护
 
 **在 IDE 中构建、调试和部署 AI/LLM 管线的开源引擎**
 

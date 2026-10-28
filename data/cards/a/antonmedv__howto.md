@@ -1,6 +1,6 @@
 # antonmedv/howto
 
-⭐ 121 · Go · MIT · 推送 2026-01-29 · [GitHub](https://github.com/antonmedv/howto) · 个人维护
+⭐ 122 · Go · MIT · 推送 2026-01-29 · [GitHub](https://github.com/antonmedv/howto) · 个人维护
 
 **终端助手：按键调用 LLM 生成并填入正确命令**
 

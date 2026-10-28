@@ -1,6 +1,6 @@
 # DevXDojo/MrRSS
 
-⭐ 2,607 · Go · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/DevXDojo/MrRSS) · [官网](https://mrrss.ch3nyang.top/) · 组织维护 · 中文 README
+⭐ 2,609 · Go · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/DevXDojo/MrRSS) · [官网](https://mrrss.ch3nyang.top/) · 组织维护 · 中文 README
 
 **带 AI 翻译与摘要的跨平台桌面 RSS 阅读器**
 

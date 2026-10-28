@@ -1,6 +1,6 @@
 # omnesis-dev/Omnesis
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/omnesis-dev/Omnesis) · [官网](https://omnesis.dev) · 组织维护
+⭐ 44 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/omnesis-dev/Omnesis) · [官网](https://omnesis.dev) · 组织维护
 
 **自托管个人全数据索引与搜索系统：聚合40+来源供混合检索与问答**
 

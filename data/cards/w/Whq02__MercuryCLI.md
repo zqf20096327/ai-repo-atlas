@@ -1,6 +1,6 @@
 # Whq02/MercuryCLI
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Whq02/MercuryCLI) · [官网](https://mercury-cli.ai) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Whq02/MercuryCLI) · [官网](https://mercury-cli.ai) · 个人维护 · 中文 README
 
 **终端原生的 AI 编码代理环境：多会话多模型并行开发**
 

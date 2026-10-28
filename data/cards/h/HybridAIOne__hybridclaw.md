@@ -1,6 +1,6 @@
 # HybridAIOne/hybridclaw
 
-⭐ 159 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/HybridAIOne/hybridclaw) · [官网](https://www.hybridclaw.io/) · 组织维护
+⭐ 159 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HybridAIOne/hybridclaw) · [官网](https://www.hybridclaw.io/) · 组织维护
 
 **面向企业的自托管 AI 助手运行时，带沙箱与审批**
 

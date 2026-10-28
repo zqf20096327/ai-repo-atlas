@@ -1,6 +1,6 @@
 # ericwang915/HerAndHim
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/ericwang915/HerAndHim) · 个人维护 · 中文 README
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/ericwang915/HerAndHim) · 个人维护 · 中文 README
 
 **自托管 AI 男/女友伴侣：模拟日常作息、长期记忆、同一张脸的自拍**
 

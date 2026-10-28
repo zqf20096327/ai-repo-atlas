@@ -1,6 +1,6 @@
 # ROCm/AMDMIGraphX
 
-⭐ 337 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ROCm/AMDMIGraphX) · [官网](https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/) · 组织维护
+⭐ 337 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ROCm/AMDMIGraphX) · [官网](https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/) · 组织维护
 
 **AMD GPU 机器学习模型推理加速的图优化引擎**
 

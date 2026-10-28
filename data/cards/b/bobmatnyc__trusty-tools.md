@@ -1,6 +1,6 @@
 # bobmatnyc/trusty-tools
 
-⭐ 22 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bobmatnyc/trusty-tools) · [官网](https://trustytools.dev) · 个人维护
+⭐ 22 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bobmatnyc/trusty-tools) · [官网](https://trustytools.dev) · 个人维护
 
 **Rust 编写的 AI 开发者工具集：代码搜索、记忆、分析、PR 审查与多 agent 编排**
 

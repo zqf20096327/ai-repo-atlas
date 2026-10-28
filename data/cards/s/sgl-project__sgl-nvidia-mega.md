@@ -1,6 +1,6 @@
 # sgl-project/sgl-nvidia-mega
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sgl-project/sgl-nvidia-mega) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sgl-nvidia-mega) · 组织维护
 
 **SGLang 的 NVIDIA megakernel 插件：加速小批量 decode 步**
 

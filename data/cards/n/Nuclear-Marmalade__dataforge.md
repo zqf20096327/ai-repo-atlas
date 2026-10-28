@@ -1,6 +1,6 @@
 # Nuclear-Marmalade/dataforge
 
-⭐ 58 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Nuclear-Marmalade/dataforge) · [官网](https://nuclearmarmalade.com) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nuclear-Marmalade/dataforge) · [官网](https://nuclearmarmalade.com) · 个人维护
 
 **开源企业数据富化引擎：用免费数据源和本地 AI 补全企业信息**
 

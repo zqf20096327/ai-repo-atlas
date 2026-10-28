@@ -1,6 +1,6 @@
 # aipoch/medical-research-skills
 
-⭐ 1,993 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/aipoch/medical-research-skills) · [官网](https://aipoch.com/agent-skills) · 组织维护
+⭐ 1,996 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/aipoch/medical-research-skills) · [官网](https://aipoch.com/agent-skills) · 组织维护
 
 **面向医学研究的 agent 技能库：550+ 条 SKILL.md 技能**
 

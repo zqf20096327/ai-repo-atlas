@@ -1,6 +1,6 @@
 # pingcap/pytidb
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/pingcap/pytidb) · [官网](https://docs.pingcap.com/ai) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/pingcap/pytidb) · [官网](https://docs.pingcap.com/ai) · 组织维护
 
 **面向 AI 应用的 TiDB Python SDK：统一向量/全文/混合检索数据层**
 

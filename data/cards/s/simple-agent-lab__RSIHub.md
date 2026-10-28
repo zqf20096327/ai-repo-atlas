@@ -1,6 +1,6 @@
 # simple-agent-lab/RSIHub
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/simple-agent-lab/RSIHub) · 组织维护 · 中文 README
+⭐ 271 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/simple-agent-lab/RSIHub) · 组织维护 · 中文 README
 
 **Agent 自我改进实验框架：冻结评测器下可审计的演化**
 

@@ -1,6 +1,6 @@
 # Loopera-ai/loopera
 
-⭐ 548 · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Loopera-ai/loopera) · [官网](https://loopera.cn) · 组织维护 · 中文 README
+⭐ 547 · NOASSERTION · 推送 2026-09-21 · [GitHub](https://github.com/Loopera-ai/loopera) · [官网](https://loopera.cn) · 组织维护 · 中文 README
 
 **面向基本面量化团队的研究智能体产品（公开资料仓库，无代码）**
 

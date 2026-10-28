@@ -1,6 +1,6 @@
 # aiptimizer/TurboOCR
 
-⭐ 1,143 · C++ · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aiptimizer/TurboOCR) · [官网](https://turboocr.com) · 组织维护 · 中文 README
+⭐ 1,145 · C++ · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aiptimizer/TurboOCR) · [官网](https://turboocr.com) · 组织维护 · 中文 README
 
 **GPU 文档解析推理服务：OCR/版面/表格/公式转 Markdown**
 

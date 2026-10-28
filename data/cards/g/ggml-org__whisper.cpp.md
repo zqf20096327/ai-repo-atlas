@@ -1,6 +1,6 @@
 # ggml-org/whisper.cpp
 
-⭐ 54,708 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
+⭐ 54,737 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/whisper.cpp) · 组织维护
 
 **在本地多平台离线运行 Whisper 语音识别的 C/C++ 推理实现**
 

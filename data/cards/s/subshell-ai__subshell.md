@@ -1,6 +1,6 @@
 # subshell-ai/subshell
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/subshell-ai/subshell) · [官网](https://subshell.sh) · 组织维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/subshell-ai/subshell) · [官网](https://subshell.sh) · 组织维护
 
 **自托管仪表盘：跨设备访问并管理编码 agent CLI**
 

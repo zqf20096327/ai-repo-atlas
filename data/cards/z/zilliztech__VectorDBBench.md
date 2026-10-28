@@ -1,6 +1,6 @@
 # zilliztech/VectorDBBench
 
-⭐ 1,197 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护
+⭐ 1,197 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zilliztech/VectorDBBench) · [官网](https://zilliz.com/vector-database-benchmark-tool) · 组织维护
 
 **向量数据库性能与成本效益基准测试工具**
 

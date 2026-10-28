@@ -1,6 +1,6 @@
 # docker/docker-agent
 
-⭐ 4,611 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/docker/docker-agent) · [官网](https://docker.github.io/docker-agent/) · 组织维护
+⭐ 4,616 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/docker/docker-agent) · [官网](https://docker.github.io/docker-agent/) · 组织维护
 
 **Docker 官方的 YAML 声明式 AI Agent 构建与运行时**
 

@@ -1,6 +1,6 @@
 # ChanMeng666/archlang
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ChanMeng666/archlang) · [官网](https://archlang.uk/) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChanMeng666/archlang) · [官网](https://archlang.uk/) · 个人维护
 
 **用文本 DSL 编写户型图并编译为 SVG/DXF/PDF 的开源编译器**
 

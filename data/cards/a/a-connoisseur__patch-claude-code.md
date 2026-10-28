@@ -1,6 +1,6 @@
 # a-connoisseur/patch-claude-code
 
-⭐ 48 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/a-connoisseur/patch-claude-code) · 个人维护
+⭐ 48 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/a-connoisseur/patch-claude-code) · 个人维护
 
 **为 Claude Code 发布补丁版二进制：透明显示工具调用与思考流**
 

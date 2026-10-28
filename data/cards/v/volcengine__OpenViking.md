@@ -1,6 +1,6 @@
 # volcengine/OpenViking
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 41,056 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 的上下文数据库：统一记忆、知识与技能**
 
@@ -11,7 +11,7 @@ OpenViking 把 Agent 的知识、记忆与技能统一组织为 `viking://` 虚�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | — |
+| 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

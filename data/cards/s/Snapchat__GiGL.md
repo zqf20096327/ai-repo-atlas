@@ -1,6 +1,6 @@
 # Snapchat/GiGL
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Snapchat/GiGL) · [官网](https://snapchat.github.io/GiGL/) · 组织维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Snapchat/GiGL) · [官网](https://snapchat.github.io/GiGL/) · 组织维护
 
 **面向十亿级图的 GNN 训练与推理框架**
 

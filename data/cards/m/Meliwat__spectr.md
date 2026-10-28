@@ -1,6 +1,6 @@
 # Meliwat/spectr
 
-⭐ 29 · HTML · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Meliwat/spectr) · [官网](https://www.spectr.to) · 个人维护
+⭐ 30 · HTML · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Meliwat/spectr) · [官网](https://www.spectr.to) · 个人维护
 
 **把 iOS 应用录屏转成可直接交给 Claude Code 的 spec.md**
 

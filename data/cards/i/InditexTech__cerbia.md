@@ -1,6 +1,6 @@
 # InditexTech/cerbia
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/InditexTech/cerbia) · [官网](https://inditextech.github.io/cerbia/) · 组织维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/InditexTech/cerbia) · [官网](https://inditextech.github.io/cerbia/) · 组织维护
 
 **面向 AI/LLM 管道的模块化威胁检测库：可配置安全门**
 

@@ -1,6 +1,6 @@
 # lucidrains/titans-pytorch
 
-⭐ 1,999 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/lucidrains/titans-pytorch) · 个人维护
+⭐ 2,001 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/lucidrains/titans-pytorch) · 个人维护
 
 **Titans 神经记忆模块的 PyTorch 非官方实现，供研究者使用**
 

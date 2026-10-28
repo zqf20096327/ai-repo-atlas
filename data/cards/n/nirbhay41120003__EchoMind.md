@@ -1,6 +1,6 @@
 # nirbhay41120003/EchoMind
 
-⭐ 28 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/nirbhay41120003/EchoMind) · [官网](https://echomemory-ui-demo.vercel.app/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/nirbhay41120003/EchoMind) · [官网](https://echomemory-ui-demo.vercel.app/) · 个人维护
 
 **本地优先的语音记忆助手：转写语音并可检索对话问答**
 

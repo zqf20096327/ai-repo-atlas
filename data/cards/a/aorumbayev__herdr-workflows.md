@@ -1,6 +1,6 @@
 # aorumbayev/herdr-workflows
 
-⭐ 37 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aorumbayev/herdr-workflows) · [官网](https://aorumbayev.github.io/herdr-workflows/) · 个人维护
+⭐ 37 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aorumbayev/herdr-workflows) · [官网](https://aorumbayev.github.io/herdr-workflows/) · 个人维护
 
 **herdr 插件：用 YAML 声明重复工作流并从热键启动**
 

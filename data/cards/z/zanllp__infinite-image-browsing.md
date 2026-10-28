@@ -1,6 +1,6 @@
 # zanllp/infinite-image-browsing
 
-⭐ 1,364 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zanllp/infinite-image-browsing) · 个人维护 · 中文 README
+⭐ 1,366 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/zanllp/infinite-image-browsing) · 个人维护 · 中文 README
 
 **面向 AI 绘图用户的图片/视频管理与语义搜索应用**
 

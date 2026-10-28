@@ -1,6 +1,6 @@
 # augustepoiroux/LeanInteract
 
-⭐ 134 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/augustepoiroux/LeanInteract) · [官网](https://augustepoiroux.github.io/LeanInteract/) · 组织维护
+⭐ 135 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/augustepoiroux/LeanInteract) · [官网](https://augustepoiroux.github.io/LeanInteract/) · 组织维护
 
 **通过 Lean REPL 从 Python 交互执行 Lean 4 的接口库**
 

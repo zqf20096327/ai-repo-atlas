@@ -1,6 +1,6 @@
 # danielmonettelli/dotnetmaui-chatgpt-app-oss
 
-⭐ 111 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/danielmonettelli/dotnetmaui-chatgpt-app-oss) · 个人维护
+⭐ 110 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/danielmonettelli/dotnetmaui-chatgpt-app-oss) · 个人维护
 
 **用 .NET MAUI 复刻 ChatGPT 的开源聊天应用**
 

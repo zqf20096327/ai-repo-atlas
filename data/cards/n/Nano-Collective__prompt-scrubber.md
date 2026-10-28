@@ -1,6 +1,6 @@
 # Nano-Collective/prompt-scrubber
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Nano-Collective/prompt-scrubber) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nano-Collective/prompt-scrubber) · 组织维护
 
 **本地优先的提示词脱敏工具：发送云端 LLM 前替换敏感信息**
 

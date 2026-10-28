@@ -1,6 +1,6 @@
 # shy3130/tick-stock-panel
 
-⭐ 6,360 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shy3130/tick-stock-panel) · [官网](https://tsp.shy313.com) · 个人维护 · 中文 README
+⭐ 6,374 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/shy3130/tick-stock-panel) · [官网](https://tsp.shy313.com) · 个人维护 · 中文 README
 
 **自托管 A 股量化工作台：策略+回测+监控+AI 助手**
 

@@ -1,6 +1,6 @@
 # ml-energy/zeus
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ml-energy/zeus) · [官网](https://ml.energy/zeus) · 组织维护
+⭐ 384 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ml-energy/zeus) · [官网](https://ml.energy/zeus) · 组织维护
 
 **深度学习工作负载的能耗测量与优化库**
 

@@ -1,6 +1,6 @@
 # wgpsec/redc
 
-⭐ 199 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/wgpsec/redc) · [官网](https://redc.wgpsec.org) · 组织维护 · 中文 README
+⭐ 198 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/wgpsec/redc) · [官网](https://redc.wgpsec.org) · 组织维护 · 中文 README
 
 **红队多云基础设施自动化部署工具，带 GUI 与 AI 助手**
 

@@ -1,6 +1,6 @@
 # AlephantAI/AIephant-AI-Agent-Gateway
 
-⭐ 114 · Rust · GPL-3.0 · 推送 2026-06-12 · [GitHub](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) · [官网](https://alephant.io) · 组织维护 · 中文 README
+⭐ 116 · Rust · GPL-3.0 · 推送 2026-06-12 · [GitHub](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) · [官网](https://alephant.io) · 组织维护 · 中文 README
 
 **自托管/托管的 OpenAI 兼容 AI 网关：路由、管控与观测多提供商 LLM 流量**
 

@@ -1,6 +1,6 @@
 # sublang-ai/slc
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sublang-ai/slc) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sublang-ai/slc) · 组织维护 · 中文 README
 
 **自然语言到状态机的编译器：一段散文生成可运行多 agent 程序**
 

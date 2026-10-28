@@ -1,6 +1,6 @@
 # navado/ESP32MCPServer
 
-⭐ 64 · C++ · MIT · 推送 2026-03-08 · [GitHub](https://github.com/navado/ESP32MCPServer) · 个人维护
+⭐ 65 · C++ · MIT · 推送 2026-03-08 · [GitHub](https://github.com/navado/ESP32MCPServer) · 个人维护
 
 **跑在 ESP32 上的 MCP 服务器，向 AI agent 暴露传感器与总线数据**
 

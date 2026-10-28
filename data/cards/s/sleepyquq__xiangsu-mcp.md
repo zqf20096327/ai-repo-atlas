@@ -1,6 +1,6 @@
 # sleepyquq/xiangsu-mcp
 
-⭐ 19 · JavaScript · 推送 2026-10-08 · [GitHub](https://github.com/sleepyquq/xiangsu-mcp) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sleepyquq/xiangsu-mcp) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 MCP 操作抖音像塑 AR 特效编辑器的服务器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

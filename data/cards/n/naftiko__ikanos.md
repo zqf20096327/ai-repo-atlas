@@ -1,6 +1,6 @@
 # naftiko/ikanos
 
-⭐ 38 · Java · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/naftiko/ikanos) · [官网](https://ikanos.io) · 个人维护
+⭐ 38 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/naftiko/ikanos) · [官网](https://ikanos.io) · 个人维护
 
 **把现有 HTTP API 声明为 YAML 能力并同时暴露 MCP/REST/Skill 的引擎**
 

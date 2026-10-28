@@ -1,6 +1,6 @@
 # huggingface/open-r1
 
-⭐ 26,477 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
+⭐ 26,478 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/open-r1) · 组织维护
 
 **复现 DeepSeek-R1 训练流程的开源项目**
 

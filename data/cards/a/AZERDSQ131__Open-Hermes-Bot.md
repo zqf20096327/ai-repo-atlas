@@ -1,6 +1,6 @@
 # AZERDSQ131/Open-Hermes-Bot
 
-⭐ 44 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/AZERDSQ131/Open-Hermes-Bot) · [官网](https://azerdsq131.github.io/Open-Hermes-Bot/) · 个人维护
+⭐ 45 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AZERDSQ131/Open-Hermes-Bot) · [官网](https://azerdsq131.github.io/Open-Hermes-Bot/) · 个人维护
 
 **连接 Hermes 多 agent 运行时的 macOS 原生聊天界面**
 

@@ -1,6 +1,6 @@
 # earthai-tech/pycsamt
 
-⭐ 44 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/earthai-tech/pycsamt) · [官网](https://pycsamt.org) · 组织维护
+⭐ 43 · Python · LGPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/earthai-tech/pycsamt) · [官网](https://pycsamt.org) · 组织维护
 
 **电磁法地球物理全流程工具包：数据处理到反演与解释**
 

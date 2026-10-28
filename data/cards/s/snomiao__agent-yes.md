@@ -1,6 +1,6 @@
 # snomiao/agent-yes
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/snomiao/agent-yes) · [官网](https://agent-yes.com) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/snomiao/agent-yes) · [官网](https://agent-yes.com) · 个人维护
 
 **AI 编程 CLI 的无人值守运行包装器：自动应答、重试与多 Agent 管理**
 

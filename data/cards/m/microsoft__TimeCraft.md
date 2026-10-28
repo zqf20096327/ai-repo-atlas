@@ -1,6 +1,6 @@
 # microsoft/TimeCraft
 
-⭐ 1,097 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/TimeCraft) · 组织维护
+⭐ 1,097 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/TimeCraft) · 组织维护
 
 **面向真实应用的扩散模型时间序列生成框架**
 

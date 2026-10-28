@@ -1,6 +1,6 @@
 # OEvortex/llm4free
 
-⭐ 376 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 组织维护
+⭐ 377 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 组织维护
 
 **统一 OpenAI 接口聚合 40+ 免费/付费 AI 提供商的 Python 工具包**
 

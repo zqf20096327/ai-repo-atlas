@@ -1,6 +1,6 @@
 # wanshuiyin/HERO-Anti-OverDefense
 
-⭐ 525 · Markdown · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
+⭐ 527 · Markdown · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
 
 **抑制编码 Agent 过度防御的粘贴式规则契约**
 

@@ -1,6 +1,6 @@
 # openaccountant/wilson
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/openaccountant/wilson) · [官网](https://openaccountant.ai) · 组织维护
+⭐ 49 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/openaccountant/wilson) · [官网](https://openaccountant.ai) · 组织维护
 
 **本地优先的 AI 记账 CLI：导入账单、AI 分类、预算与报表**
 

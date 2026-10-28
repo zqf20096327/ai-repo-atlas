@@ -1,6 +1,6 @@
 # mybolide/mcp-probe-kit
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mybolide/mcp-probe-kit) · [官网](https://mcp-probe-kit.bytezonex.com/) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mybolide/mcp-probe-kit) · [官网](https://mcp-probe-kit.bytezonex.com/) · 个人维护 · 中文 README
 
 **面向 Cursor/AI agent 的规范驱动开发 MCP 服务器**
 

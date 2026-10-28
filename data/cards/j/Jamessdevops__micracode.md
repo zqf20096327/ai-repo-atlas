@@ -1,6 +1,6 @@
 # Jamessdevops/micracode
 
-⭐ 295 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Jamessdevops/micracode) · [官网](https://www.micracode.com/) · 个人维护
+⭐ 294 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/Jamessdevops/micracode) · [官网](https://www.micracode.com/) · 个人维护
 
 **本地运行的 AI 网页应用生成器：自然语言描述生成代码**
 

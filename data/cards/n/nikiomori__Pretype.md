@@ -1,6 +1,6 @@
 # nikiomori/Pretype
 
-⭐ 36 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nikiomori/Pretype) · [官网](https://pretype.app) · 个人维护
+⭐ 38 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nikiomori/Pretype) · [官网](https://pretype.app) · 个人维护
 
 **macOS 全系统本地 AI 自动补全：任意文本框中获得 Copilot 式建议**
 

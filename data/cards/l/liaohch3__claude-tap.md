@@ -1,6 +1,6 @@
 # liaohch3/claude-tap
 
-⭐ 3,312 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/liaohch3/claude-tap) · 个人维护 · 中文 README
+⭐ 3,312 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liaohch3/claude-tap) · 个人维护 · 中文 README
 
 **本地代理+追踪查看器：截取并检视 AI 编程 agent 的 API 流量**
 

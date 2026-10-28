@@ -1,6 +1,6 @@
 # socket-link/ampere
 
-⭐ 40 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/socket-link/ampere) · 组织维护
+⭐ 40 · Kotlin · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/socket-link/ampere) · 组织维护
 
 **Kotlin 多平台 AI agent 框架：每个决策发出可查询事件**
 

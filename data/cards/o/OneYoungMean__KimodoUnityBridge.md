@@ -1,6 +1,6 @@
 # OneYoungMean/KimodoUnityBridge
 
-⭐ 111 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge) · 个人维护 · 中文 README
+⭐ 112 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge) · 个人维护 · 中文 README
 
 **给 Unity 开发者：本地 AI 生成人形动画并烘焙到工程**
 

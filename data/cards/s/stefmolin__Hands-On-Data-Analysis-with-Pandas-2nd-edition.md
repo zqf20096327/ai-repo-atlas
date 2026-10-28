@@ -1,6 +1,6 @@
 # stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition
 
-⭐ 737 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450) · 个人维护
+⭐ 739 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450) · 个人维护
 
 **《Hands-On Data Analysis with Pandas》第二版配套代码仓库**
 

@@ -1,6 +1,6 @@
 # pearjelly/deep-blend
 
-⭐ 101 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pearjelly/deep-blend) · [官网](https://github.com/pearjelly/deep-blend#quick-start) · 个人维护 · 中文 README
+⭐ 102 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pearjelly/deep-blend) · [官网](https://github.com/pearjelly/deep-blend#quick-start) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 中构建与渲染 Blender 产品场景的插件**
 

@@ -1,6 +1,6 @@
 # huyedits/Symbio
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/huyedits/Symbio) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huyedits/Symbio) · 个人维护
 
 **Mac 本地自微调 AI agent：从纠错中学习并回滚变差的 LoRA**
 

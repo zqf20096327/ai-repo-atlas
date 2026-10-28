@@ -1,6 +1,6 @@
 # acadevmy/claude-code-spinner-verbs-sicilian
 
-⭐ 29 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/acadevmy/claude-code-spinner-verbs-sicilian) · [官网](https://devmy.it) · 个人维护
+⭐ 30 · MIT · 推送 2026-04-30 · [GitHub](https://github.com/acadevmy/claude-code-spinner-verbs-sicilian) · [官网](https://devmy.it) · 个人维护
 
 **给 Claude Code 用户提供西西里语终端 spinner 动词预设**
 

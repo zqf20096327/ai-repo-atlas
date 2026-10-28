@@ -1,6 +1,6 @@
 # MetaConfigurator/meta-configurator
 
-⭐ 88 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MetaConfigurator/meta-configurator) · [官网](https://www.metaconfigurator.org) · 组织维护
+⭐ 89 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/MetaConfigurator/meta-configurator) · [官网](https://www.metaconfigurator.org) · 组织维护
 
 **带 AI 辅助的浏览器端 JSON Schema 编辑器与表单/代码/文档生成器**
 

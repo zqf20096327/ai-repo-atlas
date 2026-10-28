@@ -1,6 +1,6 @@
 # microsoft/SwiftStreamingMarkdown
 
-⭐ 384 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/SwiftStreamingMarkdown) · 组织维护
+⭐ 387 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/SwiftStreamingMarkdown) · 组织维护
 
 **iOS/macOS 流式 Markdown 渲染库，面向 LLM 输出展示**
 

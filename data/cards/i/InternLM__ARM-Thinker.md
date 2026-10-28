@@ -1,6 +1,6 @@
 # InternLM/ARM-Thinker
 
-⭐ 201 · Python · 推送 2026-10-13 · [GitHub](https://github.com/InternLM/ARM-Thinker) · 组织维护 · 中文 README
+⭐ 202 · Python · 推送 2026-10-13 · [GitHub](https://github.com/InternLM/ARM-Thinker) · 组织维护 · 中文 README
 
 **科研者用的多模态生成式奖励模型：带工具调用的智能体推理与训练代码**
 

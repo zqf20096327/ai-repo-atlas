@@ -1,6 +1,6 @@
 # symgraph/IDAssist
 
-⭐ 890 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/IDAssist) · 个人维护
+⭐ 893 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/symgraph/IDAssist) · 个人维护
 
 **为逆向工程师提供 IDA Pro 内 LLM 辅助二进制分析插件**
 

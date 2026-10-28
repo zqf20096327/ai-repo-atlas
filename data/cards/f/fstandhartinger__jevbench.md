@@ -1,6 +1,6 @@
 # fstandhartinger/jevbench
 
-⭐ 315 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/fstandhartinger/jevbench) · [官网](https://benchmarkheaven.com/jev-models) · 组织维护
+⭐ 320 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/fstandhartinger/jevbench) · [官网](https://benchmarkheaven.com/jev-models) · 组织维护
 
 **AI 决策模型评测基准与排行榜：测准确率、校准、延迟、成本**
 

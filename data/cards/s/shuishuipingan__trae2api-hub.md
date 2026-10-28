@@ -1,6 +1,6 @@
 # shuishuipingan/trae2api-hub
 
-⭐ 20 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuishuipingan/trae2api-hub) · [官网](https://trae2api-hub-eybpg15659n.qoder.zone/) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuishuipingan/trae2api-hub) · [官网](https://trae2api-hub-eybpg15659n.qoder.zone/) · 个人维护 · 中文 README
 
 **Trae 国际/国内双区多账号 OpenAI 兼容网关**
 

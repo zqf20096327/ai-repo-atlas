@@ -1,6 +1,6 @@
 # MiniMax-AI/awesome-minimax-h3-integration
 
-⭐ 522 · 推送 2026-10-25 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-h3-integration) · 组织维护 · 中文 README
+⭐ 526 · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-h3-integration) · 组织维护 · 中文 README
 
 **MiniMax H3 视频生成模型的社区集成与工具索引清单**
 

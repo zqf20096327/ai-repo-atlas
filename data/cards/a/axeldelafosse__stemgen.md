@@ -1,6 +1,6 @@
 # axeldelafosse/stemgen
 
-⭐ 303 · Python · 推送 2026-08-22 · [GitHub](https://github.com/axeldelafosse/stemgen) · [官网](https://stemgen.dev) · 个人维护
+⭐ 304 · Python · 推送 2026-08-22 · [GitHub](https://github.com/axeldelafosse/stemgen) · [官网](https://stemgen.dev) · 个人维护
 
 **将任意音轨分离为四轨并生成 Stem 文件的 CLI 工具**
 

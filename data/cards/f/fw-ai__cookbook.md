@@ -1,6 +1,6 @@
 # fw-ai/cookbook
 
-⭐ 230 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fw-ai/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
+⭐ 231 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fw-ai/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
 
 **Fireworks 平台训练教程与 agent 技能集：RL/DPO/SFT 等训练循环示例**
 

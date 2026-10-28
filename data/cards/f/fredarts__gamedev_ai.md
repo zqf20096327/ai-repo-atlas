@@ -1,6 +1,6 @@
 # fredarts/gamedev_ai
 
-⭐ 40 · GDScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fredarts/gamedev_ai) · [官网](https://fredarts.github.io/gamedev_ai/) · 个人维护
+⭐ 41 · GDScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fredarts/gamedev_ai) · [官网](https://fredarts.github.io/gamedev_ai/) · 个人维护
 
 **Godot 4.7+ 编辑器 AI 编程助手插件，辅助游戏开发**
 

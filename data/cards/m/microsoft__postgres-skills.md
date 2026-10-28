@@ -1,6 +1,6 @@
 # microsoft/postgres-skills
 
-⭐ 42 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
 
 **面向 AI 编码代理的 PostgreSQL 专家技能插件（33 个子技能）**
 

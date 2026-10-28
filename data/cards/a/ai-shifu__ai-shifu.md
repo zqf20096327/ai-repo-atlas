@@ -1,6 +1,6 @@
 # ai-shifu/ai-shifu
 
-⭐ 329 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ai-shifu/ai-shifu) · [官网](https://ai-shifu.com) · 组织维护 · 中文 README
+⭐ 329 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ai-shifu/ai-shifu) · [官网](https://ai-shifu.com) · 组织维护 · 中文 README
 
 **面向创作者与培训团队的一对一 AI 教学代理平台**
 

@@ -1,6 +1,6 @@
 # hamzafer/cursor-commands
 
-⭐ 673 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
+⭐ 672 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
 
 **Cursor IDE 的斜杠命令提示词集合，供团队复用 AI 工作流**
 

@@ -1,6 +1,6 @@
 # SnapdragonGameStudios/adreno-neural-fusion
 
-⭐ 34 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SnapdragonGameStudios/adreno-neural-fusion) · [官网](https://www.qualcomm.com/developer/snapdragon-game-toolkit) · 组织维护
+⭐ 35 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SnapdragonGameStudios/adreno-neural-fusion) · [官网](https://www.qualcomm.com/developer/snapdragon-game-toolkit) · 组织维护
 
 **高通面向移动游戏的神经渲染 SDK：超分与帧生成**
 

@@ -1,6 +1,6 @@
 # MohammadHeydari/Awesome-Persian-LLM
 
-⭐ 25 · Python · 推送 2026-06-24 · [GitHub](https://github.com/MohammadHeydari/Awesome-Persian-LLM) · 个人维护
+⭐ 26 · Python · 推送 2026-06-24 · [GitHub](https://github.com/MohammadHeydari/Awesome-Persian-LLM) · 个人维护
 
 **波斯语 LLM 资源清单：论文、模型、数据集与评测一站收录**
 

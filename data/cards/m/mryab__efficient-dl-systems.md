@@ -1,6 +1,6 @@
 # mryab/efficient-dl-systems
 
-⭐ 1,047 · Jupyter Notebook · MIT · 推送 2026-05-28 · [GitHub](https://github.com/mryab/efficient-dl-systems) · 组织维护
+⭐ 1,048 · Jupyter Notebook · MIT · 推送 2026-05-28 · [GitHub](https://github.com/mryab/efficient-dl-systems) · 组织维护
 
 **深度学习系统效率化课程讲义与研讨材料合集**
 

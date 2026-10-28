@@ -1,6 +1,6 @@
 # paralleliq/piqc
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/paralleliq/piqc) · [官网](https://www.paralleliq.ai) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/paralleliq/piqc) · [官网](https://www.paralleliq.ai) · 组织维护
 
 **Kubernetes 推理集群 GPU 浪费扫描器：一条命令找出闲置与错配**
 

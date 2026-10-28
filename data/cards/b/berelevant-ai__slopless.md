@@ -1,6 +1,6 @@
 # berelevant-ai/slopless
 
-⭐ 336 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/berelevant-ai/slopless) · [官网](https://www.npmjs.com/package/slopless) · 组织维护
+⭐ 337 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/berelevant-ai/slopless) · [官网](https://www.npmjs.com/package/slopless) · 组织维护
 
 **检测英文 Markdown 中 AI 味文风的确定性 textlint 规则集与 CLI**
 

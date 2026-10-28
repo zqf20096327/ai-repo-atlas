@@ -1,6 +1,6 @@
 # canopyai/Orpheus-TTS
 
-⭐ 6,378 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/canopyai/Orpheus-TTS) · [官网](https://canopylabs.ai) · 组织维护
+⭐ 6,380 · Python · Apache-2.0 · 推送 2025-12-05 · [GitHub](https://github.com/canopyai/Orpheus-TTS) · [官网](https://canopylabs.ai) · 组织维护
 
 **基于 Llama-3b 的开源文语合成（TTS）模型**
 

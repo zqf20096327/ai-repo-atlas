@@ -1,6 +1,6 @@
 # OpenCML/Camel
 
-⭐ 21 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/OpenCML/Camel) · 组织维护 · 中文 README
+⭐ 21 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/OpenCML/Camel) · 组织维护 · 中文 README
 
 **面向 AI 的图原生编程语言，程序即计算图，支持多后端执行**
 

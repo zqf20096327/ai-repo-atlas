@@ -1,6 +1,6 @@
 # instadeepai/nucleotide-transformer
 
-⭐ 928 · Jupyter Notebook · NOASSERTION · 推送 2026-02-24 · [GitHub](https://github.com/instadeepai/nucleotide-transformer) · 组织维护
+⭐ 928 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/instadeepai/nucleotide-transformer) · 组织维护
 
 **基因组学 AI 基础模型集合：DNA/RNA 序列预测与嵌入**
 

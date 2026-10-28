@@ -1,6 +1,6 @@
 # audeering/audb
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/audeering/audb) · [官网](https://audeering.github.io/audb/) · 组织维护
 
 **音频/视频标注数据集的版本管理与分发库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # DFKHelper/token-goat
 
-⭐ 144 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
+⭐ 144 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
 
 **AI 编码工具的 token 消耗拦截器：削减重复读取与注入防御**
 

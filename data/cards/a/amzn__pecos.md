@@ -1,6 +1,6 @@
 # amzn/pecos
 
-⭐ 556 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/amzn/pecos) · [官网](https://libpecos.org/) · 组织维护
+⭐ 557 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/amzn/pecos) · [官网](https://libpecos.org/) · 组织维护
 
 **大规模输出空间的机器学习框架：极端多标签分类/排序与 ANN 检索**
 

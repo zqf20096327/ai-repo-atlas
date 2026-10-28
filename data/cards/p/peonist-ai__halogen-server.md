@@ -1,6 +1,6 @@
 # peonist-ai/halogen-server
 
-⭐ 142 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
+⭐ 143 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/peonist-ai/halogen-server) · [官网](https://huggingface.co/peonist-ai/halogen-qwen3.8-27b) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-27B 的专用推理服务**
 

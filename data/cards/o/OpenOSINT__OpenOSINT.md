@@ -1,6 +1,6 @@
 # OpenOSINT/OpenOSINT
 
-⭐ 1,816 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
+⭐ 1,822 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
 
 **面向安全研究者的 OSINT 代理：21 种调查工具+自然语言/MCP 驱动**
 

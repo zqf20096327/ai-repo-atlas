@@ -1,6 +1,6 @@
 # kaito-project/aikit
 
-⭐ 539 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kaito-project/aikit) · [官网](https://kaito-project.github.io/aikit/) · 组织维护
+⭐ 540 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kaito-project/aikit) · [官网](https://kaito-project.github.io/aikit/) · 组织维护
 
 **面向开发者的开源 LLM 部署/微调/打包平台**
 

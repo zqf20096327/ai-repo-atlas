@@ -1,6 +1,6 @@
 # BrettKinny/dotty-stackchan
 
-⭐ 121 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护 · 中文 README
+⭐ 121 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护 · 中文 README
 
 **M5Stack StackChan 桌面机器人的全自托管语音助手栈**
 

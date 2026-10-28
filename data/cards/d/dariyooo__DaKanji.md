@@ -1,6 +1,6 @@
 # dariyooo/DaKanji
 
-⭐ 139 · Dart · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/dariyooo/DaKanji) · [官网](https://dakanji.app) · 个人维护
+⭐ 140 · Dart · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/dariyooo/DaKanji) · [官网](https://dakanji.app) · 个人维护
 
 **日语学习者的离线汉字手写识别与词典查词应用**
 

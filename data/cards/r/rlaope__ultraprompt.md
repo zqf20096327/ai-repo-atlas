@@ -1,6 +1,6 @@
 # rlaope/ultraprompt
 
-⭐ 35 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
 
 **面向编码 agent 的可移植策略提示词技能库（12 个技能轴）**
 

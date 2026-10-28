@@ -1,6 +1,6 @@
 # capawesome-team/skills
 
-⭐ 51 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/capawesome-team/skills) · 组织维护
+⭐ 52 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/capawesome-team/skills) · 组织维护
 
 **面向 AI agent 的 Capacitor/Ionic 开发技能集与 MCP 文档服务器**
 

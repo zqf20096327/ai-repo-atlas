@@ -1,6 +1,6 @@
 # gulagala001/oh-my-dsh
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gulagala001/oh-my-dsh) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gulagala001/oh-my-dsh) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的插件包：长任务工作流、记忆与上下文管理**
 

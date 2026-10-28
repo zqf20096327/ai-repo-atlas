@@ -1,6 +1,6 @@
 # superlinked/sie
 
-⭐ 3,452 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/superlinked/sie) · [官网](https://superlinked.com) · 组织维护
+⭐ 3,456 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/superlinked/sie) · [官网](https://superlinked.com) · 组织维护
 
 **自托管推理引擎：用一套 OpenAI 兼容 API 运行 agent 所需的 100+ 开源模型**
 

@@ -1,6 +1,6 @@
 # s0lda/hadron
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/s0lda/hadron) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/s0lda/hadron) · 个人维护
 
 **Rust 桌面多智能体编排工作台：统一调度多家 LLM 与 CLI 代理**
 

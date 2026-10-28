@@ -1,6 +1,6 @@
 # cporter202/agentic-ai-apis
 
-⭐ 665 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
+⭐ 667 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
 
 **面向 AI agent 开发者的 API 策展清单（2,391 条，3 类）**
 

@@ -1,6 +1,6 @@
 # clappingmonkey/Deplexity
 
-⭐ 23 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/clappingmonkey/Deplexity) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/clappingmonkey/Deplexity) · 个人维护
 
 **离线导出 Perplexity 对话、Spaces 与个人数据的 Go CLI**
 

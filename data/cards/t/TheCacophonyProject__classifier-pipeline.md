@@ -1,6 +1,6 @@
 # TheCacophonyProject/classifier-pipeline
 
-⭐ 23 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/TheCacophonyProject/classifier-pipeline) · 组织维护
+⭐ 23 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/TheCacophonyProject/classifier-pipeline) · 组织维护
 
 **热成像视频动物追踪与分类的 CNN 训练/推理管线**
 

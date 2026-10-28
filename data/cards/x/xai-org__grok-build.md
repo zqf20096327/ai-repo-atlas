@@ -1,6 +1,6 @@
 # xai-org/grok-build
 
-⭐ 27,570 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
+⭐ 27,587 · Rust · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/xai-org/grok-build) · 组织维护
 
 **给开发者的终端 AI 编码 Agent（全屏 TUI）**
 

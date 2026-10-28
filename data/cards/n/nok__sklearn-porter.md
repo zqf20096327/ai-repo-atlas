@@ -1,6 +1,6 @@
 # nok/sklearn-porter
 
-⭐ 1,303 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/nok/sklearn-porter) · 个人维护
+⭐ 1,303 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/nok/sklearn-porter) · 个人维护
 
 **将训练好的 scikit-learn 模型转译为 C/Java/JS 等语言代码**
 

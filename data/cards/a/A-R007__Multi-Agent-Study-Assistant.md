@@ -1,6 +1,6 @@
 # A-R007/Multi-Agent-Study-Assistant
 
-⭐ 64 · Python · 推送 2025-11-04 · [GitHub](https://github.com/A-R007/Multi-Agent-Study-Assistant) · 个人维护
+⭐ 65 · Python · 推送 2025-11-04 · [GitHub](https://github.com/A-R007/Multi-Agent-Study-Assistant) · 个人维护
 
 **多智能体个性化学习平台：学习路线图、测验、辅导与文档问答**
 

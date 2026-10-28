@@ -1,6 +1,6 @@
 # shicheng5589-oss/Agent-desktop-pet
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/shicheng5589-oss/Agent-desktop-pet) · 个人维护 · 中文 README
+⭐ 26 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/shicheng5589-oss/Agent-desktop-pet) · 个人维护 · 中文 README
 
 **跟随 12 个 AI Agent 实时状态换表情的 Windows Live2D 桌宠**
 

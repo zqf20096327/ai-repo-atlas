@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-uncensored-ai-video-models
 
-⭐ 27 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) · 个人维护
+⭐ 28 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) · 个人维护
 
 **社区维护的低过滤 AI 视频模型编目清单**
 

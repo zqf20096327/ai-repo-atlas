@@ -1,6 +1,6 @@
 # Light0305/Light-skills
 
-⭐ 801 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Light0305/Light-skills) · [官网](https://github.com/Light0305/Light-skills#readme) · 个人维护 · 中文 README
+⭐ 814 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/Light0305/Light-skills) · [官网](https://github.com/Light0305/Light-skills#readme) · 个人维护 · 中文 README
 
 **面向科研与竞赛的 AI agent 技能包（23 个技能）**
 

@@ -1,6 +1,6 @@
 # datawhalechina/thorough-pytorch
 
-⭐ 3,850 · Jupyter Notebook · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/datawhalechina/thorough-pytorch) · [官网](https://datawhalechina.github.io/thorough-pytorch/) · 组织维护 · 中文 README
+⭐ 3,851 · Jupyter Notebook · NOASSERTION · 推送 2026-01-18 · [GitHub](https://github.com/datawhalechina/thorough-pytorch) · [官网](https://datawhalechina.github.io/thorough-pytorch/) · 组织维护 · 中文 README
 
 **Datawhale 出品的 PyTorch 中文入门教程（组队学习课程）**
 

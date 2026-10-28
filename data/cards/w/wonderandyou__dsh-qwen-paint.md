@@ -1,6 +1,6 @@
 # wonderandyou/dsh-qwen-paint
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/wonderandyou/dsh-qwen-paint) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/wonderandyou/dsh-qwen-paint) · 个人维护 · 中文 README
 
 **DSH 插件：对话中调用本机 ComfyUI 用千画出图**
 

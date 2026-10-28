@@ -1,6 +1,6 @@
 # mintuz/skills
 
-⭐ 29 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mintuz/skills) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mintuz/skills) · 个人维护
 
 **面向 Web/iOS 开发者的可复用 agent 技能合集（Codex/Claude/OMP）**
 

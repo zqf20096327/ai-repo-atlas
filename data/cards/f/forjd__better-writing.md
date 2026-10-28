@@ -1,6 +1,6 @@
 # forjd/better-writing
 
-⭐ 47 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/forjd/better-writing) · [官网](https://skills.sh/forjd/better-writing) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/forjd/better-writing) · [官网](https://skills.sh/forjd/better-writing) · 个人维护
 
 **让 agent 改写文稿的技能：去 AI 腔、保留事实与作者声音**
 

@@ -1,6 +1,6 @@
 # rfxn/rdf
 
-⭐ 20 · Shell · GPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rfxn/rdf) · [官网](https://rfxn.github.io/rdf/) · 组织维护
+⭐ 20 · Shell · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rfxn/rdf) · [官网](https://rfxn.github.io/rdf/) · 组织维护
 
 **给 AI 编程 agent 的项目规约治理层：约定、质量门与领域专家注入**
 

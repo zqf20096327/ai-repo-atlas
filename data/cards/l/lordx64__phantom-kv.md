@@ -1,6 +1,6 @@
 # lordx64/phantom-kv
 
-⭐ 273 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lordx64/phantom-kv) · 个人维护
+⭐ 274 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lordx64/phantom-kv) · 个人维护
 
 **以可加载 KV-cache 移植片移除 LLM 拒答的工具链**
 

@@ -1,6 +1,6 @@
 # hqhq1025/ai-course-notes
 
-⭐ 197 · TeX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hqhq1025/ai-course-notes) · [官网](https://hqhq1025.github.io/ai-course-notes/) · 个人维护 · 中文 README
+⭐ 198 · TeX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hqhq1025/ai-course-notes) · [官网](https://hqhq1025.github.io/ai-course-notes/) · 个人维护 · 中文 README
 
 **389 份 AI/LLM 中文讲义合集，支持在线阅读与本地 PDF 编译**
 

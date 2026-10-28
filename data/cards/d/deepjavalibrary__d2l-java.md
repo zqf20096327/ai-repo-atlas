@@ -1,6 +1,6 @@
 # deepjavalibrary/d2l-java
 
-⭐ 194 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/deepjavalibrary/d2l-java) · [官网](https://d2l.djl.ai) · 组织维护
+⭐ 193 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/deepjavalibrary/d2l-java) · [官网](https://d2l.djl.ai) · 组织维护
 
 **《动手学深度学习》Java 版教材：基于 DJL 的可运行 Jupyter 笔记本**
 

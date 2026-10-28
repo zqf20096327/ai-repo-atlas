@@ -1,6 +1,6 @@
 # buda-ai/bunny-agent
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/buda-ai/bunny-agent) · [官网](https://sandagent.dev/  ) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/buda-ai/bunny-agent) · [官网](https://sandagent.dev/  ) · 组织维护
 
 **多模型编程 agent CLI/SDK：本地或远程沙箱执行编码任务**
 

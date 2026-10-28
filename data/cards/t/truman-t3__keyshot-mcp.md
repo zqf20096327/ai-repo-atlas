@@ -1,6 +1,6 @@
 # truman-t3/keyshot-mcp
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/truman-t3/keyshot-mcp) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/truman-t3/keyshot-mcp) · 个人维护 · 中文 README
 
 **通过 AI Agent 控制本地 KeyShot 进行产品渲染的 MCP 服务器**
 

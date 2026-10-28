@@ -1,6 +1,6 @@
 # intel/AI-PC-Samples
 
-⭐ 76 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/intel/AI-PC-Samples) · 组织维护
+⭐ 77 · Jupyter Notebook · MIT · 推送 2026-10-24 · [GitHub](https://github.com/intel/AI-PC-Samples) · 组织维护
 
 **Intel AI PC 上生成式 AI 工作负载的示例笔记本集合**
 

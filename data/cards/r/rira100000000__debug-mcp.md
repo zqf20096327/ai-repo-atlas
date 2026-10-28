@@ -1,6 +1,6 @@
 # rira100000000/debug-mcp
 
-⭐ 26 · Ruby · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rira100000000/debug-mcp) · [官网](https://rubygems.org/gems/debug-mcp) · 个人维护
+⭐ 27 · Ruby · MIT · 推送 2026-10-18 · [GitHub](https://github.com/rira100000000/debug-mcp) · [官网](https://rubygems.org/gems/debug-mcp) · 个人维护
 
 **连接 LLM agent 与 Ruby 运行时调试的 MCP server**
 

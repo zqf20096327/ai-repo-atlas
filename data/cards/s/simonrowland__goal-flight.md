@@ -1,6 +1,6 @@
 # simonrowland/goal-flight
 
-⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/simonrowland/goal-flight) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/simonrowland/goal-flight) · 个人维护
 
 **把 Claude Code 会话变成长时编码项目的多 agent 编排器**
 

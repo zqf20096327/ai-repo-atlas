@@ -1,6 +1,6 @@
 # ajoesoft/ai0-video-creator
 
-⭐ 20 · TypeScript · 推送 2026-09-15 · [GitHub](https://github.com/ajoesoft/ai0-video-creator) · [官网](https://ajoesoft.github.io/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · 推送 2026-09-15 · [GitHub](https://github.com/ajoesoft/ai0-video-creator) · [官网](https://ajoesoft.github.io/) · 个人维护 · 中文 README
 
 **桌面 AI 视频创作工作台：从脚本到成片的全链路工具**
 

@@ -1,6 +1,6 @@
 # SimplexLab/TorchJD
 
-⭐ 400 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/SimplexLab/TorchJD) · [官网](https://torchjd.org) · 组织维护
+⭐ 400 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/SimplexLab/TorchJD) · [官网](https://torchjd.org) · 组织维护
 
 **PyTorch 多损失训练库：用 Jacobian descent 与标量化优化神经网络**
 

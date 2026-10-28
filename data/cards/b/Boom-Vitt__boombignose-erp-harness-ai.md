@@ -1,6 +1,6 @@
 # Boom-Vitt/boombignose-erp-harness-ai
 
-⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Boom-Vitt/boombignose-erp-harness-ai) · [官网](https://boom-vitt.github.io/boombignose-erp-harness-ai/) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Boom-Vitt/boombignose-erp-harness-ai) · [官网](https://boom-vitt.github.io/boombignose-erp-harness-ai/) · 个人维护 · 中文 README
 
 **面向泰国中小企业的开源 ERP：销售/采购/库存/项目/财务一体化**
 

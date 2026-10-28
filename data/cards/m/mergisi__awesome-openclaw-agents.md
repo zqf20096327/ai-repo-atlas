@@ -1,6 +1,6 @@
 # mergisi/awesome-openclaw-agents
 
-⭐ 4,027 · HTML · MIT · 推送 2026-09-26 · [GitHub](https://github.com/mergisi/awesome-openclaw-agents) · [官网](https://crewclaw.com) · 个人维护
+⭐ 4,031 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mergisi/awesome-openclaw-agents) · [官网](https://crewclaw.com) · 个人维护
 
 **OpenClaw 生态的 AI agent 模板策展清单（205 个 SOUL.md，多类别）**
 

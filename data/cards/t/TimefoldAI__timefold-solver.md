@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-solver
 
-⭐ 1,843 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TimefoldAI/timefold-solver) · [官网](http://solver.timefold.ai) · 组织维护
+⭐ 1,843 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TimefoldAI/timefold-solver) · [官网](http://solver.timefold.ai) · 组织维护
 
 **面向 Java/Kotlin 的 AI 约束求解器，优化排班与路径规划**
 

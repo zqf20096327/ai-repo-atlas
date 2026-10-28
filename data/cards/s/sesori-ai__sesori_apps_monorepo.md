@@ -1,6 +1,6 @@
 # sesori-ai/sesori_apps_monorepo
 
-⭐ 138 · Dart · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
+⭐ 139 · Dart · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
 
 **手机远程驾驶本机 AI 编程 agent 的移动客户端+Bridge CLI**
 

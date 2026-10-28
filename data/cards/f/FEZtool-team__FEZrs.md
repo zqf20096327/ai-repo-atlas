@@ -1,6 +1,6 @@
 # FEZtool-team/FEZrs
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/FEZtool-team/FEZrs) · [官网](https://feztool.com/) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/FEZtool-team/FEZrs) · [官网](https://feztool.com/) · 组织维护
 
 **遥感多光谱图像处理与光谱分析 Python 库**
 

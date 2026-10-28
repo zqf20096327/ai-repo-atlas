@@ -1,6 +1,6 @@
 # JCodesMore/ai-website-cloner-template
 
-⭐ 37,483 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
+⭐ 37,764 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
 
 **给 AI 编码代理的模板：一条命令把网站复刻为 Next.js 应用**
 

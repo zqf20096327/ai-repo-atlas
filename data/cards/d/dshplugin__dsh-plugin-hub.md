@@ -1,6 +1,6 @@
 # dshplugin/dsh-plugin-hub
 
-⭐ 371 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dshplugin/dsh-plugin-hub) · [官网](https://dsh-plugin.org) · 组织维护 · 中文 README
+⭐ 384 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dshplugin/dsh-plugin-hub) · [官网](https://dsh-plugin.org) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的社区插件市场：浏览、搜索、一键安装插件**
 

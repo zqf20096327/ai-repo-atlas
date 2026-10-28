@@ -1,6 +1,6 @@
 # nnstreamer/nnstreamer
 
-⭐ 800 · C++ · LGPL-2.1 · 推送 2026-10-27 · [GitHub](https://github.com/nnstreamer/nnstreamer) · [官网](https://nnstreamer.ai) · 组织维护
+⭐ 800 · C++ · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/nnstreamer/nnstreamer) · [官网](https://nnstreamer.ai) · 组织维护
 
 **把神经网络模型接入 GStreamer 流水线的插件集，面向嵌入式/边缘设备**
 

@@ -1,6 +1,6 @@
 # verygoodplugins/mcp-automem
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/verygoodplugins/mcp-automem) · [官网](https://automem.ai/) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/verygoodplugins/mcp-automem) · [官网](https://automem.ai/) · 组织维护
 
 **为 Claude/Cursor 等 AI 工具接入持久图+向量记忆的 MCP 客户端**
 

@@ -1,6 +1,6 @@
 # PhySpace/SimpleCADAPI
 
-⭐ 161 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PhySpace/SimpleCADAPI) · [官网](physpace.dev) · 组织维护 · 中文 README
+⭐ 164 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PhySpace/SimpleCADAPI) · [官网](physpace.dev) · 组织维护 · 中文 README
 
 **面向编码 agent 的参数化 CAD Python SDK：用代码构建可编辑 3D 模型**
 

@@ -1,6 +1,6 @@
 # Shpigford/chops
 
-⭐ 2,094 · Swift · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/Shpigford/chops) · [官网](https://chops.md) · 个人维护
+⭐ 2,098 · Swift · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/Shpigford/chops) · [官网](https://chops.md) · 个人维护
 
 **管理多种编码 Agent 技能与 Agent 的 macOS 桌面应用**
 

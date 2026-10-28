@@ -1,6 +1,6 @@
 # vbszbdrup/Pose-Angle-Coach
 
-⭐ 56 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/vbszbdrup/Pose-Angle-Coach) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/vbszbdrup/Pose-Angle-Coach) · 个人维护
 
 **基于 OpenCV 姿态估计的实时动作姿态分析与反馈工具**
 

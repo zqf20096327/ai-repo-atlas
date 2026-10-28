@@ -1,6 +1,6 @@
 # Parithosh-Varma/puter-pool
 
-⭐ 37 · TypeScript · EPL-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Parithosh-Varma/puter-pool) · [官网](https://puterpool.pages.dev/) · 个人维护
+⭐ 39 · TypeScript · EPL-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Parithosh-Varma/puter-pool) · [官网](https://puterpool.pages.dev/) · 个人维护
 
 **汇聚多个 Puter 免费账户额度的本地 AI API 代理池**
 

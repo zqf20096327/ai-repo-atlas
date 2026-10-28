@@ -1,6 +1,6 @@
 # alfredfrancis/ai-chatbot-framework
 
-⭐ 2,168 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alfredfrancis/ai-chatbot-framework) · 个人维护
+⭐ 2,167 · TypeScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/alfredfrancis/ai-chatbot-framework) · 个人维护
 
 **自托管低代码聊天机器人构建平台，含 NLU 与 LLM 能力**
 

@@ -1,6 +1,6 @@
 # last9/last9-mcp-server
 
-⭐ 63 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/last9/last9-mcp-server) · [官网](https://last9.io/mcp) · 组织维护
+⭐ 63 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/last9/last9-mcp-server) · [官网](https://last9.io/mcp) · 组织维护
 
 **把生产可观测数据接入 AI 助手的 MCP 服务器**
 

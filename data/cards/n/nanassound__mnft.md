@@ -1,6 +1,6 @@
 # nanassound/mnft
 
-⭐ 32 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nanassound/mnft) · 组织维护
+⭐ 34 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nanassound/mnft) · 组织维护
 
 **文本生成 CAD 的 Elixir 工厂线：提示词进，STL/STEP 出**
 

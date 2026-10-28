@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-shell
 
-⭐ 1,450 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Gentleman-Programming/gentle-shell) · [官网](https://gentle-ai.gentlemanprogramming.com/) · 个人维护
+⭐ 1,473 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Gentleman-Programming/gentle-shell) · [官网](https://gentle-ai.gentlemanprogramming.com/) · 个人维护
 
 **面向 Pi 的编码代理工作台：编排、审查与变更视图**
 

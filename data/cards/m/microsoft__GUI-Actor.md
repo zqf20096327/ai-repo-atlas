@@ -1,6 +1,6 @@
 # microsoft/GUI-Actor
 
-⭐ 423 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/microsoft/GUI-Actor) · [官网](https://microsoft.github.io/GUI-Actor/) · 组织维护
+⭐ 424 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/microsoft/GUI-Actor) · [官网](https://microsoft.github.io/GUI-Actor/) · 组织维护
 
 **GUI Agent 的免坐标视觉定位模型：为界面元素定位动作区域**
 

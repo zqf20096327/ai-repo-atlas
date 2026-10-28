@@ -1,6 +1,6 @@
 # aarush67/Vocal-Prism
 
-⭐ 36 · Swift · MIT · 推送 2026-01-15 · [GitHub](https://github.com/aarush67/Vocal-Prism) · [官网](https://vocal.techfixpro.net/) · 个人维护
+⭐ 37 · Swift · MIT · 推送 2026-01-15 · [GitHub](https://github.com/aarush67/Vocal-Prism) · [官网](https://vocal.techfixpro.net/) · 个人维护
 
 **macOS 本地音频转写应用：Whisper + CoreML，Apple Silicon 优化**
 

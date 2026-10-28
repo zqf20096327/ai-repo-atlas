@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-ack-mcp-server
 
-⭐ 120 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/aliyun/alibabacloud-ack-mcp-server) · 组织维护 · 中文 README
+⭐ 121 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/aliyun/alibabacloud-ack-mcp-server) · 组织维护 · 中文 README
 
 **面向 AI Agent 的阿里云 ACK/K8s 容器运维 MCP 工具集**
 

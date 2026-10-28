@@ -1,6 +1,6 @@
 # EYamanS/texel-studio
 
-⭐ 238 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/texel-studio) · [官网](https://texel.studio) · 个人维护
+⭐ 241 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/EYamanS/texel-studio) · [官网](https://texel.studio) · 个人维护
 
 **AI agent 逐像素绘制像素画/游戏素材的工具**
 

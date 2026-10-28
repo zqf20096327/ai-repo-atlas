@@ -1,6 +1,6 @@
 # elastic/mcp-server-elasticsearch
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 726 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/elastic/mcp-server-elasticsearch) · [官网](https://www.elastic.co/elasticsearch) · 组织维护
 
 **连接 AI 代理与 Elasticsearch 数据的 MCP 服务器**
 
@@ -11,7 +11,7 @@ Elastic 官方维护的 Model Context Protocol 服务器，以 Docker 容器形�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

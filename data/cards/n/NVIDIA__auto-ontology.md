@@ -1,6 +1,6 @@
 # NVIDIA/auto-ontology
 
-⭐ 306 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/auto-ontology) · 组织维护
+⭐ 508 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/auto-ontology) · 组织维护
 
 **从企业元数据构建语义本体层、供 agent 可信查询的框架**
 

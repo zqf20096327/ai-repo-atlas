@@ -1,6 +1,6 @@
 # heyvaldemar/ollama-traefik-letsencrypt-docker-compose
 
-⭐ 26 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/heyvaldemar/ollama-traefik-letsencrypt-docker-compose) · [官网](https://www.heyvaldemar.com) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/heyvaldemar/ollama-traefik-letsencrypt-docker-compose) · [官网](https://www.heyvaldemar.com) · 个人维护
 
 **Ollama+Open WebUI+Traefik 的 Docker Compose 部署模板**
 

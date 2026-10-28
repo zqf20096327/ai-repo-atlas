@@ -1,6 +1,6 @@
 # mukul975/mysql-mcp-server
 
-⭐ 20 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/mukul975/mysql-mcp-server) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/mukul975/mysql-mcp-server) · 个人维护
 
 **面向 AI 客户端的 MySQL MCP 服务器，提供查询与运维工具**
 

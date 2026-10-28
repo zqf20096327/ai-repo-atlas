@@ -1,6 +1,6 @@
 # WooooDyy/AgentGym-RL
 
-⭐ 880 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/WooooDyy/AgentGym-RL) · [官网](https://agentgym-rl.github.io/) · 组织维护
+⭐ 881 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/WooooDyy/AgentGym-RL) · [官网](https://agentgym-rl.github.io/) · 组织维护
 
 **多轮强化学习训练 LLM Agent 的框架（ICLR 2026 论文）**
 

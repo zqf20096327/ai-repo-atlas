@@ -1,6 +1,6 @@
 # ramajoballester/UC3M-LP
 
-⭐ 28 · Python · ODbL-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/ramajoballester/UC3M-LP) · 组织维护
+⭐ 28 · Python · ODbL-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/ramajoballester/UC3M-LP) · 组织维护
 
 **西班牙车牌检测与识别标注数据集（UC3M-LP）**
 

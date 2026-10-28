@@ -1,6 +1,6 @@
 # agenticenv/agent-sdk-go
 
-⭐ 61 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/agenticenv/agent-sdk-go) · [官网](https://docs.agenticenv.ai/) · 组织维护
+⭐ 61 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agenticenv/agent-sdk-go) · [官网](https://docs.agenticenv.ai/) · 组织维护
 
 **Go 语言 AI agent 持久化执行 SDK：崩溃后恢复 agent 运行状态**
 

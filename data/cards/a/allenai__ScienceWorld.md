@@ -1,6 +1,6 @@
 # allenai/ScienceWorld
 
-⭐ 400 · Scala · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/allenai/ScienceWorld) · [官网](https://sciworld.apps.allenai.org/) · 组织维护
+⭐ 401 · Scala · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/allenai/ScienceWorld) · [官网](https://sciworld.apps.allenai.org/) · 组织维护
 
 **面向小学科学课程任务的文本虚拟环境，供智能体研究与评测**
 

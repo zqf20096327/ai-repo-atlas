@@ -1,6 +1,6 @@
 # hypernetwork-research-group/hypertorch
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hypernetwork-research-group/hypertorch) · [官网](https://hypernetwork-research-group.github.io/hypertorch/) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/hypernetwork-research-group/hypertorch) · [官网](https://hypernetwork-research-group.github.io/hypertorch/) · 组织维护
 
 **超图学习模型的训练与基准评测 Python 库**
 

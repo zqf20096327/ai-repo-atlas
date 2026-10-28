@@ -1,6 +1,6 @@
 # hyperb1iss/droidmind
 
-⭐ 444 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/hyperb1iss/droidmind) · [官网](https://hyperb1iss.github.io/droidmind/) · 个人维护
+⭐ 443 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/hyperb1iss/droidmind) · [官网](https://hyperb1iss.github.io/droidmind/) · 个人维护
 
 **通过 MCP 让 AI 助手控制与调试 Android 设备的桥接服务器**
 

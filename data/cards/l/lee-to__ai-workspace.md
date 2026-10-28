@@ -1,6 +1,6 @@
 # lee-to/ai-workspace
 
-⭐ 61 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lee-to/ai-workspace) · 个人维护
+⭐ 61 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lee-to/ai-workspace) · 个人维护
 
 **跨项目共享上下文的 CLI + MCP 服务器，给 AI 编码代理记忆**
 

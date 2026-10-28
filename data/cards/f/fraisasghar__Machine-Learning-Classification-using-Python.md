@@ -1,6 +1,6 @@
 # fraisasghar/Machine-Learning-Classification-using-Python
 
-⭐ 144 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fraisasghar/Machine-Learning-Classification-using-Python) · 个人维护
+⭐ 148 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fraisasghar/Machine-Learning-Classification-using-Python) · 个人维护
 
 **用 Python 决策树对 7 只股票做分类的机器学习教学项目**
 

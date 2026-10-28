@@ -1,6 +1,6 @@
 # seaavey/SRouter
 
-⭐ 23 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/seaavey/SRouter) · [官网](https://srouter.web.id) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/seaavey/SRouter) · [官网](https://srouter.web.id) · 个人维护
 
 **Rust 自托管 LLM 网关：一个端点聚合多供应商 OAuth 账号**
 

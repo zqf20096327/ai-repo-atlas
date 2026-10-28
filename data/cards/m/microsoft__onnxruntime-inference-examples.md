@@ -1,6 +1,6 @@
 # microsoft/onnxruntime-inference-examples
 
-⭐ 1,702 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/onnxruntime-inference-examples) · 组织维护
+⭐ 1,704 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/onnxruntime-inference-examples) · 组织维护
 
 **微软官方 ONNX Runtime 推理示例代码集（多语言）**
 

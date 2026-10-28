@@ -1,6 +1,6 @@
 # pipecat-ai/pipecat
 
-⭐ 16,850 · Python · BSD-2-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
+⭐ 16,881 · Python · BSD-2-Clause · 推送 2026-10-28 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
 
 **构建实时语音与多模态 AI 对话代理的 Python 框架**
 

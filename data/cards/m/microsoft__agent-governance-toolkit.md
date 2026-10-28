@@ -1,6 +1,6 @@
 # microsoft/agent-governance-toolkit
 
-⭐ 6,480 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护 · 中文 README
+⭐ 6,487 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护 · 中文 README
 
 **面向自治 AI agent 的治理工具包：策略执行、身份、沙箱与审计**
 

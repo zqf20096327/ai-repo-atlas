@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI_Text_Processor
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI_Text_Processor) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rookiestar28/ComfyUI_Text_Processor) · 个人维护
 
 **ComfyUI 文本处理节点包：20 个节点用于提示词与工作流自动化**
 

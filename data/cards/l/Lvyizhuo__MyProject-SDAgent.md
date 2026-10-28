@@ -1,6 +1,6 @@
 # Lvyizhuo/MyProject-SDAgent
 
-⭐ 142 · Java · 推送 2026-09-03 · [GitHub](https://github.com/Lvyizhuo/MyProject-SDAgent) · [官网](http://mmgg.dpdns.org/login) · 个人维护 · 中文 README
+⭐ 144 · Java · 推送 2026-10-28 · [GitHub](https://github.com/Lvyizhuo/MyProject-SDAgent) · [官网](http://mmgg.dpdns.org/login) · 个人维护 · 中文 README
 
 **山东省政策咨询的 RAG 多智能体问答平台**
 

@@ -1,6 +1,6 @@
 # comet-ml/opik
 
-⭐ 22,969 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
+⭐ 22,989 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
 
 **面向 LLM 应用团队的观测、评估与 Agent 追踪平台**
 

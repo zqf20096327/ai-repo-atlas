@@ -1,6 +1,6 @@
 # pedrofariasx/qwenproxy
 
-⭐ 183 · TypeScript · ISC · 推送 2026-10-21 · [GitHub](https://github.com/pedrofariasx/qwenproxy) · [官网](https://buymeacoffee.com/pedrofariasx) · 个人维护
+⭐ 184 · TypeScript · ISC · 推送 2026-10-21 · [GitHub](https://github.com/pedrofariasx/qwenproxy) · [官网](https://buymeacoffee.com/pedrofariasx) · 个人维护
 
 **将 Qwen 网页版封装为 OpenAI 兼容 API 的本地代理**
 

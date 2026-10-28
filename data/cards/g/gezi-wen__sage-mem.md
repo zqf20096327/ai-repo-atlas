@@ -1,6 +1,6 @@
 # gezi-wen/sage-mem
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gezi-wen/sage-mem) · [官网](https://www.npmjs.com/package/sage-mem) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gezi-wen/sage-mem) · [官网](https://www.npmjs.com/package/sage-mem) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的跨会话记忆插件：纯 Markdown 文件存储**
 

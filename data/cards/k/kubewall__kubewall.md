@@ -1,6 +1,6 @@
 # kubewall/kubewall
 
-⭐ 1,946 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubewall/kubewall) · 组织维护
+⭐ 1,947 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kubewall/kubewall) · 组织维护
 
 **单二进制自托管 Kubernetes 多集群管理面板，带 AI 排障**
 

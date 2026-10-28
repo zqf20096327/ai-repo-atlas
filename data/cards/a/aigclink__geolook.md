@@ -1,6 +1,6 @@
 # aigclink/geolook
 
-⭐ 788 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/aigclink/geolook) · [官网](https://geolook.cc) · 组织维护 · 中文 README
+⭐ 790 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/aigclink/geolook) · [官网](https://geolook.cc) · 组织维护 · 中文 README
 
 **自托管 GEO 平台：让 AI 引擎更多提及并引用你的品牌**
 

@@ -1,6 +1,6 @@
 # rtk-ai/rtk
 
-⭐ 84,771 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
+⭐ 84,874 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
 
 **压缩开发命令输出的 CLI 代理，降低 agent 读取的 token 消耗**
 

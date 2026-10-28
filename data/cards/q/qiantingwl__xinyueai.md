@@ -1,6 +1,6 @@
 # qiantingwl/xinyueai
 
-⭐ 51 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/qiantingwl/xinyueai) · 组织维护 · 中文 README
+⭐ 52 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/qiantingwl/xinyueai) · 组织维护 · 中文 README
 
 **可自托管的 AI 创作与模型管理平台：多模型对话与图片/视频生成**
 

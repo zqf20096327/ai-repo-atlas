@@ -1,6 +1,6 @@
 # Akegarasu/lora-scripts
 
-⭐ 6,202 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/Akegarasu/lora-scripts) · 个人维护 · 中文 README
+⭐ 6,201 · Python · AGPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/Akegarasu/lora-scripts) · 个人维护 · 中文 README
 
 **面向 Stable Diffusion 的 LoRA/Dreambooth 训练 GUI 与脚本集**
 

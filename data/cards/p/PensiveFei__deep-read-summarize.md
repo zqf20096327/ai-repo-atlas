@@ -1,6 +1,6 @@
 # PensiveFei/deep-read-summarize
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/PensiveFei/deep-read-summarize) · 个人维护 · 中文 README
+⭐ 35 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/PensiveFei/deep-read-summarize) · 个人维护 · 中文 README
 
 **DSH 插件：把书籍/论文/视频/网页精读成结构化 Markdown 笔记**
 

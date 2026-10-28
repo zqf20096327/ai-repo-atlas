@@ -1,6 +1,6 @@
 # codefuturist/email-mcp
 
-⭐ 138 · TypeScript · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/codefuturist/email-mcp) · 个人维护
+⭐ 141 · TypeScript · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/codefuturist/email-mcp) · 个人维护
 
 **给 AI 助手的邮件 MCP 服务器：IMAP+SMTP 收发管理邮件**
 

@@ -1,6 +1,6 @@
 # online-ml/river
 
-⭐ 6,138 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/online-ml/river) · [官网](https://riverml.xyz) · 组织维护
+⭐ 6,135 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/online-ml/river) · [官网](https://riverml.xyz) · 组织维护
 
 **Python 在线机器学习库：流式数据上逐样本训练与预测**
 

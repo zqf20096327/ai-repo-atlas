@@ -1,6 +1,6 @@
 # AhmadJeddi/Resnet-DCBAM
 
-⭐ 39 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/AhmadJeddi/Resnet-DCBAM) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/AhmadJeddi/Resnet-DCBAM) · 个人维护
 
 **PyTorch 实现的 DCBAM 注意力模块与 ResNet50 骨干网络**
 

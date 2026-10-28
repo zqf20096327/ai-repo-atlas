@@ -1,6 +1,6 @@
 # kreshuklab/panseg
 
-⭐ 135 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kreshuklab/panseg) · [官网](https://kreshuklab.github.io/panseg/latest/) · 组织维护
+⭐ 136 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kreshuklab/panseg) · [官网](https://kreshuklab.github.io/panseg/latest/) · 组织维护
 
 **密集 3D 体积图像的细胞实例分割工具（含预训练模型）**
 

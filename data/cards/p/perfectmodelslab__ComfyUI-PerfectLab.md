@@ -1,6 +1,6 @@
 # perfectmodelslab/ComfyUI-PerfectLab
 
-⭐ 23 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) · [官网](https://registry.comfy.org/publishers/perfectmodelslab/nodes/comfyui-perfectlab) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/perfectmodelslab/ComfyUI-PerfectLab) · [官网](https://registry.comfy.org/publishers/perfectmodelslab/nodes/comfyui-perfectlab) · 组织维护
 
 **ComfyUI 单节点摄影棚提示词构建器：一键生成多镜头拍摄提示词**
 

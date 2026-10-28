@@ -1,6 +1,6 @@
 # perso-ai/perso-dubbing-plugin
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/perso-ai/perso-dubbing-plugin) · [官网](https://perso.ai/dubbing) · 组织维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/perso-ai/perso-dubbing-plugin) · [官网](https://perso.ai/dubbing) · 组织维护
 
 **供编程 Agent 使用的视频配音/字幕/剪辑技能插件**
 

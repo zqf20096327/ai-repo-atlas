@@ -1,6 +1,6 @@
 # lidge-jun/opencodex
 
-⭐ 17,970 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护
+⭐ 18,008 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护
 
 **本地代理：让 Codex/Claude Code 等前端接入任意 LLM 提供商**
 

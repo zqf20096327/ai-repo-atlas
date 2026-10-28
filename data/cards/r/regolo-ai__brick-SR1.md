@@ -1,6 +1,6 @@
 # regolo-ai/brick-SR1
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/regolo-ai/brick-SR1) · [官网](https://regolo.ai) · 组织维护
+⭐ 129 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/regolo-ai/brick-SR1) · [官网](https://regolo.ai) · 组织维护
 
 **LLM 智能路由网关：按提示能力与复杂度分发到模型池**
 

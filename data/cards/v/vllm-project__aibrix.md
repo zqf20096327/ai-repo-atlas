@@ -1,6 +1,6 @@
 # vllm-project/aibrix
 
-⭐ 5,163 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/aibrix) · 组织维护
+⭐ 5,165 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/aibrix) · 组织维护
 
 **面向生产 LLM 推理的 Kubernetes 控制平面与网关**
 

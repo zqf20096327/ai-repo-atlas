@@ -1,6 +1,6 @@
 # agentcathq/agentcat-typescript-sdk
 
-⭐ 126 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentcathq/agentcat-typescript-sdk) · [官网](https://agentcat.com) · 组织维护
+⭐ 126 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/agentcathq/agentcat-typescript-sdk) · [官网](https://agentcat.com) · 组织维护
 
 **MCP 服务器分析平台 SDK：追踪 agent 会话与遥测**
 

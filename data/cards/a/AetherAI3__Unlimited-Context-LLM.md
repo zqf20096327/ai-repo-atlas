@@ -1,6 +1,6 @@
 # AetherAI3/Unlimited-Context-LLM
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AetherAI3/Unlimited-Context-LLM) · [官网](https://aetherai3.github.io/Unlimited-Context-LLM/) · 组织维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/AetherAI3/Unlimited-Context-LLM) · [官网](https://aetherai3.github.io/Unlimited-Context-LLM/) · 组织维护
 
 **给本地 LLM 提供十亿级 token 磁盘记忆池的上下文引擎**
 

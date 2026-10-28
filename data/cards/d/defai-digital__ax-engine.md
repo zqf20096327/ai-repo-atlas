@@ -1,6 +1,6 @@
 # defai-digital/ax-engine
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/defai-digital/ax-engine) · [官网](https://ax-engine.app) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/defai-digital/ax-engine) · [官网](https://ax-engine.app) · 组织维护
 
 **面向 Apple Silicon 的本地多模型 LLM 推理运行时，提供 OpenAI 兼容接口**
 

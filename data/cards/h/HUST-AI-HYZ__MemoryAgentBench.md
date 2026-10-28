@@ -1,6 +1,6 @@
 # HUST-AI-HYZ/MemoryAgentBench
 
-⭐ 480 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/HUST-AI-HYZ/MemoryAgentBench) · [官网](https://arxiv.org/abs/2507.05257) · 组织维护
+⭐ 481 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/HUST-AI-HYZ/MemoryAgentBench) · [官网](https://arxiv.org/abs/2507.05257) · 组织维护
 
 **评测带记忆 LLM agent 的基准：增量多轮交互四能力测试**
 

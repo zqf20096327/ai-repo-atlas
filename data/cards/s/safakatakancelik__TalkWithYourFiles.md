@@ -1,6 +1,6 @@
 # safakatakancelik/TalkWithYourFiles
 
-⭐ 93 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/safakatakancelik/TalkWithYourFiles) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/safakatakancelik/TalkWithYourFiles) · 个人维护
 
 **上传文档并提问的开源 RAG 问答应用**
 

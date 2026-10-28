@@ -1,6 +1,6 @@
 # op7418/pilot-harness
 
-⭐ 280 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/op7418/pilot-harness) · 个人维护 · 中文 README
+⭐ 281 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/op7418/pilot-harness) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面客户端与插件套件，可视化管模型与 Provider**
 

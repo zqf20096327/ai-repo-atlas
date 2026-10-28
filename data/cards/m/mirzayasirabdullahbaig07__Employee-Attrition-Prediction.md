@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Employee-Attrition-Prediction
 
-⭐ 26 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Employee-Attrition-Prediction) · [官网](https://employee-attrition-prediction07.streamlit.app/) · 个人维护
+⭐ 27 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Employee-Attrition-Prediction) · [官网](https://employee-attrition-prediction07.streamlit.app/) · 个人维护
 
 **员工流失预测端到端项目：Colab 训练 + Streamlit 部署**
 

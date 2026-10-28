@@ -1,6 +1,6 @@
 # overmind-core/overmind
 
-⭐ 698 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/overmind-core/overmind) · [官网](https://overmindlab.ai) · 组织维护
+⭐ 716 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/overmind-core/overmind) · [官网](https://overmindlab.ai) · 组织维护
 
 **面向 AI agent 的持续训练与改进平台：traces→数据集→微调→评测**
 

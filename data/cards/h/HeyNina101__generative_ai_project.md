@@ -1,6 +1,6 @@
 # HeyNina101/generative_ai_project
 
-⭐ 903 · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/HeyNina101/generative_ai_project) · [官网](https://www.linkedin.com/in/ninadurann/) · 个人维护
+⭐ 902 · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/HeyNina101/generative_ai_project) · [官网](https://www.linkedin.com/in/ninadurann/) · 个人维护
 
 **生成式 AI 项目起步模板：提供结构与配置组织方式**
 

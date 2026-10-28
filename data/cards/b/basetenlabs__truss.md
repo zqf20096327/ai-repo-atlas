@@ -1,6 +1,6 @@
 # basetenlabs/truss
 
-⭐ 1,225 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/basetenlabs/truss) · [官网](https://truss.baseten.co) · 组织维护
+⭐ 1,226 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/basetenlabs/truss) · [官网](https://truss.baseten.co) · 组织维护
 
 **部署 ML 模型到生产的 CLI：打包、容器化与 GPU 配置**
 

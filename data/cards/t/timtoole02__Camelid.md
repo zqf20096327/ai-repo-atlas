@@ -1,6 +1,6 @@
 # timtoole02/Camelid
 
-⭐ 219 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/timtoole02/Camelid) · 个人维护
+⭐ 220 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/timtoole02/Camelid) · 个人维护
 
 **Rust 本地推理后端：桌面/浏览器/终端运行 GGUF 模型，OpenAI 兼容 API**
 

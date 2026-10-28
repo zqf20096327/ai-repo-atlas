@@ -1,6 +1,6 @@
 # Li-Evan/Bloom
 
-⭐ 293 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Li-Evan/Bloom) · [官网](https://bloomtutor.app) · 个人维护 · 中文 README
+⭐ 294 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Li-Evan/Bloom) · [官网](https://bloomtutor.app) · 个人维护 · 中文 README
 
 **自适应 1 对 1 AI 家教：生成大纲与课程并按反馈调整**
 

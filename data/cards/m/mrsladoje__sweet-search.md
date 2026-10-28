@@ -1,6 +1,6 @@
 # mrsladoje/sweet-search
 
-⭐ 50 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrsladoje/sweet-search) · [官网](https://www.npmjs.com/package/sweet-search) · 个人维护
+⭐ 52 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/mrsladoje/sweet-search) · [官网](https://www.npmjs.com/package/sweet-search) · 个人维护
 
 **面向 AI 编程代理的本地代码搜索工具集（六工具+索引）**
 

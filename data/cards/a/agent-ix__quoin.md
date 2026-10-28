@@ -1,6 +1,6 @@
 # agent-ix/quoin
 
-⭐ 21 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/agent-ix/quoin) · 组织维护
+⭐ 21 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/agent-ix/quoin) · 组织维护
 
 **面向编码 agent 的规格驱动开发技能包：先写合规规格再开发**
 

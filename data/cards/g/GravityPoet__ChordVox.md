@@ -1,6 +1,6 @@
 # GravityPoet/ChordVox
 
-⭐ 179 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/GravityPoet/ChordVox) · [官网](https://chordvox.com) · 个人维护 · 中文 README
+⭐ 180 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/GravityPoet/ChordVox) · [官网](https://chordvox.com) · 个人维护 · 中文 README
 
 **离线本地语音输入工具：说话即转文字并粘贴到光标处**
 

@@ -1,6 +1,6 @@
 # apoorvdarshan/scowld
 
-⭐ 30 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apoorvdarshan/scowld) · [官网](https://apps.apple.com/in/app/scowld-ai-voice-companion/id6760672848) · 个人维护
+⭐ 31 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apoorvdarshan/scowld) · [官网](https://apps.apple.com/in/app/scowld-ai-voice-companion/id6760672848) · 个人维护
 
 **iOS 语音 AI 伴侣应用：VRM 虚拟角色实时对话**
 

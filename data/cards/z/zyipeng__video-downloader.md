@@ -1,6 +1,6 @@
 # zyipeng/video-downloader
 
-⭐ 27 · Shell · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zyipeng/video-downloader) · 个人维护 · 中文 README
+⭐ 28 · Shell · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zyipeng/video-downloader) · 个人维护 · 中文 README
 
 **让 AI Agent 从 9 个视频平台下载视频的通用 Skill**
 

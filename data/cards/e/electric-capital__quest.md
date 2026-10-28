@@ -1,6 +1,6 @@
 # electric-capital/quest
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/electric-capital/quest) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/electric-capital/quest) · 组织维护
 
 **自托管 AI agent 工作台：让非工程师安全地用 LLM 处理敏感数据**
 

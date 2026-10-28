@@ -1,6 +1,6 @@
 # vuphongle/oss-pr-reviewer
 
-⭐ 114 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vuphongle/oss-pr-reviewer) · 个人维护
+⭐ 113 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/vuphongle/oss-pr-reviewer) · 个人维护
 
 **面向开源维护者的 AI PR 审查 CLI：生成结构化 Markdown 报告**
 

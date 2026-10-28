@@ -1,6 +1,6 @@
 # konnga/skill-buddy
 
-⭐ 122 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/konnga/skill-buddy) · 个人维护 · 中文 README
+⭐ 124 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/konnga/skill-buddy) · 个人维护 · 中文 README
 
 **桌面工作台：跨 AI 编码代理统一管理 Skills 与 MCP Servers**
 

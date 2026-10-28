@@ -1,6 +1,6 @@
 # riki137/nutrinutri
 
-⭐ 24 · Dart · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/riki137/nutrinutri) · [官网](https://nutrinutri.popelis.sk) · 个人维护
+⭐ 25 · Dart · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/riki137/nutrinutri) · [官网](https://nutrinutri.popelis.sk) · 个人维护
 
 **开源非营利的 AI 营养追踪应用：拍照或文字记录饮食**
 

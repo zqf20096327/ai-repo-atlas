@@ -1,6 +1,6 @@
 # AtlasOmnia/donna-starter
 
-⭐ 131 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/donna-starter) · [官网](https://hermesagenttools.com/) · 组织维护
+⭐ 133 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/donna-starter) · [官网](https://hermesagenttools.com/) · 组织维护
 
 **面向用户的开箱即用 Hermes Agent 预设档案（人设+72技能）**
 

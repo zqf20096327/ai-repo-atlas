@@ -1,6 +1,6 @@
 # Kommunicate-io/Kommunicate-Web-SDK
 
-⭐ 42 · JavaScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) · [官网](https://www.kommunicate.io) · 组织维护
+⭐ 42 · JavaScript · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) · [官网](https://www.kommunicate.io) · 组织维护
 
 **网站接入 AI 客服 agent 与人工在线聊天的 Web 插件 SDK**
 

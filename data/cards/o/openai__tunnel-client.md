@@ -1,6 +1,6 @@
 # openai/tunnel-client
 
-⭐ 600 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openai/tunnel-client) · 组织维护
+⭐ 601 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openai/tunnel-client) · 组织维护
 
 **OpenAI Secure MCP Tunnel 客户端：把本地/私有 MCP 服务接入 ChatGPT**
 

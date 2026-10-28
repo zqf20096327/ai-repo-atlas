@@ -1,6 +1,6 @@
 # Koratahiu/Advanced_Optimizers
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/Koratahiu/Advanced_Optimizers) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Koratahiu/Advanced_Optimizers) · 个人维护
 
 **PyTorch 高级优化器集合：AdamW/Muon 等变体与内存优化训练**
 

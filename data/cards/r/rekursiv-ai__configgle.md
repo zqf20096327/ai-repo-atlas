@@ -1,6 +1,6 @@
 # rekursiv-ai/configgle
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rekursiv-ai/configgle) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rekursiv-ai/configgle) · [官网](https://rekursiv.ai) · 组织维护
 
 **面向 ML 实验的类型安全分层配置库（dataclass 工厂+依赖注入）**
 

@@ -1,6 +1,6 @@
 # openyak/openyak
 
-⭐ 694 · TypeScript · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/openyak/openyak) · [官网](https://open-yak.com/) · 组织维护 · 中文 README
+⭐ 695 · TypeScript · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/openyak/openyak) · [官网](https://open-yak.com/) · 组织维护 · 中文 README
 
 **本地桌面 GUI：统一界面运行 Codex 与 Claude Code 等 AI agent**
 

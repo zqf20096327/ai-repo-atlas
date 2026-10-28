@@ -1,6 +1,6 @@
 # volcano-sh/volcano
 
-⭐ 6,044 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护
+⭐ 6,046 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/volcano-sh/volcano) · [官网](https://volcano.sh) · 组织维护
 
 **Kubernetes 原生批调度系统：运行 AI/大数据/HPC 作业**
 

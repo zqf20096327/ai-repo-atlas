@@ -1,6 +1,6 @@
 # SEYKOOOOOO/xeno-json-response-inspector
 
-⭐ 70 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/SEYKOOOOOO/xeno-json-response-inspector) · 个人维护
+⭐ 70 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/SEYKOOOOOO/xeno-json-response-inspector) · 个人维护
 
 **Chrome 扩展：捕获并检视浏览器 HTTP/JSON 流量用于调试与安全测试**
 

@@ -1,6 +1,6 @@
 # morethanrealio/brambit
 
-⭐ 21 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/morethanrealio/brambit) · 组织维护
+⭐ 21 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/morethanrealio/brambit) · 组织维护
 
 **自托管多人个人 AI 助手引擎：一台服务器，每人的独立助手**
 

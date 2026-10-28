@@ -1,6 +1,6 @@
 # lazercaveman/nuxt-starter
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lazercaveman/nuxt-starter) · [官网](https://alisoueidan.com/blog/nuxt-starter-kit-your-launchpad-for-modern-web-development) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lazercaveman/nuxt-starter) · [官网](https://alisoueidan.com/blog/nuxt-starter-kit-your-launchpad-for-modern-web-development) · 个人维护
 
 **预配置的 Nuxt 4 项目模板，含工具链与 Claude Code 配置**
 

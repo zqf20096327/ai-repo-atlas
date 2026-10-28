@@ -1,6 +1,6 @@
 # TreeX-X/JanusX
 
-⭐ 162 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TreeX-X/JanusX) · [官网](https://treex-x.github.io/JanusX/) · 个人维护 · 中文 README
+⭐ 163 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TreeX-X/JanusX) · [官网](https://treex-x.github.io/JanusX/) · 个人维护 · 中文 README
 
 **把项目、终端与 AI 编程 CLI 放进同一桌面工作区的 Electron 应用**
 

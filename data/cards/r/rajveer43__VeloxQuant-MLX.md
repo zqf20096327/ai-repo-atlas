@@ -1,6 +1,6 @@
 # rajveer43/VeloxQuant-MLX
 
-⭐ 32 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rajveer43/VeloxQuant-MLX) · [官网](https://veloxquant.dev/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rajveer43/VeloxQuant-MLX) · [官网](https://veloxquant.dev/) · 个人维护
 
 **Apple Silicon 上 MLX 模型的 KV 缓存压缩库：更长上下文、更少内存**
 

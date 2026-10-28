@@ -1,6 +1,6 @@
 # openai/MultiLangBench
 
-⭐ 38 · PLpgSQL · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openai/MultiLangBench) · 组织维护
+⭐ 42 · PLpgSQL · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/openai/MultiLangBench) · 组织维护
 
 **评测语言模型实现 SQLite 能力的多语言基准**
 

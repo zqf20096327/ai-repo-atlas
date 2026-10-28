@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-synthetic
 
-⭐ 1,661 · Jupyter Notebook · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 1,662 · Jupyter Notebook · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **生成合成表格与时序数据的 Python 库**
 

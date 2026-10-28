@@ -1,6 +1,6 @@
 # strzhao/autopilot
 
-⭐ 32 · Shell · MIT · 推送 2026-10-18 · [GitHub](https://github.com/strzhao/autopilot) · 个人维护 · 中文 README
+⭐ 32 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/strzhao/autopilot) · 个人维护 · 中文 README
 
 **Claude Code/Codex 的状态机循环引擎插件：目标进、合并 PR 出**
 

@@ -1,6 +1,6 @@
 # AimeBox/aime-box
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/AimeBox/aime-box) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/AimeBox/aime-box) · 个人维护 · 中文 README
 
 **多平台离线 AI Agent 聊天桌面客户端**
 

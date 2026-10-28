@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-HarmonyOS
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-HarmonyOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-HarmonyOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **面向 HarmonyOS 开发者的实时交互式视频生成 SDK**
 

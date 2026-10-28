@@ -1,6 +1,6 @@
 # geo-smart/mlgeo-book
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-26 · [GitHub](https://github.com/geo-smart/mlgeo-book) · [官网](https://geo-smart.github.io/mlgeo-book/) · 组织维护
+⭐ 21 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/geo-smart/mlgeo-book) · [官网](https://geo-smart.github.io/mlgeo-book/) · 组织维护
 
 **地球科学机器学习课程教材（UW ESS 469/569），2026 版**
 

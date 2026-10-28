@@ -1,6 +1,6 @@
 # pgEdge/ai-dba-workbench
 
-⭐ 49 · Go · PostgreSQL · 推送 2026-10-27 · [GitHub](https://github.com/pgEdge/ai-dba-workbench) · [官网](https://docs.pgedge.com/ai-dba-workbench) · 组织维护
+⭐ 49 · Go · PostgreSQL · 推送 2026-10-28 · [GitHub](https://github.com/pgEdge/ai-dba-workbench) · [官网](https://docs.pgedge.com/ai-dba-workbench) · 组织维护
 
 **面向 PostgreSQL 实例的监控管理系统，含可选 AI agent**
 

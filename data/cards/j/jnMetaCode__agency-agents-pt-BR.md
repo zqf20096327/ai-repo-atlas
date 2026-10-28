@@ -1,6 +1,6 @@
 # jnMetaCode/agency-agents-pt-BR
 
-⭐ 36 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-pt-BR) · [官网](https://www.npmjs.com/package/agency-agents-pt-br) · 个人维护
+⭐ 37 · Shell · MIT · 推送 2026-07-23 · [GitHub](https://github.com/jnMetaCode/agency-agents-pt-BR) · [官网](https://www.npmjs.com/package/agency-agents-pt-br) · 个人维护
 
 **巴西葡萄牙语版 AI agent 人格库：187 个即用系统提示词**
 

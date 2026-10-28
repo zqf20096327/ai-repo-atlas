@@ -1,6 +1,6 @@
 # remete618/widemem-ai
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/remete618/widemem-ai) · [官网](https://widemem.ai) · 个人维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/remete618/widemem-ai) · [官网](https://widemem.ai) · 个人维护
 
 **本地优先的 LLM 应用/agent 记忆层：抽取事实并管理长期记忆**
 

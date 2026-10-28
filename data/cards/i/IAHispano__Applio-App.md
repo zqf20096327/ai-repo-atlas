@@ -1,6 +1,6 @@
 # IAHispano/Applio-App
 
-⭐ 22 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IAHispano/Applio-App) · [官网](applio.org) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IAHispano/Applio-App) · [官网](applio.org) · 组织维护
 
 **桌面端 AI 语音转换、实时变声、语音合成与模型训练应用**
 

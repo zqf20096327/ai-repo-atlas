@@ -1,6 +1,6 @@
 # squirrelscan/squirrelscan
 
-⭐ 299 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/squirrelscan/squirrelscan) · [官网](https://squirrelscan.com) · 组织维护
+⭐ 299 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/squirrelscan/squirrelscan) · [官网](https://squirrelscan.com) · 组织维护
 
 **面向编码代理的网站 QA 审计 CLI，300+ 规则并给出修复方案**
 

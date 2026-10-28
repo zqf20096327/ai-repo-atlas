@@ -1,6 +1,6 @@
 # heng1234/claude-web
 
-⭐ 90 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heng1234/claude-web) · 个人维护 · 中文 README
+⭐ 91 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/heng1234/claude-web) · 个人维护 · 中文 README
 
 **Claude Code CLI 的本地 Web 界面，支持多会话与工具可视化**
 

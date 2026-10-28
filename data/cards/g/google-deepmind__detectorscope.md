@@ -1,6 +1,6 @@
 # google-deepmind/detectorscope
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/detectorscope) · [官网](https://aclanthology.org/2026.emnlp-main.762/) · 组织维护
+⭐ 204 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/detectorscope) · [官网](https://aclanthology.org/2026.emnlp-main.762/) · 组织维护
 
 **可解释 AI 文本检测器：每条预测分解为可读特征**
 

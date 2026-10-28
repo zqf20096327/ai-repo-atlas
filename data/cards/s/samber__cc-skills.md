@@ -1,6 +1,6 @@
 # samber/cc-skills
 
-⭐ 238 · CSS · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills) · [官网](https://skills.sh/samber/cc-skills) · 个人维护
+⭐ 241 · CSS · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills) · [官网](https://skills.sh/samber/cc-skills) · 个人维护
 
 **面向 AI agent 的可复用技能集合：按需加载的领域指令集**
 

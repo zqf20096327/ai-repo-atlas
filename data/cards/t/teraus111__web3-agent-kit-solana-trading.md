@@ -1,6 +1,6 @@
 # teraus111/web3-agent-kit-solana-trading
 
-⭐ 91 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/teraus111/web3-agent-kit-solana-trading) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/teraus111/web3-agent-kit-solana-trading) · 个人维护
 
 **构建与区块链交互的自主 AI agent 的 Python 框架**
 

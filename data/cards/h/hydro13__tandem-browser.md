@@ -1,6 +1,6 @@
 # hydro13/tandem-browser
 
-⭐ 625 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hydro13/tandem-browser) · [官网](https://tandembrowser.org/) · 个人维护
+⭐ 624 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hydro13/tandem-browser) · [官网](https://tandembrowser.org/) · 个人维护
 
 **本地优先的 Electron 浏览器：人与 AI agent 共用同一浏览器**
 

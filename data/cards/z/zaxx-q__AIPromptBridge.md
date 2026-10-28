@@ -1,6 +1,6 @@
 # zaxx-q/AIPromptBridge
 
-⭐ 19 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/zaxx-q/AIPromptBridge) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zaxx-q/AIPromptBridge) · 个人维护
 
 **系统级 AI 助手托盘应用：全局热键编辑文本、截屏识别、音频转写、TTS**
 

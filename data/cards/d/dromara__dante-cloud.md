@@ -1,6 +1,6 @@
 # dromara/dante-cloud
 
-⭐ 969 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dromara/dante-cloud) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
+⭐ 969 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dromara/dante-cloud) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
 
 **给企业的微服务/单体可切换云原生基座，含 AI Agent 开发支持**
 

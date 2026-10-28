@@ -1,6 +1,6 @@
 # Tahirpathan-AiLab/LangChain_Chat_models
 
-⭐ 20 · Python · 推送 2026-09-05 · [GitHub](https://github.com/Tahirpathan-AiLab/LangChain_Chat_models) · [官网](https://mrtahirpathan.netlify.app/) · 个人维护
+⭐ 21 · Python · 推送 2026-09-05 · [GitHub](https://github.com/Tahirpathan-AiLab/LangChain_Chat_models) · [官网](https://mrtahirpathan.netlify.app/) · 个人维护
 
 **LangChain 入门教程仓库：配套视频的 Python 实操示例集**
 

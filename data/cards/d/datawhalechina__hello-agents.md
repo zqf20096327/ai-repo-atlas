@@ -1,6 +1,6 @@
 # datawhalechina/hello-agents
 
-⭐ 84,965 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
+⭐ 85,122 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
 
 **面向开发者的从零构建智能体系统开源教程**
 

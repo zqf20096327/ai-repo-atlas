@@ -1,6 +1,6 @@
 # composo-ai/DishwasherBench
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/composo-ai/DishwasherBench) · [官网](https://composo.ai) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/composo-ai/DishwasherBench) · [官网](https://composo.ai) · 组织维护
 
 **洗碗机装载游戏基准：物理仿真中评测语言模型**
 

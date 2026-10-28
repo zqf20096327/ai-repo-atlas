@@ -1,6 +1,6 @@
 # anirudhmkdev/Txt2Img
 
-⭐ 41 · CSS · 推送 2026-05-17 · [GitHub](https://github.com/anirudhmkdev/Txt2Img) · [官网](https://txt2img-one.vercel.app/) · 个人维护
+⭐ 42 · CSS · 推送 2026-05-17 · [GitHub](https://github.com/anirudhmkdev/Txt2Img) · [官网](https://txt2img-one.vercel.app/) · 个人维护
 
 **浏览器端免费 AI 文生图工具，无需 API key**
 

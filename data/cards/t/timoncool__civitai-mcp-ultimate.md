@@ -1,6 +1,6 @@
 # timoncool/civitai-mcp-ultimate
 
-⭐ 24 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/timoncool/civitai-mcp-ultimate) · [官网](https://pypi.org/project/civitai-mcp-ultimate/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/timoncool/civitai-mcp-ultimate) · [官网](https://pypi.org/project/civitai-mcp-ultimate/) · 个人维护
 
 **Civitai API 的 MCP 服务器：让 AI 助手搜索与下载模型**
 

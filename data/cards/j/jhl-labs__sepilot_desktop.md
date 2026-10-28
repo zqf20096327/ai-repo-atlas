@@ -1,6 +1,6 @@
 # jhl-labs/sepilot_desktop
 
-⭐ 50 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/jhl-labs/sepilot_desktop) · [官网](https://jhl-labs.github.io/sepilot_desktop/) · 组织维护
+⭐ 50 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jhl-labs/sepilot_desktop) · [官网](https://jhl-labs.github.io/sepilot_desktop/) · 组织维护
 
 **本地 AI 代理 Sepilot 的桌面客户端应用**
 

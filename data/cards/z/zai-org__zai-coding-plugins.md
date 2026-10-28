@@ -1,6 +1,6 @@
 # zai-org/zai-coding-plugins
 
-⭐ 131 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/zai-org/zai-coding-plugins) · 组织维护 · 中文 README
+⭐ 130 · JavaScript · Apache-2.0 · 推送 2026-02-22 · [GitHub](https://github.com/zai-org/zai-coding-plugins) · 组织维护 · 中文 README
 
 **Z.ai 的 Claude Code 插件市场：GLM Coding Plan 用量查询与反馈**
 

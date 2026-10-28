@@ -1,6 +1,6 @@
 # lalabase/lalabase
 
-⭐ 62 · Ruby · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/lalabase/lalabase) · [官网](https://lalabase.com) · 组织维护
+⭐ 65 · Ruby · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/lalabase/lalabase) · [官网](https://lalabase.com) · 组织维护
 
 **自托管的项目管理系统：工单/计时/文档/会议，AI 助手带出处引用**
 

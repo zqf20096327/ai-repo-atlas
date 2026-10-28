@@ -1,6 +1,6 @@
 # slimeslab/ComProScanner
 
-⭐ 19 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/slimeslab/ComProScanner) · [官网](https://slimeslab.github.io/ComProScanner/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/slimeslab/ComProScanner) · [官网](https://slimeslab.github.io/ComProScanner/) · 组织维护
 
 **材料学文献中提取组成-性能数据的 Python 多智能体框架**
 

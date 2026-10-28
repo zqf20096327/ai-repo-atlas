@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-WorldPlay
 
-⭐ 1,622 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WorldPlay) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 1,623 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WorldPlay) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **腾讯开源的实时交互式世界模型：动作驱动的流式视频生成**
 

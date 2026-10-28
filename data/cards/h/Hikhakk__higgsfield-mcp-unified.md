@@ -1,6 +1,6 @@
 # Hikhakk/higgsfield-mcp-unified
 
-⭐ 99 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hikhakk/higgsfield-mcp-unified) · [官网](https://docs.higgsfield.ai/docs) · 个人维护
+⭐ 100 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hikhakk/higgsfield-mcp-unified) · [官网](https://docs.higgsfield.ai/docs) · 个人维护
 
 **本地优先的 Higgsfield AI MCP 服务器：85 个图像视频模型统一接入**
 

@@ -1,6 +1,6 @@
 # choushunn/awesome-RK3588
 
-⭐ 605 · CC0-1.0 · 推送 2025-12-07 · [GitHub](https://github.com/choushunn/awesome-RK3588) · 个人维护 · 中文 README
+⭐ 606 · CC0-1.0 · 推送 2025-12-07 · [GitHub](https://github.com/choushunn/awesome-RK3588) · 个人维护 · 中文 README
 
 **RK3588 芯片开发资源策展清单：SDK、模型、板卡、系统一册收**
 

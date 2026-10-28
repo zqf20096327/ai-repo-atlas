@@ -1,6 +1,6 @@
 # xlang-ai/OSWorld
 
-⭐ 3,238 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
+⭐ 3,240 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
 
 **评测多模态 Agent 在真实计算机环境中执行任务的开源基准**
 

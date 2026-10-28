@@ -1,6 +1,6 @@
 # Senzo13/JoyBoy
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Senzo13/JoyBoy) · [官网](https://github.com/Senzo13/JoyBoy) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Senzo13/JoyBoy) · [官网](https://github.com/Senzo13/JoyBoy) · 个人维护
 
 **本地优先 AI 工作站：聊天/生图/修图/视频一站操作**
 

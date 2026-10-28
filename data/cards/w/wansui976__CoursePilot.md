@@ -1,6 +1,6 @@
 # wansui976/CoursePilot
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wansui976/CoursePilot) · [官网](https://wansui976.github.io/CoursePilot/) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wansui976/CoursePilot) · [官网](https://wansui976.github.io/CoursePilot/) · 个人维护 · 中文 README
 
 **本地优先的 AI 网课学习工作台：转写、笔记、问答与间隔复习**
 

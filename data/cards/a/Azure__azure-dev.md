@@ -1,6 +1,6 @@
 # Azure/azure-dev
 
-⭐ 570 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Azure/azure-dev) · [官网](https://aka.ms/azd) · 组织维护
+⭐ 570 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure/azure-dev) · [官网](https://aka.ms/azd) · 组织维护
 
 **微软官方 Azure 应用开发部署 CLI（azd）**
 

@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-studio
 
-⭐ 659 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
+⭐ 662 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
 
 **面向 AgentScope 开发者的多智能体应用本地可视化工具**
 

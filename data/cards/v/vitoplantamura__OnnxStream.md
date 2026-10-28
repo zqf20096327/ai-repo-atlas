@@ -1,6 +1,6 @@
 # vitoplantamura/OnnxStream
 
-⭐ 2,089 · C++ · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/vitoplantamura/OnnxStream) · [官网](https://whisper.vitoplantamura.com/) · 个人维护
+⭐ 2,090 · C++ · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/vitoplantamura/OnnxStream) · [官网](https://whisper.vitoplantamura.com/) · 个人维护
 
 **C++ 极低内存 ONNX 推理库，可在 RPI Zero 2 跑 SDXL**
 

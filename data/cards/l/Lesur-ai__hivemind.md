@@ -1,6 +1,6 @@
 # Lesur-ai/hivemind
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lesur-ai/hivemind) · [官网](https://lesur.ai/hivemind) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lesur-ai/hivemind) · [官网](https://lesur.ai/hivemind) · 组织维护
 
 **面向多 Agent 共享记忆的 MCP 记忆层服务（短/中/长三层）**
 

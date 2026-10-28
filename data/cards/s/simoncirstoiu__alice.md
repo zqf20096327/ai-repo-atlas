@@ -1,6 +1,6 @@
 # simoncirstoiu/alice
 
-⭐ 411 · JavaScript · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/simoncirstoiu/alice) · 个人维护
+⭐ 411 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/simoncirstoiu/alice) · 个人维护
 
 **面向 Frigate 摄像头的 YOLO 数据集标注、训练与管理工具包**
 

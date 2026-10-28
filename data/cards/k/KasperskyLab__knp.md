@@ -1,6 +1,6 @@
 # KasperskyLab/knp
 
-⭐ 55 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/KasperskyLab/knp) · 组织维护
+⭐ 56 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/KasperskyLab/knp) · 组织维护
 
 **卡巴斯基脉冲神经网络平台：开发、训练与执行 SNN**
 

@@ -1,6 +1,6 @@
 # lovnishverma/Python-Getting-Started
 
-⭐ 52 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/lovnishverma/Python-Getting-Started) · 个人维护
+⭐ 52 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/lovnishverma/Python-Getting-Started) · 个人维护
 
 **面向学习者的 Python 数据科学/ML/DL 实践笔记本合集（50+）**
 

@@ -1,6 +1,6 @@
 # openai/apps-sdk-ui
 
-⭐ 971 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/openai/apps-sdk-ui) · [官网](https://openai.github.io/apps-sdk-ui/) · 组织维护
+⭐ 972 · TypeScript · MIT · 推送 2026-05-20 · [GitHub](https://github.com/openai/apps-sdk-ui) · [官网](https://openai.github.io/apps-sdk-ui/) · 组织维护
 
 **构建 ChatGPT 应用的 React 组件库与设计系统**
 

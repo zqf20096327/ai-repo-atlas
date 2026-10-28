@@ -1,6 +1,6 @@
 # symfony/ai-platform
 
-⭐ 55 · PHP · MIT · 推送 2026-10-26 · [GitHub](https://github.com/symfony/ai-platform) · [官网](https://symfony.com/packages/ai-platform) · 组织维护
+⭐ 55 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/symfony/ai-platform) · [官网](https://symfony.com/packages/ai-platform) · 组织维护
 
 **Symfony 的 AI 平台抽象组件：统一对接多种模型服务商**
 

@@ -1,6 +1,6 @@
 # reservoirpy/reservoirpy
 
-⭐ 662 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/reservoirpy/reservoirpy) · [官网](https://reservoirpy.readthedocs.io/) · 组织维护
+⭐ 662 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/reservoirpy/reservoirpy) · [官网](https://reservoirpy.readthedocs.io/) · 组织维护
 
 **Python 储备计算库：构建回声状态网络做时间序列预测与分类**
 

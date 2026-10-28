@@ -1,6 +1,6 @@
 # cordum-io/cordum
 
-⭐ 510 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
+⭐ 510 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
 
 **AI agent 治理控制平面：在风险操作前强制策略与人工审批**
 

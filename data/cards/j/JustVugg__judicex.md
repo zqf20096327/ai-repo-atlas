@@ -1,6 +1,6 @@
 # JustVugg/judicex
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/JustVugg/judicex) · 个人维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/JustVugg/judicex) · 个人维护
 
 **给律师与法律团队的开源法律 AI 工作台**
 

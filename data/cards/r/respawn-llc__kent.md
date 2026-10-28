@@ -1,6 +1,6 @@
 # respawn-llc/kent
 
-⭐ 82 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/respawn-llc/kent) · [官网](https://kent.sh) · 组织维护
+⭐ 82 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/respawn-llc/kent) · [官网](https://kent.sh) · 组织维护
 
 **面向专业工程师的终端编码 Agent，主打长任务输出质量**
 

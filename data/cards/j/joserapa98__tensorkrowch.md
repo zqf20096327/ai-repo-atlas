@@ -1,6 +1,6 @@
 # joserapa98/tensorkrowch
 
-⭐ 52 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/joserapa98/tensorkrowch) · [官网](https://joserapa98.github.io/tensorkrowch/) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/joserapa98/tensorkrowch) · [官网](https://joserapa98.github.io/tensorkrowch/) · 个人维护
 
 **基于 PyTorch 的张量网络构建与训练库，面向机器学习**
 

@@ -1,6 +1,6 @@
 # ChiR24/opencode-tps-meter
 
-⭐ 36 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/ChiR24/opencode-tps-meter) · 个人维护
+⭐ 35 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/ChiR24/opencode-tps-meter) · 个人维护
 
 **OpenCode 插件：实时显示 AI token 吞吐率（TPS）仪表**
 

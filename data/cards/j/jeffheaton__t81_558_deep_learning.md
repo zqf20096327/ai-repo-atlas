@@ -1,6 +1,6 @@
 # jeffheaton/t81_558_deep_learning
 
-⭐ 5,730 · Jupyter Notebook · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/jeffheaton/t81_558_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
+⭐ 5,731 · Jupyter Notebook · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/jeffheaton/t81_558_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
 
 **圣路易斯华盛顿大学深度学习课程教材仓库（Keras/TF 版）**
 

@@ -1,6 +1,6 @@
 # krakonjac300-pixel/podcast-shorts-factory
 
-⭐ 130 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/krakonjac300-pixel/podcast-shorts-factory) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/krakonjac300-pixel/podcast-shorts-factory) · 个人维护
 
 **十个协作 AI agent 把长播客自动切成竖屏短视频并发布**
 

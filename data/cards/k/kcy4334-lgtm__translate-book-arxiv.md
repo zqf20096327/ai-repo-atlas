@@ -1,6 +1,6 @@
 # kcy4334-lgtm/translate-book-arxiv
 
-⭐ 33 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kcy4334-lgtm/translate-book-arxiv) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kcy4334-lgtm/translate-book-arxiv) · 个人维护
 
 **把 arXiv 论文 LaTeX 源码翻译成书籍 PDF 的 agent 技能**
 

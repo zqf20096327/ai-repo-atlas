@@ -1,6 +1,6 @@
 # costajohnt/oss-autopilot
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/costajohnt/oss-autopilot) · [官网](https://github.com/costajohnt/oss-autopilot#readme) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/costajohnt/oss-autopilot) · [官网](https://github.com/costajohnt/oss-autopilot#readme) · 个人维护
 
 **管理开源贡献的 Claude Code 插件：追踪 PR、起草回复、找 issue**
 

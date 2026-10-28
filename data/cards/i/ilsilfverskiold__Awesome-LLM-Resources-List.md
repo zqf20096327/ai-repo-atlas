@@ -1,6 +1,6 @@
 # ilsilfverskiold/Awesome-LLM-Resources-List
 
-⭐ 554 · Python · 推送 2026-10-27 · [GitHub](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) · 个人维护
+⭐ 554 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) · 个人维护
 
 **面向应用 AI 工程的 LLM 工具与资源策展对比清单**
 

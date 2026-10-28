@@ -1,6 +1,6 @@
 # khairulislam/ML-conferences
 
-⭐ 262 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/khairulislam/ML-conferences) · [官网](https://khairulislam.github.io/ML-conferences) · 个人维护
+⭐ 263 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/khairulislam/ML-conferences) · [官网](https://khairulislam.github.io/ML-conferences) · 个人维护
 
 **机器学习会议清单：截稿日期、地点与录用论文列表**
 

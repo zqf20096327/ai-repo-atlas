@@ -1,6 +1,6 @@
 # zilliztech/vts
 
-⭐ 134 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zilliztech/vts) · [官网](https://zilliz.com/) · 组织维护
+⭐ 134 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zilliztech/vts) · [官网](https://zilliz.com/) · 组织维护
 
 **向量与非结构化数据迁移工具：把各类数据源接入 Milvus**
 

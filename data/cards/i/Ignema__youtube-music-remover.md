@@ -1,6 +1,6 @@
 # Ignema/youtube-music-remover
 
-⭐ 76 · Kotlin · MIT · 推送 2026-04-15 · [GitHub](https://github.com/Ignema/youtube-music-remover) · 个人维护
+⭐ 75 · Kotlin · MIT · 推送 2026-04-15 · [GitHub](https://github.com/Ignema/youtube-music-remover) · 个人维护
 
 **用 AI 音频分离从视频中去除背景音乐、保留人声**
 

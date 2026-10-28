@@ -1,6 +1,6 @@
 # vaultys/VaultysClaw
 
-⭐ 83 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vaultys/VaultysClaw) · [官网](https://docs.vaultys.ai) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vaultys/VaultysClaw) · [官网](https://docs.vaultys.ai) · 组织维护
 
 **面向 AI agent 的身份与访问控制平面，基于签名能力证书**
 

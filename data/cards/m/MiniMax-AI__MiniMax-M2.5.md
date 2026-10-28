@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-M2.5
 
-⭐ 586 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.5) · 组织维护 · 中文 README
+⭐ 585 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.5) · 组织维护 · 中文 README
 
 **面向编码与 agent 任务的 MiniMax M2.5 前沿模型发布仓库**
 

@@ -1,6 +1,6 @@
 # EricLBuehler/mistral.rs
 
-⭐ 7,780 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EricLBuehler/mistral.rs) · 个人维护
+⭐ 7,781 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EricLBuehler/mistral.rs) · 个人维护
 
 **Rust 编写的 LLM 推理引擎与服务器，面向开发者本地部署**
 

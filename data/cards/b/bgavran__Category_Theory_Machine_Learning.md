@@ -1,6 +1,6 @@
 # bgavran/Category_Theory_Machine_Learning
 
-⭐ 1,551 · Python · 推送 2026-10-02 · [GitHub](https://github.com/bgavran/Category_Theory_Machine_Learning) · 个人维护
+⭐ 1,550 · Python · 推送 2026-10-02 · [GitHub](https://github.com/bgavran/Category_Theory_Machine_Learning) · 个人维护
 
 **范畴论视角研究机器学习的论文清单，按领域分组**
 

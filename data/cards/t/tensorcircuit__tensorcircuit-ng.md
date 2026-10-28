@@ -1,6 +1,6 @@
 # tensorcircuit/tensorcircuit-ng
 
-⭐ 93 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorcircuit/tensorcircuit-ng) · [官网](https://tensorcircuit-ng.readthedocs.io/en/latest/platform/index.html) · 组织维护 · 中文 README
+⭐ 93 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tensorcircuit/tensorcircuit-ng) · [官网](https://tensorcircuit-ng.readthedocs.io/en/latest/platform/index.html) · 组织维护 · 中文 README
 
 **给量子研究者的张量网络量子电路模拟与AI工作流框架**
 

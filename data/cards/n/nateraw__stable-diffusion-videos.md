@@ -1,6 +1,6 @@
 # nateraw/stable-diffusion-videos
 
-⭐ 4,712 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/nateraw/stable-diffusion-videos) · 个人维护
+⭐ 4,711 · Python · Apache-2.0 · 推送 2025-12-16 · [GitHub](https://github.com/nateraw/stable-diffusion-videos) · 个人维护
 
 **用 Stable Diffusion 在文本提示间插值生成视频的库**
 

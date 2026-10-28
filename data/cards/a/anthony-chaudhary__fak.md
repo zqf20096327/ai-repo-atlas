@@ -1,6 +1,6 @@
 # anthony-chaudhary/fak
 
-⭐ 42 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthony-chaudhary/fak) · [官网](https://anthony-chaudhary.github.io/fak/showcase.html) · 个人维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anthony-chaudhary/fak) · [官网](https://anthony-chaudhary.github.io/fak/showcase.html) · 个人维护
 
 **面向开发者的本地 agentic 运行时：原生推理、KV 缓存与 agent 治理**
 

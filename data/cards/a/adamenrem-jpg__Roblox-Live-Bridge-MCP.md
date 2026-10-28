@@ -1,6 +1,6 @@
 # adamenrem-jpg/Roblox-Live-Bridge-MCP
 
-⭐ 70 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/adamenrem-jpg/Roblox-Live-Bridge-MCP) · 个人维护
+⭐ 70 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/adamenrem-jpg/Roblox-Live-Bridge-MCP) · 个人维护
 
 **自托管 MCP 桥接层：让 AI 实时观察并操控 Roblox 等客户端**
 

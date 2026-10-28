@@ -1,6 +1,6 @@
 # YuriCrystal/n8n-marketing-flows
 
-⭐ 181 · MIT · 推送 2026-06-27 · [GitHub](https://github.com/YuriCrystal/n8n-marketing-flows) · 个人维护 · 中文 README
+⭐ 182 · MIT · 推送 2026-06-27 · [GitHub](https://github.com/YuriCrystal/n8n-marketing-flows) · 个人维护 · 中文 README
 
 **n8n 行销自动化工作流模板库（81 支 JSON，含免 key 本机版）**
 

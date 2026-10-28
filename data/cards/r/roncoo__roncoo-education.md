@@ -1,6 +1,6 @@
 # roncoo/roncoo-education
 
-⭐ 1,567 · Java · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/roncoo/roncoo-education) · [官网](https://www.roncoo.net) · 组织维护 · 中文 README
+⭐ 1,566 · Java · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/roncoo/roncoo-education) · [官网](https://www.roncoo.net) · 组织维护 · 中文 README
 
 **前后端分离的分布式在线教育网校系统（点播/直播/考试）**
 

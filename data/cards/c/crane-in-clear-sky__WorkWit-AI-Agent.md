@@ -1,6 +1,6 @@
 # crane-in-clear-sky/WorkWit-AI-Agent
 
-⭐ 106 · Python · 推送 2026-08-27 · [GitHub](https://github.com/crane-in-clear-sky/WorkWit-AI-Agent) · 个人维护 · 中文 README
+⭐ 108 · Python · 推送 2026-08-27 · [GitHub](https://github.com/crane-in-clear-sky/WorkWit-AI-Agent) · 个人维护 · 中文 README
 
 **企业私有化部署的 AI Agent 办公平台，内置合同审核与简历筛选**
 

@@ -1,6 +1,6 @@
 # ZhuofanWu/TaxiAgent
 
-⭐ 106 · Java · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ZhuofanWu/TaxiAgent) · 个人维护 · 中文 README
+⭐ 107 · Java · MIT · 推送 2026-09-13 · [GitHub](https://github.com/ZhuofanWu/TaxiAgent) · 个人维护 · 中文 README
 
 **网约车业务全栈实战项目：Redis 高并发 + 多 Agent + RAG**
 

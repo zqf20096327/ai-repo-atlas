@@ -1,6 +1,6 @@
 # LLMQuant/skills
 
-⭐ 235 · Shell · MIT · 推送 2026-05-30 · [GitHub](https://github.com/LLMQuant/skills) · [官网](https://llmquantdata.com/agent) · 组织维护 · 中文 README
+⭐ 236 · Shell · MIT · 推送 2026-05-30 · [GitHub](https://github.com/LLMQuant/skills) · [官网](https://llmquantdata.com/agent) · 组织维护 · 中文 README
 
 **面向金融 Agent 的技能目录：18 类工作流接入 LLMQuant Data**
 

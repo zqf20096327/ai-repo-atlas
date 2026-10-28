@@ -1,6 +1,6 @@
 # AgentSkillOS/SkillAnything
 
-⭐ 473 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/AgentSkillOS/SkillAnything) · 组织维护
+⭐ 474 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/AgentSkillOS/SkillAnything) · 组织维护
 
 **为 AI agent 平台自动生成生产级技能（Skill）的元技能工具**
 

@@ -1,6 +1,6 @@
 # felixrieseberg/clippy
 
-⭐ 1,391 · TypeScript · NOASSERTION · 推送 2025-11-15 · [GitHub](https://github.com/felixrieseberg/clippy) · [官网](https://felixrieseberg.github.io/clippy/) · 个人维护
+⭐ 1,393 · TypeScript · NOASSERTION · 推送 2025-11-15 · [GitHub](https://github.com/felixrieseberg/clippy) · [官网](https://felixrieseberg.github.io/clippy/) · 个人维护
 
 **复古 Clippy 风格的本地 LLM 桌面聊天应用**
 

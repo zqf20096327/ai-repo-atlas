@@ -1,6 +1,6 @@
 # agents-flex/agents-flex
 
-⭐ 1,041 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agents-flex/agents-flex) · [官网](https://agentsflex.com) · 组织维护 · 中文 README
+⭐ 1,042 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agents-flex/agents-flex) · [官网](https://agentsflex.com) · 组织维护 · 中文 README
 
 **面向 Java 开发者的轻量级 AI Agent 开发框架**
 

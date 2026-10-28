@@ -1,6 +1,6 @@
 # jakubburkiewicz/node-red-contrib-ollama
 
-⭐ 30 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jakubburkiewicz/node-red-contrib-ollama) · [官网](https://jakubburkiewicz.github.io/node-red-contrib-ollama/) · 个人维护
+⭐ 30 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jakubburkiewicz/node-red-contrib-ollama) · [官网](https://jakubburkiewicz.github.io/node-red-contrib-ollama/) · 个人维护
 
 **把 Ollama 封装为 Node-RED 节点的集成模块**
 

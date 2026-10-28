@@ -1,6 +1,6 @@
 # BaoNguyen09/repo-explainer
 
-⭐ 22 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/BaoNguyen09/repo-explainer) · [官网](http://repex.thienbao.dev) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/BaoNguyen09/repo-explainer) · [官网](http://repex.thienbao.dev) · 个人维护
 
 **输入 GitHub 仓库 URL 即生成 AI 解读与追问聊天的应用**
 

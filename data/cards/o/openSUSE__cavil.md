@@ -1,6 +1,6 @@
 # openSUSE/cavil
 
-⭐ 64 · Perl · GPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openSUSE/cavil) · 组织维护
+⭐ 64 · Perl · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openSUSE/cavil) · 组织维护
 
 **开源法律审查与 SBOM 系统，供 openSUSE/SUSE 打包合规使用**
 

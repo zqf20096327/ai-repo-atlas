@@ -1,6 +1,6 @@
 # tanjimin/Chromnitron
 
-⭐ 28 · Python · 推送 2026-05-05 · [GitHub](https://github.com/tanjimin/Chromnitron) · 组织维护
+⭐ 29 · Python · 推送 2026-05-05 · [GitHub](https://github.com/tanjimin/Chromnitron) · 组织维护
 
 **预测人类基因组上染色质相关蛋白结合位点的多模态模型**
 

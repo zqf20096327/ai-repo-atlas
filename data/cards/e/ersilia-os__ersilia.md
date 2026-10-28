@@ -1,6 +1,6 @@
 # ersilia-os/ersilia
 
-⭐ 311 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ersilia-os/ersilia) · [官网](https://ersilia.io) · 组织维护
+⭐ 316 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ersilia-os/ersilia) · [官网](https://ersilia.io) · 组织维护
 
 **面向传染病药物发现研究的预训练 AI/ML 模型仓库与 CLI**
 

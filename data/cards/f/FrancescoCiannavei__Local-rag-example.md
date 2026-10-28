@@ -1,6 +1,6 @@
 # FrancescoCiannavei/Local-rag-example
 
-⭐ 20 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FrancescoCiannavei/Local-rag-example) · 个人维护
+⭐ 19 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FrancescoCiannavei/Local-rag-example) · 个人维护
 
 **RAG 架构讲解与本地示例仓库（PgSql+Ollama+Go）**
 

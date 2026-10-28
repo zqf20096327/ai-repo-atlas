@@ -1,6 +1,6 @@
 # Azure-Samples/pizza-mcp-agents
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Azure-Samples/pizza-mcp-agents) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/pizza-mcp-agents) · 组织维护
 
 **披萨订餐 MCP 服务器示例：教 AI agent 调用真实 API**
 

@@ -1,6 +1,6 @@
 # kdqed/zaturn
 
-⭐ 75 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/kdqed/zaturn) · [官网](https://zaturn.kdqed.com) · 个人维护
+⭐ 76 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/kdqed/zaturn) · [官网](https://zaturn.kdqed.com) · 个人维护
 
 **让 AI 直接对数据库执行 SQL 的数据分析工具（MCP/网页界面）**
 

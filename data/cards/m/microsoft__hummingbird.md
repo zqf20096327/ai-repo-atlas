@@ -1,6 +1,6 @@
 # microsoft/hummingbird
 
-⭐ 3,554 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/hummingbird) · 组织维护
+⭐ 3,553 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/microsoft/hummingbird) · 组织维护
 
 **将训练好的传统 ML 模型编译为张量计算以加速推理的库**
 

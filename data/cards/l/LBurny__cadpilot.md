@@ -1,6 +1,6 @@
 # LBurny/cadpilot
 
-⭐ 22 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/LBurny/cadpilot) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/LBurny/cadpilot) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 操控 FreeCAD 建模的服务器**
 

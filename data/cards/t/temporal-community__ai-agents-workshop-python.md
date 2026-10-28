@@ -1,6 +1,6 @@
 # temporal-community/ai-agents-workshop-python
 
-⭐ 36 · Python · 推送 2026-06-05 · [GitHub](https://github.com/temporal-community/ai-agents-workshop-python) · 组织维护
+⭐ 37 · Python · 推送 2026-06-05 · [GitHub](https://github.com/temporal-community/ai-agents-workshop-python) · 组织维护
 
 **渐进式教程：用 OpenAI Agents SDK 与 Temporal 构建 AI agent**
 

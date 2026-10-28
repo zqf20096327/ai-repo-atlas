@@ -1,6 +1,6 @@
 # ben1234560/AiLearning-Theory-Applying
 
-⭐ 3,586 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ben1234560/AiLearning-Theory-Applying) · 个人维护 · 中文 README
+⭐ 3,587 · Jupyter Notebook · MIT · 推送 2026-10-18 · [GitHub](https://github.com/ben1234560/AiLearning-Theory-Applying) · 个人维护 · 中文 README
 
 **AI 理论与应用实战教程库：数学基础到 Transformer/BERT 与竞赛**
 

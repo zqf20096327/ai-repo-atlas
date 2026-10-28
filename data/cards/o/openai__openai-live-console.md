@@ -1,6 +1,6 @@
 # openai/openai-live-console
 
-⭐ 30 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/openai/openai-live-console) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/openai/openai-live-console) · 组织维护
 
 **面向 gpt-live-1 的本地语音控制台示例，含只读工具与后端委托**
 

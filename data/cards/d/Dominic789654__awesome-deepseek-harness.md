@@ -1,6 +1,6 @@
 # Dominic789654/awesome-deepseek-harness
 
-⭐ 401 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 个人维护 · 中文 README
+⭐ 404 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 个人维护 · 中文 README
 
 **DeepSeek Harness（DSH）生态插件策展清单**
 

@@ -1,6 +1,6 @@
 # SAP/generative-ai-toolkit-for-sap-hana-cloud
 
-⭐ 30 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SAP/generative-ai-toolkit-for-sap-hana-cloud) · 组织维护
+⭐ 30 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SAP/generative-ai-toolkit-for-sap-hana-cloud) · 组织维护
 
 **SAP HANA Cloud 的生成式 AI 客户端扩展：集成 HANA ML 与向量引擎**
 

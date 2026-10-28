@@ -1,6 +1,6 @@
 # anthropics/claude-quickstarts
 
-⭐ 19,022 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
+⭐ 19,038 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
 
 **帮助开发者快速上手 Claude API 构建应用的示例项目集**
 

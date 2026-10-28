@@ -1,6 +1,6 @@
 # nnaisense/evotorch
 
-⭐ 1,150 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nnaisense/evotorch) · [官网](https://evotorch.ai) · 组织维护
+⭐ 1,151 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nnaisense/evotorch) · [官网](https://evotorch.ai) · 组织维护
 
 **给研究与开发者的 PyTorch 进化计算与神经进化库**
 

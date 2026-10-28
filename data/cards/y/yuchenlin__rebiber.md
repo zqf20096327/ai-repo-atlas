@@ -1,6 +1,6 @@
 # yuchenlin/rebiber
 
-⭐ 3,043 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yuchenlin/rebiber) · [官网](https://yuchenlin.xyz/) · 个人维护
+⭐ 3,044 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yuchenlin/rebiber) · [官网](https://yuchenlin.xyz/) · 个人维护
 
 **将非正式 arXiv BibTeX 条目替换为官方 DBLP/ACL 记录的工具**
 

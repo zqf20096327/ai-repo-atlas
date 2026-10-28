@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Coder
 
-⭐ 24,328 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
+⭐ 24,329 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
 
 **面向开发者的开源代码大模型系列（1B-33B）**
 

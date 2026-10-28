@@ -1,6 +1,6 @@
 # brightwave-inc/tidebreak
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/brightwave-inc/tidebreak) · [官网](https://www.tidebreak.io) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/brightwave-inc/tidebreak) · [官网](https://www.tidebreak.io) · 组织维护
 
 **本地优先桌面应用：在隔离 Git worktree 中运行 AI 编码代理**
 

@@ -1,6 +1,6 @@
 # fixed-width/glass
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fixed-width/glass) · [官网](https://fixedwidth.tech/glass) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/fixed-width/glass) · [官网](https://fixedwidth.tech/glass) · 组织维护
 
 **让编码 agent 驱动原生 GUI 应用的 MCP 服务器**
 

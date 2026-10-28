@@ -1,6 +1,6 @@
 # fathah/hermes-desktop
 
-⭐ 14,463 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
+⭐ 14,477 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fathah/hermes-desktop) · [官网](https://hermesone.org) · 组织维护 · 中文 README
 
 **为 Hermes Agent 提供安装、配置与对话的桌面应用**
 

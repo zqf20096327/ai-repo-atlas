@@ -1,6 +1,6 @@
 # openai/vetu
 
-⭐ 306 · Go · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openai/vetu) · 组织维护
+⭐ 308 · Go · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openai/vetu) · 组织维护
 
 **Linux 主机上易用的临时 Linux 虚拟机创建与运行工具**
 

@@ -1,6 +1,6 @@
 # Gaeduck-0908/im-not-ai-kiro
 
-⭐ 29 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Gaeduck-0908/im-not-ai-kiro) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Gaeduck-0908/im-not-ai-kiro) · 个人维护
 
 **去除韩文 AI 文本痕迹的 Kiro CLI 代理（4 代理）**
 

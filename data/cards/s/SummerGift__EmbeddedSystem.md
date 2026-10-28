@@ -1,6 +1,6 @@
 # SummerGift/EmbeddedSystem
 
-⭐ 715 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/SummerGift/EmbeddedSystem) · 个人维护 · 中文 README
+⭐ 716 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/SummerGift/EmbeddedSystem) · 个人维护 · 中文 README
 
 **嵌入式系统与计算机体系架构的学习笔记知识库**
 

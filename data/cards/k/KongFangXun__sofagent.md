@@ -1,6 +1,6 @@
 # KongFangXun/sofagent
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/KongFangXun/sofagent) · [官网](https://www.npmjs.com/package/@sofagent/audit) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KongFangXun/sofagent) · [官网](https://www.npmjs.com/package/@sofagent/audit) · 个人维护 · 中文 README
 
 **给 AI coding agent 加治理层：按冻结规则审计每次变更**
 

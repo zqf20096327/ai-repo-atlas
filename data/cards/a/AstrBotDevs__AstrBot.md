@@ -1,6 +1,6 @@
 # AstrBotDevs/AstrBot
 
-⭐ 44,162 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
+⭐ 44,480 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/AstrBotDevs/AstrBot) · [官网](https://astrbot.app) · 组织维护 · 中文 README
 
 **对接多家 IM 平台与 LLM 的开源 Agent 聊天机器人平台**
 

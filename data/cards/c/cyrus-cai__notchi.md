@@ -1,6 +1,6 @@
 # cyrus-cai/notchi
 
-⭐ 35 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cyrus-cai/notchi) · [官网](https://notch.website/) · 个人维护 · 中文 README
+⭐ 35 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cyrus-cai/notchi) · [官网](https://notch.website/) · 个人维护 · 中文 README
 
 **在 MacBook 刘海处记笔记、设提醒、问 AI 的 macOS 应用**
 

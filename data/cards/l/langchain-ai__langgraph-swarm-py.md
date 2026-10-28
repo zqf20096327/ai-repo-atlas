@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-swarm-py
 
-⭐ 1,586 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langgraph-swarm-py) · [官网](https://langchain-ai.github.io/langgraph/concepts/multi_agent/) · 组织维护
+⭐ 1,585 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langgraph-swarm-py) · [官网](https://langchain-ai.github.io/langgraph/concepts/multi_agent/) · 组织维护
 
 **基于 LangGraph 的 Python 多智能体 swarm 构建库**
 

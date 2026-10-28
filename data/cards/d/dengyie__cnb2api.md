@@ -1,6 +1,6 @@
 # dengyie/cnb2api
 
-⭐ 86 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/dengyie/cnb2api) · [官网](https://github.com/dengyie/cnb2api#readme) · 个人维护 · 中文 README
+⭐ 87 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/dengyie/cnb2api) · [官网](https://github.com/dengyie/cnb2api#readme) · 个人维护 · 中文 README
 
 **把 CNB 云工作区内网 AI 转成 OpenAI/Anthropic 兼容 API 网关**
 

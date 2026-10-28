@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-langchain4j
 
-⭐ 326 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
+⭐ 325 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
 
 **Quarkus 框架的 LangChain4j 扩展，帮助 Java 应用接入 LLM**
 

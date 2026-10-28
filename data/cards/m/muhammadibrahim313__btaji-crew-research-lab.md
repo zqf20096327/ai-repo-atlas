@@ -1,6 +1,6 @@
 # muhammadibrahim313/btaji-crew-research-lab
 
-⭐ 22 · TeX · 推送 2026-10-13 · [GitHub](https://github.com/muhammadibrahim313/btaji-crew-research-lab) · [官网](https://www.youtube.com/playlist?list=PLJPlXj5tLhiE) · 个人维护
+⭐ 23 · TeX · 推送 2026-10-13 · [GitHub](https://github.com/muhammadibrahim313/btaji-crew-research-lab) · [官网](https://www.youtube.com/playlist?list=PLJPlXj5tLhiE) · 个人维护
 
 **面向学生的机器学习研究入门课程系列（含视频/幻灯/笔记）**
 

@@ -1,6 +1,6 @@
 # open-octo/octo-agent
 
-⭐ 138 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/open-octo/octo-agent) · [官网](https://octo-agent.dev/) · 组织维护 · 中文 README
+⭐ 138 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/open-octo/octo-agent) · [官网](https://octo-agent.dev/) · 组织维护 · 中文 README
 
 **单二进制自托管 AI agent，覆盖八种交互入口**
 

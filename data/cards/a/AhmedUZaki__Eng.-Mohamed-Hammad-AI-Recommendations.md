@@ -1,6 +1,6 @@
 # AhmedUZaki/Eng.-Mohamed-Hammad-AI-Recommendations
 
-⭐ 131 · 推送 2025-11-01 · [GitHub](https://github.com/AhmedUZaki/Eng.-Mohamed-Hammad-AI-Recommendations) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Mohamed Hammad 推荐的自学 AI/数据科学课程资源清单**
 

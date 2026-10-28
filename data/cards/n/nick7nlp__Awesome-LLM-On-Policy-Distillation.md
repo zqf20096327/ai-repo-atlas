@@ -1,6 +1,6 @@
 # nick7nlp/Awesome-LLM-On-Policy-Distillation
 
-⭐ 588 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation) · [官网](https://nick7nlp.github.io/OPDHub/) · 个人维护
+⭐ 589 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation) · [官网](https://nick7nlp.github.io/OPDHub/) · 个人维护
 
 **LLM 在线策略蒸馏（OPD）论文与资源策展清单**
 

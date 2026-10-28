@@ -1,6 +1,6 @@
 # MonitSharma/Learn-Quantum-Machine-Learning
 
-⭐ 88 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) · [官网](https://monitsharma.github.io/Learn-Quantum-Machine-Learning/) · 个人维护
+⭐ 90 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) · [官网](https://monitsharma.github.io/Learn-Quantum-Machine-Learning/) · 个人维护
 
 **量子机器学习课程：PennyLane/Qiskit 笔记本教程合集**
 

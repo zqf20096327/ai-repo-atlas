@@ -1,6 +1,6 @@
 # OnePunchMonk/AgentQuant
 
-⭐ 217 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OnePunchMonk/AgentQuant) · 个人维护
+⭐ 218 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/OnePunchMonk/AgentQuant) · 个人维护
 
 **自进化量化策略研究 harness：带失败记忆的 agent 搜索回测框架**
 

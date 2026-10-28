@@ -1,6 +1,6 @@
 # Wassimyounes01/qwen38-uncensored
 
-⭐ 380 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Wassimyounes01/qwen38-uncensored) · [官网](https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/blob/main/Qwen3.6-27B-Q4_K_M.gguf) · 个人维护
+⭐ 381 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Wassimyounes01/qwen38-uncensored) · [官网](https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/blob/main/Qwen3.6-27B-Q4_K_M.gguf) · 个人维护
 
 **本地运行的 Qwen 3.8 27B 消融式去审查模型包及安装工具**
 

@@ -1,6 +1,6 @@
 # fidipro/gluon
 
-⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fidipro/gluon) · [官网](https://fidipro.github.io/gluon) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **编码代理控制平台：统一运行、选型与会话成本管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

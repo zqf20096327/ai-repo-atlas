@@ -1,6 +1,6 @@
 # taskade/taskade
 
-⭐ 72 · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/taskade/taskade) · [官网](https://taskade.com) · 组织维护
+⭐ 73 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/taskade/taskade) · [官网](https://taskade.com) · 组织维护
 
 **AI 原生工作区平台：一个提示词生成可运行应用与 AI agent**
 

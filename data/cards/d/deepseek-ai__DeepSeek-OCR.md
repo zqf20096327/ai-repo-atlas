@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-OCR
 
-⭐ 24,079 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
+⭐ 24,083 · Python · MIT · 推送 2026-01-27 · [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR) · 组织维护
 
 **面向研究者的视觉文本压缩 OCR 模型**
 

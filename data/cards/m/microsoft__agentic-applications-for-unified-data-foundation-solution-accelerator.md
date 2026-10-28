@@ -1,6 +1,6 @@
 # microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator
 
-⭐ 137 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator) · 组织维护
+⭐ 138 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator) · 组织维护
 
 **企业数据上的 Agentic AI 解决方案加速器：Fabric 统一数据 + Agent 自然语言查询**
 

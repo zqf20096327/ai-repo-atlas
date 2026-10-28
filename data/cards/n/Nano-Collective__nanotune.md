@@ -1,6 +1,6 @@
 # Nano-Collective/nanotune
 
-⭐ 39 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Nano-Collective/nanotune) · [官网](https://nanocollective.org) · 组织维护
+⭐ 39 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Nano-Collective/nanotune) · [官网](https://nanocollective.org) · 组织维护
 
 **面向开发者的 Apple Silicon 小模型交互式微调 CLI**
 

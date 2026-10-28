@@ -1,6 +1,6 @@
 # fkxianzhou/ComfyUI-Jimeng-API
 
-⭐ 90 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/fkxianzhou/ComfyUI-Jimeng-API) · 个人维护 · 中文 README
+⭐ 91 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/fkxianzhou/ComfyUI-Jimeng-API) · 个人维护 · 中文 README
 
 **ComfyUI 插件：通过火山方舟 API 调用即梦/豆包 Seedream、Seedance 模型**
 

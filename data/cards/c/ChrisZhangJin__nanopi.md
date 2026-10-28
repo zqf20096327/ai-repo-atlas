@@ -1,6 +1,6 @@
 # ChrisZhangJin/nanopi
 
-⭐ 31 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ChrisZhangJin/nanopi) · 个人维护 · 中文 README
+⭐ 31 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChrisZhangJin/nanopi) · 个人维护 · 中文 README
 
 **单文件约 4MB 静态 Rust 编码 agent CLI，适配老旧低资源 Linux**
 

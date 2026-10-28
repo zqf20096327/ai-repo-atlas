@@ -1,6 +1,6 @@
 # caetas/GenerativeZoo
 
-⭐ 31 · Python · CC-BY-4.0 · 推送 2025-12-03 · [GitHub](https://github.com/caetas/GenerativeZoo) · [官网](https://caetas.github.io/generativezoo.html) · 个人维护
+⭐ 32 · Python · CC-BY-4.0 · 推送 2025-12-03 · [GitHub](https://github.com/caetas/GenerativeZoo) · [官网](https://caetas.github.io/generativezoo.html) · 个人维护
 
 **生成模型算法合集：VAE/GAN/扩散/流匹配等统一训练框架**
 

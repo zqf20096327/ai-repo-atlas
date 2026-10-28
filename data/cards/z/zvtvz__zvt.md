@@ -1,6 +1,6 @@
 # zvtvz/zvt
 
-⭐ 4,318 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/zvtvz/zvt) · [官网](https://zvt.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 4,317 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/zvtvz/zvt) · [官网](https://zvt.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **模块化量化投研框架：数据采集、因子计算、策略回测一体化**
 

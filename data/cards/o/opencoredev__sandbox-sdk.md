@@ -1,6 +1,6 @@
 # opencoredev/sandbox-sdk
 
-⭐ 79 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opencoredev/sandbox-sdk) · [官网](https://sandbox-sdk.app) · 组织维护
+⭐ 78 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opencoredev/sandbox-sdk) · [官网](https://sandbox-sdk.app) · 组织维护
 
 **TypeScript 沙箱 SDK：一套 API 在多家运行商上执行代码**
 

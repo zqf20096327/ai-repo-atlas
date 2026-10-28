@@ -1,6 +1,6 @@
 # BiomedSciAI/biomed-multi-omic
 
-⭐ 63 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/BiomedSciAI/biomed-multi-omic) · [官网](https://research.ibm.com/projects/biomedical-foundation-models) · 组织维护
+⭐ 63 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BiomedSciAI/biomed-multi-omic) · [官网](https://research.ibm.com/projects/biomedical-foundation-models) · 组织维护
 
 **构建与运行 RNA/DNA 组学基础模型的 Python 框架**
 

@@ -1,6 +1,6 @@
 # langchain-ai/langchain-skills
 
-⭐ 1,316 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-skills) · 组织维护
+⭐ 1,315 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-skills) · 组织维护
 
 **LangChain/LangGraph/Deep Agents 的 agent 技能库（21 个 SKILL.md）**
 

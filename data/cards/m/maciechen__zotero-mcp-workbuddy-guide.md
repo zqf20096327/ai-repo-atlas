@@ -1,6 +1,6 @@
 # maciechen/zotero-mcp-workbuddy-guide
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/maciechen/zotero-mcp-workbuddy-guide) · 个人维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-05-29 · [GitHub](https://github.com/maciechen/zotero-mcp-workbuddy-guide) · 个人维护 · 中文 README
 
 **将 Zotero 文献库接入 WorkBuddy 的中文配置指南**
 

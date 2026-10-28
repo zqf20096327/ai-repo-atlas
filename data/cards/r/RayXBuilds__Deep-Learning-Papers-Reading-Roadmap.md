@@ -1,6 +1,6 @@
 # RayXBuilds/Deep-Learning-Papers-Reading-Roadmap
 
-⭐ 342 · Python · 推送 2026-10-27 · [GitHub](https://github.com/RayXBuilds/Deep-Learning-Papers-Reading-Roadmap) · 个人维护 · 中文 README
+⭐ 342 · Python · 推送 2026-10-28 · [GitHub](https://github.com/RayXBuilds/Deep-Learning-Papers-Reading-Roadmap) · 个人维护 · 中文 README
 
 **深度学习经典论文中文精读路线图与配套实验**
 

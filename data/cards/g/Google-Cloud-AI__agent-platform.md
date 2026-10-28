@@ -1,6 +1,6 @@
 # Google-Cloud-AI/agent-platform
 
-⭐ 335 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
+⭐ 336 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
 
 **Gemini Enterprise Agent Platform 的代码示例与教程策展清单**
 

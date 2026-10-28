@@ -1,6 +1,6 @@
 # diandiancha/LittleAIBox
 
-⭐ 113 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/diandiancha/LittleAIBox) · [官网](https://littleaibox.com) · 个人维护 · 中文 README
+⭐ 114 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/diandiancha/LittleAIBox) · [官网](https://littleaibox.com) · 个人维护 · 中文 README
 
 **跨平台 Gemini AI 聊天应用：本地处理文件、隐私优先**
 

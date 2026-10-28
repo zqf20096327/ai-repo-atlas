@@ -1,6 +1,6 @@
 # TravisLeeeeee/awesome-openclaw-personas
 
-⭐ 112 · 推送 2026-04-08 · [GitHub](https://github.com/TravisLeeeeee/awesome-openclaw-personas) · [官网](https://deskclaw.net) · 组织维护 · 中文 README
+⭐ 113 · 推送 2026-04-08 · [GitHub](https://github.com/TravisLeeeeee/awesome-openclaw-personas) · [官网](https://deskclaw.net) · 组织维护 · 中文 README
 
 **面向 OpenClaw 的 214+ 个 AI agent 人格配置策展清单**
 

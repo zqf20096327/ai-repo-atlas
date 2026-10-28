@@ -1,6 +1,6 @@
 # dexadata/dexaflow
 
-⭐ 50 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dexadata/dexaflow) · [官网](https://dexaflow.dexadata.ai/) · 组织维护
+⭐ 50 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dexadata/dexaflow) · [官网](https://dexaflow.dexadata.ai/) · 组织维护
 
 **Go 编写的 Airflow 兼容工作流编排器，单二进制控制平面**
 

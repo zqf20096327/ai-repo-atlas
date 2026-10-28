@@ -1,6 +1,6 @@
 # iAmCorey/awesome-ai-directory
 
-⭐ 252 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/iAmCorey/awesome-ai-directory) · [官网](https://bestdirectories.org) · 个人维护 · 中文 README
+⭐ 253 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/iAmCorey/awesome-ai-directory) · [官网](https://bestdirectories.org) · 个人维护 · 中文 README
 
 **AI 工具导航站与学习资源聚合清单**
 

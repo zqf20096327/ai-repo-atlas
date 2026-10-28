@@ -1,6 +1,6 @@
 # FluxML/Metalhead.jl
 
-⭐ 350 · Julia · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/FluxML/Metalhead.jl) · [官网](https://fluxml.ai/Metalhead.jl) · 组织维护
+⭐ 350 · Julia · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/FluxML/Metalhead.jl) · [官网](https://fluxml.ai/Metalhead.jl) · 组织维护
 
 **Julia/Flux 的计算机视觉模型架构库：提供标准 CV 模型**
 

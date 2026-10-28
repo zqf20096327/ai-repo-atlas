@@ -1,6 +1,6 @@
 # rasonyang/cascade-realtime-gateway
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/rasonyang/cascade-realtime-gateway) · 个人维护
+⭐ 63 · Go · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/rasonyang/cascade-realtime-gateway) · 个人维护
 
 **自托管语音网关：OpenAI Realtime 协议后接 ASR→LLM→TTS 级联**
 

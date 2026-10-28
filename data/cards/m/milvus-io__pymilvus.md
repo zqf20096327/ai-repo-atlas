@@ -1,6 +1,6 @@
 # milvus-io/pymilvus
 
-⭐ 1,421 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/milvus-io/pymilvus) · 组织维护
+⭐ 1,421 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/pymilvus) · 组织维护
 
 **Milvus 向量数据库的官方 Python SDK**
 

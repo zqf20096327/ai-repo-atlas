@@ -1,6 +1,6 @@
 # niaka3dayo/agent-skills-vrc-udon
 
-⭐ 339 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护 · 中文 README
+⭐ 341 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护 · 中文 README
 
 **教 AI 编程代理正确生成 UdonSharp 代码的技能与规则知识库**
 

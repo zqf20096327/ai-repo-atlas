@@ -1,6 +1,6 @@
 # david-zlj/rag-guide
 
-⭐ 22 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/david-zlj/rag-guide) · [官网](https://rag.marsmgn.cn) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/david-zlj/rag-guide) · [官网](https://rag.marsmgn.cn) · 个人维护 · 中文 README
 
 **RAG 从入门到生产落地的中文学习手册，含 4 个实战项目**
 

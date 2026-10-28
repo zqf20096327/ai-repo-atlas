@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-go
 
-⭐ 90 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
+⭐ 114 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
 
 **手机上运行 DeepSeek Harness 的 Android 非官方客户端**
 

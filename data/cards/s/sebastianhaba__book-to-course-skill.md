@@ -1,6 +1,6 @@
 # sebastianhaba/book-to-course-skill
 
-⭐ 72 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sebastianhaba/book-to-course-skill) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sebastianhaba/book-to-course-skill) · 个人维护
 
 **把书籍文档转成交互式课程的 Claude 技能（含 APK/AppImage 打包）**
 

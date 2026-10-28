@@ -1,6 +1,6 @@
 # Aquiles-ai/Aquiles-Image
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Aquiles-ai/Aquiles-Image) · [官网](https://aquiles-ai.vercel.app) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Aquiles-ai/Aquiles-Image) · [官网](https://aquiles-ai.vercel.app) · 组织维护
 
 **自托管扩散模型图像/视频生成推理服务器，OpenAI 兼容 API**
 

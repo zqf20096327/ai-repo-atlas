@@ -1,6 +1,6 @@
 # Oeditus/yoke
 
-⭐ 53 · Elixir · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Oeditus/yoke) · [官网](https://yoke.yokerhood.com/) · 个人维护
+⭐ 54 · Elixir · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Oeditus/yoke) · [官网](https://yoke.yokerhood.com/) · 个人维护
 
 **面向开发者的 CLI 编码 agent 终端，原生支持 DeepSeek/OpenRouter/本地模型**
 

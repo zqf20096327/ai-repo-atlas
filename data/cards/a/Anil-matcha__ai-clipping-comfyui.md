@@ -1,6 +1,6 @@
 # Anil-matcha/ai-clipping-comfyui
 
-⭐ 32 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Anil-matcha/ai-clipping-comfyui) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Anil-matcha/ai-clipping-comfyui) · 组织维护
 
 **ComfyUI 节点包：调 muapi.ai 把长视频切成热门短视频**
 

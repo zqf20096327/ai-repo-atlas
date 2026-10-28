@@ -1,6 +1,6 @@
 # microsoft/m365-agent-templates
 
-⭐ 56 · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/m365-agent-templates) · 组织维护
+⭐ 55 · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/m365-agent-templates) · 组织维护
 
 **面向 Microsoft 365 的预构建可部署 AI agent 模板集**
 

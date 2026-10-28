@@ -1,6 +1,6 @@
 # Hanyuyuan6/remote-gpu-trainer
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Hanyuyuan6/remote-gpu-trainer) · 个人维护 · 中文 README
 
 **让编码 agent 在租用 GPU 上安全训练的 Agent Skill**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

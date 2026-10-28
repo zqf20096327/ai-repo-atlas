@@ -1,6 +1,6 @@
 # Lotfollahi-lab/nichecompass
 
-⭐ 132 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Lotfollahi-lab/nichecompass) · [官网](https://nichecompass.readthedocs.io/) · 组织维护
+⭐ 133 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/Lotfollahi-lab/nichecompass) · [官网](https://nichecompass.readthedocs.io/) · 组织维护
 
 **空间多组学数据端到端分析包：空间图谱构建与微环境识别**
 

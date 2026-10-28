@@ -1,6 +1,6 @@
 # helixnow/deep-student
 
-⭐ 293 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 组织维护 · 中文 README
+⭐ 294 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 学习工作台，Agent 直接操作笔记与复习应用**
 

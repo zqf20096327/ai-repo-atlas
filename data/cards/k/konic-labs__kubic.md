@@ -1,6 +1,6 @@
 # konic-labs/kubic
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
 
 **面向团队/企业的终端 AI 编程代理，可控可撤销**
 

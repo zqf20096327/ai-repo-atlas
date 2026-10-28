@@ -1,6 +1,6 @@
 # kagent-dev/website
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kagent-dev/website) · [官网](https://kagent.dev) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kagent-dev/website) · [官网](https://kagent.dev) · 组织维护
 
 **Kubernetes 原生 AI agent 框架 kagent 的官网与文档仓库**
 

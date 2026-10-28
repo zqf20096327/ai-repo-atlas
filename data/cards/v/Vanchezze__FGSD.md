@@ -1,6 +1,6 @@
 # Vanchezze/FGSD
 
-⭐ 25 · CC-BY-4.0 · 推送 2026-10-24 · [GitHub](https://github.com/Vanchezze/FGSD) · [官网](https://vanchezze.gumroad.com/l/finally-get-shit-done-ai) · 个人维护
+⭐ 26 · CC-BY-4.0 · 推送 2026-10-24 · [GitHub](https://github.com/Vanchezze/FGSD) · [官网](https://vanchezze.gumroad.com/l/finally-get-shit-done-ai) · 个人维护
 
 **纯文本文件系统：把 Claude/ChatGPT 变成项目教练**
 

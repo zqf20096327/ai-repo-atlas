@@ -1,6 +1,6 @@
 # Yog-Sotho/LLM-fine-tuner
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Yog-Sotho/LLM-fine-tuner) · [官网](https://yog-sotho.github.io/LLM-fine-tuner/) · 个人维护
+⭐ 35 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Yog-Sotho/LLM-fine-tuner) · [官网](https://yog-sotho.github.io/LLM-fine-tuner/) · 个人维护
 
 **无代码 LLM 微调工具：上传数据点击训练得到可导出模型**
 

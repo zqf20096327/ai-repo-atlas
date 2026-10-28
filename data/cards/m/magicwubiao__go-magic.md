@@ -1,6 +1,6 @@
 # magicwubiao/go-magic
 
-⭐ 33 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/magicwubiao/go-magic) · [官网](https://magictech.cc/) · 个人维护 · 中文 README
+⭐ 33 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/magicwubiao/go-magic) · [官网](https://magictech.cc/) · 个人维护 · 中文 README
 
 **Go 编写的 AI Agent 框架，含 TUI 与 Web 仪表盘**
 

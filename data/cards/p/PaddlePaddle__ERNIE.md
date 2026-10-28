@@ -1,6 +1,6 @@
 # PaddlePaddle/ERNIE
 
-⭐ 7,741 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/PaddlePaddle/ERNIE) · [官网](https://ernie.baidu.com) · 组织维护 · 中文 README
+⭐ 7,740 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/PaddlePaddle/ERNIE) · [官网](https://ernie.baidu.com) · 组织维护 · 中文 README
 
 **百度 ERNIE 4.5 多模态大模型系列官方仓库与 ERNIEKit 训练工具套件**
 

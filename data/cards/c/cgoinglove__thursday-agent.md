@@ -1,6 +1,6 @@
 # cgoinglove/thursday-agent
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/cgoinglove/thursday-agent) · [官网](https://youtu.be/7XmsAtwQGjo) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cgoinglove/thursday-agent) · [官网](https://youtu.be/7XmsAtwQGjo) · 个人维护
 
 **开源语音助手：你说话，一组 AI bot 操作浏览器、shell 和文件**
 

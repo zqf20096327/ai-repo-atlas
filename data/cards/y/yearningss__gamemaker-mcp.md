@@ -1,6 +1,6 @@
 # yearningss/gamemaker-mcp
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yearningss/gamemaker-mcp) · [官网](https://www.npmjs.com/package/gamemaker-mcp) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yearningss/gamemaker-mcp) · [官网](https://www.npmjs.com/package/gamemaker-mcp) · 个人维护
 
 **面向 GameMaker 项目的本地 MCP 服务器：AI 客户端结构化读写与构建**
 

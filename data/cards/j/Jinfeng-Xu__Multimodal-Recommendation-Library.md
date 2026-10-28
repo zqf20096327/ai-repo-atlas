@@ -1,6 +1,6 @@
 # Jinfeng-Xu/Multimodal-Recommendation-Library
 
-⭐ 322 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 组织维护 · 中文 README
+⭐ 323 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 组织维护 · 中文 README
 
 **面向研究的多模态推荐模型库与基准（26 个模型）**
 

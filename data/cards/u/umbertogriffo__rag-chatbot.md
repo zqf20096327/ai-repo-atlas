@@ -1,6 +1,6 @@
 # umbertogriffo/rag-chatbot
 
-⭐ 443 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/umbertogriffo/rag-chatbot) · 个人维护
+⭐ 444 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/umbertogriffo/rag-chatbot) · 个人维护
 
 **基于本地 LLM 的 RAG 聊天机器人：用 Markdown 文档库回答提问**
 

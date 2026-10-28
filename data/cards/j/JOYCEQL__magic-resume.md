@@ -1,6 +1,6 @@
 # JOYCEQL/magic-resume
 
-⭐ 11,254 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JOYCEQL/magic-resume) · [官网](https://magicv.art) · 个人维护 · 中文 README
+⭐ 11,266 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/JOYCEQL/magic-resume) · [官网](https://magicv.art) · 个人维护 · 中文 README
 
 **在线 AI 辅助简历编辑器，支持实时预览与多格式导出**
 

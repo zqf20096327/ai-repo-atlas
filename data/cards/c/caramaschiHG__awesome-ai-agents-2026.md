@@ -1,6 +1,6 @@
 # caramaschiHG/awesome-ai-agents-2026
 
-⭐ 2,039 · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026) · [官网](https://github.com/caramaschiHG/awesome-ai-agents-2026) · 个人维护
+⭐ 2,042 · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026) · [官网](https://github.com/caramaschiHG/awesome-ai-agents-2026) · 个人维护
 
 **AI agent 与工具策展清单（340+ 条，20+ 分类，月度更新）**
 

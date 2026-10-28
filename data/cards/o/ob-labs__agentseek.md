@@ -1,6 +1,6 @@
 # ob-labs/agentseek
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/ob-labs/agentseek) · [官网](https://ob-labs.github.io/agentseek/) · 组织维护 · 中文 README
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/ob-labs/agentseek) · [官网](https://ob-labs.github.io/agentseek/) · 组织维护 · 中文 README
 
 **本地 AI Agent 应用开发生命周期工具包：模板生成、运行与观测**
 

@@ -1,6 +1,6 @@
 # xiaobaidadada/filecat
 
-⭐ 104 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/xiaobaidadada/filecat) · 个人维护 · 中文 README
+⭐ 104 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/xiaobaidadada/filecat) · 个人维护 · 中文 README
 
 **自托管 Web 文件服务器与轻量服务器管理工具，集成 AI Agent**
 

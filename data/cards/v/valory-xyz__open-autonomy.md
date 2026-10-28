@@ -1,6 +1,6 @@
 # valory-xyz/open-autonomy
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/valory-xyz/open-autonomy) · [官网](https://stack.olas.network/open-autonomy/) · 组织维护
+⭐ 135 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/valory-xyz/open-autonomy) · [官网](https://stack.olas.network/open-autonomy/) · 组织维护
 
 **构建去中心化链上自主 AI agent 服务的开发框架**
 

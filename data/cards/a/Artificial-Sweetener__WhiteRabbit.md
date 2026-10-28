@@ -1,6 +1,6 @@
 # Artificial-Sweetener/WhiteRabbit
 
-⭐ 89 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/Artificial-Sweetener/WhiteRabbit) · [官网](https://artificialsweeter.ai) · 个人维护 · 中文 README
+⭐ 88 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/Artificial-Sweetener/WhiteRabbit) · [官网](https://artificialsweeter.ai) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的视频帧处理节点包：补帧、变速、无缝循环与批量缩放**
 

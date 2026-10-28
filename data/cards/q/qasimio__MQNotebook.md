@@ -1,6 +1,6 @@
 # qasimio/MQNotebook
 
-⭐ 19 · Python · 推送 2026-06-10 · [GitHub](https://github.com/qasimio/MQNotebook) · [官网](https://mqnotebook.streamlit.app/) · 个人维护
+⭐ 20 · Python · 推送 2026-06-10 · [GitHub](https://github.com/qasimio/MQNotebook) · [官网](https://mqnotebook.streamlit.app/) · 个人维护
 
 **本地优先的企业级 RAG 文档问答引擎，处理扫描件与复杂办公文档**
 

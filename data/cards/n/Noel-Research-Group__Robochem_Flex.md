@@ -1,6 +1,6 @@
 # Noel-Research-Group/Robochem_Flex
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/Noel-Research-Group/Robochem_Flex) · [官网](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-73xqf) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/Noel-Research-Group/Robochem_Flex) · [官网](https://chemrxiv.org/doi/10.26434/chemrxiv-2025-73xqf) · 组织维护
 
 **低成本模块化自驱动实验室平台：软件、硬件与示例数据集合**
 

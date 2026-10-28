@@ -1,6 +1,6 @@
 # momasiku/dsh-pilot
 
-⭐ 113 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/momasiku/dsh-pilot) · [官网](https://www.npmjs.com/package/@momasiku/dsh-pilot) · 个人维护 · 中文 README
+⭐ 123 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/momasiku/dsh-pilot) · [官网](https://www.npmjs.com/package/@momasiku/dsh-pilot) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 装 Windows 桌面操控能力的插件**
 

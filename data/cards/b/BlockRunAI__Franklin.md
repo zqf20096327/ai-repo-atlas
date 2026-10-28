@@ -1,6 +1,6 @@
 # BlockRunAI/Franklin
 
-⭐ 563 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/BlockRunAI/Franklin) · [官网](https://franklin.run) · 组织维护
+⭐ 563 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BlockRunAI/Franklin) · [官网](https://franklin.run) · 组织维护
 
 **持有 USDC 钱包的自主 AI agent：自行付费完成交易与研究任务**
 

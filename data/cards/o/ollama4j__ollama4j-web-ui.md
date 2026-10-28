@@ -1,6 +1,6 @@
 # ollama4j/ollama4j-web-ui
 
-⭐ 127 · Java · MIT · 推送 2026-05-23 · [GitHub](https://github.com/ollama4j/ollama4j-web-ui) · [官网](https://github.com/ollama4j/Doota) · 组织维护
+⭐ 128 · Java · MIT · 推送 2026-05-23 · [GitHub](https://github.com/ollama4j/ollama4j-web-ui) · [官网](https://github.com/ollama4j/Doota) · 组织维护
 
 **面向 Java/Spring 用户的 Ollama Web 聊天界面**
 

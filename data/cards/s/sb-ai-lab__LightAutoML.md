@@ -1,6 +1,6 @@
 # sb-ai-lab/LightAutoML
 
-⭐ 1,484 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sb-ai-lab/LightAutoML) · 组织维护
+⭐ 1,483 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/sb-ai-lab/LightAutoML) · 组织维护
 
 **面向数据科学家的 AutoML 框架：少量代码自动生成 ML 模型**
 

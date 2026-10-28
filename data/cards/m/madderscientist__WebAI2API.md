@@ -1,6 +1,6 @@
 # madderscientist/WebAI2API
 
-⭐ 36 · TypeScript · 推送 2026-09-19 · [GitHub](https://github.com/madderscientist/WebAI2API) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/madderscientist/WebAI2API) · 个人维护 · 中文 README
 
 **封装 DeepSeek 网页端为 OpenAI 兼容 API 的自用工具**
 

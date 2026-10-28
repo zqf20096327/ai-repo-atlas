@@ -1,6 +1,6 @@
 # josejesusguzman/acordeon-ab-730
 
-⭐ 37 · 推送 2026-10-11 · [GitHub](https://github.com/josejesusguzman/acordeon-ab-730) · [官网](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/?practice-assessment-type=certification) · 个人维护
+⭐ 38 · 推送 2026-10-11 · [GitHub](https://github.com/josejesusguzman/acordeon-ab-730) · [官网](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/?practice-assessment-type=certification) · 个人维护
 
 **备考 Microsoft AB-730 认证的非官方学习笔记（西班牙语）**
 

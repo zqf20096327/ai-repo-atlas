@@ -1,6 +1,6 @@
 # 520huxiangli/Aharou
 
-⭐ 29 · Kotlin · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/520huxiangli/Aharou) · 个人维护 · 中文 README
+⭐ 29 · Kotlin · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/520huxiangli/Aharou) · 个人维护 · 中文 README
 
 **手机上的 AI 助手与 Coding Agent，内置 Linux 环境**
 

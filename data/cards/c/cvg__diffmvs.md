@@ -1,6 +1,6 @@
 # cvg/diffmvs
 
-⭐ 177 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/cvg/diffmvs) · 组织维护
+⭐ 178 · Python · Apache-2.0 · 推送 2025-12-24 · [GitHub](https://github.com/cvg/diffmvs) · 组织维护
 
 **基于扩散模型的多视图立体重建方法（DiffMVS/CasDiffMVS）**
 

@@ -1,6 +1,6 @@
 # camel-ai/owl
 
-⭐ 20,168 · Python · 推送 2026-10-27 · [GitHub](https://github.com/camel-ai/owl) · 组织维护
+⭐ 20,166 · Python · 推送 2026-10-27 · [GitHub](https://github.com/camel-ai/owl) · 组织维护
 
 **面向开发者的多智能体协作框架，自动化真实世界任务**
 

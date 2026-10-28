@@ -1,6 +1,6 @@
 # smanx/dsh-proxy
 
-⭐ 28 · JavaScript · 推送 2026-10-20 · [GitHub](https://github.com/smanx/dsh-proxy) · [官网](https://github.com/smanx/dsh-proxy/releases) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/smanx/dsh-proxy) · [官网](https://github.com/smanx/dsh-proxy/releases) · 个人维护 · 中文 README
 
 **把本地 DSH 服务暴露到局域网的反向代理（HTTP+WS）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

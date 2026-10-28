@@ -1,6 +1,6 @@
 # ychampion/melete
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ychampion/melete) · [官网](https://melete.si) · 个人维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ychampion/melete) · [官网](https://melete.si) · 个人维护
 
 **自托管的常驻个人 AI agent，代管邮件日历文件并持续工作**
 

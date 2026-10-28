@@ -1,6 +1,6 @@
 # yuniko-software/minecraft-mcp-server
 
-⭐ 797 · TypeScript · Apache-2.0 · 推送 2026-04-04 · [GitHub](https://github.com/yuniko-software/minecraft-mcp-server) · [官网](https://yuniko.software/mcp-server/) · 组织维护
+⭐ 799 · TypeScript · Apache-2.0 · 推送 2026-04-04 · [GitHub](https://github.com/yuniko-software/minecraft-mcp-server) · [官网](https://yuniko.software/mcp-server/) · 组织维护
 
 **MCP 服务器：让 Claude 等 AI 通过自然语言控制 Minecraft 角色**
 

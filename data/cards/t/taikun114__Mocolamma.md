@@ -1,6 +1,6 @@
 # taikun114/Mocolamma
 
-⭐ 29 · Swift · MIT · 推送 2026-10-24 · [GitHub](https://github.com/taikun114/Mocolamma) · [官网](https://mocolamma.taikun.design/) · 个人维护
+⭐ 29 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/taikun114/Mocolamma) · [官网](https://mocolamma.taikun.design/) · 个人维护
 
 **跨苹果平台管理 Ollama 服务器与模型并进行聊天测试的客户端**
 

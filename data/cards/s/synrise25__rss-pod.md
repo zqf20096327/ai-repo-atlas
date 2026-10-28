@@ -1,6 +1,6 @@
 # synrise25/rss-pod
 
-⭐ 33 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/synrise25/rss-pod) · [官网](https://rss-pod.ssyserver.com) · 个人维护 · 中文 README
+⭐ 33 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/synrise25/rss-pod) · [官网](https://rss-pod.ssyserver.com) · 个人维护 · 中文 README
 
 **自托管应用：把 RSS 订阅转成对话式播客供通勤收听**
 

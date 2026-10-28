@@ -1,6 +1,6 @@
 # tikoci/rosetta
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tikoci/rosetta) · [官网](https://tikoci.github.io/p/rosetta) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tikoci/rosetta) · [官网](https://tikoci.github.io/p/rosetta) · 个人维护
 
 **让 AI 助手检索 MikroTik RouterOS 文档的 MCP 服务器**
 

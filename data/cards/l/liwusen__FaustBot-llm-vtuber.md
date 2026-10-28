@@ -1,6 +1,6 @@
 # liwusen/FaustBot-llm-vtuber
 
-⭐ 44 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/liwusen/FaustBot-llm-vtuber) · [官网](https://faustbot.allenlee.xyz) · 个人维护 · 中文 README
+⭐ 45 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/liwusen/FaustBot-llm-vtuber) · [官网](https://faustbot.allenlee.xyz) · 个人维护 · 中文 README
 
 **会自我进化的桌面 AI 伙伴/Vtuber，可直播与唱歌**
 

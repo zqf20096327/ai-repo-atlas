@@ -1,6 +1,6 @@
 # sup3x/claude-code-eco
 
-⭐ 40 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sup3x/claude-code-eco) · 个人维护
+⭐ 41 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sup3x/claude-code-eco) · 个人维护
 
 **Claude Code 省 token 插件：减少冗余输出与成本**
 

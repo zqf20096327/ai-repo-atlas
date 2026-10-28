@@ -1,6 +1,6 @@
 # shilp26/hermes-go
 
-⭐ 42 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shilp26/hermes-go) · [官网](https://shilp26.github.io/hermes-go/) · 个人维护
+⭐ 43 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shilp26/hermes-go) · [官网](https://shilp26.github.io/hermes-go/) · 个人维护
 
 **自托管 Hermes Agent 的原生 Android 移动客户端**
 

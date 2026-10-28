@@ -1,6 +1,6 @@
 # romanklis/openclaw-contained
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/romanklis/openclaw-contained) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/romanklis/openclaw-contained) · 个人维护
 
 **在 Docker/gVisor 沙箱中运行 AI agent 的可审计编排平台**
 

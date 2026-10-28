@@ -1,6 +1,6 @@
 # microsoft/github-copilot-vibe-coding-workshop
 
-⭐ 146 · JavaScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/microsoft/github-copilot-vibe-coding-workshop) · [官网](https://aka.ms/ghcp/workshop) · 组织维护 · 中文 README
+⭐ 147 · JavaScript · MIT · 推送 2026-02-11 · [GitHub](https://github.com/microsoft/github-copilot-vibe-coding-workshop) · [官网](https://aka.ms/ghcp/workshop) · 组织维护 · 中文 README
 
 **用 GitHub Copilot 构建社交媒体网站的实践教程**
 

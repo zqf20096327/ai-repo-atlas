@@ -1,6 +1,6 @@
 # i-am-bee/beeai-framework
 
-⭐ 3,445 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/i-am-bee/beeai-framework) · [官网](http://framework.beeai.dev) · 组织维护
+⭐ 3,446 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/i-am-bee/beeai-framework) · [官网](http://framework.beeai.dev) · 组织维护
 
 **用 Python/TypeScript 构建多智能体系统的开源框架**
 

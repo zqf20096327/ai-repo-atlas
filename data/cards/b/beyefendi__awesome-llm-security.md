@@ -1,6 +1,6 @@
 # beyefendi/awesome-llm-security
 
-⭐ 46 · 推送 2026-10-22 · [GitHub](https://github.com/beyefendi/awesome-llm-security) · 个人维护
+⭐ 46 · 推送 2026-10-27 · [GitHub](https://github.com/beyefendi/awesome-llm-security) · 个人维护
 
 **LLM 与 agent 安全资源策展清单：工具、基准、威胁建模与课程**
 

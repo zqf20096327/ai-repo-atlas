@@ -1,6 +1,6 @@
 # TingdeLiu/tingdeliu.github.io
 
-⭐ 132 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TingdeLiu/tingdeliu.github.io) · [官网](https://tingdeliu.github.io/) · 个人维护 · 中文 README
+⭐ 132 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TingdeLiu/tingdeliu.github.io) · [官网](https://tingdeliu.github.io/) · 个人维护 · 中文 README
 
 **具身智能/VLN 研究笔记个人站点（中英双语）**
 

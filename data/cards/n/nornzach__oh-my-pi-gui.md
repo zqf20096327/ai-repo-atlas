@@ -1,6 +1,6 @@
 # nornzach/oh-my-pi-gui
 
-⭐ 100 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nornzach/oh-my-pi-gui) · [官网](https://nornzach.github.io/oh-my-pi-gui/) · 个人维护 · 中文 README
+⭐ 107 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nornzach/oh-my-pi-gui) · [官网](https://nornzach.github.io/oh-my-pi-gui/) · 个人维护 · 中文 README
 
 **omp 编码 Agent 的桌面 GUI：并行会话与工具调用可视化管理**
 

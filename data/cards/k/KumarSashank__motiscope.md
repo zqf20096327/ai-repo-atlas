@@ -1,6 +1,6 @@
 # KumarSashank/motiscope
 
-⭐ 126 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/KumarSashank/motiscope) · [官网](https://kumarsashank.github.io/motiscope/) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/KumarSashank/motiscope) · [官网](https://kumarsashank.github.io/motiscope/) · 个人维护
 
 **给编码代理用的动效复刻工具：从录屏测量并重建动画代码**
 

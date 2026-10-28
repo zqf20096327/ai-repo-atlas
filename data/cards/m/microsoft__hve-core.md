@@ -1,6 +1,6 @@
 # microsoft/hve-core
 
-⭐ 1,582 · PowerShell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/hve-core) · 组织维护
+⭐ 1,584 · PowerShell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/hve-core) · 组织维护
 
 **面向 GitHub Copilot 的规范驱动 agentic SDLC 框架**
 

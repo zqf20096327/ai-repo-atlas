@@ -1,6 +1,6 @@
 # puremachinery/carapace
 
-⭐ 47 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/puremachinery/carapace) · [官网](https://getcara.io/) · 组织维护
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/puremachinery/carapace) · [官网](https://getcara.io/) · 组织维护
 
 **本地优先的个人 AI 助手，注重安全，多渠道多模型接入**
 

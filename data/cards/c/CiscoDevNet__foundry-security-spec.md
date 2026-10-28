@@ -1,6 +1,6 @@
 # CiscoDevNet/foundry-security-spec
 
-⭐ 225 · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/CiscoDevNet/foundry-security-spec) · 组织维护
+⭐ 226 · NOASSERTION · 推送 2026-05-12 · [GitHub](https://github.com/CiscoDevNet/foundry-security-spec) · 组织维护
 
 **agentic AI 安全评估系统的开放规格书（Cisco，无代码）**
 

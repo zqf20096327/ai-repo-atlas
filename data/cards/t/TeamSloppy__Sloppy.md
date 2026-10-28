@@ -1,6 +1,6 @@
 # TeamSloppy/Sloppy
 
-⭐ 27 · Swift · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/TeamSloppy/Sloppy) · [官网](https://sloppy.team) · 组织维护
+⭐ 27 · Swift · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/TeamSloppy/Sloppy) · [官网](https://sloppy.team) · 组织维护
 
 **Swift 编写的多 agent 运行时与可视化控制平面**
 

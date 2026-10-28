@@ -1,6 +1,6 @@
 # SciPhi-AI/R2R
 
-⭐ 8,044 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/SciPhi-AI/R2R) · 组织维护
+⭐ 8,047 · Python · MIT · 推送 2025-11-07 · [GitHub](https://github.com/SciPhi-AI/R2R) · 组织维护
 
 **面向生产的 Agentic RAG 检索系统，RESTful API 交付**
 

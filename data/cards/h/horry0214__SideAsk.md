@@ -1,6 +1,6 @@
 # horry0214/SideAsk
 
-⭐ 53 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/horry0214/SideAsk) · 个人维护 · 中文 README
+⭐ 54 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/horry0214/SideAsk) · 个人维护 · 中文 README
 
 **浏览器即选即问的 AI 释义层：划词提问不切页**
 

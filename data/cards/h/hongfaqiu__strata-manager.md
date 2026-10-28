@@ -1,6 +1,6 @@
 # hongfaqiu/strata-manager
 
-⭐ 39 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hongfaqiu/strata-manager) · [官网](https://strata-manager.cosfoc.com) · 个人维护 · 中文 README
+⭐ 42 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hongfaqiu/strata-manager) · [官网](https://strata-manager.cosfoc.com) · 个人维护 · 中文 README
 
 **本地 LLM 引擎 Strata 的桌面管理工作区：安装、模型管理与监控**
 

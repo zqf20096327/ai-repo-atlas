@@ -1,6 +1,6 @@
 # beehive-lab/TornadoVM
 
-⭐ 1,551 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/beehive-lab/TornadoVM) · [官网](https://www.tornadovm.org) · 组织维护
+⭐ 1,551 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/beehive-lab/TornadoVM) · [官网](https://www.tornadovm.org) · 组织维护
 
 **Java GPU 编程框架：把 Java 字节码 JIT 编译到 GPU 运行**
 

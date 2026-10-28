@@ -1,6 +1,6 @@
 # haoaaa-111/taoketong
 
-⭐ 71 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/haoaaa-111/taoketong) · 个人维护 · 中文 README
+⭐ 70 · TypeScript · 推送 2026-06-05 · [GitHub](https://github.com/haoaaa-111/taoketong) · 个人维护 · 中文 README
 
 **输入课表截图与个人画像，生成逃课决策方案的 AI 应用**
 

@@ -1,6 +1,6 @@
 # eliornl/rolemule
 
-⭐ 38 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/eliornl/rolemule) · [官网](https://eliornl.github.io/rolemule) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eliornl/rolemule) · [官网](https://eliornl.github.io/rolemule) · 个人维护
 
 **求职者的自托管 AI 求职助手：五 Agent 分析职位并生成申请材料**
 

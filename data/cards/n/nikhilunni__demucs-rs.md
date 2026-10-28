@@ -1,6 +1,6 @@
 # nikhilunni/demucs-rs
 
-⭐ 157 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/nikhilunni/demucs-rs) · [官网](https://nikhilunni.github.io/demucs-rs/) · 个人维护
+⭐ 158 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/nikhilunni/demucs-rs) · [官网](https://nikhilunni.github.io/demucs-rs/) · 个人维护
 
 **Rust 实现的本地音乐源分离工具：歌曲拆分为鼓/贝斯/人声等音轨**
 

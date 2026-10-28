@@ -1,6 +1,6 @@
 # Engine-Room-Games/after-effects-mcp
 
-⭐ 37 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Engine-Room-Games/after-effects-mcp) · [官网](https://www.npmjs.com/package/@engine-room/after-effects-mcp) · 组织维护
+⭐ 38 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Engine-Room-Games/after-effects-mcp) · [官网](https://www.npmjs.com/package/@engine-room/after-effects-mcp) · 组织维护
 
 **用 AI 控制Adobe After Effects的 MCP 服务器**
 

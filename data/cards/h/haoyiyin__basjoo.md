@@ -1,6 +1,6 @@
 # haoyiyin/basjoo
 
-⭐ 164 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/haoyiyin/basjoo) · [官网](https://basjoo.de) · 个人维护 · 中文 README
+⭐ 164 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haoyiyin/basjoo) · [官网](https://basjoo.de) · 个人维护 · 中文 README
 
 **面向客服场景的开源 AI 客服平台：RAG 知识库+多供应商 LLM+可嵌入聊天挂件**
 

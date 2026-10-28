@@ -1,6 +1,6 @@
 # bodaay/HuggingFaceModelDownloader
 
-⭐ 1,200 · Go · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/bodaay/HuggingFaceModelDownloader) · 个人维护 · 中文 README
+⭐ 1,201 · Go · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/bodaay/HuggingFaceModelDownloader) · 个人维护 · 中文 README
 
 **Go 编写的 HuggingFace 模型与数据集并行下载工具**
 

@@ -1,6 +1,6 @@
 # HKUDS/DeepCode
 
-⭐ 16,758 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
+⭐ 16,763 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
 
 **多客户端编程 Agent：把论文与自然语言转成代码**
 

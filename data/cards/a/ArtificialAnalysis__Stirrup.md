@@ -1,6 +1,6 @@
 # ArtificialAnalysis/Stirrup
 
-⭐ 675 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ArtificialAnalysis/Stirrup) · [官网](https://stirrup.artificialanalysis.ai) · 组织维护
+⭐ 678 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ArtificialAnalysis/Stirrup) · [官网](https://stirrup.artificialanalysis.ai) · 组织维护
 
 **给开发者的轻量级 Python agent 构建框架**
 

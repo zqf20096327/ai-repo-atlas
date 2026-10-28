@@ -1,6 +1,6 @@
 # nherx/free-llm-api-resources
 
-⭐ 33 · Python · 推送 2026-10-12 · [GitHub](https://github.com/nherx/free-llm-api-resources) · 个人维护
+⭐ 34 · Python · 推送 2026-10-12 · [GitHub](https://github.com/nherx/free-llm-api-resources) · 个人维护
 
 **免费 LLM API 服务与额度的策展清单，供零成本试用模型**
 

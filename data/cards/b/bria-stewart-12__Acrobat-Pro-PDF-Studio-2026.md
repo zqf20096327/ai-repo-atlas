@@ -1,6 +1,6 @@
 # bria-stewart-12/Acrobat-Pro-PDF-Studio-2026
 
-⭐ 51 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bria-stewart-12/Acrobat-Pro-PDF-Studio-2026) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Windows 的 Adobe Acrobat Pro PDF 编辑软件分发仓库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

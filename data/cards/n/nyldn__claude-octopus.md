@@ -1,6 +1,6 @@
 # nyldn/claude-octopus
 
-⭐ 4,316 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
+⭐ 4,325 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
 
 **Claude Code 多模型协作插件：多 AI 交叉审查并标记分歧**
 

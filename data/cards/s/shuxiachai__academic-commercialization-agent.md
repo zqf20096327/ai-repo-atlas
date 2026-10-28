@@ -1,6 +1,6 @@
 # shuxiachai/academic-commercialization-agent
 
-⭐ 774 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-commercialization-agent.up.railway.app) · 个人维护 · 中文 README
+⭐ 772 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/shuxiachai/academic-commercialization-agent) · [官网](https://academic-commercialization-agent.up.railway.app) · 个人维护 · 中文 README
 
 **把论文/课题转化为带引用的成果转化评估报告的多智能体应用**
 

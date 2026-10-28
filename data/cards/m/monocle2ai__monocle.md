@@ -1,6 +1,6 @@
 # monocle2ai/monocle
 
-⭐ 345 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/monocle2ai/monocle) · [官网](http://monocle2ai.org) · 组织维护
+⭐ 345 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/monocle2ai/monocle) · [官网](http://monocle2ai.org) · 组织维护
 
 **GenAI 应用与 agent 的 OpenTelemetry 追踪与测试框架**
 

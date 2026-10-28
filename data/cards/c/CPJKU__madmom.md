@@ -1,6 +1,6 @@
 # CPJKU/madmom
 
-⭐ 1,731 · Python · NOASSERTION · 推送 2026-03-20 · [GitHub](https://github.com/CPJKU/madmom) · [官网](https://madmom.readthedocs.io) · 组织维护
+⭐ 1,732 · Python · NOASSERTION · 推送 2026-03-20 · [GitHub](https://github.com/CPJKU/madmom) · [官网](https://madmom.readthedocs.io) · 组织维护
 
 **面向音乐信息检索的 Python 音频信号处理库**
 

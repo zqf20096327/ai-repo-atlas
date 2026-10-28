@@ -1,6 +1,6 @@
 # neurreps/awesome-neural-geometry
 
-⭐ 1,086 · 推送 2026-02-24 · [GitHub](https://github.com/neurreps/awesome-neural-geometry) · [官网](https://neurreps.org) · 组织维护
+⭐ 1,085 · 推送 2026-02-24 · [GitHub](https://github.com/neurreps/awesome-neural-geometry) · [官网](https://neurreps.org) · 组织维护
 
 **神经表示几何研究的资源与文献策展清单**
 

@@ -1,6 +1,6 @@
 # jvalegre/robert
 
-⭐ 58 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/jvalegre/robert) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jvalegre/robert) · 组织维护
 
 **化学研究的一键式自动机器学习工作流：从 CSV 描述符或 SMILES 到可发表结果**
 

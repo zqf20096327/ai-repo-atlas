@@ -1,6 +1,6 @@
 # flyteorg/flyte-sdk
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/flyteorg/flyte-sdk) · [官网](https://flyte.org/) · 组织维护
+⭐ 129 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/flyteorg/flyte-sdk) · [官网](https://flyte.org/) · 组织维护
 
 **纯 Python 的 ML 流水线与 agent 分布式编排 SDK**
 

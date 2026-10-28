@@ -1,6 +1,6 @@
 # crynta/terax-ai
 
-⭐ 9,406 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/crynta/terax-ai) · [官网](https://terax.app) · 组织维护 · 中文 README
+⭐ 9,410 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/crynta/terax-ai) · [官网](https://terax.app) · 组织维护 · 中文 README
 
 **轻量终端优先的 AI 原生开发环境（约 7-8MB）**
 

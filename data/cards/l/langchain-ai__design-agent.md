@@ -1,6 +1,6 @@
 # langchain-ai/design-agent
 
-⭐ 42 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护
+⭐ 266 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护
 
 **品牌设计 agent：从 Slack 对话生成合规图片、幻灯片、图表与视频**
 

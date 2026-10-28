@@ -1,6 +1,6 @@
 # kaban-board/kaban
 
-⭐ 48 · TypeScript · MIT · 推送 2026-01-31 · [GitHub](https://github.com/kaban-board/kaban) · [官网](https://kaban-board.github.io/kaban/) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-01-31 · [GitHub](https://github.com/kaban-board/kaban) · [官网](https://kaban-board.github.io/kaban/) · 个人维护
 
 **面向 AI 代码代理与开发者的终端 Kanban 任务看板**
 

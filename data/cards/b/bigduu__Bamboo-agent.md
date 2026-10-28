@@ -1,6 +1,6 @@
 # bigduu/Bamboo-agent
 
-⭐ 21 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bodhi-ai.vercel.app) · 个人维护 · 中文 README
+⭐ 21 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bodhi-ai.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的 Rust agent 运行时：终端/浏览器/SDK 里跑 AI 代理**
 

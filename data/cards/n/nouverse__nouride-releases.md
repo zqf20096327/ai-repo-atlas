@@ -1,6 +1,6 @@
 # nouverse/nouride-releases
 
-⭐ 25 · Shell · 推送 2026-10-27 · [GitHub](https://github.com/nouverse/nouride-releases) · [官网](nouride.com) · 组织维护
+⭐ 26 · Shell · 推送 2026-10-28 · [GitHub](https://github.com/nouverse/nouride-releases) · [官网](nouride.com) · 组织维护
 
 **面向家庭服务器与迷你设备的单守护进程多 agent AI 引擎**
 

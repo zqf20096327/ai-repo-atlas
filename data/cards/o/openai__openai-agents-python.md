@@ -1,6 +1,6 @@
 # openai/openai-agents-python
 
-⭐ 30,335 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
+⭐ 30,355 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openai/openai-agents-python) · [官网](https://openai.github.io/openai-agents-python/) · 组织维护
 
 **给开发者的多 Agent 工作流 Python 框架**
 

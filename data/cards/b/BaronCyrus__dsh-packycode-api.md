@@ -1,6 +1,6 @@
 # BaronCyrus/dsh-packycode-api
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BaronCyrus/dsh-packycode-api) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BaronCyrus/dsh-packycode-api) · 个人维护 · 中文 README
 
 **DSH 插件：用 PackyCode API Key 接入多模型并轮换 Key、显示余额**
 

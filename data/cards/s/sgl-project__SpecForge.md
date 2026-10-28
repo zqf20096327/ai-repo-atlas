@@ -1,6 +1,6 @@
 # sgl-project/SpecForge
 
-⭐ 1,243 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sgl-project/SpecForge) · [官网](https://docs.sglang.ai/SpecForge/) · 组织维护
+⭐ 1,246 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/SpecForge) · [官网](https://docs.sglang.ai/SpecForge/) · 组织维护
 
 **SGLang 团队的投机解码草稿模型训练框架**
 

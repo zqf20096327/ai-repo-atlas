@@ -1,6 +1,6 @@
 # microsoft/Tokenizer
 
-⭐ 212 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Tokenizer) · [官网](https://github.com/microsoft/Tokenizer/) · 组织维护
+⭐ 213 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/Tokenizer) · [官网](https://github.com/microsoft/Tokenizer/) · 组织维护
 
 **面向 OpenAI LLM 的 BPE 分词器 TypeScript/.NET 实现**
 

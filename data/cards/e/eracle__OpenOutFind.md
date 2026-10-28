@@ -1,6 +1,6 @@
 # eracle/OpenOutFind
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/eracle/OpenOutFind) · [官网](https://openoutreach.app) · 个人维护
+⭐ 27 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/eracle/OpenOutFind) · [官网](https://openoutreach.app) · 个人维护
 
 **自托管 CLI：用 LLM 从持牌数据源筛选 B2B 潜客并输出理由**
 

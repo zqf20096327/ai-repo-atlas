@@ -1,6 +1,6 @@
 # NayakwadiS/NSE-Neuron
 
-⭐ 27 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/NayakwadiS/NSE-Neuron) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NayakwadiS/NSE-Neuron) · 个人维护
 
 **深度学习预测印度 NSE 股票未来 5 日行情的应用**
 

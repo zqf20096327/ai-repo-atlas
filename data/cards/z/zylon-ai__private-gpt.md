@@ -1,6 +1,6 @@
 # zylon-ai/private-gpt
 
-⭐ 57,611 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
+⭐ 57,615 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
 
 **把本地模型变成私有 AI 应用的开源 API 层**
 

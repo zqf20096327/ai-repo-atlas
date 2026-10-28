@@ -1,6 +1,6 @@
 # agent-receipts/obsigna
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agent-receipts/obsigna) · [官网](https://agentreceipts.ai) · 组织维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agent-receipts/obsigna) · [官网](https://agentreceipts.ai) · 组织维护
 
 **AI agent 操作的密码学签名审计协议与工具集**
 

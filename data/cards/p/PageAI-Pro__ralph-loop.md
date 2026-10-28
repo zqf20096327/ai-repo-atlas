@@ -1,6 +1,6 @@
 # PageAI-Pro/ralph-loop
 
-⭐ 331 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PageAI-Pro/ralph-loop) · [官网](https://ralphloop.sh) · 组织维护
+⭐ 333 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PageAI-Pro/ralph-loop) · [官网](https://ralphloop.sh) · 组织维护
 
 **长时运行的 AI 编码 agent 循环脚本：迭代完成任务列表**
 

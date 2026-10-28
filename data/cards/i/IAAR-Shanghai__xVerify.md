@@ -1,6 +1,6 @@
 # IAAR-Shanghai/xVerify
 
-⭐ 149 · Jupyter Notebook · NOASSERTION · 推送 2025-11-13 · [GitHub](https://github.com/IAAR-Shanghai/xVerify) · [官网](https://arxiv.org/abs/2504.10481) · 组织维护 · 中文 README
+⭐ 149 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/IAAR-Shanghai/xVerify) · [官网](https://arxiv.org/abs/2504.10481) · 组织维护 · 中文 README
 
 **面向推理模型评测的答案判定模型：抽取最终答案并判等价**
 

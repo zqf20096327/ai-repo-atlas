@@ -1,6 +1,6 @@
 # roomi-fields/notebooklm-mcp
 
-⭐ 213 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/roomi-fields/notebooklm-mcp) · [官网](https://roomi-fields.github.io/notebooklm-mcp/) · 个人维护
+⭐ 214 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/roomi-fields/notebooklm-mcp) · [官网](https://roomi-fields.github.io/notebooklm-mcp/) · 个人维护
 
 **把 Google NotebookLM 封装为 45 端点 REST API 与 MCP 服务器**
 

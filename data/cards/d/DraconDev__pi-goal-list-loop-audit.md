@@ -1,6 +1,6 @@
 # DraconDev/pi-goal-list-loop-audit
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/DraconDev/pi-goal-list-loop-audit) · [官网](https://pi.dev/packages/pi-goal-list-loop-audit) · 个人维护
+⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/DraconDev/pi-goal-list-loop-audit) · [官网](https://pi.dev/packages/pi-goal-list-loop-audit) · 个人维护
 
 **Pi 编码代理的长期任务监督扩展：目标跟踪与完成审计**
 

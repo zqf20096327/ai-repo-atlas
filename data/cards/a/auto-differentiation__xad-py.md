@@ -1,6 +1,6 @@
 # auto-differentiation/xad-py
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/auto-differentiation/xad-py) · [官网](https://auto-differentiation.github.io) · 组织维护
+⭐ 21 · Jupyter Notebook · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/auto-differentiation/xad-py) · [官网](https://auto-differentiation.github.io) · 组织维护
 
 **XAD 自动微分库的 Python 绑定，计算一阶导数**
 

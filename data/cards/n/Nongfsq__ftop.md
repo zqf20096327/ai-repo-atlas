@@ -1,6 +1,6 @@
 # Nongfsq/ftop
 
-⭐ 372 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Nongfsq/ftop) · [官网](https://github.com/Nongfsq/ftop/releases/latest) · 个人维护 · 中文 README
+⭐ 373 · Swift · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Nongfsq/ftop) · [官网](https://github.com/Nongfsq/ftop/releases/latest) · 个人维护 · 中文 README
 
 **Apple Silicon Mac 的原生浮动面板系统监视器**
 

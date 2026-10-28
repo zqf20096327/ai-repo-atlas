@@ -1,0 +1,45 @@
+# nodecode-ai/nodecode
+
+⭐ 153 · Common Lisp · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
+
+**用 Common Lisp 自我改写的终端编码 agent**
+
+Nodecode 是运行于 SBCL（Common Lisp）单进程中的 agent，终端、浏览器、手机、Discord/Telegram/Slack 机器人及 RPC 客户端均连接到同一网关。模型只有一个工具 eval：在运行中的程序里求值 Lisp，定义即生效并以 git 逐文件保存。安装时可从 Claude Code、Codex 等已有 agent 导入密钥、记忆与 MCP 配置。功能以 cell（文件夹单元）扩展，支持自更新与回滚。自带无沙箱限制：eval 拥有用户账号全部权限，README 建议在容器或 VM 中运行。MIT 许可，按提供商密钥计费。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- eval 单工具：模型在运行中的 Lisp 进程内定义代码，即定义即保留（git 提交）
+- cell 机制扩展能力：聊天室、MCP、定时任务、多会话协作等均为 cell
+- 网关架构：终端/浏览器/手机/聊天机器人/RPC 连接同一运行实例
+- 运行中自更新，支持 generations 列表与 rollback 回滚
+
+## 适用场景
+
+- 在终端用自然语言让 agent 编码并自我定义新工具
+- 通过 Discord/Telegram/Slack 或手机远程使用同一 agent 会话
+- 从已有编码 agent 导入密钥、指令与技能迁移配置
+
+## 场景标签
+
+`编码 Agent` · 领域:编码与开发
+
+## 证据(README 行号)
+
+> L19: Nodecode is an agent that rewrites itself. It runs as one process in SBCL, a Common Lisp system, and shells attach 
+> L61: *"Its programs are in the same format as its data."* (John McCarthy, 1984). Code is data, so a program can rewrite 
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `9a5385ac1e78` · [字段定义](../../DATASET.md)*

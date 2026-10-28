@@ -1,6 +1,6 @@
 # pdebench/PDEBench
 
-⭐ 1,221 · Python · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/pdebench/PDEBench) · [官网](https://arxiv.org/abs/2210.07182) · 组织维护
+⭐ 1,222 · Python · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/pdebench/PDEBench) · [官网](https://arxiv.org/abs/2210.07182) · 组织维护
 
 **科学机器学习 PDE 基准：数据集生成、下载与基线模型评测**
 

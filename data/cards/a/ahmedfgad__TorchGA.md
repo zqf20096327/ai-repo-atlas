@@ -1,6 +1,6 @@
 # ahmedfgad/TorchGA
 
-⭐ 103 · Python · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/TorchGA) · [官网](https://pygad.readthedocs.io) · 个人维护
+⭐ 102 · Python · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/TorchGA) · [官网](https://pygad.readthedocs.io) · 个人维护
 
 **用遗传算法训练 PyTorch 模型的 PyGAD 子模块**
 

@@ -1,6 +1,6 @@
 # heygen-com/heygen-cli
 
-⭐ 163 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/heygen-com/heygen-cli) · [官网](https://developers.heygen.com) · 组织维护
+⭐ 164 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/heygen-com/heygen-cli) · [官网](https://developers.heygen.com) · 组织维护
 
 **HeyGen 官方命令行工具：终端中创建 AI 数字人视频**
 

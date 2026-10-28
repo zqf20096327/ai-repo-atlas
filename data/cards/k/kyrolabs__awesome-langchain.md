@@ -1,6 +1,6 @@
 # kyrolabs/awesome-langchain
 
-⭐ 9,578 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/kyrolabs/awesome-langchain) · 组织维护
+⭐ 9,580 · CC0-1.0 · 推送 2026-10-17 · [GitHub](https://github.com/kyrolabs/awesome-langchain) · 组织维护
 
 **LangChain 生态工具与项目策展清单**
 

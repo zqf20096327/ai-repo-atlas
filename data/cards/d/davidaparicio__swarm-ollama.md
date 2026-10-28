@@ -1,6 +1,6 @@
 # davidaparicio/swarm-ollama
 
-⭐ 25 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/davidaparicio/swarm-ollama) · [官网](https://github.com/openai/swarm) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/davidaparicio/swarm-ollama) · [官网](https://github.com/openai/swarm) · 个人维护
 
 **给开发者的本地多智能体编排框架，基于 Ollama 离线运行**
 

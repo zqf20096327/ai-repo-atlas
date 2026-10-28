@@ -1,6 +1,6 @@
 # ChenChenyaqi/learn-anything
 
-⭐ 494 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ChenChenyaqi/learn-anything) · 个人维护 · 中文 README
+⭐ 496 · TypeScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/ChenChenyaqi/learn-anything) · 个人维护 · 中文 README
 
 **为 30+ AI 编码工具生成苏格拉底式学习命令的 CLI**
 

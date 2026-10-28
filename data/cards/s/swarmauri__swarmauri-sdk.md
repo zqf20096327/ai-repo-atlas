@@ -1,6 +1,6 @@
 # swarmauri/swarmauri-sdk
 
-⭐ 104 · Python · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/swarmauri/swarmauri-sdk) · [官网](https://swarmauri.com) · 组织维护
+⭐ 104 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/swarmauri/swarmauri-sdk) · [官网](https://swarmauri.com) · 组织维护
 
 **面向 AI agent 的模块化 Python SDK：可组合的组件与集成**
 

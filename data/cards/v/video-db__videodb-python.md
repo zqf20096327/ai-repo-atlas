@@ -1,6 +1,6 @@
 # video-db/videodb-python
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/video-db/videodb-python) · [官网](https://pypi.org/project/videodb) · 组织维护
+⭐ 116 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/video-db/videodb-python) · [官网](https://pypi.org/project/videodb) · 组织维护
 
 **VideoDB 云视频基础设施的 Python SDK**
 

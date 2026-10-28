@@ -1,6 +1,6 @@
 # podo/design-agent-skills
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/podo/design-agent-skills) · [官网](https://www.npmjs.com/package/design-agent-skills) · 个人维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/podo/design-agent-skills) · [官网](https://www.npmjs.com/package/design-agent-skills) · 个人维护
 
 **面向 AI 编程 agent 的设计技能策展目录（160 条，两层路由）**
 

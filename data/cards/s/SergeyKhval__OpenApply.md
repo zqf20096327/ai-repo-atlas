@@ -1,6 +1,6 @@
 # SergeyKhval/OpenApply
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SergeyKhval/OpenApply) · [官网](https://openapply.app) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SergeyKhval/OpenApply) · [官网](https://openapply.app) · 个人维护
 
 **可自托管的开源求职申请追踪器，带 AI 简历评审与求职信生成**
 

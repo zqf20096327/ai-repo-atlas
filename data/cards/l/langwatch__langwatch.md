@@ -1,6 +1,6 @@
 # langwatch/langwatch
 
-⭐ 4,996 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langwatch/langwatch) · [官网](https://langwatch.ai) · 组织维护
+⭐ 4,997 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/langwatch/langwatch) · [官网](https://langwatch.ai) · 组织维护
 
 **面向 AI 平台团队的开源 Agent 可观测与评测平台**
 

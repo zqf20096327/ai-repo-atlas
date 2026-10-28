@@ -1,6 +1,6 @@
 # JSONbored/mem0-aio
 
-⭐ 21 · Python · 推送 2026-10-27 · [GitHub](https://github.com/JSONbored/mem0-aio) · [官网](https://aethereal.dev) · 个人维护
+⭐ 21 · Python · 推送 2026-10-28 · [GitHub](https://github.com/JSONbored/mem0-aio) · [官网](https://aethereal.dev) · 个人维护
 
 **Mem0 OpenMemory 一体化自托管 Docker 部署（Unraid 优先）**
 

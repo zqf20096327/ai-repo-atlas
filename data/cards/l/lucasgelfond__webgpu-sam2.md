@@ -1,6 +1,6 @@
 # lucasgelfond/webgpu-sam2
 
-⭐ 184 · TypeScript · 推送 2026-01-10 · [GitHub](https://github.com/lucasgelfond/webgpu-sam2) · [官网](http://webgpu-sam2.lucasgelfond.online/) · 个人维护
+⭐ 185 · TypeScript · 推送 2026-01-10 · [GitHub](https://github.com/lucasgelfond/webgpu-sam2) · [官网](http://webgpu-sam2.lucasgelfond.online/) · 个人维护
 
 **在浏览器中用 WebGPU 运行 Segment Anything 2 图像分割**
 

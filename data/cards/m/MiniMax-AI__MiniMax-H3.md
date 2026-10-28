@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-H3
 
-⭐ 10,730 · Python · 推送 2026-08-15 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
+⭐ 10,816 · Python · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
 
 **全模态音视频生成系统 H3 的开源权重与技能包**
 

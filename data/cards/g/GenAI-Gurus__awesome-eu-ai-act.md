@@ -1,6 +1,6 @@
 # GenAI-Gurus/awesome-eu-ai-act
 
-⭐ 112 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/GenAI-Gurus/awesome-eu-ai-act) · [官网](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) · 组织维护
+⭐ 114 · CC0-1.0 · 推送 2026-10-15 · [GitHub](https://github.com/GenAI-Gurus/awesome-eu-ai-act) · [官网](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) · 组织维护
 
 **欧盟 AI 法案合规资源策展清单：官方文本、工具与开源项目**
 

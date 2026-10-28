@@ -1,6 +1,6 @@
 # langfuse/codex-observability-plugin
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/codex-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/codex) · 组织维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langfuse/codex-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/codex) · 组织维护
 
 **将 OpenAI Codex CLI 会话遥测发送到 Langfuse 的插件**
 

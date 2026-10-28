@@ -1,6 +1,6 @@
 # sauravsingla/MemVanta
 
-⭐ 39 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/sauravsingla/MemVanta) · [官网](https://sauravsingla.github.io/MemVanta/) · 个人维护
+⭐ 40 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/sauravsingla/MemVanta) · [官网](https://sauravsingla.github.io/MemVanta/) · 个人维护
 
 **低内存 C++20 CPU 推理运行时：跑量化 GGUF Llama 模型**
 

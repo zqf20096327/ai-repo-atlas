@@ -1,6 +1,6 @@
 # Ge-Shun/origin-mcp
 
-⭐ 138 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Ge-Shun/origin-mcp) · 个人维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ge-Shun/origin-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 操控 Origin/OriginPro 的本地服务器**
 

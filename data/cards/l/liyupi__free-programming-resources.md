@@ -1,6 +1,6 @@
 # liyupi/free-programming-resources
 
-⭐ 3,789 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
+⭐ 3,791 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
 
 **免费编程学习资源导航清单：学习路线、项目教程、面试题与 AI 资源**
 

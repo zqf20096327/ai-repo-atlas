@@ -1,6 +1,6 @@
 # Yzmblog/DMAD
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护 · 中文 README
+⭐ 233 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护 · 中文 README
 
 **扩散模型对抗蒸馏方法 DMAD 的训练与少步推理代码**
 

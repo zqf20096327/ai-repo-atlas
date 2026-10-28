@@ -1,6 +1,6 @@
 # mmr710/nightmux
 
-⭐ 25 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mmr710/nightmux) · [官网](https://mmr710.github.io/nightmux/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mmr710/nightmux) · [官网](https://mmr710.github.io/nightmux/) · 个人维护
 
 **手机远程驱动多个 AI 编程代理的夜间值守自托管工具**
 

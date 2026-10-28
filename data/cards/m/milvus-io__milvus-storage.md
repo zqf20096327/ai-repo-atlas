@@ -1,6 +1,6 @@
 # milvus-io/milvus-storage
 
-⭐ 56 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/milvus-storage) · 组织维护
+⭐ 56 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/milvus-storage) · 组织维护
 
 **面向向量数据库的列式存储引擎，基于 Apache Arrow**
 

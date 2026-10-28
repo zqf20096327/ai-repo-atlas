@@ -1,6 +1,6 @@
 # CHIANGEL/Awesome-LLM-for-RecSys
 
-⭐ 1,566 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) · 个人维护 · 中文 README
+⭐ 1,567 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) · 个人维护 · 中文 README
 
 **LLM 推荐系统论文与资源清单（附 TOIS 综述）**
 

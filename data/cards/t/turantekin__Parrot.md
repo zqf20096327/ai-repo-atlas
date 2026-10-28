@@ -1,6 +1,6 @@
 # turantekin/Parrot
 
-⭐ 120 · Swift · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/turantekin/Parrot) · [官网](https://openparrot.app) · 个人维护
+⭐ 122 · Swift · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/turantekin/Parrot) · [官网](https://openparrot.app) · 个人维护
 
 **Mac 本地优先的会议录制器：通话中实时转写并给出 AI 助答**
 

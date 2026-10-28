@@ -1,6 +1,6 @@
 # theopenconversationkit/tock
 
-⭐ 611 · Kotlin · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/theopenconversationkit/tock) · [官网](https://doc.tock.ai) · 组织维护
+⭐ 611 · Kotlin · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/theopenconversationkit/tock) · [官网](https://doc.tock.ai) · 组织维护
 
 **开源对话式 AI 平台：构建带 RAG 与 NLP 的聊天机器人**
 

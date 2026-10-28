@@ -1,6 +1,6 @@
 # burugo/one-mcp
 
-⭐ 420 · Go · MIT · 推送 2026-09-06 · [GitHub](https://github.com/burugo/one-mcp) · 个人维护 · 中文 README
+⭐ 421 · Go · MIT · 推送 2026-09-06 · [GitHub](https://github.com/burugo/one-mcp) · 个人维护 · 中文 README
 
 **MCP 服务集中反向代理平台：统一管理、分组并导出为 Skills**
 

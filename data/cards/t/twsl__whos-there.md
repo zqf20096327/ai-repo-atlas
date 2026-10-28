@@ -1,6 +1,6 @@
 # twsl/whos-there
 
-⭐ 78 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/twsl/whos-there) · [官网](https://twsl.github.io/whos-there/) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/twsl/whos-there) · [官网](https://twsl.github.io/whos-there/) · 个人维护
 
 **PyTorch Lightning 训练通知回调：训练结束或崩溃时推送通知**
 

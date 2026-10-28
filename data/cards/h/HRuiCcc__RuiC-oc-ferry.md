@@ -1,6 +1,6 @@
 # HRuiCcc/RuiC-oc-ferry
 
-⭐ 388 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HRuiCcc/RuiC-oc-ferry) · 个人维护 · 中文 README
+⭐ 399 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HRuiCcc/RuiC-oc-ferry) · 个人维护 · 中文 README
 
 **把 OpenCode 免费模型探测后摆渡给 WorkBuddy 的托盘应用**
 

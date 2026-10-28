@@ -1,6 +1,6 @@
 # fishfinger44/MatteDesk
 
-⭐ 32 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/fishfinger44/MatteDesk) · 个人维护
+⭐ 34 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/fishfinger44/MatteDesk) · 个人维护
 
 **浏览器中的 VFX 抠像工具：AI 生成多对象 alpha matte 并导出**
 

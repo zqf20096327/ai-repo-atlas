@@ -1,6 +1,6 @@
 # Mukosame/Anime2Sketch
 
-⭐ 2,138 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mukosame/Anime2Sketch) · 个人维护
+⭐ 2,139 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mukosame/Anime2Sketch) · 个人维护
 
 **将插画/动漫/漫画图像提取为线稿的深度学习工具**
 

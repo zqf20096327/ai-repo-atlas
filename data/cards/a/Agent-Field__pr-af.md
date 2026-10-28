@@ -1,6 +1,6 @@
 # Agent-Field/pr-af
 
-⭐ 659 · Go · 推送 2026-09-21 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
+⭐ 659 · Go · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
 
 **面向 CI/CD 的开源 Agentic 代码审查工具，基于 AgentField**
 

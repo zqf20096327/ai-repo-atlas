@@ -1,6 +1,6 @@
 # huggingface/gsplat.js
 
-⭐ 1,673 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gsplat.js) · 组织维护
+⭐ 1,674 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gsplat.js) · 组织维护
 
 **JavaScript 的 3D Gaussian Splatting 渲染库，面向 Web 开发者**
 

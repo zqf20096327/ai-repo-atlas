@@ -1,6 +1,6 @@
 # Ninnix/q36
 
-⭐ 75 · C · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ninnix/q36) · 个人维护
+⭐ 76 · C · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ninnix/q36) · 个人维护
 
 **面向 Qwen3.6/3.8 两款模型的本地推理引擎（Vulkan/Metal）**
 

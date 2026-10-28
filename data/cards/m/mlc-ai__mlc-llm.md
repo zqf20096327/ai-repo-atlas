@@ -1,6 +1,6 @@
 # mlc-ai/mlc-llm
 
-⭐ 23,281 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
+⭐ 23,284 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlc-ai/mlc-llm) · [官网](https://llm.mlc.ai/) · 组织维护
 
 **面向多平台本地部署 LLM 的编译与推理引擎**
 

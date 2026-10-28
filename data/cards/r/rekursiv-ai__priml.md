@@ -1,6 +1,6 @@
 # rekursiv-ai/priml
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rekursiv-ai/priml) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rekursiv-ai/priml) · [官网](https://rekursiv.ai) · 组织维护
 
 **强类型可配置 ML 训练实验构建块库，支持 A/B 测试**
 

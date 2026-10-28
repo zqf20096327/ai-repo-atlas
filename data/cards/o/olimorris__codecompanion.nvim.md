@@ -1,6 +1,6 @@
 # olimorris/codecompanion.nvim
 
-⭐ 6,904 · Lua · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/olimorris/codecompanion.nvim) · [官网](https://codecompanion.olimorris.dev) · 个人维护
+⭐ 6,908 · Lua · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/olimorris/codecompanion.nvim) · [官网](https://codecompanion.olimorris.dev) · 个人维护
 
 **Neovim 的 LLM/Agent 编程助手插件，接入多家模型与编码代理**
 

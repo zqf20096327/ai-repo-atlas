@@ -1,6 +1,6 @@
 # guidogagl/physioex
 
-⭐ 30 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/guidogagl/physioex) · [官网](https://guidogagl.github.io/physioex/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/guidogagl/physioex) · [官网](https://guidogagl.github.io/physioex/) · 组织维护
 
 **生理信号深度学习分类器的训练与可解释性 PyTorch 库**
 

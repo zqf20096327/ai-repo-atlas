@@ -1,6 +1,6 @@
 # SciML/DeepEquilibriumNetworks.jl
 
-⭐ 59 · Julia · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SciML/DeepEquilibriumNetworks.jl) · [官网](https://docs.sciml.ai/DeepEquilibriumNetworks/stable/) · 组织维护
+⭐ 59 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SciML/DeepEquilibriumNetworks.jl) · [官网](https://docs.sciml.ai/DeepEquilibriumNetworks/stable/) · 组织维护
 
 **Julia 框架：训练与推理深度平衡网络（无限深神经网络）**
 

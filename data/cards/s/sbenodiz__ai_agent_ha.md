@@ -1,6 +1,6 @@
 # sbenodiz/ai_agent_ha
 
-⭐ 167 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sbenodiz/ai_agent_ha) · 个人维护
+⭐ 168 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sbenodiz/ai_agent_ha) · 个人维护
 
 **Home Assistant 集成：用自然语言生成自动化与仪表盘的 AI agent**
 

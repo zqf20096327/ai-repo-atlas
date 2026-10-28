@@ -1,6 +1,6 @@
 # deepjavalibrary/djl
 
-⭐ 4,857 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepjavalibrary/djl) · [官网](https://djl.ai) · 组织维护
+⭐ 4,856 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/deepjavalibrary/djl) · [官网](https://djl.ai) · 组织维护
 
 **面向 Java 开发者的引擎无关深度学习框架**
 

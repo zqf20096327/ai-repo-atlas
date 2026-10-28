@@ -1,6 +1,6 @@
 # leofan90/Awesome-World-Models
 
-⭐ 2,048 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 个人维护
+⭐ 2,049 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 个人维护
 
 **世界模型论文策展清单：视频生成/具身智能/自动驾驶方向**
 

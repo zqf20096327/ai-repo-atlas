@@ -1,6 +1,6 @@
 # langhost/langhost
 
-⭐ 65 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/langhost/langhost) · [官网](https://github.com/langhost/langhost) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/langhost/langhost) · [官网](https://github.com/langhost/langhost) · 个人维护
 
 **自托管开源 LangGraph Agent Server 运行时：MIT 许可、Postgres+Redis 持久化**
 

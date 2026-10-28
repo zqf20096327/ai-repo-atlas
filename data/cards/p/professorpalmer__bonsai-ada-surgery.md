@@ -1,6 +1,6 @@
 # professorpalmer/bonsai-ada-surgery
 
-⭐ 95 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/professorpalmer/bonsai-ada-surgery) · [官网](https://github.com/professorpalmer/bonsai-ada-surgery/releases/latest) · 个人维护
+⭐ 96 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/professorpalmer/bonsai-ada-surgery) · [官网](https://github.com/professorpalmer/bonsai-ada-surgery/releases/latest) · 个人维护
 
 **在 12/8 GB 消费级显卡上以全 262k 上下文运行 Bonsai 2 27B 的服务包**
 

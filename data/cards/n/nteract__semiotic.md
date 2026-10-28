@@ -1,6 +1,6 @@
 # nteract/semiotic
 
-⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
+⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
 
 **面向 AI 辅助开发的 React 数据可视化库**
 

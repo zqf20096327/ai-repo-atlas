@@ -1,6 +1,6 @@
 # NeuroSkill-com/skill
 
-⭐ 105 · Rust · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/NeuroSkill-com/skill) · [官网](https://neuroskill.com) · 组织维护
+⭐ 105 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/NeuroSkill-com/skill) · [官网](https://neuroskill.com) · 组织维护
 
 **本地优先的桌面神经反馈与 BCI 研究工具**
 

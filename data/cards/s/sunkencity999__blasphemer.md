@@ -1,6 +1,6 @@
 # sunkencity999/blasphemer
 
-⭐ 34 · Python · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/sunkencity999/blasphemer) · 个人维护
+⭐ 35 · Python · AGPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/sunkencity999/blasphemer) · 个人维护
 
 **macOS 优化版 LLM 去审查工具：abliteration+LoRA+断点续跑**
 

@@ -1,6 +1,6 @@
 # DjTaNg-404/Desktop-Claw
 
-⭐ 33 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/DjTaNg-404/Desktop-Claw) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-04-27 · [GitHub](https://github.com/DjTaNg-404/Desktop-Claw) · 个人维护 · 中文 README
 
 **常驻桌面的悬浮球 AI 伙伴，带记忆与文件处理**
 

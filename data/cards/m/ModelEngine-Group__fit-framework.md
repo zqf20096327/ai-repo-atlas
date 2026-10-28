@@ -1,6 +1,6 @@
 # ModelEngine-Group/fit-framework
 
-⭐ 2,118 · Java · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ModelEngine-Group/fit-framework) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
+⭐ 2,117 · Java · MIT · 推送 2026-03-13 · [GitHub](https://github.com/ModelEngine-Group/fit-framework) · [官网](https://modelengine-ai.net) · 组织维护 · 中文 README
 
 **面向 Java 开发者的企业级 AI 开发框架**
 

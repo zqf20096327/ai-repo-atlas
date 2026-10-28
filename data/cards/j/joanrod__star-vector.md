@@ -1,6 +1,6 @@
 # joanrod/star-vector
 
-⭐ 4,632 · Python · Apache-2.0 · 推送 2025-11-07 · [GitHub](https://github.com/joanrod/star-vector) · [官网](https://starvector.github.io) · 组织维护
+⭐ 4,631 · Python · Apache-2.0 · 推送 2025-11-07 · [GitHub](https://github.com/joanrod/star-vector) · [官网](https://starvector.github.io) · 组织维护
 
 **把图像与文本转为 SVG 代码的多模态视觉语言基础模型**
 

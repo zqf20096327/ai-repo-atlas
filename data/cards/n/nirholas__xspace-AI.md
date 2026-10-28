@@ -1,6 +1,6 @@
 # nirholas/xspace-AI
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/nirholas/xspace-AI) · [官网](https://nirholas.github.io/xspace-AI/) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/nirholas/xspace-AI) · [官网](https://nirholas.github.io/xspace-AI/) · 个人维护
 
 **构建能自主加入并发言于 X/Twitter Spaces 的 AI 语音 agent 的 SDK/CLI**
 

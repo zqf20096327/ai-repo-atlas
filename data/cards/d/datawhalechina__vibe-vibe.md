@@ -1,6 +1,6 @@
 # datawhalechina/vibe-vibe
 
-⭐ 6,193 · Dockerfile · 推送 2026-04-30 · [GitHub](https://github.com/datawhalechina/vibe-vibe) · [官网](https://www.vibevibe.cn) · 组织维护 · 中文 README
+⭐ 6,197 · Dockerfile · 推送 2026-04-30 · [GitHub](https://github.com/datawhalechina/vibe-vibe) · [官网](https://www.vibevibe.cn) · 组织维护 · 中文 README
 
 **零基础学习者的 Vibe Coding 系统化开源教程**
 

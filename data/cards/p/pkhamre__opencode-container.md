@@ -1,6 +1,6 @@
 # pkhamre/opencode-container
 
-⭐ 56 · Shell · 推送 2026-10-22 · [GitHub](https://github.com/pkhamre/opencode-container) · 个人维护
+⭐ 57 · Shell · 推送 2026-10-22 · [GitHub](https://github.com/pkhamre/opencode-container) · 个人维护
 
 **在加固容器中隔离运行 OpenCode CLI 的封装环境**
 

@@ -1,6 +1,6 @@
 # superloglabs/superlog
 
-⭐ 1,475 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/superloglabs/superlog) · [官网](https://superlog.sh) · 组织维护
+⭐ 1,477 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/superloglabs/superlog) · [官网](https://superlog.sh) · 组织维护
 
 **开源 agentic 遥测系统：接入 OTel 数据并用 AI agent 分组诊断事件**
 

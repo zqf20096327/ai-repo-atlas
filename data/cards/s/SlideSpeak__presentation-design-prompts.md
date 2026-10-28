@@ -1,6 +1,6 @@
 # SlideSpeak/presentation-design-prompts
 
-⭐ 190 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/SlideSpeak/presentation-design-prompts) · [官网](https://slidespeak.co/slide-design-prompts?utm-source=github) · 组织维护
+⭐ 192 · MIT · 推送 2026-09-30 · [GitHub](https://github.com/SlideSpeak/presentation-design-prompts) · [官网](https://slidespeak.co/slide-design-prompts?utm-source=github) · 组织维护
 
 **幻灯片设计提示词库：128 套主题供粘贴到 AI 聊天工具**
 

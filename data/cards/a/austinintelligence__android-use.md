@@ -1,6 +1,6 @@
 # austinintelligence/android-use
 
-⭐ 28 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/austinintelligence/android-use) · [官网](https://www.npmjs.com/package/android-use) · 组织维护
+⭐ 29 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/austinintelligence/android-use) · [官网](https://www.npmjs.com/package/android-use) · 组织维护
 
 **给 AI agent 提供真实 Android 设备/模拟器受控操作的 MCP 服务器与 CLI**
 

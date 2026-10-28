@@ -1,6 +1,6 @@
 # sdevil7th/OpenStudio
 
-⭐ 40 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sdevil7th/OpenStudio) · [官网](https://openstudio.org.in) · 个人维护
+⭐ 41 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sdevil7th/OpenStudio) · [官网](https://openstudio.org.in) · 个人维护
 
 **开源本地优先的 DAW，内置可选本地 AI 音乐工具**
 

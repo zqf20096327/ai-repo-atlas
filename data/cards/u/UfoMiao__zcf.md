@@ -1,6 +1,6 @@
 # UfoMiao/zcf
 
-⭐ 6,078 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
+⭐ 6,078 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
 
 **为开发者零配置初始化 Claude Code 与 Codex 的 CLI 工具**
 

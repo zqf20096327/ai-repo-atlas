@@ -1,6 +1,6 @@
 # nesall/phenixcode
 
-⭐ 21 · C++ · MIT · 推送 2026-10-22 · [GitHub](https://github.com/nesall/phenixcode) · 个人维护
+⭐ 21 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nesall/phenixcode) · 个人维护
 
 **自托管的代码库 RAG 问答助手，隐私优先，本地或云端模型可选**
 

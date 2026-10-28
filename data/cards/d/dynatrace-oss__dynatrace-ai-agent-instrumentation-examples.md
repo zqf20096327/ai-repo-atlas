@@ -1,6 +1,6 @@
 # dynatrace-oss/dynatrace-ai-agent-instrumentation-examples
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dynatrace-oss/dynatrace-ai-agent-instrumentation-examples) · [官网](https://www.dynatrace.com/solutions/ai-observability/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dynatrace-oss/dynatrace-ai-agent-instrumentation-examples) · [官网](https://www.dynatrace.com/solutions/ai-observability/) · 组织维护
 
 **Dynatrace AI agent 可观测性 OTel 埋点示例集**
 

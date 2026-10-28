@@ -1,6 +1,6 @@
 # mugar123/papertok
 
-⭐ 112 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mugar123/papertok) · [官网](https://papertok.app) · 个人维护
+⭐ 112 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mugar123/papertok) · [官网](https://papertok.app) · 个人维护
 
 **可滑动的个性化科学论文发现与阅读信息流**
 

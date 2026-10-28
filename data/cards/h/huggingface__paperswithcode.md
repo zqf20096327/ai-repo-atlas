@@ -1,6 +1,6 @@
 # huggingface/paperswithcode
 
-⭐ 238 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/paperswithcode) · [官网](https://paperswithcode.co) · 组织维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/paperswithcode) · [官网](https://paperswithcode.co) · 组织维护
 
 **重建 Papers with Code：追踪 AI 论文、代码、数据集与榜单的目录站**
 

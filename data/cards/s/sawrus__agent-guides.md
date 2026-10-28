@@ -1,6 +1,6 @@
 # sawrus/agent-guides
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sawrus/agent-guides) · [官网](https://sawrus.github.io/agent-guides) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sawrus/agent-guides) · [官网](https://sawrus.github.io/agent-guides) · 组织维护
 
 **为多款编码 agent 统一项目规则与质量门禁的配置包**
 

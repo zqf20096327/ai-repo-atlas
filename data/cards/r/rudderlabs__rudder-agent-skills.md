@@ -1,6 +1,6 @@
 # rudderlabs/rudder-agent-skills
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rudderlabs/rudder-agent-skills) · [官网](https://www.rudderstack.com/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rudderlabs/rudder-agent-skills) · [官网](https://www.rudderstack.com/) · 组织维护
 
 **教 AI 编程代理操作 RudderStack 的技能与插件集合**
 

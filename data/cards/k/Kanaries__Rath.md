@@ -1,6 +1,6 @@
 # Kanaries/Rath
 
-⭐ 4,686 · TypeScript · AGPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/Kanaries/Rath) · [官网](https://rath.kanaries.net) · 组织维护 · 中文 README
+⭐ 4,687 · TypeScript · AGPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/Kanaries/Rath) · [官网](https://rath.kanaries.net) · 组织维护 · 中文 README
 
 **自动化探索性数据分析与可视化平台，面向数据分析用户**
 

@@ -1,6 +1,6 @@
 # RongleCat/grok-app
 
-⭐ 1,503 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RongleCat/grok-app) · [官网](https://grok-app.com) · 个人维护 · 中文 README
+⭐ 1,507 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RongleCat/grok-app) · [官网](https://grok-app.com) · 个人维护 · 中文 README
 
 **Grok Build CLI 的开源桌面工作台客户端**
 

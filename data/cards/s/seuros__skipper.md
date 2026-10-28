@@ -1,6 +1,6 @@
 # seuros/skipper
 
-⭐ 23 · Rust · BSD-2-Clause · 推送 2026-10-25 · [GitHub](https://github.com/seuros/skipper) · 个人维护
+⭐ 23 · Rust · BSD-2-Clause · 推送 2026-10-28 · [GitHub](https://github.com/seuros/skipper) · 个人维护
 
 **面向 agent 的 git/代码托管 MCP 服务器，本地 git 加四大 forge**
 

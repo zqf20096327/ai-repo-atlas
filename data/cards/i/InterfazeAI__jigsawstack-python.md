@@ -1,6 +1,6 @@
 # InterfazeAI/jigsawstack-python
 
-⭐ 20 · Python · 推送 2026-07-06 · [GitHub](https://github.com/InterfazeAI/jigsawstack-python) · [官网](https://jigsawstack.com) · 组织维护
+⭐ 20 · Python · 推送 2026-10-27 · [GitHub](https://github.com/InterfazeAI/jigsawstack-python) · [官网](https://jigsawstack.com) · 组织维护
 
 **JigsawStack 各类 AI 服务的官方 Python SDK**
 

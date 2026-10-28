@@ -1,6 +1,6 @@
 # langchain-ai/langchain-milvus
 
-⭐ 61 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/langchain-milvus) · [官网](https://milvus.io/docs/integrate_with_langchain.md) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/langchain-milvus) · [官网](https://milvus.io/docs/integrate_with_langchain.md) · 组织维护
 
 **LangChain 与 Milvus 向量数据库的集成包，支持向量检索与 RAG**
 

@@ -1,6 +1,6 @@
 # Vedantgitbot/booth
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Vedantgitbot/booth) · [官网](https://pypi.org/project/boothpy/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Vedantgitbot/booth) · [官网](https://pypi.org/project/boothpy/) · 个人维护
 
 **零依赖的 LLM 输出校验层：结构化判定是否信任模型回答**
 

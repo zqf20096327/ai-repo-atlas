@@ -1,6 +1,6 @@
 # Juwan-Hwang/omni2api
 
-⭐ 41 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Juwan-Hwang/omni2api) · [官网](juwanh.com/lab/omni2api) · 个人维护 · 中文 README
+⭐ 43 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Juwan-Hwang/omni2api) · [官网](juwanh.com/lab/omni2api) · 个人维护 · 中文 README
 
 **把终端侧 AI agent 包装成 OpenAI 兼容 API 的 Rust 服务器**
 

@@ -1,6 +1,6 @@
 # anders-swanson/oracle-database-code-samples
 
-⭐ 43 · Java · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/anders-swanson/oracle-database-code-samples) · [官网](https://anders-swanson.github.io/oracle-database-code-samples/#/) · 个人维护
+⭐ 43 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anders-swanson/oracle-database-code-samples) · [官网](https://anders-swanson.github.io/oracle-database-code-samples/#/) · 个人维护
 
 **Oracle AI Database 官方风格代码示例集：Java 为主，覆盖向量检索等多数据库特性**
 

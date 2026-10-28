@@ -1,6 +1,6 @@
 # mickyarun/glideship
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mickyarun/glideship) · [官网](https://bodhiorchard.ai/) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mickyarun/glideship) · [官网](https://glideship.ai/) · 个人维护
 
 **面向 AI 原生团队的自主托管项目管理平台，替代 Jira/Scrum**
 

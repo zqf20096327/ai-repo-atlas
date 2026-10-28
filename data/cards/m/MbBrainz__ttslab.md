@@ -1,6 +1,6 @@
 # MbBrainz/ttslab
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MbBrainz/ttslab) · [官网](https://ttslab.dev) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/MbBrainz/ttslab) · [官网](https://ttslab.dev) · 个人维护
 
 **浏览器内测试与对比 TTS/STT 模型的网站，本地推理零上传**
 

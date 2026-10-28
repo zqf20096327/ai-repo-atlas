@@ -1,6 +1,6 @@
 # CoWork-OS/CoWork-OS
 
-⭐ 514 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/CoWork-OS/CoWork-OS) · [官网](https://coworkosapp.com) · 组织维护 · 中文 README
+⭐ 514 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CoWork-OS/CoWork-OS) · [官网](https://coworkosapp.com) · 组织维护 · 中文 README
 
 **给个人用户的可视化审批 AI 桌面代理：处理文件/收件箱/浏览器/定时任务**
 

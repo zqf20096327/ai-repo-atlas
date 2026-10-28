@@ -1,6 +1,6 @@
 # skforecast/skforecast-ai
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/skforecast/skforecast-ai) · [官网](https://ai.skforecast.org) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/skforecast/skforecast-ai) · [官网](https://ai.skforecast.org) · 组织维护
 
 **面向分析师/开发者的确定性时间序列预测助手**
 

@@ -1,6 +1,6 @@
 # i-dot-ai/themefinder
 
-⭐ 95 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/i-dot-ai/themefinder) · [官网](https://i-dot-ai.github.io/themefinder/) · 组织维护
+⭐ 96 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/i-dot-ai/themefinder) · [官网](https://i-dot-ai.github.io/themefinder/) · 组织维护
 
 **分析一对多问答数据（问卷/公共咨询）的主题建模 Python 库**
 

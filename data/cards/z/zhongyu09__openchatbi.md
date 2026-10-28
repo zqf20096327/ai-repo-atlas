@@ -1,6 +1,6 @@
 # zhongyu09/openchatbi
 
-⭐ 672 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zhongyu09/openchatbi) · [官网](https://zhongyu09.github.io/openchatbi/) · 个人维护
+⭐ 672 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zhongyu09/openchatbi) · [官网](https://zhongyu09.github.io/openchatbi/) · 个人维护
 
 **对话式开源 BI 工具：用自然语言查询、分析与可视化数据**
 

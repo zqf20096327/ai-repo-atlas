@@ -1,6 +1,6 @@
 # WooooDyy/AgentGym
 
-⭐ 852 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/WooooDyy/AgentGym) · [官网](https://arxiv.org/abs/2406.04151) · 组织维护
+⭐ 853 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/WooooDyy/AgentGym) · [官网](https://arxiv.org/abs/2406.04151) · 组织维护
 
 **LLM 智能体训练评测框架：多环境交互与进化**
 

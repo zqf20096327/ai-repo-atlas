@@ -1,6 +1,6 @@
 # byaan-ai/byaan
 
-⭐ 97 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/byaan-ai/byaan) · [官网](https://www.byaan.ai/) · 组织维护
+⭐ 97 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/byaan-ai/byaan) · [官网](https://www.byaan.ai/) · 组织维护
 
 **自托管 AI 数据分析 agent：连自有数据库，自然语言出图表**
 

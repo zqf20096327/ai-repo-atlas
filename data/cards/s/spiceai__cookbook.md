@@ -1,6 +1,6 @@
 # spiceai/cookbook
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/spiceai/cookbook) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/spiceai/cookbook) · 组织维护
 
 **Spice.ai 数据与 AI 应用的示例配方集合（教程库）**
 

@@ -1,6 +1,6 @@
 # tenstorrent/vllm-tt-plugin
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tenstorrent/vllm-tt-plugin) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tenstorrent/vllm-tt-plugin) · 组织维护
 
 **将 Tenstorrent 硬件接入 vLLM 的后端插件，面向 TT 设备做 LLM 推理**
 

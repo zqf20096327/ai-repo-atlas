@@ -1,6 +1,6 @@
 # xiayu1987/noobot
 
-⭐ 190 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/xiayu1987/noobot) · 个人维护 · 中文 README
+⭐ 191 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xiayu1987/noobot) · 个人维护 · 中文 README
 
 **自托管 AI agent 工作台：多模型路由、工具调用与 3D 角色动画**
 

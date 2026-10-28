@@ -1,6 +1,6 @@
 # kevinten-ai/ai-agent-agentscope-codereview
 
-⭐ 68 · Java · 推送 2026-06-28 · [GitHub](https://github.com/kevinten-ai/ai-agent-agentscope-codereview) · [官网](https://java.agentscope.io) · 个人维护 · 中文 README
+⭐ 69 · Java · 推送 2026-06-28 · [GitHub](https://github.com/kevinten-ai/ai-agent-agentscope-codereview) · [官网](https://java.agentscope.io) · 个人维护 · 中文 README
 
 **基于 AgentScope Java SDK 的代码审查 Agent 项目与框架学习教程**
 

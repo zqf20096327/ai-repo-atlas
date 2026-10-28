@@ -1,6 +1,6 @@
 # akiselev/ghidra-cli
 
-⭐ 260 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/akiselev/ghidra-cli) · 个人维护
+⭐ 261 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/akiselev/ghidra-cli) · 个人维护
 
 **供人手或 AI 代理调用的 Ghidra 逆向工程命令行工具**
 

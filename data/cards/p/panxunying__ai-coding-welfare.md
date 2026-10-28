@@ -1,6 +1,6 @@
 # panxunying/ai-coding-welfare
 
-⭐ 1,184 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
+⭐ 1,189 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
 
 **AI 编码工具免费额度的中转/公益站导航合集**
 

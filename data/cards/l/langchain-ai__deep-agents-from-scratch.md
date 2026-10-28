@@ -1,6 +1,6 @@
 # langchain-ai/deep-agents-from-scratch
 
-⭐ 851 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep-agents-from-scratch) · 组织维护
+⭐ 852 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep-agents-from-scratch) · 组织维护
 
 **用 LangGraph 从零实现深度 Agent 模式的教学课程**
 

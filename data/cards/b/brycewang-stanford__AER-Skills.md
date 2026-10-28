@@ -1,6 +1,6 @@
 # brycewang-stanford/AER-Skills
 
-⭐ 59 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/brycewang-stanford/AER-Skills) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/brycewang-stanford/AER-Skills) · 个人维护 · 中文 README
 
 **面向 AER/AEJ 经济学期刊的论文写作 agent skill 栈**
 

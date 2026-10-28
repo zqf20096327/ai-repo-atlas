@@ -1,6 +1,6 @@
 # pullboard-dev/pullboard
 
-⭐ 295 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
+⭐ 416 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
 
 **面向真实产品的自主开发代理编排工具：规格驱动、代理互验后合并**
 

@@ -1,6 +1,6 @@
 # RedPlanetHQ/core
 
-⭐ 2,004 · TypeScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/RedPlanetHQ/core) · [官网](https://getcore.me) · 组织维护 · 中文 README
+⭐ 2,005 · TypeScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/RedPlanetHQ/core) · [官网](https://getcore.me) · 组织维护 · 中文 README
 
 **自托管的个人 AI 助理系统：记忆+任务+语音+编码代理**
 

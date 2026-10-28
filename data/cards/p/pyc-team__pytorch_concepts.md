@@ -1,6 +1,6 @@
 # pyc-team/pytorch_concepts
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pyc-team/pytorch_concepts) · [官网](https://pytorch-concepts.readthedocs.io/en/latest/) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pyc-team/pytorch_concepts) · [官网](https://pytorch-concepts.readthedocs.io/en/latest/) · 组织维护
 
 **基于 PyTorch 的概念化可解释深度学习模型构建库**
 

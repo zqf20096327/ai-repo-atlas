@@ -1,6 +1,6 @@
 # UpstageAI/korean-tax-calc-mcp
 
-⭐ 48 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/UpstageAI/korean-tax-calc-mcp) · [官网](https://pypi.org/project/korean-tax-calc-mcp/) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UpstageAI/korean-tax-calc-mcp) · [官网](https://pypi.org/project/korean-tax-calc-mcp/) · 组织维护
 
 **韩国税务计算 MCP 服务器：为 AI agent 提供税额计算与税务调整工具**
 

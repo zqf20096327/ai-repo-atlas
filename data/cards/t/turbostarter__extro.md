@@ -1,6 +1,6 @@
 # turbostarter/extro
 
-⭐ 413 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/turbostarter/extro) · [官网](https://turbostarter.dev) · 个人维护
+⭐ 412 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/turbostarter/extro) · [官网](https://turbostarter.dev) · 个人维护
 
 **浏览器扩展生产级起步模板，覆盖认证/存储/AI 等功能**
 

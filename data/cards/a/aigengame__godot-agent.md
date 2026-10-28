@@ -1,6 +1,6 @@
 # aigengame/godot-agent
 
-⭐ 55 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aigengame/godot-agent) · [官网](https://aigengame.xyz/) · 组织维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aigengame/godot-agent) · [官网](https://aigengame.xyz/) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Godot 自动化 CLI：无头构建验证与运行时控制**
 

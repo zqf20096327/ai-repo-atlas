@@ -1,6 +1,6 @@
 # Drlinglong/Remis
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/Drlinglong/Remis) · [官网](https://drlinglong.github.io/Remis/) · 个人维护 · 中文 README
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Drlinglong/Remis) · [官网](https://drlinglong.github.io/Remis/) · 个人维护 · 中文 README
 
 **AI 游戏模组本地化桌面系统：术语感知翻译与人工审核**
 

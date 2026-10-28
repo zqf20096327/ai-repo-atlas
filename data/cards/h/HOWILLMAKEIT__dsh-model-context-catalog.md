@@ -1,6 +1,6 @@
 # HOWILLMAKEIT/dsh-model-context-catalog
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) · [官网](https://www.npmjs.com/package/dsh-model-context-catalog) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) · [官网](https://www.npmjs.com/package/dsh-model-context-catalog) · 个人维护 · 中文 README
 
 **DSH 插件：一键匹配模型上下文窗口并批量配置**
 

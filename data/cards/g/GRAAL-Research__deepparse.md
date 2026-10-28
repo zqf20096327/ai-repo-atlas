@@ -1,6 +1,6 @@
 # GRAAL-Research/deepparse
 
-⭐ 355 · Python · LGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
+⭐ 355 · Python · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
 
 **用深度学习解析多国街道地址的 Python 库**
 

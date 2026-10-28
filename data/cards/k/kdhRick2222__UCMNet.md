@@ -1,6 +1,6 @@
 # kdhRick2222/UCMNet
 
-⭐ 21 · Python · 推送 2026-08-18 · [GitHub](https://github.com/kdhRick2222/UCMNet) · [官网](https://kdhrick2222.github.io/projects/UCMNet/) · 组织维护
+⭐ 22 · Python · 推送 2026-08-18 · [GitHub](https://github.com/kdhRick2222/UCMNet) · [官网](https://kdhrick2222.github.io/projects/UCMNet/) · 组织维护
 
 **屏下摄像头图像修复模型官方实现（CVPR'26）**
 

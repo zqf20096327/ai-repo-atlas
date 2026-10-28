@@ -1,6 +1,6 @@
 # najeed/ai-agent-eval-harness
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/najeed/ai-agent-eval-harness) · [官网](https://najeed.github.io/ai-agent-eval-harness/) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/najeed/ai-agent-eval-harness) · [官网](https://najeed.github.io/ai-agent-eval-harness/) · 个人维护
 
 **企业 AI agent 的评测与验证框架：核验行为、状态与合规**
 

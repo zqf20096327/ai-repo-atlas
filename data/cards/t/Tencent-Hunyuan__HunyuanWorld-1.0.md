@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanWorld-1.0
 
-⭐ 2,957 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) · [官网](https://3d.hunyuan.tencent.com/sceneTo3D) · 组织维护 · 中文 README
+⭐ 2,959 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) · [官网](https://3d.hunyuan.tencent.com/sceneTo3D) · 组织维护 · 中文 README
 
 **从文本或图像生成可探索交互 3D 世界的开源模型**
 

@@ -1,6 +1,6 @@
 # Helsinki-NLP/Opus-MT
 
-⭐ 872 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Helsinki-NLP/Opus-MT) · 组织维护
+⭐ 873 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Helsinki-NLP/Opus-MT) · 组织维护
 
 **开源神经机器翻译模型与 Web 翻译服务工具集**
 

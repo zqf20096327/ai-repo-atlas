@@ -1,6 +1,6 @@
 # marc2332/term
 
-⭐ 20 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/marc2332/term) · [官网](https://term.mespin.me/) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/marc2332/term) · [官网](https://term.mespin.me/) · 个人维护
 
 **用 Rust 与 Freya 构建的个人向终端模拟器**
 

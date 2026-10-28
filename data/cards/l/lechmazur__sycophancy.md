@@ -1,6 +1,6 @@
 # lechmazur/sycophancy
 
-⭐ 68 · 推送 2026-08-06 · [GitHub](https://github.com/lechmazur/sycophancy) · 个人维护
+⭐ 70 · 推送 2026-08-06 · [GitHub](https://github.com/lechmazur/sycophancy) · 个人维护
 
 **测量 LLM 迎合倾向的基准与排行榜：同案反视角矛盾检测**
 

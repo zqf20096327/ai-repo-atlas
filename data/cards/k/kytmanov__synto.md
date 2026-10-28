@@ -1,6 +1,6 @@
 # kytmanov/synto
 
-⭐ 264 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/kytmanov/synto) · 个人维护
+⭐ 265 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/kytmanov/synto) · 个人维护
 
 **把 Markdown 笔记经本地 LLM 编译成互链 Obsidian wiki 的工具**
 

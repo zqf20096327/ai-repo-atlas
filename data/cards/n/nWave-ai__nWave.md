@@ -1,6 +1,6 @@
 # nWave-ai/nWave
 
-⭐ 624 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/nWave-ai/nWave) · [官网](https://nwave.ai) · 组织维护
+⭐ 625 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/nWave-ai/nWave) · [官网](https://nwave.ai) · 组织维护
 
 **在 Claude Code 内运行的多 agent 分阶段软件开发工作流框架**
 

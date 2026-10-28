@@ -1,6 +1,6 @@
 # microsoft/InfoAgent
 
-⭐ 83 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/microsoft/InfoAgent) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/microsoft/InfoAgent) · 组织维护
 
 **微软发布的自主信息检索/深度搜索 Agent 模型系列**
 

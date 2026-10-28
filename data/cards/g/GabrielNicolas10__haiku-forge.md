@@ -1,6 +1,6 @@
 # GabrielNicolas10/haiku-forge
 
-⭐ 56 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/GabrielNicolas10/haiku-forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/GabrielNicolas10/haiku-forge) · 个人维护
 
 **面向 dm-haiku 的 JAX 模型训练全栈框架，给科研与工程用户**
 

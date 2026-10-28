@@ -1,6 +1,6 @@
 # Code-Amadeus/Amadeus
 
-⭐ 471 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Code-Amadeus/Amadeus) · 个人维护 · 中文 README
+⭐ 477 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Code-Amadeus/Amadeus) · 个人维护 · 中文 README
 
 **面向桌面用户的实时多模态 AI 代理：语音、角色形象与任务执行合一**
 

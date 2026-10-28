@@ -1,6 +1,6 @@
 # Peon-sh/Peon
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Peon-sh/Peon) · [官网](https://peon.sh) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Peon-sh/Peon) · [官网](https://peon.sh) · 个人维护
 
 **自托管部署平台：将 Git 应用、Compose、数据库部署到自有服务器**
 

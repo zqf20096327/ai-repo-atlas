@@ -1,6 +1,6 @@
 # Hermes-brasil/hermes-brasil
 
-⭐ 157 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hermes-brasil/hermes-brasil) · [官网](https://chat.whatsapp.com/DIDJlL9yQdlBY0fa4pABbe) · 组织维护
+⭐ 156 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hermes-brasil/hermes-brasil) · [官网](https://chat.whatsapp.com/DIDJlL9yQdlBY0fa4pABbe) · 组织维护
 
 **Hermes Agent 巴西社区：葡语技能、指南与集成资源仓库**
 

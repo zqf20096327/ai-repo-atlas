@@ -1,6 +1,6 @@
 # dcnetio/web-dc-api
 
-⭐ 817 · JavaScript · 推送 2026-09-20 · [GitHub](https://github.com/dcnetio/web-dc-api) · 组织维护 · 中文 README
+⭐ 817 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/dcnetio/web-dc-api) · 组织维护 · 中文 README
 
 **面向浏览器的去中心化应用 SDK：钱包身份+私有数据库+共享存储+AI 代理**
 

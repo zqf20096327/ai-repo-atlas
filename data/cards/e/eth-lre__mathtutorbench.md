@@ -1,6 +1,6 @@
 # eth-lre/mathtutorbench
 
-⭐ 45 · Python · 推送 2026-08-27 · [GitHub](https://github.com/eth-lre/mathtutorbench) · [官网](https://eth-lre.github.io/mathtutorbench/) · 组织维护
+⭐ 46 · Python · 推送 2026-08-27 · [GitHub](https://github.com/eth-lre/mathtutorbench) · [官网](https://eth-lre.github.io/mathtutorbench/) · 组织维护
 
 **评测 LLM 数学导师开放教学能力的基准（EMNLP 2025）**
 

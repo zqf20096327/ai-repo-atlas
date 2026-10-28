@@ -1,6 +1,6 @@
 # KashifKhn/gemini-proxy
 
-⭐ 50 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/KashifKhn/gemini-proxy) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-03-09 · [GitHub](https://github.com/KashifKhn/gemini-proxy) · 个人维护
 
 **自托管 OpenAI 兼容代理：用个人 Google 账号免费调用 Gemini**
 

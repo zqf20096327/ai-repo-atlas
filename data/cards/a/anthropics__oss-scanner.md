@@ -1,6 +1,6 @@
 # anthropics/oss-scanner
 
-⭐ 1,595 · Dockerfile · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/oss-scanner) · 组织维护
+⭐ 1,613 · Dockerfile · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/anthropics/oss-scanner) · 组织维护
 
 **开源仓库安全扫描服务的报名配置仓库（Anthropic 运营）**
 

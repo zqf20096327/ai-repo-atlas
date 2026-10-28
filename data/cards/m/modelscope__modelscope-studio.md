@@ -1,6 +1,6 @@
 # modelscope/modelscope-studio
 
-⭐ 151 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/modelscope/modelscope-studio) · 组织维护 · 中文 README
+⭐ 152 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/modelscope/modelscope-studio) · 组织维护 · 中文 README
 
 **基于 Gradio 的第三方 UI 组件库，集成 Ant Design 等前端组件**
 

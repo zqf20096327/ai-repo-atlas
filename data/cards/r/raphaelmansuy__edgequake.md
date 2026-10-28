@@ -1,6 +1,6 @@
 # raphaelmansuy/edgequake
 
-⭐ 2,286 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/raphaelmansuy/edgequake) · [官网](https://edgequake.com) · 个人维护
+⭐ 2,288 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/raphaelmansuy/edgequake) · [官网](https://edgequake.com) · 个人维护
 
 **Rust 实现的 Graph-RAG 系统：文档转知识图谱并生成带来源回答**
 

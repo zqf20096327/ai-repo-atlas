@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-Flutter
 
-⭐ 23 · Dart · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 24 · Dart · MIT · 推送 2026-09-28 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **面向 Flutter 的端上人脸识别 SDK 插件（注册/1:N识别/活体检测）**
 

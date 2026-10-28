@@ -1,6 +1,6 @@
 # zylc369/OpenSecurity
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zylc369/OpenSecurity) · 个人维护 · 中文 README
+⭐ 83 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zylc369/OpenSecurity) · 个人维护 · 中文 README
 
 **AI 驱动的多领域安全分析 Agent 平台，让 LLM 端到端完成逆向与安全审计**
 

@@ -1,6 +1,6 @@
 # reliefeai/browser-relay
 
-⭐ 136 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/reliefeai/browser-relay) · [官网](https://www.npmjs.com/package/@linsoai/browser-relay) · 组织维护 · 中文 README
+⭐ 138 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/reliefeai/browser-relay) · [官网](https://www.npmjs.com/package/@linsoai/browser-relay) · 组织维护 · 中文 README
 
 **让 AI agent 共享你已登录 Chrome 的 Skill+CLI 工具**
 

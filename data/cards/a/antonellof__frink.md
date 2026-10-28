@@ -1,6 +1,6 @@
 # antonellof/frink
 
-⭐ 62 · Rust · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/antonellof/frink) · [官网](https://www.fratepietro.com/2026/frink-rust-alternative-to-llama-cpp/) · 个人维护
+⭐ 63 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/antonellof/frink) · [官网](https://www.fratepietro.com/2026/frink-rust-alternative-to-llama-cpp/) · 个人维护
 
 **纯 Rust 编写的 GGUF 推理引擎，提供 OpenAI 兼容服务**
 

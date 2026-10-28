@@ -1,6 +1,6 @@
 # strands-agents/harness-sdk
 
-⭐ 8,968 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/strands-agents/harness-sdk) · [官网](http://strandsagents.com/) · 组织维护
+⭐ 8,986 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/strands-agents/harness-sdk) · [官网](http://strandsagents.com/) · 组织维护
 
 **构建并端到端控制 AI agent 的开源 SDK（Python/TypeScript）**
 

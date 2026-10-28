@@ -1,6 +1,6 @@
 # hailo-ai/hailort
 
-⭐ 228 · C++ · 推送 2026-10-25 · [GitHub](https://github.com/hailo-ai/hailort) · [官网](https://hailo.ai/) · 组织维护
+⭐ 228 · C++ · 推送 2026-10-28 · [GitHub](https://github.com/hailo-ai/hailort) · [官网](https://hailo.ai/) · 组织维护
 
 **面向 Hailo 边缘 AI 加速芯片的推理运行时库**
 

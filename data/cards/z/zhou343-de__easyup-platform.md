@@ -1,6 +1,6 @@
 # zhou343-de/easyup-platform
 
-⭐ 56 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zhou343-de/easyup-platform) · 个人维护 · 中文 README
+⭐ 57 · Python · 推送 2026-05-08 · [GitHub](https://github.com/zhou343-de/easyup-platform) · 个人维护 · 中文 README
 
 **A 股 AI 模拟量化交易系统：Agent 选股·风控·盯盘·数据大屏**
 

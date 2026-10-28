@@ -1,6 +1,6 @@
 # sune-org/sune
 
-⭐ 49 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/sune-org/sune) · [官网](https://sune.chat) · 组织维护
+⭐ 48 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sune-org/sune) · [官网](https://sune.chat) · 组织维护
 
 **OpenRouter 聊天前端，附 Android 应用与 GitHub 同步**
 

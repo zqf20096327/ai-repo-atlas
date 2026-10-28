@@ -1,6 +1,6 @@
 # SandeepAi369/SearchWala
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SandeepAi369/SearchWala) · [官网](https://sandeepai369.github.io/SearchWala/) · 个人维护
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SandeepAi369/SearchWala) · [官网](https://sandeepai369.github.io/SearchWala/) · 个人维护
 
 **本地运行的 Rust 元搜索与带引用 AI 问答引擎**
 

@@ -1,6 +1,6 @@
 # FuJacob/cotabby
 
-⭐ 1,096 · Swift · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 个人维护
+⭐ 1,097 · Swift · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 个人维护
 
 **macOS 全局本地 AI 自动补全工具，任意文本框内联建议**
 

@@ -1,6 +1,6 @@
 # lightgbm-org/LightGBM
 
-⭐ 18,930 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
+⭐ 18,937 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lightgbm-org/LightGBM) · [官网](https://lightgbm.readthedocs.io/en/latest/) · 组织维护
 
 **机器学习用户：基于决策树的分布式梯度提升框架**
 

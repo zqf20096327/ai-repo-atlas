@@ -1,6 +1,6 @@
 # alexgreensh/eval-genius
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/alexgreensh/eval-genius) · [官网](https://alexgreenshpun.com) · 个人维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/alexgreensh/eval-genius) · [官网](https://alexgreenshpun.com) · 个人维护 · 中文 README
 
 **教 AI 编码 agent 何时需要评测、如何搭建与解读的技能包**
 

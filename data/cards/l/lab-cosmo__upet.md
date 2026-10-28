@@ -1,6 +1,6 @@
 # lab-cosmo/upet
 
-⭐ 244 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/lab-cosmo/upet) · [官网](https://lab-cosmo.github.io/upet/latest) · 组织维护
+⭐ 247 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/lab-cosmo/upet) · [官网](https://lab-cosmo.github.io/upet/latest) · 组织维护
 
 **覆盖全元素周期表的通用原子间势模型包，用于材料/分子模拟**
 

@@ -1,6 +1,6 @@
 # zjunlp/LightMem
 
-⭐ 1,205 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护 · 中文 README
+⭐ 1,206 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zjunlp/LightMem) · 组织维护 · 中文 README
 
 **面向 LLM 与 Agent 的轻量级长期记忆管理框架**
 

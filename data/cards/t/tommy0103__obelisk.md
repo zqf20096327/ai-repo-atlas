@@ -1,6 +1,6 @@
 # tommy0103/obelisk
 
-⭐ 696 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
+⭐ 698 · JavaScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
 
 **把本地编码代理会话历史索引为 SQLite，供代理查询、供人浏览**
 

@@ -1,6 +1,6 @@
 # mmm1712/Local_AI_esp32
 
-⭐ 101 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mmm1712/Local_AI_esp32) · [官网](https://youtu.be/LgCNVUndTH8) · 个人维护
+⭐ 103 · C · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mmm1712/Local_AI_esp32) · [官网](https://youtu.be/LgCNVUndTH8) · 个人维护
 
 **在 ESP32-S3 上离线运行的从零训练小型语言模型及手持设备**
 

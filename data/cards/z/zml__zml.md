@@ -1,6 +1,6 @@
 # zml/zml
 
-⭐ 4,202 · Zig · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zml/zml) · [官网](https://zml.ai) · 组织维护
+⭐ 4,202 · Zig · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zml/zml) · [官网](https://zml.ai) · 组织维护
 
 **跨硬件 AI 推理编译栈：一份代码编译到 NVIDIA/AMD/Intel/TPU/Trainium**
 

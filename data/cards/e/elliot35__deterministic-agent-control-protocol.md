@@ -1,6 +1,6 @@
 # elliot35/deterministic-agent-control-protocol
 
-⭐ 82 · TypeScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/elliot35/deterministic-agent-control-protocol) · [官网](https://www.npmjs.com/package/@det-acp/core) · 个人维护
+⭐ 83 · TypeScript · MIT · 推送 2026-02-12 · [GitHub](https://github.com/elliot35/deterministic-agent-control-protocol) · [官网](https://www.npmjs.com/package/@det-acp/core) · 个人维护
 
 **AI agent 治理网关：策略化管控与审计 agent 的每个动作**
 

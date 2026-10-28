@@ -1,6 +1,6 @@
 # xming521/WeClone
 
-⭐ 18,332 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
+⭐ 18,335 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
 
 **用聊天记录微调 LLM 打造个人数字分身并接入聊天机器人**
 

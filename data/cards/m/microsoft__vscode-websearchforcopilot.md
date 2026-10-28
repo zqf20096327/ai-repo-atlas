@@ -1,6 +1,6 @@
 # microsoft/vscode-websearchforcopilot
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/vscode-websearchforcopilot) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/vscode-websearchforcopilot) · 组织维护
 
 **为 GitHub Copilot 提供网页搜索能力的 VS Code 扩展示例**
 

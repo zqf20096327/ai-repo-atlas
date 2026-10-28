@@ -1,6 +1,6 @@
 # drajb/whisper-local
 
-⭐ 137 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/drajb/whisper-local) · [官网](https://gekro.com) · 个人维护
+⭐ 144 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/drajb/whisper-local) · [官网](https://gekro.com) · 个人维护
 
 **离线 AI 听写工具：按键说话，文字出现在光标处**
 

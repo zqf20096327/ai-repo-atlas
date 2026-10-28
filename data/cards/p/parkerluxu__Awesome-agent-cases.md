@@ -1,6 +1,6 @@
 # parkerluxu/Awesome-agent-cases
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/parkerluxu/Awesome-agent-cases) · [官网](https://agentcaseshare.cn/) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/parkerluxu/Awesome-agent-cases) · [官网](https://agentcaseshare.cn/) · 个人维护 · 中文 README
 
 **双语 AI Agent 案例与资讯知识库，面向构建者与研究者**
 

@@ -1,6 +1,6 @@
 # agnt-gg/agnt
 
-⭐ 559 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/agnt-gg/agnt) · [官网](https://agnt.gg/) · 组织维护
+⭐ 559 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/agnt-gg/agnt) · [官网](https://agnt.gg/) · 组织维护
 
 **本地优先的 AI agent 操作系统：构建、运行和改进 agent 与工作流**
 

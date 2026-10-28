@@ -1,6 +1,6 @@
 # panelalpha/panelalpha-engine
 
-⭐ 34 · PHP · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/panelalpha/panelalpha-engine) · [官网](https://engine.panelalpha.com/) · 组织维护
+⭐ 35 · PHP · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/panelalpha/panelalpha-engine) · [官网](https://engine.panelalpha.com/) · 组织维护
 
 **自托管服务器引擎：让 AI agent 经 MCP 安全部署管理多个项目**
 

@@ -1,6 +1,6 @@
 # ZumingHuang/awesome-ocr-resources
 
-⭐ 441 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZumingHuang/awesome-ocr-resources) · 个人维护 · 中文 README
+⭐ 441 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZumingHuang/awesome-ocr-resources) · 个人维护 · 中文 README
 
 **OCR 与文档 AI 资源策展清单（论文/模型/数据集等）**
 

@@ -1,6 +1,6 @@
 # tumf/conflux
 
-⭐ 27 · Rust · 推送 2026-09-23 · [GitHub](https://github.com/tumf/conflux) · [官网](https://dev.to/tumf/conflux-release-a-spec-driven-orchestrator-for-parallel-ai-development-2gbc) · 个人维护 · 中文 README
+⭐ 27 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/tumf/conflux) · [官网](https://dev.to/tumf/conflux-release-a-spec-driven-orchestrator-for-parallel-ai-development-2gbc) · 个人维护 · 中文 README
 
 **编排 AI 编码代理做规格驱动自主开发的 Rust 工具**
 

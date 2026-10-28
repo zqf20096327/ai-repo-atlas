@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-csharp
 
-⭐ 138 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/milvus-sdk-csharp) · 组织维护
+⭐ 138 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/milvus-sdk-csharp) · 组织维护
 
 **Milvus 向量数据库的官方 C#/.NET SDK**
 

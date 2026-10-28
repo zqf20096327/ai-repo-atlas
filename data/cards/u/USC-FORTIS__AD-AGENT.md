@@ -1,6 +1,6 @@
 # USC-FORTIS/AD-AGENT
 
-⭐ 104 · Python · BSD-2-Clause · 推送 2026-04-24 · [GitHub](https://github.com/USC-FORTIS/AD-AGENT) · [官网](https://usc-fortis.github.io/AD-AGENT/) · 组织维护
+⭐ 105 · Python · BSD-2-Clause · 推送 2026-04-24 · [GitHub](https://github.com/USC-FORTIS/AD-AGENT) · [官网](https://usc-fortis.github.io/AD-AGENT/) · 组织维护
 
 **LLM 多智能体框架：自然语言驱动端到端异常检测**
 

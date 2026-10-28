@@ -1,6 +1,6 @@
 # yoanbernabeu/NanoThumbnail
 
-⭐ 52 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yoanbernabeu/NanoThumbnail) · [官网](https://nanothumbnail.com) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yoanbernabeu/NanoThumbnail) · [官网](https://nanothumbnail.com) · 个人维护
 
 **浏览器内生成/编辑/测试 YouTube 缩略图的 AI 工作室**
 

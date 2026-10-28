@@ -1,6 +1,6 @@
 # cfgranda/ps4ds
 
-⭐ 630 · Jupyter Notebook · 推送 2026-10-13 · [GitHub](https://github.com/cfgranda/ps4ds) · [官网](https://www.ps4ds.net/) · 个人维护
+⭐ 630 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/cfgranda/ps4ds) · [官网](https://www.ps4ds.net/) · 个人维护
 
 **数据科学概率统计教材的代码仓库与配套资源**
 

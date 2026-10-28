@@ -1,6 +1,6 @@
 # MiaoWuNYA/rikkahub-sillytavern-android
 
-⭐ 139 · Kotlin · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) · [官网](https://rikkahub.luoca.cn) · 个人维护 · 中文 README
+⭐ 144 · Kotlin · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) · [官网](https://rikkahub.luoca.cn) · 个人维护 · 中文 README
 
 **安卓 AI 聊天客户端，深度兼容 SillyTavern 卡片与预设**
 

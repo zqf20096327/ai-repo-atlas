@@ -1,6 +1,6 @@
 # tocreator/tostore
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 66 · Dart · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/tocreator/tostore) · [官网](https://pub.dev/packages/tostore) · 组织维护 · 中文 README
 
 **面向边缘与 Agent 场景的分布式向量数据库/存储引擎（Dart/Flutter）**
 
@@ -11,7 +11,7 @@ ToStore 是用 Dart 编写的跨平台数据引擎，以 pub 包形式提供给 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

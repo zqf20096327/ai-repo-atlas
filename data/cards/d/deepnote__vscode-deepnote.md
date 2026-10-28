@@ -1,6 +1,6 @@
 # deepnote/vscode-deepnote
 
-⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/deepnote/vscode-deepnote) · [官网](https://marketplace.visualstudio.com/items?itemName=Deepnote.vscode-deepnote) · 组织维护
+⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/deepnote/vscode-deepnote) · [官网](https://marketplace.visualstudio.com/items?itemName=Deepnote.vscode-deepnote) · 组织维护
 
 **在 VS Code 等编辑器中运行 Deepnote AI 笔记本的扩展**
 

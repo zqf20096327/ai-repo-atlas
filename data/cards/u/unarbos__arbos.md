@@ -1,6 +1,6 @@
 # unarbos/arbos
 
-⭐ 31 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/unarbos/arbos) · [官网](https://arbos.life) · 个人维护
+⭐ 32 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/unarbos/arbos) · [官网](https://arbos.life) · 个人维护
 
 **自托管的 AI agent 工作台：Mac/iPhone/终端与项目 agent 对话协作**
 

@@ -1,6 +1,6 @@
 # shinpr/rashomon
 
-⭐ 19 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shinpr/rashomon) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shinpr/rashomon) · 个人维护 · 中文 README
 
 **给 agent 开发者：盲评 A/B 对比检验 skill 与 prompt 改动是否有效**
 

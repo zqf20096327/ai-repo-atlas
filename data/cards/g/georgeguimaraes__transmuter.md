@@ -1,6 +1,6 @@
 # georgeguimaraes/transmuter
 
-⭐ 20 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/georgeguimaraes/transmuter) · 个人维护
+⭐ 20 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/georgeguimaraes/transmuter) · 个人维护
 
 **Elixir 库：在任意 Nx 后端直接运行 Hugging Face ONNX 模型**
 

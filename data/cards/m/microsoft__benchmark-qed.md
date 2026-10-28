@@ -1,6 +1,6 @@
 # microsoft/benchmark-qed
 
-⭐ 102 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/benchmark-qed) · [官网](https://microsoft.github.io/benchmark-qed/) · 组织维护
+⭐ 103 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/benchmark-qed) · [官网](https://microsoft.github.io/benchmark-qed/) · 组织维护
 
 **微软开源的 RAG 系统自动化基准评测工具套件**
 

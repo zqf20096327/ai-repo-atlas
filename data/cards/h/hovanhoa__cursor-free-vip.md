@@ -1,6 +1,6 @@
 # hovanhoa/cursor-free-vip
 
-⭐ 717 · Python · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/hovanhoa/cursor-free-vip) · 个人维护 · 中文 README
+⭐ 722 · Python · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/hovanhoa/cursor-free-vip) · 个人维护 · 中文 README
 
 **自动注册 Cursor 账号并重置机器 ID 以绕过试用限制的工具**
 

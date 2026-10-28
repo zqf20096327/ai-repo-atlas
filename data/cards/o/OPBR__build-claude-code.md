@@ -1,6 +1,6 @@
 # OPBR/build-claude-code
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/OPBR/build-claude-code) · [官网](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3MDgxMjA2MA==&action=getalbum&album_id=4480744185632391171#wechat_redirect) · 个人维护 · 中文 README
+⭐ 138 · TypeScript · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/OPBR/build-claude-code) · [官网](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3MDgxMjA2MA==&action=getalbum&album_id=4480744185632391171#wechat_redirect) · 个人维护 · 中文 README
 
 **用 TypeScript 从零构建 Claude Code 式编程代理的渐进教程**
 

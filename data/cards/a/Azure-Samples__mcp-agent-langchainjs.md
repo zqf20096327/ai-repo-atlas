@@ -1,6 +1,6 @@
 # Azure-Samples/mcp-agent-langchainjs
 
-⭐ 204 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Azure-Samples/mcp-agent-langchainjs) · 组织维护
+⭐ 204 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/mcp-agent-langchainjs) · 组织维护
 
 **用 LangChain.js 和 MCP 构建汉堡点餐 AI agent 的 Azure 示例工程**
 

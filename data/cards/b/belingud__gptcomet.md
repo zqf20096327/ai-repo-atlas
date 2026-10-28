@@ -1,6 +1,6 @@
 # belingud/gptcomet
 
-⭐ 30 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/belingud/gptcomet) · 个人维护 · 中文 README
+⭐ 30 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/belingud/gptcomet) · 个人维护 · 中文 README
 
 **用 LLM 自动生成 Git/SVN 提交信息并做代码审查的命令行工具**
 

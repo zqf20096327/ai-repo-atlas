@@ -1,6 +1,6 @@
 # BradPita/Win-AI-Wheelhouse
 
-⭐ 85 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BradPita/Win-AI-Wheelhouse) · [官网](https://huggingface.co/BradPita/Win-AI-Wheelhouse) · 个人维护 · 中文 README
+⭐ 85 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BradPita/Win-AI-Wheelhouse) · [官网](https://huggingface.co/BradPita/Win-AI-Wheelhouse) · 个人维护 · 中文 README
 
 **Windows 平台 AI 库预编译 wheel 聚合目录，免编译即装**
 

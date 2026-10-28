@@ -1,6 +1,6 @@
 # pow505/tobub
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pow505/tobub) · [官网](https://www.tobub.com) · 组织维护 · 中文 README
+⭐ 35 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pow505/tobub) · [官网](https://www.tobub.com) · 组织维护 · 中文 README
 
 **Tobub 桌面端的开源自动化 Skill 层：AI agent 驱动本地浏览器工作流**
 

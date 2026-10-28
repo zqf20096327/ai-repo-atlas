@@ -1,6 +1,6 @@
 # guanyilun/agent-sh
 
-⭐ 68 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/guanyilun/agent-sh) · [官网](https://agent-sh.dev) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/guanyilun/agent-sh) · [官网](https://agent-sh.dev) · 个人维护
 
 **可组合 agent 运行时：任意前端搭配任意 agent 后端**
 

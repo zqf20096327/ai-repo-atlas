@@ -1,6 +1,6 @@
 # waikato-datamining/adams-base
 
-⭐ 24 · Java · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/waikato-datamining/adams-base) · [官网](https://adams.cms.waikato.ac.nz/) · 组织维护
+⭐ 24 · Java · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/waikato-datamining/adams-base) · [官网](https://adams.cms.waikato.ac.nz/) · 组织维护
 
 **ADAMS 数据挖掘与机器学习系统的基础模块集**
 

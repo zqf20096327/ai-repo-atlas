@@ -1,6 +1,6 @@
 # tombcato/ai-selector
 
-⭐ 21 · TypeScript · MIT · 推送 2026-01-03 · [GitHub](https://github.com/tombcato/ai-selector) · [官网](https://tombcato.github.io/ai-selector/) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-01-03 · [GitHub](https://github.com/tombcato/ai-selector) · [官网](https://tombcato.github.io/ai-selector/) · 个人维护 · 中文 README
 
 **给 Web 应用嵌入的 LLM 厂商/模型配置 UI 组件（React/Vue）**
 

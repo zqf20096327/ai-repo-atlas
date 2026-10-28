@@ -1,6 +1,6 @@
 # xiaotianna/pi-harness
 
-⭐ 28 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/xiaotianna/pi-harness) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/xiaotianna/pi-harness) · 个人维护 · 中文 README
 
 **本地优先的 AI Agent 工作台，读写本地项目并并行派发 Sub Agent**
 

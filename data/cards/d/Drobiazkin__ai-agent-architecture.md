@@ -1,6 +1,6 @@
 # Drobiazkin/ai-agent-architecture
 
-⭐ 54 · HTML · CC-BY-SA-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/Drobiazkin/ai-agent-architecture) · 个人维护 · 中文 README
+⭐ 54 · HTML · CC-BY-SA-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/Drobiazkin/ai-agent-architecture) · 个人维护 · 中文 README
 
 **面向工程师的开源 LLM/Agent 系统架构书与配套课程**
 

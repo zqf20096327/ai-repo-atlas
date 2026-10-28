@@ -1,6 +1,6 @@
 # KRLabsOrg/verbatim-rag
 
-⭐ 207 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/KRLabsOrg/verbatim-rag) · [官网](https://krlabsorg.github.io/verbatim-rag/) · 组织维护
+⭐ 208 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KRLabsOrg/verbatim-rag) · [官网](https://krlabsorg.github.io/verbatim-rag/) · 组织维护
 
 **溯源优先的抽取式 RAG 框架：返回带引用的原文片段**
 

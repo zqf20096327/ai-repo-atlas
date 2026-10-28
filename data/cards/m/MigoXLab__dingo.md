@@ -1,6 +1,6 @@
 # MigoXLab/dingo
 
-⭐ 762 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/MigoXLab/dingo) · [官网](https://dingo.openxlab.org.cn/) · 组织维护 · 中文 README
+⭐ 763 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/MigoXLab/dingo) · [官网](https://dingo.openxlab.org.cn/) · 组织维护 · 中文 README
 
 **AI 数据/模型/应用质量评测工具：数据质量、幻觉检测、RAG 评估**
 

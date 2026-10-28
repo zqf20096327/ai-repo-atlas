@@ -1,6 +1,6 @@
 # tumourlove/monolith
 
-⭐ 353 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tumourlove/monolith) · [官网](https://github.com/tumourlove/monolith/wiki) · 个人维护
+⭐ 355 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tumourlove/monolith) · [官网](https://github.com/tumourlove/monolith/wiki) · 个人维护
 
 **给 UE 5.7/5.8 的 MCP 插件：让 AI 助手读写引擎各域资产**
 

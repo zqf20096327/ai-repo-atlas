@@ -1,6 +1,6 @@
 # bubbleptr/dureview
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bubbleptr/dureview) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bubbleptr/dureview) · 个人维护 · 中文 README
 
 **自托管的 AI 代码审查机器人：PR 评论触发 P0–P3 内联发现**
 

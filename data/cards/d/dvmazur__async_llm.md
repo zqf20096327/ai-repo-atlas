@@ -1,6 +1,6 @@
 # dvmazur/async_llm
 
-⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dvmazur/async_llm) · [官网](https://dvmazur.github.io/async_llm/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dvmazur/async_llm) · [官网](https://dvmazur.github.io/async_llm/) · 组织维护
 
 **免训练异步 LLM Agent 构建框架，基于共享缓存并发推理**
 

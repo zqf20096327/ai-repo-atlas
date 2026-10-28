@@ -1,6 +1,6 @@
 # linus-sch/Mind-Map-Wizard
 
-⭐ 358 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/linus-sch/Mind-Map-Wizard) · [官网](https://mindmapwizard.com) · 个人维护
+⭐ 359 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/linus-sch/Mind-Map-Wizard) · [官网](https://mindmapwizard.com) · 个人维护
 
 **浏览器内运行的 AI 文本生成思维导图工具**
 

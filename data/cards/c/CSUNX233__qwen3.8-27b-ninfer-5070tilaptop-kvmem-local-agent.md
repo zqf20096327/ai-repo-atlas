@@ -1,6 +1,6 @@
 # CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent
 
-⭐ 68 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent) · 个人维护 · 中文 README
+⭐ 69 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent) · 个人维护 · 中文 README
 
 **在 12GB 消费级显卡上运行 27B 本地 Agent 的推理部署方案**
 

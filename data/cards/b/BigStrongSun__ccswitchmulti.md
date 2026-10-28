@@ -1,6 +1,6 @@
 # BigStrongSun/ccswitchmulti
 
-⭐ 121 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BigStrongSun/ccswitchmulti) · 个人维护 · 中文 README
+⭐ 122 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/BigStrongSun/ccswitchmulti) · 个人维护 · 中文 README
 
 **桌面工具：为 Codex 等八类 Agent 工具做多模型 Provider 管理与本地路由**
 

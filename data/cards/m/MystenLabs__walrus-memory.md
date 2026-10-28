@@ -1,6 +1,6 @@
 # MystenLabs/walrus-memory
 
-⭐ 128 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
+⭐ 128 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
 
 **可移植的 AI agent 长期记忆层，跨应用跨会话持久化**
 

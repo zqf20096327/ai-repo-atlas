@@ -1,6 +1,6 @@
 # stuinfla/ruvnet-brain
 
-⭐ 78 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/stuinfla/ruvnet-brain) · [官网](https://isovision.ai/ruvnet-brain/) · 个人维护
+⭐ 79 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/stuinfla/ruvnet-brain) · [官网](https://isovision.ai/ruvnet-brain/) · 个人维护
 
 **给 Claude Code/Codex 的 RuvNet 生态源码检索知识包与 MCP 工具**
 

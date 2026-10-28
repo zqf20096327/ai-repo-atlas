@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-JoyCaption
 
-⭐ 329 · Python · GPL-3.0 · 推送 2025-12-24 · [GitHub](https://github.com/1038lab/ComfyUI-JoyCaption) · 个人维护 · 中文 README
+⭐ 331 · Python · GPL-3.0 · 推送 2025-12-24 · [GitHub](https://github.com/1038lab/ComfyUI-JoyCaption) · 个人维护 · 中文 README
 
 **ComfyUI 图像描述生成节点：LLaVA 模型产出风格化 caption**
 

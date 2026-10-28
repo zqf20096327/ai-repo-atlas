@@ -1,6 +1,6 @@
 # hhh2210/echoes-as-anchors
 
-⭐ 45 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/hhh2210/echoes-as-anchors) · [官网](https://hhh2210.github.io/projects/echoes-as-anchors/) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hhh2210/echoes-as-anchors) · [官网](https://hhh2210.github.io/projects/echoes-as-anchors/) · 个人维护
 
 **ICLR 2026 论文代码：研究 LLM 推理中 Echo of Prompt 的作用机制**
 

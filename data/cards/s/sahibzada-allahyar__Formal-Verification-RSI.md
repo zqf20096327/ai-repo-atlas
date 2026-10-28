@@ -1,6 +1,6 @@
 # sahibzada-allahyar/Formal-Verification-RSI
 
-⭐ 2,857 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · [官网](https://sahibzada-allahyar.github.io) · 个人维护
+⭐ 2,860 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · [官网](https://sahibzada-allahyar.github.io) · 个人维护
 
 **Lean 4/Dafny 证明检查器：拦截 AI 假证明并支持验证式自改进**
 

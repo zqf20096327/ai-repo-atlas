@@ -1,6 +1,6 @@
 # Rpita623/Movie-Recommendation-System-using-R_Project
 
-⭐ 46 · R · 推送 2026-06-08 · [GitHub](https://github.com/Rpita623/Movie-Recommendation-System-using-R_Project) · 个人维护
+⭐ 45 · R · 推送 2026-06-08 · [GitHub](https://github.com/Rpita623/Movie-Recommendation-System-using-R_Project) · 个人维护
 
 **R 实现的电影推荐系统：基于 MovieLens 的物品协同过滤**
 

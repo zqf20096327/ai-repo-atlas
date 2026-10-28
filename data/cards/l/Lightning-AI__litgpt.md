@@ -1,6 +1,6 @@
 # Lightning-AI/litgpt
 
-⭐ 13,733 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
+⭐ 13,736 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Lightning-AI/litgpt) · [官网](https://lightning.ai) · 组织维护
 
 **给开发者用的 LLM 预训练/微调/部署全流程库**
 

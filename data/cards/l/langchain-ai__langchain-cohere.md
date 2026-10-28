@@ -1,6 +1,6 @@
 # langchain-ai/langchain-cohere
 
-⭐ 50 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-cohere) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-cohere) · 组织维护
 
 **Cohere 模型接入 LangChain 的官方集成包**
 

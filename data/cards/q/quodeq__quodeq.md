@@ -1,6 +1,6 @@
 # quodeq/quodeq
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/quodeq/quodeq) · [官网](https://quodeq.ai) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/quodeq/quodeq) · [官网](https://quodeq.ai) · 组织维护
 
 **本地运行的开源代码质量与安全扫描器，用自选 AI 模型审查代码**
 

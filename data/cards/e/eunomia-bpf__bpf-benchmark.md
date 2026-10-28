@@ -1,6 +1,6 @@
 # eunomia-bpf/bpf-benchmark
 
-⭐ 26 · C · MIT · 推送 2026-10-27 · [GitHub](https://github.com/eunomia-bpf/bpf-benchmark) · 组织维护
+⭐ 26 · C · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eunomia-bpf/bpf-benchmark) · 组织维护
 
 **LLM Agent 做 eBPF 优化的闭环评测基准与自动研究框架**
 

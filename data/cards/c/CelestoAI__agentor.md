@@ -1,6 +1,6 @@
 # CelestoAI/agentor
 
-⭐ 214 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CelestoAI/agentor) · [官网](https://docs.celesto.ai/agentor) · 组织维护
+⭐ 214 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CelestoAI/agentor) · [官网](https://docs.celesto.ai/agentor) · 组织维护
 
 **构建与部署持久化 AI Agent 的 Python 框架**
 

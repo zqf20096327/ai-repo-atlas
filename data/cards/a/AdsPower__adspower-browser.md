@@ -1,6 +1,6 @@
 # AdsPower/adspower-browser
 
-⭐ 147 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AdsPower/adspower-browser) · [官网](https://www.adspower.com/) · 组织维护 · 中文 README
+⭐ 149 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AdsPower/adspower-browser) · [官网](https://www.adspower.com/) · 组织维护 · 中文 README
 
 **AdsPower 反指纹浏览器的 Skill/MCP/CLI 接入工具包**
 

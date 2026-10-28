@@ -1,6 +1,6 @@
 # edgehero/pi-dispatch
 
-⭐ 188 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/edgehero/pi-dispatch) · 组织维护
+⭐ 188 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/edgehero/pi-dispatch) · 组织维护
 
 **把 pi 编码 agent 跑成自托管后台服务的队列与预算层**
 

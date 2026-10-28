@@ -1,6 +1,6 @@
 # Agent-Field/SWE-AF
 
-⭐ 1,111 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 1,121 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向生产级 PR 的自主软件工程 agent 舰队运行时**
 

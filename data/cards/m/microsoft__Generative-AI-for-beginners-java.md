@@ -1,6 +1,6 @@
 # microsoft/Generative-AI-for-beginners-java
 
-⭐ 573 · Java · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-java) · 组织维护
+⭐ 575 · Java · MIT · 推送 2026-09-23 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-java) · 组织维护
 
 **面向 Java 开发者的生成式 AI 入门课程（5 章，微软维护）**
 

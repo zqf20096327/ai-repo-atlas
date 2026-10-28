@@ -1,6 +1,6 @@
 # rawsun007/claude-notch
 
-⭐ 56 · Swift · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/rawsun007/claude-notch) · [官网](https://rawsun007.github.io/claude-notch/) · 个人维护
+⭐ 57 · Swift · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/rawsun007/claude-notch) · [官网](https://rawsun007.github.io/claude-notch/) · 个人维护
 
 **在 Mac 刘海区审批 Claude Code 权限请求的菜单栏应用**
 

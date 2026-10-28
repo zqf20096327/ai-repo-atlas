@@ -1,6 +1,6 @@
 # stefanoamorelli/fred-mcp-server
 
-⭐ 127 · TypeScript · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/stefanoamorelli/fred-mcp-server) · [官网](https://fred-mcp-server.amorelli.tech) · 个人维护
+⭐ 128 · TypeScript · AGPL-3.0 · 推送 2026-08-22 · [GitHub](https://github.com/stefanoamorelli/fred-mcp-server) · [官网](https://fred-mcp-server.amorelli.tech) · 个人维护
 
 **为 LLM/agent 提供美联储经济数据（FRED）访问的 MCP 服务器**
 

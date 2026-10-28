@@ -1,6 +1,6 @@
 # vibeinging/dsh-desktop
 
-⭐ 485 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vibeinging/dsh-desktop) · 个人维护 · 中文 README
+⭐ 485 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vibeinging/dsh-desktop) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面发行版：打包官方 Web、插件市场与桌面能力**
 

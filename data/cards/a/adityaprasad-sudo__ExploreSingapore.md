@@ -1,6 +1,6 @@
 # adityaprasad-sudo/ExploreSingapore
 
-⭐ 74 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/adityaprasad-sudo/ExploreSingapore) · [官网](https://exploresingapore.vercel.app/) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/adityaprasad-sudo/ExploreSingapore) · [官网](https://exploresingapore.vercel.app/) · 个人维护
 
 **新加坡法律/历史/基础设施的 RAG 知识问答引擎**
 

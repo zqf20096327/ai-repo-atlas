@@ -1,6 +1,6 @@
 # argoproj/argo-workflows
 
-⭐ 17,058 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
+⭐ 17,063 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/argoproj/argo-workflows) · [官网](https://argo-workflows.readthedocs.io/) · 组织维护
 
 **面向 Kubernetes 的容器化并行任务工作流引擎**
 

@@ -1,6 +1,6 @@
 # ezesubu/VERA
 
-⭐ 20 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ezesubu/VERA) · [官网](https://www.patreon.com/maVERAick) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ezesubu/VERA) · [官网](https://www.patreon.com/maVERAick) · 个人维护
 
 **给 Unreal 开发者的编辑器内 AI Agent 副驾驶**
 

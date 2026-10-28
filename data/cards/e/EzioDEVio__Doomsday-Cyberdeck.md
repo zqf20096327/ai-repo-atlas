@@ -1,6 +1,6 @@
 # EzioDEVio/Doomsday-Cyberdeck
 
-⭐ 26 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/EzioDEVio/Doomsday-Cyberdeck) · 个人维护
+⭐ 27 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/EzioDEVio/Doomsday-Cyberdeck) · 个人维护
 
 **基于树莓派5的离线生存电脑DIY项目，带离线AI助手**
 

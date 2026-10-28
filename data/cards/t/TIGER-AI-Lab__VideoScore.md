@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/VideoScore
 
-⭐ 127 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore) · [官网](https://tiger-ai-lab.github.io/VideoScore/) · 组织维护
+⭐ 179 · Python · MIT · 推送 2025-12-04 · [GitHub](https://github.com/TIGER-AI-Lab/VideoScore) · [官网](https://tiger-ai-lab.github.io/VideoScore/) · 组织维护
 
 **视频生成质量自动评测模型：模拟细粒度人类反馈打分**
 

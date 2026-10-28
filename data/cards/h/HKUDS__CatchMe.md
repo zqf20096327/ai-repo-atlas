@@ -1,6 +1,6 @@
 # HKUDS/CatchMe
 
-⭐ 518 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/HKUDS/CatchMe) · [官网](https://bingxi.life/blog/catchme.html) · 组织维护 · 中文 README
+⭐ 521 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/HKUDS/CatchMe) · [官网](https://bingxi.life/blog/catchme.html) · 组织维护 · 中文 README
 
 **本地记录全屏活动并构建可查询活动记忆树的工具，供 AI agent 调用**
 

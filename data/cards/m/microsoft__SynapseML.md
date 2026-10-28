@@ -1,6 +1,6 @@
 # microsoft/SynapseML
 
-⭐ 5,249 · Scala · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/SynapseML) · [官网](http://aka.ms/spark) · 组织维护
+⭐ 5,250 · Scala · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/SynapseML) · [官网](http://aka.ms/spark) · 组织维护
 
 **微软开源的 Spark 分布式机器学习库，扩展 SparkML 生态**
 

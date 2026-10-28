@@ -1,6 +1,6 @@
 # EndoTheDev/OMeter
 
-⭐ 29 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EndoTheDev/OMeter) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EndoTheDev/OMeter) · 个人维护
 
 **Ollama 模型性能基准测试 CLI：跨本地与云端测 TTFT/TPS**
 

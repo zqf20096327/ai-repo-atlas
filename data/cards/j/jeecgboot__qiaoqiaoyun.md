@@ -1,6 +1,6 @@
 # jeecgboot/qiaoqiaoyun
 
-⭐ 164 · Java · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/jeecgboot/qiaoqiaoyun) · [官网](https://www.qiaoqiaoyun.com) · 组织维护 · 中文 README
+⭐ 165 · Java · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/jeecgboot/qiaoqiaoyun) · [官网](https://www.qiaoqiaoyun.com) · 组织维护 · 中文 README
 
 **企业零代码应用搭建平台，含AI应用与AI知识库**
 

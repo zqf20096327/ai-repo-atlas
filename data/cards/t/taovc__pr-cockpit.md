@@ -1,6 +1,6 @@
 # taovc/pr-cockpit
 
-⭐ 485 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/taovc/pr-cockpit) · 个人维护 · 中文 README
+⭐ 484 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/taovc/pr-cockpit) · 个人维护 · 中文 README
 
 **本地 AI PR 审查工作台：用 Claude/Codex 批量审 PR，人工把关后发布**
 

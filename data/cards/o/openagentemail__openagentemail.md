@@ -1,6 +1,6 @@
 # openagentemail/openagentemail
 
-⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/openagentemail/openagentemail) · [官网](https://openagent.email) · 组织维护 · 中文 README
+⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openagentemail/openagentemail) · [官网](https://openagent.email) · 组织维护 · 中文 README
 
 **AI agent 间自托管邮件与任务交接基础设施**
 

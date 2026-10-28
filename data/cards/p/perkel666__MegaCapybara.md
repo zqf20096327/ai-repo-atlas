@@ -1,6 +1,6 @@
 # perkel666/MegaCapybara
 
-⭐ 47 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/perkel666/MegaCapybara) · [官网](https://huggingface.co/perkel/Qwen3.8-27B-MC) · 个人维护
+⭐ 49 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/perkel666/MegaCapybara) · [官网](https://huggingface.co/perkel/Qwen3.8-27B-MC) · 个人维护
 
 **面向 RTX 5090 的 Qwen3.8 推理引擎，多 agent 共享上下文高并发服务**
 

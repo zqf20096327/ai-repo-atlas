@@ -1,6 +1,6 @@
 # simstudioai/sim
 
-⭐ 29,930 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
+⭐ 29,933 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
 
 **给开发者的可视化 AI agent 与工作流构建平台**
 

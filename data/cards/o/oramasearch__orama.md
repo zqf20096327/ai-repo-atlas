@@ -1,6 +1,6 @@
 # oramasearch/orama
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 10,588 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/oramasearch/orama) · [官网](https://docs.orama.com/docs/orama-js) · 组织维护
 
 **在浏览器/服务器/边缘运行的轻量全文+向量+混合搜索引擎库**
 
@@ -11,7 +11,7 @@ TypeScript 编写的嵌入式搜索引擎库，体积小于 2kb，支持全文�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # lasgroup/SDPO
 
-⭐ 1,133 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/lasgroup/SDPO) · [官网](https://self-distillation.github.io/SDPO) · 组织维护
+⭐ 1,134 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/lasgroup/SDPO) · [官网](https://self-distillation.github.io/SDPO) · 组织维护
 
 **自蒸馏强化学习训练框架：用模型自身高奖励轨迹做策略优化**
 

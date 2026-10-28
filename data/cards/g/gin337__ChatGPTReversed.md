@@ -1,6 +1,6 @@
 # gin337/ChatGPTReversed
 
-⭐ 85 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/gin337/ChatGPTReversed) · [官网](https://www.npmjs.com/package/chatgptreversed) · 个人维护
+⭐ 86 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/gin337/ChatGPTReversed) · [官网](https://www.npmjs.com/package/chatgptreversed) · 个人维护
 
 **教学向 Node.js 库：逆向 ChatGPT 网页端 API 与前端令牌机制**
 

@@ -1,6 +1,6 @@
 # iflytek/astron-agent
 
-⭐ 8,933 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/iflytek/astron-agent) · [官网](http://astron.ai/) · 组织维护 · 中文 README
+⭐ 8,940 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/iflytek/astron-agent) · [官网](http://astron.ai/) · 组织维护 · 中文 README
 
 **企业级 Agentic 工作流开发平台：编排、模型管理与 RPA 集成**
 

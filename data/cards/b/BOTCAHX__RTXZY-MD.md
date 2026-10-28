@@ -1,6 +1,6 @@
 # BOTCAHX/RTXZY-MD
 
-⭐ 464 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/BOTCAHX/RTXZY-MD) · [官网](https://api.botcahx.eu.org) · 组织维护
+⭐ 466 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BOTCAHX/RTXZY-MD) · [官网](https://api.botcahx.eu.org) · 组织维护
 
 **WhatsApp 多设备机器人：消息应答、媒体处理与 MCP 开发接口**
 

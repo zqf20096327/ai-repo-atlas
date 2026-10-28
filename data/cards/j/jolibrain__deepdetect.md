@@ -1,6 +1,6 @@
 # jolibrain/deepdetect
 
-⭐ 2,551 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jolibrain/deepdetect) · [官网](https://www.deepdetect.com/) · 组织维护
+⭐ 2,551 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jolibrain/deepdetect) · [官网](https://www.deepdetect.com/) · 组织维护
 
 **深度学习训练与推理服务器及 CLI 运行时**
 

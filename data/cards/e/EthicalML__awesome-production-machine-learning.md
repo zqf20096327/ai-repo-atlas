@@ -1,6 +1,6 @@
 # EthicalML/awesome-production-machine-learning
 
-⭐ 21,043 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) · [官网](https://ethicalml.github.io/awesome-production-machine-learning) · 组织维护
+⭐ 21,047 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) · [官网](https://ethicalml.github.io/awesome-production-machine-learning) · 组织维护
 
 **生产级机器学习开源库策展清单：部署/监控/版本/扩展**
 

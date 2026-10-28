@@ -1,6 +1,6 @@
 # jiemianduan/image-to-prompt
 
-⭐ 32 · MIT · 推送 2026-08-07 · [GitHub](https://github.com/jiemianduan/image-to-prompt) · 个人维护 · 中文 README
+⭐ 33 · MIT · 推送 2026-08-07 · [GitHub](https://github.com/jiemianduan/image-to-prompt) · 个人维护 · 中文 README
 
 **从参考图重建可复用文生图提示词的 Agent 技能**
 

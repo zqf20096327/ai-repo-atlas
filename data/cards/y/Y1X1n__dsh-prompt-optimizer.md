@@ -1,6 +1,6 @@
 # Y1X1n/dsh-prompt-optimizer
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Y1X1n/dsh-prompt-optimizer) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Y1X1n/dsh-prompt-optimizer) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：发送栏一键优化提示词草稿并流式上屏**
 

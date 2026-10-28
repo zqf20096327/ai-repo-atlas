@@ -1,6 +1,6 @@
 # openai/openai-realtime-agents
 
-⭐ 7,009 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/openai/openai-realtime-agents) · 组织维护
+⭐ 7,010 · TypeScript · MIT · 推送 2026-01-07 · [GitHub](https://github.com/openai/openai-realtime-agents) · 组织维护
 
 **基于 OpenAI Realtime API 的语音 agent 模式演示应用**
 

@@ -1,6 +1,6 @@
 # mesa/mesa-llm
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mesa/mesa-llm) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mesa/mesa-llm) · 组织维护
 
 **Mesa 框架扩展：将 LLM 接入 ABM 智能体做决策**
 

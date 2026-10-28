@@ -1,6 +1,6 @@
 # zhinjs/zhin
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zhinjs/zhin) · [官网](http://zhin.js.org/) · 组织维护 · 中文 README
+⭐ 136 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zhinjs/zhin) · [官网](http://zhin.js.org/) · 组织维护 · 中文 README
 
 **TypeScript 跨平台聊天 bot 框架，一套代码跑 20+ 平台**
 

@@ -1,6 +1,6 @@
 # opentiny/tiny-robot
 
-⭐ 101 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/opentiny/tiny-robot) · [官网](https://opentiny.design/tiny-robot) · 组织维护 · 中文 README
+⭐ 101 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/opentiny/tiny-robot) · [官网](https://opentiny.design/tiny-robot) · 组织维护 · 中文 README
 
 **面向 Vue 3 的 AI 对话组件库，助开发者构建企业级 AI 应用**
 

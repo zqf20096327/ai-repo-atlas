@@ -1,6 +1,6 @@
 # archondevio/archondev
 
-⭐ 164 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/archondevio/archondev) · [官网](https://archondev.io) · 个人维护
+⭐ 165 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/archondevio/archondev) · [官网](https://archondev.io) · 个人维护
 
 **治理 AI 助手代码的本地 CLI：架构约束与质量门禁**
 

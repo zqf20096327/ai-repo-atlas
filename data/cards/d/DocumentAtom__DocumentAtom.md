@@ -1,6 +1,6 @@
 # DocumentAtom/DocumentAtom
 
-⭐ 54 · C# · MIT · 推送 2026-10-03 · [GitHub](https://github.com/DocumentAtom/DocumentAtom) · 组织维护
+⭐ 54 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DocumentAtom/DocumentAtom) · 组织维护
 
 **将多格式文档解析为原子并分块的 C# 库/服务器，服务 RAG**
 

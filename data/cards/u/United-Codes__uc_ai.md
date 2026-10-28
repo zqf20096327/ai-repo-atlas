@@ -1,6 +1,6 @@
 # United-Codes/uc_ai
 
-⭐ 49 · PLSQL · LGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/United-Codes/uc_ai) · [官网](https://www.united-codes.com/products/uc-ai/docs) · 组织维护
+⭐ 49 · PLSQL · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/United-Codes/uc_ai) · [官网](https://www.united-codes.com/products/uc-ai/docs) · 组织维护
 
 **Oracle PL/SQL 的 AI 集成框架：数据库内调用 LLM 与函数**
 

@@ -1,6 +1,6 @@
 # pythongiant/KVBoost
 
-⭐ 30 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/pythongiant/KVBoost) · [官网](https://pythongiant.github.io/KVBoost/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/pythongiant/KVBoost) · [官网](https://pythongiant.github.io/KVBoost/) · 个人维护
 
 **加速本地 LLM 推理的 KV 缓存工具包：跨请求前缀复用**
 

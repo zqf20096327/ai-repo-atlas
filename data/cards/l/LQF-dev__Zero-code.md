@@ -1,6 +1,6 @@
 # LQF-dev/Zero-code
 
-⭐ 78 · Java · MIT · 推送 2026-05-09 · [GitHub](https://github.com/LQF-dev/Zero-code) · 个人维护 · 中文 README
+⭐ 79 · Java · MIT · 推送 2026-05-09 · [GitHub](https://github.com/LQF-dev/Zero-code) · 个人维护 · 中文 README
 
 **面向用户的 AI 代码生成平台：生成、修改、预览到本地部署**
 

@@ -1,6 +1,6 @@
 # Xquik-dev/tweetclaw
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Xquik-dev/tweetclaw) · [官网](https://docs.xquik.com/guides/tweetclaw) · 组织维护
+⭐ 95 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Xquik-dev/tweetclaw) · [官网](https://docs.xquik.com/guides/tweetclaw) · 组织维护
 
 **OpenClaw 的 X/Twitter 操作插件：让 agent 搜推、发帖、导粉丝、监控**
 

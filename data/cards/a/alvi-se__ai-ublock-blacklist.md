@@ -1,6 +1,6 @@
 # alvi-se/ai-ublock-blacklist
 
-⭐ 710 · Adblock Filter List · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/alvi-se/ai-ublock-blacklist) · [官网](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) · 个人维护
+⭐ 710 · Adblock Filter List · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/alvi-se/ai-ublock-blacklist) · [官网](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%2Falvi%2Dse%2Fai%2Dublock%2Dblacklist%2Fmaster%2Flist%2Etxt&title=AI%20Content%20Farms) · 个人维护
 
 **个人维护的 AI 内容农场屏蔽清单，供 uBlock Origin/uBlacklist 订阅**
 

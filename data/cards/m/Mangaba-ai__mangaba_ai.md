@@ -1,6 +1,6 @@
 # Mangaba-ai/mangaba_ai
 
-⭐ 207 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mangaba-ai/mangaba_ai) · [官网](https://www.mangaba.ia.br) · 组织维护
+⭐ 208 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mangaba-ai/mangaba_ai) · [官网](https://www.mangaba.ia.br) · 组织维护
 
 **Python 多智能体编排框架：Crews、事件流、ReAct、RAG、MCP/A2A**
 

@@ -1,6 +1,6 @@
 # YutongChenVictor/NPU-E2E
 
-⭐ 67 · Verilog · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/YutongChenVictor/NPU-E2E) · 个人维护
+⭐ 68 · Verilog · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/YutongChenVictor/NPU-E2E) · 个人维护
 
 **教学用全栈 NPU 加速器演示：RTL 到 FPGA 推理端到端**
 

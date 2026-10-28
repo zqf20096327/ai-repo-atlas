@@ -1,6 +1,6 @@
 # simonether/skill-placebo
 
-⭐ 20 · Shell · MIT · 推送 2026-10-06 · [GitHub](https://github.com/simonether/skill-placebo) · 个人维护
+⭐ 22 · Shell · MIT · 推送 2026-10-06 · [GitHub](https://github.com/simonether/skill-placebo) · 个人维护
 
 **对热门编码 agent 技能做安慰剂对照评测的基准**
 

@@ -1,6 +1,6 @@
 # FunnyWolf/agentic-soc-platform
 
-⭐ 1,220 · Python · 推送 2026-09-29 · [GitHub](https://github.com/FunnyWolf/agentic-soc-platform) · [官网](https://asp.viperrtp.com) · 个人维护 · 中文 README
+⭐ 1,221 · Python · 推送 2026-09-29 · [GitHub](https://github.com/FunnyWolf/agentic-soc-platform) · [官网](https://asp.viperrtp.com) · 个人维护 · 中文 README
 
 **给安全运营团队：用 AI agent 做告警分诊与调查的开源 SOC 平台**
 

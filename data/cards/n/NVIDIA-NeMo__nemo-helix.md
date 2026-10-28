@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/nemo-helix
 
-⭐ 131 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA-NeMo/nemo-helix) · [官网](https://docs.nvidia.com/nemo-helix) · 组织维护
+⭐ 132 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA-NeMo/nemo-helix) · [官网](https://docs.nvidia.com/nemo-helix) · 组织维护
 
 **生产级 AI agent 的评测、加固与编排控制平面**
 

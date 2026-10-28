@@ -1,6 +1,6 @@
 # n1byn1kt/apitap
 
-⭐ 130 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/n1byn1kt/apitap) · [官网](https://www.apitap.io) · 个人维护
+⭐ 131 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/n1byn1kt/apitap) · [官网](https://www.apitap.io) · 个人维护
 
 **把任意网站转为 API 供 AI agent 调用的 CLI/MCP/npm 库**
 

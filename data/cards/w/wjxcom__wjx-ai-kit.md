@@ -1,6 +1,6 @@
 # wjxcom/wjx-ai-kit
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wjxcom/wjx-ai-kit) · [官网](https://www.npmjs.com/package/wjx-mcp-server) · 组织维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wjxcom/wjx-ai-kit) · [官网](https://www.npmjs.com/package/wjx-mcp-server) · 组织维护 · 中文 README
 
 **问卷星 OpenAPI 工具包：TypeScript SDK + CLI + MCP Server**
 

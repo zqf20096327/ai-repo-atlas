@@ -1,6 +1,6 @@
 # ricardocabral/icuvisor
 
-⭐ 42 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ricardocabral/icuvisor) · [官网](https://icuvisor.app/) · 个人维护
+⭐ 42 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ricardocabral/icuvisor) · [官网](https://icuvisor.app/) · 个人维护
 
 **连接 AI 客户端与 intervals.icu 训练数据的本地 MCP 服务器**
 

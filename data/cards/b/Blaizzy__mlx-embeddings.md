@@ -1,6 +1,6 @@
 # Blaizzy/mlx-embeddings
 
-⭐ 450 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/Blaizzy/mlx-embeddings) · 个人维护
+⭐ 452 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/Blaizzy/mlx-embeddings) · 个人维护
 
 **在 Mac 上用 MLX 本地运行视觉与语言嵌入模型的 Python 包**
 

@@ -1,6 +1,6 @@
 # tomtom215/a2a-rust
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tomtom215/a2a-rust) · [官网](https://a2a-rust.com/) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tomtom215/a2a-rust) · [官网](https://a2a-rust.com/) · 个人维护
 
 **Rust 版 A2A 协议 SDK：构建互操作 AI agent 的客户端与服务端**
 

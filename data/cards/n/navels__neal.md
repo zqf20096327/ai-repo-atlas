@@ -1,6 +1,6 @@
 # navels/neal
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/navels/neal) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/navels/neal) · 个人维护
 
 **规划驱动的多智能体编码循环工具：planner/coder/reviewer 协作实现计划**
 

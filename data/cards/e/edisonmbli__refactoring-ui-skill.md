@@ -1,6 +1,6 @@
 # edisonmbli/refactoring-ui-skill
 
-⭐ 299 · Python · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/edisonmbli/refactoring-ui-skill) · [官网](https://www.refactoringui.com) · 个人维护 · 中文 README
+⭐ 308 · Python · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/edisonmbli/refactoring-ui-skill) · [官网](https://www.refactoringui.com) · 个人维护 · 中文 README
 
 **给 AI 编码助手用的 Web UI 设计规则与走查 Skill**
 

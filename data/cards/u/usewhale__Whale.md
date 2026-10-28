@@ -1,6 +1,6 @@
 # usewhale/Whale
 
-⭐ 927 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/usewhale/Whale) · [官网](https://wirebox.sh) · 组织维护 · 中文 README
+⭐ 928 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/usewhale/Whale) · [官网](https://wirebox.sh) · 组织维护 · 中文 README
 
 **面向 DeepSeek 的终端 AI 编码 agent（已停止维护）**
 

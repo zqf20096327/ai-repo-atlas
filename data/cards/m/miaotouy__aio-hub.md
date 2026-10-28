@@ -1,6 +1,6 @@
 # miaotouy/aio-hub
 
-⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/miaotouy/aio-hub) · [官网](http://aiohub-app.com) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/miaotouy/aio-hub) · [官网](http://aiohub-app.com) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 桌面工作站：人类工具台与 Agent 运行时一体**
 

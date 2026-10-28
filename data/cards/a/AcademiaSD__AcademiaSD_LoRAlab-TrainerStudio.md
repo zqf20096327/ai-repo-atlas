@@ -1,6 +1,6 @@
 # AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio
 
-⭐ 116 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
+⭐ 121 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
 
 **多模型 LoRA 训练工作台：消费级 GPU 上训练图像/视频模型 LoRA**
 

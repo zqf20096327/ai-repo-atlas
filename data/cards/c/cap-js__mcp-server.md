@@ -1,6 +1,6 @@
 # cap-js/mcp-server
 
-⭐ 117 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cap-js/mcp-server) · [官网](https://cap.cloud.sap/docs) · 组织维护
+⭐ 117 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cap-js/mcp-server) · [官网](https://cap.cloud.sap/docs) · 组织维护
 
 **面向 SAP CAP 开发的 MCP 服务器：让 AI 模型检索 CAP 文档与 CDS 模型**
 

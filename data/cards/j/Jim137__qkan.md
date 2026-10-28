@@ -1,6 +1,6 @@
 # Jim137/qkan
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/Jim137/qkan) · [官网](https://qkan.jimq.cc) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/Jim137/qkan) · [官网](https://qkan.jimq.cc) · 个人维护
 
 **论文官方实现的量子启发 Kolmogorov-Arnold 网络库**
 

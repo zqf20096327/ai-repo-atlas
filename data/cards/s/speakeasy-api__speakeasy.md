@@ -1,6 +1,6 @@
 # speakeasy-api/speakeasy
 
-⭐ 456 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/speakeasy-api/speakeasy) · [官网](https://speakeasy.com) · 组织维护
+⭐ 456 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/speakeasy-api/speakeasy) · [官网](https://speakeasy.com) · 组织维护
 
 **面向 API 团队的 OpenAPI 工具链：生成多语言 SDK 与 Terraform Provider**
 

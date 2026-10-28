@@ -1,6 +1,6 @@
 # cuevhv/mamma
 
-⭐ 861 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/cuevhv/mamma) · [官网](https://mamma.is.tue.mpg.de/) · 组织维护
+⭐ 864 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/cuevhv/mamma) · [官网](https://mamma.is.tue.mpg.de/) · 组织维护
 
 **多视角多人无标记动作捕捉研究代码（CVPR 2026）**
 

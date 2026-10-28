@@ -1,6 +1,6 @@
 # D4Vinci/Scrapling
 
-⭐ 90,038 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 90,189 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **Python 网页抓取框架：从单次请求到全站爬取一体化**
 

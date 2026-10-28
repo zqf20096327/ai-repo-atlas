@@ -1,6 +1,6 @@
 # medhiclb/HelixAI
 
-⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/medhiclb/HelixAI) · [官网](https://helix-agence.fr) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/medhiclb/HelixAI) · [官网](https://helix-agence.fr) · 个人维护 · 中文 README
 
 **本地优先的开源 AI 工作台：聊天/Agent/编码/RAG/微调**
 

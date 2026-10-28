@@ -1,6 +1,6 @@
 # langchain-ai/agent-chat-ui
 
-⭐ 3,242 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/agent-chat-ui) · [官网](https://agentchat.vercel.app) · 组织维护
+⭐ 3,243 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/agent-chat-ui) · [官网](https://agentchat.vercel.app) · 组织维护
 
 **与任意 LangGraph server 聊天的 Next.js Web 界面**
 

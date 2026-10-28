@@ -1,6 +1,6 @@
 # ammohitchaprana/Awesome-SaaS-Directories
 
-⭐ 22 · 推送 2026-03-17 · [GitHub](https://github.com/ammohitchaprana/Awesome-SaaS-Directories) · [官网](https://justhunt.co/free-startup-directories) · 组织维护
+⭐ 23 · 推送 2026-03-17 · [GitHub](https://github.com/ammohitchaprana/Awesome-SaaS-Directories) · [官网](https://justhunt.co/free-startup-directories) · 组织维护
 
 **SaaS 产品发布与推广平台目录清单**
 

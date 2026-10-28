@@ -1,6 +1,6 @@
 # cloudwego/eino
 
-⭐ 13,467 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
+⭐ 13,479 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cloudwego/eino) · [官网](https://www.cloudwego.io/docs/eino/) · 组织维护 · 中文 README
 
 **Go 语言的 LLM/AI 应用开发框架**
 

@@ -1,6 +1,6 @@
 # EvgenRublev/Minimax_Studio
 
-⭐ 27 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/EvgenRublev/Minimax_Studio) · [官网](https://t.me/Evgeny_Rublev) · 个人维护
+⭐ 27 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/EvgenRublev/Minimax_Studio) · [官网](https://t.me/Evgeny_Rublev) · 个人维护
 
 **本地离线的 MiniMax H3 电影感视频+音频生成桌面工作室**
 

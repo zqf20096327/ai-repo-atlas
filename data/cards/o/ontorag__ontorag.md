@@ -1,6 +1,6 @@
 # ontorag/ontorag
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/ontorag/ontorag) · [官网](https://ontorag.github.io) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/ontorag/ontorag) · [官网](https://ontorag.github.io) · 组织维护
 
 **本体优先的 RAG 框架：从文档构建可治理的 RDF 知识图谱**
 

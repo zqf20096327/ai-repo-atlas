@@ -1,6 +1,6 @@
 # Danielopol/Claude-Code-Playbooks
 
-⭐ 66 · MDX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Danielopol/Claude-Code-Playbooks) · [官网](https://www.claudecodehq.com) · 个人维护
+⭐ 66 · MDX · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Danielopol/Claude-Code-Playbooks) · [官网](https://www.claudecodehq.com) · 个人维护
 
 **1,179+ 个 CLAUDE.md 模板库：即复制即用配置 Claude Code**
 

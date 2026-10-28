@@ -1,1 +1,78 @@
-{"fn": "showntop/llmack", "sha": "b53db6fc6c8a", "source": "readme", "identity": {"one_liner": "Go 语言全栈 LLM 应用开发框架", "review": "面向 Go 开发者的 LLM 应用开发框架，提供 LLM 交互（如 GPT、Claude）、提示词管理、RAG、语音处理、程序化工作流、参数与提示词优化及编排引擎等组件。通过 go get 安装为 Go 库使用，代码内调用各模块构建应用，example 目录提供更多示例。MIT 许可证。", "highlights": ["LLM 交互组件支持 GPT、Claude 等模型", "集成 RAG、语音处理与提示词管理", "提供编排引擎与工作流的程序化控制", "包含参数与提示词优化器组件"], "use_cases": ["用 Go 构建接入多种 LLM 的应用", "在 Go 项目中实现 RAG 与语音交互", "以工作流方式编排 LLM 各组件"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM框架", "Go开发", "RAG", "agent/工作流"], "domain": "LLM 基础设施/开发框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: The GoLang Fullstack LLM Framework is a comprehensive toolkit designed to facilitate the development of applications lev", "L9: - **LLM Integration**: Interact with various Large Language Models (e.g., GPT, Claude) for text generation, summarizatio"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "showntop/llmack",
+ "sha": "b53db6fc6c8a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Go 语言全栈 LLM 应用开发框架",
+  "review": "面向 Go 开发者的 LLM 应用开发框架，提供 LLM 交互（如 GPT、Claude）、提示词管理、RAG、语音处理、程序化工作流、参数与提示词优化及编排引擎等组件。通过 go get 安装为 Go 库使用，代码内调用各模块构建应用，example 目录提供更多示例。MIT 许可证。",
+  "highlights": [
+   "LLM 交互组件支持 GPT、Claude 等模型",
+   "集成 RAG、语音处理与提示词管理",
+   "提供编排引擎与工作流的程序化控制",
+   "包含参数与提示词优化器组件"
+  ],
+  "use_cases": [
+   "用 Go 构建接入多种 LLM 的应用",
+   "在 Go 项目中实现 RAG 与语音交互",
+   "以工作流方式编排 LLM 各组件"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM框架",
+   "Go开发",
+   "RAG",
+   "agent/工作流"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "prompt-engineering",
+   "agent-framework"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: The GoLang Fullstack LLM Framework is a comprehensive toolkit designed to facilitate the development of applications lev",
+   "L9: - **LLM Integration**: Interact with various Large Language Models (e.g., GPT, Claude) for text generation, summarizatio"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

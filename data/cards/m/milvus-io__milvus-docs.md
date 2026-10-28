@@ -1,6 +1,6 @@
 # milvus-io/milvus-docs
 
-⭐ 103 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/milvus-docs) · 组织维护
+⭐ 103 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/milvus-docs) · 组织维护
 
 **Milvus 向量数据库的官方技术文档仓库**
 

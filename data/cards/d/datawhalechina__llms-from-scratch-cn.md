@@ -1,6 +1,6 @@
 # datawhalechina/llms-from-scratch-cn
 
-⭐ 4,430 · Jupyter Notebook · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/datawhalechina/llms-from-scratch-cn) · 组织维护 · 中文 README
+⭐ 4,432 · Jupyter Notebook · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/datawhalechina/llms-from-scratch-cn) · 组织维护 · 中文 README
 
 **从0构建大语言模型的中文实践教程（GLM4/Llama3/RWKV6）**
 

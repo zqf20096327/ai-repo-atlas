@@ -1,6 +1,6 @@
 # ravinperera/ai-token-efficiency-playbook
 
-⭐ 19 · Python · 推送 2026-10-27 · [GitHub](https://github.com/ravinperera/ai-token-efficiency-playbook) · 个人维护
+⭐ 19 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ravinperera/ai-token-efficiency-playbook) · 个人维护
 
 **降低 AI 编程代理 token 消耗的即用指令与工作流手册**
 

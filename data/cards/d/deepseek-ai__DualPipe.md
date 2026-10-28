@@ -1,6 +1,6 @@
 # deepseek-ai/DualPipe
 
-⭐ 3,029 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/DualPipe) · 组织维护 · 中文 README
+⭐ 3,031 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/DualPipe) · 组织维护 · 中文 README
 
 **面向 DeepSeek V3/R1 训练的双向流水线并行算法**
 

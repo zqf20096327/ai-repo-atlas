@@ -1,6 +1,6 @@
 # Kiln-AI/Kiln
 
-⭐ 5,237 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Kiln-AI/Kiln) · [官网](https://kiln.tech) · 组织维护
+⭐ 5,242 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Kiln-AI/Kiln) · [官网](https://kiln.tech) · 组织维护
 
 **AI 开发工作台：评测、调优、微调、RAG 与 Agent 一体化**
 

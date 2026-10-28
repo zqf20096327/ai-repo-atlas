@@ -1,6 +1,6 @@
 # tubeagentkit/youtube-transcript-skills
 
-⭐ 78 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-skills) · [官网](https://getyoutubetranscript.com) · 组织维护
+⭐ 79 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-skills) · [官网](https://getyoutubetranscript.com) · 组织维护
 
 **让 AI agent 获取 YouTube 字幕/搜索/频道数据的 Agent Skill**
 

@@ -1,6 +1,6 @@
 # linkcraftstudio/feedlog
 
-⭐ 190 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/linkcraftstudio/feedlog) · [官网](https://feedlog.ai) · 组织维护 · 中文 README
+⭐ 191 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/linkcraftstudio/feedlog) · [官网](https://feedlog.ai) · 组织维护 · 中文 README
 
 **面向 SaaS 团队的开源 AI 客服平台：AI 客服+帮助中心+反馈板**
 

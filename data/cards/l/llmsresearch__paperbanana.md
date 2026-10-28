@@ -1,6 +1,6 @@
 # llmsresearch/paperbanana
 
-⭐ 2,423 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/llmsresearch/paperbanana) · 组织维护
+⭐ 2,427 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/llmsresearch/paperbanana) · 组织维护
 
 **从方法论文本自动生成学术图表的多智能体框架**
 

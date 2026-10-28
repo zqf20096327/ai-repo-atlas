@@ -1,6 +1,6 @@
 # WaHaiLong/KingdeeMCP
 
-⭐ 123 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WaHaiLong/KingdeeMCP) · [官网](https://wahailong.github.io/KingdeeMCP/) · 个人维护 · 中文 README
+⭐ 125 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/WaHaiLong/KingdeeMCP) · [官网](https://wahailong.github.io/KingdeeMCP/) · 个人维护 · 中文 README
 
 **让 AI 助手用自然语言操作金蝶云星空 ERP 的 MCP 服务端**
 

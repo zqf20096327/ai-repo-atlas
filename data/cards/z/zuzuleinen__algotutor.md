@@ -1,6 +1,6 @@
 # zuzuleinen/algotutor
 
-⭐ 83 · Go · MIT · 推送 2026-07-10 · [GitHub](https://github.com/zuzuleinen/algotutor) · [官网](https://algotutor.ai) · 个人维护
+⭐ 84 · Go · MIT · 推送 2026-07-10 · [GitHub](https://github.com/zuzuleinen/algotutor) · [官网](https://algotutor.ai) · 个人维护
 
 **面向 Go 开发者的 AI 辅导训练工具：Agent 生成递进算法题**
 

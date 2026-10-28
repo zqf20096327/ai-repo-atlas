@@ -1,6 +1,6 @@
 # KieDani/UpliftingTableTennis
 
-⭐ 49 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/KieDani/UpliftingTableTennis) · [官网](https://kiedani.github.io/WACV2026/) · 组织维护
+⭐ 50 · Python · GPL-3.0 · 推送 2026-02-06 · [GitHub](https://github.com/KieDani/UpliftingTableTennis) · [官网](https://kiedani.github.io/WACV2026/) · 组织维护
 
 **乒乓球 3D 轨迹与旋转估计的论文官方实现**
 

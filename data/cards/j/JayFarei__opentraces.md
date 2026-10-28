@@ -1,6 +1,6 @@
 # JayFarei/opentraces
 
-⭐ 102 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/JayFarei/opentraces) · [官网](https://www.opentraces.ai/) · 个人维护
+⭐ 102 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/JayFarei/opentraces) · [官网](https://www.opentraces.ai/) · 个人维护
 
 **本地优先的 agent 工作证据层：捕获代理所见/所做/所改**
 

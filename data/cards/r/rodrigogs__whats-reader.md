@@ -1,6 +1,6 @@
 # rodrigogs/whats-reader
 
-⭐ 274 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/rodrigogs/whats-reader) · [官网](https://rodrigogs.github.io/whats-reader/) · 个人维护 · 中文 README
+⭐ 275 · TypeScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/rodrigogs/whats-reader) · [官网](https://rodrigogs.github.io/whats-reader/) · 个人维护 · 中文 README
 
 **离线浏览 WhatsApp 聊天导出文件的桌面/网页应用，含本地语音转写**
 

@@ -1,6 +1,6 @@
 # DietrichGebert/ponytail
 
-⭐ 177,994 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
+⭐ 178,987 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护
 
 **给 AI 编码 agent 注入“极简优先”编码原则的提示词技能包**
 

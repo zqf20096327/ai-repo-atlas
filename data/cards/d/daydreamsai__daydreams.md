@@ -1,6 +1,6 @@
 # daydreamsai/daydreams
 
-⭐ 624 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/daydreamsai/daydreams) · [官网](https://docs.daydreams.systems/) · 组织维护
+⭐ 623 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/daydreamsai/daydreams) · [官网](https://docs.daydreams.systems/) · 组织维护
 
 **构建可组合上下文 AI agent 的 TypeScript 框架（已转向 Agentic Commerce）**
 

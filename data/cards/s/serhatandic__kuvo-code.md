@@ -1,6 +1,6 @@
 # serhatandic/kuvo-code
 
-⭐ 74 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/serhatandic/kuvo-code) · [官网](https://kuvo.run/code) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **macOS 原生编码 agent 界面，基于 opencode 引擎，任意模型可用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

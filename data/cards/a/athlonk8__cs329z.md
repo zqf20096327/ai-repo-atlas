@@ -1,6 +1,6 @@
 # athlonk8/cs329z
 
-⭐ 27 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/athlonk8/cs329z) · [官网](https://cs.xuyili.com) · 个人维护 · 中文 README
+⭐ 30 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/athlonk8/cs329z) · [官网](https://cs.xuyili.com) · 个人维护 · 中文 README
 
 **斯坦福 CS329Z《Engineering AI Agents》课程材料中文全译学习站**
 

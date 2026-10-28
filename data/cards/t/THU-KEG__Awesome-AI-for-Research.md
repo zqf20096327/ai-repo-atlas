@@ -1,6 +1,6 @@
 # THU-KEG/Awesome-AI-for-Research
 
-⭐ 132 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/THU-KEG/Awesome-AI-for-Research) · 组织维护 · 中文 README
+⭐ 133 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/THU-KEG/Awesome-AI-for-Research) · 组织维护 · 中文 README
 
 **AI for Research 论文与系统策展清单：按研究阶段/角色/领域组织**
 

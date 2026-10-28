@@ -1,6 +1,6 @@
 # lezi-fun/codex-webui
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lezi-fun/codex-webui) · 个人维护 · 中文 README
+⭐ 35 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lezi-fun/codex-webui) · 个人维护 · 中文 README
 
 **非官方的本地/局域网 Codex app-server WebUI**
 

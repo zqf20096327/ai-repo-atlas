@@ -1,6 +1,6 @@
 # cyberkaida/reverse-engineering-assistant
 
-⭐ 884 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyberkaida/reverse-engineering-assistant) · 个人维护
+⭐ 885 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyberkaida/reverse-engineering-assistant) · 个人维护
 
 **让 AI 通过 MCP 调用 Ghidra 做逆向分析的扩展**
 

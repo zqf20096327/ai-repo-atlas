@@ -1,6 +1,6 @@
 # Unclecheng-li/AI_Animation
 
-⭐ 1,653 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Unclecheng-li/AI_Animation) · 个人维护 · 中文 README
+⭐ 1,661 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Unclecheng-li/AI_Animation) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 HTML 动画生成技能（Skill）集合，含 12 类动效**
 

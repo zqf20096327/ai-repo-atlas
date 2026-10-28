@@ -1,6 +1,6 @@
 # swiss-ai-center/a-guide-to-mlops
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 63 · Dockerfile · CC-BY-SA-4.0 · 推送 2026-09-29 · [GitHub](https://github.com/swiss-ai-center/a-guide-to-mlops) · [官网](https://mlops.swiss-ai-center.ch) · 组织维护
 
 **MLOps 工具与实践指南：面向 ML 项目的教程站点源码**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | CC-BY-SA-4.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

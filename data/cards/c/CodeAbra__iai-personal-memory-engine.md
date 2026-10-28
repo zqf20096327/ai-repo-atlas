@@ -1,6 +1,6 @@
 # CodeAbra/iai-personal-memory-engine
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 916 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CodeAbra/iai-personal-memory-engine) · 个人维护 · 中文 README
 
 **给 AI 编程助手装本地长期记忆的 MCP 服务器**
 
@@ -11,7 +11,7 @@ iai-memory 是运行在本地、通过 MCP 协议服务的个人记忆引擎：�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

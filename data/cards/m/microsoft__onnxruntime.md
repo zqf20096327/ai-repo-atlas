@@ -1,6 +1,6 @@
 # microsoft/onnxruntime
 
-⭐ 22,181 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
+⭐ 22,184 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/onnxruntime) · [官网](https://onnxruntime.ai) · 组织维护
 
 **给开发者提供跨平台高性能的 ML 推理与训练加速运行时**
 

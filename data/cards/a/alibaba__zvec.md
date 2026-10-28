@@ -1,6 +1,6 @@
 # alibaba/zvec
 
-⭐ 16,156 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
+⭐ 16,161 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/alibaba/zvec) · [官网](https://zvec.org) · 组织维护 · 中文 README
 
 **面向应用开发者的嵌入式向量数据库，提供进程内相似度检索**
 

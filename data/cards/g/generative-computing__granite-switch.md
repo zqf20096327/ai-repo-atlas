@@ -1,6 +1,6 @@
 # generative-computing/granite-switch
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/generative-computing/granite-switch) · [官网](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) · 组织维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/generative-computing/granite-switch) · [官网](https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview) · 组织维护
 
 **把可组合 LoRA 适配函数组装进单一模型的架构与作曲工具链**
 

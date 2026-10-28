@@ -1,6 +1,6 @@
 # cactus-compute/needle
 
-⭐ 14,351 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cactus-compute/needle) · [官网](https://cactuscompute.com) · 组织维护
+⭐ 14,377 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cactus-compute/needle) · [官网](https://cactuscompute.com) · 组织维护
 
 **面向手机/可穿戴/微控制器等小型设备的端侧基础模型**
 

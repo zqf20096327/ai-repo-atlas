@@ -1,6 +1,6 @@
 # cft0808/edict
 
-⭐ 17,020 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cft0808/edict) · [官网](https://openclaw.ai) · 个人维护 · 中文 README
+⭐ 17,026 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cft0808/edict) · [官网](https://openclaw.ai) · 个人维护 · 中文 README
 
 **给个人/团队用的多 Agent 协作编排系统，以三省六部制分权制衡执行任务**
 

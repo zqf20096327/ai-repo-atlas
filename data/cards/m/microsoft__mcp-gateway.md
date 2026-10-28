@@ -1,6 +1,6 @@
 # microsoft/mcp-gateway
 
-⭐ 898 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mcp-gateway) · [官网](https://microsoft.github.io/mcp-gateway/) · 组织维护
+⭐ 899 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/mcp-gateway) · [官网](https://microsoft.github.io/mcp-gateway/) · 组织维护
 
 **面向开发者的 MCP 服务器反向代理与生命周期管理网关**
 

@@ -1,6 +1,6 @@
 # streamient/streamient
 
-⭐ 49 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/streamient/streamient) · [官网](https://streamient.com) · 组织维护
+⭐ 49 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/streamient/streamient) · [官网](https://streamient.com) · 组织维护
 
 **面向团队的 AI 记忆层：把分散知识变为 MCP 工具可用的上下文**
 

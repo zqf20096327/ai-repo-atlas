@@ -1,6 +1,6 @@
 # mirror29/inalpha
 
-⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mirror29/inalpha) · [官网](https://inalpha.dev/) · 个人维护 · 中文 README
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/mirror29/inalpha) · [官网](https://inalpha.dev/) · 个人维护 · 中文 README
 
 **开源量化 agent 框架：LLM 研究选因子写策略，机器审批下单**
 

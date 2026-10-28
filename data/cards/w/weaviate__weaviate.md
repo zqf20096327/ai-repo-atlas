@@ -1,6 +1,6 @@
 # weaviate/weaviate
 
-⭐ 16,923 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
+⭐ 16,925 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/weaviate) · [官网](https://weaviate.io/developers/weaviate/) · 组织维护
 
 **面向开发者的开源向量数据库，支持语义搜索与 RAG**
 

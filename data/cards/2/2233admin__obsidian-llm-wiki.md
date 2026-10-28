@@ -1,6 +1,6 @@
 # 2233admin/obsidian-llm-wiki
 
-⭐ 36 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/2233admin/obsidian-llm-wiki) · [官网](https://github.com/2233admin/obsidian-llm-wiki/wiki) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/2233admin/obsidian-llm-wiki) · [官网](https://github.com/2233admin/obsidian-llm-wiki/wiki) · 个人维护 · 中文 README
 
 **把团队研究资料编译成可审查 Obsidian 知识库的 MCP 工具链**
 

@@ -1,6 +1,6 @@
 # drt-hub/drt
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/drt-hub/drt) · [官网](https://drt-hub.github.io/drt-web/) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/drt-hub/drt) · [官网](https://drt-hub.github.io/drt-web/) · 组织维护
 
 **面向开发者的反向 ETL 工具：用 YAML 把数仓数据同步回业务系统**
 

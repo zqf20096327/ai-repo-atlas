@@ -1,6 +1,6 @@
 # vllm-project/humming
 
-⭐ 334 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/humming) · 组织维护
+⭐ 335 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/humming) · 组织维护
 
 **面向量化推理的 JIT 编译 GEMM 核库，供 NVIDIA GPU 使用**
 

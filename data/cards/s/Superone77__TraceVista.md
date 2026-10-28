@@ -1,6 +1,6 @@
 # Superone77/TraceVista
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Superone77/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
+⭐ 75 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Superone77/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
 
 **把 agent 运行日志变成可交互决策地图与回放故事的查看器**
 

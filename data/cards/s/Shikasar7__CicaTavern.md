@@ -1,6 +1,6 @@
 # Shikasar7/CicaTavern
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Shikasar7/CicaTavern) · [官网](https://github.com/Shikasar7/CicaTavern/releases/latest) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Shikasar7/CicaTavern) · [官网](https://github.com/Shikasar7/CicaTavern/releases/latest) · 个人维护 · 中文 README
 
 **兼容酒馆角色卡的 Agent 式角色扮演客户端，用自有模型 API 跑剧情**
 

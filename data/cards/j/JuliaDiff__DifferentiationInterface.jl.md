@@ -1,6 +1,6 @@
 # JuliaDiff/DifferentiationInterface.jl
 
-⭐ 316 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JuliaDiff/DifferentiationInterface.jl) · [官网](https://juliadiff.org/DifferentiationInterface.jl/DifferentiationInterface) · 组织维护
+⭐ 316 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JuliaDiff/DifferentiationInterface.jl) · [官网](https://juliadiff.org/DifferentiationInterface.jl/DifferentiationInterface) · 组织维护
 
 **Julia 多后端自动微分的统一接口库**
 

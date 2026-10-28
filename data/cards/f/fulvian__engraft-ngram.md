@@ -1,6 +1,6 @@
 # fulvian/engraft-ngram
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/fulvian/engraft-ngram) · [官网](https://engraft-engram.dev) · 个人维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/fulvian/engraft-ngram) · [官网](https://engraft-engram.dev) · 个人维护
 
 **向 LLM 的 n-gram 记忆表写入事实的研究方法，不改权重**
 

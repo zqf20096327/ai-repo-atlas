@@ -1,6 +1,6 @@
 # Rebreda/listenr
 
-⭐ 31 · Python · MPL-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Rebreda/listenr) · 个人维护
+⭐ 31 · Python · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Rebreda/listenr) · 个人维护
 
 **本地录音采集语音数据并微调 Whisper/Moonshine 语音模型**
 

@@ -1,6 +1,6 @@
 # NodeDB-Lab/nodedb
 
-⭐ 235 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NodeDB-Lab/nodedb) · [官网](https://nodedb.dev) · 组织维护
+⭐ 236 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/NodeDB-Lab/nodedb) · [官网](https://nodedb.dev) · 组织维护
 
 **面向 AI agent 的多模型内存与存储引擎，边到云、兼容 PostgreSQL**
 

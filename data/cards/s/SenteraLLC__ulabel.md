@@ -1,6 +1,6 @@
 # SenteraLLC/ulabel
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SenteraLLC/ulabel) · 组织维护
+⭐ 27 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SenteraLLC/ulabel) · 组织维护
 
 **浏览器端图像标注工具，为视觉任务制作训练数据**
 

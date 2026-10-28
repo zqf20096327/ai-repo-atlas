@@ -1,6 +1,6 @@
 # DarkNoah/aime-chat
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DarkNoah/aime-chat) · [官网](https://darknoah.github.io/aime-chat/) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DarkNoah/aime-chat) · [官网](https://darknoah.github.io/aime-chat/) · 个人维护 · 中文 README
 
 **跨平台 AI 桌面协作应用：多模型对话、RAG 知识库与 MCP 工具**
 

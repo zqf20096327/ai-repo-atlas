@@ -1,6 +1,6 @@
 # TheEterna/api2mcp4j
 
-⭐ 112 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TheEterna/api2mcp4j) · [官网](https://theeterna.github.io/server2mcp-docs/) · 个人维护 · 中文 README
+⭐ 113 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TheEterna/api2mcp4j) · [官网](https://theeterna.github.io/server2mcp-docs/) · 个人维护 · 中文 README
 
 **把 Spring Boot REST 控制器自动转为 MCP Server 的 Starter**
 

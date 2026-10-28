@@ -1,6 +1,6 @@
 # lcy362/flint
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lcy362/flint) · [官网](https://flint.lichuanyang.top) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lcy362/flint) · [官网](https://flint.lichuanyang.top) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 技能资产管理器：集中管理并分发 agent 技能**
 

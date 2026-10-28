@@ -1,6 +1,6 @@
 # Aham-AIAPP/aham-voice
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Aham-AIAPP/aham-voice) · [官网](https://aham-aiapp.github.io/aham-voice/) · 组织维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Aham-AIAPP/aham-voice) · [官网](https://aham-aiapp.github.io/aham-voice/) · 组织维护 · 中文 README
 
 **销售/项目会议录音转写与纪要系统：本地FunASR+云端DeepSeek**
 

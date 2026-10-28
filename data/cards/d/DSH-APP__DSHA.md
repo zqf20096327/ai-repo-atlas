@@ -1,6 +1,6 @@
 # DSH-APP/DSHA
 
-⭐ 2,473 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
+⭐ 2,550 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
 
 **安卓上运行 DeepSeek Harness 的免 ROOT 启动器**
 

@@ -1,6 +1,6 @@
 # Ebony-Vinyl/ZX-code
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Ebony-Vinyl/ZX-code) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/Ebony-Vinyl/ZX-code) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 编程 Agent，免 API Key 用国产大模型并带 3D 桌宠**
 

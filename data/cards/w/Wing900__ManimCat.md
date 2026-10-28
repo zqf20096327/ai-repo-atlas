@@ -1,6 +1,6 @@
 # Wing900/ManimCat
 
-⭐ 481 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Wing900/ManimCat) · 个人维护 · 中文 README
+⭐ 484 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Wing900/ManimCat) · 个人维护 · 中文 README
 
 **面向教学场景的 AI 数学动画/图表生成 Web 应用**
 

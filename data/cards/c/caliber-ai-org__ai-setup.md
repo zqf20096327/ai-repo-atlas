@@ -1,6 +1,6 @@
 # caliber-ai-org/ai-setup
 
-⭐ 1,310 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/caliber-ai-org/ai-setup) · [官网](https://trycaliber.ai) · 组织维护
+⭐ 1,309 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/caliber-ai-org/ai-setup) · [官网](https://trycaliber.ai) · 组织维护
 
 **为多款编码 agent 统一生成与同步技能、规则和配置的 CLI 工具**
 

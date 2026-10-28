@@ -1,6 +1,6 @@
 # ZC89757/story-claw
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZC89757/story-claw) · [官网](https://zc89757.github.io/story-claw/) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ZC89757/story-claw) · [官网](https://zc89757.github.io/story-claw/) · 个人维护 · 中文 README
 
 **开源 AI 小说转视频流水线：一章小说一键产出短剧成片**
 

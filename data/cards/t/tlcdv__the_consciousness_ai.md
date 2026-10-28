@@ -1,6 +1,6 @@
 # tlcdv/the_consciousness_ai
 
-⭐ 106 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/tlcdv/the_consciousness_ai) · [官网](https://theconsciousness.ai) · 个人维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/tlcdv/the_consciousness_ai) · [官网](https://theconsciousness.ai) · 个人维护
 
 **意识模拟研究框架：通过内部稳态与整合信息生成行为**
 

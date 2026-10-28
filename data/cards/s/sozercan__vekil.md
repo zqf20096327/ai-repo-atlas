@@ -1,6 +1,6 @@
 # sozercan/vekil
 
-⭐ 22 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sozercan/vekil) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sozercan/vekil) · 个人维护
 
 **本地 AI 网关：用统一端点代理多上游模型服务**
 

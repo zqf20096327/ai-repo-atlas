@@ -1,6 +1,6 @@
 # google-deepmind/distrax
 
-⭐ 657 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/distrax) · 组织维护
+⭐ 658 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/distrax) · 组织维护
 
 **JAX 概率分布与双射器库，供开发者构建概率模型**
 

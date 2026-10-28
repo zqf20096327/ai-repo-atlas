@@ -1,6 +1,6 @@
 # shareAI-lab/learn-claude-code
 
-⭐ 79,361 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
+⭐ 79,441 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shareAI-lab/learn-claude-code) · [官网](https://learn.shareai.run) · 组织维护 · 中文 README
 
 **教学仓库：从 0 到 1 构建类 Claude Code 的 agent harness**
 

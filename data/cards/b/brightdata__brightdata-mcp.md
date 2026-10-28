@@ -1,6 +1,6 @@
 # brightdata/brightdata-mcp
 
-⭐ 2,691 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
+⭐ 2,693 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
 **为 AI 代理提供公开网络访问的 MCP 服务器（32 个工具）**
 

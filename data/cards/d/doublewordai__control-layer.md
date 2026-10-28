@@ -1,6 +1,6 @@
 # doublewordai/control-layer
 
-⭐ 96 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/doublewordai/control-layer) · [官网](https://doublewordai.github.io/control-layer/) · 组织维护
+⭐ 96 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/doublewordai/control-layer) · [官网](https://doublewordai.github.io/control-layer/) · 组织维护
 
 **AI 模型网关：统一路由、鉴权与管理多端点模型访问**
 

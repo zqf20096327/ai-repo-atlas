@@ -1,6 +1,6 @@
 # nextflow-io/agent-skills
 
-⭐ 25 · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/nextflow-io/agent-skills) · [官网](https://nextflow.io) · 组织维护
+⭐ 25 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nextflow-io/agent-skills) · [官网](https://nextflow.io) · 组织维护
 
 **面向编码 agent 的 Nextflow 流程构建技能包**
 

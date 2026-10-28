@@ -1,6 +1,6 @@
 # microsoft/GenCodec
 
-⭐ 53 · C++ · MIT · 推送 2026-09-18 · [GitHub](https://github.com/microsoft/GenCodec) · 组织维护
+⭐ 55 · C++ · MIT · 推送 2026-09-18 · [GitHub](https://github.com/microsoft/GenCodec) · 组织维护
 
 **微软亚洲研究院生成式图像视频压缩研究项目集合**
 

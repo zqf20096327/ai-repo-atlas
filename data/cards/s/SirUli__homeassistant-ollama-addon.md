@@ -1,6 +1,6 @@
 # SirUli/homeassistant-ollama-addon
 
-⭐ 83 · 推送 2026-10-27 · [GitHub](https://github.com/SirUli/homeassistant-ollama-addon) · [官网](https://wolf-u.li) · 个人维护
+⭐ 83 · 推送 2026-10-28 · [GitHub](https://github.com/SirUli/homeassistant-ollama-addon) · [官网](https://wolf-u.li) · 个人维护
 
 **为 Home Assistant 提供 Ollama 的插件仓库封装**
 

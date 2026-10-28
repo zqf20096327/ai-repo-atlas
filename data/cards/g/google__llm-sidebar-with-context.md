@@ -1,6 +1,6 @@
 # google/llm-sidebar-with-context
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/google/llm-sidebar-with-context) · 组织维护
+⭐ 34 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/llm-sidebar-with-context) · 组织维护
 
 **把多个浏览器标签内容作为上下文与 LLM 对话的 Chrome 侧边栏扩展**
 

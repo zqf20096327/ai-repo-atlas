@@ -1,6 +1,6 @@
 # opensumi/core
 
-⭐ 3,660 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/opensumi/core) · [官网](https://opensumi.com) · 组织维护 · 中文 README
+⭐ 3,661 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/opensumi/core) · [官网](https://opensumi.com) · 组织维护 · 中文 README
 
 **帮助快速构建 AI 原生 IDE 产品的框架**
 

@@ -1,6 +1,6 @@
 # mvalentsev/awesome-free-ai-coding
 
-⭐ 96 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mvalentsev/awesome-free-ai-coding) · [官网](https://mvalentsev.github.io/awesome-free-ai-coding/) · 个人维护
+⭐ 99 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mvalentsev/awesome-free-ai-coding) · [官网](https://mvalentsev.github.io/awesome-free-ai-coding/) · 个人维护
 
 **合法免费 LLM API 与编程 agent 的验证式策展清单**
 

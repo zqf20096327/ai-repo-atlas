@@ -1,6 +1,6 @@
 # okisdev/ChatChat
 
-⭐ 1,267 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/okisdev/ChatChat) · [官网](https://chat.okisdev.com) · 个人维护
+⭐ 1,267 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/okisdev/ChatChat) · [官网](https://chat.okisdev.com) · 个人维护
 
 **自托管的统一 AI 聊天与搜索平台**
 

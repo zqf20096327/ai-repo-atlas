@@ -1,6 +1,6 @@
 # fashn-AI/fashn-vton-1.5
 
-⭐ 367 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/fashn-AI/fashn-vton-1.5) · [官网](https://fashn.ai/research/vton-1-5) · 组织维护
+⭐ 369 · Python · NOASSERTION · 推送 2026-02-01 · [GitHub](https://github.com/fashn-AI/fashn-vton-1.5) · [官网](https://fashn.ai/research/vton-1-5) · 组织维护
 
 **像素空间免分割蒙版的虚拟试穿图像生成模型**
 

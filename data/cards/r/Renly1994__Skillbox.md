@@ -1,6 +1,6 @@
 # Renly1994/Skillbox
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Renly1994/Skillbox) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Renly1994/Skillbox) · 个人维护 · 中文 README
 
 **统一管理 46 种 AI 编码工具的 Skill 与 MCP 的桌面应用**
 

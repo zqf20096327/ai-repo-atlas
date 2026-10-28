@@ -1,6 +1,6 @@
 # pravin6688/churn-triad-insights
 
-⭐ 115 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/pravin6688/churn-triad-insights) · 个人维护
+⭐ 115 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/pravin6688/churn-triad-insights) · 个人维护
 
 **LLM 驱动的客户流失风险分析工具：自然语言查询加风险解读**
 

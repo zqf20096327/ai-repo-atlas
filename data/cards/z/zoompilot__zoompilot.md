@@ -1,6 +1,6 @@
 # zoompilot/zoompilot
 
-⭐ 30 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zoompilot/zoompilot) · [官网](https://zoompilot.ai) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zoompilot/zoompilot) · [官网](https://zoompilot.ai) · 个人维护
 
 **面向马自达 CX-5/CX-9 的开源驾驶辅助系统（sunnypilot 分支）**
 

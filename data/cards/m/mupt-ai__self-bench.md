@@ -1,6 +1,6 @@
 # mupt-ai/self-bench
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mupt-ai/self-bench) · [官网](https://selfbench.dev) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mupt-ai/self-bench) · [官网](https://selfbench.dev) · 组织维护
 
 **用仓库自身合并 PR 构建私有评测，为代码库选模型**
 

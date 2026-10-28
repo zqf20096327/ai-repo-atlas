@@ -1,6 +1,6 @@
 # QwenLM/qwen-code
 
-⭐ 28,757 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
+⭐ 28,774 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/QwenLM/qwen-code) · [官网](https://qwenlm.github.io/qwen-code-docs/en/users/overview) · 组织维护 · 中文 README
 
 **面向开发者的终端 AI 编码 agent，支持多模型多界面**
 

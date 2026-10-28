@@ -1,6 +1,6 @@
 # drawcms/drawcms
 
-⭐ 40 · TypeScript · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/drawcms/drawcms) · [官网](https://drawcms.com) · 组织维护
+⭐ 41 · TypeScript · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/drawcms/drawcms) · [官网](https://drawcms.com) · 组织维护
 
 **供人与 AI agent 共同绘制的动画技术图编辑器（WebMCP）**
 

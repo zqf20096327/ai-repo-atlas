@@ -1,6 +1,6 @@
 # tattle-made/Uli
 
-⭐ 56 · Elixir · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/tattle-made/Uli) · [官网](https://uli.tattle.co.in) · 组织维护
+⭐ 56 · Elixir · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/tattle-made/Uli) · [官网](https://uli.tattle.co.in) · 组织维护
 
 **缓解印度网络性别暴力的浏览器插件：检测辱骂并提供响应工具**
 

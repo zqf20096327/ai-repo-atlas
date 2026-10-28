@@ -1,6 +1,6 @@
 # deepseek-ai/DeepEP
 
-⭐ 10,369 · Cuda · MIT · 推送 2026-10-21 · [GitHub](https://github.com/deepseek-ai/DeepEP) · 组织维护 · 中文 README
+⭐ 10,379 · Cuda · MIT · 推送 2026-10-21 · [GitHub](https://github.com/deepseek-ai/DeepEP) · 组织维护 · 中文 README
 
 **MoE 专家并行的 GPU 通信库：高性能 all-to-all dispatch/combine**
 

@@ -1,6 +1,6 @@
 # kayba-ai/agentic-context-engine
 
-⭐ 2,604 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/kayba-ai/agentic-context-engine) · [官网](https://www.kayba.ai) · 组织维护
+⭐ 2,605 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/kayba-ai/agentic-context-engine) · [官网](https://www.kayba.ai) · 组织维护
 
 **让 AI agent 从经验中学习的持久学习循环引擎**
 

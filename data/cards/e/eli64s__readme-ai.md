@@ -1,6 +1,6 @@
 # eli64s/readme-ai
 
-⭐ 3,006 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/eli64s/readme-ai) · [官网](https://eli64s.github.io/readme-ai/) · 个人维护
+⭐ 3,006 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eli64s/readme-ai) · [官网](https://eli64s.github.io/readme-ai/) · 个人维护
 
 **面向开发者的 README 自动生成 CLI 工具**
 

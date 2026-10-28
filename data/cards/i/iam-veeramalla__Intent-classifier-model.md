@@ -1,6 +1,6 @@
 # iam-veeramalla/Intent-classifier-model
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 79 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iam-veeramalla/Intent-classifier-model) · 个人维护
 
 **客服短文本意图分类小模型：五分类并经 Flask API 提供**
 

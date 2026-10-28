@@ -1,6 +1,6 @@
 # truefoundry/models
 
-⭐ 45 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/truefoundry/models) · [官网](https://www.truefoundry.com/models) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/truefoundry/models) · [官网](https://www.truefoundry.com/models) · 组织维护
 
 **社区维护的 AI/LLM 模型元数据注册表：24 家提供商的定价与限制**
 

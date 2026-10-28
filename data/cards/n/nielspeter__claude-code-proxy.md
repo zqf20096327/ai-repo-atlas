@@ -1,6 +1,6 @@
 # nielspeter/claude-code-proxy
 
-⭐ 38 · Go · MIT · 推送 2025-11-24 · [GitHub](https://github.com/nielspeter/claude-code-proxy) · 个人维护
+⭐ 39 · Go · MIT · 推送 2025-11-24 · [GitHub](https://github.com/nielspeter/claude-code-proxy) · 个人维护
 
 **让 Claude Code 使用 OpenRouter/OpenAI/Ollama 的 HTTP 代理**
 

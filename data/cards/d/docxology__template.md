@@ -1,6 +1,6 @@
 # docxology/template
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/docxology/template) · [官网](https://doi.org/10.5281/zenodo.19139090) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/docxology/template) · [官网](https://doi.org/10.5281/zenodo.19139090) · 个人维护
 
 **可复现计算研究的项目模板：17 阶段流水线与出版链**
 

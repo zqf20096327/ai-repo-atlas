@@ -1,6 +1,6 @@
 # mthines/lorekit
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mthines/lorekit) · [官网](https://lorekit.io) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mthines/lorekit) · [官网](https://lorekit.io) · 个人维护
 
 **为 AI 编程 agent 提供本地/远程持久记忆的 MCP 工具**
 

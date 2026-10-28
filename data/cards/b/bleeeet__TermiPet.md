@@ -1,6 +1,6 @@
 # bleeeet/TermiPet
 
-⭐ 85 · Swift · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bleeeet/TermiPet) · [官网](https://github.com/bleeeet/TermiPet/releases/tag/v0.1) · 个人维护 · 中文 README
+⭐ 86 · Swift · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/bleeeet/TermiPet) · [官网](https://github.com/bleeeet/TermiPet/releases/tag/v0.1) · 个人维护 · 中文 README
 
 **macOS 终端桌宠：陪伴 Claude Code 并查看状态与用量**
 

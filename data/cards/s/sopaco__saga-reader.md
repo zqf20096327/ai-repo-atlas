@@ -1,6 +1,6 @@
 # sopaco/saga-reader
 
-⭐ 530 · Rust · MIT · 推送 2026-07-11 · [GitHub](https://github.com/sopaco/saga-reader) · [官网](https://aiqino.netlify.app/) · 个人维护 · 中文 README
+⭐ 529 · Rust · MIT · 推送 2026-07-11 · [GitHub](https://github.com/sopaco/saga-reader) · [官网](https://aiqino.netlify.app/) · 个人维护 · 中文 README
 
 **AI 驱动的智库式互联网阅读器桌面应用**
 

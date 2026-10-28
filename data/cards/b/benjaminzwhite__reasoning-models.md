@@ -1,6 +1,6 @@
 # benjaminzwhite/reasoning-models
 
-⭐ 30 · 推送 2026-10-26 · [GitHub](https://github.com/benjaminzwhite/reasoning-models) · 个人维护
+⭐ 30 · 推送 2026-10-28 · [GitHub](https://github.com/benjaminzwhite/reasoning-models) · 个人维护
 
 **推理模型论文阅读清单：附短评的训练技术与测试时扩展文献**
 

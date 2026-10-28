@@ -1,6 +1,6 @@
 # thesysdev/openui
 
-⭐ 14,277 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/thesysdev/openui) · [官网](https://www.openui.com) · 组织维护
+⭐ 14,369 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/thesysdev/openui) · [官网](https://www.openui.com) · 组织维护
 
 **面向开发者的生成式 UI 框架：以流式语言渲染模型输出为界面**
 

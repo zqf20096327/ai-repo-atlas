@@ -1,6 +1,6 @@
 # earthspecies/alp-data
 
-⭐ 48 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/earthspecies/alp-data) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/earthspecies/alp-data) · 组织维护
 
 **统一 Python 接口访问 35+ 生物声学数据集的加载库**
 

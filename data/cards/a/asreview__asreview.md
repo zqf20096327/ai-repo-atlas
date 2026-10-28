@@ -1,6 +1,6 @@
 # asreview/asreview
 
-⭐ 1,053 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/asreview/asreview) · [官网](https://asreview.ai) · 组织维护
+⭐ 1,056 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/asreview/asreview) · [官网](https://asreview.ai) · 组织维护
 
 **系统综述文献筛选的主动学习工具：AI 排序相关记录**
 

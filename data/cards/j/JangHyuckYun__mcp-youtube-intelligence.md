@@ -1,6 +1,6 @@
 # JangHyuckYun/mcp-youtube-intelligence
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/JangHyuckYun/mcp-youtube-intelligence) · 个人维护 · 中文 README
+⭐ 53 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/JangHyuckYun/mcp-youtube-intelligence) · 个人维护 · 中文 README
 
 **YouTube 转录提取与内容分析的 MCP 服务器 + CLI**
 

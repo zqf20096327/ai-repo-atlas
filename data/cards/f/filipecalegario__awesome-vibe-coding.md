@@ -1,6 +1,6 @@
 # filipecalegario/awesome-vibe-coding
 
-⭐ 5,375 · CC0-1.0 · 推送 2026-04-16 · [GitHub](https://github.com/filipecalegario/awesome-vibe-coding) · 个人维护 · 中文 README
+⭐ 5,380 · CC0-1.0 · 推送 2026-04-16 · [GitHub](https://github.com/filipecalegario/awesome-vibe-coding) · 个人维护 · 中文 README
 
 **vibe coding 参考资源策展清单：协作式 AI 编程工具与资料汇总**
 

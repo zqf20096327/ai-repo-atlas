@@ -1,6 +1,6 @@
 # digitranslab/allama
 
-⭐ 200 · Python · AGPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/digitranslab/allama) · 组织维护
+⭐ 201 · Python · AGPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/digitranslab/allama) · 组织维护
 
 **面向 SOC 团队的开源自托管 AI 安全自动化（SOAR）平台**
 

@@ -1,6 +1,6 @@
 # FoundationAgents/MetaGPT
 
-⭐ 71,034 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
+⭐ 71,057 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
 
 **多智能体框架：模拟软件公司角色协作完成复杂任务**
 

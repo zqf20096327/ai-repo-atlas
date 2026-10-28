@@ -1,6 +1,6 @@
 # Yigtwxx/awesome-rag-production
 
-⭐ 284 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/Yigtwxx/awesome-rag-production) · [官网](https://yigtwxx.github.io/awesome-rag-production/) · 个人维护
+⭐ 286 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/Yigtwxx/awesome-rag-production) · [官网](https://yigtwxx.github.io/awesome-rag-production/) · 个人维护
 
 **生产级 RAG 工具与实践策展清单，面向 RAG 系统建设者**
 

@@ -1,6 +1,6 @@
 # weaviate/weaviate-io
 
-⭐ 88 · MDX · 推送 2026-10-27 · [GitHub](https://github.com/weaviate/weaviate-io) · [官网](https://weaviate.io) · 组织维护
+⭐ 88 · MDX · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/weaviate-io) · [官网](https://weaviate.io) · 组织维护
 
 **Weaviate 向量数据库文档站的源码仓库（构建与贡献指南）**
 

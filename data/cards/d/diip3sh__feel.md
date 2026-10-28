@@ -1,6 +1,6 @@
 # diip3sh/feel
 
-⭐ 58 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/diip3sh/feel) · [官网](https://diip3sh.github.io/feel) · 个人维护
+⭐ 60 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/diip3sh/feel) · [官网](https://diip3sh.github.io/feel) · 个人维护
 
 **给 Claude Code 的物理动效技能：描述手感生成弹簧组件**
 

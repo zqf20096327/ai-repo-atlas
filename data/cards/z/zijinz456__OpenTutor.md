@@ -1,6 +1,6 @@
 # zijinz456/OpenTutor
 
-⭐ 152 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zijinz456/OpenTutor) · 个人维护 · 中文 README
+⭐ 155 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zijinz456/OpenTutor) · 个人维护 · 中文 README
 
 **本地自托管的自适应 AI 学习平台：上传材料生成笔记与测验**
 

@@ -1,6 +1,6 @@
 # hsuanshao/AgentMemory
 
-⭐ 39 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hsuanshao/AgentMemory) · 个人维护 · 中文 README
+⭐ 39 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hsuanshao/AgentMemory) · 个人维护 · 中文 README
 
 **自托管的团队级 AI agent 长期记忆服务**
 

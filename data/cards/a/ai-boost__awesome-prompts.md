@@ -1,6 +1,6 @@
 # ai-boost/awesome-prompts
 
-⭐ 9,140 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://awesomegpt.vip) · 组织维护
+⭐ 9,143 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护
 
 **面向工程实践的 LLM/Agent 提示词、框架与论文策展清单**
 

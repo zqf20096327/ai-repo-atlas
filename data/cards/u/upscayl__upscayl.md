@@ -1,6 +1,6 @@
 # upscayl/upscayl
 
-⭐ 51,169 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
+⭐ 51,220 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/upscayl/upscayl) · [官网](https://upscayl.org) · 组织维护
 
 **面向普通用户的免费开源 AI 图像放大与增强桌面应用**
 

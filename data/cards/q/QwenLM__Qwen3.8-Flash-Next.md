@@ -1,6 +1,6 @@
 # QwenLM/Qwen3.8-Flash-Next
 
-⭐ 443 · 推送 2026-08-27 · [GitHub](https://github.com/QwenLM/Qwen3.8-Flash-Next) · [官网](https://qwen.ai) · 组织维护 · 中文 README
+⭐ 446 · 推送 2026-08-27 · [GitHub](https://github.com/QwenLM/Qwen3.8-Flash-Next) · [官网](https://qwen.ai) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队开源的 125B 多模态 MoE 基础模型权重**
 

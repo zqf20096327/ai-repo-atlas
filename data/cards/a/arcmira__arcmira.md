@@ -1,6 +1,6 @@
 # arcmira/arcmira
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/arcmira/arcmira) · [官网](https://arcmira.com) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/arcmira/arcmira) · [官网](https://arcmira.com) · 组织维护
 
 **Arcmira 官方 TypeScript SDK/CLI：搜索 YouTube 转录与品牌提及**
 

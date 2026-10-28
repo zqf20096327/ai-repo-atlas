@@ -1,6 +1,6 @@
 # StarlightSearch/EmbedAnything
 
-⭐ 1,320 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/StarlightSearch/EmbedAnything) · [官网](https://embed-anything.com/) · 组织维护
+⭐ 1,321 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/StarlightSearch/EmbedAnything) · [官网](https://embed-anything.com/) · 组织维护
 
 **Rust 编写的多模态嵌入推理与索引流水线库**
 

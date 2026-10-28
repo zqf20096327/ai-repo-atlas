@@ -1,6 +1,6 @@
 # biumind/biumind
 
-⭐ 32 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/biumind/biumind) · [官网](https://biumind.xxlab.tech) · 组织维护 · 中文 README
+⭐ 32 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/biumind/biumind) · [官网](https://biumind.xxlab.tech) · 组织维护 · 中文 README
 
 **一体化 AI 工作平台：文档、Agent、编码、笔记统一工作台**
 

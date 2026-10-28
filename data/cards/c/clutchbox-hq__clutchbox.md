@@ -1,6 +1,6 @@
 # clutchbox-hq/clutchbox
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/clutchbox-hq/clutchbox) · [官网](https://www.clutchbox.dev) · 组织维护
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/clutchbox-hq/clutchbox) · [官网](https://www.clutchbox.dev) · 组织维护
 
 **把用户登录态同步到 agent 运行环境的浏览器会话基础设施**
 

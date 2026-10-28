@@ -1,6 +1,6 @@
 # warpfront/hipfire
 
-⭐ 758 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/warpfront/hipfire) · 组织维护
+⭐ 762 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/warpfront/hipfire) · 组织维护
 
 **面向 AMD GPU 的 Rust 本地 LLM 推理引擎**
 

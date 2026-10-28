@@ -1,6 +1,6 @@
 # lucidrains/locoformer
 
-⭐ 129 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/lucidrains/locoformer) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lucidrains/locoformer) · 个人维护
 
 **基于 Transformer-XL 的跨形态机器人运动模型库（wip）**
 

@@ -1,6 +1,6 @@
 # n2cholas/awesome-jax
 
-⭐ 2,169 · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/n2cholas/awesome-jax) · 个人维护
+⭐ 2,170 · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/n2cholas/awesome-jax) · 个人维护
 
 **JAX 生态资源策展清单：收录库、模型实现与项目**
 

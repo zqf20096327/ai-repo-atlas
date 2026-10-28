@@ -1,6 +1,6 @@
 # congwa/embedease-ai
 
-⭐ 70 · Python · 推送 2026-10-19 · [GitHub](https://github.com/congwa/embedease-ai) · [官网](https://embedease-ai.sub2.org/) · 个人维护 · 中文 README
+⭐ 70 · Python · 推送 2026-10-28 · [GitHub](https://github.com/congwa/embedease-ai) · [官网](https://embedease-ai.sub2.org/) · 个人维护 · 中文 README
 
 **面向网站的可嵌入 AI 智能客服与商品推荐系统**
 

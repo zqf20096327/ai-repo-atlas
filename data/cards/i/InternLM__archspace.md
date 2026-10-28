@@ -1,6 +1,6 @@
 # InternLM/archspace
 
-⭐ 87 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/InternLM/archspace) · [官网](https://www.archspace.live/) · 组织维护 · 中文 README
+⭐ 88 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/InternLM/archspace) · [官网](https://www.archspace.live/) · 组织维护 · 中文 README
 
 **面向社区的 LLM 架构假设开放式验证与知识共享实验**
 

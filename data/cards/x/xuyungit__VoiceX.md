@@ -1,6 +1,6 @@
 # xuyungit/VoiceX
 
-⭐ 19 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xuyungit/VoiceX) · 个人维护 · 中文 README
+⭐ 19 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xuyungit/VoiceX) · 个人维护 · 中文 README
 
 **跨平台桌面语音工作台：在任意应用里语音听写、翻译与朗读**
 

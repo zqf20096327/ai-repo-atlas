@@ -1,6 +1,6 @@
 # vivekchand/clawmetry
 
-⭐ 435 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/vivekchand/clawmetry) · [官网](https://clawmetry.com) · 个人维护 · 中文 README
+⭐ 435 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vivekchand/clawmetry) · [官网](https://clawmetry.com) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 可观测与治理面板，读取 33 种 agent 运行时会话**
 

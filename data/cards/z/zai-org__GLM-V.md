@@ -1,6 +1,6 @@
 # zai-org/GLM-V
 
-⭐ 2,403 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zai-org/GLM-V) · 组织维护 · 中文 README
+⭐ 2,404 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/zai-org/GLM-V) · 组织维护 · 中文 README
 
 **智谱开源的 GLM-V 系列视觉语言模型（图像/视频理解与推理）**
 

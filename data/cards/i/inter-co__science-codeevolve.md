@@ -1,6 +1,6 @@
 # inter-co/science-codeevolve
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-04-08 · [GitHub](https://github.com/inter-co/science-codeevolve) · [官网](https://arxiv.org/abs/2510.14150) · 组织维护
+⭐ 153 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/inter-co/science-codeevolve) · [官网](https://arxiv.org/abs/2510.14150) · 组织维护
 
 **开源 LLM+遗传算法的代码进化优化框架，用于算法发现与优化**
 

@@ -1,6 +1,6 @@
 # YOLOW92/pagesift
 
-⭐ 113 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/YOLOW92/pagesift) · 个人维护 · 中文 README
+⭐ 122 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/YOLOW92/pagesift) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Rust 网页抓取与内容提取引擎**
 

@@ -1,6 +1,6 @@
 # anthropics/claude-constitution
 
-⭐ 149 · CC0-1.0 · 推送 2026-01-29 · [GitHub](https://github.com/anthropics/claude-constitution) · 组织维护
+⭐ 148 · CC0-1.0 · 推送 2026-01-29 · [GitHub](https://github.com/anthropics/claude-constitution) · 组织维护
 
 **Anthropic 发布的 Claude 价值观与行为准则文档**
 

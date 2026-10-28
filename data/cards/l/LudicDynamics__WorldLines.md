@@ -1,6 +1,6 @@
 # LudicDynamics/WorldLines
 
-⭐ 105 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/LudicDynamics/WorldLines) · [官网](https://worldlines.gg) · 组织维护 · 中文 README
+⭐ 107 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/LudicDynamics/WorldLines) · [官网](https://worldlines.gg) · 组织维护 · 中文 README
 
 **多 agent 实时模拟引擎：AI 角色各自有记忆与目标的可扮演角色扮演世界**
 

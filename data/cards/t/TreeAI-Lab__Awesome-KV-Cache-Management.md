@@ -1,6 +1,6 @@
 # TreeAI-Lab/Awesome-KV-Cache-Management
 
-⭐ 365 · 推送 2026-07-16 · [GitHub](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) · 组织维护
+⭐ 366 · 推送 2026-07-16 · [GitHub](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) · 组织维护
 
 **LLM KV Cache 管理加速方向的论文综述清单**
 

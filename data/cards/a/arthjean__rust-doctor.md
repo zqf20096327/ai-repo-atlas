@@ -1,6 +1,6 @@
 # arthjean/rust-doctor
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/arthjean/rust-doctor) · [官网](rust-doctor.com) · 个人维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/arthjean/rust-doctor) · [官网](rust-doctor.com) · 个人维护
 
 **审查 AI 生成 Rust 代码的本地静态分析工具**
 

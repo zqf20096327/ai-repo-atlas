@@ -1,6 +1,6 @@
 # Agent-Field/agentfield
 
-⭐ 2,625 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
+⭐ 2,629 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
 
 **给开发者的 AI agent 控制平面：像 API 一样构建与运行 agent**
 

@@ -1,6 +1,6 @@
 # weaviate/typescript-client
 
-⭐ 101 · TypeScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/weaviate/typescript-client) · [官网](https://npmjs.com/package/weaviate-client) · 组织维护
+⭐ 101 · TypeScript · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/typescript-client) · [官网](https://npmjs.com/package/weaviate-client) · 组织维护
 
 **Weaviate 官方 JS/TS 客户端库：便捷交互向量数据库实例**
 

@@ -1,6 +1,6 @@
 # NVIDIA/xr-ai
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/xr-ai) · [官网](https://nvidia.github.io/xr-ai/) · 组织维护
+⭐ 99 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/xr-ai) · [官网](https://nvidia.github.io/xr-ai/) · 组织维护
 
 **面向 XR 的多模态实时对话 AI agent 开源基础框架**
 

@@ -1,6 +1,6 @@
 # realZachi/shotluma
 
-⭐ 152 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/realZachi/shotluma) · [官网](https://shotluma.com) · 个人维护
 
 **浏览器内本地优先的 iOS 截图画布编辑器，AI agent 生成可编辑设计**
 

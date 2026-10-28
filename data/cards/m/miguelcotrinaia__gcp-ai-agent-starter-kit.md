@@ -1,6 +1,6 @@
 # miguelcotrinaia/gcp-ai-agent-starter-kit
 
-⭐ 23 · Jupyter Notebook · 推送 2026-10-12 · [GitHub](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) · 个人维护
+⭐ 24 · Jupyter Notebook · 推送 2026-10-12 · [GitHub](https://github.com/miguelcotrinaia/gcp-ai-agent-starter-kit) · 个人维护
 
 **在 GCP 上构建 LangChain RAG 智能体的教学系列仓库（13 集）**
 

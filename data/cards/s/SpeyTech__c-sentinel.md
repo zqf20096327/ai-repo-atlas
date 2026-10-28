@@ -1,6 +1,6 @@
 # SpeyTech/c-sentinel
 
-⭐ 72 · C · MIT · 推送 2026-03-28 · [GitHub](https://github.com/SpeyTech/c-sentinel) · [官网](https://speytech.com/) · 个人维护
+⭐ 71 · C · MIT · 推送 2026-03-28 · [GitHub](https://github.com/SpeyTech/c-sentinel) · [官网](https://speytech.com/) · 个人维护
 
 **C 编写的 UNIX 系统指纹采集器，供 AI 辅助安全分析**
 

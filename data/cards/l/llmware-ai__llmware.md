@@ -1,6 +1,6 @@
 # llmware-ai/llmware
 
-⭐ 14,817 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
+⭐ 14,816 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/llmware-ai/llmware) · [官网](https://llmware-ai.github.io/llmware/) · 组织维护
 
 **为企业在本地/边缘设备构建小型专用模型 RAG 应用的统一框架**
 

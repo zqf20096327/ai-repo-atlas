@@ -1,6 +1,6 @@
 # netdata/netdata
 
-⭐ 81,185 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
+⭐ 81,200 · Go · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/netdata/netdata) · [官网](https://www.netdata.cloud) · 组织维护
 
 **为基础设施团队提供每秒级实时监控与 ML 异常检测**
 

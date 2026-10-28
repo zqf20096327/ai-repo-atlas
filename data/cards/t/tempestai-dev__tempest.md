@@ -1,6 +1,6 @@
 # tempestai-dev/tempest
 
-⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/tempestai-dev/tempest) · [官网](https://tempestai.dev) · 组织维护
+⭐ 194 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tempestai-dev/tempest) · [官网](https://tempestai.dev) · 组织维护
 
 **并行运行 Claude Code、Codex 等 CLI Agent 的桌面管理器**
 

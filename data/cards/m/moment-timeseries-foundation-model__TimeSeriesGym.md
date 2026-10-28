@@ -1,6 +1,6 @@
 # moment-timeseries-foundation-model/TimeSeriesGym
 
-⭐ 53 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/moment-timeseries-foundation-model/TimeSeriesGym) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/moment-timeseries-foundation-model/TimeSeriesGym) · 组织维护
 
 **面向时间序列 ML 工程 Agent 的评测基准（33 项挑战）**
 

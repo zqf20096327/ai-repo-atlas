@@ -1,6 +1,6 @@
 # GZX2211/dsh-Visual-Workflow
 
-⭐ 54 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/GZX2211/dsh-Visual-Workflow) · 个人维护 · 中文 README
+⭐ 56 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/GZX2211/dsh-Visual-Workflow) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的可视化 Agent 编排插件平台**
 

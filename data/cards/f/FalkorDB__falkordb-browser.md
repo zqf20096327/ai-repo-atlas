@@ -1,6 +1,6 @@
 # FalkorDB/falkordb-browser
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/FalkorDB/falkordb-browser) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/FalkorDB/falkordb-browser) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的可视化管理界面（含 AI 修错）**
 

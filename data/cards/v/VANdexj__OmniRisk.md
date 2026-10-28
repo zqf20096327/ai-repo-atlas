@@ -1,6 +1,6 @@
 # VANdexj/OmniRisk
 
-⭐ 56 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/VANdexj/OmniRisk) · [官网](https://arxiv.org/abs/2609.18191) · 组织维护
+⭐ 55 · C++ · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/VANdexj/OmniRisk) · [官网](https://arxiv.org/abs/2609.18191) · 组织维护
 
 **四旋翼全向轨迹风险学习：机载一次前向评估全部机动避障**
 

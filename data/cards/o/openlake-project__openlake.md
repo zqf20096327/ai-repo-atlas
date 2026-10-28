@@ -1,6 +1,6 @@
 # openlake-project/openlake
 
-⭐ 2,637 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
+⭐ 2,636 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
 
 **面向 LLM 推理与 GPU 训练的高吞吐分布式存储引擎**
 

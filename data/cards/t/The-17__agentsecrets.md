@@ -1,6 +1,6 @@
 # The-17/agentsecrets
 
-⭐ 194 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/The-17/agentsecrets) · [官网](https://agentsecrets.tech) · 个人维护
+⭐ 194 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/The-17/agentsecrets) · [官网](https://agentsecrets.tech) · 个人维护
 
 **面向 AI agent 的零知识凭证基础设施：agent 只引用键名不接触明文**
 

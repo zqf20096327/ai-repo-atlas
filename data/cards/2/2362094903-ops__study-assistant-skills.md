@@ -1,6 +1,6 @@
 # 2362094903-ops/study-assistant-skills
 
-⭐ 28 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/2362094903-ops/study-assistant-skills) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/2362094903-ops/study-assistant-skills) · 个人维护 · 中文 README
 
 **面向备考用户的 Claude Code 学习辅导 Skill 套件**
 

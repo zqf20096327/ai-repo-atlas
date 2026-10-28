@@ -1,6 +1,6 @@
 # awizemann/scarf
 
-⭐ 898 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/awizemann/scarf) · [官网](https://awizemann.github.io/scarf/) · 个人维护 · 中文 README
+⭐ 900 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/awizemann/scarf) · [官网](https://awizemann.github.io/scarf/) · 个人维护 · 中文 README
 
 **Hermes AI agent 的原生 macOS/iOS 图形客户端**
 

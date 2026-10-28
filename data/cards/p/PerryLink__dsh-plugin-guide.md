@@ -1,6 +1,6 @@
 # PerryLink/dsh-plugin-guide
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-plugin-guide) · [官网](https://perrylink.github.io/plugins/dsh-plugin-guide/) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-plugin-guide) · [官网](https://perrylink.github.io/plugins/dsh-plugin-guide/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件开发知识库与 CLI 工具链，装为 agent 技能**
 

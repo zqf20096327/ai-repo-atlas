@@ -1,6 +1,6 @@
 # google-deepmind/synthid-text
 
-⭐ 1,206 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/synthid-text) · 组织维护
+⭐ 1,208 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/synthid-text) · 组织维护
 
 **LLM 文本水印的参考实现：为模型输出加水印并检测**
 

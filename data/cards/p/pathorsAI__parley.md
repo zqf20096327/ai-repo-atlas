@@ -1,6 +1,6 @@
 # pathorsAI/parley
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/pathorsAI/parley) · [官网](https://parley.tw) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pathorsAI/parley) · [官网](https://parley.tw) · 组织维护 · 中文 README
 
 **给销售/谈判通话做实时 AI 教练的本地优先 macOS/Windows 应用**
 

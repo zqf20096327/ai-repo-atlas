@@ -1,6 +1,6 @@
 # elisaterumi-ai/agent-skills-in-practice
 
-⭐ 132 · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/elisaterumi-ai/agent-skills-in-practice) · 个人维护
+⭐ 131 · Apache-2.0 · 推送 2026-05-16 · [GitHub](https://github.com/elisaterumi-ai/agent-skills-in-practice) · 个人维护
 
 **AI 技能（Skills）设计与应用的实践指南**
 

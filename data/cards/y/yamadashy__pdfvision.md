@@ -1,6 +1,6 @@
 # yamadashy/pdfvision
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yamadashy/pdfvision) · [官网](https://pdfvision.dev) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yamadashy/pdfvision) · [官网](https://pdfvision.dev) · 个人维护
 
 **面向 AI agent 的 PDF 提取工具：CLI/MCP/TS 库，暴露提取失败**
 

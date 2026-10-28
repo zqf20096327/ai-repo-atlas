@@ -1,6 +1,6 @@
 # vynect/venom
 
-⭐ 6,595 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/vynect/venom) · [官网](https://orkestral.io) · 组织维护
+⭐ 6,597 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/vynect/venom) · [官网](https://orkestral.io) · 组织维护
 
 **JavaScript/TypeScript 开发者的 WhatsApp 自动化库**
 

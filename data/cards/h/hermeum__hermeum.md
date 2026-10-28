@@ -1,6 +1,6 @@
 # hermeum/hermeum
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/hermeum/hermeum) · [官网](https://docs.hermeum.app) · 组织维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/hermeum/hermeum) · [官网](https://docs.hermeum.app) · 组织维护
 
 **Kubernetes 上部署与管理 Hermes 自主 agent 的平台**
 

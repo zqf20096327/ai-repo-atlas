@@ -1,6 +1,6 @@
 # freud14/poutyne
 
-⭐ 579 · Python · LGPL-3.0 · 推送 2026-06-07 · [GitHub](https://github.com/freud14/poutyne) · [官网](https://poutyne.org/) · 组织维护
+⭐ 578 · Python · LGPL-3.0 · 推送 2026-06-07 · [GitHub](https://github.com/freud14/poutyne) · [官网](https://poutyne.org/) · 组织维护
 
 **PyTorch 简化训练框架：省去训练神经网络的样板代码**
 

@@ -1,6 +1,6 @@
 # error2913/aiplugin4
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/error2913/aiplugin4) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/error2913/aiplugin4) · 个人维护 · 中文 README
 
 **SealDice 骰娘的 AI 对话插件，接入大模型 API 扮演 TRPG 角色**
 

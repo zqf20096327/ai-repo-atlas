@@ -1,6 +1,6 @@
 # airtasystems/DVAIA-Damn-Vulnerable-AI-Application
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 45 · Python · 推送 2026-07-21 · [GitHub](https://github.com/airtasystems/DVAIA-Damn-Vulnerable-AI-Application) · 组织维护
 
 **面向 LLM 红队训练的漏洞靶场 Web 应用**
 

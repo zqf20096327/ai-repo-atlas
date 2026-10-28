@@ -1,6 +1,6 @@
 # shcherbak-ai/contextgem
 
-⭐ 2,025 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
+⭐ 2,033 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
 
 **用 LLM 与决策模型从文档抽取结构化数据的 Python 框架**
 

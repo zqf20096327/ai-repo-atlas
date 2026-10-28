@@ -1,6 +1,6 @@
 # probelabs/visor
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/probelabs/visor) · [官网](https://probelabs.com/visor) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/probelabs/visor) · [官网](https://probelabs.com/visor) · 组织维护
 
 **YAML 驱动的 AI 工作流引擎：编排检查、MCP 工具与 AI 供应商**
 

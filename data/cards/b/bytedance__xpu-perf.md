@@ -1,6 +1,6 @@
 # bytedance/xpu-perf
 
-⭐ 394 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/bytedance/xpu-perf) · [官网](https://xpu-perf.ai/) · 组织维护 · 中文 README
+⭐ 396 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/bytedance/xpu-perf) · [官网](https://xpu-perf.ai/) · 组织维护 · 中文 README
 
 **面向生产的 AI 加速器评测基准，覆盖算子到业务层**
 

@@ -1,6 +1,6 @@
 # potpie-ai/potpie
 
-⭐ 5,771 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/potpie-ai/potpie) · [官网](https://potpie.ai) · 组织维护
+⭐ 5,774 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/potpie-ai/potpie) · [官网](https://potpie.ai) · 组织维护
 
 **把代码库与研发流程索引为 AI agent 上下文图谱的 CLI 工具**
 

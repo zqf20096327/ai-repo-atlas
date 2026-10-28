@@ -1,6 +1,6 @@
 # Deuz-AI/Deuz-SDK
 
-⭐ 520 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Deuz-AI/Deuz-SDK) · [官网](https://deuz-sdk.tech) · 个人维护
+⭐ 512 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Deuz-AI/Deuz-SDK) · [官网](https://deuz-sdk.tech) · 个人维护
 
 **零依赖 TypeScript AI Agent 框架：模型、Agent 与群体编排**
 

@@ -1,6 +1,6 @@
 # lgarciamarrero92/ha-nilm
 
-⭐ 57 · HTML · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/lgarciamarrero92/ha-nilm) · [官网](https://ha-nilm.bigwicho.com/) · 个人维护
+⭐ 58 · HTML · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/lgarciamarrero92/ha-nilm) · [官网](https://ha-nilm.bigwicho.com/) · 个人维护
 
 **Home Assistant 本地 NILM：从总电表推测各电器活动与能耗**
 

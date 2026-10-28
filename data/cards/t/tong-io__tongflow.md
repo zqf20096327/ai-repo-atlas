@@ -1,6 +1,6 @@
 # tong-io/tongflow
 
-⭐ 1,047 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/tong-io/tongflow) · [官网](https://app.tongflow.com/workspace) · 组织维护 · 中文 README
+⭐ 1,048 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/tong-io/tongflow) · [官网](https://app.tongflow.com/workspace) · 组织维护 · 中文 README
 
 **多模态优先的开源 GenAI 平台：画布式组合文本/图像/音频/视频/3D 工作流**
 

@@ -1,6 +1,6 @@
 # Ranork/remnus-app
 
-⭐ 73 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Ranork/remnus-app) · [官网](https://remnus.com) · 个人维护
+⭐ 74 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Ranork/remnus-app) · [官网](https://remnus.com) · 个人维护
 
 **人与 AI agent 协作的 MCP 原生工作区：页面/数据库/看板**
 

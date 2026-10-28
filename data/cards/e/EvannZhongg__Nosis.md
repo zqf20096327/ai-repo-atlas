@@ -1,6 +1,6 @@
 # EvannZhongg/Nosis
 
-⭐ 16 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/EvannZhongg/Nosis) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EvannZhongg/Nosis) · 个人维护 · 中文 README
 
 **个人本地 AI agent 应用：沙箱执行、桌面操作与长期记忆**
 

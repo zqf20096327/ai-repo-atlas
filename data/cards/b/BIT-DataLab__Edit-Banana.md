@@ -1,6 +1,6 @@
 # BIT-DataLab/Edit-Banana
 
-⭐ 5,499 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/BIT-DataLab/Edit-Banana) · [官网](https://www.editbanana.net) · 组织维护 · 中文 README
+⭐ 5,498 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/BIT-DataLab/Edit-Banana) · [官网](https://www.editbanana.net) · 组织维护 · 中文 README
 
 **将静态图表图片转换为可编辑 DrawIO XML 的框架**
 

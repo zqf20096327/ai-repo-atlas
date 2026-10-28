@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment
 
-⭐ 22 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · [官网](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · 个人维护
+⭐ 23 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · [官网](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · 个人维护
 
 **面向学习者的机器学习实验 Jupyter Notebook 集合**
 

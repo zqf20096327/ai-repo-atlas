@@ -1,6 +1,6 @@
 # Goldziher/basemind
 
-⭐ 113 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Goldziher/basemind) · [官网](https://basemind.ai) · 个人维护
+⭐ 114 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Goldziher/basemind) · [官网](https://basemind.ai) · 个人维护
 
 **给编码 agent 的 MCP 上下文与通信层服务器**
 

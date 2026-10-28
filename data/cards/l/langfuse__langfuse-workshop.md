@@ -1,6 +1,6 @@
 # langfuse/langfuse-workshop
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/langfuse-workshop) · [官网](https://langfuse.com/workshop) · 组织维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/langfuse-workshop) · [官网](https://langfuse.com/workshop) · 组织维护
 
 **端到端 Langfuse 工作坊：用 TypeScript 示例应用讲授 AI 工程闭环**
 

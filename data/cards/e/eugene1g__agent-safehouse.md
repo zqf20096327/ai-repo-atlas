@@ -1,6 +1,6 @@
 # eugene1g/agent-safehouse
 
-⭐ 2,121 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eugene1g/agent-safehouse) · [官网](https://agent-safehouse.dev) · 个人维护
+⭐ 2,124 · Shell · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/eugene1g/agent-safehouse) · [官网](https://agent-safehouse.dev) · 个人维护
 
 **macOS 上为 LLM 编程 agent 做文件/集成权限沙箱的加固层**
 

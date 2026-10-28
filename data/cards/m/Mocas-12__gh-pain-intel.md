@@ -1,6 +1,6 @@
 # Mocas-12/gh-pain-intel
 
-⭐ 30 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Mocas-12/gh-pain-intel) · [官网](https://gh-pain-intel-8egvafff3urokytzxa63x2.streamlit.app/) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Mocas-12/gh-pain-intel) · [官网](https://gh-pain-intel-8egvafff3urokytzxa63x2.streamlit.app/) · 个人维护 · 中文 README
 
 **用 LLM 分析 GitHub issues 痛点并生成市场调研报告的工具**
 

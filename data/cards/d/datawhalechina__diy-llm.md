@@ -1,6 +1,6 @@
 # datawhalechina/diy-llm
 
-⭐ 1,932 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
+⭐ 1,963 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
 
 **面向中文学习者的 LLM 全栈中文课程（CS336 中文版，6 项代码作业）**
 

@@ -1,6 +1,6 @@
 # amicalhq/amical
 
-⭐ 1,572 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/amicalhq/amical) · [官网](https://amical.ai) · 组织维护
+⭐ 1,572 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/amicalhq/amical) · [官网](https://amical.ai) · 组织维护
 
 **本地优先的 AI 听写与语音笔记桌面应用**
 

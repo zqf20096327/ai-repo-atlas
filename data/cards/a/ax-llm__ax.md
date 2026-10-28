@@ -1,6 +1,6 @@
 # ax-llm/ax
 
-⭐ 2,971 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ax-llm/ax) · [官网](http://axllm.dev) · 个人维护
+⭐ 2,972 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ax-llm/ax) · [官网](http://axllm.dev) · 个人维护
 
 **TypeScript 优先的 DSPy 式 LLM 编程框架，多语言生成移植**
 

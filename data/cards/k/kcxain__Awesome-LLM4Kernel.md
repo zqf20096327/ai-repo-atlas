@@ -1,6 +1,6 @@
 # kcxain/Awesome-LLM4Kernel
 
-⭐ 82 · HTML · 推送 2026-03-31 · [GitHub](https://github.com/kcxain/Awesome-LLM4Kernel) · [官网](https://kechang.xin/Awesome-LLM4Kernel/) · 个人维护
+⭐ 83 · HTML · 推送 2026-03-31 · [GitHub](https://github.com/kcxain/Awesome-LLM4Kernel) · [官网](https://kechang.xin/Awesome-LLM4Kernel/) · 个人维护
 
 **LLM 辅助 GPU 内核开发领域的论文/基准综述清单**
 

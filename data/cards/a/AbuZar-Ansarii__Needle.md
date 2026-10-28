@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/Needle
 
-⭐ 185 · Python · 推送 2026-10-22 · [GitHub](https://github.com/AbuZar-Ansarii/Needle) · 个人维护
+⭐ 187 · Python · 推送 2026-10-22 · [GitHub](https://github.com/AbuZar-Ansarii/Needle) · 个人维护
 
 **Android/Termux 上的超轻量本地 agentic 助手，用自然语言控制手机**
 

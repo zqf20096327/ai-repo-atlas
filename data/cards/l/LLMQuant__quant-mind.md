@@ -1,6 +1,6 @@
 # LLMQuant/quant-mind
 
-⭐ 3,116 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/LLMQuant/quant-mind) · [官网](http://llmquantdata.com/) · 组织维护
+⭐ 3,118 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/LLMQuant/quant-mind) · [官网](http://llmquantdata.com/) · 组织维护
 
 **量化金融知识抽取与检索框架，供 agent 构建流水线**
 

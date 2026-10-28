@@ -1,6 +1,6 @@
 # raghavpillai/openteam
 
-⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/raghavpillai/openteam) · [官网](https://openteam.so) · 组织维护
+⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/raghavpillai/openteam) · [官网](https://openteam.so) · 组织维护
 
 **自托管多 AI 代理：带持久记忆、浏览器与电脑访问及定时任务**
 

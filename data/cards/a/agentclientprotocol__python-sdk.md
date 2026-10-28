@@ -1,6 +1,6 @@
 # agentclientprotocol/python-sdk
 
-⭐ 341 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
+⭐ 341 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
 
 **Agent Client Protocol 的 Python SDK：构建 ACP 客户端与 agent**
 

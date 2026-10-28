@@ -1,6 +1,6 @@
 # yuanchenyang/smalldiffusion
 
-⭐ 794 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/yuanchenyang/smalldiffusion) · [官网](https://www.chenyang.co/diffusion.html) · 个人维护
+⭐ 795 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/yuanchenyang/smalldiffusion) · [官网](https://www.chenyang.co/diffusion.html) · 个人维护
 
 **轻量扩散/流模型训练与采样库，面向实验与快速上手**
 

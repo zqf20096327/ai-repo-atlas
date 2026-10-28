@@ -1,6 +1,6 @@
 # momaek/tolato
 
-⭐ 21 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/momaek/tolato) · 个人维护 · 中文 README
+⭐ 21 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/momaek/tolato) · 个人维护 · 中文 README
 
 **让已有 AI agent 用自然语言管理服务器机群的自托管平台**
 

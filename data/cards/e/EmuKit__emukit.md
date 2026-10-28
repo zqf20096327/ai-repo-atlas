@@ -1,6 +1,6 @@
 # EmuKit/emukit
 
-⭐ 678 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/EmuKit/emukit) · [官网](https://emukit.github.io/emukit/) · 组织维护
+⭐ 679 · Python · Apache-2.0 · 推送 2026-08-30 · [GitHub](https://github.com/EmuKit/emukit) · [官网](https://emukit.github.io/emukit/) · 组织维护
 
 **不确定性下决策的 Python 工具箱：贝叶斯优化、实验设计等**
 

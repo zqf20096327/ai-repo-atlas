@@ -1,6 +1,6 @@
 # rddmwmddr/android-ad-cleaner
 
-⭐ 3,147 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rddmwmddr/android-ad-cleaner) · 个人维护 · 中文 README
+⭐ 4,245 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rddmwmddr/android-ad-cleaner) · 个人维护 · 中文 README
 
 **不 root 关闭国产安卓手机系统广告与营销推送的工具，支持 AI 智能体执行**
 

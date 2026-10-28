@@ -1,6 +1,6 @@
 # ZHZisZZ/dllm
 
-⭐ 2,717 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/ZHZisZZ/dllm) · [官网](https://arxiv.org/pdf/2602.22661) · 组织维护
+⭐ 2,720 · Python · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/ZHZisZZ/dllm) · [官网](https://arxiv.org/pdf/2602.22661) · 组织维护
 
 **扩散语言模型统一训练与评测库，面向研究者**
 

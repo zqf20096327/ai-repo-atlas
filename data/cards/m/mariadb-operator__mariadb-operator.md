@@ -1,6 +1,6 @@
 # mariadb-operator/mariadb-operator
 
-⭐ 1,028 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
+⭐ 1,030 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mariadb-operator/mariadb-operator) · [官网](https://github.com/mariadb-operator/mariadb-operator/blob/main/docs/README.md) · 组织维护
 
 **Kubernetes 上以 CRD 声明式运维 MariaDB 的 operator**
 

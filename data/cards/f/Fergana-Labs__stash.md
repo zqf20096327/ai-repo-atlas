@@ -1,6 +1,6 @@
 # Fergana-Labs/stash
 
-⭐ 339 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Fergana-Labs/stash) · [官网](https://www.joinstash.ai) · 组织维护
+⭐ 340 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Fergana-Labs/stash) · [官网](https://www.joinstash.ai) · 组织维护
 
 **让 coding agent 从历史经验中学习的知识与技能基础设施**
 

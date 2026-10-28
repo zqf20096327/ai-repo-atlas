@@ -1,6 +1,6 @@
 # jmagly/aiwg
 
-⭐ 225 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 个人维护
+⭐ 225 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 个人维护
 
 **为多种 AI 编码工具提供可复用上下文与工作流的部署框架**
 

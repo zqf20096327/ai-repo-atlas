@@ -1,6 +1,6 @@
 # rockbenben/ai-job-search-cn
 
-⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · 个人维护 · 中文 README
 
 **本机运行的国内 AI 求职助手：搜岗、按国内门槛评分、出话术与简历**
 

@@ -1,6 +1,6 @@
 # GopherSecurity/gopher-mcp
 
-⭐ 152 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/GopherSecurity/gopher-mcp) · [官网](https://gopher.security) · 组织维护
+⭐ 153 · C++ · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/GopherSecurity/gopher-mcp) · [官网](https://gopher.security) · 组织维护
 
 **面向 C++ 开发者的 MCP SDK：构建 MCP 服务器与客户端**
 

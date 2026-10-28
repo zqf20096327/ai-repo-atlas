@@ -1,6 +1,6 @@
 # EasyRoc/edu-rag
 
-⭐ 58 · Python · 推送 2026-10-18 · [GitHub](https://github.com/EasyRoc/edu-rag) · [官网](https://github.com/EasyRoc/edu-rag) · 组织维护 · 中文 README
+⭐ 59 · Python · 推送 2026-10-18 · [GitHub](https://github.com/EasyRoc/edu-rag) · [官网](https://github.com/EasyRoc/edu-rag) · 组织维护 · 中文 README
 
 **面向 K12 教育的本地 RAG 知识库问答系统**
 

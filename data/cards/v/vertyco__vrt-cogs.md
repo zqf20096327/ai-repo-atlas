@@ -1,6 +1,6 @@
 # vertyco/vrt-cogs
 
-⭐ 85 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vertyco/vrt-cogs) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vertyco/vrt-cogs) · 个人维护
 
 **面向 Red-DiscordBot 的实用与娱乐插件（cog）合集**
 

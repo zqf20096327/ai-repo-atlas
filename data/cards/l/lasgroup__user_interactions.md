@@ -1,6 +1,6 @@
 # lasgroup/user_interactions
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/lasgroup/user_interactions) · [官网](https://self-distillation.github.io/user_interactions) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/lasgroup/user_interactions) · [官网](https://self-distillation.github.io/user_interactions) · 组织维护
 
 **SDPO：通过用户交互自蒸馏对齐语言模型的训练与评测代码**
 

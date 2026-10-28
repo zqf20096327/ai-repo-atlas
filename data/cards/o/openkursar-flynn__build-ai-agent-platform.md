@@ -1,6 +1,6 @@
 # openkursar-flynn/build-ai-agent-platform
 
-⭐ 94 · TypeScript · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openkursar-flynn/build-ai-agent-platform) · [官网](https://book.imwangfu.com/) · 个人维护 · 中文 README
+⭐ 95 · TypeScript · NOASSERTION · 推送 2026-08-18 · [GitHub](https://github.com/openkursar-flynn/build-ai-agent-platform) · [官网](https://book.imwangfu.com/) · 个人维护 · 中文 README
 
 **拆解 30 万行 AI Agent 平台的技术书（中文）**
 

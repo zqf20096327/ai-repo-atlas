@@ -1,6 +1,6 @@
 # flowmux-ai/flowmux
 
-⭐ 21 · Rust · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/flowmux-ai/flowmux) · [官网](https://flowmux.org) · 组织维护
+⭐ 21 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/flowmux-ai/flowmux) · [官网](https://flowmux.org) · 组织维护
 
 **面向 AI 编程 Agent 的终端复用器：并排运行多个 Agent 并提供通知与浏览器**
 

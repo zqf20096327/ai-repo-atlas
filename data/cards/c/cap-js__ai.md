@@ -1,6 +1,6 @@
 # cap-js/ai
 
-⭐ 32 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cap-js/ai) · 组织维护
+⭐ 32 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cap-js/ai) · 组织维护
 
 **CAP 应用的 AI 插件：AI Core 推荐、集成与本地向量嵌入**
 

@@ -1,6 +1,6 @@
 # lettidude/LiveActionAOV
 
-⭐ 55 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lettidude/LiveActionAOV) · [官网](https://youtu.be/HnosSnK1MKs) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lettidude/LiveActionAOV) · [官网](https://youtu.be/HnosSnK1MKs) · 个人维护
 
 **为实拍 VFX 镜头生成深度/法线/运动/遮罩 AOV 的 AI 工具**
 

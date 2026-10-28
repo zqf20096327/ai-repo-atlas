@@ -1,6 +1,6 @@
 # KaguraNanaga/official-document-writing-skill
 
-⭐ 309 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/KaguraNanaga/official-document-writing-skill) · 个人维护 · 中文 README
+⭐ 308 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/KaguraNanaga/official-document-writing-skill) · 个人维护 · 中文 README
 
 **面向公文写作者的中文公文写作 AI Skill 工具包**
 

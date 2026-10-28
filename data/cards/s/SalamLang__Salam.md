@@ -1,6 +1,6 @@
 # SalamLang/Salam
 
-⭐ 71 · TeX · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SalamLang/Salam) · [官网](https://salamlang.github.io/Salam/) · 组织维护
+⭐ 80 · TeX · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/SalamLang/Salam) · [官网](https://salamlang.github.io/Salam/) · 组织维护
 
 **面向波斯语和英语用户的通用与系统级编程语言（含内置 DSL）**
 

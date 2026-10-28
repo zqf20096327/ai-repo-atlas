@@ -1,6 +1,6 @@
 # opendilab/awesome-diffusion-model-in-rl
 
-⭐ 1,654 · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/opendilab/awesome-diffusion-model-in-rl) · 组织维护 · 中文 README
+⭐ 1,655 · Apache-2.0 · 推送 2026-05-30 · [GitHub](https://github.com/opendilab/awesome-diffusion-model-in-rl) · 组织维护 · 中文 README
 
 **扩散模型与强化学习交叉领域论文清单（持续更新）**
 

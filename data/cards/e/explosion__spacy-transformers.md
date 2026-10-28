@@ -1,6 +1,6 @@
 # explosion/spacy-transformers
 
-⭐ 1,412 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spacy-transformers) · [官网](https://spacy.io/usage/embeddings-transformers) · 组织维护
+⭐ 1,411 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/explosion/spacy-transformers) · [官网](https://spacy.io/usage/embeddings-transformers) · 组织维护
 
 **让 spaCy 管线直接使用 Hugging Face 预训练 transformer 模型**
 

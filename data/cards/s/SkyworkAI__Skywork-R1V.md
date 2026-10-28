@@ -1,6 +1,6 @@
 # SkyworkAI/Skywork-R1V
 
-⭐ 3,175 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SkyworkAI/Skywork-R1V) · [官网](https://arxiv.org/abs/2504.05599) · 组织维护
+⭐ 3,174 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SkyworkAI/Skywork-R1V) · [官网](https://arxiv.org/abs/2504.05599) · 组织维护
 
 **开源多模态推理模型系列（38B），视觉-语言思维链推理**
 

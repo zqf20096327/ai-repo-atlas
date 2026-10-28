@@ -1,6 +1,6 @@
 # kulkarnirohit123/cra-agent
 
-⭐ 430 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/kulkarnirohit123/cra-agent) · 个人维护
+⭐ 393 · Python · Apache-2.0 · 推送 2026-08-15 · [GitHub](https://github.com/kulkarnirohit123/cra-agent) · 个人维护
 
 **面向 CRA 合规的自主 agent：扫描提交、分诊漏洞并自动修复**
 

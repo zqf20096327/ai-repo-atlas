@@ -1,6 +1,6 @@
 # aliyun/iac-code
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/aliyun/iac-code) · [官网](https://aliyun.github.io/iac-code/) · 组织维护 · 中文 README
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/aliyun/iac-code) · [官网](https://aliyun.github.io/iac-code/) · 组织维护 · 中文 README
 
 **阿里云基础设施即代码 AI 助手：自然语言生成与部署 ROS/Terraform**
 

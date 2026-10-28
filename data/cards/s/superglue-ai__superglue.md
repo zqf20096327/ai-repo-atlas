@@ -1,6 +1,6 @@
 # superglue-ai/superglue
 
-⭐ 2,065 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/superglue-ai/superglue) · [官网](https://superglue.ai) · 组织维护
+⭐ 2,066 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/superglue-ai/superglue) · [官网](https://superglue.ai) · 组织维护
 
 **用自然语言构建企业系统集成与工具的 AI agent 平台**
 

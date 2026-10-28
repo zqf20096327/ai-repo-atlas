@@ -1,6 +1,6 @@
 # LAMDA-CL/LAMDA-PILOT
 
-⭐ 608 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/LAMDA-CL/LAMDA-PILOT) · [官网](https://arxiv.org/abs/2309.07117) · 组织维护 · 中文 README
+⭐ 609 · Python · MIT · 推送 2026-01-29 · [GitHub](https://github.com/LAMDA-CL/LAMDA-PILOT) · [官网](https://arxiv.org/abs/2309.07117) · 组织维护 · 中文 README
 
 **基于预训练模型的持续学习算法工具箱，复现20+方法**
 

@@ -1,6 +1,6 @@
 # crmne/ruby_llm
 
-⭐ 4,487 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/crmne/ruby_llm) · [官网](https://rubyllm.com/) · 组织维护
+⭐ 4,488 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/crmne/ruby_llm) · [官网](https://rubyllm.com/) · 组织维护
 
 **Ruby 语言的 AI 应用开发框架：统一 API 接入多家模型**
 

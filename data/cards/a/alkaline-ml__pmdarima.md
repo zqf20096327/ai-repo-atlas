@@ -1,6 +1,6 @@
 # alkaline-ml/pmdarima
 
-⭐ 1,738 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alkaline-ml/pmdarima) · [官网](https://www.alkaline-ml.com/pmdarima) · 组织维护
+⭐ 1,739 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/alkaline-ml/pmdarima) · [官网](https://www.alkaline-ml.com/pmdarima) · 组织维护
 
 **Python 时间序列统计库：提供 R auto.arima 等价功能与 ARIMA 建模**
 

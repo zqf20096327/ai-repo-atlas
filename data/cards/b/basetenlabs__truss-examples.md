@@ -1,6 +1,6 @@
 # basetenlabs/truss-examples
 
-⭐ 234 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/basetenlabs/truss-examples) · [官网](https://trussml.com) · 组织维护
+⭐ 234 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/basetenlabs/truss-examples) · [官网](https://trussml.com) · 组织维护
 
 **Truss 模型部署示例集：数十个可直接部署的示例**
 

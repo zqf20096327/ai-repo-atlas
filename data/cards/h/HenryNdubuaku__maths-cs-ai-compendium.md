@@ -1,6 +1,6 @@
 # HenryNdubuaku/maths-cs-ai-compendium
 
-⭐ 7,674 · TypeScript · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) · 个人维护
+⭐ 7,676 · TypeScript · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) · 个人维护
 
 **覆盖数学、计算机与 AI 的开放教科书，供深入学习用**
 

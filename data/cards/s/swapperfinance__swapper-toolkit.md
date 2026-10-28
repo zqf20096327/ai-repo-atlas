@@ -1,6 +1,6 @@
 # swapperfinance/swapper-toolkit
 
-⭐ 850 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/swapperfinance/swapper-toolkit) · [官网](https://swapper.finance) · 组织维护
+⭐ 851 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/swapperfinance/swapper-toolkit) · [官网](https://swapper.finance) · 组织维护
 
 **供 AI agent 调用的 DeFi 支付技能包：充值、兑换与钱包管理**
 

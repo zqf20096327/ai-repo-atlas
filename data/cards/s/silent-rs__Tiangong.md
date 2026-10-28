@@ -1,6 +1,6 @@
 # silent-rs/Tiangong
 
-⭐ 49 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/silent-rs/Tiangong) · 组织维护 · 中文 README
+⭐ 50 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/silent-rs/Tiangong) · 组织维护 · 中文 README
 
 **Rust+Tauri 桌面个人 AI Agent 宿主：插件化扩展电脑操作能力**
 

@@ -1,6 +1,6 @@
 # darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP
 
-⭐ 429 · 推送 2026-10-21 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
+⭐ 429 · 推送 2026-10-28 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
 
 **AI/ML/DL/CV/NLP 项目链接合集（100+ 条目）**
 

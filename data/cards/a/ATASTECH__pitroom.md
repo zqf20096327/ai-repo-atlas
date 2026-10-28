@@ -1,6 +1,6 @@
 # ATASTECH/pitroom
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ATASTECH/pitroom) · [官网](https://www.npmjs.com/package/pitroom) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ATASTECH/pitroom) · [官网](https://www.npmjs.com/package/pitroom) · 组织维护
 
 **给编码 agent 配的并行低成本工作小组：省 token、带审计**
 

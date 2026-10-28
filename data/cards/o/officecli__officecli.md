@@ -1,6 +1,6 @@
 # officecli/officecli
 
-⭐ 110 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/officecli/officecli) · [官网](https://officecli.io) · 组织维护 · 中文 README
+⭐ 111 · Shell · MIT · 推送 2026-08-10 · [GitHub](https://github.com/officecli/officecli) · [官网](https://officecli.io) · 组织维护 · 中文 README
 
 **自然语言生成可编辑 Office 文件与图片的命令行工具**
 

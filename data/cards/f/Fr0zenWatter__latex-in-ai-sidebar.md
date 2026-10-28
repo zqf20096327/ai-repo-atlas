@@ -1,6 +1,6 @@
 # Fr0zenWatter/latex-in-ai-sidebar
 
-⭐ 37 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Fr0zenWatter/latex-in-ai-sidebar) · 个人维护 · 中文 README
+⭐ 40 · Python · 推送 2026-10-28 · [GitHub](https://github.com/Fr0zenWatter/latex-in-ai-sidebar) · 个人维护 · 中文 README
 
 **在 Codex/DeepSeek 侧边栏中编辑 LaTeX 论文并审阅 AI 修改**
 

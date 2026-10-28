@@ -1,6 +1,6 @@
 # bowen-upenn/PersonaMem-v2
 
-⭐ 50 · Python · 推送 2026-09-06 · [GitHub](https://github.com/bowen-upenn/PersonaMem-v2) · [官网](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) · 组织维护
+⭐ 51 · Python · 推送 2026-09-06 · [GitHub](https://github.com/bowen-upenn/PersonaMem-v2) · [官网](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) · 组织维护
 
 **LLM 个性化基准：1000 用户画像、2 万+偏好、300+场景**
 

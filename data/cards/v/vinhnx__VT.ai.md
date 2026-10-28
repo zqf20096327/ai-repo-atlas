@@ -1,6 +1,6 @@
 # vinhnx/VT.ai
 
-⭐ 117 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/vinhnx/VT.ai) · [官网](https://vinhnx.github.io/VT.ai/) · 个人维护
+⭐ 117 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vinhnx/VT.ai) · [官网](https://vinhnx.github.io/VT.ai/) · 个人维护
 
 **多模态 AI 聊天应用：语义路由自动选模型，支持多家提供商**
 

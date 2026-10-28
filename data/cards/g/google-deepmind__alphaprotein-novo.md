@@ -1,6 +1,6 @@
 # google-deepmind/alphaprotein-novo
 
-⭐ 306 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/alphaprotein-novo) · 组织维护
+⭐ 307 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/google-deepmind/alphaprotein-novo) · 组织维护
 
 **从头酶设计的生成式扩散模型流水线**
 

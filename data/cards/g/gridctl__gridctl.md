@@ -1,6 +1,6 @@
 # gridctl/gridctl
 
-⭐ 45 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gridctl/gridctl) · 组织维护
+⭐ 45 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/gridctl/gridctl) · 组织维护
 
 **MCP 网关与技能库：把 agent 环境声明进版本控制**
 

@@ -1,6 +1,6 @@
 # tachyonmcp/tachyon
 
-⭐ 37 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tachyonmcp/tachyon) · [官网](https://tachyonmcp.dev) · 组织维护
+⭐ 37 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tachyonmcp/tachyon) · [官网](https://tachyonmcp.dev) · 组织维护
 
 **Java/Kotlin 的 MCP 服务器运行时，简化模型上下文协议服务开发**
 

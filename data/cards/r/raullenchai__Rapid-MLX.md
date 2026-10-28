@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-⭐ 4,045 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
+⭐ 4,049 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
 
 **Apple Silicon 本地 LLM 推理服务器，OpenAI/Anthropic 兼容**
 

@@ -1,6 +1,6 @@
 # linogaliana/python-datascientist
 
-⭐ 184 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/linogaliana/python-datascientist) · [官网](https://pythonds.linogaliana.fr/) · 个人维护
+⭐ 185 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/linogaliana/python-datascientist) · [官网](https://pythonds.linogaliana.fr/) · 个人维护
 
 **面向 ENSAE/ENSAI 学生的 Python 数据科学课程（含 NLP）**
 

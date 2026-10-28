@@ -1,6 +1,6 @@
 # smixs/pi-durable-telegram
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/smixs/pi-durable-telegram) · [官网](https://github.com/smixs/pi-durable-telegram#readme) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/smixs/pi-durable-telegram) · [官网](https://github.com/smixs/pi-durable-telegram#readme) · 个人维护
 
 **部署在自己服务器上的常驻 pi agent，通过 Telegram 对话使用**
 

@@ -1,6 +1,6 @@
 # ausboss/ComfyUI-AusBoss
 
-⭐ 94 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ausboss/ComfyUI-AusBoss) · [官网](https://registry.comfy.org/nodes/ausboss-nodes) · 个人维护
+⭐ 98 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ausboss/ComfyUI-AusBoss) · [官网](https://registry.comfy.org/nodes/ausboss-nodes) · 个人维护
 
 **ComfyUI 图像/视频处理自定义节点包，含遮罩、裁剪、扩图、放大等**
 

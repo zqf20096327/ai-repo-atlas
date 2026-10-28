@@ -1,6 +1,6 @@
 # plastic-labs/honcho
 
-⭐ 7,791 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
+⭐ 7,806 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
 
 **给 agent 开发者的记忆基础设施：存储-推理-查询的持久记忆层**
 

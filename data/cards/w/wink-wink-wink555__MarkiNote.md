@@ -1,6 +1,6 @@
 # wink-wink-wink555/MarkiNote
 
-⭐ 106 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wink-wink-wink555/MarkiNote) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wink-wink-wink555/MarkiNote) · 个人维护 · 中文 README
 
 **自托管的 Markdown 写作阅读与 AI Agent 文档工作区**
 

@@ -1,6 +1,6 @@
 # devops-thiago/ThrillhouseBot
 
-⭐ 37 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/devops-thiago/ThrillhouseBot) · 个人维护
+⭐ 37 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/devops-thiago/ThrillhouseBot) · 个人维护
 
 **自托管的 AI 代码审查 GitHub App：审 PR diff 并给内联建议**
 

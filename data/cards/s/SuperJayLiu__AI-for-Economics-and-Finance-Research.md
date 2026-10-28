@@ -1,6 +1,6 @@
 # SuperJayLiu/AI-for-Economics-and-Finance-Research
 
-⭐ 30 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/SuperJayLiu/AI-for-Economics-and-Finance-Research) · [官网](https://www.chaojieliu.com) · 个人维护 · 中文 README
+⭐ 31 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/SuperJayLiu/AI-for-Economics-and-Finance-Research) · [官网](https://www.chaojieliu.com) · 个人维护 · 中文 README
 
 **面向经济与金融研究的 AI/LLM 使用手册与技能库**
 

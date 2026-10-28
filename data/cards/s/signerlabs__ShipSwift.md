@@ -1,6 +1,6 @@
 # signerlabs/ShipSwift
 
-⭐ 3,244 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/signerlabs/ShipSwift) · [官网](https://shipswift.app) · 组织维护
+⭐ 3,246 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/signerlabs/ShipSwift) · [官网](https://shipswift.app) · 组织维护
 
 **供 LLM 使用的 SwiftUI 组件库与配方案例，经 MCP/Skills 接入**
 

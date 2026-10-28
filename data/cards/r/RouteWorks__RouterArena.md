@@ -1,6 +1,6 @@
 # RouteWorks/RouterArena
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/RouteWorks/RouterArena) · [官网](https://routeworks.github.io/) · 组织维护
+⭐ 153 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/RouteWorks/RouterArena) · [官网](https://routeworks.github.io/) · 组织维护
 
 **面向 LLM 路由器的开放评测平台与在线排行榜**
 

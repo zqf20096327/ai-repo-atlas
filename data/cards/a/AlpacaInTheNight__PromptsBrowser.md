@@ -1,6 +1,6 @@
 # AlpacaInTheNight/PromptsBrowser
 
-⭐ 48 · JavaScript · AGPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/AlpacaInTheNight/PromptsBrowser) · 个人维护
+⭐ 47 · JavaScript · AGPL-3.0 · 推送 2026-05-24 · [GitHub](https://github.com/AlpacaInTheNight/PromptsBrowser) · 个人维护
 
 **stable-diffusion-webui 的提示词浏览器扩展：管理/复用提示词与样式**
 

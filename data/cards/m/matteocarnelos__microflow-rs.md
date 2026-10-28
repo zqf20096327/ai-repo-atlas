@@ -1,6 +1,6 @@
 # matteocarnelos/microflow-rs
 
-⭐ 195 · Rust · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/matteocarnelos/microflow-rs) · 个人维护
+⭐ 196 · Rust · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/matteocarnelos/microflow-rs) · 个人维护
 
 **面向 MCU 的 Rust TinyML 推理引擎，运行 TFLite 模型**
 

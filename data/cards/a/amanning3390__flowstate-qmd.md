@@ -1,6 +1,6 @@
 # amanning3390/flowstate-qmd
 
-⭐ 52 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/amanning3390/flowstate-qmd) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/amanning3390/flowstate-qmd) · 个人维护
 
 **面向编码 agent 的本地先行项目记忆层（MCP）**
 

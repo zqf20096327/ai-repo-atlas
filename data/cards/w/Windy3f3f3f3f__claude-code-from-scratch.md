@@ -1,6 +1,6 @@
 # Windy3f3f3f3f/claude-code-from-scratch
 
-⭐ 2,797 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) · [官网](https://windy3f3f3f3f.github.io/claude-code-from-scratch/#/) · 个人维护 · 中文 README
+⭐ 2,799 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/Windy3f3f3f3f/claude-code-from-scratch) · [官网](https://windy3f3f3f3f.github.io/claude-code-from-scratch/#/) · 个人维护 · 中文 README
 
 **从零手写 Claude Code 的分步教程（TS/Python 双版本）**
 

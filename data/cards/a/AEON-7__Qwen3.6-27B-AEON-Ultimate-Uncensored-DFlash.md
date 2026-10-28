@@ -1,6 +1,6 @@
 # AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash
 
-⭐ 485 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) · [官网](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) · 个人维护
+⭐ 486 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) · [官网](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) · 个人维护
 
 **面向开发者的 Qwen3.6-27B 去审查模型权重与 DGX Spark 专用推理容器**
 

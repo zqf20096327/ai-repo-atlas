@@ -1,6 +1,6 @@
 # microsoft/TWL300-AI-Apps-and-agents
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TWL300-AI-Apps-and-agents) · [官网](https://microsoft.github.io/TWL300-AI-Apps-and-agents/) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/TWL300-AI-Apps-and-agents) · [官网](https://microsoft.github.io/TWL300-AI-Apps-and-agents/) · 组织维护
 
 **微软教学实验：用 Microsoft Foundry 构建与测试 AI 应用和 agent**
 

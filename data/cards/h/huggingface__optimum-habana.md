@@ -1,6 +1,6 @@
 # huggingface/optimum-habana
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/optimum-habana) · 组织维护
+⭐ 212 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/optimum-habana) · 组织维护
 
 **让 Transformers/Diffusers 在 Intel Gaudi HPU 上训练与推理的接口库**
 

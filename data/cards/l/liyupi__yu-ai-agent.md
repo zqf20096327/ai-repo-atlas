@@ -1,6 +1,6 @@
 # liyupi/yu-ai-agent
 
-⭐ 2,752 · Java · 推送 2026-01-07 · [GitHub](https://github.com/liyupi/yu-ai-agent) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
+⭐ 2,755 · Java · 推送 2026-01-07 · [GitHub](https://github.com/liyupi/yu-ai-agent) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
 
 **面向程序员的 AI 应用开发实战教程：恋爱大师应用与 ReAct 智能体**
 

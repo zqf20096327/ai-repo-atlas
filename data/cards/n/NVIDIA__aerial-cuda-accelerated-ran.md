@@ -1,6 +1,6 @@
 # NVIDIA/aerial-cuda-accelerated-ran
 
-⭐ 450 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/aerial-cuda-accelerated-ran) · [官网](https://docs.nvidia.com/aerial/cuda-accelerated-ran/latest/index.html) · 组织维护
+⭐ 452 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/NVIDIA/aerial-cuda-accelerated-ran) · [官网](https://docs.nvidia.com/aerial/cuda-accelerated-ran/latest/index.html) · 组织维护
 
 **面向 NVIDIA GPU 的 5G/6G 基站软件 SDK，构建 O-RAN 合规 gNB**
 

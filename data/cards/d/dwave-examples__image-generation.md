@@ -1,6 +1,6 @@
 # dwave-examples/image-generation
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dwave-examples/image-generation) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dwave-examples/image-generation) · 组织维护
 
 **量子-经典混合示例：用 DVAE+GRBM 在 MNIST 上生成手写数字图像**
 

@@ -1,6 +1,6 @@
 # flightdeckhq/flightdeck
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/flightdeckhq/flightdeck) · [官网](https://flightdeck-hq.com) · 个人维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/flightdeckhq/flightdeck) · [官网](https://flightdeck-hq.com) · 个人维护
 
 **自托管的 AI agent 可观测与控制平面**
 

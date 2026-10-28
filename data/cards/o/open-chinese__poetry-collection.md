@@ -1,6 +1,6 @@
 # open-chinese/poetry-collection
 
-⭐ 54 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-chinese/poetry-collection) · 个人维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-chinese/poetry-collection) · 个人维护 · 中文 README
 
 **37 万首中文诗词曲赋的统一建模数据集**
 

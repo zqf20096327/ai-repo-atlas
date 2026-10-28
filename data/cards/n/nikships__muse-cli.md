@@ -1,6 +1,6 @@
 # nikships/muse-cli
 
-⭐ 65 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nikships/muse-cli) · [官网](https://muse-cli-site.web.app) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nikships/muse-cli) · [官网](https://muse-cli-site.web.app) · 个人维护
 
 **muse.ai 个人 AI agent 的终端命令行客户端**
 

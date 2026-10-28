@@ -1,6 +1,6 @@
 # desy-ml/cheetah
 
-⭐ 72 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/desy-ml/cheetah) · [官网](https://cheetah-accelerator.readthedocs.io) · 组织维护
+⭐ 72 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/desy-ml/cheetah) · [官网](https://cheetah-accelerator.readthedocs.io) · 组织维护
 
 **加速器光学的高性能可微分仿真库，服务强化学习与优化**
 

@@ -1,6 +1,6 @@
 # ovo066/MoRead
 
-⭐ 107 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ovo066/MoRead) · 个人维护 · 中文 README
+⭐ 109 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ovo066/MoRead) · 个人维护 · 中文 README
 
 **本地优先的 Android 小说阅读器，可选 BYOK AI 伴读**
 

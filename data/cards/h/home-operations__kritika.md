@@ -1,6 +1,6 @@
 # home-operations/kritika
 
-⭐ 34 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/home-operations/kritika) · [官网](https://kritika.home-operations.com/) · 组织维护
+⭐ 34 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/home-operations/kritika) · [官网](https://kritika.home-operations.com/) · 组织维护
 
 **面向 GitHub/Forgejo/GitLab/Gitea 的仓库感知 AI 代码评审机器人**
 

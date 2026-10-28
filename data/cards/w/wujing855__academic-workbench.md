@@ -1,6 +1,6 @@
 # wujing855/academic-workbench
 
-⭐ 49 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wujing855/academic-workbench) · 个人维护 · 中文 README
+⭐ 50 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wujing855/academic-workbench) · 个人维护 · 中文 README
 
 **本地自托管的学术文献工作台：聚合、PDF转写、摘要、精读、日志**
 

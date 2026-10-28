@@ -1,6 +1,6 @@
 # ModelCloud/GPTQModel
 
-⭐ 1,281 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
+⭐ 1,281 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
 
 **面向 LLM 的多算法量化/验证/部署工具包，覆盖多硬件与推理运行时**
 

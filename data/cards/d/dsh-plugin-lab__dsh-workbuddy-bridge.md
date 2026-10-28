@@ -1,6 +1,6 @@
 # dsh-plugin-lab/dsh-workbuddy-bridge
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) · [官网](https://www.npmjs.com/package/dsh-workbuddy-bridge) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dsh-plugin-lab/dsh-workbuddy-bridge) · [官网](https://www.npmjs.com/package/dsh-workbuddy-bridge) · 组织维护 · 中文 README
 
 **DSH 插件：把 WorkBuddy 桌面 App 的模型接入 DeepSeek Harness**
 

@@ -1,6 +1,6 @@
 # lee-to/ai-factory
 
-⭐ 1,150 · Shell · 推送 2026-10-15 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
+⭐ 1,150 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
 
 **一条命令为各类 AI 编程代理安装技能与配置的开发环境工具**
 

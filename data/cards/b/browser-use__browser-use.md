@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-⭐ 119,299 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
+⭐ 119,390 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
 
 **面向 AI agent 的开源浏览器自动化 Python 库**
 

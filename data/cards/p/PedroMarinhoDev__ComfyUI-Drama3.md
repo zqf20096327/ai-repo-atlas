@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Drama3
 
-⭐ 113 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) · [官网](https://pedromarinhodev.github.io/ComfyUI-Drama3/) · 个人维护
+⭐ 117 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) · [官网](https://pedromarinhodev.github.io/ComfyUI-Drama3/) · 个人维护
 
 **在 ComfyUI 中本地运行 Fish Audio Drama 3 语音合成与 Qwen3 转写的节点包**
 

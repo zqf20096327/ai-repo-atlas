@@ -1,6 +1,6 @@
 # Halleck45/OpenPronounce
 
-⭐ 165 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Halleck45/OpenPronounce) · 个人维护
+⭐ 169 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Halleck45/OpenPronounce) · 个人维护
 
 **自托管英语音素级发音评测库：录音+文本→评分与错误定位**
 

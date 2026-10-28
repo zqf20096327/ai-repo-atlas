@@ -1,6 +1,6 @@
 # timazed/CodexKit
 
-⭐ 33 · Swift · 推送 2026-10-27 · [GitHub](https://github.com/timazed/CodexKit) · 个人维护
+⭐ 33 · Swift · 推送 2026-10-28 · [GitHub](https://github.com/timazed/CodexKit) · 个人维护
 
 **在 iOS/macOS 应用中嵌入 OpenAI Codex 风格 agent 的 Swift SDK**
 

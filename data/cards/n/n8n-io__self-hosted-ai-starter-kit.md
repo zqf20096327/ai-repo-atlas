@@ -1,6 +1,6 @@
 # n8n-io/self-hosted-ai-starter-kit
 
-⭐ 15,308 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
+⭐ 15,313 · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/n8n-io/self-hosted-ai-starter-kit) · [官网](https://n8n.io) · 组织维护
 
 **自托管本地 AI 工作流入门模板：一条 Docker Compose 拉起整套环境**
 

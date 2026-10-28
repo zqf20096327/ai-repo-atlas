@@ -1,6 +1,6 @@
 # genkit-ai/genkit
 
-⭐ 6,550 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/genkit-ai/genkit) · [官网](https://genkit.dev) · 组织维护
+⭐ 6,556 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/genkit-ai/genkit) · [官网](https://genkit.dev) · 组织维护
 
 **Google 出品的跨语言 AI 应用开发框架，构建 agent 与 RAG**
 

@@ -1,6 +1,6 @@
 # AndreiiArhire/LightMIS
 
-⭐ 29 · Python · 推送 2026-09-30 · [GitHub](https://github.com/AndreiiArhire/LightMIS) · [官网](https://arxiv.org/pdf/2609.28327) · 组织维护
+⭐ 32 · Python · 推送 2026-09-30 · [GitHub](https://github.com/AndreiiArhire/LightMIS) · [官网](https://arxiv.org/pdf/2609.28327) · 组织维护
 
 **面向边缘设备的超轻量 2D 医学图像分割模型**
 

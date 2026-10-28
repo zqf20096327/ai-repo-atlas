@@ -1,6 +1,6 @@
 # myriade-ai/agentlys
 
-⭐ 31 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/myriade-ai/agentlys) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/myriade-ai/agentlys) · 组织维护
 
 **轻量 Python 库：把现有函数/类即刻变成 AI 工具**
 

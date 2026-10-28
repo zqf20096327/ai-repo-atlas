@@ -1,6 +1,6 @@
 # apache/ctakes
 
-⭐ 139 · Java · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/apache/ctakes) · [官网](https://ctakes.apache.org) · 组织维护
+⭐ 140 · Java · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/apache/ctakes) · [官网](https://ctakes.apache.org) · 组织维护
 
 **面向临床文本的 NLP 平台：从病历文本抽取医学知识与实体**
 

@@ -1,6 +1,6 @@
 # AlibabaResearch/DAMO-ConvAI
 
-⭐ 1,615 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI) · 组织维护 · 中文 README
+⭐ 1,616 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI) · 组织维护 · 中文 README
 
 **阿里达摩院对话式 AI 研究代码库（论文与模型成果集合）**
 

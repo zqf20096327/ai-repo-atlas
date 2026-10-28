@@ -1,6 +1,6 @@
 # MediaMolder/mediamolder
 
-⭐ 112 · Go · LGPL-2.1 · 推送 2026-10-20 · [GitHub](https://github.com/MediaMolder/mediamolder) · 组织维护
+⭐ 112 · Go · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/MediaMolder/mediamolder) · 组织维护
 
 **面向生产媒体处理的 FFmpeg 图形化重造引擎，内置 AI 检测/转写节点**
 

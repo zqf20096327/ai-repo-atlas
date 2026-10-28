@@ -1,6 +1,6 @@
 # WZMIAOMIAO/deep-learning-for-image-processing
 
-⭐ 26,430 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
+⭐ 26,434 · Python · GPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) · 个人维护 · 中文 README
 
 **图像处理深度学习入门教程：讲解与代码实现经典网络**
 

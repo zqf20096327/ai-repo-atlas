@@ -1,6 +1,6 @@
 # TadMSTR/homelab-agent
 
-⭐ 45 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TadMSTR/homelab-agent) · 个人维护
+⭐ 45 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TadMSTR/homelab-agent) · 个人维护
 
 **自托管多 Agent 平台参考构建：单机运行五个 AI Agent**
 

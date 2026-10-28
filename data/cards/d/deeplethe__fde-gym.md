@@ -1,6 +1,6 @@
 # deeplethe/fde-gym
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/deeplethe/fde-gym) · [官网](https://fde-gym.com/paper) · 个人维护 · 中文 README
+⭐ 107 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/deeplethe/fde-gym) · [官网](https://fde-gym.com/paper) · 个人维护 · 中文 README
 
 **面向前置交付工程师（FDE）的实战评测平台：用 coding agent 完成真实客户交付案例**
 

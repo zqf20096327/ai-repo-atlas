@@ -1,6 +1,6 @@
 # lancekrogers/claude-code-go
 
-⭐ 53 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lancekrogers/claude-code-go) · 个人维护
+⭐ 53 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lancekrogers/claude-code-go) · 个人维护
 
 **非官方 Go SDK：在 Go 程序中封装调用 Claude Code CLI**
 

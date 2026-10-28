@@ -1,6 +1,6 @@
 # Graphify-Labs/graphify
 
-⭐ 136,845 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
+⭐ 137,681 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Graphify-Labs/graphify) · [官网](https://www.graphify.com) · 组织维护
 
 **给 AI 编码助手把代码库映射成可查询知识图谱的 CLI 工具**
 

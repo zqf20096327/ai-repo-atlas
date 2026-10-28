@@ -1,6 +1,6 @@
 # madhurimarawat/Developer-Resources-Hub
 
-⭐ 22 · MIT · 推送 2026-05-04 · [GitHub](https://github.com/madhurimarawat/Developer-Resources-Hub) · 个人维护
+⭐ 22 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/madhurimarawat/Developer-Resources-Hub) · 个人维护
 
 **面向开发者的综合资源清单：求职、编程、前后端、AI/ML 等**
 

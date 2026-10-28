@@ -1,6 +1,6 @@
 # FunnySaltyFish/Better-Ruozhiba
 
-⭐ 265 · Apache-2.0 · 推送 2026-02-21 · [GitHub](https://github.com/FunnySaltyFish/Better-Ruozhiba) · 个人维护 · 中文 README
+⭐ 266 · Apache-2.0 · 推送 2026-02-21 · [GitHub](https://github.com/FunnySaltyFish/Better-Ruozhiba) · 个人维护 · 中文 README
 
 **人工审核修订的中文弱智吧问答数据集**
 

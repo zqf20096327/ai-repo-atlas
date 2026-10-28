@@ -1,6 +1,6 @@
 # maziluiosif/oxi
 
-⭐ 26 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/maziluiosif/oxi) · [官网](https://maziluiosif.github.io/oxi/) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/maziluiosif/oxi) · [官网](https://maziluiosif.github.io/oxi/) · 个人维护
 
 **Rust 桌面端编程助手：多 agent 同聊切换并带上下文**
 

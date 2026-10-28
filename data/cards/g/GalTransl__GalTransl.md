@@ -1,6 +1,6 @@
 # GalTransl/GalTransl
 
-⭐ 2,368 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/GalTransl/GalTransl) · 组织维护 · 中文 README
+⭐ 2,370 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/GalTransl/GalTransl) · 组织维护 · 中文 README
 
 **用大模型自动翻译 Galgame 台词并制作内嵌翻译补丁的桌面工具**
 

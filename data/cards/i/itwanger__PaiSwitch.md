@@ -1,6 +1,6 @@
 # itwanger/PaiSwitch
 
-⭐ 34 · Java · 推送 2026-06-23 · [GitHub](https://github.com/itwanger/PaiSwitch) · [官网](https://github.com/itwanger/PaiSwitch/releases/latest) · 个人维护 · 中文 README
+⭐ 35 · Java · 推送 2026-06-23 · [GitHub](https://github.com/itwanger/PaiSwitch) · [官网](https://github.com/itwanger/PaiSwitch/releases/latest) · 个人维护 · 中文 README
 
 **给开发者的 AI Coding Agent 模型切换控制台（Claude Code/Codex）**
 

@@ -1,6 +1,6 @@
 # DerwenAI/pytextrank
 
-⭐ 2,220 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DerwenAI/pytextrank) · [官网](https://derwen.ai/docs/ptr/) · 组织维护
+⭐ 2,219 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/DerwenAI/pytextrank) · [官网](https://derwen.ai/docs/ptr/) · 组织维护
 
 **spaCy 扩展库：实现 TextRank 系列图算法做短语抽取与摘要**
 

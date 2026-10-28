@@ -1,6 +1,6 @@
 # avirtual/clodex
 
-⭐ 134 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/avirtual/clodex) · [官网](https://github.com/avirtual/clodex/releases/latest) · 个人维护
+⭐ 134 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/avirtual/clodex) · [官网](https://github.com/avirtual/clodex/releases/latest) · 个人维护
 
 **管理 Claude Code/Codex/Muse 编码代理机群的桌面与无头会话管理器**
 

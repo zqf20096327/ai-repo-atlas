@@ -1,6 +1,6 @@
 # iamalexkorotin/NeuralOptimalTransport
 
-⭐ 239 · Jupyter Notebook · MIT · 推送 2026-05-04 · [GitHub](https://github.com/iamalexkorotin/NeuralOptimalTransport) · [官网](https://openreview.net/forum?id=d8CBRlWNkqH) · 个人维护
+⭐ 240 · Jupyter Notebook · MIT · 推送 2026-05-04 · [GitHub](https://github.com/iamalexkorotin/NeuralOptimalTransport) · [官网](https://openreview.net/forum?id=d8CBRlWNkqH) · 个人维护
 
 **ICLR 2023 论文 Neural Optimal Transport 的 PyTorch 官方实现**
 

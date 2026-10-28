@@ -1,6 +1,6 @@
 # scszcoder/eCan.ai
 
-⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/scszcoder/eCan.ai) · [官网](https://www.ecan.ai) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/scszcoder/eCan.ai) · [官网](https://www.ecan.ai) · 个人维护 · 中文 README
 
 **面向跨境电商卖家的隐私优先 AI agent 应用：低代码编排与网络化运行**
 

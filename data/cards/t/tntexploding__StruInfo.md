@@ -1,6 +1,6 @@
 # tntexploding/StruInfo
 
-⭐ 91 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tntexploding/StruInfo) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tntexploding/StruInfo) · 个人维护 · 中文 README
 
 **自托管个人知识库工作区：订阅/文档整理、检索、问答与报告**
 

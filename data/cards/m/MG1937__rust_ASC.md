@@ -1,6 +1,6 @@
 # MG1937/rust_ASC
 
-⭐ 92 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/MG1937/rust_ASC) · 个人维护
+⭐ 99 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MG1937/rust_ASC) · 个人维护
 
 **面向 Agent 的 Rust 版 Android APK/DEX 反编译器**
 

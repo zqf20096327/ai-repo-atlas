@@ -1,6 +1,6 @@
 # FeedHive/ai-slop-detector
 
-⭐ 85 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/FeedHive/ai-slop-detector) · [官网](https://www.feedhive.com/tools/ai-slop-detector) · 组织维护
+⭐ 89 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/FeedHive/ai-slop-detector) · [官网](https://www.feedhive.com/tools/ai-slop-detector) · 组织维护
 
 **120 种 AI 味写作模式清单，含 Claude Code/Codex agent 技能**
 

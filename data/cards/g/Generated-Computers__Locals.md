@@ -1,6 +1,6 @@
 # Generated-Computers/Locals
 
-⭐ 356 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
+⭐ 414 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
 
 **在 Apple Silicon Mac 上本地运行多 AI agent 的推理服务器**
 

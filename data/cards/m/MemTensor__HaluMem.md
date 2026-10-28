@@ -1,6 +1,6 @@
 # MemTensor/HaluMem
 
-⭐ 178 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/MemTensor/HaluMem) · 组织维护
+⭐ 178 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/MemTensor/HaluMem) · 组织维护
 
 **智能体记忆系统幻觉评测基准（操作级任务+数据集）**
 

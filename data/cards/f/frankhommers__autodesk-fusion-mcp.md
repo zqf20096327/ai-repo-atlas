@@ -1,6 +1,6 @@
 # frankhommers/autodesk-fusion-mcp
 
-⭐ 32 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/frankhommers/autodesk-fusion-mcp) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/frankhommers/autodesk-fusion-mcp) · 个人维护
 
 **让 AI agent 通过 MCP 驱动 Autodesk Fusion CAD 会话的插件服务器**
 

@@ -1,6 +1,6 @@
 # clawpai/mi-paiai
 
-⭐ 28 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawpai/mi-paiai) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/clawpai/mi-paiai) · 个人维护 · 中文 README
 
 **把小爱音箱接入任意 OpenAI 兼容大模型的自托管网关**
 

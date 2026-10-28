@@ -1,6 +1,6 @@
 # Laplace-bit/dsh-smooth-stream
 
-⭐ 88 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Laplace-bit/dsh-smooth-stream) · [官网](https://laplace-bit.github.io/dsh-smooth-stream/) · 个人维护 · 中文 README
+⭐ 88 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Laplace-bit/dsh-smooth-stream) · [官网](https://laplace-bit.github.io/dsh-smooth-stream/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的流式渲染平滑与零重排滚动跟随插件**
 

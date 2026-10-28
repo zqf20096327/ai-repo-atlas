@@ -1,6 +1,6 @@
 # zeroclaw-labs/zeroclaw
 
-⭐ 33,049 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
+⭐ 33,058 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zeroclaw-labs/zeroclaw) · [官网](https://www.zeroclaw.com/) · 组织维护
 
 **个人 AI 助手运行时：单二进制 Rust 程序，多渠道多模型自托管**
 

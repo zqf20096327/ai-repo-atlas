@@ -1,6 +1,6 @@
 # Readplace/readplace.com
 
-⭐ 30 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/Readplace/readplace.com) · [官网](https://readplace.com/) · 个人维护
+⭐ 30 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/Readplace/readplace.com) · [官网](https://readplace.com/) · 个人维护
 
 **自托管的稍后阅读应用：保存文章/通讯链接，稍后阅读**
 

@@ -1,6 +1,6 @@
 # Netflix/maestro
 
-⭐ 3,848 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Netflix/maestro) · [官网](https://maestro-doc.github.io) · 组织维护
+⭐ 3,849 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Netflix/maestro) · [官网](https://maestro-doc.github.io) · 组织维护
 
 **Netflix 的通用工作流编排器：数据/ML 流水线即服务**
 

@@ -1,6 +1,6 @@
 # VeraTools/vera
 
-⭐ 121 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/VeraTools/vera) · 个人维护
+⭐ 121 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VeraTools/vera) · 个人维护
 
 **面向 AI 编程代理的本地代码搜索引擎（Rust）**
 

@@ -1,6 +1,6 @@
 # zjunlp/LabVLA
 
-⭐ 108 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/zjunlp/LabVLA) · [官网](https://zjunlp.github.io/LabVLA/) · 组织维护 · 中文 README
+⭐ 110 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/zjunlp/LabVLA) · [官网](https://zjunlp.github.io/LabVLA/) · 组织维护 · 中文 README
 
 **面向科学实验室的视觉-语言-动作机器人基础模型**
 

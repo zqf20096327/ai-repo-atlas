@@ -1,6 +1,6 @@
 # withcatai/node-llama-cpp
 
-⭐ 2,194 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/withcatai/node-llama-cpp) · [官网](https://node-llama-cpp.withcat.ai) · 组织维护
+⭐ 2,195 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/withcatai/node-llama-cpp) · [官网](https://node-llama-cpp.withcat.ai) · 组织维护
 
 **Node.js 的 llama.cpp 绑定：在本地运行 LLM 并约束输出格式**
 

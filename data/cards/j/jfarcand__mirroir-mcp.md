@@ -1,6 +1,6 @@
 # jfarcand/mirroir-mcp
 
-⭐ 268 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jfarcand/mirroir-mcp) · [官网](https://mirroir.dev) · 个人维护
+⭐ 269 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jfarcand/mirroir-mcp) · [官网](https://mirroir.dev) · 个人维护
 
 **让 AI agent 通过 macOS 镜像操控真机 iPhone 的 MCP 服务器**
 

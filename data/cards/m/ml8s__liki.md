@@ -1,6 +1,6 @@
 # ml8s/liki
 
-⭐ 94 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ml8s/liki) · [官网](https://liki.hk) · 个人维护 · 中文 README
+⭐ 95 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ml8s/liki) · [官网](https://liki.hk) · 个人维护 · 中文 README
 
 **面向 AI agent 的专业命理 Skill：八字/紫微/六爻/奇门/择日/风水/起名**
 

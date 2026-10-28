@@ -1,6 +1,6 @@
 # richarvey/OmniMem
 
-⭐ 62 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/richarvey/OmniMem) · [官网](https://omnimem.org) · 个人维护
+⭐ 63 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/richarvey/OmniMem) · [官网](https://omnimem.org) · 个人维护
 
 **给 AI agent 用的自托管跨会话语义记忆，经 MCP 提供服务**
 

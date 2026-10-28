@@ -1,6 +1,6 @@
 # InternLM/lmdeploy
 
-⭐ 8,121 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
+⭐ 8,124 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
 
 **LLM 压缩、部署与推理服务工具包（TurboMind/PyTorch 双引擎）**
 

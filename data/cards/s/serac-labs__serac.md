@@ -1,6 +1,6 @@
 # serac-labs/serac
 
-⭐ 78 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/serac-labs/serac) · [官网](https://serac.build) · 组织维护
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/serac-labs/serac) · [官网](https://serac.build) · 组织维护
 
 **面向 ServiceNow 的 MCP 服务器与配套 agent 技能指南**
 

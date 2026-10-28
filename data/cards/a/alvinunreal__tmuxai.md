@@ -1,6 +1,6 @@
 # alvinunreal/tmuxai
 
-⭐ 1,964 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alvinunreal/tmuxai) · [官网](https://tmuxai.dev) · 个人维护
+⭐ 1,964 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/alvinunreal/tmuxai) · [官网](https://tmuxai.dev) · 个人维护
 
 **驻留 tmux 会话的终端 AI 助手，读屏并代执行命令**
 

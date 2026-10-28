@@ -1,6 +1,6 @@
 # ziweiknows/ziwei-chat
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ziweiknows/ziwei-chat) · [官网](https://ziweichat.vercel.app/) · 组织维护 · 中文 README
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ziweiknows/ziwei-chat) · [官网](https://ziweichat.vercel.app/) · 组织维护 · 中文 README
 
 **开源紫微斗数对话 Agent：基于确定性排盘事实的可追溯问答**
 

@@ -1,6 +1,6 @@
 # TimeCopilot/timecopilot
 
-⭐ 627 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TimeCopilot/timecopilot) · [官网](https://docs.timecopilot.dev/timecopilot) · 组织维护
+⭐ 630 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TimeCopilot/timecopilot) · [官网](https://docs.timecopilot.dev/timecopilot) · 组织维护
 
 **自然语言时间序列预测 agent：LLM 组合时序基础模型出预测**
 

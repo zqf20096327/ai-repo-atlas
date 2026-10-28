@@ -1,6 +1,6 @@
 # InterfazeAI/jigsawstack-js
 
-⭐ 27 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/InterfazeAI/jigsawstack-js) · [官网](https://jigsawstack.com) · 组织维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/InterfazeAI/jigsawstack-js) · [官网](https://jigsawstack.com) · 组织维护
 
 **调用 JigsawStack 各类 AI 服务的 TypeScript/JavaScript SDK**
 

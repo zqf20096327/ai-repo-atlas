@@ -1,6 +1,6 @@
 # cyqlelabs/factor
 
-⭐ 29 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cyqlelabs/factor) · [官网](https://cyqlelabs.github.io/factor/) · 组织维护
+⭐ 30 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/cyqlelabs/factor) · [官网](https://cyqlelabs.github.io/factor/) · 组织维护
 
 **运行在本机、可接电话的 AI 智能体（记忆+桌面+语音）**
 

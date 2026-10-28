@@ -1,6 +1,6 @@
 # Hybirdss/smartest-tv
 
-⭐ 55 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Hybirdss/smartest-tv) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Hybirdss/smartest-tv) · 个人维护 · 中文 README
 
 **用自然语言/命令行控制智能电视的 CLI 与 MCP 服务器**
 

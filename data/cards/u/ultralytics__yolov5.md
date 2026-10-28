@@ -1,6 +1,6 @@
 # ultralytics/yolov5
 
-⭐ 58,231 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
+⭐ 58,233 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ultralytics/yolov5) · [官网](https://docs.ultralytics.com/yolov5/) · 组织维护
 
 **基于 PyTorch 的目标检测/实例分割/分类模型及训练导出工具**
 

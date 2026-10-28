@@ -1,6 +1,6 @@
 # liangdabiao/perler-beads-ai
 
-⭐ 337 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/liangdabiao/perler-beads-ai) · [官网](https://pindou.348349.xyz/) · 个人维护 · 中文 README
+⭐ 339 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/liangdabiao/perler-beads-ai) · [官网](https://pindou.348349.xyz/) · 个人维护 · 中文 README
 
 **拼豆图纸生成网站：AI 辅助优化图片并一键生成拼豆底稿**
 

@@ -1,6 +1,6 @@
 # qdrant/qdrant-helm
 
-⭐ 195 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
+⭐ 196 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
 
 **Qdrant 向量数据库的 Helm Chart 仓库**
 

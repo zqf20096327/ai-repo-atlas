@@ -1,6 +1,6 @@
 # molecule-dev/molecule
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/molecule-dev/molecule) · [官网](https://www.molecule.dev/) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/molecule-dev/molecule) · [官网](https://www.molecule.dev/) · 组织维护
 
 **AI 可正确组装的开源全栈 TypeScript 包生态与脚手架工具**
 

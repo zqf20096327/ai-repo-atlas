@@ -1,6 +1,6 @@
 # xiaoranlingfeng/ppt-master-zit
 
-⭐ 137 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
 
 **ppt-master 的本机分支：AI 配图改走本地 ComfyUI 生成可编辑 PPTX**
 

@@ -1,6 +1,6 @@
 # langchain-tracer/Axon
 
-⭐ 92 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/langchain-tracer/Axon) · [官网](https://www.npmjs.com/package/@axon-ai/cli) · 组织维护
+⭐ 93 · TypeScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/langchain-tracer/Axon) · [官网](https://www.npmjs.com/package/@axon-ai/cli) · 组织维护
 
 **本地 LLM/agent 链路追踪观测工具，OTLP 接收+实时仪表盘**
 

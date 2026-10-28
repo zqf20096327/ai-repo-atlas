@@ -1,6 +1,6 @@
 # oaknational/oak-ai-lesson-assistant
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/oaknational/oak-ai-lesson-assistant) · [官网](https://labs.thenational.academy) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/oaknational/oak-ai-lesson-assistant) · [官网](https://labs.thenational.academy) · 组织维护
 
 **Oak 国家学院的 AI 课程规划助手（Aila）monorepo**
 

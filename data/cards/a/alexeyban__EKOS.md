@@ -1,6 +1,6 @@
 # alexeyban/EKOS
 
-⭐ 25 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alexeyban/EKOS) · [官网](https://ekos.dev) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alexeyban/EKOS) · [官网](https://ekos.dev) · 个人维护
 
 **把企业代码/SQL/文档编译为知识账本供 AI agent 查询的平台**
 

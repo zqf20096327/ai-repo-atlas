@@ -1,6 +1,6 @@
 # helloianneo/ian-xiaohei-illustrations
 
-⭐ 12,904 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 12,933 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **Codex Skill：为中文文章生成小黑怪诞手绘正文配图**
 

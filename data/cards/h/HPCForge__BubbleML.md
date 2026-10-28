@@ -1,6 +1,6 @@
 # HPCForge/BubbleML
 
-⭐ 54 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HPCForge/BubbleML) · [官网](https://openreview.net/forum?id=0Wmglu8zak) · 组织维护
+⭐ 55 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HPCForge/BubbleML) · [官网](https://openreview.net/forum?id=0Wmglu8zak) · 组织维护
 
 **沸腾多相多物理场仿真数据集与科学机器学习基准（NeurIPS 2023）**
 

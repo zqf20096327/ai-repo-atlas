@@ -1,6 +1,6 @@
 # cubxxw/blog
 
-⭐ 30 · JavaScript · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/cubxxw/blog) · [官网](https://cubxxw.com/zh) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/cubxxw/blog) · [官网](https://cubxxw.com/zh) · 个人维护 · 中文 README
 
 **个人博客仓库：AI/Agent 实践、工作流与思考的公开写作现场**
 

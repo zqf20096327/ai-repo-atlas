@@ -1,6 +1,6 @@
 # claw-eval/claw-eval
 
-⭐ 801 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/claw-eval/claw-eval) · [官网](https://claw-eval.github.io) · 组织维护 · 中文 README
+⭐ 831 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/claw-eval/claw-eval) · [官网](https://claw-eval.github.io) · 组织维护 · 中文 README
 
 **面向 LLM 自主 agent 的人工核验评测基准（300 任务）**
 

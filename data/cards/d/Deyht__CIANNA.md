@@ -1,6 +1,6 @@
 # Deyht/CIANNA
 
-⭐ 57 · C · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/Deyht/CIANNA) · 组织维护
+⭐ 57 · C · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Deyht/CIANNA) · 组织维护
 
 **面向天体物理的 GPU 深度学习框架，含射电星系检测**
 

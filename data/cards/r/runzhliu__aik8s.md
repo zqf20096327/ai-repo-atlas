@@ -1,6 +1,6 @@
 # runzhliu/aik8s
 
-⭐ 26 · Python · 推送 2026-10-27 · [GitHub](https://github.com/runzhliu/aik8s) · [官网](https://aik8s.run/) · 个人维护 · 中文 README
+⭐ 27 · Python · 推送 2026-10-27 · [GitHub](https://github.com/runzhliu/aik8s) · [官网](https://aik8s.run/) · 个人维护 · 中文 README
 
 **面向平台工程师的 AI/LLM on Kubernetes 基础设施知识库**
 

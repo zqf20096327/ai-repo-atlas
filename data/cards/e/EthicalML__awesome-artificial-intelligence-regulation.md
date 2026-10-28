@@ -1,6 +1,6 @@
 # EthicalML/awesome-artificial-intelligence-regulation
 
-⭐ 1,480 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) · 组织维护
+⭐ 1,480 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) · 组织维护
 
 **AI 伦理、法规与准则资源的策展清单**
 

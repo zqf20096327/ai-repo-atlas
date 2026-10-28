@@ -1,6 +1,6 @@
 # AiyaFun/beacon
 
-⭐ 55 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/AiyaFun/beacon) · [官网](https://beacon.iyunci.cn) · 个人维护 · 中文 README
+⭐ 57 · TypeScript · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/AiyaFun/beacon) · [官网](https://beacon.iyunci.cn) · 个人维护 · 中文 README
 
 **给创作者的多平台选题创作 SaaS：热榜、竞对、AI 选题与发布闭环**
 

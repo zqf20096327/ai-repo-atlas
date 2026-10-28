@@ -1,6 +1,6 @@
 # mpecan/tokf
 
-⭐ 199 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mpecan/tokf) · [官网](https://tokf.net) · 个人维护
+⭐ 199 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mpecan/tokf) · [官网](https://tokf.net) · 个人维护
 
 **压缩 CLI 命令输出以减少 AI agent 上下文消耗的工具**
 

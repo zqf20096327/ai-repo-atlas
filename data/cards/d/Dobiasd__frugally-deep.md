@@ -1,6 +1,6 @@
 # Dobiasd/frugally-deep
 
-⭐ 1,129 · C++ · MIT · 推送 2026-05-06 · [GitHub](https://github.com/Dobiasd/frugally-deep) · 个人维护
+⭐ 1,129 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Dobiasd/frugally-deep) · 个人维护
 
 **C++ 头文件库：在 C++ 中运行 Keras 模型推理**
 

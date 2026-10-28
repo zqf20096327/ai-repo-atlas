@@ -1,6 +1,6 @@
 # VelornLabs/velorn
 
-⭐ 513 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/VelornLabs/velorn) · [官网](https://velorn.ai) · 组织维护
+⭐ 514 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/VelornLabs/velorn) · [官网](https://velorn.ai) · 组织维护
 
 **开源桌面 AI 视频工作站：时间线剪辑 + ComfyUI 生成 + 100+ MCP 工具**
 

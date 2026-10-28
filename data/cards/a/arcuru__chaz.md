@@ -1,6 +1,6 @@
 # arcuru/chaz
 
-⭐ 68 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/arcuru/chaz) · [官网](https://chaz.is) · 个人维护
+⭐ 68 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/arcuru/chaz) · [官网](https://chaz.is) · 个人维护
 
 **实验性 AI agent 框架，含 Matrix 桥接与多 agent 编排**
 

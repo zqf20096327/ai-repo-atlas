@@ -1,6 +1,6 @@
 # wnsrn3436/open-game-works-core
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/wnsrn3436/open-game-works-core) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wnsrn3436/open-game-works-core) · 个人维护 · 中文 README
 
 **让 AI agent 在预置 core 上开发商业级服务器-客户端游戏的 harness**
 

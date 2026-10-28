@@ -1,6 +1,6 @@
 # antvis/T8
 
-⭐ 54 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/antvis/T8) · [官网](https://t8.antv.vision/en/examples.html) · 组织维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/antvis/T8) · [官网](https://t8.antv.vision/en/examples.html) · 组织维护 · 中文 README
 
 **AntV 生态的非结构化数据叙事文本可视化渲染库**
 

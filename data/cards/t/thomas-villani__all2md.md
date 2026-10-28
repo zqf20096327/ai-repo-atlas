@@ -1,6 +1,6 @@
 # thomas-villani/all2md
 
-⭐ 34 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/thomas-villani/all2md) · [官网](https://all2md.readthedocs.io/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/thomas-villani/all2md) · [官网](https://all2md.readthedocs.io/) · 个人维护
 
 **开发者工具：40+ 格式与 Markdown 双向转换、检索与分块，供 LLM/RAG 流水线用**
 

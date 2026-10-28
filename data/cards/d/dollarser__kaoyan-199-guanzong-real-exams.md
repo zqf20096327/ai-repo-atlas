@@ -1,6 +1,6 @@
 # dollarser/kaoyan-199-guanzong-real-exams
 
-⭐ 22 · Python · 推送 2026-09-15 · [GitHub](https://github.com/dollarser/kaoyan-199-guanzong-real-exams) · 个人维护 · 中文 README
+⭐ 24 · Python · 推送 2026-09-15 · [GitHub](https://github.com/dollarser/kaoyan-199-guanzong-real-exams) · 个人维护 · 中文 README
 
 **考研管综 199 历年真题结构化题库，附 RAG 切分库**
 

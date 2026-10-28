@@ -1,6 +1,6 @@
 # CrestApps/CrestApps.OrchardCore
 
-⭐ 32 · C# · 推送 2026-10-27 · [GitHub](https://github.com/CrestApps/CrestApps.OrchardCore) · [官网](https://orchardcore.crestapps.com/) · 组织维护
+⭐ 32 · C# · 推送 2026-10-28 · [GitHub](https://github.com/CrestApps/CrestApps.OrchardCore) · [官网](https://orchardcore.crestapps.com/) · 组织维护
 
 **面向 Orchard Core 的企业级模块套件，含 AI、CRM、呼叫中心等**
 

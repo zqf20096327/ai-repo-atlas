@@ -1,6 +1,6 @@
 # dotcomjack/grux
 
-⭐ 30 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dotcomjack/grux) · [官网](https://gruxai.com) · 个人维护
+⭐ 30 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dotcomjack/grux) · [官网](https://gruxai.com) · 个人维护
 
 **macOS 本地优先的开源 AI agent：统一管理邮件/日历/会议/文件与可撤销 shell**
 

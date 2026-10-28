@@ -1,6 +1,6 @@
 # RichardScottOZ/mineral-exploration-machine-learning
 
-⭐ 350 · 推送 2026-10-18 · [GitHub](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) · 个人维护
+⭐ 349 · 推送 2026-10-18 · [GitHub](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) · 个人维护
 
 **矿产勘查机器学习资源清单：框架、找矿预测与地质制图代码示例**
 

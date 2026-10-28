@@ -1,6 +1,6 @@
 # AnalyseDeCircuit/oxideterm
 
-⭐ 1,741 · Rust · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 组织维护 · 中文 README
+⭐ 1,744 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 组织维护 · 中文 README
 
 **带 BYOK AI 助手的原生 SSH 客户端与远程运维工作台**
 

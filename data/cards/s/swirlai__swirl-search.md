@@ -1,6 +1,6 @@
 # swirlai/swirl-search
 
-⭐ 3,049 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/swirlai/swirl-search) · [官网](https://swirlaiconnect.com/) · 组织维护
+⭐ 3,050 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/swirlai/swirl-search) · [官网](https://swirlaiconnect.com/) · 组织维护
 
 **联邦式 AI 搜索与 RAG 引擎：不搬数据直连 100+ 应用问答**
 

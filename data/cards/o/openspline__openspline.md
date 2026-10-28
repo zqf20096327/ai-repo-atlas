@@ -1,6 +1,6 @@
 # openspline/openspline
 
-⭐ 327 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openspline/openspline) · [官网](https://www.openspline.dev/) · 组织维护
+⭐ 330 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openspline/openspline) · [官网](https://www.openspline.dev/) · 组织维护
 
 **给语音 AI 代理生成实时口型同步数字人视频的工具**
 

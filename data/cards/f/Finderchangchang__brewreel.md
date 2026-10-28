@@ -1,6 +1,6 @@
 # Finderchangchang/brewreel
 
-⭐ 173 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Finderchangchang/brewreel) · [官网](https://brewreel.com) · 个人维护 · 中文 README
+⭐ 174 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Finderchangchang/brewreel) · [官网](https://brewreel.com) · 个人维护 · 中文 README
 
 **用便宜 LLM 也能一条命令出竖版宣传/口播/讲课视频的工具**
 

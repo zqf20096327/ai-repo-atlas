@@ -1,6 +1,6 @@
 # dom96/KillSwitch
 
-⭐ 180 · Rust · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/dom96/KillSwitch) · [官网](https://killswitch-lang.org) · 个人维护
+⭐ 181 · Rust · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/dom96/KillSwitch) · [官网](https://killswitch-lang.org) · 个人维护
 
 **专为让 LLM 无法生成/修改代码而设计的深奥编程语言**
 

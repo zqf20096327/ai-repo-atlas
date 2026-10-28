@@ -1,6 +1,6 @@
 # teocns/neocursor.nvim
 
-⭐ 76 · Lua · MIT · 推送 2026-09-02 · [GitHub](https://github.com/teocns/neocursor.nvim) · 个人维护
+⭐ 77 · Lua · MIT · 推送 2026-09-02 · [GitHub](https://github.com/teocns/neocursor.nvim) · 个人维护
 
 **Neovim 插件：复用 Cursor 账号实现 Cursor Tab 式补全**
 

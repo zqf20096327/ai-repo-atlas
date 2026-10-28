@@ -1,6 +1,6 @@
 # kimimgo/awesome-ai-cae
 
-⭐ 62 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/kimimgo/awesome-ai-cae) · 个人维护 · 中文 README
+⭐ 63 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/kimimgo/awesome-ai-cae) · 个人维护 · 中文 README
 
 **110+ 个 AI agent 可调用的 CAE 工具策展清单，按可调用性评分排名**
 

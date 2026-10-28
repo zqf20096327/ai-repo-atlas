@@ -1,6 +1,6 @@
 # bodo-ai/Bodo
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/bodo-ai/Bodo) · [官网](https://docs.bodo.ai) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bodo-ai/Bodo) · [官网](https://docs.bodo.ai) · 组织维护
 
 **面向大规模数据与 AI 工作流的 Pandas 替代型高性能 DataFrame 库**
 

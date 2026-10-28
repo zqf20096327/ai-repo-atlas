@@ -1,6 +1,6 @@
 # milvus-io/web-content
 
-⭐ 139 · MDX · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/web-content) · [官网](https://milvus.io/) · 组织维护
+⭐ 139 · MDX · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/web-content) · [官网](https://milvus.io/) · 组织维护
 
 **Milvus 官网的文档、博客与训练营内容仓库**
 

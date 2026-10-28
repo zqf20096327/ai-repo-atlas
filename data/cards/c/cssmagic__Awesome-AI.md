@@ -1,6 +1,6 @@
 # cssmagic/Awesome-AI
 
-⭐ 304 · 推送 2026-10-27 · [GitHub](https://github.com/cssmagic/Awesome-AI) · 个人维护 · 中文 README
+⭐ 304 · 推送 2026-10-28 · [GitHub](https://github.com/cssmagic/Awesome-AI) · 个人维护 · 中文 README
 
 **生成式 AI 资料清单：汇总 LLM、AI 编程、绘画音视频工具入口**
 

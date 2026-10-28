@@ -1,6 +1,6 @@
 # cola-runner/awesome-tui-design
 
-⭐ 43 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/cola-runner/awesome-tui-design) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/cola-runner/awesome-tui-design) · 个人维护
 
 **面向 AI 编码 agent 的终端 UI 设计系统清单（DESIGN.md 合集）**
 

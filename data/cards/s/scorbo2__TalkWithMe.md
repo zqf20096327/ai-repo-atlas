@@ -1,6 +1,6 @@
 # scorbo2/TalkWithMe
 
-⭐ 270 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/scorbo2/TalkWithMe) · 个人维护
+⭐ 271 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/scorbo2/TalkWithMe) · 个人维护
 
 **本地多人格 AI 群聊 Web 应用，带可选 TTS/STT 与 MCP 工具**
 

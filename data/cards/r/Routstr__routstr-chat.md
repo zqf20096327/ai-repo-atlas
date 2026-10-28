@@ -1,6 +1,6 @@
 # Routstr/routstr-chat
 
-⭐ 23 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/Routstr/routstr-chat) · [官网](https://chat.routstr.com) · 组织维护
+⭐ 23 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/Routstr/routstr-chat) · [官网](https://chat.routstr.com) · 组织维护
 
 **Routstr 协议的本地聊天前端，支持闪电网络支付**
 

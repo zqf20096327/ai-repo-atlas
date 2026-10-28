@@ -1,6 +1,6 @@
 # Leooo-Huang/awesome-human-activity-recognition
 
-⭐ 236 · Python · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/Leooo-Huang/awesome-human-activity-recognition) · [官网](https://leooo-huang.github.io/awesome-human-activity-recognition/) · 个人维护 · 中文 README
+⭐ 237 · Python · CC-BY-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/Leooo-Huang/awesome-human-activity-recognition) · [官网](https://leooo-huang.github.io/awesome-human-activity-recognition/) · 个人维护 · 中文 README
 
 **人体活动识别（HAR）研究资源清单：数据集、框架、模型、教程**
 

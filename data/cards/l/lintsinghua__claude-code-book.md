@@ -1,6 +1,6 @@
 # lintsinghua/claude-code-book
 
-⭐ 4,338 · Python · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/claude-code-book) · [官网](https://lintsinghua.github.io) · 个人维护 · 中文 README
+⭐ 4,340 · Python · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/claude-code-book) · [官网](https://lintsinghua.github.io) · 个人维护 · 中文 README
 
 **42万字中文书籍：拆解 Claude Code 的 Agent Harness 架构**
 

@@ -1,6 +1,6 @@
 # mtkresearch/MR-Models
 
-⭐ 300 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/mtkresearch/MR-Models) · 组织维护 · 中文 README
+⭐ 301 · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/mtkresearch/MR-Models) · 组织维护 · 中文 README
 
 **联发创新基地的繁体中文基础模型家族（Breeze 系列）**
 

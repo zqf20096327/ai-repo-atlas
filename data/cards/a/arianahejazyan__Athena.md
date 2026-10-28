@@ -1,6 +1,6 @@
 # arianahejazyan/Athena
 
-⭐ 32 · C++ · MIT · 推送 2026-09-14 · [GitHub](https://github.com/arianahejazyan/Athena) · 个人维护
+⭐ 32 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/arianahejazyan/Athena) · 个人维护
 
 **UCI 兼容的四国象棋引擎（C++，256 位 bitboard）**
 

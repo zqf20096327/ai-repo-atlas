@@ -1,6 +1,6 @@
 # lance-format/lance
 
-⭐ 7,219 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lance-format/lance) · [官网](https://lance.org) · 组织维护
+⭐ 7,227 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/lance-format/lance) · [官网](https://lance.org) · 组织维护
 
 **面向多模态 AI 的开放湖仓数据格式，支持向量检索与版本管理**
 

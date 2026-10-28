@@ -1,6 +1,6 @@
 # rajeevbarde/SDLora-Organizer
 
-⭐ 47 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/rajeevbarde/SDLora-Organizer) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/rajeevbarde/SDLora-Organizer) · 个人维护
 
 **基于预抓取 CivitAI 数据库的 LoRA 模型整理与下载应用**
 

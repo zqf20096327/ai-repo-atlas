@@ -1,6 +1,6 @@
 # software-mansion/runntime
 
-⭐ 98 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/software-mansion/runntime) · [官网](http://docs.swmansion.com/runntime/) · 组织维护
+⭐ 102 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/software-mansion/runntime) · [官网](http://docs.swmansion.com/runntime/) · 组织维护
 
 **面向 Web 前端开发者的浏览器 GPU 神经网络运行框架**
 

@@ -1,6 +1,6 @@
 # SMTorg/smt
 
-⭐ 925 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/SMTorg/smt) · [官网](https://smt.readthedocs.io/en/stable) · 组织维护
+⭐ 927 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/SMTorg/smt) · [官网](https://smt.readthedocs.io/en/stable) · 组织维护
 
 **Python 代理建模工具箱：含代理模型、采样与基准测试**
 

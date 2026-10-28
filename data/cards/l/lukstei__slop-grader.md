@@ -1,6 +1,6 @@
 # lukstei/slop-grader
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lukstei/slop-grader) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lukstei/slop-grader) · 个人维护
 
 **用 Jev 概率模型逐行检测 AI 写作套路的文本规则评分 CLI**
 

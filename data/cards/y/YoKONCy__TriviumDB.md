@@ -1,6 +1,6 @@
 # YoKONCy/TriviumDB
 
-⭐ 181 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/YoKONCy/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
+⭐ 181 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/YoKONCy/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
 
 **Rust 编写的向量×图谱×文档三模嵌入式数据库，面向 AI 应用**
 

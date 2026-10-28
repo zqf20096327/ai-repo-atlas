@@ -1,6 +1,6 @@
 # MervinPraison/PraisonAI
 
-⭐ 9,300 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai/docs) · 个人维护
+⭐ 9,304 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai/docs) · 个人维护
 
 **开发者用的多智能体框架：5 行代码构建和运行 AI Agent**
 

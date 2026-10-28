@@ -1,6 +1,6 @@
 # 0xcro3dile/answerui
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/0xcro3dile/answerui) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/0xcro3dile/answerui) · 个人维护
 
 **开源生成式 UI 聊天前端：以图表/3D 场景等界面回答提问**
 

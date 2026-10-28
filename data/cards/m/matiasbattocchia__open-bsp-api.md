@@ -1,6 +1,6 @@
 # matiasbattocchia/open-bsp-api
 
-⭐ 618 · TypeScript · Unlicense · 推送 2026-10-26 · [GitHub](https://github.com/matiasbattocchia/open-bsp-api) · [官网](https://web.openbsp.dev) · 个人维护
+⭐ 620 · TypeScript · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/matiasbattocchia/open-bsp-api) · [官网](https://web.openbsp.dev) · 个人维护
 
 **可自托管的多租户 WhatsApp/Instagram 商业消息平台，支持 AI agent 接入**
 

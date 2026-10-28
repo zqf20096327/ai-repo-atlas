@@ -1,6 +1,6 @@
 # BV-Venky/excalidraw-architect-mcp
 
-⭐ 161 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/BV-Venky/excalidraw-architect-mcp) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/BV-Venky/excalidraw-architect-mcp) · 个人维护
 
 **为 AI IDE 生成 25 类 Excalidraw 手绘图的 MCP 服务器**
 

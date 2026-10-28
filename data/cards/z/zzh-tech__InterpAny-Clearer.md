@@ -1,6 +1,6 @@
 # zzh-tech/InterpAny-Clearer
 
-⭐ 295 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zzh-tech/InterpAny-Clearer) · [官网](https://zzh-tech.github.io/InterpAny-Clearer/) · 个人维护 · 中文 README
+⭐ 296 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zzh-tech/InterpAny-Clearer) · [官网](https://zzh-tech.github.io/InterpAny-Clearer/) · 个人维护 · 中文 README
 
 **任意时刻清晰视频帧插值研究代码：距离索引解决速度歧义**
 

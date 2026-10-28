@@ -1,6 +1,6 @@
 # confluentinc/quickstart-streaming-agents
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/confluentinc/quickstart-streaming-agents) · [官网](https://confluent.io/product/streaming-agents/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/confluentinc/quickstart-streaming-agents) · [官网](https://confluent.io/product/streaming-agents/) · 组织维护
 
 **Confluent Cloud 上构建流式 AI agent 的动手实验快速入门**
 

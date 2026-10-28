@@ -1,6 +1,6 @@
 # ObservedObserver/chatgpt-i18n
 
-⭐ 804 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/ObservedObserver/chatgpt-i18n) · [官网](https://www.i18n.ing/) · 个人维护
+⭐ 803 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/ObservedObserver/chatgpt-i18n) · [官网](https://www.i18n.ing/) · 个人维护
 
 **用 LLM 翻译本地化 locale 文件的 Web 应用**
 

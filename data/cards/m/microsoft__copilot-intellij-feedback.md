@@ -1,6 +1,6 @@
 # microsoft/copilot-intellij-feedback
 
-⭐ 137 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/microsoft/copilot-intellij-feedback) · 组织维护
+⭐ 138 · MIT · 推送 2026-09-24 · [GitHub](https://github.com/microsoft/copilot-intellij-feedback) · 组织维护
 
 **GitHub Copilot JetBrains 插件的官方反馈 issue 仓库**
 

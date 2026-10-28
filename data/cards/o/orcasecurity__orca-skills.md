@@ -1,6 +1,6 @@
 # orcasecurity/orca-skills
 
-⭐ 56 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/orcasecurity/orca-skills) · [官网](https://orca.security/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/orcasecurity/orca-skills) · [官网](https://orca.security/) · 组织维护
 
 **Orca 云安全平台的 agent 技能与插件集，用于安全工作流**
 

@@ -1,6 +1,6 @@
 # zai-org/GLM-TTS
 
-⭐ 1,067 · Python · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/zai-org/GLM-TTS) · [官网](https://audio.z.ai) · 组织维护 · 中文 README
+⭐ 1,069 · Python · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/zai-org/GLM-TTS) · [官网](https://audio.z.ai) · 组织维护 · 中文 README
 
 **零样本语音克隆与情感表达的开源 TTS 系统**
 

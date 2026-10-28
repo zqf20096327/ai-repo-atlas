@@ -1,6 +1,6 @@
 # node-llm/node-llm
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/node-llm/node-llm) · [官网](https://nodellm.dev) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/node-llm/node-llm) · [官网](https://nodellm.dev) · 组织维护
 
 **Node.js 的多提供商 LLM 后端编排 SDK，统一 540+ 模型 API**
 

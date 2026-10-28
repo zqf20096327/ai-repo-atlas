@@ -1,6 +1,6 @@
 # AI-in-Cardiovascular-Medicine/HolOrama
 
-⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AI-in-Cardiovascular-Medicine/HolOrama) · [官网](https://holorama.readthedocs.io/en/latest/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AI-in-Cardiovascular-Medicine/HolOrama) · [官网](https://holorama.readthedocs.io/en/latest/) · 组织维护
 
 **心脏影像深度学习分割、修改与融合的图形界面平台**
 

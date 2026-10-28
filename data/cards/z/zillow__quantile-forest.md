@@ -1,6 +1,6 @@
 # zillow/quantile-forest
 
-⭐ 255 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
+⭐ 255 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
 
 **兼容 scikit-learn 的分位数回归森林 Python 库**
 

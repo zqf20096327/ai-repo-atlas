@@ -1,6 +1,6 @@
 # starai-platform/starai
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/starai-platform/starai) · [官网](https://star-ai.life) · 组织维护 · 中文 README
+⭐ 46 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/starai-platform/starai) · [官网](https://star-ai.life) · 组织维护 · 中文 README
 
 **开源 AI 聚合平台：对话、多媒体生成、智能体与计费一体化建站**
 

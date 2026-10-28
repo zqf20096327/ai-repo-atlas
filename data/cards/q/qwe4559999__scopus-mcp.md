@@ -1,6 +1,6 @@
 # qwe4559999/scopus-mcp
 
-⭐ 47 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/qwe4559999/scopus-mcp) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/qwe4559999/scopus-mcp) · 个人维护 · 中文 README
 
 **让 Claude 等 MCP 客户端查询 Scopus 文献的服务器**
 

@@ -1,6 +1,6 @@
 # 00200200/Video-Waste-Dumping-Detection---IWDD
 
-⭐ 52 · Jupyter Notebook · 推送 2026-06-10 · [GitHub](https://github.com/00200200/Video-Waste-Dumping-Detection---IWDD) · 个人维护
+⭐ 52 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/00200200/Video-Waste-Dumping-Detection---IWDD) · 个人维护
 
 **非法倾倒垃圾视频检测的分类训练管线（IWDD 竞赛）**
 

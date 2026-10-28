@@ -1,6 +1,6 @@
 # nihui/ncnn-webassembly-nanodet
 
-⭐ 133 · C++ · 推送 2026-10-27 · [GitHub](https://github.com/nihui/ncnn-webassembly-nanodet) · [官网](https://nihui.github.io/ncnn-webassembly-nanodet/) · 个人维护 · 中文 README
+⭐ 134 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/nihui/ncnn-webassembly-nanodet) · [官网](https://nihui.github.io/ncnn-webassembly-nanodet/) · 个人维护 · 中文 README
 
 **在浏览器中用 ncnn+WebAssembly 运行 nanodet 目标检测**
 

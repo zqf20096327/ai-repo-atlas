@@ -1,6 +1,6 @@
 # statmlben/ensLoss
 
-⭐ 35 · Python · MIT · 推送 2025-11-01 · [GitHub](https://github.com/statmlben/ensLoss) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICML 2025 论文 EnsLoss 官方代码：损失函数集成防过拟合**
 
@@ -11,7 +11,7 @@ ICML 2025 论文 EnsLoss 的官方实验仓库，面向科研人员。方法将�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

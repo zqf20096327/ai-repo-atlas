@@ -1,6 +1,6 @@
 # ikhsan3adi/gemini-web2api
 
-⭐ 53 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ikhsan3adi/gemini-web2api) · 个人维护 · 中文 README
+⭐ 54 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ikhsan3adi/gemini-web2api) · 个人维护 · 中文 README
 
 **将 Gemini 网页版转为 OpenAI 兼容 API 的 Go 代理**
 

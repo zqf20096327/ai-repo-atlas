@@ -1,6 +1,6 @@
 # FERMat-ML/OMatG
 
-⭐ 60 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/FERMat-ML/OMatG) · [官网](https://openreview.net/forum?id=gHGrzxFujU) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/FERMat-ML/OMatG) · [官网](https://openreview.net/forum?id=gHGrzxFujU) · 组织维护
 
 **无机晶体结构预测与从头生成的生成式框架**
 

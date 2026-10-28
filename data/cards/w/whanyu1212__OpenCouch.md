@@ -1,6 +1,6 @@
 # whanyu1212/OpenCouch
 
-⭐ 37 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/whanyu1212/OpenCouch) · [官网](https://whanyu1212.github.io/OpenCouch/) · 个人维护
+⭐ 37 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/whanyu1212/OpenCouch) · [官网](https://whanyu1212.github.io/OpenCouch/) · 个人维护
 
 **心理自助聊天陪伴应用：情绪支持、引导练习与持久记忆**
 

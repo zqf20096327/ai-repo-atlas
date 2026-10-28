@@ -1,6 +1,6 @@
 # Chess-analysis-mcp/tintins-chess-analysis
 
-⭐ 52 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Chess-analysis-mcp/tintins-chess-analysis) · [官网](https://chess-analysis-mcp.github.io/tintins-chess-analysis/) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Chess-analysis-mcp/tintins-chess-analysis) · [官网](https://chess-analysis-mcp.github.io/tintins-chess-analysis/) · 个人维护
 
 **Stockfish 引擎复盘加 LLM 讲解的国际象棋教练应用**
 

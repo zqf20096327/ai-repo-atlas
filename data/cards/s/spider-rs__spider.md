@@ -1,6 +1,6 @@
 # spider-rs/spider
 
-⭐ 2,805 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spider-rs/spider) · [官网](https://spider.cloud/github) · 组织维护
+⭐ 2,809 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spider-rs/spider) · [官网](https://spider.cloud/github) · 组织维护
 
 **Rust 编写的并发优先网页爬取与抓取引擎**
 

@@ -1,6 +1,6 @@
 # VisActor/skills
 
-⭐ 473 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/VisActor/skills) · [官网](https://www.visactor.io/vmind) · 组织维护 · 中文 README
+⭐ 473 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VisActor/skills) · [官网](https://www.visactor.io/vmind) · 组织维护 · 中文 README
 
 **为宿主 Agent 提供数据故事、杂志图文与生平海报生成技能**
 

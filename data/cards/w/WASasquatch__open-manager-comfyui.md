@@ -1,6 +1,6 @@
 # WASasquatch/open-manager-comfyui
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/WASasquatch/open-manager-comfyui) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WASasquatch/open-manager-comfyui) · 个人维护
 
 **ComfyUI 的替代包管理器：管理节点包、模型与文件**
 

@@ -1,6 +1,6 @@
 # mthines/agent-skills
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mthines/agent-skills) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mthines/agent-skills) · 个人维护
 
 **个人维护的 AI 编程助手技能集：工作流、评审与调试技能**
 

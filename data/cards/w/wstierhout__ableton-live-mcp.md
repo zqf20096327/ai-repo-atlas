@@ -1,6 +1,6 @@
 # wstierhout/ableton-live-mcp
 
-⭐ 62 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wstierhout/ableton-live-mcp) · [官网](https://abletonmcp.com) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wstierhout/ableton-live-mcp) · [官网](https://abletonmcp.com) · 个人维护
 
 **让 AI 助手通过 MCP 控制 Ableton Live 的本地服务器**
 

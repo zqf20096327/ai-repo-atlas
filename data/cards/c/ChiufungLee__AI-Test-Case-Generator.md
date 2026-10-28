@@ -1,6 +1,6 @@
 # ChiufungLee/AI-Test-Case-Generator
 
-⭐ 21 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChiufungLee/AI-Test-Case-Generator) · [官网](http://106.13.192.72:8000/) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChiufungLee/AI-Test-Case-Generator) · [官网](http://106.13.192.72:8000/) · 个人维护 · 中文 README
 
 **面向测试工程师的 RAG+LLM 测试用例生成与测试辅助平台**
 

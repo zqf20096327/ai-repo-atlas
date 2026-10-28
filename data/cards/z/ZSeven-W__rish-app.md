@@ -1,6 +1,6 @@
 # ZSeven-W/rish-app
 
-⭐ 163 · Objective-C++ · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ZSeven-W/rish-app) · 个人维护 · 中文 README
+⭐ 162 · Objective-C++ · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ZSeven-W/rish-app) · 个人维护 · 中文 README
 
 **iOS/Android 上的本地优先 AI agent 应用：手机上运行对话、工作区与工具执行**
 

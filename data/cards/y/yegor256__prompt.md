@@ -1,6 +1,6 @@
 # yegor256/prompt
 
-⭐ 166 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yegor256/prompt) · 个人维护
+⭐ 166 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yegor256/prompt) · 个人维护
 
 **纯文本系统提示词：教 LLM 遵循优雅编码与测试规范**
 

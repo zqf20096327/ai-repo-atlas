@@ -1,6 +1,6 @@
 # swaylq/master-skill
 
-⭐ 172 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/swaylq/master-skill) · [官网](https://master-skill.org) · 个人维护 · 中文 README
+⭐ 174 · Shell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/swaylq/master-skill) · [官网](https://master-skill.org) · 个人维护 · 中文 README
 
 **输入行业自动蒸馏出行业资深专家 agent skill 的元技能**
 

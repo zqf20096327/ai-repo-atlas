@@ -1,6 +1,6 @@
 # Denis2054/RAG-Driven-Generative-AI-2nd-Edition
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
+⭐ 21 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/Denis2054/RAG-Driven-Generative-AI-2nd-Edition) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
 
 **RAG 生成式 AI 第二版配套代码库：Oracle 数据库内构建主权 RAG 系统**
 

@@ -1,6 +1,6 @@
 # transformerlab/transformerlab-app
 
-⭐ 5,201 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/transformerlab/transformerlab-app) · [官网](https://lab.cloud) · 组织维护
+⭐ 5,200 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/transformerlab/transformerlab-app) · [官网](https://lab.cloud) · 组织维护
 
 **面向 AI 研究者的开源训练/评测/推理一体化平台**
 

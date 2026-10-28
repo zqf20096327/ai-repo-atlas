@@ -1,6 +1,6 @@
 # minmaxflow/mini-kode
 
-⭐ 306 · TypeScript · MIT · 推送 2025-11-04 · [GitHub](https://github.com/minmaxflow/mini-kode) · 个人维护 · 中文 README
+⭐ 305 · TypeScript · MIT · 推送 2025-11-04 · [GitHub](https://github.com/minmaxflow/mini-kode) · 个人维护 · 中文 README
 
 **教学用途的 AI 编程代理 CLI，供开发者学习 Agent 架构**
 

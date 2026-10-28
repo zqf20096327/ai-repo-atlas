@@ -1,6 +1,6 @@
 # The-Flash-7/open-note
 
-⭐ 59 · Dart · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/The-Flash-7/open-note) · [官网](https://opennote.zsdn.net) · 个人维护 · 中文 README
+⭐ 60 · Dart · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/The-Flash-7/open-note) · [官网](https://opennote.zsdn.net) · 个人维护 · 中文 README
 
 **带 AI 助手与本地知识库的跨平台智能笔记应用**
 

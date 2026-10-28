@@ -1,6 +1,6 @@
 # Mftrferdinand/Zeline
 
-⭐ 147 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Mftrferdinand/Zeline) · [官网](https://github.com/Mftrferdinand/Zeline) · 组织维护
+⭐ 159 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Mftrferdinand/Zeline) · [官网](https://github.com/Mftrferdinand/Zeline) · 组织维护
 
 **模型无关的开源 agentic AI 框架，构建可接入消息平台的 agent**
 

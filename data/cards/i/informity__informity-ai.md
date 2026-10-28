@@ -1,6 +1,6 @@
 # informity/informity-ai
 
-⭐ 59 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/informity/informity-ai) · [官网](https://www.informity.ai) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/informity/informity-ai) · [官网](https://www.informity.ai) · 组织维护
 
 **macOS 本地文档问答应用：索引本机文件并用本地 RAG 回答**
 

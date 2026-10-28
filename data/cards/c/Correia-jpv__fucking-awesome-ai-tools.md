@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-ai-tools
 
-⭐ 28 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-ai-tools) · 个人维护
+⭐ 29 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-ai-tools) · 个人维护
 
 **AI 工具精选清单：按类别收录模型、聊天、写作等工具及星标**
 

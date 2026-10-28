@@ -1,6 +1,6 @@
 # AlexsJones/llmfit
 
-⭐ 38,419 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
+⭐ 38,451 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **检测本机硬件并推荐可流畅运行的本地 LLM 的命令行工具**
 

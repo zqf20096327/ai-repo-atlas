@@ -1,6 +1,6 @@
 # dinglebear-ai/unraid
 
-⭐ 146 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dinglebear-ai/unraid) · 组织维护
+⭐ 148 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dinglebear-ai/unraid) · 组织维护
 
 **通过 MCP 工具查询与管理 Unraid 服务器的工具集**
 

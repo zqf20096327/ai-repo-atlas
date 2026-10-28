@@ -1,6 +1,6 @@
 # sifxprime/krouter
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sifxprime/krouter) · [官网](https://krouter.kodelyth.com) · 组织维护
+⭐ 31 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sifxprime/krouter) · [官网](https://krouter.kodelyth.com) · 组织维护
 
 **自托管通用 AI 路由网关：统一接入 95+ 提供商并自动故障切换**
 

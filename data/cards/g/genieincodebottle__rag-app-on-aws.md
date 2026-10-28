@@ -1,6 +1,6 @@
 # genieincodebottle/rag-app-on-aws
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/genieincodebottle/rag-app-on-aws) · [官网](https://aimlcompanion.ai/) · 个人维护
 
 **用 Terraform 在 AWS 上一键部署全栈 RAG 文档问答应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

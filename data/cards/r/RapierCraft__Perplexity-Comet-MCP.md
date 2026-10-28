@@ -1,6 +1,6 @@
 # RapierCraft/Perplexity-Comet-MCP
 
-⭐ 52 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/RapierCraft/Perplexity-Comet-MCP) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/RapierCraft/Perplexity-Comet-MCP) · 个人维护
 
 **连接 Claude Code 与 Perplexity Comet 浏览器的 MCP 服务器**
 

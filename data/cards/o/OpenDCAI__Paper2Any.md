@@ -1,6 +1,6 @@
 # OpenDCAI/Paper2Any
 
-⭐ 2,820 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/Paper2Any) · [官网](https://paper2any-studio.cpolar.cn/) · 组织维护 · 中文 README
+⭐ 2,822 · Python · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/OpenDCAI/Paper2Any) · [官网](https://paper2any-studio.cpolar.cn/) · 组织维护 · 中文 README
 
 **论文/文本转可编辑科研图表、技术路线图与演示文稿的 AI 工作区**
 

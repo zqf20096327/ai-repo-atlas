@@ -1,6 +1,6 @@
 # zilliztech/GPTCache
 
-⭐ 8,214 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/GPTCache) · [官网](https://gptcache.readthedocs.io) · 组织维护
+⭐ 8,216 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/zilliztech/GPTCache) · [官网](https://gptcache.readthedocs.io) · 组织维护
 
 **为开发者给 LLM 查询做语义缓存的 Python 库**
 

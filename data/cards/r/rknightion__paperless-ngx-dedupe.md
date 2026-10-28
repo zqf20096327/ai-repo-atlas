@@ -1,6 +1,6 @@
 # rknightion/paperless-ngx-dedupe
 
-⭐ 25 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/rknightion/paperless-ngx-dedupe) · [官网](https://m7kni.io/paperless-ngx-dedupe/) · 个人维护
+⭐ 25 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/rknightion/paperless-ngx-dedupe) · [官网](https://m7kni.io/paperless-ngx-dedupe/) · 个人维护
 
 **Paperless-NGX 文档去重与 AI 元数据提取配套工具**
 

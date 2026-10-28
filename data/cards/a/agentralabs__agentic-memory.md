@@ -1,6 +1,6 @@
 # agentralabs/agentic-memory
 
-⭐ 29 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/agentralabs/agentic-memory) · [官网](https://crates.io/crates/agentic-memory) · 组织维护
+⭐ 30 · Rust · MIT · 推送 2026-10-02 · [GitHub](https://github.com/agentralabs/agentic-memory) · [官网](https://crates.io/crates/agentic-memory) · 组织维护
 
 **给 AI agent 的持久认知图记忆：单文件存储事实/决策/推理链**
 

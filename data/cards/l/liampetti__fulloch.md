@@ -1,6 +1,6 @@
 # liampetti/fulloch
 
-⭐ 164 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/liampetti/fulloch) · 个人维护
+⭐ 165 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/liampetti/fulloch) · 个人维护
 
 **本地运行的家庭语音助手：语音对话、笔记与智能家居控制**
 

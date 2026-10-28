@@ -1,6 +1,6 @@
 # HelixDB/helix-db
 
-⭐ 6,238 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
+⭐ 6,239 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
 
 **Rust 编写的图数据库，内置向量与 BM25 全文检索，面向 AI/RAG 应用**
 

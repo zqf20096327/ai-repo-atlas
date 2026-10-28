@@ -1,6 +1,6 @@
 # amplifying-ai/awesome-generative-engine-optimization
 
-⭐ 532 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
+⭐ 533 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
 
 **生成式引擎优化（GEO）资源策展清单：指南、工具与研究**
 

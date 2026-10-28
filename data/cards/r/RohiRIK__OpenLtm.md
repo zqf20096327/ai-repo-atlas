@@ -1,6 +1,6 @@
 # RohiRIK/OpenLtm
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RohiRIK/OpenLtm) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RohiRIK/OpenLtm) · 个人维护
 
 **给 AI 编程 agent 的长期记忆插件：跨会话语义记忆存取**
 

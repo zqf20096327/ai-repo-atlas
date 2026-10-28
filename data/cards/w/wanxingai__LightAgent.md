@@ -1,6 +1,6 @@
 # wanxingai/LightAgent
 
-⭐ 1,240 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/wanxingai/LightAgent) · 个人维护 · 中文 README
+⭐ 1,240 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wanxingai/LightAgent) · 个人维护 · 中文 README
 
 **轻量级 Python Agent 框架：工具、记忆、护栏、多智能体与工作流**
 

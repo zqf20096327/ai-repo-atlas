@@ -1,6 +1,6 @@
 # langfuse/langfuse
 
-⭐ 36,612 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/langfuse/langfuse) · [官网](https://langfuse.com) · 组织维护
+⭐ 36,655 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/langfuse/langfuse) · [官网](https://langfuse.com) · 组织维护
 
 **LLM 应用的开源追踪与评估平台：开发、监控、调试 AI 应用**
 

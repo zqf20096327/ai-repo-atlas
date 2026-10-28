@@ -1,6 +1,6 @@
 # mingti-org/phyai
 
-⭐ 140 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mingti-org/phyai) · [官网](https://phyai.mintlify.app/) · 组织维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mingti-org/phyai) · [官网](https://phyai.mintlify.app/) · 组织维护 · 中文 README
 
 **面向 Physical AI 的低延迟推理服务引擎（VLA/WAM 模型）**
 

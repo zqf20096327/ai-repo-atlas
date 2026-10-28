@@ -1,6 +1,6 @@
 # plastic-labs/openclaw-honcho
 
-⭐ 87 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/plastic-labs/openclaw-honcho) · [官网](https://honcho.dev) · 组织维护
+⭐ 90 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/plastic-labs/openclaw-honcho) · [官网](https://honcho.dev) · 组织维护
 
 **为 OpenClaw agent 接入 Honcho 对话记忆的插件**
 

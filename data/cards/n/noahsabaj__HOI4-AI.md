@@ -1,6 +1,6 @@
 # noahsabaj/HOI4-AI
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/noahsabaj/HOI4-AI) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/noahsabaj/HOI4-AI) · 个人维护
 
 **用计算机视觉与强化学习让 AI 自学玩钢铁雄心4的研究原型**
 

@@ -1,6 +1,6 @@
 # bulaofen0036-coder/TIA_Portal_Openness_MCP
 
-⭐ 356 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP) · [官网](https://aeenhance.com) · 个人维护 · 中文 README
+⭐ 361 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bulaofen0036-coder/TIA_Portal_Openness_MCP) · [官网](https://aeenhance.com) · 个人维护 · 中文 README
 
 **通过 MCP/CLI 驱动西门子 TIA Portal 的工业自动化工具服务**
 

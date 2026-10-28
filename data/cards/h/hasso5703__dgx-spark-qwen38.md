@@ -1,6 +1,6 @@
 # hasso5703/dgx-spark-qwen38
 
-⭐ 241 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hasso5703/dgx-spark-qwen38) · [官网](https://hasso5703.github.io/) · 个人维护
+⭐ 242 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hasso5703/dgx-spark-qwen38) · [官网](https://hasso5703.github.io/) · 个人维护
 
 **一条命令把 DGX Spark/GB10 变成私有 AI 服务器**
 

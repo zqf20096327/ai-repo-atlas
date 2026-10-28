@@ -1,6 +1,6 @@
 # yangyang0507/starepo
 
-⭐ 34 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/yangyang0507/starepo) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yangyang0507/starepo) · 个人维护 · 中文 README
 
 **用语义搜索检索个人 GitHub star 仓库的 CLI 工具**
 

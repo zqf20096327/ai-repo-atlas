@@ -1,6 +1,6 @@
 # ToseaAI/llm-fingerprint-detector
 
-⭐ 40 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ToseaAI/llm-fingerprint-detector) · [官网](https://tosea.ai/free-tools/llm-api-fingerprint-checker) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/ToseaAI/llm-fingerprint-detector) · [官网](https://tosea.ai/free-tools/llm-api-fingerprint-checker) · 组织维护
 
 **核验 OpenAI 兼容 API 实际服务哪个 LLM 的指纹检测库**
 

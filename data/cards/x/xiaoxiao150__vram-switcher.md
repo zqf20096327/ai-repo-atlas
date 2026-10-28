@@ -1,6 +1,6 @@
 # xiaoxiao150/vram-switcher
 
-⭐ 27 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xiaoxiao150/vram-switcher) · [官网](https://github.com/xiaoxiao150/vram-switcher#readme) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xiaoxiao150/vram-switcher) · [官网](https://github.com/xiaoxiao150/vram-switcher#readme) · 个人维护 · 中文 README
 
 **给 AstrBot/DSH 本地 AI 陪伴的 GPU 调度插件：12 GB 卡上轮流跑 LLM/TTS/出图**
 

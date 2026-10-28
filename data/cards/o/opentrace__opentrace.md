@@ -1,6 +1,6 @@
 # opentrace/opentrace
 
-⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/opentrace/opentrace) · [官网](https://opentrace.ai) · 组织维护
+⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opentrace/opentrace) · [官网](https://opentrace.ai) · 组织维护
 
 **把代码库索引自建知识图谱并通过 MCP 暴露给 AI 工具的平台**
 

@@ -1,6 +1,6 @@
 # sk2andy/android-realtime-voice-isolation
 
-⭐ 20 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/sk2andy/android-realtime-voice-isolation) · 个人维护 · 中文 README
+⭐ 21 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/sk2andy/android-realtime-voice-isolation) · 个人维护 · 中文 README
 
 **安卓端设备上实时人声隔离应用：GTCRN+ONNX Runtime 处理媒体音频**
 

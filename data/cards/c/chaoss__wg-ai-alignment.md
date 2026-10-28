@@ -1,6 +1,6 @@
 # chaoss/wg-ai-alignment
 
-⭐ 23 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/chaoss/wg-ai-alignment) · 组织维护
+⭐ 23 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/chaoss/wg-ai-alignment) · 组织维护
 
 **CHAOSS AI 对齐工作组：协作枢纽与资源清单**
 

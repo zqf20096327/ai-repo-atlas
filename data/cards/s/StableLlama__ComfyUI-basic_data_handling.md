@@ -1,6 +1,6 @@
 # StableLlama/ComfyUI-basic_data_handling
 
-⭐ 52 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/StableLlama/ComfyUI-basic_data_handling) · 个人维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/StableLlama/ComfyUI-basic_data_handling) · 个人维护
 
 **给 ComfyUI 用户的通用数据操作节点包**
 

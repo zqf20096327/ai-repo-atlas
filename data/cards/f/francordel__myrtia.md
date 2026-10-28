@@ -1,6 +1,6 @@
 # francordel/myrtia
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/francordel/myrtia) · [官网](https://myrtia.ai) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/francordel/myrtia) · [官网](https://myrtia.ai) · 个人维护
 
 **面向 LLM 与 AI agent 的红队评估框架，多模型议事会生成攻击**
 

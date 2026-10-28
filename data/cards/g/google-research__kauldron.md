@@ -1,6 +1,6 @@
 # google-research/kauldron
 
-⭐ 339 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-research/kauldron) · [官网](https://kauldron.readthedocs.io/) · 组织维护
+⭐ 352 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google-research/kauldron) · [官网](https://kauldron.readthedocs.io/) · 组织维护
 
 **面向研究迭代速度与模块化的 JAX/Flax 模型训练库**
 

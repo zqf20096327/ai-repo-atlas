@@ -1,6 +1,6 @@
 # Hulupeep/Specflow
 
-⭐ 25 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hulupeep/Specflow) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hulupeep/Specflow) · 个人维护
 
 **把项目规格转成契约测试，拦截 LLM 编码漂移**
 

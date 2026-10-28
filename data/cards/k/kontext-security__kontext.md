@@ -1,6 +1,6 @@
 # kontext-security/kontext
 
-⭐ 232 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kontext-security/kontext) · [官网](https://app.kontext.security) · 组织维护
+⭐ 233 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kontext-security/kontext) · [官网](https://app.kontext.security) · 组织维护
 
 **为 AI agent 提供本地策略拦截与授权审计的安全运行时**
 

@@ -1,6 +1,6 @@
 # MICS-Lab/thunder
 
-⭐ 51 · Python · CC-BY-4.0 · 推送 2026-06-08 · [GitHub](https://github.com/MICS-Lab/thunder) · [官网](https://mics-lab.github.io/thunder/) · 组织维护
+⭐ 51 · Python · CC-BY-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/MICS-Lab/thunder) · [官网](https://mics-lab.github.io/thunder/) · 组织维护
 
 **病理图像基础模型评测基准：23 个模型 16 个数据集横向评测**
 

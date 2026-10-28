@@ -1,6 +1,6 @@
 # SAILResearch/awesome-ai-leaderboard
 
-⭐ 384 · 推送 2026-10-22 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护
+⭐ 384 · 推送 2026-10-28 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护
 
 **AI 榜单资源策展清单：收录排行榜、工具与评测组织**
 

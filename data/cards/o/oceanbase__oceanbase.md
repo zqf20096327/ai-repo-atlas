@@ -1,6 +1,6 @@
 # oceanbase/oceanbase
 
-⭐ — · [GitHub]() · 组织维护 · 中文 README
+⭐ 10,357 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/oceanbase/oceanbase) · [官网](https://en.oceanbase.com) · 组织维护 · 中文 README
 
 **蚂蚁集团开发的分布式关系型数据库（HTAP，兼容 MySQL）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

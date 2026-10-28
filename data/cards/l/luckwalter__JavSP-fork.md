@@ -1,6 +1,6 @@
 # luckwalter/JavSP-fork
 
-⭐ 23 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/luckwalter/JavSP-fork) · 个人维护 · 中文 README
+⭐ 23 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/luckwalter/JavSP-fork) · 个人维护 · 中文 README
 
 **带 Web 界面的 AV 元数据刮削器，多站点汇总并生成媒体库 NFO**
 

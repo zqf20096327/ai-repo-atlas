@@ -1,6 +1,6 @@
 # halilcosdu/laravel-slower
 
-⭐ 413 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/halilcosdu/laravel-slower) · [官网](https://packagist.org/packages/halilcosdu/laravel-slower) · 个人维护
+⭐ 414 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/halilcosdu/laravel-slower) · [官网](https://packagist.org/packages/halilcosdu/laravel-slower) · 个人维护
 
 **Laravel 慢查询监控包：捕获慢 SQL 并由 LLM 给出优化建议**
 

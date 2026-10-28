@@ -1,6 +1,6 @@
 # IvenKooLab/comfy-agent
 
-⭐ 30 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/IvenKooLab/comfy-agent) · [官网](https://github.com/IvenKooLab/comfy-agent/releases/latest) · 组织维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/IvenKooLab/comfy-agent) · [官网](https://github.com/IvenKooLab/comfy-agent/releases/latest) · 组织维护 · 中文 README
 
 **ComfyUI 本地桌面工作台：创作、模板、模型管理与短剧批量流水线**
 

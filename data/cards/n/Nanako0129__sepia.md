@@ -1,6 +1,6 @@
 # Nanako0129/sepia
 
-⭐ 3,516 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
+⭐ 3,536 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nanako0129/sepia) · 个人维护 · 中文 README
 
 **面向 Agent 的去 AI 味写作技能包，修复叙事结构与文体**
 

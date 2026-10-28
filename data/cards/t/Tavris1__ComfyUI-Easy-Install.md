@@ -1,6 +1,6 @@
 # Tavris1/ComfyUI-Easy-Install
 
-⭐ 2,027 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护
+⭐ 2,031 · Batchfile · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护
 
 **Windows 一键便携安装 ComfyUI 的安装器，带 EZi Desktop 管理面板**
 

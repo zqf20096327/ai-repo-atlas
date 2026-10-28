@@ -1,6 +1,6 @@
 # xai-org/xai-sdk-python
 
-⭐ 591 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/xai-sdk-python) · 组织维护
+⭐ 592 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/xai-sdk-python) · 组织维护
 
 **xAI 官方 Python SDK：接入 xAI API 的 gRPC 客户端库**
 

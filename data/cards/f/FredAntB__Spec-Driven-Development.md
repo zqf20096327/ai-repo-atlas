@@ -1,6 +1,6 @@
 # FredAntB/Spec-Driven-Development
 
-⭐ 155 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/FredAntB/Spec-Driven-Development) · 个人维护
+⭐ 156 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/FredAntB/Spec-Driven-Development) · 个人维护
 
 **Claude 技能：写代码前先生成需求/设计/任务规格，统一多款 AI 编码工具**
 

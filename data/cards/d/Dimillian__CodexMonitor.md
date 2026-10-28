@@ -1,6 +1,6 @@
 # Dimillian/CodexMonitor
 
-⭐ 4,351 · TypeScript · MIT · 推送 2026-03-26 · [GitHub](https://github.com/Dimillian/CodexMonitor) · [官网](https://www.codexmonitor.app) · 个人维护
+⭐ 4,353 · TypeScript · MIT · 推送 2026-03-26 · [GitHub](https://github.com/Dimillian/CodexMonitor) · [官网](https://www.codexmonitor.app) · 个人维护
 
 **编排多个 Codex agent 的 Tauri 桌面客户端，含 iOS 远程模式**
 

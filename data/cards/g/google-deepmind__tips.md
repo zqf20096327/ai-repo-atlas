@@ -1,6 +1,6 @@
 # google-deepmind/tips
 
-⭐ 639 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/google-deepmind/tips) · [官网](https://gdm-tipsv2.github.io/) · 组织维护
+⭐ 640 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/google-deepmind/tips) · [官网](https://gdm-tipsv2.github.io/) · 组织维护
 
 **带空间感知的图文预训练视觉编码器模型实现与权重**
 

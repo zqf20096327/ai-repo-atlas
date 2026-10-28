@@ -1,6 +1,6 @@
 # receptron/laya
 
-⭐ 1,007 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
+⭐ 1,012 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
 
 **Node.js/TypeScript 运行 Laya System-1 决策模型的 ONNX 封装**
 

@@ -1,6 +1,6 @@
 # vercel/ai-action
 
-⭐ 127 · JavaScript · ISC · 推送 2026-10-06 · [GitHub](https://github.com/vercel/ai-action) · 组织维护
+⭐ 128 · JavaScript · ISC · 推送 2026-10-06 · [GitHub](https://github.com/vercel/ai-action) · 组织维护
 
 **在 GitHub Actions 工作流中调用 AI 模型的 Action**
 

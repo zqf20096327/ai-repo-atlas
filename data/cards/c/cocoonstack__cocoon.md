@@ -1,6 +1,6 @@
 # cocoonstack/cocoon
 
-⭐ 255 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/cocoonstack/cocoon) · [官网](https://cocoonstack.github.io/cocoon/) · 组织维护
+⭐ 255 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cocoonstack/cocoon) · [官网](https://cocoonstack.github.io/cocoon/) · 组织维护
 
 **轻量 MicroVM 引擎：为开发者提供 Docker 式虚拟机管理**
 

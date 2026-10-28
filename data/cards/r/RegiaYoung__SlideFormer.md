@@ -1,6 +1,6 @@
 # RegiaYoung/SlideFormer
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/RegiaYoung/SlideFormer) · [官网](https://arxiv.org/abs/2603.16428) · 个人维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RegiaYoung/SlideFormer) · [官网](https://dl.acm.org/doi/10.1145/3770743.3804125) · 个人维护
 
 **单 GPU 全参数微调 LLM 的异构卸载训练运行时**
 

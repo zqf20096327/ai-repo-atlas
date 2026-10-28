@@ -1,6 +1,6 @@
 # Sparticle62ops/pssa
 
-⭐ 117 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Sparticle62ops/pssa) · [官网](https://sparticle62ops.github.io/pssa-site/) · 个人维护
+⭐ 117 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Sparticle62ops/pssa) · [官网](https://sparticle62ops.github.io/pssa-site/) · 个人维护
 
 **用 Rust 从零实现的非 Transformer 语言模型（塑性状态空间架构）**
 

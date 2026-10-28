@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Breeze-TTS-2
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
+⭐ 129 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
 
 **ComfyUI 的 Breeze TTS 2 语音合成节点包**
 

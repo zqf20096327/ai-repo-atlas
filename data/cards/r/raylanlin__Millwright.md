@@ -1,6 +1,6 @@
 # raylanlin/Millwright
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/raylanlin/Millwright) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/raylanlin/Millwright) · 个人维护 · 中文 README
 
 **让 AI Agent 直接操作 SolidWorks 的开源桌面工作台**
 

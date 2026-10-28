@@ -1,6 +1,6 @@
 # RichardXu001/the-fde-handbook
 
-⭐ 81 · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/RichardXu001/the-fde-handbook) · [官网](https://0to1.site) · 个人维护 · 中文 README
+⭐ 82 · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/RichardXu001/the-fde-handbook) · [官网](https://0to1.site) · 个人维护 · 中文 README
 
 **面向前线部署工程师（FDE）的企业 AI 落地中文开源手册**
 

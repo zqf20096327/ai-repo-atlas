@@ -1,6 +1,6 @@
 # NVIDIA/nccl-extensions
 
-⭐ 71 · Cuda · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/nccl-extensions) · 组织维护
+⭐ 72 · Cuda · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/nccl-extensions) · 组织维护
 
 **面向 AI 训练的 GPU 通信模式库，基于 NCCL API**
 

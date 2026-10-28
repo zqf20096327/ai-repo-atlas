@@ -1,6 +1,6 @@
 # Greninja9257/LabLLM
 
-⭐ 38 · Swift · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Greninja9257/LabLLM) · [官网](https://greninja9257.github.io/LabLLM/) · 个人维护
+⭐ 39 · Swift · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Greninja9257/LabLLM) · [官网](https://greninja9257.github.io/LabLLM/) · 个人维护
 
 **macOS 原生应用：在 Apple Silicon 上从零构建、训练并对话小 LLM**
 

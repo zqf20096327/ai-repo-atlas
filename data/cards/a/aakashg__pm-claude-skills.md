@@ -1,6 +1,6 @@
 # aakashg/pm-claude-skills
 
-⭐ 114 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/aakashg/pm-claude-skills) · [官网](https://www.news.aakashg.com/p/steal-6-of-my-claude-skills) · 个人维护
+⭐ 115 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/aakashg/pm-claude-skills) · [官网](https://www.news.aakashg.com/p/steal-6-of-my-claude-skills) · 个人维护
 
 **给产品经理的 5 个 Claude Code 技能包**
 

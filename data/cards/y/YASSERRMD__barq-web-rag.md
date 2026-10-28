@@ -1,6 +1,6 @@
 # YASSERRMD/barq-web-rag
 
-⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/YASSERRMD/barq-web-rag) · 个人维护
+⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/YASSERRMD/barq-web-rag) · 个人维护
 
 **浏览器内本地 RAG 文档问答应用，数据不出设备**
 

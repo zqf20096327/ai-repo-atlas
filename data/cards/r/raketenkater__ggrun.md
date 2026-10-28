@@ -1,6 +1,6 @@
 # raketenkater/ggrun
 
-⭐ 282 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
+⭐ 282 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
 
 **本地 GGUF 模型启动器：按显存/内存精确规划并启动 llama.cpp 后端**
 

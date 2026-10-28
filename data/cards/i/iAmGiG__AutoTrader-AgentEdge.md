@@ -1,6 +1,6 @@
 # iAmGiG/AutoTrader-AgentEdge
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/iAmGiG/AutoTrader-AgentEdge) · [官网](https://github.com/iAmGiG/AutoTrader-AgentEdge/wiki) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 AutoGen 多智能体的美股交易系统，人机协同的纸面交易与研究验证**
 
@@ -11,7 +11,7 @@ OptionsCommander（原 RH2MAS）是构建于 Microsoft AutoGen 之上的多智�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

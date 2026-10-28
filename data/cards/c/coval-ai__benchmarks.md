@@ -1,6 +1,6 @@
 # coval-ai/benchmarks
 
-⭐ 104 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/coval-ai/benchmarks) · [官网](https://benchmarks.coval.ai) · 组织维护
+⭐ 104 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/coval-ai/benchmarks) · [官网](https://benchmarks.coval.ai) · 组织维护
 
 **语音 AI 模型的持续基准测试框架：TTS/STT/S2S 延迟与准确率**
 

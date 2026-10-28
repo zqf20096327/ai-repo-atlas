@@ -1,6 +1,6 @@
 # muzimu217/ui-design-agent-kit
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/muzimu217/ui-design-agent-kit) · [官网](https://agent.kcos.club) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/muzimu217/ui-design-agent-kit) · [官网](https://agent.kcos.club) · 个人维护 · 中文 README
 
 **面向 UI 设计的智能体提示词与工作流套件：从口语需求到可验收界面**
 

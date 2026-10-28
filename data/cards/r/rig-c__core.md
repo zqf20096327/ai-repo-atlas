@@ -1,6 +1,6 @@
 # rig-c/core
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/rig-c/core) · [官网](https://rig-c.org) · 个人维护
+⭐ 21 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/rig-c/core) · [官网](https://rig-c.org) · 个人维护
 
 **供 AI agent 编写并自检 2D 骨骼绑定（Spine 4.3）的编译器**
 

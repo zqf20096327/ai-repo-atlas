@@ -1,6 +1,6 @@
 # Agoragentic/agoragentic-integrations
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Agoragentic/agoragentic-integrations) · [官网](https://agoragentic.com/integrations/) · 组织维护
+⭐ 41 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Agoragentic/agoragentic-integrations) · [官网](https://agoragentic.com/integrations/) · 组织维护
 
 **已部署 AI agent 的治理与证据层：策略边界、审批与回执**
 

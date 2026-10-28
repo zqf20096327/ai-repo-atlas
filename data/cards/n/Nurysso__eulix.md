@@ -1,6 +1,6 @@
 # Nurysso/eulix
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nurysso/eulix) · 个人维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Nurysso/eulix) · 个人维护
 
 **本地优先的大型代码库索引与检索工具：符号、调用图、可选 LLM 问答**
 

@@ -1,6 +1,6 @@
 # NPC-Worldwide/npcpy
 
-⭐ 1,521 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
+⭐ 1,521 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
 
 **多智能体与知识图谱研发的 Python 库，支持本地/云端模型**
 

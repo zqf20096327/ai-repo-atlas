@@ -1,6 +1,6 @@
 # Bobby-Gray/open-tabletop-gm
 
-⭐ 61 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Bobby-Gray/open-tabletop-gm) · [官网](https://neuralinitiative.ai) · 个人维护
+⭐ 61 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Bobby-Gray/open-tabletop-gm) · [官网](https://neuralinitiative.ai) · 个人维护
 
 **LLM 无关的桌面 RPG 主持框架：让任意 LLM 当 Game Master**
 

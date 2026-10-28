@@ -1,6 +1,6 @@
 # aws/amazon-sagemaker-examples
 
-⭐ 11,000 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/aws/amazon-sagemaker-examples) · [官网](https://sagemaker-examples.readthedocs.io) · 组织维护
+⭐ 10,999 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/aws/amazon-sagemaker-examples) · [官网](https://sagemaker-examples.readthedocs.io) · 组织维护
 
 **Amazon SageMaker 官方 Jupyter 示例集：构建/训练/部署 ML 模型**
 

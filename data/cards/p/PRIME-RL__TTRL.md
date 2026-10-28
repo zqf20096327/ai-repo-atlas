@@ -1,6 +1,6 @@
 # PRIME-RL/TTRL
 
-⭐ 1,130 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/PRIME-RL/TTRL) · [官网](https://arxiv.org/abs/2504.16084) · 组织维护
+⭐ 1,132 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/PRIME-RL/TTRL) · [官网](https://arxiv.org/abs/2504.16084) · 组织维护
 
 **在无标签测试数据上对 LLM 做测试时强化学习的研究框架**
 

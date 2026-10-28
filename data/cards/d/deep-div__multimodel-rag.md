@@ -1,6 +1,6 @@
 # deep-div/multimodel-rag
 
-⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/deep-div/multimodel-rag) · 个人维护
+⭐ 33 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-19 · [GitHub](https://github.com/deep-div/multimodel-rag) · 个人维护
 
 **多模态 RAG 项目：从 PDF 检索并生成图文回答**
 

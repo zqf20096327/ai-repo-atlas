@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleSeg
 
-⭐ 9,416 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/PaddlePaddle/PaddleSeg) · [官网](https://arxiv.org/abs/2101.06175) · 组织维护 · 中文 README
+⭐ 9,417 · Python · Apache-2.0 · 推送 2026-02-05 · [GitHub](https://github.com/PaddlePaddle/PaddleSeg) · [官网](https://arxiv.org/abs/2101.06175) · 组织维护 · 中文 README
 
 **飞桨图像分割开发套件：45+模型全流程训练到部署**
 

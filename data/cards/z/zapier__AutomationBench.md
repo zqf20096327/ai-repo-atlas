@@ -1,6 +1,6 @@
 # zapier/AutomationBench
 
-⭐ 359 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/zapier/AutomationBench) · [官网](https://zapier.com/benchmarks) · 组织维护
+⭐ 362 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/zapier/AutomationBench) · [官网](https://zapier.com/benchmarks) · 组织维护
 
 **评估 AI agent 完成真实业务流程能力的基准**
 

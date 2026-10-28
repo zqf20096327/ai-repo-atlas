@@ -1,6 +1,6 @@
 # google-deepmind/formal-conjectures
 
-⭐ 1,338 · Lean · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/formal-conjectures) · [官网](https://google-deepmind.github.io/formal-conjectures/) · 组织维护
+⭐ 1,338 · Lean · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google-deepmind/formal-conjectures) · [官网](https://google-deepmind.github.io/formal-conjectures/) · 组织维护
 
 **面向 Lean 4/mathlib 的数学猜想形式化语句数据集**
 

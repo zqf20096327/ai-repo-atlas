@@ -1,6 +1,6 @@
 # SFARPak/AliFullStack
 
-⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/SFARPak/AliFullStack) · 组织维护
+⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SFARPak/AliFullStack) · 组织维护
 
 **本地优先的开源全栈 AI 应用构建器，用 LLM 生成前后端代码**
 

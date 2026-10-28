@@ -1,6 +1,6 @@
 # valyuAI/skills
 
-⭐ 24 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/valyuAI/skills) · [官网](https://skills.sh/valyuai/skills/valyu-best-practices) · 组织维护
+⭐ 23 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/valyuAI/skills) · [官网](https://skills.sh/valyuai/skills/valyu-best-practices) · 组织维护
 
 **让 AI agent 接入 Valyu 检索 API 的技能包**
 

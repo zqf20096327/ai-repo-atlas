@@ -1,6 +1,6 @@
 # EvoTestOps/AISysRev
 
-⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EvoTestOps/AISysRev) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EvoTestOps/AISysRev) · 组织维护
 
 **面向系统综述的 LLM 题录-摘要筛选 Web 应用**
 

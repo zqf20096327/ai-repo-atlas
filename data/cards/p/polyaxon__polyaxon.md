@@ -1,6 +1,6 @@
 # polyaxon/polyaxon
 
-⭐ 3,746 · MDX · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
+⭐ 3,746 · MDX · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/polyaxon/polyaxon) · [官网](https://polyaxon.com) · 组织维护
 
 **深度学习实验平台：可复现、自动化与扩展训练监控**
 

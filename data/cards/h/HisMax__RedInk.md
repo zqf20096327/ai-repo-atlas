@@ -1,6 +1,6 @@
 # HisMax/RedInk
 
-⭐ 5,661 · Python · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/HisMax/RedInk) · [官网](https://redink.top) · 个人维护 · 中文 README
+⭐ 5,663 · Python · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/HisMax/RedInk) · [官网](https://redink.top) · 个人维护 · 中文 README
 
 **一句话生成小红书图文帖的 Web 应用（封面+内页+文案）**
 

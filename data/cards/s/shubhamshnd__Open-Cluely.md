@@ -1,6 +1,6 @@
 # shubhamshnd/Open-Cluely
 
-⭐ 186 · JavaScript · 推送 2026-09-24 · [GitHub](https://github.com/shubhamshnd/Open-Cluely) · [官网](https://github.com/shubhamshnd/Open-Cluely) · 个人维护
+⭐ 190 · JavaScript · 推送 2026-09-24 · [GitHub](https://github.com/shubhamshnd/Open-Cluely) · [官网](https://github.com/shubhamshnd/Open-Cluely) · 个人维护
 
 **实时 AI 面试助手桌面应用：转录+截屏+Gemini 生成回答**
 

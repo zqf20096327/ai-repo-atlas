@@ -1,6 +1,6 @@
 # Azure/kars
 
-⭐ 43 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Azure/kars) · 组织维护
+⭐ 43 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure/kars) · 组织维护
 
 **微软开源的 Kubernetes AI agent 安全运行时参考栈**
 

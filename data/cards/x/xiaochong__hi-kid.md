@@ -1,6 +1,6 @@
 # xiaochong/hi-kid
 
-⭐ 1,169 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/xiaochong/hi-kid) · [官网](https://xiaochong.github.io/hi-kid) · 个人维护 · 中文 README
+⭐ 1,171 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/xiaochong/hi-kid) · [官网](https://xiaochong.github.io/hi-kid) · 个人维护 · 中文 README
 
 **面向儿童英语口语练习的离线 AI 语音对话桌面应用**
 

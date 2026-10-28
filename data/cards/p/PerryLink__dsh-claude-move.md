@@ -1,6 +1,6 @@
 # PerryLink/dsh-claude-move
 
-⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-claude-move) · [官网](https://perrylink.github.io/plugins/dsh-claude-move/) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-claude-move) · [官网](https://perrylink.github.io/plugins/dsh-claude-move/) · 个人维护 · 中文 README
 
 **把 Claude Code 等四源会话迁移进 DeepSeek Harness 的 DSH 插件**
 

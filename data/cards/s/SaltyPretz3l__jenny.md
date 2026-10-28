@@ -1,6 +1,6 @@
 # SaltyPretz3l/jenny
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SaltyPretz3l/jenny) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SaltyPretz3l/jenny) · 个人维护
 
 **本地优先的桌面 AI 编程助手，用本地模型写代码、改文件、跑命令**
 

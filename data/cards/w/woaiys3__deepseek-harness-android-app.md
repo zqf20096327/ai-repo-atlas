@@ -1,6 +1,6 @@
 # woaiys3/deepseek-harness-android-app
 
-⭐ 659 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/woaiys3/deepseek-harness-android-app) · [官网](https://dshaa.xin) · 个人维护 · 中文 README
+⭐ 676 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/woaiys3/deepseek-harness-android-app) · [官网](https://dshaa.xin) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 打包成 APK，让 AI 免 Root 操作安卓手机**
 

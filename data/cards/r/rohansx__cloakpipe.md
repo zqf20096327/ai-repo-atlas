@@ -1,6 +1,6 @@
 # rohansx/cloakpipe
 
-⭐ 49 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rohansx/cloakpipe) · [官网](https://cloakpipe.co) · 个人维护
+⭐ 49 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rohansx/cloakpipe) · [官网](https://cloakpipe.co) · 个人维护
 
 **面向生产 AI agent 的可验证控制平面：评测、认证、执行与取证**
 

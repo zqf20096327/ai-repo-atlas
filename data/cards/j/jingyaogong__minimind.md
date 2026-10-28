@@ -1,6 +1,6 @@
 # jingyaogong/minimind
 
-⭐ 64,496 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
+⭐ 64,553 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
 
 **从零训练 64M 超小语言模型的开源教程项目**
 

@@ -1,6 +1,6 @@
 # cyyeh/agent-loop-visualizer
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyyeh/agent-loop-visualizer) · [官网](https://cyyeh.github.io/agent-loop-visualizer/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **可视化展示 AI agent 循环内部机制的教学应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

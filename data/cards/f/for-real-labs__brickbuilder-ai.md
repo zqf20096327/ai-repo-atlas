@@ -1,6 +1,6 @@
 # for-real-labs/brickbuilder-ai
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/for-real-labs/brickbuilder-ai) · [官网](https://brickbuilder.ai) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/for-real-labs/brickbuilder-ai) · [官网](https://brickbuilder.ai) · 组织维护
 
 **LEGO 搭建设计 agent：用 LLM 生成积木模型与搭建说明**
 

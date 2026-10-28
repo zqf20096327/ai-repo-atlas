@@ -1,6 +1,6 @@
 # calcuis/gguf
 
-⭐ 279 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/calcuis/gguf) · [官网](https://pypi.org/project/gguf-node) · 个人维护
+⭐ 280 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/calcuis/gguf) · [官网](https://pypi.org/project/gguf-node) · 个人维护
 
 **ComfyUI 的 GGUF 节点：加载与转换 GGUF/ safetensors 模型**
 

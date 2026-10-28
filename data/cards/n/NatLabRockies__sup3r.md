@@ -1,6 +1,6 @@
 # NatLabRockies/sup3r
 
-⭐ 142 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NatLabRockies/sup3r) · [官网](https://natlabrockies.github.io/sup3r/) · 组织维护
+⭐ 142 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/NatLabRockies/sup3r) · [官网](https://natlabrockies.github.io/sup3r/) · 组织维护
 
 **用 GAN 将粗分辨率气候数据降尺度为高时空分辨率数据**
 

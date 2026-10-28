@@ -1,6 +1,6 @@
 # FrigadeHQ/hob
 
-⭐ 251 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/FrigadeHQ/hob) · [官网](https://hob.chat) · 组织维护
+⭐ 326 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FrigadeHQ/hob) · [官网](https://hob.chat) · 组织维护
 
 **本地运行开源权重模型的桌面 AI 聊天助手**
 

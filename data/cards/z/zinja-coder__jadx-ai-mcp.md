@@ -1,6 +1,6 @@
 # zinja-coder/jadx-ai-mcp
 
-⭐ 2,944 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) · 个人维护
+⭐ 2,949 · Java · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) · 个人维护
 
 **让 LLM 通过 MCP 实时分析 JADX 反编译代码的插件+服务器**
 

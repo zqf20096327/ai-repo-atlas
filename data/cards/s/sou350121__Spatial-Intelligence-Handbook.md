@@ -1,6 +1,6 @@
 # sou350121/Spatial-Intelligence-Handbook
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/sou350121/Spatial-Intelligence-Handbook) · [官网](https://kensou.mintlify.app) · 个人维护 · 中文 README
+⭐ 36 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sou350121/Spatial-Intelligence-Handbook) · [官网](https://kensou.mintlify.app) · 个人维护 · 中文 README
 
 **跨 embodiment 空间智能（SLAM/VIO/3D 表征）策展手册**
 

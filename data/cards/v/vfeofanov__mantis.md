@@ -1,6 +1,6 @@
 # vfeofanov/mantis
 
-⭐ 156 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vfeofanov/mantis) · 组织维护
+⭐ 158 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/vfeofanov/mantis) · 组织维护
 
 **轻量时间序列分类基础模型库，零样本特征提取与微调**
 

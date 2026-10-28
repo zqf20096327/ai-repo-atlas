@@ -1,6 +1,6 @@
 # vixl-ai/vixl
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/vixl-ai/vixl) · [官网](https://vixl.app/) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vixl-ai/vixl) · [官网](https://vixl.app/) · 组织维护
 
 **本地优先、自带 API key 的桌面编程 agent**
 

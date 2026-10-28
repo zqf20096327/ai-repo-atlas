@@ -1,6 +1,6 @@
 # santhreal/veyyon
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/santhreal/veyyon) · [官网](https://veyyon.dev) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/santhreal/veyyon) · [官网](https://veyyon.dev) · 个人维护
 
 **自带密钥的终端 AI 编程代理（CLI/TUI）**
 

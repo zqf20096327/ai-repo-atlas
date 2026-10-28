@@ -1,6 +1,6 @@
 # calesthio/OpenMontage
 
-⭐ 72,435 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
+⭐ 72,695 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
 
 **把 AI 编码助手变成完整视频制作工作室的 agentic 系统**
 

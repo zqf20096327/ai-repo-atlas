@@ -1,6 +1,6 @@
 # CodeSoul-co/Plasmod
 
-⭐ 25 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/CodeSoul-co/Plasmod) · [官网](https://plasmod.code-soul.com/) · 组织维护 · 中文 README
+⭐ 25 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CodeSoul-co/Plasmod) · [官网](https://plasmod.code-soul.com/) · 组织维护 · 中文 README
 
 **面向 AI agent 的原生数据库：记忆/状态/事件的一等对象与证据检索**
 

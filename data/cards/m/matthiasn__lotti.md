@@ -1,6 +1,6 @@
 # matthiasn/lotti
 
-⭐ 1,201 · Dart · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/matthiasn/lotti) · [官网](https://matthiasn.github.io/lotti/) · 个人维护
+⭐ 1,201 · Dart · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/matthiasn/lotti) · [官网](https://matthiasn.github.io/lotti/) · 个人维护
 
 **端到端加密的个人记录应用，AI 助手提议、用户批准**
 

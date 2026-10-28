@@ -1,6 +1,6 @@
 # google-deepmind/torax
 
-⭐ 744 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
+⭐ 744 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
 
 **基于 JAX 的托卡马克芯部输运可微分模拟器**
 

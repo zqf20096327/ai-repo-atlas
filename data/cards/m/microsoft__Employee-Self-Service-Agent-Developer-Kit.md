@@ -1,6 +1,6 @@
 # microsoft/Employee-Self-Service-Agent-Developer-Kit
 
-⭐ 30 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Employee-Self-Service-Agent-Developer-Kit) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Employee-Self-Service-Agent-Developer-Kit) · 组织维护
 
 **微软 ESS 员工自助服务智能体的定制开发工具包**
 

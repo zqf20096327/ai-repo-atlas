@@ -1,6 +1,6 @@
 # anurmatov/phleet
 
-⭐ 21 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/anurmatov/phleet) · 个人维护
+⭐ 21 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/anurmatov/phleet) · 个人维护
 
 **自托管多 agent 平台：Docker 化 agent 由 Claude/Codex 驱动，Temporal 编排，Telegram 协调**
 

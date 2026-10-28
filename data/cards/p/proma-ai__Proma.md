@@ -1,6 +1,6 @@
 # proma-ai/Proma
 
-⭐ 2,237 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/proma-ai/Proma) · [官网](https://proma.cool/download) · 组织维护 · 中文 README
+⭐ 2,234 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/proma-ai/Proma) · [官网](https://proma.cool/download) · 组织维护 · 中文 README
 
 **面向专业用户的开源桌面端通用 Agent 产品**
 

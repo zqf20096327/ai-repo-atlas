@@ -1,6 +1,6 @@
 # livetennisapi/livetennisapi-mcp
 
-⭐ 147 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/livetennisapi/livetennisapi-mcp) · [官网](https://docs.livetennisapi.com) · 组织维护
+⭐ 148 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/livetennisapi/livetennisapi-mcp) · [官网](https://docs.livetennisapi.com) · 组织维护
 
 **给 LLM agent 提供实时网球比分与数据的 MCP 服务器**
 

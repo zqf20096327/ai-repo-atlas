@@ -1,6 +1,6 @@
 # giantswarm/muster
 
-⭐ 40 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/giantswarm/muster) · [官网](https://giantswarm.github.io/muster/) · 组织维护
+⭐ 40 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/giantswarm/muster) · [官网](https://giantswarm.github.io/muster/) · 组织维护
 
 **MCP 服务器聚合网关：单端点统一接入组织全部 MCP 工具**
 

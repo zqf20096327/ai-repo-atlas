@@ -1,6 +1,6 @@
 # huggingface/swift-huggingface
 
-⭐ 178 · Swift · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/swift-huggingface) · [官网](https://huggingface.co/docs/hub/index) · 组织维护
+⭐ 179 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/swift-huggingface) · [官网](https://huggingface.co/docs/hub/index) · 组织维护
 
 **Hugging Face Hub 与 Inference Providers 的 Swift 客户端库**
 

@@ -1,6 +1,6 @@
 # peakflames/PolarionMcpServers
 
-⭐ 41 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/peakflames/PolarionMcpServers) · 组织维护
+⭐ 42 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/peakflames/PolarionMcpServers) · 组织维护
 
 **面向 Polarion ALM 的 MCP 服务器，供 AI 客户端读取工作项**
 

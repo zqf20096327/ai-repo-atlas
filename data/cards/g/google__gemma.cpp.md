@@ -1,6 +1,6 @@
 # google/gemma.cpp
 
-⭐ 7,067 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/gemma.cpp) · 组织维护
+⭐ 7,068 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/gemma.cpp) · 组织维护
 
 **Gemma 模型的轻量独立 C++ 推理引擎，面向研究实验**
 

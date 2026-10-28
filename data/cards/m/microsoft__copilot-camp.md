@@ -1,6 +1,6 @@
 # microsoft/copilot-camp
 
-⭐ 673 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/copilot-camp) · 组织维护
+⭐ 673 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/copilot-camp) · 组织维护
 
 **微软官方 Microsoft 365 Copilot 扩展开发实训课程仓库**
 

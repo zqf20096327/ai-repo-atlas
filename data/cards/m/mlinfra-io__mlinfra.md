@@ -1,6 +1,6 @@
 # mlinfra-io/mlinfra
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlinfra-io/mlinfra) · [官网](https://mlinfra.io/) · 组织维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mlinfra-io/mlinfra) · [官网](https://mlinfra.io/) · 组织维护
 
 **一条命令在多云与本地部署 MLOps 基础设施的工具**
 

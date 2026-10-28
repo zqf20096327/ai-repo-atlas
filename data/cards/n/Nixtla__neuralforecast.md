@@ -1,6 +1,6 @@
 # Nixtla/neuralforecast
 
-⭐ 4,297 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nixtla/neuralforecast) · [官网](https://nixtlaverse.nixtla.io/neuralforecast) · 组织维护
+⭐ 4,299 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nixtla/neuralforecast) · [官网](https://nixtlaverse.nixtla.io/neuralforecast) · 组织维护
 
 **面向开发者的神经预测模型库：30+ 时序预测模型统一接口**
 

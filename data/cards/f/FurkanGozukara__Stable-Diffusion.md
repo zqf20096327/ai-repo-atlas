@@ -1,6 +1,6 @@
 # FurkanGozukara/Stable-Diffusion
 
-⭐ 2,781 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) · [官网](https://www.youtube.com/SECourses) · 组织维护
+⭐ 2,781 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) · [官网](https://www.youtube.com/SECourses) · 组织维护
 
 **SECourses 生成式 AI 视频教程索引清单**
 

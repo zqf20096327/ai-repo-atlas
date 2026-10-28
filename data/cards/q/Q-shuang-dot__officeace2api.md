@@ -1,6 +1,6 @@
 # Q-shuang-dot/officeace2api
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Q-shuang-dot/officeace2api) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Q-shuang-dot/officeace2api) · 个人维护 · 中文 README
 
 **把模型网关反代成 OpenAI 兼容 API 的零依赖 Node 网关**
 

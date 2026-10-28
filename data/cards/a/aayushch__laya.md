@@ -1,6 +1,6 @@
 # aayushch/laya
 
-⭐ 770 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aayushch/laya) · [官网](https://laya.aay.sh) · 个人维护
+⭐ 772 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/aayushch/laya) · [官网](https://laya.aay.sh) · 个人维护
 
 **本地优先的 AI 通知聚合指挥中心：整合办公工具事件并生成可批准的操作卡片**
 

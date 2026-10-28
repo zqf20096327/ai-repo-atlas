@@ -1,6 +1,6 @@
 # FrigadeHQ/trench
 
-⭐ 1,665 · TypeScript · MIT · 推送 2026-04-06 · [GitHub](https://github.com/FrigadeHQ/trench) · [官网](https://trench.dev) · 组织维护
+⭐ 1,666 · TypeScript · MIT · 推送 2026-04-06 · [GitHub](https://github.com/FrigadeHQ/trench) · [官网](https://trench.dev) · 组织维护
 
 **基于 Kafka 与 ClickHouse 的开源自托管事件追踪分析基础设施**
 

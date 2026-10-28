@@ -1,6 +1,6 @@
 # tg-prplx/vellium
 
-⭐ 141 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/tg-prplx/vellium) · 个人维护 · 中文 README
+⭐ 143 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/tg-prplx/vellium) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 对话/角色扮演/长文写作工作台**
 

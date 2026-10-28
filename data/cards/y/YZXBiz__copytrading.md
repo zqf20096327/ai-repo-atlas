@@ -1,6 +1,6 @@
 # YZXBiz/copytrading
 
-⭐ 88 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/YZXBiz/copytrading) · [官网](https://github.com/YZXBiz/copytrading/releases) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/YZXBiz/copytrading) · [官网](https://github.com/YZXBiz/copytrading/releases) · 个人维护 · 中文 README
 
 **macOS 跟单应用：读取 Discord 交易信号并限风下单到 Alpaca**
 

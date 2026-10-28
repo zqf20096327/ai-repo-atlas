@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next-mac
 
-⭐ 84 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/z91772524-ai/pojia-next-mac) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/z91772524-ai/pojia-next-mac) · 个人维护 · 中文 README
 
 **macOS 工具：替换 WorkBuddy/Codex 客户端内置提示词为用户自写人格**
 

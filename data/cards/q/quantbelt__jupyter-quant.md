@@ -1,6 +1,6 @@
 # quantbelt/jupyter-quant
 
-⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
+⭐ 247 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/quantbelt/jupyter-quant) · 个人维护
 
 **Docker 化的 Jupyter 量化研究环境，预装量化与统计包**
 

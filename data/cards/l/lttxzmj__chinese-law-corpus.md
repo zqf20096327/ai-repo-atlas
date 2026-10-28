@@ -1,6 +1,6 @@
 # lttxzmj/chinese-law-corpus
 
-⭐ 34 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/lttxzmj/chinese-law-corpus) · 个人维护 · 中文 README
+⭐ 36 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/lttxzmj/chinese-law-corpus) · 个人维护 · 中文 README
 
 **中国法律法规与案例的结构化 JSON 语料库（1513 部+723 案例）**
 

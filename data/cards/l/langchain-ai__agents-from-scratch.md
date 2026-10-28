@@ -1,6 +1,6 @@
 # langchain-ai/agents-from-scratch
 
-⭐ 2,418 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/agents-from-scratch) · [官网](https://academy.langchain.com/courses/ambient-agents) · 组织维护
+⭐ 2,420 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/agents-from-scratch) · [官网](https://academy.langchain.com/courses/ambient-agents) · 组织维护
 
 **从零构建邮件助手 agent 的教程仓库：评测、人机协作与记忆**
 

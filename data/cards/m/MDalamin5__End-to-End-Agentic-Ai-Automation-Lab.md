@@ -1,6 +1,6 @@
 # MDalamin5/End-to-End-Agentic-Ai-Automation-Lab
 
-⭐ 104 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [官网](https://www.linkedin.com/in/mdalamin5/) · 个人维护
+⭐ 104 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab) · [官网](https://www.linkedin.com/in/mdalamin5/) · 个人维护
 
 **多智能体与 RAG 的实操项目库：从入门到生产部署的工程示例集**
 

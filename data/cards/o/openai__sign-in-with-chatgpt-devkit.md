@@ -1,6 +1,6 @@
 # openai/sign-in-with-chatgpt-devkit
 
-⭐ 62 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/openai/sign-in-with-chatgpt-devkit) · 组织维护
+⭐ 63 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/openai/sign-in-with-chatgpt-devkit) · 组织维护
 
 **让用户用 ChatGPT 账号登录本地开源应用的集成开发包**
 

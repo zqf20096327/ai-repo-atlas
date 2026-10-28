@@ -1,6 +1,6 @@
 # PacktPublishing/LLM-Engineers-Handbook
 
-⭐ 5,401 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/PacktPublishing/LLM-Engineers-Handbook) · [官网](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) · 组织维护
+⭐ 5,403 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/PacktPublishing/LLM-Engineers-Handbook) · [官网](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) · 组织维护
 
 **LLM 工程书籍配套代码库：端到端 LLM/RAG 系统与 AWS 部署**
 

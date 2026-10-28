@@ -1,6 +1,6 @@
 # AQBot-Desktop/AQBot
 
-⭐ 915 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/AQBot-Desktop/AQBot) · [官网](https://app.aqbot.top) · 组织维护 · 中文 README
+⭐ 915 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/AQBot-Desktop/AQBot) · [官网](https://app.aqbot.top) · 组织维护 · 中文 README
 
 **本地优先的桌面 AI 工作台：多服务商对话+Agent+知识库+API网关**
 

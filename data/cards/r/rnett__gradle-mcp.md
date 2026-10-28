@@ -1,6 +1,6 @@
 # rnett/gradle-mcp
 
-⭐ 69 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rnett/gradle-mcp) · [官网](https://gradle-mcp.rnett.dev/) · 个人维护
+⭐ 68 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/rnett/gradle-mcp) · [官网](https://gradle-mcp.rnett.dev/) · 个人维护
 
 **面向 AI agent 的 Gradle MCP 服务器：探索项目、跑构建、审依赖**
 

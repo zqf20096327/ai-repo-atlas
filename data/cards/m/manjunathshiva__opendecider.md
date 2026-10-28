@@ -1,6 +1,6 @@
 # manjunathshiva/opendecider
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/manjunathshiva/opendecider) · [官网](https://manjunathshiva.github.io/opendecider/) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/manjunathshiva/opendecider) · [官网](https://manjunathshiva.github.io/opendecider/) · 个人维护
 
 **开放校准的 System 1 决策模型：为每个选项输出概率**
 

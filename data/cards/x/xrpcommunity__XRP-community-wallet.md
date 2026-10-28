@@ -1,6 +1,6 @@
 # xrpcommunity/XRP-community-wallet
 
-⭐ 2,277 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/xrpcommunity/XRP-community-wallet) · [官网](https://wallet.xrp.community)
+⭐ 2,276 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/xrpcommunity/XRP-community-wallet) · [官网](https://wallet.xrp.community)
 
 **社区构建的 XRP 与 EVM 非托管网页钱包**
 

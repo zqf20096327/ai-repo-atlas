@@ -1,6 +1,6 @@
 # wenhwu/awesome-remote-sensing-change-detection
 
-⭐ 2,365 · 推送 2026-09-09 · [GitHub](https://github.com/wenhwu/awesome-remote-sensing-change-detection) · 个人维护
+⭐ 2,364 · 推送 2026-09-09 · [GitHub](https://github.com/wenhwu/awesome-remote-sensing-change-detection) · 个人维护
 
 **遥感变化检测领域的数据集、工具、方法与竞赛汇编清单**
 

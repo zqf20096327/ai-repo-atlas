@@ -1,6 +1,6 @@
 # QinpanWan/dsh-harmonyos-pc
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/QinpanWan/dsh-harmonyos-pc) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/QinpanWan/dsh-harmonyos-pc) · 个人维护 · 中文 README
 
 **让 DeepSeek Harness(dsh) 在鸿蒙设备上完整运行的适配方案**
 

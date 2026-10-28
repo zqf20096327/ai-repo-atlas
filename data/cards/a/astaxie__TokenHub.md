@@ -1,6 +1,6 @@
 # astaxie/TokenHub
 
-⭐ 1,400 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/astaxie/TokenHub) · [官网](https://thinkinai-labs.github.io/tokenhome/) · 个人维护 · 中文 README
+⭐ 1,403 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/astaxie/TokenHub) · [官网](https://thinkinai-labs.github.io/tokenhome/) · 个人维护 · 中文 README
 
 **企业级 AI 模型访问治理网关：统一路由、权限与成本核算**
 

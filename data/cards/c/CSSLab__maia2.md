@@ -1,6 +1,6 @@
 # CSSLab/maia2
 
-⭐ 160 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/CSSLab/maia2) · [官网](https://www.maiachess.com/) · 组织维护
+⭐ 161 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/CSSLab/maia2) · [官网](https://www.maiachess.com/) · 组织维护
 
 **预测人类棋步与对局结果的技能感知国际象棋模型官方实现**
 

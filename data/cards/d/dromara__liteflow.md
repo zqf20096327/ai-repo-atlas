@@ -1,6 +1,6 @@
 # dromara/liteflow
 
-⭐ 3,890 · Java · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/dromara/liteflow) · 组织维护 · 中文 README
+⭐ 3,892 · Java · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/dromara/liteflow) · 组织维护 · 中文 README
 
 **面向 Java 开发者的组件编排规则引擎，可将 AI Agent 编排进业务规则**
 

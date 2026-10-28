@@ -1,6 +1,6 @@
 # jasonshrepo/qiju
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/jasonshrepo/qiju) · [官网](https://qiju.pages.dev/) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/jasonshrepo/qiju) · [官网](https://qiju.pages.dev/) · 个人维护 · 中文 README
 
 **本地优先的结构化会话记录，供多款 AI 编码代理延续开发历史**
 

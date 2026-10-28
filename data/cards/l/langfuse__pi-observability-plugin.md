@@ -1,6 +1,6 @@
 # langfuse/pi-observability-plugin
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/pi-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/pi-agent) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/pi-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/pi-agent) · 组织维护
 
 **将 pi 编码 agent 会话追踪上报 Langfuse 的观测插件**
 

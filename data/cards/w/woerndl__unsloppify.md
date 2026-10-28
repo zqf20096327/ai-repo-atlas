@@ -1,6 +1,6 @@
 # woerndl/unsloppify
 
-⭐ 27 · Shell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/woerndl/unsloppify) · 个人维护
+⭐ 28 · Shell · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/woerndl/unsloppify) · 个人维护
 
 **清除 AI 写作腔调的 agent skill：两层文本去味规则库**
 

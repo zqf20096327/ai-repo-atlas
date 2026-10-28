@@ -1,6 +1,6 @@
 # FlyTune/ProxMO-RL
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-03-29 · [GitHub](https://github.com/FlyTune/ProxMO-RL) · 组织维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-03-29 · [GitHub](https://github.com/FlyTune/ProxMO-RL) · 组织维护
 
 **面向 LLM 智能体训练的多轮 RL 信用分配方法官方实现**
 

@@ -1,6 +1,6 @@
 # PurrPod/purrcat
 
-⭐ 79 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PurrPod/purrcat) · [官网](https://purrpod.github.io/) · 组织维护
+⭐ 83 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PurrPod/purrcat) · [官网](https://purrpod.github.io/) · 组织维护
 
 **以信息流为核心的自我托管 Agent 基础框架**
 

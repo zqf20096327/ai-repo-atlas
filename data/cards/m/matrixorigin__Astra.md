@@ -1,6 +1,6 @@
 # matrixorigin/Astra
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/matrixorigin/Astra) · 组织维护 · 中文 README
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/matrixorigin/Astra) · 组织维护 · 中文 README
 
 **面向企业的自托管 agent 运行时：治理上下文到执行的完整链路**
 

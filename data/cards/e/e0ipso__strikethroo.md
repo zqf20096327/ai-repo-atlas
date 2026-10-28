@@ -1,6 +1,6 @@
 # e0ipso/strikethroo
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/e0ipso/strikethroo) · [官网](https://strikethroo.canpicasoft.com) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/e0ipso/strikethroo) · [官网](https://strikethroo.canpicasoft.com) · 个人维护
 
 **AI 编程助手的规格驱动任务管理框架：计划审批+原子任务+复核门**
 

@@ -1,6 +1,6 @@
 # NoorQureshi/security-skills
 
-⭐ 24 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/NoorQureshi/security-skills) · [官网](https://noorqureshi.github.io/security-skills/) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/NoorQureshi/security-skills) · [官网](https://noorqureshi.github.io/security-skills/) · 个人维护 · 中文 README
 
 **面向 AI agent 的 206 条安全技能库（渗透/赏金/CTF/逆向/防御）**
 

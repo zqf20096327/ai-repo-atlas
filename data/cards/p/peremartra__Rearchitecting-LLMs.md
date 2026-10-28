@@ -1,6 +1,6 @@
 # peremartra/Rearchitecting-LLMs
 
-⭐ 76 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/peremartra/Rearchitecting-LLMs) · [官网](https://hubs.la/Q040tvsK0) · 个人维护
+⭐ 77 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/peremartra/Rearchitecting-LLMs) · [官网](https://hubs.la/Q040tvsK0) · 个人维护
 
 **Manning 图书官方代码库：LLM 结构化优化（剪枝/蒸馏/注意力）教程 notebook**
 

@@ -1,6 +1,6 @@
 # chyok/ollama-gui
 
-⭐ 274 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/chyok/ollama-gui) · [官网](https://chyok.github.io/ollama-gui/) · 个人维护
+⭐ 275 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/chyok/ollama-gui) · [官网](https://chyok.github.io/ollama-gui/) · 个人维护
 
 **单文件 Tkinter 实现的 Ollama 图形聊天界面**
 

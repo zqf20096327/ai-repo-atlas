@@ -1,6 +1,6 @@
 # hwdsl2/scribecrate-live
 
-⭐ 38 · Shell · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hwdsl2/scribecrate-live) · [官网](https://scribecrate.live) · 个人维护 · 中文 README
+⭐ 38 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hwdsl2/scribecrate-live) · [官网](https://scribecrate.live) · 个人维护 · 中文 README
 
 **自托管实时语音转文字服务器，WebSocket 流式转写 + OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # redis-developer/ArXivChatGuru
 
-⭐ 561 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/redis-developer/ArXivChatGuru) · 组织维护
+⭐ 560 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/redis-developer/ArXivChatGuru) · 组织维护
 
 **面向 arXiv 论文的 RAG 问答演示应用（Streamlit+Redis）**
 

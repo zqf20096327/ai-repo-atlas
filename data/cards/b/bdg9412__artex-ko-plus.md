@@ -1,6 +1,6 @@
 # bdg9412/artex-ko-plus
 
-⭐ 246 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护 · 中文 README
+⭐ 247 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护 · 中文 README
 
 **ARTEX 韩语版扩展：漏洞诊断、事件调查与检测规则闭环的 Web 平台**
 

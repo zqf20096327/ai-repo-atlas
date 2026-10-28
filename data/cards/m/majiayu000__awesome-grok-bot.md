@@ -1,6 +1,6 @@
 # majiayu000/awesome-grok-bot
 
-⭐ 83 · JavaScript · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/majiayu000/awesome-grok-bot) · [官网](https://majiayu000.github.io/awesome-grok-bot/) · 个人维护 · 中文 README
+⭐ 84 · JavaScript · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/majiayu000/awesome-grok-bot) · [官网](https://majiayu000.github.io/awesome-grok-bot/) · 个人维护 · 中文 README
 
 **Grok Bot 活分享编目清单：5572 条 x.ai/bot 可预览可添加**
 

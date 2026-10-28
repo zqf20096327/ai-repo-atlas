@@ -1,6 +1,6 @@
 # Abraxas-365/langchain-rust
 
-⭐ 1,353 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 个人维护
+⭐ 1,355 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 个人维护
 
 **LangChain 的 Rust 实现：用 Rust 组合式构建 LLM 应用**
 

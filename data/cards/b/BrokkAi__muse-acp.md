@@ -1,6 +1,6 @@
 # BrokkAi/muse-acp
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/BrokkAi/muse-acp) · [官网](https://github.com/BrokkAi/muse-acp/releases/latest) · 组织维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BrokkAi/muse-acp) · [官网](https://github.com/BrokkAi/muse-acp/releases/latest) · 组织维护
 
 **让 Zed 与 JetBrains 等 ACP 客户端使用 Muse Code 订阅的 Rust 适配器**
 

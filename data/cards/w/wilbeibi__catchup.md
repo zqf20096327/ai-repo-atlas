@@ -1,6 +1,6 @@
 # wilbeibi/catchup
 
-⭐ 79 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wilbeibi/catchup) · [官网](https://catchup.pages.dev/) · 个人维护
+⭐ 80 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wilbeibi/catchup) · [官网](https://catchup.pages.dev/) · 个人维护
 
 **本地 CLI：在多个 AI 编程 agent 间迁移与恢复会话上下文**
 

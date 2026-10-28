@@ -1,6 +1,6 @@
 # facebookincubator/MCGrad
 
-⭐ 53 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/facebookincubator/MCGrad) · [官网](https://mcgrad.dev) · 组织维护
+⭐ 52 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/facebookincubator/MCGrad) · [官网](https://mcgrad.dev) · 组织维护
 
 **面向 ML 从业者的多校准库：修正模型在各子群体上的概率校准偏差**
 

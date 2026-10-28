@@ -1,6 +1,6 @@
 # Mastercard/developers-agent-toolkit
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Mastercard/developers-agent-toolkit) · [官网](https://developer.mastercard.com) · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Mastercard/developers-agent-toolkit) · [官网](https://developer.mastercard.com) · 组织维护
 
 **让 agent 通过 MCP 发现并读取 Mastercard 开发者平台的服务与文档**
 

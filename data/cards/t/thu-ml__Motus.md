@@ -1,6 +1,6 @@
 # thu-ml/Motus
 
-⭐ 1,315 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/thu-ml/Motus) · [官网](https://motus-robotics.github.io/motus) · 组织维护 · 中文 README
+⭐ 1,316 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/thu-ml/Motus) · [官网](https://motus-robotics.github.io/motus) · 组织维护 · 中文 README
 
 **统一潜动作世界模型：机器人的视频生成与视觉-语言-动作预测**
 

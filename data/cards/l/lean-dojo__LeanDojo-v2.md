@@ -1,6 +1,6 @@
 # lean-dojo/LeanDojo-v2
 
-⭐ 149 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/lean-dojo/LeanDojo-v2) · [官网](https://leandojo.org/) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/lean-dojo/LeanDojo-v2) · [官网](https://leandojo.org/) · 组织维护
 
 **面向 Lean 4 的 AI 定理证明器训练、评估与部署端到端框架**
 

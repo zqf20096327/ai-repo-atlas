@@ -1,6 +1,6 @@
 # AI-XiaoDao/ai-browser-mcp
 
-⭐ 53 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/AI-XiaoDao/ai-browser-mcp) · [官网](https://github.com/AI-XiaoDao/ai-browser-mcp#readme) · 个人维护 · 中文 README
+⭐ 54 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/AI-XiaoDao/ai-browser-mcp) · [官网](https://github.com/AI-XiaoDao/ai-browser-mcp#readme) · 个人维护 · 中文 README
 
 **Windows 本地浏览器自动化 MCP 服务端，向 AI 助手暴露 334 个工具**
 

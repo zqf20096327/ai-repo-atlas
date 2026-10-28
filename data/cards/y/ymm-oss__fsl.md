@@ -1,6 +1,6 @@
 # ymm-oss/fsl
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ymm-oss/fsl) · 组织维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ymm-oss/fsl) · 组织维护
 
 **面向 LLM 写/验证/修复循环的形式化规约语言与有界模型检查器**
 

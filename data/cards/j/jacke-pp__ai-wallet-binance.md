@@ -1,6 +1,6 @@
 # jacke-pp/ai-wallet-binance
 
-⭐ 121 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jacke-pp/ai-wallet-binance) · [官网](https://www.npmjs.com/package/ai-wallet-binance) · 个人维护 · 中文 README
+⭐ 148 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jacke-pp/ai-wallet-binance) · [官网](https://www.npmjs.com/package/ai-wallet-binance) · 个人维护 · 中文 README
 
 **让 AI 通过币安 Agentic Wallet 代为链上交易的 CLI 工具**
 

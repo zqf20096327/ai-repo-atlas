@@ -1,6 +1,6 @@
 # nextcloud/recognize
 
-⭐ 701 · PHP · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/nextcloud/recognize) · [官网](https://apps.nextcloud.com/apps/recognize) · 组织维护
+⭐ 700 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/nextcloud/recognize) · [官网](https://apps.nextcloud.com/apps/recognize) · 组织维护
 
 **Nextcloud 媒体自动打标应用：识别人脸、物体、地标、音乐与视频动作**
 

@@ -1,6 +1,6 @@
 # ZimoLiao/scholaraio
 
-⭐ 580 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZimoLiao/scholaraio) · [官网](https://zimoliao.github.io/scholaraio/) · 个人维护 · 中文 README
+⭐ 581 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZimoLiao/scholaraio) · [官网](https://zimoliao.github.io/scholaraio/) · 个人维护 · 中文 README
 
 **为 AI 编程 agent 提供学术研究全流程的文献管理基座**
 

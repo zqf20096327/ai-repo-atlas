@@ -1,6 +1,6 @@
 # jordimas/awesome-agentic-engineering
 
-⭐ 113 · CC0-1.0 · 推送 2026-06-27 · [GitHub](https://github.com/jordimas/awesome-agentic-engineering) · 个人维护
+⭐ 114 · CC0-1.0 · 推送 2026-06-27 · [GitHub](https://github.com/jordimas/awesome-agentic-engineering) · 个人维护
 
 **面向工程团队的 Agentic Engineering 实践资源策展清单**
 

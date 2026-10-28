@@ -1,6 +1,6 @@
 # EXXETA/exxperts
 
-⭐ 405 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/EXXETA/exxperts) · [官网](https://exxeta.com/exxperts) · 组织维护
+⭐ 407 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/EXXETA/exxperts) · [官网](https://exxeta.com/exxperts) · 组织维护
 
 **本地优先的 AI 同事应用：审批制记忆，任意模型商**
 

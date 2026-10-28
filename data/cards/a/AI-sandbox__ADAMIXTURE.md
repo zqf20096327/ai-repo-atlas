@@ -1,6 +1,6 @@
 # AI-sandbox/ADAMIXTURE
 
-⭐ 37 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/AI-sandbox/ADAMIXTURE) · [官网](https://ai-sandbox.github.io/adamixture-showcase/) · 组织维护
+⭐ 37 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/AI-sandbox/ADAMIXTURE) · [官网](https://ai-sandbox.github.io/adamixture-showcase/) · 组织维护
 
 **面向生物库级基因数据的快速群体遗传聚类（ADMIXTURE 实现）**
 

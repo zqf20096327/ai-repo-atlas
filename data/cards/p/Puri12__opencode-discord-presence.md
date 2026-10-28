@@ -1,6 +1,6 @@
 # Puri12/opencode-discord-presence
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Puri12/opencode-discord-presence) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Puri12/opencode-discord-presence) · 个人维护
 
 **在 Discord 展示 OpenCode AI 编程会话状态的插件**
 

@@ -1,6 +1,6 @@
 # NVIDIA/sop-monitoring-blueprints
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/NVIDIA/sop-monitoring-blueprints) · 组织维护
+⭐ 64 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/NVIDIA/sop-monitoring-blueprints) · 组织维护
 
 **工业 SOP 视频监控系统的训练与推理微服务及 agentic 技能包**
 

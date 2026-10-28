@@ -1,6 +1,6 @@
 # fangwei123456/spikingjelly
 
-⭐ 2,176 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fangwei123456/spikingjelly) · [官网](https://spikingjelly.readthedocs.io) · 组织维护 · 中文 README
+⭐ 2,177 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/fangwei123456/spikingjelly) · [官网](https://spikingjelly.readthedocs.io) · 组织维护 · 中文 README
 
 **基于 PyTorch 的脉冲神经网络（SNN）深度学习框架**
 

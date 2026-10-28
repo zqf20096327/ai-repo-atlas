@@ -1,6 +1,6 @@
 # ocedev112/Neural_Network_from_scratch_numpy
 
-⭐ 20 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ocedev112/Neural_Network_from_scratch_numpy) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ocedev112/Neural_Network_from_scratch_numpy) · 个人维护
 
 **纯 NumPy 实现的轻量级神经网络构建与训练库**
 

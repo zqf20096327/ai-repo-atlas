@@ -1,6 +1,6 @@
 # nikolai-vysotskyi/trace-mcp
 
-⭐ 198 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [官网](https://trace-mcp.com) · 个人维护
+⭐ 198 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [官网](https://trace-mcp.com) · 个人维护
 
 **为 AI 编码 agent 提供代码库依赖图索引的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # sehoon787/my-codex
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/sehoon787/my-codex) · [官网](https://sehoon787.github.io/my-codex/) · 个人维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sehoon787/my-codex) · [官网](https://sehoon787.github.io/my-codex/) · 个人维护
 
 **面向 Codex CLI 的一体化 agent 装配套件：17 个 agent 与技能即装即用**
 

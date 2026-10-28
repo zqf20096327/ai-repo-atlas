@@ -1,6 +1,6 @@
 # redhat-community-ai-tools/harness-eval
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/redhat-community-ai-tools/harness-eval) · 组织维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/redhat-community-ai-tools/harness-eval) · 组织维护
 
 **对 AI 编程 agent 配置做确定性检查（lint/安全/门禁）的工具**
 

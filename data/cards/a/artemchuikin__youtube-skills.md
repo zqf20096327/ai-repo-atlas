@@ -1,6 +1,6 @@
 # artemchuikin/youtube-skills
 
-⭐ 340 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/artemchuikin/youtube-skills) · [官网](https://transcriptout.com/) · 组织维护
+⭐ 343 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/artemchuikin/youtube-skills) · [官网](https://transcriptout.com/) · 组织维护
 
 **给 AI agent 的 YouTube 转录/搜索技能包（12 个 Agent Skills）**
 

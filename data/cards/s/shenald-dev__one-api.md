@@ -1,6 +1,6 @@
 # shenald-dev/one-api
 
-⭐ 28 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/shenald-dev/one-api) · 个人维护
+⭐ 28 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/shenald-dev/one-api) · 个人维护
 
 **统一 20+ LLM 提供商的 OpenAI 兼容边缘 API 网关**
 

@@ -1,6 +1,6 @@
 # zb-ss/servonaut
 
-⭐ 31 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zb-ss/servonaut) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zb-ss/servonaut) · 个人维护
 
 **多云服务器管理 TUI，内置 AI 助手与 MCP 服务器**
 

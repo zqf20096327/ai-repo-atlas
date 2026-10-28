@@ -1,6 +1,6 @@
 # langchain-ai/langchain-redis
 
-⭐ 69 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-redis) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langchain-redis) · 组织维护
 
 **Redis 与 LangChain 的集成包，提供 Redis 向量存储等接入**
 

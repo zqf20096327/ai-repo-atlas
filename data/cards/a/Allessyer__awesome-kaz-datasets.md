@@ -1,6 +1,6 @@
 # Allessyer/awesome-kaz-datasets
 
-⭐ 66 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Allessyer/awesome-kaz-datasets) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Allessyer/awesome-kaz-datasets) · 组织维护
 
 **哈萨克语公开数据集策展清单：NLP/语音/视觉数据可核验索引**
 

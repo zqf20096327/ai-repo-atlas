@@ -1,6 +1,6 @@
 # YesWeAreBot/YesImBot
 
-⭐ 193 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/YesWeAreBot/YesImBot) · [官网](https://docs.yesimbot.chat) · 组织维护 · 中文 README
+⭐ 194 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/YesWeAreBot/YesImBot) · [官网](https://docs.yesimbot.chat) · 组织维护 · 中文 README
 
 **基于 Koishi 的群聊 AI 插件与运行时，让 LLM 融入群聊**
 

@@ -1,6 +1,6 @@
 # onsails/right-agent
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/onsails/right-agent) · [官网](https://right-agent.ai/) · 个人维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/onsails/right-agent) · [官网](https://right-agent.ai/) · 个人维护
 
 **通过 Telegram 对话驱动的沙箱化 AI agent 运行器**
 

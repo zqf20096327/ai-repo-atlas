@@ -1,6 +1,6 @@
 # METR/hawk
 
-⭐ 98 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/METR/hawk) · [官网](https://hawk.metr.org) · 组织维护
+⭐ 98 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/METR/hawk) · [官网](https://hawk.metr.org) · 组织维护
 
 **在 AWS 上规模化运行 Inspect AI 评测的系统**
 

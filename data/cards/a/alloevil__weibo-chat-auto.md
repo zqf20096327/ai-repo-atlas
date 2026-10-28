@@ -1,6 +1,6 @@
 # alloevil/weibo-chat-auto
 
-⭐ 33 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/alloevil/weibo-chat-auto) · [官网](https://github.com/alloevil/weibo-chat-auto/releases/latest) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/alloevil/weibo-chat-auto) · [官网](https://github.com/alloevil/weibo-chat-auto/releases/latest) · 个人维护 · 中文 README
 
 **微博群聊消息本地归档桌面应用，含 AI 摘要与问答**
 

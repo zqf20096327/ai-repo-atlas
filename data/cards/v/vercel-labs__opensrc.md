@@ -1,6 +1,6 @@
 # vercel-labs/opensrc
 
-⭐ 3,024 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vercel-labs/opensrc) · [官网](https://opensrc.sh) · 组织维护
+⭐ 3,026 · Rust · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/vercel-labs/opensrc) · [官网](https://opensrc.sh) · 组织维护
 
 **给 AI 编码 agent 提供包源码获取与缓存上下文的 CLI**
 

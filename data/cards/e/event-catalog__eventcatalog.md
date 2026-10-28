@@ -1,6 +1,6 @@
 # event-catalog/eventcatalog
 
-⭐ 2,947 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/event-catalog/eventcatalog) · [官网](https://eventcatalog.dev) · 组织维护
+⭐ 2,948 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/event-catalog/eventcatalog) · [官网](https://eventcatalog.dev) · 组织维护
 
 **面向软件架构的文档工具，含 AI 问答与 MCP 服务**
 

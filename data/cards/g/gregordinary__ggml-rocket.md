@@ -1,6 +1,6 @@
 # gregordinary/ggml-rocket
 
-⭐ 24 · C++ · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/ggml-rocket) · 个人维护
+⭐ 25 · C++ · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/ggml-rocket) · 个人维护
 
 **面向 Rockchip NPU 的 ggml 后端：为 llama.cpp/whisper.cpp 卸载 prefill**
 

@@ -1,6 +1,6 @@
 # vector-index-bench/vibe
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 79 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/vector-index-bench/vibe) · [官网](https://vector-index-bench.github.io) · 组织维护
 
 **向量索引（ANN 检索）算法的可扩展基准测试框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # zeikar/iki
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zeikar/iki) · [官网](https://zeikar.dev/iki/) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zeikar/iki) · [官网](https://zeikar.dev/iki/) · 个人维护
 
 **面向 Web 的开源 Live2D 替代：MIT 许可的 2D 纸偶引擎，AI 可自动绑定**
 

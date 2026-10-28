@@ -1,6 +1,6 @@
 # agentty-org/agentty
 
-⭐ 617 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/agentty-org/agentty) · [官网](https://agentty.org) · 组织维护
+⭐ 618 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/agentty-org/agentty) · [官网](https://agentty.org) · 组织维护
 
 **终端 AI 结对编程工具：单一静态二进制，任意模型接入**
 

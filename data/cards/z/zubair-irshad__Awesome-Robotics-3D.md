@@ -1,6 +1,6 @@
 # zubair-irshad/Awesome-Robotics-3D
 
-⭐ 824 · 推送 2025-12-17 · [GitHub](https://github.com/zubair-irshad/Awesome-Robotics-3D) · 个人维护
+⭐ 825 · 推送 2025-12-17 · [GitHub](https://github.com/zubair-irshad/Awesome-Robotics-3D) · 个人维护
 
 **机器人领域 3D 视觉论文策展清单（大模型时代）**
 

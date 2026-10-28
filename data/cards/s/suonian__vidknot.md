@@ -1,6 +1,6 @@
 # suonian/vidknot
 
-⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/suonian/vidknot) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/suonian/vidknot) · 个人维护 · 中文 README
 
 **从 11+ 视频平台提取转写并生成结构化笔记的命令行工具**
 

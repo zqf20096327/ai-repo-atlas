@@ -1,6 +1,6 @@
 # vwxyzjn/cleanrl
 
-⭐ 10,610 · Python · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/vwxyzjn/cleanrl) · [官网](http://docs.cleanrl.dev) · 组织维护
+⭐ 10,612 · Python · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/vwxyzjn/cleanrl) · [官网](http://docs.cleanrl.dev) · 组织维护
 
 **深度强化学习算法的单文件实现库，面向研究者**
 

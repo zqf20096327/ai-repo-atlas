@@ -1,6 +1,6 @@
 # FrancoStino/opencode-skills-collection
 
-⭐ 86 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/FrancoStino/opencode-skills-collection) · [官网](https://www.npmjs.com/package/opencode-skills-collection) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FrancoStino/opencode-skills-collection) · [官网](https://www.npmjs.com/package/opencode-skills-collection) · 个人维护
 
 **OpenCode 插件：预置 2400+ AI 技能并自动同步更新**
 

@@ -1,6 +1,6 @@
 # MarkPDFdown/markpdfdown
 
-⭐ 2,309 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/MarkPDFdown/markpdfdown) · 组织维护 · 中文 README
+⭐ 2,310 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/MarkPDFdown/markpdfdown) · 组织维护 · 中文 README
 
 **基于多模态大模型的 PDF/图片转 Markdown 转录工具**
 

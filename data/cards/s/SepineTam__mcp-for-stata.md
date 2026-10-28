@@ -1,6 +1,6 @@
 # SepineTam/mcp-for-stata
 
-⭐ 270 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SepineTam/mcp-for-stata) · [官网](https://aidea-labs.com/open/projects/mcp-for-stata) · 个人维护 · 中文 README
+⭐ 271 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/SepineTam/mcp-for-stata) · [官网](https://aidea-labs.com/open/projects/mcp-for-stata) · 个人维护 · 中文 README
 
 **让 AI agent 调用本地 Stata 做回归与实证研究的 MCP 服务器**
 

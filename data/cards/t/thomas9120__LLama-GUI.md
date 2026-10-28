@@ -1,6 +1,6 @@
 # thomas9120/LLama-GUI
 
-⭐ 128 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/thomas9120/LLama-GUI) · 个人维护
+⭐ 129 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/thomas9120/LLama-GUI) · 个人维护
 
 **给本地 llama.cpp 用户的浏览器图形启动器与控制面板**
 

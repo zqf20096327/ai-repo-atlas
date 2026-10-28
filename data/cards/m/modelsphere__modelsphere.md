@@ -1,6 +1,6 @@
 # modelsphere/modelsphere
 
-⭐ 170 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/modelsphere/modelsphere) · 组织维护 · 中文 README
+⭐ 170 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelsphere/modelsphere) · 组织维护 · 中文 README
 
 **面向生产环境的 LLM 推理平台，Kubernetes 上部署与调度多后端模型服务**
 

@@ -1,6 +1,6 @@
 # OneWave-AI/claude-skills
 
-⭐ 387 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OneWave-AI/claude-skills) · [官网](https://www.onewave-ai.com) · 组织维护
+⭐ 393 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OneWave-AI/claude-skills) · [官网](https://www.onewave-ai.com) · 组织维护
 
 **230 个面向 Claude Code 的生产级 agent 技能库，覆盖商业/生活/编程**
 

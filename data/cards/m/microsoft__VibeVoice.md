@@ -1,6 +1,6 @@
 # microsoft/VibeVoice
 
-⭐ 55,003 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
+⭐ 55,011 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/VibeVoice) · [官网](https://microsoft.github.io/VibeVoice/) · 组织维护
 
 **语音 AI 模型家族：长音频识别与多说话人语音生成**
 

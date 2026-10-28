@@ -1,6 +1,6 @@
 # microsoft/superbenchmark
 
-⭐ 400 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/superbenchmark) · [官网](https://aka.ms/superbench) · 组织维护
+⭐ 400 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/superbenchmark) · [官网](https://aka.ms/superbench) · 组织维护
 
 **面向 AI 基础设施的验证与性能剖析工具**
 

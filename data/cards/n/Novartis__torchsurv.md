@@ -1,6 +1,6 @@
 # Novartis/torchsurv
 
-⭐ 216 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Novartis/torchsurv) · [官网](http://opensource.nibr.com/torchsurv/) · 组织维护
+⭐ 216 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Novartis/torchsurv) · [官网](http://opensource.nibr.com/torchsurv/) · 组织维护
 
 **PyTorch 生态的深度生存分析工具包，供自定义神经生存模型使用**
 

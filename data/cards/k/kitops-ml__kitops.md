@@ -1,6 +1,6 @@
 # kitops-ml/kitops
 
-⭐ 1,436 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kitops-ml/kitops) · [官网](https://KitOps.org) · 组织维护
+⭐ 1,437 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kitops-ml/kitops) · [官网](https://KitOps.org) · 组织维护
 
 **把模型/数据集/代码/配置打包为 OCI 制品的 AI/ML 版本管理工具**
 

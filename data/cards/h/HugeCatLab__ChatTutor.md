@@ -1,6 +1,6 @@
 # HugeCatLab/ChatTutor
 
-⭐ 1,315 · Vue · AGPL-3.0 · 推送 2026-01-09 · [GitHub](https://github.com/HugeCatLab/ChatTutor) · [官网](https://chattutor.app) · 组织维护 · 中文 README
+⭐ 1,316 · Vue · AGPL-3.0 · 推送 2026-01-09 · [GitHub](https://github.com/HugeCatLab/ChatTutor) · [官网](https://chattutor.app) · 组织维护 · 中文 README
 
 **带电子白板的可视化交互 AI 教师，面向 STEM 学习者**
 

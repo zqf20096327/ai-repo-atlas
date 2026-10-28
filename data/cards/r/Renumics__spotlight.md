@@ -1,6 +1,6 @@
 # Renumics/spotlight
 
-⭐ 1,283 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Renumics/spotlight) · [官网](https://renumics.com) · 组织维护
+⭐ 1,284 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Renumics/spotlight) · [官网](https://renumics.com) · 组织维护
 
 **从 DataFrame 交互式探索非结构化数据集的浏览器可视化工具**
 

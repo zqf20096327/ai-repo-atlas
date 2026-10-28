@@ -1,6 +1,6 @@
 # Nati-1995/Brain-Tumor-MRI-Classification
 
-⭐ 44 · Jupyter Notebook · 推送 2026-08-16 · [GitHub](https://github.com/Nati-1995/Brain-Tumor-MRI-Classification) · [官网](https://nati-1995.github.io/Brain-Tumor-MRI-Classification/) · 个人维护
+⭐ 46 · Jupyter Notebook · 推送 2026-08-16 · [GitHub](https://github.com/Nati-1995/Brain-Tumor-MRI-Classification) · [官网](https://nati-1995.github.io/Brain-Tumor-MRI-Classification/) · 个人维护
 
 **脑肿瘤 MRI 分类项目：检测与四分类，含 Grad-CAM 可解释性**
 

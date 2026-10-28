@@ -1,6 +1,6 @@
 # CopilotKit/open-research-ANA
 
-⭐ 424 · TypeScript · 推送 2026-10-24 · [GitHub](https://github.com/CopilotKit/open-research-ANA) · [官网](https://open-research-ana.vercel.app) · 组织维护
+⭐ 425 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/CopilotKit/open-research-ANA) · [官网](https://open-research-ana.vercel.app) · 组织维护
 
 **演示用 AI 研究画布应用：实时搜索加人机协同**
 

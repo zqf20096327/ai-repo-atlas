@@ -1,6 +1,6 @@
 # xbtlin/ai-berkshire
 
-⭐ 16,907 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
+⭐ 16,921 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
 
 **给个人投资者的 Claude Code/Codex 价值投研 Skill 合集**
 

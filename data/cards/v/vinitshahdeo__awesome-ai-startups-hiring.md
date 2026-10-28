@@ -1,6 +1,6 @@
 # vinitshahdeo/awesome-ai-startups-hiring
 
-⭐ 79 · 推送 2026-09-14 · [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) · [官网](https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026) · 个人维护
+⭐ 80 · 推送 2026-09-14 · [GitHub](https://github.com/vinitshahdeo/awesome-ai-startups-hiring) · [官网](https://peerlist.io/vinitshahdeo/project/awesome-ai-startups-hiring-in-2026) · 个人维护
 
 **160+ AI 创业公司招聘与融资信息策展清单，面向求职工程师**
 

@@ -1,6 +1,6 @@
 # waifuai/waifu-companion
 
-⭐ 38 · JavaScript · MIT-0 · 推送 2026-10-27 · [GitHub](https://github.com/waifuai/waifu-companion) · [官网](https://waifuai.com) · 组织维护
+⭐ 38 · JavaScript · MIT-0 · 推送 2026-10-28 · [GitHub](https://github.com/waifuai/waifu-companion) · [官网](https://waifuai.com) · 组织维护
 
 **浏览器端 Live2D 桌面 AI 伴侣：语音聊天与长期记忆**
 

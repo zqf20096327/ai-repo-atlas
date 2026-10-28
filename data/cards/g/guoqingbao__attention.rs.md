@@ -1,6 +1,6 @@
 # guoqingbao/attention.rs
 
-⭐ 32 · Cuda · 推送 2026-10-24 · [GitHub](https://github.com/guoqingbao/attention.rs) · 个人维护 · 中文 README
+⭐ 32 · Cuda · 推送 2026-10-28 · [GitHub](https://github.com/guoqingbao/attention.rs) · 个人维护 · 中文 README
 
 **Rust 的 LLM 注意力与算子 CUDA/Metal 内核库**
 

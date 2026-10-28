@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Research-Skills
 
-⭐ 230 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/brycewang-stanford/Auto-Research-Skills) · 个人维护 · 中文 README
+⭐ 233 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/brycewang-stanford/Auto-Research-Skills) · 个人维护 · 中文 README
 
 **自主科研技能与智能体精选清单（6,089 skills/110 仓库）**
 

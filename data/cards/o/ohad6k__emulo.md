@@ -1,6 +1,6 @@
 # ohad6k/emulo
 
-⭐ 299 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ohad6k/emulo) · [官网](https://emulo.vercel.app) · 个人维护
+⭐ 300 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ohad6k/emulo) · [官网](https://emulo.vercel.app) · 个人维护
 
 **从你的 AI 编程代理会话日志挖掘生成 you.md 个人画像**
 

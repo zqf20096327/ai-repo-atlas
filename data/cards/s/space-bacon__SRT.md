@@ -1,6 +1,6 @@
 # space-bacon/SRT
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/space-bacon/SRT) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/space-bacon/SRT) · 个人维护
 
 **读取冻结 LLM 隐状态的可移植适配器与探针架构**
 

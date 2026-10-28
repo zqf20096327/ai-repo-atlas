@@ -1,6 +1,6 @@
 # microsoft/generative-ai-with-javascript
 
-⭐ 1,287 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/generative-ai-with-javascript) · [官网](https://microsoft.github.io/generative-ai-with-javascript/) · 组织维护
+⭐ 1,288 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/generative-ai-with-javascript) · [官网](https://microsoft.github.io/generative-ai-with-javascript/) · 组织维护
 
 **微软出品的 JavaScript 生成式 AI 入门课程（8 课）**
 

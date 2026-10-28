@@ -1,6 +1,6 @@
 # EasyMetaAu/helm-api
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EasyMetaAu/helm-api) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EasyMetaAu/helm-api) · 组织维护 · 中文 README
 
 **自托管 LLM 路由网关：按配置分发多协议流量并记录决策**
 

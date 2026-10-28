@@ -1,6 +1,6 @@
 # postmill-ai/postmill-app
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/postmill-ai/postmill-app) · [官网](https://postmill.ai) · 组织维护
+⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/postmill-ai/postmill-app) · [官网](https://postmill.ai) · 组织维护
 
 **自托管的多品牌社交媒体管理与排期平台，内嵌 BYOK AI 层**
 

@@ -1,6 +1,6 @@
 # learnhouse/learnhouse
 
-⭐ 2,424 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/learnhouse/learnhouse) · [官网](https://learnhouse.app) · 个人维护
+⭐ 2,428 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/learnhouse/learnhouse) · [官网](https://learnhouse.app) · 个人维护
 
 **开源自托管在线学习平台（LMS），含 AI 辅助教学功能**
 

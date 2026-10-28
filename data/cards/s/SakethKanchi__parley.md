@@ -1,6 +1,6 @@
 # SakethKanchi/parley
 
-⭐ 32 · JavaScript · ISC · 推送 2026-10-07 · [GitHub](https://github.com/SakethKanchi/parley) · [官网](https://sakethkanchi.github.io/parley-landing/) · 个人维护
+⭐ 33 · JavaScript · ISC · 推送 2026-10-07 · [GitHub](https://github.com/SakethKanchi/parley) · [官网](https://sakethkanchi.github.io/parley-landing/) · 个人维护
 
 **自托管 Discord 会议机器人：本地按说话人转录并生成结构化 AI 笔记**
 

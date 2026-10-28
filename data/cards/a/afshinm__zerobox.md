@@ -1,6 +1,6 @@
 # afshinm/zerobox
 
-⭐ 725 · Rust · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/afshinm/zerobox) · 个人维护
+⭐ 726 · Rust · Apache-2.0 · 推送 2026-05-17 · [GitHub](https://github.com/afshinm/zerobox) · 个人维护
 
 **跨平台进程沙箱工具：以文件/网络/凭据管控运行任意命令**
 

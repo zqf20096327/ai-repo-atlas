@@ -1,6 +1,6 @@
 # NVIDIA/daqiri
 
-⭐ 43 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/daqiri) · [官网](https://www.holoscan.org/daqiri/) · 组织维护
+⭐ 43 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/daqiri) · [官网](https://www.holoscan.org/daqiri/) · 组织维护
 
 **面向科学仪器的高速以太网数据采集库：直连 GPU 做实时处理**
 

@@ -1,6 +1,6 @@
 # arxhr007/Aliens_eye
 
-⭐ 4,642 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arxhr007/Aliens_eye) · 个人维护
+⭐ 4,646 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arxhr007/Aliens_eye) · 个人维护
 
 **AI 驱动的 OSINT 用户名扫描器：检测 840+ 平台账号**
 

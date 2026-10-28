@@ -1,6 +1,6 @@
 # TideSurf/core
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/TideSurf/core) · [官网](https://tidesurf.org) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TideSurf/core) · [官网](https://tidesurf.org) · 组织维护
 
 **把 Chromium 网页压缩成 50-200 token 结构文本供 LLM agent 调用**
 

@@ -1,6 +1,6 @@
 # Sidiora-Labs/hyperfide
 
-⭐ 591 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Sidiora-Labs/hyperfide) · [官网](https://www.hyperfide.com) · 组织维护 · 中文 README
+⭐ 613 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Sidiora-Labs/hyperfide) · [官网](https://www.hyperfide.com) · 组织维护 · 中文 README
 
 **C11 单二进制的 agent 工作流引擎：计划、代码图谱、记忆与多 agent 调度**
 
@@ -11,7 +11,7 @@ Hyperfide 是以单个 `hyperfide` 可执行文件（纯 C11 + SQLite，无遥�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

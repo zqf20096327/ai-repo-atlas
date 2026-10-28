@@ -1,6 +1,6 @@
 # piersolenski/wtf.nvim
 
-⭐ 608 · Lua · WTFPL · 推送 2026-06-02 · [GitHub](https://github.com/piersolenski/wtf.nvim) · 个人维护
+⭐ 609 · Lua · WTFPL · 推送 2026-06-02 · [GitHub](https://github.com/piersolenski/wtf.nvim) · 个人维护
 
 **Neovim 插件：用 AI 解释与修复 LSP 诊断信息**
 

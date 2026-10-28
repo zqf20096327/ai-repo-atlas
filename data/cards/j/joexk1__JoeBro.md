@@ -1,6 +1,6 @@
 # joexk1/JoeBro
 
-⭐ 91 · Swift · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joexk1.github.io/joebro/) · 个人维护
+⭐ 92 · Swift · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joexk1.github.io/joebro/) · 个人维护
 
 **给个人用户的本地优先 macOS AI 工作区应用**
 

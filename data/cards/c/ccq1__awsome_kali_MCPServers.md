@@ -1,6 +1,6 @@
 # ccq1/awsome_kali_MCPServers
 
-⭐ 107 · Python · Apache-2.0 · 推送 2025-11-16 · [GitHub](https://github.com/ccq1/awsome_kali_MCPServers) · 个人维护
+⭐ 108 · Python · Apache-2.0 · 推送 2025-11-16 · [GitHub](https://github.com/ccq1/awsome_kali_MCPServers) · 个人维护
 
 **面向 Kali Linux 的 MCP 服务器集合：为安全测试提供工具接入**
 

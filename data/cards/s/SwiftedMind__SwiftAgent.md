@@ -1,6 +1,6 @@
 # SwiftedMind/SwiftAgent
 
-⭐ 229 · Swift · MIT · 推送 2026-01-23 · [GitHub](https://github.com/SwiftedMind/SwiftAgent) · 个人维护
+⭐ 230 · Swift · MIT · 推送 2026-01-23 · [GitHub](https://github.com/SwiftedMind/SwiftAgent) · 个人维护
 
 **Swift 原生 SDK：帮开发者构建自主 AI Agent**
 

@@ -1,6 +1,6 @@
 # supervc-stack/VectorChord
 
-⭐ 1,831 · Rust · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/supervc-stack/VectorChord) · [官网](https://docs.vectorchord.ai/vectorchord/getting-started/overview.html) · 组织维护
+⭐ 1,832 · Rust · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/supervc-stack/VectorChord) · [官网](https://docs.vectorchord.ai/vectorchord/getting-started/overview.html) · 组织维护
 
 **PostgreSQL 向量检索扩展，支持十亿级向量的低成本存储与搜索**
 

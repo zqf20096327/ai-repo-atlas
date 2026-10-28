@@ -1,6 +1,6 @@
 # LibreChat-AI/rag-api
 
-⭐ 918 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LibreChat-AI/rag-api) · [官网](https://librechat.ai/) · 组织维护
+⭐ 917 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LibreChat-AI/rag-api) · [官网](https://librechat.ai/) · 组织维护
 
 **基于 FastAPI 的 ID 级文档索引与检索 RAG API 服务**
 

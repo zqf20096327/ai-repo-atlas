@@ -1,6 +1,6 @@
 # rcsoccersim/rcssserver
 
-⭐ 165 · C++ · LGPL-3.0 · 推送 2025-12-15 · [GitHub](https://github.com/rcsoccersim/rcssserver) · 组织维护
+⭐ 165 · C++ · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/rcsoccersim/rcssserver) · 组织维护
 
 **多智能体与 AI 研究用的机器人足球仿真服务器**
 

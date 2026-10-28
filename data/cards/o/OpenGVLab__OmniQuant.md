@@ -1,6 +1,6 @@
 # OpenGVLab/OmniQuant
 
-⭐ 967 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/OpenGVLab/OmniQuant) · 组织维护 · 中文 README
+⭐ 969 · Python · MIT · 推送 2025-11-26 · [GitHub](https://github.com/OpenGVLab/OmniQuant) · 组织维护 · 中文 README
 
 **面向 LLM 的全方向校准量化算法与量化权重生成工具**
 

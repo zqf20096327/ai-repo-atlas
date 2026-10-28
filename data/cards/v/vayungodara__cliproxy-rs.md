@@ -1,6 +1,6 @@
 # vayungodara/cliproxy-rs
 
-⭐ 47 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/vayungodara/cliproxy-rs) · 个人维护
+⭐ 48 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/vayungodara/cliproxy-rs) · 个人维护
 
 **本地 LLM API 代理：让 Codex CLI、Claude Code 用 DeepSeek/GLM/Kimi 等模型**
 

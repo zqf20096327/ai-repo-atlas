@@ -1,6 +1,6 @@
 # yangyanli/PointCNN
 
-⭐ 1,435 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/yangyanli/PointCNN) · [官网](https://arxiv.org/abs/1801.07791) · 组织维护
+⭐ 1,436 · Python · NOASSERTION · 推送 2026-03-12 · [GitHub](https://github.com/yangyanli/PointCNN) · [官网](https://arxiv.org/abs/1801.07791) · 组织维护
 
 **点云特征学习的通用卷积框架（NeurIPS 2018）**
 

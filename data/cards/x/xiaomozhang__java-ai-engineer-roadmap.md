@@ -1,6 +1,6 @@
 # xiaomozhang/java-ai-engineer-roadmap
 
-⭐ 65 · Java · 推送 2026-04-30 · [GitHub](https://github.com/xiaomozhang/java-ai-engineer-roadmap) · [官网](https://xdfeastbuys.top/) · 个人维护 · 中文 README
+⭐ 66 · Java · 推送 2026-04-30 · [GitHub](https://github.com/xiaomozhang/java-ai-engineer-roadmap) · [官网](https://xdfeastbuys.top/) · 个人维护 · 中文 README
 
 **Java 工程师转型 AI 工程师的学习路线图与文档仓库**
 

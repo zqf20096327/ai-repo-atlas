@@ -1,6 +1,6 @@
 # wxtsky/byob
 
-⭐ 144 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wxtsky/byob) · [官网](https://github.com/wxtsky/byob) · 个人维护 · 中文 README
+⭐ 145 · JavaScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/wxtsky/byob) · [官网](https://github.com/wxtsky/byob) · 个人维护 · 中文 README
 
 **本地 MCP 服务器：让 AI 编码工具直接控制你已登录的 Chrome**
 

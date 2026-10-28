@@ -1,6 +1,6 @@
 # openai/role-specific-plugins
 
-⭐ 559 · 推送 2026-09-30 · [GitHub](https://github.com/openai/role-specific-plugins) · 组织维护
+⭐ 560 · 推送 2026-09-30 · [GitHub](https://github.com/openai/role-specific-plugins) · 组织维护
 
 **面向 Codex 的角色专用插件模板仓库（占位）**
 

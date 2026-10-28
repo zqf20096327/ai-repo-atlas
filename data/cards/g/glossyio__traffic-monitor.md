@@ -1,6 +1,6 @@
 # glossyio/traffic-monitor
 
-⭐ 131 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/glossyio/traffic-monitor) · [官网](https://www.trafficmonitor.ai) · 组织维护
+⭐ 131 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/glossyio/traffic-monitor) · [官网](https://www.trafficmonitor.ai) · 组织维护
 
 **边缘 ML+多普勒雷达的道路交通监测软硬件方案**
 

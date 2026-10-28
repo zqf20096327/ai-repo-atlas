@@ -1,6 +1,6 @@
 # atlanhq/agent-toolkit
 
-⭐ 41 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/atlanhq/agent-toolkit) · [官网](https://docs.atlan.com/product/capabilities/atlan-ai/how-tos/atlan-mcp-overview) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/atlanhq/agent-toolkit) · [官网](https://docs.atlan.com/product/capabilities/atlan-ai/how-tos/atlan-mcp-overview) · 组织维护
 
 **Atlan 数据目录的 AI agent 工具集：MCP 服务与插件**
 

@@ -1,6 +1,6 @@
 # AgentR1/Agent-R1
 
-⭐ 1,708 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AgentR1/Agent-R1) · 组织维护 · 中文 README
+⭐ 1,709 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AgentR1/Agent-R1) · 组织维护 · 中文 README
 
 **训练多步 LLM agent 的端到端强化学习框架**
 

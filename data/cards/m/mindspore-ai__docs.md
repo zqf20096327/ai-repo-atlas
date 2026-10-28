@@ -1,6 +1,6 @@
 # mindspore-ai/docs
 
-⭐ 167 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mindspore-ai/docs) · 组织维护 · 中文 README
+⭐ 167 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mindspore-ai/docs) · 组织维护 · 中文 README
 
 **MindSpore 官方文档源文件仓库：安装指南、教程与 API 文档**
 

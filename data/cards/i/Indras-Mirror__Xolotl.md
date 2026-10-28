@@ -1,6 +1,6 @@
 # Indras-Mirror/Xolotl
 
-⭐ 380 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://github.com/Niko1221/Strata) · 个人维护
+⭐ 390 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://github.com/Niko1221/Strata) · 个人维护
 
 **在单张游戏显卡上运行 552B MoE 模型的推理引擎**
 

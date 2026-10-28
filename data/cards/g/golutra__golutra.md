@@ -1,6 +1,6 @@
 # golutra/golutra
 
-⭐ 3,862 · Rust · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/golutra/golutra) · [官网](https://www.golutra.com) · 个人维护 · 中文 README
+⭐ 3,861 · Rust · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/golutra/golutra) · [官网](https://www.golutra.com) · 个人维护 · 中文 README
 
 **把现有 AI CLI 编排为多智能体并行协作的桌面工作空间**
 

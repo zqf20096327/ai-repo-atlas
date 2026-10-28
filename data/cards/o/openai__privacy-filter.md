@@ -1,6 +1,6 @@
 # openai/privacy-filter
 
-⭐ 2,763 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/privacy-filter) · 组织维护
+⭐ 2,768 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/privacy-filter) · 组织维护
 
 **本地运行的 PII 检测与脱敏模型（1.5B，Apache 2.0）**
 

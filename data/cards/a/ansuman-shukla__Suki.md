@@ -1,6 +1,6 @@
 # ansuman-shukla/Suki
 
-⭐ 29 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ansuman-shukla/Suki) · 个人维护
+⭐ 29 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ansuman-shukla/Suki) · 个人维护
 
 **macOS 全局语音听写工具，自带 API Key，支持多模型**
 

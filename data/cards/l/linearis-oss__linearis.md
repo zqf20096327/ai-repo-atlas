@@ -1,6 +1,6 @@
 # linearis-oss/linearis
 
-⭐ 262 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/linearis-oss/linearis) · [官网](https://npmjs.com/package/linearis) · 组织维护
+⭐ 262 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/linearis-oss/linearis) · [官网](https://npmjs.com/package/linearis) · 组织维护
 
 **面向 AI agent 的 Linear.app JSON CLI：省 token 地操作工单**
 

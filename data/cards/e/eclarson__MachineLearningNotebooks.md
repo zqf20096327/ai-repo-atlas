@@ -1,6 +1,6 @@
 # eclarson/MachineLearningNotebooks
 
-⭐ 172 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/eclarson/MachineLearningNotebooks) · [官网](https://s2.smu.edu/~eclarson/teaching.html) · 组织维护
+⭐ 172 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/eclarson/MachineLearningNotebooks) · [官网](https://s2.smu.edu/~eclarson/teaching.html) · 组织维护
 
 **SMU 神经网络课程讲义与代码仓库（CS5324/CS7324）**
 

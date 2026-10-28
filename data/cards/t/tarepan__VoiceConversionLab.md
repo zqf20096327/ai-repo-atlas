@@ -1,6 +1,6 @@
 # tarepan/VoiceConversionLab
 
-⭐ 98 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tarepan/VoiceConversionLab) · [官网](https://twitter.com/VoiceConversion) · 个人维护
+⭐ 98 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tarepan/VoiceConversionLab) · [官网](https://twitter.com/VoiceConversion) · 个人维护
 
 **语音转换研究论文的自动收集与社区确认清单**
 

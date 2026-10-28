@@ -1,6 +1,6 @@
 # litexlang/golitex
 
-⭐ 677 · Lean · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/litexlang/golitex) · [官网](https://litexlang.com) · 个人维护 · 中文 README
+⭐ 677 · Lean · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/litexlang/golitex) · [官网](https://litexlang.com) · 个人维护 · 中文 README
 
 **让数学陈述直接机器可检验的形式化语言与验证器**
 

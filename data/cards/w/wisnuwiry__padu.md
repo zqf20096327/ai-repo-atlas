@@ -1,6 +1,6 @@
 # wisnuwiry/padu
 
-⭐ 19 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/wisnuwiry/padu) · [官网](https://padu.dev) · 个人维护
+⭐ 19 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/wisnuwiry/padu) · [官网](https://padu.dev) · 个人维护
 
 **本地 AI 编程 Agent 统一编排的原生桌面应用**
 

@@ -1,6 +1,6 @@
 # VinAIResearch/PhoBERT
 
-⭐ 809 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/VinAIResearch/PhoBERT) · 组织维护
+⭐ 810 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/VinAIResearch/PhoBERT) · 组织维护
 
 **越南语预训练语言模型（RoBERTa 架构），供下游 NLP 任务使用**
 

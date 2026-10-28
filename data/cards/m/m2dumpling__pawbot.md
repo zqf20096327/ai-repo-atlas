@@ -1,6 +1,6 @@
 # m2dumpling/pawbot
 
-⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/m2dumpling/pawbot) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/m2dumpling/pawbot) · 个人维护 · 中文 README
 
 **自托管 AI agent：浏览器/终端/聊天应用执行任务并支持录制回放**
 

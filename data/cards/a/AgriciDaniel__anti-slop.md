@@ -1,6 +1,6 @@
 # AgriciDaniel/anti-slop
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/anti-slop) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/anti-slop) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
 
 **检测并修复 AI 辅助文本/代码中实质缺陷的工具集，只报缺陷不判作者**
 

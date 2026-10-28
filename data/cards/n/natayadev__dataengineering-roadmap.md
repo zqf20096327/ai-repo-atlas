@@ -1,6 +1,6 @@
 # natayadev/dataengineering-roadmap
 
-⭐ 912 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/natayadev/dataengineering-roadmap) · [官网](https://natayadev.github.io/dataengineering-roadmap/) · 个人维护
+⭐ 913 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/natayadev/dataengineering-roadmap) · [官网](https://natayadev.github.io/dataengineering-roadmap/) · 个人维护
 
 **西班牙语数据工程学习路线图：免费资源与挑战清单**
 

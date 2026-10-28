@@ -1,6 +1,6 @@
 # viveknaskar/everything-ai-ml
 
-⭐ 491 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
+⭐ 491 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
 
 **AI/ML 学习资源策展清单：课程、教程与工具链接合集**
 

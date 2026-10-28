@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleYOLO
 
-⭐ 667 · Python · GPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddlePaddle/PaddleYOLO) · [官网](https://github.com/PaddlePaddle/PaddleYOLO) · 组织维护 · 中文 README
+⭐ 666 · Python · GPL-3.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddlePaddle/PaddleYOLO) · [官网](https://github.com/PaddlePaddle/PaddleYOLO) · 组织维护 · 中文 README
 
 **面向开发者的飞桨 YOLO 系列目标检测模型库**
 

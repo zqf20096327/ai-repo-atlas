@@ -1,6 +1,6 @@
 # neohaskell/NeoHaskell
 
-⭐ 348 · Haskell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/neohaskell/NeoHaskell) · [官网](https://neohaskell.org) · 组织维护
+⭐ 348 · Haskell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/neohaskell/NeoHaskell) · [官网](https://neohaskell.org) · 组织维护
 
 **面向新手的 Haskell 方言：易学且面向生产发布的编程语言**
 

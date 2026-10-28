@@ -1,6 +1,6 @@
 # nuxt-modules/mcp-toolkit
 
-⭐ 181 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nuxt-modules/mcp-toolkit) · [官网](https://mcp-toolkit.nuxt.dev) · 组织维护
+⭐ 181 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nuxt-modules/mcp-toolkit) · [官网](https://mcp-toolkit.nuxt.dev) · 组织维护
 
 **Nuxt 模块：在 Nuxt 应用内直接创建 MCP 服务器**
 

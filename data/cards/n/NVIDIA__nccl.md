@@ -1,6 +1,6 @@
 # NVIDIA/nccl
 
-⭐ 5,189 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
+⭐ 5,190 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
 
 **GPU 集合通信库：为多 GPU/多机提供高性能通信原语**
 

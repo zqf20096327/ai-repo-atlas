@@ -1,6 +1,6 @@
 # FXTD-Studios/radiance
 
-⭐ 257 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/FXTD-Studios/radiance) · [官网](https://www.fxtdstudios.com) · 组织维护
+⭐ 257 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FXTD-Studios/radiance) · [官网](https://www.fxtdstudios.com) · 组织维护
 
 **ComfyUI 的 HDR/色彩管理/VFX 节点集，含生成与审看工具**
 

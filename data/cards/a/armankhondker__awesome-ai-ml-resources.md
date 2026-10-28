@@ -1,6 +1,6 @@
 # armankhondker/awesome-ai-ml-resources
 
-⭐ 4,679 · MIT · 推送 2026-05-09 · [GitHub](https://github.com/armankhondker/awesome-ai-ml-resources) · 个人维护
+⭐ 4,680 · MIT · 推送 2026-05-09 · [GitHub](https://github.com/armankhondker/awesome-ai-ml-resources) · 个人维护
 
 **面向初学者的 AI/ML 学习路线图与免费资源清单**
 

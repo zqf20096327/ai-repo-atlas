@@ -1,6 +1,6 @@
 # datawhalechina/fun-rec
 
-⭐ 7,455 · Python · 推送 2026-06-27 · [GitHub](https://github.com/datawhalechina/fun-rec) · 组织维护 · 中文 README
+⭐ 7,457 · Python · 推送 2026-06-27 · [GitHub](https://github.com/datawhalechina/fun-rec) · 组织维护 · 中文 README
 
 **推荐系统中文教程：从级联架构到生成式范式**
 

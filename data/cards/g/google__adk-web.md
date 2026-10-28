@@ -1,6 +1,6 @@
 # google/adk-web
 
-⭐ 1,060 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google/adk-web) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 1,058 · TypeScript · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google/adk-web) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **Google ADK 内置的开发者 Web UI，用于 agent 开发调试**
 

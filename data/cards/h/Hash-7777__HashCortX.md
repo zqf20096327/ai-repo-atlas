@@ -1,6 +1,6 @@
 # Hash-7777/HashCortX
 
-⭐ 168 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Hash-7777/HashCortX) · [官网](https://hashcortx.com/) · 个人维护
+⭐ 168 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hash-7777/HashCortX) · [官网](https://hashcortx.com/) · 个人维护
 
 **本地优先 AI 桌面工作台：多模型对话、编码 agent 与本地 RAG**
 

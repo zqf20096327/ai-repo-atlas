@@ -1,6 +1,6 @@
 # damminhtien/deepnet-for-semantic-labeling-photogrammetry
 
-⭐ 22 · Jupyter Notebook · 推送 2026-10-22 · [GitHub](https://github.com/damminhtien/deepnet-for-semantic-labeling-photogrammetry) · 个人维护
+⭐ 22 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/damminhtien/deepnet-for-semantic-labeling-photogrammetry) · 个人维护
 
 **高分辨率遥感影像语义分割的数据与模型组件管线**
 

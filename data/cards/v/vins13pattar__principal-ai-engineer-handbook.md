@@ -1,6 +1,6 @@
 # vins13pattar/principal-ai-engineer-handbook
 
-⭐ 96 · MDX · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vins13pattar/principal-ai-engineer-handbook) · [官网](https://handbook.vinodspattar.in) · 个人维护
+⭐ 96 · MDX · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vins13pattar/principal-ai-engineer-handbook) · [官网](https://handbook.vinodspattar.in) · 个人维护
 
 **面向 Principal/Staff AI 工程师的生产级 AI 系统参考手册**
 

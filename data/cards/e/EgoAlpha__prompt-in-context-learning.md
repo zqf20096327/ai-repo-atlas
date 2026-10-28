@@ -1,6 +1,6 @@
 # EgoAlpha/prompt-in-context-learning
 
-⭐ 2,249 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
+⭐ 2,249 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护 · 中文 README
 
 **上下文学习与提示工程的开源资源清单：论文、提示技术与LLM使用指南**
 

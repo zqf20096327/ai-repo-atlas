@@ -1,6 +1,6 @@
 # alexeyw/knotwork
 
-⭐ 26 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alexeyw/knotwork) · 个人维护
+⭐ 30 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alexeyw/knotwork) · 个人维护
 
 **本地优先的 Android 端侧 AI agent 应用，自建管线**
 

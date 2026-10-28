@@ -1,6 +1,6 @@
 # todoforai/bridge
 
-⭐ 37 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/todoforai/bridge) · 组织维护
+⭐ 39 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/todoforai/bridge) · 组织维护
 
 **C 编写的边缘桥接运行时：把用户机器与沙箱接入 TODOforAI 后端**
 

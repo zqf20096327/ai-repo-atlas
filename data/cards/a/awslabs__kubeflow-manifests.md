@@ -1,6 +1,6 @@
 # awslabs/kubeflow-manifests
 
-⭐ 186 · YAML · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/awslabs/kubeflow-manifests) · [官网](https://awslabs.github.io/kubeflow-manifests/) · 组织维护
+⭐ 186 · YAML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/awslabs/kubeflow-manifests) · [官网](https://awslabs.github.io/kubeflow-manifests/) · 组织维护
 
 **Kubeflow 在 AWS 上的发行版：提供集成 AWS 服务的 manifests 部署方案**
 

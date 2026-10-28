@@ -1,6 +1,6 @@
 # lukabudik/alza-mcp-community
 
-⭐ 92 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/lukabudik/alza-mcp-community) · [官网](https://github.com/lukabudik/alza-mcp) · 个人维护
+⭐ 93 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/lukabudik/alza-mcp-community) · [官网](https://github.com/lukabudik/alza-mcp) · 个人维护
 
 **让 AI agent 在 Alza.cz 购物下单的非官方 MCP 服务器**
 

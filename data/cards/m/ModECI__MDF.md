@@ -1,6 +1,6 @@
 # ModECI/MDF
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/ModECI/MDF) · [官网](https://mdf.readthedocs.io) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ModECI/MDF) · [官网](https://mdf.readthedocs.io) · 组织维护
 
 **跨环境交换计算模型的开放标准与 Python 工具集**
 

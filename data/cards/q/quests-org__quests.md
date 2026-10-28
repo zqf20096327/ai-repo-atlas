@@ -1,6 +1,6 @@
 # quests-org/quests
 
-⭐ 466 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/quests-org/quests) · [官网](https://quests.dev) · 组织维护
+⭐ 465 · TypeScript · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/quests-org/quests) · [官网](https://quests.dev) · 组织维护
 
 **开源桌面应用构建器：用任意 LLM 在本地生成并运行应用**
 

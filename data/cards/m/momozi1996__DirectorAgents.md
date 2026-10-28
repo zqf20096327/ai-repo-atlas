@@ -1,6 +1,6 @@
 # momozi1996/DirectorAgents
 
-⭐ 59 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/momozi1996/DirectorAgents) · 个人维护 · 中文 README
+⭐ 61 · Shell · MIT · 推送 2026-05-11 · [GitHub](https://github.com/momozi1996/DirectorAgents) · 个人维护 · 中文 README
 
 **31位导演风格的多Agent创意协作技能包**
 

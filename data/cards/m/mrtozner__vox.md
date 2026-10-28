@@ -1,6 +1,6 @@
 # mrtozner/vox
 
-⭐ 49 · Rust · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/mrtozner/vox) · 个人维护
+⭐ 50 · Rust · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/mrtozner/vox) · 个人维护
 
 **本地优先的 Rust 语音 AI 框架：STT/TTS/说话人分离/语音对话**
 

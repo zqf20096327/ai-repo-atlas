@@ -1,6 +1,6 @@
 # chrisryugj/Docufinder
 
-⭐ 667 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/chrisryugj/Docufinder) · 个人维护 · 中文 README
+⭐ 668 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/chrisryugj/Docufinder) · 个人维护 · 中文 README
 
 **离线全文检索本机韩文文档（HWP/PDF/Office）的桌面搜索引擎**
 

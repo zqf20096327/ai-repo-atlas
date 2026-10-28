@@ -1,6 +1,6 @@
 # a-agmon/rs-graph-llm
 
-⭐ 381 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/a-agmon/rs-graph-llm) · 个人维护
+⭐ 382 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/a-agmon/rs-graph-llm) · 个人维护
 
 **面向 AI agent 的 Rust 有状态图工作流框架（LangGraph 风格）**
 

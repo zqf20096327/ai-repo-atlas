@@ -1,6 +1,6 @@
 # hongleizhang/RSPapers
 
-⭐ 6,520 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护 · 中文 README
+⭐ 6,519 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hongleizhang/RSPapers) · 个人维护 · 中文 README
 
 **推荐系统必读论文与教程策展清单，18 个主题分类**
 

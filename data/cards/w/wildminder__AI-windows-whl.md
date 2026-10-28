@@ -1,6 +1,6 @@
 # wildminder/AI-windows-whl
 
-⭐ 881 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
+⭐ 882 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
 
 **Windows 平台 AI/ML 库预编译 whl 链接清单，免源码编译**
 

@@ -1,6 +1,6 @@
 # NeuromatchAcademy/course-content
 
-⭐ 3,148 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/NeuromatchAcademy/course-content) · [官网](https://compneuro.neuromatch.io) · 组织维护
+⭐ 3,147 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/NeuromatchAcademy/course-content) · [官网](https://compneuro.neuromatch.io) · 组织维护
 
 **计算神经科学暑期课程教材（教程与日程），面向学生**
 

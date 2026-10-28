@@ -1,6 +1,6 @@
 # birdnet-team/birdnet
 
-⭐ 164 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/birdnet-team/birdnet) · [官网](https://birdnet-team.github.io/birdnet/) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/birdnet-team/birdnet) · [官网](https://birdnet-team.github.io/birdnet/) · 组织维护
 
 **通过鸟鸣声音识别鸟类物种的 Python 库，面向生态声学分析**
 

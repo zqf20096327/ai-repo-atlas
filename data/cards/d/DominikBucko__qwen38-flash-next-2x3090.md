@@ -1,6 +1,6 @@
 # DominikBucko/qwen38-flash-next-2x3090
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/DominikBucko/qwen38-flash-next-2x3090) · [官网](https://huggingface.co/albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE) · 个人维护
+⭐ 130 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/DominikBucko/qwen38-flash-next-2x3090) · [官网](https://huggingface.co/albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE) · 个人维护
 
 **在 2×RTX 3090 上高速运行 Qwen3.8-Flash-Next 的推理构建**
 

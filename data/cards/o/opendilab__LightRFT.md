@@ -1,6 +1,6 @@
 # opendilab/LightRFT
 
-⭐ 391 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/opendilab/LightRFT) · [官网](https://opendilab.github.io/LightRFT) · 组织维护 · 中文 README
+⭐ 390 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/opendilab/LightRFT) · [官网](https://opendilab.github.io/LightRFT) · 组织维护 · 中文 README
 
 **面向 LLM/VLM 的轻量强化微调训练框架**
 

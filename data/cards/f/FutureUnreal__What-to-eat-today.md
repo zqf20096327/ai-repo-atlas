@@ -1,6 +1,6 @@
 # FutureUnreal/What-to-eat-today
 
-⭐ 237 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/FutureUnreal/What-to-eat-today) · [官网](https://datawhalechina.github.io/all-in-rag/) · 个人维护 · 中文 README
+⭐ 236 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/FutureUnreal/What-to-eat-today) · [官网](https://datawhalechina.github.io/all-in-rag/) · 个人维护 · 中文 README
 
 **给美食选择困难者的图RAG烹饪推荐与指导助手**
 

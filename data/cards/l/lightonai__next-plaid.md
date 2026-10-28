@@ -1,6 +1,6 @@
 # lightonai/next-plaid
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 606 · Rust · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/lightonai/next-plaid) · [官网](https://lightonai.github.io/next-plaid/) · 组织维护
 
 **本地多向量搜索引擎 NextPlaid 及其上的语义代码搜索工具 ColGREP**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

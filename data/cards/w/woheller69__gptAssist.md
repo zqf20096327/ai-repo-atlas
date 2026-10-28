@@ -1,6 +1,6 @@
 # woheller69/gptAssist
 
-⭐ 465 · Java · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/woheller69/gptAssist) · 个人维护
+⭐ 464 · Java · GPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/woheller69/gptAssist) · 个人维护
 
 **Android 上的 ChatGPT WebView 轻量封装应用**
 

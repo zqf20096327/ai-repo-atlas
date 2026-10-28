@@ -1,6 +1,6 @@
 # SoFluffyOS/lumide
 
-⭐ 139 · 推送 2026-10-21 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 组织维护
+⭐ 141 · 推送 2026-10-21 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 组织维护
 
 **Flutter 构建的桌面代码编辑器，内置 AI agent 接入**
 

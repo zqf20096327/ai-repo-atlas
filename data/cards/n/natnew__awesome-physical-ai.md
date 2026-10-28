@@ -1,6 +1,6 @@
 # natnew/awesome-physical-ai
 
-⭐ 167 · MDX · MIT · 推送 2026-10-26 · [GitHub](https://github.com/natnew/awesome-physical-ai) · [官网](https://natnew.github.io/awesome-physical-ai/) · 个人维护
+⭐ 168 · MDX · MIT · 推送 2026-10-26 · [GitHub](https://github.com/natnew/awesome-physical-ai) · [官网](https://natnew.github.io/awesome-physical-ai/) · 个人维护
 
 **Physical AI / 具身智能资源策展清单（235 条，14 类）**
 

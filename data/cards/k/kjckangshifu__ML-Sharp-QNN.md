@@ -1,6 +1,6 @@
 # kjckangshifu/ML-Sharp-QNN
 
-⭐ 30 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/kjckangshifu/ML-Sharp-QNN) · [官网](https://github.com/kjckangshifu/ML-Sharp-QNN) · 个人维护 · 中文 README
+⭐ 32 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/kjckangshifu/ML-Sharp-QNN) · [官网](https://github.com/kjckangshifu/ML-Sharp-QNN) · 个人维护 · 中文 README
 
 **将苹果 SHARP 单图 3D 高斯泼溅移植到骁龙手机离线运行的安卓应用**
 

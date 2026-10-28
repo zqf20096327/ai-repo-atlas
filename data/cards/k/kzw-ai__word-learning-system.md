@@ -1,6 +1,6 @@
 # kzw-ai/word-learning-system
 
-⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kzw-ai/word-learning-system) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kzw-ai/word-learning-system) · 个人维护 · 中文 README
 
 **面向中级汉语学习者的自适应词汇学习系统**
 

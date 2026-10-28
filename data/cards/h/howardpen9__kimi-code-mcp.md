@@ -1,6 +1,6 @@
 # howardpen9/kimi-code-mcp
 
-⭐ 61 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/howardpen9/kimi-code-mcp) · [官网](https://github.com/howardpen9/kimi-code-mcp#readme) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/howardpen9/kimi-code-mcp) · [官网](https://github.com/howardpen9/kimi-code-mcp#readme) · 个人维护 · 中文 README
 
 **让 Claude Code 把大批代码库分析委托给 Kimi 的 MCP server**
 

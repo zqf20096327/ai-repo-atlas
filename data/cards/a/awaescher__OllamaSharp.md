@@ -1,6 +1,6 @@
 # awaescher/OllamaSharp
 
-⭐ 1,408 · C# · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awaescher/OllamaSharp) · [官网](https://www.nuget.org/packages/OllamaSharp) · 个人维护
+⭐ 1,409 · C# · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awaescher/OllamaSharp) · [官网](https://www.nuget.org/packages/OllamaSharp) · 个人维护
 
 **.NET 访问 Ollama API 的绑定库**
 

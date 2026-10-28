@@ -1,6 +1,6 @@
 # vahiiiid/go-rest-api-boilerplate
 
-⭐ 70 · Go · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vahiiiid/go-rest-api-boilerplate) · [官网](https://vahiiiid.github.io/go-rest-api-docs/) · 个人维护
+⭐ 71 · Go · MIT · 推送 2026-08-17 · [GitHub](https://github.com/vahiiiid/go-rest-api-boilerplate) · [官网](https://vahiiiid.github.io/go-rest-api-docs/) · 个人维护
 
 **面向 AI 编码助手优化的 Go REST API 脚手架**
 

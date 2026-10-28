@@ -1,6 +1,6 @@
 # microsoft/customer-chatbot-solution-accelerator
 
-⭐ 50 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/customer-chatbot-solution-accelerator) · 组织维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/customer-chatbot-solution-accelerator) · 组织维护
 
 **面向企业的客户服务聊天机器人部署方案（Azure AI Foundry）**
 

@@ -1,6 +1,6 @@
 # HacxGPT-Official/HacxGPT-CLI
 
-⭐ 1,147 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/HacxGPT-Official/HacxGPT-CLI) · [官网](https://hacxgpt.com) · 组织维护
+⭐ 1,150 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/HacxGPT-Official/HacxGPT-CLI) · [官网](https://hacxgpt.com) · 组织维护
 
 **命令行 AI 聊天客户端，自带密钥接入多平台模型**
 

@@ -1,6 +1,6 @@
 # Takamatsu-Hikaru/AI-Research-Guide
 
-⭐ 189 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/Takamatsu-Hikaru/AI-Research-Guide) · [官网](https://takamatsu-hikaru.github.io/AI-Research-Guide/) · 组织维护 · 中文 README
+⭐ 193 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/Takamatsu-Hikaru/AI-Research-Guide) · [官网](https://takamatsu-hikaru.github.io/AI-Research-Guide/) · 组织维护 · 中文 README
 
 **面向大学新生的 AI 科研入门双语指南与论文卡片库**
 

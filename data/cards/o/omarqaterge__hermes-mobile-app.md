@@ -1,6 +1,6 @@
 # omarqaterge/hermes-mobile-app
 
-⭐ 89 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/omarqaterge/hermes-mobile-app) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/omarqaterge/hermes-mobile-app) · 个人维护
 
 **在 Android 手机上本地运行 Hermes Agent 的原生聊天客户端**
 

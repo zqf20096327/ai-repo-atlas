@@ -1,6 +1,6 @@
 # deivid11/tide-commander
 
-⭐ 75 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/deivid11/tide-commander) · [官网](https://tidecommander.com/) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deivid11/tide-commander) · [官网](https://tidecommander.com/) · 个人维护
 
 **多 AI agent CLI 的可视化管理与编排工作台**
 

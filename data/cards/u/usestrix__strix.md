@@ -1,6 +1,6 @@
 # usestrix/strix
 
-⭐ 72,311 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
+⭐ 72,540 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/usestrix/strix) · [官网](https://strix.ai) · 组织维护
 
 **面向开发者与安全团队的自主 AI 渗透测试 agent 工具**
 

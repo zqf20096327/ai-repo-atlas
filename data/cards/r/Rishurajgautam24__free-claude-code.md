@@ -1,6 +1,6 @@
 # Rishurajgautam24/free-claude-code
 
-⭐ 958 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Rishurajgautam24/free-claude-code) · 个人维护
+⭐ 959 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Rishurajgautam24/free-claude-code) · 个人维护
 
 **免费使用 Claude Code 的本地代理：转发请求到第三方或本地模型**
 

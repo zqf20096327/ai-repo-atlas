@@ -1,6 +1,6 @@
 # lwh0630/TokenBar
 
-⭐ 96 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lwh0630/TokenBar) · 个人维护 · 中文 README
+⭐ 112 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lwh0630/TokenBar) · 个人维护 · 中文 README
 
 **跨平台 AI 配额/余额监控应用：聚合显示 50 个服务的用量限额**
 

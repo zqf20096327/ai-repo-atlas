@@ -1,6 +1,6 @@
 # pc-style/x-md
 
-⭐ 168 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pc-style/x-md) · [官网](https://mdfromx.com) · 个人维护
+⭐ 168 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pc-style/x-md) · [官网](https://mdfromx.com) · 个人维护
 
 **把公开 X 帖子/主页/搜索转为 Markdown/JSON 的 API 服务**
 

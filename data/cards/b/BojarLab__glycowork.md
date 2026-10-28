@@ -1,6 +1,6 @@
 # BojarLab/glycowork
 
-⭐ 104 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BojarLab/glycowork) · [官网](https://Bojarlab.github.io/glycowork) · 组织维护
+⭐ 104 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BojarLab/glycowork) · [官网](https://Bojarlab.github.io/glycowork) · 组织维护
 
 **糖链（glycan）数据科学 Python 库：解析、分析与机器学习**
 

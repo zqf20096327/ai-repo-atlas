@@ -1,6 +1,6 @@
 # ROCm/MIVisionX
 
-⭐ 218 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ROCm/MIVisionX) · [官网](https://rocm.docs.amd.com/projects/MIVisionX/en/latest/) · 组织维护
+⭐ 218 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ROCm/MIVisionX) · [官网](https://rocm.docs.amd.com/projects/MIVisionX/en/latest/) · 组织维护
 
 **AMD 计算机视觉工具包：OpenVX 引擎、RPP 扩展与 RunVX 执行器**
 

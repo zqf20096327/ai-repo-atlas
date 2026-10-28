@@ -1,6 +1,6 @@
 # Suren878/matrixclaw
 
-⭐ 22 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Suren878/matrixclaw) · [官网](https://matrixclaw.foresko.com) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Suren878/matrixclaw) · [官网](https://matrixclaw.foresko.com) · 个人维护
 
 **给开发者的常驻本地 AI 助手与编码 agent 运行时（Go）**
 

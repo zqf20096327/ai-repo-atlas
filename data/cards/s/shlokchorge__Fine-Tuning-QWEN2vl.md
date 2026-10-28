@@ -1,6 +1,6 @@
 # shlokchorge/Fine-Tuning-QWEN2vl
 
-⭐ 32 · Jupyter Notebook · 推送 2026-06-25 · [GitHub](https://github.com/shlokchorge/Fine-Tuning-QWEN2vl) · [官网](https://huggingface.co/spaces/shlokchorge2929/visiontex) · 个人维护
+⭐ 34 · Jupyter Notebook · 推送 2026-06-25 · [GitHub](https://github.com/shlokchorge/Fine-Tuning-QWEN2vl) · [官网](https://huggingface.co/spaces/shlokchorge2929/visiontex) · 个人维护
 
 **微调 Qwen2-VL-7B 实现数学表达式图像转 LaTeX**
 

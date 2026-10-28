@@ -1,6 +1,6 @@
 # thoughtbot/rails-audit-thoughtbot
 
-⭐ 261 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/thoughtbot/rails-audit-thoughtbot) · [官网](https://thoughtbot.com) · 组织维护
+⭐ 262 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/thoughtbot/rails-audit-thoughtbot) · [官网](https://thoughtbot.com) · 组织维护
 
 **Claude Code 技能：对 Rails 应用按 thoughtbot 规范做代码审计**
 

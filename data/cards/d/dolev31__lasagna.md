@@ -1,6 +1,6 @@
 # dolev31/lasagna
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dolev31/lasagna) · [官网](https://dolev31.github.io/lasagna/) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dolev31/lasagna) · [官网](https://dolev31.github.io/lasagna/) · 组织维护
 
 **RAG 组件对照评测框架：只换一个阶段、固定其余并测显著性**
 

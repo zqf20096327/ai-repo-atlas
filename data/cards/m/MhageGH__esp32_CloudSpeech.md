@@ -1,6 +1,6 @@
 # MhageGH/esp32_CloudSpeech
 
-⭐ 114 · C++ · MIT · 推送 2026-04-21 · [GitHub](https://github.com/MhageGH/esp32_CloudSpeech) · 个人维护
+⭐ 115 · C++ · MIT · 推送 2026-04-21 · [GitHub](https://github.com/MhageGH/esp32_CloudSpeech) · 个人维护
 
 **ESP32 麦克风录音经 Google 语音转文字 API 输出转写**
 

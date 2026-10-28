@@ -1,6 +1,6 @@
 # Blackman99/deskfolk
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Blackman99/deskfolk) · [官网](https://blackman99.github.io/deskfolk/) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Blackman99/deskfolk) · [官网](https://blackman99.github.io/deskfolk/) · 个人维护 · 中文 README
 
 **本地优先的桌面多智能体委托应用：交活、走人、回来看结果**
 

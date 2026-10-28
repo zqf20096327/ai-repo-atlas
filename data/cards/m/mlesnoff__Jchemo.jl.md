@@ -1,6 +1,6 @@
 # mlesnoff/Jchemo.jl
 
-⭐ 27 · Julia · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mlesnoff/Jchemo.jl) · 个人维护
+⭐ 27 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mlesnoff/Jchemo.jl) · 个人维护
 
 **化学计量学与机器学习 Julia 工具箱，面向光谱等高维数据**
 

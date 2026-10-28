@@ -1,6 +1,6 @@
 # roandejager/Hillock
 
-⭐ 143 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/roandejager/Hillock) · 个人维护
+⭐ 216 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/roandejager/Hillock) · 个人维护
 
 **本地超维计算记忆引擎：为边缘硬件提供低显存 RAG 替代**
 

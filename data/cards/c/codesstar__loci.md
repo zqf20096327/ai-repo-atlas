@@ -1,6 +1,6 @@
 # codesstar/loci
 
-⭐ 502 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codesstar/loci) · 个人维护 · 中文 README
+⭐ 503 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/codesstar/loci) · 个人维护 · 中文 README
 
 **给 AI 编码工具的本地记忆宫殿：跨 Agent 共享记忆与项目上下文**
 

@@ -1,6 +1,6 @@
 # sakalond/StableGen
 
-⭐ 968 · Python · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/sakalond/StableGen) · 个人维护
+⭐ 968 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/sakalond/StableGen) · 个人维护
 
 **Blender 生成式 AI 插件：图像/文本生成并纹理化 3D 模型**
 

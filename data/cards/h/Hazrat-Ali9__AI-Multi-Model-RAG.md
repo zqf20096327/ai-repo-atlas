@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-Multi-Model-RAG
 
-⭐ 23 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · [官网](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · 个人维护
+⭐ 24 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · [官网](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · 个人维护
 
 **多模型 RAG 系统：结合文档检索与多 LLM 生成回答**
 

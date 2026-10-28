@@ -1,6 +1,6 @@
 # matthewhand/operating-swarm
 
-⭐ 20 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/matthewhand/operating-swarm) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/matthewhand/operating-swarm) · 个人维护
 
 **提供商无关的 agent 运行层与工作流 harness，供开发者运行多 agent 工作流**
 

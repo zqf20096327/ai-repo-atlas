@@ -1,6 +1,6 @@
 # oncoray/familiar
 
-⭐ 31 · R · EUPL-1.2 · 推送 2026-09-03 · [GitHub](https://github.com/oncoray/familiar) · 组织维护
+⭐ 31 · R · EUPL-1.2 · 推送 2026-10-28 · [GitHub](https://github.com/oncoray/familiar) · 组织维护
 
 **表格数据端到端机器学习 R 包：建模、评估与可解释分析**
 

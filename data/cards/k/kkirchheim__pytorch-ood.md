@@ -1,6 +1,6 @@
 # kkirchheim/pytorch-ood
 
-⭐ 351 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/kkirchheim/pytorch-ood) · [官网](https://pytorch-ood.readthedocs.io/) · 个人维护
+⭐ 352 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kkirchheim/pytorch-ood) · [官网](https://pytorch-ood.readthedocs.io/) · 个人维护
 
 **基于 PyTorch 的分布外（OOD）检测库，供研究者评测检测方法**
 

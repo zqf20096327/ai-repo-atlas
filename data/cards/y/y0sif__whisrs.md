@@ -1,6 +1,6 @@
 # y0sif/whisrs
 
-⭐ 143 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/y0sif/whisrs) · [官网](https://y0sif.github.io/whisrs/) · 个人维护
+⭐ 143 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/y0sif/whisrs) · [官网](https://y0sif.github.io/whisrs/) · 个人维护
 
 **Linux 桌面语音工具：听写、朗读与语音驱动 LLM 命令**
 

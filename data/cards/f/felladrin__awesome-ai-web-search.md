@@ -1,6 +1,6 @@
 # felladrin/awesome-ai-web-search
 
-⭐ 1,498 · HTML · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护 · 中文 README
+⭐ 1,499 · HTML · CC0-1.0 · 推送 2026-10-21 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护 · 中文 README
 
 **AI 网络搜索软件策展清单：按时间线收录开源与闭源产品**
 

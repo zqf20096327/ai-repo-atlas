@@ -1,6 +1,6 @@
 # LawDigital/redink
 
-⭐ 102 · Visual Basic .NET · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/LawDigital/redink) · [官网](https://vischer.com/redink) · 组织维护
+⭐ 102 · Visual Basic .NET · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/LawDigital/redink) · [官网](https://vischer.com/redink) · 组织维护
 
 **Windows Office 加载项：在 Word/Excel/Outlook 内接入自选 LLM API**
 

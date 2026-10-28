@@ -1,6 +1,6 @@
 # vastxie/99AI
 
-⭐ 1,033 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vastxie/99AI) · [官网](https://agent.lightai.cloud) · 个人维护 · 中文 README
+⭐ 1,034 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vastxie/99AI) · [官网](https://agent.lightai.cloud) · 个人维护 · 中文 README
 
 **可私有化部署的多用户 Web Agent 底座，带沙箱与后台**
 

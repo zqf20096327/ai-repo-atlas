@@ -1,6 +1,6 @@
 # sdv-dev/SDV
 
-⭐ 3,584 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/sdv-dev/SDV) · [官网](https://docs.sdv.dev/sdv) · 组织维护
+⭐ 3,586 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sdv-dev/SDV) · [官网](https://docs.sdv.dev/sdv) · 组织维护
 
 **生成表格合成数据的 Python 库：从真实数据学习并生成仿真数据**
 

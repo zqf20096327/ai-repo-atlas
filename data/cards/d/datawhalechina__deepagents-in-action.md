@@ -1,6 +1,6 @@
 # datawhalechina/deepagents-in-action
 
-⭐ 2,813 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
+⭐ 2,824 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/datawhalechina/deepagents-in-action) · [官网](https://datawhalechina.github.io/deepagents-in-action/) · 组织维护 · 中文 README
 
 **中文开源课程：基于 LangChain/LangGraph 从零构建生产级 AI Agent**
 

@@ -1,6 +1,6 @@
 # colinhacks/frizz
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/colinhacks/frizz) · [官网](https://www.npmjs.com/package/frizz) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/colinhacks/frizz) · [官网](https://www.npmjs.com/package/frizz) · 个人维护
 
 **本地运行的 Claude Code / Codex 编排控制台与任务队列**
 

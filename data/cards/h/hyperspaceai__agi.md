@@ -1,6 +1,6 @@
 # hyperspaceai/agi
 
-⭐ 2,073 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hyperspaceai/agi) · [官网](https://agents.hyper.space/) · 组织维护
+⭐ 2,071 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hyperspaceai/agi) · [官网](https://agents.hyper.space/) · 组织维护
 
 **P2P 去中心化 AGI 网络：节点贡献算力运行自主研究 AI 代理**
 

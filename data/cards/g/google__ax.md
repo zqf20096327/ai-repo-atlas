@@ -1,6 +1,6 @@
 # google/ax
 
-⭐ 14,120 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
+⭐ 14,277 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
 **Google 的声明式 Agent 编排运行时，在集群中大规模运行 agent 任务**
 

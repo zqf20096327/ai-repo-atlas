@@ -1,6 +1,6 @@
 # iflytek/dolphin-mcp-pilot
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/iflytek/dolphin-mcp-pilot) · 组织维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/iflytek/dolphin-mcp-pilot) · 组织维护 · 中文 README
 
 **让 AI agent 操作 Apache DolphinScheduler 的 MCP 服务器**
 

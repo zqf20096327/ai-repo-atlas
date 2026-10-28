@@ -1,6 +1,6 @@
 # o19s/RankyMcRankFace
 
-⭐ 46 · Java · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/o19s/RankyMcRankFace) · 组织维护
+⭐ 46 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/o19s/RankyMcRankFace) · 组织维护
 
 **Ranklib 学习排序库的加固分支，便于接入 ES/OpenSearch LTR 插件**
 

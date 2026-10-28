@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-SimulMT
 
-⭐ 143 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-SimulMT) · 组织维护 · 中文 README
+⭐ 166 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-SimulMT) · 组织维护 · 中文 README
 
 **腾讯混元中英双向实时同声传译模型，边说边译并克隆音色**
 

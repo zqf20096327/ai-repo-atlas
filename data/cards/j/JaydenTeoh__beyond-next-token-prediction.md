@@ -1,6 +1,6 @@
 # JaydenTeoh/beyond-next-token-prediction
 
-⭐ 36 · 推送 2026-07-10 · [GitHub](https://github.com/JaydenTeoh/beyond-next-token-prediction) · 个人维护
+⭐ 37 · 推送 2026-07-10 · [GitHub](https://github.com/JaydenTeoh/beyond-next-token-prediction) · 个人维护
 
 **下一 token 预测局限与超越方法的论文策展清单**
 

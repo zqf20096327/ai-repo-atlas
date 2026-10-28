@@ -1,6 +1,6 @@
 # deancourse/claude-code-docker-container
 
-⭐ 24 · Shell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/deancourse/claude-code-docker-container) · [官网](https://www.youtube.com/watch?v=BPdyiaC-3Lw) · 个人维护 · 中文 README
+⭐ 25 · Shell · MIT · 推送 2026-09-12 · [GitHub](https://github.com/deancourse/claude-code-docker-container) · [官网](https://www.youtube.com/watch?v=BPdyiaC-3Lw) · 个人维护 · 中文 README
 
 **在 Docker 容器中隔离执行 Claude Code 并以防火墙白名单限制其对外连线**
 

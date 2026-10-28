@@ -1,6 +1,6 @@
 # Babyhamsta/Aimmy
 
-⭐ 1,619 · C# · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/Babyhamsta/Aimmy) · 组织维护
+⭐ 1,620 · C# · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/Babyhamsta/Aimmy) · 组织维护
 
 **面向操作受限玩家的 C# AI 瞄准辅助桌面工具（YOLOv8 屏幕检测）**
 

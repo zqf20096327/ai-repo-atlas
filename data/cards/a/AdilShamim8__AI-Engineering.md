@@ -1,6 +1,6 @@
 # AdilShamim8/AI-Engineering
 
-⭐ 25 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AdilShamim8/AI-Engineering) · [官网](https://adilshamim8.github.io/AI-Engineering/) · 个人维护
+⭐ 25 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AdilShamim8/AI-Engineering) · [官网](https://adilshamim8.github.io/AI-Engineering/) · 个人维护
 
 **AI 工程师职业与面试准备课程：路线图、课程与面试题库**
 

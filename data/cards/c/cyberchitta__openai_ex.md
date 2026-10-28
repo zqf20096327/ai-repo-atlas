@@ -1,6 +1,6 @@
 # cyberchitta/openai_ex
 
-⭐ 217 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyberchitta/openai_ex) · [官网](https://hexdocs.pm/openai_ex) · 组织维护
+⭐ 218 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyberchitta/openai_ex) · [官网](https://hexdocs.pm/openai_ex) · 组织维护
 
 **Elixir 语言的 OpenAI API 客户端库**
 

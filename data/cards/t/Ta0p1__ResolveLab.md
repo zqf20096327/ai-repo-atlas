@@ -1,6 +1,6 @@
 # Ta0p1/ResolveLab
 
-⭐ 33 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ta0p1/ResolveLab) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ta0p1/ResolveLab) · 个人维护 · 中文 README
 
 **注入故障的工具环境：评测并后训练 LLM agent 的恢复能力**
 

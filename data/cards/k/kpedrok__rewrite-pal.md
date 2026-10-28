@@ -1,6 +1,6 @@
 # kpedrok/rewrite-pal
 
-⭐ 68 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/kpedrok/rewrite-pal) · [官网](https://www.rewritepal.com) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/kpedrok/rewrite-pal) · [官网](https://www.rewritepal.com) · 个人维护
 
 **AI 文本改写助手：保留原意，支持语气/角色/语言选项**
 

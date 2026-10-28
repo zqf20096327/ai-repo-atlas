@@ -1,6 +1,6 @@
 # pega2077/ai_file_manager
 
-⭐ 43 · TypeScript · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/pega2077/ai_file_manager) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/pega2077/ai_file_manager) · 个人维护 · 中文 README
 
 **AI 驱动的本地文件管理器：自动分类打标、语义检索与 RAG 问答**
 

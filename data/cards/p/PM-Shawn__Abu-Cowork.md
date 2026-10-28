@@ -1,6 +1,6 @@
 # PM-Shawn/Abu-Cowork
 
-⭐ 404 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
+⭐ 407 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 桌面办公助理：自然语言驱动读写文件、执行命令与自动化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

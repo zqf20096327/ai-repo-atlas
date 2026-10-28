@@ -1,6 +1,6 @@
 # NVlabs/GDPO
 
-⭐ 513 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/NVlabs/GDPO) · 组织维护
+⭐ 514 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/NVlabs/GDPO) · 组织维护
 
 **面向研究者的多奖励 RL 训练优化方法（GDPO）官方实现**
 

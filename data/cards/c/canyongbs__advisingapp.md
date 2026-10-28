@@ -1,6 +1,6 @@
 # canyongbs/advisingapp
 
-⭐ 340 · PHP · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/canyongbs/advisingapp) · [官网](https://advising.app) · 组织维护
+⭐ 340 · PHP · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/canyongbs/advisingapp) · [官网](https://advising.app) · 组织维护
 
 **面向高校的学生成功平台与招生 CRM，含 AI 聊天**
 

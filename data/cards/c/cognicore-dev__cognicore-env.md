@@ -1,6 +1,6 @@
 # cognicore-dev/cognicore-env
 
-⭐ 80 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cognicore-dev/cognicore-env) · [官网](https://www.cognicoree.tech/) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cognicore-dev/cognicore-env) · [官网](https://www.cognicoree.tech/) · 组织维护
 
 **给 AI agent 的持久记忆、反思与安全层 Python 库**
 

@@ -1,6 +1,6 @@
 # ARahim3/mlx-dspark
 
-⭐ 727 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ARahim3/mlx-dspark) · [官网](https://arahim.dev/mlx-dspark/) · 个人维护
+⭐ 728 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ARahim3/mlx-dspark) · [官网](https://arahim.dev/mlx-dspark/) · 个人维护
 
 **Apple Silicon 上的无损投机解码推理引擎（DSpark/DFlash 的 MLX 移植）**
 

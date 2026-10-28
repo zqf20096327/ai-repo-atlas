@@ -1,6 +1,6 @@
 # coder/registry
 
-⭐ 82 · HCL · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/coder/registry) · [官网](https://registry.coder.com) · 组织维护
+⭐ 83 · HCL · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/coder/registry) · [官网](https://registry.coder.com) · 组织维护
 
 **发布与发现 Coder 工作区 Terraform 模块的社区注册平台**
 

@@ -1,6 +1,6 @@
 # rlaope/oh-my-hermes
 
-⭐ 4,356 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://rlaope.github.io/oh-my-hermes/) · 个人维护
+⭐ 4,635 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://rlaope.github.io/oh-my-hermes/) · 个人维护
 
 **Hermes Agent 的一体化插件：编码智能、长期记忆与工作流层**
 

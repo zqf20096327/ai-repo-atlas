@@ -1,6 +1,6 @@
 # replicate/cog
 
-⭐ 9,491 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/replicate/cog) · [官网](https://cog.run) · 组织维护
+⭐ 9,492 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/replicate/cog) · [官网](https://cog.run) · 组织维护
 
 **将机器学习模型打包为生产级 Docker 容器的工具**
 

@@ -1,6 +1,6 @@
 # babysor/MockingBird
 
-⭐ 36,880 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/babysor/MockingBird) · 个人维护 · 中文 README
+⭐ 36,879 · Python · NOASSERTION · 推送 2026-03-03 · [GitHub](https://github.com/babysor/MockingBird) · 个人维护 · 中文 README
 
 **给需要中文语音克隆的用户：5秒音频实时合成任意语音**
 

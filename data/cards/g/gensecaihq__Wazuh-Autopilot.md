@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-Autopilot
 
-⭐ 60 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/gensecaihq/Wazuh-Autopilot) · [官网](https://wazuh-mcp-openclaw.netlify.app/) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/gensecaihq/Wazuh-Autopilot) · [官网](https://wazuh-mcp-openclaw.netlify.app/) · 组织维护
 
 **面向 Wazuh 的自治 SOC 平台：13 个 agent 处理告警并规划响应**
 

@@ -1,6 +1,6 @@
 # ai-dashboad/flutter-skill
 
-⭐ 396 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ai-dashboad/flutter-skill) · [官网](https://ai-dashboad.github.io/flutter-skill/) · 组织维护
+⭐ 398 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ai-dashboad/flutter-skill) · [官网](https://ai-dashboad.github.io/flutter-skill/) · 组织维护
 
 **让 AI agent 用自然语言对 10 平台应用做 E2E 测试的 MCP 服务器**
 

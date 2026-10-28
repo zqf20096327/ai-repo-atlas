@@ -1,6 +1,6 @@
 # Eliot5566/JEV-Paper-Radar
 
-⭐ 35 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Eliot5566/JEV-Paper-Radar) · [官网](https://eliot5566.github.io/JEV-Paper-Radar/public/) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Eliot5566/JEV-Paper-Radar) · [官网](https://eliot5566.github.io/JEV-Paper-Radar/public/) · 个人维护 · 中文 README
 
 **每日扫描 arXiv 新论文、按兴趣输出必读清单的工具**
 

@@ -1,6 +1,6 @@
 # kurojs/Gemini-Kchat
 
-⭐ 20 · QML · LGPL-2.1 · 推送 2026-10-11 · [GitHub](https://github.com/kurojs/Gemini-Kchat) · [官网](https://www.pling.com/p/2327619/) · 个人维护
+⭐ 20 · QML · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/kurojs/Gemini-Kchat) · [官网](https://www.pling.com/p/2327619/) · 个人维护
 
 **KDE Plasma 桌面聊天挂件：在面板中直接使用 Google Gemini**
 

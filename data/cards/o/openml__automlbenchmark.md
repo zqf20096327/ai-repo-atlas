@@ -1,6 +1,6 @@
 # openml/automlbenchmark
 
-⭐ 472 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openml/automlbenchmark) · [官网](https://openml.github.io/automlbenchmark) · 组织维护
+⭐ 473 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openml/automlbenchmark) · [官网](https://openml.github.io/automlbenchmark) · 组织维护
 
 **评估与对比开源 AutoML 系统的基准测试框架**
 

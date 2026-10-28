@@ -1,6 +1,6 @@
 # pinecone-io/recommender-example-typescript
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pinecone-io/recommender-example-typescript) · 组织维护
 
 **TypeScript 示例：基于 Pinecone 向量检索的文章推荐器**
 
@@ -11,7 +11,7 @@ Pinecone 官方维护的 TypeScript 教程工程，演示用向量相似度检�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

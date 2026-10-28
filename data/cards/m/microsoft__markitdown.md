@@ -1,6 +1,6 @@
 # microsoft/markitdown
 
-⭐ 192,542 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
+⭐ 192,719 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
 
 **面向 LLM 场景的文件转 Markdown Python 工具**
 

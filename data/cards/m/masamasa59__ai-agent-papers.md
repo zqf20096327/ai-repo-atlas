@@ -1,6 +1,6 @@
 # masamasa59/ai-agent-papers
 
-⭐ 1,709 · Python · 推送 2026-10-17 · [GitHub](https://github.com/masamasa59/ai-agent-papers) · 个人维护 · 中文 README
+⭐ 1,714 · Python · 推送 2026-10-17 · [GitHub](https://github.com/masamasa59/ai-agent-papers) · 个人维护 · 中文 README
 
 **AI Agent 研究论文精选清单，双周更新、按四层分类**
 

@@ -1,6 +1,6 @@
 # vllm-project/vllm-daily
 
-⭐ 56 · 推送 2026-10-20 · [GitHub](https://github.com/vllm-project/vllm-daily) · 组织维护
+⭐ 56 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-daily) · 组织维护
 
 **vLLM 已合并 PR 的每日汇总仓库，可订阅 RSS**
 

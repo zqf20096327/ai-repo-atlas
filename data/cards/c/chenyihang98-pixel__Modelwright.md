@@ -1,6 +1,6 @@
 # chenyihang98-pixel/Modelwright
 
-⭐ 22 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/chenyihang98-pixel/Modelwright) · [官网](https://chenyihang98-pixel.github.io/Modelwright/) · 个人维护 · 中文 README
+⭐ 22 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/chenyihang98-pixel/Modelwright) · [官网](https://chenyihang98-pixel.github.io/Modelwright/) · 个人维护 · 中文 README
 
 **给游戏开发者的 AI 3D 生成桌面工作台，模型一键进 Unity**
 

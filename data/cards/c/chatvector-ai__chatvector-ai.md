@@ -1,6 +1,6 @@
 # chatvector-ai/chatvector-ai
 
-⭐ 26 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/chatvector-ai/chatvector-ai) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/chatvector-ai/chatvector-ai) · 组织维护
 
 **面向开发者的后端优先 RAG 引擎：文档摄取、索引与问答 API**
 

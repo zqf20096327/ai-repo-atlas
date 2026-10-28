@@ -1,6 +1,6 @@
 # Neuromorphicism/fly-brain-snntorch
 
-⭐ 32 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Neuromorphicism/fly-brain-snntorch) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Neuromorphicism/fly-brain-snntorch) · 个人维护
 
 **果蝇大脑连接组的稀疏 snnTorch 脉冲神经网络仿真实现**
 

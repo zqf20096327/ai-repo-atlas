@@ -1,6 +1,6 @@
 # theprototype-app/core
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/theprototype-app/core) · [官网](https://theprototype.app) · 组织维护
+⭐ 36 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/theprototype-app/core) · [官网](https://theprototype.app) · 组织维护
 
 **浏览器端 P2P 协作 3D 原型编辑器，含可选 AI 助手**
 

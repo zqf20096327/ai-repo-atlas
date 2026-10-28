@@ -1,6 +1,6 @@
 # wgtechlabs/github-copilot-chatmodes
 
-⭐ 21 · MIT · 推送 2026-02-19 · [GitHub](https://github.com/wgtechlabs/github-copilot-chatmodes) · [官网](https://wgtechlabs.com) · 个人维护
+⭐ 20 · MIT · 推送 2026-02-19 · [GitHub](https://github.com/wgtechlabs/github-copilot-chatmodes) · [官网](https://wgtechlabs.com) · 个人维护
 
 **GitHub Copilot 专用聊天模式集合：领域专家型 AI 配置文件**
 

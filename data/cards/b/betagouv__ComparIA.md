@@ -1,6 +1,6 @@
 # betagouv/ComparIA
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/betagouv/ComparIA) · [官网](https://comparia.beta.gouv.fr/) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/betagouv/ComparIA) · [官网](https://comparia.beta.gouv.fr/) · 组织维护
 
 **面向组织/行业/语言的开源 LLM 竞技场平台，收集人类盲投票并发布开放数据集**
 

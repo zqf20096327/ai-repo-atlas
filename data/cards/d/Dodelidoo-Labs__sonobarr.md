@@ -1,6 +1,6 @@
 # Dodelidoo-Labs/sonobarr
 
-⭐ 383 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dodelidoo-Labs/sonobarr) · 组织维护
+⭐ 384 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Dodelidoo-Labs/sonobarr) · 组织维护
 
 **面向 Lidarr 用户的音乐发现自托管 Web 应用**
 

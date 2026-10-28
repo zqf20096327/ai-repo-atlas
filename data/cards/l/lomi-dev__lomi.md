@@ -1,6 +1,6 @@
 # lomi-dev/lomi
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lomi-dev/lomi) · [官网](https://lomi.dev/) · 个人维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/lomi-dev/lomi) · [官网](https://lomi.dev/) · 个人维护
 
 **终端驱动开发的桌面工作区：终端+编辑器+Git+AI 一窗**
 

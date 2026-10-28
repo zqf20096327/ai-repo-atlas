@@ -1,6 +1,6 @@
 # vericontext/vibeframe
 
-⭐ 182 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/vericontext/vibeframe) · [官网](https://vibeframe.ai) · 组织维护
+⭐ 183 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vericontext/vibeframe) · [官网](https://vibeframe.ai) · 组织维护
 
 **让编码 Agent 用自有 API key 生成视频的 CLI 与 MCP 工具**
 

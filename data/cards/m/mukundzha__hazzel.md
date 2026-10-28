@@ -1,6 +1,6 @@
 # mukundzha/hazzel
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mukundzha/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mukundzha/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
 
 **终端编码 Agent：每次写入前以 diff 展示并需批准**
 

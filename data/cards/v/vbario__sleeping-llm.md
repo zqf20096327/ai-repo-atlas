@@ -1,6 +1,6 @@
 # vbario/sleeping-llm
 
-⭐ 79 · Python · 推送 2026-10-11 · [GitHub](https://github.com/vbario/sleeping-llm) · 个人维护
+⭐ 81 · Python · 推送 2026-10-11 · [GitHub](https://github.com/vbario/sleeping-llm) · 个人维护
 
 **通过睡眠周期将对话事实固化为持久权重记忆的语言模型**
 

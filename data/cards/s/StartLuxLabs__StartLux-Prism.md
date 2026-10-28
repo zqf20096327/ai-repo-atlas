@@ -1,6 +1,6 @@
 # StartLuxLabs/StartLux-Prism
 
-⭐ 117 · Python · 推送 2026-10-27 · [GitHub](https://github.com/StartLuxLabs/StartLux-Prism) · [官网](https://huggingface.co/startlux-models) · 组织维护
+⭐ 138 · Python · 推送 2026-10-27 · [GitHub](https://github.com/StartLuxLabs/StartLux-Prism) · [官网](https://huggingface.co/startlux-models) · 组织维护
 
 **StartLux-Decision 决策模型的 GPU 推理服务器：直接运行 GGUF 文件**
 

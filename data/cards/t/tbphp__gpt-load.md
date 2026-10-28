@@ -1,6 +1,6 @@
 # tbphp/gpt-load
 
-⭐ 7,172 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tbphp/gpt-load) · [官网](https://www.gpt-load.com) · 个人维护 · 中文 README
+⭐ 7,176 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tbphp/gpt-load) · [官网](https://www.gpt-load.com) · 个人维护 · 中文 README
 
 **自托管 AI 网关：多渠道多凭据统一接入与调度容错**
 

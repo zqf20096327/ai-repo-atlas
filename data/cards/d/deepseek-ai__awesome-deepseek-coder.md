@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-coder
 
-⭐ 836 · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-coder) · 组织维护 · 中文 README
+⭐ 838 · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-coder) · 组织维护 · 中文 README
 
 **DeepSeek Coder 相关开源项目策展清单**
 

@@ -1,6 +1,6 @@
 # Hiroki-org/jules-extension
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Hiroki-org/jules-extension) · [官网](https://marketplace.visualstudio.com/items?itemName=HirokiMukai.jules-extension) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hiroki-org/jules-extension) · [官网](https://marketplace.visualstudio.com/items?itemName=HirokiMukai.jules-extension) · 组织维护
 
 **VSCode 中操作 Google Jules AI 编程代理的扩展**
 

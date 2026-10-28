@@ -1,6 +1,6 @@
 # CompPhysics/ComputationalPhysics2
 
-⭐ 229 · CC0-1.0 · 推送 2026-05-07 · [GitHub](https://github.com/CompPhysics/ComputationalPhysics2) · [官网](http://compphysics.github.io/ComputationalPhysics2/doc/web/course) · 组织维护
+⭐ 230 · CC0-1.0 · 推送 2026-05-07 · [GitHub](https://github.com/CompPhysics/ComputationalPhysics2) · [官网](http://compphysics.github.io/ComputationalPhysics2/doc/web/course) · 组织维护
 
 **奥斯陆大学计算物理 II 课程资料库：多体量子力学讲义与项目**
 

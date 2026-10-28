@@ -1,6 +1,6 @@
 # Comfy-Org/ComfyUI_frontend
 
-⭐ 2,095 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Comfy-Org/ComfyUI_frontend) · [官网](https://www.comfy.org/) · 组织维护
+⭐ 2,101 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Comfy-Org/ComfyUI_frontend) · [官网](https://www.comfy.org/) · 组织维护
 
 **ComfyUI 官方前端实现：节点画布等图形界面**
 

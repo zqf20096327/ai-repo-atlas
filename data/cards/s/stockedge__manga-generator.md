@@ -1,6 +1,6 @@
 # stockedge/manga-generator
 
-⭐ 119 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/stockedge/manga-generator) · 个人维护
+⭐ 122 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/stockedge/manga-generator) · 个人维护
 
 **用 Codex/Claude Code 从小说原作自动制作漫画的工具**
 

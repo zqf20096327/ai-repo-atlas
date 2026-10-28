@@ -1,6 +1,6 @@
 # google-deepmind/videoprism
 
-⭐ 400 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/videoprism) · [官网](https://arxiv.org/abs/2402.13217) · 组织维护
+⭐ 399 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/videoprism) · [官网](https://arxiv.org/abs/2402.13217) · 组织维护
 
 **通用视频基础编码器：为分类、检索、问答等视频理解任务提供嵌入**
 

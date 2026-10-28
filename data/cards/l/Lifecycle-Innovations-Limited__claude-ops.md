@@ -1,6 +1,6 @@
 # Lifecycle-Innovations-Limited/claude-ops
 
-⭐ 547 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
+⭐ 547 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
 
 **把 Claude Code 变成企业运营操作系统的插件（68 技能/多 agent）**
 

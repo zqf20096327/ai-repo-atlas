@@ -1,6 +1,6 @@
 # StayLameBro/backburner
 
-⭐ 1,128 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/StayLameBro/backburner) · 组织维护
+⭐ 1,133 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/StayLameBro/backburner) · 组织维护
 
 **iPhone 经 USB-C 协助 Mac 本地跑 27B 模型：更快预填充与更长上下文**
 

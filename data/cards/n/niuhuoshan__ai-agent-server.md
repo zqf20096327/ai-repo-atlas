@@ -1,6 +1,6 @@
 # niuhuoshan/ai-agent-server
 
-⭐ 23 · Java · 推送 2026-08-27 · [GitHub](https://github.com/niuhuoshan/ai-agent-server) · 个人维护 · 中文 README
+⭐ 25 · Java · 推送 2026-08-27 · [GitHub](https://github.com/niuhuoshan/ai-agent-server) · 个人维护 · 中文 README
 
 **企业级通用智能体平台工程实践：多 Agent 协作与治理（Java 21）**
 

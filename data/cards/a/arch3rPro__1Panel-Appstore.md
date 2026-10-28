@@ -1,6 +1,6 @@
 # arch3rPro/1Panel-Appstore
 
-⭐ 224 · CSS · MIT · 推送 2026-10-26 · [GitHub](https://github.com/arch3rPro/1Panel-Appstore) · [官网](https://arch3rpro.github.io/appstore) · 个人维护 · 中文 README
+⭐ 225 · CSS · MIT · 推送 2026-10-27 · [GitHub](https://github.com/arch3rPro/1Panel-Appstore) · [官网](https://arch3rpro.github.io/appstore) · 个人维护 · 中文 README
 
 **1Panel 第三方应用商店：精选自托管应用的一键部署合集**
 

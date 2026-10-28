@@ -1,6 +1,6 @@
 # p10node/docflare-ai
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/p10node/docflare-ai) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/p10node/docflare-ai) · 个人维护
 
 **文档站一键嵌入的开源 AI 问答与站内搜索挂件**
 

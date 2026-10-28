@@ -1,6 +1,6 @@
 # hanshuaikang/nezha
 
-⭐ 1,904 · TypeScript · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/hanshuaikang/nezha) · [官网](https://nezha.hanshutx.com/) · 个人维护 · 中文 README
+⭐ 1,905 · TypeScript · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/hanshuaikang/nezha) · [官网](https://nezha.hanshutx.com/) · 个人维护 · 中文 README
 
 **面向 AI 编程的轻量级跨平台 IDE，并发管理多个 Agent 会话**
 

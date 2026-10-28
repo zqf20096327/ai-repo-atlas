@@ -1,6 +1,6 @@
 # KangRyun/jasoseo-plugin
 
-⭐ 23 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/KangRyun/jasoseo-plugin) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/KangRyun/jasoseo-plugin) · 个人维护
 
 **韩国求职自荐书 8 阶段写作流水线（Claude Code 插件）**
 

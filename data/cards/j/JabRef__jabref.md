@@ -1,6 +1,6 @@
 # JabRef/jabref
 
-⭐ 4,853 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/JabRef/jabref) · [官网](https://www.jabref.org) · 组织维护
+⭐ 4,856 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JabRef/jabref) · [官网](https://www.jabref.org) · 组织维护
 
 **跨平台开源文献引用与 BibTeX 参考文献管理桌面应用**
 

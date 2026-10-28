@@ -1,6 +1,6 @@
 # TokenSpender/ComfyUI-Sidebar-Gallery
 
-⭐ 45 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) · 个人维护
 
 **ComfyUI 侧边栏媒体画廊：索引产物并读取生成元数据**
 

@@ -1,6 +1,6 @@
 # Neph0s/awesome-llm-role-playing-with-persona
 
-⭐ 1,081 · 推送 2026-06-19 · [GitHub](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) · 组织维护 · 中文 README
+⭐ 1,082 · 推送 2026-06-19 · [GitHub](https://github.com/Neph0s/awesome-llm-role-playing-with-persona) · 组织维护 · 中文 README
 
 **LLM 角色扮演（Persona）研究论文策展清单**
 

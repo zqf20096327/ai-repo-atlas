@@ -1,6 +1,6 @@
 # h9-tec/ai-roadmap-2026
 
-⭐ 173 · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/h9-tec/ai-roadmap-2026) · 个人维护
+⭐ 177 · CC-BY-4.0 · 推送 2026-10-21 · [GitHub](https://github.com/h9-tec/ai-roadmap-2026) · 个人维护
 
 **AI 工程师学习路线图：五层进阶路径配免费资源与小项目**
 

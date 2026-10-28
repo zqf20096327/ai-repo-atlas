@@ -1,6 +1,6 @@
 # RapidFireAI/rapidfireai
 
-⭐ 173 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/RapidFireAI/rapidfireai) · [官网](https://rapidfire.ai) · 组织维护
+⭐ 173 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/RapidFireAI/rapidfireai) · [官网](https://rapidfire.ai) · 组织维护
 
 **面向 LLM/DL 的快速实验执行框架：从 RAG 评测到微调**
 

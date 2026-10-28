@@ -1,6 +1,6 @@
 # yuqie6/ProductFlow
 
-⭐ 307 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yuqie6/ProductFlow) · [官网](https://draw.devbin.de) · 个人维护 · 中文 README
+⭐ 308 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yuqie6/ProductFlow) · [官网](https://draw.devbin.de) · 个人维护 · 中文 README
 
 **面向小团队商家的自托管商品素材 AI 工作台**
 

@@ -1,6 +1,6 @@
 # dagucloud/dagu
 
-⭐ 4,463 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
+⭐ 4,476 · Go · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
 
 **单二进制工作流编排引擎，把脚本/容器/SSH 变成可调度的 DAG**
 

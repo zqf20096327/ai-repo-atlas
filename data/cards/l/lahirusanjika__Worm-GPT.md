@@ -1,6 +1,6 @@
 # lahirusanjika/Worm-GPT
 
-⭐ 104 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/lahirusanjika/Worm-GPT) · 个人维护
+⭐ 105 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/lahirusanjika/Worm-GPT) · 个人维护
 
 **基于 Groq API 的 Electron+React 桌面聊天客户端（Windows）**
 

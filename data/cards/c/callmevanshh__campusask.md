@@ -1,6 +1,6 @@
 # callmevanshh/campusask
 
-⭐ 43 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/callmevanshh/campusask) · [官网](https://campusask.onrender.com) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/callmevanshh/campusask) · [官网](https://campusask.onrender.com) · 个人维护
 
 **基于官方 PDF 的 IIIT Delhi 校规引用问答应用**
 

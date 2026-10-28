@@ -1,6 +1,6 @@
 # rodrigo-arenas/Sklearn-genetic-opt
 
-⭐ 390 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
+⭐ 390 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
 
 **用遗传算法为 scikit-learn 模型做超参调优与特征选择的工具库**
 

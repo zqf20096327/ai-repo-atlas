@@ -1,6 +1,6 @@
 # hueyexe/opencode-auto-permissions
 
-⭐ 37 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/hueyexe/opencode-auto-permissions) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/hueyexe/opencode-auto-permissions) · 个人维护
 
 **OpenCode 插件：用模型自动审查权限请求，无人值守时代理不停摆**
 

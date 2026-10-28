@@ -1,6 +1,6 @@
 # VioletCranberry/coco-search
 
-⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VioletCranberry/coco-search) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VioletCranberry/coco-search) · 个人维护
 
 **本地优先的混合语义代码搜索工具，供开发者与 AI 助手检索代码**
 

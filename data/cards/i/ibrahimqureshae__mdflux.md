@@ -1,6 +1,6 @@
 # ibrahimqureshae/mdflux
 
-⭐ 572 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ibrahimqureshae/mdflux) · [官网](https://ibrahimqureshae.github.io/mdflux/) · 个人维护
+⭐ 575 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ibrahimqureshae/mdflux) · [官网](https://ibrahimqureshae.github.io/mdflux/) · 个人维护
 
 **本地优先的桌面文档转 Markdown 工具，含 OCR 与批量转换**
 

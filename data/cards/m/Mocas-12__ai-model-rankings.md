@@ -1,6 +1,6 @@
 # Mocas-12/ai-model-rankings
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Mocas-12/ai-model-rankings) · [官网](https://ai-model-rankings.streamlit.app/) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Mocas-12/ai-model-rankings) · [官网](https://ai-model-rankings.streamlit.app/) · 个人维护 · 中文 README
 
 **水墨风大模型实时战力榜：用量/基准/性价比可视化**
 

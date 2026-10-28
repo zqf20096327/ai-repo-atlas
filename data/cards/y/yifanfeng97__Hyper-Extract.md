@@ -1,6 +1,6 @@
 # yifanfeng97/Hyper-Extract
 
-⭐ 4,200 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
+⭐ 4,203 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
 
 **把文档转成结构化知识（图/超图/时空图）的 CLI 工具**
 

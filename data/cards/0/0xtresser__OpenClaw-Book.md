@@ -1,6 +1,6 @@
 # 0xtresser/OpenClaw-Book
 
-⭐ 239 · 推送 2026-08-02 · [GitHub](https://github.com/0xtresser/OpenClaw-Book) · [官网](https://www.openclawbook.xyz) · 个人维护 · 中文 README
+⭐ 238 · 推送 2026-08-02 · [GitHub](https://github.com/0xtresser/OpenClaw-Book) · [官网](https://www.openclawbook.xyz) · 个人维护 · 中文 README
 
 **《深入 OpenClaw》：介绍个人 AI 助手 OpenClaw 的技术书籍**
 

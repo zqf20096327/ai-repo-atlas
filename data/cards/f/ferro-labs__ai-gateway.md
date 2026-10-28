@@ -1,6 +1,6 @@
 # ferro-labs/ai-gateway
 
-⭐ 271 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ferro-labs/ai-gateway) · [官网](https://docs.ferrolabs.ai) · 组织维护 · 中文 README
+⭐ 272 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ferro-labs/ai-gateway) · [官网](https://docs.ferrolabs.ai) · 组织维护 · 中文 README
 
 **Go 编写的 OpenAI 兼容 LLM 网关：30 家提供商统一路由**
 

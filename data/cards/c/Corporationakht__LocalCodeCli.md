@@ -1,6 +1,6 @@
 # Corporationakht/LocalCodeCli
 
-⭐ 30 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Corporationakht/LocalCodeCli) · [官网](https://github.com/Corporationakht/LocalCodeCli) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Corporationakht/LocalCodeCli) · [官网](https://github.com/Corporationakht/LocalCodeCli) · 个人维护 · 中文 README
 
 **本地代理：让 Claude Code/Codex CLI 接入自选 AI 提供商**
 

@@ -1,6 +1,6 @@
 # google-deepmind/tapnet
 
-⭐ 2,241 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/google-deepmind/tapnet) · [官网](https://deepmind-tapir.github.io/blogpost.html) · 组织维护
+⭐ 2,242 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/google-deepmind/tapnet) · [官网](https://deepmind-tapir.github.io/blogpost.html) · 组织维护
 
 **视频任意点跟踪的模型、数据集与评测基准官方仓库**
 

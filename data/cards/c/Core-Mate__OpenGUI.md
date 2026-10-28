@@ -1,6 +1,6 @@
 # Core-Mate/OpenGUI
 
-⭐ 1,803 · HTML · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Core-Mate/OpenGUI) · [官网](https://opengui.ai/) · 组织维护 · 中文 README
+⭐ 1,804 · HTML · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Core-Mate/OpenGUI) · [官网](https://opengui.ai/) · 组织维护 · 中文 README
 
 **Android 手机 GUI agent 框架：让 AI 看屏、规划并操作真实应用**
 

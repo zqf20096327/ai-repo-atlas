@@ -1,6 +1,6 @@
 # open-mmlab/mmcv
 
-⭐ 6,484 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/open-mmlab/mmcv) · [官网](https://mmcv.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 6,483 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/open-mmlab/mmcv) · [官网](https://mmcv.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **面向计算机视觉研究的基础库：图像处理、变换与 CPU/CUDA 算子**
 

@@ -1,6 +1,6 @@
 # khoj-ai/openpaper
 
-⭐ 511 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/khoj-ai/openpaper) · [官网](https://openpaper.ai) · 组织维护
+⭐ 513 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/khoj-ai/openpaper) · [官网](https://openpaper.ai) · 组织维护
 
 **研究论文阅读与文献综述的 AI 工作台应用**
 

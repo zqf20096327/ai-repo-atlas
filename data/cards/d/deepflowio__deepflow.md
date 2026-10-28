@@ -1,6 +1,6 @@
 # deepflowio/deepflow
 
-⭐ 4,308 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepflowio/deepflow) · [官网](https://deepflow.io) · 组织维护 · 中文 README
+⭐ 4,309 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepflowio/deepflow) · [官网](https://deepflow.io) · 组织维护 · 中文 README
 
 **给 DevOps/SRE 的 eBPF 零侵扰全栈可观测性平台（指标/追踪/剖析）**
 

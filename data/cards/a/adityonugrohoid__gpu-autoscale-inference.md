@@ -1,6 +1,6 @@
 # adityonugrohoid/gpu-autoscale-inference
 
-⭐ 31 · Shell · MIT · 推送 2026-10-07 · [GitHub](https://github.com/adityonugrohoid/gpu-autoscale-inference) · 个人维护
+⭐ 32 · Shell · MIT · 推送 2026-10-07 · [GitHub](https://github.com/adityonugrohoid/gpu-autoscale-inference) · 个人维护
 
 **给平台工程师：Kubernetes 上缩容到零的 GPU LLM 推理平台**
 

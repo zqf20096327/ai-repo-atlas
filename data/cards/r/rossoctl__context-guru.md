@@ -1,6 +1,6 @@
 # rossoctl/context-guru
 
-⭐ 71 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/rossoctl/context-guru) · [官网](https://rossoctl.github.io/context-guru/) · 组织维护
+⭐ 71 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rossoctl/context-guru) · [官网](https://rossoctl.github.io/context-guru/) · 组织维护
 
 **AI 编码 agent 的上下文工程代理：降低 token 成本与延迟**
 

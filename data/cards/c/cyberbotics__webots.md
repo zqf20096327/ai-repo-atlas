@@ -1,6 +1,6 @@
 # cyberbotics/webots
 
-⭐ 4,726 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cyberbotics/webots) · [官网](https://cyberbotics.com) · 组织维护
+⭐ 4,731 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cyberbotics/webots) · [官网](https://cyberbotics.com) · 组织维护
 
 **开源机器人模拟器：建模、编程与仿真机器人/车辆/机械系统**
 

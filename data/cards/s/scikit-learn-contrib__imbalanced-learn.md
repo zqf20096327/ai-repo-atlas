@@ -1,6 +1,6 @@
 # scikit-learn-contrib/imbalanced-learn
 
-⭐ 7,132 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) · [官网](https://imbalanced-learn.org) · 组织维护
+⭐ 7,135 · Python · MIT · 推送 2026-06-29 · [GitHub](https://github.com/scikit-learn-contrib/imbalanced-learn) · [官网](https://imbalanced-learn.org) · 组织维护
 
 **处理类别不平衡数据的 Python 重采样工具箱**
 

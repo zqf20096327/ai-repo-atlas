@@ -1,6 +1,6 @@
 # southleft/figmalint
 
-⭐ 80 · TypeScript · ISC · 推送 2026-10-26 · [GitHub](https://github.com/southleft/figmalint) · [官网](https://southleft.com) · 组织维护
+⭐ 80 · TypeScript · ISC · 推送 2026-10-28 · [GitHub](https://github.com/southleft/figmalint) · [官网](https://southleft.com) · 组织维护
 
 **面向设计系统团队的 Figma 插件：AI 审计组件合规性与可访问性**
 

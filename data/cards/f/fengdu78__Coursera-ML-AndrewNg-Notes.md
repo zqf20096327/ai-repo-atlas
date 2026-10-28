@@ -1,6 +1,6 @@
 # fengdu78/Coursera-ML-AndrewNg-Notes
 
-⭐ 38,038 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
+⭐ 38,042 · HTML · 推送 2026-10-05 · [GitHub](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) · 个人维护 · 中文 README
 
 **机器学习入门者的吴恩达课程中文学习笔记**
 

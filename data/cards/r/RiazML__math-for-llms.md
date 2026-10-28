@@ -1,6 +1,6 @@
 # RiazML/math-for-llms
 
-⭐ 155 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/RiazML/math-for-llms) · 个人维护
+⭐ 156 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/RiazML/math-for-llms) · 个人维护
 
 **面向 AI/ML/LLM 学习者的数学课程库，覆盖 25 个领域**
 

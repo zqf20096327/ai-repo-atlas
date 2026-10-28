@@ -1,6 +1,6 @@
 # jiwoochris/artex-global
 
-⭐ 2,275 · Go · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jiwoochris/artex-global) · 个人维护 · 中文 README
+⭐ 2,319 · Go · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/jiwoochris/artex-global) · 个人维护 · 中文 README
 
 **多语言本地化版 ARTEX：LLM 多智能体自主渗透测试系统**
 

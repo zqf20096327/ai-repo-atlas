@@ -1,6 +1,6 @@
 # EffiSciencesResearch/ML4G-2.0
 
-⭐ 21 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/EffiSciencesResearch/ML4G-2.0) · [官网](https://www.ml4good.org/) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/EffiSciencesResearch/ML4G-2.0) · [官网](https://www.ml4good.org/) · 组织维护
 
 **面向 AI 安全入门者的 10 天训练营课程与练习集**
 

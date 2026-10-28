@@ -1,6 +1,6 @@
 # google-gemini/gemini-cli
 
-⭐ 108,570 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
+⭐ 108,600 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google-gemini/gemini-cli) · [官网](https://geminicli.com) · 组织维护
 
 **在终端中使用 Gemini 模型的开源 AI agent CLI**
 

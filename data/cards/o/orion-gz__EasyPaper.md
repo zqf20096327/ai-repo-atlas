@@ -1,6 +1,6 @@
 # orion-gz/EasyPaper
 
-⭐ 40 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/orion-gz/EasyPaper) · 个人维护
+⭐ 40 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/orion-gz/EasyPaper) · 个人维护
 
 **面向 PDF 文献的 AI 翻译、阅读与讨论工作台（桌面/网页）**
 

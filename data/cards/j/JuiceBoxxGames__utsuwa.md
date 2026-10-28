@@ -1,6 +1,6 @@
 # JuiceBoxxGames/utsuwa
 
-⭐ 130 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/JuiceBoxxGames/utsuwa) · [官网](https://www.utsuwa.ai) · 组织维护
+⭐ 131 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/JuiceBoxxGames/utsuwa) · [官网](https://www.utsuwa.ai) · 组织维护
 
 **带 3D VRM 化身的本地优先开源 AI 陪伴应用**
 

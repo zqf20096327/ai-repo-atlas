@@ -1,6 +1,6 @@
 # RajatDandekar/build-a-world-model-from-scratch
 
-⭐ 38 · Jupyter Notebook · 推送 2026-10-06 · [GitHub](https://github.com/RajatDandekar/build-a-world-model-from-scratch) · 组织维护
+⭐ 39 · Jupyter Notebook · 推送 2026-10-06 · [GitHub](https://github.com/RajatDandekar/build-a-world-model-from-scratch) · 组织维护
 
 **世界模型从零构建讲授课件、源码与 Colab 笔记本系列**
 

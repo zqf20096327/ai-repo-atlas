@@ -1,6 +1,6 @@
 # aiworkskills/wechat-article-skills
 
-⭐ 713 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/aiworkskills/wechat-article-skills) · [官网](https://aiworkskills.cn) · 组织维护 · 中文 README
+⭐ 715 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/aiworkskills/wechat-article-skills) · [官网](https://aiworkskills.cn) · 组织维护 · 中文 README
 
 **微信公众号 AI 运营技能包：选题到发文全流程技能**
 

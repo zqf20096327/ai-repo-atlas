@@ -1,6 +1,6 @@
 # Cotal-AI/Cotal
 
-⭐ 362 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
+⭐ 365 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
 
 **给多 AI agent 协作的开放 pub/sub 协调标准**
 

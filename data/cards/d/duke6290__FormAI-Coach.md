@@ -1,6 +1,6 @@
 # duke6290/FormAI-Coach
 
-⭐ 56 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/duke6290/FormAI-Coach) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/duke6290/FormAI-Coach) · 个人维护
 
 **AI 动作姿态教练：用姿态估计实时评估与纠正训练动作**
 

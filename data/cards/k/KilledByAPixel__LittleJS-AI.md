@@ -1,6 +1,6 @@
 # KilledByAPixel/LittleJS-AI
 
-⭐ 83 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/KilledByAPixel/LittleJS-AI) · 个人维护
+⭐ 84 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/KilledByAPixel/LittleJS-AI) · 个人维护
 
 **AI 辅助的 LittleJS HTML5 游戏开发工具包：模板+助手模块+agent 指令与 Claude Code 插件**
 

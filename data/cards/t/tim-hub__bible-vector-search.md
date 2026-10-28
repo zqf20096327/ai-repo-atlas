@@ -1,6 +1,6 @@
 # tim-hub/bible-vector-search
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tim-hub/bible-vector-search) · [官网](https://antiochtech-bible-search.bai.uno) · 个人维护
 
 **基于嵌入与向量库的圣经经文语义搜索工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

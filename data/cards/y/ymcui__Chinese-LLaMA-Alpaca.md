@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca
 
-⭐ 18,922 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca) · [官网](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki) · 个人维护 · 中文 README
+⭐ 18,923 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca) · [官网](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki) · 个人维护 · 中文 README
 
 **在LLaMA上扩充中文词表并二次预训练/精调的开源中文大模型**
 

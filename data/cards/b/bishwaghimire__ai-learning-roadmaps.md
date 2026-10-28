@@ -1,6 +1,6 @@
 # bishwaghimire/ai-learning-roadmaps
 
-⭐ 1,169 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/bishwaghimire/ai-learning-roadmaps) · 个人维护
+⭐ 1,171 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/bishwaghimire/ai-learning-roadmaps) · 个人维护
 
 **AI/ML/DL 学习资源与路线图策展中心，面向学生与从业者**
 

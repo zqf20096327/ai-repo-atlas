@@ -1,6 +1,6 @@
 # microsoft/microsoft-sql
 
-⭐ 31 · PowerShell · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/microsoft-sql) · 组织维护
+⭐ 32 · PowerShell · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/microsoft-sql) · 组织维护
 
 **微软官方 SQL 数据库 agent 技能插件市场，覆盖开发运维迁移**
 

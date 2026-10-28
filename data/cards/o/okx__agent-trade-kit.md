@@ -1,6 +1,6 @@
 # okx/agent-trade-kit
 
-⭐ 491 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/okx/agent-trade-kit) · 组织维护 · 中文 README
+⭐ 492 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/okx/agent-trade-kit) · 组织维护 · 中文 README
 
 **让 AI 代理经 MCP 直接交易 OKX 的工具包（MCP server + CLI）**
 

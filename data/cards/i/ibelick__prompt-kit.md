@@ -1,6 +1,6 @@
 # ibelick/prompt-kit
 
-⭐ 3,138 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ibelick/prompt-kit) · [官网](https://prompt-kit.com) · 个人维护
+⭐ 3,139 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ibelick/prompt-kit) · [官网](https://prompt-kit.com) · 个人维护
 
 **面向 AI 应用的 React/shadcn UI 组件库**
 

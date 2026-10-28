@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/generative-ai
 
-⭐ 17,818 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
+⭐ 17,819 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform/) · 组织维护
 
 **面向开发者的 Google Cloud 生成式 AI 示例与笔记本集**
 

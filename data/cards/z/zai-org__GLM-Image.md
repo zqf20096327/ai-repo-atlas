@@ -1,6 +1,6 @@
 # zai-org/GLM-Image
 
-⭐ 1,068 · Python · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/zai-org/GLM-Image) · [官网](https://z.ai/blog/glm-image) · 组织维护 · 中文 README
+⭐ 1,069 · Python · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/zai-org/GLM-Image) · [官网](https://z.ai/blog/glm-image) · 组织维护 · 中文 README
 
 **自回归+扩散混合架构的开源文生图/图生图模型（9B+7B）**
 

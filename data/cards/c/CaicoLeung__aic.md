@@ -1,6 +1,6 @@
 # CaicoLeung/aic
 
-⭐ 22 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/CaicoLeung/aic) · [官网](https://caicoleung.github.io/aic-web/) · 个人维护 · 中文 README
+⭐ 22 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/CaicoLeung/aic) · [官网](https://caicoleung.github.io/aic-web/) · 个人维护 · 中文 README
 
 **Rust CLI：把工作区改动拆成原子提交，复用已有 AI 授权**
 

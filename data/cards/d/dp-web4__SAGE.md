@@ -1,6 +1,6 @@
 # dp-web4/SAGE
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/dp-web4/SAGE) · 个人维护
+⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/dp-web4/SAGE) · 个人维护
 
 **将冻结 LLM 包裹于持久身份与治理层的认知架构研究环境**
 

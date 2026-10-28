@@ -1,6 +1,6 @@
 # editor-code-assistant/eca-nvim
 
-⭐ 69 · Lua · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/editor-code-assistant/eca-nvim) · [官网](https://eca.dev) · 组织维护
+⭐ 68 · Lua · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/editor-code-assistant/eca-nvim) · [官网](https://eca.dev) · 组织维护
 
 **在 Neovim 中嵌入 ECA 代码助手的插件**
 

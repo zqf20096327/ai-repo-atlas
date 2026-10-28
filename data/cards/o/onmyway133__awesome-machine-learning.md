@@ -1,6 +1,6 @@
 # onmyway133/awesome-machine-learning
 
-⭐ 814 · MIT · 推送 2026-07-29 · [GitHub](https://github.com/onmyway133/awesome-machine-learning) · [官网](https://onmyway133.com) · 个人维护
+⭐ 814 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/onmyway133/awesome-machine-learning) · [官网](https://onmyway133.com) · 个人维护
 
 **面向 Swift/iOS 开发者的机器学习资源策展清单（Core ML 为主）**
 

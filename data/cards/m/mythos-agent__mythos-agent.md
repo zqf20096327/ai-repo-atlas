@@ -1,6 +1,6 @@
 # mythos-agent/mythos-agent
 
-⭐ 47 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/mythos-agent/mythos-agent) · [官网](https://mythos-agent.com) · 组织维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/mythos-agent/mythos-agent) · [官网](https://mythos-agent.com) · 组织维护 · 中文 README
 
 **面向开发者的 AI 代码安全审查工具，检测漏洞并生成修复**
 

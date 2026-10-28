@@ -1,6 +1,6 @@
 # Eric-Song-Nop/mobvibe
 
-⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Eric-Song-Nop/mobvibe) · [官网](https://app.mobvibe.net) · 个人维护 · 中文 README
+⭐ 146 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Eric-Song-Nop/mobvibe) · [官网](https://app.mobvibe.net) · 个人维护 · 中文 README
 
 **远程连接本地 AI 编程代理的跨设备 ACP WebUI**
 

@@ -1,6 +1,6 @@
 # elastic/elastic-labs
 
-⭐ 1,141 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/elastic/elastic-labs) · 组织维护
+⭐ 1,141 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/elastic/elastic-labs) · 组织维护
 
 **Elastic 平台官方示例库：搜索/可观测/安全的 Notebook 与应用**
 

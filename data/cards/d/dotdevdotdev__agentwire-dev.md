@@ -1,6 +1,6 @@
 # dotdevdotdev/agentwire-dev
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dotdevdotdev/agentwire-dev) · [官网](https://agentwire.dev) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dotdevdotdev/agentwire-dev) · [官网](https://agentwire.dev) · 个人维护
 
 **自托管键盘驱动的 Claude Code 多 agent 编排驾驶舱**
 

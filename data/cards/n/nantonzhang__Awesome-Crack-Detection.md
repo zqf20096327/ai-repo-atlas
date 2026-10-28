@@ -1,6 +1,6 @@
 # nantonzhang/Awesome-Crack-Detection
 
-⭐ 95 · 推送 2026-07-21 · [GitHub](https://github.com/nantonzhang/Awesome-Crack-Detection) · [官网](https://arxiv.org/abs/2508.10256) · 组织维护
+⭐ 94 · 推送 2026-07-21 · [GitHub](https://github.com/nantonzhang/Awesome-Crack-Detection) · [官网](https://arxiv.org/abs/2508.10256) · 组织维护
 
 **深度学习裂缝检测论文清单：按学习范式、泛化性与数据集组织**
 

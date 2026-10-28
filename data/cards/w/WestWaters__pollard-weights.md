@@ -1,6 +1,6 @@
 # WestWaters/pollard-weights
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/WestWaters/pollard-weights) · [官网](Pollard.app) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/WestWaters/pollard-weights) · [官网](Pollard.app) · 个人维护
 
 **按目标设备内存测量并构建量化模型的工具链**
 

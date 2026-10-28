@@ -1,6 +1,6 @@
 # carla-simulator/carla
 
-⭐ 14,544 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
+⭐ 14,548 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/carla-simulator/carla) · [官网](http://carla.org) · 组织维护
 
 **开源自动驾驶研究仿真器，支持系统开发、训练与验证**
 

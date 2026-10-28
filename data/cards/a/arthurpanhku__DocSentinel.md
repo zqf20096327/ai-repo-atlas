@@ -1,6 +1,6 @@
 # arthurpanhku/DocSentinel
 
-⭐ 88 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/arthurpanhku/DocSentinel) · 个人维护 · 中文 README
+⭐ 88 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/arthurpanhku/DocSentinel) · 个人维护 · 中文 README
 
 **面向安全团队的 AI SSDLC 平台：自动评估安全文档与合规**
 

@@ -1,6 +1,6 @@
 # JavdexLabs/Javdex
 
-⭐ 38 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/JavdexLabs/Javdex) · [官网](https://javdexlabs.github.io/Javdex/) · 组织维护 · 中文 README
+⭐ 38 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/JavdexLabs/Javdex) · [官网](https://javdexlabs.github.io/Javdex/) · 组织维护 · 中文 README
 
 **本地 JAV 影片库管理工具：自动建库、刮削资料、AI 字幕**
 

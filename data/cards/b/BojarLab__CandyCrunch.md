@@ -1,6 +1,6 @@
 # BojarLab/CandyCrunch
 
-⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
 
 **从 LC-MS/MS 数据预测聚糖结构的深度学习工具包**
 

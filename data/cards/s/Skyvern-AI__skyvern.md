@@ -1,6 +1,6 @@
 # Skyvern-AI/skyvern
 
-⭐ 23,286 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
+⭐ 23,293 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Skyvern-AI/skyvern) · [官网](https://www.skyvern.com) · 组织维护
 
 **用 LLM 与视觉自动执行浏览器工作流的工具**
 

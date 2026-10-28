@@ -1,6 +1,6 @@
 # YSocialTwin/YSocial
 
-⭐ 34 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/YSocialTwin/YSocial) · [官网](https://y-not.social) · 组织维护
+⭐ 35 · JavaScript · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/YSocialTwin/YSocial) · [官网](https://y-not.social) · 组织维护
 
 **面向计算社会科学的社交媒体数字孪生仿真平台（LLM 驱动）**
 

@@ -1,6 +1,6 @@
 # Franblueee/torchmil
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Franblueee/torchmil) · [官网](https://torchmil.readthedocs.io) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Franblueee/torchmil) · [官网](https://torchmil.readthedocs.io) · 组织维护
 
 **面向 PyTorch 的深度多示例学习（MIL）库**
 

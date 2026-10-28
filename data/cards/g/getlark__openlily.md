@@ -1,6 +1,6 @@
 # getlark/openlily
 
-⭐ 31 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/getlark/openlily) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-08-02 · [GitHub](https://github.com/getlark/openlily) · 组织维护
 
 **本地终端语音助手：唤醒词+可换 LLM+可选工具**
 

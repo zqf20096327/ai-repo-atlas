@@ -1,6 +1,6 @@
 # jeremieLouvaert/ComfyUI-Darkroom
 
-⭐ 130 · Python · 推送 2026-10-05 · [GitHub](https://github.com/jeremieLouvaert/ComfyUI-Darkroom) · 个人维护
+⭐ 132 · Python · 推送 2026-10-05 · [GitHub](https://github.com/jeremieLouvaert/ComfyUI-Darkroom) · 个人维护
 
 **ComfyUI 调色与胶片模拟节点套件：59 个节点、161 种胶片**
 

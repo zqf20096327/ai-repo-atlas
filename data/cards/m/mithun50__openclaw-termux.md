@@ -1,6 +1,6 @@
 # mithun50/openclaw-termux
 
-⭐ 1,734 · Dart · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mithun50/openclaw-termux) · [官网](https://github.com/mithun50/openclawd-termux#readme) · 个人维护
+⭐ 1,736 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mithun50/openclaw-termux) · [官网](https://github.com/mithun50/openclawd-termux#readme) · 个人维护
 
 **在 Android 上运行 OpenClaw AI 网关的 Flutter 应用与 Termux CLI**
 

@@ -1,6 +1,6 @@
 # samuelfaj/distill
 
-⭐ 768 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/samuelfaj/distill) · 个人维护
+⭐ 770 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/samuelfaj/distill) · 个人维护
 
 **省 token 的编码 agent 运行框架与 TUI，支持多模型订阅**
 

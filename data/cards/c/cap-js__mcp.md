@@ -1,6 +1,6 @@
 # cap-js/mcp
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cap-js/mcp) · 组织维护
+⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cap-js/mcp) · 组织维护
 
 **将 CAP 服务通过 MCP 协议暴露给 AI agent 的适配器插件**
 

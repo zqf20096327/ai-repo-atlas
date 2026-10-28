@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/All-Kaggle-Courses
 
-⭐ 46 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Courses) · [官网](https://www.kaggle.com/myab07) · 个人维护
+⭐ 47 · Jupyter Notebook · 推送 2026-04-22 · [GitHub](https://github.com/mirzayasirabdullahbaig07/All-Kaggle-Courses) · [官网](https://www.kaggle.com/myab07) · 个人维护
 
 **个人 Kaggle 课程练习与解答合集，供数据科学学习者参考**
 

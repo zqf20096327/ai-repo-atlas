@@ -1,6 +1,6 @@
 # ZedingZhang/ya-agent
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZedingZhang/ya-agent) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZedingZhang/ya-agent) · 个人维护 · 中文 README
 
 **专为 DeepSeek 打造的命令行与桌面端 coding agent**
 

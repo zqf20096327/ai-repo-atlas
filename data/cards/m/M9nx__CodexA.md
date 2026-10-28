@@ -1,6 +1,6 @@
 # M9nx/CodexA
 
-⭐ 35 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/M9nx/CodexA) · [官网](https://codex-a.dev) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/M9nx/CodexA) · [官网](https://codex-a.dev) · 个人维护
 
 **本地语义代码搜索与索引引擎，供 AI 助手调用理解大型代码库**
 

@@ -1,6 +1,6 @@
 # itallstartedwithaidea/google-ads-api-agent
 
-⭐ 31 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/itallstartedwithaidea/google-ads-api-agent) · [官网](https://googleadsagent.ai) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/itallstartedwithaidea/google-ads-api-agent) · [官网](https://googleadsagent.ai) · 个人维护 · 中文 README
 
 **广告投放者的 Claude 驱动 Google Ads 管理 Agent**
 

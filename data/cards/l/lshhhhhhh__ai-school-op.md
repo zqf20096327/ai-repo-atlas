@@ -1,6 +1,6 @@
 # lshhhhhhh/ai-school-op
 
-⭐ 80 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lshhhhhhh/ai-school-op) · 个人维护 · 中文 README
+⭐ 81 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lshhhhhhh/ai-school-op) · 个人维护 · 中文 README
 
 **AI 翻拍动画 OP 的制作过程开源：分镜、提示词与流水线代码**
 

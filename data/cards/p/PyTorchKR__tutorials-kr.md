@@ -1,6 +1,6 @@
 # PyTorchKR/tutorials-kr
 
-⭐ 377 · Jupyter Notebook · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/PyTorchKR/tutorials-kr) · [官网](http://tutorials.pytorch.kr) · 组织维护
+⭐ 373 · Jupyter Notebook · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/PyTorchKR/tutorials-kr) · [官网](http://tutorials.pytorch.kr) · 组织维护
 
 **PyTorch 官方教程的韩语翻译仓库**
 

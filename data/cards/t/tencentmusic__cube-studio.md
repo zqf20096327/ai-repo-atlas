@@ -1,6 +1,6 @@
 # tencentmusic/cube-studio
 
-⭐ 5,085 · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/tencentmusic/cube-studio) · 组织维护 · 中文 README
+⭐ 5,086 · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/tencentmusic/cube-studio) · 组织维护 · 中文 README
 
 **腾讯开源的云原生一站式机器学习/大模型 AI 平台（已归档）**
 

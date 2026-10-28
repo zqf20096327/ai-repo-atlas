@@ -1,6 +1,6 @@
 # NiluK/worldmodels101
 
-⭐ 206 · TypeScript · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/NiluK/worldmodels101) · [官网](https://worldmodels101.com) · 个人维护
+⭐ 200 · TypeScript · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/NiluK/worldmodels101) · [官网](https://worldmodels101.com) · 个人维护
 
 **世界模型免费互动课程：9 章讲解预测、潜空间与规划**
 

@@ -1,6 +1,6 @@
 # glowbom/Glowbom
 
-⭐ 45 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/glowbom/Glowbom) · [官网](https://glowbom.com/) · 组织维护
+⭐ 45 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/glowbom/Glowbom) · [官网](https://glowbom.com/) · 组织维护
 
 **把想法变成软件的 no-code 平台，配 AI 编码 agent 与多端应用**
 

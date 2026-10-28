@@ -1,6 +1,6 @@
 # royisme/pikabaka
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/royisme/pikabaka) · [官网](https://github.com/royisme/pikabaka) · 个人维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/royisme/pikabaka) · [官网](https://github.com/royisme/pikabaka) · 个人维护
 
 **开源桌面 AI 面试助手与会议助手：实时转写+AI提示**
 

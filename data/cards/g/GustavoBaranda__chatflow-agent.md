@@ -1,6 +1,6 @@
 # GustavoBaranda/chatflow-agent
 
-⭐ 25 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GustavoBaranda/chatflow-agent) · [官网](https://pypi.org/project/chatflow-agent/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/GustavoBaranda/chatflow-agent) · [官网](https://pypi.org/project/chatflow-agent/) · 个人维护
 
 **面向 WhatsApp/Telegram/Webhook 的轻量异步多智能体框架**
 

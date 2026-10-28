@@ -1,6 +1,6 @@
 # go-taas/go-taas
 
-⭐ 98 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/go-taas/go-taas) · [官网](https://go-taas.com) · 组织维护 · 中文 README
+⭐ 99 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/go-taas/go-taas) · [官网](https://go-taas.com) · 组织维护 · 中文 README
 
 **Kubernetes 上的开源 LLM 推理与计量计费平台（Token as a Service）**
 

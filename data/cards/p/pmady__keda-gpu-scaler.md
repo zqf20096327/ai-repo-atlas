@@ -1,6 +1,6 @@
 # pmady/keda-gpu-scaler
 
-⭐ 136 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pmady/keda-gpu-scaler) · [官网](https://keda-gpu-scaler.readthedocs.io/en/latest/) · 个人维护
+⭐ 136 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pmady/keda-gpu-scaler) · [官网](https://keda-gpu-scaler.readthedocs.io/en/latest/) · 个人维护
 
 **KEDA 外部 gRPC 缩放器：用 NVML 原生 GPU 指标自动伸缩 K8s 推理负载**
 

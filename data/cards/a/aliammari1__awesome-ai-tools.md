@@ -1,6 +1,6 @@
 # aliammari1/awesome-ai-tools
 
-⭐ 108 · JavaScript · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/aliammari1/awesome-ai-tools) · [官网](https://docs.aliammari.dev) · 个人维护
+⭐ 108 · JavaScript · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/aliammari1/awesome-ai-tools) · [官网](https://docs.aliammari.dev) · 个人维护
 
 **按任务分类的 384 个 AI 工具策展清单（19 类）**
 

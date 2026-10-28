@@ -1,6 +1,6 @@
 # langchain-ai/terraform
 
-⭐ 21 · HCL · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/terraform) · 组织维护
+⭐ 22 · HCL · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/terraform) · 组织维护
 
 **在企业自有云上部署 LangSmith 自托管版的 Terraform 模块集**
 

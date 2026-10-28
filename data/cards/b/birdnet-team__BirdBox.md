@@ -1,6 +1,6 @@
 # birdnet-team/BirdBox
 
-⭐ 46 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/birdnet-team/BirdBox) · [官网](https://birdnet-team.github.io/BirdBox/) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/birdnet-team/BirdBox) · [官网](https://birdnet-team.github.io/BirdBox/) · 组织维护
 
 **基于 YOLO 频谱图目标检测的鸟类鸣声检测与评估系统**
 

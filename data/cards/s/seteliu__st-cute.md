@@ -1,6 +1,6 @@
 # seteliu/st-cute
 
-⭐ 122 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/seteliu/st-cute) · 个人维护 · 中文 README
+⭐ 121 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/seteliu/st-cute) · 个人维护 · 中文 README
 
 **桌面与网页端的 AI Coding Agent，支持移动端访问**
 

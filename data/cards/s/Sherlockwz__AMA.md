@@ -1,6 +1,6 @@
 # Sherlockwz/AMA
 
-⭐ 113 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Sherlockwz/AMA) · [官网](https://sherlockwz.github.io/AMA/) · 组织维护 · 中文 README
+⭐ 115 · Python · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Sherlockwz/AMA) · [官网](https://sherlockwz.github.io/AMA/) · 组织维护 · 中文 README
 
 **多智能体协作的自适应长期记忆框架，附可复用 agent 记忆技能**
 

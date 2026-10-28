@@ -1,6 +1,6 @@
 # kirinonakar/Novelgen
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/kirinonakar/Novelgen) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kirinonakar/Novelgen) · 个人维护
 
 **面向读者的桌面端 AI 小说生成器：从创意自动产出完整小说**
 

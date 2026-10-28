@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy3
 
-⭐ 671 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Tencent-Hunyuan/Hy3) · 组织维护 · 中文 README
+⭐ 672 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/Tencent-Hunyuan/Hy3) · 组织维护 · 中文 README
 
 **腾讯开源的 295B MoE 推理与 Agent 模型权重**
 

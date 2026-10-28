@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-decision-tree-papers
 
-⭐ 2,478 · Python · CC0-1.0 · 推送 2025-12-28 · [GitHub](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) · 个人维护
+⭐ 2,479 · Python · CC0-1.0 · 推送 2025-12-28 · [GitHub](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) · 个人维护
 
 **决策/分类/回归树研究论文策展清单，附实现链接**
 

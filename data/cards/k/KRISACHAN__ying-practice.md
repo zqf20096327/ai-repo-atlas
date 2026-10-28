@@ -1,6 +1,6 @@
 # KRISACHAN/ying-practice
 
-⭐ 43 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/KRISACHAN/ying-practice) · [官网](https://www.krissarea.com) · 个人维护 · 中文 README
+⭐ 43 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/KRISACHAN/ying-practice) · [官网](https://www.krissarea.com) · 个人维护 · 中文 README
 
 **个人全栈与 AI Agent 学习实践仓库，记录实验与项目**
 

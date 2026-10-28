@@ -1,6 +1,6 @@
 # ptn1411/skill
 
-⭐ 316 · Python · 推送 2026-09-22 · [GitHub](https://github.com/ptn1411/skill) · [官网](https://ptn1411.github.io/skill/skill_playbook.html) · 个人维护
+⭐ 318 · Python · 推送 2026-09-22 · [GitHub](https://github.com/ptn1411/skill) · [官网](https://ptn1411.github.io/skill/skill_playbook.html) · 个人维护
 
 **面向 AI agent 的授权安全审计技能集与配套 Python CLI**
 

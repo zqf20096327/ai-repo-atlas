@@ -1,6 +1,6 @@
 # astronomer/agents
 
-⭐ 456 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/astronomer/agents) · [官网](https://astronomer.io) · 组织维护
+⭐ 457 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/astronomer/agents) · [官网](https://astronomer.io) · 组织维护
 
 **为数据工程工作流提供 Airflow MCP 服务器、CLI 与 AI 编码代理技能**
 

@@ -1,6 +1,6 @@
 # okx/agent-skills
 
-⭐ 195 · Shell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/okx/agent-skills) · 组织维护 · 中文 README
+⭐ 197 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/okx/agent-skills) · 组织维护 · 中文 README
 
 **面向 LLM agent 的 OKX 交易所操作技能集**
 

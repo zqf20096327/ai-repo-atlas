@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Strata-T8
 
-⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/T8mars/Comfyui-Strata-T8) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/T8mars/Comfyui-Strata-T8) · 个人维护 · 中文 README
 
 **把本地 Strata 语言/视觉推理接入 ComfyUI 的 14 个自定义节点**
 

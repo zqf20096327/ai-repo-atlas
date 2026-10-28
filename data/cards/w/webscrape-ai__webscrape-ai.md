@@ -1,6 +1,6 @@
 # webscrape-ai/webscrape-ai
 
-⭐ 22 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/webscrape-ai/webscrape-ai) · [官网](https://webscrape.ai) · 组织维护
+⭐ 23 · Java · MIT · 推送 2026-07-07 · [GitHub](https://github.com/webscrape-ai/webscrape-ai) · [官网](https://webscrape.ai) · 组织维护
 
 **webscrape.ai 网页抓取 API 的官方客户端 SDK 集合**
 

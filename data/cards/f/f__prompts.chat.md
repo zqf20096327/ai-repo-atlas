@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-⭐ 174,776 · HTML · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
+⭐ 174,943 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
 
 **给 AI 用户的社区开源提示词库，可浏览、收藏与自托管**
 

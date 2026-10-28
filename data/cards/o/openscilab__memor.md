@@ -1,6 +1,6 @@
 # openscilab/memor
 
-⭐ 68 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openscilab/memor) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/openscilab/memor) · 组织维护
 
 **面向开发者的 LLM 对话结构化记忆库：可复现地保存与迁移会话**
 

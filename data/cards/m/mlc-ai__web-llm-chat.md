@@ -1,6 +1,6 @@
 # mlc-ai/web-llm-chat
 
-⭐ 1,129 · TypeScript · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/mlc-ai/web-llm-chat) · [官网](https://chat.webllm.ai/) · 组织维护
+⭐ 1,131 · TypeScript · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/mlc-ai/web-llm-chat) · [官网](https://chat.webllm.ai/) · 组织维护
 
 **浏览器内本地运行 LLM 的隐私聊天界面**
 

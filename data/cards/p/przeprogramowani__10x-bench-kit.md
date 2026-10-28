@@ -1,6 +1,6 @@
 # przeprogramowani/10x-bench-kit
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/przeprogramowani/10x-bench-kit) · [官网](https://10xbench.ai) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/przeprogramowani/10x-bench-kit) · [官网](https://10xbench.ai) · 组织维护
 
 **为企业构建自有编码 AI Agent 基准的模板工具**
 

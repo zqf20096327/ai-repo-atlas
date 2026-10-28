@@ -1,6 +1,6 @@
 # openaccountants/openaccountants
 
-⭐ 462 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
+⭐ 463 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
 
 **190+ 国家税法 AI 技能库：AI 回答税务问题时可引用并标注审查状态**
 

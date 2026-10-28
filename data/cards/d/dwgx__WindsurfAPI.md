@@ -1,6 +1,6 @@
 # dwgx/WindsurfAPI
 
-⭐ 3,107 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dwgx/WindsurfAPI) · [官网](https://dwgx.github.io/WindsurfAPI/) · 个人维护 · 中文 README
+⭐ 3,109 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dwgx/WindsurfAPI) · [官网](https://dwgx.github.io/WindsurfAPI/) · 个人维护 · 中文 README
 
 **把 Windsurf/Devin 云端 100+ 模型转为 OpenAI/Anthropic/Gemini 兼容 API 的自托管反代**
 

@@ -1,6 +1,6 @@
 # pixpark/gpupixel
 
-⭐ 2,476 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/pixpark/gpupixel) · [官网](https://gpupixel.pixpark.net/) · 组织维护 · 中文 README
+⭐ 2,478 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/pixpark/gpupixel) · [官网](https://gpupixel.pixpark.net/) · 组织维护 · 中文 README
 
 **跨平台 C++/OpenGL 实时图像视频美颜滤镜库**
 

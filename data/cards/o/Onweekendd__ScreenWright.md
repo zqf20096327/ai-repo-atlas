@@ -1,6 +1,6 @@
 # Onweekendd/ScreenWright
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Onweekendd/ScreenWright) · 组织维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Onweekendd/ScreenWright) · 组织维护 · 中文 README
 
 **对话式 AI 生成数据大屏/BI 可视化的编辑器**
 

@@ -1,6 +1,6 @@
 # overcuriousity/pdf2epub
 
-⭐ 375 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/overcuriousity/pdf2epub) · 个人维护
+⭐ 376 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/overcuriousity/pdf2epub) · 个人维护
 
 **AI 版面识别的 PDF→Markdown/EPUB 转换工具**
 

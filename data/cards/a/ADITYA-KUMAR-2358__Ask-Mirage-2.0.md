@@ -1,6 +1,6 @@
 # ADITYA-KUMAR-2358/Ask-Mirage-2.0
 
-⭐ 79 · Python · 推送 2026-04-17 · [GitHub](https://github.com/ADITYA-KUMAR-2358/Ask-Mirage-2.0) · 个人维护
+⭐ 81 · Python · 推送 2026-04-17 · [GitHub](https://github.com/ADITYA-KUMAR-2358/Ask-Mirage-2.0) · 个人维护
 
 **离线 PDF 问答聊天机器人：本地文档自然语言检索问答**
 

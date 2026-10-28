@@ -1,6 +1,6 @@
 # tychenjiajun/exif-ai
 
-⭐ 28 · TypeScript · GPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tychenjiajun/exif-ai) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tychenjiajun/exif-ai) · 个人维护 · 中文 README
 
 **为图片生成 AI 描述与标签并写入 EXIF 元数据的 CLI/库**
 

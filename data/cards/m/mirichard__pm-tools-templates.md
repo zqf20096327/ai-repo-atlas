@@ -1,6 +1,6 @@
 # mirichard/pm-tools-templates
 
-⭐ 24 · HTML · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mirichard/pm-tools-templates) · [官网](https://mirichard.github.io/pm-tools-templates) · 个人维护
+⭐ 24 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mirichard/pm-tools-templates) · [官网](https://mirichard.github.io/pm-tools-templates) · 个人维护
 
 **项目经理可用的开源模板与指南库（139 个模板，六大领域）**
 

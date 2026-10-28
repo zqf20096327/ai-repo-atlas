@@ -1,6 +1,6 @@
 # kirkchinese/CiteCiter
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kirkchinese/CiteCiter) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kirkchinese/CiteCiter) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：选中 AI 回答内容追问与学习，不改主对话**
 

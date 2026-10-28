@@ -1,6 +1,6 @@
 # DIAGNijmegen/rse-grand-challenge
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge) · [官网](https://grand-challenge.org) · 组织维护
+⭐ 194 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge) · [官网](https://grand-challenge.org) · 组织维护
 
 **生物医学影像机器学习全流程开发平台**
 

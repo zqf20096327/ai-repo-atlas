@@ -1,6 +1,6 @@
 # huggingface/pytorch-image-models
 
-⭐ 37,252 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
+⭐ 37,256 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/pytorch-image-models) · [官网](https://huggingface.co/docs/timm) · 个人维护
 
 **为 PyTorch 开发者提供图像编码器/骨干网络集合与预训练权重**
 

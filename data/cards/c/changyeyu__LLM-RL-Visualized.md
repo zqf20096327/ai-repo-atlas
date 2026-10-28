@@ -1,6 +1,6 @@
 # changyeyu/LLM-RL-Visualized
 
-⭐ 4,972 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/changyeyu/LLM-RL-Visualized) · [官网](https://book.douban.com/subject/37331056/) · 个人维护 · 中文 README
+⭐ 4,976 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/changyeyu/LLM-RL-Visualized) · [官网](https://book.douban.com/subject/37331056/) · 个人维护 · 中文 README
 
 **100+ 张原创 LLM/RL/VLM 原理架构图的知识图谱仓库**
 

@@ -1,6 +1,6 @@
 # atharvotech/FreeDeepseekAPI-EN
 
-⭐ 60 · JavaScript · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/atharvotech/FreeDeepseekAPI-EN) · [官网](https://instagram.com/atharvotech) · 组织维护 · 中文 README
+⭐ 61 · JavaScript · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/atharvotech/FreeDeepseekAPI-EN) · [官网](https://instagram.com/atharvotech) · 组织维护 · 中文 README
 
 **将 DeepSeek 网页聊天封装为本地 OpenAI 兼容 API 的代理**
 

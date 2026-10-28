@@ -1,6 +1,6 @@
 # thoughtbot/top_secret
 
-⭐ 419 · Ruby · MIT · 推送 2026-05-14 · [GitHub](https://github.com/thoughtbot/top_secret) · [官网](https://thoughtbot.com/blog/top-secret) · 组织维护
+⭐ 420 · Ruby · MIT · 推送 2026-05-14 · [GitHub](https://github.com/thoughtbot/top_secret) · [官网](https://thoughtbot.com/blog/top-secret) · 组织维护
 
 **Ruby 库：发送文本给 LLM 前过滤 PII 并可还原**
 

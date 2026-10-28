@@ -1,6 +1,6 @@
 # alex-on-ai/WebReaper
 
-⭐ 152 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/alex-on-ai/WebReaper) · [官网](https://webreaper.ai) · 组织维护
+⭐ 153 · C# · MIT · 推送 2026-10-04 · [GitHub](https://github.com/alex-on-ai/WebReaper) · [官网](https://webreaper.ai) · 组织维护
 
 **AI 增强的网页抓取工具：单二进制 CLI/.NET 库，输出 Markdown 与结构化数据**
 

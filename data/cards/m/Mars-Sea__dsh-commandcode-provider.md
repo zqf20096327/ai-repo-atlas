@@ -1,6 +1,6 @@
 # Mars-Sea/dsh-commandcode-provider
 
-⭐ 441 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Mars-Sea/dsh-commandcode-provider) · [官网](https://www.npmjs.com/package/@mars-sea/dsh-commandcode-provider) · 个人维护 · 中文 README
+⭐ 443 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Mars-Sea/dsh-commandcode-provider) · [官网](https://www.npmjs.com/package/@mars-sea/dsh-commandcode-provider) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 接入 Command Code 模型的 dsh 插件**
 

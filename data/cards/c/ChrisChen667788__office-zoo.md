@@ -1,6 +1,6 @@
 # ChrisChen667788/office-zoo
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ChrisChen667788/office-zoo) · [官网](https://github.com/ChrisChen667788/office-zoo) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChrisChen667788/office-zoo) · [官网](https://github.com/ChrisChen667788/office-zoo) · 个人维护 · 中文 README
 
 **AI 自演职场狼人杀剧场：9 个 AI 鼠人替打工人上演办公室众生相**
 

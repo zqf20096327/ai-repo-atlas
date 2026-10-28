@@ -1,6 +1,6 @@
 # piskvorky/gensim
 
-⭐ 16,508 · Python · LGPL-2.1 · 推送 2025-11-01 · [GitHub](https://github.com/piskvorky/gensim) · [官网](https://radimrehurek.com/gensim) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 NLP/IR 社区的 Python 主题建模与相似度检索库**
 
@@ -11,7 +11,7 @@ Gensim 是处理大规模语料的 Python 库，提供主题建模、文档索�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | LGPL-2.1 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

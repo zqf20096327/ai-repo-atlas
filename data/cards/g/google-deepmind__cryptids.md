@@ -1,6 +1,6 @@
 # google-deepmind/cryptids
 
-⭐ 66 · Lean · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/cryptids) · [官网](https://google-deepmind.github.io/cryptids/) · 组织维护
+⭐ 68 · Lean · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/cryptids) · [官网](https://google-deepmind.github.io/cryptids/) · 组织维护
 
 **Lean 4 形式化验证库：图灵机与 Busy Beaver 停机证明**
 

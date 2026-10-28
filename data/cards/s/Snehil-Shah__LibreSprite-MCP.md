@@ -1,6 +1,6 @@
 # Snehil-Shah/LibreSprite-MCP
 
-⭐ 37 · JavaScript · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Snehil-Shah/LibreSprite-MCP) · [官网](https://pypi.org/project/libresprite-mcp) · 个人维护
+⭐ 38 · JavaScript · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Snehil-Shah/LibreSprite-MCP) · [官网](https://pypi.org/project/libresprite-mcp) · 个人维护
 
 **让 LLM 通过 MCP 远程操作 LibreSprite 的服务器**
 

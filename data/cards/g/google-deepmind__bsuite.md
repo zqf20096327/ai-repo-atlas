@@ -1,6 +1,6 @@
 # google-deepmind/bsuite
 
-⭐ 1,564 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/bsuite) · 组织维护
+⭐ 1,565 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-deepmind/bsuite) · 组织维护
 
 **RL 智能体核心能力评测基准实验套件**
 

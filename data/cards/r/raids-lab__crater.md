@@ -1,6 +1,6 @@
 # raids-lab/crater
 
-⭐ 570 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/raids-lab/crater) · [官网](https://raids-lab.github.io/crater/en/) · 组织维护 · 中文 README
+⭐ 572 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/raids-lab/crater) · [官网](https://raids-lab.github.io/crater/en/) · 组织维护 · 中文 README
 
 **Kubernetes 原生的共享 AI 算力集群管理平台**
 

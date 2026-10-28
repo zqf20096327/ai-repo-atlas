@@ -1,6 +1,6 @@
 # Bavarder/Bavarder
 
-⭐ 268 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/Bavarder/Bavarder) · [官网](https://bavarder.github.io/) · 组织维护
+⭐ 268 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Bavarder/Bavarder) · [官网](https://bavarder.github.io/) · 组织维护
 
 **GNOME/Linux 桌面 AI 聊天应用，本地优先**
 

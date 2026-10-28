@@ -1,6 +1,6 @@
 # NVIDIA/garak
 
-⭐ 9,725 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/garak) · [官网](https://discord.gg/uVch4puUCs) · 组织维护
+⭐ 9,753 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/garak) · [官网](https://discord.gg/uVch4puUCs) · 组织维护
 
 **LLM 漏洞扫描器：探测幻觉、越狱、注入等安全弱点**
 

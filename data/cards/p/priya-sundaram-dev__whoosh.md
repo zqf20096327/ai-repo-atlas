@@ -1,6 +1,6 @@
 # priya-sundaram-dev/whoosh
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/priya-sundaram-dev/whoosh) · [官网](https://priya-sundaram-dev.github.io/whoosh/) · 个人维护
+⭐ 40 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/priya-sundaram-dev/whoosh) · [官网](https://priya-sundaram-dev.github.io/whoosh/) · 个人维护
 
 **纯 Python 全文索引与搜索库：进程内 BM25 检索，无需编译或服务器**
 

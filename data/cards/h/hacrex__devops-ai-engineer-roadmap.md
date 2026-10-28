@@ -1,6 +1,6 @@
 # hacrex/devops-ai-engineer-roadmap
 
-⭐ 48 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/hacrex/devops-ai-engineer-roadmap) · 个人维护
+⭐ 49 · Python · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/hacrex/devops-ai-engineer-roadmap) · 个人维护
 
 **面向 DevOps/SRE 的 AI 基础设施工程学习路线图**
 

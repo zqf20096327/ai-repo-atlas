@@ -1,6 +1,6 @@
 # sei-studio/sei
 
-⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/sei-studio/sei) · [官网](https://sei.gg) · 组织维护 · 中文 README
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/sei-studio/sei) · [官网](https://sei.gg) · 组织维护 · 中文 README
 
 **面向玩家的 AI 游戏陪伴应用：聊天、语音通话并一起玩**
 

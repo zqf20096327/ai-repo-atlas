@@ -1,6 +1,6 @@
 # wmentor/go-magnetar
 
-⭐ 25 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wmentor/go-magnetar) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wmentor/go-magnetar) · 个人维护
 
 **Go 单二进制 AI 聊天 agent：接入任意 OpenAI 兼容 LLM，带工具与 RAG**
 

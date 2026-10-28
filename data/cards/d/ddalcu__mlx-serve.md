@@ -1,6 +1,6 @@
 # ddalcu/mlx-serve
 
-⭐ 2,113 · Zig · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
+⭐ 2,131 · Zig · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 与媒体推理服务器及原生应用**
 

@@ -1,6 +1,6 @@
 # containers/ramalama
 
-⭐ 3,092 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/containers/ramalama) · [官网](https://ramalama.ai) · 组织维护
+⭐ 3,093 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/containers/ramalama) · [官网](https://ramalama.ai) · 组织维护
 
 **用容器方式本地运行与对外服务 AI 模型的命令行工具**
 

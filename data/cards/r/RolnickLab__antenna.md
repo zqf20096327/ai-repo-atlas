@@ -1,6 +1,6 @@
 # RolnickLab/antenna
 
-⭐ 45 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/RolnickLab/antenna) · [官网](https://insectai.org) · 组织维护
+⭐ 45 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/RolnickLab/antenna) · [官网](https://insectai.org) · 组织维护
 
 **昆虫相机陷阱图像的数据管理与 ML 流水线编排平台**
 

@@ -1,6 +1,6 @@
 # borenchan/sdkmate
 
-⭐ 102 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/borenchan/sdkmate) · 个人维护 · 中文 README
+⭐ 106 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/borenchan/sdkmate) · 个人维护 · 中文 README
 
 **跨平台 SDK 版本管理器：一条命令安装切换 40+ 开发工具版本**
 

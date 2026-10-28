@@ -1,6 +1,6 @@
 # songquanpeng/one-api
 
-⭐ 37,260 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
+⭐ 37,271 · JavaScript · MIT · 推送 2026-01-09 · [GitHub](https://github.com/songquanpeng/one-api) · [官网](https://oneapi.justsong.cn/) · 个人维护 · 中文 README
 
 **开发者的 LLM API 网关：统一多家模型接口并管理分发 key**
 

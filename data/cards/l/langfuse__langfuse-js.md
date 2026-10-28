@@ -1,6 +1,6 @@
 # langfuse/langfuse-js
 
-⭐ 174 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 175 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **Langfuse 官方 JS/TS SDK 集合：LLM 应用的可观测性接入**
 

@@ -1,6 +1,6 @@
 # opencrawling/opencrawling
 
-⭐ 25 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/opencrawling/opencrawling) · [官网](https://opencrawling.org) · 组织维护
+⭐ 25 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opencrawling/opencrawling) · [官网](https://opencrawling.org) · 组织维护
 
 **面向企业的数据摄取平台：仓库连接器到向量检索的数据流编排**
 

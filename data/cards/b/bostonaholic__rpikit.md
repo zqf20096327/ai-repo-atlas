@@ -1,6 +1,6 @@
 # bostonaholic/rpikit
 
-⭐ 20 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bostonaholic/rpikit) · [官网](https://bostonaholic.github.io/rpikit/) · 个人维护
+⭐ 20 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bostonaholic/rpikit) · [官网](https://bostonaholic.github.io/rpikit/) · 个人维护
 
 **Claude Code 插件：Research-Plan-Implement 结构化开发工作流**
 

@@ -1,6 +1,6 @@
 # majiayu000/stealthprint
 
-⭐ 31 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/majiayu000/stealthprint) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/majiayu000/stealthprint) · 个人维护 · 中文 README
 
 **对匿名 LLM 端点做指纹识别的 Python 工具库**
 

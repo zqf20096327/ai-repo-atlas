@@ -1,6 +1,6 @@
 # ptduy14/movie-web
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ptduy14/movie-web) · [官网](https://movie-web-seven-beta.vercel.app) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ptduy14/movie-web) · [官网](https://movie-web-seven-beta.vercel.app) · 个人维护
 
 **Next.js 影视流媒体站点：AI 批量翻译补全多语言简介**
 

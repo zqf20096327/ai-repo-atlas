@@ -1,6 +1,6 @@
 # buainoai/remotion-skills
 
-⭐ 145 · TypeScript · 推送 2026-01-30 · [GitHub](https://github.com/buainoai/remotion-skills) · 个人维护 · 中文 README
+⭐ 147 · TypeScript · 推送 2026-01-30 · [GitHub](https://github.com/buainoai/remotion-skills) · 个人维护 · 中文 README
 
 **面向 AI 代理的 Remotion 视频开发技能与最佳实践库**
 

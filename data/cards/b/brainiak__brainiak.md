@@ -1,6 +1,6 @@
 # brainiak/brainiak
 
-⭐ 373 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/brainiak/brainiak) · [官网](http://brainiak.org) · 组织维护
+⭐ 372 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/brainiak/brainiak) · [官网](http://brainiak.org) · 组织维护
 
 **面向神经科学的 fMRI 分析 Python 模块包**
 

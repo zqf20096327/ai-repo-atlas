@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/Open-MAI-Dx-Orchestrator
 
-⭐ 75 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) · [官网](https://swarms.ai) · 组织维护
+⭐ 77 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/The-Swarm-Corporation/Open-MAI-Dx-Orchestrator) · [官网](https://swarms.ai) · 组织维护
 
 **微软 Sequential Diagnosis 论文的开源多智能体医学诊断实现**
 

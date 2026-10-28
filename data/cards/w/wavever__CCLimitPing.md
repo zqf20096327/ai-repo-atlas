@@ -1,6 +1,6 @@
 # wavever/CCLimitPing
 
-⭐ 56 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wavever/CCLimitPing) · 个人维护 · 中文 README
+⭐ 57 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wavever/CCLimitPing) · 个人维护 · 中文 README
 
 **CLI 工具：在 Claude Code/Codex 5h 限额窗口重置瞬间自动触发新窗口**
 

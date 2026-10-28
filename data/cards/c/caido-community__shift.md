@@ -1,6 +1,6 @@
 # caido-community/shift
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/caido-community/shift) · [官网](https://shiftplugin.com/)
+⭐ 59 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/caido-community/shift) · [官网](https://shiftplugin.com/)
 
 **将 LLM 集成进 Caido 的 AI 插件：自然语言操控 HTTP 测试**
 

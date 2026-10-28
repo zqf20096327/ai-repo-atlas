@@ -1,6 +1,6 @@
 # laxmimerit/AI-Agent-Projects
 
-⭐ 29 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/AI-Agent-Projects) · [官网](https://kgptalkie.com/ai-agent-projects) · 组织维护
+⭐ 30 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/AI-Agent-Projects) · [官网](https://kgptalkie.com/ai-agent-projects) · 组织维护
 
 **面向学习者的 AI/ML 付费课程清单：LLM、Agent 与机器学习**
 

@@ -1,6 +1,6 @@
 # Berchez/SteamReveal
 
-⭐ 28 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/Berchez/SteamReveal) · [官网](https://steam-reveal.vercel.app) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/Berchez/SteamReveal) · [官网](https://steam-reveal.vercel.app) · 个人维护
 
 **分析 Steam 玩家公开数据，推断其可能位置与密友圈，并给出 CS 作弊概率**
 

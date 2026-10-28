@@ -1,6 +1,6 @@
 # microsoft/finnts
 
-⭐ 280 · R · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/finnts) · [官网](https://microsoft.github.io/finnts) · 组织维护
+⭐ 280 · R · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/finnts) · [官网](https://microsoft.github.io/finnts) · 组织维护
 
 **微软开源的 R 自动化金融时间序列预测框架**
 

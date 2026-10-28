@@ -1,6 +1,6 @@
 # ayushh0110/ScreenMind
 
-⭐ 245 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ayushh0110/ScreenMind) · [官网](https://screenmind.space/) · 个人维护
+⭐ 244 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/ayushh0110/ScreenMind) · [官网](https://screenmind.space/) · 个人维护
 
 **本地屏幕记忆应用：截图分析+语义搜索+对话问答**
 

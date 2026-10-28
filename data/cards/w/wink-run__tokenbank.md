@@ -1,6 +1,6 @@
 # wink-run/tokenbank
 
-⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/wink-run/tokenbank) · [官网](https://tokenbank.wink.run) · 组织维护 · 中文 README
+⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wink-run/tokenbank) · [官网](https://tokenbank.wink.run) · 组织维护 · 中文 README
 
 **本地 LLM 网关：统一接入各 AI agent 的 token 用量与智能路由**
 

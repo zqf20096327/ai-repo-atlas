@@ -1,6 +1,6 @@
 # open-agent-power/offer-laolao-plugin
 
-⭐ 88 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/open-agent-power/offer-laolao-plugin) · [官网](https://offer-laolao-plugin.vercel.app) · 组织维护 · 中文 README
+⭐ 89 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/open-agent-power/offer-laolao-plugin) · [官网](https://offer-laolao-plugin.vercel.app) · 组织维护 · 中文 README
 
 **帮求职者在招聘网站自动填写简历的 Chrome 扩展**
 

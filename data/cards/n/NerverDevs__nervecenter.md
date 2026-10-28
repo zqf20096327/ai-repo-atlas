@@ -1,6 +1,6 @@
 # NerverDevs/nervecenter
 
-⭐ 72 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
+⭐ 92 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
 
 **new-api/sub2api 中转站账号的闭源托管管理控制台**
 

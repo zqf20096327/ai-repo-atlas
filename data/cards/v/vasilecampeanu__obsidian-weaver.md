@@ -1,6 +1,6 @@
 # vasilecampeanu/obsidian-weaver
 
-⭐ 222 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/vasilecampeanu/obsidian-weaver) · 个人维护
+⭐ 223 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/vasilecampeanu/obsidian-weaver) · 个人维护
 
 **Obsidian 笔记内嵌 ChatGPT 式 AI 对话插件**
 

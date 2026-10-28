@@ -1,6 +1,6 @@
 # Fractal-Compute-Orchestrations/FractalWorkspace
 
-⭐ 6,371 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
+⭐ 6,985 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) · [官网](https://play.google.com/store/apps/details?id=org.fractal.app&hl=en) · 个人维护
 
 **面向安卓边缘设备的联邦学习与分布式推理编排框架**
 

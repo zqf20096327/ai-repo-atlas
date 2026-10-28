@@ -1,6 +1,6 @@
 # FireRedTeam/FireRed-OpenStoryline
 
-⭐ 3,572 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/FireRedTeam/FireRed-OpenStoryline) · 组织维护 · 中文 README
+⭐ 3,580 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/FireRedTeam/FireRed-OpenStoryline) · 组织维护 · 中文 README
 
 **自然语言对话驱动的 AI 视频剪辑 Agent**
 

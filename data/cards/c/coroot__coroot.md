@@ -1,6 +1,6 @@
 # coroot/coroot
 
-⭐ 7,989 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/coroot/coroot) · [官网](https://coroot.com) · 组织维护
+⭐ 7,993 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/coroot/coroot) · [官网](https://coroot.com) · 组织维护
 
 **给运维/开发者的开源可观测性工具，AI 定位根因**
 

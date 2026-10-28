@@ -1,6 +1,6 @@
 # jrswab/axe
 
-⭐ 906 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
+⭐ 907 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
 
 **用 TOML 定义单一用途 LLM agent 并随处触发的 CLI 工具**
 

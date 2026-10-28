@@ -1,6 +1,6 @@
 # JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl
 
-⭐ 146 · Julia · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) · [官网](https://juliadecisionfocusedlearning.github.io/ImplicitDifferentiation.jl/) · 组织维护
+⭐ 146 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl) · [官网](https://juliadecisionfocusedlearning.github.io/ImplicitDifferentiation.jl/) · 组织维护
 
 **Julia 库：对隐函数定义的映射做自动微分**
 

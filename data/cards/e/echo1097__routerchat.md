@@ -1,6 +1,6 @@
 # echo1097/routerchat
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/echo1097/routerchat) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/echo1097/routerchat) · 个人维护
 
 **本地运行的 OpenRouter/Anthropic 聊天与长文写作界面**
 

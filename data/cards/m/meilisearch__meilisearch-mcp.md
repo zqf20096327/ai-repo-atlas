@@ -1,6 +1,6 @@
 # meilisearch/meilisearch-mcp
 
-⭐ 197 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/meilisearch/meilisearch-mcp) · 组织维护
+⭐ 198 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/meilisearch/meilisearch-mcp) · 组织维护
 
 **让 LLM 通过 MCP 协议操作 Meilisearch 搜索引擎的服务器**
 

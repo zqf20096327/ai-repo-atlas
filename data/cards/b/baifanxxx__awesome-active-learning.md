@@ -1,6 +1,6 @@
 # baifanxxx/awesome-active-learning
 
-⭐ 808 · CC0-1.0 · 推送 2026-03-26 · [GitHub](https://github.com/baifanxxx/awesome-active-learning) · 个人维护
+⭐ 809 · CC0-1.0 · 推送 2026-03-26 · [GitHub](https://github.com/baifanxxx/awesome-active-learning) · 个人维护
 
 **主动学习（Active Learning）论文与资源策展清单**
 

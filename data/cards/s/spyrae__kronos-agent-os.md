@@ -1,6 +1,6 @@
 # spyrae/kronos-agent-os
 
-⭐ 63 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spyrae/kronos-agent-os) · [官网](https://github.com/spyrae/kronos-agent-os/tree/main/docs) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/spyrae/kronos-agent-os) · [官网](https://github.com/spyrae/kronos-agent-os/tree/main/docs) · 个人维护
 
 **自托管的持久 AI agent 运行时，含记忆/技能/MCP 工具/自动化**
 

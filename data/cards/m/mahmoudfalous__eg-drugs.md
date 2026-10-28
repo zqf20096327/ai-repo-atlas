@@ -1,6 +1,6 @@
 # mahmoudfalous/eg-drugs
 
-⭐ 32 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · 个人维护
+⭐ 33 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · 个人维护
 
 **埃及药品数据集：26,562 条药品记录含 FDA 映射与阿拉伯语信息**
 

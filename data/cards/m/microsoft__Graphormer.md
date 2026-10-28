@@ -1,6 +1,6 @@
 # microsoft/Graphormer
 
-⭐ 2,483 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/microsoft/Graphormer) · 组织维护
+⭐ 2,481 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/microsoft/Graphormer) · 组织维护
 
 **微软开源的分子建模图 Transformer 深度学习框架**
 

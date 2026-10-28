@@ -1,6 +1,6 @@
 # CorvinLabs/CorvinOS
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CorvinLabs/CorvinOS) · [官网](https://corvin-labs.com, https://www.youtube.com/@Corvin-Labs) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CorvinLabs/CorvinOS) · [官网](https://corvin-labs.com, https://www.youtube.com/@Corvin-Labs) · 组织维护
 
 **自托管的 agentic 操作系统：运行并治理团队的 AI 代理**
 

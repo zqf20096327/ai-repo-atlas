@@ -1,6 +1,6 @@
 # linaproai/linapro
 
-⭐ 164 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/linaproai/linapro) · [官网](https://linapro.ai) · 组织维护 · 中文 README
+⭐ 165 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/linaproai/linapro) · [官网](https://linapro.ai) · 组织维护 · 中文 README
 
 **面向团队与企业的 AI 原生全栈开发框架**
 

@@ -1,6 +1,6 @@
 # solomondivyananth/aftereffects-mcp
 
-⭐ 76 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
+⭐ 77 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
 
 **让 AI agent 实时读写 Adobe After Effects 工程的 MCP 服务器**
 

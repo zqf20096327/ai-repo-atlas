@@ -1,6 +1,6 @@
 # haizelabs/verdict
 
-⭐ 349 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/haizelabs/verdict) · [官网](http://verdict.haizelabs.com/docs) · 组织维护
+⭐ 350 · Jupyter Notebook · MIT · 推送 2025-11-05 · [GitHub](https://github.com/haizelabs/verdict) · [官网](http://verdict.haizelabs.com/docs) · 组织维护
 
 **构建与执行复合 LLM-as-a-judge 评测的声明式框架**
 

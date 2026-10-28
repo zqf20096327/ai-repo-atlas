@@ -1,6 +1,6 @@
 # Heroesjouney/AIMovieStudiov2
 
-⭐ 184 · TypeScript · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/Heroesjouney/AIMovieStudiov2) · 个人维护
+⭐ 187 · TypeScript · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/Heroesjouney/AIMovieStudiov2) · 个人维护
 
 **面向电影制作者的模型无关 AI 电影制作工作台**
 

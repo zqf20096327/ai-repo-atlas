@@ -1,6 +1,6 @@
 # elyra-ai/elyra
 
-⭐ 2,002 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/elyra-ai/elyra) · [官网](https://elyra.readthedocs.io/en/stable/) · 组织维护
+⭐ 2,002 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/elyra-ai/elyra) · [官网](https://elyra.readthedocs.io/en/stable/) · 组织维护
 
 **扩展 JupyterLab 的 AI 中心化工具集：可视化流水线与批处理运行**
 

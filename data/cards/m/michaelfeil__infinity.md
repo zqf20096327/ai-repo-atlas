@@ -1,6 +1,6 @@
 # michaelfeil/infinity
 
-⭐ 2,970 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
+⭐ 2,971 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
 
 **面向开发者的文本嵌入/重排/CLIP 等模型的 REST 推理服务引擎**
 

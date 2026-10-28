@@ -1,6 +1,6 @@
 # Frappucc1no/recall-loom
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Frappucc1no/recall-loom) · [官网](https://recallloom.error9pm.com) · 个人维护 · 中文 README
+⭐ 153 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Frappucc1no/recall-loom) · [官网](https://recallloom.error9pm.com) · 个人维护 · 中文 README
 
 **跨 AI 工具的文件化项目记忆层，保存项目状态与决策**
 

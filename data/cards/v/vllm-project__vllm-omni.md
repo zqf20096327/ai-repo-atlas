@@ -1,6 +1,6 @@
 # vllm-project/vllm-omni
 
-⭐ 7,387 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护 · 中文 README
+⭐ 7,397 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-omni) · [官网](https://docs.vllm.ai/projects/vllm-omni) · 组织维护 · 中文 README
 
 **面向全模态模型（文本/图像/音频/视频/动作）的高效推理与服务框架**
 

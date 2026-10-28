@@ -1,6 +1,6 @@
 # microsoft/trident
 
-⭐ 32 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/trident) · 组织维护
+⭐ 32 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/trident) · 组织维护
 
 **面向 Azure Linux 的声明式安全优先 OS 生命周期代理**
 

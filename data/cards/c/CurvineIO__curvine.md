@@ -1,6 +1,6 @@
 # CurvineIO/curvine
 
-⭐ 1,028 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CurvineIO/curvine) · [官网](https://curvineio.github.io) · 组织维护 · 中文 README
+⭐ 1,032 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CurvineIO/curvine) · [官网](https://curvineio.github.io) · 组织维护 · 中文 README
 
 **面向 AI 训练与 Agent 平台的云对象存储高性能缓存文件系统**
 

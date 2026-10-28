@@ -1,6 +1,6 @@
 # sqfcyily/deva
 
-⭐ 376 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://sqfcyily.github.io/deva/) · 个人维护 · 中文 README
+⭐ 430 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://sqfcyily.github.io/deva/) · 个人维护 · 中文 README
 
 **对话式桌面 AI 助手：把 Agent 能力装进聊天里**
 

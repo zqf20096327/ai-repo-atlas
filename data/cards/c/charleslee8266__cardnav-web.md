@@ -1,6 +1,6 @@
 # charleslee8266/cardnav-web
 
-⭐ 196 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/charleslee8266/cardnav-web) · [官网](https://cardnav.xyz/) · 个人维护 · 中文 README
+⭐ 198 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/charleslee8266/cardnav-web) · [官网](https://cardnav.xyz/) · 个人维护 · 中文 README
 
 **AI 大模型账号购买导航站：聚合卡网商家、订阅比价与指南**
 

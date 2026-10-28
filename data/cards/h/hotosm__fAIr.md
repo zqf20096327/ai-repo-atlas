@@ -1,6 +1,6 @@
 # hotosm/fAIr
 
-⭐ 154 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/hotosm/fAIr) · [官网](https://hotosm.github.io/fAIr/) · 组织维护
+⭐ 154 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/hotosm/fAIr) · [官网](https://hotosm.github.io/fAIr/) · 组织维护
 
 **人道主义制图者用的 AI 辅助地图服务：从影像检测建筑/道路等**
 

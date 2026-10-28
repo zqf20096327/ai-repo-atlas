@@ -1,6 +1,6 @@
 # ArcadeAI/arcade-mcp
 
-⭐ 1,060 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ArcadeAI/arcade-mcp) · [官网](https://docs.arcade.dev) · 组织维护
+⭐ 1,061 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ArcadeAI/arcade-mcp) · [官网](https://docs.arcade.dev) · 组织维护
 
 **Python 框架：构建 MCP 服务器与授权工具调用**
 

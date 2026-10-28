@@ -1,6 +1,6 @@
 # coco-research/coco
 
-⭐ 793 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/coco-research/coco) · [官网](https://cocoresearch.org/coco/) · 组织维护
+⭐ 794 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/coco-research/coco) · [官网](https://cocoresearch.org/coco/) · 组织维护
 
 **装进现有编码 Agent 的多专家决策编排层**
 

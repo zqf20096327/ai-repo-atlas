@@ -1,6 +1,6 @@
 # hesreallyhim/awesome-claude-code
 
-⭐ 56,667 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
+⭐ 56,753 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hesreallyhim/awesome-claude-code) · 个人维护
 
 **Claude Code 生态资源精选清单（awesome list）**
 

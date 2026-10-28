@@ -1,6 +1,6 @@
 # Squid-Proxy-Lovers/ccp
 
-⭐ 25 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Squid-Proxy-Lovers/ccp) · [官网](https://spl.team/ccp) · 组织维护
+⭐ 25 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Squid-Proxy-Lovers/ccp) · [官网](https://spl.team/ccp) · 组织维护
 
 **为协作 AI agent 提供共享持久上下文的 Rust 客户端-服务器协议**
 

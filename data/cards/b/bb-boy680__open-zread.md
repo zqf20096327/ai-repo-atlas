@@ -1,6 +1,6 @@
 # bb-boy680/open-zread
 
-⭐ 44 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/bb-boy680/open-zread) · [官网](https://www.npmjs.com/package/@open-zread/cli) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/bb-boy680/open-zread) · [官网](https://www.npmjs.com/package/@open-zread/cli) · 个人维护 · 中文 README
 
 **一条命令把代码库生成带图表 Wiki 的 AI 文档工具**
 

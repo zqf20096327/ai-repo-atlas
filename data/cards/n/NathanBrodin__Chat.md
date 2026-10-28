@@ -1,6 +1,6 @@
 # NathanBrodin/Chat
 
-⭐ 24 · TypeScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/NathanBrodin/Chat) · [官网](https://chat.brodin.dev) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NathanBrodin/Chat) · [官网](https://chat.brodin.dev) · 个人维护
 
 **以 AI 对话形式呈现的个人作品集网站（交互式简历）**
 

@@ -1,6 +1,6 @@
 # Lightning-AI/torchmetrics
 
-⭐ 2,478 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
+⭐ 2,479 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
 
 **面向 PyTorch 的 100+ 机器学习指标库，支持分布式训练**
 

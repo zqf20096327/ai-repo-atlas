@@ -1,6 +1,6 @@
 # The-AI-Alliance/tapestry
 
-⭐ 295 · Python · 推送 2026-10-27 · [GitHub](https://github.com/The-AI-Alliance/tapestry) · [官网](https://thealliance.ai/projects/tapestry/) · 组织维护
+⭐ 296 · Python · 推送 2026-10-28 · [GitHub](https://github.com/The-AI-Alliance/tapestry) · [官网](https://thealliance.ai/projects/tapestry/) · 组织维护
 
 **多方主权 AI 联盟：共同训练基础模型并构建衍生模型**
 

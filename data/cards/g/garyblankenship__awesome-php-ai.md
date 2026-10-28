@@ -1,6 +1,6 @@
 # garyblankenship/awesome-php-ai
 
-⭐ 51 · HTML · 推送 2026-10-13 · [GitHub](https://github.com/garyblankenship/awesome-php-ai) · [官网](https://garyblankenship.github.io/awesome-php-ai/) · 个人维护
+⭐ 52 · HTML · 推送 2026-10-13 · [GitHub](https://github.com/garyblankenship/awesome-php-ai) · [官网](https://garyblankenship.github.io/awesome-php-ai/) · 个人维护
 
 **PHP 语言 AI/ML/NLP 库与工具的策展清单，面向 PHP 开发者**
 

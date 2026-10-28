@@ -1,6 +1,6 @@
 # vllm-project/semantic-router
 
-⭐ 6,278 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
+⭐ 6,296 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
 
 **多模型智能路由决策层：按策略为每次调用选模型**
 

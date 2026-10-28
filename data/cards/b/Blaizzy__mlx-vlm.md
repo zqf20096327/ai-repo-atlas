@@ -1,6 +1,6 @@
 # Blaizzy/mlx-vlm
 
-⭐ 5,667 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Blaizzy/mlx-vlm) · 个人维护
+⭐ 5,686 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Blaizzy/mlx-vlm) · 个人维护
 
 **Mac 上基于 MLX 的视觉语言模型推理与微调包**
 

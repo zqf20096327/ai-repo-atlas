@@ -1,6 +1,6 @@
 # Coding-Solo/godot-mcp
 
-⭐ 6,381 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Coding-Solo/godot-mcp) · 个人维护
+⭐ 6,402 · JavaScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/Coding-Solo/godot-mcp) · 个人维护
 
 **让 AI agent 操作 Godot 引擎的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # nirholas/three.ws
 
-⭐ 250 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/nirholas/three.ws) · [官网](https://three.ws) · 组织维护
+⭐ 254 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nirholas/three.ws) · [官网](https://three.ws) · 组织维护
 
 **浏览器端 3D AI agent 平台：文本/图片生成可动 GLB 虚拟形象并嵌入网页**
 

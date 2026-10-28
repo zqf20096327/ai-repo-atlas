@@ -1,6 +1,6 @@
 # ServiceNow/AgentLab
 
-⭐ 659 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ServiceNow/AgentLab) · 组织维护
+⭐ 661 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ServiceNow/AgentLab) · 组织维护
 
 **给 web agent 研究者的开发、评测与基准实验框架**
 

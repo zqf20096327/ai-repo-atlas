@@ -1,6 +1,6 @@
 # jim-schwoebel/awesome_ai_agents
 
-⭐ 2,020 · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/jim-schwoebel/awesome_ai_agents) · [官网](https://agents.blog) · 个人维护
+⭐ 2,021 · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/jim-schwoebel/awesome_ai_agents) · [官网](https://agents.blog) · 个人维护
 
 **AI agent 工具与资源策展清单（1,500+ 条）**
 

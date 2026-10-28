@@ -1,6 +1,6 @@
 # ajshajib/dolphin
 
-⭐ 27 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/ajshajib/dolphin) · [官网](https://dolphin-docs.readthedocs.io) · 个人维护
+⭐ 28 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/ajshajib/dolphin) · [官网](https://dolphin-docs.readthedocs.io) · 个人维护
 
 **给科研用户的强引力透镜自动建模流水线**
 

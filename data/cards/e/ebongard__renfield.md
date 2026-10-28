@@ -1,6 +1,6 @@
 # ebongard/renfield
 
-⭐ 40 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ebongard/renfield) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ebongard/renfield) · 个人维护
 
 **自托管离线语音 AI 助手，支持多房间语音卫星与 RAG 知识库**
 

@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-cli
 
-⭐ 294 · TypeScript · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
+⭐ 294 · TypeScript · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/SonarSource/sonarqube-cli) · [官网](https://cli.sonarqube.com/) · 组织维护
 
 **SonarQube 官方命令行工具：终端内做代码质量与密钥扫描，并接入 AI 编码代理**
 

@@ -1,6 +1,6 @@
 # yzfly/awesome-skills-zh
 
-⭐ 61 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/awesome-skills-zh) · 个人维护 · 中文 README
+⭐ 63 · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/awesome-skills-zh) · 个人维护 · 中文 README
 
 **中文版 Claude/Agent/LLM Skills 精选资源清单**
 

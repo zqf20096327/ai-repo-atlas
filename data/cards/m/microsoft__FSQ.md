@@ -1,6 +1,6 @@
 # microsoft/FSQ
 
-⭐ 26 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/FSQ) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/FSQ) · 组织维护
 
 **微软的 AI UI 自动化执行框架：目标→证据→可回放 Case**
 

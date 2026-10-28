@@ -1,6 +1,6 @@
 # touchine-ojo/OJO-Design-Skills
 
-⭐ 166 · Shell · MIT · 推送 2026-07-29 · [GitHub](https://github.com/touchine-ojo/OJO-Design-Skills) · [官网](https://ojo.art) · 组织维护 · 中文 README
+⭐ 167 · Shell · MIT · 推送 2026-07-29 · [GitHub](https://github.com/touchine-ojo/OJO-Design-Skills) · [官网](https://ojo.art) · 组织维护 · 中文 README
 
 **给 AI 编码 agent 的可复用 UI/UX 设计技能包**
 

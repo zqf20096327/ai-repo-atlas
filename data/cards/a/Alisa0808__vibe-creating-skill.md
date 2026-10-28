@@ -1,6 +1,6 @@
 # Alisa0808/vibe-creating-skill
 
-⭐ 153 · JavaScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/Alisa0808/vibe-creating-skill) · [官网](https://www.atlascloud.ai?ref=F27PTG) · 个人维护 · 中文 README
+⭐ 154 · JavaScript · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/Alisa0808/vibe-creating-skill) · [官网](https://www.atlascloud.ai?ref=F27PTG) · 个人维护 · 中文 README
 
 **给视频创作者的 AI 文生视频提示词改写技能（Agent Skill）**
 

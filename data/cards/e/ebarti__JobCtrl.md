@@ -1,6 +1,6 @@
 # ebarti/JobCtrl
 
-⭐ 83 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
+⭐ 83 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
 
 **本地优先的求职自动化应用：发现岗位、评分、定制简历**
 

@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-grok-imagine-prompts
 
-⭐ 57 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) · [官网](https://youmind.com/grok-imagine-prompts) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) · [官网](https://youmind.com/grok-imagine-prompts) · 组织维护 · 中文 README
 
 **Grok Imagine 视频生成提示词策展清单（3198 条）**
 

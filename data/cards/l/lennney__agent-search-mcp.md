@@ -1,6 +1,6 @@
 # lennney/agent-search-mcp
 
-⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lennney/agent-search-mcp) · [官网](https://take-a-deep-breath0.com/en/agent-search-mcp) · 个人维护 · 中文 README
+⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lennney/agent-search-mcp) · [官网](https://take-a-deep-breath0.com/en/agent-search-mcp) · 个人维护 · 中文 README
 
 **给 AI agent 的免密钥中英网页搜索 MCP 服务器，返回可核查证据**
 

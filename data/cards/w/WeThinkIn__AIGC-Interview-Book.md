@@ -1,6 +1,6 @@
 # WeThinkIn/AIGC-Interview-Book
 
-⭐ 5,080 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
+⭐ 5,091 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
 
 **AIGC/LLM/AI Agent 算法岗面试求职与职业成长知识平台**
 

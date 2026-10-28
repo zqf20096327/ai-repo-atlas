@@ -1,6 +1,6 @@
 # DataverseLabs/pyinterpolate
 
-⭐ 176 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/DataverseLabs/pyinterpolate) · [官网](https://pyinterpolate.readthedocs.io/en/stable/) · 个人维护
+⭐ 175 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/DataverseLabs/pyinterpolate) · [官网](https://pyinterpolate.readthedocs.io/en/stable/) · 个人维护
 
 **Python 空间统计库：Kriging 插值与半变异函数分析**
 

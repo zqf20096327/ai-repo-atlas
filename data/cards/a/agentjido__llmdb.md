@@ -1,6 +1,6 @@
 # agentjido/llmdb
 
-⭐ 65 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentjido/llmdb) · [官网](https://llmcatalog.dev) · 组织维护
+⭐ 65 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentjido/llmdb) · [官网](https://llmcatalog.dev) · 组织维护
 
 **面向开发者的 LLM 模型元数据目录库：离线快照+能力检索**
 

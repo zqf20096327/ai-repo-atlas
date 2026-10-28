@@ -1,6 +1,6 @@
 # carrythroughsystems/omp-session-gateway
 
-⭐ 47 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/carrythroughsystems/omp-session-gateway) · [官网](https://carrythroughsystems.github.io/omp-session-gateway/) · 组织维护
+⭐ 47 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/carrythroughsystems/omp-session-gateway) · [官网](https://carrythroughsystems.github.io/omp-session-gateway/) · 组织维护
 
 **手机浏览器集中查看与进入 OMP 终端会话的私有网关**
 

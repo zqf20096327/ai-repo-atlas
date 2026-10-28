@@ -1,6 +1,6 @@
 # qrak/LLM_trader
 
-⭐ 138 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/qrak/LLM_trader) · [官网](https://semanticsignal.qrak.org) · 个人维护
+⭐ 138 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/qrak/LLM_trader) · [官网](https://semanticsignal.qrak.org) · 个人维护
 
 **LLM 驱动的加密货币纸面交易 agent：读图、记忆、反思**
 

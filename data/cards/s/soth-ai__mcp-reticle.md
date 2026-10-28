@@ -1,6 +1,6 @@
 # soth-ai/mcp-reticle
 
-⭐ 124 · Rust · MIT · 推送 2026-01-06 · [GitHub](https://github.com/soth-ai/mcp-reticle) · 组织维护
+⭐ 125 · Rust · MIT · 推送 2026-01-06 · [GitHub](https://github.com/soth-ai/mcp-reticle) · 组织维护
 
 **MCP JSON-RPC 流量实时拦截、可视化与性能分析工具**
 

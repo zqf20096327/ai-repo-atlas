@@ -1,6 +1,6 @@
 # ghostsecurity/skills
 
-⭐ 426 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/ghostsecurity/skills) · [官网](https://ghostsecurity.ai) · 组织维护
+⭐ 427 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/ghostsecurity/skills) · [官网](https://ghostsecurity.ai) · 组织维护
 
 **面向 Claude Code 的应用安全插件市场：安全扫描工具+AI 技能层**
 

@@ -1,6 +1,6 @@
 # FalkorDB/JFalkorDB
 
-⭐ 23 · Java · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/FalkorDB/JFalkorDB) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 23 · Java · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/FalkorDB/JFalkorDB) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的 Java 客户端库**
 

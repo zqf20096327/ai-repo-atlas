@@ -1,6 +1,6 @@
 # stair-lab/kg-gen
 
-⭐ 1,286 · Python · 推送 2026-03-24 · [GitHub](https://github.com/stair-lab/kg-gen) · [官网](https://kg-gen.org) · 组织维护
+⭐ 1,287 · Python · 推送 2026-03-24 · [GitHub](https://github.com/stair-lab/kg-gen) · [官网](https://kg-gen.org) · 组织维护
 
 **用 LLM 从任意文本抽取知识图谱的 Python 库**
 

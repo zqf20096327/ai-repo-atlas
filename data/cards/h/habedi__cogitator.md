@@ -1,6 +1,6 @@
 # habedi/cogitator
 
-⭐ 191 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/habedi/cogitator) · 个人维护
+⭐ 191 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/habedi/cogitator) · 个人维护
 
 **实验链式思考提示策略的 Python 工具库，供研究与集成**
 

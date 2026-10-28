@@ -1,6 +1,6 @@
 # agent-clinic/claude-md-doctor
 
-⭐ 41 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/agent-clinic/claude-md-doctor) · [官网](https://skills.sh/agent-clinic/claude-md-doctor) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/agent-clinic/claude-md-doctor) · [官网](https://skills.sh/agent-clinic/claude-md-doctor) · 组织维护
 
 **给 Claude Code 用户的 CLAUDE.md 做体检审计的技能插件**
 

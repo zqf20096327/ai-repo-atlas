@@ -1,6 +1,6 @@
 # xorcise-ai/xorcise
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/xorcise-ai/xorcise) · [官网](https://xorcise.ai) · 组织维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/xorcise-ai/xorcise) · [官网](https://xorcise.ai) · 组织维护
 
 **网络安全 AI agent 实战评测平台：隔离环境执行任务并记录证据评分**
 

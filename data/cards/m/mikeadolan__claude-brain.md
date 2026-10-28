@@ -1,6 +1,6 @@
 # mikeadolan/claude-brain
 
-⭐ 36 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/mikeadolan/claude-brain) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/mikeadolan/claude-brain) · 个人维护
 
 **给 Claude Code 用户的本地持久记忆层：SQLite 全量留存对话**
 

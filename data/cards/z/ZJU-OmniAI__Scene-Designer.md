@@ -1,6 +1,6 @@
 # ZJU-OmniAI/Scene-Designer
 
-⭐ 26 · Python · 推送 2026-10-19 · [GitHub](https://github.com/ZJU-OmniAI/Scene-Designer) · [官网](https://zju-omniai.github.io/Scene-Designer/) · 组织维护 · 中文 README
+⭐ 27 · Python · 推送 2026-10-19 · [GitHub](https://github.com/ZJU-OmniAI/Scene-Designer) · [官网](https://zju-omniai.github.io/Scene-Designer/) · 组织维护 · 中文 README
 
 **学习设计智能的 Agent 式 3D 场景生成框架与模型**
 

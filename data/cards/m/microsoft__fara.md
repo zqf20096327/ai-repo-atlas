@@ -1,6 +1,6 @@
 # microsoft/fara
 
-⭐ 6,226 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/fara) · [官网](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · 组织维护
+⭐ 6,235 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/fara) · [官网](https://www.microsoft.com/en-us/research/articles/fara1-5-computer-use-agent/) · 组织维护
 
 **微软的计算机使用 agent 模型家族（4B/9B/27B）**
 

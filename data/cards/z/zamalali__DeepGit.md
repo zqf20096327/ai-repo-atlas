@@ -1,6 +1,6 @@
 # zamalali/DeepGit
 
-⭐ 923 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/zamalali/DeepGit) · [官网](https://deepgit.vercel.app) · 个人维护
+⭐ 922 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/zamalali/DeepGit) · [官网](https://deepgit.vercel.app) · 个人维护
 
 **帮开发者用自然语言找最匹配 GitHub 仓库的 agentic 研究引擎**
 

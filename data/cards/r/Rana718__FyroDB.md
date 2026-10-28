@@ -1,6 +1,6 @@
 # Rana718/FyroDB
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 75 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Rana718/FyroDB) · [官网](https://fyrodb.vercel.app/) · 个人维护
 
 **Rust 编写的 Redis 兼容内存 KV 存储与 PostgreSQL 查询缓存代理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

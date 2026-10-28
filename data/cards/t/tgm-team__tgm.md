@@ -1,6 +1,6 @@
 # tgm-team/tgm
 
-⭐ 125 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/tgm-team/tgm) · [官网](https://tgm.readthedocs.io/en/latest/) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/tgm-team/tgm) · [官网](https://tgm.readthedocs.io/en/latest/) · 组织维护
 
 **时序图机器学习研究库：动态图上高效训练与原型开发**
 

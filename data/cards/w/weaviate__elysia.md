@@ -1,6 +1,6 @@
 # weaviate/elysia
 
-⭐ 1,922 · Python · BSD-3-Clause · 推送 2026-02-06 · [GitHub](https://github.com/weaviate/elysia) · 组织维护
+⭐ 1,923 · Python · BSD-3-Clause · 推送 2026-02-06 · [GitHub](https://github.com/weaviate/elysia) · 组织维护
 
 **决策树式 agentic 框架：动态选择工具检索 Weaviate 数据**
 

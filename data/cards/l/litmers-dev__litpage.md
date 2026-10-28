@@ -1,6 +1,6 @@
 # litmers-dev/litpage
 
-⭐ 76 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/litmers-dev/litpage) · 组织维护 · 中文 README
+⭐ 83 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/litmers-dev/litpage) · 组织维护 · 中文 README
 
 **自托管工作台：块编辑器文档 + 数据库视图 + 可选 AI**
 

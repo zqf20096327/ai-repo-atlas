@@ -1,6 +1,6 @@
 # takaakit/astah-pro-mcp
 
-⭐ 23 · Java · 推送 2026-10-22 · [GitHub](https://github.com/takaakit/astah-pro-mcp) · 个人维护
+⭐ 23 · Java · 推送 2026-10-28 · [GitHub](https://github.com/takaakit/astah-pro-mcp) · 个人维护
 
 **Astah Professional 的 MCP 服务器插件：让 AI agent 操作 UML 模型**
 

@@ -1,6 +1,6 @@
 # mattt/preowned
 
-⭐ 32 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mattt/preowned) · 个人维护
+⭐ 47 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mattt/preowned) · 个人维护
 
 **把 macOS 内置模型包装成 OpenAI 兼容 API 的本地服务器**
 

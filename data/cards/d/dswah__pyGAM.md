@@ -1,6 +1,6 @@
 # dswah/pyGAM
 
-⭐ 1,021 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dswah/pyGAM) · [官网](https://pygam.readthedocs.io) · 个人维护
+⭐ 1,023 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/dswah/pyGAM) · [官网](https://pygam.readthedocs.io) · 个人维护
 
 **Python 广义可加模型（GAM）建模库：拟合可解释非线性模型**
 

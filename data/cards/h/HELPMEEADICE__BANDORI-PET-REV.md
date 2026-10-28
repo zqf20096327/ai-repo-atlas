@@ -1,6 +1,6 @@
 # HELPMEEADICE/BANDORI-PET-REV
 
-⭐ 497 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/HELPMEEADICE/BANDORI-PET-REV) · 个人维护 · 中文 README
+⭐ 500 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/HELPMEEADICE/BANDORI-PET-REV) · 个人维护 · 中文 README
 
 **把 BanG Dream! 角色养在桌面的 Live2D 桌面宠物，带 LLM 对话**
 

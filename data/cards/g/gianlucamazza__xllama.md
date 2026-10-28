@@ -1,6 +1,6 @@
 # gianlucamazza/xllama
 
-⭐ 73 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gianlucamazza/xllama) · [官网](https://huggingface.co/collections/gianlucamazza/xllama-models-measured-on-xbox-series-s) · 个人维护
+⭐ 74 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gianlucamazza/xllama) · [官网](https://huggingface.co/collections/gianlucamazza/xllama-models-measured-on-xbox-series-s) · 个人维护
 
 **在 Xbox Series S|X Dev Mode 上本地运行 LLM 的推理运行时**
 

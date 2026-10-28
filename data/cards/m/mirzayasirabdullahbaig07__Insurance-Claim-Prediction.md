@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Insurance-Claim-Prediction
 
-⭐ 25 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Insurance-Claim-Prediction) · [官网](https://insurance-claim-prediction07.streamlit.app/) · 个人维护
+⭐ 26 · Python · 推送 2026-08-23 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Insurance-Claim-Prediction) · [官网](https://insurance-claim-prediction07.streamlit.app/) · 个人维护
 
 **保险理赔金额回归预测项目，含 Streamlit 部署流程**
 

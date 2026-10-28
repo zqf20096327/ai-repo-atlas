@@ -1,6 +1,6 @@
 # Nano-Collective/get-md
 
-⭐ 96 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Nano-Collective/get-md) · [官网](https://docs.nanocollective.org/get-md/) · 组织维护
+⭐ 96 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Nano-Collective/get-md) · [官网](https://docs.nanocollective.org/get-md/) · 组织维护
 
 **HTML/PDF/DOCX 转 Markdown 库，为 LLM 输入优化**
 

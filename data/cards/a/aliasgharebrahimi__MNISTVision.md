@@ -1,6 +1,6 @@
 # aliasgharebrahimi/MNISTVision
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aliasgharebrahimi/MNISTVision) · 个人维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/aliasgharebrahimi/MNISTVision) · 个人维护
 
 **研究者用的 MNIST 手写数字识别 PyTorch 模型**
 

@@ -1,6 +1,6 @@
 # HiAi-gg/docsmint
 
-⭐ 109 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/HiAi-gg/docsmint) · [官网](https://docsmint.com) · 组织维护
+⭐ 110 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/HiAi-gg/docsmint) · [官网](https://docsmint.com) · 组织维护
 
 **面向人与 AI agent 的自托管知识库：富文本编辑+混合搜索+MCP**
 

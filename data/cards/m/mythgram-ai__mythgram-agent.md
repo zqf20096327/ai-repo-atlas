@@ -1,6 +1,6 @@
 # mythgram-ai/mythgram-agent
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mythgram-ai/mythgram-agent) · [官网](https://mythgram-ai.github.io/mythgram-agent/) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mythgram-ai/mythgram-agent) · [官网](https://mythgram-ai.github.io/mythgram-agent/) · 组织维护
 
 **可自托管的通用个人 AI agent 工作台：聊天、工具执行与自动化**
 

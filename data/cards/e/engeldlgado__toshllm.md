@@ -1,6 +1,6 @@
 # engeldlgado/toshllm
 
-⭐ 225 · Swift · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/engeldlgado/toshllm) · [官网](https://toshllm.com) · 个人维护
+⭐ 227 · Swift · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/engeldlgado/toshllm) · [官网](https://toshllm.com) · 个人维护
 
 **在 Intel Mac/AMD GPU 上本地运行 LLM 的原生 macOS 应用**
 

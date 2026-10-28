@@ -1,6 +1,6 @@
 # supervisely/supervisely
 
-⭐ 545 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/supervisely/supervisely) · [官网](https://supervisely.com) · 组织维护
+⭐ 546 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/supervisely/supervisely) · [官网](https://supervisely.com) · 组织维护
 
 **计算机视觉平台的 Python SDK：自动化与扩展标注平台**
 

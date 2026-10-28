@@ -1,6 +1,6 @@
 # usalu/semio
 
-⭐ 21 · HTML · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/usalu/semio) · [官网](https://play.semio-tech.com/) · 组织维护
+⭐ 21 · HTML · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/usalu/semio) · [官网](https://play.semio-tech.com/) · 组织维护
 
 **面向建筑领域的开源设计信息系统与工具生态（Kit-of-Parts 建模）**
 

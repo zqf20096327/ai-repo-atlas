@@ -1,6 +1,6 @@
 # unsupportedpastels/mercury
 
-⭐ 58 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unsupportedpastels/mercury) · 个人维护
+⭐ 59 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unsupportedpastels/mercury) · 个人维护
 
 **Hermes Agent 的非官方开源移动客户端（Android + iOS）**
 

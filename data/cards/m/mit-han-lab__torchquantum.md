@@ -1,6 +1,6 @@
 # mit-han-lab/torchquantum
 
-⭐ 1,675 · Jupyter Notebook · MIT · 推送 2026-07-06 · [GitHub](https://github.com/mit-han-lab/torchquantum) · [官网](https://torchquantum.org) · 组织维护
+⭐ 1,676 · Jupyter Notebook · MIT · 推送 2026-07-06 · [GitHub](https://github.com/mit-han-lab/torchquantum) · [官网](https://torchquantum.org) · 组织维护
 
 **基于 PyTorch 的量子经典模拟与量子机器学习框架**
 

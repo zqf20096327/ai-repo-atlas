@@ -1,6 +1,6 @@
 # opengeos/aws-open-data
 
-⭐ 69 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opengeos/aws-open-data) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/opengeos/aws-open-data) · 个人维护
 
 **AWS 开放数据集清单：以 TSV/JSON 形式每日更新的数据集目录**
 

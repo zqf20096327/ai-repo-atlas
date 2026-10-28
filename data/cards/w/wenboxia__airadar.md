@@ -1,6 +1,6 @@
 # wenboxia/airadar
 
-⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wenboxia/airadar) · [官网](https://wenboxia.github.io/airadar/) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wenboxia/airadar) · [官网](https://wenboxia.github.io/airadar/) · 个人维护 · 中文 README
 
 **每日定时运行的 AI 行业情报筛选与知识库工作流**
 

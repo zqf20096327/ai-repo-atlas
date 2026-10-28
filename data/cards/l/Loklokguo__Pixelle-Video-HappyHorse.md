@@ -1,6 +1,6 @@
 # Loklokguo/Pixelle-Video-HappyHorse
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/Loklokguo/Pixelle-Video-HappyHorse) · [官网](https://dashscope.aliyuncs.com) · 个人维护 · 中文 README
+⭐ 57 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/Loklokguo/Pixelle-Video-HappyHorse) · [官网](https://dashscope.aliyuncs.com) · 个人维护 · 中文 README
 
 **输入主题一键全自动生成短视频的 AI 引擎（含云端文生视频）**
 

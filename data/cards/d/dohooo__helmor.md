@@ -1,6 +1,6 @@
 # dohooo/helmor
 
-⭐ 1,309 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/dohooo/helmor) · [官网](https://helmor.ai) · 组织维护
+⭐ 1,308 · TypeScript · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/dohooo/helmor) · [官网](https://helmor.ai) · 组织维护
 
 **本地优先的编码 agent 编排工作台：并行运行、审查并合并多 agent 产出**
 

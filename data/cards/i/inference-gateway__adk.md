@@ -1,6 +1,6 @@
 # inference-gateway/adk
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/inference-gateway/adk) · 组织维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/inference-gateway/adk) · 组织维护
 
 **Go 语言的 A2A 协议 Agent 开发工具包**
 

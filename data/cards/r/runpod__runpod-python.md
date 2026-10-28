@@ -1,6 +1,6 @@
 # runpod/runpod-python
 
-⭐ 317 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/runpod/runpod-python) · [官网](https://pypi.org/project/runpod/) · 组织维护
+⭐ 317 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/runpod/runpod-python) · [官网](https://pypi.org/project/runpod/) · 组织维护
 
 **RunPod 官方 Python SDK：定义 GPU 函数并部署到云端**
 

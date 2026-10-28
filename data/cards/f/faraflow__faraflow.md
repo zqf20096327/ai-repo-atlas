@@ -1,6 +1,6 @@
 # faraflow/faraflow
 
-⭐ 49 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/faraflow/faraflow) · [官网](https://faraflow.ai) · 组织维护
+⭐ 49 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/faraflow/faraflow) · [官网](https://faraflow.ai) · 组织维护
 
 **面向业务的 AI agent 可视化工作流构建与执行引擎**
 

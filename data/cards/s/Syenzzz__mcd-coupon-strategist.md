@@ -1,6 +1,6 @@
 # Syenzzz/mcd-coupon-strategist
 
-⭐ 992 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Syenzzz/mcd-coupon-strategist) · [官网](https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md) · 个人维护 · 中文 README
+⭐ 993 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Syenzzz/mcd-coupon-strategist) · [官网](https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md) · 个人维护 · 中文 README
 
 **基于麦当劳中国 MCP 的点餐省钱技能：算最省方案与券流失**
 

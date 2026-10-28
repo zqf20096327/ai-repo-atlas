@@ -1,6 +1,6 @@
 # WecoAI/weco-cli
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/WecoAI/weco-cli) · [官网](https://weco.ai) · 组织维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/WecoAI/weco-cli) · [官网](https://weco.ai) · 组织维护
 
 **LLM 引导的代码自动优化 CLI，按评估指标迭代改进代码**
 

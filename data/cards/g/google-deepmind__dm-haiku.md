@@ -1,6 +1,6 @@
 # google-deepmind/dm-haiku
 
-⭐ 3,297 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/dm-haiku) · [官网](https://dm-haiku.readthedocs.io) · 组织维护
+⭐ 3,296 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/dm-haiku) · [官网](https://dm-haiku.readthedocs.io) · 组织维护
 
 **面向 JAX 的神经网络库：用面向对象模块构建可变换纯函数**
 

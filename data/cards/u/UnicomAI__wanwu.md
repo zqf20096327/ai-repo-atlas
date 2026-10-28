@@ -1,6 +1,6 @@
 # UnicomAI/wanwu
 
-⭐ 2,380 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/UnicomAI/wanwu) · 组织维护 · 中文 README
+⭐ 2,379 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/UnicomAI/wanwu) · 组织维护 · 中文 README
 
 **企业级多租户 AI Agent 开发平台，构建智能体、工作流与 RAG**
 

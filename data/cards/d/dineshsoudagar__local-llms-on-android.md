@@ -1,6 +1,6 @@
 # dineshsoudagar/local-llms-on-android
 
-⭐ 467 · Kotlin · MIT · 推送 2026-10-26 · [GitHub](https://github.com/dineshsoudagar/local-llms-on-android) · 个人维护
+⭐ 470 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dineshsoudagar/local-llms-on-android) · 个人维护
 
 **在 Android 手机上离线运行本地 LLM 聊天与局域网推理服务器的应用**
 

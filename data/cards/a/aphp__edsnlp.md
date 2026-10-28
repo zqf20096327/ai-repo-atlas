@@ -1,6 +1,6 @@
 # aphp/edsnlp
 
-⭐ 167 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/aphp/edsnlp) · [官网](https://aphp.github.io/edsnlp/) · 组织维护
+⭐ 167 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/aphp/edsnlp) · [官网](https://aphp.github.io/edsnlp/) · 组织维护
 
 **从法语临床病历中抽取信息的模块化 NLP 框架**
 

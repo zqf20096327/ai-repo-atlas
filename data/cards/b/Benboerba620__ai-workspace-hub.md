@@ -1,6 +1,6 @@
 # Benboerba620/ai-workspace-hub
 
-⭐ 82 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Benboerba620/ai-workspace-hub) · [官网](https://mp.weixin.qq.com/s?__biz=MzcwNTA3NjkzNQ==&mid=2247484256&idx=1&sn=8b7af107a56947b1d14b944445f19d38) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Benboerba620/ai-workspace-hub) · [官网](https://mp.weixin.qq.com/s?__biz=MzcwNTA3NjkzNQ==&mid=2247484256&idx=1&sn=8b7af107a56947b1d14b944445f19d38) · 个人维护 · 中文 README
 
 **把 AI 编程助手变成带长期记忆的投资研究工作台（文件协议）**
 

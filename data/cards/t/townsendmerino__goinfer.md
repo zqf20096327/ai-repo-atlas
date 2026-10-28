@@ -1,6 +1,6 @@
 # townsendmerino/goinfer
 
-⭐ 22 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/townsendmerino/goinfer) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/townsendmerino/goinfer) · 个人维护
 
 **纯 Go 无 cgo 的本地 LLM 推理库与服务器，单静态二进制运行开放权重模型**
 

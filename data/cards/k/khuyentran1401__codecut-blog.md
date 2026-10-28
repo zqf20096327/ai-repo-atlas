@@ -1,6 +1,6 @@
 # khuyentran1401/codecut-blog
 
-⭐ 42 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/khuyentran1401/codecut-blog) · [官网](https://codecut.ai/blog) · 个人维护
+⭐ 42 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/khuyentran1401/codecut-blog) · [官网](https://codecut.ai/blog) · 个人维护
 
 **45+ 篇数据科学/MLOps/AI 工具教程的代码仓库**
 

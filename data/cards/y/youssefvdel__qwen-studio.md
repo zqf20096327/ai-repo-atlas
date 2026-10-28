@@ -1,6 +1,6 @@
 # youssefvdel/qwen-studio
 
-⭐ 46 · Rust · 推送 2026-05-22 · [GitHub](https://github.com/youssefvdel/qwen-studio) · 个人维护 · 中文 README
+⭐ 47 · Rust · 推送 2026-05-22 · [GitHub](https://github.com/youssefvdel/qwen-studio) · 个人维护 · 中文 README
 
 **Linux 桌面端 Qwen 客户端：补齐官方 Windows/macOS 缺位**
 

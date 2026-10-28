@@ -1,6 +1,6 @@
 # openconnector-dev/openconnector
 
-⭐ 20 · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/openconnector-dev/openconnector) · [官网](https://openconnector.dev) · 组织维护
+⭐ 21 · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/openconnector-dev/openconnector) · [官网](https://openconnector.dev) · 组织维护
 
 **面向 AI agent 的自托管连接器平台（源码待发布）**
 

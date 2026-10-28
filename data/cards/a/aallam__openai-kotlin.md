@@ -1,6 +1,6 @@
 # aallam/openai-kotlin
 
-⭐ 1,851 · Kotlin · MIT · 推送 2026-02-07 · [GitHub](https://github.com/aallam/openai-kotlin) · 个人维护
+⭐ 1,850 · Kotlin · MIT · 推送 2026-02-07 · [GitHub](https://github.com/aallam/openai-kotlin) · 个人维护
 
 **面向 Kotlin 开发者的 OpenAI API 多平台客户端库**
 

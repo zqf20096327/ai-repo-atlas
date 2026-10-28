@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-FlashVSR
 
-⭐ 153 · Python · GPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/1038lab/ComfyUI-FlashVSR) · 个人维护
+⭐ 159 · Python · GPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/1038lab/ComfyUI-FlashVSR) · 个人维护
 
 **ComfyUI 自定义节点：基于 FlashVSR 模型做扩散视频超分**
 

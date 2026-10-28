@@ -1,6 +1,6 @@
 # cvg/LightGlue
 
-⭐ 4,848 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cvg/LightGlue) · 组织维护
+⭐ 4,849 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/cvg/LightGlue) · 组织维护
 
 **图像间稀疏局部特征匹配的深度神经网络（ICCV 2023）**
 

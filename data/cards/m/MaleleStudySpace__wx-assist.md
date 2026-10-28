@@ -1,6 +1,6 @@
 # MaleleStudySpace/wx-assist
 
-⭐ 130 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MaleleStudySpace/wx-assist) · [官网](https://wx-assist-landing.onrender.com/) · 个人维护 · 中文 README
+⭐ 131 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MaleleStudySpace/wx-assist) · [官网](https://wx-assist-landing.onrender.com/) · 个人维护 · 中文 README
 
 **本地运行的微信 AI 助手：群摘要、关键词提醒、收藏/朋友圈管理**
 

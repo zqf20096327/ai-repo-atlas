@@ -1,6 +1,6 @@
 # georg-jung/FastBertTokenizer
 
-⭐ 55 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/georg-jung/FastBertTokenizer) · [官网](https://fastberttokenizer.gjung.com/) · 个人维护
+⭐ 55 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/georg-jung/FastBertTokenizer) · [官网](https://fastberttokenizer.gjung.com/) · 个人维护
 
 **.NET 平台的 BERT WordPiece 分词库**
 

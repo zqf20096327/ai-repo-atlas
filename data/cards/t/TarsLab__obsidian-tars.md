@@ -1,6 +1,6 @@
 # TarsLab/obsidian-tars
 
-⭐ 334 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/TarsLab/obsidian-tars) · 个人维护 · 中文 README
+⭐ 333 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/TarsLab/obsidian-tars) · 个人维护 · 中文 README
 
 **Obsidian 标签触发多模型对话插件：#标签即问 AI**
 

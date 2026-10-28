@@ -1,6 +1,6 @@
 # huggingface/lerobot-humanoid-hardware
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-hardware) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/lerobot-humanoid-hardware) · 组织维护
 
 **LeRobot 人形机器人的开源硬件复现资料库**
 

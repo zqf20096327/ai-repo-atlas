@@ -1,6 +1,6 @@
 # TabbyML/tabby
 
-⭐ 33,923 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/TabbyML/tabby) · [官网](https://tabbyml.com) · 组织维护
+⭐ 33,926 · Rust · NOASSERTION · 推送 2026-06-30 · [GitHub](https://github.com/TabbyML/tabby) · [官网](https://tabbyml.com) · 组织维护
 
 **自托管 AI 编程助手：团队私有化部署代码补全与问答**
 

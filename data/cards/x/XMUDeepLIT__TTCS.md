@@ -1,6 +1,6 @@
 # XMUDeepLIT/TTCS
 
-⭐ 55 · Python · 推送 2026-10-23 · [GitHub](https://github.com/XMUDeepLIT/TTCS) · [官网](https://arxiv.org/abs/2601.22628) · 组织维护
+⭐ 56 · Python · 推送 2026-10-23 · [GitHub](https://github.com/XMUDeepLIT/TTCS) · [官网](https://arxiv.org/abs/2601.22628) · 组织维护
 
 **面向科研者的 LLM 数学推理测试时自进化训练框架**
 

@@ -1,6 +1,6 @@
 # scraed/LanPaint
 
-⭐ 1,470 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/scraed/LanPaint) · 个人维护
+⭐ 1,471 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/scraed/LanPaint) · 个人维护
 
 **ComfyUI 通用的免训练局部重绘采样器节点**
 

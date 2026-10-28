@@ -1,6 +1,6 @@
 # lkk688/DeepDataMiningLearning
 
-⭐ 37 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/lkk688/DeepDataMiningLearning) · [官网](https://deepdatamininglearning.readthedocs.io) · 组织维护
+⭐ 37 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/lkk688/DeepDataMiningLearning) · [官网](https://deepdatamininglearning.readthedocs.io) · 组织维护
 
 **面向 SJSU 课程的数据挖掘/机器学习/深度学习教学代码集**
 

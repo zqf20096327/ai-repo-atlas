@@ -1,6 +1,6 @@
 # ggml-org/llama.cpp
 
-⭐ 132,551 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
+⭐ 132,660 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/llama.cpp) · [官网](https://llama.app) · 组织维护
 
 **让开发者在本地和云端多种硬件上运行 LLM/VLM 推理**
 

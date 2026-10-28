@@ -1,6 +1,6 @@
 # zozo-ai-inc/zodiac
 
-⭐ 134 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/zozo-ai-inc/zodiac) · [官网](https://chat.zozo.sh) · 组织维护
+⭐ 133 · TypeScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/zozo-ai-inc/zodiac) · [官网](https://chat.zozo.sh) · 组织维护
 
 **面向创作者的 AI 角色扮演聊天前端，支持图像生成**
 

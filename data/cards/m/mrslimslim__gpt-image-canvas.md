@@ -1,6 +1,6 @@
 # mrslimslim/gpt-image-canvas
 
-⭐ 736 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/mrslimslim/gpt-image-canvas) · [官网](https://github.com/mrslimslim/gpt-image-canvas) · 个人维护 · 中文 README
+⭐ 737 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/mrslimslim/gpt-image-canvas) · [官网](https://github.com/mrslimslim/gpt-image-canvas) · 个人维护 · 中文 README
 
 **本地优先的 AI 图像画布：tldraw 画布上提示词生图与 Agent 规划**
 

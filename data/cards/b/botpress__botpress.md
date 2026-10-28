@@ -1,6 +1,6 @@
 # botpress/botpress
 
-⭐ 14,970 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
+⭐ 14,973 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/botpress/botpress) · [官网](https://botpress.com) · 组织维护
 
 **面向开发者的开源聊天机器人/Agent 构建与部署平台**
 

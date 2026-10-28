@@ -1,6 +1,6 @@
 # LettuceAI/app
 
-⭐ 149 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/LettuceAI/app) · [官网](https://lettuceai.app) · 组织维护
+⭐ 149 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/LettuceAI/app) · [官网](https://lettuceai.app) · 组织维护
 
 **隐私优先的本地优先 AI 角色扮演与故事创作应用**
 

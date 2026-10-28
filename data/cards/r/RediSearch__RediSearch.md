@@ -1,6 +1,6 @@
 # RediSearch/RediSearch
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 6,245 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/RediSearch/RediSearch) · [官网](https://redis.io/docs/latest/develop/ai/search-and-query/) · 组织维护
 
 **Redis 查询与索引引擎：全文检索、向量相似度与聚合**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

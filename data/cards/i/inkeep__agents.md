@@ -1,6 +1,6 @@
 # inkeep/agents
 
-⭐ 1,478 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/inkeep/agents) · [官网](https://docs.inkeep.com) · 组织维护
+⭐ 1,480 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/inkeep/agents) · [官网](https://docs.inkeep.com) · 组织维护
 
 **可视化+TypeScript 双模式构建 AI Agent 的开发平台**
 

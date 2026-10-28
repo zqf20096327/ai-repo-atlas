@@ -1,6 +1,6 @@
 # darshi1337/apogee
 
-⭐ 96 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/darshi1337/apogee) · [官网](https://darshi1337.github.io/apogee/) · 个人维护
+⭐ 98 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/darshi1337/apogee) · [官网](https://darshi1337.github.io/apogee/) · 个人维护
 
 **浏览器本地 AI 摘要扩展：离线总结网页/视频/PDF**
 

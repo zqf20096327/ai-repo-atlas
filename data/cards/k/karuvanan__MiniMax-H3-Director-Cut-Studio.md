@@ -1,6 +1,6 @@
 # karuvanan/MiniMax-H3-Director-Cut-Studio
 
-⭐ 149 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) · [官网](https://www.youtube.com/@imbiplazaASUS) · 个人维护 · 中文 README
+⭐ 148 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) · [官网](https://www.youtube.com/@imbiplazaASUS) · 个人维护 · 中文 README
 
 **面向 MiniMax H3 视频生成的本地 PySide6 导演剪辑工作台**
 

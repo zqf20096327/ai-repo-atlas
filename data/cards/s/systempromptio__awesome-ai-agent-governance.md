@@ -1,6 +1,6 @@
 # systempromptio/awesome-ai-agent-governance
 
-⭐ 54 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/systempromptio/awesome-ai-agent-governance) · [官网](https://systemprompt.io) · 组织维护
+⭐ 55 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/systempromptio/awesome-ai-agent-governance) · [官网](https://systemprompt.io) · 组织维护
 
 **面向生产环境 AI agent 治理的工具、标准与资源策展清单**
 

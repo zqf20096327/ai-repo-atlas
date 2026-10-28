@@ -1,6 +1,6 @@
 # jobovy/extreme-deconvolution
 
-⭐ 85 · Python · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/jobovy/extreme-deconvolution) · 个人维护
+⭐ 85 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jobovy/extreme-deconvolution) · 个人维护
 
 **从噪声异质数据估计分布的高斯混合去卷积库**
 

@@ -1,6 +1,6 @@
 # LeandroPG19/Memorys
 
-⭐ 30 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/LeandroPG19/Memorys) · [官网](https://registry.modelcontextprotocol.io) · 个人维护
+⭐ 30 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/LeandroPG19/Memorys) · [官网](https://registry.modelcontextprotocol.io) · 个人维护
 
 **给 AI 编程 agent 的持久记忆 MCP 服务器（Rust + PostgreSQL/pgvector）**
 

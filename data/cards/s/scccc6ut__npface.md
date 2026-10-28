@@ -1,6 +1,6 @@
 # scccc6ut/npface
 
-⭐ 91 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/scccc6ut/npface) · [官网](https://scccc6ut.github.io/npface/) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/scccc6ut/npface) · [官网](https://scccc6ut.github.io/npface/) · 个人维护 · 中文 README
 
 **AI agent 用的零依赖 SVG 头盔表情头像组件**
 

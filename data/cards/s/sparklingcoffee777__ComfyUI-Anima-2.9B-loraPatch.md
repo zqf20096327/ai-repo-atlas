@@ -1,6 +1,6 @@
 # sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch
 
-⭐ 48 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch) · 个人维护
+⭐ 49 · Python · GPL-3.0 · 推送 2026-08-17 · [GitHub](https://github.com/sparklingcoffee777/ComfyUI-Anima-2.9B-loraPatch) · 个人维护
 
 **ComfyUI 加载期补丁：将 28 块 Anima LoRA 正确映射到 40 块 Anima-2.9B**
 

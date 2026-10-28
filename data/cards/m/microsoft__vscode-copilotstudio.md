@@ -1,6 +1,6 @@
 # microsoft/vscode-copilotstudio
 
-⭐ 115 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/vscode-copilotstudio) · 组织维护
+⭐ 115 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/vscode-copilotstudio) · 组织维护
 
 **VS Code 扩展：在本地编辑与同步 Copilot Studio 智能体**
 

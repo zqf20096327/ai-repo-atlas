@@ -1,6 +1,6 @@
 # langchain-ai/langchain-nvidia
 
-⭐ 217 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-nvidia) · 组织维护
+⭐ 216 · Jupyter Notebook · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-nvidia) · 组织维护
 
 **NVIDIA 与 LangChain 集成的官方包合集**
 

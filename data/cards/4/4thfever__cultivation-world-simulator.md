@@ -1,6 +1,6 @@
 # 4thfever/cultivation-world-simulator
 
-⭐ 2,128 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/4thfever/cultivation-world-simulator) · 个人维护 · 中文 README
+⭐ 2,130 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/4thfever/cultivation-world-simulator) · 个人维护 · 中文 README
 
 **LLM 驱动全员 NPC 的修仙世界模拟器游戏**
 

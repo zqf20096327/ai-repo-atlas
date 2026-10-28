@@ -1,6 +1,6 @@
 # Andiii208/seu-handbook-skill
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Andiii208/seu-handbook-skill) · 个人维护 · 中文 README
+⭐ 53 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Andiii208/seu-handbook-skill) · 个人维护 · 中文 README
 
 **东南大学学生手册的 Agent Skill 知识包：带条款引用的规章问答**
 

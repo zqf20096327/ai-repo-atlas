@@ -1,6 +1,6 @@
 # PerryLink/dsh-github
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-github) · [官网](https://perrylink.github.io/plugins/dsh-github/) · 个人维护
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-github) · [官网](https://perrylink.github.io/plugins/dsh-github/) · 个人维护
 
 **DeepSeek Harness 的 GitHub 插件：PR/issue/CI 工具与审批门控**
 

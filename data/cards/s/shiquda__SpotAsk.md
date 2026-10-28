@@ -1,6 +1,6 @@
 # shiquda/SpotAsk
 
-⭐ 22 · Swift · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/shiquda/SpotAsk) · [官网](https://shiquda.github.io/SpotAsk/) · 个人维护 · 中文 README
+⭐ 22 · Swift · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/shiquda/SpotAsk) · [官网](https://shiquda.github.io/SpotAsk/) · 个人维护 · 中文 README
 
 **macOS 菜单栏 AI 助手：快捷键唤起提问并路由到多端**
 

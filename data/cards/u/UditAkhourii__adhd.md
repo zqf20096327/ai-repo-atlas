@@ -1,6 +1,6 @@
 # UditAkhourii/adhd
 
-⭐ 4,476 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/UditAkhourii/adhd) · [官网](https://divergent.sh) · 个人维护
+⭐ 4,482 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/UditAkhourii/adhd) · [官网](https://divergent.sh) · 个人维护
 
 **给编码 agent 的发散思维技能：并行多框架生成、评分并剪枝想法**
 

@@ -1,6 +1,6 @@
 # rse/ase
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rse/ase) · [官网](https://ase.tools) · 个人维护
+⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/rse/ase) · [官网](https://ase.tools) · 个人维护
 
 **面向开发者的 Agentic AI 编码工具箱：57 个技能扩展 Claude Code**
 

@@ -1,6 +1,6 @@
 # MerlinStacks/overseek
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/MerlinStacks/overseek) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MerlinStacks/overseek) · 组织维护
 
 **WooCommerce 自托管运营仪表盘：订单、库存、分析与客服一体**
 

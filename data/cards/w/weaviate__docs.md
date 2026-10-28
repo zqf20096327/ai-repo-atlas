@@ -1,6 +1,6 @@
 # weaviate/docs
 
-⭐ 20 · Python · 推送 2026-10-27 · [GitHub](https://github.com/weaviate/docs) · [官网](https://docs.weaviate.io) · 组织维护
+⭐ 20 · Python · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/docs) · [官网](https://docs.weaviate.io) · 组织维护
 
 **Weaviate 数据库、云服务与 Query Agent 的官方文档仓库**
 

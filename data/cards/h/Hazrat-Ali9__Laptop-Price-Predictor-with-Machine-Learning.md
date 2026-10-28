@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Laptop-Price-Predictor-with-Machine-Learning
 
-⭐ 22 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Laptop-Price-Predictor-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Laptop-Price-Predictor-with-Machine-Learning) · 个人维护
+⭐ 23 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Laptop-Price-Predictor-with-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Laptop-Price-Predictor-with-Machine-Learning) · 个人维护
 
 **基于硬件配置预测笔记本电脑价格的机器学习项目**
 

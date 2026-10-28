@@ -1,6 +1,6 @@
 # liiiiiiiiil/coding-agent-from-scratch
 
-⭐ 94 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/liiiiiiiiil/coding-agent-from-scratch) · 个人维护 · 中文 README
+⭐ 97 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/liiiiiiiiil/coding-agent-from-scratch) · 个人维护 · 中文 README
 
 **教程：用纯 Python 从零逐步搭建 AI 编程 Agent**
 

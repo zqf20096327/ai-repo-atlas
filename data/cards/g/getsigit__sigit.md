@@ -1,6 +1,6 @@
 # getsigit/sigit
 
-⭐ 58 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/getsigit/sigit) · [官网](https://zed.dev/acp/agent/sigit) · 组织维护
+⭐ 58 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/getsigit/sigit) · [官网](https://zed.dev/acp/agent/sigit) · 组织维护
 
 **本地优先的设备端 LLM 编程代理，可接入编辑器或终端使用**
 

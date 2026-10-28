@@ -1,6 +1,6 @@
 # promplate/partial-json-parser-js
 
-⭐ 246 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/promplate/partial-json-parser-js) · [官网](https://npmx.dev/partial-json) · 组织维护
+⭐ 246 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/promplate/partial-json-parser-js) · [官网](https://npmx.dev/partial-json) · 组织维护
 
 **解析 LLM 流式输出的不完整 JSON 的 JS 库**
 

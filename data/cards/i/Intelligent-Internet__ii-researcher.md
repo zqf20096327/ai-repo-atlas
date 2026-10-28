@@ -1,6 +1,6 @@
 # Intelligent-Internet/ii-researcher
 
-⭐ 504 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/Intelligent-Internet/ii-researcher) · [官网](https://www.ii.inc/web/blog/post/ii-researcher) · 组织维护
+⭐ 505 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/Intelligent-Internet/ii-researcher) · [官网](https://www.ii.inc/web/blog/post/ii-researcher) · 组织维护
 
 **给研究者的深度搜索 agent：自动检索网页并产出带引用的报告**
 

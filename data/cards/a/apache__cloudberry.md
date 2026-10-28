@@ -1,6 +1,6 @@
 # apache/cloudberry
 
-⭐ 1,436 · C · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/apache/cloudberry) · [官网](https://cloudberry.apache.org) · 组织维护
+⭐ 1,437 · C · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/apache/cloudberry) · [官网](https://cloudberry.apache.org) · 组织维护
 
 **源自 Greenplum 原班开发者的开源 MPP 分析型数据库**
 

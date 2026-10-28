@@ -1,6 +1,6 @@
 # tryAGI/OpenAI
 
-⭐ 37 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tryAGI/OpenAI) · [官网](https://tryagi.github.io/OpenAI/) · 组织维护
+⭐ 37 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tryAGI/OpenAI) · [官网](https://tryagi.github.io/OpenAI/) · 组织维护
 
 **基于官方 OpenAPI 规范生成的 OpenAI C#/.NET SDK**
 

@@ -1,6 +1,6 @@
 # nadermx/backgroundremover
 
-⭐ 8,131 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/nadermx/backgroundremover) · [官网](https://backgroundremoverai.com) · 个人维护
+⭐ 8,135 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/nadermx/backgroundremover) · [官网](https://backgroundremoverai.com) · 个人维护
 
 **用 AI 抠除图片与视频背景的命令行工具**
 

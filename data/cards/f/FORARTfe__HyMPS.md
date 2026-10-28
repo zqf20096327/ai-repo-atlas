@@ -1,6 +1,6 @@
 # FORARTfe/HyMPS
 
-⭐ 333 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/FORARTfe/HyMPS) · [官网](https://forart.it/HyMPS) · 个人维护
+⭐ 334 · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/FORARTfe/HyMPS) · [官网](https://forart.it/HyMPS) · 个人维护
 
 **音视频制作软件资源策展清单（AI 音频/视频分类）**
 

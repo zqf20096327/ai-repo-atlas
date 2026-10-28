@@ -1,6 +1,6 @@
 # Overbrilliant/ob-1
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Overbrilliant/ob-1) · [官网](https://overbrilliant.com) · 个人维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Overbrilliant/ob-1) · [官网](https://overbrilliant.com) · 个人维护
 
 **免账号免 API key 的终端编码 agent，并行子代理与自我纠错**
 

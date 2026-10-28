@@ -1,6 +1,6 @@
 # MiniMax-AI/awesome-minimax-integrations
 
-⭐ 80 · 推送 2026-01-30 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-integrations) · 组织维护 · 中文 README
+⭐ 81 · 推送 2026-01-30 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-integrations) · 组织维护 · 中文 README
 
 **MiniMax 多模态 API 集成应用策展清单**
 

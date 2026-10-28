@@ -1,6 +1,6 @@
 # PyModel/designer-skill
 
-⭐ 49 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/PyModel/designer-skill) · [官网](https://niblet.pymodel.com/) · 组织维护
+⭐ 50 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/PyModel/designer-skill) · [官网](https://niblet.pymodel.com/) · 组织维护
 
 **给编码 agent 加 UI 设计能力的 MCP 技能服务器**
 

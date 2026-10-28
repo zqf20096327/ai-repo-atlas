@@ -1,6 +1,6 @@
 # richardr1126/openreader
 
-⭐ 549 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
+⭐ 550 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
 
 **自托管友好的多格式文档朗读阅读器，支持同步高亮与有声书导出**
 

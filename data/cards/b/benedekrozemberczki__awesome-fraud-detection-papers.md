@@ -1,6 +1,6 @@
 # benedekrozemberczki/awesome-fraud-detection-papers
 
-⭐ 1,839 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) · 个人维护
+⭐ 1,840 · Python · CC0-1.0 · 推送 2026-01-05 · [GitHub](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) · 个人维护
 
 **欺诈检测研究论文策展清单（2022–2025，多会议）**
 

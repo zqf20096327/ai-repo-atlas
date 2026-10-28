@@ -1,6 +1,6 @@
 # VecSzn/PolyStrata
 
-⭐ 568 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VecSzn/PolyStrata) · 个人维护 · 中文 README
+⭐ 593 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/VecSzn/PolyStrata) · 个人维护 · 中文 README
 
 **本地运行大模型的推理引擎，含双引擎九模型与本地 API**
 

@@ -1,6 +1,6 @@
 # mshadmanrahman/claudecode-guide
 
-⭐ 45 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mshadmanrahman/claudecode-guide) · [官网](https://claudecodeguide.dev) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mshadmanrahman/claudecode-guide) · [官网](https://claudecodeguide.dev) · 个人维护
 
 **面向初学者到团队负责人的 Claude Code 使用指南站**
 

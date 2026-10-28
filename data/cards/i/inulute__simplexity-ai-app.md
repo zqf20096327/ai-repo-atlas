@@ -1,6 +1,6 @@
 # inulute/simplexity-ai-app
 
-⭐ 633 · JavaScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/simplexity-ai-app) · 个人维护
+⭐ 634 · JavaScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/simplexity-ai-app) · 个人维护
 
 **加载 Perplexity 网页服务的非官方 Electron 桌面客户端**
 

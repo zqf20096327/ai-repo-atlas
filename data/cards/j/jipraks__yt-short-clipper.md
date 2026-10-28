@@ -1,6 +1,6 @@
 # jipraks/yt-short-clipper
 
-⭐ 1,053 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jipraks/yt-short-clipper) · 个人维护
+⭐ 1,055 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jipraks/yt-short-clipper) · 个人维护
 
 **把长视频转成 9:16 短片的 Windows 桌面应用：LLM 选高光**
 

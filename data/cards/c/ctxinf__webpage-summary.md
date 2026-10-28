@@ -1,6 +1,6 @@
 # ctxinf/webpage-summary
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ctxinf/webpage-summary) · 个人维护 · 中文 README
+⭐ 71 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ctxinf/webpage-summary) · 个人维护 · 中文 README
 
 **浏览器扩展：用自己的 API key 调 AI 总结网页正文**
 

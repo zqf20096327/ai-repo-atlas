@@ -1,6 +1,6 @@
 # posstos/ai-relay-welfare
 
-⭐ 27 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/posstos/ai-relay-welfare) · [官网](https://posstos.github.io/ai-relay-welfare/) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/posstos/ai-relay-welfare) · [官网](https://posstos.github.io/ai-relay-welfare/) · 个人维护 · 中文 README
 
 **36 个 AI 中转站邀请链接合集，含签到状态与实测备注**
 

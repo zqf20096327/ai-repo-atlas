@@ -1,6 +1,6 @@
 # Portkey-AI/portkey-node-sdk
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 56 · TypeScript · 推送 2026-04-20 · [GitHub](https://github.com/Portkey-AI/portkey-node-sdk) · [官网](https://portkey.ai/docs) · 组织维护
 
 **Node.js SDK：通过 Portkey AI 网关统一接入与管理 LLM API**
 

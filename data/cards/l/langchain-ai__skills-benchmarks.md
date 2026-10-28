@@ -1,6 +1,6 @@
 # langchain-ai/skills-benchmarks
 
-⭐ 120 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/langchain-ai/skills-benchmarks) · 组织维护
+⭐ 119 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/langchain-ai/skills-benchmarks) · 组织维护
 
 **评测技能文档设计对 Claude Code 行为遵从度影响的基准测试框架**
 

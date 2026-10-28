@@ -1,6 +1,6 @@
 # ethanfel/ComfyUI-H3-Prompt-IDE
 
-⭐ 39 · JavaScript · GPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/ethanfel/ComfyUI-H3-Prompt-IDE) · 个人维护
+⭐ 40 · JavaScript · GPL-3.0 · 推送 2026-09-23 · [GitHub](https://github.com/ethanfel/ComfyUI-H3-Prompt-IDE) · 个人维护
 
 **ComfyUI 中 MiniMax H3 提示词的富文本编辑器节点**
 

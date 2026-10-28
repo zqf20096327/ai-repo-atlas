@@ -1,6 +1,6 @@
 # stepfun-ai/Step-3.5-Flash
 
-⭐ 2,088 · C++ · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/stepfun-ai/Step-3.5-Flash) · [官网](https://static.stepfun.com/blog/step-3.5-flash/) · 组织维护 · 中文 README
+⭐ 2,089 · C++ · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/stepfun-ai/Step-3.5-Flash) · [官网](https://static.stepfun.com/blog/step-3.5-flash/) · 组织维护 · 中文 README
 
 **196B 稀疏 MoE 开源基础模型，面向推理与 Agent 任务**
 

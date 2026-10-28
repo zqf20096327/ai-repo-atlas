@@ -1,6 +1,6 @@
 # Llaminar/llaminar
 
-⭐ 46 · C++ · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Llaminar/llaminar) · [官网](https://llaminar.ai) · 组织维护
+⭐ 47 · C++ · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Llaminar/llaminar) · [官网](https://llaminar.ai) · 组织维护
 
 **C++ 编写的 LLM 推理引擎，CPU/NVIDIA/AMD 混合并行**
 

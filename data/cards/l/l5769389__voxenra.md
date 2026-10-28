@@ -1,6 +1,6 @@
 # l5769389/voxenra
 
-⭐ 301 · Python · 推送 2026-10-26 · [GitHub](https://github.com/l5769389/voxenra) · [官网](https://l5769389.github.io/voxenra/) · 个人维护 · 中文 README
+⭐ 306 · Python · 推送 2026-10-28 · [GitHub](https://github.com/l5769389/voxenra) · [官网](https://l5769389.github.io/voxenra/) · 个人维护 · 中文 README
 
 **跨平台 DICOM 阅片工作台，带本地 AI 自动分割**
 

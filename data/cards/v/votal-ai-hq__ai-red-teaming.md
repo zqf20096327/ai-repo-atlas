@@ -1,6 +1,6 @@
 # votal-ai-hq/ai-red-teaming
 
-⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/votal-ai-hq/ai-red-teaming) · [官网](https://votal.ai) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/votal-ai-hq/ai-red-teaming) · [官网](https://votal.ai) · 组织维护
 
 **面向 Agent 应用的白盒 AI 红队测试框架：读源码生成定向攻击**
 

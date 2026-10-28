@@ -1,6 +1,6 @@
 # capitalone/DataProfiler
 
-⭐ 1,595 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/capitalone/DataProfiler) · [官网](https://capitalone.github.io/DataProfiler) · 组织维护
+⭐ 1,596 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/capitalone/DataProfiler) · [官网](https://capitalone.github.io/DataProfiler) · 组织维护
 
 **Python 数据画像库：分析数据集结构、统计信息并检测敏感数据**
 

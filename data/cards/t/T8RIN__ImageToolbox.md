@@ -1,6 +1,6 @@
 # T8RIN/ImageToolbox
 
-⭐ 15,210 · Kotlin · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
+⭐ 15,230 · Kotlin · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/T8RIN/ImageToolbox) · 个人维护
 
 **Android 图像编辑应用：裁剪、500+滤镜、EXIF、抠图、OCR**
 

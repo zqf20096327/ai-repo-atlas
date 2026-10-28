@@ -1,6 +1,6 @@
 # epam/ai-dial-core
 
-⭐ 661 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
+⭐ 661 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 核心组件：为多种 LLM 与应用提供统一 API 的 HTTP 代理**
 

@@ -1,6 +1,6 @@
 # raccioly/docguard
 
-⭐ 32 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/raccioly/docguard) · [官网](https://www.npmjs.com/package/docguard-cli) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/raccioly/docguard) · [官网](https://www.npmjs.com/package/docguard-cli) · 个人维护
 
 **校验项目文档一致性并为 AI agent 生成修复提示的 CLI 工具**
 

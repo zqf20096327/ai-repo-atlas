@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-go
 
-⭐ 1,232 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
+⭐ 1,234 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
 
 **Anthropic 官方 Go SDK：从 Go 应用调用 Claude API**
 

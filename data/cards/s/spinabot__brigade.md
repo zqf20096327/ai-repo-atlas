@@ -1,6 +1,6 @@
 # spinabot/brigade
 
-⭐ 11,361 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 组织维护
+⭐ 11,362 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 组织维护
 
 **自托管的个人 AI agent 团队运行时：多 agent 共享长期记忆**
 

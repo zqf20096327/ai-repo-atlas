@@ -1,6 +1,6 @@
 # xuiltul/animaworks
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/xuiltul/animaworks) · 组织维护
+⭐ 268 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/xuiltul/animaworks) · 组织维护
 
 **把持久 AI 代理组成自治软件组织的编排框架**
 

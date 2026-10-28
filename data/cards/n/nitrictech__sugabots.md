@@ -1,6 +1,6 @@
 # nitrictech/sugabots
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nitrictech/sugabots) · [官网](https://sugabots.ai) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nitrictech/sugabots) · [官网](https://sugabots.ai) · 组织维护
 
 **人与 AI agent 协同工作的自托管工作区平台**
 

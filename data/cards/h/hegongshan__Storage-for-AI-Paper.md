@@ -1,6 +1,6 @@
 # hegongshan/Storage-for-AI-Paper
 
-⭐ 67 · 推送 2026-10-27 · [GitHub](https://github.com/hegongshan/Storage-for-AI-Paper) · 个人维护
+⭐ 67 · 推送 2026-10-28 · [GitHub](https://github.com/hegongshan/Storage-for-AI-Paper) · 个人维护
 
 **存储视角加速 AI 训练与推理的必读论文清单**
 

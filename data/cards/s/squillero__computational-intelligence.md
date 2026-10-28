@@ -1,6 +1,6 @@
 # squillero/computational-intelligence
 
-⭐ 70 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/squillero/computational-intelligence) · [官网](https://staff.polito.it/giovanni.squillero/lectures/) · 组织维护
+⭐ 70 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/squillero/computational-intelligence) · [官网](https://staff.polito.it/giovanni.squillero/lectures/) · 组织维护
 
 **都灵理工大学计算智能课程的讲义与代码片段集**
 

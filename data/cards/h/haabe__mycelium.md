@@ -1,6 +1,6 @@
 # haabe/mycelium
 
-⭐ 47 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/haabe/mycelium) · [官网](https://github.com/haabe/mycelium/blob/main/docs/get-started.md) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haabe/mycelium) · [官网](https://github.com/haabe/mycelium/blob/main/docs/get-started.md) · 个人维护
 
 **Claude Code 插件：用四问门槛约束 AI 编程代理先验证再动工**
 

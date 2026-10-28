@@ -1,6 +1,6 @@
 # langchain-ai/social-media-agent
 
-⭐ 2,959 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/social-media-agent) · 组织维护
+⭐ 2,965 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/social-media-agent) · 组织维护
 
 **生成并发布 Twitter/LinkedIn 帖子的 HITL 社媒 agent**
 

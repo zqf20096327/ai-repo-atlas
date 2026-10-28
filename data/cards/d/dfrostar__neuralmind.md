@@ -1,6 +1,6 @@
 # dfrostar/neuralmind
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dfrostar/neuralmind) · [官网](https://dfrostar.github.io/neuralmind/) · 个人维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/dfrostar/neuralmind) · [官网](https://dfrostar.github.io/neuralmind/) · 个人维护
 
 **给 AI 编程 agent 的本地代码库持久记忆层**
 

@@ -1,6 +1,6 @@
 # The-Distillery-dev/thedistillery
 
-⭐ 72 · TypeScript · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/The-Distillery-dev/thedistillery) · [官网](https://thedistillery.dev) · 组织维护
+⭐ 75 · TypeScript · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/The-Distillery-dev/thedistillery) · [官网](https://thedistillery.dev) · 组织维护
 
 **本地 token 优化代理：削减 AI 编码工具发往模型的输入 token**
 

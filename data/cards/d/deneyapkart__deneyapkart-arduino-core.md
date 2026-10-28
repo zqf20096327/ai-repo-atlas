@@ -1,6 +1,6 @@
 # deneyapkart/deneyapkart-arduino-core
 
-⭐ 53 · C++ · LGPL-2.1 · 推送 2026-10-16 · [GitHub](https://github.com/deneyapkart/deneyapkart-arduino-core) · [官网](https://docs.deneyapkart.org/) · 组织维护
+⭐ 53 · C++ · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/deneyapkart/deneyapkart-arduino-core) · [官网](https://docs.deneyapkart.org/) · 组织维护
 
 **土耳其 Deneyap 开发板的 Arduino Core 板级支持包**
 

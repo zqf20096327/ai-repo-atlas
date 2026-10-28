@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-⭐ 10,140 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
+⭐ 10,153 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
 
 **让 AI 客户端控制终端、文件系统与进程的 MCP 服务器**
 

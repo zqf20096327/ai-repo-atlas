@@ -1,6 +1,6 @@
 # peterdsp/PromptBar
 
-⭐ 52 · Swift · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/peterdsp/PromptBar) · [官网](https://promptbar.peterdsp.dev) · 个人维护
+⭐ 52 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/peterdsp/PromptBar) · [官网](https://promptbar.peterdsp.dev) · 个人维护
 
 **macOS 菜单栏 AI 聊天容器：封装任意网页聊天与 BYO Key API 端点**
 

@@ -1,6 +1,6 @@
 # virastack/start
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/virastack/start) · [官网](https://www.virastack.com/start/) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/virastack/start) · [官网](https://www.virastack.com/start/) · 个人维护
 
 **为 Next.js/TanStack Start 生成项目脚手架并配置 AI 编码规则**
 

@@ -1,6 +1,6 @@
 # betweentwomidnights/gary4juce
 
-⭐ 106 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/betweentwomidnights/gary4juce) · 个人维护
+⭐ 106 · C++ · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/betweentwomidnights/gary4juce) · 个人维护
 
 **在 DAW 内运行 8 个开源 AI 音乐模型的 VST3/AU 插件**
 

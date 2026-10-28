@@ -1,6 +1,6 @@
 # xxxily/hello-ai
 
-⭐ 1,405 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xxxily/hello-ai) · [官网](https://hello-ai.anzz.site/explore) · 个人维护 · 中文 README
+⭐ 1,408 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xxxily/hello-ai) · [官网](https://hello-ai.anzz.site/explore) · 个人维护 · 中文 README
 
 **AI 自动维护的开源 AI 项目导航站，收录 2.6 万项目**
 

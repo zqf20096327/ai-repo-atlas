@@ -1,6 +1,6 @@
 # RevEngAI/plugin-ida
 
-⭐ 163 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
+⭐ 163 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
 
 **逆向工程师用的 IDA Pro 插件：云端 AI 二进制分析与函数命名**
 

@@ -1,6 +1,6 @@
 # Rekin226/aquascope
 
-⭐ 31 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Rekin226/aquascope) · [官网](https://rekin226-aquascope-explorer.static.hf.space/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Rekin226/aquascope) · [官网](https://rekin226-aquascope-explorer.static.hf.space/) · 个人维护
 
 **浏览器端水文数据分析工具：统一37个全球水数据源并自动执行分析流程**
 

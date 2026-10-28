@@ -1,6 +1,6 @@
 # supabase/supabase
 
-⭐ 114,157 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
+⭐ 114,255 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/supabase/supabase) · [官网](https://supabase.com) · 组织维护
 
 **给 Web/移动/AI 应用开发者提供 Postgres 后端开发平台**
 

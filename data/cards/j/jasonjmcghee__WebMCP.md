@@ -1,6 +1,6 @@
 # jasonjmcghee/WebMCP
 
-⭐ 916 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/jasonjmcghee/WebMCP) · [官网](https://webmcp.dev/) · 个人维护
+⭐ 917 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/jasonjmcghee/WebMCP) · [官网](https://webmcp.dev/) · 个人维护
 
 **让网站成为 MCP 服务器向本地 LLM 暴露工具的早期提案实现**
 

@@ -1,6 +1,6 @@
 # ZhishaBai-web/help-you-find-job
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ZhishaBai-web/help-you-find-job) · [官网](https://app-you-find-job-sszicd3jn6vphnuuhtm84a.streamlit.app/) · 个人维护 · 中文 README
+⭐ 62 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/ZhishaBai-web/help-you-find-job) · [官网](https://app-you-find-job-sszicd3jn6vphnuuhtm84a.streamlit.app/) · 个人维护 · 中文 README
 
 **面向中国求职者的 AI 求职助手：画像—规划—采集—匹配—分析全流程**
 

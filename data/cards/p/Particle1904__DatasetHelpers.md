@@ -1,6 +1,6 @@
 # Particle1904/DatasetHelpers
 
-⭐ 229 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Particle1904/DatasetHelpers) · 个人维护
+⭐ 229 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Particle1904/DatasetHelpers) · 个人维护
 
 **图像-文本数据集预处理桌面工具：选图、裁剪、打标一体化**
 

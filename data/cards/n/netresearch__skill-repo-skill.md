@@ -1,6 +1,6 @@
 # netresearch/skill-repo-skill
 
-⭐ 22 · Shell · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/netresearch/skill-repo-skill) · [官网](https://netresearch.github.io/skill-repo-skill/) · 组织维护
+⭐ 22 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/netresearch/skill-repo-skill) · [官网](https://netresearch.github.io/skill-repo-skill/) · 组织维护
 
 **规范化 agent 技能仓库结构与发布流程的 Claude Code 技能**
 

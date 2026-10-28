@@ -1,6 +1,6 @@
 # gokayfem/awesome-vlm-architectures
 
-⭐ 1,347 · Markdown · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/gokayfem/awesome-vlm-architectures) · 个人维护
+⭐ 1,353 · Markdown · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/gokayfem/awesome-vlm-architectures) · 个人维护
 
 **155+ 视觉-语言模型架构的可视化编目清单**
 

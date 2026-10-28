@@ -1,6 +1,6 @@
 # FirePlank/infinite-chess-engine
 
-⭐ 28 · Rust · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/FirePlank/infinite-chess-engine) · 个人维护
+⭐ 28 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/FirePlank/infinite-chess-engine) · 个人维护
 
 **为 Infinite Chess 网站编写的无限棋盘 Rust 国际象棋引擎**
 

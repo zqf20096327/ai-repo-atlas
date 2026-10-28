@@ -1,6 +1,6 @@
 # beckettharriman/openfill
 
-⭐ 136 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/beckettharriman/openfill) · [官网](https://github.com/beckettharriman/openfill/releases) · 个人维护
+⭐ 158 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/beckettharriman/openfill) · [官网](https://github.com/beckettharriman/openfill/releases) · 个人维护
 
 **给 GIMP 3/PhotoCraft 用户的本地生成式填充/消除/扩图插件**
 

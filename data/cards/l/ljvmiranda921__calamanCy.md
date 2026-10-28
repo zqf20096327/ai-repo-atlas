@@ -1,6 +1,6 @@
 # ljvmiranda921/calamanCy
 
-⭐ 75 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ljvmiranda921/calamanCy) · [官网](https://ljvmiranda921.github.io/calamanCy/) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ljvmiranda921/calamanCy) · [官网](https://ljvmiranda921.github.io/calamanCy/) · 个人维护
 
 **面向他加禄语（Tagalog）的 spaCy NLP 工具包与模型库**
 

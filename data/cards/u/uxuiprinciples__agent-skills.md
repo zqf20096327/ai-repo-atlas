@@ -1,6 +1,6 @@
 # uxuiprinciples/agent-skills
 
-⭐ 26 · 推送 2026-08-31 · [GitHub](https://github.com/uxuiprinciples/agent-skills) · [官网](https://uxuiprinciples.com) · 组织维护
+⭐ 27 · 推送 2026-08-31 · [GitHub](https://github.com/uxuiprinciples/agent-skills) · [官网](https://uxuiprinciples.com) · 组织维护
 
 **给 AI agent 注入 UX 专业能力的五个 SKILL.md 技能文件**
 

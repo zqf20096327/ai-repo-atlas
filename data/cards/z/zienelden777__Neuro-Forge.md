@@ -1,6 +1,6 @@
 # zienelden777/Neuro-Forge
 
-⭐ 56 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/zienelden777/Neuro-Forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/zienelden777/Neuro-Forge) · 个人维护
 
 **浏览器端认知训练小游戏合集（7 款，纯前端）**
 

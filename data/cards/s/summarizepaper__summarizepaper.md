@@ -1,6 +1,6 @@
 # summarizepaper/summarizepaper
 
-⭐ 312 · Python · 推送 2026-10-27 · [GitHub](https://github.com/summarizepaper/summarizepaper) · 个人维护
+⭐ 312 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/summarizepaper/summarizepaper) · [官网](https://www.summarizepaper.com) · 个人维护
 
 **arXiv 论文 AI 摘要网站，附全文问答助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

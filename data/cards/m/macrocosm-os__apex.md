@@ -1,6 +1,6 @@
 # macrocosm-os/apex
 
-⭐ 139 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/macrocosm-os/apex) · [官网](https://apex.macrocosmos.ai/) · 组织维护
+⭐ 138 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/macrocosm-os/apex) · [官网](https://apex.macrocosmos.ai/) · 组织维护
 
 **Bittensor 子网平台：把可度量问题外包给全球竞争网络求解**
 

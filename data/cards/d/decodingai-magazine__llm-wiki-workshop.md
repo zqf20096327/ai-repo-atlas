@@ -1,6 +1,6 @@
 # decodingai-magazine/llm-wiki-workshop
 
-⭐ 40 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/decodingai-magazine/llm-wiki-workshop) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/decodingai-magazine/llm-wiki-workshop) · 组织维护
 
 **从第一性原理设计 LLM wiki 的工作坊：3 个练习与开源代码**
 

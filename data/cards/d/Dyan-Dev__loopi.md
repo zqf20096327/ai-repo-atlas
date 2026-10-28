@@ -1,6 +1,6 @@
 # Dyan-Dev/loopi
 
-⭐ 197 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/Dyan-Dev/loopi) · [官网](https://loopi.dyan.live/) · 个人维护
+⭐ 198 · TypeScript · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/Dyan-Dev/loopi) · [官网](https://loopi.dyan.live/) · 个人维护
 
 **本地运行的桌面自动化平台：可视化工作流+浏览器/光标键盘/命令行控制+AI agent**
 

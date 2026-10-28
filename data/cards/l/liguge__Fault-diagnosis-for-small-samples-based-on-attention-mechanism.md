@@ -1,6 +1,6 @@
 # liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism
 
-⭐ 293 · Python · 推送 2026-05-25 · [GitHub](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) · 个人维护 · 中文 README
+⭐ 294 · Python · 推送 2026-05-25 · [GitHub](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) · 个人维护 · 中文 README
 
 **论文代码：注意力机制的小样本旋转机械故障诊断（PyTorch）**
 

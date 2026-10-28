@@ -1,6 +1,6 @@
 # photon-hq/spectrum-ts
 
-⭐ 2,157 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
+⭐ 2,164 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
 
 **多渠道 agent 框架：让 AI agent 运行在 iMessage/SMS 等真实通讯界面**
 

@@ -1,6 +1,6 @@
 # praxis-proxy/praxis
 
-⭐ 100 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/praxis-proxy/praxis) · [官网](https://praxis.fast) · 组织维护
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/praxis-proxy/praxis) · [官网](https://praxis.fast) · 组织维护
 
 **Rust 编写的代理服务器构建框架**
 

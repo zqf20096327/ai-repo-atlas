@@ -1,6 +1,6 @@
 # ndif-team/nnsight
 
-⭐ 1,133 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ndif-team/nnsight) · [官网](https://nnsight.net/) · 组织维护
+⭐ 1,134 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ndif-team/nnsight) · [官网](https://nnsight.net/) · 组织维护
 
 **给科研者：追踪并干预 PyTorch 模型内部机制的库**
 

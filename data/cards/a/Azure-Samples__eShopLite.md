@@ -1,6 +1,6 @@
 # Azure-Samples/eShopLite
 
-⭐ 168 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Azure-Samples/eShopLite) · [官网](https://aka.ms/eshoplite/repo) · 组织维护
+⭐ 169 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Azure-Samples/eShopLite) · [官网](https://aka.ms/eshoplite/repo) · 组织维护
 
 **面向开发者的 .NET AI 电商参考应用集（18 个场景）**
 

@@ -1,6 +1,6 @@
 # Gyyyn/OpenWebTTS
 
-⭐ 74 · JavaScript · MIT · 推送 2025-11-14 · [GitHub](https://github.com/Gyyyn/OpenWebTTS) · [官网](https://openwebtts.guyra.com.br/) · 个人维护
+⭐ 75 · JavaScript · MIT · 推送 2025-11-14 · [GitHub](https://github.com/Gyyyn/OpenWebTTS) · [官网](https://openwebtts.guyra.com.br/) · 个人维护
 
 **本地自托管的 TTS 网页应用：用本地模型朗读 PDF/EPUB**
 

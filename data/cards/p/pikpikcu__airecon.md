@@ -1,6 +1,6 @@
 # pikpikcu/airecon
 
-⭐ 1,080 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
+⭐ 1,082 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
 
 **面向渗透测试与Bug Bounty的自主安全agent，本地LLM驱动**
 

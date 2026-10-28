@@ -1,6 +1,6 @@
 # jcmgray/autoray
 
-⭐ 174 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/jcmgray/autoray) · [官网](https://autoray.readthedocs.io) · 个人维护
+⭐ 175 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/jcmgray/autoray) · [官网](https://autoray.readthedocs.io) · 个人维护
 
 **后端无关的张量运算抽象库：一套代码适配多个数组框架**
 

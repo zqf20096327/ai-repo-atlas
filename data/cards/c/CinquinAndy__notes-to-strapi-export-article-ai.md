@@ -1,6 +1,6 @@
 # CinquinAndy/notes-to-strapi-export-article-ai
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) · 个人维护
 
 **将 Obsidian 笔记导出到 Strapi 的插件，带 AI frontmatter 与 SEO 处理**
 

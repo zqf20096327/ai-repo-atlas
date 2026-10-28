@@ -1,6 +1,6 @@
 # mlr-org/mlr3extralearners
 
-⭐ 115 · R · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlr-org/mlr3extralearners) · [官网](https://mlr3extralearners.mlr-org.com/) · 组织维护
+⭐ 115 · R · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/mlr-org/mlr3extralearners) · [官网](https://mlr3extralearners.mlr-org.com/) · 组织维护
 
 **为 mlr3 机器学习框架提供扩展学习器的 R 包**
 

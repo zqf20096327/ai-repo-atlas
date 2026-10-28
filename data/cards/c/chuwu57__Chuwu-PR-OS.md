@@ -1,6 +1,6 @@
 # chuwu57/Chuwu-PR-OS
 
-⭐ 83 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/chuwu57/Chuwu-PR-OS) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/chuwu57/Chuwu-PR-OS) · 个人维护 · 中文 README
 
 **公关、研究与知识维护的14项Agent Skill合集（方法/参考/模板/脚本）**
 

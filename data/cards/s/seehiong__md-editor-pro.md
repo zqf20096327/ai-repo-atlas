@@ -1,6 +1,6 @@
 # seehiong/md-editor-pro
 
-⭐ 172 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/seehiong/md-editor-pro) · [官网](https://seehiong.github.io/md-editor-pro/) · 个人维护
+⭐ 173 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/seehiong/md-editor-pro) · [官网](https://seehiong.github.io/md-editor-pro/) · 个人维护
 
 **React Markdown 编辑器组件：分屏预览、LaTeX、可选 AI 辅助**
 

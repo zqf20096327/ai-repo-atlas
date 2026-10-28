@@ -1,6 +1,6 @@
 # ostrium-labs/loams
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ostrium-labs/loams) · [官网](https://loams.dev) · 组织维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ostrium-labs/loams) · [官网](https://loams.dev) · 组织维护
 
 **开源 AI 原生数据平台：单桶承载混合检索、SQL、图与 agent 运行**
 

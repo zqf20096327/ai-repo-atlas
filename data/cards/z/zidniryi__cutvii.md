@@ -1,6 +1,6 @@
 # zidniryi/cutvii
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zidniryi/cutvii) · [官网](https://cutvii.space) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zidniryi/cutvii) · [官网](https://cutvii.space) · 个人维护
 
 **离线优先的跨平台开源桌面视频编辑器，含端侧 AI 功能**
 

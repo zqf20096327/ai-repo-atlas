@@ -1,1 +1,80 @@
-{"fn": "PxA-Labs/AgentsScope", "sha": "d8588943132b", "source": "readme", "identity": {"one_liner": "自托管多智能体 AI 管线的可观测性仪表盘", "review": "面向多智能体 AI 管线开发者的开源自托管可观测性工具：在 Python 代码中加入两行回调（AgentScopeCallback），即可在本地仪表盘查看实时事件流、Agent 调用 DAG 图、token 用量与成本估算、事件详情与历史会话。架构为 Python SDK 经 WebSocket 连接 FastAPI 服务端（SQLite 默认/可选 PostgreSQL），Next.js 前端展示。通过 docker compose 一键启动；官方声明主要面向本地开发调试，非生产环境工具；当前集成 LangChain 0.2+，CrewAI 支持在路线图中。", "highlights": ["两行代码接入，实时事件流与 Agent DAG 可视化", "token 用量统计、成本估算与延迟热力图", "自托管，数据存于本地 SQLite（可选 PostgreSQL），无云依赖", "SDK 采用 fire-and-forget 后台任务，不阻塞 agent 管线"], "use_cases": ["调试多智能体管线时替代 verbose 日志查看运行过程", "追踪 agent 管线的 token 消耗与成本", "回放并对比历史会话的运行结果"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [183]}}, "links": {"scenario_tags": ["可观测性", "多智能体", "LLM基础设施", "自托管", "调试工具"], "domain": "LLM 基础设施/可观测性", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L30: **AgentScope** is a lightweight, open-source, self-hosted observability dashboard designed specifically for multi-agent ", "L62: - **LangChain Integration** — Works with LangChain 0.2+ out of the box"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "PxA-Labs/AgentsScope",
+ "sha": "d8588943132b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管多智能体 AI 管线的可观测性仪表盘",
+  "review": "面向多智能体 AI 管线开发者的开源自托管可观测性工具：在 Python 代码中加入两行回调（AgentScopeCallback），即可在本地仪表盘查看实时事件流、Agent 调用 DAG 图、token 用量与成本估算、事件详情与历史会话。架构为 Python SDK 经 WebSocket 连接 FastAPI 服务端（SQLite 默认/可选 PostgreSQL），Next.js 前端展示。通过 docker compose 一键启动；官方声明主要面向本地开发调试，非生产环境工具；当前集成 LangChain 0.2+，CrewAI 支持在路线图中。",
+  "highlights": [
+   "两行代码接入，实时事件流与 Agent DAG 可视化",
+   "token 用量统计、成本估算与延迟热力图",
+   "自托管，数据存于本地 SQLite（可选 PostgreSQL），无云依赖",
+   "SDK 采用 fire-and-forget 后台任务，不阻塞 agent 管线"
+  ],
+  "use_cases": [
+   "调试多智能体管线时替代 verbose 日志查看运行过程",
+   "追踪 agent 管线的 token 消耗与成本",
+   "回放并对比历史会话的运行结果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    183
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "可观测性",
+   "多智能体",
+   "LLM基础设施",
+   "自托管",
+   "调试工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "llm-observability",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L30: **AgentScope** is a lightweight, open-source, self-hosted observability dashboard designed specifically for multi-agent ",
+   "L62: - **LangChain Integration** — Works with LangChain 0.2+ out of the box"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

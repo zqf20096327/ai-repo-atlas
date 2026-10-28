@@ -1,6 +1,6 @@
 # google-deepmind/synthidbio
 
-⭐ 25 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google-deepmind/synthidbio) · 组织维护
+⭐ 26 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/google-deepmind/synthidbio) · 组织维护
 
 **DeepMind 的 AI 生成生物序列/结构水印方法套件**
 

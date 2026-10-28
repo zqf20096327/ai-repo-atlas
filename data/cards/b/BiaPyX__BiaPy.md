@@ -1,6 +1,6 @@
 # BiaPyX/BiaPy
 
-⭐ 215 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BiaPyX/BiaPy) · [官网](https://BiaPyX.github.io) · 组织维护
+⭐ 215 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BiaPyX/BiaPy) · [官网](https://BiaPyX.github.io) · 组织维护
 
 **生物图像深度学习工作流库：覆盖分割/检测/去噪等任务**
 

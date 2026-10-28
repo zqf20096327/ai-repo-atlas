@@ -1,6 +1,6 @@
 # MoonInTheRiver/DiffSinger
 
-⭐ 4,887 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/MoonInTheRiver/DiffSinger) · 组织维护 · 中文 README
+⭐ 4,889 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/MoonInTheRiver/DiffSinger) · 组织维护 · 中文 README
 
 **AAAI 2022 论文官方实现：浅层扩散机制的歌声与语音合成**
 

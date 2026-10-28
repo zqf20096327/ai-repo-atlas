@@ -1,6 +1,6 @@
 # Qulacs-Osaka/scikit-qulacs
 
-⭐ 25 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Qulacs-Osaka/scikit-qulacs) · [官网](https://qulacs-osaka.github.io/scikit-qulacs/index.html) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Qulacs-Osaka/scikit-qulacs) · [官网](https://qulacs-osaka.github.io/scikit-qulacs/index.html) · 组织维护
 
 **基于 qulacs 的量子神经网络 Python 库**
 

@@ -1,6 +1,6 @@
 # KochC/opencode-llm-proxy
 
-⭐ 81 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/KochC/opencode-llm-proxy) · [官网](https://www.npmjs.com/package/opencode-llm-proxy) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/KochC/opencode-llm-proxy) · [官网](https://www.npmjs.com/package/opencode-llm-proxy) · 个人维护
 
 **给开发者的 OpenCode 插件：本地 LLM 网关，统一转换多种 API 格式**
 

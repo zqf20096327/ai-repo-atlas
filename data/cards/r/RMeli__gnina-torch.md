@@ -1,6 +1,6 @@
 # RMeli/gnina-torch
 
-⭐ 77 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/RMeli/gnina-torch) · [官网](https://gnina-torch.rtfd.io) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/RMeli/gnina-torch) · [官网](https://gnina-torch.rtfd.io) · 个人维护
 
 **GNINA 分子对接评分函数的 PyTorch 实现，供训练与推理**
 

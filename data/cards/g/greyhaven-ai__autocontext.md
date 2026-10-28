@@ -1,6 +1,6 @@
 # greyhaven-ai/autocontext
 
-⭐ 1,312 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/greyhaven-ai/autocontext) · 组织维护
+⭐ 1,312 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/greyhaven-ai/autocontext) · 组织维护
 
 **面向 agent 的自改进运行框架：跑任务、评估、留存经验**
 

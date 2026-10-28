@@ -1,6 +1,6 @@
 # mrdbourke/pytorch-deep-learning
 
-⭐ 19,290 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
+⭐ 19,297 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/mrdbourke/pytorch-deep-learning) · [官网](https://learnpytorch.io) · 个人维护
 
 **面向深度学习初学者的 PyTorch 免费课程材料库**
 

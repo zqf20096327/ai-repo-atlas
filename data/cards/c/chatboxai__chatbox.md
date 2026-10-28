@@ -1,6 +1,6 @@
 # chatboxai/chatbox
 
-⭐ 42,163 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
+⭐ 42,169 · TypeScript · GPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/chatboxai/chatbox) · [官网](https://chatboxai.app?utm_medium=github) · 组织维护 · 中文 README
 
 **面向桌面/移动端用户的多模型 AI 聊天客户端**
 

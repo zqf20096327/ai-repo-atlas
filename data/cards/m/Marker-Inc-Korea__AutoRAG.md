@@ -1,6 +1,6 @@
 # Marker-Inc-Korea/AutoRAG
 
-⭐ 5,201 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护 · 中文 README
+⭐ 5,237 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护 · 中文 README
 
 **本地自进化图书管理员 agent：跨文件与聊天数据检索并生成带引用答案**
 

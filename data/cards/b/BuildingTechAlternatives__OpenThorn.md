@@ -1,6 +1,6 @@
 # BuildingTechAlternatives/OpenThorn
 
-⭐ 26 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/BuildingTechAlternatives/OpenThorn) · [官网](https://www.openthorn.app) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/BuildingTechAlternatives/OpenThorn) · [官网](https://www.openthorn.app) · 个人维护
 
 **浏览器端 BYOK AI 建站工具：自带 API key 生成并部署网站**
 

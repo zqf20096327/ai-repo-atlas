@@ -1,6 +1,6 @@
 # The-Vibe-Company/megaparse
 
-⭐ 7,416 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/The-Vibe-Company/megaparse) · [官网](https://megaparse.com) · 组织维护
+⭐ 7,417 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/The-Vibe-Company/megaparse) · [官网](https://megaparse.com) · 组织维护
 
 **面向 LLM 摄取的文档解析器：无损转换 PDF/Office 文件**
 

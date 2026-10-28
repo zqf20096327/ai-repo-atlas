@@ -1,6 +1,6 @@
 # wkentaro/labelme
 
-⭐ 16,246 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
+⭐ 16,248 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/wkentaro/labelme) · [官网](https://labelme.io) · 个人维护
 
 **给 CV 研究者/开发者的图形化图像标注工具，含 AI 辅助标注**
 

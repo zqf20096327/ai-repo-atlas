@@ -1,6 +1,6 @@
 # KenKaiii/gg-framework
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://skool.com/kenkai) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://skool.com/kenkai) · 个人维护
 
 **桌面 AI 编程与聊天应用，支持多模型接入与视频生成**
 

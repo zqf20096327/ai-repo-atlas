@@ -1,6 +1,6 @@
 # softwaremill/sttp-ai
 
-⭐ 106 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/softwaremill/sttp-ai) · [官网](https://sttp-ai.softwaremill.com) · 组织维护
+⭐ 106 · Scala · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/softwaremill/sttp-ai) · [官网](https://sttp-ai.softwaremill.com) · 组织维护
 
 **Scala 的 LLM 客户端工具包：接入多家模型 API 并构建 agent**
 

@@ -1,6 +1,6 @@
 # devoidfury/hotdog
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/devoidfury/hotdog) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/devoidfury/hotdog) · 个人维护
 
 **零依赖的本地开源权重 AI agent 运行框架**
 

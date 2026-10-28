@@ -1,6 +1,6 @@
 # thediymaker/obleth-gateway
 
-⭐ 24 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/thediymaker/obleth-gateway) · [官网](https://obleth.com) · 组织维护
+⭐ 24 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/thediymaker/obleth-gateway) · [官网](https://obleth.com) · 组织维护
 
 **面向共享 GPU 集群的多租户 AI 网关：公平调度与统一接入**
 

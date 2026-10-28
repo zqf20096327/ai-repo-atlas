@@ -1,6 +1,6 @@
 # BigSweetPotatoStudio/HyperChat
 
-⭐ 707 · TypeScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/BigSweetPotatoStudio/HyperChat) · 组织维护 · 中文 README
+⭐ 708 · TypeScript · NOASSERTION · 推送 2026-08-26 · [GitHub](https://github.com/BigSweetPotatoStudio/HyperChat) · 组织维护 · 中文 README
 
 **本地 AI Agent 平台/聊天客户端，配置文件驱动，MCP 工具集成**
 

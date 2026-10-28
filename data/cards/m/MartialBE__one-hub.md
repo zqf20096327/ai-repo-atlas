@@ -1,6 +1,6 @@
 # MartialBE/one-hub
 
-⭐ 2,900 · Go · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartialBE/one-hub) · [官网](https://one-hub.xiao5.info/) · 个人维护 · 中文 README
+⭐ 2,901 · Go · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartialBE/one-hub) · [官网](https://one-hub.xiao5.info/) · 个人维护 · 中文 README
 
 **OpenAI 接口管理与分发系统：多供应商聚合、计费统计**
 

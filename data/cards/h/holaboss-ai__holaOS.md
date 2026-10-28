@@ -1,6 +1,6 @@
 # holaboss-ai/holaOS
 
-⭐ 11,434 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/holaboss-ai/holaOS) · [官网](https://holaos.ai) · 组织维护
+⭐ 11,439 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/holaboss-ai/holaOS) · [官网](https://holaos.ai) · 组织维护
 
 **本地优先的企业级 agentic 工作区：聚合应用、集成与多种 agent**
 

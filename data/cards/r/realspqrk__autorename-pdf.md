@@ -1,6 +1,6 @@
 # realspqrk/autorename-pdf
 
-⭐ 122 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/realspqrk/autorename-pdf) · 个人维护
+⭐ 123 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/realspqrk/autorename-pdf) · 个人维护
 
 **用 LLM 按内容批量重命名发票与论文 PDF 的工具**
 

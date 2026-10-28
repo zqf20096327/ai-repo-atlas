@@ -1,6 +1,6 @@
 # ElNiak/awesome-ai-cybersecurity
 
-⭐ 162 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/ElNiak/awesome-ai-cybersecurity) · 个人维护
+⭐ 162 · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/ElNiak/awesome-ai-cybersecurity) · 个人维护
 
 **AI 网络安全资源清单：按 PPDR 模型与技术层分类的工具与论文合集**
 

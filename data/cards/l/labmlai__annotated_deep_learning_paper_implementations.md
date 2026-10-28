@@ -1,6 +1,6 @@
 # labmlai/annotated_deep_learning_paper_implementations
 
-⭐ 67,604 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations) · [官网](https://nn.labml.ai) · 组织维护
+⭐ 67,603 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/labmlai/annotated_deep_learning_paper_implementations) · [官网](https://nn.labml.ai) · 组织维护
 
 **深度学习论文的 PyTorch 实现与旁注教程合集（60+）**
 

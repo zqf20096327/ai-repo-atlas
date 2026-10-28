@@ -1,6 +1,6 @@
 # icip-cas/PPTAgent
 
-⭐ 5,166 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
+⭐ 5,168 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
 
 **供编码 Agent 使用的 PowerPoint 生成与视觉审查技能框架**
 

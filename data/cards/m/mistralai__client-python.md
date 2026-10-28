@@ -1,6 +1,6 @@
 # mistralai/client-python
 
-⭐ 772 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mistralai/client-python) · 组织维护
+⭐ 773 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mistralai/client-python) · 组织维护
 
 **Mistral AI 平台的官方 Python SDK，供开发者调用其 API**
 

@@ -1,6 +1,6 @@
 # vorojar/Folio-OCR
 
-⭐ 473 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/vorojar/Folio-OCR) · [官网](https://vorojar.github.io/Folio-OCR/) · 个人维护 · 中文 README
+⭐ 474 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/vorojar/Folio-OCR) · [官网](https://vorojar.github.io/Folio-OCR/) · 个人维护 · 中文 README
 
 **本地批量 OCR 工作台：把扫描 PDF/图片转可编辑文本**
 

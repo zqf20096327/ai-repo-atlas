@@ -1,6 +1,6 @@
 # aaditya-v-more/claude-graft
 
-⭐ 61 · Swift · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aaditya-v-more/claude-graft) · [官网](https://graft.aadityamore.com/) · 个人维护
+⭐ 62 · Swift · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aaditya-v-more/claude-graft) · [官网](https://graft.aadityamore.com/) · 个人维护
 
 **macOS 菜单栏工具：并行运行多个 Claude Desktop 账号并共享聊天记录**
 

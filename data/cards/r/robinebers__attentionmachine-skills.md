@@ -1,6 +1,6 @@
 # robinebers/attentionmachine-skills
 
-⭐ 57 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/robinebers/attentionmachine-skills) · [官网](https://www.attentionmachine.ai) · 个人维护
+⭐ 62 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/robinebers/attentionmachine-skills) · [官网](https://www.attentionmachine.ai) · 个人维护
 
 **让 Claude Code/Codex 把口播录像自动剪成 Reels 的技能包**
 

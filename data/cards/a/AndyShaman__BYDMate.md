@@ -1,6 +1,6 @@
 # AndyShaman/BYDMate
 
-⭐ 449 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AndyShaman/BYDMate) · [官网](https://ai-handler.com/#bydmate) · 个人维护 · 中文 README
+⭐ 453 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AndyShaman/BYDMate) · [官网](https://ai-handler.com/#bydmate) · 个人维护 · 中文 README
 
 **BYD DiLink 车机扩展应用：行程记录、真实能耗与本地 AI 功能**
 

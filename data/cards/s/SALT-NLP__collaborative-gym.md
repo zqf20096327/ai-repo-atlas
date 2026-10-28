@@ -1,6 +1,6 @@
 # SALT-NLP/collaborative-gym
 
-⭐ 165 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/SALT-NLP/collaborative-gym) · [官网](https://cogym.saltlab.stanford.edu/) · 组织维护
+⭐ 167 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/SALT-NLP/collaborative-gym) · [官网](https://cogym.saltlab.stanford.edu/) · 组织维护
 
 **人机协作 agent 的构建与评测框架（Co-Gym）**
 

@@ -1,6 +1,6 @@
 # microsoft/semantic-kernel
 
-⭐ 28,708 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
+⭐ 28,711 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
 
 **为开发者提供构建 AI 智能体与多智能体系统的 SDK**
 

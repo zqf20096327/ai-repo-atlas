@@ -1,6 +1,6 @@
 # ailyProject/aily-blockly
 
-⭐ 3,860 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ailyProject/aily-blockly) · [官网](https://aily.pro) · 组织维护 · 中文 README
+⭐ 3,861 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ailyProject/aily-blockly) · [官网](https://aily.pro) · 组织维护 · 中文 README
 
 **面向非专业用户的图形化硬件开发 IDE，AI 辅助编程**
 

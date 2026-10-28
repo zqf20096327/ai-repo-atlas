@@ -1,6 +1,6 @@
 # linzm1007/nano-vllm-ascend
 
-⭐ 95 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/linzm1007/nano-vllm-ascend) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-05-04 · [GitHub](https://github.com/linzm1007/nano-vllm-ascend) · 个人维护 · 中文 README
 
 **面向昇腾 NPU 的轻量 LLM 推理引擎学习项目**
 

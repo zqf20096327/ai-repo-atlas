@@ -1,6 +1,6 @@
 # a-y-ibrahim/after-effects-mcp
 
-⭐ 25 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/a-y-ibrahim/after-effects-mcp) · 个人维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/a-y-ibrahim/after-effects-mcp) · 个人维护
 
 **让 AI 客户端用自然语言控制 After Effects 的 MCP 服务器（57 工具）**
 

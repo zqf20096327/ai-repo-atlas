@@ -1,6 +1,6 @@
 # langchain-ai/streaming-cookbook
 
-⭐ 59 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/langchain-ai/streaming-cookbook) · 组织维护
+⭐ 59 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/streaming-cookbook) · 组织维护
 
 **LangChain 生态流式能力的可运行示例与文档集**
 

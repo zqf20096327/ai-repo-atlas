@@ -1,6 +1,6 @@
 # manzolo/openai-whisper-docker
 
-⭐ 178 · Dockerfile · MIT · 推送 2026-07-18 · [GitHub](https://github.com/manzolo/openai-whisper-docker) · 个人维护
+⭐ 179 · Dockerfile · MIT · 推送 2026-07-18 · [GitHub](https://github.com/manzolo/openai-whisper-docker) · 个人维护
 
 **运行 OpenAI Whisper 语音识别的 GPU/CPU Docker 镜像**
 

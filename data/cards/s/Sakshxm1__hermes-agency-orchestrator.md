@@ -1,6 +1,6 @@
 # Sakshxm1/hermes-agency-orchestrator
 
-⭐ 147 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/Sakshxm1/hermes-agency-orchestrator) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Claude Code 多智能体编排模式的概念框架与文档**
 

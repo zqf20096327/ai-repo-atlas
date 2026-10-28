@@ -1,6 +1,6 @@
 # bagaturchess/Bagatur
 
-⭐ 86 · Java · EPL-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/bagaturchess/Bagatur) · [官网](http://bagaturchess.github.io/Bagatur/) · 个人维护
+⭐ 85 · Java · EPL-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/bagaturchess/Bagatur) · [官网](http://bagaturchess.github.io/Bagatur/) · 个人维护
 
 **Java 编写的 UCI 国际象棋引擎，桌面与 Android 可运行**
 

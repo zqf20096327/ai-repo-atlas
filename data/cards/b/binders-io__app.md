@@ -1,6 +1,6 @@
 # binders-io/app
 
-⭐ 24 · Swift · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/binders-io/app) · [官网](https://binders.io) · 组织维护
+⭐ 24 · Swift · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/binders-io/app) · [官网](https://binders.io) · 组织维护
 
 **macOS 本地优先的听写、会议纪要与个人记忆应用，附 MCP 服务器**
 

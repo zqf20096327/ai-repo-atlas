@@ -1,6 +1,6 @@
 # pungme/superagent-desktop
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pungme/superagent-desktop) · [官网](https://superagent.computer) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/pungme/superagent-desktop) · [官网](https://superagent.computer) · 个人维护
 
 **macOS 桌面工作台：为 Claude Code/Codex 等编码代理提供运行环境**
 

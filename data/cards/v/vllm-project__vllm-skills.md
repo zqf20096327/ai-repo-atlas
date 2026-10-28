@@ -1,6 +1,6 @@
 # vllm-project/vllm-skills
 
-⭐ 102 · Shell · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/vllm-project/vllm-skills) · 组织维护
+⭐ 103 · Shell · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/vllm-project/vllm-skills) · 组织维护
 
 **面向 Claude Code 的 vLLM 部署与基准测试 agent 技能集**
 

@@ -1,6 +1,6 @@
 # amikos-tech/chroma-go
 
-⭐ 210 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/amikos-tech/chroma-go) · [官网](https://go-client.chromadb.dev) · 组织维护
+⭐ 210 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/amikos-tech/chroma-go) · [官网](https://go-client.chromadb.dev) · 组织维护
 
 **Chroma 向量数据库的 Go 客户端库**
 

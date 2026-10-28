@@ -1,6 +1,6 @@
 # any4ai/AnyCrawl
 
-⭐ 3,485 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
+⭐ 3,484 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
 
 **面向 LLM 数据准备的网页抓取与 SERP 采集工具包**
 

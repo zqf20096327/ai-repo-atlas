@@ -1,6 +1,6 @@
 # Sallyn0225/eidolon-sc
 
-⭐ 259 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sallyn0225/eidolon-sc) · 个人维护 · 中文 README
+⭐ 292 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sallyn0225/eidolon-sc) · 个人维护 · 中文 README
 
 **与《闪耀色彩》偶像实时语音/文字对话的 AI 分身应用**
 

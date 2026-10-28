@@ -1,6 +1,6 @@
 # greenfield-inc/Pane
 
-⭐ 584 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/greenfield-inc/Pane) · [官网](https://runpane.com/) · 组织维护
+⭐ 584 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/greenfield-inc/Pane) · [官网](https://runpane.com/) · 组织维护
 
 **跨平台终端优先的 AI 编码 agent 管理器**
 

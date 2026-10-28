@@ -1,6 +1,6 @@
 # illegalstudio/lazyagent
 
-⭐ 193 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/illegalstudio/lazyagent) · [官网](https://lazyagent.dev/) · 组织维护
+⭐ 192 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/illegalstudio/lazyagent) · [官网](https://lazyagent.dev/) · 组织维护
 
 **单一终端监控 9 种编码 agent 的 TUI/桌面应用/HTTP API 工具**
 

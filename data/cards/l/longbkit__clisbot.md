@@ -1,6 +1,6 @@
 # longbkit/clisbot
 
-⭐ 131 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/longbkit/clisbot) · [官网](https://github.com/longbkit/clisbot) · 个人维护
+⭐ 131 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/longbkit/clisbot) · [官网](https://github.com/longbkit/clisbot) · 个人维护
 
 **自托管的跨设备 AI 编码代理工作区与聊天机器人平台**
 

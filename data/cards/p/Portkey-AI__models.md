@@ -1,6 +1,6 @@
 # Portkey-AI/models
 
-⭐ 144 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Portkey-AI/models) · [官网](https://portkey.ai/models) · 组织维护
+⭐ 144 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Portkey-AI/models) · [官网](https://portkey.ai/models) · 组织维护
 
 **2,000+ LLM 的定价与配置开放数据库，免费 API 提供**
 

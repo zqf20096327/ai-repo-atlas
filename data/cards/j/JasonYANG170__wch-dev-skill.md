@@ -1,6 +1,6 @@
 # JasonYANG170/wch-dev-skill
 
-⭐ 24 · C · 推送 2026-10-04 · [GitHub](https://github.com/JasonYANG170/wch-dev-skill) · 个人维护 · 中文 README
+⭐ 26 · C · 推送 2026-10-04 · [GitHub](https://github.com/JasonYANG170/wch-dev-skill) · 个人维护 · 中文 README
 
 **WCH 全系列 MCU 固件开发 AI Skill：让 Agent 生成规范嵌入式代码**
 

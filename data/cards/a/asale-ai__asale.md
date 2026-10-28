@@ -1,6 +1,6 @@
 # asale-ai/asale
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/asale-ai/asale) · [官网](https://asale.ai) · 组织维护 · 中文 README
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/asale-ai/asale) · [官网](https://asale.ai) · 组织维护 · 中文 README
 
 **AI 订阅额度共享网络桌面客户端：出售闲置额度或代付购量**
 

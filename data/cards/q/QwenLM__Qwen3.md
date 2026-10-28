@@ -1,6 +1,6 @@
 # QwenLM/Qwen3
 
-⭐ 27,686 · Python · 推送 2026-01-09 · [GitHub](https://github.com/QwenLM/Qwen3) · 组织维护 · 中文 README
+⭐ 27,689 · Python · 推送 2026-01-09 · [GitHub](https://github.com/QwenLM/Qwen3) · 组织维护 · 中文 README
 
 **阿里通义千问团队的开源大语言模型系列 Qwen3**
 

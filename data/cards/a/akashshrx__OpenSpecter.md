@@ -1,6 +1,6 @@
 # akashshrx/OpenSpecter
 
-⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/akashshrx/OpenSpecter) · [官网](https://www.openspecter.com/) · 组织维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-09-12 · [GitHub](https://github.com/akashshrx/OpenSpecter) · [官网](https://www.openspecter.com/) · 组织维护
 
 **面向法律团队的开源自托管 AI 工作区**
 

@@ -1,6 +1,6 @@
 # cubxxw/RemoteAI-Nomads
 
-⭐ 84 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cubxxw/RemoteAI-Nomads) · [官网](https://roamorrow.com/nomads) · 个人维护 · 中文 README
+⭐ 84 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/cubxxw/RemoteAI-Nomads) · [官网](https://roamorrow.com/nomads) · 个人维护 · 中文 README
 
 **帮中文远程工作者选旅居城市的排行与选城指南**
 

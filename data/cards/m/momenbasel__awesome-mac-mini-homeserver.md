@@ -1,6 +1,6 @@
 # momenbasel/awesome-mac-mini-homeserver
 
-⭐ 28 · Shell · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/momenbasel/awesome-mac-mini-homeserver) · [官网](https://momenbasel.github.io/awesome-mac-mini-homeserver/) · 个人维护
+⭐ 29 · Shell · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/momenbasel/awesome-mac-mini-homeserver) · [官网](https://momenbasel.github.io/awesome-mac-mini-homeserver/) · 个人维护
 
 **Mac mini 家庭服务器与本地 agentic AI 工具策展清单（260+ 条）**
 

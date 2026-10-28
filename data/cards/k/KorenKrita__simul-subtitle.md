@@ -1,6 +1,6 @@
 # KorenKrita/simul-subtitle
 
-⭐ 84 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KorenKrita/simul-subtitle) · 个人维护 · 中文 README
+⭐ 86 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KorenKrita/simul-subtitle) · 个人维护 · 中文 README
 
 **日/英语视频与直播的实时同传悬浮字幕应用（三端）**
 

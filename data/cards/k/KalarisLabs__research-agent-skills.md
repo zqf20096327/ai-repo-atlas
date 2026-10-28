@@ -1,6 +1,6 @@
 # KalarisLabs/research-agent-skills
 
-⭐ 69 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KalarisLabs/research-agent-skills) · [官网](https://docs.kalarislabs.com/research-agent-skills) · 组织维护
+⭐ 73 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KalarisLabs/research-agent-skills) · [官网](https://docs.kalarislabs.com/research-agent-skills) · 组织维护
 
 **面向科研的 280+ 开源 agent 技能库，覆盖文献到投稿全流程**
 

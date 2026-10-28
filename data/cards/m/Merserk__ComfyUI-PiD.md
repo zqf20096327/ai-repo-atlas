@@ -1,6 +1,6 @@
 # Merserk/ComfyUI-PiD
 
-⭐ 132 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Merserk/ComfyUI-PiD) · 个人维护
+⭐ 133 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Merserk/ComfyUI-PiD) · 个人维护
 
 **ComfyUI 节点集：接入 NVIDIA PiD/PixelDiT 解码与放大**
 

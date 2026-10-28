@@ -1,6 +1,6 @@
 # hyeonsangjeon/Repolis
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hyeonsangjeon/Repolis) · [官网](https://hyeonsangjeon.github.io/Repolis/) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hyeonsangjeon/Repolis) · [官网](https://hyeonsangjeon.github.io/Repolis/) · 个人维护
 
 **把公开 GitHub 仓库变成可步行的 3D 城镇的可视化作品**
 

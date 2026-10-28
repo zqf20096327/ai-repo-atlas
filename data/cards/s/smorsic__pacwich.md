@@ -1,6 +1,6 @@
 # smorsic/pacwich
 
-⭐ 69 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/smorsic/pacwich) · [官网](https://pacwich.dev) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/smorsic/pacwich) · [官网](https://pacwich.dev) · 个人维护
 
 **面向 Bun/npm/pnpm workspaces 的零配置 monorepo 工具（CLI+TS API）**
 

@@ -1,6 +1,6 @@
 # muend/geoai-skills
 
-⭐ 35 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/muend/geoai-skills) · [官网](https://www.skills.sh/muend/geoai-skills) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/muend/geoai-skills) · [官网](https://www.skills.sh/muend/geoai-skills) · 个人维护
 
 **给地理空间 AI agent 的 18 个方法层技能包：判定数据能否支撑结论**
 

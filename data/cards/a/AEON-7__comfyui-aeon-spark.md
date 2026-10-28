@@ -1,6 +1,6 @@
 # AEON-7/comfyui-aeon-spark
 
-⭐ 87 · Shell · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/comfyui-aeon-spark) · [官网](https://ghcr.io/aeon-7/comfyui-aeon-spark) · 个人维护
+⭐ 88 · Shell · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/comfyui-aeon-spark) · [官网](https://ghcr.io/aeon-7/comfyui-aeon-spark) · 个人维护
 
 **专为 NVIDIA DGX Spark 打造的 ComfyUI 发行版：预置图/视频/音乐模型运行环境**
 

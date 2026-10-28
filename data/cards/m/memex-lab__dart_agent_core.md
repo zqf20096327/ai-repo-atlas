@@ -1,6 +1,6 @@
 # memex-lab/dart_agent_core
 
-⭐ 46 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/memex-lab/dart_agent_core) · [官网](https://memexlab.ai) · 组织维护 · 中文 README
+⭐ 46 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/memex-lab/dart_agent_core) · [官网](https://memexlab.ai) · 组织维护 · 中文 README
 
 **Dart/Flutter 的有状态 AI Agent 开发与评测库**
 

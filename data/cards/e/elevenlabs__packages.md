@@ -1,6 +1,6 @@
 # elevenlabs/packages
 
-⭐ 114 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/packages) · [官网](https://elevenlabs.io/docs) · 组织维护
+⭐ 115 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/elevenlabs/packages) · [官网](https://elevenlabs.io/docs) · 组织维护
 
 **面向 TS/React 开发者的 ElevenLabs 多模态语音 Agent SDK**
 

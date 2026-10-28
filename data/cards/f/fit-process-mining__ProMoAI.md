@@ -1,6 +1,6 @@
 # fit-process-mining/ProMoAI
 
-⭐ 76 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/fit-process-mining/ProMoAI) · [官网](https://promoai.streamlit.app) · 组织维护
+⭐ 77 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/fit-process-mining/ProMoAI) · [官网](https://promoai.streamlit.app) · 组织维护
 
 **面向流程挖掘的 AI 套件：文本生成流程模型并自主分析事件日志**
 

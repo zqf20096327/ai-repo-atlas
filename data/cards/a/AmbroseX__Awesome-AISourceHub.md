@@ -1,6 +1,6 @@
 # AmbroseX/Awesome-AISourceHub
 
-⭐ 1,787 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub) · [官网](https://aiguanchao.com) · 个人维护 · 中文 README
+⭐ 1,789 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub) · [官网](https://aiguanchao.com) · 个人维护 · 中文 README
 
 **AI 科技领域信息源策展清单：聚合推特/公众号/知乎等渠道账号**
 

@@ -1,6 +1,6 @@
 # theopenbee/openbee
 
-⭐ 34 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/theopenbee/openbee) · 组织维护 · 中文 README
+⭐ 34 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/theopenbee/openbee) · 组织维护 · 中文 README
 
 **自托管服务：把 Claude Code/Codex/Pi 等 AI agent 接入聊天平台使用**
 

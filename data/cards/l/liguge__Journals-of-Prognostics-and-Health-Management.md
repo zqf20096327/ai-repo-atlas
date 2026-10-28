@@ -1,6 +1,6 @@
 # liguge/Journals-of-Prognostics-and-Health-Management
 
-⭐ 500 · 推送 2026-09-17 · [GitHub](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) · 个人维护 · 中文 README
+⭐ 501 · 推送 2026-09-17 · [GitHub](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) · 个人维护 · 中文 README
 
 **智能故障诊断与寿命预测领域英文期刊推荐清单**
 

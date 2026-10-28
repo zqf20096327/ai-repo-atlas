@@ -1,6 +1,6 @@
 # Ptero-ai/Ptero
 
-⭐ 1,514 · PHP · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Ptero-ai/Ptero) · [官网](https://ptero.pro/) · 个人维护
+⭐ 1,515 · PHP · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Ptero-ai/Ptero) · [官网](https://ptero.pro/) · 个人维护
 
 **免注册免费的多模型 AI 聊天平台，可嵌入 WordPress**
 

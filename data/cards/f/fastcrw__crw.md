@@ -1,6 +1,6 @@
 # fastcrw/crw
 
-⭐ 1,183 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/fastcrw/crw) · [官网](https://fastcrw.com) · 组织维护
+⭐ 1,192 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/fastcrw/crw) · [官网](https://fastcrw.com) · 组织维护
 
 **Rust 单二进制网页抓取/爬取/搜索 API，供 AI agent 经 MCP 调用**
 

@@ -1,6 +1,6 @@
 # redhat-performance/configiq
 
-⭐ 21 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/redhat-performance/configiq) · [官网](https://configiq.xyz) · 组织维护
+⭐ 21 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/redhat-performance/configiq) · [官网](https://configiq.xyz) · 组织维护
 
 **面向工程师的 LLM 推理容量规划与 GPU 成本建模工具**
 

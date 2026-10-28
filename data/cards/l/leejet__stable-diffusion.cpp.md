@@ -1,6 +1,6 @@
 # leejet/stable-diffusion.cpp
 
-⭐ 7,806 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/leejet/stable-diffusion.cpp) · 个人维护
+⭐ 7,814 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/leejet/stable-diffusion.cpp) · 个人维护
 
 **纯 C/C++ 的扩散模型推理引擎，本地生成图片与视频**
 

@@ -1,6 +1,6 @@
 # mir-group/nequip
 
-⭐ 971 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mir-group/nequip) · [官网](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c) · 组织维护
+⭐ 972 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mir-group/nequip) · [官网](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c) · 组织维护
 
 **构建 E(3)-等变原子间势的深度学习代码，面向分子/材料模拟**
 

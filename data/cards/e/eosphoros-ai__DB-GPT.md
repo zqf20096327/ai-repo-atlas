@@ -1,6 +1,6 @@
 # eosphoros-ai/DB-GPT
 
-⭐ 20,201 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
+⭐ 20,210 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eosphoros-ai/DB-GPT) · [官网](http://docs.dbgpt.cn) · 组织维护 · 中文 README
 
 **给开发者和企业的开源 Agent 式 AI 数据分析助手**
 

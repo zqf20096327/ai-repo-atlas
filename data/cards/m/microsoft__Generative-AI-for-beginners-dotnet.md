@@ -1,6 +1,6 @@
 # microsoft/Generative-AI-for-beginners-dotnet
 
-⭐ 3,163 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护
+⭐ 3,166 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护
 
 **微软面向 .NET 开发者的生成式 AI 入门课程（5 课）**
 

@@ -1,6 +1,6 @@
 # mensfeld/llm-docs-builder
 
-⭐ 95 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mensfeld/llm-docs-builder) · 个人维护
+⭐ 95 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mensfeld/llm-docs-builder) · 个人维护
 
 **为 LLM/RAG 优化 Markdown 文档并生成 llms.txt 的 Ruby 工具**
 

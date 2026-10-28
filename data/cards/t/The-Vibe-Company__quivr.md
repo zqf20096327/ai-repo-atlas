@@ -1,6 +1,6 @@
 # The-Vibe-Company/quivr
 
-⭐ 39,610 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
+⭐ 39,611 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://docs.quivr.thevibecompany.co) · 组织维护
 
 **开源内容流搜索引擎：将持续内容转为可搜索与监控**
 

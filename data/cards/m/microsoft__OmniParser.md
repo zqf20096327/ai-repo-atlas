@@ -1,6 +1,6 @@
 # microsoft/OmniParser
 
-⭐ 25,576 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/microsoft/OmniParser) · 组织维护
+⭐ 25,579 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-07-20 · [GitHub](https://github.com/microsoft/OmniParser) · 组织维护
 
 **为视觉 GUI Agent 解析界面截图的结构化工具**
 

@@ -1,6 +1,6 @@
 # iamaisim/ProjectAirSim
 
-⭐ 924 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamaisim/ProjectAirSim) · [官网](https://iamaisim.github.io/ProjectAirSim/) · 组织维护
+⭐ 927 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamaisim/ProjectAirSim) · [官网](https://iamaisim.github.io/ProjectAirSim/) · 组织维护
 
 **自主系统仿真平台：无人机等载具的构建、训练与测试**
 

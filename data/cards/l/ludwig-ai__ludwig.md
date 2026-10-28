@@ -1,6 +1,6 @@
 # ludwig-ai/ludwig
 
-⭐ 11,784 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ludwig-ai/ludwig) · [官网](http://ludwig.ai) · 组织维护
+⭐ 11,788 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ludwig-ai/ludwig) · [官网](http://ludwig.ai) · 组织维护
 
 **YAML 声明式深度学习框架：训练/微调/部署 LLM 与多模态模型**
 

@@ -1,6 +1,6 @@
 # SynapseKit/SynapseKit
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SynapseKit/SynapseKit) · [官网](https://synapse-kit.com) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/SynapseKit/SynapseKit) · [官网](https://synapse-kit.com) · 组织维护
 
 **面向生产环境的异步优先 Python LLM 应用框架**
 

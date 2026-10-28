@@ -1,6 +1,6 @@
 # open-resource-discovery/a2a-editor
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/open-resource-discovery/a2a-editor) · [官网](https://open-resource-discovery.github.io/a2a-editor/playground) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/open-resource-discovery/a2a-editor) · [官网](https://open-resource-discovery.github.io/a2a-editor/playground) · 组织维护
 
 **A2A 协议 agent 的编辑/查看/测试 UI 组件**
 

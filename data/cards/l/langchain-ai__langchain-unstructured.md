@@ -1,6 +1,6 @@
 # langchain-ai/langchain-unstructured
 
-⭐ 24 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-unstructured) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-unstructured) · 组织维护
 
 **LangChain 与 Unstructured 的集成包，用于文档解析加载**
 

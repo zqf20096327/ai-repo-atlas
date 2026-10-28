@@ -1,6 +1,6 @@
 # siweina/dsh-novel-writer
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/siweina/dsh-novel-writer) · [官网](https://siweina.github.io/dsh-novel-writer/) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/siweina/dsh-novel-writer) · [官网](https://siweina.github.io/dsh-novel-writer/) · 个人维护 · 中文 README
 
 **中文网文作者的本地写作工作台：21 个工具，零 API 花费**
 

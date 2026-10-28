@@ -1,6 +1,6 @@
 # mlrun/mlrun
 
-⭐ 1,704 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlrun/mlrun) · [官网](https://mlrun.org) · 组织维护
+⭐ 1,704 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mlrun/mlrun) · [官网](https://mlrun.org) · 组织维护
 
 **面向企业的开源 MLOps/GenAI 编排平台，覆盖全生命周期**
 

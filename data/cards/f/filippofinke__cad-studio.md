@@ -1,6 +1,6 @@
 # filippofinke/cad-studio
 
-⭐ 32 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/filippofinke/cad-studio) · [官网](https://filippofinke.github.io/cad-studio/) · 个人维护
+⭐ 33 · Swift · MIT · 推送 2026-10-10 · [GitHub](https://github.com/filippofinke/cad-studio) · [官网](https://filippofinke.github.io/cad-studio/) · 个人维护
 
 **macOS 原生 CAD 应用：用 Claude Code 生成参数化可打印 3D 模型**
 

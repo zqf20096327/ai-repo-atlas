@@ -1,6 +1,6 @@
 # JaydenTeoh/NextLat
 
-⭐ 202 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/JaydenTeoh/NextLat) · [官网](https://jaydenteoh.github.io/blog/2026/nextlat) · 个人维护
+⭐ 205 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/JaydenTeoh/NextLat) · [官网](https://jaydenteoh.github.io/blog/2026/nextlat) · 个人维护
 
 **Next-Latent Prediction Transformer 论文官方训练代码库**
 

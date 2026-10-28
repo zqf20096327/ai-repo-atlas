@@ -1,6 +1,6 @@
 # livid/exe
 
-⭐ 153 · Go · 推送 2026-10-15 · [GitHub](https://github.com/livid/exe) · 个人维护
+⭐ 156 · Go · 推送 2026-10-28 · [GitHub](https://github.com/livid/exe) · 个人维护
 
 **单 Go 二进制的个人 VM 云：Linux 虚拟机、AI agent 与隧道发布**
 

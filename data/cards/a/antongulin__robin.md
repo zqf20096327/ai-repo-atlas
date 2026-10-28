@@ -1,6 +1,6 @@
 # antongulin/robin
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/antongulin/robin) · [官网](https://www.robinreview.dev) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/antongulin/robin) · [官网](https://www.robinreview.dev) · 个人维护
 
 **自托管 GitHub Action AI 代码审查机器人，自带 API key**
 

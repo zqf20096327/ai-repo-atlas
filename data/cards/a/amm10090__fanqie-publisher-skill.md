@@ -1,6 +1,6 @@
 # amm10090/fanqie-publisher-skill
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amm10090/fanqie-publisher-skill) · [官网](https://github.com/amm10090/fanqie-publisher-skill#readme) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amm10090/fanqie-publisher-skill) · [官网](https://github.com/amm10090/fanqie-publisher-skill#readme) · 个人维护 · 中文 README
 
 **AI Agent 用的番茄小说章节自动发布技能（Playwright）**
 

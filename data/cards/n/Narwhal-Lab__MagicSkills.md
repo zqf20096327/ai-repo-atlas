@@ -1,6 +1,6 @@
 # Narwhal-Lab/MagicSkills
 
-⭐ 317 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Narwhal-Lab/MagicSkills) · 组织维护 · 中文 README
+⭐ 318 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Narwhal-Lab/MagicSkills) · 组织维护 · 中文 README
 
 **跨 agent 复用 SKILL.md 技能的本地共享技能池基础设施**
 

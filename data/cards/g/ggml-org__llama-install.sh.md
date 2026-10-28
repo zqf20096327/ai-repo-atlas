@@ -1,6 +1,6 @@
 # ggml-org/llama-install.sh
 
-⭐ 36 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ggml-org/llama-install.sh) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/llama-install.sh) · 组织维护
 
 **一键安装预编译 llama.cpp 二进制的跨平台安装脚本**
 

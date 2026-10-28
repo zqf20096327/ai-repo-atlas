@@ -1,6 +1,6 @@
 # salespeak-ai/buyer-eval-skill
 
-⭐ 67 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/salespeak-ai/buyer-eval-skill) · 组织维护
 
 **Claude Code 技能：AI 分析师核查 B2B 软件供应商声明并产出决策简报**
 

@@ -1,6 +1,6 @@
 # qdrant/qdrant_demo
 
-⭐ 193 · TypeScript · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/qdrant_demo) · 组织维护
+⭐ 194 · TypeScript · 推送 2026-09-04 · [GitHub](https://github.com/qdrant/qdrant_demo) · 组织维护
 
 **Qdrant 混合检索演示：对创业公司数据做语义/关键词/混合搜索**
 

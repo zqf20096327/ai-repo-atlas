@@ -1,6 +1,6 @@
 # xhluca/bm25s
 
-⭐ 1,816 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
+⭐ 1,816 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
 
 **纯 Python 实现的 BM25 词法检索库，供开发者做文档排序与 RAG 检索**
 

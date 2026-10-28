@@ -1,6 +1,6 @@
 # llm-exe/llm-exe
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 组织维护
+⭐ 136 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 组织维护
 
 **TypeScript/JavaScript 的 LLM 应用构建库**
 

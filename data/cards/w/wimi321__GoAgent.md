@@ -1,6 +1,6 @@
 # wimi321/GoAgent
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wimi321/GoAgent) · [官网](https://github.com/wimi321/GoAgent/releases/latest) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wimi321/GoAgent) · [官网](https://github.com/wimi321/GoAgent/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的桌面围棋学习工作台，KataGo+多模态LLM当AI老师**
 

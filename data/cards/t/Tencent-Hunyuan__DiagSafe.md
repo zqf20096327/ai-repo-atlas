@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/DiagSafe
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Tencent-Hunyuan/DiagSafe) · [官网](https://tencent-hunyuan.github.io/DiagSafe/) · 组织维护 · 中文 README
+⭐ 32 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Tencent-Hunyuan/DiagSafe) · [官网](https://tencent-hunyuan.github.io/DiagSafe/) · 组织维护 · 中文 README
 
 **LLM 安全诊断基准：3,489 条中英双语提示词与提示级评分细则**
 

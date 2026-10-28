@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle-Lite
 
-⭐ 7,288 · C++ · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/PaddlePaddle/Paddle-Lite) · [官网](https://www.paddlepaddle.org.cn/lite) · 组织维护 · 中文 README
+⭐ 7,289 · C++ · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/PaddlePaddle/Paddle-Lite) · [官网](https://www.paddlepaddle.org.cn/lite) · 组织维护 · 中文 README
 
 **面向移动/嵌入式/边缘端多硬件的深度学习推理引擎**
 

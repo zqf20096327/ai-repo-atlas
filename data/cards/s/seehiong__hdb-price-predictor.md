@@ -1,6 +1,6 @@
 # seehiong/hdb-price-predictor
 
-⭐ 271 · HTML · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/hdb-price-predictor) · [官网](https://seehiong.github.io/hdb-price-predictor/) · 个人维护
+⭐ 272 · HTML · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/hdb-price-predictor) · [官网](https://seehiong.github.io/hdb-price-predictor/) · 个人维护
 
 **浏览器内新加坡房产估价引擎：双 XGBoost 模型毫秒级本地推理**
 

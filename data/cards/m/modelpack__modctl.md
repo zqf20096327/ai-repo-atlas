@@ -1,6 +1,6 @@
 # modelpack/modctl
 
-⭐ 83 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelpack/modctl) · [官网](https://modelpack.github.io/modctl/) · 组织维护 · 中文 README
+⭐ 84 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelpack/modctl) · [官网](https://modelpack.github.io/modctl/) · 组织维护 · 中文 README
 
 **管理 OCI 模型制品的命令行工具（build/pull/push）**
 

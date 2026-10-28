@@ -1,6 +1,6 @@
 # pivoshenko/kasetto
 
-⭐ 212 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/pivoshenko/kasetto) · [官网](https://kasetto.dev) · 个人维护
+⭐ 212 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pivoshenko/kasetto) · [官网](https://kasetto.dev) · 个人维护
 
 **声明式 AI agent 环境管理器：一个 YAML 同步 skills/MCP/命令到多个 agent**
 

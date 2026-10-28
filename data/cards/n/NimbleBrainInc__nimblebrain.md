@@ -1,6 +1,6 @@
 # NimbleBrainInc/nimblebrain
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
+⭐ 28 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
 
 **自托管的 MCP 应用与 agent 任务运行平台**
 

@@ -1,6 +1,6 @@
 # jiang198012/workbuddian
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/jiang198012/workbuddian) · [官网](https://obsidian.md/plugins?id=workbuddian) · 个人维护 · 中文 README
+⭐ 68 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/jiang198012/workbuddian) · [官网](https://obsidian.md/plugins?id=workbuddian) · 个人维护 · 中文 README
 
 **把 CodeBuddy CLI/Hermes agent 变成 Obsidian 内 AI 聊天的插件**
 

@@ -1,6 +1,6 @@
 # deepgram/deepgram-js-sdk
 
-⭐ 277 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/deepgram/deepgram-js-sdk) · [官网](https://developers.deepgram.com) · 组织维护
+⭐ 277 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deepgram/deepgram-js-sdk) · [官网](https://developers.deepgram.com) · 组织维护
 
 **Deepgram 官方 JS/TS SDK：接入语音识别、合成与语音 Agent API**
 

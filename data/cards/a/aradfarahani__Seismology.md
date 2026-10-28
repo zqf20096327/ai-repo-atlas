@@ -1,6 +1,6 @@
 # aradfarahani/Seismology
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aradfarahani/Seismology) · 个人维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aradfarahani/Seismology) · 个人维护
 
 **面向地震学的机器学习工具集合：地震数据预处理、检测与可视化**
 

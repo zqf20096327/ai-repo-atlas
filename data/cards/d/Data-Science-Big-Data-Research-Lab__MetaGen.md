@@ -1,6 +1,6 @@
 # Data-Science-Big-Data-Research-Lab/MetaGen
 
-⭐ 33 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Data-Science-Big-Data-Research-Lab/MetaGen) · [官网](https://pymetagen.readthedocs.io/) · 组织维护
+⭐ 33 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Data-Science-Big-Data-Research-Lab/MetaGen) · [官网](https://pymetagen.readthedocs.io/) · 组织维护
 
 **面向科研与开发者的元启发式开发与超参数优化框架**
 

@@ -1,6 +1,6 @@
 # Giskard-AI/giskard-oss
 
-⭐ 5,929 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Giskard-AI/giskard-oss) · [官网](https://docs.giskard.ai) · 组织维护
+⭐ 5,933 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Giskard-AI/giskard-oss) · [官网](https://docs.giskard.ai) · 组织维护
 
 **面向 LLM Agent 的开源评测与红队测试库**
 

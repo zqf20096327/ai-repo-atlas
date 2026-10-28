@@ -1,6 +1,6 @@
 # lmwilki/civ6-mcp
 
-⭐ 229 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lmwilki/civ6-mcp) · [官网](https://civ6-mcp.lwilko.com) · 个人维护
+⭐ 230 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lmwilki/civ6-mcp) · [官网](https://civ6-mcp.lwilko.com) · 个人维护
 
 **让 LLM Agent 完整游玩文明6的 MCP 服务器**
 

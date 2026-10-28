@@ -1,6 +1,6 @@
 # Snowflake-Labs/snowflake-demo-notebooks
 
-⭐ 380 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snowflake-Labs/snowflake-demo-notebooks) · 组织维护
+⭐ 381 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Snowflake-Labs/snowflake-demo-notebooks) · 组织维护
 
 **Snowflake Notebook 官方演示与教程笔记本合集**
 

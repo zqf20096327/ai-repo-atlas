@@ -1,6 +1,6 @@
 # haru/redmine_ai_helper
 
-⭐ 107 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/haru/redmine_ai_helper) · [官网](https://www.redmine.org/plugins/redmine_ai_helper) · 个人维护
+⭐ 107 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haru/redmine_ai_helper) · [官网](https://www.redmine.org/plugins/redmine_ai_helper) · 个人维护
 
 **为 Redmine 加 AI 聊天、智能补全与向量搜索的插件**
 

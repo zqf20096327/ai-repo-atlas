@@ -1,6 +1,6 @@
 # LMCache/LMCache
 
-⭐ 12,184 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/LMCache/LMCache) · [官网](https://lmcache.ai/) · 组织维护
+⭐ 12,206 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/LMCache/LMCache) · [官网](https://lmcache.ai/) · 组织维护
 
 **LLM 推理的 KV 缓存管理层：跨引擎持久化存储与复用**
 

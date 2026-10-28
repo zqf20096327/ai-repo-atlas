@@ -1,6 +1,6 @@
 # microsoft/SkillOpt
 
-⭐ 18,716 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
+⭐ 18,747 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/SkillOpt) · [官网](https://aka.ms/skillopt) · 组织维护
 
 **为冻结参数的 LLM agent 训练可复用自然语言技能文档的优化器**
 

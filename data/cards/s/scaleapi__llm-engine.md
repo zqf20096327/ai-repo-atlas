@@ -1,6 +1,6 @@
 # scaleapi/llm-engine
 
-⭐ 839 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/scaleapi/llm-engine) · [官网](https://llm-engine.scale.com) · 组织维护
+⭐ 839 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/scaleapi/llm-engine) · [官网](https://llm-engine.scale.com) · 组织维护
 
 **面向开发者的 LLM 微调与推理服务引擎**
 

@@ -1,6 +1,6 @@
 # DEEP-PolyU/Awesome-GraphRAG
 
-⭐ 2,680 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/DEEP-PolyU/Awesome-GraphRAG) · [官网](https://arxiv.org/abs/2501.13958) · 组织维护
+⭐ 2,681 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/DEEP-PolyU/Awesome-GraphRAG) · [官网](https://arxiv.org/abs/2501.13958) · 组织维护
 
 **GraphRAG 研究资源策展清单：论文、基准与开源项目分类收录**
 

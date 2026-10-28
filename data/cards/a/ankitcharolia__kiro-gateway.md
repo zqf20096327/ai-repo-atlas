@@ -1,6 +1,6 @@
 # ankitcharolia/kiro-gateway
 
-⭐ 84 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ankitcharolia/kiro-gateway) · [官网](https://github.com/ankitcharolia/kiro-gateway#quick-start) · 个人维护
+⭐ 84 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ankitcharolia/kiro-gateway) · [官网](https://github.com/ankitcharolia/kiro-gateway#quick-start) · 个人维护
 
 **把 Kiro 订阅转成 OpenAI/Anthropic/ACP 接口的本地 AI 网关**
 

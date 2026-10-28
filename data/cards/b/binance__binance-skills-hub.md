@@ -1,6 +1,6 @@
 # binance/binance-skills-hub
 
-⭐ 1,093 · Python · 推送 2026-10-26 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
+⭐ 1,100 · Python · 推送 2026-10-26 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
 
 **Binance 维护的加密货币 AI agent 技能市场：让 agent 用自然语言操作链上与交易所**
 

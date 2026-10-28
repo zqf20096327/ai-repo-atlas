@@ -1,6 +1,6 @@
 # Seanium/FeedMe
 
-⭐ 746 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
+⭐ 746 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
 
 **AI 自动摘要的轻量自托管 RSS 阅读器，静态页面多平台部署**
 

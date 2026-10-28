@@ -1,6 +1,6 @@
 # yeasy/harness_engineering_guide
 
-⭐ 146 · Python · 推送 2026-10-25 · [GitHub](https://github.com/yeasy/harness_engineering_guide) · [官网](https://yeasy.gitbook.io/harness_engineering_guide) · 个人维护 · 中文 README
+⭐ 147 · Python · 推送 2026-10-25 · [GitHub](https://github.com/yeasy/harness_engineering_guide) · [官网](https://yeasy.gitbook.io/harness_engineering_guide) · 个人维护 · 中文 README
 
 **剖析智能体 Harness 工程原理与实现的中文技术书**
 

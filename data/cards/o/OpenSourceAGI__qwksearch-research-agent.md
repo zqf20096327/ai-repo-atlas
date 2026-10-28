@@ -1,6 +1,6 @@
 # OpenSourceAGI/qwksearch-research-agent
 
-⭐ 77 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/OpenSourceAGI/qwksearch-research-agent) · [官网](https://qwksearch.com) · 组织维护
+⭐ 77 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/OpenSourceAGI/qwksearch-research-agent) · [官网](https://qwksearch.com) · 组织维护
 
 **AI 研究搜索代理：多源检索、正文提取与大纲摘要写作**
 

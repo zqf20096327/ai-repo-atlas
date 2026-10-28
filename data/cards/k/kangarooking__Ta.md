@@ -1,6 +1,6 @@
 # kangarooking/Ta
 
-⭐ 67 · C# · MIT · 推送 2026-09-25 · [GitHub](https://github.com/kangarooking/Ta) · 个人维护 · 中文 README
+⭐ 68 · C# · MIT · 推送 2026-09-25 · [GitHub](https://github.com/kangarooking/Ta) · 个人维护 · 中文 README
 
 **macOS AI 原生截图工具：截图、OCR、识图、翻译、长截图、钉图与标注**
 

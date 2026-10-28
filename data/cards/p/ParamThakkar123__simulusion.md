@@ -1,6 +1,6 @@
 # ParamThakkar123/simulusion
 
-⭐ 30 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ParamThakkar123/simulusion) · [官网](https://paramthakkar123.github.io/simulusion/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ParamThakkar123/simulusion) · [官网](https://paramthakkar123.github.io/simulusion/) · 个人维护
 
 **统一 API 训练多种世界模型的 PyTorch 库**
 

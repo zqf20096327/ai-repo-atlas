@@ -1,6 +1,6 @@
 # WenyuChiou/awesome-agentic-ai-zh
 
-⭐ 8,038 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
+⭐ 8,057 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
 
 **三语 AI Agent 学习路线图：从 LLM 基础到多 Agent 系统**
 

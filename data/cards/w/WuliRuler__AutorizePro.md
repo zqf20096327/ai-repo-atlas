@@ -1,6 +1,6 @@
 # WuliRuler/AutorizePro
 
-⭐ 624 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/WuliRuler/AutorizePro) · 个人维护 · 中文 README
+⭐ 625 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/WuliRuler/AutorizePro) · 个人维护 · 中文 README
 
 **内置 AI 分析的 Burp 越权检测插件，降低误报**
 

@@ -1,6 +1,6 @@
 # aaronsb/google-workspace-mcp
 
-⭐ 192 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/aaronsb/google-workspace-mcp) · 个人维护
+⭐ 192 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/aaronsb/google-workspace-mcp) · 个人维护
 
 **让 AI agent 经 OAuth 访问 Google Workspace 的 MCP 服务器**
 

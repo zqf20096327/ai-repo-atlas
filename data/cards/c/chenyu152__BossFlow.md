@@ -1,6 +1,6 @@
 # chenyu152/BossFlow
 
-⭐ 27 · Python · 推送 2026-08-26 · [GitHub](https://github.com/chenyu152/BossFlow) · 个人维护 · 中文 README
+⭐ 28 · Python · 推送 2026-08-26 · [GitHub](https://github.com/chenyu152/BossFlow) · 个人维护 · 中文 README
 
 **本地优先的 AI 求职工作台：采集管理 BOSS 直聘岗位、定制简历与面试准备**
 

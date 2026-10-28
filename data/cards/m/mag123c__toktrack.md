@@ -1,6 +1,6 @@
 # mag123c/toktrack
 
-⭐ 196 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mag123c/toktrack) · [官网](https://www.npmjs.com/package/toktrack) · 个人维护
+⭐ 196 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mag123c/toktrack) · [官网](https://www.npmjs.com/package/toktrack) · 个人维护
 
 **多款 AI 编程 CLI 的 token 用量与费用追踪工具**
 

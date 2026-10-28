@@ -1,6 +1,6 @@
 # use-brian/use-brian
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
 
 **自托管的公司大脑：为独立创始人与小团队记录与执行工作**
 

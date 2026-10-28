@@ -1,6 +1,6 @@
 # nautechsystems/nautilus_trader
 
-⭐ 30,944 · Rust · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
+⭐ 31,000 · Rust · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
 
 **面向量化交易者的 Rust 原生事件驱动多资产交易引擎**
 

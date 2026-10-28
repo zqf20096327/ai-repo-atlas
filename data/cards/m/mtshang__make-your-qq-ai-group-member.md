@@ -1,6 +1,6 @@
 # mtshang/make-your-qq-ai-group-member
 
-⭐ 29 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mtshang/make-your-qq-ai-group-member) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mtshang/make-your-qq-ai-group-member) · 个人维护 · 中文 README
 
 **一键部署 QQ AI 群友的 Agent Skill 部署编排包**
 

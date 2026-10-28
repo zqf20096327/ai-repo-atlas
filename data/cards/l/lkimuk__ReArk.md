@@ -1,6 +1,6 @@
 # lkimuk/ReArk
 
-⭐ 806 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lkimuk/ReArk) · 个人维护 · 中文 README
+⭐ 833 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/lkimuk/ReArk) · 个人维护 · 中文 README
 
 **多平台应用与二进制逆向分析桌面工具，含 AI 助手**
 

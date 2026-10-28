@@ -1,6 +1,6 @@
 # machulav/accountant24
 
-⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/machulav/accountant24) · [官网](https://accountant24.ai) · 个人维护
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/machulav/accountant24) · [官网](https://accountant24.ai) · 个人维护
 
 **本地优先的个人记账 AI agent：自然语言记账、对账、查账**
 

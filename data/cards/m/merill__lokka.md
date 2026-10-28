@@ -1,6 +1,6 @@
 # merill/lokka
 
-⭐ 308 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/merill/lokka) · [官网](https://lokka.dev) · 个人维护
+⭐ 310 · JavaScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/merill/lokka) · [官网](https://lokka.dev) · 个人维护
 
 **让 AI 客户端用自然语言管理 Microsoft 365 与 Azure 租户的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # healkeiser/fxhoudinimcp
 
-⭐ 376 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/healkeiser/fxhoudinimcp) · [官网](https://healkeiser.github.io/fxhoudinimcp/) · 个人维护
+⭐ 379 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/healkeiser/fxhoudinimcp) · [官网](https://healkeiser.github.io/fxhoudinimcp/) · 个人维护
 
 **让 AI 客户端通过 MCP 操作 SideFX Houdini 的服务器**
 

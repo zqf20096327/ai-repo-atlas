@@ -1,6 +1,6 @@
 # gitleaks/gitleaks
 
-⭐ 30,396 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gitleaks/gitleaks) · [官网](https://gitleaks.io) · 个人维护
+⭐ 30,448 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gitleaks/gitleaks) · [官网](https://gitleaks.io) · 个人维护
 
 **扫描 git 仓库、目录与 stdin 中的密码/API 密钥等秘密的工具**
 

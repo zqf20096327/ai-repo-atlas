@@ -1,6 +1,6 @@
 # ChrisChen667788/pixcull
 
-⭐ 126 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ChrisChen667788/pixcull) · [官网](https://github.com/ChrisChen667788/pixcull) · 个人维护 · 中文 README
+⭐ 126 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChrisChen667788/pixcull) · [官网](https://github.com/ChrisChen667788/pixcull) · 个人维护 · 中文 README
 
 **本地优先的 AI 照片筛选工具：六轴打分并写 XMP 给摄影师**
 

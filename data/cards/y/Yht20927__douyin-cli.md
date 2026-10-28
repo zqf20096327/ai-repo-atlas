@@ -1,6 +1,6 @@
 # Yht20927/douyin-cli
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Yht20927/douyin-cli) · 个人维护 · 中文 README
+⭐ 79 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Yht20927/douyin-cli) · 个人维护 · 中文 README
 
 **抖音评论运营 CLI：搜索视频、拉取评论、AI 生成并自动发布回复**
 

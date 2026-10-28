@@ -1,6 +1,6 @@
 # microsoft/BCQuality
 
-⭐ 233 · AL · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/BCQuality) · 组织维护
+⭐ 236 · AL · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/BCQuality) · 组织维护
 
 **面向 Business Central 开发的 AI 质量知识与技能库**
 

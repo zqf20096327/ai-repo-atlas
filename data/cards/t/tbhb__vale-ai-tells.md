@@ -1,6 +1,6 @@
 # tbhb/vale-ai-tells
 
-⭐ 122 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tbhb/vale-ai-tells) · 个人维护
+⭐ 122 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tbhb/vale-ai-tells) · 个人维护
 
 **检测 AI 文风痕迹的 Vale 规则包，面向技术文档与提交信息**
 

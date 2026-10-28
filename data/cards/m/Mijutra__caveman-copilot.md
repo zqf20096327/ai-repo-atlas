@@ -1,6 +1,6 @@
 # Mijutra/caveman-copilot
 
-⭐ 89 · Makefile · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Mijutra/caveman-copilot) · 个人维护
+⭐ 90 · Makefile · MIT · 推送 2026-05-27 · [GitHub](https://github.com/Mijutra/caveman-copilot) · 个人维护
 
 **给 GitHub Copilot 用的 Caveman 风格提示词文件：复制即用无需安装**
 

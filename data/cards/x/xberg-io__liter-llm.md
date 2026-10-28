@@ -1,6 +1,6 @@
 # xberg-io/liter-llm
 
-⭐ 263 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xberg-io/liter-llm) · [官网](https://docs.liter-llm.xberg.io) · 组织维护
+⭐ 263 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xberg-io/liter-llm) · [官网](https://docs.liter-llm.xberg.io) · 组织维护
 
 **统一 LLM API 客户端：174 家供应商一套接口，14 种语言绑定**
 

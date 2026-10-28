@@ -1,6 +1,6 @@
 # ziwenhahaha/daily-paper-reader
 
-⭐ 967 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ziwenhahaha/daily-paper-reader) · [官网](https://ziwenhahaha.github.io/daily-paper-reader/) · 个人维护 · 中文 README
+⭐ 968 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ziwenhahaha/daily-paper-reader) · [官网](https://ziwenhahaha.github.io/daily-paper-reader/) · 个人维护 · 中文 README
 
 **每日 arXiv/OpenReview 论文推荐与 AI 阅读的自部署平台**
 

@@ -1,6 +1,6 @@
 # imbue-bit/AlphaGPT
 
-⭐ 3,216 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/imbue-bit/AlphaGPT) · 组织维护 · 中文 README
+⭐ 3,215 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/imbue-bit/AlphaGPT) · 组织维护 · 中文 README
 
 **基于深度强化学习的自动因子工厂（量化金融）**
 

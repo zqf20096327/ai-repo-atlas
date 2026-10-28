@@ -1,6 +1,6 @@
 # GAMS-dev/gamspy
 
-⭐ 136 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/GAMS-dev/gamspy) · [官网](https://gamspy.readthedocs.io) · 组织维护
+⭐ 136 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/GAMS-dev/gamspy) · [官网](https://gamspy.readthedocs.io) · 组织维护
 
 **Python 数学优化建模库：代数式构建并求解规划模型**
 

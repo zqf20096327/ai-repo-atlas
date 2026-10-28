@@ -1,6 +1,6 @@
 # lmg-anon/mikupad
 
-⭐ 754 · HTML · AGPL-3.0 · 推送 2025-12-27 · [GitHub](https://github.com/lmg-anon/mikupad) · [官网](https://lmg-anon.github.io/mikupad/mikupad.html) · 个人维护
+⭐ 755 · HTML · AGPL-3.0 · 推送 2025-12-27 · [GitHub](https://github.com/lmg-anon/mikupad) · [官网](https://lmg-anon.github.io/mikupad/mikupad.html) · 个人维护
 
 **单 HTML 文件的浏览器端 LLM 文本生成前端**
 

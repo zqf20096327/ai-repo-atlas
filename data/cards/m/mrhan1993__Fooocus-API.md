@@ -1,6 +1,6 @@
 # mrhan1993/Fooocus-API
 
-⭐ 679 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/mrhan1993/Fooocus-API) · 个人维护 · 中文 README
+⭐ 680 · Python · GPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/mrhan1993/Fooocus-API) · 个人维护 · 中文 README
 
 **为 Fooocus 图像生成软件提供 REST API 服务**
 

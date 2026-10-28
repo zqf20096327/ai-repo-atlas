@@ -1,6 +1,6 @@
 # NVIDIA/halos-outside-in-safety
 
-⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/halos-outside-in-safety) · 组织维护
+⭐ 79 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/halos-outside-in-safety) · 组织维护
 
 **NVIDIA 机器人外部摄像头安全蓝图：用基础设施相机实时控制机器人行为**
 

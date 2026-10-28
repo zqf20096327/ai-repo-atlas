@@ -1,6 +1,6 @@
 # wenflow-org/wenflow
 
-⭐ 61 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wenflow-org/wenflow) · [官网](https://wenflow.org/) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wenflow-org/wenflow) · [官网](https://wenflow.org/) · 个人维护 · 中文 README
 
 **从真实问题出发的 AI 学习平台：对话澄清目标并生成学习路径**
 

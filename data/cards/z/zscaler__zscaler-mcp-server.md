@@ -1,6 +1,6 @@
 # zscaler/zscaler-mcp-server
 
-⭐ 52 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zscaler/zscaler-mcp-server) · [官网](https://pypi.org/project/zscaler-mcp/) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zscaler/zscaler-mcp-server) · [官网](https://pypi.org/project/zscaler-mcp/) · 组织维护
 
 **连接 AI 代理与 Zscaler 零信任平台的 MCP 服务器**
 

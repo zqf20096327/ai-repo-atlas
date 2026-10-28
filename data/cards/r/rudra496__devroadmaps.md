@@ -1,6 +1,6 @@
 # rudra496/devroadmaps
 
-⭐ 19 · JavaScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/rudra496/devroadmaps) · [官网](https://rudra496.github.io/devroadmaps) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/rudra496/devroadmaps) · [官网](https://rudra496.github.io/devroadmaps) · 个人维护
 
 **交互式开发者职业学习路线图站点：20 条路径与免费资源**
 

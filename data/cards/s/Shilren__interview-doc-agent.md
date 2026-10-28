@@ -1,6 +1,6 @@
 # Shilren/interview-doc-agent
 
-⭐ 23 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Shilren/interview-doc-agent) · 个人维护 · 中文 README
+⭐ 26 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/Shilren/interview-doc-agent) · 个人维护 · 中文 README
 
 **求职文档 Agent Skill：把零散经历沉淀成经历库，生成简历与面试逐字稿**
 

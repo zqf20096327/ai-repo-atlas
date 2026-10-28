@@ -1,6 +1,6 @@
 # tphakala/birdnet-go
 
-⭐ 2,369 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/tphakala/birdnet-go) · 个人维护
+⭐ 2,376 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/tphakala/birdnet-go) · 个人维护
 
 **自托管 24/7 实时鸟鸣与蝙蝠声音识别系统，可跑在树莓派上**
 

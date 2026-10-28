@@ -1,6 +1,6 @@
 # dipakkr/awesome-ai-engineering
 
-⭐ 22,478 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
+⭐ 22,484 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dipakkr/awesome-ai-engineering) · 个人维护
 
 **面向学生与新手的 AI/编程学习资源聚合清单**
 

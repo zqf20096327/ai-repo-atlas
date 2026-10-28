@@ -1,6 +1,6 @@
 # in30mn1a/LumiMuse
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/in30mn1a/LumiMuse) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/in30mn1a/LumiMuse) · 个人维护 · 中文 README
 
 **本地自部署的 AI 角色扮演/陪伴应用，带长期记忆与生图**
 

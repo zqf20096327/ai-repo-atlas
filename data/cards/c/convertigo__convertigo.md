@@ -1,6 +1,6 @@
 # convertigo/convertigo
 
-⭐ 387 · Java · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/convertigo/convertigo) · [官网](https://www.convertigo.com) · 组织维护
+⭐ 387 · Java · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/convertigo/convertigo) · [官网](https://www.convertigo.com) · 组织维护
 
 **面向企业的开源低代码/无代码应用开发平台，含 AI 能力**
 

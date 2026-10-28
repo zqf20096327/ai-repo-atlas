@@ -1,6 +1,6 @@
 # OFA-Sys/Chinese-CLIP
 
-⭐ 6,027 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/OFA-Sys/Chinese-CLIP) · 组织维护 · 中文 README
+⭐ 6,026 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/OFA-Sys/Chinese-CLIP) · 组织维护 · 中文 README
 
 **CLIP 模型的中文版本，用于中文图文检索与特征计算**
 

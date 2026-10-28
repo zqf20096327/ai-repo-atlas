@@ -1,6 +1,6 @@
 # youxiandechilun/Guido
 
-⭐ 36 · Java · 推送 2026-07-11 · [GitHub](https://github.com/youxiandechilun/Guido) · 个人维护 · 中文 README
+⭐ 37 · Java · 推送 2026-07-11 · [GitHub](https://github.com/youxiandechilun/Guido) · 个人维护 · 中文 README
 
 **景区导览 AI 数字人系统：多模态问答、本地 RAG 与路线推荐**
 

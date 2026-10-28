@@ -1,6 +1,6 @@
 # alexellis/rigmark
 
-⭐ 25 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexellis/rigmark) · [官网](https://github.com/alexellis/rigmark) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexellis/rigmark) · [官网](https://github.com/alexellis/rigmark) · 个人维护
 
 **面向编码 agent 用法的本地 AI 推理服务基准测试工具**
 

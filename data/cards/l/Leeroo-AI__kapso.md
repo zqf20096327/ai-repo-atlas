@@ -1,6 +1,6 @@
 # Leeroo-AI/kapso
 
-⭐ 134 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
+⭐ 134 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
 
 **面向 AI/数据系统优化的长时运行 agent 框架**
 

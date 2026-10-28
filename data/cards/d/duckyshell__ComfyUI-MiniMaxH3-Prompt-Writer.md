@@ -1,6 +1,6 @@
 # duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer
 
-⭐ 287 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer) · 个人维护
+⭐ 288 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer) · 个人维护
 
 **ComfyUI 扩展：为 MiniMax H3 视频模型编写提示词的工作台**
 

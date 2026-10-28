@@ -1,6 +1,6 @@
 # kha-white/manga-ocr
 
-⭐ 2,817 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/kha-white/manga-ocr) · 个人维护
+⭐ 2,816 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/kha-white/manga-ocr) · 个人维护
 
 **面向日本漫画的日文文本 OCR 库**
 

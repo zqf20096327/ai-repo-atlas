@@ -1,6 +1,6 @@
 # shogo-labs/shogo-ai
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/shogo-labs/shogo-ai) · [官网](https://shogo.ai) · 组织维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/shogo-labs/shogo-ai) · [官网](https://shogo.ai) · 组织维护
 
 **构建与运行 AI agent 的开源 TypeScript 平台，可自托管**
 

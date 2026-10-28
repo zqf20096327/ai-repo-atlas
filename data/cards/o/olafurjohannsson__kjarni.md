@@ -1,6 +1,6 @@
 # olafurjohannsson/kjarni
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/olafurjohannsson/kjarni) · [官网](https://kjarni.ai) · 个人维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/olafurjohannsson/kjarni) · [官网](https://kjarni.ai) · 个人维护
 
 **本地推理引擎：在进程内做嵌入、语义搜索、分类、重排与文本生成**
 

@@ -1,6 +1,6 @@
 # synsense/rockpool
 
-⭐ 93 · Python · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/synsense/rockpool) · [官网](https://rockpool.ai) · 组织维护
+⭐ 92 · Python · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/synsense/rockpool) · [官网](https://rockpool.ai) · 组织维护
 
 **面向脉冲神经网络的机器学习库：构建/训练/部署**
 

@@ -1,6 +1,6 @@
 # The-Sentience-Company/easel
 
-⭐ 60 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/The-Sentience-Company/easel) · [官网](https://github.com/The-Sentience-Company/easel#readme) · 组织维护
+⭐ 60 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/The-Sentience-Company/easel) · [官网](https://github.com/The-Sentience-Company/easel#readme) · 组织维护
 
 **本地人机审核看板：agent 发布工作，人批注，反馈以 JSON 回流**
 

@@ -1,6 +1,6 @@
 # pardnchiu/Agenvoy
 
-⭐ 594 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
+⭐ 642 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
 **自托管 24/7 本地个人 AI 代理：把对话变成电脑上完成的工作**
 

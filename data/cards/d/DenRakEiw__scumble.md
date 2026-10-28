@@ -1,6 +1,6 @@
 # DenRakEiw/scumble
 
-⭐ 154 · JavaScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DenRakEiw/scumble) · [官网](https://www.denrakeiw.com/scumble) · 个人维护
+⭐ 155 · JavaScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DenRakEiw/scumble) · [官网](https://www.denrakeiw.com/scumble) · 个人维护
 
 **AI 图像编辑器：选定区域、输入提示词，生成色彩匹配的新图层**
 

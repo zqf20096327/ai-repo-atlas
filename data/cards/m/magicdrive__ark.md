@@ -1,6 +1,6 @@
 # magicdrive/ark
 
-⭐ 25 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/magicdrive/ark) · 个人维护 · 中文 README
+⭐ 25 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/magicdrive/ark) · 个人维护 · 中文 README
 
 **面向 AI 编码 agent 的代码智能引擎（MCP 服务器）**
 

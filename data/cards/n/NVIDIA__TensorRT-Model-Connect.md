@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-Model-Connect
 
-⭐ 282 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
+⭐ 283 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
 
 **将 HuggingFace 模型经 TensorRT 端到端部署的 C++ 参考实现集**
 

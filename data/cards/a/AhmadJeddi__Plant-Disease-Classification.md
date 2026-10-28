@@ -1,6 +1,6 @@
 # AhmadJeddi/Plant-Disease-Classification
 
-⭐ 49 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AhmadJeddi/Plant-Disease-Classification) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AhmadJeddi/Plant-Disease-Classification) · 个人维护
 
 **基于 ResNet50-DCBAM 的植物病害图像分类框架**
 

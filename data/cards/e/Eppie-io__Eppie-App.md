@@ -1,6 +1,6 @@
 # Eppie-io/Eppie-App
 
-⭐ 417 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Eppie-io/Eppie-App) · [官网](https://eppie.io) · 组织维护
+⭐ 417 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Eppie-io/Eppie-App) · [官网](https://eppie.io) · 组织维护
 
 **无服务器的加密点对点邮件客户端，支持现有邮箱账户**
 

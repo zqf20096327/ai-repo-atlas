@@ -1,6 +1,6 @@
 # affige/genmusic_demo_list
 
-⭐ 799 · 推送 2026-10-22 · [GitHub](https://github.com/affige/genmusic_demo_list) · 个人维护
+⭐ 799 · 推送 2026-10-28 · [GitHub](https://github.com/affige/genmusic_demo_list) · 个人维护
 
 **自动音乐生成研究 demo 网站清单**
 

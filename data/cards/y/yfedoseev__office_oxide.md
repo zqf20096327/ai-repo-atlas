@@ -1,6 +1,6 @@
 # yfedoseev/office_oxide
 
-⭐ 158 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/yfedoseev/office_oxide) · [官网](https://office.oxide.fyi) · 个人维护
+⭐ 159 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/yfedoseev/office_oxide) · [官网](https://office.oxide.fyi) · 个人维护
 
 **多语言 Office 文档解析库：6 种格式提取文本/Markdown**
 

@@ -1,6 +1,6 @@
 # sendaifun/solana-agent-kit
 
-⭐ 1,725 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/sendaifun/solana-agent-kit) · [官网](https://kit.sendai.fun) · 组织维护
+⭐ 1,728 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/sendaifun/solana-agent-kit) · [官网](https://kit.sendai.fun) · 组织维护
 
 **将 AI agent 接入 Solana 协议的 TypeScript 工具包**
 

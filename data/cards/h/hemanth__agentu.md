@@ -1,6 +1,6 @@
 # hemanth/agentu
 
-⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/hemanth/agentu) · [官网](https://hemanth.github.io/agentu-codelab/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/hemanth/agentu) · [官网](https://hemanth.github.io/agentu-codelab/) · 个人维护
 
 **面向开发者的 Python AI agent 运行时：工具沙箱、自纠错与权限分级**
 

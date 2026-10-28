@@ -1,6 +1,6 @@
 # couchbase/mcp-server-couchbase
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/couchbase/mcp-server-couchbase) · [官网](https://docs.couchbase.com/mcp-server/get-started/overview.html) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/couchbase/mcp-server-couchbase) · [官网](https://docs.couchbase.com/mcp-server/get-started/overview.html) · 组织维护
 
 **连接 AI 客户端与 Couchbase 数据库的自托管 MCP 服务器**
 

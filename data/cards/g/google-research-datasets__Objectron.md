@@ -1,6 +1,6 @@
 # google-research-datasets/Objectron
 
-⭐ 2,359 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/google-research-datasets/Objectron) · 组织维护
+⭐ 2,360 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/google-research-datasets/Objectron) · 组织维护
 
 **面向 3D 视觉的物体中心视频数据集：含姿态标注与 AR 元数据**
 

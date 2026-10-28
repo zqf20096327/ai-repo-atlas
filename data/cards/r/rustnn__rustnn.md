@@ -1,6 +1,6 @@
 # rustnn/rustnn
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rustnn/rustnn) · [官网](https://rustnn.github.io/rustnn/) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rustnn/rustnn) · [官网](https://rustnn.github.io/rustnn/) · 组织维护
 
 **W3C WebNN API 的 Rust 实现，带可插拔执行后端**
 

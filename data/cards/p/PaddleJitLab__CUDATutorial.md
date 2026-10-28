@@ -1,6 +1,6 @@
 # PaddleJitLab/CUDATutorial
 
-⭐ 1,152 · JavaScript · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddleJitLab/CUDATutorial) · 个人维护 · 中文 README
+⭐ 1,153 · JavaScript · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddleJitLab/CUDATutorial) · 个人维护 · 中文 README
 
 **CUDA 高性能编程与 LLM 推理技术的中文自学教程仓库**
 

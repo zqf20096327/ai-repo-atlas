@@ -1,6 +1,6 @@
 # hailo-ai/hailo_model_zoo
 
-⭐ 721 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hailo-ai/hailo_model_zoo) · 组织维护
+⭐ 721 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hailo-ai/hailo_model_zoo) · 组织维护
 
 **面向 Hailo 边缘芯片的预训练模型库与编译评测环境**
 

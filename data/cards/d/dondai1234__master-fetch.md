@@ -1,6 +1,6 @@
 # dondai1234/master-fetch
 
-⭐ 893 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/dondai1234/master-fetch) · [官网](https://hound-mcp.pages.dev) · 个人维护
+⭐ 896 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/dondai1234/master-fetch) · [官网](https://hound-mcp.pages.dev) · 个人维护
 
 **给 AI agent 用的本地网页抓取与搜索 MCP 服务器**
 

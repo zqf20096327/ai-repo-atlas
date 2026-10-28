@@ -1,6 +1,6 @@
 # Kikobeats/isolated-function
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Kikobeats/isolated-function) · [官网](https://isolated-function.js.org/) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Kikobeats/isolated-function) · [官网](https://isolated-function.js.org/) · 个人维护
 
 **在独立 Node.js 进程中受控执行用户自定义 JavaScript 的沙箱库**
 

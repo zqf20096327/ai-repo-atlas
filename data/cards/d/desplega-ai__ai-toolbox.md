@@ -1,6 +1,6 @@
 # desplega-ai/ai-toolbox
 
-⭐ 36 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/desplega-ai/ai-toolbox) · [官网](https://desplega.ai) · 组织维护
+⭐ 36 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/desplega-ai/ai-toolbox) · [官网](https://desplega.ai) · 组织维护
 
 **面向 Claude Code 的 AI 开发工具与插件 monorepo（17 个子工具）**
 

@@ -1,6 +1,6 @@
 # patrick-kidger/diffrax
 
-⭐ 2,117 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/patrick-kidger/diffrax) · 个人维护
+⭐ 2,119 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/patrick-kidger/diffrax) · 个人维护
 
 **JAX 上的可微分数值微分方程求解器库**
 

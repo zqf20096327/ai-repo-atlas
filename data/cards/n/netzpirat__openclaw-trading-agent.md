@@ -1,6 +1,6 @@
 # netzpirat/openclaw-trading-agent
 
-⭐ 447 · Python · 推送 2026-05-03 · [GitHub](https://github.com/netzpirat/openclaw-trading-agent) · [官网](https://agentvps.io) · 个人维护
+⭐ 448 · Python · 推送 2026-05-03 · [GitHub](https://github.com/netzpirat/openclaw-trading-agent) · [官网](https://agentvps.io) · 个人维护
 
 **面向 Hyperliquid 的 LLM 驱动自动化交易 Agent**
 

@@ -1,6 +1,6 @@
 # papercomputeco/tapes
 
-⭐ 333 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
+⭐ 333 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/papercomputeco/tapes) · [官网](https://tapes.dev) · 组织维护
 
 **面向开发者的 agent 遥测系统：持久化采集 LLM 会话并派生会话/追踪/ spans**
 

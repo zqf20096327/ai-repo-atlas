@@ -1,6 +1,6 @@
 # tugcantopaloglu/godot-mcp
 
-⭐ 504 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tugcantopaloglu/godot-mcp) · 个人维护
+⭐ 505 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/tugcantopaloglu/godot-mcp) · 个人维护
 
 **让 AI 助手全面控制 Godot 引擎的 MCP 服务器（157 个工具）**
 

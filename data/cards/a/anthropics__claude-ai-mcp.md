@@ -1,6 +1,6 @@
 # anthropics/claude-ai-mcp
 
-⭐ 530 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/anthropics/claude-ai-mcp) · 组织维护
+⭐ 532 · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/anthropics/claude-ai-mcp) · 组织维护
 
 **Claude.ai MCP 集成的问题反馈与公告沟通中心**
 

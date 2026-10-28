@@ -1,6 +1,6 @@
 # DeepTrackAI/DeepTrack2
 
-⭐ 248 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DeepTrackAI/DeepTrack2) · [官网](https://deeptrackai.github.io/DeepTrack2/) · 组织维护
+⭐ 248 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DeepTrackAI/DeepTrack2) · [官网](https://deeptrackai.github.io/DeepTrack2/) · 组织维护
 
 **数字显微镜深度学习库：模拟成像并训练模型追踪/检测粒子**
 

@@ -1,6 +1,6 @@
 # aiming-lab/SimpleMem
 
-⭐ 3,852 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/aiming-lab/SimpleMem) · 组织维护 · 中文 README
+⭐ 3,855 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/aiming-lab/SimpleMem) · 组织维护 · 中文 README
 
 **给 LLM Agent 开发者的长期记忆库：存储、压缩、检索多模态记忆**
 

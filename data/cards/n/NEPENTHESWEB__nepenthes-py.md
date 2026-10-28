@@ -1,6 +1,6 @@
 # NEPENTHESWEB/nepenthes-py
 
-⭐ 47 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/NEPENTHESWEB/nepenthes-py) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/NEPENTHESWEB/nepenthes-py) · 组织维护
 
 **网站主的反 AI 爬虫陷阱：用无限假页面困住 LLM 爬虫**
 

@@ -1,6 +1,6 @@
 # bradygaster/squad
 
-⭐ 3,305 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bradygaster/squad) · [官网](https://bradygaster.github.io/squad/) · 个人维护
+⭐ 3,308 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bradygaster/squad) · [官网](https://bradygaster.github.io/squad/) · 个人维护
 
 **基于 GitHub Copilot 的人主导多 AI 代理团队 CLI 工具**
 

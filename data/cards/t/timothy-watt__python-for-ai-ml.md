@@ -1,6 +1,6 @@
 # timothy-watt/python-for-ai-ml
 
-⭐ 29 · Jupyter Notebook · MIT · 推送 2026-03-01 · [GitHub](https://github.com/timothy-watt/python-for-ai-ml) · [官网](https://github.com/timothy-watt/python-for-ai-ml) · 个人维护
+⭐ 30 · Jupyter Notebook · MIT · 推送 2026-03-01 · [GitHub](https://github.com/timothy-watt/python-for-ai-ml) · [官网](https://github.com/timothy-watt/python-for-ai-ml) · 个人维护
 
 **免费 Python 与 AI/ML 交互式教科书，全程在 Colab 运行**
 

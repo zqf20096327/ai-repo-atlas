@@ -1,6 +1,6 @@
 # VoltAgent/voltagent
 
-⭐ 10,881 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护 · 中文 README
+⭐ 10,890 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护 · 中文 README
 
 **TypeScript AI Agent 开发框架，含可观测性控制台平台**
 

@@ -1,6 +1,6 @@
 # beynar/svelte-streamdown
 
-⭐ 106 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/beynar/svelte-streamdown) · [官网](https://svelte-streamdown.beynar.workers.dev/) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/beynar/svelte-streamdown) · [官网](https://svelte-streamdown.beynar.workers.dev/) · 个人维护
 
 **面向 AI 流式应用的 Svelte Markdown 渲染组件库**
 

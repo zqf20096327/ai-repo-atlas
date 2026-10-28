@@ -1,6 +1,6 @@
 # jonathan-laurent/AlphaZero.jl
 
-⭐ 1,338 · Julia · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jonathan-laurent/AlphaZero.jl) · [官网](https://jonathan-laurent.github.io/AlphaZero.jl/stable/) · 个人维护
+⭐ 1,339 · Julia · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jonathan-laurent/AlphaZero.jl) · [官网](https://jonathan-laurent.github.io/AlphaZero.jl/stable/) · 个人维护
 
 **Julia 编写的通用 AlphaZero 算法实现，供研究与教学训练游戏智能体**
 

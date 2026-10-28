@@ -1,6 +1,6 @@
 # AIFrontierLab/AgentArk
 
-⭐ 254 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/AIFrontierLab/AgentArk) · [官网](https://aifrontierlab.github.io/AgentArk/) · 组织维护
+⭐ 258 · Python · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/AIFrontierLab/AgentArk) · [官网](https://aifrontierlab.github.io/AgentArk/) · 组织维护
 
 **将多智能体辩论蒸馏进单一 LLM 的研究框架（NeurIPS'26 论文官方实现）**
 

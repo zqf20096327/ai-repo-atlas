@@ -1,6 +1,6 @@
 # Onion99/KMP-MineStableDiffusion
 
-⭐ 128 · Kotlin · GPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护
+⭐ 129 · Kotlin · GPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护
 
 **Kotlin 多平台本地 AI 绘图客户端：手机/桌面离线运行 Stable Diffusion**
 

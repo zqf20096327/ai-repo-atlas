@@ -1,6 +1,6 @@
 # qualcomm/aimet
 
-⭐ 2,735 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://quic.github.io/aimet-pages/index.html) · 组织维护
+⭐ 2,737 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://quic.github.io/aimet-pages/index.html) · 组织维护
 
 **面向已训练 ML 模型的量化与压缩工具库**
 

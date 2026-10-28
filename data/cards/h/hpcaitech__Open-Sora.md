@@ -1,6 +1,6 @@
 # hpcaitech/Open-Sora
 
-⭐ 29,882 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
+⭐ 29,885 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
 
 **面向开发者的开源高质量视频生成模型与训练工具集**
 

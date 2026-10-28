@@ -1,6 +1,6 @@
 # langfuse/langfuse-cli
 
-⭐ 65 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langfuse/langfuse-cli) · [官网](https://langfuse.com/docs/api-and-data-platform/features/cli) · 组织维护
+⭐ 66 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langfuse/langfuse-cli) · [官网](https://langfuse.com/docs/api-and-data-platform/features/cli) · 组织维护
 
 **Langfuse API 的命令行客户端，面向 AI agent 与高级用户**
 

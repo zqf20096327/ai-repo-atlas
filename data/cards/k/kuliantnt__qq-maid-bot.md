@@ -1,6 +1,6 @@
 # kuliantnt/qq-maid-bot
 
-⭐ 127 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kuliantnt/qq-maid-bot) · 个人维护 · 中文 README
+⭐ 126 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kuliantnt/qq-maid-bot) · 个人维护 · 中文 README
 
 **自托管多入口 AI Agent 聊天机器人（QQ/OneBot/微信）**
 

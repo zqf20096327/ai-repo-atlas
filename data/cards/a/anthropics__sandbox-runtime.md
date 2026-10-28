@@ -1,6 +1,6 @@
 # anthropics/sandbox-runtime
 
-⭐ 6,757 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
+⭐ 6,816 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
 
 **给开发者的进程级沙箱：限制任意进程的文件与网络访问**
 

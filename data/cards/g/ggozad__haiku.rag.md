@@ -1,6 +1,6 @@
 # ggozad/haiku.rag
 
-⭐ 639 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ggozad/haiku.rag) · [官网](https://ggozad.github.io/haiku.rag/) · 个人维护
+⭐ 642 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggozad/haiku.rag) · [官网](https://ggozad.github.io/haiku.rag/) · 个人维护
 
 **本地/自托管文档问答的 Agentic RAG 工具，带引用与来源核验**
 

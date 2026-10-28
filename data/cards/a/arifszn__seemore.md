@@ -1,6 +1,6 @@
 # arifszn/seemore
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/arifszn/seemore) · [官网](https://arifszn.github.io/seemore) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/arifszn/seemore) · [官网](https://arifszn.github.io/seemore) · 个人维护
 
 **零配置 Markdown 文档渲染工具：把现有文件夹变文档站点**
 

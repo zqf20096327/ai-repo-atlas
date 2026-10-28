@@ -1,6 +1,6 @@
 # antinomie-lab/pi-book
 
-⭐ 428 · Vue · 推送 2026-08-24 · [GitHub](https://github.com/antinomie-lab/pi-book) · [官网](https://books.antinomie.org/pi) · 个人维护 · 中文 README
+⭐ 429 · Vue · 推送 2026-08-24 · [GitHub](https://github.com/antinomie-lab/pi-book) · [官网](https://books.antinomie.org/pi) · 个人维护 · 中文 README
 
 **逐行解读 pi-agent-core 源码架构的中文开源书**
 

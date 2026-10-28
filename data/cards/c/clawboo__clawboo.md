@@ -1,6 +1,6 @@
 # clawboo/clawboo
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/clawboo/clawboo) · [官网](https://www.claw.boo) · 组织维护
+⭐ 63 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/clawboo/clawboo) · [官网](https://www.claw.boo) · 组织维护
 
 **自托管的多 AI agent 团队工作台：一次提问，团队分工协作交付**
 

@@ -1,6 +1,6 @@
 # haymon-ai/dbmcp
 
-⭐ 32 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/haymon-ai/dbmcp) · [官网](https://dbmcp.haymon.ai) · 组织维护
+⭐ 33 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/haymon-ai/dbmcp) · [官网](https://dbmcp.haymon.ai) · 组织维护
 
 **把 AI 助手接入 SQL 数据库的 MCP 服务器，含只读与防护**
 

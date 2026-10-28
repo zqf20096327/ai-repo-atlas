@@ -1,6 +1,6 @@
 # vllm-project/vllm-metal
 
-⭐ 1,919 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/vllm-metal) · [官网](https://docs.vllm.ai/projects/vllm-metal) · 组织维护
+⭐ 1,926 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-metal) · [官网](https://docs.vllm.ai/projects/vllm-metal) · 组织维护
 
 **让 vLLM 在 Apple Silicon 上用 MLX 后端运行的硬件插件**
 

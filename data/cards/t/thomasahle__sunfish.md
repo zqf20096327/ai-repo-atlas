@@ -1,6 +1,6 @@
 # thomasahle/sunfish
 
-⭐ 3,304 · Python · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/thomasahle/sunfish) · [官网](https://www.chessprogramming.org/Sunfish) · 个人维护
+⭐ 3,305 · Python · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/thomasahle/sunfish) · [官网](https://www.chessprogramming.org/Sunfish) · 个人维护
 
 **用约 126 行 Python 实现的极简国际象棋引擎**
 

@@ -1,6 +1,6 @@
 # microsoft/data-formulator
 
-⭐ 17,620 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
+⭐ 17,627 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/data-formulator) · [官网](https://data-formulator.ai/) · 组织维护
 
 **给分析师的 AI 数据探索工作台：连接、分析并可视化数据**
 

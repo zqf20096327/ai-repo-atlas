@@ -1,6 +1,6 @@
 # BoardUI/boardui
 
-⭐ 666 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
+⭐ 669 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
 
 **面向 AI 产品的 React 组件设计系统，含自带模型 Key 的聊天应用首页**
 

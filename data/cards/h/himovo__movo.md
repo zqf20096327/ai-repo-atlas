@@ -1,6 +1,6 @@
 # himovo/movo
 
-⭐ 412 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
+⭐ 428 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
 
 **自托管企业 Agent 平台：在 DSH 运行时上交付知识问答与自动化**
 

@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/k8s-aibom
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 61 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GoogleCloudPlatform/k8s-aibom) · 组织维护
 
 **K8s 控制器：运行时盘点集群内 AI 负载并生成 ML-BOM**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

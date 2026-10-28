@@ -1,6 +1,6 @@
 # wwjjqq888888-pixel/nanfeng-h3-comfyui
 
-⭐ 29 · Python · 推送 2026-09-01 · [GitHub](https://github.com/wwjjqq888888-pixel/nanfeng-h3-comfyui) · 个人维护 · 中文 README
+⭐ 30 · Python · 推送 2026-09-01 · [GitHub](https://github.com/wwjjqq888888-pixel/nanfeng-h3-comfyui) · 个人维护 · 中文 README
 
 **MiniMax H3 的 ComfyUI 一体化节点：多参考、分镜与音频驱动**
 

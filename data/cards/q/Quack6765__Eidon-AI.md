@@ -1,6 +1,6 @@
 # Quack6765/Eidon-AI
 
-⭐ 42 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Quack6765/Eidon-AI) · [官网](https://eidonai.app) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Quack6765/Eidon-AI) · [官网](https://eidonai.app) · 个人维护 · 中文 README
 
 **自托管 BYOK 多 agent 协作与日常对话 AI 平台**
 

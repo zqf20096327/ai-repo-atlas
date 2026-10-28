@@ -1,6 +1,6 @@
 # gabe-santana/arkdraw
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
 
 **带 AI 助手的本地优先开源图表编辑器**
 

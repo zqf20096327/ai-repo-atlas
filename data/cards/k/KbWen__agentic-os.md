@@ -1,6 +1,6 @@
 # KbWen/agentic-os
 
-⭐ 220 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/KbWen/agentic-os) · [官网](https://www.kbwen.com/tags/agentic-os/) · 个人维护 · 中文 README
+⭐ 222 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KbWen/agentic-os) · [官网](https://www.kbwen.com/tags/agentic-os/) · 个人维护 · 中文 README
 
 **AI 编码 agent 的治理框架：用 git hook 与 CI 核验证据**
 

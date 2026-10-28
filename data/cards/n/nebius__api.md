@@ -1,6 +1,6 @@
 # nebius/api
 
-⭐ 21 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nebius/api) · [官网](https://nebius.com) · 组织维护
+⭐ 21 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nebius/api) · [官网](https://nebius.com) · 组织维护
 
 **Nebius AI Cloud 的 gRPC API .proto 定义文件仓库**
 

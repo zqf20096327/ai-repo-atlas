@@ -1,6 +1,6 @@
 # aliengiraffe/spotdb
 
-⭐ 21 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/aliengiraffe/spotdb) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aliengiraffe/spotdb) · 个人维护
 
 **面向 AI agent 的临时 SQL 数据沙箱：CSV 上传、隔离查询、带护栏**
 

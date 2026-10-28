@@ -1,6 +1,6 @@
 # Twigpine/openclaude
 
-⭐ 34,175 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
+⭐ 34,192 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Twigpine/openclaude) · [官网](https://openclaude.twigpine.com) · 组织维护
 
 **面向开发者的多后端编码 agent CLI，统一终端工作流**
 

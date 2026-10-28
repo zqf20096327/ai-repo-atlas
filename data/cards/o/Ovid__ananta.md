@@ -1,6 +1,6 @@
 # Ovid/ananta
 
-⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ovid/ananta) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ovid/ananta) · 个人维护
 
 **让 AI 主动读代码库/文档集并给出带引用回答的工具**
 

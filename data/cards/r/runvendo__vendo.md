@@ -1,6 +1,6 @@
 # runvendo/vendo
 
-⭐ 633 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/runvendo/vendo) · [官网](https://vendo.run) · 组织维护
+⭐ 632 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/runvendo/vendo) · [官网](https://vendo.run) · 组织维护
 
 **B2B SaaS 内嵌定制层：让客户用自然语言构建功能与自动化**
 

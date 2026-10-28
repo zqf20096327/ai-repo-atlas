@@ -1,6 +1,6 @@
 # DemoMacro/office-open
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DemoMacro/office-open) · [官网](https://www.office-open.com/) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DemoMacro/office-open) · [官网](https://www.office-open.com/) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Office 文档生成/解析/修补 TypeScript 库**
 

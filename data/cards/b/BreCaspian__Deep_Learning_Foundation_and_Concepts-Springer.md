@@ -1,6 +1,6 @@
 # BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer
 
-⭐ 119 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) · [官网](https://www.bishopbook.com) · 个人维护 · 中文 README
+⭐ 120 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) · [官网](https://www.bishopbook.com) · 个人维护 · 中文 README
 
 **深度学习教材《Deep Learning: Foundations and Concepts》配套资源仓库**
 

@@ -1,6 +1,6 @@
 # friuns2/codex-mobile
 
-⭐ 978 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/friuns2/codex-mobile) · [官网](https://friuns2.github.io/codex-mobile/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 Codex 桌面端体验通过浏览器跨平台运行的桥接工具**
 
@@ -11,7 +11,7 @@ codexapp 是一个轻量级桥接层：通过一条 npx 命令启动本地 Web �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # drfccv/mcp-server-12306
 
-⭐ 414 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/drfccv/mcp-server-12306) · 个人维护 · 中文 README
+⭐ 415 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/drfccv/mcp-server-12306) · 个人维护 · 中文 README
 
 **为 AI 客户端提供 12306 火车票查询的 MCP 服务器**
 

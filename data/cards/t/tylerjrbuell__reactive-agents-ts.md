@@ -1,6 +1,6 @@
 # tylerjrbuell/reactive-agents-ts
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tylerjrbuell/reactive-agents-ts) · [官网](https://docs.reactiveagents.dev) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tylerjrbuell/reactive-agents-ts) · [官网](https://docs.reactiveagents.dev) · 个人维护
 
 **TypeScript agent 框架：可控执行与可观测的 agent 运行构建**
 

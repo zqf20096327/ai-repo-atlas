@@ -1,6 +1,6 @@
 # darkroomengineering/cc-settings
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/darkroomengineering/cc-settings) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/darkroomengineering/cc-settings) · 组织维护
 
 **给 Claude Code/Codex 装团队工程规范的工作流配置包**
 

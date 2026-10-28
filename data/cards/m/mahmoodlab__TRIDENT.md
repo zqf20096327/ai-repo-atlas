@@ -1,6 +1,6 @@
 # mahmoodlab/TRIDENT
 
-⭐ 647 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mahmoodlab/TRIDENT) · [官网](https://trident-docs.readthedocs.io) · 组织维护
+⭐ 649 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/mahmoodlab/TRIDENT) · [官网](https://trident-docs.readthedocs.io) · 组织维护
 
 **病理全切片图像大规模处理工具包：分割、切块与特征提取**
 

@@ -1,6 +1,6 @@
 # drprojects/superpoint_transformer
 
-⭐ 1,068 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/drprojects/superpoint_transformer) · 组织维护
+⭐ 1,068 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/drprojects/superpoint_transformer) · 组织维护
 
 **大规模 3D 点云语义/全景分割的 PyTorch 官方实现（三篇论文）**
 

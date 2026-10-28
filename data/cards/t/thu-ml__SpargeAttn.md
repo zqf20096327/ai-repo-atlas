@@ -1,6 +1,6 @@
 # thu-ml/SpargeAttn
 
-⭐ 1,264 · Cuda · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/thu-ml/SpargeAttn) · [官网](https://arxiv.org/abs/2502.18137) · 组织维护
+⭐ 1,265 · Cuda · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/thu-ml/SpargeAttn) · [官网](https://arxiv.org/abs/2502.18137) · 组织维护
 
 **免训练稀疏注意力库：加速语言/图像/视频模型推理**
 

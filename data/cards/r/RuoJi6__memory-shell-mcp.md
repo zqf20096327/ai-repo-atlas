@@ -1,6 +1,6 @@
 # RuoJi6/memory-shell-mcp
 
-⭐ 28 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/RuoJi6/memory-shell-mcp) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-01-14 · [GitHub](https://github.com/RuoJi6/memory-shell-mcp) · 个人维护 · 中文 README
 
 **检测与清除 Java 内存马的 MCP 服务器，支持本地/SSH 执行**
 

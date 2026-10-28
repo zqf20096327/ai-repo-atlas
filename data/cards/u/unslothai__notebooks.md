@@ -1,6 +1,6 @@
 # unslothai/notebooks
 
-⭐ 5,757 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 5,760 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
 
 **250+ 模型微调与强化学习 Jupyter Notebook 集合（Colab）**
 

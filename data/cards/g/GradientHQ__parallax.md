@@ -1,6 +1,6 @@
 # GradientHQ/parallax
 
-⭐ 1,410 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/GradientHQ/parallax) · 组织维护
+⭐ 1,411 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/GradientHQ/parallax) · 组织维护
 
 **分布式 LLM 推理引擎：跨设备组建集群共享 GPU 托管模型**
 

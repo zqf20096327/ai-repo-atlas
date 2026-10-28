@@ -1,6 +1,6 @@
 # Nauv357/pickq
 
-⭐ 22 · Java · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nauv357/pickq) · [官网](https://pickq.cn/) · 个人维护 · 中文 README
+⭐ 23 · Java · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nauv357/pickq) · [官网](https://pickq.cn/) · 个人维护 · 中文 README
 
 **把试卷与笔记变成本机题库并间隔复习的 Windows 桌面应用**
 

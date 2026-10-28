@@ -1,6 +1,6 @@
 # zhaorw02/DeepMesh
 
-⭐ 735 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/zhaorw02/DeepMesh) · [官网](https://zhaorw02.github.io/DeepMesh/) · 组织维护
+⭐ 736 · Python · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/zhaorw02/DeepMesh) · [官网](https://zhaorw02.github.io/DeepMesh/) · 组织维护
 
 **点云条件下的自回归网格生成模型（ICCV 2025）**
 

@@ -1,6 +1,6 @@
 # pic-standard/pic-standard
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pic-standard/pic-standard) · [官网](https://madeinpluto.com/pic) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pic-standard/pic-standard) · [官网](https://madeinpluto.com/pic) · 组织维护
 
 **AI agent 工具调用前的意图与证据验证标准及参考实现**
 

@@ -1,6 +1,6 @@
 # ElectronGirl/ComfyUI-Anima-Ref-Adapter
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter) · 个人维护
+⭐ 111 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter) · 个人维护
 
 **ComfyUI 节点包：单参考图保持角色一致性的 Anima 图像生成**
 

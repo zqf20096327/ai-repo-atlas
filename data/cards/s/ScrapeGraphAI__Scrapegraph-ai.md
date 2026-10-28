@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-ai
 
-⭐ 32,274 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
+⭐ 32,315 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai) · [官网](https://scrapegraphai.com) · 组织维护
 
 **基于 LLM 的 Python 网页抓取库，自然语言即抽取**
 

@@ -1,6 +1,6 @@
 # yasserfarouk/negmas
 
-⭐ 102 · Jupyter Notebook · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/yasserfarouk/negmas) · 个人维护
+⭐ 102 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/yasserfarouk/negmas) · 个人维护
 
 **构建自主谈判智能体的 Python 库，支持多边谈判与仿真**
 

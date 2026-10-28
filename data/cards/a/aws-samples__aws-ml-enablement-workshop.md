@@ -1,6 +1,6 @@
 # aws-samples/aws-ml-enablement-workshop
 
-⭐ 550 · Jupyter Notebook · MIT-0 · 推送 2026-10-09 · [GitHub](https://github.com/aws-samples/aws-ml-enablement-workshop) · 组织维护 · 中文 README
+⭐ 551 · Jupyter Notebook · MIT-0 · 推送 2026-10-09 · [GitHub](https://github.com/aws-samples/aws-ml-enablement-workshop) · 组织维护 · 中文 README
 
 **AWS 维护的 ML/生成 AI 产品开发工作坊资料集**
 

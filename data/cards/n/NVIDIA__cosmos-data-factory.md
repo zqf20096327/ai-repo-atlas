@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-data-factory
 
-⭐ 63 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-data-factory) · 组织维护
+⭐ 65 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-data-factory) · 组织维护
 
 **物理 AI 合成数据生成工作流：把真实数据变成带标注的训练集**
 

@@ -1,6 +1,6 @@
 # skypilot-org/skypilot
 
-⭐ 10,754 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/skypilot-org/skypilot) · [官网](https://skypilot.ai/) · 组织维护
+⭐ 10,762 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/skypilot-org/skypilot) · [官网](https://skypilot.ai/) · 组织维护
 
 **跨云/集群运行管理 AI 与 GPU 工作负载的统一平台**
 

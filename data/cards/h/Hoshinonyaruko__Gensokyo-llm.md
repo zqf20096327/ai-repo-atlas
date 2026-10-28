@@ -1,6 +1,6 @@
 # Hoshinonyaruko/Gensokyo-llm
 
-⭐ 139 · Go · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Hoshinonyaruko/Gensokyo-llm) · [官网](https://gensokyo.bot) · 个人维护 · 中文 README
+⭐ 138 · Go · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/Hoshinonyaruko/Gensokyo-llm) · [官网](https://gensokyo.bot) · 个人维护 · 中文 README
 
 **面向 Onebot11/Gensokyo 的大模型一键接入与统一 API 网关**
 

@@ -1,6 +1,6 @@
 # ggml-org/Llama-Windows
 
-⭐ 304 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ggml-org/Llama-Windows) · [官网](https://llama.app) · 组织维护
+⭐ 310 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/Llama-Windows) · [官网](https://llama.app) · 组织维护
 
 **Windows 11 托盘应用：一键本地运行 llama.cpp 模型并对话**
 

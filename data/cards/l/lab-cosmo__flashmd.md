@@ -1,6 +1,6 @@
 # lab-cosmo/flashmd
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/lab-cosmo/flashmd) · [官网](https://papers.nips.cc/paper_files/paper/2025/file/7ffade093764c9a59a777c3cbe346b97-Paper-Conference.pdf) · 组织维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/lab-cosmo/flashmd) · [官网](https://papers.nips.cc/paper_files/paper/2025/file/7ffade093764c9a59a777c3cbe346b97-Paper-Conference.pdf) · 组织维护
 
 **用长步长机器学习模型预测分子动力学轨迹的工具库**
 

@@ -1,6 +1,6 @@
 # auth0/agent-skills
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/auth0/agent-skills) · 组织维护
+⭐ 55 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/auth0/agent-skills) · 组织维护
 
 **Auth0 官方 AI 编程助手技能包：指导助手正确接入 Auth0 认证**
 

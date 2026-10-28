@@ -1,6 +1,6 @@
 # PocketRisu/PocketRisu
 
-⭐ 416 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PocketRisu/PocketRisu) · [官网](https://pocketrisu.com/) · 组织维护 · 中文 README
+⭐ 417 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PocketRisu/PocketRisu) · [官网](https://pocketrisu.com/) · 组织维护 · 中文 README
 
 **自托管 AI 角色扮演聊天平台，PC/手机浏览器访问**
 

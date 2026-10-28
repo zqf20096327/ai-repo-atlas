@@ -1,6 +1,6 @@
 # sgl-project/mini-sglang
 
-⭐ 5,455 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/sgl-project/mini-sglang) · 组织维护
+⭐ 5,463 · Python · MIT · 推送 2026-05-17 · [GitHub](https://github.com/sgl-project/mini-sglang) · 组织维护
 
 **SGLang 的紧凑实现：约 5000 行的 LLM 推理服务框架**
 

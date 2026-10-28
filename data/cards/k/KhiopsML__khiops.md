@@ -1,6 +1,6 @@
 # KhiopsML/khiops
 
-⭐ 79 · C++ · BSD-3-Clause-Clear · 推送 2026-10-27 · [GitHub](https://github.com/KhiopsML/khiops) · [官网](https://khiops.org) · 组织维护
+⭐ 79 · C++ · BSD-3-Clause-Clear · 推送 2026-10-28 · [GitHub](https://github.com/KhiopsML/khiops) · [官网](https://khiops.org) · 组织维护
 
 **面向监督与无监督学习的 AutoML 套件**
 

@@ -1,6 +1,6 @@
 # fuxicodex/Fuxi
 
-⭐ 3,204 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/fuxicodex/Fuxi) · [官网](https://www.fuxicode.com) · 组织维护 · 中文 README
+⭐ 3,202 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/fuxicodex/Fuxi) · [官网](https://www.fuxicode.com) · 组织维护 · 中文 README
 
 **终端 AI 编程 agent：读码改码、跑命令、多模型路由**
 

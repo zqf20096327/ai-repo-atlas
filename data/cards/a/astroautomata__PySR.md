@@ -1,6 +1,6 @@
 # astroautomata/PySR
 
-⭐ 4,206 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/astroautomata/PySR) · [官网](https://pysr.ai) · 个人维护
+⭐ 4,210 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/astroautomata/PySR) · [官网](https://pysr.ai) · 个人维护
 
 **符号回归库：从数据中搜索可解释的数学表达式**
 

@@ -1,6 +1,6 @@
 # chaitin/PandaWiki
 
-⭐ 10,341 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/PandaWiki) · [官网](https://pandawiki.docs.baizhi.cloud/) · 组织维护 · 中文 README
+⭐ 10,342 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/chaitin/PandaWiki) · [官网](https://pandawiki.docs.baizhi.cloud/) · 组织维护 · 中文 README
 
 **自托管的开源知识库/Wiki 搭建系统，提供 AI 创作、问答与搜索**
 

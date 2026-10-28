@@ -1,6 +1,6 @@
 # alibaba/UnifiedModel
 
-⭐ 439 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/alibaba/UnifiedModel) · [官网](https://alibaba.github.io/UnifiedModel/) · 组织维护 · 中文 README
+⭐ 442 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/alibaba/UnifiedModel) · [官网](https://alibaba.github.io/UnifiedModel/) · 组织维护 · 中文 README
 
 **面向企业 AI agent 的语义层运行时：统一建模并查询对象图**
 

@@ -1,6 +1,6 @@
 # esimov/caire
 
-⭐ 10,857 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/esimov/caire) · 个人维护
+⭐ 10,859 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/esimov/caire) · 个人维护
 
 **Go 编写的感知内容图像缩放库（Seam Carving），可保护人脸**
 

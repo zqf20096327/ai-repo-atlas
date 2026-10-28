@@ -1,6 +1,6 @@
 # Anakin-Inc/anakin
 
-⭐ 3,890 · Go · AGPL-3.0 · 推送 2026-08-18 · [GitHub](https://github.com/Anakin-Inc/anakin) · [官网](https://anakin.io) · 组织维护
+⭐ 3,889 · Go · AGPL-3.0 · 推送 2026-08-18 · [GitHub](https://github.com/Anakin-Inc/anakin) · [官网](https://anakin.io) · 组织维护
 
 **自托管网页抓取 API：把任意网页转成 markdown/结构化 JSON 供 AI 使用**
 

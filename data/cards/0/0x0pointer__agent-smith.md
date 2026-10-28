@@ -1,6 +1,6 @@
 # 0x0pointer/agent-smith
 
-⭐ 149 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 组织维护
+⭐ 149 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 组织维护
 
 **AI 驱动的渗透测试框架：LLM 规划并执行授权安全测试**
 

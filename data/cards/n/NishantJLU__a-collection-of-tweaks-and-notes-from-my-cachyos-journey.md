@@ -1,6 +1,6 @@
 # NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey
 
-⭐ 20 · Shell · MIT · 推送 2026-06-26 · [GitHub](https://github.com/NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey) · [官网](https://cachyos.org) · 个人维护
+⭐ 22 · Shell · MIT · 推送 2026-06-26 · [GitHub](https://github.com/NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey) · [官网](https://cachyos.org) · 个人维护
 
 **CachyOS 本地 AI Agent 环境搭建与系统调优指南**
 

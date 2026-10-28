@@ -1,6 +1,6 @@
 # opea-project/GenAIExamples
 
-⭐ 739 · Shell · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/opea-project/GenAIExamples) · [官网](https://opea.dev) · 组织维护
+⭐ 739 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opea-project/GenAIExamples) · [官网](https://opea.dev) · 组织维护
 
 **面向开发者的企业级 GenAI 应用示例集，展示 OPEA 流水线部署**
 

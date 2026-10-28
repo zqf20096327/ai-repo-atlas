@@ -1,6 +1,6 @@
 # andersondanieln/hexllama
 
-⭐ 23 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/andersondanieln/hexllama) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/andersondanieln/hexllama) · 个人维护
 
 **桌面客户端：管理并用 llama.cpp 运行本地 LLM**
 

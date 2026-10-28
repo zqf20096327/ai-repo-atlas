@@ -1,6 +1,6 @@
 # melagiri/code-insights
 
-⭐ 77 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/melagiri/code-insights) · [官网](https://code-insights.app) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/melagiri/code-insights) · [官网](https://code-insights.app) · 个人维护
 
 **把 AI 编程会话转为可浏览知识的本地分析 CLI**
 

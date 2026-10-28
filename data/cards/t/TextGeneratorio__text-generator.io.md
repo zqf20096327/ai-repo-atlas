@@ -1,6 +1,6 @@
 # TextGeneratorio/text-generator.io
 
-⭐ 38 · Python · 推送 2026-10-26 · [GitHub](https://github.com/TextGeneratorio/text-generator.io) · [官网](https://text-generator.io) · 组织维护
+⭐ 38 · Python · 推送 2026-10-27 · [GitHub](https://github.com/TextGeneratorio/text-generator.io) · [官网](https://text-generator.io) · 组织维护
 
 **可自托管的多模型 AI API 服务：文本生成、TTS 与语音转写**
 

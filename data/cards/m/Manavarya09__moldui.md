@@ -1,6 +1,6 @@
 # Manavarya09/moldui
 
-⭐ 20 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Manavarya09/moldui) · [官网](https://moldui.vercel.app) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/Manavarya09/moldui) · [官网](https://moldui.vercel.app) · 个人维护
 
 **面向已有代码库的浏览器可视化拖拽编辑器，由 Claude 改写源码**
 

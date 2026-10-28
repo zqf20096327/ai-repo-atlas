@@ -1,6 +1,6 @@
 # imbue-ai/vet
 
-⭐ 511 · Python · AGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/imbue-ai/vet) · 组织维护
+⭐ 512 · Python · AGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/imbue-ai/vet) · 组织维护
 
 **校验代码变更与 agent 行为的 LLM 审查工具**
 

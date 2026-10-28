@@ -1,6 +1,6 @@
 # instavm/coderunner
 
-⭐ 897 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/instavm/coderunner) · [官网](https://instavm.io) · 组织维护
+⭐ 898 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/instavm/coderunner) · [官网](https://instavm.io) · 组织维护
 
 **给 AI agent 用的本地隔离沙箱：在容器中安全执行代码**
 

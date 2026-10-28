@@ -1,6 +1,6 @@
 # GaiZhenbiao/ChuanhuChatGPT
 
-⭐ 15,255 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
+⭐ 15,256 · Python · GPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/GaiZhenbiao/ChuanhuChatGPT) · [官网](https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT) · 个人维护 · 中文 README
 
 **为多种 LLM 提供带附加功能的 Web 聊天界面**
 

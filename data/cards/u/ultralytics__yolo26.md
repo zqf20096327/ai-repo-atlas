@@ -1,6 +1,6 @@
 # ultralytics/yolo26
 
-⭐ 150 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo26) · [官网](https://platform.ultralytics.com/ultralytics/yolo26) · 组织维护 · 中文 README
+⭐ 151 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo26) · [官网](https://platform.ultralytics.com/ultralytics/yolo26) · 组织维护 · 中文 README
 
 **Ultralytics YOLO26：多任务视觉模型，覆盖检测/分割/深度/姿态等**
 

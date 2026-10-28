@@ -1,6 +1,6 @@
 # tanishqbhattad/rhino-mcp
 
-⭐ 33 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tanishqbhattad/rhino-mcp) · 个人维护
+⭐ 34 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tanishqbhattad/rhino-mcp) · 个人维护
 
 **给建筑师的 MCP 服务器：让 AI 客户端直接控制 Rhino 8 建模**
 

@@ -1,6 +1,6 @@
 # bergside/awesome-design-skills
 
-⭐ 3,373 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/bergside/awesome-design-skills) · [官网](https://www.typeui.sh/design-skills) · 个人维护
+⭐ 3,387 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/bergside/awesome-design-skills) · [官网](https://www.typeui.sh/design-skills) · 个人维护
 
 **面向 AI 编码工具的 67 个设计系统技能文件注册表**
 

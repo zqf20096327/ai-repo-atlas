@@ -1,6 +1,6 @@
 # takeshy/obsidian-gemini-helper
 
-⭐ 118 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/takeshy/obsidian-gemini-helper) · 个人维护
+⭐ 117 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/takeshy/obsidian-gemini-helper) · 个人维护
 
 **Obsidian 的 Gemini AI 助手插件：对话、工作流与 RAG**
 

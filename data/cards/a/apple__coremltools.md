@@ -1,6 +1,6 @@
 # apple/coremltools
 
-⭐ 5,439 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/apple/coremltools) · [官网](https://coremltools.readme.io) · 组织维护
+⭐ 5,440 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/apple/coremltools) · [官网](https://coremltools.readme.io) · 组织维护
 
 **Apple 官方模型转换工具：把训练框架模型转为 Core ML 格式**
 

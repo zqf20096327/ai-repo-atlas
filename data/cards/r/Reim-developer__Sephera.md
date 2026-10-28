@@ -1,6 +1,6 @@
 # Reim-developer/Sephera
 
-⭐ 77 · Rust · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Reim-developer/Sephera) · [官网](https://sephera.vercel.app) · 个人维护
+⭐ 77 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Reim-developer/Sephera) · [官网](https://sephera.vercel.app) · 个人维护
 
 **回答“改这个文件会破坏什么”的 Rust CLI：反向依赖分析与 LLM 上下文打包**
 

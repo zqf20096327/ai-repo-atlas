@@ -1,6 +1,6 @@
 # vllm-project/vllm-project.github.io
 
-⭐ 76 · HTML · 推送 2026-10-24 · [GitHub](https://github.com/vllm-project/vllm-project.github.io) · [官网](https://vllm.ai/blog) · 组织维护
+⭐ 76 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/vllm-project.github.io) · [官网](https://vllm.ai/blog) · 组织维护
 
 **vLLM 官方博客站点的 Jekyll 源码与博文写作指南**
 

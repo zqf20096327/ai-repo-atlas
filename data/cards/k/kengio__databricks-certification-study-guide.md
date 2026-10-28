@@ -1,6 +1,6 @@
 # kengio/databricks-certification-study-guide
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kengio/databricks-certification-study-guide) · 个人维护
+⭐ 49 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kengio/databricks-certification-study-guide) · 个人维护
 
 **Databricks 六项认证的开源社区备考指南（笔记+题库）**
 

@@ -1,6 +1,6 @@
 # IBM/watsonx-developer-hub
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IBM/watsonx-developer-hub) · [官网](https://www.ibm.com/watsonx/developer/) · 组织维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IBM/watsonx-developer-hub) · [官网](https://www.ibm.com/watsonx/developer/) · 组织维护
 
 **面向开发者的 watsonx 平台 Gen AI 示例与指南集合**
 

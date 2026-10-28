@@ -1,6 +1,6 @@
 # ChristopherKahler/base
 
-⭐ 334 · Rust · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ChristopherKahler/base) · [官网](https://docs.basemode.ai) · 个人维护
+⭐ 337 · Rust · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ChristopherKahler/base) · [官网](https://docs.basemode.ai) · 个人维护
 
 **给 Claude Code 加持久记忆的 Rust 单二进制：工作区知识图谱+钩子注入**
 

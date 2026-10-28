@@ -1,6 +1,6 @@
 # software-ai-life/Awesome-PPT-Design-Skills
 
-⭐ 125 · HTML · 推送 2026-04-28 · [GitHub](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · 个人维护 · 中文 README
+⭐ 127 · HTML · 推送 2026-04-28 · [GitHub](https://github.com/software-ai-life/Awesome-PPT-Design-Skills) · 个人维护 · 中文 README
 
 **给 coding agent 的 PPT 设计技能包：按指定美学生成可编辑简报**
 

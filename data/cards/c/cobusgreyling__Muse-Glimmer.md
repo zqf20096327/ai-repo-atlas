@@ -1,6 +1,6 @@
 # cobusgreyling/Muse-Glimmer
 
-⭐ 24 · JavaScript · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/cobusgreyling/Muse-Glimmer) · [官网](https://huggingface.co/meta-models/Muse-Glimmer-30B) · 个人维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-08-10 · [GitHub](https://github.com/cobusgreyling/Muse-Glimmer) · [官网](https://huggingface.co/meta-models/Muse-Glimmer-30B) · 个人维护
 
 **Muse Glimmer 30B 本地 agent 模型的离线交互实验室与指南**
 

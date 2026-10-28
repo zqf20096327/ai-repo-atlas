@@ -1,6 +1,6 @@
 # mondaycom/vibe
 
-⭐ 690 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/mondaycom/vibe) · [官网](https://vibe.monday.com/) · 组织维护
+⭐ 691 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/mondaycom/vibe) · [官网](https://vibe.monday.com/) · 组织维护
 
 **monday.com 官方 React UI 设计系统与组件库**
 

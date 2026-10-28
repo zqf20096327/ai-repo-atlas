@@ -1,6 +1,6 @@
 # voicepaw/so-vits-svc-fork
 
-⭐ 9,328 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 组织维护 · 中文 README
+⭐ 9,328 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/voicepaw/so-vits-svc-fork) · 组织维护 · 中文 README
 
 **歌声/语音转换工具：实时变声与模型训练，已停止维护**
 

@@ -1,6 +1,6 @@
 # besoeasy/yantr
 
-⭐ 198 · Vue · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/besoeasy/yantr) · [官网](https://yantr.org) · 个人维护
+⭐ 198 · Vue · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/besoeasy/yantr) · [官网](https://yantr.org) · 个人维护
 
 **基于 rootless Podman 的自托管 homelab 应用商店**
 

@@ -1,6 +1,6 @@
 # tale-project/tale
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tale-project/tale) · [官网](https://tale.dev) · 组织维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tale-project/tale) · [官网](https://tale.dev) · 组织维护
 
 **面向团队与 AI agent 的自托管项目工作区与任务协作平台**
 

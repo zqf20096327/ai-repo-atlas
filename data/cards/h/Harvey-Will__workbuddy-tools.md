@@ -1,6 +1,6 @@
 # Harvey-Will/workbuddy-tools
 
-⭐ 29 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Harvey-Will/workbuddy-tools) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Harvey-Will/workbuddy-tools) · 个人维护 · 中文 README
 
 **WorkBuddy 多账号本地管理工具：账号切换、数据迁移与 Token 统计**
 

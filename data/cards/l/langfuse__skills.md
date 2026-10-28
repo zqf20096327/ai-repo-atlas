@@ -1,6 +1,6 @@
 # langfuse/skills
 
-⭐ 316 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langfuse/skills) · [官网](https://langfuse.com/docs/api-and-data-platform/features/agent-skill) · 组织维护
+⭐ 319 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langfuse/skills) · [官网](https://langfuse.com/docs/api-and-data-platform/features/agent-skill) · 组织维护
 
 **教 AI 编程助手使用 Langfuse 平台的 Agent 技能集**
 

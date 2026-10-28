@@ -1,6 +1,6 @@
 # coder/portabledesktop
 
-⭐ 32 · Go · MIT · 推送 2026-09-08 · [GitHub](https://github.com/coder/portabledesktop) · 组织维护
+⭐ 32 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/coder/portabledesktop) · 组织维护
 
 **为 AI agent 提供可控真实 Linux 桌面的 Go 单二进制**
 

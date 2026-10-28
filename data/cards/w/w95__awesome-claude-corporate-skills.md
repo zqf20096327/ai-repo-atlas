@@ -1,6 +1,6 @@
 # w95/awesome-claude-corporate-skills
 
-⭐ 281 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/w95/awesome-claude-corporate-skills) · 个人维护
+⭐ 285 · Python · MIT · 推送 2026-02-26 · [GitHub](https://github.com/w95/awesome-claude-corporate-skills) · 个人维护
 
 **按企业职能组织的 166 个 Claude AI 技能策展清单**
 

@@ -1,6 +1,6 @@
 # NeptuneHub/audiomuse-ai-plugin
 
-⭐ 145 · C# · AGPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/NeptuneHub/audiomuse-ai-plugin) · 个人维护
+⭐ 146 · C# · AGPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/NeptuneHub/audiomuse-ai-plugin) · 个人维护
 
 **Jellyfin 插件：把 AudioMuse-AI 音乐分析功能接入媒体服务器**
 

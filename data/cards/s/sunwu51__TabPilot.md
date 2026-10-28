@@ -1,6 +1,6 @@
 # sunwu51/TabPilot
 
-⭐ 29 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/sunwu51/TabPilot) · [官网](https://chromewebstore.google.com/detail/tab-manager/kklpijbnmbkpgcmnldimiagiehbakaec) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/sunwu51/TabPilot) · [官网](https://chromewebstore.google.com/detail/tab-manager/kklpijbnmbkpgcmnldimiagiehbakaec) · 个人维护 · 中文 README
 
 **带 AI Agent 的 Chrome 标签页管理侧边栏扩展**
 

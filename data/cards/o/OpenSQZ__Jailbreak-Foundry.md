@@ -1,6 +1,6 @@
 # OpenSQZ/Jailbreak-Foundry
 
-⭐ 171 · Python · 推送 2026-10-08 · [GitHub](https://github.com/OpenSQZ/Jailbreak-Foundry) · 组织维护 · 中文 README
+⭐ 172 · Python · 推送 2026-10-08 · [GitHub](https://github.com/OpenSQZ/Jailbreak-Foundry) · 组织维护 · 中文 README
 
 **将越狱论文自动转为可运行攻击并统一评测的基准系统**
 

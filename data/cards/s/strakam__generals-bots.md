@@ -1,6 +1,6 @@
 # strakam/generals-bots
 
-⭐ 125 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/strakam/generals-bots) · 个人维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/strakam/generals-bots) · 个人维护
 
 **给 RL 研究者的 generals.io 游戏模拟器与 bot 开发平台**
 

@@ -1,6 +1,6 @@
 # Anbu-00001/CivicMesh
 
-⭐ 26 · Jac · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Anbu-00001/CivicMesh) · [官网](https://huggingface.co/spaces/Anbu-00001/CivicMesh) · 个人维护
+⭐ 26 · Jac · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Anbu-00001/CivicMesh) · [官网](https://huggingface.co/spaces/Anbu-00001/CivicMesh) · 个人维护
 
 **面向危机人群的社会救助资格导航应用：住房/食品/医疗/法律援助匹配**
 

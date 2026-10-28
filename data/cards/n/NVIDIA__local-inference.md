@@ -1,6 +1,6 @@
 # NVIDIA/local-inference
 
-⭐ 683 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/local-inference) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 NVIDIA SM120/121 GPU 的本地推理服务器（研究原型）**
 
@@ -11,7 +11,7 @@ Flare 是 NVIDIA 开源的本地推理服务器，面向 SM120/SM121 GPU 工作�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

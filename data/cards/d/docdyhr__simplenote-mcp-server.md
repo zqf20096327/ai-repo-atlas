@@ -1,6 +1,6 @@
 # docdyhr/simplenote-mcp-server
 
-⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/docdyhr/simplenote-mcp-server) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/docdyhr/simplenote-mcp-server) · 个人维护
 
 **让 Claude Desktop 读写 Simplenote 笔记的 MCP 服务器**
 

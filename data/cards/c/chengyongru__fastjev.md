@@ -1,6 +1,6 @@
 # chengyongru/fastjev
 
-⭐ 22 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chengyongru/fastjev) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chengyongru/fastjev) · 个人维护 · 中文 README
 
 **自托管语义决策 SDK：多运行时运行固定版本开源模型输出选择/布尔/评分**
 

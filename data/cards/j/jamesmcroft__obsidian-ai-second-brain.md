@@ -1,6 +1,6 @@
 # jamesmcroft/obsidian-ai-second-brain
 
-⭐ 54 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/jamesmcroft/obsidian-ai-second-brain) · [官网](https://www.jamescroft.co.uk/why-your-second-brain-needs-an-ai-companion/) · 个人维护
+⭐ 55 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/jamesmcroft/obsidian-ai-second-brain) · [官网](https://www.jamescroft.co.uk/why-your-second-brain-needs-an-ai-companion/) · 个人维护
 
 **用 Obsidian 与 CODE/PARA 搭建 AI 增强第二大脑的启动模板**
 

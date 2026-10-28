@@ -1,6 +1,6 @@
 # alibaba/qz-browser-agent
 
-⭐ 147 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/qz-browser-agent) · [官网](https://alibaba.github.io/qz-browser-agent/) · 组织维护 · 中文 README
+⭐ 151 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/qz-browser-agent) · [官网](https://alibaba.github.io/qz-browser-agent/) · 组织维护 · 中文 README
 
 **本地优先的开源 Chrome 浏览器 agent：自动执行网页任务与数据提取**
 

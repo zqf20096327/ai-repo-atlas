@@ -1,6 +1,6 @@
 # BrendownFerreira/transcriber
 
-⭐ 151 · Python · 推送 2026-03-18 · [GitHub](https://github.com/BrendownFerreira/transcriber) · [官网](https://noktech.com.br/softwares/transcriber) · 个人维护
+⭐ 153 · Python · 推送 2026-03-18 · [GitHub](https://github.com/BrendownFerreira/transcriber) · [官网](https://noktech.com.br/softwares/transcriber) · 个人维护
 
 **自托管 Whisper 语音转文字 Web 应用，本地转录音视频与 YouTube**
 

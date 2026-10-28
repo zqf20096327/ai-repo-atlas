@@ -1,6 +1,6 @@
 # TileDB-Inc/TileDB-Vector-Search
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 69 · Jupyter Notebook · MIT · 推送 2026-03-31 · [GitHub](https://github.com/TileDB-Inc/TileDB-Vector-Search) · [官网](https://tiledb-inc.github.io/TileDB-Vector-Search/) · 组织维护
 
 **基于 TileDB 存储引擎的向量相似度搜索 C++ 库与 Python API**
 
@@ -11,7 +11,7 @@ TileDB Vector Search 是构建在 TileDB 存储引擎之上的向量搜索 C++ �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

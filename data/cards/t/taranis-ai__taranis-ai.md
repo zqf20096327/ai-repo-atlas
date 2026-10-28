@@ -1,6 +1,6 @@
 # taranis-ai/taranis-ai
 
-⭐ 1,230 · Python · EUPL-1.2 · 推送 2026-10-23 · [GitHub](https://github.com/taranis-ai/taranis-ai) · [官网](https://taranis.ai/) · 组织维护
+⭐ 1,230 · Python · EUPL-1.2 · 推送 2026-10-28 · [GitHub](https://github.com/taranis-ai/taranis-ai) · [官网](https://taranis.ai/) · 组织维护
 
 **面向情报分析师的开源 OSINT 采集与报告平台**
 

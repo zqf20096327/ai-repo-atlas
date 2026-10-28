@@ -1,6 +1,6 @@
 # jaikydota/BullFlow
 
-⭐ 180 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jaikydota/BullFlow) · 组织维护 · 中文 README
+⭐ 200 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/jaikydota/BullFlow) · 组织维护 · 中文 README
 
 **开源企业级 RAG 平台：知识库驱动 AI 内容创作与 17 平台分发**
 

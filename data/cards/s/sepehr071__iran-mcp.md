@@ -1,6 +1,6 @@
 # sepehr071/iran-mcp
 
-⭐ 160 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sepehr071/iran-mcp) · 个人维护
+⭐ 167 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sepehr071/iran-mcp) · 个人维护
 
 **39 个伊朗网站 MCP 服务器集，让 AI agent 查询本地购物/出行/价格等信息**
 

@@ -1,6 +1,6 @@
 # cafferychen777/ChatSpatial
 
-⭐ 45 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cafferychen777/ChatSpatial) · [官网](https://docs.cafferyang.com/) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cafferychen777/ChatSpatial) · [官网](https://docs.cafferyang.com/) · 组织维护
 
 **空间转录组分析 MCP server：自然语言调用 67 种方法**
 

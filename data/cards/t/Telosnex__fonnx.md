@@ -1,6 +1,6 @@
 # Telosnex/fonnx
 
-⭐ 297 · Dart · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Telosnex/fonnx) · [官网](https://telosnex.github.io/fonnx/) · 组织维护
+⭐ 297 · Dart · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Telosnex/fonnx) · [官网](https://telosnex.github.io/fonnx/) · 组织维护
 
 **Flutter 库：在六大平台本地运行 ONNX 模型**
 

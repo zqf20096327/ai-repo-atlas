@@ -1,6 +1,6 @@
 # pab1it0/prometheus-mcp-server
 
-⭐ 520 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pab1it0/prometheus-mcp-server) · 个人维护
+⭐ 521 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pab1it0/prometheus-mcp-server) · 个人维护
 
 **让 AI 助手查询分析 Prometheus 指标的 MCP 服务器**
 

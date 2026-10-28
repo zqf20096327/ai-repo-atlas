@@ -1,6 +1,6 @@
 # kodustech/kodus-ai
 
-⭐ 1,534 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/kodustech/kodus-ai) · [官网](https://kodus.io) · 组织维护
+⭐ 1,536 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/kodustech/kodus-ai) · [官网](https://kodus.io) · 组织维护
 
 **开源可自托管的 AI 代码评审工具，自选 LLM 与自备 API key**
 

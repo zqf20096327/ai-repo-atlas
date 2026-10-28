@@ -1,6 +1,6 @@
 # mateaix/mateclaw
 
-⭐ 1,172 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
+⭐ 1,173 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
 
 **面向企业的自托管多 Agent 平台：数字员工、知识库与多渠道接入**
 

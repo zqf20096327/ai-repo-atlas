@@ -1,6 +1,6 @@
 # yyh-001/llm-value-rankings
 
-⭐ 29 · CSS · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yyh-001/llm-value-rankings) · [官网](https://yyh-001.github.io/llm-value-rankings/) · 个人维护 · 中文 README
+⭐ 29 · CSS · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yyh-001/llm-value-rankings) · [官网](https://yyh-001.github.io/llm-value-rankings/) · 个人维护 · 中文 README
 
 **每日更新的 300+ 大模型性价比排行榜静态站点**
 

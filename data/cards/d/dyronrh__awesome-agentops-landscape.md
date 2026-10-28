@@ -1,6 +1,6 @@
 # dyronrh/awesome-agentops-landscape
 
-⭐ 23 · Python · 推送 2026-10-27 · [GitHub](https://github.com/dyronrh/awesome-agentops-landscape) · [官网](https://github.com/dyronrh/awesome-agentops-landscape) · 个人维护
+⭐ 23 · Python · 推送 2026-10-28 · [GitHub](https://github.com/dyronrh/awesome-agentops-landscape) · [官网](https://github.com/dyronrh/awesome-agentops-landscape) · 个人维护
 
 **AgentOps 工具策展清单：LLM agent 的观测、评测与护栏工具目录**
 

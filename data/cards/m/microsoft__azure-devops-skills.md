@@ -1,6 +1,6 @@
 # microsoft/azure-devops-skills
 
-⭐ 55 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/microsoft/azure-devops-skills) · 组织维护
+⭐ 54 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/microsoft/azure-devops-skills) · 组织维护
 
 **Azure DevOps 的 AI 编程助手技能示例集（7 个技能）**
 
