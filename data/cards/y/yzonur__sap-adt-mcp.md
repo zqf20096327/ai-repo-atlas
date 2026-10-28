@@ -34,7 +34,7 @@ Node.js 实现的 MCP server，封装 50 余个 ADT HTTP API 工具，供 Claude
 
 ## 场景标签
 
- · 领域:企业软件开发/SAP 集成
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 

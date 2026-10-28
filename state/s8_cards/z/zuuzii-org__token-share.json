@@ -1,1 +1,79 @@
-{"fn": "zuuzii-org/token-share", "sha": "9de671f29155", "source": "readme", "identity": {"one_liner": "macOS 菜单栏 LLM API 网关：本地互译 OpenAI 与 Anthropic 协议", "review": "用 Swift 6.1 编写的 macOS 原生菜单栏应用，作为本地 LLM API 网关运行：在 OpenAI Chat Completions、OpenAI Responses 与 Anthropic Messages 三种协议间任意方向实时互译，SSE 流式逐事件转换（含文本增量、工具调用与流式中断）。支持配置任意数量上游并热切换，自动拉取上游模型列表。全部流量走 localhost:9091，无注册、无遥测。要求 macOS 14+、Xcode 16+、Swift 6+，可从源码构建或 GitHub Release 下载（未做 Apple 公证）。", "highlights": ["三种协议（Chat Completions / Responses / Messages）任意方向互译", "SSE 流式逐事件转换，覆盖工具调用与流式中断", "多上游配置一键热切换，自动同步模型列表", "纯本地运行，无注册、无遥测"], "use_cases": ["让仅支持 OpenAI 协议的客户端接入 Anthropic 上游（或反之）", "在多个上游服务商之间本地热切换", "本地统一代理并流式转发 LLM 请求"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM网关", "协议转换", "macOS", "API代理", "菜单栏应用"], "domain": "LLM 基础设施/API 网关", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供简体中文版（首语言）"]}, "trust": {"confidence": "high", "evidence": ["L5: **macOS 原生菜单栏 LLM API 网关**", "L17: - **协议互译** — OpenAI Chat Completions · OpenAI Responses · Anthropic Messages，任意方向"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zuuzii-org/token-share",
+ "sha": "9de671f29155",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS 菜单栏 LLM API 网关：本地互译 OpenAI 与 Anthropic 协议",
+  "review": "用 Swift 6.1 编写的 macOS 原生菜单栏应用，作为本地 LLM API 网关运行：在 OpenAI Chat Completions、OpenAI Responses 与 Anthropic Messages 三种协议间任意方向实时互译，SSE 流式逐事件转换（含文本增量、工具调用与流式中断）。支持配置任意数量上游并热切换，自动拉取上游模型列表。全部流量走 localhost:9091，无注册、无遥测。要求 macOS 14+、Xcode 16+、Swift 6+，可从源码构建或 GitHub Release 下载（未做 Apple 公证）。",
+  "highlights": [
+   "三种协议（Chat Completions / Responses / Messages）任意方向互译",
+   "SSE 流式逐事件转换，覆盖工具调用与流式中断",
+   "多上游配置一键热切换，自动同步模型列表",
+   "纯本地运行，无注册、无遥测"
+  ],
+  "use_cases": [
+   "让仅支持 OpenAI 协议的客户端接入 Anthropic 上游（或反之）",
+   "在多个上游服务商之间本地热切换",
+   "本地统一代理并流式转发 LLM 请求"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM网关",
+   "协议转换",
+   "macOS",
+   "API代理",
+   "菜单栏应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供简体中文版（首语言）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **macOS 原生菜单栏 LLM API 网关**",
+   "L17: - **协议互译** — OpenAI Chat Completions · OpenAI Responses · Anthropic Messages，任意方向"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

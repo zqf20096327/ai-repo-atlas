@@ -1,1 +1,80 @@
-{"fn": "yaoyuxiang-gnn/agent-guard", "sha": "a71f123c4b9a", "source": "readme", "identity": {"one_liner": "给 AI agent 开发者：进程内预算上限、死循环检测与熔断库", "review": "零依赖的 Python 库，在 agent 循环进程内提供四类上限（max_usd/max_tokens/max_steps/max_seconds）与按工具的作用域预算，配合四种默认开启的循环检测器（重复/乒乓/近似/无进展），在重复调用执行前抛出异常。适配器以鸭子类型包装 OpenAI/Anthropic/LiteLLM 等客户端与 LangChain 回调，无需导入 provider SDK。内置 119 个模型价格表（标注日期），未知模型计为 unpriced 不估算；支持 preflight 预拒付、快照恢复与 CI 报告。非代理、非可观测平台、非 tokenizer。", "highlights": ["四类全局上限与按工具/标签的作用域预算（scoped_budgets）", "四种循环检测器默认开启，在重复执行前触发", "鸭子类型适配器覆盖 OpenAI/Anthropic/LiteLLM/OpenRouter/vLLM/Groq 等，不导入 SDK", "内置 119 模型价格表，未知模型标记 unpriced 并显式报告"], "use_cases": ["防止 agent 夜间失控循环烧掉预算", "定位哪个工具在重试风暴中吃掉预算", "在 CI 中渲染 agent 运行的花费报告"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent安全/护栏", "成本控制", "循环检测", "LLM基础设施"], "domain": "AI agent 基础设施/成本治理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq", "openrouter", "vllm", "anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: budget caps, loop detection and circuit breakers for AI agents", "L159: client = guard_openai(OpenAI(), max_usd=1.0, max_steps=25)", "L284: **Zero dependencies, and it stays that way.** No `pydantic`, no `httpx`, no provider"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yaoyuxiang-gnn/agent-guard",
+ "sha": "a71f123c4b9a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 开发者：进程内预算上限、死循环检测与熔断库",
+  "review": "零依赖的 Python 库，在 agent 循环进程内提供四类上限（max_usd/max_tokens/max_steps/max_seconds）与按工具的作用域预算，配合四种默认开启的循环检测器（重复/乒乓/近似/无进展），在重复调用执行前抛出异常。适配器以鸭子类型包装 OpenAI/Anthropic/LiteLLM 等客户端与 LangChain 回调，无需导入 provider SDK。内置 119 个模型价格表（标注日期），未知模型计为 unpriced 不估算；支持 preflight 预拒付、快照恢复与 CI 报告。非代理、非可观测平台、非 tokenizer。",
+  "highlights": [
+   "四类全局上限与按工具/标签的作用域预算（scoped_budgets）",
+   "四种循环检测器默认开启，在重复执行前触发",
+   "鸭子类型适配器覆盖 OpenAI/Anthropic/LiteLLM/OpenRouter/vLLM/Groq 等，不导入 SDK",
+   "内置 119 模型价格表，未知模型标记 unpriced 并显式报告"
+  ],
+  "use_cases": [
+   "防止 agent 夜间失控循环烧掉预算",
+   "定位哪个工具在重试风暴中吃掉预算",
+   "在 CI 中渲染 agent 运行的花费报告"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent安全/护栏",
+   "成本控制",
+   "循环检测",
+   "LLM基础设施"
+  ],
+  "domain": "AI agent 基础设施/成本治理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq",
+   "openrouter",
+   "vllm",
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: budget caps, loop detection and circuit breakers for AI agents",
+   "L159: client = guard_openai(OpenAI(), max_usd=1.0, max_steps=25)",
+   "L284: **Zero dependencies, and it stays that way.** No `pydantic`, no `httpx`, no provider"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

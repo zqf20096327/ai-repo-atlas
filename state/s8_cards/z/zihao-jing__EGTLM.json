@@ -1,1 +1,81 @@
-{"fn": "zihao-jing/EGTLM", "sha": "dc76855b26ed", "source": "readme", "identity": {"one_liner": "同时做文本生成与文本嵌入的模型训练评测代码", "review": "EGTLM 模型的训练与评测代码，由 SenseTime 于 2024 年构建。模型通过两阶段训练（无监督预训练+有监督指令微调）和混合损失函数（生成损失+嵌入损失加权组合），同时支持文本生成与文本嵌入任务，并设计了基于该模型的 RAG 知识系统方案。在 MTEB 中文榜单得分 68、位列前十。以 Python 代码库形式提供，依赖 accelerate、transformers、datasets、wandb、mteb。", "highlights": ["混合损失函数统一训练生成与嵌入两类任务", "两阶段训练：无监督预训练+有监督指令微调", "MTEB 中文评测 68 分（前十）", "附带基于 EGTLM 的 RAG 知识系统方案"], "use_cases": ["复现或训练同时具备生成与嵌入能力的模型", "在 MTEB 上评测中文文本嵌入效果", "为 RAG 系统提供嵌入模型"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2405.06932", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文本嵌入", "大语言模型", "MTEB评测", "RAG"], "domain": "NLP/文本嵌入与大语言模型", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": true, "zh_origin_signals": ["MTEB 中文榜单成绩", "SenseTime 构建"]}, "trust": {"confidence": "high", "evidence": ["L7: Embedding Generative Tuning Language Model (EGTLM), leveraging the robust semantic processing capabilities of large lang", "L37: By using this mixed-task training approach, the model is capable of both text generation and embedding tasks effectively"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zihao-jing/EGTLM",
+ "sha": "dc76855b26ed",
+ "source": "readme",
+ "identity": {
+  "one_liner": "同时做文本生成与文本嵌入的模型训练评测代码",
+  "review": "EGTLM 模型的训练与评测代码，由 SenseTime 于 2024 年构建。模型通过两阶段训练（无监督预训练+有监督指令微调）和混合损失函数（生成损失+嵌入损失加权组合），同时支持文本生成与文本嵌入任务，并设计了基于该模型的 RAG 知识系统方案。在 MTEB 中文榜单得分 68、位列前十。以 Python 代码库形式提供，依赖 accelerate、transformers、datasets、wandb、mteb。",
+  "highlights": [
+   "混合损失函数统一训练生成与嵌入两类任务",
+   "两阶段训练：无监督预训练+有监督指令微调",
+   "MTEB 中文评测 68 分（前十）",
+   "附带基于 EGTLM 的 RAG 知识系统方案"
+  ],
+  "use_cases": [
+   "复现或训练同时具备生成与嵌入能力的模型",
+   "在 MTEB 上评测中文文本嵌入效果",
+   "为 RAG 系统提供嵌入模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2405.06932",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文本嵌入",
+   "大语言模型",
+   "MTEB评测",
+   "RAG"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training",
+   "fine-tuning",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "MTEB 中文榜单成绩",
+   "SenseTime 构建"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Embedding Generative Tuning Language Model (EGTLM), leveraging the robust semantic processing capabilities of large lang",
+   "L37: By using this mixed-task training approach, the model is capable of both text generation and embedding tasks effectively"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

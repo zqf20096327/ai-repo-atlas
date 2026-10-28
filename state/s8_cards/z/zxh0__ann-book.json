@@ -1,1 +1,78 @@
-{"fn": "zxh0/ann-book", "sha": "605cdff52175", "source": "readme", "identity": {"one_liner": "面向中文读者的人工神经网络入门书与 LLM 技术图解笔记", "review": "包含一部撰写中的在线书籍《人人能懂的人工神经网络》以及一组技术笔记，笔记以图解形式解析 DeepSeek MLA 与训练过程、Flash Attention、位置编码、Kimi 系列注意力机制、LLM 并行策略等主题。内容通过 GitHub Pages 在线发布，支持全文搜索和公式渲染；作者另将《自己动手写LLM推理引擎》及 safetensors 参数布局查看器等工具移至独立仓库 llm-engine-book。仓库不含可安装运行的软件。", "highlights": ["在线版支持全文搜索和公式渲染", "图解 DeepSeek MLA、Flash Attention、位置编码等 LLM 核心主题", "图解 Kimi 系列与 LongCat 等注意力机制变体", "配套 LLM 推理引擎内容已拆分至独立仓库 llm-engine-book"], "use_cases": ["系统学习人工神经网络与深度学习基础", "通过图解理解 DeepSeek/Kimi 等模型的注意力与训练机制", "查阅 LLM 并行策略与位置编码的实现原理"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://zxh0.github.io/ann-book/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["技术书籍", "LLM", "图解笔记", "深度学习"], "domain": "AI/深度学习教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README 与书籍内容"]}, "trust": {"confidence": "high", "evidence": ["L7: * 人人能懂的人工神经网络（WIP，在线版）", "L13: * 图解DeepSeek-V4(Pro)核心公式"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zxh0/ann-book",
+ "sha": "605cdff52175",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向中文读者的人工神经网络入门书与 LLM 技术图解笔记",
+  "review": "包含一部撰写中的在线书籍《人人能懂的人工神经网络》以及一组技术笔记，笔记以图解形式解析 DeepSeek MLA 与训练过程、Flash Attention、位置编码、Kimi 系列注意力机制、LLM 并行策略等主题。内容通过 GitHub Pages 在线发布，支持全文搜索和公式渲染；作者另将《自己动手写LLM推理引擎》及 safetensors 参数布局查看器等工具移至独立仓库 llm-engine-book。仓库不含可安装运行的软件。",
+  "highlights": [
+   "在线版支持全文搜索和公式渲染",
+   "图解 DeepSeek MLA、Flash Attention、位置编码等 LLM 核心主题",
+   "图解 Kimi 系列与 LongCat 等注意力机制变体",
+   "配套 LLM 推理引擎内容已拆分至独立仓库 llm-engine-book"
+  ],
+  "use_cases": [
+   "系统学习人工神经网络与深度学习基础",
+   "通过图解理解 DeepSeek/Kimi 等模型的注意力与训练机制",
+   "查阅 LLM 并行策略与位置编码的实现原理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://zxh0.github.io/ann-book/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "技术书籍",
+   "LLM",
+   "图解笔记",
+   "深度学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README 与书籍内容"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: * 人人能懂的人工神经网络（WIP，在线版）",
+   "L13: * 图解DeepSeek-V4(Pro)核心公式"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

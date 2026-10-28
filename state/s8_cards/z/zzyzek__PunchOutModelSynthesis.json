@@ -1,1 +1,76 @@
-{"fn": "zzyzek/PunchOutModelSynthesis", "sha": "fabdbb1b6649", "source": "readme", "identity": {"one_liner": "基于约束的贴图生成算法（POMS），供关卡/关卡集生成", "review": "Punch Out Model Synthesis 是一种基于约束的贴图生成（CBTG）算法，扩展 Merrell 的 modify-in-block Model Synthesis 与 Gumin 的 Wave Function Collapse 算法，可在初始化要求极低的情况下处理大网格。项目附带从示例 2D 图像自动创建贴图集与贴图规则约束的工具集、程序化生成 3D 贴图集的示例代码，以及供高级用户使用的运行可视化 Web 应用。源码以 C/C++ 形式提供，通过 git clone 后 make 编译运行；作者声明这是研究质量代码，可能发生变化。", "highlights": ["扩展 MMS 与 WFC 的约束贴图生成算法，支持大网格、低初始状态要求", "从示例 2D 图像自动生成贴图集与规则约束的工具集", "3D 贴图集程序化生成示例代码", "运行可视化辅助 Web 应用"], "use_cases": ["游戏关卡或地图的程序化生成", "从美术示例图自动构建贴图集与拼接规则", "研究/复现 WFC 与 Model Synthesis 类算法并可视化运行过程"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "README 标注 Online demo（L21，未给出具体链接）", "self_declared_early": {"flag": true, "lines": [3]}}, "links": {"scenario_tags": ["程序化生成", "波函数坍缩", "游戏开发", "约束求解"], "domain": "游戏开发/程序化生成算法", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: Punch Out Model Synthesis (POMS) is a Constraint Based Tiling Generation (CBTG) algorithm,", "L8: extending Merrell's modify in block Model Synthesis (MMS) and Gumin's Wave Function Collapse (WFC)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zzyzek/PunchOutModelSynthesis",
+ "sha": "fabdbb1b6649",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于约束的贴图生成算法（POMS），供关卡/关卡集生成",
+  "review": "Punch Out Model Synthesis 是一种基于约束的贴图生成（CBTG）算法，扩展 Merrell 的 modify-in-block Model Synthesis 与 Gumin 的 Wave Function Collapse 算法，可在初始化要求极低的情况下处理大网格。项目附带从示例 2D 图像自动创建贴图集与贴图规则约束的工具集、程序化生成 3D 贴图集的示例代码，以及供高级用户使用的运行可视化 Web 应用。源码以 C/C++ 形式提供，通过 git clone 后 make 编译运行；作者声明这是研究质量代码，可能发生变化。",
+  "highlights": [
+   "扩展 MMS 与 WFC 的约束贴图生成算法，支持大网格、低初始状态要求",
+   "从示例 2D 图像自动生成贴图集与规则约束的工具集",
+   "3D 贴图集程序化生成示例代码",
+   "运行可视化辅助 Web 应用"
+  ],
+  "use_cases": [
+   "游戏关卡或地图的程序化生成",
+   "从美术示例图自动构建贴图集与拼接规则",
+   "研究/复现 WFC 与 Model Synthesis 类算法并可视化运行过程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "README 标注 Online demo（L21，未给出具体链接）",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    3
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "程序化生成",
+   "波函数坍缩",
+   "游戏开发",
+   "约束求解"
+  ],
+  "domain": "游戏开发/程序化生成算法",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: Punch Out Model Synthesis (POMS) is a Constraint Based Tiling Generation (CBTG) algorithm,",
+   "L8: extending Merrell's modify in block Model Synthesis (MMS) and Gumin's Wave Function Collapse (WFC)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

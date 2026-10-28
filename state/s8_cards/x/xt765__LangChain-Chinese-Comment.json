@@ -1,1 +1,80 @@
-{"fn": "xt765/LangChain-Chinese-Comment", "sha": "b852ea92dddb", "source": "readme", "identity": {"one_liner": "LangChain 源码中文注释与文档库，助中文开发者理解框架实现", "review": "面向中文开发者的 LangChain 框架源码注释与文档项目：镜像 LangChain 1.2.7 源码于 langchain_code/，在 code_comment/ 提供目录结构完全对应的中文注释，覆盖 langchain-core、经典组件、langchain_v1、合作伙伴集成（anthropic/openai/deepseek/ollama 等）与文本分割器等模块。附带快速入门、API 参考、版本对比等辅助文档与学习路径建议。使用方式为克隆仓库后 pip 安装 langchain 依赖并阅读注释，本体非可运行软件。", "highlights": ["源码与中文注释目录结构一一对照", "覆盖 langchain-core / langchain / langchain_v1 / partners 等模块", "提供 API 参考、学习指南与各版本差异分析文档", "同步自 LangChain 1.2.7 版本"], "use_cases": ["阅读中文注释理解 LangChain 内部实现原理", "按学习路径系统入门 LangChain 开发", "查阅各版本之间的差异分析"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["源码注释", "中文文档", "LLM框架学习", "知识库"], "domain": "LLM 框架/学习资源", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "Gitee 镜像", "CSDN 博客链接"]}, "trust": {"confidence": "mid", "evidence": ["L18: 本项目是一个专为中文开发者打造的 LangChain 框架源码注释与文档库。LangChain 作为业界领先的大语言模型（LLM）应用开发框架，其架构设计精妙、功能丰富，但源码复杂度较高。本项目通过系统性地整理核心模块的中文注释，帮助开发者", "L22: - **源码与注释对照**：`langchain_code/` 目录包含原始源码，`code_comment/` 目录提供对应的中文注释，两者目录结构完全一致，便于对照学习"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xt765/LangChain-Chinese-Comment",
+ "sha": "b852ea92dddb",
+ "source": "readme",
+ "identity": {
+  "one_liner": "LangChain 源码中文注释与文档库，助中文开发者理解框架实现",
+  "review": "面向中文开发者的 LangChain 框架源码注释与文档项目：镜像 LangChain 1.2.7 源码于 langchain_code/，在 code_comment/ 提供目录结构完全对应的中文注释，覆盖 langchain-core、经典组件、langchain_v1、合作伙伴集成（anthropic/openai/deepseek/ollama 等）与文本分割器等模块。附带快速入门、API 参考、版本对比等辅助文档与学习路径建议。使用方式为克隆仓库后 pip 安装 langchain 依赖并阅读注释，本体非可运行软件。",
+  "highlights": [
+   "源码与中文注释目录结构一一对照",
+   "覆盖 langchain-core / langchain / langchain_v1 / partners 等模块",
+   "提供 API 参考、学习指南与各版本差异分析文档",
+   "同步自 LangChain 1.2.7 版本"
+  ],
+  "use_cases": [
+   "阅读中文注释理解 LangChain 内部实现原理",
+   "按学习路径系统入门 LangChain 开发",
+   "查阅各版本之间的差异分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "源码注释",
+   "中文文档",
+   "LLM框架学习",
+   "知识库"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "Gitee 镜像",
+   "CSDN 博客链接"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: 本项目是一个专为中文开发者打造的 LangChain 框架源码注释与文档库。LangChain 作为业界领先的大语言模型（LLM）应用开发框架，其架构设计精妙、功能丰富，但源码复杂度较高。本项目通过系统性地整理核心模块的中文注释，帮助开发者",
+   "L22: - **源码与注释对照**：`langchain_code/` 目录包含原始源码，`code_comment/` 目录提供对应的中文注释，两者目录结构完全一致，便于对照学习"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

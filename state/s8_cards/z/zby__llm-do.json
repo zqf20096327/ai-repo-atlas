@@ -1,1 +1,82 @@
-{"fn": "zby/llm-do", "sha": "764fd1c863a7", "source": "readme", "identity": {"one_liner": "混合 VM 框架：LLM 推理与 Python 代码统一调用并可互相重构", "review": "构建在 PydanticAI 之上的 agent 编排框架，把 LLM agent（.agent 文件）与 Python 工具纳入同一调用约定：agent 可调用工具或委托其他 agent。核心机制是“crystallisation”——把验证有效的提示模式逐步抽取为确定性 Python 函数，边界可双向移动。提供命令式 harness 层（原生 Python 控制流）、工具审批（gated syscalls）、CLI 与 Python 入口。模型通过 provider:model 格式配置（PydanticAI 约定）。自述实验性、API 可能变化，无内置 checkpointing/replay，隔离需容器或 VM。", "highlights": ["agent 与 Python 工具统一调用约定，边界可双向移动", "渐进式稳定化（crystallisation）：提示模式抽取为可测试代码", "命令式 harness：原生 if/for/try 控制流编排", "工具级审批拦截危险操作"], "use_cases": ["用提示探索方案，稳定后抽取为 Python 代码迭代验证", "以 Python 代码为入口编排多 agent 工作流", "为文件操作、shell 命令等危险操作设置审批门"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [227]}}, "links": {"scenario_tags": ["agent框架", "编排/工作流", "neuro-symbolic", "开发者工具"], "domain": "LLM 应用框架/agent 编排", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: LLM reasoning and Python code share a unified execution model. Call an agent (LLM) or a tool (Python) with the same conv", "L15: This is the **Unix philosophy for agents**: agents are defined in `.agent` files, dangerous operations are gated syscall", "L227: **Experimental** — Built on PydanticAI. APIs may change."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zby/llm-do",
+ "sha": "764fd1c863a7",
+ "source": "readme",
+ "identity": {
+  "one_liner": "混合 VM 框架：LLM 推理与 Python 代码统一调用并可互相重构",
+  "review": "构建在 PydanticAI 之上的 agent 编排框架，把 LLM agent（.agent 文件）与 Python 工具纳入同一调用约定：agent 可调用工具或委托其他 agent。核心机制是“crystallisation”——把验证有效的提示模式逐步抽取为确定性 Python 函数，边界可双向移动。提供命令式 harness 层（原生 Python 控制流）、工具审批（gated syscalls）、CLI 与 Python 入口。模型通过 provider:model 格式配置（PydanticAI 约定）。自述实验性、API 可能变化，无内置 checkpointing/replay，隔离需容器或 VM。",
+  "highlights": [
+   "agent 与 Python 工具统一调用约定，边界可双向移动",
+   "渐进式稳定化（crystallisation）：提示模式抽取为可测试代码",
+   "命令式 harness：原生 if/for/try 控制流编排",
+   "工具级审批拦截危险操作"
+  ],
+  "use_cases": [
+   "用提示探索方案，稳定后抽取为 Python 代码迭代验证",
+   "以 Python 代码为入口编排多 agent 工作流",
+   "为文件操作、shell 命令等危险操作设置审批门"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    227
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent框架",
+   "编排/工作流",
+   "neuro-symbolic",
+   "开发者工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "agent-framework",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: LLM reasoning and Python code share a unified execution model. Call an agent (LLM) or a tool (Python) with the same conv",
+   "L15: This is the **Unix philosophy for agents**: agents are defined in `.agent` files, dangerous operations are gated syscall",
+   "L227: **Experimental** — Built on PydanticAI. APIs may change."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

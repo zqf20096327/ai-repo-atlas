@@ -32,7 +32,7 @@ znlgis 维护的 Jekyll 静态博客，托管于 GitHub Pages，内容按 GIS �
 
 ## 场景标签
 
- · 领域:GIS/CAD/AI 开发知识分享
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

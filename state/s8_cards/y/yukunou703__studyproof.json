@@ -1,1 +1,80 @@
-{"fn": "yukunou703/studyproof", "sha": "2fd0b0c29a16", "source": "readme", "identity": {"one_liner": "本地证据工作台：整理论文笔记、打包 AI 上下文并核验引文", "review": "面向研究者与学生的本地资料工作台：导入 PDF/Markdown/文本，用 SQLite BM25 关键词检索相关段落，导出带引用 ID（如 [S1]）、来源哈希与位置信息的 Markdown 上下文包及 JSON 审计文件给 AI 助手；再核验回答中的引文是否确实出现在该包中，报告缺失引用、未知 ID 与措辞改动。无需账号、API key、嵌入模型或 GPU，库文件保存在本机。提供 CLI、浏览器界面（绑定 127.0.0.1）与基于官方 MCP SDK 的只读适配器。检索只匹配词面不做语义扩展，PDF 需文本层。", "highlights": ["BM25 关键词检索本地 PDF/Markdown/文本库，无需嵌入模型或 GPU", "导出带引用 ID、来源哈希与页/行位置的上下文包和 JSON 审计文件", "核验回答引文：匹配原文、缺失引用、未知 ID、措辞改动", "通过官方 MCP Python SDK 暴露只读的列表/搜索/打包接口"], "use_cases": ["把课程讲义和论文整理成可检索的本地资料库", "为 AI 学习助手准备带引用编号的上下文包", "检查 AI 回答中的引用是否真的出自给定资料", "为不同课程或项目用 --db 维护独立的资料库"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文献管理", "引文核验", "RAG上下文准备", "本地优先", "MCP"], "domain": "科研工具/教育", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: StudyProof is a local evidence workbench for researchers and students. Add PDFs,", "L11: pack for your AI assistant, and check whether quotations in its answer actually", "L91: The optional adapter exposes read-only source listing, search, and context-pack"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yukunou703/studyproof",
+ "sha": "2fd0b0c29a16",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地证据工作台：整理论文笔记、打包 AI 上下文并核验引文",
+  "review": "面向研究者与学生的本地资料工作台：导入 PDF/Markdown/文本，用 SQLite BM25 关键词检索相关段落，导出带引用 ID（如 [S1]）、来源哈希与位置信息的 Markdown 上下文包及 JSON 审计文件给 AI 助手；再核验回答中的引文是否确实出现在该包中，报告缺失引用、未知 ID 与措辞改动。无需账号、API key、嵌入模型或 GPU，库文件保存在本机。提供 CLI、浏览器界面（绑定 127.0.0.1）与基于官方 MCP SDK 的只读适配器。检索只匹配词面不做语义扩展，PDF 需文本层。",
+  "highlights": [
+   "BM25 关键词检索本地 PDF/Markdown/文本库，无需嵌入模型或 GPU",
+   "导出带引用 ID、来源哈希与页/行位置的上下文包和 JSON 审计文件",
+   "核验回答引文：匹配原文、缺失引用、未知 ID、措辞改动",
+   "通过官方 MCP Python SDK 暴露只读的列表/搜索/打包接口"
+  ],
+  "use_cases": [
+   "把课程讲义和论文整理成可检索的本地资料库",
+   "为 AI 学习助手准备带引用编号的上下文包",
+   "检查 AI 回答中的引用是否真的出自给定资料",
+   "为不同课程或项目用 --db 维护独立的资料库"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文献管理",
+   "引文核验",
+   "RAG上下文准备",
+   "本地优先",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: StudyProof is a local evidence workbench for researchers and students. Add PDFs,",
+   "L11: pack for your AI assistant, and check whether quotations in its answer actually",
+   "L91: The optional adapter exposes read-only source listing, search, and context-pack"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

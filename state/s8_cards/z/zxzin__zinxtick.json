@@ -1,1 +1,78 @@
-{"fn": "zxzin/zinxtick", "sha": "b851b44d378d", "source": "readme", "identity": {"one_liner": "把角色/产品/日常物品变成主题贴纸包的 AI agent 技能", "review": "以 SKILL.md 指令文件夹形式提供的 agent 技能：给定一个角色、动物、产品或物品，引导 agent 走完主体身份锁定、风格/主题预设选择、逐张贴纸反应规划、图像生成提示词、整包 QA 与平台级素材导出的流程；无图像生成模型时输出可直接使用的提示词包而非伪造成品图。面向支持本地技能或可复用指令目录的 agent（Claude 风格、Antigravity 风格、Codex 等），复制仓库到技能目录后以 $zinxtick 调用。提供 6 种风格预设与 7 种主题预设，中英文输入分别使用对应预设菜单。", "highlights": ["完整贴纸包工作流：主体锁定→预设选择→逐张规划→提示词→QA→导出", "无图像生成模型时产出 generator-ready 提示词包", "6 种风格预设与 7 种主题预设，中英文双语菜单适配"], "use_cases": ["给我的 AI agent 加上生成贴纸包的能力", "为聊天表情、吉祥物或产品周边制作成套贴纸", "没有本地生图模型时先拿到整套生成提示词"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "贴纸/表情包生成", "图像生成提示词", "Claude生态"], "domain": "AI agent 技能/创意生成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文预设菜单支持（L50）"]}, "trust": {"confidence": "high", "evidence": ["L3: Zinxtick is an AI agent skill for turning a character, animal, product, food, drink, can, object, mascot, or visual idea", "L5: It is designed for agents that support local skills or reusable instruction folders, including Claude-style agents, Anti", "L66: If your agent does not support `$skill` syntax, point it at `SKILL.md` and ask it to follow the Zinxtick workflow."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zxzin/zinxtick",
+ "sha": "b851b44d378d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把角色/产品/日常物品变成主题贴纸包的 AI agent 技能",
+  "review": "以 SKILL.md 指令文件夹形式提供的 agent 技能：给定一个角色、动物、产品或物品，引导 agent 走完主体身份锁定、风格/主题预设选择、逐张贴纸反应规划、图像生成提示词、整包 QA 与平台级素材导出的流程；无图像生成模型时输出可直接使用的提示词包而非伪造成品图。面向支持本地技能或可复用指令目录的 agent（Claude 风格、Antigravity 风格、Codex 等），复制仓库到技能目录后以 $zinxtick 调用。提供 6 种风格预设与 7 种主题预设，中英文输入分别使用对应预设菜单。",
+  "highlights": [
+   "完整贴纸包工作流：主体锁定→预设选择→逐张规划→提示词→QA→导出",
+   "无图像生成模型时产出 generator-ready 提示词包",
+   "6 种风格预设与 7 种主题预设，中英文双语菜单适配"
+  ],
+  "use_cases": [
+   "给我的 AI agent 加上生成贴纸包的能力",
+   "为聊天表情、吉祥物或产品周边制作成套贴纸",
+   "没有本地生图模型时先拿到整套生成提示词"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "贴纸/表情包生成",
+   "图像生成提示词",
+   "Claude生态"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文预设菜单支持（L50）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Zinxtick is an AI agent skill for turning a character, animal, product, food, drink, can, object, mascot, or visual idea",
+   "L5: It is designed for agents that support local skills or reusable instruction folders, including Claude-style agents, Anti",
+   "L66: If your agent does not support `$skill` syntax, point it at `SKILL.md` and ask it to follow the Zinxtick workflow."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

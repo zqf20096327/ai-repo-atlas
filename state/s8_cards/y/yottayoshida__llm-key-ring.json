@@ -1,1 +1,74 @@
-{"fn": "yottayoshida/llm-key-ring", "sha": "8e2c46446cf9", "source": "readme", "identity": {"one_liner": "macOS CLI：把 LLM API 密钥加密存入 Keychain 并安全注入", "review": "Rust 编写的 macOS 命令行工具 lkr，将 LLM API 密钥以 provider:label 命名存入专用 Keychain（v0.3.0 为独立 lkr.keychain-db，含 ACL 与 cdhash 二进制完整性绑定）。提供 set/get/list/rm/exec/gen/migrate/harden 等命令：exec 将 runtime 密钥注入子进程环境变量，gen 从 .env/JSON 模板生成 0600 权限配置文件；v0.2.0 起 TTY guard 阻断非交互环境的 get/gen 访问以抵御 AI agent 注入式窃取。仅支持 macOS，源码构建需 Rust 1.85+。注意：README 声明项目不再积极维护。", "highlights": ["密钥存入专用 macOS Keychain，lkr exec 以环境变量注入子进程且不落盘", "TTY guard 阻断非交互环境的 get/gen 访问（v0.2.0，防 agent 窃取）", "gen 从 .env/JSON 模板生成 0600 权限配置，clipboard 30 秒自动清除", "lkr usage 查询各 provider API 用量成本"], "use_cases": ["把 .env 明文密钥迁移到 macOS Keychain 加密存储", "以 lkr exec 向脚本安全注入 OPENAI_API_KEY 等环境变量", "阻断 AI 编码助手经 prompt injection 窃取密钥的路径"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["密钥管理", "macOS CLI", "安全", "LLM基础设施"], "domain": "开发工具/密钥管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: A secure CLI tool for managing LLM API keys via macOS Keychain. No more plaintext keys in `.env` files.", "L85: lkr exec -- python script.py                # Inject all runtime keys"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yottayoshida/llm-key-ring",
+ "sha": "8e2c46446cf9",
+ "source": "readme",
+ "identity": {
+  "one_liner": "macOS CLI：把 LLM API 密钥加密存入 Keychain 并安全注入",
+  "review": "Rust 编写的 macOS 命令行工具 lkr，将 LLM API 密钥以 provider:label 命名存入专用 Keychain（v0.3.0 为独立 lkr.keychain-db，含 ACL 与 cdhash 二进制完整性绑定）。提供 set/get/list/rm/exec/gen/migrate/harden 等命令：exec 将 runtime 密钥注入子进程环境变量，gen 从 .env/JSON 模板生成 0600 权限配置文件；v0.2.0 起 TTY guard 阻断非交互环境的 get/gen 访问以抵御 AI agent 注入式窃取。仅支持 macOS，源码构建需 Rust 1.85+。注意：README 声明项目不再积极维护。",
+  "highlights": [
+   "密钥存入专用 macOS Keychain，lkr exec 以环境变量注入子进程且不落盘",
+   "TTY guard 阻断非交互环境的 get/gen 访问（v0.2.0，防 agent 窃取）",
+   "gen 从 .env/JSON 模板生成 0600 权限配置，clipboard 30 秒自动清除",
+   "lkr usage 查询各 provider API 用量成本"
+  ],
+  "use_cases": [
+   "把 .env 明文密钥迁移到 macOS Keychain 加密存储",
+   "以 lkr exec 向脚本安全注入 OPENAI_API_KEY 等环境变量",
+   "阻断 AI 编码助手经 prompt injection 窃取密钥的路径"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "密钥管理",
+   "macOS CLI",
+   "安全",
+   "LLM基础设施"
+  ],
+  "domain": "开发工具/密钥管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: A secure CLI tool for managing LLM API keys via macOS Keychain. No more plaintext keys in `.env` files.",
+   "L85: lkr exec -- python script.py                # Inject all runtime keys"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,0 +1,58 @@
+# selimozten/elek
+
+⭐ 19 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/selimozten/elek) · [官网](https://elek.sh) · 个人维护
+
+**自托管的只读 AI 代码审查 GitHub Action**
+
+以 GitHub Action 形式自托管运行的 AI 代码审查工具：PR 打开或更新时对 diff 运行一次 Pi 会话，用户自带模型密钥（支持 anthropic/deepseek/openrouter/groq/openai 等 Pi 支持的任意 provider），输出总结评论与行内评论。安全模型上模型仅获得 read/grep/find/ls 工具，不接触 GITHUB_TOKEN，无 approve/merge/close/push 代码路径；通过 npx elek-init 一分钟完成配置。限制：不审查 fork PR，跳过 draft PR。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | locked-api |  |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 模型无关：任意 Pi provider 均可用，自带 API key
+- 只读安全模型：模型无 shell/写文件/MCP，不接收 GITHUB_TOKEN，仅 COMMENT 事件发评论
+- 发布前对 token 形状的密钥做脱敏
+- `.elek.yml` 从 base 分支加载，PR 无法更改审查自己的规则
+
+## 适用场景
+
+- 在自己仓库的 CI 里对每个 PR 自动跑 AI 代码审查
+- 按仓库自定义审查规则与严重级别阈值
+- 无需托管服务、自托管且无遥测地接入 AI 审查
+
+## 场景标签
+
+`代码审查` · 领域:编码与开发
+
+## 证据(README 行号)
+
+> L3:  Read-only AI code review for pull requests.
+> L9: elek reviews every pull request in your repository. When a PR is opened,
+> L15: elek is open source and runs entirely in your own GitHub Actions workflow.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "selimozten/elek 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-10-18 19 → 2026-10-28 19（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `006314604dbb` · [字段定义](../../DATASET.md)*

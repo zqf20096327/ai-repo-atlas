@@ -1,1 +1,82 @@
-{"fn": "yhanottv/agenthub", "sha": "3f883596200f", "source": "readme", "identity": {"one_liner": "Hermes Agent 的自托管 Web 界面：多智能体组织与成本追踪", "review": "为 Nous Research 的 Hermes Agent 提供浏览器界面（含移动端）：在终端运行的 Hermes 之上加入具名持久智能体组织，CEO/manager/worker 三级排名、向低级别智能体的受追踪委派、以 [[双括号]] 链接的共享记忆并映射到 Jarvis 页面。从 Hermes 自身配置只读读取 skills 与 MCP 服务器并原样展示，按调用记录欧元成本并按模型/智能体/沙龙分摊。无 Hermes 时可对接任意 OpenAI 兼容服务。技术栈为 Node + 无框架 JavaScript + SQLite，共 3 个依赖，无构建步骤；提供 Docker Compose 部署，数据全部留在本地，无遥测。", "highlights": ["CEO/manager/worker 三级排名与委派规则服务端强制校验", "读取 Hermes 配置原样展示 skills 与 MCP 服务器，无需重复声明", "按调用计算欧元成本，按模型/智能体/沙龙分摊，无资费标记为下限", "在 /inference/v1 暴露 OpenAI 兼容网关，Hermes 经其调用用户选择的供应商且不接触用户密钥"], "use_cases": ["在浏览器（含手机）中使用和编排多个智能体，而不是在终端操作 Hermes", "自托管管理智能体对话、共享记忆与模型选择，并跟踪每笔调用的欧元成本", "让本地智能体通过委派调用 Hermes 的 MCP 服务器（Blender、Unreal、n8n 等）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["多智能体编排", "自托管 Web UI", "OpenAI 兼容", "成本追踪", "MCP"], "domain": "智能体基础设施/自托管 Web 客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "groq", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11: AgentHub lui en donne une, et ajoute une organisation par-dessus : des agents", "L64: |🔀|**Fournisseurs de modèles**|Hermes, AgentRouter, OpenRouter, OpenAI, Gemini, Groq, Together, Ollama et tout endpoint "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yhanottv/agenthub",
+ "sha": "3f883596200f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Hermes Agent 的自托管 Web 界面：多智能体组织与成本追踪",
+  "review": "为 Nous Research 的 Hermes Agent 提供浏览器界面（含移动端）：在终端运行的 Hermes 之上加入具名持久智能体组织，CEO/manager/worker 三级排名、向低级别智能体的受追踪委派、以 [[双括号]] 链接的共享记忆并映射到 Jarvis 页面。从 Hermes 自身配置只读读取 skills 与 MCP 服务器并原样展示，按调用记录欧元成本并按模型/智能体/沙龙分摊。无 Hermes 时可对接任意 OpenAI 兼容服务。技术栈为 Node + 无框架 JavaScript + SQLite，共 3 个依赖，无构建步骤；提供 Docker Compose 部署，数据全部留在本地，无遥测。",
+  "highlights": [
+   "CEO/manager/worker 三级排名与委派规则服务端强制校验",
+   "读取 Hermes 配置原样展示 skills 与 MCP 服务器，无需重复声明",
+   "按调用计算欧元成本，按模型/智能体/沙龙分摊，无资费标记为下限",
+   "在 /inference/v1 暴露 OpenAI 兼容网关，Hermes 经其调用用户选择的供应商且不接触用户密钥"
+  ],
+  "use_cases": [
+   "在浏览器（含手机）中使用和编排多个智能体，而不是在终端操作 Hermes",
+   "自托管管理智能体对话、共享记忆与模型选择，并跟踪每笔调用的欧元成本",
+   "让本地智能体通过委派调用 Hermes 的 MCP 服务器（Blender、Unreal、n8n 等）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体编排",
+   "自托管 Web UI",
+   "OpenAI 兼容",
+   "成本追踪",
+   "MCP"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "groq",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "model-gateway"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11: AgentHub lui en donne une, et ajoute une organisation par-dessus : des agents",
+   "L64: |🔀|**Fournisseurs de modèles**|Hermes, AgentRouter, OpenRouter, OpenAI, Gemini, Groq, Together, Ollama et tout endpoint "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

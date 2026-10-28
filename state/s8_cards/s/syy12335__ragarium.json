@@ -1,1 +1,85 @@
-{"fn": "syy12335/ragarium", "sha": "0fd16e3c0b2f", "source": "readme", "identity": {"one_liner": "本地优先的中文 RAG 工作台：编排、评测与部署为本地 API", "review": "面向中文用户的本地单机 RAG 工作台：导入 txt/md/html/pdf/docx 与单页 URL，切分后写入本地 Chroma 向量库；用可视化画布编排 RAG Graph（React Flow），可从模板或空白开始。基于知识库与 3-5 个示例 Query 自动生成 query-only 评测集，默认运行 reference-free 的 RAGAS 指标（faithfulness、answer_relevancy）。编排好的 Graph 可一键暴露为本地 FastAPI Runtime API，供外部通过 HTTP/JSON invoke/batch 调用。默认模型服务商为千问，需配置 API Key；第一版为单用户本地产品，无登录与多租户。", "highlights": ["可视化画布编排 RAG Workflow 并保存 Graph", "自动生成 query-only 评测集并运行 RAGAS reference-free 指标", "Workflow 一键暴露为本地 HTTP Runtime API（invoke/batch）", "本地 Chroma 向量库 + SQLite 状态库，数据全部落本地"], "use_cases": ["把自有资料构建成本地知识库并编排 RAG 问答流程", "自动生成评测集并跑 RAGAS 指标检验 RAG 效果", "把编排好的 RAG Graph 以本地 HTTP API 供其他程序调用"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [301]}}, "links": {"scenario_tags": ["RAG", "知识库", "LLM评测", "工作流编排", "本地优先"], "domain": "LLM 基础设施/RAG", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文优先设计", "默认服务商为千问"]}, "trust": {"confidence": "high", "evidence": ["L9: - 直接运行 RAGAS 评测并查看每条样本的回答、上下文和指标。", "L10: - 将准备好的 Workflow 暴露成本地 HTTP Runtime API，供外部程序通过 `invoke` 或 `batch` 调用。", "L27: - 对外提供 Runtime API：其他语言可以通过 HTTP/JSON 调用某个 RAG Graph 的输入输出。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "syy12335/ragarium",
+ "sha": "0fd16e3c0b2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "本地优先的中文 RAG 工作台：编排、评测与部署为本地 API",
+  "review": "面向中文用户的本地单机 RAG 工作台：导入 txt/md/html/pdf/docx 与单页 URL，切分后写入本地 Chroma 向量库；用可视化画布编排 RAG Graph（React Flow），可从模板或空白开始。基于知识库与 3-5 个示例 Query 自动生成 query-only 评测集，默认运行 reference-free 的 RAGAS 指标（faithfulness、answer_relevancy）。编排好的 Graph 可一键暴露为本地 FastAPI Runtime API，供外部通过 HTTP/JSON invoke/batch 调用。默认模型服务商为千问，需配置 API Key；第一版为单用户本地产品，无登录与多租户。",
+  "highlights": [
+   "可视化画布编排 RAG Workflow 并保存 Graph",
+   "自动生成 query-only 评测集并运行 RAGAS reference-free 指标",
+   "Workflow 一键暴露为本地 HTTP Runtime API（invoke/batch）",
+   "本地 Chroma 向量库 + SQLite 状态库，数据全部落本地"
+  ],
+  "use_cases": [
+   "把自有资料构建成本地知识库并编排 RAG 问答流程",
+   "自动生成评测集并跑 RAGAS 指标检验 RAG 效果",
+   "把编排好的 RAG Graph 以本地 HTTP API 供其他程序调用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    301
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "RAG",
+   "知识库",
+   "LLM评测",
+   "工作流编排",
+   "本地优先"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "rag",
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文优先设计",
+   "默认服务商为千问"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: - 直接运行 RAGAS 评测并查看每条样本的回答、上下文和指标。",
+   "L10: - 将准备好的 Workflow 暴露成本地 HTTP Runtime API，供外部程序通过 `invoke` 或 `batch` 调用。",
+   "L27: - 对外提供 Runtime API：其他语言可以通过 HTTP/JSON 调用某个 RAG Graph 的输入输出。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

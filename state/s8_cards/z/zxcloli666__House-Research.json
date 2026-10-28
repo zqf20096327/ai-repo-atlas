@@ -1,1 +1,86 @@
-{"fn": "zxcloli666/House-Research", "sha": "606296de4b95", "source": "readme", "identity": {"one_liner": "自动化房产挂牌监控：抓取 Avito/ЦИАН 并由 AI 分析推送 Telegram", "review": "用 Deno 编写的房产监控系统：定时抓取 Avito（HTML 解析，独立 avito-parser 分支）与 ЦИАН（非官方 API，需代理 cookie），将挂牌数据存入 Deno KV，再用 AI 生成「划算/溢价」评级（考虑价格、基础设施、照片），拼合图片并按主题以 HTML 消息发布到 Telegram。文本分析走任意 OpenAI 兼容端点（OpenRouter/Together/Groq/自建 vLLM/Ollama），Gemini 单独用于多模态任务，支持多 API key 日限额自动轮换。提供 ghcr.io 容器与 Docker Compose 部署，配置分为 .env 与 conf/conf.yml 两个文件。", "highlights": ["Avito HTML 解析 + ЦИАН 非官方 API 双数据源", "AI 生成划算/溢价评级，综合价格、基础设施与照片", "任意 OpenAI 兼容端点 + Gemini 多模态（PDF/照片/搜索 grounding）", "多 API key 日限额自动切换；ghcr.io 容器 + Docker Compose 部署"], "use_cases": ["自动监控 Avito/ЦИАН 房产挂牌并推送到 Telegram", "让 AI 筛选划算房源，减少手动盯盘", "在自有 VPS 上以 Docker 部署长期运行"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["房产监控", "数据抓取", "Telegram机器人", "AI分析", "自动化"], "domain": "房产/自动化监控", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter", "deepseek", "groq", "ollama", "vllm"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["俄语 README，面向 Avito/ЦИАН 俄罗斯房产平台"]}, "trust": {"confidence": "high", "evidence": ["L9: > **House Research** — комплексная система, которая автоматически 📡 собирает объявления о недвижимости, анализирует их с", "L16: |🤖 **ИИ‑оценка**|Генерация рейтинга «выгодно / переплата» с учётом цены, инфраструктуры и фото.|", "L54: Текстовый чат ходит в любой OpenAI-совместимый endpoint (OpenRouter,"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zxcloli666/House-Research",
+ "sha": "606296de4b95",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自动化房产挂牌监控：抓取 Avito/ЦИАН 并由 AI 分析推送 Telegram",
+  "review": "用 Deno 编写的房产监控系统：定时抓取 Avito（HTML 解析，独立 avito-parser 分支）与 ЦИАН（非官方 API，需代理 cookie），将挂牌数据存入 Deno KV，再用 AI 生成「划算/溢价」评级（考虑价格、基础设施、照片），拼合图片并按主题以 HTML 消息发布到 Telegram。文本分析走任意 OpenAI 兼容端点（OpenRouter/Together/Groq/自建 vLLM/Ollama），Gemini 单独用于多模态任务，支持多 API key 日限额自动轮换。提供 ghcr.io 容器与 Docker Compose 部署，配置分为 .env 与 conf/conf.yml 两个文件。",
+  "highlights": [
+   "Avito HTML 解析 + ЦИАН 非官方 API 双数据源",
+   "AI 生成划算/溢价评级，综合价格、基础设施与照片",
+   "任意 OpenAI 兼容端点 + Gemini 多模态（PDF/照片/搜索 grounding）",
+   "多 API key 日限额自动切换；ghcr.io 容器 + Docker Compose 部署"
+  ],
+  "use_cases": [
+   "自动监控 Avito/ЦИАН 房产挂牌并推送到 Telegram",
+   "让 AI 筛选划算房源，减少手动盯盘",
+   "在自有 VPS 上以 Docker 部署长期运行"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "房产监控",
+   "数据抓取",
+   "Telegram机器人",
+   "AI分析",
+   "自动化"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter",
+   "deepseek",
+   "groq",
+   "ollama",
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "web-scraping"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "俄语 README，面向 Avito/ЦИАН 俄罗斯房产平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: > **House Research** — комплексная система, которая автоматически 📡 собирает объявления о недвижимости, анализирует их с",
+   "L16: |🤖 **ИИ‑оценка**|Генерация рейтинга «выгодно / переплата» с учётом цены, инфраструктуры и фото.|",
+   "L54: Текстовый чат ходит в любой OpenAI-совместимый endpoint (OpenRouter,"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

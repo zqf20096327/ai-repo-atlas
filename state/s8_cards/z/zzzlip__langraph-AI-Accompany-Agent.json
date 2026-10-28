@@ -1,1 +1,79 @@
-{"fn": "zzzlip/langraph-AI-Accompany-Agent", "sha": "219d9ad02c95", "source": "readme", "identity": {"one_liner": "AI 角色扮演陪伴应用：持久记忆的对话与社交生成", "review": "基于 Flask 与 langgraph 的 AI 角色扮演聊天应用：用户创建 AI 角色并对话，agent 可判断并生成分享图片；集成 Google Gemini、Qwen、Moonshot-Kimi 等多种 LLM API。记忆系统分为短期与休眠长期记忆，通过 langgraph hook 节点自动总结短期记忆入库，长期记忆用 ChromaDB 向量库与 HuggingFace 嵌入做 RAG 检索。另含 AI 角色朋友圈与日记功能，由独立线程并行生成。需自行配置 API key，通过 pip 安装依赖后以 python app.py 运行。", "highlights": ["短期/长期记忆融合机制，通过 langgraph hook 节点自动总结入库", "长期记忆 RAG：ChromaDB 向量库 + HuggingFace 嵌入检索", "AI 角色朋友圈与日记由独立线程并行生成", "对话中按需生成图片（few-shot + COT 提示架构）"], "use_cases": ["与自建 AI 角色进行持久记忆的角色扮演对话", "查看 AI 角色自动生成的朋友圈动态与日记", "自部署无广告免费的陪伴类聊天应用"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["角色扮演", "AI陪伴", "记忆系统/RAG", "LangGraph应用"], "domain": "AI 陪伴/角色扮演应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提及对 Cat Box 收费现象的应对", "集成 Qwen、Moonshot-Kimi 模型"]}, "trust": {"confidence": "high", "evidence": ["L7: This is a Flask-based AI role-playing agent developed using the langgraph agent architecture. It allows users to create ", "L30: - The memory module is divided into two parts: 1. Short-term memory 2. Dormant long-term memory."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zzzlip/langraph-AI-Accompany-Agent",
+ "sha": "219d9ad02c95",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 角色扮演陪伴应用：持久记忆的对话与社交生成",
+  "review": "基于 Flask 与 langgraph 的 AI 角色扮演聊天应用：用户创建 AI 角色并对话，agent 可判断并生成分享图片；集成 Google Gemini、Qwen、Moonshot-Kimi 等多种 LLM API。记忆系统分为短期与休眠长期记忆，通过 langgraph hook 节点自动总结短期记忆入库，长期记忆用 ChromaDB 向量库与 HuggingFace 嵌入做 RAG 检索。另含 AI 角色朋友圈与日记功能，由独立线程并行生成。需自行配置 API key，通过 pip 安装依赖后以 python app.py 运行。",
+  "highlights": [
+   "短期/长期记忆融合机制，通过 langgraph hook 节点自动总结入库",
+   "长期记忆 RAG：ChromaDB 向量库 + HuggingFace 嵌入检索",
+   "AI 角色朋友圈与日记由独立线程并行生成",
+   "对话中按需生成图片（few-shot + COT 提示架构）"
+  ],
+  "use_cases": [
+   "与自建 AI 角色进行持久记忆的角色扮演对话",
+   "查看 AI 角色自动生成的朋友圈动态与日记",
+   "自部署无广告免费的陪伴类聊天应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "角色扮演",
+   "AI陪伴",
+   "记忆系统/RAG",
+   "LangGraph应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提及对 Cat Box 收费现象的应对",
+   "集成 Qwen、Moonshot-Kimi 模型"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: This is a Flask-based AI role-playing agent developed using the langgraph agent architecture. It allows users to create ",
+   "L30: - The memory module is divided into two parts: 1. Short-term memory 2. Dormant long-term memory."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

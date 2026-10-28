@@ -1,1 +1,79 @@
-{"fn": "zwaetschge/plum-code-webui", "sha": "aadb6878e19c", "source": "readme", "identity": {"one_liner": "自托管的多 CLI 编码 agent Web 控制台（含原生 Android 客户端）", "review": "面向使用 Codex、OpenCode、Pi、Kimi Code 与 Claude Code CLI 的开发者的自托管控制中心：单个 Docker 部署内提供流式聊天、工具审批与执行追踪、多会话管理、文件浏览与 Monaco 编辑器、Git/GitHub 集成、按 provider 的 token 用量与分析账本，以及 ComfyUI 图像生成等内置 MCP 服务器（android-builder、godot、blender）。另提供 Kotlin/Jetpack Compose 原生 Android 客户端（支持平板与 Wear OS，可从手表审批工具调用）。默认 provider 为 Codex，Claude Code 保留为 legacy 选项。", "highlights": ["统一接入 5 种编码 CLI（Codex/OpenCode/Pi/Kimi Code/Claude Code），按会话切换 provider", "工具执行时间线、context 用量指示、token/spend 分析账本", "内置 MCP 服务器：ComfyUI 图像生成、Android 构建、Godot、Blender", "原生 Android 客户端（手机/平板/Wear OS），离线消息队列与手表端审批"], "use_cases": ["在浏览器或手机上统一管理多个编码 agent 的会话与审批", "自托管一个带用量分析与 git/GitHub 集成的编码工作台", "团队通过邮箱白名单和角色管理共享一个编码 agent 界面"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码agent", "自托管WebUI", "多provider管理", "MCP", "移动客户端"], "domain": "开发工具/LLM 前端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Self-hosted control center for Codex, OpenCode, Pi, Kimi Code, and Claude Code — with **two first-class clients**: a bro", "L72: - **Codex** (OpenAI) - **default provider**, per-turn `codex exec` process model with auto-respawn, chunk-level streamin"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-26", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zwaetschge/plum-code-webui",
+ "sha": "aadb6878e19c",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的多 CLI 编码 agent Web 控制台（含原生 Android 客户端）",
+  "review": "面向使用 Codex、OpenCode、Pi、Kimi Code 与 Claude Code CLI 的开发者的自托管控制中心：单个 Docker 部署内提供流式聊天、工具审批与执行追踪、多会话管理、文件浏览与 Monaco 编辑器、Git/GitHub 集成、按 provider 的 token 用量与分析账本，以及 ComfyUI 图像生成等内置 MCP 服务器（android-builder、godot、blender）。另提供 Kotlin/Jetpack Compose 原生 Android 客户端（支持平板与 Wear OS，可从手表审批工具调用）。默认 provider 为 Codex，Claude Code 保留为 legacy 选项。",
+  "highlights": [
+   "统一接入 5 种编码 CLI（Codex/OpenCode/Pi/Kimi Code/Claude Code），按会话切换 provider",
+   "工具执行时间线、context 用量指示、token/spend 分析账本",
+   "内置 MCP 服务器：ComfyUI 图像生成、Android 构建、Godot、Blender",
+   "原生 Android 客户端（手机/平板/Wear OS），离线消息队列与手表端审批"
+  ],
+  "use_cases": [
+   "在浏览器或手机上统一管理多个编码 agent 的会话与审批",
+   "自托管一个带用量分析与 git/GitHub 集成的编码工作台",
+   "团队通过邮箱白名单和角色管理共享一个编码 agent 界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "自托管WebUI",
+   "多provider管理",
+   "MCP",
+   "移动客户端"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Self-hosted control center for Codex, OpenCode, Pi, Kimi Code, and Claude Code — with **two first-class clients**: a bro",
+   "L72: - **Codex** (OpenAI) - **default provider**, per-turn `codex exec` process model with auto-respawn, chunk-level streamin"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

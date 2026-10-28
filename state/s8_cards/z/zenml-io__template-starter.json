@@ -1,1 +1,76 @@
-{"fn": "zenml-io/template-starter", "sha": "34a0302810bc", "source": "readme", "identity": {"one_liner": "ZenML 起步项目模板：生成含步骤与流水线的初始工程", "review": "基于 Copier 与 Jinja2 模板的 ZenML 项目脚手架：通过 zenml init --template 或直接调用 copier 从本仓库生成一个简单 ZenML 项目，内含步骤（steps）、流水线（pipelines）、stack 配置等资源。使用前需安装 ZenML 及其 templates extras（pip install \"zenml[templates]\"）。重复运行命令可更新已生成项目的参数，也可用 copier -wf 跳过提示覆盖全部文件。面向使用 ZenML 做 MLOps 的开发团队。", "highlights": ["提供 steps、pipelines、stack 配置等项目起步资源", "通过 zenml init --template 一条命令生成项目", "底层使用 Copier 与 Jinja2 模板，可直接调用 copier 生成", "重复运行命令可更新已生成项目的参数或覆盖文件"], "use_cases": ["快速搭建第一个 ZenML MLOps 项目", "以模板为起点编写自己的机器学习流水线", "团队统一起步工程结构与配置"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MLOps", "项目模板", "脚手架", "机器学习流水线"], "domain": "MLOps/机器学习工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This repository contains a starter template from which a simple ZenML project", "L4: can be generated easily. It contains a collection of steps, pipelines, stack configurations and"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-28", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zenml-io/template-starter",
+ "sha": "34a0302810bc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ZenML 起步项目模板：生成含步骤与流水线的初始工程",
+  "review": "基于 Copier 与 Jinja2 模板的 ZenML 项目脚手架：通过 zenml init --template 或直接调用 copier 从本仓库生成一个简单 ZenML 项目，内含步骤（steps）、流水线（pipelines）、stack 配置等资源。使用前需安装 ZenML 及其 templates extras（pip install \"zenml[templates]\"）。重复运行命令可更新已生成项目的参数，也可用 copier -wf 跳过提示覆盖全部文件。面向使用 ZenML 做 MLOps 的开发团队。",
+  "highlights": [
+   "提供 steps、pipelines、stack 配置等项目起步资源",
+   "通过 zenml init --template 一条命令生成项目",
+   "底层使用 Copier 与 Jinja2 模板，可直接调用 copier 生成",
+   "重复运行命令可更新已生成项目的参数或覆盖文件"
+  ],
+  "use_cases": [
+   "快速搭建第一个 ZenML MLOps 项目",
+   "以模板为起点编写自己的机器学习流水线",
+   "团队统一起步工程结构与配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MLOps",
+   "项目模板",
+   "脚手架",
+   "机器学习流水线"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "mlops"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This repository contains a starter template from which a simple ZenML project",
+   "L4: can be generated easily. It contains a collection of steps, pipelines, stack configurations and"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
