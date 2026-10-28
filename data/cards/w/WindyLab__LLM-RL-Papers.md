@@ -1,6 +1,6 @@
 # WindyLab/LLM-RL-Papers
 
-⭐ 560 · 推送 2025-11-17 · [GitHub](https://github.com/WindyLab/LLM-RL-Papers) · 组织维护
+⭐ 561 · 推送 2025-11-17 · [GitHub](https://github.com/WindyLab/LLM-RL-Papers) · 组织维护
 
 **追踪 LLM×强化学习交叉研究的论文清单，聚焦控制方向**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WindyLab/LLM-RL-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 559 --> 562
-    line [561, 560, 560]
+    line [561, 560, 561]
 ```
 
-2026-10-18 561 → 2026-10-27 560（-1）
+2026-10-18 561 → 2026-10-28 561（+0）
 
 
 ---

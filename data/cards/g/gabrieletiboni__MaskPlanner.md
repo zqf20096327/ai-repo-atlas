@@ -45,12 +45,12 @@ MaskPlanner 是面向以物体为中心运动生成（OCMG）的深度学习方�
 ```mermaid
 xychart-beta
     title "gabrieletiboni/MaskPlanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

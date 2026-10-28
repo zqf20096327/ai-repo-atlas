@@ -1,6 +1,6 @@
 # Xquik-dev/hermes-tweet
 
-⭐ 37 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Xquik-dev/hermes-tweet) · [官网](https://docs.xquik.com/guides/hermes-tweet) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Xquik-dev/hermes-tweet) · [官网](https://docs.xquik.com/guides/hermes-tweet) · 组织维护
 
 **Hermes Agent 的 X/Twitter 搜索与操作插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xquik-dev/hermes-tweet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 36（-1）
 
 
 ---

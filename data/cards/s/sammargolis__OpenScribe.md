@@ -1,6 +1,6 @@
 # sammargolis/OpenScribe
 
-⭐ 222 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sammargolis/OpenScribe) · [官网](https://openscribe.org) · 个人维护
+⭐ 223 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sammargolis/OpenScribe) · [官网](https://openscribe.org) · 个人维护
 
 **开源 AI 医疗病历助手：录音问诊并自动生成结构化病历**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sammargolis/OpenScribe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 218 --> 223
-    line [219, 220, 221, 222, 222]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 218 --> 224
+    line [219, 220, 221, 222, 223]
 ```
 
-2026-10-18 219 → 2026-10-27 222（+3）
+2026-10-18 219 → 2026-10-28 223（+4）
 
 
 ---

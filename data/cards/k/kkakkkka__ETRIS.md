@@ -1,6 +1,6 @@
 # kkakkkka/ETRIS
 
-⭐ 147 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/ETRIS) · 个人维护
+⭐ 149 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kkakkkka/ETRIS) · 个人维护
 
 **ICCV 2023 论文 ETRIS 官方实现：指代图像分割的参数高效微调**
 
@@ -46,12 +46,12 @@ Bridging Vision and Language Encoders 一文（ICCV 2023）的官方 PyTorch 代
 ```mermaid
 xychart-beta
     title "kkakkkka/ETRIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 146 --> 150
+    line [147, 149]
 ```
 
-2026-10-18 147 → 2026-10-27 147（+0）
+2026-10-18 147 → 2026-10-28 149（+2）
 
 
 ---

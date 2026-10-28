@@ -1,6 +1,6 @@
 # tsingyuai/growth-lab
 
-⭐ 1,972 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
+⭐ 1,971 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
 
 **以 Codex/Claude Code 为运行时的端到端产品增长工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tsingyuai/growth-lab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 1967 --> 1997
-    line [1992, 1994, 1995, 1969, 1972, 1972]
+    line [1992, 1994, 1995, 1969, 1972, 1971]
 ```
 
-2026-10-18 1,992 → 2026-10-27 1,972（-20）
+2026-10-18 1,992 → 2026-10-28 1,971（-21）
 
 
 ---

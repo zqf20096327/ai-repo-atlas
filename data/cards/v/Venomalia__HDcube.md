@@ -1,6 +1,6 @@
 # Venomalia/HDcube
 
-⭐ 81 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Venomalia/HDcube) · 个人维护
+⭐ 82 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/Venomalia/HDcube) · 个人维护
 
 **面向 GameCube/Wii 贴图的 ESRGAN 超分辨率模型集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Venomalia/HDcube 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-27"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-19", "2026-10-28"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-19 81 → 2026-10-27 81（+0）
+2026-10-19 81 → 2026-10-28 82（+1）
 
 
 ---

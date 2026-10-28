@@ -1,6 +1,6 @@
 # oneshot-agent/oneshot-gtm
 
-⭐ 671 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/oneshot-agent/oneshot-gtm) · [官网](https://oneshot-gtm.com) · 组织维护
+⭐ 672 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/oneshot-agent/oneshot-gtm) · [官网](https://oneshot-gtm.com) · 组织维护
 
 **面向技术创始人的出站销售 agent：CLI + 本地仪表盘，按结果付费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oneshot-agent/oneshot-gtm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "oneshot-agent/oneshot-gtm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 668 --> 694
-    line [692, 673, 674, 670, 671]
+    line [692, 673, 674, 670, 671, 672]
 ```
 
-2026-10-18 692 → 2026-10-27 671（-21）
+2026-10-18 692 → 2026-10-28 672（-20）
 
 
 ---

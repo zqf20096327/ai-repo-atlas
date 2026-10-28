@@ -1,6 +1,6 @@
 # vinhnx/vtchat
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vinhnx/vtchat) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vinhnx/vtchat) · 个人维护
 
 **面向用户的隐私优先 AI 聊天应用，支持多模型与本地运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vinhnx/vtchat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 57 --> 60
-    line [59, 58, 58]
+    line [59, 58, 59]
 ```
 
-2026-10-18 59 → 2026-10-27 58（-1）
+2026-10-18 59 → 2026-10-28 59（+0）
 
 
 ---

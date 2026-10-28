@@ -1,6 +1,6 @@
 # wb-hwang/AIAnswerer-Android
 
-⭐ 107 · Kotlin · MIT · 推送 2025-10-31 · [GitHub](https://github.com/wb-hwang/AIAnswerer-Android) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **安卓悬浮窗截图答题应用：OCR 识别题目并调用大模型生成答案**
 
@@ -11,7 +11,7 @@ Android 端答题工具：通过悬浮窗一键截屏，使用 ML Kit OCR 识别
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # The-Distillery-dev/thedistillery
 
-⭐ 71 · TypeScript · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/The-Distillery-dev/thedistillery) · [官网](https://thedistillery.dev) · 组织维护
+⭐ 72 · TypeScript · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/The-Distillery-dev/thedistillery) · [官网](https://thedistillery.dev) · 组织维护
 
 **本地 token 优化代理：削减 AI 编码工具发往模型的输入 token**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Distillery-dev/thedistillery 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 68 --> 77
-    line [72, 73, 76, 69, 71, 71]
+    line [72, 73, 76, 69, 71, 72]
 ```
 
-2026-10-18 72 → 2026-10-27 71（-1）
+2026-10-18 72 → 2026-10-28 72（+0）
 
 
 ---

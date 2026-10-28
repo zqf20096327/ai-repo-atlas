@@ -46,12 +46,12 @@ GeoPhys 用冻结图像编码器（DINOv2/DINOv3/CORnet-S/VOneNet）把视频帧
 ```mermaid
 xychart-beta
     title "ChristianInterno/GeoPhys 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 34（+0）
 
 
 ---

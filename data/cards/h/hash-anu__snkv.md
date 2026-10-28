@@ -1,6 +1,6 @@
 # hash-anu/snkv
 
-⭐ 79 · C · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hash-anu/snkv) · [官网](https://hash-anu.github.io/snkv/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **C 编写的嵌入式 ACID 键值存储，可选 HNSW 向量检索**
 
@@ -11,7 +11,7 @@ SNKV 是单头文件嵌入式键值存储库，直接调用 SQLite 的 B-tree �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

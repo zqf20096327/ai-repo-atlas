@@ -1,6 +1,6 @@
 # TannerMidd/pi-pocket
 
-⭐ 675 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TannerMidd/pi-pocket) · [官网](https://tannermidd.github.io/pi-pocket/) · 个人维护
+⭐ 693 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TannerMidd/pi-pocket) · [官网](https://tannermidd.github.io/pi-pocket/) · 个人维护
 
 **自托管的 Pi 编程 agent 移动优先 Web 客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TannerMidd/pi-pocket 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 437 --> 696
-    line [458, 513, 555, 584, 602, 624, 644, 675]
+    title "TannerMidd/pi-pocket 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 435 --> 716
+    line [458, 513, 555, 584, 602, 624, 644, 675, 693]
 ```
 
-2026-10-18 458 → 2026-10-27 675（+217）
+2026-10-18 458 → 2026-10-28 693（+235）
 
 
 ---

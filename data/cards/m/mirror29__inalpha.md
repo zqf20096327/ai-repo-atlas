@@ -1,6 +1,6 @@
 # mirror29/inalpha
 
-⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/mirror29/inalpha) · [官网](https://inalpha.dev/) · 个人维护 · 中文 README
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mirror29/inalpha) · [官网](https://inalpha.dev/) · 个人维护 · 中文 README
 
 **开源量化 agent 框架：LLM 研究选因子写策略，机器审批下单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirror29/inalpha 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    title "mirror29/inalpha 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 44 --> 50
-    line [45, 47, 48, 49]
+    line [45, 47, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-10-27 49（+4）
+2026-10-18 45 → 2026-10-28 49（+4）
 
 
 ---

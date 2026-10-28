@@ -1,6 +1,6 @@
 # moonshine-software/moon-vibe
 
-⭐ 78 · PHP · 推送 2025-11-26 · [GitHub](https://github.com/moonshine-software/moon-vibe) · [官网](https://getmoonshine.app) · 组织维护
+⭐ 77 · PHP · 推送 2025-11-26 · [GitHub](https://github.com/moonshine-software/moon-vibe) · [官网](https://getmoonshine.app) · 组织维护
 
 **用自然语言生成 Laravel+MoonShine 管理面板的 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moonshine-software/moon-vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 77 --> 80
-    line [79, 78, 78]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 76 --> 80
+    line [79, 78, 77]
 ```
 
-2026-10-18 79 → 2026-10-27 78（-1）
+2026-10-18 79 → 2026-10-28 77（-2）
 
 
 ---

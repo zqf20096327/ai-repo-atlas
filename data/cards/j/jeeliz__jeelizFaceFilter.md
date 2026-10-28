@@ -1,6 +1,6 @@
 # jeeliz/jeelizFaceFilter
 
-⭐ 2,951 · JavaScript · Apache-2.0 · 推送 2025-11-14 · [GitHub](https://github.com/jeeliz/jeelizFaceFilter) · [官网](https://jeeliz.com) · 组织维护
+⭐ 2,953 · JavaScript · Apache-2.0 · 推送 2025-11-14 · [GitHub](https://github.com/jeeliz/jeelizFaceFilter) · [官网](https://jeeliz.com) · 组织维护
 
 **浏览器端实时人脸检测追踪 JS 库，用于 AR 面部滤镜**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeeliz/jeelizFaceFilter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 2948 --> 2952
-    line [2949, 2950, 2951, 2951]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 2948 --> 2954
+    line [2949, 2950, 2951, 2953]
 ```
 
-2026-10-18 2,949 → 2026-10-27 2,951（+2）
+2026-10-18 2,949 → 2026-10-28 2,953（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # lingcoder/crab-code
 
-⭐ 77 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lingcoder/crab-code) · [官网](https://github.com/lingcoder/crab-code) · 组织维护 · 中文 README
+⭐ 77 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lingcoder/crab-code) · [官网](https://github.com/lingcoder/crab-code) · 组织维护 · 中文 README
 
 **Rust 实现的开源 Claude Code 替代品：可接任意 LLM 的 Agentic 编程 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lingcoder/crab-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 75 --> 78
     line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-10-27 77（+1）
+2026-10-18 76 → 2026-10-28 77（+1）
 
 
 ---

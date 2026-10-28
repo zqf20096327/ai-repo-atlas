@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "getcoherence/studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "getcoherence/studio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 75 --> 78
-    line [76, 77]
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-10-27 77（+1）
+2026-10-18 76 → 2026-10-28 77（+1）
 
 
 ---

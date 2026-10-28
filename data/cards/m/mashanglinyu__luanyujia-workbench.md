@@ -1,6 +1,6 @@
 # mashanglinyu/luanyujia-workbench
 
-⭐ 199 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mashanglinyu/luanyujia-workbench) · [官网](https://luanyujia.pages.dev) · 个人维护 · 中文 README
+⭐ 236 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mashanglinyu/luanyujia-workbench) · [官网](https://luanyujia.pages.dev) · 个人维护 · 中文 README
 
 **多场景 AI 桌面工作台的搭建方法与纯壳模板（作者淋雨家）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mashanglinyu/luanyujia-workbench 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 16 --> 215
-    line [32, 39, 63, 98, 121, 151, 175, 199]
+    title "mashanglinyu/luanyujia-workbench 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 12 --> 256
+    line [32, 39, 63, 98, 121, 151, 175, 199, 236]
 ```
 
-2026-10-18 32 → 2026-10-27 199（+167）
+2026-10-18 32 → 2026-10-28 236（+204）
 
 
 ---

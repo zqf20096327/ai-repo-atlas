@@ -1,6 +1,6 @@
 # noskillish/bankmcp
 
-⭐ 294 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/noskillish/bankmcp) · [官网](https://bankmcp.dk/) · 个人维护
+⭐ 295 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/noskillish/bankmcp) · [官网](https://bankmcp.dk/) · 个人维护
 
 **自托管只读 MCP 服务器：让 AI 助手读取你的银行账户**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "noskillish/bankmcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 288 --> 295
-    line [289, 290, 289, 291, 292, 294]
+    title "noskillish/bankmcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 288 --> 296
+    line [289, 290, 289, 291, 292, 294, 295]
 ```
 
-2026-10-18 289 → 2026-10-27 294（+5）
+2026-10-18 289 → 2026-10-28 295（+6）
 
 
 ---

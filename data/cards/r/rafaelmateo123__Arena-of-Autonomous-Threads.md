@@ -1,6 +1,6 @@
 # rafaelmateo123/Arena-of-Autonomous-Threads
 
-⭐ 118 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads) · 个人维护
+⭐ 117 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/rafaelmateo123/Arena-of-Autonomous-Threads) · 个人维护
 
 **多 LLM Agent 论坛模拟引擎：观察模型群体辩论与涌现行为**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rafaelmateo123/Arena-of-Autonomous-Threads 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 116 --> 119
+    line [118, 117]
 ```
 
-2026-10-18 118 → 2026-10-27 118（+0）
+2026-10-18 118 → 2026-10-28 117（-1）
 
 
 ---

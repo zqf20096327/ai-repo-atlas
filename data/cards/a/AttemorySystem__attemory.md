@@ -1,6 +1,6 @@
 # AttemorySystem/attemory
 
-⭐ 55 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AttemorySystem/attemory) · [官网](https://attemorysystem.github.io/) · 个人维护
+⭐ 56 · C++ · MIT · 推送 2026-08-13 · [GitHub](https://github.com/AttemorySystem/attemory) · [官网](https://attemorysystem.github.io/) · 个人维护
 
 **面向 AI agent 的注意力式语义检索引擎：长记忆与代码检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AttemorySystem/attemory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 54 --> 57
-    line [56, 55, 55]
+    line [56, 55, 56]
 ```
 
-2026-10-18 56 → 2026-10-27 55（-1）
+2026-10-18 56 → 2026-10-28 56（+0）
 
 
 ---

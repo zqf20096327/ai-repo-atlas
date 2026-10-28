@@ -1,6 +1,6 @@
 # novitalabs/pegaflow
 
-⭐ 217 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/novitalabs/pegaflow) · 组织维护
+⭐ 218 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/novitalabs/pegaflow) · 组织维护
 
 **面向 LLM 推理的高性能 KV cache 存储引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "novitalabs/pegaflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 214 --> 218
-    line [215, 217, 217]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 214 --> 219
+    line [215, 217, 218]
 ```
 
-2026-10-18 215 → 2026-10-27 217（+2）
+2026-10-18 215 → 2026-10-28 218（+3）
 
 
 ---

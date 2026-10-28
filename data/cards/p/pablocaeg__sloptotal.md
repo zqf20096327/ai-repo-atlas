@@ -1,6 +1,6 @@
 # pablocaeg/sloptotal
 
-⭐ 74 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pablocaeg/sloptotal) · [官网](https://sloptotal.com) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/pablocaeg/sloptotal) · [官网](https://sloptotal.com) · 个人维护 · 中文 README
 
 **自托管开源 AI 文本检测器：23 引擎并行，输出单一校准分数**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pablocaeg/sloptotal 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 67 --> 75
-    line [68, 71, 72, 73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 67 --> 76
+    line [68, 71, 72, 73, 74, 75]
 ```
 
-2026-10-18 68 → 2026-10-27 74（+6）
+2026-10-18 68 → 2026-10-28 75（+7）
 
 
 ---

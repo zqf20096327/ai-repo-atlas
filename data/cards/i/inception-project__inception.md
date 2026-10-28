@@ -1,6 +1,6 @@
 # inception-project/inception
 
-⭐ 727 · Java · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/inception-project/inception) · [官网](https://inception-project.github.io) · 组织维护
+⭐ 727 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/inception-project/inception) · [官网](https://inception-project.github.io) · 组织维护
 
 **面向研究团队的文本语义标注平台，带知识库链接与机器辅助建议**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inception-project/inception 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 724 --> 728
     line [725, 726, 727, 727]
 ```
 
-2026-10-18 725 → 2026-10-27 727（+2）
+2026-10-18 725 → 2026-10-28 727（+2）
 
 
 ---

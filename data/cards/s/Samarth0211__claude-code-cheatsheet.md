@@ -1,6 +1,6 @@
 # Samarth0211/claude-code-cheatsheet
 
-⭐ 33 · 推送 2026-03-28 · [GitHub](https://github.com/Samarth0211/claude-code-cheatsheet) · 个人维护
+⭐ 34 · 推送 2026-03-28 · [GitHub](https://github.com/Samarth0211/claude-code-cheatsheet) · 个人维护
 
 **100 条改变 Claude 回应方式的提示词快捷指令速查表**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Samarth0211/claude-code-cheatsheet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-10-27 33（+1）
+2026-10-18 32 → 2026-10-28 34（+2）
 
 
 ---

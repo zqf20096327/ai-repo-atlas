@@ -1,6 +1,6 @@
 # lobehub/acceptance
 
-⭐ 37 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lobehub/acceptance) · [官网](https://lobehub.com/acceptance) · 组织维护
+⭐ 37 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lobehub/acceptance) · [官网](https://lobehub.com/acceptance) · 组织维护
 
 **面向 Coding Agent 的开源验收测试工具：把需求变成可核验检查**
 
@@ -45,12 +45,12 @@ Acceptance 是一个供编码智能体使用的端到端验收测试技能与 CL
 ```mermaid
 xychart-beta
     title "lobehub/acceptance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 34 --> 38
     line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-10-27 37（+2）
+2026-10-18 35 → 2026-10-28 37（+2）
 
 
 ---

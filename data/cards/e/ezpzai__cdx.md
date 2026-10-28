@@ -1,6 +1,6 @@
 # ezpzai/cdx
 
-⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/ezpzai/cdx) · 组织维护 · 中文 README
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-06-22 · [GitHub](https://github.com/ezpzai/cdx) · 组织维护 · 中文 README
 
 **多档案管理与手机远程接入 Codex 的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ezpzai/cdx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-18 35 → 2026-10-27 35（+0）
+2026-10-18 35 → 2026-10-28 34（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sobranie2406/modureader
 
-⭐ 215 · Dart · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/sobranie2406/modureader) · [官网](https://github.com/sobranie2406/modureader/releases/latest) · 个人维护 · 中文 README
+⭐ 219 · Dart · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/sobranie2406/modureader) · [官网](https://github.com/sobranie2406/modureader/releases/latest) · 个人维护 · 中文 README
 
 **跨平台开源电子书/PDF 阅读器，含 OCR、AI 阅读与听书**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sobranie2406/modureader 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 181 --> 218
-    line [184, 194, 198, 205, 209, 213, 214, 215]
+    title "sobranie2406/modureader 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 181 --> 222
+    line [184, 194, 198, 205, 209, 213, 214, 215, 219]
 ```
 
-2026-10-18 184 → 2026-10-27 215（+31）
+2026-10-18 184 → 2026-10-28 219（+35）
 
 
 ---

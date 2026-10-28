@@ -1,6 +1,6 @@
 # TNT-Likely/PanWatch
 
-⭐ 2,243 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
+⭐ 2,262 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
 
 **自托管的 AI 股票盯盘与持仓分析应用（A股/港股/美股）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TNT-Likely/PanWatch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2120 --> 2254
-    line [2131, 2141, 2188, 2196, 2202, 2211, 2216, 2243]
+    title "TNT-Likely/PanWatch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2118 --> 2275
+    line [2131, 2141, 2188, 2196, 2202, 2211, 2216, 2243, 2262]
 ```
 
-2026-10-18 2,131 → 2026-10-27 2,243（+112）
+2026-10-18 2,131 → 2026-10-28 2,262（+131）
 
 
 ---

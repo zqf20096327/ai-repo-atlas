@@ -1,6 +1,6 @@
 # QwenLM/E-CommerceBench
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/QwenLM/E-CommerceBench) · [官网](https://ecbench.github.io/) · 组织维护 · 中文 README
+⭐ 119 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/QwenLM/E-CommerceBench) · [官网](https://ecbench.github.io/) · 组织维护 · 中文 README
 
 **评测 LLM Agent 长周期自主经营电商业务的基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/E-CommerceBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 111 --> 119
-    line [112, 114, 116, 117, 118, 118]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 111 --> 120
+    line [112, 114, 116, 117, 118, 119]
 ```
 
-2026-10-18 112 → 2026-10-27 118（+6）
+2026-10-18 112 → 2026-10-28 119（+7）
 
 
 ---

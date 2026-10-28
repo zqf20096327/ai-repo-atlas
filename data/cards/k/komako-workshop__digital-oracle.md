@@ -1,6 +1,6 @@
 # komako-workshop/digital-oracle
 
-⭐ 903 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/komako-workshop/digital-oracle) · 组织维护 · 中文 README
+⭐ 906 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/komako-workshop/digital-oracle) · 组织维护 · 中文 README
 
 **AI Agent 技能：从金融数据挖掘宏观事件的概率估计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "komako-workshop/digital-oracle 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 897 --> 904
-    line [898, 902, 903, 903]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 897 --> 907
+    line [898, 902, 903, 906]
 ```
 
-2026-10-18 898 → 2026-10-27 903（+5）
+2026-10-18 898 → 2026-10-28 906（+8）
 
 
 ---

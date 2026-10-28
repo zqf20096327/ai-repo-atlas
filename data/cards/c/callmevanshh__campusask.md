@@ -1,6 +1,6 @@
 # callmevanshh/campusask
 
-⭐ 41 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/callmevanshh/campusask) · [官网](https://campusask.onrender.com) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/callmevanshh/campusask) · [官网](https://campusask.onrender.com) · 个人维护
 
 **基于官方 PDF 的 IIIT Delhi 校规引用问答应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "callmevanshh/campusask 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6 --> 45
-    line [9, 10, 27, 29, 34, 39, 42, 41]
+    title "callmevanshh/campusask 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6 --> 46
+    line [9, 10, 27, 29, 34, 39, 42, 41, 43]
 ```
 
-2026-10-18 9 → 2026-10-27 41（+32）
+2026-10-18 9 → 2026-10-28 43（+34）
 
 
 ---

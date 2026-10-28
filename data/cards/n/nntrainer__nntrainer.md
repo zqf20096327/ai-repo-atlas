@@ -1,6 +1,6 @@
 # nntrainer/nntrainer
 
-⭐ 214 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nntrainer/nntrainer) · 组织维护
+⭐ 215 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/nntrainer/nntrainer) · 组织维护
 
 **面向边缘设备的神经网络训练与 LLM 推理框架**
 
@@ -47,12 +47,12 @@ C/C++ 神经网络框架，支持在手机、Tizen、Android、Linux、Windows �
 ```mermaid
 xychart-beta
     title "nntrainer/nntrainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 213 --> 215
-    line [214, 214]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 213 --> 216
+    line [214, 215]
 ```
 
-2026-10-18 214 → 2026-10-27 214（+0）
+2026-10-18 214 → 2026-10-28 215（+1）
 
 
 ---

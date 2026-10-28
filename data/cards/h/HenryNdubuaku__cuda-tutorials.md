@@ -1,6 +1,6 @@
 # HenryNdubuaku/cuda-tutorials
 
-⭐ 238 · Cuda · MIT · 推送 2026-10-13 · [GitHub](https://github.com/HenryNdubuaku/cuda-tutorials) · 个人维护
+⭐ 239 · Cuda · MIT · 推送 2026-10-13 · [GitHub](https://github.com/HenryNdubuaku/cuda-tutorials) · 个人维护
 
 **CUDA 并行编程教程集：面向数学与机器学习的从零到进阶**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HenryNdubuaku/cuda-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 237 --> 239
-    line [238, 238]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 237 --> 240
+    line [238, 239]
 ```
 
-2026-10-18 238 → 2026-10-27 238（+0）
+2026-10-18 238 → 2026-10-28 239（+1）
 
 
 ---

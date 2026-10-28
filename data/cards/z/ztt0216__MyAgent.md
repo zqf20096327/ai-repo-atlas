@@ -1,6 +1,6 @@
 # ztt0216/MyAgent
 
-⭐ 90 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ztt0216/MyAgent) · 个人维护 · 中文 README
+⭐ 172 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ztt0216/MyAgent) · 个人维护 · 中文 README
 
 **从零实现的 Python 通用 Agent Runtime，含权限、MCP、Skills 自进化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ztt0216/MyAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 0 --> 112
-    line [36, 51, 103, 7, 90]
+    title "ztt0216/MyAgent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 188
+    line [36, 51, 103, 7, 90, 172]
 ```
 
-2026-10-18 36 → 2026-10-27 90（+54）
+2026-10-18 36 → 2026-10-28 172（+136）
 
 
 ---

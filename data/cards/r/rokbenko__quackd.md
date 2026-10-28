@@ -1,6 +1,6 @@
 # rokbenko/quackd
 
-⭐ 278 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
+⭐ 279 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
 
 **多机器人统一 CLI：为每台机器人接 LLM 大脑并发目标指令**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rokbenko/quackd 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 262 --> 279
-    line [263, 266, 268, 269, 271, 276, 278]
+    title "rokbenko/quackd 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 262 --> 280
+    line [263, 266, 268, 269, 271, 276, 278, 279]
 ```
 
-2026-10-18 263 → 2026-10-27 278（+15）
+2026-10-18 263 → 2026-10-28 279（+16）
 
 
 ---

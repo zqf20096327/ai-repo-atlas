@@ -1,6 +1,6 @@
 # pytorch/audio
 
-⭐ 2,960 · Python · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/pytorch/audio) · [官网](https://pytorch.org/audio) · 组织维护
+⭐ 2,960 · Python · BSD-2-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/audio) · [官网](https://pytorch.org/audio) · 组织维护
 
 **PyTorch 生态的音频与语音处理库，供 ML 开发者使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/audio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 2956 --> 2961
     line [2957, 2958, 2959, 2960, 2960]
 ```
 
-2026-10-18 2,957 → 2026-10-27 2,960（+3）
+2026-10-18 2,957 → 2026-10-28 2,960（+3）
 
 
 ---

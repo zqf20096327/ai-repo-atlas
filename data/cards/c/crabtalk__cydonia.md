@@ -1,6 +1,6 @@
 # crabtalk/cydonia
 
-⭐ 145 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 组织维护
+⭐ 146 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 组织维护
 
 **管理 40+ 编码 agent 的本地优先桌面工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "crabtalk/cydonia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
     y-axis "stars" 143 --> 147
-    line [144, 146, 145, 145]
+    line [144, 146, 145, 146]
 ```
 
-2026-10-18 144 → 2026-10-27 145（+1）
+2026-10-18 144 → 2026-10-28 146（+2）
 
 
 ---

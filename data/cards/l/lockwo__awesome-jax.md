@@ -1,6 +1,6 @@
 # lockwo/awesome-jax
 
-⭐ 53 · CC0-1.0 · 推送 2026-10-03 · [GitHub](https://github.com/lockwo/awesome-jax) · [官网](https://lockwo.github.io/awesome-jax/) · 个人维护
+⭐ 54 · CC0-1.0 · 推送 2026-10-03 · [GitHub](https://github.com/lockwo/awesome-jax) · [官网](https://lockwo.github.io/awesome-jax/) · 个人维护
 
 **JAX 生态资源策展清单：收录库、模型与教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lockwo/awesome-jax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-18 52 → 2026-10-27 53（+1）
+2026-10-18 52 → 2026-10-28 54（+2）
 
 
 ---

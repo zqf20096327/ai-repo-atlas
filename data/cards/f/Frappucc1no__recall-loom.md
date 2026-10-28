@@ -1,6 +1,6 @@
 # Frappucc1no/recall-loom
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Frappucc1no/recall-loom) · [官网](https://recallloom.error9pm.com) · 个人维护 · 中文 README
+⭐ 152 · Python · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Frappucc1no/recall-loom) · [官网](https://recallloom.error9pm.com) · 个人维护 · 中文 README
 
 **跨 AI 工具的文件化项目记忆层，保存项目状态与决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Frappucc1no/recall-loom 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 152 --> 156
-    line [153, 155, 154, 153]
+    title "Frappucc1no/recall-loom 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 151 --> 156
+    line [153, 155, 154, 153, 152]
 ```
 
-2026-10-18 153 → 2026-10-27 153（+0）
+2026-10-18 153 → 2026-10-28 152（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ondata/istat_mcp_server
 
-⭐ 23 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ondata/istat_mcp_server) · [官网](https://ondata.github.io/istat_mcp_server/) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ondata/istat_mcp_server) · [官网](https://ondata.github.io/istat_mcp_server/) · 组织维护
 
 **供 MCP 客户端查询意大利 ISTAT 统计数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ondata/istat_mcp_server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

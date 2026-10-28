@@ -1,6 +1,6 @@
 # Octen-Team/octen-mcp
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Octen-Team/octen-mcp) · [官网](https://docs.octen.ai/integrations/octen-mcp-server) · 组织维护
+⭐ 22 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Octen-Team/octen-mcp) · [官网](https://docs.octen.ai/integrations/octen-mcp-server) · 组织维护
 
 **给 MCP 客户端的 Octen 联网搜索/网页抽取服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Octen-Team/octen-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Octen-Team/octen-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-10-27 22（+1）
+2026-10-18 21 → 2026-10-28 22（+1）
 
 
 ---

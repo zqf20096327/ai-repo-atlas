@@ -1,6 +1,6 @@
 # oscar-castaneda-dev/oscar-castaneda-website
 
-⭐ 122 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
+⭐ 123 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) · [官网](https://oscar-castaneda-website-brown.vercel.app/) · 个人维护
 
 **个人作品集网站：展示全栈与 AI 工程工作**
 
@@ -42,12 +42,12 @@ Oscar Castaneda 的个人 portfolio 网站，自我介绍为专注 ML、NLP 与�
 ```mermaid
 xychart-beta
     title "oscar-castaneda-dev/oscar-castaneda-website 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 110 --> 123
-    line [111, 112, 115, 119, 120, 122, 122]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 110 --> 124
+    line [111, 112, 115, 119, 120, 122, 123]
 ```
 
-2026-10-18 111 → 2026-10-27 122（+11）
+2026-10-18 111 → 2026-10-28 123（+12）
 
 
 ---

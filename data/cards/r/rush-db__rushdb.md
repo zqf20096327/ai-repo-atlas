@@ -1,6 +1,6 @@
 # rush-db/rushdb
 
-⭐ 325 · TypeScript · 推送 2026-10-13 · [GitHub](https://github.com/rush-db/rushdb) · [官网](https://rushdb.com) · 组织维护 · 中文 README
+⭐ 325 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/rush-db/rushdb) · [官网](https://rushdb.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的图+向量数据库与记忆层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rush-db/rushdb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 324 --> 326
     line [325, 325]
 ```
 
-2026-10-18 325 → 2026-10-27 325（+0）
+2026-10-18 325 → 2026-10-28 325（+0）
 
 
 ---

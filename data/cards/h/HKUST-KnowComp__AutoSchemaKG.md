@@ -1,6 +1,6 @@
 # HKUST-KnowComp/AutoSchemaKG
 
-⭐ 843 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
+⭐ 845 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
 
 **面向开发者的自动知识图谱构建框架：LLM 抽取三元组并归纳 schema**
 
@@ -44,13 +44,13 @@ HKUST KnowComp 团队的知识图谱构建框架，采用两阶段方法：用 L
 
 ```mermaid
 xychart-beta
-    title "HKUST-KnowComp/AutoSchemaKG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 838 --> 844
-    line [839, 841, 842, 843, 842, 843]
+    title "HKUST-KnowComp/AutoSchemaKG 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 838 --> 846
+    line [839, 841, 842, 843, 842, 843, 845]
 ```
 
-2026-10-18 839 → 2026-10-27 843（+4）
+2026-10-18 839 → 2026-10-28 845（+6）
 
 
 ---

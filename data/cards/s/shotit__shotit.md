@@ -1,6 +1,6 @@
 # shotit/shotit
 
-⭐ 27 · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/shotit/shotit) · [官网](https://shotit.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向影视的截图搜视频引擎：上传截图定位来源视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

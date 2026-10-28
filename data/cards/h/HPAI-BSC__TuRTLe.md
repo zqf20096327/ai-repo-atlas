@@ -1,6 +1,6 @@
 # HPAI-BSC/TuRTLe
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/HPAI-BSC/TuRTLe) · [官网](https://huggingface.co/spaces/HPAI-BSC/TuRTLe-Leaderboard) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/HPAI-BSC/TuRTLe) · [官网](https://huggingface.co/spaces/HPAI-BSC/TuRTLe-Leaderboard) · 组织维护
 
 **面向 RTL 生成任务的 LLM 统一评测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HPAI-BSC/TuRTLe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 53（+1）
 
 
 ---

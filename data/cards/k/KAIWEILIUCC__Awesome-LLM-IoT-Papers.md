@@ -1,6 +1,6 @@
 # KAIWEILIUCC/Awesome-LLM-IoT-Papers
 
-⭐ 24 · 推送 2026-09-30 · [GitHub](https://github.com/KAIWEILIUCC/Awesome-LLM-IoT-Papers) · 个人维护
+⭐ 25 · 推送 2026-09-30 · [GitHub](https://github.com/KAIWEILIUCC/Awesome-LLM-IoT-Papers) · 个人维护
 
 **LLM×IoT 论文清单：覆盖综述、Agent、边缘推理与传感数据理解**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KAIWEILIUCC/Awesome-LLM-IoT-Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

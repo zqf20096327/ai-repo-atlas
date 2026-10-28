@@ -1,6 +1,6 @@
 # mlr-org/mlr3learners
 
-⭐ 98 · R · LGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/mlr-org/mlr3learners) · [官网](https://mlr3learners.mlr-org.com) · 组织维护
+⭐ 98 · R · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlr-org/mlr3learners) · [官网](https://mlr3learners.mlr-org.com) · 组织维护
 
 **为 mlr3 提供推荐机器学习学习器的 R 包**
 
@@ -44,12 +44,12 @@ mlr-org 团队维护的 R 包，为 mlr3 机器学习框架提供一组常用学
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3learners 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-27 98（+0）
+2026-10-18 98 → 2026-10-28 98（+0）
 
 
 ---

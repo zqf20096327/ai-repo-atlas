@@ -1,6 +1,6 @@
 # codexstar69/bug-hunter
 
-⭐ 537 · JavaScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/codexstar69/bug-hunter) · 个人维护
+⭐ 539 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/codexstar69/bug-hunter) · 个人维护
 
 **面向 AI 编码 agent 的对抗式代码审计技能，扫描并可授权修复缺陷**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "codexstar69/bug-hunter 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 523 --> 538
-    line [524, 526, 528, 529, 534, 537]
+    title "codexstar69/bug-hunter 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 523 --> 540
+    line [524, 526, 528, 529, 534, 537, 539]
 ```
 
-2026-10-18 524 → 2026-10-27 537（+13）
+2026-10-18 524 → 2026-10-28 539（+15）
 
 
 ---

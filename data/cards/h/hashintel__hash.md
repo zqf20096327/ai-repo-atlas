@@ -1,6 +1,6 @@
 # hashintel/hash
 
-⭐ 1,684 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/hashintel/hash) · [官网](https://hash.dev) · 组织维护
+⭐ 1,684 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hashintel/hash) · [官网](https://hash.dev) · 组织维护
 
 **开源多租户知识图谱数据库与仿真平台，自助构建图数据**
 
@@ -45,12 +45,12 @@ HASH 是一个开源多租户平台，将原始信息转为知识图与流程图
 ```mermaid
 xychart-beta
     title "hashintel/hash 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1677 --> 1686
     line [1678, 1680, 1684, 1685, 1684, 1684]
 ```
 
-2026-10-18 1,678 → 2026-10-27 1,684（+6）
+2026-10-18 1,678 → 2026-10-28 1,684（+6）
 
 
 ---

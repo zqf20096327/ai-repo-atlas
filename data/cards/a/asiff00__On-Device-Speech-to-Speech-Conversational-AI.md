@@ -1,6 +1,6 @@
 # asiff00/On-Device-Speech-to-Speech-Conversational-AI
 
-⭐ 255 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/asiff00/On-Device-Speech-to-Speech-Conversational-AI) · [官网](https://youtu.be/x92FLnwf-nA) · 个人维护
+⭐ 256 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/asiff00/On-Device-Speech-to-Speech-Conversational-AI) · [官网](https://youtu.be/x92FLnwf-nA) · 个人维护
 
 **全本地 CPU 实时语音对话系统：VAD→ASR→LLM→TTS 流水线**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "asiff00/On-Device-Speech-to-Speech-Conversational-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 254 --> 257
-    line [256, 255, 255]
+    line [256, 255, 256]
 ```
 
-2026-10-18 256 → 2026-10-27 255（-1）
+2026-10-18 256 → 2026-10-28 256（+0）
 
 
 ---

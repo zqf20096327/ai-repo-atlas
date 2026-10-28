@@ -1,6 +1,6 @@
 # gary23w/nl-veil
 
-⭐ 102 · Zig · MIT · 推送 2026-10-22 · [GitHub](https://github.com/gary23w/nl-veil) · [官网](https://gary23w.github.io/nl-veil/) · 个人维护
+⭐ 102 · Zig · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gary23w/nl-veil) · [官网](https://gary23w.github.io/nl-veil/) · 个人维护
 
 **本地优先的 AI 编程桌面应用：多 agent 协作并记住项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gary23w/nl-veil 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 101 --> 113
     line [108, 110, 111, 112, 102, 102]
 ```
 
-2026-10-18 108 → 2026-10-27 102（-6）
+2026-10-18 108 → 2026-10-28 102（-6）
 
 
 ---

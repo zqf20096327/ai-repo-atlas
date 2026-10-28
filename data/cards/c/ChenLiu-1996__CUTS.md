@@ -45,12 +45,12 @@ Krishnaswamy Lab（Yale）发布的 CUTS 官方 PyTorch 实现，MICCAI 2024 论
 ```mermaid
 xychart-beta
     title "ChenLiu-1996/CUTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

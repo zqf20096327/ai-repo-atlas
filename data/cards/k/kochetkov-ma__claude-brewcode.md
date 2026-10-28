@@ -1,6 +1,6 @@
 # kochetkov-ma/claude-brewcode
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kochetkov-ma/claude-brewcode) · [官网](https://doc-claude.brewcode.app/) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kochetkov-ma/claude-brewcode) · [官网](https://doc-claude.brewcode.app/) · 个人维护
 
 **Claude Code 插件套件：技能/代理编写、评审、文档同步与工具集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kochetkov-ma/claude-brewcode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 32 --> 39
-    line [33, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 32 --> 40
+    line [33, 37, 38, 39]
 ```
 
-2026-10-18 33 → 2026-10-27 38（+5）
+2026-10-18 33 → 2026-10-28 39（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # iamaisim/ProjectAirSim
 
-⭐ 920 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamaisim/ProjectAirSim) · [官网](https://iamaisim.github.io/ProjectAirSim/) · 组织维护
+⭐ 924 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/iamaisim/ProjectAirSim) · [官网](https://iamaisim.github.io/ProjectAirSim/) · 组织维护
 
 **自主系统仿真平台：无人机等载具的构建、训练与测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamaisim/ProjectAirSim 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 908 --> 921
-    line [909, 911, 912, 914, 915, 916, 918, 920]
+    title "iamaisim/ProjectAirSim 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 908 --> 925
+    line [909, 911, 912, 914, 915, 916, 918, 920, 924]
 ```
 
-2026-10-18 909 → 2026-10-27 920（+11）
+2026-10-18 909 → 2026-10-28 924（+15）
 
 
 ---

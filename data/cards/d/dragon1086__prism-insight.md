@@ -1,6 +1,6 @@
 # dragon1086/prism-insight
 
-⭐ 786 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/dragon1086/prism-insight) · [官网](https://prism-insight-landing.vercel.app/) · 个人维护 · 中文 README
+⭐ 787 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/dragon1086/prism-insight) · [官网](https://prism-insight-landing.vercel.app/) · 个人维护 · 中文 README
 
 **面向个人投资者的多 Agent 股票分析与自动交易系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dragon1086/prism-insight 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 776 --> 787
-    line [777, 781, 783, 784, 785, 786]
+    title "dragon1086/prism-insight 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 776 --> 788
+    line [777, 781, 783, 784, 785, 786, 787]
 ```
 
-2026-10-18 777 → 2026-10-27 786（+9）
+2026-10-18 777 → 2026-10-28 787（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # francomascareloai/EA_SCALPER_XAUUSD
 
-⭐ 269 · MQL5 · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/francomascareloai/EA_SCALPER_XAUUSD) · 个人维护
+⭐ 270 · MQL5 · NOASSERTION · 推送 2026-06-21 · [GitHub](https://github.com/francomascareloai/EA_SCALPER_XAUUSD) · 个人维护
 
 **XAUUSD 黄金自动交易研究项目：公开 MQL5 代码供学习协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "francomascareloai/EA_SCALPER_XAUUSD 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 260 --> 270
-    line [261, 264, 263, 262, 266, 267, 268, 269]
+    title "francomascareloai/EA_SCALPER_XAUUSD 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 260 --> 271
+    line [261, 264, 263, 262, 266, 267, 268, 269, 270]
 ```
 
-2026-10-18 261 → 2026-10-27 269（+8）
+2026-10-18 261 → 2026-10-28 270（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # superagent-ai/vibekit
 
-⭐ 1,866 · TypeScript · MIT · 推送 2026-01-13 · [GitHub](https://github.com/superagent-ai/vibekit) · [官网](https://vibekit.sh) · 组织维护
+⭐ 1,867 · TypeScript · MIT · 推送 2026-01-13 · [GitHub](https://github.com/superagent-ai/vibekit) · [官网](https://vibekit.sh) · 组织维护
 
 **在隔离沙箱中安全运行编码代理的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "superagent-ai/vibekit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1862 --> 1867
-    line [1863, 1865, 1866, 1865, 1866]
+    title "superagent-ai/vibekit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1862 --> 1868
+    line [1863, 1865, 1866, 1865, 1866, 1867]
 ```
 
-2026-10-18 1,863 → 2026-10-27 1,866（+3）
+2026-10-18 1,863 → 2026-10-28 1,867（+4）
 
 
 ---

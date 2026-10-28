@@ -1,6 +1,6 @@
 # noahcao/OC_SORT
 
-⭐ 1,154 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/noahcao/OC_SORT) · 个人维护
+⭐ 1,155 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/noahcao/OC_SORT) · 个人维护
 
 **视频多目标跟踪器：纯运动模型，遮挡与非线性运动下保持鲁棒**
 
@@ -45,12 +45,12 @@ CVPR2023 论文 Observation-Centric SORT 的官方实现，基于纯运动模型
 ```mermaid
 xychart-beta
     title "noahcao/OC_SORT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 1153 --> 1155
-    line [1154, 1154]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 1153 --> 1156
+    line [1154, 1155]
 ```
 
-2026-10-18 1,154 → 2026-10-27 1,154（+0）
+2026-10-18 1,154 → 2026-10-28 1,155（+1）
 
 
 ---

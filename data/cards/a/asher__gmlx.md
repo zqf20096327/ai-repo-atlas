@@ -1,6 +1,6 @@
 # asher/gmlx
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/asher/gmlx) · [官网](https://asher.github.io/gmlx/) · 个人维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/asher/gmlx) · [官网](https://asher.github.io/gmlx/) · 个人维护
 
 **Apple Silicon 上运行 GGUF 模型的本地推理平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "asher/gmlx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    title "asher/gmlx 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 39 --> 46
-    line [40, 42, 43, 45]
+    line [40, 42, 43, 45, 45]
 ```
 
-2026-10-18 40 → 2026-10-27 45（+5）
+2026-10-18 40 → 2026-10-28 45（+5）
 
 
 ---

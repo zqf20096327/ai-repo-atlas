@@ -1,6 +1,6 @@
 # slyyr/yappr
 
-⭐ 29 · Python · 推送 2026-10-14 · [GitHub](https://github.com/slyyr/yappr) · 个人维护
+⭐ 30 · Python · 推送 2026-10-14 · [GitHub](https://github.com/slyyr/yappr) · 个人维护
 
 **本地运行的 Python AI agent：工具调用+记忆+RAG**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "slyyr/yappr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 28 --> 31
-    line [30, 29, 29]
+    line [30, 29, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 29（-1）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

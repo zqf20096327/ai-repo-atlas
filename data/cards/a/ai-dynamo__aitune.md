@@ -1,6 +1,6 @@
 # ai-dynamo/aitune
 
-⭐ 289 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ai-dynamo/aitune) · [官网](https://docs.nvidia.com/aitune) · 组织维护
+⭐ 289 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ai-dynamo/aitune) · [官网](https://docs.nvidia.com/aitune) · 组织维护
 
 **为 PyTorch 模型自动调优推理后端的 NVIDIA GPU 工具包**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的推理调优工具包：针对 PyTorch 模型与流水线，在�
 ```mermaid
 xychart-beta
     title "ai-dynamo/aitune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 287 --> 290
     line [288, 289, 289]
 ```
 
-2026-10-18 288 → 2026-10-27 289（+1）
+2026-10-18 288 → 2026-10-28 289（+1）
 
 
 ---

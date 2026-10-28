@@ -1,6 +1,6 @@
 # qorm/platform
 
-⭐ 38 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/qorm/platform) · [官网](https://qorm.com) · 组织维护 · 中文 README
+⭐ 39 · Go · MIT · 推送 2026-08-21 · [GitHub](https://github.com/qorm/platform) · [官网](https://qorm.com) · 组织维护 · 中文 README
 
 **面向 AI agent 的声明式 JSON UI 跨平台应用运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "qorm/platform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 37 --> 40
-    line [39, 38, 38]
+    line [39, 38, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 38（-1）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

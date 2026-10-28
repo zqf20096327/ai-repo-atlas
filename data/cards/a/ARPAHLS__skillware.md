@@ -1,6 +1,6 @@
 # ARPAHLS/skillware
 
-⭐ 169 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ARPAHLS/skillware) · [官网](http://skillware.site) · 组织维护
+⭐ 170 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ARPAHLS/skillware) · [官网](http://skillware.site) · 组织维护
 
 **给 AI agent 安装模块化技能包的 Python 框架与注册表**
 
@@ -46,12 +46,12 @@ Skillware 是一个开源 Python 框架与技能注册表，把 agent 能力打�
 ```mermaid
 xychart-beta
     title "ARPAHLS/skillware 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 150 --> 170
-    line [151, 153, 163, 167, 168, 169, 169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 150 --> 171
+    line [151, 153, 163, 167, 168, 169, 170]
 ```
 
-2026-10-18 151 → 2026-10-27 169（+18）
+2026-10-18 151 → 2026-10-28 170（+19）
 
 
 ---

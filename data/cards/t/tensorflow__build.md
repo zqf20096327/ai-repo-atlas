@@ -44,13 +44,13 @@ TensorFlow SIG Build 社区组的成果展示仓库：汇集与 TensorFlow 构�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/build 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "tensorflow/build 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 311 --> 314
-    line [312, 313]
+    line [312, 313, 313]
 ```
 
-2026-10-18 312 → 2026-10-27 313（+1）
+2026-10-18 312 → 2026-10-28 313（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ClickHouse/ai-sdk-cpp
 
-⭐ 189 · C++ · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ClickHouse/ai-sdk-cpp) · 组织维护
+⭐ 190 · C++ · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ClickHouse/ai-sdk-cpp) · 组织维护
 
 **面向现代 C++ 的多模型统一 AI SDK 库**
 
@@ -46,12 +46,12 @@ ClickHouse 工程师维护的开源 C++20 库，为 C++ 开发者提供调用 Op
 ```mermaid
 xychart-beta
     title "ClickHouse/ai-sdk-cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 188 --> 190
-    line [189, 189]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 188 --> 191
+    line [189, 190]
 ```
 
-2026-10-18 189 → 2026-10-27 189（+0）
+2026-10-18 189 → 2026-10-28 190（+1）
 
 
 ---

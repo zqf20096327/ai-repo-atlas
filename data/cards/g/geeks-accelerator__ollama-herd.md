@@ -1,6 +1,6 @@
 # geeks-accelerator/ollama-herd
 
-⭐ 29 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/geeks-accelerator/ollama-herd) · [官网](https://ollamaherd.com) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/geeks-accelerator/ollama-herd) · [官网](https://ollamaherd.com) · 组织维护
 
 **面向 Ollama/MLX 集群的本地 AI 推理路由与负载均衡器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geeks-accelerator/ollama-herd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "geeks-accelerator/ollama-herd 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29]
+    line [26, 27, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-10-27 29（+3）
+2026-10-18 26 → 2026-10-28 29（+3）
 
 
 ---

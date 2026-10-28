@@ -1,6 +1,6 @@
 # spkane/freecad-addon-robust-mcp-server
 
-⭐ 259 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
+⭐ 259 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/spkane/freecad-addon-robust-mcp-server) · [官网](https://spkane.github.io/freecad-addon-robust-mcp-server/) · 个人维护
 
 **连接 AI 助手与 FreeCAD 的 MCP 服务器及桥接工作台**
 
@@ -46,12 +46,12 @@ MCP (Model Context Protocol) 服务器及配套的 MCP Bridge 工作台/插件�
 ```mermaid
 xychart-beta
     title "spkane/freecad-addon-robust-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 255 --> 260
     line [256, 257, 258, 259, 259]
 ```
 
-2026-10-18 256 → 2026-10-27 259（+3）
+2026-10-18 256 → 2026-10-28 259（+3）
 
 
 ---

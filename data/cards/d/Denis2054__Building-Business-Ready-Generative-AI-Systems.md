@@ -1,6 +1,6 @@
 # Denis2054/Building-Business-Ready-Generative-AI-Systems
 
-⭐ 172 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/Denis2054/Building-Business-Ready-Generative-AI-Systems) · 个人维护
+⭐ 173 · Jupyter Notebook · MIT · 推送 2026-02-11 · [GitHub](https://github.com/Denis2054/Building-Business-Ready-Generative-AI-Systems) · 个人维护
 
 **生成式 AI 系统构建教程的配套代码库（书籍 notebooks）**
 
@@ -46,12 +46,12 @@ Packt 出版书籍《Building Business-Ready Generative AI Systems》的官方�
 ```mermaid
 xychart-beta
     title "Denis2054/Building-Business-Ready-Generative-AI-Systems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 171 --> 174
+    line [172, 173]
 ```
 
-2026-10-18 172 → 2026-10-27 172（+0）
+2026-10-18 172 → 2026-10-28 173（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jtydhr88/screenwriting-skills
 
-⭐ 1,820 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jtydhr88/screenwriting-skills) · 个人维护 · 中文 README
+⭐ 1,843 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/jtydhr88/screenwriting-skills) · 个人维护 · 中文 README
 
 **面向影视编剧与戏剧创作的 26 个 agent 技能库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtydhr88/screenwriting-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1684 --> 1832
-    line [1696, 1717, 1740, 1756, 1762, 1775, 1798, 1820]
+    title "jtydhr88/screenwriting-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1682 --> 1857
+    line [1696, 1717, 1740, 1756, 1762, 1775, 1798, 1820, 1843]
 ```
 
-2026-10-18 1,696 → 2026-10-27 1,820（+124）
+2026-10-18 1,696 → 2026-10-28 1,843（+147）
 
 
 ---

@@ -1,6 +1,6 @@
 # Manavarya09/design-extract
 
-⭐ 4,381 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
+⭐ 4,390 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
 
 **从任意网站提取完整设计系统的 CLI：DTCG tokens、保真度评分与多平台输出**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Manavarya09/design-extract 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4237 --> 4394
-    line [4250, 4268, 4284, 4316, 4341, 4358, 4366, 4381]
+    title "Manavarya09/design-extract 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4236 --> 4404
+    line [4250, 4268, 4284, 4316, 4341, 4358, 4366, 4381, 4390]
 ```
 
-2026-10-18 4,250 → 2026-10-27 4,381（+131）
+2026-10-18 4,250 → 2026-10-28 4,390（+140）
 
 
 ---

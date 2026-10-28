@@ -1,6 +1,6 @@
 # tech-leads-club/agent-skills
 
-⭐ 7,090 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/tech-leads-club/agent-skills) · [官网](https://agent-skills.techleads.club) · 组织维护
+⭐ 7,098 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/tech-leads-club/agent-skills) · [官网](https://agent-skills.techleads.club) · 组织维护
 
 **面向 AI 编程 agent 的安全校验技能注册库与安装 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tech-leads-club/agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 7063 --> 7092
-    line [7065, 7074, 7078, 7082, 7087, 7089, 7090, 7090]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 7062 --> 7101
+    line [7065, 7074, 7078, 7082, 7087, 7089, 7090, 7098]
 ```
 
-2026-10-18 7,065 → 2026-10-27 7,090（+25）
+2026-10-18 7,065 → 2026-10-28 7,098（+33）
 
 
 ---

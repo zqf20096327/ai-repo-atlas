@@ -45,13 +45,13 @@ Deen Bridge 伊斯兰教育平台三个服务中的 AI 后端：以 Google Gemin
 
 ```mermaid
 xychart-beta
-    title "Deen-Bridge/dnb-ai 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-27"]
+    title "Deen-Bridge/dnb-ai 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 161 --> 164
-    line [163, 162]
+    line [163, 162, 162]
 ```
 
-2026-10-24 163 → 2026-10-27 162（-1）
+2026-10-24 163 → 2026-10-28 162（-1）
 
 
 ---

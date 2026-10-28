@@ -1,6 +1,6 @@
 # justhil/pi-app
 
-⭐ 385 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/justhil/pi-app) · 个人维护 · 中文 README
+⭐ 386 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/justhil/pi-app) · 个人维护 · 中文 README
 
 **pi 编程 Agent 的桌面客户端：时间线、Git 审查与会话树**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "justhil/pi-app 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 377 --> 386
-    line [378, 379, 382, 383, 384, 385]
+    title "justhil/pi-app 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 377 --> 387
+    line [378, 379, 382, 383, 384, 385, 386]
 ```
 
-2026-10-18 378 → 2026-10-27 385（+7）
+2026-10-18 378 → 2026-10-28 386（+8）
 
 
 ---

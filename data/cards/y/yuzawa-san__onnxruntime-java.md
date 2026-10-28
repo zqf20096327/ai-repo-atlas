@@ -1,6 +1,6 @@
 # yuzawa-san/onnxruntime-java
 
-⭐ 36 · Java · MIT · 推送 2026-10-19 · [GitHub](https://github.com/yuzawa-san/onnxruntime-java) · 个人维护
+⭐ 36 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yuzawa-san/onnxruntime-java) · 个人维护
 
 **Java 版 ONNX Runtime 绑定：基于 FFI API 运行 ONNX 模型推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuzawa-san/onnxruntime-java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-28 36（+0）
 
 
 ---

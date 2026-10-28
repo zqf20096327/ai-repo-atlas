@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoaquinRuiz/SpecJudge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "JoaquinRuiz/SpecJudge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 58 --> 61
-    line [59, 60]
+    line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-10-27 60（+1）
+2026-10-18 59 → 2026-10-28 60（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TrevTron/rtl-ml
 
-⭐ 250 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/TrevTron/rtl-ml) · 个人维护
+⭐ 251 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/TrevTron/rtl-ml) · 个人维护
 
 **RTL-SDR 无线电信号机器学习分类器，运行于 ARM 单板机**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TrevTron/rtl-ml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 248 --> 251
-    line [249, 250, 250]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 248 --> 252
+    line [249, 250, 251]
 ```
 
-2026-10-18 249 → 2026-10-27 250（+1）
+2026-10-18 249 → 2026-10-28 251（+2）
 
 
 ---

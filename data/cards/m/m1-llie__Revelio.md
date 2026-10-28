@@ -1,6 +1,6 @@
 # m1-llie/Revelio
 
-⭐ 51 · Python · 推送 2026-07-20 · [GitHub](https://github.com/m1-llie/Revelio) · [官网](https://arxiv.org/pdf/2606.22263) · 组织维护
+⭐ 52 · Python · 推送 2026-10-26 · [GitHub](https://github.com/m1-llie/Revelio) · [官网](https://arxiv.org/pdf/2606.22263) · 组织维护
 
 **检测大规模 C/C++ 代码库内存安全漏洞的 AI Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m1-llie/Revelio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 14 --> 54
-    line [17, 48, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 14 --> 55
+    line [17, 48, 50, 51, 52]
 ```
 
-2026-10-18 17 → 2026-10-27 51（+34）
+2026-10-18 17 → 2026-10-28 52（+35）
 
 
 ---

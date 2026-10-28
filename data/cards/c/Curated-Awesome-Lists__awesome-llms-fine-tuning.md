@@ -1,6 +1,6 @@
 # Curated-Awesome-Lists/awesome-llms-fine-tuning
 
-⭐ 533 · 推送 2026-09-04 · [GitHub](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) · 组织维护
+⭐ 532 · 推送 2026-09-04 · [GitHub](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) · 组织维护
 
 **LLM 微调资源策展清单：教程、论文、工具与课程汇编**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Curated-Awesome-Lists/awesome-llms-fine-tuning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 532 --> 534
-    line [533, 533]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 531 --> 534
+    line [533, 532]
 ```
 
-2026-10-18 533 → 2026-10-27 533（+0）
+2026-10-18 533 → 2026-10-28 532（-1）
 
 
 ---

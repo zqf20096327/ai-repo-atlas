@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 143 --> 147
-    line [144, 145, 146]
+    line [144, 145, 146, 146]
 ```
 
-2026-10-18 144 → 2026-10-27 146（+2）
+2026-10-18 144 → 2026-10-28 146（+2）
 
 
 ---

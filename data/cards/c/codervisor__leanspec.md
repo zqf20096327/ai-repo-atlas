@@ -1,6 +1,6 @@
 # codervisor/leanspec
 
-⭐ 299 · Rust · MIT · 推送 2026-05-20 · [GitHub](https://github.com/codervisor/leanspec) · [官网](https://lean-spec.dev) · 个人维护 · 中文 README
+⭐ 300 · Rust · MIT · 推送 2026-05-20 · [GitHub](https://github.com/codervisor/leanspec) · [官网](https://lean-spec.dev) · 个人维护 · 中文 README
 
 **工具无关的规格驱动开发（SDD）框架，统一 CLI/MCP/UI 接入 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codervisor/leanspec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 295 --> 300
-    line [296, 297, 299, 299]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 295 --> 301
+    line [296, 297, 299, 300]
 ```
 
-2026-10-18 296 → 2026-10-27 299（+3）
+2026-10-18 296 → 2026-10-28 300（+4）
 
 
 ---

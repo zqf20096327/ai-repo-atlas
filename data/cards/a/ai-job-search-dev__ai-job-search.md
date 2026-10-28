@@ -1,6 +1,6 @@
 # ai-job-search-dev/ai-job-search
 
-⭐ 66,258 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ai-job-search-dev/ai-job-search) · 个人维护
+⭐ 66,710 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ai-job-search-dev/ai-job-search) · 个人维护
 
 **给求职者：本地运行的 AI 求职申请工作流（评估岗位/改简历/写求职信）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-job-search-dev/ai-job-search 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 63143 --> 66541
-    line [63426, 63999, 64404, 65523, 66258]
+    title "ai-job-search-dev/ai-job-search 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 63098 --> 67038
+    line [63426, 63999, 64404, 65523, 66258, 66710]
 ```
 
-2026-10-23 63,426 → 2026-10-27 66,258（+2,832）
+2026-10-23 63,426 → 2026-10-28 66,710（+3,284）
 
 
 ---

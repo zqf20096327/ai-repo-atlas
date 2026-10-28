@@ -1,6 +1,6 @@
 # op7418/guizang-yingzao-skill
 
-⭐ 518 · Python · 推送 2026-09-03 · [GitHub](https://github.com/op7418/guizang-yingzao-skill) · 个人维护 · 中文 README
+⭐ 519 · Python · 推送 2026-09-03 · [GitHub](https://github.com/op7418/guizang-yingzao-skill) · 个人维护 · 中文 README
 
 **把中国古建筑与文化照片转成艺术指导编辑海报的 Agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "op7418/guizang-yingzao-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 505 --> 519
-    line [506, 507, 510, 511, 512, 514, 518]
+    title "op7418/guizang-yingzao-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 505 --> 520
+    line [506, 507, 510, 511, 512, 514, 518, 519]
 ```
 
-2026-10-18 506 → 2026-10-27 518（+12）
+2026-10-18 506 → 2026-10-28 519（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # gpustack/gpustack
 
-⭐ 5,895 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gpustack/gpustack) · [官网](https://gpustack.ai) · 组织维护 · 中文 README
+⭐ 5,901 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gpustack/gpustack) · [官网](https://gpustack.ai) · 组织维护 · 中文 README
 
 **开源 GPU 集群管理器：统一调度与部署 AI 模型推理服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gpustack/gpustack 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5836 --> 5900
-    line [5841, 5853, 5874, 5882, 5885, 5889, 5895]
+    title "gpustack/gpustack 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5835 --> 5907
+    line [5841, 5853, 5874, 5882, 5885, 5889, 5895, 5901]
 ```
 
-2026-10-18 5,841 → 2026-10-27 5,895（+54）
+2026-10-18 5,841 → 2026-10-28 5,901（+60）
 
 
 ---

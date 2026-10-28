@@ -1,6 +1,6 @@
 # grafbase/grafbase
 
-⭐ 1,228 · Rust · MPL-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/grafbase/grafbase) · [官网](https://the-guild.dev/graphql/hive/blog/acquired-grafbase) · 组织维护
+⭐ 1,227 · Rust · MPL-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/grafbase/grafbase) · [官网](https://the-guild.dev/graphql/hive/blog/acquired-grafbase) · 组织维护
 
 **GraphQL Federation 网关，已被收购并进入维护模式**
 
@@ -43,12 +43,12 @@ Grafbase 是用 Rust 实现的 GraphQL Federation Gateway，主题标签含 MCP�
 ```mermaid
 xychart-beta
     title "grafbase/grafbase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 1227 --> 1229
-    line [1228, 1228]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 1226 --> 1229
+    line [1228, 1227]
 ```
 
-2026-10-18 1,228 → 2026-10-27 1,228（+0）
+2026-10-18 1,228 → 2026-10-28 1,227（-1）
 
 
 ---

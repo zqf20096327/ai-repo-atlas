@@ -44,12 +44,12 @@ Chatworm 是一个单页应用（SPA），用户通过 Web、Android、Windows �
 ```mermaid
 xychart-beta
     title "UnknownEnergy/chatgpt-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-27 105（+0）
+2026-10-18 105 → 2026-10-28 105（+0）
 
 
 ---

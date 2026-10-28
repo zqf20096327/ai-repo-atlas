@@ -1,6 +1,6 @@
 # benchflow-ai/awesome-evals
 
-⭐ 1,014 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/benchflow-ai/awesome-evals) · 组织维护
+⭐ 1,014 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/benchflow-ai/awesome-evals) · 组织维护
 
 **面向 AI agent 评测与构建的资源策展清单，含论文/博客/工具/基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "benchflow-ai/awesome-evals 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "benchflow-ai/awesome-evals 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 985 --> 1016
-    line [987, 988, 1000, 1004, 1006, 1010, 1014]
+    line [987, 988, 1000, 1004, 1006, 1010, 1014, 1014]
 ```
 
-2026-10-18 987 → 2026-10-27 1,014（+27）
+2026-10-18 987 → 2026-10-28 1,014（+27）
 
 
 ---

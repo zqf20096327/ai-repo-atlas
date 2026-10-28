@@ -1,6 +1,6 @@
 # deskmind-ai/deskmind
 
-⭐ 123 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deskmind-ai/deskmind) · [官网](https://deskmind.dev) · 组织维护 · 中文 README
+⭐ 124 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/deskmind-ai/deskmind) · [官网](https://deskmind.dev) · 组织维护 · 中文 README
 
 **macOS 本地计算机使用 agent：读屏、决策、操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deskmind-ai/deskmind 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 85 --> 126
-    line [88, 103, 114, 115, 119, 120, 121, 123]
+    title "deskmind-ai/deskmind 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 85 --> 127
+    line [88, 103, 114, 115, 119, 120, 121, 123, 124]
 ```
 
-2026-10-18 88 → 2026-10-27 123（+35）
+2026-10-18 88 → 2026-10-28 124（+36）
 
 
 ---

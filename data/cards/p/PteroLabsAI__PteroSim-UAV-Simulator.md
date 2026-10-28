@@ -1,6 +1,6 @@
 # PteroLabsAI/PteroSim-UAV-Simulator
 
-⭐ 126 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator) · [官网](https://pterolabs.ai/) · 组织维护
+⭐ 127 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator) · [官网](https://pterolabs.ai/) · 组织维护
 
 **面向开发测试与科研的无人机仿真平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PteroLabsAI/PteroSim-UAV-Simulator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 122 --> 127
-    line [123, 125, 126, 125, 126]
+    title "PteroLabsAI/PteroSim-UAV-Simulator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 122 --> 128
+    line [123, 125, 126, 125, 126, 127]
 ```
 
-2026-10-18 123 → 2026-10-27 126（+3）
+2026-10-18 123 → 2026-10-28 127（+4）
 
 
 ---

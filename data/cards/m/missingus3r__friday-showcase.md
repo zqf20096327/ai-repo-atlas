@@ -1,6 +1,6 @@
 # missingus3r/friday-showcase
 
-⭐ 196 · HTML · 推送 2026-10-11 · [GitHub](https://github.com/missingus3r/friday-showcase) · [官网](https://missingus3r.github.io/friday-showcase/) · 组织维护
+⭐ 195 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/missingus3r/friday-showcase) · [官网](https://missingus3r.github.io/friday-showcase/) · 组织维护
 
 **基于 Claude Code 的 24/7 个人 AI 助手系统展示与搭建方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "missingus3r/friday-showcase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 195 --> 197
-    line [196, 196]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 194 --> 197
+    line [196, 195]
 ```
 
-2026-10-18 196 → 2026-10-27 196（+0）
+2026-10-18 196 → 2026-10-28 195（-1）
 
 
 ---

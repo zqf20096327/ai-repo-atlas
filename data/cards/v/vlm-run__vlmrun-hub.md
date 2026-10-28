@@ -44,13 +44,13 @@ VLM Run Hub 收录预先定义的 Pydantic 数据模型（schema），用于从�
 
 ```mermaid
 xychart-beta
-    title "vlm-run/vlmrun-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "vlm-run/vlmrun-hub 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 553 --> 556
-    line [555, 554]
+    line [555, 554, 554]
 ```
 
-2026-10-18 555 → 2026-10-27 554（-1）
+2026-10-18 555 → 2026-10-28 554（-1）
 
 
 ---

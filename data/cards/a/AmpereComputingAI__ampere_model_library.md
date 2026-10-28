@@ -45,12 +45,12 @@ Ampere Computing 维护的模型基准测试库，在 Ampere CPU 上运行和评
 ```mermaid
 xychart-beta
     title "AmpereComputingAI/ampere_model_library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentjido/llmdb
 
-⭐ 65 · Elixir · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agentjido/llmdb) · [官网](https://llmcatalog.dev) · 组织维护
+⭐ 65 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentjido/llmdb) · [官网](https://llmcatalog.dev) · 组织维护
 
 **面向开发者的 LLM 模型元数据目录库：离线快照+能力检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "agentjido/llmdb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 63 --> 66
     line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-10-27 65（+1）
+2026-10-18 64 → 2026-10-28 65（+1）
 
 
 ---

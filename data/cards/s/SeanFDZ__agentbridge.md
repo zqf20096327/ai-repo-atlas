@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SeanFDZ/agentbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "SeanFDZ/agentbridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 28（+1）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NanmiCoder/cc-haha
 
-⭐ 15,177 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
+⭐ 15,197 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NanmiCoder/cc-haha) · [官网](https://cchaha.ai) · 个人维护 · 中文 README
 
 **给 Claude Code 用户的跨平台桌面工作台：多 Agent 协作与可视化管理**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "NanmiCoder/cc-haha 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15033 --> 15190
-    line [15046, 15077, 15099, 15115, 15137, 15150, 15164, 15177]
+    title "NanmiCoder/cc-haha 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 15031 --> 15212
+    line [15046, 15077, 15099, 15115, 15137, 15150, 15164, 15177, 15197]
 ```
 
-2026-10-18 15,046 → 2026-10-27 15,177（+131）
+2026-10-18 15,046 → 2026-10-28 15,197（+151）
 
 
 ---

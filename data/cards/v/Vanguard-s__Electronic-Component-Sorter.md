@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vanguard-s/Electronic-Component-Sorter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Vanguard-s/Electronic-Component-Sorter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 159 --> 162
-    line [160, 161]
+    line [160, 161, 161]
 ```
 
-2026-10-18 160 → 2026-10-27 161（+1）
+2026-10-18 160 → 2026-10-28 161（+1）
 
 
 ---

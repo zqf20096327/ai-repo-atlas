@@ -45,12 +45,12 @@ Python 3 库，实现 Kriegel 等人提出的 LoOP（Local Outlier Probabilities
 ```mermaid
 xychart-beta
     title "vc1492a/PyNomaly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 329 --> 331
     line [330, 330]
 ```
 
-2026-10-18 330 → 2026-10-27 330（+0）
+2026-10-18 330 → 2026-10-28 330（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nixopus/nixopus
 
-⭐ 1,469 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/nixopus/nixopus) · [官网](https://nixopus.com) · 组织维护
+⭐ 1,470 · Go · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/nixopus/nixopus) · [官网](https://nixopus.com) · 组织维护
 
 **带自主 AI Agent 的自托管应用部署平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nixopus/nixopus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1468 --> 1472
-    line [1469, 1471, 1470, 1469, 1469]
+    line [1469, 1471, 1470, 1469, 1470]
 ```
 
-2026-10-18 1,469 → 2026-10-27 1,469（+0）
+2026-10-18 1,469 → 2026-10-28 1,470（+1）
 
 
 ---

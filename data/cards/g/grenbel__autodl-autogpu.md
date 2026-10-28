@@ -1,6 +1,6 @@
 # grenbel/autodl-autogpu
 
-⭐ 95 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/grenbel/autodl-autogpu) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/grenbel/autodl-autogpu) · 个人维护 · 中文 README
 
 **让 Claude Code 自动开关 AutoDL GPU 实例的 agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "grenbel/autodl-autogpu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 77 --> 104
-    line [79, 101, 102, 95, 95]
+    line [79, 101, 102, 95, 96]
 ```
 
-2026-10-18 79 → 2026-10-27 95（+16）
+2026-10-18 79 → 2026-10-28 96（+17）
 
 
 ---

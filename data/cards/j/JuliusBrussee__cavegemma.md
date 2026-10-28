@@ -1,6 +1,6 @@
 # JuliusBrussee/cavegemma
 
-⭐ 120 · Python · 推送 2026-07-09 · [GitHub](https://github.com/JuliusBrussee/cavegemma) · [官网](https://huggingface.co/JBrussee/gemma-4-31B-caveman) · 个人维护
+⭐ 121 · Python · 推送 2026-07-09 · [GitHub](https://github.com/JuliusBrussee/cavegemma) · [官网](https://huggingface.co/JBrussee/gemma-4-31B-caveman) · 个人维护
 
 **把“穴居人式”极简输出风格微调进 Gemma 4 31B 权重的 LoRA 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliusBrussee/cavegemma 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 118 --> 121
-    line [119, 120, 120]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 118 --> 122
+    line [119, 120, 121]
 ```
 
-2026-10-18 119 → 2026-10-27 120（+1）
+2026-10-18 119 → 2026-10-28 121（+2）
 
 
 ---

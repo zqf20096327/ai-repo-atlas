@@ -1,6 +1,6 @@
 # Thinklanceai/agentkeeper
 
-⭐ 122 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Thinklanceai/agentkeeper) · [官网](https://pypi.org/project/agentkeeper-ai/) · 组织维护
+⭐ 123 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/Thinklanceai/agentkeeper) · [官网](https://pypi.org/project/agentkeeper-ai/) · 组织维护
 
 **长生命周期 AI agent 的认知连续性基础设施库**
 
@@ -47,12 +47,12 @@ Python 库（pip 安装，MIT），为长生命周期 agent 提供跨模型/跨�
 ```mermaid
 xychart-beta
     title "Thinklanceai/agentkeeper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 121 --> 124
-    line [122, 123, 122, 122]
+    line [122, 123, 122, 123]
 ```
 
-2026-10-18 122 → 2026-10-27 122（+0）
+2026-10-18 122 → 2026-10-28 123（+1）
 
 
 ---

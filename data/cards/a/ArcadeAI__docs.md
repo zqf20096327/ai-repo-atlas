@@ -1,6 +1,6 @@
 # ArcadeAI/docs
 
-⭐ 24 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/ArcadeAI/docs) · [官网](https://docs.arcade.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Arcade AI 产品的官方文档站点仓库（Next.js/Fumadocs）**
 

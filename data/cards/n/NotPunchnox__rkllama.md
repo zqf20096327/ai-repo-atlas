@@ -1,6 +1,6 @@
 # NotPunchnox/rkllama
 
-⭐ 617 · Python · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/NotPunchnox/rkllama) · 个人维护
+⭐ 618 · Python · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/NotPunchnox/rkllama) · 个人维护
 
 **在 Rockchip NPU 上运行 LLM 的服务器与客户端，兼容 Ollama API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NotPunchnox/rkllama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 615 --> 618
-    line [616, 617, 617]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 615 --> 619
+    line [616, 617, 618]
 ```
 
-2026-10-18 616 → 2026-10-27 617（+1）
+2026-10-18 616 → 2026-10-28 618（+2）
 
 
 ---

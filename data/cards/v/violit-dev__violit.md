@@ -1,6 +1,6 @@
 # violit-dev/violit
 
-⭐ 476 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/violit-dev/violit) · [官网](https://violit.cloud) · 组织维护
+⭐ 475 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/violit-dev/violit) · [官网](https://violit.cloud) · 组织维护
 
 **纯 Python Web 框架：Streamlit 式写法、无全脚本重跑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "violit-dev/violit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 475 --> 477
-    line [476, 476]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 474 --> 477
+    line [476, 475]
 ```
 
-2026-10-18 476 → 2026-10-27 476（+0）
+2026-10-18 476 → 2026-10-28 475（-1）
 
 
 ---

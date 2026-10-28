@@ -1,6 +1,6 @@
 # microsoft/scope
 
-⭐ 62 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/scope) · [官网](https://microsoft.github.io/scope/) · 组织维护
+⭐ 68 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/scope) · [官网](https://microsoft.github.io/scope/) · 组织维护
 
 **微软开源的 AI agent 体验评估平台（研究预览）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/scope 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 21 --> 65
-    line [24, 25, 43, 50, 52, 53, 54, 62]
+    title "microsoft/scope 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20 --> 72
+    line [24, 25, 43, 50, 52, 53, 54, 62, 68]
 ```
 
-2026-10-18 24 → 2026-10-27 62（+38）
+2026-10-18 24 → 2026-10-28 68（+44）
 
 
 ---

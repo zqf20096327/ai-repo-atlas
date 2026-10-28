@@ -1,6 +1,6 @@
 # lcy362/flint
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lcy362/flint) · [官网](https://flint.lichuanyang.top) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lcy362/flint) · [官网](https://flint.lichuanyang.top) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 技能资产管理器：集中管理并分发 agent 技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lcy362/flint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 33, 35]
 ```
 
-2026-10-18 31 → 2026-10-27 33（+2）
+2026-10-18 31 → 2026-10-28 35（+4）
 
 
 ---

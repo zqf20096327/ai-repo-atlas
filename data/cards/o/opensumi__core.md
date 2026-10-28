@@ -1,6 +1,6 @@
 # opensumi/core
 
-⭐ 3,659 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/opensumi/core) · [官网](https://opensumi.com) · 组织维护 · 中文 README
+⭐ 3,660 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/opensumi/core) · [官网](https://opensumi.com) · 组织维护 · 中文 README
 
 **帮助快速构建 AI 原生 IDE 产品的框架**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "opensumi/core 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 3656 --> 3662
-    line [3657, 3658, 3660, 3661, 3659, 3659]
+    line [3657, 3658, 3660, 3661, 3659, 3660]
 ```
 
-2026-10-18 3,657 → 2026-10-27 3,659（+2）
+2026-10-18 3,657 → 2026-10-28 3,660（+3）
 
 
 ---

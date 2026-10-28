@@ -1,6 +1,6 @@
 # proma-ai/Proma
 
-⭐ 2,235 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/proma-ai/Proma) · [官网](https://proma.cool/download) · 组织维护 · 中文 README
+⭐ 2,237 · TypeScript · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/proma-ai/Proma) · [官网](https://proma.cool/download) · 组织维护 · 中文 README
 
 **面向专业用户的开源桌面端通用 Agent 产品**
 
@@ -44,13 +44,13 @@ Proma 是一款桌面端通用 Agent 应用，功能包括 Chat/Agent/计划模�
 
 ```mermaid
 xychart-beta
-    title "proma-ai/Proma 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2222 --> 2236
-    line [2224, 2223, 2228, 2227, 2226, 2230, 2235]
+    title "proma-ai/Proma 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2222 --> 2238
+    line [2224, 2223, 2228, 2227, 2226, 2230, 2235, 2237]
 ```
 
-2026-10-18 2,224 → 2026-10-27 2,235（+11）
+2026-10-18 2,224 → 2026-10-28 2,237（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # memex-lab/product-launch-video-skill
 
-⭐ 24 · JavaScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/memex-lab/product-launch-video-skill) · [官网](https://www.memexlab.ai/) · 组织维护
+⭐ 25 · JavaScript · MIT · 推送 2026-06-01 · [GitHub](https://github.com/memex-lab/product-launch-video-skill) · [官网](https://www.memexlab.ai/) · 组织维护
 
 **让 AI 编码 agent 用 Remotion 制作产品发布视频的技能包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "memex-lab/product-launch-video-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 18 --> 25
-    line [19, 20, 21, 22, 23, 24]
+    title "memex-lab/product-launch-video-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18 --> 26
+    line [19, 20, 21, 22, 23, 24, 25]
 ```
 
-2026-10-18 19 → 2026-10-27 24（+5）
+2026-10-18 19 → 2026-10-28 25（+6）
 
 
 ---

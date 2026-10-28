@@ -1,6 +1,6 @@
 # DataChefHQ/aws-data-landing-zone
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/DataChefHQ/aws-data-landing-zone) · [官网](https://datalandingzone.com) · 组织维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/DataChefHQ/aws-data-landing-zone) · [官网](https://datalandingzone.com) · 组织维护
 
 **面向 AI/数据项目的 AWS 多账户 Landing Zone CDK 构造库**
 
@@ -45,12 +45,12 @@ Data Landing Zone (DLZ) 是一个 AWS CDK construct，提供 TypeScript 与 Pyth
 ```mermaid
 xychart-beta
     title "DataChefHQ/aws-data-landing-zone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

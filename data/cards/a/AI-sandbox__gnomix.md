@@ -1,6 +1,6 @@
 # AI-sandbox/gnomix
 
-⭐ 126 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/AI-sandbox/gnomix) · 组织维护
+⭐ 127 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/AI-sandbox/gnomix) · 组织维护
 
 **基因组局部血统推断工具：对混血样本逐段判定祖先来源**
 
@@ -45,12 +45,12 @@ Gnomix 的 Python 实现：对已定相（phased）的基因组查询数据推�
 ```mermaid
 xychart-beta
     title "AI-sandbox/gnomix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 125 --> 127
-    line [126, 126]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 125 --> 128
+    line [126, 127]
 ```
 
-2026-10-18 126 → 2026-10-27 126（+0）
+2026-10-18 126 → 2026-10-28 127（+1）
 
 
 ---

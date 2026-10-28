@@ -1,6 +1,6 @@
 # chat-cli/chat-cli
 
-⭐ 33 · Go · MIT · 推送 2026-07-09 · [GitHub](https://github.com/chat-cli/chat-cli) · [官网](https://chat-cli.chat) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **终端里调用 Amazon Bedrock 上 LLM 的命令行聊天客户端**
 
@@ -11,7 +11,7 @@ Go 编写的终端程序，通过 Amazon Bedrock 访问文本大模型，提供�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

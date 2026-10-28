@@ -1,6 +1,6 @@
 # FluxML/Zygote.jl
 
-⭐ 1,579 · Julia · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/FluxML/Zygote.jl) · [官网](https://fluxml.ai/Zygote.jl/) · 组织维护
+⭐ 1,579 · Julia · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/FluxML/Zygote.jl) · [官网](https://fluxml.ai/Zygote.jl/) · 组织维护
 
 **Julia 语言的源到源自动微分库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FluxML/Zygote.jl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    title "FluxML/Zygote.jl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1573 --> 1580
-    line [1574, 1575, 1576, 1577, 1579]
+    line [1574, 1575, 1576, 1577, 1579, 1579]
 ```
 
-2026-10-18 1,574 → 2026-10-27 1,579（+5）
+2026-10-18 1,574 → 2026-10-28 1,579（+5）
 
 
 ---

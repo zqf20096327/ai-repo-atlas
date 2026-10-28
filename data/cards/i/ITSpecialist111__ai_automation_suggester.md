@@ -1,6 +1,6 @@
 # ITSpecialist111/ai_automation_suggester
 
-⭐ 804 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ITSpecialist111/ai_automation_suggester) · 个人维护
+⭐ 806 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ITSpecialist111/ai_automation_suggester) · 个人维护
 
 **Home Assistant 集成：用 LLM 分析实体并生成自动化 YAML 建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ITSpecialist111/ai_automation_suggester 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 797 --> 805
-    line [798, 799, 801, 802, 803, 804]
+    title "ITSpecialist111/ai_automation_suggester 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 797 --> 807
+    line [798, 799, 801, 802, 803, 804, 806]
 ```
 
-2026-10-18 798 → 2026-10-27 804（+6）
+2026-10-18 798 → 2026-10-28 806（+8）
 
 
 ---

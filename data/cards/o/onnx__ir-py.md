@@ -1,6 +1,6 @@
 # onnx/ir-py
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/onnx/ir-py) · [官网](http://onnx.ai/ir-py/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/onnx/ir-py) · [官网](http://onnx.ai/ir-py/) · 组织维护
 
 **Python 内存 IR 库：完整支持 ONNX 规范的图构建与变换**
 
@@ -45,12 +45,12 @@ onnx/ir-py 提供 ONNX 模型的内存中间表示（IR），覆盖完整 ONNX �
 ```mermaid
 xychart-beta
     title "onnx/ir-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 49 --> 53
+    line [50, 52]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 52（+2）
 
 
 ---

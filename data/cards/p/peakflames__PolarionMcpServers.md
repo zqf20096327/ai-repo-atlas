@@ -1,6 +1,6 @@
 # peakflames/PolarionMcpServers
 
-⭐ 41 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/peakflames/PolarionMcpServers) · 组织维护
+⭐ 41 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/peakflames/PolarionMcpServers) · 组织维护
 
 **面向 Polarion ALM 的 MCP 服务器，供 AI 客户端读取工作项**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "peakflames/PolarionMcpServers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

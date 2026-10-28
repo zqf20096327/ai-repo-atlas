@@ -1,6 +1,6 @@
 # tyang816/Awesome-TCM-LLM
 
-⭐ 130 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tyang816/Awesome-TCM-LLM) · 个人维护 · 中文 README
+⭐ 131 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tyang816/Awesome-TCM-LLM) · 个人维护 · 中文 README
 
 **开源中医大模型/数据集/论文/专利的策展清单**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tyang816/Awesome-TCM-LLM 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 122 --> 131
-    line [123, 126, 127, 128, 130]
+    title "tyang816/Awesome-TCM-LLM 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 122 --> 132
+    line [123, 126, 127, 128, 130, 131]
 ```
 
-2026-10-18 123 → 2026-10-27 130（+7）
+2026-10-18 123 → 2026-10-28 131（+8）
 
 
 ---

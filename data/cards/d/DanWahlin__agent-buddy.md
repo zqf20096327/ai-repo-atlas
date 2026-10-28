@@ -1,6 +1,6 @@
 # DanWahlin/agent-buddy
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/DanWahlin/agent-buddy) · [官网](https://danwahlin.github.io/agent-buddy/) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DanWahlin/agent-buddy) · [官网](https://danwahlin.github.io/agent-buddy/) · 个人维护
 
 **在 ESP32 设备或桌面上显示 AI 编程助手状态的桌面伴侣**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DanWahlin/agent-buddy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 62, 63, 64]
 ```
 
-2026-10-18 60 → 2026-10-27 63（+3）
+2026-10-18 60 → 2026-10-28 64（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Significant-Gravitas/AutoGPT
 
-⭐ 187,774 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
+⭐ 187,789 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
 
 **面向用户与开发者的 AI agent 构建与运行平台**
 
@@ -51,13 +51,13 @@ AutoGPT 提供构建、部署和运行 AI agent 的开源平台，支持用自�
 
 ```mermaid
 xychart-beta
-    title "Significant-Gravitas/AutoGPT 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 187606 --> 187789
-    line [187621, 187659, 187693, 187712, 187717, 187725, 187746, 187774]
+    title "Significant-Gravitas/AutoGPT 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 187605 --> 187805
+    line [187621, 187659, 187693, 187712, 187717, 187725, 187746, 187774, 187789]
 ```
 
-2026-10-18 187,621 → 2026-10-27 187,774（+153）
+2026-10-18 187,621 → 2026-10-28 187,789（+168）
 
 
 ---

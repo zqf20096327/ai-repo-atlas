@@ -1,6 +1,6 @@
 # CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent
 
-⭐ 65 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent) · 个人维护 · 中文 README
+⭐ 68 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent) · 个人维护 · 中文 README
 
 **在 12GB 消费级显卡上运行 27B 本地 Agent 的推理部署方案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 8 --> 70
-    line [13, 15, 35, 44, 47, 53, 58, 65]
+    title "CSUNX233/qwen3.8-27b-ninfer-5070tilaptop-kvmem-local-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 8 --> 73
+    line [13, 15, 35, 44, 47, 53, 58, 65, 68]
 ```
 
-2026-10-18 13 → 2026-10-27 65（+52）
+2026-10-18 13 → 2026-10-28 68（+55）
 
 
 ---

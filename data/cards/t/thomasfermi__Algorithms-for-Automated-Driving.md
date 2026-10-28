@@ -1,6 +1,6 @@
 # thomasfermi/Algorithms-for-Automated-Driving
 
-⭐ 500 · Jupyter Notebook · NOASSERTION · 推送 2026-02-08 · [GitHub](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) · [官网](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html) · 个人维护
+⭐ 501 · Jupyter Notebook · NOASSERTION · 推送 2026-02-08 · [GitHub](https://github.com/thomasfermi/Algorithms-for-Automated-Driving) · [官网](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html) · 个人维护
 
 **自动驾驶算法迷你书：带读者实现车道检测与控制等模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thomasfermi/Algorithms-for-Automated-Driving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 499 --> 501
-    line [500, 500]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 499 --> 502
+    line [500, 501]
 ```
 
-2026-10-18 500 → 2026-10-27 500（+0）
+2026-10-18 500 → 2026-10-28 501（+1）
 
 
 ---

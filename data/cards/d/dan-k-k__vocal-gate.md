@@ -1,6 +1,6 @@
 # dan-k-k/vocal-gate
 
-⭐ 64 · C++ · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/dan-k-k/vocal-gate) · 个人维护
+⭐ 65 · C++ · GPL-3.0 · 推送 2026-04-05 · [GitHub](https://github.com/dan-k-k/vocal-gate) · 个人维护
 
 **面向创作者的 AI 噪声门 VST3/AU 插件，实时去除咳嗽喷嚏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dan-k-k/vocal-gate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 61 --> 66
+    line [62, 63, 64, 65]
 ```
 
-2026-10-18 62 → 2026-10-27 64（+2）
+2026-10-18 62 → 2026-10-28 65（+3）
 
 
 ---

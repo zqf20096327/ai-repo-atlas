@@ -1,6 +1,6 @@
 # GravityPoet/ChordVox
 
-⭐ 178 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/GravityPoet/ChordVox) · [官网](https://chordvox.com) · 个人维护 · 中文 README
+⭐ 179 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/GravityPoet/ChordVox) · [官网](https://chordvox.com) · 个人维护 · 中文 README
 
 **离线本地语音输入工具：说话即转文字并粘贴到光标处**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GravityPoet/ChordVox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 177 --> 180
-    line [178, 179, 178, 178]
+    line [178, 179, 178, 179]
 ```
 
-2026-10-18 178 → 2026-10-27 178（+0）
+2026-10-18 178 → 2026-10-28 179（+1）
 
 
 ---

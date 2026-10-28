@@ -1,6 +1,6 @@
 # jakobhoeg/browser-ai
 
-⭐ 204 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jakobhoeg/browser-ai) · [官网](https://browser-ai.dev) · 个人维护
+⭐ 205 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jakobhoeg/browser-ai) · [官网](https://browser-ai.dev) · 个人维护
 
 **为 Vercel AI SDK 提供浏览器内 AI 模型接入的 TypeScript 库**
 
@@ -44,12 +44,12 @@ TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK �
 ```mermaid
 xychart-beta
     title "jakobhoeg/browser-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 203 --> 206
-    line [205, 204, 204]
+    line [205, 204, 205]
 ```
 
-2026-10-18 205 → 2026-10-27 204（-1）
+2026-10-18 205 → 2026-10-28 205（+0）
 
 
 ---

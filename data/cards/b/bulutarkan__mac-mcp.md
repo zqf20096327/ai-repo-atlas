@@ -1,6 +1,6 @@
 # bulutarkan/mac-mcp
 
-⭐ 93 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bulutarkan/mac-mcp) · [官网](https://bulutarkan.github.io/mac-mcp/) · 个人维护
+⭐ 95 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bulutarkan/mac-mcp) · [官网](https://bulutarkan.github.io/mac-mcp/) · 个人维护
 
 **让 Claude/ChatGPT 等 AI 应用操控你 Mac 的本地 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bulutarkan/mac-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 83 --> 94
-    line [84, 86, 88, 89, 91, 92, 93]
+    title "bulutarkan/mac-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 83 --> 96
+    line [84, 86, 88, 89, 91, 92, 93, 95]
 ```
 
-2026-10-18 84 → 2026-10-27 93（+9）
+2026-10-18 84 → 2026-10-28 95（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # rouges78/GameStringer
 
-⭐ 132 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/rouges78/GameStringer) · [官网](https://gamestringer.ai) · 个人维护
+⭐ 135 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/rouges78/GameStringer) · [官网](https://gamestringer.ai) · 个人维护
 
 **桌面应用：自动检测游戏引擎，用 AI 翻译游戏文本并打回补丁**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rouges78/GameStringer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 127 --> 133
-    line [128, 129, 130, 131, 132]
+    title "rouges78/GameStringer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 127 --> 136
+    line [128, 129, 130, 131, 132, 135]
 ```
 
-2026-10-18 128 → 2026-10-27 132（+4）
+2026-10-18 128 → 2026-10-28 135（+7）
 
 
 ---

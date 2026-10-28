@@ -1,6 +1,6 @@
 # dylantarre/animation-principles
 
-⭐ 127 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/dylantarre/animation-principles) · 个人维护
+⭐ 131 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/dylantarre/animation-principles) · 个人维护
 
 **面向 Claude Code 的迪士尼动画十二法则技能集合（144 条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dylantarre/animation-principles 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 107 --> 128
-    line [108, 113, 116, 117, 119, 121, 127]
+    title "dylantarre/animation-principles 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 106 --> 133
+    line [108, 113, 116, 117, 119, 121, 127, 131]
 ```
 
-2026-10-18 108 → 2026-10-27 127（+19）
+2026-10-18 108 → 2026-10-28 131（+23）
 
 
 ---

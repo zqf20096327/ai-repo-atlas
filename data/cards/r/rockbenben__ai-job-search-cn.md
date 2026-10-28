@@ -1,6 +1,6 @@
 # rockbenben/ai-job-search-cn
 
-⭐ 38 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · 个人维护 · 中文 README
 
 **本机运行的国内 AI 求职助手：搜岗、按国内门槛评分、出话术与简历**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rockbenben/ai-job-search-cn 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 26 --> 39
-    line [27, 34, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 26 --> 40
+    line [27, 34, 36, 37, 38, 39]
 ```
 
-2026-10-18 27 → 2026-10-27 38（+11）
+2026-10-18 27 → 2026-10-28 39（+12）
 
 
 ---

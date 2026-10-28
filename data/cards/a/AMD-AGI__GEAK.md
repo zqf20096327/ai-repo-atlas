@@ -1,6 +1,6 @@
 # AMD-AGI/GEAK
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AMD-AGI/GEAK) · 组织维护
+⭐ 196 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/AMD-AGI/GEAK) · 组织维护
 
 **面向 AMD GPU 的自动内核优化 agent，提升 vLLM/sglang 推理吞吐**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AMD-AGI/GEAK 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 184 --> 195
-    line [185, 188, 190, 193, 194]
+    title "AMD-AGI/GEAK 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 184 --> 197
+    line [185, 188, 190, 193, 194, 196]
 ```
 
-2026-10-18 185 → 2026-10-27 194（+9）
+2026-10-18 185 → 2026-10-28 196（+11）
 
 
 ---

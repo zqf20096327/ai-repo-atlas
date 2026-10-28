@@ -1,6 +1,6 @@
 # pegainfer-project/pegainfer
 
-⭐ 726 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pegainfer-project/pegainfer) · [官网](https://pegainfer.org/) · 组织维护
+⭐ 729 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pegainfer-project/pegainfer) · [官网](https://pegainfer.org/) · 组织维护
 
 **纯 Rust+CUDA 的 LLM 推理引擎，OpenAI 兼容 API 服务多种模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pegainfer-project/pegainfer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 721 --> 727
-    line [724, 722, 724, 725, 726, 725, 726]
+    title "pegainfer-project/pegainfer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 721 --> 730
+    line [724, 722, 724, 725, 726, 725, 726, 729]
 ```
 
-2026-10-18 724 → 2026-10-27 726（+2）
+2026-10-18 724 → 2026-10-28 729（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fangx-AI/one-person-company-journal
 
-⭐ 581 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Fangx-AI/one-person-company-journal) · [官网](https://fxin.cc) · 个人维护 · 中文 README
+⭐ 587 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Fangx-AI/one-person-company-journal) · [官网](https://fxin.cc) · 个人维护 · 中文 README
 
 **一人公司实践者的 AI 创业公开记录博客（192+ 篇）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fangx-AI/one-person-company-journal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 444 --> 593
-    line [456, 485, 515, 514, 530, 541, 556, 581]
+    title "Fangx-AI/one-person-company-journal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 443 --> 600
+    line [456, 485, 515, 514, 530, 541, 556, 581, 587]
 ```
 
-2026-10-18 456 → 2026-10-27 581（+125）
+2026-10-18 456 → 2026-10-28 587（+131）
 
 
 ---

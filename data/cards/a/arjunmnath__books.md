@@ -1,6 +1,6 @@
 # arjunmnath/books
 
-⭐ 156 · Unlicense · 推送 2026-07-22 · [GitHub](https://github.com/arjunmnath/books) · 个人维护
+⭐ 157 · Unlicense · 推送 2026-07-22 · [GitHub](https://github.com/arjunmnath/books) · 个人维护
 
 **计算机/AI/神经科学等领域教材与参考书 PDF 汇总清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arjunmnath/books 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 148 --> 157
-    line [149, 153, 155, 156, 156]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 148 --> 158
+    line [149, 153, 155, 156, 157]
 ```
 
-2026-10-18 149 → 2026-10-27 156（+7）
+2026-10-18 149 → 2026-10-28 157（+8）
 
 
 ---

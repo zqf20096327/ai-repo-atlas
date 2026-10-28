@@ -1,6 +1,6 @@
 # AxonoOfficial/Axono
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/AxonoOfficial/Axono) · [官网](https://axono.org) · 组织维护 · 中文 README
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/AxonoOfficial/Axono) · [官网](https://axono.org) · 组织维护 · 中文 README
 
 **轻量级张量/算子与推理库，面向教学、研究与原型开发**
 
@@ -45,12 +45,12 @@ Axono 是一个 Python/C++ 的人工智能算法库，提供张量抽象（零�
 ```mermaid
 xychart-beta
     title "AxonoOfficial/Axono 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

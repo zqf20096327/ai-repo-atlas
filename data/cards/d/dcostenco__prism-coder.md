@@ -1,6 +1,6 @@
 # dcostenco/prism-coder
 
-⭐ 156 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dcostenco/prism-coder) · [官网](https://synalux.ai/prism-mcp) · 个人维护
+⭐ 156 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dcostenco/prism-coder) · [官网](https://synalux.ai/prism-mcp) · 个人维护
 
 **给 AI 编程 agent 提供本地优先的持久会话记忆 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dcostenco/prism-coder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 155 --> 158
     line [157, 156, 156]
 ```
 
-2026-10-18 157 → 2026-10-27 156（-1）
+2026-10-18 157 → 2026-10-28 156（-1）
 
 
 ---

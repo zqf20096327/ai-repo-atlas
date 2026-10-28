@@ -1,6 +1,6 @@
 # HelmchenLabSoftware/Cascade
 
-⭐ 171 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/HelmchenLabSoftware/Cascade) · 组织维护
+⭐ 171 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/HelmchenLabSoftware/Cascade) · 组织维护
 
 **从钙成像数据推断神经元放电的深度学习工具箱**
 
@@ -46,12 +46,12 @@ Cascade 将钙成像 ΔF/F 信号转换为放电概率或离散脉冲：内置�
 ```mermaid
 xychart-beta
     title "HelmchenLabSoftware/Cascade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-18 171 → 2026-10-27 171（+0）
+2026-10-18 171 → 2026-10-28 171（+0）
 
 
 ---

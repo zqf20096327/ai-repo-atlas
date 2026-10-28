@@ -1,6 +1,6 @@
 # hasi98/designpull
 
-⭐ 56 · JavaScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/hasi98/designpull) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/hasi98/designpull) · 个人维护
 
 **从任意网站生成 Google Stitch 兼容 DESIGN.md 的 Chrome 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hasi98/designpull 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 54 --> 57
+    line [56, 55]
 ```
 
-2026-10-18 56 → 2026-10-27 56（+0）
+2026-10-18 56 → 2026-10-28 55（-1）
 
 
 ---

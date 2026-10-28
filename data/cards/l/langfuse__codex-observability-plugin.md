@@ -1,6 +1,6 @@
 # langfuse/codex-observability-plugin
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/codex-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/codex) · 组织维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/langfuse/codex-observability-plugin) · [官网](https://langfuse.com/integrations/developer-tools/codex) · 组织维护
 
 **将 OpenAI Codex CLI 会话遥测发送到 Langfuse 的插件**
 
@@ -44,13 +44,13 @@ Codex CLI 插件：追踪 agent 轮次、模型生成、推理摘要、系统提
 
 ```mermaid
 xychart-beta
-    title "langfuse/codex-observability-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38]
+    title "langfuse/codex-observability-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-10-27 38（+2）
+2026-10-18 36 → 2026-10-28 39（+3）
 
 
 ---

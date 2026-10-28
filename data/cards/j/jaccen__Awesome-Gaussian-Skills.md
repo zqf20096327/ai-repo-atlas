@@ -1,6 +1,6 @@
 # jaccen/Awesome-Gaussian-Skills
 
-⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jaccen/Awesome-Gaussian-Skills) · [官网](https://jaccen.github.io/Awesome-Gaussian-Skills/) · 个人维护 · 中文 README
+⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jaccen/Awesome-Gaussian-Skills) · [官网](https://jaccen.github.io/Awesome-Gaussian-Skills/) · 个人维护 · 中文 README
 
 **3DGS 方法目录：976 篇 arXiv 验证论文 + 18 个 AI agent 技能 + MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jaccen/Awesome-Gaussian-Skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 161 --> 171
-    line [162, 164, 165, 166, 168, 170, 170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 161 --> 174
+    line [162, 164, 165, 166, 168, 170, 173]
 ```
 
-2026-10-18 162 → 2026-10-27 170（+8）
+2026-10-18 162 → 2026-10-28 173（+11）
 
 
 ---

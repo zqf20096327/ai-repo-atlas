@@ -1,6 +1,6 @@
 # genai-io/san
 
-⭐ 145 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/genai-io/san) · [官网](https://genai-io.github.io/san/) · 组织维护 · 中文 README
+⭐ 146 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/genai-io/san) · [官网](https://genai-io.github.io/san/) · 组织维护 · 中文 README
 
 **单二进制 Go 终端 agent 运行时，供开发者自托管编码代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "genai-io/san 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 59 --> 152
-    line [79, 76, 66, 145]
+    title "genai-io/san 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 58 --> 154
+    line [79, 76, 66, 145, 146]
 ```
 
-2026-10-18 79 → 2026-10-27 145（+66）
+2026-10-18 79 → 2026-10-28 146（+67）
 
 
 ---

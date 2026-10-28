@@ -1,6 +1,6 @@
 # RobbsLuo/Coding2API
 
-⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RobbsLuo/Coding2API) · [官网](https://github.com/RobbsLuo/Coding2API/pkgs/container/coding2api) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RobbsLuo/Coding2API) · [官网](https://github.com/RobbsLuo/Coding2API/pkgs/container/coding2api) · 个人维护 · 中文 README
 
 **把八个编程助手上游封装为 OpenAI 兼容 API 的网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobbsLuo/Coding2API 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15 --> 28
-    line [16, 17, 21, 22, 23, 25, 27]
+    title "RobbsLuo/Coding2API 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 15 --> 29
+    line [16, 17, 21, 22, 23, 25, 27, 28]
 ```
 
-2026-10-18 16 → 2026-10-27 27（+11）
+2026-10-18 16 → 2026-10-28 28（+12）
 
 
 ---

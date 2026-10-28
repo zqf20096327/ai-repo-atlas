@@ -1,6 +1,6 @@
 # besoeasy/yantr
 
-⭐ 197 · Vue · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/besoeasy/yantr) · [官网](https://yantr.org) · 个人维护
+⭐ 198 · Vue · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/besoeasy/yantr) · [官网](https://yantr.org) · 个人维护
 
 **基于 rootless Podman 的自托管 homelab 应用商店**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "besoeasy/yantr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 186 --> 198
-    line [187, 188, 190, 192, 195, 197]
+    title "besoeasy/yantr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 186 --> 199
+    line [187, 188, 190, 192, 195, 197, 198]
 ```
 
-2026-10-18 187 → 2026-10-27 197（+10）
+2026-10-18 187 → 2026-10-28 198（+11）
 
 
 ---

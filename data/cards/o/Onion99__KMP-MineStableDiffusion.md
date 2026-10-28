@@ -1,6 +1,6 @@
 # Onion99/KMP-MineStableDiffusion
 
-⭐ 129 · Kotlin · GPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护
+⭐ 128 · Kotlin · GPL-3.0 · 推送 2026-07-14 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护
 
 **Kotlin 多平台本地 AI 绘图客户端：手机/桌面离线运行 Stable Diffusion**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onion99/KMP-MineStableDiffusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    title "Onion99/KMP-MineStableDiffusion 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 126 --> 130
-    line [128, 127, 128, 129]
+    line [128, 127, 128, 129, 128]
 ```
 
-2026-10-18 128 → 2026-10-27 129（+1）
+2026-10-18 128 → 2026-10-28 128（+0）
 
 
 ---

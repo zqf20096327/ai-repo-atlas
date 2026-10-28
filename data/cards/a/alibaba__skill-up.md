@@ -1,6 +1,6 @@
 # alibaba/skill-up
 
-⭐ 1,361 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/alibaba/skill-up) · [官网](https://alibaba.github.io/skill-up/) · 组织维护 · 中文 README
+⭐ 1,377 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/alibaba/skill-up) · [官网](https://alibaba.github.io/skill-up/) · 组织维护 · 中文 README
 
 **Agent Skills / Agent / 工作区的评测与进化 CLI 工具**
 
@@ -45,13 +45,13 @@ Go 编写的 CLI，对 Agent Skills、Agent 引擎及其工作区运行声明式
 
 ```mermaid
 xychart-beta
-    title "alibaba/skill-up 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1211 --> 1374
-    line [1224, 1231, 1257, 1265, 1274, 1312, 1347, 1361]
+    title "alibaba/skill-up 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1209 --> 1392
+    line [1224, 1231, 1257, 1265, 1274, 1312, 1347, 1361, 1377]
 ```
 
-2026-10-18 1,224 → 2026-10-27 1,361（+137）
+2026-10-18 1,224 → 2026-10-28 1,377（+153）
 
 
 ---

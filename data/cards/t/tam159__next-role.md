@@ -1,6 +1,6 @@
 # tam159/next-role
 
-⭐ 62 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tam159/next-role) · [官网](https://next-role.dev) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/tam159/next-role) · [官网](https://next-role.dev) · 个人维护
 
 **求职者上传 CV 与 JD，多 agent 生成定制简历与面试准备材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tam159/next-role 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-18 62 → 2026-10-27 62（+0）
+2026-10-18 62 → 2026-10-28 63（+1）
 
 
 ---

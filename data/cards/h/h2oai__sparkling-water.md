@@ -45,12 +45,12 @@ Sparkling Water 将 H2O-3 机器学习引擎与 Apache Spark 集成：提供 Spa
 ```mermaid
 xychart-beta
     title "h2oai/sparkling-water 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 981 --> 983
     line [982, 982]
 ```
 
-2026-10-18 982 → 2026-10-27 982（+0）
+2026-10-18 982 → 2026-10-28 982（+0）
 
 
 ---

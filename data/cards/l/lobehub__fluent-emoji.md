@@ -44,13 +44,13 @@ LobeHub 维护的 React 组件库：以单一组件渲染 Microsoft Fluent Emoji
 
 ```mermaid
 xychart-beta
-    title "lobehub/fluent-emoji 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "lobehub/fluent-emoji 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 83 --> 86
-    line [84, 85]
+    line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-10-27 85（+1）
+2026-10-18 84 → 2026-10-28 85（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ethanplusai/jarvis
 
-⭐ 924 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/ethanplusai/jarvis) · [官网](https://github.com/ethanplusai/jarvis/releases/tag/v2.0.0) · 个人维护
+⭐ 926 · Python · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/ethanplusai/jarvis) · [官网](https://github.com/ethanplusai/jarvis/releases/tag/v2.0.0) · 个人维护
 
 **macOS 语音助手：语音驱动 Claude Code 完成项目设计与构建**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethanplusai/jarvis 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 877 --> 928
-    line [881, 895, 900, 904, 908, 912, 915, 924]
+    title "ethanplusai/jarvis 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 877 --> 930
+    line [881, 895, 900, 904, 908, 912, 915, 924, 926]
 ```
 
-2026-10-18 881 → 2026-10-27 924（+43）
+2026-10-18 881 → 2026-10-28 926（+45）
 
 
 ---

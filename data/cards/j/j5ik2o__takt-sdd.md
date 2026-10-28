@@ -1,6 +1,6 @@
 # j5ik2o/takt-sdd
 
-⭐ 43 · JavaScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/j5ik2o/takt-sdd) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/j5ik2o/takt-sdd) · 个人维护 · 中文 README
 
 **基于 takt 的规格驱动开发（SDD）工作流定义库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "j5ik2o/takt-sdd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 43（+0）
 
 
 ---

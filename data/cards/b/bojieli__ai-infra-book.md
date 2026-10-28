@@ -1,6 +1,6 @@
 # bojieli/ai-infra-book
 
-⭐ 7,010 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/bojieli/ai-infra-book) · [官网](https://bojieli.github.io/ai-infra-book/) · 个人维护 · 中文 README
+⭐ 7,052 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/bojieli/ai-infra-book) · [官网](https://bojieli.github.io/ai-infra-book/) · 个人维护 · 中文 README
 
 **LLM 推理与训练系统设计的开源书稿，量化推导 AI Infra**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bojieli/ai-infra-book 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6617 --> 7045
-    line [6652, 6733, 6872, 6912, 6938, 6968, 7010]
+    title "bojieli/ai-infra-book 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6612 --> 7092
+    line [6652, 6733, 6872, 6912, 6938, 6968, 7010, 7052]
 ```
 
-2026-10-18 6,652 → 2026-10-27 7,010（+358）
+2026-10-18 6,652 → 2026-10-28 7,052（+400）
 
 
 ---

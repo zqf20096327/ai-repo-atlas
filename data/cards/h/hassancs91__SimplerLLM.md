@@ -1,6 +1,6 @@
 # hassancs91/SimplerLLM
 
-⭐ 227 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/hassancs91/SimplerLLM) · [官网](https://simplerllm.com) · 个人维护
+⭐ 228 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/hassancs91/SimplerLLM) · [官网](https://simplerllm.com) · 个人维护
 
 **统一接口接入 11 家 LLM 的 Python 库，含故障转移与结构化输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hassancs91/SimplerLLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 225 --> 228
-    line [226, 227, 227]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 225 --> 229
+    line [226, 227, 228]
 ```
 
-2026-10-18 226 → 2026-10-27 227（+1）
+2026-10-18 226 → 2026-10-28 228（+2）
 
 
 ---

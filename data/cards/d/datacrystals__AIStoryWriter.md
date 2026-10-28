@@ -1,6 +1,6 @@
 # datacrystals/AIStoryWriter
 
-⭐ 258 · Python · AGPL-3.0 · 推送 2025-11-24 · [GitHub](https://github.com/datacrystals/AIStoryWriter) · 个人维护
+⭐ 259 · Python · AGPL-3.0 · 推送 2025-11-24 · [GitHub](https://github.com/datacrystals/AIStoryWriter) · 个人维护
 
 **基于 LLM 的长篇小说生成命令行工具**
 
@@ -46,12 +46,12 @@ Python 命令行工具：读取用户提供的提示词文件，分阶段（初�
 ```mermaid
 xychart-beta
     title "datacrystals/AIStoryWriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 257 --> 259
-    line [258, 258]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 257 --> 260
+    line [258, 259]
 ```
 
-2026-10-18 258 → 2026-10-27 258（+0）
+2026-10-18 258 → 2026-10-28 259（+1）
 
 
 ---

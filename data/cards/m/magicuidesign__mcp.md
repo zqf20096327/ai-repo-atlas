@@ -1,6 +1,6 @@
 # magicuidesign/mcp
 
-⭐ 211 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/magicuidesign/mcp) · [官网](https://magicui.design) · 组织维护
+⭐ 212 · TypeScript · MIT · 推送 2026-04-07 · [GitHub](https://github.com/magicuidesign/mcp) · [官网](https://magicui.design) · 组织维护
 
 **Magic UI 官方 MCP 服务器：在 AI 编辑器中搜索并安装 UI 组件**
 
@@ -44,13 +44,13 @@ Magic UI 的官方 Model Context Protocol 服务器，面向使用 AI 编辑器�
 
 ```mermaid
 xychart-beta
-    title "magicuidesign/mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 205 --> 212
-    line [206, 207, 209, 210, 211]
+    title "magicuidesign/mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 205 --> 213
+    line [206, 207, 209, 210, 211, 212]
 ```
 
-2026-10-18 206 → 2026-10-27 211（+5）
+2026-10-18 206 → 2026-10-28 212（+6）
 
 
 ---

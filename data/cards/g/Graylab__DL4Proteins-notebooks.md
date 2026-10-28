@@ -44,13 +44,13 @@ Johns Hopkins Gray 实验室维护的 DL4Proteins 工作坊教程：以 10 章 J
 
 ```mermaid
 xychart-beta
-    title "Graylab/DL4Proteins-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Graylab/DL4Proteins-notebooks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 730 --> 733
-    line [731, 732]
+    line [731, 732, 732]
 ```
 
-2026-10-18 731 → 2026-10-27 732（+1）
+2026-10-18 731 → 2026-10-28 732（+1）
 
 
 ---

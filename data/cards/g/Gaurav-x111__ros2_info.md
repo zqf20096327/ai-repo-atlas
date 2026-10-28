@@ -1,6 +1,6 @@
 # Gaurav-x111/ros2_info
 
-⭐ 46 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Gaurav-x111/ros2_info) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Gaurav-x111/ros2_info) · 个人维护
 
 **面向 ROS 2 开发者的 Rust 终端 IDE 与实时监控面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Gaurav-x111/ros2_info 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 46（+0）
 
 
 ---

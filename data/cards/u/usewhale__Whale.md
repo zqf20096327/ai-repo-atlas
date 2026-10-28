@@ -1,6 +1,6 @@
 # usewhale/Whale
 
-⭐ 928 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/usewhale/Whale) · [官网](https://wirebox.sh) · 组织维护 · 中文 README
+⭐ 927 · Go · MIT · 推送 2026-10-14 · [GitHub](https://github.com/usewhale/Whale) · [官网](https://wirebox.sh) · 组织维护 · 中文 README
 
 **面向 DeepSeek 的终端 AI 编码 agent（已停止维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "usewhale/Whale 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 927 --> 935
-    line [933, 934, 930, 929, 928, 928]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 926 --> 935
+    line [933, 934, 930, 929, 928, 927]
 ```
 
-2026-10-18 933 → 2026-10-27 928（-5）
+2026-10-18 933 → 2026-10-28 927（-6）
 
 
 ---

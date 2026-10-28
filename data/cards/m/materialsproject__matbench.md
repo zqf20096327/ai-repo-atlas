@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "materialsproject/matbench 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-27"]
+    title "materialsproject/matbench 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 221 --> 224
-    line [222, 223]
+    line [222, 223, 223]
 ```
 
-2026-10-25 222 → 2026-10-27 223（+1）
+2026-10-25 222 → 2026-10-28 223（+1）
 
 
 ---

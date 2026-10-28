@@ -1,6 +1,6 @@
 # princezuda/safestclaw
 
-⭐ 282 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/princezuda/safestclaw) · 个人维护
+⭐ 281 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/princezuda/safestclaw) · 个人维护
 
 **个人 AI 助手：可全程不用 LLM，本地离线运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "princezuda/safestclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 281 --> 283
-    line [282, 282]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 280 --> 283
+    line [282, 281]
 ```
 
-2026-10-18 282 → 2026-10-27 282（+0）
+2026-10-18 282 → 2026-10-28 281（-1）
 
 
 ---

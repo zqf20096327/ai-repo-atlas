@@ -45,12 +45,12 @@ Hugging Face 官方维护的 TRL Jobs 封装库：通过单条命令在 Hugging 
 ```mermaid
 xychart-beta
     title "huggingface/trl-jobs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-27 73（+0）
+2026-10-18 73 → 2026-10-28 73（+0）
 
 
 ---

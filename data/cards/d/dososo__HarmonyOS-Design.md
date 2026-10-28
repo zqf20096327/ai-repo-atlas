@@ -1,6 +1,6 @@
 # dososo/HarmonyOS-Design
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/dososo/HarmonyOS-Design) · 个人维护 · 中文 README
+⭐ 39 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/dososo/HarmonyOS-Design) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 HarmonyOS/ArkUI 设计规则与 Skill 库及评测基线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dososo/HarmonyOS-Design 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 39（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # brycewang-stanford/AER-Skills
 
-⭐ 58 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/brycewang-stanford/AER-Skills) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/brycewang-stanford/AER-Skills) · 个人维护 · 中文 README
 
 **面向 AER/AEJ 经济学期刊的论文写作 agent skill 栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brycewang-stanford/AER-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 59]
 ```
 
-2026-10-18 56 → 2026-10-27 58（+2）
+2026-10-18 56 → 2026-10-28 59（+3）
 
 
 ---

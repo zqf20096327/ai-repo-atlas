@@ -1,6 +1,6 @@
 # 0x7067/claude-jev
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/0x7067/claude-jev) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/0x7067/claude-jev) · 个人维护
 
 **Claude Code 插件：用 Jev 做规则检查、逐行压缩与提示路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0x7067/claude-jev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

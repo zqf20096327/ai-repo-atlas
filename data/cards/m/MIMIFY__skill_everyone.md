@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MIMIFY/skill_everyone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "MIMIFY/skill_everyone 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 61 --> 64
-    line [62, 63]
+    line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-10-27 63（+1）
+2026-10-18 62 → 2026-10-28 63（+1）
 
 
 ---

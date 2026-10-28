@@ -1,6 +1,6 @@
 # PrzemekSkw/imagemagick-webui
 
-⭐ 144 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PrzemekSkw/imagemagick-webui) · 个人维护
+⭐ 144 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/PrzemekSkw/imagemagick-webui) · 个人维护
 
 **ImageMagick 的 Web 图形界面，含 AI 抠图与批量处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PrzemekSkw/imagemagick-webui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 143 --> 146
     line [145, 144, 144]
 ```
 
-2026-10-18 145 → 2026-10-27 144（-1）
+2026-10-18 145 → 2026-10-28 144（-1）
 
 
 ---

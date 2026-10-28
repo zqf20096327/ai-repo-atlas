@@ -1,6 +1,6 @@
 # KitionAI/kition
 
-⭐ 533 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
+⭐ 536 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
 
 **本地优先桌面工作区：文档/表格/白板/AI Agent/自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KitionAI/kition 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 499 --> 536
-    line [507, 518, 529, 502, 509, 518, 524, 533]
+    title "KitionAI/kition 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 499 --> 539
+    line [507, 518, 529, 502, 509, 518, 524, 533, 536]
 ```
 
-2026-10-18 507 → 2026-10-27 533（+26）
+2026-10-18 507 → 2026-10-28 536（+29）
 
 
 ---

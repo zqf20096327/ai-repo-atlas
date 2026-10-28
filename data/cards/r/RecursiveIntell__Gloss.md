@@ -1,6 +1,6 @@
 # RecursiveIntell/Gloss
 
-⭐ 46 · Rust · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/RecursiveIntell/Gloss) · 组织维护
+⭐ 46 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/RecursiveIntell/Gloss) · 组织维护
 
 **本地优先的源引用研究与对话桌面笔记本（Tauri 2）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RecursiveIntell/Gloss 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-27 46（+1）
+2026-10-18 45 → 2026-10-28 46（+1）
 
 
 ---

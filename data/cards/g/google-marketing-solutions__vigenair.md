@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-marketing-solutions/vigenair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-18 241 → 2026-10-27 241（+0）
+2026-10-18 241 → 2026-10-28 241（+0）
 
 
 ---

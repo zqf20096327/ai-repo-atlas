@@ -1,6 +1,6 @@
 # epam/ai-dial-core
 
-⭐ 661 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
+⭐ 661 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 核心组件：为多种 LLM 与应用提供统一 API 的 HTTP 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epam/ai-dial-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 660 --> 664
     line [663, 661, 661]
 ```
 
-2026-10-18 663 → 2026-10-27 661（-2）
+2026-10-18 663 → 2026-10-28 661（-2）
 
 
 ---

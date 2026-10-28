@@ -1,6 +1,6 @@
 # belingud/gptcomet
 
-⭐ 30 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/belingud/gptcomet) · 个人维护 · 中文 README
+⭐ 30 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/belingud/gptcomet) · 个人维护 · 中文 README
 
 **用 LLM 自动生成 Git/SVN 提交信息并做代码审查的命令行工具**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具 gmsg，读取代码 diff 后调用大语言模型生
 ```mermaid
 xychart-beta
     title "belingud/gptcomet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # autowarefoundation/vision_pilot
 
-⭐ 918 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/autowarefoundation/vision_pilot) · [官网](https://autoware.org/) · 组织维护
+⭐ 919 · C++ · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/autowarefoundation/vision_pilot) · [官网](https://autoware.org/) · 组织维护
 
 **面向量产乘用车的开源 L2 ADAS 全栈（端到端 AI）**
 
@@ -45,13 +45,13 @@ Autoware Foundation 维护的 L2 级高级驾驶辅助系统完整代码库，�
 
 ```mermaid
 xychart-beta
-    title "autowarefoundation/vision_pilot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 912 --> 919
-    line [913, 915, 916, 917, 918]
+    title "autowarefoundation/vision_pilot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 912 --> 920
+    line [913, 915, 916, 917, 918, 919]
 ```
 
-2026-10-18 913 → 2026-10-27 918（+5）
+2026-10-18 913 → 2026-10-28 919（+6）
 
 
 ---

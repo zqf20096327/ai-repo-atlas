@@ -1,6 +1,6 @@
 # benjaminzwhite/reasoning-models
 
-⭐ 30 · 推送 2026-10-25 · [GitHub](https://github.com/benjaminzwhite/reasoning-models) · 个人维护
+⭐ 30 · 推送 2026-10-26 · [GitHub](https://github.com/benjaminzwhite/reasoning-models) · 个人维护
 
 **推理模型论文阅读清单：附短评的训练技术与测试时扩展文献**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "benjaminzwhite/reasoning-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

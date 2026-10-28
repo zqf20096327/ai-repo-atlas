@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelTC/ComfyUI-Lightx2vWrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "ModelTC/ComfyUI-Lightx2vWrapper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 94 --> 97
-    line [95, 96]
+    line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-10-27 96（+1）
+2026-10-18 95 → 2026-10-28 96（+1）
 
 
 ---

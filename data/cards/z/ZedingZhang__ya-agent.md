@@ -1,6 +1,6 @@
 # ZedingZhang/ya-agent
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ZedingZhang/ya-agent) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZedingZhang/ya-agent) · 个人维护 · 中文 README
 
 **专为 DeepSeek 打造的命令行与桌面端 coding agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZedingZhang/ya-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # circleLZY/JL1-CD
 
-⭐ 131 · Python · 推送 2026-07-04 · [GitHub](https://github.com/circleLZY/JL1-CD) · 组织维护 · 中文 README
+⭐ 132 · Python · 推送 2026-07-04 · [GitHub](https://github.com/circleLZY/JL1-CD) · 组织维护 · 中文 README
 
 **遥感变化检测基准数据集与多教师知识蒸馏框架官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "circleLZY/JL1-CD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-10-27 131（+0）
+2026-10-18 131 → 2026-10-28 132（+1）
 
 
 ---

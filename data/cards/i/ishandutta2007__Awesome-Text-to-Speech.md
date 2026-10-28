@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Text-to-Speech
 
-⭐ 213 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ishandutta2007/Awesome-Text-to-Speech) · 个人维护
+⭐ 216 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ishandutta2007/Awesome-Text-to-Speech) · 个人维护
 
 **语音合成（TTS）模型与服务策展清单，面向开发者选型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ishandutta2007/Awesome-Text-to-Speech 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 208 --> 214
-    line [209, 210, 211, 212, 213]
+    title "ishandutta2007/Awesome-Text-to-Speech 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 208 --> 217
+    line [209, 210, 211, 212, 213, 216]
 ```
 
-2026-10-18 209 → 2026-10-27 213（+4）
+2026-10-18 209 → 2026-10-28 216（+7）
 
 
 ---

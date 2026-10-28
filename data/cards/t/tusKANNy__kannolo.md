@@ -1,6 +1,6 @@
 # tusKANNy/kannolo
 
-⭐ 77 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/tusKANNy/kannolo) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向研究的 Rust 近似最近邻检索库，含 Python 绑定**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

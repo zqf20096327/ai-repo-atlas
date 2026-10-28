@@ -1,6 +1,6 @@
 # AdsPower/adspower-browser
 
-⭐ 147 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AdsPower/adspower-browser) · [官网](https://www.adspower.com/) · 组织维护 · 中文 README
+⭐ 147 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AdsPower/adspower-browser) · [官网](https://www.adspower.com/) · 组织维护 · 中文 README
 
 **AdsPower 反指纹浏览器的 Skill/MCP/CLI 接入工具包**
 
@@ -45,13 +45,13 @@ AdsPower 官方为 Local API 提供的三件套接入工具：Skill 包（可装
 
 ```mermaid
 xychart-beta
-    title "AdsPower/adspower-browser 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    title "AdsPower/adspower-browser 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 142 --> 148
-    line [143, 145, 146, 147]
+    line [143, 145, 146, 147, 147]
 ```
 
-2026-10-18 143 → 2026-10-27 147（+4）
+2026-10-18 143 → 2026-10-28 147（+4）
 
 
 ---

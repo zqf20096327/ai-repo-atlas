@@ -1,6 +1,6 @@
 # fulvian/engraft-ngram
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/fulvian/engraft-ngram) · [官网](https://engraft-engram.dev) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/fulvian/engraft-ngram) · [官网](https://engraft-engram.dev) · 个人维护
 
 **向 LLM 的 n-gram 记忆表写入事实的研究方法，不改权重**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fulvian/engraft-ngram 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    line [56, 57, 56]
 ```
 
-2026-10-18 56 → 2026-10-27 57（+1）
+2026-10-18 56 → 2026-10-28 56（+0）
 
 
 ---

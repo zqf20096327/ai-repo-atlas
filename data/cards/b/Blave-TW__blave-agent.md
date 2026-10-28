@@ -1,6 +1,6 @@
 # Blave-TW/blave-agent
 
-⭐ 231 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Blave-TW/blave-agent) · [官网](https://blave.org) · 组织维护 · 中文 README
+⭐ 238 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Blave-TW/blave-agent) · [官网](https://blave.org) · 组织维护 · 中文 README
 
 **让 Claude Code/Codex 构建、回测并实盘运行量化策略的桌面工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blave-TW/blave-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 98 --> 243
-    line [110, 113, 120, 145, 153, 187, 215, 231]
+    title "Blave-TW/blave-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 98 --> 250
+    line [110, 113, 120, 145, 153, 187, 215, 231, 238]
 ```
 
-2026-10-18 110 → 2026-10-27 231（+121）
+2026-10-18 110 → 2026-10-28 238（+128）
 
 
 ---

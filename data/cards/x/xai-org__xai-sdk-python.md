@@ -1,6 +1,6 @@
 # xai-org/xai-sdk-python
 
-⭐ 592 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/xai-sdk-python) · 组织维护
+⭐ 591 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/xai-sdk-python) · 组织维护
 
 **xAI 官方 Python SDK：接入 xAI API 的 gRPC 客户端库**
 
@@ -45,13 +45,13 @@ xAI 官方维护的 gRPC Python 库，供开发者调用 xAI API：同步与异�
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-sdk-python 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "xai-org/xai-sdk-python 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 587 --> 593
-    line [588, 589, 590, 592]
+    line [588, 589, 590, 592, 591]
 ```
 
-2026-10-18 588 → 2026-10-27 592（+4）
+2026-10-18 588 → 2026-10-28 591（+3）
 
 
 ---

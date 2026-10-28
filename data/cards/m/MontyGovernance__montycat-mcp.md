@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MontyGovernance/montycat-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "MontyGovernance/montycat-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 22 --> 29
-    line [28, 24, 23]
+    line [28, 24, 23, 23]
 ```
 
-2026-10-18 28 → 2026-10-27 23（-5）
+2026-10-18 28 → 2026-10-28 23（-5）
 
 
 ---

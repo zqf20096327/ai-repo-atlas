@@ -1,6 +1,6 @@
 # huabeitech/agent-desk
 
-⭐ 286 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huabeitech/agent-desk) · [官网](https://agent-desk.huabei.pro) · 组织维护 · 中文 README
+⭐ 287 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/huabeitech/agent-desk) · [官网](https://agent-desk.huabei.pro) · 组织维护 · 中文 README
 
 **开源 AI 客服系统：AI 首答、知识库问答、人工接管与工单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "huabeitech/agent-desk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 277 --> 287
-    line [278, 281, 283, 284, 286, 286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 277 --> 288
+    line [278, 281, 283, 284, 286, 287]
 ```
 
-2026-10-18 278 → 2026-10-27 286（+8）
+2026-10-18 278 → 2026-10-28 287（+9）
 
 
 ---

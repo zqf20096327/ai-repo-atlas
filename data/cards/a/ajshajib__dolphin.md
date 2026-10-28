@@ -1,6 +1,6 @@
 # ajshajib/dolphin
 
-⭐ 27 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/ajshajib/dolphin) · [官网](https://dolphin-docs.readthedocs.io) · 个人维护
+⭐ 27 · Jupyter Notebook · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/ajshajib/dolphin) · [官网](https://dolphin-docs.readthedocs.io) · 个人维护
 
 **给科研用户的强引力透镜自动建模流水线**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ajshajib/dolphin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

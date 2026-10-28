@@ -1,6 +1,6 @@
 # philbotar/OpenFlow
 
-⭐ 22 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/philbotar/OpenFlow) · [官网](https://philbotar.github.io/OpenFlow/) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/philbotar/OpenFlow) · [官网](https://philbotar.github.io/OpenFlow/) · 个人维护
 
 **桌面多智能体工作流编排器：可视化构建并运行 agent 流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "philbotar/OpenFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 23（+1）
 
 
 ---

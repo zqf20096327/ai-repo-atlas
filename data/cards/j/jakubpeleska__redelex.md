@@ -1,6 +1,6 @@
 # jakubpeleska/redelex
 
-⭐ 25 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakubpeleska/redelex) · [官网](https://relational.fel.cvut.cz/) · 组织维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jakubpeleska/redelex) · [官网](https://relational.fel.cvut.cz/) · 组织维护
 
 **面向研究者的关系深度学习开发与评测框架**
 
@@ -45,12 +45,12 @@ Python 框架，用于在关系数据库上开发与评测关系深度学习（R
 ```mermaid
 xychart-beta
     title "jakubpeleska/redelex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

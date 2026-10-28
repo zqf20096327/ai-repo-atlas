@@ -1,6 +1,6 @@
 # weaviate/elysia
 
-⭐ 1,921 · Python · BSD-3-Clause · 推送 2026-02-06 · [GitHub](https://github.com/weaviate/elysia) · 组织维护
+⭐ 1,922 · Python · BSD-3-Clause · 推送 2026-02-06 · [GitHub](https://github.com/weaviate/elysia) · 组织维护
 
 **决策树式 agentic 框架：动态选择工具检索 Weaviate 数据**
 
@@ -45,12 +45,12 @@ Weaviate 维护的开源 agentic 平台：以预定义决策树组织节点，�
 ```mermaid
 xychart-beta
     title "weaviate/elysia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1918 --> 1922
-    line [1919, 1920, 1921, 1921]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1918 --> 1923
+    line [1919, 1920, 1921, 1922]
 ```
 
-2026-10-18 1,919 → 2026-10-27 1,921（+2）
+2026-10-18 1,919 → 2026-10-28 1,922（+3）
 
 
 ---

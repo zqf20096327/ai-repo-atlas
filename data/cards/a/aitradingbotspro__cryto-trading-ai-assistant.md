@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aitradingbotspro/cryto-trading-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-27 108（+0）
+2026-10-18 108 → 2026-10-28 108（+0）
 
 
 ---

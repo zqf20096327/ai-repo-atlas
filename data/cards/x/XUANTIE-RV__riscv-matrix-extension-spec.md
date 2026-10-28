@@ -1,6 +1,6 @@
 # XUANTIE-RV/riscv-matrix-extension-spec
 
-⭐ 189 · Makefile · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec) · 组织维护 · 中文 README
+⭐ 190 · Makefile · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/XUANTIE-RV/riscv-matrix-extension-spec) · 组织维护 · 中文 README
 
 **RISC-V 架构面向 AI 应用的矩阵扩展指令集规范提案（V0.6.0）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XUANTIE-RV/riscv-matrix-extension-spec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 186 --> 190
-    line [187, 188, 189, 189]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 186 --> 191
+    line [187, 188, 189, 190]
 ```
 
-2026-10-18 187 → 2026-10-27 189（+2）
+2026-10-18 187 → 2026-10-28 190（+3）
 
 
 ---

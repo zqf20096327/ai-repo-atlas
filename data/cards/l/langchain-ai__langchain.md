@@ -1,6 +1,6 @@
 # langchain-ai/langchain
 
-⭐ 148,506 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain) · [官网](https://docs.langchain.com/langchain/) · 组织维护
+⭐ 148,557 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/langchain) · [官网](https://docs.langchain.com/langchain/) · 组织维护
 
 **面向开发者的构建 agent 与 LLM 应用的框架**
 
@@ -49,13 +49,13 @@ LangChain 是用于构建 agent 和 LLM 应用的 Python 框架，通过标准�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 147930 --> 148558
-    line [147982, 148089, 148197, 148278, 148324, 148368, 148423, 148506]
+    title "langchain-ai/langchain 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 147925 --> 148614
+    line [147982, 148089, 148197, 148278, 148324, 148368, 148423, 148506, 148557]
 ```
 
-2026-10-18 147,982 → 2026-10-27 148,506（+524）
+2026-10-18 147,982 → 2026-10-28 148,557（+575）
 
 
 ---

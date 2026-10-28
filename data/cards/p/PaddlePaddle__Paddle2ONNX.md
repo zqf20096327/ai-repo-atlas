@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle2ONNX
 
-⭐ 946 · C++ · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/PaddlePaddle/Paddle2ONNX) · 组织维护 · 中文 README
+⭐ 948 · C++ · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/PaddlePaddle/Paddle2ONNX) · 组织维护 · 中文 README
 
 **将 PaddlePaddle 模型转换为 ONNX 格式的部署工具**
 
@@ -45,12 +45,12 @@ Paddle2ONNX 提供将 PaddlePaddle 部署模型（json 结构文件 + pdiparams 
 ```mermaid
 xychart-beta
     title "PaddlePaddle/Paddle2ONNX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 945 --> 947
-    line [946, 946]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 945 --> 949
+    line [946, 948]
 ```
 
-2026-10-18 946 → 2026-10-27 946（+0）
+2026-10-18 946 → 2026-10-28 948（+2）
 
 
 ---

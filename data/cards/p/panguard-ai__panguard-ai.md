@@ -1,6 +1,6 @@
 # panguard-ai/panguard-ai
 
-⭐ 66 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/panguard-ai/panguard-ai) · [官网](https://panguard.ai) · 个人维护 · 中文 README
+⭐ 65 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/panguard-ai/panguard-ai) · [官网](https://panguard.ai) · 个人维护 · 中文 README
 
 **给 AI agent 的本地安全防护平台：装前审计 skill、运行时拦截工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "panguard-ai/panguard-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    line [65, 66, 65]
 ```
 
-2026-10-18 65 → 2026-10-27 66（+1）
+2026-10-18 65 → 2026-10-28 65（+0）
 
 
 ---

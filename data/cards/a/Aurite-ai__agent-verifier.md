@@ -1,6 +1,6 @@
 # Aurite-ai/agent-verifier
 
-⭐ 45 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Aurite-ai/agent-verifier) · [官网](https://aurite.ai) · 组织维护
+⭐ 44 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Aurite-ai/agent-verifier) · [官网](https://aurite.ai) · 组织维护
 
 **面向编码 Agent 的代码验证技能：发码前检查安全、质量与 Agent 模式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aurite-ai/agent-verifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 43 --> 46
+    line [45, 44]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 44（-1）
 
 
 ---

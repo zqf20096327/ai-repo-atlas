@@ -1,6 +1,6 @@
 # codecoradev/uteke
 
-⭐ 276 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/codecoradev/uteke) · [官网](https://codecora.dev) · 组织维护
+⭐ 277 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/codecoradev/uteke) · [官网](https://codecora.dev) · 组织维护
 
 **面向 AI agent 的本地优先记忆引擎，单 Rust 二进制，离线语义检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codecoradev/uteke 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 271 --> 277
-    line [272, 273, 275, 276, 276]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 271 --> 278
+    line [272, 273, 275, 276, 277]
 ```
 
-2026-10-18 272 → 2026-10-27 276（+4）
+2026-10-18 272 → 2026-10-28 277（+5）
 
 
 ---

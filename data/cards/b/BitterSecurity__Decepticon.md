@@ -1,6 +1,6 @@
 # BitterSecurity/Decepticon
 
-⭐ 6,449 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/BitterSecurity/Decepticon) · [官网](https://decepticon.red) · 组织维护
+⭐ 6,458 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/BitterSecurity/Decepticon) · [官网](https://decepticon.red) · 组织维护
 
 **自主红队攻防 agent：执行侦察到利用的完整攻击链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BitterSecurity/Decepticon 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6222 --> 6469
-    line [6242, 6347, 6379, 6403, 6412, 6425, 6435, 6449]
+    title "BitterSecurity/Decepticon 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6221 --> 6479
+    line [6242, 6347, 6379, 6403, 6412, 6425, 6435, 6449, 6458]
 ```
 
-2026-10-18 6,242 → 2026-10-27 6,449（+207）
+2026-10-18 6,242 → 2026-10-28 6,458（+216）
 
 
 ---

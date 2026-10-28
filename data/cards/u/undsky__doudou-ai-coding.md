@@ -1,6 +1,6 @@
 # undsky/doudou-ai-coding
 
-⭐ 210 · Vue · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/undsky/doudou-ai-coding) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
+⭐ 209 · Vue · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/undsky/doudou-ai-coding) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
 
 **面向编程小白与中小企业的 AI 全流程开发平台**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "undsky/doudou-ai-coding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "undsky/doudou-ai-coding 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 208 --> 211
-    line [209, 210]
+    line [209, 210, 209]
 ```
 
-2026-10-18 209 → 2026-10-27 210（+1）
+2026-10-18 209 → 2026-10-28 209（+0）
 
 
 ---

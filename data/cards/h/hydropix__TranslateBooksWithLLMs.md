@@ -1,6 +1,6 @@
 # hydropix/TranslateBooksWithLLMs
 
-⭐ 2,547 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
+⭐ 2,550 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
 
 **用本地或云端 LLM 翻译整本书籍与文档的桌面/自托管应用**
 
@@ -44,13 +44,13 @@ TBL 是一个翻译长篇书籍、字幕与文档的桌面应用（也可从源�
 
 ```mermaid
 xychart-beta
-    title "hydropix/TranslateBooksWithLLMs 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2517 --> 2549
-    line [2519, 2526, 2535, 2538, 2539, 2541, 2544, 2547]
+    title "hydropix/TranslateBooksWithLLMs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2516 --> 2553
+    line [2519, 2526, 2535, 2538, 2539, 2541, 2544, 2547, 2550]
 ```
 
-2026-10-18 2,519 → 2026-10-27 2,547（+28）
+2026-10-18 2,519 → 2026-10-28 2,550（+31）
 
 
 ---

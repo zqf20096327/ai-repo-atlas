@@ -1,6 +1,6 @@
 # SpaceEngineerSS/RadarSim
 
-⭐ 27 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SpaceEngineerSS/RadarSim) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/SpaceEngineerSS/RadarSim) · 个人维护
 
 **面向教学与科研的开源雷达仿真器，含电子对抗与跟踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SpaceEngineerSS/RadarSim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 28]
 ```
 
-2026-10-18 25 → 2026-10-27 27（+2）
+2026-10-18 25 → 2026-10-28 28（+3）
 
 
 ---

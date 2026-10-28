@@ -1,6 +1,6 @@
 # xiabai2008/ruoyi-scan
 
-⭐ 45 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xiabai2008/ruoyi-scan) · [官网](https://xiabai2008.github.io/ruoyi-scan/) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xiabai2008/ruoyi-scan) · [官网](https://xiabai2008.github.io/ruoyi-scan/) · 个人维护 · 中文 README
 
 **面向若依框架的专项漏洞扫描器，带三态判定与 AI 辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiabai2008/ruoyi-scan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 41 --> 46
-    line [42, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 41 --> 47
+    line [42, 44, 45, 46]
 ```
 
-2026-10-18 42 → 2026-10-27 45（+3）
+2026-10-18 42 → 2026-10-28 46（+4）
 
 
 ---

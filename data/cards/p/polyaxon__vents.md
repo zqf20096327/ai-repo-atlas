@@ -42,12 +42,12 @@ Vents 是由 Polyaxon 维护的开源 Python 库，提供连接目录（connecti
 ```mermaid
 xychart-beta
     title "polyaxon/vents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 31（+0）
 
 
 ---

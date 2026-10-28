@@ -1,6 +1,6 @@
 # openai/openai-apps-sdk-examples
 
-⭐ 2,374 · TypeScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-apps-sdk-examples) · 组织维护
+⭐ 2,377 · TypeScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/openai/openai-apps-sdk-examples) · 组织维护
 
 **ChatGPT Apps SDK 官方示例集：widget 组件与 MCP 服务器**
 
@@ -44,13 +44,13 @@ OpenAI 维护的 Apps SDK 示例仓库，展示可与 ChatGPT 配合使用的 UI
 
 ```mermaid
 xychart-beta
-    title "openai/openai-apps-sdk-examples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2370 --> 2376
-    line [2371, 2372, 2374, 2375, 2374]
+    title "openai/openai-apps-sdk-examples 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2370 --> 2378
+    line [2371, 2372, 2374, 2375, 2374, 2377]
 ```
 
-2026-10-18 2,371 → 2026-10-27 2,374（+3）
+2026-10-18 2,371 → 2026-10-28 2,377（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Koishi007/koishi-ai-pet
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Koishi007/koishi-ai-pet) · 个人维护 · 中文 README
+⭐ 27 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Koishi007/koishi-ai-pet) · 个人维护 · 中文 README
 
 **东方Project古明地恋形象的桌面 AI 虚拟宠物，能感知屏幕并对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Koishi007/koishi-ai-pet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-10-27 27（+1）
+2026-10-18 26 → 2026-10-28 27（+1）
 
 
 ---

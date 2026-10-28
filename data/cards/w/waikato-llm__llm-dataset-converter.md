@@ -45,12 +45,12 @@ Waikato LLM 团队维护的数据集转换工具：以插件化 reader/filter/wr
 ```mermaid
 xychart-beta
     title "waikato-llm/llm-dataset-converter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

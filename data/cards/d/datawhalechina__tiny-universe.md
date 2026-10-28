@@ -1,6 +1,6 @@
 # datawhalechina/tiny-universe
 
-⭐ 5,124 · Jupyter Notebook · 推送 2026-02-12 · [GitHub](https://github.com/datawhalechina/tiny-universe) · 组织维护 · 中文 README
+⭐ 5,125 · Jupyter Notebook · 推送 2026-02-12 · [GitHub](https://github.com/datawhalechina/tiny-universe) · 组织维护 · 中文 README
 
 **手搓大模型全链路教程：从零实现 LLM/RAG/Agent/评估**
 
@@ -44,13 +44,13 @@ Datawhale 维护的《大模型白盒子构建指南》：面向有深度学习�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/tiny-universe 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5112 --> 5125
-    line [5113, 5116, 5119, 5118, 5120, 5121, 5123, 5124]
+    title "datawhalechina/tiny-universe 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5112 --> 5126
+    line [5113, 5116, 5119, 5118, 5120, 5121, 5123, 5124, 5125]
 ```
 
-2026-10-18 5,113 → 2026-10-27 5,124（+11）
+2026-10-18 5,113 → 2026-10-28 5,125（+12）
 
 
 ---

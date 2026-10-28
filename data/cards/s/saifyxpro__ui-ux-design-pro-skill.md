@@ -1,6 +1,6 @@
 # saifyxpro/ui-ux-design-pro-skill
 
-⭐ 91 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/saifyxpro/ui-ux-design-pro-skill) · 个人维护
+⭐ 92 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/saifyxpro/ui-ux-design-pro-skill) · 个人维护
 
 **给 AI 编程助手的 UI/UX 设计技能包：设计数据+CLI+规则库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "saifyxpro/ui-ux-design-pro-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 88, 89, 91, 91]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 85 --> 93
+    line [86, 87, 88, 89, 91, 92]
 ```
 
-2026-10-18 86 → 2026-10-27 91（+5）
+2026-10-18 86 → 2026-10-28 92（+6）
 
 
 ---

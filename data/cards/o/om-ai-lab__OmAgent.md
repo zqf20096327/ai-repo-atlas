@@ -1,6 +1,6 @@
 # om-ai-lab/OmAgent
 
-⭐ 2,669 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/om-ai-lab/OmAgent) · [官网](https://om-agent.com) · 组织维护
+⭐ 2,670 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/om-ai-lab/OmAgent) · [官网](https://om-agent.com) · 组织维护
 
 **构建多模态语言 Agent 的 Python 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "om-ai-lab/OmAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2668 --> 2670
-    line [2669, 2669]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2668 --> 2671
+    line [2669, 2670]
 ```
 
-2026-10-18 2,669 → 2026-10-27 2,669（+0）
+2026-10-18 2,669 → 2026-10-28 2,670（+1）
 
 
 ---

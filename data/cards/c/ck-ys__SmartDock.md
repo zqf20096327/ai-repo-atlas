@@ -1,6 +1,6 @@
 # ck-ys/SmartDock
 
-⭐ 35 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ck-ys/SmartDock) · 个人维护 · 中文 README
+⭐ 36 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ck-ys/SmartDock) · 个人维护 · 中文 README
 
 **通用智能体引擎与用户画像引擎的参考实现，附企业级后台基座**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ck-ys/SmartDock 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 24 --> 36
-    line [25, 29, 31, 35]
+    title "ck-ys/SmartDock 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 24 --> 37
+    line [25, 29, 31, 35, 36]
 ```
 
-2026-10-24 25 → 2026-10-27 35（+10）
+2026-10-24 25 → 2026-10-28 36（+11）
 
 
 ---

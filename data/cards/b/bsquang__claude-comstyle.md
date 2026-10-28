@@ -1,6 +1,6 @@
 # bsquang/claude-comstyle
 
-⭐ 45 · Unlicense · 推送 2026-04-25 · [GitHub](https://github.com/bsquang/claude-comstyle) · [官网](https://github.com/bsquang/claude-comstyle#readme) · 个人维护
+⭐ 46 · Unlicense · 推送 2026-04-25 · [GitHub](https://github.com/bsquang/claude-comstyle) · [官网](https://github.com/bsquang/claude-comstyle#readme) · 个人维护
 
 **13 条控制 Claude 输出风格的提示词集合，按需复制粘贴**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bsquang/claude-comstyle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # beelzebub-labs/beelzebub
 
-⭐ 2,218 · Go · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/beelzebub-labs/beelzebub) · [官网](https://docs.beelzebub.ai) · 组织维护
+⭐ 2,220 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/beelzebub-labs/beelzebub) · [官网](https://docs.beelzebub.ai) · 组织维护
 
 **蜜罐欺骗框架：部署诱饵服务并采集攻击交互证据**
 
@@ -44,13 +44,13 @@ Go 编写的开源欺骗（蜜罐）运行时框架，面向安全团队。以 Y
 
 ```mermaid
 xychart-beta
-    title "beelzebub-labs/beelzebub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2198 --> 2219
-    line [2199, 2200, 2204, 2207, 2212, 2218]
+    title "beelzebub-labs/beelzebub 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2197 --> 2222
+    line [2199, 2200, 2204, 2207, 2212, 2218, 2220]
 ```
 
-2026-10-18 2,199 → 2026-10-27 2,218（+19）
+2026-10-18 2,199 → 2026-10-28 2,220（+21）
 
 
 ---

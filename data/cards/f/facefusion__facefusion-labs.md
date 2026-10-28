@@ -42,12 +42,12 @@ FaceFusion Labs 是一个人脸操纵（face manipulation）平台，为人脸�
 ```mermaid
 xychart-beta
     title "facefusion/facefusion-labs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 152 --> 155
     line [153, 154, 154]
 ```
 
-2026-10-18 153 → 2026-10-27 154（+1）
+2026-10-18 153 → 2026-10-28 154（+1）
 
 
 ---

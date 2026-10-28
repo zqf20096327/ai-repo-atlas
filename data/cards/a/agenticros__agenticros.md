@@ -1,6 +1,6 @@
 # agenticros/agenticros
 
-⭐ 177 · C · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agenticros/agenticros) · [官网](https://agenticros.com) · 组织维护
+⭐ 178 · C · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agenticros/agenticros) · [官网](https://agenticros.com) · 组织维护
 
 **把 ROS 2 机器人接入各类 AI agent 的桥接接口层**
 
@@ -46,13 +46,13 @@ AgenticROS 是连接前沿推理模型与 ROS 2 机器人的开源接口层：�
 
 ```mermaid
 xychart-beta
-    title "agenticros/agenticros 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 169 --> 178
-    line [170, 172, 174, 173, 174, 175, 176, 177]
+    title "agenticros/agenticros 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 169 --> 179
+    line [170, 172, 174, 173, 174, 175, 176, 177, 178]
 ```
 
-2026-10-18 170 → 2026-10-27 177（+7）
+2026-10-18 170 → 2026-10-28 178（+8）
 
 
 ---

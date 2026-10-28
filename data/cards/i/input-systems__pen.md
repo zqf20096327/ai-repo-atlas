@@ -1,6 +1,6 @@
 # input-systems/pen
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/input-systems/pen) · [官网](https://www.npmjs.com/package/@input/pen) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/input-systems/pen) · [官网](https://www.npmjs.com/package/@input/pen) · 组织维护
 
 **面向人类与 AI 协同写作的无头富文本编辑器 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "input-systems/pen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 43 --> 47
     line [44, 45, 46, 46]
 ```
 
-2026-10-18 44 → 2026-10-27 46（+2）
+2026-10-18 44 → 2026-10-28 46（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Cloudgeni-ai/opengeni
 
-⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Cloudgeni-ai/opengeni) · [官网](https://opengeni.ai/) · 组织维护
+⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Cloudgeni-ai/opengeni) · [官网](https://opengeni.ai/) · 组织维护
 
 **面向组织的可自托管 agentic 服务：持久会话与人工审批**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cloudgeni-ai/opengeni 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 201 --> 208
     line [202, 203, 205, 206, 207, 207]
 ```
 
-2026-10-18 202 → 2026-10-27 207（+5）
+2026-10-18 202 → 2026-10-28 207（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # najeed/ai-agent-eval-harness
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/najeed/ai-agent-eval-harness) · [官网](https://najeed.github.io/ai-agent-eval-harness/) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/najeed/ai-agent-eval-harness) · [官网](https://najeed.github.io/ai-agent-eval-harness/) · 个人维护
 
 **企业 AI agent 的评测与验证框架：核验行为、状态与合规**
 
@@ -46,12 +46,12 @@ AgentV 是面向企业业务工作流的多 agent 评测与验证 harness（Mult
 ```mermaid
 xychart-beta
     title "najeed/ai-agent-eval-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

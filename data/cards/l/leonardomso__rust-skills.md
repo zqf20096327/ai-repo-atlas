@@ -1,6 +1,6 @@
 # leonardomso/rust-skills
 
-⭐ 643 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/leonardomso/rust-skills) · 个人维护
+⭐ 646 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/leonardomso/rust-skills) · 个人维护
 
 **给 AI 编码 agent 用的 265 条 Rust 规范规则集（26 类）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leonardomso/rust-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 596 --> 647
-    line [600, 606, 615, 620, 628, 632, 643]
+    title "leonardomso/rust-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 596 --> 650
+    line [600, 606, 615, 620, 628, 632, 643, 646]
 ```
 
-2026-10-18 600 → 2026-10-27 643（+43）
+2026-10-18 600 → 2026-10-28 646（+46）
 
 
 ---

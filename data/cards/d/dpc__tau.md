@@ -1,6 +1,6 @@
 # dpc/tau
 
-⭐ 106 · Rust · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dpc/tau) · [官网](https://tau-agent.dev/) · 个人维护
+⭐ 106 · Rust · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dpc/tau) · [官网](https://tau-agent.dev/) · 个人维护
 
 **面向 Unix 命令行用户的极简本地 coding agent**
 
@@ -43,12 +43,12 @@ Tau 是一个 Unix 风格的命令行 coding agent，面向希望在本地获得
 ```mermaid
 xychart-beta
     title "dpc/tau 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 104 --> 107
     line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-27 106（+1）
+2026-10-18 105 → 2026-10-28 106（+1）
 
 
 ---

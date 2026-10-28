@@ -1,6 +1,6 @@
 # learning-at-home/hivemind
 
-⭐ 2,546 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/learning-at-home/hivemind) · 组织维护
+⭐ 2,547 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/learning-at-home/hivemind) · 组织维护
 
 **PyTorch 去中心化分布式训练库：跨互联网协同训练大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "learning-at-home/hivemind 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2540 --> 2547
-    line [2541, 2542, 2543, 2545, 2546]
+    title "learning-at-home/hivemind 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2540 --> 2548
+    line [2541, 2542, 2543, 2545, 2546, 2547]
 ```
 
-2026-10-18 2,541 → 2026-10-27 2,546（+5）
+2026-10-18 2,541 → 2026-10-28 2,547（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlcommons/croissant
 
-⭐ 916 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
+⭐ 917 · HTML · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
 
 **面向 ML 数据集的高层元数据格式及 Python 读取库**
 
@@ -45,12 +45,12 @@ Croissant 是一种基于 schema.org Dataset 词汇表的机器学习数据集�
 ```mermaid
 xychart-beta
     title "mlcommons/croissant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 912 --> 917
-    line [913, 914, 915, 916, 916]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 912 --> 918
+    line [913, 914, 915, 916, 917]
 ```
 
-2026-10-18 913 → 2026-10-27 916（+3）
+2026-10-18 913 → 2026-10-28 917（+4）
 
 
 ---

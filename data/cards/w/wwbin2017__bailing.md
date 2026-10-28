@@ -1,6 +1,6 @@
 # wwbin2017/bailing
 
-⭐ 1,785 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/wwbin2017/bailing) · 个人维护 · 中文 README
+⭐ 1,787 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/wwbin2017/bailing) · 个人维护 · 中文 README
 
 **开源语音对话助手：ASR+LLM+TTS 实现低时延语音交互**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wwbin2017/bailing 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1781 --> 1786
-    line [1782, 1784, 1785, 1785]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1781 --> 1788
+    line [1782, 1784, 1785, 1787]
 ```
 
-2026-10-18 1,782 → 2026-10-27 1,785（+3）
+2026-10-18 1,782 → 2026-10-28 1,787（+5）
 
 
 ---

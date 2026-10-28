@@ -1,6 +1,6 @@
 # ReksarGames/RN_AI
 
-⭐ 48 · Python · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI) · 组织维护
+⭐ 50 · Python · 推送 2026-02-24 · [GitHub](https://github.com/ReksarGames/RN_AI) · 组织维护
 
 **基于 YOLO 的 FPS/TPS 游戏自瞄助手（Python/GUI）**
 
@@ -46,12 +46,12 @@ Python 实现的 YOLO 目标检测自瞄工具，面向 FPS/TPS 游戏玩家：�
 ```mermaid
 xychart-beta
     title "ReksarGames/RN_AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 47 --> 51
+    line [48, 50]
 ```
 
-2026-10-18 48 → 2026-10-27 48（+0）
+2026-10-18 48 → 2026-10-28 50（+2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kovname/nano-banana-render 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Kovname/nano-banana-render 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 96 --> 99
-    line [97, 98]
+    line [97, 98, 98]
 ```
 
-2026-10-18 97 → 2026-10-27 98（+1）
+2026-10-18 97 → 2026-10-28 98（+1）
 
 
 ---

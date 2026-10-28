@@ -1,6 +1,6 @@
 # NVIDIA-Merlin/HugeCTR
 
-⭐ 1,072 · C++ · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/NVIDIA-Merlin/HugeCTR) · 组织维护
+⭐ 1,071 · C++ · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/NVIDIA-Merlin/HugeCTR) · 组织维护
 
 **GPU 加速的推荐系统深度学习训练与推理框架**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的 GPU 加速推荐系统框架，面向 CTR 估计等大规模深
 ```mermaid
 xychart-beta
     title "NVIDIA-Merlin/HugeCTR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1071 --> 1074
-    line [1073, 1072, 1072]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1070 --> 1074
+    line [1073, 1072, 1071]
 ```
 
-2026-10-18 1,073 → 2026-10-27 1,072（-1）
+2026-10-18 1,073 → 2026-10-28 1,071（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sPappalard/DatasetEngine
 
-⭐ 31 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sPappalard/DatasetEngine) · [官网](https://github.com/sPappalard/DatasetEngine) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-08-16 · [GitHub](https://github.com/sPappalard/DatasetEngine) · [官网](https://github.com/sPappalard/DatasetEngine) · 个人维护
 
 **本地 GUI 工具：可视化、分析、合并与改进 CV 数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sPappalard/DatasetEngine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 32（+1）
 
 
 ---

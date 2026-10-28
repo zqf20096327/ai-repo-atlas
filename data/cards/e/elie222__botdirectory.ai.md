@@ -1,6 +1,6 @@
 # elie222/botdirectory.ai
 
-⭐ 280 · Astro · MIT · 推送 2026-10-26 · [GitHub](https://github.com/elie222/botdirectory.ai) · [官网](https://botdirectory.ai) · 组织维护
+⭐ 281 · Astro · MIT · 推送 2026-10-27 · [GitHub](https://github.com/elie222/botdirectory.ai) · [官网](https://botdirectory.ai) · 组织维护
 
 **社区维护的 agent 机器人提示词目录网站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elie222/botdirectory.ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 257 --> 282
-    line [259, 265, 273, 275, 276, 278, 280]
+    title "elie222/botdirectory.ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 257 --> 283
+    line [259, 265, 273, 275, 276, 278, 280, 281]
 ```
 
-2026-10-18 259 → 2026-10-27 280（+21）
+2026-10-18 259 → 2026-10-28 281（+22）
 
 
 ---

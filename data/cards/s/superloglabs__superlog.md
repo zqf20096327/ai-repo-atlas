@@ -1,6 +1,6 @@
 # superloglabs/superlog
 
-⭐ 1,473 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/superloglabs/superlog) · [官网](https://superlog.sh) · 组织维护
+⭐ 1,475 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/superloglabs/superlog) · [官网](https://superlog.sh) · 组织维护
 
 **开源 agentic 遥测系统：接入 OTel 数据并用 AI agent 分组诊断事件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "superloglabs/superlog 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1463 --> 1474
-    line [1464, 1467, 1468, 1470, 1471, 1473]
+    title "superloglabs/superlog 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1463 --> 1476
+    line [1464, 1467, 1468, 1470, 1471, 1473, 1475]
 ```
 
-2026-10-18 1,464 → 2026-10-27 1,473（+9）
+2026-10-18 1,464 → 2026-10-28 1,475（+11）
 
 
 ---

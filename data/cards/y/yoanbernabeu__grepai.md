@@ -1,6 +1,6 @@
 # yoanbernabeu/grepai
 
-⭐ 1,925 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yoanbernabeu/grepai) · [官网](https://yoanbernabeu.github.io/grepai/) · 个人维护
+⭐ 1,926 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yoanbernabeu/grepai) · [官网](https://yoanbernabeu.github.io/grepai/) · 个人维护
 
 **面向 AI 代理的本地语义代码搜索与调用图 CLI**
 
@@ -45,13 +45,13 @@ Go 编写的隐私优先 CLI 工具，用向量嵌入实现按语义（意图）
 
 ```mermaid
 xychart-beta
-    title "yoanbernabeu/grepai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1911 --> 1926
-    line [1912, 1915, 1918, 1919, 1921, 1922, 1925]
+    title "yoanbernabeu/grepai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1911 --> 1927
+    line [1912, 1915, 1918, 1919, 1921, 1922, 1925, 1926]
 ```
 
-2026-10-18 1,912 → 2026-10-27 1,925（+13）
+2026-10-18 1,912 → 2026-10-28 1,926（+14）
 
 
 ---

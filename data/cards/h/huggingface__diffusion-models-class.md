@@ -1,6 +1,6 @@
 # huggingface/diffusion-models-class
 
-⭐ 4,382 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/diffusion-models-class) · 组织维护 · 中文 README
+⭐ 4,381 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/diffusion-models-class) · 组织维护 · 中文 README
 
 **Hugging Face 免费扩散模型课程的理论与实训教材**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/diffusion-models-class 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "huggingface/diffusion-models-class 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4377 --> 4385
-    line [4378, 4379, 4380, 4382, 4384, 4383, 4382]
+    line [4378, 4379, 4380, 4382, 4384, 4383, 4382, 4381]
 ```
 
-2026-10-18 4,378 → 2026-10-27 4,382（+4）
+2026-10-18 4,378 → 2026-10-28 4,381（+3）
 
 
 ---

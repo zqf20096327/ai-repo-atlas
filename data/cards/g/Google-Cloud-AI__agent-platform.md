@@ -1,6 +1,6 @@
 # Google-Cloud-AI/agent-platform
 
-⭐ 334 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
+⭐ 335 · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/Google-Cloud-AI/agent-platform) · [官网](https://docs.cloud.google.com/gemini-enterprise-agent-platform) · 组织维护
 
 **Gemini Enterprise Agent Platform 的代码示例与教程策展清单**
 
@@ -44,12 +44,12 @@ Google Cloud AI 组织维护的策展仓库，汇集在 Gemini Enterprise Agent 
 ```mermaid
 xychart-beta
     title "Google-Cloud-AI/agent-platform 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 331 --> 335
-    line [332, 333, 334, 334]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 331 --> 336
+    line [332, 333, 334, 335]
 ```
 
-2026-10-18 332 → 2026-10-27 334（+2）
+2026-10-18 332 → 2026-10-28 335（+3）
 
 
 ---

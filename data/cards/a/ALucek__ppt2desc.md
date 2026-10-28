@@ -1,6 +1,6 @@
 # ALucek/ppt2desc
 
-⭐ 110 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ALucek/ppt2desc) · [官网](https://lucek.ai) · 个人维护
+⭐ 111 · Python · MIT · 推送 2025-11-12 · [GitHub](https://github.com/ALucek/ppt2desc) · [官网](https://lucek.ai) · 个人维护
 
 **用视觉语言模型把 PPT 转成语义丰富文本的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ALucek/ppt2desc 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 109 --> 112
-    line [111, 110, 110]
+    line [111, 110, 111]
 ```
 
-2026-10-18 111 → 2026-10-27 110（-1）
+2026-10-18 111 → 2026-10-28 111（+0）
 
 
 ---

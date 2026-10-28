@@ -1,6 +1,6 @@
 # hwdsl2/self-hosted-ai-stack
 
-⭐ 171 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护
+⭐ 172 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护
 
 **Docker Compose 一键部署的自托管 AI 服务全家桶**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hwdsl2/self-hosted-ai-stack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 166 --> 172
-    line [167, 168, 170, 169, 170, 171]
+    title "hwdsl2/self-hosted-ai-stack 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 166 --> 173
+    line [167, 168, 170, 169, 170, 171, 172]
 ```
 
-2026-10-18 167 → 2026-10-27 171（+4）
+2026-10-18 167 → 2026-10-28 172（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # ollama/ollama-python
 
-⭐ 10,635 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-python) · [官网](https://ollama.com) · 组织维护
+⭐ 10,633 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ollama/ollama-python) · [官网](https://ollama.com) · 组织维护
 
 **Ollama 官方 Python 库：Python 3.8+ 项目接入 Ollama**
 
@@ -45,13 +45,13 @@ Ollama 官方 Python 客户端库，封装 Ollama REST API，提供 chat、gener
 
 ```mermaid
 xychart-beta
-    title "ollama/ollama-python 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "ollama/ollama-python 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 10600 --> 10638
-    line [10603, 10608, 10617, 10622, 10623, 10627, 10630, 10635]
+    line [10603, 10608, 10617, 10622, 10623, 10627, 10630, 10635, 10633]
 ```
 
-2026-10-18 10,603 → 2026-10-27 10,635（+32）
+2026-10-18 10,603 → 2026-10-28 10,633（+30）
 
 
 ---

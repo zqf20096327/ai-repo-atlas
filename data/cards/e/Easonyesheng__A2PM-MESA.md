@@ -46,12 +46,12 @@ Area to Point Matching（A2PM）框架的用户友好实现，包含 SGAM（PR'2
 ```mermaid
 xychart-beta
     title "Easonyesheng/A2PM-MESA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 171 --> 173
     line [172, 172]
 ```
 
-2026-10-18 172 → 2026-10-27 172（+0）
+2026-10-18 172 → 2026-10-28 172（+0）
 
 
 ---

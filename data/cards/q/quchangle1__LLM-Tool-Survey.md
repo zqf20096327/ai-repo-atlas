@@ -1,6 +1,6 @@
 # quchangle1/LLM-Tool-Survey
 
-⭐ 493 · 推送 2026-09-09 · [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) · [官网](https://arxiv.org/abs/2405.17935) · 组织维护 · 中文 README
+⭐ 493 · 推送 2026-10-27 · [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) · [官网](https://arxiv.org/abs/2405.17935) · 组织维护 · 中文 README
 
 **LLM 工具学习（Tool Learning）综述配套论文清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quchangle1/LLM-Tool-Survey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 491 --> 494
     line [492, 493, 493]
 ```
 
-2026-10-18 492 → 2026-10-27 493（+1）
+2026-10-18 492 → 2026-10-28 493（+1）
 
 
 ---

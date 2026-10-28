@@ -1,6 +1,6 @@
 # tomas-gajarsky/facetorch
 
-⭐ 612 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tomas-gajarsky/facetorch) · 个人维护
+⭐ 613 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tomas-gajarsky/facetorch) · 个人维护
 
 **面向开发者与科研的人脸检测与分析 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tomas-gajarsky/facetorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 611 --> 613
-    line [612, 612]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 611 --> 614
+    line [612, 613]
 ```
 
-2026-10-18 612 → 2026-10-27 612（+0）
+2026-10-18 612 → 2026-10-28 613（+1）
 
 
 ---

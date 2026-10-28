@@ -1,6 +1,6 @@
 # caru-ini/novelai-sdk
 
-⭐ 44 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/caru-ini/novelai-sdk) · [官网](https://caru-ini.github.io/novelai-sdk/) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/caru-ini/novelai-sdk) · [官网](https://caru-ini.github.io/novelai-sdk/) · 个人维护 · 中文 README
 
 **NovelAI 图像生成 API 的类型安全 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "caru-ini/novelai-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 43 --> 46
     line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-10-27 44（-1）
+2026-10-18 45 → 2026-10-28 44（-1）
 
 
 ---

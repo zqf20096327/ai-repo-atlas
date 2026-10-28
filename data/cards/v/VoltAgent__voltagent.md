@@ -1,6 +1,6 @@
 # VoltAgent/voltagent
 
-⭐ 10,874 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护 · 中文 README
+⭐ 10,881 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/VoltAgent/voltagent) · [官网](https://voltagent.dev) · 组织维护 · 中文 README
 
 **TypeScript AI Agent 开发框架，含可观测性控制台平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VoltAgent/voltagent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10816 --> 10879
-    line [10821, 10838, 10855, 10860, 10864, 10868, 10874]
+    title "VoltAgent/voltagent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10815 --> 10887
+    line [10821, 10838, 10855, 10860, 10864, 10868, 10874, 10881]
 ```
 
-2026-10-18 10,821 → 2026-10-27 10,874（+53）
+2026-10-18 10,821 → 2026-10-28 10,881（+60）
 
 
 ---

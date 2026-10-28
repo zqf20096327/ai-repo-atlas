@@ -46,12 +46,12 @@ Jarrod Watts 维护的个人 Claude Code 配置仓库，内容多取自社区：
 ```mermaid
 xychart-beta
     title "jarrodwatts/claude-code-config 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 1061 --> 1063
     line [1062, 1062]
 ```
 
-2026-10-18 1,062 → 2026-10-27 1,062（+0）
+2026-10-18 1,062 → 2026-10-28 1,062（+0）
 
 
 ---

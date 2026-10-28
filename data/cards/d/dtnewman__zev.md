@@ -1,6 +1,6 @@
 # dtnewman/zev
 
-⭐ 722 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/dtnewman/zev) · 个人维护
+⭐ 721 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/dtnewman/zev) · 个人维护
 
 **用自然语言查终端命令的 CLI 工具，基于 LLM 生成命令**
 
@@ -45,12 +45,12 @@ Zev 是一个命令行工具，用户输入自然语言描述想做的事，工�
 ```mermaid
 xychart-beta
     title "dtnewman/zev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 719 --> 723
-    line [720, 722, 722]
+    line [720, 722, 721]
 ```
 
-2026-10-18 720 → 2026-10-27 722（+2）
+2026-10-18 720 → 2026-10-28 721（+1）
 
 
 ---

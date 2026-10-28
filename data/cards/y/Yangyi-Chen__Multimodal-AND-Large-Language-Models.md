@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Yangyi-Chen/Multimodal-AND-Large-Language-Models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 763 --> 765
     line [764, 764]
 ```
 
-2026-10-18 764 → 2026-10-27 764（+0）
+2026-10-18 764 → 2026-10-28 764（+0）
 
 
 ---

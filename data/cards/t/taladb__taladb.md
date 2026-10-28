@@ -1,6 +1,6 @@
 # taladb/taladb
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/taladb/taladb) · [官网](https://taladb.dev) · 组织维护
+⭐ 45 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/taladb/taladb) · [官网](https://taladb.dev) · 组织维护
 
 **面向本地优先 AI 应用的嵌入式文档+向量数据库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taladb/taladb 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11 --> 37
-    line [13, 18, 35]
+    title "taladb/taladb 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10 --> 48
+    line [13, 18, 35, 45]
 ```
 
-2026-10-25 13 → 2026-10-27 35（+22）
+2026-10-25 13 → 2026-10-28 45（+32）
 
 
 ---

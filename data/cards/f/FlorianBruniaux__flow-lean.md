@@ -1,6 +1,6 @@
 # FlorianBruniaux/flow-lean
 
-⭐ 22 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/FlorianBruniaux/flow-lean) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/FlorianBruniaux/flow-lean) · 个人维护
 
 **模型无关的 LLM agent 输出风格控制技能：简洁、行动优先、保留证据与风险**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlorianBruniaux/flow-lean 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 20 --> 23
-    line [21, 22]
+    title "FlorianBruniaux/flow-lean 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-27 22（+1）
+2026-10-18 21 → 2026-10-28 23（+2）
 
 
 ---

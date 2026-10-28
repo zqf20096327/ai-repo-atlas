@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "RYOITABASHI/Shelly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "RYOITABASHI/Shelly 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-10-27 67（+1）
+2026-10-18 66 → 2026-10-28 67（+1）
 
 
 ---

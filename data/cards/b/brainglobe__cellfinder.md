@@ -1,6 +1,6 @@
 # brainglobe/cellfinder
 
-⭐ 233 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/brainglobe/cellfinder) · [官网](https://brainglobe.info/documentation/cellfinder/index.html) · 组织维护
+⭐ 232 · Python · BSD-3-Clause · 推送 2026-10-23 · [GitHub](https://github.com/brainglobe/cellfinder) · [官网](https://brainglobe.info/documentation/cellfinder/index.html) · 组织维护
 
 **科研用户在大体积 3D 显微图像中自动检测细胞**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brainglobe/cellfinder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 230 --> 234
-    line [231, 232, 233, 233]
+    line [231, 232, 233, 232]
 ```
 
-2026-10-18 231 → 2026-10-27 233（+2）
+2026-10-18 231 → 2026-10-28 232（+1）
 
 
 ---

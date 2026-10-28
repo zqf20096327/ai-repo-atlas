@@ -1,6 +1,6 @@
 # awesome-vibe-coding/awesome-vibe-coding
 
-⭐ 879 · HTML · CC0-1.0 · 推送 2026-08-13 · [GitHub](https://github.com/awesome-vibe-coding/awesome-vibe-coding) · [官网](https://vibecoding.rest/) · 组织维护
+⭐ 880 · HTML · CC0-1.0 · 推送 2026-08-13 · [GitHub](https://github.com/awesome-vibe-coding/awesome-vibe-coding) · [官网](https://vibecoding.rest/) · 组织维护
 
 **Vibe Coding 工具与资源精选清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awesome-vibe-coding/awesome-vibe-coding 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 870 --> 880
-    line [871, 874, 876, 878, 879, 879]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 870 --> 881
+    line [871, 874, 876, 878, 879, 880]
 ```
 
-2026-10-18 871 → 2026-10-27 879（+8）
+2026-10-18 871 → 2026-10-28 880（+9）
 
 
 ---

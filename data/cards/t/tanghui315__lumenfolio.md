@@ -1,6 +1,6 @@
 # tanghui315/lumenfolio
 
-⭐ 24 · Rust · AGPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/tanghui315/lumenfolio) · 个人维护 · 中文 README
+⭐ 25 · Rust · AGPL-3.0 · 推送 2026-09-03 · [GitHub](https://github.com/tanghui315/lumenfolio) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 知识库：汇集文档笔记并可提问溯源**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tanghui315/lumenfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 25（+2）
 
 
 ---

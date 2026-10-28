@@ -1,6 +1,6 @@
 # Fabian-Galvez/DensePack
 
-⭐ 32 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Fabian-Galvez/DensePack) · [官网](https://fabian-galvez.github.io/DensePack/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Fabian-Galvez/DensePack) · [官网](https://fabian-galvez.github.io/DensePack/) · 个人维护
 
 **把文本打包成图像供 Claude Code 阅读、降低 token 消耗的插件**
 
@@ -46,12 +46,12 @@ Claude Code 插件，配合右键工具与 HTML 应用：将文本文件与 Bash
 ```mermaid
 xychart-beta
     title "Fabian-Galvez/DensePack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 26 --> 34
     line [27, 29, 31, 33, 32, 32]
 ```
 
-2026-10-18 27 → 2026-10-27 32（+5）
+2026-10-18 27 → 2026-10-28 32（+5）
 
 
 ---

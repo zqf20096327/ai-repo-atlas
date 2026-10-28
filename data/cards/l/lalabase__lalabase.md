@@ -1,6 +1,6 @@
 # lalabase/lalabase
 
-⭐ 54 · Ruby · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/lalabase/lalabase) · [官网](https://lalabase.com) · 组织维护
+⭐ 62 · Ruby · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/lalabase/lalabase) · [官网](https://lalabase.com) · 组织维护
 
 **自托管的项目管理系统：工单/计时/文档/会议，AI 助手带出处引用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lalabase/lalabase 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2 --> 58
-    line [6, 8, 38, 46, 47, 48, 54]
+    title "lalabase/lalabase 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1 --> 67
+    line [6, 8, 38, 46, 47, 48, 54, 62]
 ```
 
-2026-10-19 6 → 2026-10-27 54（+48）
+2026-10-19 6 → 2026-10-28 62（+56）
 
 
 ---

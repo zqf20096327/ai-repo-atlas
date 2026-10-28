@@ -1,6 +1,6 @@
 # ProteomicsML/ProteomicsML
 
-⭐ 61 · Jupyter Notebook · CC-BY-4.0 · 推送 2025-10-31 · [GitHub](https://github.com/ProteomicsML/ProteomicsML) · [官网](https://www.proteomicsml.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **蛋白质组学机器学习的社区数据集与教程平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

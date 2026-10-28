@@ -1,6 +1,6 @@
 # junxchan54-maker/mcd-cn-assistant
 
-⭐ 396 · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/junxchan54-maker/mcd-cn-assistant) · 个人维护 · 中文 README
+⭐ 398 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/junxchan54-maker/mcd-cn-assistant) · 个人维护 · 中文 README
 
 **麦当劳中国 MCP 助手技能：把 35 个官方工具编排成点餐/活动/拼单分账流程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "junxchan54-maker/mcd-cn-assistant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 435
-    line [49, 53, 107, 6, 7, 395, 396]
+    title "junxchan54-maker/mcd-cn-assistant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 437
+    line [49, 53, 107, 6, 7, 395, 396, 398]
 ```
 
-2026-10-18 49 → 2026-10-27 396（+347）
+2026-10-18 49 → 2026-10-28 398（+349）
 
 
 ---

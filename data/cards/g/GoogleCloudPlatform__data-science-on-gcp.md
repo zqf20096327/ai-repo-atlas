@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/data-science-on-gcp
 
-⭐ 1,432 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/GoogleCloudPlatform/data-science-on-gcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **《Data Science on GCP》一书配套源码与实验集合**
 
@@ -11,7 +11,7 @@ O'Reilly《Data Science on the Google Cloud Platform》（第2版，2022）的�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

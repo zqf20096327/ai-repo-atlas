@@ -1,6 +1,6 @@
 # Anil-matcha/open-duet
 
-⭐ 6,197 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
+⭐ 6,225 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anil-matcha/open-duet) · 个人维护
 
 **自托管的 AI 同事工作台：带记忆、例程与审批的命名 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/open-duet 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6009 --> 6214
-    line [6026, 6102, 6141, 6170, 6197]
+    title "Anil-matcha/open-duet 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6007 --> 6244
+    line [6026, 6102, 6141, 6170, 6197, 6225]
 ```
 
-2026-10-23 6,026 → 2026-10-27 6,197（+171）
+2026-10-23 6,026 → 2026-10-28 6,225（+199）
 
 
 ---

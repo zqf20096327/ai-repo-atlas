@@ -1,6 +1,6 @@
 # lappemic/awesome-ai-built-games
 
-⭐ 104 · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/lappemic/awesome-ai-built-games) · 个人维护
+⭐ 105 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/lappemic/awesome-ai-built-games) · 个人维护
 
 **AI 编程代理制作的可玩游戏策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lappemic/awesome-ai-built-games 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 90 --> 105
-    line [91, 92, 97, 99, 103, 104]
+    title "lappemic/awesome-ai-built-games 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 90 --> 106
+    line [91, 92, 97, 99, 103, 104, 105]
 ```
 
-2026-10-18 91 → 2026-10-27 104（+13）
+2026-10-18 91 → 2026-10-28 105（+14）
 
 
 ---

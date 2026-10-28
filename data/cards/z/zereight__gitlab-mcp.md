@@ -1,6 +1,6 @@
 # zereight/gitlab-mcp
 
-⭐ 2,067 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zereight/gitlab-mcp) · [官网](https://zereight.github.io/gitlab-mcp/) · 个人维护 · 中文 README
+⭐ 2,072 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zereight/gitlab-mcp) · [官网](https://zereight.github.io/gitlab-mcp/) · 个人维护 · 中文 README
 
 **面向 AI agent 工作流的 GitLab MCP 服务器（276 个工具）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zereight/gitlab-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2048 --> 2068
-    line [2049, 2053, 2057, 2061, 2063, 2064, 2067]
+    title "zereight/gitlab-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2047 --> 2074
+    line [2049, 2053, 2057, 2061, 2063, 2064, 2067, 2072]
 ```
 
-2026-10-18 2,049 → 2026-10-27 2,067（+18）
+2026-10-18 2,049 → 2026-10-28 2,072（+23）
 
 
 ---

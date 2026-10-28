@@ -1,6 +1,6 @@
 # gabelul/slopbuster
 
-⭐ 44 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/gabelul/slopbuster) · 个人维护
+⭐ 45 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/gabelul/slopbuster) · 个人维护
 
 **移除文本/代码/学术写作中 AI 特征的 markdown agent 技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gabelul/slopbuster 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-18 42 → 2026-10-27 44（+2）
+2026-10-18 42 → 2026-10-28 45（+3）
 
 
 ---

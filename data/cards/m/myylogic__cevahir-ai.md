@@ -1,6 +1,6 @@
 # myylogic/cevahir-ai
 
-⭐ 266 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/myylogic/cevahir-ai) · 个人维护
+⭐ 267 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/myylogic/cevahir-ai) · 个人维护
 
 **面向土耳其语的 LLM 训练与认知对话引擎，供开发者自训模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "myylogic/cevahir-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 254 --> 267
-    line [255, 257, 260, 263, 265, 266]
+    title "myylogic/cevahir-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 254 --> 268
+    line [255, 257, 260, 263, 265, 266, 267]
 ```
 
-2026-10-18 255 → 2026-10-27 266（+11）
+2026-10-18 255 → 2026-10-28 267（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # vllm-project/guidellm
 
-⭐ 1,726 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护
+⭐ 1,727 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/guidellm) · [官网](https://vllm-project.github.io/guidellm/) · 组织维护
 
 **面向 SLO 的 LLM 推理服务基准测试与评估平台**
 
@@ -46,13 +46,13 @@ vLLM 项目下的 LLM 推理基准评测平台：模拟与 OpenAI 兼容及 vLLM
 
 ```mermaid
 xychart-beta
-    title "vllm-project/guidellm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1697 --> 1728
-    line [1699, 1705, 1712, 1714, 1722, 1720, 1723, 1726]
+    title "vllm-project/guidellm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1697 --> 1729
+    line [1699, 1705, 1712, 1714, 1722, 1720, 1723, 1726, 1727]
 ```
 
-2026-10-18 1,699 → 2026-10-27 1,726（+27）
+2026-10-18 1,699 → 2026-10-28 1,727（+28）
 
 
 ---

@@ -1,6 +1,6 @@
 # Samsung/qaboard
 
-⭐ 55 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Samsung/qaboard) · [官网](https://samsung.github.io/qaboard) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向算法/ML/性能工程的实验追踪与可视化平台**
 
@@ -11,7 +11,7 @@ QA-Board 是开源的实验追踪框架，供算法、机器学习与性能工�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

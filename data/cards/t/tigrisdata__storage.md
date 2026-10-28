@@ -1,6 +1,6 @@
 # tigrisdata/storage
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tigrisdata/storage) · [官网](https://www.tigrisdata.com) · 组织维护
+⭐ 94 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tigrisdata/storage) · [官网](https://www.tigrisdata.com) · 组织维护
 
 **Tigris 对象存储的 JavaScript/TypeScript SDK 合集（含 AI agent 工具）**
 
@@ -46,12 +46,12 @@ Tigris 是全球分布式、S3 兼容的对象存储服务，本 monorepo 收录
 ```mermaid
 xychart-beta
     title "tigrisdata/storage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 92 --> 95
     line [93, 94, 94]
 ```
 
-2026-10-18 93 → 2026-10-27 94（+1）
+2026-10-18 93 → 2026-10-28 94（+1）
 
 
 ---

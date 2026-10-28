@@ -1,6 +1,6 @@
 # kellyiscute/nestjs-llm-tools
 
-⭐ 174 · TypeScript · 推送 2026-06-29 · [GitHub](https://github.com/kellyiscute/nestjs-llm-tools) · 个人维护
+⭐ 175 · TypeScript · 推送 2026-06-29 · [GitHub](https://github.com/kellyiscute/nestjs-llm-tools) · 个人维护
 
 **用装饰器把 NestJS 方法定义为 LLM 函数调用工具的模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kellyiscute/nestjs-llm-tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 172 --> 197
-    line [195, 174, 174]
+    line [195, 174, 175]
 ```
 
-2026-10-18 195 → 2026-10-27 174（-21）
+2026-10-18 195 → 2026-10-28 175（-20）
 
 
 ---

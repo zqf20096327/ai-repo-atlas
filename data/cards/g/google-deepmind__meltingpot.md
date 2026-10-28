@@ -1,6 +1,6 @@
 # google-deepmind/meltingpot
 
-⭐ 899 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/meltingpot) · 组织维护
+⭐ 900 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/meltingpot) · 组织维护
 
 **多智能体强化学习评测基准：50+ substrates、256+ 测试场景**
 
@@ -46,12 +46,12 @@ DeepMind 维护的多智能体强化学习（MARL）评测套件，提供 50 余
 ```mermaid
 xychart-beta
     title "google-deepmind/meltingpot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 889 --> 900
-    line [890, 891, 894, 896, 897, 899, 899]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 889 --> 901
+    line [890, 891, 894, 896, 897, 899, 900]
 ```
 
-2026-10-18 890 → 2026-10-27 899（+9）
+2026-10-18 890 → 2026-10-28 900（+10）
 
 
 ---

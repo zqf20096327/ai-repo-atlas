@@ -1,6 +1,6 @@
 # jerryshell/whisper.cpp-windows-vulkan-bin
 
-⭐ 25 · 推送 2026-06-28 · [GitHub](https://github.com/jerryshell/whisper.cpp-windows-vulkan-bin) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **whisper.cpp 的 Windows Vulkan GPU 预编译二进制发布**
 

@@ -1,6 +1,6 @@
 # code-yeongyu/oh-my-openagent
 
-⭐ 70,360 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [官网](https://omo.dev) · 个人维护 · 中文 README
+⭐ 70,395 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [官网](https://omo.dev) · 个人维护 · 中文 README
 
 **单命令编码 Agent：编排多 Agent 图执行研究与编码任务**
 
@@ -51,13 +51,13 @@ OmO 是一个通过 `omo` 命令运行的终端编码 Agent，运行在自研的
 
 ```mermaid
 xychart-beta
-    title "code-yeongyu/oh-my-openagent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 70112 --> 70382
-    line [70134, 70198, 70243, 70273, 70290, 70306, 70327, 70360]
+    title "code-yeongyu/oh-my-openagent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 70108 --> 70421
+    line [70134, 70198, 70243, 70273, 70290, 70306, 70327, 70360, 70395]
 ```
 
-2026-10-18 70,134 → 2026-10-27 70,360（+226）
+2026-10-18 70,134 → 2026-10-28 70,395（+261）
 
 
 ---

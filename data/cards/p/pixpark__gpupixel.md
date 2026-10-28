@@ -1,6 +1,6 @@
 # pixpark/gpupixel
 
-⭐ 2,475 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/pixpark/gpupixel) · [官网](https://gpupixel.pixpark.net/) · 组织维护 · 中文 README
+⭐ 2,476 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/pixpark/gpupixel) · [官网](https://gpupixel.pixpark.net/) · 组织维护 · 中文 README
 
 **跨平台 C++/OpenGL 实时图像视频美颜滤镜库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixpark/gpupixel 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2459 --> 2476
-    line [2460, 2466, 2469, 2470, 2471, 2474, 2475]
+    title "pixpark/gpupixel 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2459 --> 2477
+    line [2460, 2466, 2469, 2470, 2471, 2474, 2475, 2476]
 ```
 
-2026-10-18 2,460 → 2026-10-27 2,475（+15）
+2026-10-18 2,460 → 2026-10-28 2,476（+16）
 
 
 ---

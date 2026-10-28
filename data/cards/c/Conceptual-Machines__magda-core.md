@@ -1,6 +1,6 @@
 # Conceptual-Machines/magda-core
 
-⭐ 249 · C++ · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Conceptual-Machines/magda-core) · [官网](https://magda.land/) · 组织维护 · 中文 README
+⭐ 251 · C++ · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Conceptual-Machines/magda-core) · [官网](https://magda.land/) · 组织维护 · 中文 README
 
 **内置 AI 聊天助手的开源 DAW（数字音频工作站）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Conceptual-Machines/magda-core 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 238 --> 250
-    line [239, 243, 245, 246, 247, 249, 249]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 238 --> 252
+    line [239, 243, 245, 246, 247, 249, 251]
 ```
 
-2026-10-18 239 → 2026-10-27 249（+10）
+2026-10-18 239 → 2026-10-28 251（+12）
 
 
 ---

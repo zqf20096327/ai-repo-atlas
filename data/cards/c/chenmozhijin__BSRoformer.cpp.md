@@ -1,6 +1,6 @@
 # chenmozhijin/BSRoformer.cpp
 
-⭐ 42 · C++ · MIT · 推送 2026-06-16 · [GitHub](https://github.com/chenmozhijin/BSRoformer.cpp) · 个人维护 · 中文 README
+⭐ 43 · C++ · MIT · 推送 2026-06-16 · [GitHub](https://github.com/chenmozhijin/BSRoformer.cpp) · 个人维护 · 中文 README
 
 **纯 C++ 实现的 BS/Mel-Band Roformer 人声分离 GGML 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenmozhijin/BSRoformer.cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 43（+1）
 
 
 ---

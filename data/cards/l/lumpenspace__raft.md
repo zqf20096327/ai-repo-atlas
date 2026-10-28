@@ -1,6 +1,6 @@
 # lumpenspace/raft
 
-⭐ 177 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/lumpenspace/raft) · [官网](https://raft.hyperplex.org) · 个人维护
+⭐ 177 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lumpenspace/raft) · [官网](https://raft.hyperplex.org) · 个人维护
 
 **从某人网络足迹微调对话人格模型的流水线工具**
 
@@ -46,12 +46,12 @@ RAFT（Retrieval-Augmented Fine-Tuning）提供从公开写作构建对话人格
 ```mermaid
 xychart-beta
     title "lumpenspace/raft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 175 --> 178
     line [176, 177, 177]
 ```
 
-2026-10-18 176 → 2026-10-27 177（+1）
+2026-10-18 176 → 2026-10-28 177（+1）
 
 
 ---

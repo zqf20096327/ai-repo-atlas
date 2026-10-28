@@ -1,6 +1,6 @@
 # a-lottes/aSPARK
 
-⭐ 24 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a-lottes/aSPARK) · [官网](https://aspark.lottes.dev) · 个人维护
+⭐ 24 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/a-lottes/aSPARK) · [官网](https://aspark.lottes.dev) · 个人维护
 
 **Claude Code 插件：带质量门禁的敏捷 AI 产品团队流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "a-lottes/aSPARK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

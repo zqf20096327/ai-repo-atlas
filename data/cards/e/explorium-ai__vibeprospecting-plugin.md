@@ -1,6 +1,6 @@
 # explorium-ai/vibeprospecting-plugin
 
-⭐ 263 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/explorium-ai/vibeprospecting-plugin) · [官网](https://www.vibeprospecting.ai) · 组织维护
+⭐ 270 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/explorium-ai/vibeprospecting-plugin) · [官网](https://www.vibeprospecting.ai) · 组织维护
 
 **面向 AI agent 的 B2B 数据插件：搜索公司与联系人并建线索名单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "explorium-ai/vibeprospecting-plugin 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 192 --> 269
-    line [198, 213, 230, 237, 244, 250, 256, 263]
+    title "explorium-ai/vibeprospecting-plugin 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 191 --> 277
+    line [198, 213, 230, 237, 244, 250, 256, 263, 270]
 ```
 
-2026-10-18 198 → 2026-10-27 263（+65）
+2026-10-18 198 → 2026-10-28 270（+72）
 
 
 ---

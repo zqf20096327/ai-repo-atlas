@@ -1,6 +1,6 @@
 # awaescher/OllamaSharp
 
-⭐ 1,409 · C# · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awaescher/OllamaSharp) · [官网](https://www.nuget.org/packages/OllamaSharp) · 个人维护
+⭐ 1,408 · C# · MIT · 推送 2026-09-30 · [GitHub](https://github.com/awaescher/OllamaSharp) · [官网](https://www.nuget.org/packages/OllamaSharp) · 个人维护
 
 **.NET 访问 Ollama API 的绑定库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awaescher/OllamaSharp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1407 --> 1412
-    line [1408, 1409, 1410, 1411, 1409, 1409]
+    line [1408, 1409, 1410, 1411, 1409, 1408]
 ```
 
-2026-10-18 1,408 → 2026-10-27 1,409（+1）
+2026-10-18 1,408 → 2026-10-28 1,408（+0）
 
 
 ---

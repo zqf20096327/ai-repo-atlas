@@ -1,6 +1,6 @@
 # fivetran/great_expectations
 
-⭐ 11,904 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fivetran/great_expectations) · [官网](https://docs.greatexpectations.io/) · 组织维护
+⭐ 11,905 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/fivetran/great_expectations) · [官网](https://docs.greatexpectations.io/) · 组织维护
 
 **数据团队的 Python 数据质量验证与剖析库**
 
@@ -44,13 +44,13 @@ GX Core 是用 Python 编写的开源数据质量框架：核心概念为 Expect
 
 ```mermaid
 xychart-beta
-    title "fivetran/great_expectations 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11874 --> 11906
-    line [11876, 11885, 11890, 11897, 11899, 11901, 11904]
+    title "fivetran/great_expectations 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 11874 --> 11907
+    line [11876, 11885, 11890, 11897, 11899, 11901, 11904, 11905]
 ```
 
-2026-10-18 11,876 → 2026-10-27 11,904（+28）
+2026-10-18 11,876 → 2026-10-28 11,905（+29）
 
 
 ---

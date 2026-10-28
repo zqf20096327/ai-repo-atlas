@@ -1,6 +1,6 @@
 # h5i-dev/awesome-ai-agent-incidents
 
-⭐ 59 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/h5i-dev/awesome-ai-agent-incidents) · [官网](https://h5i.dev/) · 组织维护
+⭐ 59 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/h5i-dev/awesome-ai-agent-incidents) · [官网](https://h5i.dev/) · 组织维护
 
 **自主 AI agent 安全事件与攻防对策的策展语料清单**
 
@@ -45,12 +45,12 @@ Awesome 风格的策展清单，汇编针对自主 AI agent 的真实安全事�
 ```mermaid
 xychart-beta
     title "h5i-dev/awesome-ai-agent-incidents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 56 --> 60
     line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-10-27 59（+2）
+2026-10-18 57 → 2026-10-28 59（+2）
 
 
 ---

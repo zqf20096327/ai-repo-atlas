@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GewoonJaap/gemini-cli-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "GewoonJaap/gemini-cli-openai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 893 --> 896
-    line [895, 894]
+    line [895, 894, 894]
 ```
 
-2026-10-18 895 → 2026-10-27 894（-1）
+2026-10-18 895 → 2026-10-28 894（-1）
 
 
 ---

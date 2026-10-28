@@ -1,6 +1,6 @@
 # koltyakov/browser-bridge
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/koltyakov/browser-bridge) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/koltyakov/browser-bridge) · 个人维护
 
 **让编码 Agent 检查/操控真实 Chrome 标签页的本地浏览器桥**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "koltyakov/browser-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-27 27（+1）
+2026-10-18 26 → 2026-10-28 28（+2）
 
 
 ---

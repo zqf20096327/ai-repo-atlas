@@ -1,6 +1,6 @@
 # energnn/energnn
 
-⭐ 32 · Python · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/energnn/energnn) · [官网](https://energnn.readthedocs.io) · 组织维护
+⭐ 32 · Python · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/energnn/energnn) · [官网](https://energnn.readthedocs.io) · 组织维护
 
 **面向能源网络的图神经网络库，基于 JAX/Flax**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "energnn/energnn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

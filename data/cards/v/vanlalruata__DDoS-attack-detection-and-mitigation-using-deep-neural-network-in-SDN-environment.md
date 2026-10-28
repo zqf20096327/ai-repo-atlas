@@ -1,6 +1,6 @@
 # vanlalruata/DDoS-attack-detection-and-mitigation-using-deep-neural-network-in-SDN-environment
 
-⭐ 22 · Python · 推送 2025-10-31 · [GitHub](https://github.com/vanlalruata/DDoS-attack-detection-and-mitigation-using-deep-neural-network-in-SDN-environment) · [官网](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005710) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **SDN 环境下基于 DNN 的 DDoS 攻击检测与缓解研究代码**
 

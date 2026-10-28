@@ -1,6 +1,6 @@
 # wangmiaozero/pi-harness
 
-⭐ 171 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护
+⭐ 176 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护
 
 **为 Pi Coding Agent 提供可视化运维工作台的桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangmiaozero/pi-harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "wangmiaozero/pi-harness 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 73 --> 1124
-    line [1037, 998, 982, 160, 164, 167, 171]
+    line [1037, 998, 982, 160, 164, 167, 171, 176]
 ```
 
-2026-10-18 1,037 → 2026-10-27 171（-866）
+2026-10-18 1,037 → 2026-10-28 176（-861）
 
 
 ---

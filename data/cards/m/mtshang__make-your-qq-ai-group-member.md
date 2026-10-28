@@ -1,6 +1,6 @@
 # mtshang/make-your-qq-ai-group-member
 
-⭐ 28 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mtshang/make-your-qq-ai-group-member) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/mtshang/make-your-qq-ai-group-member) · 个人维护 · 中文 README
 
 **一键部署 QQ AI 群友的 Agent Skill 部署编排包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mtshang/make-your-qq-ai-group-member 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4 --> 30
-    line [6, 13, 21, 23, 24, 27, 28]
+    title "mtshang/make-your-qq-ai-group-member 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4 --> 31
+    line [6, 13, 21, 23, 24, 27, 28, 29]
 ```
 
-2026-10-18 6 → 2026-10-27 28（+22）
+2026-10-18 6 → 2026-10-28 29（+23）
 
 
 ---

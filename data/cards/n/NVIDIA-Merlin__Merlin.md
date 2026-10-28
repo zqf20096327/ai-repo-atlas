@@ -1,6 +1,6 @@
 # NVIDIA-Merlin/Merlin
 
-⭐ 909 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/NVIDIA-Merlin/Merlin) · 组织维护
+⭐ 911 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/NVIDIA-Merlin/Merlin) · 组织维护
 
 **GPU 加速的端到端推荐系统开源库，覆盖 ETL/训练/部署**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的推荐系统加速库集合，面向数据科学家、机器学�
 ```mermaid
 xychart-beta
     title "NVIDIA-Merlin/Merlin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 908 --> 910
-    line [909, 909]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 908 --> 912
+    line [909, 911]
 ```
 
-2026-10-18 909 → 2026-10-27 909（+0）
+2026-10-18 909 → 2026-10-28 911（+2）
 
 
 ---

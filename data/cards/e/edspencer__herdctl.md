@@ -1,6 +1,6 @@
 # edspencer/herdctl
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/edspencer/herdctl) · [官网](https://herdctl.dev) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/edspencer/herdctl) · [官网](https://herdctl.dev) · 个人维护
 
 **Claude Code 代理编排层：定时调度、Docker 隔离与 Discord/Slack 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edspencer/herdctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 38（+0）
 
 
 ---

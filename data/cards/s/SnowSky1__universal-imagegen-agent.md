@@ -1,6 +1,6 @@
 # SnowSky1/universal-imagegen-agent
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/SnowSky1/universal-imagegen-agent) · 个人维护 · 中文 README
+⭐ 233 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/SnowSky1/universal-imagegen-agent) · 个人维护 · 中文 README
 
 **给任意智能体的生图 CLI/skill：复用 Codex 提示词工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SnowSky1/universal-imagegen-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 190 --> 235
-    line [193, 232, 232]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 189 --> 237
+    line [193, 232, 233]
 ```
 
-2026-10-18 193 → 2026-10-27 232（+39）
+2026-10-18 193 → 2026-10-28 233（+40）
 
 
 ---

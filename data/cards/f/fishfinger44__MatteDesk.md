@@ -1,6 +1,6 @@
 # fishfinger44/MatteDesk
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/fishfinger44/MatteDesk) · 个人维护
+⭐ 32 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/fishfinger44/MatteDesk) · 个人维护
 
 **浏览器中的 VFX 抠像工具：AI 生成多对象 alpha matte 并导出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fishfinger44/MatteDesk 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 18 --> 32
-    line [19, 27, 29, 31]
+    title "fishfinger44/MatteDesk 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18 --> 33
+    line [19, 27, 29, 31, 32]
 ```
 
-2026-10-22 19 → 2026-10-27 31（+12）
+2026-10-22 19 → 2026-10-28 32（+13）
 
 
 ---

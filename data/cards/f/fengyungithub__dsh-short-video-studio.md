@@ -1,6 +1,6 @@
 # fengyungithub/dsh-short-video-studio
 
-⭐ 32 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/fengyungithub/dsh-short-video-studio) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/fengyungithub/dsh-short-video-studio) · 个人维护 · 中文 README
 
 **本地 ComfyUI 驱动的 AI 短视频/动画创作工作台插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fengyungithub/dsh-short-video-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 30, 31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 26 --> 35
+    line [27, 28, 30, 31, 32, 34]
 ```
 
-2026-10-18 27 → 2026-10-27 32（+5）
+2026-10-18 27 → 2026-10-28 34（+7）
 
 
 ---

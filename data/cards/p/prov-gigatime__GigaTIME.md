@@ -1,6 +1,6 @@
 # prov-gigatime/GigaTIME
 
-⭐ 413 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/prov-gigatime/GigaTIME) · 组织维护
+⭐ 414 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/prov-gigatime/GigaTIME) · 组织维护
 
 **从常规 H&E 病理切片生成虚拟 mIF 空间蛋白质组学图谱的深度学习模型**
 
@@ -45,12 +45,12 @@ GigaTIME 官方实现（Cell 论文），基于 GigaPath 全切片基础模型�
 ```mermaid
 xychart-beta
     title "prov-gigatime/GigaTIME 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 412 --> 414
-    line [413, 413]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 412 --> 415
+    line [413, 414]
 ```
 
-2026-10-18 413 → 2026-10-27 413（+0）
+2026-10-18 413 → 2026-10-28 414（+1）
 
 
 ---

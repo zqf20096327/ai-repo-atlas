@@ -1,6 +1,6 @@
 # lbedner/aegis-stack
 
-⭐ 145 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lbedner/aegis-stack) · [官网](https://aegis-stack.io) · 个人维护
+⭐ 145 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lbedner/aegis-stack) · [官网](https://aegis-stack.io) · 个人维护
 
 **生成生产级 FastAPI 应用的 CLI 脚手架，可增删组件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lbedner/aegis-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-10-27 145（+0）
+2026-10-18 145 → 2026-10-28 145（+0）
 
 
 ---

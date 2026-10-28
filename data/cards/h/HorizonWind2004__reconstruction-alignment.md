@@ -45,13 +45,13 @@ ICLR 2026 论文 RecA 的官方开源实现。核心机制是让预训练统一�
 
 ```mermaid
 xychart-beta
-    title "HorizonWind2004/reconstruction-alignment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "HorizonWind2004/reconstruction-alignment 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 418 --> 421
-    line [419, 420]
+    line [419, 420, 420]
 ```
 
-2026-10-18 419 → 2026-10-27 420（+1）
+2026-10-18 419 → 2026-10-28 420（+1）
 
 
 ---

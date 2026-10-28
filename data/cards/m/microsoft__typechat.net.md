@@ -1,6 +1,6 @@
 # microsoft/typechat.net
 
-⭐ 230 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/typechat.net) · 组织维护
+⭐ 230 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/typechat.net) · 组织维护
 
 **.NET 库：用强类型 schema 把自然语言意图翻译为 JSON 对象与程序**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/typechat.net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-18 230 → 2026-10-27 230（+0）
+2026-10-18 230 → 2026-10-28 230（+0）
 
 
 ---

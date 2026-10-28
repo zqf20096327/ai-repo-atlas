@@ -1,6 +1,6 @@
 # microsoft/argos
 
-⭐ 42 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/microsoft/argos) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/argos) · 组织维护
 
 **用 LLM agent 自动生成可解释时序异常检测规则的系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/argos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 39 --> 43
     line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-10-27 42（+2）
+2026-10-18 40 → 2026-10-28 42（+2）
 
 
 ---

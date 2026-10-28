@@ -46,12 +46,12 @@ ParkPow/Plate Recognizer 官方维护的示例与工具仓库：围绕 Snapshot�
 ```mermaid
 xychart-beta
     title "parkpow/deep-license-plate-recognition 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 670 --> 672
     line [671, 671]
 ```
 
-2026-10-18 671 → 2026-10-27 671（+0）
+2026-10-18 671 → 2026-10-28 671（+0）
 
 
 ---

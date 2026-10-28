@@ -1,6 +1,6 @@
 # peterdsharpe/NeuralFoil
 
-⭐ 497 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/peterdsharpe/NeuralFoil) · 个人维护
+⭐ 498 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/peterdsharpe/NeuralFoil) · 个人维护
 
 **给飞机设计者的翼型气动快速分析工具，机器学习替代 XFoil**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peterdsharpe/NeuralFoil 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 492 --> 498
-    line [493, 495, 496, 497, 497]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 492 --> 499
+    line [493, 495, 496, 497, 498]
 ```
 
-2026-10-18 493 → 2026-10-27 497（+4）
+2026-10-18 493 → 2026-10-28 498（+5）
 
 
 ---

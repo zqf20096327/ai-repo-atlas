@@ -1,6 +1,6 @@
 # AgentSafeLabs/safelabs-eval
 
-⭐ 950 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AgentSafeLabs/safelabs-eval) · [官网](https://agentsafelabs.com) · 组织维护
+⭐ 964 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AgentSafeLabs/safelabs-eval) · [官网](https://agentsafelabs.com) · 组织维护
 
 **AI agent 红队评测框架：300 条对抗提示跨 10 类安全检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentSafeLabs/safelabs-eval 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 531 --> 988
-    line [569, 772, 898, 900, 923, 935, 940, 950]
+    title "AgentSafeLabs/safelabs-eval 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 530 --> 1003
+    line [569, 772, 898, 900, 923, 935, 940, 950, 964]
 ```
 
-2026-10-18 569 → 2026-10-27 950（+381）
+2026-10-18 569 → 2026-10-28 964（+395）
 
 
 ---

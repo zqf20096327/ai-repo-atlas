@@ -1,6 +1,6 @@
 # XimilalaXiang/DeLive
 
-⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/XimilalaXiang/DeLive) · [官网](https://delive.me) · 个人维护 · 中文 README
+⭐ 268 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/XimilalaXiang/DeLive) · [官网](https://delive.me) · 个人维护 · 中文 README
 
 **桌面系统音频转录工作台：实时字幕 + 14 种 ASR 后端 + AI 审阅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XimilalaXiang/DeLive 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 266 --> 275
-    line [272, 274, 273, 272, 267, 267]
+    line [272, 274, 273, 272, 267, 268]
 ```
 
-2026-10-18 272 → 2026-10-27 267（-5）
+2026-10-18 272 → 2026-10-28 268（-4）
 
 
 ---

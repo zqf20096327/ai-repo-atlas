@@ -43,12 +43,12 @@ FIAP 高校 'Disruptive Architectures: IA e IoT' 课程的教学仓库，存放�
 ```mermaid
 xychart-beta
     title "arnaldojr/DisruptiveArchitectures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # aniketpotabatti/Data-Science-EBooks
 
-⭐ 1,003 · 推送 2026-10-09 · [GitHub](https://github.com/aniketpotabatti/Data-Science-EBooks) · [官网](https://github.com/aniketpotabatti/Data-Science-EBooks) · 个人维护
+⭐ 1,004 · 推送 2026-10-09 · [GitHub](https://github.com/aniketpotabatti/Data-Science-EBooks) · [官网](https://github.com/aniketpotabatti/Data-Science-EBooks) · 个人维护
 
 **数据科学与机器学习电子书资源合集**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "aniketpotabatti/Data-Science-EBooks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 977 --> 1005
-    line [979, 980, 981, 993, 1003]
+    title "aniketpotabatti/Data-Science-EBooks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 977 --> 1006
+    line [979, 980, 981, 993, 1003, 1004]
 ```
 
-2026-10-18 979 → 2026-10-27 1,003（+24）
+2026-10-18 979 → 2026-10-28 1,004（+25）
 
 
 ---

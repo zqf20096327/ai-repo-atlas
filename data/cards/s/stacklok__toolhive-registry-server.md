@@ -1,6 +1,6 @@
 # stacklok/toolhive-registry-server
 
-⭐ 29 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/stacklok/toolhive-registry-server) · [官网](https://docs.stacklok.com/toolhive/guides-registry/) · 组织维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/stacklok/toolhive-registry-server) · [官网](https://docs.stacklok.com/toolhive/guides-registry/) · 组织维护
 
 **组织级 MCP 服务器/技能/插件的注册表与治理服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stacklok/toolhive-registry-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # marvelefe/machinelearning101
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/marvelefe/machinelearning101) · [官网](https://machinelearning101.com) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/marvelefe/machinelearning101) · [官网](https://machinelearning101.com) · 个人维护
 
 **浏览器内交互式机器学习入门教学平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marvelefe/machinelearning101 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-26 30 → 2026-10-27 30（+0）
+2026-10-26 30 → 2026-10-28 31（+1）
 
 
 ---

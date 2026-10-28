@@ -1,6 +1,6 @@
 # lehoanglong95/rag-all-in-one
 
-⭐ 351 · 推送 2026-05-20 · [GitHub](https://github.com/lehoanglong95/rag-all-in-one) · [官网](https://www.linkedin.com/in/long-le-713b41111/) · 个人维护
+⭐ 352 · 推送 2026-05-20 · [GitHub](https://github.com/lehoanglong95/rag-all-in-one) · [官网](https://www.linkedin.com/in/long-le-713b41111/) · 个人维护
 
 **RAG 应用构建指南：按组件分类的工具与课程资源清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lehoanglong95/rag-all-in-one 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 348 --> 352
-    line [349, 350, 351, 351]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 348 --> 353
+    line [349, 350, 351, 352]
 ```
 
-2026-10-18 349 → 2026-10-27 351（+2）
+2026-10-18 349 → 2026-10-28 352（+3）
 
 
 ---

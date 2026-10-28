@@ -1,6 +1,6 @@
 # browserbase/stagehand
 
-⭐ 25,829 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
+⭐ 25,842 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
 
 **面向 agent 开发者的浏览器自动化 SDK：浏览、操作并提取网页数据**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "browserbase/stagehand 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 25705 --> 25840
-    line [25716, 25739, 25762, 25782, 25792, 25799, 25806, 25829]
+    title "browserbase/stagehand 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 25704 --> 25854
+    line [25716, 25739, 25762, 25782, 25792, 25799, 25806, 25829, 25842]
 ```
 
-2026-10-18 25,716 → 2026-10-27 25,829（+113）
+2026-10-18 25,716 → 2026-10-28 25,842（+126）
 
 
 ---

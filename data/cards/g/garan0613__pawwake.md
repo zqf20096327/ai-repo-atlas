@@ -1,6 +1,6 @@
 # garan0613/pawwake
 
-⭐ 162 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/garan0613/pawwake) · 个人维护 · 中文 README
+⭐ 163 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/garan0613/pawwake) · 个人维护 · 中文 README
 
 **给任意 LLM 客户端加长期记忆的 OpenAI 兼容转发网关**
 
@@ -46,12 +46,12 @@ Pawwake 是部署在客户端与 LLM 服务商之间的轻量代理网关，以 
 ```mermaid
 xychart-beta
     title "garan0613/pawwake 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 160 --> 163
-    line [161, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 160 --> 164
+    line [161, 162, 163]
 ```
 
-2026-10-18 161 → 2026-10-27 162（+1）
+2026-10-18 161 → 2026-10-28 163（+2）
 
 
 ---

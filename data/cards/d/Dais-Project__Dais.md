@@ -1,6 +1,6 @@
 # Dais-Project/Dais
 
-⭐ 86 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/Dais-Project/Dais) · 组织维护 · 中文 README
+⭐ 86 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/Dais-Project/Dais) · 组织维护 · 中文 README
 
 **桌面多 Agent AI 员工应用：管理技能与工作区并行处理任务**
 
@@ -45,12 +45,12 @@ Dais 是一款桌面端多 Agent 应用，定位为'桌面 AI 员工'。功能�
 ```mermaid
 xychart-beta
     title "Dais-Project/Dais 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-10-27 86（+0）
+2026-10-18 86 → 2026-10-28 86（+0）
 
 
 ---

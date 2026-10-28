@@ -1,6 +1,6 @@
 # suoten/EdgeLiteGateway
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/suoten/EdgeLiteGateway) · 个人维护 · 中文 README
+⭐ 61 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/suoten/EdgeLiteGateway) · 个人维护 · 中文 README
 
 **给工业物联网开发者：开源边缘AI网关，采集+ONNX推理+视觉确认**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "suoten/EdgeLiteGateway 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 52 --> 61
-    line [53, 54, 56, 57, 58, 60]
+    title "suoten/EdgeLiteGateway 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 52 --> 62
+    line [53, 54, 56, 57, 58, 60, 61]
 ```
 
-2026-10-18 53 → 2026-10-27 60（+7）
+2026-10-18 53 → 2026-10-28 61（+8）
 
 
 ---

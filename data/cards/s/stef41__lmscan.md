@@ -1,6 +1,6 @@
 # stef41/lmscan
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/stef41/lmscan) · 个人维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/stef41/lmscan) · 个人维护
 
 **离线检测 AI 生成文本并识别来源模型家族的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stef41/lmscan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37]
 ```
 
-2026-10-18 34 → 2026-10-27 36（+2）
+2026-10-18 34 → 2026-10-28 37（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/FlashKDA
 
-⭐ 1,289 · Cuda · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MoonshotAI/FlashKDA) · 组织维护
+⭐ 1,291 · Cuda · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MoonshotAI/FlashKDA) · 组织维护
 
 **为 Kimi Delta Attention 提供基于 CUTLASS 的 CUDA 算子库**
 
@@ -45,12 +45,12 @@ MoonshotAI 开源的 Kimi Delta Attention（KDA）CUDA kernel 库，基于 CUTLA
 ```mermaid
 xychart-beta
     title "MoonshotAI/FlashKDA 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1280 --> 1290
-    line [1281, 1282, 1285, 1286, 1288, 1289, 1289]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1280 --> 1292
+    line [1281, 1282, 1285, 1286, 1288, 1289, 1291]
 ```
 
-2026-10-18 1,281 → 2026-10-27 1,289（+8）
+2026-10-18 1,281 → 2026-10-28 1,291（+10）
 
 
 ---

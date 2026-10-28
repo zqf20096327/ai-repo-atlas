@@ -1,6 +1,6 @@
 # legeling/PromptHub
 
-⭐ 1,782 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/legeling/PromptHub) · [官网](https://prompthub.click) · 个人维护 · 中文 README
+⭐ 1,784 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/legeling/PromptHub) · [官网](https://prompthub.click) · 个人维护 · 中文 README
 
 **本地优先的 Prompt、Skill 与 Agent 资产管理桌面工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "legeling/PromptHub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1707 --> 1788
-    line [1713, 1716, 1724, 1725, 1726, 1735, 1782]
+    title "legeling/PromptHub 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1706 --> 1791
+    line [1713, 1716, 1724, 1725, 1726, 1735, 1782, 1784]
 ```
 
-2026-10-18 1,713 → 2026-10-27 1,782（+69）
+2026-10-18 1,713 → 2026-10-28 1,784（+71）
 
 
 ---

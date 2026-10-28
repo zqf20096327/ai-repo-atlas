@@ -1,6 +1,6 @@
 # Umair706/amazon-omniscient
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/Umair706/amazon-omniscient) · 个人维护
+⭐ 46 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/Umair706/amazon-omniscient) · 个人维护
 
 **自托管的 Amazon FBA 选品研究引擎：选品评分与利润测算**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Umair706/amazon-omniscient 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 38 --> 45
-    line [39, 41, 43, 44]
+    title "Umair706/amazon-omniscient 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 38 --> 47
+    line [39, 41, 43, 44, 46]
 ```
 
-2026-10-18 39 → 2026-10-27 44（+5）
+2026-10-18 39 → 2026-10-28 46（+7）
 
 
 ---

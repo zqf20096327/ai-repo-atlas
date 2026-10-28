@@ -1,6 +1,6 @@
 # claritychallenge/clarity
 
-⭐ 195 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/claritychallenge/clarity) · [官网](https://claritychallenge.github.io/clarity) · 组织维护
+⭐ 195 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/claritychallenge/clarity) · [官网](https://claritychallenge.github.io/clarity) · 组织维护
 
 **听障辅助与语音增强机器学习挑战赛的工具包与基线系统集合**
 
@@ -45,12 +45,12 @@ Clarity/Cadenza 系列机器学习挑战赛的支持代码库：收录历届挑�
 ```mermaid
 xychart-beta
     title "claritychallenge/clarity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 194 --> 196
     line [195, 195]
 ```
 
-2026-10-18 195 → 2026-10-27 195（+0）
+2026-10-18 195 → 2026-10-28 195（+0）
 
 
 ---

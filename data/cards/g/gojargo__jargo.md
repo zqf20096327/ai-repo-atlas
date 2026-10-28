@@ -1,6 +1,6 @@
 # gojargo/jargo
 
-⭐ 104 · Go · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/gojargo/jargo) · 组织维护
+⭐ 105 · Go · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/gojargo/jargo) · 组织维护
 
 **Go 语言的 WebRTC 实时语音 Agent 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gojargo/jargo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 101 --> 105
-    line [102, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 101 --> 106
+    line [102, 103, 104, 105]
 ```
 
-2026-10-18 102 → 2026-10-27 104（+2）
+2026-10-18 102 → 2026-10-28 105（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # neu-vi/UniCorrn
 
-⭐ 225 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/neu-vi/UniCorrn) · [官网](https://neu-vi.github.io/UniCorrn/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **统一 2D/3D 对应关系 Transformer 模型：跨模态特征匹配（CVPR 2026）**
 
@@ -11,7 +11,7 @@ CVPR 2026 论文官方实现：UniCorrn 以单一 Transformer 处理 2D-2D 图�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

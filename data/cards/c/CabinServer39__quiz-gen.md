@@ -1,6 +1,6 @@
 # CabinServer39/quiz-gen
 
-⭐ 24 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CabinServer39/quiz-gen) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/CabinServer39/quiz-gen) · 个人维护
 
 **Windows 本地 LLM 出题工具：从讲义生成可打印试卷与答案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CabinServer39/quiz-gen 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 8 --> 25
-    line [9, 16, 23, 24, 24]
+    line [9, 16, 23, 24, 23]
 ```
 
-2026-10-22 9 → 2026-10-27 24（+15）
+2026-10-22 9 → 2026-10-28 23（+14）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anowell/are-we-learning-yet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "anowell/are-we-learning-yet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 536 --> 539
-    line [537, 538]
+    line [537, 538, 538]
 ```
 
-2026-10-18 537 → 2026-10-27 538（+1）
+2026-10-18 537 → 2026-10-28 538（+1）
 
 
 ---

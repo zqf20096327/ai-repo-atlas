@@ -1,6 +1,6 @@
 # zzhahn/a_stock_level2_data
 
-⭐ 209 · 推送 2026-10-09 · [GitHub](https://github.com/zzhahn/a_stock_level2_data) · [官网](https://datas.lovestoblog.com/) · 个人维护 · 中文 README
+⭐ 218 · 推送 2026-10-09 · [GitHub](https://github.com/zzhahn/a_stock_level2_data) · [官网](https://datas.lovestoblog.com/) · 个人维护 · 中文 README
 
 **A股 Level-2 实时行情数据客户端：免开户取逐笔与十档盘口数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zzhahn/a_stock_level2_data 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 138 --> 215
-    line [144, 167, 183, 171, 186, 193, 202, 209]
+    title "zzhahn/a_stock_level2_data 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 137 --> 225
+    line [144, 167, 183, 171, 186, 193, 202, 209, 218]
 ```
 
-2026-10-18 144 → 2026-10-27 209（+65）
+2026-10-18 144 → 2026-10-28 218（+74）
 
 
 ---

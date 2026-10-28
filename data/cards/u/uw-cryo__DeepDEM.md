@@ -1,6 +1,6 @@
 # uw-cryo/DeepDEM
 
-⭐ 30 · Jupyter Notebook · MIT · 推送 2025-11-11 · [GitHub](https://github.com/uw-cryo/DeepDEM) · 组织维护
+⭐ 30 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/uw-cryo/DeepDEM) · 组织维护
 
 **深度学习精化立体卫星影像 DSM/DTM 的遥感框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "uw-cryo/DeepDEM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

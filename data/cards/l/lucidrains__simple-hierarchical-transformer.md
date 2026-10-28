@@ -46,12 +46,12 @@ lucidrains 的研究实验项目：在自回归 Transformer 中诱导多个分�
 ```mermaid
 xychart-beta
     title "lucidrains/simple-hierarchical-transformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 229 --> 232
     line [231, 230, 230]
 ```
 
-2026-10-18 231 → 2026-10-27 230（-1）
+2026-10-18 231 → 2026-10-28 230（-1）
 
 
 ---

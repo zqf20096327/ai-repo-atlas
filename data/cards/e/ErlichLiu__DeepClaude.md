@@ -1,6 +1,6 @@
 # ErlichLiu/DeepClaude
 
-⭐ 2,929 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/ErlichLiu/DeepClaude) · [官网](https://erlich.fun/deepclaude-pricing) · 个人维护 · 中文 README
+⭐ 2,930 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/ErlichLiu/DeepClaude) · [官网](https://erlich.fun/deepclaude-pricing) · 个人维护 · 中文 README
 
 **组合推理与生成模型、提供 OpenAI 兼容 API 的转发服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErlichLiu/DeepClaude 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "ErlichLiu/DeepClaude 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2928 --> 2932
-    line [2929, 2930, 2931, 2930, 2929]
+    line [2929, 2930, 2931, 2930, 2929, 2930]
 ```
 
-2026-10-18 2,929 → 2026-10-27 2,929（+0）
+2026-10-18 2,929 → 2026-10-28 2,930（+1）
 
 
 ---

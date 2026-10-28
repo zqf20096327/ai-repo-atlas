@@ -1,6 +1,6 @@
 # getindata/kedro-vertexai
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/getindata/kedro-vertexai) · [官网](https://kedro-vertexai.readthedocs.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Kedro 插件：将流水线部署到 GCP Vertex AI Pipelines**
 
@@ -11,7 +11,7 @@ kedro-vertexai 是一个 Kedro 插件，将 Kedro 流水线 DSL 翻译为 Kubefl
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

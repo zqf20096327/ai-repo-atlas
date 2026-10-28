@@ -1,6 +1,6 @@
 # thebabush/llvm-jutsu
 
-⭐ 243 · C++ · MIT · 推送 2025-12-22 · [GitHub](https://github.com/thebabush/llvm-jutsu) · 个人维护
+⭐ 245 · C++ · MIT · 推送 2025-12-22 · [GitHub](https://github.com/thebabush/llvm-jutsu) · 个人维护
 
 **LLVM 混淆 pass：把整数常量编码成手势图阻碍 LLM 逆向**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thebabush/llvm-jutsu 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 242 --> 245
-    line [244, 243, 243]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 242 --> 246
+    line [244, 243, 245]
 ```
 
-2026-10-18 244 → 2026-10-27 243（-1）
+2026-10-18 244 → 2026-10-28 245（+1）
 
 
 ---

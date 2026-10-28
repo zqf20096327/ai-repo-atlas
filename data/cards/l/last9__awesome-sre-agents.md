@@ -1,6 +1,6 @@
 # last9/awesome-sre-agents
 
-⭐ 101 · CC0-1.0 · 推送 2026-09-15 · [GitHub](https://github.com/last9/awesome-sre-agents) · [官网](https://last9.io) · 组织维护
+⭐ 102 · CC0-1.0 · 推送 2026-09-15 · [GitHub](https://github.com/last9/awesome-sre-agents) · [官网](https://last9.io) · 组织维护
 
 **SRE/DevOps AI agent 策展清单：收录排障与运维代理工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "last9/awesome-sre-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 98 --> 102
-    line [99, 100, 101, 101]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 98 --> 103
+    line [99, 100, 101, 102]
 ```
 
-2026-10-18 99 → 2026-10-27 101（+2）
+2026-10-18 99 → 2026-10-28 102（+3）
 
 
 ---

@@ -45,13 +45,13 @@ Hugging Face 维护的扩散模型训练库，支持 LTX-Video、HunyuanVideo、
 
 ```mermaid
 xychart-beta
-    title "huggingface/finetrainers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "huggingface/finetrainers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1360 --> 1364
-    line [1362, 1361, 1363]
+    line [1362, 1361, 1363, 1363]
 ```
 
-2026-10-18 1,362 → 2026-10-27 1,363（+1）
+2026-10-18 1,362 → 2026-10-28 1,363（+1）
 
 
 ---

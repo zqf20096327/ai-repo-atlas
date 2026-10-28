@@ -1,6 +1,6 @@
 # bowang-lab/MedRAX
 
-⭐ 1,252 · Python · Apache-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/bowang-lab/MedRAX) · [官网](https://bowang-lab.github.io/MedRAX/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **胸片医学推理 AI Agent，整合多种 CXR 分析工具与多模态 LLM**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

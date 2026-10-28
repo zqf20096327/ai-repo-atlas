@@ -1,6 +1,6 @@
 # asimov-platform/asimov-cli
 
-⭐ 27 · Rust · Unlicense · 推送 2026-10-23 · [GitHub](https://github.com/asimov-platform/asimov-cli) · [官网](https://crates.io/crates/asimov-cli) · 组织维护
+⭐ 27 · Rust · Unlicense · 推送 2026-10-26 · [GitHub](https://github.com/asimov-platform/asimov-cli) · [官网](https://crates.io/crates/asimov-cli) · 组织维护
 
 **面向 AI agent 的 ASIMOV 模块/资源管理命令行工具**
 
@@ -45,12 +45,12 @@ ASIMOV 平台的官方 CLI，用 Rust 编写。提供从 URL 抓取数据（自�
 ```mermaid
 xychart-beta
     title "asimov-platform/asimov-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

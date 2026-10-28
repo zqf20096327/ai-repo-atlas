@@ -1,6 +1,6 @@
 # open-edge-platform/geti
 
-⭐ 1,363 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/open-edge-platform/geti) · [官网](https://docs.geti.intel.com) · 组织维护
+⭐ 1,364 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/open-edge-platform/geti) · [官网](https://docs.geti.intel.com) · 组织维护
 
 **本地构建、训练、优化与运行计算机视觉模型的开源平台**
 
@@ -45,13 +45,13 @@ Intel 开源的端到端计算机视觉平台：覆盖标注、微调、INT8 量
 
 ```mermaid
 xychart-beta
-    title "open-edge-platform/geti 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1356 --> 1364
-    line [1357, 1358, 1359, 1361, 1363]
+    title "open-edge-platform/geti 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1356 --> 1365
+    line [1357, 1358, 1359, 1361, 1363, 1364]
 ```
 
-2026-10-18 1,357 → 2026-10-27 1,363（+6）
+2026-10-18 1,357 → 2026-10-28 1,364（+7）
 
 
 ---

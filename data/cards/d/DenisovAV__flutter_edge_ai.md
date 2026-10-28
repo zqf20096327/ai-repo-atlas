@@ -1,6 +1,6 @@
 # DenisovAV/flutter_edge_ai
 
-⭐ 647 · Dart · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DenisovAV/flutter_edge_ai) · [官网](https://flutteredge.ai) · 组织维护
+⭐ 649 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/DenisovAV/flutter_edge_ai) · [官网](https://flutteredge.ai) · 组织维护
 
 **Flutter 端侧 AI 框架：多引擎运行 LLM、语音与 RAG**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DenisovAV/flutter_edge_ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 640 --> 648
-    line [641, 642, 643, 644, 645, 647, 647]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 640 --> 650
+    line [641, 642, 643, 644, 645, 647, 649]
 ```
 
-2026-10-18 641 → 2026-10-27 647（+6）
+2026-10-18 641 → 2026-10-28 649（+8）
 
 
 ---

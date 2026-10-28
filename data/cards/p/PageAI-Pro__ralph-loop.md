@@ -1,6 +1,6 @@
 # PageAI-Pro/ralph-loop
 
-⭐ 330 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PageAI-Pro/ralph-loop) · [官网](https://ralphloop.sh) · 组织维护
+⭐ 331 · Shell · MIT · 推送 2026-08-31 · [GitHub](https://github.com/PageAI-Pro/ralph-loop) · [官网](https://ralphloop.sh) · 组织维护
 
 **长时运行的 AI 编码 agent 循环脚本：迭代完成任务列表**
 
@@ -44,13 +44,13 @@ Ralph 是一个可修改的 bash 循环脚本，驱动编码 agent 在 Docker Sa
 
 ```mermaid
 xychart-beta
-    title "PageAI-Pro/ralph-loop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 317 --> 331
-    line [318, 320, 322, 325, 328, 329, 330]
+    title "PageAI-Pro/ralph-loop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 317 --> 332
+    line [318, 320, 322, 325, 328, 329, 330, 331]
 ```
 
-2026-10-18 318 → 2026-10-27 330（+12）
+2026-10-18 318 → 2026-10-28 331（+13）
 
 
 ---

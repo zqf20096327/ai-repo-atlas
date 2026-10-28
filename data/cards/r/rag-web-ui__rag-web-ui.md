@@ -1,6 +1,6 @@
 # rag-web-ui/rag-web-ui
 
-⭐ 3,301 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/rag-web-ui/rag-web-ui) · 组织维护 · 中文 README
+⭐ 3,300 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/rag-web-ui/rag-web-ui) · 组织维护 · 中文 README
 
 **基于 RAG 的私有知识库问答 Web 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rag-web-ui/rag-web-ui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 3299 --> 3302
-    line [3300, 3301, 3300, 3301, 3301]
+    line [3300, 3301, 3300, 3301, 3300]
 ```
 
-2026-10-18 3,300 → 2026-10-27 3,301（+1）
+2026-10-18 3,300 → 2026-10-28 3,300（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit
 
-⭐ 698 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) · 个人维护 · 中文 README
+⭐ 748 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) · 个人维护 · 中文 README
 
 **跨境电商运营 Prompt/工作流工具箱：把 Shopee 运营 SOP 拆成 7 个 Agent 模块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 318 --> 732
-    line [352, 429, 484, 524, 604, 623, 661, 698]
+    title "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 313 --> 787
+    line [352, 429, 484, 524, 604, 623, 661, 698, 748]
 ```
 
-2026-10-18 352 → 2026-10-27 698（+346）
+2026-10-18 352 → 2026-10-28 748（+396）
 
 
 ---

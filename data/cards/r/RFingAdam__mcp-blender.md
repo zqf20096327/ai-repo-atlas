@@ -1,6 +1,6 @@
 # RFingAdam/mcp-blender
 
-⭐ 32 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/RFingAdam/mcp-blender) · 个人维护
+⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/RFingAdam/mcp-blender) · 个人维护
 
 **面向 MCP 客户端的 Blender 工具服务器：218 个 3D 建模与生成工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RFingAdam/mcp-blender 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 24 --> 33
-    line [25, 27, 28, 30, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 24 --> 34
+    line [25, 27, 28, 30, 32, 33]
 ```
 
-2026-10-18 25 → 2026-10-27 32（+7）
+2026-10-18 25 → 2026-10-28 33（+8）
 
 
 ---

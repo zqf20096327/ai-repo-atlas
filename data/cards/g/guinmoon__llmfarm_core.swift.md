@@ -1,6 +1,6 @@
 # guinmoon/llmfarm_core.swift
 
-⭐ 283 · C++ · MIT · 推送 2025-12-09 · [GitHub](https://github.com/guinmoon/llmfarm_core.swift) · 个人维护
+⭐ 284 · C++ · MIT · 推送 2025-12-09 · [GitHub](https://github.com/guinmoon/llmfarm_core.swift) · 个人维护
 
 **在 macOS/iOS 上加载运行本地 LLM 的 Swift 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guinmoon/llmfarm_core.swift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 282 --> 284
-    line [283, 283]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 282 --> 285
+    line [283, 284]
 ```
 
-2026-10-18 283 → 2026-10-27 283（+0）
+2026-10-18 283 → 2026-10-28 284（+1）
 
 
 ---

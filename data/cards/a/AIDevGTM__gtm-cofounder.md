@@ -1,6 +1,6 @@
 # AIDevGTM/gtm-cofounder
 
-⭐ 326 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AIDevGTM/gtm-cofounder) · [官网](https://gtmcofounder.com) · 个人维护
+⭐ 327 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AIDevGTM/gtm-cofounder) · [官网](https://gtmcofounder.com) · 个人维护
 
 **面向开发者工具/AI 产品创始人的开源 GTM Agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIDevGTM/gtm-cofounder 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 318 --> 327
-    line [319, 321, 322, 324, 325, 326, 326]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 318 --> 328
+    line [319, 321, 322, 324, 325, 326, 327]
 ```
 
-2026-10-18 319 → 2026-10-27 326（+7）
+2026-10-18 319 → 2026-10-28 327（+8）
 
 
 ---

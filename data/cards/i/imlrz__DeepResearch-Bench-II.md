@@ -45,13 +45,13 @@ DeepResearch Bench II 是测量深度研究系统与人类专家差距的基准�
 
 ```mermaid
 xychart-beta
-    title "imlrz/DeepResearch-Bench-II 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "imlrz/DeepResearch-Bench-II 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 95 --> 99
-    line [96, 98]
+    line [96, 98, 98]
 ```
 
-2026-10-18 96 → 2026-10-27 98（+2）
+2026-10-18 96 → 2026-10-28 98（+2）
 
 
 ---

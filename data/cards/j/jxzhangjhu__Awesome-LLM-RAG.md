@@ -1,6 +1,6 @@
 # jxzhangjhu/Awesome-LLM-RAG
 
-⭐ 1,369 · 推送 2026-10-24 · [GitHub](https://github.com/jxzhangjhu/Awesome-LLM-RAG) · 个人维护
+⭐ 1,370 · 推送 2026-10-24 · [GitHub](https://github.com/jxzhangjhu/Awesome-LLM-RAG) · 个人维护
 
 **LLM RAG 论文与资源策展清单，面向科研者**
 
@@ -45,12 +45,12 @@ Awesome 系列的 RAG 主题策展仓库：收录检索增强生成方向的学�
 ```mermaid
 xychart-beta
     title "jxzhangjhu/Awesome-LLM-RAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 1368 --> 1371
-    line [1370, 1369, 1369]
+    line [1370, 1369, 1370]
 ```
 
-2026-10-18 1,370 → 2026-10-27 1,369（-1）
+2026-10-18 1,370 → 2026-10-28 1,370（+0）
 
 
 ---

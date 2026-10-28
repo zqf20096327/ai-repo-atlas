@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "firstbatchxyz/dkn-compute-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "firstbatchxyz/dkn-compute-node 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 227 --> 230
-    line [229, 228]
+    line [229, 228, 228]
 ```
 
-2026-10-18 229 → 2026-10-27 228（-1）
+2026-10-18 229 → 2026-10-28 228（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # fraisasghar/Machine-Learning-Classification-using-Python
 
-⭐ 141 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fraisasghar/Machine-Learning-Classification-using-Python) · 个人维护
+⭐ 144 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fraisasghar/Machine-Learning-Classification-using-Python) · 个人维护
 
 **用 Python 决策树对 7 只股票做分类的机器学习教学项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fraisasghar/Machine-Learning-Classification-using-Python 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 122 --> 143
-    line [124, 123, 134, 137, 142, 141, 141]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 121 --> 146
+    line [124, 123, 134, 137, 142, 141, 144]
 ```
 
-2026-10-18 124 → 2026-10-27 141（+17）
+2026-10-18 124 → 2026-10-28 144（+20）
 
 
 ---

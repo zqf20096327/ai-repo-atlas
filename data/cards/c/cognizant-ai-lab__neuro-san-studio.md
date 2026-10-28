@@ -1,6 +1,6 @@
 # cognizant-ai-lab/neuro-san-studio
 
-⭐ 1,170 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [官网](https://decisionai.ml/neuro-san) · 组织维护
+⭐ 1,187 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san-studio) · [官网](https://decisionai.ml/neuro-san) · 组织维护
 
 **Neuro SAN 多智能体编排框架的上手实验场与工具集**
 
@@ -46,12 +46,12 @@ Cognizant AI Lab 维护的 Neuro SAN 框架 playground：提供可运行示例�
 ```mermaid
 xychart-beta
     title "cognizant-ai-lab/neuro-san-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1154 --> 1171
-    line [1155, 1166, 1167, 1169, 1170, 1170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1152 --> 1190
+    line [1155, 1166, 1167, 1169, 1170, 1187]
 ```
 
-2026-10-18 1,155 → 2026-10-27 1,170（+15）
+2026-10-18 1,155 → 2026-10-28 1,187（+32）
 
 
 ---

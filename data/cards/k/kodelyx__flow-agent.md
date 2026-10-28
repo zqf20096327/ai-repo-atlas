@@ -1,6 +1,6 @@
 # kodelyx/flow-agent
 
-⭐ 241 · JavaScript · 推送 2026-09-25 · [GitHub](https://github.com/kodelyx/flow-agent) · [官网](https://github.com/kodelyx/flow-agent) · 个人维护
+⭐ 243 · JavaScript · 推送 2026-09-25 · [GitHub](https://github.com/kodelyx/flow-agent) · [官网](https://github.com/kodelyx/flow-agent) · 个人维护
 
 **通过 CLI/REST/MCP 调用 Google Flow 生成 AI 图片与视频的本地服务**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "kodelyx/flow-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 218 --> 243
-    line [220, 221, 229, 234, 236, 237, 240, 241]
+    title "kodelyx/flow-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 218 --> 245
+    line [220, 221, 229, 234, 236, 237, 240, 241, 243]
 ```
 
-2026-10-18 220 → 2026-10-27 241（+21）
+2026-10-18 220 → 2026-10-28 243（+23）
 
 
 ---

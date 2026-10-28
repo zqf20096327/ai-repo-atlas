@@ -1,6 +1,6 @@
 # cashubtc/orchard
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cashubtc/orchard) · [官网](https://orchard.space) · 组织维护
+⭐ 59 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cashubtc/orchard) · [官网](https://orchard.space) · 组织维护
 
 **Cashu mint 管理的 Web 应用：运行自己的电子现金铸造服务**
 
@@ -43,12 +43,12 @@ Orchard 是用于 Cashu mint 管理的 Web 应用，自称『网络空间中的�
 ```mermaid
 xychart-beta
     title "cashubtc/orchard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-27 59（+0）
+2026-10-18 59 → 2026-10-28 59（+0）
 
 
 ---

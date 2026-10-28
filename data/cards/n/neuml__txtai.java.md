@@ -45,12 +45,12 @@ txtai.java 是 txtai 框架的 Java 绑定，通过连接 txtai API 实例，使
 ```mermaid
 xychart-beta
     title "neuml/txtai.java 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

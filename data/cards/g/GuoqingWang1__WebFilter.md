@@ -45,12 +45,12 @@ AAAI 2026 论文 WebFilter 的官方代码仓库。本体是一个 agentic RAG �
 ```mermaid
 xychart-beta
     title "GuoqingWang1/WebFilter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-27 40（+0）
+2026-10-18 40 → 2026-10-28 40（+0）
 
 
 ---

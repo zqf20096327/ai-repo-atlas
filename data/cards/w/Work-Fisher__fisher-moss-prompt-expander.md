@@ -1,6 +1,6 @@
 # Work-Fisher/fisher-moss-prompt-expander
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Work-Fisher/fisher-moss-prompt-expander) · 个人维护 · 中文 README
+⭐ 65 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Work-Fisher/fisher-moss-prompt-expander) · 个人维护 · 中文 README
 
 **把一句画面想法展开为详细生图提示词的中文 SKILL 与模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Work-Fisher/fisher-moss-prompt-expander 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 14 --> 62
-    line [18, 36, 49, 52, 58]
+    title "Work-Fisher/fisher-moss-prompt-expander 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 14 --> 69
+    line [18, 36, 49, 52, 58, 65]
 ```
 
-2026-10-23 18 → 2026-10-27 58（+40）
+2026-10-23 18 → 2026-10-28 65（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # receptron/laya
 
-⭐ 1,002 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
+⭐ 1,007 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/receptron/laya) · [官网](https://www.npmjs.com/package/@receptron/laya) · 组织维护
 
 **Node.js/TypeScript 运行 Laya System-1 决策模型的 ONNX 封装**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "receptron/laya 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 950 --> 1006
-    line [954, 966, 976, 985, 990, 994, 997, 1002]
+    title "receptron/laya 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 949 --> 1012
+    line [954, 966, 976, 985, 990, 994, 997, 1002, 1007]
 ```
 
-2026-10-18 954 → 2026-10-27 1,002（+48）
+2026-10-18 954 → 2026-10-28 1,007（+53）
 
 
 ---

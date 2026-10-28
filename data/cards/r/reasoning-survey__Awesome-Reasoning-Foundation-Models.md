@@ -1,6 +1,6 @@
 # reasoning-survey/Awesome-Reasoning-Foundation-Models
 
-⭐ 659 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) · 组织维护
+⭐ 661 · MIT · 推送 2026-09-03 · [GitHub](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) · 组织维护
 
 **推理基础模型论文与基准的策展清单（配综述论文）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "reasoning-survey/Awesome-Reasoning-Foundation-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 658 --> 661
-    line [660, 659, 659]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 658 --> 662
+    line [660, 659, 661]
 ```
 
-2026-10-18 660 → 2026-10-27 659（-1）
+2026-10-18 660 → 2026-10-28 661（+1）
 
 
 ---

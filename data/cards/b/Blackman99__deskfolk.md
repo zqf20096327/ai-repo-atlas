@@ -1,6 +1,6 @@
 # Blackman99/deskfolk
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Blackman99/deskfolk) · [官网](https://blackman99.github.io/deskfolk/) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Blackman99/deskfolk) · [官网](https://blackman99.github.io/deskfolk/) · 个人维护 · 中文 README
 
 **本地优先的桌面多智能体委托应用：交活、走人、回来看结果**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blackman99/deskfolk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 10 --> 35
-    line [12, 33, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 10 --> 37
+    line [12, 33, 32, 33, 35]
 ```
 
-2026-10-18 12 → 2026-10-27 33（+21）
+2026-10-18 12 → 2026-10-28 35（+23）
 
 
 ---

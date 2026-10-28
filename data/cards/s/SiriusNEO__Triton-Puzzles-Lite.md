@@ -1,6 +1,6 @@
 # SiriusNEO/Triton-Puzzles-Lite
 
-⭐ 762 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/SiriusNEO/Triton-Puzzles-Lite) · 个人维护
+⭐ 763 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/SiriusNEO/Triton-Puzzles-Lite) · 个人维护
 
 **学习 Triton 编程的入门练习题集（CPU 解释器模式）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SiriusNEO/Triton-Puzzles-Lite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 754 --> 763
-    line [755, 756, 759, 760, 762, 762]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 754 --> 764
+    line [755, 756, 759, 760, 762, 763]
 ```
 
-2026-10-18 755 → 2026-10-27 762（+7）
+2026-10-18 755 → 2026-10-28 763（+8）
 
 
 ---

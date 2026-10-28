@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyanheads/ntfy-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "cyanheads/ntfy-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 22 --> 25
-    line [23, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

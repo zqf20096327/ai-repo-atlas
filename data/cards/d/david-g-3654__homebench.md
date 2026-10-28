@@ -1,6 +1,6 @@
 # david-g-3654/homebench
 
-⭐ 58 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/david-g-3654/homebench) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/david-g-3654/homebench) · 个人维护
 
 **单命令评测本地 LLM 的速度/内存/质量并出 TUI 排行榜**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "david-g-3654/homebench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-18 58 → 2026-10-27 58（+0）
+2026-10-18 58 → 2026-10-28 59（+1）
 
 
 ---

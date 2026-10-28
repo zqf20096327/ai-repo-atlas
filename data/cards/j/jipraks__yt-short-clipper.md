@@ -1,6 +1,6 @@
 # jipraks/yt-short-clipper
 
-⭐ 1,052 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jipraks/yt-short-clipper) · 个人维护
+⭐ 1,053 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/jipraks/yt-short-clipper) · 个人维护
 
 **把长视频转成 9:16 短片的 Windows 桌面应用：LLM 选高光**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jipraks/yt-short-clipper 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1040 --> 1053
-    line [1041, 1043, 1049, 1050, 1052, 1052]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1040 --> 1054
+    line [1041, 1043, 1049, 1050, 1052, 1053]
 ```
 
-2026-10-18 1,041 → 2026-10-27 1,052（+11）
+2026-10-18 1,041 → 2026-10-28 1,053（+12）
 
 
 ---

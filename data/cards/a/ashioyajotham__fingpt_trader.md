@@ -1,6 +1,6 @@
 # ashioyajotham/fingpt_trader
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/ashioyajotham/fingpt_trader) · 个人维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/ashioyajotham/fingpt_trader) · 个人维护
 
 **Falcon-7B 情感驱动的加密货币量化交易系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashioyajotham/fingpt_trader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

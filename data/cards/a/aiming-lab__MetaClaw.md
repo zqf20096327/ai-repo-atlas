@@ -1,6 +1,6 @@
 # aiming-lab/MetaClaw
 
-⭐ 3,464 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/aiming-lab/MetaClaw) · [官网](https://arxiv.org/abs/2603.17187) · 组织维护 · 中文 README
+⭐ 3,465 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/aiming-lab/MetaClaw) · [官网](https://arxiv.org/abs/2603.17187) · 组织维护 · 中文 README
 
 **给个人 agent 接入的持续学习代理层：边对话边沉淀技能**
 
@@ -44,12 +44,12 @@ MetaClaw 以透明代理形式置于个人 agent（OpenClaw、CoPaw、IronClaw �
 ```mermaid
 xychart-beta
     title "aiming-lab/MetaClaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 3455 --> 3467
-    line [3456, 3458, 3459, 3461, 3466, 3464, 3464]
+    line [3456, 3458, 3459, 3461, 3466, 3464, 3465]
 ```
 
-2026-10-18 3,456 → 2026-10-27 3,464（+8）
+2026-10-18 3,456 → 2026-10-28 3,465（+9）
 
 
 ---

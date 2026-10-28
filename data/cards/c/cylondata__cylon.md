@@ -1,6 +1,6 @@
 # cylondata/cylon
 
-⭐ 302 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/cylondata/cylon) · [官网](https://cylondata.org) · 组织维护
+⭐ 301 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/cylondata/cylon) · [官网](https://cylondata.org) · 组织维护
 
 **分布式内存并行 DataFrame 库：用类 Pandas 接口处理结构化数据**
 
@@ -45,12 +45,12 @@ C++/C++ 系核心实现的分布式内存数据并行库，提供关系算子（
 ```mermaid
 xychart-beta
     title "cylondata/cylon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 301 --> 303
-    line [302, 302]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 300 --> 303
+    line [302, 301]
 ```
 
-2026-10-18 302 → 2026-10-27 302（+0）
+2026-10-18 302 → 2026-10-28 301（-1）
 
 
 ---

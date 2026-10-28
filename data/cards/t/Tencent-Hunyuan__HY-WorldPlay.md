@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-WorldPlay
 
-⭐ 1,621 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WorldPlay) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
+⭐ 1,622 · Python · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/Tencent-Hunyuan/HY-WorldPlay) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
 **腾讯开源的实时交互式世界模型：动作驱动的流式视频生成**
 
@@ -45,13 +45,13 @@ HY-World 1.5（WorldPlay）是流式视频扩散世界模型：以单张图片�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HY-WorldPlay 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1617 --> 1622
-    line [1618, 1619, 1620, 1621]
+    title "Tencent-Hunyuan/HY-WorldPlay 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1617 --> 1623
+    line [1618, 1619, 1620, 1621, 1622]
 ```
 
-2026-10-18 1,618 → 2026-10-27 1,621（+3）
+2026-10-18 1,618 → 2026-10-28 1,622（+4）
 
 
 ---

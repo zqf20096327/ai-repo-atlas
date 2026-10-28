@@ -1,6 +1,6 @@
 # FerroxLabs/wayland-core
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/FerroxLabs/wayland-core) · [官网](https://getwayland.com) · 组织维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/FerroxLabs/wayland-core) · [官网](https://getwayland.com) · 组织维护
 
 **Rust 编写的多供应商自进化 AI agent 命令行引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "FerroxLabs/wayland-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 42（+1）
 
 
 ---

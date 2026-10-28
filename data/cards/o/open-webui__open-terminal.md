@@ -1,6 +1,6 @@
 # open-webui/open-terminal
 
-⭐ 3,435 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
+⭐ 3,439 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
 
 **给 AI agent 提供的远程终端/代码执行环境（REST API）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/open-terminal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3354 --> 3442
-    line [3361, 3380, 3397, 3405, 3414, 3418, 3425, 3435]
+    title "open-webui/open-terminal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3354 --> 3446
+    line [3361, 3380, 3397, 3405, 3414, 3418, 3425, 3435, 3439]
 ```
 
-2026-10-18 3,361 → 2026-10-27 3,435（+74）
+2026-10-18 3,361 → 2026-10-28 3,439（+78）
 
 
 ---

@@ -1,6 +1,6 @@
 # kodustech/kodus-ai
 
-⭐ 1,528 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kodustech/kodus-ai) · [官网](https://kodus.io) · 组织维护
+⭐ 1,534 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/kodustech/kodus-ai) · [官网](https://kodus.io) · 组织维护
 
 **开源可自托管的 AI 代码评审工具，自选 LLM 与自备 API key**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kodustech/kodus-ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1491 --> 1531
-    line [1494, 1502, 1511, 1514, 1521, 1522, 1524, 1528]
+    title "kodustech/kodus-ai 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1490 --> 1538
+    line [1494, 1502, 1511, 1514, 1521, 1522, 1524, 1528, 1534]
 ```
 
-2026-10-18 1,494 → 2026-10-27 1,528（+34）
+2026-10-18 1,494 → 2026-10-28 1,534（+40）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Agents
 
-⭐ 1,092 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/Agents) · [官网](https://aka.ms/agentsdkdocs) · 组织维护
+⭐ 1,093 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Agents) · [官网](https://aka.ms/agentsdkdocs) · 组织维护
 
 **微软官方构建多渠道企业 agent 的全栈 SDK 入口仓**
 
@@ -46,12 +46,12 @@ Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams�
 ```mermaid
 xychart-beta
     title "microsoft/Agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1085 --> 1093
-    line [1086, 1088, 1089, 1090, 1092, 1092]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 1085 --> 1094
+    line [1086, 1088, 1089, 1090, 1092, 1093]
 ```
 
-2026-10-18 1,086 → 2026-10-27 1,092（+6）
+2026-10-18 1,086 → 2026-10-28 1,093（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # ymm-oss/fsl
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ymm-oss/fsl) · 组织维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ymm-oss/fsl) · 组织维护
 
 **面向 LLM 写/验证/修复循环的形式化规约语言与有界模型检查器**
 
@@ -48,12 +48,12 @@ FSL 是一种形式化规约语言，设计目标是由生成式 AI 编写、验
 ```mermaid
 xychart-beta
     title "ymm-oss/fsl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 34（+0）
 
 
 ---

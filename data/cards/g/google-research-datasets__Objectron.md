@@ -1,6 +1,6 @@
 # google-research-datasets/Objectron
 
-⭐ 2,358 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/google-research-datasets/Objectron) · 组织维护
+⭐ 2,359 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/google-research-datasets/Objectron) · 组织维护
 
 **面向 3D 视觉的物体中心视频数据集：含姿态标注与 AR 元数据**
 
@@ -45,12 +45,12 @@ Google Research 发布的物体中心短视频数据集：15K 视频、4M+ 标�
 ```mermaid
 xychart-beta
     title "google-research-datasets/Objectron 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2357 --> 2359
-    line [2358, 2358]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2357 --> 2360
+    line [2358, 2359]
 ```
 
-2026-10-18 2,358 → 2026-10-27 2,358（+0）
+2026-10-18 2,358 → 2026-10-28 2,359（+1）
 
 
 ---

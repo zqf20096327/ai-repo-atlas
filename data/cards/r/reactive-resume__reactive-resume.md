@@ -1,6 +1,6 @@
 # reactive-resume/reactive-resume
 
-⭐ 44,896 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
+⭐ 44,943 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/reactive-resume/reactive-resume) · [官网](https://rxresu.me) · 组织维护
 
 **开源自托管简历构建器：写简历、检查、投递追踪与可选 AI 助手**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "reactive-resume/reactive-resume 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 44386 --> 44942
-    line [44432, 44543, 44642, 44713, 44765, 44808, 44843, 44896]
+    title "reactive-resume/reactive-resume 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 44381 --> 44994
+    line [44432, 44543, 44642, 44713, 44765, 44808, 44843, 44896, 44943]
 ```
 
-2026-10-18 44,432 → 2026-10-27 44,896（+464）
+2026-10-18 44,432 → 2026-10-28 44,943（+511）
 
 
 ---

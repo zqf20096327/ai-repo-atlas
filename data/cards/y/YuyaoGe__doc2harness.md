@@ -1,6 +1,6 @@
 # YuyaoGe/doc2harness
 
-⭐ 115 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/YuyaoGe/doc2harness) · [官网](https://geyuyao.com/doc2harness/) · 个人维护
+⭐ 115 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/YuyaoGe/doc2harness) · [官网](https://geyuyao.com/doc2harness/) · 个人维护
 
 **评测 LLM 能否构建编码 agent 框架（harness）的基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuyaoGe/doc2harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 109 --> 116
     line [110, 111, 113, 115, 115]
 ```
 
-2026-10-18 110 → 2026-10-27 115（+5）
+2026-10-18 110 → 2026-10-28 115（+5）
 
 
 ---

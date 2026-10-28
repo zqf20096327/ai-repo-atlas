@@ -46,12 +46,12 @@ Mac 优先的 Apple Silicon 本地推理运行时，基于 MLX 运行模型图�
 ```mermaid
 xychart-beta
     title "defai-digital/ax-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

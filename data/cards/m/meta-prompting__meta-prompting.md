@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "meta-prompting/meta-prompting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "meta-prompting/meta-prompting 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 328 --> 331
-    line [329, 330]
+    line [329, 330, 330]
 ```
 
-2026-10-18 329 → 2026-10-27 330（+1）
+2026-10-18 329 → 2026-10-28 330（+1）
 
 
 ---

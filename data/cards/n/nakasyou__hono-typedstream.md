@@ -1,6 +1,6 @@
 # nakasyou/hono-typedstream
 
-⭐ 42 · TypeScript · MIT · 推送 2025-10-31 · [GitHub](https://github.com/nakasyou/hono-typedstream) · [官网](https://npmjs.org/package/hono-typedstream) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Hono 的类型安全 JSON 流式响应工具库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

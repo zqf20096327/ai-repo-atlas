@@ -1,6 +1,6 @@
 # deokwons9004dev/Canto-Releases
 
-⭐ 29 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/deokwons9004dev/Canto-Releases) · [官网](https://lonelyduck.io/canto) · 个人维护 · 中文 README
+⭐ 29 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/deokwons9004dev/Canto-Releases) · [官网](https://lonelyduck.io/canto) · 个人维护 · 中文 README
 
 **在 Mac 本地运行 AI 的私人笔记本：带引用问答、研究与会议记录**
 
@@ -46,12 +46,12 @@ macOS 笔记本应用，AI 模型在 Mac 本地运行：在任意笔记旁提问
 ```mermaid
 xychart-beta
     title "deokwons9004dev/Canto-Releases 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-27 29（+1）
+2026-10-18 28 → 2026-10-28 29（+1）
 
 
 ---

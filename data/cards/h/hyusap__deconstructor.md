@@ -1,6 +1,6 @@
 # hyusap/deconstructor
 
-⭐ 263 · TypeScript · 推送 2026-04-01 · [GitHub](https://github.com/hyusap/deconstructor) · [官网](https://deconstructor.app) · 个人维护
+⭐ 264 · TypeScript · 推送 2026-04-01 · [GitHub](https://github.com/hyusap/deconstructor) · [官网](https://deconstructor.app) · 个人维护
 
 **用 AI 拆解单词词根词源并可视化的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyusap/deconstructor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 262 --> 264
-    line [263, 263]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 262 --> 265
+    line [263, 264]
 ```
 
-2026-10-18 263 → 2026-10-27 263（+0）
+2026-10-18 263 → 2026-10-28 264（+1）
 
 
 ---

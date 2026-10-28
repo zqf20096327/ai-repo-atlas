@@ -1,6 +1,6 @@
 # walkinglabs/learn-harness-engineering
 
-⭐ 21,669 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
+⭐ 21,783 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
 
 **面向开发者的 AI coding agent harness 工程课程（14 讲+8 项目）**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/learn-harness-engineering 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 20084 --> 21813
-    line [20228, 20913, 21085, 21159, 21207, 21303, 21417, 21669]
+    title "walkinglabs/learn-harness-engineering 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20073 --> 21938
+    line [20228, 20913, 21085, 21159, 21207, 21303, 21417, 21669, 21783]
 ```
 
-2026-10-18 20,228 → 2026-10-27 21,669（+1,441）
+2026-10-18 20,228 → 2026-10-28 21,783（+1,555）
 
 
 ---

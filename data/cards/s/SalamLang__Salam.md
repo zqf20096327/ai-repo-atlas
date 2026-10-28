@@ -1,6 +1,6 @@
 # SalamLang/Salam
 
-⭐ 68 · TeX · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/SalamLang/Salam) · [官网](https://salamlang.github.io/Salam/) · 组织维护
+⭐ 71 · TeX · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SalamLang/Salam) · [官网](https://salamlang.github.io/Salam/) · 组织维护
 
 **面向波斯语和英语用户的通用与系统级编程语言（含内置 DSL）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SalamLang/Salam 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 58 --> 69
-    line [59, 62, 63, 64, 65, 68]
+    title "SalamLang/Salam 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 58 --> 72
+    line [59, 62, 63, 64, 65, 68, 71]
 ```
 
-2026-10-18 59 → 2026-10-27 68（+9）
+2026-10-18 59 → 2026-10-28 71（+12）
 
 
 ---

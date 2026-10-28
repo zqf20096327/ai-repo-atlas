@@ -1,6 +1,6 @@
 # filipecalegario/awesome-vibe-coding
 
-⭐ 5,371 · CC0-1.0 · 推送 2026-04-16 · [GitHub](https://github.com/filipecalegario/awesome-vibe-coding) · 个人维护 · 中文 README
+⭐ 5,375 · CC0-1.0 · 推送 2026-04-16 · [GitHub](https://github.com/filipecalegario/awesome-vibe-coding) · 个人维护 · 中文 README
 
 **vibe coding 参考资源策展清单：协作式 AI 编程工具与资料汇总**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "filipecalegario/awesome-vibe-coding 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5325 --> 5375
-    line [5329, 5334, 5340, 5349, 5355, 5364, 5371]
+    title "filipecalegario/awesome-vibe-coding 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5325 --> 5379
+    line [5329, 5334, 5340, 5349, 5355, 5364, 5371, 5375]
 ```
 
-2026-10-18 5,329 → 2026-10-27 5,371（+42）
+2026-10-18 5,329 → 2026-10-28 5,375（+46）
 
 
 ---

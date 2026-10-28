@@ -1,6 +1,6 @@
 # OpenDataBox/awesome-agent-memory
 
-⭐ 59 · 推送 2026-07-22 · [GitHub](https://github.com/OpenDataBox/awesome-agent-memory) · [官网](https://arxiv.org/abs/2606.24775) · 组织维护
+⭐ 60 · 推送 2026-07-22 · [GitHub](https://github.com/OpenDataBox/awesome-agent-memory) · [官网](https://arxiv.org/abs/2606.24775) · 组织维护
 
 **Agent 记忆系统论文分类清单，沿四轴组织**
 
@@ -45,12 +45,12 @@ OpenDataBox 维护的 agent 记忆系统论文策展仓库：沿四个轴组织�
 ```mermaid
 xychart-beta
     title "OpenDataBox/awesome-agent-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-10-27 59（+0）
+2026-10-18 59 → 2026-10-28 60（+1）
 
 
 ---

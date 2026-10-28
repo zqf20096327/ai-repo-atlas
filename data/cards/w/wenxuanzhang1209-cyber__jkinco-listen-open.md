@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/jkinco-listen-open
 
-⭐ 107 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open) · [官网](https://wenxuanzhang1209-cyber.github.io/jkinco-listen-open/) · 个人维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open) · [官网](https://wenxuanzhang1209-cyber.github.io/jkinco-listen-open/) · 个人维护 · 中文 README
 
 **全本地运行的 AI 会议纪要工作台：录音转写到 DOCX/PDF 导出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wenxuanzhang1209-cyber/jkinco-listen-open 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 102 --> 108
-    line [103, 105, 106, 107]
+    title "wenxuanzhang1209-cyber/jkinco-listen-open 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 102 --> 109
+    line [103, 105, 106, 107, 108]
 ```
 
-2026-10-18 103 → 2026-10-27 107（+4）
+2026-10-18 103 → 2026-10-28 108（+5）
 
 
 ---

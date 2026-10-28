@@ -1,6 +1,6 @@
 # terraphim/terraphim-ai
 
-⭐ 84 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/terraphim/terraphim-ai) · [官网](https://terraphim.ai) · 组织维护
+⭐ 84 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/terraphim/terraphim-ai) · [官网](https://terraphim.ai) · 组织维护
 
 **本地优先的确定性 AI 助手：跨知识库语义搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "terraphim/terraphim-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 65 --> 85
     line [66, 81, 83, 84, 84]
 ```
 
-2026-10-18 66 → 2026-10-27 84（+18）
+2026-10-18 66 → 2026-10-28 84（+18）
 
 
 ---

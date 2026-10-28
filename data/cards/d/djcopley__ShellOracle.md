@@ -45,12 +45,12 @@ ShellOracle 是面向命令行用户的 shell 命令生成工具，以 BASH/ZSH/
 ```mermaid
 xychart-beta
     title "djcopley/ShellOracle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 353 --> 355
     line [354, 354]
 ```
 
-2026-10-18 354 → 2026-10-27 354（+0）
+2026-10-18 354 → 2026-10-28 354（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nullclaw/nullhub
 
-⭐ 1,809 · Zig · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nullclaw/nullhub) · [官网](https://nullhub.io) · 组织维护 · 中文 README
+⭐ 1,808 · Zig · MIT · 推送 2026-10-04 · [GitHub](https://github.com/nullclaw/nullhub) · [官网](https://nullhub.io) · 组织维护 · 中文 README
 
 **NullClaw 生态组件的安装配置与监控管理控制台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nullclaw/nullhub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "nullclaw/nullhub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1806 --> 1831
-    line [1829, 1819, 1820, 1808, 1809]
+    line [1829, 1819, 1820, 1808, 1809, 1808]
 ```
 
-2026-10-18 1,829 → 2026-10-27 1,809（-20）
+2026-10-18 1,829 → 2026-10-28 1,808（-21）
 
 
 ---

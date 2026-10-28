@@ -1,6 +1,6 @@
 # weaviate/mcp-server-weaviate
 
-⭐ 161 · 推送 2026-05-26 · [GitHub](https://github.com/weaviate/mcp-server-weaviate) · [官网](https://www.anthropic.com/news/model-context-protocol) · 组织维护
+⭐ 162 · 推送 2026-05-26 · [GitHub](https://github.com/weaviate/mcp-server-weaviate) · [官网](https://www.anthropic.com/news/model-context-protocol) · 组织维护
 
 **Weaviate 的 MCP 服务器（已弃用，已并入 Weaviate 主程序）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/mcp-server-weaviate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 160 --> 163
-    line [162, 161, 161]
+    line [162, 161, 162]
 ```
 
-2026-10-18 162 → 2026-10-27 161（-1）
+2026-10-18 162 → 2026-10-28 162（+0）
 
 
 ---

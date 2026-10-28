@@ -1,6 +1,6 @@
 # blueziii/dsh-mc-agent
 
-⭐ 26 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/blueziii/dsh-mc-agent) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/blueziii/dsh-mc-agent) · 个人维护 · 中文 README
 
 **DSH 的 Minecraft 插件：给 AI 40 个工具实际进服玩游戏**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的插件包，基于 yzi1b/whale-craft 魔改独立维
 
 ```mermaid
 xychart-beta
-    title "blueziii/dsh-mc-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4 --> 28
-    line [6, 9, 18, 20, 23, 26]
+    title "blueziii/dsh-mc-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4 --> 29
+    line [6, 9, 18, 20, 23, 26, 27]
 ```
 
-2026-10-18 6 → 2026-10-27 26（+20）
+2026-10-18 6 → 2026-10-28 27（+21）
 
 
 ---

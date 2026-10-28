@@ -1,6 +1,6 @@
 # ilsilfverskiold/Awesome-LLM-Resources-List
 
-⭐ 554 · Python · 推送 2026-10-26 · [GitHub](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) · 个人维护
+⭐ 554 · Python · 推送 2026-10-27 · [GitHub](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List) · 个人维护
 
 **面向应用 AI 工程的 LLM 工具与资源策展对比清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ilsilfverskiold/Awesome-LLM-Resources-List 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 553 --> 556
     line [555, 554, 554]
 ```
 
-2026-10-18 555 → 2026-10-27 554（-1）
+2026-10-18 555 → 2026-10-28 554（-1）
 
 
 ---

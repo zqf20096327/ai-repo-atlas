@@ -1,6 +1,6 @@
 # udecode/plate
 
-⭐ 16,672 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
+⭐ 16,673 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
 
 **为 React 开发者提供带 AI 能力的富文本编辑器框架**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "udecode/plate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 16657 --> 16673
-    line [16658, 16663, 16666, 16668, 16672]
+    title "udecode/plate 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 16657 --> 16674
+    line [16658, 16663, 16666, 16668, 16672, 16673]
 ```
 
-2026-10-18 16,658 → 2026-10-27 16,672（+14）
+2026-10-18 16,658 → 2026-10-28 16,673（+15）
 
 
 ---

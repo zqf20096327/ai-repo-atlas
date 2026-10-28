@@ -1,6 +1,6 @@
 # daniandtheweb/sd.cpp-webui
 
-⭐ 170 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/daniandtheweb/sd.cpp-webui) · 个人维护
+⭐ 171 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/daniandtheweb/sd.cpp-webui) · 个人维护
 
 **本地文生图/视频的轻量 Gradio WebUI，驱动 stable-diffusion.cpp**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daniandtheweb/sd.cpp-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 167 --> 171
-    line [168, 169, 170, 170]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 167 --> 172
+    line [168, 169, 170, 171]
 ```
 
-2026-10-18 168 → 2026-10-27 170（+2）
+2026-10-18 168 → 2026-10-28 171（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Engine-Labs/engine-core
 
-⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/Engine-Labs/engine-core) · [官网](https://www.enginelabs.ai) · 组织维护
+⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/Engine-Labs/engine-core) · [官网](https://www.enginelabs.ai) · 组织维护
 
 **面向软件工程任务的 LLM 聊天策略工具：可换模型的自研工程师**
 
@@ -44,12 +44,12 @@ Engine 是一个开源的 LLM 驱动软件工程师命令行工具，模型无�
 ```mermaid
 xychart-beta
     title "Engine-Labs/engine-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 143 --> 146
-    line [145, 144, 144]
+    line [145, 144, 145]
 ```
 
-2026-10-18 145 → 2026-10-27 144（-1）
+2026-10-18 145 → 2026-10-28 145（+0）
 
 
 ---

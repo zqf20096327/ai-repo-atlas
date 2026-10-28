@@ -1,6 +1,6 @@
 # anthony-maio/mnemos
 
-⭐ 28 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/anthony-maio/mnemos) · [官网](https://mnemos.making-minds.ai) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/anthony-maio/mnemos) · [官网](https://mnemos.making-minds.ai) · 个人维护
 
 **给编程 agent 的本地分层记忆层（MCP）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anthony-maio/mnemos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 28（+0）
 
 
 ---

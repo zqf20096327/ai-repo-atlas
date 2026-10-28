@@ -1,6 +1,6 @@
 # umbertogriffo/rag-chatbot
 
-⭐ 444 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/umbertogriffo/rag-chatbot) · 个人维护
+⭐ 443 · Python · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/umbertogriffo/rag-chatbot) · 个人维护
 
 **基于本地 LLM 的 RAG 聊天机器人：用 Markdown 文档库回答提问**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "umbertogriffo/rag-chatbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 443 --> 446
-    line [445, 444, 444]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 442 --> 446
+    line [445, 444, 443]
 ```
 
-2026-10-18 445 → 2026-10-27 444（-1）
+2026-10-18 445 → 2026-10-28 443（-2）
 
 
 ---

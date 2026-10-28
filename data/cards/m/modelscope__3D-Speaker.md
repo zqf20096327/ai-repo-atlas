@@ -1,6 +1,6 @@
 # modelscope/3D-Speaker
 
-⭐ 3,198 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/modelscope/3D-Speaker) · 组织维护 · 中文 README
+⭐ 3,199 · Python · Apache-2.0 · 推送 2025-12-08 · [GitHub](https://github.com/modelscope/3D-Speaker) · 组织维护 · 中文 README
 
 **开源说话人验证/识别/分离工具包，附大规模语音数据集**
 
@@ -44,13 +44,13 @@ ModelScope 团队维护的单模态与多模态说话人研究工具包：提供
 
 ```mermaid
 xychart-beta
-    title "modelscope/3D-Speaker 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3184 --> 3199
-    line [3185, 3187, 3189, 3192, 3196, 3198]
+    title "modelscope/3D-Speaker 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3184 --> 3200
+    line [3185, 3187, 3189, 3192, 3196, 3198, 3199]
 ```
 
-2026-10-18 3,185 → 2026-10-27 3,198（+13）
+2026-10-18 3,185 → 2026-10-28 3,199（+14）
 
 
 ---

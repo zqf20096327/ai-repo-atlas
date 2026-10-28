@@ -1,6 +1,6 @@
 # Temaki-AI/clawd-control
 
-⭐ 114 · HTML · MIT · 推送 2026-02-28 · [GitHub](https://github.com/Temaki-AI/clawd-control) · [官网](https://clawdcontrol.com) · 组织维护
+⭐ 115 · HTML · MIT · 推送 2026-02-28 · [GitHub](https://github.com/Temaki-AI/clawd-control) · [官网](https://clawdcontrol.com) · 组织维护
 
 **监控管理 Clawdbot AI agent 集群的实时仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Temaki-AI/clawd-control 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 113 --> 116
-    line [115, 114, 114]
+    line [115, 114, 115]
 ```
 
-2026-10-18 115 → 2026-10-27 114（-1）
+2026-10-18 115 → 2026-10-28 115（+0）
 
 
 ---

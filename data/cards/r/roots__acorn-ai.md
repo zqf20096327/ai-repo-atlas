@@ -44,12 +44,12 @@ Roots 维护的 Acorn 扩展包：在 WordPress 环境中引入 laravel/ai 的�
 ```mermaid
 xychart-beta
     title "roots/acorn-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

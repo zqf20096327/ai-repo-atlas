@@ -1,6 +1,6 @@
 # agnaistic/agnai
 
-⭐ 788 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/agnaistic/agnai) · [官网](https://agnai.chat) · 组织维护
+⭐ 789 · TypeScript · AGPL-3.0 · 推送 2026-06-15 · [GitHub](https://github.com/agnaistic/agnai) · [官网](https://agnai.chat) · 组织维护
 
 **多用户多角色的 AI 角色扮演聊天自托管平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agnaistic/agnai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    title "agnaistic/agnai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 787 --> 790
-    line [788, 789, 788]
+    line [788, 789, 788, 789]
 ```
 
-2026-10-18 788 → 2026-10-27 788（+0）
+2026-10-18 788 → 2026-10-28 789（+1）
 
 
 ---

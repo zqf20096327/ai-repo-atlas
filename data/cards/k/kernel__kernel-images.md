@@ -1,6 +1,6 @@
 # kernel/kernel-images
 
-⭐ 1,115 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kernel/kernel-images) · [官网](https://www.kernel.sh) · 组织维护
+⭐ 1,117 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kernel/kernel-images) · [官网](https://www.kernel.sh) · 组织维护
 
 **面向自动化与 Web Agent 的沙箱化 Chrome 浏览器运行环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kernel/kernel-images 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1102 --> 1116
-    line [1103, 1107, 1108, 1111, 1112, 1114, 1115]
+    title "kernel/kernel-images 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1102 --> 1118
+    line [1103, 1107, 1108, 1111, 1112, 1114, 1115, 1117]
 ```
 
-2026-10-18 1,103 → 2026-10-27 1,115（+12）
+2026-10-18 1,103 → 2026-10-28 1,117（+14）
 
 
 ---

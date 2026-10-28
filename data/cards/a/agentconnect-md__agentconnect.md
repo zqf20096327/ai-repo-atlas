@@ -1,6 +1,6 @@
 # agentconnect-md/agentconnect
 
-⭐ 1,494 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护 · 中文 README
+⭐ 1,497 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护 · 中文 README
 
 **让多 AI agent 接入团队聊天与代码平台的协作平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentconnect-md/agentconnect 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1469 --> 1496
-    line [1471, 1474, 1479, 1486, 1487, 1491, 1494]
+    title "agentconnect-md/agentconnect 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1469 --> 1499
+    line [1471, 1474, 1479, 1486, 1487, 1491, 1494, 1497]
 ```
 
-2026-10-18 1,471 → 2026-10-27 1,494（+23）
+2026-10-18 1,471 → 2026-10-28 1,497（+26）
 
 
 ---

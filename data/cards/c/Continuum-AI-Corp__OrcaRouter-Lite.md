@@ -1,6 +1,6 @@
 # Continuum-AI-Corp/OrcaRouter-Lite
 
-⭐ 1,439 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护 · 中文 README
+⭐ 1,443 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护 · 中文 README
 
 **自托管 LLM 路由网关：OpenAI 兼容、多后端、自动选型与故障兜底**
 
@@ -45,13 +45,13 @@ OrcaRouter Lite 是 OrcaRouter 的开源单工作区版本，作为可自托管�
 
 ```mermaid
 xychart-beta
-    title "Continuum-AI-Corp/OrcaRouter-Lite 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "Continuum-AI-Corp/OrcaRouter-Lite 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1416 --> 1532
-    line [1518, 1521, 1523, 1425, 1428, 1435, 1438, 1439]
+    line [1518, 1521, 1523, 1425, 1428, 1435, 1438, 1439, 1443]
 ```
 
-2026-10-18 1,518 → 2026-10-27 1,439（-79）
+2026-10-18 1,518 → 2026-10-28 1,443（-75）
 
 
 ---

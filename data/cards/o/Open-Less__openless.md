@@ -1,6 +1,6 @@
 # Open-Less/openless
 
-⭐ 3,975 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://github.com/appergb/openless) · 组织维护 · 中文 README
+⭐ 3,982 · Rust · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://github.com/appergb/openless) · 组织维护 · 中文 README
 
 **开源跨平台语音输入工具：按住热键说话，光标处得到润色后文字**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Less/openless 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3859 --> 3985
-    line [3869, 3900, 3935, 3941, 3953, 3965, 3975]
+    title "Open-Less/openless 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3858 --> 3993
+    line [3869, 3900, 3935, 3941, 3953, 3965, 3975, 3982]
 ```
 
-2026-10-18 3,869 → 2026-10-27 3,975（+106）
+2026-10-18 3,869 → 2026-10-28 3,982（+113）
 
 
 ---

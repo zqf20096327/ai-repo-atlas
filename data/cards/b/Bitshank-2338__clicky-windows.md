@@ -1,6 +1,6 @@
 # Bitshank-2338/clicky-windows
 
-⭐ 281 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Bitshank-2338/clicky-windows) · 个人维护
+⭐ 283 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Bitshank-2338/clicky-windows) · 个人维护
 
 **常驻光标旁的 Windows 离线 AI 屏幕教学助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bitshank-2338/clicky-windows 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 263 --> 282
-    line [264, 269, 272, 275, 278, 281]
+    title "Bitshank-2338/clicky-windows 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 263 --> 284
+    line [264, 269, 272, 275, 278, 281, 283]
 ```
 
-2026-10-18 264 → 2026-10-27 281（+17）
+2026-10-18 264 → 2026-10-28 283（+19）
 
 
 ---

@@ -45,12 +45,12 @@ Ariadne 是一个 Rust 编写的 MCP 服务器，面向编码代理：将 Kubern
 ```mermaid
 xychart-beta
     title "REASY/k8s-ariadne-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

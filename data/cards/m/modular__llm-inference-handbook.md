@@ -1,6 +1,6 @@
 # modular/llm-inference-handbook
 
-⭐ 465 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
+⭐ 466 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modular/llm-inference-handbook) · [官网](https://handbook.modular.com/) · 组织维护
 
 **LLM 推理系统的实践指南（Docusaurus 站点源码）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "modular/llm-inference-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 456 --> 466
-    line [457, 459, 462, 464, 465]
+    title "modular/llm-inference-handbook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 456 --> 467
+    line [457, 459, 462, 464, 465, 466]
 ```
 
-2026-10-18 457 → 2026-10-27 465（+8）
+2026-10-18 457 → 2026-10-28 466（+9）
 
 
 ---

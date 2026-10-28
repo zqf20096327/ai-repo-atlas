@@ -1,6 +1,6 @@
 # oso95/domain-suite-mcp
 
-⭐ 22 · TypeScript · MIT · 推送 2026-03-12 · [GitHub](https://github.com/oso95/domain-suite-mcp) · [官网](https://www.npmjs.com/package/domain-suite-mcp) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-03-12 · [GitHub](https://github.com/oso95/domain-suite-mcp) · [官网](https://www.npmjs.com/package/domain-suite-mcp) · 个人维护
 
 **让 AI agent 自主管理域名与 DNS 的 MCP 服务器**
 
@@ -44,13 +44,13 @@ TypeScript 编写的开源 MCP 服务器，作为统一抽象层对接 Porkbun�
 
 ```mermaid
 xychart-beta
-    title "oso95/domain-suite-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 19 --> 23
-    line [20, 22]
+    title "oso95/domain-suite-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 19 --> 24
+    line [20, 22, 23]
 ```
 
-2026-10-18 20 → 2026-10-27 22（+2）
+2026-10-18 20 → 2026-10-28 23（+3）
 
 
 ---

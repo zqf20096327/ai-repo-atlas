@@ -1,6 +1,6 @@
 # langchain-ai/openwork
 
-⭐ 1,457 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/openwork) · 组织维护
+⭐ 1,458 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/langchain-ai/openwork) · 组织维护
 
 **deepagentsjs 桌面端：AI agent 的文件系统与规划界面**
 
@@ -44,12 +44,12 @@ langchain-ai 维护的桌面应用，为 deepagentsjs 提供图形界面：支�
 ```mermaid
 xychart-beta
     title "langchain-ai/openwork 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1456 --> 1460
-    line [1459, 1458, 1459, 1457, 1457]
+    line [1459, 1458, 1459, 1457, 1458]
 ```
 
-2026-10-18 1,459 → 2026-10-27 1,457（-2）
+2026-10-18 1,459 → 2026-10-28 1,458（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lycohana/BiliSum
 
-⭐ 645 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lycohana/BiliSum) · 个人维护 · 中文 README
+⭐ 643 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lycohana/BiliSum) · 个人维护 · 中文 README
 
 **面向 B 站/YouTube/本地视频的 AI 转写、摘要与知识库工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lycohana/BiliSum 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "lycohana/BiliSum 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 638 --> 647
-    line [639, 641, 643, 646, 645]
+    line [639, 641, 643, 646, 645, 643]
 ```
 
-2026-10-18 639 → 2026-10-27 645（+6）
+2026-10-18 639 → 2026-10-28 643（+4）
 
 
 ---

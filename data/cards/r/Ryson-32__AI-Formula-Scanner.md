@@ -1,6 +1,6 @@
 # Ryson-32/AI-Formula-Scanner
 
-⭐ 67 · Svelte · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/Ryson-32/AI-Formula-Scanner) · 个人维护 · 中文 README
+⭐ 68 · Svelte · Apache-2.0 · 推送 2026-06-14 · [GitHub](https://github.com/Ryson-32/AI-Formula-Scanner) · 个人维护 · 中文 README
 
 **Windows 桌面公式 OCR 工具：识别图像公式为 LaTeX 并分析管理**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Ryson-32/AI-Formula-Scanner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 66 --> 69
-    line [68, 67, 67]
+    line [68, 67, 68]
 ```
 
-2026-10-18 68 → 2026-10-27 67（-1）
+2026-10-18 68 → 2026-10-28 68（+0）
 
 
 ---

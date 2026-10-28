@@ -1,6 +1,6 @@
 # Work-Fisher/fisher-storylens
 
-⭐ 22 · 推送 2026-10-15 · [GitHub](https://github.com/Work-Fisher/fisher-storylens) · 个人维护 · 中文 README
+⭐ 26 · 推送 2026-10-15 · [GitHub](https://github.com/Work-Fisher/fisher-storylens) · 个人维护 · 中文 README
 
 **短剧制作提示词 Skill：串联 Z-Image/Qwen-Image/MiniMax H3 三阶段流程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Work-Fisher/fisher-storylens 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9 --> 23
-    line [10, 13, 14, 16, 18, 19, 20, 22]
+    title "Work-Fisher/fisher-storylens 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 9 --> 27
+    line [10, 13, 14, 16, 18, 19, 20, 22, 26]
 ```
 
-2026-10-18 10 → 2026-10-27 22（+12）
+2026-10-18 10 → 2026-10-28 26（+16）
 
 
 ---

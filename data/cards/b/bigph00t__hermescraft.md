@@ -1,6 +1,6 @@
 # bigph00t/hermescraft
 
-⭐ 74 · JavaScript · MIT · 推送 2026-03-25 · [GitHub](https://github.com/bigph00t/hermescraft) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
+⭐ 75 · JavaScript · MIT · 推送 2026-03-25 · [GitHub](https://github.com/bigph00t/hermescraft) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
 
 **Minecraft 中的具身 Hermes AI 伴侣与多智能体世界**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bigph00t/hermescraft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75]
 ```
 
-2026-10-18 73 → 2026-10-27 74（+1）
+2026-10-18 73 → 2026-10-28 75（+2）
 
 
 ---

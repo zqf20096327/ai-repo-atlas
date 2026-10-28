@@ -1,6 +1,6 @@
 # EDF-Lab/ts-icl
 
-⭐ 127 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/EDF-Lab/ts-icl) · [官网](https://edf-lab.github.io/ts-icl/) · 组织维护
+⭐ 128 · Python · NOASSERTION · 推送 2026-07-17 · [GitHub](https://github.com/EDF-Lab/ts-icl) · [官网](https://edf-lab.github.io/ts-icl/) · 组织维护
 
 **时间序列基础模型：零样本统一预测与缺失值填补**
 
@@ -45,12 +45,12 @@ TS-ICL 是一个连续概率型时间序列基础模型（TSFM），在单一零
 ```mermaid
 xychart-beta
     title "EDF-Lab/ts-icl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 126 --> 130
-    line [129, 128, 127, 127]
+    line [129, 128, 127, 128]
 ```
 
-2026-10-18 129 → 2026-10-27 127（-2）
+2026-10-18 129 → 2026-10-28 128（-1）
 
 
 ---

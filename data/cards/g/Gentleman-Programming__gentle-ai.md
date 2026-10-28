@@ -1,6 +1,6 @@
 # Gentleman-Programming/gentle-ai
 
-⭐ 8,034 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Gentleman-Programming/gentle-ai) · [官网](https://gentlemanprogramming.com/) · 组织维护
+⭐ 8,060 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Gentleman-Programming/gentle-ai) · [官网](https://gentlemanprogramming.com/) · 组织维护
 
 **为已有 AI 编程 agent 配置记忆、工作流与审查的开源环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gentleman-Programming/gentle-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 7805 --> 8054
-    line [7825, 7864, 7932, 7958, 7985, 8006, 8034]
+    title "Gentleman-Programming/gentle-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 7802 --> 8083
+    line [7825, 7864, 7932, 7958, 7985, 8006, 8034, 8060]
 ```
 
-2026-10-18 7,825 → 2026-10-27 8,034（+209）
+2026-10-18 7,825 → 2026-10-28 8,060（+235）
 
 
 ---

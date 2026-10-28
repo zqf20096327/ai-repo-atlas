@@ -1,6 +1,6 @@
 # open-gitagent/clawless
 
-⭐ 542 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/open-gitagent/clawless) · [官网](https://play.clawless.io) · 组织维护
+⭐ 543 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/open-gitagent/clawless) · [官网](https://play.clawless.io) · 组织维护
 
 **浏览器内运行 Claw AI Agent 的无服务器沙箱运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-gitagent/clawless 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 538 --> 543
-    line [539, 542, 541, 542, 542]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 538 --> 544
+    line [539, 542, 541, 542, 543]
 ```
 
-2026-10-18 539 → 2026-10-27 542（+3）
+2026-10-18 539 → 2026-10-28 543（+4）
 
 
 ---

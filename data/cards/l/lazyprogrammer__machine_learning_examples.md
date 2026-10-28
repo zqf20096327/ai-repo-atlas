@@ -1,6 +1,6 @@
 # lazyprogrammer/machine_learning_examples
 
-⭐ 8,942 · Python · 推送 2026-09-28 · [GitHub](https://github.com/lazyprogrammer/machine_learning_examples) · [官网](https://lazyprogrammer.me) · 个人维护
+⭐ 8,943 · Python · 推送 2026-09-28 · [GitHub](https://github.com/lazyprogrammer/machine_learning_examples) · [官网](https://lazyprogrammer.me) · 个人维护
 
 **机器学习课程配套代码示例集（Python 教学用）**
 
@@ -44,12 +44,12 @@ LazyProgrammer 付费课程的代码示例仓库：按文件夹组织，一个�
 ```mermaid
 xychart-beta
     title "lazyprogrammer/machine_learning_examples 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 8930 --> 8943
-    line [8931, 8933, 8936, 8937, 8940, 8942, 8942]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 8930 --> 8944
+    line [8931, 8933, 8936, 8937, 8940, 8942, 8943]
 ```
 
-2026-10-18 8,931 → 2026-10-27 8,942（+11）
+2026-10-18 8,931 → 2026-10-28 8,943（+12）
 
 
 ---

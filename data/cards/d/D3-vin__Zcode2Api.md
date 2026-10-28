@@ -1,6 +1,6 @@
 # D3-vin/Zcode2Api
 
-⭐ 29 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/D3-vin/Zcode2Api) · [官网](https://t.me/D3_vin) · 个人维护
+⭐ 31 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/D3-vin/Zcode2Api) · [官网](https://t.me/D3_vin) · 个人维护
 
 **将 Z.AI ZCode 账号池转换为 OpenAI/Anthropic 兼容 API 的代理网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "D3-vin/Zcode2Api 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29, 29]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 31]
 ```
 
-2026-10-22 27 → 2026-10-27 29（+2）
+2026-10-22 27 → 2026-10-28 31（+4）
 
 
 ---

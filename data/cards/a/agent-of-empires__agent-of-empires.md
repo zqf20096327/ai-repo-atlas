@@ -1,6 +1,6 @@
 # agent-of-empires/agent-of-empires
 
-⭐ 3,385 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/agent-of-empires/agent-of-empires) · [官网](http://www.agent-of-empires.com/) · 组织维护
+⭐ 3,389 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/agent-of-empires/agent-of-empires) · [官网](http://www.agent-of-empires.com/) · 组织维护
 
 **AI 编码代理的会话管理器：TUI/Web 并行管理多个 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-of-empires/agent-of-empires 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3362 --> 3387
-    line [3364, 3365, 3375, 3380, 3382, 3385]
+    title "agent-of-empires/agent-of-empires 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3362 --> 3391
+    line [3364, 3365, 3375, 3380, 3382, 3385, 3389]
 ```
 
-2026-10-18 3,364 → 2026-10-27 3,385（+21）
+2026-10-18 3,364 → 2026-10-28 3,389（+25）
 
 
 ---

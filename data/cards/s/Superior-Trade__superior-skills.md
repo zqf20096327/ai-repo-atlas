@@ -1,6 +1,6 @@
 # Superior-Trade/superior-skills
 
-⭐ 215 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Superior-Trade/superior-skills) · 组织维护
+⭐ 216 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/Superior-Trade/superior-skills) · 组织维护
 
 **面向交易 agent 的技能与工具模式包：Hyperliquid 回测部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Superior-Trade/superior-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 214 --> 217
-    line [216, 215, 215]
+    line [216, 215, 216]
 ```
 
-2026-10-18 216 → 2026-10-27 215（-1）
+2026-10-18 216 → 2026-10-28 216（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/Finetuning-Suite
 
-⭐ 59 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kyegomez/Finetuning-Suite) · [官网](https://finetuning-suite.readthedocs.io/en/latest/) · 个人维护
+⭐ 59 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/Finetuning-Suite) · [官网](https://finetuning-suite.readthedocs.io/en/latest/) · 个人维护
 
 **模型微调工具包：用 QLoRA/LoRA/PEFT 快速微调 HF 模型**
 
@@ -43,12 +43,12 @@ Python 微调工具包（ft-suite）：基于 QLoRA、BitsAndBytes、LoRA、PEFT
 ```mermaid
 xychart-beta
     title "kyegomez/Finetuning-Suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-27 59（+0）
+2026-10-18 59 → 2026-10-28 59（+0）
 
 
 ---

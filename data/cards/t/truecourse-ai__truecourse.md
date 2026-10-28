@@ -1,6 +1,6 @@
 # truecourse-ai/truecourse
 
-⭐ 539 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/truecourse-ai/truecourse) · [官网](https://truecourse.dev) · 组织维护
+⭐ 540 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/truecourse-ai/truecourse) · [官网](https://truecourse.dev) · 组织维护
 
 **把团队已有文档转化为可运行的端到端测试（基于 Claude Code）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "truecourse-ai/truecourse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 536 --> 540
-    line [537, 538, 539]
+    title "truecourse-ai/truecourse 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 536 --> 541
+    line [537, 538, 539, 540]
 ```
 
-2026-10-18 537 → 2026-10-27 539（+2）
+2026-10-18 537 → 2026-10-28 540（+3）
 
 
 ---

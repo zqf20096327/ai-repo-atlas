@@ -1,6 +1,6 @@
 # ianarawjo/ChainForge
 
-⭐ 3,038 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ianarawjo/ChainForge) · [官网](https://chainforge.ai/docs) · 组织维护
+⭐ 3,039 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ianarawjo/ChainForge) · [官网](https://chainforge.ai/docs) · 组织维护
 
 **可视化提示词测试环境：跨模型对比与评估 LLM 响应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ianarawjo/ChainForge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 3034 --> 3040
-    line [3035, 3037, 3038, 3039, 3038, 3038]
+    line [3035, 3037, 3038, 3039, 3038, 3039]
 ```
 
-2026-10-18 3,035 → 2026-10-27 3,038（+3）
+2026-10-18 3,035 → 2026-10-28 3,039（+4）
 
 
 ---

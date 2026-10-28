@@ -1,6 +1,6 @@
 # tuan3w/obsidian-template
 
-⭐ 1,136 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/tuan3w/obsidian-template) · 个人维护
+⭐ 1,137 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/tuan3w/obsidian-template) · 个人维护
 
 **Obsidian 第二大脑起步模板：笔记模板+插件+Zettelkasten 工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuan3w/obsidian-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1129 --> 1137
-    line [1130, 1133, 1135, 1136]
+    title "tuan3w/obsidian-template 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1129 --> 1138
+    line [1130, 1133, 1135, 1136, 1137]
 ```
 
-2026-10-18 1,130 → 2026-10-27 1,136（+6）
+2026-10-18 1,130 → 2026-10-28 1,137（+7）
 
 
 ---

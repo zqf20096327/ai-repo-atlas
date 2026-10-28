@@ -1,6 +1,6 @@
 # ZhenyuanPAN822/relationship-candlestick-lab
 
-⭐ 84 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ZhenyuanPAN822/relationship-candlestick-lab) · 个人维护 · 中文 README
+⭐ 83 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ZhenyuanPAN822/relationship-candlestick-lab) · 个人维护 · 中文 README
 
 **把两人的聊天记录量化成关系K线走势图的分析工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhenyuanPAN822/relationship-candlestick-lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 83 --> 87
-    line [85, 86, 84, 84]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 82 --> 87
+    line [85, 86, 84, 83]
 ```
 
-2026-10-18 85 → 2026-10-27 84（-1）
+2026-10-18 85 → 2026-10-28 83（-2）
 
 
 ---

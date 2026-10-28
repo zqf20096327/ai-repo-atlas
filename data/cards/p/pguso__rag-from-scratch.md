@@ -1,6 +1,6 @@
 # pguso/rag-from-scratch
 
-⭐ 1,647 · JavaScript · MIT · 推送 2026-03-11 · [GitHub](https://github.com/pguso/rag-from-scratch) · 个人维护
+⭐ 1,648 · JavaScript · MIT · 推送 2026-03-11 · [GitHub](https://github.com/pguso/rag-from-scratch) · 个人维护
 
 **面向开发者的 RAG 从零实现教程：本地 LLM、逐步代码讲解**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pguso/rag-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1642 --> 1648
-    line [1643, 1646, 1647, 1646, 1647]
+    title "pguso/rag-from-scratch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1642 --> 1649
+    line [1643, 1646, 1647, 1646, 1647, 1648]
 ```
 
-2026-10-18 1,643 → 2026-10-27 1,647（+4）
+2026-10-18 1,643 → 2026-10-28 1,648（+5）
 
 
 ---

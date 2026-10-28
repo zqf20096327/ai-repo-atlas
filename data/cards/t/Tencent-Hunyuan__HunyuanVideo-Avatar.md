@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo-Avatar
 
-⭐ 2,185 · Python · NOASSERTION · 推送 2025-12-16 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) · 组织维护 · 中文 README
+⭐ 2,189 · Python · NOASSERTION · 推送 2025-12-16 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar) · 组织维护 · 中文 README
 
 **音频驱动的人物动画视频生成模型，支持多角色对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanVideo-Avatar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 2183 --> 2187
-    line [2184, 2186, 2185, 2185]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 2183 --> 2190
+    line [2184, 2186, 2185, 2189]
 ```
 
-2026-10-18 2,184 → 2026-10-27 2,185（+1）
+2026-10-18 2,184 → 2026-10-28 2,189（+5）
 
 
 ---

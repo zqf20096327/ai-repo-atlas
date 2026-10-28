@@ -1,6 +1,6 @@
 # DasDigitaleMomentum/searxNcrawl
 
-⭐ 181 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DasDigitaleMomentum/searxNcrawl) · [官网](https://www.searxncrawl.io) · 组织维护
+⭐ 182 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DasDigitaleMomentum/searxNcrawl) · [官网](https://www.searxncrawl.io) · 组织维护
 
 **给 AI agent 的自托管 MCP 搜索与爬取服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DasDigitaleMomentum/searxNcrawl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 166 --> 182
-    line [167, 177, 179, 181, 181]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 166 --> 183
+    line [167, 177, 179, 181, 182]
 ```
 
-2026-10-18 167 → 2026-10-27 181（+14）
+2026-10-18 167 → 2026-10-28 182（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # tianma-if/edgeever
 
-⭐ 2,895 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
+⭐ 2,936 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
 
 **自托管/Serverless 知识库笔记，可接 AI Agent 与多端同步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tianma-if/edgeever 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2261 --> 2952
-    line [2318, 2337, 2441, 2489, 2525, 2539, 2744, 2895]
+    title "tianma-if/edgeever 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2257 --> 2997
+    line [2318, 2337, 2441, 2489, 2525, 2539, 2744, 2895, 2936]
 ```
 
-2026-10-18 2,318 → 2026-10-27 2,895（+577）
+2026-10-18 2,318 → 2026-10-28 2,936（+618）
 
 
 ---

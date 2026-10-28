@@ -1,6 +1,6 @@
 # ATH-MaaS/ComfyUI-Copilot
 
-⭐ 5,558 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/ATH-MaaS/ComfyUI-Copilot) · 组织维护 · 中文 README
+⭐ 5,559 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/ATH-MaaS/ComfyUI-Copilot) · 组织维护 · 中文 README
 
 **ComfyUI 的 AI 助手插件：生成、调试、优化工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ATH-MaaS/ComfyUI-Copilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5549 --> 5559
-    line [5550, 5554, 5553, 5555, 5558, 5558]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 5549 --> 5560
+    line [5550, 5554, 5553, 5555, 5558, 5559]
 ```
 
-2026-10-18 5,550 → 2026-10-27 5,558（+8）
+2026-10-18 5,550 → 2026-10-28 5,559（+9）
 
 
 ---

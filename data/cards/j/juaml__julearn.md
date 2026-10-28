@@ -1,6 +1,6 @@
 # juaml/julearn
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/juaml/julearn) · [官网](https://juaml.github.io/julearn) · 组织维护
+⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/juaml/julearn) · [官网](https://juaml.github.io/julearn) · 组织维护
 
 **科研用 Python 机器学习库：无泄漏的模型评估与检查**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "juaml/julearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 33（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wheattoast11/openrouter-deep-research-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "wheattoast11/openrouter-deep-research-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 53 --> 56
-    line [55, 54, 55]
+    line [55, 54, 55, 55]
 ```
 
-2026-10-18 55 → 2026-10-27 55（+0）
+2026-10-18 55 → 2026-10-28 55（+0）
 
 
 ---

@@ -45,12 +45,12 @@ SISSO（Sure Independence Screening and Sparsifying Operator）是数据驱动�
 ```mermaid
 xychart-beta
     title "rouyang2017/SISSO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 375 --> 377
     line [376, 376]
 ```
 
-2026-10-18 376 → 2026-10-27 376（+0）
+2026-10-18 376 → 2026-10-28 376（+0）
 
 
 ---

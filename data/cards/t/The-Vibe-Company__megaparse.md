@@ -1,6 +1,6 @@
 # The-Vibe-Company/megaparse
 
-⭐ 7,415 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/The-Vibe-Company/megaparse) · [官网](https://megaparse.com) · 组织维护
+⭐ 7,416 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/The-Vibe-Company/megaparse) · [官网](https://megaparse.com) · 组织维护
 
 **面向 LLM 摄取的文档解析器：无损转换 PDF/Office 文件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Vibe-Company/megaparse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "The-Vibe-Company/megaparse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 7413 --> 7417
-    line [7415, 7414, 7416, 7415]
+    line [7415, 7414, 7416, 7415, 7416]
 ```
 
-2026-10-18 7,415 → 2026-10-27 7,415（+0）
+2026-10-18 7,415 → 2026-10-28 7,416（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leaderiop/SpecForge
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/leaderiop/SpecForge) · 组织维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/leaderiop/SpecForge) · 组织维护
 
 **把团队规则编译成确定性检查的规范工具，供 AI agent 使用**
 
@@ -44,13 +44,13 @@ Rust 编写的单二进制规范检查工具：把系统需求写成结构化 .s
 
 ```mermaid
 xychart-beta
-    title "leaderiop/SpecForge 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 16 --> 37
-    line [17, 23, 27, 30, 36]
+    title "leaderiop/SpecForge 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 15 --> 40
+    line [17, 23, 27, 30, 36, 38]
 ```
 
-2026-10-23 17 → 2026-10-27 36（+19）
+2026-10-23 17 → 2026-10-28 38（+21）
 
 
 ---

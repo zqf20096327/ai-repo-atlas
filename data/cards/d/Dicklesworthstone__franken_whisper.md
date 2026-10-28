@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dicklesworthstone/franken_whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Dicklesworthstone/franken_whisper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 92 --> 95
-    line [94, 93]
+    line [94, 93, 93]
 ```
 
-2026-10-18 94 → 2026-10-27 93（-1）
+2026-10-18 94 → 2026-10-28 93（-1）
 
 
 ---

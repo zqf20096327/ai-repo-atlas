@@ -1,6 +1,6 @@
 # arifszn/slide-wright
 
-⭐ 64 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arifszn/slide-wright) · 个人维护
+⭐ 65 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/arifszn/slide-wright) · 个人维护
 
 **让编程 agent 生成幻灯片的技能：预览确认后构建并导出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arifszn/slide-wright 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 57 --> 65
-    line [58, 59, 61, 62, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 57 --> 66
+    line [58, 59, 61, 62, 63, 64, 65]
 ```
 
-2026-10-18 58 → 2026-10-27 64（+6）
+2026-10-18 58 → 2026-10-28 65（+7）
 
 
 ---

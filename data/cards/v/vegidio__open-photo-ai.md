@@ -1,6 +1,6 @@
 # vegidio/open-photo-ai
 
-⭐ 219 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/vegidio/open-photo-ai) · 个人维护
+⭐ 220 · Rust · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/vegidio/open-photo-ai) · 个人维护
 
 **桌面 AI 照片增强工具：降噪/修复/上色/放大等，Topaz 替代**
 
@@ -46,12 +46,12 @@ Rust 编写的开源照片 AI 增强应用，定位为 Topaz Photo AI 的开源�
 ```mermaid
 xychart-beta
     title "vegidio/open-photo-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 213 --> 220
-    line [214, 215, 217, 218, 219, 219]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 213 --> 221
+    line [214, 215, 217, 218, 219, 220]
 ```
 
-2026-10-18 214 → 2026-10-27 219（+5）
+2026-10-18 214 → 2026-10-28 220（+6）
 
 
 ---

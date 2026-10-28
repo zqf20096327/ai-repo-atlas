@@ -1,6 +1,6 @@
 # perpetual-ml/perpetual
 
-⭐ 714 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.com) · 组织维护
+⭐ 715 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.com) · 组织维护
 
 **免调参的梯度提升库：单次训练即可用的 Rust 核心 GBM**
 
@@ -46,12 +46,12 @@ Rust 实现的梯度提升机（PerpetualBooster），以单一 budget 参数替
 ```mermaid
 xychart-beta
     title "perpetual-ml/perpetual 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 711 --> 715
-    line [712, 713, 714, 714]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 711 --> 716
+    line [712, 713, 714, 715]
 ```
 
-2026-10-18 712 → 2026-10-27 714（+2）
+2026-10-18 712 → 2026-10-28 715（+3）
 
 
 ---

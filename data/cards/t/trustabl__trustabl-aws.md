@@ -1,6 +1,6 @@
 # trustabl/trustabl-aws
 
-⭐ 47 · Shell · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/trustabl/trustabl-aws) · 组织维护
+⭐ 48 · Shell · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/trustabl/trustabl-aws) · 组织维护
 
 **AWS CI/CD 中检测 AI agent 可靠性问题的扫描门禁**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "trustabl/trustabl-aws 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-23", "2026-10-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-23 47 → 2026-10-27 47（+0）
+2026-10-23 47 → 2026-10-28 48（+1）
 
 
 ---

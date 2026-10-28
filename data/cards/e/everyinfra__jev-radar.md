@@ -1,6 +1,6 @@
 # everyinfra/jev-radar
 
-⭐ 35 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/everyinfra/jev-radar) · [官网](https://radar.everyinfra.com) · 组织维护 · 中文 README
+⭐ 35 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/everyinfra/jev-radar) · [官网](https://radar.everyinfra.com) · 组织维护 · 中文 README
 
 **Jev（TypeSafe AI System One）生态案例注册表与监控清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "everyinfra/jev-radar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-27 35（+1）
+2026-10-18 34 → 2026-10-28 35（+1）
 
 
 ---

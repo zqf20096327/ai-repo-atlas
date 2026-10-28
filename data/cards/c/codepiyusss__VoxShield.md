@@ -1,6 +1,6 @@
 # codepiyusss/VoxShield
 
-⭐ 30 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/codepiyusss/VoxShield) · [官网](https://voxshield-psi.vercel.app) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/codepiyusss/VoxShield) · [官网](https://voxshield-psi.vercel.app) · 个人维护
 
 **检测音频是否为合成语音的机器学习原型系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "codepiyusss/VoxShield 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11 --> 31
-    line [12, 14, 15, 18, 21, 24, 29, 30]
+    title "codepiyusss/VoxShield 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10 --> 34
+    line [12, 14, 15, 18, 21, 24, 29, 30, 32]
 ```
 
-2026-10-18 12 → 2026-10-27 30（+18）
+2026-10-18 12 → 2026-10-28 32（+20）
 
 
 ---

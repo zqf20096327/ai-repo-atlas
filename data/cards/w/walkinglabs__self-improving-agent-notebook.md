@@ -1,6 +1,6 @@
 # walkinglabs/self-improving-agent-notebook
 
-⭐ 50 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/self-improving-agent-notebook) · [官网](https://walkinglabs.github.io/self-improving-agent-notebook/) · 组织维护 · 中文 README
+⭐ 51 · Jupyter Notebook · 推送 2026-10-01 · [GitHub](https://github.com/walkinglabs/self-improving-agent-notebook) · [官网](https://walkinglabs.github.io/self-improving-agent-notebook/) · 组织维护 · 中文 README
 
 **斯坦福 CS329A 配套的 17 讲自改进 Agent 可运行笔记本课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/self-improving-agent-notebook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 42 --> 51
-    line [43, 45, 48, 49, 50]
+    title "walkinglabs/self-improving-agent-notebook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 42 --> 52
+    line [43, 45, 48, 49, 50, 51]
 ```
 
-2026-10-18 43 → 2026-10-27 50（+7）
+2026-10-18 43 → 2026-10-28 51（+8）
 
 
 ---

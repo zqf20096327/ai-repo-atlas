@@ -1,6 +1,6 @@
 # huggingface/datasets
 
-⭐ 22,089 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/datasets) · [官网](https://huggingface.co/docs/datasets) · 组织维护
+⭐ 22,090 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/huggingface/datasets) · [官网](https://huggingface.co/docs/datasets) · 组织维护
 
 **ML 从业者的一站式数据集加载与预处理库**
 
@@ -52,13 +52,13 @@ Hugging Face 的 Python 数据集库：通过 load_dataset() 一行命令加载 
 
 ```mermaid
 xychart-beta
-    title "huggingface/datasets 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 22060 --> 22091
-    line [22062, 22067, 22078, 22081, 22083, 22086, 22089]
+    title "huggingface/datasets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 22060 --> 22092
+    line [22062, 22067, 22078, 22081, 22083, 22086, 22089, 22090]
 ```
 
-2026-10-18 22,062 → 2026-10-27 22,089（+27）
+2026-10-18 22,062 → 2026-10-28 22,090（+28）
 
 
 ---

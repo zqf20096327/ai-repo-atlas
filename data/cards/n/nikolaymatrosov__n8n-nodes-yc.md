@@ -1,6 +1,6 @@
 # nikolaymatrosov/n8n-nodes-yc
 
-⭐ 22 · TypeScript · MIT · 推送 2026-04-21 · [GitHub](https://github.com/nikolaymatrosov/n8n-nodes-yc) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-04-21 · [GitHub](https://github.com/nikolaymatrosov/n8n-nodes-yc) · 个人维护
 
 **n8n 的 Yandex Cloud 集成节点包：GPT、对象存储、Serverless 等接入工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nikolaymatrosov/n8n-nodes-yc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 23（+1）
 
 
 ---

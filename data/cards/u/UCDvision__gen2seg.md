@@ -45,13 +45,13 @@ UC Davis 团队在 ICLR 2026 发表的 gen2seg 论文官方代码：将 Stable D
 
 ```mermaid
 xychart-beta
-    title "UCDvision/gen2seg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "UCDvision/gen2seg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 76 --> 79
-    line [77, 78]
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-10-27 78（+1）
+2026-10-18 77 → 2026-10-28 78（+1）
 
 
 ---

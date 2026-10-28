@@ -1,6 +1,6 @@
 # NVIDIA/dgx-spark-playbooks
 
-⭐ 1,460 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/dgx-spark-playbooks) · 组织维护
+⭐ 1,463 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/dgx-spark-playbooks) · 组织维护
 
 **NVIDIA DGX Spark 设备上部署 AI/ML 工作流的操作手册集**
 
@@ -43,13 +43,13 @@ NVIDIA 维护的分步操作手册（playbooks）集合，面向 DGX Spark（Bla
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/dgx-spark-playbooks 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1442 --> 1461
-    line [1443, 1447, 1450, 1455, 1454, 1455, 1457, 1460]
+    title "NVIDIA/dgx-spark-playbooks 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1441 --> 1465
+    line [1443, 1447, 1450, 1455, 1454, 1455, 1457, 1460, 1463]
 ```
 
-2026-10-18 1,443 → 2026-10-27 1,460（+17）
+2026-10-18 1,443 → 2026-10-28 1,463（+20）
 
 
 ---

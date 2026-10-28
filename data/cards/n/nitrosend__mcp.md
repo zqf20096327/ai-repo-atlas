@@ -1,6 +1,6 @@
 # nitrosend/mcp
 
-⭐ 153 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nitrosend/mcp) · [官网](https://nitrosend.com) · 组织维护
+⭐ 163 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nitrosend/mcp) · [官网](https://nitrosend.com) · 组织维护
 
 **Nitrosend 远程 MCP 服务器的 stdio 桥接包：让仅支持 stdio 的客户端接入**
 
@@ -44,13 +44,13 @@ Nitrosend 是电子邮件营销/营销自动化产品，提供远程 MCP 服务�
 
 ```mermaid
 xychart-beta
-    title "nitrosend/mcp 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15 --> 165
-    line [27, 47, 89, 107, 136, 153]
+    title "nitrosend/mcp 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 14 --> 176
+    line [27, 47, 89, 107, 136, 153, 163]
 ```
 
-2026-10-22 27 → 2026-10-27 153（+126）
+2026-10-22 27 → 2026-10-28 163（+136）
 
 
 ---

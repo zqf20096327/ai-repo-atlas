@@ -1,6 +1,6 @@
 # sup3rus3r/obsidian-ai
 
-⭐ 68 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/sup3rus3r/obsidian-ai) · 个人维护
+⭐ 70 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/sup3rus3r/obsidian-ai) · 个人维护
 
 **可视化 AI Agent 构建与编排平台，自托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sup3rus3r/obsidian-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 63 --> 69
-    line [64, 65, 66, 68, 68]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 63 --> 71
+    line [64, 65, 66, 68, 70]
 ```
 
-2026-10-18 64 → 2026-10-27 68（+4）
+2026-10-18 64 → 2026-10-28 70（+6）
 
 
 ---

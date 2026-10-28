@@ -1,6 +1,6 @@
 # Hainrixz/whatsapp-agentkit
 
-⭐ 546 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
+⭐ 547 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/whatsapp-agentkit) · [官网](https://hainrixz.github.io/whatsapp-agentkit/) · 个人维护
 
 **用 Claude Code 访谈式生成 WhatsApp AI 客服 agent 的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hainrixz/whatsapp-agentkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 536 --> 547
-    line [537, 541, 543, 546, 546]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 536 --> 548
+    line [537, 541, 543, 546, 547]
 ```
 
-2026-10-18 537 → 2026-10-27 546（+9）
+2026-10-18 537 → 2026-10-28 547（+10）
 
 
 ---

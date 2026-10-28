@@ -1,6 +1,6 @@
 # xin-wang18/Mental-R1
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/xin-wang18/Mental-R1) · 组织维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/xin-wang18/Mental-R1) · 组织维护 · 中文 README
 
 **用强化学习对齐 LLM 推理以做心理健康评估的训练框架（CRPO）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xin-wang18/Mental-R1 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4 --> 24
-    line [22, 21, 5, 13, 15, 23]
+    title "xin-wang18/Mental-R1 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3 --> 27
+    line [22, 21, 5, 13, 15, 23, 25]
 ```
 
-2026-10-18 22 → 2026-10-27 23（+1）
+2026-10-18 22 → 2026-10-28 25（+3）
 
 
 ---

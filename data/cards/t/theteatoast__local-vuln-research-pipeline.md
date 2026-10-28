@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theteatoast/local-vuln-research-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "theteatoast/local-vuln-research-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 171 --> 174
-    line [172, 173]
+    line [172, 173, 173]
 ```
 
-2026-10-18 172 → 2026-10-27 173（+1）
+2026-10-18 172 → 2026-10-28 173（+1）
 
 
 ---

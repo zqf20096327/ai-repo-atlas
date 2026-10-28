@@ -1,6 +1,6 @@
 # G36maid/moodle-mcp
 
-⭐ 26 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/G36maid/moodle-mcp) · [官网](https://moodle.ntnu.cc) · 个人维护 · 中文 README
+⭐ 27 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/G36maid/moodle-mcp) · [官网](https://moodle.ntnu.cc) · 个人维护 · 中文 README
 
 **让 AI agent 操作 Moodle 的 MCP 服务器，覆盖课程作业论坛成绩**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "G36maid/moodle-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 19 --> 27
-    line [20, 21, 22, 23, 24, 26]
+    title "G36maid/moodle-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 22, 23, 24, 26, 27]
 ```
 
-2026-10-18 20 → 2026-10-27 26（+6）
+2026-10-18 20 → 2026-10-28 27（+7）
 
 
 ---

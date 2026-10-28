@@ -1,6 +1,6 @@
 # NVIDIA/aistore
 
-⭐ 1,947 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/aistore) · [官网](https://docs.nvidia.com/aistore) · 组织维护
+⭐ 1,948 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/aistore) · [官网](https://docs.nvidia.com/aistore) · 组织维护
 
 **面向 AI 工作负载的分布式对象存储集群**
 
@@ -47,12 +47,12 @@ AIStore（AIS）是 NVIDIA 维护的轻量级分布式存储系统，为 AI/ML �
 ```mermaid
 xychart-beta
     title "NVIDIA/aistore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1945 --> 1948
-    line [1946, 1947, 1947]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1945 --> 1949
+    line [1946, 1947, 1948]
 ```
 
-2026-10-18 1,946 → 2026-10-27 1,947（+1）
+2026-10-18 1,946 → 2026-10-28 1,948（+2）
 
 
 ---

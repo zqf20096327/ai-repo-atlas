@@ -1,6 +1,6 @@
 # JosephHampton/awesome-gemini-cli-subagents
 
-⭐ 67 · Shell · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/JosephHampton/awesome-gemini-cli-subagents) · 个人维护
+⭐ 68 · Shell · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/JosephHampton/awesome-gemini-cli-subagents) · 个人维护
 
 **面向 Gemini CLI/Antigravity 的 81 个子代理提示词策展库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JosephHampton/awesome-gemini-cli-subagents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 54 --> 68
-    line [55, 57, 58, 59, 64, 65, 66, 67]
+    title "JosephHampton/awesome-gemini-cli-subagents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 54 --> 69
+    line [55, 57, 58, 59, 64, 65, 66, 67, 68]
 ```
 
-2026-10-18 55 → 2026-10-27 67（+12）
+2026-10-18 55 → 2026-10-28 68（+13）
 
 
 ---

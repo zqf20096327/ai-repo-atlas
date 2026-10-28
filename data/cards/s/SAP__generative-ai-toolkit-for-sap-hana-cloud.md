@@ -1,6 +1,6 @@
 # SAP/generative-ai-toolkit-for-sap-hana-cloud
 
-⭐ 30 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/SAP/generative-ai-toolkit-for-sap-hana-cloud) · 组织维护
+⭐ 30 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SAP/generative-ai-toolkit-for-sap-hana-cloud) · 组织维护
 
 **SAP HANA Cloud 的生成式 AI 客户端扩展：集成 HANA ML 与向量引擎**
 
@@ -45,12 +45,12 @@ SAP 维护的 Python 包 hana-ai，是 HANA ML Python 客户端库面向生成�
 ```mermaid
 xychart-beta
     title "SAP/generative-ai-toolkit-for-sap-hana-cloud 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-27 30（+1）
+2026-10-18 29 → 2026-10-28 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # scarce/axel
 
-⭐ 207 · Swift · 推送 2026-04-28 · [GitHub](https://github.com/scarce/axel) · [官网](https://axel.build) · 个人维护
+⭐ 208 · Swift · 推送 2026-04-28 · [GitHub](https://github.com/scarce/axel) · [官网](https://axel.build) · 个人维护
 
 **macOS 原生任务列表 + AI agent 编排工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "scarce/axel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 206 --> 210
-    line [208, 209, 207, 207]
+    line [208, 209, 207, 208]
 ```
 
-2026-10-18 208 → 2026-10-27 207（-1）
+2026-10-18 208 → 2026-10-28 208（+0）
 
 
 ---

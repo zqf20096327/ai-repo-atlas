@@ -45,12 +45,12 @@ LangChain Academy 的 Introduction to LangSmith 课程配套仓库，以五个�
 ```mermaid
 xychart-beta
     title "langchain-ai/intro-to-langsmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 167 --> 170
     line [168, 169, 169]
 ```
 
-2026-10-18 168 → 2026-10-27 169（+1）
+2026-10-18 168 → 2026-10-28 169（+1）
 
 
 ---

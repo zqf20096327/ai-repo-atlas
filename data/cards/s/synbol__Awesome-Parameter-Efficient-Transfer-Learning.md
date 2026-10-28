@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "synbol/Awesome-Parameter-Efficient-Transfer-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    title "synbol/Awesome-Parameter-Efficient-Transfer-Learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 586 --> 589
-    line [587, 588, 587, 588]
+    line [587, 588, 587, 588, 588]
 ```
 
-2026-10-18 587 → 2026-10-27 588（+1）
+2026-10-18 587 → 2026-10-28 588（+1）
 
 
 ---

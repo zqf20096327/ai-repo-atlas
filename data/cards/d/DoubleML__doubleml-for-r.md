@@ -1,6 +1,6 @@
 # DoubleML/doubleml-for-r
 
-⭐ 172 · R · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/DoubleML/doubleml-for-r) · [官网](https://docs.doubleml.org) · 组织维护
+⭐ 172 · R · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/DoubleML/doubleml-for-r) · [官网](https://docs.doubleml.org) · 组织维护
 
 **R 语言双重机器学习因果推断包，供研究者估计处理效应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DoubleML/doubleml-for-r 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 171 --> 173
     line [172, 172]
 ```
 
-2026-10-18 172 → 2026-10-27 172（+0）
+2026-10-18 172 → 2026-10-28 172（+0）
 
 
 ---

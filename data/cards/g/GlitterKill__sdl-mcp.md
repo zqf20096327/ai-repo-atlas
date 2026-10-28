@@ -1,6 +1,6 @@
 # GlitterKill/sdl-mcp
 
-⭐ 495 · TypeScript · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/GlitterKill/sdl-mcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向编码 Agent 的代码上下文预算层（MCP 服务器）**
 
@@ -11,7 +11,7 @@ SDL-MCP 将仓库索引为符号图，通过 MCP（stdio/HTTP）向编码 Agent 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # huggingface/Repo2RLEnv
 
-⭐ 743 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
+⭐ 753 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
 
 **把任意代码仓库转成可验证 RL 环境的生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/Repo2RLEnv 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 726 --> 744
-    line [727, 728, 733, 737, 739, 742, 743]
+    title "huggingface/Repo2RLEnv 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 725 --> 755
+    line [727, 728, 733, 737, 739, 742, 743, 753]
 ```
 
-2026-10-18 727 → 2026-10-27 743（+16）
+2026-10-18 727 → 2026-10-28 753（+26）
 
 
 ---

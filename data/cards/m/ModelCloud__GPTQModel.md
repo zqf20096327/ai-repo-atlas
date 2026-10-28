@@ -1,6 +1,6 @@
 # ModelCloud/GPTQModel
 
-⭐ 1,279 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
+⭐ 1,281 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
 
 **面向 LLM 的多算法量化/验证/部署工具包，覆盖多硬件与推理运行时**
 
@@ -46,13 +46,13 @@ GPTQModel 提供统一的 LLM 量化平台：校准、量化、质量评估、�
 
 ```mermaid
 xychart-beta
-    title "ModelCloud/GPTQModel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1273 --> 1280
-    line [1274, 1275, 1274, 1276, 1277, 1279]
+    title "ModelCloud/GPTQModel 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1273 --> 1282
+    line [1274, 1275, 1274, 1276, 1277, 1279, 1281]
 ```
 
-2026-10-18 1,274 → 2026-10-27 1,279（+5）
+2026-10-18 1,274 → 2026-10-28 1,281（+7）
 
 
 ---

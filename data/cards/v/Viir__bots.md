@@ -1,6 +1,6 @@
 # Viir/bots
 
-⭐ 222 · Elm · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Viir/bots) · [官网](https://botlab.org) · 个人维护
+⭐ 221 · Elm · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Viir/bots) · [官网](https://botlab.org) · 个人维护
 
 **用 AI 驱动网页游戏机器人运行的 BotLab 生态仓库**
 
@@ -44,12 +44,12 @@ Viir/bots 是 BotLab 生态的机器人实现仓库，用 Elm 语言编写自动
 ```mermaid
 xychart-beta
     title "Viir/bots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 220 --> 223
+    line [222, 221]
 ```
 
-2026-10-18 222 → 2026-10-27 222（+0）
+2026-10-18 222 → 2026-10-28 221（-1）
 
 
 ---

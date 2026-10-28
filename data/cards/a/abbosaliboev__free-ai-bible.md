@@ -1,6 +1,6 @@
 # abbosaliboev/free-ai-bible
 
-⭐ 193 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/abbosaliboev/free-ai-bible) · [官网](https://github.com/abbosaliboev/free-ai-bible) · 个人维护 · 中文 README
+⭐ 195 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/abbosaliboev/free-ai-bible) · [官网](https://github.com/abbosaliboev/free-ai-bible) · 个人维护 · 中文 README
 
 **免费 AI API 与工具策展清单：700+ 资源按类别整理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abbosaliboev/free-ai-bible 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 184 --> 194
-    line [185, 187, 190, 192, 193]
+    title "abbosaliboev/free-ai-bible 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 184 --> 196
+    line [185, 187, 190, 192, 193, 195]
 ```
 
-2026-10-18 185 → 2026-10-27 193（+8）
+2026-10-18 185 → 2026-10-28 195（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # shasankp000/AI-Player
 
-⭐ 151 · Java · GPL-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/shasankp000/AI-Player) · [官网](https://shasankp000.github.io/AI-Player-Website/) · 个人维护
+⭐ 152 · Java · GPL-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/shasankp000/AI-Player) · [官网](https://shasankp000.github.io/AI-Player-Website/) · 个人维护
 
 **Minecraft 模组：添加可对话、可自主行动的 AI 伙伴玩家**
 
@@ -46,12 +46,12 @@ Fabric 平台的 Minecraft 模组，在游戏中生成一个由 LLM 驱动的服
 ```mermaid
 xychart-beta
     title "shasankp000/AI-Player 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 147 --> 152
-    line [148, 149, 151, 151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 147 --> 153
+    line [148, 149, 151, 152]
 ```
 
-2026-10-18 148 → 2026-10-27 151（+3）
+2026-10-18 148 → 2026-10-28 152（+4）
 
 
 ---

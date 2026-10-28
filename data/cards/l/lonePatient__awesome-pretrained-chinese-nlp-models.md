@@ -1,6 +1,6 @@
 # lonePatient/awesome-pretrained-chinese-nlp-models
 
-⭐ 5,613 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) · 个人维护 · 中文 README
+⭐ 5,612 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) · 个人维护 · 中文 README
 
 **中文预训练模型与大模型策展清单：收录模型条目与配套资源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lonePatient/awesome-pretrained-chinese-nlp-models 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    title "lonePatient/awesome-pretrained-chinese-nlp-models 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 5600 --> 5614
-    line [5601, 5609, 5611, 5612, 5613]
+    line [5601, 5609, 5611, 5612, 5613, 5612]
 ```
 
-2026-10-18 5,601 → 2026-10-27 5,613（+12）
+2026-10-18 5,601 → 2026-10-28 5,612（+11）
 
 
 ---

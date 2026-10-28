@@ -43,13 +43,13 @@ ICCV 2025 论文 MonoMVSNet 的官方代码，面向三维重建与多视图立�
 
 ```mermaid
 xychart-beta
-    title "JianfeiJ/MonoMVSNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "JianfeiJ/MonoMVSNet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 39 --> 42
-    line [40, 41]
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-10-27 41（+1）
+2026-10-18 40 → 2026-10-28 41（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepseek-ai/DeepGEMM-Ascend
 
-⭐ 614 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
+⭐ 617 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
 
 **华为昇腾 NPU 上的 DeepGEMM 矩阵乘 kernel 库移植**
 
@@ -44,13 +44,13 @@ deepseek-ai 维护的 GEMM kernel 库，将 DeepGEMM 移植到华为昇腾平台
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepGEMM-Ascend 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 583 --> 616
-    line [585, 591, 602, 608, 610, 611, 614]
+    title "deepseek-ai/DeepGEMM-Ascend 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 582 --> 620
+    line [585, 591, 602, 608, 610, 611, 614, 617]
 ```
 
-2026-10-18 585 → 2026-10-27 614（+29）
+2026-10-18 585 → 2026-10-28 617（+32）
 
 
 ---

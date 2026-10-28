@@ -1,6 +1,6 @@
 # ximing/aimo
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/ximing/aimo) · [官网](https://aimo.plus) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ximing/aimo) · [官网](https://aimo.plus) · 个人维护 · 中文 README
 
 **AI First 自托管卡片笔记：AI 负责检索、关联与复习**
 
@@ -47,12 +47,12 @@ AIMO 是一张卡片一个想法的自托管笔记应用，AI 作为内置能力
 ```mermaid
 xychart-beta
     title "ximing/aimo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

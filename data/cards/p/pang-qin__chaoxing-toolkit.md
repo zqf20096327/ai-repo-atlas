@@ -1,6 +1,6 @@
 # pang-qin/chaoxing-toolkit
 
-⭐ 58 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/pang-qin/chaoxing-toolkit) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · 推送 2026-06-01 · [GitHub](https://github.com/pang-qin/chaoxing-toolkit) · 个人维护 · 中文 README
 
 **超星学习通自动刷课工具：自动答题与视频静音播放**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pang-qin/chaoxing-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 52 --> 59
-    line [53, 54, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 57, 58, 59]
 ```
 
-2026-10-18 53 → 2026-10-27 58（+5）
+2026-10-18 53 → 2026-10-28 59（+6）
 
 
 ---

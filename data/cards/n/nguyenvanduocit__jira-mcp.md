@@ -1,6 +1,6 @@
 # nguyenvanduocit/jira-mcp
 
-⭐ 97 · Go · MIT · 推送 2026-04-18 · [GitHub](https://github.com/nguyenvanduocit/jira-mcp) · 个人维护
+⭐ 96 · Go · MIT · 推送 2026-04-18 · [GitHub](https://github.com/nguyenvanduocit/jira-mcp) · 个人维护
 
 **Go 编写的 Jira MCP 服务器，让 AI 助手操作 Jira**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nguyenvanduocit/jira-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 95 --> 98
+    line [97, 96]
 ```
 
-2026-10-18 97 → 2026-10-27 97（+0）
+2026-10-18 97 → 2026-10-28 96（-1）
 
 
 ---

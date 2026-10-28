@@ -1,6 +1,6 @@
 # mxyhi/token_proxy
 
-⭐ 94 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mxyhi/token_proxy) · 个人维护 · 中文 README
+⭐ 94 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mxyhi/token_proxy) · 个人维护 · 中文 README
 
 **本地 AI API 网关：聚合多家上游并计量 token**
 
@@ -47,12 +47,12 @@ Rust + Tauri 实现的本地 API 网关，支持 openai / openai-response / anth
 ```mermaid
 xychart-beta
     title "mxyhi/token_proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-18 94 → 2026-10-27 94（+0）
+2026-10-18 94 → 2026-10-28 94（+0）
 
 
 ---

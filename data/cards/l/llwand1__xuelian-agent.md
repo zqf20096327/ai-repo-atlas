@@ -1,6 +1,6 @@
 # llwand1/xuelian-agent
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/llwand1/xuelian-agent) · [官网](https://11wand.com) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/llwand1/xuelian-agent) · [官网](https://11wand.com) · 个人维护 · 中文 README
 
 **面向自学与应试的开源 AI 学习 Agent（StudentBuddy）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "llwand1/xuelian-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 22 --> 25
     line [23, 24, 23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

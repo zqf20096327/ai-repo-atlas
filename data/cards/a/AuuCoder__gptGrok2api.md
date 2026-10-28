@@ -1,6 +1,6 @@
 # AuuCoder/gptGrok2api
 
-⭐ 286 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/AuuCoder/gptGrok2api) · [官网](https://muyuai.top) · 个人维护 · 中文 README
+⭐ 287 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/AuuCoder/gptGrok2api) · [官网](https://muyuai.top) · 个人维护 · 中文 README
 
 **自托管 GPT/Grok 统一网关，账号池与自动注册转 OpenAI 兼容 API**
 
@@ -44,13 +44,13 @@ GPTGrok2API 是自托管的 GPT 与 Grok 统一 API 网关：把已接入的订�
 
 ```mermaid
 xychart-beta
-    title "AuuCoder/gptGrok2api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 280 --> 287
-    line [281, 282, 285, 286]
+    title "AuuCoder/gptGrok2api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 280 --> 288
+    line [281, 282, 285, 286, 287]
 ```
 
-2026-10-18 281 → 2026-10-27 286（+5）
+2026-10-18 281 → 2026-10-28 287（+6）
 
 
 ---

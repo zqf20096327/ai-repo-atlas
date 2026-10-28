@@ -1,6 +1,6 @@
 # tumourlove/monolith
 
-⭐ 352 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tumourlove/monolith) · [官网](https://github.com/tumourlove/monolith/wiki) · 个人维护
+⭐ 353 · C++ · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tumourlove/monolith) · [官网](https://github.com/tumourlove/monolith/wiki) · 个人维护
 
 **给 UE 5.7/5.8 的 MCP 插件：让 AI 助手读写引擎各域资产**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tumourlove/monolith 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 333 --> 353
-    line [334, 336, 342, 345, 346, 349, 350, 352]
+    title "tumourlove/monolith 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 333 --> 354
+    line [334, 336, 342, 345, 346, 349, 350, 352, 353]
 ```
 
-2026-10-18 334 → 2026-10-27 352（+18）
+2026-10-18 334 → 2026-10-28 353（+19）
 
 
 ---

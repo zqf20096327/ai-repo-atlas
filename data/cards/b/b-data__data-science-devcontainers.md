@@ -1,6 +1,6 @@
 # b-data/data-science-devcontainers
 
-⭐ 41 · Dockerfile · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/b-data/data-science-devcontainers) · 组织维护
+⭐ 41 · Dockerfile · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/b-data/data-science-devcontainers) · 组织维护
 
 **多架构数据科学/AI 开发容器镜像集，覆盖 R/Python/Julia/MAX/Mojo**
 
@@ -46,12 +46,12 @@ b-data GmbH 维护的 dev container 镜像集合，提供 linux/amd64 与 linux/
 ```mermaid
 xychart-beta
     title "b-data/data-science-devcontainers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

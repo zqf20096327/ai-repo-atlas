@@ -1,6 +1,6 @@
 # modelscope/ms-agent
 
-⭐ 4,417 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/ms-agent) · [官网](https://ms-agent-en.readthedocs.io) · 组织维护 · 中文 README
+⭐ 4,418 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/ms-agent) · [官网](https://ms-agent-en.readthedocs.io) · 组织维护 · 中文 README
 
 **面向复杂长时任务的模块化开源 agent 框架**
 
@@ -45,13 +45,13 @@ ModelScope 团队维护的 Python agent 框架：以可定制的 harness 组织�
 
 ```mermaid
 xychart-beta
-    title "modelscope/ms-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "modelscope/ms-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4413 --> 4420
-    line [4414, 4416, 4417, 4418, 4417, 4419, 4417]
+    line [4414, 4416, 4417, 4418, 4417, 4419, 4417, 4418]
 ```
 
-2026-10-18 4,414 → 2026-10-27 4,417（+3）
+2026-10-18 4,414 → 2026-10-28 4,418（+4）
 
 
 ---

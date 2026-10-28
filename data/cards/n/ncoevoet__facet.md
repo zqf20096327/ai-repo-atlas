@@ -1,6 +1,6 @@
 # ncoevoet/facet
 
-⭐ 310 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护 · 中文 README
+⭐ 321 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护 · 中文 README
 
 **本地照片 AI 评分与筛选引擎：评分、人脸识别、语义搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ncoevoet/facet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 286 --> 312
-    line [288, 294, 300, 303, 308, 310]
+    title "ncoevoet/facet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 285 --> 324
+    line [288, 294, 300, 303, 308, 310, 321]
 ```
 
-2026-10-18 288 → 2026-10-27 310（+22）
+2026-10-18 288 → 2026-10-28 321（+33）
 
 
 ---

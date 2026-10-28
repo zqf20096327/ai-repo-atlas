@@ -1,6 +1,6 @@
 # Unity-Technologies/ml-agents
 
-⭐ 19,801 · C# · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
+⭐ 19,800 · C# · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
 
 **让游戏与仿真成为强化学习智能体训练环境的 Unity 工具包**
 
@@ -51,13 +51,13 @@ Unity 官方开源项目，将 2D/3D/VR/AR 游戏与仿真作为智能体训练�
 
 ```mermaid
 xychart-beta
-    title "Unity-Technologies/ml-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "Unity-Technologies/ml-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 19765 --> 19804
-    line [19768, 19771, 19778, 19784, 19790, 19794, 19801]
+    line [19768, 19771, 19778, 19784, 19790, 19794, 19801, 19800]
 ```
 
-2026-10-18 19,768 → 2026-10-27 19,801（+33）
+2026-10-18 19,768 → 2026-10-28 19,800（+32）
 
 
 ---

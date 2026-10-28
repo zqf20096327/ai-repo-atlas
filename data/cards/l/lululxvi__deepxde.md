@@ -1,6 +1,6 @@
 # lululxvi/deepxde
 
-⭐ 4,488 · Python · LGPL-2.1 · 推送 2026-08-18 · [GitHub](https://github.com/lululxvi/deepxde) · [官网](https://deepxde.readthedocs.io) · 组织维护
+⭐ 4,491 · Python · LGPL-2.1 · 推送 2026-08-18 · [GitHub](https://github.com/lululxvi/deepxde) · [官网](https://deepxde.readthedocs.io) · 组织维护
 
 **科学机器学习库：用 PINN/DeepONet 求解微分方程**
 
@@ -45,13 +45,13 @@ Python 库，面向科学机器学习与物理信息学习，实现 PINN 及其�
 
 ```mermaid
 xychart-beta
-    title "lululxvi/deepxde 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4469 --> 4489
-    line [4470, 4473, 4478, 4477, 4481, 4483, 4488]
+    title "lululxvi/deepxde 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4468 --> 4493
+    line [4470, 4473, 4478, 4477, 4481, 4483, 4488, 4491]
 ```
 
-2026-10-18 4,470 → 2026-10-27 4,488（+18）
+2026-10-18 4,470 → 2026-10-28 4,491（+21）
 
 
 ---

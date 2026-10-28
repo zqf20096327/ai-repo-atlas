@@ -1,6 +1,6 @@
 # tsinghua-fib-lab/SmartAgent
 
-⭐ 28 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/tsinghua-fib-lab/SmartAgent) · 组织维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/tsinghua-fib-lab/SmartAgent) · 组织维护 · 中文 README
 
 **AAAI 2026 论文官方库：网络世界具身个性化 Agent 与 SmartSpot 基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tsinghua-fib-lab/SmartAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 29（+1）
 
 
 ---

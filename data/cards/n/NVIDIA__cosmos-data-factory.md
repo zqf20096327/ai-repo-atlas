@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-data-factory
 
-⭐ 60 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-data-factory) · 组织维护
+⭐ 63 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/cosmos-data-factory) · 组织维护
 
 **物理 AI 合成数据生成工作流：把真实数据变成带标注的训练集**
 
@@ -45,13 +45,13 @@ NVIDIA Cosmos Data Factory 提供一组 agent 驱动的蓝图与可组合技能�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos-data-factory 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 44 --> 61
-    line [45, 47, 49, 51, 53, 60]
+    title "NVIDIA/cosmos-data-factory 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 44 --> 64
+    line [45, 47, 49, 51, 53, 60, 63]
 ```
 
-2026-10-22 45 → 2026-10-27 60（+15）
+2026-10-22 45 → 2026-10-28 63（+18）
 
 
 ---

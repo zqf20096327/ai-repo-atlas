@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/AutoHedge
 
-⭐ 6,542 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/The-Swarm-Corporation/AutoHedge) · [官网](https://swarms.xyz/) · 组织维护
+⭐ 6,554 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/The-Swarm-Corporation/AutoHedge) · [官网](https://swarms.xyz/) · 组织维护
 
 **自主交易的多 agent 对冲基金框架，自动分析并执行交易**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Swarm-Corporation/AutoHedge 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6326 --> 6561
-    line [6345, 6387, 6425, 6468, 6484, 6500, 6526, 6542]
+    title "The-Swarm-Corporation/AutoHedge 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6325 --> 6574
+    line [6345, 6387, 6425, 6468, 6484, 6500, 6526, 6542, 6554]
 ```
 
-2026-10-18 6,345 → 2026-10-27 6,542（+197）
+2026-10-18 6,345 → 2026-10-28 6,554（+209）
 
 
 ---

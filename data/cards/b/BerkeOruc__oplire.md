@@ -1,6 +1,6 @@
 # BerkeOruc/oplire
 
-⭐ 55 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/BerkeOruc/oplire) · [官网](https://berkeai.com) · 个人维护
+⭐ 59 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/BerkeOruc/oplire) · [官网](https://berkeai.com) · 个人维护
 
 **轮换 WARP IP 重置 OpenCode 限额并代理 Claude Code 接入免费模型**
 
@@ -46,12 +46,12 @@ Rust 编写的双用途 CLI 工具：一是通过停止/清除/重建 Cloudflare
 ```mermaid
 xychart-beta
     title "BerkeOruc/oplire 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 44 --> 56
-    line [45, 48, 49, 51, 52, 55, 55]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 44 --> 60
+    line [45, 48, 49, 51, 52, 55, 59]
 ```
 
-2026-10-18 45 → 2026-10-27 55（+10）
+2026-10-18 45 → 2026-10-28 59（+14）
 
 
 ---

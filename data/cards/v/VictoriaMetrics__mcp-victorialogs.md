@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victorialogs
 
-⭐ 105 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/VictoriaMetrics/mcp-victorialogs) · [官网](https://victoriametrics.com/) · 组织维护
+⭐ 106 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/VictoriaMetrics/mcp-victorialogs) · [官网](https://victoriametrics.com/) · 组织维护
 
 **VictoriaLogs 的 MCP 服务器：让 AI 客户端查询与分析日志**
 
@@ -46,12 +46,12 @@ VictoriaMetrics 公司为 VictoriaLogs 日志数据库实现的 Model Context Pr
 ```mermaid
 xychart-beta
     title "VictoriaMetrics/mcp-victorialogs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 101 --> 106
-    line [102, 103, 104, 105, 105]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 101 --> 107
+    line [102, 103, 104, 105, 106]
 ```
 
-2026-10-18 102 → 2026-10-27 105（+3）
+2026-10-18 102 → 2026-10-28 106（+4）
 
 
 ---

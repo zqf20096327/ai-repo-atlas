@@ -1,6 +1,6 @@
 # deer-flow/llm-space
 
-⭐ 2,055 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/deer-flow/llm-space) · [官网](https://deer-flow.github.io/llm-space/) · 组织维护 · 中文 README
+⭐ 2,059 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/deer-flow/llm-space) · [官网](https://deer-flow.github.io/llm-space/) · 组织维护 · 中文 README
 
 **给 agent 开发者的桌面原型与调试工具：构建、追踪、回放、评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "deer-flow/llm-space 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2028 --> 2057
-    line [2030, 2034, 2045, 2048, 2049, 2055]
+    title "deer-flow/llm-space 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2028 --> 2061
+    line [2030, 2034, 2045, 2048, 2049, 2055, 2059]
 ```
 
-2026-10-18 2,030 → 2026-10-27 2,055（+25）
+2026-10-18 2,030 → 2026-10-28 2,059（+29）
 
 
 ---

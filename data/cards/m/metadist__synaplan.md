@@ -1,6 +1,6 @@
 # metadist/synaplan
 
-⭐ 276 · PHP · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/metadist/synaplan) · [官网](https://www.synaplan.com) · 组织维护
+⭐ 300 · PHP · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/metadist/synaplan) · [官网](https://www.synaplan.com) · 组织维护
 
 **开源自托管 AI 平台：多模型聊天、RAG、站点组件与成本展示**
 
@@ -46,13 +46,13 @@ PHP/Symfony 实现的自托管 AI 平台（Apache-2.0）：接入 OpenAI、Anthr
 
 ```mermaid
 xychart-beta
-    title "metadist/synaplan 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 186 --> 284
-    line [194, 198, 215, 218, 217, 222, 254, 276]
+    title "metadist/synaplan 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 184 --> 310
+    line [194, 198, 215, 218, 217, 222, 254, 276, 300]
 ```
 
-2026-10-18 194 → 2026-10-27 276（+82）
+2026-10-18 194 → 2026-10-28 300（+106）
 
 
 ---

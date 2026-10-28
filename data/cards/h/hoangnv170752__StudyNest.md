@@ -1,6 +1,6 @@
 # hoangnv170752/StudyNest
 
-⭐ 22 · Rust · 推送 2026-07-04 · [GitHub](https://github.com/hoangnv170752/StudyNest) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地离线运行 LLM 的桌面学习助手，数据不出设备**
 

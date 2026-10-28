@@ -1,6 +1,6 @@
 # ZIB-IOL/The-Agentic-Researcher
 
-⭐ 99 · Shell · MIT · 推送 2026-06-12 · [GitHub](https://github.com/ZIB-IOL/The-Agentic-Researcher) · 组织维护
+⭐ 100 · Shell · MIT · 推送 2026-06-12 · [GitHub](https://github.com/ZIB-IOL/The-Agentic-Researcher) · 组织维护
 
 **在沙箱容器中运行 AI 编码 agent 的科研框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZIB-IOL/The-Agentic-Researcher 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 97 --> 100
-    line [99, 98, 99, 99]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 97 --> 101
+    line [99, 98, 99, 100]
 ```
 
-2026-10-18 99 → 2026-10-27 99（+0）
+2026-10-18 99 → 2026-10-28 100（+1）
 
 
 ---

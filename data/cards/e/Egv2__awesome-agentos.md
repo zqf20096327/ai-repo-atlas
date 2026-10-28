@@ -1,6 +1,6 @@
 # Egv2/awesome-agentos
 
-⭐ 98 · CC0-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/Egv2/awesome-agentos) · 个人维护
+⭐ 99 · CC0-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/Egv2/awesome-agentos) · 个人维护
 
 **面向自主计算的 AgentOS/AI agent 开源项目策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Egv2/awesome-agentos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 92 --> 99
-    line [93, 95, 97, 98]
+    title "Egv2/awesome-agentos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 92 --> 100
+    line [93, 95, 97, 98, 99]
 ```
 
-2026-10-18 93 → 2026-10-27 98（+5）
+2026-10-18 93 → 2026-10-28 99（+6）
 
 
 ---

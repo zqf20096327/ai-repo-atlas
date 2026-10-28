@@ -45,12 +45,12 @@ OpenHosta 是一个 Python 库，将 LLM 集成为 Python 原生函数：开发�
 ```mermaid
 xychart-beta
     title "hand-e-fr/OpenHosta 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 33（+0）
 
 
 ---

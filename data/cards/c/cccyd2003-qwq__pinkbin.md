@@ -1,6 +1,6 @@
 # cccyd2003-qwq/pinkbin
 
-⭐ 1,402 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/cccyd2003-qwq/pinkbin) · [官网](https://github.com/cccyd2003-qwq/pinkbin) · 个人维护 · 中文 README
+⭐ 1,403 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/cccyd2003-qwq/pinkbin) · [官网](https://github.com/cccyd2003-qwq/pinkbin) · 个人维护 · 中文 README
 
 **带 AI 问答的 Windows 磁盘扫描清理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cccyd2003-qwq/pinkbin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1393 --> 1403
-    line [1394, 1397, 1398, 1396, 1398, 1400, 1402]
+    title "cccyd2003-qwq/pinkbin 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1393 --> 1404
+    line [1394, 1397, 1398, 1396, 1398, 1400, 1402, 1403]
 ```
 
-2026-10-18 1,394 → 2026-10-27 1,402（+8）
+2026-10-18 1,394 → 2026-10-28 1,403（+9）
 
 
 ---

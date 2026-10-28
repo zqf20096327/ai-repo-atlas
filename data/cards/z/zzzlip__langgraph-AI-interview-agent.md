@@ -46,12 +46,12 @@ Java 平台层（Spring Boot 3 模块化单体）+ Python AI Worker（LangGraph�
 ```mermaid
 xychart-beta
     title "zzzlip/langgraph-AI-interview-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-27 58（+0）
+2026-10-18 58 → 2026-10-28 58（+0）
 
 
 ---

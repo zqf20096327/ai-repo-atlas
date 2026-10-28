@@ -1,6 +1,6 @@
 # autogluon/autogluon
 
-⭐ 10,797 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
+⭐ 10,798 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
 
 **面向表格/多模态/时序数据的自动机器学习框架**
 
@@ -46,12 +46,12 @@ AutoGluon 提供 AutoML 能力：对表格、时序、多模态数据自动训�
 ```mermaid
 xychart-beta
     title "autogluon/autogluon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10782 --> 10798
-    line [10783, 10790, 10792, 10795, 10797, 10797]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 10782 --> 10799
+    line [10783, 10790, 10792, 10795, 10797, 10798]
 ```
 
-2026-10-18 10,783 → 2026-10-27 10,797（+14）
+2026-10-18 10,783 → 2026-10-28 10,798（+15）
 
 
 ---

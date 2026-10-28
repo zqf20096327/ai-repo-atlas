@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Embodied-RxBrain-1.0
 
-⭐ 132 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-RxBrain-1.0) · 组织维护
+⭐ 131 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Embodied-RxBrain-1.0) · 组织维护
 
 **具身认知多模态基础模型：统一理解、世界状态预测与子目标规划**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hy-Embodied-RxBrain-1.0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 130 --> 133
+    line [132, 131]
 ```
 
-2026-10-18 132 → 2026-10-27 132（+0）
+2026-10-18 132 → 2026-10-28 131（-1）
 
 
 ---

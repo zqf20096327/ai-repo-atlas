@@ -1,6 +1,6 @@
 # earthspecies/alp-data
 
-⭐ 48 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/earthspecies/alp-data) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/earthspecies/alp-data) · 组织维护
 
 **统一 Python 接口访问 35+ 生物声学数据集的加载库**
 
@@ -46,12 +46,12 @@ alp-data（Animal Language Processing data）为生物声学研究者提供 35+ 
 ```mermaid
 xychart-beta
     title "earthspecies/alp-data 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 46 --> 49
     line [47, 48, 48]
 ```
 
-2026-10-18 47 → 2026-10-27 48（+1）
+2026-10-18 47 → 2026-10-28 48（+1）
 
 
 ---

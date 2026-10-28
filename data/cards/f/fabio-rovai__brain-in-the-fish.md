@@ -1,6 +1,6 @@
 # fabio-rovai/brain-in-the-fish
 
-⭐ 95 · Rust · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/brain-in-the-fish) · 个人维护
+⭐ 96 · Rust · MIT · 推送 2026-08-11 · [GitHub](https://github.com/fabio-rovai/brain-in-the-fish) · 个人维护
 
 **文档评分与声明核验工具：LLM 评分 + 本体证据校验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fabio-rovai/brain-in-the-fish 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 90 --> 96
-    line [91, 92, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 90 --> 97
+    line [91, 92, 94, 95, 96]
 ```
 
-2026-10-18 91 → 2026-10-27 95（+4）
+2026-10-18 91 → 2026-10-28 96（+5）
 
 
 ---

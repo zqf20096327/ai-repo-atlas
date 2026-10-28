@@ -1,6 +1,6 @@
 # thunderbird/thunderbolt
 
-⭐ 4,804 · TypeScript · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/thunderbird/thunderbolt) · [官网](https://thunderbolt.io) · 组织维护
+⭐ 4,805 · TypeScript · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/thunderbird/thunderbolt) · [官网](https://thunderbolt.io) · 组织维护
 
 **开源跨平台 AI 聊天客户端：自带模型可选本地推理，可私有化部署**
 
@@ -45,13 +45,13 @@ Thunderbird 维护的开源跨平台 AI 客户端，覆盖 web、iOS、Android�
 
 ```mermaid
 xychart-beta
-    title "thunderbird/thunderbolt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4793 --> 4805
-    line [4794, 4798, 4801, 4802, 4801, 4803, 4804]
+    title "thunderbird/thunderbolt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4793 --> 4806
+    line [4794, 4798, 4801, 4802, 4801, 4803, 4804, 4805]
 ```
 
-2026-10-18 4,794 → 2026-10-27 4,804（+10）
+2026-10-18 4,794 → 2026-10-28 4,805（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Live-Harness
 
-⭐ 234 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/QwenLM/Qwen-Live-Harness) · 组织维护 · 中文 README
+⭐ 237 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/QwenLM/Qwen-Live-Harness) · 组织维护 · 中文 README
 
 **基于 Qwen Omni Realtime API 的桌面实时语音视频 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-Live-Harness 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 208 --> 237
-    line [210, 214, 219, 225, 231, 235, 234, 234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 208 --> 239
+    line [210, 214, 219, 225, 231, 235, 234, 237]
 ```
 
-2026-10-18 210 → 2026-10-27 234（+24）
+2026-10-18 210 → 2026-10-28 237（+27）
 
 
 ---

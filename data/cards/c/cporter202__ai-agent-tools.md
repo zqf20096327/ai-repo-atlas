@@ -1,6 +1,6 @@
 # cporter202/ai-agent-tools
 
-⭐ 516 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-tools) · [官网](https://viralwavestudio.com) · 个人维护
+⭐ 517 · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-tools) · [官网](https://viralwavestudio.com) · 个人维护
 
 **面向开发者与创作者的 AI 工具策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "cporter202/ai-agent-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 508 --> 517
-    line [509, 511, 512, 513, 514, 516]
+    title "cporter202/ai-agent-tools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 508 --> 518
+    line [509, 511, 512, 513, 514, 516, 517]
 ```
 
-2026-10-18 509 → 2026-10-27 516（+7）
+2026-10-18 509 → 2026-10-28 517（+8）
 
 
 ---

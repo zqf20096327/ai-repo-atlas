@@ -1,6 +1,6 @@
 # anxety-solo/sdAIgen
 
-⭐ 49 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/anxety-solo/sdAIgen) · [官网](https://anxety-solo.github.io) · 个人维护 · 中文 README
+⭐ 50 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/anxety-solo/sdAIgen) · [官网](https://anxety-solo.github.io) · 个人维护 · 中文 README
 
 **在 Colab/Kaggle 上一键部署 Stable Diffusion 各类 WebUI 的笔记本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anxety-solo/sdAIgen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49]
+    title "anxety-solo/sdAIgen 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50]
 ```
 
-2026-10-18 47 → 2026-10-27 49（+2）
+2026-10-18 47 → 2026-10-28 50（+3）
 
 
 ---

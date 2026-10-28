@@ -1,6 +1,6 @@
 # aloth/awesome-ai-agents
 
-⭐ 72 · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/aloth/awesome-ai-agents) · 个人维护
+⭐ 74 · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/aloth/awesome-ai-agents) · 个人维护
 
 **AI agent 框架、工具与研究资源的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aloth/awesome-ai-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 65 --> 73
-    line [66, 67, 68, 69, 70, 71, 72]
+    title "aloth/awesome-ai-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 65 --> 75
+    line [66, 67, 68, 69, 70, 71, 72, 74]
 ```
 
-2026-10-18 66 → 2026-10-27 72（+6）
+2026-10-18 66 → 2026-10-28 74（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # phibrowser/phibrowser-mac
 
-⭐ 314 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/phibrowser/phibrowser-mac) · [官网](https://phibrowser.com) · 组织维护
+⭐ 320 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/phibrowser/phibrowser-mac) · [官网](https://phibrowser.com) · 组织维护
 
 **macOS 原生 AI 浏览器：人与 agent 同窗共用的 Chromium 客户端**
 
@@ -45,13 +45,13 @@ Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面�
 
 ```mermaid
 xychart-beta
-    title "phibrowser/phibrowser-mac 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 229 --> 321
-    line [236, 237, 243, 245, 269, 289, 296, 314]
+    title "phibrowser/phibrowser-mac 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 228 --> 328
+    line [236, 237, 243, 245, 269, 289, 296, 314, 320]
 ```
 
-2026-10-18 236 → 2026-10-27 314（+78）
+2026-10-18 236 → 2026-10-28 320（+84）
 
 
 ---

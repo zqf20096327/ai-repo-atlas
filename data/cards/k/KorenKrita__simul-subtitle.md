@@ -1,6 +1,6 @@
 # KorenKrita/simul-subtitle
 
-⭐ 82 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KorenKrita/simul-subtitle) · 个人维护 · 中文 README
+⭐ 84 · Kotlin · MIT · 推送 2026-10-21 · [GitHub](https://github.com/KorenKrita/simul-subtitle) · 个人维护 · 中文 README
 
 **日/英语视频与直播的实时同传悬浮字幕应用（三端）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "KorenKrita/simul-subtitle 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 58 --> 84
-    line [60, 68, 73, 75, 78, 80, 81, 82]
+    title "KorenKrita/simul-subtitle 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 58 --> 86
+    line [60, 68, 73, 75, 78, 80, 81, 82, 84]
 ```
 
-2026-10-18 60 → 2026-10-27 82（+22）
+2026-10-18 60 → 2026-10-28 84（+24）
 
 
 ---

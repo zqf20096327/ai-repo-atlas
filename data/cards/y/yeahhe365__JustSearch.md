@@ -1,6 +1,6 @@
 # yeahhe365/JustSearch
 
-⭐ 58 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/yeahhe365/JustSearch) · 个人维护 · 中文 README
+⭐ 59 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/yeahhe365/JustSearch) · 个人维护 · 中文 README
 
 **驱动真实 Chrome 的 AI 深度搜索代理，生成带引用的答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yeahhe365/JustSearch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 57 --> 60
-    line [59, 58, 58]
+    line [59, 58, 59]
 ```
 
-2026-10-18 59 → 2026-10-27 58（-1）
+2026-10-18 59 → 2026-10-28 59（+0）
 
 
 ---

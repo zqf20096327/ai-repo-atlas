@@ -45,13 +45,13 @@ Python 库 pytorch-ood，面向使用深度神经网络做分布外检测（OOD 
 
 ```mermaid
 xychart-beta
-    title "kkirchheim/pytorch-ood 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "kkirchheim/pytorch-ood 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 349 --> 352
-    line [350, 351]
+    line [350, 351, 351]
 ```
 
-2026-10-18 350 → 2026-10-27 351（+1）
+2026-10-18 350 → 2026-10-28 351（+1）
 
 
 ---

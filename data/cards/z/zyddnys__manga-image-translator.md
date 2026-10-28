@@ -1,6 +1,6 @@
 # zyddnys/manga-image-translator
 
-⭐ 10,544 · Python · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/zyddnys/manga-image-translator) · [官网](https://cotrans.touhou.ai/) · 个人维护 · 中文 README
+⭐ 10,545 · Python · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/zyddnys/manga-image-translator) · [官网](https://cotrans.touhou.ai/) · 个人维护 · 中文 README
 
 **一键翻译漫画/图片内文字的工具：检测、OCR、翻译、修复、排版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zyddnys/manga-image-translator 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10505 --> 10547
-    line [10508, 10517, 10519, 10522, 10526, 10532, 10537, 10544]
+    title "zyddnys/manga-image-translator 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10505 --> 10548
+    line [10508, 10517, 10519, 10522, 10526, 10532, 10537, 10544, 10545]
 ```
 
-2026-10-18 10,508 → 2026-10-27 10,544（+36）
+2026-10-18 10,508 → 2026-10-28 10,545（+37）
 
 
 ---

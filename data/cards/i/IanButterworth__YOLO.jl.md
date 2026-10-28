@@ -1,6 +1,6 @@
 # IanButterworth/YOLO.jl
 
-⭐ 45 · Julia · MIT · 推送 2025-10-31 · [GitHub](https://github.com/IanButterworth/YOLO.jl) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Julia 实现的 YOLO 目标检测库，加载 YOLOv2-tiny 预训练模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

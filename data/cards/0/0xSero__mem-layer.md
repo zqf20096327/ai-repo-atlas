@@ -46,12 +46,12 @@ Mem-Layer 为 AI 模型提供基于图数据库（NetworkX 引擎 + SQLite 持�
 ```mermaid
 xychart-beta
     title "0xSero/mem-layer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-27 78（+0）
+2026-10-18 78 → 2026-10-28 78（+0）
 
 
 ---

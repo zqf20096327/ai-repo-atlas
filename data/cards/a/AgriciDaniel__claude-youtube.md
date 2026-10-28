@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-youtube
 
-⭐ 554 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-youtube) · [官网](https://agricidaniel.com/blog/best-claude-code-skills-2026) · 个人维护
+⭐ 570 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-youtube) · [官网](https://agricidaniel.com/blog/best-claude-code-skills-2026) · 个人维护
 
 **Claude Code 技能包：把 Claude Code 变成 YouTube 频道增长顾问**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-youtube 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 472 --> 561
-    line [479, 490, 503, 509, 515, 521, 528, 554]
+    title "AgriciDaniel/claude-youtube 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 470 --> 579
+    line [479, 490, 503, 509, 515, 521, 528, 554, 570]
 ```
 
-2026-10-18 479 → 2026-10-27 554（+75）
+2026-10-18 479 → 2026-10-28 570（+91）
 
 
 ---

@@ -1,6 +1,6 @@
 # triton-inference-server/dali_backend
 
-⭐ 148 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/triton-inference-server/dali_backend) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
+⭐ 148 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/triton-inference-server/dali_backend) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
 
 **Triton 推理服务器的 DALI 后端：运行 GPU 加速数据预处理流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "triton-inference-server/dali_backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-27 148（+0）
+2026-10-18 148 → 2026-10-28 148（+0）
 
 
 ---

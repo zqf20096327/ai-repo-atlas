@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/Needle
 
-⭐ 174 · Python · 推送 2026-10-22 · [GitHub](https://github.com/AbuZar-Ansarii/Needle) · 个人维护
+⭐ 185 · Python · 推送 2026-10-22 · [GitHub](https://github.com/AbuZar-Ansarii/Needle) · 个人维护
 
 **Android/Termux 上的超轻量本地 agentic 助手，用自然语言控制手机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbuZar-Ansarii/Needle 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 123 --> 178
-    line [128, 127, 128, 134, 174]
+    title "AbuZar-Ansarii/Needle 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 122 --> 190
+    line [128, 127, 128, 134, 174, 185]
 ```
 
-2026-10-18 128 → 2026-10-27 174（+46）
+2026-10-18 128 → 2026-10-28 185（+57）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tolga1452/ai-prompts
 
-⭐ 213 · TypeScript · 推送 2026-06-27 · [GitHub](https://github.com/Tolga1452/ai-prompts) · 个人维护
+⭐ 213 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/Tolga1452/ai-prompts) · 个人维护
 
 **各 AI 聊天机器人系统提示词与工具数据的收集清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tolga1452/ai-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 212 --> 214
     line [213, 213]
 ```
 
-2026-10-18 213 → 2026-10-27 213（+0）
+2026-10-18 213 → 2026-10-28 213（+0）
 
 
 ---

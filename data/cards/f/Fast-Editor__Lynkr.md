@@ -1,6 +1,6 @@
 # Fast-Editor/Lynkr
 
-⭐ 638 · JavaScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Fast-Editor/Lynkr) · [官网](http://lynkrhq.com/) · 组织维护
+⭐ 638 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Fast-Editor/Lynkr) · [官网](http://lynkrhq.com/) · 组织维护
 
 **面向 AI 编程工具的 LLM 网关：token 压缩、语义缓存与分级路由**
 
@@ -45,13 +45,13 @@ Node.js 实现的本地 HTTP 代理与 LLM 网关，供 Claude Code、Cursor、C
 
 ```mermaid
 xychart-beta
-    title "Fast-Editor/Lynkr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "Fast-Editor/Lynkr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 630 --> 640
-    line [631, 634, 635, 636, 639, 638]
+    line [631, 634, 635, 636, 639, 638, 638]
 ```
 
-2026-10-18 631 → 2026-10-27 638（+7）
+2026-10-18 631 → 2026-10-28 638（+7）
 
 
 ---

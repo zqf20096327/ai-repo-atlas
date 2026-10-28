@@ -1,6 +1,6 @@
 # MedFlow2025/medflow
 
-⭐ 27 · Shell · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/MedFlow2025/medflow) · 组织维护 · 中文 README
+⭐ 28 · Shell · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/MedFlow2025/medflow) · 组织维护 · 中文 README
 
 **面向医疗机构的端到端 AI 诊疗全流程框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MedFlow2025/medflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

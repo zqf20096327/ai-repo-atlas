@@ -1,6 +1,6 @@
 # cltk/cltk
 
-⭐ 926 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cltk/cltk) · [官网](http://cltk.org) · 组织维护
+⭐ 927 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/cltk/cltk) · [官网](http://cltk.org) · 组织维护
 
 **面向古典语言的 Python NLP 库（拉丁语、古希腊语等）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cltk/cltk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 924 --> 927
-    line [925, 926, 926]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 924 --> 928
+    line [925, 926, 927]
 ```
 
-2026-10-18 925 → 2026-10-27 926（+1）
+2026-10-18 925 → 2026-10-28 927（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # GGZ14/BetterBench
 
-⭐ 76 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/GGZ14/BetterBench) · [官网](https://discord.gg/launch80) · 个人维护
+⭐ 77 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/GGZ14/BetterBench) · [官网](https://discord.gg/launch80) · 个人维护
 
 **面向 LLM 推理服务的百分位基准测试工具，支持 1% 级 A/B 判定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GGZ14/BetterBench 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 65 --> 77
-    line [66, 67, 68, 74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 65 --> 78
+    line [66, 67, 68, 74, 75, 76, 77]
 ```
 
-2026-10-18 66 → 2026-10-27 76（+10）
+2026-10-18 66 → 2026-10-28 77（+11）
 
 
 ---

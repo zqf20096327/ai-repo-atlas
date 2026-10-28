@@ -45,12 +45,12 @@ vLLM 的 OpenVINO 后端插件，在支持 AVX2 的 x86-64 CPU 以及 Intel 集�
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-openvino 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-27 61（+0）
+2026-10-18 61 → 2026-10-28 61（+0）
 
 
 ---

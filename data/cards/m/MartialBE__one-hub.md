@@ -1,6 +1,6 @@
 # MartialBE/one-hub
 
-⭐ 2,899 · Go · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartialBE/one-hub) · [官网](https://one-hub.xiao5.info/) · 个人维护 · 中文 README
+⭐ 2,900 · Go · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartialBE/one-hub) · [官网](https://one-hub.xiao5.info/) · 个人维护 · 中文 README
 
 **OpenAI 接口管理与分发系统：多供应商聚合、计费统计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MartialBE/one-hub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2895 --> 2900
-    line [2898, 2897, 2896, 2897, 2899, 2899]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 2895 --> 2901
+    line [2898, 2897, 2896, 2897, 2899, 2900]
 ```
 
-2026-10-18 2,898 → 2026-10-27 2,899（+1）
+2026-10-18 2,898 → 2026-10-28 2,900（+2）
 
 
 ---

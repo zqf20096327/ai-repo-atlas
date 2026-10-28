@@ -1,6 +1,6 @@
 # Imironman123/llm-interview-notes
 
-⭐ 33 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Imironman123/llm-interview-notes) · 个人维护 · 中文 README
+⭐ 35 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Imironman123/llm-interview-notes) · 个人维护 · 中文 README
 
 **大模型算法/应用/Infra 岗位面试资料合集：15 份文档、386 道题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Imironman123/llm-interview-notes 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 20 --> 34
-    line [21, 23, 27, 28, 29, 30, 31, 33]
+    title "Imironman123/llm-interview-notes 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20 --> 36
+    line [21, 23, 27, 28, 29, 30, 31, 33, 35]
 ```
 
-2026-10-18 21 → 2026-10-27 33（+12）
+2026-10-18 21 → 2026-10-28 35（+14）
 
 
 ---

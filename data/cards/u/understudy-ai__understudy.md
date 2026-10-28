@@ -1,6 +1,6 @@
 # understudy-ai/understudy
 
-⭐ 464 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/understudy-ai/understudy) · [官网](https://understudy-ai.github.io/understudy/) · 组织维护 · 中文 README
+⭐ 465 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/understudy-ai/understudy) · [官网](https://understudy-ai.github.io/understudy/) · 组织维护 · 中文 README
 
 **开源本地 AI agent：一条指令操控整台电脑，可教学复用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "understudy-ai/understudy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 461 --> 465
-    line [463, 462, 463, 464, 464]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 461 --> 466
+    line [463, 462, 463, 464, 465]
 ```
 
-2026-10-18 463 → 2026-10-27 464（+1）
+2026-10-18 463 → 2026-10-28 465（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/mianshiya
 
-⭐ 6,004 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/liyupi/mianshiya) · [官网](https://www.mianshiya.com) · 个人维护 · 中文 README
+⭐ 6,008 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/liyupi/mianshiya) · [官网](https://www.mianshiya.com) · 个人维护 · 中文 README
 
 **面试刷题网站：程序员一站式在线刷题看题解备战求职**
 
@@ -44,13 +44,13 @@ React + Umi 前端、Node.js（Express）/ 腾讯云云开发后端的全栈面�
 
 ```mermaid
 xychart-beta
-    title "liyupi/mianshiya 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5975 --> 6006
-    line [5977, 5981, 5989, 5994, 5995, 5998, 6001, 6004]
+    title "liyupi/mianshiya 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5974 --> 6011
+    line [5977, 5981, 5989, 5994, 5995, 5998, 6001, 6004, 6008]
 ```
 
-2026-10-18 5,977 → 2026-10-27 6,004（+27）
+2026-10-18 5,977 → 2026-10-28 6,008（+31）
 
 
 ---

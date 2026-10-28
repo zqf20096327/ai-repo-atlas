@@ -1,6 +1,6 @@
 # microsoft/Agent365-dotnet
 
-⭐ 29 · C# · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Agent365-dotnet) · 组织维护
+⭐ 29 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Agent365-dotnet) · 组织维护
 
 **微软面向企业级 Agent 开发的 C#/.NET 扩展 SDK**
 
@@ -45,12 +45,12 @@ Microsoft Agent 365 SDK 在 Microsoft 365 Agents SDK 之上提供企业级能力
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-dotnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

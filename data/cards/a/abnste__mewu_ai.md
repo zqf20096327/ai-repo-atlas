@@ -1,6 +1,6 @@
 # abnste/mewu_ai
 
-⭐ 99 · Rust · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/abnste/mewu_ai) · 个人维护 · 中文 README
+⭐ 99 · Rust · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/abnste/mewu_ai) · 个人维护 · 中文 README
 
 **跨平台截图/标注/录屏工具，把截图界面作为 AI 对话空间**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abnste/mewu_ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 77 --> 101
     line [88, 79, 99, 99]
 ```
 
-2026-10-18 88 → 2026-10-27 99（+11）
+2026-10-18 88 → 2026-10-28 99（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # orneryd/NornicDB
 
-⭐ 918 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
+⭐ 919 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
 
 **Neo4j 兼容的图+向量+时序 MVCC 数据库，面向 Agent 记忆与 Graph-RAG**
 
@@ -46,13 +46,13 @@ Go 编写的图数据库，单一引擎内提供图遍历、HNSW 向量检索、
 
 ```mermaid
 xychart-beta
-    title "orneryd/NornicDB 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 907 --> 919
-    line [908, 912, 915, 917, 916, 918]
+    title "orneryd/NornicDB 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 907 --> 920
+    line [908, 912, 915, 917, 916, 918, 919]
 ```
 
-2026-10-18 908 → 2026-10-27 918（+10）
+2026-10-18 908 → 2026-10-28 919（+11）
 
 
 ---

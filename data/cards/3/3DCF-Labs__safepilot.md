@@ -1,6 +1,6 @@
 # 3DCF-Labs/safepilot
 
-⭐ 189 · Rust · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/3DCF-Labs/safepilot) · [官网](https://safepilot.dev/) · 组织维护
+⭐ 190 · Rust · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/3DCF-Labs/safepilot) · [官网](https://safepilot.dev/) · 组织维护
 
 **自托管 Telegram AI 助手：把消息转为带审批检查点的自动化任务执行**
 
@@ -46,12 +46,12 @@ Rust 实现的自托管个人 AI 助手，通过 Telegram 界面交互。消息�
 ```mermaid
 xychart-beta
     title "3DCF-Labs/safepilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 188 --> 194
-    line [193, 189, 189]
+    line [193, 189, 190]
 ```
 
-2026-10-18 193 → 2026-10-27 189（-4）
+2026-10-18 193 → 2026-10-28 190（-3）
 
 
 ---

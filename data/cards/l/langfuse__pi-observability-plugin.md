@@ -44,13 +44,13 @@ Langfuse 官方为 pi 编码 agent 提供的可观测性扩展：监听 Pi 生�
 
 ```mermaid
 xychart-beta
-    title "langfuse/pi-observability-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "langfuse/pi-observability-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 18 --> 25
-    line [19, 20, 21, 24]
+    line [19, 20, 21, 24, 24]
 ```
 
-2026-10-18 19 → 2026-10-27 24（+5）
+2026-10-18 19 → 2026-10-28 24（+5）
 
 
 ---

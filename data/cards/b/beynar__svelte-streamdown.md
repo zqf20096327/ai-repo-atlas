@@ -44,13 +44,13 @@ Vercel Streamdown 的 Svelte 移植，提供 Svelte 组件用于在 AI 流式应
 
 ```mermaid
 xychart-beta
-    title "beynar/svelte-streamdown 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "beynar/svelte-streamdown 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 104 --> 107
-    line [105, 106]
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-27 106（+1）
+2026-10-18 105 → 2026-10-28 106（+1）
 
 
 ---

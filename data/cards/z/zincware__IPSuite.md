@@ -1,6 +1,6 @@
 # zincware/IPSuite
 
-⭐ 25 · Python · EPL-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zincware/IPSuite) · [官网](https://ipsuite.readthedocs.io) · 组织维护
+⭐ 25 · Python · EPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zincware/IPSuite) · [官网](https://ipsuite.readthedocs.io) · 组织维护
 
 **生成机器学习原子间势的工具套件，面向分子模拟**
 
@@ -45,12 +45,12 @@ IPSuite 提供生成 Machine Learned Interatomic Potentials（机器学习原子
 ```mermaid
 xychart-beta
     title "zincware/IPSuite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

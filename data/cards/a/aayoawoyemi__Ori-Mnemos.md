@@ -1,6 +1,6 @@
 # aayoawoyemi/Ori-Mnemos
 
-⭐ 334 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/aayoawoyemi/Ori-Mnemos) · [官网](https://orimnemos.com.) · 个人维护
+⭐ 333 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/aayoawoyemi/Ori-Mnemos) · [官网](https://orimnemos.com.) · 个人维护
 
 **本地优先的 AI agent 持久记忆基础设施（MCP 服务+CLI+库）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aayoawoyemi/Ori-Mnemos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    title "aayoawoyemi/Ori-Mnemos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 330 --> 335
-    line [332, 331, 333, 334]
+    line [332, 331, 333, 334, 333]
 ```
 
-2026-10-18 332 → 2026-10-27 334（+2）
+2026-10-18 332 → 2026-10-28 333（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-dashboad/flutter-skill
 
-⭐ 395 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ai-dashboad/flutter-skill) · [官网](https://ai-dashboad.github.io/flutter-skill/) · 组织维护
+⭐ 396 · Dart · MIT · 推送 2026-09-01 · [GitHub](https://github.com/ai-dashboad/flutter-skill) · [官网](https://ai-dashboad.github.io/flutter-skill/) · 组织维护
 
 **让 AI agent 用自然语言对 10 平台应用做 E2E 测试的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-dashboad/flutter-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 389 --> 396
-    line [390, 393, 394, 395, 395]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 389 --> 397
+    line [390, 393, 394, 395, 396]
 ```
 
-2026-10-18 390 → 2026-10-27 395（+5）
+2026-10-18 390 → 2026-10-28 396（+6）
 
 
 ---

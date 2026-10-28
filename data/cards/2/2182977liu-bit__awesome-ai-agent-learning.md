@@ -1,6 +1,6 @@
 # 2182977liu-bit/awesome-ai-agent-learning
 
-⭐ 90 · MIT · 推送 2026-04-25 · [GitHub](https://github.com/2182977liu-bit/awesome-ai-agent-learning) · [官网](https://github.com/2182977liu-bit/awesome-ai-agent-learning#readme) · 个人维护 · 中文 README
+⭐ 91 · MIT · 推送 2026-04-25 · [GitHub](https://github.com/2182977liu-bit/awesome-ai-agent-learning) · [官网](https://github.com/2182977liu-bit/awesome-ai-agent-learning#readme) · 个人维护 · 中文 README
 
 **中文原创 AI Agent 保姆级教程：从零手写 Agent 到框架实战**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2182977liu-bit/awesome-ai-agent-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-18 90 → 2026-10-27 90（+0）
+2026-10-18 90 → 2026-10-28 91（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/alphageometry2
 
-⭐ 106 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/google-deepmind/alphageometry2) · 组织维护
+⭐ 108 · Python · Apache-2.0 · 推送 2026-01-07 · [GitHub](https://github.com/google-deepmind/alphageometry2) · 组织维护
 
 **DeepMind 奥数几何求解系统 AlphaGeometry2 的符号引擎 DDAR 复现代码**
 
@@ -45,12 +45,12 @@ Google DeepMind 发布的 AlphaGeometry2 符号引擎 DDAR 的复现代码库。
 ```mermaid
 xychart-beta
     title "google-deepmind/alphageometry2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 105 --> 109
+    line [106, 108]
 ```
 
-2026-10-18 106 → 2026-10-27 106（+0）
+2026-10-18 106 → 2026-10-28 108（+2）
 
 
 ---

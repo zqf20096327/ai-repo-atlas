@@ -47,12 +47,12 @@ co:op 是一个 Go 编写的 CLI 工具，将 Claude Code、Codex、Gemini CLI�
 ```mermaid
 xychart-beta
     title "AndrewDryga/coop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

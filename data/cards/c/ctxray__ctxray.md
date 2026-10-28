@@ -47,12 +47,12 @@ Python CLI，自动发现并读取 Claude Code、Cursor、ChatGPT 等 9 种 AI �
 ```mermaid
 xychart-beta
     title "ctxray/ctxray 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-27 47（+0）
+2026-10-18 47 → 2026-10-28 47（+0）
 
 
 ---

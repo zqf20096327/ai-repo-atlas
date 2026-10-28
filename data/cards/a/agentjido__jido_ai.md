@@ -1,6 +1,6 @@
 # agentjido/jido_ai
 
-⭐ 211 · Elixir · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentjido/jido_ai) · [官网](https://jido.run/ecosystem/jido_ai) · 组织维护
+⭐ 211 · Elixir · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentjido/jido_ai) · [官网](https://jido.run/ecosystem/jido_ai) · 组织维护
 
 **给 Elixir 开发者：为 Jido agent 提供 LLM 编排与推理策略的 AI 运行时层**
 
@@ -45,12 +45,12 @@ jido_ai 是 Jido 生态的核心包，为 Elixir 中的 tool-using agent 提供 
 ```mermaid
 xychart-beta
     title "agentjido/jido_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 210 --> 212
     line [211, 211]
 ```
 
-2026-10-18 211 → 2026-10-27 211（+0）
+2026-10-18 211 → 2026-10-28 211（+0）
 
 
 ---

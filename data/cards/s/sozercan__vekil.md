@@ -1,6 +1,6 @@
 # sozercan/vekil
 
-⭐ 22 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sozercan/vekil) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sozercan/vekil) · 个人维护
 
 **本地 AI 网关：用统一端点代理多上游模型服务**
 
@@ -45,12 +45,12 @@ Go 编写的反向代理，在本地暴露 Anthropic Messages、Gemini 与 OpenA
 ```mermaid
 xychart-beta
     title "sozercan/vekil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

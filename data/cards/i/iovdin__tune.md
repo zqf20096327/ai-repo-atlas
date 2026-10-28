@@ -1,6 +1,6 @@
 # iovdin/tune
 
-⭐ 29 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/iovdin/tune) · 个人维护
+⭐ 29 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/iovdin/tune) · 个人维护
 
 **在文本文件中与 LLM 对话的工具与 JS SDK**
 
@@ -45,12 +45,12 @@ Tune 以 VSCode 扩展及 Neovim/Sublime 插件形式提供，让用户在纯文
 ```mermaid
 xychart-beta
     title "iovdin/tune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

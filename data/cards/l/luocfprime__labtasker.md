@@ -1,6 +1,6 @@
 # luocfprime/labtasker
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/luocfprime/labtasker) · [官网](https://luocfprime.github.io/labtasker/dev) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/luocfprime/labtasker) · [官网](https://luocfprime.github.io/labtasker/dev) · 个人维护
 
 **面向 ML 实验/推理/评测任务的 Python 分布式任务队列**
 
@@ -47,12 +47,12 @@ Python 原生的小型任务队列：将独立的 ML 推理、评测、消融实
 ```mermaid
 xychart-beta
     title "luocfprime/labtasker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-10-27 39（+1）
+2026-10-18 38 → 2026-10-28 39（+1）
 
 
 ---

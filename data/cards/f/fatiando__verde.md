@@ -1,6 +1,6 @@
 # fatiando/verde
 
-⭐ 675 · Python · BSD-3-Clause · 推送 2026-09-29 · [GitHub](https://github.com/fatiando/verde) · [官网](https://www.fatiando.org/verde) · 组织维护
+⭐ 675 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/fatiando/verde) · [官网](https://www.fatiando.org/verde) · 组织维护
 
 **地球科学空间数据处理与网格化插值的 Python 库**
 
@@ -45,12 +45,12 @@ Fatiando a Terra 项目下的 Python 库，用于处理地形、点云、测深�
 ```mermaid
 xychart-beta
     title "fatiando/verde 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 674 --> 676
     line [675, 675]
 ```
 
-2026-10-18 675 → 2026-10-27 675（+0）
+2026-10-18 675 → 2026-10-28 675（+0）
 
 
 ---

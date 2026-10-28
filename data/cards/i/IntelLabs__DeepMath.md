@@ -1,6 +1,6 @@
 # IntelLabs/DeepMath
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/IntelLabs/DeepMath) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **训练与评测数学推理 agent 的框架：小模型+沙箱执行器+GRPO**
 
@@ -11,7 +11,7 @@ Intel Labs 发布的轻量级数学推理 agent 框架：基于 Qwen3-4B Thinkin
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Sylinko/Everywhere
 
-⭐ 6,335 · C# · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
+⭐ 6,340 · C# · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
 
 **屏幕感知的桌面 AI 助手：随时唤起，跨应用读取上下文辅助操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sylinko/Everywhere 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6317 --> 6336
-    line [6318, 6321, 6324, 6328, 6330, 6331, 6335]
+    title "Sylinko/Everywhere 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6316 --> 6342
+    line [6318, 6321, 6324, 6328, 6330, 6331, 6335, 6340]
 ```
 
-2026-10-18 6,318 → 2026-10-27 6,335（+17）
+2026-10-18 6,318 → 2026-10-28 6,340（+22）
 
 
 ---

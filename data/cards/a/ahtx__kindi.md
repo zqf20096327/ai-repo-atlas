@@ -1,6 +1,6 @@
 # ahtx/kindi
 
-⭐ 68 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/kindi/) · 个人维护
+⭐ 72 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/kindi/) · 个人维护
 
 **面向老旧/低价 NVIDIA 卡的自研 LLM 推理引擎，带 OpenAI 兼容服务**
 
@@ -44,13 +44,13 @@ Kindi 是 Prism ML Ternary-Bonsai-2 系列三值权重模型（2B/4B/9B/27B）�
 
 ```mermaid
 xychart-beta
-    title "ahtx/kindi 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 17 --> 72
-    line [21, 31, 38, 40, 55, 68]
+    title "ahtx/kindi 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 16 --> 77
+    line [21, 31, 38, 40, 55, 68, 72]
 ```
 
-2026-10-22 21 → 2026-10-27 68（+47）
+2026-10-22 21 → 2026-10-28 72（+51）
 
 
 ---

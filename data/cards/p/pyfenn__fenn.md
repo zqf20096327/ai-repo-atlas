@@ -1,6 +1,6 @@
 # pyfenn/fenn
 
-⭐ 81 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/pyfenn/fenn) · [官网](https://pyfenn.com) · 组织维护
+⭐ 82 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/pyfenn/fenn) · [官网](https://pyfenn.com) · 组织维护
 
 **简化深度学习工作流的 Python 框架：配置/日志/训练器/模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pyfenn/fenn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-18 81 → 2026-10-27 81（+0）
+2026-10-18 81 → 2026-10-28 82（+1）
 
 
 ---

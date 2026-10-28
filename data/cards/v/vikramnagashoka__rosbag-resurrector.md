@@ -1,6 +1,6 @@
 # vikramnagashoka/rosbag-resurrector
 
-⭐ 25 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/vikramnagashoka/rosbag-resurrector) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/vikramnagashoka/rosbag-resurrector) · 个人维护
 
 **ROS 2 rosbag 数据的 pandas 式分析与语义检索工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vikramnagashoka/rosbag-resurrector 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 24 --> 27
-    line [25, 26, 25, 25]
+    line [25, 26, 25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

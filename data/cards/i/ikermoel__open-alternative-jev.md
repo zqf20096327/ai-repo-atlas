@@ -1,6 +1,6 @@
 # ikermoel/open-alternative-jev
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/ikermoel/open-alternative-jev) · [官网](https://huggingface.co/spaces/IkerMoel/open-alternative-jev) · 个人维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/ikermoel/open-alternative-jev) · [官网](https://huggingface.co/spaces/IkerMoel/open-alternative-jev) · 个人维护
 
 **开源库：让任意开源权重 LLM 一次前向输出类型化、校准的决策**
 
@@ -45,13 +45,13 @@ Python 包 `open-alternative-jev`（导入名 so1），实现 TypeSafe Jev 所�
 
 ```mermaid
 xychart-beta
-    title "ikermoel/open-alternative-jev 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 67 --> 74
-    line [68, 69, 70, 71, 72, 73]
+    title "ikermoel/open-alternative-jev 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 67 --> 75
+    line [68, 69, 70, 71, 72, 73, 74]
 ```
 
-2026-10-18 68 → 2026-10-27 73（+5）
+2026-10-18 68 → 2026-10-28 74（+6）
 
 
 ---

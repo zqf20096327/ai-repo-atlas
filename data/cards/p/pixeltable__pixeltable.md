@@ -1,6 +1,6 @@
 # pixeltable/pixeltable
 
-⭐ 1,649 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pixeltable/pixeltable) · [官网](https://docs.pixeltable.com) · 组织维护
+⭐ 1,648 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pixeltable/pixeltable) · [官网](https://docs.pixeltable.com) · 组织维护
 
 **面向 AI agent 后端的多模态数据库、编排与服务一体框架**
 
@@ -44,13 +44,13 @@ Pixeltable 将多模态数据库、编排与 HTTP 服务整合进单个应用文
 
 ```mermaid
 xychart-beta
-    title "pixeltable/pixeltable 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "pixeltable/pixeltable 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1638 --> 1650
-    line [1640, 1641, 1639, 1640, 1641, 1644, 1648, 1649]
+    line [1640, 1641, 1639, 1640, 1641, 1644, 1648, 1649, 1648]
 ```
 
-2026-10-18 1,640 → 2026-10-27 1,649（+9）
+2026-10-18 1,640 → 2026-10-28 1,648（+8）
 
 
 ---

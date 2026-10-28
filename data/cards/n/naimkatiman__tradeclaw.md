@@ -1,6 +1,6 @@
 # naimkatiman/tradeclaw
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/naimkatiman/tradeclaw) · [官网](https://tradeclaw.win) · 个人维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/naimkatiman/tradeclaw) · [官网](https://tradeclaw.win) · 个人维护 · 中文 README
 
 **自托管的加密交易信号研究终端：生成信号并公开可审计账本**
 
@@ -45,13 +45,13 @@ Next.js + PostgreSQL 单仓应用，内嵌技术指标引擎（RSI/MACD/EMA/BB/S
 
 ```mermaid
 xychart-beta
-    title "naimkatiman/tradeclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "naimkatiman/tradeclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44]
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-10-27 44（+2）
+2026-10-18 42 → 2026-10-28 44（+2）
 
 
 ---

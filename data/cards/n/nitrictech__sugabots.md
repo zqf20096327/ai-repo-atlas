@@ -1,6 +1,6 @@
 # nitrictech/sugabots
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nitrictech/sugabots) · [官网](https://sugabots.ai) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nitrictech/sugabots) · [官网](https://sugabots.ai) · 组织维护
 
 **人与 AI agent 协同工作的自托管工作区平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nitrictech/sugabots 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "nitrictech/sugabots 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 23 --> 42
-    line [24, 31, 35, 37, 38, 39, 41]
+    line [24, 31, 35, 37, 38, 39, 41, 41]
 ```
 
-2026-10-18 24 → 2026-10-27 41（+17）
+2026-10-18 24 → 2026-10-28 41（+17）
 
 
 ---

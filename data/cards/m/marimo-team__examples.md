@@ -1,6 +1,6 @@
 # marimo-team/examples
 
-⭐ 69 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/marimo-team/examples) · [官网](https://marimo.io) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/marimo-team/examples) · [官网](https://marimo.io) · 组织维护
 
 **marimo 示例笔记本策展集，供数据探索与工作流起步**
 
@@ -45,12 +45,12 @@ marimo 团队维护的示例笔记本集合：收录可用于数据探索、实�
 ```mermaid
 xychart-beta
     title "marimo-team/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-27 69（+0）
+2026-10-18 69 → 2026-10-28 69（+0）
 
 
 ---

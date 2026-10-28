@@ -1,6 +1,6 @@
 # GiovanniPasq/chunky
 
-⭐ 189 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GiovanniPasq/chunky) · 个人维护
+⭐ 191 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GiovanniPasq/chunky) · 个人维护
 
 **面向 RAG 的本地文档处理工作台：PDF 转 Markdown、清洗、分块与元数据增强**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GiovanniPasq/chunky 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 185 --> 190
-    line [186, 187, 188, 189, 189]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 185 --> 192
+    line [186, 187, 188, 189, 191]
 ```
 
-2026-10-18 186 → 2026-10-27 189（+3）
+2026-10-18 186 → 2026-10-28 191（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # kaiban-ai/KaibanJS
 
-⭐ 1,482 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/kaiban-ai/KaibanJS) · [官网](https://www.kaibanjs.com/) · 组织维护
+⭐ 1,483 · TypeScript · MIT · 推送 2026-05-15 · [GitHub](https://github.com/kaiban-ai/KaibanJS) · [官网](https://www.kaibanjs.com/) · 组织维护
 
 **JavaScript 原生多智能体系统构建框架，Kanban 式任务编排**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaiban-ai/KaibanJS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1479 --> 1484
-    line [1480, 1482, 1483, 1482, 1482]
+    line [1480, 1482, 1483, 1482, 1483]
 ```
 
-2026-10-18 1,480 → 2026-10-27 1,482（+2）
+2026-10-18 1,480 → 2026-10-28 1,483（+3）
 
 
 ---

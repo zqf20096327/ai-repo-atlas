@@ -1,6 +1,6 @@
 # ID-Robots/clawbox
 
-⭐ 31 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ID-Robots/clawbox) · [官网](https://clawbox.com) · 组织维护
+⭐ 31 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ID-Robots/clawbox) · [官网](https://clawbox.com) · 组织维护
 
 **运行在 NVIDIA Jetson 上的私人 AI 助手整机及配套操作系统**
 
@@ -45,12 +45,12 @@ ID Robots Ltd. 生产的桌面级 AI 助手硬件：NVIDIA Jetson Orin Nano 8GB�
 ```mermaid
 xychart-beta
     title "ID-Robots/clawbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 31（+1）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

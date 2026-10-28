@@ -1,6 +1,6 @@
 # UniFlowMatch/UFM
 
-⭐ 358 · Python · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/UniFlowMatch/UFM) · [官网](https://uniflowmatch.github.io/) · 组织维护
+⭐ 359 · Python · BSD-3-Clause · 推送 2026-10-15 · [GitHub](https://github.com/UniFlowMatch/UFM) · [官网](https://uniflowmatch.github.io/) · 组织维护
 
 **统一光流与宽基线匹配的稠密图像对应估计模型（NeurIPS 2025）**
 
@@ -45,12 +45,12 @@ CMU 团队提出的端到端 transformer 模型 UFM，直接回归像素位移�
 ```mermaid
 xychart-beta
     title "UniFlowMatch/UFM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 354 --> 359
-    line [355, 357, 358, 358]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 354 --> 360
+    line [355, 357, 358, 359]
 ```
 
-2026-10-18 355 → 2026-10-27 358（+3）
+2026-10-18 355 → 2026-10-28 359（+4）
 
 
 ---

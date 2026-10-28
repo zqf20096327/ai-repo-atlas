@@ -1,6 +1,6 @@
 # seehiong/polyphon-ai
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/polyphon-ai) · 个人维护 · 中文 README
+⭐ 35 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/seehiong/polyphon-ai) · 个人维护 · 中文 README
 
 **本地离线多人语音转写与说话人识别引擎，带持久化声纹身份**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/polyphon-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-27 34（+1）
+2026-10-18 33 → 2026-10-28 35（+2）
 
 
 ---

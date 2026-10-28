@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-inference-engineering
 
-⭐ 385 · Markdown · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amitshekhariitbhu/llm-inference-engineering) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 386 · Markdown · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/amitshekhariitbhu/llm-inference-engineering) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **LLM 推理工程系列教程：逐步讲解 KV cache、批处理与推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/llm-inference-engineering 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 344 --> 388
-    line [347, 374, 376, 377, 381, 385]
+    title "amitshekhariitbhu/llm-inference-engineering 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 344 --> 389
+    line [347, 374, 376, 377, 381, 385, 386]
 ```
 
-2026-10-18 347 → 2026-10-27 385（+38）
+2026-10-18 347 → 2026-10-28 386（+39）
 
 
 ---

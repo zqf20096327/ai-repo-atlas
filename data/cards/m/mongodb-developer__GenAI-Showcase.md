@@ -1,6 +1,6 @@
 # mongodb-developer/GenAI-Showcase
 
-⭐ 4,264 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
+⭐ 4,265 · Jupyter Notebook · MIT · 推送 2026-10-13 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
 
 **MongoDB 官方 GenAI 示例与应用合集：RAG、AI Agents 等用例**
 
@@ -44,12 +44,12 @@ MongoDB 维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 与行
 ```mermaid
 xychart-beta
     title "mongodb-developer/GenAI-Showcase 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
     y-axis "stars" 4263 --> 4268
-    line [4267, 4266, 4264, 4264]
+    line [4267, 4266, 4264, 4265]
 ```
 
-2026-10-18 4,267 → 2026-10-27 4,264（-3）
+2026-10-18 4,267 → 2026-10-28 4,265（-2）
 
 
 ---

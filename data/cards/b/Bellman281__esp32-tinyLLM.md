@@ -1,6 +1,6 @@
 # Bellman281/esp32-tinyLLM
 
-⭐ 47 · Rust · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/Bellman281/esp32-tinyLLM) · 个人维护
+⭐ 48 · Rust · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/Bellman281/esp32-tinyLLM) · 个人维护
 
 **在 ESP32-S3 上运行 28.9M 参数小语言模型的 Rust 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bellman281/esp32-tinyLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-10-27 47（+0）
+2026-10-18 47 → 2026-10-28 48（+1）
 
 
 ---

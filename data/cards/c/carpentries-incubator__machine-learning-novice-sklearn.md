@@ -1,6 +1,6 @@
 # carpentries-incubator/machine-learning-novice-sklearn
 
-⭐ 31 · Jupyter Notebook · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) · [官网](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/) · 组织维护
+⭐ 31 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/carpentries-incubator/machine-learning-novice-sklearn) · [官网](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/) · 组织维护
 
 **面向新手的 scikit-learn 机器学习课程（Carpentries 教学风格）**
 
@@ -45,12 +45,12 @@ Carpentries 风格的英文机器学习入门课程，内容覆盖回归、分�
 ```mermaid
 xychart-beta
     title "carpentries-incubator/machine-learning-novice-sklearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 31（+0）
 
 
 ---

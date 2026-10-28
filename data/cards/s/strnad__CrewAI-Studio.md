@@ -1,6 +1,6 @@
 # strnad/CrewAI-Studio
 
-⭐ 1,362 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/strnad/CrewAI-Studio) · 个人维护
+⭐ 1,361 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/strnad/CrewAI-Studio) · 个人维护
 
 **CrewAI 多智能体的图形化管理与运行界面，无需写代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "strnad/CrewAI-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 1359 --> 1363
-    line [1360, 1361, 1362, 1362]
+    line [1360, 1361, 1362, 1361]
 ```
 
-2026-10-18 1,360 → 2026-10-27 1,362（+2）
+2026-10-18 1,360 → 2026-10-28 1,361（+1）
 
 
 ---

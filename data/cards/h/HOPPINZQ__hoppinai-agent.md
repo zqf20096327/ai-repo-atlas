@@ -1,6 +1,6 @@
 # HOPPINZQ/hoppinai-agent
 
-⭐ 161 · Java · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HOPPINZQ/hoppinai-agent) · [官网](https://hoppinzq.com/agent/index.html) · 个人维护 · 中文 README
+⭐ 160 · Java · MIT · 推送 2026-10-15 · [GitHub](https://github.com/HOPPINZQ/hoppinai-agent) · [官网](https://hoppinzq.com/agent/index.html) · 个人维护 · 中文 README
 
 **Java 版 AI Agent 教学项目：11 个模块从零构建类 Claude Code 系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HOPPINZQ/hoppinai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 160 --> 162
-    line [161, 161]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 159 --> 162
+    line [161, 160]
 ```
 
-2026-10-18 161 → 2026-10-27 161（+0）
+2026-10-18 161 → 2026-10-28 160（-1）
 
 
 ---

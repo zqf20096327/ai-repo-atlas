@@ -1,6 +1,6 @@
 # albertobarnabo/lazy-cat
 
-⭐ 51 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/albertobarnabo/lazy-cat) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/albertobarnabo/lazy-cat) · 个人维护
 
 **Claude Code 技能包：约束 AI 编码代理优先选省 token 的最小方案**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "albertobarnabo/lazy-cat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 49 --> 52
+    line [51, 50]
 ```
 
-2026-10-18 51 → 2026-10-27 51（+0）
+2026-10-18 51 → 2026-10-28 50（-1）
 
 
 ---

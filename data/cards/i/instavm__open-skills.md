@@ -1,6 +1,6 @@
 # instavm/open-skills
 
-⭐ 452 · Python · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/instavm/open-skills) · 组织维护
+⭐ 451 · Python · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/instavm/open-skills) · 组织维护
 
 **在 Mac 本地沙箱中运行 Claude Skills 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "instavm/open-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 451 --> 454
-    line [453, 452, 452]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 450 --> 454
+    line [453, 452, 451]
 ```
 
-2026-10-18 453 → 2026-10-27 452（-1）
+2026-10-18 453 → 2026-10-28 451（-2）
 
 
 ---

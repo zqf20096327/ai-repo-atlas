@@ -44,13 +44,13 @@ cmdh（Command Helper）是一个 TypeScript 编写的命令行工具：用户�
 
 ```mermaid
 xychart-beta
-    title "pgibler/cmdh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "pgibler/cmdh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 133 --> 136
-    line [134, 135]
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-10-27 135（+1）
+2026-10-18 134 → 2026-10-28 135（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepseek-ai/DeepInfer
 
-⭐ 22,984 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepseek-ai/DeepInfer) · 组织维护 · 中文 README
+⭐ 23,365 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepseek-ai/DeepInfer) · 组织维护 · 中文 README
 
 **DeepSeek 模型的高性能大规模推理框架**
 
@@ -44,13 +44,13 @@ DeepSeek 官方开源的生产级推理框架，支撑其大规模线上服务�
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepInfer 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 16518 --> 23571
-    line [17105, 19746, 20933, 21714, 22308, 22984]
+    title "deepseek-ai/DeepInfer 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 16479 --> 23991
+    line [17105, 19746, 20933, 21714, 22308, 22984, 23365]
 ```
 
-2026-10-22 17,105 → 2026-10-27 22,984（+5,879）
+2026-10-22 17,105 → 2026-10-28 23,365（+6,260）
 
 
 ---

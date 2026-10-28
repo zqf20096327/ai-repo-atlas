@@ -1,6 +1,6 @@
 # zjukg/KG-LLM-Papers
 
-⭐ 2,244 · MIT · 推送 2026-03-02 · [GitHub](https://github.com/zjukg/KG-LLM-Papers) · 组织维护
+⭐ 2,245 · MIT · 推送 2026-03-02 · [GitHub](https://github.com/zjukg/KG-LLM-Papers) · 组织维护
 
 **知识图谱与大模型结合方向的论文收录清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zjukg/KG-LLM-Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2243 --> 2245
-    line [2244, 2244]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2243 --> 2246
+    line [2244, 2245]
 ```
 
-2026-10-18 2,244 → 2026-10-27 2,244（+0）
+2026-10-18 2,244 → 2026-10-28 2,245（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # neuromorphs/NIR
 
-⭐ 189 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/neuromorphs/NIR) · [官网](https://neuroir.org/docs) · 组织维护
+⭐ 190 · Jupyter Notebook · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/neuromorphs/NIR) · [官网](https://neuroir.org/docs) · 组织维护
 
 **神经形态模型跨平台交换的中间表示格式**
 
@@ -46,12 +46,12 @@ NIR 定义一组跨神经形态框架与技术栈共享的计算原语，作为�
 ```mermaid
 xychart-beta
     title "neuromorphs/NIR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 187 --> 190
-    line [188, 189, 189]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 187 --> 191
+    line [188, 189, 190]
 ```
 
-2026-10-18 188 → 2026-10-27 189（+1）
+2026-10-18 188 → 2026-10-28 190（+2）
 
 
 ---

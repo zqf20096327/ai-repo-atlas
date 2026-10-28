@@ -1,6 +1,6 @@
 # microsoft/Hosted_Agents_Workshop_dotNET
 
-⭐ 25 · Bicep · MIT · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/Hosted_Agents_Workshop_dotNET) · 组织维护
+⭐ 25 · Bicep · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Hosted_Agents_Workshop_dotNET) · 组织维护
 
 **微软官方 .NET 10 实操工坊：构建并部署 Foundry 托管 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Hosted_Agents_Workshop_dotNET 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

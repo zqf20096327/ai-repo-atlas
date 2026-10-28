@@ -1,6 +1,6 @@
 # swyxio/ai-notes
 
-⭐ 6,253 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/swyxio/ai-notes) · [官网](https://latent.space/) · 个人维护
+⭐ 6,252 · HTML · MIT · 推送 2026-02-16 · [GitHub](https://github.com/swyxio/ai-notes) · [官网](https://latent.space/) · 个人维护
 
 **软件工程师跟进 AI 进展的笔记与资源知识库**
 
@@ -44,13 +44,13 @@ swyxio 维护的 AI 学习笔记仓库，聚焦生成式 AI 与大语言模型�
 
 ```mermaid
 xychart-beta
-    title "swyxio/ai-notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    title "swyxio/ai-notes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 6249 --> 6254
-    line [6250, 6252, 6253]
+    line [6250, 6252, 6253, 6252]
 ```
 
-2026-10-18 6,250 → 2026-10-27 6,253（+3）
+2026-10-18 6,250 → 2026-10-28 6,252（+2）
 
 
 ---

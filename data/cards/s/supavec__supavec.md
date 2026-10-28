@@ -1,6 +1,6 @@
 # supavec/supavec
 
-⭐ 1,238 · TypeScript · Apache-2.0 · 推送 2025-12-28 · [GitHub](https://github.com/supavec/supavec) · [官网](https://www.supavec.com) · 个人维护
+⭐ 1,239 · TypeScript · Apache-2.0 · 推送 2025-12-28 · [GitHub](https://github.com/supavec/supavec) · [官网](https://www.supavec.com) · 个人维护
 
 **开源 RAG 即服务平台：向量搜索与聊天 API，自称 Carbon.ai 替代**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "supavec/supavec 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "supavec/supavec 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1236 --> 1240
-    line [1239, 1238, 1237, 1238]
+    line [1239, 1238, 1237, 1238, 1239]
 ```
 
-2026-10-18 1,239 → 2026-10-27 1,238（-1）
+2026-10-18 1,239 → 2026-10-28 1,239（+0）
 
 
 ---

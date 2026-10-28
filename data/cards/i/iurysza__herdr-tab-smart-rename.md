@@ -42,13 +42,13 @@ Herdr 终端的标签页/窗格命名插件：已知命令（如测试、开发�
 
 ```mermaid
 xychart-beta
-    title "iurysza/herdr-tab-smart-rename 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "iurysza/herdr-tab-smart-rename 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 76 --> 79
-    line [78, 77]
+    line [78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-10-27 77（-1）
+2026-10-18 78 → 2026-10-28 77（-1）
 
 
 ---

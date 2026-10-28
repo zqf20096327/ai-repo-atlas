@@ -1,6 +1,6 @@
 # MemTensor/MemT-1.0
 
-⭐ 416 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/MemTensor/MemT-1.0) · 组织维护 · 中文 README
+⭐ 431 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/MemTensor/MemT-1.0) · 组织维护 · 中文 README
 
 **持久原生记忆基础模型：让 LLM 具备固定大小的演化记忆**
 
@@ -45,13 +45,13 @@ MemT-1.0 是记忆基础模型系列，含 Nano（基于 Qwen3.6-35B-A3B，激�
 
 ```mermaid
 xychart-beta
-    title "MemTensor/MemT-1.0 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 238 --> 432
-    line [254, 333, 370, 387, 398, 416]
+    title "MemTensor/MemT-1.0 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 237 --> 448
+    line [254, 333, 370, 387, 398, 416, 431]
 ```
 
-2026-10-22 254 → 2026-10-27 416（+162）
+2026-10-22 254 → 2026-10-28 431（+177）
 
 
 ---

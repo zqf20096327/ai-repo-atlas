@@ -1,6 +1,6 @@
 # bo961386926/manga-studio
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bo961386926/manga-studio) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bo961386926/manga-studio) · 个人维护 · 中文 README
 
 **面向短剧/漫剧创作者的 AI 关键帧驱动视频生成工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bo961386926/manga-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 28]
 ```
 
-2026-10-18 24 → 2026-10-27 27（+3）
+2026-10-18 24 → 2026-10-28 28（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaomozhang/java-ai-engineer-roadmap
 
-⭐ 63 · Java · 推送 2026-04-30 · [GitHub](https://github.com/xiaomozhang/java-ai-engineer-roadmap) · [官网](https://xdfeastbuys.top/) · 个人维护 · 中文 README
+⭐ 65 · Java · 推送 2026-04-30 · [GitHub](https://github.com/xiaomozhang/java-ai-engineer-roadmap) · [官网](https://xdfeastbuys.top/) · 个人维护 · 中文 README
 
 **Java 工程师转型 AI 工程师的学习路线图与文档仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaomozhang/java-ai-engineer-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 62 --> 66
+    line [63, 65]
 ```
 
-2026-10-18 63 → 2026-10-27 63（+0）
+2026-10-18 63 → 2026-10-28 65（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # shivammehta25/Matcha-TTS
 
-⭐ 1,369 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shivammehta25/Matcha-TTS) · [官网](https://shivammehta25.github.io/Matcha-TTS/) · 个人维护
+⭐ 1,370 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shivammehta25/Matcha-TTS) · [官网](https://shivammehta25.github.io/Matcha-TTS/) · 个人维护
 
 **基于条件流匹配的非自回归神经 TTS 模型官方实现**
 
@@ -46,12 +46,12 @@ ICASSP 2024 论文 Matcha-TTS 的官方 PyTorch 实现：非自回归 TTS 架构
 ```mermaid
 xychart-beta
     title "shivammehta25/Matcha-TTS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1367 --> 1370
-    line [1368, 1369, 1369]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1367 --> 1371
+    line [1368, 1369, 1370]
 ```
 
-2026-10-18 1,368 → 2026-10-27 1,369（+1）
+2026-10-18 1,368 → 2026-10-28 1,370（+2）
 
 
 ---

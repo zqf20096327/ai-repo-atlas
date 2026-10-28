@@ -1,6 +1,6 @@
 # llm4s/llm4s
 
-⭐ 274 · Scala · MIT · 推送 2026-10-25 · [GitHub](https://github.com/llm4s/llm4s) · 组织维护
+⭐ 278 · Scala · MIT · 推送 2026-10-25 · [GitHub](https://github.com/llm4s/llm4s) · 组织维护
 
 **面向 Scala/JVM 开发者的 LLM 应用与 Agent 开发框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "llm4s/llm4s 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-27"]
-    y-axis "stars" 272 --> 275
-    line [273, 274]
+    title "llm4s/llm4s 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 272 --> 279
+    line [273, 274, 278]
 ```
 
-2026-10-25 273 → 2026-10-27 274（+1）
+2026-10-25 273 → 2026-10-28 278（+5）
 
 
 ---

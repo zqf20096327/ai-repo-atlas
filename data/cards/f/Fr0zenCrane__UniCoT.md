@@ -45,12 +45,12 @@ Uni-CoT 将 Chain-of-Thought 推理扩展到多模态领域，基于 Bagel-7B-Mo
 ```mermaid
 xychart-beta
     title "Fr0zenCrane/UniCoT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 236 --> 238
     line [237, 237]
 ```
 
-2026-10-18 237 → 2026-10-27 237（+0）
+2026-10-18 237 → 2026-10-28 237（+0）
 
 
 ---

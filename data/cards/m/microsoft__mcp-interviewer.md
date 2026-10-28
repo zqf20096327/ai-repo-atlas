@@ -45,12 +45,12 @@ Microsoft 出品的 Python CLI 工具，用于在 LLM agent 使用前检查 MCP 
 ```mermaid
 xychart-beta
     title "microsoft/mcp-interviewer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 155 --> 159
     line [156, 158, 158]
 ```
 
-2026-10-18 156 → 2026-10-27 158（+2）
+2026-10-18 156 → 2026-10-28 158（+2）
 
 
 ---

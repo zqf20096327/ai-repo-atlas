@@ -44,13 +44,13 @@ Python 算法交易库，量化研究公司 Algotrade.io 在用。功能聚合�
 
 ```mermaid
 xychart-beta
-    title "alkalescent/hyperdrive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "alkalescent/hyperdrive 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 158 --> 161
-    line [159, 160]
+    line [159, 160, 160]
 ```
 
-2026-10-18 159 → 2026-10-27 160（+1）
+2026-10-18 159 → 2026-10-28 160（+1）
 
 
 ---

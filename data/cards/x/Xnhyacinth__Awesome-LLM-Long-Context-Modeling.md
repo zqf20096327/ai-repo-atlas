@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xnhyacinth/Awesome-LLM-Long-Context-Modeling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "Xnhyacinth/Awesome-LLM-Long-Context-Modeling 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2183 --> 2188
-    line [2184, 2186, 2187]
+    line [2184, 2186, 2187, 2187]
 ```
 
-2026-10-18 2,184 → 2026-10-27 2,187（+3）
+2026-10-18 2,184 → 2026-10-28 2,187（+3）
 
 
 ---

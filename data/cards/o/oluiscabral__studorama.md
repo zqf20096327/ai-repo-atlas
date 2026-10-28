@@ -1,6 +1,6 @@
 # oluiscabral/studorama
 
-⭐ 110 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/oluiscabral/studorama) · [官网](https://studorama.vercel.app) · 个人维护
+⭐ 111 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/oluiscabral/studorama) · [官网](https://studorama.vercel.app) · 个人维护
 
 **面向学习者的多 AI 提供商学习平台：生成题目并按间隔重复法复习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oluiscabral/studorama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 109 --> 112
+    line [110, 111]
 ```
 
-2026-10-18 110 → 2026-10-27 110（+0）
+2026-10-18 110 → 2026-10-28 111（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # heypandax/pairlet
 
-⭐ 150 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/heypandax/pairlet) · [官网](https://pairlet.org/) · 个人维护 · 中文 README
+⭐ 150 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/heypandax/pairlet) · [官网](https://pairlet.org/) · 个人维护 · 中文 README
 
 **远程控制本地命令行编码代理的开源控制台**
 
@@ -46,12 +46,12 @@ Kotlin 编写的 local-first 控制平面：daemon 在用户自己电脑上以�
 ```mermaid
 xychart-beta
     title "heypandax/pairlet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 145 --> 151
     line [146, 147, 148, 149, 150, 150]
 ```
 
-2026-10-18 146 → 2026-10-27 150（+4）
+2026-10-18 146 → 2026-10-28 150（+4）
 
 
 ---

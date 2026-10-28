@@ -1,6 +1,6 @@
 # InseeFrLab/torchTextClassifiers
 
-⭐ 23 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/InseeFrLab/torchTextClassifiers) · [官网](https://inseefrlab.github.io/torchTextClassifiers/) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/InseeFrLab/torchTextClassifiers) · [官网](https://inseefrlab.github.io/torchTextClassifiers/) · 组织维护
 
 **基于 PyTorch 的文本分类框架，支持类别变量混合输入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InseeFrLab/torchTextClassifiers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

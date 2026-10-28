@@ -1,6 +1,6 @@
 # plasmate-labs/plasmate
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/plasmate-labs/plasmate) · [官网](https://docs.plasmate.app) · 组织维护
+⭐ 39 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/plasmate-labs/plasmate) · [官网](https://docs.plasmate.app) · 组织维护
 
 **面向 AI agent 的浏览器引擎：输入 HTML，输出结构化语义对象模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "plasmate-labs/plasmate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 39（+1）
 
 
 ---

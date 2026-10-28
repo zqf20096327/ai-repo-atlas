@@ -1,6 +1,6 @@
 # omegaml/omegaml
 
-⭐ 109 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/omegaml/omegaml) · [官网](https://omegaml.github.io/omegaml/) · 组织维护
+⭐ 109 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/omegaml/omegaml) · [官网](https://omegaml.github.io/omegaml/) · 组织维护
 
 **一站式 MLOps 平台：从 Jupyter 部署模型、管道与 REST 服务**
 
@@ -47,12 +47,12 @@ omega-ml 提供 Python 库与集成平台，支持从 Jupyter Notebook 或任意
 ```mermaid
 xychart-beta
     title "omegaml/omegaml 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 107 --> 110
     line [108, 109, 109]
 ```
 
-2026-10-18 108 → 2026-10-27 109（+1）
+2026-10-18 108 → 2026-10-28 109（+1）
 
 
 ---

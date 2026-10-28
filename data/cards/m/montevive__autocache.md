@@ -1,6 +1,6 @@
 # montevive/autocache
 
-⭐ 178 · Go · MIT · 推送 2026-02-02 · [GitHub](https://github.com/montevive/autocache) · [官网](https://montevive.ai) · 个人维护
+⭐ 177 · Go · MIT · 推送 2026-02-02 · [GitHub](https://github.com/montevive/autocache) · [官网](https://montevive.ai) · 个人维护
 
 **给 Anthropic API 用户的透明缓存代理：自动注入 prompt 缓存**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "montevive/autocache 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 176 --> 179
-    line [177, 178, 178]
+    line [177, 178, 177]
 ```
 
-2026-10-18 177 → 2026-10-27 178（+1）
+2026-10-18 177 → 2026-10-28 177（+0）
 
 
 ---

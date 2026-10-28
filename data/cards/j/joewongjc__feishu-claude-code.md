@@ -1,6 +1,6 @@
 # joewongjc/feishu-claude-code
 
-⭐ 169 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/joewongjc/feishu-claude-code) · 个人维护 · 中文 README
+⭐ 168 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/joewongjc/feishu-claude-code) · 个人维护 · 中文 README
 
 **把本机 Claude Code CLI 桥接到飞书的 WebSocket 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joewongjc/feishu-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 168 --> 170
-    line [169, 169]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 167 --> 170
+    line [169, 168]
 ```
 
-2026-10-18 169 → 2026-10-27 169（+0）
+2026-10-18 169 → 2026-10-28 168（-1）
 
 
 ---

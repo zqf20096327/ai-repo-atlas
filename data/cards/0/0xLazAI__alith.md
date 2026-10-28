@@ -1,6 +1,6 @@
 # 0xLazAI/alith
 
-⭐ 44 · Rust · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/0xLazAI/alith) · [官网](https://alith.lazai.network/) · 组织维护
+⭐ 44 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/0xLazAI/alith) · [官网](https://alith.lazai.network/) · 组织维护
 
 **面向 Web3/加密场景的去中心化 AI agent 开发框架**
 
@@ -45,12 +45,12 @@ Alith 是一个面向 Web3 与加密领域的 AI agent 框架，供开发者构�
 ```mermaid
 xychart-beta
     title "0xLazAI/alith 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

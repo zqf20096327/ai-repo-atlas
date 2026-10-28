@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TechMitten/Tips-Tricks-for-Agentic-Coder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-18 127 → 2026-10-27 127（+0）
+2026-10-18 127 → 2026-10-28 127（+0）
 
 
 ---

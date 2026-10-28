@@ -1,6 +1,6 @@
 # microsoft/microsoft-sql
 
-⭐ 29 · PowerShell · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/microsoft-sql) · 组织维护
+⭐ 31 · PowerShell · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/microsoft/microsoft-sql) · 组织维护
 
 **微软官方 SQL 数据库 agent 技能插件市场，覆盖开发运维迁移**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/microsoft-sql 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 25 --> 32
+    line [26, 27, 28, 29, 31]
 ```
 
-2026-10-18 26 → 2026-10-27 29（+3）
+2026-10-18 26 → 2026-10-28 31（+5）
 
 
 ---

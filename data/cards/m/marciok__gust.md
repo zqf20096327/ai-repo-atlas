@@ -1,6 +1,6 @@
 # marciok/gust
 
-⭐ 386 · Elixir · MIT · 推送 2026-10-26 · [GitHub](https://github.com/marciok/gust) · 个人维护
+⭐ 386 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/marciok/gust) · 个人维护
 
 **Erlang VM 上的任务编排引擎：DAG 调度与 Web 监控**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marciok/gust 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 380 --> 387
     line [381, 382, 385, 386, 386]
 ```
 
-2026-10-18 381 → 2026-10-27 386（+5）
+2026-10-18 381 → 2026-10-28 386（+5）
 
 
 ---

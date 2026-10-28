@@ -1,6 +1,6 @@
 # houzzkit/houzzkit-ai-ha
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/houzzkit/houzzkit-ai-ha) · 组织维护 · 中文 README
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/houzzkit/houzzkit-ai-ha) · 组织维护 · 中文 README
 
 **小瑞 Agent 智能音箱接入 Home Assistant 的自定义集成**
 
@@ -46,12 +46,12 @@ HOUZZkit AI HA 是「小瑞 Agent」智能音箱的 Home Assistant 自定义集�
 ```mermaid
 xychart-beta
     title "houzzkit/houzzkit-ai-ha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 32 --> 35
+    line [34, 33]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 33（-1）
 
 
 ---

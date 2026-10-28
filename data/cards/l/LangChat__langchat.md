@@ -1,6 +1,6 @@
 # LangChat/langchat
 
-⭐ 1,320 · Vue · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/LangChat/langchat) · [官网](https://langchat.cn) · 组织维护 · 中文 README
+⭐ 1,321 · Vue · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/LangChat/langchat) · [官网](https://langchat.cn) · 组织维护 · 中文 README
 
 **Java/Vue 技术栈的开源 AI Agent 应用平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LangChat/langchat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1312 --> 1321
-    line [1313, 1316, 1317, 1319, 1320]
+    title "LangChat/langchat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1312 --> 1322
+    line [1313, 1316, 1317, 1319, 1320, 1321]
 ```
 
-2026-10-18 1,313 → 2026-10-27 1,320（+7）
+2026-10-18 1,313 → 2026-10-28 1,321（+8）
 
 
 ---

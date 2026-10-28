@@ -1,6 +1,6 @@
 # microsoft/generative-ai-with-javascript
 
-⭐ 1,286 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/generative-ai-with-javascript) · [官网](https://microsoft.github.io/generative-ai-with-javascript/) · 组织维护
+⭐ 1,287 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/generative-ai-with-javascript) · [官网](https://microsoft.github.io/generative-ai-with-javascript/) · 组织维护
 
 **微软出品的 JavaScript 生成式 AI 入门课程（8 课）**
 
@@ -45,12 +45,12 @@ Microsoft 维护的面向 JavaScript 开发者的生成式 AI 教学课程，以
 ```mermaid
 xychart-beta
     title "microsoft/generative-ai-with-javascript 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1280 --> 1287
-    line [1281, 1285, 1286, 1286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 1280 --> 1288
+    line [1281, 1285, 1286, 1287]
 ```
 
-2026-10-18 1,281 → 2026-10-27 1,286（+5）
+2026-10-18 1,281 → 2026-10-28 1,287（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # visionpilot-project/VisionPilot
 
-⭐ 41 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/visionpilot-project/VisionPilot) · [官网](https://visionpilot-project.github.io/visionpilot-page/) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/visionpilot-project/VisionPilot) · [官网](https://visionpilot-project.github.io/visionpilot-page/) · 组织维护
 
 **自动驾驶仿真研究平台：BeamNG.tech 中的感知、融合与控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "visionpilot-project/VisionPilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

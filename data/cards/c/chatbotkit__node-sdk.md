@@ -1,6 +1,6 @@
 # chatbotkit/node-sdk
 
-⭐ 76 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/chatbotkit/node-sdk) · [官网](https://chatbotkit.com) · 组织维护
+⭐ 76 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/chatbotkit/node-sdk) · [官网](https://chatbotkit.com) · 组织维护
 
 **ChatBotKit 官方 JS/TS SDK 套件：构建会话 AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chatbotkit/node-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-27 76（+0）
+2026-10-18 76 → 2026-10-28 76（+0）
 
 
 ---

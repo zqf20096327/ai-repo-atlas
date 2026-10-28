@@ -1,6 +1,6 @@
 # bilimited/sillyChat
 
-⭐ 155 · Dart · MIT · 推送 2026-07-17 · [GitHub](https://github.com/bilimited/sillyChat) · 个人维护 · 中文 README
+⭐ 156 · Dart · MIT · 推送 2026-07-17 · [GitHub](https://github.com/bilimited/sillyChat) · 个人维护 · 中文 README
 
 **Flutter 开发的轻量级 AI 角色扮演聊天应用，支持桌面/移动端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bilimited/sillyChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "bilimited/sillyChat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 154 --> 158
-    line [157, 156, 155]
+    line [157, 156, 155, 156]
 ```
 
-2026-10-18 157 → 2026-10-27 155（-2）
+2026-10-18 157 → 2026-10-28 156（-1）
 
 
 ---

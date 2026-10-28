@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-cpp
 
-⭐ 53 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/milvus-io/milvus-sdk-cpp) · 组织维护
+⭐ 53 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/milvus-sdk-cpp) · 组织维护
 
 **面向 C++ 开发者的 Milvus 向量数据库官方 SDK**
 
@@ -45,12 +45,12 @@ Milvus 向量数据库的 C++ 客户端 SDK，由 milvus-io 组织维护。提�
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-27 53（+0）
+2026-10-18 53 → 2026-10-28 53（+0）
 
 
 ---

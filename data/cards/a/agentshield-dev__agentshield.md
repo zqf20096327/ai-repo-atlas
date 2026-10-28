@@ -1,6 +1,6 @@
 # agentshield-dev/agentshield
 
-⭐ 54 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agentshield-dev/agentshield) · [官网](https://agent-shield.dev) · 组织维护
+⭐ 56 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/agentshield-dev/agentshield) · [官网](https://agent-shield.dev) · 组织维护
 
 **给 K8s/AWS 平台安全工程师的横向移动检测与修复建议工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentshield-dev/agentshield 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 59
-    line [3, 46, 49, 51, 54]
+    title "agentshield-dev/agentshield 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 61
+    line [3, 46, 49, 51, 54, 56]
 ```
 
-2026-10-23 3 → 2026-10-27 54（+51）
+2026-10-23 3 → 2026-10-28 56（+53）
 
 
 ---

@@ -1,6 +1,6 @@
 # rlaope/deepseek-bot
 
-⭐ 76 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rlaope/deepseek-bot) · 个人维护
+⭐ 79 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rlaope/deepseek-bot) · 个人维护
 
 **自托管个人 AI 队友：常驻 Slack/Discord/Telegram 与终端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rlaope/deepseek-bot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 31 --> 81
-    line [35, 46, 66, 71, 76, 77, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 31 --> 83
+    line [35, 46, 66, 71, 76, 77, 76, 79]
 ```
 
-2026-10-18 35 → 2026-10-27 76（+41）
+2026-10-18 35 → 2026-10-28 79（+44）
 
 
 ---

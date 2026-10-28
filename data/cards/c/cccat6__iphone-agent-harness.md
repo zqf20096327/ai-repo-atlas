@@ -1,6 +1,6 @@
 # cccat6/iphone-agent-harness
 
-⭐ 29 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cccat6/iphone-agent-harness) · [官网](https://igent.cc) · 个人维护 · 中文 README
+⭐ 32 · C · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cccat6/iphone-agent-harness) · [官网](https://igent.cc) · 个人维护 · 中文 README
 
 **用 AI 通过 Safari 与 ESP32 蓝牙桥自动化操作 iPhone 的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cccat6/iphone-agent-harness 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2 --> 31
-    line [4, 5, 6, 7, 8, 29]
+    title "cccat6/iphone-agent-harness 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2 --> 34
+    line [4, 5, 6, 7, 8, 29, 32]
 ```
 
-2026-10-22 4 → 2026-10-27 29（+25）
+2026-10-22 4 → 2026-10-28 32（+28）
 
 
 ---

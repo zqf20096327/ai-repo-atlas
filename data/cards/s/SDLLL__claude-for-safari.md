@@ -1,6 +1,6 @@
 # SDLLL/claude-for-safari
 
-⭐ 99 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/SDLLL/claude-for-safari) · [官网](https://safari.skilljam.dev) · 个人维护 · 中文 README
+⭐ 100 · JavaScript · MIT · 推送 2026-08-04 · [GitHub](https://github.com/SDLLL/claude-for-safari) · [官网](https://safari.skilljam.dev) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 AppleScript 直接控制 macOS Safari 的技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SDLLL/claude-for-safari 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 94 --> 100
-    line [95, 96, 97, 98, 99]
+    title "SDLLL/claude-for-safari 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 94 --> 101
+    line [95, 96, 97, 98, 99, 100]
 ```
 
-2026-10-18 95 → 2026-10-27 99（+4）
+2026-10-18 95 → 2026-10-28 100（+5）
 
 
 ---

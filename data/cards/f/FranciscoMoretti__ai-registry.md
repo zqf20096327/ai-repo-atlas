@@ -1,6 +1,6 @@
 # FranciscoMoretti/ai-registry
 
-⭐ 43 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/FranciscoMoretti/ai-registry) · [官网](https://ai-registry-website.vercel.app) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/FranciscoMoretti/ai-registry) · [官网](https://ai-registry-website.vercel.app) · 个人维护
 
 **浏览 Vercel AI Gateway 模型目录的网站：按厂商/上下文/价格筛选比较**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FranciscoMoretti/ai-registry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 42 --> 46
-    line [45, 43, 43]
+    line [45, 43, 44]
 ```
 
-2026-10-18 45 → 2026-10-27 43（-2）
+2026-10-18 45 → 2026-10-28 44（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Crystalmislip/card-craft
 
-⭐ 25 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Crystalmislip/card-craft) · 个人维护
+⭐ 24 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Crystalmislip/card-craft) · 个人维护
 
 **Windows 本地 LLM 闪卡生成器：把笔记和 PDF 变成 Anki 卡片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Crystalmislip/card-craft 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 14 --> 26
-    line [15, 20, 25, 25]
+    line [15, 20, 25, 24]
 ```
 
-2026-10-22 15 → 2026-10-27 25（+10）
+2026-10-22 15 → 2026-10-28 24（+9）
 
 
 ---

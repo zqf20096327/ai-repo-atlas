@@ -1,6 +1,6 @@
 # diginno-net/grokbot-dsh-orchestrator-vn
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/diginno-net/grokbot-dsh-orchestrator-vn) · 组织维护
+⭐ 25 · Shell · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/diginno-net/grokbot-dsh-orchestrator-vn) · 组织维护
 
 **让 Grok Bot 当调度层、DeepSeek Harness 做廉价 worker 的编排方案（含技能/脚本/配置）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "diginno-net/grokbot-dsh-orchestrator-vn 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 17 --> 25
-    line [18, 19, 23, 24]
+    title "diginno-net/grokbot-dsh-orchestrator-vn 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 23, 24, 25]
 ```
 
-2026-10-23 18 → 2026-10-27 24（+6）
+2026-10-23 18 → 2026-10-28 25（+7）
 
 
 ---

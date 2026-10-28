@@ -1,6 +1,6 @@
 # haris-musa/excel-mcp-server
 
-⭐ 4,268 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/haris-musa/excel-mcp-server) · [官网](https://excelmcpserver.com) · 个人维护
+⭐ 4,268 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/haris-musa/excel-mcp-server) · [官网](https://excelmcpserver.com) · 个人维护
 
 **让 AI 客户端读写 Excel 文件的 MCP 服务器，无需安装 Excel**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "haris-musa/excel-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "haris-musa/excel-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4244 --> 4270
-    line [4246, 4248, 4254, 4257, 4258, 4259, 4262, 4268]
+    line [4246, 4248, 4254, 4257, 4258, 4259, 4262, 4268, 4268]
 ```
 
-2026-10-18 4,246 → 2026-10-27 4,268（+22）
+2026-10-18 4,246 → 2026-10-28 4,268（+22）
 
 
 ---

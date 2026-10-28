@@ -1,6 +1,6 @@
 # spider-rs/spider
 
-⭐ 2,802 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spider-rs/spider) · [官网](https://spider.cloud/github) · 组织维护
+⭐ 2,805 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/spider-rs/spider) · [官网](https://spider.cloud/github) · 组织维护
 
 **Rust 编写的并发优先网页爬取与抓取引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "spider-rs/spider 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2783 --> 2803
-    line [2784, 2789, 2792, 2794, 2795, 2802]
+    title "spider-rs/spider 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2782 --> 2807
+    line [2784, 2789, 2792, 2794, 2795, 2802, 2805]
 ```
 
-2026-10-18 2,784 → 2026-10-27 2,802（+18）
+2026-10-18 2,784 → 2026-10-28 2,805（+21）
 
 
 ---

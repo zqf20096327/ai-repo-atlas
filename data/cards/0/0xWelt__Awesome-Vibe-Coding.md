@@ -1,6 +1,6 @@
 # 0xWelt/Awesome-Vibe-Coding
 
-⭐ 118 · 推送 2026-10-26 · [GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [官网](https://0xwelt.github.io/Awesome-Vibe-Coding/) · 个人维护
+⭐ 118 · 推送 2026-10-27 · [GitHub](https://github.com/0xWelt/Awesome-Vibe-Coding) · [官网](https://0xwelt.github.io/Awesome-Vibe-Coding/) · 个人维护
 
 **Vibe Coding 开源项目、工具与学习资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "0xWelt/Awesome-Vibe-Coding 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 113 --> 119
     line [114, 115, 116, 117, 118, 118]
 ```
 
-2026-10-18 114 → 2026-10-27 118（+4）
+2026-10-18 114 → 2026-10-28 118（+4）
 
 
 ---

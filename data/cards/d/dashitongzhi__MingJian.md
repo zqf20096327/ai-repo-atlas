@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dashitongzhi/MingJian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "dashitongzhi/MingJian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 32 --> 35
-    line [34, 33]
+    line [34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-10-27 33（-1）
+2026-10-18 34 → 2026-10-28 33（-1）
 
 
 ---

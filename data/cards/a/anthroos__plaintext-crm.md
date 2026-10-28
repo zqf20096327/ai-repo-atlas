@@ -1,6 +1,6 @@
 # anthroos/plaintext-crm
 
-⭐ 43 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/anthroos/plaintext-crm) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/anthroos/plaintext-crm) · 个人维护
 
 **在 IDE 中通过对话操作的纯文本 CSV CRM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anthroos/plaintext-crm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 44（+1）
 
 
 ---

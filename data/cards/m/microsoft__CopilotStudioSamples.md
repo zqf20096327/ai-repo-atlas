@@ -1,6 +1,6 @@
 # microsoft/CopilotStudioSamples
 
-⭐ 807 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/CopilotStudioSamples) · 组织维护
+⭐ 808 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/CopilotStudioSamples) · 组织维护
 
 **微软 Copilot Studio 官方示例与制品合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/CopilotStudioSamples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 806 --> 808
-    line [807, 807]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 806 --> 809
+    line [807, 808]
 ```
 
-2026-10-18 807 → 2026-10-27 807（+0）
+2026-10-18 807 → 2026-10-28 808（+1）
 
 
 ---

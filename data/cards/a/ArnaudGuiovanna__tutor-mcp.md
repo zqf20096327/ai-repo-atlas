@@ -1,6 +1,6 @@
 # ArnaudGuiovanna/tutor-mcp
 
-⭐ 56 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ArnaudGuiovanna/tutor-mcp) · [官网](https://tutor-mcp.dev/) · 个人维护
+⭐ 56 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ArnaudGuiovanna/tutor-mcp) · [官网](https://tutor-mcp.dev/) · 个人维护
 
 **把任意 LLM 变成自适应导师的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArnaudGuiovanna/tutor-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "ArnaudGuiovanna/tutor-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 48 --> 57
-    line [49, 52, 53, 54, 56]
+    line [49, 52, 53, 54, 56, 56]
 ```
 
-2026-10-18 49 → 2026-10-27 56（+7）
+2026-10-18 49 → 2026-10-28 56（+7）
 
 
 ---

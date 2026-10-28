@@ -1,6 +1,6 @@
 # zjunlp/LightMem-Ego
 
-⭐ 115 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zjunlp/LightMem-Ego) · [官网](https://lightmem-ego.zjukg.cn/) · 组织维护 · 中文 README
+⭐ 116 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zjunlp/LightMem-Ego) · [官网](https://lightmem-ego.zjukg.cn/) · 组织维护 · 中文 README
 
 **面向智能眼镜与手机的自我中心多模态 AI 记忆系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/LightMem-Ego 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 111 --> 116
-    line [112, 113, 114, 115, 115]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 111 --> 117
+    line [112, 113, 114, 115, 116]
 ```
 
-2026-10-18 112 → 2026-10-27 115（+3）
+2026-10-18 112 → 2026-10-28 116（+4）
 
 
 ---

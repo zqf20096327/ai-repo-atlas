@@ -1,6 +1,6 @@
 # stepfun-ai/NextStep-1
 
-⭐ 695 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/stepfun-ai/NextStep-1) · 组织维护 · 中文 README
+⭐ 696 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/stepfun-ai/NextStep-1) · 组织维护 · 中文 README
 
 **14B 连续 token 自回归图像生成模型的训练与推理代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stepfun-ai/NextStep-1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 693 --> 696
-    line [694, 695, 695]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 693 --> 697
+    line [694, 695, 696]
 ```
 
-2026-10-18 694 → 2026-10-27 695（+1）
+2026-10-18 694 → 2026-10-28 696（+2）
 
 
 ---

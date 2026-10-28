@@ -1,6 +1,6 @@
 # harry0703/AudioNotes
 
-⭐ 2,536 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/harry0703/AudioNotes) · 个人维护 · 中文 README
+⭐ 2,538 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/harry0703/AudioNotes) · 个人维护 · 中文 README
 
 **本地音视频转文字并整理成 Markdown 笔记的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "harry0703/AudioNotes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2533 --> 2538
-    line [2534, 2536, 2537, 2536]
+    title "harry0703/AudioNotes 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2533 --> 2539
+    line [2534, 2536, 2537, 2536, 2538]
 ```
 
-2026-10-18 2,534 → 2026-10-27 2,536（+2）
+2026-10-18 2,534 → 2026-10-28 2,538（+4）
 
 
 ---

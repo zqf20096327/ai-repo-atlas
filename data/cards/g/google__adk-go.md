@@ -1,6 +1,6 @@
 # google/adk-go
 
-⭐ 8,901 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/adk-go) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 8,904 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/adk-go) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **Google 官方 Go 语言 AI agent 开发框架（ADK）**
 
@@ -44,13 +44,13 @@ Agent Development Kit 的 Go 实现：以代码优先方式在 Go 中定义 agen
 
 ```mermaid
 xychart-beta
-    title "google/adk-go 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 8884 --> 8902
-    line [8888, 8894, 8885, 8890, 8891, 8895, 8901]
+    title "google/adk-go 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 8884 --> 8905
+    line [8888, 8894, 8885, 8890, 8891, 8895, 8901, 8904]
 ```
 
-2026-10-18 8,888 → 2026-10-27 8,901（+13）
+2026-10-18 8,888 → 2026-10-28 8,904（+16）
 
 
 ---

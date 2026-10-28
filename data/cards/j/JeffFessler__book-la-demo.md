@@ -46,12 +46,12 @@ Jeff Fessler 与 Raj Nadakuditi（密歇根大学）所著《Linear Algebra for 
 ```mermaid
 xychart-beta
     title "JeffFessler/book-la-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-10-27 84（+0）
+2026-10-18 84 → 2026-10-28 84（+0）
 
 
 ---

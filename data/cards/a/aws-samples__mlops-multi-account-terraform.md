@@ -1,6 +1,6 @@
 # aws-samples/mlops-multi-account-terraform
 
-⭐ 49 · Jupyter Notebook · MIT-0 · 推送 2026-03-11 · [GitHub](https://github.com/aws-samples/mlops-multi-account-terraform) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 Terraform 与 GitHub 在 AWS 上构建企业级 MLOps 平台的参考方案**
 
@@ -11,7 +11,7 @@ AWS 官方示例仓库，演示如何用 Terraform 与 GitHub Actions 构建多�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT-0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # onlyphantom/llm-python
 
-⭐ 929 · Jupyter Notebook · MIT · 推送 2026-02-20 · [GitHub](https://github.com/onlyphantom/llm-python) · [官网](https://www.youtube.com/playlist?list=PLXsFtK46HZxUQERRbOmuGoqbMD-KWLkOS) · 个人维护
+⭐ 930 · Jupyter Notebook · MIT · 推送 2026-02-20 · [GitHub](https://github.com/onlyphantom/llm-python) · [官网](https://www.youtube.com/playlist?list=PLXsFtK46HZxUQERRbOmuGoqbMD-KWLkOS) · 个人维护
 
 **面向学习者的 LLM 应用与 Agent 开发教程代码集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onlyphantom/llm-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "onlyphantom/llm-python 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 928 --> 931
-    line [930, 929]
+    line [930, 929, 930]
 ```
 
-2026-10-18 930 → 2026-10-27 929（-1）
+2026-10-18 930 → 2026-10-28 930（+0）
 
 
 ---

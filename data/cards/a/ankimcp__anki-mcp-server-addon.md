@@ -1,6 +1,6 @@
 # ankimcp/anki-mcp-server-addon
 
-⭐ 94 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/ankimcp/anki-mcp-server-addon) · [官网](https://ankimcp.ai) · 组织维护
+⭐ 95 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/ankimcp/anki-mcp-server-addon) · [官网](https://ankimcp.ai) · 组织维护
 
 **Anki 插件：在 Anki 内运行 MCP 服务器，让 AI 助手操作卡组**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankimcp/anki-mcp-server-addon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 88 --> 95
-    line [89, 92, 93, 94]
+    title "ankimcp/anki-mcp-server-addon 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 88 --> 96
+    line [89, 92, 93, 94, 95]
 ```
 
-2026-10-18 89 → 2026-10-27 94（+5）
+2026-10-18 89 → 2026-10-28 95（+6）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qdrant/vector-db-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "qdrant/vector-db-benchmark 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 373 --> 376
-    line [374, 375]
+    line [374, 375, 375]
 ```
 
-2026-10-18 374 → 2026-10-27 375（+1）
+2026-10-18 374 → 2026-10-28 375（+1）
 
 
 ---

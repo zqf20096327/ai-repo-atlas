@@ -1,6 +1,6 @@
 # affaan-m/claude-swarm
 
-⭐ 438 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/affaan-m/claude-swarm) · 个人维护
+⭐ 440 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/affaan-m/claude-swarm) · 个人维护
 
 **Claude Code 的多 agent 编排工具：任务分解、并行执行与终端可视化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "affaan-m/claude-swarm 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 409 --> 440
-    line [411, 414, 416, 420, 421, 433, 438]
+    title "affaan-m/claude-swarm 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 409 --> 442
+    line [411, 414, 416, 420, 421, 433, 438, 440]
 ```
 
-2026-10-18 411 → 2026-10-27 438（+27）
+2026-10-18 411 → 2026-10-28 440（+29）
 
 
 ---

@@ -1,6 +1,6 @@
 # vivy-yi/awesome-agent-orchestration
 
-⭐ 104 · NOASSERTION · 推送 2026-03-05 · [GitHub](https://github.com/vivy-yi/awesome-agent-orchestration) · 个人维护 · 中文 README
+⭐ 105 · NOASSERTION · 推送 2026-03-05 · [GitHub](https://github.com/vivy-yi/awesome-agent-orchestration) · 个人维护 · 中文 README
 
 **AI Agent 编排框架与协议策展清单（多智能体/群体智能/MCP/A2A）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vivy-yi/awesome-agent-orchestration 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 96 --> 105
-    line [97, 100, 102, 103, 104, 104]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 96 --> 106
+    line [97, 100, 102, 103, 104, 105]
 ```
 
-2026-10-18 97 → 2026-10-27 104（+7）
+2026-10-18 97 → 2026-10-28 105（+8）
 
 
 ---

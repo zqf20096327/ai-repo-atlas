@@ -1,6 +1,6 @@
 # yui0/catseye
 
-⭐ 33 · C · 推送 2026-10-26 · [GitHub](https://github.com/yui0/catseye) · 个人维护 · 中文 README
+⭐ 33 · C · 推送 2026-10-27 · [GitHub](https://github.com/yui0/catseye) · 个人维护 · 中文 README
 
 **单头文件 C 神经网络库及示例应用集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yui0/catseye 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-27 33（+1）
+2026-10-18 32 → 2026-10-28 33（+1）
 
 
 ---

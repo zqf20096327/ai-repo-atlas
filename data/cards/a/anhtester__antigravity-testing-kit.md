@@ -1,6 +1,6 @@
 # anhtester/antigravity-testing-kit
 
-⭐ 148 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/anhtester/antigravity-testing-kit) · [官网](https://anhtester.com) · 个人维护 · 中文 README
+⭐ 149 · JavaScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/anhtester/antigravity-testing-kit) · [官网](https://anhtester.com) · 个人维护 · 中文 README
 
 **面向越南 Tester 社区的 Antigravity AI Agent 测试配置套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anhtester/antigravity-testing-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 144 --> 149
-    line [145, 146, 147, 148, 148]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 144 --> 150
+    line [145, 146, 147, 148, 149]
 ```
 
-2026-10-18 145 → 2026-10-27 148（+3）
+2026-10-18 145 → 2026-10-28 149（+4）
 
 
 ---

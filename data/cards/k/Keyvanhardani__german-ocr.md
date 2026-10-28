@@ -1,6 +1,6 @@
 # Keyvanhardani/german-ocr
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/Keyvanhardani/german-ocr) · [官网](https://german-ocr.de) · 个人维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/Keyvanhardani/german-ocr) · [官网](https://german-ocr.de) · 个人维护
 
 **德语文档 OCR 模型与服务：从发票、收据、表单提取文本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Keyvanhardani/german-ocr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 113 --> 116
+    line [114, 115]
 ```
 
-2026-10-18 114 → 2026-10-27 114（+0）
+2026-10-18 114 → 2026-10-28 115（+1）
 
 
 ---

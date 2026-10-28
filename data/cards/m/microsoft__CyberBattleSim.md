@@ -1,6 +1,6 @@
 # microsoft/CyberBattleSim
 
-⭐ 1,800 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/CyberBattleSim) · 组织维护
+⭐ 1,801 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/CyberBattleSim) · 组织维护
 
 **微软的网络安全强化学习实验仿真平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/CyberBattleSim 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1798 --> 1801
-    line [1800, 1799, 1800, 1799, 1800, 1800]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 1798 --> 1802
+    line [1800, 1799, 1800, 1799, 1800, 1801]
 ```
 
-2026-10-18 1,800 → 2026-10-27 1,800（+0）
+2026-10-18 1,800 → 2026-10-28 1,801（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # caido-community/Chatio
 
-⭐ 39 · Vue · MIT · 推送 2026-08-12 · [GitHub](https://github.com/caido-community/Chatio) · 组织维护
+⭐ 39 · Vue · MIT · 推送 2026-10-27 · [GitHub](https://github.com/caido-community/Chatio) · 组织维护
 
 **面向渗透测试者的 Caido 插件：AI 安全测试助手**
 
@@ -46,12 +46,12 @@ Chatio 是为 Caido（Web 安全测试代理平台）构建的插件，面向渗
 ```mermaid
 xychart-beta
     title "caido-community/Chatio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 39（+0）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

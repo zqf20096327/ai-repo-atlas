@@ -1,6 +1,6 @@
 # squillero/computational-intelligence
 
-⭐ 71 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/squillero/computational-intelligence) · [官网](https://staff.polito.it/giovanni.squillero/lectures/) · 组织维护
+⭐ 70 · Jupyter Notebook · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/squillero/computational-intelligence) · [官网](https://staff.polito.it/giovanni.squillero/lectures/) · 组织维护
 
 **都灵理工大学计算智能课程的讲义与代码片段集**
 
@@ -43,12 +43,12 @@ Giovanni Squillero 在都灵理工大学讲授《计算智能》(01URROV) 课程
 ```mermaid
 xychart-beta
     title "squillero/computational-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 69 --> 72
+    line [71, 70]
 ```
 
-2026-10-18 71 → 2026-10-27 71（+0）
+2026-10-18 71 → 2026-10-28 70（-1）
 
 
 ---

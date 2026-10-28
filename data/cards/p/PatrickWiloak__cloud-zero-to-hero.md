@@ -1,6 +1,6 @@
 # PatrickWiloak/cloud-zero-to-hero
 
-⭐ 46 · HTML · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/PatrickWiloak/cloud-zero-to-hero) · [官网](https://cloud.noblerworks.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **云计算学习与认证备考知识库：72 个认证指南加动手项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

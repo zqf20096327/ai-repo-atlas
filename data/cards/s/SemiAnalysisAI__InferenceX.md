@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX
 
-⭐ 1,928 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
+⭐ 1,936 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
 
 **开源 LLM 推理性能持续基准测试与仪表盘平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SemiAnalysisAI/InferenceX 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1866 --> 1933
-    line [1871, 1876, 1895, 1901, 1911, 1913, 1918, 1928]
+    title "SemiAnalysisAI/InferenceX 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1865 --> 1942
+    line [1871, 1876, 1895, 1901, 1911, 1913, 1918, 1928, 1936]
 ```
 
-2026-10-18 1,871 → 2026-10-27 1,928（+57）
+2026-10-18 1,871 → 2026-10-28 1,936（+65）
 
 
 ---

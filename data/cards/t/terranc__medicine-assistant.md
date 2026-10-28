@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "terranc/medicine-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "terranc/medicine-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-27 50（+1）
+2026-10-18 49 → 2026-10-28 50（+1）
 
 
 ---

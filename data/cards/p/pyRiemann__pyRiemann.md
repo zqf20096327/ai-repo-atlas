@@ -1,6 +1,6 @@
 # pyRiemann/pyRiemann
 
-⭐ 784 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/pyRiemann/pyRiemann) · [官网](https://pyriemann.readthedocs.io) · 组织维护
+⭐ 784 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pyRiemann/pyRiemann) · [官网](https://pyriemann.readthedocs.io) · 组织维护
 
 **基于黎曼几何的多变量数据（EEG/BCI/遥感）机器学习库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pyRiemann/pyRiemann 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "pyRiemann/pyRiemann 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 780 --> 785
-    line [781, 782, 784]
+    line [781, 782, 784, 784]
 ```
 
-2026-10-18 781 → 2026-10-27 784（+3）
+2026-10-18 781 → 2026-10-28 784（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # remyxai/FFMPerative
 
-⭐ 206 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/remyxai/FFMPerative) · [官网](https://remyx.ai) · 组织维护
+⭐ 207 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/remyxai/FFMPerative) · [官网](https://remyx.ai) · 组织维护
 
 **用自然语言对话生成 ffmpeg 命令的视频编辑工具**
 
@@ -45,12 +45,12 @@ FFMPerative 是一个通过 LLM 驱动的聊天界面进行视频编辑的 Pytho
 ```mermaid
 xychart-beta
     title "remyxai/FFMPerative 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 203 --> 207
-    line [204, 206, 206]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 203 --> 208
+    line [204, 206, 207]
 ```
 
-2026-10-18 204 → 2026-10-27 206（+2）
+2026-10-18 204 → 2026-10-28 207（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # codelibs/fess
 
-⭐ 1,142 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/codelibs/fess) · [官网](https://fess.codelibs.org) · 组织维护
+⭐ 1,142 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/codelibs/fess) · [官网](https://fess.codelibs.org) · 组织维护
 
 **自托管企业/站内搜索服务器：爬取多源文档并提供全文检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codelibs/fess 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 1141 --> 1143
     line [1142, 1142]
 ```
 
-2026-10-18 1,142 → 2026-10-27 1,142（+0）
+2026-10-18 1,142 → 2026-10-28 1,142（+0）
 
 
 ---

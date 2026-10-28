@@ -1,6 +1,6 @@
 # MLEveryday/100-Days-Of-ML-Code
 
-⭐ 22,235 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MLEveryday/100-Days-Of-ML-Code) · 个人维护 · 中文 README
+⭐ 22,233 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MLEveryday/100-Days-Of-ML-Code) · 个人维护 · 中文 README
 
 **机器学习中文学习路线：Day1~54 讲解、代码与练习**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "MLEveryday/100-Days-Of-ML-Code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 22234 --> 22240
-    line [22239, 22236, 22237, 22235, 22235]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 22232 --> 22240
+    line [22239, 22236, 22237, 22235, 22233]
 ```
 
-2026-10-18 22,239 → 2026-10-27 22,235（-4）
+2026-10-18 22,239 → 2026-10-28 22,233（-6）
 
 
 ---

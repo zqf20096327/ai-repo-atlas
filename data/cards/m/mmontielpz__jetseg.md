@@ -42,12 +42,12 @@ JetSeg 是一个面向低功耗 GPU 嵌入式设备（如 Jetson AGX Xavier）�
 ```mermaid
 xychart-beta
     title "mmontielpz/jetseg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

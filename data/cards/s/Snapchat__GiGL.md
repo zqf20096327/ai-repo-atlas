@@ -1,6 +1,6 @@
 # Snapchat/GiGL
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Snapchat/GiGL) · [官网](https://snapchat.github.io/GiGL/) · 组织维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Snapchat/GiGL) · [官网](https://snapchat.github.io/GiGL/) · 组织维护
 
 **面向十亿级图的 GNN 训练与推理框架**
 
@@ -45,12 +45,12 @@ Snapchat 开源的图神经网络训练与推理库，面向十亿级规模图�
 ```mermaid
 xychart-beta
     title "Snapchat/GiGL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-10-27 86（+0）
+2026-10-18 86 → 2026-10-28 86（+0）
 
 
 ---

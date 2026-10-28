@@ -1,6 +1,6 @@
 # letta-ai/letta-code
 
-⭐ 3,711 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/letta-ai/letta-code) · [官网](https://www.letta.com/agent) · 组织维护
+⭐ 3,717 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/letta-ai/letta-code) · [官网](https://www.letta.com/agent) · 组织维护
 
 **给开发者的有状态 agent 运行框架：记忆、自我改写与多端交互**
 
@@ -44,13 +44,13 @@ Letta Code 是一个有状态 agent harness，用于创建具有记忆、身份�
 
 ```mermaid
 xychart-beta
-    title "letta-ai/letta-code 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3633 --> 3718
-    line [3640, 3657, 3672, 3683, 3696, 3701, 3709, 3711]
+    title "letta-ai/letta-code 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3633 --> 3724
+    line [3640, 3657, 3672, 3683, 3696, 3701, 3709, 3711, 3717]
 ```
 
-2026-10-18 3,640 → 2026-10-27 3,711（+71）
+2026-10-18 3,640 → 2026-10-28 3,717（+77）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/mttl
 
-⭐ 116 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/microsoft/mttl) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **微软的模块化 LLM 研究代码库：LoRA 库构建、路由与合并**
 
@@ -11,7 +11,7 @@ MTTL 是微软发布的研究代码库，围绕 LLM 的模型复用、模型重�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # mobile-next/mobilewright
 
-⭐ 454 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
+⭐ 456 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
 
 **iOS/Android 真机与模拟器自动化测试框架，单一 API 跨平台**
 
@@ -46,12 +46,12 @@ TypeScript 编写的移动应用测试与自动化框架，架构参考 Playwrig
 ```mermaid
 xychart-beta
     title "mobile-next/mobilewright 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 428 --> 456
-    line [430, 436, 444, 449, 452, 454, 454]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 428 --> 458
+    line [430, 436, 444, 449, 452, 454, 456]
 ```
 
-2026-10-18 430 → 2026-10-27 454（+24）
+2026-10-18 430 → 2026-10-28 456（+26）
 
 
 ---

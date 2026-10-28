@@ -1,6 +1,6 @@
 # nwuzmedoutlook/university
 
-⭐ 1,230 · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/nwuzmedoutlook/university) · [官网](https://workhard.eu.org) · 个人维护 · 中文 README
+⭐ 1,231 · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/nwuzmedoutlook/university) · [官网](https://workhard.eu.org) · 个人维护 · 中文 README
 
 **120+ 所国内高校课程资源链接的手工整理清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nwuzmedoutlook/university 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1220 --> 1231
-    line [1221, 1225, 1226, 1227, 1228, 1229, 1230]
+    title "nwuzmedoutlook/university 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1220 --> 1232
+    line [1221, 1225, 1226, 1227, 1228, 1229, 1230, 1231]
 ```
 
-2026-10-18 1,221 → 2026-10-27 1,230（+9）
+2026-10-18 1,221 → 2026-10-28 1,231（+10）
 
 
 ---

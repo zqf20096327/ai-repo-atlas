@@ -46,12 +46,12 @@ MacPaw 开源的 Swift 6.1+ 包，将 AI 管道分为三层：result-builder 声
 ```mermaid
 xychart-beta
     title "MacPaw/ComposablePipelines 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

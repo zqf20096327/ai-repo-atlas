@@ -1,6 +1,6 @@
 # instadeepai/deeppcb-kicad-plugin
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/instadeepai/deeppcb-kicad-plugin) · [官网](https://deeppcb.ai/) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/instadeepai/deeppcb-kicad-plugin) · [官网](https://deeppcb.ai/) · 组织维护
 
 **为 KiCad 用户提供 DeepPCB 云端 AI 自动布线插件**
 
@@ -45,12 +45,12 @@ KiCad PCB 编辑器的外部插件：将当前 PCB 上传至 DeepPCB 云端布�
 ```mermaid
 xychart-beta
     title "instadeepai/deeppcb-kicad-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 65 --> 69
+    line [66, 68]
 ```
 
-2026-10-18 66 → 2026-10-27 66（+0）
+2026-10-18 66 → 2026-10-28 68（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ellite/anchor-sub-sync
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ellite/anchor-sub-sync) · [官网](https://anchor.henrique.pt) · 个人维护
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ellite/anchor-sub-sync) · [官网](https://anchor.henrique.pt) · 个人维护
 
 **GPU 加速的字幕同步与翻译 CLI，基于 Whisper 语音对齐**
 
@@ -46,12 +46,12 @@ Anchor 是一个 Python 命令行工具，通过 WhisperX（或可选的 NVIDIA 
 ```mermaid
 xychart-beta
     title "ellite/anchor-sub-sync 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

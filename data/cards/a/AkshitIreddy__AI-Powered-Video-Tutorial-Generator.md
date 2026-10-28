@@ -1,6 +1,6 @@
 # AkshitIreddy/AI-Powered-Video-Tutorial-Generator
 
-⭐ 316 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
+⭐ 317 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/AkshitIreddy/AI-Powered-Video-Tutorial-Generator) · [官网](https://www.linkedin.com/company/alystria-ai) · 个人维护
 
 **Windows 桌面 AI 视频教程生成器：从主题到可编辑成片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkshitIreddy/AI-Powered-Video-Tutorial-Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 314 --> 317
-    line [315, 316]
+    title "AkshitIreddy/AI-Powered-Video-Tutorial-Generator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 314 --> 318
+    line [315, 316, 317]
 ```
 
-2026-10-18 315 → 2026-10-27 316（+1）
+2026-10-18 315 → 2026-10-28 317（+2）
 
 
 ---

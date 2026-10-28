@@ -1,6 +1,6 @@
 # leonickson1/Swiftlet
 
-⭐ 664 · Swift · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/leonickson1/Swiftlet) · 个人维护
+⭐ 665 · Swift · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/leonickson1/Swiftlet) · 个人维护
 
 **在 Apple 设备上流式运行 Qwen MoE 大模型的 Swift/Metal 运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leonickson1/Swiftlet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 658 --> 665
-    line [659, 661, 662, 663, 664]
+    title "leonickson1/Swiftlet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 658 --> 666
+    line [659, 661, 662, 663, 664, 665]
 ```
 
-2026-10-18 659 → 2026-10-27 664（+5）
+2026-10-18 659 → 2026-10-28 665（+6）
 
 
 ---

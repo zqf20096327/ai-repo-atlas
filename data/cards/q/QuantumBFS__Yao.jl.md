@@ -1,6 +1,6 @@
 # QuantumBFS/Yao.jl
 
-⭐ 1,046 · Julia · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/QuantumBFS/Yao.jl) · [官网](https://yaoquantum.org) · 组织维护 · 中文 README
+⭐ 1,049 · Julia · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/QuantumBFS/Yao.jl) · [官网](https://yaoquantum.org) · 组织维护 · 中文 README
 
 **Julia 量子算法设计框架，服务量子信息科研与教学**
 
@@ -45,12 +45,12 @@ Yao 是用 Julia 语言编写的开源量子计算框架，面向量子算法设
 ```mermaid
 xychart-beta
     title "QuantumBFS/Yao.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1044 --> 1047
-    line [1045, 1046, 1046]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1044 --> 1050
+    line [1045, 1046, 1049]
 ```
 
-2026-10-18 1,045 → 2026-10-27 1,046（+1）
+2026-10-18 1,045 → 2026-10-28 1,049（+4）
 
 
 ---

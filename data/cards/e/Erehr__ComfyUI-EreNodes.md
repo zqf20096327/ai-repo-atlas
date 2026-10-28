@@ -1,6 +1,6 @@
 # Erehr/ComfyUI-EreNodes
 
-⭐ 83 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Erehr/ComfyUI-EreNodes) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Erehr/ComfyUI-EreNodes) · 个人维护
 
 **ComfyUI 提示词管理节点集：可切换标签、标签库与 booru 浏览器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Erehr/ComfyUI-EreNodes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-10-27 83（+1）
+2026-10-18 82 → 2026-10-28 83（+1）
 
 
 ---

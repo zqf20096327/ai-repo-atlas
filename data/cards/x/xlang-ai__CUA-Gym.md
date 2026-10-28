@@ -1,6 +1,6 @@
 # xlang-ai/CUA-Gym
 
-⭐ 223 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/xlang-ai/CUA-Gym) · [官网](https://cua-gym.xlang.ai) · 组织维护
+⭐ 224 · Python · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/xlang-ai/CUA-Gym) · [官网](https://cua-gym.xlang.ai) · 组织维护
 
 **为计算机使用代理合成可验证 RLVR 训练数据的流水线与数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xlang-ai/CUA-Gym 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 215 --> 224
-    line [216, 218, 220, 222, 223]
+    title "xlang-ai/CUA-Gym 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 215 --> 225
+    line [216, 218, 220, 222, 223, 224]
 ```
 
-2026-10-18 216 → 2026-10-27 223（+7）
+2026-10-18 216 → 2026-10-28 224（+8）
 
 
 ---

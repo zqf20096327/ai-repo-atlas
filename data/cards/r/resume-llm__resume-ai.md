@@ -1,6 +1,6 @@
 # resume-llm/resume-ai
 
-⭐ 393 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/resume-llm/resume-ai) · 个人维护
+⭐ 394 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/resume-llm/resume-ai) · 个人维护
 
 **本地优先的求职管理与 AI 简历生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "resume-llm/resume-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 392 --> 395
-    line [394, 393, 393]
+    line [394, 393, 394]
 ```
 
-2026-10-18 394 → 2026-10-27 393（-1）
+2026-10-18 394 → 2026-10-28 394（+0）
 
 
 ---

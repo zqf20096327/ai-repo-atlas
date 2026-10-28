@@ -1,6 +1,6 @@
 # FoundationAgents/MetaGPT
 
-⭐ 71,029 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
+⭐ 71,034 · Python · MIT · 推送 2026-01-21 · [GitHub](https://github.com/FoundationAgents/MetaGPT) · [官网](https://atoms.dev/) · 组织维护 · 中文 README
 
 **多智能体框架：模拟软件公司角色协作完成复杂任务**
 
@@ -52,13 +52,13 @@ MetaGPT 接收一行需求作为输入，输出用户故事、竞品分析、需
 
 ```mermaid
 xychart-beta
-    title "FoundationAgents/MetaGPT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 70882 --> 71042
-    line [70895, 70927, 70969, 70994, 71003, 71014, 71029]
+    title "FoundationAgents/MetaGPT 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 70882 --> 71047
+    line [70895, 70927, 70969, 70994, 71003, 71014, 71029, 71034]
 ```
 
-2026-10-18 70,895 → 2026-10-27 71,029（+134）
+2026-10-18 70,895 → 2026-10-28 71,034（+139）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/content-processing-solution-accelerator
 
-⭐ 252 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/content-processing-solution-accelerator) · [官网](https://github.com/microsoft/solution-accelerators/) · 组织维护
+⭐ 252 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/content-processing-solution-accelerator) · [官网](https://github.com/microsoft/solution-accelerators/) · 组织维护
 
 **面向企业的多文档非结构化内容抽取与理赔处理方案加速器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/content-processing-solution-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 251 --> 253
     line [252, 252]
 ```
 
-2026-10-18 252 → 2026-10-27 252（+0）
+2026-10-18 252 → 2026-10-28 252（+0）
 
 
 ---

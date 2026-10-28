@@ -1,6 +1,6 @@
 # pleasedodisturb/awesome-llm-token-optimization
 
-⭐ 103 · Shell · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pleasedodisturb/awesome-llm-token-optimization) · 个人维护
+⭐ 104 · Shell · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pleasedodisturb/awesome-llm-token-optimization) · 个人维护
 
 **降低 LLM token 成本的策略/工具/论文策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pleasedodisturb/awesome-llm-token-optimization 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 96 --> 104
-    line [97, 99, 100, 101, 103, 103]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 96 --> 105
+    line [97, 99, 100, 101, 103, 104]
 ```
 
-2026-10-18 97 → 2026-10-27 103（+6）
+2026-10-18 97 → 2026-10-28 104（+7）
 
 
 ---

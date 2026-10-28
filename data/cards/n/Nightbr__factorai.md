@@ -44,13 +44,13 @@ Rust 编写的桌面端 Agentic Development Environment（ADE）：将每个会�
 
 ```mermaid
 xychart-beta
-    title "Nightbr/factorai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "Nightbr/factorai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-27 31（+2）
+2026-10-18 29 → 2026-10-28 31（+2）
 
 
 ---

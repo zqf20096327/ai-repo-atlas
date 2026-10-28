@@ -1,6 +1,6 @@
 # lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction
 
-⭐ 250 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) · 个人维护 · 中文 README
+⭐ 251 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) · 个人维护 · 中文 README
 
 **多相机 3D 占用预测论文与代码的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 249 --> 252
-    line [251, 250, 250]
+    line [251, 250, 251]
 ```
 
-2026-10-18 251 → 2026-10-27 250（-1）
+2026-10-18 251 → 2026-10-28 251（+0）
 
 
 ---

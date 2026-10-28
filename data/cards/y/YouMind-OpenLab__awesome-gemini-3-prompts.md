@@ -1,6 +1,6 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-⭐ 522 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
+⭐ 522 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
 
 **Gemini 3 创意提示词策展清单：49 条多语言提示词配图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YouMind-OpenLab/awesome-gemini-3-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 519 --> 523
     line [520, 522, 522]
 ```
 
-2026-10-18 520 → 2026-10-27 522（+2）
+2026-10-18 520 → 2026-10-28 522（+2）
 
 
 ---

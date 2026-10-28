@@ -1,6 +1,6 @@
 # allinherog-star/ai-skills
 
-⭐ 54 · Python · 推送 2026-06-06 · [GitHub](https://github.com/allinherog-star/ai-skills) · [官网](https://ai-skills.ai) · 组织维护 · 中文 README
+⭐ 53 · Python · 推送 2026-06-06 · [GitHub](https://github.com/allinherog-star/ai-skills) · [官网](https://ai-skills.ai) · 组织维护 · 中文 README
 
 **面向职业与行业场景的 AI 技能库目录（245 个技能）**
 
@@ -47,12 +47,12 @@ ai-skills.ai 官网的技能库目录仓库：收录 245 个公开技能（其�
 ```mermaid
 xychart-beta
     title "allinherog-star/ai-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 52 --> 55
+    line [54, 53]
 ```
 
-2026-10-18 54 → 2026-10-27 54（+0）
+2026-10-18 54 → 2026-10-28 53（-1）
 
 
 ---

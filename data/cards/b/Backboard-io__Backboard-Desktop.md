@@ -1,6 +1,6 @@
 # Backboard-io/Backboard-Desktop
 
-⭐ 34 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Backboard-io/Backboard-Desktop) · 组织维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Backboard-io/Backboard-Desktop) · 组织维护
 
 **基于 Code - OSS 的桌面 AI 编码 agent IDE，聚合多家模型**
 
@@ -47,12 +47,12 @@ MIT 许可的桌面 AI agent 工作台，构建于 Code - OSS（VS Code 开源�
 ```mermaid
 xychart-beta
     title "Backboard-io/Backboard-Desktop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 30 --> 35
     line [33, 34, 31, 33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-27 34（+1）
+2026-10-18 33 → 2026-10-28 34（+1）
 
 
 ---

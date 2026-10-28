@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-canvas
 
-⭐ 300 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-canvas) · [官网](https://agricidaniel.com/blog/claude-canvas-ai-visual-production) · 个人维护
+⭐ 302 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-canvas) · [官网](https://agricidaniel.com/blog/claude-canvas-ai-visual-production) · 个人维护
 
 **Claude Code 驱动的 Obsidian Canvas 可视化生产技能插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/claude-canvas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 299 --> 303
-    line [302, 301, 300, 300]
+    line [302, 301, 300, 302]
 ```
 
-2026-10-18 302 → 2026-10-27 300（-2）
+2026-10-18 302 → 2026-10-28 302（+0）
 
 
 ---

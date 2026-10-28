@@ -1,6 +1,6 @@
 # kprompt/kprompt
 
-⭐ 43 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kprompt/kprompt) · [官网](https://kprompt.ai) · 组织维护
+⭐ 43 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kprompt/kprompt) · [官网](https://kprompt.ai) · 组织维护
 
 **Kubernetes 的自然语言运维 CLI：把指令变成可审批的安全计划**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kprompt/kprompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 43（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle
 
-⭐ 24,130 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PaddlePaddle/Paddle) · [官网](http://www.paddlepaddle.org/) · 组织维护 · 中文 README
+⭐ 24,132 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PaddlePaddle/Paddle) · [官网](http://www.paddlepaddle.org/) · 组织维护 · 中文 README
 
 **深度学习框架，支持分布式训练与跨平台部署**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "PaddlePaddle/Paddle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 24124 --> 24131
-    line [24126, 24129, 24125, 24127, 24128, 24130]
+    title "PaddlePaddle/Paddle 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 24124 --> 24133
+    line [24126, 24129, 24125, 24127, 24128, 24130, 24132]
 ```
 
-2026-10-18 24,126 → 2026-10-27 24,130（+4）
+2026-10-18 24,126 → 2026-10-28 24,132（+6）
 
 
 ---

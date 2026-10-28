@@ -1,6 +1,6 @@
 # quadbio/cell-annotator
 
-⭐ 30 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/quadbio/cell-annotator) · [官网](https://cell-annotator.readthedocs.io) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/quadbio/cell-annotator) · [官网](https://cell-annotator.readthedocs.io) · 个人维护
 
 **用 LLM 基于标记基因自动注释单细胞数据细胞类型**
 
@@ -46,12 +46,12 @@ scverse 生态的 Python 包：读取 scRNA-seq 数据（AnnData），基于聚�
 ```mermaid
 xychart-beta
     title "quadbio/cell-annotator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

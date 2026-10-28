@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alfredfrancis/ai-chatbot-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "alfredfrancis/ai-chatbot-framework 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2167 --> 2171
-    line [2170, 2169, 2168]
+    line [2170, 2169, 2168, 2168]
 ```
 
-2026-10-18 2,170 → 2026-10-27 2,168（-2）
+2026-10-18 2,170 → 2026-10-28 2,168（-2）
 
 
 ---

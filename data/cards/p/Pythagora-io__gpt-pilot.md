@@ -1,6 +1,6 @@
 # Pythagora-io/gpt-pilot
 
-⭐ 33,640 · Python · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/Pythagora-io/gpt-pilot) · 组织维护
+⭐ 33,635 · Python · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/Pythagora-io/gpt-pilot) · 组织维护
 
 **给开发者的 AI 编码代理：逐步生成完整应用**
 
@@ -51,13 +51,13 @@ GPT Pilot 是 Pythagora VS Code 扩展的核心技术，也可作为 CLI 工具�
 
 ```mermaid
 xychart-beta
-    title "Pythagora-io/gpt-pilot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 33639 --> 33655
-    line [33654, 33653, 33650, 33646, 33645, 33644, 33640]
+    title "Pythagora-io/gpt-pilot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 33634 --> 33655
+    line [33654, 33653, 33650, 33646, 33645, 33644, 33640, 33635]
 ```
 
-2026-10-18 33,654 → 2026-10-27 33,640（-14）
+2026-10-18 33,654 → 2026-10-28 33,635（-19）
 
 
 ---

@@ -1,6 +1,6 @@
 # antojunimaia-ui/Koda
 
-⭐ 32 · TypeScript · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/antojunimaia-ui/Koda) · 个人维护
+⭐ 32 · TypeScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/antojunimaia-ui/Koda) · 个人维护
 
 **本地运行的 AI 辅助编程 Agent 开发环境（ADE）**
 
@@ -46,12 +46,12 @@ Koda 是开源的 Electron 桌面应用，定位为 Agent Development Environmen
 ```mermaid
 xychart-beta
     title "antojunimaia-ui/Koda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-10-27 32（+1）
+2026-10-18 31 → 2026-10-28 32（+1）
 
 
 ---

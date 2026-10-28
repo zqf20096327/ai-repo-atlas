@@ -1,6 +1,6 @@
 # pinecone-io/terraform-provider-pinecone
 
-⭐ 32 · Go · MPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/terraform-provider-pinecone) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Pinecone 官方 Terraform Provider：以 IaC 管理向量库资源**
 
@@ -11,7 +11,7 @@ Pinecone 官方维护的 Terraform Provider 插件，用 Go 编写，允许通�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MPL-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

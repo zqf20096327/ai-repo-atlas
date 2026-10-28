@@ -1,6 +1,6 @@
 # shd101wyy/Yo
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/shd101wyy/Yo) · [官网](https://shd101wyy.github.io/Yo/) · 个人维护 · 中文 README
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/shd101wyy/Yo) · [官网](https://shd101wyy.github.io/Yo/) · 个人维护 · 中文 README
 
 **对 LLM 写入友好、对人类阅读友好的编译型编程语言（进行中）**
 
@@ -45,12 +45,12 @@ Yo 是一门多范式、通用、编译型（转译到 C）编程语言，语法
 ```mermaid
 xychart-beta
     title "shd101wyy/Yo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 39（+0）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

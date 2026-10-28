@@ -1,6 +1,6 @@
 # WncFht/devin2api
 
-⭐ 57 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/WncFht/devin2api) · [官网](https://wncfht.github.io/devin2api/) · 个人维护 · 中文 README
+⭐ 59 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/WncFht/devin2api) · [官网](https://wncfht.github.io/devin2api/) · 个人维护 · 中文 README
 
 **把 Devin 账号模型包装成 OpenAI/Anthropic 兼容 API 的代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WncFht/devin2api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 50 --> 58
-    line [51, 53, 55, 54, 55, 57]
+    title "WncFht/devin2api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 50 --> 60
+    line [51, 53, 55, 54, 55, 57, 59]
 ```
 
-2026-10-18 51 → 2026-10-27 57（+6）
+2026-10-18 51 → 2026-10-28 59（+8）
 
 
 ---

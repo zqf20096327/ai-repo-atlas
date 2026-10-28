@@ -1,6 +1,6 @@
 # devflowinc/trieve
 
-⭐ 2,721 · Rust · MIT · 推送 2026-01-25 · [GitHub](https://github.com/devflowinc/trieve) · [官网](https://trieve.ai) · 组织维护
+⭐ 2,722 · Rust · MIT · 推送 2026-01-25 · [GitHub](https://github.com/devflowinc/trieve) · [官网](https://trieve.ai) · 组织维护
 
 **面向开发者的搜索/推荐/RAG 一体化基础设施 API 平台**
 
@@ -47,12 +47,12 @@ Trieve 提供通过 API 交付的搜索、推荐、RAG 与分析一体化平台�
 ```mermaid
 xychart-beta
     title "devflowinc/trieve 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 2719 --> 2723
-    line [2720, 2721, 2722, 2721, 2721]
+    line [2720, 2721, 2722, 2721, 2722]
 ```
 
-2026-10-18 2,720 → 2026-10-27 2,721（+1）
+2026-10-18 2,720 → 2026-10-28 2,722（+2）
 
 
 ---

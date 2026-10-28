@@ -1,6 +1,6 @@
 # a-agmon/rs-graph-llm
 
-⭐ 382 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/a-agmon/rs-graph-llm) · 个人维护
+⭐ 381 · Rust · MIT · 推送 2026-10-21 · [GitHub](https://github.com/a-agmon/rs-graph-llm) · 个人维护
 
 **面向 AI agent 的 Rust 有状态图工作流框架（LangGraph 风格）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "a-agmon/rs-graph-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 381 --> 383
-    line [382, 382]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 380 --> 383
+    line [382, 381]
 ```
 
-2026-10-18 382 → 2026-10-27 382（+0）
+2026-10-18 382 → 2026-10-28 381（-1）
 
 
 ---

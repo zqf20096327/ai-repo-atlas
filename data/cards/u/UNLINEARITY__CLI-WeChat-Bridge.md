@@ -1,6 +1,6 @@
 # UNLINEARITY/CLI-WeChat-Bridge
 
-⭐ 550 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/UNLINEARITY/CLI-WeChat-Bridge) · [官网](https://unlinearity.github.io/CLI-WeChat-Bridge/) · 个人维护 · 中文 README
+⭐ 554 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/UNLINEARITY/CLI-WeChat-Bridge) · [官网](https://unlinearity.github.io/CLI-WeChat-Bridge/) · 个人维护 · 中文 README
 
 **把微信/企业微信/Telegram 桥接到本地 AI CLI 的远程入口工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "UNLINEARITY/CLI-WeChat-Bridge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 534 --> 551
-    line [535, 539, 543, 547, 549, 550, 550]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 534 --> 555
+    line [535, 539, 543, 547, 549, 550, 554]
 ```
 
-2026-10-18 535 → 2026-10-27 550（+15）
+2026-10-18 535 → 2026-10-28 554（+19）
 
 
 ---

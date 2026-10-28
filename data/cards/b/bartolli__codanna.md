@@ -1,6 +1,6 @@
 # bartolli/codanna
 
-⭐ 756 · Rust · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/bartolli/codanna) · [官网](https://docs.codanna.sh/) · 个人维护
+⭐ 757 · Rust · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/bartolli/codanna) · [官网](https://docs.codanna.sh/) · 个人维护
 
 **面向 AI 编码代理的本地代码智能 MCP 服务器与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bartolli/codanna 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 753 --> 757
-    line [754, 756, 756]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 753 --> 758
+    line [754, 756, 757]
 ```
 
-2026-10-18 754 → 2026-10-27 756（+2）
+2026-10-18 754 → 2026-10-28 757（+3）
 
 
 ---

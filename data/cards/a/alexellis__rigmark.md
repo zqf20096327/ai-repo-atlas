@@ -1,6 +1,6 @@
 # alexellis/rigmark
 
-⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexellis/rigmark) · [官网](https://github.com/alexellis/rigmark) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/alexellis/rigmark) · [官网](https://github.com/alexellis/rigmark) · 个人维护
 
 **面向编码 agent 用法的本地 AI 推理服务基准测试工具**
 
@@ -45,12 +45,12 @@ RigMark 是对 OpenAI 兼容本地推理服务做可复现基准测量的工具�
 ```mermaid
 xychart-beta
     title "alexellis/rigmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 19 --> 27
-    line [20, 25, 26, 26]
+    line [20, 25, 26, 25]
 ```
 
-2026-10-18 20 → 2026-10-27 26（+6）
+2026-10-18 20 → 2026-10-28 25（+5）
 
 
 ---

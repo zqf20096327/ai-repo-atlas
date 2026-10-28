@@ -1,6 +1,6 @@
 # datagallery-ai/dataagent
 
-⭐ 721 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/datagallery-ai/dataagent) · [官网](https://datagallery-ai.github.io/dataagent/) · 组织维护 · 中文 README
+⭐ 721 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/datagallery-ai/dataagent) · [官网](https://datagallery-ai.github.io/dataagent/) · 组织维护 · 中文 README
 
 **面向企业的开源 Data Agent 数据分析工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "datagallery-ai/dataagent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 712 --> 722
     line [713, 718, 719, 721, 721]
 ```
 
-2026-10-18 713 → 2026-10-27 721（+8）
+2026-10-18 713 → 2026-10-28 721（+8）
 
 
 ---

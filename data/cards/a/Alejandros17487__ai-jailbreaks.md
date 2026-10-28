@@ -1,6 +1,6 @@
 # Alejandros17487/ai-jailbreaks
 
-⭐ 499 · 推送 2026-10-21 · [GitHub](https://github.com/Alejandros17487/ai-jailbreaks) · 个人维护
+⭐ 506 · 推送 2026-10-21 · [GitHub](https://github.com/Alejandros17487/ai-jailbreaks) · 个人维护
 
 **面向 25+ 模型的 35 条越狱提示词合集，用于 AI 安全研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alejandros17487/ai-jailbreaks 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "Alejandros17487/ai-jailbreaks 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 309 --> 567
-    line [330, 439, 520, 546, 499]
+    line [330, 439, 520, 546, 499, 506]
 ```
 
-2026-10-23 330 → 2026-10-27 499（+169）
+2026-10-23 330 → 2026-10-28 506（+176）
 
 
 ---

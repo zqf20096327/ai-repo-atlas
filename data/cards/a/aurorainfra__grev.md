@@ -1,6 +1,6 @@
 # aurorainfra/grev
 
-⭐ 59 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/aurorainfra/grev) · 组织维护
+⭐ 61 · Go · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/aurorainfra/grev) · 组织维护
 
 **基于类型化模型问答的 Unix 命令行过滤器工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aurorainfra/grev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 55 --> 60
-    line [56, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 55 --> 62
+    line [56, 58, 59, 61]
 ```
 
-2026-10-18 56 → 2026-10-27 59（+3）
+2026-10-18 56 → 2026-10-28 61（+5）
 
 
 ---

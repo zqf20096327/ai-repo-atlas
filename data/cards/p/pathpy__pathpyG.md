@@ -1,6 +1,6 @@
 # pathpy/pathpyG
 
-⭐ 61 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/pathpy/pathpyG) · [官网](https://www.pathpy.net) · 组织维护
+⭐ 62 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/pathpy/pathpyG) · [官网](https://www.pathpy.net) · 组织维护
 
 **面向时序网络数据的 GPU 加速图学习与网络分析库**
 
@@ -44,13 +44,13 @@ pathpyG 是基于高阶 De Bruijn 图模型对时序数据进行因果结构建�
 
 ```mermaid
 xychart-beta
-    title "pathpy/pathpyG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61]
+    title "pathpy/pathpyG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 61, 62]
 ```
 
-2026-10-18 59 → 2026-10-27 61（+2）
+2026-10-18 59 → 2026-10-28 62（+3）
 
 
 ---

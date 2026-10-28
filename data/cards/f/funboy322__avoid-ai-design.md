@@ -1,6 +1,6 @@
 # funboy322/avoid-ai-design
 
-⭐ 127 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/funboy322/avoid-ai-design) · 个人维护
+⭐ 128 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/funboy322/avoid-ai-design) · 个人维护
 
 **审计并改写 AI 生成前端代码的 Claude Code 技能，消除 AI 设计痕迹**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "funboy322/avoid-ai-design 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 109 --> 128
-    line [110, 117, 123, 124, 127, 127]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 109 --> 129
+    line [110, 117, 123, 124, 127, 128]
 ```
 
-2026-10-18 110 → 2026-10-27 127（+17）
+2026-10-18 110 → 2026-10-28 128（+18）
 
 
 ---

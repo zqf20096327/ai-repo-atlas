@@ -1,6 +1,6 @@
 # samber/cc-skills
 
-⭐ 236 · CSS · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills) · [官网](https://skills.sh/samber/cc-skills) · 个人维护
+⭐ 238 · CSS · MIT · 推送 2026-10-01 · [GitHub](https://github.com/samber/cc-skills) · [官网](https://skills.sh/samber/cc-skills) · 个人维护
 
 **面向 AI agent 的可复用技能集合：按需加载的领域指令集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "samber/cc-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 231 --> 237
-    line [232, 234, 235, 236, 236]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 231 --> 239
+    line [232, 234, 235, 236, 238]
 ```
 
-2026-10-18 232 → 2026-10-27 236（+4）
+2026-10-18 232 → 2026-10-28 238（+6）
 
 
 ---

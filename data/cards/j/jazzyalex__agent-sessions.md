@@ -1,6 +1,6 @@
 # jazzyalex/agent-sessions
 
-⭐ 917 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
+⭐ 919 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
 
 **本地优先的 macOS 应用：搜索与恢复 16 种 AI 编码代理的会话历史**
 
@@ -45,13 +45,13 @@ macOS 桌面应用，读取并索引 Codex、Claude Code、Cursor、Copilot CLI�
 
 ```mermaid
 xychart-beta
-    title "jazzyalex/agent-sessions 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 904 --> 918
-    line [905, 906, 909, 911, 916, 917]
+    title "jazzyalex/agent-sessions 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 904 --> 920
+    line [905, 906, 909, 911, 916, 917, 919]
 ```
 
-2026-10-18 905 → 2026-10-27 917（+12）
+2026-10-18 905 → 2026-10-28 919（+14）
 
 
 ---

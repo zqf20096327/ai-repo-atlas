@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp
 
-⭐ 866 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 个人维护
+⭐ 871 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 个人维护
 
 **用任意 LLM 操控 ComfyUI 的 MCP 服务器与侧边栏 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "artokun/comfyui-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 829 --> 869
-    line [832, 842, 850, 855, 860, 861, 862, 866]
+    title "artokun/comfyui-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 829 --> 874
+    line [832, 842, 850, 855, 860, 861, 862, 866, 871]
 ```
 
-2026-10-18 832 → 2026-10-27 866（+34）
+2026-10-18 832 → 2026-10-28 871（+39）
 
 
 ---

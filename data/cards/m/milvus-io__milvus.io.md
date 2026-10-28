@@ -45,12 +45,12 @@ milvus-io/milvus.io 是 Milvus 向量数据库官方网站的源码仓库，基�
 ```mermaid
 xychart-beta
     title "milvus-io/milvus.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-27 51（+0）
+2026-10-18 51 → 2026-10-28 51（+0）
 
 
 ---

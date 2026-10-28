@@ -1,6 +1,6 @@
 # 0xranx/golembot
 
-⭐ 323 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xranx/golembot) · [官网](https://0xranx.github.io/golembot/) · 个人维护 · 中文 README
+⭐ 324 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/0xranx/golembot) · [官网](https://0xranx.github.io/golembot/) · 个人维护 · 中文 README
 
 **把 Coding Agent 接入 IM 渠道的网关与嵌入框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xranx/golembot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 321 --> 324
-    line [322, 323, 323]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 321 --> 325
+    line [322, 323, 324]
 ```
 
-2026-10-18 322 → 2026-10-27 323（+1）
+2026-10-18 322 → 2026-10-28 324（+2）
 
 
 ---

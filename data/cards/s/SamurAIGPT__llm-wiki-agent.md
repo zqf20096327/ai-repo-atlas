@@ -1,6 +1,6 @@
 # SamurAIGPT/llm-wiki-agent
 
-⭐ 3,655 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/SamurAIGPT/llm-wiki-agent) · 个人维护
+⭐ 3,661 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/SamurAIGPT/llm-wiki-agent) · 个人维护
 
 **让编码代理自动摄入文档并维护持久互联知识库的技能**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/llm-wiki-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3627 --> 3657
-    line [3629, 3638, 3644, 3649, 3651, 3655]
+    title "SamurAIGPT/llm-wiki-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3626 --> 3664
+    line [3629, 3638, 3644, 3649, 3651, 3655, 3661]
 ```
 
-2026-10-18 3,629 → 2026-10-27 3,655（+26）
+2026-10-18 3,629 → 2026-10-28 3,661（+32）
 
 
 ---

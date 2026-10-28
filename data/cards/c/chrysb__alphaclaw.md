@@ -1,6 +1,6 @@
 # chrysb/alphaclaw
 
-⭐ 1,476 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chrysb/alphaclaw) · 个人维护
+⭐ 1,478 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chrysb/alphaclaw) · 个人维护
 
 **OpenClaw 的部署与运行管理外壳：Web 安装向导+自愈看门狗**
 
@@ -45,13 +45,13 @@ AlphaClaw 封装 OpenClaw 网关，提供密码保护的 Web 设置界面、分�
 
 ```mermaid
 xychart-beta
-    title "chrysb/alphaclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1474 --> 1477
-    line [1475, 1476, 1475, 1476]
+    title "chrysb/alphaclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1474 --> 1479
+    line [1475, 1476, 1475, 1476, 1478]
 ```
 
-2026-10-18 1,475 → 2026-10-27 1,476（+1）
+2026-10-18 1,475 → 2026-10-28 1,478（+3）
 
 
 ---

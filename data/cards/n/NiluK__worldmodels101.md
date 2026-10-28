@@ -1,6 +1,6 @@
 # NiluK/worldmodels101
 
-⭐ 205 · TypeScript · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/NiluK/worldmodels101) · [官网](https://worldmodels101.com) · 个人维护
+⭐ 206 · TypeScript · CC-BY-SA-4.0 · 推送 2026-08-24 · [GitHub](https://github.com/NiluK/worldmodels101) · [官网](https://worldmodels101.com) · 个人维护
 
 **世界模型免费互动课程：9 章讲解预测、潜空间与规划**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NiluK/worldmodels101 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 203 --> 207
-    line [205, 206, 204, 205, 205]
+    line [205, 206, 204, 205, 206]
 ```
 
-2026-10-18 205 → 2026-10-27 205（+0）
+2026-10-18 205 → 2026-10-28 206（+1）
 
 
 ---

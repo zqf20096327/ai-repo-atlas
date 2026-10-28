@@ -1,6 +1,6 @@
 # theneoai/awesome-skills
 
-⭐ 190 · JavaScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/theneoai/awesome-skills) · [官网](https://theneoai.github.io/awesome-skills) · 组织维护 · 中文 README
+⭐ 191 · JavaScript · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/theneoai/awesome-skills) · [官网](https://theneoai.github.io/awesome-skills) · 组织维护 · 中文 README
 
 **按专业领域组织的 956 个 AI 角色技能库（persona/tool/workflow）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "theneoai/awesome-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 187 --> 191
-    line [188, 189, 188, 189, 190]
+    title "theneoai/awesome-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 187 --> 192
+    line [188, 189, 188, 189, 190, 191]
 ```
 
-2026-10-18 188 → 2026-10-27 190（+2）
+2026-10-18 188 → 2026-10-28 191（+3）
 
 
 ---

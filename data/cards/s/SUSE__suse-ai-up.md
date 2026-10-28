@@ -46,12 +46,12 @@ SUSE 维护的 MCP（Model Context Protocol）通用代理系统：以统一服�
 ```mermaid
 xychart-beta
     title "SUSE/suse-ai-up 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

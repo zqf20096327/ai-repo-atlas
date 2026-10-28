@@ -1,6 +1,6 @@
 # theanshsonkar/carto
 
-⭐ 81 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/theanshsonkar/carto) · [官网](https://trycarto.theanshsonkar.workers.dev/) · 个人维护
+⭐ 80 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/theanshsonkar/carto) · [官网](https://trycarto.theanshsonkar.workers.dev/) · 个人维护
 
 **将代码库打包为便携 AI 容器，供 AI 编码工具共享上下文与风险拦截**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theanshsonkar/carto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 79 --> 82
+    line [81, 80]
 ```
 
-2026-10-18 81 → 2026-10-27 81（+0）
+2026-10-18 81 → 2026-10-28 80（-1）
 
 
 ---

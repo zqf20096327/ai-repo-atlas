@@ -1,6 +1,6 @@
 # HeyWillow/willow
 
-⭐ 3,129 · C · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/HeyWillow/willow) · [官网](https://heywillow.org/) · 组织维护
+⭐ 3,130 · C · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/HeyWillow/willow) · [官网](https://heywillow.org/) · 组织维护
 
 **开源自托管的本地语音助手，Amazon Echo/Google Home 替代**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "HeyWillow/willow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3126 --> 3130
-    line [3127, 3128, 3129, 3129]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 3126 --> 3131
+    line [3127, 3128, 3129, 3130]
 ```
 
-2026-10-18 3,127 → 2026-10-27 3,129（+2）
+2026-10-18 3,127 → 2026-10-28 3,130（+3）
 
 
 ---

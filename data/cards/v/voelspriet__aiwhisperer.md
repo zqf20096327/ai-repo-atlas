@@ -1,6 +1,6 @@
 # voelspriet/aiwhisperer
 
-⭐ 56 · Python · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/voelspriet/aiwhisperer) · 个人维护
+⭐ 57 · Python · CC0-1.0 · 推送 2026-01-20 · [GitHub](https://github.com/voelspriet/aiwhisperer) · 个人维护
 
 **调查文档上传云端 AI 前的本地脱敏与压缩工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voelspriet/aiwhisperer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57]
 ```
 
-2026-10-18 55 → 2026-10-27 56（+1）
+2026-10-18 55 → 2026-10-28 57（+2）
 
 
 ---

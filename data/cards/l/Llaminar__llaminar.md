@@ -1,6 +1,6 @@
 # Llaminar/llaminar
 
-⭐ 45 · C++ · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Llaminar/llaminar) · [官网](https://llaminar.ai) · 组织维护
+⭐ 46 · C++ · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Llaminar/llaminar) · [官网](https://llaminar.ai) · 组织维护
 
 **C++ 编写的 LLM 推理引擎，CPU/NVIDIA/AMD 混合并行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Llaminar/llaminar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 46（+1）
 
 
 ---

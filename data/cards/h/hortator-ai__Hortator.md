@@ -1,6 +1,6 @@
 # hortator-ai/Hortator
 
-⭐ 42 · Go · MIT · 推送 2026-06-21 · [GitHub](https://github.com/hortator-ai/Hortator) · [官网](https://hortator.ai) · 组织维护
+⭐ 43 · Go · MIT · 推送 2026-06-21 · [GitHub](https://github.com/hortator-ai/Hortator) · [官网](https://hortator.ai) · 组织维护
 
 **让 AI agent 在 K8s 上受控派生子 agent 的 Kubernetes operator**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hortator-ai/Hortator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 33 --> 43
-    line [34, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 33 --> 44
+    line [34, 41, 42, 43]
 ```
 
-2026-10-18 34 → 2026-10-27 42（+8）
+2026-10-18 34 → 2026-10-28 43（+9）
 
 
 ---

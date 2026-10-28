@@ -1,6 +1,6 @@
 # bytewax/bytewax
 
-⭐ 2,059 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/bytewax/bytewax) · [官网](https://docs.bytewax.io/) · 组织维护
+⭐ 2,063 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/bytewax/bytewax) · [官网](https://docs.bytewax.io/) · 组织维护
 
 **Python 有状态流处理框架：用数据流算子构建事件处理管道**
 
@@ -45,13 +45,13 @@ Bytewax 是基于 Rust 执行引擎、以 Python 为接口的有状态流处理�
 
 ```mermaid
 xychart-beta
-    title "bytewax/bytewax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2053 --> 2060
-    line [2056, 2055, 2054, 2059]
+    title "bytewax/bytewax 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2053 --> 2064
+    line [2056, 2055, 2054, 2059, 2063]
 ```
 
-2026-10-18 2,056 → 2026-10-27 2,059（+3）
+2026-10-18 2,056 → 2026-10-28 2,063（+7）
 
 
 ---

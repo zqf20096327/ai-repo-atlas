@@ -1,6 +1,6 @@
 # kytmanov/obsidian-llm-wiki-local
 
-⭐ 842 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/kytmanov/obsidian-llm-wiki-local) · 个人维护
+⭐ 843 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/kytmanov/obsidian-llm-wiki-local) · 个人维护
 
 **本地 LLM 驱动的 Obsidian 个人维基生成与维护工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kytmanov/obsidian-llm-wiki-local 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 836 --> 843
-    line [837, 839, 840, 841, 842, 842]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 836 --> 844
+    line [837, 839, 840, 841, 842, 843]
 ```
 
-2026-10-18 837 → 2026-10-27 842（+5）
+2026-10-18 837 → 2026-10-28 843（+6）
 
 
 ---

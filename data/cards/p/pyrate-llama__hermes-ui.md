@@ -1,6 +1,6 @@
 # pyrate-llama/hermes-ui
 
-⭐ 205 · HTML · MIT · 推送 2026-06-30 · [GitHub](https://github.com/pyrate-llama/hermes-ui) · 个人维护 · 中文 README
+⭐ 206 · HTML · MIT · 推送 2026-06-30 · [GitHub](https://github.com/pyrate-llama/hermes-ui) · 个人维护 · 中文 README
 
 **Hermes Agent 的 Web 控制台：聊天、监控与技能管理的单文件界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pyrate-llama/hermes-ui 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 200 --> 206
-    line [201, 202, 203, 204, 205, 205]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 200 --> 207
+    line [201, 202, 203, 204, 205, 206]
 ```
 
-2026-10-18 201 → 2026-10-27 205（+4）
+2026-10-18 201 → 2026-10-28 206（+5）
 
 
 ---

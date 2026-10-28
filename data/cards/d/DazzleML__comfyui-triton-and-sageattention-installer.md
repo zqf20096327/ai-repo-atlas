@@ -1,6 +1,6 @@
 # DazzleML/comfyui-triton-and-sageattention-installer
 
-⭐ 243 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/DazzleML/comfyui-triton-and-sageattention-installer) · 组织维护
+⭐ 244 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/DazzleML/comfyui-triton-and-sageattention-installer) · 组织维护
 
 **Windows 用户在 ComfyUI 中自动安装 Triton 与 SageAttention 的安装器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DazzleML/comfyui-triton-and-sageattention-installer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 241 --> 244
-    line [242, 243, 243]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 241 --> 245
+    line [242, 243, 244]
 ```
 
-2026-10-18 242 → 2026-10-27 243（+1）
+2026-10-18 242 → 2026-10-28 244（+2）
 
 
 ---

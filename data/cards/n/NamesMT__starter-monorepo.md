@@ -1,6 +1,6 @@
 # NamesMT/starter-monorepo
 
-⭐ 190 · Vue · MIT · 推送 2026-10-12 · [GitHub](https://github.com/NamesMT/starter-monorepo) · [官网](https://starter-monorepo.isthe.top) · 个人维护
+⭐ 190 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NamesMT/starter-monorepo) · [官网](https://starter-monorepo.isthe.top) · 个人维护
 
 **含 LLM Chat 功能的全栈 monorepo 起步模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NamesMT/starter-monorepo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 189 --> 192
     line [191, 190, 190]
 ```
 
-2026-10-18 191 → 2026-10-27 190（-1）
+2026-10-18 191 → 2026-10-28 190（-1）
 
 
 ---

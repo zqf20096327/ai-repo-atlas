@@ -46,12 +46,12 @@ Rust 编写的 split-path 数据流引擎，基于 Apache Arrow 与 DataFusion�
 ```mermaid
 xychart-beta
     title "volga-project/volga 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 160 --> 162
     line [161, 161]
 ```
 
-2026-10-18 161 → 2026-10-27 161（+0）
+2026-10-18 161 → 2026-10-28 161（+0）
 
 
 ---

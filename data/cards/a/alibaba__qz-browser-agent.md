@@ -1,6 +1,6 @@
 # alibaba/qz-browser-agent
 
-⭐ 142 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/qz-browser-agent) · [官网](https://alibaba.github.io/qz-browser-agent/) · 组织维护 · 中文 README
+⭐ 147 · HTML · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/alibaba/qz-browser-agent) · [官网](https://alibaba.github.io/qz-browser-agent/) · 组织维护 · 中文 README
 
 **本地优先的开源 Chrome 浏览器 agent：自动执行网页任务与数据提取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/qz-browser-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 37 --> 151
-    line [46, 50, 90, 112, 122, 128, 132, 142]
+    title "alibaba/qz-browser-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 36 --> 157
+    line [46, 50, 90, 112, 122, 128, 132, 142, 147]
 ```
 
-2026-10-18 46 → 2026-10-27 142（+96）
+2026-10-18 46 → 2026-10-28 147（+101）
 
 
 ---

@@ -1,6 +1,6 @@
 # kodelyx/free-gemini-api
 
-⭐ 22 · Go · 推送 2026-10-14 · [GitHub](https://github.com/kodelyx/free-gemini-api) · [官网](https://github.com/kodelyx/free-gemini-api#readme) · 个人维护
+⭐ 25 · Go · 推送 2026-10-14 · [GitHub](https://github.com/kodelyx/free-gemini-api) · [官网](https://github.com/kodelyx/free-gemini-api#readme) · 个人维护
 
 **逆向 Google Gemini 网页协议的免费 OpenAI 兼容代理服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kodelyx/free-gemini-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 12 --> 23
-    line [13, 15, 18, 19, 21, 22]
+    title "kodelyx/free-gemini-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 12 --> 26
+    line [13, 15, 18, 19, 21, 22, 25]
 ```
 
-2026-10-18 13 → 2026-10-27 22（+9）
+2026-10-18 13 → 2026-10-28 25（+12）
 
 
 ---

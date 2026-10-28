@@ -1,6 +1,6 @@
 # natnew/Awesome-Data-Science
 
-⭐ 165 · Jupyter Notebook · MIT · 推送 2026-02-18 · [GitHub](https://github.com/natnew/Awesome-Data-Science) · [官网](https://github.com/natnew.io/Awesome-Data-Science/) · 个人维护
+⭐ 164 · Jupyter Notebook · MIT · 推送 2026-02-18 · [GitHub](https://github.com/natnew/Awesome-Data-Science) · [官网](https://github.com/natnew.io/Awesome-Data-Science/) · 个人维护
 
 **数据科学资源策展清单：文章、书籍、课程、数据集等分类汇总**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "natnew/Awesome-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 164 --> 166
-    line [165, 165]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 163 --> 166
+    line [165, 164]
 ```
 
-2026-10-18 165 → 2026-10-27 165（+0）
+2026-10-18 165 → 2026-10-28 164（-1）
 
 
 ---

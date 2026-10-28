@@ -1,6 +1,6 @@
 # RedPlanetHQ/core
 
-⭐ 2,002 · TypeScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/RedPlanetHQ/core) · [官网](https://getcore.me) · 组织维护 · 中文 README
+⭐ 2,004 · TypeScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/RedPlanetHQ/core) · [官网](https://getcore.me) · 组织维护 · 中文 README
 
 **自托管的个人 AI 助理系统：记忆+任务+语音+编码代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RedPlanetHQ/core 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "RedPlanetHQ/core 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1998 --> 2005
-    line [1999, 2000, 2004, 2003, 2002, 2000, 2002]
+    line [1999, 2000, 2004, 2003, 2002, 2000, 2002, 2004]
 ```
 
-2026-10-18 1,999 → 2026-10-27 2,002（+3）
+2026-10-18 1,999 → 2026-10-28 2,004（+5）
 
 
 ---

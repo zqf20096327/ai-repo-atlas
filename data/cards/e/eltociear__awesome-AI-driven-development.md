@@ -1,6 +1,6 @@
 # eltociear/awesome-AI-driven-development
 
-⭐ 569 · 推送 2026-10-12 · [GitHub](https://github.com/eltociear/awesome-AI-driven-development) · 个人维护
+⭐ 570 · 推送 2026-10-12 · [GitHub](https://github.com/eltociear/awesome-AI-driven-development) · 个人维护
 
 **AI 驱动开发工具的策展清单（601 个工具/资源）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "eltociear/awesome-AI-driven-development 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 559 --> 570
-    line [560, 561, 565, 566, 567, 569]
+    title "eltociear/awesome-AI-driven-development 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 559 --> 571
+    line [560, 561, 565, 566, 567, 569, 570]
 ```
 
-2026-10-18 560 → 2026-10-27 569（+9）
+2026-10-18 560 → 2026-10-28 570（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # thu-ml/SageAttention
 
-⭐ 3,978 · Cuda · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/thu-ml/SageAttention) · [官网](https://arxiv.org/abs/2410.02367) · 组织维护 · 中文 README
+⭐ 3,980 · Cuda · Apache-2.0 · 推送 2026-01-17 · [GitHub](https://github.com/thu-ml/SageAttention) · [官网](https://arxiv.org/abs/2410.02367) · 组织维护 · 中文 README
 
 **量化注意力算子库：为 GPU 推理提供 2-5x 提速的即插即用 attention 内核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thu-ml/SageAttention 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3969 --> 3979
-    line [3970, 3972, 3973, 3974, 3975, 3978]
+    title "thu-ml/SageAttention 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3969 --> 3981
+    line [3970, 3972, 3973, 3974, 3975, 3978, 3980]
 ```
 
-2026-10-18 3,970 → 2026-10-27 3,978（+8）
+2026-10-18 3,970 → 2026-10-28 3,980（+10）
 
 
 ---

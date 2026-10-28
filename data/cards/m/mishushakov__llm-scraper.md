@@ -1,6 +1,6 @@
 # mishushakov/llm-scraper
 
-⭐ 6,950 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mishushakov/llm-scraper) · 个人维护
+⭐ 6,949 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mishushakov/llm-scraper) · 个人维护
 
 **用 LLM 把网页提取为结构化数据的 TypeScript 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mishushakov/llm-scraper 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "mishushakov/llm-scraper 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 6939 --> 6951
-    line [6940, 6944, 6943, 6946, 6947, 6949, 6950]
+    line [6940, 6944, 6943, 6946, 6947, 6949, 6950, 6949]
 ```
 
-2026-10-18 6,940 → 2026-10-27 6,950（+10）
+2026-10-18 6,940 → 2026-10-28 6,949（+9）
 
 
 ---

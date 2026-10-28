@@ -1,6 +1,6 @@
 # nihui/ncnn-android-squeezenet
 
-⭐ 189 · C++ · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-squeezenet) · 个人维护
+⭐ 189 · C++ · 推送 2026-10-27 · [GitHub](https://github.com/nihui/ncnn-android-squeezenet) · 个人维护
 
 **基于 ncnn 的 SqueezeNet 图像分类 Android 示例应用**
 
@@ -44,12 +44,12 @@ nihui 维护的 Android 示例工程：在移动端运行 SqueezeNet 模型做�
 ```mermaid
 xychart-beta
     title "nihui/ncnn-android-squeezenet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 187 --> 190
     line [188, 189, 189]
 ```
 
-2026-10-18 188 → 2026-10-27 189（+1）
+2026-10-18 188 → 2026-10-28 189（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dxos/dxos
 
-⭐ 530 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dxos/dxos) · [官网](https://dxos.org) · 组织维护
+⭐ 530 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dxos/dxos) · [官网](https://dxos.org) · 组织维护
 
 **构建完全去中心化应用的平台与 SDK，附 Composer IDE**
 
@@ -44,12 +44,12 @@ DXOS（Decentralized Operating System）是一个用于构建完全去中心化�
 ```mermaid
 xychart-beta
     title "dxos/dxos 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 526 --> 531
     line [527, 528, 529, 530, 530]
 ```
 
-2026-10-18 527 → 2026-10-27 530（+3）
+2026-10-18 527 → 2026-10-28 530（+3）
 
 
 ---

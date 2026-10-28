@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/MLX-LoRA-Studio
 
-⭐ 282 · Swift · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) · [官网](https://mlx-lora-studio.netlify.app) · 个人维护
+⭐ 282 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio) · [官网](https://goekdeniz-guelmez.github.io/MLX-LoRA-Studio/) · 个人维护
 
 **Apple Silicon 本地 LLM 微调 Mac 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Goekdeniz-Guelmez/MLX-LoRA-Studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    title "Goekdeniz-Guelmez/MLX-LoRA-Studio 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 278 --> 283
-    line [279, 280, 281, 282]
+    line [279, 280, 281, 282, 282]
 ```
 
-2026-10-18 279 → 2026-10-27 282（+3）
+2026-10-18 279 → 2026-10-28 282（+3）
 
 
 ---

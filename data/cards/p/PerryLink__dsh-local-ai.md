@@ -1,6 +1,6 @@
 # PerryLink/dsh-local-ai
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-local-ai) · [官网](https://perrylink.github.io/plugins/dsh-local-ai/) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-local-ai) · [官网](https://perrylink.github.io/plugins/dsh-local-ai/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Ollama 本地模型集成插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-local-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 20 --> 23
-    line [21, 22]
+    title "PerryLink/dsh-local-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-27 22（+1）
+2026-10-18 21 → 2026-10-28 23（+2）
 
 
 ---

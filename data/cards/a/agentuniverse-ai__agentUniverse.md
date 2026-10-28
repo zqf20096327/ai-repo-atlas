@@ -1,6 +1,6 @@
 # agentuniverse-ai/agentUniverse
 
-⭐ 2,415 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentuniverse-ai/agentUniverse) · 组织维护 · 中文 README
+⭐ 2,416 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/agentuniverse-ai/agentUniverse) · 组织维护 · 中文 README
 
 **面向开发者的多智能体协作框架，源自蚂蚁集团金融实践**
 
@@ -44,13 +44,13 @@ agentUniverse 是基于大语言模型的多智能体框架，供开发者构建
 
 ```mermaid
 xychart-beta
-    title "agentuniverse-ai/agentUniverse 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2379 --> 2418
-    line [2382, 2383, 2386, 2387, 2402, 2411, 2412, 2415]
+    title "agentuniverse-ai/agentUniverse 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2379 --> 2419
+    line [2382, 2383, 2386, 2387, 2402, 2411, 2412, 2415, 2416]
 ```
 
-2026-10-18 2,382 → 2026-10-27 2,415（+33）
+2026-10-18 2,382 → 2026-10-28 2,416（+34）
 
 
 ---

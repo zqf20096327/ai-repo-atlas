@@ -1,6 +1,6 @@
 # jerich2121/cs-video-courses
 
-⭐ 23 · 推送 2026-02-25 · [GitHub](https://github.com/jerich2121/cs-video-courses) · [官网](https://github.com/Developer-Y/cs-video-courses) · 个人维护
+⭐ 22 · 推送 2026-02-25 · [GitHub](https://github.com/jerich2121/cs-video-courses) · [官网](https://github.com/Developer-Y/cs-video-courses) · 个人维护
 
 **计算机科学视频课程清单：聚合大学课程视频链接**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jerich2121/cs-video-courses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [22, 23, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 23（+1）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

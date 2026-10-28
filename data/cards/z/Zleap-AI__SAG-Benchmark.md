@@ -1,6 +1,6 @@
 # Zleap-AI/SAG-Benchmark
 
-⭐ 54 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Zleap-AI/SAG-Benchmark) · [官网](https://arxiv.org/abs/2610.22588) · 组织维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Zleap-AI/SAG-Benchmark) · [官网](https://arxiv.org/abs/2610.22588) · 组织维护 · 中文 README
 
 **SAG2 论文官方基准复现代码：免嵌入多跳证据检索评测**
 
@@ -45,12 +45,12 @@ SAG2 论文的配套基准复现仓库。SAG2 用 SQLite FTS5 建索引、BM25 �
 ```mermaid
 xychart-beta
     title "Zleap-AI/SAG-Benchmark 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 47 --> 55
-    line [48, 51, 52, 54, 54]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 47 --> 56
+    line [48, 51, 52, 54, 55]
 ```
 
-2026-10-18 48 → 2026-10-27 54（+6）
+2026-10-18 48 → 2026-10-28 55（+7）
 
 
 ---

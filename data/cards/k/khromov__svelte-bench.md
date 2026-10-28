@@ -1,6 +1,6 @@
 # khromov/svelte-bench
 
-⭐ 190 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/khromov/svelte-bench) · [官网](https://khromov.github.io/svelte-bench/benchmark-results-merged.html) · 个人维护
+⭐ 190 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/khromov/svelte-bench) · [官网](https://khromov.github.io/svelte-bench/benchmark-results-merged.html) · 个人维护
 
 **评测 LLM 生成 Svelte 5 组件能力的基准（pass@k）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "khromov/svelte-bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 188 --> 191
     line [189, 190, 190]
 ```
 
-2026-10-18 189 → 2026-10-27 190（+1）
+2026-10-18 189 → 2026-10-28 190（+1）
 
 
 ---

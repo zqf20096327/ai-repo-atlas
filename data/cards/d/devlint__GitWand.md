@@ -1,6 +1,6 @@
 # devlint/GitWand
 
-⭐ 190 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devlint/GitWand) · [官网](https://gitwand.app) · 组织维护 · 中文 README
+⭐ 192 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/devlint/GitWand) · [官网](https://gitwand.app) · 组织维护 · 中文 README
 
 **带智能冲突自动解决与 AI 辅助的原生 Git 桌面客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "devlint/GitWand 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 181 --> 191
-    line [182, 185, 186, 189, 190, 190]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 181 --> 193
+    line [182, 185, 186, 189, 190, 192]
 ```
 
-2026-10-18 182 → 2026-10-27 190（+8）
+2026-10-18 182 → 2026-10-28 192（+10）
 
 
 ---

@@ -47,12 +47,12 @@ University of Duisburg-Essen 智能嵌入式系统实验室开发的 Python 库�
 ```mermaid
 xychart-beta
     title "es-ude/elastic-ai.creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

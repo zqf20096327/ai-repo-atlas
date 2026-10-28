@@ -1,6 +1,6 @@
 # monkeyWie/typix
 
-⭐ 117 · TypeScript · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/monkeyWie/typix) · [官网](https://typix.art/home) · 个人维护 · 中文 README
+⭐ 116 · TypeScript · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/monkeyWie/typix) · [官网](https://typix.art/home) · 个人维护 · 中文 README
 
 **免登录 AI 生图工具：集成多模型，可自托管部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "monkeyWie/typix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 116 --> 119
-    line [118, 117, 117]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 115 --> 119
+    line [118, 117, 116]
 ```
 
-2026-10-18 118 → 2026-10-27 117（-1）
+2026-10-18 118 → 2026-10-28 116（-2）
 
 
 ---

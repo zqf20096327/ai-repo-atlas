@@ -1,6 +1,6 @@
 # Lumio-Research/hermes-agent-rs
 
-⭐ 99 · Rust · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Lumio-Research/hermes-agent-rs) · [官网](https://github.com/Lumio-Research/hermes-agent-rust#readme) · 组织维护 · 中文 README
+⭐ 100 · Rust · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Lumio-Research/hermes-agent-rs) · [官网](https://github.com/Lumio-Research/hermes-agent-rust#readme) · 组织维护 · 中文 README
 
 **Rust 单二进制自进化 AI agent，接 10 家 LLM、30+ 工具**
 
@@ -45,13 +45,13 @@ Nous Research Hermes Agent 的 Rust 重写版：以单一静态二进制（约 1
 
 ```mermaid
 xychart-beta
-    title "Lumio-Research/hermes-agent-rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 95 --> 100
-    line [96, 98, 99]
+    title "Lumio-Research/hermes-agent-rs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 95 --> 101
+    line [96, 98, 99, 100]
 ```
 
-2026-10-18 96 → 2026-10-27 99（+3）
+2026-10-18 96 → 2026-10-28 100（+4）
 
 
 ---

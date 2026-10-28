@@ -1,6 +1,6 @@
 # zzh-tech/InterpAny-Clearer
 
-⭐ 296 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zzh-tech/InterpAny-Clearer) · [官网](https://zzh-tech.github.io/InterpAny-Clearer/) · 个人维护 · 中文 README
+⭐ 295 · Python · MIT · 推送 2026-06-02 · [GitHub](https://github.com/zzh-tech/InterpAny-Clearer) · [官网](https://zzh-tech.github.io/InterpAny-Clearer/) · 个人维护 · 中文 README
 
 **任意时刻清晰视频帧插值研究代码：距离索引解决速度歧义**
 
@@ -45,12 +45,12 @@ ECCV2024 Oral / TPAMI 论文的官方实现：针对视频帧插值中的速度�
 ```mermaid
 xychart-beta
     title "zzh-tech/InterpAny-Clearer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 295 --> 297
-    line [296, 296]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 294 --> 297
+    line [296, 295]
 ```
 
-2026-10-18 296 → 2026-10-27 296（+0）
+2026-10-18 296 → 2026-10-28 295（-1）
 
 
 ---

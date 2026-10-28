@@ -1,6 +1,6 @@
 # simonlin1212/Vibe-Research
 
-⭐ 2,987 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
+⭐ 3,111 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
 
 **面向个人投资者的 A股/美股/港股本地投研工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/Vibe-Research 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2699 --> 3013
-    line [2725, 2746, 2762, 2777, 2786, 2823, 2968, 2987]
+    title "simonlin1212/Vibe-Research 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2687 --> 3149
+    line [2725, 2746, 2762, 2777, 2786, 2823, 2968, 2987, 3111]
 ```
 
-2026-10-18 2,725 → 2026-10-27 2,987（+262）
+2026-10-18 2,725 → 2026-10-28 3,111（+386）
 
 
 ---

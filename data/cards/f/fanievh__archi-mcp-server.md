@@ -1,6 +1,6 @@
 # fanievh/archi-mcp-server
 
-⭐ 37 · Java · MIT · 推送 2026-09-08 · [GitHub](https://github.com/fanievh/archi-mcp-server) · 个人维护
+⭐ 38 · Java · MIT · 推送 2026-09-08 · [GitHub](https://github.com/fanievh/archi-mcp-server) · 个人维护
 
 **让 LLM 客户端通过 MCP 查询与修改 ArchiMate 架构模型的 Archi 插件**
 
@@ -45,13 +45,13 @@ Eclipse PDE 插件，嵌入 Archi 内运行 MCP HTTP 服务器（默认 127.0.0.
 
 ```mermaid
 xychart-beta
-    title "fanievh/archi-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    title "fanievh/archi-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 37, 38]
 ```
 
-2026-10-18 34 → 2026-10-27 37（+3）
+2026-10-18 34 → 2026-10-28 38（+4）
 
 
 ---

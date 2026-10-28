@@ -1,6 +1,6 @@
 # xcsf-dev/xcsf
 
-⭐ 37 · C · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/xcsf-dev/xcsf) · 组织维护
+⭐ 37 · C · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/xcsf-dev/xcsf) · 组织维护
 
 **XCSF 学习分类器系统实现：基于规则的在线进化机器学习**
 
@@ -44,12 +44,12 @@ XCSF 学习分类器系统的实现，可构建为独立二进制程序或 Pytho
 ```mermaid
 xychart-beta
     title "xcsf-dev/xcsf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

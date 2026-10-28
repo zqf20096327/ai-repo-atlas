@@ -1,6 +1,6 @@
 # chy4pro/jev-for-chrome
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/chy4pro/jev-for-chrome) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/chy4pro/jev-for-chrome) · 个人维护 · 中文 README
 
 **在当前 Chrome 标签页内由 Jev 决策模型自动操作网页的扩展**
 
@@ -46,12 +46,12 @@ Manifest V3 Chrome 扩展，把 browser-use/jev-ultrafast 移植到用户自己�
 ```mermaid
 xychart-beta
     title "chy4pro/jev-for-chrome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 43（+1）
 
 
 ---

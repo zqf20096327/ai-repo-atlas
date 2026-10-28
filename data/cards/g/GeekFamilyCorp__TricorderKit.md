@@ -1,6 +1,6 @@
 # GeekFamilyCorp/TricorderKit
 
-⭐ 32 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GeekFamilyCorp/TricorderKit) · [官网](https://github.com/GeekFamilyCorp/TricorderKit) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GeekFamilyCorp/TricorderKit) · [官网](https://github.com/GeekFamilyCorp/TricorderKit) · 组织维护
 
 **本地优先的 Agentic 知识操作系统，将意图转为可审计工作流**
 
@@ -46,12 +46,12 @@ CLI-first 的代理式知识操作系统：用户意图经 MainBrain 路由器�
 ```mermaid
 xychart-beta
     title "GeekFamilyCorp/TricorderKit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-10-27 32（+1）
+2026-10-18 31 → 2026-10-28 32（+1）
 
 
 ---

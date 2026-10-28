@@ -1,6 +1,6 @@
 # rauls-kjarners/omp.nvim
 
-⭐ 24 · Lua · MIT · 推送 2026-09-24 · [GitHub](https://github.com/rauls-kjarners/omp.nvim) · 个人维护
+⭐ 25 · Lua · MIT · 推送 2026-09-24 · [GitHub](https://github.com/rauls-kjarners/omp.nvim) · 个人维护
 
 **Neovim 与 OMP 编码代理的上下文桥接插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rauls-kjarners/omp.nvim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/DifferentialTransformer
 
-⭐ 41 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kyegomez/DifferentialTransformer) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/DifferentialTransformer) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
 
 **微软 Differential Transformer 论文的开源社区实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/DifferentialTransformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

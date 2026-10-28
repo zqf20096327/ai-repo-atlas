@@ -1,6 +1,6 @@
 # ankitcharolia/kiro-gateway
 
-⭐ 83 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ankitcharolia/kiro-gateway) · [官网](https://github.com/ankitcharolia/kiro-gateway#quick-start) · 个人维护
+⭐ 84 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/ankitcharolia/kiro-gateway) · [官网](https://github.com/ankitcharolia/kiro-gateway#quick-start) · 个人维护
 
 **把 Kiro 订阅转成 OpenAI/Anthropic/ACP 接口的本地 AI 网关**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankitcharolia/kiro-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 81 --> 84
-    line [82, 83]
+    title "ankitcharolia/kiro-gateway 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84]
 ```
 
-2026-10-18 82 → 2026-10-27 83（+1）
+2026-10-18 82 → 2026-10-28 84（+2）
 
 
 ---

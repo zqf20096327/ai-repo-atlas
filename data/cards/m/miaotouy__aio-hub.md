@@ -1,6 +1,6 @@
 # miaotouy/aio-hub
 
-⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/miaotouy/aio-hub) · [官网](http://aiohub-app.com) · 个人维护 · 中文 README
+⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/miaotouy/aio-hub) · [官网](http://aiohub-app.com) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 桌面工作站：人类工具台与 Agent 运行时一体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miaotouy/aio-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 143 --> 145
     line [144, 144]
 ```
 
-2026-10-18 144 → 2026-10-27 144（+0）
+2026-10-18 144 → 2026-10-28 144（+0）
 
 
 ---

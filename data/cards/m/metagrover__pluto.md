@@ -1,6 +1,6 @@
 # metagrover/pluto
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/metagrover/pluto) · [官网](https://metagrover.github.io/get-pluto) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/metagrover/pluto) · [官网](https://metagrover.github.io/get-pluto) · 个人维护
 
 **Mac 本地优先的智能会议记录应用：录音、转写、生成笔记与跟进提醒**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "metagrover/pluto 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    title "metagrover/pluto 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33]
+    line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-10-27 33（+3）
+2026-10-18 30 → 2026-10-28 33（+3）
 
 
 ---

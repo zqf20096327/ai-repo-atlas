@@ -1,6 +1,6 @@
 # gmickel/flow-next
 
-⭐ 712 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gmickel/flow-next) · [官网](https://flow-next.dev) · 个人维护
+⭐ 713 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gmickel/flow-next) · [官网](https://flow-next.dev) · 个人维护
 
 **编码 agent 的工作流插件：从 bug/想法/工单直达经验证的 PR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gmickel/flow-next 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 709 --> 713
-    line [710, 711, 712, 711, 712, 712]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 709 --> 714
+    line [710, 711, 712, 711, 712, 713]
 ```
 
-2026-10-18 710 → 2026-10-27 712（+2）
+2026-10-18 710 → 2026-10-28 713（+3）
 
 
 ---

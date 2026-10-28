@@ -1,6 +1,6 @@
 # Lvyizhuo/MyProject-SDAgent
 
-⭐ 141 · Java · 推送 2026-09-03 · [GitHub](https://github.com/Lvyizhuo/MyProject-SDAgent) · [官网](http://mmgg.dpdns.org/login) · 个人维护 · 中文 README
+⭐ 142 · Java · 推送 2026-09-03 · [GitHub](https://github.com/Lvyizhuo/MyProject-SDAgent) · [官网](http://mmgg.dpdns.org/login) · 个人维护 · 中文 README
 
 **山东省政策咨询的 RAG 多智能体问答平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Lvyizhuo/MyProject-SDAgent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 130 --> 144
-    line [131, 137, 140, 141, 143, 141, 141]
+    line [131, 137, 140, 141, 143, 141, 142]
 ```
 
-2026-10-18 131 → 2026-10-27 141（+10）
+2026-10-18 131 → 2026-10-28 142（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-swiss/base
 
-⭐ 58 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ai-swiss/base) · [官网](https://a-i.swiss) · 组织维护
+⭐ 60 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ai-swiss/base) · [官网](https://a-i.swiss) · 组织维护
 
 **用自然语言定义可移植工作方法的 AI 协作框架与开放标准**
 
@@ -45,13 +45,13 @@ BASE 是一个开放框架与提议标准，包含 base.resource.v1 规范和参
 
 ```mermaid
 xychart-beta
-    title "ai-swiss/base 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 49 --> 59
-    line [50, 52, 53, 58]
+    title "ai-swiss/base 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 49 --> 61
+    line [50, 52, 53, 58, 60]
 ```
 
-2026-10-18 50 → 2026-10-27 58（+8）
+2026-10-18 50 → 2026-10-28 60（+10）
 
 
 ---

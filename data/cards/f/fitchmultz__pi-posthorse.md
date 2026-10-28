@@ -1,6 +1,6 @@
 # fitchmultz/pi-posthorse
 
-⭐ 276 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fitchmultz/pi-posthorse) · 个人维护
+⭐ 277 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fitchmultz/pi-posthorse) · 个人维护
 
 **Pi 编码代理的无摘要上下文轮转扩展，附持久笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fitchmultz/pi-posthorse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 271 --> 277
-    line [272, 274, 276]
+    title "fitchmultz/pi-posthorse 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 271 --> 278
+    line [272, 274, 276, 277]
 ```
 
-2026-10-18 272 → 2026-10-27 276（+4）
+2026-10-18 272 → 2026-10-28 277（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # russelleNVy/three-man-team
 
-⭐ 953 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/russelleNVy/three-man-team) · 个人维护
+⭐ 952 · Shell · MIT · 推送 2026-06-09 · [GitHub](https://github.com/russelleNVy/three-man-team) · 个人维护
 
 **给 AI 编码工具的 3 agent 结构化开发团队模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "russelleNVy/three-man-team 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 952 --> 955
-    line [953, 954, 953, 953]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 951 --> 955
+    line [953, 954, 953, 952]
 ```
 
-2026-10-18 953 → 2026-10-27 953（+0）
+2026-10-18 953 → 2026-10-28 952（-1）
 
 
 ---

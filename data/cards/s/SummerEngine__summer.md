@@ -1,6 +1,6 @@
 # SummerEngine/summer
 
-⭐ 88 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SummerEngine/summer) · [官网](https://summerengine.com/) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SummerEngine/summer) · [官网](https://summerengine.com/) · 组织维护
 
 **让 AI 编程 agent 构建、测试并发布完整游戏的 MCP 服务器与 CLI**
 
@@ -47,12 +47,12 @@ Summer Engine 的接入层：以单一 npm 包提供 MCP 服务器、游戏开�
 ```mermaid
 xychart-beta
     title "SummerEngine/summer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 77 --> 89
-    line [78, 84, 86, 88, 88]
+    line [78, 84, 86, 88, 87]
 ```
 
-2026-10-18 78 → 2026-10-27 88（+10）
+2026-10-18 78 → 2026-10-28 87（+9）
 
 
 ---

@@ -45,12 +45,12 @@ ElevenLabs 官方发布的 Flutter/Dart SDK（elevenlabs_agents），用于接�
 ```mermaid
 xychart-beta
     title "elevenlabs/elevenlabs-flutter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 39（+0）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # simonlin1212/TradingAgents-astock
 
-⭐ 3,801 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/simonlin1212/TradingAgents-astock) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
+⭐ 3,812 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/simonlin1212/TradingAgents-astock) · [官网](https://arxiv.org/pdf/2412.20138) · 个人维护 · 中文 README
 
 **A股多Agent投研框架：7位AI分析师辩论生成投研报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/TradingAgents-astock 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3717 --> 3808
-    line [3724, 3732, 3751, 3760, 3773, 3777, 3789, 3801]
+    title "simonlin1212/TradingAgents-astock 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3716 --> 3820
+    line [3724, 3732, 3751, 3760, 3773, 3777, 3789, 3801, 3812]
 ```
 
-2026-10-18 3,724 → 2026-10-27 3,801（+77）
+2026-10-18 3,724 → 2026-10-28 3,812（+88）
 
 
 ---

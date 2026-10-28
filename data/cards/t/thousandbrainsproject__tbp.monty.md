@@ -1,6 +1,6 @@
 # thousandbrainsproject/tbp.monty
 
-⭐ 602 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/thousandbrainsproject/tbp.monty) · [官网](https://thousandbrainsproject.readme.io) · 组织维护
+⭐ 603 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/thousandbrainsproject/tbp.monty) · [官网](https://thousandbrainsproject.readme.io) · 组织维护
 
 **基于千脑理论的感知运动学习框架，供研究者实验**
 
@@ -46,12 +46,12 @@ Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮�
 ```mermaid
 xychart-beta
     title "thousandbrainsproject/tbp.monty 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 600 --> 603
-    line [601, 602, 602]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 600 --> 604
+    line [601, 602, 603]
 ```
 
-2026-10-18 601 → 2026-10-27 602（+1）
+2026-10-18 601 → 2026-10-28 603（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Eljot19/runic
 
-⭐ 58 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/Eljot19/runic) · 个人维护
+⭐ 58 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/Eljot19/runic) · 个人维护
 
 **macOS 菜单栏应用：本地追踪多家 AI 服务的用量、成本与配额**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Eljot19/runic 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-26", "2026-10-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-26 58 → 2026-10-27 58（+0）
+2026-10-26 58 → 2026-10-28 58（+0）
 
 
 ---

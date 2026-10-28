@@ -1,6 +1,6 @@
 # hevnsnt/CVEngine
 
-⭐ 359 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/hevnsnt/CVEngine) · 个人维护
+⭐ 412 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/hevnsnt/CVEngine) · 个人维护
 
 **自托管外部攻击面管理平台：资产发现、CVE 匹配与只读验证**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hevnsnt/CVEngine 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 393
-    line [19, 359]
+    title "hevnsnt/CVEngine 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 451
+    line [19, 359, 412]
 ```
 
-2026-10-26 19 → 2026-10-27 359（+340）
+2026-10-26 19 → 2026-10-28 412（+393）
 
 
 ---

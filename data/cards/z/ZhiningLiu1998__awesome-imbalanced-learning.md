@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhiningLiu1998/awesome-imbalanced-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "ZhiningLiu1998/awesome-imbalanced-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1528 --> 1531
-    line [1529, 1530]
+    line [1529, 1530, 1530]
 ```
 
-2026-10-18 1,529 → 2026-10-27 1,530（+1）
+2026-10-18 1,529 → 2026-10-28 1,530（+1）
 
 
 ---

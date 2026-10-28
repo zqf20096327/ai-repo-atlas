@@ -1,6 +1,6 @@
 # Wassimyounes01/qwen38-uncensored
 
-⭐ 379 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Wassimyounes01/qwen38-uncensored) · [官网](https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/blob/main/Qwen3.6-27B-Q4_K_M.gguf) · 个人维护
+⭐ 380 · JavaScript · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/Wassimyounes01/qwen38-uncensored) · [官网](https://huggingface.co/unsloth/Qwen3.6-27B-GGUF/blob/main/Qwen3.6-27B-Q4_K_M.gguf) · 个人维护
 
 **本地运行的 Qwen 3.8 27B 消融式去审查模型包及安装工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wassimyounes01/qwen38-uncensored 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 364 --> 380
-    line [365, 369, 371, 374, 375, 378, 377, 379]
+    title "Wassimyounes01/qwen38-uncensored 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 364 --> 381
+    line [365, 369, 371, 374, 375, 378, 377, 379, 380]
 ```
 
-2026-10-18 365 → 2026-10-27 379（+14）
+2026-10-18 365 → 2026-10-28 380（+15）
 
 
 ---

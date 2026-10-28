@@ -1,6 +1,6 @@
 # CHATS-lab/verbalized-sampling
 
-⭐ 813 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/CHATS-lab/verbalized-sampling) · [官网](https://www.verbalized-sampling.com/) · 组织维护
+⭐ 814 · Python · NOASSERTION · 推送 2026-01-03 · [GitHub](https://github.com/CHATS-lab/verbalized-sampling) · [官网](https://www.verbalized-sampling.com/) · 组织维护
 
 **缓解 LLM 模式坍缩的免训练提示策略库：让输出多样性提升 2-3 倍**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CHATS-lab/verbalized-sampling 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 812 --> 815
-    line [813, 814, 813, 813]
+    line [813, 814, 813, 814]
 ```
 
-2026-10-18 813 → 2026-10-27 813（+0）
+2026-10-18 813 → 2026-10-28 814（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/openmcp-client
 
-⭐ 750 · TypeScript · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/LSTM-Kirigaya/openmcp-client) · [官网](https://kirigaya.cn/openmcp) · 个人维护 · 中文 README
+⭐ 751 · TypeScript · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/LSTM-Kirigaya/openmcp-client) · [官网](https://kirigaya.cn/openmcp) · 个人维护 · 中文 README
 
 **VSCode/Trae/Cursor 的 MCP 开发调试一体化插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LSTM-Kirigaya/openmcp-client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 749 --> 752
-    line [751, 750, 750]
+    line [751, 750, 751]
 ```
 
-2026-10-18 751 → 2026-10-27 750（-1）
+2026-10-18 751 → 2026-10-28 751（+0）
 
 
 ---

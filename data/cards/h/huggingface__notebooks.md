@@ -1,6 +1,6 @@
 # huggingface/notebooks
 
-⭐ 4,653 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/notebooks) · 组织维护
+⭐ 4,653 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/notebooks) · 组织维护
 
 **Hugging Face 官方库使用示例笔记本集合**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/notebooks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "huggingface/notebooks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4642 --> 4654
-    line [4643, 4646, 4649, 4650, 4652, 4653]
+    line [4643, 4646, 4649, 4650, 4652, 4653, 4653]
 ```
 
-2026-10-18 4,643 → 2026-10-27 4,653（+10）
+2026-10-18 4,643 → 2026-10-28 4,653（+10）
 
 
 ---

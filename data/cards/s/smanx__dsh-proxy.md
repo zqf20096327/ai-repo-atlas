@@ -1,6 +1,6 @@
 # smanx/dsh-proxy
 
-⭐ 27 · JavaScript · 推送 2026-10-20 · [GitHub](https://github.com/smanx/dsh-proxy) · [官网](https://github.com/smanx/dsh-proxy/releases) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · 推送 2026-10-20 · [GitHub](https://github.com/smanx/dsh-proxy) · [官网](https://github.com/smanx/dsh-proxy/releases) · 个人维护 · 中文 README
 
 **把本地 DSH 服务暴露到局域网的反向代理（HTTP+WS）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smanx/dsh-proxy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 28]
 ```
 
-2026-10-18 25 → 2026-10-27 27（+2）
+2026-10-18 25 → 2026-10-28 28（+3）
 
 
 ---

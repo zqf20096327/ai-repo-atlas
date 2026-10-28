@@ -1,6 +1,6 @@
 # pydantic/pydantic-ai
 
-⭐ 20,886 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
+⭐ 20,905 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
 
 **面向 Python 开发者的类型安全 AI Agent SDK**
 
@@ -52,13 +52,13 @@ Pydantic 团队出品的 Python AI SDK，核心是带类型标注的可扩展 ag
 
 ```mermaid
 xychart-beta
-    title "pydantic/pydantic-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 20659 --> 20906
-    line [20679, 20734, 20792, 20821, 20838, 20862, 20886]
+    title "pydantic/pydantic-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20657 --> 20927
+    line [20679, 20734, 20792, 20821, 20838, 20862, 20886, 20905]
 ```
 
-2026-10-18 20,679 → 2026-10-27 20,886（+207）
+2026-10-18 20,679 → 2026-10-28 20,905（+226）
 
 
 ---

@@ -1,6 +1,6 @@
 # ghy196830-del/agent-watch-approve
 
-⭐ 122 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/ghy196830-del/agent-watch-approve) · 个人维护 · 中文 README
+⭐ 123 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/ghy196830-del/agent-watch-approve) · 个人维护 · 中文 README
 
 **在 Apple Watch/手机上远程审批 Claude Code/Codex 危险操作并接收完成提醒**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ghy196830-del/agent-watch-approve 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 119 --> 123
-    line [121, 120, 121, 122, 122]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 119 --> 124
+    line [121, 120, 121, 122, 123]
 ```
 
-2026-10-18 121 → 2026-10-27 122（+1）
+2026-10-18 121 → 2026-10-28 123（+2）
 
 
 ---

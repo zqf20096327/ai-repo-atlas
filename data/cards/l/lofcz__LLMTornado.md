@@ -1,6 +1,6 @@
 # lofcz/LLMTornado
 
-⭐ 649 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/lofcz/LLMTornado) · [官网](https://llmtornado.ai) · 组织维护
+⭐ 649 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lofcz/LLMTornado) · [官网](https://llmtornado.ai) · 组织维护
 
 **.NET 的 AI agent/工作流构建 SDK，内置 30+ 提供商连接器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lofcz/LLMTornado 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 644 --> 650
     line [645, 648, 649, 649]
 ```
 
-2026-10-18 645 → 2026-10-27 649（+4）
+2026-10-18 645 → 2026-10-28 649（+4）
 
 
 ---

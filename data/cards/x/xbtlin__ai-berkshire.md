@@ -1,6 +1,6 @@
 # xbtlin/ai-berkshire
 
-⭐ 16,894 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
+⭐ 16,907 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/xbtlin/ai-berkshire) · [官网](https://xbtlin.github.io/ai-berkshire/) · 个人维护 · 中文 README
 
 **给个人投资者的 Claude Code/Codex 价值投研 Skill 合集**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "xbtlin/ai-berkshire 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 16762 --> 16906
-    line [16774, 16804, 16823, 16841, 16851, 16863, 16878, 16894]
+    title "xbtlin/ai-berkshire 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 16761 --> 16920
+    line [16774, 16804, 16823, 16841, 16851, 16863, 16878, 16894, 16907]
 ```
 
-2026-10-18 16,774 → 2026-10-27 16,894（+120）
+2026-10-18 16,774 → 2026-10-28 16,907（+133）
 
 
 ---

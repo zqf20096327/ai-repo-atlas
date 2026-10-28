@@ -1,6 +1,6 @@
 # OSGeo/grass
 
-⭐ 1,182 · C · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OSGeo/grass) · [官网](https://grass.osgeo.org) · 组织维护
+⭐ 1,182 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/OSGeo/grass) · [官网](https://grass.osgeo.org) · 组织维护
 
 **开源地理空间处理引擎：栅格/矢量分析与GIS桌面及地理处理**
 
@@ -46,12 +46,12 @@ GRASS（Geographic Resources Analysis Support System）是 OSGeo 托管、GPL �
 ```mermaid
 xychart-beta
     title "OSGeo/grass 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1178 --> 1183
     line [1179, 1180, 1182, 1182]
 ```
 
-2026-10-18 1,179 → 2026-10-27 1,182（+3）
+2026-10-18 1,179 → 2026-10-28 1,182（+3）
 
 
 ---

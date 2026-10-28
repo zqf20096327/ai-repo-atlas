@@ -1,6 +1,6 @@
 # slng-ai/unmute
 
-⭐ 27 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/slng-ai/unmute) · [官网](https://unmute.ai) · 组织维护
+⭐ 28 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/slng-ai/unmute) · [官网](https://unmute.ai) · 组织维护
 
 **语音 agent 编译器：用 YAML 声明，编译为 Pipecat/LiveKit 等运行时代码**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "slng-ai/unmute 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

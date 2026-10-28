@@ -1,6 +1,6 @@
 # leofan90/Awesome-World-Models
 
-⭐ 2,050 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 个人维护
+⭐ 2,048 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/leofan90/Awesome-World-Models) · 个人维护
 
 **世界模型论文策展清单：视频生成/具身智能/自动驾驶方向**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "leofan90/Awesome-World-Models 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "leofan90/Awesome-World-Models 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2039 --> 2051
-    line [2040, 2043, 2044, 2045, 2048, 2049, 2050]
+    line [2040, 2043, 2044, 2045, 2048, 2049, 2050, 2048]
 ```
 
-2026-10-18 2,040 → 2026-10-27 2,050（+10）
+2026-10-18 2,040 → 2026-10-28 2,048（+8）
 
 
 ---

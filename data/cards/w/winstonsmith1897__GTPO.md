@@ -1,6 +1,6 @@
 # winstonsmith1897/GTPO
 
-⭐ 41 · Jupyter Notebook · 推送 2026-02-23 · [GitHub](https://github.com/winstonsmith1897/GTPO) · 组织维护
+⭐ 42 · Jupyter Notebook · 推送 2026-02-23 · [GitHub](https://github.com/winstonsmith1897/GTPO) · 组织维护
 
 **面向 LLM 的 GTPO 强化学习训练方法官方实现**
 
@@ -45,12 +45,12 @@ GTPO（Group-relative Trajectory-based Policy Optimization）的官方 PyTorch �
 ```mermaid
 xychart-beta
     title "winstonsmith1897/GTPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 42（+1）
 
 
 ---

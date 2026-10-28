@@ -1,6 +1,6 @@
 # microsoft/ai4g-flood
 
-⭐ 71 · HTML · MIT · 推送 2025-11-04 · [GitHub](https://github.com/microsoft/ai4g-flood) · 组织维护
+⭐ 72 · HTML · MIT · 推送 2025-11-04 · [GitHub](https://github.com/microsoft/ai4g-flood) · 组织维护
 
 **用 SAR 卫星影像识别洪水淹没范围的检测模型工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ai4g-flood 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-10-27 71（+1）
+2026-10-18 70 → 2026-10-28 72（+2）
 
 
 ---

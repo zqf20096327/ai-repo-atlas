@@ -1,6 +1,6 @@
 # apify/actor-rag-web-browser
 
-⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apify/actor-rag-web-browser) · [官网](https://apify.com/apify/rag-web-browser) · 组织维护
+⭐ 81 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/apify/actor-rag-web-browser) · [官网](https://apify.com/apify/rag-web-browser) · 组织维护
 
 **为 LLM/RAG 管道抓取网页并输出 Markdown 的 Apify Actor**
 
@@ -44,12 +44,12 @@ Apify 平台上的 Actor 单仓，包含两个组件：RAG Web Browser 接受搜
 ```mermaid
 xychart-beta
     title "apify/actor-rag-web-browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-27 81（+0）
+2026-10-18 81 → 2026-10-28 81（+0）
 
 
 ---

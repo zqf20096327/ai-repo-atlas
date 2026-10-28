@@ -1,6 +1,6 @@
 # Kai-Jungsthoefel/SOMA
 
-⭐ 378 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kai-Jungsthoefel/SOMA) · [官网](https://somacad.app/) · 个人维护 · 中文 README
+⭐ 394 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Kai-Jungsthoefel/SOMA) · [官网](https://somacad.app/) · 个人维护 · 中文 README
 
 **让编程 Agent 用 CadQuery 做参数化 3D 建模的桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kai-Jungsthoefel/SOMA 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 377 --> 379
-    line [378, 378]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 377 --> 395
+    line [378, 394]
 ```
 
-2026-10-26 378 → 2026-10-27 378（+0）
+2026-10-26 378 → 2026-10-28 394（+16）
 
 
 ---

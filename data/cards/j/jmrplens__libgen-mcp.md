@@ -1,6 +1,6 @@
 # jmrplens/libgen-mcp
 
-⭐ 23 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jmrplens/libgen-mcp) · [官网](https://docs.jmrp.io/libgen-mcp/) · 个人维护
+⭐ 24 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jmrplens/libgen-mcp) · [官网](https://docs.jmrp.io/libgen-mcp/) · 个人维护
 
 **Go 编写的 MCP server：让 AI 助手检索、下载并阅读 Library Genesis 与开放获取文献**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmrplens/libgen-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 22, 23]
+    title "jmrplens/libgen-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 22, 23, 24]
 ```
 
-2026-10-18 19 → 2026-10-27 23（+4）
+2026-10-18 19 → 2026-10-28 24（+5）
 
 
 ---

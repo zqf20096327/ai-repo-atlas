@@ -45,12 +45,12 @@ NeurIPS 2024 论文 Knowledge Circuits in Pretrained Transformers 的官方代�
 ```mermaid
 xychart-beta
     title "zjunlp/KnowledgeCircuits 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 172 --> 174
     line [173, 173]
 ```
 
-2026-10-18 173 → 2026-10-27 173（+0）
+2026-10-18 173 → 2026-10-28 173（+0）
 
 
 ---

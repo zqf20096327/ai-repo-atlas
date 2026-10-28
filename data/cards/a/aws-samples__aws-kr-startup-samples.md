@@ -1,6 +1,6 @@
 # aws-samples/aws-kr-startup-samples
 
-⭐ 45 · Jupyter Notebook · MIT-0 · 推送 2026-04-02 · [GitHub](https://github.com/aws-samples/aws-kr-startup-samples) · [官网](https://www.awsstartup.io) · 组织维护
+⭐ 46 · Jupyter Notebook · MIT-0 · 推送 2026-04-02 · [GitHub](https://github.com/aws-samples/aws-kr-startup-samples) · [官网](https://www.awsstartup.io) · 组织维护
 
 **AWS 韩国 Startup SA 团队实操样例与工作坊资料合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/aws-kr-startup-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 44 --> 48
-    line [47, 46, 45, 45]
+    line [47, 46, 45, 46]
 ```
 
-2026-10-18 47 → 2026-10-27 45（-2）
+2026-10-18 47 → 2026-10-28 46（-1）
 
 
 ---

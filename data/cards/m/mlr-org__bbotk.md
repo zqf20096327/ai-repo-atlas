@@ -1,6 +1,6 @@
 # mlr-org/bbotk
 
-⭐ 26 · R · LGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/mlr-org/bbotk) · [官网](https://bbotk.mlr-org.com) · 组织维护
+⭐ 26 · R · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlr-org/bbotk) · [官网](https://bbotk.mlr-org.com) · 组织维护
 
 **R 语言黑盒优化框架：优化任意用户目标函数**
 
@@ -45,12 +45,12 @@ mlr-org 维护的 R 黑盒优化基础包：通过 paradox 包定义搜索空间
 ```mermaid
 xychart-beta
     title "mlr-org/bbotk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

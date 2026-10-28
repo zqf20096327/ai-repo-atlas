@@ -1,6 +1,6 @@
 # anthropics/sandbox-runtime
 
-⭐ 6,683 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
+⭐ 6,757 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
 
 **给开发者的进程级沙箱：限制任意进程的文件与网络访问**
 
@@ -45,13 +45,13 @@ Anthropic 开源的轻量沙箱工具（srt），以 CLI 与 TypeScript 库形�
 
 ```mermaid
 xychart-beta
-    title "anthropics/sandbox-runtime 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5462 --> 6794
-    line [5573, 5595, 5621, 5637, 5807, 6404, 6588, 6683]
+    title "anthropics/sandbox-runtime 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5455 --> 6875
+    line [5573, 5595, 5621, 5637, 5807, 6404, 6588, 6683, 6757]
 ```
 
-2026-10-18 5,573 → 2026-10-27 6,683（+1,110）
+2026-10-18 5,573 → 2026-10-28 6,757（+1,184）
 
 
 ---

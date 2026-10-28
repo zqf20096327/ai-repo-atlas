@@ -1,6 +1,6 @@
 # BerriAI/agentchat
 
-⭐ 152 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BerriAI/agentchat) · 组织维护
+⭐ 153 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/BerriAI/agentchat) · 组织维护
 
 **将 AI agent 连接到 Slack/Teams 等聊天渠道的 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BerriAI/agentchat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 144 --> 153
-    line [145, 150, 151, 152, 152]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 144 --> 154
+    line [145, 150, 151, 152, 153]
 ```
 
-2026-10-18 145 → 2026-10-27 152（+7）
+2026-10-18 145 → 2026-10-28 153（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # tencentmusic/cube-studio
 
-⭐ 5,086 · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/tencentmusic/cube-studio) · 组织维护 · 中文 README
+⭐ 5,085 · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/tencentmusic/cube-studio) · 组织维护 · 中文 README
 
 **腾讯开源的云原生一站式机器学习/大模型 AI 平台（已归档）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tencentmusic/cube-studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 5082 --> 5087
-    line [5083, 5084, 5085, 5086, 5086]
+    line [5083, 5084, 5085, 5086, 5085]
 ```
 
-2026-10-18 5,083 → 2026-10-27 5,086（+3）
+2026-10-18 5,083 → 2026-10-28 5,085（+2）
 
 
 ---

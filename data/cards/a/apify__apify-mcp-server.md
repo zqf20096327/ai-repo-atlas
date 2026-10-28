@@ -1,6 +1,6 @@
 # apify/apify-mcp-server
 
-⭐ 13,308 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apify/apify-mcp-server) · [官网](https://mcp.apify.com) · 组织维护
+⭐ 13,461 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/apify/apify-mcp-server) · [官网](https://mcp.apify.com) · 组织维护
 
 **让 AI agent 通过 MCP 调用 Apify 爬虫/数据提取工具的服务器**
 
@@ -45,13 +45,13 @@ Apify 官方维护的 Model Context Protocol 服务器，将 Apify Store 中数�
 
 ```mermaid
 xychart-beta
-    title "apify/apify-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11525 --> 13470
-    line [11687, 12046, 12386, 12607, 12795, 12935, 13102, 13308]
+    title "apify/apify-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 11510 --> 13638
+    line [11687, 12046, 12386, 12607, 12795, 12935, 13102, 13308, 13461]
 ```
 
-2026-10-18 11,687 → 2026-10-27 13,308（+1,621）
+2026-10-18 11,687 → 2026-10-28 13,461（+1,774）
 
 
 ---

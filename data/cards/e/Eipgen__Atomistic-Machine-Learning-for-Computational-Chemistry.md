@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-24", "2026-10-28"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-24 205 → 2026-10-27 205（+0）
+2026-10-24 205 → 2026-10-28 205（+0）
 
 
 ---

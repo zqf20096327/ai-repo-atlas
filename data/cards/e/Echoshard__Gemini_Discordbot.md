@@ -45,12 +45,12 @@ Python 编写的 Discord 机器人，调用 Google Gemini API（现使用 Gemini
 ```mermaid
 xychart-beta
     title "Echoshard/Gemini_Discordbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-27 100（+0）
+2026-10-18 100 → 2026-10-28 100（+0）
 
 
 ---

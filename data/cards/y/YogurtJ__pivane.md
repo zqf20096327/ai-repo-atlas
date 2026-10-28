@@ -1,6 +1,6 @@
 # YogurtJ/pivane
 
-⭐ 56 · JavaScript · ISC · 推送 2026-10-24 · [GitHub](https://github.com/YogurtJ/pivane) · [官网](https://github.com/YogurtJ/pivane#readme) · 个人维护 · 中文 README
+⭐ 57 · JavaScript · ISC · 推送 2026-10-24 · [GitHub](https://github.com/YogurtJ/pivane) · [官网](https://github.com/YogurtJ/pivane#readme) · 个人维护 · 中文 README
 
 **Pi 编程 Agent 的自托管网页工作台，多端续用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YogurtJ/pivane 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9 --> 60
-    line [13, 21, 30, 34, 38, 45, 49, 56]
+    title "YogurtJ/pivane 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 9 --> 61
+    line [13, 21, 30, 34, 38, 45, 49, 56, 57]
 ```
 
-2026-10-18 13 → 2026-10-27 56（+43）
+2026-10-18 13 → 2026-10-28 57（+44）
 
 
 ---

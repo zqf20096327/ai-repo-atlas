@@ -1,6 +1,6 @@
 # matteotitta/repo-structure-in-house
 
-⭐ 69 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/matteotitta/repo-structure-in-house) · [官网](https://genesysgrowth.com) · 个人维护
+⭐ 70 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/matteotitta/repo-structure-in-house) · [官网](https://genesysgrowth.com) · 个人维护
 
 **给 Claude Code 提供公司营销上下文的仓库模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "matteotitta/repo-structure-in-house 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 62 --> 70
-    line [63, 67, 68, 69]
+    title "matteotitta/repo-structure-in-house 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 62 --> 71
+    line [63, 67, 68, 69, 70]
 ```
 
-2026-10-18 63 → 2026-10-27 69（+6）
+2026-10-18 63 → 2026-10-28 70（+7）
 
 
 ---

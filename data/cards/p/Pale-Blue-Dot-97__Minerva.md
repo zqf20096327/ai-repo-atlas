@@ -1,6 +1,6 @@
 # Pale-Blue-Dot-97/Minerva
 
-⭐ 22 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Pale-Blue-Dot-97/Minerva) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Pale-Blue-Dot-97/Minerva) · 个人维护
 
 **辅助构建、训练与测试多光谱地理空间神经网络模型的 Python 包**
 
@@ -45,12 +45,12 @@ Minerva 是面向多光谱地理空间遥感数据的神经网络模型工具包
 ```mermaid
 xychart-beta
     title "Pale-Blue-Dot-97/Minerva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # swarm-subnet/Langostino
 
-⭐ 544 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/swarm-subnet/Langostino) · [官网](https://swarm124.com/) · 组织维护
+⭐ 546 · Python · MIT · 推送 2026-02-24 · [GitHub](https://github.com/swarm-subnet/Langostino) · [官网](https://swarm124.com/) · 组织维护
 
 **开源自主无人机参考平台：AI 自动驾驶仪，从零组装到首飞**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "swarm-subnet/Langostino 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 537 --> 546
-    line [538, 539, 541, 542, 543, 545, 544]
+    title "swarm-subnet/Langostino 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 537 --> 547
+    line [538, 539, 541, 542, 543, 545, 544, 546]
 ```
 
-2026-10-18 538 → 2026-10-27 544（+6）
+2026-10-18 538 → 2026-10-28 546（+8）
 
 
 ---

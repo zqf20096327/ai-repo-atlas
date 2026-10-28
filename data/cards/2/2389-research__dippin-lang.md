@@ -1,6 +1,6 @@
 # 2389-research/dippin-lang
 
-⭐ 33 · Go · 推送 2026-10-26 · [GitHub](https://github.com/2389-research/dippin-lang) · [官网](https://2389.ai/research/products/dippin-lang/) · 组织维护
+⭐ 33 · Go · 推送 2026-10-27 · [GitHub](https://github.com/2389-research/dippin-lang) · [官网](https://2389.ai/research/products/dippin-lang/) · 组织维护
 
 **编写 AI pipeline 工作流的 DSL 语言与命令行工具链**
 
@@ -47,12 +47,12 @@ Dippin 是一种领域特定语言，用一等语法表达 AI 流水线中的提
 ```mermaid
 xychart-beta
     title "2389-research/dippin-lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 33（+0）
 
 
 ---

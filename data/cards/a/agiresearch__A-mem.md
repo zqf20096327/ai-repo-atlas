@@ -1,6 +1,6 @@
 # agiresearch/A-mem
 
-⭐ 1,208 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/agiresearch/A-mem) · 组织维护
+⭐ 1,209 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/agiresearch/A-mem) · 组织维护
 
 **LLM Agent 的智能体记忆系统，动态组织与演化记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agiresearch/A-mem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1203 --> 1209
-    line [1204, 1206, 1207, 1208]
+    title "agiresearch/A-mem 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1203 --> 1210
+    line [1204, 1206, 1207, 1208, 1209]
 ```
 
-2026-10-18 1,204 → 2026-10-27 1,208（+4）
+2026-10-18 1,204 → 2026-10-28 1,209（+5）
 
 
 ---

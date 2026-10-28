@@ -45,13 +45,13 @@ abess 实现 Adaptive Best Subset Selection 通用算法框架，在稀疏建模
 
 ```mermaid
 xychart-beta
-    title "abess-team/abess 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "abess-team/abess 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 466 --> 470
-    line [467, 468, 469]
+    line [467, 468, 469, 469]
 ```
 
-2026-10-18 467 → 2026-10-27 469（+2）
+2026-10-18 467 → 2026-10-28 469（+2）
 
 
 ---

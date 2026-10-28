@@ -1,6 +1,6 @@
 # mydisha/keirouter
 
-⭐ 154 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mydisha/keirouter) · [官网](https://keirouter.app) · 个人维护
+⭐ 155 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mydisha/keirouter) · [官网](https://keirouter.app) · 个人维护
 
 **面向 AI 编码工具的自托管 AI 网关：统一接入、路由与成本管控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mydisha/keirouter 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 150 --> 155
-    line [151, 153, 154, 154]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 150 --> 156
+    line [151, 153, 154, 155]
 ```
 
-2026-10-18 151 → 2026-10-27 154（+3）
+2026-10-18 151 → 2026-10-28 155（+4）
 
 
 ---

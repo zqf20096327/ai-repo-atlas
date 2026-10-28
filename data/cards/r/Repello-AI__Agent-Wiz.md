@@ -1,6 +1,6 @@
 # Repello-AI/Agent-Wiz
 
-⭐ 394 · Python · Apache-2.0 · 推送 2025-11-02 · [GitHub](https://github.com/Repello-AI/Agent-Wiz) · [官网](https://repello.ai/) · 组织维护
+⭐ 395 · Python · Apache-2.0 · 推送 2025-11-02 · [GitHub](https://github.com/Repello-AI/Agent-Wiz) · [官网](https://repello.ai/) · 组织维护
 
 **AI agent 工作流提取与威胁建模 CLI：可视化并安全评估**
 
@@ -44,13 +44,13 @@ Python 命令行工具，通过基于 AST 的静态解析从 LangGraph、AutoGen
 
 ```mermaid
 xychart-beta
-    title "Repello-AI/Agent-Wiz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 392 --> 395
-    line [393, 394, 393, 394]
+    title "Repello-AI/Agent-Wiz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 392 --> 396
+    line [393, 394, 393, 394, 395]
 ```
 
-2026-10-18 393 → 2026-10-27 394（+1）
+2026-10-18 393 → 2026-10-28 395（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # monster-echo/CortexTerminal2
 
-⭐ 35 · C# · 推送 2026-10-25 · [GitHub](https://github.com/monster-echo/CortexTerminal2) · [官网](https://corterm.rwecho.top) · 个人维护 · 中文 README
+⭐ 35 · C# · 推送 2026-10-27 · [GitHub](https://github.com/monster-echo/CortexTerminal2) · [官网](https://corterm.rwecho.top) · 个人维护 · 中文 README
 
 **手机/浏览器远程连接服务器终端、追踪 AI Agent 的终端平台**
 
@@ -45,12 +45,12 @@ Corterm 是由 Gateway、Worker、Console 三部分组成的远程终端平台�
 ```mermaid
 xychart-beta
     title "monster-echo/CortexTerminal2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-27 35（+0）
+2026-10-18 35 → 2026-10-28 35（+0）
 
 
 ---

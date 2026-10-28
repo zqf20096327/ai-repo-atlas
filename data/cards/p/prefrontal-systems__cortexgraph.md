@@ -1,6 +1,6 @@
 # prefrontal-systems/cortexgraph
 
-⭐ 37 · HTML · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/prefrontal-systems/cortexgraph) · 组织维护
+⭐ 37 · HTML · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/prefrontal-systems/cortexgraph) · 组织维护
 
 **为 AI 助手提供类人遗忘曲线的时序记忆 MCP 服务器**
 
@@ -45,12 +45,12 @@ Model Context Protocol (MCP) 服务器，为 Claude 等 AI 助手提供短期/�
 ```mermaid
 xychart-beta
     title "prefrontal-systems/cortexgraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 35 --> 38
     line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-10-27 37（+1）
+2026-10-18 36 → 2026-10-28 37（+1）
 
 
 ---

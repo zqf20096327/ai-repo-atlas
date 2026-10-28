@@ -1,6 +1,6 @@
 # Boom-Vitt/boombignose-erp
 
-⭐ 54 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Boom-Vitt/boombignose-erp) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向泰国中小企业的开源 ERP（CRM/销售/采购/库存/财务）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

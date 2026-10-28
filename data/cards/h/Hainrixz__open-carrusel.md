@@ -1,6 +1,6 @@
 # Hainrixz/open-carrusel
 
-⭐ 496 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/open-carrusel) · 个人维护
+⭐ 498 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/open-carrusel) · 个人维护
 
 **通过与 Claude 对话生成 Instagram 轮播图并导出 PNG 的本地应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/open-carrusel 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 483 --> 497
-    line [484, 488, 490, 492, 494, 496]
+    title "Hainrixz/open-carrusel 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 483 --> 499
+    line [484, 488, 490, 492, 494, 496, 498]
 ```
 
-2026-10-18 484 → 2026-10-27 496（+12）
+2026-10-18 484 → 2026-10-28 498（+14）
 
 
 ---

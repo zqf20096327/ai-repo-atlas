@@ -1,6 +1,6 @@
 # bilibili/Index-Translate
 
-⭐ 1,786 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bilibili/Index-Translate) · [官网](https://index-translate.bilibili.com) · 组织维护 · 中文 README
+⭐ 1,812 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bilibili/Index-Translate) · [官网](https://index-translate.bilibili.com) · 组织维护 · 中文 README
 
 **B站开源的多语言多模态翻译模型家族（150 种语言）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bilibili/Index-Translate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1645 --> 1798
-    line [1657, 1700, 1751, 1714, 1737, 1749, 1766, 1786]
+    title "bilibili/Index-Translate 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1642 --> 1827
+    line [1657, 1700, 1751, 1714, 1737, 1749, 1766, 1786, 1812]
 ```
 
-2026-10-18 1,657 → 2026-10-27 1,786（+129）
+2026-10-18 1,657 → 2026-10-28 1,812（+155）
 
 
 ---

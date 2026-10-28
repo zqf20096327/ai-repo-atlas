@@ -1,6 +1,6 @@
 # devsy-org/devsy
 
-⭐ 125 · Go · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/devsy-org/devsy) · [官网](https://devsy.sh) · 组织维护
+⭐ 126 · Go · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/devsy-org/devsy) · [官网](https://devsy.sh) · 组织维护
 
 **为团队与 AI 编程代理部署标准化隔离开发工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "devsy-org/devsy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 119 --> 126
-    line [120, 122, 124, 125]
+    title "devsy-org/devsy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 119 --> 127
+    line [120, 122, 124, 125, 126]
 ```
 
-2026-10-18 120 → 2026-10-27 125（+5）
+2026-10-18 120 → 2026-10-28 126（+6）
 
 
 ---

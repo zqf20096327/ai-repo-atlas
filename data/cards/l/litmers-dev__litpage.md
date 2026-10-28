@@ -1,6 +1,6 @@
 # litmers-dev/litpage
 
-⭐ 61 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/litmers-dev/litpage) · 组织维护 · 中文 README
+⭐ 76 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/litmers-dev/litpage) · 组织维护 · 中文 README
 
 **自托管工作台：块编辑器文档 + 数据库视图 + 可选 AI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "litmers-dev/litpage 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 8 --> 65
-    line [12, 31, 36, 61]
+    title "litmers-dev/litpage 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6 --> 82
+    line [12, 31, 36, 61, 76]
 ```
 
-2026-10-24 12 → 2026-10-27 61（+49）
+2026-10-24 12 → 2026-10-28 76（+64）
 
 
 ---

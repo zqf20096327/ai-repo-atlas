@@ -46,12 +46,12 @@ TypeScript 实现的自托管 AI agent 编排运行时，接收 Slack/Telegram/D
 ```mermaid
 xychart-beta
     title "berrzebb/SoulFlow-Orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

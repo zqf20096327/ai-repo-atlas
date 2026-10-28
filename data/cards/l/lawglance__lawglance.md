@@ -1,6 +1,6 @@
 # lawglance/lawglance
 
-⭐ 331 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lawglance/lawglance) · [官网](https://lawglance.com/) · 组织维护
+⭐ 332 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lawglance/lawglance) · [官网](https://lawglance.com/) · 组织维护
 
 **面向大众的 RAG 法律问答助手，覆盖印度多部法律**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lawglance/lawglance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 325 --> 332
-    line [326, 331, 331]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 325 --> 333
+    line [326, 331, 332]
 ```
 
-2026-10-18 326 → 2026-10-27 331（+5）
+2026-10-18 326 → 2026-10-28 332（+6）
 
 
 ---

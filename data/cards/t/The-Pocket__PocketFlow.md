@@ -1,6 +1,6 @@
 # The-Pocket/PocketFlow
 
-⭐ 11,280 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/The-Pocket/PocketFlow) · [官网](https://the-pocket.github.io/PocketFlow/) · 个人维护 · 中文 README
+⭐ 11,281 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/The-Pocket/PocketFlow) · [官网](https://the-pocket.github.io/PocketFlow/) · 个人维护 · 中文 README
 
 **100 行代码的极简 LLM 框架：用图抽象构建 Agent 与工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Pocket/PocketFlow 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11253 --> 11282
-    line [11255, 11262, 11269, 11274, 11275, 11276, 11278, 11280]
+    title "The-Pocket/PocketFlow 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 11253 --> 11283
+    line [11255, 11262, 11269, 11274, 11275, 11276, 11278, 11280, 11281]
 ```
 
-2026-10-18 11,255 → 2026-10-27 11,280（+25）
+2026-10-18 11,255 → 2026-10-28 11,281（+26）
 
 
 ---

@@ -1,6 +1,6 @@
 # jfarcand/mirroir-mcp
 
-⭐ 268 · Swift · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jfarcand/mirroir-mcp) · [官网](https://mirroir.dev) · 个人维护
+⭐ 268 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jfarcand/mirroir-mcp) · [官网](https://mirroir.dev) · 个人维护
 
 **让 AI agent 通过 macOS 镜像操控真机 iPhone 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jfarcand/mirroir-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "jfarcand/mirroir-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 258 --> 269
-    line [259, 262, 264, 265, 267, 268]
+    line [259, 262, 264, 265, 267, 268, 268]
 ```
 
-2026-10-18 259 → 2026-10-27 268（+9）
+2026-10-18 259 → 2026-10-28 268（+9）
 
 
 ---

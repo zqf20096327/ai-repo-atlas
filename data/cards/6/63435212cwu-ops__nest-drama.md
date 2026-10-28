@@ -1,6 +1,6 @@
 # 63435212cwu-ops/nest-drama
 
-⭐ 60 · Python · AGPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/63435212cwu-ops/nest-drama) · [官网](https://github.com/63435212cwu-ops/nest-drama/releases/latest) · 个人维护 · 中文 README
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/63435212cwu-ops/nest-drama) · [官网](https://github.com/63435212cwu-ops/nest-drama/releases/latest) · 个人维护 · 中文 README
 
 **本地运行的单元剧创作引擎：独立角色模拟体驱动剧情**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "63435212cwu-ops/nest-drama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 54 --> 61
-    line [55, 57, 60]
+    title "63435212cwu-ops/nest-drama 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 54 --> 62
+    line [55, 57, 60, 61]
 ```
 
-2026-10-18 55 → 2026-10-27 60（+5）
+2026-10-18 55 → 2026-10-28 61（+6）
 
 
 ---

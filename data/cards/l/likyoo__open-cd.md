@@ -1,6 +1,6 @@
 # likyoo/open-cd
 
-⭐ 899 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/likyoo/open-cd) · [官网](https://arxiv.org/abs/2407.15317) · 组织维护
+⭐ 901 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/likyoo/open-cd) · [官网](https://arxiv.org/abs/2407.15317) · 组织维护
 
 **遥感变化检测开源工具箱：训练/测试/推理多模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "likyoo/open-cd 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 893 --> 900
-    line [894, 897, 896, 897, 899]
+    title "likyoo/open-cd 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 893 --> 902
+    line [894, 897, 896, 897, 899, 901]
 ```
 
-2026-10-18 894 → 2026-10-27 899（+5）
+2026-10-18 894 → 2026-10-28 901（+7）
 
 
 ---

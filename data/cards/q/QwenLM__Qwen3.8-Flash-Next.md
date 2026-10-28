@@ -1,6 +1,6 @@
 # QwenLM/Qwen3.8-Flash-Next
 
-⭐ 442 · 推送 2026-08-27 · [GitHub](https://github.com/QwenLM/Qwen3.8-Flash-Next) · [官网](https://qwen.ai) · 组织维护 · 中文 README
+⭐ 443 · 推送 2026-08-27 · [GitHub](https://github.com/QwenLM/Qwen3.8-Flash-Next) · [官网](https://qwen.ai) · 组织维护 · 中文 README
 
 **阿里 Qwen 团队开源的 125B 多模态 MoE 基础模型权重**
 
@@ -45,13 +45,13 @@ Qwen3.8-Flash-Next 是 Qwen 团队发布的开源权重多模态 MoE 基础模�
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen3.8-Flash-Next 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 432 --> 443
-    line [433, 435, 436, 437, 439, 440, 442]
+    title "QwenLM/Qwen3.8-Flash-Next 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 432 --> 444
+    line [433, 435, 436, 437, 439, 440, 442, 443]
 ```
 
-2026-10-18 433 → 2026-10-27 442（+9）
+2026-10-18 433 → 2026-10-28 443（+10）
 
 
 ---

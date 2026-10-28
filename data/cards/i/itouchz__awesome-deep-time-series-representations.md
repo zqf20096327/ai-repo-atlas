@@ -1,6 +1,6 @@
 # itouchz/awesome-deep-time-series-representations
 
-⭐ 212 · MIT · 推送 2026-08-16 · [GitHub](https://github.com/itouchz/awesome-deep-time-series-representations) · [官网](https://itouchz.github.io/awesome-deep-time-series-representations/) · 组织维护
+⭐ 211 · MIT · 推送 2026-08-16 · [GitHub](https://github.com/itouchz/awesome-deep-time-series-representations) · [官网](https://itouchz.github.io/awesome-deep-time-series-representations/) · 组织维护
 
 **时序表示学习论文策展清单，配套 ACM CSUR 综述**
 
@@ -45,12 +45,12 @@ KAIST 团队维护的论文清单仓库，配套论文《Universal Time-Series R
 ```mermaid
 xychart-beta
     title "itouchz/awesome-deep-time-series-representations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 211 --> 213
-    line [212, 212]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 210 --> 213
+    line [212, 211]
 ```
 
-2026-10-18 212 → 2026-10-27 212（+0）
+2026-10-18 212 → 2026-10-28 211（-1）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spring-ai-community/spring-ai-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-10-27 145（+0）
+2026-10-18 145 → 2026-10-28 145（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI-Planning/l2p
 
-⭐ 66 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/AI-Planning/l2p) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-06-28 · [GitHub](https://github.com/AI-Planning/l2p) · 组织维护
 
 **用 LLM 从自然语言生成 PDDL 规划模型的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-Planning/l2p 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-18 65 → 2026-10-27 66（+1）
+2026-10-18 65 → 2026-10-28 67（+2）
 
 
 ---

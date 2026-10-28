@@ -45,12 +45,12 @@ PyTorch 库，用预训练音频基础模型（BEATs、PaSST、MobileNet-AudioSe
 ```mermaid
 xychart-beta
     title "magcil/deepaudio-x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

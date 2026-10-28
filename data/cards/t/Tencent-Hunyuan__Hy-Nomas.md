@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Nomas
 
-⭐ 204 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Nomas) · 组织维护 · 中文 README
+⭐ 264 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Nomas) · 组织维护 · 中文 README
 
 **自由形式交互式视频世界生成模型，支持多轮文本与相机控制**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-Nomas 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2 --> 222
-    line [20, 107, 152, 204]
+    title "Tencent-Hunyuan/Hy-Nomas 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 288
+    line [20, 107, 152, 204, 264]
 ```
 
-2026-10-24 20 → 2026-10-27 204（+184）
+2026-10-24 20 → 2026-10-28 264（+244）
 
 
 ---

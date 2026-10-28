@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/agent-inbox-langgraphjs-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

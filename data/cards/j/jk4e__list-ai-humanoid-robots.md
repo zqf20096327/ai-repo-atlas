@@ -1,6 +1,6 @@
 # jk4e/list-ai-humanoid-robots
 
-⭐ 51 · 推送 2025-11-25 · [GitHub](https://github.com/jk4e/list-ai-humanoid-robots) · 个人维护
+⭐ 52 · 推送 2025-11-25 · [GitHub](https://github.com/jk4e/list-ai-humanoid-robots) · 个人维护
 
 **AI 人形机器人策展清单：公司、机型与演示视频链接**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jk4e/list-ai-humanoid-robots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-27 51（+0）
+2026-10-18 51 → 2026-10-28 52（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # DUNKINKKD/lotei-qflipper
 
-⭐ 66 · C++ · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/DUNKINKKD/lotei-qflipper) · [官网](https://github.com/DUNKINKKD/lotei-qflipper/releases/latest) · 个人维护
+⭐ 67 · C++ · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/DUNKINKKD/lotei-qflipper) · [官网](https://github.com/DUNKINKKD/lotei-qflipper/releases/latest) · 个人维护
 
 **qFlipper 非官方分支：内置 Ollama 本地 AI 海豚助手与粉红主题**
 
@@ -44,13 +44,13 @@ Flipper Zero 桌面应用 qFlipper 的非官方分支：在上游固件管理与
 
 ```mermaid
 xychart-beta
-    title "DUNKINKKD/lotei-qflipper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 64 --> 67
-    line [65, 66]
+    title "DUNKINKKD/lotei-qflipper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-18 65 → 2026-10-27 66（+1）
+2026-10-18 65 → 2026-10-28 67（+2）
 
 
 ---

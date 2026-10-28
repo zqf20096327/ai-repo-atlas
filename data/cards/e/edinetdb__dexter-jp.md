@@ -1,6 +1,6 @@
 # edinetdb/dexter-jp
 
-⭐ 315 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/edinetdb/dexter-jp) · [官网](https://edinetdb.jp) · 组织维护
+⭐ 316 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/edinetdb/dexter-jp) · [官网](https://edinetdb.jp) · 组织维护
 
 **日本上市公司的自律型金融研究 AI 代理，自动规划并生成报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edinetdb/dexter-jp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 313 --> 316
-    line [314, 315, 315]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 313 --> 317
+    line [314, 315, 316]
 ```
 
-2026-10-18 314 → 2026-10-27 315（+1）
+2026-10-18 314 → 2026-10-28 316（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # chengyuZou/Open-LLM
 
-⭐ 101 · 推送 2026-03-18 · [GitHub](https://github.com/chengyuZou/Open-LLM) · 个人维护 · 中文 README
+⭐ 102 · 推送 2026-03-18 · [GitHub](https://github.com/chengyuZou/Open-LLM) · 个人维护 · 中文 README
 
 **LLM/Agent/RAG 学习与开源项目中文导航清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chengyuZou/Open-LLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 100 --> 103
+    line [101, 102]
 ```
 
-2026-10-18 101 → 2026-10-27 101（+0）
+2026-10-18 101 → 2026-10-28 102（+1）
 
 
 ---

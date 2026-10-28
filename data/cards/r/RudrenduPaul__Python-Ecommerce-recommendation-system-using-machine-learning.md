@@ -1,6 +1,6 @@
 # RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning
 
-⭐ 96 · Jupyter Notebook · 推送 2026-08-10 · [GitHub](https://github.com/RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning) · 个人维护
+⭐ 97 · Jupyter Notebook · 推送 2026-08-10 · [GitHub](https://github.com/RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning) · 个人维护
 
 **电商推荐系统 Notebook：冷启动到协同过滤三阶段方案**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RudrenduPaul/Python-Ecommerce-recommendation-system-using-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 95 --> 98
+    line [96, 97]
 ```
 
-2026-10-18 96 → 2026-10-27 96（+0）
+2026-10-18 96 → 2026-10-28 97（+1）
 
 
 ---

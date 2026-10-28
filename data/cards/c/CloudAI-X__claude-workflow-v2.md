@@ -1,6 +1,6 @@
 # CloudAI-X/claude-workflow-v2
 
-⭐ 1,421 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/CloudAI-X/claude-workflow-v2) · 组织维护
+⭐ 1,420 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/CloudAI-X/claude-workflow-v2) · 组织维护
 
 **通用 Claude Code 工作流插件：7 个子代理+26 命令+14 技能+14 钩子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CloudAI-X/claude-workflow-v2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1419 --> 1422
-    line [1420, 1421, 1421]
+    line [1420, 1421, 1420]
 ```
 
-2026-10-18 1,420 → 2026-10-27 1,421（+1）
+2026-10-18 1,420 → 2026-10-28 1,420（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIpRoBuilder/FlowX
 
-⭐ 190 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://aiprobuilder.github.io/flowx_web/) · 组织维护
+⭐ 191 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://aiprobuilder.github.io/flowx_web/) · 组织维护
 
 **让 AI agent 用自然语言生成并运行工作流的 MCP 服务器与 Python SDK**
 
@@ -46,12 +46,12 @@ FlowX 是一个开源 Generative Workflow 层：MCP 服务器、Python SDK 与 A
 ```mermaid
 xychart-beta
     title "AIpRoBuilder/FlowX 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 149 --> 193
-    line [152, 177, 184, 190, 190]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 149 --> 194
+    line [152, 177, 184, 190, 191]
 ```
 
-2026-10-19 152 → 2026-10-27 190（+38）
+2026-10-19 152 → 2026-10-28 191（+39）
 
 
 ---

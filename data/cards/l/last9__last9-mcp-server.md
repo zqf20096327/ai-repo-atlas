@@ -1,6 +1,6 @@
 # last9/last9-mcp-server
 
-⭐ 63 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/last9/last9-mcp-server) · [官网](https://last9.io/mcp) · 组织维护
+⭐ 63 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/last9/last9-mcp-server) · [官网](https://last9.io/mcp) · 组织维护
 
 **把生产可观测数据接入 AI 助手的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Last9 出品的 MCP 服务器，将 Claude、Cursor、Windsurf、VS Code 等 MCP
 ```mermaid
 xychart-beta
     title "last9/last9-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-10-27 63（+1）
+2026-10-18 62 → 2026-10-28 63（+1）
 
 
 ---

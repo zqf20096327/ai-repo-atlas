@@ -1,6 +1,6 @@
 # probabl-ai/skore
 
-⭐ 676 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
+⭐ 676 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probabl-ai/skore) · [官网](https://docs.skore.probabl.ai) · 组织维护
 
 **加速 ML 模型开发的 Python 库：结构化实验与自动评估报告**
 
@@ -45,13 +45,13 @@ skore 是面向数据科学工作流的开源 Python 库，定位为将零散的
 
 ```mermaid
 xychart-beta
-    title "probabl-ai/skore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "probabl-ai/skore 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 673 --> 677
-    line [674, 675, 676]
+    line [674, 675, 676, 676]
 ```
 
-2026-10-18 674 → 2026-10-27 676（+2）
+2026-10-18 674 → 2026-10-28 676（+2）
 
 
 ---

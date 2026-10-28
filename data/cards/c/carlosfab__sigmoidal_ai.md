@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "carlosfab/sigmoidal_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "carlosfab/sigmoidal_ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 175 --> 178
-    line [176, 177]
+    line [176, 177, 177]
 ```
 
-2026-10-18 176 → 2026-10-27 177（+1）
+2026-10-18 176 → 2026-10-28 177（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Google Cloud Platform 维护的 Document AI 官方示例仓库：收录多个演
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/document-ai-samples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 332 --> 334
     line [333, 333]
 ```
 
-2026-10-18 333 → 2026-10-27 333（+0）
+2026-10-18 333 → 2026-10-28 333（+0）
 
 
 ---

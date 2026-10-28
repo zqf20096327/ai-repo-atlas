@@ -1,6 +1,6 @@
 # lujih/webnovel-writer-opencode
 
-⭐ 223 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/lujih/webnovel-writer-opencode) · [官网](https://wnw.cszxorx.dpdns.org) · 个人维护 · 中文 README
+⭐ 225 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/lujih/webnovel-writer-opencode) · [官网](https://wnw.cszxorx.dpdns.org) · 个人维护 · 中文 README
 
 **面向中文网文作者的 AI 长篇连载创作系统（OpenCode 插件）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lujih/webnovel-writer-opencode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 218 --> 224
-    line [219, 221, 222, 223, 223]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 218 --> 226
+    line [219, 221, 222, 223, 225]
 ```
 
-2026-10-18 219 → 2026-10-27 223（+4）
+2026-10-18 219 → 2026-10-28 225（+6）
 
 
 ---

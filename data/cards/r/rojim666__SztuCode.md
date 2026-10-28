@@ -1,6 +1,6 @@
 # rojim666/SztuCode
 
-⭐ 110 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rojim666/SztuCode) · [官网](https://rojim666.github.io/SztuCode/) · 组织维护 · 中文 README
+⭐ 109 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rojim666/SztuCode) · [官网](https://rojim666.github.io/SztuCode/) · 组织维护 · 中文 README
 
 **面向高校的开源全场景办公智能体：代码、文档、表格、浏览器皆为工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rojim666/SztuCode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "rojim666/SztuCode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 107 --> 111
-    line [110, 108, 109, 110]
+    line [110, 108, 109, 110, 109]
 ```
 
-2026-10-18 110 → 2026-10-27 110（+0）
+2026-10-18 110 → 2026-10-28 109（-1）
 
 
 ---

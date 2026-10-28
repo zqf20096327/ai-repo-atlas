@@ -45,12 +45,12 @@ PathwaysJob 是 Google 开源的 Kubernetes 原生 API（CRD + controller），�
 ```mermaid
 xychart-beta
     title "google/pathways-job 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

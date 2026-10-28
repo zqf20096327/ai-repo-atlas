@@ -1,6 +1,6 @@
 # qdrant/n8n-nodes-qdrant
 
-⭐ 78 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/qdrant/n8n-nodes-qdrant) · [官网](https://qdrant.tech) · 组织维护
+⭐ 78 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/n8n-nodes-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
 **n8n 官方 Qdrant 节点：在工作流中操作向量数据库**
 
@@ -44,12 +44,12 @@ Qdrant 官方维护的 n8n 社区节点，用于在 n8n 工作流中连接并操
 ```mermaid
 xychart-beta
     title "qdrant/n8n-nodes-qdrant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-27 78（+0）
+2026-10-18 78 → 2026-10-28 78（+0）
 
 
 ---

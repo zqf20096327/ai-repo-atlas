@@ -1,6 +1,6 @@
 # Gaeduck-0908/im-not-ai-kiro
 
-⭐ 28 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Gaeduck-0908/im-not-ai-kiro) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Gaeduck-0908/im-not-ai-kiro) · 个人维护
 
 **去除韩文 AI 文本痕迹的 Kiro CLI 代理（4 代理）**
 
@@ -46,12 +46,12 @@ epoko77-ai/im-not-ai 的社区移植版，将原项目的分类体系、润色�
 ```mermaid
 xychart-beta
     title "Gaeduck-0908/im-not-ai-kiro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 29（+1）
 
 
 ---

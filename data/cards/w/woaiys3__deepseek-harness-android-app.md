@@ -1,6 +1,6 @@
 # woaiys3/deepseek-harness-android-app
 
-⭐ 642 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/woaiys3/deepseek-harness-android-app) · [官网](https://dshaa.xin) · 个人维护 · 中文 README
+⭐ 659 · Java · MIT · 推送 2026-10-18 · [GitHub](https://github.com/woaiys3/deepseek-harness-android-app) · [官网](https://dshaa.xin) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 打包成 APK，让 AI 免 Root 操作安卓手机**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "woaiys3/deepseek-harness-android-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 469 --> 657
-    line [484, 519, 550, 569, 587, 603, 624, 642]
+    title "woaiys3/deepseek-harness-android-app 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 467 --> 676
+    line [484, 519, 550, 569, 587, 603, 624, 642, 659]
 ```
 
-2026-10-18 484 → 2026-10-27 642（+158）
+2026-10-18 484 → 2026-10-28 659（+175）
 
 
 ---

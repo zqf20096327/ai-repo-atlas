@@ -1,6 +1,6 @@
 # sagirimo/BioDSH
 
-⭐ 65 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sagirimo/BioDSH) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/sagirimo/BioDSH) · 个人维护
 
 **面向临床医生与湿实验科学家的无代码生物信息分析 agent 桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sagirimo/BioDSH 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 59 --> 66
-    line [60, 61, 63, 65, 65]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 59 --> 67
+    line [60, 61, 63, 65, 66]
 ```
 
-2026-10-18 60 → 2026-10-27 65（+5）
+2026-10-18 60 → 2026-10-28 66（+6）
 
 
 ---

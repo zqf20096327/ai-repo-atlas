@@ -1,6 +1,6 @@
 # cameraui/camera.ui
 
-⭐ 1,139 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
+⭐ 1,139 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
 
 **自托管视频监控平台：直播、录像与本地 AI 检测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cameraui/camera.ui 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1135 --> 1140
     line [1136, 1137, 1138, 1139, 1139]
 ```
 
-2026-10-18 1,136 → 2026-10-27 1,139（+3）
+2026-10-18 1,136 → 2026-10-28 1,139（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # jlin816/dynalang
 
-⭐ 420 · Python · 推送 2026-01-07 · [GitHub](https://github.com/jlin816/dynalang) · [官网](https://dynalang.github.io) · 个人维护
+⭐ 421 · Python · 推送 2026-01-07 · [GitHub](https://github.com/jlin816/dynalang) · [官网](https://dynalang.github.io) · 个人维护
 
 **ICML 2024 论文 Dynalang 官方代码：用语言辅助世界模型的强化学习智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jlin816/dynalang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 419 --> 421
-    line [420, 420]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 419 --> 422
+    line [420, 421]
 ```
 
-2026-10-18 420 → 2026-10-27 420（+0）
+2026-10-18 420 → 2026-10-28 421（+1）
 
 
 ---

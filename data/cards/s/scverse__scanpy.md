@@ -1,6 +1,6 @@
 # scverse/scanpy
 
-⭐ 2,595 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
+⭐ 2,596 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
 
 **Python 单细胞基因表达数据分析工具包，可扩展至超百万细胞**
 
@@ -44,13 +44,13 @@ scverse 项目下的单细胞分析 Python 工具包，与 anndata 联合构建�
 
 ```mermaid
 xychart-beta
-    title "scverse/scanpy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 2589 --> 2596
-    line [2590, 2591, 2592, 2594, 2595]
+    title "scverse/scanpy 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2589 --> 2597
+    line [2590, 2591, 2592, 2594, 2595, 2596]
 ```
 
-2026-10-18 2,590 → 2026-10-27 2,595（+5）
+2026-10-18 2,590 → 2026-10-28 2,596（+6）
 
 
 ---

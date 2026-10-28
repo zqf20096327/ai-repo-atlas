@@ -1,6 +1,6 @@
 # rakanssh/hakawati
 
-⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/rakanssh/hakawati) · [官网](https://hakawati.dev) · 个人维护
+⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/rakanssh/hakawati) · [官网](https://hakawati.dev) · 个人维护
 
 **跨平台开源 AI 文字冒险游戏，支持自有 API key 或本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rakanssh/hakawati 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-22", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-22 24 → 2026-10-27 24（+0）
+2026-10-22 24 → 2026-10-28 24（+0）
 
 
 ---

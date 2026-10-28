@@ -1,6 +1,6 @@
 # solomondivyananth/aftereffects-mcp
 
-⭐ 74 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
+⭐ 76 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/solomondivyananth/aftereffects-mcp) · [官网](https://solomondivyananth.github.io/aftereffects-mcp/) · 个人维护
 
 **让 AI agent 实时读写 Adobe After Effects 工程的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "solomondivyananth/aftereffects-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 59 --> 75
-    line [60, 67, 70, 72, 73, 74, 74]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 59 --> 77
+    line [60, 67, 70, 72, 73, 74, 76]
 ```
 
-2026-10-18 60 → 2026-10-27 74（+14）
+2026-10-18 60 → 2026-10-28 76（+16）
 
 
 ---

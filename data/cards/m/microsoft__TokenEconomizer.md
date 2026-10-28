@@ -1,6 +1,6 @@
 # microsoft/TokenEconomizer
 
-⭐ 231 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
+⭐ 235 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
 
 **编码 agent 的成本控制插件：从历史会话学习并削减后续开销**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/TokenEconomizer 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15 --> 250
-    line [34, 195, 215, 223, 226, 231]
+    title "microsoft/TokenEconomizer 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 14 --> 255
+    line [34, 195, 215, 223, 226, 231, 235]
 ```
 
-2026-10-22 34 → 2026-10-27 231（+197）
+2026-10-22 34 → 2026-10-28 235（+201）
 
 
 ---

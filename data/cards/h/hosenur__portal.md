@@ -1,6 +1,6 @@
 # hosenur/portal
 
-⭐ 814 · TypeScript · MIT · 推送 2026-05-12 · [GitHub](https://github.com/hosenur/portal) · [官网](https://openportal.space) · 个人维护
+⭐ 815 · TypeScript · MIT · 推送 2026-05-12 · [GitHub](https://github.com/hosenur/portal) · [官网](https://openportal.space) · 个人维护
 
 **面向移动端的 OpenCode AI 编码代理 Web UI，支持远程会话管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hosenur/portal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 811 --> 815
-    line [812, 813, 814, 814]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 811 --> 816
+    line [812, 813, 814, 815]
 ```
 
-2026-10-18 812 → 2026-10-27 814（+2）
+2026-10-18 812 → 2026-10-28 815（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # strands-labs/strands-decider
 
-⭐ 712 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
+⭐ 720 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
 
 **面向 agent 工作流的小型快速决策模型（system one 模型）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "strands-labs/strands-decider 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 656 --> 717
-    line [661, 674, 686, 692, 699, 703, 708, 712]
+    title "strands-labs/strands-decider 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 656 --> 725
+    line [661, 674, 686, 692, 699, 703, 708, 712, 720]
 ```
 
-2026-10-18 661 → 2026-10-27 712（+51）
+2026-10-18 661 → 2026-10-28 720（+59）
 
 
 ---

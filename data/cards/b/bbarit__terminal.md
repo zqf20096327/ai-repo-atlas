@@ -44,12 +44,12 @@ BBARIT Terminal（빠릿터미널）是用 Rust 构建的 AI vibe coding IDE/终
 ```mermaid
 xychart-beta
     title "bbarit/terminal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-27 40（+0）
+2026-10-18 40 → 2026-10-28 40（+0）
 
 
 ---

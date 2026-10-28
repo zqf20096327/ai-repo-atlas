@@ -1,6 +1,6 @@
 # wanxingai/LightAgent
 
-⭐ 1,239 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/wanxingai/LightAgent) · 个人维护 · 中文 README
+⭐ 1,240 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/wanxingai/LightAgent) · 个人维护 · 中文 README
 
 **轻量级 Python Agent 框架：工具、记忆、护栏、多智能体与工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wanxingai/LightAgent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1235 --> 1240
-    line [1236, 1237, 1238, 1237, 1239]
+    title "wanxingai/LightAgent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1235 --> 1241
+    line [1236, 1237, 1238, 1237, 1239, 1240]
 ```
 
-2026-10-18 1,236 → 2026-10-27 1,239（+3）
+2026-10-18 1,236 → 2026-10-28 1,240（+4）
 
 
 ---

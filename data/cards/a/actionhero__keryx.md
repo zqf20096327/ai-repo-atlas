@@ -1,6 +1,6 @@
 # actionhero/keryx
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/actionhero/keryx) · [官网](https://www.keryxjs.com) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/actionhero/keryx) · [官网](https://www.keryxjs.com) · 组织维护
 
 **面向开发者的全栈 TypeScript 框架：一次编写的 Action 同时服务 MCP 与多种 API 传输**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "actionhero/keryx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 34 --> 47
+    line [35, 36, 46]
 ```
 
-2026-10-18 35 → 2026-10-27 36（+1）
+2026-10-18 35 → 2026-10-28 46（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/mythos-5-incident-transcript
 
-⭐ 132 · HTML · 推送 2026-09-09 · [GitHub](https://github.com/anthropics/mythos-5-incident-transcript) · 组织维护
+⭐ 133 · HTML · 推送 2026-09-09 · [GitHub](https://github.com/anthropics/mythos-5-incident-transcript) · 组织维护
 
 **Mythos 5 模型网络安全评估的原始行为转录记录发布**
 
@@ -43,12 +43,12 @@ Anthropic 发布的转录记录仓库：记录 Mythos 5 模型在一次 CTF 网�
 ```mermaid
 xychart-beta
     title "anthropics/mythos-5-incident-transcript 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 127 --> 133
-    line [128, 129, 130, 131, 132, 132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 127 --> 134
+    line [128, 129, 130, 131, 132, 133]
 ```
 
-2026-10-18 128 → 2026-10-27 132（+4）
+2026-10-18 128 → 2026-10-28 133（+5）
 
 
 ---

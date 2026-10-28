@@ -1,6 +1,6 @@
 # Pantheon-Security/notebooklm-mcp-secure
 
-⭐ 87 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Pantheon-Security/notebooklm-mcp-secure) · 组织维护
+⭐ 88 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Pantheon-Security/notebooklm-mcp-secure) · 组织维护
 
 **安全加固的 NotebookLM MCP 服务器：让 Claude/AI agent 查询与管理笔记本**
 
@@ -45,12 +45,12 @@ NotebookLM MCP 服务器（PleasePrompto/notebooklm-mcp 的安全加固分支，
 ```mermaid
 xychart-beta
     title "Pantheon-Security/notebooklm-mcp-secure 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 85 --> 88
-    line [86, 87, 87]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 85 --> 89
+    line [86, 87, 88]
 ```
 
-2026-10-18 86 → 2026-10-27 87（+1）
+2026-10-18 86 → 2026-10-28 88（+2）
 
 
 ---

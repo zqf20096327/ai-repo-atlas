@@ -1,6 +1,6 @@
 # ilyautov/small-business-ru
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/ilyautov/small-business-ru) · [官网](https://small-business-ru.aifrontier.tech/) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/ilyautov/small-business-ru) · [官网](https://small-business-ru.aifrontier.tech/) · 个人维护
 
 **面向俄罗斯小微企业经营者的 34 个 AI agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilyautov/small-business-ru 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 28]
 ```
 
-2026-10-18 24 → 2026-10-27 26（+2）
+2026-10-18 24 → 2026-10-28 28（+4）
 
 
 ---

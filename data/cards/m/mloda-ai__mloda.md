@@ -1,6 +1,6 @@
 # mloda-ai/mloda
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mloda-ai/mloda) · [官网](https://mloda.ai) · 组织维护
+⭐ 96 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mloda-ai/mloda) · [官网](https://mloda.ai) · 组织维护
 
 **面向 AI 代理的声明式数据访问与插件化数据管道框架**
 
@@ -46,12 +46,12 @@ mloda 是一个 Python 框架，通过声明式 API 让 AI 代理、ML 管道和
 ```mermaid
 xychart-beta
     title "mloda-ai/mloda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-27 96（+0）
+2026-10-18 96 → 2026-10-28 96（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Percolation-Labs/percolate
 
-⭐ 60 · PLpgSQL · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Percolation-Labs/percolate) · [官网](https://percolation-labs.github.io/percolate/) · 组织维护
+⭐ 60 · PLpgSQL · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Percolation-Labs/percolate) · [官网](https://percolation-labs.github.io/percolate/) · 组织维护
 
 **把 AI 工作流引擎与 agent 记忆放进 Postgres 的扩展与运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Percolation-Labs/percolate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 59 --> 62
     line [61, 60, 60]
 ```
 
-2026-10-18 61 → 2026-10-27 60（-1）
+2026-10-18 61 → 2026-10-28 60（-1）
 
 
 ---

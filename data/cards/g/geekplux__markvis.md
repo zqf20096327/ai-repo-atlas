@@ -1,6 +1,6 @@
 # geekplux/markvis
 
-⭐ 1,599 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/geekplux/markvis) · [官网](https://markvis.js.org/) · 个人维护
+⭐ 1,597 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/geekplux/markvis) · [官网](https://markvis.js.org/) · 个人维护
 
 **在 Markdown 中以文本块绘制图表的渲染库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geekplux/markvis 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1597 --> 1600
-    line [1599, 1598, 1599, 1599]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1596 --> 1600
+    line [1599, 1598, 1599, 1597]
 ```
 
-2026-10-19 1,599 → 2026-10-27 1,599（+0）
+2026-10-19 1,599 → 2026-10-28 1,597（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # softwaremill/sttp-ai
 
-⭐ 105 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/softwaremill/sttp-ai) · [官网](https://sttp-ai.softwaremill.com) · 组织维护
+⭐ 106 · Scala · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/softwaremill/sttp-ai) · [官网](https://sttp-ai.softwaremill.com) · 组织维护
 
 **Scala 的 LLM 客户端工具包：接入多家模型 API 并构建 agent**
 
@@ -46,12 +46,12 @@ sttp 生态下的非官方 Scala 客户端封装库，基于 sttp client 描述�
 ```mermaid
 xychart-beta
     title "softwaremill/sttp-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-10-18 105 → 2026-10-27 105（+0）
+2026-10-18 105 → 2026-10-28 106（+1）
 
 
 ---

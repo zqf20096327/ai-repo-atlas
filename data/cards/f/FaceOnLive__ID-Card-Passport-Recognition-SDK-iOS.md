@@ -46,12 +46,12 @@ FaceOnLive 本地生物识别 SDK 套件的 iOS 组成部分：在设备上离�
 ```mermaid
 xychart-beta
     title "FaceOnLive/ID-Card-Passport-Recognition-SDK-iOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 28（+0）
 
 
 ---

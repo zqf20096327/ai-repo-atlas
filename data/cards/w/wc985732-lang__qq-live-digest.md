@@ -1,6 +1,6 @@
 # wc985732-lang/qq-live-digest
 
-⭐ 55 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/wc985732-lang/qq-live-digest) · 个人维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/wc985732-lang/qq-live-digest) · 个人维护 · 中文 README
 
 **QQ 群消息 AI 摘要与待办提取推送工具，配手机待办台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wc985732-lang/qq-live-digest 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 43 --> 56
-    line [44, 48, 51, 53, 54, 55]
+    title "wc985732-lang/qq-live-digest 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 43 --> 57
+    line [44, 48, 51, 53, 54, 55, 56]
 ```
 
-2026-10-18 44 → 2026-10-27 55（+11）
+2026-10-18 44 → 2026-10-28 56（+12）
 
 
 ---

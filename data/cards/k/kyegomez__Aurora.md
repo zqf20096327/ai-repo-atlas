@@ -1,6 +1,6 @@
 # kyegomez/Aurora
 
-⭐ 24 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kyegomez/Aurora) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/Aurora) · 个人维护
 
 **大气基础模型 Aurora 的 PyTorch 社区开源实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/Aurora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

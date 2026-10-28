@@ -1,6 +1,6 @@
 # Littlesheepxy/zhigeng
 
-⭐ 537 · TypeScript · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/Littlesheepxy/zhigeng) · [官网](https://zhigeng.app) · 个人维护 · 中文 README
+⭐ 556 · TypeScript · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/Littlesheepxy/zhigeng) · [官网](https://zhigeng.app) · 个人维护 · 中文 README
 
 **Mac 本地优先的语音输入与个人记忆 Agent，BYOK 调度本机 Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Littlesheepxy/zhigeng 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 394 --> 550
-    line [407, 431, 471, 458, 482, 506, 524, 537]
+    title "Littlesheepxy/zhigeng 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 393 --> 570
+    line [407, 431, 471, 458, 482, 506, 524, 537, 556]
 ```
 
-2026-10-18 407 → 2026-10-27 537（+130）
+2026-10-18 407 → 2026-10-28 556（+149）
 
 
 ---

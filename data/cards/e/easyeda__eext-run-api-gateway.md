@@ -1,6 +1,6 @@
 # easyeda/eext-run-api-gateway
 
-⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/easyeda/eext-run-api-gateway) · 组织维护 · 中文 README
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/easyeda/eext-run-api-gateway) · 组织维护 · 中文 README
 
 **嘉立创EDA扩展：为 AI 编程工具提供 WebSocket 网关桥接**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "easyeda/eext-run-api-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 92 --> 95
-    line [93, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 92 --> 96
+    line [93, 94, 95]
 ```
 
-2026-10-18 93 → 2026-10-27 94（+1）
+2026-10-18 93 → 2026-10-28 95（+2）
 
 
 ---

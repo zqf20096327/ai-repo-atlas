@@ -1,6 +1,6 @@
 # analogdevicesinc/ai8x-training
 
-⭐ 115 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/analogdevicesinc/ai8x-training) · 组织维护
+⭐ 116 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/analogdevicesinc/ai8x-training) · 组织维护
 
 **为 MAX78000/MAX78002 边缘 AI 芯片训练模型的 PyTorch 工具链**
 
@@ -45,12 +45,12 @@ Analog Devices 维护的深度学习模型训练仓库，面向 MAX78000/MAX7800
 ```mermaid
 xychart-beta
     title "analogdevicesinc/ai8x-training 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 114 --> 117
+    line [115, 116]
 ```
 
-2026-10-18 115 → 2026-10-27 115（+0）
+2026-10-18 115 → 2026-10-28 116（+1）
 
 
 ---

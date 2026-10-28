@@ -1,6 +1,6 @@
 # redf0x1/camofox-mcp
 
-⭐ 118 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-mcp) · 个人维护
+⭐ 120 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/redf0x1/camofox-mcp) · 个人维护
 
 **为 MCP AI 代理提供反检测浏览器自动化工具的服务端**
 
@@ -45,12 +45,12 @@ CamoFox MCP 将 Claude Desktop、VS Code、Cursor、OpenClaw 等 MCP 客户端�
 ```mermaid
 xychart-beta
     title "redf0x1/camofox-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 118, 118]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 118, 120]
 ```
 
-2026-10-18 118 → 2026-10-27 118（+0）
+2026-10-18 118 → 2026-10-28 120（+2）
 
 
 ---

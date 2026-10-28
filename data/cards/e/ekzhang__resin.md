@@ -1,6 +1,6 @@
 # ekzhang/resin
 
-⭐ 190 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ekzhang/resin) · 个人维护
+⭐ 254 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ekzhang/resin) · 个人维护
 
 **构建 LLM 推理引擎的积木式库：Rust 调度器+自写 kernel**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ekzhang/resin 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 189 --> 191
-    line [190, 190]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 184 --> 260
+    line [190, 254]
 ```
 
-2026-10-26 190 → 2026-10-27 190（+0）
+2026-10-26 190 → 2026-10-28 254（+64）
 
 
 ---

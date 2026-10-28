@@ -1,6 +1,6 @@
 # 2722039978-source/Noosphere
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/2722039978-source/Noosphere) · 个人维护 · 中文 README
+⭐ 52 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/2722039978-source/Noosphere) · 个人维护 · 中文 README
 
 **面向个人用户的本地 AI 桌面工作台：对话、代码检索、记忆与运维 Agent**
 
@@ -46,12 +46,12 @@ Windows 优先的本地优先桌面应用：前端 React/TypeScript/Vite，桌�
 ```mermaid
 xychart-beta
     title "2722039978-source/Noosphere 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-19", "2026-10-28"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-19 52 → 2026-10-27 52（+0）
+2026-10-19 52 → 2026-10-28 52（+0）
 
 
 ---

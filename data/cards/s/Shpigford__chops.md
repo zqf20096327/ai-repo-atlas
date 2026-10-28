@@ -1,6 +1,6 @@
 # Shpigford/chops
 
-⭐ 2,090 · Swift · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/Shpigford/chops) · [官网](https://chops.md) · 个人维护
+⭐ 2,094 · Swift · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/Shpigford/chops) · [官网](https://chops.md) · 个人维护
 
 **管理多种编码 Agent 技能与 Agent 的 macOS 桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shpigford/chops 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1935 --> 2104
-    line [1949, 1950, 2031, 2062, 2078, 2088, 2090]
+    title "Shpigford/chops 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1935 --> 2108
+    line [1949, 1950, 2031, 2062, 2078, 2088, 2090, 2094]
 ```
 
-2026-10-18 1,949 → 2026-10-27 2,090（+141）
+2026-10-18 1,949 → 2026-10-28 2,094（+145）
 
 
 ---

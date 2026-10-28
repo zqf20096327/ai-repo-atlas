@@ -1,6 +1,6 @@
 # HELPMEEADICE/BANDORI-PET-REV
 
-⭐ 494 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/HELPMEEADICE/BANDORI-PET-REV) · 个人维护 · 中文 README
+⭐ 497 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/HELPMEEADICE/BANDORI-PET-REV) · 个人维护 · 中文 README
 
 **把 BanG Dream! 角色养在桌面的 Live2D 桌面宠物，带 LLM 对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HELPMEEADICE/BANDORI-PET-REV 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 480 --> 495
-    line [481, 485, 489, 490, 491, 493, 494]
+    title "HELPMEEADICE/BANDORI-PET-REV 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 480 --> 498
+    line [481, 485, 489, 490, 491, 493, 494, 497]
 ```
 
-2026-10-18 481 → 2026-10-27 494（+13）
+2026-10-18 481 → 2026-10-28 497（+16）
 
 
 ---

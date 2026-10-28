@@ -45,13 +45,13 @@ Node.js/TypeScript 构建的自主多 agent 加密情报与交易系统，专用
 
 ```mermaid
 xychart-beta
-    title "muratmula/ai-robinhood-chain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "muratmula/ai-robinhood-chain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 133 --> 136
-    line [134, 135]
+    line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-10-27 135（+1）
+2026-10-18 134 → 2026-10-28 135（+1）
 
 
 ---

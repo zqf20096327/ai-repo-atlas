@@ -1,6 +1,6 @@
 # Wing900/PlotKityCat
 
-⭐ 55 · Go · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Wing900/PlotKityCat) · [官网](https://tour.5051001.xyz) · 个人维护 · 中文 README
+⭐ 57 · Go · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/Wing900/PlotKityCat) · [官网](https://tour.5051001.xyz) · 个人维护 · 中文 README
 
 **面向数学教师的 AI 可视化教学工具：自然语言生成 Matplotlib 图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Wing900/PlotKityCat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 54 --> 58
+    line [55, 57]
 ```
 
-2026-10-18 55 → 2026-10-27 55（+0）
+2026-10-18 55 → 2026-10-28 57（+2）
 
 
 ---

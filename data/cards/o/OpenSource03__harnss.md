@@ -1,6 +1,6 @@
 # OpenSource03/harnss
 
-⭐ 391 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenSource03/harnss) · [官网](https://harnss.app) · 个人维护
+⭐ 392 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/OpenSource03/harnss) · [官网](https://harnss.app) · 个人维护
 
 **桌面客户端：一个界面并行运行与管理多个 AI 编程 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenSource03/harnss 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 385 --> 392
-    line [386, 389, 390, 391, 391]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 385 --> 393
+    line [386, 389, 390, 391, 392]
 ```
 
-2026-10-18 386 → 2026-10-27 391（+5）
+2026-10-18 386 → 2026-10-28 392（+6）
 
 
 ---

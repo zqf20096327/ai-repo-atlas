@@ -1,6 +1,6 @@
 # fspecii/ace-step-ui
 
-⭐ 5,127 · JavaScript · 推送 2026-06-27 · [GitHub](https://github.com/fspecii/ace-step-ui) · [官网](https://webdesignstudio.london/) · 个人维护
+⭐ 5,134 · JavaScript · 推送 2026-06-27 · [GitHub](https://github.com/fspecii/ace-step-ui) · [官网](https://webdesignstudio.london/) · 个人维护
 
 **本地运行的 ACE-Step 1.5 AI 音乐生成模型的 Web 界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fspecii/ace-step-ui 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5060 --> 5133
-    line [5066, 5081, 5092, 5097, 5103, 5108, 5114, 5127]
+    title "fspecii/ace-step-ui 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5060 --> 5140
+    line [5066, 5081, 5092, 5097, 5103, 5108, 5114, 5127, 5134]
 ```
 
-2026-10-18 5,066 → 2026-10-27 5,127（+61）
+2026-10-18 5,066 → 2026-10-28 5,134（+68）
 
 
 ---

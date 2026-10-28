@@ -1,6 +1,6 @@
 # danielmonettelli/dotnetmaui-chatgpt-app-oss
 
-⭐ 110 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/danielmonettelli/dotnetmaui-chatgpt-app-oss) · 个人维护
+⭐ 111 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/danielmonettelli/dotnetmaui-chatgpt-app-oss) · 个人维护
 
 **用 .NET MAUI 复刻 ChatGPT 的开源聊天应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danielmonettelli/dotnetmaui-chatgpt-app-oss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 109 --> 112
+    line [110, 111]
 ```
 
-2026-10-18 110 → 2026-10-27 110（+0）
+2026-10-18 110 → 2026-10-28 111（+1）
 
 
 ---

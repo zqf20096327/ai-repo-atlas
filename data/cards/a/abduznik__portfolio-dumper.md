@@ -1,6 +1,6 @@
 # abduznik/portfolio-dumper
 
-⭐ 109 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/abduznik/portfolio-dumper) · [官网](https://abduznik.github.io/portfolio-dumper/) · 个人维护
+⭐ 115 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/abduznik/portfolio-dumper) · [官网](https://abduznik.github.io/portfolio-dumper/) · 个人维护
 
 **将 GitHub 个人主页与仓库转换为 LLM 友好的 Markdown 的静态网页应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abduznik/portfolio-dumper 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 98 --> 112
-    line [99, 102, 106, 111, 108, 109, 109]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 98 --> 116
+    line [99, 102, 106, 111, 108, 109, 115]
 ```
 
-2026-10-18 99 → 2026-10-27 109（+10）
+2026-10-18 99 → 2026-10-28 115（+16）
 
 
 ---

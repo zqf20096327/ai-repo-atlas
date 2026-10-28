@@ -45,13 +45,13 @@ Obsidian 原生桌面插件，将 Vault 内任务、项目、知识、收件箱�
 
 ```mermaid
 xychart-beta
-    title "WAINAO-Haaper/talos-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "WAINAO-Haaper/talos-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-10-27 22（+1）
+2026-10-18 21 → 2026-10-28 22（+1）
 
 
 ---

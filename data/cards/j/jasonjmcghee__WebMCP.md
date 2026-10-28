@@ -1,6 +1,6 @@
 # jasonjmcghee/WebMCP
 
-⭐ 914 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/jasonjmcghee/WebMCP) · [官网](https://webmcp.dev/) · 个人维护
+⭐ 916 · JavaScript · MIT · 推送 2026-02-15 · [GitHub](https://github.com/jasonjmcghee/WebMCP) · [官网](https://webmcp.dev/) · 个人维护
 
 **让网站成为 MCP 服务器向本地 LLM 暴露工具的早期提案实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jasonjmcghee/WebMCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 906 --> 915
-    line [907, 909, 913, 914]
+    title "jasonjmcghee/WebMCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 906 --> 917
+    line [907, 909, 913, 914, 916]
 ```
 
-2026-10-18 907 → 2026-10-27 914（+7）
+2026-10-18 907 → 2026-10-28 916（+9）
 
 
 ---

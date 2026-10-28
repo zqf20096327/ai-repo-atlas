@@ -1,6 +1,6 @@
 # yaoliliu/FreeFuse
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/yaoliliu/FreeFuse) · [官网](https://future-item.github.io/FreeFuse/) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/yaoliliu/FreeFuse) · [官网](https://future-item.github.io/FreeFuse/) · 组织维护
 
 **免训练多主体 LoRA 融合文生图框架：测试时自适应 token 级路由**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yaoliliu/FreeFuse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 245 --> 248
-    line [246, 247, 247]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 245 --> 250
+    line [246, 247, 249]
 ```
 
-2026-10-18 246 → 2026-10-27 247（+1）
+2026-10-18 246 → 2026-10-28 249（+3）
 
 
 ---

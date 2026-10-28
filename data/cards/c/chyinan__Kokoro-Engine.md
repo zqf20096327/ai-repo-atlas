@@ -1,6 +1,6 @@
 # chyinan/Kokoro-Engine
 
-⭐ 163 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chyinan/Kokoro-Engine) · 个人维护 · 中文 README
+⭐ 164 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chyinan/Kokoro-Engine) · 个人维护 · 中文 README
 
 **桌面 AI 角色运行时：有形象、声音与长期记忆的虚拟角色交互**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chyinan/Kokoro-Engine 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 156 --> 164
-    line [157, 158, 159, 162, 163, 162, 163]
+    title "chyinan/Kokoro-Engine 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 156 --> 165
+    line [157, 158, 159, 162, 163, 162, 163, 164]
 ```
 
-2026-10-18 157 → 2026-10-27 163（+6）
+2026-10-18 157 → 2026-10-28 164（+7）
 
 
 ---

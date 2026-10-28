@@ -1,6 +1,6 @@
 # bigmacfive/turbo-graph
 
-⭐ 50 · Rust · MIT · 推送 2026-06-19 · [GitHub](https://github.com/bigmacfive/turbo-graph) · 个人维护
+⭐ 49 · Rust · MIT · 推送 2026-06-19 · [GitHub](https://github.com/bigmacfive/turbo-graph) · 个人维护
 
 **面向受约束 RAG 的向量检索加图记忆层，供 Python/Rust 开发者**
 
@@ -46,12 +46,12 @@ turbovec 的 fork，保留 TurboQuant 编码/搜索核心，叠加图记忆层�
 ```mermaid
 xychart-beta
     title "bigmacfive/turbo-graph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 48 --> 51
+    line [50, 49]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 49（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vezlin1/antigravity-bypass-russia
 
-⭐ 123 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vezlin1/antigravity-bypass-russia) · 个人维护 · 中文 README
+⭐ 126 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/vezlin1/antigravity-bypass-russia) · 个人维护 · 中文 README
 
 **在俄罗斯解除 Google Antigravity/Gemini 区域限制的本地工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vezlin1/antigravity-bypass-russia 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 82 --> 126
-    line [85, 93, 98, 108, 113, 117, 120, 123]
+    title "vezlin1/antigravity-bypass-russia 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 81 --> 130
+    line [85, 93, 98, 108, 113, 117, 120, 123, 126]
 ```
 
-2026-10-18 85 → 2026-10-27 123（+38）
+2026-10-18 85 → 2026-10-28 126（+41）
 
 
 ---

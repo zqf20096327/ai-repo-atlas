@@ -45,12 +45,12 @@ PNAS 2021 论文《Deep learning for early warning signals of tipping points》�
 ```mermaid
 xychart-beta
     title "ThomasMBury/deep-early-warnings-pnas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-27 67（+0）
+2026-10-18 67 → 2026-10-28 67（+0）
 
 
 ---

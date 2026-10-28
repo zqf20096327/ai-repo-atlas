@@ -1,6 +1,6 @@
 # Helsinki-NLP/Opus-MT
 
-⭐ 871 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Helsinki-NLP/Opus-MT) · 组织维护
+⭐ 872 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Helsinki-NLP/Opus-MT) · 组织维护
 
 **开源神经机器翻译模型与 Web 翻译服务工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Helsinki-NLP/Opus-MT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 866 --> 872
-    line [867, 868, 870, 871]
+    title "Helsinki-NLP/Opus-MT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 866 --> 873
+    line [867, 868, 870, 871, 872]
 ```
 
-2026-10-18 867 → 2026-10-27 871（+4）
+2026-10-18 867 → 2026-10-28 872（+5）
 
 
 ---

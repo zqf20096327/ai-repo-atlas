@@ -1,6 +1,6 @@
 # jakubburkiewicz/node-red-contrib-ollama
 
-⭐ 30 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/jakubburkiewicz/node-red-contrib-ollama) · [官网](https://jakubburkiewicz.github.io/node-red-contrib-ollama/) · 个人维护
+⭐ 30 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jakubburkiewicz/node-red-contrib-ollama) · [官网](https://jakubburkiewicz.github.io/node-red-contrib-ollama/) · 个人维护
 
 **把 Ollama 封装为 Node-RED 节点的集成模块**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jakubburkiewicz/node-red-contrib-ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

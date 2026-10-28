@@ -1,6 +1,6 @@
 # OTT-Cybersecurity-LLC/lyrie-ai
 
-⭐ 326 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai) · [官网](https://lyrie.ai) · 组织维护
+⭐ 326 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai) · [官网](https://lyrie.ai) · 组织维护
 
 **自主 AI 网络安全 agent：自动渗透测试与 LLM 红队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OTT-Cybersecurity-LLC/lyrie-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    title "OTT-Cybersecurity-LLC/lyrie-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 324 --> 328
-    line [326, 327, 325, 326]
+    line [326, 327, 325, 326, 326]
 ```
 
-2026-10-18 326 → 2026-10-27 326（+0）
+2026-10-18 326 → 2026-10-28 326（+0）
 
 
 ---

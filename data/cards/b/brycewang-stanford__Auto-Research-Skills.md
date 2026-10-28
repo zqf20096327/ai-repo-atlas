@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Research-Skills
 
-⭐ 225 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/brycewang-stanford/Auto-Research-Skills) · 个人维护 · 中文 README
+⭐ 230 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/brycewang-stanford/Auto-Research-Skills) · 个人维护 · 中文 README
 
 **自主科研技能与智能体精选清单（6,089 skills/110 仓库）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brycewang-stanford/Auto-Research-Skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 208 --> 226
-    line [209, 215, 218, 221, 223, 225, 225]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 207 --> 232
+    line [209, 215, 218, 221, 223, 225, 230]
 ```
 
-2026-10-18 209 → 2026-10-27 225（+16）
+2026-10-18 209 → 2026-10-28 230（+21）
 
 
 ---

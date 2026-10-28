@@ -1,6 +1,6 @@
 # hugohe3/ppt-master
 
-⭐ 68,876 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
+⭐ 69,561 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
 
 **在 AI agent 工具内运行的本地工作流：从文档/主题生成原生 PPTX**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "hugohe3/ppt-master 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 62526 --> 69453
-    line [63103, 63847, 65055, 65959, 66709, 67372, 68051, 68876]
+    title "hugohe3/ppt-master 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 62458 --> 70206
+    line [63103, 63847, 65055, 65959, 66709, 67372, 68051, 68876, 69561]
 ```
 
-2026-10-18 63,103 → 2026-10-27 68,876（+5,773）
+2026-10-18 63,103 → 2026-10-28 69,561（+6,458）
 
 
 ---

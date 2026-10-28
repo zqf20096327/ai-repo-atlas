@@ -1,6 +1,6 @@
 # ra1nyxin/immersive-vibration-response-skill
 
-⭐ 52 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ra1nyxin/immersive-vibration-response-skill) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/ra1nyxin/immersive-vibration-response-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 主动驱动低功率震动设备的 Codex 触觉反馈 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ra1nyxin/immersive-vibration-response-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 50 --> 53
+    line [52, 51]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 51（-1）
 
 
 ---

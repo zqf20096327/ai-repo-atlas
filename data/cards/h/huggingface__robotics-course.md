@@ -1,6 +1,6 @@
 # huggingface/robotics-course
 
-⭐ 170 · MDX · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/robotics-course) · 组织维护
+⭐ 172 · MDX · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/robotics-course) · 组织维护
 
 **Hugging Face 机器人学课程：从经典方法到学习方法的实践教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/robotics-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 167 --> 171
-    line [168, 169, 170, 170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 167 --> 173
+    line [168, 169, 170, 172]
 ```
 
-2026-10-18 168 → 2026-10-27 170（+2）
+2026-10-18 168 → 2026-10-28 172（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Raudaschl/rag-fusion
 
-⭐ 959 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Raudaschl/rag-fusion) · 个人维护
+⭐ 958 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Raudaschl/rag-fusion) · 个人维护
 
 **RAG-Fusion 检索技术实现：多查询生成+RRF融合+评测**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Raudaschl/rag-fusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 957 --> 960
-    line [959, 958, 959, 959]
+    line [959, 958, 959, 958]
 ```
 
-2026-10-18 959 → 2026-10-27 959（+0）
+2026-10-18 959 → 2026-10-28 958（-1）
 
 
 ---

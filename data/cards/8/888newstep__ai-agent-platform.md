@@ -1,6 +1,6 @@
 # 888newstep/ai-agent-platform
 
-⭐ 117 · Java · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/888newstep/ai-agent-platform) · 个人维护 · 中文 README
+⭐ 118 · Java · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/888newstep/ai-agent-platform) · 个人维护 · 中文 README
 
 **Java 企业知识问答与智能客服 AI Agent 服务端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "888newstep/ai-agent-platform 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 111 --> 118
-    line [112, 115, 116, 117, 116, 117]
+    title "888newstep/ai-agent-platform 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 111 --> 119
+    line [112, 115, 116, 117, 116, 117, 118]
 ```
 
-2026-10-18 112 → 2026-10-27 117（+5）
+2026-10-18 112 → 2026-10-28 118（+6）
 
 
 ---

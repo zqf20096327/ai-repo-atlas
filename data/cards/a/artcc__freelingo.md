@@ -1,6 +1,6 @@
 # artcc/freelingo
 
-⭐ 208 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
+⭐ 209 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
 
 **自托管/托管的 AI 语言学习平台：CEFR 课程与 AI 导师**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "artcc/freelingo 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 177 --> 210
-    line [179, 189, 196, 199, 203, 206, 208, 208]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 176 --> 212
+    line [179, 189, 196, 199, 203, 206, 208, 209]
 ```
 
-2026-10-18 179 → 2026-10-27 208（+29）
+2026-10-18 179 → 2026-10-28 209（+30）
 
 
 ---

@@ -45,13 +45,13 @@ Neural Inverse OSS 是基于 VS Code 代码库的开源编辑器（Apache 2.0）
 
 ```mermaid
 xychart-beta
-    title "NeuralInverse/neuralinverse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    title "NeuralInverse/neuralinverse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 231 --> 238
-    line [236, 237, 232, 233]
+    line [236, 237, 232, 233, 233]
 ```
 
-2026-10-18 236 → 2026-10-27 233（-3）
+2026-10-18 236 → 2026-10-28 233（-3）
 
 
 ---

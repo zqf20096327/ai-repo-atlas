@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-ads
 
-⭐ 10,450 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AgriciDaniel/claude-ads) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 10,482 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AgriciDaniel/claude-ads) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **面向广告运营者的 Claude Code 审计技能：跨 12 个广告平台出具证据化审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-ads 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10026 --> 10488
-    line [10064, 10140, 10270, 10322, 10354, 10374, 10403, 10450]
+    title "AgriciDaniel/claude-ads 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10023 --> 10523
+    line [10064, 10140, 10270, 10322, 10354, 10374, 10403, 10450, 10482]
 ```
 
-2026-10-18 10,064 → 2026-10-27 10,450（+386）
+2026-10-18 10,064 → 2026-10-28 10,482（+418）
 
 
 ---

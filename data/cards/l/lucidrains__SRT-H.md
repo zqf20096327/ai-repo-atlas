@@ -43,12 +43,12 @@ lucidrains 对 Stanford / Johns Hopkins 提出的 SRT-H（A Hierarchical Framewo
 ```mermaid
 xychart-beta
     title "lucidrains/SRT-H 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

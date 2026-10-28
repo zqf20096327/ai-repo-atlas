@@ -1,6 +1,6 @@
 # Superone77/TraceVista
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Superone77/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Superone77/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
 
 **把 agent 运行日志变成可交互决策地图与回放故事的查看器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Superone77/TraceVista 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 79
-    line [4, 24, 61, 64, 67, 68, 71, 73]
+    title "Superone77/TraceVista 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 81
+    line [4, 24, 61, 64, 67, 68, 71, 73, 74]
 ```
 
-2026-10-18 4 → 2026-10-27 73（+69）
+2026-10-18 4 → 2026-10-28 74（+70）
 
 
 ---

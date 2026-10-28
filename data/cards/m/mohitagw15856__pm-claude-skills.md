@@ -1,6 +1,6 @@
 # mohitagw15856/pm-claude-skills
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 1,488 · HTML · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
 
 **给普通用户与职场人的 1295 个 AI 助手职业技能库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohitagw15856/pm-claude-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23"]
-    y-axis "stars" 1465 --> 1479
-    line [1466, 1471, 1478]
+    title "mohitagw15856/pm-claude-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 1464 --> 1490
+    line [1466, 1471, 1478, 1488]
 ```
 
-2026-10-18 1,466 → 2026-10-23 1,478（+12）
+2026-10-18 1,466 → 2026-10-28 1,488（+22）
 
 
 ---

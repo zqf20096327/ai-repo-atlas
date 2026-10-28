@@ -1,6 +1,6 @@
 # meer-ai/meer
 
-⭐ 60 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/meer-ai/meer) · [官网](https://meerai.dev) · 组织维护
+⭐ 61 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/meer-ai/meer) · [官网](https://meerai.dev) · 组织维护
 
 **本地优先的开源终端 AI 编程助手，连接本地或远程模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "meer-ai/meer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 59 --> 62
-    line [61, 60, 60]
+    line [61, 60, 61]
 ```
 
-2026-10-18 61 → 2026-10-27 60（-1）
+2026-10-18 61 → 2026-10-28 61（+0）
 
 
 ---

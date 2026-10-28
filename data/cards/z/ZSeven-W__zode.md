@@ -1,6 +1,6 @@
 # ZSeven-W/zode
 
-⭐ 23 · Rust · MIT · 推送 2026-09-26 · [GitHub](https://github.com/ZSeven-W/zode) · 个人维护 · 中文 README
+⭐ 24 · Rust · MIT · 推送 2026-09-26 · [GitHub](https://github.com/ZSeven-W/zode) · 个人维护 · 中文 README
 
 **终端 AI 编程助手 CLI：多模型接入、插件与沙箱执行**
 
@@ -46,12 +46,12 @@ Rust 编写的全屏 TUI 终端编程助手，读取代码、执行命令、搜�
 ```mermaid
 xychart-beta
     title "ZSeven-W/zode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-27 23（+2）
+2026-10-18 21 → 2026-10-28 24（+3）
 
 
 ---

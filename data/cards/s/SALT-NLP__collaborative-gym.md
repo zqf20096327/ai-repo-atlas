@@ -45,13 +45,13 @@ SALT-NLP 维护的 Python 框架，用于构建和评测能与人类协作的 LL
 
 ```mermaid
 xychart-beta
-    title "SALT-NLP/collaborative-gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "SALT-NLP/collaborative-gym 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 162 --> 166
-    line [163, 165]
+    line [163, 165, 165]
 ```
 
-2026-10-18 163 → 2026-10-27 165（+2）
+2026-10-18 163 → 2026-10-28 165（+2）
 
 
 ---

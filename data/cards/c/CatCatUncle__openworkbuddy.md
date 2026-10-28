@@ -1,6 +1,6 @@
 # CatCatUncle/openworkbuddy
 
-⭐ 353 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/CatCatUncle/openworkbuddy) · [官网](https://catcatuncle.github.io/openworkbuddy/) · 个人维护 · 中文 README
+⭐ 363 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/CatCatUncle/openworkbuddy) · [官网](https://catcatuncle.github.io/openworkbuddy/) · 个人维护 · 中文 README
 
 **本机优先的开源 AI 办公助理：一句话生成 PPT/Word/Excel/网页文件**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "CatCatUncle/openworkbuddy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 323 --> 355
-    line [325, 335, 338, 339, 344, 347, 348, 353]
+    title "CatCatUncle/openworkbuddy 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 322 --> 366
+    line [325, 335, 338, 339, 344, 347, 348, 353, 363]
 ```
 
-2026-10-18 325 → 2026-10-27 353（+28）
+2026-10-18 325 → 2026-10-28 363（+38）
 
 
 ---

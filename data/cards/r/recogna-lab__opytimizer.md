@@ -1,6 +1,6 @@
 # recogna-lab/opytimizer
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/recogna-lab/opytimizer) · [官网](https://recogna-lab.github.io/opytimizer/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/recogna-lab/opytimizer) · [官网](https://recogna-lab.github.io/opytimizer/) · 组织维护
 
 **面向科研实验的自然启发元启发式优化 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "recogna-lab/opytimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

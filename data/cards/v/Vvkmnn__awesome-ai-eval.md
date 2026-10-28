@@ -1,6 +1,6 @@
 # Vvkmnn/awesome-ai-eval
 
-⭐ 124 · CC0-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/Vvkmnn/awesome-ai-eval) · 个人维护
+⭐ 126 · CC0-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/Vvkmnn/awesome-ai-eval) · 个人维护
 
 **AI 评测资源清单：LLM、RAG 与 agent 的评测工具与基准目录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Vvkmnn/awesome-ai-eval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 119 --> 125
-    line [120, 122, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 119 --> 127
+    line [120, 122, 123, 124, 126]
 ```
 
-2026-10-18 120 → 2026-10-27 124（+4）
+2026-10-18 120 → 2026-10-28 126（+6）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BigSweetPotatoStudio/HyperChat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "BigSweetPotatoStudio/HyperChat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 706 --> 710
-    line [709, 708, 707]
+    line [709, 708, 707, 707]
 ```
 
-2026-10-18 709 → 2026-10-27 707（-2）
+2026-10-18 709 → 2026-10-28 707（-2）
 
 
 ---

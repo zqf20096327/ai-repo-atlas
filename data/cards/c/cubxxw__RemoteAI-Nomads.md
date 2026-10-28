@@ -1,6 +1,6 @@
 # cubxxw/RemoteAI-Nomads
 
-⭐ 84 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cubxxw/RemoteAI-Nomads) · [官网](https://roamorrow.com/nomads) · 个人维护 · 中文 README
+⭐ 84 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cubxxw/RemoteAI-Nomads) · [官网](https://roamorrow.com/nomads) · 个人维护 · 中文 README
 
 **帮中文远程工作者选旅居城市的排行与选城指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cubxxw/RemoteAI-Nomads 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 81 --> 85
     line [82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-10-27 84（+2）
+2026-10-18 82 → 2026-10-28 84（+2）
 
 
 ---

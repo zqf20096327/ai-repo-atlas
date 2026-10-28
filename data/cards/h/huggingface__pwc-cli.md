@@ -1,6 +1,6 @@
 # huggingface/pwc-cli
 
-⭐ 211 · Python · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
+⭐ 213 · Python · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
 
 **面向人类与 coding agent 的 Papers with Code 论文目录 CLI/Skill/MCP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/pwc-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 205 --> 212
-    line [206, 209, 210, 211, 211]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 205 --> 214
+    line [206, 209, 210, 211, 213]
 ```
 
-2026-10-18 206 → 2026-10-27 211（+5）
+2026-10-18 206 → 2026-10-28 213（+7）
 
 
 ---

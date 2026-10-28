@@ -1,6 +1,6 @@
 # vgtitov/bsl-ai-toolkit
 
-⭐ 35 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/vgtitov/bsl-ai-toolkit) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vgtitov/bsl-ai-toolkit) · 个人维护
 
 **给 1C:Enterprise (BSL) 开发者的 AI agent 工具集：规则/技能/MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vgtitov/bsl-ai-toolkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    title "vgtitov/bsl-ai-toolkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 29 --> 36
-    line [30, 31, 32, 33, 34, 35]
+    line [30, 31, 32, 33, 34, 35, 34]
 ```
 
-2026-10-18 30 → 2026-10-27 35（+5）
+2026-10-18 30 → 2026-10-28 34（+4）
 
 
 ---

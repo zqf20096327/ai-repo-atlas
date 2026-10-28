@@ -1,6 +1,6 @@
 # vbdi/divprune
 
-⭐ 91 · Python · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/vbdi/divprune) · 个人维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/vbdi/divprune) · 个人维护
 
 **面向大型多模态模型的多样性视觉 token 剪枝方法（CVPR 2025）**
 
@@ -46,12 +46,12 @@ CVPR 2025 论文 DivPrune 的官方代码库：基于多样性的视觉 token �
 ```mermaid
 xychart-beta
     title "vbdi/divprune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 92]
 ```
 
-2026-10-18 90 → 2026-10-27 91（+1）
+2026-10-18 90 → 2026-10-28 92（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vllm-project/llm-compressor
 
-⭐ 3,915 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/llm-compressor) · [官网](https://docs.vllm.ai/projects/llm-compressor) · 组织维护 · 中文 README
+⭐ 3,922 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/llm-compressor) · [官网](https://docs.vllm.ai/projects/llm-compressor) · 组织维护 · 中文 README
 
 **面向 vLLM 生产推理的 LLM 量化压缩库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/llm-compressor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3880 --> 3918
-    line [3883, 3886, 3895, 3902, 3908, 3911, 3915]
+    title "vllm-project/llm-compressor 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3880 --> 3925
+    line [3883, 3886, 3895, 3902, 3908, 3911, 3915, 3922]
 ```
 
-2026-10-18 3,883 → 2026-10-27 3,915（+32）
+2026-10-18 3,883 → 2026-10-28 3,922（+39）
 
 
 ---

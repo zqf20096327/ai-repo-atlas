@@ -1,6 +1,6 @@
 # nouverse/nouride-releases
 
-⭐ 25 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/nouverse/nouride-releases) · [官网](nouride.com) · 组织维护
+⭐ 25 · Shell · 推送 2026-10-27 · [GitHub](https://github.com/nouverse/nouride-releases) · [官网](nouride.com) · 组织维护
 
 **面向家庭服务器与迷你设备的单守护进程多 agent AI 引擎**
 
@@ -45,12 +45,12 @@ Nouverse Technologies 开发的单一二进制守护进程，将 Discord、Teleg
 ```mermaid
 xychart-beta
     title "nouverse/nouride-releases 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 17 --> 26
     line [18, 19, 22, 25, 25]
 ```
 
-2026-10-18 18 → 2026-10-27 25（+7）
+2026-10-18 18 → 2026-10-28 25（+7）
 
 
 ---

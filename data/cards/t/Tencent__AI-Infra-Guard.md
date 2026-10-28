@@ -1,6 +1,6 @@
 # Tencent/AI-Infra-Guard
 
-⭐ 7,112 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Tencent/AI-Infra-Guard) · [官网](https://tencent.github.io/AI-Infra-Guard/) · 组织维护 · 中文 README
+⭐ 7,145 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Tencent/AI-Infra-Guard) · [官网](https://tencent.github.io/AI-Infra-Guard/) · 组织维护 · 中文 README
 
 **面向企业/个人的 AI 红队安全平台：扫描 AI 基础设施与 Agent 风险**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/AI-Infra-Guard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6872 --> 7133
-    line [6893, 6915, 6936, 7020, 7076, 7088, 7112]
+    title "Tencent/AI-Infra-Guard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6868 --> 7170
+    line [6893, 6915, 6936, 7020, 7076, 7088, 7112, 7145]
 ```
 
-2026-10-18 6,893 → 2026-10-27 7,112（+219）
+2026-10-18 6,893 → 2026-10-28 7,145（+252）
 
 
 ---

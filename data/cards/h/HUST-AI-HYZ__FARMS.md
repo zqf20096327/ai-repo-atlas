@@ -45,12 +45,12 @@ FARMS（Fixed-Aspect-Ratio Matrix Subsampling）是 ICML 2025 论文 Eigenspectr
 ```mermaid
 xychart-beta
     title "HUST-AI-HYZ/FARMS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

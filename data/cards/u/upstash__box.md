@@ -1,6 +1,6 @@
 # upstash/box
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/upstash/box) · [官网](https://upstash.com/docs/box) · 组织维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/upstash/box) · [官网](https://upstash.com/docs/box) · 组织维护
 
 **Upstash Box 的 TypeScript/Python SDK 与 CLI：沙箱化 AI 编程 agent**
 
@@ -45,12 +45,12 @@ Upstash 官方为 Box 服务（沙箱化 AI 编程 agent，支持流式输出、
 ```mermaid
 xychart-beta
     title "upstash/box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

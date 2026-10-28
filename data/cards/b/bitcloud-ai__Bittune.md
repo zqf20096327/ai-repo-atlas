@@ -1,6 +1,6 @@
 # bitcloud-ai/Bittune
 
-⭐ 96 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/bitcloud-ai/Bittune) · 组织维护 · 中文 README
+⭐ 103 · TypeScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/bitcloud-ai/Bittune) · 组织维护 · 中文 README
 
 **本地推理工程智能体：自然语言驱动 vLLM/SGLang 部署压测调优**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bitcloud-ai/Bittune 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 14 --> 103
-    line [21, 35, 57, 59, 67, 77, 88, 96]
+    title "bitcloud-ai/Bittune 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 13 --> 111
+    line [21, 35, 57, 59, 67, 77, 88, 96, 103]
 ```
 
-2026-10-18 21 → 2026-10-27 96（+75）
+2026-10-18 21 → 2026-10-28 103（+82）
 
 
 ---

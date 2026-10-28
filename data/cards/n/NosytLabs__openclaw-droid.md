@@ -1,6 +1,6 @@
 # NosytLabs/openclaw-droid
 
-⭐ 34 · Shell · MIT · 推送 2026-08-29 · [GitHub](https://github.com/NosytLabs/openclaw-droid) · [官网](https://github.com/NosytLabs/openclaw-droid) · 组织维护
+⭐ 50 · Shell · MIT · 推送 2026-08-29 · [GitHub](https://github.com/NosytLabs/openclaw-droid) · [官网](https://github.com/NosytLabs/openclaw-droid) · 组织维护
 
 **在 Android Termux 上一键安装 OpenClaw AI 网关的脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NosytLabs/openclaw-droid 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 33 --> 51
+    line [34, 50]
 ```
 
-2026-10-26 34 → 2026-10-27 34（+0）
+2026-10-26 34 → 2026-10-28 50（+16）
 
 
 ---

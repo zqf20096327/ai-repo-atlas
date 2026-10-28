@@ -1,6 +1,6 @@
 # BrandPeng/Langchain1.0-Langgraph1.0-Learning
 
-⭐ 690 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) · 个人维护 · 中文 README
+⭐ 691 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning) · 个人维护 · 中文 README
 
 **LangChain 1.0 与 LangGraph 1.0 的中文学习教程仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "BrandPeng/Langchain1.0-Langgraph1.0-Learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 679 --> 691
-    line [680, 682, 684, 687, 688, 690, 690]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 679 --> 692
+    line [680, 682, 684, 687, 688, 690, 691]
 ```
 
-2026-10-18 680 → 2026-10-27 690（+10）
+2026-10-18 680 → 2026-10-28 691（+11）
 
 
 ---

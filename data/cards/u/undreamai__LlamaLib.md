@@ -1,6 +1,6 @@
 # undreamai/LlamaLib
 
-⭐ 73 · C++ · Apache-2.0 · 推送 2026-03-08 · [GitHub](https://github.com/undreamai/LlamaLib) · [官网](https://undream.ai) · 组织维护
+⭐ 74 · C++ · Apache-2.0 · 推送 2026-03-08 · [GitHub](https://github.com/undreamai/LlamaLib) · [官网](https://undream.ai) · 组织维护
 
 **跨平台高级 C++/C# LLM 运行库：PC、移动与 VR 头显上本地运行大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "undreamai/LlamaLib 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 69 --> 74
-    line [70, 71, 72, 73]
+    title "undreamai/LlamaLib 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 73, 74]
 ```
 
-2026-10-18 70 → 2026-10-27 73（+3）
+2026-10-18 70 → 2026-10-28 74（+4）
 
 
 ---

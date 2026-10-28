@@ -1,6 +1,6 @@
 # itsmostafa/qi
 
-⭐ 44 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/itsmostafa/qi) · 个人维护
+⭐ 43 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/itsmostafa/qi) · 个人维护
 
 **本地混合检索 CLI：为 AI agent 与人类提供低 token 消耗的查询引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "itsmostafa/qi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 43（-1）
 
 
 ---

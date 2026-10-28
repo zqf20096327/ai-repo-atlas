@@ -1,6 +1,6 @@
 # sharziki/semdecide
 
-⭐ 81 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sharziki/semdecide) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/sharziki/semdecide) · 个人维护
 
 **Unix 管道用的语义判定 CLI：文本进、谓词/路由/评分/过滤出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sharziki/semdecide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 79 --> 83
-    line [80, 81, 82, 81, 81]
+    line [80, 81, 82, 81, 80]
 ```
 
-2026-10-18 80 → 2026-10-27 81（+1）
+2026-10-18 80 → 2026-10-28 80（+0）
 
 
 ---

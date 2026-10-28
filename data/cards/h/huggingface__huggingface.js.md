@@ -1,6 +1,6 @@
 # huggingface/huggingface.js
 
-⭐ 2,584 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/huggingface.js) · [官网](https://hf.co/docs/huggingface.js) · 组织维护
+⭐ 2,586 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/huggingface.js) · [官网](https://hf.co/docs/huggingface.js) · 组织维护
 
 **Hugging Face 官方 JS 库集：用 JS/TS 接入 Hub 与模型推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/huggingface.js 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2558 --> 2586
-    line [2560, 2566, 2568, 2571, 2575, 2579, 2581, 2584]
+    title "huggingface/huggingface.js 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2558 --> 2588
+    line [2560, 2566, 2568, 2571, 2575, 2579, 2581, 2584, 2586]
 ```
 
-2026-10-18 2,560 → 2026-10-27 2,584（+24）
+2026-10-18 2,560 → 2026-10-28 2,586（+26）
 
 
 ---

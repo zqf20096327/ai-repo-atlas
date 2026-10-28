@@ -1,6 +1,6 @@
 # aerovato/operator-memory
 
-⭐ 481 · TypeScript · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/aerovato/operator-memory) · 个人维护 · 中文 README
+⭐ 484 · TypeScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/aerovato/operator-memory) · 个人维护 · 中文 README
 
 **给编码 Agent 用的自改进上下文/记忆引擎，以 Markdown 沉淀项目知识**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aerovato/operator-memory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 461 --> 482
-    line [462, 468, 471, 476, 478, 481]
+    title "aerovato/operator-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 460 --> 486
+    line [462, 468, 471, 476, 478, 481, 484]
 ```
 
-2026-10-18 462 → 2026-10-27 481（+19）
+2026-10-18 462 → 2026-10-28 484（+22）
 
 
 ---

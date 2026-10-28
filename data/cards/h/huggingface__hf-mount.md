@@ -1,6 +1,6 @@
 # huggingface/hf-mount
 
-⭐ 817 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/hf-mount) · 组织维护
+⭐ 818 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/hf-mount) · 组织维护
 
 **把 Hugging Face 仓库与 Bucket 挂载为本地文件系统的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/hf-mount 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 815 --> 819
-    line [817, 816, 818, 817, 817]
+    line [817, 816, 818, 817, 818]
 ```
 
-2026-10-18 817 → 2026-10-27 817（+0）
+2026-10-18 817 → 2026-10-28 818（+1）
 
 
 ---

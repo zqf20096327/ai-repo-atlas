@@ -1,6 +1,6 @@
 # ucbrise/flor
 
-⭐ 161 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/ucbrise/flor) · [官网](https://rlnsanz.github.io) · 组织维护
+⭐ 161 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ucbrise/flor) · [官网](https://rlnsanz.github.io) · 组织维护
 
 **面向 ML 训练与评估的实验追踪与复盘日志库**
 
@@ -47,12 +47,12 @@ FlorDB 是 Python 实验追踪库：在训练脚本中 import flordb 即可捕�
 ```mermaid
 xychart-beta
     title "ucbrise/flor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 160 --> 162
     line [161, 161]
 ```
 
-2026-10-18 161 → 2026-10-27 161（+0）
+2026-10-18 161 → 2026-10-28 161（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Preamble 公司开源的 AI 安全测试 Electron 桌面应用，面向安全研
 ```mermaid
 xychart-beta
     title "preambleai/prompt-injector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google/oss-fuzz-gen
 
-⭐ 1,444 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/oss-fuzz-gen) · 组织维护
+⭐ 1,446 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google/oss-fuzz-gen) · 组织维护
 
 **用 LLM 为 C/C++/Java/Python 项目生成并评测 fuzz target 的框架**
 
@@ -45,13 +45,13 @@ Google 维护的模糊测试目标生成框架：调用 Vertex AI、Gemini、Ope
 
 ```mermaid
 xychart-beta
-    title "google/oss-fuzz-gen 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 1440 --> 1445
-    line [1442, 1441, 1442, 1443, 1444]
+    title "google/oss-fuzz-gen 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1440 --> 1447
+    line [1442, 1441, 1442, 1443, 1444, 1446]
 ```
 
-2026-10-18 1,442 → 2026-10-27 1,444（+2）
+2026-10-18 1,442 → 2026-10-28 1,446（+4）
 
 
 ---

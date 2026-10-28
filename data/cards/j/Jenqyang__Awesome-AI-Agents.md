@@ -1,6 +1,6 @@
 # Jenqyang/Awesome-AI-Agents
 
-⭐ 1,265 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/Jenqyang/Awesome-AI-Agents) · [官网](https://jenqyang.github.io/Awesome-AI-Agents/) · 个人维护 · 中文 README
+⭐ 1,267 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/Jenqyang/Awesome-AI-Agents) · [官网](https://jenqyang.github.io/Awesome-AI-Agents/) · 个人维护 · 中文 README
 
 **LLM 自主 Agent 项目策展清单：收录各类开源 Agent 应用**
 
@@ -44,12 +44,12 @@ Awesome 类策展清单，收录由 LLM 驱动的自主 Agent 项目，按应用
 ```mermaid
 xychart-beta
     title "Jenqyang/Awesome-AI-Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1263 --> 1267
-    line [1264, 1266, 1265, 1265]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1263 --> 1268
+    line [1264, 1266, 1265, 1267]
 ```
 
-2026-10-18 1,264 → 2026-10-27 1,265（+1）
+2026-10-18 1,264 → 2026-10-28 1,267（+3）
 
 
 ---

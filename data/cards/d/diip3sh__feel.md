@@ -1,6 +1,6 @@
 # diip3sh/feel
 
-⭐ 57 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/diip3sh/feel) · [官网](https://diip3sh.github.io/feel) · 个人维护
+⭐ 58 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/diip3sh/feel) · [官网](https://diip3sh.github.io/feel) · 个人维护
 
 **给 Claude Code 的物理动效技能：描述手感生成弹簧组件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "diip3sh/feel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 46 --> 58
-    line [47, 49, 52, 53, 54, 55, 56, 57]
+    title "diip3sh/feel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 46 --> 59
+    line [47, 49, 52, 53, 54, 55, 56, 57, 58]
 ```
 
-2026-10-18 47 → 2026-10-27 57（+10）
+2026-10-18 47 → 2026-10-28 58（+11）
 
 
 ---

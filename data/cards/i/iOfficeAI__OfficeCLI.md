@@ -1,6 +1,6 @@
 # iOfficeAI/OfficeCLI
 
-⭐ 32,505 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
+⭐ 32,555 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/iOfficeAI/OfficeCLI) · [官网](https://officecli.ai) · 组织维护 · 中文 README
 
 **让 AI Agent 读写并自动化 Word/Excel/PPT 的 CLI 套件**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "iOfficeAI/OfficeCLI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 32068 --> 32544
-    line [32107, 32189, 32265, 32328, 32363, 32391, 32452, 32505]
+    title "iOfficeAI/OfficeCLI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 32063 --> 32599
+    line [32107, 32189, 32265, 32328, 32363, 32391, 32452, 32505, 32555]
 ```
 
-2026-10-18 32,107 → 2026-10-27 32,505（+398）
+2026-10-18 32,107 → 2026-10-28 32,555（+448）
 
 
 ---

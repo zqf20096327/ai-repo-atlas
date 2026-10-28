@@ -1,6 +1,6 @@
 # pdebench/PDEBench
 
-⭐ 1,220 · Python · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/pdebench/PDEBench) · [官网](https://arxiv.org/abs/2210.07182) · 组织维护
+⭐ 1,221 · Python · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/pdebench/PDEBench) · [官网](https://arxiv.org/abs/2210.07182) · 组织维护
 
 **科学机器学习 PDE 基准：数据集生成、下载与基线模型评测**
 
@@ -46,12 +46,12 @@ NeurIPS 2022 论文的配套代码库（SimTech 2023 最佳论文奖），为科
 ```mermaid
 xychart-beta
     title "pdebench/PDEBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1213 --> 1221
-    line [1214, 1218, 1220, 1220]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1213 --> 1222
+    line [1214, 1218, 1220, 1221]
 ```
 
-2026-10-18 1,214 → 2026-10-27 1,220（+6）
+2026-10-18 1,214 → 2026-10-28 1,221（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # kyegomez/HLT
 
-⭐ 66 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kyegomez/HLT) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/HLT) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **人形机器人运动 Transformer 的 PyTorch 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/HLT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-27 66（+0）
+2026-10-18 66 → 2026-10-28 66（+0）
 
 
 ---

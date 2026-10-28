@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/Local-NotebookLM
 
-⭐ 1,039 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) · 个人维护
+⭐ 1,041 · Python · Apache-2.0 · 推送 2026-05-08 · [GitHub](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) · 个人维护
 
 **把 PDF 转成播客等音频内容的本地 AI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Goekdeniz-Guelmez/Local-NotebookLM 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1036 --> 1041
-    line [1037, 1038, 1039, 1040, 1039, 1039]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1036 --> 1042
+    line [1037, 1038, 1039, 1040, 1039, 1041]
 ```
 
-2026-10-18 1,037 → 2026-10-27 1,039（+2）
+2026-10-18 1,037 → 2026-10-28 1,041（+4）
 
 
 ---

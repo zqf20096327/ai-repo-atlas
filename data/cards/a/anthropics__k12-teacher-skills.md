@@ -1,6 +1,6 @@
 # anthropics/k12-teacher-skills
 
-⭐ 592 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/anthropics/k12-teacher-skills) · 组织维护
+⭐ 594 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/anthropics/k12-teacher-skills) · 组织维护
 
 **给 K-12 教师的四个 Claude 代理技能与配套评测框架**
 
@@ -45,13 +45,13 @@ Anthropic 与 Learning Commons 共同开发的教师用 agent 技能源码仓库
 
 ```mermaid
 xychart-beta
-    title "anthropics/k12-teacher-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 567 --> 594
-    line [569, 575, 580, 583, 587, 590, 591, 592]
+    title "anthropics/k12-teacher-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 567 --> 596
+    line [569, 575, 580, 583, 587, 590, 591, 592, 594]
 ```
 
-2026-10-18 569 → 2026-10-27 592（+23）
+2026-10-18 569 → 2026-10-28 594（+25）
 
 
 ---

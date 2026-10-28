@@ -1,6 +1,6 @@
 # sky-valley/pi
 
-⭐ 80 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sky-valley/pi) · 个人维护
+⭐ 81 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sky-valley/pi) · 个人维护
 
 **pi agent 工具链的纯 Go 移植：多供应商 LLM API 与编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sky-valley/pi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 77 --> 82
+    line [78, 79, 80, 81]
 ```
 
-2026-10-18 78 → 2026-10-27 80（+2）
+2026-10-18 78 → 2026-10-28 81（+3）
 
 
 ---

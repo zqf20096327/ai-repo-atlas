@@ -1,6 +1,6 @@
 # MaraScott/ComfyUI_MaraScott_Nodes
 
-⭐ 180 · Python · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/MaraScott/ComfyUI_MaraScott_Nodes) · [官网](https://www.marascott.ai/) · 个人维护
+⭐ 181 · Python · NOASSERTION · 推送 2025-11-12 · [GitHub](https://github.com/MaraScott/ComfyUI_MaraScott_Nodes) · [官网](https://www.marascott.ai/) · 个人维护
 
 **ComfyUI 社区节点集：通用总线管理与逐块放大/细化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaraScott/ComfyUI_MaraScott_Nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 179 --> 182
+    line [180, 181]
 ```
 
-2026-10-18 180 → 2026-10-27 180（+0）
+2026-10-18 180 → 2026-10-28 181（+1）
 
 
 ---

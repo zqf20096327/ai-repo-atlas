@@ -1,6 +1,6 @@
 # code-yeongyu/senpi
 
-⭐ 496 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/code-yeongyu/senpi) · 个人维护
+⭐ 499 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/code-yeongyu/senpi) · 个人维护
 
 **pi-mono 的分叉：TypeScript 编码 agent 运行时，内置扩展集**
 
@@ -44,13 +44,13 @@ senpi 是 badlogic/pi-mono 的观点性分叉，将上游编码 agent 品牌化�
 
 ```mermaid
 xychart-beta
-    title "code-yeongyu/senpi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 483 --> 497
-    line [484, 485, 487, 488, 489, 495, 496]
+    title "code-yeongyu/senpi 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 483 --> 500
+    line [484, 485, 487, 488, 489, 495, 496, 499]
 ```
 
-2026-10-18 484 → 2026-10-27 496（+12）
+2026-10-18 484 → 2026-10-28 499（+15）
 
 
 ---

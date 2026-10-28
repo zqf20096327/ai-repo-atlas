@@ -1,6 +1,6 @@
 # Li-Evan/Bloom
 
-⭐ 292 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Li-Evan/Bloom) · [官网](https://bloomtutor.app) · 个人维护 · 中文 README
+⭐ 293 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Li-Evan/Bloom) · [官网](https://bloomtutor.app) · 个人维护 · 中文 README
 
 **自适应 1 对 1 AI 家教：生成大纲与课程并按反馈调整**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Li-Evan/Bloom 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 286 --> 293
-    line [287, 289, 290, 292, 292]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 286 --> 294
+    line [287, 289, 290, 292, 293]
 ```
 
-2026-10-18 287 → 2026-10-27 292（+5）
+2026-10-18 287 → 2026-10-28 293（+6）
 
 
 ---

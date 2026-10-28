@@ -1,6 +1,6 @@
 # ahmdd4vd/MotionCraft
 
-⭐ 22 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/ahmdd4vd/MotionCraft) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/ahmdd4vd/MotionCraft) · 个人维护
 
 **让 AI agent 用 Remotion 生成动效解说视频的 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahmdd4vd/MotionCraft 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 14 --> 23
-    line [15, 16, 18, 19, 20, 21, 22]
+    title "ahmdd4vd/MotionCraft 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 14 --> 24
+    line [15, 16, 18, 19, 20, 21, 22, 23]
 ```
 
-2026-10-18 15 → 2026-10-27 22（+7）
+2026-10-18 15 → 2026-10-28 23（+8）
 
 
 ---

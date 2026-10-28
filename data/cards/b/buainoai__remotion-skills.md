@@ -1,6 +1,6 @@
 # buainoai/remotion-skills
 
-⭐ 143 · TypeScript · 推送 2026-01-30 · [GitHub](https://github.com/buainoai/remotion-skills) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · 推送 2026-01-30 · [GitHub](https://github.com/buainoai/remotion-skills) · 个人维护 · 中文 README
 
 **面向 AI 代理的 Remotion 视频开发技能与最佳实践库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "buainoai/remotion-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 127 --> 144
-    line [128, 135, 139, 140, 141, 143]
+    title "buainoai/remotion-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 127 --> 146
+    line [128, 135, 139, 140, 141, 143, 145]
 ```
 
-2026-10-18 128 → 2026-10-27 143（+15）
+2026-10-18 128 → 2026-10-28 145（+17）
 
 
 ---

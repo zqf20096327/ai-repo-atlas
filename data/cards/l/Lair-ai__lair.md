@@ -1,6 +1,6 @@
 # Lair-ai/lair
 
-⭐ 67 · Shell · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/Lair-ai/lair) · [官网](https://dev.lair-ai.it) · 组织维护
+⭐ 67 · Shell · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Lair-ai/lair) · [官网](https://dev.lair-ai.it) · 组织维护
 
 **自托管的私有 AI 基础设施平台：Kubernetes 上一键部署完整 AI 栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lair-ai/lair 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 65 --> 68
     line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-10-27 67（+1）
+2026-10-18 66 → 2026-10-28 67（+1）
 
 
 ---

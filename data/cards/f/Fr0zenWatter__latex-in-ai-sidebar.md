@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fr0zenWatter/latex-in-ai-sidebar 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27"]
+    title "Fr0zenWatter/latex-in-ai-sidebar 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 34 --> 42
-    line [41, 35, 37]
+    line [41, 35, 37, 37]
 ```
 
-2026-10-22 41 → 2026-10-27 37（-4）
+2026-10-22 41 → 2026-10-28 37（-4）
 
 
 ---

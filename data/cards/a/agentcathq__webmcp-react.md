@@ -1,6 +1,6 @@
 # agentcathq/webmcp-react
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/agentcathq/webmcp-react) · 组织维护
+⭐ 92 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/agentcathq/webmcp-react) · 组织维护
 
 **让 React 应用把功能暴露为 WebMCP 工具供 AI agent 调用的 hooks 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentcathq/webmcp-react 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 89 --> 93
     line [90, 91, 92, 92]
 ```
 
-2026-10-18 90 → 2026-10-27 92（+2）
+2026-10-18 90 → 2026-10-28 92（+2）
 
 
 ---

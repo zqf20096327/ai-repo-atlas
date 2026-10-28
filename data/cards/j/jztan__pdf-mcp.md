@@ -1,6 +1,6 @@
 # jztan/pdf-mcp
 
-⭐ 157 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jztan/pdf-mcp) · [官网](https://pdf-mcp.jztan.com) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jztan/pdf-mcp) · [官网](https://pdf-mcp.jztan.com) · 个人维护
 
 **让 AI agent 检索与阅读大型 PDF 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jztan/pdf-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 151 --> 158
-    line [152, 154, 155, 156, 157]
+    title "jztan/pdf-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 151 --> 161
+    line [152, 154, 155, 156, 157, 160]
 ```
 
-2026-10-18 152 → 2026-10-27 157（+5）
+2026-10-18 152 → 2026-10-28 160（+8）
 
 
 ---

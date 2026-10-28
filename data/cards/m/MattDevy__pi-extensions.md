@@ -1,6 +1,6 @@
 # MattDevy/pi-extensions
 
-⭐ 154 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MattDevy/pi-extensions) · [官网](https://mattdevy.github.io/home) · 个人维护
+⭐ 155 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/MattDevy/pi-extensions) · [官网](https://mattdevy.github.io/home) · 个人维护
 
 **Pi 编码代理扩展合集：持续学习、TDD、代码评审等**
 
@@ -44,13 +44,13 @@ TypeScript monorepo，收录 6 个面向 Pi 编码代理的扩展包，独立发
 
 ```mermaid
 xychart-beta
-    title "MattDevy/pi-extensions 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 150 --> 155
-    line [151, 152, 151, 152, 153, 154]
+    title "MattDevy/pi-extensions 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 150 --> 156
+    line [151, 152, 151, 152, 153, 154, 155]
 ```
 
-2026-10-18 151 → 2026-10-27 154（+3）
+2026-10-18 151 → 2026-10-28 155（+4）
 
 
 ---

@@ -43,13 +43,13 @@ Happy Transformer 是一个封装 Hugging Face 生态的 Python 库，提供文�
 
 ```mermaid
 xychart-beta
-    title "EricFillion/happy-transformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    title "EricFillion/happy-transformer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 544 --> 548
-    line [545, 546, 547]
+    line [545, 546, 547, 547]
 ```
 
-2026-10-18 545 → 2026-10-27 547（+2）
+2026-10-18 545 → 2026-10-28 547（+2）
 
 
 ---

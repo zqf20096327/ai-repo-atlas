@@ -1,6 +1,6 @@
 # bydeng01/student-gpt-tools
 
-⭐ 88 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/bydeng01/student-gpt-tools) · 个人维护 · 中文 README
+⭐ 88 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bydeng01/student-gpt-tools) · 个人维护 · 中文 README
 
 **面向学生的 GPT/AI 工具策展清单（写作/学习/科研/编程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bydeng01/student-gpt-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 87 --> 90
     line [88, 89, 88, 88]
 ```
 
-2026-10-18 88 → 2026-10-27 88（+0）
+2026-10-18 88 → 2026-10-28 88（+0）
 
 
 ---

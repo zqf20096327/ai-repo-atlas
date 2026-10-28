@@ -1,6 +1,6 @@
 # KKKKhazix/khazix-skills
 
-⭐ 21,669 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/KKKKhazix/khazix-skills) · 个人维护 · 中文 README
+⭐ 21,690 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/KKKKhazix/khazix-skills) · 个人维护 · 中文 README
 
 **个人开源的 Agent Skills 合集，给 Claude Code 等 40+ Agent 装载使用**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "KKKKhazix/khazix-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 21462 --> 21687
-    line [21480, 21509, 21590, 21610, 21619, 21654, 21669]
+    title "KKKKhazix/khazix-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 21459 --> 21711
+    line [21480, 21509, 21590, 21610, 21619, 21654, 21669, 21690]
 ```
 
-2026-10-18 21,480 → 2026-10-27 21,669（+189）
+2026-10-18 21,480 → 2026-10-28 21,690（+210）
 
 
 ---

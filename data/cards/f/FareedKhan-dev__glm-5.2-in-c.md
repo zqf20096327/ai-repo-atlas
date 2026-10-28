@@ -1,6 +1,6 @@
 # FareedKhan-dev/glm-5.2-in-c
 
-⭐ 76 · C · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/FareedKhan-dev/glm-5.2-in-c) · [官网](https://medium.com/@fareedkhandev/77a3df56e7b4) · 个人维护
+⭐ 75 · C · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/FareedKhan-dev/glm-5.2-in-c) · [官网](https://medium.com/@fareedkhandev/77a3df56e7b4) · 个人维护
 
 **纯 C 推理引擎：让 744B GLM-5.2 在消费级硬件上运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/glm-5.2-in-c 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 73 --> 77
-    line [74, 75, 76, 76]
+    line [74, 75, 76, 75]
 ```
 
-2026-10-18 74 → 2026-10-27 76（+2）
+2026-10-18 74 → 2026-10-28 75（+1）
 
 
 ---

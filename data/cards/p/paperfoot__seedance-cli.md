@@ -1,6 +1,6 @@
 # paperfoot/seedance-cli
 
-⭐ 28 · Rust · MIT · 推送 2026-08-08 · [GitHub](https://github.com/paperfoot/seedance-cli) · [官网](https://crates.io/crates/seedance) · 个人维护 · 中文 README
+⭐ 27 · Rust · MIT · 推送 2026-08-08 · [GitHub](https://github.com/paperfoot/seedance-cli) · [官网](https://crates.io/crates/seedance) · 个人维护 · 中文 README
 
 **终端调用 ByteDance Seedance 生成 AI 视频的 Rust CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "paperfoot/seedance-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 27（-1）
 
 
 ---

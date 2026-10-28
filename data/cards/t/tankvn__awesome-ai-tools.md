@@ -1,6 +1,6 @@
 # tankvn/awesome-ai-tools
 
-⭐ 353 · 推送 2026-09-12 · [GitHub](https://github.com/tankvn/awesome-ai-tools) · 个人维护
+⭐ 352 · 推送 2026-09-12 · [GitHub](https://github.com/tankvn/awesome-ai-tools) · 个人维护
 
 **收录 7766 个 AI 工具的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tankvn/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 350 --> 354
-    line [351, 352, 353, 353]
+    line [351, 352, 353, 352]
 ```
 
-2026-10-18 351 → 2026-10-27 353（+2）
+2026-10-18 351 → 2026-10-28 352（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cottman99/AI_RFIC_workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "cottman99/AI_RFIC_workflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 23 --> 26
-    line [24, 25]
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 25（+1）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

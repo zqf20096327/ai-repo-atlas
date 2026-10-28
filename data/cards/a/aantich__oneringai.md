@@ -1,6 +1,6 @@
 # aantich/oneringai
 
-⭐ 73 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/aantich/oneringai) · [官网](https://oneringai.io) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aantich/oneringai) · [官网](https://oneringai.io) · 组织维护
 
 **统一多厂商 AI agent TypeScript 库：文本/图像/音频/工作流一体化**
 
@@ -46,12 +46,12 @@ TypeScript 编写的统一 AI agent 库，以 connector-first 认证方式接入
 ```mermaid
 xychart-beta
     title "aantich/oneringai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-27 73（+0）
+2026-10-18 73 → 2026-10-28 73（+0）
 
 
 ---

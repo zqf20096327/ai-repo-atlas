@@ -1,6 +1,6 @@
 # speedydivid/TokenForge
 
-⭐ 30 · JavaScript · 推送 2026-10-17 · [GitHub](https://github.com/speedydivid/TokenForge) · 个人维护
+⭐ 31 · JavaScript · 推送 2026-10-17 · [GitHub](https://github.com/speedydivid/TokenForge) · 个人维护
 
 **优化 AI 编程代理上下文的开源引擎：压缩工具输出并持久化会话记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "speedydivid/TokenForge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 30, 30]
+    line [30, 31, 30, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

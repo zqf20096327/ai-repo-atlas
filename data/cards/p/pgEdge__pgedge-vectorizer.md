@@ -45,12 +45,12 @@ PostgreSQL 扩展，通过触发器与后台 worker 对已有表的文本列做�
 ```mermaid
 xychart-beta
     title "pgEdge/pgedge-vectorizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

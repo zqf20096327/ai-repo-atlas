@@ -1,6 +1,6 @@
 # sosadly/blockbench-mcp
 
-⭐ 45 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sosadly/blockbench-mcp) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sosadly/blockbench-mcp) · 个人维护
 
 **让 AI 助手直接操作 Blockbench 制作 Minecraft 模型的 MCP server**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sosadly/blockbench-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 35 --> 46
-    line [36, 37, 38, 39, 40, 43, 45]
+    title "sosadly/blockbench-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 35 --> 48
+    line [36, 37, 38, 39, 40, 43, 45, 47]
 ```
 
-2026-10-18 36 → 2026-10-27 45（+9）
+2026-10-18 36 → 2026-10-28 47（+11）
 
 
 ---

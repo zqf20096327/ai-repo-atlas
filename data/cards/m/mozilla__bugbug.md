@@ -1,6 +1,6 @@
 # mozilla/bugbug
 
-⭐ 576 · Python · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mozilla/bugbug) · 组织维护
+⭐ 576 · Python · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mozilla/bugbug) · 组织维护
 
 **面向软件工程的机器学习平台：bug 分类与缺陷预测**
 
@@ -45,13 +45,13 @@ Mozilla 维护的软件工程机器学习平台，提供约 18 个分类器用�
 
 ```mermaid
 xychart-beta
-    title "mozilla/bugbug 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "mozilla/bugbug 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 575 --> 578
-    line [576, 577, 576]
+    line [576, 577, 576, 576]
 ```
 
-2026-10-18 576 → 2026-10-27 576（+0）
+2026-10-18 576 → 2026-10-28 576（+0）
 
 
 ---

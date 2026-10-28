@@ -1,6 +1,6 @@
 # kyegomez/MoE-Mamba
 
-⭐ 131 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kyegomez/MoE-Mamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/MoE-Mamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **MoE-Mamba 论文的 PyTorch/Zeta 模型实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/MoE-Mamba 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 130 --> 133
     line [132, 131, 131]
 ```
 
-2026-10-18 132 → 2026-10-27 131（-1）
+2026-10-18 132 → 2026-10-28 131（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # free-cracks/Adobe-Acrobat-Pro
 
-⭐ 287 · 推送 2026-10-26 · [GitHub](https://github.com/free-cracks/Adobe-Acrobat-Pro) · 个人维护
+⭐ 288 · 推送 2026-10-26 · [GitHub](https://github.com/free-cracks/Adobe-Acrobat-Pro) · 个人维护
 
 **Windows 上 Adobe Acrobat Pro 的预激活独立部署脚本包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "free-cracks/Adobe-Acrobat-Pro 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 286 --> 288
-    line [287, 287]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 286 --> 289
+    line [287, 288]
 ```
 
-2026-10-26 287 → 2026-10-27 287（+0）
+2026-10-26 287 → 2026-10-28 288（+1）
 
 
 ---

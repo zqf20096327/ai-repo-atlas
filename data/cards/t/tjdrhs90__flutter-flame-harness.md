@@ -1,6 +1,6 @@
 # tjdrhs90/flutter-flame-harness
 
-⭐ 61 · Shell · MIT · 推送 2026-09-01 · [GitHub](https://github.com/tjdrhs90/flutter-flame-harness) · 个人维护
+⭐ 61 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tjdrhs90/flutter-flame-harness) · 个人维护
 
 **Claude Code 插件：把 Flutter/Flame 游戏从创意推进到应用商店上架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tjdrhs90/flutter-flame-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-27 61（+0）
+2026-10-18 61 → 2026-10-28 61（+0）
 
 
 ---

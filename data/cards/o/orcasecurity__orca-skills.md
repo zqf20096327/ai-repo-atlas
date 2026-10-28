@@ -1,6 +1,6 @@
 # orcasecurity/orca-skills
 
-⭐ 55 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/orcasecurity/orca-skills) · [官网](https://orca.security/) · 组织维护
+⭐ 56 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/orcasecurity/orca-skills) · [官网](https://orca.security/) · 组织维护
 
 **Orca 云安全平台的 agent 技能与插件集，用于安全工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "orcasecurity/orca-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-10-18 54 → 2026-10-27 55（+1）
+2026-10-18 54 → 2026-10-28 56（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # alessiodm/drl-zh
 
-⭐ 2,294 · Jupyter Notebook · MIT · 推送 2026-05-26 · [GitHub](https://github.com/alessiodm/drl-zh) · 个人维护
+⭐ 2,293 · Jupyter Notebook · MIT · 推送 2026-05-26 · [GitHub](https://github.com/alessiodm/drl-zh) · 个人维护
 
 **动手实现深度强化学习算法的课程（含 AI 答疑助手）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alessiodm/drl-zh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2293 --> 2295
-    line [2294, 2294]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2292 --> 2295
+    line [2294, 2293]
 ```
 
-2026-10-18 2,294 → 2026-10-27 2,294（+0）
+2026-10-18 2,294 → 2026-10-28 2,293（-1）
 
 
 ---

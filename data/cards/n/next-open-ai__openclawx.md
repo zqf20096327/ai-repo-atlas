@@ -1,6 +1,6 @@
 # next-open-ai/openclawx
 
-⭐ 56 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/next-open-ai/openclawx) · 组织维护 · 中文 README
+⭐ 55 · TypeScript · 推送 2026-10-20 · [GitHub](https://github.com/next-open-ai/openclawx) · 组织维护 · 中文 README
 
 **跨平台本地优先的桌面级「数字员工」AI Agent 工作台**
 
@@ -45,12 +45,12 @@ OpenClawX 是 Electron + Vue + Fastify 构建的桌面 Agent 工作台：用户�
 ```mermaid
 xychart-beta
     title "next-open-ai/openclawx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 54 --> 57
+    line [56, 55]
 ```
 
-2026-10-18 56 → 2026-10-27 56（+0）
+2026-10-18 56 → 2026-10-28 55（-1）
 
 
 ---

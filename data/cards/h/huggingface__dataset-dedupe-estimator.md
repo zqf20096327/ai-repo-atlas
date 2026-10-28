@@ -1,6 +1,6 @@
 # huggingface/dataset-dedupe-estimator
 
-⭐ 27 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/dataset-dedupe-estimator) · 组织维护
+⭐ 27 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/dataset-dedupe-estimator) · 组织维护
 
 **估算 parquet 文件集内容定义分块去重收益的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/dataset-dedupe-estimator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

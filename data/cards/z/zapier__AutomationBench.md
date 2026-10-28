@@ -1,6 +1,6 @@
 # zapier/AutomationBench
 
-⭐ 357 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/zapier/AutomationBench) · [官网](https://zapier.com/benchmarks) · 组织维护
+⭐ 359 · Python · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/zapier/AutomationBench) · [官网](https://zapier.com/benchmarks) · 组织维护
 
 **评估 AI agent 完成真实业务流程能力的基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zapier/AutomationBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 340 --> 358
-    line [341, 342, 352, 354, 353, 357]
+    title "zapier/AutomationBench 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 340 --> 360
+    line [341, 342, 352, 354, 353, 357, 359]
 ```
 
-2026-10-18 341 → 2026-10-27 357（+16）
+2026-10-18 341 → 2026-10-28 359（+18）
 
 
 ---

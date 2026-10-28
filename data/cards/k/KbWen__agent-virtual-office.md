@@ -1,6 +1,6 @@
 # KbWen/agent-virtual-office
 
-⭐ 60 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/KbWen/agent-virtual-office) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/KbWen/agent-virtual-office) · 个人维护 · 中文 README
 
 **在浏览器像素办公室里实时观看 AI 编程 Agent 工作状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KbWen/agent-virtual-office 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 45 --> 61
-    line [46, 49, 52, 53, 54, 57, 60]
+    title "KbWen/agent-virtual-office 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 45 --> 63
+    line [46, 49, 52, 53, 54, 57, 60, 62]
 ```
 
-2026-10-18 46 → 2026-10-27 60（+14）
+2026-10-18 46 → 2026-10-28 62（+16）
 
 
 ---

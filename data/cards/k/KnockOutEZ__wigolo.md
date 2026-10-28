@@ -1,6 +1,6 @@
 # KnockOutEZ/wigolo
 
-⭐ 5,503 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/KnockOutEZ/wigolo) · [官网](https://wigolo.app) · 个人维护
+⭐ 5,507 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/KnockOutEZ/wigolo) · [官网](https://wigolo.app) · 个人维护
 
 **面向 AI 编程代理的本地优先网络搜索/抓取/爬取 MCP 工具服务器**
 
@@ -44,13 +44,13 @@ wigolo 为 AI coding agent 与自托管 agent 提供统一的网络访问层：�
 
 ```mermaid
 xychart-beta
-    title "KnockOutEZ/wigolo 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5480 --> 5505
-    line [5482, 5489, 5497, 5500, 5502, 5500, 5502, 5503]
+    title "KnockOutEZ/wigolo 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5480 --> 5509
+    line [5482, 5489, 5497, 5500, 5502, 5500, 5502, 5503, 5507]
 ```
 
-2026-10-18 5,482 → 2026-10-27 5,503（+21）
+2026-10-18 5,482 → 2026-10-28 5,507（+25）
 
 
 ---

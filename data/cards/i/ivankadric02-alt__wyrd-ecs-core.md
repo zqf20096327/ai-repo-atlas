@@ -1,6 +1,6 @@
 # ivankadric02-alt/wyrd-ecs-core
 
-⭐ 120 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/ivankadric02-alt/wyrd-ecs-core) · 个人维护
+⭐ 119 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/ivankadric02-alt/wyrd-ecs-core) · 个人维护
 
 **面向 AI 世界模型的 ECS 实时数据架构方案（概念蓝图）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ivankadric02-alt/wyrd-ecs-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 117 --> 121
-    line [118, 120, 120]
+    line [118, 120, 119]
 ```
 
-2026-10-18 118 → 2026-10-27 120（+2）
+2026-10-18 118 → 2026-10-28 119（+1）
 
 
 ---

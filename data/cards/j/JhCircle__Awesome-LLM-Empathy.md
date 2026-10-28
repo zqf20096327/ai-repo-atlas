@@ -1,6 +1,6 @@
 # JhCircle/Awesome-LLM-Empathy
 
-⭐ 84 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/JhCircle/Awesome-LLM-Empathy) · [官网](https://arxiv.org/abs/2512.01282) · 个人维护
+⭐ 83 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/JhCircle/Awesome-LLM-Empathy) · [官网](https://arxiv.org/abs/2512.01282) · 个人维护
 
 **LLM 共情研究论文清单：理论、对话系统、情感、评测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JhCircle/Awesome-LLM-Empathy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 82 --> 85
+    line [84, 83]
 ```
 
-2026-10-18 84 → 2026-10-27 84（+0）
+2026-10-18 84 → 2026-10-28 83（-1）
 
 
 ---

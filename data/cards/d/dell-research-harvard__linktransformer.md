@@ -1,6 +1,6 @@
 # dell-research-harvard/linktransformer
 
-⭐ 147 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/dell-research-harvard/linktransformer) · [官网](https://linktransformer.github.io/) · 组织维护
+⭐ 148 · Python · GPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/dell-research-harvard/linktransformer) · [官网](https://linktransformer.github.io/) · 组织维护
 
 **面向表格数据的语义记录链接与去重 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dell-research-harvard/linktransformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 145 --> 148
-    line [146, 147, 147]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 145 --> 149
+    line [146, 147, 148]
 ```
 
-2026-10-18 146 → 2026-10-27 147（+1）
+2026-10-18 146 → 2026-10-28 148（+2）
 
 
 ---

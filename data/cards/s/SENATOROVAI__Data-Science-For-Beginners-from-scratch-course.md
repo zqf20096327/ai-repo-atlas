@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SENATOROVAI/Data-Science-For-Beginners-from-scratch-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "SENATOROVAI/Data-Science-For-Beginners-from-scratch-course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 208 --> 213
-    line [209, 210, 211, 212]
+    line [209, 210, 211, 212, 212]
 ```
 
-2026-10-18 209 → 2026-10-27 212（+3）
+2026-10-18 209 → 2026-10-28 212（+3）
 
 
 ---

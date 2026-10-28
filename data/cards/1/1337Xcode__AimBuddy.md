@@ -1,6 +1,6 @@
 # 1337Xcode/AimBuddy
 
-⭐ 65 · C++ · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/1337Xcode/AimBuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护 · 中文 README
+⭐ 66 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/1337Xcode/AimBuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护 · 中文 README
 
 **Android 端实时目标检测辅助应用，供视障玩家检测和追踪对手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "1337Xcode/AimBuddy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 59 --> 66
-    line [60, 61, 64, 65, 65]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 59 --> 67
+    line [60, 61, 64, 65, 66]
 ```
 
-2026-10-18 60 → 2026-10-27 65（+5）
+2026-10-18 60 → 2026-10-28 66（+6）
 
 
 ---

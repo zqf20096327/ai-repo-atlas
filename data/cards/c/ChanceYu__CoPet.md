@@ -1,6 +1,6 @@
 # ChanceYu/CoPet
 
-⭐ 40 · Rust · MIT · 推送 2026-07-15 · [GitHub](https://github.com/ChanceYu/CoPet) · 个人维护 · 中文 README
+⭐ 41 · Rust · MIT · 推送 2026-07-15 · [GitHub](https://github.com/ChanceYu/CoPet) · 个人维护 · 中文 README
 
 **桌面宠物：实时响应 AI Agent 编码活动的伴侣应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChanceYu/CoPet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 36 --> 41
-    line [37, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 36 --> 42
+    line [37, 40, 41]
 ```
 
-2026-10-18 37 → 2026-10-27 40（+3）
+2026-10-18 37 → 2026-10-28 41（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Work-Fisher/ComfyUI-Fisher-Pose
 
-⭐ 251 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Work-Fisher/ComfyUI-Fisher-Pose) · 个人维护 · 中文 README
+⭐ 252 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Work-Fisher/ComfyUI-Fisher-Pose) · 个人维护 · 中文 README
 
 **ComfyUI 姿势与机位编辑插件，配合 Qwen Image 生成**
 
@@ -45,13 +45,13 @@ ComfyUI 自定义节点，面向使用 Qwen Image 2.1 生图的创作者：提�
 
 ```mermaid
 xychart-beta
-    title "Work-Fisher/ComfyUI-Fisher-Pose 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 210 --> 254
-    line [213, 225, 237, 240, 243, 244, 248, 251]
+    title "Work-Fisher/ComfyUI-Fisher-Pose 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 210 --> 255
+    line [213, 225, 237, 240, 243, 244, 248, 251, 252]
 ```
 
-2026-10-18 213 → 2026-10-27 251（+38）
+2026-10-18 213 → 2026-10-28 252（+39）
 
 
 ---

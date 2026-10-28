@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bobby-Gray/open-tabletop-gm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Bobby-Gray/open-tabletop-gm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 58 --> 62
-    line [59, 61]
+    line [59, 61, 61]
 ```
 
-2026-10-18 59 → 2026-10-27 61（+2）
+2026-10-18 59 → 2026-10-28 61（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anionex/banana-slides
 
-⭐ 15,880 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
+⭐ 15,894 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
 
 **基于图像生成模型的原生 AI PPT 生成应用，几分钟生成可编辑幻灯片**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anionex/banana-slides 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15759 --> 15891
-    line [15770, 15784, 15833, 15849, 15861, 15870, 15880]
+    title "Anionex/banana-slides 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 15758 --> 15906
+    line [15770, 15784, 15833, 15849, 15861, 15870, 15880, 15894]
 ```
 
-2026-10-18 15,770 → 2026-10-27 15,880（+110）
+2026-10-18 15,770 → 2026-10-28 15,894（+124）
 
 
 ---

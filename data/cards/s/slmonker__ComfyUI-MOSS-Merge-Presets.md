@@ -1,6 +1,6 @@
 # slmonker/ComfyUI-MOSS-Merge-Presets
 
-⭐ 22 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/slmonker/ComfyUI-MOSS-Merge-Presets) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/slmonker/ComfyUI-MOSS-Merge-Presets) · 个人维护 · 中文 README
 
 **ComfyUI 节点：可复现预设或逐层合并 MOSS-Image Base 与 SFT**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "slmonker/ComfyUI-MOSS-Merge-Presets 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 21 --> 34
+    line [22, 33]
 ```
 
-2026-10-26 22 → 2026-10-27 22（+0）
+2026-10-26 22 → 2026-10-28 33（+11）
 
 
 ---

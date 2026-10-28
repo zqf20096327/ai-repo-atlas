@@ -1,6 +1,6 @@
 # posit-dev/btw
 
-⭐ 143 · R · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/posit-dev/btw) · [官网](https://posit-dev.github.io/btw/) · 组织维护
+⭐ 144 · R · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/posit-dev/btw) · [官网](https://posit-dev.github.io/btw/) · 组织维护
 
 **R 与 LLM 连接工具包：为 R 会话提供上下文与 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "posit-dev/btw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 140 --> 144
-    line [141, 142, 143, 143]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 140 --> 145
+    line [141, 142, 143, 144]
 ```
 
-2026-10-18 141 → 2026-10-27 143（+2）
+2026-10-18 141 → 2026-10-28 144（+3）
 
 
 ---

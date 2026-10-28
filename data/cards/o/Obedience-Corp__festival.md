@@ -1,6 +1,6 @@
 # Obedience-Corp/festival
 
-⭐ 88 · Shell · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Obedience-Corp/festival) · [官网](https://fest.build) · 组织维护 · 中文 README
+⭐ 88 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Obedience-Corp/festival) · [官网](https://fest.build) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的工作流编排框架，用文件系统与 Git 组织意图与任务循环**
 
@@ -45,12 +45,12 @@ Festival 是一套 vibe engineering 框架，由 camp、fest、festival 三个 C
 ```mermaid
 xychart-beta
     title "Obedience-Corp/festival 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 72 --> 89
     line [73, 76, 79, 83, 84, 88, 88]
 ```
 
-2026-10-18 73 → 2026-10-27 88（+15）
+2026-10-18 73 → 2026-10-28 88（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # WantongC/journal-adapt-writing-skill
 
-⭐ 765 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/WantongC/journal-adapt-writing-skill) · 个人维护
+⭐ 766 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/WantongC/journal-adapt-writing-skill) · 个人维护
 
 **从目标期刊论文语料学习写作规范并逐节修改稿件的 agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WantongC/journal-adapt-writing-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 760 --> 766
-    line [761, 762, 765, 765]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 760 --> 767
+    line [761, 762, 765, 766]
 ```
 
-2026-10-18 761 → 2026-10-27 765（+4）
+2026-10-18 761 → 2026-10-28 766（+5）
 
 
 ---

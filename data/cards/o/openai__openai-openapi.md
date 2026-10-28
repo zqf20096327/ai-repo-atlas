@@ -1,6 +1,6 @@
 # openai/openai-openapi
 
-⭐ 2,557 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openai/openai-openapi) · [官网](https://platform.openai.com/docs/api-reference/introduction) · 组织维护
+⭐ 2,557 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/openai/openai-openapi) · [官网](https://platform.openai.com/docs/api-reference/introduction) · 组织维护
 
 **OpenAI REST API 的 OpenAPI 3.1 规范文档仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-openapi 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "openai/openai-openapi 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2550 --> 2559
-    line [2551, 2552, 2554, 2555, 2556, 2555, 2558, 2557]
+    line [2551, 2552, 2554, 2555, 2556, 2555, 2558, 2557, 2557]
 ```
 
-2026-10-18 2,551 → 2026-10-27 2,557（+6）
+2026-10-18 2,551 → 2026-10-28 2,557（+6）
 
 
 ---

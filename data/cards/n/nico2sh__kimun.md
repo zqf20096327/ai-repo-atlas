@@ -1,6 +1,6 @@
 # nico2sh/kimun
 
-⭐ 63 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nico2sh/kimun) · [官网](https://nico2sh.github.io/kimun/) · 个人维护
+⭐ 64 · Rust · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nico2sh/kimun) · [官网](https://nico2sh.github.io/kimun/) · 个人维护
 
 **本地优先的终端 Markdown 笔记应用，带 MCP 与可选 RAG 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nico2sh/kimun 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 59 --> 65
+    line [60, 61, 62, 63, 64]
 ```
 
-2026-10-18 60 → 2026-10-27 63（+3）
+2026-10-18 60 → 2026-10-28 64（+4）
 
 
 ---

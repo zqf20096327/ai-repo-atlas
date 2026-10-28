@@ -1,6 +1,6 @@
 # HughYau/AcademicForge
 
-⭐ 2,609 · Python · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/HughYau/AcademicForge) · [官网](http://hughyau.com/AcademicForge/) · 个人维护 · 中文 README
+⭐ 2,612 · Python · NOASSERTION · 推送 2026-08-30 · [GitHub](https://github.com/HughYau/AcademicForge) · [官网](http://hughyau.com/AcademicForge/) · 个人维护 · 中文 README
 
 **面向 Claude Code/OpenCode/Codex 的学术技能选配与安装平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HughYau/AcademicForge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2600 --> 2610
-    line [2601, 2602, 2605, 2606, 2605, 2606, 2609]
+    title "HughYau/AcademicForge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2600 --> 2613
+    line [2601, 2602, 2605, 2606, 2605, 2606, 2609, 2612]
 ```
 
-2026-10-18 2,601 → 2026-10-27 2,609（+8）
+2026-10-18 2,601 → 2026-10-28 2,612（+11）
 
 
 ---

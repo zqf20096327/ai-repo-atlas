@@ -1,6 +1,6 @@
 # gigioneggiando/argo
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gigioneggiando/argo) · [官网](https://gigioneggiando.com/argo/) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gigioneggiando/argo) · [官网](https://gigioneggiando.com/argo/) · 个人维护
 
 **面向开发者的 LLM 驱动静态漏洞检测工具，产出可复核漏洞报告**
 
@@ -46,12 +46,12 @@ Argo 是一个以 LLM 为分析引擎的静态代码安全审计（SAST）工具
 ```mermaid
 xychart-beta
     title "gigioneggiando/argo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 62 --> 65
     line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-10-27 64（+1）
+2026-10-18 63 → 2026-10-28 64（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # second-state/echokit_server
 
-⭐ 592 · Rust · GPL-3.0 · 推送 2026-02-15 · [GitHub](https://github.com/second-state/echokit_server) · [官网](https://echokit.dev/) · 组织维护
+⭐ 591 · Rust · GPL-3.0 · 推送 2026-02-15 · [GitHub](https://github.com/second-state/echokit_server) · [官网](https://echokit.dev/) · 组织维护
 
 **ESP32 语音设备的本地/远程服务端：串接 ASR→LLM→TTS 对话**
 
@@ -45,13 +45,13 @@ EchoKit Server 是 EchoKit 设备与 AI 服务之间的中心组件，通过 Web
 
 ```mermaid
 xychart-beta
-    title "second-state/echokit_server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 591 --> 594
-    line [592, 593, 592]
+    title "second-state/echokit_server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 590 --> 594
+    line [592, 593, 592, 591]
 ```
 
-2026-10-18 592 → 2026-10-27 592（+0）
+2026-10-18 592 → 2026-10-28 591（-1）
 
 
 ---

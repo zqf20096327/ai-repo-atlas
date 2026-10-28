@@ -47,12 +47,12 @@ JFrog 官方维护的一组 AI coding agent 技能：基础技能 `jfrog` 覆盖
 ```mermaid
 xychart-beta
     title "jfrog/jfrog-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

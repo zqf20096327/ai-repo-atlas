@@ -1,6 +1,6 @@
 # austin-weeks/miasma
 
-⭐ 1,204 · Rust · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/austin-weeks/miasma) · [官网](https://austin-weeks.github.io/miasma/) · 组织维护
+⭐ 1,340 · Rust · GPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/austin-weeks/miasma) · [官网](https://austin-weeks.github.io/miasma/) · 组织维护
 
 **向 AI 爬虫投喂毒化训练数据的网站反爬工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "austin-weeks/miasma 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 1196 --> 1205
-    line [1198, 1197, 1201, 1203, 1204]
+    title "austin-weeks/miasma 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1183 --> 1354
+    line [1198, 1197, 1201, 1203, 1204, 1340]
 ```
 
-2026-10-18 1,198 → 2026-10-27 1,204（+6）
+2026-10-18 1,198 → 2026-10-28 1,340（+142）
 
 
 ---

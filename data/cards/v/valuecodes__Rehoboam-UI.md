@@ -45,12 +45,12 @@ pnpm monorepo，包含 React 19 + Vite 网页 UI、Cloudflare Worker API 与定�
 ```mermaid
 xychart-beta
     title "valuecodes/Rehoboam-UI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

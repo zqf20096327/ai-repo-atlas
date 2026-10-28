@@ -1,6 +1,6 @@
 # yueliu1999/Awesome-Jailbreak-on-LLMs
 
-⭐ 1,713 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) · 个人维护
+⭐ 1,711 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) · 个人维护
 
 **面向科研者的 LLM 越狱攻击/防御论文清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yueliu1999/Awesome-Jailbreak-on-LLMs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "yueliu1999/Awesome-Jailbreak-on-LLMs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1690 --> 1715
-    line [1692, 1696, 1700, 1703, 1707, 1710, 1713]
+    line [1692, 1696, 1700, 1703, 1707, 1710, 1713, 1711]
 ```
 
-2026-10-18 1,692 → 2026-10-27 1,713（+21）
+2026-10-18 1,692 → 2026-10-28 1,711（+19）
 
 
 ---

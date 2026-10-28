@@ -1,6 +1,6 @@
 # CzzzzzzJ/mdldm-knowledge-kit
 
-⭐ 40 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/CzzzzzzJ/mdldm-knowledge-kit) · [官网](https://www.mdldm.club) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/CzzzzzzJ/mdldm-knowledge-kit) · [官网](https://www.mdldm.club) · 个人维护 · 中文 README
 
 **创作者独立知识站脚手架：图文/视频、会员订阅与单课购买，由 Coding Agent 搭建**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CzzzzzzJ/mdldm-knowledge-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 39 --> 42
-    line [41, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 39 --> 44
+    line [41, 40, 43]
 ```
 
-2026-10-18 41 → 2026-10-27 40（-1）
+2026-10-18 41 → 2026-10-28 43（+2）
 
 
 ---

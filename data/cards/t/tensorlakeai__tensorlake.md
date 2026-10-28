@@ -1,6 +1,6 @@
 # tensorlakeai/tensorlake
 
-⭐ 1,027 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tensorlakeai/tensorlake) · [官网](https://tensorlake.ai) · 组织维护
+⭐ 1,027 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorlakeai/tensorlake) · [官网](https://tensorlake.ai) · 组织维护
 
 **面向 AI agent 的沙箱云与 serverless 编排运行时**
 
@@ -45,13 +45,13 @@ Tensorlake 是构建 agentic 应用的计算基础设施平台：通过 Sandbox 
 
 ```mermaid
 xychart-beta
-    title "tensorlakeai/tensorlake 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "tensorlakeai/tensorlake 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1022 --> 1028
-    line [1023, 1024, 1025, 1026, 1027]
+    line [1023, 1024, 1025, 1026, 1027, 1027]
 ```
 
-2026-10-18 1,023 → 2026-10-27 1,027（+4）
+2026-10-18 1,023 → 2026-10-28 1,027（+4）
 
 
 ---

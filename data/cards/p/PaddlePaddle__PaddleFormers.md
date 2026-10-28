@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleFormers
 
-⭐ 12,969 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PaddlePaddle/PaddleFormers) · 组织维护 · 中文 README
+⭐ 12,970 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/PaddlePaddle/PaddleFormers) · 组织维护 · 中文 README
 
 **基于飞桨的大模型训练库：LLM/VLM 预训练与后训练**
 
@@ -45,12 +45,12 @@ PaddlePaddle 团队维护的 Transformers 库，为 PaddlePaddle 生态提供与
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleFormers 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 12968 --> 12976
-    line [12975, 12974, 12971, 12969, 12970, 12969, 12969]
+    line [12975, 12974, 12971, 12969, 12970, 12969, 12970]
 ```
 
-2026-10-18 12,975 → 2026-10-27 12,969（-6）
+2026-10-18 12,975 → 2026-10-28 12,970（-5）
 
 
 ---

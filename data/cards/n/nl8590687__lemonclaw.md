@@ -1,6 +1,6 @@
 # nl8590687/lemonclaw
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nl8590687/lemonclaw) · 个人维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/nl8590687/lemonclaw) · 个人维护 · 中文 README
 
 **开源通用 AI 数字员工 Agent 框架，多渠道接入任意 LLM**
 
@@ -45,12 +45,12 @@ Python 编写的通用 AI Agent 框架，把任意 OpenAI 兼容 LLM 变成可�
 ```mermaid
 xychart-beta
     title "nl8590687/lemonclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 51 --> 55
-    line [54, 52, 52]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 51 --> 59
+    line [54, 52, 58]
 ```
 
-2026-10-18 54 → 2026-10-27 52（-2）
+2026-10-18 54 → 2026-10-28 58（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # maruakshay/miii-cli
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/maruakshay/miii-cli) · [官网](https://miii.in/) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/maruakshay/miii-cli) · [官网](https://miii.in/) · 个人维护
 
 **免费开源的终端/浏览器 AI 编程 agent，可离线本地运行**
 
@@ -46,12 +46,12 @@ MIT 许可的本地优先 AI 编程 agent，以 npm CLI 与 localhost Web UI 两
 ```mermaid
 xychart-beta
     title "maruakshay/miii-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

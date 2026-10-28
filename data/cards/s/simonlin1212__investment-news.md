@@ -1,6 +1,6 @@
 # simonlin1212/investment-news
 
-⭐ 487 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/simonlin1212/investment-news) · 个人维护 · 中文 README
+⭐ 487 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/simonlin1212/investment-news) · 个人维护 · 中文 README
 
 **给A股投资者的本地 AI 产业链资讯看板，每日中文要点提炼**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/investment-news 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "simonlin1212/investment-news 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 476 --> 488
-    line [477, 478, 480, 481, 482, 484, 485, 487]
+    line [477, 478, 480, 481, 482, 484, 485, 487, 487]
 ```
 
-2026-10-18 477 → 2026-10-27 487（+10）
+2026-10-18 477 → 2026-10-28 487（+10）
 
 
 ---

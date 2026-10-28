@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-27 48（+0）
+2026-10-18 48 → 2026-10-28 48（+0）
 
 
 ---

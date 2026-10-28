@@ -1,6 +1,6 @@
 # mili-tan/Onllama.Tiny
 
-⭐ 76 · C# · MPL-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/mili-tan/Onllama.Tiny) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **通过 Ollama 在电脑上运行 LLM 的图形界面客户端**
 
@@ -11,7 +11,7 @@ Ollama 的图形界面客户端，README 描述为‘比简单更简单’，通
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MPL-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

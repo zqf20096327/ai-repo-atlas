@@ -1,6 +1,6 @@
 # josStorer/RWKV-Runner
 
-⭐ 6,491 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/josStorer/RWKV-Runner) · [官网](https://www.rwkv.com) · 个人维护 · 中文 README
+⭐ 6,493 · TypeScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/josStorer/RWKV-Runner) · [官网](https://www.rwkv.com) · 个人维护 · 中文 README
 
 **RWKV 模型管理与一键启动桌面工具，附带 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "josStorer/RWKV-Runner 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6485 --> 6492
-    line [6486, 6487, 6488, 6489, 6491, 6491]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 6485 --> 6494
+    line [6486, 6487, 6488, 6489, 6491, 6493]
 ```
 
-2026-10-18 6,486 → 2026-10-27 6,491（+5）
+2026-10-18 6,486 → 2026-10-28 6,493（+7）
 
 
 ---

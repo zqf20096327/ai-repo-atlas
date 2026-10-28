@@ -1,6 +1,6 @@
 # felladrin/MiniSearch
 
-⭐ 602 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/felladrin/MiniSearch) · [官网](https://felladrin-minisearch.hf.space) · 个人维护
+⭐ 603 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/felladrin/MiniSearch) · [官网](https://felladrin-minisearch.hf.space) · 个人维护
 
 **浏览器内运行 AI 的私有自托管搜索引擎，回答带引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "felladrin/MiniSearch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 598 --> 603
-    line [599, 600, 601, 602, 602]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 598 --> 604
+    line [599, 600, 601, 602, 603]
 ```
 
-2026-10-18 599 → 2026-10-27 602（+3）
+2026-10-18 599 → 2026-10-28 603（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # dipy/dipy
 
-⭐ 850 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dipy/dipy) · [官网](https://dipy.org) · 组织维护
+⭐ 851 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dipy/dipy) · [官网](https://dipy.org) · 组织维护
 
 **Python 医学弥散 MRI 分析库，供科研图像处理**
 
@@ -45,12 +45,12 @@ DIPY 是用于 MR 弥散成像分析的 Python 库，提供空间归一化、信
 ```mermaid
 xychart-beta
     title "dipy/dipy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 849 --> 851
-    line [850, 850]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 849 --> 852
+    line [850, 851]
 ```
 
-2026-10-18 850 → 2026-10-27 850（+0）
+2026-10-18 850 → 2026-10-28 851（+1）
 
 
 ---

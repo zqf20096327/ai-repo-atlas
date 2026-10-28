@@ -1,6 +1,6 @@
 # spring-petclinic/spring-petclinic-langchain4j
 
-⭐ 25 · Java · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-langchain4j) · 组织维护
+⭐ 26 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-langchain4j) · 组织维护
 
 **Spring PetClinic 示例：演示在 Java 应用中集成 LangChain4j 聊天机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spring-petclinic/spring-petclinic-langchain4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

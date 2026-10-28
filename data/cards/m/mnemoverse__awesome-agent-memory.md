@@ -1,6 +1,6 @@
 # mnemoverse/awesome-agent-memory
 
-⭐ 58 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/mnemoverse/awesome-agent-memory) · 组织维护
+⭐ 62 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/mnemoverse/awesome-agent-memory) · 组织维护
 
 **AI agent 记忆系统与研究的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mnemoverse/awesome-agent-memory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 52 --> 59
-    line [53, 55, 57, 58, 57, 58]
+    title "mnemoverse/awesome-agent-memory 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 52 --> 63
+    line [53, 55, 57, 58, 57, 58, 62]
 ```
 
-2026-10-18 53 → 2026-10-27 58（+5）
+2026-10-18 53 → 2026-10-28 62（+9）
 
 
 ---

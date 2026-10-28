@@ -1,6 +1,6 @@
 # Daniele-Cangi/Alchimista
 
-⭐ 46 · Python · AGPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/Daniele-Cangi/Alchimista) · 个人维护
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-08-19 · [GitHub](https://github.com/Daniele-Cangi/Alchimista) · 个人维护
 
 **自托管 AI 治理与文档智能平台：带引用的 RAG 问答与隐私审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Daniele-Cangi/Alchimista 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 24 --> 48
-    line [27, 26, 34, 36, 39, 41, 43, 46]
+    title "Daniele-Cangi/Alchimista 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 24 --> 51
+    line [27, 26, 34, 36, 39, 41, 43, 46, 49]
 ```
 
-2026-10-18 27 → 2026-10-27 46（+19）
+2026-10-18 27 → 2026-10-28 49（+22）
 
 
 ---

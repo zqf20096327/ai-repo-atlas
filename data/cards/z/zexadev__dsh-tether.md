@@ -1,6 +1,6 @@
 # zexadev/dsh-tether
 
-⭐ 79 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zexadev/dsh-tether) · [官网](https://dsh-tether.zexa.cc/) · 个人维护 · 中文 README
+⭐ 88 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zexadev/dsh-tether) · [官网](https://dsh-tether.zexa.cc/) · 个人维护 · 中文 README
 
 **手机远程使用 DeepSeek Harness 的 P2P 客户端（dsh 插件）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zexadev/dsh-tether 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 57 --> 81
-    line [59, 63, 65, 69, 76, 77, 79]
+    title "zexadev/dsh-tether 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 57 --> 90
+    line [59, 63, 65, 69, 76, 77, 79, 88]
 ```
 
-2026-10-18 59 → 2026-10-27 79（+20）
+2026-10-18 59 → 2026-10-28 88（+29）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/RPG-ZeroRepo
 
-⭐ 555 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/RPG-ZeroRepo) · 组织维护 · 中文 README
+⭐ 554 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/RPG-ZeroRepo) · 组织维护 · 中文 README
 
 **面向长程编码 agent 的仓库规划图控制层与研究管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/RPG-ZeroRepo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 552 --> 556
-    line [553, 554, 555, 555]
+    line [553, 554, 555, 554]
 ```
 
-2026-10-18 553 → 2026-10-27 555（+2）
+2026-10-18 553 → 2026-10-28 554（+1）
 
 
 ---

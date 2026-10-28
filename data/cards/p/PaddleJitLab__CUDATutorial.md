@@ -1,6 +1,6 @@
 # PaddleJitLab/CUDATutorial
 
-⭐ 1,151 · JavaScript · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddleJitLab/CUDATutorial) · 个人维护 · 中文 README
+⭐ 1,152 · JavaScript · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/PaddleJitLab/CUDATutorial) · 个人维护 · 中文 README
 
 **CUDA 高性能编程与 LLM 推理技术的中文自学教程仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PaddleJitLab/CUDATutorial 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1141 --> 1152
-    line [1142, 1145, 1149, 1150, 1151, 1151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1141 --> 1153
+    line [1142, 1145, 1149, 1150, 1151, 1152]
 ```
 
-2026-10-18 1,142 → 2026-10-27 1,151（+9）
+2026-10-18 1,142 → 2026-10-28 1,152（+10）
 
 
 ---

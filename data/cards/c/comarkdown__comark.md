@@ -1,6 +1,6 @@
 # comarkdown/comark
 
-⭐ 1,077 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 个人维护
+⭐ 1,080 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 个人维护
 
 **面向 AI 流式输出的 Markdown 解析与多框架渲染库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "comarkdown/comark 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1059 --> 1078
-    line [1060, 1065, 1067, 1072, 1073, 1074, 1077]
+    title "comarkdown/comark 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1058 --> 1082
+    line [1060, 1065, 1067, 1072, 1073, 1074, 1077, 1080]
 ```
 
-2026-10-18 1,060 → 2026-10-27 1,077（+17）
+2026-10-18 1,060 → 2026-10-28 1,080（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/postgres-mcp
 
-⭐ 64 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/postgres-mcp) · 组织维护
+⭐ 65 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/postgres-mcp) · 组织维护
 
 **让编码 agent 通过 MCP 连接 PostgreSQL 的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/postgres-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 54 --> 65
-    line [55, 56, 59, 61, 63, 64]
+    title "microsoft/postgres-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 54 --> 66
+    line [55, 56, 59, 61, 63, 64, 65]
 ```
 
-2026-10-18 55 → 2026-10-27 64（+9）
+2026-10-18 55 → 2026-10-28 65（+10）
 
 
 ---

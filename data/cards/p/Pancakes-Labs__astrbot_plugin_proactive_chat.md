@@ -1,6 +1,6 @@
 # Pancakes-Labs/astrbot_plugin_proactive_chat
 
-⭐ 460 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat) · 个人维护 · 中文 README
+⭐ 473 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat) · 个人维护 · 中文 README
 
 **AstrBot 主动消息插件：Bot 静默后主动发起拟人对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pancakes-Labs/astrbot_plugin_proactive_chat 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 403 --> 465
-    line [408, 413, 425, 431, 436, 441, 447, 460]
+    title "Pancakes-Labs/astrbot_plugin_proactive_chat 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 402 --> 479
+    line [408, 413, 425, 431, 436, 441, 447, 460, 473]
 ```
 
-2026-10-18 408 → 2026-10-27 460（+52）
+2026-10-18 408 → 2026-10-28 473（+65）
 
 
 ---

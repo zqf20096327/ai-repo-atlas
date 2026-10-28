@@ -1,6 +1,6 @@
 # datachecks/dcs-core
 
-⭐ 179 · Python · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/datachecks/dcs-core) · [官网](https://docs.datachecks.io) · 组织维护
+⭐ 180 · Python · Apache-2.0 · 推送 2026-02-09 · [GitHub](https://github.com/datachecks/dcs-core) · [官网](https://docs.datachecks.io) · 组织维护
 
 **开源数据质量监控工具：监测数据库与数据管道质量**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "datachecks/dcs-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 178 --> 181
+    line [179, 180]
 ```
 
-2026-10-18 179 → 2026-10-27 179（+0）
+2026-10-18 179 → 2026-10-28 180（+1）
 
 
 ---

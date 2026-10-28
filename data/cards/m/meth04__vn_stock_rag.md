@@ -1,6 +1,6 @@
 # meth04/vn_stock_rag
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-03-28 · [GitHub](https://github.com/meth04/vn_stock_rag) · [官网](https://github.com/meth04/TradingAgent-VN) · 个人维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-03-28 · [GitHub](https://github.com/meth04/vn_stock_rag) · [官网](https://github.com/meth04/TradingAgent-VN) · 个人维护
 
 **越南股市多 Agent RAG 分析平台，生成投资研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meth04/vn_stock_rag 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 29]
 ```
 
-2026-10-18 25 → 2026-10-27 27（+2）
+2026-10-18 25 → 2026-10-28 29（+4）
 
 
 ---

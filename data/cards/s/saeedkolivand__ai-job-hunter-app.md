@@ -1,6 +1,6 @@
 # saeedkolivand/ai-job-hunter-app
 
-⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/saeedkolivand/ai-job-hunter-app) · [官网](https://aijobhunter.app) · 个人维护
+⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/saeedkolivand/ai-job-hunter-app) · [官网](https://aijobhunter.app) · 个人维护
 
 **求职者用的本地优先 AI 桌面助手：抓取职位、匹配简历、生成简历与求职信**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saeedkolivand/ai-job-hunter-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-27 62（+0）
+2026-10-18 62 → 2026-10-28 62（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zehong-Wang/Awesome-Weight-Space-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    title "Zehong-Wang/Awesome-Weight-Space-Learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 96 --> 100
-    line [97, 98, 99]
+    line [97, 98, 99, 99]
 ```
 
-2026-10-18 97 → 2026-10-27 99（+2）
+2026-10-18 97 → 2026-10-28 99（+2）
 
 
 ---

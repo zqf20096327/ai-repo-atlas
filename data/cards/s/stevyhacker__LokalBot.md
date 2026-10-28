@@ -1,6 +1,6 @@
 # stevyhacker/LokalBot
 
-⭐ 75 · Swift · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/stevyhacker/LokalBot) · [官网](https://www.lokalbot.com) · 个人维护
+⭐ 75 · Swift · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/stevyhacker/LokalBot) · [官网](https://www.lokalbot.com) · 个人维护
 
 **本地运行的个人上下文引擎：会议记录、屏幕回忆、听写与自动补全**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stevyhacker/LokalBot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    title "stevyhacker/LokalBot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 58 --> 76
-    line [59, 66, 72, 74, 75]
+    line [59, 66, 72, 74, 75, 75]
 ```
 
-2026-10-18 59 → 2026-10-27 75（+16）
+2026-10-18 59 → 2026-10-28 75（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # aaronhma/awesome-tensorflow-js
 
-⭐ 189 · CC0-1.0 · 推送 2026-09-26 · [GitHub](https://github.com/aaronhma/awesome-tensorflow-js) · [官网](https://www.tensorflow.org/js/) · 个人维护
+⭐ 189 · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/aaronhma/awesome-tensorflow-js) · [官网](https://www.tensorflow.org/js/) · 个人维护
 
 **TensorFlow.js 学习资源策展清单：教程/模型/书籍/工具汇总**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaronhma/awesome-tensorflow-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 188 --> 190
     line [189, 189]
 ```
 
-2026-10-18 189 → 2026-10-27 189（+0）
+2026-10-18 189 → 2026-10-28 189（+0）
 
 
 ---

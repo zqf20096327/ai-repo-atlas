@@ -1,6 +1,6 @@
 # OneWave-AI/claude-skills
 
-⭐ 383 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OneWave-AI/claude-skills) · [官网](https://www.onewave-ai.com) · 组织维护
+⭐ 387 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OneWave-AI/claude-skills) · [官网](https://www.onewave-ai.com) · 组织维护
 
 **230 个面向 Claude Code 的生产级 agent 技能库，覆盖商业/生活/编程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OneWave-AI/claude-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 347 --> 386
-    line [350, 355, 366, 368, 373, 379, 383]
+    title "OneWave-AI/claude-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 347 --> 390
+    line [350, 355, 366, 368, 373, 379, 383, 387]
 ```
 
-2026-10-18 350 → 2026-10-27 383（+33）
+2026-10-18 350 → 2026-10-28 387（+37）
 
 
 ---

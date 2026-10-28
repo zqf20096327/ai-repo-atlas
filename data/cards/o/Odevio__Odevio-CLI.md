@@ -45,13 +45,13 @@ Python 编写的 CLI 工具，面向 Flutter 开发者：将 iOS 构建、代码
 
 ```mermaid
 xychart-beta
-    title "Odevio/Odevio-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Odevio/Odevio-CLI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 421 --> 424
-    line [422, 423]
+    line [422, 423, 423]
 ```
 
-2026-10-18 422 → 2026-10-27 423（+1）
+2026-10-18 422 → 2026-10-28 423（+1）
 
 
 ---

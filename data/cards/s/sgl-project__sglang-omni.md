@@ -1,6 +1,6 @@
 # sgl-project/sglang-omni
 
-⭐ 1,628 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sgl-project/sglang-omni) · [官网](https://sgl-project.github.io/sglang-omni/) · 组织维护
+⭐ 1,637 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/sgl-project/sglang-omni) · [官网](https://sgl-project.github.io/sglang-omni/) · 组织维护
 
 **语音与全模态模型的推理服务运行时框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sglang-omni 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1531 --> 1636
-    line [1539, 1558, 1579, 1593, 1606, 1611, 1619, 1628]
+    title "sgl-project/sglang-omni 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1530 --> 1646
+    line [1539, 1558, 1579, 1593, 1606, 1611, 1619, 1628, 1637]
 ```
 
-2026-10-18 1,539 → 2026-10-27 1,628（+89）
+2026-10-18 1,539 → 2026-10-28 1,637（+98）
 
 
 ---

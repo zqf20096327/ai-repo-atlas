@@ -1,6 +1,6 @@
 # goesByhc/cn-scraper-mcp
 
-⭐ 71 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/goesByhc/cn-scraper-mcp) · [官网](https://github.com/goesByhc/cn-scraper-mcp) · 个人维护 · 中文 README
+⭐ 72 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/goesByhc/cn-scraper-mcp) · [官网](https://github.com/goesByhc/cn-scraper-mcp) · 个人维护 · 中文 README
 
 **让 AI Agent 搜索中文互联网的 MCP 服务器（淘宝/知乎/B站等10平台）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "goesByhc/cn-scraper-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 65 --> 72
-    line [66, 68, 70, 71]
+    title "goesByhc/cn-scraper-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 65 --> 73
+    line [66, 68, 70, 71, 72]
 ```
 
-2026-10-18 66 → 2026-10-27 71（+5）
+2026-10-18 66 → 2026-10-28 72（+6）
 
 
 ---

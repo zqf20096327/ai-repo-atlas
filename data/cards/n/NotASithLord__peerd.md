@@ -1,6 +1,6 @@
 # NotASithLord/peerd
 
-⭐ 423 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NotASithLord/peerd) · [官网](https://peerd.ai) · 个人维护
+⭐ 424 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NotASithLord/peerd) · [官网](https://peerd.ai) · 个人维护
 
 **在浏览器内运行 AI agent 循环的扩展：驱动标签页并提供沙箱计算**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NotASithLord/peerd 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 417 --> 424
-    line [418, 419, 420, 421, 422, 423]
+    title "NotASithLord/peerd 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 417 --> 425
+    line [418, 419, 420, 421, 422, 423, 424]
 ```
 
-2026-10-18 418 → 2026-10-27 423（+5）
+2026-10-18 418 → 2026-10-28 424（+6）
 
 
 ---

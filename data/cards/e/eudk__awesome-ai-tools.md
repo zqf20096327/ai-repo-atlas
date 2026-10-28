@@ -1,6 +1,6 @@
 # eudk/awesome-ai-tools
 
-⭐ 605 · CC0-1.0 · 推送 2026-06-07 · [GitHub](https://github.com/eudk/awesome-ai-tools) · 组织维护
+⭐ 604 · CC0-1.0 · 推送 2026-06-07 · [GitHub](https://github.com/eudk/awesome-ai-tools) · 组织维护
 
 **AI 工具策展清单：收录模型、平台与工具的社区导航目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eudk/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 599 --> 606
-    line [600, 602, 605, 605]
+    line [600, 602, 605, 604]
 ```
 
-2026-10-18 600 → 2026-10-27 605（+5）
+2026-10-18 600 → 2026-10-28 604（+4）
 
 
 ---

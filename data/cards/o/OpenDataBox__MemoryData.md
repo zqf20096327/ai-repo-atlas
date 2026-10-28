@@ -1,6 +1,6 @@
 # OpenDataBox/MemoryData
 
-⭐ 149 · Python · 推送 2026-07-05 · [GitHub](https://github.com/OpenDataBox/MemoryData) · [官网](https://arxiv.org/abs/2606.24775) · 组织维护 · 中文 README
+⭐ 150 · Python · 推送 2026-07-05 · [GitHub](https://github.com/OpenDataBox/MemoryData) · [官网](https://arxiv.org/abs/2606.24775) · 组织维护 · 中文 README
 
 **记忆增强 Agent 的统一基准评测套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenDataBox/MemoryData 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 147 --> 152
-    line [148, 149, 150, 151, 150, 149, 149]
+    line [148, 149, 150, 151, 150, 149, 150]
 ```
 
-2026-10-18 148 → 2026-10-27 149（+1）
+2026-10-18 148 → 2026-10-28 150（+2）
 
 
 ---

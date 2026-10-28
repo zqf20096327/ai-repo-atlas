@@ -1,6 +1,6 @@
 # kubeshop/testkube
 
-⭐ 1,674 · Go · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
+⭐ 1,675 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
 
 **面向工程团队的 Kubernetes 开源测试平台**
 
@@ -44,13 +44,13 @@ Testkube 在 Kubernetes 上提供统一的自动化测试平台：定义、运�
 
 ```mermaid
 xychart-beta
-    title "kubeshop/testkube 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1668 --> 1675
-    line [1669, 1671, 1672, 1673, 1674, 1673, 1674]
+    title "kubeshop/testkube 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1668 --> 1676
+    line [1669, 1671, 1672, 1673, 1674, 1673, 1674, 1675]
 ```
 
-2026-10-18 1,669 → 2026-10-27 1,674（+5）
+2026-10-18 1,669 → 2026-10-28 1,675（+6）
 
 
 ---

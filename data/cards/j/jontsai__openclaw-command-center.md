@@ -1,6 +1,6 @@
 # jontsai/openclaw-command-center
 
-⭐ 247 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jontsai/openclaw-command-center) · [官网](https://clawhub.ai/jontsai/command-center) · 个人维护 · 中文 README
+⭐ 248 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/jontsai/openclaw-command-center) · [官网](https://clawhub.ai/jontsai/command-center) · 个人维护 · 中文 README
 
 **OpenClaw AI agent 部署的实时监控仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jontsai/openclaw-command-center 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 246 --> 248
-    line [247, 247]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 246 --> 249
+    line [247, 248]
 ```
 
-2026-10-18 247 → 2026-10-27 247（+0）
+2026-10-18 247 → 2026-10-28 248（+1）
 
 
 ---

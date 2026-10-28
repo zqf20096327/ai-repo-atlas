@@ -1,6 +1,6 @@
 # pea3nut/agent-add
 
-⭐ 26 · TypeScript · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pea3nut/agent-add) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pea3nut/agent-add) · 个人维护 · 中文 README
 
 **向 20+ 种 AI 编码工具统一安装 MCP/Skill/命令/子代理的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pea3nut/agent-add 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "pea3nut/agent-add 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 25 --> 28
-    line [27, 26]
+    line [27, 26, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 26（-1）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

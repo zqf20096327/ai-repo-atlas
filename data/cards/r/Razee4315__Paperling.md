@@ -1,6 +1,6 @@
 # Razee4315/Paperling
 
-⭐ 590 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Razee4315/Paperling) · [官网](https://razee4315.github.io/Paperling/) · 个人维护
+⭐ 590 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Razee4315/Paperling) · [官网](https://razee4315.github.io/Paperling/) · 个人维护
 
 **免配置的 Markdown 阅读编辑器，内置可选 AI 改稿助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Razee4315/Paperling 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "Razee4315/Paperling 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 580 --> 591
-    line [581, 582, 584, 586, 587, 588, 590]
+    line [581, 582, 584, 586, 587, 588, 590, 590]
 ```
 
-2026-10-18 581 → 2026-10-27 590（+9）
+2026-10-18 581 → 2026-10-28 590（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Orion-zhen/abliteration
 
-⭐ 190 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Orion-zhen/abliteration) · 个人维护
+⭐ 191 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Orion-zhen/abliteration) · 个人维护
 
 **用 transformers 计算并移除 LLM 拒绝方向的模型修改工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Orion-zhen/abliteration 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 183 --> 191
-    line [184, 185, 188, 190, 190]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 183 --> 192
+    line [184, 185, 188, 190, 191]
 ```
 
-2026-10-18 184 → 2026-10-27 190（+6）
+2026-10-18 184 → 2026-10-28 191（+7）
 
 
 ---

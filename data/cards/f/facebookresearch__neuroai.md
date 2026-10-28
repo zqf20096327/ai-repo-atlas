@@ -1,6 +1,6 @@
 # facebookresearch/neuroai
 
-⭐ 333 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/facebookresearch/neuroai) · [官网](https://facebookresearch.github.io/neuroai/) · 组织维护
+⭐ 335 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/facebookresearch/neuroai) · [官网](https://facebookresearch.github.io/neuroai/) · 组织维护
 
 **面向神经科学的 Python 工具套件：数据加载、数据集获取、训练与基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/neuroai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 326 --> 334
-    line [327, 328, 330, 331, 332, 333]
+    title "facebookresearch/neuroai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 326 --> 336
+    line [327, 328, 330, 331, 332, 333, 335]
 ```
 
-2026-10-18 327 → 2026-10-27 333（+6）
+2026-10-18 327 → 2026-10-28 335（+8）
 
 
 ---

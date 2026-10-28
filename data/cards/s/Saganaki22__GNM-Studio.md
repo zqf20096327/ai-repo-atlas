@@ -1,6 +1,6 @@
 # Saganaki22/GNM-Studio
 
-⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/Saganaki22/GNM-Studio) · [官网](http://drbaph.is-a.dev/GNM-Studio/) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/Saganaki22/GNM-Studio) · [官网](http://drbaph.is-a.dev/GNM-Studio/) · 个人维护 · 中文 README
 
 **本地优先的 Google GNM 头部创建与摄像头面捕动画桌面/网页工作室**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/GNM-Studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 56 --> 62
-    line [57, 58, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 56 --> 63
+    line [57, 58, 60, 61, 62]
 ```
 
-2026-10-18 57 → 2026-10-27 61（+4）
+2026-10-18 57 → 2026-10-28 62（+5）
 
 
 ---

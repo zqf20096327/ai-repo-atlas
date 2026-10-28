@@ -45,12 +45,12 @@ AzerothCore 模块，基于 mod-playerbots 为游戏机器人叠加性格层：�
 ```mermaid
 xychart-beta
     title "deseven/mod-pbc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-27 63（+0）
+2026-10-18 63 → 2026-10-28 63（+0）
 
 
 ---

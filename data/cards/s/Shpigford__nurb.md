@@ -1,6 +1,6 @@
 # Shpigford/nurb
 
-⭐ 617 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/Shpigford/nurb) · [官网](https://nurb.dev) · 个人维护
+⭐ 618 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/Shpigford/nurb) · [官网](https://nurb.dev) · 个人维护
 
 **让 AI 按口述生成可 3D 打印零件的 CAD 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shpigford/nurb 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 601 --> 618
-    line [602, 607, 610, 613, 614, 616, 617]
+    title "Shpigford/nurb 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 601 --> 619
+    line [602, 607, 610, 613, 614, 616, 617, 618]
 ```
 
-2026-10-18 602 → 2026-10-27 617（+15）
+2026-10-18 602 → 2026-10-28 618（+16）
 
 
 ---

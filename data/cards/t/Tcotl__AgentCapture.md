@@ -1,6 +1,6 @@
 # Tcotl/AgentCapture
 
-⭐ 149 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Tcotl/AgentCapture) · [官网](https://agentcapture-demo.vercel.app/) · 个人维护 · 中文 README
+⭐ 150 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Tcotl/AgentCapture) · [官网](https://agentcapture-demo.vercel.app/) · 个人维护 · 中文 README
 
 **面向互联网业务无损接入的蜜罐态势感知与 AI Agent 反制平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tcotl/AgentCapture 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 143 --> 150
-    line [144, 145, 146, 147, 149]
+    title "Tcotl/AgentCapture 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 143 --> 151
+    line [144, 145, 146, 147, 149, 150]
 ```
 
-2026-10-18 144 → 2026-10-27 149（+5）
+2026-10-18 144 → 2026-10-28 150（+6）
 
 
 ---

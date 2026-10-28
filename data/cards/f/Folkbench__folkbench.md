@@ -1,6 +1,6 @@
 # Folkbench/folkbench
 
-⭐ 3,737 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Folkbench/folkbench) · [官网](https://folkbench.com) · 组织维护 · 中文 README
+⭐ 3,789 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Folkbench/folkbench) · [官网](https://folkbench.com) · 组织维护 · 中文 README
 
 **AI 中转站评测榜单与桌面配置切换客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Folkbench/folkbench 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1124 --> 3974
-    line [1361, 1981, 2232, 2696, 2998, 3564, 3639, 3737]
+    title "Folkbench/folkbench 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1119 --> 4031
+    line [1361, 1981, 2232, 2696, 2998, 3564, 3639, 3737, 3789]
 ```
 
-2026-10-18 1,361 → 2026-10-27 3,737（+2,376）
+2026-10-18 1,361 → 2026-10-28 3,789（+2,428）
 
 
 ---

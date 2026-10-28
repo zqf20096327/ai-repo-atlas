@@ -1,6 +1,6 @@
 # melonmath/microkimi
 
-⭐ 24 · Rust · MIT · 推送 2026-08-19 · [GitHub](https://github.com/melonmath/microkimi) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-08-19 · [GitHub](https://github.com/melonmath/microkimi) · 个人维护
 
 **纯 Rust 零依赖的 LLM 推理引擎：运行 Kimi/DeepSeek/Qwen 检查点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "melonmath/microkimi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

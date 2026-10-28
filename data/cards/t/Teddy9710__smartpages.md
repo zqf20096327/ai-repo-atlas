@@ -1,6 +1,6 @@
 # Teddy9710/smartpages
 
-⭐ 69 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Teddy9710/smartpages) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Teddy9710/smartpages) · 个人维护 · 中文 README
 
 **把浏览器操作录制并生成文档的 Chrome 扩展**
 
@@ -46,12 +46,12 @@ Chrome MV3 扩展：录制点击、输入与截图，配合用户自选的 LLM �
 ```mermaid
 xychart-beta
     title "Teddy9710/smartpages 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 34 --> 72
     line [37, 62, 69, 69]
 ```
 
-2026-10-18 37 → 2026-10-27 69（+32）
+2026-10-18 37 → 2026-10-28 69（+32）
 
 
 ---

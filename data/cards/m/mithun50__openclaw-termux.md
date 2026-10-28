@@ -1,6 +1,6 @@
 # mithun50/openclaw-termux
 
-⭐ 1,732 · Dart · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mithun50/openclaw-termux) · [官网](https://github.com/mithun50/openclawd-termux#readme) · 个人维护
+⭐ 1,734 · Dart · MIT · 推送 2026-10-14 · [GitHub](https://github.com/mithun50/openclaw-termux) · [官网](https://github.com/mithun50/openclawd-termux#readme) · 个人维护
 
 **在 Android 上运行 OpenClaw AI 网关的 Flutter 应用与 Termux CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mithun50/openclaw-termux 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1721 --> 1733
-    line [1722, 1724, 1725, 1728, 1729, 1730, 1732]
+    title "mithun50/openclaw-termux 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1721 --> 1735
+    line [1722, 1724, 1725, 1728, 1729, 1730, 1732, 1734]
 ```
 
-2026-10-18 1,722 → 2026-10-27 1,732（+10）
+2026-10-18 1,722 → 2026-10-28 1,734（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinhnx/VTCode
 
-⭐ 890 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vinhnx/VTCode) · [官网](https://vtcode.vinhnx.chatgpt.site/) · 个人维护
+⭐ 891 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vinhnx/VTCode) · [官网](https://vtcode.vinhnx.chatgpt.site/) · 个人维护
 
 **面向终端的开源 Rust 编码 agent：规划、修改与审查代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vinhnx/VTCode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 880 --> 891
-    line [881, 883, 884, 887, 889, 890]
+    title "vinhnx/VTCode 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 880 --> 892
+    line [881, 883, 884, 887, 889, 890, 891]
 ```
 
-2026-10-18 881 → 2026-10-27 890（+9）
+2026-10-18 881 → 2026-10-28 891（+10）
 
 
 ---

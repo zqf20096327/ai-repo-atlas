@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-⭐ 15,942 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 15,966 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **面向开发者的 LLM/MLLM 微调、推理、评测与部署训练框架**
 
@@ -51,13 +51,13 @@ ModelScope 社区提供的大模型与多模态大模型训练部署框架，覆
 
 ```mermaid
 xychart-beta
-    title "modelscope/ms-swift 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15863 --> 15949
-    line [15870, 15889, 15905, 15913, 15922, 15929, 15931, 15942]
+    title "modelscope/ms-swift 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 15861 --> 15975
+    line [15870, 15889, 15905, 15913, 15922, 15929, 15931, 15942, 15966]
 ```
 
-2026-10-18 15,870 → 2026-10-27 15,942（+72）
+2026-10-18 15,870 → 2026-10-28 15,966（+96）
 
 
 ---

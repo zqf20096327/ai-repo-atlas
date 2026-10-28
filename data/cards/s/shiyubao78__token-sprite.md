@@ -1,6 +1,6 @@
 # shiyubao78/token-sprite
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/shiyubao78/token-sprite) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/shiyubao78/token-sprite) · 个人维护 · 中文 README
 
 **读取本地 AI 编程工具 token 用量来养成的桌面小精灵**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shiyubao78/token-sprite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 27（+1）
 
 
 ---

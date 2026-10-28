@@ -1,6 +1,6 @@
 # anthropics/claude-for-financial-advisors
 
-⭐ 116 · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/anthropics/claude-for-financial-advisors) · 组织维护
+⭐ 121 · HTML · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/claude-for-financial-advisors) · 组织维护
 
 **面向财务顾问的 Claude Cowork 插件：8 个即用工作流**
 
@@ -44,13 +44,13 @@ Anthropic 发布的 Claude Cowork 插件，以 Markdown/JSON 指令形式提供 
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-for-financial-advisors 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 104 --> 117
-    line [105, 109, 110, 111, 112, 113, 114, 116]
+    title "anthropics/claude-for-financial-advisors 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 104 --> 122
+    line [105, 109, 110, 111, 112, 113, 114, 116, 121]
 ```
 
-2026-10-18 105 → 2026-10-27 116（+11）
+2026-10-18 105 → 2026-10-28 121（+16）
 
 
 ---

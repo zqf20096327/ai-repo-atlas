@@ -1,6 +1,6 @@
 # VirtusLab/orca
 
-⭐ 187 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VirtusLab/orca) · [官网](https://orca.virtuslab.com) · 组织维护
+⭐ 190 · Scala · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/VirtusLab/orca) · [官网](https://orca.virtuslab.com) · 组织维护
 
 **用 Scala 脚本定义确定性 AI 编码工作流的开源工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VirtusLab/orca 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 182 --> 188
-    line [183, 184, 186, 187, 187]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 182 --> 191
+    line [183, 184, 186, 187, 190]
 ```
 
-2026-10-18 183 → 2026-10-27 187（+4）
+2026-10-18 183 → 2026-10-28 190（+7）
 
 
 ---

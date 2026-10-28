@@ -1,6 +1,6 @@
 # sassanh/quiper
 
-⭐ 26 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sassanh/quiper) · [官网](https://quiper.sassanh.com) · 个人维护
+⭐ 26 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sassanh/quiper) · [官网](https://quiper.sassanh.com) · 个人维护
 
 **macOS 全局热键悬浮窗，聚合 ChatGPT/Claude 等 AI 网页应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sassanh/quiper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # e2sy/jailbreak-archives
 
-⭐ 66 · Roff · MIT · 推送 2026-10-26 · [GitHub](https://github.com/e2sy/jailbreak-archives) · [官网](https://www.youtube.com/@mayankforge) · 个人维护
+⭐ 70 · Roff · MIT · 推送 2026-10-27 · [GitHub](https://github.com/e2sy/jailbreak-archives) · [官网](https://www.youtube.com/@mayankforge) · 个人维护
 
 **面向 AI 安全研究的 LLM 越狱提示词结构化版本化存档（16 条，7 模型族）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2sy/jailbreak-archives 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 40 --> 68
-    line [42, 46, 50, 54, 56, 59, 61, 66]
+    title "e2sy/jailbreak-archives 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 40 --> 72
+    line [42, 46, 50, 54, 56, 59, 61, 66, 70]
 ```
 
-2026-10-18 42 → 2026-10-27 66（+24）
+2026-10-18 42 → 2026-10-28 70（+28）
 
 
 ---

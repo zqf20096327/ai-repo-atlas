@@ -1,6 +1,6 @@
 # toby-bridges/api-relay-audit
 
-⭐ 895 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/toby-bridges/api-relay-audit) · [官网](https://apirelayaudit.com) · 个人维护 · 中文 README
+⭐ 896 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/toby-bridges/api-relay-audit) · [官网](https://apirelayaudit.com) · 个人维护 · 中文 README
 
 **本地审计 AI API 中转/LLM 代理安全的工具，生成 Markdown 报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "toby-bridges/api-relay-audit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 884 --> 896
-    line [885, 886, 887, 892, 893, 895, 895]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 884 --> 897
+    line [885, 886, 887, 892, 893, 895, 896]
 ```
 
-2026-10-18 885 → 2026-10-27 895（+10）
+2026-10-18 885 → 2026-10-28 896（+11）
 
 
 ---

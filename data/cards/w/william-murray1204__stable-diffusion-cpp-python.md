@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "william-murray1204/stable-diffusion-cpp-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-27 126（+0）
+2026-10-18 126 → 2026-10-28 126（+0）
 
 
 ---

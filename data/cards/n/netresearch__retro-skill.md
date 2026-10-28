@@ -1,6 +1,6 @@
 # netresearch/retro-skill
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/netresearch/retro-skill) · [官网](https://github.com/netresearch/retro-skill) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/netresearch/retro-skill) · [官网](https://github.com/netresearch/retro-skill) · 组织维护
 
 **Claude Code 会话复盘插件：检测摩擦并把经验写入正确去处**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/retro-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 18 --> 23
     line [19, 20, 21, 22, 22]
 ```
 
-2026-10-18 19 → 2026-10-27 22（+3）
+2026-10-18 19 → 2026-10-28 22（+3）
 
 
 ---

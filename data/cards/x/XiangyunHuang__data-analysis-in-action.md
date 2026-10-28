@@ -1,6 +1,6 @@
 # XiangyunHuang/data-analysis-in-action
 
-⭐ 93 · TeX · 推送 2026-05-10 · [GitHub](https://github.com/XiangyunHuang/data-analysis-in-action) · [官网](https://xiangyunhuang.github.io/data-analysis-in-action/) · 个人维护 · 中文 README
+⭐ 94 · TeX · 推送 2026-05-10 · [GitHub](https://github.com/XiangyunHuang/data-analysis-in-action) · [官网](https://xiangyunhuang.github.io/data-analysis-in-action/) · 个人维护 · 中文 README
 
 **《R 语言数据分析实战》书稿源码仓库（写作中）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "XiangyunHuang/data-analysis-in-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 92 --> 95
+    line [93, 94]
 ```
 
-2026-10-18 93 → 2026-10-27 93（+0）
+2026-10-18 93 → 2026-10-28 94（+1）
 
 
 ---

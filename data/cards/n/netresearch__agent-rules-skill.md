@@ -1,6 +1,6 @@
 # netresearch/agent-rules-skill
 
-⭐ 88 · Shell · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/netresearch/agent-rules-skill) · 组织维护
+⭐ 88 · Shell · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/netresearch/agent-rules-skill) · 组织维护
 
 **为 AI 编码 agent 生成 AGENTS.md 规范文件的 Agent Skill**
 
@@ -45,12 +45,12 @@ Netresearch 开发的 Agent Skill，按 agents.md 规范生成并维护 AGENTS.m
 ```mermaid
 xychart-beta
     title "netresearch/agent-rules-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-27 88（+0）
+2026-10-18 88 → 2026-10-28 88（+0）
 
 
 ---

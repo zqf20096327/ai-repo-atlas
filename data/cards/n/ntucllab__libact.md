@@ -1,6 +1,6 @@
 # ntucllab/libact
 
-⭐ 791 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/ntucllab/libact) · [官网](http://libact.readthedocs.org/) · 组织维护
+⭐ 792 · Python · BSD-2-Clause · 推送 2026-10-12 · [GitHub](https://github.com/ntucllab/libact) · [官网](http://libact.readthedocs.org/) · 组织维护
 
 **Python 池式主动学习库：多种查询策略与自动策略选择**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ntucllab/libact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 790 --> 792
-    line [791, 791]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 790 --> 793
+    line [791, 792]
 ```
 
-2026-10-18 791 → 2026-10-27 791（+0）
+2026-10-18 791 → 2026-10-28 792（+1）
 
 
 ---

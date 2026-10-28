@@ -1,6 +1,6 @@
 # Neuromorphicism/fly-brain-snntorch
 
-⭐ 31 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Neuromorphicism/fly-brain-snntorch) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Neuromorphicism/fly-brain-snntorch) · 个人维护
 
 **果蝇大脑连接组的稀疏 snnTorch 脉冲神经网络仿真实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Neuromorphicism/fly-brain-snntorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 32（+1）
 
 
 ---

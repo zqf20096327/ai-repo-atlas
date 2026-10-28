@@ -1,6 +1,6 @@
 # gepromptet/promptolution
 
-⭐ 157 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gepromptet/promptolution) · [官网](https://gepromptet.github.io/promptolution/) · 组织维护
+⭐ 157 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gepromptet/promptolution) · [官网](https://gepromptet.github.io/promptolution/) · 组织维护
 
 **面向研究者的模块化提示词优化框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gepromptet/promptolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 156 --> 158
     line [157, 157]
 ```
 
-2026-10-18 157 → 2026-10-27 157（+0）
+2026-10-18 157 → 2026-10-28 157（+0）
 
 
 ---

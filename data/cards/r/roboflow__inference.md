@@ -1,6 +1,6 @@
 # roboflow/inference
 
-⭐ 2,480 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/roboflow/inference) · [官网](https://inference.roboflow.com) · 组织维护
+⭐ 2,481 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/roboflow/inference) · [官网](https://inference.roboflow.com) · 组织维护
 
 **自托管计算机视觉推理服务器：让相机与边缘设备运行模型**
 
@@ -45,13 +45,13 @@ Roboflow 维护的自托管 CV 推理服务器：通过 Docker 容器在本地�
 
 ```mermaid
 xychart-beta
-    title "roboflow/inference 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2477 --> 2481
-    line [2478, 2480, 2479, 2480]
+    title "roboflow/inference 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2477 --> 2482
+    line [2478, 2480, 2479, 2480, 2481]
 ```
 
-2026-10-18 2,478 → 2026-10-27 2,480（+2）
+2026-10-18 2,478 → 2026-10-28 2,481（+3）
 
 
 ---

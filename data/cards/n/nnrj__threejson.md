@@ -1,6 +1,6 @@
 # nnrj/threejson
 
-⭐ 39 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/nnrj/threejson) · [官网](https://threejson.org/) · 组织维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nnrj/threejson) · [官网](https://threejson.org/) · 组织维护 · 中文 README
 
 **JSON 驱动的 Three.js 声明式场景运行时，供人与 Agent 构建 3D 世界**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nnrj/threejson 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 39（+0）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

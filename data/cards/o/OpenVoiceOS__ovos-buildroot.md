@@ -44,12 +44,12 @@ OpenVoiceOS 项目维护的 64 位精简 Linux 发行版构建工程：以 Linux
 ```mermaid
 xychart-beta
     title "OpenVoiceOS/ovos-buildroot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 282 --> 284
     line [283, 283]
 ```
 
-2026-10-18 283 → 2026-10-27 283（+0）
+2026-10-18 283 → 2026-10-28 283（+0）
 
 
 ---

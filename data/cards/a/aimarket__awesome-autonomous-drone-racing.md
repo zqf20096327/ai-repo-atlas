@@ -1,6 +1,6 @@
 # aimarket/awesome-autonomous-drone-racing
 
-⭐ 116 · CC0-1.0 · 推送 2026-06-19 · [GitHub](https://github.com/aimarket/awesome-autonomous-drone-racing) · 个人维护
+⭐ 117 · CC0-1.0 · 推送 2026-06-19 · [GitHub](https://github.com/aimarket/awesome-autonomous-drone-racing) · 个人维护
 
 **自主无人机竞速资源策展清单：赛事、仿真器、框架与论文**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aimarket/awesome-autonomous-drone-racing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 114 --> 118
+    line [115, 116, 117]
 ```
 
-2026-10-18 115 → 2026-10-27 116（+1）
+2026-10-18 115 → 2026-10-28 117（+2）
 
 
 ---

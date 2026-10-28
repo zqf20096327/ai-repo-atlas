@@ -1,6 +1,6 @@
 # notoriouslab/vault-curate
 
-⭐ 160 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/notoriouslab/vault-curate) · [官网](https://community.obsidian.md/plugins/vault-curate) · 个人维护 · 中文 README
+⭐ 160 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/notoriouslab/vault-curate) · [官网](https://community.obsidian.md/plugins/vault-curate) · 个人维护 · 中文 README
 
 **Obsidian 笔记的本地语义搜索与关联发现插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "notoriouslab/vault-curate 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 158 --> 161
     line [159, 160, 160]
 ```
 
-2026-10-18 159 → 2026-10-27 160（+1）
+2026-10-18 159 → 2026-10-28 160（+1）
 
 
 ---

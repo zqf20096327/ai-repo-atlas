@@ -1,6 +1,6 @@
 # InternLM/Tutorial
 
-⭐ 1,979 · Python · 推送 2026-04-22 · [GitHub](https://github.com/InternLM/Tutorial) · 组织维护 · 中文 README
+⭐ 1,980 · Python · 推送 2026-04-22 · [GitHub](https://github.com/InternLM/Tutorial) · 组织维护 · 中文 README
 
 **书生大模型实战营第三期课程：分关卡的大模型学习教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/Tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "InternLM/Tutorial 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1978 --> 1982
-    line [1981, 1980, 1979]
+    line [1981, 1980, 1979, 1980]
 ```
 
-2026-10-18 1,981 → 2026-10-27 1,979（-2）
+2026-10-18 1,981 → 2026-10-28 1,980（-1）
 
 
 ---

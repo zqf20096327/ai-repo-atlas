@@ -1,6 +1,6 @@
 # monbooru/monbooru
 
-⭐ 112 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/monbooru/monbooru) · [官网](https://monbooru.github.io/mondocs/) · 个人维护
+⭐ 117 · Go · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/monbooru/monbooru) · [官网](https://monbooru.github.io/mondocs/) · 个人维护
 
 **自托管私有图库（booru 式），含本地自动打标**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "monbooru/monbooru 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 106 --> 113
-    line [107, 110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 106 --> 118
+    line [107, 110, 111, 112, 117]
 ```
 
-2026-10-18 107 → 2026-10-27 112（+5）
+2026-10-18 107 → 2026-10-28 117（+10）
 
 
 ---

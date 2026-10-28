@@ -1,6 +1,6 @@
 # KKingZero/Zypheron-CLI
 
-⭐ 176 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KKingZero/Zypheron-CLI) · [官网](https://zypheron.net/cli) · 个人维护
+⭐ 175 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/KKingZero/Zypheron-CLI) · [官网](https://zypheron.net/cli) · 个人维护
 
 **面向授权测试的本地优先安全 CLI，集成 AI 辅助侦察与扫描**
 
@@ -46,12 +46,12 @@ Go 编写的命令行安全测试工具（v2.0.0 OSS RC），覆盖 scan/recon/o
 ```mermaid
 xychart-beta
     title "KKingZero/Zypheron-CLI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 175 --> 178
-    line [176, 177, 176, 176]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 174 --> 178
+    line [176, 177, 176, 175]
 ```
 
-2026-10-18 176 → 2026-10-27 176（+0）
+2026-10-18 176 → 2026-10-28 175（-1）
 
 
 ---

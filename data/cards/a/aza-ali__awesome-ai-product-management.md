@@ -1,6 +1,6 @@
 # aza-ali/awesome-ai-product-management
 
-⭐ 258 · 推送 2026-05-24 · [GitHub](https://github.com/aza-ali/awesome-ai-product-management) · [官网](https://github.com/aza-ali/awesome-ai-product-management) · 个人维护
+⭐ 259 · 推送 2026-05-24 · [GitHub](https://github.com/aza-ali/awesome-ai-product-management) · [官网](https://github.com/aza-ali/awesome-ai-product-management) · 个人维护
 
 **AI 产品经理资源策展清单：工具、框架、书单与报告**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aza-ali/awesome-ai-product-management 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 251 --> 259
-    line [252, 253, 254, 255, 257, 258, 258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 251 --> 260
+    line [252, 253, 254, 255, 257, 258, 259]
 ```
 
-2026-10-18 252 → 2026-10-27 258（+6）
+2026-10-18 252 → 2026-10-28 259（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # ScrapeGraphAI/Scrapegraph-demo
 
-⭐ 117 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [官网](https://scrapegraph-ai-demo.streamlit.app/) · 组织维护
+⭐ 120 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-demo) · [官网](https://scrapegraph-ai-demo.streamlit.app/) · 组织维护
 
 **ScrapeGraphAI 官方 SDK 的 Streamlit 演示应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ScrapeGraphAI/Scrapegraph-demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 115 --> 118
-    line [116, 117, 117]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 115 --> 121
+    line [116, 117, 120]
 ```
 
-2026-10-18 116 → 2026-10-27 117（+1）
+2026-10-18 116 → 2026-10-28 120（+4）
 
 
 ---

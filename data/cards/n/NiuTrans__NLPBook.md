@@ -1,6 +1,6 @@
 # NiuTrans/NLPBook
 
-⭐ 895 · 推送 2026-10-19 · [GitHub](https://github.com/NiuTrans/NLPBook) · 组织维护 · 中文 README
+⭐ 897 · 推送 2026-10-19 · [GitHub](https://github.com/NiuTrans/NLPBook) · 组织维护 · 中文 README
 
 **面向 NLP 学习者的神经网络与大语言模型书籍（免费 PDF）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NiuTrans/NLPBook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 888 --> 896
-    line [889, 891, 893, 894, 895]
+    title "NiuTrans/NLPBook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 888 --> 898
+    line [889, 891, 893, 894, 895, 897]
 ```
 
-2026-10-18 889 → 2026-10-27 895（+6）
+2026-10-18 889 → 2026-10-28 897（+8）
 
 
 ---

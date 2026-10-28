@@ -1,6 +1,6 @@
 # anthropics/formal-math
 
-⭐ 308 · Lean · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/anthropics/formal-math) · 组织维护
+⭐ 392 · Lean · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/formal-math) · 组织维护
 
 **Anthropic 发布的 Lean 4 机器检验数学形式化项目集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/formal-math 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 301 --> 309
-    line [302, 306, 307, 308, 308]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 293 --> 401
+    line [302, 306, 307, 308, 392]
 ```
 
-2026-10-18 302 → 2026-10-27 308（+6）
+2026-10-18 302 → 2026-10-28 392（+90）
 
 
 ---

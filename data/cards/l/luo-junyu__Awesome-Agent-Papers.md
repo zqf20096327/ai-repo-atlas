@@ -1,6 +1,6 @@
 # luo-junyu/Awesome-Agent-Papers
 
-⭐ 2,868 · 推送 2025-11-07 · [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) · [官网](https://arxiv.org/abs/2503.21460) · 个人维护
+⭐ 2,869 · 推送 2025-11-07 · [GitHub](https://github.com/luo-junyu/Awesome-Agent-Papers) · [官网](https://arxiv.org/abs/2503.21460) · 个人维护
 
 **LLM Agent 研究论文清单：构建、协作、演化、工具、安全、评测与应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "luo-junyu/Awesome-Agent-Papers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2864 --> 2869
-    line [2865, 2868, 2867, 2868, 2868]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 2864 --> 2870
+    line [2865, 2868, 2867, 2868, 2869]
 ```
 
-2026-10-18 2,865 → 2026-10-27 2,868（+3）
+2026-10-18 2,865 → 2026-10-28 2,869（+4）
 
 
 ---

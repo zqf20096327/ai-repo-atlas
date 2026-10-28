@@ -1,6 +1,6 @@
 # roncoo/roncoo-education
 
-⭐ 1,566 · Java · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/roncoo/roncoo-education) · [官网](https://www.roncoo.net) · 组织维护 · 中文 README
+⭐ 1,567 · Java · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/roncoo/roncoo-education) · [官网](https://www.roncoo.net) · 组织维护 · 中文 README
 
 **前后端分离的分布式在线教育网校系统（点播/直播/考试）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "roncoo/roncoo-education 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1561 --> 1567
-    line [1562, 1563, 1565, 1566, 1566]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1561 --> 1568
+    line [1562, 1563, 1565, 1566, 1567]
 ```
 
-2026-10-18 1,562 → 2026-10-27 1,566（+4）
+2026-10-18 1,562 → 2026-10-28 1,567（+5）
 
 
 ---

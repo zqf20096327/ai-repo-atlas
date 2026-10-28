@@ -1,6 +1,6 @@
 # QwenLM/Qwen3-ASR-Toolkit
 
-⭐ 1,012 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/QwenLM/Qwen3-ASR-Toolkit) · 组织维护 · 中文 README
+⭐ 1,014 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/QwenLM/Qwen3-ASR-Toolkit) · 组织维护 · 中文 README
 
 **调用 Qwen-ASR API 的长音频转写命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen3-ASR-Toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1011 --> 1014
-    line [1012, 1013, 1012, 1012]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1011 --> 1015
+    line [1012, 1013, 1012, 1014]
 ```
 
-2026-10-18 1,012 → 2026-10-27 1,012（+0）
+2026-10-18 1,012 → 2026-10-28 1,014（+2）
 
 
 ---

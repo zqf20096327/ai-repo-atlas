@@ -1,6 +1,6 @@
 # ttguy0707/CyberClaw
 
-⭐ 338 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ttguy0707/CyberClaw) · 个人维护 · 中文 README
+⭐ 340 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/ttguy0707/CyberClaw) · 个人维护 · 中文 README
 
 **给开发者的 LangGraph 通用智能体 CLI：可审计决策与两段式技能调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ttguy0707/CyberClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 334 --> 339
-    line [335, 337, 338, 338]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 334 --> 341
+    line [335, 337, 338, 340]
 ```
 
-2026-10-18 335 → 2026-10-27 338（+3）
+2026-10-18 335 → 2026-10-28 340（+5）
 
 
 ---

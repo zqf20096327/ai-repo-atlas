@@ -1,6 +1,6 @@
 # OrderLab/TrainCheck
 
-⭐ 75 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/OrderLab/TrainCheck) · [官网](http://orderlab.io/TrainCheck/) · 组织维护
+⭐ 75 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/OrderLab/TrainCheck) · [官网](http://orderlab.io/TrainCheck/) · 组织维护
 
 **AI 训练可观测性框架：学习健康运行的不变量并检测静默错误**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OrderLab/TrainCheck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-10-27 75（+0）
+2026-10-18 75 → 2026-10-28 75（+0）
 
 
 ---

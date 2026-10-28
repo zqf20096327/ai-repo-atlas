@@ -1,6 +1,6 @@
 # Scale3-Labs/langtrace
 
-⭐ 1,233 · TypeScript · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/Scale3-Labs/langtrace) · [官网](https://langtrace.ai) · 组织维护
+⭐ 1,234 · TypeScript · AGPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/Scale3-Labs/langtrace) · [官网](https://langtrace.ai) · 组织维护
 
 **面向 LLM 应用的开源可观测性工具：捕获追踪、指标与调试数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scale3-Labs/langtrace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1232 --> 1236
-    line [1234, 1235, 1234, 1233, 1233]
+    line [1234, 1235, 1234, 1233, 1234]
 ```
 
-2026-10-18 1,234 → 2026-10-27 1,233（-1）
+2026-10-18 1,234 → 2026-10-28 1,234（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis-mac
 
-⭐ 514 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-mac) · 个人维护 · 中文 README
+⭐ 515 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-mac) · 个人维护 · 中文 README
 
 **macOS 聊天悬浮窗助手：读屏识别消息，本地模型判意图风险并给候选回复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jev-chat/jev-chat-jarvis-mac 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 497 --> 515
-    line [498, 504, 507, 509, 512, 514, 514]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 497 --> 516
+    line [498, 504, 507, 509, 512, 514, 515]
 ```
 
-2026-10-18 498 → 2026-10-27 514（+16）
+2026-10-18 498 → 2026-10-28 515（+17）
 
 
 ---

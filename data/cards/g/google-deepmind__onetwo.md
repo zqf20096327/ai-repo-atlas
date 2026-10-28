@@ -1,6 +1,6 @@
 # google-deepmind/onetwo
 
-⭐ 274 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/google-deepmind/onetwo) · 组织维护
+⭐ 275 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/google-deepmind/onetwo) · 组织维护
 
 **开发和部署生产级 LLM agent 的 Python 库**
 
@@ -45,12 +45,12 @@ OneTwo 是 Google DeepMind 开发的 Python 库，面向在构建 LLM 应用与 
 ```mermaid
 xychart-beta
     title "google-deepmind/onetwo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 273 --> 276
-    line [275, 274, 274]
+    line [275, 274, 275]
 ```
 
-2026-10-18 275 → 2026-10-27 274（-1）
+2026-10-18 275 → 2026-10-28 275（+0）
 
 
 ---

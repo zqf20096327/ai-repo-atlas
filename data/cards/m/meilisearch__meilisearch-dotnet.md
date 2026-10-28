@@ -1,6 +1,6 @@
 # meilisearch/meilisearch-dotnet
 
-⭐ 347 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/meilisearch/meilisearch-dotnet) · [官网](https://meilisearch.com) · 组织维护
+⭐ 346 · C# · MIT · 推送 2026-10-14 · [GitHub](https://github.com/meilisearch/meilisearch-dotnet) · [官网](https://meilisearch.com) · 组织维护
 
 **Meilisearch 搜索引擎的官方 .NET/C# 客户端 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meilisearch/meilisearch-dotnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 344 --> 348
-    line [345, 346, 347, 347]
+    line [345, 346, 347, 346]
 ```
 
-2026-10-18 345 → 2026-10-27 347（+2）
+2026-10-18 345 → 2026-10-28 346（+1）
 
 
 ---

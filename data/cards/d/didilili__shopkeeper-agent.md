@@ -1,6 +1,6 @@
 # didilili/shopkeeper-agent
 
-⭐ 481 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/shopkeeper-agent) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E7%94%B5%E5%95%86%E9%97%AE%E6%95%B0/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
+⭐ 484 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/didilili/shopkeeper-agent) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E7%94%B5%E5%95%86%E9%97%AE%E6%95%B0/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
 
 **面向 LangGraph 学习的电商数仓问数 AI Agent 全栈项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "didilili/shopkeeper-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 464 --> 482
-    line [465, 469, 475, 476, 477, 478, 481]
+    title "didilili/shopkeeper-agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 464 --> 485
+    line [465, 469, 475, 476, 477, 478, 481, 484]
 ```
 
-2026-10-18 465 → 2026-10-27 481（+16）
+2026-10-18 465 → 2026-10-28 484（+19）
 
 
 ---

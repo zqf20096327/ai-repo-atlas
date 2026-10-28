@@ -1,6 +1,6 @@
 # Dataojitori/nocturne_memory
 
-⭐ 1,409 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Dataojitori/nocturne_memory) · [官网](https://misaligned.top/memory) · 个人维护 · 中文 README
+⭐ 1,411 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Dataojitori/nocturne_memory) · [官网](https://misaligned.top/memory) · 个人维护 · 中文 README
 
 **MCP Agent 的长期记忆服务器：URI 图谱记忆+可视化审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dataojitori/nocturne_memory 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1393 --> 1410
-    line [1394, 1395, 1404, 1405, 1406, 1408, 1409, 1409]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1393 --> 1412
+    line [1394, 1395, 1404, 1405, 1406, 1408, 1409, 1411]
 ```
 
-2026-10-18 1,394 → 2026-10-27 1,409（+15）
+2026-10-18 1,394 → 2026-10-28 1,411（+17）
 
 
 ---

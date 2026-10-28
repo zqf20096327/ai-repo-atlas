@@ -1,6 +1,6 @@
 # steipete/oracle
 
-⭐ 4,060 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/steipete/oracle) · [官网](https://askoracle.sh) · 个人维护
+⭐ 4,061 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/steipete/oracle) · [官网](https://askoracle.sh) · 个人维护
 
 **把选定文件打包发给 AI 模型做二次评审的 CLI 与 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "steipete/oracle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    title "steipete/oracle 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4055 --> 4065
-    line [4056, 4059, 4061, 4064, 4062, 4060]
+    line [4056, 4059, 4061, 4064, 4062, 4060, 4061]
 ```
 
-2026-10-18 4,056 → 2026-10-27 4,060（+4）
+2026-10-18 4,056 → 2026-10-28 4,061（+5）
 
 
 ---

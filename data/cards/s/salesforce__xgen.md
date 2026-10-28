@@ -46,12 +46,12 @@ Salesforce AI Research 发布的 XGen 模型族（7B 参数）官方研究版本
 ```mermaid
 xychart-beta
     title "salesforce/xgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 727 --> 729
     line [728, 728]
 ```
 
-2026-10-18 728 → 2026-10-27 728（+0）
+2026-10-18 728 → 2026-10-28 728（+0）
 
 
 ---

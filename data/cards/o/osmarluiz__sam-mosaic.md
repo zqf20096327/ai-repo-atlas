@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "osmarluiz/sam-mosaic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "osmarluiz/sam-mosaic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 34 --> 37
-    line [35, 36]
+    line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-10-27 36（+1）
+2026-10-18 35 → 2026-10-28 36（+1）
 
 
 ---

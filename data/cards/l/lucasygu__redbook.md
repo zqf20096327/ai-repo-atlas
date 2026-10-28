@@ -1,6 +1,6 @@
 # lucasygu/redbook
 
-⭐ 530 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/lucasygu/redbook) · [官网](https://lucas.do/zh/projects/redbook) · 个人维护 · 中文 README
+⭐ 531 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/lucasygu/redbook) · [官网](https://lucas.do/zh/projects/redbook) · 个人维护 · 中文 README
 
 **面向 AI agent 的小红书命令行工具：搜索、分析与发布**
 
@@ -46,13 +46,13 @@ Node.js 实现的小红书 CLI，通过读取 Chrome 浏览器 Cookie 认证（�
 
 ```mermaid
 xychart-beta
-    title "lucasygu/redbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 516 --> 531
-    line [517, 520, 524, 526, 528, 529, 530]
+    title "lucasygu/redbook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 516 --> 532
+    line [517, 520, 524, 526, 528, 529, 530, 531]
 ```
 
-2026-10-18 517 → 2026-10-27 530（+13）
+2026-10-18 517 → 2026-10-28 531（+14）
 
 
 ---

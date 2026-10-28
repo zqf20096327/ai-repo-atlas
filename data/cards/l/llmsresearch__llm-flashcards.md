@@ -1,6 +1,6 @@
 # llmsresearch/llm-flashcards
 
-⭐ 143 · MDX · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/llmsresearch/llm-flashcards) · [官网](https://llmsresearch.com/cards) · 组织维护
+⭐ 144 · MDX · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/llmsresearch/llm-flashcards) · [官网](https://llmsresearch.com/cards) · 组织维护
 
 **LLM 概念可视化学习卡片集（211 张免费，全集 376 张）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "llmsresearch/llm-flashcards 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 141 --> 144
-    line [142, 143, 143]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 141 --> 145
+    line [142, 143, 144]
 ```
 
-2026-10-18 142 → 2026-10-27 143（+1）
+2026-10-18 142 → 2026-10-28 144（+2）
 
 
 ---

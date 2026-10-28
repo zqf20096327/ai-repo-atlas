@@ -1,6 +1,6 @@
 # magenta/magenta-realtime
 
-⭐ 1,843 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/magenta/magenta-realtime) · [官网](https://magenta.withgoogle.com/magenta-realtime-2) · 组织维护
+⭐ 1,848 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/magenta/magenta-realtime) · [官网](https://magenta.withgoogle.com/magenta-realtime-2) · 组织维护
 
 **开放权重实时音乐生成模型及配套推理库与应用套件**
 
@@ -44,13 +44,13 @@ Magenta RealTime 2 提供开放权重的实时音乐生成模型（230M 与 2.4B
 
 ```mermaid
 xychart-beta
-    title "magenta/magenta-realtime 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1833 --> 1844
-    line [1834, 1839, 1841, 1840, 1842, 1843]
+    title "magenta/magenta-realtime 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1833 --> 1849
+    line [1834, 1839, 1841, 1840, 1842, 1843, 1848]
 ```
 
-2026-10-18 1,834 → 2026-10-27 1,843（+9）
+2026-10-18 1,834 → 2026-10-28 1,848（+14）
 
 
 ---

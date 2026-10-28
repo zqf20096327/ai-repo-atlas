@@ -1,6 +1,6 @@
 # KiWi233333/JiwuChat
 
-⭐ 752 · Vue · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/KiWi233333/JiwuChat) · [官网](https://blog.jiwuchat.top) · 个人维护 · 中文 README
+⭐ 753 · Vue · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/KiWi233333/JiwuChat) · [官网](https://blog.jiwuchat.top) · 个人维护 · 中文 README
 
 **带 AI 助手的多平台轻量即时聊天应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KiWi233333/JiwuChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 750 --> 753
-    line [751, 752]
+    title "KiWi233333/JiwuChat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 750 --> 754
+    line [751, 752, 753]
 ```
 
-2026-10-18 751 → 2026-10-27 752（+1）
+2026-10-18 751 → 2026-10-28 753（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # siva-sub/NekoSpeak
 
-⭐ 189 · Kotlin · MIT · 推送 2026-05-19 · [GitHub](https://github.com/siva-sub/NekoSpeak) · 个人维护
+⭐ 191 · Kotlin · MIT · 推送 2026-05-19 · [GitHub](https://github.com/siva-sub/NekoSpeak) · 个人维护
 
 **安卓离线 AI 文字转语音应用，多 TTS 引擎本地运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "siva-sub/NekoSpeak 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 185 --> 190
-    line [187, 186, 189, 189]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 185 --> 192
+    line [187, 186, 189, 191]
 ```
 
-2026-10-18 187 → 2026-10-27 189（+2）
+2026-10-18 187 → 2026-10-28 191（+4）
 
 
 ---

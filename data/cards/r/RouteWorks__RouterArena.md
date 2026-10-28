@@ -1,6 +1,6 @@
 # RouteWorks/RouterArena
 
-⭐ 151 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/RouteWorks/RouterArena) · [官网](https://routeworks.github.io/) · 组织维护
+⭐ 152 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/RouteWorks/RouterArena) · [官网](https://routeworks.github.io/) · 组织维护
 
 **面向 LLM 路由器的开放评测平台与在线排行榜**
 
@@ -46,12 +46,12 @@ RouterArena 提供针对 LLM 路由器（为查询自动选模型的系统）的
 ```mermaid
 xychart-beta
     title "RouteWorks/RouterArena 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 146 --> 152
-    line [147, 149, 151, 151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 146 --> 153
+    line [147, 149, 151, 152]
 ```
 
-2026-10-18 147 → 2026-10-27 151（+4）
+2026-10-18 147 → 2026-10-28 152（+5）
 
 
 ---

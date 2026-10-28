@@ -1,6 +1,6 @@
 # gulagala001/oh-my-dsh
 
-⭐ 41 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/gulagala001/oh-my-dsh) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gulagala001/oh-my-dsh) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的插件包：长任务工作流、记忆与上下文管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gulagala001/oh-my-dsh 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 32 --> 42
-    line [33, 35, 36, 39, 40, 41]
+    title "gulagala001/oh-my-dsh 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 32 --> 44
+    line [33, 35, 36, 39, 40, 41, 43]
 ```
 
-2026-10-18 33 → 2026-10-27 41（+8）
+2026-10-18 33 → 2026-10-28 43（+10）
 
 
 ---

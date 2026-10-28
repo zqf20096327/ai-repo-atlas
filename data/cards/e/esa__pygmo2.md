@@ -1,6 +1,6 @@
 # esa/pygmo2
 
-⭐ 542 · C++ · MPL-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/esa/pygmo2) · [官网](https://esa.github.io/pygmo2/) · 组织维护
+⭐ 543 · C++ · MPL-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/esa/pygmo2) · [官网](https://esa.github.io/pygmo2/) · 组织维护
 
 **面向科研的 Python 大规模并行优化库**
 
@@ -44,12 +44,12 @@ pygmo 是欧洲航天局（esa）维护的科学 Python 库，为全局与局部
 ```mermaid
 xychart-beta
     title "esa/pygmo2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 541 --> 543
-    line [542, 542]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 541 --> 544
+    line [542, 543]
 ```
 
-2026-10-18 542 → 2026-10-27 542（+0）
+2026-10-18 542 → 2026-10-28 543（+1）
 
 
 ---

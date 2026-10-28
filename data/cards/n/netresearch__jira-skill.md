@@ -1,6 +1,6 @@
 # netresearch/jira-skill
 
-⭐ 89 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/netresearch/jira-skill) · 组织维护
+⭐ 89 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/netresearch/jira-skill) · 组织维护
 
 **面向 Claude Code 等 AI agent 的 Jira 集成技能插件**
 
@@ -46,12 +46,12 @@ Netresearch 维护的 Agent Skills 插件，含两个技能：jira-communication
 ```mermaid
 xychart-beta
     title "netresearch/jira-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 87 --> 90
     line [89, 88, 89, 89]
 ```
 
-2026-10-18 89 → 2026-10-27 89（+0）
+2026-10-18 89 → 2026-10-28 89（+0）
 
 
 ---

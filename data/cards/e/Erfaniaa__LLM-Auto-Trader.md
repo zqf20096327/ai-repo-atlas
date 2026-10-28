@@ -1,6 +1,6 @@
 # Erfaniaa/LLM-Auto-Trader
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/Erfaniaa/LLM-Auto-Trader) · 个人维护
+⭐ 44 · Python · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/Erfaniaa/LLM-Auto-Trader) · 个人维护
 
 **LLM 决策的加密货币自动交易机器人（纸面交易优先）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Erfaniaa/LLM-Auto-Trader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-18 42 → 2026-10-27 43（+1）
+2026-10-18 42 → 2026-10-28 44（+2）
 
 
 ---

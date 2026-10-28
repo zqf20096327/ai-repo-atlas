@@ -1,6 +1,6 @@
 # raids-lab/crater
 
-⭐ 569 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/raids-lab/crater) · [官网](https://raids-lab.github.io/crater/en/) · 组织维护 · 中文 README
+⭐ 570 · Go · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/raids-lab/crater) · [官网](https://raids-lab.github.io/crater/en/) · 组织维护 · 中文 README
 
 **Kubernetes 原生的共享 AI 算力集群管理平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raids-lab/crater 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 568 --> 570
-    line [569, 569]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 568 --> 571
+    line [569, 570]
 ```
 
-2026-10-18 569 → 2026-10-27 569（+0）
+2026-10-18 569 → 2026-10-28 570（+1）
 
 
 ---

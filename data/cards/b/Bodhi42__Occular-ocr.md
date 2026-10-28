@@ -1,6 +1,6 @@
 # Bodhi42/Occular-ocr
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Bodhi42/Occular-ocr) · 个人维护
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Bodhi42/Occular-ocr) · 个人维护
 
 **面向俄语文档的 OCR 库：pip 安装、CPU 开箱即用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bodhi42/Occular-ocr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "Bodhi42/Occular-ocr 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 95 --> 103
-    line [102, 98, 96, 97]
+    line [102, 98, 96, 97, 97]
 ```
 
-2026-10-18 102 → 2026-10-27 97（-5）
+2026-10-18 102 → 2026-10-28 97（-5）
 
 
 ---

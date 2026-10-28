@@ -1,6 +1,6 @@
 # vorojar/Folio-OCR
 
-⭐ 472 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/vorojar/Folio-OCR) · [官网](https://vorojar.github.io/Folio-OCR/) · 个人维护 · 中文 README
+⭐ 473 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/vorojar/Folio-OCR) · [官网](https://vorojar.github.io/Folio-OCR/) · 个人维护 · 中文 README
 
 **本地批量 OCR 工作台：把扫描 PDF/图片转可编辑文本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vorojar/Folio-OCR 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 470 --> 473
-    line [471, 472]
+    title "vorojar/Folio-OCR 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 470 --> 474
+    line [471, 472, 473]
 ```
 
-2026-10-18 471 → 2026-10-27 472（+1）
+2026-10-18 471 → 2026-10-28 473（+2）
 
 
 ---

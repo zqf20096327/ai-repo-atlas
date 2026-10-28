@@ -1,6 +1,6 @@
 # will-rice/denoisers
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/will-rice/denoisers) · [官网](https://huggingface.co/spaces/wrice/denoisers) · 个人维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/will-rice/denoisers) · [官网](https://huggingface.co/spaces/wrice/denoisers) · 个人维护
 
 **面向波形音频的 PyTorch 深度学习降噪库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "will-rice/denoisers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-10-27 44（+1）
+2026-10-18 43 → 2026-10-28 45（+2）
 
 
 ---

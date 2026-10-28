@@ -1,6 +1,6 @@
 # aviaryan/awesome-ai-games
 
-⭐ 40 · 推送 2026-10-14 · [GitHub](https://github.com/aviaryan/awesome-ai-games) · 个人维护
+⭐ 41 · 推送 2026-10-14 · [GitHub](https://github.com/aviaryan/awesome-ai-games) · 个人维护
 
 **AI 制作的浏览器可玩游戏策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aviaryan/awesome-ai-games 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 35 --> 41
-    line [36, 38, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 35 --> 42
+    line [36, 38, 39, 40, 41]
 ```
 
-2026-10-18 36 → 2026-10-27 40（+4）
+2026-10-18 36 → 2026-10-28 41（+5）
 
 
 ---

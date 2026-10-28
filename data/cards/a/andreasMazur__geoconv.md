@@ -1,6 +1,6 @@
 # andreasMazur/geoconv
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/andreasMazur/geoconv) · 个人维护
+⭐ 38 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/andreasMazur/geoconv) · 个人维护
 
 **三维曲面上做深度学习的 Python 库：网格预处理与表面卷积**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andreasMazur/geoconv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 38（+0）
 
 
 ---

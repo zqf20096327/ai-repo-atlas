@@ -1,6 +1,6 @@
 # cnoe-io/openapi-mcp-codegen
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cnoe-io/openapi-mcp-codegen) · [官网](https://cnoe-io.github.io/openapi-mcp-codegen/) · 组织维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cnoe-io/openapi-mcp-codegen) · [官网](https://cnoe-io.github.io/openapi-mcp-codegen/) · 组织维护
 
 **从 OpenAPI 规范生成 MCP Server 的 Python 代码生成器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cnoe-io/openapi-mcp-codegen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

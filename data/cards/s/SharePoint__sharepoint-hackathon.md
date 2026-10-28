@@ -1,6 +1,6 @@
 # SharePoint/sharepoint-hackathon
 
-⭐ 151 · MIT · 推送 2026-03-12 · [GitHub](https://github.com/SharePoint/sharepoint-hackathon) · 组织维护
+⭐ 152 · MIT · 推送 2026-03-12 · [GitHub](https://github.com/SharePoint/sharepoint-hackathon) · 组织维护
 
 **2026 春季 SharePoint 黑客松活动页面，面向所有人开放参赛**
 
@@ -46,12 +46,12 @@ Microsoft SharePoint 团组发布的黑客松落地页：活动于 2026 年 3 �
 ```mermaid
 xychart-beta
     title "SharePoint/sharepoint-hackathon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 150 --> 153
+    line [151, 152]
 ```
 
-2026-10-18 151 → 2026-10-27 151（+0）
+2026-10-18 151 → 2026-10-28 152（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # thustorage/GustANN
 
-⭐ 32 · Cuda · 推送 2026-10-20 · [GitHub](https://github.com/thustorage/GustANN) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **单 GPU 十亿级向量检索引擎：SSD/内存/显存多模式**
 

@@ -1,6 +1,6 @@
 # kelvins/awesome-mlops
 
-⭐ 5,296 · Python · 推送 2026-08-17 · [GitHub](https://github.com/kelvins/awesome-mlops) · 个人维护
+⭐ 5,297 · Python · 推送 2026-08-17 · [GitHub](https://github.com/kelvins/awesome-mlops) · 个人维护
 
 **MLOps 工具策展清单：按类别收录机器学习工程工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kelvins/awesome-mlops 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5286 --> 5297
-    line [5287, 5289, 5290, 5293, 5296]
+    title "kelvins/awesome-mlops 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5286 --> 5298
+    line [5287, 5289, 5290, 5293, 5296, 5297]
 ```
 
-2026-10-18 5,287 → 2026-10-27 5,296（+9）
+2026-10-18 5,287 → 2026-10-28 5,297（+10）
 
 
 ---

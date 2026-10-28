@@ -1,6 +1,6 @@
 # M1chlCZ/nsfw_sherlock
 
-⭐ 31 · Go · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/M1chlCZ/nsfw_sherlock) · 个人维护
+⭐ 31 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/M1chlCZ/nsfw_sherlock) · 个人维护
 
 **自托管 NSFW 图片/视频内容审核 API 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "M1chlCZ/nsfw_sherlock 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 28 --> 32
     line [29, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-27 31（+2）
+2026-10-18 29 → 2026-10-28 31（+2）
 
 
 ---

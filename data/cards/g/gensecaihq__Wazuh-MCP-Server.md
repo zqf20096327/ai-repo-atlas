@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-MCP-Server
 
-⭐ 258 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gensecaihq/Wazuh-MCP-Server) · [官网](https://wazuhmcp.netlify.app/) · 组织维护
+⭐ 259 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/gensecaihq/Wazuh-MCP-Server) · [官网](https://wazuhmcp.netlify.app/) · 组织维护
 
 **连接 LLM 客户端与 Wazuh SIEM 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gensecaihq/Wazuh-MCP-Server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 251 --> 259
-    line [252, 254, 257, 258]
+    title "gensecaihq/Wazuh-MCP-Server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 251 --> 260
+    line [252, 254, 257, 258, 259]
 ```
 
-2026-10-18 252 → 2026-10-27 258（+6）
+2026-10-18 252 → 2026-10-28 259（+7）
 
 
 ---

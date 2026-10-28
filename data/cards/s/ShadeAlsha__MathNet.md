@@ -1,6 +1,6 @@
 # ShadeAlsha/MathNet
 
-⭐ 121 · 推送 2026-04-21 · [GitHub](https://github.com/ShadeAlsha/MathNet) · [官网](https://mathnet.mit.edu) · 组织维护
+⭐ 122 · 推送 2026-04-21 · [GitHub](https://github.com/ShadeAlsha/MathNet) · [官网](https://mathnet.mit.edu) · 组织维护
 
 **面向研究者的多语种奥数推理与检索基准数据集（30,676 题）**
 
@@ -45,12 +45,12 @@ ICLR 2026 论文的官方实现：MathNet 是从 47 国 1985–2025 年官方竞
 ```mermaid
 xychart-beta
     title "ShadeAlsha/MathNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-27 121（+0）
+2026-10-18 121 → 2026-10-28 122（+1）
 
 
 ---

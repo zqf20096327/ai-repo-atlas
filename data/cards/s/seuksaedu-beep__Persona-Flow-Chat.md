@@ -1,6 +1,6 @@
 # seuksaedu-beep/Persona-Flow-Chat
 
-⭐ 129 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/seuksaedu-beep/Persona-Flow-Chat) · 个人维护
+⭐ 128 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/seuksaedu-beep/Persona-Flow-Chat) · 个人维护
 
 **设计与部署 AI 人格的社交 Feed 模拟工作室**
 
@@ -47,12 +47,12 @@ PersonaForge 是一个创建和运行 AI 对话人格的创意沙盒：通过 Pe
 ```mermaid
 xychart-beta
     title "seuksaedu-beep/Persona-Flow-Chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 127 --> 130
-    line [128, 129, 129]
+    line [128, 129, 128]
 ```
 
-2026-10-18 128 → 2026-10-27 129（+1）
+2026-10-18 128 → 2026-10-28 128（+0）
 
 
 ---

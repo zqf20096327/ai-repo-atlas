@@ -44,13 +44,13 @@ DSPy 框架的 Go 语言实现，提供系统化提示工程能力：以 Signatu
 
 ```mermaid
 xychart-beta
-    title "XiaoConstantine/dspy-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "XiaoConstantine/dspy-go 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 198 --> 201
-    line [199, 200]
+    line [199, 200, 200]
 ```
 
-2026-10-18 199 → 2026-10-27 200（+1）
+2026-10-18 199 → 2026-10-28 200（+1）
 
 
 ---

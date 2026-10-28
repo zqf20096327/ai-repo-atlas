@@ -1,6 +1,6 @@
 # arabold/docs-mcp-server
 
-⭐ 1,832 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arabold/docs-mcp-server) · [官网](https://grounded.tools) · 个人维护
+⭐ 1,835 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/arabold/docs-mcp-server) · [官网](https://grounded.tools) · 个人维护
 
 **给 AI 编程助手提供版本匹配文档索引的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arabold/docs-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1812 --> 1833
-    line [1813, 1816, 1823, 1827, 1829, 1832]
+    title "arabold/docs-mcp-server 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1811 --> 1837
+    line [1813, 1816, 1823, 1827, 1829, 1832, 1835]
 ```
 
-2026-10-18 1,813 → 2026-10-27 1,832（+19）
+2026-10-18 1,813 → 2026-10-28 1,835（+22）
 
 
 ---

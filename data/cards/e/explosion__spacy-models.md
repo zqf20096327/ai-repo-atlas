@@ -1,6 +1,6 @@
 # explosion/spacy-models
 
-⭐ 1,915 · Python · 推送 2026-03-20 · [GitHub](https://github.com/explosion/spacy-models) · [官网](https://spacy.io) · 组织维护
+⭐ 1,916 · Python · 推送 2026-03-20 · [GitHub](https://github.com/explosion/spacy-models) · [官网](https://spacy.io) · 组织维护
 
 **spaCy NLP 库的官方模型发布仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "explosion/spacy-models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 1912 --> 1916
-    line [1913, 1914, 1915]
+    title "explosion/spacy-models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1912 --> 1917
+    line [1913, 1914, 1915, 1916]
 ```
 
-2026-10-18 1,913 → 2026-10-27 1,915（+2）
+2026-10-18 1,913 → 2026-10-28 1,916（+3）
 
 
 ---

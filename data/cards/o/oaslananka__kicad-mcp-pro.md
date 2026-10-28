@@ -1,6 +1,6 @@
 # oaslananka/kicad-mcp-pro
 
-⭐ 155 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
+⭐ 155 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
 
 **连接 AI agent 与 KiCad 电路设计的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oaslananka/kicad-mcp-pro 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "oaslananka/kicad-mcp-pro 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 133 --> 157
-    line [135, 141, 144, 145, 146, 149, 153, 155]
+    line [135, 141, 144, 145, 146, 149, 153, 155, 155]
 ```
 
-2026-10-18 135 → 2026-10-27 155（+20）
+2026-10-18 135 → 2026-10-28 155（+20）
 
 
 ---

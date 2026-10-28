@@ -1,6 +1,6 @@
 # deepseek-ai/TileKernels
 
-⭐ 2,010 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/TileKernels) · 组织维护 · 中文 README
+⭐ 2,012 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/TileKernels) · 组织维护 · 中文 README
 
 **基于 TileLang 的 LLM 训练/推理高性能算子库**
 
@@ -44,13 +44,13 @@ deepseek-ai 维护的算子库，用领域专用语言 TileLang 实现数十个�
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/TileKernels 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1955 --> 2015
-    line [1960, 1963, 1986, 1999, 2003, 2006, 2007, 2010]
+    title "deepseek-ai/TileKernels 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1955 --> 2017
+    line [1960, 1963, 1986, 1999, 2003, 2006, 2007, 2010, 2012]
 ```
 
-2026-10-18 1,960 → 2026-10-27 2,010（+50）
+2026-10-18 1,960 → 2026-10-28 2,012（+52）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliaDiff/DifferentiationInterface.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 315 --> 317
     line [316, 316]
 ```
 
-2026-10-18 316 → 2026-10-27 316（+0）
+2026-10-18 316 → 2026-10-28 316（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mrbuslov/capcut-ai-editor
 
-⭐ 123 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mrbuslov/capcut-ai-editor) · 个人维护
+⭐ 123 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mrbuslov/capcut-ai-editor) · 个人维护
 
 **给视频创作者的 MCP 服务器：在剪映工程内自动去静音与重复片段**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrbuslov/capcut-ai-editor 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 119 --> 125
     line [120, 121, 122, 124, 123, 123]
 ```
 
-2026-10-18 120 → 2026-10-27 123（+3）
+2026-10-18 120 → 2026-10-28 123（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # wanshuiyin/ARIS-in-AI-Offer
 
-⭐ 616 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · 个人维护 · 中文 README
+⭐ 618 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · 个人维护 · 中文 README
 
 **AI 秋招双语面试速查表合集（35 篇，8 类）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wanshuiyin/ARIS-in-AI-Offer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 601 --> 617
-    line [602, 608, 611, 613, 614, 616]
+    title "wanshuiyin/ARIS-in-AI-Offer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 601 --> 619
+    line [602, 608, 611, 613, 614, 616, 618]
 ```
 
-2026-10-18 602 → 2026-10-27 616（+14）
+2026-10-18 602 → 2026-10-28 618（+16）
 
 
 ---

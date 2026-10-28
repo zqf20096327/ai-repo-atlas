@@ -1,6 +1,6 @@
 # Open-Source-Legal/OpenContracts
 
-⭐ 1,524 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [官网](https://open-source-legal.github.io/OpenContracts/) · 组织维护
+⭐ 1,524 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Open-Source-Legal/OpenContracts) · [官网](https://open-source-legal.github.io/OpenContracts/) · 组织维护
 
 **开源自托管文档智能平台：标注、引用图谱、AI agent 与 MCP 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Source-Legal/OpenContracts 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "Open-Source-Legal/OpenContracts 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1508 --> 1525
-    line [1509, 1512, 1519, 1521, 1523, 1524]
+    line [1509, 1512, 1519, 1521, 1523, 1524, 1524]
 ```
 
-2026-10-18 1,509 → 2026-10-27 1,524（+15）
+2026-10-18 1,509 → 2026-10-28 1,524（+15）
 
 
 ---

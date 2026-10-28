@@ -1,6 +1,6 @@
 # JackTheGit/hermes-ai-infrastructure-monitoring-toolkit
 
-⭐ 35 · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/JackTheGit/hermes-ai-infrastructure-monitoring-toolkit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Hermes Agent 的 AI 基础设施自主监控工具包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

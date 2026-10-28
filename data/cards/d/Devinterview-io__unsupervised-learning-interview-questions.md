@@ -44,12 +44,12 @@ Devinterview.io 维护的无监督学习面试准备资料仓库：收录 55 道
 ```mermaid
 xychart-beta
     title "Devinterview-io/unsupervised-learning-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

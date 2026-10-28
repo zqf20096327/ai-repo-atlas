@@ -1,6 +1,6 @@
 # nxtg-ai/forge-orchestrator
 
-⭐ 162 · Rust · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nxtg-ai/forge-orchestrator) · [官网](https://forge.nxtg.ai) · 组织维护
+⭐ 163 · Rust · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nxtg-ai/forge-orchestrator) · [官网](https://forge.nxtg.ai) · 组织维护
 
 **面向 Claude Code 的多 AI 编码工具任务编排 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nxtg-ai/forge-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 161 --> 164
+    line [162, 163]
 ```
 
-2026-10-18 162 → 2026-10-27 162（+0）
+2026-10-18 162 → 2026-10-28 163（+1）
 
 
 ---

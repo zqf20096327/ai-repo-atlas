@@ -1,6 +1,6 @@
 # rh-aiservices-bu/ai-on-openshift
 
-⭐ 109 · Shell · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/rh-aiservices-bu/ai-on-openshift) · [官网](https://ai-on-openshift.io) · 组织维护
+⭐ 109 · Shell · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/rh-aiservices-bu/ai-on-openshift) · [官网](https://ai-on-openshift.io) · 组织维护
 
 **AI on OpenShift 网站源码：部署 OpenShift 上 AI/ML 工具的文档站**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "rh-aiservices-bu/ai-on-openshift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-18 109 → 2026-10-27 109（+0）
+2026-10-18 109 → 2026-10-28 109（+0）
 
 
 ---

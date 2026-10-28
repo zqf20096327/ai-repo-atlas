@@ -1,6 +1,6 @@
 # seehiong/adk-web-multi-agent
 
-⭐ 37 · Jupyter Notebook · 推送 2025-11-03 · [GitHub](https://github.com/seehiong/adk-web-multi-agent) · [官网](https://seehiong.github.io/posts/2025/11/adk-web-multi-agent-system/) · 个人维护
+⭐ 38 · Jupyter Notebook · 推送 2025-11-03 · [GitHub](https://github.com/seehiong/adk-web-multi-agent) · [官网](https://seehiong.github.io/posts/2025/11/adk-web-multi-agent-system/) · 个人维护
 
 **用 Google ADK 与 OpenRouter 模型构建的多 Agent 数据查询示例系统**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/adk-web-multi-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 38（+1）
 
 
 ---

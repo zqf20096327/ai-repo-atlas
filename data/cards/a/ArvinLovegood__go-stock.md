@@ -1,6 +1,6 @@
 # ArvinLovegood/go-stock
 
-⭐ 7,949 · Go · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ArvinLovegood/go-stock) · [官网](https://go-stock.sparkmemory.top) · 个人维护 · 中文 README
+⭐ 7,962 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ArvinLovegood/go-stock) · [官网](https://go-stock.sparkmemory.top) · 个人维护 · 中文 README
 
 **面向个人投资者的 AI 股票分析与选股桌面工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArvinLovegood/go-stock 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 7847 --> 7958
-    line [7856, 7876, 7901, 7910, 7919, 7928, 7938, 7949]
+    title "ArvinLovegood/go-stock 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 7846 --> 7972
+    line [7856, 7876, 7901, 7910, 7919, 7928, 7938, 7949, 7962]
 ```
 
-2026-10-18 7,856 → 2026-10-27 7,949（+93）
+2026-10-18 7,856 → 2026-10-28 7,962（+106）
 
 
 ---

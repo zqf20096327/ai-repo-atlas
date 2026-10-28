@@ -1,6 +1,6 @@
 # genkit-ai/genkit
 
-⭐ 6,550 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/genkit-ai/genkit) · [官网](https://genkit.dev) · 组织维护
+⭐ 6,550 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/genkit-ai/genkit) · [官网](https://genkit.dev) · 组织维护
 
 **Google 出品的跨语言 AI 应用开发框架，构建 agent 与 RAG**
 
@@ -45,13 +45,13 @@ Google Firebase 团队构建并用于生产的开源框架，提供 JavaScript/T
 
 ```mermaid
 xychart-beta
-    title "genkit-ai/genkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "genkit-ai/genkit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 6522 --> 6552
-    line [6524, 6532, 6537, 6542, 6546, 6548, 6550]
+    line [6524, 6532, 6537, 6542, 6546, 6548, 6550, 6550]
 ```
 
-2026-10-18 6,524 → 2026-10-27 6,550（+26）
+2026-10-18 6,524 → 2026-10-28 6,550（+26）
 
 
 ---

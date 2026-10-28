@@ -46,12 +46,12 @@ Viddie 是一个 React 前端 + Django API + Celery worker 的 Web 应用：用�
 ```mermaid
 xychart-beta
     title "kostas2370/Video-Creator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

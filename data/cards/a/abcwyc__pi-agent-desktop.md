@@ -1,6 +1,6 @@
 # abcwyc/pi-agent-desktop
 
-⭐ 858 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/abcwyc/pi-agent-desktop) · [官网](https://pi.348580.xyz) · 个人维护 · 中文 README
+⭐ 860 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/abcwyc/pi-agent-desktop) · [官网](https://pi.348580.xyz) · 个人维护 · 中文 README
 
 **把 pi 编程 agent 打包成开箱即用的跨平台桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "abcwyc/pi-agent-desktop 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 808 --> 862
-    line [812, 813, 826, 832, 839, 846, 850, 858]
+    title "abcwyc/pi-agent-desktop 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 808 --> 864
+    line [812, 813, 826, 832, 839, 846, 850, 858, 860]
 ```
 
-2026-10-18 812 → 2026-10-27 858（+46）
+2026-10-18 812 → 2026-10-28 860（+48）
 
 
 ---

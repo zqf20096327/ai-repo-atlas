@@ -1,6 +1,6 @@
 # NVIDIA/skills
 
-⭐ 3,745 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/skills) · [官网](https://docs.nvidia.com/skills) · 组织维护
+⭐ 3,761 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/skills) · [官网](https://docs.nvidia.com/skills) · 组织维护
 
 **NVIDIA 官方验证的 Agent Skills 目录，装给编码 agent 使用**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的 Agent Skills 聚合目录：技能本体保存在各产品仓�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3617 --> 3756
-    line [3628, 3648, 3681, 3691, 3708, 3718, 3731, 3745]
+    title "NVIDIA/skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3615 --> 3774
+    line [3628, 3648, 3681, 3691, 3708, 3718, 3731, 3745, 3761]
 ```
 
-2026-10-18 3,628 → 2026-10-27 3,745（+117）
+2026-10-18 3,628 → 2026-10-28 3,761（+133）
 
 
 ---

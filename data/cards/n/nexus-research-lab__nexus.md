@@ -1,6 +1,6 @@
 # nexus-research-lab/nexus
 
-⭐ 154 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nexus-research-lab/nexus) · [官网](https://www.nexusos.cn) · 组织维护 · 中文 README
+⭐ 154 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/nexus-research-lab/nexus) · [官网](https://www.nexusos.cn) · 组织维护 · 中文 README
 
 **企业/团队的多 Agent 协作平台：持久记忆的 Agent 房间协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nexus-research-lab/nexus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 151 --> 155
     line [152, 154, 154]
 ```
 
-2026-10-18 152 → 2026-10-27 154（+2）
+2026-10-18 152 → 2026-10-28 154（+2）
 
 
 ---

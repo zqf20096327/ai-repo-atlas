@@ -1,6 +1,6 @@
 # orion-gz/EasyPaper
 
-⭐ 40 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/orion-gz/EasyPaper) · 个人维护
+⭐ 40 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/orion-gz/EasyPaper) · 个人维护
 
 **面向 PDF 文献的 AI 翻译、阅读与讨论工作台（桌面/网页）**
 
@@ -46,12 +46,12 @@ EasyPaper 是一个 Web 与桌面端 PDF 工作区，支持双语对照翻译（
 ```mermaid
 xychart-beta
     title "orion-gz/EasyPaper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 37 --> 41
     line [38, 39, 40, 40]
 ```
 
-2026-10-18 38 → 2026-10-27 40（+2）
+2026-10-18 38 → 2026-10-28 40（+2）
 
 
 ---

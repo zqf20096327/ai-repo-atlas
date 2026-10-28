@@ -1,6 +1,6 @@
 # Valiera00/SPITE
 
-⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Valiera00/SPITE) · [官网](https://spite.run/) · 个人维护
+⭐ 33 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Valiera00/SPITE) · [官网](https://spite.run/) · 个人维护
 
 **面向影视前期的 AI 生成工作台：节点画布与线性 Flow 双模式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Valiera00/SPITE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 28 --> 34
     line [29, 31, 32, 33, 33]
 ```
 
-2026-10-18 29 → 2026-10-27 33（+4）
+2026-10-18 29 → 2026-10-28 33（+4）
 
 
 ---

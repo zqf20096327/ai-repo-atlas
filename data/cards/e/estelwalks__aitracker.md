@@ -1,6 +1,6 @@
 # estelwalks/aitracker
 
-⭐ 136 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/estelwalks/aitracker) · 个人维护 · 中文 README
+⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/estelwalks/aitracker) · 个人维护 · 中文 README
 
 **本地优先的 AI 工作台：统计各 AI 编码工具 Token 用量与花费，沉淀 Skills 与长期记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "estelwalks/aitracker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 132 --> 137
-    line [133, 135, 136, 136]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 132 --> 138
+    line [133, 135, 136, 137]
 ```
 
-2026-10-18 133 → 2026-10-27 136（+3）
+2026-10-18 133 → 2026-10-28 137（+4）
 
 
 ---

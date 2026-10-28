@@ -44,13 +44,13 @@ Argonne 实验室 ALCF 团队维护的 I/O 基准：通过 Data Generator 生成
 
 ```mermaid
 xychart-beta
-    title "argonne-lcf/dlio_benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "argonne-lcf/dlio_benchmark 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 110 --> 114
-    line [111, 112, 113]
+    line [111, 112, 113, 113]
 ```
 
-2026-10-18 111 → 2026-10-27 113（+2）
+2026-10-18 111 → 2026-10-28 113（+2）
 
 
 ---

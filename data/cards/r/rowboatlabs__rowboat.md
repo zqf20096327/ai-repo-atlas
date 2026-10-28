@@ -1,6 +1,6 @@
 # rowboatlabs/rowboat
 
-⭐ 18,090 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
+⭐ 18,094 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
 
 **本地优先的个人 AI 助手，带知识图谱与团队 Spaces 协作**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "rowboatlabs/rowboat 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 18024 --> 18096
-    line [18030, 18037, 18047, 18050, 18060, 18064, 18084, 18090]
+    title "rowboatlabs/rowboat 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18024 --> 18100
+    line [18030, 18037, 18047, 18050, 18060, 18064, 18084, 18090, 18094]
 ```
 
-2026-10-18 18,030 → 2026-10-27 18,090（+60）
+2026-10-18 18,030 → 2026-10-28 18,094（+64）
 
 
 ---

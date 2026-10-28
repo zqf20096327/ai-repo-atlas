@@ -1,6 +1,6 @@
 # Helvesec/rmux
 
-⭐ 2,670 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Helvesec/rmux) · [官网](https://rmux.io) · 组织维护 · 中文 README
+⭐ 2,673 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Helvesec/rmux) · [官网](https://rmux.io) · 组织维护 · 中文 README
 
 **Rust 终端多路复用引擎：兼容 tmux 命令并提供类型化 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Helvesec/rmux 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2664 --> 2671
-    line [2666, 2665, 2669, 2670, 2670]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 2664 --> 2674
+    line [2666, 2665, 2669, 2670, 2673]
 ```
 
-2026-10-18 2,666 → 2026-10-27 2,670（+4）
+2026-10-18 2,666 → 2026-10-28 2,673（+7）
 
 
 ---

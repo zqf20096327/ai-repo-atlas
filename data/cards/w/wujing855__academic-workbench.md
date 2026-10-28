@@ -1,6 +1,6 @@
 # wujing855/academic-workbench
 
-⭐ 46 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wujing855/academic-workbench) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wujing855/academic-workbench) · 个人维护 · 中文 README
 
 **本地自托管的学术文献工作台：聚合、PDF转写、摘要、精读、日志**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wujing855/academic-workbench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 41 --> 47
-    line [42, 44, 45, 46]
+    title "wujing855/academic-workbench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 41 --> 50
+    line [42, 44, 45, 46, 49]
 ```
 
-2026-10-18 42 → 2026-10-27 46（+4）
+2026-10-18 42 → 2026-10-28 49（+7）
 
 
 ---

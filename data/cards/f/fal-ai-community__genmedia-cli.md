@@ -1,6 +1,6 @@
 # fal-ai-community/genmedia-cli
 
-⭐ 81 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fal-ai-community/genmedia-cli) · [官网](https://genmedia.sh) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fal-ai-community/genmedia-cli) · [官网](https://genmedia.sh) · 组织维护
 
 **面向 fal.ai 模型平台的 agent 优先命令行客户端**
 
@@ -45,13 +45,13 @@ genmedia 是操作 fal.ai 1200+ 生成模型端点的 CLI：搜索模型、查�
 
 ```mermaid
 xychart-beta
-    title "fal-ai-community/genmedia-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 79 --> 82
-    line [80, 81]
+    title "fal-ai-community/genmedia-cli 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 79 --> 83
+    line [80, 81, 82]
 ```
 
-2026-10-18 80 → 2026-10-27 81（+1）
+2026-10-18 80 → 2026-10-28 82（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Python 库与 CLI（tb-reducer）：读取多个 TensorBoard run 目录的事件
 ```mermaid
 xychart-beta
     title "janosh/tensorboard-reducer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-27 78（+0）
+2026-10-18 78 → 2026-10-28 78（+0）
 
 
 ---

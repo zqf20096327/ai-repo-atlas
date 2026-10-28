@@ -1,6 +1,6 @@
 # AutoEmbed/AutoEmbed
 
-⭐ 46 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/AutoEmbed/AutoEmbed) · [官网](https://autoembed.github.io) · 组织维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/AutoEmbed/AutoEmbed) · [官网](https://autoembed.github.io) · 组织维护 · 中文 README
 
 **面向通用嵌入式 IoT 系统的 LLM 自动化开发平台：自然语言到硬件验证代码**
 
@@ -46,12 +46,12 @@ Electron 桌面应用（后端 FastAPI），面向嵌入式 IoT 开发者：用�
 ```mermaid
 xychart-beta
     title "AutoEmbed/AutoEmbed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 47（+1）
 
 
 ---

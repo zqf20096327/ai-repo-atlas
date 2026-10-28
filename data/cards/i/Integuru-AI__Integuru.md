@@ -1,6 +1,6 @@
 # Integuru-AI/Integuru
 
-⭐ 4,781 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Integuru-AI/Integuru) · [官网](https://integuru.ai) · 组织维护
+⭐ 4,783 · Python · AGPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/Integuru-AI/Integuru) · [官网](https://integuru.ai) · 组织维护
 
 **逆向平台内部 API 并生成可运行集成代码的 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Integuru-AI/Integuru 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4779 --> 4783
-    line [4782, 4781, 4782, 4781, 4780, 4781]
+    title "Integuru-AI/Integuru 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4779 --> 4784
+    line [4782, 4781, 4782, 4781, 4780, 4781, 4783]
 ```
 
-2026-10-18 4,782 → 2026-10-27 4,781（-1）
+2026-10-18 4,782 → 2026-10-28 4,783（+1）
 
 
 ---

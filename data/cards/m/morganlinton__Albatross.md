@@ -1,6 +1,6 @@
 # morganlinton/Albatross
 
-⭐ 240 · Rust · MIT · 推送 2026-10-05 · [GitHub](https://github.com/morganlinton/Albatross) · [官网](https://albatross.sh) · 个人维护
+⭐ 241 · Rust · MIT · 推送 2026-10-05 · [GitHub](https://github.com/morganlinton/Albatross) · [官网](https://albatross.sh) · 个人维护
 
 **终端优先的 AI 编码代理：自带密钥接入本地或云端模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "morganlinton/Albatross 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 235 --> 241
-    line [236, 237, 236, 238, 240]
+    title "morganlinton/Albatross 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 235 --> 242
+    line [236, 237, 236, 238, 240, 241]
 ```
 
-2026-10-18 236 → 2026-10-27 240（+4）
+2026-10-18 236 → 2026-10-28 241（+5）
 
 
 ---

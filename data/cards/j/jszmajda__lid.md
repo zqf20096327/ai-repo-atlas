@@ -1,6 +1,6 @@
 # jszmajda/lid
 
-⭐ 115 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/jszmajda/lid) · [官网](https://linked-intent.dev) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jszmajda/lid) · [官网](https://linked-intent.dev) · 个人维护
 
 **面向 agentic coding 的先设计后编码方法论与 Claude Code 插件**
 
@@ -45,12 +45,12 @@ Linked-Intent Development（LID）是一套规范驱动开发（SDD）方法论�
 ```mermaid
 xychart-beta
     title "jszmajda/lid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 111 --> 116
     line [112, 114, 115, 115]
 ```
 
-2026-10-18 112 → 2026-10-27 115（+3）
+2026-10-18 112 → 2026-10-28 115（+3）
 
 
 ---

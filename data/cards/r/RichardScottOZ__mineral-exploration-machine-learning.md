@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RichardScottOZ/mineral-exploration-machine-learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "RichardScottOZ/mineral-exploration-machine-learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 345 --> 351
-    line [346, 347, 349, 350]
+    line [346, 347, 349, 350, 350]
 ```
 
-2026-10-18 346 → 2026-10-27 350（+4）
+2026-10-18 346 → 2026-10-28 350（+4）
 
 
 ---

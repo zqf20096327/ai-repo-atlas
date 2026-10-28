@@ -1,6 +1,6 @@
 # pivotlake/pivot
 
-⭐ 62 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pivotlake/pivot) · [官网](https://pivotlake.io) · 组织维护
+⭐ 64 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/pivotlake/pivot) · [官网](https://pivotlake.io) · 组织维护
 
 **基于开放数据格式的高性能分析型数据库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pivotlake/pivot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 50 --> 63
-    line [51, 53, 55, 57, 59, 60, 62]
+    title "pivotlake/pivot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 50 --> 65
+    line [51, 53, 55, 57, 59, 60, 62, 64]
 ```
 
-2026-10-18 51 → 2026-10-27 62（+11）
+2026-10-18 51 → 2026-10-28 64（+13）
 
 
 ---

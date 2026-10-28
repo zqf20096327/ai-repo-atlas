@@ -1,6 +1,6 @@
 # apax-hub/apax
 
-⭐ 39 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/apax-hub/apax) · [官网](https://apax.readthedocs.io) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apax-hub/apax) · [官网](https://apax.readthedocs.io) · 组织维护
 
 **基于 JAX 的原子机器学习势训练与推断框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apax-hub/apax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "apax-hub/apax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-10-18 38 → 2026-10-27 39（+1）
+2026-10-18 38 → 2026-10-28 39（+1）
 
 
 ---

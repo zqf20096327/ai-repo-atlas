@@ -1,6 +1,6 @@
 # OWASP/wrongsecrets
 
-⭐ 1,473 · HTML · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/OWASP/wrongsecrets) · [官网](https://owasp.org/www-project-wrongsecrets/) · 组织维护
+⭐ 1,474 · HTML · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/OWASP/wrongsecrets) · [官网](https://owasp.org/www-project-wrongsecrets/) · 组织维护
 
 **OWASP 安全培训游戏：通过闯关学习密钥管理错误**
 
@@ -46,12 +46,12 @@ OWASP 生产级项目，一款故意包含漏洞的应用：在代码、配置�
 ```mermaid
 xychart-beta
     title "OWASP/wrongsecrets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 1471 --> 1475
-    line [1472, 1473, 1474, 1473, 1473]
+    line [1472, 1473, 1474, 1473, 1474]
 ```
 
-2026-10-18 1,472 → 2026-10-27 1,473（+1）
+2026-10-18 1,472 → 2026-10-28 1,474（+2）
 
 
 ---

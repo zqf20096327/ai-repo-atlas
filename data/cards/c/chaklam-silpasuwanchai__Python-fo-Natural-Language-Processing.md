@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-27 92（+0）
+2026-10-18 92 → 2026-10-28 92（+0）
 
 
 ---

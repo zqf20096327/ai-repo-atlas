@@ -1,6 +1,6 @@
 # hshatti/Envision
 
-⭐ 32 · Pascal · MIT · 推送 2026-10-07 · [GitHub](https://github.com/hshatti/Envision) · 个人维护
+⭐ 32 · Pascal · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hshatti/Envision) · 个人维护
 
 **纯 Pascal 编写的 FLUX2/ZImage 文生图推理引擎，供 Delphi/FPC/Lazarus 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hshatti/Envision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

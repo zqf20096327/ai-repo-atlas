@@ -1,6 +1,6 @@
 # grknc/Applied-Machine-Learning-Projects
 
-⭐ 37 · Jupyter Notebook · 推送 2026-02-23 · [GitHub](https://github.com/grknc/Applied-Machine-Learning-Projects) · 个人维护
+⭐ 38 · Jupyter Notebook · 推送 2026-02-23 · [GitHub](https://github.com/grknc/Applied-Machine-Learning-Projects) · 个人维护
 
 **面向训练营学员的经典机器学习项目模板与实例目录（25 例/8 行业）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "grknc/Applied-Machine-Learning-Projects 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 38（+1）
 
 
 ---

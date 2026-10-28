@@ -1,6 +1,6 @@
 # camera-2018/hdu-cs-wiki
 
-⭐ 266 · Vue · MIT · 推送 2026-06-07 · [GitHub](https://github.com/camera-2018/hdu-cs-wiki) · [官网](https://hdu-cs.wiki) · 组织维护 · 中文 README
+⭐ 265 · Vue · MIT · 推送 2026-06-07 · [GitHub](https://github.com/camera-2018/hdu-cs-wiki) · [官网](https://hdu-cs.wiki) · 组织维护 · 中文 README
 
 **杭州电子科技大学计算机科学学习讲义 Wiki**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "camera-2018/hdu-cs-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 264 --> 267
-    line [265, 266, 266]
+    line [265, 266, 265]
 ```
 
-2026-10-18 265 → 2026-10-27 266（+1）
+2026-10-18 265 → 2026-10-28 265（+0）
 
 
 ---

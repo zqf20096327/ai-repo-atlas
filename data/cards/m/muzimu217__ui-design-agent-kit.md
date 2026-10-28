@@ -1,6 +1,6 @@
 # muzimu217/ui-design-agent-kit
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/muzimu217/ui-design-agent-kit) · [官网](https://agent.kcos.club) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/muzimu217/ui-design-agent-kit) · [官网](https://agent.kcos.club) · 个人维护 · 中文 README
 
 **面向 UI 设计的智能体提示词与工作流套件：从口语需求到可验收界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "muzimu217/ui-design-agent-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-10-27 22（-1）
+2026-10-18 23 → 2026-10-28 22（-1）
 
 
 ---

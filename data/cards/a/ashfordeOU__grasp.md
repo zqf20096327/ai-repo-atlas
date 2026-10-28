@@ -1,6 +1,6 @@
 # ashfordeOU/grasp
 
-⭐ 30 · HTML · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/ashfordeOU/grasp) · [官网](https://ashfordeou.github.io/grasp) · 个人维护
+⭐ 31 · HTML · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/ashfordeOU/grasp) · [官网](https://ashfordeou.github.io/grasp) · 个人维护
 
 **代码架构分析与可视化套件，含 150 工具 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ashfordeOU/grasp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-10-27 30（+1）
+2026-10-18 29 → 2026-10-28 31（+2）
 
 
 ---

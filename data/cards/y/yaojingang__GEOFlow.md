@@ -1,6 +1,6 @@
 # yaojingang/GEOFlow
 
-⭐ 3,916 · PHP · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/yaojingang/GEOFlow) · [官网](https://www.geoflow.me) · 个人维护 · 中文 README
+⭐ 3,943 · PHP · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/yaojingang/GEOFlow) · [官网](https://www.geoflow.me) · 个人维护 · 中文 README
 
 **面向企业官网 GEO 运营的开源内容工程与多站点分发平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaojingang/GEOFlow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3837 --> 3923
-    line [3844, 3856, 3866, 3877, 3887, 3895, 3916]
+    title "yaojingang/GEOFlow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3835 --> 3952
+    line [3844, 3856, 3866, 3877, 3887, 3895, 3916, 3943]
 ```
 
-2026-10-18 3,844 → 2026-10-27 3,916（+72）
+2026-10-18 3,844 → 2026-10-28 3,943（+99）
 
 
 ---

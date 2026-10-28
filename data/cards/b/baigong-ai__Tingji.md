@@ -1,6 +1,6 @@
 # baigong-ai/Tingji
 
-⭐ 43 · Python · 推送 2026-09-16 · [GitHub](https://github.com/baigong-ai/Tingji) · 组织维护 · 中文 README
+⭐ 44 · Python · 推送 2026-09-16 · [GitHub](https://github.com/baigong-ai/Tingji) · 组织维护 · 中文 README
 
 **本地离线会议录音转写与纪要工具：录音进、原文+纪要出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baigong-ai/Tingji 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 37 --> 44
-    line [38, 39, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 37 --> 45
+    line [38, 39, 42, 43, 44]
 ```
 
-2026-10-18 38 → 2026-10-27 43（+5）
+2026-10-18 38 → 2026-10-28 44（+6）
 
 
 ---

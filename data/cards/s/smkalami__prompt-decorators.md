@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smkalami/prompt-decorators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "smkalami/prompt-decorators 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 479 --> 482
-    line [481, 480]
+    line [481, 480, 480]
 ```
 
-2026-10-18 481 → 2026-10-27 480（-1）
+2026-10-18 481 → 2026-10-28 480（-1）
 
 
 ---

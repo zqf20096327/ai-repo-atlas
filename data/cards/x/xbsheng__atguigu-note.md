@@ -1,6 +1,6 @@
 # xbsheng/atguigu-note
 
-⭐ 503 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/xbsheng/atguigu-note) · [官网](https://xbsheng.github.io/atguigu-note/) · 个人维护 · 中文 README
+⭐ 506 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/xbsheng/atguigu-note) · [官网](https://xbsheng.github.io/atguigu-note/) · 个人维护 · 中文 README
 
 **尚硅谷 Python/LangChain/LangGraph/AI Coding 课程配套课件与代码整理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xbsheng/atguigu-note 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 469 --> 506
-    line [472, 481, 485, 493, 496, 498, 499, 503]
+    title "xbsheng/atguigu-note 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 469 --> 509
+    line [472, 481, 485, 493, 496, 498, 499, 503, 506]
 ```
 
-2026-10-18 472 → 2026-10-27 503（+31）
+2026-10-18 472 → 2026-10-28 506（+34）
 
 
 ---

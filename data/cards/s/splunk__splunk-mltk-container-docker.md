@@ -1,6 +1,6 @@
 # splunk/splunk-mltk-container-docker
 
-⭐ 63 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/splunk/splunk-mltk-container-docker) · [官网](https://splunkbase.splunk.com/app/4607/) · 组织维护
+⭐ 63 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/splunk/splunk-mltk-container-docker) · [官网](https://splunkbase.splunk.com/app/4607/) · 组织维护
 
 **Splunk DSDL 应用的 ML 容器镜像构建与定制资源库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "splunk/splunk-mltk-container-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-27 63（+0）
+2026-10-18 63 → 2026-10-28 63（+0）
 
 
 ---

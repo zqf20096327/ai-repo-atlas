@@ -1,6 +1,6 @@
 # piomin/spring-ai-apps
 
-⭐ 37 · Java · 推送 2026-10-24 · [GitHub](https://github.com/piomin/spring-ai-apps) · [官网](https://piotrminkowski.com) · 个人维护
+⭐ 38 · Java · 推送 2026-10-24 · [GitHub](https://github.com/piomin/spring-ai-apps) · [官网](https://piotrminkowski.com) · 个人维护
 
 **演示 Spring AI 框架集成的 Spring Boot 示例应用集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "piomin/spring-ai-apps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 38（+1）
 
 
 ---

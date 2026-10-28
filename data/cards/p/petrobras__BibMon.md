@@ -1,6 +1,6 @@
 # petrobras/BibMon
 
-⭐ 106 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/petrobras/BibMon) · [官网](https://bibmon.readthedocs.io/) · 组织维护
+⭐ 107 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/petrobras/BibMon) · [官网](https://bibmon.readthedocs.io/) · 组织维护
 
 **工业过程监控 Python 库：故障检测、软测量与状态监测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "petrobras/BibMon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 105 --> 108
+    line [106, 107]
 ```
 
-2026-10-18 106 → 2026-10-27 106（+0）
+2026-10-18 106 → 2026-10-28 107（+1）
 
 
 ---

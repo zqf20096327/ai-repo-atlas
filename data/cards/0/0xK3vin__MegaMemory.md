@@ -1,6 +1,6 @@
 # 0xK3vin/MegaMemory
 
-⭐ 727 · TypeScript · MIT · 推送 2026-05-03 · [GitHub](https://github.com/0xK3vin/MegaMemory) · 个人维护
+⭐ 729 · TypeScript · MIT · 推送 2026-05-03 · [GitHub](https://github.com/0xK3vin/MegaMemory) · 个人维护
 
 **给编码代理的持久化项目知识图谱 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xK3vin/MegaMemory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 724 --> 728
-    line [726, 727, 725, 726, 727]
+    title "0xK3vin/MegaMemory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 724 --> 730
+    line [726, 727, 725, 726, 727, 729]
 ```
 
-2026-10-18 726 → 2026-10-27 727（+1）
+2026-10-18 726 → 2026-10-28 729（+3）
 
 
 ---

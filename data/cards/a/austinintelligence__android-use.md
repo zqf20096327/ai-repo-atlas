@@ -1,6 +1,6 @@
 # austinintelligence/android-use
 
-⭐ 27 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/austinintelligence/android-use) · [官网](https://www.npmjs.com/package/android-use) · 组织维护
+⭐ 28 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/austinintelligence/android-use) · [官网](https://www.npmjs.com/package/android-use) · 组织维护
 
 **给 AI agent 提供真实 Android 设备/模拟器受控操作的 MCP 服务器与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "austinintelligence/android-use 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 17 --> 28
-    line [18, 21, 23, 24, 25, 27]
+    title "austinintelligence/android-use 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 17 --> 29
+    line [18, 21, 23, 24, 25, 27, 28]
 ```
 
-2026-10-18 18 → 2026-10-27 27（+9）
+2026-10-18 18 → 2026-10-28 28（+10）
 
 
 ---

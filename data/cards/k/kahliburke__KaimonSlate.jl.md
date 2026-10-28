@@ -1,6 +1,6 @@
 # kahliburke/KaimonSlate.jl
 
-⭐ 35 · Julia · MIT · 推送 2026-10-25 · [GitHub](https://github.com/kahliburke/KaimonSlate.jl) · [官网](https://kahliburke.github.io/KaimonSlate.jl/dev/) · 个人维护
+⭐ 35 · Julia · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kahliburke/KaimonSlate.jl) · [官网](https://kahliburke.github.io/KaimonSlate.jl/dev/) · 个人维护
 
 **响应式 Julia notebook：单元格 DAG、跨机执行与 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kahliburke/KaimonSlate.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-27 35（+0）
+2026-10-18 35 → 2026-10-28 35（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # omnimind-ai/OmniBot
 
-⭐ 2,065 · Kotlin · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
+⭐ 2,070 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
 
 **运行在 Android 设备上的本地 AI 代理应用：聊天加系统级任务执行**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "omnimind-ai/OmniBot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2047 --> 2066
-    line [2048, 2054, 2058, 2056, 2058, 2061, 2065]
+    title "omnimind-ai/OmniBot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2046 --> 2072
+    line [2048, 2054, 2058, 2056, 2058, 2061, 2065, 2070]
 ```
 
-2026-10-18 2,048 → 2026-10-27 2,065（+17）
+2026-10-18 2,048 → 2026-10-28 2,070（+22）
 
 
 ---

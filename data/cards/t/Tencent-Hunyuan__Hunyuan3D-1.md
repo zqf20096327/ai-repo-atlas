@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan3D-1
 
-⭐ 3,499 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 3,500 · Python · NOASSERTION · 推送 2025-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) · [官网](https://3d.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **腾讯开源的文本/图像生成 3D 资产两阶段生成框架**
 
@@ -45,12 +45,12 @@ Hunyuan3D-1.0 提供文本到 3D 与图像到 3D 的生成能力，含 lite 与 
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hunyuan3D-1 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3492 --> 3500
-    line [3493, 3497, 3498, 3499, 3499]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 3492 --> 3501
+    line [3493, 3497, 3498, 3499, 3500]
 ```
 
-2026-10-18 3,493 → 2026-10-27 3,499（+6）
+2026-10-18 3,493 → 2026-10-28 3,500（+7）
 
 
 ---

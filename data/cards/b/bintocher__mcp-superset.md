@@ -1,6 +1,6 @@
 # bintocher/mcp-superset
 
-⭐ 60 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/bintocher/mcp-superset) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bintocher/mcp-superset) · 个人维护
 
 **管理 Apache Superset 的 MCP server，提供 137 个工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bintocher/mcp-superset 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 58 --> 61
     line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-10-27 60（+1）
+2026-10-18 59 → 2026-10-28 60（+1）
 
 
 ---

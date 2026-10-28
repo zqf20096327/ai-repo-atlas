@@ -1,6 +1,6 @@
 # kishormorol/SkillsAllYouNeed
 
-⭐ 25 · CSS · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/kishormorol/SkillsAllYouNeed) · [官网](https://kishormorol.github.io/SkillsAllYouNeed/) · 个人维护
+⭐ 26 · CSS · CC-BY-4.0 · 推送 2026-09-18 · [GitHub](https://github.com/kishormorol/SkillsAllYouNeed) · [官网](https://kishormorol.github.io/SkillsAllYouNeed/) · 个人维护
 
 **13 个 AI 助手生态的官方技能/能力目录站（226 条）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kishormorol/SkillsAllYouNeed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

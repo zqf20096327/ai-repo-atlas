@@ -1,6 +1,6 @@
 # EmbeddedLLM/JamAIBase
 
-⭐ 1,103 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EmbeddedLLM/JamAIBase) · [官网](https://www.jamaibase.com/) · 组织维护
+⭐ 1,105 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/EmbeddedLLM/JamAIBase) · [官网](https://www.jamaibase.com/) · 组织维护
 
 **开源 RAG 后端平台：电子表格式 UI 构建与管理 LLM 应用**
 
@@ -46,12 +46,12 @@ JamAI Base 是开源 RAG 后端平台，内嵌 SQLite 数据库与 LanceDB 向�
 ```mermaid
 xychart-beta
     title "EmbeddedLLM/JamAIBase 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 1101 --> 1104
-    line [1102, 1103, 1103]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 1101 --> 1106
+    line [1102, 1103, 1105]
 ```
 
-2026-10-18 1,102 → 2026-10-27 1,103（+1）
+2026-10-18 1,102 → 2026-10-28 1,105（+3）
 
 
 ---

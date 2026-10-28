@@ -1,6 +1,6 @@
 # MahdiyarGHD/GheychiApp
 
-⭐ 85 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/MahdiyarGHD/GheychiApp) · 个人维护
+⭐ 87 · C# · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/MahdiyarGHD/GheychiApp) · 个人维护
 
 **安卓短信应用：本地 AI 识别并隔离垃圾短信**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MahdiyarGHD/GheychiApp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 61 --> 87
-    line [63, 77, 80, 82, 84, 85]
+    title "MahdiyarGHD/GheychiApp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 61 --> 89
+    line [63, 77, 80, 82, 84, 85, 87]
 ```
 
-2026-10-18 63 → 2026-10-27 85（+22）
+2026-10-18 63 → 2026-10-28 87（+24）
 
 
 ---

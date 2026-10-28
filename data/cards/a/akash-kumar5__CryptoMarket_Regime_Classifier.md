@@ -1,6 +1,6 @@
 # akash-kumar5/CryptoMarket_Regime_Classifier
 
-⭐ 50 · Python · 推送 2025-12-13 · [GitHub](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) · 个人维护
+⭐ 51 · Python · 推送 2025-12-13 · [GitHub](https://github.com/akash-kumar5/CryptoMarket_Regime_Classifier) · 个人维护
 
 **用 HMM+LSTM 检测加密货币市场状态的机器学习管线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akash-kumar5/CryptoMarket_Regime_Classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 51（+1）
 
 
 ---

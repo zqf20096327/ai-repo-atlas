@@ -1,6 +1,6 @@
 # avansaber/seo-monster
 
-⭐ 554 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/avansaber/seo-monster) · [官网](https://seomonster.avansaber.com/) · 个人维护
+⭐ 556 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/avansaber/seo-monster) · [官网](https://seomonster.avansaber.com/) · 个人维护
 
 **面向 Claude 等 AI 助手的本地 SEO 分析 MCP 服务器（70 工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "avansaber/seo-monster 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "avansaber/seo-monster 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 551 --> 559
-    line [552, 556, 558, 552, 553, 554]
+    line [552, 556, 558, 552, 553, 554, 556]
 ```
 
-2026-10-18 552 → 2026-10-27 554（+2）
+2026-10-18 552 → 2026-10-28 556（+4）
 
 
 ---

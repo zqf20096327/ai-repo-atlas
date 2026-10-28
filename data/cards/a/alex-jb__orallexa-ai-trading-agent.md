@@ -45,12 +45,12 @@ Orallexa 是一个基于 Python + Next.js 的多智能体股票分析系统：9-
 ```mermaid
 xychart-beta
     title "alex-jb/orallexa-ai-trading-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-27 71（+0）
+2026-10-18 71 → 2026-10-28 71（+0）
 
 
 ---

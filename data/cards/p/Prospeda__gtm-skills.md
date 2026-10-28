@@ -1,6 +1,6 @@
 # Prospeda/gtm-skills
 
-⭐ 25 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Prospeda/gtm-skills) · [官网](https://gtm-skills.com) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/Prospeda/gtm-skills) · [官网](https://gtm-skills.com) · 组织维护
 
 **面向 B2B 销售与 GTM 团队的 2,500+ AI 提示词开源库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Prospeda/gtm-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 23 --> 26
-    line [24, 25]
+    title "Prospeda/gtm-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-10-27 25（+1）
+2026-10-18 24 → 2026-10-28 26（+2）
 
 
 ---

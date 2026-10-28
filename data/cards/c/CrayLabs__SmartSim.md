@@ -1,6 +1,6 @@
 # CrayLabs/SmartSim
 
-⭐ 275 · Python · BSD-2-Clause · 推送 2026-05-14 · [GitHub](https://github.com/CrayLabs/SmartSim) · 组织维护
+⭐ 275 · Python · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/CrayLabs/SmartSim) · 组织维护
 
 **在 HPC 系统上启动 ML 与仿真工作流的基础设施库**
 
@@ -45,12 +45,12 @@ SmartSim 是一个 Python 工作流库，用于在 HPC 系统上创建、配置�
 ```mermaid
 xychart-beta
     title "CrayLabs/SmartSim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 274 --> 276
     line [275, 275]
 ```
 
-2026-10-18 275 → 2026-10-27 275（+0）
+2026-10-18 275 → 2026-10-28 275（+0）
 
 
 ---

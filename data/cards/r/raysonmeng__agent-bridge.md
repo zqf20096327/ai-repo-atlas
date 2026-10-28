@@ -1,6 +1,6 @@
 # raysonmeng/agent-bridge
 
-⭐ 414 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/raysonmeng/agent-bridge) · [官网](https://raysonmeng.github.io/agent-bridge/) · 个人维护 · 中文 README
+⭐ 415 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/raysonmeng/agent-bridge) · [官网](https://raysonmeng.github.io/agent-bridge/) · 个人维护 · 中文 README
 
 **让 Claude Code 与 Codex 在同一会话双向协作的本地桥接工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raysonmeng/agent-bridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 401 --> 415
-    line [402, 403, 404, 405, 408, 414]
+    title "raysonmeng/agent-bridge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 401 --> 416
+    line [402, 403, 404, 405, 408, 414, 415]
 ```
 
-2026-10-18 402 → 2026-10-27 414（+12）
+2026-10-18 402 → 2026-10-28 415（+13）
 
 
 ---

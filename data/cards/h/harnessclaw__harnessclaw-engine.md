@@ -1,6 +1,6 @@
 # harnessclaw/harnessclaw-engine
 
-⭐ 195 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/harnessclaw/harnessclaw-engine) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **Go 编写的 LLM 编程助手引擎，提供 WebSocket 服务与工具调用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

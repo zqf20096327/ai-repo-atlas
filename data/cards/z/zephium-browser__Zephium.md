@@ -1,6 +1,6 @@
 # zephium-browser/Zephium
 
-⭐ 699 · Rust · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zephium-browser/Zephium) · [官网](https://zephium.app) · 组织维护 · 中文 README
+⭐ 782 · Rust · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zephium-browser/Zephium) · [官网](https://zephium.app) · 组织维护 · 中文 README
 
 **面向用户与 AI agent 的 Rust 开源浏览器，含 Work 画布模式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zephium-browser/Zephium 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 765
-    line [34, 37, 38, 39, 40, 530, 699]
+    title "zephium-browser/Zephium 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 856
+    line [34, 37, 38, 39, 40, 530, 699, 782]
 ```
 
-2026-10-18 34 → 2026-10-27 699（+665）
+2026-10-18 34 → 2026-10-28 782（+748）
 
 
 ---

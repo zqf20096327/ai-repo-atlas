@@ -1,6 +1,6 @@
 # larashero3-dotcom/writing-dna-skill
 
-⭐ 2,685 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · 组织维护 · 中文 README
+⭐ 2,708 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · 组织维护 · 中文 README
 
 **把任意作者写作风格蒸馏为可复用 Writing DNA 的 agent skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "larashero3-dotcom/writing-dna-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2462 --> 2705
-    line [2482, 2535, 2577, 2611, 2627, 2642, 2660, 2685]
+    title "larashero3-dotcom/writing-dna-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2460 --> 2730
+    line [2482, 2535, 2577, 2611, 2627, 2642, 2660, 2685, 2708]
 ```
 
-2026-10-18 2,482 → 2026-10-27 2,685（+203）
+2026-10-18 2,482 → 2026-10-28 2,708（+226）
 
 
 ---

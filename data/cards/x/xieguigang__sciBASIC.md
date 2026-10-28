@@ -1,6 +1,6 @@
 # xieguigang/sciBASIC
 
-⭐ 79 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/xieguigang/sciBASIC) · [官网](http://sciBASIC.NET/) · 个人维护
+⭐ 80 · Visual Basic .NET · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/xieguigang/sciBASIC) · [官网](http://sciBASIC.NET/) · 个人维护
 
 **VB.NET 科学计算语言内核与运行时，含深度学习与 LLM 推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xieguigang/sciBASIC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 78 --> 81
+    line [79, 80]
 ```
 
-2026-10-18 79 → 2026-10-27 79（+0）
+2026-10-18 79 → 2026-10-28 80（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dragonked2/alphacode
 
-⭐ 478 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dragonked2/alphacode) · [官网](https://alphacli.github.io/) · 个人维护
+⭐ 479 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/dragonked2/alphacode) · [官网](https://alphacli.github.io/) · 个人维护
 
 **Rust 编写的终端 AI 编码 agent，含浏览器与桌面自动化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dragonked2/alphacode 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 313 --> 493
-    line [328, 345, 397, 412, 421, 444, 459, 478]
+    title "dragonked2/alphacode 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 313 --> 494
+    line [328, 345, 397, 412, 421, 444, 459, 478, 479]
 ```
 
-2026-10-18 328 → 2026-10-27 478（+150）
+2026-10-18 328 → 2026-10-28 479（+151）
 
 
 ---

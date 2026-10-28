@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixelartistry/PixelArtistry-Pixal3D-Multiview 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    title "pixelartistry/PixelArtistry-Pixal3D-Multiview 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 20 --> 27
-    line [21, 24, 25, 26]
+    line [21, 24, 25, 26, 26]
 ```
 
-2026-10-18 21 → 2026-10-27 26（+5）
+2026-10-18 21 → 2026-10-28 26（+5）
 
 
 ---

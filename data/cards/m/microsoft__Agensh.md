@@ -1,6 +1,6 @@
 # microsoft/Agensh
 
-⭐ 615 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Agensh) · [官网](https://aka.ms/Agensh) · 组织维护
+⭐ 749 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/Agensh) · [官网](https://aka.ms/Agensh) · 组织维护
 
 **去中心化可扩展至 1024 个 agent 的多智能体协同框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Agensh 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 675
-    line [10, 22, 227, 615]
+    title "microsoft/Agensh 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 822
+    line [10, 22, 227, 615, 749]
 ```
 
-2026-10-24 10 → 2026-10-27 615（+605）
+2026-10-24 10 → 2026-10-28 749（+739）
 
 
 ---

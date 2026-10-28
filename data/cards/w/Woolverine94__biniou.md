@@ -1,6 +1,6 @@
 # Woolverine94/biniou
 
-⭐ 1,152 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Woolverine94/biniou) · 个人维护
+⭐ 1,151 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Woolverine94/biniou) · 个人维护
 
 **自托管的多模态生成式 AI WebUI，覆盖文本/图像/音频/视频/3D 生成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Woolverine94/biniou 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1151 --> 1155
-    line [1154, 1153, 1152, 1152]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1150 --> 1155
+    line [1154, 1153, 1152, 1151]
 ```
 
-2026-10-18 1,154 → 2026-10-27 1,152（-2）
+2026-10-18 1,154 → 2026-10-28 1,151（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # XingChen-AGI/Xing4.0-29B-Intent
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/XingChen-AGI/Xing4.0-29B-Intent) · 组织维护 · 中文 README
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/XingChen-AGI/Xing4.0-29B-Intent) · 组织维护 · 中文 README
 
 **中国电信的 schema 引导意图识别与结构化信息抽取 MoE 模型**
 
@@ -46,12 +46,12 @@ Xing4.0-29B-Intent 是中国电信人工智能科技公司基于 Xing4.0-29B-A4B
 ```mermaid
 xychart-beta
     title "XingChen-AGI/Xing4.0-29B-Intent 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 3 --> 34
-    line [5, 16, 26, 32, 32]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 3 --> 36
+    line [5, 16, 26, 32, 34]
 ```
 
-2026-10-19 5 → 2026-10-27 32（+27）
+2026-10-19 5 → 2026-10-28 34（+29）
 
 
 ---

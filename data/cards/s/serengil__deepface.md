@@ -1,6 +1,6 @@
 # serengil/deepface
 
-⭐ 23,606 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
+⭐ 23,611 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/serengil/deepface) · [官网](https://www.youtube.com/watch?v=WnUVYQP4h44&list=PLsS_1RYmYQQFdWqxQggXHynP1rqaYXv_E) · 个人维护
 
 **Python 人脸识别与人脸属性分析库，一行代码完成验证/检索/分析**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "serengil/deepface 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 23561 --> 23610
-    line [23565, 23572, 23581, 23586, 23593, 23595, 23599, 23606]
+    title "serengil/deepface 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 23561 --> 23615
+    line [23565, 23572, 23581, 23586, 23593, 23595, 23599, 23606, 23611]
 ```
 
-2026-10-18 23,565 → 2026-10-27 23,606（+41）
+2026-10-18 23,565 → 2026-10-28 23,611（+46）
 
 
 ---

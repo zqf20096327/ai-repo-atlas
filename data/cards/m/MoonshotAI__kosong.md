@@ -1,6 +1,6 @@
 # MoonshotAI/kosong
 
-⭐ 522 · 推送 2026-07-16 · [GitHub](https://github.com/MoonshotAI/kosong) · [官网](https://moonshotai.github.io/kosong/) · 组织维护 · 中文 README
+⭐ 523 · 推送 2026-07-16 · [GitHub](https://github.com/MoonshotAI/kosong) · [官网](https://moonshotai.github.io/kosong/) · 组织维护 · 中文 README
 
 **面向 AI agent 应用的 LLM 抽象层（已迁移至 kimi-cli monorepo）**
 
@@ -42,12 +42,12 @@ MoonshotAI 开发的 LLM 抽象层包，用于 agent 应用统一接入 LLM。RE
 ```mermaid
 xychart-beta
     title "MoonshotAI/kosong 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 521 --> 524
-    line [523, 522, 522]
+    line [523, 522, 523]
 ```
 
-2026-10-18 523 → 2026-10-27 522（-1）
+2026-10-18 523 → 2026-10-28 523（+0）
 
 
 ---

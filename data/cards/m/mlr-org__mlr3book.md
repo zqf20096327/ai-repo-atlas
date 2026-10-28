@@ -1,6 +1,6 @@
 # mlr-org/mlr3book
 
-⭐ 284 · TeX · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/mlr-org/mlr3book) · [官网](https://mlr3book.mlr-org.com/) · 组织维护
+⭐ 284 · TeX · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mlr-org/mlr3book) · [官网](https://mlr3book.mlr-org.com/) · 组织维护
 
 **mlr3 机器学习框架的免费在线书籍构建仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 283 --> 285
     line [284, 284]
 ```
 
-2026-10-18 284 → 2026-10-27 284（+0）
+2026-10-18 284 → 2026-10-28 284（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lh0x00/lightweight-embeddings
 
-⭐ 30 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/lh0x00/lightweight-embeddings) · [官网](https://lamhieu-lightweight-embeddings.hf.space) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/lh0x00/lightweight-embeddings) · [官网](https://lamhieu-lightweight-embeddings.hf.space) · 个人维护
 
 **多语文本+图像 embedding 与重排序的 OpenAI 兼容 API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lh0x00/lightweight-embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 28 --> 31
-    line [29, 30]
+    title "lh0x00/lightweight-embeddings 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-10-27 30（+1）
+2026-10-18 29 → 2026-10-28 31（+2）
 
 
 ---

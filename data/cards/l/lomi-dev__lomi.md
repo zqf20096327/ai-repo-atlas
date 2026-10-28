@@ -1,6 +1,6 @@
 # lomi-dev/lomi
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/lomi-dev/lomi) · [官网](https://lomi.dev/) · 个人维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lomi-dev/lomi) · [官网](https://lomi.dev/) · 个人维护
 
 **终端驱动开发的桌面工作区：终端+编辑器+Git+AI 一窗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lomi-dev/lomi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-10-27 22（+1）
+2026-10-18 21 → 2026-10-28 22（+1）
 
 
 ---

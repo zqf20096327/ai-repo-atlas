@@ -1,6 +1,6 @@
 # Nixtla/statsforecast
 
-⭐ 4,946 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Nixtla/statsforecast) · [官网](https://nixtlaverse.nixtla.io/statsforecast) · 组织维护
+⭐ 4,950 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nixtla/statsforecast) · [官网](https://nixtlaverse.nixtla.io/statsforecast) · 组织维护
 
 **单变量时间序列预测库：提供统计与计量经济学模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nixtla/statsforecast 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4932 --> 4947
-    line [4933, 4938, 4943, 4944, 4946, 4946]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 4932 --> 4951
+    line [4933, 4938, 4943, 4944, 4946, 4950]
 ```
 
-2026-10-18 4,933 → 2026-10-27 4,946（+13）
+2026-10-18 4,933 → 2026-10-28 4,950（+17）
 
 
 ---

@@ -46,12 +46,12 @@ T-PAMI2026 论文 iSeg 的官方实现：利用 Stable Diffusion 2.1-base 的自
 ```mermaid
 xychart-beta
     title "linsun449/iseg.code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

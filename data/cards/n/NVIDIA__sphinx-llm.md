@@ -1,6 +1,6 @@
 # NVIDIA/sphinx-llm
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/sphinx-llm) · [官网](https://sphinx-llm.readthedocs.io) · 组织维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/sphinx-llm) · [官网](https://sphinx-llm.readthedocs.io) · 组织维护
 
 **让 Sphinx 文档生成 LLM 可读输出并在构建中调用 LLM 的扩展集**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 Sphinx 扩展包，含两类工具：一是按 llms.txt v2 标�
 ```mermaid
 xychart-beta
     title "NVIDIA/sphinx-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kiycoh/silica-core
 
-⭐ 70 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kiycoh/silica-core) · 个人维护
+⭐ 70 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kiycoh/silica-core) · 个人维护
 
 **面向编码 agent 的本地证据检索工具，经 MCP 提供文件/搜索/读取等工具**
 
@@ -46,12 +46,12 @@ Silica Core 在单个根目录下索引 markdown、代码、PDF 与办公文档�
 ```mermaid
 xychart-beta
     title "kiycoh/silica-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 68 --> 71
     line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-27 70（+1）
+2026-10-18 69 → 2026-10-28 70（+1）
 
 
 ---

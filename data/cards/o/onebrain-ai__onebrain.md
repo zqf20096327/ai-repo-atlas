@@ -1,6 +1,6 @@
 # onebrain-ai/onebrain
 
-⭐ 30 · Shell · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/onebrain-ai/onebrain) · [官网](https://onebrain.run) · 组织维护
+⭐ 31 · Shell · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/onebrain-ai/onebrain) · [官网](https://onebrain.run) · 组织维护
 
 **给 AI 编码助手的持久记忆与技能扩展层**
 
@@ -46,12 +46,12 @@ OneBrain 是开源的 AI OS 层（MIT/Apache-2.0），扩展 Claude Code、Gemin
 ```mermaid
 xychart-beta
     title "onebrain-ai/onebrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

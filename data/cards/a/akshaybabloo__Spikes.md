@@ -1,6 +1,6 @@
 # akshaybabloo/Spikes
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/akshaybabloo/Spikes) · [官网](https://akshaybabloo.github.io/Spikes/) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/akshaybabloo/Spikes) · [官网](https://akshaybabloo.github.io/Spikes/) · 个人维护
 
 **面向 SNN 的时间序列脉冲编码库（TBR/BSA/SF 三种）**
 
@@ -45,12 +45,12 @@ Python 包 pyspikes，为脉冲神经网络提供时间序列到脉冲序列的�
 ```mermaid
 xychart-beta
     title "akshaybabloo/Spikes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # antgroup/SEEConf
 
-⭐ 88 · 推送 2025-12-01 · [GitHub](https://github.com/antgroup/SEEConf) · [官网](https://seeconf.antgroup.com) · 组织维护 · 中文 README
+⭐ 89 · 推送 2026-10-27 · [GitHub](https://github.com/antgroup/SEEConf) · [官网](https://seeconf.antgroup.com) · 组织维护 · 中文 README
 
 **蚂蚁举办的用户体验与工程实践技术大会（官网仓库）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "antgroup/SEEConf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 86 --> 90
+    line [87, 88, 89]
 ```
 
-2026-10-18 87 → 2026-10-27 88（+1）
+2026-10-18 87 → 2026-10-28 89（+2）
 
 
 ---

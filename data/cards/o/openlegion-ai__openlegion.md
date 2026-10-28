@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openlegion-ai/openlegion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "openlegion-ai/openlegion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 124 --> 128
-    line [125, 127]
+    line [125, 127, 127]
 ```
 
-2026-10-18 125 → 2026-10-27 127（+2）
+2026-10-18 125 → 2026-10-28 127（+2）
 
 
 ---

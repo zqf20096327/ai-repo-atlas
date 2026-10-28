@@ -1,6 +1,6 @@
 # deepfates/imp
 
-⭐ 259 · Elixir · MIT · 推送 2026-10-26 · [GitHub](https://github.com/deepfates/imp) · [官网](https://hex.pm/packages/imp) · 个人维护
+⭐ 260 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/deepfates/imp) · [官网](https://hex.pm/packages/imp) · 个人维护
 
 **Elixir 版 DSPy：声明式可自优化的 LLM 程序框架**
 
@@ -45,13 +45,13 @@ DSPy 在 BEAM 上的移植：以签名声明模型调用的输入输出，提供
 
 ```mermaid
 xychart-beta
-    title "deepfates/imp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 254 --> 260
-    line [255, 258, 259]
+    title "deepfates/imp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 254 --> 261
+    line [255, 258, 259, 260]
 ```
 
-2026-10-18 255 → 2026-10-27 259（+4）
+2026-10-18 255 → 2026-10-28 260（+5）
 
 
 ---

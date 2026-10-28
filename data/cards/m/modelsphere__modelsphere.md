@@ -1,6 +1,6 @@
 # modelsphere/modelsphere
 
-⭐ 170 · Shell · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelsphere/modelsphere) · 组织维护 · 中文 README
+⭐ 170 · Shell · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/modelsphere/modelsphere) · 组织维护 · 中文 README
 
 **面向生产环境的 LLM 推理平台，Kubernetes 上部署与调度多后端模型服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelsphere/modelsphere 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "modelsphere/modelsphere 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 56 --> 180
-    line [66, 71, 81, 86, 138, 168, 170]
+    line [66, 71, 81, 86, 138, 168, 170, 170]
 ```
 
-2026-10-18 66 → 2026-10-27 170（+104）
+2026-10-18 66 → 2026-10-28 170（+104）
 
 
 ---

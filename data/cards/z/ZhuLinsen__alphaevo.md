@@ -1,6 +1,6 @@
 # ZhuLinsen/alphaevo
 
-⭐ 209 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/ZhuLinsen/alphaevo) · 个人维护 · 中文 README
+⭐ 210 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/ZhuLinsen/alphaevo) · 个人维护 · 中文 README
 
 **自我进化的股票策略研究 Agent：回测-诊断-变异-再验证闭环**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ZhuLinsen/alphaevo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 206 --> 211
-    line [207, 209, 210, 209, 209]
+    line [207, 209, 210, 209, 210]
 ```
 
-2026-10-18 207 → 2026-10-27 209（+2）
+2026-10-18 207 → 2026-10-28 210（+3）
 
 
 ---

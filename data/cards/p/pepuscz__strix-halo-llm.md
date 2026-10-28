@@ -1,6 +1,6 @@
 # pepuscz/strix-halo-llm
 
-⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pepuscz/strix-halo-llm) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pepuscz/strix-halo-llm) · 个人维护
 
 **AMD Strix Halo 上本地运行 Qwen/DeepSeek 的 Ansible 配方与配套基准**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pepuscz/strix-halo-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24]
+    title "pepuscz/strix-halo-llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 24, 25]
 ```
 
-2026-10-18 21 → 2026-10-27 24（+3）
+2026-10-18 21 → 2026-10-28 25（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # tingfeng347/zst_agent
 
-⭐ 26 · Vue · 推送 2026-07-04 · [GitHub](https://github.com/tingfeng347/zst_agent) · 个人维护 · 中文 README
+⭐ 27 · Vue · 推送 2026-07-04 · [GitHub](https://github.com/tingfeng347/zst_agent) · 个人维护 · 中文 README
 
 **扫地机器人领域智能客服系统：RAG 问答 + ReAct Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tingfeng347/zst_agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 27（+1）
 
 
 ---

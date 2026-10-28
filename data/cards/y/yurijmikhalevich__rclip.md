@@ -1,6 +1,6 @@
 # yurijmikhalevich/rclip
 
-⭐ 1,025 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yurijmikhalevich/rclip) · 个人维护
+⭐ 1,027 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yurijmikhalevich/rclip) · 个人维护
 
 **终端本地图片语义搜索工具：用自然语言或示例图查图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yurijmikhalevich/rclip 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1019 --> 1026
-    line [1020, 1021, 1022, 1023, 1024, 1025]
+    title "yurijmikhalevich/rclip 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1019 --> 1028
+    line [1020, 1021, 1022, 1023, 1024, 1025, 1027]
 ```
 
-2026-10-18 1,020 → 2026-10-27 1,025（+5）
+2026-10-18 1,020 → 2026-10-28 1,027（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Audio-Evalkit
 
-⭐ 171 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) · 组织维护 · 中文 README
+⭐ 172 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/MoonshotAI/Kimi-Audio-Evalkit) · 组织维护 · 中文 README
 
 **音频大语言模型评测框架：跑基准、出指标报告**
 
@@ -45,12 +45,12 @@ MoonshotAI 开源的音频大语言模型评测框架（ALMEvalKit），支持 B
 ```mermaid
 xychart-beta
     title "MoonshotAI/Kimi-Audio-Evalkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 169 --> 172
-    line [170, 171, 171]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 169 --> 173
+    line [170, 171, 172]
 ```
 
-2026-10-18 170 → 2026-10-27 171（+1）
+2026-10-18 170 → 2026-10-28 172（+2）
 
 
 ---

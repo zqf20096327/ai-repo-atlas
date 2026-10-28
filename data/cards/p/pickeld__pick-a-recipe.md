@@ -45,13 +45,13 @@ Python/Flask 自托管应用：用 yt-dlp 下载 TikTok、YouTube、Instagram �
 
 ```mermaid
 xychart-beta
-    title "pickeld/pick-a-recipe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    title "pickeld/pick-a-recipe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 48 --> 53
-    line [49, 50, 51, 52]
+    line [49, 50, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-10-27 52（+3）
+2026-10-18 49 → 2026-10-28 52（+3）
 
 
 ---

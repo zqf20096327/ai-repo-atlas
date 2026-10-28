@@ -1,6 +1,6 @@
 # FrancescoCiannavei/Local-rag-example
 
-⭐ 22 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FrancescoCiannavei/Local-rag-example) · 个人维护
+⭐ 20 · Go · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FrancescoCiannavei/Local-rag-example) · 个人维护
 
 **RAG 架构讲解与本地示例仓库（PgSql+Ollama+Go）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "FrancescoCiannavei/Local-rag-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 19 --> 23
+    line [22, 20]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 20（-2）
 
 
 ---

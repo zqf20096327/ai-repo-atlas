@@ -45,12 +45,12 @@ PyGAD 库的 Keras 适配模块，仅含单一模块 kerasga.py 与 KerasGA 类�
 ```mermaid
 xychart-beta
     title "ahmedfgad/KerasGA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 38（+0）
 
 
 ---

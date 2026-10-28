@@ -1,6 +1,6 @@
 # george-gca/ai_papers_scrapper
 
-⭐ 53 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/george-gca/ai_papers_scrapper) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/george-gca/ai_papers_scrapper) · 个人维护
 
 **抓取主流 AI 会议论文 PDF 与元数据的爬虫工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "george-gca/ai_papers_scrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 51 --> 54
+    line [53, 52]
 ```
 
-2026-10-18 53 → 2026-10-27 53（+0）
+2026-10-18 53 → 2026-10-28 52（-1）
 
 
 ---

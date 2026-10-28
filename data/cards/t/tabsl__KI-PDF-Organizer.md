@@ -45,13 +45,13 @@ Python 命令行脚本集合，面向个人文档整理场景：调用 OpenAI、
 
 ```mermaid
 xychart-beta
-    title "tabsl/KI-PDF-Organizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "tabsl/KI-PDF-Organizer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 28（+1）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

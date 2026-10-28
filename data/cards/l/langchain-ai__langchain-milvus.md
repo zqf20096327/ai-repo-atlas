@@ -1,6 +1,6 @@
 # langchain-ai/langchain-milvus
 
-⭐ 61 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/langchain-ai/langchain-milvus) · [官网](https://milvus.io/docs/integrate_with_langchain.md) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/langchain-ai/langchain-milvus) · [官网](https://milvus.io/docs/integrate_with_langchain.md) · 组织维护
 
 **LangChain 与 Milvus 向量数据库的集成包，支持向量检索与 RAG**
 
@@ -45,12 +45,12 @@ langchain-ai 维护的集成包，将 Milvus 向量数据库接入 LangChain：�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-milvus 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 58 --> 62
     line [59, 61, 61]
 ```
 
-2026-10-18 59 → 2026-10-27 61（+2）
+2026-10-18 59 → 2026-10-28 61（+2）
 
 
 ---

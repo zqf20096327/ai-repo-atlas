@@ -1,6 +1,6 @@
 # KazeKaze93/sd-webui-style-organizer
 
-⭐ 40 · JavaScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/KazeKaze93/sd-webui-style-organizer) · 个人维护
+⭐ 40 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/KazeKaze93/sd-webui-style-organizer) · 个人维护
 
 **Stable Diffusion WebUI 的可视化样式选择器扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KazeKaze93/sd-webui-style-organizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 39 --> 42
     line [41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-10-27 40（-1）
+2026-10-18 41 → 2026-10-28 40（-1）
 
 
 ---

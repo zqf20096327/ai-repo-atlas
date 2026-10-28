@@ -1,6 +1,6 @@
 # YoKONCy/TriviumDB
 
-⭐ 180 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/YoKONCy/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
+⭐ 181 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/YoKONCy/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
 
 **Rust 编写的向量×图谱×文档三模嵌入式数据库，面向 AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YoKONCy/TriviumDB 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 179 --> 186
-    line [182, 183, 185, 180, 180]
+    line [182, 183, 185, 180, 181]
 ```
 
-2026-10-18 182 → 2026-10-27 180（-2）
+2026-10-18 182 → 2026-10-28 181（-1）
 
 
 ---

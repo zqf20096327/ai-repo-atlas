@@ -1,6 +1,6 @@
 # skye-harris/hass_local_openai_llm
 
-⭐ 303 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/skye-harris/hass_local_openai_llm) · 个人维护
+⭐ 304 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/skye-harris/hass_local_openai_llm) · 个人维护
 
 **让 Home Assistant 接入本地 OpenAI 兼容 LLM 服务的自定义集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skye-harris/hass_local_openai_llm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 296 --> 304
-    line [297, 298, 300, 302, 303, 303]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 296 --> 305
+    line [297, 298, 300, 302, 303, 304]
 ```
 
-2026-10-18 297 → 2026-10-27 303（+6）
+2026-10-18 297 → 2026-10-28 304（+7）
 
 
 ---

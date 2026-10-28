@@ -1,6 +1,6 @@
 # deepnote/deepnote
 
-⭐ 3,026 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
+⭐ 3,025 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
 
 **Jupyter 的替代性数据笔记本：AI 时代的数据分析环境**
 
@@ -45,12 +45,12 @@ Deepnote 定位为 Jupyter 的 drop-in 替代品，使用向后兼容的 Deepnot
 ```mermaid
 xychart-beta
     title "deepnote/deepnote 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 3018 --> 3027
-    line [3019, 3022, 3023, 3026, 3025, 3026, 3026]
+    line [3019, 3022, 3023, 3026, 3025, 3026, 3025]
 ```
 
-2026-10-18 3,019 → 2026-10-27 3,026（+7）
+2026-10-18 3,019 → 2026-10-28 3,025（+6）
 
 
 ---

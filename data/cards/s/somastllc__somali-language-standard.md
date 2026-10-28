@@ -1,6 +1,6 @@
 # somastllc/somali-language-standard
 
-⭐ 108 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/somastllc/somali-language-standard) · [官网](https://www.goobolabs.so) · 组织维护
+⭐ 108 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/somastllc/somali-language-standard) · [官网](https://www.goobolabs.so) · 组织维护
 
 **索马里语的开放机器可读语言标准（RFC 式规范目录）**
 
@@ -45,12 +45,12 @@ SLS 为索马里语定义正字法、语法、术语、翻译与 AI/基准资源
 ```mermaid
 xychart-beta
     title "somastllc/somali-language-standard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-27 108（+0）
+2026-10-18 108 → 2026-10-28 108（+0）
 
 
 ---

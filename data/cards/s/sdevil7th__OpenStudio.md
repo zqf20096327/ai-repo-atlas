@@ -1,6 +1,6 @@
 # sdevil7th/OpenStudio
 
-⭐ 39 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sdevil7th/OpenStudio) · [官网](https://openstudio.org.in) · 个人维护
+⭐ 40 · C++ · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sdevil7th/OpenStudio) · [官网](https://openstudio.org.in) · 个人维护
 
 **开源本地优先的 DAW，内置可选本地 AI 音乐工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sdevil7th/OpenStudio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 32 --> 40
-    line [33, 34, 36, 37, 38, 39]
+    title "sdevil7th/OpenStudio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 32 --> 41
+    line [33, 34, 36, 37, 38, 39, 40]
 ```
 
-2026-10-18 33 → 2026-10-27 39（+6）
+2026-10-18 33 → 2026-10-28 40（+7）
 
 
 ---

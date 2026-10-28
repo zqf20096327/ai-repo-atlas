@@ -1,6 +1,6 @@
 # QihongRuan/stanford-cs336-notes
 
-⭐ 73 · HTML · 推送 2026-07-12 · [GitHub](https://github.com/QihongRuan/stanford-cs336-notes) · 个人维护
+⭐ 74 · HTML · 推送 2026-07-12 · [GitHub](https://github.com/QihongRuan/stanford-cs336-notes) · 个人维护
 
 **斯坦福 CS336 课程的图解学习笔记站（17 讲）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QihongRuan/stanford-cs336-notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 69 --> 74
-    line [70, 71, 72, 73, 73]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 69 --> 75
+    line [70, 71, 72, 73, 74]
 ```
 
-2026-10-18 70 → 2026-10-27 73（+3）
+2026-10-18 70 → 2026-10-28 74（+4）
 
 
 ---

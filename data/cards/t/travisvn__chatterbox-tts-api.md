@@ -1,6 +1,6 @@
 # travisvn/chatterbox-tts-api
 
-⭐ 692 · Python · AGPL-3.0 · 推送 2025-12-23 · [GitHub](https://github.com/travisvn/chatterbox-tts-api) · [官网](https://chatterboxtts.com) · 个人维护
+⭐ 693 · Python · AGPL-3.0 · 推送 2025-12-23 · [GitHub](https://github.com/travisvn/chatterbox-tts-api) · [官网](https://chatterboxtts.com) · 个人维护
 
 **给开发者的本地 Chatterbox TTS API：OpenAI 兼容接口加语音克隆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "travisvn/chatterbox-tts-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 689 --> 693
-    line [690, 691, 692, 692]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 689 --> 694
+    line [690, 691, 692, 693]
 ```
 
-2026-10-18 690 → 2026-10-27 692（+2）
+2026-10-18 690 → 2026-10-28 693（+3）
 
 
 ---

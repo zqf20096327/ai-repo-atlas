@@ -1,6 +1,6 @@
 # PRQELT/Autonomix
 
-⭐ 215 · C++ · MIT · 推送 2026-05-08 · [GitHub](https://github.com/PRQELT/Autonomix) · 组织维护
+⭐ 216 · C++ · MIT · 推送 2026-05-08 · [GitHub](https://github.com/PRQELT/Autonomix) · 组织维护
 
 **UE5 编辑器内自主开发项目的 AI agent 插件**
 
@@ -46,12 +46,12 @@ Unreal Engine 编辑器插件，以对话式聊天面板驱动 AI agent 自主�
 ```mermaid
 xychart-beta
     title "PRQELT/Autonomix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 214 --> 217
-    line [216, 215, 215]
+    line [216, 215, 216]
 ```
 
-2026-10-18 216 → 2026-10-27 215（-1）
+2026-10-18 216 → 2026-10-28 216（+0）
 
 
 ---

@@ -45,12 +45,12 @@ TNNLS 2024 论文 MutexMatch 的官方 PyTorch 代码：通过基于互斥的一
 ```mermaid
 xychart-beta
     title "NJUyued/MutexMatch4SSL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-27 72（+0）
+2026-10-18 72 → 2026-10-28 72（+0）
 
 
 ---

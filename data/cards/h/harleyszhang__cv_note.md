@@ -1,6 +1,6 @@
 # harleyszhang/cv_note
 
-⭐ 2,648 · Python · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/harleyszhang/cv_note) · 个人维护 · 中文 README
+⭐ 2,650 · Python · Apache-2.0 · 推送 2026-05-10 · [GitHub](https://github.com/harleyszhang/cv_note) · 个人维护 · 中文 README
 
 **CV 算法工程师成长之路的个人技术笔记与面经汇总（逐步废弃）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "harleyszhang/cv_note 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2643 --> 2649
-    line [2644, 2646, 2647, 2648]
+    title "harleyszhang/cv_note 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2643 --> 2651
+    line [2644, 2646, 2647, 2648, 2650]
 ```
 
-2026-10-18 2,644 → 2026-10-27 2,648（+4）
+2026-10-18 2,644 → 2026-10-28 2,650（+6）
 
 
 ---

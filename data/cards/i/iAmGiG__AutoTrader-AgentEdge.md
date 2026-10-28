@@ -1,6 +1,6 @@
 # iAmGiG/AutoTrader-AgentEdge
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/iAmGiG/AutoTrader-AgentEdge) · [官网](https://github.com/iAmGiG/AutoTrader-AgentEdge/wiki) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/iAmGiG/AutoTrader-AgentEdge) · [官网](https://github.com/iAmGiG/AutoTrader-AgentEdge/wiki) · 个人维护
 
 **基于 AutoGen 多智能体的美股交易系统，人机协同的纸面交易与研究验证**
 
@@ -45,12 +45,12 @@ OptionsCommander（原 RH2MAS）是构建于 Microsoft AutoGen 之上的多智�
 ```mermaid
 xychart-beta
     title "iAmGiG/AutoTrader-AgentEdge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # barakmich/bbqvec
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/barakmich/bbqvec) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Go/Rust 嵌入式向量索引库，提供近似最近邻检索**
 
@@ -11,7 +11,7 @@ BBQvec 是开源的嵌入式向量数据库索引库，同时提供 Go 与 Rust 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

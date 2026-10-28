@@ -1,6 +1,6 @@
 # sophgo/LLM-TPU
 
-⭐ 319 · C++ · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/sophgo/LLM-TPU) · 组织维护 · 中文 README
+⭐ 319 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/sophgo/LLM-TPU) · 组织维护 · 中文 README
 
 **在 SOPHGO TPU 芯片上一键部署主流 LLM/VLM 的开源工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sophgo/LLM-TPU 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 314 --> 320
     line [315, 316, 318, 319, 319]
 ```
 
-2026-10-18 315 → 2026-10-27 319（+4）
+2026-10-18 315 → 2026-10-28 319（+4）
 
 
 ---

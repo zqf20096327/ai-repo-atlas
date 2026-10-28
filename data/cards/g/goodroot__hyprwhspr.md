@@ -1,6 +1,6 @@
 # goodroot/hyprwhspr
 
-⭐ 1,257 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/goodroot/hyprwhspr) · [官网](https://hyprwhspr.com) · 个人维护
+⭐ 1,258 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/goodroot/hyprwhspr) · [官网](https://hyprwhspr.com) · 个人维护
 
 **Linux 原生系统级语音听写工具，本地语音转文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "goodroot/hyprwhspr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1245 --> 1258
-    line [1246, 1251, 1256, 1257, 1256, 1257]
+    title "goodroot/hyprwhspr 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1245 --> 1259
+    line [1246, 1251, 1256, 1257, 1256, 1257, 1258]
 ```
 
-2026-10-18 1,246 → 2026-10-27 1,257（+11）
+2026-10-18 1,246 → 2026-10-28 1,258（+12）
 
 
 ---

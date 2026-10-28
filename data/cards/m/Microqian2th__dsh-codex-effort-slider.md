@@ -1,6 +1,6 @@
 # Microqian2th/dsh-codex-effort-slider
 
-⭐ 213 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Microqian2th/dsh-codex-effort-slider) · 个人维护 · 中文 README
+⭐ 218 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Microqian2th/dsh-codex-effort-slider) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的推理等级滑条插件：可拖动连续调档带渐变特效**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Microqian2th/dsh-codex-effort-slider 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 143 --> 219
-    line [149, 174, 181, 190, 196, 201, 210, 213]
+    title "Microqian2th/dsh-codex-effort-slider 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 143 --> 224
+    line [149, 174, 181, 190, 196, 201, 210, 213, 218]
 ```
 
-2026-10-18 149 → 2026-10-27 213（+64）
+2026-10-18 149 → 2026-10-28 218（+69）
 
 
 ---

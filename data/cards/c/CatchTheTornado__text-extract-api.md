@@ -1,6 +1,6 @@
 # CatchTheTornado/text-extract-api
 
-⭐ 3,185 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/text-extract-api) · [官网](https://demo.doctractor.com) · 组织维护
+⭐ 3,187 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/CatchTheTornado/text-extract-api) · [官网](https://demo.doctractor.com) · 组织维护
 
 **文档转 Markdown/JSON 的 OCR 提取 API，支持 PII 去除**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CatchTheTornado/text-extract-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3180 --> 3186
-    line [3184, 3183, 3182, 3181, 3182, 3185]
+    title "CatchTheTornado/text-extract-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3180 --> 3188
+    line [3184, 3183, 3182, 3181, 3182, 3185, 3187]
 ```
 
-2026-10-18 3,184 → 2026-10-27 3,185（+1）
+2026-10-18 3,184 → 2026-10-28 3,187（+3）
 
 
 ---

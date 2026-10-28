@@ -1,6 +1,6 @@
 # xianyu110/awesome-openclaw-tutorial
 
-⭐ 4,575 · Shell · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/xianyu110/awesome-openclaw-tutorial) · [官网](https://awesome.tryopenclaw.asia/) · 个人维护 · 中文 README
+⭐ 4,573 · Shell · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/xianyu110/awesome-openclaw-tutorial) · [官网](https://awesome.tryopenclaw.asia/) · 个人维护 · 中文 README
 
 **OpenClaw 中文教程仓库：408,000字教程+避坑指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xianyu110/awesome-openclaw-tutorial 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "xianyu110/awesome-openclaw-tutorial 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4568 --> 4576
-    line [4569, 4571, 4570, 4571, 4573, 4572, 4573, 4575]
+    line [4569, 4571, 4570, 4571, 4573, 4572, 4573, 4575, 4573]
 ```
 
-2026-10-18 4,569 → 2026-10-27 4,575（+6）
+2026-10-18 4,569 → 2026-10-28 4,573（+4）
 
 
 ---

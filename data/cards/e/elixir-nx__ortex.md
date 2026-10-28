@@ -1,6 +1,6 @@
 # elixir-nx/ortex
 
-⭐ 211 · Elixir · MIT · 推送 2026-02-10 · [GitHub](https://github.com/elixir-nx/ortex) · 组织维护
+⭐ 212 · Elixir · MIT · 推送 2026-02-10 · [GitHub](https://github.com/elixir-nx/ortex) · 组织维护
 
 **Elixir 的 ONNX Runtime 绑定库：加载运行 ONNX 模型推理**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "elixir-nx/ortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 210 --> 212
-    line [211, 211]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 210 --> 213
+    line [211, 212]
 ```
 
-2026-10-18 211 → 2026-10-27 211（+0）
+2026-10-18 211 → 2026-10-28 212（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # icip-cas/PPTAgent
 
-⭐ 5,163 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
+⭐ 5,166 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
 
 **供编码 Agent 使用的 PowerPoint 生成与视觉审查技能框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "icip-cas/PPTAgent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5121 --> 5166
-    line [5124, 5131, 5144, 5149, 5151, 5157, 5163]
+    title "icip-cas/PPTAgent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5120 --> 5170
+    line [5124, 5131, 5144, 5149, 5151, 5157, 5163, 5166]
 ```
 
-2026-10-18 5,124 → 2026-10-27 5,163（+39）
+2026-10-18 5,124 → 2026-10-28 5,166（+42）
 
 
 ---

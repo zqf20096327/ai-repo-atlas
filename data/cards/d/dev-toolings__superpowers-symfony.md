@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dev-toolings/superpowers-symfony 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "dev-toolings/superpowers-symfony 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 223 --> 228
-    line [224, 226, 227]
+    line [224, 226, 227, 227]
 ```
 
-2026-10-18 224 → 2026-10-27 227（+3）
+2026-10-18 224 → 2026-10-28 227（+3）
 
 
 ---

@@ -44,13 +44,13 @@ TensorFlow Privacy 是 Google 维护的 Python 库，提供差分隐私版 Tenso
 
 ```mermaid
 xychart-beta
-    title "tensorflow/privacy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "tensorflow/privacy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2037 --> 2041
-    line [2040, 2039, 2038]
+    line [2040, 2039, 2038, 2038]
 ```
 
-2026-10-18 2,040 → 2026-10-27 2,038（-2）
+2026-10-18 2,040 → 2026-10-28 2,038（-2）
 
 
 ---

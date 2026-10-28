@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference
 
-⭐ 142 · C++ · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
+⭐ 143 · C++ · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
 **NVIDIA 加速的 ROS 2 深度学习推理包，服务机器人感知**
 
@@ -45,12 +45,12 @@ NVIDIA Isaac ROS 生态下的 ROS 2 推理节点集合：提供 TensorRT 与 Tri
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 141 --> 144
+    line [142, 143]
 ```
 
-2026-10-18 142 → 2026-10-27 142（+0）
+2026-10-18 142 → 2026-10-28 143（+1）
 
 
 ---

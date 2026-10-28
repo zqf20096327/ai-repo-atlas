@@ -1,6 +1,6 @@
 # The-Best-Codes/ai-model-directory
 
-⭐ 42 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/The-Best-Codes/ai-model-directory) · [官网](https://models.agent-one.dev/) · 个人维护
+⭐ 44 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/The-Best-Codes/ai-model-directory) · [官网](https://models.agent-one.dev/) · 个人维护
 
 **自动更新的 AI 模型元数据目录（22,000+ 模型，125+ 供应商）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Best-Codes/ai-model-directory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 44]
 ```
 
-2026-10-18 41 → 2026-10-27 42（+1）
+2026-10-18 41 → 2026-10-28 44（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # light-cloud-com/out-loud
 
-⭐ 92 · TypeScript · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/light-cloud-com/out-loud) · [官网](https://out-loud.io) · 组织维护
+⭐ 93 · TypeScript · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/light-cloud-com/out-loud) · [官网](https://out-loud.io) · 组织维护
 
 **100% 离线 AI 文字转语音桌面应用，读文本为自然语音**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "light-cloud-com/out-loud 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 90 --> 94
+    line [91, 92, 93]
 ```
 
-2026-10-18 91 → 2026-10-27 92（+1）
+2026-10-18 91 → 2026-10-28 93（+2）
 
 
 ---

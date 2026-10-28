@@ -45,12 +45,12 @@ DenoMamba 的官方 PyTorch 实现，对应 arXiv:2409.13094 与 IEEE JBHI 论�
 ```mermaid
 xychart-beta
     title "icon-lab/DenoMamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

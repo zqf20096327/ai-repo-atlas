@@ -1,6 +1,6 @@
 # clearml/clearml
 
-⭐ 6,919 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/clearml/clearml) · [官网](https://clear.ml/docs) · 组织维护
+⭐ 6,920 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/clearml/clearml) · [官网](https://clear.ml/docs) · 组织维护
 
 **面向 ML/DL 团队的实验追踪、数据管理与 MLOps/LLMOps 编排套件**
 
@@ -45,13 +45,13 @@ ClearML 是一个 ML/DL 开发与生产套件，包含五大模块：Experiment 
 
 ```mermaid
 xychart-beta
-    title "clearml/clearml 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6907 --> 6920
-    line [6908, 6910, 6913, 6916, 6917, 6919]
+    title "clearml/clearml 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6907 --> 6921
+    line [6908, 6910, 6913, 6916, 6917, 6919, 6920]
 ```
 
-2026-10-18 6,908 → 2026-10-27 6,919（+11）
+2026-10-18 6,908 → 2026-10-28 6,920（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/multimodal-ai
 
-⭐ 27 · HCL · MIT · 推送 2026-08-25 · [GitHub](https://github.com/microsoft/multimodal-ai) · 组织维护
+⭐ 28 · HCL · MIT · 推送 2026-08-25 · [GitHub](https://github.com/microsoft/multimodal-ai) · 组织维护
 
 **微软的 Azure 多模态 GenAI 企业方案：RAG、图像/视频分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/multimodal-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

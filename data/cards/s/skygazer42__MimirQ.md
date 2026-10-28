@@ -1,6 +1,6 @@
 # skygazer42/MimirQ
 
-⭐ 567 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/skygazer42/MimirQ) · [官网](https://skygazer42.github.io/MimirQ/handbook/) · 组织维护 · 中文 README
+⭐ 569 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/skygazer42/MimirQ) · [官网](https://skygazer42.github.io/MimirQ/handbook/) · 组织维护 · 中文 README
 
 **面向企业的中文优先 RAG 知识库基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skygazer42/MimirQ 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 556 --> 568
-    line [557, 560, 563, 566, 565, 567]
+    title "skygazer42/MimirQ 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 556 --> 570
+    line [557, 560, 563, 566, 565, 567, 569]
 ```
 
-2026-10-18 557 → 2026-10-27 567（+10）
+2026-10-18 557 → 2026-10-28 569（+12）
 
 
 ---

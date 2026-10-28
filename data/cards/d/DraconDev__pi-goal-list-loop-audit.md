@@ -46,13 +46,13 @@ GLLA 是 Pi 编码代理的扩展包，将长期开发工作转为受监督过�
 
 ```mermaid
 xychart-beta
-    title "DraconDev/pi-goal-list-loop-audit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "DraconDev/pi-goal-list-loop-audit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 26 --> 30
-    line [27, 28, 29]
+    line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-27 29（+2）
+2026-10-18 27 → 2026-10-28 29（+2）
 
 
 ---

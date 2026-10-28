@@ -1,6 +1,6 @@
 # monocle2ai/monocle
 
-⭐ 345 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/monocle2ai/monocle) · [官网](http://monocle2ai.org) · 组织维护
+⭐ 345 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/monocle2ai/monocle) · [官网](http://monocle2ai.org) · 组织维护
 
 **GenAI 应用与 agent 的 OpenTelemetry 追踪与测试框架**
 
@@ -45,13 +45,13 @@ Linux Foundation AI & Data 孵化下的开源可观测性框架，Python 实现�
 
 ```mermaid
 xychart-beta
-    title "monocle2ai/monocle 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    title "monocle2ai/monocle 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 341 --> 346
-    line [342, 343, 344, 345]
+    line [342, 343, 344, 345, 345]
 ```
 
-2026-10-18 342 → 2026-10-27 345（+3）
+2026-10-18 342 → 2026-10-28 345（+3）
 
 
 ---

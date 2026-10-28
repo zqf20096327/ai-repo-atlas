@@ -1,6 +1,6 @@
 # panyisheng095-ux/VisionQuant-Pro
 
-⭐ 141 · Python · MIT · 推送 2026-02-27 · [GitHub](https://github.com/panyisheng095-ux/VisionQuant-Pro) · 个人维护 · 中文 README
+⭐ 142 · Python · MIT · 推送 2026-02-27 · [GitHub](https://github.com/panyisheng095-ux/VisionQuant-Pro) · 个人维护 · 中文 README
 
 **给量化研究者：用视觉模型学习K线形态并做因子验证回测**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "panyisheng095-ux/VisionQuant-Pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 140 --> 143
+    line [141, 142]
 ```
 
-2026-10-18 141 → 2026-10-27 141（+0）
+2026-10-18 141 → 2026-10-28 142（+1）
 
 
 ---

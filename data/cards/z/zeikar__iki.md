@@ -1,6 +1,6 @@
 # zeikar/iki
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zeikar/iki) · [官网](https://zeikar.dev/iki/) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zeikar/iki) · [官网](https://zeikar.dev/iki/) · 个人维护
 
 **面向 Web 的开源 Live2D 替代：MIT 许可的 2D 纸偶引擎，AI 可自动绑定**
 
@@ -47,12 +47,12 @@ MIT 许可的浏览器端 2D 纸偶动画引擎，定位为 Live2D/Inochi2D 的�
 ```mermaid
 xychart-beta
     title "zeikar/iki 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 17 --> 25
-    line [18, 19, 20, 21, 22, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 17 --> 27
+    line [18, 19, 20, 21, 22, 24, 26]
 ```
 
-2026-10-18 18 → 2026-10-27 24（+6）
+2026-10-18 18 → 2026-10-28 26（+8）
 
 
 ---

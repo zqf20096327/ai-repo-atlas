@@ -1,6 +1,6 @@
 # heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server
 
-⭐ 58 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server) · 个人维护
+⭐ 58 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server) · 个人维护
 
 **把 WhatsApp 接入 MCP 的服务器：让 AI agent 操作 WhatsApp**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 WhatsApp MCP 服务器，作为 AI agent 与 WhatsApp 之�
 ```mermaid
 xychart-beta
     title "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-26", "2026-10-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-26 58 → 2026-10-27 58（+0）
+2026-10-26 58 → 2026-10-28 58（+0）
 
 
 ---

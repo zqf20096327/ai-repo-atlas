@@ -1,6 +1,6 @@
 # Will-hxw/QQLore
 
-⭐ 22 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/Will-hxw/QQLore) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Will-hxw/QQLore) · 个人维护 · 中文 README
 
 **QQ 群聊记录的本地 RAG 检索与 Agent 问答系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Will-hxw/QQLore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

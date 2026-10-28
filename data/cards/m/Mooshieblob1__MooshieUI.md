@@ -1,6 +1,6 @@
 # Mooshieblob1/MooshieUI
 
-⭐ 220 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mooshieblob1/MooshieUI) · [官网](https://mooshieui.com) · 个人维护
+⭐ 220 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Mooshieblob1/MooshieUI) · [官网](https://mooshieui.com) · 个人维护
 
 **面向初学者的 ComfyUI 图像/视频/音乐生成前端界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mooshieblob1/MooshieUI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 212 --> 221
     line [213, 216, 218, 219, 220, 220]
 ```
 
-2026-10-18 213 → 2026-10-27 220（+7）
+2026-10-18 213 → 2026-10-28 220（+7）
 
 
 ---

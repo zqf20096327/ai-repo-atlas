@@ -1,6 +1,6 @@
 # datrics-ai/text2sql
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/datrics-ai/text2sql) · [官网](https://datrics.ai) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/datrics-ai/text2sql) · [官网](https://datrics.ai) · 组织维护
 
 **自然语言转 SQL 的 Text2SQL 引擎，带 RAG 语义层**
 
@@ -46,12 +46,12 @@ Datrics 开源的自然语言到 SQL 转换引擎：通过语义层读取数据�
 ```mermaid
 xychart-beta
     title "datrics-ai/text2sql 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-27 66（+0）
+2026-10-18 66 → 2026-10-28 67（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MLSysOps/MLE-agent
 
-⭐ 1,574 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MLSysOps/MLE-agent) · 组织维护
+⭐ 1,575 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/MLSysOps/MLE-agent) · 组织维护
 
 **面向机器学习工程师与研究者的配对 LLM 智能体**
 
@@ -46,12 +46,12 @@ MLE-Agent 是为机器学习工程师和研究者设计的命令行 LLM 代理�
 ```mermaid
 xychart-beta
     title "MLSysOps/MLE-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1573 --> 1576
-    line [1574, 1575, 1574, 1574]
+    line [1574, 1575, 1574, 1575]
 ```
 
-2026-10-18 1,574 → 2026-10-27 1,574（+0）
+2026-10-18 1,574 → 2026-10-28 1,575（+1）
 
 
 ---

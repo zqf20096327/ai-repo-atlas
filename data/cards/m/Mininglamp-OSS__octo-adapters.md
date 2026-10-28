@@ -46,12 +46,12 @@ Mininglamp-OSS 维护的 OCTO 第三方集成仓库：提供独立启停的自�
 ```mermaid
 xychart-beta
     title "Mininglamp-OSS/octo-adapters 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 43（+0）
 
 
 ---

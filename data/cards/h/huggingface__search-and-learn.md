@@ -43,13 +43,13 @@ Hugging Face 团队维护的推理时算力扩展工具库：提供脚本与 YAM
 
 ```mermaid
 xychart-beta
-    title "huggingface/search-and-learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "huggingface/search-and-learn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1132 --> 1135
-    line [1134, 1133]
+    line [1134, 1133, 1133]
 ```
 
-2026-10-18 1,134 → 2026-10-27 1,133（-1）
+2026-10-18 1,134 → 2026-10-28 1,133（-1）
 
 
 ---

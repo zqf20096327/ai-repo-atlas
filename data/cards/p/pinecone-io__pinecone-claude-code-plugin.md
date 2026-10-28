@@ -1,6 +1,6 @@
 # pinecone-io/pinecone-claude-code-plugin
 
-⭐ 69 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/pinecone-io/pinecone-claude-code-plugin) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Pinecone 官方的 Claude Code 插件：语义搜索与 RAG 工作流**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

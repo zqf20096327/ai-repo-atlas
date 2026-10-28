@@ -1,6 +1,6 @@
 # giancarloerra/SocratiCode
 
-⭐ 3,355 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
+⭐ 3,356 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/giancarloerra/SocratiCode) · [官网](https://socraticode.cloud) · 个人维护
 
 **给 AI 助手的代码库上下文引擎：零配置本地索引与语义检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "giancarloerra/SocratiCode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 3337 --> 3356
-    line [3338, 3346, 3349, 3352, 3354, 3355]
+    title "giancarloerra/SocratiCode 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3337 --> 3357
+    line [3338, 3346, 3349, 3352, 3354, 3355, 3356]
 ```
 
-2026-10-18 3,338 → 2026-10-27 3,355（+17）
+2026-10-18 3,338 → 2026-10-28 3,356（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # scverse/scvi-tools
 
-⭐ 1,719 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scvi-tools) · [官网](http://scvi-tools.org/) · 组织维护
+⭐ 1,720 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/scverse/scvi-tools) · [官网](http://scvi-tools.org/) · 组织维护
 
 **单细胞组学数据的概率建模与分析 Python 库**
 
@@ -44,13 +44,13 @@ scvi-tools 是基于 PyTorch 与 AnnData 构建的概率建模分析包，面向
 
 ```mermaid
 xychart-beta
-    title "scverse/scvi-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1712 --> 1720
-    line [1713, 1714, 1715, 1716, 1717, 1719]
+    title "scverse/scvi-tools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1712 --> 1721
+    line [1713, 1714, 1715, 1716, 1717, 1719, 1720]
 ```
 
-2026-10-18 1,713 → 2026-10-27 1,719（+6）
+2026-10-18 1,713 → 2026-10-28 1,720（+7）
 
 
 ---

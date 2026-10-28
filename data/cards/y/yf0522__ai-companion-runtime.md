@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yf0522/ai-companion-runtime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "yf0522/ai-companion-runtime 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-10-27 47（+1）
+2026-10-18 46 → 2026-10-28 47（+1）
 
 
 ---

@@ -44,12 +44,12 @@ Deep Learning Do It Yourself 教学站点的源码仓库：以模块形式组织
 ```mermaid
 xychart-beta
     title "dataflowr/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-10-27 65（+0）
+2026-10-18 65 → 2026-10-28 65（+0）
 
 
 ---

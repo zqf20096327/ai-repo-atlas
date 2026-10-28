@@ -1,6 +1,6 @@
 # ypyik0669/claude-web
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ypyik0669/claude-web) · [官网](https://psycioxyxs.my) · 个人维护 · 中文 README
+⭐ 53 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ypyik0669/claude-web) · [官网](https://psycioxyxs.my) · 个人维护 · 中文 README
 
 **Claude Code 等 CLI agent 的可视化工作台（桌面+网页）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ypyik0669/claude-web 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 25 --> 53
-    line [27, 30, 34, 39, 43, 49, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 25 --> 55
+    line [27, 30, 34, 39, 43, 49, 51, 53]
 ```
 
-2026-10-18 27 → 2026-10-27 51（+24）
+2026-10-18 27 → 2026-10-28 53（+26）
 
 
 ---

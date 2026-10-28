@@ -1,6 +1,6 @@
 # tetsuo-ai/agenc-core
 
-⭐ 75 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tetsuo-ai/agenc-core) · [官网](https://get.agenc.ag) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tetsuo-ai/agenc-core) · [官网](https://get.agenc.ag) · 组织维护
 
 **开源终端 AI 编程 agent，支持 17+ 模型提供商与本地模型**
 
@@ -45,13 +45,13 @@ TypeScript 实现的开源终端 AI 编程代理（agenc CLI），架构为本�
 
 ```mermaid
 xychart-beta
-    title "tetsuo-ai/agenc-core 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 37 --> 78
-    line [40, 42, 44, 51, 55, 57, 66, 75]
+    title "tetsuo-ai/agenc-core 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 36 --> 86
+    line [40, 42, 44, 51, 55, 57, 66, 75, 82]
 ```
 
-2026-10-18 40 → 2026-10-27 75（+35）
+2026-10-18 40 → 2026-10-28 82（+42）
 
 
 ---

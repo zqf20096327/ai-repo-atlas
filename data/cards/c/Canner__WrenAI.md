@@ -1,6 +1,6 @@
 # Canner/WrenAI
 
-⭐ 17,978 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
+⭐ 17,988 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Canner/WrenAI) · [官网](https://www.getwren.ai/en/open-core) · 组织维护 · 中文 README
 
 **给 AI agent 提供受治理 text-to-SQL 与语义层的开源 GenBI 引擎**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "Canner/WrenAI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 17877 --> 17987
-    line [17886, 17903, 17930, 17948, 17957, 17961, 17968, 17978]
+    title "Canner/WrenAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 17876 --> 17998
+    line [17886, 17903, 17930, 17948, 17957, 17961, 17968, 17978, 17988]
 ```
 
-2026-10-18 17,886 → 2026-10-27 17,978（+92）
+2026-10-18 17,886 → 2026-10-28 17,988（+102）
 
 
 ---

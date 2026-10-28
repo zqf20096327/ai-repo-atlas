@@ -1,6 +1,6 @@
 # rohitg00/awesome-devops-mcp-servers
 
-⭐ 1,029 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/rohitg00/awesome-devops-mcp-servers) · [官网](https://createmvps.app/mcp-rules) · 个人维护
+⭐ 1,028 · MIT · 推送 2026-05-12 · [GitHub](https://github.com/rohitg00/awesome-devops-mcp-servers) · [官网](https://createmvps.app/mcp-rules) · 个人维护
 
 **面向 DevOps 工具的 MCP 服务器策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rohitg00/awesome-devops-mcp-servers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1024 --> 1030
-    line [1025, 1026, 1027, 1029, 1029]
+    line [1025, 1026, 1027, 1029, 1028]
 ```
 
-2026-10-18 1,025 → 2026-10-27 1,029（+4）
+2026-10-18 1,025 → 2026-10-28 1,028（+3）
 
 
 ---

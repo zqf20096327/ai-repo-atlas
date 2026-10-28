@@ -1,6 +1,6 @@
 # OishiLab/OpenMAP-T1
 
-⭐ 49 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OishiLab/OpenMAP-T1) · 组织维护
+⭐ 50 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/OishiLab/OpenMAP-T1) · 组织维护
 
 **全脑 T1 MRI 深度学习分割工具：分块 280 个解剖区域**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OishiLab/OpenMAP-T1 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-18 48 → 2026-10-27 49（+1）
+2026-10-18 48 → 2026-10-28 50（+2）
 
 
 ---

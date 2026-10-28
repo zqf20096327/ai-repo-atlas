@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Linear
 
-⭐ 1,620 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Linear) · 组织维护 · 中文 README
+⭐ 1,623 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/MoonshotAI/Kimi-Linear) · 组织维护 · 中文 README
 
 **月之暗面开源的混合线性注意力架构模型（48B/A3B）**
 
@@ -45,12 +45,12 @@ MoonshotAI 开源的 Kimi Linear：一种混合线性注意力架构，核心为
 ```mermaid
 xychart-beta
     title "MoonshotAI/Kimi-Linear 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1615 --> 1621
-    line [1616, 1617, 1619, 1620, 1620]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1615 --> 1624
+    line [1616, 1617, 1619, 1620, 1623]
 ```
 
-2026-10-18 1,616 → 2026-10-27 1,620（+4）
+2026-10-18 1,616 → 2026-10-28 1,623（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # vdavid/cmdr
 
-⭐ 118 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/vdavid/cmdr) · [官网](https://getcmdr.com) · 个人维护
+⭐ 119 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/vdavid/cmdr) · [官网](https://getcmdr.com) · 个人维护
 
 **macOS 键盘驱动的双栏文件管理器，AI 功能可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vdavid/cmdr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 111 --> 119
-    line [112, 114, 116, 117, 118]
+    title "vdavid/cmdr 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 111 --> 120
+    line [112, 114, 116, 117, 118, 119]
 ```
 
-2026-10-18 112 → 2026-10-27 118（+6）
+2026-10-18 112 → 2026-10-28 119（+7）
 
 
 ---

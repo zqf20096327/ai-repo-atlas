@@ -1,6 +1,6 @@
 # rulith-dev/rulith-inference
 
-⭐ 45 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rulith-dev/rulith-inference) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rulith-dev/rulith-inference) · 个人维护 · 中文 README
 
 **在单台 AMD Strix Halo Windows 机器上快速服务 125B MoE 模型的推理套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rulith-dev/rulith-inference 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 35 --> 46
-    line [36, 37, 38, 40, 41, 42, 43, 45]
+    title "rulith-dev/rulith-inference 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 35 --> 48
+    line [36, 37, 38, 40, 41, 42, 43, 45, 47]
 ```
 
-2026-10-18 36 → 2026-10-27 45（+9）
+2026-10-18 36 → 2026-10-28 47（+11）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "landing-ai/ade-document-processing-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-27 69（+0）
+2026-10-18 69 → 2026-10-28 69（+0）
 
 
 ---

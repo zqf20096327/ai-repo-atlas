@@ -1,6 +1,6 @@
 # justxor/awesome-ai-devtools-ru
 
-⭐ 24 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/justxor/awesome-ai-devtools-ru) · 组织维护
+⭐ 25 · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/justxor/awesome-ai-devtools-ru) · 组织维护
 
 **俄语 AI 开发者工具目录：IDE、代理、MCP、LLMOps 分类清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "justxor/awesome-ai-devtools-ru 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5 --> 25
-    line [6, 14, 18, 19, 22, 23, 24]
+    title "justxor/awesome-ai-devtools-ru 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5 --> 26
+    line [6, 14, 18, 19, 22, 23, 24, 25]
 ```
 
-2026-10-19 6 → 2026-10-27 24（+18）
+2026-10-19 6 → 2026-10-28 25（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # gilsmt/cache-app
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gilsmt/cache-app) · [官网](https://www.cachd.app) · 个人维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/gilsmt/cache-app) · [官网](https://www.cachd.app) · 个人维护
 
 **个人 AI 书签管理器：跨平台收藏、聚合与检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gilsmt/cache-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 27 --> 30
-    line [28, 29]
+    title "gilsmt/cache-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-10-27 29（+1）
+2026-10-18 28 → 2026-10-28 30（+2）
 
 
 ---

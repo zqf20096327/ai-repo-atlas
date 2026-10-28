@@ -1,6 +1,6 @@
 # baz-scm/awesome-reviewers
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/baz-scm/awesome-reviewers) · [官网](https://awesomereviewers.com/) · 组织维护
+⭐ 154 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/baz-scm/awesome-reviewers) · [官网](https://awesomereviewers.com/) · 组织维护
 
 **代码评审系统提示词清单：面向 AI 与基础设施领域**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baz-scm/awesome-reviewers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 150 --> 155
     line [151, 154, 154]
 ```
 
-2026-10-18 151 → 2026-10-27 154（+3）
+2026-10-18 151 → 2026-10-28 154（+3）
 
 
 ---

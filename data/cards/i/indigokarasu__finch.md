@@ -45,12 +45,12 @@ OCAS Agent Suite 的组成部分，运行于 Hermes Agent runtime 之上：扫�
 ```mermaid
 xychart-beta
     title "indigokarasu/finch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

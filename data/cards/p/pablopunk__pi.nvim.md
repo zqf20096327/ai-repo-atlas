@@ -1,6 +1,6 @@
 # pablopunk/pi.nvim
 
-⭐ 281 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
+⭐ 282 · Lua · MIT · 推送 2026-10-12 · [GitHub](https://github.com/pablopunk/pi.nvim) · 个人维护
 
 **Neovim 插件：在编辑器内调用 pi CLI 编程 agent**
 
@@ -45,12 +45,12 @@ pi.nvim 是连接 Neovim 与命令行 AI agent pi 的插件，通过 :PiAsk / :P
 ```mermaid
 xychart-beta
     title "pablopunk/pi.nvim 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 278 --> 282
-    line [279, 280, 281, 281]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 278 --> 283
+    line [279, 280, 281, 282]
 ```
 
-2026-10-18 279 → 2026-10-27 281（+2）
+2026-10-18 279 → 2026-10-28 282（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # NEPENTHESWEB/nepenthes-py
 
-⭐ 44 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/NEPENTHESWEB/nepenthes-py) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/NEPENTHESWEB/nepenthes-py) · 组织维护
 
 **网站主的反 AI 爬虫陷阱：用无限假页面困住 LLM 爬虫**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NEPENTHESWEB/nepenthes-py 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 38 --> 45
-    line [39, 40, 42, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 38 --> 48
+    line [39, 40, 42, 44, 47]
 ```
 
-2026-10-18 39 → 2026-10-27 44（+5）
+2026-10-18 39 → 2026-10-28 47（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # hanlulong/econ-auto-research
 
-⭐ 37 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/hanlulong/econ-auto-research) · [官网](https://openecon.ai) · 个人维护
+⭐ 38 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/hanlulong/econ-auto-research) · [官网](https://openecon.ai) · 个人维护
 
 **经济学自主研究系统的愿景仓库：从问题到工作论文的规划**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hanlulong/econ-auto-research 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-10-27 37（+2）
+2026-10-18 35 → 2026-10-28 38（+3）
 
 
 ---

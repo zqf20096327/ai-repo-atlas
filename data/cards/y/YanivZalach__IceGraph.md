@@ -1,6 +1,6 @@
 # YanivZalach/IceGraph
 
-⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/YanivZalach/IceGraph) · [官网](https://yanivzalach.github.io/IceGraph-Site/) · 个人维护
+⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/YanivZalach/IceGraph) · [官网](https://yanivzalach.github.io/IceGraph-Site/) · 个人维护
 
 **Apache Iceberg 元数据调试与图可视化平台，面向数据工程师**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YanivZalach/IceGraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 25（+1）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

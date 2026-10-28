@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CogitatorTech/feature-factory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "CogitatorTech/feature-factory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 23]
+    line [23, 22, 23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

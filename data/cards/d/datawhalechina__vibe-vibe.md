@@ -1,6 +1,6 @@
 # datawhalechina/vibe-vibe
 
-⭐ 6,188 · Dockerfile · 推送 2026-04-30 · [GitHub](https://github.com/datawhalechina/vibe-vibe) · [官网](https://www.vibevibe.cn) · 组织维护 · 中文 README
+⭐ 6,193 · Dockerfile · 推送 2026-04-30 · [GitHub](https://github.com/datawhalechina/vibe-vibe) · [官网](https://www.vibevibe.cn) · 组织维护 · 中文 README
 
 **零基础学习者的 Vibe Coding 系统化开源教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/vibe-vibe 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6151 --> 6191
-    line [6154, 6161, 6168, 6173, 6176, 6178, 6183, 6188]
+    title "datawhalechina/vibe-vibe 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6151 --> 6196
+    line [6154, 6161, 6168, 6173, 6176, 6178, 6183, 6188, 6193]
 ```
 
-2026-10-18 6,154 → 2026-10-27 6,188（+34）
+2026-10-18 6,154 → 2026-10-28 6,193（+39）
 
 
 ---

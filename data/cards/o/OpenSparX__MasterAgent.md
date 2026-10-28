@@ -1,6 +1,6 @@
 # OpenSparX/MasterAgent
 
-⭐ 537 · C++ · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OpenSparX/MasterAgent) · [官网](https://www.opensparx.ai) · 组织维护 · 中文 README
+⭐ 574 · C++ · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OpenSparX/MasterAgent) · [官网](https://www.opensparx.ai) · 组织维护 · 中文 README
 
 **面向边缘设备的本地优先 C++17 agent 运行时与 SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenSparX/MasterAgent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "OpenSparX/MasterAgent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 300 --> 1160
-    line [1089, 1080, 1062, 371, 390, 438, 491, 537]
+    line [1089, 1080, 1062, 371, 390, 438, 491, 537, 574]
 ```
 
-2026-10-18 1,089 → 2026-10-27 537（-552）
+2026-10-18 1,089 → 2026-10-28 574（-515）
 
 
 ---

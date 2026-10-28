@@ -1,6 +1,6 @@
 # prometeucorp/prometeu
 
-⭐ 63 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/prometeucorp/prometeu) · [官网](https://prometeu.co) · 组织维护
+⭐ 63 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/prometeucorp/prometeu) · [官网](https://prometeu.co) · 组织维护
 
 **并行运行多个编码 agent 的桌面应用，配 git worktree 隔离与 diff 审查**
 
@@ -45,12 +45,12 @@ MIT 许可的开源桌面应用，用于在同一界面并行运行 Claude Code�
 ```mermaid
 xychart-beta
     title "prometeucorp/prometeu 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-26", "2026-10-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-26 63 → 2026-10-27 63（+0）
+2026-10-26 63 → 2026-10-28 63（+0）
 
 
 ---

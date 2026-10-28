@@ -1,6 +1,6 @@
 # tychenjiajun/exif-ai
 
-⭐ 28 · TypeScript · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tychenjiajun/exif-ai) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · GPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tychenjiajun/exif-ai) · 个人维护 · 中文 README
 
 **为图片生成 AI 描述与标签并写入 EXIF 元数据的 CLI/库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tychenjiajun/exif-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 28（+0）
 
 
 ---

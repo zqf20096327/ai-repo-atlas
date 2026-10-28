@@ -1,6 +1,6 @@
 # covan-ai/covan
 
-⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/covan-ai/covan) · [官网](https://covan.app) · 组织维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/covan-ai/covan) · [官网](https://covan.app) · 组织维护
 
 **团队共享知识库的 AI agent：全队共同训练，人人私聊使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "covan-ai/covan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-10-27 26（+2）
+2026-10-18 24 → 2026-10-28 26（+2）
 
 
 ---

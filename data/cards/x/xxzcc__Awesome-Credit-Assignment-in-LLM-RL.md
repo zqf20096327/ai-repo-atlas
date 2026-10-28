@@ -1,6 +1,6 @@
 # xxzcc/Awesome-Credit-Assignment-in-LLM-RL
 
-⭐ 221 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) · [官网](https://arxiv.org/abs/2604.09459) · 个人维护
+⭐ 223 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL) · [官网](https://arxiv.org/abs/2604.09459) · 个人维护
 
 **LLM 强化学习信用分配论文策展清单（47 法+29 新条目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xxzcc/Awesome-Credit-Assignment-in-LLM-RL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 218 --> 222
-    line [219, 221, 221]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 218 --> 224
+    line [219, 221, 223]
 ```
 
-2026-10-18 219 → 2026-10-27 221（+2）
+2026-10-18 219 → 2026-10-28 223（+4）
 
 
 ---

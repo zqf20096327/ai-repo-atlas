@@ -1,6 +1,6 @@
 # wstierhout/ableton-live-mcp
 
-⭐ 61 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wstierhout/ableton-live-mcp) · [官网](https://abletonmcp.com) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wstierhout/ableton-live-mcp) · [官网](https://abletonmcp.com) · 个人维护
 
 **让 AI 助手通过 MCP 控制 Ableton Live 的本地服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wstierhout/ableton-live-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 47 --> 62
-    line [48, 54, 55, 57, 58, 61]
+    title "wstierhout/ableton-live-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 47 --> 63
+    line [48, 54, 55, 57, 58, 61, 62]
 ```
 
-2026-10-18 48 → 2026-10-27 61（+13）
+2026-10-18 48 → 2026-10-28 62（+14）
 
 
 ---

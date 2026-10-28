@@ -1,6 +1,6 @@
 # rusiaaman/wcgw
 
-⭐ 678 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/rusiaaman/wcgw) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Claude 等 MCP 客户端的本地 shell 与代码编辑工具服务器**
 
@@ -11,7 +11,7 @@ wcgw 是一个 MCP server，为聊天应用提供 shell 执行与代码编辑工
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

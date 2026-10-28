@@ -1,6 +1,6 @@
 # mingzhizhiren/teeho
 
-⭐ 56 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mingzhizhiren/teeho) · [官网](https://teeho.chat) · 个人维护 · 中文 README
+⭐ 57 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mingzhizhiren/teeho) · [官网](https://teeho.chat) · 个人维护 · 中文 README
 
 **面向小红书创作者的笔记诊断 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mingzhizhiren/teeho 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 44 --> 57
-    line [45, 47, 49, 50, 51, 52, 56]
+    title "mingzhizhiren/teeho 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 44 --> 58
+    line [45, 47, 49, 50, 51, 52, 56, 57]
 ```
 
-2026-10-18 45 → 2026-10-27 56（+11）
+2026-10-18 45 → 2026-10-28 57（+12）
 
 
 ---

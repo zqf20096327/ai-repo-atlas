@@ -1,6 +1,6 @@
 # webmachinelearning/awesome-webnn
 
-⭐ 102 · CC0-1.0 · 推送 2026-09-24 · [GitHub](https://github.com/webmachinelearning/awesome-webnn) · 组织维护 · 中文 README
+⭐ 103 · CC0-1.0 · 推送 2026-09-24 · [GitHub](https://github.com/webmachinelearning/awesome-webnn) · 组织维护 · 中文 README
 
 **WebNN 生态资源策展清单：文章/教程/演示/工具聚合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "webmachinelearning/awesome-webnn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 100 --> 103
-    line [101, 102, 102]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 100 --> 104
+    line [101, 102, 103]
 ```
 
-2026-10-18 101 → 2026-10-27 102（+1）
+2026-10-18 101 → 2026-10-28 103（+2）
 
 
 ---

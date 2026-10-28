@@ -1,6 +1,6 @@
 # nottelabs/notte
 
-⭐ 2,045 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/nottelabs/notte) · [官网](https://console.notte.cc) · 组织维护
+⭐ 2,046 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/nottelabs/notte) · [官网](https://console.notte.cc) · 组织维护
 
 **给 AI agent 与脚本用的浏览器自动化基础设施与云浏览器平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nottelabs/notte 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2038 --> 2046
-    line [2039, 2040, 2041, 2042, 2043, 2045, 2045]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 2038 --> 2047
+    line [2039, 2040, 2041, 2042, 2043, 2045, 2046]
 ```
 
-2026-10-18 2,039 → 2026-10-27 2,045（+6）
+2026-10-18 2,039 → 2026-10-28 2,046（+7）
 
 
 ---

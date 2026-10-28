@@ -1,6 +1,6 @@
 # mllam/neural-lam
 
-⭐ 303 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/mllam/neural-lam) · [官网](https://kutt.to/mllam) · 组织维护
+⭐ 303 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mllam/neural-lam) · [官网](https://kutt.to/mllam) · 组织维护
 
 **有限区域气象预报的图神经网络建模研究代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mllam/neural-lam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
     y-axis "stars" 300 --> 304
     line [301, 302, 303, 303]
 ```
 
-2026-10-18 301 → 2026-10-27 303（+2）
+2026-10-18 301 → 2026-10-28 303（+2）
 
 
 ---

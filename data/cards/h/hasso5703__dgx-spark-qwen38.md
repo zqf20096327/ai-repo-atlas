@@ -1,6 +1,6 @@
 # hasso5703/dgx-spark-qwen38
 
-⭐ 240 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hasso5703/dgx-spark-qwen38) · [官网](https://hasso5703.github.io/) · 个人维护
+⭐ 241 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hasso5703/dgx-spark-qwen38) · [官网](https://hasso5703.github.io/) · 个人维护
 
 **一条命令把 DGX Spark/GB10 变成私有 AI 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hasso5703/dgx-spark-qwen38 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 227 --> 241
-    line [228, 231, 233, 237, 240, 240]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 227 --> 242
+    line [228, 231, 233, 237, 240, 241]
 ```
 
-2026-10-18 228 → 2026-10-27 240（+12）
+2026-10-18 228 → 2026-10-28 241（+13）
 
 
 ---

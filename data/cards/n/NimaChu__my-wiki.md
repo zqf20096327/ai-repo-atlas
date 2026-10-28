@@ -1,6 +1,6 @@
 # NimaChu/my-wiki
 
-⭐ 124 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/NimaChu/my-wiki) · [官网](https://www.npmjs.com/package/my-wiki-skill) · 个人维护 · 中文 README
+⭐ 125 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/NimaChu/my-wiki) · [官网](https://www.npmjs.com/package/my-wiki-skill) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识管理应用：Agent 整理资料为可追溯知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NimaChu/my-wiki 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
     y-axis "stars" 122 --> 126
-    line [123, 125, 124, 124]
+    line [123, 125, 124, 125]
 ```
 
-2026-10-18 123 → 2026-10-27 124（+1）
+2026-10-18 123 → 2026-10-28 125（+2）
 
 
 ---

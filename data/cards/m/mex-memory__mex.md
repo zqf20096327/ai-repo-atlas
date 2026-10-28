@@ -1,6 +1,6 @@
 # mex-memory/mex
 
-⭐ 1,779 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mex-memory/mex) · [官网](https://mexmemory.com) · 组织维护 · 中文 README
+⭐ 1,779 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mex-memory/mex) · [官网](https://mexmemory.com) · 组织维护 · 中文 README
 
 **存于代码仓库、经 Git 共享的工程团队与编码 agent 共享记忆工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mex-memory/mex 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "mex-memory/mex 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1769 --> 1780
-    line [1770, 1773, 1777, 1778, 1779]
+    line [1770, 1773, 1777, 1778, 1779, 1779]
 ```
 
-2026-10-18 1,770 → 2026-10-27 1,779（+9）
+2026-10-18 1,770 → 2026-10-28 1,779（+9）
 
 
 ---

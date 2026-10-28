@@ -45,12 +45,12 @@ HybridDepth 的官方实现：输入相机拍摄的焦面堆栈（focal stack）
 ```mermaid
 xychart-beta
     title "cake-lab/HybridDepth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 174 --> 176
     line [175, 175]
 ```
 
-2026-10-18 175 → 2026-10-27 175（+0）
+2026-10-18 175 → 2026-10-28 175（+0）
 
 
 ---

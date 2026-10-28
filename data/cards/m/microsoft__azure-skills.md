@@ -1,6 +1,6 @@
 # microsoft/azure-skills
 
-⭐ 1,598 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护 · 中文 README
+⭐ 1,599 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护 · 中文 README
 
 **微软官方 Azure 技能插件：给编码 agent 提供 Azure 知识与 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1571 --> 1600
-    line [1573, 1581, 1585, 1586, 1590, 1594, 1598]
+    title "microsoft/azure-skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1571 --> 1601
+    line [1573, 1581, 1585, 1586, 1590, 1594, 1598, 1599]
 ```
 
-2026-10-18 1,573 → 2026-10-27 1,598（+25）
+2026-10-18 1,573 → 2026-10-28 1,599（+26）
 
 
 ---

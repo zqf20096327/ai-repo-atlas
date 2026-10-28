@@ -1,6 +1,6 @@
 # google/generative-ai-docs
 
-⭐ 2,262 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/google/generative-ai-docs) · [官网](https://ai.google.dev) · 组织维护
+⭐ 2,264 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/google/generative-ai-docs) · [官网](https://ai.google.dev) · 组织维护
 
 **Gemini API 官方文档与示例源码仓库（已弃用）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/generative-ai-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 2261 --> 2264
-    line [2262, 2263, 2262]
+    title "google/generative-ai-docs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2261 --> 2265
+    line [2262, 2263, 2262, 2264]
 ```
 
-2026-10-18 2,262 → 2026-10-27 2,262（+0）
+2026-10-18 2,262 → 2026-10-28 2,264（+2）
 
 
 ---

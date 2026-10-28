@@ -1,6 +1,6 @@
 # liyupi/ai-promo-video-maker
 
-⭐ 385 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/liyupi/ai-promo-video-maker) · 个人维护 · 中文 README
+⭐ 396 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/liyupi/ai-promo-video-maker) · 个人维护 · 中文 README
 
 **让 AI 编程工具自动制作 4K 产品宣传片的规范与工程模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/ai-promo-video-maker 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 303 --> 392
-    line [310, 331, 354, 362, 370, 374, 379, 385]
+    title "liyupi/ai-promo-video-maker 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 302 --> 404
+    line [310, 331, 354, 362, 370, 374, 379, 385, 396]
 ```
 
-2026-10-18 310 → 2026-10-27 385（+75）
+2026-10-18 310 → 2026-10-28 396（+86）
 
 
 ---

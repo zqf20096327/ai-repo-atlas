@@ -45,12 +45,12 @@ Python 编写的模块化 RLHF 训练框架，实现 SFT→奖励模型→PPO/DP
 ```mermaid
 xychart-beta
     title "Mattral/Improving-LLM-Models-with-RLHF-PPO-DPO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 28（+1）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

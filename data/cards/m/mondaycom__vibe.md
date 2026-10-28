@@ -1,6 +1,6 @@
 # mondaycom/vibe
 
-⭐ 689 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/mondaycom/vibe) · [官网](https://vibe.monday.com/) · 组织维护
+⭐ 690 · TypeScript · 推送 2026-10-25 · [GitHub](https://github.com/mondaycom/vibe) · [官网](https://vibe.monday.com/) · 组织维护
 
 **monday.com 官方 React UI 设计系统与组件库**
 
@@ -45,12 +45,12 @@ monday.com 官方维护的 React.js UI 资源集合：提供核心组件库（@v
 ```mermaid
 xychart-beta
     title "mondaycom/vibe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 685 --> 690
-    line [686, 687, 689, 689]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 685 --> 691
+    line [686, 687, 689, 690]
 ```
 
-2026-10-18 686 → 2026-10-27 689（+3）
+2026-10-18 686 → 2026-10-28 690（+4）
 
 
 ---

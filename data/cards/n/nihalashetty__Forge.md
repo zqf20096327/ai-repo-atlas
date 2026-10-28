@@ -1,6 +1,6 @@
 # nihalashetty/Forge
 
-⭐ 173 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nihalashetty/Forge) · 个人维护
+⭐ 175 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/nihalashetty/Forge) · 个人维护
 
 **自托管的可视化 AI agent 与工作流构建平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nihalashetty/Forge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 170 --> 174
-    line [171, 172, 173, 172, 173, 173]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 170 --> 176
+    line [171, 172, 173, 172, 173, 175]
 ```
 
-2026-10-18 171 → 2026-10-27 173（+2）
+2026-10-18 171 → 2026-10-28 175（+4）
 
 
 ---

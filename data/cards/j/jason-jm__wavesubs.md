@@ -1,6 +1,6 @@
 # jason-jm/wavesubs
 
-⭐ 30 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/jason-jm/wavesubs) · [官网](https://wavesubs.com) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/jason-jm/wavesubs) · [官网](https://wavesubs.com) · 个人维护 · 中文 README
 
 **本地 AI 视频字幕生成与翻译工具（macOS/Windows 桌面应用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jason-jm/wavesubs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 24 --> 31
-    line [25, 26, 27, 28, 30]
+    title "jason-jm/wavesubs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 24 --> 32
+    line [25, 26, 27, 28, 30, 31]
 ```
 
-2026-10-18 25 → 2026-10-27 30（+5）
+2026-10-18 25 → 2026-10-28 31（+6）
 
 
 ---

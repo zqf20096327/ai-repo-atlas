@@ -45,12 +45,12 @@ AUTOMATIC1111/stable-diffusion-webui 的扩展标签页，也兼容 reForge 与 
 ```mermaid
 xychart-beta
     title "light-and-ray/sd-webui-replacer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 241 --> 243
     line [242, 242]
 ```
 
-2026-10-18 242 → 2026-10-27 242（+0）
+2026-10-18 242 → 2026-10-28 242（+0）
 
 
 ---

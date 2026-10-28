@@ -1,6 +1,6 @@
 # sonos/torch-to-nnef
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/sonos/torch-to-nnef) · [官网](https://sonos.github.io/torch-to-nnef) · 组织维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/sonos/torch-to-nnef) · [官网](https://sonos.github.io/torch-to-nnef) · 组织维护
 
 **把 PyTorch 模型导出为 NNEF 交换格式的工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sonos/torch-to-nnef 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

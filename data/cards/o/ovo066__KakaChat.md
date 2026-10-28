@@ -1,6 +1,6 @@
 # ovo066/KakaChat
 
-⭐ 45 · JavaScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/ovo066/KakaChat) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/ovo066/KakaChat) · 个人维护 · 中文 README
 
 **仿 iMessage 风格的 AI 角色扮演聊天 PWA，浏览器本地运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ovo066/KakaChat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 40 --> 46
-    line [41, 43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 40 --> 47
+    line [41, 43, 44, 45, 46]
 ```
 
-2026-10-18 41 → 2026-10-27 45（+4）
+2026-10-18 41 → 2026-10-28 46（+5）
 
 
 ---

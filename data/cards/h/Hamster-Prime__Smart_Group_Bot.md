@@ -1,6 +1,6 @@
 # Hamster-Prime/Smart_Group_Bot
 
-⭐ 104 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Hamster-Prime/Smart_Group_Bot) · 个人维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Hamster-Prime/Smart_Group_Bot) · 个人维护 · 中文 README
 
 **LLM 驱动的 Telegram 群聊管理与陪伴机器人**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hamster-Prime/Smart_Group_Bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 99 --> 105
-    line [100, 102, 103, 102, 104]
+    title "Hamster-Prime/Smart_Group_Bot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 99 --> 107
+    line [100, 102, 103, 102, 104, 106]
 ```
 
-2026-10-18 100 → 2026-10-27 104（+4）
+2026-10-18 100 → 2026-10-28 106（+6）
 
 
 ---

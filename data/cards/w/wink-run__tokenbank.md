@@ -1,6 +1,6 @@
 # wink-run/tokenbank
 
-⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/wink-run/tokenbank) · [官网](https://tokenbank.wink.run) · 组织维护 · 中文 README
+⭐ 109 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/wink-run/tokenbank) · [官网](https://tokenbank.wink.run) · 组织维护 · 中文 README
 
 **本地 LLM 网关：统一接入各 AI agent 的 token 用量与智能路由**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wink-run/tokenbank 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 104 --> 110
     line [105, 106, 109, 109]
 ```
 
-2026-10-18 105 → 2026-10-27 109（+4）
+2026-10-18 105 → 2026-10-28 109（+4）
 
 
 ---

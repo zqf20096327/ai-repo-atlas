@@ -1,6 +1,6 @@
 # mit-ll-responsible-ai/hydra-zen
 
-⭐ 477 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mit-ll-responsible-ai/hydra-zen) · [官网](https://mit-ll-responsible-ai.github.io/hydra-zen/) · 组织维护
+⭐ 478 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mit-ll-responsible-ai/hydra-zen) · [官网](https://mit-ll-responsible-ai.github.io/hydra-zen/) · 组织维护
 
 **面向可复现工作流的 Hydra 配置库，免写 YAML 与样板代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mit-ll-responsible-ai/hydra-zen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 475 --> 478
-    line [476, 477, 477]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 475 --> 479
+    line [476, 477, 478]
 ```
 
-2026-10-18 476 → 2026-10-27 477（+1）
+2026-10-18 476 → 2026-10-28 478（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hasasasa/html-to-editable-pptx
 
-⭐ 93 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Hasasasa/html-to-editable-pptx) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Hasasasa/html-to-editable-pptx) · 个人维护 · 中文 README
 
 **把 HTML 幻灯片转换为可编辑 .pptx 的工具/Agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hasasasa/html-to-editable-pptx 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 87 --> 95
-    line [88, 89, 92, 93, 94, 93, 93]
+    line [88, 89, 92, 93, 94, 93, 94]
 ```
 
-2026-10-18 88 → 2026-10-27 93（+5）
+2026-10-18 88 → 2026-10-28 94（+6）
 
 
 ---

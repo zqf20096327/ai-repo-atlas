@@ -1,6 +1,6 @@
 # Heroesjouney/AIMovieStudiov2
 
-⭐ 182 · TypeScript · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/Heroesjouney/AIMovieStudiov2) · 个人维护
+⭐ 184 · TypeScript · AGPL-3.0 · 推送 2026-09-29 · [GitHub](https://github.com/Heroesjouney/AIMovieStudiov2) · 个人维护
 
 **面向电影制作者的模型无关 AI 电影制作工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Heroesjouney/AIMovieStudiov2 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 175 --> 183
-    line [176, 179, 180, 182, 182]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 175 --> 185
+    line [176, 179, 180, 182, 184]
 ```
 
-2026-10-18 176 → 2026-10-27 182（+6）
+2026-10-18 176 → 2026-10-28 184（+8）
 
 
 ---

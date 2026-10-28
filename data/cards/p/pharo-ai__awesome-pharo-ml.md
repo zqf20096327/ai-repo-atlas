@@ -1,6 +1,6 @@
 # pharo-ai/awesome-pharo-ml
 
-⭐ 71 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/pharo-ai/awesome-pharo-ml) · 组织维护
+⭐ 72 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/pharo-ai/awesome-pharo-ml) · 组织维护
 
 **Pharo 生态机器学习项目与资料聚合清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pharo-ai/awesome-pharo-ml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 70 --> 73
+    line [71, 72]
 ```
 
-2026-10-18 71 → 2026-10-27 71（+0）
+2026-10-18 71 → 2026-10-28 72（+1）
 
 
 ---

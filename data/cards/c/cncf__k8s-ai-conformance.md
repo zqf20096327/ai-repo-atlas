@@ -1,6 +1,6 @@
 # cncf/k8s-ai-conformance
 
-⭐ 310 · Go · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/cncf/k8s-ai-conformance) · 组织维护
+⭐ 311 · Go · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/cncf/k8s-ai-conformance) · 组织维护
 
 **CNCF 的 Kubernetes AI 负载一致性认证项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cncf/k8s-ai-conformance 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 309 --> 311
-    line [310, 310]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 309 --> 312
+    line [310, 311]
 ```
 
-2026-10-18 310 → 2026-10-27 310（+0）
+2026-10-18 310 → 2026-10-28 311（+1）
 
 
 ---

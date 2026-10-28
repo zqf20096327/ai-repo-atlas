@@ -1,6 +1,6 @@
 # AnnenkovLabs/girl-agent
 
-⭐ 351 · TypeScript · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/AnnenkovLabs/girl-agent) · [官网](https://oss.girl-agent.com/) · 个人维护 · 中文 README
+⭐ 350 · TypeScript · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/AnnenkovLabs/girl-agent) · [官网](https://oss.girl-agent.com/) · 个人维护 · 中文 README
 
 **Telegram AI 女友人格引擎：睡眠、日程、记忆与关系状态**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AnnenkovLabs/girl-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 349 --> 352
-    line [350, 351, 351]
+    line [350, 351, 350]
 ```
 
-2026-10-18 350 → 2026-10-27 351（+1）
+2026-10-18 350 → 2026-10-28 350（+0）
 
 
 ---

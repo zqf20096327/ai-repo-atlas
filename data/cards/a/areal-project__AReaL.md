@@ -1,6 +1,6 @@
 # areal-project/AReaL
 
-⭐ 5,872 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/areal-project/AReaL) · [官网](https://areal-ai.io) · 组织维护 · 中文 README
+⭐ 5,879 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/areal-project/AReaL) · [官网](https://areal-ai.io) · 组织维护 · 中文 README
 
 **面向 LLM 与 agent 的大规模异步强化学习训练系统**
 
@@ -46,13 +46,13 @@ AReaL 是连接基础模型训练与 agent 应用的强化学习基础设施，�
 
 ```mermaid
 xychart-beta
-    title "areal-project/AReaL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5836 --> 5875
-    line [5839, 5843, 5864, 5866, 5867, 5870, 5872]
+    title "areal-project/AReaL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5835 --> 5883
+    line [5839, 5843, 5864, 5866, 5867, 5870, 5872, 5879]
 ```
 
-2026-10-18 5,839 → 2026-10-27 5,872（+33）
+2026-10-18 5,839 → 2026-10-28 5,879（+40）
 
 
 ---

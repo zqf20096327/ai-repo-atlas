@@ -1,6 +1,6 @@
 # dimtoneff/ComfyUI-PixelArt-Detector
 
-⭐ 452 · Python · MIT · 推送 2025-10-31 · [GitHub](https://github.com/dimtoneff/ComfyUI-PixelArt-Detector) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **ComfyUI 像素画处理自定义节点集：生成/降采样/调色板替换像素图**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

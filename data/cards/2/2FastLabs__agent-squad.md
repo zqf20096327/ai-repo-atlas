@@ -1,6 +1,6 @@
 # 2FastLabs/agent-squad
 
-⭐ 7,792 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/2FastLabs/agent-squad) · [官网](https://2fastlabs.github.io/agent-squad/) · 组织维护
+⭐ 7,795 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/2FastLabs/agent-squad) · [官网](https://2fastlabs.github.io/agent-squad/) · 组织维护
 
 **多 AI agent 编排框架：路由查询至专属 agent 并维护上下文**
 
@@ -45,13 +45,13 @@ Agent Squad 是一个多 agent 编排开源框架，提供 Python、TypeScript �
 
 ```mermaid
 xychart-beta
-    title "2FastLabs/agent-squad 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 7789 --> 7795
-    line [7790, 7792, 7794, 7793, 7794, 7792]
+    title "2FastLabs/agent-squad 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 7789 --> 7796
+    line [7790, 7792, 7794, 7793, 7794, 7792, 7795]
 ```
 
-2026-10-18 7,790 → 2026-10-27 7,792（+2）
+2026-10-18 7,790 → 2026-10-28 7,795（+5）
 
 
 ---

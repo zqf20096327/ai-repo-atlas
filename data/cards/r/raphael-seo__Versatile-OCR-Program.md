@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raphael-seo/Versatile-OCR-Program 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "raphael-seo/Versatile-OCR-Program 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 673 --> 676
-    line [675, 674]
+    line [675, 674, 674]
 ```
 
-2026-10-18 675 → 2026-10-27 674（-1）
+2026-10-18 675 → 2026-10-28 674（-1）
 
 
 ---

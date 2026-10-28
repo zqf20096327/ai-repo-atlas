@@ -1,6 +1,6 @@
 # banmu123/LoomFlow
 
-⭐ 134 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/banmu123/LoomFlow) · [官网](https://loom-flow-ashen.vercel.app) · 个人维护 · 中文 README
+⭐ 136 · TypeScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/banmu123/LoomFlow) · [官网](https://loom-flow-ashen.vercel.app) · 个人维护 · 中文 README
 
 **面向个人与小团队的 AI 原生工作流构建器：自然语言生成可发布为 API 的工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "banmu123/LoomFlow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 133 --> 142
-    line [141, 135, 134, 134]
+    line [141, 135, 134, 136]
 ```
 
-2026-10-18 141 → 2026-10-27 134（-7）
+2026-10-18 141 → 2026-10-28 136（-5）
 
 
 ---

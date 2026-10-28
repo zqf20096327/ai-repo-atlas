@@ -1,6 +1,6 @@
 # serhatandic/kuvo-code
 
-⭐ 74 · Swift · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/serhatandic/kuvo-code) · [官网](https://kuvo.run/code) · 个人维护
+⭐ 74 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/serhatandic/kuvo-code) · [官网](https://kuvo.run/code) · 个人维护
 
 **macOS 原生编码 agent 界面，基于 opencode 引擎，任意模型可用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "serhatandic/kuvo-code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "serhatandic/kuvo-code 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 0 --> 80
-    line [6, 60, 66, 72, 73, 74]
+    line [6, 60, 66, 72, 73, 74, 74]
 ```
 
-2026-10-18 6 → 2026-10-27 74（+68）
+2026-10-18 6 → 2026-10-28 74（+68）
 
 
 ---

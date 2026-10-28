@@ -1,6 +1,6 @@
 # smixs/creative-director-skill
 
-⭐ 278 · Python · CC-BY-4.0 · 推送 2026-08-08 · [GitHub](https://github.com/smixs/creative-director-skill) · 个人维护
+⭐ 280 · Python · CC-BY-4.0 · 推送 2026-08-08 · [GitHub](https://github.com/smixs/creative-director-skill) · 个人维护
 
 **广告创意方法论技能包：驱动 AI agent 产出并迭代广告创意**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smixs/creative-director-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 261 --> 279
-    line [262, 264, 269, 272, 274, 276, 278]
+    title "smixs/creative-director-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 261 --> 281
+    line [262, 264, 269, 272, 274, 276, 278, 280]
 ```
 
-2026-10-18 262 → 2026-10-27 278（+16）
+2026-10-18 262 → 2026-10-28 280（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mattral/KANX
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Mattral/KANX) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Mattral/KANX) · 个人维护
 
 **面向生产部署的 Kolmogorov-Arnold 网络库（TF+PyTorch+ONNX）**
 
@@ -46,12 +46,12 @@ kanx 是一个 Python 的 Kolmogorov-Arnold Network（KAN）实现库，同时�
 ```mermaid
 xychart-beta
     title "Mattral/KANX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-27 38（+1）
+2026-10-18 37 → 2026-10-28 38（+1）
 
 
 ---

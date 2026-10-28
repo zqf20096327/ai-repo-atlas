@@ -1,6 +1,6 @@
 # DenRakEiw/scumble
 
-⭐ 153 · JavaScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DenRakEiw/scumble) · [官网](https://www.denrakeiw.com/scumble) · 个人维护
+⭐ 154 · JavaScript · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/DenRakEiw/scumble) · [官网](https://www.denrakeiw.com/scumble) · 个人维护
 
 **AI 图像编辑器：选定区域、输入提示词，生成色彩匹配的新图层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DenRakEiw/scumble 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 131 --> 155
-    line [133, 140, 144, 149, 150, 151, 153]
+    title "DenRakEiw/scumble 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 131 --> 156
+    line [133, 140, 144, 149, 150, 151, 153, 154]
 ```
 
-2026-10-18 133 → 2026-10-27 153（+20）
+2026-10-18 133 → 2026-10-28 154（+21）
 
 
 ---

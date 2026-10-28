@@ -1,6 +1,6 @@
 # remotebiosensing/rppg
 
-⭐ 342 · Python · Apache-2.0 · 推送 2025-12-09 · [GitHub](https://github.com/remotebiosensing/rppg) · 组织维护
+⭐ 343 · Python · Apache-2.0 · 推送 2025-12-09 · [GitHub](https://github.com/remotebiosensing/rppg) · 组织维护
 
 **面向科研的 rPPG/无创血压模型评测基准框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "remotebiosensing/rppg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 341 --> 343
-    line [342, 342]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 341 --> 344
+    line [342, 343]
 ```
 
-2026-10-18 342 → 2026-10-27 342（+0）
+2026-10-18 342 → 2026-10-28 343（+1）
 
 
 ---

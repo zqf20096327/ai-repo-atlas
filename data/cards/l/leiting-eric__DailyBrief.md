@@ -1,6 +1,6 @@
 # leiting-eric/DailyBrief
 
-⭐ 381 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/leiting-eric/DailyBrief) · [官网](https://leiting-eric.github.io/DailyBrief/) · 个人维护 · 中文 README
+⭐ 383 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/leiting-eric/DailyBrief) · [官网](https://leiting-eric.github.io/DailyBrief/) · 个人维护 · 中文 README
 
 **自托管 AI 每日新闻简报生成器：多源聚合 + LLM 中文摘要 + 行情分析**
 
@@ -45,13 +45,13 @@ TypeScript/Node 20+ 项目，聚合 53 个注册数据源（默认启用 26 个�
 
 ```mermaid
 xychart-beta
-    title "leiting-eric/DailyBrief 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 371 --> 382
-    line [372, 375, 376, 377, 378, 381]
+    title "leiting-eric/DailyBrief 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 371 --> 384
+    line [372, 375, 376, 377, 378, 381, 383]
 ```
 
-2026-10-18 372 → 2026-10-27 381（+9）
+2026-10-18 372 → 2026-10-28 383（+11）
 
 
 ---

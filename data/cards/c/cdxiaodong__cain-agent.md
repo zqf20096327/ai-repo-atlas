@@ -1,6 +1,6 @@
 # cdxiaodong/cain-agent
 
-⭐ 945 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cdxiaodong/cain-agent) · 个人维护 · 中文 README
+⭐ 944 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cdxiaodong/cain-agent) · 个人维护 · 中文 README
 
 **面向授权评估的 AI 渗透测试工程，含多云模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cdxiaodong/cain-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 944 --> 956
-    line [953, 954, 955, 945, 945]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 943 --> 956
+    line [953, 954, 955, 945, 944]
 ```
 
-2026-10-18 953 → 2026-10-27 945（-8）
+2026-10-18 953 → 2026-10-28 944（-9）
 
 
 ---

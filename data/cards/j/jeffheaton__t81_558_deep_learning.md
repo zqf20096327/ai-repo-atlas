@@ -1,6 +1,6 @@
 # jeffheaton/t81_558_deep_learning
 
-⭐ 5,731 · Jupyter Notebook · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/jeffheaton/t81_558_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
+⭐ 5,730 · Jupyter Notebook · NOASSERTION · 推送 2026-04-25 · [GitHub](https://github.com/jeffheaton/t81_558_deep_learning) · [官网](https://sites.wustl.edu/jeffheaton/t81-558/) · 组织维护
 
 **圣路易斯华盛顿大学深度学习课程教材仓库（Keras/TF 版）**
 
@@ -46,12 +46,12 @@ T81-558《深度神经网络应用》课程的完整教学内容仓库，由 Jef
 ```mermaid
 xychart-beta
     title "jeffheaton/t81_558_deep_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 5730 --> 5732
-    line [5731, 5731]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 5729 --> 5732
+    line [5731, 5730]
 ```
 
-2026-10-18 5,731 → 2026-10-27 5,731（+0）
+2026-10-18 5,731 → 2026-10-28 5,730（-1）
 
 
 ---

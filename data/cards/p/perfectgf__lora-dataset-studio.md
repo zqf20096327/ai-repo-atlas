@@ -1,6 +1,6 @@
 # perfectgf/lora-dataset-studio
 
-⭐ 317 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/perfectgf/lora-dataset-studio) · 组织维护
+⭐ 318 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/perfectgf/lora-dataset-studio) · 组织维护
 
 **自托管浏览器工作台：构建/整理图像数据集并训练 LoRA**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "perfectgf/lora-dataset-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 309 --> 318
-    line [310, 312, 313, 315, 317, 317]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 309 --> 319
+    line [310, 312, 313, 315, 317, 318]
 ```
 
-2026-10-18 310 → 2026-10-27 317（+7）
+2026-10-18 310 → 2026-10-28 318（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # jianqingzheng/XBCR-net
 
-⭐ 32 · Python · Apache-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/jianqingzheng/XBCR-net) · [官网](https://www.nature.com/articles/s41422-022-00727-6) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **预测抗体-抗原结合的深度学习工具（XBCR-net）**
 
@@ -11,7 +11,7 @@ Cell Research 论文的官方代码实现：基于 TensorFlow/Keras 的 XBCR-net
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

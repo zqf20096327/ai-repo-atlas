@@ -1,6 +1,6 @@
 # kevin333353/jobsmith
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/kevin333353/jobsmith) · [官网](https://github.com/kevin333353/jobsmith/releases/latest) · 个人维护 · 中文 README
+⭐ 155 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/kevin333353/jobsmith) · [官网](https://github.com/kevin333353/jobsmith/releases/latest) · 个人维护 · 中文 README
 
 **台湾求职者的多代理 AI 求职副驾驶：找职缺、健检履历、生成投递包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kevin333353/jobsmith 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    line [155, 156, 155]
 ```
 
-2026-10-18 155 → 2026-10-27 156（+1）
+2026-10-18 155 → 2026-10-28 155（+0）
 
 
 ---

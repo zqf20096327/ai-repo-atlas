@@ -1,6 +1,6 @@
 # edhoferdian/EEF
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/edhoferdian/EEF) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/edhoferdian/EEF) · 个人维护
 
 **面向 Claude Code 等 10+ 编码 agent 的 38 个原生技能集与适配器生态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edhoferdian/EEF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

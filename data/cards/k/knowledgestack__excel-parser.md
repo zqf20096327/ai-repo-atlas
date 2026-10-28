@@ -1,6 +1,6 @@
 # knowledgestack/excel-parser
 
-⭐ 75 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/knowledgestack/excel-parser) · [官网](https://knowledgestack.github.io/excel-parser/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-09-02 · [GitHub](https://github.com/knowledgestack/excel-parser) · [官网](https://knowledgestack.github.io/excel-parser/) · 组织维护
 
 **将 Excel(.xlsx) 解析为可引用、带公式与依赖图 JSON 的 Python 库，供 LLM/RAG 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "knowledgestack/excel-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-18 75 → 2026-10-27 75（+0）
+2026-10-18 75 → 2026-10-28 76（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # skoowoo/hylo
 
-⭐ 101 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/skoowoo/hylo) · [官网](https://skoo.build/apps/hylo) · 个人维护 · 中文 README
+⭐ 101 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/skoowoo/hylo) · [官网](https://skoo.build/apps/hylo) · 个人维护 · 中文 README
 
 **个人笔记驱动的自托管 AI agent，兼容 Obsidian**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skoowoo/hylo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "skoowoo/hylo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 97 --> 102
-    line [98, 99, 100, 101]
+    line [98, 99, 100, 101, 101]
 ```
 
-2026-10-18 98 → 2026-10-27 101（+3）
+2026-10-18 98 → 2026-10-28 101（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ROCm/hip-python
 
-⭐ 42 · Cython · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ROCm/hip-python) · [官网](https://rocm.github.io/hip-python/) · 组织维护
+⭐ 42 · Cython · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ROCm/hip-python) · [官网](https://rocm.github.io/hip-python/) · 组织维护
 
 **HIP/ROCm 的 Python 与 Cython 底层绑定及 CUDA 互操作层**
 
@@ -45,12 +45,12 @@ AMD ROCm 官方仓库，提供 HIP 及 ROCm 库（hipblas/hipfft/rccl/amdsmi 等
 ```mermaid
 xychart-beta
     title "ROCm/hip-python 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-10-27 42（+1）
+2026-10-18 41 → 2026-10-28 42（+1）
 
 
 ---

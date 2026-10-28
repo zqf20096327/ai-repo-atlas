@@ -1,6 +1,6 @@
 # sune-org/sune
 
-⭐ 48 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/sune-org/sune) · [官网](https://sune.chat) · 组织维护
+⭐ 49 · JavaScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/sune-org/sune) · [官网](https://sune.chat) · 组织维护
 
 **OpenRouter 聊天前端，附 Android 应用与 GitHub 同步**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sune-org/sune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-18 48 → 2026-10-27 48（+0）
+2026-10-18 48 → 2026-10-28 49（+1）
 
 
 ---

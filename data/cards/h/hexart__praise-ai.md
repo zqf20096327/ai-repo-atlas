@@ -1,6 +1,6 @@
 # hexart/praise-ai
 
-⭐ 30 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/hexart/praise-ai) · [官网](https://hexart.github.io/praise-ai/) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · 推送 2026-04-15 · [GitHub](https://github.com/hexart/praise-ai) · [官网](https://hexart.github.io/praise-ai/) · 个人维护 · 中文 README
 
 **情感陪伴 AI 聊天应用：多模式对话与情感分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hexart/praise-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

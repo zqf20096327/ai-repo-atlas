@@ -1,6 +1,6 @@
 # Hainrixz/editor-pro-max
 
-⭐ 279 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/editor-pro-max) · [官网](https://www.tododeia.com) · 个人维护
+⭐ 281 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/editor-pro-max) · [官网](https://www.tododeia.com) · 个人维护
 
 **用自然语言让 Claude Code 生成视频的本地视频编辑器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hainrixz/editor-pro-max 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 272 --> 280
-    line [273, 274, 275, 277, 279, 279]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 272 --> 282
+    line [273, 274, 275, 277, 279, 281]
 ```
 
-2026-10-18 273 → 2026-10-27 279（+6）
+2026-10-18 273 → 2026-10-28 281（+8）
 
 
 ---

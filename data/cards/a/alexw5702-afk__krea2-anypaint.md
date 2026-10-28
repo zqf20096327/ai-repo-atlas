@@ -1,6 +1,6 @@
 # alexw5702-afk/krea2-anypaint
 
-⭐ 47 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/alexw5702-afk/krea2-anypaint) · [官网](https://huggingface.co/yijunwang2/krea2-anypaint) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/alexw5702-afk/krea2-anypaint) · [官网](https://huggingface.co/yijunwang2/krea2-anypaint) · 个人维护
 
 **Krea 2 AnyPaint 的 ComfyUI 节点包：任意遮罩重绘与外绘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexw5702-afk/krea2-anypaint 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 43 --> 48
-    line [44, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 43 --> 49
+    line [44, 46, 47, 48]
 ```
 
-2026-10-18 44 → 2026-10-27 47（+3）
+2026-10-18 44 → 2026-10-28 48（+4）
 
 
 ---

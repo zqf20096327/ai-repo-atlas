@@ -1,6 +1,6 @@
 # openai/orchard
 
-⭐ 583 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/openai/orchard) · 组织维护
+⭐ 584 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/openai/orchard) · 组织维护
 
 **Apple Silicon 集群上编排 Tart 虚拟机的系统**
 
@@ -44,13 +44,13 @@ OpenAI 维护的 Tart 虚拟机编排系统：将多台裸机 Apple Silicon 机�
 
 ```mermaid
 xychart-beta
-    title "openai/orchard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 569 --> 584
-    line [570, 574, 579, 580, 581, 583]
+    title "openai/orchard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 569 --> 585
+    line [570, 574, 579, 580, 581, 583, 584]
 ```
 
-2026-10-18 570 → 2026-10-27 583（+13）
+2026-10-18 570 → 2026-10-28 584（+14）
 
 
 ---

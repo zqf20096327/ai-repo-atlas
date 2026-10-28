@@ -1,6 +1,6 @@
 # Hainrixz/the-architect
 
-⭐ 565 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/the-architect) · [官网](https://tododeia.com) · 个人维护
+⭐ 566 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/the-architect) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 插件：访谈式设计软件架构并生成可自主构建的蓝图**
 
@@ -45,13 +45,13 @@ The Architect 是一个 Claude Code 插件（meta-agent），不写应用代码�
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/the-architect 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 548 --> 566
-    line [549, 554, 555, 560, 562, 563, 565]
+    title "Hainrixz/the-architect 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 548 --> 567
+    line [549, 554, 555, 560, 562, 563, 565, 566]
 ```
 
-2026-10-18 549 → 2026-10-27 565（+16）
+2026-10-18 549 → 2026-10-28 566（+17）
 
 
 ---

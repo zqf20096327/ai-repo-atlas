@@ -1,6 +1,6 @@
 # nondeletable/ComfyLauncher
 
-⭐ 61 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nondeletable/ComfyLauncher) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nondeletable/ComfyLauncher) · 个人维护 · 中文 README
 
 **便携版 ComfyUI 的桌面启动器与轻量浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nondeletable/ComfyLauncher 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "nondeletable/ComfyLauncher 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 49 --> 62
-    line [50, 54, 55, 57, 58, 60, 61]
+    line [50, 54, 55, 57, 58, 60, 61, 61]
 ```
 
-2026-10-18 50 → 2026-10-27 61（+11）
+2026-10-18 50 → 2026-10-28 61（+11）
 
 
 ---

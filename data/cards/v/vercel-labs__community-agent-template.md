@@ -1,6 +1,6 @@
 # vercel-labs/community-agent-template
 
-⭐ 23 · TypeScript · MIT · 推送 2026-05-21 · [GitHub](https://github.com/vercel-labs/community-agent-template) · [官网](https://community-agent.labs.vercel.dev) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-05-21 · [GitHub](https://github.com/vercel-labs/community-agent-template) · [官网](https://community-agent.labs.vercel.dev) · 组织维护
 
 **给 Slack 社区管理者的 AI 机器人模板，附 Next.js 管理面板**
 
@@ -45,12 +45,12 @@ Vercel Labs 出品的开源模板：Fork 后部署到 Vercel，得到一个 AI �
 ```mermaid
 xychart-beta
     title "vercel-labs/community-agent-template 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    line [24, 23, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 23（-1）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

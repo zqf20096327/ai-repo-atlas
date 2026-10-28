@@ -1,6 +1,6 @@
 # sk8erboi17/DStudio
 
-⭐ 32 · TypeScript · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/sk8erboi17/DStudio) · 个人维护
+⭐ 32 · TypeScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/sk8erboi17/DStudio) · 个人维护
 
 **本地优先桌面 AI 工作台：聊天、编码 Agent 与设计一体**
 
@@ -46,12 +46,12 @@ macOS（Apple Silicon）本地优先的开源桌面应用，集成 DeepSeek V4�
 ```mermaid
 xychart-beta
     title "sk8erboi17/DStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 32（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DLR-RM/stable-baselines3
 
-⭐ 13,937 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
+⭐ 13,939 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DLR-RM/stable-baselines3) · [官网](https://stable-baselines3.readthedocs.io) · 组织维护
 
 **给 RL 研究者与工程师提供 PyTorch 强化学习算法参考实现库**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "DLR-RM/stable-baselines3 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 13898 --> 13940
-    line [13901, 13910, 13916, 13922, 13925, 13929, 13934, 13937]
+    title "DLR-RM/stable-baselines3 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 13898 --> 13942
+    line [13901, 13910, 13916, 13922, 13925, 13929, 13934, 13937, 13939]
 ```
 
-2026-10-18 13,901 → 2026-10-27 13,937（+36）
+2026-10-18 13,901 → 2026-10-28 13,939（+38）
 
 
 ---

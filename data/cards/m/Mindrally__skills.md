@@ -1,6 +1,6 @@
 # Mindrally/skills
 
-⭐ 286 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Mindrally/skills) · [官网](https://mindrally.com) · 组织维护
+⭐ 287 · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Mindrally/skills) · [官网](https://mindrally.com) · 组织维护
 
 **给 Claude Code 用户的 265+ 编码技能合集（Cursor 规则转换）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mindrally/skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 276 --> 287
-    line [277, 278, 283, 285, 286, 286]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 276 --> 288
+    line [277, 278, 283, 285, 286, 287]
 ```
 
-2026-10-18 277 → 2026-10-27 286（+9）
+2026-10-18 277 → 2026-10-28 287（+10）
 
 
 ---

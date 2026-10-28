@@ -1,6 +1,6 @@
 # itsOwen/CyberScraper-2077
 
-⭐ 3,298 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/itsOwen/CyberScraper-2077) · 个人维护
+⭐ 3,297 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/itsOwen/CyberScraper-2077) · 个人维护
 
 **面向数据提取者的 AI 驱动网页抓取工具，支持多格式导出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsOwen/CyberScraper-2077 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    title "itsOwen/CyberScraper-2077 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 3291 --> 3299
-    line [3292, 3294, 3297, 3298]
+    line [3292, 3294, 3297, 3298, 3297]
 ```
 
-2026-10-18 3,292 → 2026-10-27 3,298（+6）
+2026-10-18 3,292 → 2026-10-28 3,297（+5）
 
 
 ---

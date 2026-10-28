@@ -1,6 +1,6 @@
 # olistic/warriorjs
 
-⭐ 9,545 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/olistic/warriorjs) · [官网](https://warriorjs.com) · 个人维护
+⭐ 9,543 · TypeScript · MIT · 推送 2026-03-27 · [GitHub](https://github.com/olistic/warriorjs) · [官网](https://warriorjs.com) · 个人维护
 
 **通过写代码操控战士闯塔来学习 JavaScript/TypeScript 的编程游戏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "olistic/warriorjs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 9542 --> 9546
-    line [9543, 9544, 9545, 9545]
+    line [9543, 9544, 9545, 9543]
 ```
 
-2026-10-18 9,543 → 2026-10-27 9,545（+2）
+2026-10-18 9,543 → 2026-10-28 9,543（+0）
 
 
 ---

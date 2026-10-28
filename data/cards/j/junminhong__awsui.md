@@ -1,6 +1,6 @@
 # junminhong/awsui
 
-⭐ 124 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/junminhong/awsui) · [官网](https://junminhong.github.io/awsui/) · 个人维护 · 中文 README
+⭐ 125 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/junminhong/awsui) · [官网](https://junminhong.github.io/awsui/) · 个人维护 · 中文 README
 
 **为 CLI 与 AI 编码代理提供经校验的 AWS 上下文启动器**
 
@@ -46,12 +46,12 @@ Python CLI 工具，解决 AWS profile 命名因机器而异的问题：将项�
 ```mermaid
 xychart-beta
     title "junminhong/awsui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 123 --> 127
-    line [126, 124, 124]
+    line [126, 124, 125]
 ```
 
-2026-10-18 126 → 2026-10-27 124（-2）
+2026-10-18 126 → 2026-10-28 125（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hello-CTF/NexTerm
 
-⭐ 62 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hello-CTF/NexTerm) · [官网](https://nexterm.work) · 组织维护 · 中文 README
+⭐ 64 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hello-CTF/NexTerm) · [官网](https://nexterm.work) · 组织维护 · 中文 README
 
 **自托管的多协议终端工作台，内置 AI 运维助手**
 
@@ -44,13 +44,13 @@ NexTerm 是可自托管的服务器运维工作台，通过 SSH、WinRM 或设�
 
 ```mermaid
 xychart-beta
-    title "Hello-CTF/NexTerm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 60 --> 64
-    line [61, 63, 62]
+    title "Hello-CTF/NexTerm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 60 --> 65
+    line [61, 63, 62, 64]
 ```
 
-2026-10-18 61 → 2026-10-27 62（+1）
+2026-10-18 61 → 2026-10-28 64（+3）
 
 
 ---

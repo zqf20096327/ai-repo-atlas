@@ -45,12 +45,12 @@ MagicQuant 是一个 CLI 工具与流程，用于为 LLM 发现混合精度 GGUF
 ```mermaid
 xychart-beta
     title "magiccodingman/MagicQuant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-28 49（+0）
 
 
 ---

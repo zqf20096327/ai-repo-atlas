@@ -1,6 +1,6 @@
 # mlverse/lang
 
-⭐ 32 · R · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/mlverse/lang) · [官网](https://mlverse.github.io/lang/) · 组织维护
+⭐ 33 · R · NOASSERTION · 推送 2026-06-11 · [GitHub](https://github.com/mlverse/lang) · [官网](https://mlverse.github.io/lang/) · 组织维护
 
 **用 LLM 实时翻译 R 函数帮助文档的包**
 
@@ -45,12 +45,12 @@ R 包，覆盖 R 会话中的 `?` 与 `help()` 函数，将函数帮助页实时
 ```mermaid
 xychart-beta
     title "mlverse/lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 33（+1）
 
 
 ---

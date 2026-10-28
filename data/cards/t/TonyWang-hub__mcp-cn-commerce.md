@@ -1,6 +1,6 @@
 # TonyWang-hub/mcp-cn-commerce
 
-⭐ 89 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TonyWang-hub/mcp-cn-commerce) · [官网](https://github.com/TonyWang-hub/mcp-cn-commerce/releases) · 个人维护 · 中文 README
+⭐ 90 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TonyWang-hub/mcp-cn-commerce) · [官网](https://github.com/TonyWang-hub/mcp-cn-commerce/releases) · 个人维护 · 中文 README
 
 **让 AI Agent 只读访问中国电商平台商家经营数据的 MCP Server 套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TonyWang-hub/mcp-cn-commerce 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 83 --> 90
-    line [84, 86, 87, 89]
+    title "TonyWang-hub/mcp-cn-commerce 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 83 --> 91
+    line [84, 86, 87, 89, 90]
 ```
 
-2026-10-18 84 → 2026-10-27 89（+5）
+2026-10-18 84 → 2026-10-28 90（+6）
 
 
 ---

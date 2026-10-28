@@ -1,6 +1,6 @@
 # Sstobo/Claude-Code-Game-Master
 
-⭐ 158 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/Sstobo/Claude-Code-Game-Master) · 个人维护
+⭐ 160 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/Sstobo/Claude-Code-Game-Master) · 个人维护
 
 **把 Claude Code 变成持久跑团游戏主持人的运行框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sstobo/Claude-Code-Game-Master 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 154 --> 159
-    line [156, 155, 157, 158, 158]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 154 --> 161
+    line [156, 155, 157, 158, 160]
 ```
 
-2026-10-18 156 → 2026-10-27 158（+2）
+2026-10-18 156 → 2026-10-28 160（+4）
 
 
 ---

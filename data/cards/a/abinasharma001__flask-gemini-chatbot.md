@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "abinasharma001/flask-gemini-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-28 36（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JasonLovesDoggo/caddy-defender 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    title "JasonLovesDoggo/caddy-defender 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 584 --> 588
-    line [585, 586, 587]
+    line [585, 586, 587, 587]
 ```
 
-2026-10-18 585 → 2026-10-27 587（+2）
+2026-10-18 585 → 2026-10-28 587（+2）
 
 
 ---

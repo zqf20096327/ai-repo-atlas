@@ -1,6 +1,6 @@
 # helicalAI/helical
 
-⭐ 235 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/helicalAI/helical) · [官网](https://www.helical-ai.com/) · 组织维护
+⭐ 235 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/helicalAI/helical) · [官网](https://www.helical-ai.com/) · 组织维护
 
 **给计算生物学家：统一 Python 接口调用生物基础模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "helicalAI/helical 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 233 --> 236
     line [234, 235, 235]
 ```
 
-2026-10-18 234 → 2026-10-27 235（+1）
+2026-10-18 234 → 2026-10-28 235（+1）
 
 
 ---

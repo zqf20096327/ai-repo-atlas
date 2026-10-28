@@ -1,6 +1,6 @@
 # wildminder/awesome-ltx2
 
-⭐ 600 · 推送 2026-10-18 · [GitHub](https://github.com/wildminder/awesome-ltx2) · 个人维护
+⭐ 601 · 推送 2026-10-18 · [GitHub](https://github.com/wildminder/awesome-ltx2) · 个人维护
 
 **LTX-2 视频生成模型的策展清单：模型/编码器/工具/LoRA 汇总**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wildminder/awesome-ltx2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 599 --> 602
-    line [601, 600, 600]
+    line [601, 600, 601]
 ```
 
-2026-10-18 601 → 2026-10-27 600（-1）
+2026-10-18 601 → 2026-10-28 601（+0）
 
 
 ---

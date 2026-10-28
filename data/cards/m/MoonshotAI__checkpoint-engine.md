@@ -1,6 +1,6 @@
 # MoonshotAI/checkpoint-engine
 
-⭐ 1,015 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MoonshotAI/checkpoint-engine) · 组织维护 · 中文 README
+⭐ 1,018 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MoonshotAI/checkpoint-engine) · 组织维护 · 中文 README
 
 **LLM 推理引擎的模型权重热更新中间件，面向强化学习场景**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/checkpoint-engine 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1010 --> 1016
-    line [1011, 1012, 1013, 1014, 1015]
+    title "MoonshotAI/checkpoint-engine 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1010 --> 1019
+    line [1011, 1012, 1013, 1014, 1015, 1018]
 ```
 
-2026-10-18 1,011 → 2026-10-27 1,015（+4）
+2026-10-18 1,011 → 2026-10-28 1,018（+7）
 
 
 ---

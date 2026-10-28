@@ -1,6 +1,6 @@
 # gi-dellav/zerostack
 
-⭐ 1,725 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/gi-dellav/zerostack) · [官网](https://gi-dellav.github.io/zerostack/) · 个人维护
+⭐ 1,724 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/gi-dellav/zerostack) · [官网](https://gi-dellav.github.io/zerostack/) · 个人维护
 
 **Rust 编写的轻量编程 agent，面向终端使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gi-dellav/zerostack 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "gi-dellav/zerostack 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1712 --> 1726
-    line [1713, 1714, 1717, 1720, 1725]
+    line [1713, 1714, 1717, 1720, 1725, 1724]
 ```
 
-2026-10-18 1,713 → 2026-10-27 1,725（+12）
+2026-10-18 1,713 → 2026-10-28 1,724（+11）
 
 
 ---

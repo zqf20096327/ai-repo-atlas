@@ -1,6 +1,6 @@
 # OPPO-Mente-Lab/X-OmniClaw
 
-⭐ 266 · Kotlin · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/OPPO-Mente-Lab/X-OmniClaw) · [官网](https://eggplant95.github.io/X-OmniClaw-Page/) · 组织维护 · 中文 README
+⭐ 267 · Kotlin · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/OPPO-Mente-Lab/X-OmniClaw) · [官网](https://eggplant95.github.io/X-OmniClaw-Page/) · 组织维护 · 中文 README
 
 **在 Android 手机上本地运行的多模态设备 Agent，感知-记忆-执行一体**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OPPO-Mente-Lab/X-OmniClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 265 --> 267
-    line [266, 266]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 265 --> 268
+    line [266, 267]
 ```
 
-2026-10-18 266 → 2026-10-27 266（+0）
+2026-10-18 266 → 2026-10-28 267（+1）
 
 
 ---

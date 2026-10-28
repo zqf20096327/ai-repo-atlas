@@ -1,6 +1,6 @@
 # Zipstack/unstract
 
-⭐ 7,299 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
+⭐ 7,302 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Zipstack/unstract) · [官网](https://unstract.com) · 组织维护
 
 **用 LLM 从非结构化文档抽取结构化 JSON 的平台，面向金融/保险/医疗团队**
 
@@ -45,13 +45,13 @@ Unstract 通过自然语言 prompt 定义抽取 schema，用 LLM 从 PDF、图�
 
 ```mermaid
 xychart-beta
-    title "Zipstack/unstract 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 7282 --> 7300
-    line [7283, 7291, 7296, 7297, 7296, 7297, 7299]
+    title "Zipstack/unstract 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 7282 --> 7303
+    line [7283, 7291, 7296, 7297, 7296, 7297, 7299, 7302]
 ```
 
-2026-10-18 7,283 → 2026-10-27 7,299（+16）
+2026-10-18 7,283 → 2026-10-28 7,302（+19）
 
 
 ---

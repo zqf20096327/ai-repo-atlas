@@ -1,6 +1,6 @@
 # legeling/awesome-codex-pet
 
-⭐ 1,188 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/legeling/awesome-codex-pet) · [官网](https://codexpet.top) · 个人维护 · 中文 README
+⭐ 1,197 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/legeling/awesome-codex-pet) · [官网](https://codexpet.top) · 个人维护 · 中文 README
 
 **社区 Codex 桌宠策展目录：351 个像素宠物包，一键安装**
 
@@ -45,13 +45,13 @@ codexpet.top 背后的宠物资源源目录仓库：收录 351 个社区制作�
 
 ```mermaid
 xychart-beta
-    title "legeling/awesome-codex-pet 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1124 --> 1193
-    line [1129, 1142, 1156, 1167, 1171, 1177, 1180, 1188]
+    title "legeling/awesome-codex-pet 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1123 --> 1203
+    line [1129, 1142, 1156, 1167, 1171, 1177, 1180, 1188, 1197]
 ```
 
-2026-10-18 1,129 → 2026-10-27 1,188（+59）
+2026-10-18 1,129 → 2026-10-28 1,197（+68）
 
 
 ---

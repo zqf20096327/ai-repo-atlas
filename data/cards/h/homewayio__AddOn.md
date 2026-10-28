@@ -45,13 +45,13 @@ Home Assistant 社区云项目，提供远程访问、官方 iOS/Android 应用�
 
 ```mermaid
 xychart-beta
-    title "homewayio/AddOn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "homewayio/AddOn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 47 --> 50
-    line [48, 49]
+    line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-27 49（+1）
+2026-10-18 48 → 2026-10-28 49（+1）
 
 
 ---

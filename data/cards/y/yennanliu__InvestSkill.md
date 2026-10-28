@@ -1,6 +1,6 @@
 # yennanliu/InvestSkill
 
-⭐ 259 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yennanliu/InvestSkill) · [官网](http://yennj12.js.org/InvestSkill/) · 个人维护 · 中文 README
+⭐ 265 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yennanliu/InvestSkill) · [官网](http://yennj12.js.org/InvestSkill/) · 个人维护 · 中文 README
 
 **30 个美股分析提示词框架，接入任意 AI 助手产出机构级投资分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yennanliu/InvestSkill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 247 --> 260
-    line [248, 250, 253, 255, 256, 258, 259]
+    title "yennanliu/InvestSkill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 247 --> 266
+    line [248, 250, 253, 255, 256, 258, 259, 265]
 ```
 
-2026-10-18 248 → 2026-10-27 259（+11）
+2026-10-18 248 → 2026-10-28 265（+17）
 
 
 ---

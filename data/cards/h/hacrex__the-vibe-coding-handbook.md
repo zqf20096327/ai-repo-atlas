@@ -1,6 +1,6 @@
 # hacrex/the-vibe-coding-handbook
 
-⭐ 88 · HTML · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/hacrex/the-vibe-coding-handbook) · [官网](https://vibingcode.vercel.app/) · 个人维护
+⭐ 90 · HTML · NOASSERTION · 推送 2026-07-26 · [GitHub](https://github.com/hacrex/the-vibe-coding-handbook) · [官网](https://vibingcode.vercel.app/) · 个人维护
 
 **AI 辅助软件开发（Vibe Coding）从入门到部署的开源知识手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hacrex/the-vibe-coding-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "hacrex/the-vibe-coding-handbook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 85 --> 94
-    line [92, 93, 86, 87, 88]
+    line [92, 93, 86, 87, 88, 90]
 ```
 
-2026-10-18 92 → 2026-10-27 88（-4）
+2026-10-18 92 → 2026-10-28 90（-2）
 
 
 ---

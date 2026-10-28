@@ -1,6 +1,6 @@
 # Ablation-Tool/ablation
 
-⭐ 224 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Ablation-Tool/ablation) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **AI 辅助逆向工程框架：用 agent 与图分析解析二进制**
 
@@ -11,7 +11,7 @@ Ablation 是面向二进制与固件分析的 AI 辅助逆向工程（AIARE）�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

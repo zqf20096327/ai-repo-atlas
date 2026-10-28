@@ -1,6 +1,6 @@
 # ranxi2001/zero2Agent
 
-⭐ 935 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ranxi2001/zero2Agent) · [官网](https://onefly.top/zero2Agent/) · 个人维护 · 中文 README
+⭐ 953 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ranxi2001/zero2Agent) · [官网](https://onefly.top/zero2Agent/) · 个人维护 · 中文 README
 
 **面向程序员的 Agent 工程教程站：从零搭 Agent 到面试备战**
 
@@ -44,13 +44,13 @@ GitHub Pages 在线教程仓库，共 133 篇文章、12 个完整模块，覆�
 
 ```mermaid
 xychart-beta
-    title "ranxi2001/zero2Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 821 --> 945
-    line [831, 851, 893, 903, 915, 926, 935]
+    title "ranxi2001/zero2Agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 819 --> 965
+    line [831, 851, 893, 903, 915, 926, 935, 953]
 ```
 
-2026-10-18 831 → 2026-10-27 935（+104）
+2026-10-18 831 → 2026-10-28 953（+122）
 
 
 ---

@@ -1,6 +1,6 @@
 # RightNow-AI/picolm
 
-⭐ 2,213 · C · MIT · 推送 2026-02-22 · [GitHub](https://github.com/RightNow-AI/picolm) · [官网](https://www.rightnowai.co/forge) · 组织维护
+⭐ 2,214 · C · MIT · 推送 2026-02-22 · [GitHub](https://github.com/RightNow-AI/picolm) · [官网](https://www.rightnowai.co/forge) · 组织维护
 
 **纯 C 实现的超轻量 LLM 推理引擎，可在 256MB 内存开发板运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/picolm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 2209 --> 2215
-    line [2210, 2212, 2214, 2213, 2213]
+    line [2210, 2212, 2214, 2213, 2214]
 ```
 
-2026-10-18 2,210 → 2026-10-27 2,213（+3）
+2026-10-18 2,210 → 2026-10-28 2,214（+4）
 
 
 ---

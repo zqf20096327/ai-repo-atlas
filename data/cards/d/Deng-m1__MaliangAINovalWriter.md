@@ -1,6 +1,6 @@
 # Deng-m1/MaliangAINovalWriter
 
-⭐ 900 · 推送 2026-08-20 · [GitHub](https://github.com/Deng-m1/MaliangAINovalWriter) · [官网](https://maliangwriter.com/) · 个人维护 · 中文 README
+⭐ 902 · 推送 2026-08-20 · [GitHub](https://github.com/Deng-m1/MaliangAINovalWriter) · [官网](https://maliangwriter.com/) · 个人维护 · 中文 README
 
 **面向中文网文作者的AI小说创作平台，支持30万字级连载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Deng-m1/MaliangAINovalWriter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 896 --> 901
-    line [898, 897, 898, 899, 900]
+    title "Deng-m1/MaliangAINovalWriter 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 896 --> 903
+    line [898, 897, 898, 899, 900, 902]
 ```
 
-2026-10-18 898 → 2026-10-27 900（+2）
+2026-10-18 898 → 2026-10-28 902（+4）
 
 
 ---

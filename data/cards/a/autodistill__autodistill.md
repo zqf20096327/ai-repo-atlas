@@ -1,6 +1,6 @@
 # autodistill/autodistill
 
-⭐ 2,796 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/autodistill/autodistill) · [官网](https://docs.autodistill.com) · 组织维护
+⭐ 2,798 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/autodistill/autodistill) · [官网](https://docs.autodistill.com) · 组织维护
 
 **用基础模型自动标注图像并蒸馏训练小模型的开源框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "autodistill/autodistill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2791 --> 2797
-    line [2792, 2793, 2794, 2796, 2796]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 2791 --> 2799
+    line [2792, 2793, 2794, 2796, 2798]
 ```
 
-2026-10-18 2,792 → 2026-10-27 2,796（+4）
+2026-10-18 2,792 → 2026-10-28 2,798（+6）
 
 
 ---

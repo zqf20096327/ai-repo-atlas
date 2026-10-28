@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Speech.cpp
 
-⭐ 201 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/NeMo-Speech.cpp) · 组织维护
+⭐ 202 · C++ · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NVIDIA/NeMo-Speech.cpp) · 组织维护
 
 **NVIDIA 语音模型家族的本地 C++ 推理运行时与 CLI**
 
@@ -45,13 +45,13 @@ NVIDIA 官方的轻量本地语音推理运行时，基于 ggml，运行 Nemotro
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/NeMo-Speech.cpp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 186 --> 202
-    line [187, 191, 195, 197, 199, 201]
+    title "NVIDIA/NeMo-Speech.cpp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 186 --> 203
+    line [187, 191, 195, 197, 199, 201, 202]
 ```
 
-2026-10-18 187 → 2026-10-27 201（+14）
+2026-10-18 187 → 2026-10-28 202（+15）
 
 
 ---

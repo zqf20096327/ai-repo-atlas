@@ -1,6 +1,6 @@
 # Houseofmvps/codesight
 
-⭐ 1,418 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Houseofmvps/codesight) · [官网](https://github.com/Houseofmvps/codesight) · 个人维护
+⭐ 1,420 · TypeScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Houseofmvps/codesight) · [官网](https://github.com/Houseofmvps/codesight) · 个人维护
 
 **为 AI 编程助手生成代码库上下文地图的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Houseofmvps/codesight 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1416 --> 1422
-    line [1418, 1419, 1421, 1420, 1417, 1418, 1418]
+    line [1418, 1419, 1421, 1420, 1417, 1418, 1420]
 ```
 
-2026-10-18 1,418 → 2026-10-27 1,418（+0）
+2026-10-18 1,418 → 2026-10-28 1,420（+2）
 
 
 ---

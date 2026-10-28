@@ -44,12 +44,12 @@ NeurIPS 2023 表格表示学习 Workshop（Oral）论文的官方代码：研究
 ```mermaid
 xychart-beta
     title "poloclub/tsr-convstem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kelindar/search
 
-⭐ 561 · Go · MIT · 推送 2026-09-19 · [GitHub](https://github.com/kelindar/search) · 个人维护
+⭐ 560 · Go · MIT · 推送 2026-09-19 · [GitHub](https://github.com/kelindar/search) · 个人维护
 
 **Go 向量检索与语义嵌入库：精确余弦索引+本地/云端嵌入**
 
@@ -46,12 +46,12 @@ Go 库，核心包提供精确余弦相似度向量索引、检索与文件持�
 ```mermaid
 xychart-beta
     title "kelindar/search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 560 --> 562
-    line [561, 561]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 559 --> 562
+    line [561, 560]
 ```
 
-2026-10-18 561 → 2026-10-27 561（+0）
+2026-10-18 561 → 2026-10-28 560（-1）
 
 
 ---

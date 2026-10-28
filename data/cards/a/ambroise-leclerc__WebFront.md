@@ -1,6 +1,6 @@
 # ambroise-leclerc/WebFront
 
-⭐ 45 · C++ · 推送 2026-10-26 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
+⭐ 45 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
 
 **C++23 header-only 库：用 TypeScript/React 构建原生窗口界面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ambroise-leclerc/WebFront 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-23", "2026-10-28"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-23 45 → 2026-10-27 45（+0）
+2026-10-23 45 → 2026-10-28 45（+0）
 
 
 ---

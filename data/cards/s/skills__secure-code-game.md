@@ -1,6 +1,6 @@
 # skills/secure-code-game
 
-⭐ 2,851 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/skills/secure-code-game) · [官网](https://gh.io/scg) · 组织维护
+⭐ 2,851 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/skills/secure-code-game) · [官网](https://gh.io/scg) · 组织维护
 
 **GitHub 出品的浏览器内安全编码闯关课程，含 AI 安全季**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skills/secure-code-game 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "skills/secure-code-game 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2842 --> 2852
-    line [2843, 2845, 2847, 2849, 2850, 2851]
+    line [2843, 2845, 2847, 2849, 2850, 2851, 2851]
 ```
 
-2026-10-18 2,843 → 2026-10-27 2,851（+8）
+2026-10-18 2,843 → 2026-10-28 2,851（+8）
 
 
 ---

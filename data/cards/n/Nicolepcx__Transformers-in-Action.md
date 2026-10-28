@@ -1,6 +1,6 @@
 # Nicolepcx/Transformers-in-Action
 
-⭐ 153 · Jupyter Notebook · NOASSERTION · 推送 2025-10-31 · [GitHub](https://github.com/Nicolepcx/Transformers-in-Action) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **《Transformers in Action》图书配套代码：各章 NLP/LLM Jupyter 笔记本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

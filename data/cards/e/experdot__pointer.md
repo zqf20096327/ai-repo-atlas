@@ -1,6 +1,6 @@
 # experdot/pointer
 
-⭐ 92 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/experdot/pointer) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/experdot/pointer) · 个人维护 · 中文 README
 
 **桌面 AI 聊天客户端：树状对话分支，对话以 Markdown 文件本地存储**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "experdot/pointer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 90 --> 93
+    line [92, 91]
 ```
 
-2026-10-18 92 → 2026-10-27 92（+0）
+2026-10-18 92 → 2026-10-28 91（-1）
 
 
 ---

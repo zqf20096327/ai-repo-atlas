@@ -46,12 +46,12 @@ ACL 2026 论文的官方代码发布：ADG（Answer Divergence-Guided Selection�
 ```mermaid
 xychart-beta
     title "WisdomShell/ADG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

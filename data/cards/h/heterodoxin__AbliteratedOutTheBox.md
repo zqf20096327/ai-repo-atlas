@@ -1,6 +1,6 @@
 # heterodoxin/AbliteratedOutTheBox
 
-⭐ 143 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/heterodoxin/AbliteratedOutTheBox) · 个人维护
+⭐ 153 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/heterodoxin/AbliteratedOutTheBox) · 个人维护
 
 **llama.cpp fork：推理时消除模型拒答，不改权重文件**
 
@@ -45,13 +45,13 @@ llama.cpp 的 fork，新增 llama-abliterate 运行时：对每个被判定为�
 
 ```mermaid
 xychart-beta
-    title "heterodoxin/AbliteratedOutTheBox 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 13 --> 154
-    line [24, 44, 65, 121, 143]
+    title "heterodoxin/AbliteratedOutTheBox 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 12 --> 165
+    line [24, 44, 65, 121, 143, 153]
 ```
 
-2026-10-23 24 → 2026-10-27 143（+119）
+2026-10-23 24 → 2026-10-28 153（+129）
 
 
 ---

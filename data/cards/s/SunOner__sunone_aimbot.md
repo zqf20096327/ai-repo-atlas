@@ -1,6 +1,6 @@
 # SunOner/sunone_aimbot
 
-⭐ 1,047 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/SunOner/sunone_aimbot) · [官网](https://discord.gg/37WVp6sNEh) · 个人维护
+⭐ 1,048 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/SunOner/sunone_aimbot) · [官网](https://discord.gg/37WVp6sNEh) · 个人维护
 
 **面向 FPS 游戏的 AI 自瞄工具（YOLO 检测自动瞄准）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SunOner/sunone_aimbot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1038 --> 1048
-    line [1039, 1042, 1044, 1045, 1046, 1047, 1047]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1038 --> 1049
+    line [1039, 1042, 1044, 1045, 1046, 1047, 1048]
 ```
 
-2026-10-18 1,039 → 2026-10-27 1,047（+8）
+2026-10-18 1,039 → 2026-10-28 1,048（+9）
 
 
 ---

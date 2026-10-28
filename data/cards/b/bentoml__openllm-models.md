@@ -45,12 +45,12 @@ BentoML 维护的 openllm 默认模型仓库，main 分支随 openllm 默认内�
 ```mermaid
 xychart-beta
     title "bentoml/openllm-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-27 70（+0）
+2026-10-18 70 → 2026-10-28 70（+0）
 
 
 ---

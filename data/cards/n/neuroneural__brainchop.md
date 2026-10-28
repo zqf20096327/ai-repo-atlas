@@ -1,6 +1,6 @@
 # neuroneural/brainchop
 
-⭐ 594 · JavaScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/neuroneural/brainchop) · [官网](https://neuroneural.github.io/brainchop/) · 组织维护
+⭐ 605 · JavaScript · MIT · 推送 2026-02-24 · [GitHub](https://github.com/neuroneural/brainchop) · [官网](https://neuroneural.github.io/brainchop/) · 组织维护
 
 **浏览器内 3D MRI 体积分割与渲染的纯前端工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neuroneural/brainchop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 541 --> 598
-    line [545, 546, 553, 562, 570, 594]
+    title "neuroneural/brainchop 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 539 --> 611
+    line [545, 546, 553, 562, 570, 594, 605]
 ```
 
-2026-10-18 545 → 2026-10-27 594（+49）
+2026-10-18 545 → 2026-10-28 605（+60）
 
 
 ---

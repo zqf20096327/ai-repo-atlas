@@ -1,6 +1,6 @@
 # microsoft/DebugMCP
 
-⭐ 574 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/DebugMCP) · 组织维护
+⭐ 575 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/DebugMCP) · 组织维护
 
 **让 AI 编程代理在 VS Code 中操作调试器的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/DebugMCP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 568 --> 575
-    line [569, 570, 572, 573, 574]
+    title "microsoft/DebugMCP 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 568 --> 576
+    line [569, 570, 572, 573, 574, 575]
 ```
 
-2026-10-18 569 → 2026-10-27 574（+5）
+2026-10-18 569 → 2026-10-28 575（+6）
 
 
 ---

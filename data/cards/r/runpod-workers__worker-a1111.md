@@ -1,6 +1,6 @@
 # runpod-workers/worker-a1111
 
-⭐ 101 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/runpod-workers/worker-a1111) · 组织维护
+⭐ 100 · Python · MIT · 推送 2025-11-21 · [GitHub](https://github.com/runpod-workers/worker-a1111) · 组织维护
 
 **在 RunPod Serverless 上运行 A1111 的 Stable Diffusion 推理 worker**
 
@@ -44,12 +44,12 @@ RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automati
 ```mermaid
 xychart-beta
     title "runpod-workers/worker-a1111 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 99 --> 102
+    line [101, 100]
 ```
 
-2026-10-18 101 → 2026-10-27 101（+0）
+2026-10-18 101 → 2026-10-28 100（-1）
 
 
 ---

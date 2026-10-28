@@ -1,6 +1,6 @@
 # Moonweave-AI/virea
 
-⭐ 26 · Python · 推送 2026-10-13 · [GitHub](https://github.com/Moonweave-AI/virea) · 组织维护 · 中文 README
+⭐ 27 · Python · 推送 2026-10-13 · [GitHub](https://github.com/Moonweave-AI/virea) · 组织维护 · 中文 README
 
 **给虚拟形象开发者的具身动作生成运行时：语言/语音/动作驱动 VRM 与 VRChat 虚拟形象**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Moonweave-AI/virea 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 27（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SWE-agent/SWE-ReX
 
-⭐ 625 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SWE-agent/SWE-ReX) · [官网](https://swe-rex.com/) · 组织维护
+⭐ 628 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/SWE-agent/SWE-ReX) · [官网](https://swe-rex.com/) · 组织维护
 
 **给 AI agent 开发者的沙箱化远程命令执行运行时框架**
 
@@ -45,12 +45,12 @@ SWE-agent 团队推出的运行时接口库：让 AI agent 在本地 shell、Doc
 ```mermaid
 xychart-beta
     title "SWE-agent/SWE-ReX 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 619 --> 626
-    line [620, 621, 622, 623, 624, 625, 625]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 619 --> 629
+    line [620, 621, 622, 623, 624, 625, 628]
 ```
 
-2026-10-18 620 → 2026-10-27 625（+5）
+2026-10-18 620 → 2026-10-28 628（+8）
 
 
 ---

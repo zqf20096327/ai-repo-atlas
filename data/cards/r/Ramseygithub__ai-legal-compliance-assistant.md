@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ramseygithub/ai-legal-compliance-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 335 --> 337
     line [336, 336]
 ```
 
-2026-10-18 336 → 2026-10-27 336（+0）
+2026-10-18 336 → 2026-10-28 336（+0）
 
 
 ---

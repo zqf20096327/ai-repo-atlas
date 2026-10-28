@@ -1,6 +1,6 @@
 # Bytedesk/bytedesk
 
-⭐ 513 · JavaScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Bytedesk/bytedesk) · [官网](https://www.bytedesk.com/en/) · 组织维护 · 中文 README
+⭐ 513 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Bytedesk/bytedesk) · [官网](https://www.bytedesk.com/en/) · 组织维护 · 中文 README
 
 **面向企业的全渠道客服与团队 IM 开源系统，含 AI Agent**
 
@@ -45,12 +45,12 @@ Bytedesk 提供团队内部 IM（多级组织、角色与权限管理）与全�
 ```mermaid
 xychart-beta
     title "Bytedesk/bytedesk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 509 --> 514
     line [510, 511, 512, 513, 513]
 ```
 
-2026-10-18 510 → 2026-10-27 513（+3）
+2026-10-18 510 → 2026-10-28 513（+3）
 
 
 ---

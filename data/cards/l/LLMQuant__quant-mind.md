@@ -1,6 +1,6 @@
 # LLMQuant/quant-mind
 
-⭐ 3,115 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/LLMQuant/quant-mind) · [官网](http://llmquantdata.com/) · 组织维护
+⭐ 3,116 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/LLMQuant/quant-mind) · [官网](http://llmquantdata.com/) · 组织维护
 
 **量化金融知识抽取与检索框架，供 agent 构建流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLMQuant/quant-mind 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3087 --> 3117
-    line [3089, 3098, 3101, 3105, 3109, 3115]
+    title "LLMQuant/quant-mind 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3087 --> 3118
+    line [3089, 3098, 3101, 3105, 3109, 3115, 3116]
 ```
 
-2026-10-18 3,089 → 2026-10-27 3,115（+26）
+2026-10-18 3,089 → 2026-10-28 3,116（+27）
 
 
 ---

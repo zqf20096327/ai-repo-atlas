@@ -1,6 +1,6 @@
 # zkzkGamal/agentic-ai-engineering
 
-⭐ 36 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/zkzkGamal/agentic-ai-engineering) · [官网](https://zkaria-gamal.vercel.app/post/35) · 个人维护
+⭐ 35 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/zkzkGamal/agentic-ai-engineering) · [官网](https://zkaria-gamal.vercel.app/post/35) · 个人维护
 
 **面向开发者的 Agentic AI 系统分章工程实践教程仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zkzkGamal/agentic-ai-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    line [34, 35, 36, 35]
 ```
 
-2026-10-18 34 → 2026-10-27 36（+2）
+2026-10-18 34 → 2026-10-28 35（+1）
 
 
 ---

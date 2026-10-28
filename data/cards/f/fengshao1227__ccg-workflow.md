@@ -1,6 +1,6 @@
 # fengshao1227/ccg-workflow
 
-⭐ 5,948 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fengshao1227/ccg-workflow) · [官网](https://ccg.fengshao1227.com) · 个人维护 · 中文 README
+⭐ 5,952 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/fengshao1227/ccg-workflow) · [官网](https://ccg.fengshao1227.com) · 个人维护 · 中文 README
 
 **Claude Code 的多模型协作工作流引擎：/ccg:go 一条命令编排执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fengshao1227/ccg-workflow 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5940 --> 5949
-    line [5946, 5943, 5942, 5941, 5943, 5942, 5947, 5948]
+    title "fengshao1227/ccg-workflow 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5940 --> 5953
+    line [5946, 5943, 5942, 5941, 5943, 5942, 5947, 5948, 5952]
 ```
 
-2026-10-18 5,946 → 2026-10-27 5,948（+2）
+2026-10-18 5,946 → 2026-10-28 5,952（+6）
 
 
 ---

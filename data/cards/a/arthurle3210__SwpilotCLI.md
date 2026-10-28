@@ -45,13 +45,13 @@ C# .NET 编写的 SolidWorks Add-in，将 Claude Code CLI 或 Codex CLI 嵌入�
 
 ```mermaid
 xychart-beta
-    title "arthurle3210/SwpilotCLI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    title "arthurle3210/SwpilotCLI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-10-27 35（+2）
+2026-10-18 33 → 2026-10-28 35（+2）
 
 
 ---

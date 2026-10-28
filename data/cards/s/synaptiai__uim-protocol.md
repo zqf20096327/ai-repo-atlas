@@ -45,12 +45,12 @@ Unified Intent Mediator (UIM) 协议定义 AI agent 通过结构化 intent 与 W
 ```mermaid
 xychart-beta
     title "synaptiai/uim-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-27 39（+0）
+2026-10-18 39 → 2026-10-28 39（+0）
 
 
 ---

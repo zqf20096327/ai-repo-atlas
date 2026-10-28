@@ -1,6 +1,6 @@
 # google/deepvariant
 
-⭐ 3,825 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/google/deepvariant) · 组织维护
+⭐ 3,827 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/google/deepvariant) · 组织维护
 
 **深度学习基因变异检测器：从测序比对数据产出 VCF 变异结果**
 
@@ -46,12 +46,12 @@ DeepVariant 是 Google 的深度学习变异检测流程：读取 BAM/CRAM 格�
 ```mermaid
 xychart-beta
     title "google/deepvariant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3822 --> 3826
-    line [3823, 3825, 3824, 3825, 3825]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 3822 --> 3828
+    line [3823, 3825, 3824, 3825, 3827]
 ```
 
-2026-10-18 3,823 → 2026-10-27 3,825（+2）
+2026-10-18 3,823 → 2026-10-28 3,827（+4）
 
 
 ---

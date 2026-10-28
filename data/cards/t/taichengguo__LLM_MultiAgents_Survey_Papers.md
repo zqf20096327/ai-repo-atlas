@@ -1,6 +1,6 @@
 # taichengguo/LLM_MultiAgents_Survey_Papers
 
-⭐ 1,327 · 推送 2026-10-25 · [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) · [官网](https://arxiv.org/abs/2402.01680) · 个人维护
+⭐ 1,328 · 推送 2026-10-25 · [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) · [官网](https://arxiv.org/abs/2402.01680) · 个人维护
 
 **LLM 多智能体论文综述清单：附 IJCAI 2024 综述论文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taichengguo/LLM_MultiAgents_Survey_Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 1326 --> 1328
-    line [1327, 1327]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 1326 --> 1329
+    line [1327, 1328]
 ```
 
-2026-10-18 1,327 → 2026-10-27 1,327（+0）
+2026-10-18 1,327 → 2026-10-28 1,328（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zcaceres/markdownify-mcp
 
-⭐ 2,997 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zcaceres/markdownify-mcp) · 个人维护
+⭐ 2,996 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zcaceres/markdownify-mcp) · 个人维护
 
 **把 PDF/图片/音频/网页等转成 Markdown 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zcaceres/markdownify-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    title "zcaceres/markdownify-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2995 --> 2998
-    line [2997, 2996, 2997]
+    line [2997, 2996, 2997, 2996]
 ```
 
-2026-10-18 2,997 → 2026-10-27 2,997（+0）
+2026-10-18 2,997 → 2026-10-28 2,996（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT
 
-⭐ 838 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT) · 组织维护 · 中文 README
+⭐ 839 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT) · 组织维护 · 中文 README
 
 **腾讯混元开源翻译模型：33 语种互译的 1.8B/7B 权重**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hy-MT 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 835 --> 840
-    line [836, 837, 838, 839, 838, 838]
+    line [836, 837, 838, 839, 838, 839]
 ```
 
-2026-10-18 836 → 2026-10-27 838（+2）
+2026-10-18 836 → 2026-10-28 839（+3）
 
 
 ---

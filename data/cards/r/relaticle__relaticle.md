@@ -1,6 +1,6 @@
 # relaticle/relaticle
 
-⭐ 1,788 · PHP · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
+⭐ 1,790 · PHP · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
 
 **面向 AI agent 的自托管开源 CRM，通过 MCP 读写 CRM 数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "relaticle/relaticle 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1768 --> 1789
-    line [1769, 1772, 1775, 1777, 1779, 1780, 1788]
+    title "relaticle/relaticle 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1767 --> 1792
+    line [1769, 1772, 1775, 1777, 1779, 1780, 1788, 1790]
 ```
 
-2026-10-18 1,769 → 2026-10-27 1,788（+19）
+2026-10-18 1,769 → 2026-10-28 1,790（+21）
 
 
 ---

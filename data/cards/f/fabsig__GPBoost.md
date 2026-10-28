@@ -1,6 +1,6 @@
 # fabsig/GPBoost
 
-⭐ 703 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/fabsig/GPBoost) · 个人维护
+⭐ 704 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/fabsig/GPBoost) · 个人维护
 
 **结合树提升与高斯过程/混合效应模型的机器学习库**
 
@@ -45,12 +45,12 @@ GPBoost 是以 C++ 为主实现的建模库，提供 Python 与 R 包及 C 接�
 ```mermaid
 xychart-beta
     title "fabsig/GPBoost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 701 --> 704
-    line [702, 703, 703]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 701 --> 705
+    line [702, 703, 704]
 ```
 
-2026-10-18 702 → 2026-10-27 703（+1）
+2026-10-18 702 → 2026-10-28 704（+2）
 
 
 ---

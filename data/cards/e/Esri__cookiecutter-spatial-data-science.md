@@ -45,12 +45,12 @@ Esri 维护的 Cookiecutter 模板，用于生成结合地理学与数据科学�
 ```mermaid
 xychart-beta
     title "Esri/cookiecutter-spatial-data-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 42（+0）
 
 
 ---

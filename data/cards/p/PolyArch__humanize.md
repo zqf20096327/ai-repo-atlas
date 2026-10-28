@@ -1,6 +1,6 @@
 # PolyArch/humanize
 
-⭐ 1,561 · Shell · 推送 2026-08-28 · [GitHub](https://github.com/PolyArch/humanize) · 组织维护
+⭐ 1,567 · Shell · 推送 2026-08-28 · [GitHub](https://github.com/PolyArch/humanize) · 组织维护
 
 **给开发者的 Claude Code 插件：AI 实现与独立评审的迭代循环**
 
@@ -45,13 +45,13 @@ Humanize 是一个 Claude Code 插件，提供 RLCR（Ralph-Loop with Codex Revi
 
 ```mermaid
 xychart-beta
-    title "PolyArch/humanize 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1519 --> 1564
-    line [1522, 1541, 1548, 1551, 1556, 1559, 1561]
+    title "PolyArch/humanize 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1518 --> 1571
+    line [1522, 1541, 1548, 1551, 1556, 1559, 1561, 1567]
 ```
 
-2026-10-18 1,522 → 2026-10-27 1,561（+39）
+2026-10-18 1,522 → 2026-10-28 1,567（+45）
 
 
 ---

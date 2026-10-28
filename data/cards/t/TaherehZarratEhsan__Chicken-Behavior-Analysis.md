@@ -1,6 +1,6 @@
 # TaherehZarratEhsan/Chicken-Behavior-Analysis
 
-⭐ 23 · C · 推送 2025-10-31 · [GitHub](https://github.com/TaherehZarratEhsan/Chicken-Behavior-Analysis) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用计算机视觉检测跟踪鸡只并分析行为的深度学习框架**
 

@@ -1,6 +1,6 @@
 # datalayer/jupyter-mcp-server
 
-⭐ 1,312 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/datalayer/jupyter-mcp-server) · [官网](https://jupyter-mcp-server.datalayer.tech) · 组织维护
+⭐ 1,313 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/datalayer/jupyter-mcp-server) · [官网](https://jupyter-mcp-server.datalayer.tech) · 组织维护
 
 **供 AI agent 实时连接与操作 Jupyter Notebook 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datalayer/jupyter-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1303 --> 1313
-    line [1304, 1306, 1309, 1312, 1311, 1312, 1312]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1303 --> 1314
+    line [1304, 1306, 1309, 1312, 1311, 1312, 1313]
 ```
 
-2026-10-18 1,304 → 2026-10-27 1,312（+8）
+2026-10-18 1,304 → 2026-10-28 1,313（+9）
 
 
 ---

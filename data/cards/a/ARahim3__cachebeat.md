@@ -1,6 +1,6 @@
 # ARahim3/cachebeat
 
-⭐ 83 · Shell · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ARahim3/cachebeat) · 个人维护
+⭐ 84 · Shell · MIT · 推送 2026-10-13 · [GitHub](https://github.com/ARahim3/cachebeat) · 个人维护
 
 **保持 Claude Code 会话提示缓存温热的小技能，降低闲置后返回成本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ARahim3/cachebeat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 70 --> 84
-    line [71, 72, 74, 77, 82, 83]
+    title "ARahim3/cachebeat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 70 --> 85
+    line [71, 72, 74, 77, 82, 83, 84]
 ```
 
-2026-10-18 71 → 2026-10-27 83（+12）
+2026-10-18 71 → 2026-10-28 84（+13）
 
 
 ---

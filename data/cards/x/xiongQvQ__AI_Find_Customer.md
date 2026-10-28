@@ -1,6 +1,6 @@
 # xiongQvQ/AI_Find_Customer
 
-⭐ 198 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/xiongQvQ/AI_Find_Customer) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
+⭐ 199 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/xiongQvQ/AI_Find_Customer) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
 
 **外贸 B2B 场景的 AI 客户挖掘与开发信自动化系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xiongQvQ/AI_Find_Customer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 192 --> 199
-    line [193, 195, 197, 198, 198]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 192 --> 200
+    line [193, 195, 197, 198, 199]
 ```
 
-2026-10-18 193 → 2026-10-27 198（+5）
+2026-10-18 193 → 2026-10-28 199（+6）
 
 
 ---

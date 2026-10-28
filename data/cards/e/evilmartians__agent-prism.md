@@ -1,6 +1,6 @@
 # evilmartians/agent-prism
 
-⭐ 403 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
+⭐ 404 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/evilmartians/agent-prism) · [官网](https://storybook.agent-prism.evilmartians.io/?utm_source=github&utm_medium=social) · 组织维护
 
 **可视化 AI agent 追踪数据的 React 组件库，用于调试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "evilmartians/agent-prism 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 397 --> 404
-    line [398, 401, 402, 403, 403]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 397 --> 405
+    line [398, 401, 402, 403, 404]
 ```
 
-2026-10-18 398 → 2026-10-27 403（+5）
+2026-10-18 398 → 2026-10-28 404（+6）
 
 
 ---

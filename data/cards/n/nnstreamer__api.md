@@ -41,12 +41,12 @@ nnstreamer/api 提供 Machine Learning API 的源码仓库，包含 C++ 的 SNAP
 ```mermaid
 xychart-beta
     title "nnstreamer/api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

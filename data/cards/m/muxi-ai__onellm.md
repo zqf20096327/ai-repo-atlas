@@ -1,6 +1,6 @@
 # muxi-ai/onellm
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/muxi-ai/onellm) · [官网](https://muxi.org) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/muxi-ai/onellm) · [官网](https://muxi.org) · 组织维护
 
 **统一接口接入多家 LLM 提供商的 Python 客户端库**
 
@@ -45,12 +45,12 @@ OneLLM 是一个 provider 无关的 Python 库，遵循 OpenAI 客户端 API 设
 ```mermaid
 xychart-beta
     title "muxi-ai/onellm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 52（+0）
 
 
 ---

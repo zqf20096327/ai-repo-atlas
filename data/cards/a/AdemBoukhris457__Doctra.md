@@ -1,6 +1,6 @@
 # AdemBoukhris457/Doctra
 
-⭐ 216 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-29 · [GitHub](https://github.com/AdemBoukhris457/Doctra) · [官网](https://ademboukhris457.github.io/Doctra/) · 个人维护 · 中文 README
+⭐ 214 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-29 · [GitHub](https://github.com/AdemBoukhris457/Doctra) · [官网](https://ademboukhris457.github.io/Doctra/) · 个人维护 · 中文 README
 
 **面向开发者的文档解析库：PDF/DOCX 提取 OCR 与结构化输出**
 
@@ -46,12 +46,12 @@ Python 库，提供多个解析器处理 PDF 与 DOCX：布局检测（PaddleOCR
 ```mermaid
 xychart-beta
     title "AdemBoukhris457/Doctra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 215 --> 217
-    line [216, 216]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 213 --> 217
+    line [216, 214]
 ```
 
-2026-10-18 216 → 2026-10-27 216（+0）
+2026-10-18 216 → 2026-10-28 214（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # homeassistant-ai/ha-mcp
 
-⭐ 5,277 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
+⭐ 5,303 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
 
 **让 AI 助手通过 MCP 自然语言控制 Home Assistant 的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "homeassistant-ai/ha-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5097 --> 5293
-    line [5113, 5138, 5160, 5178, 5184, 5198, 5233, 5277]
+    title "homeassistant-ai/ha-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5094 --> 5322
+    line [5113, 5138, 5160, 5178, 5184, 5198, 5233, 5277, 5303]
 ```
 
-2026-10-18 5,113 → 2026-10-27 5,277（+164）
+2026-10-18 5,113 → 2026-10-28 5,303（+190）
 
 
 ---

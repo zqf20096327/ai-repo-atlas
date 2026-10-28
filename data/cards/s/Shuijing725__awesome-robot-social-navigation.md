@@ -1,6 +1,6 @@
 # Shuijing725/awesome-robot-social-navigation
 
-⭐ 469 · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Shuijing725/awesome-robot-social-navigation) · 个人维护
+⭐ 470 · BSD-3-Clause · 推送 2026-08-31 · [GitHub](https://github.com/Shuijing725/awesome-robot-social-navigation) · 个人维护
 
 **机器人社交导航研究论文策展清单，面向科研人员**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Shuijing725/awesome-robot-social-navigation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 468 --> 470
-    line [469, 469]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 468 --> 471
+    line [469, 470]
 ```
 
-2026-10-18 469 → 2026-10-27 469（+0）
+2026-10-18 469 → 2026-10-28 470（+1）
 
 
 ---

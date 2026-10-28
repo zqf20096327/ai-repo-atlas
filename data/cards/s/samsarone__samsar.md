@@ -1,6 +1,6 @@
 # samsarone/samsar
 
-⭐ 59 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/samsarone/samsar) · [官网](https://www.samsar.one) · 组织维护
+⭐ 60 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/samsarone/samsar) · [官网](https://www.samsar.one) · 组织维护
 
 **生成式视频与媒体自动化平台：提示词/产品图生成成品视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samsarone/samsar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-10-27 59（+0）
+2026-10-18 59 → 2026-10-28 60（+1）
 
 
 ---

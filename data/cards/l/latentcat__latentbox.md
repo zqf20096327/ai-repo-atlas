@@ -1,6 +1,6 @@
 # latentcat/latentbox
 
-⭐ 2,308 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/latentcat/latentbox) · [官网](https://latentbox.com) · 组织维护 · 中文 README
+⭐ 2,309 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/latentcat/latentbox) · [官网](https://latentbox.com) · 组织维护 · 中文 README
 
 **AI、创意与艺术领域的精选资源聚合清单站**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "latentcat/latentbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2292 --> 2309
-    line [2293, 2297, 2301, 2305, 2308, 2308]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 2292 --> 2310
+    line [2293, 2297, 2301, 2305, 2308, 2309]
 ```
 
-2026-10-18 2,293 → 2026-10-27 2,308（+15）
+2026-10-18 2,293 → 2026-10-28 2,309（+16）
 
 
 ---

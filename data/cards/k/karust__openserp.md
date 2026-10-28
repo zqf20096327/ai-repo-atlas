@@ -1,6 +1,6 @@
 # karust/openserp
 
-⭐ 1,501 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/karust/openserp) · [官网](https://openserp.org) · 个人维护
+⭐ 1,509 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/karust/openserp) · [官网](https://openserp.org) · 个人维护
 
 **自托管的 SERP 搜索 API 与 CLI，供 LLM/Agent 检索用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "karust/openserp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1478 --> 1503
-    line [1480, 1486, 1492, 1497, 1499, 1501]
+    title "karust/openserp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1478 --> 1511
+    line [1480, 1486, 1492, 1497, 1499, 1501, 1509]
 ```
 
-2026-10-18 1,480 → 2026-10-27 1,501（+21）
+2026-10-18 1,480 → 2026-10-28 1,509（+29）
 
 
 ---

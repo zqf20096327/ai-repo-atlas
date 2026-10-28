@@ -1,6 +1,6 @@
 # babyvibe/deplao-builder
 
-⭐ 255 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/babyvibe/deplao-builder) · [官网](https://deplaoapp.com/) · 个人维护
+⭐ 256 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/babyvibe/deplao-builder) · [官网](https://deplaoapp.com/) · 个人维护
 
 **Zalo/Facebook/Telegram 多账号桌面运营平台：集 CRM、营销、POS、ERP、工作流与 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "babyvibe/deplao-builder 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 249 --> 256
-    line [250, 251, 254, 253, 254, 255]
+    title "babyvibe/deplao-builder 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 249 --> 257
+    line [250, 251, 254, 253, 254, 255, 256]
 ```
 
-2026-10-18 250 → 2026-10-27 255（+5）
+2026-10-18 250 → 2026-10-28 256（+6）
 
 
 ---

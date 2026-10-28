@@ -1,6 +1,6 @@
 # mistralai/platform-docs-public
 
-⭐ 75 · MDX · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mistralai/platform-docs-public) · [官网](https://platform-docs-public-mistral-ai.vercel.app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Mistral AI 官方 LLM 文档仓库：平台设置与 API 文档**
 
@@ -11,7 +11,7 @@ Mistral AI 维护的公开文档仓库，收录 Mistral LLM 平台设置与 API 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

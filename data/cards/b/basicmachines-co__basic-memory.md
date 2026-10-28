@@ -1,6 +1,6 @@
 # basicmachines-co/basic-memory
 
-⭐ 4,362 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/basicmachines-co/basic-memory) · [官网](https://basicmemory.com) · 组织维护
+⭐ 4,369 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/basicmachines-co/basic-memory) · [官网](https://basicmemory.com) · 组织维护
 
 **给 AI 客户端的本地优先 Markdown 知识记忆 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "basicmachines-co/basic-memory 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4247 --> 4372
-    line [4257, 4279, 4302, 4322, 4330, 4336, 4349, 4362]
+    title "basicmachines-co/basic-memory 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4246 --> 4380
+    line [4257, 4279, 4302, 4322, 4330, 4336, 4349, 4362, 4369]
 ```
 
-2026-10-18 4,257 → 2026-10-27 4,362（+105）
+2026-10-18 4,257 → 2026-10-28 4,369（+112）
 
 
 ---

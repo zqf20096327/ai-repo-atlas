@@ -1,6 +1,6 @@
 # yatsyk/awesome-byok-apps
 
-⭐ 40 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/yatsyk/awesome-byok-apps) · 个人维护
+⭐ 41 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/yatsyk/awesome-byok-apps) · 个人维护
 
 **BYOK（自带 API key）应用与 key 提供方策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yatsyk/awesome-byok-apps 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 34 --> 41
-    line [35, 36, 37, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 34 --> 42
+    line [35, 36, 37, 39, 40, 41]
 ```
 
-2026-10-18 35 → 2026-10-27 40（+5）
+2026-10-18 35 → 2026-10-28 41（+6）
 
 
 ---

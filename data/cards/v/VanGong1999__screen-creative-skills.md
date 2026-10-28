@@ -1,6 +1,6 @@
 # VanGong1999/screen-creative-skills
 
-⭐ 480 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/VanGong1999/screen-creative-skills) · 个人维护 · 中文 README
+⭐ 481 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/VanGong1999/screen-creative-skills) · 个人维护 · 中文 README
 
 **31 个影视创作评估策划 Agent Skills 合集，供 Claude Code/Cursor/Codex 使用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "VanGong1999/screen-creative-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 462 --> 481
-    line [463, 465, 469, 474, 475, 480]
+    title "VanGong1999/screen-creative-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 462 --> 482
+    line [463, 465, 469, 474, 475, 480, 481]
 ```
 
-2026-10-18 463 → 2026-10-27 480（+17）
+2026-10-18 463 → 2026-10-28 481（+18）
 
 
 ---

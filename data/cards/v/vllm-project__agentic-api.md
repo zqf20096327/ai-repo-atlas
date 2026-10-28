@@ -1,6 +1,6 @@
 # vllm-project/agentic-api
 
-⭐ 335 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/agentic-api) · [官网](https://vllm-project.github.io/agentic-api/) · 组织维护
+⭐ 336 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/agentic-api) · [官网](https://vllm-project.github.io/agentic-api/) · 组织维护
 
 **为 vLLM 等推理后端提供有状态 agentic API 的 Rust 网关**
 
@@ -45,13 +45,13 @@ Rust 编写的 API 网关，置于 vLLM 等上游推理服务之前，将 OpenAI
 
 ```mermaid
 xychart-beta
-    title "vllm-project/agentic-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 322 --> 336
-    line [323, 325, 329, 331, 333, 335]
+    title "vllm-project/agentic-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 322 --> 337
+    line [323, 325, 329, 331, 333, 335, 336]
 ```
 
-2026-10-18 323 → 2026-10-27 335（+12）
+2026-10-18 323 → 2026-10-28 336（+13）
 
 
 ---

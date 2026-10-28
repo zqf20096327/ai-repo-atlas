@@ -43,12 +43,12 @@ Genkit 官方维护的 Agent Skills 集合：为 AI 编码 agent 提供指令性
 ```mermaid
 xychart-beta
     title "genkit-ai/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

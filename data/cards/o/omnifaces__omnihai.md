@@ -1,6 +1,6 @@
 # omnifaces/omnihai
 
-⭐ 37 · Java · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/omnifaces/omnihai) · [官网](https://omnihai.org) · 组织维护
+⭐ 37 · Java · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/omnifaces/omnihai) · [官网](https://omnihai.org) · 组织维护
 
 **统一 Java API 接入多家 AI 提供商的工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omnifaces/omnihai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

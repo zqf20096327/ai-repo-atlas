@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_warp
 
-⭐ 1,582 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/mujoco_warp) · 组织维护
+⭐ 1,587 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/mujoco_warp) · 组织维护
 
 **面向 NVIDIA GPU 的 MuJoCo 物理仿真加速版，服务机器人研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/mujoco_warp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1558 --> 1584
-    line [1560, 1567, 1570, 1569, 1571, 1576, 1582]
+    title "google-deepmind/mujoco_warp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1558 --> 1589
+    line [1560, 1567, 1570, 1569, 1571, 1576, 1582, 1587]
 ```
 
-2026-10-18 1,560 → 2026-10-27 1,582（+22）
+2026-10-18 1,560 → 2026-10-28 1,587（+27）
 
 
 ---

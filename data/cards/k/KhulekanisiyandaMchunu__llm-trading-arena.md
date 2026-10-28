@@ -1,6 +1,6 @@
 # KhulekanisiyandaMchunu/llm-trading-arena
 
-⭐ 63 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/KhulekanisiyandaMchunu/llm-trading-arena) · 个人维护
+⭐ 65 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/KhulekanisiyandaMchunu/llm-trading-arena) · 个人维护
 
 **LLM 交易竞技场：自带模型用虚拟资金交易，公开全部推理**
 
@@ -46,12 +46,12 @@ wtfibought 是一个在线 LLM 交易竞技场 Web 应用：用户自带模型�
 ```mermaid
 xychart-beta
     title "KhulekanisiyandaMchunu/llm-trading-arena 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 62 --> 66
+    line [63, 65]
 ```
 
-2026-10-26 63 → 2026-10-27 63（+0）
+2026-10-26 63 → 2026-10-28 65（+2）
 
 
 ---

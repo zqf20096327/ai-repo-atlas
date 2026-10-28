@@ -1,6 +1,6 @@
 # modelscope/evalscope
 
-⭐ 3,594 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
+⭐ 3,598 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
 
 **ModelScope 社区的大模型评测与性能压测一站式框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/evalscope 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3553 --> 3597
-    line [3556, 3563, 3572, 3579, 3582, 3584, 3585, 3594]
+    title "modelscope/evalscope 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3552 --> 3602
+    line [3556, 3563, 3572, 3579, 3582, 3584, 3585, 3594, 3598]
 ```
 
-2026-10-18 3,556 → 2026-10-27 3,594（+38）
+2026-10-18 3,556 → 2026-10-28 3,598（+42）
 
 
 ---

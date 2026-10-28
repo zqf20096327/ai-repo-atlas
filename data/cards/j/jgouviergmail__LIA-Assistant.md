@@ -1,6 +1,6 @@
 # jgouviergmail/LIA-Assistant
 
-⭐ 76 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/jgouviergmail/LIA-Assistant) · [官网](https://lia.jeyswork.com/) · 个人维护
+⭐ 76 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/jgouviergmail/LIA-Assistant) · [官网](https://lia.jeyswork.com/) · 个人维护
 
 **可自托管的多用户个人 AI 助手 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jgouviergmail/LIA-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
     y-axis "stars" 73 --> 77
     line [74, 75, 76, 76]
 ```
 
-2026-10-18 74 → 2026-10-27 76（+2）
+2026-10-18 74 → 2026-10-28 76（+2）
 
 
 ---

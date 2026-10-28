@@ -1,6 +1,6 @@
 # jo-inc/pi-mem
 
-⭐ 78 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/jo-inc/pi-mem) · [官网](https://www.npmjs.com/package/@jo-inc/pi-mem) · 个人维护
+⭐ 79 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/jo-inc/pi-mem) · [官网](https://www.npmjs.com/package/@jo-inc/pi-mem) · 个人维护
 
 **为 AI 编程 agent 提供纯 Markdown 持久记忆的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jo-inc/pi-mem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-10-27 78（+0）
+2026-10-18 78 → 2026-10-28 79（+1）
 
 
 ---

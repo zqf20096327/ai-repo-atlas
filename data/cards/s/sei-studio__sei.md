@@ -1,6 +1,6 @@
 # sei-studio/sei
 
-⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/sei-studio/sei) · [官网](https://sei.gg) · 组织维护 · 中文 README
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/sei-studio/sei) · [官网](https://sei.gg) · 组织维护 · 中文 README
 
 **面向玩家的 AI 游戏陪伴应用：聊天、语音通话并一起玩**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sei-studio/sei 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 20 --> 25
     line [21, 22, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-10-27 24（+3）
+2026-10-18 21 → 2026-10-28 24（+3）
 
 
 ---

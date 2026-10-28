@@ -1,6 +1,6 @@
 # JeffDeCola/my-cheat-sheets
 
-⭐ 130 · Go · MIT · 推送 2026-06-08 · [GitHub](https://github.com/JeffDeCola/my-cheat-sheets) · 个人维护
+⭐ 129 · Go · MIT · 推送 2026-06-08 · [GitHub](https://github.com/JeffDeCola/my-cheat-sheets) · 个人维护
 
 **个人开发知识速查表合集：覆盖软件开发、ASIC/FPGA 与通识主题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JeffDeCola/my-cheat-sheets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 128 --> 131
+    line [130, 129]
 ```
 
-2026-10-18 130 → 2026-10-27 130（+0）
+2026-10-18 130 → 2026-10-28 129（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TheLastOxygen/mafdet
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/TheLastOxygen/mafdet) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TheLastOxygen/mafdet) · 个人维护
 
 **边打字边预读预思考的本地 LLM 聊天应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheLastOxygen/mafdet 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 12 --> 63
-    line [16, 39, 46, 53, 59]
+    title "TheLastOxygen/mafdet 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 12 --> 69
+    line [16, 39, 46, 53, 59, 65]
 ```
 
-2026-10-23 16 → 2026-10-27 59（+43）
+2026-10-23 16 → 2026-10-28 65（+49）
 
 
 ---

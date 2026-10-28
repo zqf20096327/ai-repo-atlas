@@ -1,6 +1,6 @@
 # czhou578/llm-god
 
-⭐ 285 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/czhou578/llm-god) · 个人维护
+⭐ 285 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/czhou578/llm-god) · 个人维护
 
 **同时向多个 LLM 网页界面发送同一提示的 Windows 桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "czhou578/llm-god 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 284 --> 287
     line [285, 286, 285, 285]
 ```
 
-2026-10-18 285 → 2026-10-27 285（+0）
+2026-10-18 285 → 2026-10-28 285（+0）
 
 
 ---

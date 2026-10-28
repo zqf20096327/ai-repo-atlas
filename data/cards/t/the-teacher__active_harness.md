@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-teacher/active_harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "the-teacher/active_harness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 108 --> 111
-    line [109, 110]
+    line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-10-27 110（+1）
+2026-10-18 109 → 2026-10-28 110（+1）
 
 
 ---

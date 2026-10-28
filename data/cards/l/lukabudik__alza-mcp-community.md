@@ -1,6 +1,6 @@
 # lukabudik/alza-mcp-community
 
-⭐ 91 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/lukabudik/alza-mcp-community) · [官网](https://github.com/lukabudik/alza-mcp) · 个人维护
+⭐ 92 · TypeScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/lukabudik/alza-mcp-community) · [官网](https://github.com/lukabudik/alza-mcp) · 个人维护
 
 **让 AI agent 在 Alza.cz 购物下单的非官方 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lukabudik/alza-mcp-community 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 83 --> 92
-    line [84, 85, 86, 88, 91]
+    title "lukabudik/alza-mcp-community 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 83 --> 93
+    line [84, 85, 86, 88, 91, 92]
 ```
 
-2026-10-18 84 → 2026-10-27 91（+7）
+2026-10-18 84 → 2026-10-28 92（+8）
 
 
 ---

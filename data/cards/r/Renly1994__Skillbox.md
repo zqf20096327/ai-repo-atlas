@@ -1,6 +1,6 @@
 # Renly1994/Skillbox
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Renly1994/Skillbox) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Renly1994/Skillbox) · 个人维护 · 中文 README
 
 **统一管理 46 种 AI 编码工具的 Skill 与 MCP 的桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Renly1994/Skillbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 30 --> 36
-    line [31, 32, 35]
+    title "Renly1994/Skillbox 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 30 --> 38
+    line [31, 32, 35, 37]
 ```
 
-2026-10-18 31 → 2026-10-27 35（+4）
+2026-10-18 31 → 2026-10-28 37（+6）
 
 
 ---

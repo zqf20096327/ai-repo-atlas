@@ -1,6 +1,6 @@
 # Blushyes/reef
 
-⭐ 84 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Blushyes/reef) · [官网](https://blushyes.github.io/reef-site) · 个人维护 · 中文 README
+⭐ 84 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Blushyes/reef) · [官网](https://blushyes.github.io/reef-site) · 个人维护 · 中文 README
 
 **面向 AI 编码时代的单二进制开发终端：浏览、审查、提交代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blushyes/reef 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-10-27 84（+1）
+2026-10-18 83 → 2026-10-28 84（+1）
 
 
 ---

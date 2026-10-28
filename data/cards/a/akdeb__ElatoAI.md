@@ -1,6 +1,6 @@
 # akdeb/ElatoAI
 
-⭐ 2,079 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 个人维护
+⭐ 2,083 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/akdeb/ElatoAI) · [官网](https://www.elatoai.com) · 个人维护
 
 **在 ESP32 上搭建实时语音 AI 的开源全栈方案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "akdeb/ElatoAI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2062 --> 2080
-    line [2063, 2066, 2072, 2074, 2077, 2078, 2079]
+    title "akdeb/ElatoAI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2061 --> 2085
+    line [2063, 2066, 2072, 2074, 2077, 2078, 2079, 2083]
 ```
 
-2026-10-18 2,063 → 2026-10-27 2,079（+16）
+2026-10-18 2,063 → 2026-10-28 2,083（+20）
 
 
 ---

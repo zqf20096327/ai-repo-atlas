@@ -1,6 +1,6 @@
 # jangtrinh/design-os-3d-blender
 
-⭐ 104 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/jangtrinh/design-os-3d-blender) · [官网](https://jangtrinh.github.io/design-os-3d-blender/) · 个人维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jangtrinh/design-os-3d-blender) · [官网](https://jangtrinh.github.io/design-os-3d-blender/) · 个人维护
 
 **供 AI 编码代理调用的 Blender 参数化 3D 机械零件生成技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangtrinh/design-os-3d-blender 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 95 --> 105
-    line [96, 102, 104]
+    title "jangtrinh/design-os-3d-blender 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 95 --> 107
+    line [96, 102, 104, 106]
 ```
 
-2026-10-18 96 → 2026-10-27 104（+8）
+2026-10-18 96 → 2026-10-28 106（+10）
 
 
 ---

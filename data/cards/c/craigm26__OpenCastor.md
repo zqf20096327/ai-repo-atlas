@@ -1,6 +1,6 @@
 # craigm26/OpenCastor
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/craigm26/OpenCastor) · [官网](https://opencastor.com) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/craigm26/OpenCastor) · [官网](https://opencastor.com) · 个人维护
 
 **开源机器人运行时：驱动、多提供商 AI 路由、车队管理与云桥**
 
@@ -46,12 +46,12 @@ OpenCastor 是一个开源机器人运行时（94,438 行 Python，7,334 测试�
 ```mermaid
 xychart-beta
     title "craigm26/OpenCastor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Masksembles 论文（CVPR 2021）的官方实现，以 pip 包形式提供用于
 ```mermaid
 xychart-beta
     title "nikitadurasov/masksembles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-27 105（+0）
+2026-10-18 105 → 2026-10-28 105（+0）
 
 
 ---

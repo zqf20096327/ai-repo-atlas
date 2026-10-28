@@ -1,6 +1,6 @@
 # Metaculus/forecasting-tools
 
-⭐ 87 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Metaculus/forecasting-tools) · 组织维护
+⭐ 87 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Metaculus/forecasting-tools) · 组织维护
 
 **构建 Metaculus AI 预测机器人的 Python 框架与预测工具集**
 
@@ -46,12 +46,12 @@ Metaculus 官方维护的预测工具框架：提供预置的 Forecasting Bot（
 ```mermaid
 xychart-beta
     title "Metaculus/forecasting-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 84 --> 88
     line [85, 86, 87, 87]
 ```
 
-2026-10-18 85 → 2026-10-27 87（+2）
+2026-10-18 85 → 2026-10-28 87（+2）
 
 
 ---

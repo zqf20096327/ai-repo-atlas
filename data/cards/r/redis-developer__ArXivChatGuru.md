@@ -1,6 +1,6 @@
 # redis-developer/ArXivChatGuru
 
-⭐ 562 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/redis-developer/ArXivChatGuru) · 组织维护
+⭐ 561 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/redis-developer/ArXivChatGuru) · 组织维护
 
 **面向 arXiv 论文的 RAG 问答演示应用（Streamlit+Redis）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "redis-developer/ArXivChatGuru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 561 --> 563
-    line [562, 562]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 560 --> 563
+    line [562, 561]
 ```
 
-2026-10-18 562 → 2026-10-27 562（+0）
+2026-10-18 562 → 2026-10-28 561（-1）
 
 
 ---

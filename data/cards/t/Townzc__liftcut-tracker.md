@@ -1,6 +1,6 @@
 # Townzc/liftcut-tracker
 
-⭐ 89 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Townzc/liftcut-tracker) · [官网](https://www.liftcuttracker.com/) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Townzc/liftcut-tracker) · [官网](https://www.liftcuttracker.com/) · 个人维护 · 中文 README
 
 **开源健身/饮食/身体数据追踪应用，带确认制的 AI 计划生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Townzc/liftcut-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-18 89 → 2026-10-27 89（+0）
+2026-10-18 89 → 2026-10-28 89（+0）
 
 
 ---

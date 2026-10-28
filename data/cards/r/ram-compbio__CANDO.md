@@ -1,6 +1,6 @@
 # ram-compbio/CANDO
 
-⭐ 43 · Python · BSD-3-Clause · 推送 2026-07-23 · [GitHub](https://github.com/ram-compbio/CANDO) · [官网](http://compbio.org/protinfo/cando) · 组织维护
+⭐ 44 · Python · BSD-3-Clause · 推送 2026-07-23 · [GitHub](https://github.com/ram-compbio/CANDO) · [官网](http://compbio.org/protinfo/cando) · 组织维护
 
 **多尺度药物发现、重定位与设计平台，供计算生物医学研究者使用**
 
@@ -45,12 +45,12 @@ CANDO 是一个面向治疗药物发现、重定位与设计的多尺度计算�
 ```mermaid
 xychart-beta
     title "ram-compbio/CANDO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 44（+1）
 
 
 ---

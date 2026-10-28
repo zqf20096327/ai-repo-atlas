@@ -1,6 +1,6 @@
 # drivendataorg/cookiecutter-data-science
 
-⭐ 10,113 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/drivendataorg/cookiecutter-data-science) · [官网](https://cookiecutter-data-science.drivendata.org/) · 组织维护
+⭐ 10,116 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/drivendataorg/cookiecutter-data-science) · [官网](https://cookiecutter-data-science.drivendata.org/) · 组织维护
 
 **数据科学项目模板生成工具：标准化项目结构脚手架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drivendataorg/cookiecutter-data-science 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10093 --> 10114
-    line [10094, 10097, 10104, 10106, 10108, 10109, 10110, 10113]
+    title "drivendataorg/cookiecutter-data-science 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10092 --> 10118
+    line [10094, 10097, 10104, 10106, 10108, 10109, 10110, 10113, 10116]
 ```
 
-2026-10-18 10,094 → 2026-10-27 10,113（+19）
+2026-10-18 10,094 → 2026-10-28 10,116（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # iBz-04/gloamy
 
-⭐ 69 · Rust · MIT · 推送 2026-10-05 · [GitHub](https://github.com/iBz-04/gloamy) · [官网](https://gloamy.co) · 个人维护
+⭐ 69 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/iBz-04/gloamy) · [官网](https://gloamy.co) · 个人维护
 
 **本地优先的安全个人 AI 代理，代用户执行任务**
 
@@ -46,12 +46,12 @@ Rust 编写的个人 agent 运行时：以 trait 化的子系统契约（Provide
 ```mermaid
 xychart-beta
     title "iBz-04/gloamy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 67 --> 70
     line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-10-27 69（+1）
+2026-10-18 68 → 2026-10-28 69（+1）
 
 
 ---

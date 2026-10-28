@@ -1,6 +1,6 @@
 # openlake-project/openlake
 
-⭐ 2,638 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
+⭐ 2,637 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/openlake-project/openlake) · 组织维护
 
 **面向 LLM 推理与 GPU 训练的高吞吐分布式存储引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openlake-project/openlake 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2637 --> 2643
-    line [2642, 2641, 2640, 2638, 2638]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 2636 --> 2643
+    line [2642, 2641, 2640, 2638, 2637]
 ```
 
-2026-10-18 2,642 → 2026-10-27 2,638（-4）
+2026-10-18 2,642 → 2026-10-28 2,637（-5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mondaycom/agent-tool-protocol
 
-⭐ 100 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mondaycom/agent-tool-protocol) · [官网](https://agenttoolprotocol.com) · 组织维护
+⭐ 101 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/mondaycom/agent-tool-protocol) · [官网](https://agenttoolprotocol.com) · 组织维护
 
 **让 AI agent 以沙箱代码执行方式调用外部系统的协议与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mondaycom/agent-tool-protocol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 99 --> 102
-    line [101, 100, 100]
+    line [101, 100, 101]
 ```
 
-2026-10-18 101 → 2026-10-27 100（-1）
+2026-10-18 101 → 2026-10-28 101（+0）
 
 
 ---

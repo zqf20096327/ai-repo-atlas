@@ -1,6 +1,6 @@
 # madox2/vim-ai
 
-⭐ 1,187 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/madox2/vim-ai) · 个人维护
+⭐ 1,188 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/madox2/vim-ai) · 个人维护
 
 **Vim/Neovim 的 AI 代码助手插件：补全、编辑、对话、生图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madox2/vim-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1185 --> 1188
-    line [1186, 1187, 1187]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 1185 --> 1189
+    line [1186, 1187, 1188]
 ```
 
-2026-10-18 1,186 → 2026-10-27 1,187（+1）
+2026-10-18 1,186 → 2026-10-28 1,188（+2）
 
 
 ---

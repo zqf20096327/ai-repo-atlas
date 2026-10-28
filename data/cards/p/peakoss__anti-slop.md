@@ -1,6 +1,6 @@
 # peakoss/anti-slop
 
-⭐ 848 · TypeScript · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/peakoss/anti-slop) · 组织维护
+⭐ 849 · TypeScript · AGPL-3.0 · 推送 2026-04-15 · [GitHub](https://github.com/peakoss/anti-slop) · 组织维护
 
 **检测并自动关闭低质量与 AI 垃圾 PR 的 GitHub Action**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peakoss/anti-slop 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 841 --> 849
-    line [844, 842, 844, 847, 848]
+    title "peakoss/anti-slop 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 841 --> 850
+    line [844, 842, 844, 847, 848, 849]
 ```
 
-2026-10-18 844 → 2026-10-27 848（+4）
+2026-10-18 844 → 2026-10-28 849（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # RafaelGodoyEbert/ViralCutter
 
-⭐ 435 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/RafaelGodoyEbert/ViralCutter) · 个人维护
+⭐ 438 · Python · GPL-3.0 · 推送 2026-09-10 · [GitHub](https://github.com/RafaelGodoyEbert/ViralCutter) · 个人维护
 
 **本地免费工具：把 YouTube 长视频剪成 TikTok/Reels 竖版短视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RafaelGodoyEbert/ViralCutter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 425 --> 436
-    line [426, 428, 430, 433, 435]
+    title "RafaelGodoyEbert/ViralCutter 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 425 --> 439
+    line [426, 428, 430, 433, 435, 438]
 ```
 
-2026-10-18 426 → 2026-10-27 435（+9）
+2026-10-18 426 → 2026-10-28 438（+12）
 
 
 ---

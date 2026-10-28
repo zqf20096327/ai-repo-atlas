@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-go
 
-⭐ 66 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agentscope-ai/agentscope-go) · 组织维护 · 中文 README
+⭐ 68 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/agentscope-ai/agentscope-go) · 组织维护 · 中文 README
 
 **Go 语言多智能体应用构建框架，面向 LLM agent 开发**
 
@@ -46,12 +46,12 @@ AgentScope 的 Go 实现，以 Go 接口、contexts 与 channels 实现 agent �
 ```mermaid
 xychart-beta
     title "agentscope-ai/agentscope-go 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 59 --> 67
-    line [60, 62, 64, 65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 59 --> 69
+    line [60, 62, 64, 65, 66, 68]
 ```
 
-2026-10-18 60 → 2026-10-27 66（+6）
+2026-10-18 60 → 2026-10-28 68（+8）
 
 
 ---

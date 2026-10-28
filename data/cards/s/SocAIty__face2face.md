@@ -1,6 +1,6 @@
 # SocAIty/face2face
 
-⭐ 157 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/SocAIty/face2face) · 组织维护
+⭐ 158 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/SocAIty/face2face) · 组织维护
 
 **图像/视频换脸 SDK 与 API 服务：换脸、人脸嵌入与画质增强**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SocAIty/face2face 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 155 --> 158
-    line [156, 157, 157]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 155 --> 159
+    line [156, 157, 158]
 ```
 
-2026-10-18 156 → 2026-10-27 157（+1）
+2026-10-18 156 → 2026-10-28 158（+2）
 
 
 ---

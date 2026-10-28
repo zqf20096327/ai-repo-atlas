@@ -1,6 +1,6 @@
 # nornzach/oh-my-pi-gui
 
-⭐ 94 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nornzach/oh-my-pi-gui) · [官网](https://nornzach.github.io/oh-my-pi-gui/) · 个人维护 · 中文 README
+⭐ 100 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nornzach/oh-my-pi-gui) · [官网](https://nornzach.github.io/oh-my-pi-gui/) · 个人维护 · 中文 README
 
 **omp 编码 Agent 的桌面 GUI：并行会话与工具调用可视化管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nornzach/oh-my-pi-gui 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 75 --> 95
-    line [76, 79, 84, 87, 90, 92, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 74 --> 102
+    line [76, 79, 84, 87, 90, 92, 94, 100]
 ```
 
-2026-10-18 76 → 2026-10-27 94（+18）
+2026-10-18 76 → 2026-10-28 100（+24）
 
 
 ---

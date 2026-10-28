@@ -1,6 +1,6 @@
 # jyjeanne/crustly
 
-⭐ 26 · Rust · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/jyjeanne/crustly) · [官网](https://crates.io/crates/crustly) · 个人维护
+⭐ 26 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/jyjeanne/crustly) · [官网](https://crates.io/crates/crustly) · 个人维护
 
 **终端 AI 编程助手：Rust 实现，支持本地 LLM 离线运行**
 
@@ -47,12 +47,12 @@ Rust 编写的终端 AI 编程助手，是 Crush 的重实现（自称 95%+ 功�
 ```mermaid
 xychart-beta
     title "jyjeanne/crustly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

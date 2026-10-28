@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MasuRii/FBScrapeIdeas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "MasuRii/FBScrapeIdeas 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 71 --> 74
-    line [72, 73]
+    line [72, 73, 73]
 ```
 
-2026-10-18 72 → 2026-10-27 73（+1）
+2026-10-18 72 → 2026-10-28 73（+1）
 
 
 ---

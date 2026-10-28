@@ -1,6 +1,6 @@
 # InternLM/SIM-CoT
 
-⭐ 219 · Python · Apache-2.0 · 推送 2026-04-13 · [GitHub](https://github.com/InternLM/SIM-CoT) · [官网](https://arxiv.org/pdf/2509.20317) · 组织维护 · 中文 README
+⭐ 219 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/InternLM/SIM-CoT) · [官网](https://arxiv.org/pdf/2509.20317) · 组织维护 · 中文 README
 
 **隐式思维链训练框架：用步级监督稳定潜在推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/SIM-CoT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "InternLM/SIM-CoT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 217 --> 220
-    line [218, 219]
+    line [218, 219, 219]
 ```
 
-2026-10-18 218 → 2026-10-27 219（+1）
+2026-10-18 218 → 2026-10-28 219（+1）
 
 
 ---

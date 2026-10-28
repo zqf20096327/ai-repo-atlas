@@ -1,6 +1,6 @@
 # coltonjosephdean-rgb/talk-to-anyone
 
-⭐ 67 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coltonjosephdean-rgb/talk-to-anyone) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coltonjosephdean-rgb/talk-to-anyone) · 个人维护
 
 **Claude Code 插件：把任意公众人物研究成教练人格并对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coltonjosephdean-rgb/talk-to-anyone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 66 --> 70
+    line [67, 69]
 ```
 
-2026-10-18 67 → 2026-10-27 67（+0）
+2026-10-18 67 → 2026-10-28 69（+2）
 
 
 ---

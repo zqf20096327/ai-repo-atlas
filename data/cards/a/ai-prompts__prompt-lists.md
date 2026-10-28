@@ -1,6 +1,6 @@
 # ai-prompts/prompt-lists
 
-⭐ 82 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ai-prompts/prompt-lists) · [官网](https://prompter.fofr.ai) · 个人维护
+⭐ 82 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/ai-prompts/prompt-lists) · [官网](https://prompter.fofr.ai) · 个人维护
 
 **为 AI 图像与媒体生成提供分类词汇列表的 npm 包**
 
@@ -44,12 +44,12 @@ npm 包 prompt-lists，内容为按类别组织的名词列表（如 animal.mamm
 ```mermaid
 xychart-beta
     title "ai-prompts/prompt-lists 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-27 82（+0）
+2026-10-18 82 → 2026-10-28 82（+0）
 
 
 ---

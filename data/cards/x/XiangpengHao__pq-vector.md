@@ -1,6 +1,6 @@
 # XiangpengHao/pq-vector
 
-⭐ 62 · Rust · 推送 2026-02-11 · [GitHub](https://github.com/XiangpengHao/pq-vector) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 向量检索库：索引存于 Parquet 文件内并用 DataFusion SQL 查询**
 

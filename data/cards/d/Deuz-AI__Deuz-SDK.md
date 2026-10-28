@@ -1,6 +1,6 @@
 # Deuz-AI/Deuz-SDK
 
-⭐ 519 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Deuz-AI/Deuz-SDK) · [官网](https://deuz-sdk.tech) · 个人维护
+⭐ 520 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Deuz-AI/Deuz-SDK) · [官网](https://deuz-sdk.tech) · 个人维护
 
 **零依赖 TypeScript AI Agent 框架：模型、Agent 与群体编排**
 
@@ -47,12 +47,12 @@ TypeScript AI SDK 与 agent 框架，核心零运行时依赖，支持 29 个模
 ```mermaid
 xychart-beta
     title "Deuz-AI/Deuz-SDK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 515 --> 567
-    line [563, 538, 519, 519]
+    line [563, 538, 519, 520]
 ```
 
-2026-10-18 563 → 2026-10-27 519（-44）
+2026-10-18 563 → 2026-10-28 520（-43）
 
 
 ---

@@ -1,6 +1,6 @@
 # ginlix-ai/LangAlpha
 
-⭐ 2,135 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ginlix-ai/LangAlpha) · [官网](https://langalpha.ai) · 组织维护 · 中文 README
+⭐ 2,145 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ginlix-ai/LangAlpha) · [官网](https://langalpha.ai) · 组织维护 · 中文 README
 
 **面向个人投资者的 AI agent 交易与研究工作台**
 
@@ -45,13 +45,13 @@ LangAlpha 是开源的 agentic trading harness：多 agent 并行做投研（读
 
 ```mermaid
 xychart-beta
-    title "ginlix-ai/LangAlpha 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1790 --> 2166
-    line [1821, 1826, 1850, 2009, 2054, 2077, 2121, 2135]
+    title "ginlix-ai/LangAlpha 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1789 --> 2177
+    line [1821, 1826, 1850, 2009, 2054, 2077, 2121, 2135, 2145]
 ```
 
-2026-10-18 1,821 → 2026-10-27 2,135（+314）
+2026-10-18 1,821 → 2026-10-28 2,145（+324）
 
 
 ---

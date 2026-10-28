@@ -45,12 +45,12 @@ AI Horde 去中心化众包 AI 平台的官方 worker 客户端：在本地 GPU 
 ```mermaid
 xychart-beta
     title "Haidra-Org/horde-worker-reGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 186 --> 188
     line [187, 187]
 ```
 
-2026-10-18 187 → 2026-10-27 187（+0）
+2026-10-18 187 → 2026-10-28 187（+0）
 
 
 ---

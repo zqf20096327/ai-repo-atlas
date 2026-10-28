@@ -1,6 +1,6 @@
 # NeuZhou/awesome-ai-anatomy
 
-⭐ 258 · D2 · MIT · 推送 2026-04-13 · [GitHub](https://github.com/NeuZhou/awesome-ai-anatomy) · [官网](https://neuzhou.github.io/awesome-ai-anatomy) · 个人维护 · 中文 README
+⭐ 257 · D2 · MIT · 推送 2026-04-13 · [GitHub](https://github.com/NeuZhou/awesome-ai-anatomy) · [官网](https://neuzhou.github.io/awesome-ai-anatomy) · 个人维护 · 中文 README
 
 **15+ 个 AI 编程 agent 的源码解剖清单与知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NeuZhou/awesome-ai-anatomy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 255 --> 259
-    line [256, 257, 258, 258]
+    line [256, 257, 258, 257]
 ```
 
-2026-10-18 256 → 2026-10-27 258（+2）
+2026-10-18 256 → 2026-10-28 257（+1）
 
 
 ---

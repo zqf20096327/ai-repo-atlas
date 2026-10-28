@@ -1,6 +1,6 @@
 # WeiboAI/VibeThinker
 
-⭐ 1,583 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/WeiboAI/VibeThinker) · 组织维护 · 中文 README
+⭐ 1,584 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/WeiboAI/VibeThinker) · 组织维护 · 中文 README
 
 **小参数推理语言模型（1.5B/3B）及配套训练方法与评测资源**
 
@@ -46,12 +46,12 @@ WeiboAI（微博）发布的推理模型仓库，包含 VibeThinker-1.5B 与 3B 
 ```mermaid
 xychart-beta
     title "WeiboAI/VibeThinker 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 1582 --> 1586
-    line [1583, 1585, 1584, 1583, 1583]
+    line [1583, 1585, 1584, 1583, 1584]
 ```
 
-2026-10-18 1,583 → 2026-10-27 1,583（+0）
+2026-10-18 1,583 → 2026-10-28 1,584（+1）
 
 
 ---

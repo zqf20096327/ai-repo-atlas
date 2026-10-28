@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "mirzayasirabdullahbaig07/Tumor-Detection-Model-Using-YOLOV11-And-SAM2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 53 --> 56
-    line [54, 55]
+    line [54, 55, 55]
 ```
 
-2026-10-18 54 → 2026-10-27 55（+1）
+2026-10-18 54 → 2026-10-28 55（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # healkeiser/fxhoudinimcp
 
-⭐ 372 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/healkeiser/fxhoudinimcp) · [官网](https://healkeiser.github.io/fxhoudinimcp/) · 个人维护
+⭐ 376 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/healkeiser/fxhoudinimcp) · [官网](https://healkeiser.github.io/fxhoudinimcp/) · 个人维护
 
 **让 AI 客户端通过 MCP 操作 SideFX Houdini 的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "healkeiser/fxhoudinimcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 346 --> 374
-    line [348, 353, 357, 361, 364, 369, 370, 372]
+    title "healkeiser/fxhoudinimcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 346 --> 378
+    line [348, 353, 357, 361, 364, 369, 370, 372, 376]
 ```
 
-2026-10-18 348 → 2026-10-27 372（+24）
+2026-10-18 348 → 2026-10-28 376（+28）
 
 
 ---

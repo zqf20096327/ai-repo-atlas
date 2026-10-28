@@ -1,6 +1,6 @@
 # tryAGI/LangChain.Providers
 
-⭐ 23 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tryAGI/LangChain.Providers) · [官网](https://tryagi.github.io/LangChain.Providers/) · 组织维护
+⭐ 23 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tryAGI/LangChain.Providers) · [官网](https://tryagi.github.io/LangChain.Providers/) · 组织维护
 
 **.NET 项目的 LLM 提供商抽象库，可独立于 LangChain.NET 使用**
 
@@ -43,12 +43,12 @@ LangChain.NET 项目的组成部分，提供与主项目分离的抽象层，不
 ```mermaid
 xychart-beta
     title "tryAGI/LangChain.Providers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

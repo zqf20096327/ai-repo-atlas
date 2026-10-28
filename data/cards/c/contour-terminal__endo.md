@@ -46,12 +46,12 @@ Endo 是运行于 Linux/macOS/Windows 的交互式 shell 与脚本语言，将 F
 ```mermaid
 xychart-beta
     title "contour-terminal/endo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 31（+0）
 
 
 ---

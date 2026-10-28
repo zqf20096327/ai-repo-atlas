@@ -1,6 +1,6 @@
 # timoncool/VibeVoice_ASR_portable_ru
 
-⭐ 41 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/timoncool/VibeVoice_ASR_portable_ru) · [官网](https://github.com/timoncool/VibeVoice_ASR_portable_ru/releases) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/timoncool/VibeVoice_ASR_portable_ru) · [官网](https://github.com/timoncool/VibeVoice_ASR_portable_ru/releases) · 个人维护
 
 **Windows 便携离线语音识别工具：微软 VibeVoice 模型音频转文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "timoncool/VibeVoice_ASR_portable_ru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 41（+0）
 
 
 ---

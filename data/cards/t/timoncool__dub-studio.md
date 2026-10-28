@@ -1,6 +1,6 @@
 # timoncool/dub-studio
 
-⭐ 222 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护 · 中文 README
+⭐ 227 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护 · 中文 README
 
 **Windows 本地 AI 视频配音工作室：克隆原声译制视频并本地化字幕画面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "timoncool/dub-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 177 --> 226
-    line [181, 201, 212, 218, 220, 221, 222]
+    title "timoncool/dub-studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 177 --> 231
+    line [181, 201, 212, 218, 220, 221, 222, 227]
 ```
 
-2026-10-18 181 → 2026-10-27 222（+41）
+2026-10-18 181 → 2026-10-28 227（+46）
 
 
 ---

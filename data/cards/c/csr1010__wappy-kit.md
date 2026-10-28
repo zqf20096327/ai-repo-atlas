@@ -1,6 +1,6 @@
 # csr1010/wappy-kit
 
-⭐ 147 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/csr1010/wappy-kit) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地优先的开源 WhatsApp AI agent SDK，自带模型与号码**
 
@@ -11,7 +11,7 @@ TypeScript 编写的 AI agent SDK，通过 npm create 脚手架生成可在本�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

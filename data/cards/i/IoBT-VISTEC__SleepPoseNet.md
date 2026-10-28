@@ -44,12 +44,12 @@ IEEE JBHI'2020 论文 SleepPoseNet 的配套仓库，发布两套 UWB 雷达睡�
 ```mermaid
 xychart-beta
     title "IoBT-VISTEC/SleepPoseNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

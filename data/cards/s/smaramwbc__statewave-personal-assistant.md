@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smaramwbc/statewave-personal-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "smaramwbc/statewave-personal-assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 25 --> 31
-    line [30, 28, 26]
+    line [30, 28, 26, 26]
 ```
 
-2026-10-18 30 → 2026-10-27 26（-4）
+2026-10-18 30 → 2026-10-28 26（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # FareedKhan-dev/timesfm-from-scratch
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/FareedKhan-dev/timesfm-from-scratch) · [官网](https://medium.com/@fareedkhandev/building-a-200m-parameter-time-series-forecasting-llm-from-scratch-a99ec624ba15) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-06-27 · [GitHub](https://github.com/FareedKhan-dev/timesfm-from-scratch) · [官网](https://medium.com/@fareedkhandev/building-a-200m-parameter-time-series-forecasting-llm-from-scratch-a99ec624ba15) · 个人维护
 
 **从零复现 Google TimesFM 并补齐未开源的预训练流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/timesfm-from-scratch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 26（+1）
 
 
 ---

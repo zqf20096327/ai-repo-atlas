@@ -1,6 +1,6 @@
 # damiansire/web-ar-molecule-lab
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/damiansire/web-ar-molecule-lab) · [官网](https://damiansire.github.io/web-ar-molecule-lab/) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/damiansire/web-ar-molecule-lab) · [官网](https://damiansire.github.io/web-ar-molecule-lab/) · 个人维护
 
 **浏览器化学实验游戏：语音与手部追踪拼合原子发现分子**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damiansire/web-ar-molecule-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

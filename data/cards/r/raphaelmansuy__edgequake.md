@@ -1,6 +1,6 @@
 # raphaelmansuy/edgequake
 
-⭐ 2,286 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/raphaelmansuy/edgequake) · [官网](https://edgequake.com) · 个人维护
+⭐ 2,286 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/raphaelmansuy/edgequake) · [官网](https://edgequake.com) · 个人维护
 
 **Rust 实现的 Graph-RAG 系统：文档转知识图谱并生成带来源回答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raphaelmansuy/edgequake 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 2268 --> 2287
     line [2269, 2275, 2279, 2281, 2282, 2285, 2286, 2286]
 ```
 
-2026-10-18 2,269 → 2026-10-27 2,286（+17）
+2026-10-18 2,269 → 2026-10-28 2,286（+17）
 
 
 ---

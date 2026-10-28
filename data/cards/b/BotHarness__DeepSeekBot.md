@@ -1,6 +1,6 @@
 # BotHarness/DeepSeekBot
 
-⭐ 338 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://tobs.app) · 组织维护 · 中文 README
+⭐ 358 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://tobs.app) · 组织维护 · 中文 README
 
 **运行在 DeepSeek Harness 上的个人 AI Bot 团队插件（GrokBot 平替）**
 
@@ -45,13 +45,13 @@ DeepSeekBot（DSB）是 BotHarness 维护的 MIT 开源插件，作为 GrokBot �
 
 ```mermaid
 xychart-beta
-    title "BotHarness/DeepSeekBot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 109 --> 358
-    line [129, 167, 201, 237, 262, 283, 309, 338]
+    title "BotHarness/DeepSeekBot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 107 --> 380
+    line [129, 167, 201, 237, 262, 283, 309, 338, 358]
 ```
 
-2026-10-18 129 → 2026-10-27 338（+209）
+2026-10-18 129 → 2026-10-28 358（+229）
 
 
 ---

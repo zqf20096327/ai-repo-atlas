@@ -1,6 +1,6 @@
 # kevinnie2003/LOMAssistant
 
-⭐ 84 · C# · 推送 2026-10-26 · [GitHub](https://github.com/kevinnie2003/LOMAssistant) · 个人维护 · 中文 README
+⭐ 96 · C# · 推送 2026-10-27 · [GitHub](https://github.com/kevinnie2003/LOMAssistant) · 个人维护 · 中文 README
 
 **《活侠传》全能游戏 Mod：AI 陪玩、剧情回顾与存档优化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kevinnie2003/LOMAssistant 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 83 --> 97
+    line [84, 96]
 ```
 
-2026-10-26 84 → 2026-10-27 84（+0）
+2026-10-26 84 → 2026-10-28 96（+12）
 
 
 ---

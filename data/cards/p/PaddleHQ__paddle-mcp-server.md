@@ -45,12 +45,12 @@ Paddle 官方提供的 Model Context Protocol（MCP）服务器，为 LLM 与 AI
 ```mermaid
 xychart-beta
     title "PaddleHQ/paddle-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-28 49（+0）
 
 
 ---

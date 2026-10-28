@@ -1,6 +1,6 @@
 # QuintinShaw/pi-dynamic-workflows
 
-⭐ 556 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/QuintinShaw/pi-dynamic-workflows) · [官网](https://quintinshaw.github.io/pi-dynamic-workflows/) · 个人维护
+⭐ 556 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/QuintinShaw/pi-dynamic-workflows) · [官网](https://quintinshaw.github.io/pi-dynamic-workflows/) · 个人维护
 
 **面向 Pi 编码助手的动态多子代理工作流编排扩展**
 
@@ -48,13 +48,13 @@ Pi（coding agent）的包，把单个提示转化为确定性 JavaScript 编排
 
 ```mermaid
 xychart-beta
-    title "QuintinShaw/pi-dynamic-workflows 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-27"]
+    title "QuintinShaw/pi-dynamic-workflows 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 554 --> 557
-    line [555, 556]
+    line [555, 556, 556]
 ```
 
-2026-10-25 555 → 2026-10-27 556（+1）
+2026-10-25 555 → 2026-10-28 556（+1）
 
 
 ---

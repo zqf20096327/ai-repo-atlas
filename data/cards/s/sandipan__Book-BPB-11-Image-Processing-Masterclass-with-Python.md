@@ -1,6 +1,6 @@
 # sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python) · [官网](https://www.amazon.com/Image-Processing-Masterclass-Python-Techniques/dp/9389898641/) · 个人维护
+⭐ 29 · Jupyter Notebook · MIT · 推送 2026-07-05 · [GitHub](https://github.com/sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python) · [官网](https://www.amazon.com/Image-Processing-Masterclass-Python-Techniques/dp/9389898641/) · 个人维护
 
 **图像处理图书配套代码库：60+问题的Python解法**
 
@@ -44,12 +44,12 @@ BPB 出版图书《Image Processing Masterclass with Python》的代码仓库，
 ```mermaid
 xychart-beta
     title "sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-27 28（+0）
+2026-10-18 28 → 2026-10-28 29（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # drawcms/drawcms
 
-⭐ 36 · TypeScript · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/drawcms/drawcms) · [官网](https://drawcms.com) · 组织维护
+⭐ 40 · TypeScript · AGPL-3.0 · 推送 2026-09-24 · [GitHub](https://github.com/drawcms/drawcms) · [官网](https://drawcms.com) · 组织维护
 
 **供人与 AI agent 共同绘制的动画技术图编辑器（WebMCP）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "drawcms/drawcms 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 26 --> 37
-    line [27, 29, 30, 32, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 26 --> 41
+    line [27, 29, 30, 32, 35, 36, 40]
 ```
 
-2026-10-18 27 → 2026-10-27 36（+9）
+2026-10-18 27 → 2026-10-28 40（+13）
 
 
 ---

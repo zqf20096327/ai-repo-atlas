@@ -1,6 +1,6 @@
 # samchon/ttsc
 
-⭐ 361 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samchon/ttsc) · [官网](https://ttsc.dev/) · 个人维护
+⭐ 362 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/samchon/ttsc) · [官网](https://ttsc.dev/) · 个人维护
 
 **TypeScript 工具链：tsc 替代品，含类型检查执行、lint、证据图与 MCP 代码图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samchon/ttsc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 358 --> 362
-    line [359, 360, 361, 361]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 358 --> 363
+    line [359, 360, 361, 362]
 ```
 
-2026-10-18 359 → 2026-10-27 361（+2）
+2026-10-18 359 → 2026-10-28 362（+3）
 
 
 ---

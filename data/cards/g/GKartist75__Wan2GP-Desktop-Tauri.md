@@ -1,6 +1,6 @@
 # GKartist75/Wan2GP-Desktop-Tauri
 
-⭐ 54 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/GKartist75/Wan2GP-Desktop-Tauri) · 个人维护
+⭐ 56 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GKartist75/Wan2GP-Desktop-Tauri) · 个人维护
 
 **给创作者的一键安装 Wan2GP 桌面启动器，免 Python/CUDA 环境搭建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GKartist75/Wan2GP-Desktop-Tauri 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 53 --> 57
+    line [54, 56]
 ```
 
-2026-10-26 54 → 2026-10-27 54（+0）
+2026-10-26 54 → 2026-10-28 56（+2）
 
 
 ---

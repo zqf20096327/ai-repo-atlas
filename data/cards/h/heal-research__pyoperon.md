@@ -45,12 +45,12 @@ Operon 是 Heal-Research（奥地利上奥地利应用科学大学）开发的 C
 ```mermaid
 xychart-beta
     title "heal-research/pyoperon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-27 83（+0）
+2026-10-18 83 → 2026-10-28 83（+0）
 
 
 ---

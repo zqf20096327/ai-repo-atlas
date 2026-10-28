@@ -1,6 +1,6 @@
 # imfeh2/fora
 
-⭐ 318 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/imfeh2/fora) · 个人维护
+⭐ 318 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/imfeh2/fora) · 个人维护
 
 **自托管多 agent 组织的运行时（Web 访问配置）**
 
@@ -45,12 +45,12 @@ Fora 是一个自运行 agent 组织（organization of agents）的工具，提�
 ```mermaid
 xychart-beta
     title "imfeh2/fora 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 317 --> 321
     line [319, 320, 319, 318, 318]
 ```
 
-2026-10-18 319 → 2026-10-27 318（-1）
+2026-10-18 319 → 2026-10-28 318（-1）
 
 
 ---

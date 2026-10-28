@@ -1,6 +1,6 @@
 # KeWang0622/agent-zero-to-hero
 
-⭐ 55 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/KeWang0622/agent-zero-to-hero) · [官网](https://github.com/KeWang0622/agent-zero-to-hero) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/KeWang0622/agent-zero-to-hero) · [官网](https://github.com/KeWang0622/agent-zero-to-hero) · 个人维护
 
 **7 周 20 章课程：用纯 Python 从零实现 Claude Code 式 agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KeWang0622/agent-zero-to-hero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-27 55（+0）
+2026-10-18 55 → 2026-10-28 55（+0）
 
 
 ---

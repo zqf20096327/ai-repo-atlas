@@ -1,6 +1,6 @@
 # zhixuli0406/DuDuClaw
 
-⭐ 50 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zhixuli0406/DuDuClaw) · [官网](https://duduclaw.dudustudio.monster/) · 组织维护 · 中文 README
+⭐ 50 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zhixuli0406/DuDuClaw) · [官网](https://duduclaw.dudustudio.monster/) · 组织维护 · 中文 README
 
 **把 AI 编程 CLI 变成接入 11 个聊天平台的常驻 AI 员工网关**
 
@@ -46,12 +46,12 @@ Rust 单二进制自托管网关，把 Claude Code、Codex 等 12 种 AI CLI 运
 ```mermaid
 xychart-beta
     title "zhixuli0406/DuDuClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 48 --> 51
     line [49, 50, 50]
 ```
 
-2026-10-18 49 → 2026-10-27 50（+1）
+2026-10-18 49 → 2026-10-28 50（+1）
 
 
 ---

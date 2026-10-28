@@ -1,6 +1,6 @@
 # Andrew-Jang/RAGHub
 
-⭐ 2,018 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Andrew-Jang/RAGHub) · 个人维护
+⭐ 2,019 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/Andrew-Jang/RAGHub) · 个人维护
 
 **社区驱动的 RAG 框架与工具目录清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Andrew-Jang/RAGHub 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 2013 --> 2019
-    line [2015, 2014, 2015, 2018]
+    title "Andrew-Jang/RAGHub 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2013 --> 2020
+    line [2015, 2014, 2015, 2018, 2019]
 ```
 
-2026-10-18 2,015 → 2026-10-27 2,018（+3）
+2026-10-18 2,015 → 2026-10-28 2,019（+4）
 
 
 ---

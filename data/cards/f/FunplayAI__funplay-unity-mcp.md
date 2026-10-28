@@ -44,13 +44,13 @@ MIT 许可的 Unity Editor 专用 MCP 服务器（Unity 2022.3+，仅编辑器�
 
 ```mermaid
 xychart-beta
-    title "FunplayAI/funplay-unity-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    title "FunplayAI/funplay-unity-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 264 --> 269
-    line [265, 267, 268]
+    line [265, 267, 268, 268]
 ```
 
-2026-10-18 265 → 2026-10-27 268（+3）
+2026-10-18 265 → 2026-10-28 268（+3）
 
 
 ---

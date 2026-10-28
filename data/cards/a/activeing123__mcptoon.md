@@ -1,6 +1,6 @@
 # activeing123/mcptoon
 
-⭐ 396 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/activeing123/mcptoon) · [官网](https://mcptoon.github.io/) · 个人维护 · 中文 README
+⭐ 400 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/activeing123/mcptoon) · [官网](https://mcptoon.github.io/) · 个人维护 · 中文 README
 
 **零依赖 CLI：统一管理 MCP 工具与技能，压缩上下文占用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "activeing123/mcptoon 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 207 --> 413
-    line [224, 344, 367, 377, 382, 389, 396]
+    title "activeing123/mcptoon 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 207 --> 417
+    line [224, 344, 367, 377, 382, 389, 396, 400]
 ```
 
-2026-10-18 224 → 2026-10-27 396（+172）
+2026-10-18 224 → 2026-10-28 400（+176）
 
 
 ---

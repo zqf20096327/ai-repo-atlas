@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RenderTool/infinite-canvas-zeroexo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "RenderTool/infinite-canvas-zeroexo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 37 --> 41
-    line [40, 39, 38]
+    line [40, 39, 38, 38]
 ```
 
-2026-10-18 40 → 2026-10-27 38（-2）
+2026-10-18 40 → 2026-10-28 38（-2）
 
 
 ---

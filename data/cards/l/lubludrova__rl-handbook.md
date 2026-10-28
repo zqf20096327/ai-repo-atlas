@@ -1,6 +1,6 @@
 # lubludrova/rl-handbook
 
-⭐ 226 · MDX · MIT · 推送 2026-10-23 · [GitHub](https://github.com/lubludrova/rl-handbook) · [官网](https://rl-handbook.com) · 个人维护 · 中文 README
+⭐ 229 · MDX · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lubludrova/rl-handbook) · [官网](https://rl-handbook.com) · 个人维护 · 中文 README
 
 **强化学习与序贯决策的开放手册：从入门到进阶**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lubludrova/rl-handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 223 --> 227
-    line [224, 225, 226, 226]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 223 --> 230
+    line [224, 225, 226, 229]
 ```
 
-2026-10-18 224 → 2026-10-27 226（+2）
+2026-10-18 224 → 2026-10-28 229（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # SnowWarri0r/licai
 
-⭐ 59 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/SnowWarri0r/licai) · 个人维护 · 中文 README
+⭐ 59 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SnowWarri0r/licai) · 个人维护 · 中文 README
 
 **本地化个人理财助手：全资产看板 + 市场AI问答**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnowWarri0r/licai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    title "SnowWarri0r/licai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 56 --> 60
-    line [57, 58, 57, 58, 59]
+    line [57, 58, 57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-10-27 59（+2）
+2026-10-18 57 → 2026-10-28 59（+2）
 
 
 ---

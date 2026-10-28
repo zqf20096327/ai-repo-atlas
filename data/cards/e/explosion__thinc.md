@@ -1,6 +1,6 @@
 # explosion/thinc
 
-⭐ 2,891 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/explosion/thinc) · [官网](https://thinc.ai) · 组织维护
+⭐ 2,890 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/explosion/thinc) · [官网](https://thinc.ai) · 组织维护
 
 **面向开发者的函数式深度学习库，可组合 PyTorch/TensorFlow/MXNet 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "explosion/thinc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2890 --> 2892
-    line [2891, 2891]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2889 --> 2892
+    line [2891, 2890]
 ```
 
-2026-10-18 2,891 → 2026-10-27 2,891（+0）
+2026-10-18 2,891 → 2026-10-28 2,890（-1）
 
 
 ---

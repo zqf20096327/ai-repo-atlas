@@ -1,6 +1,6 @@
 # dfci/matchminer-ai-inference
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dfci/matchminer-ai-inference) · [官网](https://doi.org/10.48550/arXiv.2412.17228 ) · 组织维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dfci/matchminer-ai-inference) · [官网](https://doi.org/10.48550/arXiv.2412.17228 ) · 组织维护
 
 **癌症临床试验匹配的推断工作流 Python 包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dfci/matchminer-ai-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

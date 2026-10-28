@@ -1,6 +1,6 @@
 # allient/create-fastapi-project
 
-⭐ 123 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/allient/create-fastapi-project) · [官网](https://pypi.org/project/create-fastapi-project) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-03-09 · [GitHub](https://github.com/allient/create-fastapi-project) · [官网](https://pypi.org/project/create-fastapi-project) · 组织维护
 
 **交互式 CLI：快速生成 FastAPI 项目脚手架（含 LangChain 模板）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "allient/create-fastapi-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 121 --> 124
+    line [123, 122]
 ```
 
-2026-10-18 123 → 2026-10-27 123（+0）
+2026-10-18 123 → 2026-10-28 122（-1）
 
 
 ---

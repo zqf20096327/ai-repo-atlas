@@ -1,6 +1,6 @@
 # tryAGI/Ollama
 
-⭐ 209 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/Ollama) · [官网](https://tryagi.github.io/Ollama/) · 组织维护
+⭐ 208 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tryAGI/Ollama) · [官网](https://tryagi.github.io/Ollama/) · 组织维护
 
 **面向 .NET 开发者的 Ollama 官方风格 SDK，接入本地 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tryAGI/Ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 208 --> 210
-    line [209, 209]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 207 --> 210
+    line [209, 208]
 ```
 
-2026-10-18 209 → 2026-10-27 209（+0）
+2026-10-18 209 → 2026-10-28 208（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # caido/skills
 
-⭐ 285 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/caido/skills) · 组织维护
+⭐ 285 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/caido/skills) · 组织维护
 
 **Caido 官方 AI 技能集：让 agent 操作 Caido 安全测试平台**
 
@@ -43,12 +43,12 @@ Caido 官方维护的 AI 技能集合，供 agent 与 Caido（Web 安全测试�
 ```mermaid
 xychart-beta
     title "caido/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 281 --> 286
     line [282, 283, 285, 285]
 ```
 
-2026-10-18 282 → 2026-10-27 285（+3）
+2026-10-18 282 → 2026-10-28 285（+3）
 
 
 ---

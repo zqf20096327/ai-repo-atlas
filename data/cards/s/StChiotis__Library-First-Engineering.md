@@ -1,6 +1,6 @@
 # StChiotis/Library-First-Engineering
 
-⭐ 46 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/StChiotis/Library-First-Engineering) · [官网](https://github.com/StChiotis/Library-First-Engineering#-what-is-library-first-engineering) · 个人维护
+⭐ 45 · MIT · 推送 2026-07-14 · [GitHub](https://github.com/StChiotis/Library-First-Engineering) · [官网](https://github.com/StChiotis/Library-First-Engineering#-what-is-library-first-engineering) · 个人维护
 
 **文件驱动的 AI agent 协作流程框架：用结构化流水线约束 AI 编码**
 
@@ -45,12 +45,12 @@ Library-First Engineering（LFE）是一个面向 AI 辅助软件开发的流程
 ```mermaid
 xychart-beta
     title "StChiotis/Library-First-Engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 44 --> 47
+    line [46, 45]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 45（-1）
 
 
 ---

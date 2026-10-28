@@ -1,6 +1,6 @@
 # chengrouter/chengos
 
-⭐ 345 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/chengrouter/chengos) · [官网](https://chengos.dev) · 组织维护 · 中文 README
+⭐ 347 · Shell · 推送 2026-10-26 · [GitHub](https://github.com/chengrouter/chengos) · [官网](https://chengos.dev) · 组织维护 · 中文 README
 
 **可视化 AI 工作流与智能体构建/运行/发布平台**
 
@@ -44,13 +44,13 @@ ChengOS 整合 Rust 工作流引擎、浏览器端可视化编辑器、多渠道
 
 ```mermaid
 xychart-beta
-    title "chengrouter/chengos 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 326 --> 346
-    line [327, 331, 336, 341, 345, 342, 343, 345]
+    title "chengrouter/chengos 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 325 --> 349
+    line [327, 331, 336, 341, 345, 342, 343, 345, 347]
 ```
 
-2026-10-18 327 → 2026-10-27 345（+18）
+2026-10-18 327 → 2026-10-28 347（+20）
 
 
 ---

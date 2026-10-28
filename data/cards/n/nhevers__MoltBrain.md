@@ -1,6 +1,6 @@
 # nhevers/MoltBrain
 
-⭐ 252 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/nhevers/MoltBrain) · 个人维护
+⭐ 253 · TypeScript · NOASSERTION · 推送 2026-03-25 · [GitHub](https://github.com/nhevers/MoltBrain) · 个人维护
 
 **为 Claude Code/OpenClaw 等 agent 提供长期记忆层的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nhevers/MoltBrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 251 --> 253
-    line [252, 252]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 251 --> 254
+    line [252, 253]
 ```
 
-2026-10-18 252 → 2026-10-27 252（+0）
+2026-10-18 252 → 2026-10-28 253（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aaronnat23/disp8ch
 
-⭐ 99 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/aaronnat23/disp8ch) · 个人维护
+⭐ 98 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/aaronnat23/disp8ch) · 个人维护
 
 **本地优先的自托管 AI 工作区：对话驱动工作流与多智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aaronnat23/disp8ch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 98 --> 101
-    line [100, 99, 99]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 97 --> 101
+    line [100, 99, 98]
 ```
 
-2026-10-18 100 → 2026-10-27 99（-1）
+2026-10-18 100 → 2026-10-28 98（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhikunqingtao/zhikuncode
 
-⭐ 529 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zhikunqingtao/zhikuncode) · [官网](https://zhikunqingtao.github.io/zhikuncode/) · 个人维护 · 中文 README
+⭐ 531 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zhikunqingtao/zhikuncode) · [官网](https://zhikunqingtao.github.io/zhikuncode/) · 个人维护 · 中文 README
 
 **自托管开源 AI 编程助手：浏览器/CLI 双入口完成长程任务**
 
@@ -44,13 +44,13 @@ Docker 自托管的 AI 编程助手，由 Java Agent Runtime、React 前端与 P
 
 ```mermaid
 xychart-beta
-    title "zhikunqingtao/zhikuncode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 520 --> 530
-    line [521, 524, 527, 528, 529]
+    title "zhikunqingtao/zhikuncode 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 520 --> 532
+    line [521, 524, 527, 528, 529, 531]
 ```
 
-2026-10-18 521 → 2026-10-27 529（+8）
+2026-10-18 521 → 2026-10-28 531（+10）
 
 
 ---

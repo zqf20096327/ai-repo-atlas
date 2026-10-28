@@ -1,6 +1,6 @@
 # hoolulu/deep-research
 
-⭐ 604 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/hoolulu/deep-research) · [官网](https://www.h33.top) · 个人维护 · 中文 README
+⭐ 605 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/hoolulu/deep-research) · [官网](https://www.h33.top) · 个人维护 · 中文 README
 
 **面向 AI 编程工具的深度调研报告生成 Skill，一条命令产出报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hoolulu/deep-research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 602 --> 606
-    line [604, 603, 605, 604, 604]
+    line [604, 603, 605, 604, 605]
 ```
 
-2026-10-18 604 → 2026-10-27 604（+0）
+2026-10-18 604 → 2026-10-28 605（+1）
 
 
 ---

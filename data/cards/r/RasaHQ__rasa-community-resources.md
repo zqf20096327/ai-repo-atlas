@@ -1,6 +1,6 @@
 # RasaHQ/rasa-community-resources
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/RasaHQ/rasa-community-resources) · [官网](https://rasa.community/) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/RasaHQ/rasa-community-resources) · [官网](https://rasa.community/) · 组织维护
 
 **Rasa agent 开发者的教程、示例项目与参考代码合集**
 
@@ -45,12 +45,12 @@ rasa.community 的代码配套仓库：收录可完整运行的教程、克隆�
 ```mermaid
 xychart-beta
     title "RasaHQ/rasa-community-resources 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 40 --> 45
     line [41, 42, 43, 44, 44]
 ```
 
-2026-10-18 41 → 2026-10-27 44（+3）
+2026-10-18 41 → 2026-10-28 44（+3）
 
 
 ---

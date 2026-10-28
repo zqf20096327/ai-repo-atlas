@@ -1,6 +1,6 @@
 # ahmedkhaleel2004/gitdiagram
 
-⭐ 18,499 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
+⭐ 18,534 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ahmedkhaleel2004/gitdiagram) · [官网](https://gitdiagram.com) · 个人维护
 
 **把 GitHub 仓库转成交互式架构图与一分钟讲解视频**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahmedkhaleel2004/gitdiagram 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 18273 --> 18519
-    line [18293, 18323, 18362, 18386, 18407, 18447, 18467, 18499]
+    title "ahmedkhaleel2004/gitdiagram 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18269 --> 18558
+    line [18293, 18323, 18362, 18386, 18407, 18447, 18467, 18499, 18534]
 ```
 
-2026-10-18 18,293 → 2026-10-27 18,499（+206）
+2026-10-18 18,293 → 2026-10-28 18,534（+241）
 
 
 ---

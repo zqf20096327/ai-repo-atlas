@@ -1,6 +1,6 @@
 # marimo-team/marimo-pair
 
-⭐ 429 · Shell · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/marimo-team/marimo-pair) · 组织维护
+⭐ 430 · Shell · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/marimo-team/marimo-pair) · 组织维护
 
 **让 agent 接入运行中 marimo 笔记本会话的技能/插件**
 
@@ -43,12 +43,12 @@ marimo 团队发布的 agent 技能包与 Claude Code 插件，把响应式 Pyth
 ```mermaid
 xychart-beta
     title "marimo-team/marimo-pair 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 427 --> 430
-    line [428, 429, 429]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 427 --> 431
+    line [428, 429, 430]
 ```
 
-2026-10-18 428 → 2026-10-27 429（+1）
+2026-10-18 428 → 2026-10-28 430（+2）
 
 
 ---

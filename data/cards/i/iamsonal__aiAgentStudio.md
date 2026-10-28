@@ -45,13 +45,13 @@ Pluto 是在 Salesforce 平台内运行 AI agent 的引擎套件，以解锁包�
 
 ```mermaid
 xychart-beta
-    title "iamsonal/aiAgentStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "iamsonal/aiAgentStudio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 86 --> 90
-    line [87, 89]
+    line [87, 89, 89]
 ```
 
-2026-10-18 87 → 2026-10-27 89（+2）
+2026-10-18 87 → 2026-10-28 89（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # psinetron/echoes-vault-opencode
 
-⭐ 158 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/psinetron/echoes-vault-opencode) · [官网](https://www.npmjs.com/package/echoes-vault-opencode) · 个人维护
+⭐ 159 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/psinetron/echoes-vault-opencode) · [官网](https://www.npmjs.com/package/echoes-vault-opencode) · 个人维护
 
 **OpenCode 插件：为 agent 提供跨会话的项目本地 Markdown 记忆库**
 
@@ -45,12 +45,12 @@ EchoesVault 的 OpenCode 适配器：将架构决策、验证过的修复、每�
 ```mermaid
 xychart-beta
     title "psinetron/echoes-vault-opencode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 157 --> 160
+    line [158, 159]
 ```
 
-2026-10-18 158 → 2026-10-27 158（+0）
+2026-10-18 158 → 2026-10-28 159（+1）
 
 
 ---

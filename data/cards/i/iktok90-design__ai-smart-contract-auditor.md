@@ -1,6 +1,6 @@
 # iktok90-design/ai-smart-contract-auditor
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/iktok90-design/ai-smart-contract-auditor) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/iktok90-design/ai-smart-contract-auditor) · 组织维护
 
 **面向 Claude Code 的智能合约安全审计插件**
 
@@ -46,12 +46,12 @@ AuditSentry 是运行于 Claude Code 的安全审计工具，通过 13 个 MCP �
 ```mermaid
 xychart-beta
     title "iktok90-design/ai-smart-contract-auditor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    line [37, 36, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 36（-1）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # caura-ai/caura-build-fleet
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-build-fleet) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/caura-ai/caura-build-fleet) · 组织维护
 
 **多 Agent 共享记忆流水线参考实现：5 专家经 MCP 传递约束**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caura-ai/caura-build-fleet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 31 --> 34
+    line [33, 32]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 32（-1）
 
 
 ---

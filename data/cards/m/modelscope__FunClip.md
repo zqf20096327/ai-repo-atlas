@@ -1,6 +1,6 @@
 # modelscope/FunClip
 
-⭐ 6,459 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/modelscope/FunClip) · [官网](https://huggingface.co/spaces/FunAudioLLM/FunClip) · 组织维护 · 中文 README
+⭐ 6,463 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/modelscope/FunClip) · [官网](https://huggingface.co/spaces/FunAudioLLM/FunClip) · 组织维护 · 中文 README
 
 **本地部署的视频转写、字幕与 LLM 剪辑工具（Gradio UI）**
 
@@ -44,13 +44,13 @@ FunClip 是开源、本地部署的自动化视频剪辑工具：调用 FunASR �
 
 ```mermaid
 xychart-beta
-    title "modelscope/FunClip 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6401 --> 6464
-    line [6406, 6421, 6433, 6438, 6443, 6448, 6449, 6459]
+    title "modelscope/FunClip 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6401 --> 6468
+    line [6406, 6421, 6433, 6438, 6443, 6448, 6449, 6459, 6463]
 ```
 
-2026-10-18 6,406 → 2026-10-27 6,459（+53）
+2026-10-18 6,406 → 2026-10-28 6,463（+57）
 
 
 ---

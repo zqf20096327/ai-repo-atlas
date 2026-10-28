@@ -43,12 +43,12 @@ Radiant Earth 维护的协作仓库，用于组织代码项目冲刺、黑客松
 ```mermaid
 xychart-beta
     title "radiantearth/community-sprints 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # chenxiachan/textfold
 
-⭐ 732 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
+⭐ 770 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
 
 **把论文、网页、文件与 AI 回复折叠为五级详略的本地阅读器**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenxiachan/textfold 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 292 --> 772
-    line [332, 380, 405, 430, 467, 516, 668, 732]
+    title "chenxiachan/textfold 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 289 --> 813
+    line [332, 380, 405, 430, 467, 516, 668, 732, 770]
 ```
 
-2026-10-18 332 → 2026-10-27 732（+400）
+2026-10-18 332 → 2026-10-28 770（+438）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fh2019ustc/Awesome-Document-Image-Rectification 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "fh2019ustc/Awesome-Document-Image-Rectification 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 569 --> 574
-    line [570, 571, 572, 573]
+    line [570, 571, 572, 573, 573]
 ```
 
-2026-10-18 570 → 2026-10-27 573（+3）
+2026-10-18 570 → 2026-10-28 573（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Takeh1ko/GeoFree
 
-⭐ 70 · Shell · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Takeh1ko/GeoFree) · 个人维护
+⭐ 69 · Shell · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Takeh1ko/GeoFree) · 个人维护
 
 **修改 hosts 文件解锁 ChatGPT 等 AI 服务的 DNS 脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Takeh1ko/GeoFree 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 68 --> 72
-    line [69, 70, 71, 70, 70]
+    line [69, 70, 71, 70, 69]
 ```
 
-2026-10-18 69 → 2026-10-27 70（+1）
+2026-10-18 69 → 2026-10-28 69（+0）
 
 
 ---

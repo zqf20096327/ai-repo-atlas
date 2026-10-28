@@ -1,6 +1,6 @@
 # liteli1987gmail/langchainzh
 
-⭐ 186 · HTML · MIT · 推送 2026-06-28 · [GitHub](https://github.com/liteli1987gmail/langchainzh) · [官网](http://langchain.com.cn) · 个人维护 · 中文 README
+⭐ 185 · HTML · MIT · 推送 2026-06-28 · [GitHub](https://github.com/liteli1987gmail/langchainzh) · [官网](http://langchain.com.cn) · 个人维护 · 中文 README
 
 **LangChain 官方文档的中文翻译镜像站**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "liteli1987gmail/langchainzh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 185 --> 187
-    line [186, 186]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 184 --> 187
+    line [186, 185]
 ```
 
-2026-10-18 186 → 2026-10-27 186（+0）
+2026-10-18 186 → 2026-10-28 185（-1）
 
 
 ---

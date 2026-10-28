@@ -1,6 +1,6 @@
 # lework/llm-benchmark
 
-⭐ 296 · Python · MIT · 推送 2025-12-10 · [GitHub](https://github.com/lework/llm-benchmark) · 个人维护 · 中文 README
+⭐ 295 · Python · MIT · 推送 2025-12-10 · [GitHub](https://github.com/lework/llm-benchmark) · 个人维护 · 中文 README
 
 **LLM 服务并发压测工具：多阶段压力测试与性能报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lework/llm-benchmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 293 --> 297
-    line [294, 295, 296, 296]
+    line [294, 295, 296, 295]
 ```
 
-2026-10-18 294 → 2026-10-27 296（+2）
+2026-10-18 294 → 2026-10-28 295（+1）
 
 
 ---

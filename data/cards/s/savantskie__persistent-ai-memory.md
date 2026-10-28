@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "savantskie/persistent-ai-memory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    title "savantskie/persistent-ai-memory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 234 --> 237
-    line [236, 235, 236]
+    line [236, 235, 236, 236]
 ```
 
-2026-10-18 236 → 2026-10-27 236（+0）
+2026-10-18 236 → 2026-10-28 236（+0）
 
 
 ---

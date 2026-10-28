@@ -1,6 +1,6 @@
 # google-deepmind/personality_in_llms
 
-⭐ 50 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/google-deepmind/personality_in_llms) · 组织维护
+⭐ 51 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/google-deepmind/personality_in_llms) · 组织维护
 
 **论文复现代码：LLM 大五人格特质的测量与分析**
 
@@ -45,12 +45,12 @@ DeepMind 论文《Personality Traits in Large Language Models》的官方复现�
 ```mermaid
 xychart-beta
     title "google-deepmind/personality_in_llms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 51（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/deepmind-research
 
-⭐ 15,248 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/google-deepmind/deepmind-research) · 组织维护
+⭐ 15,249 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/google-deepmind/deepmind-research) · 组织维护
 
 **为科研人员提供 DeepMind 论文的配套开源代码与环境**
 
@@ -51,12 +51,12 @@ DeepMind 官方研究仓库，收录其发表论文的实现与示例代码，�
 ```mermaid
 xychart-beta
     title "google-deepmind/deepmind-research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 15235 --> 15249
-    line [15236, 15240, 15244, 15245, 15247, 15248, 15248]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 15235 --> 15250
+    line [15236, 15240, 15244, 15245, 15247, 15248, 15249]
 ```
 
-2026-10-18 15,236 → 2026-10-27 15,248（+12）
+2026-10-18 15,236 → 2026-10-28 15,249（+13）
 
 
 ---

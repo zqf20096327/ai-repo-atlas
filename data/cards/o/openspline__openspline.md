@@ -1,6 +1,6 @@
 # openspline/openspline
 
-⭐ 326 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openspline/openspline) · [官网](https://www.openspline.dev/) · 组织维护
+⭐ 327 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/openspline/openspline) · [官网](https://www.openspline.dev/) · 组织维护
 
 **给语音 AI 代理生成实时口型同步数字人视频的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openspline/openspline 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 49 --> 351
-    line [74, 161, 271, 292, 294, 304, 321, 326]
+    title "openspline/openspline 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 49 --> 352
+    line [74, 161, 271, 292, 294, 304, 321, 326, 327]
 ```
 
-2026-10-18 74 → 2026-10-27 326（+252）
+2026-10-18 74 → 2026-10-28 327（+253）
 
 
 ---

@@ -1,6 +1,6 @@
 # receptron/MulmoChat
 
-⭐ 176 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/receptron/MulmoChat) · 组织维护
+⭐ 176 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/receptron/MulmoChat) · 组织维护
 
 **研究原型：多模态 AI 对话应用，画布呈现图像/地图/游戏**
 
@@ -47,12 +47,12 @@ MulmoChat 是一个探索非文本流式对话的研究原型：用户通过语�
 ```mermaid
 xychart-beta
     title "receptron/MulmoChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 171 --> 177
     line [172, 173, 176, 176]
 ```
 
-2026-10-18 172 → 2026-10-27 176（+4）
+2026-10-18 172 → 2026-10-28 176（+4）
 
 
 ---

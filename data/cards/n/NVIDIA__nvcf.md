@@ -1,6 +1,6 @@
 # NVIDIA/nvcf
 
-⭐ 249 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/nvcf) · [官网](https://docs.nvidia.com/nvcf/overview) · 组织维护
+⭐ 249 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/nvcf) · [官网](https://docs.nvidia.com/nvcf/overview) · 组织维护
 
 **部署与路由 GPU 加速推理/流式/批处理工作负载的云函数平台**
 
@@ -45,12 +45,12 @@ NVIDIA Cloud Functions（NVCF）是自管理的 GPU 工作负载平台：控制�
 ```mermaid
 xychart-beta
     title "NVIDIA/nvcf 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 238 --> 250
     line [239, 243, 246, 248, 249, 249]
 ```
 
-2026-10-18 239 → 2026-10-27 249（+10）
+2026-10-18 239 → 2026-10-28 249（+10）
 
 
 ---

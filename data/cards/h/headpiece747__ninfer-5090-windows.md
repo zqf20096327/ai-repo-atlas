@@ -1,6 +1,6 @@
 # headpiece747/ninfer-5090-windows
 
-⭐ 76 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/headpiece747/ninfer-5090-windows) · 个人维护
+⭐ 77 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/headpiece747/ninfer-5090-windows) · 个人维护
 
 **NInfer 推理引擎的 Windows 原生移植版，面向 RTX 5090**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "headpiece747/ninfer-5090-windows 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 69 --> 77
-    line [70, 71, 73, 74, 76]
+    title "headpiece747/ninfer-5090-windows 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 69 --> 78
+    line [70, 71, 73, 74, 76, 77]
 ```
 
-2026-10-18 70 → 2026-10-27 76（+6）
+2026-10-18 70 → 2026-10-28 77（+7）
 
 
 ---

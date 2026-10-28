@@ -1,6 +1,6 @@
 # ChinmayShringi/MicroFish-En
 
-⭐ 140 · Python · AGPL-3.0 · 推送 2026-04-19 · [GitHub](https://github.com/ChinmayShringi/MicroFish-En) · 组织维护 · 中文 README
+⭐ 141 · Python · AGPL-3.0 · 推送 2026-04-19 · [GitHub](https://github.com/ChinmayShringi/MicroFish-En) · 组织维护 · 中文 README
 
 **面向预测任务的多智能体社会模拟引擎，生成预测报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChinmayShringi/MicroFish-En 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 132 --> 141
-    line [133, 136, 138, 139, 140]
+    title "ChinmayShringi/MicroFish-En 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 132 --> 142
+    line [133, 136, 138, 139, 140, 141]
 ```
 
-2026-10-18 133 → 2026-10-27 140（+7）
+2026-10-18 133 → 2026-10-28 141（+8）
 
 
 ---

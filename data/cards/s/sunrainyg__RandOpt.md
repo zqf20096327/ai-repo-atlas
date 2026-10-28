@@ -1,6 +1,6 @@
 # sunrainyg/RandOpt
 
-⭐ 657 · Python · 推送 2026-09-21 · [GitHub](https://github.com/sunrainyg/RandOpt) · 个人维护
+⭐ 658 · Python · 推送 2026-09-21 · [GitHub](https://github.com/sunrainyg/RandOpt) · 个人维护
 
 **ICML 2026 论文 RandOpt 官方代码：围绕预训练权重的多样任务专家后训练方法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sunrainyg/RandOpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 652 --> 658
-    line [653, 656, 657, 657]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 652 --> 659
+    line [653, 656, 657, 658]
 ```
 
-2026-10-18 653 → 2026-10-27 657（+4）
+2026-10-18 653 → 2026-10-28 658（+5）
 
 
 ---

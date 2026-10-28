@@ -1,6 +1,6 @@
 # miskibin/asystent-rp
 
-⭐ 36 · TypeScript · 推送 2026-10-09 · [GitHub](https://github.com/miskibin/asystent-rp) · [官网](https://chat.tygodniksejmowy.pl) · 个人维护
+⭐ 36 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/miskibin/asystent-rp) · [官网](https://chat.tygodniksejmowy.pl) · 个人维护
 
 **波兰法律与议会数据的 Web AI 问答助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miskibin/asystent-rp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-28 36（+0）
 
 
 ---

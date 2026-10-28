@@ -1,6 +1,6 @@
 # lessweb/deepcode-cli
 
-⭐ 2,170 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lessweb/deepcode-cli) · [官网](https://deepcode.vegamo.cn) · 组织维护 · 中文 README
+⭐ 2,173 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lessweb/deepcode-cli) · [官网](https://deepcode.vegamo.cn) · 组织维护 · 中文 README
 
 **为 DeepSeek 模型优化的终端 AI 编码助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lessweb/deepcode-cli 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2158 --> 2171
-    line [2159, 2166, 2163, 2164, 2165, 2164, 2167, 2170]
+    title "lessweb/deepcode-cli 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2158 --> 2174
+    line [2159, 2166, 2163, 2164, 2165, 2164, 2167, 2170, 2173]
 ```
 
-2026-10-18 2,159 → 2026-10-27 2,170（+11）
+2026-10-18 2,159 → 2026-10-28 2,173（+14）
 
 
 ---

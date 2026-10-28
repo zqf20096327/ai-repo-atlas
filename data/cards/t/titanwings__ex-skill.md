@@ -1,6 +1,6 @@
 # titanwings/ex-skill
 
-⭐ 1,091 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/titanwings/ex-skill) · 个人维护 · 中文 README
+⭐ 1,092 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/titanwings/ex-skill) · 个人维护 · 中文 README
 
 **用聊天记录生成前任数字人格 Skill，可对话的复刻**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "titanwings/ex-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1088 --> 1092
-    line [1089, 1090, 1091, 1091]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1088 --> 1093
+    line [1089, 1090, 1091, 1092]
 ```
 
-2026-10-18 1,089 → 2026-10-27 1,091（+2）
+2026-10-18 1,089 → 2026-10-28 1,092（+3）
 
 
 ---

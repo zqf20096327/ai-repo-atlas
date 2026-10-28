@@ -1,6 +1,6 @@
 # zincware/ZnTrack
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zincware/ZnTrack) · [官网](https://zntrack.readthedocs.io) · 组织维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zincware/ZnTrack) · [官网](https://zntrack.readthedocs.io) · 组织维护
 
 **把 Python 代码转为可复现 DVC 工作流的库**
 
@@ -45,12 +45,12 @@ ZnTrack 是构建在 DVC 之上的 Python 包，将现有 Python 代码结构化
 ```mermaid
 xychart-beta
     title "zincware/ZnTrack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-27 57（+0）
+2026-10-18 57 → 2026-10-28 57（+0）
 
 
 ---

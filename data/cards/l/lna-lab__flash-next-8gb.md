@@ -1,6 +1,6 @@
 # lna-lab/flash-next-8gb
 
-⭐ 24 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/lna-lab/flash-next-8gb) · 组织维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-09-01 · [GitHub](https://github.com/lna-lab/flash-next-8gb) · 组织维护 · 中文 README
 
 **在 8GB 显存笔记本 GPU 上运行 177B 参数模型的方法与脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lna-lab/flash-next-8gb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 25（+2）
 
 
 ---

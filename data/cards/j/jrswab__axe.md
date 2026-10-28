@@ -1,6 +1,6 @@
 # jrswab/axe
 
-⭐ 905 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
+⭐ 906 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
 
 **用 TOML 定义单一用途 LLM agent 并随处触发的 CLI 工具**
 
@@ -45,13 +45,13 @@ Go 编写的命令行工具，用于管理和运行 LLM agent：每个 agent 用
 
 ```mermaid
 xychart-beta
-    title "jrswab/axe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 896 --> 906
-    line [897, 898, 905]
+    title "jrswab/axe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 896 --> 907
+    line [897, 898, 905, 906]
 ```
 
-2026-10-18 897 → 2026-10-27 905（+8）
+2026-10-18 897 → 2026-10-28 906（+9）
 
 
 ---

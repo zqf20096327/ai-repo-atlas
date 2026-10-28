@@ -1,6 +1,6 @@
 # framerslab/agentos
 
-⭐ 682 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/framerslab/agentos) · [官网](https://docs.agentos.sh) · 组织维护
+⭐ 683 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/framerslab/agentos) · [官网](https://docs.agentos.sh) · 组织维护
 
 **TypeScript AI agent 框架：持久认知记忆与运行时工具锻造**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "framerslab/agentos 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "framerslab/agentos 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 679 --> 685
-    line [680, 681, 682, 684, 681, 682]
+    line [680, 681, 682, 684, 681, 682, 683]
 ```
 
-2026-10-18 680 → 2026-10-27 682（+2）
+2026-10-18 680 → 2026-10-28 683（+3）
 
 
 ---

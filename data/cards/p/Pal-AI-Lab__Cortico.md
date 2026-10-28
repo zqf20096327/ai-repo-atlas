@@ -1,6 +1,6 @@
 # Pal-AI-Lab/Cortico
 
-⭐ 294 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Pal-AI-Lab/Cortico) · [官网](https://palailab.org) · 组织维护 · 中文 README
+⭐ 303 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Pal-AI-Lab/Cortico) · [官网](https://palailab.org) · 组织维护 · 中文 README
 
 **事件流驱动的自主 persona bot/agent 框架**
 
@@ -44,13 +44,13 @@ TypeScript 编写的 agent harness，以事件流为核心设计，面向持续�
 
 ```mermaid
 xychart-beta
-    title "Pal-AI-Lab/Cortico 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 221 --> 300
-    line [227, 233, 239, 248, 261, 268, 280, 294]
+    title "Pal-AI-Lab/Cortico 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 220 --> 310
+    line [227, 233, 239, 248, 261, 268, 280, 294, 303]
 ```
 
-2026-10-18 227 → 2026-10-27 294（+67）
+2026-10-18 227 → 2026-10-28 303（+76）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "afzalhussain23/Data-Driven-CFD-Surrogate-Modeling-Using-Deep-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 38（+0）
 
 
 ---

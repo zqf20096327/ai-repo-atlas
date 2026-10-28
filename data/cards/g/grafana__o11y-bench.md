@@ -1,6 +1,6 @@
 # grafana/o11y-bench
 
-⭐ 75 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/grafana/o11y-bench) · [官网](https://o11ybench.ai/) · 组织维护
+⭐ 75 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/grafana/o11y-bench) · [官网](https://o11ybench.ai/) · 组织维护
 
 **评测 LLM agent 在可观测性/SRE 任务上表现的开放基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "grafana/o11y-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-10-27 75（+0）
+2026-10-18 75 → 2026-10-28 75（+0）
 
 
 ---

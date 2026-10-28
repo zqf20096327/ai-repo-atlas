@@ -1,6 +1,6 @@
 # Rifteo/skills
 
-⭐ 39 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Rifteo/skills) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Rifteo/skills) · 组织维护
 
 **面向安全测试/审计/合规的 AI agent 技能库（28 技能，53 agents）**
 
@@ -46,12 +46,12 @@ Rifteo 维护的 agent 技能库：以方法论文件形式向 AI agent 注入�
 ```mermaid
 xychart-beta
     title "Rifteo/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    line [38, 39, 38]
 ```
 
-2026-10-18 38 → 2026-10-27 39（+1）
+2026-10-18 38 → 2026-10-28 38（+0）
 
 
 ---

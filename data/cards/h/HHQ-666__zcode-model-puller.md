@@ -1,6 +1,6 @@
 # HHQ-666/zcode-model-puller
 
-⭐ 26 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/HHQ-666/zcode-model-puller) · [官网](https://zcode.z.ai) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/HHQ-666/zcode-model-puller) · [官网](https://zcode.z.ai) · 个人维护 · 中文 README
 
 **为 ZCode 客户端注入「自动拉取模型」按钮的 macOS 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HHQ-666/zcode-model-puller 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 26]
+    line [27, 26, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 26（-1）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 845 --> 851
-    line [846, 848, 849, 850]
+    line [846, 848, 849, 850, 850]
 ```
 
-2026-10-18 846 → 2026-10-27 850（+4）
+2026-10-18 846 → 2026-10-28 850（+4）
 
 
 ---

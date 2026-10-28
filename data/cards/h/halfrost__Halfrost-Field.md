@@ -1,6 +1,6 @@
 # halfrost/Halfrost-Field
 
-⭐ 13,253 · Go · CC-BY-SA-4.0 · 推送 2026-09-30 · [GitHub](https://github.com/halfrost/Halfrost-Field) · [官网](https://halfrost.com) · 个人维护 · 中文 README
+⭐ 13,254 · Go · CC-BY-SA-4.0 · 推送 2026-09-30 · [GitHub](https://github.com/halfrost/Halfrost-Field) · [官网](https://halfrost.com) · 个人维护 · 中文 README
 
 **开发者阅读开源源码与协议的技术文章集**
 
@@ -49,13 +49,13 @@
 
 ```mermaid
 xychart-beta
-    title "halfrost/Halfrost-Field 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 13247 --> 13254
-    line [13248, 13251, 13250, 13249, 13250, 13253]
+    title "halfrost/Halfrost-Field 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 13247 --> 13255
+    line [13248, 13251, 13250, 13249, 13250, 13253, 13254]
 ```
 
-2026-10-18 13,248 → 2026-10-27 13,253（+5）
+2026-10-18 13,248 → 2026-10-28 13,254（+6）
 
 
 ---

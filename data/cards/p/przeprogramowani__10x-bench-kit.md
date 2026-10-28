@@ -1,6 +1,6 @@
 # przeprogramowani/10x-bench-kit
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/przeprogramowani/10x-bench-kit) · [官网](https://10xbench.ai) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/przeprogramowani/10x-bench-kit) · [官网](https://10xbench.ai) · 组织维护
 
 **为企业构建自有编码 AI Agent 基准的模板工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "przeprogramowani/10x-bench-kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "przeprogramowani/10x-bench-kit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 31 --> 40
-    line [32, 34, 35, 37, 38, 39]
+    line [32, 34, 35, 37, 38, 39, 38]
 ```
 
-2026-10-18 32 → 2026-10-27 39（+7）
+2026-10-18 32 → 2026-10-28 38（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentgg-dev/agentgg
 
-⭐ 442 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentgg-dev/agentgg) · [官网](https://agentgg.dev/) · 组织维护
+⭐ 443 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentgg-dev/agentgg) · [官网](https://agentgg.dev/) · 组织维护
 
 **给安全工程师的 agentic SAST 扫描器：AI agent 读代码做白盒审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentgg-dev/agentgg 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 439 --> 446
-    line [445, 440, 441, 442, 442]
+    line [445, 440, 441, 442, 443]
 ```
 
-2026-10-18 445 → 2026-10-27 442（-3）
+2026-10-18 445 → 2026-10-28 443（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # snap-stanford/deepsnap
 
-⭐ 574 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/snap-stanford/deepsnap) · [官网](https://snap.stanford.edu/deepsnap/) · 组织维护
+⭐ 573 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/snap-stanford/deepsnap) · [官网](https://snap.stanford.edu/deepsnap/) · 组织维护
 
 **给 GNN 开发者：桥接 NetworkX 与 PyTorch Geometric 的图深度学习辅助库**
 
@@ -45,12 +45,12 @@ DeepSNAP 是一个协助图深度学习的 Python 库，定位在图操作库 Ne
 ```mermaid
 xychart-beta
     title "snap-stanford/deepsnap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 573 --> 575
-    line [574, 574]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 572 --> 575
+    line [574, 573]
 ```
 
-2026-10-18 574 → 2026-10-27 574（+0）
+2026-10-18 574 → 2026-10-28 573（-1）
 
 
 ---

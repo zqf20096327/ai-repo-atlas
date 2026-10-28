@@ -1,6 +1,6 @@
 # spardanviro/Godot_AI
 
-⭐ 55 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/spardanviro/Godot_AI) · 个人维护 · 中文 README
+⭐ 58 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/spardanviro/Godot_AI) · 个人维护 · 中文 README
 
 **为 Godot 4.7 编辑器提供内嵌 AI 助手的原生 C++ 模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spardanviro/Godot_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 53 --> 59
+    line [54, 55, 58]
 ```
 
-2026-10-18 54 → 2026-10-27 55（+1）
+2026-10-18 54 → 2026-10-28 58（+4）
 
 
 ---

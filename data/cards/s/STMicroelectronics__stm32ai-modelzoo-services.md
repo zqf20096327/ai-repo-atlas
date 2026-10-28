@@ -1,6 +1,6 @@
 # STMicroelectronics/stm32ai-modelzoo-services
 
-⭐ 166 · C · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/STMicroelectronics/stm32ai-modelzoo-services) · 组织维护
+⭐ 167 · C · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/STMicroelectronics/stm32ai-modelzoo-services) · 组织维护
 
 **STM32 嵌入式 AI 模型训练/量化/部署服务脚本集**
 
@@ -45,12 +45,12 @@ STMicroelectronics 维护的 AI 模型 zoo 服务集合：提供训练/微调（
 ```mermaid
 xychart-beta
     title "STMicroelectronics/stm32ai-modelzoo-services 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 164 --> 167
-    line [165, 166, 166]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 164 --> 168
+    line [165, 166, 167]
 ```
 
-2026-10-18 165 → 2026-10-27 166（+1）
+2026-10-18 165 → 2026-10-28 167（+2）
 
 
 ---

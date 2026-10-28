@@ -1,6 +1,6 @@
 # antoniolupetti/algebrica
 
-⭐ 1,063 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/antoniolupetti/algebrica) · [官网](https://algebrica.org) · 个人维护
+⭐ 1,064 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/antoniolupetti/algebrica) · [官网](https://algebrica.org) · 个人维护
 
 **大学级数学知识库：手写条目+语义层开源内容**
 
@@ -45,12 +45,12 @@ Antonio Lupetti 自 2023 年起手工撰写并审校的大学级数学知识库�
 ```mermaid
 xychart-beta
     title "antoniolupetti/algebrica 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1055 --> 1064
-    line [1056, 1057, 1058, 1059, 1060, 1062, 1063, 1063]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1055 --> 1065
+    line [1056, 1057, 1058, 1059, 1060, 1062, 1063, 1064]
 ```
 
-2026-10-18 1,056 → 2026-10-27 1,063（+7）
+2026-10-18 1,056 → 2026-10-28 1,064（+8）
 
 
 ---

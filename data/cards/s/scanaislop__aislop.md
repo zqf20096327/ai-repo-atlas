@@ -1,6 +1,6 @@
 # scanaislop/aislop
 
-⭐ 706 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
+⭐ 707 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
 
 **检测并修复 AI 编码代理遗留代码质量问题的 CLI 代码扫描器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "scanaislop/aislop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 686 --> 707
-    line [687, 693, 698, 699, 700, 702, 706]
+    title "scanaislop/aislop 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 685 --> 709
+    line [687, 693, 698, 699, 700, 702, 706, 707]
 ```
 
-2026-10-18 687 → 2026-10-27 706（+19）
+2026-10-18 687 → 2026-10-28 707（+20）
 
 
 ---

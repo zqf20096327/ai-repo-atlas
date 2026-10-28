@@ -1,6 +1,6 @@
 # linkxzhou/SimpleExcalidraw
 
-⭐ 36 · TypeScript · MIT · 推送 2026-02-13 · [GitHub](https://github.com/linkxzhou/SimpleExcalidraw) · [官网](https://excalidraw-phi-woad.vercel.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Excalidraw 中文分支：手绘白板增加 AI 生成与动画回放**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

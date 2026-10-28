@@ -44,12 +44,12 @@ Python 库，读取符合标准 schema 的间隔重复复习日志（卡片 ID�
 ```mermaid
 xychart-beta
     title "open-spaced-repetition/fsrs-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-10-27 112（+0）
+2026-10-18 112 → 2026-10-28 112（+0）
 
 
 ---

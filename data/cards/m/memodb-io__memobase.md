@@ -1,6 +1,6 @@
 # memodb-io/memobase
 
-⭐ 2,938 · Python · Apache-2.0 · 推送 2026-01-11 · [GitHub](https://github.com/memodb-io/memobase) · [官网](https://memobase.io) · 组织维护
+⭐ 2,939 · Python · Apache-2.0 · 推送 2026-01-11 · [GitHub](https://github.com/memodb-io/memobase) · [官网](https://memobase.io) · 组织维护
 
 **面向 LLM 应用的用户画像式长期记忆系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "memodb-io/memobase 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 2931 --> 2940
-    line [2932, 2936, 2939, 2938, 2938]
+    line [2932, 2936, 2939, 2938, 2939]
 ```
 
-2026-10-18 2,932 → 2026-10-27 2,938（+6）
+2026-10-18 2,932 → 2026-10-28 2,939（+7）
 
 
 ---

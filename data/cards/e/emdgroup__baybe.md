@@ -1,6 +1,6 @@
 # emdgroup/baybe
 
-⭐ 521 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/emdgroup/baybe) · [官网](https://emdgroup.github.io/baybe/) · 组织维护
+⭐ 521 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/emdgroup/baybe) · [官网](https://emdgroup.github.io/baybe/) · 组织维护
 
 **面向实验人员的贝叶斯实验设计与优化 Python 工具箱**
 
@@ -45,13 +45,13 @@ BayBE 是由 EMD Group（Merck KGaA）维护的开源 Python 库，通过贝叶�
 
 ```mermaid
 xychart-beta
-    title "emdgroup/baybe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "emdgroup/baybe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 515 --> 522
-    line [516, 517, 519, 520, 521]
+    line [516, 517, 519, 520, 521, 521]
 ```
 
-2026-10-18 516 → 2026-10-27 521（+5）
+2026-10-18 516 → 2026-10-28 521（+5）
 
 
 ---

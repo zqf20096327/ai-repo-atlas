@@ -1,6 +1,6 @@
 # AgentTeam-TaichuAI/ScienceClaw
 
-⭐ 674 · Python · 推送 2026-05-09 · [GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw) · [官网](https://scienceclaw.zidongtaichu.com/) · 组织维护 · 中文 README
+⭐ 676 · Python · 推送 2026-05-09 · [GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw) · [官网](https://scienceclaw.zidongtaichu.com/) · 组织维护 · 中文 README
 
 **本地运行的科研 Agent 助手：Docker 沙箱内调用 1900+ 科学工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgentTeam-TaichuAI/ScienceClaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 670 --> 675
-    line [671, 673, 674, 673, 674]
+    title "AgentTeam-TaichuAI/ScienceClaw 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 670 --> 677
+    line [671, 673, 674, 673, 674, 676]
 ```
 
-2026-10-18 671 → 2026-10-27 674（+3）
+2026-10-18 671 → 2026-10-28 676（+5）
 
 
 ---

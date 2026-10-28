@@ -1,6 +1,6 @@
 # ok-oldking/ok-script-app
 
-⭐ 219 · Python · 推送 2026-08-16 · [GitHub](https://github.com/ok-oldking/ok-script-app) · 个人维护 · 中文 README
+⭐ 220 · Python · 推送 2026-08-16 · [GitHub](https://github.com/ok-oldking/ok-script-app) · 个人维护 · 中文 README
 
 **基于 ok-script 的 Python 游戏自动化应用起步模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ok-oldking/ok-script-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 216 --> 220
-    line [217, 218, 219, 219]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 216 --> 221
+    line [217, 218, 219, 220]
 ```
 
-2026-10-18 217 → 2026-10-27 219（+2）
+2026-10-18 217 → 2026-10-28 220（+3）
 
 
 ---

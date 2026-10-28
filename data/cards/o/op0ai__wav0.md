@@ -1,6 +1,6 @@
 # op0ai/wav0
 
-⭐ 123 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/op0ai/wav0) · [官网](https://wav0.app) · 组织维护
+⭐ 124 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/op0ai/wav0) · [官网](https://wav0.app) · 组织维护
 
 **面向创作者的浏览器端 AI 数字音频工作站（DAW）**
 
@@ -45,12 +45,12 @@ WAV0 是一个运行于浏览器的 AI-Native DAW，面向音乐人、视频/播
 ```mermaid
 xychart-beta
     title "op0ai/wav0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 122 --> 125
+    line [123, 124]
 ```
 
-2026-10-18 123 → 2026-10-27 123（+0）
+2026-10-18 123 → 2026-10-28 124（+1）
 
 
 ---

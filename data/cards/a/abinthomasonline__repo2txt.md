@@ -1,6 +1,6 @@
 # abinthomasonline/repo2txt
 
-⭐ 1,839 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/abinthomasonline/repo2txt) · [官网](https://abinthomas.in/repo2txt/) · 个人维护
+⭐ 1,840 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/abinthomasonline/repo2txt) · [官网](https://abinthomas.in/repo2txt/) · 个人维护
 
 **浏览器端把 GitHub/本地代码仓库转成单一文本供 LLM 使用的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abinthomasonline/repo2txt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1837 --> 1841
-    line [1838, 1839, 1840, 1839, 1839]
+    line [1838, 1839, 1840, 1839, 1840]
 ```
 
-2026-10-18 1,838 → 2026-10-27 1,839（+1）
+2026-10-18 1,838 → 2026-10-28 1,840（+2）
 
 
 ---

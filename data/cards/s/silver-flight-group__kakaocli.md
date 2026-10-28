@@ -1,6 +1,6 @@
 # silver-flight-group/kakaocli
 
-⭐ 168 · Swift · MIT · 推送 2026-03-30 · [GitHub](https://github.com/silver-flight-group/kakaocli) · 组织维护
+⭐ 170 · Swift · MIT · 推送 2026-03-30 · [GitHub](https://github.com/silver-flight-group/kakaocli) · 组织维护
 
 **macOS KakaoTalk CLI：让 AI agent 读写本地消息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "silver-flight-group/kakaocli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 162 --> 169
-    line [163, 164, 167, 168, 168]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 162 --> 171
+    line [163, 164, 167, 168, 170]
 ```
 
-2026-10-18 163 → 2026-10-27 168（+5）
+2026-10-18 163 → 2026-10-28 170（+7）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuhao-nie/Stanford-solar-forecasting-dataset 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    title "yuhao-nie/Stanford-solar-forecasting-dataset 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 256 --> 261
-    line [257, 258, 259, 260]
+    line [257, 258, 259, 260, 260]
 ```
 
-2026-10-18 257 → 2026-10-27 260（+3）
+2026-10-18 257 → 2026-10-28 260（+3）
 
 
 ---

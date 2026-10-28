@@ -1,6 +1,6 @@
 # NexTools-Solutions/nextool
 
-⭐ 23 · PHP · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NexTools-Solutions/nextool) · [官网](https://linkedin.com/in/richard-ti/) · 组织维护
+⭐ 23 · PHP · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NexTools-Solutions/nextool) · [官网](https://linkedin.com/in/richard-ti/) · 组织维护
 
 **GLPI 10-12 模块化插件中心：按需启用运维与 AI 功能**
 
@@ -46,12 +46,12 @@ NexTool 是 GLPI（IT 资产与服务台系统）的插件枢纽，同一安装�
 ```mermaid
 xychart-beta
     title "NexTools-Solutions/nextool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

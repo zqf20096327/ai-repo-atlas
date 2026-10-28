@@ -1,6 +1,6 @@
 # openaccountant/skills
 
-⭐ 101 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/openaccountant/skills) · 组织维护
+⭐ 103 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/openaccountant/skills) · 组织维护
 
 **44 个面向 AI agent 的开源财务技能集合（SKILL.md 格式）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openaccountant/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 90 --> 102
-    line [91, 93, 97, 98, 101]
+    title "openaccountant/skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 90 --> 104
+    line [91, 93, 97, 98, 101, 103]
 ```
 
-2026-10-18 91 → 2026-10-27 101（+10）
+2026-10-18 91 → 2026-10-28 103（+12）
 
 
 ---

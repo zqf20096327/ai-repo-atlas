@@ -1,6 +1,6 @@
 # xuanyustudio/LocalMiniDrama
 
-⭐ 2,238 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xuanyustudio/LocalMiniDrama) · [官网](https://83zi.com/) · 个人维护 · 中文 README
+⭐ 2,248 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/xuanyustudio/LocalMiniDrama) · [官网](https://83zi.com/) · 个人维护 · 中文 README
 
 **本地运行的 AI 短剧/漫剧生成工具，剧本到成片一站式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuanyustudio/LocalMiniDrama 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2104 --> 2250
-    line [2116, 2147, 2163, 2176, 2188, 2202, 2216, 2238]
+    title "xuanyustudio/LocalMiniDrama 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2103 --> 2261
+    line [2116, 2147, 2163, 2176, 2188, 2202, 2216, 2238, 2248]
 ```
 
-2026-10-18 2,116 → 2026-10-27 2,238（+122）
+2026-10-18 2,116 → 2026-10-28 2,248（+132）
 
 
 ---

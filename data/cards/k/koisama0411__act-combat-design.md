@@ -1,6 +1,6 @@
 # koisama0411/act-combat-design
 
-⭐ 91 · HTML · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/koisama0411/act-combat-design) · 个人维护 · 中文 README
+⭐ 92 · HTML · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/koisama0411/act-combat-design) · 个人维护 · 中文 README
 
 **动作游戏战斗设计方法论知识库，供任意 AI agent 加载使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "koisama0411/act-combat-design 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 88 --> 92
-    line [90, 89, 90, 91]
+    title "koisama0411/act-combat-design 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 88 --> 93
+    line [90, 89, 90, 91, 92]
 ```
 
-2026-10-18 90 → 2026-10-27 91（+1）
+2026-10-18 90 → 2026-10-28 92（+2）
 
 
 ---

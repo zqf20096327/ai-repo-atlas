@@ -1,6 +1,6 @@
 # aduermael/herm
 
-⭐ 233 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aduermael/herm) · [官网](https://hermagent.com) · 个人维护
+⭐ 232 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aduermael/herm) · [官网](https://hermagent.com) · 个人维护
 
 **终端 AI 编码代理，默认容器化隔离运行**
 
@@ -46,12 +46,12 @@ Herm 是模型无关的通用 AI 代理，以 CLI 与 iOS/macOS 应用两种形�
 ```mermaid
 xychart-beta
     title "aduermael/herm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 232 --> 234
-    line [233, 233]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 231 --> 234
+    line [233, 232]
 ```
 
-2026-10-18 233 → 2026-10-27 233（+0）
+2026-10-18 233 → 2026-10-28 232（-1）
 
 
 ---

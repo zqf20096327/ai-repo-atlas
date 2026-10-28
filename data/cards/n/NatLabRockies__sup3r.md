@@ -1,6 +1,6 @@
 # NatLabRockies/sup3r
 
-⭐ 142 · Python · BSD-3-Clause · 推送 2026-10-24 · [GitHub](https://github.com/NatLabRockies/sup3r) · [官网](https://natlabrockies.github.io/sup3r/) · 组织维护
+⭐ 142 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NatLabRockies/sup3r) · [官网](https://natlabrockies.github.io/sup3r/) · 组织维护
 
 **用 GAN 将粗分辨率气候数据降尺度为高时空分辨率数据**
 
@@ -45,12 +45,12 @@ NLR 开发的开源 Python 软件，基于生成对抗网络（生成器+判别�
 ```mermaid
 xychart-beta
     title "NatLabRockies/sup3r 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 141 --> 143
     line [142, 142]
 ```
 
-2026-10-18 142 → 2026-10-27 142（+0）
+2026-10-18 142 → 2026-10-28 142（+0）
 
 
 ---

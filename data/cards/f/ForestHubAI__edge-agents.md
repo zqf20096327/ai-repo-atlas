@@ -1,6 +1,6 @@
 # ForestHubAI/edge-agents
 
-⭐ 106 · TypeScript · AGPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/ForestHubAI/edge-agents) · [官网](https://app.foresthub.ai) · 组织维护
+⭐ 108 · TypeScript · AGPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/ForestHubAI/edge-agents) · [官网](https://app.foresthub.ai) · 组织维护
 
 **30 MB 级 Linux 边缘 AI agent 运行时，离线驱动 GPIO/MQTT 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ForestHubAI/edge-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 105 --> 109
+    line [106, 108]
 ```
 
-2026-10-18 106 → 2026-10-27 106（+0）
+2026-10-18 106 → 2026-10-28 108（+2）
 
 
 ---

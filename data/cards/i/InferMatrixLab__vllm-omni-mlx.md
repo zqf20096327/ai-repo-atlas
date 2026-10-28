@@ -46,12 +46,12 @@ vLLM-Omni 的 Apple Silicon 轻量版本：基于 MLX 引擎栈，以单进程�
 ```mermaid
 xychart-beta
     title "InferMatrixLab/vllm-omni-mlx 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-19", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-19 26 → 2026-10-27 26（+0）
+2026-10-19 26 → 2026-10-28 26（+0）
 
 
 ---

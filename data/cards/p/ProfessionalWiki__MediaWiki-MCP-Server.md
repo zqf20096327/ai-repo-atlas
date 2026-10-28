@@ -1,6 +1,6 @@
 # ProfessionalWiki/MediaWiki-MCP-Server
 
-⭐ 141 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server) · [官网](https://professional.wiki/en/mediawiki-mcp-server) · 组织维护
+⭐ 143 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ProfessionalWiki/MediaWiki-MCP-Server) · [官网](https://professional.wiki/en/mediawiki-mcp-server) · 组织维护
 
 **让 LLM 客户端通过 MCP 读写任意 MediaWiki 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ProfessionalWiki/MediaWiki-MCP-Server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 136 --> 142
-    line [137, 138, 139, 140, 141, 141]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 136 --> 144
+    line [137, 138, 139, 140, 141, 143]
 ```
 
-2026-10-18 137 → 2026-10-27 141（+4）
+2026-10-18 137 → 2026-10-28 143（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # tanjimin/C.Origami
 
-⭐ 88 · Python · 推送 2026-03-22 · [GitHub](https://github.com/tanjimin/C.Origami) · 个人维护
+⭐ 89 · Python · 推送 2026-03-22 · [GitHub](https://github.com/tanjimin/C.Origami) · 个人维护
 
 **预测细胞类型特异性 3D 染色质结构的深度学习框架**
 
@@ -47,12 +47,12 @@ C.Origami 是发表于 Nat Biotechnol 2023 论文的官方实现，基于 Origam
 ```mermaid
 xychart-beta
     title "tanjimin/C.Origami 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-27 88（+0）
+2026-10-18 88 → 2026-10-28 89（+1）
 
 
 ---

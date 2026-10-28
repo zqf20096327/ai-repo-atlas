@@ -1,6 +1,6 @@
 # microsoft/mcp-gateway
 
-⭐ 897 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mcp-gateway) · [官网](https://microsoft.github.io/mcp-gateway/) · 组织维护
+⭐ 898 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/mcp-gateway) · [官网](https://microsoft.github.io/mcp-gateway/) · 组织维护
 
 **面向开发者的 MCP 服务器反向代理与生命周期管理网关**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/mcp-gateway 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 884 --> 898
-    line [885, 888, 890, 892, 893, 894, 896, 897]
+    title "microsoft/mcp-gateway 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 884 --> 899
+    line [885, 888, 890, 892, 893, 894, 896, 897, 898]
 ```
 
-2026-10-18 885 → 2026-10-27 897（+12）
+2026-10-18 885 → 2026-10-28 898（+13）
 
 
 ---

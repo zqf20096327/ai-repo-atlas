@@ -1,6 +1,6 @@
 # lss233/kirara-ai
 
-⭐ 19,202 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
+⭐ 19,221 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/lss233/kirara-ai) · [官网](https://kirara-docs.app.lss233.com/) · 个人维护 · 中文 README
 
 **接入多平台多模型的可 DIY 聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lss233/kirara-ai 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 19140 --> 19207
-    line [19145, 19157, 19170, 19186, 19202]
+    title "lss233/kirara-ai 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 19138 --> 19228
+    line [19145, 19157, 19170, 19186, 19202, 19221]
 ```
 
-2026-10-23 19,145 → 2026-10-27 19,202（+57）
+2026-10-23 19,145 → 2026-10-28 19,221（+76）
 
 
 ---

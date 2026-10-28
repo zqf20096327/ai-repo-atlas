@@ -1,6 +1,6 @@
 # kenz1117/dsh-ui-usage-billing
 
-⭐ 91 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kenz1117/dsh-ui-usage-billing) · [官网](https://www.npmjs.com/package/@kenz1117/dsh-ui-usage-billing) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kenz1117/dsh-ui-usage-billing) · [官网](https://www.npmjs.com/package/@kenz1117/dsh-ui-usage-billing) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的用量计费仪表盘插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kenz1117/dsh-ui-usage-billing 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 79 --> 92
-    line [80, 82, 87, 89, 88, 89, 91]
+    title "kenz1117/dsh-ui-usage-billing 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 79 --> 93
+    line [80, 82, 87, 89, 88, 89, 91, 92]
 ```
 
-2026-10-18 80 → 2026-10-27 91（+11）
+2026-10-18 80 → 2026-10-28 92（+12）
 
 
 ---

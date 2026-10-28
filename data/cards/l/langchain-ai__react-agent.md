@@ -1,6 +1,6 @@
 # langchain-ai/react-agent
 
-⭐ 857 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/react-agent) · 组织维护
+⭐ 858 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/react-agent) · 组织维护
 
 **LangGraph 官方 ReAct agent 模板，供 Studio 中构建定制 agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/react-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 852 --> 858
-    line [854, 853, 854, 856, 857]
+    title "langchain-ai/react-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 852 --> 859
+    line [854, 853, 854, 856, 857, 858]
 ```
 
-2026-10-18 854 → 2026-10-27 857（+3）
+2026-10-18 854 → 2026-10-28 858（+4）
 
 
 ---

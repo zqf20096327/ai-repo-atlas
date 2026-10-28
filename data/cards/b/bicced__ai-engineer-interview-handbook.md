@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bicced/ai-engineer-interview-handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "bicced/ai-engineer-interview-handbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 21 --> 27
-    line [22, 23, 25, 26]
+    line [22, 23, 25, 26, 26]
 ```
 
-2026-10-18 22 → 2026-10-27 26（+4）
+2026-10-18 22 → 2026-10-28 26（+4）
 
 
 ---

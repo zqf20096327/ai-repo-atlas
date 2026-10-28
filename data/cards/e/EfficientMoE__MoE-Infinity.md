@@ -1,6 +1,6 @@
 # EfficientMoE/MoE-Infinity
 
-⭐ 375 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/EfficientMoE/MoE-Infinity) · 组织维护
+⭐ 375 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/EfficientMoE/MoE-Infinity) · 组织维护
 
 **在显存受限 GPU 上服务 MoE 大模型的 PyTorch 推理库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EfficientMoE/MoE-Infinity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 372 --> 376
     line [373, 374, 375, 375]
 ```
 
-2026-10-18 373 → 2026-10-27 375（+2）
+2026-10-18 373 → 2026-10-28 375（+2）
 
 
 ---

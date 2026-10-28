@@ -1,6 +1,6 @@
 # rohitg00/ai-engineering-from-scratch
 
-⭐ 74,310 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护 · 中文 README
+⭐ 74,656 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护 · 中文 README
 
 **AI 工程课程：542 课时的模型、RAG 与 agent 动手教程**
 
@@ -52,13 +52,13 @@ MIT 许可的开源课程仓库，含 542 课时、20 阶段，覆盖数学基�
 
 ```mermaid
 xychart-beta
-    title "rohitg00/ai-engineering-from-scratch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 70211 --> 74682
-    line [70583, 71405, 71995, 72403, 72746, 73128, 73678, 74310]
+    title "rohitg00/ai-engineering-from-scratch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 70176 --> 75063
+    line [70583, 71405, 71995, 72403, 72746, 73128, 73678, 74310, 74656]
 ```
 
-2026-10-18 70,583 → 2026-10-27 74,310（+3,727）
+2026-10-18 70,583 → 2026-10-28 74,656（+4,073）
 
 
 ---

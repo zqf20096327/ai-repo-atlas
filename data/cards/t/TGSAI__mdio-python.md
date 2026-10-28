@@ -1,6 +1,6 @@
 # TGSAI/mdio-python
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/TGSAI/mdio-python) · [官网](https://mdio.dev/) · 组织维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/TGSAI/mdio-python) · [官网](https://mdio.dev/) · 组织维护
 
 **面向多维能源数据的云原生分块存储引擎（Python 库）**
 
@@ -46,12 +46,12 @@ MDIO 是处理大型多维能源数据集的 Python 库，服务于资源评估�
 ```mermaid
 xychart-beta
     title "TGSAI/mdio-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 41 --> 44
+    line [43, 42]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 42（-1）
 
 
 ---

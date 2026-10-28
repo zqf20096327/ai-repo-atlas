@@ -1,6 +1,6 @@
 # Guitariz/Guitariz
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Guitariz/Guitariz) · [官网](https://guitariz.studio) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Guitariz/Guitariz) · [官网](https://guitariz.studio) · 个人维护
 
 **面向音乐人的全栈音乐学习平台：AI 和弦识别与分轨 + 交互乐理工具**
 
@@ -45,13 +45,13 @@ React/Vite 前端 + FastAPI/PyTorch 后端的全栈 Web 应用（PWA），面向
 
 ```mermaid
 xychart-beta
-    title "Guitariz/Guitariz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    title "Guitariz/Guitariz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 34 --> 38
-    line [35, 36, 37, 36]
+    line [35, 36, 37, 36, 36]
 ```
 
-2026-10-18 35 → 2026-10-27 36（+1）
+2026-10-18 35 → 2026-10-28 36（+1）
 
 
 ---

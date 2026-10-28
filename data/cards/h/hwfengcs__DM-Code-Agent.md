@@ -1,6 +1,6 @@
 # hwfengcs/DM-Code-Agent
 
-⭐ 154 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/hwfengcs/DM-Code-Agent) · 个人维护 · 中文 README
+⭐ 153 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/hwfengcs/DM-Code-Agent) · 个人维护 · 中文 README
 
 **本地优先、全程可审计的 Python Code Agent，内核仅一个 ReAct 循环**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hwfengcs/DM-Code-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 153 --> 155
-    line [154, 154]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 152 --> 155
+    line [154, 153]
 ```
 
-2026-10-18 154 → 2026-10-27 154（+0）
+2026-10-18 154 → 2026-10-28 153（-1）
 
 
 ---

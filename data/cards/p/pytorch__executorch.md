@@ -1,6 +1,6 @@
 # pytorch/executorch
 
-⭐ 5,128 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/pytorch/executorch) · [官网](https://executorch.ai) · 组织维护
+⭐ 5,133 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/executorch) · [官网](https://executorch.ai) · 组织维护
 
 **PyTorch 官方端侧 AI 推理栈：在手机、嵌入式与边缘设备本地运行模型**
 
@@ -45,13 +45,13 @@ Meta/PyTorch 维护的开源端侧推理栈：从 PyTorch 模型出发，经 tor
 
 ```mermaid
 xychart-beta
-    title "pytorch/executorch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5100 --> 5130
-    line [5102, 5105, 5110, 5113, 5117, 5120, 5122, 5128]
+    title "pytorch/executorch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5099 --> 5136
+    line [5102, 5105, 5110, 5113, 5117, 5120, 5122, 5128, 5133]
 ```
 
-2026-10-18 5,102 → 2026-10-27 5,128（+26）
+2026-10-18 5,102 → 2026-10-28 5,133（+31）
 
 
 ---

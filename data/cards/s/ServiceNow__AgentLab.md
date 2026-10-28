@@ -1,6 +1,6 @@
 # ServiceNow/AgentLab
 
-⭐ 658 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ServiceNow/AgentLab) · 组织维护
+⭐ 659 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ServiceNow/AgentLab) · 组织维护
 
 **给 web agent 研究者的开发、评测与基准实验框架**
 
@@ -45,13 +45,13 @@ ServiceNow 维护的开源框架，基于 BrowserGym 支持的多个基准（Web
 
 ```mermaid
 xychart-beta
-    title "ServiceNow/AgentLab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 654 --> 659
-    line [655, 656, 657, 658]
+    title "ServiceNow/AgentLab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 654 --> 660
+    line [655, 656, 657, 658, 659]
 ```
 
-2026-10-18 655 → 2026-10-27 658（+3）
+2026-10-18 655 → 2026-10-28 659（+4）
 
 
 ---

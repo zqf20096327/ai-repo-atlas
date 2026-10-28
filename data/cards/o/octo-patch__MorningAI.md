@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "octo-patch/MorningAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "octo-patch/MorningAI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 31 --> 34
-    line [33, 32]
+    line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-10-27 32（-1）
+2026-10-18 33 → 2026-10-28 32（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # quantmew/ripperdoc
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/quantmew/ripperdoc) · [官网](https://ripperdoc-docs.pages.dev) · 个人维护 · 中文 README
+⭐ 51 · Python · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/quantmew/ripperdoc) · [官网](https://ripperdoc-docs.pages.dev) · 个人维护 · 中文 README
 
 **终端中的可扩展 AI 编程代理，用自然语言写代码改项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "quantmew/ripperdoc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 50 --> 53
+    line [52, 51]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 51（-1）
 
 
 ---

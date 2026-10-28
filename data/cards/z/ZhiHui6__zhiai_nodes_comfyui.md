@@ -1,6 +1,6 @@
 # ZhiHui6/zhiai_nodes_comfyui
 
-⭐ 182 · JavaScript · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ZhiHui6/zhiai_nodes_comfyui) · 组织维护 · 中文 README
+⭐ 183 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ZhiHui6/zhiai_nodes_comfyui) · 组织维护 · 中文 README
 
 **55+ ComfyUI 自定义节点合集：提示词生成、翻译、图像处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZhiHui6/zhiai_nodes_comfyui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 180 --> 183
-    line [181, 182, 182]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 180 --> 184
+    line [181, 182, 183]
 ```
 
-2026-10-18 181 → 2026-10-27 182（+1）
+2026-10-18 181 → 2026-10-28 183（+2）
 
 
 ---

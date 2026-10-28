@@ -1,6 +1,6 @@
 # federicobrancasi/Deep-Learning
 
-⭐ 119 · TeX · AGPL-3.0 · 推送 2026-07-20 · [GitHub](https://github.com/federicobrancasi/Deep-Learning) · 个人维护
+⭐ 120 · TeX · AGPL-3.0 · 推送 2026-07-20 · [GitHub](https://github.com/federicobrancasi/Deep-Learning) · 个人维护
 
 **面向学生与研究者的 LaTeX 深度学习教科书，附 TikZ 图源码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "federicobrancasi/Deep-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120]
 ```
 
-2026-10-18 118 → 2026-10-27 119（+1）
+2026-10-18 118 → 2026-10-28 120（+2）
 
 
 ---

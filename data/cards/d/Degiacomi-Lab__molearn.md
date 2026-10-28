@@ -1,6 +1,6 @@
 # Degiacomi-Lab/molearn
 
-⭐ 52 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/Degiacomi-Lab/molearn) · [官网](https://degiacomi.org/software/molearn/) · 组织维护
+⭐ 52 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Degiacomi-Lab/molearn) · [官网](https://degiacomi.org/software/molearn/) · 组织维护
 
 **面向科研的蛋白质构象生成机器学习 Python 库**
 
@@ -45,12 +45,12 @@ molearn 是简化蛋白质构象生成式机器学习模型实现的 Python 包�
 ```mermaid
 xychart-beta
     title "Degiacomi-Lab/molearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 52（+0）
 
 
 ---

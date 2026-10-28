@@ -1,6 +1,6 @@
 # microsoft/multi-agent-reference-architecture
 
-⭐ 248 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/microsoft/multi-agent-reference-architecture) · [官网](https://aka.ms/multi-agent-system) · 组织维护
+⭐ 248 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/multi-agent-reference-architecture) · [官网](https://aka.ms/multi-agent-system) · 组织维护
 
 **企业多智能体系统设计的参考架构指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/multi-agent-reference-architecture 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "microsoft/multi-agent-reference-architecture 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 242 --> 249
-    line [243, 244, 246, 247, 248]
+    line [243, 244, 246, 247, 248, 248]
 ```
 
-2026-10-18 243 → 2026-10-27 248（+5）
+2026-10-18 243 → 2026-10-28 248（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # zulip/zulipmcp
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/zulip/zulipmcp) · [官网](https://windbornesystems.com/) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/zulip/zulipmcp) · [官网](https://windbornesystems.com/) · 组织维护
 
 **把 AI agent 以 @提及机器人形式接入 Zulip 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zulip/zulipmcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

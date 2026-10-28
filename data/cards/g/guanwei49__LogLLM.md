@@ -1,6 +1,6 @@
 # guanwei49/LogLLM
 
-⭐ 199 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/guanwei49/LogLLM) · 个人维护
+⭐ 201 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/guanwei49/LogLLM) · 个人维护
 
 **用 LLM 做系统日志异常检测的研究代码（论文官方实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guanwei49/LogLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 198 --> 200
-    line [199, 199]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 198 --> 202
+    line [199, 201]
 ```
 
-2026-10-18 199 → 2026-10-27 199（+0）
+2026-10-18 199 → 2026-10-28 201（+2）
 
 
 ---

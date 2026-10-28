@@ -1,6 +1,6 @@
 # ahujasid/mcp-for-blender
 
-⭐ 32,416 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
+⭐ 32,501 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
 
 **让 LLM 通过 MCP 控制 Blender 做 3D 建模的插件**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahujasid/mcp-for-blender 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 31266 --> 32520
-    line [31370, 31672, 31861, 32006, 32122, 32222, 32327, 32416]
+    title "ahujasid/mcp-for-blender 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 31257 --> 32614
+    line [31370, 31672, 31861, 32006, 32122, 32222, 32327, 32416, 32501]
 ```
 
-2026-10-18 31,370 → 2026-10-27 32,416（+1,046）
+2026-10-18 31,370 → 2026-10-28 32,501（+1,131）
 
 
 ---

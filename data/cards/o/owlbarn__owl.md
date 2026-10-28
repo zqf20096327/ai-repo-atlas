@@ -1,6 +1,6 @@
 # owlbarn/owl
 
-⭐ 1,356 · OCaml · MIT · 推送 2026-10-17 · [GitHub](https://github.com/owlbarn/owl) · 组织维护
+⭐ 1,355 · OCaml · MIT · 推送 2026-10-17 · [GitHub](https://github.com/owlbarn/owl) · 组织维护
 
 **OCaml 科学计算库：矩阵、自动微分与神经网络的数值框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "owlbarn/owl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 1355 --> 1357
-    line [1356, 1356]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 1354 --> 1357
+    line [1356, 1355]
 ```
 
-2026-10-18 1,356 → 2026-10-27 1,356（+0）
+2026-10-18 1,356 → 2026-10-28 1,355（-1）
 
 
 ---

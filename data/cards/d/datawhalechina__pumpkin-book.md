@@ -1,6 +1,6 @@
 # datawhalechina/pumpkin-book
 
-⭐ 26,139 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
+⭐ 26,146 · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/datawhalechina/pumpkin-book) · 组织维护 · 中文 README
 
 **机器学习学习者的西瓜书公式推导详解笔记**
 
@@ -51,12 +51,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/pumpkin-book 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 26127 --> 26140
-    line [26128, 26131, 26134, 26137, 26138, 26139, 26139]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 26127 --> 26147
+    line [26128, 26131, 26134, 26137, 26138, 26139, 26146]
 ```
 
-2026-10-18 26,128 → 2026-10-27 26,139（+11）
+2026-10-18 26,128 → 2026-10-28 26,146（+18）
 
 
 ---

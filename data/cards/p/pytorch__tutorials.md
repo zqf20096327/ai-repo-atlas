@@ -1,6 +1,6 @@
 # pytorch/tutorials
 
-⭐ 9,387 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/tutorials) · [官网](https://pytorch.org/tutorials/) · 组织维护
+⭐ 9,386 · Python · BSD-3-Clause · 推送 2026-10-21 · [GitHub](https://github.com/pytorch/tutorials) · [官网](https://pytorch.org/tutorials/) · 组织维护
 
 **PyTorch 官方教程仓库：以 Sphinx 文档形式呈现的深度学习教程集**
 
@@ -44,13 +44,13 @@ PyTorch 官方维护的教程仓库，所有教程以 Sphinx 风格文档发布�
 
 ```mermaid
 xychart-beta
-    title "pytorch/tutorials 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "pytorch/tutorials 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 9372 --> 9388
-    line [9373, 9376, 9379, 9382, 9383, 9384, 9385, 9387]
+    line [9373, 9376, 9379, 9382, 9383, 9384, 9385, 9387, 9386]
 ```
 
-2026-10-18 9,373 → 2026-10-27 9,387（+14）
+2026-10-18 9,373 → 2026-10-28 9,386（+13）
 
 
 ---

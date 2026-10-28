@@ -1,6 +1,6 @@
 # Minqi824/ADBench
 
-⭐ 1,028 · Python · BSD-2-Clause · 推送 2026-01-08 · [GitHub](https://github.com/Minqi824/ADBench) · 组织维护 · 中文 README
+⭐ 1,029 · Python · BSD-2-Clause · 推送 2026-01-08 · [GitHub](https://github.com/Minqi824/ADBench) · 组织维护 · 中文 README
 
 **表格数据异常检测基准：30 种算法在 57 个数据集上的评测**
 
@@ -46,12 +46,12 @@ NeurIPS 2022 论文 ADBench 的官方代码与数据仓库，由上海财经大�
 ```mermaid
 xychart-beta
     title "Minqi824/ADBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1026 --> 1029
-    line [1027, 1028, 1028]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1026 --> 1030
+    line [1027, 1028, 1029]
 ```
 
-2026-10-18 1,027 → 2026-10-27 1,028（+1）
+2026-10-18 1,027 → 2026-10-28 1,029（+2）
 
 
 ---

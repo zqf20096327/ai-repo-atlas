@@ -1,6 +1,6 @@
 # speechbrain/speechbrain
 
-⭐ 11,903 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/speechbrain/speechbrain) · [官网](http://speechbrain.github.io) · 组织维护
+⭐ 11,906 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/speechbrain/speechbrain) · [官网](http://speechbrain.github.io) · 组织维护
 
 **面向对话式 AI 的 PyTorch 语音/文本工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "speechbrain/speechbrain 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11886 --> 11904
-    line [11887, 11888, 11894, 11896, 11899, 11900, 11902, 11903]
+    title "speechbrain/speechbrain 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 11886 --> 11907
+    line [11887, 11888, 11894, 11896, 11899, 11900, 11902, 11903, 11906]
 ```
 
-2026-10-18 11,887 → 2026-10-27 11,903（+16）
+2026-10-18 11,887 → 2026-10-28 11,906（+19）
 
 
 ---

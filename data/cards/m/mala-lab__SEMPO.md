@@ -1,6 +1,6 @@
 # mala-lab/SEMPO
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/mala-lab/SEMPO) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-05-02 · [GitHub](https://github.com/mala-lab/SEMPO) · 组织维护
 
 **轻量级时间序列预测基础模型，面向科研复现与下游预测**
 
@@ -46,12 +46,12 @@ NeurIPS 2025 论文的官方实现，提供时间序列预测基础模型 SEMPO�
 ```mermaid
 xychart-beta
     title "mala-lab/SEMPO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 34（+1）
 
 
 ---

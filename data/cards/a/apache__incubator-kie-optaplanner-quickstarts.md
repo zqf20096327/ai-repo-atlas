@@ -45,12 +45,12 @@ Apache KIE 孵化项目维护的 OptaPlanner quickstarts 仓库，以 8 个运�
 ```mermaid
 xychart-beta
     title "apache/incubator-kie-optaplanner-quickstarts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 333 --> 335
     line [334, 334]
 ```
 
-2026-10-18 334 → 2026-10-27 334（+0）
+2026-10-18 334 → 2026-10-28 334（+0）
 
 
 ---

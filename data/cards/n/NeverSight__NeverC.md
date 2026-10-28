@@ -1,6 +1,6 @@
 # NeverSight/NeverC
 
-⭐ 97 · C · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NeverSight/NeverC) · 组织维护 · 中文 README
+⭐ 98 · C · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/NeverSight/NeverC) · 组织维护 · 中文 README
 
 **面向安全研究的 AI 友好 C23 编译器，基于 LLVM**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeverSight/NeverC 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 92 --> 98
-    line [93, 94, 95, 96, 97]
+    title "NeverSight/NeverC 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 92 --> 99
+    line [93, 94, 95, 96, 97, 98]
 ```
 
-2026-10-18 93 → 2026-10-27 97（+4）
+2026-10-18 93 → 2026-10-28 98（+5）
 
 
 ---

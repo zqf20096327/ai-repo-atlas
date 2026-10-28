@@ -1,6 +1,6 @@
 # truenas/truenas-mcp
 
-⭐ 102 · Go · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/truenas/truenas-mcp) · [官网](https://truenas.com) · 组织维护
+⭐ 101 · Go · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/truenas/truenas-mcp) · [官网](https://truenas.com) · 组织维护
 
 **让 AI 通过 MCP 用自然语言管理 TrueNAS 的服务器工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "truenas/truenas-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "truenas/truenas-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 94 --> 103
-    line [95, 96, 98, 100, 102]
+    line [95, 96, 98, 100, 102, 101]
 ```
 
-2026-10-18 95 → 2026-10-27 102（+7）
+2026-10-18 95 → 2026-10-28 101（+6）
 
 
 ---

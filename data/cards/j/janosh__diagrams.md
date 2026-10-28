@@ -1,6 +1,6 @@
 # janosh/diagrams
 
-⭐ 706 · Typst · MIT · 推送 2026-10-22 · [GitHub](https://github.com/janosh/diagrams) · [官网](https://janosh.github.io/diagrams) · 个人维护
+⭐ 707 · Typst · MIT · 推送 2026-10-22 · [GitHub](https://github.com/janosh/diagrams) · [官网](https://janosh.github.io/diagrams) · 个人维护
 
 **物理/化学/机器学习概念科学图表集合（Typst/LaTeX 源码）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "janosh/diagrams 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 701 --> 707
-    line [702, 704, 705, 706]
+    title "janosh/diagrams 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 701 --> 708
+    line [702, 704, 705, 706, 707]
 ```
 
-2026-10-18 702 → 2026-10-27 706（+4）
+2026-10-18 702 → 2026-10-28 707（+5）
 
 
 ---

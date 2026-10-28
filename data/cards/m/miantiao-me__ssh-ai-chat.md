@@ -1,6 +1,6 @@
 # miantiao-me/ssh-ai-chat
 
-⭐ 924 · TypeScript · AGPL-3.0 · 推送 2025-12-20 · [GitHub](https://github.com/miantiao-me/ssh-ai-chat) · [官网](https://chat.agi.li) · 个人维护 · 中文 README
+⭐ 925 · TypeScript · AGPL-3.0 · 推送 2025-12-20 · [GitHub](https://github.com/miantiao-me/ssh-ai-chat) · [官网](https://chat.agi.li) · 个人维护 · 中文 README
 
 **通过 SSH 终端与 AI 聊天的自托管 TUI 服务**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "miantiao-me/ssh-ai-chat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 922 --> 926
-    line [923, 924, 925, 924, 924]
+    line [923, 924, 925, 924, 925]
 ```
 
-2026-10-18 923 → 2026-10-27 924（+1）
+2026-10-18 923 → 2026-10-28 925（+2）
 
 
 ---

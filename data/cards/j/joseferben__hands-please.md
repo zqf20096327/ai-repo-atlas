@@ -1,6 +1,6 @@
 # joseferben/hands-please
 
-⭐ 32 · TypeScript · 推送 2026-10-22 · [GitHub](https://github.com/joseferben/hands-please) · 个人维护
+⭐ 32 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/joseferben/hands-please) · 个人维护
 
 **监控代码注释并后台运行编码 agent 的 CLI 工具**
 
@@ -45,12 +45,12 @@ Node.js CLI 工具：监视代码库中以 @ai 开头的注释（如 // @ai fix 
 ```mermaid
 xychart-beta
     title "joseferben/hands-please 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 31 --> 34
     line [33, 32, 32]
 ```
 
-2026-10-18 33 → 2026-10-27 32（-1）
+2026-10-18 33 → 2026-10-28 32（-1）
 
 
 ---

@@ -46,12 +46,12 @@ CloakBot 是运行在用户本地的隐私代理层：调用 Claude/GPT/Gemini �
 ```mermaid
 xychart-beta
     title "spire-studio/cloakbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-10-27 205（+0）
+2026-10-18 205 → 2026-10-28 205（+0）
 
 
 ---

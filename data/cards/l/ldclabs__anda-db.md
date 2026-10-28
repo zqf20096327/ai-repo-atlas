@@ -1,6 +1,6 @@
 # ldclabs/anda-db
 
-⭐ 31 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ldclabs/anda-db) · [官网](https://anda.ai) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 AI Agent 记忆的 Rust 嵌入式数据库与 KIP 协议引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # gqgs/llm100kbench
 
-⭐ 44 · Go · 推送 2026-10-26 · [GitHub](https://github.com/gqgs/llm100kbench) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **评测 LLM 投资决策的基准：每周自动跑投资组合并跟踪表现**
 

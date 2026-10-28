@@ -1,6 +1,6 @@
 # zkonduit/ezkl
 
-⭐ 1,234 · Rust · 推送 2026-02-20 · [GitHub](https://github.com/zkonduit/ezkl) · [官网](https://docs.ezkl.xyz/) · 组织维护
+⭐ 1,235 · Rust · 推送 2026-02-20 · [GitHub](https://github.com/zkonduit/ezkl) · [官网](https://docs.ezkl.xyz/) · 组织维护
 
 **在 zk-SNARK 中执行深度学习模型推理的证明引擎（ZKML）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zkonduit/ezkl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1230 --> 1235
-    line [1231, 1232, 1234, 1234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 1230 --> 1236
+    line [1231, 1232, 1234, 1235]
 ```
 
-2026-10-18 1,231 → 2026-10-27 1,234（+3）
+2026-10-18 1,231 → 2026-10-28 1,235（+4）
 
 
 ---

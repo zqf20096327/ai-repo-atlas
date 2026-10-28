@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-cua-py
 
-⭐ 217 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraph-cua-py) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langgraph-cua-py) · 组织维护
 
 **基于 LangGraph 的计算机使用代理（CUA）Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-cua-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 216 --> 218
-    line [217, 217]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 216 --> 219
+    line [217, 218]
 ```
 
-2026-10-18 217 → 2026-10-27 217（+0）
+2026-10-18 217 → 2026-10-28 218（+1）
 
 
 ---

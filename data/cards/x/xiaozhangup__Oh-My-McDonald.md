@@ -1,6 +1,6 @@
 # xiaozhangup/Oh-My-McDonald
 
-⭐ 121 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xiaozhangup/Oh-My-McDonald) · 个人维护 · 中文 README
+⭐ 122 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/xiaozhangup/Oh-My-McDonald) · 个人维护 · 中文 README
 
 **基于麦当劳官方 MCP 的对话式点餐决策 AI Skill**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaozhangup/Oh-My-McDonald 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 44 --> 128
-    line [51, 119, 121]
+    title "xiaozhangup/Oh-My-McDonald 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 44 --> 129
+    line [51, 119, 121, 122]
 ```
 
-2026-10-25 51 → 2026-10-27 121（+70）
+2026-10-25 51 → 2026-10-28 122（+71）
 
 
 ---

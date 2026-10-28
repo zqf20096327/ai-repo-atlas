@@ -1,6 +1,6 @@
 # VioletCranberry/coco-search
 
-⭐ 37 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/VioletCranberry/coco-search) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VioletCranberry/coco-search) · 个人维护
 
 **本地优先的混合语义代码搜索工具，供开发者与 AI 助手检索代码**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "VioletCranberry/coco-search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-muse-connectors
 
-⭐ 1,388 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/awesome-muse-connectors) · [官网](https://ai.meta.com/muse/) · 个人维护
+⭐ 1,391 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/awesome-muse-connectors) · [官网](https://ai.meta.com/muse/) · 个人维护
 
 **Meta Muse 连接器与工作流模板策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/awesome-muse-connectors 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1369 --> 1389
-    line [1370, 1372, 1378, 1381, 1380, 1382, 1388]
+    title "Anil-matcha/awesome-muse-connectors 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1368 --> 1393
+    line [1370, 1372, 1378, 1381, 1380, 1382, 1388, 1391]
 ```
 
-2026-10-18 1,370 → 2026-10-27 1,388（+18）
+2026-10-18 1,370 → 2026-10-28 1,391（+21）
 
 
 ---

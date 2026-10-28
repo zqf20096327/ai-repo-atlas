@@ -45,12 +45,12 @@ Distributed Networks Institute (DNI) 是华盛顿特区非营利孵化器 BlockS
 ```mermaid
 xychart-beta
     title "1712n/dn-institute 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-28 49（+0）
 
 
 ---

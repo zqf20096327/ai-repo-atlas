@@ -1,6 +1,6 @@
 # rushter/MLAlgorithms
 
-⭐ 11,181 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/rushter/MLAlgorithms) · 个人维护
+⭐ 11,182 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/rushter/MLAlgorithms) · 个人维护
 
 **面向学习者的机器学习算法最小化实现合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rushter/MLAlgorithms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11177 --> 11182
-    line [11178, 11179, 11181, 11181]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 11177 --> 11183
+    line [11178, 11179, 11181, 11182]
 ```
 
-2026-10-18 11,178 → 2026-10-27 11,181（+3）
+2026-10-18 11,178 → 2026-10-28 11,182（+4）
 
 
 ---

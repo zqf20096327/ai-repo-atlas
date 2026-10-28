@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb
 
-⭐ 69 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/yantrikos/yantrikdb) · [官网](https://yantrikdb.com) · 组织维护
+⭐ 69 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/yantrikos/yantrikdb) · [官网](https://yantrikdb.com) · 组织维护
 
 **给 AI agent 的认知记忆引擎：时间衰减、矛盾检测、知识图谱与 ANN 召回**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yantrikos/yantrikdb 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 65 --> 70
     line [66, 68, 69, 69]
 ```
 
-2026-10-18 66 → 2026-10-27 69（+3）
+2026-10-18 66 → 2026-10-28 69（+3）
 
 
 ---

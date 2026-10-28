@@ -1,6 +1,6 @@
 # Soren-ABT/dsh-knowledge
 
-⭐ 83 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Soren-ABT/dsh-knowledge) · 个人维护 · 中文 README
+⭐ 86 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/Soren-ABT/dsh-knowledge) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的知识库与 RAG 插件：文档分块、混合检索、本地模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Soren-ABT/dsh-knowledge 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 76 --> 84
-    line [77, 79, 81, 82, 83]
+    title "Soren-ABT/dsh-knowledge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 76 --> 87
+    line [77, 79, 81, 82, 83, 86]
 ```
 
-2026-10-18 77 → 2026-10-27 83（+6）
+2026-10-18 77 → 2026-10-28 86（+9）
 
 
 ---

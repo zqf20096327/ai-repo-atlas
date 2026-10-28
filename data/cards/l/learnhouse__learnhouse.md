@@ -1,6 +1,6 @@
 # learnhouse/learnhouse
 
-⭐ 2,419 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/learnhouse/learnhouse) · [官网](https://learnhouse.app) · 个人维护
+⭐ 2,424 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/learnhouse/learnhouse) · [官网](https://learnhouse.app) · 个人维护
 
 **开源自托管在线学习平台（LMS），含 AI 辅助教学功能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "learnhouse/learnhouse 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2396 --> 2421
-    line [2398, 2404, 2406, 2410, 2411, 2412, 2416, 2419]
+    title "learnhouse/learnhouse 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2396 --> 2426
+    line [2398, 2404, 2406, 2410, 2411, 2412, 2416, 2419, 2424]
 ```
 
-2026-10-18 2,398 → 2026-10-27 2,419（+21）
+2026-10-18 2,398 → 2026-10-28 2,424（+26）
 
 
 ---

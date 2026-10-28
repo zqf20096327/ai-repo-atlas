@@ -1,6 +1,6 @@
 # mariochavez/chroma
 
-⭐ 87 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/mariochavez/chroma) · 个人维护
+⭐ 88 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/mariochavez/chroma) · 个人维护
 
 **Chroma 向量数据库的 Ruby 客户端，供 Ruby 应用接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mariochavez/chroma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-18 87 → 2026-10-27 87（+0）
+2026-10-18 87 → 2026-10-28 88（+1）
 
 
 ---

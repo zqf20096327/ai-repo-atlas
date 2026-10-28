@@ -1,6 +1,6 @@
 # micytao/vllm-playground
 
-⭐ 542 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/micytao/vllm-playground) · [官网](https://micytao.github.io/vllm-workshop/) · 个人维护
+⭐ 543 · JavaScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/micytao/vllm-playground) · [官网](https://micytao.github.io/vllm-workshop/) · 个人维护
 
 **vLLM 服务器的 Web 管理与交互界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "micytao/vllm-playground 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 538 --> 543
-    line [539, 540, 541, 542, 542]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 538 --> 544
+    line [539, 540, 541, 542, 543]
 ```
 
-2026-10-18 539 → 2026-10-27 542（+3）
+2026-10-18 539 → 2026-10-28 543（+4）
 
 
 ---

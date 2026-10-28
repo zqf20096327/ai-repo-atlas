@@ -47,12 +47,12 @@ org-mode 的 Emacs minor mode，通过 #+begin_ai 代码块调用生成式 AI：
 ```mermaid
 xychart-beta
     title "rksm/org-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 821 --> 823
     line [822, 822]
 ```
 
-2026-10-18 822 → 2026-10-27 822（+0）
+2026-10-18 822 → 2026-10-28 822（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Masterblaster（mb）是一个 CLI 工具，用于启动基于 NixOS 的 stereOS
 ```mermaid
 xychart-beta
     title "papercomputeco/masterblaster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-27 76（+0）
+2026-10-18 76 → 2026-10-28 76（+0）
 
 
 ---

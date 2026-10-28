@@ -1,6 +1,6 @@
 # modelscope/AgentJet
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/modelscope/AgentJet) · [官网](https://modelscope.github.io/AgentJet/) · 组织维护 · 中文 README
+⭐ 242 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/modelscope/AgentJet) · [官网](https://modelscope.github.io/AgentJet/) · 组织维护 · 中文 README
 
 **面向 LLM agent 的强化学习微调训练框架，支持分布式 Swarm 训练**
 
@@ -46,12 +46,12 @@ AgentJet 是一个 agent RL 训练框架：用户提交可训练工作流（继�
 ```mermaid
 xychart-beta
     title "modelscope/AgentJet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 240 --> 242
-    line [241, 241]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 240 --> 243
+    line [241, 242]
 ```
 
-2026-10-18 241 → 2026-10-27 241（+0）
+2026-10-18 241 → 2026-10-28 242（+1）
 
 
 ---

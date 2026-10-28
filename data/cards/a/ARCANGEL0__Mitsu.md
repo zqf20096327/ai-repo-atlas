@@ -1,6 +1,6 @@
 # ARCANGEL0/Mitsu
 
-⭐ 535 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ARCANGEL0/Mitsu) · 个人维护
+⭐ 536 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ARCANGEL0/Mitsu) · 个人维护
 
 **面向授权渗透测试的 AI 红队操作员，带 165+ MCP 工具**
 
@@ -45,12 +45,12 @@ Mitsu 是一个以 chibi 角色呈现的红队助手 CLI/TUI 工具，用于授�
 ```mermaid
 xychart-beta
     title "ARCANGEL0/Mitsu 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-27"]
-    y-axis "stars" 534 --> 536
-    line [535, 535]
+    x-axis ["2026-10-24", "2026-10-28"]
+    y-axis "stars" 534 --> 537
+    line [535, 536]
 ```
 
-2026-10-24 535 → 2026-10-27 535（+0）
+2026-10-24 535 → 2026-10-28 536（+1）
 
 
 ---

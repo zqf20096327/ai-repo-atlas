@@ -1,6 +1,6 @@
 # Ahmet-Dedeler/ai-llm-comparison
 
-⭐ 425 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [官网](https://llmarena.ai) · 个人维护
+⭐ 426 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Ahmet-Dedeler/ai-llm-comparison) · [官网](https://llmarena.ai) · 个人维护
 
 **对比各 AI 模型价格与能力的免费开源网站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ahmet-Dedeler/ai-llm-comparison 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 424 --> 427
-    line [425, 426, 425, 425]
+    line [425, 426, 425, 426]
 ```
 
-2026-10-18 425 → 2026-10-27 425（+0）
+2026-10-18 425 → 2026-10-28 426（+1）
 
 
 ---

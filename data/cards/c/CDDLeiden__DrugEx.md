@@ -1,6 +1,6 @@
 # CDDLeiden/DrugEx
 
-⭐ 191 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CDDLeiden/DrugEx) · [官网](https://cddleiden.github.io/DrugEx/docs/) · 组织维护
+⭐ 192 · Jupyter Notebook · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CDDLeiden/DrugEx) · [官网](https://cddleiden.github.io/DrugEx/docs/) · 组织维护
 
 **深度学习多目标强化学习的小分子从头设计库，面向药物发现研究者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CDDLeiden/DrugEx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 189 --> 192
-    line [191, 190, 191, 191]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 189 --> 193
+    line [191, 190, 191, 192]
 ```
 
-2026-10-18 191 → 2026-10-27 191（+0）
+2026-10-18 191 → 2026-10-28 192（+1）
 
 
 ---

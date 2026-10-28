@@ -1,6 +1,6 @@
 # Marc-Moeller/aicms
 
-⭐ 50 · TypeScript · AGPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/Marc-Moeller/aicms) · [官网](https://AICMS.one) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **由 AI agent 对话驱动的开源 CMS，聊天即可建站改站**
 
@@ -11,7 +11,7 @@ AI-first 内容管理系统：用户用自然语言与内置 agent 对话，agen
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # anneheartrecord/claude-code-docs
 
-⭐ 178 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/anneheartrecord/claude-code-docs) · [官网](https://www.charles-cheng.com/projects) · 个人维护 · 中文 README
+⭐ 179 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/anneheartrecord/claude-code-docs) · [官网](https://www.charles-cheng.com/projects) · 个人维护 · 中文 README
 
 **Claude Code 泄露源码的逐模块技术分析文档集（13 章，中英双语）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anneheartrecord/claude-code-docs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 176 --> 179
-    line [177, 178, 178]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 176 --> 180
+    line [177, 178, 179]
 ```
 
-2026-10-18 177 → 2026-10-27 178（+1）
+2026-10-18 177 → 2026-10-28 179（+2）
 
 
 ---

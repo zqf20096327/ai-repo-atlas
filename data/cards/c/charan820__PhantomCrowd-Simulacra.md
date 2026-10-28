@@ -1,6 +1,6 @@
 # charan820/PhantomCrowd-Simulacra
 
-⭐ 117 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/charan820/PhantomCrowd-Simulacra) · 个人维护
+⭐ 116 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/charan820/PhantomCrowd-Simulacra) · 个人维护
 
 **本地多智能体社交传播模拟器：预演内容的扩散与语义漂移**
 
@@ -46,12 +46,12 @@ EchoHerd 是一个多智能体社会传播模拟引擎：用户注入种子内�
 ```mermaid
 xychart-beta
     title "charan820/PhantomCrowd-Simulacra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 116 --> 118
-    line [117, 117]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 115 --> 118
+    line [117, 116]
 ```
 
-2026-10-18 117 → 2026-10-27 117（+0）
+2026-10-18 117 → 2026-10-28 116（-1）
 
 
 ---

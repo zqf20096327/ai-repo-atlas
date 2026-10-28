@@ -1,6 +1,6 @@
 # personamanagmentlayer/pcl
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/personamanagmentlayer/pcl) · [官网](https://pclang.org) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/personamanagmentlayer/pcl) · [官网](https://pclang.org) · 组织维护
 
 **面向企业治理的 AI 人设与多智能体编排编程语言**
 
@@ -45,12 +45,12 @@ PCL 是一种治理优先的编程语言（TypeScript 实现），用于定义 A
 ```mermaid
 xychart-beta
     title "personamanagmentlayer/pcl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 42 --> 45
-    line [44, 43, 43]
+    line [44, 43, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 43（-1）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

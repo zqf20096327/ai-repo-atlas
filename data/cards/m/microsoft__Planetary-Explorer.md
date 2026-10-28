@@ -1,6 +1,6 @@
 # microsoft/Planetary-Explorer
 
-⭐ 200 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/Planetary-Explorer) · 组织维护
+⭐ 200 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/Planetary-Explorer) · 组织维护
 
 **微软的AI地理空间应用：用自然语言探索地球科学数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Planetary-Explorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 198 --> 201
     line [199, 200, 200]
 ```
 
-2026-10-18 199 → 2026-10-27 200（+1）
+2026-10-18 199 → 2026-10-28 200（+1）
 
 
 ---

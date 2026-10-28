@@ -1,6 +1,6 @@
 # microsoft/aspire-samples
 
-⭐ 1,198 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/aspire-samples) · [官网](https://aspire.dev/reference/samples/) · 组织维护
+⭐ 1,198 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/aspire-samples) · [官网](https://aspire.dev/reference/samples/) · 组织维护
 
 **微软 Aspire 的官方示例集合，覆盖多语言云原生与 AI 场景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/aspire-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 1195 --> 1199
     line [1196, 1197, 1198, 1198]
 ```
 
-2026-10-18 1,196 → 2026-10-27 1,198（+2）
+2026-10-18 1,196 → 2026-10-28 1,198（+2）
 
 
 ---

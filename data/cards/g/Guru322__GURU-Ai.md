@@ -1,6 +1,6 @@
 # Guru322/GURU-Ai
 
-⭐ 1,168 · JavaScript · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Guru322/GURU-Ai) · [官网](http://guru.is-a.dev/) · 个人维护
+⭐ 1,167 · JavaScript · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/Guru322/GURU-Ai) · [官网](http://guru.is-a.dev/) · 个人维护
 
 **通过配对码接入 WhatsApp 的命令式聊天机器人（Node.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Guru322/GURU-Ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1166 --> 1169
-    line [1168, 1167, 1168, 1168]
+    line [1168, 1167, 1168, 1167]
 ```
 
-2026-10-18 1,168 → 2026-10-27 1,168（+0）
+2026-10-18 1,168 → 2026-10-28 1,167（-1）
 
 
 ---

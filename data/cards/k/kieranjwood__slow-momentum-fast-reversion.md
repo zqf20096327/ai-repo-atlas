@@ -45,12 +45,12 @@ Oxford 研究者论文《Slow Momentum with Fast Reversion: A Trading Strategy U
 ```mermaid
 xychart-beta
     title "kieranjwood/slow-momentum-fast-reversion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 277 --> 279
     line [278, 278]
 ```
 
-2026-10-18 278 → 2026-10-27 278（+0）
+2026-10-18 278 → 2026-10-28 278（+0）
 
 
 ---

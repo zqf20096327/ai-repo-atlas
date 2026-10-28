@@ -1,6 +1,6 @@
 # AltimateAI/vscode-dbt-power-user
 
-⭐ 586 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/AltimateAI/vscode-dbt-power-user) · [官网](https://www.altimate.ai) · 组织维护
+⭐ 586 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AltimateAI/vscode-dbt-power-user) · [官网](https://www.altimate.ai) · 组织维护
 
 **让 VSCode 与 dbt 协同开发的扩展，含 AI 文档生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AltimateAI/vscode-dbt-power-user 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 585 --> 587
     line [586, 586]
 ```
 
-2026-10-18 586 → 2026-10-27 586（+0）
+2026-10-18 586 → 2026-10-28 586（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # netease-youdao/Confucius4-TTS
 
-⭐ 848 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/netease-youdao/Confucius4-TTS) · 组织维护 · 中文 README
+⭐ 849 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/netease-youdao/Confucius4-TTS) · 组织维护 · 中文 README
 
 **多语言跨语言零样本语音克隆 TTS 引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "netease-youdao/Confucius4-TTS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 841 --> 849
-    line [842, 843, 845, 846, 847, 848, 848]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 841 --> 850
+    line [842, 843, 845, 846, 847, 848, 849]
 ```
 
-2026-10-18 842 → 2026-10-27 848（+6）
+2026-10-18 842 → 2026-10-28 849（+7）
 
 
 ---

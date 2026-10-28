@@ -1,6 +1,6 @@
 # SynkraAI/aiox-core
 
-⭐ 3,135 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/SynkraAI/aiox-core) · [官网](https://github.com/allfluence/aios-core) · 组织维护
+⭐ 3,137 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/SynkraAI/aiox-core) · [官网](https://github.com/allfluence/aios-core) · 组织维护
 
 **面向全栈开发的 AI 多智能体编排框架（CLI 优先，跨 IDE）**
 
@@ -46,12 +46,12 @@ AIOX Squad 是一个 TypeScript/npm 开源的 AI 编排框架，把 analyst/pm/a
 ```mermaid
 xychart-beta
     title "SynkraAI/aiox-core 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3129 --> 3137
-    line [3130, 3133, 3135, 3136, 3135, 3135]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 3129 --> 3138
+    line [3130, 3133, 3135, 3136, 3135, 3137]
 ```
 
-2026-10-18 3,130 → 2026-10-27 3,135（+5）
+2026-10-18 3,130 → 2026-10-28 3,137（+7）
 
 
 ---

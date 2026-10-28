@@ -1,6 +1,6 @@
 # aitomatic/semikong
 
-⭐ 439 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/aitomatic/semikong) · 组织维护
+⭐ 440 · Python · MIT · 推送 2026-03-18 · [GitHub](https://github.com/aitomatic/semikong) · 组织维护
 
 **面向半导体行业的开源领域语言模型与本体知识图谱项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aitomatic/semikong 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 437 --> 440
-    line [438, 439, 439]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 437 --> 441
+    line [438, 439, 440]
 ```
 
-2026-10-18 438 → 2026-10-27 439（+1）
+2026-10-18 438 → 2026-10-28 440（+2）
 
 
 ---

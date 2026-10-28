@@ -44,12 +44,12 @@ Next.js + TypeScript 构建的 ChatGPT 克隆应用：通过 OpenAI API 生成�
 ```mermaid
 xychart-beta
     title "Jauharmuhammed/beyondgpt-ai-saas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-27 53（+0）
+2026-10-18 53 → 2026-10-28 53（+0）
 
 
 ---

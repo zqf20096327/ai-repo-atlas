@@ -45,12 +45,12 @@ VS Code 扩展，通过 Playwright 浏览器会话登录 Qwen、DeepSeek、Kimi�
 ```mermaid
 xychart-beta
     title "AppsGanin/ai-free-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-27 55（+0）
+2026-10-18 55 → 2026-10-28 55（+0）
 
 
 ---

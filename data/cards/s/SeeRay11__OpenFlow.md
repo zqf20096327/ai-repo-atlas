@@ -1,6 +1,6 @@
 # SeeRay11/OpenFlow
 
-⭐ 165 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SeeRay11/OpenFlow) · [官网](https://www.reddit.com/r/OpenFlowAI/) · 个人维护
+⭐ 167 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/SeeRay11/OpenFlow) · [官网](https://www.reddit.com/r/OpenFlowAI/) · 个人维护
 
 **多智能体 AI 工作流的可视化编排器**
 
@@ -46,12 +46,12 @@ OpenFlow 是基于 opencode 引擎（通过 opencode serve 驱动）构建的独
 ```mermaid
 xychart-beta
     title "SeeRay11/OpenFlow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 117 --> 169
-    line [121, 146, 161, 163, 165, 165]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 117 --> 171
+    line [121, 146, 161, 163, 165, 167]
 ```
 
-2026-10-18 121 → 2026-10-27 165（+44）
+2026-10-18 121 → 2026-10-28 167（+46）
 
 
 ---

@@ -1,6 +1,6 @@
 # adamd1985/quant_research
 
-⭐ 116 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/adamd1985/quant_research) · [官网](https://medium.com/@adamdarmanin) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **金融工程与量化交易的文章/笔记本合集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

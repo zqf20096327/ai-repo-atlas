@@ -1,6 +1,6 @@
 # harris21/ship-ai-with-laravel
 
-⭐ 87 · PHP · 推送 2026-07-08 · [GitHub](https://github.com/harris21/ship-ai-with-laravel) · 个人维护
+⭐ 88 · PHP · 推送 2026-07-08 · [GitHub](https://github.com/harris21/ship-ai-with-laravel) · 个人维护
 
 **Laravel AI 客服平台教学系列的配套代码仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "harris21/ship-ai-with-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 86 --> 89
+    line [87, 88]
 ```
 
-2026-10-18 87 → 2026-10-27 87（+0）
+2026-10-18 87 → 2026-10-28 88（+1）
 
 
 ---

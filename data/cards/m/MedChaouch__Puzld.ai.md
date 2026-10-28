@@ -1,6 +1,6 @@
 # MedChaouch/Puzld.ai
 
-⭐ 271 · TypeScript · AGPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/MedChaouch/Puzld.ai) · [官网](https://docs.puzld.cc) · 个人维护
+⭐ 270 · TypeScript · AGPL-3.0 · 推送 2026-01-01 · [GitHub](https://github.com/MedChaouch/Puzld.ai) · [官网](https://docs.puzld.cc) · 个人维护
 
 **终端多 LLM 编排框架：路由、协作、代理执行与训练数据生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MedChaouch/Puzld.ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 270 --> 273
-    line [272, 271, 271]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 269 --> 273
+    line [272, 271, 270]
 ```
 
-2026-10-18 272 → 2026-10-27 271（-1）
+2026-10-18 272 → 2026-10-28 270（-2）
 
 
 ---

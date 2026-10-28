@@ -1,6 +1,6 @@
 # LamantinAI/kaeru
 
-⭐ 51 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LamantinAI/kaeru) · 组织维护
+⭐ 52 · Rust · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/LamantinAI/kaeru) · 组织维护
 
 **面向 LLM agent 的跨 agent 认知记忆引擎，本地优先可云共享**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LamantinAI/kaeru 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 39 --> 52
-    line [40, 42, 48, 49, 51]
+    title "LamantinAI/kaeru 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 39 --> 53
+    line [40, 42, 48, 49, 51, 52]
 ```
 
-2026-10-18 40 → 2026-10-27 51（+11）
+2026-10-18 40 → 2026-10-28 52（+12）
 
 
 ---

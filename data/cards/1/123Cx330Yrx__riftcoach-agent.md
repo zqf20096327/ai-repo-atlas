@@ -1,6 +1,6 @@
 # 123Cx330Yrx/riftcoach-agent
 
-⭐ 101 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/123Cx330Yrx/riftcoach-agent) · 个人维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/123Cx330Yrx/riftcoach-agent) · 个人维护 · 中文 README
 
 **英雄联盟赛后复盘教练 Agent：数据计算+RAG+LLM 生成带门控的中文报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "123Cx330Yrx/riftcoach-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 100 --> 106
     line [105, 101, 101]
 ```
 
-2026-10-18 105 → 2026-10-27 101（-4）
+2026-10-18 105 → 2026-10-28 101（-4）
 
 
 ---

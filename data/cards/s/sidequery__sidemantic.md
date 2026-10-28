@@ -47,12 +47,12 @@ Sidemantic 是一个开源语义层运行时（universal metrics layer），允�
 ```mermaid
 xychart-beta
     title "sidequery/sidemantic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 130 --> 133
     line [131, 132, 132]
 ```
 
-2026-10-18 131 → 2026-10-27 132（+1）
+2026-10-18 131 → 2026-10-28 132（+1）
 
 
 ---

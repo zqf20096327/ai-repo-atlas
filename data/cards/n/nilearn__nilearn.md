@@ -1,6 +1,6 @@
 # nilearn/nilearn
 
-⭐ 1,452 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/nilearn/nilearn) · [官网](http://nilearn.github.io) · 组织维护
+⭐ 1,451 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/nilearn/nilearn) · [官网](http://nilearn.github.io) · 组织维护
 
 **Python 脑影像（体积/表面）统计分析与机器学习库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nilearn/nilearn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    title "nilearn/nilearn 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1445 --> 1453
-    line [1446, 1448, 1449, 1451, 1452]
+    line [1446, 1448, 1449, 1451, 1452, 1451]
 ```
 
-2026-10-18 1,446 → 2026-10-27 1,452（+6）
+2026-10-18 1,446 → 2026-10-28 1,451（+5）
 
 
 ---

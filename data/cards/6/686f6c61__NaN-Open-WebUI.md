@@ -1,6 +1,6 @@
 # 686f6c61/NaN-Open-WebUI
 
-⭐ 39 · HTML · 推送 2026-10-18 · [GitHub](https://github.com/686f6c61/NaN-Open-WebUI) · 个人维护
+⭐ 39 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/686f6c61/NaN-Open-WebUI) · 个人维护
 
 **面向 NaN API 预配置的自托管 ChatGPT 式 Web 界面（Docker 部署）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "686f6c61/NaN-Open-WebUI 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 35 --> 40
     line [36, 37, 38, 39, 39]
 ```
 
-2026-10-19 36 → 2026-10-27 39（+3）
+2026-10-19 36 → 2026-10-28 39（+3）
 
 
 ---

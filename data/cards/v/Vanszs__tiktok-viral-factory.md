@@ -1,6 +1,6 @@
 # Vanszs/tiktok-viral-factory
 
-⭐ 36 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Vanszs/tiktok-viral-factory) · 个人维护
+⭐ 37 · Python · 推送 2026-06-22 · [GitHub](https://github.com/Vanszs/tiktok-viral-factory) · 个人维护
 
 **全自动多 Agent 系统生成并发布 TikTok 带货视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vanszs/tiktok-viral-factory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 29 --> 37
-    line [30, 31, 32, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 29 --> 38
+    line [30, 31, 32, 35, 36, 37]
 ```
 
-2026-10-18 30 → 2026-10-27 36（+6）
+2026-10-18 30 → 2026-10-28 37（+7）
 
 
 ---

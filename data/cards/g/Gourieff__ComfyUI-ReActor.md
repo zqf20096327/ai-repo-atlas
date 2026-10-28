@@ -1,6 +1,6 @@
 # Gourieff/ComfyUI-ReActor
 
-⭐ 1,387 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Gourieff/ComfyUI-ReActor) · 个人维护
+⭐ 1,390 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/Gourieff/ComfyUI-ReActor) · 个人维护
 
 **ComfyUI 的换脸扩展节点集，含 SFW 内容检测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gourieff/ComfyUI-ReActor 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1382 --> 1388
-    line [1384, 1387, 1384, 1383, 1385, 1387]
+    title "Gourieff/ComfyUI-ReActor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1382 --> 1391
+    line [1384, 1387, 1384, 1383, 1385, 1387, 1390]
 ```
 
-2026-10-18 1,384 → 2026-10-27 1,387（+3）
+2026-10-18 1,384 → 2026-10-28 1,390（+6）
 
 
 ---

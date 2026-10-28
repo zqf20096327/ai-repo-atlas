@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moonrunnerkc/swarm-orchestrator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "moonrunnerkc/swarm-orchestrator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 111]
+    line [111, 112, 111, 111]
 ```
 
-2026-10-18 111 → 2026-10-27 111（+0）
+2026-10-18 111 → 2026-10-28 111（+0）
 
 
 ---

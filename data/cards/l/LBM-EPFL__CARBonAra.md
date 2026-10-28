@@ -1,6 +1,6 @@
 # LBM-EPFL/CARBonAra
 
-⭐ 50 · Jupyter Notebook · NOASSERTION · 推送 2025-11-04 · [GitHub](https://github.com/LBM-EPFL/CARBonAra) · 组织维护
+⭐ 51 · Jupyter Notebook · NOASSERTION · 推送 2025-11-04 · [GitHub](https://github.com/LBM-EPFL/CARBonAra) · 组织维护
 
 **从蛋白质骨架结构生成序列的几何深度学习框架**
 
@@ -45,12 +45,12 @@ EPFL LBM 实验室开发的蛋白质序列设计框架：基于几何 Transforme
 ```mermaid
 xychart-beta
     title "LBM-EPFL/CARBonAra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 51（+1）
 
 
 ---

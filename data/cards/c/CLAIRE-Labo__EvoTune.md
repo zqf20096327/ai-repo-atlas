@@ -1,6 +1,6 @@
 # CLAIRE-Labo/EvoTune
 
-⭐ 145 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/CLAIRE-Labo/EvoTune) · [官网](https://claire-labo.github.io/EvoTune/) · 组织维护
+⭐ 146 · Python · MIT · 推送 2025-11-18 · [GitHub](https://github.com/CLAIRE-Labo/EvoTune) · [官网](https://claire-labo.github.io/EvoTune/) · 组织维护
 
 **科研者用 LLM 进化搜索+强化学习发现新算法的框架**
 
@@ -46,12 +46,12 @@ EvoTune 是通过结合两类机制发现新算法的研究框架：对 LLM 生�
 ```mermaid
 xychart-beta
     title "CLAIRE-Labo/EvoTune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 143 --> 146
-    line [144, 145, 145]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 143 --> 147
+    line [144, 145, 146]
 ```
 
-2026-10-18 144 → 2026-10-27 145（+1）
+2026-10-18 144 → 2026-10-28 146（+2）
 
 
 ---

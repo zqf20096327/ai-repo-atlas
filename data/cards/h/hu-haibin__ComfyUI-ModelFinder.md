@@ -43,12 +43,12 @@ Python/Tkinter 编写的独立工具：扫描 ComfyUI 工作流 JSON 提取引�
 ```mermaid
 xychart-beta
     title "hu-haibin/ComfyUI-ModelFinder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 46（+0）
 
 
 ---

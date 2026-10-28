@@ -1,6 +1,6 @@
 # lab-cosmo/flashmd
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/lab-cosmo/flashmd) · [官网](https://papers.nips.cc/paper_files/paper/2025/file/7ffade093764c9a59a777c3cbe346b97-Paper-Conference.pdf) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/lab-cosmo/flashmd) · [官网](https://papers.nips.cc/paper_files/paper/2025/file/7ffade093764c9a59a777c3cbe346b97-Paper-Conference.pdf) · 组织维护
 
 **用长步长机器学习模型预测分子动力学轨迹的工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lab-cosmo/flashmd 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59]
 ```
 
-2026-10-18 57 → 2026-10-27 58（+1）
+2026-10-18 57 → 2026-10-28 59（+2）
 
 
 ---

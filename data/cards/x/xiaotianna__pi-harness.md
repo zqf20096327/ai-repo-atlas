@@ -1,6 +1,6 @@
 # xiaotianna/pi-harness
 
-⭐ 25 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/xiaotianna/pi-harness) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/xiaotianna/pi-harness) · 个人维护 · 中文 README
 
 **本地优先的 AI Agent 工作台，读写本地项目并并行派发 Sub Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaotianna/pi-harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 17 --> 26
-    line [18, 20, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 17 --> 29
+    line [18, 20, 24, 25, 28]
 ```
 
-2026-10-18 18 → 2026-10-27 25（+7）
+2026-10-18 18 → 2026-10-28 28（+10）
 
 
 ---

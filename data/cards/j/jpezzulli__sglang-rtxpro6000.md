@@ -1,6 +1,6 @@
 # jpezzulli/sglang-rtxpro6000
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jpezzulli/sglang-rtxpro6000) · [官网](https://msoexpert.com) · 个人维护
+⭐ 179 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/jpezzulli/sglang-rtxpro6000) · [官网](https://msoexpert.com) · 个人维护
 
 **面向 RTX PRO 6000 Blackwell 的 SGLang 派生推理运行时**
 
@@ -45,12 +45,12 @@ Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwel
 ```mermaid
 xychart-beta
     title "jpezzulli/sglang-rtxpro6000 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 164 --> 179
-    line [165, 168, 171, 175, 176, 178, 178]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 164 --> 180
+    line [165, 168, 171, 175, 176, 178, 179]
 ```
 
-2026-10-18 165 → 2026-10-27 178（+13）
+2026-10-18 165 → 2026-10-28 179（+14）
 
 
 ---

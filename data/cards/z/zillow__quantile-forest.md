@@ -1,6 +1,6 @@
 # zillow/quantile-forest
 
-⭐ 255 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
+⭐ 255 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
 
 **兼容 scikit-learn 的分位数回归森林 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zillow/quantile-forest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 254 --> 256
     line [255, 255]
 ```
 
-2026-10-18 255 → 2026-10-27 255（+0）
+2026-10-18 255 → 2026-10-28 255（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yerdaulet-damir/langgraph-sales-agent
 
-⭐ 50 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/yerdaulet-damir/langgraph-sales-agent) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-03-02 · [GitHub](https://github.com/yerdaulet-damir/langgraph-sales-agent) · 个人维护
 
 **多租户 AI 销售代理框架：单部署服务多商家多渠道**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yerdaulet-damir/langgraph-sales-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50]
+    title "yerdaulet-damir/langgraph-sales-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 49, 50, 51]
 ```
 
-2026-10-18 47 → 2026-10-27 50（+3）
+2026-10-18 47 → 2026-10-28 51（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # IsRengel/InstallCursorEditorLinux
 
-⭐ 157 · Shell · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/IsRengel/InstallCursorEditorLinux) · 个人维护
+⭐ 158 · Shell · Apache-2.0 · 推送 2026-01-21 · [GitHub](https://github.com/IsRengel/InstallCursorEditorLinux) · 个人维护
 
 **Linux 上安装 Cursor AI 代码编辑器的 Bash 安装脚本（已弃用）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IsRengel/InstallCursorEditorLinux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 156 --> 159
-    line [158, 157, 157]
+    line [158, 157, 158]
 ```
 
-2026-10-18 158 → 2026-10-27 157（-1）
+2026-10-18 158 → 2026-10-28 158（+0）
 
 
 ---

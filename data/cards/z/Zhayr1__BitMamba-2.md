@@ -44,13 +44,13 @@ BitMamba-2 的官方实现：将 BitNet 1.58-bit 三值量化集成进 Mamba-2 �
 
 ```mermaid
 xychart-beta
-    title "Zhayr1/BitMamba-2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "Zhayr1/BitMamba-2 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 23 --> 26
-    line [24, 25]
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 25（+1）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

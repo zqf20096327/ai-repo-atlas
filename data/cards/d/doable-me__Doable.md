@@ -1,6 +1,6 @@
 # doable-me/Doable
 
-⭐ 56 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/doable-me/Doable) · [官网](https://doable.me) · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/doable-me/Doable) · [官网](https://doable.me) · 组织维护
 
 **面向团队的自托管多租户 AI 应用构建平台**
 
@@ -47,12 +47,12 @@ MIT 许可的自托管 AI 应用构建器：用户用自然语言描述需求，
 ```mermaid
 xychart-beta
     title "doable-me/Doable 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 56, 57]
 ```
 
-2026-10-18 54 → 2026-10-27 56（+2）
+2026-10-18 54 → 2026-10-28 57（+3）
 
 
 ---

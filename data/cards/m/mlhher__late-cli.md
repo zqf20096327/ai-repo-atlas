@@ -1,6 +1,6 @@
 # mlhher/late-cli
 
-⭐ 448 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mlhher/late-cli) · 个人维护 · 中文 README
+⭐ 450 · Go · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/mlhher/late-cli) · 个人维护 · 中文 README
 
 **面向本地模型长程任务的 AI 编码 agent，上下文隔离编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlhher/late-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 445 --> 449
-    line [446, 448, 448]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 445 --> 451
+    line [446, 448, 450]
 ```
 
-2026-10-18 446 → 2026-10-27 448（+2）
+2026-10-18 446 → 2026-10-28 450（+4）
 
 
 ---

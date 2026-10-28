@@ -1,6 +1,6 @@
 # YueLi-and-Me/YueLiBot
 
-⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/YueLi-and-Me/YueLiBot) · [官网](https://docs.yuelibot.org/) · 个人维护 · 中文 README
+⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/YueLi-and-Me/YueLiBot) · [官网](https://docs.yuelibot.org/) · 个人维护 · 中文 README
 
 **LLM 驱动的 QQ 陪伴智能体：有记忆、性格与作息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YueLi-and-Me/YueLiBot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 42 --> 47
     line [46, 43, 44, 44]
 ```
 
-2026-10-18 46 → 2026-10-27 44（-2）
+2026-10-18 46 → 2026-10-28 44（-2）
 
 
 ---

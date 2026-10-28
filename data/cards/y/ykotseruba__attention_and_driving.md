@@ -1,6 +1,6 @@
 # ykotseruba/attention_and_driving
 
-⭐ 142 · 推送 2025-12-10 · [GitHub](https://github.com/ykotseruba/attention_and_driving) · [官网](https://ieeexplore.ieee.org/document/9827989) · 个人维护
+⭐ 141 · 推送 2025-12-10 · [GitHub](https://github.com/ykotseruba/attention_and_driving) · [官网](https://ieeexplore.ieee.org/document/9827989) · 个人维护
 
 **驾驶员注意力领域同行评审论文策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ykotseruba/attention_and_driving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 140 --> 143
+    line [142, 141]
 ```
 
-2026-10-18 142 → 2026-10-27 142（+0）
+2026-10-18 142 → 2026-10-28 141（-1）
 
 
 ---

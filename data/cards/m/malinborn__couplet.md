@@ -1,6 +1,6 @@
 # malinborn/couplet
 
-⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/malinborn/couplet) · [官网](https://malinborn.github.io/couplet/) · 个人维护
+⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/malinborn/couplet) · [官网](https://malinborn.github.io/couplet/) · 个人维护
 
 **macOS Markdown 编辑器：让 AI agent 与你共编同一文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "malinborn/couplet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

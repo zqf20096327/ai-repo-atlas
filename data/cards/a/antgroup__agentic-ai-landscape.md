@@ -1,6 +1,6 @@
 # antgroup/agentic-ai-landscape
 
-⭐ 556 · HTML · 推送 2026-09-27 · [GitHub](https://github.com/antgroup/agentic-ai-landscape) · [官网](https://insights.inclusion-ai.org/) · 组织维护 · 中文 README
+⭐ 557 · HTML · 推送 2026-09-27 · [GitHub](https://github.com/antgroup/agentic-ai-landscape) · [官网](https://insights.inclusion-ai.org/) · 组织维护 · 中文 README
 
 **数据驱动的 Agentic AI 生态全景图与洞察报告（蚂蚁开源）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "antgroup/agentic-ai-landscape 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "antgroup/agentic-ai-landscape 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 553 --> 558
-    line [554, 555, 556, 557, 556]
+    line [554, 555, 556, 557, 556, 557]
 ```
 
-2026-10-18 554 → 2026-10-27 556（+2）
+2026-10-18 554 → 2026-10-28 557（+3）
 
 
 ---

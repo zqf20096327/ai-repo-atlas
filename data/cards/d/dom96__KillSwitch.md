@@ -1,6 +1,6 @@
 # dom96/KillSwitch
 
-⭐ 178 · Rust · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/dom96/KillSwitch) · [官网](https://killswitch-lang.org) · 个人维护
+⭐ 180 · Rust · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/dom96/KillSwitch) · [官网](https://killswitch-lang.org) · 个人维护
 
 **专为让 LLM 无法生成/修改代码而设计的深奥编程语言**
 
@@ -45,13 +45,13 @@ KillSwitch 是一门深奥编程语言（esolang），设计目标是使 LLM 难
 
 ```mermaid
 xychart-beta
-    title "dom96/KillSwitch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 194
-    line [15, 57, 151, 162, 167, 174, 178]
+    title "dom96/KillSwitch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 196
+    line [15, 57, 151, 162, 167, 174, 178, 180]
 ```
 
-2026-10-18 15 → 2026-10-27 178（+163）
+2026-10-18 15 → 2026-10-28 180（+165）
 
 
 ---

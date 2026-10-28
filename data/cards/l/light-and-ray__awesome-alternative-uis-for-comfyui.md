@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "light-and-ray/awesome-alternative-uis-for-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    title "light-and-ray/awesome-alternative-uis-for-comfyui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 127 --> 133
-    line [128, 129, 130, 132]
+    line [128, 129, 130, 132, 132]
 ```
 
-2026-10-18 128 → 2026-10-27 132（+4）
+2026-10-18 128 → 2026-10-28 132（+4）
 
 
 ---

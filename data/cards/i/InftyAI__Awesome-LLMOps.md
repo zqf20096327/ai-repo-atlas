@@ -1,6 +1,6 @@
 # InftyAI/Awesome-LLMOps
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/InftyAI/Awesome-LLMOps) · [官网](https://awesome-llmops.inftyai.com) · 组织维护
+⭐ 268 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/InftyAI/Awesome-LLMOps) · [官网](https://awesome-llmops.inftyai.com) · 组织维护
 
 **LLMOps 工具精选清单：按推理/路由/网关等分类收录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InftyAI/Awesome-LLMOps 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 266 --> 269
     line [267, 268, 268]
 ```
 
-2026-10-18 267 → 2026-10-27 268（+1）
+2026-10-18 267 → 2026-10-28 268（+1）
 
 
 ---

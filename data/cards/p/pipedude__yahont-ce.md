@@ -1,6 +1,6 @@
 # pipedude/yahont-ce
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pipedude/yahont-ce) · [官网](https://www.yahont.ai) · 组织维护 · 中文 README
+⭐ 37 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pipedude/yahont-ce) · [官网](https://www.yahont.ai) · 组织维护 · 中文 README
 
 **自托管团队知识与上下文层：RAG、代理、多源连接器与任意 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pipedude/yahont-ce 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2 --> 39
-    line [5, 28, 34, 36, 36]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 2 --> 40
+    line [5, 28, 34, 36, 37]
 ```
 
-2026-10-22 5 → 2026-10-27 36（+31）
+2026-10-22 5 → 2026-10-28 37（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # Nuyoahwjl/HUST-CS
 
-⭐ 149 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Nuyoahwjl/HUST-CS) · [官网](https://1037.wiki) · 个人维护 · 中文 README
+⭐ 150 · Jupyter Notebook · MIT · 推送 2026-06-29 · [GitHub](https://github.com/Nuyoahwjl/HUST-CS) · [官网](https://1037.wiki) · 个人维护 · 中文 README
 
 **华中科技大学计算机学院本科课程资料存档仓库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nuyoahwjl/HUST-CS 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 145 --> 150
-    line [146, 147, 148, 149]
+    title "Nuyoahwjl/HUST-CS 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 145 --> 151
+    line [146, 147, 148, 149, 150]
 ```
 
-2026-10-18 146 → 2026-10-27 149（+3）
+2026-10-18 146 → 2026-10-28 150（+4）
 
 
 ---

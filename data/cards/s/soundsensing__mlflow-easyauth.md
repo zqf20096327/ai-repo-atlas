@@ -1,6 +1,6 @@
 # soundsensing/mlflow-easyauth
 
-⭐ 103 · Shell · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/soundsensing/mlflow-easyauth) · 组织维护
+⭐ 102 · Shell · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/soundsensing/mlflow-easyauth) · 组织维护
 
 **给旧版 MLflow 加 HTTP basic auth 的 Docker 部署方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "soundsensing/mlflow-easyauth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 101 --> 104
+    line [103, 102]
 ```
 
-2026-10-18 103 → 2026-10-27 103（+0）
+2026-10-18 103 → 2026-10-28 102（-1）
 
 
 ---

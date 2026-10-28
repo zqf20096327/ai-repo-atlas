@@ -1,6 +1,6 @@
 # toukoum/portfolio
 
-⭐ 286 · TypeScript · 推送 2026-02-03 · [GitHub](https://github.com/toukoum/portfolio) · [官网](https://toukoum.fr) · 个人维护
+⭐ 285 · TypeScript · 推送 2026-02-03 · [GitHub](https://github.com/toukoum/portfolio) · [官网](https://toukoum.fr) · 个人维护
 
 **对话式 AI 个人作品集：访客提问，AI 头像即时回答**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "toukoum/portfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 285 --> 289
-    line [288, 286, 286]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 284 --> 289
+    line [288, 286, 285]
 ```
 
-2026-10-18 288 → 2026-10-27 286（-2）
+2026-10-18 288 → 2026-10-28 285（-3）
 
 
 ---

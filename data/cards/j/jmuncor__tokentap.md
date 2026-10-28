@@ -1,6 +1,6 @@
 # jmuncor/tokentap
 
-⭐ 810 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/jmuncor/tokentap) · [官网](https://github.com/jmuncor/tokentap) · 个人维护
+⭐ 811 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/jmuncor/tokentap) · [官网](https://github.com/jmuncor/tokentap) · 个人维护
 
 **LLM CLI 工具的 token 用量拦截监控代理与终端仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmuncor/tokentap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 809 --> 812
-    line [811, 810, 810]
+    line [811, 810, 811]
 ```
 
-2026-10-18 811 → 2026-10-27 810（-1）
+2026-10-18 811 → 2026-10-28 811（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # joelhooks/swarm-tools
 
-⭐ 747 · TypeScript · 推送 2026-07-30 · [GitHub](https://github.com/joelhooks/swarm-tools) · [官网](https://swarmtools.ai) · 个人维护
+⭐ 748 · TypeScript · 推送 2026-07-30 · [GitHub](https://github.com/joelhooks/swarm-tools) · [官网](https://swarmtools.ai) · 个人维护
 
 **面向 OpenCode/Claude Code 的多 agent 协调插件：任务分解、并行执行与经验学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joelhooks/swarm-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
     y-axis "stars" 746 --> 749
-    line [747, 748, 747, 747]
+    line [747, 748, 747, 748]
 ```
 
-2026-10-18 747 → 2026-10-27 747（+0）
+2026-10-18 747 → 2026-10-28 748（+1）
 
 
 ---

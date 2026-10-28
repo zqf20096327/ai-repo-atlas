@@ -1,6 +1,6 @@
 # tong-io/tongflow
 
-⭐ 1,046 · TypeScript · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/tong-io/tongflow) · [官网](https://app.tongflow.com/workspace) · 组织维护 · 中文 README
+⭐ 1,047 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/tong-io/tongflow) · [官网](https://app.tongflow.com/workspace) · 组织维护 · 中文 README
 
 **多模态优先的开源 GenAI 平台：画布式组合文本/图像/音频/视频/3D 工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tong-io/tongflow 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "tong-io/tongflow 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1042 --> 1056
-    line [1050, 1053, 1055, 1043, 1046, 1047, 1046]
+    line [1050, 1053, 1055, 1043, 1046, 1047, 1046, 1047]
 ```
 
-2026-10-18 1,050 → 2026-10-27 1,046（-4）
+2026-10-18 1,050 → 2026-10-28 1,047（-3）
 
 
 ---

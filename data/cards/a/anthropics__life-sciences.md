@@ -1,6 +1,6 @@
 # anthropics/life-sciences
 
-⭐ 626 · Python · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/life-sciences) · 组织维护
+⭐ 629 · Python · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/life-sciences) · 组织维护
 
 **面向生命科学的 Claude Code 插件市场：MCP 服务器与技能集合**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/life-sciences 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 621 --> 627
-    line [622, 623, 625, 626, 625, 626]
+    title "anthropics/life-sciences 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 621 --> 630
+    line [622, 623, 625, 626, 625, 626, 629]
 ```
 
-2026-10-18 622 → 2026-10-27 626（+4）
+2026-10-18 622 → 2026-10-28 629（+7）
 
 
 ---

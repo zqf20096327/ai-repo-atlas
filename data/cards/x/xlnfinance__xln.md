@@ -1,6 +1,6 @@
 # xlnfinance/xln
 
-⭐ 102 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xlnfinance/xln) · [官网](https://xln.finance) · 个人维护
+⭐ 102 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/xlnfinance/xln) · [官网](https://xln.finance) · 个人维护
 
 **信用+抵押双边账户的 L2 网络：让金融账户状态可验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xlnfinance/xln 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-27 102（+0）
+2026-10-18 102 → 2026-10-28 102（+0）
 
 
 ---

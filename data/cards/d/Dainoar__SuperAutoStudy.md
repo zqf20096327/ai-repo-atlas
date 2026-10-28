@@ -1,6 +1,6 @@
 # Dainoar/SuperAutoStudy
 
-⭐ 770 · Java · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Dainoar/SuperAutoStudy) · 个人维护 · 中文 README
+⭐ 778 · Java · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/Dainoar/SuperAutoStudy) · 个人维护 · 中文 README
 
 **学习通课程任务自动化平台：自动刷课与自动答题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Dainoar/SuperAutoStudy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 745 --> 772
-    line [747, 752, 763, 765, 764, 768, 770]
+    title "Dainoar/SuperAutoStudy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 744 --> 781
+    line [747, 752, 763, 765, 764, 768, 770, 778]
 ```
 
-2026-10-18 747 → 2026-10-27 770（+23）
+2026-10-18 747 → 2026-10-28 778（+31）
 
 
 ---

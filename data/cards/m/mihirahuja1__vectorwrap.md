@@ -1,6 +1,6 @@
 # mihirahuja1/vectorwrap
 
-⭐ 45 · Python · MIT · 推送 2026-02-02 · [GitHub](https://github.com/mihirahuja1/vectorwrap) · [官网](https://pypi.org/project/vectorwrap/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多数据库向量检索统一封装库，一行代码切换后端**
 
@@ -11,7 +11,7 @@ Python 库，为 PostgreSQL/pgvector、MySQL HeatWave、MariaDB、SQLite/sqlite-
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

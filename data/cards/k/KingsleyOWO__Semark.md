@@ -1,6 +1,6 @@
 # KingsleyOWO/Semark
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/KingsleyOWO/Semark) · 个人维护 · 中文 README
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/KingsleyOWO/Semark) · 个人维护 · 中文 README
 
 **自托管文档处理服务：把 PDF/Office/图片转为 RAG 可用的语义 Markdown**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KingsleyOWO/Semark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 25 --> 28
     line [27, 26, 26]
 ```
 
-2026-10-18 27 → 2026-10-27 26（-1）
+2026-10-18 27 → 2026-10-28 26（-1）
 
 
 ---

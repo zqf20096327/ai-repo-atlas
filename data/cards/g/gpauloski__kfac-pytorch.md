@@ -1,6 +1,6 @@
 # gpauloski/kfac-pytorch
 
-⭐ 98 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/gpauloski/kfac-pytorch) · 个人维护
+⭐ 98 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gpauloski/kfac-pytorch) · 个人维护
 
 **面向 PyTorch 的分布式 K-FAC 二阶预条件器库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gpauloski/kfac-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-27 98（+0）
+2026-10-18 98 → 2026-10-28 98（+0）
 
 
 ---

@@ -45,12 +45,12 @@ MacPaw 官方维护的 Vercel AI SDK 扩展包，为 MacPaw AI Gateway 提供 Op
 ```mermaid
 xychart-beta
     title "MacPaw/ai-sdk-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-27 58（+0）
+2026-10-18 58 → 2026-10-28 58（+0）
 
 
 ---

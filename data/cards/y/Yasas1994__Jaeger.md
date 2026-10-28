@@ -1,6 +1,6 @@
 # Yasas1994/Jaeger
 
-⭐ 38 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Yasas1994/Jaeger) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Yasas1994/Jaeger) · 个人维护
 
 **宏基因组组装中检测噬菌体与病毒序列的深度学习工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yasas1994/Jaeger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-27 38（+0）
+2026-10-18 38 → 2026-10-28 39（+1）
 
 
 ---

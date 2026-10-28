@@ -1,6 +1,6 @@
 # pivoshenko/kasetto
 
-⭐ 212 · Rust · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/pivoshenko/kasetto) · [官网](https://kasetto.dev) · 个人维护
+⭐ 212 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/pivoshenko/kasetto) · [官网](https://kasetto.dev) · 个人维护
 
 **声明式 AI agent 环境管理器：一个 YAML 同步 skills/MCP/命令到多个 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pivoshenko/kasetto 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 209 --> 213
     line [210, 212, 212]
 ```
 
-2026-10-18 210 → 2026-10-27 212（+2）
+2026-10-18 210 → 2026-10-28 212（+2）
 
 
 ---

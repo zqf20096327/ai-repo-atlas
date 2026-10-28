@@ -1,6 +1,6 @@
 # Stability-AI/stable-audio-tools
 
-⭐ 3,892 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Stability-AI/stable-audio-tools) · 组织维护
+⭐ 3,894 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Stability-AI/stable-audio-tools) · 组织维护
 
 **面向开发者的音频生成模型训练与推理代码库**
 
@@ -44,13 +44,13 @@ Stability AI 维护的条件音频生成模型训练与推理代码库，提供 
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/stable-audio-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 3885 --> 3893
-    line [3886, 3888, 3889, 3887, 3891, 3892]
+    title "Stability-AI/stable-audio-tools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3885 --> 3895
+    line [3886, 3888, 3889, 3887, 3891, 3892, 3894]
 ```
 
-2026-10-18 3,886 → 2026-10-27 3,892（+6）
+2026-10-18 3,886 → 2026-10-28 3,894（+8）
 
 
 ---

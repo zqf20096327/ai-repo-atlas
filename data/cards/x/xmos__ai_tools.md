@@ -1,6 +1,6 @@
 # xmos/ai_tools
 
-⭐ 30 · C++ · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/xmos/ai_tools) · 组织维护
+⭐ 30 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/xmos/ai_tools) · 组织维护
 
 **面向 XMOS XCORE.AI 芯片的 TFLite 模型转换与主机解释器工具**
 
@@ -45,12 +45,12 @@ XMOS 官方提供的 Python 工具包，包含 MLIR 图变换器 xformer：读�
 ```mermaid
 xychart-beta
     title "xmos/ai_tools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

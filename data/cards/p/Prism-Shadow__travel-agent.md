@@ -1,6 +1,6 @@
 # Prism-Shadow/travel-agent
 
-⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Prism-Shadow/travel-agent) · [官网](https://opentravelagent.vercel.app) · 组织维护 · 中文 README
+⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/Prism-Shadow/travel-agent) · [官网](https://opentravelagent.vercel.app) · 组织维护 · 中文 README
 
 **在真实旅游网站上代查代订的桌面 AI 旅行助手**
 
@@ -45,12 +45,12 @@ Electron 桌面应用：用户用自然语言描述行程需求，agent 在应�
 ```mermaid
 xychart-beta
     title "Prism-Shadow/travel-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 51 --> 54
-    line [53, 52, 52]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 50 --> 54
+    line [53, 52, 51]
 ```
 
-2026-10-18 53 → 2026-10-27 52（-1）
+2026-10-18 53 → 2026-10-28 51（-2）
 
 
 ---

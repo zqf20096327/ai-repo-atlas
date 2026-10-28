@@ -1,6 +1,6 @@
 # Abe404/root_painter
 
-⭐ 85 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Abe404/root_painter) · [官网](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18387) · 个人维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Abe404/root_painter) · [官网](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18387) · 个人维护
 
 **生物图像深度学习分割 GUI 软件：人机回环纠错标注训练**
 
@@ -45,12 +45,12 @@ RootPainter 是用于生物图像分析的 GUI 软件，通过人机回环（hum
 ```mermaid
 xychart-beta
     title "Abe404/root_painter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 84 --> 87
+    line [85, 86]
 ```
 
-2026-10-18 85 → 2026-10-27 85（+0）
+2026-10-18 85 → 2026-10-28 86（+1）
 
 
 ---

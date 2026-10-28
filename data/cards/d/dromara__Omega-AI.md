@@ -1,6 +1,6 @@
 # dromara/Omega-AI
 
-⭐ 834 · Java · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/dromara/Omega-AI) · 个人维护 · 中文 README
+⭐ 835 · Java · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/dromara/Omega-AI) · 个人维护 · 中文 README
 
 **Java 深度学习框架：从零搭建神经网络训练与推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dromara/Omega-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 833 --> 848
-    line [847, 846, 835, 834, 834]
+    line [847, 846, 835, 834, 835]
 ```
 
-2026-10-18 847 → 2026-10-27 834（-13）
+2026-10-18 847 → 2026-10-28 835（-12）
 
 
 ---

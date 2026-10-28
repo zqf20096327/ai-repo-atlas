@@ -46,13 +46,13 @@ ComfyUI 自定义节点，把 WebUI 风格的提示词操作搬入 ComfyUI 工�
 
 ```mermaid
 xychart-beta
-    title "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    title "dianfangsihuo/ComfyUI-WebUI-Prompt-Bridge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 52 --> 56
-    line [53, 54, 55]
+    line [53, 54, 55, 55]
 ```
 
-2026-10-18 53 → 2026-10-27 55（+2）
+2026-10-18 53 → 2026-10-28 55（+2）
 
 
 ---

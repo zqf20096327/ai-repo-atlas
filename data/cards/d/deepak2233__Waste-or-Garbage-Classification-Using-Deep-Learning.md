@@ -1,6 +1,6 @@
 # deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning
 
-⭐ 62 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning) · [官网](https://garbageclassification-eight.vercel.app) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-09-21 · [GitHub](https://github.com/deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning) · [官网](https://garbageclassification-eight.vercel.app) · 个人维护
 
 **垃圾图像分类工具包：识别照片中废弃物类别并可服务化部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepak2233/Waste-or-Garbage-Classification-Using-Deep-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 60 --> 63
+    line [62, 61]
 ```
 
-2026-10-18 62 → 2026-10-27 62（+0）
+2026-10-18 62 → 2026-10-28 61（-1）
 
 
 ---

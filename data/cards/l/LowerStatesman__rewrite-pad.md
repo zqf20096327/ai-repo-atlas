@@ -1,6 +1,6 @@
 # LowerStatesman/rewrite-pad
 
-⭐ 26 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/LowerStatesman/rewrite-pad) · 个人维护
+⭐ 25 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/LowerStatesman/rewrite-pad) · 个人维护
 
 **Windows 离线文本改写工作台：本地 LLM 加持的缩短/正式化/简化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LowerStatesman/rewrite-pad 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 10 --> 27
-    line [11, 20, 26, 26]
+    line [11, 20, 26, 25]
 ```
 
-2026-10-22 11 → 2026-10-27 26（+15）
+2026-10-22 11 → 2026-10-28 25（+14）
 
 
 ---

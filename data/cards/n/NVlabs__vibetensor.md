@@ -1,6 +1,6 @@
 # NVlabs/vibetensor
 
-⭐ 642 · Python · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/vibetensor) · [官网](https://arxiv.org/abs/2601.16238) · 组织维护
+⭐ 643 · Python · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/NVlabs/vibetensor) · [官网](https://arxiv.org/abs/2601.16238) · 组织维护
 
 **由 AI agent 全程生成的深度学习系统软件研究原型**
 
@@ -45,12 +45,12 @@ NVIDIA 实验室发布的研究产物：一个由 LLM 编程 agent 在高层人�
 ```mermaid
 xychart-beta
     title "NVlabs/vibetensor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 641 --> 643
-    line [642, 642]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 641 --> 644
+    line [642, 643]
 ```
 
-2026-10-18 642 → 2026-10-27 642（+0）
+2026-10-18 642 → 2026-10-28 643（+1）
 
 
 ---

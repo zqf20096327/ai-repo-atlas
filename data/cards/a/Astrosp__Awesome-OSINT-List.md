@@ -1,6 +1,6 @@
 # Astrosp/Awesome-OSINT-List
 
-⭐ 4,592 · Shell · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Astrosp/Awesome-OSINT-List) · [官网](https://astrosp.github.io/osint-web/) · 个人维护
+⭐ 4,600 · Shell · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Astrosp/Awesome-OSINT-List) · [官网](https://astrosp.github.io/osint-web/) · 个人维护
 
 **面向安全与情报人员的 OSINT 工具与网站清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Astrosp/Awesome-OSINT-List 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4543 --> 4596
-    line [4547, 4554, 4555, 4568, 4574, 4579, 4587, 4592]
+    title "Astrosp/Awesome-OSINT-List 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4542 --> 4605
+    line [4547, 4554, 4555, 4568, 4574, 4579, 4587, 4592, 4600]
 ```
 
-2026-10-18 4,547 → 2026-10-27 4,592（+45）
+2026-10-18 4,547 → 2026-10-28 4,600（+53）
 
 
 ---

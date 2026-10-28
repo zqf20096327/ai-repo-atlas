@@ -1,6 +1,6 @@
 # Exorust/TorchLeet
 
-⭐ 2,591 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Exorust/TorchLeet) · [官网](https://torch-leet.vercel.app) · 个人维护
+⭐ 2,592 · Jupyter Notebook · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Exorust/TorchLeet) · [官网](https://torch-leet.vercel.app) · 个人维护
 
 **68 道 PyTorch/ML 面试实战题库，含 MCP AI 导师**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Exorust/TorchLeet 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2564 --> 2593
-    line [2566, 2573, 2579, 2583, 2584, 2585, 2588, 2591]
+    title "Exorust/TorchLeet 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2564 --> 2594
+    line [2566, 2573, 2579, 2583, 2584, 2585, 2588, 2591, 2592]
 ```
 
-2026-10-18 2,566 → 2026-10-27 2,591（+25）
+2026-10-18 2,566 → 2026-10-28 2,592（+26）
 
 
 ---

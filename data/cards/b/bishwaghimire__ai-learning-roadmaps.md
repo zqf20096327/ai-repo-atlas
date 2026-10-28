@@ -1,6 +1,6 @@
 # bishwaghimire/ai-learning-roadmaps
 
-⭐ 1,166 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/bishwaghimire/ai-learning-roadmaps) · 个人维护
+⭐ 1,169 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/bishwaghimire/ai-learning-roadmaps) · 个人维护
 
 **AI/ML/DL 学习资源与路线图策展中心，面向学生与从业者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bishwaghimire/ai-learning-roadmaps 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1118 --> 1170
-    line [1122, 1124, 1135, 1156, 1159, 1161, 1164, 1166]
+    title "bishwaghimire/ai-learning-roadmaps 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1118 --> 1173
+    line [1122, 1124, 1135, 1156, 1159, 1161, 1164, 1166, 1169]
 ```
 
-2026-10-18 1,122 → 2026-10-27 1,166（+44）
+2026-10-18 1,122 → 2026-10-28 1,169（+47）
 
 
 ---

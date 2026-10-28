@@ -1,6 +1,6 @@
 # john-rocky/coreai-kit
 
-⭐ 121 · Swift · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/john-rocky/coreai-kit) · [官网](https://john-rocky.github.io/coreai-kit/) · 个人维护
+⭐ 123 · Swift · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/john-rocky/coreai-kit) · [官网](https://john-rocky.github.io/coreai-kit/) · 个人维护
 
 **在 iPhone/Mac 上运行 Apple Core AI 模型的 Swift SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/coreai-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 119 --> 122
-    line [120, 121]
+    title "john-rocky/coreai-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 119 --> 124
+    line [120, 121, 123]
 ```
 
-2026-10-18 120 → 2026-10-27 121（+1）
+2026-10-18 120 → 2026-10-28 123（+3）
 
 
 ---

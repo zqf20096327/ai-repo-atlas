@@ -1,6 +1,6 @@
 # RamiKrispin/ai-dev-2024-ml-workshop
 
-⭐ 93 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/RamiKrispin/ai-dev-2024-ml-workshop) · [官网](https://ramikrispin.github.io/ai-dev-2024-ml-workshop/) · 个人维护
+⭐ 93 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/RamiKrispin/ai-dev-2024-ml-workshop) · [官网](https://ramikrispin.github.io/ai-dev-2024-ml-workshop/) · 个人维护
 
 **AI Dev 2024 会议工作坊材料：用开源工具部署与监控 ML 流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RamiKrispin/ai-dev-2024-ml-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-10-27 93（+0）
+2026-10-18 93 → 2026-10-28 93（+0）
 
 
 ---

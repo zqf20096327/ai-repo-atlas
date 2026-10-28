@@ -1,6 +1,6 @@
 # blakeblackshear/frigate
 
-⭐ 36,964 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
+⭐ 37,003 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
 
 **本地实时目标检测的 IP 摄像头 NVR**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "blakeblackshear/frigate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 36667 --> 36991
-    line [36694, 36747, 36796, 36820, 36841, 36872, 36923, 36964]
+    title "blakeblackshear/frigate 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 36664 --> 37033
+    line [36694, 36747, 36796, 36820, 36841, 36872, 36923, 36964, 37003]
 ```
 
-2026-10-18 36,694 → 2026-10-27 36,964（+270）
+2026-10-18 36,694 → 2026-10-28 37,003（+309）
 
 
 ---

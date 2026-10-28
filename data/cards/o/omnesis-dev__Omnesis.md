@@ -1,6 +1,6 @@
 # omnesis-dev/Omnesis
 
-⭐ 37 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/omnesis-dev/Omnesis) · [官网](https://omnesis.dev) · 组织维护
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/omnesis-dev/Omnesis) · [官网](https://omnesis.dev) · 组织维护
 
 **自托管个人全数据索引与搜索系统：聚合40+来源供混合检索与问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omnesis-dev/Omnesis 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9 --> 39
-    line [11, 13, 15, 18, 23, 28, 34, 37]
+    title "omnesis-dev/Omnesis 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 8 --> 46
+    line [11, 13, 15, 18, 23, 28, 34, 37, 43]
 ```
 
-2026-10-18 11 → 2026-10-27 37（+26）
+2026-10-18 11 → 2026-10-28 43（+32）
 
 
 ---

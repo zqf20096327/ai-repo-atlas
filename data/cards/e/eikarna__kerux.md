@@ -1,6 +1,6 @@
 # eikarna/kerux
 
-⭐ 68 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/eikarna/kerux) · [官网](http://kerux.eikarna.dev/) · 个人维护
+⭐ 69 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/eikarna/kerux) · [官网](http://kerux.eikarna.dev/) · 个人维护
 
 **自包含 Rust AI agent 运行时，用于 LLM 驱动的工具执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eikarna/kerux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-10-27 68（+0）
+2026-10-18 68 → 2026-10-28 69（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicstrata/atomicmemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "atomicstrata/atomicmemory 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 438 --> 441
-    line [439, 440]
+    line [439, 440, 440]
 ```
 
-2026-10-18 439 → 2026-10-27 440（+1）
+2026-10-18 439 → 2026-10-28 440（+1）
 
 
 ---

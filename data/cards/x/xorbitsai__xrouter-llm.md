@@ -1,6 +1,6 @@
 # xorbitsai/xrouter-llm
 
-⭐ 40 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xorbitsai/xrouter-llm) · 组织维护 · 中文 README
+⭐ 42 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xorbitsai/xrouter-llm) · 组织维护 · 中文 README
 
 **提示感知的 LLM 路由决策服务：预测并选出最便宜可完成的模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xorbitsai/xrouter-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 39 --> 43
+    line [40, 42]
 ```
 
-2026-10-18 40 → 2026-10-27 40（+0）
+2026-10-18 40 → 2026-10-28 42（+2）
 
 
 ---

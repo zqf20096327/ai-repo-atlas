@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HinePo/Trilha-de-Estudos-de-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-18 75 → 2026-10-27 75（+0）
+2026-10-18 75 → 2026-10-28 75（+0）
 
 
 ---

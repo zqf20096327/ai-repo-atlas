@@ -1,6 +1,6 @@
 # PaddlePaddle/ERNIE
 
-⭐ 7,742 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/PaddlePaddle/ERNIE) · [官网](https://ernie.baidu.com) · 组织维护 · 中文 README
+⭐ 7,741 · Python · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/PaddlePaddle/ERNIE) · [官网](https://ernie.baidu.com) · 组织维护 · 中文 README
 
 **百度 ERNIE 4.5 多模态大模型系列官方仓库与 ERNIEKit 训练工具套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/ERNIE 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 7736 --> 7743
-    line [7737, 7738, 7739, 7740, 7741, 7742, 7742]
+    line [7737, 7738, 7739, 7740, 7741, 7742, 7741]
 ```
 
-2026-10-18 7,737 → 2026-10-27 7,742（+5）
+2026-10-18 7,737 → 2026-10-28 7,741（+4）
 
 
 ---

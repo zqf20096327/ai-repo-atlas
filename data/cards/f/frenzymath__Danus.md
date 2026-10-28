@@ -1,6 +1,6 @@
 # frenzymath/Danus
 
-⭐ 488 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/frenzymath/Danus) · 组织维护 · 中文 README
+⭐ 490 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/frenzymath/Danus) · 组织维护 · 中文 README
 
 **编排数学推理 agent 群的事实图记忆系统，产出证明与论文**
 
@@ -46,12 +46,12 @@ Danus 以事实图记忆编排数学推理多智能体：主 agent 分解问题�
 ```mermaid
 xychart-beta
     title "frenzymath/Danus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 480 --> 489
-    line [481, 485, 487, 486, 488, 488]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 480 --> 491
+    line [481, 485, 487, 486, 488, 490]
 ```
 
-2026-10-18 481 → 2026-10-27 488（+7）
+2026-10-18 481 → 2026-10-28 490（+9）
 
 
 ---

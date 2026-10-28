@@ -1,6 +1,6 @@
 # PiSugar/whisplay-ai-chatbot
 
-⭐ 528 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PiSugar/whisplay-ai-chatbot) · 组织维护 · 中文 README
+⭐ 530 · TypeScript · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/PiSugar/whisplay-ai-chatbot) · 组织维护 · 中文 README
 
 **树莓派口袋 AI 语音聊天机器人（按键说话、语音应答）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PiSugar/whisplay-ai-chatbot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 524 --> 529
-    line [527, 525, 526, 528, 528]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 524 --> 531
+    line [527, 525, 526, 528, 530]
 ```
 
-2026-10-18 527 → 2026-10-27 528（+1）
+2026-10-18 527 → 2026-10-28 530（+3）
 
 
 ---

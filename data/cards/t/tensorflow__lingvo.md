@@ -1,6 +1,6 @@
 # tensorflow/lingvo
 
-⭐ 2,867 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/tensorflow/lingvo) · 组织维护
+⭐ 2,868 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorflow/lingvo) · 组织维护
 
 **TensorFlow 序列模型神经网络构建框架，面向研究与训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tensorflow/lingvo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 2865 --> 2868
-    line [2866, 2867, 2867]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 2865 --> 2869
+    line [2866, 2867, 2868]
 ```
 
-2026-10-18 2,866 → 2026-10-27 2,867（+1）
+2026-10-18 2,866 → 2026-10-28 2,868（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bidual/awesome-dgx-spark
 
-⭐ 91 · Shell · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/bidual/awesome-dgx-spark) · 个人维护
+⭐ 92 · Shell · CC0-1.0 · 推送 2026-10-22 · [GitHub](https://github.com/bidual/awesome-dgx-spark) · 个人维护
 
 **NVIDIA DGX Spark（GB10）社区工具与指南策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bidual/awesome-dgx-spark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 85 --> 92
-    line [86, 88, 90, 91]
+    title "bidual/awesome-dgx-spark 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 85 --> 93
+    line [86, 88, 90, 91, 92]
 ```
 
-2026-10-18 86 → 2026-10-27 91（+5）
+2026-10-18 86 → 2026-10-28 92（+6）
 
 
 ---

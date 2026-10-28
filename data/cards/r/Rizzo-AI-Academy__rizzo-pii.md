@@ -1,6 +1,6 @@
 # Rizzo-AI-Academy/rizzo-pii
 
-⭐ 1,221 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
+⭐ 1,225 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
 
 **本地可逆 PII 匿名化工具：发给 LLM 前遮蔽意大利法律文本中的个人数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rizzo-AI-Academy/rizzo-pii 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1183 --> 1224
-    line [1186, 1194, 1204, 1205, 1207, 1215, 1219, 1221]
+    title "Rizzo-AI-Academy/rizzo-pii 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1183 --> 1228
+    line [1186, 1194, 1204, 1205, 1207, 1215, 1219, 1221, 1225]
 ```
 
-2026-10-18 1,186 → 2026-10-27 1,221（+35）
+2026-10-18 1,186 → 2026-10-28 1,225（+39）
 
 
 ---

@@ -1,6 +1,6 @@
 # waleedkhokar/python-ai-engineering-journey
 
-⭐ 22 · Jupyter Notebook · 推送 2026-10-26 · [GitHub](https://github.com/waleedkhokar/python-ai-engineering-journey) · 个人维护
+⭐ 24 · Jupyter Notebook · 推送 2026-10-27 · [GitHub](https://github.com/waleedkhokar/python-ai-engineering-journey) · [官网](https://python-ai-journey.vercel.app) · 个人维护
 
 **个人 Python 到 AI 工程的学习笔记与实践项目仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "waleedkhokar/python-ai-engineering-journey 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10 --> 23
-    line [11, 18, 22, 22]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 10 --> 25
+    line [11, 18, 22, 24]
 ```
 
-2026-10-24 11 → 2026-10-27 22（+11）
+2026-10-24 11 → 2026-10-28 24（+13）
 
 
 ---

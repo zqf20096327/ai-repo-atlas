@@ -1,6 +1,6 @@
 # justyns/silverbullet-ai
 
-⭐ 107 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/justyns/silverbullet-ai) · [官网](https://ai.silverbullet.md/) · 个人维护
+⭐ 107 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/justyns/silverbullet-ai) · [官网](https://ai.silverbullet.md/) · 个人维护
 
 **为 SilverBullet 笔记工具集成 LLM 的插件**
 
@@ -46,12 +46,12 @@ SilverBullet（markdown 笔记工具）的插件，将 LLM 功能嵌入笔记工
 ```mermaid
 xychart-beta
     title "justyns/silverbullet-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
     y-axis "stars" 105 --> 108
     line [107, 106, 107, 107]
 ```
 
-2026-10-18 107 → 2026-10-27 107（+0）
+2026-10-18 107 → 2026-10-28 107（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FEZtool-team/FEZrs
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/FEZtool-team/FEZrs) · [官网](https://feztool.com/) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/FEZtool-team/FEZrs) · [官网](https://feztool.com/) · 组织维护
 
 **遥感多光谱图像处理与光谱分析 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FEZtool-team/FEZrs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

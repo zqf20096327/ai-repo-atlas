@@ -1,6 +1,6 @@
 # LingyiChen-AI/JadeAI
 
-⭐ 2,001 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LingyiChen-AI/JadeAI) · [官网](https://jadeai.cturing.cn/en) · 个人维护 · 中文 README
+⭐ 2,002 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/LingyiChen-AI/JadeAI) · [官网](https://jadeai.cturing.cn/en) · 个人维护 · 中文 README
 
 **面向求职者的 AI 简历构建器：AI 生成/优化/JD 匹配/模拟面试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LingyiChen-AI/JadeAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1996 --> 2002
-    line [1997, 1998, 1999, 1998, 2001, 2001]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1996 --> 2003
+    line [1997, 1998, 1999, 1998, 2001, 2002]
 ```
 
-2026-10-18 1,997 → 2026-10-27 2,001（+4）
+2026-10-18 1,997 → 2026-10-28 2,002（+5）
 
 
 ---

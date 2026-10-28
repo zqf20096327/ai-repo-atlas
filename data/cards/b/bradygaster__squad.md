@@ -1,6 +1,6 @@
 # bradygaster/squad
 
-⭐ 3,306 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bradygaster/squad) · [官网](https://bradygaster.github.io/squad/) · 个人维护
+⭐ 3,305 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/bradygaster/squad) · [官网](https://bradygaster.github.io/squad/) · 个人维护
 
 **基于 GitHub Copilot 的人主导多 AI 代理团队 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bradygaster/squad 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "bradygaster/squad 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 3282 --> 3308
-    line [3286, 3284, 3289, 3298, 3303, 3304, 3306]
+    line [3286, 3284, 3289, 3298, 3303, 3304, 3306, 3305]
 ```
 
-2026-10-18 3,286 → 2026-10-27 3,306（+20）
+2026-10-18 3,286 → 2026-10-28 3,305（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # iammm0/mph-agent
 
-⭐ 42 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/iammm0/mph-agent) · [官网](https://mphagent.site) · 个人维护 · 中文 README
+⭐ 43 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/iammm0/mph-agent) · [官网](https://mphagent.site) · 个人维护 · 中文 README
 
 **把自然语言转成 COMSOL 可打开 .mph 文件的建模智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iammm0/mph-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-27 42（+0）
+2026-10-18 42 → 2026-10-28 43（+1）
 
 
 ---

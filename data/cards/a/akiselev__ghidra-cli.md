@@ -1,6 +1,6 @@
 # akiselev/ghidra-cli
 
-⭐ 258 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/akiselev/ghidra-cli) · 个人维护
+⭐ 260 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/akiselev/ghidra-cli) · 个人维护
 
 **供人手或 AI 代理调用的 Ghidra 逆向工程命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akiselev/ghidra-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 246 --> 259
-    line [247, 253, 256, 258, 258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 246 --> 261
+    line [247, 253, 256, 258, 260]
 ```
 
-2026-10-18 247 → 2026-10-27 258（+11）
+2026-10-18 247 → 2026-10-28 260（+13）
 
 
 ---

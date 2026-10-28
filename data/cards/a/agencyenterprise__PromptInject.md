@@ -1,6 +1,6 @@
 # agencyenterprise/PromptInject
 
-⭐ 526 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/agencyenterprise/PromptInject) · 组织维护
+⭐ 527 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/agencyenterprise/PromptInject) · 组织维护
 
 **模块化组装对抗性提示、量化评估 LLM 鲁棒性的框架**
 
@@ -45,12 +45,12 @@ PromptInject 提供以掩码为基础的迭代式对抗提示组装框架，用�
 ```mermaid
 xychart-beta
     title "agencyenterprise/PromptInject 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
     y-axis "stars" 525 --> 529
-    line [528, 527, 526, 526]
+    line [528, 527, 526, 527]
 ```
 
-2026-10-18 528 → 2026-10-27 526（-2）
+2026-10-18 528 → 2026-10-28 527（-1）
 
 
 ---

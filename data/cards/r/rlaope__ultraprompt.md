@@ -1,6 +1,6 @@
 # rlaope/ultraprompt
 
-⭐ 35 · Python · 推送 2026-09-26 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rlaope/ultraprompt) · 个人维护
 
 **面向编码 agent 的可移植策略提示词技能库（12 个技能轴）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rlaope/ultraprompt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-27 35（+1）
+2026-10-18 34 → 2026-10-28 35（+1）
 
 
 ---

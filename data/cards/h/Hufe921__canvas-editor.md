@@ -1,6 +1,6 @@
 # Hufe921/canvas-editor
 
-⭐ 5,242 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hufe921/canvas-editor) · [官网](https://hufe.club/canvas-editor-docs) · 个人维护 · 中文 README
+⭐ 5,242 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hufe921/canvas-editor) · [官网](https://hufe.club/canvas-editor-docs) · 个人维护 · 中文 README
 
 **基于 Canvas 的浏览器富文本/文档编辑器库，面向开发者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hufe921/canvas-editor 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "Hufe921/canvas-editor 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 5227 --> 5243
-    line [5228, 5231, 5233, 5238, 5241, 5242]
+    line [5228, 5231, 5233, 5238, 5241, 5242, 5242]
 ```
 
-2026-10-18 5,228 → 2026-10-27 5,242（+14）
+2026-10-18 5,228 → 2026-10-28 5,242（+14）
 
 
 ---

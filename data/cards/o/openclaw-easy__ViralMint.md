@@ -1,6 +1,6 @@
 # openclaw-easy/ViralMint
 
-⭐ 177 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 组织维护 · 中文 README
+⭐ 179 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 组织维护 · 中文 README
 
 **本地优先的开源视频生产流水线：选题、剪辑、生成短视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "openclaw-easy/ViralMint 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 163 --> 178
-    line [164, 169, 172, 174, 175, 177, 177]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 163 --> 180
+    line [164, 169, 172, 174, 175, 177, 179]
 ```
 
-2026-10-18 164 → 2026-10-27 177（+13）
+2026-10-18 164 → 2026-10-28 179（+15）
 
 
 ---

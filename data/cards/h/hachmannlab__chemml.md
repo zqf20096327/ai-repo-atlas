@@ -1,6 +1,6 @@
 # hachmannlab/chemml
 
-⭐ 180 · Python · BSD-3-Clause · 推送 2026-10-06 · [GitHub](https://github.com/hachmannlab/chemml) · [官网](https://hachmannlab.github.io/chemml) · 组织维护
+⭐ 180 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/hachmannlab/chemml) · [官网](https://hachmannlab.github.io/chemml) · 组织维护
 
 **化学与材料数据的机器学习/信息学程序套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hachmannlab/chemml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 179 --> 181
     line [180, 180]
 ```
 
-2026-10-18 180 → 2026-10-27 180（+0）
+2026-10-18 180 → 2026-10-28 180（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # leoncuhk/awesome-quant-ai
 
-⭐ 647 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/leoncuhk/awesome-quant-ai) · 个人维护
+⭐ 648 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/leoncuhk/awesome-quant-ai) · 个人维护
 
 **AI/ML 量化投资与交易策略的资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leoncuhk/awesome-quant-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 639 --> 648
-    line [640, 641, 642, 645, 646, 647]
+    title "leoncuhk/awesome-quant-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 639 --> 649
+    line [640, 641, 642, 645, 646, 647, 648]
 ```
 
-2026-10-18 640 → 2026-10-27 647（+7）
+2026-10-18 640 → 2026-10-28 648（+8）
 
 
 ---

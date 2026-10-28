@@ -1,6 +1,6 @@
 # KilledByAPixel/LittleJS-AI
 
-⭐ 84 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/KilledByAPixel/LittleJS-AI) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/KilledByAPixel/LittleJS-AI) · 个人维护
 
 **AI 辅助的 LittleJS HTML5 游戏开发工具包：模板+助手模块+agent 指令与 Claude Code 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KilledByAPixel/LittleJS-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 82 --> 85
-    line [83, 84, 84]
+    line [83, 84, 83]
 ```
 
-2026-10-18 83 → 2026-10-27 84（+1）
+2026-10-18 83 → 2026-10-28 83（+0）
 
 
 ---

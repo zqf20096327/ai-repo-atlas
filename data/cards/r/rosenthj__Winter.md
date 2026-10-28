@@ -1,6 +1,6 @@
 # rosenthj/Winter
 
-⭐ 99 · C++ · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/rosenthj/Winter) · 个人维护
+⭐ 100 · C++ · GPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/rosenthj/Winter) · 个人维护
 
 **UCI 国际象棋引擎：搜索加小型神经网络评估对局**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rosenthj/Winter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-18 99 → 2026-10-27 99（+0）
+2026-10-18 99 → 2026-10-28 100（+1）
 
 
 ---

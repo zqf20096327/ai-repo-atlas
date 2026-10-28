@@ -1,6 +1,6 @@
 # tensorflow/java
 
-⭐ 926 · Java · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/tensorflow/java) · 组织维护
+⭐ 924 · Java · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/tensorflow/java) · 组织维护
 
 **在 JVM 上构建、训练与运行 TensorFlow 模型的 Java 绑定**
 
@@ -45,12 +45,12 @@ TensorFlow 官方 Java 语言绑定，独立于核心库发布，供 Java/Scala/
 ```mermaid
 xychart-beta
     title "tensorflow/java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 925 --> 928
-    line [927, 926, 926]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 923 --> 928
+    line [927, 926, 924]
 ```
 
-2026-10-18 927 → 2026-10-27 926（-1）
+2026-10-18 927 → 2026-10-28 924（-3）
 
 
 ---

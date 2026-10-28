@@ -1,6 +1,6 @@
 # crabwise-ai/crabwalk
 
-⭐ 873 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/crabwise-ai/crabwalk) · [官网](https://crabwalk.app) · 个人维护
+⭐ 874 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/crabwise-ai/crabwalk) · [官网](https://crabwalk.app) · 个人维护
 
 **OpenClaw AI agent 的实时监控面板：节点图查看活动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crabwise-ai/crabwalk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 872 --> 876
-    line [874, 875, 873, 873]
+    line [874, 875, 873, 874]
 ```
 
-2026-10-18 874 → 2026-10-27 873（-1）
+2026-10-18 874 → 2026-10-28 874（+0）
 
 
 ---

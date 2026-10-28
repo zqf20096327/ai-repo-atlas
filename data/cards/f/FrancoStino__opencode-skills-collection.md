@@ -1,6 +1,6 @@
 # FrancoStino/opencode-skills-collection
 
-⭐ 86 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/FrancoStino/opencode-skills-collection) · [官网](https://www.npmjs.com/package/opencode-skills-collection) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/FrancoStino/opencode-skills-collection) · [官网](https://www.npmjs.com/package/opencode-skills-collection) · 个人维护
 
 **OpenCode 插件：预置 2400+ AI 技能并自动同步更新**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FrancoStino/opencode-skills-collection 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 85 --> 88
     line [86, 87, 86, 87, 86, 86]
 ```
 
-2026-10-18 86 → 2026-10-27 86（+0）
+2026-10-18 86 → 2026-10-28 86（+0）
 
 
 ---

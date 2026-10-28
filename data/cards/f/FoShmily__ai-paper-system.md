@@ -1,6 +1,6 @@
 # FoShmily/ai-paper-system
 
-⭐ 435 · 推送 2026-10-13 · [GitHub](https://github.com/FoShmily/ai-paper-system) · [官网](https://www.openlun.com) · 组织维护 · 中文 README
+⭐ 503 · 推送 2026-10-13 · [GitHub](https://github.com/FoShmily/ai-paper-system) · [官网](https://www.openlun.com) · 组织维护 · 中文 README
 
 **面向机构加盟的 AI 论文写作 SAAS 系统（OEM 白标）**
 
@@ -45,13 +45,13 @@ AI 学术写作商业系统「学成写作」的推广仓库：功能覆盖开�
 
 ```mermaid
 xychart-beta
-    title "FoShmily/ai-paper-system 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 81 --> 467
-    line [113, 164, 214, 283, 341, 435]
+    title "FoShmily/ai-paper-system 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 74 --> 542
+    line [113, 164, 214, 283, 341, 435, 503]
 ```
 
-2026-10-22 113 → 2026-10-27 435（+322）
+2026-10-22 113 → 2026-10-28 503（+390）
 
 
 ---

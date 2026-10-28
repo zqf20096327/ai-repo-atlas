@@ -46,12 +46,12 @@ InternLM 维护的挑战杯人工智能赛道初赛 baseline 仓库：围绕 Int
 ```mermaid
 xychart-beta
     title "InternLM/Challenge-Cup-2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

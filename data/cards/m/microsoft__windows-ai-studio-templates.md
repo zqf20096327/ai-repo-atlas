@@ -1,6 +1,6 @@
 # microsoft/windows-ai-studio-templates
 
-⭐ 54 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/microsoft/windows-ai-studio-templates) · [官网](https://github.com/microsoft/windows-ai-studio) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/windows-ai-studio-templates) · [官网](https://github.com/microsoft/windows-ai-studio) · 组织维护
 
 **Windows AI Studio 的生成式 AI 应用开发模板库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/windows-ai-studio-templates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-27 54（+0）
+2026-10-18 54 → 2026-10-28 54（+0）
 
 
 ---

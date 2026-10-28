@@ -1,6 +1,6 @@
 # kyegomez/SingLoRA
 
-⭐ 47 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/kyegomez/SingLoRA) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/SingLoRA) · [官网](https://discord.gg/jM3Z6M9uMq) · 个人维护
 
 **SingLoRA 论文的单文件最小实现：单矩阵低秩微调**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/SingLoRA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-27 47（+0）
+2026-10-18 47 → 2026-10-28 47（+0）
 
 
 ---

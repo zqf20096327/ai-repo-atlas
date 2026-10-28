@@ -1,6 +1,6 @@
 # tayyabimam1/awesome-ai-agent-stack
 
-⭐ 31 · TypeScript · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/tayyabimam1/awesome-ai-agent-stack) · [官网](https://tayyabimam1.github.io/awesome-ai-agent-stack/) · 个人维护
+⭐ 30 · TypeScript · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/tayyabimam1/awesome-ai-agent-stack) · [官网](https://tayyabimam1.github.io/awesome-ai-agent-stack/) · 个人维护
 
 **3,000+ 开源 AI agent 工具分层策展清单，按层与 GitHub 星数组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tayyabimam1/awesome-ai-agent-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 30（-1）
 
 
 ---

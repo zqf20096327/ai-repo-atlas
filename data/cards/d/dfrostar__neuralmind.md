@@ -1,6 +1,6 @@
 # dfrostar/neuralmind
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dfrostar/neuralmind) · [官网](https://dfrostar.github.io/neuralmind/) · 个人维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/dfrostar/neuralmind) · [官网](https://dfrostar.github.io/neuralmind/) · 个人维护
 
 **给 AI 编程 agent 的本地代码库持久记忆层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dfrostar/neuralmind 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "dfrostar/neuralmind 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 35 --> 40
-    line [36, 37, 39]
+    line [36, 37, 39, 39]
 ```
 
-2026-10-18 36 → 2026-10-27 39（+3）
+2026-10-18 36 → 2026-10-28 39（+3）
 
 
 ---

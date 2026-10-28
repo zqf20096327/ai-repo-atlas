@@ -1,6 +1,6 @@
 # Qxy661/UAV-WM-VLA-Learning
 
-⭐ 51 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Qxy661/UAV-WM-VLA-Learning) · [官网](https://qxy661.github.io/UAV-WM-VLA-Learning/) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Qxy661/UAV-WM-VLA-Learning) · [官网](https://qxy661.github.io/UAV-WM-VLA-Learning/) · 个人维护 · 中文 README
 
 **无人机视角的世界模型/VLA/VLM 学习库：59 篇文档+195 篇论文精读**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Qxy661/UAV-WM-VLA-Learning 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 47 --> 52
     line [49, 48, 49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-10-27 51（+2）
+2026-10-18 49 → 2026-10-28 51（+2）
 
 
 ---

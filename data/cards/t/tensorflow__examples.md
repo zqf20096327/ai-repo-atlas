@@ -1,6 +1,6 @@
 # tensorflow/examples
 
-⭐ 8,279 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tensorflow/examples) · [官网](https://www.tensorflow.org) · 组织维护
+⭐ 8,277 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tensorflow/examples) · [官网](https://www.tensorflow.org) · 组织维护
 
 **TensorFlow 官方示例与课程教材仓库，供学习者参考**
 
@@ -44,12 +44,12 @@ TensorFlow 官方维护的示例仓库，收录多类材料：社区示例展示
 ```mermaid
 xychart-beta
     title "tensorflow/examples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 8278 --> 8280
-    line [8279, 8279]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 8276 --> 8280
+    line [8279, 8277]
 ```
 
-2026-10-18 8,279 → 2026-10-27 8,279（+0）
+2026-10-18 8,279 → 2026-10-28 8,277（-2）
 
 
 ---

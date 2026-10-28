@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleMIX
 
-⭐ 721 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/PaddlePaddle/PaddleMIX) · 组织维护 · 中文 README
+⭐ 720 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/PaddlePaddle/PaddleMIX) · 组织维护 · 中文 README
 
 **基于飞桨的多模态大模型开发套件，覆盖训推全流程**
 
@@ -46,12 +46,12 @@ PaddleMIX 是基于飞桨的多模态大模型开发套件，面向开发者，�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleMIX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 719 --> 722
-    line [720, 721, 721]
+    line [720, 721, 720]
 ```
 
-2026-10-18 720 → 2026-10-27 721（+1）
+2026-10-18 720 → 2026-10-28 720（+0）
 
 
 ---

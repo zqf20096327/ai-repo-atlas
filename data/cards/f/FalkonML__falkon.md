@@ -1,6 +1,6 @@
 # FalkonML/falkon
 
-⭐ 202 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FalkonML/falkon) · [官网](https://falkonml.github.io/falkon/) · 组织维护
+⭐ 203 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/FalkonML/falkon) · [官网](https://falkonml.github.io/falkon/) · 组织维护
 
 **面向大规模数据的近似核岭回归 Python 求解器**
 
@@ -46,12 +46,12 @@ Falkon 算法的 Python 实现，用于大规模近似核岭回归：基于 Nyst
 ```mermaid
 xychart-beta
     title "FalkonML/falkon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 200 --> 203
-    line [201, 202, 202]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 200 --> 204
+    line [201, 202, 203]
 ```
 
-2026-10-18 201 → 2026-10-27 202（+1）
+2026-10-18 201 → 2026-10-28 203（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jax-ml/jax-tpu-embedding
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/jax-ml/jax-tpu-embedding) · [官网](https://jax-tpu-embedding.readthedocs.io/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/jax-ml/jax-tpu-embedding) · [官网](https://jax-tpu-embedding.readthedocs.io/) · 组织维护
 
 **JAX 在 TPU SparseCore 上做大规模嵌入加速的库**
 
@@ -44,12 +44,12 @@ JAX SparseCore 提供 Python 库，用于利用 TPU v5 及后续世代中的 Spa
 ```mermaid
 xychart-beta
     title "jax-ml/jax-tpu-embedding 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-27 38（+1）
+2026-10-18 37 → 2026-10-28 38（+1）
 
 
 ---

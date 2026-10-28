@@ -1,6 +1,6 @@
 # 89luca89/clampdown
 
-⭐ 128 · Go · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/89luca89/clampdown) · 个人维护
+⭐ 129 · Go · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/89luca89/clampdown) · 个人维护
 
 **在加固容器沙箱中运行 AI 编程 agent 的安全工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "89luca89/clampdown 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 123 --> 129
-    line [124, 126, 128]
+    title "89luca89/clampdown 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 123 --> 130
+    line [124, 126, 128, 129]
 ```
 
-2026-10-18 124 → 2026-10-27 128（+4）
+2026-10-18 124 → 2026-10-28 129（+5）
 
 
 ---

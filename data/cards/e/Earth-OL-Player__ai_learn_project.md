@@ -1,6 +1,6 @@
 # Earth-OL-Player/ai_learn_project
 
-⭐ 456 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Earth-OL-Player/ai_learn_project) · [官网](https://ai-studyhub.cn) · 个人维护 · 中文 README
+⭐ 461 · Java · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/Earth-OL-Player/ai_learn_project) · [官网](https://ai-studyhub.cn) · 个人维护 · 中文 README
 
 **面向 AI 应用开发者的一站式 Agent 开发学习与刷题平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Earth-OL-Player/ai_learn_project 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 444 --> 460
-    line [445, 448, 456, 459, 454, 456]
+    title "Earth-OL-Player/ai_learn_project 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 444 --> 462
+    line [445, 448, 456, 459, 454, 456, 461]
 ```
 
-2026-10-18 445 → 2026-10-27 456（+11）
+2026-10-18 445 → 2026-10-28 461（+16）
 
 
 ---

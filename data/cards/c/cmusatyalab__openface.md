@@ -1,6 +1,6 @@
 # cmusatyalab/openface
 
-⭐ 15,446 · Lua · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cmusatyalab/openface) · [官网](http://cmusatyalab.github.io/openface/) · 组织维护
+⭐ 15,445 · Lua · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/cmusatyalab/openface) · [官网](http://cmusatyalab.github.io/openface/) · 组织维护
 
 **基于深度神经网络的开源人脸识别库（CMU）**
 
@@ -51,13 +51,13 @@ Carnegie Mellon University 发布的开源人脸识别研究项目，以深度�
 
 ```mermaid
 xychart-beta
-    title "cmusatyalab/openface 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "cmusatyalab/openface 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 15440 --> 15447
-    line [15441, 15442, 15443, 15444, 15445, 15446]
+    line [15441, 15442, 15443, 15444, 15445, 15446, 15445]
 ```
 
-2026-10-18 15,441 → 2026-10-27 15,446（+5）
+2026-10-18 15,441 → 2026-10-28 15,445（+4）
 
 
 ---

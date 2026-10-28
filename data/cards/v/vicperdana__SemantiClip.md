@@ -1,6 +1,6 @@
 # vicperdana/SemantiClip
 
-⭐ 79 · C# · GPL-3.0 · 推送 2026-03-01 · [GitHub](https://github.com/vicperdana/SemantiClip) · [官网](https://github.com/vicperdana/SemantiClip/) · 个人维护
+⭐ 80 · C# · GPL-3.0 · 推送 2026-03-01 · [GitHub](https://github.com/vicperdana/SemantiClip) · [官网](https://github.com/vicperdana/SemantiClip/) · 个人维护
 
 **把视频转成转录文本与博客文章的 .NET AI 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vicperdana/SemantiClip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 78 --> 81
+    line [79, 80]
 ```
 
-2026-10-18 79 → 2026-10-27 79（+0）
+2026-10-18 79 → 2026-10-28 80（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuwen-cool/ywcrew
 
-⭐ 41 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/yuwen-cool/ywcrew) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-07-29 · [GitHub](https://github.com/yuwen-cool/ywcrew) · 个人维护 · 中文 README
 
 **让本地订阅的多个 AI 编程智能体互相派活并汇总结果**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yuwen-cool/ywcrew 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-18 41 → 2026-10-27 41（+0）
+2026-10-18 41 → 2026-10-28 42（+1）
 
 
 ---

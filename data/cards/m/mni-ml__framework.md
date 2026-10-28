@@ -1,6 +1,6 @@
 # mni-ml/framework
 
-⭐ 1,021 · Rust · MIT · 推送 2026-04-20 · [GitHub](https://github.com/mni-ml/framework) · [官网](http://mni.ml) · 个人维护
+⭐ 1,020 · Rust · MIT · 推送 2026-04-20 · [GitHub](https://github.com/mni-ml/framework) · [官网](http://mni.ml) · 个人维护
 
 **TypeScript 机器学习框架：Rust 后端支持 CPU/CUDA/WebGPU**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mni-ml/framework 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1017 --> 1022
-    line [1018, 1019, 1020, 1021, 1021]
+    line [1018, 1019, 1020, 1021, 1020]
 ```
 
-2026-10-18 1,018 → 2026-10-27 1,021（+3）
+2026-10-18 1,018 → 2026-10-28 1,020（+2）
 
 
 ---

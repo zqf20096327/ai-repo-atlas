@@ -1,6 +1,6 @@
 # InternLM/SpatialASM
 
-⭐ 28 · Python · 推送 2026-10-17 · [GitHub](https://github.com/InternLM/SpatialASM) · 组织维护 · 中文 README
+⭐ 29 · Python · 推送 2026-10-17 · [GitHub](https://github.com/InternLM/SpatialASM) · 组织维护 · 中文 README
 
 **面向 LVLM 的空间推理训练框架与配套模型/数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InternLM/SpatialASM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 28, 29]
 ```
 
-2026-10-18 25 → 2026-10-27 28（+3）
+2026-10-18 25 → 2026-10-28 29（+4）
 
 
 ---

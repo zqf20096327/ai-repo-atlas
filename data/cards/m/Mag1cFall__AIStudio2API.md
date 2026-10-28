@@ -1,6 +1,6 @@
 # Mag1cFall/AIStudio2API
 
-⭐ 475 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Mag1cFall/AIStudio2API) · 个人维护 · 中文 README
+⭐ 490 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Mag1cFall/AIStudio2API) · 个人维护 · 中文 README
 
 **将 Google AI Studio 网页反代为 OpenAI/Anthropic/Gemini 兼容 API 的代理服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mag1cFall/AIStudio2API 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 315 --> 489
-    line [329, 379, 420, 431, 443, 455, 462, 475]
+    title "Mag1cFall/AIStudio2API 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 313 --> 506
+    line [329, 379, 420, 431, 443, 455, 462, 475, 490]
 ```
 
-2026-10-18 329 → 2026-10-27 475（+146）
+2026-10-18 329 → 2026-10-28 490（+161）
 
 
 ---

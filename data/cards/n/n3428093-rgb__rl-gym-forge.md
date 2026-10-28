@@ -1,6 +1,6 @@
 # n3428093-rgb/rl-gym-forge
 
-⭐ 56 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/n3428093-rgb/rl-gym-forge) · 组织维护
+⭐ 56 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/n3428093-rgb/rl-gym-forge) · 组织维护
 
 **面向研究者的 LLM RLHF 训练框架，含奖励模型与交互面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "n3428093-rgb/rl-gym-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-27 56（+0）
+2026-10-18 56 → 2026-10-28 56（+0）
 
 
 ---

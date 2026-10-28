@@ -1,6 +1,6 @@
 # decodingai-magazine/building-a-coding-agent-from-scratch-course
 
-⭐ 952 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) · 组织维护
+⭐ 992 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course) · 组织维护
 
 **面向工程师的开源课程：从零构建编程 Agent 学 harness 工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/building-a-coding-agent-from-scratch-course 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 639 --> 980
-    line [667, 675, 679, 681, 683, 729, 778, 952]
+    title "decodingai-magazine/building-a-coding-agent-from-scratch-course 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 635 --> 1024
+    line [667, 675, 679, 681, 683, 729, 778, 952, 992]
 ```
 
-2026-10-18 667 → 2026-10-27 952（+285）
+2026-10-18 667 → 2026-10-28 992（+325）
 
 
 ---

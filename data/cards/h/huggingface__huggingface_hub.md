@@ -1,6 +1,6 @@
 # huggingface/huggingface_hub
 
-⭐ 4,007 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/huggingface/huggingface_hub) · [官网](https://huggingface.co/docs/huggingface_hub) · 组织维护
+⭐ 4,013 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/huggingface_hub) · [官网](https://huggingface.co/docs/huggingface_hub) · 组织维护
 
 **面向开发者的 Hugging Face Hub 官方 Python 客户端与 hf CLI**
 
@@ -45,13 +45,13 @@ Hugging Face 官方维护的 Python 库与命令行工具，用于与 Hub 平台
 
 ```mermaid
 xychart-beta
-    title "huggingface/huggingface_hub 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3987 --> 4008
-    line [3988, 3990, 3994, 3998, 4001, 4004, 4005, 4007]
+    title "huggingface/huggingface_hub 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3986 --> 4015
+    line [3988, 3990, 3994, 3998, 4001, 4004, 4005, 4007, 4013]
 ```
 
-2026-10-18 3,988 → 2026-10-27 4,007（+19）
+2026-10-18 3,988 → 2026-10-28 4,013（+25）
 
 
 ---

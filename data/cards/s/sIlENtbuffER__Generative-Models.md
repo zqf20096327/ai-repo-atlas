@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sIlENtbuffER/Generative-Models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "sIlENtbuffER/Generative-Models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 152 --> 161
-    line [153, 160, 159]
+    line [153, 160, 159, 159]
 ```
 
-2026-10-18 153 → 2026-10-27 159（+6）
+2026-10-18 153 → 2026-10-28 159（+6）
 
 
 ---

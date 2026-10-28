@@ -1,6 +1,6 @@
 # pyloid/pyloid
 
-⭐ 518 · Python · Apache-2.0 · 推送 2025-11-08 · [GitHub](https://github.com/pyloid/pyloid) · [官网](https://pyloid.com/) · 个人维护
+⭐ 519 · Python · Apache-2.0 · 推送 2025-11-08 · [GitHub](https://github.com/pyloid/pyloid) · [官网](https://pyloid.com/) · 个人维护
 
 **面向 Python 开发者的 Web 技术桌面应用框架**
 
@@ -45,12 +45,12 @@ Pyloid 是一个基于 Web 技术的 Python 桌面应用开发框架，定位描
 ```mermaid
 xychart-beta
     title "pyloid/pyloid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 516 --> 519
-    line [517, 518, 518]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 516 --> 520
+    line [517, 518, 519]
 ```
 
-2026-10-18 517 → 2026-10-27 518（+1）
+2026-10-18 517 → 2026-10-28 519（+2）
 
 
 ---

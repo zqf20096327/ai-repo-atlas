@@ -1,6 +1,6 @@
 # paulotruta/alexa-skill-llm-intent
 
-⭐ 172 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/paulotruta/alexa-skill-llm-intent) · 个人维护
+⭐ 173 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/paulotruta/alexa-skill-llm-intent) · 个人维护
 
 **让 Alexa 语音助手接入 LLM 对话问答的 Skill 模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "paulotruta/alexa-skill-llm-intent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 171 --> 173
-    line [172, 172]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 171 --> 174
+    line [172, 173]
 ```
 
-2026-10-18 172 → 2026-10-27 172（+0）
+2026-10-18 172 → 2026-10-28 173（+1）
 
 
 ---

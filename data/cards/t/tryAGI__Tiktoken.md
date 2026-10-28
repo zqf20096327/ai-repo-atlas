@@ -1,6 +1,6 @@
 # tryAGI/Tiktoken
 
-⭐ 92 · C# · MIT · 推送 2026-10-20 · [GitHub](https://github.com/tryAGI/Tiktoken) · [官网](https://www.nuget.org/packages/Tiktoken/) · 组织维护
+⭐ 92 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tryAGI/Tiktoken) · [官网](https://www.nuget.org/packages/Tiktoken/) · 组织维护
 
 **.NET 高性能 BPE 分词器库，供开发者集成模型 tokenization**
 
@@ -45,12 +45,12 @@ C#/.NET 实现的 BPE 分词器库，以 NuGet 包提供。支持 o200k_base/o20
 ```mermaid
 xychart-beta
     title "tryAGI/Tiktoken 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-27 92（+0）
+2026-10-18 92 → 2026-10-28 92（+0）
 
 
 ---

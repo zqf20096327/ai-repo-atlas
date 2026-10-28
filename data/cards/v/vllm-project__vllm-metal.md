@@ -1,6 +1,6 @@
 # vllm-project/vllm-metal
 
-⭐ 1,914 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/vllm-metal) · [官网](https://docs.vllm.ai/projects/vllm-metal) · 组织维护
+⭐ 1,919 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/vllm-metal) · [官网](https://docs.vllm.ai/projects/vllm-metal) · 组织维护
 
 **让 vLLM 在 Apple Silicon 上用 MLX 后端运行的硬件插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-metal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1879 --> 1917
-    line [1882, 1890, 1896, 1901, 1903, 1907, 1910, 1914]
+    title "vllm-project/vllm-metal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1879 --> 1922
+    line [1882, 1890, 1896, 1901, 1903, 1907, 1910, 1914, 1919]
 ```
 
-2026-10-18 1,882 → 2026-10-27 1,914（+32）
+2026-10-18 1,882 → 2026-10-28 1,919（+37）
 
 
 ---

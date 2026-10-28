@@ -46,12 +46,12 @@ Python 脚本工具：从 swisstopo SWISSIMAGE WMTS 下载指定区域的 256×2
 ```mermaid
 xychart-beta
     title "davidoesch/ai-topographic-maps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-27 59（+0）
+2026-10-18 59 → 2026-10-28 59（+0）
 
 
 ---

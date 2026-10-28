@@ -1,6 +1,6 @@
 # hecatehq/hecate
 
-⭐ 23 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hecatehq/hecate) · [官网](https://hecate.sh) · 组织维护
+⭐ 23 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hecatehq/hecate) · [官网](https://hecate.sh) · 组织维护
 
 **面向操作者的个人 AI 工作台与运行时：网关、聊天、任务、监督外部 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hecatehq/hecate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

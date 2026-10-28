@@ -1,6 +1,6 @@
 # divyaprakash0426/autoshorts
 
-⭐ 205 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/divyaprakash0426/autoshorts) · 个人维护
+⭐ 206 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/divyaprakash0426/autoshorts) · 个人维护
 
 **把长视频自动切分为竖版短视频的 AI 剪辑工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "divyaprakash0426/autoshorts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 204 --> 206
-    line [205, 205]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 204 --> 207
+    line [205, 206]
 ```
 
-2026-10-18 205 → 2026-10-27 205（+0）
+2026-10-18 205 → 2026-10-28 206（+1）
 
 
 ---

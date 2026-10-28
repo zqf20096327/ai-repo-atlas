@@ -1,6 +1,6 @@
 # nshkrdotcom/claude_agent_sdk
 
-⭐ 36 · Elixir · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nshkrdotcom/claude_agent_sdk) · 组织维护
+⭐ 36 · Elixir · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nshkrdotcom/claude_agent_sdk) · 组织维护
 
 **Elixir 的 Claude Code SDK：以编程方式驱动 Claude CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nshkrdotcom/claude_agent_sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-28 36（+0）
 
 
 ---

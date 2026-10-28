@@ -1,6 +1,6 @@
 # AsuraAce/ambit
 
-⭐ 46 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/AsuraAce/ambit) · 个人维护
+⭐ 47 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/AsuraAce/ambit) · 个人维护
 
 **本地优先的 AI 生成图片库桌面管理应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AsuraAce/ambit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 47（+1）
 
 
 ---

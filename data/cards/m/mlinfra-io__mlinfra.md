@@ -1,6 +1,6 @@
 # mlinfra-io/mlinfra
 
-⭐ 115 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mlinfra-io/mlinfra) · [官网](https://mlinfra.io/) · 组织维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlinfra-io/mlinfra) · [官网](https://mlinfra.io/) · 组织维护
 
 **一条命令在多云与本地部署 MLOps 基础设施的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlinfra-io/mlinfra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-27 115（+0）
+2026-10-18 115 → 2026-10-28 115（+0）
 
 
 ---

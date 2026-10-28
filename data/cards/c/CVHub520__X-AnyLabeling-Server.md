@@ -1,6 +1,6 @@
 # CVHub520/X-AnyLabeling-Server
 
-⭐ 330 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/CVHub520/X-AnyLabeling-Server) · [官网](https://xanylabeling.com) · 个人维护
+⭐ 332 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/CVHub520/X-AnyLabeling-Server) · [官网](https://xanylabeling.com) · 个人维护
 
 **面向 X-AnyLabeling 的 AI 推理服务框架：自动标注后端**
 
@@ -45,12 +45,12 @@ X-AnyLabeling 的服务端框架，负责 AI 模型推理的托管：框架层�
 ```mermaid
 xychart-beta
     title "CVHub520/X-AnyLabeling-Server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 324 --> 331
-    line [325, 327, 329, 330, 330]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 324 --> 333
+    line [325, 327, 329, 330, 332]
 ```
 
-2026-10-18 325 → 2026-10-27 330（+5）
+2026-10-18 325 → 2026-10-28 332（+7）
 
 
 ---

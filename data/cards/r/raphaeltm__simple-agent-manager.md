@@ -1,6 +1,6 @@
 # raphaeltm/simple-agent-manager
 
-⭐ 68 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/raphaeltm/simple-agent-manager) · [官网](https://www.simple-agent-manager.org/) · 个人维护
+⭐ 68 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/raphaeltm/simple-agent-manager) · [官网](https://www.simple-agent-manager.org/) · 个人维护
 
 **在自有云 VM 上并行编排多个编码 agent 的管理系统**
 
@@ -47,12 +47,12 @@ SAM 是一个自托管（AGPL-3.0）的编码 agent 编排平台：每个任务�
 ```mermaid
 xychart-beta
     title "raphaeltm/simple-agent-manager 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 62 --> 69
     line [63, 65, 66, 67, 68, 68]
 ```
 
-2026-10-18 63 → 2026-10-27 68（+5）
+2026-10-18 63 → 2026-10-28 68（+5）
 
 
 ---

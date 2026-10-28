@@ -1,6 +1,6 @@
 # pansysoft/openfiles.desktop
 
-⭐ 49 · 推送 2026-10-16 · [GitHub](https://github.com/pansysoft/openfiles.desktop) · [官网](https://openfiles.pansysoft.app/) · 组织维护 · 中文 README
+⭐ 50 · 推送 2026-10-16 · [GitHub](https://github.com/pansysoft/openfiles.desktop) · [官网](https://openfiles.pansysoft.app/) · 组织维护 · 中文 README
 
 **面向 Windows/macOS 的 AI 文件工作区：浏览、编辑 350+ 格式并配合 AI 处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pansysoft/openfiles.desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50]
 ```
 
-2026-10-18 47 → 2026-10-27 49（+2）
+2026-10-18 47 → 2026-10-28 50（+3）
 
 
 ---

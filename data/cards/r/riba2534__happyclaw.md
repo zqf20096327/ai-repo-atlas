@@ -1,6 +1,6 @@
 # riba2534/happyclaw
 
-⭐ 842 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/riba2534/happyclaw) · [官网](https://happyclaw.cc/) · 个人维护 · 中文 README
+⭐ 842 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/riba2534/happyclaw) · [官网](https://happyclaw.cc/) · 个人维护 · 中文 README
 
 **自托管多用户的 Claude Code 智能体工作台，接入 8 种 IM 渠道**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "riba2534/happyclaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
+    title "riba2534/happyclaw 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 835 --> 843
-    line [836, 839, 840, 842]
+    line [836, 839, 840, 842, 842]
 ```
 
-2026-10-18 836 → 2026-10-27 842（+6）
+2026-10-18 836 → 2026-10-28 842（+6）
 
 
 ---

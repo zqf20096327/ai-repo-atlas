@@ -1,6 +1,6 @@
 # crlandsc/moises-light
 
-⭐ 36 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/crlandsc/moises-light) · [官网](https://arxiv.org/abs/2510.06785) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/crlandsc/moises-light) · [官网](https://arxiv.org/abs/2510.06785) · 个人维护
 
 **音乐源分离模型 Moises-Light 架构的 PyTorch 实现**
 
@@ -45,12 +45,12 @@ Moises-Light 论文（WASPAA 2025）的非官方 PyTorch 实现，论文未公�
 ```mermaid
 xychart-beta
     title "crlandsc/moises-light 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-28 37（+1）
 
 
 ---

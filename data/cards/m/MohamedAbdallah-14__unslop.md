@@ -1,6 +1,6 @@
 # MohamedAbdallah-14/unslop
 
-⭐ 164 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MohamedAbdallah-14/unslop) · [官网](https://mohamedabdallah-14.github.io/unslop/) · 个人维护
+⭐ 165 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MohamedAbdallah-14/unslop) · [官网](https://mohamedabdallah-14.github.io/unslop/) · 个人维护
 
 **给写作者与工程师：去除 AI 文本痕迹、保留代码与结构的改写插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MohamedAbdallah-14/unslop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 159 --> 165
-    line [160, 161, 162, 164]
+    title "MohamedAbdallah-14/unslop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 159 --> 166
+    line [160, 161, 162, 164, 165]
 ```
 
-2026-10-18 160 → 2026-10-27 164（+4）
+2026-10-18 160 → 2026-10-28 165（+5）
 
 
 ---

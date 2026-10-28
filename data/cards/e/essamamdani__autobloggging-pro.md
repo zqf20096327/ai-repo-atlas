@@ -43,12 +43,12 @@ AutoBlogging Pro 是一个 WordPress 插件（v0.1.0），基于仓库描述用�
 ```mermaid
 xychart-beta
     title "essamamdani/autobloggging-pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

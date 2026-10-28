@@ -1,6 +1,6 @@
 # NousResearch/hermes-agent
 
-⭐ 257,360 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/NousResearch/hermes-agent) · [官网](https://hermes-agent.nousresearch.com) · 组织维护
+⭐ 257,700 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NousResearch/hermes-agent) · [官网](https://hermes-agent.nousresearch.com) · 组织维护
 
 **自我改进的开源 AI agent，跨 CLI 与消息平台长期陪伴用户**
 
@@ -52,13 +52,13 @@ Nous Research 开发的终端与消息平台 AI agent：内置学习循环，从
 
 ```mermaid
 xychart-beta
-    title "NousResearch/hermes-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 254337 --> 257634
-    line [254611, 255238, 255771, 256186, 256488, 256732, 257008, 257360]
+    title "NousResearch/hermes-agent 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 254303 --> 258008
+    line [254611, 255238, 255771, 256186, 256488, 256732, 257008, 257360, 257700]
 ```
 
-2026-10-18 254,611 → 2026-10-27 257,360（+2,749）
+2026-10-18 254,611 → 2026-10-28 257,700（+3,089）
 
 
 ---

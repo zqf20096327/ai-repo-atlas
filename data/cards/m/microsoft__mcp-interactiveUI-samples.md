@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/mcp-interactiveUI-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    title "microsoft/mcp-interactiveUI-samples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 82 --> 86
-    line [83, 84, 85]
+    line [83, 84, 85, 85]
 ```
 
-2026-10-18 83 → 2026-10-27 85（+2）
+2026-10-18 83 → 2026-10-28 85（+2）
 
 
 ---

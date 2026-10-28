@@ -45,12 +45,12 @@ scDataset 是一个 PyTorch IterableDataset 库，用于大规模单细胞组学
 ```mermaid
 xychart-beta
     title "scDataset/scDataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 52（+0）
 
 
 ---

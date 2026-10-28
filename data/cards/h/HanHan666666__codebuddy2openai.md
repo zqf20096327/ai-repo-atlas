@@ -1,6 +1,6 @@
 # HanHan666666/codebuddy2openai
 
-⭐ 85 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/HanHan666666/codebuddy2openai) · [官网](https://github.com/HanHan666666/codebuddy2openai) · 个人维护 · 中文 README
+⭐ 86 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/HanHan666666/codebuddy2openai) · [官网](https://github.com/HanHan666666/codebuddy2openai) · 个人维护 · 中文 README
 
 **把 CodeBuddy 订阅转成 OpenAI 兼容 API 的本地转换器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HanHan666666/codebuddy2openai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "HanHan666666/codebuddy2openai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 83 --> 88
-    line [85, 87, 86, 85, 84, 85]
+    line [85, 87, 86, 85, 84, 85, 86]
 ```
 
-2026-10-18 85 → 2026-10-27 85（+0）
+2026-10-18 85 → 2026-10-28 86（+1）
 
 
 ---

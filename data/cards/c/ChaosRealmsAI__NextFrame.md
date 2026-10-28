@@ -46,12 +46,12 @@ Rust 编写的 AI-native 视频编辑器与运行时：结构化 JSON 组合（c
 ```mermaid
 xychart-beta
     title "ChaosRealmsAI/NextFrame 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

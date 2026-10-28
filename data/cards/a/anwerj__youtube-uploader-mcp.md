@@ -1,6 +1,6 @@
 # anwerj/youtube-uploader-mcp
 
-⭐ 62 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/anwerj/youtube-uploader-mcp) · 个人维护
+⭐ 61 · Go · MIT · 推送 2026-09-20 · [GitHub](https://github.com/anwerj/youtube-uploader-mcp) · 个人维护
 
 **通过 MCP 客户端上传/更新/排期 YouTube 视频的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anwerj/youtube-uploader-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 58 --> 63
-    line [59, 60, 61, 62, 62]
+    line [59, 60, 61, 62, 61]
 ```
 
-2026-10-18 59 → 2026-10-27 62（+3）
+2026-10-18 59 → 2026-10-28 61（+2）
 
 
 ---

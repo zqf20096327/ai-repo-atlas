@@ -1,6 +1,6 @@
 # apache/tvm-ffi
 
-⭐ 474 · C++ · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/apache/tvm-ffi) · [官网](https://tvm.apache.org/ffi) · 组织维护
+⭐ 475 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/apache/tvm-ffi) · [官网](https://tvm.apache.org/ffi) · 组织维护
 
 **机器学习系统的开放 ABI 与 FFI：跨框架零拷贝互操作**
 
@@ -44,13 +44,13 @@ Apache TVM FFI 提供稳定、最小化的 C ABI 与外部函数接口，面向�
 
 ```mermaid
 xychart-beta
-    title "apache/tvm-ffi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 470 --> 475
-    line [471, 472, 471, 473, 474]
+    title "apache/tvm-ffi 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 470 --> 476
+    line [471, 472, 471, 473, 474, 475]
 ```
 
-2026-10-18 471 → 2026-10-27 474（+3）
+2026-10-18 471 → 2026-10-28 475（+4）
 
 
 ---

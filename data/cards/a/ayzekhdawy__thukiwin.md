@@ -1,6 +1,6 @@
 # ayzekhdawy/thukiwin
 
-⭐ 24 · Rust · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/ayzekhdawy/thukiwin) · 个人维护
+⭐ 25 · Rust · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/ayzekhdawy/thukiwin) · 个人维护
 
 **Windows 本地悬浮 AI 助手：双击 Ctrl 随处唤起问答与桌面代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ayzekhdawy/thukiwin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-27 24（+1）
+2026-10-18 23 → 2026-10-28 25（+2）
 
 
 ---

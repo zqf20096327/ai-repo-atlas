@@ -1,6 +1,6 @@
 # daymonio/daymon
 
-⭐ 366 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/daymonio/daymon) · [官网](http://daymon.io) · 组织维护
+⭐ 365 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/daymonio/daymon) · [官网](http://daymon.io) · 组织维护
 
 **让 Claude 7×24 后台运行的本地桌面调度与记忆工具**
 
@@ -45,12 +45,12 @@ Electron 桌面应用（macOS/Windows/Linux 菜单栏驻留），接入已有的
 ```mermaid
 xychart-beta
     title "daymonio/daymon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 364 --> 367
-    line [365, 366, 366]
+    line [365, 366, 365]
 ```
 
-2026-10-18 365 → 2026-10-27 366（+1）
+2026-10-18 365 → 2026-10-28 365（+0）
 
 
 ---

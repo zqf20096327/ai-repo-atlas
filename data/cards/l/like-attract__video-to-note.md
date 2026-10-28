@@ -1,6 +1,6 @@
 # like-attract/video-to-note
 
-⭐ 154 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/like-attract/video-to-note) · 个人维护 · 中文 README
+⭐ 155 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/like-attract/video-to-note) · 个人维护 · 中文 README
 
 **本地优先的视频转 Markdown 笔记工具，支持 B站/抖音/本地视频**
 
@@ -45,13 +45,13 @@ VideoToNo 是把视频变成带时间轴 Markdown 笔记的本地服务：输入
 
 ```mermaid
 xychart-beta
-    title "like-attract/video-to-note 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 138 --> 155
-    line [139, 143, 149, 150, 152, 153, 154]
+    title "like-attract/video-to-note 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 138 --> 156
+    line [139, 143, 149, 150, 152, 153, 154, 155]
 ```
 
-2026-10-18 139 → 2026-10-27 154（+15）
+2026-10-18 139 → 2026-10-28 155（+16）
 
 
 ---

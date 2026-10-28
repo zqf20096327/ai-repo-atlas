@@ -1,6 +1,6 @@
 # huangjia2019/agent-design-patterns
 
-⭐ 319 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/huangjia2019/agent-design-patterns) · 个人维护 · 中文 README
+⭐ 322 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/huangjia2019/agent-design-patterns) · 个人维护 · 中文 README
 
 **AI agent 设计模式参考目录：27 模式按 7×6 矩阵定位，附可运行代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huangjia2019/agent-design-patterns 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 307 --> 320
-    line [308, 313, 316, 317, 318, 319, 319]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 307 --> 323
+    line [308, 313, 316, 317, 318, 319, 322]
 ```
 
-2026-10-18 308 → 2026-10-27 319（+11）
+2026-10-18 308 → 2026-10-28 322（+14）
 
 
 ---

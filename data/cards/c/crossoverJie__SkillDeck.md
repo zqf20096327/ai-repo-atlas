@@ -1,6 +1,6 @@
 # crossoverJie/SkillDeck
 
-⭐ 590 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crossoverJie/SkillDeck) · [官网](http://crossoverjie.top/SkillDeck/) · 个人维护 · 中文 README
+⭐ 591 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/crossoverJie/SkillDeck) · [官网](http://crossoverjie.top/SkillDeck/) · 个人维护 · 中文 README
 
 **macOS 桌面 GUI：统一管理多个 AI 编码代理的技能**
 
@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 原生应用，为 12 种 AI 代码代理（Claude Code�
 
 ```mermaid
 xychart-beta
-    title "crossoverJie/SkillDeck 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 578 --> 591
-    line [579, 582, 583, 584, 586, 587, 589, 590]
+    title "crossoverJie/SkillDeck 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 578 --> 592
+    line [579, 582, 583, 584, 586, 587, 589, 590, 591]
 ```
 
-2026-10-18 579 → 2026-10-27 590（+11）
+2026-10-18 579 → 2026-10-28 591（+12）
 
 
 ---

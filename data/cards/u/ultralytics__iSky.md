@@ -44,12 +44,12 @@ Ultralytics 开发的 iPhone/iPad 应用，使用 Core ML 风格迁移模型对�
 ```mermaid
 xychart-beta
     title "ultralytics/iSky 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-27 77（+0）
+2026-10-18 77 → 2026-10-28 77（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # basetenlabs/truss-examples
 
-⭐ 235 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/basetenlabs/truss-examples) · [官网](https://trussml.com) · 组织维护
+⭐ 234 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/basetenlabs/truss-examples) · [官网](https://trussml.com) · 组织维护
 
 **Truss 模型部署示例集：数十个可直接部署的示例**
 
@@ -44,12 +44,12 @@ Baseten 维护的 Truss 部署示例仓库，收录数十个示例模型，可�
 ```mermaid
 xychart-beta
     title "basetenlabs/truss-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 232 --> 236
-    line [233, 234, 235, 235]
+    line [233, 234, 235, 234]
 ```
 
-2026-10-18 233 → 2026-10-27 235（+2）
+2026-10-18 233 → 2026-10-28 234（+1）
 
 
 ---

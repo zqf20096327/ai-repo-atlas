@@ -1,6 +1,6 @@
 # techjarves/Portable-Local-Studio
 
-⭐ 1,561 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/techjarves/Portable-Local-Studio) · 个人维护
+⭐ 1,571 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/techjarves/Portable-Local-Studio) · 个人维护
 
 **零配置本地离线 AI 工作台：图像生成/LLM 对话/语音转文字/TTS**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "techjarves/Portable-Local-Studio 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1527 --> 1564
-    line [1530, 1544, 1548, 1550, 1553, 1558, 1559, 1561]
+    title "techjarves/Portable-Local-Studio 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1526 --> 1575
+    line [1530, 1544, 1548, 1550, 1553, 1558, 1559, 1561, 1571]
 ```
 
-2026-10-18 1,530 → 2026-10-27 1,561（+31）
+2026-10-18 1,530 → 2026-10-28 1,571（+41）
 
 
 ---

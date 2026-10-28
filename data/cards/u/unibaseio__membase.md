@@ -1,6 +1,6 @@
 # unibaseio/membase
 
-⭐ 86 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
+⭐ 87 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/unibaseio/membase) · [官网](https://membase.ai) · 组织维护
 
 **AI agent 记忆层：统一记忆供多 AI 应用读写**
 
@@ -45,13 +45,13 @@ Unibase 公司开发的 AI agent 记忆基础设施：将事实、文档、网�
 
 ```mermaid
 xychart-beta
-    title "unibaseio/membase 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 41 --> 90
-    line [45, 53, 67, 70, 80, 84, 86]
+    title "unibaseio/membase 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 41 --> 91
+    line [45, 53, 67, 70, 80, 84, 86, 87]
 ```
 
-2026-10-18 45 → 2026-10-27 86（+41）
+2026-10-18 45 → 2026-10-28 87（+42）
 
 
 ---

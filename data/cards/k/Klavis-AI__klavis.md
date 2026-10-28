@@ -1,6 +1,6 @@
 # Klavis-AI/klavis
 
-⭐ 5,827 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Klavis-AI/klavis) · [官网](https://www.klavis.ai/) · 组织维护
+⭐ 5,828 · Python · Apache-2.0 · 推送 2026-06-01 · [GitHub](https://github.com/Klavis-AI/klavis) · [官网](https://www.klavis.ai/) · 组织维护
 
 **面向 AI agent 的 MCP 集成平台，提供工具接入与托管服务**
 
@@ -45,13 +45,13 @@ Klavis 团队维护的 MCP 集成平台，包含三部分：Strata（单一 MCP 
 
 ```mermaid
 xychart-beta
-    title "Klavis-AI/klavis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5812 --> 5828
-    line [5813, 5817, 5821, 5822, 5823, 5826, 5827]
+    title "Klavis-AI/klavis 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5812 --> 5829
+    line [5813, 5817, 5821, 5822, 5823, 5826, 5827, 5828]
 ```
 
-2026-10-18 5,813 → 2026-10-27 5,827（+14）
+2026-10-18 5,813 → 2026-10-28 5,828（+15）
 
 
 ---

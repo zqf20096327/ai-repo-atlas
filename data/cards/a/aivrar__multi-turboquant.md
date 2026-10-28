@@ -1,6 +1,6 @@
 # aivrar/multi-turboquant
 
-⭐ 29 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/aivrar/multi-turboquant) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/aivrar/multi-turboquant) · 个人维护
 
 **LLM 推理 KV cache 压缩工具包：12 种压缩方法统一 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aivrar/multi-turboquant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-18 28 → 2026-10-27 29（+1）
+2026-10-18 28 → 2026-10-28 30（+2）
 
 
 ---

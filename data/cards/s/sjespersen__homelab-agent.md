@@ -1,6 +1,6 @@
 # sjespersen/homelab-agent
 
-⭐ 26 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sjespersen/homelab-agent) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sjespersen/homelab-agent) · 个人维护
 
 **把廉价主机变成常驻 AI agent 服务器的家庭实验室一体仓**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sjespersen/homelab-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 20 --> 27
     line [21, 26, 26]
 ```
 
-2026-10-18 21 → 2026-10-27 26（+5）
+2026-10-18 21 → 2026-10-28 26（+5）
 
 
 ---

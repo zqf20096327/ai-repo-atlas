@@ -1,6 +1,6 @@
 # openai/softnet
 
-⭐ 99 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/openai/softnet) · 组织维护
+⭐ 99 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/openai/softnet) · 组织维护
 
 **macOS 虚拟机网络隔离与 DHCP 缓解工具（Tart 配套）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/softnet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "openai/softnet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 90 --> 100
-    line [91, 92, 95, 96, 97, 98, 99]
+    line [91, 92, 95, 96, 97, 98, 99, 99]
 ```
 
-2026-10-18 91 → 2026-10-27 99（+8）
+2026-10-18 91 → 2026-10-28 99（+8）
 
 
 ---

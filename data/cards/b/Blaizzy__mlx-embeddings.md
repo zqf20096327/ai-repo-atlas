@@ -1,6 +1,6 @@
 # Blaizzy/mlx-embeddings
 
-⭐ 449 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/Blaizzy/mlx-embeddings) · 个人维护
+⭐ 450 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/Blaizzy/mlx-embeddings) · 个人维护
 
 **在 Mac 上用 MLX 本地运行视觉与语言嵌入模型的 Python 包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Blaizzy/mlx-embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 448 --> 450
-    line [449, 449]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 448 --> 451
+    line [449, 450]
 ```
 
-2026-10-18 449 → 2026-10-27 449（+0）
+2026-10-18 449 → 2026-10-28 450（+1）
 
 
 ---

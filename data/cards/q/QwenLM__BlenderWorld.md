@@ -1,6 +1,6 @@
 # QwenLM/BlenderWorld
 
-⭐ 278 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QwenLM/BlenderWorld) · 组织维护 · 中文 README
+⭐ 286 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/QwenLM/BlenderWorld) · 组织维护 · 中文 README
 
 **评测视觉 agent 从真实参考生成 Blender 3D 场景的基准**
 
@@ -44,13 +44,13 @@ BlenderWorld 是一个 3D 创建基准：包含 223 个任务（9 大类 22 子�
 
 ```mermaid
 xychart-beta
-    title "QwenLM/BlenderWorld 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 100 --> 294
-    line [116, 146, 184, 190, 240, 261, 269, 278]
+    title "QwenLM/BlenderWorld 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 99 --> 303
+    line [116, 146, 184, 190, 240, 261, 269, 278, 286]
 ```
 
-2026-10-18 116 → 2026-10-27 278（+162）
+2026-10-18 116 → 2026-10-28 286（+170）
 
 
 ---

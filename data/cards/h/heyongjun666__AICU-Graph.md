@@ -1,6 +1,6 @@
 # heyongjun666/AICU-Graph
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/heyongjun666/AICU-Graph) · 个人维护 · 中文 README
+⭐ 163 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/heyongjun666/AICU-Graph) · 个人维护 · 中文 README
 
 **多 Agent 协作平台：自动分解任务、动态组建 AI 团队并协同执行**
 
@@ -44,13 +44,13 @@ AICU-Graph 将复杂任务转化为可视化、持续运行的任务图：自动
 
 ```mermaid
 xychart-beta
-    title "heyongjun666/AICU-Graph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 64 --> 166
-    line [72, 101, 135, 150, 145, 149, 158]
+    title "heyongjun666/AICU-Graph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 63 --> 172
+    line [72, 101, 135, 150, 145, 149, 158, 163]
 ```
 
-2026-10-18 72 → 2026-10-27 158（+86）
+2026-10-18 72 → 2026-10-28 163（+91）
 
 
 ---

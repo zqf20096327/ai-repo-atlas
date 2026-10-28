@@ -1,6 +1,6 @@
 # unslothai/unsloth-zoo
 
-⭐ 345 · Python · LGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/unslothai/unsloth-zoo) · [官网](https://unsloth.ai/) · 组织维护
+⭐ 345 · Python · LGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/unslothai/unsloth-zoo) · [官网](https://unsloth.ai/) · 组织维护
 
 **Unsloth 的辅助工具库：支撑 LLM 高效微调与导出**
 
@@ -45,12 +45,12 @@ unslothai/unsloth-zoo 是 Unsloth 微调框架的配套工具仓库。Unsloth �
 ```mermaid
 xychart-beta
     title "unslothai/unsloth-zoo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28"]
     y-axis "stars" 340 --> 346
     line [341, 343, 344, 345, 345]
 ```
 
-2026-10-18 341 → 2026-10-27 345（+4）
+2026-10-18 341 → 2026-10-28 345（+4）
 
 
 ---

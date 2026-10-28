@@ -1,6 +1,6 @@
 # ZimoLiao/scholaraio
 
-⭐ 579 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/ZimoLiao/scholaraio) · [官网](https://zimoliao.github.io/scholaraio/) · 个人维护 · 中文 README
+⭐ 580 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZimoLiao/scholaraio) · [官网](https://zimoliao.github.io/scholaraio/) · 个人维护 · 中文 README
 
 **为 AI 编程 agent 提供学术研究全流程的文献管理基座**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZimoLiao/scholaraio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 575 --> 580
-    line [576, 577, 578, 579, 579]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 575 --> 581
+    line [576, 577, 578, 579, 580]
 ```
 
-2026-10-18 576 → 2026-10-27 579（+3）
+2026-10-18 576 → 2026-10-28 580（+4）
 
 
 ---

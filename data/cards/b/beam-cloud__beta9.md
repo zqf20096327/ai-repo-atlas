@@ -1,6 +1,6 @@
 # beam-cloud/beta9
 
-⭐ 1,831 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/beam-cloud/beta9) · [官网](https://beam.cloud) · 组织维护
+⭐ 1,834 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/beam-cloud/beta9) · [官网](https://beam.cloud) · 组织维护
 
 **面向开发者的开源 serverless GPU 运行时：部署并弹性伸缩 AI 负载**
 
@@ -45,13 +45,13 @@ Beam 开源的开源运行时 beta9，为无服务器 AI 负载提供 Pythonic �
 
 ```mermaid
 xychart-beta
-    title "beam-cloud/beta9 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1821 --> 1832
-    line [1822, 1828, 1830, 1831]
+    title "beam-cloud/beta9 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1821 --> 1835
+    line [1822, 1828, 1830, 1831, 1834]
 ```
 
-2026-10-18 1,822 → 2026-10-27 1,831（+9）
+2026-10-18 1,822 → 2026-10-28 1,834（+12）
 
 
 ---

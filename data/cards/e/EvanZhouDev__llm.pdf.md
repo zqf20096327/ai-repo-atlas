@@ -1,6 +1,6 @@
 # EvanZhouDev/llm.pdf
 
-⭐ 869 · Python · 推送 2026-09-13 · [GitHub](https://github.com/EvanZhouDev/llm.pdf) · [官网](http://evanzhoudev.github.io/llm.pdf) · 个人维护
+⭐ 870 · Python · 推送 2026-09-13 · [GitHub](https://github.com/EvanZhouDev/llm.pdf) · [官网](http://evanzhoudev.github.io/llm.pdf) · 个人维护
 
 **在 PDF 文件内运行 LLM 推理的概念验证项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvanZhouDev/llm.pdf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 868 --> 871
-    line [870, 869, 869]
+    line [870, 869, 870]
 ```
 
-2026-10-18 870 → 2026-10-27 869（-1）
+2026-10-18 870 → 2026-10-28 870（+0）
 
 
 ---

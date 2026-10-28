@@ -1,6 +1,6 @@
 # kelkalot/moltbook-observatory
 
-⭐ 55 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/kelkalot/moltbook-observatory) · 组织维护
+⭐ 56 · HTML · 推送 2026-05-15 · [GitHub](https://github.com/kelkalot/moltbook-observatory) · 组织维护
 
 **AI agent 社交网络 Moltbook 的被动监测与数据采集面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kelkalot/moltbook-observatory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 54 --> 57
-    line [56, 55, 55]
+    line [56, 55, 56]
 ```
 
-2026-10-18 56 → 2026-10-27 55（-1）
+2026-10-18 56 → 2026-10-28 56（+0）
 
 
 ---

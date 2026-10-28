@@ -1,6 +1,6 @@
 # awizemann/scarf
 
-⭐ 897 · Swift · MIT · 推送 2026-10-06 · [GitHub](https://github.com/awizemann/scarf) · [官网](https://awizemann.github.io/scarf/) · 个人维护 · 中文 README
+⭐ 898 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/awizemann/scarf) · [官网](https://awizemann.github.io/scarf/) · 个人维护 · 中文 README
 
 **Hermes AI agent 的原生 macOS/iOS 图形客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "awizemann/scarf 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 891 --> 898
-    line [892, 893, 895, 894, 896, 897]
+    title "awizemann/scarf 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 891 --> 899
+    line [892, 893, 895, 894, 896, 897, 898]
 ```
 
-2026-10-18 892 → 2026-10-27 897（+5）
+2026-10-18 892 → 2026-10-28 898（+6）
 
 
 ---

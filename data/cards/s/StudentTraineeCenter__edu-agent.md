@@ -1,6 +1,6 @@
 # StudentTraineeCenter/edu-agent
 
-⭐ 23 · TypeScript · MIT · 推送 2025-12-30 · [GitHub](https://github.com/StudentTraineeCenter/edu-agent) · [官网](https://app-eduagent-dev-swc-web-yq6q81.azurewebsites.net/) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2025-12-30 · [GitHub](https://github.com/StudentTraineeCenter/edu-agent) · [官网](https://app-eduagent-dev-swc-web-yq6q81.azurewebsites.net/) · 组织维护
 
 **面向学生与教育者的 AI 个性化学习平台（RAG+Agent）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "StudentTraineeCenter/edu-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-10-27 23（+1）
+2026-10-18 22 → 2026-10-28 24（+2）
 
 
 ---

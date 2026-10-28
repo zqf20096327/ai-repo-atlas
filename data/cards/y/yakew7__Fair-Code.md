@@ -1,6 +1,6 @@
 # yakew7/Fair-Code
 
-⭐ 54 · HTML · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yakew7/Fair-Code) · [官网](https://thefaircode.xyz) · 个人维护
+⭐ 54 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yakew7/Fair-Code) · [官网](https://thefaircode.xyz) · 个人维护
 
 **7 个领域 AI 偏见审计项目：量化公平性差距并给出修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yakew7/Fair-Code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 50 --> 55
     line [51, 52, 54, 54]
 ```
 
-2026-10-18 51 → 2026-10-27 54（+3）
+2026-10-18 51 → 2026-10-28 54（+3）
 
 
 ---

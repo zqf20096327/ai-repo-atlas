@@ -1,6 +1,6 @@
 # marqo-ai/marqo
 
-⭐ 5,030 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/marqo-ai/marqo) · [官网](https://www.marqo.ai/) · 组织维护
+⭐ 5,026 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/marqo-ai/marqo) · [官网](https://www.marqo.ai/) · 组织维护
 
 **面向电商品牌的 AI 原生搜索与商品发现平台（开源版已停更）**
 
@@ -45,12 +45,12 @@ Marqo 是面向时尚、美妆、电子、家居等在线品牌的 AI 原生电�
 ```mermaid
 xychart-beta
     title "marqo-ai/marqo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5027 --> 5031
-    line [5028, 5029, 5030, 5030]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 5025 --> 5031
+    line [5028, 5029, 5030, 5026]
 ```
 
-2026-10-18 5,028 → 2026-10-27 5,030（+2）
+2026-10-18 5,028 → 2026-10-28 5,026（-2）
 
 
 ---

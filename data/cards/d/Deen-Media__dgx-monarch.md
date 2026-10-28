@@ -1,6 +1,6 @@
 # Deen-Media/dgx-monarch
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Deen-Media/dgx-monarch) · 组织维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Deen-Media/dgx-monarch) · 组织维护
 
 **在两台 DGX Spark 上分布式运行 ComfyUI 图像/视频生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Deen-Media/dgx-monarch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 28 --> 46
-    line [29, 32, 33, 34, 35, 42, 43, 45]
+    title "Deen-Media/dgx-monarch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 27 --> 52
+    line [29, 32, 33, 34, 35, 42, 43, 45, 50]
 ```
 
-2026-10-18 29 → 2026-10-27 45（+16）
+2026-10-18 29 → 2026-10-28 50（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # qwwiwi/dashi-plugin-claude-code
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/qwwiwi/dashi-plugin-claude-code) · 个人维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qwwiwi/dashi-plugin-claude-code) · 个人维护
 
 **把 Claude Code 会话接入 Telegram 的频道插件，单一会话免按条计费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwwiwi/dashi-plugin-claude-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "qwwiwi/dashi-plugin-claude-code 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 17 --> 24
-    line [18, 22, 23]
+    line [18, 22, 23, 23]
 ```
 
-2026-10-18 18 → 2026-10-27 23（+5）
+2026-10-18 18 → 2026-10-28 23（+5）
 
 
 ---

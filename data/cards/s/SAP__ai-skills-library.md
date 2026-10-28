@@ -1,6 +1,6 @@
 # SAP/ai-skills-library
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/SAP/ai-skills-library) · 组织维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/SAP/ai-skills-library) · 组织维护
 
 **SAP 数字助手的 AI 技能发现与安装库**
 
@@ -45,12 +45,12 @@ SAP 维护的 AI 技能聚合库：通过 skills CLI 搜索、筛选并安装面
 ```mermaid
 xychart-beta
     title "SAP/ai-skills-library 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 83 --> 90
-    line [84, 86, 87, 88, 89, 89]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 83 --> 96
+    line [84, 86, 87, 88, 89, 95]
 ```
 
-2026-10-18 84 → 2026-10-27 89（+5）
+2026-10-18 84 → 2026-10-28 95（+11）
 
 
 ---

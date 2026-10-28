@@ -1,6 +1,6 @@
 # Wolfe-Jam/claude-faf-mcp
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Wolfe-Jam/claude-faf-mcp) · [官网](https://faf.one) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Wolfe-Jam/claude-faf-mcp) · [官网](https://faf.one) · 个人维护
 
 **为 Claude 维护项目持久上下文的 MCP 服务器（.faf 格式）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wolfe-Jam/claude-faf-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yhm080315-sudo/dsh-android
 
-⭐ 22 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yhm080315-sudo/dsh-android) · 个人维护 · 中文 README
+⭐ 23 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yhm080315-sudo/dsh-android) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 打包成免 root 的独立 Android 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yhm080315-sudo/dsh-android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6 --> 23
-    line [7, 14, 15, 17, 18, 20, 22]
+    title "yhm080315-sudo/dsh-android 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6 --> 24
+    line [7, 14, 15, 17, 18, 20, 22, 23]
 ```
 
-2026-10-18 7 → 2026-10-27 22（+15）
+2026-10-18 7 → 2026-10-28 23（+16）
 
 
 ---

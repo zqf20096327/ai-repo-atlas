@@ -1,6 +1,6 @@
 # treeverse/vscode-dvc
 
-⭐ 220 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/treeverse/vscode-dvc) · [官网](https://marketplace.visualstudio.com/items?itemName=lakefs.lakefs-dvc) · 组织维护
+⭐ 220 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/treeverse/vscode-dvc) · [官网](https://marketplace.visualstudio.com/items?itemName=lakefs.lakefs-dvc) · 组织维护
 
 **VS Code 扩展：在 IDE 内追踪与可视化 DVC 管理的 ML 实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "treeverse/vscode-dvc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 219 --> 221
     line [220, 220]
 ```
 
-2026-10-18 220 → 2026-10-27 220（+0）
+2026-10-18 220 → 2026-10-28 220（+0）
 
 
 ---

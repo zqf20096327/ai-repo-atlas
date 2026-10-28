@@ -1,6 +1,6 @@
 # activeloopai/deeplake
 
-⭐ 9,262 · C++ · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/activeloopai/deeplake) · [官网](https://deeplake.ai) · 组织维护
+⭐ 9,259 · C++ · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/activeloopai/deeplake) · [官网](https://deeplake.ai) · 组织维护
 
 **面向 AI 的数据湖与向量存储数据库，存储多模态数据并支持检索训练**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "activeloopai/deeplake 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "activeloopai/deeplake 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 9251 --> 9263
-    line [9252, 9253, 9258, 9259, 9261, 9262]
+    line [9252, 9253, 9258, 9259, 9261, 9262, 9259]
 ```
 
-2026-10-18 9,252 → 2026-10-27 9,262（+10）
+2026-10-18 9,252 → 2026-10-28 9,259（+7）
 
 
 ---

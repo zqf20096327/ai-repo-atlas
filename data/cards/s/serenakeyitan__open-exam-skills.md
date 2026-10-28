@@ -1,6 +1,6 @@
 # serenakeyitan/open-exam-skills
 
-⭐ 160 · Python · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/serenakeyitan/open-exam-skills) · [官网](https://kael.im/) · 个人维护
+⭐ 161 · Python · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/serenakeyitan/open-exam-skills) · [官网](https://kael.im/) · 个人维护
 
 **面向学生与教师的学习技能集：思维导图/闪卡/测验/引用核查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "serenakeyitan/open-exam-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 152 --> 161
-    line [153, 154, 155, 157, 158, 160]
+    title "serenakeyitan/open-exam-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 152 --> 162
+    line [153, 154, 155, 157, 158, 160, 161]
 ```
 
-2026-10-18 153 → 2026-10-27 160（+7）
+2026-10-18 153 → 2026-10-28 161（+8）
 
 
 ---

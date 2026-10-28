@@ -1,6 +1,6 @@
 # archlizheng/AIPM-Wiki
 
-⭐ 433 · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/archlizheng/AIPM-Wiki) · 个人维护 · 中文 README
+⭐ 434 · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/archlizheng/AIPM-Wiki) · 个人维护 · 中文 README
 
 **AI 产品经理入门知识库：面试题库与学习路线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "archlizheng/AIPM-Wiki 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 404 --> 435
-    line [406, 413, 423, 428, 430, 432, 433]
+    title "archlizheng/AIPM-Wiki 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 404 --> 436
+    line [406, 413, 423, 428, 430, 432, 433, 434]
 ```
 
-2026-10-18 406 → 2026-10-27 433（+27）
+2026-10-18 406 → 2026-10-28 434（+28）
 
 
 ---

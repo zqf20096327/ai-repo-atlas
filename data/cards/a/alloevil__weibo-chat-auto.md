@@ -1,6 +1,6 @@
 # alloevil/weibo-chat-auto
 
-⭐ 32 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/alloevil/weibo-chat-auto) · [官网](https://github.com/alloevil/weibo-chat-auto/releases/latest) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/alloevil/weibo-chat-auto) · [官网](https://github.com/alloevil/weibo-chat-auto/releases/latest) · 个人维护 · 中文 README
 
 **微博群聊消息本地归档桌面应用，含 AI 摘要与问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alloevil/weibo-chat-auto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-27 32（+0）
+2026-10-18 32 → 2026-10-28 33（+1）
 
 
 ---

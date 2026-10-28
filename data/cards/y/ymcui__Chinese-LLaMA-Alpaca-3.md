@@ -1,6 +1,6 @@
 # ymcui/Chinese-LLaMA-Alpaca-3
 
-⭐ 1,977 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) · 个人维护 · 中文 README
+⭐ 1,976 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) · 个人维护 · 中文 README
 
 **基于 Meta Llama-3 的中文增量预训练与指令精调开源大模型**
 
@@ -45,12 +45,12 @@ Chinese-LLaMA-Alpaca 系列第三期项目，开源 Llama-3-Chinese-8B 基座模
 ```mermaid
 xychart-beta
     title "ymcui/Chinese-LLaMA-Alpaca-3 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1976 --> 1981
-    line [1980, 1979, 1978, 1977, 1977]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1975 --> 1981
+    line [1980, 1979, 1978, 1977, 1976]
 ```
 
-2026-10-18 1,980 → 2026-10-27 1,977（-3）
+2026-10-18 1,980 → 2026-10-28 1,976（-4）
 
 
 ---

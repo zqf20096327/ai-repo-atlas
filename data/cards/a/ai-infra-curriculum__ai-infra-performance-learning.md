@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-performance-learning
 
-⭐ 80 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-performance-learning) · 组织维护
+⭐ 79 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-performance-learning) · 组织维护
 
 **AI/ML 性能工程师课程仓库：GPU 优化与推理加速方向**
 
@@ -46,12 +46,12 @@ AI Career Curriculum 生态下的免费开源课程仓库，面向资深 AI 基�
 ```mermaid
 xychart-beta
     title "ai-infra-curriculum/ai-infra-performance-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    line [79, 80, 79]
 ```
 
-2026-10-18 79 → 2026-10-27 80（+1）
+2026-10-18 79 → 2026-10-28 79（+0）
 
 
 ---

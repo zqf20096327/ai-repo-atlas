@@ -1,6 +1,6 @@
 # mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine
 
-⭐ 43 · Python · 推送 2026-09-02 · [GitHub](https://github.com/mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine) · 个人维护
+⭐ 44 · Python · 推送 2026-09-02 · [GitHub](https://github.com/mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine) · 个人维护
 
 **面向 ESG 文档的证据溯源 RAG 应用：检索、引用核查与报告生成**
 
@@ -45,12 +45,12 @@ ESG Evidence Studio 是一个证据落地的 RAG 应用：FastAPI 后端 + Strea
 ```mermaid
 xychart-beta
     title "mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 44（+1）
 
 
 ---

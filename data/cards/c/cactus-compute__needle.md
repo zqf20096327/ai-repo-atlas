@@ -1,6 +1,6 @@
 # cactus-compute/needle
 
-⭐ 14,328 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cactus-compute/needle) · [官网](https://cactuscompute.com) · 组织维护
+⭐ 14,351 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/cactus-compute/needle) · [官网](https://cactuscompute.com) · 组织维护
 
 **面向手机/可穿戴/微控制器等小型设备的端侧基础模型**
 
@@ -51,13 +51,13 @@ Cactus Compute 团队开发的自动化基础模型 Needle：单一 8-29 MB 二�
 
 ```mermaid
 xychart-beta
-    title "cactus-compute/needle 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 14046 --> 14353
-    line [14071, 14111, 14203, 14232, 14252, 14277, 14328]
+    title "cactus-compute/needle 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 14043 --> 14379
+    line [14071, 14111, 14203, 14232, 14252, 14277, 14328, 14351]
 ```
 
-2026-10-18 14,071 → 2026-10-27 14,328（+257）
+2026-10-18 14,071 → 2026-10-28 14,351（+280）
 
 
 ---

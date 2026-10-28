@@ -1,6 +1,6 @@
 # faraflow/faraflow
 
-⭐ 46 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/faraflow/faraflow) · [官网](https://faraflow.ai) · 组织维护
+⭐ 49 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/faraflow/faraflow) · [官网](https://faraflow.ai) · 组织维护
 
 **面向业务的 AI agent 可视化工作流构建与执行引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "faraflow/faraflow 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 11 --> 49
-    line [14, 46]
+    title "faraflow/faraflow 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 11 --> 52
+    line [14, 46, 49]
 ```
 
-2026-10-26 14 → 2026-10-27 46（+32）
+2026-10-26 14 → 2026-10-28 49（+35）
 
 
 ---

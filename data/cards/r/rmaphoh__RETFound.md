@@ -1,6 +1,6 @@
 # rmaphoh/RETFound
 
-⭐ 690 · Python · NOASSERTION · 推送 2025-11-30 · [GitHub](https://github.com/rmaphoh/RETFound) · 组织维护 · 中文 README
+⭐ 689 · Python · NOASSERTION · 推送 2025-11-30 · [GitHub](https://github.com/rmaphoh/RETFound) · 组织维护 · 中文 README
 
 **视网膜图像基础模型：用于眼科疾病检测与微调**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rmaphoh/RETFound 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    title "rmaphoh/RETFound 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 685 --> 691
-    line [686, 688, 689, 690]
+    line [686, 688, 689, 690, 689]
 ```
 
-2026-10-18 686 → 2026-10-27 690（+4）
+2026-10-18 686 → 2026-10-28 689（+3）
 
 
 ---

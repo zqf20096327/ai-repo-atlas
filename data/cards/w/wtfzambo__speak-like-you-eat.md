@@ -1,6 +1,6 @@
 # wtfzambo/speak-like-you-eat
 
-⭐ 115 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wtfzambo/speak-like-you-eat) · [官网](https://www.npmjs.com/package/speak-like-you-eat) · 个人维护
+⭐ 116 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wtfzambo/speak-like-you-eat) · [官网](https://www.npmjs.com/package/speak-like-you-eat) · 个人维护
 
 **Pi/OMP 插件：把 AI 回答改写成平实语言（≤30字：给 Pi/OMP 用户把 AI 回答重写为平实语言）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wtfzambo/speak-like-you-eat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 111 --> 116
-    line [112, 113, 114, 115, 115]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 111 --> 117
+    line [112, 113, 114, 115, 116]
 ```
 
-2026-10-18 112 → 2026-10-27 115（+3）
+2026-10-18 112 → 2026-10-28 116（+4）
 
 
 ---

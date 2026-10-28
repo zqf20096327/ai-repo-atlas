@@ -1,6 +1,6 @@
 # abacusai/abacusai-bot
 
-⭐ 355 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/abacusai/abacusai-bot) · [官网](https://bot.abacus.ai) · 组织维护
+⭐ 358 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/abacusai/abacusai-bot) · [官网](https://bot.abacus.ai) · 组织维护
 
 **免费开源的桌面个人 AI agent 应用，接入聊天与办公工具**
 
@@ -45,13 +45,13 @@ MIT 许可的桌面应用（macOS/Windows/Linux 安装包）：用户创建具�
 
 ```mermaid
 xychart-beta
-    title "abacusai/abacusai-bot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 212 --> 368
-    line [225, 242, 263, 300, 312, 330, 347, 355]
+    title "abacusai/abacusai-bot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 212 --> 371
+    line [225, 242, 263, 300, 312, 330, 347, 355, 358]
 ```
 
-2026-10-18 225 → 2026-10-27 355（+130）
+2026-10-18 225 → 2026-10-28 358（+133）
 
 
 ---

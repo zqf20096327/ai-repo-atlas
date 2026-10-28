@@ -1,6 +1,6 @@
 # google-deepmind/alphaevolve_repository_of_problems
 
-⭐ 238 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/google-deepmind/alphaevolve_repository_of_problems) · 组织维护
+⭐ 239 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/google-deepmind/alphaevolve_repository_of_problems) · 组织维护
 
 **AlphaEvolve 论文配套的 67 个数学问题仓库（网页+Colab 笔记本）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/alphaevolve_repository_of_problems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 237 --> 239
-    line [238, 238]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 237 --> 240
+    line [238, 239]
 ```
 
-2026-10-18 238 → 2026-10-27 238（+0）
+2026-10-18 238 → 2026-10-28 239（+1）
 
 
 ---

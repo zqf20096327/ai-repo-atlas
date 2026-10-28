@@ -44,12 +44,12 @@ coze-dev 维护的 Coze API 官方 JavaScript SDK monorepo，包含四个 npm �
 ```mermaid
 xychart-beta
     title "coze-dev/coze-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 291 --> 293
     line [292, 292]
 ```
 
-2026-10-18 292 → 2026-10-27 292（+0）
+2026-10-18 292 → 2026-10-28 292（+0）
 
 
 ---

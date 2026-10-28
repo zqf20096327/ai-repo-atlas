@@ -1,6 +1,6 @@
 # e2b-dev/ai-analyst
 
-⭐ 383 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/ai-analyst) · [官网](https://ai-analyst.e2b.dev) · 组织维护
+⭐ 384 · TypeScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/e2b-dev/ai-analyst) · [官网](https://ai-analyst.e2b.dev) · 组织维护
 
 **基于 E2B 沙箱的 AI 数据分析工具：用 Llama 3.1 分析 CSV 并生成交互图表**
 
@@ -45,12 +45,12 @@ E2B 开源的 AI 数据分析 Web 应用：用户上传 CSV 文件，由 Meta Ll
 ```mermaid
 xychart-beta
     title "e2b-dev/ai-analyst 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 382 --> 386
-    line [385, 383, 383]
+    line [385, 383, 384]
 ```
 
-2026-10-18 385 → 2026-10-27 383（-2）
+2026-10-18 385 → 2026-10-28 384（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentsope/SkillAlchemy
 
-⭐ 450 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentsope/SkillAlchemy) · 组织维护 · 中文 README
+⭐ 454 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/agentsope/SkillAlchemy) · 组织维护 · 中文 README
 
 **将开放来源与简述编译为可安装 agent 技能的系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentsope/SkillAlchemy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 431 --> 451
-    line [432, 435, 439, 445, 446, 449, 450]
+    title "agentsope/SkillAlchemy 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 430 --> 456
+    line [432, 435, 439, 445, 446, 449, 450, 454]
 ```
 
-2026-10-18 432 → 2026-10-27 450（+18）
+2026-10-18 432 → 2026-10-28 454（+22）
 
 
 ---

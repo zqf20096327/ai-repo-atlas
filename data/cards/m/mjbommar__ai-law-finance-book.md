@@ -1,6 +1,6 @@
 # mjbommar/ai-law-finance-book
 
-⭐ 70 · TeX · 推送 2026-01-28 · [GitHub](https://github.com/mjbommar/ai-law-finance-book) · [官网](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6923898) · 个人维护
+⭐ 71 · TeX · 推送 2026-01-28 · [GitHub](https://github.com/mjbommar/ai-law-finance-book) · [官网](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6923898) · 个人维护
 
 **面向法律与金融从业者的 AI 开放教科书（撰写中草稿）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mjbommar/ai-law-finance-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-10-27 70（+0）
+2026-10-18 70 → 2026-10-28 71（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # usedotai/dot-loom
 
-⭐ 163 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/usedotai/dot-loom) · [官网](https://app.usedot.xyz) · 组织维护
+⭐ 164 · JavaScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/usedotai/dot-loom) · [官网](https://app.usedot.xyz) · 组织维护
 
 **面向开发者的多模型自适应推理编排运行时**
 
@@ -45,12 +45,12 @@ Dot Loom 是一个开源、供应商可插拔的自适应推理编排运行时�
 ```mermaid
 xychart-beta
     title "usedotai/dot-loom 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 161 --> 173
-    line [170, 172, 164, 162, 163, 163]
+    line [170, 172, 164, 162, 163, 164]
 ```
 
-2026-10-18 170 → 2026-10-27 163（-7）
+2026-10-18 170 → 2026-10-28 164（-6）
 
 
 ---

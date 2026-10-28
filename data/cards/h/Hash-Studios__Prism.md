@@ -1,6 +1,6 @@
 # Hash-Studios/Prism
 
-⭐ 666 · Dart · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/Hash-Studios/Prism) · [官网](https://play.google.com/store/apps/details?id=com.hash.prism) · 组织维护
+⭐ 667 · Dart · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Hash-Studios/Prism) · [官网](https://play.google.com/store/apps/details?id=com.hash.prism) · 组织维护
 
 **面向 Android/iOS 的开源壁纸应用，含 AI 文生壁纸功能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hash-Studios/Prism 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 663 --> 667
-    line [664, 665, 666]
+    title "Hash-Studios/Prism 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 663 --> 668
+    line [664, 665, 666, 667]
 ```
 
-2026-10-18 664 → 2026-10-27 666（+2）
+2026-10-18 664 → 2026-10-28 667（+3）
 
 
 ---

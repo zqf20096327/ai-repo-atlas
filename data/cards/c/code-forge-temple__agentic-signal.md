@@ -1,6 +1,6 @@
 # code-forge-temple/agentic-signal
 
-⭐ 179 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/code-forge-temple/agentic-signal) · [官网](https://agentic-signal.com) · 个人维护
+⭐ 178 · TypeScript · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/code-forge-temple/agentic-signal) · [官网](https://agentic-signal.com) · 个人维护
 
 **给非开发者的可视化 AI 工作流平台，本地 LLM 驱动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "code-forge-temple/agentic-signal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 177 --> 180
+    line [179, 178]
 ```
 
-2026-10-18 179 → 2026-10-27 179（+0）
+2026-10-18 179 → 2026-10-28 178（-1）
 
 
 ---

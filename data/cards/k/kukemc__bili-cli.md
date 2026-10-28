@@ -1,6 +1,6 @@
 # kukemc/bili-cli
 
-⭐ 254 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kukemc/bili-cli) · 个人维护 · 中文 README
+⭐ 272 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kukemc/bili-cli) · 个人维护 · 中文 README
 
 **给 AI Agent 用的哔哩哔哩命令行工具，JSON 输出全套账号操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kukemc/bili-cli 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 23 --> 275
-    line [44, 66, 81, 153, 222, 254]
+    title "kukemc/bili-cli 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 22 --> 294
+    line [44, 66, 81, 153, 222, 254, 272]
 ```
 
-2026-10-22 44 → 2026-10-27 254（+210）
+2026-10-22 44 → 2026-10-28 272（+228）
 
 
 ---

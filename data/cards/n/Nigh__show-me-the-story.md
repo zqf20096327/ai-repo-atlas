@@ -1,6 +1,6 @@
 # Nigh/show-me-the-story
 
-⭐ 630 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nigh/show-me-the-story) · 个人维护 · 中文 README
+⭐ 631 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Nigh/show-me-the-story) · 个人维护 · 中文 README
 
 **自托管 AI 长篇小说写作工具：单可执行文件加 Web 界面**
 
@@ -46,12 +46,12 @@ Go 编写的本地小说写作应用：单个 5 MB 内可执行文件加浏览�
 ```mermaid
 xychart-beta
     title "Nigh/show-me-the-story 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 627 --> 632
-    line [628, 630, 631, 630, 630]
+    line [628, 630, 631, 630, 631]
 ```
 
-2026-10-18 628 → 2026-10-27 630（+2）
+2026-10-18 628 → 2026-10-28 631（+3）
 
 
 ---

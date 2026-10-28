@@ -1,6 +1,6 @@
 # aiongo/mini-coding-agent-go
 
-⭐ 87 · Go · MIT · 推送 2026-08-25 · [GitHub](https://github.com/aiongo/mini-coding-agent-go) · 个人维护 · 中文 README
+⭐ 88 · Go · MIT · 推送 2026-08-25 · [GitHub](https://github.com/aiongo/mini-coding-agent-go) · 个人维护 · 中文 README
 
 **Go 编写的极简本地编程 agent，Ollama 后端，无 LLM 框架**
 
@@ -46,12 +46,12 @@ Sebastian Raschka mini-coding-agent 的 Go 移植，单个 main 包加 CLI。实
 ```mermaid
 xychart-beta
     title "aiongo/mini-coding-agent-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 86 --> 97
-    line [96, 87, 87]
+    line [96, 87, 88]
 ```
 
-2026-10-18 96 → 2026-10-27 87（-9）
+2026-10-18 96 → 2026-10-28 88（-8）
 
 
 ---

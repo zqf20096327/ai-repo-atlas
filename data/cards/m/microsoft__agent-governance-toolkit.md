@@ -1,6 +1,6 @@
 # microsoft/agent-governance-toolkit
 
-⭐ 6,476 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护 · 中文 README
+⭐ 6,480 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/agent-governance-toolkit) · 组织维护 · 中文 README
 
 **面向自治 AI agent 的治理工具包：策略执行、身份、沙箱与审计**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-governance-toolkit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6430 --> 6480
-    line [6434, 6444, 6450, 6455, 6460, 6462, 6468, 6476]
+    title "microsoft/agent-governance-toolkit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6430 --> 6484
+    line [6434, 6444, 6450, 6455, 6460, 6462, 6468, 6476, 6480]
 ```
 
-2026-10-18 6,434 → 2026-10-27 6,476（+42）
+2026-10-18 6,434 → 2026-10-28 6,480（+46）
 
 
 ---

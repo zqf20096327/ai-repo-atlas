@@ -1,6 +1,6 @@
 # johannesbrandenburger/typst-mcp
 
-⭐ 185 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/johannesbrandenburger/typst-mcp) · 个人维护
+⭐ 186 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/johannesbrandenburger/typst-mcp) · 个人维护
 
 **让 AI 模型操作 Typst 排版的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "johannesbrandenburger/typst-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 182 --> 186
-    line [183, 184, 185, 185]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 182 --> 187
+    line [183, 184, 185, 186]
 ```
 
-2026-10-18 183 → 2026-10-27 185（+2）
+2026-10-18 183 → 2026-10-28 186（+3）
 
 
 ---

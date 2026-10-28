@@ -1,6 +1,6 @@
 # PardisTaghavi/SwinMTL
 
-⭐ 49 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/PardisTaghavi/SwinMTL) · [官网](https://pardistaghavi.github.io/#swinmtl) · 组织维护
+⭐ 50 · Jupyter Notebook · GPL-3.0 · 推送 2026-09-13 · [GitHub](https://github.com/PardisTaghavi/SwinMTL) · [官网](https://pardistaghavi.github.io/#swinmtl) · 组织维护
 
 **单目图像同时做深度估计与语义分割的多任务学习框架**
 
@@ -45,12 +45,12 @@ IROS 2024 论文的官方代码库：基于 Swin Transformer 的共享架构多�
 ```mermaid
 xychart-beta
     title "PardisTaghavi/SwinMTL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-28 50（+1）
 
 
 ---

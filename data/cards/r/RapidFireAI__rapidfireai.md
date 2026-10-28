@@ -1,6 +1,6 @@
 # RapidFireAI/rapidfireai
 
-⭐ 173 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/RapidFireAI/rapidfireai) · [官网](https://rapidfire.ai) · 组织维护
+⭐ 173 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/RapidFireAI/rapidfireai) · [官网](https://rapidfire.ai) · 组织维护
 
 **面向 LLM/DL 的快速实验执行框架：从 RAG 评测到微调**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RapidFireAI/rapidfireai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 169 --> 174
     line [170, 171, 172, 173, 173]
 ```
 
-2026-10-18 170 → 2026-10-27 173（+3）
+2026-10-18 170 → 2026-10-28 173（+3）
 
 
 ---

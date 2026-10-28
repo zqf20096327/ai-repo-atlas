@@ -1,6 +1,6 @@
 # Cesarjoquin/Marketing-Skills
 
-⭐ 210 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Cesarjoquin/Marketing-Skills) · 个人维护
+⭐ 211 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Cesarjoquin/Marketing-Skills) · 个人维护
 
 **面向 AI agent 的 51+ 营销技能包与 TypeScript CLI 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cesarjoquin/Marketing-Skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 204 --> 211
-    line [205, 206, 207, 210, 210]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 204 --> 212
+    line [205, 206, 207, 210, 211]
 ```
 
-2026-10-18 205 → 2026-10-27 210（+5）
+2026-10-18 205 → 2026-10-28 211（+6）
 
 
 ---

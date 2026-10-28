@@ -1,6 +1,6 @@
 # ViewComfy/ViewComfy
 
-⭐ 672 · TypeScript · AGPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/ViewComfy/ViewComfy) · [官网](https://www.viewcomfy.com) · 组织维护
+⭐ 673 · TypeScript · AGPL-3.0 · 推送 2026-03-19 · [GitHub](https://github.com/ViewComfy/ViewComfy) · [官网](https://www.viewcomfy.com) · 组织维护
 
 **把 ComfyUI 工作流转成可分享 Web 应用的开源工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ViewComfy/ViewComfy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 670 --> 674
-    line [671, 672, 673, 672, 672]
+    line [671, 672, 673, 672, 673]
 ```
 
-2026-10-18 671 → 2026-10-27 672（+1）
+2026-10-18 671 → 2026-10-28 673（+2）
 
 
 ---

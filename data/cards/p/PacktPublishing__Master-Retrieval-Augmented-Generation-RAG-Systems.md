@@ -43,12 +43,12 @@ Packt 出版的《Master Retrieval-Augmented Generation (RAG) Systems》视频�
 ```mermaid
 xychart-beta
     title "PacktPublishing/Master-Retrieval-Augmented-Generation-RAG-Systems 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 28（+1）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

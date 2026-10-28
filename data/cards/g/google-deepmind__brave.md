@@ -45,12 +45,12 @@ DeepMind 论文 Broaden Your Views for Self-Supervised Video Learning 的 JAX �
 ```mermaid
 xychart-beta
     title "google-deepmind/brave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-27 52（+0）
+2026-10-18 52 → 2026-10-28 52（+0）
 
 
 ---

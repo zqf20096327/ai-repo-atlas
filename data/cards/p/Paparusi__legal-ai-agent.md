@@ -1,6 +1,6 @@
 # Paparusi/legal-ai-agent
 
-⭐ 210 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/Paparusi/legal-ai-agent) · 个人维护
+⭐ 211 · Python · MIT · 推送 2026-03-21 · [GitHub](https://github.com/Paparusi/legal-ai-agent) · 个人维护
 
 **面向越南企业的 AI 法律助手：法律检索、合同审查与起草**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Paparusi/legal-ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 209 --> 211
-    line [210, 210]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 209 --> 212
+    line [210, 211]
 ```
 
-2026-10-18 210 → 2026-10-27 210（+0）
+2026-10-18 210 → 2026-10-28 211（+1）
 
 
 ---

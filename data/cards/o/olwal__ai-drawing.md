@@ -1,6 +1,6 @@
 # olwal/ai-drawing
 
-⭐ 35 · C++ · MIT · 推送 2025-12-20 · [GitHub](https://github.com/olwal/ai-drawing) · 个人维护
+⭐ 36 · C++ · MIT · 推送 2025-12-20 · [GitHub](https://github.com/olwal/ai-drawing) · 个人维护
 
 **C++ 实时人机协作绘画应用：AI 视觉解读加扩散补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "olwal/ai-drawing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-27 35（+1）
+2026-10-18 34 → 2026-10-28 36（+2）
 
 
 ---

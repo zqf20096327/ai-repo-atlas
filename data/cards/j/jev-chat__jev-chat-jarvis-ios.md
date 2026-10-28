@@ -1,6 +1,6 @@
 # jev-chat/jev-chat-jarvis-ios
 
-⭐ 57 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-ios) · 个人维护 · 中文 README
+⭐ 58 · Swift · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jev-chat/jev-chat-jarvis-ios) · 个人维护 · 中文 README
 
 **iOS 自定义键盘：在聊天 App 内分析消息意图/风险并生成候选回复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jev-chat/jev-chat-jarvis-ios 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 49 --> 58
-    line [50, 51, 52, 54, 55, 57]
+    title "jev-chat/jev-chat-jarvis-ios 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 49 --> 59
+    line [50, 51, 52, 54, 55, 57, 58]
 ```
 
-2026-10-18 50 → 2026-10-27 57（+7）
+2026-10-18 50 → 2026-10-28 58（+8）
 
 
 ---

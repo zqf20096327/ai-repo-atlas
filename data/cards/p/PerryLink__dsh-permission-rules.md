@@ -1,6 +1,6 @@
 # PerryLink/dsh-permission-rules
 
-⭐ 135 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/PerryLink/dsh-permission-rules) · [官网](https://perrylink.github.io/plugins/dsh-permission-rules/) · 个人维护 · 中文 README
+⭐ 135 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-permission-rules) · [官网](https://perrylink.github.io/plugins/dsh-permission-rules/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的声明式权限规则插件：工具调用前 allow/deny/ask 把关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-permission-rules 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 119 --> 136
     line [126, 120, 121, 125, 135, 135]
 ```
 
-2026-10-18 126 → 2026-10-27 135（+9）
+2026-10-18 126 → 2026-10-28 135（+9）
 
 
 ---

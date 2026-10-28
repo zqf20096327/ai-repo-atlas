@@ -1,6 +1,6 @@
 # gonzaroman/acornix
 
-⭐ 151 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gonzaroman/acornix) · [官网](https://github.com/gonzaroman/acornix/releases/latest) · 个人维护
+⭐ 155 · Kotlin · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gonzaroman/acornix) · [官网](https://github.com/gonzaroman/acornix/releases/latest) · 个人维护
 
 **安卓端 AI 应用生成器与手机助手：用文字/语音/照片创建应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gonzaroman/acornix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 148 --> 152
-    line [149, 151, 150, 151]
+    title "gonzaroman/acornix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 148 --> 156
+    line [149, 151, 150, 151, 155]
 ```
 
-2026-10-18 149 → 2026-10-27 151（+2）
+2026-10-18 149 → 2026-10-28 155（+6）
 
 
 ---

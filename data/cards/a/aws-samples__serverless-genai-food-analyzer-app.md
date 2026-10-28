@@ -1,6 +1,6 @@
 # aws-samples/serverless-genai-food-analyzer-app
 
-⭐ 94 · TypeScript · MIT-0 · 推送 2026-04-06 · [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app) · 组织维护
+⭐ 95 · TypeScript · MIT-0 · 推送 2026-04-06 · [GitHub](https://github.com/aws-samples/serverless-genai-food-analyzer-app) · 组织维护
 
 **面向消费者的无服务器营养分析 Web 应用：扫码与拍照生成个性化食谱**
 
@@ -46,12 +46,12 @@ AWS 官方示例仓库，构建于 AWS CDK 无服务器架构（Cognito、Lambda
 ```mermaid
 xychart-beta
     title "aws-samples/serverless-genai-food-analyzer-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 93 --> 97
-    line [96, 94, 94]
+    line [96, 94, 95]
 ```
 
-2026-10-18 96 → 2026-10-27 94（-2）
+2026-10-18 96 → 2026-10-28 95（-1）
 
 
 ---

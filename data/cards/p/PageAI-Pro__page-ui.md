@@ -1,6 +1,6 @@
 # PageAI-Pro/page-ui
 
-⭐ 1,693 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PageAI-Pro/page-ui) · [官网](https://pageai.pro) · 组织维护
+⭐ 1,696 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PageAI-Pro/page-ui) · [官网](https://pageai.pro) · 组织维护
 
 **React/Next.js 落地页组件与模板库，复制粘贴即用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PageAI-Pro/page-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1691 --> 1694
-    line [1692, 1693, 1693]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1691 --> 1697
+    line [1692, 1693, 1696]
 ```
 
-2026-10-18 1,692 → 2026-10-27 1,693（+1）
+2026-10-18 1,692 → 2026-10-28 1,696（+4）
 
 
 ---

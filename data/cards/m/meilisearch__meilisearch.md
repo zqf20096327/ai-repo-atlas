@@ -1,6 +1,6 @@
 # meilisearch/meilisearch
 
-⭐ 59,679 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护
+⭐ 59,684 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/meilisearch/meilisearch) · [官网](https://www.meilisearch.com) · 组织维护
 
 **面向应用与网站的开源搜索引擎，提供全文/语义/混合搜索 API**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "meilisearch/meilisearch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 59583 --> 59687
-    line [59591, 59612, 59619, 59634, 59642, 59654, 59665, 59679]
+    title "meilisearch/meilisearch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 59582 --> 59693
+    line [59591, 59612, 59619, 59634, 59642, 59654, 59665, 59679, 59684]
 ```
 
-2026-10-18 59,591 → 2026-10-27 59,679（+88）
+2026-10-18 59,591 → 2026-10-28 59,684（+93）
 
 
 ---

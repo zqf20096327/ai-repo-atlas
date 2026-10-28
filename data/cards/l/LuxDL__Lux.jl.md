@@ -1,6 +1,6 @@
 # LuxDL/Lux.jl
 
-⭐ 737 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/LuxDL/Lux.jl) · [官网](https://lux.csail.mit.edu/) · 个人维护
+⭐ 738 · Julia · MIT · 推送 2026-10-27 · [GitHub](https://github.com/LuxDL/Lux.jl) · [官网](https://lux.csail.mit.edu/) · 个人维护
 
 **Julia 语言深度学习框架：显式参数化建模，经 XLA 编译运行**
 
@@ -47,12 +47,12 @@ Julia 生态的深度学习库，核心特点是神经网络参数与模型结�
 ```mermaid
 xychart-beta
     title "LuxDL/Lux.jl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 736 --> 739
-    line [737, 738, 737, 737]
+    line [737, 738, 737, 738]
 ```
 
-2026-10-18 737 → 2026-10-27 737（+0）
+2026-10-18 737 → 2026-10-28 738（+1）
 
 
 ---

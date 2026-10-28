@@ -1,6 +1,6 @@
 # cerul-ai/cerul
 
-⭐ 164 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cerul-ai/cerul) · [官网](https://cerul.ai) · 组织维护 · 中文 README
+⭐ 165 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/cerul-ai/cerul) · [官网](https://cerul.ai) · 组织维护 · 中文 README
 
 **用自有模型端点把本地视频变成可搜索库的 CLI**
 
@@ -47,12 +47,12 @@ Rust 编写的开源视频处理核心与命令行工具：将本地视频文件
 ```mermaid
 xychart-beta
     title "cerul-ai/cerul 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 162 --> 165
-    line [163, 164, 164]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 162 --> 166
+    line [163, 164, 165]
 ```
 
-2026-10-18 163 → 2026-10-27 164（+1）
+2026-10-18 163 → 2026-10-28 165（+2）
 
 
 ---

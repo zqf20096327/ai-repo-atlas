@@ -1,6 +1,6 @@
 # codedogQBY/ReadAny
 
-⭐ 2,891 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/codedogQBY/ReadAny) · [官网](https://codedogqby.github.io/ReadAny/) · 个人维护 · 中文 README
+⭐ 2,899 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/codedogQBY/ReadAny) · [官网](https://codedogqby.github.io/ReadAny/) · 个人维护 · 中文 README
 
 **本地优先的跨平台 AI 电子书阅读器，支持语义搜索与 RAG 对话**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "codedogQBY/ReadAny 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2807 --> 2898
-    line [2814, 2832, 2849, 2858, 2862, 2875, 2880, 2891]
+    title "codedogQBY/ReadAny 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2806 --> 2907
+    line [2814, 2832, 2849, 2858, 2862, 2875, 2880, 2891, 2899]
 ```
 
-2026-10-18 2,814 → 2026-10-27 2,891（+77）
+2026-10-18 2,814 → 2026-10-28 2,899（+85）
 
 
 ---

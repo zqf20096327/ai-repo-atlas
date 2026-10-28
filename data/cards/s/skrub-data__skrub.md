@@ -1,6 +1,6 @@
 # skrub-data/skrub
 
-⭐ 1,662 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/skrub-data/skrub) · [官网](https://skrub-data.org/) · 组织维护
+⭐ 1,663 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/skrub-data/skrub) · [官网](https://skrub-data.org/) · 组织维护
 
 **面向数据帧的 Python 机器学习预处理库**
 
@@ -43,13 +43,13 @@ skrub 是一个用于在数据帧（dataframe）上开展机器学习的 Python 
 
 ```mermaid
 xychart-beta
-    title "skrub-data/skrub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 1654 --> 1663
-    line [1655, 1656, 1660, 1661, 1662]
+    title "skrub-data/skrub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1654 --> 1664
+    line [1655, 1656, 1660, 1661, 1662, 1663]
 ```
 
-2026-10-18 1,655 → 2026-10-27 1,662（+7）
+2026-10-18 1,655 → 2026-10-28 1,663（+8）
 
 
 ---

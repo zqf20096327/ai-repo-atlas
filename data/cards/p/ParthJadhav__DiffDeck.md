@@ -46,12 +46,12 @@ npm 全局安装的命令行工具：`diffdeck` 启动本地 Web UI 渲染 `git 
 ```mermaid
 xychart-beta
     title "ParthJadhav/DiffDeck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

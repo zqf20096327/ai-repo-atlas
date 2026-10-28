@@ -1,6 +1,6 @@
 # NygenAnalytics/CyteType
 
-⭐ 140 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/NygenAnalytics/CyteType) · [官网](https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text) · 组织维护
+⭐ 139 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/NygenAnalytics/CyteType) · [官网](https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text) · 组织维护
 
 **面向单细胞 RNA-seq 的多智能体 LLM 细胞类型注释系统**
 
@@ -44,13 +44,13 @@ CyteType 是用于单细胞 RNA 测序数据的端到端细胞类型注释系统
 
 ```mermaid
 xychart-beta
-    title "NygenAnalytics/CyteType 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "NygenAnalytics/CyteType 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 138 --> 141
-    line [139, 140]
+    line [139, 140, 139]
 ```
 
-2026-10-18 139 → 2026-10-27 140（+1）
+2026-10-18 139 → 2026-10-28 139（+0）
 
 
 ---

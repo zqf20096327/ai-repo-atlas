@@ -1,6 +1,6 @@
 # BlazeStudio/HH-Auto-Response
 
-⭐ 47 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/BlazeStudio/HH-Auto-Response) · 个人维护
+⭐ 47 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/BlazeStudio/HH-Auto-Response) · 个人维护
 
 **面向求职者的 hh.ru 自动投递桌面工具：AI 写信、填问卷、处理聊天**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BlazeStudio/HH-Auto-Response 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-26", "2026-10-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-26 47 → 2026-10-27 47（+0）
+2026-10-26 47 → 2026-10-28 47（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NightMean/OlliteRT
 
-⭐ 579 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NightMean/OlliteRT) · 个人维护
+⭐ 582 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/NightMean/OlliteRT) · 个人维护
 
 **把 Android 手机变成 OpenAI 兼容的本地 LLM 推理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NightMean/OlliteRT 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 567 --> 580
-    line [568, 570, 574, 575, 577, 579]
+    title "NightMean/OlliteRT 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 567 --> 583
+    line [568, 570, 574, 575, 577, 579, 582]
 ```
 
-2026-10-18 568 → 2026-10-27 579（+11）
+2026-10-18 568 → 2026-10-28 582（+14）
 
 
 ---

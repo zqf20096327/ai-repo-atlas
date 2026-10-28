@@ -1,6 +1,6 @@
 # golemcloud/golem
 
-⭐ 1,521 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/golemcloud/golem) · [官网](https://learn.golem.cloud/) · 组织维护
+⭐ 1,522 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/golemcloud/golem) · [官网](https://learn.golem.cloud/) · 组织维护
 
 **分布式运行 WebAssembly 组件与构建 agent 的服务平台**
 
@@ -42,13 +42,13 @@ Golem 是一组在分布式云环境中运行 WebAssembly 组件的服务，支�
 
 ```mermaid
 xychart-beta
-    title "golemcloud/golem 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1512 --> 1522
-    line [1513, 1516, 1521, 1514, 1516, 1517, 1518, 1521]
+    title "golemcloud/golem 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1512 --> 1523
+    line [1513, 1516, 1521, 1514, 1516, 1517, 1518, 1521, 1522]
 ```
 
-2026-10-18 1,513 → 2026-10-27 1,521（+8）
+2026-10-18 1,513 → 2026-10-28 1,522（+9）
 
 
 ---

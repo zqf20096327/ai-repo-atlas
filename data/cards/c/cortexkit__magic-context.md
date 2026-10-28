@@ -1,6 +1,6 @@
 # cortexkit/magic-context
 
-⭐ 2,391 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
+⭐ 2,398 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
 
 **编码代理的自管理上下文与长期记忆插件**
 
@@ -44,13 +44,13 @@ CortexKit 系列插件之一，为 OpenCode、Pi、OMP 等编码代理提供后�
 
 ```mermaid
 xychart-beta
-    title "cortexkit/magic-context 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2347 --> 2395
-    line [2351, 2355, 2367, 2374, 2377, 2381, 2382, 2391]
+    title "cortexkit/magic-context 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2347 --> 2402
+    line [2351, 2355, 2367, 2374, 2377, 2381, 2382, 2391, 2398]
 ```
 
-2026-10-18 2,351 → 2026-10-27 2,391（+40）
+2026-10-18 2,351 → 2026-10-28 2,398（+47）
 
 
 ---

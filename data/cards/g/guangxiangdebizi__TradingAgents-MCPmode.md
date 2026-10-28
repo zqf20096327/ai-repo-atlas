@@ -1,6 +1,6 @@
 # guangxiangdebizi/TradingAgents-MCPmode
 
-⭐ 339 · Python · 推送 2025-11-22 · [GitHub](https://github.com/guangxiangdebizi/TradingAgents-MCPmode) · [官网](http://47.79.147.241:8501/) · 个人维护 · 中文 README
+⭐ 338 · Python · 推送 2025-11-22 · [GitHub](https://github.com/guangxiangdebizi/TradingAgents-MCPmode) · [官网](http://47.79.147.241:8501/) · 个人维护 · 中文 README
 
 **面向个人投资者的多智能体股票分析与决策系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guangxiangdebizi/TradingAgents-MCPmode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 337 --> 340
-    line [338, 339, 339]
+    line [338, 339, 338]
 ```
 
-2026-10-18 338 → 2026-10-27 339（+1）
+2026-10-18 338 → 2026-10-28 338（+0）
 
 
 ---

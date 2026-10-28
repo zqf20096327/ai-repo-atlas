@@ -1,6 +1,6 @@
 # joyehuang/Learn-Open-Harness
 
-⭐ 45 · TypeScript · 推送 2026-04-07 · [GitHub](https://github.com/joyehuang/Learn-Open-Harness) · [官网](https://learn-open-harness.vercel.app/) · 个人维护 · 中文 README
+⭐ 47 · TypeScript · 推送 2026-04-07 · [GitHub](https://github.com/joyehuang/Learn-Open-Harness) · [官网](https://learn-open-harness.vercel.app/) · 个人维护 · 中文 README
 
 **OpenHarness 的交互式教程：12 章讲解 AI Agent 架构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joyehuang/Learn-Open-Harness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 47]
 ```
 
-2026-10-18 43 → 2026-10-27 45（+2）
+2026-10-18 43 → 2026-10-28 47（+4）
 
 
 ---

@@ -45,12 +45,12 @@ Obsidian 插件，连接本地 LM Studio 服务端，提供 AI 聊天界面与�
 ```mermaid
 xychart-beta
     title "joepetrakovich/obsidian-lmstudio-connect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

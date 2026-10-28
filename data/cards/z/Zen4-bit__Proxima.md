@@ -1,6 +1,6 @@
 # Zen4-bit/Proxima
 
-⭐ 1,200 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Zen4-bit/Proxima) · [官网](https://www.proximamcp.in/) · 个人维护
+⭐ 1,201 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Zen4-bit/Proxima) · [官网](https://www.proximamcp.in/) · 个人维护
 
 **本地 MCP 网关：把浏览器登录的网页模型与本地模型接入编码工具**
 
@@ -44,13 +44,13 @@ Electron 桌面应用，作为本地开发网关在 127.0.0.1 聚合多种模型
 
 ```mermaid
 xychart-beta
-    title "Zen4-bit/Proxima 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 1196 --> 1201
-    line [1197, 1198, 1199, 1200]
+    title "Zen4-bit/Proxima 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1196 --> 1202
+    line [1197, 1198, 1199, 1200, 1201]
 ```
 
-2026-10-18 1,197 → 2026-10-27 1,200（+3）
+2026-10-18 1,197 → 2026-10-28 1,201（+4）
 
 
 ---

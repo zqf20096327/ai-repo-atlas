@@ -1,6 +1,6 @@
 # AI-WorkDeck/aiworkdeck
 
-⭐ 164 · JavaScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/AI-WorkDeck/aiworkdeck) · [官网](https://www.aiworkdeck.com) · 组织维护 · 中文 README
+⭐ 165 · JavaScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/AI-WorkDeck/aiworkdeck) · [官网](https://www.aiworkdeck.com) · 组织维护 · 中文 README
 
 **面向法律等专业文书工作的开源 AI 工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AI-WorkDeck/aiworkdeck 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 162 --> 168
-    line [166, 167, 163, 164, 164]
+    line [166, 167, 163, 164, 165]
 ```
 
-2026-10-18 166 → 2026-10-27 164（-2）
+2026-10-18 166 → 2026-10-28 165（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kenqia/bilibili-drum-score-to-pdf
 
-⭐ 23 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kenqia/bilibili-drum-score-to-pdf) · [官网](https://drum.kenqia.top) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kenqia/bilibili-drum-score-to-pdf) · [官网](https://drum.kenqia.top) · 个人维护 · 中文 README
 
 **把B站滚动鼓谱视频拼接为可打印A4 PDF的网页工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kenqia/bilibili-drum-score-to-pdf 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1 --> 25
-    line [3, 10, 12, 16, 20, 21, 23]
+    title "kenqia/bilibili-drum-score-to-pdf 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1 --> 27
+    line [3, 10, 12, 16, 20, 21, 23, 25]
 ```
 
-2026-10-19 3 → 2026-10-27 23（+20）
+2026-10-19 3 → 2026-10-28 25（+22）
 
 
 ---

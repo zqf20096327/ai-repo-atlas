@@ -1,6 +1,6 @@
 # MoFox-Studio/Neo-MoFox
 
-⭐ 118 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/MoFox-Studio/Neo-MoFox) · 组织维护 · 中文 README
+⭐ 120 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/MoFox-Studio/Neo-MoFox) · 组织维护 · 中文 README
 
 **面向开发者的 AI 聊天机器人框架，带记忆与插件生态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoFox-Studio/Neo-MoFox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 114 --> 119
-    line [115, 116, 117, 118]
+    title "MoFox-Studio/Neo-MoFox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 114 --> 121
+    line [115, 116, 117, 118, 120]
 ```
 
-2026-10-18 115 → 2026-10-27 118（+3）
+2026-10-18 115 → 2026-10-28 120（+5）
 
 
 ---

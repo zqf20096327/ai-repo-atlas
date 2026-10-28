@@ -1,6 +1,6 @@
 # sauravpanda/BrowserAI
 
-⭐ 1,450 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/sauravpanda/BrowserAI) · [官网](https://browserai.dev) · 个人维护
+⭐ 1,451 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/sauravpanda/BrowserAI) · [官网](https://browserai.dev) · 个人维护
 
 **在浏览器内本地运行 LLM、语音识别与 TTS 的 JS SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sauravpanda/BrowserAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1449 --> 1453
-    line [1450, 1451, 1452, 1450, 1450]
+    line [1450, 1451, 1452, 1450, 1451]
 ```
 
-2026-10-18 1,450 → 2026-10-27 1,450（+0）
+2026-10-18 1,450 → 2026-10-28 1,451（+1）
 
 
 ---

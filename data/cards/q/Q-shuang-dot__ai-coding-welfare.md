@@ -1,6 +1,6 @@
 # Q-shuang-dot/ai-coding-welfare
 
-⭐ 65 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Q-shuang-dot/ai-coding-welfare) · [官网](https://q-shuang-dot.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
+⭐ 65 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Q-shuang-dot/ai-coding-welfare) · [官网](https://q-shuang-dot.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
 
 **Claude Code/Codex 免费额度公益站与中转站导航清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Q-shuang-dot/ai-coding-welfare 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "Q-shuang-dot/ai-coding-welfare 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 55 --> 66
-    line [56, 61, 63, 65, 64, 65]
+    line [56, 61, 63, 65, 64, 65, 65]
 ```
 
-2026-10-18 56 → 2026-10-27 65（+9）
+2026-10-18 56 → 2026-10-28 65（+9）
 
 
 ---

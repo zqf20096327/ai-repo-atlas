@@ -1,6 +1,6 @@
 # edisonmbli/refactoring-ui-skill
 
-⭐ 295 · Python · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/edisonmbli/refactoring-ui-skill) · [官网](https://www.refactoringui.com) · 个人维护 · 中文 README
+⭐ 299 · Python · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/edisonmbli/refactoring-ui-skill) · [官网](https://www.refactoringui.com) · 个人维护 · 中文 README
 
 **给 AI 编码助手用的 Web UI 设计规则与走查 Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edisonmbli/refactoring-ui-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 0 --> 321
-    line [26, 104, 174, 227, 266, 281, 290, 295]
+    title "edisonmbli/refactoring-ui-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 0 --> 326
+    line [26, 104, 174, 227, 266, 281, 290, 295, 299]
 ```
 
-2026-10-18 26 → 2026-10-27 295（+269）
+2026-10-18 26 → 2026-10-28 299（+273）
 
 
 ---

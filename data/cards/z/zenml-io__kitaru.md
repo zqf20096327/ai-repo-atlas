@@ -1,6 +1,6 @@
 # zenml-io/kitaru
 
-⭐ 314 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/zenml-io/kitaru) · [官网](https://kitaru.ai) · 组织维护
+⭐ 315 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/zenml-io/kitaru) · [官网](https://kitaru.ai) · 组织维护
 
 **给 AI agent 开发者的回放式评测工具：录制生产运行并重放验证变更**
 
@@ -46,12 +46,12 @@ Kitaru 是面向 AI agent 团队的回放式评测系统：将 agent 运行录�
 ```mermaid
 xychart-beta
     title "zenml-io/kitaru 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 308 --> 315
-    line [309, 310, 311, 312, 314, 314]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 308 --> 316
+    line [309, 310, 311, 312, 314, 315]
 ```
 
-2026-10-18 309 → 2026-10-27 314（+5）
+2026-10-18 309 → 2026-10-28 315（+6）
 
 
 ---

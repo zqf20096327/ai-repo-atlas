@@ -1,6 +1,6 @@
 # microsoft/customer-chatbot-solution-accelerator
 
-⭐ 50 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/customer-chatbot-solution-accelerator) · 组织维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/customer-chatbot-solution-accelerator) · 组织维护
 
 **面向企业的客户服务聊天机器人部署方案（Azure AI Foundry）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/customer-chatbot-solution-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-28 50（+0）
 
 
 ---

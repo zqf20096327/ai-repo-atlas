@@ -1,6 +1,6 @@
 # NaufalRizqullah/opensource-clipping
 
-⭐ 196 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护 · 中文 README
+⭐ 197 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护 · 中文 README
 
 **把长视频/播客自动转为短视频高光片段的 AI 剪辑流水线**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NaufalRizqullah/opensource-clipping 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 167 --> 198
-    line [169, 170, 178, 179, 183, 185, 187, 196]
+    title "NaufalRizqullah/opensource-clipping 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 167 --> 199
+    line [169, 170, 178, 179, 183, 185, 187, 196, 197]
 ```
 
-2026-10-18 169 → 2026-10-27 196（+27）
+2026-10-18 169 → 2026-10-28 197（+28）
 
 
 ---

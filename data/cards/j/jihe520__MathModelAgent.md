@@ -1,6 +1,6 @@
 # jihe520/MathModelAgent
 
-⭐ 6,251 · TeX · 推送 2026-10-26 · [GitHub](https://github.com/jihe520/MathModelAgent) · [官网](https://mathmodel.top/home) · 个人维护 · 中文 README
+⭐ 6,254 · TeX · 推送 2026-10-26 · [GitHub](https://github.com/jihe520/MathModelAgent) · [官网](https://mathmodel.top/home) · 个人维护 · 中文 README
 
 **数学建模 Agent & SKILLS：自动建模并生成可提交论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jihe520/MathModelAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6217 --> 6254
-    line [6220, 6233, 6239, 6246, 6250, 6251]
+    title "jihe520/MathModelAgent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6217 --> 6257
+    line [6220, 6233, 6239, 6246, 6250, 6251, 6254]
 ```
 
-2026-10-18 6,220 → 2026-10-27 6,251（+31）
+2026-10-18 6,220 → 2026-10-28 6,254（+34）
 
 
 ---

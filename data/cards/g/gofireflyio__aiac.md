@@ -1,6 +1,6 @@
 # gofireflyio/aiac
 
-⭐ 3,787 · Go · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/gofireflyio/aiac) · 组织维护
+⭐ 3,786 · Go · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/gofireflyio/aiac) · 组织维护
 
 **用 LLM 生成 IaC 模板与代码的 Go 库和命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gofireflyio/aiac 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 3785 --> 3788
-    line [3786, 3787, 3787]
+    line [3786, 3787, 3786]
 ```
 
-2026-10-18 3,786 → 2026-10-27 3,787（+1）
+2026-10-18 3,786 → 2026-10-28 3,786（+0）
 
 
 ---

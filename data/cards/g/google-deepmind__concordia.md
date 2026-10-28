@@ -1,6 +1,6 @@
 # google-deepmind/concordia
 
-⭐ 1,829 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/concordia) · 组织维护
+⭐ 1,831 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/concordia) · 组织维护
 
 **生成式社会模拟库：用 LLM 驱动 agent 在环境中交互**
 
@@ -44,13 +44,13 @@ Google DeepMind 维护的 Python 库，用于构建与运行生成式 agent 社�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/concordia 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1789 --> 1832
-    line [1792, 1805, 1810, 1816, 1819, 1821, 1825, 1829]
+    title "google-deepmind/concordia 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1789 --> 1834
+    line [1792, 1805, 1810, 1816, 1819, 1821, 1825, 1829, 1831]
 ```
 
-2026-10-18 1,792 → 2026-10-27 1,829（+37）
+2026-10-18 1,792 → 2026-10-28 1,831（+39）
 
 
 ---

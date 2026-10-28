@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FireBird-Technologies/Auto-Analyst 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "FireBird-Technologies/Auto-Analyst 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 706 --> 709
-    line [708, 707]
+    line [708, 707, 707]
 ```
 
-2026-10-18 708 → 2026-10-27 707（-1）
+2026-10-18 708 → 2026-10-28 707（-1）
 
 
 ---

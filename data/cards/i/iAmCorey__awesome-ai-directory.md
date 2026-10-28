@@ -1,6 +1,6 @@
 # iAmCorey/awesome-ai-directory
 
-⭐ 251 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/iAmCorey/awesome-ai-directory) · [官网](https://bestdirectories.org) · 个人维护 · 中文 README
+⭐ 252 · MIT · 推送 2026-02-27 · [GitHub](https://github.com/iAmCorey/awesome-ai-directory) · [官网](https://bestdirectories.org) · 个人维护 · 中文 README
 
 **AI 工具导航站与学习资源聚合清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iAmCorey/awesome-ai-directory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 248 --> 252
-    line [249, 250, 251, 251]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 248 --> 253
+    line [249, 250, 251, 252]
 ```
 
-2026-10-18 249 → 2026-10-27 251（+2）
+2026-10-18 249 → 2026-10-28 252（+3）
 
 
 ---

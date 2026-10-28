@@ -1,6 +1,6 @@
 # lastreload/mnemonic-proxy
 
-⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lastreload/mnemonic-proxy) · [官网](https://lastreload.github.io/mnemonic-proxy/) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lastreload/mnemonic-proxy) · [官网](https://lastreload.github.io/mnemonic-proxy/) · 组织维护
 
 **代理层：管理编码 agent 上下文窗口，原文存档可召回**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lastreload/mnemonic-proxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10 --> 25
-    line [11, 12, 13, 14, 18, 24]
+    title "lastreload/mnemonic-proxy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10 --> 27
+    line [11, 12, 13, 14, 18, 24, 26]
 ```
 
-2026-10-18 11 → 2026-10-27 24（+13）
+2026-10-18 11 → 2026-10-28 26（+15）
 
 
 ---

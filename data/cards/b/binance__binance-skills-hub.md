@@ -1,6 +1,6 @@
 # binance/binance-skills-hub
 
-⭐ 1,089 · Python · 推送 2026-10-26 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
+⭐ 1,093 · Python · 推送 2026-10-26 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
 
 **Binance 维护的加密货币 AI agent 技能市场：让 agent 用自然语言操作链上与交易所**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "binance/binance-skills-hub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1063 --> 1091
-    line [1065, 1070, 1073, 1075, 1082, 1089]
+    title "binance/binance-skills-hub 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1063 --> 1095
+    line [1065, 1070, 1073, 1075, 1082, 1089, 1093]
 ```
 
-2026-10-18 1,065 → 2026-10-27 1,089（+24）
+2026-10-18 1,065 → 2026-10-28 1,093（+28）
 
 
 ---

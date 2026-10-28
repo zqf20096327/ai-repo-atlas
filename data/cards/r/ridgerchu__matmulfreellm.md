@@ -1,6 +1,6 @@
 # ridgerchu/matmulfreellm
 
-⭐ 3,097 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/ridgerchu/matmulfreellm) · 个人维护
+⭐ 3,099 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/ridgerchu/matmulfreellm) · 个人维护
 
 **给研究者的免矩阵乘语言模型实现库：基于 HuggingFace 兼容接口**
 
@@ -46,12 +46,12 @@ MatMul-Free LM 论文（Nature Computational Science）的官方实现，从 fla
 ```mermaid
 xychart-beta
     title "ridgerchu/matmulfreellm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3092 --> 3098
-    line [3094, 3093, 3095, 3096, 3097, 3097]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 3092 --> 3100
+    line [3094, 3093, 3095, 3096, 3097, 3099]
 ```
 
-2026-10-18 3,094 → 2026-10-27 3,097（+3）
+2026-10-18 3,094 → 2026-10-28 3,099（+5）
 
 
 ---

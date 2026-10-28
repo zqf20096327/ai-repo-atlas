@@ -1,6 +1,6 @@
 # caura-ai/caura-cross-fleet-gov
 
-⭐ 56 · PowerShell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/caura-ai/caura-cross-fleet-gov) · 组织维护
+⭐ 55 · PowerShell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/caura-ai/caura-cross-fleet-gov) · 组织维护
 
 **多智能体共享记忆的舰队级隔离治理演示（MemClaw+OpenClaw）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caura-ai/caura-cross-fleet-gov 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 55 --> 65
-    line [61, 63, 64, 56, 56]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 54 --> 65
+    line [61, 63, 64, 56, 55]
 ```
 
-2026-10-18 61 → 2026-10-27 56（-5）
+2026-10-18 61 → 2026-10-28 55（-6）
 
 
 ---

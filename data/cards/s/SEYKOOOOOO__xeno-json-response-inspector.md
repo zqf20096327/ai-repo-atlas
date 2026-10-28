@@ -1,6 +1,6 @@
 # SEYKOOOOOO/xeno-json-response-inspector
 
-⭐ 70 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/SEYKOOOOOO/xeno-json-response-inspector) · 个人维护
+⭐ 70 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/SEYKOOOOOO/xeno-json-response-inspector) · 个人维护
 
 **Chrome 扩展：捕获并检视浏览器 HTTP/JSON 流量用于调试与安全测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SEYKOOOOOO/xeno-json-response-inspector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-27 70（+0）
+2026-10-18 70 → 2026-10-28 70（+0）
 
 
 ---

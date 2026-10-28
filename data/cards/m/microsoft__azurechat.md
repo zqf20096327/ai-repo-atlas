@@ -1,6 +1,6 @@
 # microsoft/azurechat
 
-⭐ 1,389 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/azurechat) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **企业在其 Azure 订阅内部署私有 ChatGPT 式聊天服务的方案加速器**
 
@@ -11,7 +11,7 @@ Microsoft 维护的解决方案加速器：基于 Azure OpenAI Service，让组�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # alirezadir/AIMLInterviews
 
-⭐ 9,914 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/alirezadir/AIMLInterviews) · [官网](https://www.aimlinterviews.io/) · 个人维护
+⭐ 9,916 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/alirezadir/AIMLInterviews) · [官网](https://www.aimlinterviews.io/) · 个人维护
 
 **AI/ML 技术面试准备指南：题解、系统设计与 MCP 辅导服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alirezadir/AIMLInterviews 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9873 --> 9917
-    line [9876, 9884, 9892, 9899, 9902, 9907, 9911, 9914]
+    title "alirezadir/AIMLInterviews 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 9872 --> 9920
+    line [9876, 9884, 9892, 9899, 9902, 9907, 9911, 9914, 9916]
 ```
 
-2026-10-18 9,876 → 2026-10-27 9,914（+38）
+2026-10-18 9,876 → 2026-10-28 9,916（+40）
 
 
 ---

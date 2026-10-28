@@ -46,12 +46,12 @@ alphasecio 维护的 LlamaIndex 示例应用集合，含两个 Streamlit 应用�
 ```mermaid
 xychart-beta
     title "alphasecio/llama-index 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-27 54（+0）
+2026-10-18 54 → 2026-10-28 54（+0）
 
 
 ---

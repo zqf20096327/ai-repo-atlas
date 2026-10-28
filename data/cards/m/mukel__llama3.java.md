@@ -1,6 +1,6 @@
 # mukel/llama3.java
 
-⭐ 818 · Java · MIT · 推送 2026-04-24 · [GitHub](https://github.com/mukel/llama3.java) · 个人维护
+⭐ 817 · Java · MIT · 推送 2026-04-24 · [GitHub](https://github.com/mukel/llama3.java) · 个人维护
 
 **单文件纯 Java 实现的 Llama 3+ 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mukel/llama3.java 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 817 --> 821
-    line [820, 818, 818]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 816 --> 821
+    line [820, 818, 817]
 ```
 
-2026-10-18 820 → 2026-10-27 818（-2）
+2026-10-18 820 → 2026-10-28 817（-3）
 
 
 ---

@@ -46,12 +46,12 @@ local-first 的开源阅读工具：贴上 YouTube 影片或网页文章，整�
 ```mermaid
 xychart-beta
     title "chang416/youtube-card-reader 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 31（+0）
 
 
 ---

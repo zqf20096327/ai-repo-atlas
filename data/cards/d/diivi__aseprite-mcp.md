@@ -1,6 +1,6 @@
 # diivi/aseprite-mcp
 
-⭐ 827 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
+⭐ 831 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/diivi/aseprite-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 操控 Aseprite 绘制像素画的服务器**
 
@@ -44,13 +44,13 @@ Python 实现的 MCP 服务器，通过 Aseprite API 向 AI 助手暴露 123 个
 
 ```mermaid
 xychart-beta
-    title "diivi/aseprite-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 776 --> 831
-    line [780, 803, 813, 823, 827]
+    title "diivi/aseprite-mcp 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 775 --> 836
+    line [780, 803, 813, 823, 827, 831]
 ```
 
-2026-10-23 780 → 2026-10-27 827（+47）
+2026-10-23 780 → 2026-10-28 831（+51）
 
 
 ---

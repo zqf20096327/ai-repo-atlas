@@ -1,6 +1,6 @@
 # stardustai/dataset-viewer
 
-⭐ 1,102 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/stardustai/dataset-viewer) · [官网](https://stardustai.github.io/dataset-viewer) · 个人维护 · 中文 README
+⭐ 1,103 · TypeScript · 推送 2026-03-28 · [GitHub](https://github.com/stardustai/dataset-viewer) · [官网](https://stardustai.github.io/dataset-viewer) · 个人维护 · 中文 README
 
 **跨协议大数据集桌面查看器：流式打开 100GB+ 文件与归档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stardustai/dataset-viewer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1099 --> 1104
-    line [1100, 1101, 1103, 1102, 1102]
+    line [1100, 1101, 1103, 1102, 1103]
 ```
 
-2026-10-18 1,100 → 2026-10-27 1,102（+2）
+2026-10-18 1,100 → 2026-10-28 1,103（+3）
 
 
 ---

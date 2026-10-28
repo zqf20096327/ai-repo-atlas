@@ -1,6 +1,6 @@
 # fangwei123456/spikingjelly
 
-⭐ 2,175 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/fangwei123456/spikingjelly) · [官网](https://spikingjelly.readthedocs.io) · 组织维护 · 中文 README
+⭐ 2,176 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/fangwei123456/spikingjelly) · [官网](https://spikingjelly.readthedocs.io) · 组织维护 · 中文 README
 
 **基于 PyTorch 的脉冲神经网络（SNN）深度学习框架**
 
@@ -45,13 +45,13 @@ SpikingJelly 是 PyTorch 原生的脉冲神经网络框架，提供脉冲神经�
 
 ```mermaid
 xychart-beta
-    title "fangwei123456/spikingjelly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2164 --> 2176
-    line [2165, 2167, 2166, 2170, 2173, 2175]
+    title "fangwei123456/spikingjelly 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2164 --> 2177
+    line [2165, 2167, 2166, 2170, 2173, 2175, 2176]
 ```
 
-2026-10-18 2,165 → 2026-10-27 2,175（+10）
+2026-10-18 2,165 → 2026-10-28 2,176（+11）
 
 
 ---

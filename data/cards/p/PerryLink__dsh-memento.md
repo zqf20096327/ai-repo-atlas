@@ -1,6 +1,6 @@
 # PerryLink/dsh-memento
 
-⭐ 142 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-memento) · [官网](https://perrylink.github.io/plugins/dsh-memento/) · 个人维护 · 中文 README
+⭐ 143 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-memento) · [官网](https://perrylink.github.io/plugins/dsh-memento/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的跨会话记忆插件：审批门控+可审计的 ctx.memory 能力层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-memento 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 135 --> 143
-    line [136, 138, 140, 141, 142]
+    title "PerryLink/dsh-memento 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 135 --> 144
+    line [136, 138, 140, 141, 142, 143]
 ```
 
-2026-10-18 136 → 2026-10-27 142（+6）
+2026-10-18 136 → 2026-10-28 143（+7）
 
 
 ---

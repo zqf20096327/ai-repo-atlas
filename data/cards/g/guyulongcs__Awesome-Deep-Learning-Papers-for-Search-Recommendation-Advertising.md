@@ -1,6 +1,6 @@
 # guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising
 
-⭐ 2,624 · Python · 推送 2026-09-19 · [GitHub](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) · 个人维护
+⭐ 2,625 · Python · 推送 2026-09-19 · [GitHub](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) · 个人维护
 
 **工业搜索/推荐/广告深度学习论文集，按流水线阶段分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 2618 --> 2625
-    line [2619, 2622, 2623, 2624, 2624]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 2618 --> 2626
+    line [2619, 2622, 2623, 2624, 2625]
 ```
 
-2026-10-18 2,619 → 2026-10-27 2,624（+5）
+2026-10-18 2,619 → 2026-10-28 2,625（+6）
 
 
 ---

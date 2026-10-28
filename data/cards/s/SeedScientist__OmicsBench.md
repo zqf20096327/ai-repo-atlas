@@ -1,6 +1,6 @@
 # SeedScientist/OmicsBench
 
-⭐ 23 · Python · 推送 2026-09-24 · [GitHub](https://github.com/SeedScientist/OmicsBench) · 组织维护 · 中文 README
+⭐ 24 · Python · 推送 2026-09-24 · [GitHub](https://github.com/SeedScientist/OmicsBench) · 组织维护 · 中文 README
 
 **评估 LLM 生物推理的多组学序列基准（1,160 题专家验证）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SeedScientist/OmicsBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

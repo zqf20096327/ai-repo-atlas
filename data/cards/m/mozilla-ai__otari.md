@@ -1,6 +1,6 @@
 # mozilla-ai/otari
 
-⭐ 740 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mozilla-ai/otari) · [官网](https://otari.ai/docs/gateway) · 组织维护
+⭐ 743 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mozilla-ai/otari) · [官网](https://otari.ai/docs/gateway) · 组织维护
 
 **自托管的 OpenAI 兼容 LLM 网关：统一接入 40+ 供应商**
 
@@ -44,13 +44,13 @@ Mozilla AI 维护的自托管 LLM 网关：以一个 OpenAI/Anthropic 兼容端�
 
 ```mermaid
 xychart-beta
-    title "mozilla-ai/otari 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 601 --> 752
-    line [613, 695, 714, 726, 732, 735, 740]
+    title "mozilla-ai/otari 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 600 --> 756
+    line [613, 695, 714, 726, 732, 735, 740, 743]
 ```
 
-2026-10-18 613 → 2026-10-27 740（+127）
+2026-10-18 613 → 2026-10-28 743（+130）
 
 
 ---

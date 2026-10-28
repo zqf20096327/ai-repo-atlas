@@ -43,13 +43,13 @@ OWASP 孵化项目，目标是给出机器学习系统的十大安全风险概�
 
 ```mermaid
 xychart-beta
-    title "OWASP/www-project-machine-learning-security-top-10 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "OWASP/www-project-machine-learning-security-top-10 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 108 --> 112
-    line [109, 110, 111]
+    line [109, 110, 111, 111]
 ```
 
-2026-10-18 109 → 2026-10-27 111（+2）
+2026-10-18 109 → 2026-10-28 111（+2）
 
 
 ---

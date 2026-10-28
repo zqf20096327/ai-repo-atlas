@@ -46,12 +46,12 @@ Python 库 gladia-normalization，用于在计算 WER（词错误率）之前对
 ```mermaid
 xychart-beta
     title "gladiaio/normalization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

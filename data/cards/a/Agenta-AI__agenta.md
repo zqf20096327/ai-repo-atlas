@@ -1,6 +1,6 @@
 # Agenta-AI/agenta
 
-⭐ 4,862 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Agenta-AI/agenta) · [官网](http://www.agenta.ai) · 组织维护 · 中文 README
+⭐ 4,864 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Agenta-AI/agenta) · [官网](http://www.agenta.ai) · 组织维护 · 中文 README
 
 **面向团队的开源 agent 工作区：聊天式构建、共享与运行 AI 同事**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Agenta-AI/agenta 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4842 --> 4863
-    line [4843, 4844, 4849, 4850, 4856, 4857, 4860, 4862]
+    title "Agenta-AI/agenta 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4841 --> 4866
+    line [4843, 4844, 4849, 4850, 4856, 4857, 4860, 4862, 4864]
 ```
 
-2026-10-18 4,843 → 2026-10-27 4,862（+19）
+2026-10-18 4,843 → 2026-10-28 4,864（+21）
 
 
 ---

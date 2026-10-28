@@ -1,6 +1,6 @@
 # modelscope/modelscope
 
-⭐ 9,190 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
+⭐ 9,194 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
 
 **Model-as-a-Service 框架库：统一接口做模型推理/训练/评估**
 
@@ -45,13 +45,13 @@ ModelScope 官方开源 Python 库，围绕 Model-as-a-Service 理念，为 CV�
 
 ```mermaid
 xychart-beta
-    title "modelscope/modelscope 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9178 --> 9191
-    line [9181, 9179, 9181, 9185, 9187, 9189, 9190]
+    title "modelscope/modelscope 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 9178 --> 9195
+    line [9181, 9179, 9181, 9185, 9187, 9189, 9190, 9194]
 ```
 
-2026-10-18 9,181 → 2026-10-27 9,190（+9）
+2026-10-18 9,181 → 2026-10-28 9,194（+13）
 
 
 ---

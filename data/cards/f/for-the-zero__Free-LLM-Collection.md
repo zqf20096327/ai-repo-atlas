@@ -1,6 +1,6 @@
 # for-the-zero/Free-LLM-Collection
 
-⭐ 674 · 推送 2026-10-17 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · 个人维护 · 中文 README
+⭐ 676 · 推送 2026-10-17 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · 个人维护 · 中文 README
 
 **免费大模型 API 合集：汇集各平台 OpenAI 格式接口与精选模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "for-the-zero/Free-LLM-Collection 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 639 --> 677
-    line [642, 651, 656, 662, 667, 668, 671, 674]
+    title "for-the-zero/Free-LLM-Collection 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 639 --> 679
+    line [642, 651, 656, 662, 667, 668, 671, 674, 676]
 ```
 
-2026-10-18 642 → 2026-10-27 674（+32）
+2026-10-18 642 → 2026-10-28 676（+34）
 
 
 ---

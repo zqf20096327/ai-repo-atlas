@@ -1,6 +1,6 @@
 # claws-lab/XLingEval
 
-⭐ 363 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/claws-lab/XLingEval) · [官网](https://claws-lab.github.io/XLingEval/) · 组织维护
+⭐ 366 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/claws-lab/XLingEval) · [官网](https://claws-lab.github.io/XLingEval/) · 组织维护
 
 **医疗问答 LLM 跨语言评测框架与基准数据集（论文代码）**
 
@@ -45,13 +45,13 @@ Web Conference 2024 论文 "Better to Ask in English" 的代码与资源库：�
 
 ```mermaid
 xychart-beta
-    title "claws-lab/XLingEval 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 327 --> 366
-    line [330, 339, 344, 349, 351, 352, 358, 363]
+    title "claws-lab/XLingEval 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 327 --> 369
+    line [330, 339, 344, 349, 351, 352, 358, 363, 366]
 ```
 
-2026-10-18 330 → 2026-10-27 363（+33）
+2026-10-18 330 → 2026-10-28 366（+36）
 
 
 ---

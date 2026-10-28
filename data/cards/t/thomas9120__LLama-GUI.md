@@ -1,6 +1,6 @@
 # thomas9120/LLama-GUI
 
-⭐ 126 · JavaScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/thomas9120/LLama-GUI) · 个人维护
+⭐ 128 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/thomas9120/LLama-GUI) · 个人维护
 
 **给本地 llama.cpp 用户的浏览器图形启动器与控制面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thomas9120/LLama-GUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 120 --> 127
-    line [121, 123, 126]
+    title "thomas9120/LLama-GUI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 120 --> 129
+    line [121, 123, 126, 128]
 ```
 
-2026-10-18 121 → 2026-10-27 126（+5）
+2026-10-18 121 → 2026-10-28 128（+7）
 
 
 ---

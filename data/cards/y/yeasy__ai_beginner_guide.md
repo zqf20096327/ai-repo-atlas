@@ -1,6 +1,6 @@
 # yeasy/ai_beginner_guide
 
-⭐ 223 · Python · 推送 2026-10-23 · [GitHub](https://github.com/yeasy/ai_beginner_guide) · [官网](https://yeasy.gitbook.io/ai_beginner_guide/) · 个人维护 · 中文 README
+⭐ 224 · Python · 推送 2026-10-23 · [GitHub](https://github.com/yeasy/ai_beginner_guide) · [官网](https://yeasy.gitbook.io/ai_beginner_guide/) · 个人维护 · 中文 README
 
 **面向零基础读者的 AI 入门书籍（16 章，含实验与学习路线）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeasy/ai_beginner_guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 215 --> 224
-    line [216, 217, 219, 221, 223]
+    title "yeasy/ai_beginner_guide 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 215 --> 225
+    line [216, 217, 219, 221, 223, 224]
 ```
 
-2026-10-18 216 → 2026-10-27 223（+7）
+2026-10-18 216 → 2026-10-28 224（+8）
 
 
 ---

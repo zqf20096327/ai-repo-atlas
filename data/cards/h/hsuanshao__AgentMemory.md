@@ -1,6 +1,6 @@
 # hsuanshao/AgentMemory
 
-⭐ 38 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hsuanshao/AgentMemory) · 个人维护 · 中文 README
+⭐ 39 · Rust · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hsuanshao/AgentMemory) · 个人维护 · 中文 README
 
 **自托管的团队级 AI agent 长期记忆服务**
 
@@ -47,12 +47,12 @@ Rust 编写的自托管记忆服务：为 Claude Code、Codex、Antigravity、He
 ```mermaid
 xychart-beta
     title "hsuanshao/AgentMemory 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3 --> 41
-    line [6, 22, 26, 36, 37, 38, 38]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 3 --> 42
+    line [6, 22, 26, 36, 37, 38, 39]
 ```
 
-2026-10-19 6 → 2026-10-27 38（+32）
+2026-10-19 6 → 2026-10-28 39（+33）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/physics-IQ-benchmark
 
-⭐ 383 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/physics-IQ-benchmark) · [官网](https://physics-iq.github.io/) · 组织维护
+⭐ 384 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/physics-IQ-benchmark) · [官网](https://physics-iq.github.io/) · 组织维护
 
 **评测生成式视频模型物理理解能力的基准数据集与工作流**
 
@@ -45,13 +45,13 @@ Google DeepMind 维护的物理理解评测基准：Physics-IQ 数据集包含�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/physics-IQ-benchmark 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 374 --> 384
-    line [375, 378, 379, 380, 381, 382, 383]
+    title "google-deepmind/physics-IQ-benchmark 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 374 --> 385
+    line [375, 378, 379, 380, 381, 382, 383, 384]
 ```
 
-2026-10-18 375 → 2026-10-27 383（+8）
+2026-10-18 375 → 2026-10-28 384（+9）
 
 
 ---

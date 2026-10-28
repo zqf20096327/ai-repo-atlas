@@ -1,6 +1,6 @@
 # VkRainB/ccMesh
 
-⭐ 126 · Rust · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/VkRainB/ccMesh) · [官网](https://vkrainb.github.io/ccMesh/) · 个人维护 · 中文 README
+⭐ 126 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/VkRainB/ccMesh) · [官网](https://vkrainb.github.io/ccMesh/) · 个人维护 · 中文 README
 
 **桌面端 AI 代理网关：统一接入 Claude/OpenAI/Codex 上游**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VkRainB/ccMesh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 125 --> 128
     line [127, 126, 126]
 ```
 
-2026-10-18 127 → 2026-10-27 126（-1）
+2026-10-18 127 → 2026-10-28 126（-1）
 
 
 ---

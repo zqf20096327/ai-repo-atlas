@@ -44,13 +44,13 @@ Chatway 官方的托管远程 MCP 服务器：让 ChatGPT、Claude、Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "Chatway-app/chatway-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "Chatway-app/chatway-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 8 --> 36
-    line [10, 33, 34]
+    line [10, 33, 34, 34]
 ```
 
-2026-10-18 10 → 2026-10-27 34（+24）
+2026-10-18 10 → 2026-10-28 34（+24）
 
 
 ---

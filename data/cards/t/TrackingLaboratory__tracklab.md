@@ -1,6 +1,6 @@
 # TrackingLaboratory/tracklab
 
-⭐ 254 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/TrackingLaboratory/tracklab) · [官网](https://trackinglaboratory.github.io/tracklab/) · 组织维护
+⭐ 255 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/TrackingLaboratory/tracklab) · [官网](https://trackinglaboratory.github.io/tracklab/) · 组织维护
 
 **多目标（bbox/姿态）跟踪研究框架，模块化检测-ReID-跟踪流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TrackingLaboratory/tracklab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 251 --> 255
-    line [252, 253, 254, 254]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 251 --> 256
+    line [252, 253, 254, 255]
 ```
 
-2026-10-18 252 → 2026-10-27 254（+2）
+2026-10-18 252 → 2026-10-28 255（+3）
 
 
 ---

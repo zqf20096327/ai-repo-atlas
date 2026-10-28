@@ -1,6 +1,6 @@
 # HanyuanWang/LiveStream-Agent-Studio
 
-⭐ 1,614 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/HanyuanWang/LiveStream-Agent-Studio) · 个人维护 · 中文 README
+⭐ 1,651 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/HanyuanWang/LiveStream-Agent-Studio) · 个人维护 · 中文 README
 
 **面向抖音直播电商团队的 Windows 本地 AI Agent 工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HanyuanWang/LiveStream-Agent-Studio 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1379 --> 1635
-    line [1400, 1467, 1515, 1481, 1507, 1550, 1573, 1614]
+    title "HanyuanWang/LiveStream-Agent-Studio 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1375 --> 1676
+    line [1400, 1467, 1515, 1481, 1507, 1550, 1573, 1614, 1651]
 ```
 
-2026-10-18 1,400 → 2026-10-27 1,614（+214）
+2026-10-18 1,400 → 2026-10-28 1,651（+251）
 
 
 ---

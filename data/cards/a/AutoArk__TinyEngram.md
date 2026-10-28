@@ -1,6 +1,6 @@
 # AutoArk/TinyEngram
 
-⭐ 1,351 · Python · 推送 2026-05-21 · [GitHub](https://github.com/AutoArk/TinyEngram) · 组织维护
+⭐ 1,350 · Python · 推送 2026-05-21 · [GitHub](https://github.com/AutoArk/TinyEngram) · 组织维护
 
 **在 Qwen 与 Stable Diffusion 上复现/扩展 Engram 记忆注入的研究代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AutoArk/TinyEngram 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 1348 --> 1379
-    line [1376, 1377, 1350, 1351, 1351]
+    line [1376, 1377, 1350, 1351, 1350]
 ```
 
-2026-10-18 1,376 → 2026-10-27 1,351（-25）
+2026-10-18 1,376 → 2026-10-28 1,350（-26）
 
 
 ---

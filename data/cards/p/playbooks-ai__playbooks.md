@@ -1,6 +1,6 @@
 # playbooks-ai/playbooks
 
-⭐ 93 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/playbooks-ai/playbooks) · [官网](https://runplaybooks.ai) · 组织维护
+⭐ 94 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/playbooks-ai/playbooks) · [官网](https://runplaybooks.ai) · 组织维护
 
 **用英文自然语言编写 AI agent 程序的编程系统与运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "playbooks-ai/playbooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 91 --> 95
+    line [92, 93, 94]
 ```
 
-2026-10-18 92 → 2026-10-27 93（+1）
+2026-10-18 92 → 2026-10-28 94（+2）
 
 
 ---

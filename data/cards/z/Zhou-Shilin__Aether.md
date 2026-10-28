@@ -1,6 +1,6 @@
 # Zhou-Shilin/Aether
 
-⭐ 745 · Kotlin · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Zhou-Shilin/Aether) · [官网](https://aether.baimoqilin.com) · 个人维护 · 中文 README
+⭐ 747 · Kotlin · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/Zhou-Shilin/Aether) · [官网](https://aether.baimoqilin.com) · 个人维护 · 中文 README
 
 **面向 Android/iOS/macOS 的本地通用 AI Agent 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zhou-Shilin/Aether 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 732 --> 746
-    line [733, 737, 745, 735, 739, 740, 743, 745]
+    title "Zhou-Shilin/Aether 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 732 --> 748
+    line [733, 737, 745, 735, 739, 740, 743, 745, 747]
 ```
 
-2026-10-18 733 → 2026-10-27 745（+12）
+2026-10-18 733 → 2026-10-28 747（+14）
 
 
 ---

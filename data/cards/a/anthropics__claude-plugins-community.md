@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-community
 
-⭐ 4,771 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/anthropics/claude-plugins-community) · 组织维护
+⭐ 4,785 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/claude-plugins-community) · 组织维护
 
 **Claude Cowork 与 Claude Code 的社区插件市场镜像清单**
 
@@ -44,13 +44,13 @@ Anthropic 组织下的社区插件市场只读镜像：以 .claude-plugin/market
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-plugins-community 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4669 --> 4780
-    line [4678, 4695, 4714, 4727, 4754, 4760, 4767, 4771]
+    title "anthropics/claude-plugins-community 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4668 --> 4795
+    line [4678, 4695, 4714, 4727, 4754, 4760, 4767, 4771, 4785]
 ```
 
-2026-10-18 4,678 → 2026-10-27 4,771（+93）
+2026-10-18 4,678 → 2026-10-28 4,785（+107）
 
 
 ---

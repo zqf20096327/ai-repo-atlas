@@ -1,6 +1,6 @@
 # yoloyash/overtchat
 
-⭐ 139 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/yoloyash/overtchat) · [官网](https://overtchat.com) · 个人维护
+⭐ 141 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yoloyash/overtchat) · [官网](https://overtchat.com) · 个人维护
 
 **自托管的本地 AI 聊天界面，支持网页/移动端**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoloyash/overtchat 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 120 --> 140
-    line [121, 122, 127, 128, 131, 135, 137, 139]
+    title "yoloyash/overtchat 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 119 --> 143
+    line [121, 122, 127, 128, 131, 135, 137, 139, 141]
 ```
 
-2026-10-18 121 → 2026-10-27 139（+18）
+2026-10-18 121 → 2026-10-28 141（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # DasterProkio/awesome-ai-companion
 
-⭐ 1,078 · HTML · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
+⭐ 1,088 · HTML · CC-BY-4.0 · 推送 2026-10-27 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
 
 **长期 AI 伴侣开源项目清单：客户端、虚拟手机、社区与基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DasterProkio/awesome-ai-companion 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 988 --> 1086
-    line [996, 1021, 1039, 1045, 1049, 1057, 1068, 1078]
+    title "DasterProkio/awesome-ai-companion 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 987 --> 1097
+    line [996, 1021, 1039, 1045, 1049, 1057, 1068, 1078, 1088]
 ```
 
-2026-10-18 996 → 2026-10-27 1,078（+82）
+2026-10-18 996 → 2026-10-28 1,088（+92）
 
 
 ---

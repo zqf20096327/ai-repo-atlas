@@ -1,6 +1,6 @@
 # FareedKhan-dev/scalable-rag-pipeline
 
-⭐ 166 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/FareedKhan-dev/scalable-rag-pipeline) · [官网](https://medium.com/@fareedkhandev/1168dcd36260) · 个人维护
+⭐ 167 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/FareedKhan-dev/scalable-rag-pipeline) · [官网](https://medium.com/@fareedkhandev/1168dcd36260) · 个人维护
 
 **AWS EKS 上的生产级 Agentic RAG 平台：Terraform+Ray+混合检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/scalable-rag-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 165 --> 167
-    line [166, 166]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 165 --> 168
+    line [166, 167]
 ```
 
-2026-10-18 166 → 2026-10-27 166（+0）
+2026-10-18 166 → 2026-10-28 167（+1）
 
 
 ---

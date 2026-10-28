@@ -46,12 +46,12 @@ SillyTavern 第三方扩展，用 LLM 对角色卡执行 Score→Rewrite→Analy
 ```mermaid
 xychart-beta
     title "Inktomi93/SillyTavern-CharacterTools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

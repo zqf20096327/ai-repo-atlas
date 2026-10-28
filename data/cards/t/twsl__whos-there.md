@@ -44,12 +44,12 @@ knockknock 的后继项目，以单个回调（NotificationCallback）集成到 
 ```mermaid
 xychart-beta
     title "twsl/whos-there 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-27 78（+0）
+2026-10-18 78 → 2026-10-28 78（+0）
 
 
 ---

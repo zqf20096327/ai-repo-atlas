@@ -1,6 +1,6 @@
 # NVlabs/ToolOrchestra
 
-⭐ 762 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/NVlabs/ToolOrchestra) · [官网](https://research.nvidia.com/labs/lpr/ToolOrchestra/) · 组织维护
+⭐ 764 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/NVlabs/ToolOrchestra) · [官网](https://research.nvidia.com/labs/lpr/ToolOrchestra/) · 组织维护
 
 **训练小模型编排工具与专家模型的端到端 RL 框架**
 
@@ -46,12 +46,12 @@ NVIDIA 与港大联合发布的方法与训练框架：训练 8B 参数的 Orche
 ```mermaid
 xychart-beta
     title "NVlabs/ToolOrchestra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 760 --> 763
-    line [761, 762, 762]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 760 --> 765
+    line [761, 762, 764]
 ```
 
-2026-10-18 761 → 2026-10-27 762（+1）
+2026-10-18 761 → 2026-10-28 764（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # activepieces/activepieces
 
-⭐ 25,235 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
+⭐ 25,244 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/activepieces/activepieces) · [官网](https://www.activepieces.com) · 组织维护
 
 **开源 AI 工作流自动化平台：为 AI 代理提供 MCP 工具集**
 
@@ -53,13 +53,13 @@ Activepieces 是用 TypeScript 编写的可扩展自动化平台，通过类型�
 
 ```mermaid
 xychart-beta
-    title "activepieces/activepieces 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 25068 --> 25250
-    line [25083, 25119, 25149, 25173, 25187, 25202, 25219, 25235]
+    title "activepieces/activepieces 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 25067 --> 25260
+    line [25083, 25119, 25149, 25173, 25187, 25202, 25219, 25235, 25244]
 ```
 
-2026-10-18 25,083 → 2026-10-27 25,235（+152）
+2026-10-18 25,083 → 2026-10-28 25,244（+161）
 
 
 ---

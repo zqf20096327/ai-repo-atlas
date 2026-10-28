@@ -1,6 +1,6 @@
 # EverMind-AI/Raven
 
-⭐ 5,849 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/EverMind-AI/Raven) · [官网](https://raven.evermind.ai) · 组织维护 · 中文 README
+⭐ 5,871 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/EverMind-AI/Raven) · [官网](https://raven.evermind.ai) · 组织维护 · 中文 README
 
 **面向递归自我改进的多智能体编排宿主（Host Agent）**
 
@@ -44,13 +44,13 @@ Raven 是由 EverMind-AI 团队维护的多智能体编排系统：生成 DAG �
 
 ```mermaid
 xychart-beta
-    title "EverMind-AI/Raven 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 5460 --> 5884
-    line [5495, 5518, 5539, 5616, 5744, 5777, 5815, 5849]
+    title "EverMind-AI/Raven 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 5458 --> 5908
+    line [5495, 5518, 5539, 5616, 5744, 5777, 5815, 5849, 5871]
 ```
 
-2026-10-18 5,495 → 2026-10-27 5,849（+354）
+2026-10-18 5,495 → 2026-10-28 5,871（+376）
 
 
 ---

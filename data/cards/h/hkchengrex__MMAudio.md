@@ -1,6 +1,6 @@
 # hkchengrex/MMAudio
 
-⭐ 2,296 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hkchengrex/MMAudio) · [官网](https://hkchengrex.com/MMAudio/) · 组织维护
+⭐ 2,299 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/hkchengrex/MMAudio) · [官网](https://hkchengrex.com/MMAudio/) · 组织维护
 
 **给开发者的视频/文本生成同步音频的模型（CVPR 2025）**
 
@@ -44,13 +44,13 @@ MMAudio 是一个视频转音频与文本转音频合成模型（CVPR 2025），
 
 ```mermaid
 xychart-beta
-    title "hkchengrex/MMAudio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2286 --> 2297
-    line [2287, 2289, 2291, 2292, 2294, 2296]
+    title "hkchengrex/MMAudio 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2286 --> 2300
+    line [2287, 2289, 2291, 2292, 2294, 2296, 2299]
 ```
 
-2026-10-18 2,287 → 2026-10-27 2,296（+9）
+2026-10-18 2,287 → 2026-10-28 2,299（+12）
 
 
 ---

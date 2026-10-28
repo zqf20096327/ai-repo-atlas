@@ -1,6 +1,6 @@
 # matyushkin/ds
 
-⭐ 232 · Jupyter Notebook · MIT · 推送 2026-03-02 · [GitHub](https://github.com/matyushkin/ds) · [官网](https://matyushkin.github.io/) · 个人维护
+⭐ 233 · Jupyter Notebook · MIT · 推送 2026-03-02 · [GitHub](https://github.com/matyushkin/ds) · [官网](https://matyushkin.github.io/) · 个人维护
 
 **俄语免费 Data Science 学习资源结构化清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "matyushkin/ds 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 227 --> 233
-    line [228, 229, 230, 231, 232, 232]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 227 --> 234
+    line [228, 229, 230, 231, 232, 233]
 ```
 
-2026-10-18 228 → 2026-10-27 232（+4）
+2026-10-18 228 → 2026-10-28 233（+5）
 
 
 ---

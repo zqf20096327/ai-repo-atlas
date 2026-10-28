@@ -1,6 +1,6 @@
 # ciddwd/overlay-translator
 
-⭐ 1,119 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ciddwd/overlay-translator) · 个人维护 · 中文 README
+⭐ 1,129 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/ciddwd/overlay-translator) · 个人维护 · 中文 README
 
 **无需 ROOT 的 Android 屏幕实时翻译工具，覆盖游戏/漫画/视觉小说**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ciddwd/overlay-translator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1020 --> 1128
-    line [1029, 1061, 1087, 1090, 1094, 1106, 1119]
+    title "ciddwd/overlay-translator 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1019 --> 1139
+    line [1029, 1061, 1087, 1090, 1094, 1106, 1119, 1129]
 ```
 
-2026-10-18 1,029 → 2026-10-27 1,119（+90）
+2026-10-18 1,029 → 2026-10-28 1,129（+100）
 
 
 ---

@@ -1,6 +1,6 @@
 # webbrain-one/webbrain
 
-⭐ 1,559 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
+⭐ 1,568 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
 
 **浏览器侧边栏 AI agent 扩展：对话操作网页与多步任务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "webbrain-one/webbrain 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1464 --> 1567
-    line [1472, 1501, 1513, 1522, 1527, 1531, 1538, 1559]
+    title "webbrain-one/webbrain 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1463 --> 1577
+    line [1472, 1501, 1513, 1522, 1527, 1531, 1538, 1559, 1568]
 ```
 
-2026-10-18 1,472 → 2026-10-27 1,559（+87）
+2026-10-18 1,472 → 2026-10-28 1,568（+96）
 
 
 ---

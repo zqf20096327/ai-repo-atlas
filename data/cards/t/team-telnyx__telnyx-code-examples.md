@@ -1,6 +1,6 @@
 # team-telnyx/telnyx-code-examples
 
-⭐ 165 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
+⭐ 165 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
 
 **Telnyx 通信平台的代码示例集：Voice AI、呼叫、SMS 等**
 
@@ -45,13 +45,13 @@ Telnyx 官方维护的生产级代码示例仓库，每个示例为独立项目�
 
 ```mermaid
 xychart-beta
-    title "team-telnyx/telnyx-code-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "team-telnyx/telnyx-code-examples 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 161 --> 166
-    line [162, 163, 164, 165]
+    line [162, 163, 164, 165, 165]
 ```
 
-2026-10-18 162 → 2026-10-27 165（+3）
+2026-10-18 162 → 2026-10-28 165（+3）
 
 
 ---

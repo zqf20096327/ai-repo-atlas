@@ -44,13 +44,13 @@ Qiskit 社区生态下的量子机器学习 Python 库，由 IBM 与英国 Hartr
 
 ```mermaid
 xychart-beta
-    title "qiskit-community/qiskit-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "qiskit-community/qiskit-machine-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1109 --> 1112
-    line [1110, 1111]
+    line [1110, 1111, 1111]
 ```
 
-2026-10-18 1,110 → 2026-10-27 1,111（+1）
+2026-10-18 1,110 → 2026-10-28 1,111（+1）
 
 
 ---

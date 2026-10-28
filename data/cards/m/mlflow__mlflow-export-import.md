@@ -1,6 +1,6 @@
 # mlflow/mlflow-export-import
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/mlflow/mlflow-export-import) · 组织维护
+⭐ 240 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/mlflow/mlflow-export-import) · 组织维护
 
 **MLflow 对象跨服务器迁移工具：导出导入 runs/实验/模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mlflow/mlflow-export-import 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 238 --> 240
-    line [239, 239]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 238 --> 241
+    line [239, 240]
 ```
 
-2026-10-18 239 → 2026-10-27 239（+0）
+2026-10-18 239 → 2026-10-28 240（+1）
 
 
 ---

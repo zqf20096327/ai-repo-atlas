@@ -1,6 +1,6 @@
 # Protocol-Lattice/harness-router
 
-⭐ 23 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Protocol-Lattice/harness-router) · [官网](https://harness-router.vercel.app) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Protocol-Lattice/harness-router) · [官网](https://harness-router.vercel.app) · 组织维护
 
 **嵌入 agent harness 的工具选择决策层：为下一步调用挑选工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Protocol-Lattice/harness-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 24（+1）
 
 
 ---

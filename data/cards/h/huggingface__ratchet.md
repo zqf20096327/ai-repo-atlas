@@ -1,6 +1,6 @@
 # huggingface/ratchet
 
-⭐ 772 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/ratchet) · 组织维护
+⭐ 773 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/ratchet) · 组织维护
 
 **浏览器/原生跨平台 ML 推理工具包，GPU 加速**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/ratchet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 771 --> 773
-    line [772, 772]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 771 --> 774
+    line [772, 773]
 ```
 
-2026-10-18 772 → 2026-10-27 772（+0）
+2026-10-18 772 → 2026-10-28 773（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiniMax-AI/awesome-minimax-h3-integration
 
-⭐ 501 · 推送 2026-10-25 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-h3-integration) · 组织维护 · 中文 README
+⭐ 522 · 推送 2026-10-25 · [GitHub](https://github.com/MiniMax-AI/awesome-minimax-h3-integration) · 组织维护 · 中文 README
 
 **MiniMax H3 视频生成模型的社区集成与工具索引清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/awesome-minimax-h3-integration 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 439 --> 506
-    line [444, 448, 450, 452, 455, 457, 460, 501]
+    title "MiniMax-AI/awesome-minimax-h3-integration 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 437 --> 529
+    line [444, 448, 450, 452, 455, 457, 460, 501, 522]
 ```
 
-2026-10-18 444 → 2026-10-27 501（+57）
+2026-10-18 444 → 2026-10-28 522（+78）
 
 
 ---

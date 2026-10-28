@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Coder
 
-⭐ 24,322 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
+⭐ 24,328 · Python · MIT · 推送 2025-11-11 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Coder) · [官网](https://chat.deepseek.com/) · 组织维护 · 中文 README
 
 **面向开发者的开源代码大模型系列（1B-33B）**
 
@@ -52,13 +52,13 @@ DeepSeek Coder 是一系列从零训练的代码语言模型，训练语料 2T t
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepSeek-Coder 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 24289 --> 24325
-    line [24292, 24297, 24302, 24307, 24309, 24310, 24311, 24322]
+    title "deepseek-ai/DeepSeek-Coder 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 24289 --> 24331
+    line [24292, 24297, 24302, 24307, 24309, 24310, 24311, 24322, 24328]
 ```
 
-2026-10-18 24,292 → 2026-10-27 24,322（+30）
+2026-10-18 24,292 → 2026-10-28 24,328（+36）
 
 
 ---

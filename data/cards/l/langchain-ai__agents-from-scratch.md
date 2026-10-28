@@ -1,6 +1,6 @@
 # langchain-ai/agents-from-scratch
 
-⭐ 2,419 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/agents-from-scratch) · [官网](https://academy.langchain.com/courses/ambient-agents) · 组织维护
+⭐ 2,418 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/agents-from-scratch) · [官网](https://academy.langchain.com/courses/ambient-agents) · 组织维护
 
 **从零构建邮件助手 agent 的教程仓库：评测、人机协作与记忆**
 
@@ -44,13 +44,13 @@ LangGraph 官方团队的实践教程：分 4 个 notebook 逐步构建一个能
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/agents-from-scratch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "langchain-ai/agents-from-scratch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2397 --> 2421
-    line [2399, 2403, 2408, 2413, 2416, 2417, 2419]
+    line [2399, 2403, 2408, 2413, 2416, 2417, 2419, 2418]
 ```
 
-2026-10-18 2,399 → 2026-10-27 2,419（+20）
+2026-10-18 2,399 → 2026-10-28 2,418（+19）
 
 
 ---

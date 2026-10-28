@@ -1,6 +1,6 @@
 # e-candeloro/Driver-State-Detection
 
-⭐ 158 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/e-candeloro/Driver-State-Detection) · 组织维护
+⭐ 159 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/e-candeloro/Driver-State-Detection) · 组织维护
 
 **基于摄像头的驾驶员注意力状态实时监测系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "e-candeloro/Driver-State-Detection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 155 --> 159
-    line [156, 157, 158, 158]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 155 --> 160
+    line [156, 157, 158, 159]
 ```
 
-2026-10-18 156 → 2026-10-27 158（+2）
+2026-10-18 156 → 2026-10-28 159（+3）
 
 
 ---

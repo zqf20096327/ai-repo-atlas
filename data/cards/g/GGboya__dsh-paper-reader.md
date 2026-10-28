@@ -1,6 +1,6 @@
 # GGboya/dsh-paper-reader
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GGboya/dsh-paper-reader) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/GGboya/dsh-paper-reader) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：论文伴读工作台，PDF 阅读 + 带页码 AI 问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GGboya/dsh-paper-reader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 21 --> 30
-    line [22, 24, 27, 29, 29]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 21 --> 31
+    line [22, 24, 27, 29, 30]
 ```
 
-2026-10-18 22 → 2026-10-27 29（+7）
+2026-10-18 22 → 2026-10-28 30（+8）
 
 
 ---

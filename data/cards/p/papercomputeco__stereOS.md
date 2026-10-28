@@ -1,6 +1,6 @@
 # papercomputeco/stereOS
 
-⭐ 498 · Nix · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/papercomputeco/stereOS) · [官网](https://stereos.ai) · 组织维护
+⭐ 499 · Nix · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/papercomputeco/stereOS) · [官网](https://stereos.ai) · 组织维护
 
 **为 AI agent 定制加固的 Linux 操作系统（NixOS 构建）**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "papercomputeco/stereOS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 496 --> 499
-    line [497, 498, 498]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 496 --> 500
+    line [497, 498, 499]
 ```
 
-2026-10-18 497 → 2026-10-27 498（+1）
+2026-10-18 497 → 2026-10-28 499（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krasserm/bayesian-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "krasserm/bayesian-machine-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1918 --> 1921
-    line [1919, 1920]
+    line [1919, 1920, 1920]
 ```
 
-2026-10-18 1,919 → 2026-10-27 1,920（+1）
+2026-10-18 1,919 → 2026-10-28 1,920（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # smile-struggler/kaomian
 
-⭐ 96 · 推送 2026-04-19 · [GitHub](https://github.com/smile-struggler/kaomian) · 个人维护 · 中文 README
+⭐ 95 · 推送 2026-04-19 · [GitHub](https://github.com/smile-struggler/kaomian) · 个人维护 · 中文 README
 
 **从真实面经帖聚合出的 AI Agent 面试高频题库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smile-struggler/kaomian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 94 --> 97
+    line [96, 95]
 ```
 
-2026-10-18 96 → 2026-10-27 96（+0）
+2026-10-18 96 → 2026-10-28 95（-1）
 
 
 ---

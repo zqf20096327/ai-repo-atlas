@@ -1,6 +1,6 @@
 # TGYD-helige/pi
 
-⭐ 84 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/TGYD-helige/pi) · 组织维护 · 中文 README
+⭐ 85 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TGYD-helige/pi) · 组织维护 · 中文 README
 
 **Pi AI-agent 运行时的插件化 TypeScript 扩展包集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TGYD-helige/pi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 81 --> 86
-    line [82, 83, 84, 85, 84, 84]
+    line [82, 83, 84, 85, 84, 85]
 ```
 
-2026-10-18 82 → 2026-10-27 84（+2）
+2026-10-18 82 → 2026-10-28 85（+3）
 
 
 ---

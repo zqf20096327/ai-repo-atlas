@@ -1,6 +1,6 @@
 # pavlenkosa/wayvoice
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/pavlenkosa/wayvoice) · 个人维护 · 中文 README
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/pavlenkosa/wayvoice) · 个人维护 · 中文 README
 
 **Linux/Wayland 离线语音输入工具：按键说话即出文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pavlenkosa/wayvoice 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    title "pavlenkosa/wayvoice 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 29 --> 85
-    line [81, 80, 34, 33]
+    line [81, 80, 34, 33, 34]
 ```
 
-2026-10-18 81 → 2026-10-27 33（-48）
+2026-10-18 81 → 2026-10-28 34（-47）
 
 
 ---

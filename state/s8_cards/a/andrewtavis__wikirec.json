@@ -1,1 +1,75 @@
-{"fn": "andrewtavis/wikirec", "sha": "c9f64361f170", "source": "readme", "identity": {"one_liner": "基于维基百科数据的内容推荐引擎框架", "review": "wikirec 是一个 Python 推荐框架：从任意语言的维基百科 dump 下载并解析指定 infobox 类型的条目（书籍、电影、音乐等），经多语言清洗流程生成语料，再基于无监督 NLP 模型（BERT/sentence-transformers、Doc2vec、LDA、TFIDF、WikilinkNN）生成文章嵌入与相似度矩阵，输出内容推荐；用户评分可作为权重表达偏好。面向希望仅用开源数据构建内容推荐的开发者，通过 PyPI 提供安装，附 Colab 可运行的示例 notebook。README 的对比结果显示 TFIDF 运行时间最短，Doc2vec 表现较差。", "highlights": ["解析任意语言维基百科 dump 并按 infobox 类型筛选条目", "支持 BERT/Doc2vec/LDA/TFIDF/WikilinkNN 五种嵌入方法", "余弦或欧氏相似度矩阵生成推荐，支持相似度矩阵加权组合", "用户评分加权推荐以表达偏好"], "use_cases": ["为书籍、电影等内容条目构建基于维基百科文本的相似推荐", "用评分数据加权调整推荐结果", "对比不同 NLP 建模方法在推荐任务上的效果"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["推荐系统", "维基百科数据", "NLP嵌入", "无监督学习"], "domain": "推荐系统/NLP", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: **wikirec** is a framework that allows users to parse Wikipedia in any language for entries of a given type and then sea"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-27", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "andrewtavis/wikirec",
+ "sha": "c9f64361f170",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于维基百科数据的内容推荐引擎框架",
+  "review": "wikirec 是一个 Python 推荐框架：从任意语言的维基百科 dump 下载并解析指定 infobox 类型的条目（书籍、电影、音乐等），经多语言清洗流程生成语料，再基于无监督 NLP 模型（BERT/sentence-transformers、Doc2vec、LDA、TFIDF、WikilinkNN）生成文章嵌入与相似度矩阵，输出内容推荐；用户评分可作为权重表达偏好。面向希望仅用开源数据构建内容推荐的开发者，通过 PyPI 提供安装，附 Colab 可运行的示例 notebook。README 的对比结果显示 TFIDF 运行时间最短，Doc2vec 表现较差。",
+  "highlights": [
+   "解析任意语言维基百科 dump 并按 infobox 类型筛选条目",
+   "支持 BERT/Doc2vec/LDA/TFIDF/WikilinkNN 五种嵌入方法",
+   "余弦或欧氏相似度矩阵生成推荐，支持相似度矩阵加权组合",
+   "用户评分加权推荐以表达偏好"
+  ],
+  "use_cases": [
+   "为书籍、电影等内容条目构建基于维基百科文本的相似推荐",
+   "用评分数据加权调整推荐结果",
+   "对比不同 NLP 建模方法在推荐任务上的效果"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "推荐系统",
+   "维基百科数据",
+   "NLP嵌入",
+   "无监督学习"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "recommender-system"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: **wikirec** is a framework that allows users to parse Wikipedia in any language for entries of a given type and then sea"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

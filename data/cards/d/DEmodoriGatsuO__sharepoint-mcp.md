@@ -1,6 +1,6 @@
 # DEmodoriGatsuO/sharepoint-mcp
 
-⭐ 93 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/DEmodoriGatsuO/sharepoint-mcp) · 个人维护
+⭐ 94 · Python · NOASSERTION · 推送 2026-04-14 · [GitHub](https://github.com/DEmodoriGatsuO/sharepoint-mcp) · 个人维护
 
 **让 LLM 应用通过 MCP 访问 SharePoint 文档与列表的连接器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DEmodoriGatsuO/sharepoint-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 90 --> 94
-    line [91, 92, 93, 93]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 90 --> 95
+    line [91, 92, 93, 94]
 ```
 
-2026-10-18 91 → 2026-10-27 93（+2）
+2026-10-18 91 → 2026-10-28 94（+3）
 
 
 ---

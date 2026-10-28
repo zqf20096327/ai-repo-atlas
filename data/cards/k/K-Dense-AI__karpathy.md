@@ -1,6 +1,6 @@
 # K-Dense-AI/karpathy
 
-⭐ 1,572 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/karpathy) · [官网](https://k-dense.ai) · 组织维护
+⭐ 1,573 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/karpathy) · [官网](https://k-dense.ai) · 组织维护
 
 **基于 Claude Agent SDK 与 Google ADK 的代理式机器学习工程师**
 
@@ -46,12 +46,12 @@ K-Dense 维护的代理式 ML 工程师实现：通过 Claude Agent SDK 与 Goog
 ```mermaid
 xychart-beta
     title "K-Dense-AI/karpathy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1565 --> 1573
-    line [1566, 1567, 1570, 1571, 1572, 1572]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1565 --> 1574
+    line [1566, 1567, 1570, 1571, 1572, 1573]
 ```
 
-2026-10-18 1,566 → 2026-10-27 1,572（+6）
+2026-10-18 1,566 → 2026-10-28 1,573（+7）
 
 
 ---

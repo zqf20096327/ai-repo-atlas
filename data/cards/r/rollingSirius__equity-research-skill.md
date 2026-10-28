@@ -1,6 +1,6 @@
 # rollingSirius/equity-research-skill
 
-⭐ 468 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/rollingSirius/equity-research-skill) · [官网](https://x.com/rollingSirius) · 个人维护 · 中文 README
+⭐ 469 · Python · MIT · 推送 2026-08-21 · [GitHub](https://github.com/rollingSirius/equity-research-skill) · [官网](https://x.com/rollingSirius) · 个人维护 · 中文 README
 
 **供 AI 工具使用的个股深度研究技能包，产出可溯源估值报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rollingSirius/equity-research-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 458 --> 469
-    line [459, 462, 464, 463, 465, 467, 468]
+    title "rollingSirius/equity-research-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 458 --> 470
+    line [459, 462, 464, 463, 465, 467, 468, 469]
 ```
 
-2026-10-18 459 → 2026-10-27 468（+9）
+2026-10-18 459 → 2026-10-28 469（+10）
 
 
 ---

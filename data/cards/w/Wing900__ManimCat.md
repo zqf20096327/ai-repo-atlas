@@ -1,6 +1,6 @@
 # Wing900/ManimCat
 
-⭐ 478 · TypeScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Wing900/ManimCat) · 个人维护 · 中文 README
+⭐ 481 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Wing900/ManimCat) · 个人维护 · 中文 README
 
 **面向教学场景的 AI 数学动画/图表生成 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wing900/ManimCat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 475 --> 479
-    line [476, 477, 478]
+    title "Wing900/ManimCat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 475 --> 482
+    line [476, 477, 478, 481]
 ```
 
-2026-10-18 476 → 2026-10-27 478（+2）
+2026-10-18 476 → 2026-10-28 481（+5）
 
 
 ---

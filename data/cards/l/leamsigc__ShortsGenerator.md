@@ -1,6 +1,6 @@
 # leamsigc/ShortsGenerator
 
-⭐ 360 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/leamsigc/ShortsGenerator) · 个人维护
+⭐ 361 · Vue · MIT · 推送 2026-10-11 · [GitHub](https://github.com/leamsigc/ShortsGenerator) · 个人维护
 
 **本地自动化生成 YouTube Shorts 视频的自托管工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leamsigc/ShortsGenerator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 357 --> 361
-    line [359, 358, 360, 359, 360]
+    title "leamsigc/ShortsGenerator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 357 --> 362
+    line [359, 358, 360, 359, 360, 361]
 ```
 
-2026-10-18 359 → 2026-10-27 360（+1）
+2026-10-18 359 → 2026-10-28 361（+2）
 
 
 ---

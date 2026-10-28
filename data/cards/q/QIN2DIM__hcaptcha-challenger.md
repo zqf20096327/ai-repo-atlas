@@ -1,6 +1,6 @@
 # QIN2DIM/hcaptcha-challenger
 
-⭐ 2,563 · Python · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger) · 个人维护 · 中文 README
+⭐ 2,564 · Python · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger) · 个人维护 · 中文 README
 
 **用多模态大模型与视觉模型自动求解 hCaptcha 验证码的工具库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QIN2DIM/hcaptcha-challenger 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2551 --> 2564
-    line [2552, 2555, 2556, 2557, 2560, 2561, 2563]
+    title "QIN2DIM/hcaptcha-challenger 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2551 --> 2565
+    line [2552, 2555, 2556, 2557, 2560, 2561, 2563, 2564]
 ```
 
-2026-10-18 2,552 → 2026-10-27 2,563（+11）
+2026-10-18 2,552 → 2026-10-28 2,564（+12）
 
 
 ---

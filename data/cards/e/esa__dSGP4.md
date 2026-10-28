@@ -1,6 +1,6 @@
 # esa/dSGP4
 
-⭐ 100 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/esa/dSGP4) · [官网](https://esa.github.io/dSGP4/) · 组织维护
+⭐ 101 · Python · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/esa/dSGP4) · [官网](https://esa.github.io/dSGP4/) · 组织维护
 
 **可微 SGP4 轨道传播库：PyTorch 自动微分+ML 集成**
 
@@ -46,12 +46,12 @@ ESA 维护的 PyTorch 版 SGP4 轨道传播实现，支持对传播状态关于�
 ```mermaid
 xychart-beta
     title "esa/dSGP4 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 97 --> 101
-    line [98, 100, 100]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 97 --> 102
+    line [98, 100, 101]
 ```
 
-2026-10-18 98 → 2026-10-27 100（+2）
+2026-10-18 98 → 2026-10-28 101（+3）
 
 
 ---

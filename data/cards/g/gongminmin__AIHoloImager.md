@@ -1,6 +1,6 @@
 # gongminmin/AIHoloImager
 
-⭐ 192 · C++ · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gongminmin/AIHoloImager) · 个人维护
+⭐ 192 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gongminmin/AIHoloImager) · 个人维护
 
 **从少量照片或视频生成 3D 网格的重建工具（Windows）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "gongminmin/AIHoloImager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-10-27 192（+0）
+2026-10-18 192 → 2026-10-28 192（+0）
 
 
 ---

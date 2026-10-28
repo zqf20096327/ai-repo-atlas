@@ -1,6 +1,6 @@
 # lasgroup/SDPO
 
-⭐ 1,131 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/lasgroup/SDPO) · [官网](https://self-distillation.github.io/SDPO) · 组织维护
+⭐ 1,133 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/lasgroup/SDPO) · [官网](https://self-distillation.github.io/SDPO) · 组织维护
 
 **自蒸馏强化学习训练框架：用模型自身高奖励轨迹做策略优化**
 
@@ -46,12 +46,12 @@ SDPO（Self-Distilled Policy Optimization）是论文配套的 LLM 强化学习�
 ```mermaid
 xychart-beta
     title "lasgroup/SDPO 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1124 --> 1132
-    line [1125, 1126, 1130, 1131, 1131]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 1124 --> 1134
+    line [1125, 1126, 1130, 1131, 1133]
 ```
 
-2026-10-18 1,125 → 2026-10-27 1,131（+6）
+2026-10-18 1,125 → 2026-10-28 1,133（+8）
 
 
 ---

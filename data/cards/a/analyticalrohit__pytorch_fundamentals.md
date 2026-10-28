@@ -1,6 +1,6 @@
 # analyticalrohit/pytorch_fundamentals
 
-⭐ 1,057 · Jupyter Notebook · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/pytorch_fundamentals) · [官网](https://awesomeneuron.substack.com) · 个人维护
+⭐ 1,056 · Jupyter Notebook · MIT · 推送 2026-01-06 · [GitHub](https://github.com/analyticalrohit/pytorch_fundamentals) · [官网](https://awesomeneuron.substack.com) · 个人维护
 
 **PyTorch 基础入门教程库：张量初始化、运算、索引与重塑**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "analyticalrohit/pytorch_fundamentals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 1055 --> 1058
-    line [1056, 1057, 1057]
+    line [1056, 1057, 1056]
 ```
 
-2026-10-18 1,056 → 2026-10-27 1,057（+1）
+2026-10-18 1,056 → 2026-10-28 1,056（+0）
 
 
 ---

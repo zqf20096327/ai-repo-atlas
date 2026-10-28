@@ -43,13 +43,13 @@ ASE 2025 论文 LongCodeZip 的官方实现，提供即插即用的长代码压�
 
 ```mermaid
 xychart-beta
-    title "YerbaPage/LongCodeZip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "YerbaPage/LongCodeZip 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 167 --> 170
-    line [168, 169]
+    line [168, 169, 169]
 ```
 
-2026-10-18 168 → 2026-10-27 169（+1）
+2026-10-18 168 → 2026-10-28 169（+1）
 
 
 ---

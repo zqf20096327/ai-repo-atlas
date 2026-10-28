@@ -1,6 +1,6 @@
 # Tongyi-MAI/MobileWorld
 
-⭐ 297 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [官网](https://tongyi-mai.github.io/MobileWorld/) · 组织维护 · 中文 README
+⭐ 298 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [官网](https://tongyi-mai.github.io/MobileWorld/) · 组织维护 · 中文 README
 
 **评测自主移动 Agent 的基准：201 任务、20 应用、MCP 与人机交互**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Tongyi-MAI/MobileWorld 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 290 --> 298
-    line [291, 295, 297, 297]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 290 --> 299
+    line [291, 295, 297, 298]
 ```
 
-2026-10-18 291 → 2026-10-27 297（+6）
+2026-10-18 291 → 2026-10-28 298（+7）
 
 
 ---

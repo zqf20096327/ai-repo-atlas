@@ -45,12 +45,12 @@ TensorFlow 生态的 Python 库，配套 arXiv 论文。通过递归算法分析
 ```mermaid
 xychart-beta
     title "cognizant-ai-labs/autoinit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

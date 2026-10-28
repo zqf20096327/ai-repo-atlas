@@ -1,6 +1,6 @@
 # Sma1lboy/rove
 
-⭐ 180 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Sma1lboy/rove) · [官网](https://rove.run) · 个人维护
+⭐ 180 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Sma1lboy/rove) · [官网](https://rove.run) · 个人维护
 
 **终端里的多 agent 并行工作区：隔离 worktree 运行多个编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sma1lboy/rove 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "Sma1lboy/rove 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 173 --> 181
-    line [174, 176, 178, 177, 179, 180]
+    line [174, 176, 178, 177, 179, 180, 180]
 ```
 
-2026-10-18 174 → 2026-10-27 180（+6）
+2026-10-18 174 → 2026-10-28 180（+6）
 
 
 ---

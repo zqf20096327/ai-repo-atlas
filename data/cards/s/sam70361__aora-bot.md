@@ -1,6 +1,6 @@
 # sam70361/aora-bot
 
-⭐ 581 · JavaScript · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://emotion-balls.vercel.app/) · 个人维护 · 中文 README
+⭐ 585 · JavaScript · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://emotion-balls.vercel.app/) · 个人维护 · 中文 README
 
 **给 AI 助手的 SVG 表情引擎：32 种表情按 emotionId 切换**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sam70361/aora-bot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 473 --> 590
-    line [482, 498, 536, 552, 558, 566, 576, 581]
+    title "sam70361/aora-bot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 472 --> 595
+    line [482, 498, 536, 552, 558, 566, 576, 581, 585]
 ```
 
-2026-10-18 482 → 2026-10-27 581（+99）
+2026-10-18 482 → 2026-10-28 585（+103）
 
 
 ---

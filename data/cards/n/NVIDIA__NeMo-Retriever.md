@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Retriever
 
-⭐ 2,997 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [官网](https://nvidia.github.io/NeMo-Retriever/) · 组织维护
+⭐ 2,998 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/NeMo-Retriever) · [官网](https://nvidia.github.io/NeMo-Retriever/) · 组织维护
 
 **面向 RAG 的文档内容抽取与嵌入微服务框架**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的可扩展文档抽取框架：将文档分页并行处理，分�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/NeMo-Retriever 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2988 --> 2998
-    line [2990, 2989, 2990, 2991, 2994, 2995, 2997]
+    title "NVIDIA/NeMo-Retriever 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2988 --> 2999
+    line [2990, 2989, 2990, 2991, 2994, 2995, 2997, 2998]
 ```
 
-2026-10-18 2,990 → 2026-10-27 2,997（+7）
+2026-10-18 2,990 → 2026-10-28 2,998（+8）
 
 
 ---

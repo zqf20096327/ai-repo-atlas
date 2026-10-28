@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio) · 组织维护 · 中文 README
+⭐ 46 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio) · 组织维护 · 中文 README
 
 **开源语音理解与生成模型：130B 语音对话/克隆/TTS/识别**
 
@@ -44,13 +44,13 @@ Step-Audio 是面向智能语音交互的模型框架，基于 130B 参数 LLM�
 
 ```mermaid
 xychart-beta
-    title "stepfun-ai/Step-Audio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45]
+    title "stepfun-ai/Step-Audio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46]
 ```
 
-2026-10-18 43 → 2026-10-27 45（+2）
+2026-10-18 43 → 2026-10-28 46（+3）
 
 
 ---

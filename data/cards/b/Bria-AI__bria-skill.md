@@ -1,6 +1,6 @@
 # Bria-AI/bria-skill
 
-⭐ 72 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Bria-AI/bria-skill) · 组织维护
+⭐ 73 · Python · 推送 2026-10-21 · [GitHub](https://github.com/Bria-AI/bria-skill) · 组织维护
 
 **让编程 Agent 调用 Bria 图像生成/编辑能力的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bria-AI/bria-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 68 --> 73
-    line [69, 70, 71, 72, 72]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 68 --> 74
+    line [69, 70, 71, 72, 73]
 ```
 
-2026-10-18 69 → 2026-10-27 72（+3）
+2026-10-18 69 → 2026-10-28 73（+4）
 
 
 ---

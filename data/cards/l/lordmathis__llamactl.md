@@ -1,6 +1,6 @@
 # lordmathis/llamactl
 
-⭐ 160 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/lordmathis/llamactl) · [官网](http://llamactl.org/) · 个人维护
+⭐ 160 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lordmathis/llamactl) · [官网](http://llamactl.org/) · 个人维护
 
 **统一管理与路由 llama.cpp/MLX/vLLM 模型的 Web 仪表盘工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lordmathis/llamactl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
     y-axis "stars" 157 --> 161
     line [158, 159, 160, 160]
 ```
 
-2026-10-18 158 → 2026-10-27 160（+2）
+2026-10-18 158 → 2026-10-28 160（+2）
 
 
 ---

@@ -45,12 +45,12 @@ langchain-ai 维护的 monorepo，含两个 Python 包：langchain-ibm 将 IBM w
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-ibm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

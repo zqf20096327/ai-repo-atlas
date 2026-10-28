@@ -1,6 +1,6 @@
 # zorost/AI-Engineering-Lab
 
-⭐ 318 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
+⭐ 319 · Jupyter Notebook · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zorost/AI-Engineering-Lab) · [官网](https://zorost.com/ai-engineering-lab) · 组织维护
 
 **24 周 AI 工程自学课程：从 Python 到 LLM、Agent 与云平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zorost/AI-Engineering-Lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 316 --> 319
-    line [318, 317, 318, 318]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 316 --> 320
+    line [318, 317, 318, 319]
 ```
 
-2026-10-18 318 → 2026-10-27 318（+0）
+2026-10-18 318 → 2026-10-28 319（+1）
 
 
 ---

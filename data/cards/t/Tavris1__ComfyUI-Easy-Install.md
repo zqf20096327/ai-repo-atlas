@@ -1,6 +1,6 @@
 # Tavris1/ComfyUI-Easy-Install
 
-⭐ 2,024 · Batchfile · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护
+⭐ 2,027 · Batchfile · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护
 
 **Windows 一键便携安装 ComfyUI 的安装器，带 EZi Desktop 管理面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tavris1/ComfyUI-Easy-Install 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1983 --> 2027
-    line [1986, 2000, 2005, 2010, 2011, 2013, 2019, 2024]
+    title "Tavris1/ComfyUI-Easy-Install 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1982 --> 2031
+    line [1986, 2000, 2005, 2010, 2011, 2013, 2019, 2024, 2027]
 ```
 
-2026-10-18 1,986 → 2026-10-27 2,024（+38）
+2026-10-18 1,986 → 2026-10-28 2,027（+41）
 
 
 ---

@@ -1,6 +1,6 @@
 # dreamscroll-lab/asamana
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/dreamscroll-lab/asamana) · 组织维护 · 中文 README
+⭐ 127 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/dreamscroll-lab/asamana) · 组织维护 · 中文 README
 
 **AI 驱动的涌现式叙事引擎：给定主题即生成多角色自主互动世界**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dreamscroll-lab/asamana 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 96 --> 124
-    line [98, 106, 114, 116, 119, 122]
+    title "dreamscroll-lab/asamana 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 96 --> 129
+    line [98, 106, 114, 116, 119, 122, 127]
 ```
 
-2026-10-18 98 → 2026-10-27 122（+24）
+2026-10-18 98 → 2026-10-28 127（+29）
 
 
 ---

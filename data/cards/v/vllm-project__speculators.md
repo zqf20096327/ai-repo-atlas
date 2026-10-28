@@ -1,6 +1,6 @@
 # vllm-project/speculators
 
-⭐ 922 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/vllm-project/speculators) · [官网](https://docs.vllm.ai/projects/speculators) · 组织维护
+⭐ 925 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/speculators) · [官网](https://docs.vllm.ai/projects/speculators) · 组织维护
 
 **为 vLLM 训练投机解码草稿模型的库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/speculators 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 885 --> 925
-    line [888, 901, 913, 916, 918, 920, 921, 922]
+    title "vllm-project/speculators 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 885 --> 928
+    line [888, 901, 913, 916, 918, 920, 921, 922, 925]
 ```
 
-2026-10-18 888 → 2026-10-27 922（+34）
+2026-10-18 888 → 2026-10-28 925（+37）
 
 
 ---

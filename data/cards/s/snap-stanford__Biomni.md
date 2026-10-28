@@ -1,6 +1,6 @@
 # snap-stanford/Biomni
 
-⭐ 4,013 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/snap-stanford/Biomni) · [官网](https://biomni.stanford.edu) · 组织维护
+⭐ 4,021 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/snap-stanford/Biomni) · [官网](https://biomni.stanford.edu) · 组织维护
 
 **斯坦福的生物医学 AI agent，自主执行科研任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snap-stanford/Biomni 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3983 --> 4015
-    line [3985, 3991, 4001, 4002, 4005, 4006, 4009, 4013]
+    title "snap-stanford/Biomni 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3982 --> 4024
+    line [3985, 3991, 4001, 4002, 4005, 4006, 4009, 4013, 4021]
 ```
 
-2026-10-18 3,985 → 2026-10-27 4,013（+28）
+2026-10-18 3,985 → 2026-10-28 4,021（+36）
 
 
 ---

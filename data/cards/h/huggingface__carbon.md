@@ -1,6 +1,6 @@
 # huggingface/carbon
 
-⭐ 235 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/carbon) · 组织维护
+⭐ 236 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/carbon) · 组织维护
 
 **Hugging Face 的 DNA 基因组基础模型及评测/微调代码库**
 
@@ -45,13 +45,13 @@ Carbon 是 Hugging Face 与中关村学院、那不勒斯大学等合作发布�
 
 ```mermaid
 xychart-beta
-    title "huggingface/carbon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 221 --> 236
-    line [222, 225, 232, 233, 235]
+    title "huggingface/carbon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 221 --> 237
+    line [222, 225, 232, 233, 235, 236]
 ```
 
-2026-10-18 222 → 2026-10-27 235（+13）
+2026-10-18 222 → 2026-10-28 236（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/nim-anywhere
 
-⭐ 283 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA/nim-anywhere) · [官网](https://www.nvidia.com/en-us/ai/) · 组织维护
+⭐ 284 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/NVIDIA/nim-anywhere) · [官网](https://www.nvidia.com/en-us/ai/) · 组织维护
 
 **基于 NVIDIA NIM 微服务构建 RAG 应用的项目模板**
 
@@ -46,12 +46,12 @@ NVIDIA 官方维护的 Gen AI 项目模板（Clone Me），配合 NVIDIA AI Work
 ```mermaid
 xychart-beta
     title "NVIDIA/nim-anywhere 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
     y-axis "stars" 282 --> 285
-    line [283, 284, 283, 283]
+    line [283, 284, 283, 284]
 ```
 
-2026-10-18 283 → 2026-10-27 283（+0）
+2026-10-18 283 → 2026-10-28 284（+1）
 
 
 ---

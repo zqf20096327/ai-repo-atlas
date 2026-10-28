@@ -1,6 +1,6 @@
 # modal-labs/modal-client
 
-⭐ 528 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/modal-labs/modal-client) · [官网](https://modal.com/docs) · 组织维护
+⭐ 528 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/modal-labs/modal-client) · [官网](https://modal.com/docs) · 组织维护
 
 **Modal 官方 SDK 仓库：部署无服务器应用并操作 Modal 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "modal-labs/modal-client 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 524 --> 529
     line [525, 526, 527, 528, 528]
 ```
 
-2026-10-18 525 → 2026-10-27 528（+3）
+2026-10-18 525 → 2026-10-28 528（+3）
 
 
 ---

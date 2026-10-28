@@ -1,6 +1,6 @@
 # aceHubert/newapi-ai-check-in
 
-⭐ 272 · Python · BSD-2-Clause · 推送 2026-09-06 · [GitHub](https://github.com/aceHubert/newapi-ai-check-in) · [官网](https://anyrouter.top/register?aff=ZXtq) · 个人维护 · 中文 README
+⭐ 273 · Python · BSD-2-Clause · 推送 2026-09-06 · [GitHub](https://github.com/aceHubert/newapi-ai-check-in) · [官网](https://anyrouter.top/register?aff=ZXtq) · 个人维护 · 中文 README
 
 **newapi.ai 站点多账号自动签到脚本，跑在 GitHub Actions**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aceHubert/newapi-ai-check-in 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 268 --> 273
-    line [269, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 268 --> 274
+    line [269, 271, 272, 273]
 ```
 
-2026-10-18 269 → 2026-10-27 272（+3）
+2026-10-18 269 → 2026-10-28 273（+4）
 
 
 ---

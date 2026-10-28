@@ -1,6 +1,6 @@
 # AbuZar-Ansarii/PocketStrike
 
-⭐ 147 · Dart · MIT · 推送 2026-08-27 · [GitHub](https://github.com/AbuZar-Ansarii/PocketStrike) · 个人维护
+⭐ 149 · Dart · MIT · 推送 2026-08-27 · [GitHub](https://github.com/AbuZar-Ansarii/PocketStrike) · 个人维护
 
 **Android 端离线 GGUF 推理与云 LLM 的移动 AI 工作站应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbuZar-Ansarii/PocketStrike 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10 --> 159
-    line [22, 109, 123, 131, 135, 140, 142, 147]
+    title "AbuZar-Ansarii/PocketStrike 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10 --> 161
+    line [22, 109, 123, 131, 135, 140, 142, 147, 149]
 ```
 
-2026-10-18 22 → 2026-10-27 147（+125）
+2026-10-18 22 → 2026-10-28 149（+127）
 
 
 ---

@@ -1,6 +1,6 @@
 # tattle-made/Uli
 
-⭐ 56 · Elixir · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/tattle-made/Uli) · [官网](https://uli.tattle.co.in) · 组织维护
+⭐ 56 · Elixir · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/tattle-made/Uli) · [官网](https://uli.tattle.co.in) · 组织维护
 
 **缓解印度网络性别暴力的浏览器插件：检测辱骂并提供响应工具**
 
@@ -45,12 +45,12 @@ Tattle 制作的 Chrome 浏览器插件，面向印度边缘化性别群体的�
 ```mermaid
 xychart-beta
     title "tattle-made/Uli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-27 56（+0）
+2026-10-18 56 → 2026-10-28 56（+0）
 
 
 ---

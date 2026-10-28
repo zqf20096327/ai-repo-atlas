@@ -46,12 +46,12 @@ Electron 桌面应用（含 CLI/Web 与 Docker 自托管模式），面向使用
 ```mermaid
 xychart-beta
     title "ZengLiangYi/ChatCrystal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-27 61（+0）
+2026-10-18 61 → 2026-10-28 61（+0）
 
 
 ---

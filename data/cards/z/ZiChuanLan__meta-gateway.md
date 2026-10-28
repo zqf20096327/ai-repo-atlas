@@ -1,6 +1,6 @@
 # ZiChuanLan/meta-gateway
 
-⭐ 43 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZiChuanLan/meta-gateway) · [官网](https://mg.015201314.xyz) · 个人维护 · 中文 README
+⭐ 47 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ZiChuanLan/meta-gateway) · [官网](https://mg.015201314.xyz) · 个人维护 · 中文 README
 
 **自托管多通道 LLM 中继网关：统一上游、单令牌透传**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZiChuanLan/meta-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 40 --> 48
+    line [41, 42, 43, 47]
 ```
 
-2026-10-18 41 → 2026-10-27 43（+2）
+2026-10-18 41 → 2026-10-28 47（+6）
 
 
 ---

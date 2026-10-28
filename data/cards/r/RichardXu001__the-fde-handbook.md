@@ -1,6 +1,6 @@
 # RichardXu001/the-fde-handbook
 
-⭐ 80 · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/RichardXu001/the-fde-handbook) · [官网](https://0to1.site) · 个人维护 · 中文 README
+⭐ 81 · NOASSERTION · 推送 2026-09-10 · [GitHub](https://github.com/RichardXu001/the-fde-handbook) · [官网](https://0to1.site) · 个人维护 · 中文 README
 
 **面向前线部署工程师（FDE）的企业 AI 落地中文开源手册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RichardXu001/the-fde-handbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 76 --> 81
-    line [77, 78, 79, 80]
+    title "RichardXu001/the-fde-handbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 76 --> 82
+    line [77, 78, 79, 80, 81]
 ```
 
-2026-10-18 77 → 2026-10-27 80（+3）
+2026-10-18 77 → 2026-10-28 81（+4）
 
 
 ---

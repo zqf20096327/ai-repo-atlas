@@ -1,6 +1,6 @@
 # janclemenslab/das
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/janclemenslab/das) · [官网](http://janclemenslab.org/das/) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/janclemenslab/das) · [官网](http://janclemenslab.org/das/) · 组织维护
 
 **用深度神经网络自动标注动物发声的音频分割工具**
 
@@ -44,12 +44,12 @@ DAS 通过深度神经网络对原始音频录音中的动物发声进行自动�
 ```mermaid
 xychart-beta
     title "janclemenslab/das 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-27 35（+1）
+2026-10-18 34 → 2026-10-28 35（+1）
 
 
 ---

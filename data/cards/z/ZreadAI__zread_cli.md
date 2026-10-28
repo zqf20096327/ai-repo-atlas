@@ -1,6 +1,6 @@
 # ZreadAI/zread_cli
 
-⭐ 164 · 推送 2026-05-27 · [GitHub](https://github.com/ZreadAI/zread_cli) · [官网](https://zread.ai/cli) · 组织维护 · 中文 README
+⭐ 165 · 推送 2026-05-27 · [GitHub](https://github.com/ZreadAI/zread_cli) · [官网](https://zread.ai/cli) · 组织维护 · 中文 README
 
 **用 AI 把本地代码仓库生成 Wiki 文档的 CLI 工具**
 
@@ -45,12 +45,12 @@ Zread CLI 通过 AI 大模型分析本地代码仓库，生成结构化 Wiki 文
 ```mermaid
 xychart-beta
     title "ZreadAI/zread_cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 161 --> 165
-    line [162, 163, 164, 164]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 161 --> 166
+    line [162, 163, 164, 165]
 ```
 
-2026-10-18 162 → 2026-10-27 164（+2）
+2026-10-18 162 → 2026-10-28 165（+3）
 
 
 ---

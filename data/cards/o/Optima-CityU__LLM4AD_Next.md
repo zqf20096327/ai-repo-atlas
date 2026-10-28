@@ -1,6 +1,6 @@
 # Optima-CityU/LLM4AD_Next
 
-⭐ 680 · Python · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [官网](https://llm4ad-next.cn) · 组织维护 · 中文 README
+⭐ 681 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/Optima-CityU/LLM4AD_Next) · [官网](https://llm4ad-next.cn) · 组织维护 · 中文 README
 
 **用 LLM 与进化搜索自动设计算法的平台，一条命令生成可运行搜索**
 
@@ -45,13 +45,13 @@ LLM 驱动的自动算法设计平台：通过交互式对话终端（llm4ad cha
 
 ```mermaid
 xychart-beta
-    title "Optima-CityU/LLM4AD_Next 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 634 --> 684
-    line [638, 659, 675, 677, 678, 680]
+    title "Optima-CityU/LLM4AD_Next 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 634 --> 685
+    line [638, 659, 675, 677, 678, 680, 681]
 ```
 
-2026-10-18 638 → 2026-10-27 680（+42）
+2026-10-18 638 → 2026-10-28 681（+43）
 
 
 ---

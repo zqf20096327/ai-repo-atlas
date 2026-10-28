@@ -42,12 +42,12 @@ TomoTwin 是面向冷冻电子断层扫描（cryo-ET）的颗粒（particle）�
 ```mermaid
 xychart-beta
     title "MPI-Dortmund/tomotwin-cryoet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-27 47（+0）
+2026-10-18 47 → 2026-10-28 47（+0）
 
 
 ---

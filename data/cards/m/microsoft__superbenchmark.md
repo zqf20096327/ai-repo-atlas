@@ -1,6 +1,6 @@
 # microsoft/superbenchmark
 
-⭐ 399 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/superbenchmark) · [官网](https://aka.ms/superbench) · 组织维护
+⭐ 400 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/superbenchmark) · [官网](https://aka.ms/superbench) · 组织维护
 
 **面向 AI 基础设施的验证与性能剖析工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/superbenchmark 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 396 --> 400
-    line [397, 398, 399, 399]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 396 --> 401
+    line [397, 398, 399, 400]
 ```
 
-2026-10-18 397 → 2026-10-27 399（+2）
+2026-10-18 397 → 2026-10-28 400（+3）
 
 
 ---

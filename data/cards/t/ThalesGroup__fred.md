@@ -1,6 +1,6 @@
 # ThalesGroup/fred
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ThalesGroup/fred) · [官网](https://fredk8.dev) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ThalesGroup/fred) · [官网](https://fredk8.dev) · 组织维护
 
 **面向团队与受监管场景的自托管 AI agent 平台（Thales 开源）**
 
@@ -46,12 +46,12 @@ Apache 2.0 平台，供团队在自有文档与内网环境中构建、部署与
 ```mermaid
 xychart-beta
     title "ThalesGroup/fred 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 69 --> 72
     line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-10-27 71（+1）
+2026-10-18 70 → 2026-10-28 71（+1）
 
 
 ---

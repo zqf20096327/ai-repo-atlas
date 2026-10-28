@@ -1,6 +1,6 @@
 # ninsmiracle/YareLampGo
 
-⭐ 40 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ninsmiracle/YareLampGo) · 个人维护 · 中文 README
+⭐ 43 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ninsmiracle/YareLampGo) · 个人维护 · 中文 README
 
 **开源桌面 AI 机械臂台灯：可语音对话、看、动、自建表情**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ninsmiracle/YareLampGo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 39, 40]
+    title "ninsmiracle/YareLampGo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 36 --> 44
+    line [37, 38, 39, 40, 43]
 ```
 
-2026-10-18 37 → 2026-10-27 40（+3）
+2026-10-18 37 → 2026-10-28 43（+6）
 
 
 ---

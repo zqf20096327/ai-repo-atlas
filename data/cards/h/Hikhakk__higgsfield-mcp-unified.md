@@ -1,6 +1,6 @@
 # Hikhakk/higgsfield-mcp-unified
 
-⭐ 98 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hikhakk/higgsfield-mcp-unified) · [官网](https://docs.higgsfield.ai/docs) · 个人维护
+⭐ 99 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Hikhakk/higgsfield-mcp-unified) · [官网](https://docs.higgsfield.ai/docs) · 个人维护
 
 **本地优先的 Higgsfield AI MCP 服务器：85 个图像视频模型统一接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hikhakk/higgsfield-mcp-unified 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 98, 98]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 95 --> 100
+    line [96, 97, 98, 99]
 ```
 
-2026-10-18 96 → 2026-10-27 98（+2）
+2026-10-18 96 → 2026-10-28 99（+3）
 
 
 ---

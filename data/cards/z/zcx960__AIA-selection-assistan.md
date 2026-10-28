@@ -1,6 +1,6 @@
 # zcx960/AIA-selection-assistan
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zcx960/AIA-selection-assistan) · 个人维护 · 中文 README
+⭐ 54 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/zcx960/AIA-selection-assistan) · 个人维护 · 中文 README
 
 **macOS/Windows 全局划词 AI 助手：翻译润色解释、截图识图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zcx960/AIA-selection-assistan 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 51 --> 55
-    line [52, 53, 54, 53, 53]
+    line [52, 53, 54, 53, 54]
 ```
 
-2026-10-18 52 → 2026-10-27 53（+1）
+2026-10-18 52 → 2026-10-28 54（+2）
 
 
 ---

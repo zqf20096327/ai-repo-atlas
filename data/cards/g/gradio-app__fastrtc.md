@@ -1,6 +1,6 @@
 # gradio-app/fastrtc
 
-⭐ 4,632 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gradio-app/fastrtc) · [官网](https://fastrtc.org/) · 组织维护
+⭐ 4,634 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/gradio-app/fastrtc) · [官网](https://fastrtc.org/) · 组织维护
 
 **将 Python 函数变为 WebRTC/WebSocket 实时音视频流的库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gradio-app/fastrtc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 4630 --> 4634
-    line [4631, 4632, 4633, 4632, 4632]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 4630 --> 4635
+    line [4631, 4632, 4633, 4632, 4634]
 ```
 
-2026-10-18 4,631 → 2026-10-27 4,632（+1）
+2026-10-18 4,631 → 2026-10-28 4,634（+3）
 
 
 ---

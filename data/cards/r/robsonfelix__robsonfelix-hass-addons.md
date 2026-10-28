@@ -1,6 +1,6 @@
 # robsonfelix/robsonfelix-hass-addons
 
-⭐ 131 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/robsonfelix/robsonfelix-hass-addons) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/robsonfelix/robsonfelix-hass-addons) · 个人维护
 
 **Home Assistant 自定义 add-on 仓库：含 Claude Code 等三个 add-on**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "robsonfelix/robsonfelix-hass-addons 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 124 --> 132
-    line [125, 127, 128, 129, 130, 131, 131]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 124 --> 133
+    line [125, 127, 128, 129, 130, 131, 132]
 ```
 
-2026-10-18 125 → 2026-10-27 131（+6）
+2026-10-18 125 → 2026-10-28 132（+7）
 
 
 ---

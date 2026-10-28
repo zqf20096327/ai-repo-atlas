@@ -1,6 +1,6 @@
 # charleslee8266/cardnav-web
 
-⭐ 194 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/charleslee8266/cardnav-web) · [官网](https://cardnav.xyz/) · 个人维护 · 中文 README
+⭐ 196 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/charleslee8266/cardnav-web) · [官网](https://cardnav.xyz/) · 个人维护 · 中文 README
 
 **AI 大模型账号购买导航站：聚合卡网商家、订阅比价与指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charleslee8266/cardnav-web 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 186 --> 195
-    line [187, 193, 194, 194]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 186 --> 197
+    line [187, 193, 194, 196]
 ```
 
-2026-10-18 187 → 2026-10-27 194（+7）
+2026-10-18 187 → 2026-10-28 196（+9）
 
 
 ---

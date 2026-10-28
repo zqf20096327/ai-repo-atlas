@@ -45,12 +45,12 @@ Python 3 编写的蛋白质工程命令行框架，读取 FASTA 野生型序列�
 ```mermaid
 xychart-beta
     title "Protein-Engineering-Framework/PyPEF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 26（+0）
 
 
 ---

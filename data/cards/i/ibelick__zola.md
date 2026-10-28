@@ -1,6 +1,6 @@
 # ibelick/zola
 
-⭐ 1,535 · TypeScript · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/ibelick/zola) · [官网](https://zola.chat) · 个人维护
+⭐ 1,537 · TypeScript · Apache-2.0 · 推送 2025-12-11 · [GitHub](https://github.com/ibelick/zola) · [官网](https://zola.chat) · 个人维护
 
 **开源多模型聊天界面，支持云端与本地 Ollama 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ibelick/zola 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 1531 --> 1536
-    line [1532, 1533, 1534, 1535, 1535]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 1531 --> 1538
+    line [1532, 1533, 1534, 1535, 1537]
 ```
 
-2026-10-18 1,532 → 2026-10-27 1,535（+3）
+2026-10-18 1,532 → 2026-10-28 1,537（+5）
 
 
 ---

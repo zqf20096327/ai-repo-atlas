@@ -1,6 +1,6 @@
 # IngARodriguez/openapis
 
-⭐ 88 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/IngARodriguez/openapis) · [官网](https://openapis.online/) · 个人维护
+⭐ 90 · MIT · 推送 2026-06-02 · [GitHub](https://github.com/IngARodriguez/openapis) · [官网](https://openapis.online/) · 个人维护
 
 **统一代理：免费转发 OpenAI 与 Anthropic API（托管服务）**
 
@@ -45,12 +45,12 @@ OpenAPIs 是一个托管代理服务（hosted proxy），在同一 URL 下提供
 ```mermaid
 xychart-beta
     title "IngARodriguez/openapis 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 77 --> 89
-    line [78, 80, 82, 84, 86, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 77 --> 91
+    line [78, 80, 82, 84, 86, 87, 88, 90]
 ```
 
-2026-10-18 78 → 2026-10-27 88（+10）
+2026-10-18 78 → 2026-10-28 90（+12）
 
 
 ---

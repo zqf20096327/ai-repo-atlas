@@ -1,6 +1,6 @@
 # rsxdalv/TTS-WebUI
 
-⭐ 3,293 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
+⭐ 3,295 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
 
 **聚合数十种 TTS/音频生成模型的本地 WebUI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rsxdalv/TTS-WebUI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
+    title "rsxdalv/TTS-WebUI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 3291 --> 3296
-    line [3293, 3292, 3294, 3295, 3293]
+    line [3293, 3292, 3294, 3295, 3293, 3295]
 ```
 
-2026-10-18 3,293 → 2026-10-27 3,293（+0）
+2026-10-18 3,293 → 2026-10-28 3,295（+2）
 
 
 ---

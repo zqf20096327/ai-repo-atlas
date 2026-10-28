@@ -1,6 +1,6 @@
 # swax/NAISYS
 
-⭐ 69 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/swax/NAISYS) · [官网](https://naisys.org/) · 个人维护
+⭐ 72 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/swax/NAISYS) · [官网](https://naisys.org/) · 个人维护
 
 **自托管的『人+AI agent』共享集群：汇总机器、模型账号与工作**
 
@@ -47,12 +47,12 @@ NAISYS 是一套自托管系统，供一个团队把各自的机器（笔记本�
 ```mermaid
 xychart-beta
     title "swax/NAISYS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 68 --> 73
+    line [69, 72]
 ```
 
-2026-10-18 69 → 2026-10-27 69（+0）
+2026-10-18 69 → 2026-10-28 72（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lacs-project/sysknife
 
-⭐ 72 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lacs-project/sysknife) · [官网](https://lacs-project.github.io/sysknife/) · 组织维护
+⭐ 76 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lacs-project/sysknife) · [官网](https://lacs-project.github.io/sysknife/) · 组织维护
 
 **审批门控的 Linux 管理 MCP 服务器：AI 规划、人类批准、守护进程执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lacs-project/sysknife 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 11 --> 77
-    line [16, 17, 49, 72]
+    title "lacs-project/sysknife 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10 --> 82
+    line [16, 17, 49, 72, 76]
 ```
 
-2026-10-18 16 → 2026-10-27 72（+56）
+2026-10-18 16 → 2026-10-28 76（+60）
 
 
 ---

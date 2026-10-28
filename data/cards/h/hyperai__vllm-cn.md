@@ -1,6 +1,6 @@
 # hyperai/vllm-cn
 
-⭐ 198 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hyperai/vllm-cn) · [官网](https://vllm.hyper.ai) · 组织维护 · 中文 README
+⭐ 199 · TypeScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/hyperai/vllm-cn) · [官网](https://vllm.hyper.ai) · 组织维护 · 中文 README
 
 **vLLM 官方文档的中文翻译与社区项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hyperai/vllm-cn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 197 --> 199
-    line [198, 198]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 197 --> 200
+    line [198, 199]
 ```
 
-2026-10-18 198 → 2026-10-27 198（+0）
+2026-10-18 198 → 2026-10-28 199（+1）
 
 
 ---

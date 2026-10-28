@@ -1,6 +1,6 @@
 # moonlight-lupin/agent-skills
 
-⭐ 112 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/moonlight-lupin/agent-skills) · [官网](https://hermes-agent.nousresearch.com) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/moonlight-lupin/agent-skills) · [官网](https://hermes-agent.nousresearch.com) · 个人维护
 
 **面向 Hermes Agent 的技能与插件集合，按领域组织**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moonlight-lupin/agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 101 --> 113
     line [102, 104, 108, 109, 110, 111, 112, 112]
 ```
 
-2026-10-18 102 → 2026-10-27 112（+10）
+2026-10-18 102 → 2026-10-28 112（+10）
 
 
 ---

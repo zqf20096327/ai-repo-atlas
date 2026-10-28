@@ -1,6 +1,6 @@
 # tanjeffreyz/auto-maple
 
-⭐ 726 · Python · 推送 2025-12-26 · [GitHub](https://github.com/tanjeffreyz/auto-maple) · 个人维护
+⭐ 727 · Python · 推送 2025-12-26 · [GitHub](https://github.com/tanjeffreyz/auto-maple) · 个人维护
 
 **用 CV 与机器学习自动玩冒险岛（MapleStory）的 Python AI 程序**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tanjeffreyz/auto-maple 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 720 --> 727
-    line [722, 721, 722, 723, 725, 726]
+    title "tanjeffreyz/auto-maple 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 720 --> 728
+    line [722, 721, 722, 723, 725, 726, 727]
 ```
 
-2026-10-18 722 → 2026-10-27 726（+4）
+2026-10-18 722 → 2026-10-28 727（+5）
 
 
 ---

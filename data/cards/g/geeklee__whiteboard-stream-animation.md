@@ -1,6 +1,6 @@
 # geeklee/whiteboard-stream-animation
 
-⭐ 67 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/geeklee/whiteboard-stream-animation) · 个人维护 · 中文 README
+⭐ 70 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/geeklee/whiteboard-stream-animation) · 个人维护 · 中文 README
 
 **把插图渲染为白板手绘动画并导出 H.264 MP4 的 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geeklee/whiteboard-stream-animation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 63 --> 68
-    line [64, 65, 66, 67]
+    title "geeklee/whiteboard-stream-animation 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 63 --> 71
+    line [64, 65, 66, 67, 70]
 ```
 
-2026-10-18 64 → 2026-10-27 67（+3）
+2026-10-18 64 → 2026-10-28 70（+6）
 
 
 ---

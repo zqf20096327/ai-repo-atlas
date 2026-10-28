@@ -1,6 +1,6 @@
 # ROCm/hipBLASLt
 
-⭐ 116 · Assembly · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ROCm/hipBLASLt) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
+⭐ 116 · Assembly · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ROCm/hipBLASLt) · [官网](https://github.com/ROCm/rocm-libraries) · 组织维护
 
 **AMD GPU 上的 GEMM 矩阵运算库（HIP 后端），已弃用迁库**
 
@@ -46,12 +46,12 @@ hipBLASLt 是 AMD ROCm 生态下提供通用矩阵-矩阵运算（GEMM）的库�
 ```mermaid
 xychart-beta
     title "ROCm/hipBLASLt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 115 --> 117
     line [116, 116]
 ```
 
-2026-10-18 116 → 2026-10-27 116（+0）
+2026-10-18 116 → 2026-10-28 116（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Amal-David/gitbook-downloader
 
-⭐ 156 · Python · 推送 2026-05-12 · [GitHub](https://github.com/Amal-David/gitbook-downloader) · [官网](https://docingest.com) · 个人维护
+⭐ 157 · Python · 推送 2026-05-12 · [GitHub](https://github.com/Amal-David/gitbook-downloader) · [官网](https://docingest.com) · 个人维护
 
 **把文档站点抓取转为 Markdown 供 LLM 与编程 agent 使用**
 
@@ -46,12 +46,12 @@ Python 编写的文档站点下载工具：通过插件式提取器（Mintlify/V
 ```mermaid
 xychart-beta
     title "Amal-David/gitbook-downloader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 157]
 ```
 
-2026-10-18 155 → 2026-10-27 156（+1）
+2026-10-18 155 → 2026-10-28 157（+2）
 
 
 ---

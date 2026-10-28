@@ -1,6 +1,6 @@
 # Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall
 
-⭐ 89 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall) · 个人维护
+⭐ 90 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall) · 个人维护
 
 **金融文档多模态 RAG 系统：图表理解、混合检索、数字护栏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 87 --> 91
+    line [88, 89, 90]
 ```
 
-2026-10-18 88 → 2026-10-27 89（+1）
+2026-10-18 88 → 2026-10-28 90（+2）
 
 
 ---

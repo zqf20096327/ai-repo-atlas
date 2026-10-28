@@ -1,6 +1,6 @@
 # dstackai/dstack
 
-⭐ 2,291 · Python · MPL-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
+⭐ 2,292 · Python · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
 
 **面向异构 AI 算力的统一编排控制平面：管理 GPU 并运行训练与推理**
 
@@ -44,13 +44,13 @@ dstack 是一个 GPU 供给与编排的统一控制平面，支持任意 GPU 云
 
 ```mermaid
 xychart-beta
-    title "dstackai/dstack 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2283 --> 2292
-    line [2284, 2285, 2286, 2288, 2289, 2291]
+    title "dstackai/dstack 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2283 --> 2293
+    line [2284, 2285, 2286, 2288, 2289, 2291, 2292]
 ```
 
-2026-10-18 2,284 → 2026-10-27 2,291（+7）
+2026-10-18 2,284 → 2026-10-28 2,292（+8）
 
 
 ---

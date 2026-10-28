@@ -46,12 +46,12 @@ TypeScript/Bun 实现的自动化套利程序：每 3 秒并行拉取 Jupiter、
 ```mermaid
 xychart-beta
     title "CascadeProtocol/Cascade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-27 25（+0）
+2026-10-18 25 → 2026-10-28 25（+0）
 
 
 ---

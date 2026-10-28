@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rudrankriyam/Foundation-Models-Framework-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "rudrankriyam/Foundation-Models-Framework-Lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1188 --> 1192
-    line [1189, 1191]
+    line [1189, 1191, 1191]
 ```
 
-2026-10-18 1,189 → 2026-10-27 1,191（+2）
+2026-10-18 1,189 → 2026-10-28 1,191（+2）
 
 
 ---

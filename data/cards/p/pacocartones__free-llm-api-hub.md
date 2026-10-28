@@ -1,6 +1,6 @@
 # pacocartones/free-llm-api-hub
 
-⭐ 108 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 组织维护
+⭐ 109 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 组织维护
 
 **持续验证的免费 LLM API 数据集：供开发者选型免费模型 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pacocartones/free-llm-api-hub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 92 --> 109
-    line [93, 103, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 92 --> 110
+    line [93, 103, 107, 108, 109]
 ```
 
-2026-10-18 93 → 2026-10-27 108（+15）
+2026-10-18 93 → 2026-10-28 109（+16）
 
 
 ---

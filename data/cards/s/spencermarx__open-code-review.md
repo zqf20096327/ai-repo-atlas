@@ -1,6 +1,6 @@
 # spencermarx/open-code-review
 
-⭐ 380 · TypeScript · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/spencermarx/open-code-review) · 个人维护
+⭐ 382 · TypeScript · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/spencermarx/open-code-review) · 个人维护
 
 **面向 AI 辅助开发的多 agent 代码审查 CLI 与仪表盘**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "spencermarx/open-code-review 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 378 --> 381
-    line [379, 380, 380]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 378 --> 383
+    line [379, 380, 382]
 ```
 
-2026-10-18 379 → 2026-10-27 380（+1）
+2026-10-18 379 → 2026-10-28 382（+3）
 
 
 ---

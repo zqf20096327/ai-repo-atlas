@@ -1,6 +1,6 @@
 # inkeep/open-knowledge
 
-⭐ 4,701 · TypeScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/inkeep/open-knowledge) · [官网](https://openknowledge.ai) · 组织维护
+⭐ 4,715 · TypeScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/inkeep/open-knowledge) · [官网](https://openknowledge.ai) · 组织维护
 
 **面向知识库与 LLM wiki 的本地 markdown IDE，集成多家 AI 编辑器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inkeep/open-knowledge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4596 --> 4710
-    line [4605, 4632, 4667, 4673, 4680, 4686, 4701]
+    title "inkeep/open-knowledge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4594 --> 4726
+    line [4605, 4632, 4667, 4673, 4680, 4686, 4701, 4715]
 ```
 
-2026-10-18 4,605 → 2026-10-27 4,701（+96）
+2026-10-18 4,605 → 2026-10-28 4,715（+110）
 
 
 ---

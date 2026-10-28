@@ -1,6 +1,6 @@
 # alexeyw/knotwork
 
-⭐ 24 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alexeyw/knotwork) · 个人维护
+⭐ 26 · Kotlin · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/alexeyw/knotwork) · 个人维护
 
 **本地优先的 Android 端侧 AI agent 应用，自建管线**
 
@@ -46,13 +46,13 @@ Android 应用，通过 LiteRT-LM 在手机上运行语言模型，典型对话�
 
 ```mermaid
 xychart-beta
-    title "alexeyw/knotwork 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 13 --> 25
-    line [14, 17, 21, 24]
+    title "alexeyw/knotwork 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 13 --> 27
+    line [14, 17, 21, 24, 26]
 ```
 
-2026-10-24 14 → 2026-10-27 24（+10）
+2026-10-24 14 → 2026-10-28 26（+12）
 
 
 ---

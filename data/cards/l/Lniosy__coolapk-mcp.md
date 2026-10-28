@@ -1,6 +1,6 @@
 # Lniosy/coolapk-mcp
 
-⭐ 39 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Lniosy/coolapk-mcp) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Lniosy/coolapk-mcp) · 个人维护 · 中文 README
 
 **酷安社区的 MCP Server + CLI，供 AI 助手检索社区内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lniosy/coolapk-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 33 --> 40
-    line [34, 36, 37, 39, 39]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 33 --> 41
+    line [34, 36, 37, 39, 40]
 ```
 
-2026-10-23 34 → 2026-10-27 39（+5）
+2026-10-23 34 → 2026-10-28 40（+6）
 
 
 ---

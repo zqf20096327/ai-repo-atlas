@@ -1,6 +1,6 @@
 # google-deepmind/synthid-text
 
-⭐ 1,203 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/synthid-text) · 组织维护
+⭐ 1,206 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/synthid-text) · 组织维护
 
 **LLM 文本水印的参考实现：为模型输出加水印并检测**
 
@@ -45,13 +45,13 @@ DeepMind 发表于 Nature 的 SynthID Text 论文的参考实现，提供 LLM �
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/synthid-text 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1180 --> 1205
-    line [1182, 1183, 1187, 1189, 1192, 1194, 1197, 1203]
+    title "google-deepmind/synthid-text 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1180 --> 1208
+    line [1182, 1183, 1187, 1189, 1192, 1194, 1197, 1203, 1206]
 ```
 
-2026-10-18 1,182 → 2026-10-27 1,203（+21）
+2026-10-18 1,182 → 2026-10-28 1,206（+24）
 
 
 ---

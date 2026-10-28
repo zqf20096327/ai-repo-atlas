@@ -1,6 +1,6 @@
 # codecoradev/cora-code
 
-⭐ 29 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/codecoradev/cora-code) · [官网](https://codecora.dev) · 组织维护
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/codecoradev/cora-code) · [官网](https://codecora.dev) · 组织维护
 
 **给开发者的 BYOK AI 代码审查 CLI，本地索引与语义搜索**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行 AI 代码审查与代码智能工具，可在终端、CI
 ```mermaid
 xychart-beta
     title "codecoradev/cora-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

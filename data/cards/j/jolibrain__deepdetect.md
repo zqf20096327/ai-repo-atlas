@@ -1,6 +1,6 @@
 # jolibrain/deepdetect
 
-⭐ 2,551 · C++ · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/jolibrain/deepdetect) · [官网](https://www.deepdetect.com/) · 组织维护
+⭐ 2,551 · C++ · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/jolibrain/deepdetect) · [官网](https://www.deepdetect.com/) · 组织维护
 
 **深度学习训练与推理服务器及 CLI 运行时**
 
@@ -46,12 +46,12 @@ DeepDetect 提供深度学习运行时、命令行工具与 REST 服务器，覆
 ```mermaid
 xychart-beta
     title "jolibrain/deepdetect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 2550 --> 2552
     line [2551, 2551]
 ```
 
-2026-10-18 2,551 → 2026-10-27 2,551（+0）
+2026-10-18 2,551 → 2026-10-28 2,551（+0）
 
 
 ---

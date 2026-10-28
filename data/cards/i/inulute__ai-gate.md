@@ -1,6 +1,6 @@
 # inulute/ai-gate
 
-⭐ 220 · TypeScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/ai-gate) · [官网](https://aigate.inulute.com) · 个人维护
+⭐ 219 · TypeScript · GPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/inulute/ai-gate) · [官网](https://aigate.inulute.com) · 个人维护
 
 **桌面聚合客户端：在一个应用内同时使用多个 AI 网页工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inulute/ai-gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 219 --> 221
-    line [220, 220]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 218 --> 221
+    line [220, 219]
 ```
 
-2026-10-18 220 → 2026-10-27 220（+0）
+2026-10-18 220 → 2026-10-28 219（-1）
 
 
 ---

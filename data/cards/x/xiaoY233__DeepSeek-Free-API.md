@@ -1,6 +1,6 @@
 # xiaoY233/DeepSeek-Free-API
 
-⭐ 93 · TypeScript · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/xiaoY233/DeepSeek-Free-API) · [官网](https://platform.deepseek.com/) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · GPL-3.0 · 推送 2026-02-26 · [GitHub](https://github.com/xiaoY233/DeepSeek-Free-API) · [官网](https://platform.deepseek.com/) · 个人维护 · 中文 README
 
 **DeepSeek 网页端逆向免费 API 服务，供自用测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaoY233/DeepSeek-Free-API 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    line [92, 93, 92]
 ```
 
-2026-10-18 92 → 2026-10-27 93（+1）
+2026-10-18 92 → 2026-10-28 92（+0）
 
 
 ---

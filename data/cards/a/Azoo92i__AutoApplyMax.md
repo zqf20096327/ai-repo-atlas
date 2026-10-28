@@ -1,6 +1,6 @@
 # Azoo92i/AutoApplyMax
 
-⭐ 65 · JavaScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Azoo92i/AutoApplyMax) · [官网](https://www.autoapplymax.com) · 个人维护
+⭐ 65 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Azoo92i/AutoApplyMax) · [官网](https://www.autoapplymax.com) · 个人维护
 
 **求职者用的 AI 自动投递 Chrome 扩展与求职仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azoo92i/AutoApplyMax 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "Azoo92i/AutoApplyMax 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 62 --> 66
-    line [63, 64, 65]
+    line [63, 64, 65, 65]
 ```
 
-2026-10-18 63 → 2026-10-27 65（+2）
+2026-10-18 63 → 2026-10-28 65（+2）
 
 
 ---

@@ -44,13 +44,13 @@ CircuitValley 开发的开源机器视觉相机系统，采用 FPGA 实现 ISP�
 
 ```mermaid
 xychart-beta
-    title "circuitvalley/CHC5_Open_Camera 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "circuitvalley/CHC5_Open_Camera 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 114 --> 120
-    line [115, 118, 119]
+    line [115, 118, 119, 119]
 ```
 
-2026-10-18 115 → 2026-10-27 119（+4）
+2026-10-18 115 → 2026-10-28 119（+4）
 
 
 ---

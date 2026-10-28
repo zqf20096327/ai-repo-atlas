@@ -1,6 +1,6 @@
 # delibae/claude-prism
 
-⭐ 1,828 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/delibae/claude-prism) · [官网](https://claudeprism.delibae.dev) · 个人维护 · 中文 README
+⭐ 1,829 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/delibae/claude-prism) · [官网](https://claudeprism.delibae.dev) · 个人维护 · 中文 README
 
 **本地优先的科研写作桌面工作台：LaTeX+Python+Claude 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "delibae/claude-prism 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1817 --> 1829
-    line [1818, 1822, 1823, 1825, 1827, 1828, 1828]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 1817 --> 1830
+    line [1818, 1822, 1823, 1825, 1827, 1828, 1829]
 ```
 
-2026-10-18 1,818 → 2026-10-27 1,828（+10）
+2026-10-18 1,818 → 2026-10-28 1,829（+11）
 
 
 ---

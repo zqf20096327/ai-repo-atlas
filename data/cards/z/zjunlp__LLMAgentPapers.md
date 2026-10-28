@@ -1,6 +1,6 @@
 # zjunlp/LLMAgentPapers
 
-⭐ 3,137 · 推送 2026-10-24 · [GitHub](https://github.com/zjunlp/LLMAgentPapers) · 组织维护
+⭐ 3,138 · 推送 2026-10-27 · [GitHub](https://github.com/zjunlp/LLMAgentPapers) · 组织维护
 
 **LLM Agent 领域必读论文清单：按主题分类收录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/LLMAgentPapers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 3130 --> 3138
-    line [3131, 3133, 3136, 3137, 3137]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 3130 --> 3139
+    line [3131, 3133, 3136, 3137, 3138]
 ```
 
-2026-10-18 3,131 → 2026-10-27 3,137（+6）
+2026-10-18 3,131 → 2026-10-28 3,138（+7）
 
 
 ---

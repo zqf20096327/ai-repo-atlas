@@ -1,6 +1,6 @@
 # Shape-Lab/SPHARM-Net
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Shape-Lab/SPHARM-Net) · [官网](https://doi.org/10.1109/TMI.2022.3168670) · 组织维护
+⭐ 109 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Shape-Lab/SPHARM-Net) · [官网](https://doi.org/10.1109/TMI.2022.3168670) · 组织维护
 
 **球谐卷积神经网络：对皮层球面数据做逐顶点分割**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shape-Lab/SPHARM-Net 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 99 --> 104
-    line [100, 101, 103]
+    title "Shape-Lab/SPHARM-Net 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 99 --> 110
+    line [100, 101, 103, 109]
 ```
 
-2026-10-18 100 → 2026-10-27 103（+3）
+2026-10-18 100 → 2026-10-28 109（+9）
 
 
 ---

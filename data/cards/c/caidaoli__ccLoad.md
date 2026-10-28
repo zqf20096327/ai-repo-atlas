@@ -1,6 +1,6 @@
 # caidaoli/ccLoad
 
-⭐ 428 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/caidaoli/ccLoad) · [官网](https://ccload.xyz) · 个人维护 · 中文 README
+⭐ 428 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/caidaoli/ccLoad) · [官网](https://ccload.xyz) · 个人维护 · 中文 README
 
 **自托管 AI API 网关：聚合多来源账号与密钥，供 Claude Code/Codex 等客户端统一接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "caidaoli/ccLoad 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    title "caidaoli/ccLoad 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 421 --> 429
-    line [422, 425, 426, 427, 428]
+    line [422, 425, 426, 427, 428, 428]
 ```
 
-2026-10-18 422 → 2026-10-27 428（+6）
+2026-10-18 422 → 2026-10-28 428（+6）
 
 
 ---

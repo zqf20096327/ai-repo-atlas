@@ -1,6 +1,6 @@
 # samihalawa/visual-ui-debug-agent-mcp
 
-⭐ 83 · JavaScript · ISC · 推送 2026-10-01 · [GitHub](https://github.com/samihalawa/visual-ui-debug-agent-mcp) · [官网](https://www.npmjs.com/package/visual-ui-debug-agent-mcp) · 个人维护
+⭐ 84 · JavaScript · ISC · 推送 2026-10-01 · [GitHub](https://github.com/samihalawa/visual-ui-debug-agent-mcp) · [官网](https://www.npmjs.com/package/visual-ui-debug-agent-mcp) · 个人维护
 
 **给 MCP 客户端提供浏览器 UI 检查与测试能力的 MCP 服务器**
 
@@ -46,12 +46,12 @@ VUDA 是一个基于 Playwright 的 Model Context Protocol (MCP) 服务器，通
 ```mermaid
 xychart-beta
     title "samihalawa/visual-ui-debug-agent-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 82 --> 85
+    line [83, 84]
 ```
 
-2026-10-18 83 → 2026-10-27 83（+0）
+2026-10-18 83 → 2026-10-28 84（+1）
 
 
 ---

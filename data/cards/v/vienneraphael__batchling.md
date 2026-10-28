@@ -1,6 +1,6 @@
 # vienneraphael/batchling
 
-⭐ 22 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/vienneraphael/batchling) · [官网](https://batchling.pages.dev) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/vienneraphael/batchling) · [官网](https://batchling.pages.dev) · 个人维护
 
 **把异步 GenAI 调用转为半价批处理任务的 Python 插件**
 
@@ -46,12 +46,12 @@ Python 库加 CLI，将使用 asyncio 的 GenAI 异步函数或脚本转换为 B
 ```mermaid
 xychart-beta
     title "vienneraphael/batchling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 23（+1）
 
 
 ---

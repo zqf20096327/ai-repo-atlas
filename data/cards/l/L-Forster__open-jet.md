@@ -1,6 +1,6 @@
 # L-Forster/open-jet
 
-⭐ 106 · Python · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/L-Forster/open-jet) · [官网](https://www.openjet.dev/) · 个人维护
+⭐ 114 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/L-Forster/open-jet) · [官网](https://www.openjet.dev/) · 个人维护
 
 **本地模型离线编程 agent 与自带 CUDA 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "L-Forster/open-jet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 96 --> 107
-    line [97, 98, 101, 102, 104, 106]
+    title "L-Forster/open-jet 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 96 --> 115
+    line [97, 98, 101, 102, 104, 106, 114]
 ```
 
-2026-10-18 97 → 2026-10-27 106（+9）
+2026-10-18 97 → 2026-10-28 114（+17）
 
 
 ---

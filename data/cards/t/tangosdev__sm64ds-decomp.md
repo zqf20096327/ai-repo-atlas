@@ -1,6 +1,6 @@
 # tangosdev/sm64ds-decomp
 
-⭐ 225 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tangosdev/sm64ds-decomp) · [官网](https://tangos.dev) · 组织维护
+⭐ 228 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tangosdev/sm64ds-decomp) · [官网](https://tangos.dev) · 组织维护
 
 **Super Mario 64 DS 的逐字节匹配反编译工程（C/C++ 源码与工具链）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tangosdev/sm64ds-decomp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 201 --> 227
-    line [203, 216, 221, 223, 224, 225]
+    title "tangosdev/sm64ds-decomp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 201 --> 230
+    line [203, 216, 221, 223, 224, 225, 228]
 ```
 
-2026-10-18 203 → 2026-10-27 225（+22）
+2026-10-18 203 → 2026-10-28 228（+25）
 
 
 ---

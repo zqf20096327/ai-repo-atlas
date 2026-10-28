@@ -1,6 +1,6 @@
 # hypit-ai/hypitoken
 
-⭐ 67 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/hypit-ai/hypitoken) · [官网](https://github.com/cashdiffusion/hypitoken) · 组织维护 · 中文 README
+⭐ 69 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/hypit-ai/hypitoken) · [官网](https://github.com/cashdiffusion/hypitoken) · 组织维护 · 中文 README
 
 **自托管多租户 LLM API 网关：Claude/Codex 凭据池与美元钱包计费**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hypit-ai/hypitoken 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 55 --> 68
-    line [56, 59, 62, 65, 66, 67]
+    title "hypit-ai/hypitoken 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 55 --> 70
+    line [56, 59, 62, 65, 66, 67, 69]
 ```
 
-2026-10-18 56 → 2026-10-27 67（+11）
+2026-10-18 56 → 2026-10-28 69（+13）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlackTechX011/HacxGPT-Jailbreak-prompts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    title "BlackTechX011/HacxGPT-Jailbreak-prompts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
     y-axis "stars" 217 --> 222
-    line [218, 220, 221]
+    line [218, 220, 221, 221]
 ```
 
-2026-10-18 218 → 2026-10-27 221（+3）
+2026-10-18 218 → 2026-10-28 221（+3）
 
 
 ---

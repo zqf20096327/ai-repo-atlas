@@ -1,6 +1,6 @@
 # deathcats4/scholar-ppt-cn
 
-⭐ 56 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/deathcats4/scholar-ppt-cn) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/deathcats4/scholar-ppt-cn) · 个人维护 · 中文 README
 
 **给 Codex/ChatGPT 的中文学术 PPT 生成技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deathcats4/scholar-ppt-cn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 51 --> 57
-    line [52, 54, 55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 51 --> 58
+    line [52, 54, 55, 56, 57]
 ```
 
-2026-10-18 52 → 2026-10-27 56（+4）
+2026-10-18 52 → 2026-10-28 57（+5）
 
 
 ---

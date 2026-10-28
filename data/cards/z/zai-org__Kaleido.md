@@ -1,6 +1,6 @@
 # zai-org/Kaleido
 
-⭐ 149 · Python · 推送 2026-03-02 · [GitHub](https://github.com/zai-org/Kaleido) · 组织维护 · 中文 README
+⭐ 150 · Python · 推送 2026-03-02 · [GitHub](https://github.com/zai-org/Kaleido) · 组织维护 · 中文 README
 
 **多主体参考图像驱动的视频生成模型（14B）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zai-org/Kaleido 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 148 --> 150
-    line [149, 149]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 148 --> 151
+    line [149, 150]
 ```
 
-2026-10-18 149 → 2026-10-27 149（+0）
+2026-10-18 149 → 2026-10-28 150（+1）
 
 
 ---

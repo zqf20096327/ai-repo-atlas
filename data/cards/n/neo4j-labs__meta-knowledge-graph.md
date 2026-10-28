@@ -1,6 +1,6 @@
 # neo4j-labs/meta-knowledge-graph
 
-⭐ 33 · Python · 推送 2026-09-07 · [GitHub](https://github.com/neo4j-labs/meta-knowledge-graph) · 组织维护
+⭐ 34 · Python · 推送 2026-09-07 · [GitHub](https://github.com/neo4j-labs/meta-knowledge-graph) · 组织维护
 
 **给 AI agent 的自学习图记忆层，基于 Neo4j**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neo4j-labs/meta-knowledge-graph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 34（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lumonote/lumo-trade
 
-⭐ 27 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Lumonote/lumo-trade) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Lumonote/lumo-trade) · 个人维护 · 中文 README
 
 **本地优先的 A 股智能投研工作站：行情、量化评分与模拟复盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lumonote/lumo-trade 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 25 --> 28
-    line [27, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 25 --> 29
+    line [27, 26, 27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

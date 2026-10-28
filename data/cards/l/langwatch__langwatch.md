@@ -1,6 +1,6 @@
 # langwatch/langwatch
 
-⭐ 4,992 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/langwatch/langwatch) · [官网](https://langwatch.ai) · 组织维护
+⭐ 4,996 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/langwatch/langwatch) · [官网](https://langwatch.ai) · 组织维护
 
 **面向 AI 平台团队的开源 Agent 可观测与评测平台**
 
@@ -46,12 +46,12 @@ LangWatch 是开源的 LLM 生产平台（open-core，Apache 2.0 核心加企业
 ```mermaid
 xychart-beta
     title "langwatch/langwatch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4966 --> 4994
-    line [4968, 4983, 4986, 4988, 4989, 4991, 4992, 4992]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 4966 --> 4998
+    line [4968, 4983, 4986, 4988, 4989, 4991, 4992, 4996]
 ```
 
-2026-10-18 4,968 → 2026-10-27 4,992（+24）
+2026-10-18 4,968 → 2026-10-28 4,996（+28）
 
 
 ---

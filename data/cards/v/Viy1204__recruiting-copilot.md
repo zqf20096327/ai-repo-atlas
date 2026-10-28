@@ -1,6 +1,6 @@
 # Viy1204/recruiting-copilot
 
-⭐ 99 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Viy1204/recruiting-copilot) · 个人维护 · 中文 README
+⭐ 103 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Viy1204/recruiting-copilot) · 个人维护 · 中文 README
 
 **给 HR/猎头的 AI 招聘工作流：寻源初筛到台账日报全流程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Viy1204/recruiting-copilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 89 --> 100
-    line [90, 92, 93, 96, 97, 99]
+    title "Viy1204/recruiting-copilot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 89 --> 104
+    line [90, 92, 93, 96, 97, 99, 103]
 ```
 
-2026-10-18 90 → 2026-10-27 99（+9）
+2026-10-18 90 → 2026-10-28 103（+13）
 
 
 ---

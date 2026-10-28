@@ -1,6 +1,6 @@
 # girijesh-ai/ai-interview-codex
 
-⭐ 534 · Python · 推送 2026-01-16 · [GitHub](https://github.com/girijesh-ai/ai-interview-codex) · 个人维护
+⭐ 535 · Python · 推送 2026-01-16 · [GitHub](https://github.com/girijesh-ai/ai-interview-codex) · 个人维护
 
 **ML/AI 工程岗面试备考资料库：从算法到 LLM 系统设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "girijesh-ai/ai-interview-codex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 529 --> 535
-    line [530, 531, 532, 533, 534, 534]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 529 --> 536
+    line [530, 531, 532, 533, 534, 535]
 ```
 
-2026-10-18 530 → 2026-10-27 534（+4）
+2026-10-18 530 → 2026-10-28 535（+5）
 
 
 ---

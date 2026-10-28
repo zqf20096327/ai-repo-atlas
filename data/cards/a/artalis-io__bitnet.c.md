@@ -1,6 +1,6 @@
 # artalis-io/bitnet.c
 
-⭐ 30 · C · MIT · 推送 2026-09-19 · [GitHub](https://github.com/artalis-io/bitnet.c) · 组织维护
+⭐ 31 · C · MIT · 推送 2026-09-19 · [GitHub](https://github.com/artalis-io/bitnet.c) · 组织维护
 
 **纯 C11 的 GGUF LLM CPU 推理引擎，零依赖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "artalis-io/bitnet.c 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 31（+1）
 
 
 ---

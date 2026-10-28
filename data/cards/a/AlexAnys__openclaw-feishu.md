@@ -1,6 +1,6 @@
 # AlexAnys/openclaw-feishu
 
-⭐ 689 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/AlexAnys/openclaw-feishu) · 个人维护 · 中文 README
+⭐ 688 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/AlexAnys/openclaw-feishu) · 个人维护 · 中文 README
 
 **飞书接入 OpenClaw 的配置指南与社区支持仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlexAnys/openclaw-feishu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 688 --> 690
-    line [689, 689]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 687 --> 690
+    line [689, 688]
 ```
 
-2026-10-18 689 → 2026-10-27 689（+0）
+2026-10-18 689 → 2026-10-28 688（-1）
 
 
 ---

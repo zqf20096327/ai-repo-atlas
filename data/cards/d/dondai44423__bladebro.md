@@ -1,6 +1,6 @@
 # dondai44423/bladebro
 
-⭐ 333 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/dondai44423/bladebro) · 个人维护
+⭐ 334 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dondai44423/bladebro) · 个人维护
 
 **给 AI agent 用的 Rust 浏览器驱动：MCP/CLI，5 工具全控真实浏览器**
 
@@ -45,12 +45,12 @@ Rust 编写的 agentic 浏览器驱动，以单一 MCP server 与 CLI 形式向 
 ```mermaid
 xychart-beta
     title "dondai44423/bladebro 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 317 --> 334
-    line [318, 324, 327, 331, 333, 333]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 317 --> 335
+    line [318, 324, 327, 331, 333, 334]
 ```
 
-2026-10-18 318 → 2026-10-27 333（+15）
+2026-10-18 318 → 2026-10-28 334（+16）
 
 
 ---

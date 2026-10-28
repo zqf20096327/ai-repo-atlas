@@ -1,6 +1,6 @@
 # hpcaitech/Open-Sora
 
-⭐ 29,878 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
+⭐ 29,882 · Python · Apache-2.0 · 推送 2026-04-09 · [GitHub](https://github.com/hpcaitech/Open-Sora) · [官网](https://hpcaitech.github.io/Open-Sora/) · 组织维护
 
 **面向开发者的开源高质量视频生成模型与训练工具集**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "hpcaitech/Open-Sora 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 29869 --> 29879
-    line [29871, 29870, 29875, 29873, 29875, 29878]
+    title "hpcaitech/Open-Sora 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 29869 --> 29883
+    line [29871, 29870, 29875, 29873, 29875, 29878, 29882]
 ```
 
-2026-10-18 29,871 → 2026-10-27 29,878（+7）
+2026-10-18 29,871 → 2026-10-28 29,882（+11）
 
 
 ---

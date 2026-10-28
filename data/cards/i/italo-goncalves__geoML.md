@@ -1,6 +1,6 @@
 # italo-goncalves/geoML
 
-⭐ 117 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/italo-goncalves/geoML) · 个人维护
+⭐ 117 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/italo-goncalves/geoML) · 个人维护
 
 **地质空间建模 Python 库：机器学习实现空间插值与隐式建模**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "italo-goncalves/geoML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "italo-goncalves/geoML 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 111 --> 118
-    line [112, 113, 114, 115, 117]
+    line [112, 113, 114, 115, 117, 117]
 ```
 
-2026-10-18 112 → 2026-10-27 117（+5）
+2026-10-18 112 → 2026-10-28 117（+5）
 
 
 ---

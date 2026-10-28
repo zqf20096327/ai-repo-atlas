@@ -1,6 +1,6 @@
 # ry-ops/proxmox-mcp-server
 
-⭐ 42 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ry-ops/proxmox-mcp-server) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ry-ops/proxmox-mcp-server) · 个人维护
 
 **通过 MCP 让 AI 客户端管理 Proxmox 虚拟化集群的服务器**
 
@@ -47,12 +47,12 @@ Python 编写的 Model Context Protocol 服务器，把 Proxmox VE REST API 暴�
 ```mermaid
 xychart-beta
     title "ry-ops/proxmox-mcp-server 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 33 --> 43
-    line [34, 37, 40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 33 --> 45
+    line [34, 37, 40, 41, 42, 44]
 ```
 
-2026-10-18 34 → 2026-10-27 42（+8）
+2026-10-18 34 → 2026-10-28 44（+10）
 
 
 ---

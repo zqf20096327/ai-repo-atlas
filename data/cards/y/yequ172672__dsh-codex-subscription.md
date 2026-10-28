@@ -1,6 +1,6 @@
 # yequ172672/dsh-codex-subscription
 
-⭐ 23 · JavaScript · 推送 2026-10-07 · [GitHub](https://github.com/yequ172672/dsh-codex-subscription) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · 推送 2026-10-07 · [GitHub](https://github.com/yequ172672/dsh-codex-subscription) · 个人维护 · 中文 README
 
 **DSH 插件：复用 Codex CLI 登录凭证在 DSH 中使用 ChatGPT 订阅模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yequ172672/dsh-codex-subscription 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-27 23（+2）
+2026-10-18 21 → 2026-10-28 24（+3）
 
 
 ---

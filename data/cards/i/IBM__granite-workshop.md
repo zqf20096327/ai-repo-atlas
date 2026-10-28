@@ -1,6 +1,6 @@
 # IBM/granite-workshop
 
-⭐ 49 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/IBM/granite-workshop) · [官网](https://ibm.github.io/granite-workshop/) · 组织维护
+⭐ 49 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/IBM/granite-workshop) · [官网](https://ibm.github.io/granite-workshop/) · 组织维护
 
 **IBM Granite 基础模型 AI 研讨会教程站（GitHub Pages）**
 
@@ -44,12 +44,12 @@ IBM Granite 基础模型 AI 研讨会的源码仓库，使用 Material for MkDoc
 ```mermaid
 xychart-beta
     title "IBM/granite-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-28 49（+0）
 
 
 ---

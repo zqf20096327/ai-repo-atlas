@@ -1,6 +1,6 @@
 # longyunfeigu/learn-hermes-agent
 
-⭐ 236 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/longyunfeigu/learn-hermes-agent) · 个人维护 · 中文 README
+⭐ 237 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/longyunfeigu/learn-hermes-agent) · 个人维护 · 中文 README
 
 **从零构建自主 AI agent 的 27 章实践教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "longyunfeigu/learn-hermes-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 234 --> 237
-    line [235, 236, 236]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 234 --> 238
+    line [235, 236, 237]
 ```
 
-2026-10-18 235 → 2026-10-27 236（+1）
+2026-10-18 235 → 2026-10-28 237（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # natayadev/dataengineering-roadmap
 
-⭐ 905 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/natayadev/dataengineering-roadmap) · [官网](https://natayadev.github.io/dataengineering-roadmap/) · 个人维护
+⭐ 912 · MIT · 推送 2026-02-28 · [GitHub](https://github.com/natayadev/dataengineering-roadmap) · [官网](https://natayadev.github.io/dataengineering-roadmap/) · 个人维护
 
 **西班牙语数据工程学习路线图：免费资源与挑战清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "natayadev/dataengineering-roadmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 902 --> 906
-    line [903, 904, 905]
+    title "natayadev/dataengineering-roadmap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 902 --> 913
+    line [903, 904, 905, 912]
 ```
 
-2026-10-18 903 → 2026-10-27 905（+2）
+2026-10-18 903 → 2026-10-28 912（+9）
 
 
 ---

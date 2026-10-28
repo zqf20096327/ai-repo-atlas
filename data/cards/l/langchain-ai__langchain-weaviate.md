@@ -1,6 +1,6 @@
 # langchain-ai/langchain-weaviate
 
-⭐ 70 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-weaviate) · [官网](https://docs.langchain.com/oss/python/integrations/providers/weaviate) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-weaviate) · [官网](https://docs.langchain.com/oss/python/integrations/providers/weaviate) · 组织维护
 
 **LangChain 与 Weaviate 向量数据库的集成接口包**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-weaviate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 68 --> 71
-    line [70, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 68 --> 72
+    line [70, 69, 70, 71]
 ```
 
-2026-10-18 70 → 2026-10-27 70（+0）
+2026-10-18 70 → 2026-10-28 71（+1）
 
 
 ---

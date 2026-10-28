@@ -46,12 +46,12 @@ DeepMind 发布的图像混淆基准配套代码与数据集：对 ILSVRC2012 �
 ```mermaid
 xychart-beta
     title "google-deepmind/image_obfuscation_benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

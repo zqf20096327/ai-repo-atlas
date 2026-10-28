@@ -1,6 +1,6 @@
 # channprj/kmsg
 
-⭐ 279 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/channprj/kmsg) · [官网](https://channprj.github.io/kmsg/) · 个人维护
+⭐ 281 · Swift · MIT · 推送 2026-09-21 · [GitHub](https://github.com/channprj/kmsg) · [官网](https://channprj.github.io/kmsg/) · 个人维护
 
 **macOS 非官方 KakaoTalk CLI 与原生 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "channprj/kmsg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 275 --> 280
-    line [276, 278, 279, 279]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 275 --> 282
+    line [276, 278, 279, 281]
 ```
 
-2026-10-18 276 → 2026-10-27 279（+3）
+2026-10-18 276 → 2026-10-28 281（+5）
 
 
 ---

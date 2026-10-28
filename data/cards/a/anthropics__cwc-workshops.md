@@ -1,6 +1,6 @@
 # anthropics/cwc-workshops
 
-⭐ 2,227 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/anthropics/cwc-workshops) · 组织维护
+⭐ 2,232 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/anthropics/cwc-workshops) · 组织维护
 
 **Anthropic 官方 Code with Claude 工作坊材料合集**
 
@@ -43,13 +43,13 @@ Anthropic 举办的 Code with Claude 系列工作坊的教学材料仓库，含 
 
 ```mermaid
 xychart-beta
-    title "anthropics/cwc-workshops 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 2182 --> 2231
-    line [2186, 2197, 2206, 2210, 2214, 2217, 2223, 2227]
+    title "anthropics/cwc-workshops 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2182 --> 2236
+    line [2186, 2197, 2206, 2210, 2214, 2217, 2223, 2227, 2232]
 ```
 
-2026-10-18 2,186 → 2026-10-27 2,227（+41）
+2026-10-18 2,186 → 2026-10-28 2,232（+46）
 
 
 ---

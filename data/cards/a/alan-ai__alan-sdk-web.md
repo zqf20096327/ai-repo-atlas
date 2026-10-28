@@ -1,6 +1,6 @@
 # alan-ai/alan-sdk-web
 
-⭐ 2,423 · 推送 2026-09-14 · [GitHub](https://github.com/alan-ai/alan-sdk-web) · [官网](https://alan.app/) · 组织维护
+⭐ 2,422 · 推送 2026-09-14 · [GitHub](https://github.com/alan-ai/alan-sdk-web) · [官网](https://alan.app/) · 组织维护
 
 **将 Alan AI 生成式智能体嵌入 Web 应用的官方 SDK**
 
@@ -44,13 +44,13 @@ Alan AI 公司发布的 Web 端 SDK，用于把 Alan AI 平台（自称基于 Th
 
 ```mermaid
 xychart-beta
-    title "alan-ai/alan-sdk-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 2422 --> 2426
-    line [2425, 2424, 2423]
+    title "alan-ai/alan-sdk-web 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2421 --> 2426
+    line [2425, 2424, 2423, 2422]
 ```
 
-2026-10-18 2,425 → 2026-10-27 2,423（-2）
+2026-10-18 2,425 → 2026-10-28 2,422（-3）
 
 
 ---

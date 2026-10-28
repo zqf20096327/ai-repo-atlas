@@ -1,6 +1,6 @@
 # TienNHM/ebooks
 
-⭐ 567 · 推送 2026-10-02 · [GitHub](https://github.com/TienNHM/ebooks) · [官网](http://tiennhm.io.vn/ebooks/) · 个人维护
+⭐ 569 · 推送 2026-10-02 · [GitHub](https://github.com/TienNHM/ebooks) · [官网](http://tiennhm.io.vn/ebooks/) · 个人维护
 
 **信息技术领域电子书聚合清单，面向程序员与学生**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TienNHM/ebooks 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 566 --> 569
-    line [567, 568, 567, 567]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 566 --> 570
+    line [567, 568, 567, 569]
 ```
 
-2026-10-18 567 → 2026-10-27 567（+0）
+2026-10-18 567 → 2026-10-28 569（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Stability-AI/StableSwarmUI
 
-⭐ 4,937 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Stability-AI/StableSwarmUI) · 组织维护
+⭐ 4,941 · C# · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Stability-AI/StableSwarmUI) · 组织维护
 
 **模块化 Stable Diffusion 网页界面，已停维并迁移至 SwarmUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stability-AI/StableSwarmUI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "Stability-AI/StableSwarmUI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 4936 --> 4942
-    line [4941, 4940, 4941, 4940, 4939, 4938, 4937]
+    line [4941, 4940, 4941, 4940, 4939, 4938, 4937, 4941]
 ```
 
-2026-10-18 4,941 → 2026-10-27 4,937（-4）
+2026-10-18 4,941 → 2026-10-28 4,941（+0）
 
 
 ---

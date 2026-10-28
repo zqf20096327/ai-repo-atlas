@@ -1,6 +1,6 @@
 # krzjoa/awesome-python-data-science
 
-⭐ 3,622 · CC-BY-4.0 · 推送 2026-04-13 · [GitHub](https://github.com/krzjoa/awesome-python-data-science) · [官网](https://krzjoa.github.io/awesome-python-data-science) · 个人维护
+⭐ 3,621 · CC-BY-4.0 · 推送 2026-04-13 · [GitHub](https://github.com/krzjoa/awesome-python-data-science) · [官网](https://krzjoa.github.io/awesome-python-data-science) · 个人维护
 
 **Python 数据科学软件策展清单：机器学习/深度学习等库收录**
 
@@ -43,13 +43,13 @@ Awesome 系列的 Python 数据科学库聚合清单，按机器学习（通用/
 
 ```mermaid
 xychart-beta
-    title "krzjoa/awesome-python-data-science 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "krzjoa/awesome-python-data-science 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 3611 --> 3623
-    line [3612, 3615, 3619, 3621, 3620, 3621, 3622]
+    line [3612, 3615, 3619, 3621, 3620, 3621, 3622, 3621]
 ```
 
-2026-10-18 3,612 → 2026-10-27 3,622（+10）
+2026-10-18 3,612 → 2026-10-28 3,621（+9）
 
 
 ---

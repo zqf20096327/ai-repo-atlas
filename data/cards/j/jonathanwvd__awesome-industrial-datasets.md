@@ -1,6 +1,6 @@
 # jonathanwvd/awesome-industrial-datasets
 
-⭐ 613 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/jonathanwvd/awesome-industrial-datasets) · 个人维护
+⭐ 614 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/jonathanwvd/awesome-industrial-datasets) · 个人维护
 
 **工业领域公开数据集策展清单（190 条，多行业）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jonathanwvd/awesome-industrial-datasets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 602 --> 614
-    line [603, 604, 610, 613, 613]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 602 --> 615
+    line [603, 604, 610, 613, 614]
 ```
 
-2026-10-18 603 → 2026-10-27 613（+10）
+2026-10-18 603 → 2026-10-28 614（+11）
 
 
 ---

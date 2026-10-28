@@ -1,6 +1,6 @@
 # Lemon177777/mcd-omni-assistant
 
-⭐ 100 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lemon177777/mcd-omni-assistant) · 个人维护 · 中文 README
+⭐ 99 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Lemon177777/mcd-omni-assistant) · 个人维护 · 中文 README
 
 **基于麦当劳中国 MCP 的点餐 Agent Skill 与 CLI 通道**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lemon177777/mcd-omni-assistant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 45 --> 105
-    line [50, 59, 64, 74, 84, 100, 100]
+    line [50, 59, 64, 74, 84, 100, 99]
 ```
 
-2026-10-18 50 → 2026-10-27 100（+50）
+2026-10-18 50 → 2026-10-28 99（+49）
 
 
 ---

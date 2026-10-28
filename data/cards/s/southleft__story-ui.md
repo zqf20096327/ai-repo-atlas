@@ -1,6 +1,6 @@
 # southleft/story-ui
 
-⭐ 236 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/southleft/story-ui) · 个人维护
+⭐ 237 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/southleft/story-ui) · 个人维护
 
 **嵌入 Storybook 的 AI 界面生成工具：用描述生成真实 story 文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "southleft/story-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "southleft/story-ui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 235 --> 238
-    line [237, 236]
+    line [237, 236, 237]
 ```
 
-2026-10-18 237 → 2026-10-27 236（-1）
+2026-10-18 237 → 2026-10-28 237（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kanitvural/aws-data-science-data-engineering-mlops-infra
 
-⭐ 59 · Jupyter Notebook · MIT · 推送 2026-06-28 · [GitHub](https://github.com/kanitvural/aws-data-science-data-engineering-mlops-infra) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AWS 端到端数据与 AI 平台：实时航班延误预测 + 多 Agent 聊天**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

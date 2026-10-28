@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-27 88（+0）
+2026-10-18 88 → 2026-10-28 88（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yugef3h/interview-yuge
 
-⭐ 68 · JavaScript · 推送 2026-07-09 · [GitHub](https://github.com/yugef3h/interview-yuge) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · 推送 2026-07-09 · [GitHub](https://github.com/yugef3h/interview-yuge) · 个人维护 · 中文 README
 
 **全栈/算法面试题与推演资料的中文合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yugef3h/interview-yuge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 64 --> 69
-    line [65, 66, 68, 68]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 64 --> 70
+    line [65, 66, 68, 69]
 ```
 
-2026-10-18 65 → 2026-10-27 68（+3）
+2026-10-18 65 → 2026-10-28 69（+4）
 
 
 ---

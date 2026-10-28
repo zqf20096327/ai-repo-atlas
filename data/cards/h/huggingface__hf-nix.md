@@ -1,6 +1,6 @@
 # huggingface/hf-nix
 
-⭐ 29 · Nix · 推送 2026-10-14 · [GitHub](https://github.com/huggingface/hf-nix) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Hugging Face 内部 Nix 软件包集合与二进制缓存 flake**
 

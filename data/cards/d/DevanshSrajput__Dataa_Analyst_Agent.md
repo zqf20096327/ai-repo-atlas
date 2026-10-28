@@ -47,12 +47,12 @@ Python + Streamlit 构建的文档分析 Web 应用，面向终端用户：支�
 ```mermaid
 xychart-beta
     title "DevanshSrajput/Dataa_Analyst_Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

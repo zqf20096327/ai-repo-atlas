@@ -1,6 +1,6 @@
 # Haidra-Org/horde-sdk
 
-⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/Haidra-Org/horde-sdk) · [官网](https://aihorde.net/) · 组织维护
+⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Haidra-Org/horde-sdk) · [官网](https://aihorde.net/) · 组织维护
 
 **与 AI-Horde 免费生成式 AI API 交互的 Python SDK**
 
@@ -44,12 +44,12 @@ Haidra 社区组织维护的 Python 库，为 AI Horde 志愿者运行的服务�
 ```mermaid
 xychart-beta
     title "Haidra-Org/horde-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 44（+0）
 
 
 ---

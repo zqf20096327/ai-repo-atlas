@@ -45,12 +45,12 @@ Go 编写的命令行工具：读取 staged diff，调用 LLM 生成 commit mess
 ```mermaid
 xychart-beta
     title "christian-gama/autocommit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-27 46（+0）
+2026-10-18 46 → 2026-10-28 46（+0）
 
 
 ---

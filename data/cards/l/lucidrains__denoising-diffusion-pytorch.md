@@ -1,6 +1,6 @@
 # lucidrains/denoising-diffusion-pytorch
 
-⭐ 10,719 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch) · 个人维护
+⭐ 10,720 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch) · 个人维护
 
 **PyTorch 版去噪扩散概率模型（DDPM）实现库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/denoising-diffusion-pytorch 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 10703 --> 10720
-    line [10704, 10708, 10711, 10713, 10715, 10716, 10719]
+    title "lucidrains/denoising-diffusion-pytorch 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 10703 --> 10721
+    line [10704, 10708, 10711, 10713, 10715, 10716, 10719, 10720]
 ```
 
-2026-10-18 10,704 → 2026-10-27 10,719（+15）
+2026-10-18 10,704 → 2026-10-28 10,720（+16）
 
 
 ---

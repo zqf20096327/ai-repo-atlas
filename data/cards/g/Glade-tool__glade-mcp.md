@@ -1,6 +1,6 @@
 # Glade-tool/glade-mcp
 
-⭐ 212 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Glade-tool/glade-mcp) · [官网](https://www.gladekit.com/) · 组织维护
+⭐ 213 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Glade-tool/glade-mcp) · [官网](https://www.gladekit.com/) · 组织维护
 
 **把 MCP AI 客户端接入 Unity/Godot 编辑器的游戏开发工具服务器**
 
@@ -46,12 +46,12 @@ MCP 服务器，将 Claude Code、Cursor、Windsurf 等 AI 客户端连接到 Un
 ```mermaid
 xychart-beta
     title "Glade-tool/glade-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 211 --> 218
-    line [214, 217, 212, 212]
+    line [214, 217, 212, 213]
 ```
 
-2026-10-18 214 → 2026-10-27 212（-2）
+2026-10-18 214 → 2026-10-28 213（-1）
 
 
 ---

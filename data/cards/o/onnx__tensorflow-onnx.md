@@ -1,6 +1,6 @@
 # onnx/tensorflow-onnx
 
-⭐ 2,557 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/onnx/tensorflow-onnx) · 组织维护
+⭐ 2,558 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/onnx/tensorflow-onnx) · 组织维护
 
 **将 TensorFlow/Keras/tf.js/TFLite 模型转换为 ONNX 的工具**
 
@@ -45,12 +45,12 @@ tf2onnx 通过命令行或 Python API 将 TensorFlow 2.x、Keras、TensorFlow.js
 ```mermaid
 xychart-beta
     title "onnx/tensorflow-onnx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 2556 --> 2558
-    line [2557, 2557]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 2556 --> 2559
+    line [2557, 2558]
 ```
 
-2026-10-18 2,557 → 2026-10-27 2,557（+0）
+2026-10-18 2,557 → 2026-10-28 2,558（+1）
 
 
 ---

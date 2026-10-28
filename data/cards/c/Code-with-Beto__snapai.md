@@ -1,6 +1,6 @@
 # Code-with-Beto/snapai
 
-⭐ 1,949 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Code-with-Beto/snapai) · [官网](https://codewithbeto.dev) · 个人维护
+⭐ 1,950 · TypeScript · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Code-with-Beto/snapai) · [官网](https://codewithbeto.dev) · 个人维护
 
 **面向 React Native/Expo 开发者的 AI 图标生成 CLI**
 
@@ -45,13 +45,13 @@ Node.js 命令行工具，调用 OpenAI 或 Gemini 图像模型，从终端生�
 
 ```mermaid
 xychart-beta
-    title "Code-with-Beto/snapai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1942 --> 1950
-    line [1943, 1944, 1946, 1948, 1949, 1948, 1949]
+    title "Code-with-Beto/snapai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1942 --> 1951
+    line [1943, 1944, 1946, 1948, 1949, 1948, 1949, 1950]
 ```
 
-2026-10-18 1,943 → 2026-10-27 1,949（+6）
+2026-10-18 1,943 → 2026-10-28 1,950（+7）
 
 
 ---

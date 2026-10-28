@@ -1,6 +1,6 @@
 # Kaelio/ktx
 
-⭐ 1,624 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kaelio/ktx) · [官网](https://docs.kaelio.com/ktx) · 组织维护
+⭐ 1,623 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Kaelio/ktx) · [官网](https://docs.kaelio.com/ktx) · 组织维护
 
 **给数据/分析 AI agent 的仓库上下文层：让 agent 按认可口径查数**
 
@@ -45,12 +45,12 @@ Kaelio 维护的本地上下文层工具：通过连接器摄取 SQL 仓库、db
 ```mermaid
 xychart-beta
     title "Kaelio/ktx 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 1617 --> 1625
-    line [1618, 1621, 1624, 1623, 1624, 1624]
+    line [1618, 1621, 1624, 1623, 1624, 1623]
 ```
 
-2026-10-18 1,618 → 2026-10-27 1,624（+6）
+2026-10-18 1,618 → 2026-10-28 1,623（+5）
 
 
 ---

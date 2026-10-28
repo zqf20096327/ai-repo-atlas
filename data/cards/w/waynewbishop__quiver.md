@@ -1,6 +1,6 @@
 # waynewbishop/quiver
 
-⭐ 22 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/waynewbishop/quiver) · 个人维护
+⭐ 25 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/waynewbishop/quiver) · 个人维护
 
 **纯 Swift 的统计、线性代数与机器学习框架，零依赖**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "waynewbishop/quiver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 25]
 ```
 
-2026-10-18 20 → 2026-10-27 22（+2）
+2026-10-18 20 → 2026-10-28 25（+5）
 
 
 ---

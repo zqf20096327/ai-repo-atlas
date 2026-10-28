@@ -1,6 +1,6 @@
 # zeronezer/bidcraft
 
-⭐ 74 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zeronezer/bidcraft) · 个人维护 · 中文 README
+⭐ 75 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/zeronezer/bidcraft) · 个人维护 · 中文 README
 
 **对话式工程标书编制智能体，AI 生成技术标初稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeronezer/bidcraft 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 67 --> 75
-    line [68, 69, 71, 73, 74]
+    title "zeronezer/bidcraft 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 67 --> 76
+    line [68, 69, 71, 73, 74, 75]
 ```
 
-2026-10-18 68 → 2026-10-27 74（+6）
+2026-10-18 68 → 2026-10-28 75（+7）
 
 
 ---

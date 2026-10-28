@@ -1,6 +1,6 @@
 # home-operations/kritika
 
-⭐ 33 · Go · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/home-operations/kritika) · [官网](https://kritika.home-operations.com/) · 组织维护
+⭐ 34 · Go · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/home-operations/kritika) · [官网](https://kritika.home-operations.com/) · 组织维护
 
 **面向 GitHub/Forgejo/GitLab/Gitea 的仓库感知 AI 代码评审机器人**
 
@@ -44,13 +44,13 @@ kritika 是自托管在 Kubernetes 上的 AI 评审服务：对 GitHub、Forgejo
 
 ```mermaid
 xychart-beta
-    title "home-operations/kritika 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33]
+    title "home-operations/kritika 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-10-27 33（+2）
+2026-10-18 31 → 2026-10-28 34（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # eyaltoledano/claude-task-master
 
-⭐ 28,276 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
+⭐ 28,273 · JavaScript · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/eyaltoledano/claude-task-master) · [官网](https://tryhamster.com) · 个人维护
 
 **AI 驱动的开发任务管理系统，可接入多款 AI 编辑器**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "eyaltoledano/claude-task-master 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 28234 --> 28279
-    line [28237, 28247, 28260, 28265, 28269, 28270, 28276, 28276]
+    line [28237, 28247, 28260, 28265, 28269, 28270, 28276, 28273]
 ```
 
-2026-10-18 28,237 → 2026-10-27 28,276（+39）
+2026-10-18 28,237 → 2026-10-28 28,273（+36）
 
 
 ---

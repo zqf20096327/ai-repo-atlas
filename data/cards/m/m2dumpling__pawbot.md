@@ -1,6 +1,6 @@
 # m2dumpling/pawbot
 
-⭐ 37 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/m2dumpling/pawbot) · 个人维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/m2dumpling/pawbot) · 个人维护 · 中文 README
 
 **自托管 AI agent：浏览器/终端/聊天应用执行任务并支持录制回放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m2dumpling/pawbot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 36 --> 39
     line [37, 38, 37, 37]
 ```
 
-2026-10-18 37 → 2026-10-27 37（+0）
+2026-10-18 37 → 2026-10-28 37（+0）
 
 
 ---

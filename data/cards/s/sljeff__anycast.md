@@ -1,6 +1,6 @@
 # sljeff/anycast
 
-⭐ 63 · Dart · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sljeff/anycast) · [官网](https://anycast.website) · 个人维护
+⭐ 63 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sljeff/anycast) · [官网](https://anycast.website) · 个人维护
 
 **AI 驱动的跨平台播客应用：转录、双语字幕与对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sljeff/anycast 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-27 63（+0）
+2026-10-18 63 → 2026-10-28 63（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Vxtzq/CrowdGPT
 
-⭐ 98 · Python · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Vxtzq/CrowdGPT) · [官网](https://www.crowdgpt.net/) · 个人维护
+⭐ 114 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Vxtzq/CrowdGPT) · [官网](https://www.crowdgpt.net/) · 个人维护
 
 **志愿者算力分布式训练大语言模型的开源项目**
 
@@ -44,13 +44,13 @@ CrowdGPT 是一个利用志愿贡献的计算资源分布式训练任意规模 L
 
 ```mermaid
 xychart-beta
-    title "Vxtzq/CrowdGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 51 --> 102
-    line [55, 56, 60, 98]
+    title "Vxtzq/CrowdGPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 50 --> 119
+    line [55, 56, 60, 98, 114]
 ```
 
-2026-10-18 55 → 2026-10-27 98（+43）
+2026-10-18 55 → 2026-10-28 114（+59）
 
 
 ---

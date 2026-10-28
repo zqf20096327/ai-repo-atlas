@@ -1,6 +1,6 @@
 # cma0232/genai-architecture-guide
 
-⭐ 27 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/cma0232/genai-architecture-guide) · [官网](https://www.fdehandbook.com/learn/genai-architecture/overview) · 个人维护
+⭐ 26 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/cma0232/genai-architecture-guide) · [官网](https://www.fdehandbook.com/learn/genai-architecture/overview) · 个人维护
 
 **面向 FDE/Applied AI 面试的生产级 GenAI 架构学习指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cma0232/genai-architecture-guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    line [24, 25, 26, 27, 26]
 ```
 
-2026-10-18 24 → 2026-10-27 27（+3）
+2026-10-18 24 → 2026-10-28 26（+2）
 
 
 ---

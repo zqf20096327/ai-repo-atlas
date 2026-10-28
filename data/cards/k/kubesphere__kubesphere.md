@@ -1,6 +1,6 @@
 # kubesphere/kubesphere
 
-⭐ 17,068 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
+⭐ 17,071 · Go · NOASSERTION · 推送 2026-07-15 · [GitHub](https://github.com/kubesphere/kubesphere) · [官网](https://kubesphere.io) · 组织维护 · 中文 README
 
 **企业级 Kubernetes 容器平台：多云/多集群/边缘统一管理**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "kubesphere/kubesphere 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 17058 --> 17069
-    line [17060, 17059, 17062, 17066, 17065, 17066, 17068]
+    title "kubesphere/kubesphere 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 17058 --> 17072
+    line [17060, 17059, 17062, 17066, 17065, 17066, 17068, 17071]
 ```
 
-2026-10-18 17,060 → 2026-10-27 17,068（+8）
+2026-10-18 17,060 → 2026-10-28 17,071（+11）
 
 
 ---

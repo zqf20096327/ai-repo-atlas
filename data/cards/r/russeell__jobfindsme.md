@@ -1,6 +1,6 @@
 # russeell/jobfindsme
 
-⭐ 26 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/russeell/jobfindsme) · [官网](https://github.com/russeell/jobfindsme/releases/latest) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/russeell/jobfindsme) · [官网](https://github.com/russeell/jobfindsme/releases/latest) · 个人维护 · 中文 README
 
 **面向中文求职者的本地优先 AI 求职桌面助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "russeell/jobfindsme 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-27 26（+2）
+2026-10-18 24 → 2026-10-28 27（+3）
 
 
 ---

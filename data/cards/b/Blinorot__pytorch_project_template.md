@@ -1,6 +1,6 @@
 # Blinorot/pytorch_project_template
 
-⭐ 253 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/Blinorot/pytorch_project_template) · 个人维护
+⭐ 254 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/Blinorot/pytorch_project_template) · 个人维护
 
 **面向深度学习研究者的 PyTorch 项目模板，支持多卡多机训练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Blinorot/pytorch_project_template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 252 --> 254
-    line [253, 253]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 252 --> 255
+    line [253, 254]
 ```
 
-2026-10-18 253 → 2026-10-27 253（+0）
+2026-10-18 253 → 2026-10-28 254（+1）
 
 
 ---

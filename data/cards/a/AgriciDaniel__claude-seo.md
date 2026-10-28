@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-seo
 
-⭐ 21,986 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 22,619 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **给 Claude Code 用户的 SEO 审计技能插件**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/claude-seo 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 18816 --> 22274
-    line [19104, 19279, 19520, 19694, 19842, 20048, 20487, 21986]
+    title "AgriciDaniel/claude-seo 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 18753 --> 22970
+    line [19104, 19279, 19520, 19694, 19842, 20048, 20487, 21986, 22619]
 ```
 
-2026-10-18 19,104 → 2026-10-27 21,986（+2,882）
+2026-10-18 19,104 → 2026-10-28 22,619（+3,515）
 
 
 ---

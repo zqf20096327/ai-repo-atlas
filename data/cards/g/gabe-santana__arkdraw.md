@@ -1,6 +1,6 @@
 # gabe-santana/arkdraw
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gabe-santana/arkdraw) · [官网](https://arkdraw.com/) · 个人维护
 
 **带 AI 助手的本地优先开源图表编辑器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gabe-santana/arkdraw 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 42 --> 50
-    line [43, 49]
+    title "gabe-santana/arkdraw 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 42 --> 53
+    line [43, 49, 52]
 ```
 
-2026-10-26 43 → 2026-10-27 49（+6）
+2026-10-26 43 → 2026-10-28 52（+9）
 
 
 ---

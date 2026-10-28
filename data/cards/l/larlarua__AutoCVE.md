@@ -1,6 +1,6 @@
 # larlarua/AutoCVE
 
-⭐ 1,197 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/larlarua/AutoCVE) · 个人维护 · 中文 README
+⭐ 1,199 · Python · AGPL-3.0 · 推送 2026-10-01 · [GitHub](https://github.com/larlarua/AutoCVE) · 个人维护 · 中文 README
 
 **面向安全研究者的自动化 CVE 挖掘多 Agent 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "larlarua/AutoCVE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 1185 --> 1198
-    line [1186, 1193, 1191, 1196, 1197]
+    title "larlarua/AutoCVE 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1185 --> 1200
+    line [1186, 1193, 1191, 1196, 1197, 1199]
 ```
 
-2026-10-18 1,186 → 2026-10-27 1,197（+11）
+2026-10-18 1,186 → 2026-10-28 1,199（+13）
 
 
 ---

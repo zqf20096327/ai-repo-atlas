@@ -1,6 +1,6 @@
 # muharamdani/notebooklm-categorizer
 
-⭐ 29 · JavaScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/muharamdani/notebooklm-categorizer) · 个人维护
+⭐ 30 · JavaScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/muharamdani/notebooklm-categorizer) · 个人维护
 
 **给 NotebookLM 列表加分类筛选按钮的浏览器扩展**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "muharamdani/notebooklm-categorizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 30（+1）
 
 
 ---

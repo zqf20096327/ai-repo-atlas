@@ -1,6 +1,6 @@
 # gianpaj/sexyvoice
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/gianpaj/sexyvoice) · [官网](https://sexyvoice.ai) · 个人维护
+⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/gianpaj/sexyvoice) · [官网](https://sexyvoice.ai) · 个人维护
 
 **AI 语音生成与克隆 Web 平台：TTS、克隆与语音通话**
 
@@ -47,12 +47,12 @@ SexyVoice.ai 是基于 Next.js 16 + Supabase 的 AI 语音平台源码：文本�
 ```mermaid
 xychart-beta
     title "gianpaj/sexyvoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-27 24（+0）
+2026-10-18 24 → 2026-10-28 24（+0）
 
 
 ---

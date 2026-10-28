@@ -1,6 +1,6 @@
 # ItsWendell/palot
 
-⭐ 192 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/ItsWendell/palot) · 个人维护
+⭐ 192 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ItsWendell/palot) · 个人维护
 
 **给 OpenCode 2 用户的桌面客户端：管理代理会话与变更**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ItsWendell/palot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 190 --> 193
     line [191, 192, 192]
 ```
 
-2026-10-18 191 → 2026-10-27 192（+1）
+2026-10-18 191 → 2026-10-28 192（+1）
 
 
 ---

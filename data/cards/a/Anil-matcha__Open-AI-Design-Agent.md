@@ -1,6 +1,6 @@
 # Anil-matcha/Open-AI-Design-Agent
 
-⭐ 468 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/Open-AI-Design-Agent) · [官网](https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent) · 组织维护
+⭐ 470 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/Open-AI-Design-Agent) · [官网](https://muapi.ai/assistant?utm_source=github&utm_medium=about&utm_campaign=open-ai-design-agent) · 组织维护
 
 **开源 AI 设计 Agent：自然语言生成海报、品牌套件与视频**
 
@@ -45,12 +45,12 @@ MIT 许可的自托管 AI 设计 Agent，将自然语言简报转化为完整创
 ```mermaid
 xychart-beta
     title "Anil-matcha/Open-AI-Design-Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 455 --> 469
-    line [456, 459, 461, 464, 467, 468, 468]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 455 --> 471
+    line [456, 459, 461, 464, 467, 468, 470]
 ```
 
-2026-10-18 456 → 2026-10-27 468（+12）
+2026-10-18 456 → 2026-10-28 470（+14）
 
 
 ---

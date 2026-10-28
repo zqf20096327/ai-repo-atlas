@@ -1,6 +1,6 @@
 # buildingopen/openpage
 
-⭐ 107 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/buildingopen/openpage) · [官网](https://openpage-phi.vercel.app) · 组织维护
+⭐ 108 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/buildingopen/openpage) · [官网](https://openpage-phi.vercel.app) · 组织维护
 
 **开源可视化建站工具：拖拽编辑 + AI 生成，JSON 为唯一事实源**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "buildingopen/openpage 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 98 --> 108
-    line [99, 100, 103, 104, 105, 107]
+    title "buildingopen/openpage 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 98 --> 109
+    line [99, 100, 103, 104, 105, 107, 108]
 ```
 
-2026-10-18 99 → 2026-10-27 107（+8）
+2026-10-18 99 → 2026-10-28 108（+9）
 
 
 ---

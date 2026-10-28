@@ -1,6 +1,6 @@
 # whz39coding/GithubCollectAgent
 
-⭐ 31 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/whz39coding/GithubCollectAgent) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/whz39coding/GithubCollectAgent) · 个人维护 · 中文 README
 
 **定时抓取 GitHub Trending 并用 LLM 生成分析报告推送到 IM 的自动化 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whz39coding/GithubCollectAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-27 31（+0）
+2026-10-18 31 → 2026-10-28 32（+1）
 
 
 ---

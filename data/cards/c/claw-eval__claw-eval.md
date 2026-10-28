@@ -1,6 +1,6 @@
 # claw-eval/claw-eval
 
-⭐ 781 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/claw-eval/claw-eval) · [官网](https://claw-eval.github.io) · 组织维护 · 中文 README
+⭐ 801 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/claw-eval/claw-eval) · [官网](https://claw-eval.github.io) · 组织维护 · 中文 README
 
 **面向 LLM 自主 agent 的人工核验评测基准（300 任务）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "claw-eval/claw-eval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 777 --> 782
-    line [778, 779, 781]
+    title "claw-eval/claw-eval 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 776 --> 803
+    line [778, 779, 781, 801]
 ```
 
-2026-10-18 778 → 2026-10-27 781（+3）
+2026-10-18 778 → 2026-10-28 801（+23）
 
 
 ---

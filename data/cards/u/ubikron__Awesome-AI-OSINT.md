@@ -1,6 +1,6 @@
 # ubikron/Awesome-AI-OSINT
 
-⭐ 797 · 推送 2026-05-05 · [GitHub](https://github.com/ubikron/Awesome-AI-OSINT) · 组织维护
+⭐ 796 · 推送 2026-05-05 · [GitHub](https://github.com/ubikron/Awesome-AI-OSINT) · 组织维护
 
 **AI 用于开源情报（OSINT）的文章、视频与工具清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ubikron/Awesome-AI-OSINT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
     y-axis "stars" 795 --> 798
-    line [796, 797, 797]
+    line [796, 797, 796]
 ```
 
-2026-10-18 796 → 2026-10-27 797（+1）
+2026-10-18 796 → 2026-10-28 796（+0）
 
 
 ---

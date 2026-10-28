@@ -1,6 +1,6 @@
 # jihadkhawaja/Egroo
 
-⭐ 178 · C# · Apache-2.0 · 推送 2026-03-26 · [GitHub](https://github.com/jihadkhawaja/Egroo) · [官网](https://egroo.org) · 个人维护
+⭐ 179 · C# · Apache-2.0 · 推送 2026-03-26 · [GitHub](https://github.com/jihadkhawaja/Egroo) · [官网](https://egroo.org) · 个人维护
 
 **自托管实时聊天平台：端到端加密与频道语音通话，AI 代理可入群**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jihadkhawaja/Egroo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 177 --> 179
-    line [178, 178]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 177 --> 180
+    line [178, 179]
 ```
 
-2026-10-18 178 → 2026-10-27 178（+0）
+2026-10-18 178 → 2026-10-28 179（+1）
 
 
 ---

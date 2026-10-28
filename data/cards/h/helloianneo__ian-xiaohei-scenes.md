@@ -1,6 +1,6 @@
 # helloianneo/ian-xiaohei-scenes
 
-⭐ 542 · MIT · 推送 2026-06-04 · [GitHub](https://github.com/helloianneo/ian-xiaohei-scenes) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
+⭐ 544 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-xiaohei-scenes) · [官网](https://www.ianneo.xyz) · 个人维护 · 中文 README
 
 **指导 AI Agent 为中文文章生成“小黑+真实物件”配图的 Codex Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "helloianneo/ian-xiaohei-scenes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 532 --> 543
-    line [533, 535, 538, 540, 541, 542]
+    title "helloianneo/ian-xiaohei-scenes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 532 --> 545
+    line [533, 535, 538, 540, 541, 542, 544]
 ```
 
-2026-10-18 533 → 2026-10-27 542（+9）
+2026-10-18 533 → 2026-10-28 544（+11）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "steven2358/awesome-blockchain-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "steven2358/awesome-blockchain-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1156 --> 1159
-    line [1157, 1158]
+    line [1157, 1158, 1158]
 ```
 
-2026-10-18 1,157 → 2026-10-27 1,158（+1）
+2026-10-18 1,157 → 2026-10-28 1,158（+1）
 
 
 ---

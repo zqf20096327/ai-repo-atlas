@@ -45,12 +45,12 @@ ST 官方提供的 STM32N6 嵌入式目标检测应用包：在 NPU 上运行 ST
 ```mermaid
 xychart-beta
     title "STMicroelectronics/STM32N6-GettingStarted-ObjectDetection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

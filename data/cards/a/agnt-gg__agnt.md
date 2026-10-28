@@ -1,6 +1,6 @@
 # agnt-gg/agnt
 
-⭐ 558 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/agnt-gg/agnt) · [官网](https://agnt.gg/) · 组织维护
+⭐ 559 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/agnt-gg/agnt) · [官网](https://agnt.gg/) · 组织维护
 
 **本地优先的 AI agent 操作系统：构建、运行和改进 agent 与工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agnt-gg/agnt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 553 --> 559
-    line [554, 555, 557, 556, 557, 558]
+    title "agnt-gg/agnt 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 553 --> 560
+    line [554, 555, 557, 556, 557, 558, 559]
 ```
 
-2026-10-18 554 → 2026-10-27 558（+4）
+2026-10-18 554 → 2026-10-28 559（+5）
 
 
 ---

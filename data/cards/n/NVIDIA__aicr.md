@@ -1,6 +1,6 @@
 # NVIDIA/aicr
 
-⭐ 447 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/aicr) · [官网](https://docs.nvidia.com/aicr/) · 组织维护
+⭐ 447 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA/aicr) · [官网](https://docs.nvidia.com/aicr/) · 组织维护
 
 **为运维/平台团队生成并验证 GPU K8s 集群的版本锁定运行时配置**
 
@@ -45,12 +45,12 @@ NVIDIA 的 GPU 加速 Kubernetes 集群配置工具：将经过验证的驱动�
 ```mermaid
 xychart-beta
     title "NVIDIA/aicr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 441 --> 448
     line [443, 442, 446, 447, 447]
 ```
 
-2026-10-18 443 → 2026-10-27 447（+4）
+2026-10-18 443 → 2026-10-28 447（+4）
 
 
 ---

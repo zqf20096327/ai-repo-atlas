@@ -1,6 +1,6 @@
 # emarco177/langgraph-course
 
-⭐ 744 · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 745 · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **LangGraph 实操课程仓库：分分支分提交学习 LLM agent 开发**
 
@@ -44,13 +44,13 @@ Udemy 课程的配套代码仓库，按分支组织项目、按提交组织课�
 
 ```mermaid
 xychart-beta
-    title "emarco177/langgraph-course 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 736 --> 745
-    line [737, 738, 740, 741, 743, 744]
+    title "emarco177/langgraph-course 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 736 --> 746
+    line [737, 738, 740, 741, 743, 744, 745]
 ```
 
-2026-10-18 737 → 2026-10-27 744（+7）
+2026-10-18 737 → 2026-10-28 745（+8）
 
 
 ---

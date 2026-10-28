@@ -1,6 +1,6 @@
 # iancovert/sage
 
-⭐ 294 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/iancovert/sage) · 组织维护
+⭐ 294 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/iancovert/sage) · 组织维护
 
 **用 Shapley 值计算黑盒模型全局特征重要性的 Python 库**
 
@@ -45,12 +45,12 @@ SAGE（Shapley Additive Global importancE）是面向机器学习从业者的模
 ```mermaid
 xychart-beta
     title "iancovert/sage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-18 294 → 2026-10-27 294（+0）
+2026-10-18 294 → 2026-10-28 294（+0）
 
 
 ---

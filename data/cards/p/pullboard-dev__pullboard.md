@@ -1,6 +1,6 @@
 # pullboard-dev/pullboard
 
-⭐ 279 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
+⭐ 295 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pullboard-dev/pullboard) · [官网](https://pullboard.dev) · 组织维护
 
 **面向真实产品的自主开发代理编排工具：规格驱动、代理互验后合并**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "pullboard-dev/pullboard 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 200 --> 286
-    line [207, 244, 246, 248, 257, 262, 274, 279]
+    title "pullboard-dev/pullboard 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 199 --> 303
+    line [207, 244, 246, 248, 257, 262, 274, 279, 295]
 ```
 
-2026-10-18 207 → 2026-10-27 279（+72）
+2026-10-18 207 → 2026-10-28 295（+88）
 
 
 ---

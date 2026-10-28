@@ -1,6 +1,6 @@
 # Nawaf-Rayhan585/YOLO_Projects
 
-⭐ 240 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Nawaf-Rayhan585/YOLO_Projects) · 个人维护
+⭐ 245 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Nawaf-Rayhan585/YOLO_Projects) · 个人维护
 
 **19 个可运行的 YOLO 计算机视觉项目合集：检测/跟踪/姿态/OCR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nawaf-Rayhan585/YOLO_Projects 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 232 --> 241
-    line [233, 234, 235, 237, 239, 240]
+    title "Nawaf-Rayhan585/YOLO_Projects 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 232 --> 246
+    line [233, 234, 235, 237, 239, 240, 245]
 ```
 
-2026-10-18 233 → 2026-10-27 240（+7）
+2026-10-18 233 → 2026-10-28 245（+12）
 
 
 ---

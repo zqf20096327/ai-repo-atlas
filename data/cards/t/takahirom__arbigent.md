@@ -1,6 +1,6 @@
 # takahirom/arbigent
 
-⭐ 651 · Kotlin · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/takahirom/arbigent) · 个人维护
+⭐ 652 · Kotlin · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/takahirom/arbigent) · 个人维护
 
 **面向 Android/iOS/Web/TV 的 AI Agent 自动化测试框架**
 
@@ -46,12 +46,12 @@ Arbigent 是一个用 AI agent 驱动的应用测试框架：将复杂目标拆�
 ```mermaid
 xychart-beta
     title "takahirom/arbigent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 650 --> 653
-    line [651, 652, 651, 651]
+    line [651, 652, 651, 652]
 ```
 
-2026-10-18 651 → 2026-10-27 651（+0）
+2026-10-18 651 → 2026-10-28 652（+1）
 
 
 ---

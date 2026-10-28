@@ -47,12 +47,12 @@ Python 库，用于构建由 LLM Agent 组成的模拟社会群体（ensemble）
 ```mermaid
 xychart-beta
     title "josh-ashkinaze/plurals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 43（+0）
 
 
 ---

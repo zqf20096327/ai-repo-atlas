@@ -1,6 +1,6 @@
 # anthropics/anthropic-cli
 
-⭐ 698 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
+⭐ 701 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
 
 **Anthropic 官方 Claude API 命令行客户端 ant**
 
@@ -44,13 +44,13 @@ Anthropic 官方维护的 Claude Platform CLI（命令名 ant），面向使用 
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 685 --> 699
-    line [686, 690, 693, 695, 697, 698]
+    title "anthropics/anthropic-cli 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 685 --> 702
+    line [686, 690, 693, 695, 697, 698, 701]
 ```
 
-2026-10-18 686 → 2026-10-27 698（+12）
+2026-10-18 686 → 2026-10-28 701（+15）
 
 
 ---

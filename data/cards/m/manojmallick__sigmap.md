@@ -1,6 +1,6 @@
 # manojmallick/sigmap
 
-⭐ 645 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/manojmallick/sigmap) · [官网](https://sigmap.io/) · 个人维护
+⭐ 645 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/manojmallick/sigmap) · [官网](https://sigmap.io/) · 个人维护
 
 **给 AI 编码代理的代码库签名地图与回答落地校验工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "manojmallick/sigmap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 643 --> 648
     line [647, 646, 645, 644, 645, 645]
 ```
 
-2026-10-18 647 → 2026-10-27 645（-2）
+2026-10-18 647 → 2026-10-28 645（-2）
 
 
 ---

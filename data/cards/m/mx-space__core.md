@@ -1,6 +1,6 @@
 # mx-space/core
 
-⭐ 566 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mx-space/core) · 个人维护 · 中文 README
+⭐ 566 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mx-space/core) · 个人维护 · 中文 README
 
 **面向个人博客与创作者的 AI 增强无头 CMS 全栈 monorepo**
 
@@ -44,13 +44,13 @@ Mix Space 的工作区仓库，构建个人 CMS 全栈：核心服务（NestJS +
 
 ```mermaid
 xychart-beta
-    title "mx-space/core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "mx-space/core 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 564 --> 567
-    line [565, 566]
+    line [565, 566, 566]
 ```
 
-2026-10-18 565 → 2026-10-27 566（+1）
+2026-10-18 565 → 2026-10-28 566（+1）
 
 
 ---

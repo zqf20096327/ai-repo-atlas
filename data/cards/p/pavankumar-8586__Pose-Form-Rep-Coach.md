@@ -1,6 +1,6 @@
 # pavankumar-8586/Pose-Form-Rep-Coach
 
-⭐ 57 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/pavankumar-8586/Pose-Form-Rep-Coach) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/pavankumar-8586/Pose-Form-Rep-Coach) · 个人维护
 
 **用摄像头做实时动作识别的居家健身计数与姿势纠错应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pavankumar-8586/Pose-Form-Rep-Coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-27 57（+0）
+2026-10-18 57 → 2026-10-28 57（+0）
 
 
 ---

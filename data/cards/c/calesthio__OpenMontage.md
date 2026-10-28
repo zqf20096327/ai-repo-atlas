@@ -1,6 +1,6 @@
 # calesthio/OpenMontage
 
-⭐ 72,142 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
+⭐ 72,435 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/calesthio/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护
 
 **把 AI 编码助手变成完整视频制作工作室的 agentic 系统**
 
@@ -52,13 +52,13 @@ OpenMontage 是一套以 agent 驱动的视频生产系统：12 条制作流水�
 
 ```mermaid
 xychart-beta
-    title "calesthio/OpenMontage 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 68780 --> 72447
-    line [69085, 69882, 70523, 70851, 71142, 71488, 71834, 72142]
+    title "calesthio/OpenMontage 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 68750 --> 72770
+    line [69085, 69882, 70523, 70851, 71142, 71488, 71834, 72142, 72435]
 ```
 
-2026-10-18 69,085 → 2026-10-27 72,142（+3,057）
+2026-10-18 69,085 → 2026-10-28 72,435（+3,350）
 
 
 ---

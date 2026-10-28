@@ -1,6 +1,6 @@
 # AnsahMohammad/shots-studio
 
-⭐ 690 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
+⭐ 688 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
 
 **Android 截图管理应用：AI 搜索、自动打标签与整理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnsahMohammad/shots-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 688 --> 691
-    line [689, 690, 690]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 687 --> 691
+    line [689, 690, 688]
 ```
 
-2026-10-18 689 → 2026-10-27 690（+1）
+2026-10-18 689 → 2026-10-28 688（-1）
 
 
 ---

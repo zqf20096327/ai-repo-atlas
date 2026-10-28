@@ -1,6 +1,6 @@
 # go-a2a/adk-go
 
-⭐ 107 · Go · Apache-2.0 · 推送 2025-10-31 · [GitHub](https://github.com/go-a2a/adk-go) · [官网](http://pkg.go.dev/github.com/go-a2a/adk-go) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Go 语言 AI Agent 开发工具包：构建/评估/部署智能体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # e2b-dev/awesome-ai-agents
 
-⭐ 30,660 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
+⭐ 30,672 · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/e2b-dev/awesome-ai-agents) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents) · 组织维护
 
 **为开发者和研究者收录开源与闭源 AI 智能体项目的清单**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "e2b-dev/awesome-ai-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 30466 --> 30677
-    line [30483, 30517, 30557, 30575, 30596, 30611, 30630, 30660]
+    title "e2b-dev/awesome-ai-agents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 30465 --> 30690
+    line [30483, 30517, 30557, 30575, 30596, 30611, 30630, 30660, 30672]
 ```
 
-2026-10-18 30,483 → 2026-10-27 30,660（+177）
+2026-10-18 30,483 → 2026-10-28 30,672（+189）
 
 
 ---

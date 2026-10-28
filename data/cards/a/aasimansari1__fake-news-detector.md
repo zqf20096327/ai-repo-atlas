@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aasimansari1/fake-news-detector 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27"]
+    title "aasimansari1/fake-news-detector 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 9 --> 24
-    line [10, 23, 22]
+    line [10, 23, 22, 22]
 ```
 
-2026-10-23 10 → 2026-10-27 22（+12）
+2026-10-23 10 → 2026-10-28 22（+12）
 
 
 ---

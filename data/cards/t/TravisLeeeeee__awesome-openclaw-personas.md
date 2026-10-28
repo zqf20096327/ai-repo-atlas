@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TravisLeeeeee/awesome-openclaw-personas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    title "TravisLeeeeee/awesome-openclaw-personas 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
     y-axis "stars" 109 --> 113
-    line [110, 111, 112]
+    line [110, 111, 112, 112]
 ```
 
-2026-10-18 110 → 2026-10-27 112（+2）
+2026-10-18 110 → 2026-10-28 112（+2）
 
 
 ---

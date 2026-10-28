@@ -1,6 +1,6 @@
 # jiep/offensive-ai-compilation
 
-⭐ 1,441 · HTML · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/jiep/offensive-ai-compilation) · [官网](https://jiep.github.io/offensive-ai-compilation/) · 个人维护
+⭐ 1,442 · HTML · CC-BY-SA-4.0 · 推送 2026-10-03 · [GitHub](https://github.com/jiep/offensive-ai-compilation) · [官网](https://jiep.github.io/offensive-ai-compilation/) · 个人维护
 
 **Offensive AI 资源策展清单：攻击与防御论文/工具汇编**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jiep/offensive-ai-compilation 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28"]
     y-axis "stars" 1440 --> 1443
-    line [1441, 1442, 1441, 1441]
+    line [1441, 1442, 1441, 1442]
 ```
 
-2026-10-18 1,441 → 2026-10-27 1,441（+0）
+2026-10-18 1,441 → 2026-10-28 1,442（+1）
 
 
 ---

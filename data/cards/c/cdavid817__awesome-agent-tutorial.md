@@ -1,6 +1,6 @@
 # cdavid817/awesome-agent-tutorial
 
-⭐ 34 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cdavid817/awesome-agent-tutorial) · 个人维护 · 中文 README
+⭐ 38 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cdavid817/awesome-agent-tutorial) · 个人维护 · 中文 README
 
 **面向转型工程师的企业级 Agent 工程化中文教程（27 章+贯穿项目）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "cdavid817/awesome-agent-tutorial 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 22 --> 35
-    line [24, 23, 26, 31, 32, 33, 34]
+    title "cdavid817/awesome-agent-tutorial 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 22 --> 39
+    line [24, 23, 26, 31, 32, 33, 34, 38]
 ```
 
-2026-10-18 24 → 2026-10-27 34（+10）
+2026-10-18 24 → 2026-10-28 38（+14）
 
 
 ---

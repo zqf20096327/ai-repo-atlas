@@ -44,12 +44,12 @@ Langfuse 官方维护的 Claude Code 插件：通过 hook 把用户提示、agen
 ```mermaid
 xychart-beta
     title "langfuse/claude-observability-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-27 29（+0）
+2026-10-18 29 → 2026-10-28 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # goosehouse-llc/redde
 
-⭐ 91 · Swift · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/goosehouse-llc/redde) · [官网](https://redde.goosehouse.org) · 组织维护
+⭐ 92 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/goosehouse-llc/redde) · [官网](https://redde.goosehouse.org) · 组织维护
 
 **iPhone/iPad/CarPlay 客户端：连接自托管 Hermes AI agent 或任意 OpenAI 兼容模型**
 
@@ -46,13 +46,13 @@ iOS/iPadOS/CarPlay 应用，作为开源 Hermes AI agent 的手机端客户端�
 
 ```mermaid
 xychart-beta
-    title "goosehouse-llc/redde 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 54 --> 94
-    line [57, 63, 66, 79, 85, 87, 90, 91]
+    title "goosehouse-llc/redde 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 54 --> 95
+    line [57, 63, 66, 79, 85, 87, 90, 91, 92]
 ```
 
-2026-10-18 57 → 2026-10-27 91（+34）
+2026-10-18 57 → 2026-10-28 92（+35）
 
 
 ---

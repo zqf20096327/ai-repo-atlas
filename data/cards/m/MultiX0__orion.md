@@ -1,6 +1,6 @@
 # MultiX0/orion
 
-⭐ 23 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MultiX0/orion) · [官网](https://joinorion.io/) · 个人维护
+⭐ 24 · C · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/MultiX0/orion) · [官网](https://joinorion.io/) · 个人维护
 
 **自组桌面语音助手套件：ESP32-S3 板 + 双语唤醒应答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MultiX0/orion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-10-27 23（+1）
+2026-10-18 22 → 2026-10-28 24（+2）
 
 
 ---

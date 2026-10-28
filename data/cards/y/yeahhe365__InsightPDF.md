@@ -1,6 +1,6 @@
 # yeahhe365/InsightPDF
 
-⭐ 48 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/yeahhe365/InsightPDF) · [官网](https://insightpdf.pages.dev/) · 个人维护 · 中文 README
+⭐ 49 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/yeahhe365/InsightPDF) · [官网](https://insightpdf.pages.dev/) · 个人维护 · 中文 README
 
 **基于 Gemini 的 PDF 对话助手，答案带视觉定位高亮**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yeahhe365/InsightPDF 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 47 --> 50
-    line [49, 48, 48]
+    line [49, 48, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 48（-1）
+2026-10-18 49 → 2026-10-28 49（+0）
 
 
 ---

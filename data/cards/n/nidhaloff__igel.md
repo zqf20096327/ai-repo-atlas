@@ -1,6 +1,6 @@
 # nidhaloff/igel
 
-⭐ 3,141 · Python · MIT · 推送 2025-12-07 · [GitHub](https://github.com/nidhaloff/igel) · [官网](https://igel.readthedocs.io/en/latest/) · 个人维护
+⭐ 3,140 · Python · MIT · 推送 2025-12-07 · [GitHub](https://github.com/nidhaloff/igel) · [官网](https://igel.readthedocs.io/en/latest/) · 个人维护
 
 **无代码机器学习 CLI 工具：用配置文件训练、评估、预测模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nidhaloff/igel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
     y-axis "stars" 3139 --> 3143
-    line [3140, 3141, 3142, 3141, 3141]
+    line [3140, 3141, 3142, 3141, 3140]
 ```
 
-2026-10-18 3,140 → 2026-10-27 3,141（+1）
+2026-10-18 3,140 → 2026-10-28 3,140（+0）
 
 
 ---

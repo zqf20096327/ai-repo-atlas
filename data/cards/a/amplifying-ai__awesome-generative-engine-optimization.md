@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
+    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 525 --> 533
-    line [526, 528, 529, 531, 532]
+    line [526, 528, 529, 531, 532, 532]
 ```
 
-2026-10-18 526 → 2026-10-27 532（+6）
+2026-10-18 526 → 2026-10-28 532（+6）
 
 
 ---

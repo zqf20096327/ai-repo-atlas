@@ -1,6 +1,6 @@
 # dynamiq-ai/dynamiq
 
-⭐ 1,071 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/dynamiq-ai/dynamiq) · [官网](https://getdynamiq.ai) · 组织维护
+⭐ 1,071 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dynamiq-ai/dynamiq) · [官网](https://getdynamiq.ai) · 组织维护
 
 **面向开发者的 Agent 与 LLM 应用编排框架**
 
@@ -45,12 +45,12 @@ Python 编排框架，用于构建 agentic AI 与 LLM 应用，覆盖 ReAct Agen
 ```mermaid
 xychart-beta
     title "dynamiq-ai/dynamiq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 1070 --> 1072
     line [1071, 1071]
 ```
 
-2026-10-18 1,071 → 2026-10-27 1,071（+0）
+2026-10-18 1,071 → 2026-10-28 1,071（+0）
 
 
 ---

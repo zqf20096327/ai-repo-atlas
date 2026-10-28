@@ -1,6 +1,6 @@
 # microwind/ai-skills
 
-⭐ 88 · Python · 推送 2026-06-04 · [GitHub](https://github.com/microwind/ai-skills) · 个人维护 · 中文 README
+⭐ 90 · Python · 推送 2026-06-04 · [GitHub](https://github.com/microwind/ai-skills) · 个人维护 · 中文 README
 
 **面向程序员的中文编程技能知识库，96+ 个 AI 可用 SKILL**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microwind/ai-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 86 --> 89
-    line [87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 86 --> 91
+    line [87, 88, 90]
 ```
 
-2026-10-18 87 → 2026-10-27 88（+1）
+2026-10-18 87 → 2026-10-28 90（+3）
 
 
 ---

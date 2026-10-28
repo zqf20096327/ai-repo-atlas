@@ -1,6 +1,6 @@
 # perkel666/MegaCapybara
 
-⭐ 48 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/perkel666/MegaCapybara) · [官网](https://huggingface.co/perkel/Qwen3.8-27B-MC) · 个人维护
+⭐ 47 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/perkel666/MegaCapybara) · [官网](https://huggingface.co/perkel/Qwen3.8-27B-MC) · 个人维护
 
 **面向 RTX 5090 的 Qwen3.8 推理引擎，多 agent 共享上下文高并发服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "perkel666/MegaCapybara 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "perkel666/MegaCapybara 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 32 --> 49
-    line [33, 36, 39, 41, 44, 48]
+    line [33, 36, 39, 41, 44, 48, 47]
 ```
 
-2026-10-18 33 → 2026-10-27 48（+15）
+2026-10-18 33 → 2026-10-28 47（+14）
 
 
 ---

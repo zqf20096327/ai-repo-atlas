@@ -1,6 +1,6 @@
 # oso95/Codirigent
 
-⭐ 109 · Rust · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/oso95/Codirigent) · [官网](https://codirigent.dev/) · 个人维护 · 中文 README
+⭐ 110 · Rust · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/oso95/Codirigent) · [官网](https://codirigent.dev/) · 个人维护 · 中文 README
 
 **并排运行多个 AI 编码 CLI 的终端工作区（Rust/TUI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oso95/Codirigent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 108 --> 111
+    line [109, 110]
 ```
 
-2026-10-18 109 → 2026-10-27 109（+0）
+2026-10-18 109 → 2026-10-28 110（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vllm-project/production-stack
 
-⭐ 2,696 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/vllm-project/production-stack) · [官网](https://docs.vllm.ai/projects/production-stack) · 组织维护
+⭐ 2,697 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/vllm-project/production-stack) · [官网](https://docs.vllm.ai/projects/production-stack) · 组织维护
 
 **面向开发者的 vLLM K8s 集群级生产部署参考栈**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/production-stack 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 2676 --> 2697
-    line [2677, 2682, 2689, 2692, 2696]
+    title "vllm-project/production-stack 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2675 --> 2699
+    line [2677, 2682, 2689, 2692, 2696, 2697]
 ```
 
-2026-10-18 2,677 → 2026-10-27 2,696（+19）
+2026-10-18 2,677 → 2026-10-28 2,697（+20）
 
 
 ---

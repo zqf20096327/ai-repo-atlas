@@ -1,6 +1,6 @@
 # vorojar/AgentClaw
 
-⭐ 34 · TypeScript · 推送 2026-09-27 · [GitHub](https://github.com/vorojar/AgentClaw) · [官网](https://weread.qq.com/book-detail?type=1&senderVid=7701559&v=fff327a0813abb7d8g019f2a) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · 推送 2026-09-27 · [GitHub](https://github.com/vorojar/AgentClaw) · [官网](https://weread.qq.com/book-detail?type=1&senderVid=7701559&v=fff327a0813abb7d8g019f2a) · 个人维护 · 中文 README
 
 **个人 AI 助理 + Agent 托管平台，多渠道接入、工具与记忆调度**
 
@@ -46,12 +46,12 @@ AgentClaw 是一个指挥官级别的个人 AI 助理，同时提供 Hive 模式
 ```mermaid
 xychart-beta
     title "vorojar/AgentClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 35（+1）
 
 
 ---

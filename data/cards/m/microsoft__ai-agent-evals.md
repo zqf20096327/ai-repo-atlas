@@ -1,6 +1,6 @@
 # microsoft/ai-agent-evals
 
-⭐ 104 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/ai-agent-evals) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/ai-agent-evals) · 组织维护
 
 **在 CI/CD 中离线评测 Microsoft Foundry AI Agent 的 GitHub Action**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ai-agent-evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 103 --> 106
+    line [104, 105]
 ```
 
-2026-10-18 104 → 2026-10-27 104（+0）
+2026-10-18 104 → 2026-10-28 105（+1）
 
 
 ---

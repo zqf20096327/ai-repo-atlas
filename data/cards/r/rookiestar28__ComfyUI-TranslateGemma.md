@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-TranslateGemma
 
-⭐ 33 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/rookiestar28/ComfyUI-TranslateGemma) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rookiestar28/ComfyUI-TranslateGemma) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Google TranslateGemma 的翻译节点**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点，封装 Google 开源的 TranslateGemma 翻译模型（
 ```mermaid
 xychart-beta
     title "rookiestar28/ComfyUI-TranslateGemma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-27 33（+0）
+2026-10-18 33 → 2026-10-28 33（+0）
 
 
 ---

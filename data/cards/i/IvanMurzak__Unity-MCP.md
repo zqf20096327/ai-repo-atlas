@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-MCP
 
-⭐ 4,534 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/IvanMurzak/Unity-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 4,536 · C# · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/IvanMurzak/Unity-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **面向 Unity 的 MCP 工具与 AI 技能插件，让 AI agent 操作编辑器与运行时**
 
@@ -45,13 +45,13 @@ Unity 编辑器与运行时插件，通过 MCP 协议将 Claude Code、Cursor、
 
 ```mermaid
 xychart-beta
-    title "IvanMurzak/Unity-MCP 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4483 --> 4538
-    line [4487, 4501, 4512, 4514, 4519, 4523, 4530, 4534]
+    title "IvanMurzak/Unity-MCP 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4483 --> 4540
+    line [4487, 4501, 4512, 4514, 4519, 4523, 4530, 4534, 4536]
 ```
 
-2026-10-18 4,487 → 2026-10-27 4,534（+47）
+2026-10-18 4,487 → 2026-10-28 4,536（+49）
 
 
 ---

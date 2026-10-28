@@ -1,6 +1,6 @@
 # mrviduus/textstack
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/mrviduus/textstack) · [官网](https://textstack.app/) · 个人维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/mrviduus/textstack) · [官网](https://textstack.app/) · 个人维护
 
 **可接入自有 AI 助手的技术书阅读器（EPUB/PDF/FB2）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrviduus/textstack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    line [30, 31, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 31（+1）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

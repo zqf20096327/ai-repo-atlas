@@ -1,6 +1,6 @@
 # PerryLink/dsh-github
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-github) · [官网](https://perrylink.github.io/plugins/dsh-github/) · 个人维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-github) · [官网](https://perrylink.github.io/plugins/dsh-github/) · 个人维护
 
 **DeepSeek Harness 的 GitHub 插件：PR/issue/CI 工具与审批门控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-github 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 21 --> 28
     line [22, 24, 26, 27, 27]
 ```
 
-2026-10-18 22 → 2026-10-27 27（+5）
+2026-10-18 22 → 2026-10-28 27（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-VDN-H3
 
-⭐ 243 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VDN-H3) · [官网](https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui) · 个人维护 · 中文 README
+⭐ 242 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/Saganaki22/ComfyUI-VDN-H3) · [官网](https://huggingface.co/drbaph/vdn-minimax-h3-int8-convrot-comfyui) · 个人维护 · 中文 README
 
 **把 MiniMax-H3 的 Video Delta Net 混合注意力移植为 ComfyUI 原生节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-VDN-H3 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    title "Saganaki22/ComfyUI-VDN-H3 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 240 --> 244
-    line [241, 242, 243]
+    line [241, 242, 243, 242]
 ```
 
-2026-10-18 241 → 2026-10-27 243（+2）
+2026-10-18 241 → 2026-10-28 242（+1）
 
 
 ---

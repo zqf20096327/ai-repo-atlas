@@ -1,6 +1,6 @@
 # CatVinci-Studio/Textus
 
-⭐ 513 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CatVinci-Studio/Textus) · [官网](https://textus.catvinci.com) · 组织维护 · 中文 README
+⭐ 521 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/CatVinci-Studio/Textus) · [官网](https://textus.catvinci.com) · 组织维护 · 中文 README
 
 **带 AI 写作助手的开源 Markdown 编辑器（macOS/Windows/Linux）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CatVinci-Studio/Textus 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 60 --> 554
-    line [101, 384, 450, 459, 474, 478, 492, 513]
+    title "CatVinci-Studio/Textus 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 59 --> 563
+    line [101, 384, 450, 459, 474, 478, 492, 513, 521]
 ```
 
-2026-10-18 101 → 2026-10-27 513（+412）
+2026-10-18 101 → 2026-10-28 521（+420）
 
 
 ---

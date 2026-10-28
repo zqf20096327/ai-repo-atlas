@@ -1,6 +1,6 @@
 # microsoft/thinkingbox
 
-⭐ 110 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/thinkingbox) · 组织维护
+⭐ 111 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/thinkingbox) · 组织维护
 
 **微软的 MCP 工具 agent 评测框架，用于离线训练数据生成与 RL 训练**
 
@@ -45,13 +45,13 @@ ThinkingBox 是微软开源的框架，将工具定义为 MCP 服务器（含 mo
 
 ```mermaid
 xychart-beta
-    title "microsoft/thinkingbox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 102 --> 111
-    line [103, 105, 107, 108, 109, 110]
+    title "microsoft/thinkingbox 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 102 --> 112
+    line [103, 105, 107, 108, 109, 110, 111]
 ```
 
-2026-10-18 103 → 2026-10-27 110（+7）
+2026-10-18 103 → 2026-10-28 111（+8）
 
 
 ---

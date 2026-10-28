@@ -1,6 +1,6 @@
 # modelscope/modelscope-mcp-server
 
-⭐ 26 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/modelscope/modelscope-mcp-server) · [官网](https://modelscope.cn/mcp/servers/@modelscope/modelscope-mcp-server) · 组织维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/modelscope/modelscope-mcp-server) · [官网](https://modelscope.cn/mcp/servers/@modelscope/modelscope-mcp-server) · 组织维护 · 中文 README
 
 **ModelScope 官方 MCP Server：让 Agent 访问其模型与数据集生态**
 
@@ -45,12 +45,12 @@ ModelScope 官方维护的 MCP 服务器，基于 FastMCP v2 构建，向 AI age
 ```mermaid
 xychart-beta
     title "modelscope/modelscope-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 24 --> 27
+    line [26, 25]
 ```
 
-2026-10-18 26 → 2026-10-27 26（+0）
+2026-10-18 26 → 2026-10-28 25（-1）
 
 
 ---

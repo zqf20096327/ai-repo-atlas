@@ -1,6 +1,6 @@
 # razvanneculai/litecode
 
-⭐ 120 · TypeScript · ISC · 推送 2026-04-28 · [GitHub](https://github.com/razvanneculai/litecode) · 个人维护
+⭐ 119 · TypeScript · ISC · 推送 2026-04-28 · [GitHub](https://github.com/razvanneculai/litecode) · 个人维护
 
 **面向 8k 上下文模型的 CLI AI 编码代理**
 
@@ -45,12 +45,12 @@ Node.js CLI/TUI 编码代理，让开发者用自然语言指令在项目中执�
 ```mermaid
 xychart-beta
     title "razvanneculai/litecode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 116 --> 121
-    line [117, 119, 120, 120]
+    line [117, 119, 120, 119]
 ```
 
-2026-10-18 117 → 2026-10-27 120（+3）
+2026-10-18 117 → 2026-10-28 119（+2）
 
 
 ---

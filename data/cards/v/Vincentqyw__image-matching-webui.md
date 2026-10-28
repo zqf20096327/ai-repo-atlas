@@ -1,6 +1,6 @@
 # Vincentqyw/image-matching-webui
 
-⭐ 1,313 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
+⭐ 1,314 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
 
 **图像特征匹配 WebUI：多种算法比对两图关键点并可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Vincentqyw/image-matching-webui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 1309 --> 1314
-    line [1310, 1313, 1313]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 1309 --> 1315
+    line [1310, 1313, 1314]
 ```
 
-2026-10-18 1,310 → 2026-10-27 1,313（+3）
+2026-10-18 1,310 → 2026-10-28 1,314（+4）
 
 
 ---

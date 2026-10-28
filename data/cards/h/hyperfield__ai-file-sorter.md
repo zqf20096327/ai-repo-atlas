@@ -1,6 +1,6 @@
 # hyperfield/ai-file-sorter
 
-⭐ 1,858 · C++ · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/hyperfield/ai-file-sorter) · [官网](https://filesorter.app) · 个人维护 · 中文 README
+⭐ 1,862 · C++ · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/hyperfield/ai-file-sorter) · [官网](https://filesorter.app) · 个人维护 · 中文 README
 
 **跨平台桌面应用：用本地/远程 AI 整理文件并建议重命名**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyperfield/ai-file-sorter 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 1833 --> 1860
-    line [1835, 1840, 1845, 1848, 1849, 1851, 1854, 1858]
+    title "hyperfield/ai-file-sorter 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 1833 --> 1864
+    line [1835, 1840, 1845, 1848, 1849, 1851, 1854, 1858, 1862]
 ```
 
-2026-10-18 1,835 → 2026-10-27 1,858（+23）
+2026-10-18 1,835 → 2026-10-28 1,862（+27）
 
 
 ---

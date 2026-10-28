@@ -1,6 +1,6 @@
 # unsupportedpastels/mercury
 
-⭐ 56 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unsupportedpastels/mercury) · 个人维护
+⭐ 58 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/unsupportedpastels/mercury) · 个人维护
 
 **Hermes Agent 的非官方开源移动客户端（Android + iOS）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "unsupportedpastels/mercury 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 58]
 ```
 
-2026-10-18 55 → 2026-10-27 56（+1）
+2026-10-18 55 → 2026-10-28 58（+3）
 
 
 ---

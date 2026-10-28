@@ -1,6 +1,6 @@
 # RedRayz/Kohya_lora_param_gui
 
-⭐ 178 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/RedRayz/Kohya_lora_param_gui) · 个人维护
+⭐ 178 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RedRayz/Kohya_lora_param_gui) · 个人维护
 
 **Windows 桌面 GUI：为 kohya sd-scripts 设定 LoRA 训练参数**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RedRayz/Kohya_lora_param_gui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
     y-axis "stars" 177 --> 180
     line [179, 178, 178]
 ```
 
-2026-10-18 179 → 2026-10-27 178（-1）
+2026-10-18 179 → 2026-10-28 178（-1）
 
 
 ---

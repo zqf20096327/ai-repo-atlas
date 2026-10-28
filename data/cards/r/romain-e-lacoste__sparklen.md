@@ -1,6 +1,6 @@
 # romain-e-lacoste/sparklen
 
-⭐ 22 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/romain-e-lacoste/sparklen) · [官网](https://arxiv.org/pdf/2502.18979) · 个人维护
+⭐ 22 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/romain-e-lacoste/sparklen) · [官网](https://arxiv.org/pdf/2502.18979) · 个人维护
 
 **高维 Hawkes 过程的 Python 统计学习工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "romain-e-lacoste/sparklen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-27 22（+0）
+2026-10-18 22 → 2026-10-28 22（+0）
 
 
 ---

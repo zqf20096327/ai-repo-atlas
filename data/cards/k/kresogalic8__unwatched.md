@@ -1,6 +1,6 @@
 # kresogalic8/unwatched
 
-⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/kresogalic8/unwatched) · [官网](https://unwatched.world) · 个人维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/kresogalic8/unwatched) · [官网](https://unwatched.world) · 个人维护
 
 **实时运转的 AI 公民小镇模拟：写信念影响你的公民，不下命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kresogalic8/unwatched 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-27 35（+0）
+2026-10-18 35 → 2026-10-28 36（+1）
 
 
 ---

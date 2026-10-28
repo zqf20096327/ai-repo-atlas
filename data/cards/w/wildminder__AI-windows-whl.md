@@ -1,6 +1,6 @@
 # wildminder/AI-windows-whl
 
-⭐ 878 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
+⭐ 881 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
 
 **Windows 平台 AI/ML 库预编译 whl 链接清单，免源码编译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wildminder/AI-windows-whl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 876 --> 879
-    line [877, 878, 878]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 876 --> 882
+    line [877, 878, 881]
 ```
 
-2026-10-18 877 → 2026-10-27 878（+1）
+2026-10-18 877 → 2026-10-28 881（+4）
 
 
 ---

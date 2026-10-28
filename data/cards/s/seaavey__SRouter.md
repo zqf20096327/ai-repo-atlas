@@ -1,6 +1,6 @@
 # seaavey/SRouter
 
-⭐ 23 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/seaavey/SRouter) · [官网](https://srouter.web.id) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/seaavey/SRouter) · [官网](https://srouter.web.id) · 个人维护
 
 **Rust 自托管 LLM 网关：一个端点聚合多供应商 OAuth 账号**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seaavey/SRouter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

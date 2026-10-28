@@ -1,6 +1,6 @@
 # jingyi0000/VLM_survey
 
-⭐ 3,129 · 推送 2026-10-05 · [GitHub](https://github.com/jingyi0000/VLM_survey) · 组织维护
+⭐ 3,131 · 推送 2026-10-05 · [GitHub](https://github.com/jingyi0000/VLM_survey) · 组织维护
 
 **视觉语言模型（VLM）视觉任务综述的配套论文清单**
 
@@ -45,12 +45,12 @@ TPAMI 2024 论文《Vision-Language Models for Vision Tasks: A Survey》的配�
 ```mermaid
 xychart-beta
     title "jingyi0000/VLM_survey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 3127 --> 3130
-    line [3128, 3129, 3129]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 3127 --> 3132
+    line [3128, 3129, 3131]
 ```
 
-2026-10-18 3,128 → 2026-10-27 3,129（+1）
+2026-10-18 3,128 → 2026-10-28 3,131（+3）
 
 
 ---

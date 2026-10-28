@@ -44,12 +44,12 @@ HLA（Higher-order Linear Attention）的研究项目页面，介绍一种因果
 ```mermaid
 xychart-beta
     title "yifanzhang-pro/HLA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-18 104 → 2026-10-27 104（+0）
+2026-10-18 104 → 2026-10-28 104（+0）
 
 
 ---

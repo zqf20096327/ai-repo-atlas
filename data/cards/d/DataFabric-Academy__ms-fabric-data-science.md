@@ -1,6 +1,6 @@
 # DataFabric-Academy/ms-fabric-data-science
 
-⭐ 98 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/DataFabric-Academy/ms-fabric-data-science) · [官网](https://learn.microsoft.com/training/paths/implement-data-science-machine-learning-fabric/) · 组织维护 · 中文 README
+⭐ 99 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/DataFabric-Academy/ms-fabric-data-science) · [官网](https://learn.microsoft.com/training/paths/implement-data-science-machine-learning-fabric/) · 组织维护 · 中文 README
 
 **Microsoft Fabric 数据科学实战课程：FreshMart 客户流失预测实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DataFabric-Academy/ms-fabric-data-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 97 --> 99
-    line [98, 98]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 97 --> 100
+    line [98, 99]
 ```
 
-2026-10-18 98 → 2026-10-27 98（+0）
+2026-10-18 98 → 2026-10-28 99（+1）
 
 
 ---

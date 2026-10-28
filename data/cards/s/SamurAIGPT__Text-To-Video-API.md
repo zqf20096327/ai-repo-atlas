@@ -46,12 +46,12 @@ Vadoo Text-to-Video API 的使用文档仓库：通过一个 POST 端点，传�
 ```mermaid
 xychart-beta
     title "SamurAIGPT/Text-To-Video-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-27 30（+0）
+2026-10-18 30 → 2026-10-28 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Unclecheng-li/DeepSec
 
-⭐ 497 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Unclecheng-li/DeepSec) · [官网](https://unclecheng-li.github.io/deepsec.com/) · 个人维护 · 中文 README
+⭐ 498 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Unclecheng-li/DeepSec) · [官网](https://unclecheng-li.github.io/deepsec.com/) · 个人维护 · 中文 README
 
 **AI 代码审计与授权渗透测试一体的安全平台**
 
@@ -45,13 +45,13 @@ DeepSec 将 Shield（AI 代码安全审计）与 Spear（授权渗透测试引�
 
 ```mermaid
 xychart-beta
-    title "Unclecheng-li/DeepSec 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 485 --> 498
-    line [486, 490, 492, 493, 495, 496, 497]
+    title "Unclecheng-li/DeepSec 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 485 --> 499
+    line [486, 490, 492, 493, 495, 496, 497, 498]
 ```
 
-2026-10-18 486 → 2026-10-27 497（+11）
+2026-10-18 486 → 2026-10-28 498（+12）
 
 
 ---

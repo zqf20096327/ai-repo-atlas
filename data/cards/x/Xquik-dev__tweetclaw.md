@@ -1,6 +1,6 @@
 # Xquik-dev/tweetclaw
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xquik-dev/tweetclaw) · [官网](https://docs.xquik.com/guides/tweetclaw) · 组织维护
+⭐ 94 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Xquik-dev/tweetclaw) · [官网](https://docs.xquik.com/guides/tweetclaw) · 组织维护
 
 **OpenClaw 的 X/Twitter 操作插件：让 agent 搜推、发帖、导粉丝、监控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xquik-dev/tweetclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    line [94, 95, 94]
 ```
 
-2026-10-18 94 → 2026-10-27 95（+1）
+2026-10-18 94 → 2026-10-28 94（+0）
 
 
 ---

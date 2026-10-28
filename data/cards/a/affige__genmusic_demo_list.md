@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "affige/genmusic_demo_list 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "affige/genmusic_demo_list 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 797 --> 800
-    line [798, 799]
+    line [798, 799, 799]
 ```
 
-2026-10-18 798 → 2026-10-27 799（+1）
+2026-10-18 798 → 2026-10-28 799（+1）
 
 
 ---

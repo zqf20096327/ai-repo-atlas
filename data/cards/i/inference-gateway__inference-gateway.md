@@ -1,6 +1,6 @@
 # inference-gateway/inference-gateway
 
-⭐ 217 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/inference-gateway/inference-gateway) · [官网](https://docs.inference-gateway.com) · 组织维护
+⭐ 217 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/inference-gateway/inference-gateway) · [官网](https://docs.inference-gateway.com) · 组织维护
 
 **统一多家 LLM 提供商的 OpenAI 兼容 API 网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inference-gateway/inference-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
     y-axis "stars" 214 --> 218
     line [215, 216, 217, 217]
 ```
 
-2026-10-18 215 → 2026-10-27 217（+2）
+2026-10-18 215 → 2026-10-28 217（+2）
 
 
 ---

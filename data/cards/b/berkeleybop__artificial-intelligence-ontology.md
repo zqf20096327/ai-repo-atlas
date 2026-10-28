@@ -1,6 +1,6 @@
 # berkeleybop/artificial-intelligence-ontology
 
-⭐ 63 · Jupyter Notebook · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/berkeleybop/artificial-intelligence-ontology) · [官网](https://berkeleybop.github.io/artificial-intelligence-ontology/) · 组织维护
+⭐ 64 · Jupyter Notebook · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/berkeleybop/artificial-intelligence-ontology) · [官网](https://berkeleybop.github.io/artificial-intelligence-ontology/) · 组织维护
 
 **描述 AI/ML 概念与偏见的本体：建模网络、层与任务分类体系**
 
@@ -45,12 +45,12 @@ Berkeleybop 维护的人工智能本体（AIO）：以 OWL 形式对深度学习
 ```mermaid
 xychart-beta
     title "berkeleybop/artificial-intelligence-ontology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-10-27 63（+0）
+2026-10-18 63 → 2026-10-28 64（+1）
 
 
 ---

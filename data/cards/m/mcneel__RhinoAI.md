@@ -1,6 +1,6 @@
 # mcneel/RhinoAI
 
-⭐ 381 · C# · MIT · 推送 2026-10-24 · [GitHub](https://github.com/mcneel/RhinoAI) · [官网](https://mcneel.github.io/RhinoAI/) · 组织维护
+⭐ 383 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mcneel/RhinoAI) · [官网](https://mcneel.github.io/RhinoAI/) · 组织维护
 
 **为 Rhino3D 提供 MCP 集成，接入 AI 助手操控建模**
 
@@ -44,13 +44,13 @@ McNeel 官方维护的 Rhino3D AI 集成：以 Rhino MCP 服务器为核心，�
 
 ```mermaid
 xychart-beta
-    title "mcneel/RhinoAI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 368 --> 382
-    line [369, 370, 371, 375, 377, 378, 379, 381]
+    title "mcneel/RhinoAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 368 --> 384
+    line [369, 370, 371, 375, 377, 378, 379, 381, 383]
 ```
 
-2026-10-18 369 → 2026-10-27 381（+12）
+2026-10-18 369 → 2026-10-28 383（+14）
 
 
 ---

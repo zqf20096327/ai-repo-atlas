@@ -1,6 +1,6 @@
 # retentioneering/retentioneering-tools
 
-⭐ 940 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/retentioneering/retentioneering-tools) · [官网](https://retentioneering.com/docs/) · 组织维护
+⭐ 942 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/retentioneering/retentioneering-tools) · [官网](https://retentioneering.com/docs/) · 组织维护
 
 **事件日志用户行为分析 Python 库，支持 AI agent 调用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "retentioneering/retentioneering-tools 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 933 --> 941
-    line [934, 935, 936, 937, 938, 940]
+    title "retentioneering/retentioneering-tools 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 933 --> 943
+    line [934, 935, 936, 937, 938, 940, 942]
 ```
 
-2026-10-18 934 → 2026-10-27 940（+6）
+2026-10-18 934 → 2026-10-28 942（+8）
 
 
 ---

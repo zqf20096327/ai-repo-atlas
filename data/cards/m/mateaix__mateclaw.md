@@ -1,6 +1,6 @@
 # mateaix/mateclaw
 
-⭐ 1,170 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
+⭐ 1,172 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
 
 **面向企业的自托管多 Agent 平台：数字员工、知识库与多渠道接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mateaix/mateclaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 1162 --> 1171
-    line [1163, 1166, 1168, 1170, 1170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 1162 --> 1173
+    line [1163, 1166, 1168, 1170, 1172]
 ```
 
-2026-10-18 1,163 → 2026-10-27 1,170（+7）
+2026-10-18 1,163 → 2026-10-28 1,172（+9）
 
 
 ---

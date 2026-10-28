@@ -1,6 +1,6 @@
 # muellerberndt/mini-agi
 
-⭐ 2,932 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/muellerberndt/mini-agi) · 个人维护
+⭐ 2,931 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/muellerberndt/mini-agi) · 个人维护
 
 **基于 GPT-3.5/4 API 的极简通用自主 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "muellerberndt/mini-agi 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2931 --> 2934
-    line [2932, 2933, 2932, 2932]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 2930 --> 2934
+    line [2932, 2933, 2932, 2931]
 ```
 
-2026-10-22 2,932 → 2026-10-27 2,932（+0）
+2026-10-22 2,932 → 2026-10-28 2,931（-1）
 
 
 ---

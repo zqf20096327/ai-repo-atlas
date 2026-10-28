@@ -1,6 +1,6 @@
 # norse/norse
 
-⭐ 827 · Python · LGPL-3.0 · 推送 2026-07-07 · [GitHub](https://github.com/norse/norse) · [官网](https://norse.github.io/norse/) · 组织维护
+⭐ 828 · Python · LGPL-3.0 · 推送 2026-07-07 · [GitHub](https://github.com/norse/norse) · [官网](https://norse.github.io/norse/) · 组织维护
 
 **在 PyTorch 中构建脉冲神经网络（SNN）的深度学习库**
 
@@ -46,12 +46,12 @@ Norse 是一个扩展 PyTorch 的脉冲神经网络（SNN）库：提供生物�
 ```mermaid
 xychart-beta
     title "norse/norse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 824 --> 828
-    line [825, 826, 827, 827]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    y-axis "stars" 824 --> 829
+    line [825, 826, 827, 828]
 ```
 
-2026-10-18 825 → 2026-10-27 827（+2）
+2026-10-18 825 → 2026-10-28 828（+3）
 
 
 ---

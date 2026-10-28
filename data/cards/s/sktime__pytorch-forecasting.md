@@ -1,6 +1,6 @@
 # sktime/pytorch-forecasting
 
-⭐ 5,004 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sktime/pytorch-forecasting) · [官网](https://pytorch-forecasting.readthedocs.io/) · 组织维护
+⭐ 5,004 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sktime/pytorch-forecasting) · [官网](https://pytorch-forecasting.readthedocs.io/) · 组织维护
 
 **基于 PyTorch 的时间序列预测深度学习库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sktime/pytorch-forecasting 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28"]
     y-axis "stars" 5000 --> 5005
     line [5001, 5002, 5003, 5004, 5004]
 ```
 
-2026-10-18 5,001 → 2026-10-27 5,004（+3）
+2026-10-18 5,001 → 2026-10-28 5,004（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ly041021/TIO-Former
 
-⭐ 34 · 推送 2026-09-28 · [GitHub](https://github.com/Ly041021/TIO-Former) · [官网](https://arxiv.org/abs/2609.17198) · 组织维护 · 中文 README
+⭐ 35 · 推送 2026-09-28 · [GitHub](https://github.com/Ly041021/TIO-Former) · [官网](https://arxiv.org/abs/2609.17198) · 组织维护 · 中文 README
 
 **面向纳米无人机的六向 ToF-惯性轻量里程计框架（论文先行）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Ly041021/TIO-Former 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 31 --> 35
-    line [32, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 31 --> 36
+    line [32, 34, 35]
 ```
 
-2026-10-18 32 → 2026-10-27 34（+2）
+2026-10-18 32 → 2026-10-28 35（+3）
 
 
 ---

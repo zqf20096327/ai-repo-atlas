@@ -1,6 +1,6 @@
 # arcships/light-ocr
 
-⭐ 646 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/arcships/light-ocr) · 组织维护 · 中文 README
+⭐ 648 · C++ · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/arcships/light-ocr) · 组织维护 · 中文 README
 
 **Node.js/C++ 本地离线 OCR 库，识别图片与 PDF 文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arcships/light-ocr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 636 --> 647
-    line [637, 639, 641, 643, 646, 646]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 636 --> 649
+    line [637, 639, 641, 643, 646, 648]
 ```
 
-2026-10-18 637 → 2026-10-27 646（+9）
+2026-10-18 637 → 2026-10-28 648（+11）
 
 
 ---

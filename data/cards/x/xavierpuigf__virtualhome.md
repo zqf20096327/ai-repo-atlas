@@ -1,6 +1,6 @@
 # xavierpuigf/virtualhome
 
-⭐ 643 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/xavierpuigf/virtualhome) · [官网](http://virtual-home.org) · 组织维护
+⭐ 644 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/xavierpuigf/virtualhome) · [官网](http://virtual-home.org) · 组织维护
 
 **多智能体家庭活动模拟器：供具身 AI 研究训练与评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xavierpuigf/virtualhome 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 638 --> 644
-    line [639, 640, 641, 642, 643, 643]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 638 --> 645
+    line [639, 640, 641, 642, 643, 644]
 ```
 
-2026-10-18 639 → 2026-10-27 643（+4）
+2026-10-18 639 → 2026-10-28 644（+5）
 
 
 ---

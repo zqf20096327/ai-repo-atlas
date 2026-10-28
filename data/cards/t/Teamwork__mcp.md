@@ -1,6 +1,6 @@
 # Teamwork/mcp
 
-⭐ 27 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Teamwork/mcp) · [官网](https://mcp.ai.teamwork.com) · 组织维护
+⭐ 28 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Teamwork/mcp) · [官网](https://mcp.ai.teamwork.com) · 组织维护
 
 **Teamwork.com 的 MCP 服务器：让 LLM 操作项目管理平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Teamwork/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 28（+1）
 
 
 ---

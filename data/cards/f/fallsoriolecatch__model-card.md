@@ -1,6 +1,6 @@
 # fallsoriolecatch/model-card
 
-⭐ 24 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/fallsoriolecatch/model-card) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-10-18 · [GitHub](https://github.com/fallsoriolecatch/model-card) · 个人维护
 
 **Windows 桌面工具：为 LLM 生成 Hugging Face 格式模型卡**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fallsoriolecatch/model-card 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
     y-axis "stars" 11 --> 25
-    line [12, 18, 23, 24, 24]
+    line [12, 18, 23, 24, 23]
 ```
 
-2026-10-22 12 → 2026-10-27 24（+12）
+2026-10-22 12 → 2026-10-28 23（+11）
 
 
 ---

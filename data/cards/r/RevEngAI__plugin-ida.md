@@ -1,6 +1,6 @@
 # RevEngAI/plugin-ida
 
-⭐ 163 · Python · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
+⭐ 163 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
 
 **逆向工程师用的 IDA Pro 插件：云端 AI 二进制分析与函数命名**
 
@@ -46,12 +46,12 @@ RevEng.AI 官方开源的 IDA Pro 插件，将当前打开的二进制上传至 
 ```mermaid
 xychart-beta
     title "RevEngAI/plugin-ida 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-18 163 → 2026-10-27 163（+0）
+2026-10-18 163 → 2026-10-28 163（+0）
 
 
 ---

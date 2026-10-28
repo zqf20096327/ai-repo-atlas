@@ -1,6 +1,6 @@
 # microsoft/ValueLens-for-Microsoft-Copilot
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/ValueLens-for-Microsoft-Copilot) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/ValueLens-for-Microsoft-Copilot) · 组织维护
 
 **度量 Microsoft 365 Copilot 与 agent 使用价值的 Power BI 模板**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ValueLens-for-Microsoft-Copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-27 23（+0）
+2026-10-18 23 → 2026-10-28 23（+0）
 
 
 ---

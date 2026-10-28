@@ -1,6 +1,6 @@
 # adsorgcn/iLang-Adsense-Auditor
 
-⭐ 32 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/adsorgcn/iLang-Adsense-Auditor) · 组织维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/adsorgcn/iLang-Adsense-Auditor) · 组织维护 · 中文 README
 
 **AdSense 过审前置审核技能包：对照 Google 政策逐条查网站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adsorgcn/iLang-Adsense-Auditor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32]
+    title "adsorgcn/iLang-Adsense-Auditor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33]
 ```
 
-2026-10-18 30 → 2026-10-27 32（+2）
+2026-10-18 30 → 2026-10-28 33（+3）
 
 
 ---

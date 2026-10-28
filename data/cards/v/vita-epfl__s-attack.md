@@ -1,6 +1,6 @@
 # vita-epfl/s-attack
 
-⭐ 123 · Python · AGPL-3.0 · 推送 2025-12-31 · [GitHub](https://github.com/vita-epfl/s-attack) · 组织维护
+⭐ 124 · Python · AGPL-3.0 · 推送 2025-12-31 · [GitHub](https://github.com/vita-epfl/s-attack) · 组织维护
 
 **轨迹预测模型的评测与鲁棒性研究代码库（三篇论文官方实现）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "vita-epfl/s-attack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 122 --> 124
-    line [123, 123]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 122 --> 125
+    line [123, 124]
 ```
 
-2026-10-18 123 → 2026-10-27 123（+0）
+2026-10-18 123 → 2026-10-28 124（+1）
 
 
 ---

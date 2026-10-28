@@ -1,6 +1,6 @@
 # satendra03/Journey-Jolt
 
-⭐ 82 · JavaScript · MIT · 推送 2026-01-10 · [GitHub](https://github.com/satendra03/Journey-Jolt) · [官网](https://journeyjolt.vercel.app/) · 个人维护
+⭐ 81 · JavaScript · MIT · 推送 2026-01-10 · [GitHub](https://github.com/satendra03/Journey-Jolt) · [官网](https://journeyjolt.vercel.app/) · 个人维护
 
 **面向旅行者的 AI 行程规划 Web 应用（已暂停维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "satendra03/Journey-Jolt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 80 --> 83
+    line [82, 81]
 ```
 
-2026-10-18 82 → 2026-10-27 82（+0）
+2026-10-18 82 → 2026-10-28 81（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lawrence3699/jev-style
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护
 
 **本地运行的小型校准决策模型：文本输入返回各选项概率**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lawrence3699/jev-style 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27"]
+    title "lawrence3699/jev-style 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 23]
+    line [21, 22, 23, 22, 23, 22]
 ```
 
-2026-10-18 21 → 2026-10-27 23（+2）
+2026-10-18 21 → 2026-10-28 22（+1）
 
 
 ---

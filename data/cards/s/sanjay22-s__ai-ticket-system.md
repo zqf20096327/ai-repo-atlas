@@ -46,12 +46,12 @@ FastAPI + React + PostgreSQL 构建的工单管理仪表盘，仓库描述称其
 ```mermaid
 xychart-beta
     title "sanjay22-s/ai-ticket-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-27 61（+0）
+2026-10-18 61 → 2026-10-28 61（+0）
 
 
 ---

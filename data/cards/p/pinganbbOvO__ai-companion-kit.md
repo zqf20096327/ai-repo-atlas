@@ -1,6 +1,6 @@
 # pinganbbOvO/ai-companion-kit
 
-⭐ 493 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pinganbbOvO/ai-companion-kit) · 个人维护 · 中文 README
+⭐ 502 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/pinganbbOvO/ai-companion-kit) · 个人维护 · 中文 README
 
 **给个人用户的 QQ 陪聊 AI 与安卓手机控制 MCP 工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pinganbbOvO/ai-companion-kit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 3 --> 537
-    line [47, 181, 286, 359, 385, 423, 467, 493]
+    title "pinganbbOvO/ai-companion-kit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2 --> 547
+    line [47, 181, 286, 359, 385, 423, 467, 493, 502]
 ```
 
-2026-10-18 47 → 2026-10-27 493（+446）
+2026-10-18 47 → 2026-10-28 502（+455）
 
 
 ---

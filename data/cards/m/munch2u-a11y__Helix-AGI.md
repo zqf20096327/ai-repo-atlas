@@ -1,6 +1,6 @@
 # munch2u-a11y/Helix-AGI
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/munch2u-a11y/Helix-AGI) · 个人维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/munch2u-a11y/Helix-AGI) · 个人维护
 
 **本地双 RWKV 自主智能体：持续感知、私有思考与直接说话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "munch2u-a11y/Helix-AGI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
     y-axis "stars" 60 --> 65
-    line [61, 62, 64, 64]
+    line [61, 62, 64, 63]
 ```
 
-2026-10-18 61 → 2026-10-27 64（+3）
+2026-10-18 61 → 2026-10-28 63（+2）
 
 
 ---

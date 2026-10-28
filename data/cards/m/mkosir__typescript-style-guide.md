@@ -1,6 +1,6 @@
 # mkosir/typescript-style-guide
 
-⭐ 783 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/mkosir/typescript-style-guide) · [官网](https://mkosir.github.io/typescript-style-guide/) · 个人维护
+⭐ 785 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/mkosir/typescript-style-guide) · [官网](https://mkosir.github.io/typescript-style-guide/) · 个人维护
 
 **TypeScript 编码规范与可安装的 Agent Skill 集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkosir/typescript-style-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 782 --> 785
-    line [784, 783, 784, 783]
+    title "mkosir/typescript-style-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 782 --> 786
+    line [784, 783, 784, 783, 785]
 ```
 
-2026-10-18 784 → 2026-10-27 783（-1）
+2026-10-18 784 → 2026-10-28 785（+1）
 
 
 ---

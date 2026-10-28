@@ -1,6 +1,6 @@
 # MoonshotAI/PerceptionBench
 
-⭐ 217 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/MoonshotAI/PerceptionBench) · 组织维护 · 中文 README
+⭐ 218 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/MoonshotAI/PerceptionBench) · 组织维护 · 中文 README
 
 **评测多模态大模型原子视觉感知能力的基准（3,000 题）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MoonshotAI/PerceptionBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 214 --> 218
-    line [215, 216, 217, 217]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 214 --> 219
+    line [215, 216, 217, 218]
 ```
 
-2026-10-18 215 → 2026-10-27 217（+2）
+2026-10-18 215 → 2026-10-28 218（+3）
 
 
 ---

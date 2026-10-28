@@ -1,6 +1,6 @@
 # zhongyu09/openchatbi
 
-⭐ 670 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/zhongyu09/openchatbi) · [官网](https://zhongyu09.github.io/openchatbi/) · 个人维护
+⭐ 672 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zhongyu09/openchatbi) · [官网](https://zhongyu09.github.io/openchatbi/) · 个人维护
 
 **对话式开源 BI 工具：用自然语言查询、分析与可视化数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhongyu09/openchatbi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 666 --> 672
-    line [667, 670, 671, 669, 670, 670]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 666 --> 673
+    line [667, 670, 671, 669, 670, 672]
 ```
 
-2026-10-18 667 → 2026-10-27 670（+3）
+2026-10-18 667 → 2026-10-28 672（+5）
 
 
 ---

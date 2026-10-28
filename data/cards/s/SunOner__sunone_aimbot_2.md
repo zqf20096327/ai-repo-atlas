@@ -1,6 +1,6 @@
 # SunOner/sunone_aimbot_2
 
-⭐ 722 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
+⭐ 723 · C++ · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
 
 **面向 FPS/TPS 游戏的 AI 自瞄工具（C++，YOLO 模型）**
 
@@ -44,13 +44,13 @@ C++ 编写的屏幕目标检测自瞄程序：读取用户提供的 .onnx 模型
 
 ```mermaid
 xychart-beta
-    title "SunOner/sunone_aimbot_2 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 711 --> 723
-    line [712, 713, 716, 717, 718, 719, 722]
+    title "SunOner/sunone_aimbot_2 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 711 --> 724
+    line [712, 713, 716, 717, 718, 719, 722, 723]
 ```
 
-2026-10-18 712 → 2026-10-27 722（+10）
+2026-10-18 712 → 2026-10-28 723（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # Vedenin/useful-java-links
 
-⭐ 6,210 · Java · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Vedenin/useful-java-links) · 个人维护
+⭐ 6,208 · Java · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/Vedenin/useful-java-links) · 个人维护
 
 **Java 框架与库的策展清单：给开发者按类别找库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vedenin/useful-java-links 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
+    title "Vedenin/useful-java-links 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
     y-axis "stars" 6205 --> 6211
-    line [6207, 6206, 6207, 6208, 6209, 6210]
+    line [6207, 6206, 6207, 6208, 6209, 6210, 6208]
 ```
 
-2026-10-18 6,207 → 2026-10-27 6,210（+3）
+2026-10-18 6,207 → 2026-10-28 6,208（+1）
 
 
 ---

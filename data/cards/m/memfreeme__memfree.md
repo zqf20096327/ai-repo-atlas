@@ -1,6 +1,6 @@
 # memfreeme/memfree
 
-⭐ 1,514 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/memfreeme/memfree) · [官网](https://www.memfree.me?ref=github.com) · 组织维护 · 中文 README
+⭐ 1,515 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/memfreeme/memfree) · [官网](https://www.memfree.me?ref=github.com) · 组织维护 · 中文 README
 
 **混合 AI 搜索引擎与 AI 页面生成器，面向个人用户**
 
@@ -46,13 +46,13 @@ MemFree 是开源的混合 AI 搜索引擎：从用户个人知识库（本地�
 
 ```mermaid
 xychart-beta
-    title "memfreeme/memfree 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27"]
+    title "memfreeme/memfree 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1512 --> 1516
-    line [1515, 1514, 1513, 1514]
+    line [1515, 1514, 1513, 1514, 1515]
 ```
 
-2026-10-18 1,515 → 2026-10-27 1,514（-1）
+2026-10-18 1,515 → 2026-10-28 1,515（+0）
 
 
 ---

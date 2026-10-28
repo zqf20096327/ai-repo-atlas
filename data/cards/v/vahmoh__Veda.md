@@ -1,6 +1,6 @@
 # vahmoh/Veda
 
-⭐ 95 · Rust · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/vahmoh/Veda) · [官网](https://www.vedaos.org) · 个人维护
+⭐ 96 · Rust · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/vahmoh/Veda) · [官网](https://www.vedaos.org) · 个人维护
 
 **Rust 编写的桌面操作系统，内置语音 agent 控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vahmoh/Veda 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-26", "2026-10-28"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-26 95 → 2026-10-27 95（+0）
+2026-10-26 95 → 2026-10-28 96（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hiyouga/LlamaFactory
 
-⭐ 75,742 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
+⭐ 75,745 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
 
 **面向开发者的 100+ LLM/VLM 统一微调工具**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "hiyouga/LlamaFactory 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 75519 --> 75762
-    line [75539, 75592, 75636, 75665, 75697, 75710, 75724, 75742]
+    title "hiyouga/LlamaFactory 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 75519 --> 75765
+    line [75539, 75592, 75636, 75665, 75697, 75710, 75724, 75742, 75745]
 ```
 
-2026-10-18 75,539 → 2026-10-27 75,742（+203）
+2026-10-18 75,539 → 2026-10-28 75,745（+206）
 
 
 ---

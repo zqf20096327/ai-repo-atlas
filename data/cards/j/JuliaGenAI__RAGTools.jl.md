@@ -46,12 +46,12 @@ Julia 语言的 RAG 应用构建包，从 PromptingTools.jl 独立拆分而来�
 ```mermaid
 xychart-beta
     title "JuliaGenAI/RAGTools.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 34（+0）
 
 
 ---

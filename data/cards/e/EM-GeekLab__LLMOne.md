@@ -1,6 +1,6 @@
 # EM-GeekLab/LLMOne
 
-⭐ 89 · TypeScript · MulanPSL-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/EM-GeekLab/LLMOne) · 组织维护 · 中文 README
+⭐ 90 · TypeScript · MulanPSL-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/EM-GeekLab/LLMOne) · 组织维护 · 中文 README
 
 **企业级大模型私有化部署平台：全栈自动化交付推理服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EM-GeekLab/LLMOne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-18 89 → 2026-10-27 89（+0）
+2026-10-18 89 → 2026-10-28 90（+1）
 
 
 ---

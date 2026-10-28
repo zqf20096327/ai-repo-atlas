@@ -1,6 +1,6 @@
 # captainluzik/oh-my-embedded
 
-⭐ 34 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/captainluzik/oh-my-embedded) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/captainluzik/oh-my-embedded) · 个人维护
 
 **面向嵌入式工程师的 OpenCode 插件：专业 agent、技能与计算工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "captainluzik/oh-my-embedded 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 34, 34]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 34, 35]
 ```
 
-2026-10-18 31 → 2026-10-27 34（+3）
+2026-10-18 31 → 2026-10-28 35（+4）
 
 
 ---

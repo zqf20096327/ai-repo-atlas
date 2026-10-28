@@ -1,6 +1,6 @@
 # oboroge0/AITuberFlow
 
-⭐ 68 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/oboroge0/AITuberFlow) · 个人维护 · 中文 README
+⭐ 68 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/oboroge0/AITuberFlow) · 个人维护 · 中文 README
 
 **无代码可视化搭建 AI 虚拟主播工作流的编辑器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oboroge0/AITuberFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-27 68（+0）
+2026-10-18 68 → 2026-10-28 68（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nihui/ncnn-android-styletransfer
 
-⭐ 110 · C · 推送 2026-10-23 · [GitHub](https://github.com/nihui/ncnn-android-styletransfer) · 个人维护
+⭐ 110 · C · 推送 2026-10-27 · [GitHub](https://github.com/nihui/ncnn-android-styletransfer) · 个人维护
 
 **在 Android 上运行风格迁移的 ncnn 示例应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nihui/ncnn-android-styletransfer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
     y-axis "stars" 108 --> 111
     line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-10-27 110（+1）
+2026-10-18 109 → 2026-10-28 110（+1）
 
 
 ---

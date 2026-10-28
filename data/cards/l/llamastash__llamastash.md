@@ -1,6 +1,6 @@
 # llamastash/llamastash
 
-⭐ 252 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/llamastash/llamastash) · [官网](https://llamastash.dev) · 个人维护
+⭐ 265 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/llamastash/llamastash) · [官网](https://llamastash.dev) · 个人维护
 
 **终端本地 LLM 编排器：一个二进制统一运行多引擎与模型**
 
@@ -45,13 +45,13 @@ Rust 编写的单二进制工具，集 TUI、CLI、守护进程与 OpenAI 兼容
 
 ```mermaid
 xychart-beta
-    title "llamastash/llamastash 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 214 --> 255
-    line [217, 218, 233, 242, 244, 247, 251, 252]
+    title "llamastash/llamastash 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 213 --> 269
+    line [217, 218, 233, 242, 244, 247, 251, 252, 265]
 ```
 
-2026-10-18 217 → 2026-10-27 252（+35）
+2026-10-18 217 → 2026-10-28 265（+48）
 
 
 ---

@@ -1,6 +1,6 @@
 # SimplyLiz/ckb
 
-⭐ 111 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 个人维护
+⭐ 111 · Go · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 个人维护
 
 **把代码库变成可查询知识库的 MCP 服务，供 AI 助手做代码导航与影响分析**
 
@@ -48,12 +48,12 @@ CKB 将代码库转化为可查询的知识库，通过 SCIP 索引与 tree-sitt
 ```mermaid
 xychart-beta
     title "SimplyLiz/ckb 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 109 --> 112
     line [110, 111, 111]
 ```
 
-2026-10-18 110 → 2026-10-27 111（+1）
+2026-10-18 110 → 2026-10-28 111（+1）
 
 
 ---

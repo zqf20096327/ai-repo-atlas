@@ -1,6 +1,6 @@
 # datawhalechina/happy-llm
 
-⭐ 34,569 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
+⭐ 34,594 · Jupyter Notebook · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/datawhalechina/happy-llm) · [官网](https://datawhalechina.github.io/happy-llm/) · 组织维护 · 中文 README
 
 **面向 LLM 学习者的大模型原理与训练系统教程**
 
@@ -51,13 +51,13 @@ Datawhale 出品的系统性 LLM 学习教程，从 NLP 基础、Transformer 架
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/happy-llm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 34403 --> 34584
-    line [34418, 34446, 34490, 34512, 34528, 34542, 34553, 34569]
+    title "datawhalechina/happy-llm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 34401 --> 34611
+    line [34418, 34446, 34490, 34512, 34528, 34542, 34553, 34569, 34594]
 ```
 
-2026-10-18 34,418 → 2026-10-27 34,569（+151）
+2026-10-18 34,418 → 2026-10-28 34,594（+176）
 
 
 ---

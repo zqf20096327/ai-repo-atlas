@@ -1,6 +1,6 @@
 # FaizanZaheerGit/StudentPerformancePrediction-ML
 
-⭐ 190 · Python · 推送 2025-10-31 · [GitHub](https://github.com/FaizanZaheerGit/StudentPerformancePrediction-ML) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用多种分类器预测影响学生成绩因素的 ML 项目**
 

@@ -1,6 +1,6 @@
 # intel/ai
 
-⭐ 79 · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/intel/ai) · 组织维护
+⭐ 78 · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/intel/ai) · 组织维护
 
 **Intel 开源 AI 软件组合的导览仓库**
 
@@ -41,12 +41,12 @@ Intel 官方仓库，用于导览其开源 AI 软件组合，指向开发、训�
 ```mermaid
 xychart-beta
     title "intel/ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 77 --> 80
+    line [79, 78]
 ```
 
-2026-10-18 79 → 2026-10-27 79（+0）
+2026-10-18 79 → 2026-10-28 78（-1）
 
 
 ---

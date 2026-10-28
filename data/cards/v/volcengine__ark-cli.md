@@ -1,6 +1,6 @@
 # volcengine/ark-cli
 
-⭐ 149 · jq · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/volcengine/ark-cli) · [官网](https://console.volcengine.com/ark/region:cn-beijing/arkcli) · 组织维护 · 中文 README
+⭐ 148 · jq · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/volcengine/ark-cli) · [官网](https://console.volcengine.com/ark/region:cn-beijing/arkcli) · 组织维护 · 中文 README
 
 **把火山方舟能力接入终端与 AI Agent 的官方 CLI**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "volcengine/ark-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28"]
     y-axis "stars" 142 --> 150
-    line [143, 145, 146, 148, 149, 149]
+    line [143, 145, 146, 148, 149, 148]
 ```
 
-2026-10-18 143 → 2026-10-27 149（+6）
+2026-10-18 143 → 2026-10-28 148（+5）
 
 
 ---

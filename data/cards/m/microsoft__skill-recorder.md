@@ -1,6 +1,6 @@
 # microsoft/skill-recorder
 
-⭐ 5,201 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/skill-recorder) · 组织维护
+⭐ 5,339 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/skill-recorder) · 组织维护
 
 **录制屏幕操作并生成可复用 AI Skill/Automation 的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/skill-recorder 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 4141 --> 5297
-    line [4237, 4246, 4254, 4259, 4263, 4400, 5020, 5201]
+    title "microsoft/skill-recorder 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 4127 --> 5449
+    line [4237, 4246, 4254, 4259, 4263, 4400, 5020, 5201, 5339]
 ```
 
-2026-10-18 4,237 → 2026-10-27 5,201（+964）
+2026-10-18 4,237 → 2026-10-28 5,339（+1,102）
 
 
 ---

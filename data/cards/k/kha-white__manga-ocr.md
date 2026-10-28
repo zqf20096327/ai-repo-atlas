@@ -1,6 +1,6 @@
 # kha-white/manga-ocr
 
-⭐ 2,816 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/kha-white/manga-ocr) · 个人维护
+⭐ 2,817 · Python · Apache-2.0 · 推送 2026-07-19 · [GitHub](https://github.com/kha-white/manga-ocr) · 个人维护
 
 **面向日本漫画的日文文本 OCR 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kha-white/manga-ocr 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 2808 --> 2817
-    line [2809, 2810, 2812, 2814, 2816]
+    title "kha-white/manga-ocr 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 2808 --> 2818
+    line [2809, 2810, 2812, 2814, 2816, 2817]
 ```
 
-2026-10-18 2,809 → 2026-10-27 2,816（+7）
+2026-10-18 2,809 → 2026-10-28 2,817（+8）
 
 
 ---

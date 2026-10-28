@@ -1,6 +1,6 @@
 # gustavoeenriquez/MakerAi
 
-⭐ 215 · Pascal · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
+⭐ 215 · Pascal · MIT · 推送 2026-10-27 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
 
 **Delphi 原生 AI 应用框架：RAG、自主 Agent、MCP 与多 LLM 接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gustavoeenriquez/MakerAi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 213 --> 216
     line [214, 215, 215]
 ```
 
-2026-10-18 214 → 2026-10-27 215（+1）
+2026-10-18 214 → 2026-10-28 215（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pd3f/pd3f
 
-⭐ 335 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pd3f/pd3f) · [官网](https://pd3f.com) · 组织维护
+⭐ 335 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/pd3f/pd3f) · [官网](https://pd3f.com) · 组织维护
 
 **自托管本地优先的 PDF 文本提取流水线，重建连续文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pd3f/pd3f 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-27"]
+    x-axis ["2026-10-26", "2026-10-28"]
     y-axis "stars" 334 --> 336
     line [335, 335]
 ```
 
-2026-10-26 335 → 2026-10-27 335（+0）
+2026-10-26 335 → 2026-10-28 335（+0）
 
 
 ---

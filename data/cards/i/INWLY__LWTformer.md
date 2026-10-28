@@ -45,12 +45,12 @@ CVPR 2026 Findings 论文 LWTformer 的官方 PyTorch 实现，面向甲骨文�
 ```mermaid
 xychart-beta
     title "INWLY/LWTformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-27 34（+0）
+2026-10-18 34 → 2026-10-28 34（+0）
 
 
 ---

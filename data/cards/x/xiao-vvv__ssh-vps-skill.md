@@ -1,6 +1,6 @@
 # xiao-vvv/ssh-vps-skill
 
-⭐ 23 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/xiao-vvv/ssh-vps-skill) · 个人维护 · 中文 README
+⭐ 24 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/xiao-vvv/ssh-vps-skill) · 个人维护 · 中文 README
 
 **给 AI agent 用的 VPS SSH 管理技能：密钥统一、别名管理、批量探活**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiao-vvv/ssh-vps-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    y-axis "stars" 20 --> 25
+    line [21, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-27 23（+2）
+2026-10-18 21 → 2026-10-28 24（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tungedng2710/AI-Traffic-Analysis
 
-⭐ 37 · Python · 推送 2026-07-26 · [GitHub](https://github.com/tungedng2710/AI-Traffic-Analysis) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **交通监控与车牌识别系统：YOLO 检测 + PaddleOCR 识别**
 

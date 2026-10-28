@@ -1,6 +1,6 @@
 # withcatai/node-llama-cpp
 
-⭐ 2,193 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/withcatai/node-llama-cpp) · [官网](https://node-llama-cpp.withcat.ai) · 组织维护
+⭐ 2,194 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/withcatai/node-llama-cpp) · [官网](https://node-llama-cpp.withcat.ai) · 组织维护
 
 **Node.js 的 llama.cpp 绑定：在本地运行 LLM 并约束输出格式**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "withcatai/node-llama-cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27"]
+    title "withcatai/node-llama-cpp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28"]
     y-axis "stars" 2189 --> 2195
-    line [2190, 2192, 2194, 2193]
+    line [2190, 2192, 2194, 2193, 2194]
 ```
 
-2026-10-18 2,190 → 2026-10-27 2,193（+3）
+2026-10-18 2,190 → 2026-10-28 2,194（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mahmoudfalous/eg-drugs
 
-⭐ 31 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · 个人维护
+⭐ 32 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/mahmoudfalous/eg-drugs) · 个人维护
 
 **埃及药品数据集：26,562 条药品记录含 FDA 映射与阿拉伯语信息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mahmoudfalous/eg-drugs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 31, 32]
 ```
 
-2026-10-18 28 → 2026-10-27 31（+3）
+2026-10-18 28 → 2026-10-28 32（+4）
 
 
 ---

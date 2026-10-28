@@ -1,6 +1,6 @@
 # ssmall256/demucs-mlx
 
-⭐ 44 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ssmall256/demucs-mlx) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ssmall256/demucs-mlx) · 个人维护
 
 **在 Apple Silicon 上分离歌曲人声/鼓/贝斯等分轨的 MLX 移植**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ssmall256/demucs-mlx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-27 44（+0）
+2026-10-18 44 → 2026-10-28 45（+1）
 
 
 ---

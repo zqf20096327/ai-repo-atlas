@@ -1,6 +1,6 @@
 # nextcloud/recognize
 
-⭐ 701 · PHP · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/nextcloud/recognize) · [官网](https://apps.nextcloud.com/apps/recognize) · 组织维护
+⭐ 701 · PHP · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/nextcloud/recognize) · [官网](https://apps.nextcloud.com/apps/recognize) · 组织维护
 
 **Nextcloud 媒体自动打标应用：识别人脸、物体、地标、音乐与视频动作**
 
@@ -46,12 +46,12 @@ Nextcloud 服务端应用，扫描用户媒体库并通过预训练模型自动�
 ```mermaid
 xychart-beta
     title "nextcloud/recognize 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 700 --> 702
     line [701, 701]
 ```
 
-2026-10-18 701 → 2026-10-27 701（+0）
+2026-10-18 701 → 2026-10-28 701（+0）
 
 
 ---

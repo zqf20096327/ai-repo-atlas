@@ -1,6 +1,6 @@
 # XiaomingX/indie-hacker-tools-plus
 
-⭐ 1,906 · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/XiaomingX/indie-hacker-tools-plus) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
+⭐ 1,906 · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/XiaomingX/indie-hacker-tools-plus) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
 
 **面向独立开发者出海的精选工具与技术栈清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "XiaomingX/indie-hacker-tools-plus 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
+    title "XiaomingX/indie-hacker-tools-plus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
     y-axis "stars" 1894 --> 1907
-    line [1895, 1898, 1901, 1903, 1902, 1903, 1906]
+    line [1895, 1898, 1901, 1903, 1902, 1903, 1906, 1906]
 ```
 
-2026-10-18 1,895 → 2026-10-27 1,906（+11）
+2026-10-18 1,895 → 2026-10-28 1,906（+11）
 
 
 ---

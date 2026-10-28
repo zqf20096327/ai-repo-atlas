@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-FlashVSR
 
-⭐ 150 · Python · GPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/1038lab/ComfyUI-FlashVSR) · 个人维护
+⭐ 153 · Python · GPL-3.0 · 推送 2025-11-17 · [GitHub](https://github.com/1038lab/ComfyUI-FlashVSR) · 个人维护
 
 **ComfyUI 自定义节点：基于 FlashVSR 模型做扩散视频超分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "1038lab/ComfyUI-FlashVSR 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 138 --> 151
-    line [139, 140, 141, 150]
+    title "1038lab/ComfyUI-FlashVSR 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 138 --> 154
+    line [139, 140, 141, 150, 153]
 ```
 
-2026-10-18 139 → 2026-10-27 150（+11）
+2026-10-18 139 → 2026-10-28 153（+14）
 
 
 ---

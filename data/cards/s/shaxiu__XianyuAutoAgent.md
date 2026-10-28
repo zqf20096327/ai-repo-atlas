@@ -1,6 +1,6 @@
 # shaxiu/XianyuAutoAgent
 
-⭐ 9,506 · Python · GPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/shaxiu/XianyuAutoAgent) · 个人维护 · 中文 README
+⭐ 9,530 · Python · GPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/shaxiu/XianyuAutoAgent) · 个人维护 · 中文 README
 
 **面向闲鱼卖家的 LLM 自动客服值守机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shaxiu/XianyuAutoAgent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 9390 --> 9516
-    line [9400, 9416, 9467, 9481, 9491, 9503, 9506]
+    title "shaxiu/XianyuAutoAgent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 9387 --> 9543
+    line [9400, 9416, 9467, 9481, 9491, 9503, 9506, 9530]
 ```
 
-2026-10-18 9,400 → 2026-10-27 9,506（+106）
+2026-10-18 9,400 → 2026-10-28 9,530（+130）
 
 
 ---

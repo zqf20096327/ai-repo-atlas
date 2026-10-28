@@ -1,6 +1,6 @@
 # VectorDB-NTU/RaBitQ-Library
 
-⭐ 291 · C++ · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
+⭐ 291 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护
 
 **RaBitQ 向量量化与近邻搜索的官方轻量 C++/Python 库**
 
@@ -45,12 +45,12 @@ RaBitQ 论文算法的官方实现库，提供向量量化与近似最近邻搜�
 ```mermaid
 xychart-beta
     title "VectorDB-NTU/RaBitQ-Library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 290 --> 292
     line [291, 291]
 ```
 
-2026-10-18 291 → 2026-10-27 291（+0）
+2026-10-18 291 → 2026-10-28 291（+0）
 
 
 ---

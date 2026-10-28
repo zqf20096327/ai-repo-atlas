@@ -1,6 +1,6 @@
 # lone-cloud/gerbil
 
-⭐ 475 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/lone-cloud/gerbil) · 个人维护
+⭐ 476 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/lone-cloud/gerbil) · 个人维护
 
 **本地运行 LLM 与图像生成的跨平台桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lone-cloud/gerbil 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
     y-axis "stars" 474 --> 477
-    line [475, 476, 475, 475]
+    line [475, 476, 475, 476]
 ```
 
-2026-10-18 475 → 2026-10-27 475（+0）
+2026-10-18 475 → 2026-10-28 476（+1）
 
 
 ---

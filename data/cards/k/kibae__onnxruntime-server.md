@@ -1,6 +1,6 @@
 # kibae/onnxruntime-server
 
-⭐ 199 · C++ · MIT · 推送 2026-10-09 · [GitHub](https://github.com/kibae/onnxruntime-server) · 个人维护
+⭐ 199 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kibae/onnxruntime-server) · 个人维护
 
 **为 ONNX 模型提供 TCP/HTTP(S) REST 推理 API 的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kibae/onnxruntime-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 198 --> 200
     line [199, 199]
 ```
 
-2026-10-18 199 → 2026-10-27 199（+0）
+2026-10-18 199 → 2026-10-28 199（+0）
 
 
 ---

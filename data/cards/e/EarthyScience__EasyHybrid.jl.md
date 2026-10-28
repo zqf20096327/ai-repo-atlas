@@ -1,6 +1,6 @@
 # EarthyScience/EasyHybrid.jl
 
-⭐ 27 · Julia · MIT · 推送 2026-10-20 · [GitHub](https://github.com/EarthyScience/EasyHybrid.jl) · [官网](https://earthyscience.github.io/EasyHybrid.jl/stable/) · 组织维护
+⭐ 27 · Julia · MIT · 推送 2026-10-27 · [GitHub](https://github.com/EarthyScience/EasyHybrid.jl) · [官网](https://earthyscience.github.io/EasyHybrid.jl/stable/) · 组织维护
 
 **Julia 混合建模框架：把神经网络嵌入过程机理模型并联合训练**
 
@@ -45,12 +45,12 @@ Julia 语言的科学计算包，提供将神经网络与过程机理模型集�
 ```mermaid
 xychart-beta
     title "EarthyScience/EasyHybrid.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-27 27（+0）
+2026-10-18 27 → 2026-10-28 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pgeedh/OpenVelo
 
-⭐ 25 · Python · 推送 2026-10-19 · [GitHub](https://github.com/pgeedh/OpenVelo) · 个人维护
+⭐ 26 · Python · 推送 2026-10-19 · [GitHub](https://github.com/pgeedh/OpenVelo) · 个人维护
 
 **用手机视频做自行车 fitting 的开源本地姿态分析工具**
 
@@ -43,13 +43,13 @@ OpenVelo 是面向骑行者的开源 bike fitting 工具：读取 30 秒侧面�
 
 ```mermaid
 xychart-beta
-    title "pgeedh/OpenVelo 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 25]
+    title "pgeedh/OpenVelo 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 25, 26]
 ```
 
-2026-10-19 23 → 2026-10-27 25（+2）
+2026-10-19 23 → 2026-10-28 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/locoformer
 
-⭐ 128 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/lucidrains/locoformer) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/lucidrains/locoformer) · 个人维护
 
 **基于 Transformer-XL 的跨形态机器人运动模型库（wip）**
 
@@ -44,12 +44,12 @@ LocoFormer 的研究代码实现：在仿真中对多种机器人本体（cross-
 ```mermaid
 xychart-beta
     title "lucidrains/locoformer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
-    y-axis "stars" 126 --> 129
-    line [127, 128, 128]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    y-axis "stars" 126 --> 130
+    line [127, 128, 129]
 ```
 
-2026-10-18 127 → 2026-10-27 128（+1）
+2026-10-18 127 → 2026-10-28 129（+2）
 
 
 ---

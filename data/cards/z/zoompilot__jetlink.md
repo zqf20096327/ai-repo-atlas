@@ -1,6 +1,6 @@
 # zoompilot/jetlink
 
-⭐ 42 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/zoompilot/jetlink) · [官网](https://zoompilot.ai/jetlink) · 个人维护
+⭐ 43 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zoompilot/jetlink) · [官网](https://zoompilot.ai/jetlink) · 个人维护
 
 **在电脑上运行 openpilot 大型驾驶模型的工具**
 
@@ -45,13 +45,13 @@ Jetlink 将 openpilot 的大型驾驶模型放到外接电脑上运行，通过 
 
 ```mermaid
 xychart-beta
-    title "zoompilot/jetlink 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 35 --> 43
-    line [36, 38, 39, 40, 41, 42]
+    title "zoompilot/jetlink 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 35 --> 44
+    line [36, 38, 39, 40, 41, 42, 43]
 ```
 
-2026-10-18 36 → 2026-10-27 42（+6）
+2026-10-18 36 → 2026-10-28 43（+7）
 
 
 ---

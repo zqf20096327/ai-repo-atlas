@@ -45,12 +45,12 @@ DeepMind 维护的 Perception Test 基准仓库：提供真实世界视频数据
 ```mermaid
 xychart-beta
     title "google-deepmind/perception_test 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 261 --> 263
     line [262, 262]
 ```
 
-2026-10-18 262 → 2026-10-27 262（+0）
+2026-10-18 262 → 2026-10-28 262（+0）
 
 
 ---

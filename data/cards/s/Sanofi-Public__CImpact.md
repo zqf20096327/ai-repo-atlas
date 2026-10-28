@@ -1,6 +1,6 @@
 # Sanofi-Public/CImpact
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Sanofi-Public/CImpact) · [官网](https://pypi.org/project/cimpact/) · 组织维护
+⭐ 43 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/Sanofi-Public/CImpact) · [官网](https://pypi.org/project/cimpact/) · 组织维护
 
 **时间序列因果效应估计库：多模型量化干预影响**
 
@@ -45,12 +45,12 @@ Sanofi 开源的 Python 因果推断库，用于估计干预对时间序列的�
 ```mermaid
 xychart-beta
     title "Sanofi-Public/CImpact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-27 43（+0）
+2026-10-18 43 → 2026-10-28 43（+0）
 
 
 ---

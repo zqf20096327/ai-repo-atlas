@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "monk1337/Aweome-Heathcare-Federated-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-18 106 → 2026-10-27 106（+0）
+2026-10-18 106 → 2026-10-28 106（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # awf-project/cli
 
-⭐ 47 · Go · EUPL-1.2 · 推送 2026-10-23 · [GitHub](https://github.com/awf-project/cli) · [官网](http://awf-project.ai/cli/) · 组织维护
+⭐ 47 · Go · EUPL-1.2 · 推送 2026-10-27 · [GitHub](https://github.com/awf-project/cli) · [官网](http://awf-project.ai/cli/) · 组织维护
 
 **用 YAML 工作流编排 AI agent 的 Go 命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "awf-project/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-27 47（+0）
+2026-10-18 47 → 2026-10-28 47（+0）
 
 
 ---

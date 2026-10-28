@@ -45,12 +45,12 @@ Azure-Samples 出品的模块化企业参考应用：用 LangChain.js、LlamaInd
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-ai-travel-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
     y-axis "stars" 480 --> 483
     line [482, 481, 481]
 ```
 
-2026-10-18 482 → 2026-10-27 481（-1）
+2026-10-18 482 → 2026-10-28 481（-1）
 
 
 ---

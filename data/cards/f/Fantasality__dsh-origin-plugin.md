@@ -1,6 +1,6 @@
 # Fantasality/dsh-origin-plugin
 
-⭐ 30 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Fantasality/dsh-origin-plugin) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Fantasality/dsh-origin-plugin) · 个人维护 · 中文 README
 
 **通过 MCP 让 AI 对话驱动本机 OriginLab Origin 科学绘图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fantasality/dsh-origin-plugin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 22 --> 31
-    line [23, 25, 26, 27, 29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 22 --> 32
+    line [23, 25, 26, 27, 29, 30, 31]
 ```
 
-2026-10-18 23 → 2026-10-27 30（+7）
+2026-10-18 23 → 2026-10-28 31（+8）
 
 
 ---

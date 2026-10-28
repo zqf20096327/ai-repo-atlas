@@ -1,6 +1,6 @@
 # ARM-software/AVH
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ARM-software/AVH) · [官网](https://arm-software.github.io/AVH) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Arm 固定虚拟平台（FVP）的开发者资源与示例集合**
 
@@ -11,7 +11,7 @@ Arm 官方仓库，提供 Fixed Virtual Platform（FVP）仿真的开发者资�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

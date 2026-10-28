@@ -1,6 +1,6 @@
 # lucidrains/BS-RoFormer
 
-⭐ 999 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/lucidrains/BS-RoFormer) · 个人维护
+⭐ 1,000 · Python · MIT · 推送 2026-06-14 · [GitHub](https://github.com/lucidrains/BS-RoFormer) · 个人维护
 
 **Band Split RoFormer 音乐源分离模型的 PyTorch 实现**
 
@@ -43,13 +43,13 @@ lucidrains 对字节跳动 AI Lab 提出的 Band Split RoFormer（基于轴向�
 
 ```mermaid
 xychart-beta
-    title "lucidrains/BS-RoFormer 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 985 --> 1000
-    line [986, 991, 992, 994, 996, 998, 999]
+    title "lucidrains/BS-RoFormer 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 985 --> 1001
+    line [986, 991, 992, 994, 996, 998, 999, 1000]
 ```
 
-2026-10-18 986 → 2026-10-27 999（+13）
+2026-10-18 986 → 2026-10-28 1,000（+14）
 
 
 ---

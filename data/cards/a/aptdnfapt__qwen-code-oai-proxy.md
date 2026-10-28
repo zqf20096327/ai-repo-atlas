@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aptdnfapt/qwen-code-oai-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    title "aptdnfapt/qwen-code-oai-proxy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
     y-axis "stars" 170 --> 173
-    line [172, 171]
+    line [172, 171, 171]
 ```
 
-2026-10-18 172 → 2026-10-27 171（-1）
+2026-10-18 172 → 2026-10-28 171（-1）
 
 
 ---

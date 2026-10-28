@@ -1,6 +1,6 @@
 # Squid-Proxy-Lovers/ccp
 
-⭐ 25 · Rust · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/Squid-Proxy-Lovers/ccp) · [官网](https://spl.team/ccp) · 组织维护
+⭐ 25 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Squid-Proxy-Lovers/ccp) · [官网](https://spl.team/ccp) · 组织维护
 
 **为协作 AI agent 提供共享持久上下文的 Rust 客户端-服务器协议**
 
@@ -46,12 +46,12 @@ Rust 实现的客户端-服务器协调协议：服务器以 session→shelf→b
 ```mermaid
 xychart-beta
     title "Squid-Proxy-Lovers/ccp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-27 25（+1）
+2026-10-18 24 → 2026-10-28 25（+1）
 
 
 ---

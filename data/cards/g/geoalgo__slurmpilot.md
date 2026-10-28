@@ -1,6 +1,6 @@
 # geoalgo/slurmpilot
 
-⭐ 35 · Python · 推送 2026-06-29 · [GitHub](https://github.com/geoalgo/slurmpilot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从本地机器向 Slurm 集群提交并管理实验的 Python 库**
 

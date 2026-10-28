@@ -1,6 +1,6 @@
 # ChetanXpro/nodejs-whisper
 
-⭐ 213 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ChetanXpro/nodejs-whisper) · [官网](https://npmjs.com/nodejs-whisper) · 个人维护
+⭐ 212 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ChetanXpro/nodejs-whisper) · [官网](https://npmjs.com/nodejs-whisper) · 个人维护
 
 **Whisper 语音转文字的 Node.js 绑定库，CPU 运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChetanXpro/nodejs-whisper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
     y-axis "stars" 211 --> 214
-    line [212, 213, 213]
+    line [212, 213, 212]
 ```
 
-2026-10-18 212 → 2026-10-27 213（+1）
+2026-10-18 212 → 2026-10-28 212（+0）
 
 
 ---

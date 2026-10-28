@@ -1,6 +1,6 @@
 # Nanboy-Ronan/awesome-medical-imaging-agents
 
-⭐ 77 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) · 个人维护
+⭐ 77 · Python · CC0-1.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) · 个人维护
 
 **医学影像 AI agent 论文与系统策展清单（放射/病理/超声等）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | CC0-1.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nanboy-Ronan/awesome-medical-imaging-agents 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 70 --> 78
     line [71, 74, 75, 77, 77]
 ```
 
-2026-10-18 71 → 2026-10-27 77（+6）
+2026-10-18 71 → 2026-10-28 77（+6）
 
 
 ---

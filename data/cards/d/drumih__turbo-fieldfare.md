@@ -1,6 +1,6 @@
 # drumih/turbo-fieldfare
 
-⭐ 7,053 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/drumih/turbo-fieldfare) · 个人维护
+⭐ 7,069 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/drumih/turbo-fieldfare) · 个人维护
 
 **让 8GB Mac 以约 2GB 内存运行 Gemma 4 26B 的 Swift+Metal 推理运行时**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drumih/turbo-fieldfare 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 6928 --> 7064
-    line [6939, 6944, 6989, 7004, 7028, 7040, 7053]
+    title "drumih/turbo-fieldfare 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 6926 --> 7082
+    line [6939, 6944, 6989, 7004, 7028, 7040, 7053, 7069]
 ```
 
-2026-10-18 6,939 → 2026-10-27 7,053（+114）
+2026-10-18 6,939 → 2026-10-28 7,069（+130）
 
 
 ---

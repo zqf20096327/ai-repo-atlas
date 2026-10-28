@@ -1,6 +1,6 @@
 # swirlai/swirl-search
 
-⭐ 3,048 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/swirlai/swirl-search) · [官网](https://swirlaiconnect.com/) · 组织维护
+⭐ 3,049 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/swirlai/swirl-search) · [官网](https://swirlaiconnect.com/) · 组织维护
 
 **联邦式 AI 搜索与 RAG 引擎：不搬数据直连 100+ 应用问答**
 
@@ -44,13 +44,13 @@ SWIRL Community 是 Apache 2.0 开源的联邦搜索与 RAG 系统：以用户�
 
 ```mermaid
 xychart-beta
-    title "swirlai/swirl-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 3045 --> 3049
-    line [3047, 3046, 3048]
+    title "swirlai/swirl-search 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 3045 --> 3050
+    line [3047, 3046, 3048, 3049]
 ```
 
-2026-10-18 3,047 → 2026-10-27 3,048（+1）
+2026-10-18 3,047 → 2026-10-28 3,049（+2）
 
 
 ---

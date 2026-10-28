@@ -1,6 +1,6 @@
 # tsaijamey/frago
 
-⭐ 114 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/tsaijamey/frago) · [官网](https://github.com/tsaijamey/frago) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tsaijamey/frago) · [官网](https://github.com/tsaijamey/frago) · 个人维护 · 中文 README
 
 **面向 CLI AI agent 的宿主运行时：浏览器控制、持久记忆与可复用 Recipe 工作流**
 
@@ -11,7 +11,7 @@ frago 定位为 AI agent 操作系统（Agent OS），本体不产出模型，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ frago 定位为 AI agent 操作系统（Agent OS），本体不产出模型，�
 ```mermaid
 xychart-beta
     title "tsaijamey/frago 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 112 --> 115
+    line [114, 113]
 ```
 
-2026-10-18 114 → 2026-10-27 114（+0）
+2026-10-18 114 → 2026-10-28 113（-1）
 
 
 ---

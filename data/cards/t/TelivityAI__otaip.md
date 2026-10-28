@@ -1,6 +1,6 @@
 # TelivityAI/otaip
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TelivityAI/otaip) · [官网](https://telivity.app) · 组织维护
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/TelivityAI/otaip) · [官网](https://telivity.app) · 组织维护
 
 **面向旅游业的 AI agent 编排平台：覆盖机票酒店全预订生命周期**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TelivityAI/otaip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-27 45（+0）
+2026-10-18 45 → 2026-10-28 46（+1）
 
 
 ---

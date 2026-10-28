@@ -1,6 +1,6 @@
 # Yuxuan2003/Awesome-GUI-Agent-Security
 
-⭐ 56 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security) · 个人维护 · 中文 README
 
 **GUI/Computer-Use/Browser Agent 安全论文策展清单，按攻防轴组织**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yuxuan2003/Awesome-GUI-Agent-Security 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
     y-axis "stars" 55 --> 65
-    line [64, 57, 56, 56]
+    line [64, 57, 56, 57]
 ```
 
-2026-10-18 64 → 2026-10-27 56（-8）
+2026-10-18 64 → 2026-10-28 57（-7）
 
 
 ---

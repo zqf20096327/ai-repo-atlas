@@ -1,6 +1,6 @@
 # cafferychen777/mLLMCelltype
 
-⭐ 661 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cafferychen777/mLLMCelltype) · [官网](https://www.mllmcelltype.com/) · 个人维护 · 中文 README
+⭐ 662 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/cafferychen777/mLLMCelltype) · [官网](https://www.mllmcelltype.com/) · 个人维护 · 中文 README
 
 **多 LLM 共识的单细胞 RNA 测序细胞类型注释工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cafferychen777/mLLMCelltype 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 660 --> 662
-    line [661, 661]
+    x-axis ["2026-10-18", "2026-10-28"]
+    y-axis "stars" 660 --> 663
+    line [661, 662]
 ```
 
-2026-10-18 661 → 2026-10-27 661（+0）
+2026-10-18 661 → 2026-10-28 662（+1）
 
 
 ---

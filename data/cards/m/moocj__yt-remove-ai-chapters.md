@@ -1,6 +1,6 @@
 # moocj/yt-remove-ai-chapters
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/moocj/yt-remove-ai-chapters) · 个人维护
+⭐ 31 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/moocj/yt-remove-ai-chapters) · 个人维护
 
 **移除 YouTube AI 自动生成章节的浏览器用户脚本**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "moocj/yt-remove-ai-chapters 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27"]
-    y-axis "stars" 19 --> 29
-    line [20, 22, 25, 26, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    y-axis "stars" 19 --> 32
+    line [20, 22, 25, 26, 27, 28, 31]
 ```
 
-2026-10-18 20 → 2026-10-27 28（+8）
+2026-10-18 20 → 2026-10-28 31（+11）
 
 
 ---

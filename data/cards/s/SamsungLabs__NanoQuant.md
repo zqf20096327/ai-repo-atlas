@@ -1,6 +1,6 @@
 # SamsungLabs/NanoQuant
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/SamsungLabs/NanoQuant) · [官网](https://arxiv.org/abs/2602.06694) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/SamsungLabs/NanoQuant) · [官网](https://arxiv.org/abs/2602.06694) · 组织维护
 
 **LLM 亚 1 比特后训练量化算法：无需重训练压缩模型权重**
 
@@ -44,13 +44,13 @@ ICML 2026 论文官方实现，来自 Samsung Labs。NanoQuant 是后训练量�
 
 ```mermaid
 xychart-beta
-    title "SamsungLabs/NanoQuant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25]
+    title "SamsungLabs/NanoQuant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 26]
 ```
 
-2026-10-18 22 → 2026-10-27 25（+3）
+2026-10-18 22 → 2026-10-28 26（+4）
 
 
 ---

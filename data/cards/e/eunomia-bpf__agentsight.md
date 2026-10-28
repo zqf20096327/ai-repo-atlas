@@ -1,6 +1,6 @@
 # eunomia-bpf/agentsight
 
-⭐ 755 · C · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eunomia-bpf/agentsight) · [官网](https://eunomia.dev/agentsight/) · 组织维护 · 中文 README
+⭐ 756 · C · MIT · 推送 2026-10-23 · [GitHub](https://github.com/eunomia-bpf/agentsight) · [官网](https://eunomia.dev/agentsight/) · 组织维护 · 中文 README
 
 **面向开发者的 eBPF 系统级 AI agent 监控剖析工具**
 
@@ -45,13 +45,13 @@ AgentSight 是本地优先的 top/strace 式 AI agent 观测工具，用 eBPF �
 
 ```mermaid
 xychart-beta
-    title "eunomia-bpf/agentsight 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27"]
-    y-axis "stars" 747 --> 756
-    line [748, 750, 754, 755]
+    title "eunomia-bpf/agentsight 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28"]
+    y-axis "stars" 747 --> 757
+    line [748, 750, 754, 755, 756]
 ```
 
-2026-10-18 748 → 2026-10-27 755（+7）
+2026-10-18 748 → 2026-10-28 756（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # overcuriousity/pdf2epub
 
-⭐ 374 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/overcuriousity/pdf2epub) · 个人维护
+⭐ 375 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/overcuriousity/pdf2epub) · 个人维护
 
 **AI 版面识别的 PDF→Markdown/EPUB 转换工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "overcuriousity/pdf2epub 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27"]
-    y-axis "stars" 364 --> 375
-    line [365, 369, 371, 372, 374, 374]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28"]
+    y-axis "stars" 364 --> 376
+    line [365, 369, 371, 372, 374, 375]
 ```
 
-2026-10-18 365 → 2026-10-27 374（+9）
+2026-10-18 365 → 2026-10-28 375（+10）
 
 
 ---
