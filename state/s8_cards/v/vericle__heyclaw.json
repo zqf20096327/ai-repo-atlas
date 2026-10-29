@@ -1,1 +1,81 @@
-{"fn": "vericle/heyclaw", "sha": "111f84cdb6db", "source": "readme", "identity": {"one_liner": "自托管的语音优先个人 AI 助手，本地唤醒词加实时对话", "review": "由后端与卫星端两个 Python 包组成：卫星端负责本地麦克风采集、openWakeWord 唤醒词检测与回声处理；后端通过 ElevenLabs Speech Engine 做实时语音转文字与语音合成，LLM 可配置为 Gemini（默认）、OpenAI 或 Anthropic（经 DSPy ReAct agent），Mem0 提供用户级长期记忆，MCP 工具与工作区技能提供外部能力。运行需 Python 3.12、uv、GNU Make、ngrok 与麦克风/扬声器，Linux/WSL 与原生 Windows 分别用不同 Makefile。", "highlights": ["本地 openWakeWord 唤醒词检测与卫星端/后端分离架构", "实时 STT/TTS 由 ElevenLabs Speech Engine 承担，LLM 可选 Gemini/OpenAI/Anthropic", "Mem0 用户级持久语义记忆，MCP 工具动态发现", "Make 目标覆盖 setup/backend/satellite 等流程，含 Ruff 与 mypy 检查"], "use_cases": ["自建一台语音唤醒的房间 AI 助手", "带长期记忆的私人语音对话助手", "在本地工作区自定义 agent 指令与技能并通过 MCP 接外部工具"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["语音助手", "AI agent", "自托管", "MCP", "实时语音"], "domain": "语音 AI 助手/个人 agent", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: **A lightweight, open-source, voice-first personal AI agent.**", "L23: - real-time speech-to-text and text-to-speech through ElevenLabs Speech Engine;", "L24: - configurable Gemini, OpenAI, or Anthropic language models through DSPy;"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vericle/heyclaw",
+ "sha": "111f84cdb6db",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管的语音优先个人 AI 助手，本地唤醒词加实时对话",
+  "review": "由后端与卫星端两个 Python 包组成：卫星端负责本地麦克风采集、openWakeWord 唤醒词检测与回声处理；后端通过 ElevenLabs Speech Engine 做实时语音转文字与语音合成，LLM 可配置为 Gemini（默认）、OpenAI 或 Anthropic（经 DSPy ReAct agent），Mem0 提供用户级长期记忆，MCP 工具与工作区技能提供外部能力。运行需 Python 3.12、uv、GNU Make、ngrok 与麦克风/扬声器，Linux/WSL 与原生 Windows 分别用不同 Makefile。",
+  "highlights": [
+   "本地 openWakeWord 唤醒词检测与卫星端/后端分离架构",
+   "实时 STT/TTS 由 ElevenLabs Speech Engine 承担，LLM 可选 Gemini/OpenAI/Anthropic",
+   "Mem0 用户级持久语义记忆，MCP 工具动态发现",
+   "Make 目标覆盖 setup/backend/satellite 等流程，含 Ruff 与 mypy 检查"
+  ],
+  "use_cases": [
+   "自建一台语音唤醒的房间 AI 助手",
+   "带长期记忆的私人语音对话助手",
+   "在本地工作区自定义 agent 指令与技能并通过 MCP 接外部工具"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "语音助手",
+   "AI agent",
+   "自托管",
+   "MCP",
+   "实时语音"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "voice-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: **A lightweight, open-source, voice-first personal AI agent.**",
+   "L23: - real-time speech-to-text and text-to-speech through ElevenLabs Speech Engine;",
+   "L24: - configurable Gemini, OpenAI, or Anthropic language models through DSPy;"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

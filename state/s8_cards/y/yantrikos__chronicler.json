@@ -1,1 +1,82 @@
-{"fn": "yantrikos/chronicler", "sha": "9d6d091df765", "source": "readme", "identity": {"one_liner": "自托管 AI 角色扮演客户端：带跨会话持久记忆", "review": "本地优先的开源 AI 角色扮演与角色聊天应用，通过 docker compose 自托管运行。导入社区 v2/v3 角色卡格式，可连接任意 OpenAI 兼容 LLM（Ollama、OpenAI、Anthropic、OpenRouter、llama.cpp、vLLM 等）。核心机制是 YantrikDB 记忆引擎的三级写入契约（reflex/heuristic/canon），记忆带 visible_to ACL 实现群聊隐私过滤，另支持原生 MCP（工具/资源/提示词）与 npm 扩展 SDK。抽取模型建议 7B 以上，低于 7B 时事实归属不可靠。", "highlights": ["三级记忆写入契约（reflex/heuristic/canon），草稿需跨会话反复强化才晋升为 canon", "每条记忆带 visible_to ACL，群聊中角色检索时无法回忆未被告知的秘密", "原生 MCP 支持（工具、资源、提示词），并提供 npm 扩展 SDK", "兼容 v2/v3 角色卡与 character_book 触发语义，辅以语义召回"], "use_cases": ["跑长篇角色扮演战役时希望角色记住数月前的剧情", "群聊场景下控制角色之间的信息可见性", "完全本地离线运行角色聊天，不向云端发送数据"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "self-host", "model_dep": "local-ok", "hardware": "cpu-ok", "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI角色扮演", "AI陪伴", "长期记忆", "自托管", "MCP"], "domain": "AI 角色/聊天应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "openrouter", "vllm", "anthropic"]}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L9: Chronicler is an open-source, self-hosted **AI roleplay and character-chat app** you run on your own machine with `docke", "L11: > The problem with existing RP clients isn't the UI — it's that **memory falls apart after a few sessions**. Chronicler "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yantrikos/chronicler",
+ "sha": "9d6d091df765",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自托管 AI 角色扮演客户端：带跨会话持久记忆",
+  "review": "本地优先的开源 AI 角色扮演与角色聊天应用，通过 docker compose 自托管运行。导入社区 v2/v3 角色卡格式，可连接任意 OpenAI 兼容 LLM（Ollama、OpenAI、Anthropic、OpenRouter、llama.cpp、vLLM 等）。核心机制是 YantrikDB 记忆引擎的三级写入契约（reflex/heuristic/canon），记忆带 visible_to ACL 实现群聊隐私过滤，另支持原生 MCP（工具/资源/提示词）与 npm 扩展 SDK。抽取模型建议 7B 以上，低于 7B 时事实归属不可靠。",
+  "highlights": [
+   "三级记忆写入契约（reflex/heuristic/canon），草稿需跨会话反复强化才晋升为 canon",
+   "每条记忆带 visible_to ACL，群聊中角色检索时无法回忆未被告知的秘密",
+   "原生 MCP 支持（工具、资源、提示词），并提供 npm 扩展 SDK",
+   "兼容 v2/v3 角色卡与 character_book 触发语义，辅以语义召回"
+  ],
+  "use_cases": [
+   "跑长篇角色扮演战役时希望角色记住数月前的剧情",
+   "群聊场景下控制角色之间的信息可见性",
+   "完全本地离线运行角色聊天，不向云端发送数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "local-ok",
+  "hardware": "cpu-ok",
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI角色扮演",
+   "AI陪伴",
+   "长期记忆",
+   "自托管",
+   "MCP"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "openrouter",
+   "vllm",
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L9: Chronicler is an open-source, self-hosted **AI roleplay and character-chat app** you run on your own machine with `docke",
+   "L11: > The problem with existing RP clients isn't the UI — it's that **memory falls apart after a few sessions**. Chronicler "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

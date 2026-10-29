@@ -33,7 +33,7 @@ Python 框架，将 CodeQL/Semgrep/OpenGrep 的 SARIF 发现送入多轮 LLM 验
 
 ## 场景标签
 
- · 领域:安全/代码审计
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 

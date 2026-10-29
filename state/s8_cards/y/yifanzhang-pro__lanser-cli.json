@@ -1,1 +1,77 @@
-{"fn": "yifanzhang-pro/lanser-cli", "sha": "3c5e416cc3df", "source": "readme", "identity": {"one_liner": "让编码 agent 接入编译器/语言服务器反馈的 CLI 编排层", "review": "Lanser-CLI 是论文 RLCSF（Reinforcement Learning from Compiler and Language Server Feedback）的参考实现：通过 CLI 编排固定版本的编译器与语言服务器（Pyright），将诊断、符号解析、类型、引用、重命名等结果转为确定性的可回放 JSON/JSONL 分析工件，供编码 agent 与 CI 使用。提供多种选择器 DSL、预览优先的受保护变更流程，并基于相邻工件计算诊断差分等过程奖励信号，用于强化学习与离线过程监督。需要 Python 3.12+，语言服务器支持以 Pyright 为主。", "highlights": ["将编译器/LSP 反馈转为确定性、可回放的分析 bundle（SHA-256 稳定哈希）", "多种选择器形式：坐标、符号、AST 路径、内容锚点，显式编码语义", "RLCSF 过程奖励：由诊断差分、选择器置信度、安全就绪度与工具错误计算", "变更操作默认干跑预览，含路径隔离、脏工作树守卫与冲突检测"], "use_cases": ["为编码 agent 提供基于语言服务器事实的接地信号", "在 CI 中做可回放的门禁与回归测试", "构建强化学习/过程监督训练所需的过程奖励数据集"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2510.22907", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["编码agent", "语言服务器/LSP", "强化学习奖励", "CI审计", "代码工具"], "domain": "LLM 智能体/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: `Lanser-CLI` is a CLI-first orchestration layer for grounding coding agents in", "L15: Lanser-CLI is the reference implementation for **Reinforcement Learning from"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yifanzhang-pro/lanser-cli",
+ "sha": "3c5e416cc3df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让编码 agent 接入编译器/语言服务器反馈的 CLI 编排层",
+  "review": "Lanser-CLI 是论文 RLCSF（Reinforcement Learning from Compiler and Language Server Feedback）的参考实现：通过 CLI 编排固定版本的编译器与语言服务器（Pyright），将诊断、符号解析、类型、引用、重命名等结果转为确定性的可回放 JSON/JSONL 分析工件，供编码 agent 与 CI 使用。提供多种选择器 DSL、预览优先的受保护变更流程，并基于相邻工件计算诊断差分等过程奖励信号，用于强化学习与离线过程监督。需要 Python 3.12+，语言服务器支持以 Pyright 为主。",
+  "highlights": [
+   "将编译器/LSP 反馈转为确定性、可回放的分析 bundle（SHA-256 稳定哈希）",
+   "多种选择器形式：坐标、符号、AST 路径、内容锚点，显式编码语义",
+   "RLCSF 过程奖励：由诊断差分、选择器置信度、安全就绪度与工具错误计算",
+   "变更操作默认干跑预览，含路径隔离、脏工作树守卫与冲突检测"
+  ],
+  "use_cases": [
+   "为编码 agent 提供基于语言服务器事实的接地信号",
+   "在 CI 中做可回放的门禁与回归测试",
+   "构建强化学习/过程监督训练所需的过程奖励数据集"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2510.22907",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "编码agent",
+   "语言服务器/LSP",
+   "强化学习奖励",
+   "CI审计",
+   "代码工具"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: `Lanser-CLI` is a CLI-first orchestration layer for grounding coding agents in",
+   "L15: Lanser-CLI is the reference implementation for **Reinforcement Learning from"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

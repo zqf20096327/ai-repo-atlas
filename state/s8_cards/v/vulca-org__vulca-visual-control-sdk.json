@@ -1,1 +1,82 @@
-{"fn": "vulca-org/vulca-visual-control-sdk", "sha": "f7b62f7cbb37", "source": "readme", "identity": {"one_liner": "面向 Claude Code 的图像编辑 SDK：21 个 MCP 工具做分层、重绘与文化评分", "review": "以 Python SDK + 21 个 MCP 工具 + /decompose 等 agent 技能形式提供，运行在 Claude Code 内。功能覆盖：从任意图像抽取 10–20 个语义透明图层、区域重绘（inpaint）与图层编辑合成、L1–L5 五维文化评分（覆盖 13 种传统，可用 YAML 自定义）、分层生成与意图到 brief 的工作流。自身不托管模型，通过 ComfyUI（本地优先，Apple Silicon/MPS 已测试）、Gemini、OpenAI 或 mock 后端驱动。配 CLI，pip 安装，另有 VULCA Workspace 预览（review-first）。", "highlights": ["语义图层分解（10–20 层）与区域重绘/图层编辑合成", "L1–L5 五维文化评分，覆盖 13 种传统，支持 YAML 自定义", "本地优先路径：ComfyUI + Ollama + MPS 端到端测试，无需云端 key", "21 个 MCP 工具返回结构化 JSON，工具内无隐藏 LLM 规划"], "use_cases": ["让 Claude Code agent 对图像做语义分层与局部重绘", "按文化传统（如 chinese_xieyi）对作品做多维评分与跨传统对比", "本地 ComfyUI 环境下生成、编辑与分层生成图像"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["图像编辑", "MCP工具", "agent技能", "文化评估", "创意生产"], "domain": "图像生成与编辑/创意工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama"]}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["示例与文档含中文水墨/写意场景"]}, "trust": {"confidence": "high", "evidence": ["L100: Most image SDKs ship a \"brain\" — a VLM planner that decides what to generate, how to compose, when to stop. Claude Code ", "L106: - **Vulca doesn't host a model** — it drives yours (ComfyUI / Gemini / OpenAI / mock) with structured tooling. No overla", "L121: User intent ─▶ Claude Code (planning) ─▶ Vulca MCP tools ─▶ Image artifacts ─┐"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vulca-org/vulca-visual-control-sdk",
+ "sha": "f7b62f7cbb37",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 Claude Code 的图像编辑 SDK：21 个 MCP 工具做分层、重绘与文化评分",
+  "review": "以 Python SDK + 21 个 MCP 工具 + /decompose 等 agent 技能形式提供，运行在 Claude Code 内。功能覆盖：从任意图像抽取 10–20 个语义透明图层、区域重绘（inpaint）与图层编辑合成、L1–L5 五维文化评分（覆盖 13 种传统，可用 YAML 自定义）、分层生成与意图到 brief 的工作流。自身不托管模型，通过 ComfyUI（本地优先，Apple Silicon/MPS 已测试）、Gemini、OpenAI 或 mock 后端驱动。配 CLI，pip 安装，另有 VULCA Workspace 预览（review-first）。",
+  "highlights": [
+   "语义图层分解（10–20 层）与区域重绘/图层编辑合成",
+   "L1–L5 五维文化评分，覆盖 13 种传统，支持 YAML 自定义",
+   "本地优先路径：ComfyUI + Ollama + MPS 端到端测试，无需云端 key",
+   "21 个 MCP 工具返回结构化 JSON，工具内无隐藏 LLM 规划"
+  ],
+  "use_cases": [
+   "让 Claude Code agent 对图像做语义分层与局部重绘",
+   "按文化传统（如 chinese_xieyi）对作品做多维评分与跨传统对比",
+   "本地 ComfyUI 环境下生成、编辑与分层生成图像"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "图像编辑",
+   "MCP工具",
+   "agent技能",
+   "文化评估",
+   "创意生产"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "示例与文档含中文水墨/写意场景"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L100: Most image SDKs ship a \"brain\" — a VLM planner that decides what to generate, how to compose, when to stop. Claude Code ",
+   "L106: - **Vulca doesn't host a model** — it drives yours (ComfyUI / Gemini / OpenAI / mock) with structured tooling. No overla",
+   "L121: User intent ─▶ Claude Code (planning) ─▶ Vulca MCP tools ─▶ Image artifacts ─┐"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

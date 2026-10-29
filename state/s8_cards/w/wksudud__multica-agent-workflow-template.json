@@ -1,1 +1,82 @@
-{"fn": "wksudud/multica-agent-workflow-template", "sha": "38f825826932", "source": "readme", "identity": {"one_liner": "中文方法论模板：帮你在 Multica 上设计多 agent + skill 工作流", "review": "基于 Multica（managed agents 平台）构建的工作流设计方法论文档集：提供从模型/skill 盘点、agent 数量与分层决策、manager pattern 到 skill router、CLI operator 创建的分步指引，配套文档模板与提示词文件。强调按任务类型、预算与验证环节自行设计而非照抄配置，附作者 7-agent 案例与安全清单。免责声明中说明本库大部分内容由 AI agent 辅助生成，且不是即装即用的软件产品。", "highlights": ["按模型能力/成本/任务类型分层设计 agent 结构的方法论", "含 skill router、CLI operator、workflow bootstrapper 的提示词模板", "manager pattern 模板与 Delegation→Verification 轻量契约设计", "声明文档大部分由 AI agent 辅助生成，需自行验证"], "use_cases": ["安装多个 skill 和模型后不知道如何分配任务时做设计参考", "系统化搭建自己的 Multica 多 agent 工作流", "把自己的工作流经验整理成可分享的开源模板"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "工作流模板", "提示工程", "中文文档", "skill管理"], "domain": "AI agent 工作流/知识模板", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "面向中文用户（L15）", "cn-skill-router 中文路由 skill"]}, "trust": {"confidence": "high", "evidence": ["L5: > **这不是一份固定配置清单。** 这是一个帮助你设计**你自己的** Multica 多 agent + skill 工作流的方法论模板。", "L158: **使用风险自担。** 本项目是一个工作流方法论文档集，不是即装即用的软件产品。作者不保证："], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wksudud/multica-agent-workflow-template",
+ "sha": "38f825826932",
+ "source": "readme",
+ "identity": {
+  "one_liner": "中文方法论模板：帮你在 Multica 上设计多 agent + skill 工作流",
+  "review": "基于 Multica（managed agents 平台）构建的工作流设计方法论文档集：提供从模型/skill 盘点、agent 数量与分层决策、manager pattern 到 skill router、CLI operator 创建的分步指引，配套文档模板与提示词文件。强调按任务类型、预算与验证环节自行设计而非照抄配置，附作者 7-agent 案例与安全清单。免责声明中说明本库大部分内容由 AI agent 辅助生成，且不是即装即用的软件产品。",
+  "highlights": [
+   "按模型能力/成本/任务类型分层设计 agent 结构的方法论",
+   "含 skill router、CLI operator、workflow bootstrapper 的提示词模板",
+   "manager pattern 模板与 Delegation→Verification 轻量契约设计",
+   "声明文档大部分由 AI agent 辅助生成，需自行验证"
+  ],
+  "use_cases": [
+   "安装多个 skill 和模型后不知道如何分配任务时做设计参考",
+   "系统化搭建自己的 Multica 多 agent 工作流",
+   "把自己的工作流经验整理成可分享的开源模板"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "工作流模板",
+   "提示工程",
+   "中文文档",
+   "skill管理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "面向中文用户（L15）",
+   "cn-skill-router 中文路由 skill"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: > **这不是一份固定配置清单。** 这是一个帮助你设计**你自己的** Multica 多 agent + skill 工作流的方法论模板。",
+   "L158: **使用风险自担。** 本项目是一个工作流方法论文档集，不是即装即用的软件产品。作者不保证："
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

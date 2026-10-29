@@ -1,1 +1,77 @@
-{"fn": "yueqingliang1/UNBench", "sha": "6c6300b450fe", "source": "readme", "identity": {"one_liner": "基于联合国安理会记录的 LLM 政治决策基准（四任务）", "review": "论文 Benchmarking LLMs for Political Science 的数据与代码仓库：基于联合国安理会记录构建多阶段基准，覆盖共同起草者选择、投票模拟、决议通过预测、外交声明生成四个任务。仓库内提供每任务约 30 个代表性样本及 Jupyter Notebook 运行脚本，完整数据集经 Google Drive 发布；默认接入 Together API，也可替换为用户自有 LLM。任务 2/3 输出 Accuracy、AUC、F1 等指标，任务 4 计算 ROUGE-L。面向政治科学与 LLM 评测研究者。", "highlights": ["四任务覆盖起草、投票、通过与声明生成的决策流程", "每任务发布约 30 个代表性样本，完整数据集托管于 Google Drive", "任务 2/3 输出 Accuracy/AUC/F1，任务 4 输出 ROUGE-L", "AAAI 2026 (Oral) 论文配套代码与数据"], "use_cases": ["评测 LLM 在高风险政治决策任务上的表现", "复现论文中的投票模拟与决议通过预测实验", "获取联合国安理会决议结构化数据用于研究"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://arxiv.org/abs/2502.14122", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM评测基准", "政治科学", "联合国安理会", "数据集", "文本生成"], "domain": "LLM 评测/政治科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: UNBench is a comprehensive multi-stage benchmark built on United Nations Security Council (UNSC) records to evaluate lar", "L16: This repository provides tools and sample data for analyzing, simulating, and generating content related to UNSC draft r"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yueqingliang1/UNBench",
+ "sha": "6c6300b450fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "基于联合国安理会记录的 LLM 政治决策基准（四任务）",
+  "review": "论文 Benchmarking LLMs for Political Science 的数据与代码仓库：基于联合国安理会记录构建多阶段基准，覆盖共同起草者选择、投票模拟、决议通过预测、外交声明生成四个任务。仓库内提供每任务约 30 个代表性样本及 Jupyter Notebook 运行脚本，完整数据集经 Google Drive 发布；默认接入 Together API，也可替换为用户自有 LLM。任务 2/3 输出 Accuracy、AUC、F1 等指标，任务 4 计算 ROUGE-L。面向政治科学与 LLM 评测研究者。",
+  "highlights": [
+   "四任务覆盖起草、投票、通过与声明生成的决策流程",
+   "每任务发布约 30 个代表性样本，完整数据集托管于 Google Drive",
+   "任务 2/3 输出 Accuracy/AUC/F1，任务 4 输出 ROUGE-L",
+   "AAAI 2026 (Oral) 论文配套代码与数据"
+  ],
+  "use_cases": [
+   "评测 LLM 在高风险政治决策任务上的表现",
+   "复现论文中的投票模拟与决议通过预测实验",
+   "获取联合国安理会决议结构化数据用于研究"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://arxiv.org/abs/2502.14122",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM评测基准",
+   "政治科学",
+   "联合国安理会",
+   "数据集",
+   "文本生成"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: UNBench is a comprehensive multi-stage benchmark built on United Nations Security Council (UNSC) records to evaluate lar",
+   "L16: This repository provides tools and sample data for analyzing, simulating, and generating content related to UNSC draft r"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,84 @@
-{"fn": "xiaomoBoy/pi-durable-edge", "sha": "9b609cd46791", "source": "readme", "identity": {"one_liner": "部署在 Cloudflare Workers 上的持久化个人聊天 Agent", "review": "基于 Cloudflare Workers + SQLite-backed Durable Objects + PiHarness 的持久化个人 Agent，是 Pi Durable Assistant 的独立维护 Cloudflare 版本。支持 OpenAI Chat Completions/Responses、Anthropic Messages 与 Faux 模型配置，API Key 服务端加密保存；提供持久聊天记录、定时提醒与 REST API。通过 Deploy to Cloudflare 按钮一键部署，也可 npm 本地运行。当前为单用户、单 Durable Object，v0.2.1 已通过本地测试但远端部署与真实 API 仍待实测，多会话、附件等尚未实现。", "highlights": ["基于 Workers + Durable Objects 无服务器运行，一键部署", "支持 OpenAI/Anthropic 模型配置，Faux 免费模式不调用收费模型", "聊天记录与定时提醒持久化，刷新后可继续查看", "API Key 服务端加密，提供同源 CSP 等安全审查措施"], "use_cases": ["在 Cloudflare 免费额度上自托管个人 AI 助手", "需要聊天记录和定时提醒持久保存的个人 Agent", "通过 REST API 接入自己的模型配置"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [9, 19]}}, "links": {"scenario_tags": ["个人Agent", "Cloudflare Workers", "自托管", "Durable Objects", "聊天助手"], "domain": "AI Agent/云边缘应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "中文部署教程"]}, "trust": {"confidence": "high", "evidence": ["L3: 基于 **Cloudflare Workers + SQLite-backed Durable Objects + PiHarness** 的持久化个人 Agent。独立维护的 Cloudflare 版本，源自 Pi Durable Ass", "L14: - **模型配置**：OpenAI Chat Completions / Responses、Anthropic Messages 和 Faux；支持 HTTPS Base URL、API Key、模型 ID、上下文窗口、输出 Token ", "L15: - **持久聊天**：通过 PiHarness 提交消息并保存记录，可刷新后继续查看。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "xiaomoBoy/pi-durable-edge",
+ "sha": "9b609cd46791",
+ "source": "readme",
+ "identity": {
+  "one_liner": "部署在 Cloudflare Workers 上的持久化个人聊天 Agent",
+  "review": "基于 Cloudflare Workers + SQLite-backed Durable Objects + PiHarness 的持久化个人 Agent，是 Pi Durable Assistant 的独立维护 Cloudflare 版本。支持 OpenAI Chat Completions/Responses、Anthropic Messages 与 Faux 模型配置，API Key 服务端加密保存；提供持久聊天记录、定时提醒与 REST API。通过 Deploy to Cloudflare 按钮一键部署，也可 npm 本地运行。当前为单用户、单 Durable Object，v0.2.1 已通过本地测试但远端部署与真实 API 仍待实测，多会话、附件等尚未实现。",
+  "highlights": [
+   "基于 Workers + Durable Objects 无服务器运行，一键部署",
+   "支持 OpenAI/Anthropic 模型配置，Faux 免费模式不调用收费模型",
+   "聊天记录与定时提醒持久化，刷新后可继续查看",
+   "API Key 服务端加密，提供同源 CSP 等安全审查措施"
+  ],
+  "use_cases": [
+   "在 Cloudflare 免费额度上自托管个人 AI 助手",
+   "需要聊天记录和定时提醒持久保存的个人 Agent",
+   "通过 REST API 接入自己的模型配置"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9,
+    19
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "个人Agent",
+   "Cloudflare Workers",
+   "自托管",
+   "Durable Objects",
+   "聊天助手"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "中文部署教程"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 基于 **Cloudflare Workers + SQLite-backed Durable Objects + PiHarness** 的持久化个人 Agent。独立维护的 Cloudflare 版本，源自 Pi Durable Ass",
+   "L14: - **模型配置**：OpenAI Chat Completions / Responses、Anthropic Messages 和 Faux；支持 HTTPS Base URL、API Key、模型 ID、上下文窗口、输出 Token ",
+   "L15: - **持久聊天**：通过 PiHarness 提交消息并保存记录，可刷新后继续查看。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

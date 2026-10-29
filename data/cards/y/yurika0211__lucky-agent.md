@@ -35,7 +35,7 @@ LuckyAgent 是一套 Go 编写的 Agent 基础设施：CLI、HTTP API 和消息�
 
 ## 场景标签
 
- · 领域:LLM Agent 基础设施
+`Agent 框架` `Agent 记忆` `多智能体` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

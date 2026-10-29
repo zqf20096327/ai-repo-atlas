@@ -1,1 +1,77 @@
-{"fn": "wondermayank/ai-chat", "sha": "c2761d911f71", "source": "readme", "identity": {"one_liner": "面向 CUET/银行/商科学生的 AI 学习问答助手", "review": "部署在 Cloudflare Pages Functions 上的网页聊天应用，面向 CUET、银行考试与商科学生的备考问答。聊天框中可选择多个由 Groq API 提供的模型（默认 Tiny，另有 Tiny Lite、bytes 等），选择保存在浏览器端；所选模型在当前 Groq key 下不可用时，服务端自动依次尝试其他模型并在界面标明实际应答者。模型列表可通过修改 functions/api/chat.js 中的 MODELS 与 index.html 调整，README 未展示完整安装步骤。", "highlights": ["基于 Cloudflare Pages Functions 的前端聊天 UI + API 部署", "聊天框内多模型选择，选择记忆在浏览器端", "所选模型不可用时服务端自动回退到其他模型"], "use_cases": ["CUET 或银行考试备考中随时提问解题", "商科课程学习中的即时答疑", "作为 Groq 多模型切换的轻量聊天界面"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["教育", "考试备考", "聊天应用", "Serverless"], "domain": "教育/考试备考", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["groq"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: AI-powered study assistant for CUET, Banking & Commerce students.", "L6: ## AI models (pick from the chat box)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "wondermayank/ai-chat",
+ "sha": "c2761d911f71",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 CUET/银行/商科学生的 AI 学习问答助手",
+  "review": "部署在 Cloudflare Pages Functions 上的网页聊天应用，面向 CUET、银行考试与商科学生的备考问答。聊天框中可选择多个由 Groq API 提供的模型（默认 Tiny，另有 Tiny Lite、bytes 等），选择保存在浏览器端；所选模型在当前 Groq key 下不可用时，服务端自动依次尝试其他模型并在界面标明实际应答者。模型列表可通过修改 functions/api/chat.js 中的 MODELS 与 index.html 调整，README 未展示完整安装步骤。",
+  "highlights": [
+   "基于 Cloudflare Pages Functions 的前端聊天 UI + API 部署",
+   "聊天框内多模型选择，选择记忆在浏览器端",
+   "所选模型不可用时服务端自动回退到其他模型"
+  ],
+  "use_cases": [
+   "CUET 或银行考试备考中随时提问解题",
+   "商科课程学习中的即时答疑",
+   "作为 Groq 多模型切换的轻量聊天界面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "教育",
+   "考试备考",
+   "聊天应用",
+   "Serverless"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "groq"
+  ],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: AI-powered study assistant for CUET, Banking & Commerce students.",
+   "L6: ## AI models (pick from the chat box)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

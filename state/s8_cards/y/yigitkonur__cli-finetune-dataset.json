@@ -1,1 +1,73 @@
-{"fn": "yigitkonur/cli-finetune-dataset", "sha": "1a41ed82ede0", "source": "readme", "identity": {"one_liner": "构建类别加权平衡的 LLM 微调数据集的 Python CLI", "review": "面向 LLM 微调数据准备的 Python 脚本工具：读取目录下的 OpenAI chat 格式 JSONL 对话文件，以首条 assistant 消息内容作为类别标签，按 config.ini 中可配置的权重对各类别采样（不足时可放回过采样），输出单个打乱后的 JSONL 数据集。附带评估脚本统计输出中类别分布并以终端表格展示。由两个脚本构成，依赖仅 pandas（评估需 rich）。", "highlights": ["线程池并发读取 JSONL 文件", "按权重采样，源数据不足时放回过采样", "以首条 assistant 消息内容作为类别标签", "评估脚本统计类别分布并渲染终端表格"], "use_cases": ["把多类别对话数据合并为可控比例的微调数据集", "检查微调数据集的类别分布是否符合预期权重"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["数据准备", "微调", "数据集构建", "CLI工具"], "domain": "机器学习/数据准备", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L1: weighted, category-balanced dataset builder for LLM fine-tuning. takes a directory of JSONL conversation files, samples ", "L14: you have a pile of JSONL files with OpenAI chat-format conversations, split across categories. you want a single fine-tu"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yigitkonur/cli-finetune-dataset",
+ "sha": "1a41ed82ede0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "构建类别加权平衡的 LLM 微调数据集的 Python CLI",
+  "review": "面向 LLM 微调数据准备的 Python 脚本工具：读取目录下的 OpenAI chat 格式 JSONL 对话文件，以首条 assistant 消息内容作为类别标签，按 config.ini 中可配置的权重对各类别采样（不足时可放回过采样），输出单个打乱后的 JSONL 数据集。附带评估脚本统计输出中类别分布并以终端表格展示。由两个脚本构成，依赖仅 pandas（评估需 rich）。",
+  "highlights": [
+   "线程池并发读取 JSONL 文件",
+   "按权重采样，源数据不足时放回过采样",
+   "以首条 assistant 消息内容作为类别标签",
+   "评估脚本统计类别分布并渲染终端表格"
+  ],
+  "use_cases": [
+   "把多类别对话数据合并为可控比例的微调数据集",
+   "检查微调数据集的类别分布是否符合预期权重"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "数据准备",
+   "微调",
+   "数据集构建",
+   "CLI工具"
+  ],
+  "domain": "机器学习/数据准备",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L1: weighted, category-balanced dataset builder for LLM fine-tuning. takes a directory of JSONL conversation files, samples ",
+   "L14: you have a pile of JSONL files with OpenAI chat-format conversations, split across categories. you want a single fine-tu"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

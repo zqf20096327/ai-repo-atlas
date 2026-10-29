@@ -1,1 +1,80 @@
-{"fn": "waterbili/PerimeterX_RE", "sha": "78e464e897de", "source": "readme", "identity": {"one_liner": "PerimeterX 反爬 SDK 的纯算法逆向重建，生成 _px3/_px2 cookie", "review": "面向安全研究者的 PerimeterX（HUMAN Security）反爬 SDK 逆向工程成果：不依赖浏览器或自动化框架，以 Node.js 纯算法重建 sensor payload 加密链（XOR/base64/interleave、HMAC-MD5 签名）与 collector POST 流程，输出有效 _pxN cookie。项目在 5 个站点上 10/10 验证，按 lenient/strict/strict+ 三档部署差异文档化，另附含 7 份参考、11 个 playbook、17 个 CLI 工具的 AI 逆向技能包。限制：绑定锁定 SDK 版本，strict+ 站点需真实 Chrome TLS 与住宅 IP，press-challenge 路径为浏览器 userscript。仅供研究与教育用途。", "highlights": ["纯算法重建 _px3/_px2 cookie 链，无浏览器/自动化框架", "9 个可复用加密/编码原语（HMAC-MD5、OB 解码、SID 隐写等）", "5 个站点 10/10 验证，lenient/strict/strict+ 三档部署方法论", "AI 逆向技能包：7 份参考、11 个 playbook、17 个 CLI 工具、23 个 gotcha"], "use_cases": ["研究 PerimeterX 反爬协议与 sensor payload 加密机制", "为自己的站点做安全审计时理解 PX 防护层级", "作为 SDK 版本升级后重新逆向的方法论参考"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["逆向工程", "反爬/反bot", "Web安全研究", "cookie生成算法", "AI技能包"], "domain": "Web 安全/逆向工程", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供中文版链接（L13）", "main/ZH 中文技术文档（L86）"]}, "trust": {"confidence": "mid", "evidence": ["L76: revers/        9 algorithm modules (require()-able)         skill/      AI reverse-engineering skill", "L87: |`skill/AI_re/`|The reverse-engineering skill: 7 references, 11 playbooks, 17 CLI tools, 23 gotchas|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "waterbili/PerimeterX_RE",
+ "sha": "78e464e897de",
+ "source": "readme",
+ "identity": {
+  "one_liner": "PerimeterX 反爬 SDK 的纯算法逆向重建，生成 _px3/_px2 cookie",
+  "review": "面向安全研究者的 PerimeterX（HUMAN Security）反爬 SDK 逆向工程成果：不依赖浏览器或自动化框架，以 Node.js 纯算法重建 sensor payload 加密链（XOR/base64/interleave、HMAC-MD5 签名）与 collector POST 流程，输出有效 _pxN cookie。项目在 5 个站点上 10/10 验证，按 lenient/strict/strict+ 三档部署差异文档化，另附含 7 份参考、11 个 playbook、17 个 CLI 工具的 AI 逆向技能包。限制：绑定锁定 SDK 版本，strict+ 站点需真实 Chrome TLS 与住宅 IP，press-challenge 路径为浏览器 userscript。仅供研究与教育用途。",
+  "highlights": [
+   "纯算法重建 _px3/_px2 cookie 链，无浏览器/自动化框架",
+   "9 个可复用加密/编码原语（HMAC-MD5、OB 解码、SID 隐写等）",
+   "5 个站点 10/10 验证，lenient/strict/strict+ 三档部署方法论",
+   "AI 逆向技能包：7 份参考、11 个 playbook、17 个 CLI 工具、23 个 gotcha"
+  ],
+  "use_cases": [
+   "研究 PerimeterX 反爬协议与 sensor payload 加密机制",
+   "为自己的站点做安全审计时理解 PX 防护层级",
+   "作为 SDK 版本升级后重新逆向的方法论参考"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "逆向工程",
+   "反爬/反bot",
+   "Web安全研究",
+   "cookie生成算法",
+   "AI技能包"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供中文版链接（L13）",
+   "main/ZH 中文技术文档（L86）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L76: revers/        9 algorithm modules (require()-able)         skill/      AI reverse-engineering skill",
+   "L87: |`skill/AI_re/`|The reverse-engineering skill: 7 references, 11 playbooks, 17 CLI tools, 23 gotchas|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

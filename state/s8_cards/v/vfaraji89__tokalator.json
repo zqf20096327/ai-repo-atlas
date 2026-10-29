@@ -1,1 +1,77 @@
-{"fn": "vfaraji89/tokalator", "sha": "d60d16452201", "source": "readme", "identity": {"one_liner": "计量 AI 编程工具 token 消耗与成本的 VS Code 扩展及配套", "review": "面向使用 Claude Code、GitHub Copilot 与 Codex 的开发者，提供上下文预算、按 token 与 API 等价成本的用量统计、标签相关性、32 个模型的定价、代码地图与工作区安全功能。仓库含三部分：VS Code 扩展、Claude Code 插件（生成源链接的 GLOSSARY.md 与 SITE-MAP.md）、MCP 服务器与 CLI。扩展经 VS Code Marketplace 安装，MCP 需 npm 构建后注册，AGPL-3.0 且提供商业许可。", "highlights": ["按 token 与 API 等价成本统计 Claude Code / Copilot / Codex 用量", "上下文预算、标签相关性与 32 个定价模型", "Claude Code 插件生成源链接的 GLOSSARY.md 与 SITE-MAP.md", "提供 MCP 服务器与 CLI"], "use_cases": ["查看 AI 编程工具每天花了多少 token 或等价 API 成本", "为 agent 设定并跟踪上下文预算", "为 Claude Code 生成代码地图与术语表辅助导航"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "dual", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org (README L10 标注 arXiv，未给完整链接)", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["token计数", "AI编程工具", "VS Code扩展", "成本监控", "MCP"], "domain": "开发者工具/AI 编程辅助", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L5: Context budget, agent usage for Claude Code, Copilot and Codex, and code maps for your agents.", "L20: |`tokalator-extension-vs/`|The VS Code extension: context budget, Claude Code turns with API-equivalent cost, tab releva"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vfaraji89/tokalator",
+ "sha": "d60d16452201",
+ "source": "readme",
+ "identity": {
+  "one_liner": "计量 AI 编程工具 token 消耗与成本的 VS Code 扩展及配套",
+  "review": "面向使用 Claude Code、GitHub Copilot 与 Codex 的开发者，提供上下文预算、按 token 与 API 等价成本的用量统计、标签相关性、32 个模型的定价、代码地图与工作区安全功能。仓库含三部分：VS Code 扩展、Claude Code 插件（生成源链接的 GLOSSARY.md 与 SITE-MAP.md）、MCP 服务器与 CLI。扩展经 VS Code Marketplace 安装，MCP 需 npm 构建后注册，AGPL-3.0 且提供商业许可。",
+  "highlights": [
+   "按 token 与 API 等价成本统计 Claude Code / Copilot / Codex 用量",
+   "上下文预算、标签相关性与 32 个定价模型",
+   "Claude Code 插件生成源链接的 GLOSSARY.md 与 SITE-MAP.md",
+   "提供 MCP 服务器与 CLI"
+  ],
+  "use_cases": [
+   "查看 AI 编程工具每天花了多少 token 或等价 API 成本",
+   "为 agent 设定并跟踪上下文预算",
+   "为 Claude Code 生成代码地图与术语表辅助导航"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "dual",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org (README L10 标注 arXiv，未给完整链接)",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "token计数",
+   "AI编程工具",
+   "VS Code扩展",
+   "成本监控",
+   "MCP"
+  ],
+  "domain": "开发者工具/AI 编程辅助",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: Context budget, agent usage for Claude Code, Copilot and Codex, and code maps for your agents.",
+   "L20: |`tokalator-extension-vs/`|The VS Code extension: context budget, Claude Code turns with API-equivalent cost, tab releva"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

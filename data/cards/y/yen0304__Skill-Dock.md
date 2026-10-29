@@ -33,7 +33,7 @@ VS Code / Cursor 扩展，用于在本地（默认 ~/.skilldock/skills/）创建
 
 ## 场景标签
 
- · 领域:开发者工具/Agent 生态
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

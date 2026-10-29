@@ -33,7 +33,7 @@ Lanser-CLI 是论文 RLCSF（Reinforcement Learning from Compiler and Language S
 
 ## 场景标签
 
- · 领域:LLM 智能体/开发工具
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

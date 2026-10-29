@@ -33,7 +33,7 @@ DeepSeek Harness 的非官方社区 fork，保留上游插件架构与真实 age
 
 ## 场景标签
 
- · 领域:开发者工具/agent 界面
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

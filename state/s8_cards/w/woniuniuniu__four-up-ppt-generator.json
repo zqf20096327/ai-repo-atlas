@@ -1,1 +1,80 @@
-{"fn": "woniuniuniu/four-up-ppt-generator", "sha": "3e1e31197a9e", "source": "readme", "identity": {"one_liner": "四路并行生成 HTML 演示文稿的中文 PPT 生成器", "review": "基于 op7418/guizang-ppt-skill 构建的网页应用：输入一个主题后，A/B/C/D 四路独立请求模型，并行生成四份不同内容视角与视觉风格的 HTML PPT（默认约 9 页结构），生成过程中逐页实时预览，支持对单份 PPT 提交修改意见反复生成。默认调用百灵 Ling-3.0-flash 模型的 OpenAI 兼容接口，自部署版需用户自行填写模型配置与 API Key（随请求转发，不落盘）。提供 Vercel 托管演示与 npm 自部署两种方式，AGPL-3.0-only 开源。", "highlights": ["A/B/C/D 四路并行生成不同视角与风格的 PPT", "逐页实时预览与单份反馈修改的迭代生成", "HTML PPT 保留脚本、动画、WebGL 与交互能力", "双模式密钥：托管版服务端环境变量或用户页面填写自己的模型配置"], "use_cases": ["输入主题快速得到多版不同风格的演示文稿再挑选", "对某一份生成的 PPT 提修改意见反复迭代", "自行部署到 Vercel 提供在线 PPT 生成体验"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://4ppt.vercel.app/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["PPT生成", "HTML演示", "内容生成", "中文场景"], "domain": "内容生成/办公演示", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["简体中文 README 与中文演示场景", "默认接入百灵大模型（api.ant-ling.com）", "基于中文社区项目 guizang-ppt-skill 构建"]}, "trust": {"confidence": "high", "evidence": ["L5: 一个面向中文演示场景的四宫格 HTML PPT 生成器。输入一个主题后，系统会并行生成 A/B/C/D 四份不同内容视角、不同视觉风格的网页 PPT，并在生成过程中逐页同步预览。", "L38: - 四路并行生成：A/B/C/D 四份 PPT 独立请求模型，避免“一套内容换四个皮肤”。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "woniuniuniu/four-up-ppt-generator",
+ "sha": "3e1e31197a9e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "四路并行生成 HTML 演示文稿的中文 PPT 生成器",
+  "review": "基于 op7418/guizang-ppt-skill 构建的网页应用：输入一个主题后，A/B/C/D 四路独立请求模型，并行生成四份不同内容视角与视觉风格的 HTML PPT（默认约 9 页结构），生成过程中逐页实时预览，支持对单份 PPT 提交修改意见反复生成。默认调用百灵 Ling-3.0-flash 模型的 OpenAI 兼容接口，自部署版需用户自行填写模型配置与 API Key（随请求转发，不落盘）。提供 Vercel 托管演示与 npm 自部署两种方式，AGPL-3.0-only 开源。",
+  "highlights": [
+   "A/B/C/D 四路并行生成不同视角与风格的 PPT",
+   "逐页实时预览与单份反馈修改的迭代生成",
+   "HTML PPT 保留脚本、动画、WebGL 与交互能力",
+   "双模式密钥：托管版服务端环境变量或用户页面填写自己的模型配置"
+  ],
+  "use_cases": [
+   "输入主题快速得到多版不同风格的演示文稿再挑选",
+   "对某一份生成的 PPT 提修改意见反复迭代",
+   "自行部署到 Vercel 提供在线 PPT 生成体验"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://4ppt.vercel.app/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "PPT生成",
+   "HTML演示",
+   "内容生成",
+   "中文场景"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README 与中文演示场景",
+   "默认接入百灵大模型（api.ant-ling.com）",
+   "基于中文社区项目 guizang-ppt-skill 构建"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: 一个面向中文演示场景的四宫格 HTML PPT 生成器。输入一个主题后，系统会并行生成 A/B/C/D 四份不同内容视角、不同视觉风格的网页 PPT，并在生成过程中逐页同步预览。",
+   "L38: - 四路并行生成：A/B/C/D 四份 PPT 独立请求模型，避免“一套内容换四个皮肤”。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

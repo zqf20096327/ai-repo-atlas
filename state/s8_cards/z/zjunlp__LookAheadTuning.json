@@ -1,1 +1,79 @@
-{"fn": "zjunlp/LookAheadTuning", "sha": "5123ecfad7a0", "source": "readme", "identity": {"one_liner": "通过部分答案预览改造训练数据以保持模型安全性的微调方法", "review": "WSDM 2026 论文 LookAhead Tuning 的官方代码库，提供两种数据中心的微调方法：在训练数据中预览答案前缀 token，降低这些 token 的损失，减少对模型初始 token 的扰动，从而在下游任务微调时保持模型安全性。包含 main.py 数据处理脚本（real/virtual 两种模式，支持 JSON/JSONL），训练与安全评估流程复用 shallow-vs-deep-alignment 仓库，需 4 张 A100/H100 80GB GPU。给需要复现论文实验的安全对齐研究者使用。", "highlights": ["real/virtual 双模式答案前缀预览数据处理脚本，支持 JSON/JSONL", "训练与评估流程基于 shallow-vs-deep-alignment 框架", "安全率评估支持关键词与 GPT 两种方法，效用评估含 rouge1/gsm8k", "数据来源 GSM8K、Samsum、HEx-PHI 数据集"], "use_cases": ["复现论文中保持安全性的微调实验", "为自己的微调数据构造答案前缀预览", "对微调后模型做效用与安全率评估"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "arXiv（README 标注 arXiv 链接，L4）", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["LLM 安全", "微调方法", "对齐", "学术论文代码"], "domain": "LLM 安全/微调研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": true, "zh_origin_signals": ["zjunlp（浙江大学 NLP 团队）组织维护"]}, "trust": {"confidence": "mid", "evidence": ["L18: LookAhead Tuning comprises two data-centric, resource-efficient, simple, and effective methods. The fundamental concept ", "L2:  Safer Language Models via Partial Answer Previews", "L12: Our dataset is sourced from the GSM8K dataset, the Samsum dataset, and the HEx-PHI dataset . Our training code and safet"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zjunlp/LookAheadTuning",
+ "sha": "5123ecfad7a0",
+ "source": "readme",
+ "identity": {
+  "one_liner": "通过部分答案预览改造训练数据以保持模型安全性的微调方法",
+  "review": "WSDM 2026 论文 LookAhead Tuning 的官方代码库，提供两种数据中心的微调方法：在训练数据中预览答案前缀 token，降低这些 token 的损失，减少对模型初始 token 的扰动，从而在下游任务微调时保持模型安全性。包含 main.py 数据处理脚本（real/virtual 两种模式，支持 JSON/JSONL），训练与安全评估流程复用 shallow-vs-deep-alignment 仓库，需 4 张 A100/H100 80GB GPU。给需要复现论文实验的安全对齐研究者使用。",
+  "highlights": [
+   "real/virtual 双模式答案前缀预览数据处理脚本，支持 JSON/JSONL",
+   "训练与评估流程基于 shallow-vs-deep-alignment 框架",
+   "安全率评估支持关键词与 GPT 两种方法，效用评估含 rouge1/gsm8k",
+   "数据来源 GSM8K、Samsum、HEx-PHI 数据集"
+  ],
+  "use_cases": [
+   "复现论文中保持安全性的微调实验",
+   "为自己的微调数据构造答案前缀预览",
+   "对微调后模型做效用与安全率评估"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "arXiv（README 标注 arXiv 链接，L4）",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "LLM 安全",
+   "微调方法",
+   "对齐",
+   "学术论文代码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "fine-tuning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "zjunlp（浙江大学 NLP 团队）组织维护"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L18: LookAhead Tuning comprises two data-centric, resource-efficient, simple, and effective methods. The fundamental concept ",
+   "L2:  Safer Language Models via Partial Answer Previews",
+   "L12: Our dataset is sourced from the GSM8K dataset, the Samsum dataset, and the HEx-PHI dataset . Our training code and safet"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

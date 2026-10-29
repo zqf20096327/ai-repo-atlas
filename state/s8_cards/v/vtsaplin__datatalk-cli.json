@@ -1,1 +1,83 @@
-{"fn": "vtsaplin/datatalk-cli", "sha": "3feef5403a1b", "source": "readme", "identity": {"one_liner": "用自然语言查询本地 CSV/Excel/Parquet 的命令行工具", "review": "基于终端的本地数据查询工具：用户以英文自然语言提问，LLM 生成 SQL，由本地 DuckDB 执行，返回查询结果与默认展示的 SQL；支持 CSV、Excel(.xlsx/.xls)、Parquet，交互与单次查询两种模式，并提供 JSON/CSV 结构化输出供脚本管道使用。云端模型仅上传表结构、数据留在本机，配合本地 Ollama 可完全离线运行。面向需要快速查数据而不写 SQL 的开发者和数据使用者，以 pip 安装，需 Python 3.9+ 和一个 LLM API key 或本地 Ollama。", "highlights": ["自然语言转 SQL，DuckDB 本地执行，SQL 默认透明展示", "支持 CSV/Excel/Parquet 多格式与 GB 级文件", "通过 LiteLLM 接入 100+ 模型（OpenAI/Anthropic/Gemini/Ollama 等）", "JSON/CSV 输出与标准退出码，可嵌入脚本与自动化管道"], "use_cases": ["不写 SQL 直接对 CSV 文件提问拿结果", "在终端快速核查 Excel/Parquet 数据而不打开表格软件", "隐私敏感数据在本地（含 Ollama 离线）完成查询", "把自然语言查询嵌入 shell 脚本做自动化数据处理"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["自然语言查数", "CLI工具", "DuckDB", "本地优先", "数据分析"], "domain": "数据分析/开发工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["ollama", "anthropic", "azure"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L42: - **100% Local Processing** - Data never leaves your machine, only schema is sent to LLM", "L43: - **100% Offline Option** - Use local Ollama models for complete offline operation, no internet required", "L70: DataTalk uses LiteLLM to support 100+ models from various providers through a unified interface."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vtsaplin/datatalk-cli",
+ "sha": "3feef5403a1b",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用自然语言查询本地 CSV/Excel/Parquet 的命令行工具",
+  "review": "基于终端的本地数据查询工具：用户以英文自然语言提问，LLM 生成 SQL，由本地 DuckDB 执行，返回查询结果与默认展示的 SQL；支持 CSV、Excel(.xlsx/.xls)、Parquet，交互与单次查询两种模式，并提供 JSON/CSV 结构化输出供脚本管道使用。云端模型仅上传表结构、数据留在本机，配合本地 Ollama 可完全离线运行。面向需要快速查数据而不写 SQL 的开发者和数据使用者，以 pip 安装，需 Python 3.9+ 和一个 LLM API key 或本地 Ollama。",
+  "highlights": [
+   "自然语言转 SQL，DuckDB 本地执行，SQL 默认透明展示",
+   "支持 CSV/Excel/Parquet 多格式与 GB 级文件",
+   "通过 LiteLLM 接入 100+ 模型（OpenAI/Anthropic/Gemini/Ollama 等）",
+   "JSON/CSV 输出与标准退出码，可嵌入脚本与自动化管道"
+  ],
+  "use_cases": [
+   "不写 SQL 直接对 CSV 文件提问拿结果",
+   "在终端快速核查 Excel/Parquet 数据而不打开表格软件",
+   "隐私敏感数据在本地（含 Ollama 离线）完成查询",
+   "把自然语言查询嵌入 shell 脚本做自动化数据处理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "自然语言查数",
+   "CLI工具",
+   "DuckDB",
+   "本地优先",
+   "数据分析"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "ollama",
+   "anthropic",
+   "azure"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L42: - **100% Local Processing** - Data never leaves your machine, only schema is sent to LLM",
+   "L43: - **100% Offline Option** - Use local Ollama models for complete offline operation, no internet required",
+   "L70: DataTalk uses LiteLLM to support 100+ models from various providers through a unified interface."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

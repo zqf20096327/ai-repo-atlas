@@ -1,1 +1,80 @@
-{"fn": "warc0s/llm-storyteller", "sha": "a45dc595f694", "source": "readme", "identity": {"one_liner": "面向写作者的三步式 LLM 故事生成 Streamlit 应用", "review": "基于 Streamlit 的交互式 Web 应用，面向学生、写作者与爱好者生成故事。核心机制是将 LLM 提示拆为三步流水线：先生成结构化大纲，再据大纲撰写叙事，最后做语法与连贯性润化；每步可选不同模型。本地版要求两个 OpenAI 兼容模型运行于 localhost:7860，默认适配 Llama 1B / Qwen 1.5B 等 CPU 小模型；另有接入 OpenRouter 免费模型的在线版本部署于 Streamlit Cloud。支持温度、叙事风格（悬疑/科幻/爱情/奇幻/喜剧）、语言与长度等参数，故事可导出 txt。应用界面为西班牙语。", "highlights": ["大纲→写作→润化的三步引导式生成流程，针对小模型优化", "本地 OpenAI 兼容端点（默认 localhost:7860）与 OpenRouter 在线版两种运行方式", "可分步选择不同模型、调节温度、指定语言/风格/长度", "生成结果一键下载为 txt 文件"], "use_cases": ["输入角色、地点、关键动作等要素快速生成完整故事", "为大纲、写作、润化各步骤搭配不同模型获得更好的结果", "无 GPU 环境下用 CPU 小模型本地生成故事"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "Streamlit Cloud 在线版（README 提供链接）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["创意写作", "故事生成", "LLM应用", "Streamlit", "提示工程"], "domain": "创意写作/AI 应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["openrouter"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L8: Welcome to **LLM StoryTeller**, an interactive web application that leverages Large Language Models (LLMs) to help you c", "L26: LLM StoryTeller is a Streamlit-based application designed to assist users in creating engaging stories through the power", "L28: To ensure the application functions correctly, you need to have two OpenAI-compatible language models running locally on"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "warc0s/llm-storyteller",
+ "sha": "a45dc595f694",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向写作者的三步式 LLM 故事生成 Streamlit 应用",
+  "review": "基于 Streamlit 的交互式 Web 应用，面向学生、写作者与爱好者生成故事。核心机制是将 LLM 提示拆为三步流水线：先生成结构化大纲，再据大纲撰写叙事，最后做语法与连贯性润化；每步可选不同模型。本地版要求两个 OpenAI 兼容模型运行于 localhost:7860，默认适配 Llama 1B / Qwen 1.5B 等 CPU 小模型；另有接入 OpenRouter 免费模型的在线版本部署于 Streamlit Cloud。支持温度、叙事风格（悬疑/科幻/爱情/奇幻/喜剧）、语言与长度等参数，故事可导出 txt。应用界面为西班牙语。",
+  "highlights": [
+   "大纲→写作→润化的三步引导式生成流程，针对小模型优化",
+   "本地 OpenAI 兼容端点（默认 localhost:7860）与 OpenRouter 在线版两种运行方式",
+   "可分步选择不同模型、调节温度、指定语言/风格/长度",
+   "生成结果一键下载为 txt 文件"
+  ],
+  "use_cases": [
+   "输入角色、地点、关键动作等要素快速生成完整故事",
+   "为大纲、写作、润化各步骤搭配不同模型获得更好的结果",
+   "无 GPU 环境下用 CPU 小模型本地生成故事"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "Streamlit Cloud 在线版（README 提供链接）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "创意写作",
+   "故事生成",
+   "LLM应用",
+   "Streamlit",
+   "提示工程"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "openrouter"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L8: Welcome to **LLM StoryTeller**, an interactive web application that leverages Large Language Models (LLMs) to help you c",
+   "L26: LLM StoryTeller is a Streamlit-based application designed to assist users in creating engaging stories through the power",
+   "L28: To ensure the application functions correctly, you need to have two OpenAI-compatible language models running locally on"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
