@@ -45,12 +45,12 @@ jido_ai 是 Jido 生态的核心包，为 Elixir 中的 tool-using agent 提供 
 ```mermaid
 xychart-beta
     title "agentjido/jido_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 210 --> 212
     line [211, 211]
 ```
 
-2026-10-18 211 → 2026-10-28 211（+0）
+2026-10-18 211 → 2026-10-29 211（+0）
 
 
 ---

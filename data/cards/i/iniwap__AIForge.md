@@ -40,6 +40,18 @@
 > L8: **将自然语言指令转化为可执行代码的AI驱动自动化引擎**
 > L20: - 🎭 **多 LLM 支持**：OpenAI、DeepSeek、OpenRouter、Ollama
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iniwap/AIForge 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-10-28 62 → 2026-10-29 62（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `d6c4d63964e3` · [字段定义](../../DATASET.md)*

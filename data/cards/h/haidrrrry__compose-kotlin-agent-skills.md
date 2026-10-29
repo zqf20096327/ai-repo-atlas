@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haidrrrry/compose-kotlin-agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "haidrrrry/compose-kotlin-agent-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 58 --> 64
-    line [59, 61, 63]
+    line [59, 61, 63, 63]
 ```
 
-2026-10-18 59 → 2026-10-28 63（+4）
+2026-10-18 59 → 2026-10-29 63（+4）
 
 
 ---

@@ -46,12 +46,12 @@ AWS build-on-aws 维护的学习型仓库，用 Python 演示基于 Amazon Bedro
 ```mermaid
 xychart-beta
     title "build-on-aws/langchain-embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-28 58（+0）
+2026-10-18 58 → 2026-10-29 58（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Data-Centric-AI-Community/fg-data-synthetic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 1660 --> 1662
-    line [1661, 1661]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 1660 --> 1663
+    line [1661, 1662]
 ```
 
-2026-10-18 1,661 → 2026-10-28 1,661（+0）
+2026-10-18 1,661 → 2026-10-29 1,662（+1）
 
 
 ---

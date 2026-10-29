@@ -46,12 +46,12 @@ deptrust 是本地运行的 CLI，检查 13+ 包生态（npm、PyPI、crates.io�
 ```mermaid
 xychart-beta
     title "clidey/deptrust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-28 61（+0）
+2026-10-18 61 → 2026-10-29 61（+0）
 
 
 ---

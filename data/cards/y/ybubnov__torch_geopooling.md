@@ -45,12 +45,12 @@ Torch Geopooling 是 PyTorch 的扩展库，为构建地理空间神经网络提
 ```mermaid
 xychart-beta
     title "ybubnov/torch_geopooling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-28 20（+0）
+2026-10-18 20 → 2026-10-29 20（+0）
 
 
 ---

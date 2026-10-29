@@ -44,13 +44,13 @@ Takomi 是一套用于组织 AI 辅助软件开发的协议、工作流与技能
 
 ```mermaid
 xychart-beta
-    title "J-StaR-Films-Studios/VibeCode-Protocol-Suite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    title "J-StaR-Films-Studios/VibeCode-Protocol-Suite 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-10-28 26（+2）
+2026-10-18 24 → 2026-10-29 26（+2）
 
 
 ---

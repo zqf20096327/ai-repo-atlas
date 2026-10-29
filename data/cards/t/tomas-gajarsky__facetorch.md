@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tomas-gajarsky/facetorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "tomas-gajarsky/facetorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 611 --> 614
-    line [612, 613]
+    line [612, 613, 613]
 ```
 
-2026-10-18 612 → 2026-10-28 613（+1）
+2026-10-18 612 → 2026-10-29 613（+1）
 
 
 ---

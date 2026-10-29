@@ -46,12 +46,12 @@ Boxcars 是一个 Ruby gem，为 Ruby 和 Rails 开发者提供构建 LLM 驱动
 ```mermaid
 xychart-beta
     title "BoxcarsAI/boxcars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 462 --> 464
     line [463, 463]
 ```
 
-2026-10-18 463 → 2026-10-28 463（+0）
+2026-10-18 463 → 2026-10-29 463（+0）
 
 
 ---

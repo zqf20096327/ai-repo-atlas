@@ -46,12 +46,12 @@ Insect Detect 项目的文档仓库：存放基于 Material for MkDocs 的文档
 ```mermaid
 xychart-beta
     title "maxsitt/insect-detect-docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-28 31（+0）
+2026-10-18 31 → 2026-10-29 31（+0）
 
 
 ---

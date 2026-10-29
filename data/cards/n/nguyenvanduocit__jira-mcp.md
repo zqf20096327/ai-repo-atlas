@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nguyenvanduocit/jira-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "nguyenvanduocit/jira-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 95 --> 98
-    line [97, 96]
+    line [97, 96, 96]
 ```
 
-2026-10-18 97 → 2026-10-28 96（-1）
+2026-10-18 97 → 2026-10-29 96（-1）
 
 
 ---

@@ -44,13 +44,13 @@ Kilo Code（v7.8.8）的 fork，重新配置为接入 bharatcode.ai 提供商。
 
 ```mermaid
 xychart-beta
-    title "thenabbu/BharatCode-VSCode-Extension 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 6 --> 14
-    line [7, 8, 9, 12, 13]
+    title "thenabbu/BharatCode-VSCode-Extension 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 6 --> 20
+    line [7, 8, 9, 12, 13, 19]
 ```
 
-2026-10-18 7 → 2026-10-28 13（+6）
+2026-10-18 7 → 2026-10-29 19（+12）
 
 
 ---

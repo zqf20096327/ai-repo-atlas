@@ -45,13 +45,13 @@ Oracle 官方的 Python SDK，面向在 Oracle AI Database 上开发向量检索
 
 ```mermaid
 xychart-beta
-    title "oracle/vecdb-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 69 --> 72
-    line [70, 71]
+    title "oracle/vecdb-python-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-10-28 71（+1）
+2026-10-18 70 → 2026-10-29 72（+2）
 
 
 ---

@@ -41,6 +41,18 @@ MCP2Lambda 是一个 MCP 服务器，作为 MCP 客户端与 AWS Lambda 之间�
 > L16: This MCP server acts as a **bridge** between MCP clients and AWS Lambda functions, allowing generative AI models to
 > L68: The server uses the MCP protocol, which standardizes the way AI models can access external tools.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danilop/MCP2Lambda 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 108 --> 110
+    line [109, 109]
+```
+
+2026-10-28 109 → 2026-10-29 109（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `b990c1a11414` · [字段定义](../../DATASET.md)*

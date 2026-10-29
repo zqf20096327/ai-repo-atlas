@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "delphi-blocks/MCPConnect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "delphi-blocks/MCPConnect 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-28 44（+1）
+2026-10-18 43 → 2026-10-29 44（+1）
 
 
 ---

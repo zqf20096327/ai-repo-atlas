@@ -43,12 +43,12 @@ EMNLP 2025 论文 Circuit-aware Editing Enables Generalizable Knowledge Learners
 ```mermaid
 xychart-beta
     title "zjunlp/CaKE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

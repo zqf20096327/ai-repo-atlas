@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmix-framework/jmix-crm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 26 --> 29
-    line [27, 28]
+    title "jmix-framework/jmix-crm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-10-28 28（+1）
+2026-10-18 27 → 2026-10-29 29（+2）
 
 
 ---

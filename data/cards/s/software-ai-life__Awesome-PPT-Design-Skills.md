@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "software-ai-life/Awesome-PPT-Design-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
-    y-axis "stars" 121 --> 126
-    line [122, 123, 124, 125]
+    title "software-ai-life/Awesome-PPT-Design-Skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 121 --> 128
+    line [122, 123, 124, 125, 127]
 ```
 
-2026-10-18 122 → 2026-10-28 125（+3）
+2026-10-18 122 → 2026-10-29 127（+5）
 
 
 ---

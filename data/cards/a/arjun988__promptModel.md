@@ -47,12 +47,12 @@ PromptForge（PyPI 包名 tuneprompt）对 LLM 提示词从清晰度、具体性
 ```mermaid
 xychart-beta
     title "arjun988/promptModel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 32（+0）
 
 
 ---

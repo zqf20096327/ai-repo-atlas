@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "omerbsezer/Fast-LLM-Agent-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 90 --> 93
+    line [91, 92]
 ```
 
-2026-10-18 91 → 2026-10-28 91（+0）
+2026-10-18 91 → 2026-10-29 92（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Weaver 是一个 Obsidian 插件，在笔记工作流中嵌入类 ChatGPT 的聊
 ```mermaid
 xychart-beta
     title "vasilecampeanu/obsidian-weaver 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 221 --> 224
+    line [222, 223]
 ```
 
-2026-10-18 222 → 2026-10-28 222（+0）
+2026-10-18 222 → 2026-10-29 223（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/scalable-rag-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "FareedKhan-dev/scalable-rag-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 165 --> 168
-    line [166, 167]
+    line [166, 167, 167]
 ```
 
-2026-10-18 166 → 2026-10-28 167（+1）
+2026-10-18 166 → 2026-10-29 167（+1）
 
 
 ---

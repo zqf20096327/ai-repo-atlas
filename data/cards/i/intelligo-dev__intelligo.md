@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "intelligo-dev/intelligo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "intelligo-dev/intelligo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 430 --> 433
-    line [432, 431]
+    line [432, 431, 431]
 ```
 
-2026-10-18 432 → 2026-10-28 431（-1）
+2026-10-18 432 → 2026-10-29 431（-1）
 
 
 ---

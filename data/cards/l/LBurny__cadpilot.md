@@ -45,12 +45,12 @@ CADPilot 由 FreeCAD 插件（XML-RPC 服务端，监听 localhost:9875）与 MC
 ```mermaid
 xychart-beta
     title "LBurny/cadpilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 25]
 ```
 
-2026-10-18 21 → 2026-10-28 22（+1）
+2026-10-18 21 → 2026-10-29 25（+4）
 
 
 ---

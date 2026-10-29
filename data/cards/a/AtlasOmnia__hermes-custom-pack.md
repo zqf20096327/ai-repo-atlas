@@ -40,6 +40,18 @@ AtlasOmnia 维护的独立技能包，为 Nous Research 的 Hermes Agent 提供�
 > L5: An independent pack of practical skills, plugins, integrations, scripts, and utilities created by AtlasOmnia for Her
 > L13: ### Skills
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/hermes-custom-pack 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 72 --> 74
+    line [73, 73]
+```
+
+2026-10-28 73 → 2026-10-29 73（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `c577f54b3cbb` · [字段定义](../../DATASET.md)*

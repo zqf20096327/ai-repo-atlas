@@ -44,13 +44,13 @@ Tavus 维护的官方示例仓库：提供 5 个 CVI 快速上手示例（React 
 
 ```mermaid
 xychart-beta
-    title "Tavus-Engineering/tavus-examples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "Tavus-Engineering/tavus-examples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 92 --> 96
-    line [93, 94, 95]
+    line [93, 94, 95, 95]
 ```
 
-2026-10-18 93 → 2026-10-28 95（+2）
+2026-10-18 93 → 2026-10-29 95（+2）
 
 
 ---

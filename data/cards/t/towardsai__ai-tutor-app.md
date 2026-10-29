@@ -45,12 +45,12 @@ Towards AI 团队构建的对话式 AI 导师：Next.js 前端 + FastAPI 后端�
 ```mermaid
 xychart-beta
     title "towardsai/ai-tutor-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-28 33（+0）
+2026-10-18 33 → 2026-10-29 34（+1）
 
 
 ---

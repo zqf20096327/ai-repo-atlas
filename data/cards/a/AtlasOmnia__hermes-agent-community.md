@@ -39,6 +39,18 @@
 > L5: Hermes Agent Community Resources is an SEO-first mirror of the highest-signal r/hermesagent content for people searc
 > L26: **What is Hermes Agent?** Hermes Agent is an open-source, local-first AI agent framework by Nous Research. It conne
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/hermes-agent-community 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
+```
+
+2026-10-28 27 → 2026-10-29 27（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `68c5c535134f` · [字段定义](../../DATASET.md)*

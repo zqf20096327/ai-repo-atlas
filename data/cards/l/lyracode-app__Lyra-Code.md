@@ -44,13 +44,13 @@ Android 应用，内置 Agent 在应用管理的 PRoot Linux 环境或已有 Ter
 
 ```mermaid
 xychart-beta
-    title "lyracode-app/Lyra-Code 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-28"]
-    y-axis "stars" 48 --> 51
-    line [49, 50]
+    title "lyracode-app/Lyra-Code 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-22 49 → 2026-10-28 50（+1）
+2026-10-22 49 → 2026-10-29 51（+2）
 
 
 ---

@@ -44,13 +44,13 @@ ComfyUI 自定义节点，受 VS Code 启发，为 MiniMax H3 提供提示词编
 
 ```mermaid
 xychart-beta
-    title "ethanfel/ComfyUI-H3-Prompt-IDE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 35 --> 40
-    line [36, 38, 39]
+    title "ethanfel/ComfyUI-H3-Prompt-IDE 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 35 --> 41
+    line [36, 38, 39, 40]
 ```
 
-2026-10-18 36 → 2026-10-28 39（+3）
+2026-10-18 36 → 2026-10-29 40（+4）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScaleBrick/founder-marketing-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    title "ScaleBrick/founder-marketing-skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 83 --> 88
-    line [84, 85, 86, 87]
+    line [84, 85, 86, 87, 87]
 ```
 
-2026-10-18 84 → 2026-10-28 87（+3）
+2026-10-18 84 → 2026-10-29 87（+3）
 
 
 ---

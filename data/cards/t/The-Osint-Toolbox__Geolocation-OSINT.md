@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-Osint-Toolbox/Geolocation-OSINT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 359 --> 363
-    line [360, 361, 362]
+    title "The-Osint-Toolbox/Geolocation-OSINT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 359 --> 364
+    line [360, 361, 362, 363]
 ```
 
-2026-10-18 360 → 2026-10-28 362（+2）
+2026-10-18 360 → 2026-10-29 363（+3）
 
 
 ---

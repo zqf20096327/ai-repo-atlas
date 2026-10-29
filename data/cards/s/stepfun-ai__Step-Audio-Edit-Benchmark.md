@@ -45,12 +45,12 @@ Step-Audio-EditX 技术报告配套的评测基准仓库：提供 8 位中英双
 ```mermaid
 xychart-beta
     title "stepfun-ai/Step-Audio-Edit-Benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

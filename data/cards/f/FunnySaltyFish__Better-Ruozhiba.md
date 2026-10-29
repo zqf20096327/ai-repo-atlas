@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "FunnySaltyFish/Better-Ruozhiba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 264 --> 266
-    line [265, 265]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 264 --> 267
+    line [265, 266]
 ```
 
-2026-10-18 265 → 2026-10-28 265（+0）
+2026-10-18 265 → 2026-10-29 266（+1）
 
 
 ---

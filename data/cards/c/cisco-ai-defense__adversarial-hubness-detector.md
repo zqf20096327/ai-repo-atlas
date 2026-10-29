@@ -45,12 +45,12 @@ Cisco AI Defense 维护的开源安全扫描器，审计向量索引与嵌入，
 ```mermaid
 xychart-beta
     title "cisco-ai-defense/adversarial-hubness-detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

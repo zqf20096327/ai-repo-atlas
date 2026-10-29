@@ -45,12 +45,12 @@ ElevenLabs 官方维护的 monorepo，提供 5 个 npm 包：核心 TS/JS 客户
 ```mermaid
 xychart-beta
     title "elevenlabs/packages 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 113 --> 116
+    line [114, 115]
 ```
 
-2026-10-18 114 → 2026-10-28 114（+0）
+2026-10-18 114 → 2026-10-29 115（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Parametric Scattering Networks（CVPR 2022 Oral）官方代码库：把 Morlet �
 ```mermaid
 xychart-beta
     title "bentherien/parametricScatteringNetworks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

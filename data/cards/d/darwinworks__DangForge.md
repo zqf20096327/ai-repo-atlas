@@ -39,6 +39,18 @@
 > L3: 把 MR Dang 的《价值投资功法》，整理成 AI Agent 可以执行的中文投资分析流程。
 > L20: 如果你已经在用 Claude Code、Codex、Cursor Agent 或其他能读取 GitHub 的 Agent，把这个仓库链接发给它即可：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "darwinworks/DangForge 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-10-28 19 → 2026-10-29 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `0cad8262fb66` · [字段定义](../../DATASET.md)*

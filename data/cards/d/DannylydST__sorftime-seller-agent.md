@@ -46,13 +46,13 @@ Sorftime 出品的开源 MCP 技能/工具层：向任意 MCP 兼容 AI agent（
 
 ```mermaid
 xychart-beta
-    title "DannylydST/sorftime-seller-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
-    y-axis "stars" 35 --> 41
-    line [36, 38, 39, 40]
+    title "DannylydST/sorftime-seller-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 35 --> 42
+    line [36, 38, 39, 40, 41]
 ```
 
-2026-10-18 36 → 2026-10-28 40（+4）
+2026-10-18 36 → 2026-10-29 41（+5）
 
 
 ---

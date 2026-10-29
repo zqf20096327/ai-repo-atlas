@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "redis-developer/langgraph-redis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 239 --> 241
-    line [240, 240]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 239 --> 242
+    line [240, 241]
 ```
 
-2026-10-18 240 → 2026-10-28 240（+0）
+2026-10-18 240 → 2026-10-29 241（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnowSky1/universal-imagegen-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "SnowSky1/universal-imagegen-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 189 --> 237
-    line [193, 232, 233]
+    line [193, 232, 233, 233]
 ```
 
-2026-10-18 193 → 2026-10-28 233（+40）
+2026-10-18 193 → 2026-10-29 233（+40）
 
 
 ---

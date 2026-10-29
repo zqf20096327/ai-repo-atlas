@@ -44,13 +44,13 @@ Goethe 是用 Rust 编写的自托管推理服务，将带 NVIDIA GPU 的 Linux 
 
 ```mermaid
 xychart-beta
-    title "meshapplied/goethe 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-28"]
-    y-axis "stars" 9 --> 26
-    line [10, 25]
+    title "meshapplied/goethe 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 8 --> 34
+    line [10, 25, 32]
 ```
 
-2026-10-25 10 → 2026-10-28 25（+15）
+2026-10-25 10 → 2026-10-29 32（+22）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/transformers-explained 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 225 --> 228
-    line [227, 226, 227]
+    title "amitshekhariitbhu/transformers-explained 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 225 --> 230
+    line [227, 226, 227, 229]
 ```
 
-2026-10-18 227 → 2026-10-28 227（+0）
+2026-10-18 227 → 2026-10-29 229（+2）
 
 
 ---

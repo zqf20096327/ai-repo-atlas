@@ -41,6 +41,18 @@ TypeScript SDK，用于在开发者自己的机器上构建、定制和部署 Wh
 > L10:  Build your own WhatsApp AI agent: an open-source SDK to build, customize and deploy AI agents on WhatsApp in minut
 > L104: |`@wappy_ai/harness`|The agent itself: how it thinks, remembers, and decides what to do.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "csr1010/whatsapp-ai-agent-sdk 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 160 --> 179
+    line [161, 178]
+```
+
+2026-10-28 161 → 2026-10-29 178（+17）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `bb81d3396943` · [字段定义](../../DATASET.md)*

@@ -40,6 +40,18 @@ Apexo 是一个开源通用编程 Agent，由单一本地 Agent 运行时驱动 
 > L10: Apexo is a **general-purpose coding agent** with a unified terminal UI (TUI), web UI, and Electron desktop app powe
 > L12: Rather than being tied to a single model vendor or acting as a thin wrapper, Apexo provides its own deeply engineer
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cluster1900/apexo-code 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 39 --> 77
+    line [42, 74]
+```
+
+2026-10-28 42 → 2026-10-29 74（+32）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `34b8eb42d1b8` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@
 > L9: > Community project. Not affiliated with DeepSeek.
 > L187: |`src/index.js` — registers `video_storyboard` + `video_zoom`|✅ implemented, **host contract verified**|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SAOS-3624/dsh-video-storyboard 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 32 --> 104
+    line [38, 98]
+```
+
+2026-10-28 38 → 2026-10-29 98（+60）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `ba881a6e66ac` · [字段定义](../../DATASET.md)*

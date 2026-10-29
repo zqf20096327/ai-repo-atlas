@@ -38,6 +38,18 @@
 
 > L3: Collection of notebooks and scripts related to financial engineering, quant-research and algo-trading.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adamd1985/articles_materials 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 115 --> 117
+    line [116, 116]
+```
+
+2026-10-28 116 → 2026-10-29 116（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `546744b36947` · [字段定义](../../DATASET.md)*

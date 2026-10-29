@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mintahandrews/Low-Code-No-Code-Platforms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-28 36（+0）
+2026-10-18 36 → 2026-10-29 37（+1）
 
 
 ---

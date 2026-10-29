@@ -48,12 +48,12 @@ DeepTune 是一个自动化深度学习（AutoML）库与 CLI 工具，覆盖图
 ```mermaid
 xychart-beta
     title "moayadeldin/deeptune 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

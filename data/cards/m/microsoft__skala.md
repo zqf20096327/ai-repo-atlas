@@ -45,12 +45,12 @@ Microsoft Research AI for Science 开发的神经网络交换相关（XC）泛�
 ```mermaid
 xychart-beta
     title "microsoft/skala 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 265 --> 267
-    line [266, 266]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 265 --> 268
+    line [266, 267]
 ```
 
-2026-10-18 266 → 2026-10-28 266（+0）
+2026-10-18 266 → 2026-10-29 267（+1）
 
 
 ---

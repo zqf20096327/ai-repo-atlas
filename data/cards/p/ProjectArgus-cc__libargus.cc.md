@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProjectArgus-cc/libargus.cc 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-28"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-23", "2026-10-29"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-23 18 → 2026-10-28 18（+0）
+2026-10-23 18 → 2026-10-29 19（+1）
 
 
 ---

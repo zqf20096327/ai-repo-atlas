@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "felixrieseberg/language-model-builder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    title "felixrieseberg/language-model-builder 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 55 --> 61
-    line [56, 58, 59, 60]
+    line [56, 58, 59, 60, 60]
 ```
 
-2026-10-18 56 → 2026-10-28 60（+4）
+2026-10-18 56 → 2026-10-29 60（+4）
 
 
 ---

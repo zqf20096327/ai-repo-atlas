@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "allient/create-fastapi-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "allient/create-fastapi-project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 121 --> 124
-    line [123, 122]
+    line [123, 122, 122]
 ```
 
-2026-10-18 123 → 2026-10-28 122（-1）
+2026-10-18 123 → 2026-10-29 122（-1）
 
 
 ---

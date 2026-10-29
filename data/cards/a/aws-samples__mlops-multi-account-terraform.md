@@ -45,12 +45,12 @@ AWS 官方示例仓库，演示如何用 Terraform 与 GitHub Actions 构建多�
 ```mermaid
 xychart-beta
     title "aws-samples/mlops-multi-account-terraform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-29 49（+0）
 
 
 ---

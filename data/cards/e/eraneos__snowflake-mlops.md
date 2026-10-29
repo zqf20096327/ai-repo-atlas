@@ -45,12 +45,12 @@ Eraneos 维护的开源参考 monorepo，演示如何在 Snowflake 上组织端�
 ```mermaid
 xychart-beta
     title "eraneos/snowflake-mlops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-27 36（+0）
+2026-10-18 36 → 2026-10-29 36（+0）
 
 
 ---

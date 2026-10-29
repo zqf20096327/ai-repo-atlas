@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ENSTA-U2IS-AI/awesome-uncertainty-deeplearning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    title "ENSTA-U2IS-AI/awesome-uncertainty-deeplearning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 825 --> 830
-    line [826, 827, 828, 829]
+    line [826, 827, 828, 829, 829]
 ```
 
-2026-10-18 826 → 2026-10-28 829（+3）
+2026-10-18 826 → 2026-10-29 829（+3）
 
 
 ---

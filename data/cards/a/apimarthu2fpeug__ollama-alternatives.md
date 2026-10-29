@@ -44,13 +44,13 @@ APIMart 运营的 API 聚合网关的单模型文档仓库：说明如何通过�
 
 ```mermaid
 xychart-beta
-    title "apimarthu2fpeug/ollama-alternatives 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "apimarthu2fpeug/ollama-alternatives 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 51 --> 55
-    line [52, 54]
+    line [52, 54, 54]
 ```
 
-2026-10-18 52 → 2026-10-28 54（+2）
+2026-10-18 52 → 2026-10-29 54（+2）
 
 
 ---

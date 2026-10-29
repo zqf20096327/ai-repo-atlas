@@ -44,13 +44,13 @@ Blender 4.5+ 扩展，通过程序化随机化与批量渲染生成带标注的�
 
 ```mermaid
 xychart-beta
-    title "lorenzozanizz/rendersynth 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    title "lorenzozanizz/rendersynth 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-18 24 → 2026-10-28 26（+2）
+2026-10-18 24 → 2026-10-29 27（+3）
 
 
 ---

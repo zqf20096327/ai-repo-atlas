@@ -46,12 +46,12 @@ Denis Rothman 所著《RAG-Driven Generative AI, Second Edition》(Packt) 的配
 ```mermaid
 xychart-beta
     title "Denis2054/RAG-Driven-Generative-AI-2nd-Edition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-28 20（+1）
+2026-10-18 19 → 2026-10-29 21（+2）
 
 
 ---

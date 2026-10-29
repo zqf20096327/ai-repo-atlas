@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Burakkylmz/tokenizer-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 14 --> 21
-    line [16, 15, 20]
+    title "Burakkylmz/tokenizer-workshop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 14 --> 25
+    line [16, 15, 20, 24]
 ```
 
-2026-10-18 16 → 2026-10-28 20（+4）
+2026-10-18 16 → 2026-10-29 24（+8）
 
 
 ---

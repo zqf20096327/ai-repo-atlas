@@ -40,6 +40,18 @@
 > L7: A curated list of community-made plugins for the Hermes desktop client, maintained by AtlasOmnia.
 > L36: Every entry below was verified against a public repository containing a native Hermes Desktop `plugin.js` that impo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/community-plugins 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-10-28 54 → 2026-10-29 54（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `667c768beaa0` · [字段定义](../../DATASET.md)*

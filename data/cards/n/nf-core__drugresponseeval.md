@@ -46,12 +46,12 @@ DrEval 由 PyPI 包 drevalpy 与本仓库的 Nextflow 流水线组成，用于�
 ```mermaid
 xychart-beta
     title "nf-core/drugresponseeval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

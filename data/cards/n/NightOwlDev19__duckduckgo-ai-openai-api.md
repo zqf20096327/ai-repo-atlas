@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "NightOwlDev19/duckduckgo-ai-openai-api 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-28 60（+0）
+2026-10-18 60 → 2026-10-29 60（+0）
 
 
 ---

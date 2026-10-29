@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "knowledgestack/excel-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "knowledgestack/excel-parser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 74 --> 77
-    line [75, 76]
+    line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-10-28 76（+1）
+2026-10-18 75 → 2026-10-29 76（+1）
 
 
 ---

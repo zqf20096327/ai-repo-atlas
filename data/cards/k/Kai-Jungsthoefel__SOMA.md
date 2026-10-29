@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kai-Jungsthoefel/SOMA 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 377 --> 395
-    line [378, 394]
+    title "Kai-Jungsthoefel/SOMA 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 376 --> 408
+    line [378, 394, 406]
 ```
 
-2026-10-26 378 → 2026-10-28 394（+16）
+2026-10-26 378 → 2026-10-29 406（+28）
 
 
 ---

@@ -42,6 +42,18 @@
 > L22: - **Its own separation logic engine** on Z3: entailment, frame inference, bi-abduction and countermodels.
 > L73: |AI layer|Detect, triage, exploit and fix with any OpenAI-compatible model, including on-device|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lambdasec/frame 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 48 --> 50
+    line [49, 49]
+```
+
+2026-10-28 49 → 2026-10-29 49（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `7eef77a29c76` · [字段定义](../../DATASET.md)*

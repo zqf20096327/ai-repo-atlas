@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yarik-contr/mcp-forge-studio-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 72 --> 75
+    line [73, 74]
 ```
 
-2026-10-18 73 → 2026-10-28 73（+0）
+2026-10-18 73 → 2026-10-29 74（+1）
 
 
 ---

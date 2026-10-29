@@ -44,13 +44,13 @@ README 形式的学习笔记与科普文章合集：涵盖 AI 聊天机器人历
 
 ```mermaid
 xychart-beta
-    title "mahbuba01/AI-and-ML-and-Research-and-Quantum-Computing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "mahbuba01/AI-and-ML-and-Research-and-Quantum-Computing 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-28 28（+1）
+2026-10-18 27 → 2026-10-29 28（+1）
 
 
 ---

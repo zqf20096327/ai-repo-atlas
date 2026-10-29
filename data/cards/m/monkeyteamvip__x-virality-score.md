@@ -40,6 +40,18 @@
 > L15: - Rewrite drafts for the **top 10** posts on the board, in your voice, same facts, no new numbers.
 > L39: Full steps, including GitHub Pages, the daily routine, the Grok Bot, and running without the bot: **docs/SETUP.md**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "monkeyteamvip/x-virality-score 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
+```
+
+2026-10-28 28 → 2026-10-29 29（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `d9807ef55afd` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ CleanStream 是一个 OBS Studio 音频滤波插件，在直播音频源上实�
 ```mermaid
 xychart-beta
     title "royshil/obs-cleanstream 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 235 --> 237
     line [236, 236]
 ```
 
-2026-10-18 236 → 2026-10-28 236（+0）
+2026-10-18 236 → 2026-10-29 236（+0）
 
 
 ---

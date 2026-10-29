@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuJunheng/DeepSeekHarnessGreen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 17 --> 21
-    line [19, 18, 19, 20]
+    title "LiuJunheng/DeepSeekHarnessGreen 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 17 --> 22
+    line [19, 18, 19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-28 20（+1）
+2026-10-18 19 → 2026-10-29 21（+2）
 
 
 ---

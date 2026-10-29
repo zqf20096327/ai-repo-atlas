@@ -40,6 +40,18 @@
 > L133: Visitors can ask questions about the CV from the floating **Ask my AI Assistant** button (shown with a robot icon)
 > L135: ## ✍️ Adding posts with Claude Code
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guilhermeborgesbastos/live-resume 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 490 --> 492
+    line [491, 491]
+```
+
+2026-10-28 491 → 2026-10-29 491（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `e0c75e949c7d` · [字段定义](../../DATASET.md)*

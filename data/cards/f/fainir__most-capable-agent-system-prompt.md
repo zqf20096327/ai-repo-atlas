@@ -40,6 +40,18 @@
 > L5: A copy-paste system prompt for people who use coding agents like Claude Code, Codex, or Cursor: paste it in, and you
 > L7: Left alone, most agent sessions forget everything between runs, call work done without checking it, and stall once a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fainir/most-capable-agent-system-prompt 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 877 --> 879
+    line [878, 878]
+```
+
+2026-10-28 878 → 2026-10-29 878（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `89f38826ada0` · [字段定义](../../DATASET.md)*

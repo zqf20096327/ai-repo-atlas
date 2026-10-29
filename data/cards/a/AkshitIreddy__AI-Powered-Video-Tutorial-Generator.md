@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkshitIreddy/AI-Powered-Video-Tutorial-Generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    title "AkshitIreddy/AI-Powered-Video-Tutorial-Generator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 314 --> 318
-    line [315, 316, 317]
+    line [315, 316, 317, 317]
 ```
 
-2026-10-18 315 → 2026-10-28 317（+2）
+2026-10-18 315 → 2026-10-29 317（+2）
 
 
 ---

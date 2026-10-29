@@ -45,13 +45,13 @@ Linear 的命令行接口，仅输出 JSON，为 LLM agent 与偏好结构化数
 
 ```mermaid
 xychart-beta
-    title "linearis-oss/linearis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "linearis-oss/linearis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 260 --> 263
-    line [261, 262]
+    line [261, 262, 262]
 ```
 
-2026-10-18 261 → 2026-10-28 262（+1）
+2026-10-18 261 → 2026-10-29 262（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgustiPuigserver/opus-prompt-architect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "AgustiPuigserver/opus-prompt-architect 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 124 --> 127
-    line [126, 125]
+    line [126, 125, 125]
 ```
 
-2026-10-18 126 → 2026-10-28 125（-1）
+2026-10-18 126 → 2026-10-29 125（-1）
 
 
 ---

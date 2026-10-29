@@ -46,12 +46,12 @@ macOS/Windows 独立运行的 3D 桌宠 Comi：小跳漫游、眨眼挥手、打
 ```mermaid
 xychart-beta
     title "IvenKooLab/desktop-pet 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-26", "2026-10-29"]
+    y-axis "stars" 11 --> 134
+    line [21, 124]
 ```
 
-2026-10-26 21 → 2026-10-28 21（+0）
+2026-10-26 21 → 2026-10-29 124（+103）
 
 
 ---

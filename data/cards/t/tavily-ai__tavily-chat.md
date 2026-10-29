@@ -46,12 +46,12 @@ Tavily 官方提供的对话式 agent 示例仓库：用 LangGraph 构建 ReAct 
 ```mermaid
 xychart-beta
     title "tavily-ai/tavily-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-28 79（+0）
+2026-10-18 79 → 2026-10-29 79（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrendownFerreira/transcriber 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 146 --> 152
-    line [147, 150, 151]
+    title "BrendownFerreira/transcriber 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 146 --> 154
+    line [147, 150, 151, 153]
 ```
 
-2026-10-18 147 → 2026-10-28 151（+4）
+2026-10-18 147 → 2026-10-29 153（+6）
 
 
 ---

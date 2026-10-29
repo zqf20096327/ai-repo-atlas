@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmirMotefaker/Create-your-own-ChatGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "AmirMotefaker/Create-your-own-ChatGPT 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 23]
+    line [23, 22, 23, 23]
 ```
 
-2026-10-18 23 → 2026-10-28 23（+0）
+2026-10-18 23 → 2026-10-29 23（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Evolutionary-Intelligence/EvolutionaryComputation-A-Modern-Perspective-ECAMP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-28 63（+0）
+2026-10-18 63 → 2026-10-29 63（+0）
 
 
 ---

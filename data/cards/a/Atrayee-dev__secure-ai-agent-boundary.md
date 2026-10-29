@@ -44,13 +44,13 @@ CodeBoundary 是一个位于源代码与 AI 模型（远程前沿 API 或本地�
 
 ```mermaid
 xychart-beta
-    title "Atrayee-dev/secure-ai-agent-boundary 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Atrayee-dev/secure-ai-agent-boundary 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 113 --> 116
-    line [115, 114]
+    line [115, 114, 114]
 ```
 
-2026-10-18 115 → 2026-10-28 114（-1）
+2026-10-18 115 → 2026-10-29 114（-1）
 
 
 ---

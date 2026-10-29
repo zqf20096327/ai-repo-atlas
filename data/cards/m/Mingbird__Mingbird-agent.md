@@ -44,13 +44,13 @@ Windows（Linux/macOS 实验性）桌面客户端，围绕本地小模型做 age
 
 ```mermaid
 xychart-beta
-    title "Mingbird/Mingbird-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "Mingbird/Mingbird-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23]
+    line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-10-28 23（+2）
+2026-10-18 21 → 2026-10-29 23（+2）
 
 
 ---

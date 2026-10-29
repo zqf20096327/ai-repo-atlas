@@ -46,12 +46,12 @@ Python 库形式封装 DALL-E 3 非官方 API：使用 Selenium WebDriver 打开
 ```mermaid
 xychart-beta
     title "Agora-Lab-AI/Dalle3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 192 --> 194
     line [193, 193]
 ```
 
-2026-10-18 193 → 2026-10-28 193（+0）
+2026-10-18 193 → 2026-10-29 193（+0）
 
 
 ---

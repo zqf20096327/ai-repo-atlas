@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zylc369/OpenSecurity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 80 --> 83
-    line [81, 82]
+    title "zylc369/OpenSecurity 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 80 --> 84
+    line [81, 82, 83]
 ```
 
-2026-10-18 81 → 2026-10-28 82（+1）
+2026-10-18 81 → 2026-10-29 83（+2）
 
 
 ---

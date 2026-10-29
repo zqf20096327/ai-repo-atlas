@@ -45,13 +45,13 @@ Statewave 生态的示例仓库：用 Planner/Coder/Reviewer 三个 Python CLI A
 
 ```mermaid
 xychart-beta
-    title "smaramwbc/statewave-multi-agent-shared-context 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    title "smaramwbc/statewave-multi-agent-shared-context 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 33 --> 39
-    line [36, 37, 38, 35, 34]
+    line [36, 37, 38, 35, 34, 35]
 ```
 
-2026-10-18 36 → 2026-10-28 34（-2）
+2026-10-18 36 → 2026-10-29 35（-1）
 
 
 ---

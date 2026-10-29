@@ -44,13 +44,13 @@ Oxylabs 官方维护的 agent 技能仓库，包含 5 个技能：Proxies（住�
 
 ```mermaid
 xychart-beta
-    title "oxylabs/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "oxylabs/agent-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 875 --> 878
-    line [876, 877]
+    line [876, 877, 877]
 ```
 
-2026-10-18 876 → 2026-10-28 877（+1）
+2026-10-18 876 → 2026-10-29 877（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geektutu/interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "geektutu/interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 1151 --> 1154
-    line [1152, 1153]
+    line [1152, 1153, 1153]
 ```
 
-2026-10-18 1,152 → 2026-10-28 1,153（+1）
+2026-10-18 1,152 → 2026-10-29 1,153（+1）
 
 
 ---

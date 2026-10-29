@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "albertobarnabo/lazy-cat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "albertobarnabo/lazy-cat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 49 --> 52
-    line [51, 50]
+    line [51, 50, 50]
 ```
 
-2026-10-18 51 → 2026-10-28 50（-1）
+2026-10-18 51 → 2026-10-29 50（-1）
 
 
 ---

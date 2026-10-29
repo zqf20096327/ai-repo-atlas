@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlameskyDexive/Legends-Of-Heroes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "FlameskyDexive/Legends-Of-Heroes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 929 --> 932
-    line [930, 931]
+    line [930, 931, 931]
 ```
 
-2026-10-18 930 → 2026-10-28 931（+1）
+2026-10-18 930 → 2026-10-29 931（+1）
 
 
 ---

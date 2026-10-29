@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DEVILENMO/Unsupervised-Defect-Detection-Project-Based-on-VAE-GAN-Architecture 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-26 90 → 2026-10-28 90（+0）
+2026-10-26 90 → 2026-10-29 90（+0）
 
 
 ---

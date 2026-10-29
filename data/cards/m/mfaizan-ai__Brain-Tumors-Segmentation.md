@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mfaizan-ai/Brain-Tumors-Segmentation 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "mfaizan-ai/Brain-Tumors-Segmentation 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 101 --> 105
-    line [102, 103, 104]
+    line [102, 103, 104, 104]
 ```
 
-2026-10-18 102 → 2026-10-28 104（+2）
+2026-10-18 102 → 2026-10-29 104（+2）
 
 
 ---

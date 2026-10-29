@@ -44,13 +44,13 @@ OpenRouter 官方维护的 Vercel AI SDK provider：通过 OpenRouter chat/compl
 
 ```mermaid
 xychart-beta
-    title "OpenRouterTeam/ai-sdk-provider 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28"]
+    title "OpenRouterTeam/ai-sdk-provider 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 689 --> 693
-    line [691, 692, 690, 691, 692]
+    line [691, 692, 690, 691, 692, 692]
 ```
 
-2026-10-18 691 → 2026-10-28 692（+1）
+2026-10-18 691 → 2026-10-29 692（+1）
 
 
 ---

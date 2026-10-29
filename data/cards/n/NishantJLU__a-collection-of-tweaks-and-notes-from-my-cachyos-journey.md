@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NishantJLU/a-collection-of-tweaks-and-notes-from-my-cachyos-journey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 22]
 ```
 
-2026-10-18 19 → 2026-10-28 20（+1）
+2026-10-18 19 → 2026-10-29 22（+3）
 
 
 ---

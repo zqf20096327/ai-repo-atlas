@@ -46,12 +46,12 @@ Model Context Protocol 的 Ruby/Rails 实现，以 Ruby gem 形式提供。开�
 ```mermaid
 xychart-beta
     title "nagstler/mcp_on_ruby 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-28 97（+0）
+2026-10-18 97 → 2026-10-29 97（+0）
 
 
 ---

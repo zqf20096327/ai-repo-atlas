@@ -45,13 +45,13 @@ VS Code 扩展，提供节点图画布，把论文拆解为按 hop 层级自动�
 
 ```mermaid
 xychart-beta
-    title "Jeong-jin-Han/NodeGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 38 --> 41
-    line [39, 40]
+    title "Jeong-jin-Han/NodeGraph 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-18 39 → 2026-10-28 40（+1）
+2026-10-18 39 → 2026-10-29 41（+2）
 
 
 ---

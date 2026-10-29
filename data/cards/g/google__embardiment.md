@@ -46,12 +46,12 @@ Google 团队发布的 Unity Package（v1.0.0，需 Unity v6000.0+，Apache 2.0�
 ```mermaid
 xychart-beta
     title "google/embardiment 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-28 29（+0）
+2026-10-18 29 → 2026-10-29 30（+1）
 
 
 ---

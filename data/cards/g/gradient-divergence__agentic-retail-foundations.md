@@ -46,12 +46,12 @@ Fatih Nayebi 所著《Foundations of Agentic AI for Retail》（第三版，2026
 ```mermaid
 xychart-beta
     title "gradient-divergence/agentic-retail-foundations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-28 26（+0）
+2026-10-18 26 → 2026-10-29 26（+0）
 
 
 ---

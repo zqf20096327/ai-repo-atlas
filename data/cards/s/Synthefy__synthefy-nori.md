@@ -45,13 +45,13 @@ Synthefy 维护的开源表格基础模型，通过上下文学习做回归：fi
 
 ```mermaid
 xychart-beta
-    title "Synthefy/synthefy-nori 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Synthefy/synthefy-nori 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 75 --> 78
-    line [76, 77]
+    line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-10-28 77（+1）
+2026-10-18 76 → 2026-10-29 77（+1）
 
 
 ---

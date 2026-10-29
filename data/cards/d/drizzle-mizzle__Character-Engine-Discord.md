@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "drizzle-mizzle/Character-Engine-Discord 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-28 126（+0）
+2026-10-18 126 → 2026-10-29 126（+0）
 
 
 ---

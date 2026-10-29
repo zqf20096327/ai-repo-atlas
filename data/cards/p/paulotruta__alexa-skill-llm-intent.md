@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paulotruta/alexa-skill-llm-intent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "paulotruta/alexa-skill-llm-intent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 171 --> 174
-    line [172, 173]
+    line [172, 173, 173]
 ```
 
-2026-10-18 172 → 2026-10-28 173（+1）
+2026-10-18 172 → 2026-10-29 173（+1）
 
 
 ---

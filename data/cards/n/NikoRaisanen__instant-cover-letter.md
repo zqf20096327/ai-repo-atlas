@@ -38,6 +38,18 @@
 > L4: No more writer's block!
 > L7: Using a Netflix application security engineering job description and a summary of my skills
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NikoRaisanen/instant-cover-letter 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
+```
+
+2026-10-28 50 → 2026-10-29 50（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `17e719f5201e` · [字段定义](../../DATASET.md)*

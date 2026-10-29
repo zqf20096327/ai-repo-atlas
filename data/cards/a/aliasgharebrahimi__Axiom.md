@@ -41,6 +41,18 @@
 > L2: > Learning the mathematics required for deep learning, implementing it in code, and explaining the application of ea
 > L13: - **PyTorch Implementation:** All mathematical concepts are implemented using the PyTorch framework for practical l
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aliasgharebrahimi/Axiom 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 13 --> 89
+    line [19, 83]
+```
+
+2026-10-28 19 → 2026-10-29 83（+64）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `3df775bd4b93` · [字段定义](../../DATASET.md)*

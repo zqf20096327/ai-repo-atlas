@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mohd-faizy/Probabilistic-Deep-Learning-with-TensorFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-28 74（+0）
+2026-10-18 74 → 2026-10-29 74（+0）
 
 
 ---

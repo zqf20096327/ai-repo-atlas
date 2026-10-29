@@ -44,12 +44,12 @@ Web 前端模板，使用 Vercel AI SDK 与 AI Elements 构建 Agent Client Prot
 ```mermaid
 xychart-beta
     title "mcpc-tech/ai-elements-remix-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-28 66（+0）
+2026-10-18 66 → 2026-10-29 66（+0）
 
 
 ---

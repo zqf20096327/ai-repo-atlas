@@ -46,12 +46,12 @@ PaddlePaddle 官方基准测试仓库：针对 v1.5.0 版本，在 CV（SE-ResNe
 ```mermaid
 xychart-beta
     title "PaddlePaddle/benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-28 81（+0）
+2026-10-18 81 → 2026-10-29 81（+0）
 
 
 ---

@@ -43,12 +43,12 @@ tsml-eval 提供面向时间序列机器学习算法的基准测试与评测工�
 ```mermaid
 xychart-beta
     title "time-series-machine-learning/tsml-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-28 60（+0）
+2026-10-18 60 → 2026-10-29 60（+0）
 
 
 ---

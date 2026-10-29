@@ -45,12 +45,12 @@ MonoScene 是 CVPR 2022 论文的官方 PyTorch 实现，从单张 RGB 图像预
 ```mermaid
 xychart-beta
     title "astra-vision/MonoScene 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 821 --> 823
     line [822, 822]
 ```
 
-2026-10-18 822 → 2026-10-28 822（+0）
+2026-10-18 822 → 2026-10-29 822（+0）
 
 
 ---

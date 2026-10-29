@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mimo-x/Code-Review-GPT-Gitlab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "mimo-x/Code-Review-GPT-Gitlab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 815 --> 818
-    line [816, 817]
+    line [816, 817, 817]
 ```
 
-2026-10-18 816 → 2026-10-28 817（+1）
+2026-10-18 816 → 2026-10-29 817（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DLS5-Omics/multimolecule 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "DLS5-Omics/multimolecule 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 56 --> 59
-    line [57, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-10-28 58（+1）
+2026-10-18 57 → 2026-10-29 58（+1）
 
 
 ---

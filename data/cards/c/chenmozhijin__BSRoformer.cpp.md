@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenmozhijin/BSRoformer.cpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "chenmozhijin/BSRoformer.cpp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 41 --> 44
-    line [42, 43]
+    line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-10-28 43（+1）
+2026-10-18 42 → 2026-10-29 43（+1）
 
 
 ---

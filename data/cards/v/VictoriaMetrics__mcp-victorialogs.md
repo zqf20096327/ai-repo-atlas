@@ -45,13 +45,13 @@ VictoriaMetrics 公司为 VictoriaLogs 日志数据库实现的 Model Context Pr
 
 ```mermaid
 xychart-beta
-    title "VictoriaMetrics/mcp-victorialogs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28"]
+    title "VictoriaMetrics/mcp-victorialogs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 101 --> 107
-    line [102, 103, 104, 105, 106]
+    line [102, 103, 104, 105, 106, 106]
 ```
 
-2026-10-18 102 → 2026-10-28 106（+4）
+2026-10-18 102 → 2026-10-29 106（+4）
 
 
 ---

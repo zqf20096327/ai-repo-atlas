@@ -40,6 +40,18 @@
 > L7: 参考 https://github.com/Tencent/ncnn/blob/master/examples/nanodetplus_pnnx.cpp 修改了 nanodet-plus 版本的 Web 版
 > L9: open https://nihui.github.io/ncnn-webassembly-nanodet and enjoy
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nihui/ncnn-webassembly-nanodet 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 132 --> 135
+    line [133, 134]
+```
+
+2026-10-28 133 → 2026-10-29 134（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `259e3aa2605d` · [字段定义](../../DATASET.md)*

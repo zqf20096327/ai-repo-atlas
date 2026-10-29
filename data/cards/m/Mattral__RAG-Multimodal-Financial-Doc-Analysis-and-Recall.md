@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 87 --> 91
-    line [88, 89, 90]
+    title "Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 87 --> 92
+    line [88, 89, 90, 91]
 ```
 
-2026-10-18 88 → 2026-10-28 90（+2）
+2026-10-18 88 → 2026-10-29 91（+3）
 
 
 ---

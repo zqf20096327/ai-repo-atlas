@@ -46,12 +46,12 @@ Neural Assets 论文的官方代码实现：用 JAX 编写，包含从输入数�
 ```mermaid
 xychart-beta
     title "google-deepmind/neural_assets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

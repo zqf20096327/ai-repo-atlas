@@ -45,13 +45,13 @@ Chaos 是一门以函数为基础、将智能体作为可调用值纳入程序�
 
 ```mermaid
 xychart-beta
-    title "Cattmonkey/ChaosIntelligence 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 198 --> 203
-    line [199, 202]
+    title "Cattmonkey/ChaosIntelligence 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 198 --> 204
+    line [199, 202, 203]
 ```
 
-2026-10-26 199 → 2026-10-28 202（+3）
+2026-10-26 199 → 2026-10-29 203（+4）
 
 
 ---

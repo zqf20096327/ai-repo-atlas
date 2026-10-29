@@ -46,12 +46,12 @@ AWS 官方示例仓库：以 AWS CDK 基础设施即代码方式，在 SageMaker
 ```mermaid
 xychart-beta
     title "aws-samples/generative-ai-sagemaker-cdk-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-28 74（+0）
+2026-10-18 74 → 2026-10-29 74（+0）
 
 
 ---

@@ -46,13 +46,13 @@ C.Origami 是发表于 Nat Biotechnol 2023 论文的官方实现，基于 Origam
 
 ```mermaid
 xychart-beta
-    title "tanjimin/C.Origami 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "tanjimin/C.Origami 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 87 --> 90
-    line [88, 89]
+    line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-10-28 89（+1）
+2026-10-18 88 → 2026-10-29 89（+1）
 
 
 ---

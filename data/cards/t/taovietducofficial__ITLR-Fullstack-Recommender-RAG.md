@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taovietducofficial/ITLR-Fullstack-Recommender-RAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-10-28 59（+1）
+2026-10-18 58 → 2026-10-29 59（+1）
 
 
 ---

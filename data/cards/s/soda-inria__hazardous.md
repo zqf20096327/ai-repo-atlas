@@ -45,12 +45,12 @@ Inria soda 团队维护的 Python 库，提供竞争风险（competing risks）�
 ```mermaid
 xychart-beta
     title "soda-inria/hazardous 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-28 121（+0）
+2026-10-18 121 → 2026-10-29 121（+0）
 
 
 ---

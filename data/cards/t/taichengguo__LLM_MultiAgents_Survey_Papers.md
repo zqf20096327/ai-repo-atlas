@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taichengguo/LLM_MultiAgents_Survey_Papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "taichengguo/LLM_MultiAgents_Survey_Papers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 1326 --> 1329
-    line [1327, 1328]
+    line [1327, 1328, 1328]
 ```
 
-2026-10-18 1,327 → 2026-10-28 1,328（+1）
+2026-10-18 1,327 → 2026-10-29 1,328（+1）
 
 
 ---

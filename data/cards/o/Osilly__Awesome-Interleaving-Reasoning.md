@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Osilly/Awesome-Interleaving-Reasoning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 282 --> 284
     line [283, 283]
 ```
 
-2026-10-18 283 → 2026-10-28 283（+0）
+2026-10-18 283 → 2026-10-29 283（+0）
 
 
 ---

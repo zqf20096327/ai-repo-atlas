@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ForestHubAI/edge-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 105 --> 109
-    line [106, 108]
+    title "ForestHubAI/edge-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 105 --> 110
+    line [106, 108, 109]
 ```
 
-2026-10-18 106 → 2026-10-28 108（+2）
+2026-10-18 106 → 2026-10-29 109（+3）
 
 
 ---

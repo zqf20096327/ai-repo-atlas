@@ -45,12 +45,12 @@ MCP-Airflow-API 是将 Apache Airflow REST API 操作封装为自然语言工具
 ```mermaid
 xychart-beta
     title "call518/MCP-Airflow-API 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-28 52（+0）
+2026-10-18 52 → 2026-10-29 52（+0）
 
 
 ---

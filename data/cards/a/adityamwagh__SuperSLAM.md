@@ -44,13 +44,13 @@ SuperSLAM 是面向机器人定位建图的双目与 RGB-D 视觉 SLAM 系统：
 
 ```mermaid
 xychart-beta
-    title "adityamwagh/SuperSLAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "adityamwagh/SuperSLAM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 182 --> 185
-    line [183, 184]
+    line [183, 184, 184]
 ```
 
-2026-10-18 183 → 2026-10-28 184（+1）
+2026-10-18 183 → 2026-10-29 184（+1）
 
 
 ---

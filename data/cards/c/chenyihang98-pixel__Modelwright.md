@@ -46,12 +46,12 @@ Windows 桌面应用（Electron）：输入图片或文字，调用 Tripo、Mesh
 ```mermaid
 xychart-beta
     title "chenyihang98-pixel/Modelwright 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 11 --> 23
     line [12, 22, 22]
 ```
 
-2026-10-18 12 → 2026-10-28 22（+10）
+2026-10-18 12 → 2026-10-29 22（+10）
 
 
 ---

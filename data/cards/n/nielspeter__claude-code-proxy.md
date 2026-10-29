@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nielspeter/claude-code-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-28 38（+0）
+2026-10-18 38 → 2026-10-29 39（+1）
 
 
 ---

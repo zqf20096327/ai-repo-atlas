@@ -45,12 +45,12 @@ T-GATE 算法在 ComfyUI 中的节点化实现：通过缓存 cross-attention �
 ```mermaid
 xychart-beta
     title "JettHu/ComfyUI_TGate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-28 102（+0）
+2026-10-18 102 → 2026-10-29 102（+0）
 
 
 ---

@@ -46,12 +46,12 @@ ClearML 提供的预打包 Docker 容器系列，内置 CUDA 11.x/12.x/13.x 与 
 ```mermaid
 xychart-beta
     title "clearml/clearml-fractional-gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-28 97（+0）
+2026-10-18 97 → 2026-10-29 97（+0）
 
 
 ---

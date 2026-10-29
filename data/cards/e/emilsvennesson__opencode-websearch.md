@@ -43,12 +43,12 @@ OpenCode 编码代理的插件：注册 web-search 工具，调用模型内置�
 ```mermaid
 xychart-beta
     title "emilsvennesson/opencode-websearch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 67 --> 71
-    line [68, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    y-axis "stars" 67 --> 72
+    line [68, 70, 71]
 ```
 
-2026-10-18 68 → 2026-10-28 70（+2）
+2026-10-18 68 → 2026-10-29 71（+3）
 
 
 ---

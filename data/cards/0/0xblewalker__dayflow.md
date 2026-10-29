@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xblewalker/dayflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 19 --> 37
-    line [20, 36]
+    title "0xblewalker/dayflow 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 18 --> 47
+    line [20, 36, 45]
 ```
 
-2026-10-18 20 → 2026-10-28 36（+16）
+2026-10-18 20 → 2026-10-29 45（+25）
 
 
 ---

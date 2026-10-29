@@ -46,12 +46,12 @@ Rust 实现的 AI agent 开发框架：提供多 LLM 接入（Claude/Anthropic A
 ```mermaid
 xychart-beta
     title "koki7o/mcp-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

@@ -46,12 +46,12 @@ mloda 是一个 Python 框架，通过声明式 API 让 AI 代理、ML 管道和
 ```mermaid
 xychart-beta
     title "mloda-ai/mloda 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 95 --> 98
+    line [96, 97]
 ```
 
-2026-10-18 96 → 2026-10-28 96（+0）
+2026-10-18 96 → 2026-10-29 97（+1）
 
 
 ---

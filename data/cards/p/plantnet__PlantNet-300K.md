@@ -45,12 +45,12 @@ Pl@ntNet-300K 论文（NeurIPS Datasets and Benchmarks 2021）配套仓库，提
 ```mermaid
 xychart-beta
     title "plantnet/PlantNet-300K 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-28"]
+    x-axis ["2026-10-22", "2026-10-29"]
     y-axis "stars" 268 --> 270
     line [269, 269]
 ```
 
-2026-10-22 269 → 2026-10-28 269（+0）
+2026-10-22 269 → 2026-10-29 269（+0）
 
 
 ---

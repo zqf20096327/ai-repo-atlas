@@ -46,12 +46,12 @@ OpenBrep 是面向 ArchiCAD 高阶用户与 GDL 开发者的全栈桌面 AI 工�
 ```mermaid
 xychart-beta
     title "byewind1/openbrep 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-28 26（+0）
+2026-10-18 26 → 2026-10-29 27（+1）
 
 
 ---

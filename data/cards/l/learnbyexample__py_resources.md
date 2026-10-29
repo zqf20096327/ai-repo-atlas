@@ -43,12 +43,12 @@ learnbyexample 维护的 Python 学习资源合集，以 mdBook 生成的网页�
 ```mermaid
 xychart-beta
     title "learnbyexample/py_resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 180 --> 182
     line [181, 181]
 ```
 
-2026-10-18 181 → 2026-10-28 181（+0）
+2026-10-18 181 → 2026-10-29 181（+0）
 
 
 ---

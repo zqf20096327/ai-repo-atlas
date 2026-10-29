@@ -46,12 +46,12 @@ MIT 开源项目（v0.5.0），以 agent harness 形式加载到 Mac 上 ChatGPT
 ```mermaid
 xychart-beta
     title "demeyer1/Autobot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-28 23（+0）
+2026-10-18 23 → 2026-10-29 23（+0）
 
 
 ---

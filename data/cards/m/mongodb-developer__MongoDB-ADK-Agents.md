@@ -45,12 +45,12 @@ MongoDB 官方开发者组织发布的示例项目：基于 Google ADK 构建食
 ```mermaid
 xychart-beta
     title "mongodb-developer/MongoDB-ADK-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-28 47（+0）
+2026-10-18 47 → 2026-10-29 47（+0）
 
 
 ---

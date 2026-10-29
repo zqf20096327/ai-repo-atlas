@@ -44,13 +44,13 @@ VideoAdGuard 是面向B站观众的浏览器插件（Edge/Chrome/Firefox 及油�
 
 ```mermaid
 xychart-beta
-    title "ZeroTang05/VideoAdGuard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "ZeroTang05/VideoAdGuard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 760 --> 766
-    line [765, 761]
+    line [765, 761, 761]
 ```
 
-2026-10-18 765 → 2026-10-28 761（-4）
+2026-10-18 765 → 2026-10-29 761（-4）
 
 
 ---

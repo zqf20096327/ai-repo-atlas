@@ -46,13 +46,13 @@ PersonaForge 是一个创建和运行 AI 对话人格的创意沙盒：通过 Pe
 
 ```mermaid
 xychart-beta
-    title "seuksaedu-beep/Persona-Flow-Chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "seuksaedu-beep/Persona-Flow-Chat 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 127 --> 130
-    line [128, 129, 128]
+    line [128, 129, 128, 128]
 ```
 
-2026-10-18 128 → 2026-10-28 128（+0）
+2026-10-18 128 → 2026-10-29 128（+0）
 
 
 ---

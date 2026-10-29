@@ -46,12 +46,12 @@ ClawRecipes 是一个 OpenClaw 插件（TypeScript/Node.js 18+），以 CLI 优�
 ```mermaid
 xychart-beta
     title "JIGGAI/ClawRecipes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-10-28 100（+0）
+2026-10-18 100 → 2026-10-29 101（+1）
 
 
 ---

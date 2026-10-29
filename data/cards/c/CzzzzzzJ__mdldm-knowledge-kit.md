@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CzzzzzzJ/mdldm-knowledge-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 39 --> 44
-    line [41, 40, 43]
+    title "CzzzzzzJ/mdldm-knowledge-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 39 --> 45
+    line [41, 40, 43, 44]
 ```
 
-2026-10-18 41 → 2026-10-28 43（+2）
+2026-10-18 41 → 2026-10-29 44（+3）
 
 
 ---

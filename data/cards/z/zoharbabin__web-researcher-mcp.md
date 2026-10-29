@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoharbabin/web-researcher-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    title "zoharbabin/web-researcher-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 69 --> 73
-    line [70, 71, 72]
+    line [70, 71, 72, 72]
 ```
 
-2026-10-18 70 → 2026-10-28 72（+2）
+2026-10-18 70 → 2026-10-29 72（+2）
 
 
 ---

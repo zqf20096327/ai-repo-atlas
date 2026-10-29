@@ -45,12 +45,12 @@ Python 编写的 Hyperliquid 永续合约自动交易系统：LLM 仅输出结�
 ```mermaid
 xychart-beta
     title "web3spreads/quant-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-28 41（+0）
+2026-10-18 41 → 2026-10-29 41（+0）
 
 
 ---

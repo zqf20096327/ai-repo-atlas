@@ -45,13 +45,13 @@ wtfibought 是一个在线 LLM 交易竞技场 Web 应用：用户自带模型�
 
 ```mermaid
 xychart-beta
-    title "KhulekanisiyandaMchunu/llm-trading-arena 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    title "KhulekanisiyandaMchunu/llm-trading-arena 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 62 --> 66
-    line [63, 65]
+    line [63, 65, 65]
 ```
 
-2026-10-26 63 → 2026-10-28 65（+2）
+2026-10-26 63 → 2026-10-29 65（+2）
 
 
 ---

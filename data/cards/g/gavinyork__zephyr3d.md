@@ -44,13 +44,13 @@ TypeScript 编写的浏览器 3D 渲染引擎，单一代码库支持 WebGL/WebG
 
 ```mermaid
 xychart-beta
-    title "gavinyork/zephyr3d 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "gavinyork/zephyr3d 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 138 --> 141
-    line [139, 140]
+    line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-10-28 140（+1）
+2026-10-18 139 → 2026-10-29 140（+1）
 
 
 ---

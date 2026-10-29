@@ -41,6 +41,18 @@ MIRROR 论文的官方代码与数据仓库，提供面向来访者阻抗的多�
 > L8: **MIRROR** is a synthetic vision–language dataset designed to support **multimodal cognitive reframing** for client 
 > L11: However, we provide the **full image synthesis pipeline**, enabling users to regenerate the edited facial expressio
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nobel-postech/mirror 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-28 20 → 2026-10-29 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `e2e6784d18cf` · [字段定义](../../DATASET.md)*

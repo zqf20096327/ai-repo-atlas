@@ -46,12 +46,12 @@ Imperial College London 脑科学系 2023 春季 Machine Learning for Neuroscien
 ```mermaid
 xychart-beta
     title "PBarnaghi/ML4NS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-28 35（+0）
+2026-10-18 35 → 2026-10-29 35（+0）
 
 
 ---

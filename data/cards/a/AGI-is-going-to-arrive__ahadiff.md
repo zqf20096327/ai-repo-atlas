@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AGI-is-going-to-arrive/ahadiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 234 --> 238
-    line [235, 237]
+    title "AGI-is-going-to-arrive/ahadiff 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 234 --> 239
+    line [235, 237, 238]
 ```
 
-2026-10-18 235 → 2026-10-28 237（+2）
+2026-10-18 235 → 2026-10-29 238（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Darkroom Engineering 团队维护的 Claude Code 与 Codex 配置集合：通过
 ```mermaid
 xychart-beta
     title "darkroomengineering/cc-settings 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-10-28 52（+1）
+2026-10-18 51 → 2026-10-29 52（+1）
 
 
 ---

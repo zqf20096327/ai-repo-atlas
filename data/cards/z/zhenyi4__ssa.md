@@ -45,12 +45,12 @@ ICML 2026 论文 SSA（Sparse Sparse Attention）的官方代码库：一个混�
 ```mermaid
 xychart-beta
     title "zhenyi4/ssa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 32（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Furyton/awesome-language-model-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 102 --> 104
     line [103, 103]
 ```
 
-2026-10-18 103 → 2026-10-28 103（+0）
+2026-10-18 103 → 2026-10-29 103（+0）
 
 
 ---

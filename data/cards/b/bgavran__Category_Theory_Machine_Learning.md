@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "bgavran/Category_Theory_Machine_Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 1550 --> 1552
-    line [1551, 1551]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 1549 --> 1552
+    line [1551, 1550]
 ```
 
-2026-10-18 1,551 → 2026-10-28 1,551（+0）
+2026-10-18 1,551 → 2026-10-29 1,550（-1）
 
 
 ---

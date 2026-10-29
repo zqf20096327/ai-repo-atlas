@@ -45,12 +45,12 @@ Python 编写的 AI agent 框架，围绕长期记忆（Mirror Memory）、递�
 ```mermaid
 xychart-beta
     title "garyqlin/gbase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-28 115（+0）
+2026-10-18 115 → 2026-10-29 115（+0）
 
 
 ---

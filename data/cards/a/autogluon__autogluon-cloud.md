@@ -45,12 +45,12 @@ AutoGluon-Cloud 是 AutoGluon 团队推出的 Python 库，用于在 Amazon Sage
 ```mermaid
 xychart-beta
     title "autogluon/autogluon-cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-28 41（+0）
+2026-10-18 41 → 2026-10-29 41（+0）
 
 
 ---

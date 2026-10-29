@@ -44,13 +44,13 @@ Flutter 编写的 DeepSeek Harness（DSH）Android 客户端，社区开发、�
 
 ```mermaid
 xychart-beta
-    title "ccch1mneyyy/dsh-go 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 42 --> 94
-    line [46, 68, 90]
+    title "ccch1mneyyy/dsh-go 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 40 --> 120
+    line [46, 68, 90, 114]
 ```
 
-2026-10-26 46 → 2026-10-28 90（+44）
+2026-10-26 46 → 2026-10-29 114（+68）
 
 
 ---

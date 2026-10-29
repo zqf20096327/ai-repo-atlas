@@ -45,12 +45,12 @@ Last9 出品的 MCP 服务器，将 Claude、Cursor、Windsurf、VS Code 等 MCP
 ```mermaid
 xychart-beta
     title "last9/last9-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-10-28 63（+1）
+2026-10-18 62 → 2026-10-29 63（+1）
 
 
 ---

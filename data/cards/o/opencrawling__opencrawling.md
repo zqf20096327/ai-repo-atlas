@@ -44,13 +44,13 @@ Open Ingestion Standard (OIS) 的 Java/Spring 参考实现：通过仓库连接�
 
 ```mermaid
 xychart-beta
-    title "opencrawling/opencrawling 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    title "opencrawling/opencrawling 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
     y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25]
+    line [22, 23, 24, 25, 25]
 ```
 
-2026-10-18 22 → 2026-10-28 25（+3）
+2026-10-18 22 → 2026-10-29 25（+3）
 
 
 ---

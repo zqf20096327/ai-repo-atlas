@@ -46,12 +46,12 @@ Toston（原 Cleverbill.ing）的 Python 后端：个人财务管理器，通过
 ```mermaid
 xychart-beta
     title "Toston-App/lake 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-28 22（+0）
+2026-10-18 22 → 2026-10-29 22（+0）
 
 
 ---

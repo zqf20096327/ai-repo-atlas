@@ -45,12 +45,12 @@ MMSP 提供 Python 与 TypeScript SDK，用统一的消息格式（UniMessage）
 ```mermaid
 xychart-beta
     title "Prism-Shadow/model-message-stream-protocol 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
     y-axis "stars" 112 --> 117
     line [113, 115, 116, 116]
 ```
 
-2026-10-18 113 → 2026-10-28 116（+3）
+2026-10-18 113 → 2026-10-29 116（+3）
 
 
 ---

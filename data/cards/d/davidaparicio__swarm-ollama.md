@@ -45,12 +45,12 @@ OpenAI Swarm 的教育性框架封装，将底层调用替换为 Ollama，实现
 ```mermaid
 xychart-beta
     title "davidaparicio/swarm-ollama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 23 --> 26
+    line [25, 24]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 24（-1）
 
 
 ---

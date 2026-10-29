@@ -45,12 +45,12 @@ TypeScript 编写的 OpenCode 插件，通过 Discord Rich Presence 展示当前
 ```mermaid
 xychart-beta
     title "Puri12/opencode-discord-presence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 22（+1）
 
 
 ---

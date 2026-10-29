@@ -44,12 +44,12 @@ ModelPack 维护的 CLI 工具 modctl，将按 Model Spec 打包的 AI 模型转
 ```mermaid
 xychart-beta
     title "modelpack/modctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 82 --> 85
+    line [83, 84]
 ```
 
-2026-10-18 83 → 2026-10-28 83（+0）
+2026-10-18 83 → 2026-10-29 84（+1）
 
 
 ---

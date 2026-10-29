@@ -45,12 +45,12 @@ Pyrallis 是从 simple-parsing 派生、受 Hydra 启发的 Python 配置解析�
 ```mermaid
 xychart-beta
     title "eladrich/pyrallis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 259 --> 261
     line [260, 260]
 ```
 
-2026-10-18 260 → 2026-10-28 260（+0）
+2026-10-18 260 → 2026-10-29 260（+0）
 
 
 ---

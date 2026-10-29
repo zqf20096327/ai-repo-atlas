@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Beledarian/Beledarians_LM_Studio_Toolbox 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    title "Beledarian/Beledarians_LM_Studio_Toolbox 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 125 --> 130
-    line [126, 127, 128, 129]
+    line [126, 127, 128, 129, 129]
 ```
 
-2026-10-18 126 → 2026-10-28 129（+3）
+2026-10-18 126 → 2026-10-29 129（+3）
 
 
 ---

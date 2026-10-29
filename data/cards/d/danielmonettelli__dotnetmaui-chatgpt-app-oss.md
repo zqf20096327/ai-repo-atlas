@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielmonettelli/dotnetmaui-chatgpt-app-oss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "danielmonettelli/dotnetmaui-chatgpt-app-oss 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 109 --> 112
-    line [110, 111]
+    line [110, 111, 110]
 ```
 
-2026-10-18 110 → 2026-10-28 111（+1）
+2026-10-18 110 → 2026-10-29 110（+0）
 
 
 ---

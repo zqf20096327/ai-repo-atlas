@@ -45,12 +45,12 @@ C++ 编写并绑定 Python/Java/MATLAB 的稀疏网格（sparse grids）数值�
 ```mermaid
 xychart-beta
     title "SGpp/SGpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-18 81 → 2026-10-28 81（+0）
+2026-10-18 81 → 2026-10-29 81（+0）
 
 
 ---

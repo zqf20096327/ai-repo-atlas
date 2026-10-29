@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dataPro-lgtm/fde-interview-fieldbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
-    y-axis "stars" 48 --> 54
-    line [49, 51, 52, 53]
+    title "dataPro-lgtm/fde-interview-fieldbook 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 48 --> 55
+    line [49, 51, 52, 53, 54]
 ```
 
-2026-10-18 49 → 2026-10-28 53（+4）
+2026-10-18 49 → 2026-10-29 54（+5）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawranglerai/self-host-n8n-on-gcr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "datawranglerai/self-host-n8n-on-gcr 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 617 --> 621
-    line [618, 619, 620]
+    line [618, 619, 620, 620]
 ```
 
-2026-10-18 618 → 2026-10-28 620（+2）
+2026-10-18 618 → 2026-10-29 620（+2）
 
 
 ---

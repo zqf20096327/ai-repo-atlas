@@ -45,13 +45,13 @@ sttp 生态下的非官方 Scala 客户端封装库，基于 sttp client 描述�
 
 ```mermaid
 xychart-beta
-    title "softwaremill/sttp-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "softwaremill/sttp-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 104 --> 107
-    line [105, 106]
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-28 106（+1）
+2026-10-18 105 → 2026-10-29 106（+1）
 
 
 ---

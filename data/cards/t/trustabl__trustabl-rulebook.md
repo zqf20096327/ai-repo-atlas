@@ -44,13 +44,13 @@ trustabl Agent Reliability Analyzer 的规则说明书仓库：本身不含规�
 
 ```mermaid
 xychart-beta
-    title "trustabl/trustabl-rulebook 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28"]
+    title "trustabl/trustabl-rulebook 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 37 --> 44
-    line [38, 40, 41, 43]
+    line [38, 40, 41, 43, 43]
 ```
 
-2026-10-23 38 → 2026-10-28 43（+5）
+2026-10-23 38 → 2026-10-29 43（+5）
 
 
 ---

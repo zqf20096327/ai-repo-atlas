@@ -45,12 +45,12 @@ Qdrant 官方演示项目，对创业公司目录（startups_demo.json）构建�
 ```mermaid
 xychart-beta
     title "qdrant/qdrant_demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 192 --> 194
-    line [193, 193]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 192 --> 195
+    line [193, 194]
 ```
 
-2026-10-18 193 → 2026-10-28 193（+0）
+2026-10-18 193 → 2026-10-29 194（+1）
 
 
 ---

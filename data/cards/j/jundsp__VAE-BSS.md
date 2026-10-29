@@ -40,6 +40,18 @@
 > L3: A PyTorch model of the variational auto-encoder for unsupervised blind source separation, with training and evaluati
 > L28: **`evaluate.py`** uses models that we pre-trained in an unsupervised way to separate mixed MNIST handwritten digit 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jundsp/VAE-BSS 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-10-28 48 → 2026-10-29 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `7c1475f1e607` · [字段定义](../../DATASET.md)*

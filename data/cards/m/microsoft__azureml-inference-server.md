@@ -43,12 +43,12 @@ azureml-inference-server-http Python 包封装了基于 Flask 或 Sanic 的 HTTP
 ```mermaid
 xychart-beta
     title "microsoft/azureml-inference-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-28 28（+0）
+2026-10-18 28 → 2026-10-29 28（+0）
 
 
 ---

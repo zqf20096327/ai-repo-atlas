@@ -47,12 +47,12 @@ Accenture 维护的开源 Python 库，基于 TensorFlow 2，用于知识图谱�
 ```mermaid
 xychart-beta
     title "Accenture/AmpliGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 2241 --> 2243
     line [2242, 2242]
 ```
 
-2026-10-18 2,242 → 2026-10-28 2,242（+0）
+2026-10-18 2,242 → 2026-10-29 2,242（+0）
 
 
 ---

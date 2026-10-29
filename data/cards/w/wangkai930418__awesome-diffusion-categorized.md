@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangkai930418/awesome-diffusion-categorized 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "wangkai930418/awesome-diffusion-categorized 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 2221 --> 2225
-    line [2224, 2223, 2222]
+    line [2224, 2223, 2222, 2222]
 ```
 
-2026-10-18 2,224 → 2026-10-28 2,222（-2）
+2026-10-18 2,224 → 2026-10-29 2,222（-2）
 
 
 ---

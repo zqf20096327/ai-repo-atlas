@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "metatensor/metatrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "metatensor/metatrain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 81 --> 84
-    line [82, 83]
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-10-28 83（+1）
+2026-10-18 82 → 2026-10-29 83（+1）
 
 
 ---

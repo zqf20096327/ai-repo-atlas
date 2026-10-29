@@ -46,12 +46,12 @@ Chronicle 是 SwiftUI 编写的 macOS 原生桌面应用，直接读取 Claude C
 ```mermaid
 xychart-beta
     title "josephyaduvanshi/claude-history-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
     y-axis "stars" 47 --> 50
     line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-28 49（+1）
+2026-10-18 48 → 2026-10-29 49（+1）
 
 
 ---

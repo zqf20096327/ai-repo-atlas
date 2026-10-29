@@ -46,12 +46,12 @@ Google DeepMind 维护的转换库：通过追踪 tf.function 生成 GraphDef，
 ```mermaid
 xychart-beta
     title "google-deepmind/tf2jax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-18 125 → 2026-10-28 125（+0）
+2026-10-18 125 → 2026-10-29 125（+0）
 
 
 ---

@@ -41,6 +41,18 @@ Awesome 系列清单仓库，收录面向提示工程、上下文工程与 agent
 > L20: - **Camp 1 — Prompt templates**: collect system prompts, share copy-paste recipes, curate persona prompts. Useful, 
 > L21: - **Camp 2 — Prompt as engineering**: compile LM programs (DSPy), test and regress prompts (promptfoo), control gen
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ai-boost/awesome-prompts 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 9139 --> 9144
+    line [9140, 9143]
+```
+
+2026-10-28 9,140 → 2026-10-29 9,143（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `214e18537e19` · [字段定义](../../DATASET.md)*

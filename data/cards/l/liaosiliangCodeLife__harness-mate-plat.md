@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "liaosiliangCodeLife/harness-mate-plat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
+    title "liaosiliangCodeLife/harness-mate-plat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 22 --> 30
-    line [23, 27, 28, 29]
+    line [23, 27, 28, 29, 29]
 ```
 
-2026-10-18 23 → 2026-10-28 29（+6）
+2026-10-18 23 → 2026-10-29 29（+6）
 
 
 ---

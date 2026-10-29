@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohitg00/kubectl-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "rohitg00/kubectl-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 963 --> 966
-    line [964, 965]
+    line [964, 965, 965]
 ```
 
-2026-10-18 964 → 2026-10-28 965（+1）
+2026-10-18 964 → 2026-10-29 965（+1）
 
 
 ---

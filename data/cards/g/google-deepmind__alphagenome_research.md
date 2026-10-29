@@ -44,13 +44,13 @@ Google DeepMind 发布的 AlphaGenome 研究代码：提供用 JAX 编写的模�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphagenome_research 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 904 --> 913
-    line [905, 907, 908, 909, 912]
+    title "google-deepmind/alphagenome_research 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 904 --> 914
+    line [905, 907, 908, 909, 912, 913]
 ```
 
-2026-10-18 905 → 2026-10-28 912（+7）
+2026-10-18 905 → 2026-10-29 913（+8）
 
 
 ---

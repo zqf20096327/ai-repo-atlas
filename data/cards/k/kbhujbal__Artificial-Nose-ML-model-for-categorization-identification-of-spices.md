@@ -45,12 +45,12 @@ IEEE 2023 会议论文的实现仓库：用 8 个 MOS 气体传感器（MQ135、
 ```mermaid
 xychart-beta
     title "kbhujbal/Artificial-Nose-ML-model-for-categorization-identification-of-spices 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-28 23（+0）
+2026-10-18 23 → 2026-10-29 23（+0）
 
 
 ---

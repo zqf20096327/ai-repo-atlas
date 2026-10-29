@@ -45,12 +45,12 @@ TypeScript 编写的本地任务执行引擎：给定工作区的 goal.md 后分
 ```mermaid
 xychart-beta
     title "damiansire/cognitive-substrate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-28 28（+0）
+2026-10-18 28 → 2026-10-29 28（+0）
 
 
 ---

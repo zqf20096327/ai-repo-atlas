@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ykotseruba/attention_and_driving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "ykotseruba/attention_and_driving 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 140 --> 143
-    line [142, 141]
+    line [142, 141, 141]
 ```
 
-2026-10-18 142 → 2026-10-28 141（-1）
+2026-10-18 142 → 2026-10-29 141（-1）
 
 
 ---

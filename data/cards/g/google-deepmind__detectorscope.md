@@ -46,13 +46,13 @@ Google DeepMind 与 Penn NLP 发布的 AI 文本检测库（EMNLP 2026 论文配
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/detectorscope 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 19 --> 30
-    line [20, 29]
+    title "google-deepmind/detectorscope 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 2 --> 222
+    line [20, 29, 204]
 ```
 
-2026-10-26 20 → 2026-10-28 29（+9）
+2026-10-26 20 → 2026-10-29 204（+184）
 
 
 ---

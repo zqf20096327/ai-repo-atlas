@@ -46,12 +46,12 @@ MITRE 威胁知情防御中心（CTID）维护的机器学习引擎：从已观�
 ```mermaid
 xychart-beta
     title "center-for-threat-informed-defense/technique-inference-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-18 74 → 2026-10-28 74（+0）
+2026-10-18 74 → 2026-10-29 74（+0）
 
 
 ---

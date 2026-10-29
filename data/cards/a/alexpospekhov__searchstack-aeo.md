@@ -45,13 +45,13 @@ Python 编写的命令行工具，用于监控网站在 Google、Google AI Overv
 
 ```mermaid
 xychart-beta
-    title "alexpospekhov/searchstack-aeo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    title "alexpospekhov/searchstack-aeo 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 106 --> 112
-    line [107, 108, 110, 111]
+    line [107, 108, 110, 111, 111]
 ```
 
-2026-10-18 107 → 2026-10-28 111（+4）
+2026-10-18 107 → 2026-10-29 111（+4）
 
 
 ---

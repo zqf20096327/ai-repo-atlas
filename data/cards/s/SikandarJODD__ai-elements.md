@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "SikandarJODD/ai-elements 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "SikandarJODD/ai-elements 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 318 --> 323
-    line [322, 319]
+    line [322, 319, 319]
 ```
 
-2026-10-18 322 → 2026-10-28 319（-3）
+2026-10-18 322 → 2026-10-29 319（-3）
 
 
 ---

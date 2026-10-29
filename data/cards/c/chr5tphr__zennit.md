@@ -45,13 +45,13 @@ Python 高层框架，通过在 PyTorch Module 层注册 hook 修改反向传播
 
 ```mermaid
 xychart-beta
-    title "chr5tphr/zennit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "chr5tphr/zennit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 247 --> 250
-    line [248, 249]
+    line [248, 249, 249]
 ```
 
-2026-10-18 248 → 2026-10-28 249（+1）
+2026-10-18 248 → 2026-10-29 249（+1）
 
 
 ---

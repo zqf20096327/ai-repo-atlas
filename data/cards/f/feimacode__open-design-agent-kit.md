@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feimacode/open-design-agent-kit 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 8]
+    title "feimacode/open-design-agent-kit 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 199
+    line [3, 4, 8, 182]
 ```
 
-2026-10-19 3 → 2026-10-28 8（+5）
+2026-10-19 3 → 2026-10-29 182（+179）
 
 
 ---

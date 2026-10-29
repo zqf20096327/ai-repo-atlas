@@ -42,6 +42,18 @@ Go 编写的终端程序，通过 AWS 凭证访问 Amazon Bedrock 上的基础�
 > L71: 2. Start an interactive chat with an LLM using the `chat` command
 > L312: With the `image` command you can generate images with any supported Foundation Model. Simply follow the syntax bel
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "micahwalter/chat-cli 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-10-28 33 → 2026-10-29 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `e8fe6587a66a` · [字段定义](../../DATASET.md)*

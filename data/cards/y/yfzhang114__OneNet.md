@@ -45,12 +45,12 @@ OneNet 论文的 PyTorch 官方实现，同时包含 Detect-then-Adapt（D3A）�
 ```mermaid
 xychart-beta
     title "yfzhang114/OneNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-18 127 → 2026-10-28 127（+0）
+2026-10-18 127 → 2026-10-29 127（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Andrew White 编写的 Deep Learning for Molecules and Materials 在线书籍（
 ```mermaid
 xychart-beta
     title "whitead/dmol-book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 753 --> 755
     line [754, 754]
 ```
 
-2026-10-18 754 → 2026-10-28 754（+0）
+2026-10-18 754 → 2026-10-29 754（+0）
 
 
 ---

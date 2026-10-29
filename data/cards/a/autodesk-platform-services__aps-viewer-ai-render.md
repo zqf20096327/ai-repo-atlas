@@ -44,12 +44,12 @@ Autodesk 平台服务团队的示例项目：用户在 Web 应用中从 ACC hub 
 ```mermaid
 xychart-beta
     title "autodesk-platform-services/aps-viewer-ai-render 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-28 20（+0）
+2026-10-18 20 → 2026-10-29 20（+0）
 
 
 ---

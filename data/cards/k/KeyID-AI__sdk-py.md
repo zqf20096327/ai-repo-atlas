@@ -46,12 +46,12 @@ KeyID.ai 官方 Python SDK：agent 生成 Ed25519 密钥对后调用 provision()
 ```mermaid
 xychart-beta
     title "KeyID-AI/sdk-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 300 --> 302
     line [301, 301]
 ```
 
-2026-10-18 301 → 2026-10-28 301（+0）
+2026-10-18 301 → 2026-10-29 301（+0）
 
 
 ---

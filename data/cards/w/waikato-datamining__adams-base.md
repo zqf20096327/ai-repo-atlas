@@ -45,12 +45,12 @@ Java 编写、Maven 构建的项目，提供 ADAMS（Advanced Data Mining and Ma
 ```mermaid
 xychart-beta
     title "waikato-datamining/adams-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-28 24（+0）
+2026-10-18 24 → 2026-10-29 24（+0）
 
 
 ---

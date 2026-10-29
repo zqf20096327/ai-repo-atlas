@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-18 70 → 2026-10-28 70（+0）
+2026-10-18 70 → 2026-10-29 70（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L74: - **AI features** (tutor chat, story generation, passport report) call any OpenAI-compatible endpoint:
 > L124: > **Status.** The model is trained and benchmarked, but the web app does not run it yet: its AI features call
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "orionsheep/wordlink 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 223 --> 251
+    line [225, 249]
+```
+
+2026-10-28 225 → 2026-10-29 249（+24）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `5557925e6b05` · [字段定义](../../DATASET.md)*

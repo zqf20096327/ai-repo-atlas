@@ -46,12 +46,12 @@ TypeScript 编写的 WhatsApp MCP 服务器，作为 AI agent 与 WhatsApp 之�
 ```mermaid
 xychart-beta
     title "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-26 58 → 2026-10-28 58（+0）
+2026-10-26 58 → 2026-10-29 58（+0）
 
 
 ---

@@ -45,12 +45,12 @@ MachinePal 是一个部署在 API、网站或 AI 代理前方的代理网关：�
 ```mermaid
 xychart-beta
     title "skalenetwork/machinepal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 32（+0）
 
 
 ---

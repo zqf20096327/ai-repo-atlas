@@ -45,13 +45,13 @@ AgentClaw 是一个指挥官级别的个人 AI 助理，同时提供 Hive 模式
 
 ```mermaid
 xychart-beta
-    title "vorojar/AgentClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "vorojar/AgentClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-28 35（+1）
+2026-10-18 34 → 2026-10-29 35（+1）
 
 
 ---

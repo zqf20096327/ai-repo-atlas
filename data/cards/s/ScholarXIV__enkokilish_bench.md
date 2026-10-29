@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScholarXIV/enkokilish_bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "ScholarXIV/enkokilish_bench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 25 --> 28
-    line [27, 26, 27]
+    line [27, 26, 27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

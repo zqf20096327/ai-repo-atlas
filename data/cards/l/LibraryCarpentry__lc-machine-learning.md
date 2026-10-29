@@ -44,12 +44,12 @@ Library Carpentry 孵化的教学课程，面向美术馆、图书馆、档案�
 ```mermaid
 xychart-beta
     title "LibraryCarpentry/lc-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

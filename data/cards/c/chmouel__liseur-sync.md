@@ -45,13 +45,13 @@ Go 编写的单体二进制服务器，为 Liseur 提供配套服务，并为 KO
 
 ```mermaid
 xychart-beta
-    title "chmouel/liseur-sync 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "chmouel/liseur-sync 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 17 --> 20
-    line [18, 19]
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-28 19（+1）
+2026-10-18 18 → 2026-10-29 19（+1）
 
 
 ---

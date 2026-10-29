@@ -44,12 +44,12 @@ Chrome 扩展加多服务后端的两层结构：前端用 React/TypeScript 构�
 ```mermaid
 xychart-beta
     title "AOSSIE-Org/Social-Street-Smart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-28 54（+0）
+2026-10-18 54 → 2026-10-29 54（+0）
 
 
 ---

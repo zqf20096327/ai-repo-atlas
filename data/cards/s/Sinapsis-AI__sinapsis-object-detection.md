@@ -44,12 +44,12 @@ Sinapsis 体系下的目标检测 mono repo，包含三个包：sinapsis-dfine�
 ```mermaid
 xychart-beta
     title "Sinapsis-AI/sinapsis-object-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-28 20（+0）
+2026-10-18 20 → 2026-10-29 20（+0）
 
 
 ---

@@ -40,6 +40,18 @@ Python CLI 工具，通过 OpenAI 嵌入将本地浏览器书签向量化存入�
 > L5: > LLM-powered bookmark search engine
 > L11: *In the example above, we search for the term “Japan.” While some results don’t explicitly mention the word, terms 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kiran94/bookworm 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-10-28 31 → 2026-10-29 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `7fab34f2b43b` · [字段定义](../../DATASET.md)*

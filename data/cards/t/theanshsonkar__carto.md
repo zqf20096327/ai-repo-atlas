@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theanshsonkar/carto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "theanshsonkar/carto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 79 --> 82
-    line [81, 80]
+    line [81, 80, 80]
 ```
 
-2026-10-18 81 → 2026-10-28 80（-1）
+2026-10-18 81 → 2026-10-29 80（-1）
 
 
 ---

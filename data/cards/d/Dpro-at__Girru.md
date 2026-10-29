@@ -42,6 +42,18 @@
 > L27: - 👥 **Agent Employees** - Roles, personalities, long-term memory and their own permissions
 > L64: 1. **You ask** in the app, from your phone, or from a channel you already use.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dpro-at/Girru 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 75 --> 81
+    line [76, 80]
+```
+
+2026-10-28 76 → 2026-10-29 80（+4）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `a1931f1d6c24` · [字段定义](../../DATASET.md)*

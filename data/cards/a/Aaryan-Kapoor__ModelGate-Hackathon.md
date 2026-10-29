@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aaryan-Kapoor/ModelGate-Hackathon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-28 53（+0）
+2026-10-18 53 → 2026-10-29 54（+1）
 
 
 ---

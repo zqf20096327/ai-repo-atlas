@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DilawarShafiq/nietzschian-debugger 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 0 --> 447
-    line [34, 410]
+    title "DilawarShafiq/nietzschian-debugger 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 535
+    line [34, 410, 490]
 ```
 
-2026-10-26 34 → 2026-10-28 410（+376）
+2026-10-26 34 → 2026-10-29 490（+456）
 
 
 ---

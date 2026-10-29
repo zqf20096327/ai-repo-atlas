@@ -46,12 +46,12 @@ GoogleCloudPlatform 发布的演示项目（非官方支持产品），以虚构
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/cymbal-air-toolbox-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 349 --> 351
     line [350, 350]
 ```
 
-2026-10-18 350 → 2026-10-28 350（+0）
+2026-10-18 350 → 2026-10-29 350（+0）
 
 
 ---

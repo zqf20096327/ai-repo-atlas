@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Neuromorphicism/fly-brain-snntorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 30 --> 33
-    line [31, 32]
+    title "Neuromorphicism/fly-brain-snntorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-10-28 32（+1）
+2026-10-18 31 → 2026-10-29 33（+2）
 
 
 ---

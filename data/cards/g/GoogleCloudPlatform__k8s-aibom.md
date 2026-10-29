@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/k8s-aibom 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 56 --> 61
-    line [57, 60]
+    title "GoogleCloudPlatform/k8s-aibom 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    y-axis "stars" 56 --> 62
+    line [57, 60, 61]
 ```
 
-2026-10-18 57 → 2026-10-27 60（+3）
+2026-10-18 57 → 2026-10-29 61（+4）
 
 
 ---

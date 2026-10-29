@@ -45,12 +45,12 @@ Network Optix 开源的 Meta Platform 组件仓库，包含用于构建 Powered-
 ```mermaid
 xychart-beta
     title "networkoptix/nx_open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-28 83（+0）
+2026-10-18 83 → 2026-10-29 83（+0）
 
 
 ---

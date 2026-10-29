@@ -41,6 +41,18 @@
 > L5: The app is a small Next.js front end over a ComfyUI workflow. It uses `@comfyorg/sdk`, following Comfy's comfy-resho
 > L31: - An NVIDIA GPU. Tested on an RTX 4060 Ti 16 GB with 64 GB of system RAM; the H3 int8 models stream from RAM.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "D3voz/openjutsu 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 20 --> 125
+    line [28, 117]
+```
+
+2026-10-28 28 → 2026-10-29 117（+89）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `736a69e8e9d6` · [字段定义](../../DATASET.md)*

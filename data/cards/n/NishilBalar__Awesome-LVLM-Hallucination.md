@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NishilBalar/Awesome-LVLM-Hallucination 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    title "NishilBalar/Awesome-LVLM-Hallucination 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 332 --> 336
-    line [334, 333, 334, 335]
+    line [334, 333, 334, 335, 335]
 ```
 
-2026-10-18 334 → 2026-10-28 335（+1）
+2026-10-18 334 → 2026-10-29 335（+1）
 
 
 ---

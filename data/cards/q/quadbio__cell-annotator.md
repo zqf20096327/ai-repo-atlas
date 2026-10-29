@@ -46,12 +46,12 @@ scverse 生态的 Python 包：读取 scRNA-seq 数据（AnnData），基于聚�
 ```mermaid
 xychart-beta
     title "quadbio/cell-annotator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

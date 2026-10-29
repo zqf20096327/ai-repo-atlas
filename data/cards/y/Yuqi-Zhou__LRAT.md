@@ -46,12 +46,12 @@ SIGIR 2026 论文 Learning to Retrieve from Agent Trajectories 的实现：提�
 ```mermaid
 xychart-beta
     title "Yuqi-Zhou/LRAT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-28 64（+0）
+2026-10-18 64 → 2026-10-29 64（+0）
 
 
 ---

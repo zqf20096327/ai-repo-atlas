@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "erikholmberg/ai-pm-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "erikholmberg/ai-pm-toolkit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 33 --> 36
-    line [35, 34]
+    line [35, 34, 34]
 ```
 
-2026-10-18 35 → 2026-10-28 34（-1）
+2026-10-18 35 → 2026-10-29 34（-1）
 
 
 ---

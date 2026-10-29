@@ -46,12 +46,12 @@ WorkBuddy Skill 形态的麦当劳拼单助手：由 Agent 读取 SKILL.md 指�
 ```mermaid
 xychart-beta
     title "cwmd2026/mcd-meal-butler 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-26 55 → 2026-10-28 55（+0）
+2026-10-26 55 → 2026-10-29 55（+0）
 
 
 ---

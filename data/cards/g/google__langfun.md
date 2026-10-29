@@ -45,12 +45,12 @@ Langfun 是基于 PyGlove 的 Python 库，通过 Object-Oriented Prompting 让�
 ```mermaid
 xychart-beta
     title "google/langfun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
     y-axis "stars" 915 --> 919
     line [916, 918, 918]
 ```
 
-2026-10-18 916 → 2026-10-28 918（+2）
+2026-10-18 916 → 2026-10-29 918（+2）
 
 
 ---

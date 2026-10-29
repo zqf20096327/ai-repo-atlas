@@ -45,12 +45,12 @@ Karpathy microgpt 的 TypeScript 移植：~500 行零运行时依赖实现完整
 ```mermaid
 xychart-beta
     title "dubzdubz/microgpt-ts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-28 42（+0）
+2026-10-18 42 → 2026-10-29 42（+0）
 
 
 ---

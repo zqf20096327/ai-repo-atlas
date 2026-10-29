@@ -44,13 +44,13 @@ MoonshotAI 开源的音频大语言模型评测框架（ALMEvalKit），支持 B
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/Kimi-Audio-Evalkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "MoonshotAI/Kimi-Audio-Evalkit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 169 --> 173
-    line [170, 171, 172]
+    line [170, 171, 172, 172]
 ```
 
-2026-10-18 170 → 2026-10-28 172（+2）
+2026-10-18 170 → 2026-10-29 172（+2）
 
 
 ---

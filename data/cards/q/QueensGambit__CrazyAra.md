@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QueensGambit/CrazyAra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "QueensGambit/CrazyAra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 294 --> 297
-    line [296, 295]
+    line [296, 295, 295]
 ```
 
-2026-10-18 296 → 2026-10-28 295（-1）
+2026-10-18 296 → 2026-10-29 295（-1）
 
 
 ---

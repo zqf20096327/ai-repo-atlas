@@ -45,13 +45,13 @@ macOS 原生应用，会议中同时采集麦克风（whisper.cpp、Metal 加速
 
 ```mermaid
 xychart-beta
-    title "thehwang/Scripta 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "thehwang/Scripta 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 17 --> 20
-    line [18, 19]
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-28 19（+1）
+2026-10-18 18 → 2026-10-29 19（+1）
 
 
 ---

@@ -45,12 +45,12 @@ NAACL'24 论文 TopicGPT 的官方代码库，以 pip 包 topicgpt_python 提供
 ```mermaid
 xychart-beta
     title "chtmp223/topicGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 418 --> 420
     line [419, 419]
 ```
 
-2026-10-18 419 → 2026-10-28 419（+0）
+2026-10-18 419 → 2026-10-29 419（+0）
 
 
 ---

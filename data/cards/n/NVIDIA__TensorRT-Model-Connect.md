@@ -44,13 +44,13 @@ NVIDIA 维护的 TensorRT 之上的 AI 模型参考实现集合：从 Hugging Fa
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT-Model-Connect 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
-    y-axis "stars" 275 --> 283
-    line [276, 280, 282]
+    title "NVIDIA/TensorRT-Model-Connect 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 275 --> 284
+    line [276, 280, 282, 283]
 ```
 
-2026-10-18 276 → 2026-10-28 282（+6）
+2026-10-18 276 → 2026-10-29 283（+7）
 
 
 ---

@@ -45,12 +45,12 @@ JustCall 官方的 MCP Server：以函数调用接口向 LLM 与 AI agent 开放
 ```mermaid
 xychart-beta
     title "saaslabsco/justcall-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

@@ -44,13 +44,13 @@ GigaTIME 官方实现（Cell 论文），基于 GigaPath 全切片基础模型�
 
 ```mermaid
 xychart-beta
-    title "prov-gigatime/GigaTIME 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "prov-gigatime/GigaTIME 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 412 --> 415
-    line [413, 414]
+    line [413, 414, 414]
 ```
 
-2026-10-18 413 → 2026-10-28 414（+1）
+2026-10-18 413 → 2026-10-29 414（+1）
 
 
 ---

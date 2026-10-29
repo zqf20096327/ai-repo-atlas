@@ -44,13 +44,13 @@ Berkeleybop 维护的人工智能本体（AIO）：以 OWL 形式对深度学习
 
 ```mermaid
 xychart-beta
-    title "berkeleybop/artificial-intelligence-ontology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "berkeleybop/artificial-intelligence-ontology 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-10-28 64（+1）
+2026-10-18 63 → 2026-10-29 64（+1）
 
 
 ---

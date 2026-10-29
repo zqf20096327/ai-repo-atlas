@@ -45,12 +45,12 @@ NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO
 ```mermaid
 xychart-beta
     title "YuvrajSingh-mist/NeatRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 230 --> 233
-    line [231, 232, 232]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    y-axis "stars" 230 --> 234
+    line [231, 232, 233]
 ```
 
-2026-10-18 231 → 2026-10-28 232（+1）
+2026-10-18 231 → 2026-10-29 233（+2）
 
 
 ---

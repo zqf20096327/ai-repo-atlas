@@ -41,6 +41,18 @@
 > L57: |🤖 **AI drafts, you decide**|Agents write the specs, tech plans, and test cases. Humans review, edit, and approve a
 > L146: ## The Twelve Agents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mickyarun/glideship 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-10-28 28 → 2026-10-29 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `0377309ce883` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Definable 是一个构建 LLM agent 应用的 Python 框架，面向开发者，
 ```mermaid
 xychart-beta
     title "definableai/definable.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 28（+1）
 
 
 ---

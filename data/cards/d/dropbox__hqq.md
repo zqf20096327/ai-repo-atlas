@@ -46,12 +46,12 @@ Dropbox 官方维护的 Half-Quadratic Quantization（HQQ/HQQ+）实现：一种
 ```mermaid
 xychart-beta
     title "dropbox/hqq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 959 --> 961
     line [960, 960]
 ```
 
-2026-10-18 960 → 2026-10-28 960（+0）
+2026-10-18 960 → 2026-10-29 960（+0）
 
 
 ---

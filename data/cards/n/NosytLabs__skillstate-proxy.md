@@ -40,6 +40,18 @@
 > L9: The proxy sits between a client and a configured model provider. It builds context from the task specification, the 
 > L31: The default listener is `127.0.0.1:8789`. A compatible chat client uses `http://127.0.0.1:8789/v1` as its API base 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NosytLabs/skillstate-proxy 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-10-28 30 → 2026-10-29 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `42f0fb88d311` · [字段定义](../../DATASET.md)*

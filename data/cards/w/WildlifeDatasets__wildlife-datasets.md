@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WildlifeDatasets/wildlife-datasets 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "WildlifeDatasets/wildlife-datasets 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 210 --> 215
-    line [211, 212, 214]
+    line [211, 212, 214, 214]
 ```
 
-2026-10-18 211 → 2026-10-28 214（+3）
+2026-10-18 211 → 2026-10-29 214（+3）
 
 
 ---

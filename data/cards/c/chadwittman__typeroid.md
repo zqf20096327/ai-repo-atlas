@@ -47,12 +47,12 @@ Swift/AppKit 菜单栏应用：按住 fn 键本地 Whisper 听写并粘贴到光
 ```mermaid
 xychart-beta
     title "chadwittman/typeroid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

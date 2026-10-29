@@ -45,12 +45,12 @@ TileDB Vector Search 是构建在 TileDB 存储引擎之上的向量搜索 C++ �
 ```mermaid
 xychart-beta
     title "TileDB-Inc/TileDB-Vector-Search 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-27 69（+0）
+2026-10-18 69 → 2026-10-29 69（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2- 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28"]
+    title "andrew-shwetzer/career-ops-plugin-do-not-fork-currently-updating-v2- 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 502 --> 508
-    line [503, 504, 505, 506, 507]
+    line [503, 504, 505, 506, 507, 507]
 ```
 
-2026-10-18 503 → 2026-10-28 507（+4）
+2026-10-18 503 → 2026-10-29 507（+4）
 
 
 ---

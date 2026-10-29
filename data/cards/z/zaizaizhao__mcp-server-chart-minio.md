@@ -46,12 +46,12 @@ mcp-server-chart 的私有化部署方案：基于 NestJS 的图表生成服务�
 ```mermaid
 xychart-beta
     title "zaizaizhao/mcp-server-chart-minio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-28 52（+0）
+2026-10-18 52 → 2026-10-29 52（+0）
 
 
 ---

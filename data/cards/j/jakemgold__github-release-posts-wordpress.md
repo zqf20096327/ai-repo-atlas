@@ -46,12 +46,12 @@ WordPress 插件：通过 WP-Cron 每日检查所监控的 GitHub 仓库新发�
 ```mermaid
 xychart-beta
     title "jakemgold/github-release-posts-wordpress 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

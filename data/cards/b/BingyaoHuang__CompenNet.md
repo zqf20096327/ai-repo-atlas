@@ -45,12 +45,12 @@ CVPR'19 口头报告论文 End-to-end Projector Photometric Compensation 的 PyT
 ```mermaid
 xychart-beta
     title "BingyaoHuang/CompenNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-28 40（+0）
+2026-10-18 40 → 2026-10-29 40（+0）
 
 
 ---

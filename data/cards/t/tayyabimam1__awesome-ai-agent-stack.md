@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tayyabimam1/awesome-ai-agent-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "tayyabimam1/awesome-ai-agent-stack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 29 --> 32
-    line [31, 30]
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-10-28 30（-1）
+2026-10-18 31 → 2026-10-29 30（-1）
 
 
 ---

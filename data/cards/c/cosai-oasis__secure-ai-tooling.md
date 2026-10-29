@@ -45,13 +45,13 @@ CoSAI（OASIS 开放项目）维护的 AI 安全框架仓库，核心为 CoSAI R
 
 ```mermaid
 xychart-beta
-    title "cosai-oasis/secure-ai-tooling 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "cosai-oasis/secure-ai-tooling 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 99 --> 103
-    line [100, 101, 102]
+    line [100, 101, 102, 102]
 ```
 
-2026-10-18 100 → 2026-10-28 102（+2）
+2026-10-18 100 → 2026-10-29 102（+2）
 
 
 ---

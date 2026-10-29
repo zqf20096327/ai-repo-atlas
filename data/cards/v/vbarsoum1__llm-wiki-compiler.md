@@ -46,12 +46,12 @@ Klore 把 PDF、网页、Markdown 等来源编译成结构化的 Obsidian 兼容
 ```mermaid
 xychart-beta
     title "vbarsoum1/llm-wiki-compiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

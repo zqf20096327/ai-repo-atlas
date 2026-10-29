@@ -44,13 +44,13 @@ TensorFlow 官方的移动端 ML 部署工具包，含四部分：跨平台部�
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tflite-support 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "tensorflow/tflite-support 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 440 --> 443
-    line [442, 441]
+    line [442, 441, 441]
 ```
 
-2026-10-18 442 → 2026-10-28 441（-1）
+2026-10-18 442 → 2026-10-29 441（-1）
 
 
 ---

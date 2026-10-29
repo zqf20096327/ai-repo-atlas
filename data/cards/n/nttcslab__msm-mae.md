@@ -46,12 +46,12 @@ NTT CS Lab 发布的 Masked Spectrogram Modeling using Masked Autoencoders（MSM
 ```mermaid
 xychart-beta
     title "nttcslab/msm-mae 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 98 --> 100
     line [99, 99]
 ```
 
-2026-10-18 99 → 2026-10-28 99（+0）
+2026-10-18 99 → 2026-10-29 99（+0）
 
 
 ---

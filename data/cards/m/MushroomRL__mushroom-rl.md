@@ -45,13 +45,13 @@ Python 强化学习库，以模块化设计支持接入 PyTorch/TensorFlow 张�
 
 ```mermaid
 xychart-beta
-    title "MushroomRL/mushroom-rl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "MushroomRL/mushroom-rl 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 943 --> 946
-    line [945, 944, 945]
+    line [945, 944, 945, 944]
 ```
 
-2026-10-18 945 → 2026-10-28 945（+0）
+2026-10-18 945 → 2026-10-29 944（-1）
 
 
 ---

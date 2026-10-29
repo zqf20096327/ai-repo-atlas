@@ -44,12 +44,12 @@ Python tkinter 桌面 GUI 工具，通过 ADB 连接已 Root 的 BlueStacks 5 �
 ```mermaid
 xychart-beta
     title "ArturPen/angry-birds-transformers-farmer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-18 21 → 2026-10-28 23（+2）
+2026-10-18 21 → 2026-10-29 23（+2）
 
 
 ---

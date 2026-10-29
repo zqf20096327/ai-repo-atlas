@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pkhamre/opencode-container 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 53 --> 57
-    line [54, 56]
+    title "pkhamre/opencode-container 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 53 --> 58
+    line [54, 56, 57]
 ```
 
-2026-10-18 54 → 2026-10-28 56（+2）
+2026-10-18 54 → 2026-10-29 57（+3）
 
 
 ---

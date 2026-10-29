@@ -46,12 +46,12 @@ CMU-SAFARI 发布的 MICRO 2022 论文（Bera 等）配套研究工件：Hermes 
 ```mermaid
 xychart-beta
     title "CMU-SAFARI/Hermes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-28 77（+0）
+2026-10-18 77 → 2026-10-29 77（+0）
 
 
 ---

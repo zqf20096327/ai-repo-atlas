@@ -45,12 +45,12 @@ HELIOS Base 是面向 RoboCup Soccer 2D Simulator（兼容 rcssserver-16）的�
 ```mermaid
 xychart-beta
     title "helios-base/helios-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-28 48（+0）
+2026-10-18 48 → 2026-10-29 48（+0）
 
 
 ---

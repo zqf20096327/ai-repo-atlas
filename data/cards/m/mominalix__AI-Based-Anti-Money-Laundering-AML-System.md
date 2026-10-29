@@ -46,12 +46,12 @@ Apache-2.0 的 AML 工程参考平台：将客户、账户与交易记录转换�
 ```mermaid
 xychart-beta
     title "mominalix/AI-Based-Anti-Money-Laundering-AML-System 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-28 19（+1）
+2026-10-18 18 → 2026-10-29 19（+1）
 
 
 ---

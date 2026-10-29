@@ -45,12 +45,12 @@ README 描述了一个名为 NeuroForge Canvas 的可视化深度学习训练环
 ```mermaid
 xychart-beta
     title "alrisqi/MrD-Optimizer-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-28 55（+0）
+2026-10-18 55 → 2026-10-29 55（+0）
 
 
 ---

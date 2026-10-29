@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kcy4334-lgtm/translate-book-arxiv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
-    y-axis "stars" 14 --> 34
-    line [15, 16, 33]
+    title "kcy4334-lgtm/translate-book-arxiv 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 13 --> 39
+    line [15, 16, 33, 37]
 ```
 
-2026-10-18 15 → 2026-10-28 33（+18）
+2026-10-18 15 → 2026-10-29 37（+22）
 
 
 ---

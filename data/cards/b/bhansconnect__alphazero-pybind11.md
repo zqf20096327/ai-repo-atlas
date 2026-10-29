@@ -45,12 +45,12 @@ AlphaZero 的修改版实现：游戏主循环与 MCTS 搜索用 C++（pybind11 
 ```mermaid
 xychart-beta
     title "bhansconnect/alphazero-pybind11 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

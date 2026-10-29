@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jamesmcroft/obsidian-ai-second-brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 50 --> 55
-    line [51, 52, 53, 54]
+    title "jamesmcroft/obsidian-ai-second-brain 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 50 --> 56
+    line [51, 52, 53, 54, 55]
 ```
 
-2026-10-18 51 → 2026-10-28 54（+3）
+2026-10-18 51 → 2026-10-29 55（+4）
 
 
 ---

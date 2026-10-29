@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nameforjt-afk/session-knowledge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "nameforjt-afk/session-knowledge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 304 --> 307
-    line [305, 306]
+    line [305, 306, 306]
 ```
 
-2026-10-18 305 → 2026-10-28 306（+1）
+2026-10-18 305 → 2026-10-29 306（+1）
 
 
 ---

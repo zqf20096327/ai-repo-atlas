@@ -44,13 +44,13 @@ openclaw-code-agent（OCA）是 OpenClaw 的有状态编码 agent 插件：将 C
 
 ```mermaid
 xychart-beta
-    title "goldmar/openclaw-code-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    title "goldmar/openclaw-code-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 44 --> 50
-    line [45, 46, 47, 49]
+    line [45, 46, 47, 49, 49]
 ```
 
-2026-10-18 45 → 2026-10-28 49（+4）
+2026-10-18 45 → 2026-10-29 49（+4）
 
 
 ---

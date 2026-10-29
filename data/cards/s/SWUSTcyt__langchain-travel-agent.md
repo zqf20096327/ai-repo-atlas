@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SWUSTcyt/langchain-travel-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-23", "2026-10-29"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-23 39 → 2026-10-28 39（+0）
+2026-10-23 39 → 2026-10-29 39（+0）
 
 
 ---

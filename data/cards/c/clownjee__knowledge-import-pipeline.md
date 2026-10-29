@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "clownjee/knowledge-import-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "clownjee/knowledge-import-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 17 --> 20
-    line [18, 19]
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-28 19（+1）
+2026-10-18 18 → 2026-10-29 19（+1）
 
 
 ---

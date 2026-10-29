@@ -45,12 +45,12 @@ Manifest V3 的 Chrome 扩展：用 MutationObserver 监听 ChatGPT 对话中的
 ```mermaid
 xychart-beta
     title "ykyritsis/ChatGPT-code-preview 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-19", "2026-10-29"]
     y-axis "stars" 116 --> 118
     line [117, 117]
 ```
 
-2026-10-19 117 → 2026-10-28 117（+0）
+2026-10-19 117 → 2026-10-29 117（+0）
 
 
 ---

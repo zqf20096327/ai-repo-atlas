@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cubrid-lab/cubrid-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 33（+1）
 
 
 ---

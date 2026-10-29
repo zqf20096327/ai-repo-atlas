@@ -44,13 +44,13 @@ ringback 提供两个 MCP 服务器：ringback-voice 让 LLM 通过免费 Linpho
 
 ```mermaid
 xychart-beta
-    title "mohitbadwal/ringback 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    title "mohitbadwal/ringback 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 24 --> 28
-    line [25, 26, 27]
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-10-28 27（+2）
+2026-10-18 25 → 2026-10-29 27（+2）
 
 
 ---

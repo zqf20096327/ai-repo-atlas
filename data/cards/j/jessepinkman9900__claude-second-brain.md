@@ -45,12 +45,12 @@ npm 脚手架 CLI：npx claude-second-brain 生成一个可直接在 Obsidian �
 ```mermaid
 xychart-beta
     title "jessepinkman9900/claude-second-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-28 46（+0）
+2026-10-18 46 → 2026-10-29 46（+0）
 
 
 ---

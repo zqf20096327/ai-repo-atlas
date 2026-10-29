@@ -44,13 +44,13 @@ Callstack 维护的 npm CLI：递归扫描项目下所有 package.json，将发�
 
 ```mermaid
 xychart-beta
-    title "callstackincubator/pkg-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "callstackincubator/pkg-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 21]
+    line [21, 20, 21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

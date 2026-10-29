@@ -45,13 +45,13 @@ BloomBee 将模型的 transformer 层拆分到 P2P 网络中的多个 peer 节�
 
 ```mermaid
 xychart-beta
-    title "ai-decentralized/BloomBee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "ai-decentralized/BloomBee 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 132 --> 136
-    line [133, 134, 135]
+    line [133, 134, 135, 135]
 ```
 
-2026-10-18 133 → 2026-10-28 135（+2）
+2026-10-18 133 → 2026-10-29 135（+2）
 
 
 ---

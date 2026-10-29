@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "togethercomputer/open-data-scientist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 189 --> 191
     line [190, 190]
 ```
 
-2026-10-18 190 → 2026-10-28 190（+0）
+2026-10-18 190 → 2026-10-29 190（+0）
 
 
 ---

@@ -46,12 +46,12 @@ ORBIT（Open Retrieval-Based Inference Toolkit）是自托管的 AI 网关与控
 ```mermaid
 xychart-beta
     title "schmitech/orbit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
-    y-axis "stars" 354 --> 357
-    line [355, 356, 356]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    y-axis "stars" 354 --> 358
+    line [355, 356, 357]
 ```
 
-2026-10-18 355 → 2026-10-28 356（+1）
+2026-10-18 355 → 2026-10-29 357（+2）
 
 
 ---

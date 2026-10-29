@@ -40,6 +40,18 @@
 > L5: Community-maintained Markdown versions of r/hermesagent megathreads.
 > L13: - How to Set Up Hermes Agent from Scratch — July 2026
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/hermes-megathreads 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 58 --> 62
+    line [59, 61]
+```
+
+2026-10-28 59 → 2026-10-29 61（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `0d13eef3a72d` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ Minecraft 1.20.1 Forge / 1.21.1 NeoForge 模组，为《车万女仆》TLM 增�
 
 ```mermaid
 xychart-beta
-    title "fadersketch/Promaid-mod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "fadersketch/Promaid-mod 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-28 31（+1）
+2026-10-18 30 → 2026-10-29 31（+1）
 
 
 ---

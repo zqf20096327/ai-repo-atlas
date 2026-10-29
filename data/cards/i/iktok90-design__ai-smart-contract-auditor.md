@@ -45,13 +45,13 @@ AuditSentry 是运行于 Claude Code 的安全审计工具，通过 13 个 MCP �
 
 ```mermaid
 xychart-beta
-    title "iktok90-design/ai-smart-contract-auditor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "iktok90-design/ai-smart-contract-auditor 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 37]
+    line [37, 36, 37, 37]
 ```
 
-2026-10-18 37 → 2026-10-28 37（+0）
+2026-10-18 37 → 2026-10-29 37（+0）
 
 
 ---

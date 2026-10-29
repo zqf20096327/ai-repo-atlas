@@ -41,6 +41,18 @@
 > L13: - **截图模式**（核心）：按下快捷键截取屏幕，视觉模型实时理解屏幕上的内容，流式给出解答；可以追加截图、追问，保持上下文连续
 > L60: 首次打开会提示填写 `API Base URL` 和 `API Key`。任何兼容 OpenAI API 的平台都可以，如国内的 硅基流动、DeepSeek，国外的 OpenRouter，或 OpenAI 官方（只填 `API K
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ooboqoo/shiping 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 1110 --> 1115
+    line [1111, 1114]
+```
+
+2026-10-28 1,111 → 2026-10-29 1,114（+3）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `e96ca121d1fa` · [字段定义](../../DATASET.md)*

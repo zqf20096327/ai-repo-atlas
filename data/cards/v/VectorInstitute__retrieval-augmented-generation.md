@@ -45,12 +45,12 @@ Vector Institute RAG Bootcamp（2024.11–2025.01）的参考实现合集，以 
 ```mermaid
 xychart-beta
     title "VectorInstitute/retrieval-augmented-generation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-28 38（+0）
+2026-10-18 38 → 2026-10-29 38（+0）
 
 
 ---

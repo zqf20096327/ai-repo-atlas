@@ -44,13 +44,13 @@ Yuukiy/JavSP 的派生分支：汇总 19 个刮削源的数据自动识别番号
 
 ```mermaid
 xychart-beta
-    title "luckwalter/JavSP-fork 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    title "luckwalter/JavSP-fork 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 21 --> 24
-    line [22, 23]
+    line [22, 23, 23]
 ```
 
-2026-10-26 22 → 2026-10-28 23（+1）
+2026-10-26 22 → 2026-10-29 23（+1）
 
 
 ---

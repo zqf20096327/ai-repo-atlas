@@ -45,12 +45,12 @@ Datadog 开源的 AI SAST 命令行工具：通过 Claude、GPT、Gemini 等 LLM
 ```mermaid
 xychart-beta
     title "DataDog/datadog-saist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
     y-axis "stars" 108 --> 111
     line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-10-28 110（+1）
+2026-10-18 109 → 2026-10-29 110（+1）
 
 
 ---

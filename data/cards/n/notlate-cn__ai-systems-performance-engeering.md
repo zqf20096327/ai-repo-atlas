@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "notlate-cn/ai-systems-performance-engeering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    title "notlate-cn/ai-systems-performance-engeering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 96 --> 106
-    line [97, 98, 103, 105]
+    line [97, 98, 103, 105, 105]
 ```
 
-2026-10-18 97 → 2026-10-28 105（+8）
+2026-10-18 97 → 2026-10-29 105（+8）
 
 
 ---

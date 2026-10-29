@@ -45,12 +45,12 @@ macOS 原生 SwiftUI 应用，将多个 Claude Code 会话状态以 Dynamic Isla
 ```mermaid
 xychart-beta
     title "eyadhammouda/pookify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
     y-axis "stars" 39 --> 42
     line [41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-10-28 40（-1）
+2026-10-18 41 → 2026-10-29 40（-1）
 
 
 ---

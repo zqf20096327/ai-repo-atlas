@@ -41,6 +41,18 @@
 > L7: > 依据优先：官方文档 docs.x.ai/grok-bot；资格与价格以 x.ai/bot / App 内账单为准
 > L14: **Grok Bot ≠ grok.com 聊天，也 ≠ Grok Build。**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xianyu110/grokbot 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
+```
+
+2026-10-28 43 → 2026-10-29 43（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `a4d3f1173d13` · [字段定义](../../DATASET.md)*

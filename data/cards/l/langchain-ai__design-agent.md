@@ -45,13 +45,13 @@ LangChain 开源的设计代理（Content Studio），基于 Deep Agents 构建�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/design-agent 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 0 --> 45
-    line [3, 6, 42]
+    title "langchain-ai/design-agent 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 292
+    line [3, 6, 42, 266]
 ```
 
-2026-10-26 3 → 2026-10-28 42（+39）
+2026-10-26 3 → 2026-10-29 266（+263）
 
 
 ---

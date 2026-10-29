@@ -45,12 +45,12 @@ LangChain 官方仓库，以可复用 Terraform 模块打包 LangSmith Self-Host
 ```mermaid
 xychart-beta
     title "langchain-ai/terraform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-28 21（+1）
+2026-10-18 20 → 2026-10-29 22（+2）
 
 
 ---

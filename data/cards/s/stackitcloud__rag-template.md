@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stackitcloud/rag-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 85 --> 88
+    line [87, 86]
 ```
 
-2026-10-18 87 → 2026-10-28 87（+0）
+2026-10-18 87 → 2026-10-29 86（-1）
 
 
 ---

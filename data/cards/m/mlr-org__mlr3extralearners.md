@@ -45,12 +45,12 @@ mlr3extralearners 收录 mlr3 生态中未被 mlr3learners 及核心包包含的
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3extralearners 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-28 115（+0）
+2026-10-18 115 → 2026-10-29 115（+0）
 
 
 ---

@@ -46,12 +46,12 @@ ACM SIGKDD 2025 论文 NILMFormer 的官方 PyTorch 代码库，提供序列到�
 ```mermaid
 xychart-beta
     title "adrienpetralia/NILMFormer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-28 55（+0）
+2026-10-18 55 → 2026-10-29 55（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Kalibr Python SDK 在应用与 LLM 提供商之间提供路由层：按目标（
 ```mermaid
 xychart-beta
     title "kalibr-ai/kalibr-sdk-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 32（+0）
 
 
 ---

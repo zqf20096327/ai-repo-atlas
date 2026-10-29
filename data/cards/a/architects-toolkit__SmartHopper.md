@@ -44,13 +44,13 @@ Rhino/Grasshopper 的 AI 插件：提供上下文感知的对话助手（可读�
 
 ```mermaid
 xychart-beta
-    title "architects-toolkit/SmartHopper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "architects-toolkit/SmartHopper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 32 --> 35
-    line [33, 34]
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-28 34（+1）
+2026-10-18 33 → 2026-10-29 34（+1）
 
 
 ---

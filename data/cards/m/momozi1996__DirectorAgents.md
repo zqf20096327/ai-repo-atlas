@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "momozi1996/DirectorAgents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 57 --> 60
-    line [58, 59]
+    title "momozi1996/DirectorAgents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 61]
 ```
 
-2026-10-18 58 → 2026-10-28 59（+1）
+2026-10-18 58 → 2026-10-29 61（+3）
 
 
 ---

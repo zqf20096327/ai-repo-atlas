@@ -45,12 +45,12 @@ Foundation-1 结构化文本转采样扩散模型的 ComfyUI 自定义节点封�
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-Foundation-1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-18 110 → 2026-10-28 110（+0）
+2026-10-18 110 → 2026-10-29 110（+0）
 
 
 ---

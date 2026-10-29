@@ -45,13 +45,13 @@ SolaraX 从六个渠道（Polymarket、Kalshi、社交、链上治理投票、�
 
 ```mermaid
 xychart-beta
-    title "reunios2024/cortex-sentinel-trading-nexus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "reunios2024/cortex-sentinel-trading-nexus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 122 --> 125
-    line [124, 123]
+    line [124, 123, 123]
 ```
 
-2026-10-18 124 → 2026-10-28 123（-1）
+2026-10-18 124 → 2026-10-29 123（-1）
 
 
 ---

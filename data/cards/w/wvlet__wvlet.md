@@ -40,6 +40,18 @@
 > L5: Wvlet, pronounced as weave-let, is a new cross-SQL flow-style query language for functional data modeling and intera
 > L12: AI coding agents: the docs are available as plain text at llms.txt (index) and llms-full.txt (all pages).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wvlet/wvlet 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 157 --> 159
+    line [158, 158]
+```
+
+2026-10-28 158 → 2026-10-29 158（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `861ff228d5cd` · [字段定义](../../DATASET.md)*

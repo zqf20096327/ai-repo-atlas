@@ -46,12 +46,12 @@ NDIF（National Deep Inference Fabric）是 nnsight 客户端的服务器后端�
 ```mermaid
 xychart-beta
     title "ndif-team/ndif 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-28 51（+0）
+2026-10-18 51 → 2026-10-29 51（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "moonshine-software/moon-vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "moonshine-software/moon-vibe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 76 --> 80
-    line [79, 78, 77]
+    line [79, 78, 77, 77]
 ```
 
-2026-10-18 79 → 2026-10-28 77（-2）
+2026-10-18 79 → 2026-10-29 77（-2）
 
 
 ---

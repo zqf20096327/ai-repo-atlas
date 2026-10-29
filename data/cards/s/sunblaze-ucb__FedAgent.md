@@ -46,12 +46,12 @@ FedAgent 是用于 LLM agent 联邦强化学习训练的 Python 库：在 verl 0
 ```mermaid
 xychart-beta
     title "sunblaze-ucb/FedAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

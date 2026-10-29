@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netzpirat/openclaw-trading-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 446 --> 448
-    line [447, 447]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 446 --> 449
+    line [447, 448]
 ```
 
-2026-10-18 447 → 2026-10-28 447（+0）
+2026-10-18 447 → 2026-10-29 448（+1）
 
 
 ---

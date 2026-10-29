@@ -40,6 +40,18 @@
 > L3: Get a pro-grade, portable ComfyUI environment in one click. Optimized for **Python 3.13**, **CUDA 13**, and **SageAt
 > L29: 3. **Run Installer:** Double-click `comfy-adv-install.bat`. *Note: It will download ~5GB of data. Grab a coffee.*
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "the3minutenode/ComfyUI-Advanced-Installer 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
+```
+
+2026-10-28 29 → 2026-10-29 30（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `8ecf51b99e69` · [字段定义](../../DATASET.md)*

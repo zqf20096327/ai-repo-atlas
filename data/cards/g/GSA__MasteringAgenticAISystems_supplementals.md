@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GSA/MasteringAgenticAISystems_supplementals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    title "GSA/MasteringAgenticAISystems_supplementals 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 44 --> 50
-    line [45, 46, 48, 49]
+    line [45, 46, 48, 49, 49]
 ```
 
-2026-10-18 45 → 2026-10-28 49（+4）
+2026-10-18 45 → 2026-10-29 49（+4）
 
 
 ---

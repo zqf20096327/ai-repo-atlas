@@ -45,13 +45,13 @@ OCTO 消息平台的 TypeScript/React 前端，同一 src/ 代码同时产出浏
 
 ```mermaid
 xychart-beta
-    title "Mininglamp-OSS/octo-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Mininglamp-OSS/octo-web 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 1207 --> 1210
-    line [1208, 1209]
+    line [1208, 1209, 1209]
 ```
 
-2026-10-18 1,208 → 2026-10-28 1,209（+1）
+2026-10-18 1,208 → 2026-10-29 1,209（+1）
 
 
 ---

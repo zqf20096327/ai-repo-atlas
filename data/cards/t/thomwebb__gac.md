@@ -46,13 +46,13 @@ Python 编写的命令行工具，以 `uvx gac` 替代 `git commit -m`：读取�
 
 ```mermaid
 xychart-beta
-    title "thomwebb/gac 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 315 --> 318
-    line [316, 317]
+    title "thomwebb/gac 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 315 --> 319
+    line [316, 317, 318]
 ```
 
-2026-10-18 316 → 2026-10-28 317（+1）
+2026-10-18 316 → 2026-10-29 318（+2）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/AI-Productivity-Tracker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-28 35（+1）
+2026-10-18 34 → 2026-10-29 35（+1）
 
 
 ---

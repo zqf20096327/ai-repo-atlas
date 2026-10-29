@@ -44,12 +44,12 @@ ReaScript 前端加 Docker 托管 Whisper 后端组成：读取 REAPER 工程中
 ```mermaid
 xychart-beta
     title "TeamAudio/reaspeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-28 46（+0）
+2026-10-18 46 → 2026-10-29 46（+0）
 
 
 ---

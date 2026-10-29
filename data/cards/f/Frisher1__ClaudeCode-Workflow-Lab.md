@@ -44,13 +44,13 @@ AdversarialFlow Engine 是一个测试与验证框架及配套工具包，将测
 
 ```mermaid
 xychart-beta
-    title "Frisher1/ClaudeCode-Workflow-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Frisher1/ClaudeCode-Workflow-Lab 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 115 --> 118
-    line [117, 116]
+    line [117, 116, 116]
 ```
 
-2026-10-18 117 → 2026-10-28 116（-1）
+2026-10-18 117 → 2026-10-29 116（-1）
 
 
 ---

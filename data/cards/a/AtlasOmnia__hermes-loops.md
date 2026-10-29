@@ -41,6 +41,18 @@ AtlasOmnia Hermes Agent 工具集的一部分，提供三类可审查的自主 a
 > L11: |autoresearch|Karpathy-style propose→test→keep/revert harness for repository experiments|Yes — commits/reverts in a
 > L25: and keeps good changes as local commits or reverts the rest. Provider- and agent-agnostic; never
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/hermes-loops 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-10-28 31 → 2026-10-29 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `134485ece284` · [字段定义](../../DATASET.md)*

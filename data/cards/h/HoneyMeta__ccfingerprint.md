@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HoneyMeta/ccfingerprint 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 46 --> 52
-    line [47, 49, 51]
+    title "HoneyMeta/ccfingerprint 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 46 --> 53
+    line [47, 49, 51, 52]
 ```
 
-2026-10-18 47 → 2026-10-28 51（+4）
+2026-10-18 47 → 2026-10-29 52（+5）
 
 
 ---

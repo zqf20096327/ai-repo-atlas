@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Yangzhangcst/Transformer-in-Computer-Vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 1464 --> 1466
     line [1465, 1465]
 ```
 
-2026-10-18 1,465 → 2026-10-28 1,465（+0）
+2026-10-18 1,465 → 2026-10-29 1,465（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinnie2003/LOMAssistant 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 83 --> 97
-    line [84, 96]
+    title "kevinnie2003/LOMAssistant 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 83 --> 103
+    line [84, 96, 102]
 ```
 
-2026-10-26 84 → 2026-10-28 96（+12）
+2026-10-26 84 → 2026-10-29 102（+18）
 
 
 ---

@@ -41,6 +41,18 @@
 > L15: - [x] AI 生成（替换 / 插入 / 新建画布；可取消；PDF/md/txt/csv 灌入 Prompt）
 > L27: 1. 打开 AI 助手，填写 **API 地址**、**模型**；**密钥**在面板中粘贴（仅存当前标签页的 `sessionStorage`，关页即清）。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SimpleAI2026/SimpleExcalidraw 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-10-28 36 → 2026-10-29 36（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `f2002cd94a24` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georgeguimaraes/arcana 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "georgeguimaraes/arcana 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 340 --> 343
-    line [341, 342]
+    line [341, 342, 342]
 ```
 
-2026-10-18 341 → 2026-10-28 342（+1）
+2026-10-18 341 → 2026-10-29 342（+1）
 
 
 ---

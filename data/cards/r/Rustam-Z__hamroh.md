@@ -46,12 +46,12 @@ hamroh 是一个在 Telegram 上运行持久 AI 伴侣/助手的 agent harness �
 ```mermaid
 xychart-beta
     title "Rustam-Z/hamroh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-28 55（+0）
+2026-10-18 55 → 2026-10-29 55（+0）
 
 
 ---

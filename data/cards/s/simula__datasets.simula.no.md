@@ -45,12 +45,12 @@ Simula Research Laboratory 与 SimulaMet 发布的开放数据集聚合目录，
 ```mermaid
 xychart-beta
     title "simula/datasets.simula.no 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-28 23（+0）
+2026-10-18 23 → 2026-10-29 23（+0）
 
 
 ---

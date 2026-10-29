@@ -44,13 +44,13 @@ rig-lite 是一个仅依赖 bash 的可移植治理工具包，不捆绑任何 a
 
 ```mermaid
 xychart-beta
-    title "marcuspat/turbo-flow 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-28"]
-    y-axis "stars" 175 --> 178
-    line [176, 177]
+    title "marcuspat/turbo-flow 星数(近 3 点)"
+    x-axis ["2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 175 --> 181
+    line [176, 177, 180]
 ```
 
-2026-10-19 176 → 2026-10-28 177（+1）
+2026-10-19 176 → 2026-10-29 180（+4）
 
 
 ---

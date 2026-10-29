@@ -46,12 +46,12 @@ Regression Transformer 的官方开发代码库：把回归（属性预测）与
 ```mermaid
 xychart-beta
     title "IBM/regression-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 158 --> 160
     line [159, 159]
 ```
 
-2026-10-18 159 → 2026-10-28 159（+0）
+2026-10-18 159 → 2026-10-29 159（+0）
 
 
 ---

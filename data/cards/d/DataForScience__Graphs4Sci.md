@@ -44,12 +44,12 @@ Data For Science（Bruno Gonçalves）Substack 专栏的代码仓库：每篇博
 ```mermaid
 xychart-beta
     title "DataForScience/Graphs4Sci 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-28 50（+0）
+2026-10-18 50 → 2026-10-29 50（+0）
 
 
 ---

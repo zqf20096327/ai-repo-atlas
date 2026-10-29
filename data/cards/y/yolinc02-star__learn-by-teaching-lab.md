@@ -46,12 +46,12 @@ DevMentor Studio 自述为一个开源知识生态，提供按 Foundations、Eng
 ```mermaid
 xychart-beta
     title "yolinc02-star/learn-by-teaching-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-28 53（+0）
+2026-10-18 53 → 2026-10-29 53（+0）
 
 
 ---

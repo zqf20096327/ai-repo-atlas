@@ -44,12 +44,12 @@ Rumale 是纯 Ruby 编写的机器学习库，提供与 Python Scikit-Learn 相�
 ```mermaid
 xychart-beta
     title "yoshoku/rumale 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 918 --> 920
     line [919, 919]
 ```
 
-2026-10-18 919 → 2026-10-28 919（+0）
+2026-10-18 919 → 2026-10-29 919（+0）
 
 
 ---

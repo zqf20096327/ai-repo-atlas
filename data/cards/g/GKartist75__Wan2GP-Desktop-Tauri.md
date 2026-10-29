@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GKartist75/Wan2GP-Desktop-Tauri 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    title "GKartist75/Wan2GP-Desktop-Tauri 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 53 --> 57
-    line [54, 56]
+    line [54, 56, 56]
 ```
 
-2026-10-26 54 → 2026-10-28 56（+2）
+2026-10-26 54 → 2026-10-29 56（+2）
 
 
 ---

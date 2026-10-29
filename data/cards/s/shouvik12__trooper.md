@@ -44,13 +44,13 @@ Go 编写的本地 LLM 网关与工作台：代理请求并在 Claude/Gemini/Ope
 
 ```mermaid
 xychart-beta
-    title "shouvik12/trooper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "shouvik12/trooper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 32 --> 35
-    line [34, 33]
+    line [34, 33, 33]
 ```
 
-2026-10-18 34 → 2026-10-28 33（-1）
+2026-10-18 34 → 2026-10-29 33（-1）
 
 
 ---

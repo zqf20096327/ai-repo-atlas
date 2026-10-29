@@ -48,12 +48,12 @@ semio 是面向建筑与工程设计的 Design-Information-Modeling 生态系统
 ```mermaid
 xychart-beta
     title "usalu/semio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

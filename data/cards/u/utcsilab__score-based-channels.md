@@ -47,12 +47,12 @@ IEEE TWC 论文 "MIMO Channel Estimation using Score-Based Generative Models" �
 ```mermaid
 xychart-beta
     title "utcsilab/score-based-channels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 142 --> 144
     line [143, 143]
 ```
 
-2026-10-18 143 → 2026-10-28 143（+0）
+2026-10-18 143 → 2026-10-29 143（+0）
 
 
 ---

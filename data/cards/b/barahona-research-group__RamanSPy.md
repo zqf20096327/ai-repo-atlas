@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "barahona-research-group/RamanSPy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    title "barahona-research-group/RamanSPy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29"]
     y-axis "stars" 194 --> 198
-    line [195, 196, 197]
+    line [195, 196, 197, 197]
 ```
 
-2026-10-18 195 → 2026-10-28 197（+2）
+2026-10-18 195 → 2026-10-29 197（+2）
 
 
 ---

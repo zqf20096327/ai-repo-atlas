@@ -46,12 +46,12 @@ UTCP 是一个开放的工具调用协议，此仓库为其官方 Python 实现�
 ```mermaid
 xychart-beta
     title "universal-tool-calling-protocol/python-utcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 652 --> 654
-    line [653, 653]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 651 --> 654
+    line [653, 652]
 ```
 
-2026-10-18 653 → 2026-10-28 653（+0）
+2026-10-18 653 → 2026-10-29 652（-1）
 
 
 ---

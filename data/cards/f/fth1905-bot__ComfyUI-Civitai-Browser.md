@@ -45,12 +45,12 @@ ComfyUI 前端+API 扩展，在侧栏增加 Civitai 浏览页：可按类别搜�
 ```mermaid
 xychart-beta
     title "fth1905-bot/ComfyUI-Civitai-Browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

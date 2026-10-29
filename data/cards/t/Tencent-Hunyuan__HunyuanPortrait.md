@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanPortrait 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Tencent-Hunyuan/HunyuanPortrait 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 356 --> 360
-    line [357, 359]
+    line [357, 359, 359]
 ```
 
-2026-10-18 357 → 2026-10-28 359（+2）
+2026-10-18 357 → 2026-10-29 359（+2）
 
 
 ---

@@ -45,13 +45,13 @@ Prompt Optimizer Studio 以自托管服务端版发布：用户提交初版 prom
 
 ```mermaid
 xychart-beta
-    title "XBigRoad/prompt-optimizer-studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "XBigRoad/prompt-optimizer-studio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 213 --> 217
-    line [216, 214, 216]
+    line [216, 214, 216, 216]
 ```
 
-2026-10-18 216 → 2026-10-28 216（+0）
+2026-10-18 216 → 2026-10-29 216（+0）
 
 
 ---

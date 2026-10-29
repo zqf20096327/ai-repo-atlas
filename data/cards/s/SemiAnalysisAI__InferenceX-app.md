@@ -46,12 +46,12 @@ InferenceX 的开源前端与数据层 monorepo：以 Next.js 16 + TypeScript �
 ```mermaid
 xychart-beta
     title "SemiAnalysisAI/InferenceX-app 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29"]
     y-axis "stars" 46 --> 50
     line [47, 48, 49, 49]
 ```
 
-2026-10-18 47 → 2026-10-28 49（+2）
+2026-10-18 47 → 2026-10-29 49（+2）
 
 
 ---

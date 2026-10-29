@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/teams-agent-accelerator-templates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "microsoft/teams-agent-accelerator-templates 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 93 --> 96
-    line [94, 95]
+    line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-10-28 95（+1）
+2026-10-18 94 → 2026-10-29 95（+1）
 
 
 ---

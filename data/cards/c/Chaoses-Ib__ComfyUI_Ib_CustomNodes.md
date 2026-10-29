@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Chaoses-Ib/ComfyUI_Ib_CustomNodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-28 59（+0）
+2026-10-18 59 → 2026-10-29 59（+0）
 
 
 ---

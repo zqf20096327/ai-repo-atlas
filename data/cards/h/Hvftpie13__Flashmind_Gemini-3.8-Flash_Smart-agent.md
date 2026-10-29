@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 30 --> 37
-    line [31, 36]
+    title "Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 30 --> 38
+    line [31, 36, 37]
 ```
 
-2026-10-26 31 → 2026-10-28 36（+5）
+2026-10-26 31 → 2026-10-29 37（+6）
 
 
 ---

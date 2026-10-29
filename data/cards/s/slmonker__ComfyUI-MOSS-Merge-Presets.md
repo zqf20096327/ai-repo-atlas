@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "slmonker/ComfyUI-MOSS-Merge-Presets 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 21 --> 34
-    line [22, 33]
+    title "slmonker/ComfyUI-MOSS-Merge-Presets 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 21 --> 39
+    line [22, 33, 38]
 ```
 
-2026-10-26 22 → 2026-10-28 33（+11）
+2026-10-26 22 → 2026-10-29 38（+16）
 
 
 ---

@@ -45,12 +45,12 @@ npm 包 git-repo-parser，提供三个 CLI 命令（git-repo-to-json / to-toon /
 ```mermaid
 xychart-beta
     title "arnab2001/git-repo-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

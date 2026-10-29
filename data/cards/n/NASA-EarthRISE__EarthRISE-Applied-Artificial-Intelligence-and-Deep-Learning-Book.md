@@ -45,12 +45,12 @@ NASA EarthRISE 计划出版的应用型开源电子书，面向遥感与地球�
 ```mermaid
 xychart-beta
     title "NASA-EarthRISE/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-28 68（+0）
+2026-10-18 68 → 2026-10-29 68（+0）
 
 
 ---

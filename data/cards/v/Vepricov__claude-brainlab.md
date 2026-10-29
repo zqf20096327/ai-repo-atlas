@@ -41,6 +41,18 @@ BRAIn 实验室在用的 Claude Code 工作台配置，打包供其他实验室�
 > L34: Eight stages, one loop, with the lab GitLab at the centre. Each stage is a handful of skills you
 > L95: |**Skills**|67|the working units: literature, experiments, Obsidian, code, writing, review|`skills/`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Vepricov/claude-brainlab 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-10-28 34 → 2026-10-29 34（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `13bbf452d055` · [字段定义](../../DATASET.md)*

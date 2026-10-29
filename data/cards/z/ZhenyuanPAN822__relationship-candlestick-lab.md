@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZhenyuanPAN822/relationship-candlestick-lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    title "ZhenyuanPAN822/relationship-candlestick-lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 82 --> 87
-    line [85, 86, 84, 83]
+    line [85, 86, 84, 83, 83]
 ```
 
-2026-10-18 85 → 2026-10-28 83（-2）
+2026-10-18 85 → 2026-10-29 83（-2）
 
 
 ---

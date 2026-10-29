@@ -45,13 +45,13 @@ Bittensor Subnet 124 上的无人机导航基准与竞赛网络：参与者在�
 
 ```mermaid
 xychart-beta
-    title "swarm-subnet/swarm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "swarm-subnet/swarm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 38 --> 43
-    line [39, 42]
+    line [39, 42, 42]
 ```
 
-2026-10-18 39 → 2026-10-28 42（+3）
+2026-10-18 39 → 2026-10-29 42（+3）
 
 
 ---

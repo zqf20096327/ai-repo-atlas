@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "iflytek/astron-harness-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 355 --> 358
-    line [356, 357]
+    title "iflytek/astron-harness-tutorial 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 355 --> 359
+    line [356, 357, 358]
 ```
 
-2026-10-26 356 → 2026-10-28 357（+1）
+2026-10-26 356 → 2026-10-29 358（+2）
 
 
 ---

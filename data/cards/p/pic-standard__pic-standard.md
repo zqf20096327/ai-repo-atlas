@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pic-standard/pic-standard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "pic-standard/pic-standard 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 67 --> 70
-    line [68, 69]
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-10-28 69（+1）
+2026-10-18 68 → 2026-10-29 69（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "R3nder-Codes/r3nder_mayhem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "R3nder-Codes/r3nder_mayhem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 20 --> 24
-    line [21, 23]
+    line [21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-10-28 23（+2）
+2026-10-18 21 → 2026-10-29 23（+2）
 
 
 ---

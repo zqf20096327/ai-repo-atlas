@@ -45,12 +45,12 @@ ICDAR 2023 论文 PyramidTabNet 的官方 PyTorch 实现：使用无卷积的 Py
 ```mermaid
 xychart-beta
     title "muhd-umer/pyramidtabnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-28 28（+0）
+2026-10-18 28 → 2026-10-29 28（+0）
 
 
 ---

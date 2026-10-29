@@ -46,12 +46,12 @@ AgentV 是面向企业业务工作流的多 agent 评测与验证 harness（Mult
 ```mermaid
 xychart-beta
     title "najeed/ai-agent-eval-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-28 44（+0）
+2026-10-18 44 → 2026-10-29 44（+0）
 
 
 ---

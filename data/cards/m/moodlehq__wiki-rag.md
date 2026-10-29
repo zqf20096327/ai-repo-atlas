@@ -46,12 +46,12 @@ Moodle Research 发起的实验项目：通过 MediaWiki API（非爬虫）抓�
 ```mermaid
 xychart-beta
     title "moodlehq/wiki-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-28 53（+0）
+2026-10-18 53 → 2026-10-29 53（+0）
 
 
 ---

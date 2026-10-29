@@ -45,13 +45,13 @@ Aico Link 是一块自组装开发板（Luckfox Pico Zero + RK628D HDMI-CSI 桥 
 
 ```mermaid
 xychart-beta
-    title "AidenAI-IO/aico-link 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 65 --> 68
-    line [66, 67]
+    title "AidenAI-IO/aico-link 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 65 --> 70
+    line [66, 67, 69]
 ```
 
-2026-10-26 66 → 2026-10-28 67（+1）
+2026-10-26 66 → 2026-10-29 69（+3）
 
 
 ---

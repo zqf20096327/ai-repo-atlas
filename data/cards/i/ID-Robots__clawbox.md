@@ -45,12 +45,12 @@ ID Robots Ltd. 生产的桌面级 AI 助手硬件：NVIDIA Jetson Orin Nano 8GB�
 ```mermaid
 xychart-beta
     title "ID-Robots/clawbox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-18 30 → 2026-10-28 31（+1）
+2026-10-18 30 → 2026-10-29 32（+2）
 
 
 ---

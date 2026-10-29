@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guinmoon/llmfarm_core.swift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "guinmoon/llmfarm_core.swift 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 282 --> 285
-    line [283, 284]
+    line [283, 284, 284]
 ```
 
-2026-10-18 283 → 2026-10-28 284（+1）
+2026-10-18 283 → 2026-10-29 284（+1）
 
 
 ---

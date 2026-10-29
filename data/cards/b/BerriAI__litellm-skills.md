@@ -43,13 +43,13 @@ BerriAI 维护的 Agent Skills 集合，用于管理运行中的 LiteLLM proxy �
 
 ```mermaid
 xychart-beta
-    title "BerriAI/litellm-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
-    y-axis "stars" 98 --> 103
-    line [99, 100, 102]
+    title "BerriAI/litellm-skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 98 --> 104
+    line [99, 100, 102, 103]
 ```
 
-2026-10-18 99 → 2026-10-28 102（+3）
+2026-10-18 99 → 2026-10-29 103（+4）
 
 
 ---

@@ -45,12 +45,12 @@ Communications Biology 2023 论文 Fast detection of slender bodies in high dens
 ```mermaid
 xychart-beta
     title "kirkegaardlab/deeptangle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-28 43（+0）
+2026-10-18 43 → 2026-10-29 43（+0）
 
 
 ---

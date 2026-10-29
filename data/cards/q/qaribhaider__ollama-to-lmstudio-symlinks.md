@@ -45,13 +45,13 @@ Go 编写的跨平台命令行工具，通过符号链接（可选硬链接）�
 
 ```mermaid
 xychart-beta
-    title "qaribhaider/ollama-to-lmstudio-symlinks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 174 --> 178
-    line [175, 176, 177]
+    title "qaribhaider/ollama-to-lmstudio-symlinks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 174 --> 179
+    line [175, 176, 177, 178]
 ```
 
-2026-10-18 175 → 2026-10-28 177（+2）
+2026-10-18 175 → 2026-10-29 178（+3）
 
 
 ---

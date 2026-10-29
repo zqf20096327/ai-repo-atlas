@@ -47,12 +47,12 @@ Google DeepMind 发布的 Python SDK，为 Gemini Robotics 系列模型提供访
 ```mermaid
 xychart-beta
     title "google-deepmind/gemini-robotics-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 611 --> 613
     line [612, 612]
 ```
 
-2026-10-18 612 → 2026-10-28 612（+0）
+2026-10-18 612 → 2026-10-29 612（+0）
 
 
 ---

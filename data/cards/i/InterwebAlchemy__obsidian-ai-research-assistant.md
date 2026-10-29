@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InterwebAlchemy/obsidian-ai-research-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 132 --> 134
     line [133, 133]
 ```
 
-2026-10-18 133 → 2026-10-28 133（+0）
+2026-10-18 133 → 2026-10-29 133（+0）
 
 
 ---

@@ -44,13 +44,13 @@ XRSPACE 开源的 Perxona Connect SDK 配套套件：提供 `<sv-presenter>` Web
 
 ```mermaid
 xychart-beta
-    title "XRSPACE-Inc/perxona-connect-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    title "XRSPACE-Inc/perxona-connect-kit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 64 --> 68
-    line [65, 66, 67]
+    line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-10-28 67（+2）
+2026-10-18 65 → 2026-10-29 67（+2）
 
 
 ---

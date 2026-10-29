@@ -44,12 +44,12 @@ W3C AI Agent Protocol Community Group 的工作仓库，托管两份核心文档
 ```mermaid
 xychart-beta
     title "w3c-cg/ai-agent-protocol 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-10-28 75（+1）
+2026-10-18 74 → 2026-10-29 75（+1）
 
 
 ---

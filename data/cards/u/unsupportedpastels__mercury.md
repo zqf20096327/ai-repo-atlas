@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "unsupportedpastels/mercury 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
-    y-axis "stars" 54 --> 59
-    line [55, 56, 58]
+    title "unsupportedpastels/mercury 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 54 --> 60
+    line [55, 56, 58, 59]
 ```
 
-2026-10-18 55 → 2026-10-28 58（+3）
+2026-10-18 55 → 2026-10-29 59（+4）
 
 
 ---

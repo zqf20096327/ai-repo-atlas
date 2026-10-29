@@ -45,12 +45,12 @@ NVIDIA 出品的 AI 工厂运维蓝图：基于 NemoClaw 构建可扩展的 agen
 ```mermaid
 xychart-beta
     title "NVIDIA/AI-Factory-Operations-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
     y-axis "stars" 24 --> 29
     line [25, 28, 28]
 ```
 
-2026-10-18 25 → 2026-10-28 28（+3）
+2026-10-18 25 → 2026-10-29 28（+3）
 
 
 ---

@@ -45,13 +45,13 @@ AnifEngine-Voice 的第一方 TTS 运行时，以 GPT-SoVITS 为基础重写推�
 
 ```mermaid
 xychart-beta
-    title "Hiruynk/AnifLive-TTS 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 13 --> 22
-    line [14, 21]
+    title "Hiruynk/AnifLive-TTS 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 13 --> 25
+    line [14, 21, 24]
 ```
 
-2026-10-26 14 → 2026-10-28 21（+7）
+2026-10-26 14 → 2026-10-29 24（+10）
 
 
 ---

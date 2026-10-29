@@ -42,6 +42,18 @@
 > L66: `astartes` is generally applicable to machine learning involving both discovery and inference _and_ model validatio
 > L78: By default, `astartes` will split data randomly. Additionally, a variety of algorithmic sampling approaches can be 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JacksonBurns/astartes 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 102 --> 104
+    line [103, 103]
+```
+
+2026-10-28 103 → 2026-10-29 103（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3da76e27f1a1` · [字段定义](../../DATASET.md)*

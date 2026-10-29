@@ -41,6 +41,18 @@ DeepMind 与多所大学合作发布的深度神经网络 Ithaca 及其训练产
 > L29: While Ithaca alone achieves 62% accuracy when restoring damaged texts, as soon
 > L80: python inference_example.py --input_file=example_input.txt
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/ithaca 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 577 --> 579
+    line [578, 578]
+```
+
+2026-10-28 578 → 2026-10-29 578（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `9c1cb8f7a2fc` · [字段定义](../../DATASET.md)*

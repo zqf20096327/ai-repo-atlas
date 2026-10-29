@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blaizzy/mlx-embeddings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 448 --> 451
-    line [449, 450]
+    title "Blaizzy/mlx-embeddings 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 448 --> 453
+    line [449, 450, 452]
 ```
 
-2026-10-18 449 → 2026-10-28 450（+1）
+2026-10-18 449 → 2026-10-29 452（+3）
 
 
 ---

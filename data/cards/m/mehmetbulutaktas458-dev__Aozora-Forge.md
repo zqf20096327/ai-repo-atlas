@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mehmetbulutaktas458-dev/Aozora-Forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-28 57（+0）
+2026-10-18 57 → 2026-10-29 57（+0）
 
 
 ---

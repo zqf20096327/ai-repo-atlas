@@ -42,12 +42,12 @@ neuro-inc 维护的仓库，包含 Apolo SDK 库（平台 API 的 Python 客户�
 ```mermaid
 xychart-beta
     title "neuro-inc/apolo-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

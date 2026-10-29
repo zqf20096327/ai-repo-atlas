@@ -45,13 +45,13 @@ Python 命令行工具：读取用户提供的提示词文件，分阶段（初�
 
 ```mermaid
 xychart-beta
-    title "datacrystals/AIStoryWriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "datacrystals/AIStoryWriter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 257 --> 260
-    line [258, 259]
+    line [258, 259, 259]
 ```
 
-2026-10-18 258 → 2026-10-28 259（+1）
+2026-10-18 258 → 2026-10-29 259（+1）
 
 
 ---

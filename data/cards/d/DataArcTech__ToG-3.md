@@ -46,12 +46,12 @@ Think-on-Graph 3.0 / RAG-Factory 是用于构建 RAG 管道的框架，覆盖标
 ```mermaid
 xychart-beta
     title "DataArcTech/ToG-3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-18 94 → 2026-10-28 94（+0）
+2026-10-18 94 → 2026-10-29 94（+0）
 
 
 ---

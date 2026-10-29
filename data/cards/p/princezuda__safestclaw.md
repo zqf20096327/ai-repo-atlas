@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "princezuda/safestclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "princezuda/safestclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 280 --> 283
-    line [282, 281]
+    line [282, 281, 281]
 ```
 
-2026-10-18 282 → 2026-10-28 281（-1）
+2026-10-18 282 → 2026-10-29 281（-1）
 
 
 ---

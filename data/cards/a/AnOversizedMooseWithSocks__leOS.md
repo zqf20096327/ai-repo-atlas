@@ -46,12 +46,12 @@ leOS 是一个本地运行的 agent 基础设施：将知识、工具、路由�
 ```mermaid
 xychart-beta
     title "AnOversizedMooseWithSocks/leOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

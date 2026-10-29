@@ -44,12 +44,12 @@ NVIDIA 维护的 AIStore ETL 仓库：提供可部署到 AIStore 集群的现成
 ```mermaid
 xychart-beta
     title "NVIDIA/ais-etl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-28 22（+0）
+2026-10-18 22 → 2026-10-29 22（+0）
 
 
 ---

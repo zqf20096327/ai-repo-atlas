@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HOPPINZQ/hoppinai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "HOPPINZQ/hoppinai-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 159 --> 162
-    line [161, 160]
+    line [161, 160, 160]
 ```
 
-2026-10-18 161 → 2026-10-28 160（-1）
+2026-10-18 161 → 2026-10-29 160（-1）
 
 
 ---

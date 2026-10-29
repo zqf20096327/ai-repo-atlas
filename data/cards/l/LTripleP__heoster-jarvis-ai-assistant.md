@@ -44,13 +44,13 @@ Codeex AI 开发的个人 AI 助手 HarmoniCus，面向终端用户的多轮对�
 
 ```mermaid
 xychart-beta
-    title "LTripleP/heoster-jarvis-ai-assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    title "LTripleP/heoster-jarvis-ai-assistant 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 115 --> 118
-    line [116, 117, 116]
+    line [116, 117, 116, 116]
 ```
 
-2026-10-18 116 → 2026-10-28 116（+0）
+2026-10-18 116 → 2026-10-29 116（+0）
 
 
 ---

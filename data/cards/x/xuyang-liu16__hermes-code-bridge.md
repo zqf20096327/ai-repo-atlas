@@ -45,12 +45,12 @@ Hermes Agent 的插件+技能（SKILL.md），把 Hermes 变成本地编码代�
 ```mermaid
 xychart-beta
     title "xuyang-liu16/hermes-code-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-28 41（+0）
+2026-10-18 41 → 2026-10-29 41（+0）
 
 
 ---

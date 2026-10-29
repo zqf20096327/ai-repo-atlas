@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alebal123bal/khadas_yolov8n_multithread 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-10-28 93（+0）
+2026-10-18 93 → 2026-10-29 93（+0）
 
 
 ---

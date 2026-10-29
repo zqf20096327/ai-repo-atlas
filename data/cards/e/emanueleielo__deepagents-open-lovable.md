@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "emanueleielo/deepagents-open-lovable 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-10-28 112（+0）
+2026-10-18 112 → 2026-10-29 112（+0）
 
 
 ---

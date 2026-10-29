@@ -46,12 +46,12 @@ Karpathy LLM Wiki 模式的参考实现：以 GitHub 模板形式提供脚手架
 ```mermaid
 xychart-beta
     title "cobusgreyling/llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-28 44（+0）
+2026-10-18 44 → 2026-10-29 44（+0）
 
 
 ---

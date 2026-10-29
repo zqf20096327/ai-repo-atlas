@@ -46,12 +46,12 @@ Model Context Protocol 服务器，让 AI agent 通过自然语言驱动 LINE �
 ```mermaid
 xychart-beta
     title "wasintoh/line-oa-mcp-ultimate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-28 102（+0）
+2026-10-18 102 → 2026-10-29 102（+0）
 
 
 ---

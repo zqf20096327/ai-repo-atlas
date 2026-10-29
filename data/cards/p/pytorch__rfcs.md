@@ -45,12 +45,12 @@ PyTorch 官方维护的 Requests for Comments 仓库，存放向 PyTorch 提议�
 ```mermaid
 xychart-beta
     title "pytorch/rfcs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 153 --> 155
     line [154, 154]
 ```
 
-2026-10-18 154 → 2026-10-28 154（+0）
+2026-10-18 154 → 2026-10-29 154（+0）
 
 
 ---

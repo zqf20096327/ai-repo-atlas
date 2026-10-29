@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xorbitsai/xrouter-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "xorbitsai/xrouter-llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 39 --> 43
-    line [40, 42]
+    line [40, 42, 42]
 ```
 
-2026-10-18 40 → 2026-10-28 42（+2）
+2026-10-18 40 → 2026-10-29 42（+2）
 
 
 ---

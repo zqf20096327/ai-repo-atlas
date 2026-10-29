@@ -44,12 +44,12 @@ magic-dash 是一个 CLI 脚手架工具，通过 pip 安装后可用 magic-dash
 ```mermaid
 xychart-beta
     title "HogaStack/magic-dash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-18 123 → 2026-10-28 123（+0）
+2026-10-18 123 → 2026-10-29 123（+0）
 
 
 ---

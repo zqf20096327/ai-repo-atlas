@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hereandnowai/master-langgraph-workflows-in-python-20-real-world-agent-projects-by-hereandnow-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-28 56（+0）
+2026-10-18 56 → 2026-10-29 56（+0）
 
 
 ---

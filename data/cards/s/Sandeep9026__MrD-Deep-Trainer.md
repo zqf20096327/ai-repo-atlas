@@ -46,12 +46,12 @@ MrD Deep Learning Trainer Tool 的发布镜像与文档仓库：一个多后端�
 ```mermaid
 xychart-beta
     title "Sandeep9026/MrD-Deep-Trainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-28 56（+0）
+2026-10-18 56 → 2026-10-29 56（+0）
 
 
 ---

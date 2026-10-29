@@ -44,13 +44,13 @@ deepseek-ai 维护、DeepSeek Harness 使用的内部组件：以 Node-API v9 �
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/dsh-node-addon-require-builtin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
+    title "deepseek-ai/dsh-node-addon-require-builtin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 13 --> 20
-    line [14, 17, 18, 19]
+    line [14, 17, 18, 19, 19]
 ```
 
-2026-10-18 14 → 2026-10-28 19（+5）
+2026-10-18 14 → 2026-10-29 19（+5）
 
 
 ---

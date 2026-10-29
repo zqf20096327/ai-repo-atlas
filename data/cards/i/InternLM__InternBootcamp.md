@@ -46,12 +46,12 @@ InternAgentHarness（InternBootcamp）将智能体任务统一封装为可执行
 ```mermaid
 xychart-beta
     title "InternLM/InternBootcamp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 352 --> 354
     line [353, 353]
 ```
 
-2026-10-18 353 → 2026-10-28 353（+0）
+2026-10-18 353 → 2026-10-29 353（+0）
 
 
 ---

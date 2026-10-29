@@ -45,12 +45,12 @@ GlossoGen 是一个用于在 LLM agent 团队上开展受控实验的平台：�
 ```mermaid
 xychart-beta
     title "agencyenterprise/GlossoGen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

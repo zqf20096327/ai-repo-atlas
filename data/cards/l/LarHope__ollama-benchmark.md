@@ -45,12 +45,12 @@ Python 编写的 LLM 推理基准测试 CLI 工具：连接本地 Ollama 服务�
 ```mermaid
 xychart-beta
     title "LarHope/ollama-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 173 --> 175
     line [174, 174]
 ```
 
-2026-10-18 174 → 2026-10-28 174（+0）
+2026-10-18 174 → 2026-10-29 174（+0）
 
 
 ---

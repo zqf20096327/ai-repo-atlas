@@ -44,13 +44,13 @@ MedXpertQA 是 ICML 2025 论文发布的医学评测基准，含 4,460 道题目
 
 ```mermaid
 xychart-beta
-    title "TsinghuaC3I/MedXpertQA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "TsinghuaC3I/MedXpertQA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 182 --> 185
-    line [183, 184]
+    line [183, 184, 184]
 ```
 
-2026-10-18 183 → 2026-10-28 184（+1）
+2026-10-18 183 → 2026-10-29 184（+1）
 
 
 ---

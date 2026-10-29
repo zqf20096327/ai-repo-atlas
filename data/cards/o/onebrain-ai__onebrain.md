@@ -45,13 +45,13 @@ OneBrain 是开源的 AI OS 层（MIT/Apache-2.0），扩展 Claude Code、Gemin
 
 ```mermaid
 xychart-beta
-    title "onebrain-ai/onebrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "onebrain-ai/onebrain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-28 31（+1）
+2026-10-18 30 → 2026-10-29 31（+1）
 
 
 ---

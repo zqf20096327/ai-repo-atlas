@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oracle/accelerated-data-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "oracle/accelerated-data-science 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 123 --> 126
-    line [125, 124]
+    line [125, 124, 124]
 ```
 
-2026-10-18 125 → 2026-10-28 124（-1）
+2026-10-18 125 → 2026-10-29 124（-1）
 
 
 ---

@@ -45,12 +45,12 @@ EPAM 维护的 StatGPT 应用后端，用 Python 3.11 编写，实现 API 与主
 ```mermaid
 xychart-beta
     title "epam/statgpt-backend 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-28 26（+0）
+2026-10-18 26 → 2026-10-29 26（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fdaneluzzi/voice-assist-improver 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 21, 22]
+    title "fdaneluzzi/voice-assist-improver 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 21, 22, 23]
 ```
 
-2026-10-25 18 → 2026-10-28 22（+4）
+2026-10-25 18 → 2026-10-29 23（+5）
 
 
 ---

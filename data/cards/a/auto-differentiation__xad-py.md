@@ -44,12 +44,12 @@ C++ 自动微分库 XAD 的 Python 绑定，以 Python 库形式提供一阶前�
 ```mermaid
 xychart-beta
     title "auto-differentiation/xad-py 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

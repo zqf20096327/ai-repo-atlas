@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "teraus111/web3-agent-kit-solana-trading 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 2 --> 99
-    line [10, 91]
+    title "teraus111/web3-agent-kit-solana-trading 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 120
+    line [10, 91, 110]
 ```
 
-2026-10-26 10 → 2026-10-28 91（+81）
+2026-10-26 10 → 2026-10-29 110（+100）
 
 
 ---

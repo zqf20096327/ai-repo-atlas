@@ -44,12 +44,12 @@ PyPI 包 ntloss，实现 ICML 2025 论文 Regress, Don't Guess 提出的 Number 
 ```mermaid
 xychart-beta
     title "ai4sd/number-token-loss 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

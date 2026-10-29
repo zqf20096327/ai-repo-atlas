@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "OPPO-Mente-Lab/X-OmniClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "OPPO-Mente-Lab/X-OmniClaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 265 --> 268
-    line [266, 267]
+    line [266, 267, 267]
 ```
 
-2026-10-18 266 → 2026-10-28 267（+1）
+2026-10-18 266 → 2026-10-29 267（+1）
 
 
 ---

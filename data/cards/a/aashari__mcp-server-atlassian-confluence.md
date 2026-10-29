@@ -45,12 +45,12 @@ Node.js/TypeScript 实现的 MCP server，把 Atlassian Confluence 的 REST API�
 ```mermaid
 xychart-beta
     title "aashari/mcp-server-atlassian-confluence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-28 62（+0）
+2026-10-18 62 → 2026-10-29 62（+0）
 
 
 ---

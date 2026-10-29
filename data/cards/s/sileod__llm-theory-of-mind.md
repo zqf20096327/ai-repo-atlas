@@ -45,12 +45,12 @@ MindGames 论文（EMNLP Findings 2023）的配套代码与数据集：基于动
 ```mermaid
 xychart-beta
     title "sileod/llm-theory-of-mind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-28 21（+0）
+2026-10-18 21 → 2026-10-29 21（+0）
 
 
 ---

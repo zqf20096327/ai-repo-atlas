@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aurite-ai/agent-verifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Aurite-ai/agent-verifier 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 43 --> 46
-    line [45, 44]
+    line [45, 44, 44]
 ```
 
-2026-10-18 45 → 2026-10-28 44（-1）
+2026-10-18 45 → 2026-10-29 44（-1）
 
 
 ---

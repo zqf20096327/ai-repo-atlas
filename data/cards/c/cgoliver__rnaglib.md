@@ -45,12 +45,12 @@ Python 包 rnaglib 用于研究 RNA 2.5D 与 3D 结构：提供带注释的 RNA 
 ```mermaid
 xychart-beta
     title "cgoliver/rnaglib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-28 46（+0）
+2026-10-18 46 → 2026-10-29 46（+0）
 
 
 ---

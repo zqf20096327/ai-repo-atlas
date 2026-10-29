@@ -45,12 +45,12 @@ Agent Brain 是为 AI agent 与应用提供的 RAG 文档与源码索引及语�
 ```mermaid
 xychart-beta
     title "SpillwaveSolutions/agent-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-18 119 → 2026-10-28 119（+0）
+2026-10-18 119 → 2026-10-29 119（+0）
 
 
 ---

@@ -44,13 +44,13 @@ MediaTek Research 開源的 Android/iOS 純手機 AI 應用，v2 採用 Git Subm
 
 ```mermaid
 xychart-beta
-    title "mtkresearch/BreezeApp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "mtkresearch/BreezeApp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 241 --> 245
-    line [242, 243, 244]
+    line [242, 243, 244, 244]
 ```
 
-2026-10-18 242 → 2026-10-28 244（+2）
+2026-10-18 242 → 2026-10-29 244（+2）
 
 
 ---

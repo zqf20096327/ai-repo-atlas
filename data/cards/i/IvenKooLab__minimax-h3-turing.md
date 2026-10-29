@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvenKooLab/minimax-h3-turing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    title "IvenKooLab/minimax-h3-turing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-10-28 20（+2）
+2026-10-18 18 → 2026-10-29 21（+3）
 
 
 ---

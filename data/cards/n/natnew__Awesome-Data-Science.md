@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "natnew/Awesome-Data-Science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "natnew/Awesome-Data-Science 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 163 --> 166
-    line [165, 164]
+    line [165, 164, 164]
 ```
 
-2026-10-18 165 → 2026-10-28 164（-1）
+2026-10-18 165 → 2026-10-29 164（-1）
 
 
 ---

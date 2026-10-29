@@ -41,6 +41,18 @@
 > L8: **EcoTrace is a lightweight, zero-configuration hardware profiler for Python applications, AI training pipelines, an
 > L36: - **Native LangChain Callback (`ecotrace.callbacks.langchain`)** — Thread-safe `EcoTraceLangChainCallback` for Lang
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zwony/ecotrace 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
+```
+
+2026-10-28 35 → 2026-10-29 35（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `c6eed6c1497a` · [字段定义](../../DATASET.md)*

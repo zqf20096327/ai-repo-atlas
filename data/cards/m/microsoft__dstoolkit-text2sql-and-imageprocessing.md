@@ -46,12 +46,12 @@ Microsoft 维护的示例代码仓库，面向构建 RAG 应用（新建或已�
 ```mermaid
 xychart-beta
     title "microsoft/dstoolkit-text2sql-and-imageprocessing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 104 --> 107
     line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-28 106（+1）
+2026-10-18 105 → 2026-10-29 106（+1）
 
 
 ---

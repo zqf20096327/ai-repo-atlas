@@ -44,12 +44,12 @@ Microsoft 维护的 6 课时 GitHub Copilot 课程：从 GitHub 仓库基础、C
 ```mermaid
 xychart-beta
     title "microsoft/mastering-github-copilot-for-dotnet-csharp-developers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 390 --> 395
-    line [391, 392, 393, 394, 394]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29"]
+    y-axis "stars" 390 --> 396
+    line [391, 392, 393, 394, 395]
 ```
 
-2026-10-18 391 → 2026-10-28 394（+3）
+2026-10-18 391 → 2026-10-29 395（+4）
 
 
 ---

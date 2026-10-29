@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "free-cracks/Adobe-Acrobat-Pro 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    title "free-cracks/Adobe-Acrobat-Pro 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 286 --> 289
-    line [287, 288]
+    line [287, 288, 288]
 ```
 
-2026-10-26 287 → 2026-10-28 288（+1）
+2026-10-26 287 → 2026-10-29 288（+1）
 
 
 ---

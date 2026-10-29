@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MIKOTOKAWAII25/local-ai-code-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "MIKOTOKAWAII25/local-ai-code-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 120 --> 123
-    line [122, 121]
+    line [122, 121, 121]
 ```
 
-2026-10-18 122 → 2026-10-28 121（-1）
+2026-10-18 122 → 2026-10-29 121（-1）
 
 
 ---

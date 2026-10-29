@@ -44,13 +44,13 @@ Python 库（PyPI 名 agent-tokenops）：为整个 agent 工作流设置单一�
 
 ```mermaid
 xychart-beta
-    title "theagentplane/tokenops 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    title "theagentplane/tokenops 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 82 --> 86
-    line [83, 84, 85]
+    line [83, 84, 85, 85]
 ```
 
-2026-10-18 83 → 2026-10-28 85（+2）
+2026-10-18 83 → 2026-10-29 85（+2）
 
 
 ---

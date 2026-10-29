@@ -46,12 +46,12 @@ agentloop 是一个轻量级 Python 多 agent 编排框架，将 orchestrator→
 ```mermaid
 xychart-beta
     title "luckeyfaraday/athena-loops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-28 60（+0）
+2026-10-18 60 → 2026-10-29 60（+0）
 
 
 ---

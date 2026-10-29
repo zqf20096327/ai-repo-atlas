@@ -41,6 +41,18 @@
 > L92: frame ─► plate detector (YOLOv5s, ONNX) ─► crop ─► character detector (43 classes)
 > L95:       ─► one result per car, e.g. 34D31966 / ۳۴ د ۳۱۹ - ایران ۶۶
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "truthofmatthew/persian-license-plate-recognition 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 449 --> 451
+    line [450, 450]
+```
+
+2026-10-28 450 → 2026-10-29 450（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3ed7325cbf57` · [字段定义](../../DATASET.md)*

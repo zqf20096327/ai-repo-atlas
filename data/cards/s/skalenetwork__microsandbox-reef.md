@@ -46,12 +46,12 @@ reef 是一个 Rust CLI，在自有服务器上用 microsandbox microVM 运行 O
 ```mermaid
 xychart-beta
     title "skalenetwork/microsandbox-reef 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

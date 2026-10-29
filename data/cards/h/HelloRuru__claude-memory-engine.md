@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HelloRuru/claude-memory-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "HelloRuru/claude-memory-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 132 --> 135
-    line [134, 133]
+    line [134, 133, 133]
 ```
 
-2026-10-18 134 → 2026-10-28 133（-1）
+2026-10-18 134 → 2026-10-29 133（-1）
 
 
 ---

@@ -46,12 +46,12 @@ Nemo Code 以 Claude Code CLI 为运行时依赖，通过本地 LiteLLM 代理�
 ```mermaid
 xychart-beta
     title "kevdogg102396-afk/free-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-28 24（+0）
+2026-10-18 24 → 2026-10-29 24（+0）
 
 
 ---

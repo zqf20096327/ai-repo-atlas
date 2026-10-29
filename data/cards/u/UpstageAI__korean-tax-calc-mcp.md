@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UpstageAI/korean-tax-calc-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 0 --> 52
-    line [3, 48]
+    title "UpstageAI/korean-tax-calc-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 93
+    line [3, 48, 85]
 ```
 
-2026-10-18 3 → 2026-10-28 48（+45）
+2026-10-18 3 → 2026-10-29 85（+82）
 
 
 ---

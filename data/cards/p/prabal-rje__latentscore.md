@@ -45,12 +45,12 @@ Python 库，把文字描述（如 'morning coffee shop'）经检索映射与程
 ```mermaid
 xychart-beta
     title "prabal-rje/latentscore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-28 44（+0）
+2026-10-18 44 → 2026-10-29 44（+0）
 
 
 ---

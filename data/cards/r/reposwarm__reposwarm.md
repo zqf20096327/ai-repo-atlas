@@ -45,13 +45,13 @@ RepoSwarm 分析整个代码库组合并生成标准化的 .arch.md 架构文档
 
 ```mermaid
 xychart-beta
-    title "reposwarm/reposwarm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "reposwarm/reposwarm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 274 --> 277
-    line [276, 275]
+    line [276, 275, 276]
 ```
 
-2026-10-18 276 → 2026-10-28 275（-1）
+2026-10-18 276 → 2026-10-29 276（+0）
 
 
 ---

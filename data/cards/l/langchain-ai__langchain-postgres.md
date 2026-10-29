@@ -44,13 +44,13 @@ langchain-ai 组织维护的集成库，用 Postgres 后端实现 LangChain 核�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-postgres 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28"]
+    title "langchain-ai/langchain-postgres 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 280 --> 284
-    line [282, 281, 282, 283]
+    line [282, 281, 282, 283, 282]
 ```
 
-2026-10-18 282 → 2026-10-28 283（+1）
+2026-10-18 282 → 2026-10-29 282（+0）
 
 
 ---

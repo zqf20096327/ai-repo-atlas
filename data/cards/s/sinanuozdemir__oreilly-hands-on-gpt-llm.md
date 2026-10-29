@@ -44,12 +44,12 @@ O'Reilly Live Online 培训《Deploying GPT & Large Language Models》的代码�
 ```mermaid
 xychart-beta
     title "sinanuozdemir/oreilly-hands-on-gpt-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 144 --> 146
     line [145, 145]
 ```
 
-2026-10-18 145 → 2026-10-28 145（+0）
+2026-10-18 145 → 2026-10-29 145（+0）
 
 
 ---

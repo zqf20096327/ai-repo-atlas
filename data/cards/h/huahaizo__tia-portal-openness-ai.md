@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huahaizo/tia-portal-openness-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "huahaizo/tia-portal-openness-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 76 --> 79
-    line [77, 78]
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-10-28 78（+1）
+2026-10-18 77 → 2026-10-29 78（+1）
 
 
 ---

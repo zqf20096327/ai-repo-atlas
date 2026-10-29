@@ -47,12 +47,12 @@ Rust 编写的沙箱执行框架：以 Firecracker microVM（宣称低于 125ms 
 ```mermaid
 xychart-beta
     title "thrashr888/agentkernel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-28 59（+0）
+2026-10-18 59 → 2026-10-29 59（+0）
 
 
 ---

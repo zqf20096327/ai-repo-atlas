@@ -44,12 +44,12 @@ V. Cerqueira 等人 2022 年发表于 Journal of Intelligent Information Systems
 ```mermaid
 xychart-beta
     title "vcerqueira/experiments-sizematters 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-28 41（+0）
+2026-10-18 41 → 2026-10-29 41（+0）
 
 
 ---

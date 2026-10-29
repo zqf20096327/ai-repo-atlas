@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/retrieval-agent-template-js 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "langchain-ai/retrieval-agent-template-js 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 34 --> 37
-    line [36, 35, 36]
+    line [36, 35, 36, 36]
 ```
 
-2026-10-18 36 → 2026-10-28 36（+0）
+2026-10-18 36 → 2026-10-29 36（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphaevolve_repository_of_problems 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "google-deepmind/alphaevolve_repository_of_problems 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 237 --> 240
-    line [238, 239]
+    line [238, 239, 239]
 ```
 
-2026-10-18 238 → 2026-10-28 239（+1）
+2026-10-18 238 → 2026-10-29 239（+1）
 
 
 ---

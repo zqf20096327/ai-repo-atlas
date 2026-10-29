@@ -45,13 +45,13 @@ Qt/Quickshell 编写的 DankMaterialShell（DMS）插件，面向 Linux 桌面�
 
 ```mermaid
 xychart-beta
-    title "bernardopg/AiOverviewControl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28"]
+    title "bernardopg/AiOverviewControl 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 22 --> 29
-    line [23, 24, 26, 28]
+    line [23, 24, 26, 28, 28]
 ```
 
-2026-10-18 23 → 2026-10-28 28（+5）
+2026-10-18 23 → 2026-10-29 28（+5）
 
 
 ---

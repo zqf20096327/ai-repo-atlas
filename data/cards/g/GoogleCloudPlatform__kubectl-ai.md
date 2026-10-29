@@ -45,13 +45,13 @@ Google Cloud Platform 维护的 kubectl 插件/CLI，用 LLM 将自然语言意�
 
 ```mermaid
 xychart-beta
-    title "GoogleCloudPlatform/kubectl-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 7589 --> 7595
-    line [7590, 7594, 7592, 7593]
+    title "GoogleCloudPlatform/kubectl-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 7589 --> 7598
+    line [7590, 7594, 7592, 7593, 7597]
 ```
 
-2026-10-18 7,590 → 2026-10-28 7,593（+3）
+2026-10-18 7,590 → 2026-10-29 7,597（+7）
 
 
 ---

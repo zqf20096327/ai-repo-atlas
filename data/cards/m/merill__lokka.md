@@ -44,13 +44,13 @@ Lokka 是一个 Model Context Protocol (MCP) 服务器，封装 Microsoft Graph 
 
 ```mermaid
 xychart-beta
-    title "merill/lokka 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 305 --> 309
-    line [306, 307, 308]
+    title "merill/lokka 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 305 --> 311
+    line [306, 307, 308, 310]
 ```
 
-2026-10-18 306 → 2026-10-28 308（+2）
+2026-10-18 306 → 2026-10-29 310（+4）
 
 
 ---

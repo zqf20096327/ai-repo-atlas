@@ -44,13 +44,13 @@ DeepSeek Harness（dsh）的 Cordis 插件，将「玄枢」中华传统智慧 S
 
 ```mermaid
 xychart-beta
-    title "dhicoc/dsh-chinese-traditional-wisdom-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    title "dhicoc/dsh-chinese-traditional-wisdom-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 54 --> 61
-    line [55, 56, 57, 59, 60]
+    line [55, 56, 57, 59, 60, 60]
 ```
 
-2026-10-18 55 → 2026-10-28 60（+5）
+2026-10-18 55 → 2026-10-29 60（+5）
 
 
 ---

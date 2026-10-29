@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smile-struggler/kaomian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "smile-struggler/kaomian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 94 --> 97
-    line [96, 95]
+    line [96, 95, 95]
 ```
 
-2026-10-18 96 → 2026-10-28 95（-1）
+2026-10-18 96 → 2026-10-29 95（-1）
 
 
 ---

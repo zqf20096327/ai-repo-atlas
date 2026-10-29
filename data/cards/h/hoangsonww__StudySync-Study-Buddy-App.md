@@ -45,12 +45,12 @@ Vue+Vuetify 前端与 Node/Express 后端构成的学习生产力 Web 应用，�
 ```mermaid
 xychart-beta
     title "hoangsonww/StudySync-Study-Buddy-App 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-28 29（+1）
+2026-10-18 28 → 2026-10-29 29（+1）
 
 
 ---

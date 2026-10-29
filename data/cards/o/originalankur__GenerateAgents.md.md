@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "originalankur/GenerateAgents.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 257 --> 259
-    line [258, 258]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 257 --> 260
+    line [258, 259]
 ```
 
-2026-10-18 258 → 2026-10-28 258（+0）
+2026-10-18 258 → 2026-10-29 259（+1）
 
 
 ---

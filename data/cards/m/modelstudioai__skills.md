@@ -45,13 +45,13 @@ ModelStudio 团队维护的 Agent Skills 集合，分两类：一方技能（本
 
 ```mermaid
 xychart-beta
-    title "modelstudioai/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "modelstudioai/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 56 --> 59
-    line [57, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-10-28 58（+1）
+2026-10-18 57 → 2026-10-29 58（+1）
 
 
 ---

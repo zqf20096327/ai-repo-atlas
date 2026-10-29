@@ -45,12 +45,12 @@ Anything 是用 Rust 编写的全栈 AI 自动化框架，提供拖拽式 Workfl
 ```mermaid
 xychart-beta
     title "tryanything-ai/anything 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 312 --> 314
     line [313, 313]
 ```
 
-2026-10-18 313 → 2026-10-28 313（+0）
+2026-10-18 313 → 2026-10-29 313（+0）
 
 
 ---

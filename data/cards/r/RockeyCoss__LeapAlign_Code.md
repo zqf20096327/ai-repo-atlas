@@ -46,12 +46,12 @@ CVPR2026 论文的官方 PyTorch 实现，来自 ANU 与 ByteDance Seed。LeapAl
 ```mermaid
 xychart-beta
     title "RockeyCoss/LeapAlign_Code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
     y-axis "stars" 59 --> 62
     line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-10-28 61（+1）
+2026-10-18 60 → 2026-10-29 61（+1）
 
 
 ---

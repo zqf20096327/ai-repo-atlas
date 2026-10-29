@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Imalwayshere/Open-Detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Imalwayshere/Open-Detector 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 248 --> 251
-    line [249, 250]
+    line [249, 250, 250]
 ```
 
-2026-10-18 249 → 2026-10-28 250（+1）
+2026-10-18 249 → 2026-10-29 250（+1）
 
 
 ---

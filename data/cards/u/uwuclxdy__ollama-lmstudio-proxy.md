@@ -46,12 +46,12 @@ Rust 编写的代理服务器：对外提供全套 Ollama API 端点（chat/gene
 ```mermaid
 xychart-beta
     title "uwuclxdy/ollama-lmstudio-proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-28 33（+0）
+2026-10-18 33 → 2026-10-29 33（+0）
 
 
 ---

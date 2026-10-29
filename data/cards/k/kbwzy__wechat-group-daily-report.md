@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbwzy/wechat-group-daily-report 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28"]
+    title "kbwzy/wechat-group-daily-report 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 11 --> 25
-    line [12, 23, 24]
+    line [12, 23, 24, 24]
 ```
 
-2026-10-26 12 → 2026-10-28 24（+12）
+2026-10-26 12 → 2026-10-29 24（+12）
 
 
 ---

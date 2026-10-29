@@ -44,13 +44,13 @@ DeepSNAP 是一个协助图深度学习的 Python 库，定位在图操作库 Ne
 
 ```mermaid
 xychart-beta
-    title "snap-stanford/deepsnap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "snap-stanford/deepsnap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 572 --> 575
-    line [574, 573]
+    line [574, 573, 573]
 ```
 
-2026-10-18 574 → 2026-10-28 573（-1）
+2026-10-18 574 → 2026-10-29 573（-1）
 
 
 ---

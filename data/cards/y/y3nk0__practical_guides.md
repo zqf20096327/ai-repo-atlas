@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "y3nk0/practical_guides 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 53 --> 68
-    line [54, 67]
+    title "y3nk0/practical_guides 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 52 --> 78
+    line [54, 67, 76]
 ```
 
-2026-10-26 54 → 2026-10-28 67（+13）
+2026-10-26 54 → 2026-10-29 76（+22）
 
 
 ---

@@ -44,13 +44,13 @@ STMicroelectronics 维护的 AI 模型 zoo 服务集合：提供训练/微调（
 
 ```mermaid
 xychart-beta
-    title "STMicroelectronics/stm32ai-modelzoo-services 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "STMicroelectronics/stm32ai-modelzoo-services 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 164 --> 168
-    line [165, 166, 167]
+    line [165, 166, 167, 167]
 ```
 
-2026-10-18 165 → 2026-10-28 167（+2）
+2026-10-18 165 → 2026-10-29 167（+2）
 
 
 ---

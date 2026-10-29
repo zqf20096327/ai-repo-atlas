@@ -44,12 +44,12 @@ Liveblocks 官方发布的 MCP server：把 Liveblocks REST API 的功能暴露�
 ```mermaid
 xychart-beta
     title "liveblocks/liveblocks-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

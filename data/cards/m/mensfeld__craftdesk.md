@@ -46,12 +46,12 @@ CraftDesk CLI 是一个 Node.js 命令行工具，为 Claude Code 等 AI 开发�
 ```mermaid
 xychart-beta
     title "mensfeld/craftdesk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-28 67（+0）
+2026-10-18 67 → 2026-10-29 67（+0）
 
 
 ---

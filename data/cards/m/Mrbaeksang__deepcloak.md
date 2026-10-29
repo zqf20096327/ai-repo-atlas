@@ -45,12 +45,12 @@ DeepCloak 是封装 local-deep-research 与 CloakBrowser 的本地优先研究�
 ```mermaid
 xychart-beta
     title "Mrbaeksang/deepcloak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-28 60（+0）
+2026-10-18 60 → 2026-10-29 60（+0）
 
 
 ---

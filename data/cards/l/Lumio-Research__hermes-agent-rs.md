@@ -45,13 +45,13 @@ Nous Research Hermes Agent 的 Rust 重写版：以单一静态二进制（约 1
 
 ```mermaid
 xychart-beta
-    title "Lumio-Research/hermes-agent-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    title "Lumio-Research/hermes-agent-rs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 95 --> 101
-    line [96, 98, 99, 100]
+    line [96, 98, 99, 100, 100]
 ```
 
-2026-10-18 96 → 2026-10-28 100（+4）
+2026-10-18 96 → 2026-10-29 100（+4）
 
 
 ---

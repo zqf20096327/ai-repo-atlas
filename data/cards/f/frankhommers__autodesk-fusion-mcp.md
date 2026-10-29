@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frankhommers/autodesk-fusion-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 27 --> 33
-    line [28, 29, 31, 32]
+    title "frankhommers/autodesk-fusion-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 31, 32, 33]
 ```
 
-2026-10-18 28 → 2026-10-28 32（+4）
+2026-10-18 28 → 2026-10-29 33（+5）
 
 
 ---

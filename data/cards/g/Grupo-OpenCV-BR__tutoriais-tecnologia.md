@@ -44,12 +44,12 @@ OpenCVismo 巴西社区维护的 MkDocs 文档站点，收录计算机视觉与�
 ```mermaid
 xychart-beta
     title "Grupo-OpenCV-BR/tutoriais-tecnologia 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 153 --> 155
     line [154, 154]
 ```
 
-2026-10-26 154 → 2026-10-28 154（+0）
+2026-10-26 154 → 2026-10-29 154（+0）
 
 
 ---

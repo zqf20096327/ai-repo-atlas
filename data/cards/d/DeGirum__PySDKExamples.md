@@ -45,12 +45,12 @@ DeGirum 公司维护的 PySDK 官方示例仓库，以 Jupyter 笔记本演示�
 ```mermaid
 xychart-beta
     title "DeGirum/PySDKExamples 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-28 47（+0）
+2026-10-18 47 → 2026-10-29 47（+0）
 
 
 ---

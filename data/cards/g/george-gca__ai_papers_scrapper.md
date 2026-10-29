@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "george-gca/ai_papers_scrapper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "george-gca/ai_papers_scrapper 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 51 --> 54
-    line [53, 52]
+    line [53, 52, 52]
 ```
 
-2026-10-18 53 → 2026-10-28 52（-1）
+2026-10-18 53 → 2026-10-29 52（-1）
 
 
 ---

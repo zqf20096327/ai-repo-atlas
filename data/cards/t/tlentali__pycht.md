@@ -45,12 +45,12 @@ pycht 读取输入图片，用 Scikit-Learn 的 K-Means 对像素按颜色聚类
 ```mermaid
 xychart-beta
     title "tlentali/pycht 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-28 25（+0）
+2026-10-18 25 → 2026-10-29 25（+0）
 
 
 ---

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "facefusion/facefusion-pinokio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "facefusion/facefusion-pinokio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 406 --> 409
-    line [407, 408]
+    line [407, 408, 408]
 ```
 
-2026-10-18 407 → 2026-10-28 408（+1）
+2026-10-18 407 → 2026-10-29 408（+1）
 
 
 ---

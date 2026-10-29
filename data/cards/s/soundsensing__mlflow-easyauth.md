@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "soundsensing/mlflow-easyauth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "soundsensing/mlflow-easyauth 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 101 --> 104
-    line [103, 102]
+    line [103, 102, 102]
 ```
 
-2026-10-18 103 → 2026-10-28 102（-1）
+2026-10-18 103 → 2026-10-29 102（-1）
 
 
 ---

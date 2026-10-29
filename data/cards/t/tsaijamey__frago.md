@@ -45,13 +45,13 @@ frago 定位为 AI agent 操作系统（Agent OS），本体不产出模型，�
 
 ```mermaid
 xychart-beta
-    title "tsaijamey/frago 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "tsaijamey/frago 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 112 --> 115
-    line [114, 113]
+    line [114, 113, 113]
 ```
 
-2026-10-18 114 → 2026-10-28 113（-1）
+2026-10-18 114 → 2026-10-29 113（-1）
 
 
 ---

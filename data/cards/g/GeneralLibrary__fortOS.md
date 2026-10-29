@@ -45,12 +45,12 @@ FortOS 是一个构建于 .NET 10 之上的 Linux NAS 操作系统，可经 Debi
 ```mermaid
 xychart-beta
     title "GeneralLibrary/fortOS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanmukh05/Machine-Learning-Roadmap 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "shanmukh05/Machine-Learning-Roadmap 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 527 --> 532
-    line [528, 529, 531]
+    line [528, 529, 531, 531]
 ```
 
-2026-10-18 528 → 2026-10-28 531（+3）
+2026-10-18 528 → 2026-10-29 531（+3）
 
 
 ---

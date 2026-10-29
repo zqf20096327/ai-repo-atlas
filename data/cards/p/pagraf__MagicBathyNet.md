@@ -45,12 +45,12 @@ MagicBathyNet 是由 MagicBathy 项目（欧盟 HORIZON Europe 资助）发布�
 ```mermaid
 xychart-beta
     title "pagraf/MagicBathyNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-28 53（+0）
+2026-10-18 53 → 2026-10-29 53（+0）
 
 
 ---

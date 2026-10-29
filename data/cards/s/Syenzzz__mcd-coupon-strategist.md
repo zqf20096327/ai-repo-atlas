@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Syenzzz/mcd-coupon-strategist 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 989 --> 993
-    line [990, 992]
+    title "Syenzzz/mcd-coupon-strategist 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 989 --> 994
+    line [990, 992, 993]
 ```
 
-2026-10-26 990 → 2026-10-28 992（+2）
+2026-10-26 990 → 2026-10-29 993（+3）
 
 
 ---

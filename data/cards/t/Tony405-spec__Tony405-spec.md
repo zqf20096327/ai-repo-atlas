@@ -38,6 +38,18 @@ Tony Kenga（内罗毕数据科学本科应届生）的个人 GitHub 主页 READ
 > L3:  Tony Kenga · Machine Learning Engineer in the making · Nairobi, Kenya
 > L28: **Final-year project.** An ML platform that predicts a developer's technology trajectory from skill and activity si
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tony405-spec/Tony405-spec 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-28 25 → 2026-10-29 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `c8d6301fabea` · [字段定义](../../DATASET.md)*

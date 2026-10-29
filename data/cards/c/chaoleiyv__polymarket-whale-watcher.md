@@ -46,12 +46,12 @@ Python 3.10+ 程序：实时监控 Polymarket 700+ 活跃市场（按交易量�
 ```mermaid
 xychart-beta
     title "chaoleiyv/polymarket-whale-watcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 214 --> 216
     line [215, 215]
 ```
 
-2026-10-18 215 → 2026-10-28 215（+0）
+2026-10-18 215 → 2026-10-29 215（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L9: This project focuses on developing an optimized deep learning model for handwritten digit recognition, with an empha
 > L189: MNISTVision uses a custom convolutional neural network designed for handwritten digit classification.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aliasgharebrahimi/MNISTVision 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 14 --> 90
+    line [20, 84]
+```
+
+2026-10-28 20 → 2026-10-29 84（+64）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `3f615436e6d6` · [字段定义](../../DATASET.md)*

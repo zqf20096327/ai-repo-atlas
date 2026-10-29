@@ -45,12 +45,12 @@ Transformers、Diffusers、Sentence Transformers 与 timm 库和 OpenVINO 工具
 ```mermaid
 xychart-beta
     title "huggingface/optimum-intel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
     y-axis "stars" 622 --> 625
     line [623, 624, 623, 623]
 ```
 
-2026-10-18 623 → 2026-10-28 623（+0）
+2026-10-18 623 → 2026-10-29 623（+0）
 
 
 ---

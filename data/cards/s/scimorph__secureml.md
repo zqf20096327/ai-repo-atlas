@@ -46,12 +46,12 @@ SecureML 是一个开源 Python 库，与 TensorFlow 和 PyTorch 集成，为开
 ```mermaid
 xychart-beta
     title "scimorph/secureml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-28 37（+0）
+2026-10-18 37 → 2026-10-29 37（+0）
 
 
 ---

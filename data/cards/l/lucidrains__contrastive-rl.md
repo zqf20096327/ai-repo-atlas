@@ -44,13 +44,13 @@ lucidrains 维护的对比强化学习研究实现：将对比学习与目标条
 
 ```mermaid
 xychart-beta
-    title "lucidrains/contrastive-rl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "lucidrains/contrastive-rl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 72 --> 75
-    line [73, 74]
+    line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-10-28 74（+1）
+2026-10-18 73 → 2026-10-29 74（+1）
 
 
 ---

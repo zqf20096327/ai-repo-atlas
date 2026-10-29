@@ -45,13 +45,13 @@ Python 实现的 YOLO 目标检测自瞄工具，面向 FPS/TPS 游戏玩家：�
 
 ```mermaid
 xychart-beta
-    title "ReksarGames/RN_AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "ReksarGames/RN_AI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 47 --> 51
-    line [48, 50]
+    line [48, 50, 50]
 ```
 
-2026-10-18 48 → 2026-10-28 50（+2）
+2026-10-18 48 → 2026-10-29 50（+2）
 
 
 ---

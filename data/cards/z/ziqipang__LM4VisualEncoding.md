@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ziqipang/LM4VisualEncoding 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "ziqipang/LM4VisualEncoding 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 244 --> 247
-    line [245, 246]
+    line [245, 246, 246]
 ```
 
-2026-10-18 245 → 2026-10-28 246（+1）
+2026-10-18 245 → 2026-10-29 246（+1）
 
 
 ---

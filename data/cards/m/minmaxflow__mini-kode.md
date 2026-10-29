@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "minmaxflow/mini-kode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 305 --> 308
-    line [307, 306]
+    title "minmaxflow/mini-kode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 304 --> 308
+    line [307, 306, 305]
 ```
 
-2026-10-18 307 → 2026-10-28 306（-1）
+2026-10-18 307 → 2026-10-29 305（-2）
 
 
 ---

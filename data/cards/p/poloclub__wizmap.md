@@ -45,13 +45,13 @@ Georgia Tech Polo Club 出品的嵌入可视化工具：通过多分辨率嵌入
 
 ```mermaid
 xychart-beta
-    title "poloclub/wizmap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "poloclub/wizmap 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 538 --> 541
-    line [540, 539]
+    line [540, 539, 539]
 ```
 
-2026-10-18 540 → 2026-10-28 539（-1）
+2026-10-18 540 → 2026-10-29 539（-1）
 
 
 ---

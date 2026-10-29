@@ -44,13 +44,13 @@ Seeed Projects 维护的分章教程仓库：教授在 Raspberry Pi 上利用 AI
 
 ```mermaid
 xychart-beta
-    title "Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    title "Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 313 --> 318
-    line [314, 315, 316, 317]
+    line [314, 315, 316, 317, 317]
 ```
 
-2026-10-18 314 → 2026-10-28 317（+3）
+2026-10-18 314 → 2026-10-29 317（+3）
 
 
 ---

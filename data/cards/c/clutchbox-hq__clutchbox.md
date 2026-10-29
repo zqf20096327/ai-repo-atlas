@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "clutchbox-hq/clutchbox 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 16 --> 22
-    line [17, 21]
+    title "clutchbox-hq/clutchbox 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 16 --> 27
+    line [17, 21, 26]
 ```
 
-2026-10-26 17 → 2026-10-28 21（+4）
+2026-10-26 17 → 2026-10-29 26（+9）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "easyeda/eext-run-api-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 92 --> 96
-    line [93, 94, 95]
+    title "easyeda/eext-run-api-gateway 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 95, 96]
 ```
 
-2026-10-18 93 → 2026-10-28 95（+2）
+2026-10-18 93 → 2026-10-29 96（+3）
 
 
 ---

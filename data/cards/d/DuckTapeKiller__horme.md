@@ -45,12 +45,12 @@ Obsidian 社区插件，通过本地 LLM（默认 Ollama 或 LM Studio，无需 
 ```mermaid
 xychart-beta
     title "DuckTapeKiller/horme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-28 22（+0）
+2026-10-18 22 → 2026-10-29 22（+0）
 
 
 ---

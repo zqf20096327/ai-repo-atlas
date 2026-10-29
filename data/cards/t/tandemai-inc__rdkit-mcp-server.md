@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tandemai-inc/rdkit-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 45]
+    title "tandemai-inc/rdkit-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 45, 46]
 ```
 
-2026-10-18 42 → 2026-10-28 45（+3）
+2026-10-18 42 → 2026-10-29 46（+4）
 
 
 ---

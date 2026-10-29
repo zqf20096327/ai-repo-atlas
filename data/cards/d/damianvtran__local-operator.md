@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "damianvtran/local-operator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 217 --> 224
-    line [218, 223]
+    title "damianvtran/local-operator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 217 --> 227
+    line [218, 223, 226]
 ```
 
-2026-10-18 218 → 2026-10-28 223（+5）
+2026-10-18 218 → 2026-10-29 226（+8）
 
 
 ---

@@ -46,12 +46,12 @@ repo-first、spec-driven 的小红书内容工作流框架：以 brand/strategy 
 ```mermaid
 xychart-beta
     title "liyown/XHSSpec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-28 47（+0）
+2026-10-18 47 → 2026-10-29 47（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aham-AIAPP/aham-voice 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-28"]
-    y-axis "stars" 19 --> 22
-    line [20, 21]
+    title "Aham-AIAPP/aham-voice 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-22 20 → 2026-10-28 21（+1）
+2026-10-22 20 → 2026-10-29 22（+2）
 
 
 ---

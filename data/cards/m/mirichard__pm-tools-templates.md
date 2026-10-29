@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mirichard/pm-tools-templates 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    title "mirichard/pm-tools-templates 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 24]
+    line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-10-28 24（+2）
+2026-10-18 22 → 2026-10-29 24（+2）
 
 
 ---

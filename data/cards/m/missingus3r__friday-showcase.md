@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "missingus3r/friday-showcase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "missingus3r/friday-showcase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 194 --> 197
-    line [196, 195]
+    line [196, 195, 195]
 ```
 
-2026-10-18 196 → 2026-10-28 195（-1）
+2026-10-18 196 → 2026-10-29 195（-1）
 
 
 ---

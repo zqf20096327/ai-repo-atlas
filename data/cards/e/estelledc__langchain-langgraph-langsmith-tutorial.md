@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "estelledc/langchain-langgraph-langsmith-tutorial 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
     y-axis "stars" 35 --> 38
     line [37, 36, 36]
 ```
 
-2026-10-18 37 → 2026-10-28 36（-1）
+2026-10-18 37 → 2026-10-29 36（-1）
 
 
 ---

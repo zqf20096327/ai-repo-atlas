@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ScrapeGraphAI/Scrapegraph-demo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    title "ScrapeGraphAI/Scrapegraph-demo 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 115 --> 121
-    line [116, 117, 120]
+    line [116, 117, 120, 120]
 ```
 
-2026-10-18 116 → 2026-10-28 120（+4）
+2026-10-18 116 → 2026-10-29 120（+4）
 
 
 ---

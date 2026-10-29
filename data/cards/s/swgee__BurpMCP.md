@@ -45,12 +45,12 @@ Burp Suite 扩展，内置 MCP Server 对接 Burp 扩展 API，使 Claude Deskto
 ```mermaid
 xychart-beta
     title "swgee/BurpMCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 54 --> 58
     line [55, 57, 57]
 ```
 
-2026-10-18 55 → 2026-10-28 57（+2）
+2026-10-18 55 → 2026-10-29 57（+2）
 
 
 ---

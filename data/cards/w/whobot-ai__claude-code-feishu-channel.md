@@ -45,12 +45,12 @@ Claude Code 的社区飞书（Feishu/Lark）Channel 插件，以本地 MCP 服�
 ```mermaid
 xychart-beta
     title "whobot-ai/claude-code-feishu-channel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-10-28 27（+1）
+2026-10-18 26 → 2026-10-29 27（+1）
 
 
 ---

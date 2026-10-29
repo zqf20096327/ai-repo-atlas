@@ -49,12 +49,12 @@ Deepgram 官方 JavaScript/TypeScript SDK，封装其自动语音识别（STT）
 ```mermaid
 xychart-beta
     title "deepgram/deepgram-js-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 276 --> 278
     line [277, 277]
 ```
 
-2026-10-18 277 → 2026-10-28 277（+0）
+2026-10-18 277 → 2026-10-29 277（+0）
 
 
 ---

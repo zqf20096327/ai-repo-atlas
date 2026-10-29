@@ -47,12 +47,12 @@ ModelStudio 推出的桌面应用，供用户在本地与 AI agent 协作：多�
 ```mermaid
 xychart-beta
     title "modelstudioai/openwork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

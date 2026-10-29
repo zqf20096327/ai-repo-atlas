@@ -45,13 +45,13 @@ AWS 官方示例仓库，构建于 AWS CDK 无服务器架构（Cognito、Lambda
 
 ```mermaid
 xychart-beta
-    title "aws-samples/serverless-genai-food-analyzer-app 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
+    title "aws-samples/serverless-genai-food-analyzer-app 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 93 --> 97
-    line [96, 94, 95]
+    line [96, 94, 95, 95]
 ```
 
-2026-10-18 96 → 2026-10-28 95（-1）
+2026-10-18 96 → 2026-10-29 95（-1）
 
 
 ---

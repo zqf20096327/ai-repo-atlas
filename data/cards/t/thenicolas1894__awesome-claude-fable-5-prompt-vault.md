@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thenicolas1894/awesome-claude-fable-5-prompt-vault 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "thenicolas1894/awesome-claude-fable-5-prompt-vault 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 139 --> 142
-    line [141, 140]
+    line [141, 140, 140]
 ```
 
-2026-10-18 141 → 2026-10-28 140（-1）
+2026-10-18 141 → 2026-10-29 140（-1）
 
 
 ---

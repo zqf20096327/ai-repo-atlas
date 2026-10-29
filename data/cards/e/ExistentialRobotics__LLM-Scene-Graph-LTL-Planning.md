@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ExistentialRobotics/LLM-Scene-Graph-LTL-Planning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-28 38（+0）
+2026-10-18 38 → 2026-10-29 38（+0）
 
 
 ---

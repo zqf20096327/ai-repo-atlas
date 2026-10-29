@@ -45,12 +45,12 @@ mariadb-operator 是一个用 Go 编写的 Kubernetes operator，通过自定义
 ```mermaid
 xychart-beta
     title "mariadb-operator/mariadb-operator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 1026 --> 1029
-    line [1027, 1028, 1028]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    y-axis "stars" 1026 --> 1031
+    line [1027, 1028, 1030]
 ```
 
-2026-10-18 1,027 → 2026-10-28 1,028（+1）
+2026-10-18 1,027 → 2026-10-29 1,030（+3）
 
 
 ---

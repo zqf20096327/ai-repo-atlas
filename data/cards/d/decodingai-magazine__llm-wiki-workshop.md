@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/llm-wiki-workshop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28"]
-    y-axis "stars" 33 --> 41
-    line [34, 37, 39, 40]
+    title "decodingai-magazine/llm-wiki-workshop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 33 --> 42
+    line [34, 37, 39, 40, 41]
 ```
 
-2026-10-18 34 → 2026-10-28 40（+6）
+2026-10-18 34 → 2026-10-29 41（+7）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HazelnutParadise/insyra 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-26", "2026-10-29"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-26 57 → 2026-10-28 57（+0）
+2026-10-26 57 → 2026-10-29 58（+1）
 
 
 ---

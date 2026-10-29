@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nxtg-ai/forge-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "nxtg-ai/forge-orchestrator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 161 --> 164
-    line [162, 163]
+    line [162, 163, 163]
 ```
 
-2026-10-18 162 → 2026-10-28 163（+1）
+2026-10-18 162 → 2026-10-29 163（+1）
 
 
 ---

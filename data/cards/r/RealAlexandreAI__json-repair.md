@@ -45,12 +45,12 @@ json_repair 的 Go 移植，模块为 github.com/RealAlexandreAI/json-repair，G
 ```mermaid
 xychart-beta
     title "RealAlexandreAI/json-repair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 383 --> 385
     line [384, 384]
 ```
 
-2026-10-18 384 → 2026-10-28 384（+0）
+2026-10-18 384 → 2026-10-29 384（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NosytLabs/openclaw-droid 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    title "NosytLabs/openclaw-droid 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 33 --> 51
-    line [34, 50]
+    line [34, 50, 50]
 ```
 
-2026-10-26 34 → 2026-10-28 50（+16）
+2026-10-26 34 → 2026-10-29 50（+16）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "analyticalrohit/pytorch_fundamentals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    title "analyticalrohit/pytorch_fundamentals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
     y-axis "stars" 1055 --> 1058
-    line [1056, 1057, 1056]
+    line [1056, 1057, 1056, 1056]
 ```
 
-2026-10-18 1,056 → 2026-10-28 1,056（+0）
+2026-10-18 1,056 → 2026-10-29 1,056（+0）
 
 
 ---

@@ -44,12 +44,12 @@ TMLR 2026 综述论文 Beyond Single-Turn 的配套 GitHub 仓库，按任务类
 ```mermaid
 xychart-beta
     title "yubol-bobo/Awesome-Multi-Turn-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 212 --> 214
     line [213, 213]
 ```
 
-2026-10-18 213 → 2026-10-28 213（+0）
+2026-10-18 213 → 2026-10-29 213（+0）
 
 
 ---

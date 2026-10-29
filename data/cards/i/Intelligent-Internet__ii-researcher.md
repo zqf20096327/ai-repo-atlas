@@ -46,12 +46,12 @@ Intelligent Internet 开发的开源深度搜索 agent：给定问题后自主�
 ```mermaid
 xychart-beta
     title "Intelligent-Internet/ii-researcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
-    y-axis "stars" 502 --> 505
-    line [503, 504, 504]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    y-axis "stars" 502 --> 506
+    line [503, 504, 505]
 ```
 
-2026-10-18 503 → 2026-10-28 504（+1）
+2026-10-18 503 → 2026-10-29 505（+2）
 
 
 ---

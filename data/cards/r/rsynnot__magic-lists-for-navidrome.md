@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rsynnot/magic-lists-for-navidrome 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "rsynnot/magic-lists-for-navidrome 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 246 --> 249
-    line [247, 248]
+    line [247, 248, 248]
 ```
 
-2026-10-18 247 → 2026-10-28 248（+1）
+2026-10-18 247 → 2026-10-29 248（+1）
 
 
 ---

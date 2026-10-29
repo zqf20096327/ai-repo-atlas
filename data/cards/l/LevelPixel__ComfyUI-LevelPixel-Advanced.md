@@ -45,12 +45,12 @@ Level Pixel 维护的 ComfyUI 节点包，收集在 ComfyUI 工作流中运行 G
 ```mermaid
 xychart-beta
     title "LevelPixel/ComfyUI-LevelPixel-Advanced 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-28 22（+0）
+2026-10-18 22 → 2026-10-29 22（+0）
 
 
 ---

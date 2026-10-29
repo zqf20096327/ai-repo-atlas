@@ -40,6 +40,18 @@
 > L37: This library contains 9 modules, each of which can be used independently within your existing codebase, or combined
 > L44: Let’s initialize a plain TripletMarginLoss:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KevinMusgrave/pytorch-metric-learning 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 6343 --> 6345
+    line [6344, 6344]
+```
+
+2026-10-28 6,344 → 2026-10-29 6,344（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `e2a03b8094e5` · [字段定义](../../DATASET.md)*

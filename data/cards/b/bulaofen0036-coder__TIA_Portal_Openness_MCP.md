@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bulaofen0036-coder/TIA_Portal_Openness_MCP 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 354 --> 357
-    line [355, 356]
+    title "bulaofen0036-coder/TIA_Portal_Openness_MCP 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 354 --> 362
+    line [355, 356, 361]
 ```
 
-2026-10-26 355 → 2026-10-28 356（+1）
+2026-10-26 355 → 2026-10-29 361（+6）
 
 
 ---

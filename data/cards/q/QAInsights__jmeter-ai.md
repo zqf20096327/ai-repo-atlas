@@ -46,12 +46,12 @@ Feather Wand 是嵌入 Apache JMeter 的 AI 插件（jmeter-ai），面向性能
 ```mermaid
 xychart-beta
     title "QAInsights/jmeter-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
     y-axis "stars" 63 --> 66
     line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-10-28 65（+1）
+2026-10-18 64 → 2026-10-29 65（+1）
 
 
 ---

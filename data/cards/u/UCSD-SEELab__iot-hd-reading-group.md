@@ -44,12 +44,12 @@ UCSD SEELab 维护的论文阅读小组仓库：以表格形式收录 AI 会议�
 ```mermaid
 xychart-beta
     title "UCSD-SEELab/iot-hd-reading-group 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-28 37（+0）
+2026-10-18 37 → 2026-10-29 37（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Netresearch 开发的 Agent Skill，按 agents.md 规范生成并维护 AGENTS.m
 ```mermaid
 xychart-beta
     title "netresearch/agent-rules-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-28 88（+0）
+2026-10-18 88 → 2026-10-29 88（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Deepnote 官方维护的 Python 工具包，支撑 Deepnote Cloud 与开源版�
 ```mermaid
 xychart-beta
     title "deepnote/deepnote-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-28 27（+0）
+2026-10-18 27 → 2026-10-29 27（+0）
 
 
 ---

@@ -43,13 +43,13 @@ RunPod 官方维护的 serverless worker 项目：以容器形式运行 Automati
 
 ```mermaid
 xychart-beta
-    title "runpod-workers/worker-a1111 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "runpod-workers/worker-a1111 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 99 --> 102
-    line [101, 100]
+    line [101, 100, 100]
 ```
 
-2026-10-18 101 → 2026-10-28 100（-1）
+2026-10-18 101 → 2026-10-29 100（-1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hero-mike/Android-Mobile-Security-Sandbox-Testing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "hero-mike/Android-Mobile-Security-Sandbox-Testing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 128 --> 133
-    line [129, 132, 131]
+    line [129, 132, 131, 131]
 ```
 
-2026-10-18 129 → 2026-10-28 131（+2）
+2026-10-18 129 → 2026-10-29 131（+2）
 
 
 ---

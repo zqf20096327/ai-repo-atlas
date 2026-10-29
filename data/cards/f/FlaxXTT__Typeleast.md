@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlaxXTT/Typeleast 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 18 --> 21
-    line [20, 19]
+    title "FlaxXTT/Typeleast 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 18 --> 33
+    line [20, 19, 32]
 ```
 
-2026-10-26 20 → 2026-10-28 19（-1）
+2026-10-26 20 → 2026-10-29 32（+12）
 
 
 ---

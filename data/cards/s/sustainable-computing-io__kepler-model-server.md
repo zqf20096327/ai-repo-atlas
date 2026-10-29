@@ -44,12 +44,12 @@ Kepler 项目的模型服务器组件，包含模型服务器、estimator、离�
 ```mermaid
 xychart-beta
     title "sustainable-computing-io/kepler-model-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-28 30（+0）
+2026-10-18 30 → 2026-10-29 30（+0）
 
 
 ---

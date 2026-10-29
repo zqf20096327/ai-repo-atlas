@@ -45,12 +45,12 @@ Chrome Manifest V3 扩展，在用户向 ChatGPT、Claude、Gemini 等 AI 聊天
 ```mermaid
 xychart-beta
     title "privacyshield-ai/privacy-firewall 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
     y-axis "stars" 243 --> 246
     line [245, 244, 245, 245]
 ```
 
-2026-10-18 245 → 2026-10-28 245（+0）
+2026-10-18 245 → 2026-10-29 245（+0）
 
 
 ---

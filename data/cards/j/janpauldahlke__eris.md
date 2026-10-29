@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "janpauldahlke/eris 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "janpauldahlke/eris 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 28 --> 31
-    line [30, 29]
+    line [30, 29, 29]
 ```
 
-2026-10-18 30 → 2026-10-28 29（-1）
+2026-10-18 30 → 2026-10-29 29（-1）
 
 
 ---

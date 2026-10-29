@@ -45,12 +45,12 @@ Zilliz 维护的 Kubernetes Operator，通过 Milvus 自定义资源以声明式
 ```mermaid
 xychart-beta
     title "zilliztech/milvus-operator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
     y-axis "stars" 133 --> 136
     line [134, 135, 135]
 ```
 
-2026-10-18 134 → 2026-10-28 135（+1）
+2026-10-18 134 → 2026-10-29 135（+1）
 
 
 ---

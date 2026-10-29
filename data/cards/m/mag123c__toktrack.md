@@ -46,12 +46,12 @@ Rust 编写的 CLI/TUI 工具，读取 Claude Code、GitHub Copilot CLI、Codex 
 ```mermaid
 xychart-beta
     title "mag123c/toktrack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
     y-axis "stars" 194 --> 197
     line [195, 196, 196]
 ```
 
-2026-10-18 195 → 2026-10-28 196（+1）
+2026-10-18 195 → 2026-10-29 196（+1）
 
 
 ---

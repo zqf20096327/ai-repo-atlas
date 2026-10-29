@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "somastllc/nlp-for-machine-learning-bootcamp 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28"]
+    title "somastllc/nlp-for-machine-learning-bootcamp 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 13 --> 33
-    line [14, 25, 31, 32]
+    line [14, 25, 31, 32, 32]
 ```
 
-2026-10-25 14 → 2026-10-28 32（+18）
+2026-10-25 14 → 2026-10-29 32（+18）
 
 
 ---

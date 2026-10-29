@@ -44,13 +44,13 @@ AgentLens 是 trust-first 的 AI Agent 市场与工作台：用户可发现任�
 
 ```mermaid
 xychart-beta
-    title "ZhangJinHaHaHa/AgentLens 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28"]
-    y-axis "stars" 1013 --> 1021
-    line [1020, 1015, 1014]
+    title "ZhangJinHaHaHa/AgentLens 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 1012 --> 1021
+    line [1020, 1015, 1014, 1013]
 ```
 
-2026-10-18 1,020 → 2026-10-28 1,014（-6）
+2026-10-18 1,020 → 2026-10-29 1,013（-7）
 
 
 ---

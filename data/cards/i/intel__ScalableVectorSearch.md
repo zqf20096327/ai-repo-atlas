@@ -45,13 +45,13 @@ Intel 维护的 C++ 向量相似度检索库，提供 Python API，支持欧氏�
 
 ```mermaid
 xychart-beta
-    title "intel/ScalableVectorSearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "intel/ScalableVectorSearch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 238 --> 241
-    line [239, 240]
+    line [239, 240, 240]
 ```
 
-2026-10-18 239 → 2026-10-28 240（+1）
+2026-10-18 239 → 2026-10-29 240（+1）
 
 
 ---

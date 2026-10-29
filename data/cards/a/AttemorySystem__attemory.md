@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AttemorySystem/attemory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
-    y-axis "stars" 54 --> 57
-    line [56, 55, 56]
+    title "AttemorySystem/attemory 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 54 --> 58
+    line [56, 55, 56, 57]
 ```
 
-2026-10-18 56 → 2026-10-28 56（+0）
+2026-10-18 56 → 2026-10-29 57（+1）
 
 
 ---

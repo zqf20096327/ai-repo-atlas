@@ -41,6 +41,18 @@
 > L13: The router classifies only the first turn. High-confidence routes send a smaller tool schema to the main model; unc
 > L21: OpenRouter is used only for the small first-turn classification request; it does not replace your main Hermes model
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/hermes-tool-router 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 131 --> 133
+    line [132, 132]
+```
+
+2026-10-28 132 → 2026-10-29 132（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `bc06f8cf35b1` · [字段定义](../../DATASET.md)*

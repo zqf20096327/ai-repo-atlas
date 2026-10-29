@@ -45,12 +45,12 @@ Electron + React + TypeScript 构建的桌面 AI Companion，以悬浮球形态�
 ```mermaid
 xychart-beta
     title "DjTaNg-404/Desktop-Claw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-28 33（+0）
+2026-10-18 33 → 2026-10-29 34（+1）
 
 
 ---

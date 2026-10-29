@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JeffWang0325/Image-Identification-for-Self-Driving-Cars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-28 52（+0）
+2026-10-18 52 → 2026-10-29 52（+0）
 
 
 ---

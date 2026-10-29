@@ -46,12 +46,12 @@ Arcmira 平台的官方 TypeScript/JavaScript SDK 与 CLI：通过 API 拉取 Yo
 ```mermaid
 xychart-beta
     title "arcmira/arcmira 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-29"]
     y-axis "stars" 27 --> 32
-    line [31, 28, 28]
+    line [31, 28, 29]
 ```
 
-2026-10-22 31 → 2026-10-28 28（-3）
+2026-10-22 31 → 2026-10-29 29（-2）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tristan-mcinnis/pptx-from-layouts-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28"]
+    title "tristan-mcinnis/pptx-from-layouts-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
     y-axis "stars" 35 --> 41
-    line [36, 37, 38, 40]
+    line [36, 37, 38, 40, 40]
 ```
 
-2026-10-18 36 → 2026-10-28 40（+4）
+2026-10-18 36 → 2026-10-29 40（+4）
 
 
 ---

@@ -46,12 +46,12 @@ DeepMind 论文 "Aligning Machine and Human Visual Representations across Abstra
 ```mermaid
 xychart-beta
     title "google-deepmind/alignet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
     y-axis "stars" 78 --> 84
     line [79, 81, 82, 83, 83]
 ```
 
-2026-10-18 79 → 2026-10-28 83（+4）
+2026-10-18 79 → 2026-10-29 83（+4）
 
 
 ---

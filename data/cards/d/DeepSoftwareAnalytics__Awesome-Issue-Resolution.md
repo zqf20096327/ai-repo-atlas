@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DeepSoftwareAnalytics/Awesome-Issue-Resolution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
     y-axis "stars" 87 --> 90
     line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-10-28 89（+1）
+2026-10-18 88 → 2026-10-29 89（+1）
 
 
 ---

@@ -45,13 +45,13 @@ Hugging Face 维护的 Papers with Code 重启版：聚合 arXiv 论文、官方
 
 ```mermaid
 xychart-beta
-    title "huggingface/paperswithcode 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 42 --> 255
-    line [59, 238]
+    title "huggingface/paperswithcode 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 38 --> 290
+    line [59, 238, 269]
 ```
 
-2026-10-26 59 → 2026-10-28 238（+179）
+2026-10-26 59 → 2026-10-29 269（+210）
 
 
 ---

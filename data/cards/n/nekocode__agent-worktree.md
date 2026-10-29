@@ -44,13 +44,13 @@ npm 全局安装的命令行工具，基于 Git worktree 为 AI 编码代理提�
 
 ```mermaid
 xychart-beta
-    title "nekocode/agent-worktree 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "nekocode/agent-worktree 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 279 --> 282
-    line [280, 281]
+    line [280, 281, 281]
 ```
 
-2026-10-18 280 → 2026-10-28 281（+1）
+2026-10-18 280 → 2026-10-29 281（+1）
 
 
 ---

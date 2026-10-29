@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "editor-code-assistant/eca-nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 67 --> 70
+    line [69, 68]
 ```
 
-2026-10-18 69 → 2026-10-28 69（+0）
+2026-10-18 69 → 2026-10-29 68（-1）
 
 
 ---

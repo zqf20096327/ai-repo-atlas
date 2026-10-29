@@ -45,12 +45,12 @@ Yandex Cloud 官方维护的一组 MCP（Model Context Protocol）服务器，�
 ```mermaid
 xychart-beta
     title "yandex-cloud/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-28 49（+0）
+2026-10-18 49 → 2026-10-29 49（+0）
 
 
 ---

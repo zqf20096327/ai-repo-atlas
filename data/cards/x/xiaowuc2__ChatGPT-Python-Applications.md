@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaowuc2/ChatGPT-Python-Applications 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 187 --> 189
-    line [188, 188]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 186 --> 189
+    line [188, 187]
 ```
 
-2026-10-18 188 → 2026-10-28 188（+0）
+2026-10-18 188 → 2026-10-29 187（-1）
 
 
 ---

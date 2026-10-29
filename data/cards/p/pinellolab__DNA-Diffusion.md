@@ -44,13 +44,13 @@ DNA-Diffusion 是基于扩散概率模型的调控 DNA 序列生成工具：生�
 
 ```mermaid
 xychart-beta
-    title "pinellolab/DNA-Diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "pinellolab/DNA-Diffusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 488 --> 491
-    line [490, 489]
+    line [490, 489, 489]
 ```
 
-2026-10-18 490 → 2026-10-28 489（-1）
+2026-10-18 490 → 2026-10-29 489（-1）
 
 
 ---

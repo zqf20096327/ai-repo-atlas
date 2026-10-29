@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anakin87/llm-rl-environments-lil-course 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 234 --> 238
-    line [235, 236, 237]
+    title "anakin87/llm-rl-environments-lil-course 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 234 --> 240
+    line [235, 236, 237, 239]
 ```
 
-2026-10-18 235 → 2026-10-28 237（+2）
+2026-10-18 235 → 2026-10-29 239（+4）
 
 
 ---

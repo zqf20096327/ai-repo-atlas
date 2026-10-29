@@ -40,6 +40,18 @@
 > L5: A standalone vector database reimplemented in Rust, with an embeddable engine, an HTTP service, transactional persis
 > L38: Embeddings are not generated automatically; applications must generate and submit vectors. The database logic, filt
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vectordb-io/vectordb 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-10-28 48 → 2026-10-29 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `b408c38f1551` · [字段定义](../../DATASET.md)*

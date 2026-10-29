@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmineDjeghri/generative-ai-project-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-28 118（+0）
+2026-10-18 118 → 2026-10-29 118（+0）
 
 
 ---

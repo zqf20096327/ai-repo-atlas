@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ffhibnese/Model-Inversion-Attack-ToolBox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "ffhibnese/Model-Inversion-Attack-ToolBox 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 196 --> 199
-    line [197, 198]
+    line [197, 198, 198]
 ```
 
-2026-10-18 197 → 2026-10-28 198（+1）
+2026-10-18 197 → 2026-10-29 198（+1）
 
 
 ---

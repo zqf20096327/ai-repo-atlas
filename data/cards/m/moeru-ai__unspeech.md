@@ -44,13 +44,13 @@ unSpeech 是一个用 Go 编写的自托管服务，将 OpenAI、Azure AI Speech
 
 ```mermaid
 xychart-beta
-    title "moeru-ai/unspeech 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "moeru-ai/unspeech 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 105 --> 108
-    line [106, 107]
+    line [106, 107, 107]
 ```
 
-2026-10-18 106 → 2026-10-28 107（+1）
+2026-10-18 106 → 2026-10-29 107（+1）
 
 
 ---

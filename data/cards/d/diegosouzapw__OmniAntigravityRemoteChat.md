@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diegosouzapw/OmniAntigravityRemoteChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-18 241 → 2026-10-28 241（+0）
+2026-10-18 241 → 2026-10-29 241（+0）
 
 
 ---

@@ -46,12 +46,12 @@ LLM Interactive Proxy 是一个通用翻译、路由与控制层：将 OpenAI、
 ```mermaid
 xychart-beta
     title "aiproxer/aiproxer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-28 20（+0）
+2026-10-18 20 → 2026-10-29 20（+0）
 
 
 ---

@@ -44,12 +44,12 @@ OpenAI 论文《Improved Long Gaps Between Primes》结果的 Lean 4 形式化�
 ```mermaid
 xychart-beta
     title "openai/LongGapsBetweenPrimes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
     y-axis "stars" 43 --> 47
     line [44, 46, 46]
 ```
 
-2026-10-18 44 → 2026-10-28 46（+2）
+2026-10-18 44 → 2026-10-29 46（+2）
 
 
 ---

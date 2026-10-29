@@ -45,13 +45,13 @@ vLLM TT Plugin 通过 vLLM 标准插件机制把 Tenstorrent 硬件注册为 vLL
 
 ```mermaid
 xychart-beta
-    title "tenstorrent/vllm-tt-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
+    title "tenstorrent/vllm-tt-plugin 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19]
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-28 19（+2）
+2026-10-18 17 → 2026-10-29 19（+2）
 
 
 ---

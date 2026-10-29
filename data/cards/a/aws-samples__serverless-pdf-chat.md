@@ -46,12 +46,12 @@ AWS 官方 samples 出品的 Serverless RAG 示例应用：用户上传 PDF 后�
 ```mermaid
 xychart-beta
     title "aws-samples/serverless-pdf-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 295 --> 297
     line [296, 296]
 ```
 
-2026-10-18 296 → 2026-10-28 296（+0）
+2026-10-18 296 → 2026-10-29 296（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Logseq 插件，读取当前文档并索引关联笔记作为上下文，通过�
 ```mermaid
 xychart-beta
     title "galihlprakoso/logseq-plugin-assistseq-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-28 79（+0）
+2026-10-18 79 → 2026-10-29 79（+0）
 
 
 ---

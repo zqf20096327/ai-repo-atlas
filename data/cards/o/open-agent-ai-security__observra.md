@@ -45,12 +45,12 @@ Observra 是面向 AI agent 系统的观测与遥测框架，通过 Common Infor
 ```mermaid
 xychart-beta
     title "open-agent-ai-security/observra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-28 25（+1）
+2026-10-18 24 → 2026-10-29 25（+1）
 
 
 ---

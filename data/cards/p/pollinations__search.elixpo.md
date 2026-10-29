@@ -46,12 +46,12 @@ OreoLook（lixSearch）是可自托管的 agentic 搜索引擎：多搜索代理
 ```mermaid
 xychart-beta
     title "pollinations/search.elixpo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-28 24（+1）
+2026-10-18 23 → 2026-10-29 24（+1）
 
 
 ---

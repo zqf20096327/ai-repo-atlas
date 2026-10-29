@@ -45,12 +45,12 @@ TokenSynth 官方实现（ICASSP 2025 论文）：基于 decoder-only transforme
 ```mermaid
 xychart-beta
     title "KyungsuKim42/tokensynth 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-28 98（+0）
+2026-10-18 98 → 2026-10-29 98（+0）
 
 
 ---

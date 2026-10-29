@@ -46,12 +46,12 @@ Seeed Studio 维护的跨平台声学与振动分析框架，运行于 ESP32 等
 ```mermaid
 xychart-beta
     title "Seeed-Studio/AcousticsLab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-28 24（+0）
+2026-10-18 24 → 2026-10-29 24（+0）
 
 
 ---

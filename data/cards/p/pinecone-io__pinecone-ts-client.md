@@ -45,12 +45,12 @@ Pinecone 官方维护的 TypeScript SDK，面向在服务端构建全文检索�
 ```mermaid
 xychart-beta
     title "pinecone-io/pinecone-ts-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 278 --> 280
     line [279, 279]
 ```
 
-2026-10-18 279 → 2026-10-28 279（+0）
+2026-10-18 279 → 2026-10-29 279（+0）
 
 
 ---

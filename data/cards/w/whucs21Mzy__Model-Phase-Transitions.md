@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whucs21Mzy/Model-Phase-Transitions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-28 76（+0）
+2026-10-18 76 → 2026-10-29 76（+0）
 
 
 ---

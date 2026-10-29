@@ -45,12 +45,12 @@ EpochForge 是包裹 PyTorch nn.Module、DataLoader 与优化器的薄编排层�
 ```mermaid
 xychart-beta
     title "khaledali2702-prog/torch-trainer-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-28 53（+0）
+2026-10-18 53 → 2026-10-29 53（+0）
 
 
 ---

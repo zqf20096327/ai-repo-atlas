@@ -46,12 +46,12 @@ Rust 实现的 Goal-Oriented Action Planning 库，采用数据导向设计，�
 ```mermaid
 xychart-beta
     title "victorb/dogoap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 204 --> 206
     line [205, 205]
 ```
 
-2026-10-18 205 → 2026-10-28 205（+0）
+2026-10-18 205 → 2026-10-29 205（+0）
 
 
 ---

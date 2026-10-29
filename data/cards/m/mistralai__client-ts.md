@@ -43,13 +43,13 @@ Mistral AI 官方 TypeScript SDK v2，供开发者在 JS 应用中调用 Mistral
 
 ```mermaid
 xychart-beta
-    title "mistralai/client-ts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28"]
-    y-axis "stars" 156 --> 160
-    line [157, 158, 159]
+    title "mistralai/client-ts 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 156 --> 161
+    line [157, 158, 159, 160]
 ```
 
-2026-10-18 157 → 2026-10-28 159（+2）
+2026-10-18 157 → 2026-10-29 160（+3）
 
 
 ---

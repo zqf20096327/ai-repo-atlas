@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ndpvt-web/deeptutor-claude-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    title "ndpvt-web/deeptutor-claude-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36]
 ```
 
-2026-10-18 33 → 2026-10-28 35（+2）
+2026-10-18 33 → 2026-10-29 36（+3）
 
 
 ---

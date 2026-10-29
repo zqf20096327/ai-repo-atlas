@@ -42,13 +42,13 @@ DeepMind 技术报告的配套仓库：包含一个 Google Colab 笔记本，呈
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/alphaevolve_results 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28"]
+    title "google-deepmind/alphaevolve_results 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 301 --> 306
-    line [303, 302, 303, 305]
+    line [303, 302, 303, 305, 304]
 ```
 
-2026-10-18 303 → 2026-10-28 305（+2）
+2026-10-18 303 → 2026-10-29 304（+1）
 
 
 ---

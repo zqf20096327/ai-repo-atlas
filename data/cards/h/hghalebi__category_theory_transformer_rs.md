@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hghalebi/category_theory_transformer_rs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    title "hghalebi/category_theory_transformer_rs 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 114 --> 118
-    line [115, 116, 117]
+    line [115, 116, 117, 117]
 ```
 
-2026-10-18 115 → 2026-10-28 117（+2）
+2026-10-18 115 → 2026-10-29 117（+2）
 
 
 ---

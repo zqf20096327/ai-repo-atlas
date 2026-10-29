@@ -47,12 +47,12 @@ Flutter/Dart 包，通过各操作系统原生 API 做本地 AI 推理：Apple �
 ```mermaid
 xychart-beta
     title "kekko7072/flutter_local_ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-28 49（+0）
+2026-10-18 49 → 2026-10-29 49（+0）
 
 
 ---

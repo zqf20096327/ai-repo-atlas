@@ -46,12 +46,12 @@ Symfony 官方 Mate 组件，提供命令行工具 vendor/bin/mate，将项目�
 ```mermaid
 xychart-beta
     title "symfony/ai-mate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-28 42（+0）
+2026-10-18 42 → 2026-10-29 42（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlonzoLeeeooo/awesome-text-to-image-studies 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "AlonzoLeeeooo/awesome-text-to-image-studies 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 761 --> 764
-    line [762, 763]
+    line [762, 763, 763]
 ```
 
-2026-10-18 762 → 2026-10-28 763（+1）
+2026-10-18 762 → 2026-10-29 763（+1）
 
 
 ---

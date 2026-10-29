@@ -46,12 +46,12 @@ Sruja 是 CLI 优先的自主编程 agent，运行 comprehend → plan → execu
 ```mermaid
 xychart-beta
     title "sruja-ai/sruja 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-28 24（+0）
+2026-10-18 24 → 2026-10-29 24（+0）
 
 
 ---

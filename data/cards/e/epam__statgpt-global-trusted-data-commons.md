@@ -33,7 +33,7 @@ EPAM 维护的 Global Trusted Data Commons 门户，基于 React、Next.js 与 N
 
 ## 场景标签
 
- · 领域:统计数据分析/Web 应用
+`聊天机器人` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -45,12 +45,12 @@ EPAM 维护的 Global Trusted Data Commons 门户，基于 React、Next.js 与 N
 ```mermaid
 xychart-beta
     title "epam/statgpt-global-trusted-data-commons 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-28 19（+0）
+2026-10-18 19 → 2026-10-29 19（+0）
 
 
 ---

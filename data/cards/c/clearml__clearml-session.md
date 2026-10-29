@@ -47,12 +47,12 @@ ClearML 生态的远程交互式开发会话工具：在本地运行 clearml-ses
 ```mermaid
 xychart-beta
     title "clearml/clearml-session 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-28 32（+0）
+2026-10-18 32 → 2026-10-29 32（+0）
 
 
 ---

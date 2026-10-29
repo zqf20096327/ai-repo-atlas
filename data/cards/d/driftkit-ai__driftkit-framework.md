@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "driftkit-ai/driftkit-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-27 49（+0）
+2026-10-18 49 → 2026-10-29 50（+1）
 
 
 ---

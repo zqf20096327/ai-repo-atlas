@@ -46,12 +46,12 @@ vLLM 项目维护的 agent 技能仓库，遵循 anthropics/skills 的 SKILL.md 
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-28 102（+0）
+2026-10-18 102 → 2026-10-29 103（+1）
 
 
 ---

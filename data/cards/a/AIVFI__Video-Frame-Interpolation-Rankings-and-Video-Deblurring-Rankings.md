@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 155 --> 157
     line [156, 156]
 ```
 
-2026-10-18 156 → 2026-10-28 156（+0）
+2026-10-18 156 → 2026-10-29 156（+0）
 
 
 ---

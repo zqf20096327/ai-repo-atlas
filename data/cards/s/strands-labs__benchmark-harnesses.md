@@ -46,12 +46,12 @@ strands-labs 维护的 uv workspace 仓库，收录面向 agentic 基准的 agen
 ```mermaid
 xychart-beta
     title "strands-labs/benchmark-harnesses 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
     y-axis "stars" 64 --> 67
     line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-10-28 66（+1）
+2026-10-18 65 → 2026-10-29 66（+1）
 
 
 ---

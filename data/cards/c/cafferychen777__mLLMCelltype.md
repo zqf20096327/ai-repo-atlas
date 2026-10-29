@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cafferychen777/mLLMCelltype 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "cafferychen777/mLLMCelltype 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 660 --> 663
-    line [661, 662]
+    line [661, 662, 662]
 ```
 
-2026-10-18 661 → 2026-10-28 662（+1）
+2026-10-18 661 → 2026-10-29 662（+1）
 
 
 ---

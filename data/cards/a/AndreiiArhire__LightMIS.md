@@ -45,13 +45,13 @@ LightMIS 是一个用于 2D 二值医学图像分割的超轻量神经网络结�
 
 ```mermaid
 xychart-beta
-    title "AndreiiArhire/LightMIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 24 --> 30
-    line [25, 29]
+    title "AndreiiArhire/LightMIS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 24 --> 33
+    line [25, 29, 32]
 ```
 
-2026-10-18 25 → 2026-10-28 29（+4）
+2026-10-18 25 → 2026-10-29 32（+7）
 
 
 ---

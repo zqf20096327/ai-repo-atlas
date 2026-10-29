@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JunWan666/astrbot-for-android 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 2 --> 179
-    line [16, 165]
+    title "JunWan666/astrbot-for-android 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 0 --> 253
+    line [16, 165, 232]
 ```
 
-2026-10-26 16 → 2026-10-28 165（+149）
+2026-10-26 16 → 2026-10-29 232（+216）
 
 
 ---

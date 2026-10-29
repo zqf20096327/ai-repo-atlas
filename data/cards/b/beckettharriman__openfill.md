@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beckettharriman/openfill 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 114 --> 138
-    line [116, 136]
+    title "beckettharriman/openfill 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 112 --> 162
+    line [116, 136, 158]
 ```
 
-2026-10-26 116 → 2026-10-28 136（+20）
+2026-10-26 116 → 2026-10-29 158（+42）
 
 
 ---

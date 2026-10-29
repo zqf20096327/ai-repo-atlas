@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SagarBiswas-MultiHAT/PhishGuard-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28"]
+    title "SagarBiswas-MultiHAT/PhishGuard-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29"]
     y-axis "stars" 25 --> 29
-    line [26, 27, 28]
+    line [26, 27, 28, 28]
 ```
 
-2026-10-18 26 → 2026-10-28 28（+2）
+2026-10-18 26 → 2026-10-29 28（+2）
 
 
 ---

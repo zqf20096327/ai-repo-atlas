@@ -45,13 +45,13 @@ EchoHerd 是一个多智能体社会传播模拟引擎：用户注入种子内�
 
 ```mermaid
 xychart-beta
-    title "charan820/PhantomCrowd-Simulacra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "charan820/PhantomCrowd-Simulacra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 115 --> 118
-    line [117, 116]
+    line [117, 116, 116]
 ```
 
-2026-10-18 117 → 2026-10-28 116（-1）
+2026-10-18 117 → 2026-10-29 116（-1）
 
 
 ---

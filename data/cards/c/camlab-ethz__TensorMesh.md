@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "camlab-ethz/TensorMesh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "camlab-ethz/TensorMesh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 226 --> 230
-    line [227, 229]
+    line [227, 229, 229]
 ```
 
-2026-10-18 227 → 2026-10-28 229（+2）
+2026-10-18 227 → 2026-10-29 229（+2）
 
 
 ---

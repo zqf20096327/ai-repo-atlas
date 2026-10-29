@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kusesad-1122/XINCODE-Public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "kusesad-1122/XINCODE-Public 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 22 --> 25
-    line [24, 23]
+    line [24, 23, 23]
 ```
 
-2026-10-18 24 → 2026-10-28 23（-1）
+2026-10-18 24 → 2026-10-29 23（-1）
 
 
 ---

@@ -46,12 +46,12 @@ EnsembleKalmanProcesses.jl (EKP) 用于求解逆问题：为计算机模型 G �
 ```mermaid
 xychart-beta
     title "CliMA/EnsembleKalmanProcesses.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-18 128 → 2026-10-28 128（+0）
+2026-10-18 128 → 2026-10-29 128（+0）
 
 
 ---

@@ -42,6 +42,18 @@
 > L6: agree on, and answers with citations you can click, using any LLM or none.
 > L133: **Add an AI model (optional):** Settings → choose a provider → paste a key →
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SandeepAi369/SearchWala 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 19 --> 30
+    line [20, 29]
+```
+
+2026-10-28 20 → 2026-10-29 29（+9）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `9ca113f79603` · [字段定义](../../DATASET.md)*

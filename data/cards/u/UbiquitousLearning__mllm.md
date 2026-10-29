@@ -45,13 +45,13 @@ C++ 实现的多模态大模型推理引擎，面向手机、Jetson、Ascend NPU
 
 ```mermaid
 xychart-beta
-    title "UbiquitousLearning/mllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "UbiquitousLearning/mllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 1627 --> 1632
-    line [1628, 1631]
+    line [1628, 1631, 1631]
 ```
 
-2026-10-18 1,628 → 2026-10-28 1,631（+3）
+2026-10-18 1,628 → 2026-10-29 1,631（+3）
 
 
 ---

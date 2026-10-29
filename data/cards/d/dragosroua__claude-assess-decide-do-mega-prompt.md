@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dragosroua/claude-assess-decide-do-mega-prompt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "dragosroua/claude-assess-decide-do-mega-prompt 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 77 --> 80
-    line [79, 78]
+    line [79, 78, 78]
 ```
 
-2026-10-18 79 → 2026-10-28 78（-1）
+2026-10-18 79 → 2026-10-29 78（-1）
 
 
 ---

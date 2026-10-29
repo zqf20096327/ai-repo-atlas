@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "remotebiosensing/rppg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "remotebiosensing/rppg 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 341 --> 344
-    line [342, 343]
+    line [342, 343, 343]
 ```
 
-2026-10-18 342 → 2026-10-28 343（+1）
+2026-10-18 342 → 2026-10-29 343（+1）
 
 
 ---

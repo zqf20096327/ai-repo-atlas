@@ -44,12 +44,12 @@ symfony/ai-agent 是 Symfony AI 系列中的 Agent 组件，基于 Platform 与 
 ```mermaid
 xychart-beta
     title "symfony/ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-28 35（+0）
+2026-10-18 35 → 2026-10-29 35（+0）
 
 
 ---

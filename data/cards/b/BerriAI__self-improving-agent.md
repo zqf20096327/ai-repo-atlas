@@ -44,13 +44,13 @@ npm 安装的 TypeScript 库，向任意 AI 编码 agent 追加两个工具：wr
 
 ```mermaid
 xychart-beta
-    title "BerriAI/self-improving-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28"]
+    title "BerriAI/self-improving-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
     y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38]
+    line [35, 36, 37, 38, 38]
 ```
 
-2026-10-18 35 → 2026-10-28 38（+3）
+2026-10-18 35 → 2026-10-29 38（+3）
 
 
 ---

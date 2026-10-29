@@ -40,6 +40,18 @@
 > L9: Local-first: speech is transcribed on your own computer unless you choose a cloud provider.
 > L26: - **Runs on your computer.** Speech-to-text runs locally on transcribe.cpp (Parakeet, Nemotron, Whisper and the res
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ishangautam7/Talvio 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 17 --> 27
+    line [18, 26]
+```
+
+2026-10-28 18 → 2026-10-29 26（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3713b7633c04` · [字段定义](../../DATASET.md)*

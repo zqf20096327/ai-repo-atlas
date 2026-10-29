@@ -40,6 +40,18 @@
 > L10: This package is designed to work with Flux. It implements multi-head attention as described in the paper Attention 
 > L12: It comes with the following layers:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LiorSinai/TransformersLite.jl 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
+```
+
+2026-10-28 43 → 2026-10-29 43（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `84868bc0bcb6` · [字段定义](../../DATASET.md)*

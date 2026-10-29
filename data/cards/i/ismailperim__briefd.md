@@ -46,12 +46,12 @@ briefd 以 git 仓库中的 Markdown 为知识源，索引为 SQLite（FTS5 BM25
 ```mermaid
 xychart-beta
     title "ismailperim/briefd 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-28 31（+0）
+2026-10-18 31 → 2026-10-29 31（+0）
 
 
 ---

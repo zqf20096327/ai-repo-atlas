@@ -44,13 +44,13 @@ JeecgBoot 低代码平台的核心启动器模块集合，基于 Spring Boot 4 �
 
 ```mermaid
 xychart-beta
-    title "jeecgboot/jeecg-boot-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "jeecgboot/jeecg-boot-starter 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 101 --> 104
-    line [102, 103]
+    line [102, 103, 103]
 ```
 
-2026-10-18 102 → 2026-10-28 103（+1）
+2026-10-18 102 → 2026-10-29 103（+1）
 
 
 ---

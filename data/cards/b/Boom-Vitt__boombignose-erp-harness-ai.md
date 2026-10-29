@@ -41,6 +41,18 @@
 > L35: BoomBigNose ERP runs sales, purchasing, inventory, projects and billing for a business on one database. It is built
 > L53: - **Automation and AI**: Reusable automation templates, scheduled follow-up reminders, an outbox that delivers even
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Boom-Vitt/boombignose-erp-harness-ai 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 53 --> 56
+    line [54, 55]
+```
+
+2026-10-28 54 → 2026-10-29 55（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `bd804d3266b6` · [字段定义](../../DATASET.md)*

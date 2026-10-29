@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoxiao150/vram-switcher 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
-    y-axis "stars" 10 --> 28
-    line [11, 27]
+    title "xiaoxiao150/vram-switcher 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 9 --> 40
+    line [11, 27, 38]
 ```
 
-2026-10-26 11 → 2026-10-28 27（+16）
+2026-10-26 11 → 2026-10-29 38（+27）
 
 
 ---

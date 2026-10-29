@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "liteli1987gmail/langchainzh 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "liteli1987gmail/langchainzh 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 184 --> 187
-    line [186, 185]
+    line [186, 185, 185]
 ```
 
-2026-10-18 186 → 2026-10-28 185（-1）
+2026-10-18 186 → 2026-10-29 185（-1）
 
 
 ---

@@ -45,12 +45,12 @@ RunPod 官方 worker 仓库之一，把 faster-whisper 语音转录封装为 ser
 ```mermaid
 xychart-beta
     title "runpod-workers/worker-faster_whisper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 143 --> 145
     line [144, 144]
 ```
 
-2026-10-18 144 → 2026-10-28 144（+0）
+2026-10-18 144 → 2026-10-29 144（+0）
 
 
 ---

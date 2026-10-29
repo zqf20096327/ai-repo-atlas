@@ -45,12 +45,12 @@ Zalando 孵化的身份代理服务：管理 Agentic AI 中 on-behalf-of 流程�
 ```mermaid
 xychart-beta
     title "zalando-incubator/agentic-identity-broker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
     y-axis "stars" 30 --> 34
     line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-10-28 33（+2）
+2026-10-18 31 → 2026-10-29 33（+2）
 
 
 ---

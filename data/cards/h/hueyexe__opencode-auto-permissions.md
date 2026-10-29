@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hueyexe/opencode-auto-permissions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28"]
-    y-axis "stars" 31 --> 38
-    line [32, 35, 36, 37]
+    title "hueyexe/opencode-auto-permissions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 31 --> 39
+    line [32, 35, 36, 37, 38]
 ```
 
-2026-10-18 32 → 2026-10-28 37（+5）
+2026-10-18 32 → 2026-10-29 38（+6）
 
 
 ---

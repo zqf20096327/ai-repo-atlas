@@ -46,13 +46,13 @@ OfficeCLI 是将自然语言 prompt 转换为可编辑 PPTX、DOCX、XLSX、工�
 
 ```mermaid
 xychart-beta
-    title "officecli/officecli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 107 --> 111
-    line [108, 109, 110]
+    title "officecli/officecli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 107 --> 112
+    line [108, 109, 110, 111]
 ```
 
-2026-10-18 108 → 2026-10-28 110（+2）
+2026-10-18 108 → 2026-10-29 111（+3）
 
 
 ---

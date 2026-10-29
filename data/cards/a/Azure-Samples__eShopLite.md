@@ -46,12 +46,12 @@ Azure-Samples 维护的参考应用集合：以 .NET Aspire 构建的电商站�
 ```mermaid
 xychart-beta
     title "Azure-Samples/eShopLite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-18 168 → 2026-10-28 168（+0）
+2026-10-18 168 → 2026-10-29 169（+1）
 
 
 ---

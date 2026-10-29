@@ -40,6 +40,18 @@ Donna 是 Hermes Agent 的预配置 profile：包含一套固定人设（SOUL.md
 > L7: Donna is a pre-configured Hermes Agent
 > L8: profile for people who want a capable, opinionated assistant without building one
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtlasOmnia/donna-starter 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 130 --> 134
+    line [131, 133]
+```
+
+2026-10-28 131 → 2026-10-29 133（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `04fdb69135f4` · [字段定义](../../DATASET.md)*

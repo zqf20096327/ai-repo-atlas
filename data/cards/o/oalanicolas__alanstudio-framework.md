@@ -45,13 +45,13 @@ Python 编写的游戏开发 harness：提供 doctor/discover/start/guide/play/n
 
 ```mermaid
 xychart-beta
-    title "oalanicolas/alanstudio-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "oalanicolas/alanstudio-framework 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 53]
 ```
 
-2026-10-18 52 → 2026-10-28 53（+1）
+2026-10-18 52 → 2026-10-29 53（+1）
 
 
 ---

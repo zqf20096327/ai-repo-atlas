@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent/APEX-SQL-Project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "Tencent/APEX-SQL-Project 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 19 --> 23
-    line [20, 22]
+    line [20, 22, 22]
 ```
 
-2026-10-18 20 → 2026-10-28 22（+2）
+2026-10-18 20 → 2026-10-29 22（+2）
 
 
 ---

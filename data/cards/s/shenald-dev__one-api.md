@@ -45,12 +45,12 @@ Node.js/TypeScript（Hono）实现的单一部署单元 LLM 网关：将 OpenAI�
 ```mermaid
 xychart-beta
     title "shenald-dev/one-api 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-26 28 → 2026-10-28 28（+0）
+2026-10-26 28 → 2026-10-29 28（+0）
 
 
 ---

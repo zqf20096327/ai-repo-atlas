@@ -44,13 +44,13 @@ Codex CLI 插件：追踪 agent 轮次、模型生成、推理摘要、系统提
 
 ```mermaid
 xychart-beta
-    title "langfuse/codex-observability-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28"]
+    title "langfuse/codex-observability-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
     y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-10-28 39（+3）
+2026-10-18 36 → 2026-10-29 39（+3）
 
 
 ---

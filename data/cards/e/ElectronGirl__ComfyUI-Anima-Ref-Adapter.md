@@ -40,6 +40,18 @@
 > L13: Give Anima a single reference image and a prompt that only
 > L66: - A **rank-32 LoRA** (45.9M parameters) learns to read that frame. It was trained on pairs of the same
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ElectronGirl/ComfyUI-Anima-Ref-Adapter 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 26 --> 118
+    line [33, 111]
+```
+
+2026-10-28 33 → 2026-10-29 111（+78）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `376b3fc12acf` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ Windows 桌面哈希破解工具：原生 Python/CPU 哈希路径（MD5、SHA �
 
 ```mermaid
 xychart-beta
-    title "serptail/p0-Password-Cracking-Tool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "serptail/p0-Password-Cracking-Tool 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-28 20（+1）
+2026-10-18 19 → 2026-10-29 20（+1）
 
 
 ---

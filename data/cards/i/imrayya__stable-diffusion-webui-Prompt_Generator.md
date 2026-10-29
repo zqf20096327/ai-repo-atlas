@@ -41,6 +41,18 @@ AUTOMATIC1111 Stable Diffusion WebUI 的扩展，安装后在 WebUI 中增加一
 > L14: 1. Write in the prompt in the *Start of the prompt* text box
 > L16: 3. Click Generate and wait
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "imrayya/stable-diffusion-webui-Prompt_Generator 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 242 --> 244
+    line [243, 243]
+```
+
+2026-10-28 243 → 2026-10-29 243（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `6bad8f7487a3` · [字段定义](../../DATASET.md)*

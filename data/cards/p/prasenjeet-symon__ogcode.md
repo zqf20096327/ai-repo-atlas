@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "prasenjeet-symon/ogcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    title "prasenjeet-symon/ogcode 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
     y-axis "stars" 142 --> 146
-    line [143, 145]
+    line [143, 145, 145]
 ```
 
-2026-10-18 143 → 2026-10-28 145（+2）
+2026-10-18 143 → 2026-10-29 145（+2）
 
 
 ---

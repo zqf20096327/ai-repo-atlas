@@ -47,12 +47,12 @@ Mythgram Agent 是一个本地运行的通用 AI 助手与执行型 agent 工作
 ```mermaid
 xychart-beta
     title "mythgram-ai/mythgram-agent 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-26", "2026-10-29"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-26 23 → 2026-10-28 23（+0）
+2026-10-26 23 → 2026-10-29 23（+0）
 
 
 ---

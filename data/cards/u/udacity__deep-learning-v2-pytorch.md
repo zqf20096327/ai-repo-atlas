@@ -40,6 +40,18 @@ Udacity Deep Learning Nanodegree (ND101 v7) 配套仓库，提供覆盖神经网
 > L3: This repository contains material related to Udacity's Deep Learning v7 Nanodegree program. It consists of a bunch o
 > L5: There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are review
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "udacity/deep-learning-v2-pytorch 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 5522 --> 5524
+    line [5523, 5523]
+```
+
+2026-10-28 5,523 → 2026-10-29 5,523（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `b78e7fdfbd1e` · [字段定义](../../DATASET.md)*

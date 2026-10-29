@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DaoSword/Time-Series-Forecasting-and-Deep-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    title "DaoSword/Time-Series-Forecasting-and-Deep-Learning 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
     y-axis "stars" 806 --> 809
-    line [807, 808, 807, 808]
+    line [807, 808, 807, 808, 808]
 ```
 
-2026-10-18 807 → 2026-10-28 808（+1）
+2026-10-18 807 → 2026-10-29 808（+1）
 
 
 ---

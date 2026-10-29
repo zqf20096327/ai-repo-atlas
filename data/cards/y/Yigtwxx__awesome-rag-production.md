@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yigtwxx/awesome-rag-production 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28"]
-    y-axis "stars" 281 --> 285
-    line [282, 283, 284]
+    title "Yigtwxx/awesome-rag-production 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 281 --> 287
+    line [282, 283, 284, 286]
 ```
 
-2026-10-18 282 → 2026-10-28 284（+2）
+2026-10-18 282 → 2026-10-29 286（+4）
 
 
 ---

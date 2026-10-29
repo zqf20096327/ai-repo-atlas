@@ -47,12 +47,12 @@ IELTS Buddy 面向 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent 分�
 ```mermaid
 xychart-beta
     title "Jobo16/ielts-buddy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-10-28 26（+2）
+2026-10-18 24 → 2026-10-29 26（+2）
 
 
 ---

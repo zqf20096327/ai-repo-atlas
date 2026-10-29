@@ -42,6 +42,18 @@
 > L27: ### 🤖 Advanced AI Engine — Multi-Provider Support & Threat Intelligence
 > L211: #### Phase 1: Intelligence Gathering & Reconnaissance
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "najafdev/secscan_ai 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 1288 --> 1292
+    line [1289, 1291]
+```
+
+2026-10-28 1,289 → 2026-10-29 1,291（+2）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 low · 依据 README sha `b248cafbf1e7` · [字段定义](../../DATASET.md)*

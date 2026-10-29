@@ -45,12 +45,12 @@ Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Team
 ```mermaid
 xychart-beta
     title "microsoft/Agents-for-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 215 --> 217
     line [216, 216]
 ```
 
-2026-10-18 216 → 2026-10-28 216（+0）
+2026-10-18 216 → 2026-10-29 216（+0）
 
 
 ---

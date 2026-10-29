@@ -45,12 +45,12 @@ GOOSE（German Outdoor and Offroad Dataset）是面向非结构化越野环境�
 ```mermaid
 xychart-beta
     title "FraunhoferIOSB/goose_dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-28 24（+0）
+2026-10-18 24 → 2026-10-29 24（+0）
 
 
 ---

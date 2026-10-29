@@ -46,12 +46,12 @@ WhiteRock 是一个以 Python 包（pip3 install whiterock）形式提供的自�
 ```mermaid
 xychart-beta
     title "kyegomez/WhiteRock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
+    x-axis ["2026-10-18", "2026-10-29"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-28 44（+0）
+2026-10-18 44 → 2026-10-29 44（+0）
 
 
 ---

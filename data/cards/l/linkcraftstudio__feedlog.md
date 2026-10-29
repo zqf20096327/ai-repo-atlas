@@ -41,6 +41,18 @@
 > L63: Give your AI Agent the latest product knowledge and context to answer repetitive questions reliably — reducing manu
 > L229: |AI|OpenAI-compatible API, including OpenAI, Azure OpenAI, LiteLLM, and Ollama|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "linkcraftstudio/feedlog 星数(近 2 点)"
+    x-axis ["2026-10-28", "2026-10-29"]
+    y-axis "stars" 189 --> 192
+    line [190, 191]
+```
+
+2026-10-28 190 → 2026-10-29 191（+1）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `221c9f97e0c4` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ Ultralytics 官方维护的 Agent Skills 仓库：以 8 个 SKILL.md（yolo、mo
 
 ```mermaid
 xychart-beta
-    title "ultralytics/skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28"]
+    title "ultralytics/skills 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
     y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33]
+    line [30, 31, 32, 33, 33]
 ```
 
-2026-10-18 30 → 2026-10-28 33（+3）
+2026-10-18 30 → 2026-10-29 33（+3）
 
 
 ---

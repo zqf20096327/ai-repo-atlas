@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "etherfunlab/eros-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 65 --> 71
-    line [66, 70]
+    title "etherfunlab/eros-engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    y-axis "stars" 65 --> 72
+    line [66, 70, 71]
 ```
 
-2026-10-18 66 → 2026-10-28 70（+4）
+2026-10-18 66 → 2026-10-29 71（+5）
 
 
 ---

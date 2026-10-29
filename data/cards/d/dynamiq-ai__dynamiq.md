@@ -45,12 +45,12 @@ Python 编排框架，用于构建 agentic AI 与 LLM 应用，覆盖 ReAct Agen
 ```mermaid
 xychart-beta
     title "dynamiq-ai/dynamiq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-28"]
-    y-axis "stars" 1070 --> 1072
-    line [1071, 1071]
+    x-axis ["2026-10-18", "2026-10-29"]
+    y-axis "stars" 1070 --> 1073
+    line [1071, 1072]
 ```
 
-2026-10-18 1,071 → 2026-10-28 1,071（+0）
+2026-10-18 1,071 → 2026-10-29 1,072（+1）
 
 
 ---
