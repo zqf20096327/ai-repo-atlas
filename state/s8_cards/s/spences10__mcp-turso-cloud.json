@@ -1,1 +1,78 @@
-{"fn": "spences10/mcp-turso-cloud", "sha": "b6f007027681", "source": "readme", "identity": {"one_liner": "让 LLM 通过 MCP 直接管理与查询 Turso 数据库的服务器", "review": "面向 Turso（libSQL/SQLite）数据库的 Model Context Protocol 服务器，供 Cline、Claude Desktop 等 MCP 客户端接入。实现两级认证：组织级 Platform API token 管理数据库的创建/删除/列举/发 token，数据库级 token 执行查询。读写工具分离：只读工具始终申请只读凭据，本地校验拒绝多语句与变更型 PRAGMA；支持向量相似度检索。以 Node.js 实现，开发用 pnpm，需配置 TURSO_API_TOKEN 等环境变量。", "highlights": ["组织级与数据库级两级认证，token 按权限缓存并轮换", "只读/破坏性 SQL 工具分离，读路径不回退到全量权限", "基于 SQLite 向量扩展的 vector_search（1–4096 维）", "分页与 512 KiB 结果预算的截断元信息"], "use_cases": ["在 Claude Desktop/Cline 中对话式管理 Turso 数据库", "让 LLM 执行带审批分级的 SQL 查询", "通过 MCP 对 Turso 库做向量检索"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "数据库工具", "Turso/libSQL", "LLM基础设施"], "domain": "LLM 基础设施/数据库接入", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A Model Context Protocol (MCP) server that provides integration with", "L6: database-level operations, making it easy to manage and query Turso"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "spences10/mcp-turso-cloud",
+ "sha": "b6f007027681",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 LLM 通过 MCP 直接管理与查询 Turso 数据库的服务器",
+  "review": "面向 Turso（libSQL/SQLite）数据库的 Model Context Protocol 服务器，供 Cline、Claude Desktop 等 MCP 客户端接入。实现两级认证：组织级 Platform API token 管理数据库的创建/删除/列举/发 token，数据库级 token 执行查询。读写工具分离：只读工具始终申请只读凭据，本地校验拒绝多语句与变更型 PRAGMA；支持向量相似度检索。以 Node.js 实现，开发用 pnpm，需配置 TURSO_API_TOKEN 等环境变量。",
+  "highlights": [
+   "组织级与数据库级两级认证，token 按权限缓存并轮换",
+   "只读/破坏性 SQL 工具分离，读路径不回退到全量权限",
+   "基于 SQLite 向量扩展的 vector_search（1–4096 维）",
+   "分页与 512 KiB 结果预算的截断元信息"
+  ],
+  "use_cases": [
+   "在 Claude Desktop/Cline 中对话式管理 Turso 数据库",
+   "让 LLM 执行带审批分级的 SQL 查询",
+   "通过 MCP 对 Turso 库做向量检索"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "数据库工具",
+   "Turso/libSQL",
+   "LLM基础设施"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "data-analysis"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A Model Context Protocol (MCP) server that provides integration with",
+   "L6: database-level operations, making it easy to manage and query Turso"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

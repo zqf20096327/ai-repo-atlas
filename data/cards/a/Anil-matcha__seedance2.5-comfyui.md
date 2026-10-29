@@ -33,7 +33,7 @@ ComfyUI 自定义节点集合，通过 MuAPI 接入字节跳动 Seedance 2.5 视
 
 ## 场景标签
 
- · 领域:视频生成/ComfyUI 生态
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 

@@ -1,1 +1,76 @@
-{"fn": "Anil-matcha/seedance2.5-comfyui", "sha": "3c573052f502", "source": "readme", "identity": {"one_liner": "在 ComfyUI 中调用 Seedance 2.5 视频生成 API 的自定义节点包", "review": "ComfyUI 自定义节点集合，通过 MuAPI 接入字节跳动 Seedance 2.5 视频生成服务：包含 API Key 节点、文生视频（720p/480p）、图生视频、首末帧插值、Omni Reference 多参考生成（20 图/6 视频/6 音频）、一致角色表、视频延展等 10 个节点。API Key 可经节点、环境变量或 MuAPI CLI 配置。安装方式为复制目录到 custom_nodes 并 pip 安装依赖，需 Python 3.8+ 及 ComfyUI 自带的 PyTorch 运行时；生成依赖云端 API，非本地模型。", "highlights": ["10 个节点覆盖文生视频、图生视频、首末帧、Omni Reference、一致角色与视频延展", "Omni Reference 支持最多 20 图 + 6 视频 + 6 音频参考，prompt 内用 @image1/@video1/@audio1 引用", "一致角色节点生成可复用角色表（sheet_image/character_id），供后续视频锚定", "API Key 支持节点输入、环境变量、CLI 与 ~/.muapi/config.json 四种配置方式"], "use_cases": ["在 ComfyUI 工作流中直接生成 Seedance 2.5 视频", "用参考图和音频做多模态参考的角色一致性视频", "对已有视频做延展或首末帧插值创作"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI 插件", "视频生成", "API 客户端节点", "AI 动画"], "domain": "视频生成/ComfyUI 生态", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: ComfyUI custom nodes for the Seedance 2.5 API, delivered through MuAPI.", "L33: |Text-to-Video|Generates a 720p or 480p clip from a prompt.|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Anil-matcha/seedance2.5-comfyui",
+ "sha": "3c573052f502",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 ComfyUI 中调用 Seedance 2.5 视频生成 API 的自定义节点包",
+  "review": "ComfyUI 自定义节点集合，通过 MuAPI 接入字节跳动 Seedance 2.5 视频生成服务：包含 API Key 节点、文生视频（720p/480p）、图生视频、首末帧插值、Omni Reference 多参考生成（20 图/6 视频/6 音频）、一致角色表、视频延展等 10 个节点。API Key 可经节点、环境变量或 MuAPI CLI 配置。安装方式为复制目录到 custom_nodes 并 pip 安装依赖，需 Python 3.8+ 及 ComfyUI 自带的 PyTorch 运行时；生成依赖云端 API，非本地模型。",
+  "highlights": [
+   "10 个节点覆盖文生视频、图生视频、首末帧、Omni Reference、一致角色与视频延展",
+   "Omni Reference 支持最多 20 图 + 6 视频 + 6 音频参考，prompt 内用 @image1/@video1/@audio1 引用",
+   "一致角色节点生成可复用角色表（sheet_image/character_id），供后续视频锚定",
+   "API Key 支持节点输入、环境变量、CLI 与 ~/.muapi/config.json 四种配置方式"
+  ],
+  "use_cases": [
+   "在 ComfyUI 工作流中直接生成 Seedance 2.5 视频",
+   "用参考图和音频做多模态参考的角色一致性视频",
+   "对已有视频做延展或首末帧插值创作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI 插件",
+   "视频生成",
+   "API 客户端节点",
+   "AI 动画"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: ComfyUI custom nodes for the Seedance 2.5 API, delivered through MuAPI.",
+   "L33: |Text-to-Video|Generates a 720p or 480p clip from a prompt.|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

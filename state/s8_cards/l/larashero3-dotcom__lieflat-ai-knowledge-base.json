@@ -1,1 +1,79 @@
-{"fn": "larashero3-dotcom/lieflat-ai-knowledge-base", "sha": "dcc906b270f3", "source": "readme", "identity": {"one_liner": "追踪 GitHub 热点与 AI 动态的免费知识库（已 100+ 篇播报）", "review": "由个人博主「躺在废墟里」维护、托管在 Moxt 平台上的免费公开知识库：每周更新 4 次 GitHub 热点项目播报（已累计 100+ 篇），覆盖 AI Agent、开发工具、效率工具、模型应用方向，另发布 GitHub Trending 周报，介绍项目亮点与使用场景。配套飞书社群（限企业内部成员）与小红书、抖音、B站等社交渠道。内容免费公开但禁止未经授权的二次商业使用。", "highlights": ["每周 4 次更新 GitHub 热点项目播报，累计 100+ 篇", "GitHub Trending 周报汇总一周值得关注项目", "托管于 Moxt 平台，在线免费阅读"], "use_cases": ["我想快速了解本周 GitHub 上值得关注的 AI 与开源项目", "追踪开源社区新工具、新框架与新趋势", "通过社群交流 AI 工具的使用方法"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识库", "GitHub Trending", "AI资讯", "内容策展"], "domain": "AI 知识/内容聚合", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "飞书社群", "小红书/抖音/哔哩哔哩/公众号渠道"]}, "trust": {"confidence": "high", "evidence": ["L3: 一个免费公开、持续更新的 AI 知识库。这里长期追踪 GitHub 热点项目与 AI 行业动态，帮你从快速变化的信息里，找到真正值得关注和使用的工具。", "L5: > **每周更新 4 次，GitHub 热点项目播报已累计 100+ 篇。**"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-29", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "larashero3-dotcom/lieflat-ai-knowledge-base",
+ "sha": "dcc906b270f3",
+ "source": "readme",
+ "identity": {
+  "one_liner": "追踪 GitHub 热点与 AI 动态的免费知识库（已 100+ 篇播报）",
+  "review": "由个人博主「躺在废墟里」维护、托管在 Moxt 平台上的免费公开知识库：每周更新 4 次 GitHub 热点项目播报（已累计 100+ 篇），覆盖 AI Agent、开发工具、效率工具、模型应用方向，另发布 GitHub Trending 周报，介绍项目亮点与使用场景。配套飞书社群（限企业内部成员）与小红书、抖音、B站等社交渠道。内容免费公开但禁止未经授权的二次商业使用。",
+  "highlights": [
+   "每周 4 次更新 GitHub 热点项目播报，累计 100+ 篇",
+   "GitHub Trending 周报汇总一周值得关注项目",
+   "托管于 Moxt 平台，在线免费阅读"
+  ],
+  "use_cases": [
+   "我想快速了解本周 GitHub 上值得关注的 AI 与开源项目",
+   "追踪开源社区新工具、新框架与新趋势",
+   "通过社群交流 AI 工具的使用方法"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识库",
+   "GitHub Trending",
+   "AI资讯",
+   "内容策展"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "curated-list"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "飞书社群",
+   "小红书/抖音/哔哩哔哩/公众号渠道"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 一个免费公开、持续更新的 AI 知识库。这里长期追踪 GitHub 热点项目与 AI 行业动态，帮你从快速变化的信息里，找到真正值得关注和使用的工具。",
+   "L5: > **每周更新 4 次，GitHub 热点项目播报已累计 100+ 篇。**"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-29",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
