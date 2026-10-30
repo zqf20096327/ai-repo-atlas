@@ -1,1 +1,74 @@
-{"fn": "yashrajagawane/fitness-nutrition-chatbot", "sha": "61e14111b496", "source": "readme", "identity": {"one_liner": "浏览器与手机主屏可装的 AI 健身营养教练应用", "review": "基于 Next.js + React 的全栈 Web 应用，调用 Google Gemini 生成个性化训练、营养、恢复与宏量营养素建议，回答带摘要、行动计划与安全提示，并附健康免责声明。支持多咨询会话、可选个人资料（年龄/体重/目标等）注入 AI 上下文、计划保存与进展记录（训练/体重/饮水/睡眠）。可安装为 PWA，应用外壳离线可用但 AI 与数据请求需联网；认证用可选的 Supabase 邮箱登录，默认数据存于浏览器本地。本地运行需配置 Gemini API key。", "highlights": ["Gemini 驱动的个性化训练/营养/恢复/宏量营养素建议", "PWA 可安装到手机主屏，应用外壳与静态资源离线缓存", "多咨询会话、计划保存、进展记录与 JSON 备份导入导出", "可选 Supabase 邮箱认证，默认数据保存在浏览器本地"], "use_cases": ["在手机上以 PWA 形式获取健身与饮食建议", "管理多个咨询会话并保存有用的训练计划", "记录训练、体重、饮水、睡眠等进展数据"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": null}, "links": {"scenario_tags": ["聊天机器人", "健身/营养", "PWA", "全栈Web应用", "Gemini"], "domain": "健康健身/对话应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L36: - Personalized workout, nutrition, recovery, and macro guidance.", "L90: |Google Gemini|AI coaching responses|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yashrajagawane/fitness-nutrition-chatbot",
+ "sha": "61e14111b496",
+ "source": "readme",
+ "identity": {
+  "one_liner": "浏览器与手机主屏可装的 AI 健身营养教练应用",
+  "review": "基于 Next.js + React 的全栈 Web 应用，调用 Google Gemini 生成个性化训练、营养、恢复与宏量营养素建议，回答带摘要、行动计划与安全提示，并附健康免责声明。支持多咨询会话、可选个人资料（年龄/体重/目标等）注入 AI 上下文、计划保存与进展记录（训练/体重/饮水/睡眠）。可安装为 PWA，应用外壳离线可用但 AI 与数据请求需联网；认证用可选的 Supabase 邮箱登录，默认数据存于浏览器本地。本地运行需配置 Gemini API key。",
+  "highlights": [
+   "Gemini 驱动的个性化训练/营养/恢复/宏量营养素建议",
+   "PWA 可安装到手机主屏，应用外壳与静态资源离线缓存",
+   "多咨询会话、计划保存、进展记录与 JSON 备份导入导出",
+   "可选 Supabase 邮箱认证，默认数据保存在浏览器本地"
+  ],
+  "use_cases": [
+   "在手机上以 PWA 形式获取健身与饮食建议",
+   "管理多个咨询会话并保存有用的训练计划",
+   "记录训练、体重、饮水、睡眠等进展数据"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": null
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天机器人",
+   "健身/营养",
+   "PWA",
+   "全栈Web应用",
+   "Gemini"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L36: - Personalized workout, nutrition, recovery, and macro guidance.",
+   "L90: |Google Gemini|AI coaching responses|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

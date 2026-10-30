@@ -1,0 +1,58 @@
+# inference-gateway/adl-cli
+
+⭐ 15 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/inference-gateway/adl-cli) · [官网](https://github.com/inference-gateway) · 组织维护
+
+**从 YAML 定义生成 A2A 协议 Agent 服务端脚手架的 CLI**
+
+基于 Go 的命令行工具，从 YAML 格式的 Agent Definition Language (ADL) 文件生成完整的企业级 A2A (Agent-to-Agent) 服务端项目脚手架，支持 Go/Rust/TypeScript 三种目标语言。生成的项目包含多 AI 提供商接入（OpenAI、Anthropic、Google、Groq、DeepSeek、Ollama 等 13 家）、认证、审计日志、OpenTelemetry 观测、MCP 客户端、MinIO 制品存储，并可生成 GitHub Actions CI/CD 工作流与 Kubernetes/Cloud Run 等部署配置。提供 npx、安装脚本、go install、Nix 等多种安装方式。项目自述处于早期开发阶段，预期存在破坏性变更。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | Apache-2.0 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | `idea` | |
+
+## 能力要点
+
+- 从 YAML ADL 文件生成 A2A 服务端项目（Go/Rust/TypeScript）
+- 生成项目内置 13 家 AI 提供商接入支持
+- 自动生成 GitHub Actions CI/CD 与 semantic-release 发布流水线
+- 生成项目包含认证、审计日志、OpenTelemetry、MCP 客户端等企业特性
+
+## 适用场景
+
+- 快速搭建符合 A2A 协议的企业级 Agent 服务端
+- 用声明式 YAML 统一团队 Agent 项目的结构与配置模式
+- 为 Agent 项目自动生成 CI/CD 与容器化部署配置
+
+## 场景标签
+
+`代码生成` · 领域:编码与开发
+
+## 证据(README 行号)
+
+> L3: _A command-line interface for generating enterprise-ready A2A (Agent-to-Agent) servers from Agent Definition Languag
+> L17: The ADL CLI helps you build enterprise-ready A2A agents quickly by generating complete project scaffolding from YAM
+> L33: - 🤖 **Multi-Provider AI** - OpenAI, Anthropic, Google, Groq, Mistral, DeepSeek, Cohere, Cloudflare, Moonshot, Ollam
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inference-gateway/adl-cli 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-10-18 15 → 2026-10-30 15（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `ed4830523fb9` · [字段定义](../../DATASET.md)*

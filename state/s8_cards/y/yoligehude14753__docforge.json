@@ -1,1 +1,84 @@
-{"fn": "yoligehude14753/docforge", "sha": "3b14a78cc5d2", "source": "readme", "identity": {"one_liner": "面向标书与方案撰写的 AI 文档生成桌面应用", "review": "基于 Tauri（React 19 + TypeScript 前端、Rust 后端）的本地桌面应用：用户上传招标文件/需求说明与公司参考文档（PDF/Word），应用解析出结构化需求条目与大纲，从知识库检索相关段落（RAG），调用 AI 逐章节独立生成与重写，最终导出 .docx 文档。支持 OpenAI / DeepSeek / Claude / Ollama 多提供商切换，项目数据存储于本机，出站请求仅为用户配置的 AI API。三类平台提供安装包下载。", "highlights": ["需求文件解析为结构化条目并自动生成大纲", "知识库驱动的 RAG 章节生成，基于用户上传资料", "逐章节独立生成、重写与审阅，已审内容不被覆盖", "多 AI 提供商切换（OpenAI / DeepSeek / Claude / Ollama），Ollama 无需 API Key"], "use_cases": ["针对招标文件逐项生成标书响应内容", "基于公司历史方案与产品资料撰写解决方案或 Proposal", "用本地 Ollama 模型离线生成文档内容"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档生成", "标书/方案撰写", "RAG", "桌面应用", "Tauri"], "domain": "文档生成/办公自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "anthropic", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README"]}, "trust": {"confidence": "mid", "evidence": ["L5: 文档撰写最耗人的不是写作本身，而是通读需求、梳理逻辑、对照资料、反复调整结构这些前置工作。DocForge 把这部分接过来——上传你的需求文件和公司参考资料，它自动解析需求、生成大纲、调用 AI 逐章节起草内容，你只需要审阅和收尾。", "L30: ### 知识库驱动写作（RAG）"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yoligehude14753/docforge",
+ "sha": "3b14a78cc5d2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向标书与方案撰写的 AI 文档生成桌面应用",
+  "review": "基于 Tauri（React 19 + TypeScript 前端、Rust 后端）的本地桌面应用：用户上传招标文件/需求说明与公司参考文档（PDF/Word），应用解析出结构化需求条目与大纲，从知识库检索相关段落（RAG），调用 AI 逐章节独立生成与重写，最终导出 .docx 文档。支持 OpenAI / DeepSeek / Claude / Ollama 多提供商切换，项目数据存储于本机，出站请求仅为用户配置的 AI API。三类平台提供安装包下载。",
+  "highlights": [
+   "需求文件解析为结构化条目并自动生成大纲",
+   "知识库驱动的 RAG 章节生成，基于用户上传资料",
+   "逐章节独立生成、重写与审阅，已审内容不被覆盖",
+   "多 AI 提供商切换（OpenAI / DeepSeek / Claude / Ollama），Ollama 无需 API Key"
+  ],
+  "use_cases": [
+   "针对招标文件逐项生成标书响应内容",
+   "基于公司历史方案与产品资料撰写解决方案或 Proposal",
+   "用本地 Ollama 模型离线生成文档内容"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档生成",
+   "标书/方案撰写",
+   "RAG",
+   "桌面应用",
+   "Tauri"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L5: 文档撰写最耗人的不是写作本身，而是通读需求、梳理逻辑、对照资料、反复调整结构这些前置工作。DocForge 把这部分接过来——上传你的需求文件和公司参考资料，它自动解析需求、生成大纲、调用 AI 逐章节起草内容，你只需要审阅和收尾。",
+   "L30: ### 知识库驱动写作（RAG）"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

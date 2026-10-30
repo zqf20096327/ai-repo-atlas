@@ -1,1 +1,78 @@
-{"fn": "yhzhu99/ehr-llm-benchmark", "sha": "9a890887022f", "source": "readme", "identity": {"one_liner": "临床预测任务的 LLM 基准评测代码：LLM 对比传统 ML", "review": "npj Digital Medicine 2026 论文 ClinicRealm 的官方代码仓库：在 MIMIC-IV 与 TJH 数据集上，对 15 个 GPT 式 LLM、5 个 BERT 式模型和 11 种传统机器学习/深度学习方法进行非生成式临床预测任务的基准评测，任务涵盖院内死亡、30 天再入院、住院时长预测等。结构化 EHR 与非结构化临床笔记实验代码分目录提供，MIMIC-IV 预处理依赖外部仓库 PKU-AICare/mimic_preprocessor。环境为 Python 3.12，使用 uv 管理依赖。", "highlights": ["覆盖 15 个 LLM、5 个 BERT 式模型与 11 种传统 ML/DL 方法的对比实验", "结构化 EHR 与非结构化临床笔记两类输入、多项临床预测任务", "在线基准结果页面与独立的数据预处理仓库", "Python 3.12 + uv 依赖管理"], "use_cases": ["复现论文中的临床预测基准实验", "为医院预测任务选型 LLM 或传统 ML 模型时参考基准结果", "在 MIMIC-IV/TJH 数据上跑自己的模型对比"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "research"}, "eval": {"target_user": "科研", "paper_url": "https://www.nature.com/articles/s41746-026-02539-z", "demo_url": "https://yhzhu99.github.io/ehr-llm-benchmark/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["评测基准", "医疗AI", "EHR", "临床预测", "论文代码"], "domain": "医疗 AI/评测基准", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L14: Large Language Models (LLMs) are increasingly deployed in medicine. However, their utility in non-generative clinical pr", "L29: The following prediction tasks, based on the MIMIC-IV and TJH datasets, have been implemented and evaluated in this repo", "L45: We examine a diverse array of models:"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yhzhu99/ehr-llm-benchmark",
+ "sha": "9a890887022f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "临床预测任务的 LLM 基准评测代码：LLM 对比传统 ML",
+  "review": "npj Digital Medicine 2026 论文 ClinicRealm 的官方代码仓库：在 MIMIC-IV 与 TJH 数据集上，对 15 个 GPT 式 LLM、5 个 BERT 式模型和 11 种传统机器学习/深度学习方法进行非生成式临床预测任务的基准评测，任务涵盖院内死亡、30 天再入院、住院时长预测等。结构化 EHR 与非结构化临床笔记实验代码分目录提供，MIMIC-IV 预处理依赖外部仓库 PKU-AICare/mimic_preprocessor。环境为 Python 3.12，使用 uv 管理依赖。",
+  "highlights": [
+   "覆盖 15 个 LLM、5 个 BERT 式模型与 11 种传统 ML/DL 方法的对比实验",
+   "结构化 EHR 与非结构化临床笔记两类输入、多项临床预测任务",
+   "在线基准结果页面与独立的数据预处理仓库",
+   "Python 3.12 + uv 依赖管理"
+  ],
+  "use_cases": [
+   "复现论文中的临床预测基准实验",
+   "为医院预测任务选型 LLM 或传统 ML 模型时参考基准结果",
+   "在 MIMIC-IV/TJH 数据上跑自己的模型对比"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://www.nature.com/articles/s41746-026-02539-z",
+  "demo_url": "https://yhzhu99.github.io/ehr-llm-benchmark/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "评测基准",
+   "医疗AI",
+   "EHR",
+   "临床预测",
+   "论文代码"
+  ],
+  "domain": "评测与运维",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-evaluation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L14: Large Language Models (LLMs) are increasingly deployed in medicine. However, their utility in non-generative clinical pr",
+   "L29: The following prediction tasks, based on the MIMIC-IV and TJH datasets, have been implemented and evaluated in this repo",
+   "L45: We examine a diverse array of models:"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

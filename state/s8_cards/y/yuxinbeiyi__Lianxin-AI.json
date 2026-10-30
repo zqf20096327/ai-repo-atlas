@@ -1,1 +1,88 @@
-{"fn": "yuxinbeiyi/Lianxin-AI", "sha": "2686daefcd41", "source": "readme", "identity": {"one_liner": "Windows 桌面 AI 陪伴助手：带持久记忆与情绪连续性", "review": "面向个人用户的 Windows 桌面 AI 陪伴应用，提供 PyQt5 与 React+Tauri 2 两套界面，通过 LiteLLM 接入 DeepSeek、OpenAI 兼容端点或本地 Ollama。核心机制包括分层 Prism 记忆（分类事实、五元组知识图谱、语义检索）、五轴情绪状态模型、可热切换的人设系统、定时与冷却控制下的主动行为，以及本地视觉（VisionLab）、语音（FunASR/Edge-TTS/GPT-SoVITS）与 QQ/微信桥接；附带自习室、时间胶囊等本地功能，数据存于本地 SQLite。", "highlights": ["Prism 记忆：分类事实、五元组知识图谱与语义检索（RAG）", "五轴情绪状态模型与人设热切换，记忆不作为指令权威", "主动行为（定时聊天、桌面观察、B 站浏览）带暂停与冷却控制", "本地视觉 VisionLab（人脸/手势/姿态）与本地 FunASR 语音识别"], "use_cases": ["想要有长期记忆和情绪连续性的桌面 AI 陪伴角色", "通过 QQ/微信与 AI 伙伴保持联系", "借助 AI 陪伴进行专注学习与日常记录"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://www.bilibili.com（演示视频见 README L53）", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI陪伴", "桌面Agent", "长期记忆/RAG", "情绪建模", "个人助理"], "domain": "桌面 AI 陪伴应用", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["双语 README 含简体中文版", "Bilibili 演示视频与浏览功能", "QQ/微信桥接"]}, "trust": {"confidence": "high", "evidence": ["L15: > A Windows desktop AI companion with persistent memory, emotional state, editable personas, and proactive behaviors.", "L17: It ships two desktop interfaces: the original **PyQt5** window and a newer **React + TypeScript + Vite + Tauri 2** shell", "L35: |Model providers|DeepSeek, Agnes AI, OpenAI-compatible endpoints, and local Ollama models|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "yuxinbeiyi/Lianxin-AI",
+ "sha": "2686daefcd41",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Windows 桌面 AI 陪伴助手：带持久记忆与情绪连续性",
+  "review": "面向个人用户的 Windows 桌面 AI 陪伴应用，提供 PyQt5 与 React+Tauri 2 两套界面，通过 LiteLLM 接入 DeepSeek、OpenAI 兼容端点或本地 Ollama。核心机制包括分层 Prism 记忆（分类事实、五元组知识图谱、语义检索）、五轴情绪状态模型、可热切换的人设系统、定时与冷却控制下的主动行为，以及本地视觉（VisionLab）、语音（FunASR/Edge-TTS/GPT-SoVITS）与 QQ/微信桥接；附带自习室、时间胶囊等本地功能，数据存于本地 SQLite。",
+  "highlights": [
+   "Prism 记忆：分类事实、五元组知识图谱与语义检索（RAG）",
+   "五轴情绪状态模型与人设热切换，记忆不作为指令权威",
+   "主动行为（定时聊天、桌面观察、B 站浏览）带暂停与冷却控制",
+   "本地视觉 VisionLab（人脸/手势/姿态）与本地 FunASR 语音识别"
+  ],
+  "use_cases": [
+   "想要有长期记忆和情绪连续性的桌面 AI 陪伴角色",
+   "通过 QQ/微信与 AI 伙伴保持联系",
+   "借助 AI 陪伴进行专注学习与日常记录"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://www.bilibili.com（演示视频见 README L53）",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI陪伴",
+   "桌面Agent",
+   "长期记忆/RAG",
+   "情绪建模",
+   "个人助理"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant",
+   "agent-memory",
+   "asr",
+   "tts"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "双语 README 含简体中文版",
+   "Bilibili 演示视频与浏览功能",
+   "QQ/微信桥接"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: > A Windows desktop AI companion with persistent memory, emotional state, editable personas, and proactive behaviors.",
+   "L17: It ships two desktop interfaces: the original **PyQt5** window and a newer **React + TypeScript + Vite + Tauri 2** shell",
+   "L35: |Model providers|DeepSeek, Agnes AI, OpenAI-compatible endpoints, and local Ollama models|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,80 @@
-{"fn": "zdt1013/wen-ai-cli", "sha": "09206bad6442", "source": "readme", "identity": {"one_liner": "面向服务器运维的 CLI，用自然语言查找并执行系统命令", "review": "用 Go 编写的命令行工具，面向服务器运维与个人主机管理用户。通过配置 API 密钥与模型接入大模型，提供单轮提问、多轮对话和 man 模式三种交互：用自然语言描述需求获取命令建议，智能解析命令手册，感知当前工作环境。支持 Linux/macOS/Windows（arm、amd）平台与中英文界面，可通过安装脚本下载二进制或本地编译安装；需自行配置 API 密钥、baseUrl 与模型参数。未来计划包含 functioncall、mcp 支持与用户知识库。", "highlights": ["单轮提问、对话模式与 wen man 命令手册智能查询三种交互方式", "跨平台支持 Linux/macOS/Windows（arm、amd 架构）", "智能感知当前工作环境，内置中英文国际化", "基于 cloudwego/eino 与 go-openai 客户端接入大模型"], "use_cases": ["运维时用自然语言快速查找系统命令", "通过对话式 AI 获取命令执行方案", "用大模型查询和解读命令手册（替代原生 man 场景）"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["运维工具", "CLI", "AI助手", "命令查询", "DevOps"], "domain": "运维/命令行工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中文 README 与中文项目名“问AI”"]}, "trust": {"confidence": "high", "evidence": ["L3: 问AI (Wen AI) CLI是一个专为服务器运维和个人主机管理设计的CLI工具，通过集成AI能力，帮助用户快速查找和执行系统命令，提升运维效率。它能够智能解析用户需求，提供精准的命令建议和执行方案，是运维人员的得力助手。", "L9: - 🤖 智能对话：支持与AI进行自然语言对话，快速查找应用命令", "L103: > wen config --apiKey YOUR_API_KEY --baseUrl YOUR_API_BASE --model YOUR_API_MODEL"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zdt1013/wen-ai-cli",
+ "sha": "09206bad6442",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向服务器运维的 CLI，用自然语言查找并执行系统命令",
+  "review": "用 Go 编写的命令行工具，面向服务器运维与个人主机管理用户。通过配置 API 密钥与模型接入大模型，提供单轮提问、多轮对话和 man 模式三种交互：用自然语言描述需求获取命令建议，智能解析命令手册，感知当前工作环境。支持 Linux/macOS/Windows（arm、amd）平台与中英文界面，可通过安装脚本下载二进制或本地编译安装；需自行配置 API 密钥、baseUrl 与模型参数。未来计划包含 functioncall、mcp 支持与用户知识库。",
+  "highlights": [
+   "单轮提问、对话模式与 wen man 命令手册智能查询三种交互方式",
+   "跨平台支持 Linux/macOS/Windows（arm、amd 架构）",
+   "智能感知当前工作环境，内置中英文国际化",
+   "基于 cloudwego/eino 与 go-openai 客户端接入大模型"
+  ],
+  "use_cases": [
+   "运维时用自然语言快速查找系统命令",
+   "通过对话式 AI 获取命令执行方案",
+   "用大模型查询和解读命令手册（替代原生 man 场景）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "运维工具",
+   "CLI",
+   "AI助手",
+   "命令查询",
+   "DevOps"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中文 README 与中文项目名“问AI”"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: 问AI (Wen AI) CLI是一个专为服务器运维和个人主机管理设计的CLI工具，通过集成AI能力，帮助用户快速查找和执行系统命令，提升运维效率。它能够智能解析用户需求，提供精准的命令建议和执行方案，是运维人员的得力助手。",
+   "L9: - 🤖 智能对话：支持与AI进行自然语言对话，快速查找应用命令",
+   "L103: > wen config --apiKey YOUR_API_KEY --baseUrl YOUR_API_BASE --model YOUR_API_MODEL"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "saadkhan1150/telegram-mcp", "sha": "4425eab67605", "source": "readme", "identity": {"one_liner": "多 Telegram 账号管理桌面应用：群发、定时任务与 AI 工具", "review": "面向 Telegram 用户的账号管理应用：支持多账号免切换登录、批量群发消息、定时任务调度、QR 码登录，并提供 123+ AI 工具（如文本润色）与 Web 仪表盘。安装方式为从 Releases 下载安装包（Windows .exe / macOS .dmg / Linux zip），运行后按向导完成账号设置。README 提及系统需求为 Windows 10+/macOS/Linux、4 GB 内存与网络连接，但未展示源码构建或 MCP 协议细节，仅仓库名与标签含 mcp-server/fastmcp。", "highlights": ["多 Telegram 账号统一管理，QR 码登录", "批量群发消息与定时任务调度", "123+ AI 工具（含文本润色）", "Web 仪表盘管理账号与功能"], "use_cases": ["同时管理多个 Telegram 账号无需反复登出登入", "向多个联系人批量发送消息", "设置定时发送的任务", "通过 Web 仪表盘进行日常账号管理"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["Telegram", "消息群发/自动化", "桌面应用", "MCP"], "domain": "即时通讯/自动化工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L7: telegram-mcp is a powerful tool for managing multiple Telegram accounts. This application is designed for users who want", "L13: - **AI Tools:** Utilize 123+ AI tools for various tasks."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "saadkhan1150/telegram-mcp",
+ "sha": "4425eab67605",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多 Telegram 账号管理桌面应用：群发、定时任务与 AI 工具",
+  "review": "面向 Telegram 用户的账号管理应用：支持多账号免切换登录、批量群发消息、定时任务调度、QR 码登录，并提供 123+ AI 工具（如文本润色）与 Web 仪表盘。安装方式为从 Releases 下载安装包（Windows .exe / macOS .dmg / Linux zip），运行后按向导完成账号设置。README 提及系统需求为 Windows 10+/macOS/Linux、4 GB 内存与网络连接，但未展示源码构建或 MCP 协议细节，仅仓库名与标签含 mcp-server/fastmcp。",
+  "highlights": [
+   "多 Telegram 账号统一管理，QR 码登录",
+   "批量群发消息与定时任务调度",
+   "123+ AI 工具（含文本润色）",
+   "Web 仪表盘管理账号与功能"
+  ],
+  "use_cases": [
+   "同时管理多个 Telegram 账号无需反复登出登入",
+   "向多个联系人批量发送消息",
+   "设置定时发送的任务",
+   "通过 Web 仪表盘进行日常账号管理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "Telegram",
+   "消息群发/自动化",
+   "桌面应用",
+   "MCP"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L7: telegram-mcp is a powerful tool for managing multiple Telegram accounts. This application is designed for users who want",
+   "L13: - **AI Tools:** Utilize 123+ AI tools for various tasks."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

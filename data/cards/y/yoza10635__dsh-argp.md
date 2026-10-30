@@ -33,7 +33,7 @@ DeepSeek Harness（dsh）的上下文压缩插件，替换摘要式压缩：Stag
 
 ## 场景标签
 
- · 领域:LLM 基础设施/agent 工具
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

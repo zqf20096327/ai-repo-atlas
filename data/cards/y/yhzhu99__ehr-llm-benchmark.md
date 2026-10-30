@@ -33,7 +33,7 @@ npj Digital Medicine 2026 论文 ClinicRealm 的官方代码仓库：在 MIMIC-I
 
 ## 场景标签
 
- · 领域:医疗 AI/评测基准
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 

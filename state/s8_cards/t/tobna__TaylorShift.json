@@ -1,1 +1,76 @@
-{"fn": "tobna/TaylorShift", "sha": "41a409fc95ec", "source": "readme", "identity": {"one_liner": "TaylorShift 论文代码：将自注意力复杂度由平方降至线性的注意力机制", "review": "ICPR 2024 论文《TaylorShift》的代码附录，基于 PyTorch 的 Timm 包实现。提供带 TaylorShift 注意力机制的 Transformer 与 ViT 模型类，可通过阈值 N0 在 direct-TaylorShift（平方复杂度）与 efficient-TaylorShift（线性复杂度）实现间自动切换：序列长度超过 N0 时使用高效版本，否则使用直接版本。附带两种实现仅有数值差异的对比脚本与训练代码，供研究人员复现论文方法。实验与分析代码部分尚未完整收录。", "highlights": ["提供 TaylorShiftTransformer 与 TaylorShiftViT 模型类", "通过阈值 N0 在平方与线性复杂度实现间自动切换", "附带验证两种实现仅数值差异的对比脚本", "基于 Timm/PyTorch 计算机视觉生态"], "use_cases": ["复现 ICPR 2024 论文中的 TaylorShift 注意力机制", "在长序列任务中使用线性复杂度自注意力", "研究注意力机制复杂度变化的数值行为"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["注意力机制", "Transformer", "高效深度学习", "论文代码"], "domain": "深度学习/模型架构研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9: This is the code appendix for the paper *TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (", "L25: You can instantiate a Transformer or ViT model with the TaylorShift attention mechanism by importing the corresponding c"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "tobna/TaylorShift",
+ "sha": "41a409fc95ec",
+ "source": "readme",
+ "identity": {
+  "one_liner": "TaylorShift 论文代码：将自注意力复杂度由平方降至线性的注意力机制",
+  "review": "ICPR 2024 论文《TaylorShift》的代码附录，基于 PyTorch 的 Timm 包实现。提供带 TaylorShift 注意力机制的 Transformer 与 ViT 模型类，可通过阈值 N0 在 direct-TaylorShift（平方复杂度）与 efficient-TaylorShift（线性复杂度）实现间自动切换：序列长度超过 N0 时使用高效版本，否则使用直接版本。附带两种实现仅有数值差异的对比脚本与训练代码，供研究人员复现论文方法。实验与分析代码部分尚未完整收录。",
+  "highlights": [
+   "提供 TaylorShiftTransformer 与 TaylorShiftViT 模型类",
+   "通过阈值 N0 在平方与线性复杂度实现间自动切换",
+   "附带验证两种实现仅数值差异的对比脚本",
+   "基于 Timm/PyTorch 计算机视觉生态"
+  ],
+  "use_cases": [
+   "复现 ICPR 2024 论文中的 TaylorShift 注意力机制",
+   "在长序列任务中使用线性复杂度自注意力",
+   "研究注意力机制复杂度变化的数值行为"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "注意力机制",
+   "Transformer",
+   "高效深度学习",
+   "论文代码"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "model-training"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9: This is the code appendix for the paper *TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (",
+   "L25: You can instantiate a Transformer or ViT model with the TaylorShift attention mechanism by importing the corresponding c"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "zifacorp/zifamem", "sha": "d71b484d26cc", "source": "readme", "identity": {"one_liner": "AI 伴侣的情感长期记忆框架：记忆可强化、衰减与遗忘", "review": "面向 AI 伴侣、角色扮演与关系型 agent 的情感长期记忆 Python SDK（alpha）。默认无 LLM 依赖：会话缓冲→摘要→L3 情感长期记忆→L4 用户画像的分层生命周期，提供记忆强化/衰减/遗忘 API 与组合语义、强度、重要度、近期性与情绪强度的召回排序；可选注入 OpenAI 兼容 LLMProvider 做提取，失败时回退启发式。本地存储为内存/JSON，数据库与向量适配器尚未实现，合并与反思循环仍在 TODO。附论文（arXiv 2607.17564）与两个 SKILL.md 格式 Agent Skills。", "highlights": ["L1-L4 分层记忆生命周期（会话缓冲/摘要/情感长期记忆/用户画像）", "默认依赖启发式提取，无需 LLM；可选 OpenAI 兼容 Provider 并带回退", "记忆强化/衰减/遗忘 API 与多因素情绪感知召回排序", "可移植 Agent Skills（集成指南与记忆安全审计）"], "use_cases": ["让 AI 伴侣跨会话记住情感历史与关系演变", "构建角色扮演、陪护、教练类 agent 的长期记忆层", "为 agent 应用做记忆提取与召回的记忆安全审计"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": "https://arxiv.org/abs/2607.17564", "demo_url": null, "self_declared_early": {"flag": true, "lines": [59]}}, "links": {"scenario_tags": ["长期记忆", "AI伴侣", "情感计算", "agent基础设施"], "domain": "LLM 基础设施/记忆层", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L76: ZifaMem is an emotional long-term memory framework for AI agents, companions, and relationship-centered products.", "L171: - Agent-native interfaces for extraction, storage, retrieval, session consolidation, and prompt context assembly"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zifacorp/zifamem",
+ "sha": "d71b484d26cc",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 伴侣的情感长期记忆框架：记忆可强化、衰减与遗忘",
+  "review": "面向 AI 伴侣、角色扮演与关系型 agent 的情感长期记忆 Python SDK（alpha）。默认无 LLM 依赖：会话缓冲→摘要→L3 情感长期记忆→L4 用户画像的分层生命周期，提供记忆强化/衰减/遗忘 API 与组合语义、强度、重要度、近期性与情绪强度的召回排序；可选注入 OpenAI 兼容 LLMProvider 做提取，失败时回退启发式。本地存储为内存/JSON，数据库与向量适配器尚未实现，合并与反思循环仍在 TODO。附论文（arXiv 2607.17564）与两个 SKILL.md 格式 Agent Skills。",
+  "highlights": [
+   "L1-L4 分层记忆生命周期（会话缓冲/摘要/情感长期记忆/用户画像）",
+   "默认依赖启发式提取，无需 LLM；可选 OpenAI 兼容 Provider 并带回退",
+   "记忆强化/衰减/遗忘 API 与多因素情绪感知召回排序",
+   "可移植 Agent Skills（集成指南与记忆安全审计）"
+  ],
+  "use_cases": [
+   "让 AI 伴侣跨会话记住情感历史与关系演变",
+   "构建角色扮演、陪护、教练类 agent 的长期记忆层",
+   "为 agent 应用做记忆提取与召回的记忆安全审计"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://arxiv.org/abs/2607.17564",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    59
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "长期记忆",
+   "AI伴侣",
+   "情感计算",
+   "agent基础设施"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "agent-memory"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L76: ZifaMem is an emotional long-term memory framework for AI agents, companions, and relationship-centered products.",
+   "L171: - Agent-native interfaces for extraction, storage, retrieval, session consolidation, and prompt context assembly"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
