@@ -1,0 +1,58 @@
+# lucasmartins-ai/lcc
+
+⭐ 16 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lucasmartins-ai/lcc) · [官网](https://lookadev.com/en/lcc) · 个人维护
+
+**为编程 agent 精简上下文的本地工具，逐字保留、可回溯**
+
+面向使用 Claude Code 等 coding agent 的开发者：以 CLI、MCP 服务器和 Claude Code 插件三种形式提供会话上下文压缩。机制上不依赖模型摘要，而是移除旧的工具输出到本地内容寻址存储（stash），用户与助手消息逐字保留，每条被移除内容可通过 recall 按哈希校验取回，每次压缩输出 JSON 报告。提供商分 rules（无模型、本地、有损可证）与本地 CPU ranker specialist-v3，另有需 API key 的远程 jev 路径（opt-in）。限制：不验证回答质量，不做 RAG；specialist-v3 在 Claude Code 转写之外属分布外。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | `idea` | |
+
+## 能力要点
+
+- 移除的工具输出存入本地 stash，recall 按哈希校验逐字节取回
+- rules 模式无模型、无 API key、完全离线运行
+- 每次压缩输出 JSON 报告，lcc explain 给出每处删除的原因
+- 提供 CLI、MCP 服务器（compact/recall/inspect 等 7 个工具）与 Claude Code 插件
+
+## 适用场景
+
+- 长 Claude Code 会话压缩上下文且不丢失可回溯的原文
+- 离线测量会话 token 占用与压缩收益
+- 在 Cursor、Claude Desktop 等 stdio MCP 客户端中接入压缩工具
+
+## 场景标签
+
+ · 领域:LLM 基础设施/上下文工程
+
+## 证据(README 行号)
+
+> L65: **MCP** (Claude Code, Cursor, Claude Desktop, any stdio client):
+> L71: Tools: `compact`, `compact_transcript`, `recall`, `inspect`, `prepare`, `explain`, `intake`
+> L115: - **Local.** The default judges run on your CPU in plain Python. No API key, no network.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucasmartins-ai/lcc 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 15, 16, 16]
+```
+
+2026-10-18 12 → 2026-10-30 16（+4）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `948954caab58` · [字段定义](../../DATASET.md)*

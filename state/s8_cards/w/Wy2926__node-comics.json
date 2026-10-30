@@ -1,1 +1,81 @@
-{"fn": "Wy2926/node-comics", "sha": "5b6ec94ad1ea", "source": "readme", "identity": {"one_liner": "带 AI 图片翻译的漫画阅读浏览器插件", "review": "适用于 Chrome、Edge、Firefox 的漫画阅读浏览器插件（NodeLane 漫译）：支持导入本地文件、Google Drive、OPDS 书库与已适配网站漫画进书架，提供漫画发现与搜索、离线缓存续读、多种阅读模式。翻译功能支持浏览器本地翻译（Beta，下载模型后无需部署服务，图片留本机、文字发送所选翻译服务）、官方翻译服务或自建 manga-translator-ui，可原图译图对照。代码采用 GPL-3.0-only，另含后端、计算节点、图像引擎（检测/OCR/LaMa 抹字嵌字）等模块。", "highlights": ["浏览器本地翻译（Beta）：下载模型即可用，无需部署服务，图片留在本机", "支持本地文件、Google Drive、OPDS 与已适配网站导入", "原图与译图并排对照，保留阅读位置", "离线缓存网站漫画章节，可暂停续读"], "use_cases": ["在浏览器里统一管理并阅读各来源的漫画", "阅读外文漫画时即时翻译图片并与原图对照", "缓存章节后离线续读"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "viral", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [15], "note": "浏览器本地翻译标注 Beta"}}, "links": {"scenario_tags": ["浏览器插件", "漫画阅读", "图片翻译/OCR", "离线阅读"], "domain": "漫画阅读/图片翻译工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["全中文 README（附英文切换）", "Telegram 交流群"]}, "trust": {"confidence": "mid", "evidence": ["L13: 适用于 Chrome、Edge、Firefox。把本地文件、Google Drive 和已适配网站的漫画放进书架，边看边译，随时对照原图。", "L15: 在设置中选择「浏览器本地翻译（Beta）」，下载模型和字体后即可使用，无需部署服务。图片留在本机，识别文字发送到所选翻译服务；也可使用官方翻译或连接自建 manga-translator-ui。", "L22: - **随读随译**：在阅读器或网页中翻译图片，切回原图或并排对照，保留阅读位置。"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "Wy2926/node-comics",
+ "sha": "5b6ec94ad1ea",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 图片翻译的漫画阅读浏览器插件",
+  "review": "适用于 Chrome、Edge、Firefox 的漫画阅读浏览器插件（NodeLane 漫译）：支持导入本地文件、Google Drive、OPDS 书库与已适配网站漫画进书架，提供漫画发现与搜索、离线缓存续读、多种阅读模式。翻译功能支持浏览器本地翻译（Beta，下载模型后无需部署服务，图片留本机、文字发送所选翻译服务）、官方翻译服务或自建 manga-translator-ui，可原图译图对照。代码采用 GPL-3.0-only，另含后端、计算节点、图像引擎（检测/OCR/LaMa 抹字嵌字）等模块。",
+  "highlights": [
+   "浏览器本地翻译（Beta）：下载模型即可用，无需部署服务，图片留在本机",
+   "支持本地文件、Google Drive、OPDS 与已适配网站导入",
+   "原图与译图并排对照，保留阅读位置",
+   "离线缓存网站漫画章节，可暂停续读"
+  ],
+  "use_cases": [
+   "在浏览器里统一管理并阅读各来源的漫画",
+   "阅读外文漫画时即时翻译图片并与原图对照",
+   "缓存章节后离线续读"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "viral",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    15
+   ],
+   "note": "浏览器本地翻译标注 Beta"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "浏览器插件",
+   "漫画阅读",
+   "图片翻译/OCR",
+   "离线阅读"
+  ],
+  "domain": "漫画阅读/图片翻译工具",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README（附英文切换）",
+   "Telegram 交流群"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L13: 适用于 Chrome、Edge、Firefox。把本地文件、Google Drive 和已适配网站的漫画放进书架，边看边译，随时对照原图。",
+   "L15: 在设置中选择「浏览器本地翻译（Beta）」，下载模型和字体后即可使用，无需部署服务。图片留在本机，识别文字发送到所选翻译服务；也可使用官方翻译或连接自建 manga-translator-ui。",
+   "L22: - **随读随译**：在阅读器或网页中翻译图片，切回原图或并排对照，保留阅读位置。"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

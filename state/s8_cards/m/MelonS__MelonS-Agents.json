@@ -1,1 +1,90 @@
-{"fn": "MelonS/MelonS-Agents", "sha": "0dc1a6ceb85a", "source": "readme", "identity": {"one_liner": "多智能体系统：音乐生成短视频，并自建自验证殖民地模拟游戏", "review": "个人用 Claude Code 构建的多智能体系统，包含多条流水线：music-video 把一首歌生成 60 秒 9:16 竖屏短片（节拍对齐剪辑）；content-shorts 生成经版权审查的短视频；game-dev-agent 构建并自我验证殖民地模拟游戏 PawnSim。运行时依赖本地开源工具（ffmpeg、whisper.cpp、ollama、aubio），Claude Code 智能体只做编排，宣称零运行时 API 费用。验证机制包括每次提交 22 场景输入级重现门禁与仅看截图/日志的隔离评审子智能体。Mac/Linux 可克隆运行，构建游戏需 Windows + Unity 6000.0.75f1。", "highlights": ["music-video 流水线：歌曲 → 60 秒 9:16 短片，节拍对齐剪辑", "PawnSim 由智能体构建并以 22 场景重现门禁 + 隔离评审子智能体验证", "流水线以 LangGraph 状态机运行，在昂贵阶段前设门禁节省渲染时间", "本地工具链（ffmpeg/whisper.cpp/ollama/aubio）承担机械工作，宣称零运行时 API token"], "use_cases": ["把一首歌自动生成 60 秒竖屏短视频", "参考其智能体自验证游戏构建的门禁与评审机制", "在本地零 API 成本运行媒体生成流水线"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://melons.github.io/MelonS-Agents/play/", "self_declared_early": {"flag": true, "lines": [71, 72, 75]}}, "links": {"scenario_tags": ["多智能体系统", "视频生成", "游戏开发", "自动化验证", "内容生产"], "domain": "AI 应用/自动化内容生产", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic", "ollama"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["README 提供韩国语版本", "韩国求职板摘要流水线"]}, "trust": {"confidence": "low", "evidence": ["L5: ### A multi-agent system built solo with Claude Code. It turns music into short-form video, and builds a colony-sim game", "L37: - **Zero runtime cost.** Local open-source tools (ffmpeg · whisper.cpp · ollama · aubio) do the mechanical work; Claude ", "L69: |**music-video**|a song in → a 60-second 9:16 short (beat-aligned cuts, vintage ffmpeg shaders)|Production\\*|✅ Mac/Linux"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "MelonS/MelonS-Agents",
+ "sha": "0dc1a6ceb85a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多智能体系统：音乐生成短视频，并自建自验证殖民地模拟游戏",
+  "review": "个人用 Claude Code 构建的多智能体系统，包含多条流水线：music-video 把一首歌生成 60 秒 9:16 竖屏短片（节拍对齐剪辑）；content-shorts 生成经版权审查的短视频；game-dev-agent 构建并自我验证殖民地模拟游戏 PawnSim。运行时依赖本地开源工具（ffmpeg、whisper.cpp、ollama、aubio），Claude Code 智能体只做编排，宣称零运行时 API 费用。验证机制包括每次提交 22 场景输入级重现门禁与仅看截图/日志的隔离评审子智能体。Mac/Linux 可克隆运行，构建游戏需 Windows + Unity 6000.0.75f1。",
+  "highlights": [
+   "music-video 流水线：歌曲 → 60 秒 9:16 短片，节拍对齐剪辑",
+   "PawnSim 由智能体构建并以 22 场景重现门禁 + 隔离评审子智能体验证",
+   "流水线以 LangGraph 状态机运行，在昂贵阶段前设门禁节省渲染时间",
+   "本地工具链（ffmpeg/whisper.cpp/ollama/aubio）承担机械工作，宣称零运行时 API token"
+  ],
+  "use_cases": [
+   "把一首歌自动生成 60 秒竖屏短视频",
+   "参考其智能体自验证游戏构建的门禁与评审机制",
+   "在本地零 API 成本运行媒体生成流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://melons.github.io/MelonS-Agents/play/",
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    71,
+    72,
+    75
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "多智能体系统",
+   "视频生成",
+   "游戏开发",
+   "自动化验证",
+   "内容生产"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic",
+   "ollama"
+  ],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "coding-agent",
+   "video-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "README 提供韩国语版本",
+   "韩国求职板摘要流水线"
+  ]
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L5: ### A multi-agent system built solo with Claude Code. It turns music into short-form video, and builds a colony-sim game",
+   "L37: - **Zero runtime cost.** Local open-source tools (ffmpeg · whisper.cpp · ollama · aubio) do the mechanical work; Claude ",
+   "L69: |**music-video**|a song in → a 60-second 9:16 short (beat-aligned cuts, vintage ffmpeg shaders)|Production\\*|✅ Mac/Linux"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

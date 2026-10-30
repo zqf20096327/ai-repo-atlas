@@ -1,1 +1,72 @@
-{"fn": "SE-ML/se-ml.github.io", "sha": "8559a154c0df", "source": "readme", "identity": {"one_liner": "Software Engineering for Machine Learning 社区主页（Jekyll 站点）", "review": "SE-ML 组织的项目官网源码仓库，基于 Jekyll 静态站点生成器构建，主题使用 al-folio，部分图标来自 Freepik。README 仅给出开发与部署流程：git clone 后切换到 source 分支、bundle install 安装依赖，bundle exec jekyll serve 运行本地开发服务器，./bin/deploy 脚本部署到生产环境。面向维护该站点的组织成员或贡献者，不提供面向终端用户的功能。", "highlights": ["Jekyll 静态站点，需 git clone 并切换 source 分支开发", "提供 ./bin/deploy 部署脚本", "使用 al-folio 主题"], "use_cases": ["维护 SE-ML 组织主页内容", "本地预览并部署站点更新"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["社区主页", "静态网站", "Jekyll", "SE for ML"], "domain": "软件工程/机器学习社区站点", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L1: # se-ml.github.io", "L3: Software Engineering for Machine Learning Homepage"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "SE-ML/se-ml.github.io",
+ "sha": "8559a154c0df",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Software Engineering for Machine Learning 社区主页（Jekyll 站点）",
+  "review": "SE-ML 组织的项目官网源码仓库，基于 Jekyll 静态站点生成器构建，主题使用 al-folio，部分图标来自 Freepik。README 仅给出开发与部署流程：git clone 后切换到 source 分支、bundle install 安装依赖，bundle exec jekyll serve 运行本地开发服务器，./bin/deploy 脚本部署到生产环境。面向维护该站点的组织成员或贡献者，不提供面向终端用户的功能。",
+  "highlights": [
+   "Jekyll 静态站点，需 git clone 并切换 source 分支开发",
+   "提供 ./bin/deploy 部署脚本",
+   "使用 al-folio 主题"
+  ],
+  "use_cases": [
+   "维护 SE-ML 组织主页内容",
+   "本地预览并部署站点更新"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社区主页",
+   "静态网站",
+   "Jekyll",
+   "SE for ML"
+  ],
+  "domain": "软件工程/机器学习社区站点",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L1: # se-ml.github.io",
+   "L3: Software Engineering for Machine Learning Homepage"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
