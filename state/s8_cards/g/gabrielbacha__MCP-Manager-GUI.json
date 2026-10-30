@@ -1,1 +1,75 @@
-{"fn": "gabrielbacha/MCP-Manager-GUI", "sha": "1b0aa9fbe56a", "source": "readme", "identity": {"one_liner": "跨客户端统一管理 MCP 服务器配置的本地 GUI 工具", "review": "一个本地运行的桌面实用程序，用于在各 MCP 客户端应用之间管理 MCP 服务器配置：通过指定客户端配置 JSON 路径添加客户端，以表单方式新增服务器配置，无需手动编辑 JSON；支持为 Claude、Cursor 等客户端一键启用/禁用 MCP，自动导入已有配置，并可导出/导入配置以切换环境。程序完全在本地运行，不收集数据、不与外部服务器通信。README 本身不含源码构建说明，安装包通过官网下载，仓库用于跟踪问题与功能请求。", "highlights": ["单一界面统一管理多个客户端的 MCP 服务器", "为 Claude/Cursor 一键启用或禁用 MCP", "自动导入已有 MCP 配置，表单方式新增配置免手写 JSON", "本地运行，不收集数据、不与外部服务器通信"], "use_cases": ["在 Claude 和 Cursor 等多个客户端间统一管理 MCP 服务器开关", "不想手动编辑 JSON 时用表单添加 MCP 服务器配置", "导出/导入配置以在不同 MCP 环境间切换"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "桌面工具", "配置管理", "客户端管理", "Electron应用"], "domain": "AI 工具/配置管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: A simple utility for managing MCP server configurations across MCP client applications.", "L10: - **One-Click Activation**: Enable or disable MCPs for Claude or Cursor with simple toggles"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "gabrielbacha/MCP-Manager-GUI",
+ "sha": "1b0aa9fbe56a",
+ "source": "readme",
+ "identity": {
+  "one_liner": "跨客户端统一管理 MCP 服务器配置的本地 GUI 工具",
+  "review": "一个本地运行的桌面实用程序，用于在各 MCP 客户端应用之间管理 MCP 服务器配置：通过指定客户端配置 JSON 路径添加客户端，以表单方式新增服务器配置，无需手动编辑 JSON；支持为 Claude、Cursor 等客户端一键启用/禁用 MCP，自动导入已有配置，并可导出/导入配置以切换环境。程序完全在本地运行，不收集数据、不与外部服务器通信。README 本身不含源码构建说明，安装包通过官网下载，仓库用于跟踪问题与功能请求。",
+  "highlights": [
+   "单一界面统一管理多个客户端的 MCP 服务器",
+   "为 Claude/Cursor 一键启用或禁用 MCP",
+   "自动导入已有 MCP 配置，表单方式新增配置免手写 JSON",
+   "本地运行，不收集数据、不与外部服务器通信"
+  ],
+  "use_cases": [
+   "在 Claude 和 Cursor 等多个客户端间统一管理 MCP 服务器开关",
+   "不想手动编辑 JSON 时用表单添加 MCP 服务器配置",
+   "导出/导入配置以在不同 MCP 环境间切换"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "桌面工具",
+   "配置管理",
+   "客户端管理",
+   "Electron应用"
+  ],
+  "domain": "AI 工具/配置管理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: A simple utility for managing MCP server configurations across MCP client applications.",
+   "L10: - **One-Click Activation**: Enable or disable MCPs for Claude or Cursor with simple toggles"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -1,1 +1,78 @@
-{"fn": "RizwanMunawar/streamgrid", "sha": "90cab5bb5e63", "source": "readme", "identity": {"one_liner": "多路视频流网格显示工具，实时运行 YOLO 目标检测", "review": "基于 Ultralytics YOLO 的多视频流推理展示库：将多路视频流以网格布局并排显示，并在所有流上实时运行目标检测，支持 CPU 或 GPU 设备。提供 Python API 与 CLI 两种使用方式（如 streamgrid model=yolo11n.pt），通过 pip 安装。按流数自动调整分辨率与帧率（1-2 路最高 15 FPS/流，10+ 路降至 240×135、约 3 FPS/流）；基准测试基于 CPU，官方标注为 Beta，最终数据待发布。适用于监控画面浏览与多流分析看板等场景。", "highlights": ["多路视频流网格布局并排显示", "在全部流上实时运行 Ultralytics YOLO 检测", "支持 CPU/GPU 设备，按流数自动调整分辨率与帧率", "提供 Python API 与 CLI 两种调用方式"], "use_cases": ["把多路监控视频集中到一个网格界面并叠加目标检测", "搭建多流实时检测的分析看板", "用 CLI 一条命令跑起多流 YOLO 推理"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [38]}}, "links": {"scenario_tags": ["计算机视觉", "目标检测", "多路视频", "实时推理"], "domain": "计算机视觉/视频分析", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: Ultra-fast multi-stream video display, Run real-time object detection across multiple video feeds with real-time speed. ", "L5: From smart surveillance to AI-powered dashboards, StreamGrid makes it effortless to display and analyze multiple video s"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-30", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "RizwanMunawar/streamgrid",
+ "sha": "90cab5bb5e63",
+ "source": "readme",
+ "identity": {
+  "one_liner": "多路视频流网格显示工具，实时运行 YOLO 目标检测",
+  "review": "基于 Ultralytics YOLO 的多视频流推理展示库：将多路视频流以网格布局并排显示，并在所有流上实时运行目标检测，支持 CPU 或 GPU 设备。提供 Python API 与 CLI 两种使用方式（如 streamgrid model=yolo11n.pt），通过 pip 安装。按流数自动调整分辨率与帧率（1-2 路最高 15 FPS/流，10+ 路降至 240×135、约 3 FPS/流）；基准测试基于 CPU，官方标注为 Beta，最终数据待发布。适用于监控画面浏览与多流分析看板等场景。",
+  "highlights": [
+   "多路视频流网格布局并排显示",
+   "在全部流上实时运行 Ultralytics YOLO 检测",
+   "支持 CPU/GPU 设备，按流数自动调整分辨率与帧率",
+   "提供 Python API 与 CLI 两种调用方式"
+  ],
+  "use_cases": [
+   "把多路监控视频集中到一个网格界面并叠加目标检测",
+   "搭建多流实时检测的分析看板",
+   "用 CLI 一条命令跑起多流 YOLO 推理"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    38
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "计算机视觉",
+   "目标检测",
+   "多路视频",
+   "实时推理"
+  ],
+  "domain": "感知与多模态",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "object-detection"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Ultra-fast multi-stream video display, Run real-time object detection across multiple video feeds with real-time speed. ",
+   "L5: From smart surveillance to AI-powered dashboards, StreamGrid makes it effortless to display and analyze multiple video s"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-30",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
