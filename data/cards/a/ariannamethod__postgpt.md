@@ -46,12 +46,12 @@ Python/C 双实现的约 140K 参数小型 transformer（2 层、4 头，含 Con
 ```mermaid
 xychart-beta
     title "ariannamethod/postgpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

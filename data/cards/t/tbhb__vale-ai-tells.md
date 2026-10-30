@@ -1,6 +1,6 @@
 # tbhb/vale-ai-tells
 
-⭐ 122 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tbhb/vale-ai-tells) · 个人维护
+⭐ 122 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tbhb/vale-ai-tells) · 个人维护
 
 **检测 AI 文风痕迹的 Vale 规则包，面向技术文档与提交信息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tbhb/vale-ai-tells 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 118 --> 123
     line [119, 120, 121, 122, 122]
 ```
 
-2026-10-18 119 → 2026-10-29 122（+3）
+2026-10-18 119 → 2026-10-30 122（+3）
 
 
 ---

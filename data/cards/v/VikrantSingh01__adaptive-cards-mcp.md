@@ -45,12 +45,12 @@ TypeScript 实现的 MCP 服务器，为 Claude Code、GitHub Copilot、Cursor�
 ```mermaid
 xychart-beta
     title "VikrantSingh01/adaptive-cards-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 33（+0）
 
 
 ---

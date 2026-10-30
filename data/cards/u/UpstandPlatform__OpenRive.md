@@ -1,6 +1,6 @@
 # UpstandPlatform/OpenRive
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/UpstandPlatform/OpenRive) · [官网](https://openrive.upstand.dev) · 组织维护
+⭐ 60 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/UpstandPlatform/OpenRive) · [官网](https://openrive.upstand.dev) · 组织维护
 
 **开源本地优先的 Rive .riv 动画编辑器，支持 AI 助手接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "UpstandPlatform/OpenRive 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 34 --> 61
-    line [36, 38, 42, 46, 48, 49, 50, 56, 59]
+    title "UpstandPlatform/OpenRive 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 34 --> 62
+    line [36, 38, 42, 46, 48, 49, 50, 56, 59, 60]
 ```
 
-2026-10-18 36 → 2026-10-29 59（+23）
+2026-10-18 36 → 2026-10-30 60（+24）
 
 
 ---

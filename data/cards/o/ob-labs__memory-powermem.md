@@ -45,12 +45,12 @@ OpenClaw 插件，将 PowerMem 长期记忆系统接入 OpenClaw agent：提供�
 ```mermaid
 xychart-beta
     title "ob-labs/memory-powermem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # fuxicodex/Fuxi
 
-⭐ 3,202 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/fuxicodex/Fuxi) · [官网](https://www.fuxicode.com) · 组织维护 · 中文 README
+⭐ 3,199 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/fuxicodex/Fuxi) · [官网](https://www.fuxicode.com) · 组织维护 · 中文 README
 
 **终端 AI 编程 agent：读码改码、跑命令、多模型路由**
 
@@ -44,13 +44,13 @@ Go 编写的终端 AI 编程 agent，以单一静态二进制分发、无运行�
 
 ```mermaid
 xychart-beta
-    title "fuxicodex/Fuxi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3188 --> 3356
-    line [3342, 3341, 3232, 3234, 3206, 3204, 3202]
+    title "fuxicodex/Fuxi 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3185 --> 3356
+    line [3342, 3341, 3232, 3234, 3206, 3204, 3202, 3199]
 ```
 
-2026-10-18 3,342 → 2026-10-29 3,202（-140）
+2026-10-18 3,342 → 2026-10-30 3,199（-143）
 
 
 ---

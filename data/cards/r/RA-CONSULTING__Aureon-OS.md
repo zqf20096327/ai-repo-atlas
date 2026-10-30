@@ -1,6 +1,6 @@
 # RA-CONSULTING/Aureon-OS
 
-⭐ 36 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/RA-CONSULTING/Aureon-OS) · [官网](https://aureonzorzatechnologies.pl) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/RA-CONSULTING/Aureon-OS) · [官网](https://aureonzorzatechnologies.pl) · 组织维护
 
 **本地优先的可审计 AI 操作层：多模型路由、自主运维与交易研究一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RA-CONSULTING/Aureon-OS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
 ```
 
-2026-10-18 36 → 2026-10-29 36（+0）
+2026-10-18 36 → 2026-10-30 35（-1）
 
 
 ---

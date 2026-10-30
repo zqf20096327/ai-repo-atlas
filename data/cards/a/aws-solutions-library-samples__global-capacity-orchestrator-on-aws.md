@@ -44,13 +44,13 @@ AWS 官方 Solutions Guidance，将 LLM 训练/推理、批量 ML 与 HPC 工作
 
 ```mermaid
 xychart-beta
-    title "aws-solutions-library-samples/global-capacity-orchestrator-on-aws 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "aws-solutions-library-samples/global-capacity-orchestrator-on-aws 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 50 --> 54
-    line [51, 52, 53]
+    line [51, 52, 53, 53]
 ```
 
-2026-10-18 51 → 2026-10-29 53（+2）
+2026-10-18 51 → 2026-10-30 53（+2）
 
 
 ---

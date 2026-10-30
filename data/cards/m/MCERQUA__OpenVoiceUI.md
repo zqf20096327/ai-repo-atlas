@@ -1,6 +1,6 @@
 # MCERQUA/OpenVoiceUI
 
-⭐ 81 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MCERQUA/OpenVoiceUI) · [官网](https://openvoiceui.com) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MCERQUA/OpenVoiceUI) · [官网](https://openvoiceui.com) · 个人维护
 
 **浏览器语音优先的自托管 AI 助手前端：接入任意 LLM 与 TTS**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MCERQUA/OpenVoiceUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 79 --> 82
     line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-10-29 81（+1）
+2026-10-18 80 → 2026-10-30 81（+1）
 
 
 ---

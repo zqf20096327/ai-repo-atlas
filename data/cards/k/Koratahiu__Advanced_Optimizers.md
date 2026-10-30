@@ -1,6 +1,6 @@
 # Koratahiu/Advanced_Optimizers
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Koratahiu/Advanced_Optimizers) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Koratahiu/Advanced_Optimizers) · 个人维护
 
 **PyTorch 高级优化器集合：AdamW/Muon 等变体与内存优化训练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Koratahiu/Advanced_Optimizers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 38（+0）
 
 
 ---

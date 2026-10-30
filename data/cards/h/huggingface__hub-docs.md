@@ -1,6 +1,6 @@
 # huggingface/hub-docs
 
-⭐ 616 · Handlebars · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/hub-docs) · [官网](http://hf.co/docs/hub) · 组织维护
+⭐ 617 · Handlebars · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/hub-docs) · [官网](http://hf.co/docs/hub) · 组织维护
 
 **Hugging Face Hub 官方文档仓库，供社区协作编写**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/hub-docs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 608 --> 617
-    line [609, 610, 613, 614, 615, 616, 616]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 608 --> 618
+    line [609, 610, 613, 614, 615, 616, 617]
 ```
 
-2026-10-18 609 → 2026-10-29 616（+7）
+2026-10-18 609 → 2026-10-30 617（+8）
 
 
 ---

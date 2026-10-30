@@ -1,6 +1,6 @@
 # NicolasHug/Surprise
 
-⭐ 6,822 · Python · BSD-3-Clause · 推送 2026-05-30 · [GitHub](https://github.com/NicolasHug/Surprise) · [官网](http://surpriselib.com) · 个人维护
+⭐ 6,823 · Python · BSD-3-Clause · 推送 2026-05-30 · [GitHub](https://github.com/NicolasHug/Surprise) · [官网](http://surpriselib.com) · 个人维护
 
 **Python 推荐系统库：构建与分析显式评分预测算法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NicolasHug/Surprise 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 6819 --> 6823
-    line [6820, 6821, 6822, 6822]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 6819 --> 6824
+    line [6820, 6821, 6822, 6823]
 ```
 
-2026-10-18 6,820 → 2026-10-29 6,822（+2）
+2026-10-18 6,820 → 2026-10-30 6,823（+3）
 
 
 ---

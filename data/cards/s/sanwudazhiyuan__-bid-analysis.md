@@ -1,6 +1,6 @@
 # sanwudazhiyuan/-bid-analysis
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/sanwudazhiyuan/-bid-analysis) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/sanwudazhiyuan/-bid-analysis) · 个人维护 · 中文 README
 
 **招标文件 AI 解析与投标文件审查系统：解读、合规审查、暗标审核**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sanwudazhiyuan/-bid-analysis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 35, 36, 37]
+    title "sanwudazhiyuan/-bid-analysis 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 32 --> 39
+    line [33, 34, 35, 36, 37, 38]
 ```
 
-2026-10-18 33 → 2026-10-29 37（+4）
+2026-10-18 33 → 2026-10-30 38（+5）
 
 
 ---

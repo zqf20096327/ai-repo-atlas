@@ -1,6 +1,6 @@
 # aigclink/geolook
 
-⭐ 790 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/aigclink/geolook) · [官网](https://geolook.cc) · 组织维护 · 中文 README
+⭐ 793 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/aigclink/geolook) · [官网](https://geolook.cc) · 组织维护 · 中文 README
 
 **自托管 GEO 平台：让 AI 引擎更多提及并引用你的品牌**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aigclink/geolook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 775 --> 791
-    line [776, 777, 783, 784, 785, 788, 790]
+    title "aigclink/geolook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 775 --> 794
+    line [776, 777, 783, 784, 785, 788, 790, 793]
 ```
 
-2026-10-18 776 → 2026-10-29 790（+14）
+2026-10-18 776 → 2026-10-30 793（+17）
 
 
 ---

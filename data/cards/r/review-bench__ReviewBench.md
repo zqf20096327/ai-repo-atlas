@@ -1,6 +1,6 @@
 # review-bench/ReviewBench
 
-⭐ 83 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/review-bench/ReviewBench) · [官网](https://review-bench.ai) · 组织维护
+⭐ 85 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/review-bench/ReviewBench) · [官网](https://review-bench.ai) · 组织维护
 
 **评测 AI 代码审查系统的开放基准（219 个真实 PR 与金标发现）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "review-bench/ReviewBench 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 58 --> 85
-    line [60, 65, 68, 69, 74, 73, 75, 79, 82, 83]
+    title "review-bench/ReviewBench 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 58 --> 87
+    line [60, 65, 68, 69, 74, 73, 75, 79, 82, 83, 85]
 ```
 
-2026-10-18 60 → 2026-10-29 83（+23）
+2026-10-18 60 → 2026-10-30 85（+25）
 
 
 ---

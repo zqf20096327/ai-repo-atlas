@@ -1,6 +1,6 @@
 # Vrooli/Vrooli
 
-⭐ 56 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Vrooli/Vrooli) · [官网](https://vrooli.com) · 组织维护
+⭐ 56 · Go · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Vrooli/Vrooli) · [官网](https://vrooli.com) · 组织维护
 
 **本地自主 AI 开发团队：在你的硬件上生成完整应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vrooli/Vrooli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-29 56（+0）
+2026-10-18 56 → 2026-10-30 56（+0）
 
 
 ---

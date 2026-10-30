@@ -1,6 +1,6 @@
 # MLEveryday/practicalAI-cn
 
-⭐ 6,935 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/MLEveryday/practicalAI-cn) · 个人维护 · 中文 README
+⭐ 6,934 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/MLEveryday/practicalAI-cn) · 个人维护 · 中文 README
 
 **机器学习/深度学习教程的中文翻译 notebooks 合集**
 
@@ -44,13 +44,13 @@ practicalAI 的中文版项目：以 Jupyter/Google Colab notebook 形式组织�
 
 ```mermaid
 xychart-beta
-    title "MLEveryday/practicalAI-cn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    title "MLEveryday/practicalAI-cn 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 6930 --> 6936
-    line [6931, 6933, 6935, 6934, 6935]
+    line [6931, 6933, 6935, 6934, 6935, 6934]
 ```
 
-2026-10-18 6,931 → 2026-10-29 6,935（+4）
+2026-10-18 6,931 → 2026-10-30 6,934（+3）
 
 
 ---

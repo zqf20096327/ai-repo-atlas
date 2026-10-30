@@ -44,13 +44,13 @@ Vizuara AI 出品的世界模型系列课程：按 0–15 讲组织，每讲含�
 
 ```mermaid
 xychart-beta
-    title "RajatDandekar/build-a-world-model-from-scratch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "RajatDandekar/build-a-world-model-from-scratch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 34 --> 40
-    line [35, 36, 38, 39]
+    line [35, 36, 38, 39, 39]
 ```
 
-2026-10-18 35 → 2026-10-29 39（+4）
+2026-10-18 35 → 2026-10-30 39（+4）
 
 
 ---

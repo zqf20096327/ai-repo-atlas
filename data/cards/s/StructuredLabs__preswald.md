@@ -1,6 +1,6 @@
 # StructuredLabs/preswald
 
-⭐ 4,271 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/StructuredLabs/preswald) · [官网](https://www.preswald.com/) · 组织维护
+⭐ 4,272 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/StructuredLabs/preswald) · [官网](https://www.preswald.com/) · 组织维护
 
 **用 Python 构建浏览器内单文件交互数据应用的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "StructuredLabs/preswald 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4269 --> 4272
-    line [4270, 4271, 4270, 4271, 4270, 4271]
+    title "StructuredLabs/preswald 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4269 --> 4273
+    line [4270, 4271, 4270, 4271, 4270, 4271, 4272]
 ```
 
-2026-10-18 4,270 → 2026-10-29 4,271（+1）
+2026-10-18 4,270 → 2026-10-30 4,272（+2）
 
 
 ---

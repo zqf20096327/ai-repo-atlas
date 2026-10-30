@@ -1,6 +1,6 @@
 # moguiyu/NewsPrism
 
-⭐ 18 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/moguiyu/NewsPrism) · [官网](https://news.moguiyu.top) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/moguiyu/NewsPrism) · [官网](https://news.moguiyu.top) · 个人维护 · 中文 README
 
 **自托管多语新闻聚合分析器：同一事件跨源聚类生成中文日报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moguiyu/NewsPrism 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

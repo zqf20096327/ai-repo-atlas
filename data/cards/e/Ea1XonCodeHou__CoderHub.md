@@ -1,6 +1,6 @@
 # Ea1XonCodeHou/CoderHub
 
-⭐ 32 · Vue · 推送 2026-03-17 · [GitHub](https://github.com/Ea1XonCodeHou/CoderHub) · [官网](http://8.140.19.7/) · 个人维护 · 中文 README
+⭐ 33 · Vue · 推送 2026-03-17 · [GitHub](https://github.com/Ea1XonCodeHou/CoderHub) · [官网](http://8.140.19.7/) · 个人维护 · 中文 README
 
 **面向开发者的智能技术博客社区平台，内置 RAG 问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ea1XonCodeHou/CoderHub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 33（+1）
 
 
 ---

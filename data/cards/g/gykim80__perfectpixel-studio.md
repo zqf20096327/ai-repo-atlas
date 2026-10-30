@@ -1,6 +1,6 @@
 # gykim80/perfectpixel-studio
 
-⭐ 612 · Go · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gykim80/perfectpixel-studio) · 个人维护 · 中文 README
+⭐ 613 · Go · MIT · 推送 2026-06-22 · [GitHub](https://github.com/gykim80/perfectpixel-studio) · 个人维护 · 中文 README
 
 **游戏开发者的 AI 像素角色动画精灵表生成工作室**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gykim80/perfectpixel-studio 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 590 --> 614
-    line [592, 598, 603, 606, 609, 608, 611, 612]
+    title "gykim80/perfectpixel-studio 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 590 --> 615
+    line [592, 598, 603, 606, 609, 608, 611, 612, 613]
 ```
 
-2026-10-18 592 → 2026-10-29 612（+20）
+2026-10-18 592 → 2026-10-30 613（+21）
 
 
 ---

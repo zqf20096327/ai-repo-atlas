@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-skills-CN
 
-⭐ 128 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) · [官网](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · 个人维护 · 中文 README
+⭐ 129 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) · [官网](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · 个人维护 · 中文 README
 
 **面向中文开发者的 OpenClaw Skills 精选清单（2,868 个）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/awesome-openclaw-skills-CN 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 124 --> 129
-    line [125, 127, 128, 128]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 124 --> 130
+    line [125, 127, 128, 129]
 ```
 
-2026-10-18 125 → 2026-10-29 128（+3）
+2026-10-18 125 → 2026-10-30 129（+4）
 
 
 ---

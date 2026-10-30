@@ -1,6 +1,6 @@
 # Elijas/token-throttle
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Elijas/token-throttle) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Elijas/token-throttle) · 个人维护
 
 **LLM API 多资源限流库：预留 token、用后退还、跨进程共享配额**
 
@@ -45,12 +45,12 @@ Python 限流库，面向并发调用 LLM API 的开发场景：调用前按声�
 ```mermaid
 xychart-beta
     title "Elijas/token-throttle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

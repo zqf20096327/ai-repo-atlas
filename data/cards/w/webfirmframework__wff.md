@@ -44,12 +44,12 @@ webfirmframework 的开源模块 wffweb，面向 Java 开发者，用于实时 W
 ```mermaid
 xychart-beta
     title "webfirmframework/wff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

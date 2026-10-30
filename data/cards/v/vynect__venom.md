@@ -1,6 +1,6 @@
 # vynect/venom
 
-⭐ 6,597 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/vynect/venom) · [官网](https://orkestral.io) · 组织维护
+⭐ 6,596 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/vynect/venom) · [官网](https://orkestral.io) · 组织维护
 
 **JavaScript/TypeScript 开发者的 WhatsApp 自动化库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "vynect/venom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    title "vynect/venom 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 6590 --> 6598
-    line [6591, 6592, 6595, 6596, 6597, 6595, 6597]
+    line [6591, 6592, 6595, 6596, 6597, 6595, 6597, 6596]
 ```
 
-2026-10-18 6,591 → 2026-10-29 6,597（+6）
+2026-10-18 6,591 → 2026-10-30 6,596（+5）
 
 
 ---

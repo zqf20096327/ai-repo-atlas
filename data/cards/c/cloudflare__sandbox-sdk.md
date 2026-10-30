@@ -1,6 +1,6 @@
 # cloudflare/sandbox-sdk
 
-⭐ 1,156 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/cloudflare/sandbox-sdk) · [官网](https://sandbox.cloudflare.com/) · 组织维护
+⭐ 1,155 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/cloudflare/sandbox-sdk) · [官网](https://sandbox.cloudflare.com/) · 组织维护
 
 **在 Cloudflare 边缘网络运行 Linux 沙箱容器执行不可信代码**
 
@@ -45,12 +45,12 @@ Cloudflare 官方的沙箱 SDK：基于 Durable Object 与 Container，让 Worke
 ```mermaid
 xychart-beta
     title "cloudflare/sandbox-sdk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1150 --> 1157
-    line [1151, 1152, 1155, 1154, 1155, 1156, 1156]
+    line [1151, 1152, 1155, 1154, 1155, 1156, 1155]
 ```
 
-2026-10-18 1,151 → 2026-10-29 1,156（+5）
+2026-10-18 1,151 → 2026-10-30 1,155（+4）
 
 
 ---

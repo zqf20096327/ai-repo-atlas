@@ -1,6 +1,6 @@
 # qirabot/qirabot
 
-⭐ 18 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/qirabot/qirabot) · [官网](https://qirabot.com) · 组织维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/qirabot/qirabot) · [官网](https://qirabot.com) · 组织维护 · 中文 README
 
 **用多模态 AI 视觉驱动的跨平台 GUI 自动化工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qirabot/qirabot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

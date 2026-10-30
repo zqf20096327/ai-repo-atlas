@@ -1,6 +1,6 @@
 # FlacSy/BadWords
 
-⭐ 22 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FlacSy/BadWords) · [官网](https://badwords.flacsy.dev) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/FlacSy/BadWords) · [官网](https://badwords.flacsy.dev) · 个人维护
 
 **多语言脏话过滤库（Rust 核心，Python/JS/Rust），可选 ML 毒性评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlacSy/BadWords 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 23（+1）
 
 
 ---

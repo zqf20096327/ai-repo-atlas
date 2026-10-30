@@ -1,6 +1,6 @@
 # capitalone/DataProfiler
 
-⭐ 1,596 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/capitalone/DataProfiler) · [官网](https://capitalone.github.io/DataProfiler) · 组织维护
+⭐ 1,594 · Python · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/capitalone/DataProfiler) · [官网](https://capitalone.github.io/DataProfiler) · 组织维护
 
 **Python 数据画像库：分析数据集结构、统计信息并检测敏感数据**
 
@@ -44,13 +44,13 @@ DataProfiler 是由 Capital One 维护的 Python 库，用单条命令加载 CSV
 
 ```mermaid
 xychart-beta
-    title "capitalone/DataProfiler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 1594 --> 1597
-    line [1595, 1596, 1595, 1596]
+    title "capitalone/DataProfiler 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1593 --> 1597
+    line [1595, 1596, 1595, 1596, 1594]
 ```
 
-2026-10-18 1,595 → 2026-10-29 1,596（+1）
+2026-10-18 1,595 → 2026-10-30 1,594（-1）
 
 
 ---

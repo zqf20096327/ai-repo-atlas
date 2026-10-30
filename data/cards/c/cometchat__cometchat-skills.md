@@ -1,6 +1,6 @@
 # cometchat/cometchat-skills
 
-⭐ 157 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cometchat/cometchat-skills) · [官网](https://www.cometchat.com) · 组织维护
+⭐ 158 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cometchat/cometchat-skills) · [官网](https://www.cometchat.com) · 组织维护
 
 **让 AI 编程助手为应用接入 CometChat 聊天与音视频通话的技能包**
 
@@ -45,12 +45,12 @@ CometChat 官方发布的 agent skills 包（npm 包 @cometchat/skills v5）：�
 ```mermaid
 xychart-beta
     title "cometchat/cometchat-skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 148 --> 158
-    line [149, 150, 152, 154, 155, 157, 157]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 148 --> 159
+    line [149, 150, 152, 154, 155, 157, 158]
 ```
 
-2026-10-18 149 → 2026-10-29 157（+8）
+2026-10-18 149 → 2026-10-30 158（+9）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dovvnloading/Graphite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "dovvnloading/Graphite 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 145 --> 148
-    line [147, 146]
+    line [147, 146, 146]
 ```
 
-2026-10-18 147 → 2026-10-29 146（-1）
+2026-10-18 147 → 2026-10-30 146（-1）
 
 
 ---

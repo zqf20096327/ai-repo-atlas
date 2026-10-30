@@ -1,6 +1,6 @@
 # camlab-ethz/ConvolutionalNeuralOperator
 
-⭐ 234 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/camlab-ethz/ConvolutionalNeuralOperator) · [官网](https://arxiv.org/abs/2302.01178) · 组织维护
+⭐ 235 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/camlab-ethz/ConvolutionalNeuralOperator) · [官网](https://arxiv.org/abs/2302.01178) · 组织维护
 
 **Convolutional Neural Operator 的官方实现：用神经网络学习偏微分方程解**
 
@@ -46,12 +46,12 @@ NeurIPS 2023 论文 Convolutional Neural Operators for robust and accurate learn
 ```mermaid
 xychart-beta
     title "camlab-ethz/ConvolutionalNeuralOperator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 232 --> 235
-    line [234, 233, 234, 234]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 232 --> 236
+    line [234, 233, 234, 235]
 ```
 
-2026-10-18 234 → 2026-10-29 234（+0）
+2026-10-18 234 → 2026-10-30 235（+1）
 
 
 ---

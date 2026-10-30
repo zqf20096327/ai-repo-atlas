@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Numerical-Analysis-With-MATLAB 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "Hazrat-Ali9/Numerical-Analysis-With-MATLAB 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 42 --> 47
-    line [43, 45, 46]
+    line [43, 45, 46, 46]
 ```
 
-2026-10-18 43 → 2026-10-29 46（+3）
+2026-10-18 43 → 2026-10-30 46（+3）
 
 
 ---

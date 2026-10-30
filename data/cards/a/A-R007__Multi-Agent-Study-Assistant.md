@@ -1,6 +1,6 @@
 # A-R007/Multi-Agent-Study-Assistant
 
-⭐ 65 · Python · 推送 2025-11-04 · [GitHub](https://github.com/A-R007/Multi-Agent-Study-Assistant) · 个人维护
+⭐ 64 · Python · 推送 2025-11-04 · [GitHub](https://github.com/A-R007/Multi-Agent-Study-Assistant) · 个人维护
 
 **多智能体个性化学习平台：学习路线图、测验、辅导与文档问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "A-R007/Multi-Agent-Study-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    title "A-R007/Multi-Agent-Study-Assistant 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 62 --> 66
-    line [64, 63, 64, 65]
+    line [64, 63, 64, 65, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 65（+1）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # willcoliveira/qualiow-playwright-skills
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/willcoliveira/qualiow-playwright-skills) · [官网](https://www.npmjs.com/package/wico-playwright-agent-skills) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/willcoliveira/qualiow-playwright-skills) · [官网](https://www.npmjs.com/package/wico-playwright-agent-skills) · 个人维护
 
 **为 AI 编码助手生成 Playwright E2E 测试技能的脚手架 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "willcoliveira/qualiow-playwright-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-18 17 → 2026-10-29 18（+1）
+2026-10-18 17 → 2026-10-30 19（+2）
 
 
 ---

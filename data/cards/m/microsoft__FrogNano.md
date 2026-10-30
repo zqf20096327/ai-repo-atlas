@@ -1,6 +1,6 @@
 # microsoft/FrogNano
 
-⭐ 21 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/FrogNano) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/FrogNano) · 组织维护
 
 **4B 编码智能体的运行框架与评测工具，跑在 Kubernetes 沙箱**
 
@@ -45,12 +45,12 @@ FrogNano 是基于 Qwen3.5-4B 的紧凑编码智能体，本仓库提供其 Leaf
 ```mermaid
 xychart-beta
     title "microsoft/FrogNano 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 16 --> 22
     line [17, 18, 20, 21, 21]
 ```
 
-2026-10-18 17 → 2026-10-29 21（+4）
+2026-10-18 17 → 2026-10-30 21（+4）
 
 
 ---

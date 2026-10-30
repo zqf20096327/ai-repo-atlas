@@ -1,6 +1,6 @@
 # WecoAI/awesome-autoresearch
 
-⭐ 1,074 · CC0-1.0 · 推送 2026-07-30 · [GitHub](https://github.com/WecoAI/awesome-autoresearch) · 组织维护
+⭐ 1,075 · CC0-1.0 · 推送 2026-07-30 · [GitHub](https://github.com/WecoAI/awesome-autoresearch) · 组织维护
 
 **AutoResearch 用例策展清单：含优化轨迹与开源实现**
 
@@ -45,12 +45,12 @@ WecoAI 维护的 AutoResearch 用例聚合清单：AutoResearch 本身是一个�
 ```mermaid
 xychart-beta
     title "WecoAI/awesome-autoresearch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1069 --> 1076
-    line [1070, 1071, 1073, 1075, 1074, 1074]
+    line [1070, 1071, 1073, 1075, 1074, 1075]
 ```
 
-2026-10-18 1,070 → 2026-10-29 1,074（+4）
+2026-10-18 1,070 → 2026-10-30 1,075（+5）
 
 
 ---

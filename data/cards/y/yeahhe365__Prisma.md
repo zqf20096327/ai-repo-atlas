@@ -1,6 +1,6 @@
 # yeahhe365/Prisma
 
-⭐ 339 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yeahhe365/Prisma) · [官网](https://prisma-8yz.pages.dev/) · 个人维护 · 中文 README
+⭐ 338 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yeahhe365/Prisma) · [官网](https://prisma-8yz.pages.dev/) · 个人维护 · 中文 README
 
 **面向 Gemini 的可视化多智能体深度推理 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yeahhe365/Prisma 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 337 --> 340
-    line [338, 339, 339]
+    line [338, 339, 338]
 ```
 
-2026-10-18 338 → 2026-10-29 339（+1）
+2026-10-18 338 → 2026-10-30 338（+0）
 
 
 ---

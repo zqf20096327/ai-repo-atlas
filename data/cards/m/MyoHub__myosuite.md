@@ -1,6 +1,6 @@
 # MyoHub/myosuite
 
-⭐ 1,267 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MyoHub/myosuite) · [官网](https://www.myosuite.org) · 组织维护
+⭐ 1,269 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MyoHub/myosuite) · [官网](https://www.myosuite.org) · 组织维护
 
 **基于 MuJoCo 的肌肉骨骼运动控制仿真环境集合，供 RL 研究**
 
@@ -46,13 +46,13 @@ MyoSuite 提供一组用 MuJoCo 物理引擎模拟、封装为 Gymnasium API 的
 
 ```mermaid
 xychart-beta
-    title "MyoHub/myosuite 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1257 --> 1268
-    line [1258, 1260, 1263, 1264, 1265, 1266, 1267]
+    title "MyoHub/myosuite 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1257 --> 1270
+    line [1258, 1260, 1263, 1264, 1265, 1266, 1267, 1269]
 ```
 
-2026-10-18 1,258 → 2026-10-29 1,267（+9）
+2026-10-18 1,258 → 2026-10-30 1,269（+11）
 
 
 ---

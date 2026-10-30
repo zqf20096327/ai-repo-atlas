@@ -1,6 +1,6 @@
 # vllm-project/router
 
-⭐ 487 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
+⭐ 490 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
 
 **面向 vLLM 大规模部署的请求路由与负载均衡系统**
 
@@ -45,13 +45,13 @@ vLLM 项目下的高性能请求转发系统：在多个 vLLM worker 之间做�
 
 ```mermaid
 xychart-beta
-    title "vllm-project/router 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 472 --> 488
-    line [473, 478, 480, 482, 483, 487]
+    title "vllm-project/router 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 472 --> 491
+    line [473, 478, 480, 482, 483, 487, 490]
 ```
 
-2026-10-18 473 → 2026-10-29 487（+14）
+2026-10-18 473 → 2026-10-30 490（+17）
 
 
 ---

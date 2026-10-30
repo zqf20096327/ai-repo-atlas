@@ -40,6 +40,18 @@
 > L5: This repository stores proposals and designs for new features in Dapr (i.e not bug fixes or minor changes) with the 
 > L11: * New Dapr building blocks
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dapr/proposals 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 mid · 依据 README sha `e68cab7aff31` · [字段定义](../../DATASET.md)*

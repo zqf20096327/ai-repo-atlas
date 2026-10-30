@@ -1,6 +1,6 @@
 # shuishuipingan/trae2api-hub
 
-⭐ 23 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuishuipingan/trae2api-hub) · [官网](https://trae2api-hub-eybpg15659n.qoder.zone/) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/shuishuipingan/trae2api-hub) · [官网](https://trae2api-hub-eybpg15659n.qoder.zone/) · 个人维护 · 中文 README
 
 **Trae 国际/国内双区多账号 OpenAI 兼容网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuishuipingan/trae2api-hub 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3 --> 24
-    line [4, 11, 13, 15, 16, 19, 20, 23]
+    title "shuishuipingan/trae2api-hub 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2 --> 26
+    line [4, 11, 13, 15, 16, 19, 20, 23, 24]
 ```
 
-2026-10-19 4 → 2026-10-29 23（+19）
+2026-10-19 4 → 2026-10-30 24（+20）
 
 
 ---

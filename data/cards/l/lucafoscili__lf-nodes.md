@@ -1,6 +1,6 @@
 # lucafoscili/lf-nodes
 
-⭐ 36 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/lucafoscili/lf-nodes) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lucafoscili/lf-nodes) · 个人维护
 
 **ComfyUI 自定义节点套件：交互式图像编辑、LLM 节点与工作流工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lucafoscili/lf-nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-29 36（+0）
+2026-10-18 36 → 2026-10-30 36（+0）
 
 
 ---

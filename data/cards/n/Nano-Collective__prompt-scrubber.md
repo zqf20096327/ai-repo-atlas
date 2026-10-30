@@ -1,6 +1,6 @@
 # Nano-Collective/prompt-scrubber
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nano-Collective/prompt-scrubber) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Nano-Collective/prompt-scrubber) · 组织维护
 
 **本地优先的提示词脱敏工具：发送云端 LLM 前替换敏感信息**
 
@@ -45,12 +45,12 @@ prompt-scrub 在提示词离开本机前检测并替换邮箱、密钥、路径�
 ```mermaid
 xychart-beta
     title "Nano-Collective/prompt-scrubber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

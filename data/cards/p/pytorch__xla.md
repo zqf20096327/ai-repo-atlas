@@ -1,6 +1,6 @@
 # pytorch/xla
 
-⭐ 2,806 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pytorch/xla) · [官网](https://pytorch.org/xla) · 组织维护
+⭐ 2,805 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pytorch/xla) · [官网](https://pytorch.org/xla) · 组织维护
 
 **让 PyTorch 在 XLA 设备（如 Google TPU）上运行的编译桥接包**
 
@@ -46,12 +46,12 @@ Python 包，使用 XLA 深度学习编译器连接 PyTorch 框架与 Cloud TPU�
 ```mermaid
 xychart-beta
     title "pytorch/xla 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
     y-axis "stars" 2802 --> 2808
-    line [2804, 2803, 2807, 2806, 2806]
+    line [2804, 2803, 2807, 2806, 2805]
 ```
 
-2026-10-18 2,804 → 2026-10-29 2,806（+2）
+2026-10-18 2,804 → 2026-10-30 2,805（+1）
 
 
 ---

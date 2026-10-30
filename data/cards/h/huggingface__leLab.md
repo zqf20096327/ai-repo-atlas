@@ -1,6 +1,6 @@
 # huggingface/leLab
 
-⭐ 201 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/leLab) · [官网](https://huggingface.co/spaces/lerobot/LeLab) · 组织维护
+⭐ 201 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/leLab) · [官网](https://huggingface.co/spaces/lerobot/LeLab) · 组织维护
 
 **LeRobot 机器人学习工作流的官方 Web 图形界面**
 
@@ -44,13 +44,13 @@ Hugging Face LeRobot 团队维护的 Web 应用，把机械臂机器人学习全
 
 ```mermaid
 xychart-beta
-    title "huggingface/leLab 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29"]
+    title "huggingface/leLab 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 196 --> 202
-    line [197, 198, 199, 200, 201]
+    line [197, 198, 199, 200, 201, 201]
 ```
 
-2026-10-18 197 → 2026-10-29 201（+4）
+2026-10-18 197 → 2026-10-30 201（+4）
 
 
 ---

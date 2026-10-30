@@ -1,6 +1,6 @@
 # Sagargupta16/awesome-mcp-servers
 
-⭐ 24 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/Sagargupta16/awesome-mcp-servers) · [官网](http://sagargupta.online/awesome-mcp-servers/) · 个人维护
+⭐ 27 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/Sagargupta16/awesome-mcp-servers) · [官网](http://sagargupta.online/awesome-mcp-servers/) · 个人维护
 
 **经人工核验的 MCP 服务器与工具策展清单（可搜索站点）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sagargupta16/awesome-mcp-servers 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 10 --> 25
-    line [11, 13, 14, 16, 18, 24]
+    title "Sagargupta16/awesome-mcp-servers 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 10 --> 28
+    line [11, 13, 14, 16, 18, 24, 27]
 ```
 
-2026-10-22 11 → 2026-10-29 24（+13）
+2026-10-22 11 → 2026-10-30 27（+16）
 
 
 ---

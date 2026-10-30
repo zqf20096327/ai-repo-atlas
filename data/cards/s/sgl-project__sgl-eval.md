@@ -1,6 +1,6 @@
 # sgl-project/sgl-eval
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/sgl-project/sgl-eval) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/sgl-project/sgl-eval) · 组织维护
 
 **面向 SGLang 的一键准确率评测客户端，指向任意 OpenAI 兼容端点**
 
@@ -46,12 +46,12 @@ sgl-eval 是一个 Python CLI 评测工具，用于对任意 OpenAI 兼容端点
 ```mermaid
 xychart-beta
     title "sgl-project/sgl-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

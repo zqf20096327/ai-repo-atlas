@@ -41,6 +41,18 @@
 > L9: - A trained chatbot model file
 > L13: This project is ideal for beginners who want to learn how chatbot applications work in Python.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Chatbot-Python-Project 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 mid · 依据 README sha `bcc2bd54149c` · [字段定义](../../DATASET.md)*

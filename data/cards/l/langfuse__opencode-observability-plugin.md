@@ -1,6 +1,6 @@
 # langfuse/opencode-observability-plugin
 
-⭐ 35 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langfuse/opencode-observability-plugin) · [官网](https://langfuse.com/) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langfuse/opencode-observability-plugin) · [官网](https://langfuse.com/) · 组织维护
 
 **将 OpenCode 会话遥测发送到 Langfuse 的观测插件**
 
@@ -44,12 +44,12 @@ OpenCode 插件，将 OpenCode 会话的用户轮次、助手生成、工具调�
 ```mermaid
 xychart-beta
     title "langfuse/opencode-observability-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
     y-axis "stars" 32 --> 36
     line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-10-29 35（+2）
+2026-10-18 33 → 2026-10-30 35（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIPMAndy/FreeToken
 
-⭐ 145 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/FreeToken) · 个人维护 · 中文 README
+⭐ 145 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/FreeToken) · [官网](https://aipmandy.github.io/FreeToken/) · 个人维护 · 中文 README
 
 **面向中文开发者的免费 AI API 额度导航清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIPMAndy/FreeToken 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "AIPMAndy/FreeToken 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 141 --> 146
-    line [142, 143, 144, 145]
+    line [142, 143, 144, 145, 145]
 ```
 
-2026-10-23 142 → 2026-10-29 145（+3）
+2026-10-23 142 → 2026-10-30 145（+3）
 
 
 ---

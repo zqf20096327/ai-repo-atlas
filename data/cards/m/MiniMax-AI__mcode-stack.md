@@ -1,6 +1,6 @@
 # MiniMax-AI/mcode-stack
 
-⭐ 165 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
+⭐ 406 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
 
 **MiniMax Code 团队日常使用的 AI 编码工作流与技能合集**
 
@@ -40,6 +40,18 @@
 > L10: **The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.**
 > L16: goes into context on every turn. Each piece is a `SKILL.md` skill or
 > L74: The skills use the common `SKILL.md` format, so most of them also work in
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MiniMax-AI/mcode-stack 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 141 --> 430
+    line [165, 406]
+```
+
+2026-10-29 165 → 2026-10-30 406（+241）
 
 
 ---

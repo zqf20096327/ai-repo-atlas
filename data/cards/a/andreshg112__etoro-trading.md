@@ -1,6 +1,6 @@
 # andreshg112/etoro-trading
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/andreshg112/etoro-trading) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/andreshg112/etoro-trading) · 个人维护
 
 **Google Apps Script 上的 eToro 自动波段交易机器人，用 Gemini 分析行情**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andreshg112/etoro-trading 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
     y-axis "stars" 11 --> 19
-    line [12, 18, 17, 17]
+    line [12, 18, 17, 18]
 ```
 
-2026-10-23 12 → 2026-10-29 17（+5）
+2026-10-23 12 → 2026-10-30 18（+6）
 
 
 ---

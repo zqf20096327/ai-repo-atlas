@@ -1,6 +1,6 @@
 # navidseyedain/ALAD
 
-⭐ 32 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/navidseyedain/ALAD) · 个人维护
+⭐ 33 · JavaScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/navidseyedain/ALAD) · 个人维护
 
 **Chrome 标签页实时 AI 语音配音扩展，支持 78 种语言**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "navidseyedain/ALAD 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 25 --> 33
-    line [26, 29, 30, 31, 32]
+    title "navidseyedain/ALAD 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 25 --> 34
+    line [26, 29, 30, 31, 32, 33]
 ```
 
-2026-10-18 26 → 2026-10-29 32（+6）
+2026-10-18 26 → 2026-10-30 33（+7）
 
 
 ---

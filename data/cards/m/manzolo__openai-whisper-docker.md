@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "manzolo/openai-whisper-docker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "manzolo/openai-whisper-docker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 177 --> 180
-    line [178, 179]
+    line [178, 179, 179]
 ```
 
-2026-10-18 178 → 2026-10-29 179（+1）
+2026-10-18 178 → 2026-10-30 179（+1）
 
 
 ---

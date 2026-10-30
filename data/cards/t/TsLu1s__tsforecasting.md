@@ -45,12 +45,12 @@ Python 库形式的自动化时间序列预测流水线，整合 SKLearn、AutoG
 ```mermaid
 xychart-beta
     title "TsLu1s/tsforecasting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

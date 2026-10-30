@@ -1,6 +1,6 @@
 # Mlilion/Codata
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Mlilion/Codata) · 个人维护 · 中文 README
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Mlilion/Codata) · 个人维护 · 中文 README
 
 **本地优先的桌面 Data Agent：自然语言查数、SQL、看板与专家团分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mlilion/Codata 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 14, 15, 18]
+    title "Mlilion/Codata 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11 --> 24
+    line [12, 13, 14, 15, 18, 23]
 ```
 
-2026-10-22 12 → 2026-10-29 18（+6）
+2026-10-22 12 → 2026-10-30 23（+11）
 
 
 ---

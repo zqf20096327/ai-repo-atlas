@@ -1,6 +1,6 @@
 # oncoray/familiar
 
-⭐ 31 · R · EUPL-1.2 · 推送 2026-10-28 · [GitHub](https://github.com/oncoray/familiar) · 组织维护
+⭐ 31 · R · EUPL-1.2 · 推送 2026-10-29 · [GitHub](https://github.com/oncoray/familiar) · 组织维护
 
 **表格数据端到端机器学习 R 包：建模、评估与可解释分析**
 
@@ -45,12 +45,12 @@ R 语言包，提供表格数据从建模到评估与解释的完整流程：支
 ```mermaid
 xychart-beta
     title "oncoray/familiar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 31（+0）
 
 
 ---

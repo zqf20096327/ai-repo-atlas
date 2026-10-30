@@ -1,6 +1,6 @@
 # znxzsy/AlignLedger
 
-⭐ 100 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/znxzsy/AlignLedger) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/znxzsy/AlignLedger) · 个人维护 · 中文 README
 
 **面向 RLHF/SFT/DPO 的可审计人工反馈标注与审核系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "znxzsy/AlignLedger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-18 100 → 2026-10-29 100（+0）
+2026-10-18 100 → 2026-10-30 100（+0）
 
 
 ---

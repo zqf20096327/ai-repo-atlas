@@ -1,6 +1,6 @@
 # kdcube/kdcube
 
-⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kdcube/kdcube) · [官网](https://kdcube.tech) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kdcube/kdcube) · [官网](https://kdcube.tech) · 组织维护
 
 **自托管 AI 应用服务器与 SDK：多用户托管运行 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kdcube/kdcube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-29 26（+0）
+2026-10-18 26 → 2026-10-30 26（+0）
 
 
 ---

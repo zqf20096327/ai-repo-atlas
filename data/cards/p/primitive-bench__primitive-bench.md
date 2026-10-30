@@ -46,12 +46,12 @@ Primitive Bench 的开源验证层：提供覆盖网页搜索、抽取、OCR、�
 ```mermaid
 xychart-beta
     title "primitive-bench/primitive-bench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 121 --> 123
     line [122, 122]
 ```
 
-2026-10-18 122 → 2026-10-29 122（+0）
+2026-10-18 122 → 2026-10-30 122（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # buynao/aipath
 
-⭐ 517 · JavaScript · 推送 2026-07-02 · [GitHub](https://github.com/buynao/aipath) · [官网](https://aipath.buynao.com) · 个人维护 · 中文 README
+⭐ 518 · JavaScript · 推送 2026-07-02 · [GitHub](https://github.com/buynao/aipath) · [官网](https://aipath.buynao.com) · 个人维护 · 中文 README
 
 **零数学起点的 AI 通识互动课程：6 阶段 30 课，双语**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buynao/aipath 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 514 --> 519
-    line [515, 516, 517, 518, 517, 517]
+    line [515, 516, 517, 518, 517, 518]
 ```
 
-2026-10-18 515 → 2026-10-29 517（+2）
+2026-10-18 515 → 2026-10-30 518（+3）
 
 
 ---

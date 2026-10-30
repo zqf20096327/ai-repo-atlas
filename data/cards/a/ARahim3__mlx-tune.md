@@ -1,6 +1,6 @@
 # ARahim3/mlx-tune
 
-⭐ 1,450 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ARahim3/mlx-tune) · [官网](https://arahim3.github.io/mlx-tune/) · 个人维护
+⭐ 1,451 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/ARahim3/mlx-tune) · [官网](https://arahim3.github.io/mlx-tune/) · 个人维护
 
 **Apple Silicon 上的模型微调框架，兼容 Unsloth API**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ARahim3/mlx-tune 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1442 --> 1451
-    line [1443, 1444, 1447, 1448, 1449, 1450, 1450]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 1442 --> 1452
+    line [1443, 1444, 1447, 1448, 1449, 1450, 1451]
 ```
 
-2026-10-18 1,443 → 2026-10-29 1,450（+7）
+2026-10-18 1,443 → 2026-10-30 1,451（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_playground
 
-⭐ 2,264 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google-deepmind/mujoco_playground) · 组织维护
+⭐ 2,267 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google-deepmind/mujoco_playground) · 组织维护
 
 **GPU 加速的机器人学习环境套件，支持 sim-to-real 迁移**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/mujoco_playground 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2254 --> 2265
-    line [2255, 2257, 2258, 2259, 2261, 2263, 2264]
+    title "google-deepmind/mujoco_playground 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2254 --> 2268
+    line [2255, 2257, 2258, 2259, 2261, 2263, 2264, 2267]
 ```
 
-2026-10-18 2,255 → 2026-10-29 2,264（+9）
+2026-10-18 2,255 → 2026-10-30 2,267（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Wind-Alice/AliceMarket
 
-⭐ 143 · Python · 推送 2026-10-15 · [GitHub](https://github.com/Wind-Alice/AliceMarket) · [官网](https://market.windalice.com) · 组织维护 · 中文 README
+⭐ 146 · Python · 推送 2026-10-15 · [GitHub](https://github.com/Wind-Alice/AliceMarket) · [官网](https://market.windalice.com) · 组织维护 · 中文 README
 
 **给 AI Agent 接入 Wind 金融数据与分析技能的 Skill 集合**
 
@@ -46,12 +46,12 @@ Wind（万得）维护的金融 Skill monorepo，收录 34 个金融 skill：通
 ```mermaid
 xychart-beta
     title "Wind-Alice/AliceMarket 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 137 --> 144
-    line [138, 140, 141, 142, 143, 143]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 137 --> 147
+    line [138, 140, 141, 142, 143, 146]
 ```
 
-2026-10-18 138 → 2026-10-29 143（+5）
+2026-10-18 138 → 2026-10-30 146（+8）
 
 
 ---

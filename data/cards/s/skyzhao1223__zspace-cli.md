@@ -1,6 +1,6 @@
 # skyzhao1223/zspace-cli
 
-⭐ 28 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/skyzhao1223/zspace-cli) · [官网](https://pypi.org/project/zspace-cli/) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/skyzhao1223/zspace-cli) · [官网](https://pypi.org/project/zspace-cli/) · 个人维护 · 中文 README
 
 **极空间 NAS 的 CLI/SDK/MCP 工具，供终端与 AI Agent 管理文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skyzhao1223/zspace-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 26 --> 30
+    line [28, 27, 28, 29]
 ```
 
-2026-10-18 28 → 2026-10-29 28（+0）
+2026-10-18 28 → 2026-10-30 29（+1）
 
 
 ---

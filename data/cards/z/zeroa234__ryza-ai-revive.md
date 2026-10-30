@@ -1,6 +1,6 @@
 # zeroa234/ryza-ai-revive
 
-⭐ 220 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zeroa234/ryza-ai-revive) · 个人维护 · 中文 README
+⭐ 221 · JavaScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zeroa234/ryza-ai-revive) · 个人维护 · 中文 README
 
 **带实时 2D 立绘的本地优先 AI 对话陪伴客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeroa234/ryza-ai-revive 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 214 --> 221
-    line [215, 217, 218, 219, 220]
+    title "zeroa234/ryza-ai-revive 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 214 --> 222
+    line [215, 217, 218, 219, 220, 221]
 ```
 
-2026-10-18 215 → 2026-10-29 220（+5）
+2026-10-18 215 → 2026-10-30 221（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # evllabs/JGAAP
 
-⭐ 287 · Java · 推送 2026-03-18 · [GitHub](https://github.com/evllabs/JGAAP) · [官网](http://www.evllabs.com) · 组织维护
+⭐ 288 · Java · 推送 2026-03-18 · [GitHub](https://github.com/evllabs/JGAAP) · [官网](http://www.evllabs.com) · 组织维护
 
 **面向非专家的文本作者归属分析工具**
 
@@ -45,12 +45,12 @@ Java 图形化作者归属（Authorship Attribution）程序，让非专家用�
 ```mermaid
 xychart-beta
     title "evllabs/JGAAP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 285 --> 288
-    line [286, 287, 287]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 285 --> 289
+    line [286, 287, 288]
 ```
 
-2026-10-18 286 → 2026-10-29 287（+1）
+2026-10-18 286 → 2026-10-30 288（+2）
 
 
 ---

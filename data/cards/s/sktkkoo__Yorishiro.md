@@ -1,6 +1,6 @@
 # sktkkoo/Yorishiro
 
-⭐ 85 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sktkkoo/Yorishiro) · 个人维护 · 中文 README
+⭐ 86 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sktkkoo/Yorishiro) · 个人维护 · 中文 README
 
 **让 AI 以虚拟形象常驻的 macOS 终端（Claude Code/Codex）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sktkkoo/Yorishiro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 81 --> 86
-    line [82, 83, 85]
+    title "sktkkoo/Yorishiro 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 81 --> 87
+    line [82, 83, 85, 86]
 ```
 
-2026-10-18 82 → 2026-10-29 85（+3）
+2026-10-18 82 → 2026-10-30 86（+4）
 
 
 ---

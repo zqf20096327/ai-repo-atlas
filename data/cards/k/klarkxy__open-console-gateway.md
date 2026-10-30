@@ -1,6 +1,6 @@
 # klarkxy/open-console-gateway
 
-⭐ 100 · Rust · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/klarkxy/open-console-gateway) · [官网](https://klarkxy.github.io/open-console-gateway/) · 个人维护 · 中文 README
+⭐ 99 · Rust · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/klarkxy/open-console-gateway) · [官网](https://klarkxy.github.io/open-console-gateway/) · 个人维护 · 中文 README
 
 **本地自托管 AI 订阅与 API 网关：统一接入多家服务商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "klarkxy/open-console-gateway 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    line [99, 100, 99]
 ```
 
-2026-10-18 99 → 2026-10-29 100（+1）
+2026-10-18 99 → 2026-10-30 99（+0）
 
 
 ---

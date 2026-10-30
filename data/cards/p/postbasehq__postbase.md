@@ -1,6 +1,6 @@
 # postbasehq/postbase
 
-⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/postbasehq/postbase) · [官网](https://www.postbase.so) · 组织维护
+⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/postbasehq/postbase) · [官网](https://www.postbase.so) · 组织维护
 
 **开源社交媒体排程器，支持 MCP 让 AI 客户端代发帖**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "postbasehq/postbase 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 10 --> 19
     line [11, 12, 13, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-18 11 → 2026-10-29 18（+7）
+2026-10-18 11 → 2026-10-30 18（+7）
 
 
 ---

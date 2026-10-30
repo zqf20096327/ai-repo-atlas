@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleTS
 
-⭐ 545 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/PaddlePaddle/PaddleTS) · 组织维护 · 中文 README
+⭐ 544 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/PaddlePaddle/PaddleTS) · 组织维护 · 中文 README
 
 **基于飞桨的深度时序建模 Python 库，覆盖预测/异常检测等任务**
 
@@ -45,12 +45,12 @@ PaddleTS 是基于 PaddlePaddle 的 Python 时序建模库，面向领域专家�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 544 --> 546
-    line [545, 545]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 543 --> 546
+    line [545, 544]
 ```
 
-2026-10-18 545 → 2026-10-29 545（+0）
+2026-10-18 545 → 2026-10-30 544（-1）
 
 
 ---

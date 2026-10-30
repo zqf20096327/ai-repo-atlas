@@ -1,6 +1,6 @@
 # gretl-project/gretl
 
-⭐ 20 · C · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/gretl-project/gretl) · [官网](https://gretl.sourceforge.net/) · 组织维护
+⭐ 20 · C · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gretl-project/gretl) · [官网](https://gretl.sourceforge.net/) · 组织维护
 
 **计量经济学统计软件包：回归、时间序列与面板数据分析**
 
@@ -44,12 +44,12 @@ Gretl（GNU regression, econometrics and time-series library）包含三部分�
 ```mermaid
 xychart-beta
     title "gretl-project/gretl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pbakaus/impeccable
 
-⭐ 92,253 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护 · 中文 README
+⭐ 94,976 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护 · 中文 README
 
 **给 AI 编码 agent 的前端设计技能包：24 条命令与设计检测规则**
 
@@ -39,6 +39,18 @@
 
 > L3: Design guidance for AI coding agents. 1 skill, 24 commands, live browser iteration, and 62 deterministic detector ru
 > L16: - **62 deterministic detector rules** plus LLM-only critique checks. The CLI and browser extension run the determin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pbakaus/impeccable 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 91981 --> 95248
+    line [92253, 94976]
+```
+
+2026-10-29 92,253 → 2026-10-30 94,976（+2,723）
 
 
 ---

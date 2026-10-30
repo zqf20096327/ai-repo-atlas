@@ -1,6 +1,6 @@
 # slyyr/awesome-robotics
 
-⭐ 20 · MIT · 推送 2026-10-10 · [GitHub](https://github.com/slyyr/awesome-robotics) · [官网](https://slyyr.github.io/awesome-robotics/) · 个人维护
+⭐ 20 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/slyyr/awesome-robotics) · [官网](https://slyyr.github.io/awesome-robotics/) · 个人维护
 
 **面向学习者的免费 AI 与机器人学资源策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "slyyr/awesome-robotics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 19 --> 22
     line [21, 20, 20]
 ```
 
-2026-10-18 21 → 2026-10-29 20（-1）
+2026-10-18 21 → 2026-10-30 20（-1）
 
 
 ---

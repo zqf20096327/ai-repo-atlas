@@ -45,12 +45,12 @@ Hal9 提供以 pip 安装的 Python 包和 CLI（hal9 create/run/deploy），用
 ```mermaid
 xychart-beta
     title "hal9ai/hal9 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 180 --> 182
     line [181, 181]
 ```
 
-2026-10-18 181 → 2026-10-29 181（+0）
+2026-10-18 181 → 2026-10-30 181（+0）
 
 
 ---

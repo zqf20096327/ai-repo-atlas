@@ -1,6 +1,6 @@
 # markolofsen/django-cfg
 
-⭐ 24 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/markolofsen/django-cfg) · [官网](https://djangocfg.com) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/markolofsen/django-cfg) · [官网](https://djangocfg.com) · 个人维护
 
 **类型安全的 Django 配置框架，附带 AI 与企业应用组件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "markolofsen/django-cfg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

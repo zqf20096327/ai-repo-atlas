@@ -1,6 +1,6 @@
 # oriveo/oriveo
 
-⭐ 550 · Swift · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/oriveo/oriveo) · [官网](https://oriveoai.com) · 组织维护
+⭐ 550 · Swift · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/oriveo/oriveo) · [官网](https://oriveoai.com) · 组织维护
 
 **自带 API Key 的多模型 AI 聊天客户端，覆盖 iOS/Android/Web**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oriveo/oriveo 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 540 --> 592
     line [586, 588, 544, 546, 547, 550, 550]
 ```
 
-2026-10-18 586 → 2026-10-29 550（-36）
+2026-10-18 586 → 2026-10-30 550（-36）
 
 
 ---

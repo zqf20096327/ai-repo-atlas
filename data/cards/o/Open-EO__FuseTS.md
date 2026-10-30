@@ -1,6 +1,6 @@
 # Open-EO/FuseTS
 
-⭐ 30 · Jupyter Notebook · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Open-EO/FuseTS) · [官网](https://open-eo.github.io/FuseTS/) · 组织维护
+⭐ 30 · Jupyter Notebook · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Open-EO/FuseTS) · [官网](https://open-eo.github.io/FuseTS/) · 组织维护
 
 **集成 openEO 的时间序列与数据融合工具箱**
 
@@ -43,12 +43,12 @@ FuseTS 是面向 AI4FOOD 项目的时间序列与数据融合工具箱，目标�
 ```mermaid
 xychart-beta
     title "Open-EO/FuseTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

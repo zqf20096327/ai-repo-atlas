@@ -1,6 +1,6 @@
 # Epistates/pmetal
 
-⭐ 331 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Epistates/pmetal) · [官网](https://pmetal.io) · 个人维护
+⭐ 331 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Epistates/pmetal) · [官网](https://pmetal.io) · 个人维护
 
 **Apple Silicon 本地 LLM 训练与推理的 Rust 框架套件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Epistates/pmetal 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 327 --> 332
     line [328, 329, 330, 331, 331]
 ```
 
-2026-10-18 328 → 2026-10-29 331（+3）
+2026-10-18 328 → 2026-10-30 331（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # vastxie/ai-worldcup-2026
 
-⭐ 20 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/vastxie/ai-worldcup-2026) · [官网](https://wc.lightai.io) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vastxie/ai-worldcup-2026) · [官网](https://wc.lightai.io) · 个人维护 · 中文 README
 
 **2026 世界杯 AI 竞技场：18 个 AI 选手预测赛事并公开对账归档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vastxie/ai-worldcup-2026 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tensorflow/tfjs-models
 
-⭐ 14,810 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs-models) · [官网](https://js.tensorflow.org) · 组织维护
+⭐ 14,811 · TypeScript · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/tensorflow/tfjs-models) · [官网](https://js.tensorflow.org) · 组织维护
 
 **前端开发者在浏览器中运行 TensorFlow.js 预训练模型集合**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tfjs-models 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 14801 --> 14811
-    line [14802, 14805, 14806, 14807, 14809, 14810]
+    title "tensorflow/tfjs-models 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 14801 --> 14812
+    line [14802, 14805, 14806, 14807, 14809, 14810, 14811]
 ```
 
-2026-10-18 14,802 → 2026-10-29 14,810（+8）
+2026-10-18 14,802 → 2026-10-30 14,811（+9）
 
 
 ---

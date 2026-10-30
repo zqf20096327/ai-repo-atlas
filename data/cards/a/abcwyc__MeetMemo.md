@@ -1,6 +1,6 @@
 # abcwyc/MeetMemo
 
-⭐ 53 · Swift · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/abcwyc/MeetMemo) · [官网](https://meetmemo.348580.xyz) · 个人维护 · 中文 README
+⭐ 54 · Swift · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/abcwyc/MeetMemo) · [官网](https://meetmemo.348580.xyz) · 个人维护 · 中文 README
 
 **本地运行的 macOS AI 会议纪要助手：录音转写并生成纪要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abcwyc/MeetMemo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-10-29 53（+2）
+2026-10-18 51 → 2026-10-30 54（+3）
 
 
 ---

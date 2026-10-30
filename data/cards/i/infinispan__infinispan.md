@@ -1,6 +1,6 @@
 # infinispan/infinispan
 
-⭐ 1,358 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/infinispan/infinispan) · [官网](https://infinispan.org) · 组织维护
+⭐ 1,358 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/infinispan/infinispan) · [官网](https://infinispan.org) · 组织维护
 
 **面向 Java 生态的开源分布式内存键值数据库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "infinispan/infinispan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1356 --> 1359
     line [1357, 1358, 1358]
 ```
 
-2026-10-18 1,357 → 2026-10-29 1,358（+1）
+2026-10-18 1,357 → 2026-10-30 1,358（+1）
 
 
 ---

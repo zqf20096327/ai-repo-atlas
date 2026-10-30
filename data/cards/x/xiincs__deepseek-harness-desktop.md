@@ -1,6 +1,6 @@
 # xiincs/deepseek-harness-desktop
 
-⭐ 61 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/xiincs/deepseek-harness-desktop) · 组织维护 · 中文 README
+⭐ 63 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/xiincs/deepseek-harness-desktop) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的社区桌面壳：托盘常驻、免命令行、带文件面板与插件市场**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiincs/deepseek-harness-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 59 --> 62
-    line [61, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 59 --> 64
+    line [61, 60, 61, 63]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 63（+2）
 
 
 ---

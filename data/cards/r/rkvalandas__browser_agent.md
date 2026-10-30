@@ -46,12 +46,12 @@ Python 应用，基于 Playwright 与 LLM（支持 OpenAI、Azure OpenAI、Groq�
 ```mermaid
 xychart-beta
     title "rkvalandas/browser_agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 37（+0）
 
 
 ---

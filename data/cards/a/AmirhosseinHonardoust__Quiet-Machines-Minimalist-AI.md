@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Quiet-Machines-Minimalist-AI
 
-⭐ 23 · MIT · 推送 2025-11-02 · [GitHub](https://github.com/AmirhosseinHonardoust/Quiet-Machines-Minimalist-AI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **关于极简主义 AI 哲学的长文：安静、克制的技术理念**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

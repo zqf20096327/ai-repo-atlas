@@ -47,12 +47,12 @@ Agentic Software Engineering（ASE）是为软件开发者与架构师提供的 
 ```mermaid
 xychart-beta
     title "rse/ase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-29 60（+0）
+2026-10-18 60 → 2026-10-30 60（+0）
 
 
 ---

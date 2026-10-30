@@ -1,6 +1,6 @@
 # FerroxLabs/fuigo
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/FerroxLabs/fuigo) · [官网](https://www.npmjs.com/package/fuigo) · 组织维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/FerroxLabs/fuigo) · [官网](https://www.npmjs.com/package/fuigo) · 组织维护
 
 **开源编码 agent：任意模型、沙箱化、可脚本化可嵌入**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行编码 agent，单一引擎提供三种使用界面：全
 ```mermaid
 xychart-beta
     title "FerroxLabs/fuigo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

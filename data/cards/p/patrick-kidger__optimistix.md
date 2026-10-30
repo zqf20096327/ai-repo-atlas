@@ -1,6 +1,6 @@
 # patrick-kidger/optimistix
 
-⭐ 630 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/patrick-kidger/optimistix) · 个人维护
+⭐ 631 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/patrick-kidger/optimistix) · 个人维护
 
 **面向 JAX 的非线性优化库：求根/最小化/不动点/最小二乘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patrick-kidger/optimistix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 625 --> 631
-    line [626, 627, 630, 630]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 625 --> 632
+    line [626, 627, 630, 631]
 ```
 
-2026-10-18 626 → 2026-10-29 630（+4）
+2026-10-18 626 → 2026-10-30 631（+5）
 
 
 ---

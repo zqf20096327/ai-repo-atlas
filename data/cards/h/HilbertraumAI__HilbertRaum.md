@@ -1,6 +1,6 @@
 # HilbertraumAI/HilbertRaum
 
-⭐ 146 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/HilbertraumAI/HilbertRaum) · [官网](https://hilbertraum.ai/) · 组织维护
+⭐ 146 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/HilbertraumAI/HilbertRaum) · [官网](https://hilbertraum.ai/) · 组织维护
 
 **完全离线运行的私有 AI 工作区：本地对话、文档问答与离线维基**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HilbertraumAI/HilbertRaum 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 142 --> 147
     line [143, 145, 146, 146]
 ```
 
-2026-10-18 143 → 2026-10-29 146（+3）
+2026-10-18 143 → 2026-10-30 146（+3）
 
 
 ---

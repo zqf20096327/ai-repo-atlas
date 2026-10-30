@@ -45,12 +45,12 @@ Nuxt 模块，自动生成并预渲染 /llms.txt 与可选的 /llms-full.txt 路
 ```mermaid
 xychart-beta
     title "nuxt-content/nuxt-llms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-18 171 → 2026-10-29 171（+0）
+2026-10-18 171 → 2026-10-30 171（+0）
 
 
 ---

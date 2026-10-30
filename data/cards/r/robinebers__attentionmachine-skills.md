@@ -1,6 +1,6 @@
 # robinebers/attentionmachine-skills
 
-⭐ 62 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/robinebers/attentionmachine-skills) · [官网](https://www.attentionmachine.ai) · 个人维护
+⭐ 65 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/robinebers/attentionmachine-skills) · [官网](https://www.attentionmachine.ai) · 个人维护
 
 **让 Claude Code/Codex 把口播录像自动剪成 Reels 的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "robinebers/attentionmachine-skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 35 --> 64
-    line [37, 41, 43, 44, 50, 51, 56, 57, 62]
+    title "robinebers/attentionmachine-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 35 --> 67
+    line [37, 41, 43, 44, 50, 51, 56, 57, 62, 65]
 ```
 
-2026-10-18 37 → 2026-10-29 62（+25）
+2026-10-18 37 → 2026-10-30 65（+28）
 
 
 ---

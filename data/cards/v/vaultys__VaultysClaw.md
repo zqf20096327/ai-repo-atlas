@@ -1,6 +1,6 @@
 # vaultys/VaultysClaw
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vaultys/VaultysClaw) · [官网](https://docs.vaultys.ai) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vaultys/VaultysClaw) · [官网](https://docs.vaultys.ai) · 组织维护
 
 **面向 AI agent 的身份与访问控制平面，基于签名能力证书**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vaultys/VaultysClaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "vaultys/VaultysClaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 81 --> 85
-    line [82, 83, 84]
+    line [82, 83, 84, 84]
 ```
 
-2026-10-18 82 → 2026-10-29 84（+2）
+2026-10-18 82 → 2026-10-30 84（+2）
 
 
 ---

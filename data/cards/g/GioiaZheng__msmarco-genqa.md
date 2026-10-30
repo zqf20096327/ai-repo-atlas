@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GioiaZheng/msmarco-genqa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "GioiaZheng/msmarco-genqa 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 35
-    line [34, 18]
+    line [34, 18, 18]
 ```
 
-2026-10-18 34 → 2026-10-29 18（-16）
+2026-10-18 34 → 2026-10-30 18（-16）
 
 
 ---

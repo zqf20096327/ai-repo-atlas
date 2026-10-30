@@ -1,6 +1,6 @@
 # addsumtech/slides_maker
 
-⭐ 640 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/addsumtech/slides_maker) · [官网](https://slides.addsum.top) · 组织维护 · 中文 README
+⭐ 642 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/addsumtech/slides_maker) · [官网](https://slides.addsum.top) · 组织维护 · 中文 README
 
 **在 Codex/Claude Code 中把论文/代码/文档生成为可编辑 PPTX**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "addsumtech/slides_maker 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 562 --> 647
-    line [569, 594, 606, 610, 613, 618, 623, 630, 636, 640]
+    title "addsumtech/slides_maker 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 562 --> 649
+    line [569, 594, 606, 610, 613, 618, 623, 630, 636, 640, 642]
 ```
 
-2026-10-18 569 → 2026-10-29 640（+71）
+2026-10-18 569 → 2026-10-30 642（+73）
 
 
 ---

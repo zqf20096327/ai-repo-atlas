@@ -1,6 +1,6 @@
 # lalipa2003-arch/JailbreakHub
 
-⭐ 21 · Roff · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/lalipa2003-arch/JailbreakHub) · 个人维护
+⭐ 33 · Roff · Unlicense · 推送 2026-10-29 · [GitHub](https://github.com/lalipa2003-arch/JailbreakHub) · 个人维护
 
 **LLM 越狱提示词与技术策展集合（2026 年）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "lalipa2003-arch/JailbreakHub 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2 --> 22
-    line [3, 5, 6, 10, 11, 15, 16, 21]
+    title "lalipa2003-arch/JailbreakHub 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 36
+    line [3, 5, 6, 10, 11, 15, 16, 21, 33]
 ```
 
-2026-10-19 3 → 2026-10-29 21（+18）
+2026-10-19 3 → 2026-10-30 33（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # capawesome-team/skills
 
-⭐ 52 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/capawesome-team/skills) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/capawesome-team/skills) · 组织维护
 
 **面向 AI agent 的 Capacitor/Ionic 开发技能集与 MCP 文档服务器**
 
@@ -46,13 +46,13 @@ capawesome-team 维护的 agent skills 集合，覆盖 Capacitor 应用创建、
 
 ```mermaid
 xychart-beta
-    title "capawesome-team/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 50 --> 53
-    line [51, 52]
+    title "capawesome-team/skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 50 --> 54
+    line [51, 52, 53]
 ```
 
-2026-10-18 51 → 2026-10-29 52（+1）
+2026-10-18 51 → 2026-10-30 53（+2）
 
 
 ---

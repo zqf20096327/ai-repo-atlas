@@ -44,13 +44,13 @@ Python 脚本：从 Robinhood 账户读取自选股与持仓数据，计算 RSI�
 
 ```mermaid
 xychart-beta
-    title "siropkin/robinhood-ai-trading-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "siropkin/robinhood-ai-trading-bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 128 --> 132
-    line [129, 130, 131]
+    line [129, 130, 131, 131]
 ```
 
-2026-10-18 129 → 2026-10-29 131（+2）
+2026-10-18 129 → 2026-10-30 131（+2）
 
 
 ---

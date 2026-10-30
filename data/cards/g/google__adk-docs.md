@@ -1,6 +1,6 @@
 # google/adk-docs
 
-⭐ 1,530 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/adk-docs) · [官网](https://adk.dev) · 组织维护
+⭐ 1,530 · Shell · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google/adk-docs) · [官网](https://adk.dev) · 组织维护
 
 **构建、评估与部署 AI agent 的代码优先多语言框架**
 
@@ -45,13 +45,13 @@ Agent Development Kit (ADK) 是 google 维护的开源代码优先 AI agent 开�
 
 ```mermaid
 xychart-beta
-    title "google/adk-docs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "google/adk-docs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1520 --> 1531
-    line [1521, 1524, 1525, 1527, 1529, 1530]
+    line [1521, 1524, 1525, 1527, 1529, 1530, 1530]
 ```
 
-2026-10-18 1,521 → 2026-10-29 1,530（+9）
+2026-10-18 1,521 → 2026-10-30 1,530（+9）
 
 
 ---

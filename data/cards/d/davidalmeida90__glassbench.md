@@ -1,6 +1,6 @@
 # davidalmeida90/glassbench
 
-⭐ 21 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/davidalmeida90/glassbench) · [官网](https://davidariasfinance.com/glassbench/) · 个人维护
+⭐ 22 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/davidalmeida90/glassbench) · [官网](https://davidariasfinance.com/glassbench/) · 个人维护
 
 **连接并基准测试金融 agent 系统的开源平台，可接券商模拟盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "davidalmeida90/glassbench 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 8 --> 22
-    line [9, 12, 14, 15, 16, 18, 19, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 8 --> 23
+    line [9, 12, 14, 15, 16, 18, 19, 21, 22]
 ```
 
-2026-10-18 9 → 2026-10-29 21（+12）
+2026-10-18 9 → 2026-10-30 22（+13）
 
 
 ---

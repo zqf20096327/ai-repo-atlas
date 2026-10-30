@@ -1,6 +1,6 @@
 # yanliudesign/job-description-skill
 
-⭐ 116 · 推送 2026-07-24 · [GitHub](https://github.com/yanliudesign/job-description-skill) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-07-24 · [GitHub](https://github.com/yanliudesign/job-description-skill) · 个人维护 · 中文 README
 
 **解析职位描述并生成求职策略报告的 Claude 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yanliudesign/job-description-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 113 --> 117
-    line [114, 115, 114, 115, 116, 116]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 113 --> 118
+    line [114, 115, 114, 115, 116, 117]
 ```
 
-2026-10-18 114 → 2026-10-29 116（+2）
+2026-10-18 114 → 2026-10-30 117（+3）
 
 
 ---

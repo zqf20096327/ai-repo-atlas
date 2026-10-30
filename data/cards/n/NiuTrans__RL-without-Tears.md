@@ -1,6 +1,6 @@
 # NiuTrans/RL-without-Tears
 
-⭐ 52 · HTML · 推送 2026-09-28 · [GitHub](https://github.com/NiuTrans/RL-without-Tears) · [官网](https://niutrans.github.io/RL-without-Tears/) · 组织维护
+⭐ 53 · HTML · 推送 2026-09-28 · [GitHub](https://github.com/NiuTrans/RL-without-Tears) · [官网](https://niutrans.github.io/RL-without-Tears/) · 组织维护
 
 **面向 LLM 研究者的强化学习入门教程论文（含分章 PDF 与网站）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NiuTrans/RL-without-Tears 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52]
+    title "NiuTrans/RL-without-Tears 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 53]
 ```
 
-2026-10-18 50 → 2026-10-29 52（+2）
+2026-10-18 50 → 2026-10-30 53（+3）
 
 
 ---

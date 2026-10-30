@@ -46,12 +46,12 @@ TypeScript 编写、Zod 校验、SQLite 存储的多 agent 编排框架：LLM �
 ```mermaid
 xychart-beta
     title "zeynepyorulmaz/openclaw-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

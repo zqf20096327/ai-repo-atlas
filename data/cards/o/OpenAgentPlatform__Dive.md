@@ -1,6 +1,6 @@
 # OpenAgentPlatform/Dive
 
-⭐ 1,822 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/OpenAgentPlatform/Dive) · 组织维护 · 中文 README
+⭐ 1,823 · TypeScript · MIT · 推送 2026-07-31 · [GitHub](https://github.com/OpenAgentPlatform/Dive) · 组织维护 · 中文 README
 
 **桌面端 MCP Host 应用：通过 MCP 工具与任意函数调用 LLM 对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenAgentPlatform/Dive 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1820 --> 1824
-    line [1823, 1821, 1822, 1822]
+    line [1823, 1821, 1822, 1823]
 ```
 
-2026-10-18 1,823 → 2026-10-29 1,822（-1）
+2026-10-18 1,823 → 2026-10-30 1,823（+0）
 
 
 ---

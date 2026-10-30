@@ -1,6 +1,6 @@
 # emma-sue/AegisOps
 
-⭐ 303 · Python · 推送 2026-09-10 · [GitHub](https://github.com/emma-sue/AegisOps) · 个人维护 · 中文 README
+⭐ 302 · Python · 推送 2026-09-10 · [GitHub](https://github.com/emma-sue/AegisOps) · 个人维护 · 中文 README
 
 **企业信息系统运维 Agent 平台：自动巡检、AI 故障排查与证据工单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "emma-sue/AegisOps 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 301 --> 333
-    line [331, 330, 303, 303]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 300 --> 333
+    line [331, 330, 303, 302]
 ```
 
-2026-10-18 331 → 2026-10-29 303（-28）
+2026-10-18 331 → 2026-10-30 302（-29）
 
 
 ---

@@ -1,6 +1,6 @@
 # evilbruce666/1c-odata-mcp
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/evilbruce666/1c-odata-mcp) · [官网](https://www.npmjs.com/package/1c-odata-mcp) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/evilbruce666/1c-odata-mcp) · [官网](https://www.npmjs.com/package/1c-odata-mcp) · 个人维护
 
 **把 1С:Предприятие 数据接入任意 MCP 客户端的 OData 连接器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "evilbruce666/1c-odata-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
+    title "evilbruce666/1c-odata-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 26 --> 38
-    line [27, 29, 32, 33, 35, 37]
+    line [27, 29, 32, 33, 35, 37, 37]
 ```
 
-2026-10-18 27 → 2026-10-29 37（+10）
+2026-10-18 27 → 2026-10-30 37（+10）
 
 
 ---

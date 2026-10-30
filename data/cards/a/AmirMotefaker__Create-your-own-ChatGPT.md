@@ -1,6 +1,6 @@
 # AmirMotefaker/Create-your-own-ChatGPT
 
-⭐ 23 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/AmirMotefaker/Create-your-own-ChatGPT) · 个人维护
+⭐ 23 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/AmirMotefaker/Create-your-own-ChatGPT) · 个人维护
 
 **用 Python 调用 OpenAI Responses API 自建命令行 ChatGPT 示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirMotefaker/Create-your-own-ChatGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 21 --> 24
     line [23, 22, 23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

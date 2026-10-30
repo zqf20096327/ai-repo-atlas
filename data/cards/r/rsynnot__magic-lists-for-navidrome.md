@@ -1,6 +1,6 @@
 # rsynnot/magic-lists-for-navidrome
 
-⭐ 248 · Python · 推送 2025-11-02 · [GitHub](https://github.com/rsynnot/magic-lists-for-navidrome) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自建 Navidrome 音乐库的 AI 歌单生成器**
 

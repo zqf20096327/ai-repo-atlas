@@ -1,6 +1,6 @@
 # lobehub/lobe-assets
 
-⭐ 27 · CSS · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lobehub/lobe-assets) · 组织维护 · 中文 README
+⭐ 27 · CSS · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lobehub/lobe-assets) · 组织维护 · 中文 README
 
 **LobeHub 的 Logo、favicon、emoji 与 Web 字体资源库**
 
@@ -46,12 +46,12 @@ LobeHub 维护的前端静态资源 monorepo，包含 10 个 npm 包：AI 模型
 ```mermaid
 xychart-beta
     title "lobehub/lobe-assets 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

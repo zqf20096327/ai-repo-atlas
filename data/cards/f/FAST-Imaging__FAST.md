@@ -1,6 +1,6 @@
 # FAST-Imaging/FAST
 
-⭐ 520 · C++ · BSD-2-Clause · 推送 2026-10-14 · [GitHub](https://github.com/FAST-Imaging/FAST) · [官网](https://fast-imaging.github.io) · 组织维护
+⭐ 520 · C++ · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/FAST-Imaging/FAST) · [官网](https://fast-imaging.github.io) · 组织维护
 
 **医学图像高性能处理、神经网络推理与可视化框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FAST-Imaging/FAST 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 519 --> 521
     line [520, 520]
 ```
 
-2026-10-18 520 → 2026-10-29 520（+0）
+2026-10-18 520 → 2026-10-30 520（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # meta-llama/llama-cookbook
 
-⭐ 18,578 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/meta-llama/llama-cookbook) · [官网](https://www.llama.com) · 组织维护
+⭐ 18,579 · Jupyter Notebook · MIT · 推送 2026-05-19 · [GitHub](https://github.com/meta-llama/llama-cookbook) · [官网](https://www.llama.com) · 组织维护
 
 **Meta 官方 Llama 模型使用指南：推理、微调、RAG 示例集**
 
@@ -50,13 +50,13 @@ Meta 官方的 Llama 模型家族构建指南仓库，覆盖推理、微调、RA
 
 ```mermaid
 xychart-beta
-    title "meta-llama/llama-cookbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "meta-llama/llama-cookbook 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 18564 --> 18581
-    line [18565, 18571, 18575, 18574, 18575, 18578, 18577, 18580, 18578]
+    line [18565, 18571, 18575, 18574, 18575, 18578, 18577, 18580, 18578, 18579]
 ```
 
-2026-10-18 18,565 → 2026-10-29 18,578（+13）
+2026-10-18 18,565 → 2026-10-30 18,579（+14）
 
 
 ---

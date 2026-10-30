@@ -1,6 +1,6 @@
 # BrokkAi/bifrost
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/BrokkAi/bifrost) · [官网](https://bifrost.brokk.ai/) · 组织维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/BrokkAi/bifrost) · [官网](https://bifrost.brokk.ai/) · 组织维护
 
 **面向 AI 编码代理与编辑器的多语言静态分析工具箱**
 
@@ -46,12 +46,12 @@ Brokk 用 Rust 编写的代码智能分析工具箱，为编码代理、编辑�
 ```mermaid
 xychart-beta
     title "BrokkAi/bifrost 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 18（+1）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

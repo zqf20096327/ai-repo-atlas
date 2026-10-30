@@ -1,6 +1,6 @@
 # leonardobetti/pd-portfolio-review
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leonardobetti/pd-portfolio-review) · [官网](https://pd-portfolio-review.vercel.app/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leonardobetti/pd-portfolio-review) · [官网](https://pd-portfolio-review.vercel.app/) · 个人维护
 
 **AI agent 技能：以招聘评审视角给设计作品集打分出报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leonardobetti/pd-portfolio-review 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 13 --> 27
-    line [14, 16, 21, 22, 25, 26, 26]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 13 --> 28
+    line [14, 16, 21, 22, 25, 26, 27]
 ```
 
-2026-10-23 14 → 2026-10-29 26（+12）
+2026-10-23 14 → 2026-10-30 27（+13）
 
 
 ---

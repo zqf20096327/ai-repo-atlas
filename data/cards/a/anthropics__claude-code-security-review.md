@@ -1,6 +1,6 @@
 # anthropics/claude-code-security-review
 
-⭐ 6,620 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/anthropics/claude-code-security-review) · 组织维护
+⭐ 6,641 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/anthropics/claude-code-security-review) · 组织维护
 
 **用 Claude 分析 PR 代码变更安全漏洞的 GitHub Action**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-code-security-review 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 6391 --> 6640
-    line [6411, 6440, 6468, 6482, 6516, 6529, 6539, 6559, 6592, 6620]
+    title "anthropics/claude-code-security-review 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 6388 --> 6664
+    line [6411, 6440, 6468, 6482, 6516, 6529, 6539, 6559, 6592, 6620, 6641]
 ```
 
-2026-10-18 6,411 → 2026-10-29 6,620（+209）
+2026-10-18 6,411 → 2026-10-30 6,641（+230）
 
 
 ---

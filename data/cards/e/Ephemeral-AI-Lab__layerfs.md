@@ -1,6 +1,6 @@
 # Ephemeral-AI-Lab/layerfs
 
-⭐ 2,460 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
+⭐ 2,512 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
 
 **面向 AI agent 的写时复制共享文件系统，支持分支/提交/合并**
 
@@ -45,13 +45,13 @@ LayerFS 为每个 agent 提供挂载于共享提交历史之上的完整可写 W
 
 ```mermaid
 xychart-beta
-    title "Ephemeral-AI-Lab/layerfs 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1853 --> 2515
-    line [1908, 1992, 2034, 2069, 2144, 2366, 2460]
+    title "Ephemeral-AI-Lab/layerfs 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1848 --> 2572
+    line [1908, 1992, 2034, 2069, 2144, 2366, 2460, 2512]
 ```
 
-2026-10-23 1,908 → 2026-10-29 2,460（+552）
+2026-10-23 1,908 → 2026-10-30 2,512（+604）
 
 
 ---

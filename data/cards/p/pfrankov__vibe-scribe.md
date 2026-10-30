@@ -45,13 +45,13 @@ VibeScribe 是一个 macOS 菜单栏应用，录制任意应用（Zoom、Meet、
 
 ```mermaid
 xychart-beta
-    title "pfrankov/vibe-scribe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "pfrankov/vibe-scribe 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 29 --> 32
-    line [31, 30]
+    line [31, 30, 30]
 ```
 
-2026-10-18 31 → 2026-10-29 30（-1）
+2026-10-18 31 → 2026-10-30 30（-1）
 
 
 ---

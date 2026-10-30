@@ -1,6 +1,6 @@
 # QwenLM/qwen-code-docs
 
-⭐ 57 · MDX · 推送 2026-10-28 · [GitHub](https://github.com/QwenLM/qwen-code-docs) · [官网](https://qwenlm.github.io/qwen-code-docs/) · 组织维护 · 中文 README
+⭐ 57 · MDX · 推送 2026-10-29 · [GitHub](https://github.com/QwenLM/qwen-code-docs) · [官网](https://qwenlm.github.io/qwen-code-docs/) · 组织维护 · 中文 README
 
 **面向 Qwen Code 的文档翻译工具：同步 GitHub 文档并用 Qwen AI 多语言翻译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "QwenLM/qwen-code-docs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "QwenLM/qwen-code-docs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 53 --> 58
-    line [54, 55, 56, 57]
+    line [54, 55, 56, 57, 57]
 ```
 
-2026-10-18 54 → 2026-10-29 57（+3）
+2026-10-18 54 → 2026-10-30 57（+3）
 
 
 ---

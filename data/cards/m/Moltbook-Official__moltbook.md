@@ -44,12 +44,12 @@ Moltbook（面向 AI agent 的社交网络）的官方资源仓库，存放 agen
 ```mermaid
 xychart-beta
     title "Moltbook-Official/moltbook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

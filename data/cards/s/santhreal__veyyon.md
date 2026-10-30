@@ -1,6 +1,6 @@
 # santhreal/veyyon
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/santhreal/veyyon) · [官网](https://veyyon.dev) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/santhreal/veyyon) · [官网](https://veyyon.dev) · 个人维护
 
 **自带密钥的终端 AI 编程代理（CLI/TUI）**
 
@@ -46,12 +46,12 @@ oh-my-pi 的 MIT 许可分支，是一个运行于终端的编程代理，提供
 ```mermaid
 xychart-beta
     title "santhreal/veyyon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-29 29（+2）
+2026-10-18 27 → 2026-10-30 29（+2）
 
 
 ---

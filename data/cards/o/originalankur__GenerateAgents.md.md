@@ -1,6 +1,6 @@
 # originalankur/GenerateAgents.md
 
-⭐ 259 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/originalankur/GenerateAgents.md) · 个人维护
+⭐ 260 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/originalankur/GenerateAgents.md) · 个人维护
 
 **自动为 GitHub/本地仓库生成 AGENTS.md 的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "originalankur/GenerateAgents.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 257 --> 260
-    line [258, 259]
+    title "originalankur/GenerateAgents.md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 257 --> 261
+    line [258, 259, 260]
 ```
 
-2026-10-18 258 → 2026-10-29 259（+1）
+2026-10-18 258 → 2026-10-30 260（+2）
 
 
 ---

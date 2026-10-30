@@ -1,6 +1,6 @@
 # vinsis/math-and-ml-notes
 
-⭐ 95 · Jupyter Notebook · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vinsis/math-and-ml-notes) · 个人维护
+⭐ 96 · Jupyter Notebook · MIT · 推送 2026-09-28 · [GitHub](https://github.com/vinsis/math-and-ml-notes) · 个人维护
 
 **个人维护的 ML/AI 论文与笔记链接清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "vinsis/math-and-ml-notes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-18 95 → 2026-10-29 95（+0）
+2026-10-18 95 → 2026-10-30 96（+1）
 
 
 ---

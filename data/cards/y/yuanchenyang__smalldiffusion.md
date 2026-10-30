@@ -1,6 +1,6 @@
 # yuanchenyang/smalldiffusion
 
-⭐ 795 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/yuanchenyang/smalldiffusion) · [官网](https://www.chenyang.co/diffusion.html) · 个人维护
+⭐ 796 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/yuanchenyang/smalldiffusion) · [官网](https://www.chenyang.co/diffusion.html) · 个人维护
 
 **轻量扩散/流模型训练与采样库，面向实验与快速上手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuanchenyang/smalldiffusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 792 --> 796
-    line [793, 794, 795]
+    title "yuanchenyang/smalldiffusion 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 792 --> 797
+    line [793, 794, 795, 796]
 ```
 
-2026-10-18 793 → 2026-10-29 795（+2）
+2026-10-18 793 → 2026-10-30 796（+3）
 
 
 ---

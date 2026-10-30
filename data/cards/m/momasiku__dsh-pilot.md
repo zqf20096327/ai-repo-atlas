@@ -1,6 +1,6 @@
 # momasiku/dsh-pilot
 
-⭐ 123 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/momasiku/dsh-pilot) · [官网](https://www.npmjs.com/package/@momasiku/dsh-pilot) · 个人维护 · 中文 README
+⭐ 129 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/momasiku/dsh-pilot) · [官网](https://www.npmjs.com/package/@momasiku/dsh-pilot) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 装 Windows 桌面操控能力的插件**
 
@@ -45,13 +45,13 @@ dsh-pilot 是 DeepSeek Harness（DSH）的桌面操控插件：提供 screen_vie
 
 ```mermaid
 xychart-beta
-    title "momasiku/dsh-pilot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5 --> 133
-    line [15, 16, 17, 56, 68, 102, 113, 123]
+    title "momasiku/dsh-pilot 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4 --> 140
+    line [15, 16, 17, 56, 68, 102, 113, 123, 129]
 ```
 
-2026-10-18 15 → 2026-10-29 123（+108）
+2026-10-18 15 → 2026-10-30 129（+114）
 
 
 ---

@@ -1,6 +1,6 @@
 # DGouron/review-flow
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/DGouron/review-flow) · [官网](https://dgouron.github.io/review-flow) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DGouron/review-flow) · [官网](https://dgouron.github.io/review-flow) · 个人维护
 
 **基于 Claude Code 的自动化 AI 代码审查服务：GitLab/GitHub MR/PR 触发**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DGouron/review-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 44（+0）
 
 
 ---

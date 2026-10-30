@@ -1,6 +1,6 @@
 # lennney/agent-search-mcp
 
-⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lennney/agent-search-mcp) · [官网](https://take-a-deep-breath0.com/en/agent-search-mcp) · 个人维护 · 中文 README
+⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/lennney/agent-search-mcp) · [官网](https://take-a-deep-breath0.com/en/agent-search-mcp) · 个人维护 · 中文 README
 
 **给 AI agent 的免密钥中英网页搜索 MCP 服务器，返回可核查证据**
 
@@ -45,13 +45,13 @@ Node.js 实现的 MCP 服务器与 CLI，为 AI agent 提供多引擎网页搜�
 
 ```mermaid
 xychart-beta
-    title "lennney/agent-search-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "lennney/agent-search-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 111]
+    line [111, 112, 111, 112]
 ```
 
-2026-10-18 111 → 2026-10-29 111（+0）
+2026-10-18 111 → 2026-10-30 112（+1）
 
 
 ---

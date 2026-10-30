@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "animatica-ai/motionmcp-kimodo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "animatica-ai/motionmcp-kimodo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 21 --> 24
-    line [22, 23]
+    line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-10-29 23（+1）
+2026-10-18 22 → 2026-10-30 23（+1）
 
 
 ---

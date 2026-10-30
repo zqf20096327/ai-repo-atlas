@@ -1,6 +1,6 @@
 # ofershap/cursor-usage-tracker
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ofershap/cursor-usage-tracker) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ofershap/cursor-usage-tracker) · 个人维护
 
 **Cursor Enterprise 的 AI 成本监控面板：异常检测与 Slack 告警**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ofershap/cursor-usage-tracker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tjakoen/bread
 
-⭐ 180 · Shell · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/tjakoen/bread) · [官网](https://tjakoen.github.io/bread/) · 个人维护
+⭐ 179 · Shell · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/tjakoen/bread) · [官网](https://tjakoen.github.io/bread/) · 个人维护
 
 **无构建、AI 可操作的 Web 技术栈总览仓库（五层+控制面）**
 
@@ -44,13 +44,13 @@ BREAD 是一个伞形仓库：它本身不含框架代码，而是五层技术�
 
 ```mermaid
 xychart-beta
-    title "tjakoen/bread 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 179 --> 182
-    line [181, 180]
+    title "tjakoen/bread 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 178 --> 182
+    line [181, 180, 179]
 ```
 
-2026-10-18 181 → 2026-10-29 180（-1）
+2026-10-18 181 → 2026-10-30 179（-2）
 
 
 ---

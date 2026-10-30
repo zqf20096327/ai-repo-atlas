@@ -1,6 +1,6 @@
 # y3nk0/practical_guides
 
-⭐ 76 · TeX · 推送 2026-10-28 · [GitHub](https://github.com/y3nk0/practical_guides) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ML/NLP 博士入门与本科论文的实用 LaTeX 指南合集**
 

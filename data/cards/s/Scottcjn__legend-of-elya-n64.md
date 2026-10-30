@@ -41,6 +41,18 @@ N64 自制游戏 ROM：塞尔达式地牢中玩家靠近 NPC Sophia Elya 按 A �
 > L8: powered by a nano-GPT transformer running **live inference on the MIPS R4300i CPU**.
 > L31: - The N64 CPU runs a full 8-layer transformer: embedding → attention → FFN → logits → sampling
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/legend-of-elya-n64 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 141 --> 143
+    line [142, 142]
+```
+
+2026-10-29 142 → 2026-10-30 142（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `5a469f20ce83` · [字段定义](../../DATASET.md)*

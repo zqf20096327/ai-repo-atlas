@@ -1,6 +1,6 @@
 # Paseru/sinew
 
-⭐ 66 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Paseru/sinew) · [官网](https://sinew-ide.com/) · 个人维护
+⭐ 67 · Rust · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Paseru/sinew) · [官网](https://sinew-ide.com/) · 个人维护
 
 **可重塑的多供应商桌面 AI 编程 harness（Tauri/Rust/React）**
 
@@ -47,12 +47,12 @@ Sinew 是基于 Tauri 2 + React + Rust 的桌面 AI 编程 harness，面向希�
 ```mermaid
 xychart-beta
     title "Paseru/sinew 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-18 66 → 2026-10-29 66（+0）
+2026-10-18 66 → 2026-10-30 67（+1）
 
 
 ---

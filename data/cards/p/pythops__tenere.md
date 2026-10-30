@@ -1,6 +1,6 @@
 # pythops/tenere
 
-⭐ 685 · Rust · GPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/pythops/tenere) · [官网](https://crates.io/crates/tenere) · 个人维护
+⭐ 686 · Rust · GPL-3.0 · 推送 2026-05-10 · [GitHub](https://github.com/pythops/tenere) · [官网](https://crates.io/crates/tenere) · 个人维护
 
 **Rust 编写的终端 LLM 聊天客户端，支持多后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pythops/tenere 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 682 --> 686
-    line [683, 684, 685, 685]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 682 --> 687
+    line [683, 684, 685, 686]
 ```
 
-2026-10-18 683 → 2026-10-29 685（+2）
+2026-10-18 683 → 2026-10-30 686（+3）
 
 
 ---

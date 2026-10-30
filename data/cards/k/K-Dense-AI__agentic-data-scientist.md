@@ -1,6 +1,6 @@
 # K-Dense-AI/agentic-data-scientist
 
-⭐ 837 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/agentic-data-scientist) · [官网](https://k-dense.ai) · 组织维护
+⭐ 839 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/K-Dense-AI/agentic-data-scientist) · [官网](https://k-dense.ai) · 组织维护
 
 **面向数据科学家的端到端多智能体分析框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "K-Dense-AI/agentic-data-scientist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 829 --> 838
-    line [830, 832, 835, 837]
+    title "K-Dense-AI/agentic-data-scientist 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 829 --> 840
+    line [830, 832, 835, 837, 839]
 ```
 
-2026-10-18 830 → 2026-10-29 837（+7）
+2026-10-18 830 → 2026-10-30 839（+9）
 
 
 ---

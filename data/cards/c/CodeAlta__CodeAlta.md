@@ -1,6 +1,6 @@
 # CodeAlta/CodeAlta
 
-⭐ 299 · C# · BSD-2-Clause · 推送 2026-10-28 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.github.io) · 个人维护
+⭐ 308 · C# · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.github.io) · 个人维护
 
 **AI 编码 agent 的桌面/TUI 工作区：会话、Git 与多模型接入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CodeAlta/CodeAlta 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 279 --> 300
-    line [280, 282, 286, 287, 289, 294, 296, 299]
+    title "CodeAlta/CodeAlta 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 278 --> 310
+    line [280, 282, 286, 287, 289, 294, 296, 299, 308]
 ```
 
-2026-10-18 280 → 2026-10-29 299（+19）
+2026-10-18 280 → 2026-10-30 308（+28）
 
 
 ---

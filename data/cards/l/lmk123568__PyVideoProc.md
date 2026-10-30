@@ -1,6 +1,6 @@
 # lmk123568/PyVideoProc
 
-⭐ 243 · C++ · BSD-2-Clause · 推送 2026-10-21 · [GitHub](https://github.com/lmk123568/PyVideoProc) · 个人维护 · 中文 README
+⭐ 244 · C++ · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/lmk123568/PyVideoProc) · 个人维护 · 中文 README
 
 **Python 多路视频流解码-推理-跟踪的 CUDA 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lmk123568/PyVideoProc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 242 --> 244
-    line [243, 243]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 242 --> 245
+    line [243, 244]
 ```
 
-2026-10-18 243 → 2026-10-29 243（+0）
+2026-10-18 243 → 2026-10-30 244（+1）
 
 
 ---

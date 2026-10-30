@@ -1,6 +1,6 @@
 # tjx666/vscode-classic-experience
 
-⭐ 56 · TypeScript · MIT · 推送 2025-11-02 · [GitHub](https://github.com/tjx666/vscode-classic-experience) · [官网](https://marketplace.visualstudio.com/items?itemName=YuTengjing.vscode-classic-experience) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Cursor 编辑器中恢复 VSCode 原生快捷键的扩展**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

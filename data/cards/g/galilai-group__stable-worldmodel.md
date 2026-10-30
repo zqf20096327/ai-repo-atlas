@@ -1,6 +1,6 @@
 # galilai-group/stable-worldmodel
 
-⭐ 2,284 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/galilai-group/stable-worldmodel) · [官网](https://galilai-group.github.io/stable-worldmodel/) · 组织维护
+⭐ 2,285 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/galilai-group/stable-worldmodel) · [官网](https://galilai-group.github.io/stable-worldmodel/) · 组织维护
 
 **统一接口的世界模型研究评测平台：采集、训练、MPC 评估**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "galilai-group/stable-worldmodel 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2260 --> 2286
-    line [2262, 2264, 2267, 2270, 2272, 2271, 2273, 2278, 2280, 2284]
+    title "galilai-group/stable-worldmodel 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2260 --> 2287
+    line [2262, 2264, 2267, 2270, 2272, 2271, 2273, 2278, 2280, 2284, 2285]
 ```
 
-2026-10-18 2,262 → 2026-10-29 2,284（+22）
+2026-10-18 2,262 → 2026-10-30 2,285（+23）
 
 
 ---

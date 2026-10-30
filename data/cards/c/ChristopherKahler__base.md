@@ -1,6 +1,6 @@
 # ChristopherKahler/base
 
-⭐ 337 · Rust · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ChristopherKahler/base) · [官网](https://docs.basemode.ai) · 个人维护
+⭐ 342 · Rust · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/ChristopherKahler/base) · [官网](https://docs.basemode.ai) · 个人维护
 
 **给 Claude Code 加持久记忆的 Rust 单二进制：工作区知识图谱+钩子注入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChristopherKahler/base 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 296 --> 340
-    line [299, 300, 303, 306, 308, 311, 314, 334, 337]
+    title "ChristopherKahler/base 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 295 --> 346
+    line [299, 300, 303, 306, 308, 311, 314, 334, 337, 342]
 ```
 
-2026-10-18 299 → 2026-10-29 337（+38）
+2026-10-18 299 → 2026-10-30 342（+43）
 
 
 ---

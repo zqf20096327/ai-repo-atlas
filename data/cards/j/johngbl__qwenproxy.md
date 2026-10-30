@@ -1,6 +1,6 @@
 # johngbl/qwenproxy
 
-⭐ 38 · TypeScript · ISC · 推送 2026-10-28 · [GitHub](https://github.com/johngbl/qwenproxy) · [官网](https://www.npmjs.com/package/qwenproxy-cli) · 个人维护
+⭐ 39 · TypeScript · ISC · 推送 2026-10-29 · [GitHub](https://github.com/johngbl/qwenproxy) · [官网](https://www.npmjs.com/package/qwenproxy-cli) · 个人维护
 
 **将 Qwen 网页版封装为 OpenAI/Anthropic 兼容 API 的本地网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "johngbl/qwenproxy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 31 --> 39
-    line [32, 33, 36, 38]
+    title "johngbl/qwenproxy 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 31 --> 40
+    line [32, 33, 36, 38, 39]
 ```
 
-2026-10-18 32 → 2026-10-29 38（+6）
+2026-10-18 32 → 2026-10-30 39（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-RN
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-RN) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-RN) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **React Native SDK：接入 Xmax 模型做实时交互式视频生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xmax-AI/XmaxSDK-RN 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
     y-axis "stars" 2 --> 22
-    line [3, 5, 13, 20, 21, 21]
+    line [3, 5, 13, 20, 21, 20]
 ```
 
-2026-10-19 3 → 2026-10-29 21（+18）
+2026-10-19 3 → 2026-10-30 20（+17）
 
 
 ---

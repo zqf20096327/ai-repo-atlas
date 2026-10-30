@@ -1,6 +1,6 @@
 # upstash/rag-chat
 
-⭐ 257 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/upstash/rag-chat) · 组织维护
+⭐ 256 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/upstash/rag-chat) · 组织维护
 
 **面向开发者的 RAG 聊天应用原型开发 SDK**
 
@@ -45,12 +45,12 @@ Upstash 社区维护的 TypeScript SDK（@upstash/rag-chat），用于以少量�
 ```mermaid
 xychart-beta
     title "upstash/rag-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 256 --> 258
-    line [257, 257]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 255 --> 258
+    line [257, 256]
 ```
 
-2026-10-18 257 → 2026-10-29 257（+0）
+2026-10-18 257 → 2026-10-30 256（-1）
 
 
 ---

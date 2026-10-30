@@ -1,6 +1,6 @@
 # velo4705/awesome-free-byok-models
 
-⭐ 69 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/velo4705/awesome-free-byok-models) · 个人维护
+⭐ 70 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/velo4705/awesome-free-byok-models) · 个人维护
 
 **免信用卡 LLM 免费 API 层的策展清单：39 家供应商与模型额度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "velo4705/awesome-free-byok-models 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 55 --> 70
-    line [56, 58, 60, 64, 67, 68, 69]
+    title "velo4705/awesome-free-byok-models 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 55 --> 71
+    line [56, 58, 60, 64, 67, 68, 69, 70]
 ```
 
-2026-10-18 56 → 2026-10-29 69（+13）
+2026-10-18 56 → 2026-10-30 70（+14）
 
 
 ---

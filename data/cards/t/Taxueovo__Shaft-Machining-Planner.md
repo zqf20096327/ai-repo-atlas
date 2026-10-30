@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Taxueovo/Shaft-Machining-Planner 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "Taxueovo/Shaft-Machining-Planner 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 35 --> 38
-    line [37, 36, 37]
+    line [37, 36, 37, 37]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 37（+0）
 
 
 ---

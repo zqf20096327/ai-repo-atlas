@@ -1,6 +1,6 @@
 # aaditya-v-more/claude-graft
 
-⭐ 62 · Swift · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aaditya-v-more/claude-graft) · [官网](https://graft.aadityamore.com/) · 个人维护
+⭐ 63 · Swift · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aaditya-v-more/claude-graft) · [官网](https://graft.aadityamore.com/) · 个人维护
 
 **macOS 菜单栏工具：并行运行多个 Claude Desktop 账号并共享聊天记录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaditya-v-more/claude-graft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 62]
+    title "aaditya-v-more/claude-graft 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 59 --> 64
+    line [60, 61, 62, 63]
 ```
 
-2026-10-18 60 → 2026-10-29 62（+2）
+2026-10-18 60 → 2026-10-30 63（+3）
 
 
 ---

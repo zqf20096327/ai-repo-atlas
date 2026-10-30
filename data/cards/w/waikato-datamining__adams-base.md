@@ -1,6 +1,6 @@
 # waikato-datamining/adams-base
 
-⭐ 24 · Java · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/waikato-datamining/adams-base) · [官网](https://adams.cms.waikato.ac.nz/) · 组织维护
+⭐ 24 · Java · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/waikato-datamining/adams-base) · [官网](https://adams.cms.waikato.ac.nz/) · 组织维护
 
 **ADAMS 数据挖掘与机器学习系统的基础模块集**
 
@@ -45,12 +45,12 @@ Java 编写、Maven 构建的项目，提供 ADAMS（Advanced Data Mining and Ma
 ```mermaid
 xychart-beta
     title "waikato-datamining/adams-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dwebagents/AgentPipe
 
-⭐ 207 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dwebagents/AgentPipe) · [官网](https://dwebagents.github.io/AgentPipe/) · 组织维护
+⭐ 207 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dwebagents/AgentPipe) · [官网](https://dwebagents.github.io/AgentPipe/) · 组织维护
 
 **面向 agent 与 dweb 应用的多线程任务执行与优化引擎**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dwebagents/AgentPipe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 205 --> 208
     line [206, 207, 207]
 ```
 
-2026-10-18 206 → 2026-10-29 207（+1）
+2026-10-18 206 → 2026-10-30 207（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # martynpekala/OpenLens
 
-⭐ 86 · Swift · MIT · 推送 2026-10-23 · [GitHub](https://github.com/martynpekala/OpenLens) · [官网](https://tryopenlens.site) · 个人维护
+⭐ 89 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/martynpekala/OpenLens) · [官网](https://tryopenlens.site) · 个人维护
 
 **在 iPhone/iPad 上连接 OpenCode 服务器的 iOS 客户端应用**
 
@@ -44,13 +44,13 @@ OpenLens 是一个原生 iOS/iPadOS 应用，通过连接运行在 Mac 上的 Op
 
 ```mermaid
 xychart-beta
-    title "martynpekala/OpenLens 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 70 --> 87
-    line [71, 74, 77, 78, 80, 81, 83, 84, 85, 86]
+    title "martynpekala/OpenLens 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 70 --> 90
+    line [71, 74, 77, 78, 80, 81, 83, 84, 85, 86, 89]
 ```
 
-2026-10-18 71 → 2026-10-29 86（+15）
+2026-10-18 71 → 2026-10-30 89（+18）
 
 
 ---

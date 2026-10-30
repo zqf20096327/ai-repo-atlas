@@ -1,6 +1,6 @@
 # sgl-project/sgl-kernel-npu
 
-⭐ 196 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sgl-kernel-npu) · 组织维护 · 中文 README
+⭐ 196 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sgl-project/sgl-kernel-npu) · 组织维护 · 中文 README
 
 **SGLang 框架面向昇腾 NPU 的推理算子库**
 
@@ -45,12 +45,12 @@ SGLang 框架官方的 Ascend NPU 算子库，由 DeepEP-Ascend（MoE 专家并�
 ```mermaid
 xychart-beta
     title "sgl-project/sgl-kernel-npu 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 192 --> 197
     line [193, 194, 195, 196, 196]
 ```
 
-2026-10-18 193 → 2026-10-29 196（+3）
+2026-10-18 193 → 2026-10-30 196（+3）
 
 
 ---

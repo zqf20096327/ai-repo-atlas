@@ -1,6 +1,6 @@
 # bottomless/agent-duel
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/bottomless/agent-duel) · 组织维护
+⭐ 28 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/bottomless/agent-duel) · 组织维护
 
 **双编码代理盲战对局的桌面应用：一个提示词，用户投票选优**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bottomless/agent-duel 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 17 --> 26
-    line [18, 22, 23, 25]
+    title "bottomless/agent-duel 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 17 --> 29
+    line [18, 22, 23, 25, 28]
 ```
 
-2026-10-18 18 → 2026-10-29 25（+7）
+2026-10-18 18 → 2026-10-30 28（+10）
 
 
 ---

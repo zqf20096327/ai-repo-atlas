@@ -1,6 +1,6 @@
 # danvoronov/CodeWithLLM-Updates
 
-⭐ 35 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/danvoronov/CodeWithLLM-Updates) · [官网](https://aicode.danvoronov.com) · 个人维护
+⭐ 35 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/danvoronov/CodeWithLLM-Updates) · [官网](https://aicode.danvoronov.com) · 个人维护
 
 **用 LLM 辅助编程的技巧与教程资源库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danvoronov/CodeWithLLM-Updates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 35（+0）
 
 
 ---

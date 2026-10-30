@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Neutronkrebond/local-ai-vram-oom-recovery-helper 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-19", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-10-29 20（+0）
+2026-10-19 20 → 2026-10-30 20（+0）
 
 
 ---

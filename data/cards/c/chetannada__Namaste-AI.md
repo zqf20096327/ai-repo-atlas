@@ -1,6 +1,6 @@
 # chetannada/Namaste-AI
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/chetannada/Namaste-AI) · [官网](https://namaste-ai-dev.vercel.app) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/chetannada/Namaste-AI) · [官网](https://namaste-ai-dev.vercel.app) · 个人维护
 
 **AI 课程学习笔记站：手写笔记覆盖 LLM/RAG/Agent 等概念**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "chetannada/Namaste-AI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 28 --> 35
+    line [29, 30, 31, 32, 33, 34]
 ```
 
-2026-10-18 29 → 2026-10-29 33（+4）
+2026-10-18 29 → 2026-10-30 34（+5）
 
 
 ---

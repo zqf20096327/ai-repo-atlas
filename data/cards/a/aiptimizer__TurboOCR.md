@@ -1,6 +1,6 @@
 # aiptimizer/TurboOCR
 
-⭐ 1,145 · C++ · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aiptimizer/TurboOCR) · [官网](https://turboocr.com) · 组织维护 · 中文 README
+⭐ 1,146 · C++ · MIT · 推送 2026-09-27 · [GitHub](https://github.com/aiptimizer/TurboOCR) · [官网](https://turboocr.com) · 组织维护 · 中文 README
 
 **GPU 文档解析推理服务：OCR/版面/表格/公式转 Markdown**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aiptimizer/TurboOCR 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1135 --> 1146
-    line [1136, 1138, 1139, 1141, 1142, 1143, 1145]
+    title "aiptimizer/TurboOCR 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1135 --> 1147
+    line [1136, 1138, 1139, 1141, 1142, 1143, 1145, 1146]
 ```
 
-2026-10-18 1,136 → 2026-10-29 1,145（+9）
+2026-10-18 1,136 → 2026-10-30 1,146（+10）
 
 
 ---

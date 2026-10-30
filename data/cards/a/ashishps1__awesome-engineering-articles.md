@@ -1,6 +1,6 @@
 # ashishps1/awesome-engineering-articles
 
-⭐ 1,474 · MIT · 推送 2026-03-01 · [GitHub](https://github.com/ashishps1/awesome-engineering-articles) · [官网](https://algomaster.io) · 个人维护
+⭐ 1,475 · MIT · 推送 2026-03-01 · [GitHub](https://github.com/ashishps1/awesome-engineering-articles) · [官网](https://algomaster.io) · 个人维护
 
 **300+ 篇科技公司工程博客文章的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashishps1/awesome-engineering-articles 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1460 --> 1475
-    line [1461, 1464, 1467, 1468, 1469, 1471, 1474]
+    title "ashishps1/awesome-engineering-articles 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1460 --> 1476
+    line [1461, 1464, 1467, 1468, 1469, 1471, 1474, 1475]
 ```
 
-2026-10-18 1,461 → 2026-10-29 1,474（+13）
+2026-10-18 1,461 → 2026-10-30 1,475（+14）
 
 
 ---

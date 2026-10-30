@@ -1,6 +1,6 @@
 # fstandhartinger/jevbench
 
-⭐ 320 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/fstandhartinger/jevbench) · [官网](https://benchmarkheaven.com/jev-models) · 组织维护
+⭐ 321 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/fstandhartinger/jevbench) · [官网](https://benchmarkheaven.com/jev-models) · 组织维护
 
 **AI 决策模型评测基准与排行榜：测准确率、校准、延迟、成本**
 
@@ -44,13 +44,13 @@ Benchmark Heaven 维护的 AI 决策模型基准，评测 Jev（TypeSafe AI 的�
 
 ```mermaid
 xychart-beta
-    title "fstandhartinger/jevbench 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 276 --> 324
-    line [280, 285, 297, 300, 303, 306, 307, 312, 315, 320]
+    title "fstandhartinger/jevbench 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 276 --> 325
+    line [280, 285, 297, 300, 303, 306, 307, 312, 315, 320, 321]
 ```
 
-2026-10-18 280 → 2026-10-29 320（+40）
+2026-10-18 280 → 2026-10-30 321（+41）
 
 
 ---

@@ -1,6 +1,6 @@
 # imshaikot/browsentic
 
-⭐ 244 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/imshaikot/browsentic) · [官网](https://browsentic.com) · 个人维护
+⭐ 251 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/imshaikot/browsentic) · [官网](https://browsentic.com) · 个人维护
 
 **浏览器代理侧挂工具：让已有 agent CLI 驱动你登录中的浏览器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "imshaikot/browsentic 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18 --> 264
-    line [38, 42, 47, 48, 54, 80, 163, 217, 244]
+    title "imshaikot/browsentic 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 17 --> 272
+    line [38, 42, 47, 48, 54, 80, 163, 217, 244, 251]
 ```
 
-2026-10-18 38 → 2026-10-29 244（+206）
+2026-10-18 38 → 2026-10-30 251（+213）
 
 
 ---

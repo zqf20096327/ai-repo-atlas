@@ -1,6 +1,6 @@
 # notnotype/neuro-book
 
-⭐ 758 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/notnotype/neuro-book) · [官网](https://blog.notnotype.com/neuro-book/official/) · 个人维护 · 中文 README
+⭐ 761 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/notnotype/neuro-book) · [官网](https://blog.notnotype.com/neuro-book/official/) · 个人维护 · 中文 README
 
 **面向长篇小说写作的 AI IDE，用工程方法管设定、伏笔与成稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "notnotype/neuro-book 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 743 --> 759
-    line [744, 746, 748, 751, 752, 753, 754, 758]
+    title "notnotype/neuro-book 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 743 --> 762
+    line [744, 746, 748, 751, 752, 753, 754, 758, 761]
 ```
 
-2026-10-18 744 → 2026-10-29 758（+14）
+2026-10-18 744 → 2026-10-30 761（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # yologdev/yoagent
 
-⭐ 366 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yologdev/yoagent) · [官网](https://yologdev.github.io/yoagent/) · 组织维护 · 中文 README
+⭐ 366 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yologdev/yoagent) · [官网](https://yologdev.github.io/yoagent/) · 组织维护 · 中文 README
 
 **Rust agent 循环库：接入 7 种 LLM 协议，运行工具直至完成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yologdev/yoagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "yologdev/yoagent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 361 --> 367
-    line [362, 363, 365, 366]
+    line [362, 363, 365, 366, 366]
 ```
 
-2026-10-18 362 → 2026-10-29 366（+4）
+2026-10-18 362 → 2026-10-30 366（+4）
 
 
 ---

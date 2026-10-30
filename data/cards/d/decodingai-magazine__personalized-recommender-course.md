@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "decodingai-magazine/personalized-recommender-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 653 --> 655
     line [654, 654]
 ```
 
-2026-10-18 654 → 2026-10-29 654（+0）
+2026-10-18 654 → 2026-10-30 654（+0）
 
 
 ---

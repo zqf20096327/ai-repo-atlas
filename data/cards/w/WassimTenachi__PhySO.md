@@ -1,6 +1,6 @@
 # WassimTenachi/PhySO
 
-⭐ 1,978 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/WassimTenachi/PhySO) · [官网](https://physo.readthedocs.io/) · 个人维护
+⭐ 1,980 · Python · MIT · 推送 2026-02-21 · [GitHub](https://github.com/WassimTenachi/PhySO) · [官网](https://physo.readthedocs.io/) · 个人维护
 
 **物理符号优化库：用深度强化学习从数据推断解析物理定律**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WassimTenachi/PhySO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 1976 --> 1979
-    line [1977, 1978, 1978]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 1976 --> 1981
+    line [1977, 1978, 1980]
 ```
 
-2026-10-18 1,977 → 2026-10-29 1,978（+1）
+2026-10-18 1,977 → 2026-10-30 1,980（+3）
 
 
 ---

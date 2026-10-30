@@ -1,6 +1,6 @@
 # nod-ai/AMD-SHARK-Studio
 
-⭐ 1,452 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/nod-ai/AMD-SHARK-Studio) · 组织维护
+⭐ 1,451 · Python · Apache-2.0 · 推送 2025-12-15 · [GitHub](https://github.com/nod-ai/AMD-SHARK-Studio) · 组织维护
 
 **基于 SHARK+IREE 的 ML 推理与 Stable Diffusion Web UI 发行版**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nod-ai/AMD-SHARK-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 1450 --> 1453
-    line [1451, 1452, 1452]
+    line [1451, 1452, 1451]
 ```
 
-2026-10-18 1,451 → 2026-10-29 1,452（+1）
+2026-10-18 1,451 → 2026-10-30 1,451（+0）
 
 
 ---

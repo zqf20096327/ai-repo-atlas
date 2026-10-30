@@ -1,6 +1,6 @@
 # davemessew/AgentFlux
 
-⭐ 116 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
+⭐ 235 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
 
 **自托管的可视化工作流与自主 agent 平台，本地运行**
 
@@ -39,6 +39,18 @@
 
 > L7: **Agentic AI platform** for visual workflows and autonomous agents.
 > L28: |**Your own models**|Connect Ollama, LM Studio, vLLM and OpenAI-compatible endpoints.|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "davemessew/AgentFlux 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 105 --> 246
+    line [116, 235]
+```
+
+2026-10-29 116 → 2026-10-30 235（+119）
 
 
 ---

@@ -1,6 +1,6 @@
 # IceWhaleTech/ZimaOS-Blue
 
-⭐ 28 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IceWhaleTech/ZimaOS-Blue) · 组织维护
+⭐ 29 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IceWhaleTech/ZimaOS-Blue) · 组织维护
 
 **本地优先的开源 AI Agent 运行时与工具包，面向自托管开发者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IceWhaleTech/ZimaOS-Blue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-29 28（+0）
+2026-10-18 28 → 2026-10-30 29（+1）
 
 
 ---

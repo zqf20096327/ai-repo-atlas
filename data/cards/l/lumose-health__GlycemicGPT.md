@@ -1,6 +1,6 @@
 # lumose-health/GlycemicGPT
 
-⭐ 142 · Python · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/lumose-health/GlycemicGPT) · [官网](https://glycemicgpt.org) · 组织维护
+⭐ 142 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/lumose-health/GlycemicGPT) · [官网](https://glycemicgpt.org) · 组织维护
 
 **糖尿病自管理平台：直连 CGM 与胰岛素泵并提供 AI 分析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lumose-health/GlycemicGPT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 140 --> 143
     line [141, 142, 142]
 ```
 
-2026-10-18 141 → 2026-10-29 142（+1）
+2026-10-18 141 → 2026-10-30 142（+1）
 
 
 ---

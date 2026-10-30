@@ -1,6 +1,6 @@
 # DollhouseMCP/mcp-server
 
-⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/DollhouseMCP/mcp-server) · [官网](https://www.npmjs.com/package/@dollhousemcp/mcp-server) · 组织维护
+⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DollhouseMCP/mcp-server) · [官网](https://www.npmjs.com/package/@dollhousemcp/mcp-server) · 组织维护
 
 **面向 MCP 客户端的 AI 人格/技能模块管理与权限控制服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DollhouseMCP/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-29 46（+0）
+2026-10-18 46 → 2026-10-30 46（+0）
 
 
 ---

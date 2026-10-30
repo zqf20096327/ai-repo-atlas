@@ -1,6 +1,6 @@
 # cramt/m365-copilot-proxy
 
-⭐ 159 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cramt/m365-copilot-proxy) · 个人维护
+⭐ 162 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cramt/m365-copilot-proxy) · 个人维护
 
 **把 M365 Copilot 许可证封装成 OpenAI 兼容 API 的代理**
 
@@ -45,12 +45,12 @@ TypeScript 实现的代理服务：将 Microsoft 365 Copilot 的 WebSocket/Signa
 ```mermaid
 xychart-beta
     title "cramt/m365-copilot-proxy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 148 --> 160
-    line [149, 151, 153, 154, 156, 159, 159]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 148 --> 163
+    line [149, 151, 153, 154, 156, 159, 162]
 ```
 
-2026-10-18 149 → 2026-10-29 159（+10）
+2026-10-18 149 → 2026-10-30 162（+13）
 
 
 ---

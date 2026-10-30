@@ -1,6 +1,6 @@
 # ShadowSafin/Synapass
 
-⭐ 102 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ShadowSafin/Synapass) · [官网](synapass.com) · 个人维护
+⭐ 101 · Go · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ShadowSafin/Synapass) · [官网](synapass.com) · 个人维护
 
 **OpenAI 兼容的多供应商 AI 推理网关与控制平面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ShadowSafin/Synapass 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    title "ShadowSafin/Synapass 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 99 --> 107
-    line [105, 106, 105, 101, 100, 102]
+    line [105, 106, 105, 101, 100, 102, 101]
 ```
 
-2026-10-18 105 → 2026-10-29 102（-3）
+2026-10-18 105 → 2026-10-30 101（-4）
 
 
 ---

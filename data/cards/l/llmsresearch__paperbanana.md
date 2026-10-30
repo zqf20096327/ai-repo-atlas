@@ -1,6 +1,6 @@
 # llmsresearch/paperbanana
 
-⭐ 2,427 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/llmsresearch/paperbanana) · 组织维护
+⭐ 2,433 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/llmsresearch/paperbanana) · 组织维护
 
 **从方法论文本自动生成学术图表的多智能体框架**
 
@@ -45,13 +45,13 @@ Google Research 论文 PaperBanana 的社区开源实现：输入方法论文本
 
 ```mermaid
 xychart-beta
-    title "llmsresearch/paperbanana 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2402 --> 2429
-    line [2404, 2408, 2412, 2414, 2417, 2418, 2423, 2427]
+    title "llmsresearch/paperbanana 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2402 --> 2435
+    line [2404, 2408, 2412, 2414, 2417, 2418, 2423, 2427, 2433]
 ```
 
-2026-10-18 2,404 → 2026-10-29 2,427（+23）
+2026-10-18 2,404 → 2026-10-30 2,433（+29）
 
 
 ---

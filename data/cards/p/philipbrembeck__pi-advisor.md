@@ -1,6 +1,6 @@
 # philipbrembeck/pi-advisor
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/philipbrembeck/pi-advisor) · [官网](https://www.npmjs.com/package/pi-advisor-flow) · 个人维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/philipbrembeck/pi-advisor) · [官网](https://www.npmjs.com/package/pi-advisor-flow) · 个人维护
 
 **Pi 编程 Agent 的第二意见工作流插件：执行/顾问双模型分工**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "philipbrembeck/pi-advisor 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "philipbrembeck/pi-advisor 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 49 --> 59
-    line [50, 52, 51, 52, 54, 56, 57, 58]
+    line [50, 52, 51, 52, 54, 56, 57, 58, 58]
 ```
 
-2026-10-18 50 → 2026-10-29 58（+8）
+2026-10-18 50 → 2026-10-30 58（+8）
 
 
 ---

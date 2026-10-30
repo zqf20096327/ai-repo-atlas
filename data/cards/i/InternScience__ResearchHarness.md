@@ -1,6 +1,6 @@
 # InternScience/ResearchHarness
 
-⭐ 50 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/InternScience/ResearchHarness) · [官网](https://huggingface.co/spaces/InternScience/ResearchHarness) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/InternScience/ResearchHarness) · [官网](https://huggingface.co/spaces/InternScience/ResearchHarness) · 个人维护 · 中文 README
 
 **轻量通用工具调用 LLM agent 运行时：跑基准评测与个人助理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "InternScience/ResearchHarness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 48 --> 51
-    line [50, 49, 50, 50]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 48 --> 52
+    line [50, 49, 50, 51]
 ```
 
-2026-10-18 50 → 2026-10-29 50（+0）
+2026-10-18 50 → 2026-10-30 51（+1）
 
 
 ---

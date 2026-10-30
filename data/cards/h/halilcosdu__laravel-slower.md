@@ -1,6 +1,6 @@
 # halilcosdu/laravel-slower
 
-⭐ 414 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/halilcosdu/laravel-slower) · [官网](https://packagist.org/packages/halilcosdu/laravel-slower) · 个人维护
+⭐ 415 · PHP · MIT · 推送 2026-10-19 · [GitHub](https://github.com/halilcosdu/laravel-slower) · [官网](https://packagist.org/packages/halilcosdu/laravel-slower) · 个人维护
 
 **Laravel 慢查询监控包：捕获慢 SQL 并由 LLM 给出优化建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "halilcosdu/laravel-slower 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 412 --> 415
-    line [414, 413, 414]
+    title "halilcosdu/laravel-slower 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 412 --> 416
+    line [414, 413, 414, 415]
 ```
 
-2026-10-18 414 → 2026-10-29 414（+0）
+2026-10-18 414 → 2026-10-30 415（+1）
 
 
 ---

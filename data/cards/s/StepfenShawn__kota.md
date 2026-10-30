@@ -1,6 +1,6 @@
 # StepfenShawn/kota
 
-⭐ 100 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/StepfenShawn/kota) · [官网](https://crates.io/crates/kota) · 个人维护
+⭐ 101 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/StepfenShawn/kota) · [官网](https://crates.io/crates/kota) · 个人维护
 
 **Rust 编写的轻量可扩展 AI 编程 Agent（CLI/库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StepfenShawn/kota 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-10-29 100（+0）
+2026-10-18 100 → 2026-10-30 101（+1）
 
 
 ---

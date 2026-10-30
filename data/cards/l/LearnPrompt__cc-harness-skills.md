@@ -1,6 +1,6 @@
 # LearnPrompt/cc-harness-skills
 
-⭐ 239 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/LearnPrompt/cc-harness-skills) · 组织维护 · 中文 README
+⭐ 240 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/LearnPrompt/cc-harness-skills) · 组织维护 · 中文 README
 
 **面向编码 Agent 的六件套便携技能包：记忆/压缩/验证/路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LearnPrompt/cc-harness-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 237 --> 240
-    line [238, 239, 239]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 237 --> 241
+    line [238, 239, 240]
 ```
 
-2026-10-18 238 → 2026-10-29 239（+1）
+2026-10-18 238 → 2026-10-30 240（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # KerroKapple/InkFrame
 
-⭐ 30 · Dart · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KerroKapple/InkFrame) · 个人维护 · 中文 README
+⭐ 30 · Dart · MIT · 推送 2026-10-29 · [GitHub](https://github.com/KerroKapple/InkFrame) · 个人维护 · 中文 README
 
 **本地优先的 AI 影视创作桌面工作站：节点画布串联图文视频生成**
 
@@ -45,12 +45,12 @@ Flutter 桌面应用（macOS + Windows），以节点画布组织 prompt→图�
 ```mermaid
 xychart-beta
     title "KerroKapple/InkFrame 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ulsreall/web3-agent-kit
 
-⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ulsreall/web3-agent-kit) · [官网](https://web3agentkit.site/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ulsreall/web3-agent-kit) · [官网](https://web3agentkit.site/) · 个人维护
 
 **构建区块链交互 AI Agent 的 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ulsreall/web3-agent-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

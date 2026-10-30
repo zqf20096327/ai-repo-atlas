@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thoughtbot/rails-audit-thoughtbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "thoughtbot/rails-audit-thoughtbot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 258 --> 263
-    line [259, 261, 262]
+    line [259, 261, 262, 262]
 ```
 
-2026-10-18 259 → 2026-10-29 262（+3）
+2026-10-18 259 → 2026-10-30 262（+3）
 
 
 ---

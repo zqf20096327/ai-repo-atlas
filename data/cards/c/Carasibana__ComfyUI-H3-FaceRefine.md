@@ -1,6 +1,6 @@
 # Carasibana/ComfyUI-H3-FaceRefine
 
-⭐ 549 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) · 个人维护
+⭐ 553 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/Carasibana/ComfyUI-H3-FaceRefine) · 个人维护
 
 **ComfyUI 节点集：修复 MiniMax H3 视频中远处小脸的画质**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Carasibana/ComfyUI-H3-FaceRefine 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 518 --> 551
-    line [520, 524, 527, 530, 534, 535, 539, 543, 544, 549]
+    title "Carasibana/ComfyUI-H3-FaceRefine 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 517 --> 556
+    line [520, 524, 527, 530, 534, 535, 539, 543, 544, 549, 553]
 ```
 
-2026-10-18 520 → 2026-10-29 549（+29）
+2026-10-18 520 → 2026-10-30 553（+33）
 
 
 ---

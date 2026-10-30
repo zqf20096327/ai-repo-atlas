@@ -1,6 +1,6 @@
 # vintasoftware/django-ai-assistant
 
-⭐ 431 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/vintasoftware/django-ai-assistant) · [官网](https://django-ai.com) · 组织维护
+⭐ 430 · Python · MIT · 推送 2026-03-23 · [GitHub](https://github.com/vintasoftware/django-ai-assistant) · [官网](https://django-ai.com) · 组织维护
 
 **Django 库：用工具调用与 RAG 构建 AI 助手应用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "vintasoftware/django-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 430 --> 432
-    line [431, 431]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 429 --> 432
+    line [431, 430]
 ```
 
-2026-10-18 431 → 2026-10-29 431（+0）
+2026-10-18 431 → 2026-10-30 430（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Higangssh/homebutler
 
-⭐ 309 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Higangssh/homebutler) · [官网](https://homebutler.dev) · 个人维护
+⭐ 313 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Higangssh/homebutler) · [官网](https://homebutler.dev) · 个人维护
 
 **单二进制服务器变更检测与运维工具，内置 MCP server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Higangssh/homebutler 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 303 --> 310
-    line [305, 304, 305, 306, 308, 309, 309]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 303 --> 314
+    line [305, 304, 305, 306, 308, 309, 313]
 ```
 
-2026-10-18 305 → 2026-10-29 309（+4）
+2026-10-18 305 → 2026-10-30 313（+8）
 
 
 ---

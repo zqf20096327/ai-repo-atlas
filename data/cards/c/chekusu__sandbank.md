@@ -1,6 +1,6 @@
 # chekusu/sandbank
 
-⭐ 176 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/chekusu/sandbank) · [官网](https://sandbank.dev) · 个人维护 · 中文 README
+⭐ 177 · TypeScript · 推送 2026-09-26 · [GitHub](https://github.com/chekusu/sandbank) · [官网](https://sandbank.dev) · 个人维护 · 中文 README
 
 **面向 AI Agent 的统一 Workspace harness，跨多种沙盒后端调度执行**
 
@@ -45,12 +45,12 @@ Sandbank 把 Agent 身份、memory、artifact、audit log 与 checkpoint 固化�
 ```mermaid
 xychart-beta
     title "chekusu/sandbank 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 173 --> 177
-    line [175, 174, 175, 176, 176]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 173 --> 178
+    line [175, 174, 175, 176, 177]
 ```
 
-2026-10-18 175 → 2026-10-29 176（+1）
+2026-10-18 175 → 2026-10-30 177（+2）
 
 
 ---

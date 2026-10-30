@@ -1,6 +1,6 @@
 # jmanico/grim-prompter
 
-⭐ 41 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
+⭐ 138 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
 
 **面向 AI 编码代理的威胁建模技能库：36 架构、29 方法**
 
@@ -40,6 +40,18 @@
 > L8: **Threat model your project with Claude Code, Codex, or another coding agent.** Grim Prompter provides 36 architectu
 > L12: Clone once, then link the `threat-model` skill into your agent. Check for an existing installation before running t
 > L74: When asked to threat model this project, read `~/grim-prompter/runbook.md` and follow it.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jmanico/grim-prompter 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 32 --> 147
+    line [41, 138]
+```
+
+2026-10-29 41 → 2026-10-30 138（+97）
 
 
 ---

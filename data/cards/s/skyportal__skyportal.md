@@ -1,6 +1,6 @@
 # skyportal/skyportal
 
-⭐ 134 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/skyportal/skyportal) · [官网](https://skyportal.io) · 组织维护
+⭐ 134 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/skyportal/skyportal) · [官网](https://skyportal.io) · 组织维护
 
 **时域天文协作数据平台，供天文学家共享分析瞬变源数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skyportal/skyportal 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 133 --> 135
     line [134, 134]
 ```
 
-2026-10-18 134 → 2026-10-29 134（+0）
+2026-10-18 134 → 2026-10-30 134（+0）
 
 
 ---

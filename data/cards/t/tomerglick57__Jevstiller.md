@@ -1,6 +1,6 @@
 # tomerglick57/Jevstiller
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/tomerglick57/Jevstiller) · [官网](https://jevstiller.pages.dev) · 个人维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tomerglick57/Jevstiller) · [官网](https://jevstiller.pages.dev) · 个人维护
 
 **Jev 分类 API 的本地蒸馏代理：同答案，跑在自己硬件上**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tomerglick57/Jevstiller 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
     y-axis "stars" 68 --> 72
     line [69, 70, 71, 71]
 ```
 
-2026-10-18 69 → 2026-10-29 71（+2）
+2026-10-18 69 → 2026-10-30 71（+2）
 
 
 ---

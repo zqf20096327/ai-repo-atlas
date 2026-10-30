@@ -1,6 +1,6 @@
 # Kuingsmile/word-GPT-Plus
 
-⭐ 1,374 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Kuingsmile/word-GPT-Plus) · 个人维护 · 中文 README
+⭐ 1,374 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Kuingsmile/word-GPT-Plus) · 个人维护 · 中文 README
 
 **在 Microsoft Word 内直接使用 AI 与 Agent 的办公插件**
 
@@ -44,13 +44,13 @@ Word GPT Plus 是一个 Microsoft Word 加载项（add-in），把 AI 对话与 
 
 ```mermaid
 xychart-beta
-    title "Kuingsmile/word-GPT-Plus 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "Kuingsmile/word-GPT-Plus 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1367 --> 1375
-    line [1368, 1371, 1372, 1373, 1374]
+    line [1368, 1371, 1372, 1373, 1374, 1374]
 ```
 
-2026-10-18 1,368 → 2026-10-29 1,374（+6）
+2026-10-18 1,368 → 2026-10-30 1,374（+6）
 
 
 ---

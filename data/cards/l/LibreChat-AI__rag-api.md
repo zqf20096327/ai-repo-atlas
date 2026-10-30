@@ -1,6 +1,6 @@
 # LibreChat-AI/rag-api
 
-⭐ 917 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LibreChat-AI/rag-api) · [官网](https://librechat.ai/) · 组织维护
+⭐ 918 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/LibreChat-AI/rag-api) · [官网](https://librechat.ai/) · 组织维护
 
 **基于 FastAPI 的 ID 级文档索引与检索 RAG API 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LibreChat-AI/rag-api 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
+    title "LibreChat-AI/rag-api 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 912 --> 919
-    line [913, 914, 915, 917, 918, 917]
+    line [913, 914, 915, 917, 918, 917, 918]
 ```
 
-2026-10-18 913 → 2026-10-29 917（+4）
+2026-10-18 913 → 2026-10-30 918（+5）
 
 
 ---

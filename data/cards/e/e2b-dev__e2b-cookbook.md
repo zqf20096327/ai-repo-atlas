@@ -1,6 +1,6 @@
 # e2b-dev/e2b-cookbook
 
-⭐ 1,419 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/e2b-dev/e2b-cookbook) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook) · 组织维护
+⭐ 1,420 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/e2b-dev/e2b-cookbook) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook) · 组织维护
 
 **E2B 沙箱 SDK 的示例代码与指南集合，面向 AI agent 开发者**
 
@@ -44,12 +44,12 @@ E2B 官方维护的 Cookbook 仓库：汇集用 E2B SDK 构建代码解释器、
 ```mermaid
 xychart-beta
     title "e2b-dev/e2b-cookbook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1416 --> 1420
-    line [1417, 1418, 1419, 1419]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1416 --> 1421
+    line [1417, 1418, 1419, 1420]
 ```
 
-2026-10-18 1,417 → 2026-10-29 1,419（+2）
+2026-10-18 1,417 → 2026-10-30 1,420（+3）
 
 
 ---

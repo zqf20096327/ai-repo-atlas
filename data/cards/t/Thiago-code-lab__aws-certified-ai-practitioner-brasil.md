@@ -1,6 +1,6 @@
 # Thiago-code-lab/aws-certified-ai-practitioner-brasil
 
-⭐ 464 · HTML · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil) · [官网](https://www.cloudstudy.com.br/) · 个人维护
+⭐ 463 · HTML · MIT · 推送 2026-09-09 · [GitHub](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil) · [官网](https://www.cloudstudy.com.br/) · 个人维护
 
 **PT-BR 的 AWS AI Practitioner (AIF-C01) 认证备考知识库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Thiago-code-lab/aws-certified-ai-practitioner-brasil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 462 --> 465
-    line [463, 464, 464]
+    line [463, 464, 463]
 ```
 
-2026-10-18 463 → 2026-10-29 464（+1）
+2026-10-18 463 → 2026-10-30 463（+0）
 
 
 ---

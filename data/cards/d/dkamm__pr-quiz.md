@@ -1,6 +1,6 @@
 # dkamm/pr-quiz
 
-⭐ 211 · JavaScript · MIT · 推送 2025-11-24 · [GitHub](https://github.com/dkamm/pr-quiz) · 个人维护
+⭐ 210 · JavaScript · MIT · 推送 2025-11-24 · [GitHub](https://github.com/dkamm/pr-quiz) · 个人维护
 
 **从 PR 变更生成测验的 GitHub Action，考核评审者对 AI 代码的理解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dkamm/pr-quiz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 209 --> 212
-    line [210, 211, 211]
+    line [210, 211, 210]
 ```
 
-2026-10-18 210 → 2026-10-29 211（+1）
+2026-10-18 210 → 2026-10-30 210（+0）
 
 
 ---

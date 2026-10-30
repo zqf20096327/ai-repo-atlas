@@ -1,6 +1,6 @@
 # getsynkora/synkora-ai
 
-⭐ 55 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/getsynkora/synkora-ai) · [官网](https://synkora.ai) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/getsynkora/synkora-ai) · [官网](https://synkora.ai) · 组织维护
 
 **自托管 AI agent 平台：构建、部署、管理多渠道团队 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "getsynkora/synkora-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 46 --> 56
-    line [47, 48, 50, 52, 53, 55, 55]
+    line [47, 48, 50, 52, 53, 55, 54]
 ```
 
-2026-10-18 47 → 2026-10-29 55（+8）
+2026-10-18 47 → 2026-10-30 54（+7）
 
 
 ---

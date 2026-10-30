@@ -1,6 +1,6 @@
 # Moataz-Elmesmary/Data-Science-Roadmap
 
-⭐ 4,407 · MIT · 推送 2025-12-06 · [GitHub](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) · [官网](https://www.linkedin.com/posts/moatazelmesmary_github-moataz-elmesmarydata-science-roadmap-activity-6974293994960769024-yCdi?utm_source=share&utm_medium=member_desktop) · 个人维护
+⭐ 4,404 · MIT · 推送 2025-12-06 · [GitHub](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) · [官网](https://www.linkedin.com/posts/moatazelmesmary_github-moataz-elmesmarydata-science-roadmap-activity-6974293994960769024-yCdi?utm_source=share&utm_medium=member_desktop) · 个人维护
 
 **数据科学自学路线图：分阶段免费学习资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Moataz-Elmesmary/Data-Science-Roadmap 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 4399 --> 4408
-    line [4400, 4401, 4403, 4402, 4405, 4406, 4407, 4407]
+    line [4400, 4401, 4403, 4402, 4405, 4406, 4407, 4404]
 ```
 
-2026-10-18 4,400 → 2026-10-29 4,407（+7）
+2026-10-18 4,400 → 2026-10-30 4,404（+4）
 
 
 ---

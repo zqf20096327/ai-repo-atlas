@@ -1,6 +1,6 @@
 # testomatio/explorbot
 
-⭐ 98 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/testomatio/explorbot) · [官网](https://testomat.ai/explorbot/) · 组织维护
+⭐ 100 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/testomatio/explorbot) · [官网](https://testomat.ai/explorbot/) · 组织维护
 
 **AI agent 自主探索式测试 Web 应用并沉淀可复用测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "testomatio/explorbot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 94 --> 99
-    line [95, 96, 97, 98, 98]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 94 --> 101
+    line [95, 96, 97, 98, 100]
 ```
 
-2026-10-18 95 → 2026-10-29 98（+3）
+2026-10-18 95 → 2026-10-30 100（+5）
 
 
 ---

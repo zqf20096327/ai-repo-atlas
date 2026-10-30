@@ -1,6 +1,6 @@
 # GeeeekExplorer/transformers-patch
 
-⭐ 37 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/GeeeekExplorer/transformers-patch) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/GeeeekExplorer/transformers-patch) · 个人维护
 
 **HuggingFace Transformers 的内存优化补丁，降低训练显存占用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "GeeeekExplorer/transformers-patch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 38（+1）
 
 
 ---

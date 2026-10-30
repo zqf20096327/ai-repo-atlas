@@ -1,6 +1,6 @@
 # tradertanmay/ai-agents-zero-to-hero
 
-⭐ 74 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/tradertanmay/ai-agents-zero-to-hero) · 个人维护
+⭐ 81 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/tradertanmay/ai-agents-zero-to-hero) · 个人维护
 
 **零依赖的 AI agent 从原理到生产教学课程库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tradertanmay/ai-agents-zero-to-hero 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 27 --> 78
-    line [31, 34, 35, 36, 55, 74]
+    title "tradertanmay/ai-agents-zero-to-hero 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 26 --> 86
+    line [31, 34, 35, 36, 55, 74, 81]
 ```
 
-2026-10-18 31 → 2026-10-29 74（+43）
+2026-10-18 31 → 2026-10-30 81（+50）
 
 
 ---

@@ -44,13 +44,13 @@ Delphyne 是一个构建 LLM 应用的 Python 编程框架：用户将高层解�
 
 ```mermaid
 xychart-beta
-    title "jonathan-laurent/delphyne 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "jonathan-laurent/delphyne 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 22（+1）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

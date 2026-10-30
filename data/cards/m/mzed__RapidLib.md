@@ -1,6 +1,6 @@
 # mzed/RapidLib
 
-⭐ 25 · C++ · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/mzed/RapidLib) · [官网](https://mzed.github.io/RapidLib/) · 个人维护
+⭐ 25 · C++ · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/mzed/RapidLib) · [官网](https://mzed.github.io/RapidLib/) · 个人维护
 
 **轻量级交互式机器学习库：分类/回归/序列分类**
 
@@ -38,6 +38,18 @@ RapidLib 是一个面向交互式机器学习的轻量级库，当前提供三�
 ## 证据(README 行号)
 
 > L15: RapidLib is a lightweight library for interactive machine learning. It currently features classification (using kNN
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mzed/RapidLib 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-29 25 → 2026-10-30 25（+0）
 
 
 ---

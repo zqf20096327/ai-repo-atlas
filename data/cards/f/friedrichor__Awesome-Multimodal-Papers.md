@@ -1,6 +1,6 @@
 # friedrichor/Awesome-Multimodal-Papers
 
-⭐ 348 · MIT · 推送 2026-08-04 · [GitHub](https://github.com/friedrichor/Awesome-Multimodal-Papers) · [官网](https://friedrichor.github.io/Awesome-Multimodal-Papers/) · 个人维护
+⭐ 348 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/friedrichor/Awesome-Multimodal-Papers) · [官网](https://friedrichor.github.io/Awesome-Multimodal-Papers/) · 个人维护
 
 **多模态研究论文策展清单：按主题分类收录论文与代码链接**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "friedrichor/Awesome-Multimodal-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    title "friedrichor/Awesome-Multimodal-Papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 345 --> 349
-    line [346, 347, 348]
+    line [346, 347, 348, 348]
 ```
 
-2026-10-18 346 → 2026-10-29 348（+2）
+2026-10-18 346 → 2026-10-30 348（+2）
 
 
 ---

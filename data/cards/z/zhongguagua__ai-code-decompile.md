@@ -45,12 +45,12 @@ JSUnpack 是基于 AI 的 JavaScript 反编译与分析工具，面向需要理�
 ```mermaid
 xychart-beta
     title "zhongguagua/ai-code-decompile 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 138 --> 140
     line [139, 139]
 ```
 
-2026-10-18 139 → 2026-10-29 139（+0）
+2026-10-18 139 → 2026-10-30 139（+0）
 
 
 ---

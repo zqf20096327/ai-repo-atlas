@@ -1,6 +1,6 @@
 # lastsunday/job-hunting
 
-⭐ 452 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lastsunday/job-hunting) · [官网](https://lastsunday.github.io/job-hunting/) · 个人维护 · 中文 README
+⭐ 453 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lastsunday/job-hunting) · [官网](https://lastsunday.github.io/job-hunting/) · 个人维护 · 中文 README
 
 **增强招聘平台职位浏览的浏览器插件与配套服务端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lastsunday/job-hunting 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 448 --> 453
-    line [449, 451, 452, 452]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 448 --> 454
+    line [449, 451, 452, 453]
 ```
 
-2026-10-18 449 → 2026-10-29 452（+3）
+2026-10-18 449 → 2026-10-30 453（+4）
 
 
 ---

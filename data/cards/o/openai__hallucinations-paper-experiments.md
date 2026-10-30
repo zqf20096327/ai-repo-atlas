@@ -1,6 +1,6 @@
 # openai/hallucinations-paper-experiments
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-05-15 · [GitHub](https://github.com/openai/hallucinations-paper-experiments) · 组织维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-05-15 · [GitHub](https://github.com/openai/hallucinations-paper-experiments) · 组织维护
 
 **复现 Nature 论文的 LLM 幻觉评测实验 notebook**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openai/hallucinations-paper-experiments 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 14 --> 18
-    line [15, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 14 --> 19
+    line [15, 17, 18]
 ```
 
-2026-10-18 15 → 2026-10-29 17（+2）
+2026-10-18 15 → 2026-10-30 18（+3）
 
 
 ---

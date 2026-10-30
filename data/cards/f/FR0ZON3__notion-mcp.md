@@ -1,6 +1,6 @@
 # FR0ZON3/notion-mcp
 
-⭐ 118 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/FR0ZON3/notion-mcp) · 个人维护
+⭐ 119 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/FR0ZON3/notion-mcp) · 个人维护
 
 **连接 AI 代理与 Notion 的 MCP 服务器，以 Markdown 读写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FR0ZON3/notion-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 117 --> 120
+    line [118, 119]
 ```
 
-2026-10-18 118 → 2026-10-29 118（+0）
+2026-10-18 118 → 2026-10-30 119（+1）
 
 
 ---

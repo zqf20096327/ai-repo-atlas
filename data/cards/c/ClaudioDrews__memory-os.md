@@ -1,6 +1,6 @@
 # ClaudioDrews/memory-os
 
-⭐ 1,384 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/ClaudioDrews/memory-os) · 个人维护
+⭐ 1,383 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/ClaudioDrews/memory-os) · 个人维护
 
 **给 Hermes Agent 的 7 层本地持久记忆系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ClaudioDrews/memory-os 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "ClaudioDrews/memory-os 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1379 --> 1385
-    line [1380, 1381, 1382, 1383, 1384]
+    line [1380, 1381, 1382, 1383, 1384, 1383]
 ```
 
-2026-10-18 1,380 → 2026-10-29 1,384（+4）
+2026-10-18 1,380 → 2026-10-30 1,383（+3）
 
 
 ---

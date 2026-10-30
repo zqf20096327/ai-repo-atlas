@@ -1,6 +1,6 @@
 # sawa-zen/vrchat-mcp
 
-⭐ 69 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/sawa-zen/vrchat-mcp) · 个人维护
+⭐ 71 · TypeScript · MIT · 推送 2026-02-03 · [GitHub](https://github.com/sawa-zen/vrchat-mcp) · 个人维护
 
 **让 AI 客户端通过 MCP 访问 VRChat API 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sawa-zen/vrchat-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 66 --> 72
+    line [67, 68, 69, 71]
 ```
 
-2026-10-18 67 → 2026-10-29 69（+2）
+2026-10-18 67 → 2026-10-30 71（+4）
 
 
 ---

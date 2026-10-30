@@ -1,6 +1,6 @@
 # slrbl/Intrusion-and-anomaly-detection-with-machine-learning
 
-⭐ 175 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning) · 个人维护
+⭐ 175 · Ruby · MIT · 推送 2026-10-29 · [GitHub](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning) · 个人维护
 
 **无监督 ML 日志入侵/异常检测工具，附 LLM 分析与 Web UI**
 
@@ -46,12 +46,12 @@ Webhawk/Catch 3.0 面向 SOC 团队与安全分析人员：读取 HTTP 等应用
 ```mermaid
 xychart-beta
     title "slrbl/Intrusion-and-anomaly-detection-with-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 173 --> 176
     line [174, 175, 175]
 ```
 
-2026-10-18 174 → 2026-10-29 175（+1）
+2026-10-18 174 → 2026-10-30 175（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cdervis/Pendant
 
-⭐ 217 · 推送 2026-09-20 · [GitHub](https://github.com/cdervis/Pendant) · [官网](https://pendant.sh) · 个人维护
+⭐ 218 · 推送 2026-09-20 · [GitHub](https://github.com/cdervis/Pendant) · [官网](https://pendant.sh) · 个人维护
 
 **把 Pi 编码 agent 嵌入 VS Code 的侧边栏扩展**
 
@@ -44,13 +44,13 @@ VS Code 扩展，将 Pi coding agent 以侧边栏和编辑器标签页形式集�
 
 ```mermaid
 xychart-beta
-    title "cdervis/Pendant 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 205 --> 218
-    line [206, 209, 212, 213, 214, 215, 217]
+    title "cdervis/Pendant 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 205 --> 219
+    line [206, 209, 212, 213, 214, 215, 217, 218]
 ```
 
-2026-10-18 206 → 2026-10-29 217（+11）
+2026-10-18 206 → 2026-10-30 218（+12）
 
 
 ---

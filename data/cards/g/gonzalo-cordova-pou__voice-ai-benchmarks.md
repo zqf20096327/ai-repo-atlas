@@ -1,6 +1,6 @@
 # gonzalo-cordova-pou/voice-ai-benchmarks
 
-⭐ 35 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-09-26 · [GitHub](https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks) · 个人维护
 
 **语音 AI 基准测试目录：收录构建语音代理所需评测资源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gonzalo-cordova-pou/voice-ai-benchmarks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-29 35（+1）
+2026-10-18 34 → 2026-10-30 36（+2）
 
 
 ---

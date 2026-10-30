@@ -1,6 +1,6 @@
 # BetaStreetOmnis/xhs_ai_publisher
 
-⭐ 2,093 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/BetaStreetOmnis/xhs_ai_publisher) · [官网](https://xhs-ai-publisher.pages.dev/) · 个人维护 · 中文 README
+⭐ 2,094 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/BetaStreetOmnis/xhs_ai_publisher) · [官网](https://xhs-ai-publisher.pages.dev/) · 个人维护 · 中文 README
 
 **小红书笔记的本地 AI 写稿、排版与发布工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BetaStreetOmnis/xhs_ai_publisher 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "BetaStreetOmnis/xhs_ai_publisher 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2090 --> 2096
-    line [2091, 2092, 2095, 2094, 2093, 2092, 2093]
+    line [2091, 2092, 2095, 2094, 2093, 2092, 2093, 2094]
 ```
 
-2026-10-18 2,091 → 2026-10-29 2,093（+2）
+2026-10-18 2,091 → 2026-10-30 2,094（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # commercetools/commercetools-sdk-typescript
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/commercetools/commercetools-sdk-typescript) · [官网](https://commercetools.github.io/commercetools-sdk-typescript/) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/commercetools/commercetools-sdk-typescript) · [官网](https://commercetools.github.io/commercetools-sdk-typescript/) · 组织维护
 
 **面向开发者的 commercetools API TypeScript SDK 集合**
 
@@ -44,12 +44,12 @@ commercetools 维护的 monorepo，包含从 commercetools API 参考自动生�
 ```mermaid
 xychart-beta
     title "commercetools/commercetools-sdk-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

@@ -44,13 +44,13 @@ Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-quanto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "huggingface/optimum-quanto 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1052 --> 1055
-    line [1053, 1054]
+    line [1053, 1054, 1054]
 ```
 
-2026-10-18 1,053 → 2026-10-29 1,054（+1）
+2026-10-18 1,053 → 2026-10-30 1,054（+1）
 
 
 ---

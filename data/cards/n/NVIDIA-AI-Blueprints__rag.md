@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/rag
 
-⭐ 803 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
+⭐ 804 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/rag) · [官网](https://build.nvidia.com/nvidia/build-an-enterprise-rag-pipeline) · 组织维护
 
 **企业级 RAG 参考方案：基于 NIM 微服务搭建检索增强问答管线**
 
@@ -45,13 +45,13 @@ NVIDIA 发布的 RAG 蓝图，作为构建检索增强生成管线的参考方�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/rag 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 793 --> 804
-    line [794, 796, 798, 797, 798, 799, 802, 803]
+    title "NVIDIA-AI-Blueprints/rag 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 793 --> 805
+    line [794, 796, 798, 797, 798, 799, 802, 803, 804]
 ```
 
-2026-10-18 794 → 2026-10-29 803（+9）
+2026-10-18 794 → 2026-10-30 804（+10）
 
 
 ---

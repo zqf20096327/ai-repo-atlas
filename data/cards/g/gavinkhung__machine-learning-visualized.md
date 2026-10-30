@@ -1,6 +1,6 @@
 # gavinkhung/machine-learning-visualized
 
-⭐ 2,092 · TeX · MIT · 推送 2026-08-19 · [GitHub](https://github.com/gavinkhung/machine-learning-visualized) · [官网](https://ml-visualized.com/) · 个人维护
+⭐ 2,093 · TeX · MIT · 推送 2026-08-19 · [GitHub](https://github.com/gavinkhung/machine-learning-visualized) · [官网](https://ml-visualized.com/) · 个人维护
 
 **用 NumPy 从第一性原理推导并可视化 ML 算法的 Jupyter Book**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gavinkhung/machine-learning-visualized 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2068 --> 2094
-    line [2070, 2073, 2078, 2082, 2088, 2089, 2090, 2091, 2092]
+    title "gavinkhung/machine-learning-visualized 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2068 --> 2095
+    line [2070, 2073, 2078, 2082, 2088, 2089, 2090, 2091, 2092, 2093]
 ```
 
-2026-10-18 2,070 → 2026-10-29 2,092（+22）
+2026-10-18 2,070 → 2026-10-30 2,093（+23）
 
 
 ---

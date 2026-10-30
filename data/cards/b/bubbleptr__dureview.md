@@ -1,6 +1,6 @@
 # bubbleptr/dureview
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/bubbleptr/dureview) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/bubbleptr/dureview) · 个人维护 · 中文 README
 
 **自托管的 AI 代码审查机器人：PR 评论触发 P0–P3 内联发现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bubbleptr/dureview 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "bubbleptr/dureview 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 29 --> 33
-    line [30, 31, 32, 31, 32]
+    line [30, 31, 32, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-10-29 32（+2）
+2026-10-18 30 → 2026-10-30 32（+2）
 
 
 ---

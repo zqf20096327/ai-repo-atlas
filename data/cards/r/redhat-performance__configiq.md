@@ -1,6 +1,6 @@
 # redhat-performance/configiq
 
-⭐ 21 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/redhat-performance/configiq) · [官网](https://configiq.xyz) · 组织维护
+⭐ 22 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/redhat-performance/configiq) · [官网](https://configiq.xyz) · 组织维护
 
 **面向工程师的 LLM 推理容量规划与 GPU 成本建模工具**
 
@@ -46,12 +46,12 @@ Red Hat 性能团队维护的 Next.js Web 应用：提供 GPU 显存与成本估
 ```mermaid
 xychart-beta
     title "redhat-performance/configiq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 22（+2）
 
 
 ---

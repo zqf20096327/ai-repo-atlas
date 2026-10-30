@@ -1,6 +1,6 @@
 # business-science/ai-data-science-team
 
-⭐ 5,478 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/business-science/ai-data-science-team) · 组织维护
+⭐ 5,480 · Python · MIT · 推送 2026-01-28 · [GitHub](https://github.com/business-science/ai-data-science-team) · 组织维护
 
 **面向数据科学工作流的多智能体 Python 库与可视化 Pipeline 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "business-science/ai-data-science-team 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5456 --> 5480
-    line [5458, 5463, 5466, 5468, 5472, 5473, 5477, 5478]
+    title "business-science/ai-data-science-team 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5456 --> 5482
+    line [5458, 5463, 5466, 5468, 5472, 5473, 5477, 5478, 5480]
 ```
 
-2026-10-18 5,458 → 2026-10-29 5,478（+20）
+2026-10-18 5,458 → 2026-10-30 5,480（+22）
 
 
 ---

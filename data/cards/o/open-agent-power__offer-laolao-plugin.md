@@ -1,6 +1,6 @@
 # open-agent-power/offer-laolao-plugin
 
-⭐ 89 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/open-agent-power/offer-laolao-plugin) · [官网](https://offer-laolao-plugin.vercel.app) · 组织维护 · 中文 README
+⭐ 88 · TypeScript · 推送 2026-10-10 · [GitHub](https://github.com/open-agent-power/offer-laolao-plugin) · [官网](https://offer-laolao-plugin.vercel.app) · 组织维护 · 中文 README
 
 **帮求职者在招聘网站自动填写简历的 Chrome 扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-agent-power/offer-laolao-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "open-agent-power/offer-laolao-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 87 --> 90
-    line [88, 89]
+    line [88, 89, 88]
 ```
 
-2026-10-18 88 → 2026-10-29 89（+1）
+2026-10-18 88 → 2026-10-30 88（+0）
 
 
 ---

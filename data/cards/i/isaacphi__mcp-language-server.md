@@ -1,6 +1,6 @@
 # isaacphi/mcp-language-server
 
-⭐ 1,611 · Go · BSD-3-Clause · 推送 2026-03-01 · [GitHub](https://github.com/isaacphi/mcp-language-server) · 个人维护
+⭐ 1,612 · Go · BSD-3-Clause · 推送 2026-03-01 · [GitHub](https://github.com/isaacphi/mcp-language-server) · 个人维护
 
 **将语言服务器（LSP）能力暴露给 LLM 的 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "isaacphi/mcp-language-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 1609 --> 1612
-    line [1610, 1611, 1610, 1611, 1611]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 1609 --> 1613
+    line [1610, 1611, 1610, 1611, 1612]
 ```
 
-2026-10-18 1,610 → 2026-10-29 1,611（+1）
+2026-10-18 1,610 → 2026-10-30 1,612（+2）
 
 
 ---

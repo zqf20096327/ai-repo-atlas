@@ -40,6 +40,18 @@
 > L25: `Reels_detector_yolov26` captures desktop monitor frames, flags distraction objects like cellphones and TVs, identi
 > L31: - 🧠 **AI-based distraction detection rules**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Reels-Detector-YOLOv26 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `408ba564186b` · [字段定义](../../DATASET.md)*

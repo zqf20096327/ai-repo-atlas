@@ -1,6 +1,6 @@
 # Kevoyuan/AgentSCAD
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kevoyuan/AgentSCAD) · [官网](https://agentscad.vercel.app) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Kevoyuan/AgentSCAD) · [官网](https://agentscad.vercel.app) · 个人维护 · 中文 README
 
 **自然语言生成可编辑 OpenSCAD 模型的本地 CAD 工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kevoyuan/AgentSCAD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 16 --> 22
-    line [17, 18, 19, 21]
+    title "Kevoyuan/AgentSCAD 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 21, 22]
 ```
 
-2026-10-18 17 → 2026-10-29 21（+4）
+2026-10-18 17 → 2026-10-30 22（+5）
 
 
 ---

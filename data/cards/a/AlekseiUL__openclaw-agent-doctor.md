@@ -1,6 +1,6 @@
 # AlekseiUL/openclaw-agent-doctor
 
-⭐ 25 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AlekseiUL/openclaw-agent-doctor) · [官网](https://t.me/Sprut_AI) · 个人维护
+⭐ 25 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlekseiUL/openclaw-agent-doctor) · [官网](https://t.me/Sprut_AI) · 个人维护
 
 **OpenClaw 代理的自诊断技能：检查 7 类系统并给出修复建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlekseiUL/openclaw-agent-doctor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

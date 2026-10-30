@@ -1,6 +1,6 @@
 # KitwareMedical/SlicerNNUnet
 
-⭐ 76 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/KitwareMedical/SlicerNNUnet) · 组织维护
+⭐ 77 · Python · BSD-3-Clause · 推送 2026-10-25 · [GitHub](https://github.com/KitwareMedical/SlicerNNUnet) · 组织维护
 
 **3D Slicer 扩展：仅凭训练文件夹即可运行 nnUNet 模型做医学图像分割**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KitwareMedical/SlicerNNUnet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 73 --> 77
-    line [74, 75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 73 --> 78
+    line [74, 75, 76, 77]
 ```
 
-2026-10-18 74 → 2026-10-29 76（+2）
+2026-10-18 74 → 2026-10-30 77（+3）
 
 
 ---

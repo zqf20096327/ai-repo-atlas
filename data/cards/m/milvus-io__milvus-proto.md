@@ -1,6 +1,6 @@
 # milvus-io/milvus-proto
 
-⭐ 49 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/milvus-io/milvus-proto) · 组织维护
+⭐ 49 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/milvus-io/milvus-proto) · 组织维护
 
 **Milvus 各 SDK 间共享 protobuf 接口定义的仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-proto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-29 49（+0）
+2026-10-18 49 → 2026-10-30 49（+0）
 
 
 ---

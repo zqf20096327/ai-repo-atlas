@@ -1,6 +1,6 @@
 # Zefan-Cai/KVCache-Factory
 
-⭐ 1,391 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Zefan-Cai/KVCache-Factory) · 组织维护
+⭐ 1,392 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/Zefan-Cai/KVCache-Factory) · 组织维护
 
 **面向长上下文 LLM 推理的 KV 缓存压缩方法统一评测框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zefan-Cai/KVCache-Factory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1385 --> 1392
-    line [1386, 1388, 1389, 1390, 1391]
+    title "Zefan-Cai/KVCache-Factory 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1385 --> 1393
+    line [1386, 1388, 1389, 1390, 1391, 1392]
 ```
 
-2026-10-18 1,386 → 2026-10-29 1,391（+5）
+2026-10-18 1,386 → 2026-10-30 1,392（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # atlas-research-io/atlas-research-notebooks
 
-⭐ 74 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/atlas-research-io/atlas-research-notebooks) · [官网](https://atlas-research.io) · 组织维护
+⭐ 75 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/atlas-research-io/atlas-research-notebooks) · [官网](https://atlas-research.io) · 组织维护
 
 **加密/经济/地理/ML 主题的开源研究笔记本集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atlas-research-io/atlas-research-notebooks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 70 --> 75
-    line [72, 71, 72, 73, 74]
+    title "atlas-research-io/atlas-research-notebooks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 70 --> 76
+    line [72, 71, 72, 73, 74, 75]
 ```
 
-2026-10-18 72 → 2026-10-29 74（+2）
+2026-10-18 72 → 2026-10-30 75（+3）
 
 
 ---

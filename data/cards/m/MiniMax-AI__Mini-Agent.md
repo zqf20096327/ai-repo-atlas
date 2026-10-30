@@ -1,6 +1,6 @@
 # MiniMax-AI/Mini-Agent
 
-⭐ 3,069 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/MiniMax-AI/Mini-Agent) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ 3,070 · Python · MIT · 推送 2026-02-14 · [GitHub](https://github.com/MiniMax-AI/Mini-Agent) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
 
 **基于 MiniMax M2.5 的单 Agent CLI 示例项目，展示 Agent 执行管线**
 
@@ -44,13 +44,13 @@ MiniMax 官方发布的最小化单 Agent 演示项目：通过 Anthropic 兼容
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/Mini-Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3056 --> 3070
-    line [3057, 3060, 3061, 3064, 3066, 3068, 3069]
+    title "MiniMax-AI/Mini-Agent 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3056 --> 3071
+    line [3057, 3060, 3061, 3064, 3066, 3068, 3069, 3070]
 ```
 
-2026-10-18 3,057 → 2026-10-29 3,069（+12）
+2026-10-18 3,057 → 2026-10-30 3,070（+13）
 
 
 ---

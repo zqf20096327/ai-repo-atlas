@@ -1,6 +1,6 @@
 # stateful-y/kedro-dagster
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/stateful-y/kedro-dagster) · [官网](https://kedro-dagster.readthedocs.io/) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/stateful-y/kedro-dagster) · [官网](https://kedro-dagster.readthedocs.io/) · 组织维护
 
 **将 Kedro 数据科学流水线接入 Dagster 编排的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stateful-y/kedro-dagster 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

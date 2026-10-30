@@ -1,6 +1,6 @@
 # xiaokaige1130-maker/grok-desktop
 
-⭐ 23 · JavaScript · 推送 2026-07-24 · [GitHub](https://github.com/xiaokaige1130-maker/grok-desktop) · [官网](https://github.com/xiaokaige1130-maker/grok-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · 推送 2026-07-24 · [GitHub](https://github.com/xiaokaige1130-maker/grok-desktop) · [官网](https://github.com/xiaokaige1130-maker/grok-desktop/releases/latest) · 个人维护 · 中文 README
 
 **官方 Grok CLI 的跨平台桌面工作区客户端**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，将已安装并登录的官方 Grok CLI 的 agent 能力
 ```mermaid
 xychart-beta
     title "xiaokaige1130-maker/grok-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 21 --> 24
+    line [23, 22]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 22（-1）
 
 
 ---

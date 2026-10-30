@@ -1,6 +1,6 @@
 # AkihikoWatanabe/paper_notes
 
-⭐ 175 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AkihikoWatanabe/paper_notes) · [官网](https://AkihikoWatanabe.github.io/paper_notes) · 个人维护 · 中文 README
+⭐ 176 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AkihikoWatanabe/paper_notes) · [官网](https://AkihikoWatanabe.github.io/paper_notes) · 个人维护 · 中文 README
 
 **个人维护的 AI 论文笔记库：GitHub Issues 管理并可对话检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AkihikoWatanabe/paper_notes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 170 --> 176
-    line [171, 172, 173, 174, 175]
+    title "AkihikoWatanabe/paper_notes 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 170 --> 177
+    line [171, 172, 173, 174, 175, 176]
 ```
 
-2026-10-18 171 → 2026-10-29 175（+4）
+2026-10-18 171 → 2026-10-30 176（+5）
 
 
 ---

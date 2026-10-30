@@ -1,6 +1,6 @@
 # EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence
 
-⭐ 155 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence) · [官网](https://eimantahir027.github.io/Python-Programming-Basics-For-Artificial-Intelligence/) · 个人维护
+⭐ 157 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence) · [官网](https://eimantahir027.github.io/Python-Programming-Basics-For-Artificial-Intelligence/) · 个人维护
 
 **面向 AI 方向初学者的 Python 编程结构化学习课程仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 151 --> 156
-    line [152, 155, 155]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 151 --> 158
+    line [152, 155, 157]
 ```
 
-2026-10-18 152 → 2026-10-29 155（+3）
+2026-10-18 152 → 2026-10-30 157（+5）
 
 
 ---

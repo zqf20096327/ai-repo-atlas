@@ -1,6 +1,6 @@
 # a2aproject/a2a-java
 
-⭐ 507 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/a2aproject/a2a-java) · [官网](https://a2aproject.github.io/a2a-java/) · 组织维护
+⭐ 508 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/a2aproject/a2a-java) · [官网](https://a2aproject.github.io/a2a-java/) · 组织维护
 
 **Java 开发者的 A2A 协议 SDK：实现 agent 间通信客户端与服务端**
 
@@ -45,12 +45,12 @@ Agent2Agent (A2A) 协议的官方 Java SDK，多模块 Maven 库，提供客户�
 ```mermaid
 xychart-beta
     title "a2aproject/a2a-java 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 504 --> 508
-    line [505, 506, 507, 507]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 504 --> 509
+    line [505, 506, 507, 508]
 ```
 
-2026-10-18 505 → 2026-10-29 507（+2）
+2026-10-18 505 → 2026-10-30 508（+3）
 
 
 ---

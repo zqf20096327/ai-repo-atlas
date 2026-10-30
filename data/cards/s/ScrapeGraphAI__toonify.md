@@ -46,12 +46,12 @@ TOON（Token-Oriented Object Notation）是 Python 序列化库与 CLI 工具，
 ```mermaid
 xychart-beta
     title "ScrapeGraphAI/toonify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 363 --> 367
     line [364, 366, 366]
 ```
 
-2026-10-18 364 → 2026-10-29 366（+2）
+2026-10-18 364 → 2026-10-30 366（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # anurmatov/phleet
 
-⭐ 21 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/anurmatov/phleet) · 个人维护
+⭐ 21 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/anurmatov/phleet) · 个人维护
 
 **自托管多 agent 平台：Docker 化 agent 由 Claude/Codex 驱动，Temporal 编排，Telegram 协调**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anurmatov/phleet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # deepseek-ai/Engram
 
-⭐ 4,792 · Python · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/Engram) · 组织维护
+⭐ 4,795 · Python · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/deepseek-ai/Engram) · 组织维护
 
 **LLM 条件记忆模块 Engram 的论文官方实现**
 
@@ -45,13 +45,13 @@ DeepSeek 团队发布的论文《Conditional Memory via Scalable Lookup》官方
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/Engram 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 4754 --> 4795
-    line [4757, 4762, 4775, 4777, 4782, 4784, 4788, 4792]
+    title "deepseek-ai/Engram 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4754 --> 4798
+    line [4757, 4762, 4775, 4777, 4782, 4784, 4788, 4792, 4795]
 ```
 
-2026-10-18 4,757 → 2026-10-29 4,792（+35）
+2026-10-18 4,757 → 2026-10-30 4,795（+38）
 
 
 ---

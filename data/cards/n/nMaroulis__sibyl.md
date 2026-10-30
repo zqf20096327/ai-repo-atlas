@@ -1,6 +1,6 @@
 # nMaroulis/sibyl
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nMaroulis/sibyl) · [官网](https://nmaroulis.github.io/sibyl/index.html) · 个人维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nMaroulis/sibyl) · [官网](https://nmaroulis.github.io/sibyl/) · 个人维护
 
 **本地部署的加密货币交易看板：AI 助手+策略回测+价格预测**
 
@@ -47,12 +47,12 @@ Sibyl 是一个本地部署的加密货币交易综合应用，基于 Streamlit 
 ```mermaid
 xychart-beta
     title "nMaroulis/sibyl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 73 --> 78
     line [74, 75, 77, 77]
 ```
 
-2026-10-18 74 → 2026-10-29 77（+3）
+2026-10-18 74 → 2026-10-30 77（+3）
 
 
 ---

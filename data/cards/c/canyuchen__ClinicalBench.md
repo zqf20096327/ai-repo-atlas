@@ -45,12 +45,12 @@ KDD 2026 论文的官方代码库，提供可安装的 clinicalbench 包：在 M
 ```mermaid
 xychart-beta
     title "canyuchen/ClinicalBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 39（+0）
 
 
 ---

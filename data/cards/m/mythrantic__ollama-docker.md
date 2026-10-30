@@ -1,6 +1,6 @@
 # mythrantic/ollama-docker
 
-⭐ 1,432 · HTML · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/mythrantic/ollama-docker) · [官网](https://ollama-docker.valiantlynx.com/) · 个人维护
+⭐ 1,431 · HTML · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/mythrantic/ollama-docker) · [官网](https://ollama-docker.valiantlynx.com/) · 个人维护
 
 **用 Docker Compose 一键部署 Ollama 及其 WebUI 的脚手架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mythrantic/ollama-docker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 1430 --> 1433
-    line [1431, 1432, 1432]
+    line [1431, 1432, 1431]
 ```
 
-2026-10-18 1,431 → 2026-10-29 1,432（+1）
+2026-10-18 1,431 → 2026-10-30 1,431（+0）
 
 
 ---

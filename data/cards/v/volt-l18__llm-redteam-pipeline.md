@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "volt-l18/llm-redteam-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "volt-l18/llm-redteam-pipeline 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 26 --> 30
-    line [27, 29]
+    line [27, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-29 29（+2）
+2026-10-18 27 → 2026-10-30 29（+2）
 
 
 ---

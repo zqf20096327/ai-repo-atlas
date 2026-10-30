@@ -46,12 +46,12 @@ Finch Agent 是面向 macOS/Windows/Linux 的桌面 AI agent，用户以自然�
 ```mermaid
 xychart-beta
     title "finchtoys/finch-releases 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-10-29 59（+1）
+2026-10-18 58 → 2026-10-30 59（+1）
 
 
 ---

@@ -44,12 +44,12 @@ Suisha 是一个 Discord 机器人，通过 Automatic1111 WebUI 的 API 作为�
 ```mermaid
 xychart-beta
     title "saltacc/SuishaBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

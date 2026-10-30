@@ -1,6 +1,6 @@
 # PythonOT/POT
 
-⭐ 2,859 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/PythonOT/POT) · [官网](https://PythonOT.github.io/) · 组织维护
+⭐ 2,860 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/PythonOT/POT) · [官网](https://PythonOT.github.io/) · 组织维护
 
 **为科研与工程提供最优传输问题求解器的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PythonOT/POT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2854 --> 2860
-    line [2856, 2855, 2858, 2859, 2859]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2854 --> 2861
+    line [2856, 2855, 2858, 2859, 2860]
 ```
 
-2026-10-18 2,856 → 2026-10-29 2,859（+3）
+2026-10-18 2,856 → 2026-10-30 2,860（+4）
 
 
 ---

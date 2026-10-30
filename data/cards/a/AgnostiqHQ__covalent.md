@@ -45,12 +45,12 @@ Covalent 是 Agnostiq 维护的开源 Python 库，面向 AI/ML 工程师、开�
 ```mermaid
 xychart-beta
     title "AgnostiqHQ/covalent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 867 --> 869
     line [868, 868]
 ```
 
-2026-10-18 868 → 2026-10-29 868（+0）
+2026-10-18 868 → 2026-10-30 868（+0）
 
 
 ---

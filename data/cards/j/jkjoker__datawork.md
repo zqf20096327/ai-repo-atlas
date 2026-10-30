@@ -45,12 +45,12 @@ datawork 是面向 Windows 10 及以上系统的本地优先个人 AI Agent 桌�
 ```mermaid
 xychart-beta
     title "jkjoker/datawork 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

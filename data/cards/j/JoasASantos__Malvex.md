@@ -1,6 +1,6 @@
 # JoasASantos/Malvex
 
-⭐ 52 · Rust · 推送 2026-10-16 · [GitHub](https://github.com/JoasASantos/Malvex) · 个人维护
+⭐ 54 · Rust · 推送 2026-10-16 · [GitHub](https://github.com/JoasASantos/Malvex) · 个人维护
 
 **本地优先的恶意软件分析编排框架：用 AI agent 驱动逆向工具链**
 
@@ -45,13 +45,13 @@ Malvex 是一个本地运行的编排框架，通过 MCP（Model Context Protoco
 
 ```mermaid
 xychart-beta
-    title "JoasASantos/Malvex 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 26 --> 54
-    line [28, 42, 44, 50, 52]
+    title "JoasASantos/Malvex 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 26 --> 56
+    line [28, 42, 44, 50, 52, 54]
 ```
 
-2026-10-19 28 → 2026-10-29 52（+24）
+2026-10-19 28 → 2026-10-30 54（+26）
 
 
 ---

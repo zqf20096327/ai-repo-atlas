@@ -1,6 +1,6 @@
 # shaharia-lab/jev-cli
 
-⭐ 40 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shaharia-lab/jev-cli) · 组织维护
+⭐ 40 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/shaharia-lab/jev-cli) · 组织维护
 
 **TypeSafe AI Jev 模型的命令行客户端：对文本提问返回校准概率**
 
@@ -44,13 +44,13 @@ Rust 编写的 CLI 工具，调用 TypeSafe AI 的 Jev 分类模型，向任意�
 
 ```mermaid
 xychart-beta
-    title "shaharia-lab/jev-cli 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    title "shaharia-lab/jev-cli 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 36 --> 41
-    line [37, 38, 40]
+    line [37, 38, 40, 40]
 ```
 
-2026-10-18 37 → 2026-10-29 40（+3）
+2026-10-18 37 → 2026-10-30 40（+3）
 
 
 ---

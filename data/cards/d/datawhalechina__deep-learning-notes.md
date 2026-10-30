@@ -1,6 +1,6 @@
 # datawhalechina/deep-learning-notes
 
-⭐ 709 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/datawhalechina/deep-learning-notes) · [官网](https://datawhalechina.github.io/deep-learning-notes/) · 个人维护 · 中文 README
+⭐ 711 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/datawhalechina/deep-learning-notes) · [官网](https://datawhalechina.github.io/deep-learning-notes/) · 个人维护 · 中文 README
 
 **个人深度学习自学笔记教程：从神经网络基础到 LLM 工程与推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/deep-learning-notes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 704 --> 710
-    line [705, 706, 707, 708, 709, 709]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 704 --> 712
+    line [705, 706, 707, 708, 709, 711]
 ```
 
-2026-10-18 705 → 2026-10-29 709（+4）
+2026-10-18 705 → 2026-10-30 711（+6）
 
 
 ---

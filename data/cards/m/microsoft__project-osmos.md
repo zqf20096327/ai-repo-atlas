@@ -1,6 +1,6 @@
 # microsoft/project-osmos
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/microsoft/project-osmos) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/project-osmos) · 组织维护
 
 **面向 Copilot/Claude Code/Codex 的 Microsoft Fabric 数据工程技能插件**
 
@@ -45,12 +45,12 @@ Project Osmos 是一个数据工程 agent 技能，使用自然语言在 Microso
 ```mermaid
 xychart-beta
     title "microsoft/project-osmos 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-29 17（+1）
+2026-10-18 16 → 2026-10-30 17（+1）
 
 
 ---

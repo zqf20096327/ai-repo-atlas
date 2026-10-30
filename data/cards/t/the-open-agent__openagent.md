@@ -1,6 +1,6 @@
 # the-open-agent/openagent
 
-⭐ 5,720 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/the-open-agent/openagent) · [官网](https://openagentai.org) · 组织维护 · 中文 README
+⭐ 5,725 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/the-open-agent/openagent) · [官网](https://openagentai.org) · 组织维护 · 中文 README
 
 **自托管个人 AI 助手：LLM+RAG+agent 循环，支持浏览器/代码代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-open-agent/openagent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5696 --> 5722
-    line [5698, 5701, 5707, 5709, 5710, 5708, 5712, 5716, 5720]
+    title "the-open-agent/openagent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5696 --> 5727
+    line [5698, 5701, 5707, 5709, 5710, 5708, 5712, 5716, 5720, 5725]
 ```
 
-2026-10-18 5,698 → 2026-10-29 5,720（+22）
+2026-10-18 5,698 → 2026-10-30 5,725（+27）
 
 
 ---

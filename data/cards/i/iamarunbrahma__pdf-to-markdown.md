@@ -1,6 +1,6 @@
 # iamarunbrahma/pdf-to-markdown
 
-⭐ 215 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/iamarunbrahma/pdf-to-markdown) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/iamarunbrahma/pdf-to-markdown) · 个人维护
 
 **纯 Python 的 PDF 转 Markdown 结构化提取工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamarunbrahma/pdf-to-markdown 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 210 --> 216
-    line [211, 212, 213, 215]
+    title "iamarunbrahma/pdf-to-markdown 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 210 --> 217
+    line [211, 212, 213, 215, 216]
 ```
 
-2026-10-18 211 → 2026-10-29 215（+4）
+2026-10-18 211 → 2026-10-30 216（+5）
 
 
 ---

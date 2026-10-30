@@ -1,6 +1,6 @@
 # Future-House/paper-qa
 
-⭐ 9,493 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
+⭐ 9,507 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
 
 **面向科学文献的高精度 RAG 问答工具，带引用溯源**
 
@@ -44,13 +44,13 @@ PaperQA2 是针对 PDF、文本、Office 文档与源码文件做检索增强生
 
 ```mermaid
 xychart-beta
-    title "Future-House/paper-qa 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 9390 --> 9502
-    line [9399, 9413, 9444, 9452, 9458, 9461, 9465, 9471, 9477, 9493]
+    title "Future-House/paper-qa 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 9389 --> 9517
+    line [9399, 9413, 9444, 9452, 9458, 9461, 9465, 9471, 9477, 9493, 9507]
 ```
 
-2026-10-18 9,399 → 2026-10-29 9,493（+94）
+2026-10-18 9,399 → 2026-10-30 9,507（+108）
 
 
 ---

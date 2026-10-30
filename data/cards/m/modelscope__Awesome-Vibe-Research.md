@@ -1,6 +1,6 @@
 # modelscope/Awesome-Vibe-Research
 
-⭐ 466 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) · 组织维护 · 中文 README
+⭐ 467 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/modelscope/Awesome-Vibe-Research) · 组织维护 · 中文 README
 
 **AI 辅助科研全流程的 agents/skills/workflow 策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/Awesome-Vibe-Research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 455 --> 468
-    line [456, 461, 463, 464, 467, 466, 466]
+    line [456, 461, 463, 464, 467, 466, 467]
 ```
 
-2026-10-18 456 → 2026-10-29 466（+10）
+2026-10-18 456 → 2026-10-30 467（+11）
 
 
 ---

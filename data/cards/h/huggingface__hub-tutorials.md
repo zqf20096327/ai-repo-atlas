@@ -43,12 +43,12 @@ Hugging Face 维护的 Hub 教程仓库，内容为与 Hub 相关的练习和教
 ```mermaid
 xychart-beta
     title "huggingface/hub-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 39（+0）
 
 
 ---

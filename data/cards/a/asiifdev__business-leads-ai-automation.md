@@ -1,6 +1,6 @@
 # asiifdev/business-leads-ai-automation
 
-⭐ 224 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 个人维护
+⭐ 225 · TypeScript · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 个人维护
 
 **面向本地商家的开源 AI 销售外联系统：找线索、拟稿、人工审批后发送**
 
@@ -45,12 +45,12 @@ Prospex 是自托管的 AI 销售/营销自动化 Web 应用：用无头浏览�
 ```mermaid
 xychart-beta
     title "asiifdev/business-leads-ai-automation 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 211 --> 225
-    line [212, 214, 216, 217, 218, 220, 223, 224, 224]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 211 --> 226
+    line [212, 214, 216, 217, 218, 220, 223, 224, 225]
 ```
 
-2026-10-18 212 → 2026-10-29 224（+12）
+2026-10-18 212 → 2026-10-30 225（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sentient-OS-Labs/sentient-os
 
-⭐ 676 · Swift · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sentient-OS-Labs/sentient-os) · [官网](https://sentient-os.ai) · 组织维护
+⭐ 685 · Swift · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Sentient-OS-Labs/sentient-os) · [官网](https://sentient-os.ai) · 组织维护
 
 **Mac 上的端侧个人 AI：夜间理解你的资料，白天代你操作电脑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sentient-OS-Labs/sentient-os 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 576 --> 685
-    line [585, 597, 629, 632, 633, 634, 638, 644, 676]
+    title "Sentient-OS-Labs/sentient-os 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 575 --> 695
+    line [585, 597, 629, 632, 633, 634, 638, 644, 676, 685]
 ```
 
-2026-10-18 585 → 2026-10-29 676（+91）
+2026-10-18 585 → 2026-10-30 685（+100）
 
 
 ---

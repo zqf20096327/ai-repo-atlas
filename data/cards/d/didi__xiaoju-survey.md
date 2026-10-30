@@ -1,6 +1,6 @@
 # didi/xiaoju-survey
 
-⭐ 3,803 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/didi/xiaoju-survey) · [官网](https://xiaojusurvey.didi.cn) · 组织维护 · 中文 README
+⭐ 3,802 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/didi/xiaoju-survey) · [官网](https://xiaojusurvey.didi.cn) · 组织维护 · 中文 README
 
 **滴滴开源的企业级问卷调查、考试与表单构建及数据分析平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "didi/xiaoju-survey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "didi/xiaoju-survey 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3800 --> 3804
-    line [3801, 3802, 3803]
+    line [3801, 3802, 3803, 3802]
 ```
 
-2026-10-18 3,801 → 2026-10-29 3,803（+2）
+2026-10-18 3,801 → 2026-10-30 3,802（+1）
 
 
 ---

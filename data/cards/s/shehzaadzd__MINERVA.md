@@ -40,6 +40,18 @@ ICLR 2018 论文《Go for a Walk and Arrive at the Answer》的官方代码与�
 > L4: Code and models for the paper Go for a Walk and Arrive at the Answer - Reasoning over Paths in Knowledge Bases using
 > L8: MINERVA is a RL agent which answers queries in a knowledge graph of entities and relations. Starting from an entity 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shehzaadzd/MINERVA 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 321 --> 323
+    line [322, 322]
+```
+
+2026-10-29 322 → 2026-10-30 322（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `11510356da2d` · [字段定义](../../DATASET.md)*

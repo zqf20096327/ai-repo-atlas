@@ -1,6 +1,6 @@
 # Nicolepcx/harness_engineering
 
-⭐ 166 · Jupyter Notebook · 推送 2026-08-18 · [GitHub](https://github.com/Nicolepcx/harness_engineering) · 个人维护
+⭐ 167 · Jupyter Notebook · 推送 2026-08-18 · [GitHub](https://github.com/Nicolepcx/harness_engineering) · 个人维护
 
 **O'Reilly《Harness Engineering》一书配套代码笔记本集**
 
@@ -44,12 +44,12 @@ O'Reilly 书籍 Harness Engineering: Optimization, Coordination, and Adaptive Ag
 ```mermaid
 xychart-beta
     title "Nicolepcx/harness_engineering 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 160 --> 167
-    line [161, 162, 163, 166, 166]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 160 --> 168
+    line [161, 162, 163, 166, 167]
 ```
 
-2026-10-18 161 → 2026-10-29 166（+5）
+2026-10-18 161 → 2026-10-30 167（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Shiyao-Huang/awesome-agent-evolution
 
-⭐ 67 · JavaScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Shiyao-Huang/awesome-agent-evolution) · [官网](https://agent-evolution.com/) · 个人维护 · 中文 README
+⭐ 68 · JavaScript · MIT · 推送 2026-08-03 · [GitHub](https://github.com/Shiyao-Huang/awesome-agent-evolution) · [官网](https://agent-evolution.com/) · 个人维护 · 中文 README
 
 **AI Agent 自进化方向的开放 Survey 与证据地图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shiyao-Huang/awesome-agent-evolution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 67]
+    title "Shiyao-Huang/awesome-agent-evolution 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 67, 68]
 ```
 
-2026-10-18 65 → 2026-10-29 67（+2）
+2026-10-18 65 → 2026-10-30 68（+3）
 
 
 ---

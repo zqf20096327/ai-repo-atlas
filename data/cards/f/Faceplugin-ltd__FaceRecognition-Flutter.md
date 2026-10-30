@@ -44,13 +44,13 @@ FacePlugin 的 Flutter 插件 face_recognition_sdk，封装与 Android/iOS 原�
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-Flutter 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
+    title "Faceplugin-ltd/FaceRecognition-Flutter 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24]
+    line [20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 20 → 2026-10-29 24（+4）
+2026-10-18 20 → 2026-10-30 24（+4）
 
 
 ---

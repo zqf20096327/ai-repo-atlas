@@ -1,6 +1,6 @@
 # drpwchen/textbook-to-note
 
-⭐ 108 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/drpwchen/textbook-to-note) · [官网](https://drpwchen.com/posts/textbook-to-note/) · 个人维护 · 中文 README
+⭐ 109 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/drpwchen/textbook-to-note) · [官网](https://drpwchen.com/posts/textbook-to-note/) · 个人维护 · 中文 README
 
 **把 PDF 教材转成可检索知识库并生成带引用笔记的本地流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "drpwchen/textbook-to-note 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 105 --> 110
+    line [106, 107, 108, 109]
 ```
 
-2026-10-18 106 → 2026-10-29 108（+2）
+2026-10-18 106 → 2026-10-30 109（+3）
 
 
 ---

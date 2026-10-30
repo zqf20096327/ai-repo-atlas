@@ -1,6 +1,6 @@
 # lotsoftick/openclaw_client
 
-⭐ 254 · TypeScript · MIT · 推送 2026-05-27 · [GitHub](https://github.com/lotsoftick/openclaw_client) · 个人维护
+⭐ 253 · TypeScript · MIT · 推送 2026-05-27 · [GitHub](https://github.com/lotsoftick/openclaw_client) · 个人维护
 
 **面向 OpenClaw AI agent 的 Web 聊天客户端**
 
@@ -46,12 +46,12 @@ React 19 + Vite 前端与 Express + TypeORM + SQLite 单服务器组成的 Web �
 ```mermaid
 xychart-beta
     title "lotsoftick/openclaw_client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 253 --> 255
-    line [254, 254]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 252 --> 255
+    line [254, 253]
 ```
 
-2026-10-18 254 → 2026-10-29 254（+0）
+2026-10-18 254 → 2026-10-30 253（-1）
 
 
 ---

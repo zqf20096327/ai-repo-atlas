@@ -1,6 +1,6 @@
 # hpcaitech/ColossalAI
 
-⭐ 41,429 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
+⭐ 41,433 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
 
 **面向开发者的大模型分布式训练与推理加速系统**
 
@@ -53,13 +53,13 @@
 
 ```mermaid
 xychart-beta
-    title "hpcaitech/ColossalAI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 41426 --> 41433
-    line [41431, 41432, 41427, 41430, 41429, 41430, 41428, 41429]
+    title "hpcaitech/ColossalAI 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 41426 --> 41434
+    line [41431, 41432, 41427, 41430, 41429, 41430, 41428, 41429, 41433]
 ```
 
-2026-10-18 41,431 → 2026-10-29 41,429（-2）
+2026-10-18 41,431 → 2026-10-30 41,433（+2）
 
 
 ---

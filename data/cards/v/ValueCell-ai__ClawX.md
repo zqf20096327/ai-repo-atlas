@@ -1,6 +1,6 @@
 # ValueCell-ai/ClawX
 
-⭐ 7,601 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
+⭐ 7,601 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
 
 **给普通用户的 OpenClaw AI agent 桌面图形界面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ValueCell-ai/ClawX 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 7600 --> 7605
     line [7604, 7602, 7604, 7603, 7601, 7602, 7601, 7601]
 ```
 
-2026-10-18 7,604 → 2026-10-29 7,601（-3）
+2026-10-18 7,604 → 2026-10-30 7,601（-3）
 
 
 ---

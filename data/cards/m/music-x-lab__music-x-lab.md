@@ -1,6 +1,6 @@
 # music-x-lab/music-x-lab
 
-⭐ 36 · 推送 2025-12-08 · [GitHub](https://github.com/music-x-lab/music-x-lab) · 组织维护
+⭐ 37 · 推送 2025-12-08 · [GitHub](https://github.com/music-x-lab/music-x-lab) · 组织维护
 
 **Music X Lab 实验室全部仓库的索引清单**
 
@@ -43,12 +43,12 @@ NYU 上海 Music X Lab 实验室的仓库聚合页：按数据集（POP909、MID
 ```mermaid
 xychart-beta
     title "music-x-lab/music-x-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-18 36 → 2026-10-29 36（+0）
+2026-10-18 36 → 2026-10-30 37（+1）
 
 
 ---

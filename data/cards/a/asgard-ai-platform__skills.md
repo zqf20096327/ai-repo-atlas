@@ -45,12 +45,12 @@ Asgard AI Platform 的技能原料庫：收錄 301 個獨立 SKILL.md 格式的 
 ```mermaid
 xychart-beta
     title "asgard-ai-platform/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 242 --> 244
     line [243, 243]
 ```
 
-2026-10-18 243 → 2026-10-29 243（+0）
+2026-10-18 243 → 2026-10-30 243（+0）
 
 
 ---

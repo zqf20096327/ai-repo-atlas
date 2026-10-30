@@ -1,6 +1,6 @@
 # hwdsl2/scribecrate-live
 
-⭐ 38 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hwdsl2/scribecrate-live) · [官网](https://scribecrate.live) · 个人维护 · 中文 README
+⭐ 38 · Shell · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/hwdsl2/scribecrate-live) · [官网](https://scribecrate.live) · 个人维护 · 中文 README
 
 **自托管实时语音转文字服务器，WebSocket 流式转写 + OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hwdsl2/scribecrate-live 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-29 38（+1）
+2026-10-18 37 → 2026-10-30 38（+1）
 
 
 ---

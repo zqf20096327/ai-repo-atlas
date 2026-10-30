@@ -45,12 +45,12 @@ Karpathy nanochat 的 MLX 移植：在 MacBook 上无 PyTorch 完成数据下载
 ```mermaid
 xychart-beta
     title "scasella/nanochat-mlx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 75 --> 78
     line [76, 77, 77]
 ```
 
-2026-10-18 76 → 2026-10-29 77（+1）
+2026-10-18 76 → 2026-10-30 77（+1）
 
 
 ---

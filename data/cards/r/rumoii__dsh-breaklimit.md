@@ -1,6 +1,6 @@
 # rumoii/dsh-breaklimit
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rumoii/dsh-breaklimit) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rumoii/dsh-breaklimit) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的破限插件：管理宿主补丁、提示词与规则集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rumoii/dsh-breaklimit 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2 --> 21
-    line [3, 8, 12, 15, 16, 17, 18, 20]
+    title "rumoii/dsh-breaklimit 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2 --> 22
+    line [3, 8, 12, 15, 16, 17, 18, 20, 21]
 ```
 
-2026-10-19 3 → 2026-10-29 20（+17）
+2026-10-19 3 → 2026-10-30 21（+18）
 
 
 ---

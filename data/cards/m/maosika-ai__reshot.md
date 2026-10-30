@@ -1,6 +1,6 @@
 # maosika-ai/reshot
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/maosika-ai/reshot) · [官网](https://www.maosika.com) · 组织维护 · 中文 README
+⭐ 54 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/maosika-ai/reshot) · [官网](https://www.maosika.com) · 组织维护 · 中文 README
 
 **把参考视频转成深度图/骨架/边缘线控制视频，供AI视频模型复刻运镜动作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maosika-ai/reshot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 50 --> 54
-    line [51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 50 --> 55
+    line [51, 52, 53, 54]
 ```
 
-2026-10-18 51 → 2026-10-29 53（+2）
+2026-10-18 51 → 2026-10-30 54（+3）
 
 
 ---

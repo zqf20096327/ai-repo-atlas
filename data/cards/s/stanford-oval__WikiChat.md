@@ -1,6 +1,6 @@
 # stanford-oval/WikiChat
 
-⭐ 1,623 · Python · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/stanford-oval/WikiChat) · [官网](https://wikichat.genie.stanford.edu) · 组织维护
+⭐ 1,622 · Python · Apache-2.0 · 推送 2026-01-31 · [GitHub](https://github.com/stanford-oval/WikiChat) · [官网](https://wikichat.genie.stanford.edu) · 组织维护
 
 **基于 Wikipedia 检索的减少 LLM 幻觉对话系统**
 
@@ -44,13 +44,13 @@ Stanford Oval 开发的 RAG 聊天机器人：通过 7 阶段流水线（检索�
 
 ```mermaid
 xychart-beta
-    title "stanford-oval/WikiChat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "stanford-oval/WikiChat 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1621 --> 1625
-    line [1622, 1623, 1622, 1624, 1623]
+    line [1622, 1623, 1622, 1624, 1623, 1622]
 ```
 
-2026-10-18 1,622 → 2026-10-29 1,623（+1）
+2026-10-18 1,622 → 2026-10-30 1,622（+0）
 
 
 ---

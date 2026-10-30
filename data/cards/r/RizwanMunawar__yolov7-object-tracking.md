@@ -1,6 +1,6 @@
 # RizwanMunawar/yolov7-object-tracking
 
-⭐ 653 · Python · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/RizwanMunawar/yolov7-object-tracking) · 个人维护
+⭐ 653 · Python · AGPL-3.0 · 推送 2026-09-11 · [GitHub](https://github.com/RizwanMunawar/yolov7-object-tracking) · [官网](https://rizwanai.com) · 个人维护
 
 **基于 YOLOv7 与 SORT 的目标检测与追踪脚本工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RizwanMunawar/yolov7-object-tracking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 652 --> 654
     line [653, 653]
 ```
 
-2026-10-18 653 → 2026-10-29 653（+0）
+2026-10-18 653 → 2026-10-30 653（+0）
 
 
 ---

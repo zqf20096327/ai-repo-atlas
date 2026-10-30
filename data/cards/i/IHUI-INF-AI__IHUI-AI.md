@@ -1,6 +1,6 @@
 # IHUI-INF-AI/IHUI-AI
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IHUI-INF-AI/IHUI-AI) · [官网](https://aizhs.top) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/IHUI-INF-AI/IHUI-AI) · [官网](https://aizhs.top) · 个人维护 · 中文 README
 
 **自托管全栈 AI 平台：模型网关+Agent 编排+多租户后端+8 端前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IHUI-INF-AI/IHUI-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-29 31（+1）
+2026-10-18 30 → 2026-10-30 31（+1）
 
 
 ---

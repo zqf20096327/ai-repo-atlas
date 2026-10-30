@@ -1,6 +1,6 @@
 # currents-dev/playwright-best-practices-skill
 
-⭐ 412 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/currents-dev/playwright-best-practices-skill) · 组织维护
+⭐ 413 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/currents-dev/playwright-best-practices-skill) · 组织维护
 
 **Playwright 测试最佳实践 AI 技能包：给 AI 助手提供专项参考**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "currents-dev/playwright-best-practices-skill 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 399 --> 413
-    line [400, 402, 405, 406, 407, 409, 411, 412, 412]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 399 --> 414
+    line [400, 402, 405, 406, 407, 409, 411, 412, 413]
 ```
 
-2026-10-18 400 → 2026-10-29 412（+12）
+2026-10-18 400 → 2026-10-30 413（+13）
 
 
 ---

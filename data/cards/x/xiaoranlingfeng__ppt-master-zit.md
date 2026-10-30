@@ -1,6 +1,6 @@
 # xiaoranlingfeng/ppt-master-zit
 
-⭐ 140 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
+⭐ 142 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
 
 **ppt-master 的本机分支：AI 配图改走本地 ComfyUI 生成可编辑 PPTX**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoranlingfeng/ppt-master-zit 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 130 --> 141
-    line [131, 132, 133, 135, 137, 140]
+    title "xiaoranlingfeng/ppt-master-zit 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 130 --> 143
+    line [131, 132, 133, 135, 137, 140, 142]
 ```
 
-2026-10-24 131 → 2026-10-29 140（+9）
+2026-10-24 131 → 2026-10-30 142（+11）
 
 
 ---

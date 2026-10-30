@@ -1,6 +1,6 @@
 # Signal-Drifts/AI-History
 
-⭐ 39 · 推送 2026-05-08 · [GitHub](https://github.com/Signal-Drifts/AI-History) · 个人维护
+⭐ 38 · 推送 2026-05-08 · [GitHub](https://github.com/Signal-Drifts/AI-History) · 个人维护
 
 **按时间顺序逐篇讲述 90 年 AI 史的 66 章科普读物仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Signal-Drifts/AI-History 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 37 --> 40
+    line [39, 38]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 38（-1）
 
 
 ---

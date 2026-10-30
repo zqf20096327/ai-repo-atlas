@@ -1,6 +1,6 @@
 # bradeGithub/DSH-Plugins-Marketplace
 
-⭐ 195 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/bradeGithub/DSH-Plugins-Marketplace) · 组织维护 · 中文 README
+⭐ 196 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/bradeGithub/DSH-Plugins-Marketplace) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的插件市场插件：GUI 内浏览/安装/更新 GitHub dsh-plugin 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bradeGithub/DSH-Plugins-Marketplace 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 176 --> 196
-    line [177, 182, 188, 191, 190, 192, 194, 195]
+    title "bradeGithub/DSH-Plugins-Marketplace 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 176 --> 197
+    line [177, 182, 188, 191, 190, 192, 194, 195, 196]
 ```
 
-2026-10-18 177 → 2026-10-29 195（+18）
+2026-10-18 177 → 2026-10-30 196（+19）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "k-kolomeitsev/data-structure-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 68（+0）
 
 
 ---

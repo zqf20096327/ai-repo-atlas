@@ -1,6 +1,6 @@
 # TensoriumCore/Tensorium_lib
 
-⭐ 25 · C++ · MIT · 推送 2026-09-20 · [GitHub](https://github.com/TensoriumCore/Tensorium_lib) · 组织维护
+⭐ 25 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TensoriumCore/Tensorium_lib) · 组织维护
 
 **面向数值相对论的 C++17 张量与网格核 HPC 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TensoriumCore/Tensorium_lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

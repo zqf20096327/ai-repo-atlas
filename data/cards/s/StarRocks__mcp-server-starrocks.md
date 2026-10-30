@@ -44,13 +44,13 @@ StarRocks 官方维护的 Model Context Protocol 服务器，作为 AI 助手与
 
 ```mermaid
 xychart-beta
-    title "StarRocks/mcp-server-starrocks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "StarRocks/mcp-server-starrocks 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 194 --> 197
-    line [195, 196]
+    line [195, 196, 196]
 ```
 
-2026-10-18 195 → 2026-10-29 196（+1）
+2026-10-18 195 → 2026-10-30 196（+1）
 
 
 ---

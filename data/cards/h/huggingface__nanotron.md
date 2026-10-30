@@ -1,6 +1,6 @@
 # huggingface/nanotron
 
-⭐ 2,848 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/huggingface/nanotron) · 组织维护
+⭐ 2,850 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/huggingface/nanotron) · 组织维护
 
 **面向研究者的极简 LLM 3D 并行预训练库**
 
@@ -45,12 +45,12 @@ Hugging Face 维护的 transformer 模型预训练库，提供简单灵活的 AP
 ```mermaid
 xychart-beta
     title "huggingface/nanotron 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2842 --> 2849
-    line [2843, 2844, 2846, 2847, 2848, 2848]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2842 --> 2851
+    line [2843, 2844, 2846, 2847, 2848, 2850]
 ```
 
-2026-10-18 2,843 → 2026-10-29 2,848（+5）
+2026-10-18 2,843 → 2026-10-30 2,850（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # llm-misinformation/llm-misinformation
 
-⭐ 88 · Shell · 推送 2026-07-11 · [GitHub](https://github.com/llm-misinformation/llm-misinformation) · [官网](https://llm-misinformation.github.io/) · 组织维护
+⭐ 89 · Shell · 推送 2026-07-11 · [GitHub](https://github.com/llm-misinformation/llm-misinformation) · [官网](https://llm-misinformation.github.io/) · 组织维护
 
 **ICLR 2024 论文数据集与检测代码：LLM 生成虚假信息可否被检测**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "llm-misinformation/llm-misinformation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-29 88（+0）
+2026-10-18 88 → 2026-10-30 89（+1）
 
 
 ---

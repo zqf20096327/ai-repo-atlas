@@ -1,6 +1,6 @@
 # aliaihub/awesome-hermes-usecases
 
-⭐ 278 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aliaihub/awesome-hermes-usecases) · 组织维护
+⭐ 279 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aliaihub/awesome-hermes-usecases) · 组织维护
 
 **Hermes Agent 真实用例策展清单，每条附一手来源证据**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliaihub/awesome-hermes-usecases 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 264 --> 279
-    line [265, 266, 268, 270, 272, 273, 277, 278]
+    title "aliaihub/awesome-hermes-usecases 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 264 --> 280
+    line [265, 266, 268, 270, 272, 273, 277, 278, 279]
 ```
 
-2026-10-18 265 → 2026-10-29 278（+13）
+2026-10-18 265 → 2026-10-30 279（+14）
 
 
 ---

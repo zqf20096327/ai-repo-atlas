@@ -1,6 +1,6 @@
 # IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio
 
-⭐ 30 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio) · [官网](https://dicecodes.com/) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio) · [官网](https://dicecodes.com/) · 组织维护
 
 **自托管的 AI SEO 内容工作室：写作、审计、评分一站式**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "IamRamgarhia/BlogPilot-Open-Source-AI-SEO-Content-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 33]
 ```
 
-2026-10-18 29 → 2026-10-29 30（+1）
+2026-10-18 29 → 2026-10-30 33（+4）
 
 
 ---

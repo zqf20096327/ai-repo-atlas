@@ -47,12 +47,12 @@ Ruby 编写的 CLI 工具：读取 bz2 压缩的 Wikipedia XML dump，去除 Med
 ```mermaid
 xychart-beta
     title "yohasebe/wp2txt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 195 --> 197
     line [196, 196]
 ```
 
-2026-10-18 196 → 2026-10-29 196（+0）
+2026-10-18 196 → 2026-10-30 196（+0）
 
 
 ---

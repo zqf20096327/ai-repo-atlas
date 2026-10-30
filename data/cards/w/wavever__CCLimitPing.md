@@ -1,6 +1,6 @@
 # wavever/CCLimitPing
 
-⭐ 57 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wavever/CCLimitPing) · 个人维护 · 中文 README
+⭐ 58 · Go · MIT · 推送 2026-10-23 · [GitHub](https://github.com/wavever/CCLimitPing) · 个人维护 · 中文 README
 
 **CLI 工具：在 Claude Code/Codex 5h 限额窗口重置瞬间自动触发新窗口**
 
@@ -45,13 +45,13 @@ Go 编写的单一自包含二进制 CLI（别名 lmp），面向 Claude Code �
 
 ```mermaid
 xychart-beta
-    title "wavever/CCLimitPing 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57]
+    title "wavever/CCLimitPing 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-10-29 57（+2）
+2026-10-18 55 → 2026-10-30 58（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # VectifyAI/ConDB
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/VectifyAI/ConDB) · [官网](https://pageindex.ai) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/VectifyAI/ConDB) · [官网](https://pageindex.ai) · 组织维护
 
 **面向推理检索的 KV-cache 原生上下文数据库**
 
@@ -45,12 +45,12 @@ ConDB 是树结构的上下文数据库，用 LLM 推理式树搜索替代向量
 ```mermaid
 xychart-beta
     title "VectifyAI/ConDB 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 64 --> 70
     line [65, 67, 69, 69]
 ```
 
-2026-10-18 65 → 2026-10-29 69（+4）
+2026-10-18 65 → 2026-10-30 69（+4）
 
 
 ---

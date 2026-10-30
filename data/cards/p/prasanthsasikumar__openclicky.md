@@ -1,6 +1,6 @@
 # prasanthsasikumar/openclicky
 
-⭐ 17 · C# · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/prasanthsasikumar/openclicky) · [官网](https://openclicky.flowsxr.com) · 个人维护
+⭐ 17 · C# · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/prasanthsasikumar/openclicky) · [官网](https://openclicky.flowsxr.com) · 个人维护
 
 **macOS 语音助手：语音问屏定位答案、离线听写、交接任务给 Codex**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "prasanthsasikumar/openclicky 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "prasanthsasikumar/openclicky 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 8 --> 18
-    line [9, 11, 12, 13, 14, 15, 16, 17]
+    line [9, 11, 12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-18 9 → 2026-10-29 17（+8）
+2026-10-18 9 → 2026-10-30 17（+8）
 
 
 ---

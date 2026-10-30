@@ -1,6 +1,6 @@
 # openmake/openmake_llm
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openmake/openmake_llm) · [官网](https://openmake.cc/en/) · 组织维护 · 中文 README
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openmake/openmake_llm) · [官网](https://openmake.cc/en/) · 组织维护 · 中文 README
 
 **自托管 AI 工作台：编排多模型、agent 与 MCP 工具完成通用任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openmake/openmake_llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "openmake/openmake_llm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-29 44（+1）
+2026-10-18 43 → 2026-10-30 44（+1）
 
 
 ---

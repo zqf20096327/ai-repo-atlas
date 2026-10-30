@@ -1,6 +1,6 @@
 # FadingLight9291117/vscode-arkts
 
-⭐ 27 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/FadingLight9291117/vscode-arkts) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/FadingLight9291117/vscode-arkts) · 个人维护 · 中文 README
 
 **给鸿蒙开发者的 VS Code ArkTS 语言支持扩展，含 20 个 MCP 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FadingLight9291117/vscode-arkts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 26（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # imkofty/Hermuse
 
-⭐ 140 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/imkofty/Hermuse) · 个人维护
+⭐ 142 · Shell · MIT · 推送 2026-10-23 · [GitHub](https://github.com/imkofty/Hermuse) · 个人维护
 
 **自托管部署 Hermes agent + Telegram AI 机器人的运维脚本栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "imkofty/Hermuse 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 127 --> 141
-    line [128, 133, 137, 140, 140]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 127 --> 143
+    line [128, 133, 137, 140, 142]
 ```
 
-2026-10-24 128 → 2026-10-29 140（+12）
+2026-10-24 128 → 2026-10-30 142（+14）
 
 
 ---

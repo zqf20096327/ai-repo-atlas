@@ -1,6 +1,6 @@
 # yylo-dev/yylo
 
-⭐ 66 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/yylo-dev/yylo) · [官网](https://yylo.dev) · 个人维护
+⭐ 66 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yylo-dev/yylo) · [官网](https://yylo.dev) · 个人维护
 
 **面向开发者的编码代理编排 CLI，提供任务/合并/工作流边界**
 
@@ -45,12 +45,12 @@ YYLO 是命令行编码代理编排器：运行代理会话（如 Pi）、执行
 ```mermaid
 xychart-beta
     title "yylo-dev/yylo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
     y-axis "stars" 62 --> 67
     line [63, 65, 66, 66]
 ```
 
-2026-10-18 63 → 2026-10-29 66（+3）
+2026-10-18 63 → 2026-10-30 66（+3）
 
 
 ---

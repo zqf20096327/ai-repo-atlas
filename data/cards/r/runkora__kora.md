@@ -1,6 +1,6 @@
 # runkora/kora
 
-⭐ 52 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/runkora/kora) · [官网](https://runkora.io) · 组织维护
+⭐ 54 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/runkora/kora) · [官网](https://runkora.io) · 组织维护
 
 **生产环境运行 agent 工厂的开源控制平面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "runkora/kora 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 22 --> 54
-    line [24, 26, 27, 41, 45, 52]
+    title "runkora/kora 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 57
+    line [24, 26, 27, 41, 45, 52, 54]
 ```
 
-2026-10-24 24 → 2026-10-29 52（+28）
+2026-10-24 24 → 2026-10-30 54（+30）
 
 
 ---

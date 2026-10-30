@@ -44,13 +44,13 @@ Go 编写的 Threes! 棋盘游戏 AI，采用 Expectimax 最大期望搜索树�
 
 ```mermaid
 xychart-beta
-    title "halfrost/threes-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "halfrost/threes-ai 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 164 --> 167
-    line [165, 166]
+    line [165, 166, 166]
 ```
 
-2026-10-18 165 → 2026-10-29 166（+1）
+2026-10-18 165 → 2026-10-30 166（+1）
 
 
 ---

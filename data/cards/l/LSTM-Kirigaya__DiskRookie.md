@@ -1,6 +1,6 @@
 # LSTM-Kirigaya/DiskRookie
 
-⭐ 80 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/LSTM-Kirigaya/DiskRookie) · 个人维护 · 中文 README
+⭐ 81 · TypeScript · NOASSERTION · 推送 2026-04-12 · [GitHub](https://github.com/LSTM-Kirigaya/DiskRookie) · 个人维护 · 中文 README
 
 **面向小白的 AI 磁盘清理助手：扫描分析并建议删除或迁移**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LSTM-Kirigaya/DiskRookie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-18 80 → 2026-10-29 80（+0）
+2026-10-18 80 → 2026-10-30 81（+1）
 
 
 ---

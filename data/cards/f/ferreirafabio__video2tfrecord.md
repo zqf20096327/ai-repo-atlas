@@ -45,12 +45,12 @@ Python 包，把 .avi/.mp4 等 RGB 视频转写为 TensorFlow 的 TFRecord 文�
 ```mermaid
 xychart-beta
     title "ferreirafabio/video2tfrecord 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 153 --> 155
     line [154, 154]
 ```
 
-2026-10-18 154 → 2026-10-29 154（+0）
+2026-10-18 154 → 2026-10-30 154（+0）
 
 
 ---

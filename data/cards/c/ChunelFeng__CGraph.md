@@ -1,6 +1,6 @@
 # ChunelFeng/CGraph
 
-⭐ 2,315 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChunelFeng/CGraph) · [官网](http://www.chunel.cn) · 个人维护 · 中文 README
+⭐ 2,316 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ChunelFeng/CGraph) · [官网](http://www.chunel.cn) · 个人维护 · 中文 README
 
 **纯 C++/Python 的跨平台 DAG 图流程并行执行框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChunelFeng/CGraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2311 --> 2316
-    line [2312, 2314, 2315, 2315]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 2311 --> 2317
+    line [2312, 2314, 2315, 2316]
 ```
 
-2026-10-18 2,312 → 2026-10-29 2,315（+3）
+2026-10-18 2,312 → 2026-10-30 2,316（+4）
 
 
 ---

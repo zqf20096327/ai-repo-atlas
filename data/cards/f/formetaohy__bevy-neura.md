@@ -1,6 +1,6 @@
 # formetaohy/bevy-neura
 
-⭐ 54 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/formetaohy/bevy-neura) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/formetaohy/bevy-neura) · 个人维护
 
 **Bevy 游戏引擎的 AI 原生训练与推理库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "formetaohy/bevy-neura 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 13 --> 57
-    line [16, 32, 38, 47, 52, 53, 54]
+    title "formetaohy/bevy-neura 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 13 --> 58
+    line [16, 32, 38, 47, 52, 53, 54, 55]
 ```
 
-2026-10-18 16 → 2026-10-29 54（+38）
+2026-10-18 16 → 2026-10-30 55（+39）
 
 
 ---

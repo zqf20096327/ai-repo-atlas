@@ -1,6 +1,6 @@
 # simonprovost/scikit-longitudinal
 
-⭐ 85 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/simonprovost/scikit-longitudinal) · [官网](https://scikit-longitudinal.readthedocs.io/latest/) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/simonprovost/scikit-longitudinal) · [官网](https://scikit-longitudinal.readthedocs.io/latest/) · 个人维护
 
 **面向纵向（长期追踪）数据的 Scikit-Learn 风格机器学习库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "simonprovost/scikit-longitudinal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 83 --> 86
     line [84, 85, 85]
 ```
 
-2026-10-18 84 → 2026-10-29 85（+1）
+2026-10-18 84 → 2026-10-30 85（+1）
 
 
 ---

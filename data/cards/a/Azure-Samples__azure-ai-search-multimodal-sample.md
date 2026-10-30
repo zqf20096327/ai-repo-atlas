@@ -1,6 +1,6 @@
 # Azure-Samples/azure-ai-search-multimodal-sample
 
-⭐ 68 · Python · MIT · 推送 2026-01-23 · [GitHub](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/azure-ai-search-multimodal-sample) · 组织维护
 
 **Azure 上的多模态 RAG 问答示例应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-ai-search-multimodal-sample 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 68（+0）
 
 
 ---

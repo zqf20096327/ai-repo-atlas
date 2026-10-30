@@ -1,6 +1,6 @@
 # sapientorius/Nebulynk
 
-⭐ 325 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 个人维护
+⭐ 325 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 个人维护
 
 **自托管团队协作平台：聊天、会议与可选 AI 辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sapientorius/Nebulynk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 227 --> 342
     line [236, 333, 332, 325, 325]
 ```
 
-2026-10-18 236 → 2026-10-29 325（+89）
+2026-10-18 236 → 2026-10-30 325（+89）
 
 
 ---

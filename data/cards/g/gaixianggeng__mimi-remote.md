@@ -1,6 +1,6 @@
 # gaixianggeng/mimi-remote
 
-⭐ 109 · Swift · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/gaixianggeng/mimi-remote) · [官网](https://remote.code89757.com/) · 个人维护 · 中文 README
+⭐ 110 · Swift · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/gaixianggeng/mimi-remote) · [官网](https://remote.code89757.com/) · 个人维护 · 中文 README
 
 **从 iPhone/iPad 远程操控 Codex 与 Claude Code 的自托管客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaixianggeng/mimi-remote 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 104 --> 110
-    line [105, 106, 107, 108, 109, 109]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 104 --> 111
+    line [105, 106, 107, 108, 109, 110]
 ```
 
-2026-10-18 105 → 2026-10-29 109（+4）
+2026-10-18 105 → 2026-10-30 110（+5）
 
 
 ---

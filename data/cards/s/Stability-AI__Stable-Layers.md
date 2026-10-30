@@ -1,6 +1,6 @@
 # Stability-AI/Stable-Layers
 
-⭐ 26 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/Stability-AI/Stable-Layers) · 组织维护
+⭐ 27 · Python · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/Stability-AI/Stable-Layers) · 组织维护
 
 **将单张 RGB 图像分解为可编辑 RGBA 图层的推理模型**
 
@@ -45,12 +45,12 @@ Stability-AI 发布的推理专用模型代码库：将单张 RGB 图像分解�
 ```mermaid
 xychart-beta
     title "Stability-AI/Stable-Layers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27]
 ```
 
-2026-10-18 25 → 2026-10-29 26（+1）
+2026-10-18 25 → 2026-10-30 27（+2）
 
 
 ---

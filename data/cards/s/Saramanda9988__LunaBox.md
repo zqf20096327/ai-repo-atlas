@@ -1,6 +1,6 @@
 # Saramanda9988/LunaBox
 
-⭐ 385 · Go · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Saramanda9988/LunaBox) · [官网](https://box.lunarain.site) · 个人维护 · 中文 README
+⭐ 385 · Go · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Saramanda9988/LunaBox) · [官网](https://box.lunarain.site) · 个人维护 · 中文 README
 
 **视觉小说/游戏库管理与游玩统计工具，附 AI 数据洞察**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Saramanda9988/LunaBox 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
     y-axis "stars" 378 --> 386
     line [379, 383, 384, 385, 385]
 ```
 
-2026-10-18 379 → 2026-10-29 385（+6）
+2026-10-18 379 → 2026-10-30 385（+6）
 
 
 ---

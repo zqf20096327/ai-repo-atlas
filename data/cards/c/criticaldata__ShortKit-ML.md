@@ -1,6 +1,6 @@
 # criticaldata/ShortKit-ML
 
-⭐ 18 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/criticaldata/ShortKit-ML) · [官网](https://criticaldata.github.io/ShortKit-ML/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/criticaldata/ShortKit-ML) · [官网](https://criticaldata.github.io/ShortKit-ML/) · 组织维护
 
 **检测与缓解机器学习嵌入空间中捷径与偏差的统一工具包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "criticaldata/ShortKit-ML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

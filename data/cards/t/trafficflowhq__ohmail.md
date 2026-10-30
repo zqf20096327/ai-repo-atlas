@@ -1,6 +1,6 @@
 # trafficflowhq/ohmail
 
-⭐ 88 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/trafficflowhq/ohmail) · [官网](https://ohmail.app) · 组织维护
+⭐ 88 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/trafficflowhq/ohmail) · [官网](https://ohmail.app) · 组织维护
 
 **连接现有 IMAP 邮箱的同意优先邮件客户端，带可选 AI 筛选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "trafficflowhq/ohmail 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "trafficflowhq/ohmail 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 82 --> 89
-    line [83, 84, 87, 88, 87, 88]
+    line [83, 84, 87, 88, 87, 88, 88]
 ```
 
-2026-10-18 83 → 2026-10-29 88（+5）
+2026-10-18 83 → 2026-10-30 88（+5）
 
 
 ---

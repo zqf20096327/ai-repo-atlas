@@ -1,6 +1,6 @@
 # memtomem/memtomem
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/memtomem/memtomem) · [官网](https://memtomem.com) · 个人维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/memtomem/memtomem) · [官网](https://memtomem.com) · 个人维护 · 中文 README
 
 **Markdown 优先的 AI agent 长期记忆基础设施（MCP 混合检索）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "memtomem/memtomem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    title "memtomem/memtomem 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 20（+2）
 
 
 ---

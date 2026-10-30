@@ -1,6 +1,6 @@
 # daodao97/chatmcp
 
-⭐ 2,226 · Dart · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/daodao97/chatmcp) · [官网](https://daodao97.github.io/chatmcp/) · 个人维护 · 中文 README
+⭐ 2,225 · Dart · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/daodao97/chatmcp) · [官网](https://daodao97.github.io/chatmcp/) · 个人维护 · 中文 README
 
 **跨平台 MCP 协议 AI 聊天客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daodao97/chatmcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "daodao97/chatmcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2224 --> 2230
-    line [2229, 2228, 2227, 2226, 2225, 2227, 2226]
+    line [2229, 2228, 2227, 2226, 2225, 2227, 2226, 2225]
 ```
 
-2026-10-18 2,229 → 2026-10-29 2,226（-3）
+2026-10-18 2,229 → 2026-10-30 2,225（-4）
 
 
 ---

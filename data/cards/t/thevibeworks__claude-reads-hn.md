@@ -1,6 +1,6 @@
 # thevibeworks/claude-reads-hn
 
-⭐ 17 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thevibeworks/claude-reads-hn) · [官网](https://thevibeworks.github.io/claude-reads-hn) · 个人维护
+⭐ 17 · HTML · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/thevibeworks/claude-reads-hn) · [官网](https://thevibeworks.github.io/claude-reads-hn) · 个人维护
 
 **Claude 定时读 Hacker News 生成辣评摘要并推送的自动化仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thevibeworks/claude-reads-hn 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-29 17（+1）
+2026-10-18 16 → 2026-10-30 17（+1）
 
 
 ---

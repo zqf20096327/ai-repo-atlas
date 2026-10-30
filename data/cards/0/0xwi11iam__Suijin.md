@@ -1,6 +1,6 @@
 # 0xwi11iam/Suijin
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/0xwi11iam/Suijin) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/0xwi11iam/Suijin) · 个人维护
 
 **面向渗透测试者的全自主 Web 渗透/红队 agent 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "0xwi11iam/Suijin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 17 --> 21
     line [19, 18, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # edkdev/defi-trading-mcp
 
-⭐ 55 · JavaScript · 推送 2026-06-10 · [GitHub](https://github.com/edkdev/defi-trading-mcp) · 个人维护
+⭐ 54 · JavaScript · 推送 2026-06-10 · [GitHub](https://github.com/edkdev/defi-trading-mcp) · 个人维护
 
 **把 AI 助手接入 DeFi 交易的 MCP 服务器（17+ 链）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "edkdev/defi-trading-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 53 --> 56
+    line [55, 54]
 ```
 
-2026-10-18 55 → 2026-10-29 55（+0）
+2026-10-18 55 → 2026-10-30 54（-1）
 
 
 ---

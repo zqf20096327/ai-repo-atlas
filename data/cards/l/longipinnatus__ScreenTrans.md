@@ -1,6 +1,6 @@
 # longipinnatus/ScreenTrans
 
-⭐ 24 · Kotlin · GPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/longipinnatus/ScreenTrans) · 个人维护 · 中文 README
+⭐ 25 · Kotlin · GPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/longipinnatus/ScreenTrans) · 个人维护 · 中文 README
 
 **Android 屏幕实时 OCR 翻译工具，可接入自定义 LLM API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "longipinnatus/ScreenTrans 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

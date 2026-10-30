@@ -45,12 +45,12 @@ Sagentic.ai Agent Framework 是面向 TypeScript 开发者的自主 Agent 开发
 ```mermaid
 xychart-beta
     title "sagentic-ai/sagentic-af 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-29 79（+0）
+2026-10-18 79 → 2026-10-30 79（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/contrastive-rl
 
-⭐ 74 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lucidrains/contrastive-rl) · 个人维护
+⭐ 74 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lucidrains/contrastive-rl) · 个人维护
 
 **对比强化学习（Contrastive RL）PyTorch 实现库，供研究跟进**
 
@@ -45,12 +45,12 @@ lucidrains 维护的对比强化学习研究实现：将对比学习与目标条
 ```mermaid
 xychart-beta
     title "lucidrains/contrastive-rl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 72 --> 75
     line [73, 74, 74]
 ```
 
-2026-10-18 73 → 2026-10-29 74（+1）
+2026-10-18 73 → 2026-10-30 74（+1）
 
 
 ---

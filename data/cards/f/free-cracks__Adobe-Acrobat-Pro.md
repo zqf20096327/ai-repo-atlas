@@ -1,6 +1,6 @@
 # free-cracks/Adobe-Acrobat-Pro
 
-⭐ 288 · 推送 2026-10-26 · [GitHub](https://github.com/free-cracks/Adobe-Acrobat-Pro) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 上 Adobe Acrobat Pro 的预激活独立部署脚本包**
 

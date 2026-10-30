@@ -44,13 +44,13 @@ antirez/ds4 的 gfx1151（Strix Halo）优化分支：为 AMD APU 添加 ROCmFPX
 
 ```mermaid
 xychart-beta
-    title "julianmb/ds4fa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    title "julianmb/ds4fa 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19]
+    line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-29 19（+2）
+2026-10-18 17 → 2026-10-30 19（+2）
 
 
 ---

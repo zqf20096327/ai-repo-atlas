@@ -1,6 +1,6 @@
 # radicalbit/radicalbit-ai-gateway
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/radicalbit/radicalbit-ai-gateway) · [官网](https://docs.ai-gateway.radicalbit.ai/) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/radicalbit/radicalbit-ai-gateway) · [官网](https://docs.ai-gateway.radicalbit.ai/) · 组织维护
 
 **带护栏与可观测性的 LLM 网关，UI 配置并可自然语言生成 YAML**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "radicalbit/radicalbit-ai-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30"]
     y-axis "stars" 70 --> 73
     line [71, 72, 71, 71]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 71（+0）
 
 
 ---

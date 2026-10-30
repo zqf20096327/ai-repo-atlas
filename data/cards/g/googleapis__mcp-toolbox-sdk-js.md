@@ -43,12 +43,12 @@ Google 维护的 JavaScript/TypeScript SDK 集合，用于连接运行中的 MCP
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-29 77（+0）
+2026-10-18 77 → 2026-10-30 77（+0）
 
 
 ---

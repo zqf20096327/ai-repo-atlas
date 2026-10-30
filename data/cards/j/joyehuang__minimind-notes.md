@@ -1,6 +1,6 @@
 # joyehuang/minimind-notes
 
-⭐ 223 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/joyehuang/minimind-notes) · [官网](https://www.minimind.wiki/) · 个人维护 · 中文 README
+⭐ 224 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/joyehuang/minimind-notes) · [官网](https://www.minimind.wiki/) · 个人维护 · 中文 README
 
 **从零理解 LLM 训练原理的模块化教程与对比实验集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joyehuang/minimind-notes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 217 --> 224
-    line [218, 220, 221, 222, 223, 223]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 217 --> 225
+    line [218, 220, 221, 222, 223, 224]
 ```
 
-2026-10-18 218 → 2026-10-29 223（+5）
+2026-10-18 218 → 2026-10-30 224（+6）
 
 
 ---

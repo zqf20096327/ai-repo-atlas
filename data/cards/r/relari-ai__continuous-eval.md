@@ -1,6 +1,6 @@
 # relari-ai/continuous-eval
 
-⭐ 519 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/relari-ai/continuous-eval) · [官网](https://continuous-eval.docs.relari.ai/) · 组织维护
+⭐ 520 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/relari-ai/continuous-eval) · [官网](https://continuous-eval.docs.relari.ai/) · 组织维护
 
 **面向 LLM 应用的数据驱动评测框架（含 RAG/Agent/代码生成指标库）**
 
@@ -46,12 +46,12 @@ continuous-eval 是用于 LLM 应用数据驱动评测的 Python 包：提供模
 ```mermaid
 xychart-beta
     title "relari-ai/continuous-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 518 --> 520
-    line [519, 519]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 518 --> 521
+    line [519, 520]
 ```
 
-2026-10-18 519 → 2026-10-29 519（+0）
+2026-10-18 519 → 2026-10-30 520（+1）
 
 
 ---

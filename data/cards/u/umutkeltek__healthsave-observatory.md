@@ -1,6 +1,6 @@
 # umutkeltek/healthsave-observatory
 
-⭐ 102 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/umutkeltek/healthsave-observatory) · [官网](https://healthsave.app/for/self-hosters/) · 个人维护
+⭐ 102 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/umutkeltek/healthsave-observatory) · [官网](https://healthsave.app/for/self-hosters/) · 个人维护
 
 **自托管健康数据观测台：聚合 Apple Health/穿戴设备数据并提供本地 AI 解读**
 
@@ -47,12 +47,12 @@ HealthSave iOS 应用的自托管后端：通过 HealthSave iOS 同步 Apple Hea
 ```mermaid
 xychart-beta
     title "umutkeltek/healthsave-observatory 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 100 --> 103
     line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-10-29 102（+1）
+2026-10-18 101 → 2026-10-30 102（+1）
 
 
 ---

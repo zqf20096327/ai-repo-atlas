@@ -1,6 +1,6 @@
 # JavdexLabs/Javdex
 
-⭐ 38 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/JavdexLabs/Javdex) · [官网](https://javdexlabs.github.io/Javdex/) · 组织维护 · 中文 README
+⭐ 38 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/JavdexLabs/Javdex) · [官网](https://javdexlabs.github.io/Javdex/) · 组织维护 · 中文 README
 
 **本地 JAV 影片库管理工具：自动建库、刮削资料、AI 字幕**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JavdexLabs/Javdex 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 21 --> 39
     line [22, 23, 30, 32, 33, 34, 36, 38, 38]
 ```
 
-2026-10-18 22 → 2026-10-29 38（+16）
+2026-10-18 22 → 2026-10-30 38（+16）
 
 
 ---

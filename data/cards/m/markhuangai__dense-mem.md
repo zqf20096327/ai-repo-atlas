@@ -1,6 +1,6 @@
 # markhuangai/dense-mem
 
-⭐ 39 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/markhuangai/dense-mem) · [官网](https://markhuang.ai/blog/ai-memory-beyond-rag) · 个人维护 · 中文 README
+⭐ 39 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/markhuangai/dense-mem) · [官网](https://markhuang.ai/blog/ai-memory-beyond-rag) · 个人维护 · 中文 README
 
 **自托管的 MCP 记忆服务器：为 AI agent 提供持久证据与受控召回**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "markhuangai/dense-mem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Yamz-Labs/kyojin
 
-⭐ 216 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Yamz-Labs/kyojin) · [官网](https://yamzlabs.com) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Yamz-Labs/kyojin) · [官网](https://yamzlabs.com) · 组织维护
 
 **面向 AMD Strix Halo（ROCm）的 128GB 单机大模型推理引擎**
 
@@ -46,13 +46,13 @@ Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gf
 
 ```mermaid
 xychart-beta
-    title "Yamz-Labs/kyojin 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 179 --> 219
-    line [182, 194, 198, 201, 205, 209, 210, 212, 216]
+    title "Yamz-Labs/kyojin 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 179 --> 221
+    line [182, 194, 198, 201, 205, 209, 210, 212, 216, 218]
 ```
 
-2026-10-18 182 → 2026-10-29 216（+34）
+2026-10-18 182 → 2026-10-30 218（+36）
 
 
 ---

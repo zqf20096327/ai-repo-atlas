@@ -1,6 +1,6 @@
 # ausboss/ComfyUI-AusBoss
 
-⭐ 98 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ausboss/ComfyUI-AusBoss) · [官网](https://registry.comfy.org/nodes/ausboss-nodes) · 个人维护
+⭐ 100 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ausboss/ComfyUI-AusBoss) · [官网](https://registry.comfy.org/nodes/ausboss-nodes) · 个人维护
 
 **ComfyUI 图像/视频处理自定义节点包，含遮罩、裁剪、扩图、放大等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ausboss/ComfyUI-AusBoss 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 60 --> 101
-    line [63, 69, 76, 81, 85, 88, 92, 94, 98]
+    title "ausboss/ComfyUI-AusBoss 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 60 --> 103
+    line [63, 69, 76, 81, 85, 88, 92, 94, 98, 100]
 ```
 
-2026-10-18 63 → 2026-10-29 98（+35）
+2026-10-18 63 → 2026-10-30 100（+37）
 
 
 ---

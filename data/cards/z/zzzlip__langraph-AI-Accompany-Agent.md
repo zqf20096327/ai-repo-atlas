@@ -1,6 +1,6 @@
 # zzzlip/langraph-AI-Accompany-Agent
 
-⭐ 21 · Python · 推送 2025-11-03 · [GitHub](https://github.com/zzzlip/langraph-AI-Accompany-Agent) · 个人维护 · 中文 README
+⭐ 22 · Python · 推送 2025-11-03 · [GitHub](https://github.com/zzzlip/langraph-AI-Accompany-Agent) · 个人维护 · 中文 README
 
 **AI 角色扮演陪伴应用：持久记忆的对话与社交生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zzzlip/langraph-AI-Accompany-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

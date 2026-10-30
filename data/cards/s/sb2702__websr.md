@@ -1,6 +1,6 @@
 # sb2702/websr
 
-⭐ 190 · Jupyter Notebook · MIT · 推送 2026-09-18 · [GitHub](https://github.com/sb2702/websr) · [官网](https://websr.dev) · 个人维护
+⭐ 192 · Jupyter Notebook · MIT · 推送 2026-09-18 · [GitHub](https://github.com/sb2702/websr) · [官网](https://websr.dev) · 个人维护
 
 **浏览器内实时 AI 超分辨率 JS 库，用 WebGPU 放大视频/图像**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sb2702/websr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 187 --> 191
-    line [188, 189, 190, 190]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 187 --> 193
+    line [188, 189, 190, 192]
 ```
 
-2026-10-18 188 → 2026-10-29 190（+2）
+2026-10-18 188 → 2026-10-30 192（+4）
 
 
 ---

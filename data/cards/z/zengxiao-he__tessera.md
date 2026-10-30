@@ -1,6 +1,6 @@
 # zengxiao-he/tessera
 
-⭐ 559 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/zengxiao-he/tessera) · 个人维护
+⭐ 558 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/zengxiao-he/tessera) · 个人维护
 
 **从零实现的 LLM 蒸馏与推理服务引擎（训练+内核+服务端）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zengxiao-he/tessera 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 557 --> 562
-    line [561, 558, 559, 559]
+    line [561, 558, 559, 558]
 ```
 
-2026-10-18 561 → 2026-10-29 559（-2）
+2026-10-18 561 → 2026-10-30 558（-3）
 
 
 ---

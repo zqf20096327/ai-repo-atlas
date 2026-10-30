@@ -1,6 +1,6 @@
 # mathworks/MATLAB-Simulink-Challenge-Project-Hub
 
-⭐ 2,240 · HTML · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) · 组织维护
+⭐ 2,246 · HTML · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) · 组织维护
 
 **MathWorks 维护的学生挑战项目清单：工科研究/设计课题策展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mathworks/MATLAB-Simulink-Challenge-Project-Hub 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2224 --> 2241
-    line [2225, 2226, 2230, 2233, 2232, 2234, 2236, 2237, 2240]
+    title "mathworks/MATLAB-Simulink-Challenge-Project-Hub 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2223 --> 2248
+    line [2225, 2226, 2230, 2233, 2232, 2234, 2236, 2237, 2240, 2246]
 ```
 
-2026-10-18 2,225 → 2026-10-29 2,240（+15）
+2026-10-18 2,225 → 2026-10-30 2,246（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # hubooooooo/claude-code-harness-study
 
-⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hubooooooo/claude-code-harness-study) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hubooooooo/claude-code-harness-study) · 个人维护 · 中文 README
 
 **面向学习者的 Agent Harness 工程教程：17 课拆解 Claude Code 机制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hubooooooo/claude-code-harness-study 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-24 19 → 2026-10-29 20（+1）
+2026-10-24 19 → 2026-10-30 21（+2）
 
 
 ---

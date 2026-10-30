@@ -1,6 +1,6 @@
 # edwko/OuteTTS
 
-⭐ 1,440 · Python · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/edwko/OuteTTS) · [官网](https://outeai.com) · 组织维护
+⭐ 1,441 · Python · Apache-2.0 · 推送 2026-03-23 · [GitHub](https://github.com/edwko/OuteTTS) · [官网](https://outeai.com) · 组织维护
 
 **OuteTTS 语音合成模型的 Python 接口库，统一多后端调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edwko/OuteTTS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1435 --> 1442
-    line [1436, 1438, 1441, 1440, 1440]
+    line [1436, 1438, 1441, 1440, 1441]
 ```
 
-2026-10-18 1,436 → 2026-10-29 1,440（+4）
+2026-10-18 1,436 → 2026-10-30 1,441（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # tsaipifong/whirl-llm
 
-⭐ 35 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tsaipifong/whirl-llm) · 个人维护 · 中文 README
+⭐ 36 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tsaipifong/whirl-llm) · 个人维护 · 中文 README
 
 **Windows 原生 C++/HIP 的 AMD GPU LLM 推理引擎，解压即用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tsaipifong/whirl-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 24 --> 36
-    line [25, 29, 34, 35]
+    title "tsaipifong/whirl-llm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 24 --> 37
+    line [25, 29, 34, 35, 36]
 ```
 
-2026-10-18 25 → 2026-10-29 35（+10）
+2026-10-18 25 → 2026-10-30 36（+11）
 
 
 ---

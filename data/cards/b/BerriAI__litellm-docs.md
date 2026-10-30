@@ -1,6 +1,6 @@
 # BerriAI/litellm-docs
 
-⭐ 45 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BerriAI/litellm-docs) · [官网](https://litellm.vercel.app) · 组织维护
+⭐ 45 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BerriAI/litellm-docs) · [官网](https://litellm.vercel.app) · 组织维护
 
 **LiteLLM 官方文档站点的文档源码仓库**
 
@@ -42,13 +42,13 @@ LiteLLM 官方文档（docs.litellm.ai）的源码仓库，基于 Docusaurus 3 �
 
 ```mermaid
 xychart-beta
-    title "BerriAI/litellm-docs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
+    title "BerriAI/litellm-docs 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 38 --> 46
-    line [39, 40, 41, 42, 44, 45]
+    line [39, 40, 41, 42, 44, 45, 45]
 ```
 
-2026-10-18 39 → 2026-10-29 45（+6）
+2026-10-18 39 → 2026-10-30 45（+6）
 
 
 ---

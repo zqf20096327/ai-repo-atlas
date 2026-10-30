@@ -1,6 +1,6 @@
 # poco-ai/poco-claw
 
-⭐ 1,357 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/poco-ai/poco-claw) · [官网](https://poco-docs.vercel.app/) · 组织维护 · 中文 README
+⭐ 1,356 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/poco-ai/poco-claw) · [官网](https://poco-docs.vercel.app/) · 组织维护 · 中文 README
 
 **面向团队协作的自托管 AI agent 应用，OpenClaw 替代品**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "poco-ai/poco-claw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
+    title "poco-ai/poco-claw 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1353 --> 1358
-    line [1354, 1356, 1357, 1356, 1357]
+    line [1354, 1356, 1357, 1356, 1357, 1356]
 ```
 
-2026-10-18 1,354 → 2026-10-29 1,357（+3）
+2026-10-18 1,354 → 2026-10-30 1,356（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # alephpi/Texo-web
 
-⭐ 67 · Vue · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo-web) · [官网](https://texocr.netlify.app) · 个人维护 · 中文 README
+⭐ 68 · Vue · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/alephpi/Texo-web) · [官网](https://texocr.netlify.app) · 个人维护 · 中文 README
 
 **在浏览器中运行 20M 参数 LaTeX OCR 模型的 Web 应用**
 
@@ -46,12 +46,12 @@ Texo-web 是 Texo LaTeX 公式识别模型的前端 Web 应用，基于 Nuxt 与
 ```mermaid
 xychart-beta
     title "alephpi/Texo-web 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 66 --> 69
+    line [67, 68]
 ```
 
-2026-10-18 67 → 2026-10-29 67（+0）
+2026-10-18 67 → 2026-10-30 68（+1）
 
 
 ---

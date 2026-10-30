@@ -1,6 +1,6 @@
 # stefanoamorelli/sec-edgar-mcp
 
-⭐ 380 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [官网](https://sec-edgar-mcp.amorelli.tech/) · 个人维护
+⭐ 381 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/stefanoamorelli/sec-edgar-mcp) · [官网](https://sec-edgar-mcp.amorelli.tech/) · 个人维护
 
 **供 AI 助手访问 SEC EDGAR 财务数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stefanoamorelli/sec-edgar-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 372 --> 381
-    line [373, 374, 377, 378, 380]
+    title "stefanoamorelli/sec-edgar-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 372 --> 382
+    line [373, 374, 377, 378, 380, 381]
 ```
 
-2026-10-18 373 → 2026-10-29 380（+7）
+2026-10-18 373 → 2026-10-30 381（+8）
 
 
 ---

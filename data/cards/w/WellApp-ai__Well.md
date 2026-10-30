@@ -1,6 +1,6 @@
 # WellApp-ai/Well
 
-⭐ 346 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WellApp-ai/Well) · [官网](https://wellapp.ai/) · 组织维护
+⭐ 347 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WellApp-ai/Well) · [官网](https://wellapp.ai/) · 组织维护
 
 **自动抓取供应商发票并接入记账系统的 Chrome 扩展**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "WellApp-ai/Well 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 344 --> 347
-    line [345, 346, 346]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 344 --> 348
+    line [345, 346, 347]
 ```
 
-2026-10-18 345 → 2026-10-29 346（+1）
+2026-10-18 345 → 2026-10-30 347（+2）
 
 
 ---

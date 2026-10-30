@@ -1,6 +1,6 @@
 # open-source-labs/mlflow-js
 
-⭐ 40 · TypeScript · MIT · 推送 2026-01-01 · [GitHub](https://github.com/open-source-labs/mlflow-js) · [官网](https://mlflow-js.org/) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-01-01 · [GitHub](https://github.com/open-source-labs/mlflow-js) · [官网](https://mlflow-js.org/) · 组织维护
 
 **面向 JS/TS 开发者的 MLflow 客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-source-labs/mlflow-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 41（+1）
 
 
 ---

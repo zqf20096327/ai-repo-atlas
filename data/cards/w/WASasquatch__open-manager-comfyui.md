@@ -1,6 +1,6 @@
 # WASasquatch/open-manager-comfyui
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WASasquatch/open-manager-comfyui) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/WASasquatch/open-manager-comfyui) · 个人维护
 
 **ComfyUI 的替代包管理器：管理节点包、模型与文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WASasquatch/open-manager-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mukosame/Anime2Sketch
 
-⭐ 2,139 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mukosame/Anime2Sketch) · 个人维护
+⭐ 2,138 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Mukosame/Anime2Sketch) · 个人维护
 
 **将插画/动漫/漫画图像提取为线稿的深度学习工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mukosame/Anime2Sketch 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "Mukosame/Anime2Sketch 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2134 --> 2140
-    line [2135, 2137, 2138, 2139]
+    line [2135, 2137, 2138, 2139, 2138]
 ```
 
-2026-10-18 2,135 → 2026-10-29 2,139（+4）
+2026-10-18 2,135 → 2026-10-30 2,138（+3）
 
 
 ---

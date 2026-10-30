@@ -41,13 +41,13 @@ langchain-ai 组织下的 Redis 集成仓库，根 README 仅作索引：包含�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-redis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "langchain-ai/langchain-redis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 67 --> 70
-    line [69, 68]
+    line [69, 68, 68]
 ```
 
-2026-10-18 69 → 2026-10-29 68（-1）
+2026-10-18 69 → 2026-10-30 68（-1）
 
 
 ---

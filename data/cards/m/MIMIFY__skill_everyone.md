@@ -1,6 +1,6 @@
 # MIMIFY/skill_everyone
 
-⭐ 63 · HTML · MIT · 推送 2026-04-13 · [GitHub](https://github.com/MIMIFY/skill_everyone) · 个人维护 · 中文 README
+⭐ 64 · HTML · MIT · 推送 2026-04-13 · [GitHub](https://github.com/MIMIFY/skill_everyone) · 个人维护 · 中文 README
 
 **为 Claude Code 生成可对话角色 Skill 的角色扮演工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MIMIFY/skill_everyone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-10-29 63（+1）
+2026-10-18 62 → 2026-10-30 64（+2）
 
 
 ---

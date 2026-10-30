@@ -1,6 +1,6 @@
 # IvanMurzak/Unreal-MCP
 
-⭐ 52 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/IvanMurzak/Unreal-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 52 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/IvanMurzak/Unreal-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **把 Unreal Editor 接入 MCP AI agent 的 C++ 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanMurzak/Unreal-MCP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "IvanMurzak/Unreal-MCP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 47 --> 53
-    line [48, 49, 51, 52]
+    line [48, 49, 51, 52, 52]
 ```
 
-2026-10-18 48 → 2026-10-29 52（+4）
+2026-10-18 48 → 2026-10-30 52（+4）
 
 
 ---

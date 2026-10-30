@@ -1,6 +1,6 @@
 # CalamityXeroc/GIS-agent
 
-⭐ 37 · Python · 推送 2026-10-28 · [GitHub](https://github.com/CalamityXeroc/GIS-agent) · [官网](https://www.bst-note.top/gis-agent) · 个人维护 · 中文 README
+⭐ 38 · Python · 推送 2026-10-28 · [GitHub](https://github.com/CalamityXeroc/GIS-agent) · [官网](https://www.bst-note.top/gis-agent) · 个人维护 · 中文 README
 
 **面向 ArcGIS Pro 工作流的中文 GIS 任务智能体框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CalamityXeroc/GIS-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 32 --> 38
-    line [33, 35, 36, 37]
+    title "CalamityXeroc/GIS-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 32 --> 39
+    line [33, 35, 36, 37, 38]
 ```
 
-2026-10-18 33 → 2026-10-29 37（+4）
+2026-10-18 33 → 2026-10-30 38（+5）
 
 
 ---

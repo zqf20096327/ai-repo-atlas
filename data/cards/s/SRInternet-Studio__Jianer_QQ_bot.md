@@ -1,6 +1,6 @@
 # SRInternet-Studio/Jianer_QQ_bot
 
-⭐ 139 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/SRInternet-Studio/Jianer_QQ_bot) · 组织维护 · 中文 README
+⭐ 140 · Python · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/SRInternet-Studio/Jianer_QQ_bot) · 组织维护 · 中文 README
 
 **基于 OneBot v11 的 QQ 群机器人：多模型 AI 对话与群管娱乐**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SRInternet-Studio/Jianer_QQ_bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 137 --> 140
-    line [138, 139, 139]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 137 --> 141
+    line [138, 139, 140]
 ```
 
-2026-10-18 138 → 2026-10-29 139（+1）
+2026-10-18 138 → 2026-10-30 140（+2）
 
 
 ---

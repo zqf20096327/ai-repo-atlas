@@ -1,6 +1,6 @@
 # tacticocc/Jevbridge
 
-⭐ 48 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/tacticocc/Jevbridge) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/tacticocc/Jevbridge) · 个人维护
 
 **把 TypeSafe Jev 接入 LLM 的 MCP/ACP 决策适配器**
 
@@ -46,12 +46,12 @@ Node 22 零依赖库，附带 MCP 与 ACP stdio 二进制。它把 TypeSafe Jev�
 ```mermaid
 xychart-beta
     title "tacticocc/Jevbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 46 --> 49
+    line [48, 47]
 ```
 
-2026-10-18 48 → 2026-10-29 48（+0）
+2026-10-18 48 → 2026-10-30 47（-1）
 
 
 ---

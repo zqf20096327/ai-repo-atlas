@@ -1,6 +1,6 @@
 # argoproj-labs/mcp-for-argocd
 
-⭐ 598 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/argoproj-labs/mcp-for-argocd) · [官网](https://www.npmjs.com/package/argocd-mcp) · 组织维护
+⭐ 601 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/argoproj-labs/mcp-for-argocd) · [官网](https://www.npmjs.com/package/argocd-mcp) · 组织维护
 
 **面向 Argo CD 的 MCP 服务器，让 AI 助手用自然语言管理 Argo CD**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "argoproj-labs/mcp-for-argocd 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 587 --> 599
-    line [588, 590, 591, 594, 595, 596, 598, 598]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 587 --> 602
+    line [588, 590, 591, 594, 595, 596, 598, 601]
 ```
 
-2026-10-18 588 → 2026-10-29 598（+10）
+2026-10-18 588 → 2026-10-30 601（+13）
 
 
 ---

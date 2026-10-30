@@ -1,6 +1,6 @@
 # Jinfeng-Xu/Multimodal-Recommendation-Library
 
-⭐ 323 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 组织维护 · 中文 README
+⭐ 323 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 组织维护 · 中文 README
 
 **面向研究的多模态推荐模型库与基准（26 个模型）**
 
@@ -44,13 +44,13 @@ MRLib 是研究导向的多模态推荐开源库：收录 2016-2026 年来自 AA
 
 ```mermaid
 xychart-beta
-    title "Jinfeng-Xu/Multimodal-Recommendation-Library 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "Jinfeng-Xu/Multimodal-Recommendation-Library 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 318 --> 324
-    line [319, 320, 321, 322, 323]
+    line [319, 320, 321, 322, 323, 323]
 ```
 
-2026-10-18 319 → 2026-10-29 323（+4）
+2026-10-18 319 → 2026-10-30 323（+4）
 
 
 ---

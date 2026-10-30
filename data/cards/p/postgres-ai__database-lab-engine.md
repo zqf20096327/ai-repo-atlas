@@ -1,6 +1,6 @@
 # postgres-ai/database-lab-engine
 
-⭐ 2,781 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/postgres-ai/database-lab-engine) · [官网](https://postgres.ai/products/how-it-works) · 组织维护
+⭐ 2,781 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/postgres-ai/database-lab-engine) · [官网](https://postgres.ai/products/how-it-works) · 组织维护
 
 **PostgreSQL 数据库秒级克隆与分支工具，服务开发测试环境**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "postgres-ai/database-lab-engine 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "postgres-ai/database-lab-engine 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2777 --> 2782
-    line [2778, 2780, 2778, 2780, 2781]
+    line [2778, 2780, 2778, 2780, 2781, 2781]
 ```
 
-2026-10-19 2,778 → 2026-10-29 2,781（+3）
+2026-10-19 2,778 → 2026-10-30 2,781（+3）
 
 
 ---

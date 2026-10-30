@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mus-taches/comfyui-scene-composer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-29 80（+0）
+2026-10-18 80 → 2026-10-30 80（+0）
 
 
 ---

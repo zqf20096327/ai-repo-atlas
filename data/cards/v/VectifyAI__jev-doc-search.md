@@ -1,6 +1,6 @@
 # VectifyAI/jev-doc-search
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/VectifyAI/jev-doc-search) · [官网](pageindex.ai) · 组织维护
+⭐ 160 · Python · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/VectifyAI/jev-doc-search) · [官网](pageindex.ai) · 组织维护
 
 **面向开发者的长文档检索方案：用 Jev Choice 树搜索定位 PDF 页面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VectifyAI/jev-doc-search 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 152 --> 160
-    line [153, 154, 155, 156, 157, 159]
+    title "VectifyAI/jev-doc-search 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 152 --> 161
+    line [153, 154, 155, 156, 157, 159, 160]
 ```
 
-2026-10-18 153 → 2026-10-29 159（+6）
+2026-10-18 153 → 2026-10-30 160（+7）
 
 
 ---

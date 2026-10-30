@@ -1,6 +1,6 @@
 # vayungodara/cliproxy-rs
 
-⭐ 48 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/vayungodara/cliproxy-rs) · 个人维护
+⭐ 48 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/vayungodara/cliproxy-rs) · 个人维护
 
 **本地 LLM API 代理：让 Codex CLI、Claude Code 用 DeepSeek/GLM/Kimi 等模型**
 
@@ -45,13 +45,13 @@ CLIProxyAPI 的 Rust 重写版，兼容目标冻结在 Go v8.0.35，读取相同
 
 ```mermaid
 xychart-beta
-    title "vayungodara/cliproxy-rs 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "vayungodara/cliproxy-rs 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 37 --> 49
-    line [38, 41, 42, 43, 44, 46, 47, 48]
+    line [38, 41, 42, 43, 44, 46, 47, 48, 48]
 ```
 
-2026-10-18 38 → 2026-10-29 48（+10）
+2026-10-18 38 → 2026-10-30 48（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # hydro13/tandem-browser
 
-⭐ 624 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hydro13/tandem-browser) · [官网](https://tandembrowser.org/) · 个人维护
+⭐ 624 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hydro13/tandem-browser) · [官网](https://tandembrowser.org/) · 个人维护
 
 **本地优先的 Electron 浏览器：人与 AI agent 共用同一浏览器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hydro13/tandem-browser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "hydro13/tandem-browser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 622 --> 626
-    line [623, 625, 624]
+    line [623, 625, 624, 624]
 ```
 
-2026-10-18 623 → 2026-10-29 624（+1）
+2026-10-18 623 → 2026-10-30 624（+1）
 
 
 ---

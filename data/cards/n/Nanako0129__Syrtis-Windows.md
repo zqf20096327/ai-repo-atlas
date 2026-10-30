@@ -1,6 +1,6 @@
 # Nanako0129/Syrtis-Windows
 
-⭐ 40 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Nanako0129/Syrtis-Windows) · 个人维护 · 中文 README
+⭐ 40 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Nanako0129/Syrtis-Windows) · 个人维护 · 中文 README
 
 **Windows 托盘监控器：追踪 AI 编程 agent 的 token 用量、费用与配额**
 
@@ -45,12 +45,12 @@ TokenBar 的 Windows 移植版：Rust 解析核心（tokscale-core）加 WinUI 3
 ```mermaid
 xychart-beta
     title "Nanako0129/Syrtis-Windows 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 22 --> 41
     line [23, 40, 40]
 ```
 
-2026-10-18 23 → 2026-10-29 40（+17）
+2026-10-18 23 → 2026-10-30 40（+17）
 
 
 ---

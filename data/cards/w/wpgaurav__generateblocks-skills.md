@@ -40,6 +40,18 @@
 > L5: LLM-optimized skill documentation and development resources for the GenerateBlocks WordPress plugin.
 > L144: |Skill|Purpose|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wpgaurav/generateblocks-skills 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 140 --> 142
+    line [141, 141]
+```
+
+2026-10-29 141 → 2026-10-30 141（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `778fc0b9baab` · [字段定义](../../DATASET.md)*

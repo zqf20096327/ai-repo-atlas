@@ -1,6 +1,6 @@
 # divagr18/qwenputer
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
+⭐ 218 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
 
 **把 RISC-V CPU 编译进语言模型权重的实验模型：模型内精确计算**
 
@@ -40,6 +40,18 @@
 > L6: **Qwenputer is a new kind of experimental model: Qwen3.5-4B with a 32-bit RISC-V CPU compiled and
 > L8: transformer layers in front of Qwen's own, and none of their weights are learned: a compiler
 > L15: The CPU runs C and MicroPython code inside the model's forward passes, and passes the official
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "divagr18/qwenputer 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 42 --> 234
+    line [58, 218]
+```
+
+2026-10-29 58 → 2026-10-30 218（+160）
 
 
 ---

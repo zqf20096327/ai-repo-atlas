@@ -46,12 +46,12 @@ Microsoft 维护的 Python CLI 与 GitHub Action，调用 OpenAI 或 Azure OpenA
 ```mermaid
 xychart-beta
     title "microsoft/gpt-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 300 --> 302
     line [301, 301]
 ```
 
-2026-10-18 301 → 2026-10-29 301（+0）
+2026-10-18 301 → 2026-10-30 301（+0）
 
 
 ---

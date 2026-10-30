@@ -1,6 +1,6 @@
 # zxbb1190/VoxGo_game_voice_trans
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/zxbb1190/VoxGo_game_voice_trans) · [官网](http://voxgo.cn/) · 个人维护 · 中文 README
+⭐ 25 · Python · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/zxbb1190/VoxGo_game_voice_trans) · [官网](http://voxgo.cn/) · 个人维护 · 中文 README
 
 **给 PC 游戏玩家的实时语音翻译浮窗，识别并翻译游戏语音**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zxbb1190/VoxGo_game_voice_trans 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24]
+    title "zxbb1190/VoxGo_game_voice_trans 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 23, 24, 25]
 ```
 
-2026-10-18 20 → 2026-10-29 24（+4）
+2026-10-18 20 → 2026-10-30 25（+5）
 
 
 ---

@@ -44,12 +44,12 @@ Rumale 的扩展 gem，让用 torch.rb 定义的神经网络以与 Rumale 相同
 ```mermaid
 xychart-beta
     title "yoshoku/rumale-torch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ohdearquant/lionagi
 
-⭐ 412 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ohdearquant/lionagi) · [官网](https://khive.ai) · 组织维护
+⭐ 412 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ohdearquant/lionagi) · [官网](https://khive.ai) · 组织维护
 
 **Python 多智能体编排框架：构建、运行与治理 agent 工作流**
 
@@ -46,12 +46,12 @@ lionagi 是一个多智能体编排框架，提供 Python API 与 `li` CLI 两�
 ```mermaid
 xychart-beta
     title "ohdearquant/lionagi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 411 --> 413
     line [412, 412]
 ```
 
-2026-10-18 412 → 2026-10-29 412（+0）
+2026-10-18 412 → 2026-10-30 412（+0）
 
 
 ---

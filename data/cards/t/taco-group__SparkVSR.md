@@ -1,6 +1,6 @@
 # taco-group/SparkVSR
 
-⭐ 745 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/taco-group/SparkVSR) · [官网](https://sparkvsr.github.io) · 组织维护
+⭐ 746 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/taco-group/SparkVSR) · [官网](https://sparkvsr.github.io) · 组织维护
 
 **基于稀疏关键帧传播的交互式视频超分辨率框架**
 
@@ -45,12 +45,12 @@ ECCV 2026 论文的官方实现：交互式视频超分辨率框架，用户先�
 ```mermaid
 xychart-beta
     title "taco-group/SparkVSR 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 743 --> 746
-    line [744, 745, 744, 745, 745]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 743 --> 747
+    line [744, 745, 744, 745, 746]
 ```
 
-2026-10-18 744 → 2026-10-29 745（+1）
+2026-10-18 744 → 2026-10-30 746（+2）
 
 
 ---

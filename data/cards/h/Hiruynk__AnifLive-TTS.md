@@ -1,6 +1,6 @@
 # Hiruynk/AnifLive-TTS
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Hiruynk/AnifLive-TTS) · [官网](http://demo.aniflive-tts-studio.diurnoctra.com) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/Hiruynk/AnifLive-TTS) · [官网](http://demo.aniflive-tts-studio.diurnoctra.com) · 个人维护 · 中文 README
 
 **基于 GPT-SoVITS 的低延迟多语言语音克隆 TTS 运行时，粤语优先**
 
@@ -45,13 +45,13 @@ AnifEngine-Voice 的第一方 TTS 运行时，以 GPT-SoVITS 为基础重写推�
 
 ```mermaid
 xychart-beta
-    title "Hiruynk/AnifLive-TTS 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 13 --> 25
-    line [14, 21, 24]
+    title "Hiruynk/AnifLive-TTS 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 13 --> 29
+    line [14, 21, 24, 28]
 ```
 
-2026-10-26 14 → 2026-10-29 24（+10）
+2026-10-26 14 → 2026-10-30 28（+14）
 
 
 ---

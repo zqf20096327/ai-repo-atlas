@@ -1,6 +1,6 @@
 # sgl-project/sgl-nvidia-mega
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sgl-nvidia-mega) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sgl-project/sgl-nvidia-mega) · 组织维护
 
 **SGLang 的 NVIDIA megakernel 插件：加速小批量 decode 步**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sgl-nvidia-mega 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 19 --> 38
-    line [20, 23, 26, 27, 29, 34, 37]
+    title "sgl-project/sgl-nvidia-mega 星数(近 8 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 18 --> 42
+    line [20, 23, 26, 27, 29, 34, 37, 40]
 ```
 
-2026-10-22 20 → 2026-10-29 37（+17）
+2026-10-22 20 → 2026-10-30 40（+20）
 
 
 ---

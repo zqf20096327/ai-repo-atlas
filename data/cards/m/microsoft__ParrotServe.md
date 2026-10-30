@@ -45,12 +45,12 @@ Parrot 是微软开源的 LLM 应用 serving 系统研究原型，通过 Semanti
 ```mermaid
 xychart-beta
     title "microsoft/ParrotServe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 227 --> 229
     line [228, 228]
 ```
 
-2026-10-18 228 → 2026-10-29 228（+0）
+2026-10-18 228 → 2026-10-30 228（+0）
 
 
 ---

@@ -40,6 +40,18 @@ PowerElyan Linux 是一个多架构 Linux 发行版，声称针对 AI 推理、�
 > L13: A multi-architecture Linux distribution optimized for AI inference, cryptocurrency mining, and exotic hardware.
 > L44: - llama.cpp with PSE optimizations
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/power8-projects 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 58 --> 60
+    line [59, 59]
+```
+
+2026-10-29 59 → 2026-10-30 59（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `2362da16da9b` · [字段定义](../../DATASET.md)*

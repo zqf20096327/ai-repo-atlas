@@ -1,6 +1,6 @@
 # kkollsga/kglite
 
-⭐ 74 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kkollsga/kglite) · 个人维护
+⭐ 74 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kkollsga/kglite) · 个人维护
 
 **面向 LLM agent 的嵌入式 Cypher 知识图谱引擎（Python/Rust）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kkollsga/kglite 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
     y-axis "stars" 70 --> 75
     line [71, 72, 73, 74, 74]
 ```
 
-2026-10-18 71 → 2026-10-29 74（+3）
+2026-10-18 71 → 2026-10-30 74（+3）
 
 
 ---

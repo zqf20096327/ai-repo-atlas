@@ -1,6 +1,6 @@
 # MiniMax-AI/VTP
 
-⭐ 509 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/MiniMax-AI/VTP) · [官网](https://huggingface.co/collections/MiniMaxAI/vtp) · 组织维护 · 中文 README
+⭐ 510 · Python · NOASSERTION · 推送 2026-04-15 · [GitHub](https://github.com/MiniMax-AI/VTP) · [官网](https://huggingface.co/collections/MiniMaxAI/vtp) · 组织维护 · 中文 README
 
 **面向生成的可扩展视觉分词器预训练框架（VTP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MiniMax-AI/VTP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 508 --> 511
-    line [510, 509, 509]
+    line [510, 509, 510]
 ```
 
-2026-10-18 510 → 2026-10-29 509（-1）
+2026-10-18 510 → 2026-10-30 510（+0）
 
 
 ---

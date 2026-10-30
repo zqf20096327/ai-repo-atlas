@@ -1,6 +1,6 @@
 # keith2018/TinyGPT
 
-⭐ 131 · C++ · MIT · 推送 2026-06-23 · [GitHub](https://github.com/keith2018/TinyGPT) · 个人维护
+⭐ 132 · C++ · MIT · 推送 2026-06-23 · [GitHub](https://github.com/keith2018/TinyGPT) · 个人维护
 
 **从零实现的 C++ LLM 推理引擎，含 OpenAI 兼容服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "keith2018/TinyGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-18 131 → 2026-10-29 131（+0）
+2026-10-18 131 → 2026-10-30 132（+1）
 
 
 ---

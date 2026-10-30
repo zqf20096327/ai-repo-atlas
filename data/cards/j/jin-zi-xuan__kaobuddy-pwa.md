@@ -1,6 +1,6 @@
 # jin-zi-xuan/kaobuddy-pwa
 
-⭐ 392 · TypeScript · 推送 2026-09-17 · [GitHub](https://github.com/jin-zi-xuan/kaobuddy-pwa) · 个人维护 · 中文 README
+⭐ 391 · TypeScript · 推送 2026-09-17 · [GitHub](https://github.com/jin-zi-xuan/kaobuddy-pwa) · 个人维护 · 中文 README
 
 **给临时抱佛脚者的 AI 备考工作台，BYOK 自带 Key**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jin-zi-xuan/kaobuddy-pwa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 386 --> 393
-    line [387, 388, 390, 392, 392]
+    line [387, 388, 390, 392, 391]
 ```
 
-2026-10-18 387 → 2026-10-29 392（+5）
+2026-10-18 387 → 2026-10-30 391（+4）
 
 
 ---

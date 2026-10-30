@@ -1,6 +1,6 @@
 # aiworkskills/wechat-article-skills
 
-⭐ 715 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/aiworkskills/wechat-article-skills) · [官网](https://aiworkskills.cn) · 组织维护 · 中文 README
+⭐ 716 · Python · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/aiworkskills/wechat-article-skills) · [官网](https://aiworkskills.cn) · 组织维护 · 中文 README
 
 **微信公众号 AI 运营技能包：选题到发文全流程技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aiworkskills/wechat-article-skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 695 --> 716
-    line [696, 702, 704, 705, 706, 707, 711, 713, 715]
+    title "aiworkskills/wechat-article-skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 694 --> 718
+    line [696, 702, 704, 705, 706, 707, 711, 713, 715, 716]
 ```
 
-2026-10-18 696 → 2026-10-29 715（+19）
+2026-10-18 696 → 2026-10-30 716（+20）
 
 
 ---

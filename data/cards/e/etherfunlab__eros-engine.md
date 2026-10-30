@@ -1,6 +1,6 @@
 # etherfunlab/eros-engine
 
-⭐ 71 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/etherfunlab/eros-engine) · [官网](https://eros.etherfun.xyz) · 组织维护 · 中文 README
+⭐ 72 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/etherfunlab/eros-engine) · [官网](https://eros.etherfun.xyz) · 组织维护 · 中文 README
 
 **Rust 编写的 AI 陪伴角色引擎：持久记忆、关系状态与角色决策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "etherfunlab/eros-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 65 --> 72
-    line [66, 70, 71]
+    title "etherfunlab/eros-engine 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 65 --> 73
+    line [66, 70, 71, 72]
 ```
 
-2026-10-18 66 → 2026-10-29 71（+5）
+2026-10-18 66 → 2026-10-30 72（+6）
 
 
 ---

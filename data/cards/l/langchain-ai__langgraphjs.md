@@ -1,6 +1,6 @@
 # langchain-ai/langgraphjs
 
-⭐ 3,386 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langgraphjs) · [官网](https://docs.langchain.com/oss/javascript/langgraph/) · 组织维护
+⭐ 3,386 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/langgraphjs) · [官网](https://docs.langchain.com/oss/javascript/langgraph/) · 组织维护
 
 **构建有状态智能体的低层编排框架（TypeScript）**
 
@@ -45,13 +45,13 @@ LangChain Inc 出品的 JavaScript/TypeScript 低层编排框架，以图结构�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraphjs 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "langchain-ai/langgraphjs 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3357 --> 3388
-    line [3359, 3364, 3371, 3370, 3371, 3370, 3371, 3373, 3380, 3386]
+    line [3359, 3364, 3371, 3370, 3371, 3370, 3371, 3373, 3380, 3386, 3386]
 ```
 
-2026-10-18 3,359 → 2026-10-29 3,386（+27）
+2026-10-18 3,359 → 2026-10-30 3,386（+27）
 
 
 ---

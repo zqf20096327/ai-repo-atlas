@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/labs-molt
 
-⭐ 1,209 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · 组织维护
+⭐ 1,209 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · 组织维护
 
 **面向科研的 agentic-first 强化学习训练框架（PyTorch/HF 原生）**
 
@@ -45,13 +45,13 @@ NVIDIA NeMo Labs 出品的大模型 RL/SFT 训练框架：agent 即程序，通�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/labs-molt 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "NVIDIA-NeMo/labs-molt 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1197 --> 1210
-    line [1198, 1202, 1207, 1206, 1207, 1208, 1209]
+    line [1198, 1202, 1207, 1206, 1207, 1208, 1209, 1209]
 ```
 
-2026-10-18 1,198 → 2026-10-29 1,209（+11）
+2026-10-18 1,198 → 2026-10-30 1,209（+11）
 
 
 ---

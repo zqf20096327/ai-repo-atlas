@@ -1,6 +1,6 @@
 # RectangleStory/Superpowers_Multi_AI
 
-⭐ 76 · BSD-3-Clause · 推送 2026-09-14 · [GitHub](https://github.com/RectangleStory/Superpowers_Multi_AI) · 个人维护
+⭐ 77 · BSD-3-Clause · 推送 2026-09-14 · [GitHub](https://github.com/RectangleStory/Superpowers_Multi_AI) · 个人维护
 
 **给 AI 编程助手的模块化提示词纪律框架，含 Windows 启动器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RectangleStory/Superpowers_Multi_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 76]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 77]
 ```
 
-2026-10-18 75 → 2026-10-29 76（+1）
+2026-10-18 75 → 2026-10-30 77（+2）
 
 
 ---

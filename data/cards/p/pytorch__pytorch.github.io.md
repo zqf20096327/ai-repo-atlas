@@ -1,6 +1,6 @@
 # pytorch/pytorch.github.io
 
-⭐ 288 · HTML · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/pytorch/pytorch.github.io) · [官网](https://pytorch.org) · 组织维护
+⭐ 288 · HTML · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/pytorch/pytorch.github.io) · [官网](https://pytorch.org) · 组织维护
 
 **PyTorch 官网的 Jekyll 静态站点源码仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/pytorch.github.io 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
     y-axis "stars" 285 --> 289
     line [286, 287, 288, 288]
 ```
 
-2026-10-18 286 → 2026-10-29 288（+2）
+2026-10-18 286 → 2026-10-30 288（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # roketskiy/fintwind
 
-⭐ 30 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/roketskiy/fintwind) · [官网](https://fintwind.xyz) · 个人维护 · 中文 README
+⭐ 30 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/roketskiy/fintwind) · [官网](https://fintwind.xyz) · 个人维护 · 中文 README
 
 **OpenCode 2 的原生 Windows 桌面客户端（Rust+GPUI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "roketskiy/fintwind 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 23 --> 31
     line [24, 25, 27, 26, 29, 30, 30]
 ```
 
-2026-10-18 24 → 2026-10-29 30（+6）
+2026-10-18 24 → 2026-10-30 30（+6）
 
 
 ---

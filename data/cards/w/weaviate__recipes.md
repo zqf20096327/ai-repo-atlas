@@ -1,6 +1,6 @@
 # weaviate/recipes
 
-⭐ 950 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/weaviate/recipes) · 组织维护
+⭐ 951 · Jupyter Notebook · 推送 2026-10-21 · [GitHub](https://github.com/weaviate/recipes) · 组织维护
 
 **Weaviate 官方示例集：端到端 notebook 覆盖功能与集成**
 
@@ -45,12 +45,12 @@ Weaviate 维护的示例仓库，以 Jupyter notebook 形式提供端到端用�
 ```mermaid
 xychart-beta
     title "weaviate/recipes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 949 --> 951
-    line [950, 950]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 949 --> 952
+    line [950, 951]
 ```
 
-2026-10-18 950 → 2026-10-29 950（+0）
+2026-10-18 950 → 2026-10-30 951（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # daydreamsai/daydreams
 
-⭐ 623 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/daydreamsai/daydreams) · [官网](https://docs.daydreams.systems/) · 组织维护
+⭐ 624 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/daydreamsai/daydreams) · [官网](https://docs.daydreams.systems/) · 组织维护
 
 **构建可组合上下文 AI agent 的 TypeScript 框架（已转向 Agentic Commerce）**
 
@@ -46,13 +46,13 @@ TypeScript 优先的 agent 框架，核心机制是可组合上下文架构：�
 
 ```mermaid
 xychart-beta
-    title "daydreamsai/daydreams 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "daydreamsai/daydreams 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 620 --> 625
-    line [621, 622, 623, 624, 623]
+    line [621, 622, 623, 624, 623, 624]
 ```
 
-2026-10-18 621 → 2026-10-29 623（+2）
+2026-10-18 621 → 2026-10-30 624（+3）
 
 
 ---

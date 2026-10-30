@@ -1,6 +1,6 @@
 # yzr278892/arxiv-daily-researcher
 
-⭐ 318 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/yzr278892/arxiv-daily-researcher) · 个人维护 · 中文 README
+⭐ 319 · Python · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/yzr278892/arxiv-daily-researcher) · 个人维护 · 中文 README
 
 **面向科研人员的 arXiv 论文追踪与中文摘要报告生成工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yzr278892/arxiv-daily-researcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 317 --> 319
-    line [318, 318]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 317 --> 320
+    line [318, 319]
 ```
 
-2026-10-18 318 → 2026-10-29 318（+0）
+2026-10-18 318 → 2026-10-30 319（+1）
 
 
 ---

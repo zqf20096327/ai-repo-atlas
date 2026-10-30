@@ -1,6 +1,6 @@
 # MichaelTMatthews/Craftax
 
-⭐ 465 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MichaelTMatthews/Craftax) · 组织维护
+⭐ 466 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MichaelTMatthews/Craftax) · 组织维护
 
 **纯 JAX 实现的开放式强化学习基准环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MichaelTMatthews/Craftax 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 460 --> 466
-    line [461, 462, 463, 464, 465, 465]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 460 --> 467
+    line [461, 462, 463, 464, 465, 466]
 ```
 
-2026-10-18 461 → 2026-10-29 465（+4）
+2026-10-18 461 → 2026-10-30 466（+5）
 
 
 ---

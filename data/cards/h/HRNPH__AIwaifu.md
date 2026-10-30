@@ -1,6 +1,6 @@
 # HRNPH/AIwaifu
 
-⭐ 518 · Python · GPL-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/HRNPH/AIwaifu) · 个人维护
+⭐ 517 · Python · GPL-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/HRNPH/AIwaifu) · 个人维护
 
 **自托管可定制的 AI 虚拟伴侣（waifu）平台，可对话/直播**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HRNPH/AIwaifu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 517 --> 520
-    line [518, 519, 518, 518]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 516 --> 520
+    line [518, 519, 518, 517]
 ```
 
-2026-10-18 518 → 2026-10-29 518（+0）
+2026-10-18 518 → 2026-10-30 517（-1）
 
 
 ---

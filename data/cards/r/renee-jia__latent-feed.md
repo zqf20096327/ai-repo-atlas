@@ -1,6 +1,6 @@
 # renee-jia/latent-feed
 
-⭐ 195 · Python · 推送 2026-03-21 · [GitHub](https://github.com/renee-jia/latent-feed) · 个人维护
+⭐ 194 · Python · 推送 2026-03-21 · [GitHub](https://github.com/renee-jia/latent-feed) · 个人维护
 
 **每日 AI 资讯聚合工具：抓取多源内容生成摘要送入 Obsidian 或邮箱**
 
@@ -46,12 +46,12 @@ Python 脚本工具，每日从 ArXiv、OpenAI/Anthropic/Karpathy 博客、GitHu
 ```mermaid
 xychart-beta
     title "renee-jia/latent-feed 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 194 --> 196
-    line [195, 195]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 193 --> 196
+    line [195, 194]
 ```
 
-2026-10-18 195 → 2026-10-29 195（+0）
+2026-10-18 195 → 2026-10-30 194（-1）
 
 
 ---

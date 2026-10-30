@@ -46,12 +46,12 @@ Routecraft 是用 TypeScript 编写的开源 AI 自动化平台：开发者将�
 ```mermaid
 xychart-beta
     title "routecraftjs/routecraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-29 36（+0）
+2026-10-18 36 → 2026-10-30 36（+0）
 
 
 ---

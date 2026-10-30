@@ -1,6 +1,6 @@
 # lotus-data/lotus
 
-⭐ 1,722 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/lotus-data/lotus) · [官网](https://lotus-data.github.io) · 组织维护
+⭐ 1,723 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/lotus-data/lotus) · [官网](https://lotus-data.github.io) · 组织维护
 
 **用 LLM 与 agent 批量处理数据集的语义算子库**
 
@@ -46,12 +46,12 @@ LOTUS 是一个 Python 库（pip 安装 lotus-ai），提供基于 LLM 的语义
 ```mermaid
 xychart-beta
     title "lotus-data/lotus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1717 --> 1723
-    line [1718, 1719, 1720, 1721, 1722, 1722]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1717 --> 1724
+    line [1718, 1719, 1720, 1721, 1722, 1723]
 ```
 
-2026-10-18 1,718 → 2026-10-29 1,722（+4）
+2026-10-18 1,718 → 2026-10-30 1,723（+5）
 
 
 ---

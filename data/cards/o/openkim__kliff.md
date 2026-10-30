@@ -1,6 +1,6 @@
 # openkim/kliff
 
-⭐ 40 · Python · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/openkim/kliff) · [官网](https://kliff.readthedocs.io) · 组织维护
+⭐ 40 · Python · LGPL-2.1 · 推送 2026-10-29 · [GitHub](https://github.com/openkim/kliff) · [官网](https://kliff.readthedocs.io) · 组织维护
 
 **面向材料模拟的原子间势拟合框架（物理势与神经网络势）**
 
@@ -45,12 +45,12 @@ KLIFF 是基于 KIM 的原子间势拟合软件包，可拟合物理动机（PM�
 ```mermaid
 xychart-beta
     title "openkim/kliff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 40（+0）
 
 
 ---

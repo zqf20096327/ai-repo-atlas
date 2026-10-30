@@ -1,6 +1,6 @@
 # PerryLink/dsh-click
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-click) · [官网](https://perrylink.github.io/plugins/dsh-click/) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-click) · [官网](https://perrylink.github.io/plugins/dsh-click/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的原生桌面控制插件：看屏幕、点击输入、审批把关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-click 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18 --> 23
-    line [19, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 18 --> 24
+    line [19, 21, 22, 23]
 ```
 
-2026-10-18 19 → 2026-10-29 22（+3）
+2026-10-18 19 → 2026-10-30 23（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # athlonk8/cs329z
 
-⭐ 30 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/athlonk8/cs329z) · [官网](https://cs.xuyili.com) · 个人维护 · 中文 README
+⭐ 31 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/athlonk8/cs329z) · [官网](https://cs.xuyili.com) · 个人维护 · 中文 README
 
 **斯坦福 CS329Z《Engineering AI Agents》课程材料中文全译学习站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "athlonk8/cs329z 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 15 --> 31
-    line [16, 18, 23, 24, 27, 30]
+    title "athlonk8/cs329z 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 15 --> 32
+    line [16, 18, 23, 24, 27, 30, 31]
 ```
 
-2026-10-18 16 → 2026-10-29 30（+14）
+2026-10-18 16 → 2026-10-30 31（+15）
 
 
 ---

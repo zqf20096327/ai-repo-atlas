@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jielosc/csbaoyan-chat-daily 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "jielosc/csbaoyan-chat-daily 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 77 --> 81
-    line [78, 80]
+    line [78, 80, 80]
 ```
 
-2026-10-18 78 → 2026-10-29 80（+2）
+2026-10-18 78 → 2026-10-30 80（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # datawhalechina/competition-baseline
 
-⭐ 4,776 · Jupyter Notebook · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/datawhalechina/competition-baseline) · [官网](http://coggle.club/) · 组织维护 · 中文 README
+⭐ 4,778 · Jupyter Notebook · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/datawhalechina/competition-baseline) · [官网](http://coggle.club/) · 组织维护 · 中文 README
 
 **数据竞赛 baseline 方案合集：面向竞赛初学者整理代码与思路**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/competition-baseline 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4772 --> 4777
-    line [4773, 4774, 4775, 4776, 4776]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 4772 --> 4779
+    line [4773, 4774, 4775, 4776, 4778]
 ```
 
-2026-10-18 4,773 → 2026-10-29 4,776（+3）
+2026-10-18 4,773 → 2026-10-30 4,778（+5）
 
 
 ---

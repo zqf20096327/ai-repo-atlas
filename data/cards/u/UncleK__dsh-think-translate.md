@@ -1,6 +1,6 @@
 # UncleK/dsh-think-translate
 
-⭐ 64 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UncleK/dsh-think-translate) · 个人维护
+⭐ 67 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UncleK/dsh-think-translate) · 个人维护
 
 **DeepSeek Harness 网页端的思维链实时翻译插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "UncleK/dsh-think-translate 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 38 --> 66
-    line [40, 43, 49, 50, 51, 52, 56, 59, 64]
+    title "UncleK/dsh-think-translate 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 38 --> 69
+    line [40, 43, 49, 50, 51, 52, 56, 59, 64, 67]
 ```
 
-2026-10-18 40 → 2026-10-29 64（+24）
+2026-10-18 40 → 2026-10-30 67（+27）
 
 
 ---

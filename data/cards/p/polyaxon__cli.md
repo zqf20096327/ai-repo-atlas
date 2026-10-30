@@ -1,6 +1,6 @@
 # polyaxon/cli
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/polyaxon/cli) · [官网](https://docs.polyaxon.com/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/polyaxon/cli) · [官网](https://docs.polyaxon.com/) · 组织维护
 
 **面向团队的 MLOps 平台 CLI：训练、跟踪与调度机器学习工作流**
 
@@ -47,12 +47,12 @@ Polyaxon 的核心客户端与命令行工具，用于在其 MLOps 平台上创�
 ```mermaid
 xychart-beta
     title "polyaxon/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

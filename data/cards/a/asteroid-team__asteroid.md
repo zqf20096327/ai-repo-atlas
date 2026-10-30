@@ -1,6 +1,6 @@
 # asteroid-team/asteroid
 
-⭐ 2,597 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/asteroid-team/asteroid) · [官网](https://asteroid-team.github.io/) · 组织维护
+⭐ 2,599 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/asteroid-team/asteroid) · [官网](https://asteroid-team.github.io/) · 组织维护
 
 **面向研究者的 PyTorch 音频源分离工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asteroid-team/asteroid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2595 --> 2598
-    line [2596, 2597, 2596, 2597]
+    title "asteroid-team/asteroid 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2595 --> 2600
+    line [2596, 2597, 2596, 2597, 2599]
 ```
 
-2026-10-18 2,596 → 2026-10-29 2,597（+1）
+2026-10-18 2,596 → 2026-10-30 2,599（+3）
 
 
 ---

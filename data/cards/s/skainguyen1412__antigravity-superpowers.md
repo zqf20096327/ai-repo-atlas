@@ -1,6 +1,6 @@
 # skainguyen1412/antigravity-superpowers
 
-⭐ 331 · JavaScript · 推送 2026-02-26 · [GitHub](https://github.com/skainguyen1412/antigravity-superpowers) · 个人维护
+⭐ 332 · JavaScript · 推送 2026-02-26 · [GitHub](https://github.com/skainguyen1412/antigravity-superpowers) · 个人维护
 
 **将 Superpowers 技能工作流移植到 Antigravity 的 13 技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skainguyen1412/antigravity-superpowers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 328 --> 332
-    line [329, 330, 331]
+    title "skainguyen1412/antigravity-superpowers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 328 --> 333
+    line [329, 330, 331, 332]
 ```
 
-2026-10-18 329 → 2026-10-29 331（+2）
+2026-10-18 329 → 2026-10-30 332（+3）
 
 
 ---

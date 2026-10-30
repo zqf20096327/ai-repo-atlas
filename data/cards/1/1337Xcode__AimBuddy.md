@@ -1,6 +1,6 @@
 # 1337Xcode/AimBuddy
 
-⭐ 69 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/1337Xcode/AimBuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Android 端实时目标检测辅助应用，供视障玩家检测和追踪对手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

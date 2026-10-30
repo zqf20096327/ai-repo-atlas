@@ -1,6 +1,6 @@
 # Yht20927/douyin-cli
 
-⭐ 79 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Yht20927/douyin-cli) · 个人维护 · 中文 README
+⭐ 80 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Yht20927/douyin-cli) · 个人维护 · 中文 README
 
 **抖音评论运营 CLI：搜索视频、拉取评论、AI 生成并自动发布回复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yht20927/douyin-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 74 --> 80
-    line [75, 76, 77, 79]
+    title "Yht20927/douyin-cli 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 74 --> 81
+    line [75, 76, 77, 79, 80]
 ```
 
-2026-10-18 75 → 2026-10-29 79（+4）
+2026-10-18 75 → 2026-10-30 80（+5）
 
 
 ---

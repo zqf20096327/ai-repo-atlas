@@ -1,6 +1,6 @@
 # gia-uh/cecilia
 
-⭐ 30 · TeX · MIT · 推送 2026-09-22 · [GitHub](https://github.com/gia-uh/cecilia) · [官网](https://cecilia.uhgia.org/) · 组织维护
+⭐ 30 · TeX · MIT · 推送 2026-10-29 · [GitHub](https://github.com/gia-uh/cecilia) · [官网](https://cecilia.uhgia.org/) · 组织维护
 
 **面向古巴西班牙语的 2B 持续预训练语言模型**
 
@@ -47,12 +47,12 @@ Cecilia 2B v0.1 是基于 Salamandra 2B 架构、在约 10 亿 token 古巴书�
 ```mermaid
 xychart-beta
     title "gia-uh/cecilia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

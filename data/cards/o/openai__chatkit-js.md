@@ -1,6 +1,6 @@
 # openai/chatkit-js
 
-⭐ 1,967 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/openai/chatkit-js) · [官网](https://openai.github.io/chatkit-js/) · 组织维护
+⭐ 1,968 · TypeScript · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/openai/chatkit-js) · [官网](https://openai.github.io/chatkit-js/) · 组织维护
 
 **OpenAI 的 React 聊天界面框架：快速嵌入 AI 对话体验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/chatkit-js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 1962 --> 1968
-    line [1963, 1965, 1966, 1967]
+    title "openai/chatkit-js 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1962 --> 1969
+    line [1963, 1965, 1966, 1967, 1968]
 ```
 
-2026-10-18 1,963 → 2026-10-29 1,967（+4）
+2026-10-18 1,963 → 2026-10-30 1,968（+5）
 
 
 ---

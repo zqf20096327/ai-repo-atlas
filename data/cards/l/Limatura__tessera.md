@@ -1,6 +1,6 @@
 # Limatura/tessera
 
-⭐ 71 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Limatura/tessera) · [官网](https://tessera-docs-three.vercel.app) · 个人维护 · 中文 README
+⭐ 71 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Limatura/tessera) · [官网](https://tessera-docs-three.vercel.app) · 个人维护 · 中文 README
 
 **自托管临时文件/文本分享服务，到期或达下载上限后自动删除**
 
@@ -39,6 +39,18 @@
 
 > L3:  Self-hosted file and note sharing that cleans up after itself.
 > L14: Upload a file, a folder, a snippet of code or a link, and get back a short code and a URL. Whoever has them can ope
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Limatura/tessera 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 70 --> 72
+    line [71, 71]
+```
+
+2026-10-29 71 → 2026-10-30 71（+0）
 
 
 ---

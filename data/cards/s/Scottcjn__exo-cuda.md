@@ -41,6 +41,18 @@ exo 的社区分支，通过 tinygrad 后端恢复对 NVIDIA CUDA 的支持，�
 > L17: The original exo focuses on Apple Silicon (MLX). This fork restores **full NVIDIA CUDA support** via tinygrad:
 > L71: exo --inference-engine tinygrad --chatgpt-api-port 8001 --disable-tui
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/exo-cuda 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 93 --> 95
+    line [94, 94]
+```
+
+2026-10-29 94 → 2026-10-30 94（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `9d7aeb20b3c7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # blendbunjaku/optimaizr
 
-⭐ 174 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/blendbunjaku/optimaizr) · [官网](https://optimaizr.com) · 个人维护
+⭐ 184 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/blendbunjaku/optimaizr) · [官网](https://optimaizr.com) · 个人维护
 
 **本地 CLI：分析并削减 Claude Code/Codex/opencode 的 token 开销**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "blendbunjaku/optimaizr 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 70 --> 183
-    line [79, 107, 121, 136, 140, 145, 159, 165, 170, 174]
+    title "blendbunjaku/optimaizr 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 69 --> 194
+    line [79, 107, 121, 136, 140, 145, 159, 165, 170, 174, 184]
 ```
 
-2026-10-18 79 → 2026-10-29 174（+95）
+2026-10-18 79 → 2026-10-30 184（+105）
 
 
 ---

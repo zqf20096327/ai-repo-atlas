@@ -1,6 +1,6 @@
 # lobehub/lobe-chat-agents
 
-⭐ 1,242 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-agents) · [官网](https://lobechat.com/discover/assistants) · 组织维护 · 中文 README
+⭐ 1,243 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-agents) · [官网](https://lobechat.com/discover/assistants) · 组织维护 · 中文 README
 
 **LobeChat 的 agent 提示词索引：聚合社区提交的聊天 agent 清单**
 
@@ -44,13 +44,13 @@ LobeHub 维护的 LobeChat 插件式 agent 索引仓库：LobeChat 通过读取�
 
 ```mermaid
 xychart-beta
-    title "lobehub/lobe-chat-agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "lobehub/lobe-chat-agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1237 --> 1244
-    line [1238, 1241, 1242, 1241, 1242, 1243, 1242]
+    line [1238, 1241, 1242, 1241, 1242, 1243, 1242, 1243]
 ```
 
-2026-10-18 1,238 → 2026-10-29 1,242（+4）
+2026-10-18 1,238 → 2026-10-30 1,243（+5）
 
 
 ---

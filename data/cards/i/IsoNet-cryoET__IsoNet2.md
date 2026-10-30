@@ -1,6 +1,6 @@
 # IsoNet-cryoET/IsoNet2
 
-⭐ 40 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/IsoNet-cryoET/IsoNet2) · [官网](https://doi.org/10.64898/2025.12.09.693325) · 组织维护
+⭐ 40 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/IsoNet-cryoET/IsoNet2) · [官网](https://doi.org/10.64898/2025.12.09.693325) · 组织维护
 
 **冷冻电子断层扫描重建的深度学习校正软件：缺楔/去噪/CTF 联合校正**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IsoNet-cryoET/IsoNet2 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 40（+0）
 
 
 ---

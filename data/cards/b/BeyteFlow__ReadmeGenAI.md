@@ -1,6 +1,6 @@
 # BeyteFlow/ReadmeGenAI
 
-⭐ 116 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/BeyteFlow/ReadmeGenAI) · [官网](https://readmegen-ai.vercel.app/) · 组织维护
+⭐ 116 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BeyteFlow/ReadmeGenAI) · [官网](https://readmegen-ai.vercel.app/) · 组织维护
 
 **为 GitHub 仓库用 AI 生成 README.md 的 Web 应用**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BeyteFlow/ReadmeGenAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "BeyteFlow/ReadmeGenAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 113 --> 117
-    line [114, 115, 114, 116]
+    line [114, 115, 114, 116, 116]
 ```
 
-2026-10-18 114 → 2026-10-29 116（+2）
+2026-10-18 114 → 2026-10-30 116（+2）
 
 
 ---

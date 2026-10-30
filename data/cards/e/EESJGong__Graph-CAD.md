@@ -1,6 +1,6 @@
 # EESJGong/Graph-CAD
 
-⭐ 106 · Python · 推送 2026-03-30 · [GitHub](https://github.com/EESJGong/Graph-CAD) · 组织维护
+⭐ 107 · Python · 推送 2026-03-30 · [GitHub](https://github.com/EESJGong/Graph-CAD) · 组织维护
 
 **图结构中介的 Text-to-CAD 框架：自然语言生成可执行 Blender 代码**
 
@@ -44,13 +44,13 @@ ICLR 2026 论文的官方代码库：将文本到 CAD 的生成分解为三阶�
 
 ```mermaid
 xychart-beta
-    title "EESJGong/Graph-CAD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 104 --> 107
-    line [105, 106]
+    title "EESJGong/Graph-CAD 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107]
 ```
 
-2026-10-18 105 → 2026-10-29 106（+1）
+2026-10-18 105 → 2026-10-30 107（+2）
 
 
 ---

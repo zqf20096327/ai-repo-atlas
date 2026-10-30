@@ -1,6 +1,6 @@
 # noQuli/perplexity-cli
 
-⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/noQuli/perplexity-cli) · 个人维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/noQuli/perplexity-cli) · 个人维护
 
 **命令行中调用 Perplexity Sonar 模型的 AI agent 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noQuli/perplexity-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-29 43（+0）
+2026-10-18 43 → 2026-10-30 44（+1）
 
 
 ---

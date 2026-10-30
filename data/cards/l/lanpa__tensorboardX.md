@@ -44,13 +44,13 @@ tensorboardX 让 PyTorch、Chainer、MXNet、NumPy 等框架通过简单函数�
 
 ```mermaid
 xychart-beta
-    title "lanpa/tensorboardX 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    title "lanpa/tensorboardX 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 7999 --> 8003
-    line [8002, 8001, 8000]
+    line [8002, 8001, 8000, 8000]
 ```
 
-2026-10-18 8,002 → 2026-10-29 8,000（-2）
+2026-10-18 8,002 → 2026-10-30 8,000（-2）
 
 
 ---

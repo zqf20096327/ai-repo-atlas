@@ -1,6 +1,6 @@
 # itshen/source-reading-methodology
 
-⭐ 139 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/itshen/source-reading-methodology) · [官网](https://xueai.app/?from=source-reading-methodology) · 组织维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/itshen/source-reading-methodology) · [官网](https://xueai.app/?from=source-reading-methodology) · 组织维护 · 中文 README
 
 **带 AI 精读大型开源仓库的方法论与模板集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itshen/source-reading-methodology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 138 --> 141
+    line [139, 140]
 ```
 
-2026-10-18 139 → 2026-10-29 139（+0）
+2026-10-18 139 → 2026-10-30 140（+1）
 
 
 ---

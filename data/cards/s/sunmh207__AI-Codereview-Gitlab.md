@@ -1,6 +1,6 @@
 # sunmh207/AI-Codereview-Gitlab
 
-⭐ 1,869 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/sunmh207/AI-Codereview-Gitlab) · 个人维护 · 中文 README
+⭐ 1,870 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/sunmh207/AI-Codereview-Gitlab) · 个人维护 · 中文 README
 
 **基于大模型的 GitLab 自动代码审查与日报工具，带可视化 Dashboard**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunmh207/AI-Codereview-Gitlab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1862 --> 1870
-    line [1863, 1864, 1865, 1866, 1867, 1869]
+    title "sunmh207/AI-Codereview-Gitlab 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1862 --> 1871
+    line [1863, 1864, 1865, 1866, 1867, 1869, 1870]
 ```
 
-2026-10-18 1,863 → 2026-10-29 1,869（+6）
+2026-10-18 1,863 → 2026-10-30 1,870（+7）
 
 
 ---

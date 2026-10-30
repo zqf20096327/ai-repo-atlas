@@ -1,6 +1,6 @@
 # mahmoudsamy7729/agentic-rag
 
-⭐ 17 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/mahmoudsamy7729/agentic-rag) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/mahmoudsamy7729/agentic-rag) · 个人维护
 
 **面向生产的认证式 Agentic RAG 全栈应用模板（FastAPI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mahmoudsamy7729/agentic-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

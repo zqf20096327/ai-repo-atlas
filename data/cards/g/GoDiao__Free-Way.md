@@ -1,6 +1,6 @@
 # GoDiao/Free-Way
 
-⭐ 40 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/GoDiao/Free-Way) · [官网](https://godiao.github.io/Free-Way/) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-08-18 · [GitHub](https://github.com/GoDiao/Free-Way) · [官网](https://godiao.github.io/Free-Way/) · 个人维护 · 中文 README
 
 **本地 LLM 网关：让编码工具免费使用多家免费层模型**
 
@@ -45,12 +45,12 @@ Node.js 编写的本地 API 网关，在 localhost:8787 同时暴露 OpenAI 与 
 ```mermaid
 xychart-beta
     title "GoDiao/Free-Way 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 38 --> 41
-    line [40, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 38 --> 42
+    line [40, 39, 40, 41]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 41（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ddsyasas/llm-wiki
 
-⭐ 66 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/ddsyasas/llm-wiki) · [官网](https://llmwiki.cc) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/ddsyasas/llm-wiki) · [官网](https://llmwiki.cc) · 个人维护
 
 **由 LLM agent 维护的个人维基知识库：投喂资料自动生成互链笔记**
 
@@ -46,12 +46,12 @@ Karpathy LLM Wiki 模式的从零实现：用户投喂文章、论文、PDF、UR
 ```mermaid
 xychart-beta
     title "ddsyasas/llm-wiki 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-18 65 → 2026-10-29 66（+1）
+2026-10-18 65 → 2026-10-30 67（+2）
 
 
 ---

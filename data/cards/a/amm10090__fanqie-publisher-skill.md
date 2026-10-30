@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amm10090/fanqie-publisher-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "amm10090/fanqie-publisher-skill 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 22 --> 25
-    line [24, 23]
+    line [24, 23, 23]
 ```
 
-2026-10-18 24 → 2026-10-29 23（-1）
+2026-10-18 24 → 2026-10-30 23（-1）
 
 
 ---

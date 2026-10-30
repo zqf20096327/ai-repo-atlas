@@ -45,12 +45,12 @@ yunus-0x/charon 的 fork，Node.js 编写的 Telegram 交易机器人：从 Sign
 ```mermaid
 xychart-beta
     title "kaiserern/Kaiser.charon 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-26", "2026-10-30"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-26 70 → 2026-10-29 70（+0）
+2026-10-26 70 → 2026-10-30 70（+0）
 
 
 ---

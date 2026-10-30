@@ -1,6 +1,6 @@
 # GreyhavenHQ/greywall
 
-⭐ 311 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GreyhavenHQ/greywall) · [官网](https://greywall.io) · 组织维护
+⭐ 312 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GreyhavenHQ/greywall) · [官网](https://greywall.io) · 组织维护
 
 **给开发者的 AI 编程代理沙箱：默认拒绝的文件/网络/系统调用隔离**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GreyhavenHQ/greywall 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 309 --> 312
-    line [310, 311, 311]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 309 --> 313
+    line [310, 311, 312]
 ```
 
-2026-10-18 310 → 2026-10-29 311（+1）
+2026-10-18 310 → 2026-10-30 312（+2）
 
 
 ---

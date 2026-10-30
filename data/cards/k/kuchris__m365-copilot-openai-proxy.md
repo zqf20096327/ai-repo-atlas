@@ -1,6 +1,6 @@
 # kuchris/m365-copilot-openai-proxy
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kuchris/m365-copilot-openai-proxy) · 个人维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/kuchris/m365-copilot-openai-proxy) · 个人维护
 
 **本地代理：把 M365 Copilot 封装为 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kuchris/m365-copilot-openai-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 62 --> 66
+    line [65, 64, 63]
 ```
 
-2026-10-18 65 → 2026-10-29 64（-1）
+2026-10-18 65 → 2026-10-30 63（-2）
 
 
 ---

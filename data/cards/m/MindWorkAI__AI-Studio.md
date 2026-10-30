@@ -1,6 +1,6 @@
 # MindWorkAI/AI-Studio
 
-⭐ 580 · C# · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/MindWorkAI/AI-Studio) · [官网](https://MindWorkAI.org/) · 组织维护
+⭐ 580 · C# · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/MindWorkAI/AI-Studio) · [官网](https://MindWorkAI.org/) · 组织维护
 
 **跨平台桌面 LLM 客户端：统一界面接入本地与云端各家模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MindWorkAI/AI-Studio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 573 --> 581
     line [574, 577, 579, 580, 580]
 ```
 
-2026-10-18 574 → 2026-10-29 580（+6）
+2026-10-18 574 → 2026-10-30 580（+6）
 
 
 ---

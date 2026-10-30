@@ -1,6 +1,6 @@
 # getaero-io/gtm-eng-skills
 
-⭐ 71 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/getaero-io/gtm-eng-skills) · [官网](https://code.deepline.com) · 组织维护
+⭐ 72 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/getaero-io/gtm-eng-skills) · [官网](https://code.deepline.com) · 组织维护
 
 **面向 Claude Code 的 GTM 工程 agent 技能集（10 个 SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "getaero-io/gtm-eng-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 67 --> 73
+    line [68, 69, 70, 71, 72]
 ```
 
-2026-10-18 68 → 2026-10-29 71（+3）
+2026-10-18 68 → 2026-10-30 72（+4）
 
 
 ---

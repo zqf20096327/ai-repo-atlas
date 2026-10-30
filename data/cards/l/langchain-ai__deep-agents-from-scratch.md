@@ -1,6 +1,6 @@
 # langchain-ai/deep-agents-from-scratch
 
-⭐ 852 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep-agents-from-scratch) · 组织维护
+⭐ 853 · Jupyter Notebook · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/deep-agents-from-scratch) · 组织维护
 
 **用 LangGraph 从零实现深度 Agent 模式的教学课程**
 
@@ -43,13 +43,13 @@ LangChain 官方团队维护的教学仓库：通过 5 个渐进式 Jupyter note
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/deep-agents-from-scratch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 846 --> 853
-    line [848, 847, 849, 851, 852]
+    title "langchain-ai/deep-agents-from-scratch 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 846 --> 854
+    line [848, 847, 849, 851, 852, 853]
 ```
 
-2026-10-18 848 → 2026-10-29 852（+4）
+2026-10-18 848 → 2026-10-30 853（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # hosseinmoein/DataFrame
 
-⭐ 2,994 · C++ · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/hosseinmoein/DataFrame) · [官网](https://hosseinmoein.github.io/DataFrame/) · 个人维护
+⭐ 2,993 · C++ · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/hosseinmoein/DataFrame) · [官网](https://hosseinmoein.github.io/DataFrame/) · 个人维护
 
 **面向统计分析与 ML 的 C++ 异构 DataFrame 容器库**
 
@@ -46,12 +46,12 @@ C++23 实现的模板化异构数据容器与分析库，面向数据科学家�
 ```mermaid
 xychart-beta
     title "hosseinmoein/DataFrame 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 2990 --> 2995
-    line [2991, 2992, 2994, 2994]
+    line [2991, 2992, 2994, 2993]
 ```
 
-2026-10-18 2,991 → 2026-10-29 2,994（+3）
+2026-10-18 2,991 → 2026-10-30 2,993（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # bytedance/SALMONN
 
-⭐ 1,558 · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bytedance/SALMONN) · [官网](https://bytedance.github.io/SALMONN/) · 组织维护 · 中文 README
+⭐ 1,561 · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/bytedance/SALMONN) · [官网](https://bytedance.github.io/SALMONN/) · 组织维护 · 中文 README
 
 **多模态大语言模型家族：语音/音频/视频理解与生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/SALMONN 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1546 --> 1559
-    line [1547, 1552, 1554, 1555, 1556, 1558]
+    title "bytedance/SALMONN 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1546 --> 1562
+    line [1547, 1552, 1554, 1555, 1556, 1558, 1561]
 ```
 
-2026-10-18 1,547 → 2026-10-29 1,558（+11）
+2026-10-18 1,547 → 2026-10-30 1,561（+14）
 
 
 ---

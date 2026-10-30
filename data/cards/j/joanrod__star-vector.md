@@ -1,6 +1,6 @@
 # joanrod/star-vector
 
-⭐ 4,631 · Python · Apache-2.0 · 推送 2025-11-07 · [GitHub](https://github.com/joanrod/star-vector) · [官网](https://starvector.github.io) · 组织维护
+⭐ 4,632 · Python · Apache-2.0 · 推送 2025-11-07 · [GitHub](https://github.com/joanrod/star-vector) · [官网](https://starvector.github.io) · 组织维护
 
 **把图像与文本转为 SVG 代码的多模态视觉语言基础模型**
 
@@ -46,13 +46,13 @@ StarVector 是面向可缩放矢量图形（SVG）生成的多模态视觉语言
 
 ```mermaid
 xychart-beta
-    title "joanrod/star-vector 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
+    title "joanrod/star-vector 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 4628 --> 4633
-    line [4629, 4630, 4631, 4630, 4632, 4631]
+    line [4629, 4630, 4631, 4630, 4632, 4631, 4632]
 ```
 
-2026-10-18 4,629 → 2026-10-29 4,631（+2）
+2026-10-18 4,629 → 2026-10-30 4,632（+3）
 
 
 ---

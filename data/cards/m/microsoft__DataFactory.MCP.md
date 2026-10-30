@@ -1,6 +1,6 @@
 # microsoft/DataFactory.MCP
 
-⭐ 45 · C# · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/DataFactory.MCP) · [官网](https://www.nuget.org/packages/Microsoft.DataFactory.MCP/) · 组织维护
+⭐ 45 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/DataFactory.MCP) · [官网](https://www.nuget.org/packages/Microsoft.DataFactory.MCP/) · 组织维护
 
 **面向 Microsoft Fabric 资源管理的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/DataFactory.MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

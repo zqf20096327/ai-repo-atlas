@@ -1,6 +1,6 @@
 # Hainrixz/cyber-neo
 
-⭐ 292 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/cyber-neo) · [官网](https://tododeia.com) · 组织维护
+⭐ 293 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/cyber-neo) · [官网](https://tododeia.com) · 组织维护
 
 **运行于 Claude Code 内的安全审计 agent：扫描 OWASP/CWE 漏洞并生成报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/cyber-neo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 287 --> 293
-    line [288, 291, 290, 291, 292]
+    title "Hainrixz/cyber-neo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 287 --> 294
+    line [288, 291, 290, 291, 292, 293]
 ```
 
-2026-10-18 288 → 2026-10-29 292（+4）
+2026-10-18 288 → 2026-10-30 293（+5）
 
 
 ---

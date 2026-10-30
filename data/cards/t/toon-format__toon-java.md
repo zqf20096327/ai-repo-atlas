@@ -1,6 +1,6 @@
 # toon-format/toon-java
 
-⭐ 163 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/toon-format/toon-java) · 组织维护
+⭐ 163 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/toon-format/toon-java) · 组织维护
 
 **TOON 序列化格式的 Java 编解码库，压缩 LLM 上下文 token**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "toon-format/toon-java 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 158 --> 164
     line [159, 160, 161, 163, 163]
 ```
 
-2026-10-18 159 → 2026-10-29 163（+4）
+2026-10-18 159 → 2026-10-30 163（+4）
 
 
 ---

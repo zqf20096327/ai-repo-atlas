@@ -1,6 +1,6 @@
 # HanTechnology/oh-my-openagent-toolkit
 
-⭐ 38 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/HanTechnology/oh-my-openagent-toolkit) · 组织维护
+⭐ 39 · JavaScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/HanTechnology/oh-my-openagent-toolkit) · 组织维护
 
 **oh-my-openagent 的 OpenCode 项目伴生工具包：路由与技能组织**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HanTechnology/oh-my-openagent-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 39（+1）
 
 
 ---

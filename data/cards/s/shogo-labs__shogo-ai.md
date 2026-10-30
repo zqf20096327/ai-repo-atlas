@@ -1,6 +1,6 @@
 # shogo-labs/shogo-ai
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/shogo-labs/shogo-ai) · [官网](https://shogo.ai) · 组织维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/shogo-labs/shogo-ai) · [官网](https://shogo.ai) · 组织维护
 
 **构建与运行 AI agent 的开源 TypeScript 平台，可自托管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shogo-labs/shogo-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-29 19（+2）
+2026-10-18 17 → 2026-10-30 19（+2）
 
 
 ---

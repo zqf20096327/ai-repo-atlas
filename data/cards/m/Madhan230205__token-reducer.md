@@ -1,6 +1,6 @@
 # Madhan230205/token-reducer
 
-⭐ 52 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Madhan230205/token-reducer) · [官网](https://github.com/Madhan230205/token-reducer) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/Madhan230205/token-reducer) · [官网](https://github.com/Madhan230205/token-reducer) · 个人维护
 
 **Claude Code 插件：本地压缩代码库上下文以降低 token 消耗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Madhan230205/token-reducer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 53]
 ```
 
-2026-10-18 50 → 2026-10-29 52（+2）
+2026-10-18 50 → 2026-10-30 53（+3）
 
 
 ---

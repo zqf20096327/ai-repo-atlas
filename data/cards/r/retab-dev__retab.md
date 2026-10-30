@@ -1,6 +1,6 @@
 # retab-dev/retab
 
-⭐ 45 · Go · 推送 2026-10-28 · [GitHub](https://github.com/retab-dev/retab) · [官网](https://www.retab.com) · 组织维护
+⭐ 45 · Go · 推送 2026-10-29 · [GitHub](https://github.com/retab-dev/retab) · [官网](https://www.retab.com) · 组织维护
 
 **面向开发者的 LLM 文档处理平台与 SDK**
 
@@ -45,12 +45,12 @@ Retab 提供文档处理平台及 Python/Node/Go SDK：基于 LLM 读取文档�
 ```mermaid
 xychart-beta
     title "retab-dev/retab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

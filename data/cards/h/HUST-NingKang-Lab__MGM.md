@@ -1,6 +1,6 @@
 # HUST-NingKang-Lab/MGM
 
-⭐ 63 · Jupyter Notebook · MIT · 推送 2026-01-26 · [GitHub](https://github.com/HUST-NingKang-Lab/MGM) · 组织维护 · 中文 README
+⭐ 64 · Jupyter Notebook · MIT · 推送 2026-01-26 · [GitHub](https://github.com/HUST-NingKang-Lab/MGM) · 组织维护 · 中文 README
 
 **面向微生物组数据分析的大规模预训练语言模型**
 
@@ -45,12 +45,12 @@ MGM 是用于可解释微生物组数据分析的大规模预训练语言模型�
 ```mermaid
 xychart-beta
     title "HUST-NingKang-Lab/MGM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-10-29 63（+1）
+2026-10-18 62 → 2026-10-30 64（+2）
 
 
 ---

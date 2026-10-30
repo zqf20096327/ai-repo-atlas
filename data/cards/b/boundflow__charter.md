@@ -1,6 +1,6 @@
 # boundflow/charter
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/boundflow/charter) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/boundflow/charter) · 组织维护
 
 **自托管环境下运行与治理 AI agent 的开源平台**
 
@@ -46,12 +46,12 @@ Charter 是一个在生产环境运行 AI agent 的开源平台：以 YAML 定�
 ```mermaid
 xychart-beta
     title "boundflow/charter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

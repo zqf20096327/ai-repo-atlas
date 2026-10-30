@@ -1,6 +1,6 @@
 # Ciao1019/Petrichor
 
-⭐ 153 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/Ciao1019/Petrichor) · [官网](https://petrichor.wl.do) · 个人维护 · 中文 README
+⭐ 154 · TypeScript · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/Ciao1019/Petrichor) · [官网](https://petrichor.wl.do) · 个人维护 · 中文 README
 
 **自托管知识平台：Markdown 编译语义 Wiki，供人与 AI Agent 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ciao1019/Petrichor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 149 --> 154
-    line [150, 151, 152, 153, 153]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 149 --> 155
+    line [150, 151, 152, 153, 154]
 ```
 
-2026-10-18 150 → 2026-10-29 153（+3）
+2026-10-18 150 → 2026-10-30 154（+4）
 
 
 ---

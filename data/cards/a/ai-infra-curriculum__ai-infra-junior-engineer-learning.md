@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-junior-engineer-learning
 
-⭐ 256 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
+⭐ 257 · Python · MIT · 推送 2026-07-08 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
 
 **初级 AI 基础设施工程师的系统化课程仓库（440 小时）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-junior-engineer-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 249 --> 257
-    line [250, 252, 253, 254, 253, 254, 256]
+    title "ai-infra-curriculum/ai-infra-junior-engineer-learning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 249 --> 258
+    line [250, 252, 253, 254, 253, 254, 256, 257]
 ```
 
-2026-10-18 250 → 2026-10-29 256（+6）
+2026-10-18 250 → 2026-10-30 257（+7）
 
 
 ---

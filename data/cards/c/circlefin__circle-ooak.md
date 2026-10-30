@@ -46,12 +46,12 @@ Circle OOAK 是 OpenAI Agents SDK 的扩展包：提供 @agent_tool（支持对�
 ```mermaid
 xychart-beta
     title "circlefin/circle-ooak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

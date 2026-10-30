@@ -1,6 +1,6 @@
 # AwesomeHou/szu-cli
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AwesomeHou/szu-cli) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/AwesomeHou/szu-cli) · 个人维护 · 中文 README
 
 **深圳大学校园网页服务的 agent 友好 CLI 与 Skill**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AwesomeHou/szu-cli 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 11 --> 19
-    line [12, 15, 18, 18]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 11 --> 21
+    line [12, 15, 18, 20]
 ```
 
-2026-10-23 12 → 2026-10-29 18（+6）
+2026-10-23 12 → 2026-10-30 20（+8）
 
 
 ---

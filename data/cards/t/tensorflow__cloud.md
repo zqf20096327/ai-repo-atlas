@@ -45,12 +45,12 @@ TensorFlow 官方仓库（已声明 DEPRECATED）提供的 Python API：通过 r
 ```mermaid
 xychart-beta
     title "tensorflow/cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 378 --> 380
     line [379, 379]
 ```
 
-2026-10-18 379 → 2026-10-29 379（+0）
+2026-10-18 379 → 2026-10-30 379（+0）
 
 
 ---

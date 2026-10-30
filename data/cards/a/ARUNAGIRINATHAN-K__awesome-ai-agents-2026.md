@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
-⭐ 352 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
+⭐ 353 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
 
 **AI agent 框架与工具的策展清单，附带可搜索 Web 注册表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ARUNAGIRINATHAN-K/awesome-ai-agents-2026 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
     y-axis "stars" 346 --> 354
-    line [347, 350, 352, 353, 352, 352]
+    line [347, 350, 352, 353, 352, 353]
 ```
 
-2026-10-18 347 → 2026-10-29 352（+5）
+2026-10-18 347 → 2026-10-30 353（+6）
 
 
 ---

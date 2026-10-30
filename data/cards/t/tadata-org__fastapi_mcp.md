@@ -1,6 +1,6 @@
 # tadata-org/fastapi_mcp
 
-⭐ 12,023 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/tadata-org/fastapi_mcp) · [官网](https://fastapi-mcp.tadata.com/) · 组织维护
+⭐ 12,022 · Python · MIT · 推送 2025-11-24 · [GitHub](https://github.com/tadata-org/fastapi_mcp) · [官网](https://fastapi-mcp.tadata.com/) · 组织维护
 
 **将 FastAPI 端点暴露为 MCP 工具的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tadata-org/fastapi_mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "tadata-org/fastapi_mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 12020 --> 12025
-    line [12024, 12022, 12024, 12022, 12021, 12023, 12024, 12023]
+    line [12024, 12022, 12024, 12022, 12021, 12023, 12024, 12023, 12022]
 ```
 
-2026-10-18 12,024 → 2026-10-29 12,023（-1）
+2026-10-18 12,024 → 2026-10-30 12,022（-2）
 
 
 ---

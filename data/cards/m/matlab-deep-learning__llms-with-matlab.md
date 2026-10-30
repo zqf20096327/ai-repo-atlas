@@ -1,6 +1,6 @@
 # matlab-deep-learning/llms-with-matlab
 
-⭐ 237 · MATLAB · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/matlab-deep-learning/llms-with-matlab) · 组织维护
+⭐ 238 · MATLAB · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/matlab-deep-learning/llms-with-matlab) · 组织维护
 
 **让 MATLAB 连接各大 LLM API 的官方工具箱**
 
@@ -46,12 +46,12 @@ MathWorks 官方维护的 MATLAB 附加功能（add-on），在 MATLAB 中连接
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/llms-with-matlab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 236 --> 238
-    line [237, 237]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 236 --> 239
+    line [237, 238]
 ```
 
-2026-10-18 237 → 2026-10-29 237（+0）
+2026-10-18 237 → 2026-10-30 238（+1）
 
 
 ---

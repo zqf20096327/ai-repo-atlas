@@ -1,6 +1,6 @@
 # NeonGlay/inventor-mcp
 
-⭐ 47 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/NeonGlay/inventor-mcp) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/NeonGlay/inventor-mcp) · 个人维护
 
 **用自然语言驱动 Autodesk Inventor 参数化建模的 MCP server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NeonGlay/inventor-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 38 --> 48
-    line [39, 40, 45, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 38 --> 49
+    line [39, 40, 45, 46, 47, 48]
 ```
 
-2026-10-18 39 → 2026-10-29 47（+8）
+2026-10-18 39 → 2026-10-30 48（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/MMCTAgent
 
-⭐ 83 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/microsoft/MMCTAgent) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/microsoft/MMCTAgent) · 组织维护
 
 **面向复杂视觉推理的多模态批判性思维 Agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/MMCTAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 82 --> 85
+    line [83, 84]
 ```
 
-2026-10-18 83 → 2026-10-29 83（+0）
+2026-10-18 83 → 2026-10-30 84（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leemysw/feishu-docx
 
-⭐ 270 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/leemysw/feishu-docx) · 个人维护 · 中文 README
+⭐ 271 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/leemysw/feishu-docx) · 个人维护 · 中文 README
 
 **飞书文档读写与云空间管理 CLI/TUI，供 AI Agent 接入知识库**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "leemysw/feishu-docx 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 266 --> 271
-    line [267, 269, 270, 270]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 266 --> 272
+    line [267, 269, 270, 271]
 ```
 
-2026-10-18 267 → 2026-10-29 270（+3）
+2026-10-18 267 → 2026-10-30 271（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zeyi-Lin/HivisionIDPhotos
 
-⭐ 21,673 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
+⭐ 21,676 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/Zeyi-Lin/HivisionIDPhotos) · [官网](https://modelscope.cn/studios/SwanLab/HivisionIDPhotos) · 组织维护 · 中文 README
 
 **AI 证件照制作工具：抠图、换底、排版一站式生成**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zeyi-Lin/HivisionIDPhotos 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 21636 --> 21676
-    line [21639, 21645, 21652, 21653, 21656, 21658, 21660, 21659, 21664, 21673]
+    title "Zeyi-Lin/HivisionIDPhotos 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21636 --> 21679
+    line [21639, 21645, 21652, 21653, 21656, 21658, 21660, 21659, 21664, 21673, 21676]
 ```
 
-2026-10-18 21,639 → 2026-10-29 21,673（+34）
+2026-10-18 21,639 → 2026-10-30 21,676（+37）
 
 
 ---

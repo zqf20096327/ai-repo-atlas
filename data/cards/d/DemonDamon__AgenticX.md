@@ -1,6 +1,6 @@
 # DemonDamon/AgenticX
 
-⭐ 759 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/DemonDamon/AgenticX) · [官网](https://www.agxbuilder.com/) · 个人维护 · 中文 README
+⭐ 787 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/DemonDamon/AgenticX) · [官网](https://www.agxbuilder.com/) · 个人维护 · 中文 README
 
 **统一多智能体平台：Python SDK + CLI + Studio + 桌面工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DemonDamon/AgenticX 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 445 --> 787
-    line [473, 521, 574, 593, 627, 648, 679, 706, 731, 759]
+    title "DemonDamon/AgenticX 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 442 --> 818
+    line [473, 521, 574, 593, 627, 648, 679, 706, 731, 759, 787]
 ```
 
-2026-10-18 473 → 2026-10-29 759（+286）
+2026-10-18 473 → 2026-10-30 787（+314）
 
 
 ---

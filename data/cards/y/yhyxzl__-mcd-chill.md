@@ -1,6 +1,6 @@
 # yhyxzl/-mcd-chill
 
-⭐ 88 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yhyxzl/-mcd-chill) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yhyxzl/-mcd-chill) · 个人维护 · 中文 README
 
 **基于麦当劳中国 MCP 的点餐前热量/复购/用券体检器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yhyxzl/-mcd-chill 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 52 --> 91
-    line [55, 75, 81, 87, 88]
+    title "yhyxzl/-mcd-chill 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 52 --> 92
+    line [55, 75, 81, 87, 88, 89]
 ```
 
-2026-10-25 55 → 2026-10-29 88（+33）
+2026-10-25 55 → 2026-10-30 89（+34）
 
 
 ---

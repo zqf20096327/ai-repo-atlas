@@ -1,6 +1,6 @@
 # Yapie0/carboncode
 
-⭐ 198 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Yapie0/carboncode) · [官网](https://yapie0.github.io/carboncode/) · 个人维护 · 中文 README
+⭐ 199 · TypeScript · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Yapie0/carboncode) · [官网](https://yapie0.github.io/carboncode/) · 个人维护 · 中文 README
 
 **基于 DeepSeek 的命令行编码智能体，代码修改与任务自动执行**
 
@@ -45,12 +45,12 @@ TypeScript 编写的终端编码智能体（CLI/TUI）：在项目目录启动�
 ```mermaid
 xychart-beta
     title "Yapie0/carboncode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 197 --> 199
-    line [198, 198]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 197 --> 200
+    line [198, 199]
 ```
 
-2026-10-18 198 → 2026-10-29 198（+0）
+2026-10-18 198 → 2026-10-30 199（+1）
 
 
 ---

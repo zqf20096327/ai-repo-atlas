@@ -1,6 +1,6 @@
 # mrajaeim/image-pipes
 
-⭐ 126 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mrajaeim/image-pipes) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mrajaeim/image-pipes) · 个人维护
 
 **可视化计算机视觉流水线构建器，实时预览并导出 Python**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrajaeim/image-pipes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 123 --> 127
     line [124, 125, 126, 126]
 ```
 
-2026-10-18 124 → 2026-10-29 126（+2）
+2026-10-18 124 → 2026-10-30 126（+2）
 
 
 ---

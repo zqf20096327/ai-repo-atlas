@@ -1,6 +1,6 @@
 # freelensapp/freelens-ai-extension
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/freelensapp/freelens-ai-extension) · [官网](https://freelens.app/) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/freelensapp/freelens-ai-extension) · [官网](https://freelens.app/) · 组织维护
 
 **Freelens 的 Kubernetes AI 助手扩展：自然语言读写集群**
 
@@ -45,12 +45,12 @@ Freelens（Kubernetes 桌面客户端）的 AI 扩展：以聊天形式用自然
 ```mermaid
 xychart-beta
     title "freelensapp/freelens-ai-extension 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 37（+0）
 
 
 ---

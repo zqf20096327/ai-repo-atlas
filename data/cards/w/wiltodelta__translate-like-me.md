@@ -1,6 +1,6 @@
 # wiltodelta/translate-like-me
 
-⭐ 18 · Swift · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wiltodelta/translate-like-me) · [官网](https://wiltodelta.com/projects/translate-like-me/) · 个人维护
+⭐ 18 · Swift · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wiltodelta/translate-like-me) · [官网](https://wiltodelta.com/projects/translate-like-me/) · 个人维护
 
 **macOS 菜单栏应用：快捷键原位翻译/改写文本并本地听写**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wiltodelta/translate-like-me 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 18（+1）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

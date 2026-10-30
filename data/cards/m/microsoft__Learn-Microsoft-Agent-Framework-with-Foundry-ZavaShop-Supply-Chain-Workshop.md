@@ -1,6 +1,6 @@
 # microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop
 
-⭐ 47 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop) · 组织维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop) · 组织维护 · 中文 README
 
 **微软 Agent Framework + Foundry 供应链实战工作坊（5 个 LAB）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Learn-Microsoft-Agent-Framework-with-Foundry-ZavaShop-Supply-Chain-Workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-18 47 → 2026-10-29 47（+0）
+2026-10-18 47 → 2026-10-30 48（+1）
 
 
 ---

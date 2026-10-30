@@ -45,12 +45,12 @@ Overseek Socials 是基于 Next.js/React/Prisma/PostgreSQL 的社交媒体运营
 ```mermaid
 xychart-beta
     title "MerlinStacks/socaliseit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 31（+0）
 
 
 ---

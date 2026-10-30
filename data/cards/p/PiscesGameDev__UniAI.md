@@ -1,6 +1,6 @@
 # PiscesGameDev/UniAI
 
-⭐ 31 · C# · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/PiscesGameDev/UniAI) · 组织维护 · 中文 README
+⭐ 30 · C# · Apache-2.0 · 推送 2026-05-06 · [GitHub](https://github.com/PiscesGameDev/UniAI) · 组织维护 · 中文 README
 
 **Unity 的 AI 交互框架：统一 Chat/Agent/Tool/MCP 与多模态能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PiscesGameDev/UniAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 30（-1）
 
 
 ---

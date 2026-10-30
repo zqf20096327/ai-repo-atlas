@@ -1,6 +1,6 @@
 # HPInc/AI-Blueprints
 
-⭐ 217 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/HPInc/AI-Blueprints) · [官网](https://hp.com/ai-studio) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **HP 维护的本地 AI 蓝图项目集：20+ 端到端示例工程**
 
@@ -11,7 +11,7 @@ HP AI Studio 团队维护的 AI 蓝图项目集合，包含 20 余个端到端�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # mikrotik-mcp/mikrotik-mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mikrotik-mcp/mikrotik-mcp) · [官网](https://mikrotik-mcp.usestrict.dev) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mikrotik-mcp/mikrotik-mcp) · [官网](https://mikrotik-mcp.usestrict.dev) · 个人维护
 
 **把 MikroTik 路由器变成 AI 可调用的 924 个 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikrotik-mcp/mikrotik-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "mikrotik-mcp/mikrotik-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24]
+    line [21, 22, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-10-29 24（+3）
+2026-10-18 21 → 2026-10-30 24（+3）
 
 
 ---

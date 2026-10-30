@@ -1,6 +1,6 @@
 # unslothai/notebooks
 
-⭐ 5,760 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 5,765 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
 
 **250+ 模型微调与强化学习 Jupyter Notebook 集合（Colab）**
 
@@ -44,13 +44,13 @@ Unsloth 维护的微调与 RL Notebook 仓库：按模型（Gemma、Qwen、Llama
 
 ```mermaid
 xychart-beta
-    title "unslothai/notebooks 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5742 --> 5761
-    line [5743, 5748, 5749, 5750, 5753, 5755, 5757, 5760]
+    title "unslothai/notebooks 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5741 --> 5767
+    line [5743, 5748, 5749, 5750, 5753, 5755, 5757, 5760, 5765]
 ```
 
-2026-10-18 5,743 → 2026-10-29 5,760（+17）
+2026-10-18 5,743 → 2026-10-30 5,765（+22）
 
 
 ---

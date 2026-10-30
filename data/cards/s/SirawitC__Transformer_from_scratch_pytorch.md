@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SirawitC/Transformer_from_scratch_pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "SirawitC/Transformer_from_scratch_pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 76 --> 80
-    line [77, 78, 79]
+    line [77, 78, 79, 79]
 ```
 
-2026-10-18 77 → 2026-10-29 79（+2）
+2026-10-18 77 → 2026-10-30 79（+2）
 
 
 ---

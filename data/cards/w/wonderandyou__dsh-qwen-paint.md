@@ -1,6 +1,6 @@
 # wonderandyou/dsh-qwen-paint
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/wonderandyou/dsh-qwen-paint) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/wonderandyou/dsh-qwen-paint) · 个人维护 · 中文 README
 
 **DSH 插件：对话中调用本机 ComfyUI 用千画出图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wonderandyou/dsh-qwen-paint 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4 --> 31
-    line [6, 7, 9, 11, 14, 19, 24, 29]
+    title "wonderandyou/dsh-qwen-paint 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4 --> 34
+    line [6, 7, 9, 11, 14, 19, 24, 29, 32]
 ```
 
-2026-10-18 6 → 2026-10-29 29（+23）
+2026-10-18 6 → 2026-10-30 32（+26）
 
 
 ---

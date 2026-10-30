@@ -1,6 +1,6 @@
 # PatrykIti/blender-ai-mcp
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/PatrykIti/blender-ai-mcp) · 个人维护
+⭐ 66 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/PatrykIti/blender-ai-mcp) · 个人维护
 
 **供 MCP 客户端控制 Blender 的 MCP 服务器（已停止维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PatrykIti/blender-ai-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-18 65 → 2026-10-29 65（+0）
+2026-10-18 65 → 2026-10-30 66（+1）
 
 
 ---

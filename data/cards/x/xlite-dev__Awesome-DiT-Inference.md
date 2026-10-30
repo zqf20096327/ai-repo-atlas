@@ -1,6 +1,6 @@
 # xlite-dev/Awesome-DiT-Inference
 
-⭐ 593 · Python · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/xlite-dev/Awesome-DiT-Inference) · 组织维护
+⭐ 594 · Python · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/xlite-dev/Awesome-DiT-Inference) · 组织维护
 
 **扩散模型推理加速论文与代码的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "xlite-dev/Awesome-DiT-Inference 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "xlite-dev/Awesome-DiT-Inference 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 590 --> 595
-    line [591, 592, 593, 594, 593]
+    line [591, 592, 593, 594, 593, 594]
 ```
 
-2026-10-18 591 → 2026-10-29 593（+2）
+2026-10-18 591 → 2026-10-30 594（+3）
 
 
 ---

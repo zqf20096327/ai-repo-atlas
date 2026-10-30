@@ -1,6 +1,6 @@
 # elirantutia/vibeyard
 
-⭐ 1,390 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/elirantutia/vibeyard) · 个人维护
+⭐ 1,391 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/elirantutia/vibeyard) · 个人维护
 
 **面向 AI 编码代理的桌面 IDE：并行管理多 agent 会话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "elirantutia/vibeyard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 1386 --> 1391
-    line [1389, 1387, 1388, 1390]
+    title "elirantutia/vibeyard 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1386 --> 1392
+    line [1389, 1387, 1388, 1390, 1391]
 ```
 
-2026-10-18 1,389 → 2026-10-29 1,390（+1）
+2026-10-18 1,389 → 2026-10-30 1,391（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/shimmy
 
-⭐ 5,997 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmy) · 个人维护 · 中文 README
+⭐ 6,000 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmy) · 个人维护 · 中文 README
 
 **纯 Rust 单二进制本地 GGUF 推理服务器，OpenAI API 兼容**
 
@@ -45,13 +45,13 @@ Shimmy 是单二进制的 OpenAI 兼容本地推理服务器，加载 GGUF 模�
 
 ```mermaid
 xychart-beta
-    title "Michael-A-Kuykendall/shimmy 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5982 --> 5998
-    line [5983, 5986, 5988, 5989, 5991, 5994, 5996, 5997]
+    title "Michael-A-Kuykendall/shimmy 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5982 --> 6001
+    line [5983, 5986, 5988, 5989, 5991, 5994, 5996, 5997, 6000]
 ```
 
-2026-10-18 5,983 → 2026-10-29 5,997（+14）
+2026-10-18 5,983 → 2026-10-30 6,000（+17）
 
 
 ---

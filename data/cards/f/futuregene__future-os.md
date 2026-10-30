@@ -1,6 +1,6 @@
 # futuregene/future-os
 
-⭐ 112 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/futuregene/future-os) · [官网](https://future-os.cn) · 组织维护 · 中文 README
+⭐ 112 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/futuregene/future-os) · [官网](https://future-os.cn) · 组织维护 · 中文 README
 
 **跨终端/桌面/移动/IM 的个人 AI 代理，Rust 单核多端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "futuregene/future-os 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 109 --> 113
     line [110, 111, 110, 112, 112]
 ```
 
-2026-10-18 110 → 2026-10-29 112（+2）
+2026-10-18 110 → 2026-10-30 112（+2）
 
 
 ---

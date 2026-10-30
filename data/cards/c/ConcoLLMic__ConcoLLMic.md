@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConcoLLMic/ConcoLLMic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "ConcoLLMic/ConcoLLMic 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 162 --> 165
-    line [163, 164]
+    line [163, 164, 164]
 ```
 
-2026-10-18 163 → 2026-10-29 164（+1）
+2026-10-18 163 → 2026-10-30 164（+1）
 
 
 ---

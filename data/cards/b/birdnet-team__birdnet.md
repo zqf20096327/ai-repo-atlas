@@ -1,6 +1,6 @@
 # birdnet-team/birdnet
 
-⭐ 164 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/birdnet-team/birdnet) · [官网](https://birdnet-team.github.io/birdnet/) · 组织维护
+⭐ 164 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/birdnet-team/birdnet) · [官网](https://birdnet-team.github.io/birdnet/) · 组织维护
 
 **通过鸟鸣声音识别鸟类物种的 Python 库，面向生态声学分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "birdnet-team/birdnet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 159 --> 165
     line [160, 161, 162, 163, 164, 164]
 ```
 
-2026-10-18 160 → 2026-10-29 164（+4）
+2026-10-18 160 → 2026-10-30 164（+4）
 
 
 ---

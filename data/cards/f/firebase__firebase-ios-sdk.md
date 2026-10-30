@@ -1,6 +1,6 @@
 # firebase/firebase-ios-sdk
 
-⭐ 6,977 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/firebase/firebase-ios-sdk) · [官网](https://firebase.google.com) · 组织维护
+⭐ 6,978 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/firebase/firebase-ios-sdk) · [官网](https://firebase.google.com) · 组织维护
 
 **面向 Apple 平台开发者的 Firebase 官方 SDK 源码库**
 
@@ -44,13 +44,13 @@ Google Firebase 的 Apple 平台 SDK 开源仓库，包含除 FirebaseAnalytics 
 
 ```mermaid
 xychart-beta
-    title "firebase/firebase-ios-sdk 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "firebase/firebase-ios-sdk 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 6967 --> 6981
-    line [6968, 6974, 6975, 6979, 6980, 6977, 6978, 6977]
+    line [6968, 6974, 6975, 6979, 6980, 6977, 6978, 6977, 6978]
 ```
 
-2026-10-18 6,968 → 2026-10-29 6,977（+9）
+2026-10-18 6,968 → 2026-10-30 6,978（+10）
 
 
 ---

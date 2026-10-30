@@ -1,6 +1,6 @@
 # PaperDebugger/paperdebugger
 
-⭐ 1,549 · TypeScript · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/PaperDebugger/paperdebugger) · [官网](https://www.paperdebugger.com/) · 组织维护
+⭐ 1,550 · TypeScript · AGPL-3.0 · 推送 2026-07-03 · [GitHub](https://github.com/PaperDebugger/paperdebugger) · [官网](https://www.paperdebugger.com/) · 组织维护
 
 **给科研人员的 Overleaf 论文写作 AI 助手（Chrome 扩展）**
 
@@ -45,12 +45,12 @@ Chrome 浏览器扩展形态的学术论文写作助手：在 Overleaf 编辑器
 ```mermaid
 xychart-beta
     title "PaperDebugger/paperdebugger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1545 --> 1550
-    line [1546, 1549, 1549]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 1545 --> 1551
+    line [1546, 1549, 1550]
 ```
 
-2026-10-18 1,546 → 2026-10-29 1,549（+3）
+2026-10-18 1,546 → 2026-10-30 1,550（+4）
 
 
 ---

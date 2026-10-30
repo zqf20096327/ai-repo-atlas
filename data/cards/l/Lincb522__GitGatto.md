@@ -1,6 +1,6 @@
 # Lincb522/GitGatto
 
-⭐ 346 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Lincb522/GitGatto) · 个人维护 · 中文 README
+⭐ 345 · Swift · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Lincb522/GitGatto) · 个人维护 · 中文 README
 
 **macOS 原生 Git/GitHub 客户端：Agent 参与仓库管理与交付保护**
 
@@ -47,12 +47,12 @@ Swift/SwiftUI 编写的 macOS 桌面应用，覆盖 Git 与 GitHub 日常操作�
 ```mermaid
 xychart-beta
     title "Lincb522/GitGatto 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
     y-axis "stars" 343 --> 362
-    line [360, 361, 344, 345, 346, 346]
+    line [360, 361, 344, 345, 346, 345]
 ```
 
-2026-10-18 360 → 2026-10-29 346（-14）
+2026-10-18 360 → 2026-10-30 345（-15）
 
 
 ---

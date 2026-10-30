@@ -46,12 +46,12 @@ AgentDrop 是一个面向 AI agent 的静态页面托管服务：通过一次 HT
 ```mermaid
 xychart-beta
     title "opencoredev/agent-drop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # arais-labs/sentinel
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/arais-labs/sentinel) · 组织维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/arais-labs/sentinel) · 组织维护
 
 **把聊天、桌面、终端与 agent 工具聚合到一个桌面应用的 AI 工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arais-labs/sentinel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

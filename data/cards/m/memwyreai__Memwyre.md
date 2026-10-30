@@ -1,6 +1,6 @@
 # memwyreai/Memwyre
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/memwyreai/Memwyre) · [官网](https://memwyre.tech) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/memwyreai/Memwyre) · [官网](https://memwyre.tech) · 组织维护
 
 **面向 LLM 与 AI agent 的开源持久记忆基础设施层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "memwyreai/Memwyre 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 16 --> 32
-    line [17, 23, 29, 30, 27, 29, 28, 29, 31]
+    title "memwyreai/Memwyre 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 33
+    line [17, 23, 29, 30, 27, 29, 28, 29, 31, 32]
 ```
 
-2026-10-18 17 → 2026-10-29 31（+14）
+2026-10-18 17 → 2026-10-30 32（+15）
 
 
 ---

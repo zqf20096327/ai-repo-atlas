@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    title "T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # als-apg/osprey
 
-⭐ 78 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/als-apg/osprey) · [官网](https://als-apg.github.io/osprey/) · 组织维护
+⭐ 79 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/als-apg/osprey) · [官网](https://als-apg.github.io/osprey/) · 组织维护
 
 **面向科学装置控制系统的 agentic 接口与安全护栏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "als-apg/osprey 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 74 --> 79
-    line [75, 77, 78]
+    title "als-apg/osprey 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 74 --> 80
+    line [75, 77, 78, 79]
 ```
 
-2026-10-18 75 → 2026-10-29 78（+3）
+2026-10-18 75 → 2026-10-30 79（+4）
 
 
 ---

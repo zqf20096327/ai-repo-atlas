@@ -1,6 +1,6 @@
 # huggingface/dataset-viewer
 
-⭐ 906 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/dataset-viewer) · [官网](https://huggingface.co/docs/dataset-viewer) · 组织维护
+⭐ 906 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/dataset-viewer) · [官网](https://huggingface.co/docs/dataset-viewer) · 组织维护
 
 **支撑 Hugging Face 数据集页面的数据集查看器后端 API**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/dataset-viewer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 902 --> 907
     line [904, 903, 904, 906, 906]
 ```
 
-2026-10-18 904 → 2026-10-29 906（+2）
+2026-10-18 904 → 2026-10-30 906（+2）
 
 
 ---

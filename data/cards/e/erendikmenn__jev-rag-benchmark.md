@@ -1,6 +1,6 @@
 # erendikmenn/jev-rag-benchmark
 
-⭐ 19 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/erendikmenn/jev-rag-benchmark) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/erendikmenn/jev-rag-benchmark) · 个人维护
 
 **测量 Jev 重排在 RAG 中质量、延迟与成本的可复现基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erendikmenn/jev-rag-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-29 19（+1）
+2026-10-18 18 → 2026-10-30 20（+2）
 
 
 ---

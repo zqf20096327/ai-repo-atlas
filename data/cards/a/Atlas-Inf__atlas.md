@@ -1,6 +1,6 @@
 # Atlas-Inf/atlas
 
-⭐ 37 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Atlas-Inf/atlas) · [官网](https://atlasinference.dev) · 组织维护
+⭐ 37 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Atlas-Inf/atlas) · [官网](https://atlasinference.dev) · 组织维护
 
 **纯 Rust/CUDA 的 LLM 本地推理引擎，面向工作站硬件**
 
@@ -44,13 +44,13 @@ Atlas 是用纯 Rust 与 CUDA 编写的 LLM 推理引擎，以单一紧凑二进
 
 ```mermaid
 xychart-beta
-    title "Atlas-Inf/atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "Atlas-Inf/atlas 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-10-29 37（+3）
+2026-10-18 34 → 2026-10-30 37（+3）
 
 
 ---

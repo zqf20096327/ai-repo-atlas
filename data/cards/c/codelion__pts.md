@@ -1,6 +1,6 @@
 # codelion/pts
 
-⭐ 160 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/codelion/pts) · 个人维护
+⭐ 160 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/codelion/pts) · 个人维护
 
 **模型推理关键事件的因果搜索框架：定位改变解题结果的 token/句/隐层概念**
 
@@ -46,12 +46,12 @@ PTS 将三种粒度的推理关键事件统一处理：隐层工作区概念（L
 ```mermaid
 xychart-beta
     title "codelion/pts 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 158 --> 161
     line [159, 160, 160]
 ```
 
-2026-10-18 159 → 2026-10-29 160（+1）
+2026-10-18 159 → 2026-10-30 160（+1）
 
 
 ---

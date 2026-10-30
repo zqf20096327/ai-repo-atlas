@@ -1,6 +1,6 @@
 # bergside/awesome-design-skills
 
-⭐ 3,387 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/bergside/awesome-design-skills) · [官网](https://www.typeui.sh/design-skills) · 个人维护
+⭐ 3,402 · MIT · 推送 2026-06-28 · [GitHub](https://github.com/bergside/awesome-design-skills) · [官网](https://www.typeui.sh/design-skills) · 个人维护
 
 **面向 AI 编码工具的 67 个设计系统技能文件注册表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bergside/awesome-design-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3214 --> 3402
-    line [3229, 3261, 3286, 3306, 3318, 3328, 3342, 3353, 3373, 3387]
+    title "bergside/awesome-design-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3212 --> 3419
+    line [3229, 3261, 3286, 3306, 3318, 3328, 3342, 3353, 3373, 3387, 3402]
 ```
 
-2026-10-18 3,229 → 2026-10-29 3,387（+158）
+2026-10-18 3,229 → 2026-10-30 3,402（+173）
 
 
 ---

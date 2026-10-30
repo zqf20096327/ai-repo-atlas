@@ -1,6 +1,6 @@
 # QInzhengk/Math-Model-and-Machine-Learning
 
-⭐ 657 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/QInzhengk/Math-Model-and-Machine-Learning) · [官网](https://zread.ai/QInzhengk/Math-Model-and-Machine-Learning) · 个人维护 · 中文 README
+⭐ 658 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/QInzhengk/Math-Model-and-Machine-Learning) · [官网](https://zread.ai/QInzhengk/Math-Model-and-Machine-Learning) · 个人维护 · 中文 README
 
 **数学建模与机器学习/深度学习/大模型的学习资料合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QInzhengk/Math-Model-and-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 655 --> 658
-    line [656, 657, 657]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 655 --> 659
+    line [656, 657, 658]
 ```
 
-2026-10-18 656 → 2026-10-29 657（+1）
+2026-10-18 656 → 2026-10-30 658（+2）
 
 
 ---

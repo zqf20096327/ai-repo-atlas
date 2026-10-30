@@ -1,6 +1,6 @@
 # RizwanMunawar/trajectory-forcast
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/RizwanMunawar/trajectory-forcast) · [官网](https://rizwanai.com/) · 个人维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/RizwanMunawar/trajectory-forcast) · [官网](https://rizwanai.com) · 个人维护
 
 **视频目标跟踪与轨迹预测包：YOLO 检测加卡尔曼预测未来位置**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RizwanMunawar/trajectory-forcast 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # directionally-local/autopilot
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
+⭐ 177 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
 
 **开源终端编码 agent 与 SDK，自带密钥接入 25+ 供应商**
 
@@ -40,6 +40,18 @@
 > L13:  A terminal coding agent that runs on your own provider key.
 > L20: autopilot sends every model call to **the provider you choose** using **your own key** — bring-your-own-key, nothin
 > L52: - **Headless SDK** — Programmatic `createAgentSession` API and JSONL-over-stdio RPC mode for building on top of aut
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "directionally-local/autopilot 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 176 --> 178
+    line [177, 177]
+```
+
+2026-10-29 177 → 2026-10-30 177（+0）
 
 
 ---

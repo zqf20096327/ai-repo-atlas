@@ -1,6 +1,6 @@
 # google-deepmind/disentangled_rnns
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/disentangled_rnns) · [官网](https://openreview.net/pdf?id=SOEF0i0G1z) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google-deepmind/disentangled_rnns) · [官网](https://openreview.net/pdf?id=SOEF0i0G1z) · 组织维护
 
 **面向科研的 DisRNN 认知模型发现代码库：拟合行为与神经数据**
 
@@ -45,12 +45,12 @@ Disentangled RNN（DisRNN）是一种循环神经网络架构，用于发现与�
 ```mermaid
 xychart-beta
     title "google-deepmind/disentangled_rnns 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-29 46（+0）
+2026-10-18 46 → 2026-10-30 47（+1）
 
 
 ---

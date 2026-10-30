@@ -1,6 +1,6 @@
 # Water-Run/ft
 
-⭐ 26 · JavaScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Water-Run/ft) · [官网](https://space.bilibili.com/68328330) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Water-Run/ft) · [官网](https://space.bilibili.com/68328330) · 个人维护 · 中文 README
 
 **用 LLM 协助制作科普视频的自由视频项目与制作工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Water-Run/ft 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18 --> 27
-    line [19, 22, 24, 25, 26]
+    title "Water-Run/ft 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 18 --> 30
+    line [19, 22, 24, 25, 26, 29]
 ```
 
-2026-10-22 19 → 2026-10-29 26（+7）
+2026-10-22 19 → 2026-10-30 29（+10）
 
 
 ---

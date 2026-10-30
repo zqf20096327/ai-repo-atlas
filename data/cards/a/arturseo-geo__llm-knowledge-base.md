@@ -1,6 +1,6 @@
 # arturseo-geo/llm-knowledge-base
 
-⭐ 40 · MIT · 推送 2026-04-06 · [GitHub](https://github.com/arturseo-geo/llm-knowledge-base) · [官网](https://thegeolab.net) · 个人维护
+⭐ 41 · MIT · 推送 2026-04-06 · [GitHub](https://github.com/arturseo-geo/llm-knowledge-base) · [官网](https://thegeolab.net) · 个人维护
 
 **面向个人知识库的 LLM 编译 schema 标准：AGENTS.md 规范+模板+学习层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arturseo-geo/llm-knowledge-base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 41（+1）
 
 
 ---

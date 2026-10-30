@@ -1,6 +1,6 @@
 # riccardoruspoli/reko
 
-⭐ 64 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/riccardoruspoli/reko) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/riccardoruspoli/reko) · 个人维护
 
 **把 YouTube 视频转成 Markdown 摘要的本地优先 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "riccardoruspoli/reko 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

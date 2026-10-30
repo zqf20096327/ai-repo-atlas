@@ -1,6 +1,6 @@
 # DavidDingXu/hello-llm
 
-⭐ 36 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DavidDingXu/hello-llm) · [官网](https://daviddingxu.github.io/hello-llm/) · 组织维护 · 中文 README
+⭐ 39 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DavidDingXu/hello-llm) · [官网](https://daviddingxu.github.io/hello-llm/) · 组织维护 · 中文 README
 
 **LLM 入门图解课程：20 讲手写 92,352 参数小模型**
 
@@ -40,6 +40,18 @@
 > L17: Hello LLM 是「好好用 AI」原创的语言模型入门课程。沿着一个 **92,352 参数的小模型**，把神经元、梯度、注意力、预训练、生成与问答微调串起来。
 > L19: 不要求先学过 Python 或深度学习，可以从图解和网页实验开始。全部代码可在 CPU 上运行。每讲配有图解、视频、代码和练习。
 > L31: |讲次|这一讲要解决的问题|视频|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DavidDingXu/hello-llm 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 35 --> 40
+    line [36, 39]
+```
+
+2026-10-29 36 → 2026-10-30 39（+3）
 
 
 ---

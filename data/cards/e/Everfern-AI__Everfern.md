@@ -1,6 +1,6 @@
 # Everfern-AI/Everfern
 
-⭐ 95 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Everfern-AI/Everfern) · [官网](https://everfern.app) · 组织维护
+⭐ 97 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Everfern-AI/Everfern) · [官网](https://everfern.app) · 组织维护
 
 **本地运行的桌面 AI agent：用自然语言操控电脑完成各类任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Everfern-AI/Everfern 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 93 --> 98
+    line [94, 95, 97]
 ```
 
-2026-10-18 94 → 2026-10-29 95（+1）
+2026-10-18 94 → 2026-10-30 97（+3）
 
 
 ---

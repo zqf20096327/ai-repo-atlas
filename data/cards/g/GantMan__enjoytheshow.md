@@ -40,6 +40,18 @@
 > L7: This app uses face-api to gauge your facial expression, and then sends all faces in a particular URL or (room) to a 
 > L19: - @vladmandic/face-api (TensorFlow.js) for face detection + expressions, lazy-loaded only on `/room/*`. Model weigh
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GantMan/enjoytheshow 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-10-29 41 → 2026-10-30 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `25510c3fdbeb` · [字段定义](../../DATASET.md)*

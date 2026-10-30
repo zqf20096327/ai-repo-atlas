@@ -1,6 +1,6 @@
 # liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism
 
-⭐ 294 · Python · 推送 2026-05-25 · [GitHub](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) · 个人维护 · 中文 README
+⭐ 295 · Python · 推送 2026-05-25 · [GitHub](https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism) · 个人维护 · 中文 README
 
 **论文代码：注意力机制的小样本旋转机械故障诊断（PyTorch）**
 
@@ -45,13 +45,13 @@ PyTorch 实现的论文代码库 DCA-BiGRU，对应论文《基于注意力机�
 
 ```mermaid
 xychart-beta
-    title "liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 292 --> 295
-    line [293, 294]
+    title "liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 292 --> 296
+    line [293, 294, 295]
 ```
 
-2026-10-18 293 → 2026-10-29 294（+1）
+2026-10-18 293 → 2026-10-30 295（+2）
 
 
 ---

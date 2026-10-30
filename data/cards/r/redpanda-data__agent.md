@@ -45,12 +45,12 @@ Redpanda Data 维护的 agent 开发体验项目，README 仅给出定位口号�
 ```mermaid
 xychart-beta
     title "redpanda-data/agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-29 67（+0）
+2026-10-18 67 → 2026-10-30 67（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alation/alation-ai-agent-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "Alation/alation-ai-agent-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 20
-    line [19, 18]
+    line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-10-29 18（-1）
+2026-10-18 19 → 2026-10-30 18（-1）
 
 
 ---

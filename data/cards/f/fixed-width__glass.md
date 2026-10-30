@@ -1,6 +1,6 @@
 # fixed-width/glass
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/fixed-width/glass) · [官网](https://fixedwidth.tech/glass) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/fixed-width/glass) · [官网](https://fixedwidth.tech/glass) · 组织维护
 
 **让编码 agent 驱动原生 GUI 应用的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Rust 编写的 MCP 服务器，为 AI 编码 agent 提供对原生 GUI 应用的
 ```mermaid
 xychart-beta
     title "fixed-width/glass 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 20（+2）
 
 
 ---

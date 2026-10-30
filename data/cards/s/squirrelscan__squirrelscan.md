@@ -1,6 +1,6 @@
 # squirrelscan/squirrelscan
 
-⭐ 299 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/squirrelscan/squirrelscan) · [官网](https://squirrelscan.com) · 组织维护
+⭐ 299 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/squirrelscan/squirrelscan) · [官网](https://squirrelscan.com) · 组织维护
 
 **面向编码代理的网站 QA 审计 CLI，300+ 规则并给出修复方案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "squirrelscan/squirrelscan 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 281 --> 300
     line [282, 286, 292, 295, 296, 298, 299, 299]
 ```
 
-2026-10-18 282 → 2026-10-29 299（+17）
+2026-10-18 282 → 2026-10-30 299（+17）
 
 
 ---

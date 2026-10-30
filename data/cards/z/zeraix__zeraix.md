@@ -1,6 +1,6 @@
 # zeraix/zeraix
 
-⭐ 406 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zeraix/zeraix) · [官网](https://zeraix.com) · 组织维护
+⭐ 407 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/zeraix/zeraix) · [官网](https://zeraix.com) · 组织维护
 
 **开源本地 AI 桌面工作台：本机运行模型、文件、工具与 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeraix/zeraix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "zeraix/zeraix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 405 --> 414
-    line [413, 411, 407, 406]
+    line [413, 411, 407, 406, 407]
 ```
 
-2026-10-18 413 → 2026-10-29 406（-7）
+2026-10-18 413 → 2026-10-30 407（-6）
 
 
 ---

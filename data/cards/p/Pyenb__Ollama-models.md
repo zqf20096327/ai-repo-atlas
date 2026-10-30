@@ -1,6 +1,6 @@
 # Pyenb/Ollama-models
 
-⭐ 96 · Shell · GPL-3.0 · 推送 2025-11-02 · [GitHub](https://github.com/Pyenb/Ollama-models) · [官网](https://data.pyenb.network/Github/Ollama/models/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Ollama 模型离线分发仓库：下载解压即用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

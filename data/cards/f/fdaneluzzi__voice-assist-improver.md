@@ -1,6 +1,6 @@
 # fdaneluzzi/voice-assist-improver
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/fdaneluzzi/voice-assist-improver) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/fdaneluzzi/voice-assist-improver) · 个人维护
 
 **Home Assistant Assist 的 LLM 回退应用：记录未识别指令并建议改进**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fdaneluzzi/voice-assist-improver 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 17 --> 24
-    line [18, 19, 21, 22, 23]
+    title "fdaneluzzi/voice-assist-improver 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 21, 22, 23, 25]
 ```
 
-2026-10-25 18 → 2026-10-29 23（+5）
+2026-10-25 18 → 2026-10-30 25（+7）
 
 
 ---

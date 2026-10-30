@@ -1,6 +1,6 @@
 # Quack6765/Eidon-AI
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Quack6765/Eidon-AI) · [官网](https://eidonai.app) · 个人维护 · 中文 README
+⭐ 46 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/Quack6765/Eidon-AI) · [官网](https://eidonai.app) · 个人维护 · 中文 README
 
 **自托管 BYOK 多 agent 协作与日常对话 AI 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Quack6765/Eidon-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43]
+    title "Quack6765/Eidon-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 40 --> 47
+    line [41, 42, 43, 46]
 ```
 
-2026-10-18 41 → 2026-10-29 43（+2）
+2026-10-18 41 → 2026-10-30 46（+5）
 
 
 ---

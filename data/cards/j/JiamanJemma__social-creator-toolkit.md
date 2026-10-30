@@ -1,6 +1,6 @@
 # JiamanJemma/social-creator-toolkit
 
-⭐ 35 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/JiamanJemma/social-creator-toolkit) · [官网](https://jiamanjemma.com) · 个人维护 · 中文 README
+⭐ 34 · MIT · 推送 2026-03-04 · [GitHub](https://github.com/JiamanJemma/social-creator-toolkit) · [官网](https://jiamanjemma.com) · 个人维护 · 中文 README
 
 **Claude Code 技能：短视频多平台文案与发布策略生成工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JiamanJemma/social-creator-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 34（-1）
 
 
 ---

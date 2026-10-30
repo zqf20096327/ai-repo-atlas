@@ -1,6 +1,6 @@
 # microsoft/multi-modal-rag-with-colpali
 
-⭐ 24 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/multi-modal-rag-with-colpali) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/multi-modal-rag-with-colpali) · 组织维护
 
 **面向企业的视觉文档 RAG 部署加速器（AKS + ColPali）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/multi-modal-rag-with-colpali 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 27]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 27（+4）
 
 
 ---

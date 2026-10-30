@@ -1,6 +1,6 @@
 # Juwan-Hwang/omni2api
 
-⭐ 43 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Juwan-Hwang/omni2api) · [官网](juwanh.com/lab/omni2api) · 个人维护 · 中文 README
+⭐ 44 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Juwan-Hwang/omni2api) · [官网](juwanh.com/lab/omni2api) · 个人维护 · 中文 README
 
 **把终端侧 AI agent 包装成 OpenAI 兼容 API 的 Rust 服务器**
 
@@ -44,13 +44,13 @@ Rust + Axum 实现的自托管服务器，在通常由模型占据的位置设�
 
 ```mermaid
 xychart-beta
-    title "Juwan-Hwang/omni2api 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 36 --> 44
-    line [37, 38, 40, 41, 43]
+    title "Juwan-Hwang/omni2api 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 36 --> 45
+    line [37, 38, 40, 41, 43, 44]
 ```
 
-2026-10-25 37 → 2026-10-29 43（+6）
+2026-10-25 37 → 2026-10-30 44（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # tenstorrent/tt-metal
 
-⭐ 1,731 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tenstorrent/tt-metal) · [官网](https://docs.tenstorrent.com/tt-metal/latest/ttnn/) · 组织维护
+⭐ 1,731 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tenstorrent/tt-metal) · [官网](https://docs.tenstorrent.com/tt-metal/latest/ttnn/) · 组织维护
 
 **Tenstorrent AI 加速卡的神级算子库与内核编程模型**
 
@@ -44,13 +44,13 @@ TT-NN 是面向 Tenstorrent 硬件的 Python/C++ 神经网络算子库，TT-Meta
 
 ```mermaid
 xychart-beta
-    title "tenstorrent/tt-metal 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "tenstorrent/tt-metal 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1712 --> 1732
-    line [1713, 1715, 1718, 1717, 1719, 1718, 1720, 1723, 1727, 1731]
+    line [1713, 1715, 1718, 1717, 1719, 1718, 1720, 1723, 1727, 1731, 1731]
 ```
 
-2026-10-18 1,713 → 2026-10-29 1,731（+18）
+2026-10-18 1,713 → 2026-10-30 1,731（+18）
 
 
 ---

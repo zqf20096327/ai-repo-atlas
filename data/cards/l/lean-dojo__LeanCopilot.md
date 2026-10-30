@@ -1,6 +1,6 @@
 # lean-dojo/LeanCopilot
 
-⭐ 1,338 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lean-dojo/LeanCopilot) · [官网](https://leandojo.org/leancopilot.html) · 组织维护
+⭐ 1,339 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/lean-dojo/LeanCopilot) · [官网](https://leandojo.org/leancopilot.html) · 组织维护
 
 **在 Lean 中原生运行 LLM 做定理证明辅助的库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lean-dojo/LeanCopilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1331 --> 1339
-    line [1332, 1335, 1336, 1337, 1338, 1338]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1331 --> 1340
+    line [1332, 1335, 1336, 1337, 1338, 1339]
 ```
 
-2026-10-18 1,332 → 2026-10-29 1,338（+6）
+2026-10-18 1,332 → 2026-10-30 1,339（+7）
 
 
 ---

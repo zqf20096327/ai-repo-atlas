@@ -1,6 +1,6 @@
 # milanglacier/minuet-ai.nvim
 
-⭐ 1,436 · Lua · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/milanglacier/minuet-ai.nvim) · 个人维护
+⭐ 1,437 · Lua · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/milanglacier/minuet-ai.nvim) · 个人维护
 
 **Neovim 插件：边打字边从多种 LLM 获取代码补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "milanglacier/minuet-ai.nvim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1427 --> 1437
-    line [1428, 1433, 1435, 1436, 1436]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 1427 --> 1438
+    line [1428, 1433, 1435, 1436, 1437]
 ```
 
-2026-10-18 1,428 → 2026-10-29 1,436（+8）
+2026-10-18 1,428 → 2026-10-30 1,437（+9）
 
 
 ---

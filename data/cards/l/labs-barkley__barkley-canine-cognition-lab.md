@@ -46,12 +46,12 @@ Barkley Labs 的研究原型仓库，论证以个体自身纵向基线（而非�
 ```mermaid
 xychart-beta
     title "labs-barkley/barkley-canine-cognition-lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 42（+0）
 
 
 ---

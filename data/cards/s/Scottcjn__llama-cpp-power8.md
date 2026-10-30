@@ -41,6 +41,18 @@
 > L32: Run your own models on your own hardware. This provides POWER8-specific optimizations for llama.cpp, enabling effic
 > L36: - **power8-compat.h** - POWER9 intrinsics compatibility layer for POWER8
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/llama-cpp-power8 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 129 --> 131
+    line [130, 130]
+```
+
+2026-10-29 130 → 2026-10-30 130（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `142295279cf9` · [字段定义](../../DATASET.md)*

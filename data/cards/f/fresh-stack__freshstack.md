@@ -1,6 +1,6 @@
 # fresh-stack/freshstack
 
-⭐ 34 · Python · Apache-2.0 · 推送 2025-12-09 · [GitHub](https://github.com/fresh-stack/freshstack) · [官网](https://fresh-stack.github.io) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2025-12-09 · [GitHub](https://github.com/fresh-stack/freshstack) · [官网](https://fresh-stack.github.io) · 个人维护
 
 **从社区技术内容自动构建 IR/RAG 基准并评测检索模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fresh-stack/freshstack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 32 --> 35
+    line [34, 33]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 33（-1）
 
 
 ---

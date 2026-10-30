@@ -1,6 +1,6 @@
 # ggml-org/llama.vim
 
-⭐ 2,191 · Vim Script · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ggml-org/llama.vim) · 组织维护
+⭐ 2,192 · Vim Script · MIT · 推送 2026-09-29 · [GitHub](https://github.com/ggml-org/llama.vim) · 组织维护
 
 **Vim 插件：通过本地 llama.cpp 实现 LLM 代码/文本补全**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggml-org/llama.vim 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2188 --> 2192
-    line [2189, 2191, 2190, 2189, 2191]
+    title "ggml-org/llama.vim 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2188 --> 2193
+    line [2189, 2191, 2190, 2189, 2191, 2192]
 ```
 
-2026-10-18 2,189 → 2026-10-29 2,191（+2）
+2026-10-18 2,189 → 2026-10-30 2,192（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # oficcejo/2pa-agent-rust
 
-⭐ 23 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/oficcejo/2pa-agent-rust) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
+⭐ 24 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/oficcejo/2pa-agent-rust) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
 
 **OKX 日内量化交易系统，LLM 两阶段分析、程序风控执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oficcejo/2pa-agent-rust 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 16 --> 24
-    line [17, 18, 19, 20, 22, 23]
+    title "oficcejo/2pa-agent-rust 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 25
+    line [17, 18, 19, 20, 22, 23, 24]
 ```
 
-2026-10-18 17 → 2026-10-29 23（+6）
+2026-10-18 17 → 2026-10-30 24（+7）
 
 
 ---

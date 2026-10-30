@@ -41,6 +41,18 @@ Emotube 是实验性全栈 Web 应用：通过 YouTube Data API 拉取视频元�
 > L74: - **🤖 Transformers & PyTorch** - Pretrained sentiment classifier
 > L225: - **🤖 Model** - `cardiffnlp/twitter-xlm-roberta-base-sentiment`, configured in `config.py`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "00200200/youtube-comment-sentiment-analyzer 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-10-29 39 → 2026-10-30 39（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `de3a840ec7b4` · [字段定义](../../DATASET.md)*

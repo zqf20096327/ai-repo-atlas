@@ -1,6 +1,6 @@
 # rackslab/Slurm-web
 
-⭐ 611 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rackslab/Slurm-web) · [官网](https://slurm-web.com) · 组织维护
+⭐ 612 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rackslab/Slurm-web) · [官网](https://slurm-web.com) · 组织维护
 
 **面向 Slurm HPC 与 AI 集群的开源 Web 监控面板**
 
@@ -45,12 +45,12 @@ Slurm-web 是基于 Slurm 的高性能计算集群的 Web 图形界面：提供�
 ```mermaid
 xychart-beta
     title "rackslab/Slurm-web 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 606 --> 612
-    line [608, 607, 609, 610, 611, 611]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 606 --> 613
+    line [608, 607, 609, 610, 611, 612]
 ```
 
-2026-10-18 608 → 2026-10-29 611（+3）
+2026-10-18 608 → 2026-10-30 612（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mfwarren/entrepreneur-claude-skills
 
-⭐ 83 · HTML · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mfwarren/entrepreneur-claude-skills) · [官网](https://mattwarren.co) · 个人维护
+⭐ 84 · HTML · MIT · 推送 2026-02-08 · [GitHub](https://github.com/mfwarren/entrepreneur-claude-skills) · [官网](https://mattwarren.co) · 个人维护
 
 **面向创始人的 Claude Code 创业技能包（24 个技能，6 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mfwarren/entrepreneur-claude-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 75 --> 84
-    line [76, 77, 79, 81, 83, 83]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 75 --> 85
+    line [76, 77, 79, 81, 83, 84]
 ```
 
-2026-10-18 76 → 2026-10-29 83（+7）
+2026-10-18 76 → 2026-10-30 84（+8）
 
 
 ---

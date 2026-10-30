@@ -1,6 +1,6 @@
 # nianticspatial/ace-g
 
-⭐ 108 · Python · NOASSERTION · 推送 2026-02-20 · [GitHub](https://github.com/nianticspatial/ace-g) · [官网](https://nianticspatial.github.io/ace-g/) · 组织维护
+⭐ 109 · Python · NOASSERTION · 推送 2026-02-20 · [GitHub](https://github.com/nianticspatial/ace-g) · [官网](https://nianticspatial.github.io/ace-g/) · 组织维护
 
 **ICCV 2025 场景坐标回归视觉重定位的架构与预训练方案**
 
@@ -45,12 +45,12 @@ Niantic 空间团队发布的 ICCV 2025 论文官方代码：ACE-G 通过查询�
 ```mermaid
 xychart-beta
     title "nianticspatial/ace-g 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 109]
 ```
 
-2026-10-18 107 → 2026-10-29 108（+1）
+2026-10-18 107 → 2026-10-30 109（+2）
 
 
 ---

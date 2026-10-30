@@ -1,6 +1,6 @@
 # ai9app/AI-Cinematic-Prompt-Director
 
-⭐ 22 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ai9app/AI-Cinematic-Prompt-Director) · [官网](https://ai9app.io/ai-media-agent) · 组织维护
+⭐ 23 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ai9app/AI-Cinematic-Prompt-Director) · [官网](https://ai9app.io/ai-media-agent) · 组织维护
 
 **面向 AI 视频模型的 250 条电影摄影知识库与提示词框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai9app/AI-Cinematic-Prompt-Director 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23]
 ```
 
-2026-10-18 20 → 2026-10-29 22（+2）
+2026-10-18 20 → 2026-10-30 23（+3）
 
 
 ---

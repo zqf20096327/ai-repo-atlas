@@ -1,6 +1,6 @@
 # FlashCat-Jordan/OttoClaw
 
-⭐ 83 · C · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/FlashCat-Jordan/OttoClaw) · [官网](https://www.shanmaotech.cn/ottodiy) · 组织维护 · 中文 README
+⭐ 86 · C · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/FlashCat-Jordan/OttoClaw) · [官网](https://www.shanmaotech.cn/ottodiy) · 组织维护 · 中文 README
 
 **ESP32-S3 端侧全栈运行的 AI 桌面人形机器人（不开口、钉钉交互）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FlashCat-Jordan/OttoClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 80 --> 84
-    line [81, 82, 83, 83]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 80 --> 87
+    line [81, 82, 83, 86]
 ```
 
-2026-10-18 81 → 2026-10-29 83（+2）
+2026-10-18 81 → 2026-10-30 86（+5）
 
 
 ---

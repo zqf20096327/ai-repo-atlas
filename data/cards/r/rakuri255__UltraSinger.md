@@ -1,6 +1,6 @@
 # rakuri255/UltraSinger
 
-⭐ 549 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/rakuri255/UltraSinger) · 个人维护
+⭐ 551 · Python · MIT · 推送 2026-06-30 · [GitHub](https://github.com/rakuri255/UltraSinger) · 个人维护
 
 **从歌曲自动生成 UltraStar 卡拉OK、MIDI 与乐谱的 AI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rakuri255/UltraSinger 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 545 --> 551
-    line [546, 547, 548, 549, 550, 549]
+    title "rakuri255/UltraSinger 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 545 --> 552
+    line [546, 547, 548, 549, 550, 549, 551]
 ```
 
-2026-10-18 546 → 2026-10-29 549（+3）
+2026-10-18 546 → 2026-10-30 551（+5）
 
 
 ---

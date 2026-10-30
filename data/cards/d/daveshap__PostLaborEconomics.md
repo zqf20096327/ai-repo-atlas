@@ -44,13 +44,13 @@ David Shapiro 的个人研究仓库，为其多本书籍（含 Labor Zero）收�
 
 ```mermaid
 xychart-beta
-    title "daveshap/PostLaborEconomics 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29"]
+    title "daveshap/PostLaborEconomics 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 156 --> 160
-    line [157, 158, 159]
+    line [157, 158, 159, 159]
 ```
 
-2026-10-24 157 → 2026-10-29 159（+2）
+2026-10-24 157 → 2026-10-30 159（+2）
 
 
 ---

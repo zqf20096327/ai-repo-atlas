@@ -1,6 +1,6 @@
 # Hermes-brasil/hermes-brasil
 
-⭐ 156 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hermes-brasil/hermes-brasil) · [官网](https://chat.whatsapp.com/DIDJlL9yQdlBY0fa4pABbe) · 组织维护
+⭐ 157 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Hermes-brasil/hermes-brasil) · [官网](https://chat.whatsapp.com/DIDJlL9yQdlBY0fa4pABbe) · 组织维护
 
 **Hermes Agent 巴西社区：葡语技能、指南与集成资源仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hermes-brasil/hermes-brasil 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
+    title "Hermes-brasil/hermes-brasil 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 152 --> 158
-    line [153, 154, 156, 157, 156]
+    line [153, 154, 156, 157, 156, 157]
 ```
 
-2026-10-18 153 → 2026-10-29 156（+3）
+2026-10-18 153 → 2026-10-30 157（+4）
 
 
 ---

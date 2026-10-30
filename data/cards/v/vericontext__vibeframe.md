@@ -1,6 +1,6 @@
 # vericontext/vibeframe
 
-⭐ 183 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vericontext/vibeframe) · [官网](https://vibeframe.ai) · 组织维护
+⭐ 184 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vericontext/vibeframe) · [官网](https://vibeframe.ai) · 组织维护
 
 **让编码 Agent 用自有 API key 生成视频的 CLI 与 MCP 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vericontext/vibeframe 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 178 --> 184
-    line [179, 180, 181, 182, 183]
+    title "vericontext/vibeframe 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 178 --> 185
+    line [179, 180, 181, 182, 183, 184]
 ```
 
-2026-10-18 179 → 2026-10-29 183（+4）
+2026-10-18 179 → 2026-10-30 184（+5）
 
 
 ---

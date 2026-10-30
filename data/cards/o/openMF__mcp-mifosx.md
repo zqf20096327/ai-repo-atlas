@@ -1,6 +1,6 @@
 # openMF/mcp-mifosx
 
-⭐ 27 · Java · MPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openMF/mcp-mifosx) · [官网](https://ai.mifos.community/) · 组织维护
+⭐ 27 · Java · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openMF/mcp-mifosx) · [官网](https://ai.mifos.community/) · 组织维护
 
 **为 Mifos X 核心银行系统提供 MCP 工具服务器，供 AI agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openMF/mcp-mifosx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-10-29 27（+1）
+2026-10-18 26 → 2026-10-30 27（+1）
 
 
 ---

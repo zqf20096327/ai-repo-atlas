@@ -45,12 +45,12 @@ Flyte 平台的 Web 前端控制台：从 FlyteAdmin API 读取数据，展示�
 ```mermaid
 xychart-beta
     title "flyteorg/flyteconsole 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

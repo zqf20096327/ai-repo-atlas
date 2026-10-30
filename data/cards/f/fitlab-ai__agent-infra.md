@@ -1,6 +1,6 @@
 # fitlab-ai/agent-infra
 
-⭐ 87 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fitlab-ai/agent-infra) · 组织维护 · 中文 README
+⭐ 87 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fitlab-ai/agent-infra) · 组织维护 · 中文 README
 
 **给 AI 编程代理团队的协作基础设施：统一技能、工作流与沙箱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fitlab-ai/agent-infra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "fitlab-ai/agent-infra 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 85 --> 88
-    line [86, 87]
+    line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-10-29 87（+1）
+2026-10-18 86 → 2026-10-30 87（+1）
 
 
 ---

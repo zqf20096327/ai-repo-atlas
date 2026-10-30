@@ -1,6 +1,6 @@
 # FeatherHunter/dsh-prompt
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FeatherHunter/dsh-prompt) · [官网](https://www.npmjs.com/package/dsh-prompt) · 个人维护 · 中文 README
+⭐ 80 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FeatherHunter/dsh-prompt) · [官网](https://www.npmjs.com/package/dsh-prompt) · 个人维护 · 中文 README
 
 **DSH 客户端的 Prompt 模板插件：保存常用提示词一键注入对话框**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FeatherHunter/dsh-prompt 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 41 --> 80
-    line [44, 48, 50, 52, 55, 57, 62, 67, 71, 77]
+    title "FeatherHunter/dsh-prompt 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 41 --> 83
+    line [44, 48, 50, 52, 55, 57, 62, 67, 71, 77, 80]
 ```
 
-2026-10-18 44 → 2026-10-29 77（+33）
+2026-10-18 44 → 2026-10-30 80（+36）
 
 
 ---

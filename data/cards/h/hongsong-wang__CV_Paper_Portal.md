@@ -1,6 +1,6 @@
 # hongsong-wang/CV_Paper_Portal
 
-⭐ 410 · 推送 2026-10-27 · [GitHub](https://github.com/hongsong-wang/CV_Paper_Portal) · [官网](https://hongsong-wang.github.io/CV_Paper_Portal/) · 个人维护 · 中文 README
+⭐ 411 · 推送 2026-10-27 · [GitHub](https://github.com/hongsong-wang/CV_Paper_Portal) · [官网](https://hongsong-wang.github.io/CV_Paper_Portal/) · 个人维护 · 中文 README
 
 **视觉-语言-学习-机器人顶会历年论文门户链接合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongsong-wang/CV_Paper_Portal 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 384 --> 412
-    line [386, 392, 393, 397, 400, 401, 406, 410, 410]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 384 --> 413
+    line [386, 392, 393, 397, 400, 401, 406, 410, 411]
 ```
 
-2026-10-18 386 → 2026-10-29 410（+24）
+2026-10-18 386 → 2026-10-30 411（+25）
 
 
 ---

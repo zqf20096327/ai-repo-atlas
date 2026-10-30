@@ -1,6 +1,6 @@
 # suyoumo/ClawProBench
 
-⭐ 827 · Rust · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/suyoumo/ClawProBench) · [官网](https://suyoumo.github.io/bench/) · 个人维护 · 中文 README
+⭐ 828 · Rust · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/suyoumo/ClawProBench) · [官网](https://suyoumo.github.io/bench/) · 个人维护 · 中文 README
 
 **评测 OpenClaw 运行时中 LLM agent 能力的基准工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "suyoumo/ClawProBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
     y-axis "stars" 826 --> 829
-    line [827, 828, 827, 827]
+    line [827, 828, 827, 828]
 ```
 
-2026-10-18 827 → 2026-10-29 827（+0）
+2026-10-18 827 → 2026-10-30 828（+1）
 
 
 ---

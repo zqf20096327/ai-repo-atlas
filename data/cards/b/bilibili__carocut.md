@@ -1,6 +1,6 @@
 # bilibili/carocut
 
-⭐ 132 · TypeScript · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/bilibili/carocut) · 组织维护 · 中文 README
+⭐ 131 · TypeScript · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/bilibili/carocut) · 组织维护 · 中文 README
 
 **多 Agent 协作的端到端自动化视频生产平台**
 
@@ -46,12 +46,12 @@ bilibili 开源的 AI 视频制作工作流系统，基于 OpenCode AI SDK 与 R
 ```mermaid
 xychart-beta
     title "bilibili/carocut 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
     y-axis "stars" 129 --> 133
-    line [130, 131, 132, 132]
+    line [130, 131, 132, 131]
 ```
 
-2026-10-18 130 → 2026-10-29 132（+2）
+2026-10-18 130 → 2026-10-30 131（+1）
 
 
 ---

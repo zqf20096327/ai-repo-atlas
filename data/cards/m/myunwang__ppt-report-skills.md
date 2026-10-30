@@ -1,6 +1,6 @@
 # myunwang/ppt-report-skills
 
-⭐ 80 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/myunwang/ppt-report-skills) · 个人维护 · 中文 README
+⭐ 79 · HTML · MIT · 推送 2026-06-03 · [GitHub](https://github.com/myunwang/ppt-report-skills) · 个人维护 · 中文 README
 
 **把数据汇报生成 16:9 网页 PPT 的 Claude Code skill/工程模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "myunwang/ppt-report-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 79 --> 82
-    line [81, 80, 80]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 78 --> 82
+    line [81, 80, 79]
 ```
 
-2026-10-18 81 → 2026-10-29 80（-1）
+2026-10-18 81 → 2026-10-30 79（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dspv/caprock
 
-⭐ 36 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dspv/caprock) · [官网](https://caprock.dev) · 个人维护
+⭐ 36 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dspv/caprock) · [官网](https://caprock.dev) · 个人维护
 
 **本地桌面应用：并排运行多个编码 agent 并追踪成本**
 
@@ -45,13 +45,13 @@ macOS/Windows/Linux 桌面应用，底层为本地 daemon 并内嵌浏览器 das
 
 ```mermaid
 xychart-beta
-    title "dspv/caprock 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "dspv/caprock 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 22 --> 37
-    line [23, 25, 33, 34, 35, 36]
+    line [23, 25, 33, 34, 35, 36, 36]
 ```
 
-2026-10-18 23 → 2026-10-29 36（+13）
+2026-10-18 23 → 2026-10-30 36（+13）
 
 
 ---

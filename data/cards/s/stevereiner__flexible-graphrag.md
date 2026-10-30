@@ -1,6 +1,6 @@
 # stevereiner/flexible-graphrag
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/stevereiner/flexible-graphrag) · [官网](https://stevereiner.github.io/flexible-graphrag/) · 个人维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/stevereiner/flexible-graphrag) · [官网](https://stevereiner.github.io/flexible-graphrag/) · 个人维护
 
 **开源 AI 上下文平台：多数据源接入与 GraphRAG/RAG/混合检索/AI 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stevereiner/flexible-graphrag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 192 --> 195
-    line [193, 194, 194]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 192 --> 196
+    line [193, 194, 195]
 ```
 
-2026-10-18 193 → 2026-10-29 194（+1）
+2026-10-18 193 → 2026-10-30 195（+2）
 
 
 ---

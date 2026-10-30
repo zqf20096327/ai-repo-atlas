@@ -1,6 +1,6 @@
 # nahidalam/world_model_from_scratch
 
-⭐ 41 · Python · 推送 2026-10-24 · [GitHub](https://github.com/nahidalam/world_model_from_scratch) · [官网](https://world-models-from-scratch.gitbook.io) · 个人维护
+⭐ 42 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/nahidalam/world_model_from_scratch) · [官网](https://world-models-from-scratch.gitbook.io) · 个人维护
 
 **《World Models from Scratch》书籍配套代码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nahidalam/world_model_from_scratch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 37 --> 42
-    line [39, 38, 39, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 37 --> 43
+    line [39, 38, 39, 40, 41, 42]
 ```
 
-2026-10-18 39 → 2026-10-29 41（+2）
+2026-10-18 39 → 2026-10-30 42（+3）
 
 
 ---

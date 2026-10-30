@@ -1,6 +1,6 @@
 # swarmpit/swarmpit
 
-⭐ 3,501 · Clojure · EPL-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/swarmpit/swarmpit) · [官网](https://swarmpit.io) · 组织维护
+⭐ 3,502 · Clojure · EPL-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/swarmpit/swarmpit) · [官网](https://swarmpit.io) · 组织维护
 
 **自托管的 Docker Swarm 管理控制台，附带 MCP 服务器供 LLM 客户端调用**
 
@@ -46,12 +46,12 @@ Swarmpit 是一个面向 Docker Swarm 集群的自托管 Web 管理界面，用�
 ```mermaid
 xychart-beta
     title "swarmpit/swarmpit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 3499 --> 3502
-    line [3500, 3501, 3501]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 3499 --> 3503
+    line [3500, 3501, 3502]
 ```
 
-2026-10-18 3,500 → 2026-10-29 3,501（+1）
+2026-10-18 3,500 → 2026-10-30 3,502（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sopaco/saga-reader
 
-⭐ 529 · Rust · MIT · 推送 2026-07-11 · [GitHub](https://github.com/sopaco/saga-reader) · [官网](https://aiqino.netlify.app/) · 个人维护 · 中文 README
+⭐ 530 · Rust · MIT · 推送 2026-07-11 · [GitHub](https://github.com/sopaco/saga-reader) · [官网](https://aiqino.netlify.app/) · 个人维护 · 中文 README
 
 **AI 驱动的智库式互联网阅读器桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sopaco/saga-reader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "sopaco/saga-reader 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 528 --> 534
-    line [532, 533, 530, 529]
+    line [532, 533, 530, 529, 530]
 ```
 
-2026-10-18 532 → 2026-10-29 529（-3）
+2026-10-18 532 → 2026-10-30 530（-2）
 
 
 ---

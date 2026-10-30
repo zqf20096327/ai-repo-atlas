@@ -1,6 +1,6 @@
 # salu133445/muspy
 
-⭐ 528 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/salu133445/muspy) · [官网](https://salu133445.github.io/muspy/) · 个人维护
+⭐ 529 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/salu133445/muspy) · [官网](https://salu133445.github.io/muspy/) · 个人维护
 
 **符号音乐生成系统开发的 Python 工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "salu133445/muspy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 525 --> 529
-    line [526, 527, 528, 528]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 525 --> 530
+    line [526, 527, 528, 529]
 ```
 
-2026-10-18 526 → 2026-10-29 528（+2）
+2026-10-18 526 → 2026-10-30 529（+3）
 
 
 ---

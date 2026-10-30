@@ -1,6 +1,6 @@
 # UoA-CARES/cares_reinforcement_learning
 
-⭐ 42 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/UoA-CARES/cares_reinforcement_learning) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/UoA-CARES/cares_reinforcement_learning) · 组织维护
 
 **面向研究与机器人的模块化强化学习训练评测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UoA-CARES/cares_reinforcement_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 42（+0）
 
 
 ---

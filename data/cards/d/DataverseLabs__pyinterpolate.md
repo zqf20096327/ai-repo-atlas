@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataverseLabs/pyinterpolate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "DataverseLabs/pyinterpolate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 174 --> 177
-    line [176, 175]
+    line [176, 175, 175]
 ```
 
-2026-10-18 176 → 2026-10-29 175（-1）
+2026-10-18 176 → 2026-10-30 175（-1）
 
 
 ---

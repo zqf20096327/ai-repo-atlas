@@ -1,6 +1,6 @@
 # alexiglad/EBT
 
-⭐ 662 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/alexiglad/EBT) · [官网](https://energy-based-transformers.github.io/) · 个人维护
+⭐ 664 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/alexiglad/EBT) · [官网](https://energy-based-transformers.github.io/) · 个人维护
 
 **Energy-Based Transformers 论文的 PyTorch 官方代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexiglad/EBT 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 660 --> 663
-    line [661, 662, 662]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 660 --> 665
+    line [661, 662, 664]
 ```
 
-2026-10-18 661 → 2026-10-29 662（+1）
+2026-10-18 661 → 2026-10-30 664（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # joserapa98/tensorkrowch
 
-⭐ 52 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/joserapa98/tensorkrowch) · [官网](https://joserapa98.github.io/tensorkrowch/) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/joserapa98/tensorkrowch) · [官网](https://joserapa98.github.io/tensorkrowch/) · 个人维护
 
 **基于 PyTorch 的张量网络构建与训练库，面向机器学习**
 
@@ -46,12 +46,12 @@ TensorKrowch 是构建在 PyTorch 之上的 Python 库，提供 Nodes、Edges、
 ```mermaid
 xychart-beta
     title "joserapa98/tensorkrowch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-29 52（+0）
+2026-10-18 52 → 2026-10-30 52（+0）
 
 
 ---

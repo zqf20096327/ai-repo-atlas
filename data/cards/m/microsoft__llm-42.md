@@ -1,6 +1,6 @@
 # microsoft/llm-42
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/microsoft/llm-42) · [官网](https://www.arxiv.org/pdf/2601.17768) · 组织维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/llm-42) · [官网](https://www.arxiv.org/pdf/2601.17768) · 组织维护
 
 **为 SGLang 增加可验证确定性的 LLM 推理系统（decode–verify–rollback）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/llm-42 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-29 33（+1）
+2026-10-18 32 → 2026-10-30 33（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SimplexLab/TorchJD
 
-⭐ 400 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/SimplexLab/TorchJD) · [官网](https://torchjd.org) · 组织维护
+⭐ 401 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/SimplexLab/TorchJD) · [官网](https://torchjd.org) · 组织维护
 
 **PyTorch 多损失训练库：用 Jacobian descent 与标量化优化神经网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SimplexLab/TorchJD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 395 --> 401
-    line [396, 398, 400, 400]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 395 --> 402
+    line [396, 398, 400, 401]
 ```
 
-2026-10-18 396 → 2026-10-29 400（+4）
+2026-10-18 396 → 2026-10-30 401（+5）
 
 
 ---

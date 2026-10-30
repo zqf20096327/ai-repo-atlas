@@ -1,6 +1,6 @@
 # yyf2002-oos/merchant-agent
 
-⭐ 84 · Python · 推送 2026-07-18 · [GitHub](https://github.com/yyf2002-oos/merchant-agent) · 个人维护 · 中文 README
+⭐ 85 · Python · 推送 2026-07-18 · [GitHub](https://github.com/yyf2002-oos/merchant-agent) · 个人维护 · 中文 README
 
 **电商商家用的 AI 全流程运营助手：选品/上架/客服/分析/货源**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "yyf2002-oos/merchant-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 74 --> 85
-    line [75, 76, 79, 82, 83, 84]
+    title "yyf2002-oos/merchant-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 74 --> 86
+    line [75, 76, 79, 82, 83, 84, 85]
 ```
 
-2026-10-18 75 → 2026-10-29 84（+9）
+2026-10-18 75 → 2026-10-30 85（+10）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kanishkamisra/minicons 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "kanishkamisra/minicons 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 195 --> 202
-    line [196, 201]
+    line [196, 201, 201]
 ```
 
-2026-10-18 196 → 2026-10-29 201（+5）
+2026-10-18 196 → 2026-10-30 201（+5）
 
 
 ---

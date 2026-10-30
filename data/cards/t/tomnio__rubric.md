@@ -1,6 +1,6 @@
 # tomnio/rubric
 
-⭐ 85 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/tomnio/rubric) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/tomnio/rubric) · 个人维护
 
 **给 TypeScript 开发者：从 LLM 单次调用或长文档提取经 Zod 校验的 JSON**
 
@@ -44,13 +44,13 @@ Schema-first 的结构化提取库：开发者定义 Zod schema，Rubric 将 sch
 
 ```mermaid
 xychart-beta
-    title "tomnio/rubric 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
+    title "tomnio/rubric 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 83 --> 87
-    line [86, 85, 84, 85]
+    line [86, 85, 84, 85, 86]
 ```
 
-2026-10-18 86 → 2026-10-29 85（-1）
+2026-10-18 86 → 2026-10-30 86（+0）
 
 
 ---

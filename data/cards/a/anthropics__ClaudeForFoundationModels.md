@@ -1,6 +1,6 @@
 # anthropics/ClaudeForFoundationModels
 
-⭐ 344 · Swift · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/ClaudeForFoundationModels) · 组织维护
+⭐ 345 · Swift · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/anthropics/ClaudeForFoundationModels) · 组织维护
 
 **将 Claude 接入 Apple Foundation Models 框架的 Swift 适配包**
 
@@ -45,13 +45,13 @@ Anthropic 官方维护的 Swift 包，把 Claude 包装为符合 Apple Foundatio
 
 ```mermaid
 xychart-beta
-    title "anthropics/ClaudeForFoundationModels 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 325 --> 345
-    line [326, 332, 333, 335, 343, 344]
+    title "anthropics/ClaudeForFoundationModels 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 325 --> 346
+    line [326, 332, 333, 335, 343, 344, 345]
 ```
 
-2026-10-18 326 → 2026-10-29 344（+18）
+2026-10-18 326 → 2026-10-30 345（+19）
 
 
 ---

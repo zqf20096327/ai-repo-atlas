@@ -1,6 +1,6 @@
 # ankur-anand/isledb
 
-⭐ 60 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ankur-anand/isledb) · [官网](https://isledb.com) · 个人维护
+⭐ 60 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ankur-anand/isledb) · [官网](https://isledb.com) · 个人维护
 
 **基于对象存储的 Go 键值数据库，供多语言服务读写**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ankur-anand/isledb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
     y-axis "stars" 50 --> 61
     line [51, 57, 58, 60, 60]
 ```
 
-2026-10-18 51 → 2026-10-29 60（+9）
+2026-10-18 51 → 2026-10-30 60（+9）
 
 
 ---

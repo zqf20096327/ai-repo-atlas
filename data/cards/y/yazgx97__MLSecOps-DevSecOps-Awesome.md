@@ -1,6 +1,6 @@
 # yazgx97/MLSecOps-DevSecOps-Awesome
 
-⭐ 22 · Groovy · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yazgx97/MLSecOps-DevSecOps-Awesome) · 个人维护
+⭐ 23 · Groovy · MIT · 推送 2026-10-18 · [GitHub](https://github.com/yazgx97/MLSecOps-DevSecOps-Awesome) · 个人维护
 
 **MLSecOps/DevSecOps 资源与工具策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yazgx97/MLSecOps-DevSecOps-Awesome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-29 22（+1）
+2026-10-18 21 → 2026-10-30 23（+2）
 
 
 ---

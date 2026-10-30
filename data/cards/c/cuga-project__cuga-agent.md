@@ -1,6 +1,6 @@
 # cuga-project/cuga-agent
 
-⭐ 1,054 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cuga-project/cuga-agent) · [官网](https://cuga.dev) · 组织维护
+⭐ 1,055 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cuga-project/cuga-agent) · [官网](https://cuga.dev) · 组织维护
 
 **面向企业的通用 agent 运行框架：策略管控地执行业务任务**
 
@@ -45,13 +45,13 @@ Apache 2.0 开源的企业 agent harness：把业务请求转化为跨应用、A
 
 ```mermaid
 xychart-beta
-    title "cuga-project/cuga-agent 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1044 --> 1055
-    line [1045, 1047, 1049, 1051, 1053, 1054]
+    title "cuga-project/cuga-agent 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1044 --> 1056
+    line [1045, 1047, 1049, 1051, 1053, 1054, 1055]
 ```
 
-2026-10-22 1,045 → 2026-10-29 1,054（+9）
+2026-10-22 1,045 → 2026-10-30 1,055（+10）
 
 
 ---

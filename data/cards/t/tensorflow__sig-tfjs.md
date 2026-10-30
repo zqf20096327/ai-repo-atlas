@@ -1,6 +1,6 @@
 # tensorflow/sig-tfjs
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/tensorflow/sig-tfjs) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tensorflow/sig-tfjs) · 组织维护
 
 **TensorFlow.js SIG 的社区协作仓库**
 
@@ -41,12 +41,12 @@ TensorFlow.js 特别兴趣小组（SIG）的社区仓库，用于承载 TFJS SIG
 ```mermaid
 xychart-beta
     title "tensorflow/sig-tfjs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

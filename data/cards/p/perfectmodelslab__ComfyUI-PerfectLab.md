@@ -44,13 +44,13 @@ PerfectLab Studio 是一个 ComfyUI 自定义节点：在单一节点面板内�
 
 ```mermaid
 xychart-beta
-    title "perfectmodelslab/ComfyUI-PerfectLab 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "perfectmodelslab/ComfyUI-PerfectLab 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 25
-    line [18, 21, 22, 23, 24]
+    line [18, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 18 → 2026-10-29 24（+6）
+2026-10-18 18 → 2026-10-30 24（+6）
 
 
 ---

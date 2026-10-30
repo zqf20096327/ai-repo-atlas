@@ -1,6 +1,6 @@
 # ManimCommunity/manim-voiceover
 
-⭐ 322 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ManimCommunity/manim-voiceover) · [官网](https://voiceover.manim.community/en/stable) · 组织维护
+⭐ 323 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/ManimCommunity/manim-voiceover) · [官网](https://voiceover.manim.community/en/stable) · 组织维护
 
 **给 Manim 动画视频直接添加配音的插件**
 
@@ -45,12 +45,12 @@ Manim Community 维护的 Manim 插件：在 Python 中直接为 Manim 视频添
 ```mermaid
 xychart-beta
     title "ManimCommunity/manim-voiceover 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 319 --> 323
-    line [320, 321, 322, 322]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 319 --> 324
+    line [320, 321, 322, 323]
 ```
 
-2026-10-18 320 → 2026-10-29 322（+2）
+2026-10-18 320 → 2026-10-30 323（+3）
 
 
 ---

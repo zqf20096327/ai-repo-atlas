@@ -1,6 +1,6 @@
 # Xuanwo/cida
 
-⭐ 181 · Swift · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Xuanwo/cida) · [官网](https://cida.xuanwo.io) · 个人维护 · 中文 README
+⭐ 183 · Swift · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Xuanwo/cida) · [官网](https://cida.xuanwo.io) · 个人维护 · 中文 README
 
 **Mac 菜单栏应用：用自选大模型在系统任意处翻译与润色文字**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xuanwo/cida 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 172 --> 182
-    line [173, 174, 177, 179, 178, 181]
+    title "Xuanwo/cida 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 172 --> 184
+    line [173, 174, 177, 179, 178, 181, 183]
 ```
 
-2026-10-18 173 → 2026-10-29 181（+8）
+2026-10-18 173 → 2026-10-30 183（+10）
 
 
 ---

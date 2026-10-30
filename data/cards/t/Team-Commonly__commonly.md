@@ -1,6 +1,6 @@
 # Team-Commonly/commonly
 
-⭐ 1,372 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
+⭐ 1,372 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
 
 **人与多 AI agent 协同的开源自托管工作区**
 
@@ -44,13 +44,13 @@ Commonly 是开源（Apache 2.0）可自托管的人机协作协调层：以 pod
 
 ```mermaid
 xychart-beta
-    title "Team-Commonly/commonly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
+    title "Team-Commonly/commonly 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1365 --> 1373
-    line [1366, 1367, 1368, 1370, 1371, 1372]
+    line [1366, 1367, 1368, 1370, 1371, 1372, 1372]
 ```
 
-2026-10-18 1,366 → 2026-10-29 1,372（+6）
+2026-10-18 1,366 → 2026-10-30 1,372（+6）
 
 
 ---

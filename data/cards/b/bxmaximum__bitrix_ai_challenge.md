@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bxmaximum/bitrix_ai_challenge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "bxmaximum/bitrix_ai_challenge 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38]
+    line [36, 37, 38, 38]
 ```
 
-2026-10-18 36 → 2026-10-29 38（+2）
+2026-10-18 36 → 2026-10-30 38（+2）
 
 
 ---

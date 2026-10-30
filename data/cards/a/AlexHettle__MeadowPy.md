@@ -1,6 +1,6 @@
 # AlexHettle/MeadowPy
 
-⭐ 34 · Python · 推送 2026-10-28 · [GitHub](https://github.com/AlexHettle/MeadowPy) · 个人维护
+⭐ 34 · Python · 推送 2026-10-29 · [GitHub](https://github.com/AlexHettle/MeadowPy) · 个人维护
 
 **面向初学者的 Python IDE，内置本地 AI 助手与调试器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlexHettle/MeadowPy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

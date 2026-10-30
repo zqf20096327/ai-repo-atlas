@@ -45,12 +45,12 @@ Berkeley 团队维护的 monorepo，含两个子项目：ParkPredict+ 用 CNN �
 ```mermaid
 xychart-beta
     title "XuShenLZ/ParkSim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-29 72（+0）
+2026-10-18 72 → 2026-10-30 72（+0）
 
 
 ---

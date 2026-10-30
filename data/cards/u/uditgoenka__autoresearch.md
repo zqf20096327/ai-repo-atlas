@@ -1,6 +1,6 @@
 # uditgoenka/autoresearch
 
-⭐ 6,768 · Shell · MIT · 推送 2026-08-12 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
+⭐ 6,771 · Shell · MIT · 推送 2026-08-12 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
 
 **让 Claude Code/OpenCode/Codex 自主迭代改进代码的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "uditgoenka/autoresearch 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 6557 --> 6787
-    line [6576, 6585, 6703, 6720, 6729, 6747, 6753, 6761, 6767, 6768]
+    title "uditgoenka/autoresearch 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 6557 --> 6790
+    line [6576, 6585, 6703, 6720, 6729, 6747, 6753, 6761, 6767, 6768, 6771]
 ```
 
-2026-10-18 6,576 → 2026-10-29 6,768（+192）
+2026-10-18 6,576 → 2026-10-30 6,771（+195）
 
 
 ---

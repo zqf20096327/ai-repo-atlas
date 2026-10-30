@@ -1,6 +1,6 @@
 # ZikangLeng/IMUGPT
 
-⭐ 51 · Tcl · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ZikangLeng/IMUGPT) · [官网](https://zikangleng.github.io/imugpt/) · 组织维护
+⭐ 51 · Tcl · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ZikangLeng/IMUGPT) · [官网](https://zikangleng.github.io/imugpt/) · 组织维护
 
 **从文本描述生成虚拟 IMU 数据以训练行为识别模型**
 
@@ -45,12 +45,12 @@ Georgia Tech 团队的研究项目（ISWC 2023 Best Paper Honorable Mention、IM
 ```mermaid
 xychart-beta
     title "ZikangLeng/IMUGPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 48 --> 52
     line [49, 50, 51, 51]
 ```
 
-2026-10-18 49 → 2026-10-29 51（+2）
+2026-10-18 49 → 2026-10-30 51（+2）
 
 
 ---

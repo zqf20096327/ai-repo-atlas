@@ -1,6 +1,6 @@
 # CliMA/ClimaLand.jl
 
-⭐ 73 · Julia · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CliMA/ClimaLand.jl) · [官网](https://clima.github.io/ClimaLand.jl/) · 组织维护
+⭐ 73 · Julia · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/CliMA/ClimaLand.jl) · [官网](https://clima.github.io/ClimaLand.jl/) · 组织维护
 
 **CliMA 地球系统模型的模块化陆面模拟器，支持数据驱动参数化**
 
@@ -46,12 +46,12 @@ Julia 语言编写的陆面过程模型，属于 CliMA 地球系统模型的陆�
 ```mermaid
 xychart-beta
     title "CliMA/ClimaLand.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-29 73（+0）
+2026-10-18 73 → 2026-10-30 73（+0）
 
 
 ---

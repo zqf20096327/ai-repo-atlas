@@ -1,6 +1,6 @@
 # Rebreda/listenr
 
-⭐ 31 · Python · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Rebreda/listenr) · 个人维护
+⭐ 31 · Python · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Rebreda/listenr) · 个人维护
 
 **本地录音采集语音数据并微调 Whisper/Moonshine 语音模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Rebreda/listenr 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
     y-axis "stars" 26 --> 32
     line [27, 28, 29, 30, 31, 31]
 ```
 
-2026-10-18 27 → 2026-10-29 31（+4）
+2026-10-18 27 → 2026-10-30 31（+4）
 
 
 ---

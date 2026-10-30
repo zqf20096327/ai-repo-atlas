@@ -1,6 +1,6 @@
 # MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
 
-⭐ 18,348 · MATLAB · 推送 2026-10-27 · [GitHub](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) · 组织维护 · 中文 README
+⭐ 18,354 · MATLAB · 推送 2026-10-27 · [GitHub](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) · 组织维护 · 中文 README
 
 **给强化学习学习者提供数学基础教材及配套课程资源**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18178 --> 18363
-    line [18193, 18230, 18262, 18270, 18283, 18297, 18306, 18319, 18337, 18348]
+    title "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 18177 --> 18370
+    line [18193, 18230, 18262, 18270, 18283, 18297, 18306, 18319, 18337, 18348, 18354]
 ```
 
-2026-10-18 18,193 → 2026-10-29 18,348（+155）
+2026-10-18 18,193 → 2026-10-30 18,354（+161）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hakubisual/pase-omo
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Hakubisual/pase-omo) · [官网](https://github.com/code-yeongyu/omo) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Hakubisual/pase-omo) · [官网](https://github.com/code-yeongyu/omo) · 个人维护
 
 **在 Paseo 中接入 OmO 5 agent 并可视化其 DAG 工作流的插件**
 
@@ -46,12 +46,12 @@ Paseo 桌面/移动端的插件：将 OmO 5 注册为 Paseo 的 agent provider�
 ```mermaid
 xychart-beta
     title "Hakubisual/pase-omo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 36 --> 39
-    line [38, 37, 37]
+    line [38, 37, 38]
 ```
 
-2026-10-18 38 → 2026-10-29 37（-1）
+2026-10-18 38 → 2026-10-30 38（+0）
 
 
 ---

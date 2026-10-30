@@ -1,6 +1,6 @@
 # Build5Nines/SharpVector
 
-⭐ 144 · C# · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Build5Nines/SharpVector) · [官网](https://sharpvector.build5nines.com/) · 个人维护
+⭐ 145 · C# · MIT · 推送 2026-05-30 · [GitHub](https://github.com/Build5Nines/SharpVector) · [官网](https://sharpvector.build5nines.com/) · 个人维护
 
 **面向 .NET 应用的轻量内存文本向量数据库库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Build5Nines/SharpVector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 143 --> 146
+    line [144, 145]
 ```
 
-2026-10-18 144 → 2026-10-29 144（+0）
+2026-10-18 144 → 2026-10-30 145（+1）
 
 
 ---

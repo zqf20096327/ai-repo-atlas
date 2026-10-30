@@ -1,6 +1,6 @@
 # mehmetkahya0/f1-race-prediction
 
-⭐ 50 · Python · 推送 2026-02-01 · [GitHub](https://github.com/mehmetkahya0/f1-race-prediction) · 个人维护
+⭐ 50 · Python · 推送 2026-10-29 · [GitHub](https://github.com/mehmetkahya0/f1-race-prediction) · 个人维护
 
 **F1 车迷与数据爱好者的 2026 赛季比赛结果蒙特卡洛+ML 预测模拟器**
 
@@ -45,12 +45,12 @@ Python 编写的 F1 比赛模拟引擎，以真实 F1 数据（Fast-F1 API，占
 ```mermaid
 xychart-beta
     title "mehmetkahya0/f1-race-prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-29 50（+0）
+2026-10-18 50 → 2026-10-30 50（+0）
 
 
 ---

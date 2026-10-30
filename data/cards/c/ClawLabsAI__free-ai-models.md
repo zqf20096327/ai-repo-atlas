@@ -1,6 +1,6 @@
 # ClawLabsAI/free-ai-models
 
-⭐ 245 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ClawLabsAI/free-ai-models) · [官网](https://www.zerolimitai.com/developers?utm_source=github&utm_medium=repo_about) · 组织维护
+⭐ 246 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ClawLabsAI/free-ai-models) · [官网](https://www.zerolimitai.com/developers?utm_source=github&utm_medium=repo_about) · 组织维护
 
 **每日更新的免费 LLM API 模型清单，附开放质量评分与数据政策**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ClawLabsAI/free-ai-models 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 223 --> 247
-    line [225, 231, 232, 234, 235, 238, 243, 245]
+    title "ClawLabsAI/free-ai-models 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 223 --> 248
+    line [225, 231, 232, 234, 235, 238, 243, 245, 246]
 ```
 
-2026-10-18 225 → 2026-10-29 245（+20）
+2026-10-18 225 → 2026-10-30 246（+21）
 
 
 ---

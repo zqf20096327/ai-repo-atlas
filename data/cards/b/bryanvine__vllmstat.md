@@ -1,6 +1,6 @@
 # bryanvine/vllmstat
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-06-25 · [GitHub](https://github.com/bryanvine/vllmstat) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-06-25 · [GitHub](https://github.com/bryanvine/vllmstat) · 个人维护
 
 **vLLM 推理服务性能的终端监控仪表盘（nvtop 风格）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bryanvine/vllmstat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

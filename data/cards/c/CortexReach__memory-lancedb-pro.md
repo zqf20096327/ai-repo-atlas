@@ -1,6 +1,6 @@
 # CortexReach/memory-lancedb-pro
 
-⭐ 4,451 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [官网](https://youtu.be/bhuGrjuCM_g) · 组织维护 · 中文 README
+⭐ 4,450 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [官网](https://youtu.be/bhuGrjuCM_g) · 组织维护 · 中文 README
 
 **OpenClaw 插件：为 agent 提供 LanceDB 长期记忆与混合检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CortexReach/memory-lancedb-pro 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4450 --> 4455
-    line [4452, 4453, 4452, 4454, 4453, 4451, 4451]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 4449 --> 4455
+    line [4452, 4453, 4452, 4454, 4453, 4451, 4450]
 ```
 
-2026-10-18 4,452 → 2026-10-29 4,451（-1）
+2026-10-18 4,452 → 2026-10-30 4,450（-2）
 
 
 ---

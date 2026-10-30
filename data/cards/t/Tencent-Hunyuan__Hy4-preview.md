@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4-preview
 
-⭐ 403 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-preview) · 组织维护 · 中文 README
+⭐ 405 · Python · NOASSERTION · 推送 2026-08-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4-preview) · 组织维护 · 中文 README
 
 **腾讯混元团队的 770B MoE 旗舰大模型（49B 激活）**
 
@@ -44,13 +44,13 @@ Hy4 preview 是腾讯混元团队开源的 Mixture-of-Experts 大语言模型：
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy4-preview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 395 --> 404
-    line [396, 397, 398, 401, 402, 403]
+    title "Tencent-Hunyuan/Hy4-preview 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 395 --> 406
+    line [396, 397, 398, 401, 402, 403, 405]
 ```
 
-2026-10-18 396 → 2026-10-29 403（+7）
+2026-10-18 396 → 2026-10-30 405（+9）
 
 
 ---

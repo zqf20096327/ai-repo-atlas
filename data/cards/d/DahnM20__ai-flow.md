@@ -1,6 +1,6 @@
 # DahnM20/ai-flow
 
-⭐ 295 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/DahnM20/ai-flow) · [官网](https://ai-flow.net/) · 个人维护
+⭐ 296 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/DahnM20/ai-flow) · [官网](https://ai-flow.net/) · 个人维护
 
 **拖拽式连接多家 AI 模型 API 构建可视化工作流的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DahnM20/ai-flow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 290 --> 296
-    line [291, 294, 295, 295]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 290 --> 297
+    line [291, 294, 295, 296]
 ```
 
-2026-10-18 291 → 2026-10-29 295（+4）
+2026-10-18 291 → 2026-10-30 296（+5）
 
 
 ---

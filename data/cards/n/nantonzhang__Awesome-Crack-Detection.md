@@ -1,6 +1,6 @@
 # nantonzhang/Awesome-Crack-Detection
 
-⭐ 94 · 推送 2026-07-21 · [GitHub](https://github.com/nantonzhang/Awesome-Crack-Detection) · [官网](https://arxiv.org/abs/2508.10256) · 组织维护
+⭐ 94 · 推送 2026-10-29 · [GitHub](https://github.com/nantonzhang/Awesome-Crack-Detection) · [官网](https://arxiv.org/abs/2508.10256) · 组织维护
 
 **深度学习裂缝检测论文清单：按学习范式、泛化性与数据集组织**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nantonzhang/Awesome-Crack-Detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "nantonzhang/Awesome-Crack-Detection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 93 --> 96
-    line [94, 95, 94]
+    line [94, 95, 94, 94]
 ```
 
-2026-10-18 94 → 2026-10-29 94（+0）
+2026-10-18 94 → 2026-10-30 94（+0）
 
 
 ---

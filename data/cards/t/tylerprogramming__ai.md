@@ -1,6 +1,6 @@
 # tylerprogramming/ai
 
-⭐ 1,175 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tylerprogramming/ai) · 个人维护
+⭐ 1,177 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tylerprogramming/ai) · 个人维护
 
 **YouTube 博主的 AI agent 框架示例与教程代码合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tylerprogramming/ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1171 --> 1176
-    line [1173, 1174, 1172, 1173, 1174, 1175]
+    title "tylerprogramming/ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1171 --> 1178
+    line [1173, 1174, 1172, 1173, 1174, 1175, 1177]
 ```
 
-2026-10-18 1,173 → 2026-10-29 1,175（+2）
+2026-10-18 1,173 → 2026-10-30 1,177（+4）
 
 
 ---

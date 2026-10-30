@@ -44,13 +44,13 @@ Agent Decision Record（AgDR）是面向 AI 辅助开发的决策记录开放标
 
 ```mermaid
 xychart-beta
-    title "me2resh/agent-decision-record 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "me2resh/agent-decision-record 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 49 --> 54
-    line [50, 52, 53]
+    line [50, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-10-29 53（+3）
+2026-10-18 50 → 2026-10-30 53（+3）
 
 
 ---

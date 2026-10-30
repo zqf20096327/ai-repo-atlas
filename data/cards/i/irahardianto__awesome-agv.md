@@ -1,6 +1,6 @@
 # irahardianto/awesome-agv
 
-⭐ 156 · Shell · MIT · 推送 2026-10-14 · [GitHub](https://github.com/irahardianto/awesome-agv) · [官网](https://irahardianto.github.io/awesome-agv/) · 个人维护
+⭐ 157 · Shell · MIT · 推送 2026-10-14 · [GitHub](https://github.com/irahardianto/awesome-agv) · [官网](https://irahardianto.github.io/awesome-agv/) · 个人维护
 
 **给 AI 编码代理的规则与技能配置套件（25 规则/68 技能）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "irahardianto/awesome-agv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 155 --> 157
-    line [156, 156]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 155 --> 158
+    line [156, 157]
 ```
 
-2026-10-18 156 → 2026-10-29 156（+0）
+2026-10-18 156 → 2026-10-30 157（+1）
 
 
 ---

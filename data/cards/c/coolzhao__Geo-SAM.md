@@ -1,6 +1,6 @@
 # coolzhao/Geo-SAM
 
-⭐ 431 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coolzhao/Geo-SAM) · [官网](https://geo-sam.readthedocs.io/en/latest/) · 组织维护 · 中文 README
+⭐ 432 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/coolzhao/Geo-SAM) · [官网](https://geo-sam.readthedocs.io/en/latest/) · 组织维护 · 中文 README
 
 **QGIS 插件：用 SAM 加速遥感影像中地貌的交互式分割标注**
 
@@ -46,12 +46,12 @@ QGIS 插件，基于 Segment Anything Model（支持 SAM、SAM 2、SAM 2.1、SAM
 ```mermaid
 xychart-beta
     title "coolzhao/Geo-SAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 430 --> 432
-    line [431, 431]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 430 --> 433
+    line [431, 432]
 ```
 
-2026-10-18 431 → 2026-10-29 431（+0）
+2026-10-18 431 → 2026-10-30 432（+1）
 
 
 ---

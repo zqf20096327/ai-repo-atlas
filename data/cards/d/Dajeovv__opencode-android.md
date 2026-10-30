@@ -1,6 +1,6 @@
 # Dajeovv/opencode-android
 
-⭐ 19 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Dajeovv/opencode-android) · [官网](https://github.com/Dajeovv/opencode-android/releases/latest) · 个人维护
+⭐ 21 · Java · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Dajeovv/opencode-android) · [官网](https://github.com/Dajeovv/opencode-android/releases/latest) · 个人维护
 
 **在 Android 手机本地原生运行 opencode 编码 agent 的非官方客户端**
 
@@ -44,13 +44,13 @@ opencode 的非官方 Android 客户端：将 opencode 1.19.4 以原生 ARM64 �
 
 ```mermaid
 xychart-beta
-    title "Dajeovv/opencode-android 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 11 --> 20
-    line [12, 16, 19]
+    title "Dajeovv/opencode-android 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11 --> 22
+    line [12, 16, 19, 21]
 ```
 
-2026-10-26 12 → 2026-10-29 19（+7）
+2026-10-26 12 → 2026-10-30 21（+9）
 
 
 ---

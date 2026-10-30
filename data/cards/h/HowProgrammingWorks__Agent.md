@@ -1,6 +1,6 @@
 # HowProgrammingWorks/Agent
 
-⭐ 45 · JavaScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/HowProgrammingWorks/Agent) · 组织维护
+⭐ 46 · JavaScript · MIT · 推送 2026-09-04 · [GitHub](https://github.com/HowProgrammingWorks/Agent) · 组织维护
 
 **面向开发者的 Node.js 模块化编码 agent 参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HowProgrammingWorks/Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 46（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Boom-Vitt/boombignose-erp-harness-ai 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    title "Boom-Vitt/boombignose-erp-harness-ai 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 53 --> 56
-    line [54, 55]
+    line [54, 55, 55]
 ```
 
-2026-10-28 54 → 2026-10-29 55（+1）
+2026-10-28 54 → 2026-10-30 55（+1）
 
 
 ---

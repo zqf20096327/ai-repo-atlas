@@ -1,6 +1,6 @@
 # dialexity/dialectical-framework
 
-⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/dialexity/dialectical-framework) · [官网](https://dialexity.com) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dialexity/dialectical-framework) · [官网](https://dialexity.com) · 组织维护
 
 **面向 LLM 的辩证推理框架：张力图谱驱动综合判断**
 
@@ -45,12 +45,12 @@ Python 库形式的 AI 推理框架：对每个论题生成对立论题，展开
 ```mermaid
 xychart-beta
     title "dialexity/dialectical-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

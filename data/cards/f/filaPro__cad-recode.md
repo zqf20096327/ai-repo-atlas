@@ -1,6 +1,6 @@
 # filaPro/cad-recode
 
-⭐ 274 · Jupyter Notebook · NOASSERTION · 推送 2025-11-16 · [GitHub](https://github.com/filaPro/cad-recode) · 组织维护
+⭐ 276 · Jupyter Notebook · NOASSERTION · 推送 2025-11-16 · [GitHub](https://github.com/filaPro/cad-recode) · 组织维护
 
 **从点云逆向生成 CAD Python 代码的研究方法实现**
 
@@ -43,13 +43,13 @@ ICCV 2025 论文 CAD-Recode 的官方实现：将 3D 点云转换为以 CadQuery
 
 ```mermaid
 xychart-beta
-    title "filaPro/cad-recode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 268 --> 275
-    line [269, 272, 273, 274]
+    title "filaPro/cad-recode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 268 --> 277
+    line [269, 272, 273, 274, 276]
 ```
 
-2026-10-18 269 → 2026-10-29 274（+5）
+2026-10-18 269 → 2026-10-30 276（+7）
 
 
 ---

@@ -46,12 +46,12 @@ DocIngest 爬取文档站点，以 markdown 形式版本化存储，用 Redis �
 ```mermaid
 xychart-beta
     title "Amal-David/docingest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

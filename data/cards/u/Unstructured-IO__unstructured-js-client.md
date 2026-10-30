@@ -45,12 +45,12 @@ Unstructured Platform API 的 JavaScript/TypeScript HTTP 客户端，覆盖 Part
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-js-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-29 63（+0）
+2026-10-18 63 → 2026-10-30 63（+0）
 
 
 ---

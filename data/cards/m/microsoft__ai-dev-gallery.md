@@ -1,6 +1,6 @@
 # microsoft/ai-dev-gallery
 
-⭐ 1,514 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/ai-dev-gallery) · 组织维护
+⭐ 1,515 · C# · MIT · 推送 2026-10-17 · [GitHub](https://github.com/microsoft/ai-dev-gallery) · 组织维护
 
 **面向 Windows 开发者的 AI 集成示例库与本地模型浏览工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/ai-dev-gallery 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1508 --> 1515
-    line [1509, 1510, 1511, 1512, 1513, 1514]
+    title "microsoft/ai-dev-gallery 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1508 --> 1516
+    line [1509, 1510, 1511, 1512, 1513, 1514, 1515]
 ```
 
-2026-10-18 1,509 → 2026-10-29 1,514（+5）
+2026-10-18 1,509 → 2026-10-30 1,515（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # liveloveapp/hashbrown
 
-⭐ 728 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/liveloveapp/hashbrown) · [官网](https://www.hashbrown.dev) · 组织维护
+⭐ 728 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/liveloveapp/hashbrown) · [官网](https://www.hashbrown.dev) · 组织维护
 
 **面向 React/Angular 的无头 AI 聊天与 Agent 前端框架**
 
@@ -45,12 +45,12 @@ TypeScript 无头框架，用于在 React 与 Angular 应用中构建 AI 聊天�
 ```mermaid
 xychart-beta
     title "liveloveapp/hashbrown 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 726 --> 730
     line [728, 729, 728, 727, 728, 728]
 ```
 
-2026-10-18 728 → 2026-10-29 728（+0）
+2026-10-18 728 → 2026-10-30 728（+0）
 
 
 ---

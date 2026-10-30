@@ -45,12 +45,12 @@ ICLR 2023 论文 Label-free CBM 的官方代码库：提供将任意神经网络
 ```mermaid
 xychart-beta
     title "Trustworthy-ML-Lab/Label-free-CBM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 146 --> 148
     line [147, 147]
 ```
 
-2026-10-18 147 → 2026-10-29 147（+0）
+2026-10-18 147 → 2026-10-30 147（+0）
 
 
 ---

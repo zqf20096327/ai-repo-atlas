@@ -39,6 +39,18 @@
 > L3: AI-powered study assistant for CUET, Banking & Commerce students.
 > L6: ## AI models (pick from the chat box)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wondermayank/ai-chat 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 mid · 依据 README sha `c2761d911f71` · [字段定义](../../DATASET.md)*

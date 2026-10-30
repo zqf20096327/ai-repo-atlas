@@ -1,6 +1,6 @@
 # Felix3322/PotPlayer_ChatGPT_Translate
 
-⭐ 1,069 · C++ · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
+⭐ 1,070 · C++ · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
 
 **给视频观众：PotPlayer 内实时 AI 字幕翻译插件**
 
@@ -45,13 +45,13 @@ PotPlayer 字幕翻译插件（AngelScript 脚本），将字幕文本发送到�
 
 ```mermaid
 xychart-beta
-    title "Felix3322/PotPlayer_ChatGPT_Translate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
+    title "Felix3322/PotPlayer_ChatGPT_Translate 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1064 --> 1072
-    line [1065, 1067, 1068, 1069, 1071, 1070, 1069]
+    line [1065, 1067, 1068, 1069, 1071, 1070, 1069, 1070]
 ```
 
-2026-10-18 1,065 → 2026-10-29 1,069（+4）
+2026-10-18 1,065 → 2026-10-30 1,070（+5）
 
 
 ---

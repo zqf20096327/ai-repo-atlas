@@ -1,6 +1,6 @@
 # FireBird-Technologies/blog2video
 
-⭐ 120 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/FireBird-Technologies/blog2video) · [官网](https://blog2video.app) · 组织维护
+⭐ 120 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/FireBird-Technologies/blog2video) · [官网](https://blog2video.app) · 组织维护
 
 **把博客文章自动转换为 AI 生成视频的在线工具**
 
@@ -45,12 +45,12 @@ Blog2Video 是一个面向内容创作者的博客转视频应用：用户粘贴
 ```mermaid
 xychart-beta
     title "FireBird-Technologies/blog2video 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 119 --> 121
     line [120, 120]
 ```
 
-2026-10-18 120 → 2026-10-29 120（+0）
+2026-10-18 120 → 2026-10-30 120（+0）
 
 
 ---

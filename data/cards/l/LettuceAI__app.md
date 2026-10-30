@@ -1,6 +1,6 @@
 # LettuceAI/app
 
-⭐ 149 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/LettuceAI/app) · [官网](https://lettuceai.app) · 组织维护
+⭐ 150 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/LettuceAI/app) · [官网](https://lettuceai.app) · 组织维护
 
 **隐私优先的本地优先 AI 角色扮演与故事创作应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LettuceAI/app 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 142 --> 150
-    line [143, 144, 145, 146, 149, 149]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 142 --> 151
+    line [143, 144, 145, 146, 149, 150]
 ```
 
-2026-10-18 143 → 2026-10-29 149（+6）
+2026-10-18 143 → 2026-10-30 150（+7）
 
 
 ---

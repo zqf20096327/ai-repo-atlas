@@ -1,6 +1,6 @@
 # JyChen9811/FaithDiff
 
-⭐ 273 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/JyChen9811/FaithDiff) · 组织维护 · 中文 README
+⭐ 274 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/JyChen9811/FaithDiff) · 组织维护 · 中文 README
 
 **扩散先验图像超分复原模型，用于老照片/老电影修复**
 
@@ -46,12 +46,12 @@ CVPR 2025 论文 FaithDiff 的官方实现，基于扩散先验做真实世界�
 ```mermaid
 xychart-beta
     title "JyChen9811/FaithDiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 272 --> 274
-    line [273, 273]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 272 --> 275
+    line [273, 274]
 ```
 
-2026-10-18 273 → 2026-10-29 273（+0）
+2026-10-18 273 → 2026-10-30 274（+1）
 
 
 ---

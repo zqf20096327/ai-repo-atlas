@@ -1,6 +1,6 @@
 # flightdeckhq/flightdeck
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/flightdeckhq/flightdeck) · [官网](https://flightdeck-hq.com) · 个人维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/flightdeckhq/flightdeck) · [官网](https://flightdeck-hq.com) · 个人维护
 
 **自托管的 AI agent 可观测与控制平面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "flightdeckhq/flightdeck 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 11 --> 23
-    line [12, 13, 15, 16, 17, 18, 20, 22]
+    title "flightdeckhq/flightdeck 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11 --> 24
+    line [12, 13, 15, 16, 17, 18, 20, 22, 23]
 ```
 
-2026-10-18 12 → 2026-10-29 22（+10）
+2026-10-18 12 → 2026-10-30 23（+11）
 
 
 ---

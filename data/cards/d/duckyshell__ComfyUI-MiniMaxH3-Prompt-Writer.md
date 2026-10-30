@@ -1,6 +1,6 @@
 # duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer
 
-⭐ 288 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer) · 个人维护
+⭐ 289 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer) · 个人维护
 
 **ComfyUI 扩展：为 MiniMax H3 视频模型编写提示词的工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 271 --> 289
-    line [272, 273, 278, 280, 279, 281, 284, 287, 288]
+    title "duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 271 --> 290
+    line [272, 273, 278, 280, 279, 281, 284, 287, 288, 289]
 ```
 
-2026-10-18 272 → 2026-10-29 288（+16）
+2026-10-18 272 → 2026-10-30 289（+17）
 
 
 ---

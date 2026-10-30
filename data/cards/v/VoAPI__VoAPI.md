@@ -1,6 +1,6 @@
 # VoAPI/VoAPI
 
-⭐ 1,089 · Go · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/VoAPI/VoAPI) · [官网](https://demo.voapi.top) · 组织维护 · 中文 README
+⭐ 1,088 · Go · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/VoAPI/VoAPI) · [官网](https://demo.voapi.top) · 组织维护 · 中文 README
 
 **AI 大模型 API 聚合分发网关系统，含社区版与 Pro 版**
 
@@ -45,12 +45,12 @@ VoAPI 是面向多用户的 AI 大模型 API 聚合与分发系统：提供 API 
 ```mermaid
 xychart-beta
     title "VoAPI/VoAPI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1088 --> 1093
-    line [1092, 1089, 1089]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 1087 --> 1093
+    line [1092, 1089, 1088]
 ```
 
-2026-10-18 1,092 → 2026-10-29 1,089（-3）
+2026-10-18 1,092 → 2026-10-30 1,088（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ddmms/ml-peg
 
-⭐ 72 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ddmms/ml-peg) · [官网](https://ddmms.github.io/ml-peg/) · 组织维护
+⭐ 72 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ddmms/ml-peg) · [官网](https://ddmms.github.io/ml-peg/) · 组织维护
 
 **机器学习原子间势（MLIP）的性能与外推评测框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ddmms/ml-peg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
     y-axis "stars" 68 --> 73
     line [69, 71, 72, 72]
 ```
 
-2026-10-18 69 → 2026-10-29 72（+3）
+2026-10-18 69 → 2026-10-30 72（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-go
 
-⭐ 34 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langsmith-go) · 组织维护
+⭐ 34 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/langsmith-go) · 组织维护
 
 **LangSmith 官方 Go SDK：在 Go 应用中访问其 REST API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-29 34（+1）
+2026-10-18 33 → 2026-10-30 34（+1）
 
 
 ---

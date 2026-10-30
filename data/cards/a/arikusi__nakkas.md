@@ -1,6 +1,6 @@
 # arikusi/nakkas
 
-⭐ 30 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/arikusi/nakkas) · [官网](https://www.npmjs.com/package/nakkas) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-07-14 · [GitHub](https://github.com/arikusi/nakkas) · [官网](https://www.npmjs.com/package/nakkas) · 个人维护
 
 **让 AI 助手通过 JSON 配置生成动画 SVG 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arikusi/nakkas 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-10-29 30（+1）
+2026-10-18 29 → 2026-10-30 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tcsenpai/DualMind
 
-⭐ 61 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/DualMind) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/tcsenpai/DualMind) · 个人维护
 
 **让两个本地模型通过 Ollama 对话的 CLI 模拟器**
 
@@ -45,12 +45,12 @@ Python 编写的命令行 AI 对话模拟器：通过 Ollama API 让两个可配
 ```mermaid
 xychart-beta
     title "tcsenpai/DualMind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 59 --> 62
+    line [61, 60]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 60（-1）
 
 
 ---

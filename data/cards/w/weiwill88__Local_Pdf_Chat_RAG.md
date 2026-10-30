@@ -1,6 +1,6 @@
 # weiwill88/Local_Pdf_Chat_RAG
 
-⭐ 957 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/weiwill88/Local_Pdf_Chat_RAG) · [官网](https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme) · 个人维护 · 中文 README
+⭐ 958 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/weiwill88/Local_Pdf_Chat_RAG) · [官网](https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme) · 个人维护 · 中文 README
 
 **本地 PDF 问答的 RAG 参考实现：混合检索+重排+双接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weiwill88/Local_Pdf_Chat_RAG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
     y-axis "stars" 956 --> 962
-    line [961, 960, 959, 958, 957, 957]
+    line [961, 960, 959, 958, 957, 958]
 ```
 
-2026-10-18 961 → 2026-10-29 957（-4）
+2026-10-18 961 → 2026-10-30 958（-3）
 
 
 ---

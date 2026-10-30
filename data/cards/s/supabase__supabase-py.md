@@ -1,6 +1,6 @@
 # supabase/supabase-py
 
-⭐ 2,614 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
+⭐ 2,615 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
 
 **Supabase 官方 Python 客户端 monorepo：数据库、认证、存储、实时**
 
@@ -43,13 +43,13 @@ Supabase 各 Python 库的 monorepo，包含 supabase 主客户端、realtime-py
 
 ```mermaid
 xychart-beta
-    title "supabase/supabase-py 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2600 --> 2615
-    line [2601, 2605, 2609, 2610, 2611, 2612, 2614]
+    title "supabase/supabase-py 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2600 --> 2616
+    line [2601, 2605, 2609, 2610, 2611, 2612, 2614, 2615]
 ```
 
-2026-10-18 2,601 → 2026-10-29 2,614（+13）
+2026-10-18 2,601 → 2026-10-30 2,615（+14）
 
 
 ---

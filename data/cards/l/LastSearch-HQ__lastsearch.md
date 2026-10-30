@@ -1,6 +1,6 @@
 # LastSearch-HQ/lastsearch
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/LastSearch-HQ/lastsearch) · [官网](https://lastsearch.ai) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/LastSearch-HQ/lastsearch) · [官网](https://lastsearch.ai) · 个人维护
 
 **面向 AI agent 的证据支撑网络搜索基础设施：检索+核验+引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LastSearch-HQ/lastsearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

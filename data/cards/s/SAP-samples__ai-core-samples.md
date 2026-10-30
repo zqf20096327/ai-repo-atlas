@@ -43,13 +43,13 @@ SAP 维护的示例仓库，收录 Jupyter notebook 与工作流模板（yaml �
 
 ```mermaid
 xychart-beta
-    title "SAP-samples/ai-core-samples 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "SAP-samples/ai-core-samples 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 99 --> 103
-    line [100, 101, 102]
+    line [100, 101, 102, 102]
 ```
 
-2026-10-18 100 → 2026-10-29 102（+2）
+2026-10-18 100 → 2026-10-30 102（+2）
 
 
 ---

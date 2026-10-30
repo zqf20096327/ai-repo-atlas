@@ -1,6 +1,6 @@
 # The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge
 
-⭐ 12,723 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) · [官网](https://code2tutorial.com/ ) · 个人维护
+⭐ 12,726 · Python · MIT · 推送 2026-05-31 · [GitHub](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) · [官网](https://code2tutorial.com/ ) · 个人维护
 
 **将 GitHub 代码库转化为新手教程的 AI 教程项目**
 
@@ -44,13 +44,13 @@ Pocket Flow（100 行 LLM 框架）的教程项目：通过 AI agent 爬取 GitH
 
 ```mermaid
 xychart-beta
-    title "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 12706 --> 12724
-    line [12707, 12710, 12713, 12711, 12714, 12713, 12715, 12719, 12720, 12723]
+    title "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 12706 --> 12727
+    line [12707, 12710, 12713, 12711, 12714, 12713, 12715, 12719, 12720, 12723, 12726]
 ```
 
-2026-10-18 12,707 → 2026-10-29 12,723（+16）
+2026-10-18 12,707 → 2026-10-30 12,726（+19）
 
 
 ---

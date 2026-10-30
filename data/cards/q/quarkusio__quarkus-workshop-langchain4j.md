@@ -44,12 +44,12 @@ Quarkus 官方组织的实战教程仓库，教授如何用 Quarkus 与 LangChai
 ```mermaid
 xychart-beta
     title "quarkusio/quarkus-workshop-langchain4j 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-18 112 → 2026-10-29 112（+0）
+2026-10-18 112 → 2026-10-30 112（+0）
 
 
 ---

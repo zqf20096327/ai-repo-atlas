@@ -1,6 +1,6 @@
 # Mr-Infect/AI-penetration-testing
 
-⭐ 305 · 推送 2026-02-19 · [GitHub](https://github.com/Mr-Infect/AI-penetration-testing) · 个人维护
+⭐ 308 · 推送 2026-02-19 · [GitHub](https://github.com/Mr-Infect/AI-penetration-testing) · 个人维护
 
 **AI/ML/LLM 渗透测试知识清单：攻击技术、工具与案例聚合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mr-Infect/AI-penetration-testing 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 294 --> 306
-    line [295, 296, 297, 299, 300, 302, 304, 305]
+    title "Mr-Infect/AI-penetration-testing 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 294 --> 309
+    line [295, 296, 297, 299, 300, 302, 304, 305, 308]
 ```
 
-2026-10-18 295 → 2026-10-29 305（+10）
+2026-10-18 295 → 2026-10-30 308（+13）
 
 
 ---

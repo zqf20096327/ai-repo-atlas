@@ -1,6 +1,6 @@
 # microsoft-foundry/Foundry-Local-Lab
 
-⭐ 121 · C# · MIT · 推送 2026-04-24 · [GitHub](https://github.com/microsoft-foundry/Foundry-Local-Lab) · 组织维护
+⭐ 122 · C# · MIT · 推送 2026-04-24 · [GitHub](https://github.com/microsoft-foundry/Foundry-Local-Lab) · 组织维护
 
 **Foundry Local 本地 AI 应用开发动手工作坊（教程仓库）**
 
@@ -45,12 +45,12 @@ Microsoft 官方的实操教程仓库：教学如何在本机安装 Foundry Loca
 ```mermaid
 xychart-beta
     title "microsoft-foundry/Foundry-Local-Lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 117 --> 122
-    line [118, 120, 121, 121]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 117 --> 123
+    line [118, 120, 121, 122]
 ```
 
-2026-10-18 118 → 2026-10-29 121（+3）
+2026-10-18 118 → 2026-10-30 122（+4）
 
 
 ---

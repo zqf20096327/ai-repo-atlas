@@ -1,6 +1,6 @@
 # MoonInTheRiver/DiffSinger
 
-⭐ 4,889 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/MoonInTheRiver/DiffSinger) · 组织维护 · 中文 README
+⭐ 4,888 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/MoonInTheRiver/DiffSinger) · 组织维护 · 中文 README
 
 **AAAI 2022 论文官方实现：浅层扩散机制的歌声与语音合成**
 
@@ -44,13 +44,13 @@ AAAI-2022 论文 DiffSinger 的官方 PyTorch 实现，基于浅层扩散机制�
 
 ```mermaid
 xychart-beta
-    title "MoonInTheRiver/DiffSinger 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "MoonInTheRiver/DiffSinger 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 4877 --> 4890
-    line [4878, 4881, 4882, 4884, 4885, 4887, 4889]
+    line [4878, 4881, 4882, 4884, 4885, 4887, 4889, 4888]
 ```
 
-2026-10-18 4,878 → 2026-10-29 4,889（+11）
+2026-10-18 4,878 → 2026-10-30 4,888（+10）
 
 
 ---

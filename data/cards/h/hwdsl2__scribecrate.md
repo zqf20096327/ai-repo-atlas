@@ -1,6 +1,6 @@
 # hwdsl2/scribecrate
 
-⭐ 119 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hwdsl2/scribecrate) · [官网](https://scribecrate.com) · 个人维护 · 中文 README
+⭐ 119 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/hwdsl2/scribecrate) · [官网](https://scribecrate.com) · 个人维护 · 中文 README
 
 **自托管的 Whisper 语音转文字 API 服务器（OpenAI 兼容）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hwdsl2/scribecrate 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 114 --> 120
     line [115, 116, 117, 119, 119]
 ```
 
-2026-10-18 115 → 2026-10-29 119（+4）
+2026-10-18 115 → 2026-10-30 119（+4）
 
 
 ---

@@ -45,12 +45,12 @@ SuperDataScience 社区维护的 AI Engineering 系列课程配套仓库，覆�
 ```mermaid
 xychart-beta
     title "SuperDataScience-Community/ai-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

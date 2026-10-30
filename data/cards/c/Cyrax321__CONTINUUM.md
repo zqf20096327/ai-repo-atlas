@@ -1,6 +1,6 @@
 # Cyrax321/CONTINUUM
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Cyrax321/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Cyrax321/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 个人维护 · 中文 README
 
 **长时运行 AI agent 的可验证语义恢复与检查点库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cyrax321/CONTINUUM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "Cyrax321/CONTINUUM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 22 --> 26
-    line [24, 23, 24, 25]
+    line [24, 23, 24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

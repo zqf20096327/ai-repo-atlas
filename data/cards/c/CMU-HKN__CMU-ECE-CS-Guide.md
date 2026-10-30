@@ -1,6 +1,6 @@
 # CMU-HKN/CMU-ECE-CS-Guide
 
-⭐ 685 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/CMU-HKN/CMU-ECE-CS-Guide) · [官网](https://cmu-hkn.github.io/CMU-ECE-CS-Guide/) · 组织维护
+⭐ 684 · TypeScript · 推送 2025-12-30 · [GitHub](https://github.com/CMU-HKN/CMU-ECE-CS-Guide) · [官网](https://cmu-hkn.github.io/CMU-ECE-CS-Guide/) · 组织维护
 
 **面向 CMU ECE/CS 学生的核心课程与选修课指南清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "CMU-HKN/CMU-ECE-CS-Guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 682 --> 686
-    line [684, 683, 684, 685, 685]
+    line [684, 683, 684, 685, 684]
 ```
 
-2026-10-18 684 → 2026-10-29 685（+1）
+2026-10-18 684 → 2026-10-30 684（+0）
 
 
 ---

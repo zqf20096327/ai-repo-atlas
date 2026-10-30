@@ -1,6 +1,6 @@
 # cmusatyalab/steeleagle
 
-⭐ 18 · Python · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cmusatyalab/steeleagle) · [官网](https://cmusatyalab.github.io/steeleagle/) · 组织维护
+⭐ 18 · Python · GPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cmusatyalab/steeleagle) · [官网](https://cmusatyalab.github.io/steeleagle/) · 组织维护
 
 **将商用无人机接入边缘算力的自主飞行软件套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cmusatyalab/steeleagle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

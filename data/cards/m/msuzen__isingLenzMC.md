@@ -46,12 +46,12 @@ R 语言科学计算包，提供 Metropolis 与 Glauber 单自旋翻转动力学
 ```mermaid
 xychart-beta
     title "msuzen/isingLenzMC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-29 53（+0）
+2026-10-18 53 → 2026-10-30 53（+0）
 
 
 ---

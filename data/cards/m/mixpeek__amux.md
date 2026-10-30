@@ -1,6 +1,6 @@
 # mixpeek/amux
 
-⭐ 548 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mixpeek/amux) · [官网](https://amux.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **并行编排 Claude Code/Codex/Gemini 等 AI 编码 agent 的控制平面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

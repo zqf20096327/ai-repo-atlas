@@ -1,6 +1,6 @@
 # MnemeHQ/mneme
 
-⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MnemeHQ/mneme) · [官网](https://mnemehq.com) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MnemeHQ/mneme) · [官网](https://mnemehq.com) · 组织维护
 
 **面向 agentic 软件开发的决策与控制层：防止架构漂移**
 
@@ -46,12 +46,12 @@ Mneme 将架构决策与 ADR 转化为结构化治理记录，在 AI 编码代�
 ```mermaid
 xychart-beta
     title "MnemeHQ/mneme 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-29 29（+2）
+2026-10-18 27 → 2026-10-30 29（+2）
 
 
 ---

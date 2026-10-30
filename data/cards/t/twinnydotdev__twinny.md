@@ -1,6 +1,6 @@
 # twinnydotdev/twinny
 
-⭐ 3,684 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/twinnydotdev/twinny) · [官网](https://twinny.dev) · 个人维护 · 中文 README
+⭐ 3,685 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/twinnydotdev/twinny) · [官网](https://twinny.dev) · 个人维护 · 中文 README
 
 **VS Code 本地/自托管 AI 编程助手：补全、编辑、聊天与代码审查**
 
@@ -44,13 +44,13 @@ MIT 许可的 VS Code 扩展，提供 fill-in-the-middle 代码补全、Ctrl+I �
 
 ```mermaid
 xychart-beta
-    title "twinnydotdev/twinny 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3673 --> 3685
-    line [3674, 3675, 3676, 3678, 3680, 3682, 3684]
+    title "twinnydotdev/twinny 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3673 --> 3686
+    line [3674, 3675, 3676, 3678, 3680, 3682, 3684, 3685]
 ```
 
-2026-10-18 3,674 → 2026-10-29 3,684（+10）
+2026-10-18 3,674 → 2026-10-30 3,685（+11）
 
 
 ---

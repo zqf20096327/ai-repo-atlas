@@ -1,6 +1,6 @@
 # aws-samples/amazon-bedrock-samples
 
-⭐ 1,527 · Jupyter Notebook · MIT-0 · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/amazon-bedrock-samples) · [官网](https://aws.amazon.com/bedrock/) · 组织维护
+⭐ 1,528 · Jupyter Notebook · MIT-0 · 推送 2026-10-22 · [GitHub](https://github.com/aws-samples/amazon-bedrock-samples) · [官网](https://aws.amazon.com/bedrock/) · 组织维护
 
 **Amazon Bedrock 官方示例代码集：帮助用户上手基础模型**
 
@@ -43,13 +43,13 @@ AWS 官方维护的 Amazon Bedrock 示例仓库：提供覆盖各可用基础模
 
 ```mermaid
 xychart-beta
-    title "aws-samples/amazon-bedrock-samples 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 1521 --> 1528
-    line [1522, 1523, 1524, 1525, 1527]
+    title "aws-samples/amazon-bedrock-samples 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1521 --> 1529
+    line [1522, 1523, 1524, 1525, 1527, 1528]
 ```
 
-2026-10-18 1,522 → 2026-10-29 1,527（+5）
+2026-10-18 1,522 → 2026-10-30 1,528（+6）
 
 
 ---

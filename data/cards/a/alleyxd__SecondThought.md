@@ -1,6 +1,6 @@
 # alleyxd/SecondThought
 
-⭐ 20 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/alleyxd/SecondThought) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alleyxd/SecondThought) · 个人维护
 
 **小型本地模型工具调用的置信度门控推理方法（研究代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alleyxd/SecondThought 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-26", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-26 20 → 2026-10-29 20（+0）
+2026-10-26 20 → 2026-10-30 20（+0）
 
 
 ---

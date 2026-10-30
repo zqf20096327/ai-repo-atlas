@@ -1,6 +1,6 @@
 # xueyongfu11/awesome-deep-learning-resource
 
-⭐ 71 · 推送 2026-09-27 · [GitHub](https://github.com/xueyongfu11/awesome-deep-learning-resource) · 个人维护 · 中文 README
+⭐ 71 · 推送 2026-10-29 · [GitHub](https://github.com/xueyongfu11/awesome-deep-learning-resource) · 个人维护 · 中文 README
 
 **个人深度学习论文笔记与开源资源分类整理仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xueyongfu11/awesome-deep-learning-resource 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 71（+0）
 
 
 ---

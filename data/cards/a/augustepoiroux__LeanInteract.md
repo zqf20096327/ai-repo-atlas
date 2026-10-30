@@ -46,13 +46,13 @@ LeanInteract 是一个 Python 包，封装 Lean REPL，支持从 Python 执行 L
 
 ```mermaid
 xychart-beta
-    title "augustepoiroux/LeanInteract 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    title "augustepoiroux/LeanInteract 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 131 --> 136
-    line [132, 133, 134, 135]
+    line [132, 133, 134, 135, 135]
 ```
 
-2026-10-18 132 → 2026-10-29 135（+3）
+2026-10-18 132 → 2026-10-30 135（+3）
 
 
 ---

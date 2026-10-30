@@ -1,6 +1,6 @@
 # yzfly/Awesome-AGI-Agents
 
-⭐ 567 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/Awesome-AGI-Agents) · [官网](https://agents.art) · 个人维护 · 中文 README
+⭐ 568 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/yzfly/Awesome-AGI-Agents) · [官网](https://agents.art) · 个人维护 · 中文 README
 
 **AGI/AI Agents 精选资源合集：文章、论文、项目与平台导航**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yzfly/Awesome-AGI-Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 564 --> 568
-    line [565, 566, 567, 567]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 564 --> 569
+    line [565, 566, 567, 568]
 ```
 
-2026-10-18 565 → 2026-10-29 567（+2）
+2026-10-18 565 → 2026-10-30 568（+3）
 
 
 ---

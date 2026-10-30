@@ -1,6 +1,6 @@
 # MaliosDark/Sablina-Tamagotchi-ESP32
 
-⭐ 27 · C · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/MaliosDark/Sablina-Tamagotchi-ESP32) · [官网](https://sablina.opensable.com) · 个人维护
+⭐ 28 · C · GPL-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/MaliosDark/Sablina-Tamagotchi-ESP32) · [官网](https://sablina.opensable.com) · 个人维护
 
 **ESP32-S3 电子宠物机，兼作 WiFi 安全审计工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaliosDark/Sablina-Tamagotchi-ESP32 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-29 27（+1）
+2026-10-18 26 → 2026-10-30 28（+2）
 
 
 ---

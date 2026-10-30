@@ -1,6 +1,6 @@
 # sawfwair/mere-run
 
-⭐ 86 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sawfwair/mere-run) · [官网](https://mere.run) · 个人维护
+⭐ 86 · Swift · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sawfwair/mere-run) · [官网](https://mere.run) · 个人维护
 
 **本地 AI 运行时 CLI：跑模型、生成媒体、提供 OpenAI 兼容 API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sawfwair/mere-run 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "sawfwair/mere-run 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 82 --> 87
-    line [83, 84, 85, 86]
+    line [83, 84, 85, 86, 86]
 ```
 
-2026-10-18 83 → 2026-10-29 86（+3）
+2026-10-18 83 → 2026-10-30 86（+3）
 
 
 ---

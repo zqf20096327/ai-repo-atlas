@@ -1,6 +1,6 @@
 # goccy/go-llama
 
-⭐ 171 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/goccy/go-llama) · 个人维护
+⭐ 172 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/goccy/go-llama) · 个人维护
 
 **纯 Go 实现的 llama.cpp 推理引擎，运行 GGUF 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "goccy/go-llama 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 169 --> 172
-    line [170, 171, 171]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 169 --> 173
+    line [170, 171, 172]
 ```
 
-2026-10-18 170 → 2026-10-29 171（+1）
+2026-10-18 170 → 2026-10-30 172（+2）
 
 
 ---

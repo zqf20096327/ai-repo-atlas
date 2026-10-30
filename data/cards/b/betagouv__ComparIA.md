@@ -1,6 +1,6 @@
 # betagouv/ComparIA
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/betagouv/ComparIA) · [官网](https://comparia.beta.gouv.fr/) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/betagouv/ComparIA) · [官网](https://comparia.beta.gouv.fr/) · 组织维护
 
 **面向组织/行业/语言的开源 LLM 竞技场平台，收集人类盲投票并发布开放数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "betagouv/ComparIA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-10-29 86（+0）
+2026-10-18 86 → 2026-10-30 86（+0）
 
 
 ---

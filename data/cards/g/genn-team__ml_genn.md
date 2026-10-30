@@ -1,6 +1,6 @@
 # genn-team/ml_genn
 
-⭐ 44 · Python · LGPL-2.1 · 推送 2026-10-27 · [GitHub](https://github.com/genn-team/ml_genn) · [官网](https://ml-genn.readthedocs.io) · 组织维护
+⭐ 44 · Python · LGPL-2.1 · 推送 2026-10-29 · [GitHub](https://github.com/genn-team/ml_genn) · [官网](https://ml-genn.readthedocs.io) · 组织维护
 
 **基于 GeNN 的脉冲神经网络深度学习库，支持 ANN 转换与训练**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "genn-team/ml_genn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kodustech/awesome-ai-code-review
 
-⭐ 51 · 推送 2026-06-28 · [GitHub](https://github.com/kodustech/awesome-ai-code-review) · [官网](https://aicodereviews.io) · 组织维护
+⭐ 52 · 推送 2026-06-28 · [GitHub](https://github.com/kodustech/awesome-ai-code-review) · [官网](https://aicodereviews.io) · 组织维护
 
 **AI 代码评审工具与论文策展清单（Kodus 团队维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kodustech/awesome-ai-code-review 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52]
 ```
 
-2026-10-18 49 → 2026-10-29 51（+2）
+2026-10-18 49 → 2026-10-30 52（+3）
 
 
 ---

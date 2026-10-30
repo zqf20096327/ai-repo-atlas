@@ -1,6 +1,6 @@
 # Robothy/local-s3
 
-⭐ 75 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Robothy/local-s3) · 个人维护
+⭐ 74 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Robothy/local-s3) · 个人维护
 
 **给 Java 开发者的 Amazon S3 mock 服务，用于测试与本地开发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Robothy/local-s3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 73 --> 76
+    line [75, 74]
 ```
 
-2026-10-18 75 → 2026-10-29 75（+0）
+2026-10-18 75 → 2026-10-30 74（-1）
 
 
 ---

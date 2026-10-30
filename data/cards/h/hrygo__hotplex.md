@@ -1,6 +1,6 @@
 # hrygo/hotplex
 
-⭐ 51 · Go · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/hrygo/hotplex) · [官网](https://github.com/hrygo/hotplex) · 个人维护 · 中文 README
+⭐ 52 · Go · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/hrygo/hotplex) · [官网](https://github.com/hrygo/hotplex) · 个人维护 · 中文 README
 
 **自托管网关：把 AI 编码 agent 接入 Web、Slack、飞书等团队场景**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hrygo/hotplex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-10-29 51（+1）
+2026-10-18 50 → 2026-10-30 52（+2）
 
 
 ---

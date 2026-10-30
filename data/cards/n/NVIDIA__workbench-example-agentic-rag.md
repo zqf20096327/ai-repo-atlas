@@ -1,6 +1,6 @@
 # NVIDIA/workbench-example-agentic-rag
 
-⭐ 175 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/NVIDIA/workbench-example-agentic-rag) · 组织维护
+⭐ 176 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/NVIDIA/workbench-example-agentic-rag) · 组织维护
 
 **带准确性与幻觉控制的 Agentic RAG 示例 Web 应用**
 
@@ -45,13 +45,13 @@ NVIDIA AI Workbench 的示例项目：在 RAG 上叠加 agent 层，先判断上
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/workbench-example-agentic-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 173 --> 176
-    line [174, 175]
+    title "NVIDIA/workbench-example-agentic-rag 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 173 --> 177
+    line [174, 175, 176]
 ```
 
-2026-10-18 174 → 2026-10-29 175（+1）
+2026-10-18 174 → 2026-10-30 176（+2）
 
 
 ---

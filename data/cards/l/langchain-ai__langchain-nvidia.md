@@ -44,13 +44,13 @@ langchain-ai 维护的仓库，包含五个 Python 包：langchain-nvidia-ai-end
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-nvidia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
+    title "langchain-ai/langchain-nvidia 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 215 --> 218
-    line [217, 216, 217, 216]
+    line [217, 216, 217, 216, 216]
 ```
 
-2026-10-18 217 → 2026-10-29 216（-1）
+2026-10-18 217 → 2026-10-30 216（-1）
 
 
 ---

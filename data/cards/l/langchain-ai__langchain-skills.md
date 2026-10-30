@@ -1,6 +1,6 @@
 # langchain-ai/langchain-skills
 
-⭐ 1,315 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langchain-ai/langchain-skills) · 组织维护
+⭐ 1,318 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/langchain-skills) · 组织维护
 
 **LangChain/LangGraph/Deep Agents 的 agent 技能库（21 个 SKILL.md）**
 
@@ -44,13 +44,13 @@ LangChain 官方维护的编码 agent 技能集合：提供 21 个 SKILL.md 格�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1292 --> 1318
-    line [1294, 1297, 1299, 1300, 1306, 1313, 1316, 1315]
+    title "langchain-ai/langchain-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1292 --> 1320
+    line [1294, 1297, 1299, 1300, 1306, 1313, 1316, 1315, 1318]
 ```
 
-2026-10-18 1,294 → 2026-10-29 1,315（+21）
+2026-10-18 1,294 → 2026-10-30 1,318（+24）
 
 
 ---

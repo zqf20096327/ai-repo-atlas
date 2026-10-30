@@ -1,6 +1,6 @@
 # Rkcr7/Aura-AI
 
-⭐ 91 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Rkcr7/Aura-AI) · [官网](https://aura-ai-stealth.netlify.app/) · 个人维护
+⭐ 93 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Rkcr7/Aura-AI) · [官网](https://aura-ai-stealth.netlify.app/) · 个人维护
 
 **屏幕隐形 AI 助手：面试/考试中实时监听、截图分析、隐蔽给答案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rkcr7/Aura-AI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 85 --> 92
-    line [86, 87, 89, 90, 91]
+    title "Rkcr7/Aura-AI 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 85 --> 94
+    line [86, 87, 89, 90, 91, 93]
 ```
 
-2026-10-18 86 → 2026-10-29 91（+5）
+2026-10-18 86 → 2026-10-30 93（+7）
 
 
 ---

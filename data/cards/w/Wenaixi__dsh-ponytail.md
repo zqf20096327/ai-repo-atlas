@@ -1,6 +1,6 @@
 # Wenaixi/dsh-ponytail
 
-⭐ 31 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Wenaixi/dsh-ponytail) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-ponytail) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Wenaixi/dsh-ponytail) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-ponytail) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：注入懒人 senior 模式与七阶梯提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Wenaixi/dsh-ponytail 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 20 --> 32
-    line [21, 25, 27, 28, 29, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 20 --> 35
+    line [21, 25, 27, 28, 29, 31, 34]
 ```
 
-2026-10-18 21 → 2026-10-29 31（+10）
+2026-10-18 21 → 2026-10-30 34（+13）
 
 
 ---

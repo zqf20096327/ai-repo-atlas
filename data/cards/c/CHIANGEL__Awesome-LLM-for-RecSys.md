@@ -1,6 +1,6 @@
 # CHIANGEL/Awesome-LLM-for-RecSys
 
-⭐ 1,567 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) · 个人维护 · 中文 README
+⭐ 1,566 · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) · 个人维护 · 中文 README
 
 **LLM 推荐系统论文与资源清单（附 TOIS 综述）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CHIANGEL/Awesome-LLM-for-RecSys 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "CHIANGEL/Awesome-LLM-for-RecSys 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1559 --> 1568
-    line [1560, 1562, 1563, 1564, 1565, 1566, 1567]
+    line [1560, 1562, 1563, 1564, 1565, 1566, 1567, 1566]
 ```
 
-2026-10-18 1,560 → 2026-10-29 1,567（+7）
+2026-10-18 1,560 → 2026-10-30 1,566（+6）
 
 
 ---

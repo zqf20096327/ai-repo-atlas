@@ -45,12 +45,12 @@ Node.js/TypeScript 实现的 LLM 多智能体经济模拟引擎：22 个地点�
 ```mermaid
 xychart-beta
     title "marcopatzelt/brunnfeld-agentic-world 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 138 --> 140
     line [139, 139]
 ```
 
-2026-10-18 139 → 2026-10-29 139（+0）
+2026-10-18 139 → 2026-10-30 139（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NPC-Worldwide/npcpy
 
-⭐ 1,521 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
+⭐ 1,522 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
 
 **多智能体与知识图谱研发的 Python 库，支持本地/云端模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NPC-Worldwide/npcpy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1517 --> 1522
-    line [1518, 1520, 1519, 1521, 1521]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1517 --> 1523
+    line [1518, 1520, 1519, 1521, 1522]
 ```
 
-2026-10-18 1,518 → 2026-10-29 1,521（+3）
+2026-10-18 1,518 → 2026-10-30 1,522（+4）
 
 
 ---

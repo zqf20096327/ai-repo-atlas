@@ -1,6 +1,6 @@
 # lsdefine/GenericAgent
 
-⭐ 14,361 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
+⭐ 14,362 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
 
 **自进化 Agent 框架：从约3K行种子代码生长个人技能树**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "lsdefine/GenericAgent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 14321 --> 14364
-    line [14324, 14328, 14336, 14344, 14342, 14344, 14346, 14348, 14356, 14361]
+    title "lsdefine/GenericAgent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 14321 --> 14365
+    line [14324, 14328, 14336, 14344, 14342, 14344, 14346, 14348, 14356, 14361, 14362]
 ```
 
-2026-10-18 14,324 → 2026-10-29 14,361（+37）
+2026-10-18 14,324 → 2026-10-30 14,362（+38）
 
 
 ---

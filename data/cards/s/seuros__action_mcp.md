@@ -1,6 +1,6 @@
 # seuros/action_mcp
 
-⭐ 124 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/seuros/action_mcp) · 个人维护
+⭐ 125 · Ruby · MIT · 推送 2026-10-27 · [GitHub](https://github.com/seuros/action_mcp) · 个人维护
 
 **为 Rails 应用提供 MCP 服务器能力的 Ruby gem**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "seuros/action_mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 121 --> 125
-    line [122, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 121 --> 126
+    line [122, 123, 124, 125]
 ```
 
-2026-10-18 122 → 2026-10-29 124（+2）
+2026-10-18 122 → 2026-10-30 125（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pifferologo/ai-agent-video-editor
 
-⭐ 160 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pifferologo/ai-agent-video-editor) · 组织维护
+⭐ 161 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pifferologo/ai-agent-video-editor) · 组织维护
 
 **供 AI agent 使用的对话式视频剪辑 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pifferologo/ai-agent-video-editor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 157 --> 161
-    line [158, 159, 160, 160]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 157 --> 162
+    line [158, 159, 160, 161]
 ```
 
-2026-10-18 158 → 2026-10-29 160（+2）
+2026-10-18 158 → 2026-10-30 161（+3）
 
 
 ---

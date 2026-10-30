@@ -1,6 +1,6 @@
 # microsoft/nova-agent
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/nova-agent) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/microsoft/nova-agent) · 组织维护
 
 **微软病理组化图像分析的 agentic 框架，动态生成代码调度 49 种工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/nova-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 32]
 ```
 
-2026-10-18 29 → 2026-10-29 30（+1）
+2026-10-18 29 → 2026-10-30 32（+3）
 
 
 ---

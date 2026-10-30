@@ -1,6 +1,6 @@
 # ParamThakkar123/simulusion
 
-⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ParamThakkar123/simulusion) · [官网](https://paramthakkar123.github.io/simulusion/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ParamThakkar123/simulusion) · [官网](https://simulusion.vercel.app) · 个人维护
 
 **统一 API 训练多种世界模型的 PyTorch 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ParamThakkar123/simulusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "ParamThakkar123/simulusion 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 29 --> 32
-    line [30, 31]
+    line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-29 31（+1）
+2026-10-18 30 → 2026-10-30 31（+1）
 
 
 ---

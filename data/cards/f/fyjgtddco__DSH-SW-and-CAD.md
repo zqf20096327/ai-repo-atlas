@@ -1,6 +1,6 @@
 # fyjgtddco/DSH-SW-and-CAD
 
-⭐ 32 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fyjgtddco/DSH-SW-and-CAD) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fyjgtddco/DSH-SW-and-CAD) · 个人维护 · 中文 README
 
 **驱动 SolidWorks 自动机械设计的 DSH 工程模式预设**
 
@@ -39,6 +39,18 @@
 
 > L3: > **面向 CAD / SolidWorks 机械设计的 DeepSeek Harness Agent 预设。**
 > L50: |真的驱动 SolidWorks 建模|Python `win32com`，SW 2018 ~ 2025，单位 mm|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fyjgtddco/DSH-SW-and-CAD 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 31 --> 35
+    line [32, 34]
+```
+
+2026-10-29 32 → 2026-10-30 34（+2）
 
 
 ---

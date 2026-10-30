@@ -44,13 +44,13 @@ SwiftUI 编写的 macOS 桌面应用，调用捆绑的 whisper-cli（whisper.cpp
 
 ```mermaid
 xychart-beta
-    title "aarush67/Vocal-Prism 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "aarush67/Vocal-Prism 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-10-29 37（+1）
+2026-10-18 36 → 2026-10-30 37（+1）
 
 
 ---

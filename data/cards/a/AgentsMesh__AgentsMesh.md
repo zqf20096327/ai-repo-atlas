@@ -1,6 +1,6 @@
 # AgentsMesh/AgentsMesh
 
-⭐ 2,361 · Go · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/AgentsMesh/AgentsMesh) · [官网](https://agentsmesh.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管 AI Agent 编排平台：跨自有机器调度、隔离并管理上百个编码 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

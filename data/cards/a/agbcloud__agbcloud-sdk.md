@@ -1,6 +1,6 @@
 # agbcloud/agbcloud-sdk
 
-⭐ 207 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/agbcloud/agbcloud-sdk) · [官网](https://agb.cloud) · 组织维护 · 中文 README
+⭐ 206 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/agbcloud/agbcloud-sdk) · [官网](https://agb.cloud) · 组织维护 · 中文 README
 
 **面向开发者的 AI 沙箱云服务 SDK：会话、代码执行与浏览器自动化**
 
@@ -45,12 +45,12 @@ AGB Cloud 的客户端 SDK，提供 Python 与 TypeScript 库，用于接入 AGB
 ```mermaid
 xychart-beta
     title "agbcloud/agbcloud-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 206 --> 208
-    line [207, 207]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 205 --> 208
+    line [207, 206]
 ```
 
-2026-10-18 207 → 2026-10-29 207（+0）
+2026-10-18 207 → 2026-10-30 206（-1）
 
 
 ---

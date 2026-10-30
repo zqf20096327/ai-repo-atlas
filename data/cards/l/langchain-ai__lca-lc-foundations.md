@@ -1,6 +1,6 @@
 # langchain-ai/lca-lc-foundations
 
-⭐ 698 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
+⭐ 700 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
 
 **LangChain 入门课程的配套代码仓库（三模块）**
 
@@ -45,13 +45,13 @@ LangChain Academy《Introduction to LangChain》课程的配套代码库：以 J
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/lca-lc-foundations 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 681 --> 699
-    line [682, 684, 686, 687, 688, 691, 692, 696, 698]
+    title "langchain-ai/lca-lc-foundations 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 681 --> 701
+    line [682, 684, 686, 687, 688, 691, 692, 696, 698, 700]
 ```
 
-2026-10-18 682 → 2026-10-29 698（+16）
+2026-10-18 682 → 2026-10-30 700（+18）
 
 
 ---

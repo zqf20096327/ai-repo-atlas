@@ -1,6 +1,6 @@
 # merdekasiberlab/xssgenai
 
-⭐ 24 · Python · 推送 2025-11-02 · [GitHub](https://github.com/merdekasiberlab/xssgenai) · [官网](https://merdekasiber.com/xssgenai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向现代 Web 应用的 XSS 扫描器，含 WAF 识别与可选 Gemini 分析**
 

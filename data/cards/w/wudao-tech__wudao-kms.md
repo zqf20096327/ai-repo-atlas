@@ -1,6 +1,6 @@
 # wudao-tech/wudao-kms
 
-⭐ 18 · Vue · AGPL-3.0 · 推送 2026-01-28 · [GitHub](https://github.com/wudao-tech/wudao-kms) · [官网](https://www.wudao-tech.com/knowledge) · 组织维护 · 中文 README
+⭐ 19 · Vue · AGPL-3.0 · 推送 2026-01-28 · [GitHub](https://github.com/wudao-tech/wudao-kms) · [官网](https://www.wudao-tech.com/knowledge) · 组织维护 · 中文 README
 
 **面向企业的知识库管理与 RAG 智能问答系统（Spring Boot + Vue 3）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wudao-tech/wudao-kms 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WenyiWU0111/RSIGame
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
+⭐ 168 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
 
 **自主 agentic 游戏开发框架：递归自改进生成游戏**
 
@@ -40,6 +40,18 @@
 > L38: >We introduce **RSIGame**, an autonomous agentic game development framework with recursive self-improvement. **RSIG
 > L40: >Beyond test-time improvement, **RSIGame** further internalizes successful development experience into the generato
 > L84: Requires **Linux** (or macOS): the loop runs its agents in process groups and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WenyiWU0111/RSIGame 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 165 --> 169
+    line [166, 168]
+```
+
+2026-10-29 166 → 2026-10-30 168（+2）
 
 
 ---

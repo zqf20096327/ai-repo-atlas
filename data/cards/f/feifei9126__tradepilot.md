@@ -1,6 +1,6 @@
 # feifei9126/tradepilot
 
-⭐ 68 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/feifei9126/tradepilot) · [官网](https://tradepilot.us.kg/) · 个人维护 · 中文 README
+⭐ 69 · TypeScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/feifei9126/tradepilot) · [官网](https://tradepilot.us.kg/) · 个人维护 · 中文 README
 
 **面向小型外贸团队的开源 AI 外贸 CRM 与订单履约工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "feifei9126/tradepilot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 59 --> 69
-    line [60, 61, 64, 66, 67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 59 --> 70
+    line [60, 61, 64, 66, 67, 68, 69]
 ```
 
-2026-10-18 60 → 2026-10-29 68（+8）
+2026-10-18 60 → 2026-10-30 69（+9）
 
 
 ---

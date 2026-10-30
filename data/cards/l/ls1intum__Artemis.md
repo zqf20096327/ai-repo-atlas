@@ -1,6 +1,6 @@
 # ls1intum/Artemis
 
-⭐ 822 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
+⭐ 823 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
 
 **高校自托管互动学习与自动反馈平台（含可选 AI）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ls1intum/Artemis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 817 --> 823
-    line [818, 820, 821, 822, 822]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 817 --> 824
+    line [818, 820, 821, 822, 823]
 ```
 
-2026-10-18 818 → 2026-10-29 822（+4）
+2026-10-18 818 → 2026-10-30 823（+5）
 
 
 ---

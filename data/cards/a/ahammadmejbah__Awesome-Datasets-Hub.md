@@ -1,6 +1,6 @@
 # ahammadmejbah/Awesome-Datasets-Hub
 
-⭐ 149 · 推送 2026-06-20 · [GitHub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) · [官网](https://intelligenceacademy.ai/datasets) · 个人维护
+⭐ 150 · 推送 2026-06-20 · [GitHub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) · [官网](https://intelligenceacademy.ai/datasets) · 个人维护
 
 **面向 LLM 的多领域数据集策展清单：医学、VLSI、CS、AI/ML 等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahammadmejbah/Awesome-Datasets-Hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 148 --> 150
-    line [149, 149]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 148 --> 151
+    line [149, 150]
 ```
 
-2026-10-18 149 → 2026-10-29 149（+0）
+2026-10-18 149 → 2026-10-30 150（+1）
 
 
 ---

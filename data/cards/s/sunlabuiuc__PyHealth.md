@@ -1,6 +1,6 @@
 # sunlabuiuc/PyHealth
 
-⭐ 1,688 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sunlabuiuc/PyHealth) · [官网](https://pyhealth.dev) · 组织维护
+⭐ 1,688 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sunlabuiuc/PyHealth) · [官网](https://pyhealth.dev) · 组织维护
 
 **面向临床预测建模的医疗深度学习 Python 工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunlabuiuc/PyHealth 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "sunlabuiuc/PyHealth 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1673 --> 1689
-    line [1674, 1676, 1678, 1680, 1686, 1687, 1688]
+    line [1674, 1676, 1678, 1680, 1686, 1687, 1688, 1688]
 ```
 
-2026-10-18 1,674 → 2026-10-29 1,688（+14）
+2026-10-18 1,674 → 2026-10-30 1,688（+14）
 
 
 ---

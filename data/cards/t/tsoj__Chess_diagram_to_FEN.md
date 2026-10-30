@@ -1,6 +1,6 @@
 # tsoj/Chess_diagram_to_FEN
 
-⭐ 35 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/tsoj/Chess_diagram_to_FEN) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/tsoj/Chess_diagram_to_FEN) · 个人维护
 
 **从国际象棋/象棋/将棋棋盘图片中识别并输出 FEN**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tsoj/Chess_diagram_to_FEN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 36（+1）
 
 
 ---

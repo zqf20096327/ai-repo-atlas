@@ -1,6 +1,6 @@
 # OpenRaiser/NanoResearch
 
-⭐ 1,338 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/OpenRaiser/NanoResearch) · 组织维护 · 中文 README
+⭐ 1,337 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/OpenRaiser/NanoResearch) · 组织维护 · 中文 README
 
 **端到端自主 AI 科研引擎：从课题到实验与 LaTeX 论文全自动**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OpenRaiser/NanoResearch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1337 --> 1343
-    line [1341, 1342, 1338, 1339, 1338, 1338]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1336 --> 1343
+    line [1341, 1342, 1338, 1339, 1338, 1337]
 ```
 
-2026-10-18 1,341 → 2026-10-29 1,338（-3）
+2026-10-18 1,341 → 2026-10-30 1,337（-4）
 
 
 ---

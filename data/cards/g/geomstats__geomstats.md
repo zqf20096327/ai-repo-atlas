@@ -1,6 +1,6 @@
 # geomstats/geomstats
 
-⭐ 1,527 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/geomstats/geomstats) · [官网](http://geomstats.ai) · 组织维护
+⭐ 1,528 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/geomstats/geomstats) · [官网](http://geomstats.ai) · 组织维护
 
 **流形上的几何计算与统计机器学习 Python 库**
 
@@ -44,13 +44,13 @@ Geomstats 提供 manifolds 上的计算、统计、机器学习与深度学习�
 
 ```mermaid
 xychart-beta
-    title "geomstats/geomstats 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "geomstats/geomstats 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1523 --> 1529
-    line [1524, 1525, 1526, 1527, 1528, 1527]
+    line [1524, 1525, 1526, 1527, 1528, 1527, 1528]
 ```
 
-2026-10-18 1,524 → 2026-10-29 1,527（+3）
+2026-10-18 1,524 → 2026-10-30 1,528（+4）
 
 
 ---

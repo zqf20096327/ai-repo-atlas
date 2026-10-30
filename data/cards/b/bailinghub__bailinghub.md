@@ -1,6 +1,6 @@
 # bailinghub/bailinghub
 
-⭐ 127 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bailinghub/bailinghub) · [官网](https://www.bailinghub.com) · 组织维护 · 中文 README
+⭐ 126 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bailinghub/bailinghub) · [官网](https://www.bailinghub.com) · 组织维护 · 中文 README
 
 **让 Agent 通过对话安全操作商城/SaaS/CRM/ERP 后台的自托管中枢**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bailinghub/bailinghub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 119 --> 155
-    line [152, 151, 122, 124, 125, 127, 127]
+    line [152, 151, 122, 124, 125, 127, 126]
 ```
 
-2026-10-18 152 → 2026-10-29 127（-25）
+2026-10-18 152 → 2026-10-30 126（-26）
 
 
 ---

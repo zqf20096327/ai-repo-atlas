@@ -45,12 +45,12 @@ SAP 官方样例仓库，演示在 SAP BTP 上用 CAP 框架开发 GenAI 应用�
 ```mermaid
 xychart-beta
     title "SAP-samples/btp-cap-genai-rag 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 140 --> 142
     line [141, 141]
 ```
 
-2026-10-18 141 → 2026-10-29 141（+0）
+2026-10-18 141 → 2026-10-30 141（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Python 包，通过从 labs.openai.com 抓取的 Bearer Token 调用 DALL·E 2 �
 ```mermaid
 xychart-beta
     title "ezzcodeezzlife/dalle2-in-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 174 --> 176
     line [175, 175]
 ```
 
-2026-10-18 175 → 2026-10-29 175（+0）
+2026-10-18 175 → 2026-10-30 175（+0）
 
 
 ---

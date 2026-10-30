@@ -1,6 +1,6 @@
 # qsumm/AIOps
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/qsumm/AIOps) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管 AI 运维平台：告警收敛后由 Agent 带证据链排查根因**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

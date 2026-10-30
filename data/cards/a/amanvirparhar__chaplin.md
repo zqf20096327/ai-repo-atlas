@@ -1,6 +1,6 @@
 # amanvirparhar/chaplin
 
-⭐ 759 · Python · MIT · 推送 2025-11-02 · [GitHub](https://github.com/amanvirparhar/chaplin) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **实时唇读工具：读取唇部动作并打出无声语音文本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

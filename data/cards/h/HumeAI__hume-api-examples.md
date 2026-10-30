@@ -1,6 +1,6 @@
 # HumeAI/hume-api-examples
 
-⭐ 252 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/HumeAI/hume-api-examples) · 组织维护
+⭐ 252 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/HumeAI/hume-api-examples) · 组织维护
 
 **Hume AI 官方示例集：指导接入 TTS 与共情语音接口**
 
@@ -46,12 +46,12 @@ HumeAI 官方维护的示例项目仓库，收录集成 Hume API 的快速入门
 ```mermaid
 xychart-beta
     title "HumeAI/hume-api-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 250 --> 253
     line [252, 251, 252, 252]
 ```
 
-2026-10-18 252 → 2026-10-29 252（+0）
+2026-10-18 252 → 2026-10-30 252（+0）
 
 
 ---

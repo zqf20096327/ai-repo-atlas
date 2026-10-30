@@ -1,6 +1,6 @@
 # Epistates/turbovault
 
-⭐ 155 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Epistates/turbovault) · 个人维护
+⭐ 156 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Epistates/turbovault) · 个人维护
 
 **让 AI agent 安全读写 Obsidian 笔记库的 MCP 服务器与 Rust crate**
 
@@ -47,12 +47,12 @@ TurboVault 是一个单一二进制的 MCP 服务器，配套一组处理 Obsidi
 ```mermaid
 xychart-beta
     title "Epistates/turbovault 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 153 --> 156
-    line [154, 155, 155]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 153 --> 157
+    line [154, 155, 156]
 ```
 
-2026-10-18 154 → 2026-10-29 155（+1）
+2026-10-18 154 → 2026-10-30 156（+2）
 
 
 ---

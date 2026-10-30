@@ -1,6 +1,6 @@
 # bodaay/HuggingFaceModelDownloader
 
-⭐ 1,201 · Go · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/bodaay/HuggingFaceModelDownloader) · 个人维护 · 中文 README
+⭐ 1,202 · Go · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/bodaay/HuggingFaceModelDownloader) · 个人维护 · 中文 README
 
 **Go 编写的 HuggingFace 模型与数据集并行下载工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bodaay/HuggingFaceModelDownloader 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1190 --> 1202
-    line [1191, 1193, 1194, 1195, 1197, 1200, 1201]
+    title "bodaay/HuggingFaceModelDownloader 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1190 --> 1203
+    line [1191, 1193, 1194, 1195, 1197, 1200, 1201, 1202]
 ```
 
-2026-10-18 1,191 → 2026-10-29 1,201（+10）
+2026-10-18 1,191 → 2026-10-30 1,202（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # lobehub/sd-webui-lobe-theme
 
-⭐ 2,714 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/lobehub/sd-webui-lobe-theme) · [官网](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 组织维护 · 中文 README
+⭐ 2,713 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/lobehub/sd-webui-lobe-theme) · [官网](https://github.com/AUTOMATIC1111/stable-diffusion-webui) · 组织维护 · 中文 README
 
 **给 Stable Diffusion WebUI 用户的现代化界面主题扩展**
 
@@ -45,12 +45,12 @@ Lobe Theme 是运行于 Stable Diffusion WebUI 之上的界面主题扩展，以
 ```mermaid
 xychart-beta
     title "lobehub/sd-webui-lobe-theme 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2713 --> 2717
-    line [2715, 2716, 2715, 2716, 2715, 2714, 2714]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2712 --> 2717
+    line [2715, 2716, 2715, 2716, 2715, 2714, 2713]
 ```
 
-2026-10-18 2,715 → 2026-10-29 2,714（-1）
+2026-10-18 2,715 → 2026-10-30 2,713（-2）
 
 
 ---

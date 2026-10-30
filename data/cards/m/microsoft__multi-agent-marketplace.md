@@ -1,6 +1,6 @@
 # microsoft/multi-agent-marketplace
 
-⭐ 193 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/multi-agent-marketplace) · [官网](https://microsoft.github.io/multi-agent-marketplace/) · 组织维护
+⭐ 195 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/multi-agent-marketplace) · [官网](https://microsoft.github.io/multi-agent-marketplace/) · 组织维护
 
 **模拟 LLM 买家/卖家 agent 市场的 Python 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/multi-agent-marketplace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 191 --> 194
-    line [192, 193, 193]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 191 --> 196
+    line [192, 193, 195]
 ```
 
-2026-10-18 192 → 2026-10-29 193（+1）
+2026-10-18 192 → 2026-10-30 195（+3）
 
 
 ---

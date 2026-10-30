@@ -1,6 +1,6 @@
 # NextAdminHQ/nextjs-admin-dashboard
 
-⭐ 597 · TypeScript · 推送 2026-08-18 · [GitHub](https://github.com/NextAdminHQ/nextjs-admin-dashboard) · [官网](https://nextadmin.co) · 组织维护
+⭐ 602 · TypeScript · 推送 2026-08-18 · [GitHub](https://github.com/NextAdminHQ/nextjs-admin-dashboard) · [官网](https://nextadmin.co) · 组织维护
 
 **为 AI 代码代理提供规则与上下文的 Next.js 管理后台模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NextAdminHQ/nextjs-admin-dashboard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 588 --> 598
-    line [589, 590, 592, 593, 596, 597, 597]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 588 --> 603
+    line [589, 590, 592, 593, 596, 597, 602]
 ```
 
-2026-10-18 589 → 2026-10-29 597（+8）
+2026-10-18 589 → 2026-10-30 602（+13）
 
 
 ---

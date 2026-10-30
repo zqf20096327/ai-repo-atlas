@@ -1,6 +1,6 @@
 # opencrawling/opencrawling
 
-⭐ 25 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opencrawling/opencrawling) · [官网](https://opencrawling.org) · 组织维护
+⭐ 26 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/opencrawling/opencrawling) · [官网](https://opencrawling.org) · 组织维护
 
 **面向企业的数据摄取平台：仓库连接器到向量检索的数据流编排**
 
@@ -45,12 +45,12 @@ Open Ingestion Standard (OIS) 的 Java/Spring 参考实现：通过仓库连接�
 ```mermaid
 xychart-beta
     title "opencrawling/opencrawling 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 26]
 ```
 
-2026-10-18 22 → 2026-10-29 25（+3）
+2026-10-18 22 → 2026-10-30 26（+4）
 
 
 ---

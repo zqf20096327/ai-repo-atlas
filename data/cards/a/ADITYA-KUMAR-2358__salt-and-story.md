@@ -1,6 +1,6 @@
 # ADITYA-KUMAR-2358/salt-and-story
 
-⭐ 20 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ADITYA-KUMAR-2358/salt-and-story) · [官网](https://salt-and-story-web.onrender.com/) · 个人维护
+⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ADITYA-KUMAR-2358/salt-and-story) · [官网](saltandstory.site) · 个人维护
 
 **把亲属做菜的语音备忘转成可打印食谱并生成纪念食谱书 PDF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ADITYA-KUMAR-2358/salt-and-story 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 9 --> 21
-    line [10, 13, 14, 17, 20]
+    title "ADITYA-KUMAR-2358/salt-and-story 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 9 --> 22
+    line [10, 13, 14, 17, 20, 21]
 ```
 
-2026-10-23 10 → 2026-10-29 20（+10）
+2026-10-23 10 → 2026-10-30 21（+11）
 
 
 ---

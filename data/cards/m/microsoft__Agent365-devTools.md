@@ -1,6 +1,6 @@
 # microsoft/Agent365-devTools
 
-⭐ 61 · C# · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Agent365-devTools) · 组织维护
+⭐ 61 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/Agent365-devTools) · 组织维护
 
 **微软 Agent 365 应用的开发/部署/管理命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-devTools 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 61（+0）
 
 
 ---

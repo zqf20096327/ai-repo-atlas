@@ -45,12 +45,12 @@ GD-VAEs（Geometric Dynamic Variational Autoencoders）是一套面向非线性�
 ```mermaid
 xychart-beta
     title "gd-vae/gd-vae 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 38（+0）
 
 
 ---

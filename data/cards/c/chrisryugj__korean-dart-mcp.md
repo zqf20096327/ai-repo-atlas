@@ -1,6 +1,6 @@
 # chrisryugj/korean-dart-mcp
 
-⭐ 119 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/chrisryugj/korean-dart-mcp) · [官网](https://www.npmjs.com/package/korean-dart-mcp) · 个人维护 · 中文 README
+⭐ 118 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/chrisryugj/korean-dart-mcp) · [官网](https://www.npmjs.com/package/korean-dart-mcp) · 个人维护 · 中文 README
 
 **把韩国 DART 电子公示 83 个 API 封装成 15 个 MCP 工具的服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chrisryugj/korean-dart-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 113 --> 120
-    line [114, 116, 118, 119, 119]
+    line [114, 116, 118, 119, 118]
 ```
 
-2026-10-18 114 → 2026-10-29 119（+5）
+2026-10-18 114 → 2026-10-30 118（+4）
 
 
 ---

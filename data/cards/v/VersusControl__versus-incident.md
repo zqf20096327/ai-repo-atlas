@@ -1,6 +1,6 @@
 # VersusControl/versus-incident
 
-⭐ 916 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VersusControl/versus-incident) · [官网](https://versusincident.com) · 组织维护
+⭐ 917 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/VersusControl/versus-incident) · [官网](https://versusincident.com) · 组织维护
 
 **自托管的 AI SRE 事件代理：自动检测系统异常并分发告警**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VersusControl/versus-incident 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 855 --> 921
-    line [860, 881, 897, 905, 912, 914, 915, 916]
+    title "VersusControl/versus-incident 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 855 --> 922
+    line [860, 881, 897, 905, 912, 914, 915, 916, 917]
 ```
 
-2026-10-18 860 → 2026-10-29 916（+56）
+2026-10-18 860 → 2026-10-30 917（+57）
 
 
 ---

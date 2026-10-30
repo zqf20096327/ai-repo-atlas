@@ -1,6 +1,6 @@
 # qiskit-community/qiskit-machine-learning
 
-⭐ 1,111 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/qiskit-community/qiskit-machine-learning) · [官网](https://qiskit-community.github.io/qiskit-machine-learning/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Qiskit 的量子机器学习库：量子核与量子神经网络**
 
@@ -11,7 +11,7 @@ Qiskit 社区生态下的量子机器学习 Python 库，由 IBM 与英国 Hartr
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

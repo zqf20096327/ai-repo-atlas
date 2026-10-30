@@ -1,6 +1,6 @@
 # MantisAI/sieves
 
-⭐ 126 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/MantisAI/sieves) · [官网](https://sieves.ai) · 组织维护
+⭐ 127 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/MantisAI/sieves) · [官网](https://sieves.ai) · 组织维护
 
 **面向文档 AI 的框架无关流水线构建库，零训练结构化抽取**
 
@@ -46,12 +46,12 @@ Python 库，为文档 AI 提供与语言模型框架解耦的统一抽象层：
 ```mermaid
 xychart-beta
     title "MantisAI/sieves 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 125 --> 127
-    line [126, 126]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 125 --> 128
+    line [126, 127]
 ```
 
-2026-10-18 126 → 2026-10-29 126（+0）
+2026-10-18 126 → 2026-10-30 127（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # maju116/rplatypus
 
-⭐ 136 · R · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/maju116/rplatypus) · [官网](https://maju116.github.io/rplatypus/) · 个人维护
+⭐ 136 · R · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/maju116/rplatypus) · [官网](https://maju116.github.io/rplatypus/) · 个人维护
 
 **医学影像分割与检测的 R 包：从图片文件夹到出图，2D/3D、DICOM/NIfTI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "maju116/rplatypus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-29 136（+0）
+2026-10-18 136 → 2026-10-30 136（+0）
 
 
 ---

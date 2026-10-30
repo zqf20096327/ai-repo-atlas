@@ -1,6 +1,6 @@
 # neka-nat/agent3dify
 
-⭐ 42 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/neka-nat/agent3dify) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/neka-nat/agent3dify) · 个人维护
 
 **用多 AI agent 将 2D 图纸转换为 3D CAD 模型的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neka-nat/agent3dify 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 39 --> 43
-    line [40, 42, 42]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 39 --> 44
+    line [40, 42, 43]
 ```
 
-2026-10-18 40 → 2026-10-29 42（+2）
+2026-10-18 40 → 2026-10-30 43（+3）
 
 
 ---

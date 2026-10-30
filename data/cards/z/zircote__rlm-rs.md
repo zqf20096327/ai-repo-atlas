@@ -1,6 +1,6 @@
 # zircote/rlm-rs
 
-⭐ 62 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/zircote/rlm-rs) · [官网](https://zircote.com/rlm-rs/) · 个人维护
+⭐ 62 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zircote/rlm-rs) · [官网](https://zircote.com/rlm-rs/) · 个人维护
 
 **面向 Claude Code 的 Rust CLI：分块+递归子 LLM 处理超长文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zircote/rlm-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-29 62（+0）
+2026-10-18 62 → 2026-10-30 62（+0）
 
 
 ---

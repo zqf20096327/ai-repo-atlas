@@ -1,6 +1,6 @@
 # Silvertree2010/ApolloOffice
 
-⭐ 32 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Silvertree2010/ApolloOffice) · [官网](https://office.apollonet.dev) · 个人维护
+⭐ 32 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Silvertree2010/ApolloOffice) · [官网](https://office.apollonet.dev) · 个人维护
 
 **本地运行的 AI 工人团队：把 GitHub issue 变成经验证的修复 PR**
 
@@ -45,13 +45,13 @@ Rust 单二进制桌面应用，在用户自己的电脑上运行一组流水线
 
 ```mermaid
 xychart-beta
-    title "Silvertree2010/ApolloOffice 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "Silvertree2010/ApolloOffice 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 10 --> 34
-    line [12, 16, 19, 25, 26, 27, 29, 30, 32]
+    line [12, 16, 19, 25, 26, 27, 29, 30, 32, 32]
 ```
 
-2026-10-19 12 → 2026-10-29 32（+20）
+2026-10-19 12 → 2026-10-30 32（+20）
 
 
 ---

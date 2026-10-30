@@ -1,6 +1,6 @@
 # TEN-framework/ten-framework
 
-⭐ 11,210 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/TEN-framework/ten-framework) · [官网](https://agent.theten.ai/) · 组织维护 · 中文 README
+⭐ 11,213 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/TEN-framework/ten-framework) · [官网](https://agent.theten.ai/) · 组织维护 · 中文 README
 
 **构建实时多模态对话语音 AI agent 的开源框架**
 
@@ -45,13 +45,13 @@ TEN 是用于实时多模态对话 AI 的开源框架，面向构建语音/视�
 
 ```mermaid
 xychart-beta
-    title "TEN-framework/ten-framework 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 11170 --> 11213
-    line [11173, 11180, 11186, 11190, 11195, 11198, 11201, 11205, 11210]
+    title "TEN-framework/ten-framework 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11169 --> 11217
+    line [11173, 11180, 11186, 11190, 11195, 11198, 11201, 11205, 11210, 11213]
 ```
 
-2026-10-18 11,173 → 2026-10-29 11,210（+37）
+2026-10-18 11,173 → 2026-10-30 11,213（+40）
 
 
 ---

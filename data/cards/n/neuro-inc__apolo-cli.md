@@ -1,6 +1,6 @@
 # neuro-inc/apolo-cli
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/neuro-inc/apolo-cli) · [官网](https://docs.apolo.us/index/apolo-cli) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/neuro-inc/apolo-cli) · [官网](https://docs.apolo.us/index/apolo-cli) · 组织维护
 
 **Apoolo 平台的 Python SDK 库与命令行客户端**
 
@@ -42,12 +42,12 @@ neuro-inc 维护的仓库，包含 Apolo SDK 库（平台 API 的 Python 客户�
 ```mermaid
 xychart-beta
     title "neuro-inc/apolo-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

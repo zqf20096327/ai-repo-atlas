@@ -1,6 +1,6 @@
 # umutxyp/Seo-Promt-Master
 
-⭐ 564 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/umutxyp/Seo-Promt-Master) · 个人维护
+⭐ 566 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/umutxyp/Seo-Promt-Master) · 个人维护
 
 **面向编码 Agent 的 SEO/GEO 审计技能、提示词库与工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "umutxyp/Seo-Promt-Master 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 561 --> 565
-    line [562, 563, 564, 564]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 561 --> 567
+    line [562, 563, 564, 566]
 ```
 
-2026-10-18 562 → 2026-10-29 564（+2）
+2026-10-18 562 → 2026-10-30 566（+4）
 
 
 ---

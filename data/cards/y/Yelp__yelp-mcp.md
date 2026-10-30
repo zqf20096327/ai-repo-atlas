@@ -45,12 +45,12 @@ Yelp 官方维护的 Model Context Protocol 服务器，暴露 yelp_agent 单一
 ```mermaid
 xychart-beta
     title "Yelp/yelp-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

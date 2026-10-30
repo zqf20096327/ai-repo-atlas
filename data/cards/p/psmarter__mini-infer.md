@@ -40,6 +40,18 @@
 > L3: **LLM inference engine built from scratch** — paged KV cache, continuous batching, chunked prefill, prefix caching, 
 > L101: |**目标**|从零实现并测量关键推理机制|生产级：高吞吐、多模型、SLO 保障|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "psmarter/mini-infer 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 234 --> 236
+    line [235, 235]
+```
+
+2026-10-29 235 → 2026-10-30 235（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `7eb449116e39` · [字段定义](../../DATASET.md)*

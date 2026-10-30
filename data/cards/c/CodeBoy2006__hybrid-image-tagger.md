@@ -1,6 +1,6 @@
 # CodeBoy2006/hybrid-image-tagger
 
-⭐ 23 · Python · 推送 2026-07-17 · [GitHub](https://github.com/CodeBoy2006/hybrid-image-tagger) · 个人维护
+⭐ 24 · Python · 推送 2026-07-17 · [GitHub](https://github.com/CodeBoy2006/hybrid-image-tagger) · 个人维护
 
 **混合 WD Tagger 与 VLM 为图像数据集批量生成描述标签的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CodeBoy2006/hybrid-image-tagger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sleep2agi/agent-network
 
-⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sleep2agi/agent-network) · [官网](https://anet.sh) · 组织维护 · 中文 README
+⭐ 112 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/sleep2agi/agent-network) · [官网](https://anet.sh) · 组织维护 · 中文 README
 
 **把多台机器上的编码 Agent 连成网络统一指挥的自托管工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sleep2agi/agent-network 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "sleep2agi/agent-network 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 94 --> 113
-    line [95, 98, 101, 102, 104, 106, 109, 110, 112]
+    line [95, 98, 101, 102, 104, 106, 109, 110, 112, 112]
 ```
 
-2026-10-18 95 → 2026-10-29 112（+17）
+2026-10-18 95 → 2026-10-30 112（+17）
 
 
 ---

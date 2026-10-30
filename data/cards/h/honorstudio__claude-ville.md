@@ -1,6 +1,6 @@
 # honorstudio/claude-ville
 
-⭐ 20 · JavaScript · 推送 2026-09-28 · [GitHub](https://github.com/honorstudio/claude-ville) · 个人维护
+⭐ 21 · JavaScript · 推送 2026-09-28 · [GitHub](https://github.com/honorstudio/claude-ville) · 个人维护
 
 **AI 编码 agent 会话的实时可视化监控面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "honorstudio/claude-ville 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 17 --> 22
+    line [18, 20, 21]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 21（+3）
 
 
 ---

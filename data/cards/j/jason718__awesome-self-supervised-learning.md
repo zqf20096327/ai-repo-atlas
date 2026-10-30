@@ -1,6 +1,6 @@
 # jason718/awesome-self-supervised-learning
 
-⭐ 6,438 · 推送 2026-02-24 · [GitHub](https://github.com/jason718/awesome-self-supervised-learning) · 个人维护
+⭐ 6,439 · 推送 2026-02-24 · [GitHub](https://github.com/jason718/awesome-self-supervised-learning) · 个人维护
 
 **自监督学习论文资源清单，覆盖理论、视觉等领域**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jason718/awesome-self-supervised-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 6433 --> 6439
-    line [6435, 6434, 6435, 6434, 6436, 6438, 6438]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 6433 --> 6440
+    line [6435, 6434, 6435, 6434, 6436, 6438, 6439]
 ```
 
-2026-10-18 6,435 → 2026-10-29 6,438（+3）
+2026-10-18 6,435 → 2026-10-30 6,439（+4）
 
 
 ---

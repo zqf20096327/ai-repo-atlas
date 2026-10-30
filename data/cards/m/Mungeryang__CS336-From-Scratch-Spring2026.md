@@ -1,6 +1,6 @@
 # Mungeryang/CS336-From-Scratch-Spring2026
 
-⭐ 79 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/Mungeryang/CS336-From-Scratch-Spring2026) · 个人维护 · 中文 README
+⭐ 78 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/Mungeryang/CS336-From-Scratch-Spring2026) · 个人维护 · 中文 README
 
 **斯坦福 CS336 课程的中文学习笔记与从零实现作业合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mungeryang/CS336-From-Scratch-Spring2026 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 77 --> 96
-    line [95, 78, 79, 79]
+    line [95, 78, 79, 78]
 ```
 
-2026-10-18 95 → 2026-10-29 79（-16）
+2026-10-18 95 → 2026-10-30 78（-17）
 
 
 ---

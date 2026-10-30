@@ -1,6 +1,6 @@
 # mindscale-noah/MindMemOS
 
-⭐ 924 · Python · 推送 2026-10-28 · [GitHub](https://github.com/mindscale-noah/MindMemOS) · [官网](https://mindmemos.cn) · 组织维护 · 中文 README
+⭐ 924 · Python · 推送 2026-10-29 · [GitHub](https://github.com/mindscale-noah/MindMemOS) · [官网](https://mindmemos.cn) · 组织维护 · 中文 README
 
 **AI agent 长期记忆操作系统：跨 agent 持久记忆与技能蒸馏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindscale-noah/MindMemOS 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "mindscale-noah/MindMemOS 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 916 --> 925
-    line [917, 918, 920, 921, 922, 923, 924]
+    line [917, 918, 920, 921, 922, 923, 924, 924]
 ```
 
-2026-10-18 917 → 2026-10-29 924（+7）
+2026-10-18 917 → 2026-10-30 924（+7）
 
 
 ---

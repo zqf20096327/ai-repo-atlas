@@ -1,6 +1,6 @@
 # chenyangkang/stemflow
 
-⭐ 26 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/chenyangkang/stemflow) · [官网](https://chenyangkang.github.io/stemflow/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chenyangkang/stemflow) · [官网](https://chenyangkang.github.io/stemflow/) · 个人维护
 
 **面向生态学家的 AdaSTEM 时空建模 Python 库，预测物种丰度**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chenyangkang/stemflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-29 26（+0）
+2026-10-18 26 → 2026-10-30 26（+0）
 
 
 ---

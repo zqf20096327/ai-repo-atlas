@@ -1,6 +1,6 @@
 # microsoft/Resource2Skill
 
-⭐ 541 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/microsoft/Resource2Skill) · [官网](https://aka.ms/Resource2Skill) · 组织维护
+⭐ 542 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/Resource2Skill) · [官网](https://aka.ms/Resource2Skill) · 组织维护
 
 **将人类多模态资源蒸馏为可执行 agent 技能的框架与运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Resource2Skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 536 --> 542
-    line [537, 539, 540, 541, 541]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 536 --> 543
+    line [537, 539, 540, 541, 542]
 ```
 
-2026-10-18 537 → 2026-10-29 541（+4）
+2026-10-18 537 → 2026-10-30 542（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # nirholas/x402-deploy
 
-⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/nirholas/x402-deploy) · [官网](https://nirholas.github.io/x402-deploy/) · 个人维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/nirholas/x402-deploy) · [官网](https://nirholas.github.io/x402-deploy/) · 个人维护
 
 **给 API/MCP 服务器开发者：一键部署并按调用收费**
 
@@ -46,12 +46,12 @@ CLI 部署工具：自动检测 MCP 服务器、Express、Fastify、FastAPI、Ne
 ```mermaid
 xychart-beta
     title "nirholas/x402-deploy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-29 26（+1）
+2026-10-18 25 → 2026-10-30 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # advenimus/conduit-desktop
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/advenimus/conduit-desktop) · [官网](https://conduitdesktop.com) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/advenimus/conduit-desktop) · [官网](https://conduitdesktop.com) · 组织维护
 
 **供 AI agent（Claude Code/Codex）驱动的跨平台远程连接管理器**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，管理 SSH、RDP、VNC 与 Web 会话，凭据存于本�
 ```mermaid
 xychart-beta
     title "advenimus/conduit-desktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 14 --> 20
     line [15, 16, 19, 19]
 ```
 
-2026-10-18 15 → 2026-10-29 19（+4）
+2026-10-18 15 → 2026-10-30 19（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # IDSIA-papers/HHMARL_AirCombat
 
-⭐ 25 · Python · 推送 2026-06-23 · [GitHub](https://github.com/IDSIA-papers/HHMARL_AirCombat) · 组织维护
+⭐ 26 · Python · 推送 2026-06-23 · [GitHub](https://github.com/IDSIA-papers/HHMARL_AirCombat) · 组织维护
 
 **空战模拟的异构分层多智能体强化学习官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IDSIA-papers/HHMARL_AirCombat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 26（+2）
 
 
 ---

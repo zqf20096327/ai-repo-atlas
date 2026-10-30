@@ -1,6 +1,6 @@
 # inception-project/inception
 
-⭐ 728 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/inception-project/inception) · [官网](https://inception-project.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向研究团队的文本语义标注平台，带知识库链接与机器辅助建议**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

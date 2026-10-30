@@ -1,6 +1,6 @@
 # josejesusguzman/acordeon-ab-730
 
-⭐ 38 · 推送 2026-10-11 · [GitHub](https://github.com/josejesusguzman/acordeon-ab-730) · [官网](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/?practice-assessment-type=certification) · 个人维护
+⭐ 39 · 推送 2026-10-11 · [GitHub](https://github.com/josejesusguzman/acordeon-ab-730) · [官网](https://learn.microsoft.com/es-es/credentials/certifications/ai-business-professional/?practice-assessment-type=certification) · 个人维护
 
 **备考 Microsoft AB-730 认证的非官方学习笔记（西班牙语）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "josejesusguzman/acordeon-ab-730 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 36 --> 39
-    line [37, 38]
+    title "josejesusguzman/acordeon-ab-730 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 36 --> 40
+    line [37, 38, 39]
 ```
 
-2026-10-18 37 → 2026-10-29 38（+1）
+2026-10-18 37 → 2026-10-30 39（+2）
 
 
 ---

@@ -46,12 +46,12 @@ SwiftUI 编写的 macOS/iOS 应用，围绕 Apple 的 CoreAI.framework 提供模
 ```mermaid
 xychart-beta
     title "rudrankriyam/Core-AI-Framework-Lab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-29 66（+0）
+2026-10-18 66 → 2026-10-30 66（+0）
 
 
 ---

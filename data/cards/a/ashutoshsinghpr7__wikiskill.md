@@ -1,6 +1,6 @@
 # ashutoshsinghpr7/wikiskill
 
-⭐ 285 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ashutoshsinghpr7/wikiskill) · [官网](https://ashutoshsinghpr7.github.io/wikiskill/) · 个人维护
+⭐ 286 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/ashutoshsinghpr7/wikiskill) · [官网](https://ashutoshsinghpr7.github.io/wikiskill/) · 个人维护
 
 **论文 WikiSkill 的实现：Agent 经验编译为持久 wiki 驱动技能自进化**
 
@@ -46,12 +46,12 @@ Python 实现的 agent 技能自进化框架，忠实复现 arXiv:2608.27454 的
 ```mermaid
 xychart-beta
     title "ashutoshsinghpr7/wikiskill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 277 --> 286
-    line [278, 279, 281, 283, 285, 285]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 277 --> 287
+    line [278, 279, 281, 283, 285, 286]
 ```
 
-2026-10-18 278 → 2026-10-29 285（+7）
+2026-10-18 278 → 2026-10-30 286（+8）
 
 
 ---

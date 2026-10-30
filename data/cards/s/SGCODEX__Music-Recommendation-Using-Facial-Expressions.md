@@ -45,12 +45,12 @@ Python 应用：用 OpenCV 从摄像头实时检测人脸，再用预训练深�
 ```mermaid
 xychart-beta
     title "SGCODEX/Music-Recommendation-Using-Facial-Expressions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-29 60（+0）
+2026-10-18 60 → 2026-10-30 60（+0）
 
 
 ---

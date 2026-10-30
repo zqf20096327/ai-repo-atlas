@@ -1,6 +1,6 @@
 # chemprop/chemprop
 
-⭐ 2,513 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/chemprop/chemprop) · [官网](https://chemprop.csail.mit.edu) · 组织维护
+⭐ 2,514 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/chemprop/chemprop) · [官网](https://chemprop.csail.mit.edu) · 组织维护
 
 **用于分子性质预测的消息传递神经网络（MPNN）软件包**
 
@@ -45,12 +45,12 @@ Chemprop 是面向化学与药物发现场景的机器学习软件包，实现�
 ```mermaid
 xychart-beta
     title "chemprop/chemprop 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 2504 --> 2515
-    line [2505, 2507, 2511, 2513, 2514, 2513, 2513]
+    line [2505, 2507, 2511, 2513, 2514, 2513, 2514]
 ```
 
-2026-10-18 2,505 → 2026-10-29 2,513（+8）
+2026-10-18 2,505 → 2026-10-30 2,514（+9）
 
 
 ---

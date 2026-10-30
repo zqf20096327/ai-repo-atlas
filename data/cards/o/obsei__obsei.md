@@ -1,6 +1,6 @@
 # obsei/obsei
 
-⭐ 1,441 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/obsei/obsei) · [官网](https://obsei.com/) · 组织维护
+⭐ 1,442 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/obsei/obsei) · [官网](https://obsei.com/) · 组织维护
 
 **自托管客户之声分析工具：反馈先脱敏再进 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "obsei/obsei 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 1438 --> 1442
-    line [1439, 1440, 1441, 1441]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 1438 --> 1443
+    line [1439, 1440, 1441, 1442]
 ```
 
-2026-10-18 1,439 → 2026-10-29 1,441（+2）
+2026-10-18 1,439 → 2026-10-30 1,442（+3）
 
 
 ---

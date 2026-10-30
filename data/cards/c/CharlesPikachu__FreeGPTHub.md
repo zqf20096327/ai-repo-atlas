@@ -1,6 +1,6 @@
 # CharlesPikachu/FreeGPTHub
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/CharlesPikachu/FreeGPTHub) · [官网](https://freegpthub.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 67 · Python · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/CharlesPikachu/FreeGPTHub) · [官网](https://freegpthub.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
 **免费统一 GPT API 网关库，聚合九家大模型端点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CharlesPikachu/FreeGPTHub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 66 --> 69
+    line [68, 67]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 67（-1）
 
 
 ---

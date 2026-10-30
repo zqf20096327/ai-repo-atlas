@@ -1,6 +1,6 @@
 # agentenatalie/get-job.skill
 
-⭐ 694 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/agentenatalie/get-job.skill) · 个人维护 · 中文 README
+⭐ 700 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/agentenatalie/get-job.skill) · 个人维护 · 中文 README
 
 **求职全流程 agent skill：岗位调研、简历改写、面试准备**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentenatalie/get-job.skill 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 654 --> 697
-    line [657, 663, 666, 675, 677, 680, 682, 687, 689, 694]
+    title "agentenatalie/get-job.skill 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 653 --> 704
+    line [657, 663, 666, 675, 677, 680, 682, 687, 689, 694, 700]
 ```
 
-2026-10-18 657 → 2026-10-29 694（+37）
+2026-10-18 657 → 2026-10-30 700（+43）
 
 
 ---

@@ -1,6 +1,6 @@
 # praxis-proxy/ai
 
-⭐ 37 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/praxis-proxy/ai) · 组织维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/praxis-proxy/ai) · 组织维护
 
 **面向开发者的 AI 网关：路由、协议转换与策略代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "praxis-proxy/ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 30 --> 38
-    line [31, 33, 34, 36, 37]
+    title "praxis-proxy/ai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 30 --> 39
+    line [31, 33, 34, 36, 37, 38]
 ```
 
-2026-10-18 31 → 2026-10-29 37（+6）
+2026-10-18 31 → 2026-10-30 38（+7）
 
 
 ---

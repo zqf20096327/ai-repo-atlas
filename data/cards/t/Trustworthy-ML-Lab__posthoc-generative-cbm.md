@@ -45,12 +45,12 @@ Trustworthy ML Lab 发布的 CVPR 2025 论文官方仓库，实现 CB-AE 与 Con
 ```mermaid
 xychart-beta
     title "Trustworthy-ML-Lab/posthoc-generative-cbm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

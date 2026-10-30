@@ -1,6 +1,6 @@
 # couchbase/mcp-server-couchbase
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/couchbase/mcp-server-couchbase) · [官网](https://docs.couchbase.com/mcp-server/get-started/overview.html) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/couchbase/mcp-server-couchbase) · [官网](https://docs.couchbase.com/mcp-server/get-started/overview.html) · 组织维护
 
 **连接 AI 客户端与 Couchbase 数据库的自托管 MCP 服务器**
 
@@ -45,12 +45,12 @@ Couchbase 官方维护的 Model Context Protocol 服务器，把 Claude Desktop�
 ```mermaid
 xychart-beta
     title "couchbase/mcp-server-couchbase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

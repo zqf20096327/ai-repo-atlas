@@ -1,6 +1,6 @@
 # DasDigitaleMomentum/strix-halo-cuda-combined-toolbox
 
-⭐ 20 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DasDigitaleMomentum/strix-halo-cuda-combined-toolbox) · [官网](https://www.das-digitale-momentum.de/en/open-source/#strix-halo-cuda-combined-toolbox) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DasDigitaleMomentum/strix-halo-cuda-combined-toolbox) · [官网](https://www.das-digitale-momentum.de/en/open-source/#strix-halo-cuda-combined-toolbox) · 个人维护
 
 **在单容器中同时编译 ROCm 与 CUDA 后端运行 llama.cpp 的双 GPU 推理工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DasDigitaleMomentum/strix-halo-cuda-combined-toolbox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

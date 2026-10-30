@@ -1,6 +1,6 @@
 # burrellka/MyStrixHaloSetup
 
-⭐ 31 · 推送 2026-07-25 · [GitHub](https://github.com/burrellka/MyStrixHaloSetup) · 个人维护
+⭐ 32 · 推送 2026-07-25 · [GitHub](https://github.com/burrellka/MyStrixHaloSetup) · 个人维护
 
 **面向非 ML 工程师的 Strix Halo 本地 LLM 搭建指南（8 步）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "burrellka/MyStrixHaloSetup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 32（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # linny006/awesome-agent-skills
 
-⭐ 45 · Python · 推送 2026-10-28 · [GitHub](https://github.com/linny006/awesome-agent-skills) · 个人维护 · 中文 README
+⭐ 45 · Python · 推送 2026-10-29 · [GitHub](https://github.com/linny006/awesome-agent-skills) · 个人维护 · 中文 README
 
 **自动更新的 AI agent 技能策展清单（GitHub 每15分钟刷新）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "linny006/awesome-agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "linny006/awesome-agent-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 38 --> 46
-    line [39, 40, 42, 43, 44, 45]
+    line [39, 40, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 39 → 2026-10-29 45（+6）
+2026-10-18 39 → 2026-10-30 45（+6）
 
 
 ---

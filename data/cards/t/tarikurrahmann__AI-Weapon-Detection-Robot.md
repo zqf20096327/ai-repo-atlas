@@ -40,6 +40,18 @@ Python/Flask 应用：Linux 主机上经 V4L2 USB 摄像头或树莓派 Picamera
 > L17: AI Weapon Detection Robot combines camera-based object detection with a web dashboard and an optional Arduino-contr
 > L50: 3. It selects the ONNX model when the ONNX file exists; otherwise, it selects the PyTorch file.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/AI-Weapon-Detection-Robot 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `c210ef8711fd` · [字段定义](../../DATASET.md)*

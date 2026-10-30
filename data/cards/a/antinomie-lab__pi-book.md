@@ -1,6 +1,6 @@
 # antinomie-lab/pi-book
 
-⭐ 429 · Vue · 推送 2026-08-24 · [GitHub](https://github.com/antinomie-lab/pi-book) · [官网](https://books.antinomie.org/pi) · 个人维护 · 中文 README
+⭐ 431 · Vue · 推送 2026-08-24 · [GitHub](https://github.com/antinomie-lab/pi-book) · [官网](https://books.antinomie.org/pi) · 个人维护 · 中文 README
 
 **逐行解读 pi-agent-core 源码架构的中文开源书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "antinomie-lab/pi-book 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 426 --> 430
-    line [427, 428, 429, 428, 429]
+    title "antinomie-lab/pi-book 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 426 --> 432
+    line [427, 428, 429, 428, 429, 431]
 ```
 
-2026-10-18 427 → 2026-10-29 429（+2）
+2026-10-18 427 → 2026-10-30 431（+4）
 
 
 ---

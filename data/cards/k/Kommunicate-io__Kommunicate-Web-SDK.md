@@ -1,6 +1,6 @@
 # Kommunicate-io/Kommunicate-Web-SDK
 
-⭐ 42 · JavaScript · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) · [官网](https://www.kommunicate.io) · 组织维护
+⭐ 42 · JavaScript · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/Kommunicate-io/Kommunicate-Web-SDK) · [官网](https://www.kommunicate.io) · 组织维护
 
 **网站接入 AI 客服 agent 与人工在线聊天的 Web 插件 SDK**
 
@@ -45,12 +45,12 @@ Kommunicate 提供开源的网站聊天挂件插件：企业通过 Kompose 无�
 ```mermaid
 xychart-beta
     title "Kommunicate-io/Kommunicate-Web-SDK 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 42（+0）
 
 
 ---

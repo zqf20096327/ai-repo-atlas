@@ -1,6 +1,6 @@
 # ZeroLu/awesome-seedance
 
-⭐ 2,794 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
+⭐ 2,798 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
 
 **Seedance 2.0 视频生成提示词与资源策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeroLu/awesome-seedance 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2723 --> 2800
-    line [2729, 2750, 2764, 2768, 2773, 2780, 2783, 2784, 2792, 2794]
+    title "ZeroLu/awesome-seedance 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2723 --> 2804
+    line [2729, 2750, 2764, 2768, 2773, 2780, 2783, 2784, 2792, 2794, 2798]
 ```
 
-2026-10-18 2,729 → 2026-10-29 2,794（+65）
+2026-10-18 2,729 → 2026-10-30 2,798（+69）
 
 
 ---

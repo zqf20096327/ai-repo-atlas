@@ -1,6 +1,6 @@
 # qualcomm/GenieX
 
-⭐ 8,471 · Go · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
+⭐ 8,478 · Go · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
 
 **面向开发者的高通设备端 LLM/VLM 推理运行时**
 
@@ -45,13 +45,13 @@ Qualcomm 官方维护的端侧 Gen AI 推理运行时，仅在 Snapdragon 平台
 
 ```mermaid
 xychart-beta
-    title "qualcomm/GenieX 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8438 --> 8474
-    line [8441, 8448, 8450, 8454, 8456, 8462, 8465, 8471]
+    title "qualcomm/GenieX 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 8438 --> 8481
+    line [8441, 8448, 8450, 8454, 8456, 8462, 8465, 8471, 8478]
 ```
 
-2026-10-18 8,441 → 2026-10-29 8,471（+30）
+2026-10-18 8,441 → 2026-10-30 8,478（+37）
 
 
 ---

@@ -1,6 +1,6 @@
 # federicodeponte/opendraft
 
-⭐ 520 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/federicodeponte/opendraft) · [官网](https://openpaper.dev/) · 个人维护
+⭐ 521 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/federicodeponte/opendraft) · [官网](https://openpaper.dev/) · 个人维护
 
 **开源 Python 引擎：生成带 DOI 多库核验引文的研究论文草稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "federicodeponte/opendraft 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 511 --> 521
-    line [512, 514, 516, 517, 518, 520, 520]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 511 --> 522
+    line [512, 514, 516, 517, 518, 520, 521]
 ```
 
-2026-10-18 512 → 2026-10-29 520（+8）
+2026-10-18 512 → 2026-10-30 521（+9）
 
 
 ---

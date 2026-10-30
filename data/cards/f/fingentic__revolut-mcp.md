@@ -45,12 +45,12 @@ Model Context Protocol 服务器，桥接 Claude、Cursor 等 AI 助手与 Revol
 ```mermaid
 xychart-beta
     title "fingentic/revolut-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-29 35（+1）
+2026-10-18 34 → 2026-10-30 35（+1）
 
 
 ---

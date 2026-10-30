@@ -1,6 +1,6 @@
 # hermeum/hermeum
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/hermeum/hermeum) · [官网](https://docs.hermeum.app) · 组织维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/hermeum/hermeum) · [官网](https://docs.hermeum.app) · 组织维护
 
 **Kubernetes 上部署与管理 Hermes 自主 agent 的平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hermeum/hermeum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-29 31（+1）
+2026-10-18 30 → 2026-10-30 31（+1）
 
 
 ---

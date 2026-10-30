@@ -1,6 +1,6 @@
 # microsoft/automated-brain-explanations
 
-⭐ 67 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/microsoft/automated-brain-explanations) · [官网](https://microsoft.github.io/automated-brain-explanations/) · 组织维护
+⭐ 68 · Jupyter Notebook · MIT · 推送 2026-06-01 · [GitHub](https://github.com/microsoft/automated-brain-explanations) · [官网](https://microsoft.github.io/automated-brain-explanations/) · 组织维护
 
 **用 LLM 与 fMRI 数据生成并验证脑语言加工解释的科研代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/automated-brain-explanations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 66 --> 69
+    line [67, 68]
 ```
 
-2026-10-18 67 → 2026-10-29 67（+0）
+2026-10-18 67 → 2026-10-30 68（+1）
 
 
 ---

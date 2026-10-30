@@ -1,6 +1,6 @@
 # GRAAL-Research/deepparse
 
-⭐ 355 · Python · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
+⭐ 355 · Python · LGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
 
 **用深度学习解析多国街道地址的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GRAAL-Research/deepparse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 353 --> 356
     line [354, 355, 355]
 ```
 
-2026-10-18 354 → 2026-10-29 355（+1）
+2026-10-18 354 → 2026-10-30 355（+1）
 
 
 ---

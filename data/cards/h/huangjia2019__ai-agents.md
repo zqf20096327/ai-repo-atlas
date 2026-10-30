@@ -1,6 +1,6 @@
 # huangjia2019/ai-agents
 
-⭐ 529 · Jupyter Notebook · 推送 2025-11-05 · [GitHub](https://github.com/huangjia2019/ai-agents) · [官网](https://item.jd.com/14600442.html) · 个人维护 · 中文 README
+⭐ 530 · Jupyter Notebook · 推送 2025-11-05 · [GitHub](https://github.com/huangjia2019/ai-agents) · [官网](https://item.jd.com/14600442.html) · 个人维护 · 中文 README
 
 **《动手做AI Agent》等图书配套的入门示例代码仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "huangjia2019/ai-agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 526 --> 530
-    line [527, 528, 529, 529]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 526 --> 531
+    line [527, 528, 529, 530]
 ```
 
-2026-10-18 527 → 2026-10-29 529（+2）
+2026-10-18 527 → 2026-10-30 530（+3）
 
 
 ---

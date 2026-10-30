@@ -1,6 +1,6 @@
 # tianji-qingtian/AI-Native-Code
 
-⭐ 38 · 推送 2026-05-06 · [GitHub](https://github.com/tianji-qingtian/AI-Native-Code) · 个人维护 · 中文 README
+⭐ 37 · 推送 2026-05-06 · [GitHub](https://github.com/tianji-qingtian/AI-Native-Code) · 个人维护 · 中文 README
 
 **面向 Claude Code 用户的 AI-native 开发工作流方法论文档集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tianji-qingtian/AI-Native-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 37（-1）
 
 
 ---

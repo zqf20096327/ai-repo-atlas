@@ -45,12 +45,12 @@ Microsoft Build 2026 的 75 分钟动手实验（LAB501）配套仓库，指导�
 ```mermaid
 xychart-beta
     title "microsoft/Build26-LAB501-from-zero-to-deployed-on-azure-with-ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-29 54（+0）
+2026-10-18 54 → 2026-10-30 54（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ggml-org/llama-install.sh
 
-⭐ 36 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggml-org/llama-install.sh) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ggml-org/llama-install.sh) · 组织维护
 
 **一键安装预编译 llama.cpp 二进制的跨平台安装脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ggml-org/llama-install.sh 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
     y-axis "stars" 34 --> 37
     line [36, 35, 36, 36]
 ```
 
-2026-10-18 36 → 2026-10-29 36（+0）
+2026-10-18 36 → 2026-10-30 36（+0）
 
 
 ---

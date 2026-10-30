@@ -1,6 +1,6 @@
 # bopen/elevation
 
-⭐ 353 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/bopen/elevation) · [官网](http://elevation.bopen.eu) · 组织维护
+⭐ 353 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/bopen/elevation) · [官网](http://elevation.bopen.eu) · 组织维护
 
 **全球 DEM 数据下载/缓存/裁剪的 Python 工具与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bopen/elevation 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 329 --> 355
     line [331, 334, 342, 344, 345, 349, 353, 353]
 ```
 
-2026-10-22 331 → 2026-10-29 353（+22）
+2026-10-22 331 → 2026-10-30 353（+22）
 
 
 ---

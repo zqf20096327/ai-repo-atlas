@@ -1,6 +1,6 @@
 # lucidrains/alphafold3-pytorch
 
-⭐ 1,700 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/lucidrains/alphafold3-pytorch) · 个人维护
+⭐ 1,701 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/lucidrains/alphafold3-pytorch) · 个人维护
 
 **Google DeepMind AlphaFold 3 的 PyTorch 复现，供科研复现与训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/alphafold3-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1698 --> 1701
-    line [1699, 1700, 1700]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 1698 --> 1702
+    line [1699, 1700, 1701]
 ```
 
-2026-10-18 1,699 → 2026-10-29 1,700（+1）
+2026-10-18 1,699 → 2026-10-30 1,701（+2）
 
 
 ---

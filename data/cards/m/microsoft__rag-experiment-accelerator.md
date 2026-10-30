@@ -1,6 +1,6 @@
 # microsoft/rag-experiment-accelerator
 
-⭐ 313 · Python · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/microsoft/rag-experiment-accelerator) · [官网](https://github.com/microsoft/rag-experiment-accelerator) · 组织维护
+⭐ 313 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/rag-experiment-accelerator) · [官网](https://github.com/microsoft/rag-experiment-accelerator) · 组织维护
 
 **加速基于 Azure AI Search 与 RAG 模式的实验与评测工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/rag-experiment-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 312 --> 314
     line [313, 313]
 ```
 
-2026-10-18 313 → 2026-10-29 313（+0）
+2026-10-18 313 → 2026-10-30 313（+0）
 
 
 ---

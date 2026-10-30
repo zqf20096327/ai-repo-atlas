@@ -1,6 +1,6 @@
 # xrpcommunity/XRP-community-wallet
 
-⭐ 2,276 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/xrpcommunity/XRP-community-wallet) · [官网](https://wallet.xrp.community)
+⭐ 2,275 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/xrpcommunity/XRP-community-wallet) · [官网](https://wallet.xrp.community)
 
 **社区构建的 XRP 与 EVM 非托管网页钱包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xrpcommunity/XRP-community-wallet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 2274 --> 2302
-    line [2300, 2297, 2278, 2277, 2276]
+    title "xrpcommunity/XRP-community-wallet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2273 --> 2302
+    line [2300, 2297, 2278, 2277, 2276, 2275]
 ```
 
-2026-10-18 2,300 → 2026-10-29 2,276（-24）
+2026-10-18 2,300 → 2026-10-30 2,275（-25）
 
 
 ---

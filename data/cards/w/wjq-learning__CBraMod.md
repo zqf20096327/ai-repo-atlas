@@ -1,6 +1,6 @@
 # wjq-learning/CBraMod
 
-⭐ 370 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wjq-learning/CBraMod) · [官网](https://openreview.net/forum?id=NPNUHgHF2w) · 组织维护
+⭐ 372 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wjq-learning/CBraMod) · [官网](https://openreview.net/forum?id=NPNUHgHF2w) · 组织维护
 
 **面向 EEG 解码的脑电基础模型（ICLR 2025），含预训练权重**
 
@@ -44,13 +44,13 @@ CBraMod 是发表于 ICLR 2025 的 EEG 基础模型论文官方代码库，面�
 
 ```mermaid
 xychart-beta
-    title "wjq-learning/CBraMod 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 361 --> 371
-    line [362, 363, 364, 365, 366, 368, 370]
+    title "wjq-learning/CBraMod 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 361 --> 373
+    line [362, 363, 364, 365, 366, 368, 370, 372]
 ```
 
-2026-10-18 362 → 2026-10-29 370（+8）
+2026-10-18 362 → 2026-10-30 372（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # PrefectHQ/fastmcp-ts
 
-⭐ 80 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/PrefectHQ/fastmcp-ts) · [官网](https://fastmcp-ts.docs.prefect.io) · 组织维护
+⭐ 81 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/PrefectHQ/fastmcp-ts) · [官网](https://fastmcp-ts.docs.prefect.io) · 组织维护
 
 **构建 MCP 服务器、客户端与交互应用的 TypeScript 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PrefectHQ/fastmcp-ts 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 75 --> 81
-    line [76, 77, 78, 80, 80]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 78, 80, 81]
 ```
 
-2026-10-18 76 → 2026-10-29 80（+4）
+2026-10-18 76 → 2026-10-30 81（+5）
 
 
 ---

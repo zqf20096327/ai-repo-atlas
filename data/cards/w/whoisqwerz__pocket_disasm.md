@@ -1,6 +1,6 @@
 # whoisqwerz/pocket_disasm
 
-⭐ 41 · Python · MIT · 推送 2026-07-12 · [GitHub](https://github.com/whoisqwerz/pocket_disasm) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-07-12 · [GitHub](https://github.com/whoisqwerz/pocket_disasm) · 个人维护
 
 **多会话 IDALib MCP 路由器：编码 agent 并行逆向分析多个二进制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whoisqwerz/pocket_disasm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 40 --> 44
+    line [41, 43]
 ```
 
-2026-10-18 41 → 2026-10-29 41（+0）
+2026-10-18 41 → 2026-10-30 43（+2）
 
 
 ---

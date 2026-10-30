@@ -1,6 +1,6 @@
 # john-rocky/CoreML-LLM
 
-⭐ 202 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/john-rocky/CoreML-LLM) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 203 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/john-rocky/CoreML-LLM) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **在 Apple 神经引擎上本地运行 LLM 的 Swift 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/CoreML-LLM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 199 --> 203
-    line [200, 201, 202]
+    title "john-rocky/CoreML-LLM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 199 --> 204
+    line [200, 201, 202, 203]
 ```
 
-2026-10-18 200 → 2026-10-29 202（+2）
+2026-10-18 200 → 2026-10-30 203（+3）
 
 
 ---

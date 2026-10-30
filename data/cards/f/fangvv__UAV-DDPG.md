@@ -1,6 +1,6 @@
 # fangvv/UAV-DDPG
 
-⭐ 726 · Python · 推送 2026-10-08 · [GitHub](https://github.com/fangvv/UAV-DDPG) · [官网](https://fangvv.github.io/UAV-DDPG/) · 个人维护 · 中文 README
+⭐ 727 · Python · 推送 2026-10-08 · [GitHub](https://github.com/fangvv/UAV-DDPG) · [官网](https://fangvv.github.io/UAV-DDPG/) · 个人维护 · 中文 README
 
 **无人机辅助 MEC 计算卸载优化的 DDPG 论文代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fangvv/UAV-DDPG 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 723 --> 727
-    line [724, 725, 726, 726]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 723 --> 728
+    line [724, 725, 726, 727]
 ```
 
-2026-10-18 724 → 2026-10-29 726（+2）
+2026-10-18 724 → 2026-10-30 727（+3）
 
 
 ---

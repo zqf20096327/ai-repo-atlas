@@ -1,6 +1,6 @@
 # ratschlab/DeepSpotM
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/ratschlab/DeepSpotM) · [官网](https://doi.org/10.64898/2026.06.19.26356060 ) · 组织维护
+⭐ 60 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/ratschlab/DeepSpotM) · [官网](https://doi.org/10.64898/2026.06.19.26356060 ) · 组织维护
 
 **从 H&E 组织学图像预测全转录组空间基因表达的多模态基础模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ratschlab/DeepSpotM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-18 59 → 2026-10-29 59（+0）
+2026-10-18 59 → 2026-10-30 60（+1）
 
 
 ---

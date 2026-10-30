@@ -41,6 +41,18 @@ Elyan Labs 开源的 agent 生命周期管理平台：从模板创建 agent，�
 > L106: CREATE -> TRAINING (SFT -> DPO/KTO/ORPO/SimPO -> DriftLock) -> SANCTUARY -> GRADUATED -> DEPLOYED
 > L205: pip install 'shaprai[mcp]'
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/shaprai 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 76 --> 78
+    line [77, 77]
+```
+
+2026-10-29 77 → 2026-10-30 77（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `d0b719aa2e68` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # BichengWang/ai-decision-system
 
-⭐ 313 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
+⭐ 360 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
 
 **AI 辅助 go/no-go 决策的可重放、离线可验证记录工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BichengWang/ai-decision-system 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 135 --> 329
-    line [151, 166, 239, 236, 250, 262, 257, 260, 261, 313]
+    title "BichengWang/ai-decision-system 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 131 --> 380
+    line [151, 166, 239, 236, 250, 262, 257, 260, 261, 313, 360]
 ```
 
-2026-10-18 151 → 2026-10-29 313（+162）
+2026-10-18 151 → 2026-10-30 360（+209）
 
 
 ---

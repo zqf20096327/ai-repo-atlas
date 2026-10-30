@@ -1,6 +1,6 @@
 # google/gpt-disk-rs
 
-⭐ 74 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/gpt-disk-rs) · 个人维护
+⭐ 75 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/gpt-disk-rs) · 个人维护
 
 **解析与读写 GPT（GUID 分区表）磁盘数据的 Rust no_std 库**
 
@@ -45,12 +45,12 @@ Google 名下个人维护性质仓库（非官方 Google 项目），包含三�
 ```mermaid
 xychart-beta
     title "google/gpt-disk-rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-18 74 → 2026-10-29 74（+0）
+2026-10-18 74 → 2026-10-30 75（+1）
 
 
 ---

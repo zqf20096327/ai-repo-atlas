@@ -46,12 +46,12 @@ MCP 服务器，向 Claude Code、VS Code、Cursor 等 MCP 客户端提供约 20
 ```mermaid
 xychart-beta
     title "ifmelate/n8n-workflow-builder-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-29 52（+0）
+2026-10-18 52 → 2026-10-30 52（+0）
 
 
 ---

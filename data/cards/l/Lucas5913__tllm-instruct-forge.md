@@ -1,6 +1,6 @@
 # Lucas5913/tllm-instruct-forge
 
-⭐ 53 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/Lucas5913/tllm-instruct-forge) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Lucas5913/tllm-instruct-forge) · 个人维护
 
 **面向团队的 LLM 指令微调训练库，含数据治理与评估**
 
@@ -45,12 +45,12 @@ tllm 是一个用于大语言模型指令微调的开源 Python 训练库，面�
 ```mermaid
 xychart-beta
     title "Lucas5913/tllm-instruct-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-29 53（+0）
+2026-10-18 53 → 2026-10-30 53（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NameetP/pdfmux
 
-⭐ 85 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NameetP/pdfmux) · [官网](https://pdfmux.com) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/NameetP/pdfmux) · [官网](https://pdfmux.com) · 个人维护
 
 **带自审计的 PDF 提取与校验工具，检出静默丢页**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NameetP/pdfmux 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 85, 85]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 85, 86]
 ```
 
-2026-10-18 83 → 2026-10-29 85（+2）
+2026-10-18 83 → 2026-10-30 86（+3）
 
 
 ---

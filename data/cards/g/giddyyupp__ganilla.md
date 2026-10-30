@@ -45,12 +45,12 @@ GANILLA 论文的官方 PyTorch 实现，基于生成对抗网络（CycleGAN 结
 ```mermaid
 xychart-beta
     title "giddyyupp/ganilla 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 481 --> 483
     line [482, 482]
 ```
 
-2026-10-18 482 → 2026-10-29 482（+0）
+2026-10-18 482 → 2026-10-30 482（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FishBottle7/opencode2dsh
 
-⭐ 372 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/FishBottle7/opencode2dsh) · [官网](https://www.npmjs.com/package/@opencode2dsh/dsh-plugin) · 个人维护 · 中文 README
+⭐ 379 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/FishBottle7/opencode2dsh) · [官网](https://www.npmjs.com/package/@opencode2dsh/dsh-plugin) · 个人维护 · 中文 README
 
 **DSH 插件：将 OpenCode Zen 免费模型接入 DeepSeek Harness**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FishBottle7/opencode2dsh 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 238 --> 384
-    line [250, 280, 328, 337, 342, 352, 358, 364, 372]
+    title "FishBottle7/opencode2dsh 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 238 --> 391
+    line [250, 280, 328, 337, 342, 352, 358, 364, 372, 379]
 ```
 
-2026-10-18 250 → 2026-10-29 372（+122）
+2026-10-18 250 → 2026-10-30 379（+129）
 
 
 ---

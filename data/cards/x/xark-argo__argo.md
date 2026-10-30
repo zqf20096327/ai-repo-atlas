@@ -1,6 +1,6 @@
 # xark-argo/argo
 
-⭐ 830 · Python · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/xark-argo/argo) · [官网](https://xark-argo.com) · 组织维护 · 中文 README
+⭐ 831 · Python · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/xark-argo/argo) · [官网](https://xark-argo.com) · 组织维护 · 中文 README
 
 **本地优先的开源 AI Agent 桌面客户端，支持私有部署与离线 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xark-argo/argo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 825 --> 831
-    line [826, 827, 828, 829, 830]
+    title "xark-argo/argo 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 825 --> 832
+    line [826, 827, 828, 829, 830, 831]
 ```
 
-2026-10-18 826 → 2026-10-29 830（+4）
+2026-10-18 826 → 2026-10-30 831（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # biagiomaf/smart-comfyui-gallery
 
-⭐ 396 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
+⭐ 399 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
 
 **面向 ComfyUI 用户的本地数字资产管理器：浏览、检索、管理与生成 AI 产出**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "biagiomaf/smart-comfyui-gallery 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 391 --> 397
-    line [392, 393, 394, 395, 396, 396]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 391 --> 400
+    line [392, 393, 394, 395, 396, 399]
 ```
 
-2026-10-18 392 → 2026-10-29 396（+4）
+2026-10-18 392 → 2026-10-30 399（+7）
 
 
 ---

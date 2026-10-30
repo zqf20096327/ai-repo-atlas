@@ -45,13 +45,13 @@ NeurIPS 2026 论文 Continuous-Time Distribution Matching (CDM) 的官方代码�
 
 ```mermaid
 xychart-beta
-    title "byliutao/CDM 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "byliutao/CDM 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 153 --> 158
-    line [154, 156, 157]
+    line [154, 156, 157, 157]
 ```
 
-2026-10-18 154 → 2026-10-29 157（+3）
+2026-10-18 154 → 2026-10-30 157（+3）
 
 
 ---

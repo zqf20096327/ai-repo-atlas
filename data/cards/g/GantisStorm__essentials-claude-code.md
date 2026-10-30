@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GantisStorm/essentials-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-18 90 → 2026-10-29 90（+0）
+2026-10-18 90 → 2026-10-30 90（+0）
 
 
 ---

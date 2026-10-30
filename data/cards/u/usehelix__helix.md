@@ -1,6 +1,6 @@
 # usehelix/helix
 
-⭐ 814 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/usehelix/helix) · [官网](https://tryhelix.dev/) · 个人维护
+⭐ 815 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/usehelix/helix) · [官网](https://tryhelix.dev/) · 个人维护
 
 **自主 agent 的自愈运行时：支付/API 调用失败自动诊断修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "usehelix/helix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "usehelix/helix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 813 --> 819
-    line [818, 816, 815, 814]
+    line [818, 816, 815, 814, 815]
 ```
 
-2026-10-18 818 → 2026-10-29 814（-4）
+2026-10-18 818 → 2026-10-30 815（-3）
 
 
 ---

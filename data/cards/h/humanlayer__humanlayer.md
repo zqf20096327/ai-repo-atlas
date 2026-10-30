@@ -1,6 +1,6 @@
 # humanlayer/humanlayer
 
-⭐ 12,686 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
+⭐ 12,707 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/humanlayer/humanlayer) · [官网](https://humanlayer.dev/code) · 组织维护
 
 **HumanLayer 的公开 issues 仓库，主体代码已弃用**
 
@@ -42,13 +42,13 @@ humanlayer 的 public issues 仓库，README 声明此处代码基本已全部�
 
 ```mermaid
 xychart-beta
-    title "humanlayer/humanlayer 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 11605 --> 12784
-    line [11703, 11705, 11714, 11716, 11721, 12319, 12471, 12615, 12658, 12686]
+    title "humanlayer/humanlayer 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11603 --> 12807
+    line [11703, 11705, 11714, 11716, 11721, 12319, 12471, 12615, 12658, 12686, 12707]
 ```
 
-2026-10-18 11,703 → 2026-10-29 12,686（+983）
+2026-10-18 11,703 → 2026-10-30 12,707（+1,004）
 
 
 ---

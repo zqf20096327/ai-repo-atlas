@@ -1,6 +1,6 @@
 # anmolksachan/LLMInjector
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/anmolksachan/LLMInjector) · [官网](https://medium.com/@anmolksachan/i-built-a-burp-suite-extension-to-automate-llm-prompt-injection-testing-b4add8a11774) · 个人维护
 
 **Burp Suite 扩展：自动化 LLM 提示注入渗透测试**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anmolksachan/LLMInjector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-27 50（+0）
+2026-10-18 50 → 2026-10-30 50（+0）
 
 
 ---

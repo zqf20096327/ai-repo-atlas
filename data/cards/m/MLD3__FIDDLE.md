@@ -1,6 +1,6 @@
 # MLD3/FIDDLE
 
-⭐ 100 · Jupyter Notebook · MIT · 推送 2026-03-19 · [GitHub](https://github.com/MLD3/FIDDLE) · [官网](http://tiny.cc/get_FIDDLE) · 组织维护
+⭐ 101 · Jupyter Notebook · MIT · 推送 2026-03-19 · [GitHub](https://github.com/MLD3/FIDDLE) · [官网](http://tiny.cc/get_FIDDLE) · 组织维护
 
 **把结构化 EHR 数据转成 ML 特征向量的预处理流水线**
 
@@ -46,12 +46,12 @@ FIDDLE 读取四列格式（ID/t/variable_name/variable_value）的结构化电�
 ```mermaid
 xychart-beta
     title "MLD3/FIDDLE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-18 100 → 2026-10-29 100（+0）
+2026-10-18 100 → 2026-10-30 101（+1）
 
 
 ---

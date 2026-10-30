@@ -1,6 +1,6 @@
 # epicsagas/Velith
 
-⭐ 39 · JavaScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/epicsagas/Velith) · [官网](https://epicsagas.github.io/Velith/) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/epicsagas/Velith) · [官网](https://epicsagas.github.io/Velith/) · 个人维护 · 中文 README
 
 **面向写作者的 6 阶段 AI 出书流水线（Claude Code 插件），产出 EPUB/PDF**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epicsagas/Velith 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40]
 ```
 
-2026-10-18 37 → 2026-10-29 39（+2）
+2026-10-18 37 → 2026-10-30 40（+3）
 
 
 ---

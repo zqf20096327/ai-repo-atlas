@@ -46,12 +46,12 @@ ComfyUI 前端扩展（纯 JavaScript 实现，无其他扩展依赖），提供
 ```mermaid
 xychart-beta
     title "alFrame/ComfyUI-AF-Find-Nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

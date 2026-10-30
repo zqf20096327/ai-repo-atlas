@@ -1,6 +1,6 @@
 # CliMA/Oceananigans.jl
 
-⭐ 1,443 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
+⭐ 1,443 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
 
 **Julia 写的海洋流体动力学有限体积模拟库（CPU/GPU）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CliMA/Oceananigans.jl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1438 --> 1444
     line [1439, 1442, 1443, 1442, 1443, 1443]
 ```
 
-2026-10-18 1,439 → 2026-10-29 1,443（+4）
+2026-10-18 1,439 → 2026-10-30 1,443（+4）
 
 
 ---

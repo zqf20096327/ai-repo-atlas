@@ -1,6 +1,6 @@
 # zackshen/gguf
 
-⭐ 23 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/zackshen/gguf) · [官网](https://github.com/zackshen/gguf) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/zackshen/gguf) · [官网](https://github.com/zackshen/gguf) · 个人维护
 
 **Rust 开发者用的 GGUF 模型文件解析与写入库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zackshen/gguf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 20 --> 26
+    line [21, 23, 25]
 ```
 
-2026-10-18 21 → 2026-10-29 23（+2）
+2026-10-18 21 → 2026-10-30 25（+4）
 
 
 ---

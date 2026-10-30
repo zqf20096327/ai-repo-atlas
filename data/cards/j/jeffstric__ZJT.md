@@ -1,6 +1,6 @@
 # jeffstric/ZJT
 
-⭐ 239 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/jeffstric/ZJT) · [官网](http://ailive.perseids.cn) · 个人维护 · 中文 README
+⭐ 239 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/jeffstric/ZJT) · [官网](http://ailive.perseids.cn) · 个人维护 · 中文 README
 
 **面向零基础创作者的 AI 短剧一站式制作平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeffstric/ZJT 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29"]
+    title "jeffstric/ZJT 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 232 --> 240
-    line [233, 235, 236, 238, 239]
+    line [233, 235, 236, 238, 239, 239]
 ```
 
-2026-10-18 233 → 2026-10-29 239（+6）
+2026-10-18 233 → 2026-10-30 239（+6）
 
 
 ---

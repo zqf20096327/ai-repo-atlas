@@ -45,13 +45,13 @@ Ghidra 扩展，内置 Model Context Protocol (MCP) 服务器，使 AI 语言模
 
 ```mermaid
 xychart-beta
-    title "cyberkaida/reverse-engineering-assistant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "cyberkaida/reverse-engineering-assistant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 875 --> 886
-    line [876, 878, 879, 882, 884, 885]
+    line [876, 878, 879, 882, 884, 885, 885]
 ```
 
-2026-10-18 876 → 2026-10-29 885（+9）
+2026-10-18 876 → 2026-10-30 885（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # jmont-dev/ollama-hpp
 
-⭐ 229 · C++ · MIT · 推送 2026-04-25 · [GitHub](https://github.com/jmont-dev/ollama-hpp) · 个人维护
+⭐ 230 · C++ · MIT · 推送 2026-04-25 · [GitHub](https://github.com/jmont-dev/ollama-hpp) · 个人维护
 
 **C++ 单头文件库：封装 Ollama API，在 C++ 中调用本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmont-dev/ollama-hpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 226 --> 230
-    line [227, 228, 229, 229]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 226 --> 231
+    line [227, 228, 229, 230]
 ```
 
-2026-10-18 227 → 2026-10-29 229（+2）
+2026-10-18 227 → 2026-10-30 230（+3）
 
 
 ---

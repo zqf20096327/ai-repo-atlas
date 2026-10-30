@@ -1,6 +1,6 @@
 # PhysiologicAILab/iBVP-Dataset
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/PhysiologicAILab/iBVP-Dataset) · [官网](https://doi.org/10.3390/electronics13071334) · 组织维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/PhysiologicAILab/iBVP-Dataset) · [官网](https://doi.org/10.3390/electronics13071334) · 组织维护
 
 **RGB-热红外 rPPG 数据集：372 分钟视频与高分辨率信号质量标签**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PhysiologicAILab/iBVP-Dataset 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 28（+1）
 
 
 ---

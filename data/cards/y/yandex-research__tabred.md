@@ -1,6 +1,6 @@
 # yandex-research/tabred
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/yandex-research/tabred) · [官网](https://arxiv.org/abs/2406.19380v4) · 组织维护
+⭐ 98 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/yandex-research/tabred) · [官网](https://arxiv.org/abs/2406.19380v4) · 组织维护
 
 **八个工业级表格数据基准数据集，供评估表格深度学习方法**
 
@@ -45,12 +45,12 @@ ICLR 2025 论文配套的表格机器学习基准集合：收录八个来自竞�
 ```mermaid
 xychart-beta
     title "yandex-research/tabred 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 96 --> 98
-    line [97, 97]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 96 --> 99
+    line [97, 98]
 ```
 
-2026-10-18 97 → 2026-10-29 97（+0）
+2026-10-18 97 → 2026-10-30 98（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RiazML/math-for-llms
 
-⭐ 156 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/RiazML/math-for-llms) · 个人维护
+⭐ 157 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/RiazML/math-for-llms) · 个人维护
 
 **面向 AI/ML/LLM 学习者的数学课程库，覆盖 25 个领域**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RiazML/math-for-llms 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 150 --> 157
-    line [151, 152, 153, 154, 155, 156]
+    title "RiazML/math-for-llms 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 150 --> 158
+    line [151, 152, 153, 154, 155, 156, 157]
 ```
 
-2026-10-18 151 → 2026-10-29 156（+5）
+2026-10-18 151 → 2026-10-30 157（+6）
 
 
 ---

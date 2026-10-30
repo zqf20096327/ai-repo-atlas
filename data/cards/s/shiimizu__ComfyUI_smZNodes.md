@@ -1,6 +1,6 @@
 # shiimizu/ComfyUI_smZNodes
 
-⭐ 335 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/shiimizu/ComfyUI_smZNodes) · 个人维护
+⭐ 336 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/shiimizu/ComfyUI_smZNodes) · 个人维护
 
 **ComfyUI 自定义节点：复现 stable-diffusion-webui 的提示词编码**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "shiimizu/ComfyUI_smZNodes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 332 --> 336
-    line [333, 334, 335, 335]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 332 --> 337
+    line [333, 334, 335, 336]
 ```
 
-2026-10-18 333 → 2026-10-29 335（+2）
+2026-10-18 333 → 2026-10-30 336（+3）
 
 
 ---

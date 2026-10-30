@@ -1,6 +1,6 @@
 # alex-jb/orallexa-ai-trading-agent
 
-⭐ 71 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/alex-jb/orallexa-ai-trading-agent) · [官网](https://orallexa-ui.vercel.app) · 个人维护 · 中文 README
+⭐ 71 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alex-jb/orallexa-ai-trading-agent) · [官网](https://orallexa-ui.vercel.app) · 个人维护 · 中文 README
 
 **多智能体 AI 交易决策系统：8 源信号融合与辩论式分析，仅纸面交易**
 
@@ -45,12 +45,12 @@ Orallexa 是一个基于 Python + Next.js 的多智能体股票分析系统：9-
 ```mermaid
 xychart-beta
     title "alex-jb/orallexa-ai-trading-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 71（+0）
 
 
 ---

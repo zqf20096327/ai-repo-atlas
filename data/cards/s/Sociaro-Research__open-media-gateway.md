@@ -1,6 +1,6 @@
 # Sociaro-Research/open-media-gateway
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sociaro-Research/open-media-gateway) · [官网](https://sociaro.com) · 组织维护
+⭐ 26 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sociaro-Research/open-media-gateway) · [官网](https://sociaro.com) · 组织维护
 
 **自托管的 AI 媒体生成网关：统一 API 与控制台接入多家图像/视频/语音/音乐服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sociaro-Research/open-media-gateway 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2 --> 27
-    line [4, 6, 15, 21, 22, 25, 25]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2 --> 28
+    line [4, 6, 15, 21, 22, 25, 26]
 ```
 
-2026-10-22 4 → 2026-10-29 25（+21）
+2026-10-22 4 → 2026-10-30 26（+22）
 
 
 ---

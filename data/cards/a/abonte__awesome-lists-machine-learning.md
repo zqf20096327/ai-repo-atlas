@@ -1,6 +1,6 @@
 # abonte/awesome-lists-machine-learning
 
-⭐ 33 · CC0-1.0 · 推送 2026-03-18 · [GitHub](https://github.com/abonte/awesome-lists-machine-learning) · 个人维护
+⭐ 35 · CC0-1.0 · 推送 2026-03-18 · [GitHub](https://github.com/abonte/awesome-lists-machine-learning) · 个人维护
 
 **机器学习领域 awesome 清单的聚合目录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "abonte/awesome-lists-machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 32 --> 36
+    line [33, 35]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 35（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-Model-Connect
 
-⭐ 283 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
+⭐ 283 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
 
 **将 HuggingFace 模型经 TensorRT 端到端部署的 C++ 参考实现集**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的 TensorRT 之上的 AI 模型参考实现集合：从 Hugging Fa
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT-Model-Connect 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "NVIDIA/TensorRT-Model-Connect 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 275 --> 284
-    line [276, 280, 282, 283]
+    line [276, 280, 282, 283, 283]
 ```
 
-2026-10-18 276 → 2026-10-29 283（+7）
+2026-10-18 276 → 2026-10-30 283（+7）
 
 
 ---

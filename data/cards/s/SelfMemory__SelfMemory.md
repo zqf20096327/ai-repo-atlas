@@ -1,6 +1,6 @@
 # SelfMemory/SelfMemory
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/SelfMemory/SelfMemory) · [官网](https://selfmemory.com) · 组织维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/SelfMemory/SelfMemory) · [官网](https://selfmemory.com) · 组织维护
 
 **为用户与 AI agent 提供跨模型记忆存储与检索的开源引擎**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SelfMemory/SelfMemory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 33（+0）
 
 
 ---

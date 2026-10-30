@@ -1,6 +1,6 @@
 # marktoda/zj-radar
 
-⭐ 67 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/marktoda/zj-radar) · [官网](https://crates.io/crates/zj-radar) · 个人维护
+⭐ 69 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/marktoda/zj-radar) · [官网](https://crates.io/crates/zj-radar) · 个人维护
 
 **Zellij 侧栏插件：集中显示多标签页内各 AI agent 的实时状态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marktoda/zj-radar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 63 --> 68
-    line [64, 65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 63 --> 70
+    line [64, 65, 66, 67, 69]
 ```
 
-2026-10-18 64 → 2026-10-29 67（+3）
+2026-10-18 64 → 2026-10-30 69（+5）
 
 
 ---

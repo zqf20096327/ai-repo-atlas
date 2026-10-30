@@ -1,6 +1,6 @@
 # pathintegral-institute/mcpm.sh
 
-⭐ 1,016 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pathintegral-institute/mcpm.sh) · [官网](https://mcpm.sh/) · 组织维护 · 中文 README
+⭐ 1,017 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/pathintegral-institute/mcpm.sh) · [官网](https://mcpm.sh/) · 组织维护 · 中文 README
 
 **面向各 MCP 客户端的 MCP 服务器包管理与注册表 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pathintegral-institute/mcpm.sh 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1012 --> 1017
-    line [1015, 1013, 1014, 1015, 1016]
+    title "pathintegral-institute/mcpm.sh 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1012 --> 1018
+    line [1015, 1013, 1014, 1015, 1016, 1017]
 ```
 
-2026-10-18 1,015 → 2026-10-29 1,016（+1）
+2026-10-18 1,015 → 2026-10-30 1,017（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # miounet11/life-kline
 
-⭐ 434 · TypeScript · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/miounet11/life-kline) · [官网](https://www.life-kline.com) · 组织维护 · 中文 README
+⭐ 436 · TypeScript · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/miounet11/life-kline) · [官网](https://www.life-kline.com) · 组织维护 · 中文 README
 
 **AI 大模型+八字命理的人生运势 K 线可视化 Web 应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "miounet11/life-kline 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 420 --> 435
-    line [421, 424, 426, 427, 428, 430, 431, 434]
+    title "miounet11/life-kline 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 420 --> 437
+    line [421, 424, 426, 427, 428, 430, 431, 434, 436]
 ```
 
-2026-10-18 421 → 2026-10-29 434（+13）
+2026-10-18 421 → 2026-10-30 436（+15）
 
 
 ---

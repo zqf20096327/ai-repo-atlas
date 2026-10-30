@@ -1,6 +1,6 @@
 # agentgateway/agentgateway
 
-⭐ 5,720 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentgateway/agentgateway) · [官网](https://agentgateway.dev) · 组织维护
+⭐ 5,779 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/agentgateway/agentgateway) · [官网](https://agentgateway.dev) · 组织维护
 
 **面向 AI Agent 与 MCP 服务的代理网关，Rust 实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentgateway/agentgateway 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5345 --> 5754
-    line [5379, 5416, 5454, 5490, 5526, 5537, 5572, 5660, 5680, 5720]
+    title "agentgateway/agentgateway 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5339 --> 5819
+    line [5379, 5416, 5454, 5490, 5526, 5537, 5572, 5660, 5680, 5720, 5779]
 ```
 
-2026-10-18 5,379 → 2026-10-29 5,720（+341）
+2026-10-18 5,379 → 2026-10-30 5,779（+400）
 
 
 ---

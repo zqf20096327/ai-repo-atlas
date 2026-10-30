@@ -1,6 +1,6 @@
 # huggingface/chat-ui
 
-⭐ 11,002 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/chat-ui) · [官网](https://huggingface.co/chat) · 组织维护
+⭐ 11,003 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/chat-ui) · [官网](https://huggingface.co/chat) · 组织维护
 
 **驱动 HuggingChat 的开源 LLM 聊天界面（SvelteKit 应用）**
 
@@ -46,12 +46,12 @@ Hugging Face 维护的 SvelteKit 聊天应用，即 HuggingChat 的开源代码�
 ```mermaid
 xychart-beta
     title "huggingface/chat-ui 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 10987 --> 11003
-    line [10988, 10990, 10992, 10995, 10996, 11001, 11002, 11002]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 10987 --> 11004
+    line [10988, 10990, 10992, 10995, 10996, 11001, 11002, 11003]
 ```
 
-2026-10-18 10,988 → 2026-10-29 11,002（+14）
+2026-10-18 10,988 → 2026-10-30 11,003（+15）
 
 
 ---

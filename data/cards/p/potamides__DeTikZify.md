@@ -1,6 +1,6 @@
 # potamides/DeTikZify
 
-⭐ 1,822 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/potamides/DeTikZify) · [官网](https://nllg-detikzify.hf.space) · 组织维护
+⭐ 1,823 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/potamides/DeTikZify) · [官网](https://nllg-detikzify.hf.space) · 组织维护
 
 **把草图/已有图形合成为 TikZ 程序的多模态模型**
 
@@ -46,12 +46,12 @@ DeTikZify 是一个多模态语言模型及相关 Python 包，根据手绘草�
 ```mermaid
 xychart-beta
     title "potamides/DeTikZify 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1820 --> 1825
-    line [1824, 1823, 1822, 1821, 1822, 1822]
+    line [1824, 1823, 1822, 1821, 1822, 1823]
 ```
 
-2026-10-18 1,824 → 2026-10-29 1,822（-2）
+2026-10-18 1,824 → 2026-10-30 1,823（-1）
 
 
 ---

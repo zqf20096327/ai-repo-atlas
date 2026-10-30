@@ -1,6 +1,6 @@
 # lWoHvYe/unicorn
 
-⭐ 47 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/lWoHvYe/unicorn) · [官网](https://lwohvye.github.io/unicorn/) · 个人维护 · 中文 README
+⭐ 47 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lWoHvYe/unicorn) · [官网](https://lwohvye.github.io/unicorn/) · 个人维护 · 中文 README
 
 **基于 Java 25/Spring Boot 4 的前后端分离脚手架，含 Spring AI 示例模块**
 
@@ -40,6 +40,18 @@
 > L49: 一个基于最新的Java 25(17, 21) 版本、 Spring Boot 4.x、 Jpa、 Spring Security、Redis、RabbitMQ、Vue的前后端分离的脚手架。
 > L74: - 集成 Spring AI 2.0 示例（Chat/RAG/MCP）：流式对话、对话记忆、结构化输出、工具调用、ETL/向量检索、MCP Server/Client。
 > L116: - `unicorn-ai` Spring AI 2.0 示例集合：Chat（流式/记忆/结构化输出/工具/Agent）、RAG（ETL/向量检索/Query Rewrite）、MCP Server/Client，详见 unic
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lWoHvYe/unicorn 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
+```
+
+2026-10-29 47 → 2026-10-30 47（+0）
 
 
 ---

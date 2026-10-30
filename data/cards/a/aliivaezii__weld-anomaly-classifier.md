@@ -1,6 +1,6 @@
 # aliivaezii/weld-anomaly-classifier
 
-⭐ 28 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/aliivaezii/weld-anomaly-classifier) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/aliivaezii/weld-anomaly-classifier) · 组织维护
 
 **多模态深度学习的焊缝缺陷自动分类系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aliivaezii/weld-anomaly-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-10-29 28（+0）
+2026-10-18 28 → 2026-10-30 27（-1）
 
 
 ---

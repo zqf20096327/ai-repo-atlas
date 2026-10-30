@@ -1,6 +1,6 @@
 # hanishrao/collective-ai-tools
 
-⭐ 252 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 个人维护
+⭐ 253 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 个人维护
 
 **社区维护的 AI 工具与资源策展清单，覆盖多品类**
 
@@ -44,12 +44,12 @@ collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应�
 ```mermaid
 xychart-beta
     title "hanishrao/collective-ai-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 248 --> 253
-    line [249, 250, 251, 252, 252]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 248 --> 254
+    line [249, 250, 251, 252, 253]
 ```
 
-2026-10-18 249 → 2026-10-29 252（+3）
+2026-10-18 249 → 2026-10-30 253（+4）
 
 
 ---

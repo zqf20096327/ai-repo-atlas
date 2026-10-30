@@ -40,6 +40,18 @@
 > L6: Port of Apple's MLX to Linux with native SIMD optimizations.
 > L12: |**POWER8/9**|VSX|128-bit (4 float, 2 double)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/mlx-power8 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 62 --> 64
+    line [63, 63]
+```
+
+2026-10-29 63 → 2026-10-30 63（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `ffc021160a54` · [字段定义](../../DATASET.md)*

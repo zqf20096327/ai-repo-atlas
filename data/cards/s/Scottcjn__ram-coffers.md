@@ -41,6 +41,18 @@ RAM Coffers 是一套 C 头文件形式的 NUMA 感知条件内存架构：将�
 > L35: This work introduces **RAM Coffers**, a NUMA-aware conditional memory architecture for efficient Large Language Mod
 > L185: |`ggml-coffer-mmap.h`|GGUF model sharding across NUMA nodes|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/ram-coffers 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 170 --> 172
+    line [171, 171]
+```
+
+2026-10-29 171 → 2026-10-30 171（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `c9636ba34a4b` · [字段定义](../../DATASET.md)*

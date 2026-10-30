@@ -1,6 +1,6 @@
 # modelcontextprotocol/ext-apps
 
-⭐ 3,017 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
+⭐ 3,025 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/modelcontextprotocol/ext-apps) · [官网](https://apps.extensions.modelcontextprotocol.io/) · 组织维护
 
 **MCP Apps 协议规范与 SDK：让 MCP 工具在聊天客户端内渲染交互 UI**
 
@@ -45,13 +45,13 @@ Model Context Protocol 官方的扩展协议仓库，包含 MCP Apps 规范与 T
 
 ```mermaid
 xychart-beta
-    title "modelcontextprotocol/ext-apps 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2964 --> 3021
-    line [2968, 2980, 2992, 2997, 3003, 3005, 3007, 3008, 3012, 3017]
+    title "modelcontextprotocol/ext-apps 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2963 --> 3030
+    line [2968, 2980, 2992, 2997, 3003, 3005, 3007, 3008, 3012, 3017, 3025]
 ```
 
-2026-10-18 2,968 → 2026-10-29 3,017（+49）
+2026-10-18 2,968 → 2026-10-30 3,025（+57）
 
 
 ---

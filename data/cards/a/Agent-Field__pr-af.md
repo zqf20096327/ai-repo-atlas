@@ -1,6 +1,6 @@
 # Agent-Field/pr-af
 
-⭐ 659 · Go · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
+⭐ 662 · Go · 推送 2026-10-28 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
 
 **面向 CI/CD 的开源 Agentic 代码审查工具，基于 AgentField**
 
@@ -46,12 +46,12 @@ PR-AF 是构建在 AgentField 控制平面上的开源 agentic 代码审查节�
 ```mermaid
 xychart-beta
     title "Agent-Field/pr-af 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 653 --> 660
-    line [654, 655, 657, 656, 657, 659, 659]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 653 --> 663
+    line [654, 655, 657, 656, 657, 659, 662]
 ```
 
-2026-10-18 654 → 2026-10-29 659（+5）
+2026-10-18 654 → 2026-10-30 662（+8）
 
 
 ---

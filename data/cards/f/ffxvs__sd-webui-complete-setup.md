@@ -1,6 +1,6 @@
 # ffxvs/sd-webui-complete-setup
 
-⭐ 51 · Jupyter Notebook · MIT · 推送 2026-04-18 · [GitHub](https://github.com/ffxvs/sd-webui-complete-setup) · [官网](https://ffxvs.github.io/sd-webui-complete-setup/) · 个人维护
+⭐ 50 · Jupyter Notebook · MIT · 推送 2026-04-18 · [GitHub](https://github.com/ffxvs/sd-webui-complete-setup) · [官网](https://ffxvs.github.io/sd-webui-complete-setup/) · 个人维护
 
 **云 GPU 上安装 Stable Diffusion WebUI 的 Jupyter notebook 部署工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ffxvs/sd-webui-complete-setup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 49 --> 52
+    line [51, 50]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 50（-1）
 
 
 ---

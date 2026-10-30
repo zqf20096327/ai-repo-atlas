@@ -1,6 +1,6 @@
 # sparks-baird/self-driving-lab-demo
 
-⭐ 89 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/sparks-baird/self-driving-lab-demo) · [官网](https://self-driving-lab-demo.readthedocs.io/) · 组织维护
+⭐ 90 · Jupyter Notebook · MIT · 推送 2026-07-29 · [GitHub](https://github.com/sparks-baird/self-driving-lab-demo) · [官网](https://self-driving-lab-demo.readthedocs.io/) · 组织维护
 
 **低成本自主实验（自驱动实验室）教学演示软硬件套件**
 
@@ -47,12 +47,12 @@ sparks-baird 团队维护的自驱动实验室演示项目，覆盖三个教学�
 ```mermaid
 xychart-beta
     title "sparks-baird/self-driving-lab-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-18 89 → 2026-10-29 89（+0）
+2026-10-18 89 → 2026-10-30 90（+1）
 
 
 ---

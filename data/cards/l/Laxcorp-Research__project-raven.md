@@ -1,6 +1,6 @@
 # Laxcorp-Research/project-raven
 
-⭐ 427 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Laxcorp-Research/project-raven) · 组织维护
+⭐ 429 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Laxcorp-Research/project-raven) · 组织维护
 
 **开源本地优先 AI 会议副驾：实时转录+会中提示+会后纪要**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，双流采集系统音频与麦克风，本地经 GStream
 ```mermaid
 xychart-beta
     title "Laxcorp-Research/project-raven 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 424 --> 428
-    line [425, 426, 427, 427]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 424 --> 430
+    line [425, 426, 427, 429]
 ```
 
-2026-10-18 425 → 2026-10-29 427（+2）
+2026-10-18 425 → 2026-10-30 429（+4）
 
 
 ---

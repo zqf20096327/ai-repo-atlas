@@ -1,6 +1,6 @@
 # SovranAMR/claude-code-via-antigravity
 
-⭐ 46 · JavaScript · NOASSERTION · 推送 2026-02-13 · [GitHub](https://github.com/SovranAMR/claude-code-via-antigravity) · [官网](https://github.com/SovranAMR/claude-code-via-antigravity#quick-start) · 个人维护
+⭐ 47 · JavaScript · NOASSERTION · 推送 2026-02-13 · [GitHub](https://github.com/SovranAMR/claude-code-via-antigravity) · [官网](https://github.com/SovranAMR/claude-code-via-antigravity#quick-start) · 个人维护
 
 **本地代理：用 Google 订阅免费驱动 Claude Code CLI**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SovranAMR/claude-code-via-antigravity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-29 46（+0）
+2026-10-18 46 → 2026-10-30 47（+1）
 
 
 ---

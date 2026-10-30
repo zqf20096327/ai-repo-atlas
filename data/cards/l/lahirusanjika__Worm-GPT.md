@@ -1,6 +1,6 @@
 # lahirusanjika/Worm-GPT
 
-⭐ 105 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/lahirusanjika/Worm-GPT) · 个人维护
+⭐ 107 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/lahirusanjika/Worm-GPT) · 个人维护
 
 **基于 Groq API 的 Electron+React 桌面聊天客户端（Windows）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lahirusanjika/Worm-GPT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 100 --> 106
-    line [101, 103, 104, 105]
+    title "lahirusanjika/Worm-GPT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 100 --> 108
+    line [101, 103, 104, 105, 107]
 ```
 
-2026-10-18 101 → 2026-10-29 105（+4）
+2026-10-18 101 → 2026-10-30 107（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # mengrru/Spherse
 
-⭐ 93 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mengrru/Spherse) · [官网](https://spherse.mengru.work) · 个人维护 · 中文 README
+⭐ 94 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mengrru/Spherse) · [官网](https://spherse.mengru.work) · 个人维护 · 中文 README
 
 **本地运行的个人多 Agent 运行时与 Agent Workspace 平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mengrru/Spherse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 88 --> 94
-    line [89, 91, 92, 93, 93]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 88 --> 95
+    line [89, 91, 92, 93, 94]
 ```
 
-2026-10-18 89 → 2026-10-29 93（+4）
+2026-10-18 89 → 2026-10-30 94（+5）
 
 
 ---

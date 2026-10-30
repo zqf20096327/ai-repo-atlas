@@ -1,6 +1,6 @@
 # xenodium/agent-shell
 
-⭐ 2,000 · Emacs Lisp · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/xenodium/agent-shell) · [官网](https://xenodium.com) · 个人维护
+⭐ 2,008 · Emacs Lisp · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/xenodium/agent-shell) · [官网](https://xenodium.com) · 个人维护
 
 **在 Emacs 缓冲区中接入多种 AI 编码 agent 的 ACP 客户端**
 
@@ -45,13 +45,13 @@ Emacs Lisp 包，通过 ACP（Agent Client Protocol）将 Claude Agent、Codex�
 
 ```mermaid
 xychart-beta
-    title "xenodium/agent-shell 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1956 --> 2004
-    line [1960, 1972, 1976, 1979, 1985, 1988, 1994, 1995, 1999, 2000]
+    title "xenodium/agent-shell 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1956 --> 2012
+    line [1960, 1972, 1976, 1979, 1985, 1988, 1994, 1995, 1999, 2000, 2008]
 ```
 
-2026-10-18 1,960 → 2026-10-29 2,000（+40）
+2026-10-18 1,960 → 2026-10-30 2,008（+48）
 
 
 ---

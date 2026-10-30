@@ -40,6 +40,18 @@
 > L22: `Hands_detector` tracks 21 hand landmarks in real time using a MediaPipe-based `HandDetector`. It estimates Left vs
 > L30:  - Detects and renders hand joints with cvzone/MediaPipe-style precision
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Hands-Detector 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `c244cb7edb90` · [字段定义](../../DATASET.md)*

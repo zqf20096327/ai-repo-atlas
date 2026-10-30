@@ -1,6 +1,6 @@
 # truespar/paddock
 
-⭐ 140 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/truespar/paddock) · 组织维护
+⭐ 144 · Rust · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/truespar/paddock) · 组织维护
 
 **Rust 原生推理服务器：NVIDIA 与 Apple Silicon 上运行开源模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "truespar/paddock 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 134 --> 141
-    line [135, 138, 139, 140, 140]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 134 --> 145
+    line [135, 138, 139, 140, 144]
 ```
 
-2026-10-18 135 → 2026-10-29 140（+5）
+2026-10-18 135 → 2026-10-30 144（+9）
 
 
 ---

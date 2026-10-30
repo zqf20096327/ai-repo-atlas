@@ -1,6 +1,6 @@
 # Magnvs7/Promethevs
 
-⭐ 27 · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/Magnvs7/Promethevs) · 组织维护
+⭐ 29 · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/Magnvs7/Promethevs) · 组织维护
 
 **在 64GB 内存消费级 PC 上运行完整 510GB DeepSeek 模型的推理引擎**
 
@@ -44,13 +44,13 @@ PROMETHEVS 是一套本地推理引擎加 OpenAI 兼容服务端，通过 compre
 
 ```mermaid
 xychart-beta
-    title "Magnvs7/Promethevs 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2 --> 29
-    line [4, 5, 23, 24, 26, 27]
+    title "Magnvs7/Promethevs 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2 --> 31
+    line [4, 5, 23, 24, 26, 27, 29]
 ```
 
-2026-10-23 4 → 2026-10-29 27（+23）
+2026-10-23 4 → 2026-10-30 29（+25）
 
 
 ---

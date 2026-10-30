@@ -46,12 +46,12 @@ DefendAI 平台的开源组件，用于自动发现与清点企业内运行的�
 ```mermaid
 xychart-beta
     title "Defend-AI-Tech-Inc/agent-discover-scanner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

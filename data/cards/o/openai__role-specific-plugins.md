@@ -40,13 +40,13 @@ openai 名下的 Role-Specific Plugins 仓库，README 仅说明这是即将推�
 
 ```mermaid
 xychart-beta
-    title "openai/role-specific-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "openai/role-specific-plugins 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 556 --> 561
-    line [558, 557, 559, 560]
+    line [558, 557, 559, 560, 560]
 ```
 
-2026-10-18 558 → 2026-10-29 560（+2）
+2026-10-18 558 → 2026-10-30 560（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vincenzodomina/supaclaw
 
-⭐ 60 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/vincenzodomina/supaclaw) · [官网](https://github.com/vincenzodomina/supaclaw) · 个人维护
+⭐ 61 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/vincenzodomina/supaclaw) · [官网](https://github.com/vincenzodomina/supaclaw) · 个人维护
 
 **基于 Supabase 内置能力的 OpenClaw 简化版 agent 运行环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vincenzodomina/supaclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-18 60 → 2026-10-29 60（+0）
+2026-10-18 60 → 2026-10-30 61（+1）
 
 
 ---

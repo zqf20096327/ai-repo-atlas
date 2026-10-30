@@ -1,6 +1,6 @@
 # CollieAi/llm-firewall
 
-⭐ 47 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CollieAi/llm-firewall) · [官网](https://collieai.io) · 组织维护
+⭐ 47 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/CollieAi/llm-firewall) · [官网](https://collieai.io) · 组织维护
 
 **面向 LLM 应用的安全代理：拦截注入、脱敏 PII、审计调用**
 
@@ -47,12 +47,12 @@ CollieAi 提供的 LLM Firewall 是部署在应用与 LLM 提供商之间的透�
 ```mermaid
 xychart-beta
     title "CollieAi/llm-firewall 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-29 47（+0）
+2026-10-18 47 → 2026-10-30 47（+0）
 
 
 ---

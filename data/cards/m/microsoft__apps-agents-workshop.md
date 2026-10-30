@@ -1,6 +1,6 @@
 # microsoft/apps-agents-workshop
 
-⭐ 51 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/apps-agents-workshop) · 组织维护
+⭐ 53 · HTML · MIT · 推送 2026-10-22 · [GitHub](https://github.com/microsoft/apps-agents-workshop) · 组织维护
 
 **微软 Power Platform 智能应用与 Agent 动手实验工作坊材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/apps-agents-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 53]
 ```
 
-2026-10-18 50 → 2026-10-29 51（+1）
+2026-10-18 50 → 2026-10-30 53（+3）
 
 
 ---

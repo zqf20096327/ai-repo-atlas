@@ -1,6 +1,6 @@
 # zilliztech/knowhere
 
-⭐ 389 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/zilliztech/knowhere) · [官网](https://github.com/milvus-io/milvus) · 组织维护
+⭐ 389 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/zilliztech/knowhere) · [官网](https://github.com/milvus-io/milvus) · 组织维护
 
 **Milvus 内部向量检索引擎核心库，集成多种索引算法**
 
@@ -45,12 +45,12 @@ C++ 编写的独立向量检索引擎，作为 Milvus 的内部核心，集成 F
 ```mermaid
 xychart-beta
     title "zilliztech/knowhere 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
     y-axis "stars" 386 --> 390
     line [387, 388, 389, 389]
 ```
 
-2026-10-18 387 → 2026-10-29 389（+2）
+2026-10-18 387 → 2026-10-30 389（+2）
 
 
 ---

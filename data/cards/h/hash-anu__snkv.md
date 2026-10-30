@@ -1,6 +1,6 @@
 # hash-anu/snkv
 
-⭐ 79 · C · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hash-anu/snkv) · [官网](https://hash-anu.github.io/snkv/) · 个人维护
+⭐ 78 · C · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/hash-anu/snkv) · [官网](https://hash-anu.github.io/snkv/) · 个人维护
 
 **C 编写的嵌入式 ACID 键值存储，可选 HNSW 向量检索**
 
@@ -45,12 +45,12 @@ SNKV 是单头文件嵌入式键值存储库，直接调用 SQLite 的 B-tree �
 ```mermaid
 xychart-beta
     title "hash-anu/snkv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    line [78, 79, 78]
 ```
 
-2026-10-18 78 → 2026-10-29 79（+1）
+2026-10-18 78 → 2026-10-30 78（+0）
 
 
 ---

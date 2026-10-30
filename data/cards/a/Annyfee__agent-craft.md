@@ -1,6 +1,6 @@
 # Annyfee/agent-craft
 
-⭐ 524 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Annyfee/agent-craft) · [官网](https://blog.csdn.net/2401_87328929/category_13070342.html) · 个人维护 · 中文 README
+⭐ 526 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Annyfee/agent-craft) · [官网](https://blog.csdn.net/2401_87328929/category_13070342.html) · 个人维护 · 中文 README
 
 **AI Agent 教学仓库：从零到部署的 15 模块实战代码与博客**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Annyfee/agent-craft 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 513 --> 526
-    line [514, 517, 520, 521, 522, 525, 524]
+    title "Annyfee/agent-craft 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 513 --> 527
+    line [514, 517, 520, 521, 522, 525, 524, 526]
 ```
 
-2026-10-18 514 → 2026-10-29 524（+10）
+2026-10-18 514 → 2026-10-30 526（+12）
 
 
 ---

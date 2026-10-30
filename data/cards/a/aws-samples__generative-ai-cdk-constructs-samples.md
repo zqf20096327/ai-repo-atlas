@@ -45,12 +45,12 @@ aws-samples 组织维护的示例仓库，演示如何用 AWS Generative AI CDK 
 ```mermaid
 xychart-beta
     title "aws-samples/generative-ai-cdk-constructs-samples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 174 --> 177
     line [176, 175, 176, 176]
 ```
 
-2026-10-18 176 → 2026-10-29 176（+0）
+2026-10-18 176 → 2026-10-30 176（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelstudioai/cli
 
-⭐ 366 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
+⭐ 366 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
 
 **阿里云百炼官方 CLI：为 AI Agent 提供百炼模型能力的命令行工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelstudioai/cli 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "modelstudioai/cli 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 352 --> 490
-    line [479, 474, 472, 363, 364, 365, 366]
+    line [479, 474, 472, 363, 364, 365, 366, 366]
 ```
 
-2026-10-18 479 → 2026-10-29 366（-113）
+2026-10-18 479 → 2026-10-30 366（-113）
 
 
 ---

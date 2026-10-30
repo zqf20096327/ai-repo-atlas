@@ -1,6 +1,6 @@
 # keinsaasforever/better-chatbot
 
-⭐ 1,194 · TypeScript · MIT · 推送 2026-08-19 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 个人维护
+⭐ 1,194 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 个人维护
 
 **面向个人与团队的开源 AI 聊天工作台，支持 MCP 与自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "keinsaasforever/better-chatbot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1188 --> 1195
     line [1189, 1190, 1191, 1192, 1193, 1194, 1194]
 ```
 
-2026-10-18 1,189 → 2026-10-29 1,194（+5）
+2026-10-18 1,189 → 2026-10-30 1,194（+5）
 
 
 ---

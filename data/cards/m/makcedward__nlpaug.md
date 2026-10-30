@@ -1,6 +1,6 @@
 # makcedward/nlpaug
 
-⭐ 4,663 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/makcedward/nlpaug) · [官网](https://makcedward.github.io/) · 个人维护
+⭐ 4,664 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/makcedward/nlpaug) · [官网](https://makcedward.github.io/) · 个人维护
 
 **NLP/音频/频谱数据增强的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "makcedward/nlpaug 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 4662 --> 4666
-    line [4665, 4664, 4663, 4663]
+    line [4665, 4664, 4663, 4664]
 ```
 
-2026-10-18 4,665 → 2026-10-29 4,663（-2）
+2026-10-18 4,665 → 2026-10-30 4,664（-1）
 
 
 ---

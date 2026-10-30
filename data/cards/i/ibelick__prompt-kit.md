@@ -1,6 +1,6 @@
 # ibelick/prompt-kit
 
-⭐ 3,139 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ibelick/prompt-kit) · [官网](https://prompt-kit.com) · 个人维护
+⭐ 3,141 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/ibelick/prompt-kit) · [官网](https://prompt-kit.com) · 个人维护
 
 **面向 AI 应用的 React/shadcn UI 组件库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ibelick/prompt-kit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3123 --> 3140
-    line [3125, 3124, 3126, 3128, 3133, 3134, 3138, 3139]
+    title "ibelick/prompt-kit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3123 --> 3142
+    line [3125, 3124, 3126, 3128, 3133, 3134, 3138, 3139, 3141]
 ```
 
-2026-10-18 3,125 → 2026-10-29 3,139（+14）
+2026-10-18 3,125 → 2026-10-30 3,141（+16）
 
 
 ---

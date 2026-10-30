@@ -1,6 +1,6 @@
 # WooooDyy/AgentGym-RL
 
-⭐ 881 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/WooooDyy/AgentGym-RL) · [官网](https://agentgym-rl.github.io/) · 组织维护
+⭐ 883 · Python · MIT · 推送 2026-02-15 · [GitHub](https://github.com/WooooDyy/AgentGym-RL) · [官网](https://agentgym-rl.github.io/) · 组织维护
 
 **多轮强化学习训练 LLM Agent 的框架（ICLR 2026 论文）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WooooDyy/AgentGym-RL 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 875 --> 882
-    line [876, 878, 880, 881, 880, 881]
+    title "WooooDyy/AgentGym-RL 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 875 --> 884
+    line [876, 878, 880, 881, 880, 881, 883]
 ```
 
-2026-10-18 876 → 2026-10-29 881（+5）
+2026-10-18 876 → 2026-10-30 883（+7）
 
 
 ---

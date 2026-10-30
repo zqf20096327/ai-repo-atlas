@@ -1,6 +1,6 @@
 # datalab-to/lift
 
-⭐ 1,216 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/lift) · [官网](https://www.datalab.to) · 组织维护
+⭐ 1,269 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/datalab-to/lift) · [官网](https://www.datalab.to) · 组织维护
 
 **9B 视觉模型：按 JSON Schema 从 PDF/图片抽取结构化数据**
 
@@ -44,13 +44,13 @@ lift 是一个 9B 参数的视觉模型及配套 Python 包，传入任意 JSON 
 
 ```mermaid
 xychart-beta
-    title "datalab-to/lift 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1193 --> 1218
-    line [1195, 1196, 1197, 1196, 1198, 1216]
+    title "datalab-to/lift 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1188 --> 1276
+    line [1195, 1196, 1197, 1196, 1198, 1216, 1269]
 ```
 
-2026-10-18 1,195 → 2026-10-29 1,216（+21）
+2026-10-18 1,195 → 2026-10-30 1,269（+74）
 
 
 ---

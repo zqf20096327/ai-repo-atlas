@@ -1,6 +1,6 @@
 # atrislabs/atris
 
-⭐ 71 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
+⭐ 71 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
 
 **把任意仓库变成 AI agent 可操作工作区的 CLI 与 MCP 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "atrislabs/atris 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 71（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RocketChat/Opensource-Contribution-Leaderboard
 
-⭐ 49 · JavaScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/RocketChat/Opensource-Contribution-Leaderboard) · [官网](https://gsoc.rocket.chat) · 组织维护
+⭐ 48 · JavaScript · MIT · 推送 2026-04-08 · [GitHub](https://github.com/RocketChat/Opensource-Contribution-Leaderboard) · [官网](https://gsoc.rocket.chat) · 组织维护
 
 **追踪 GitHub 组织开源贡献（PR/issue）的实时排行榜**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RocketChat/Opensource-Contribution-Leaderboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-18 49 → 2026-10-29 49（+0）
+2026-10-18 49 → 2026-10-30 48（-1）
 
 
 ---

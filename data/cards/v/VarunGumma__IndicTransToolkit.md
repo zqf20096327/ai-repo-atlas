@@ -1,6 +1,6 @@
 # VarunGumma/IndicTransToolkit
 
-⭐ 39 · Cython · MIT · 推送 2026-04-30 · [GitHub](https://github.com/VarunGumma/IndicTransToolkit) · [官网](https://openreview.net/forum?id=vfT4YuzAYA) · 个人维护
+⭐ 39 · Cython · MIT · 推送 2026-10-29 · [GitHub](https://github.com/VarunGumma/IndicTransToolkit) · [官网](https://openreview.net/forum?id=vfT4YuzAYA) · 个人维护
 
 **IndicTrans2 系列翻译模型的工具包：预处理/后处理与评测**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "VarunGumma/IndicTransToolkit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 39（+0）
 
 
 ---

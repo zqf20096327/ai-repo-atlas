@@ -1,6 +1,6 @@
 # greyhatguy007/Machine-Learning-Specialization-Coursera
 
-⭐ 8,122 · Jupyter Notebook · MIT · 推送 2025-12-28 · [GitHub](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) · 个人维护
+⭐ 8,134 · Jupyter Notebook · MIT · 推送 2025-12-28 · [GitHub](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) · 个人维护
 
 **吴恩达 Coursera 机器学习专项课程的作业解答与笔记汇编**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "greyhatguy007/Machine-Learning-Specialization-Coursera 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8025 --> 8130
-    line [8033, 8044, 8055, 8064, 8077, 8082, 8090, 8101, 8113, 8122]
+    title "greyhatguy007/Machine-Learning-Specialization-Coursera 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 8023 --> 8144
+    line [8033, 8044, 8055, 8064, 8077, 8082, 8090, 8101, 8113, 8122, 8134]
 ```
 
-2026-10-18 8,033 → 2026-10-29 8,122（+89）
+2026-10-18 8,033 → 2026-10-30 8,134（+101）
 
 
 ---

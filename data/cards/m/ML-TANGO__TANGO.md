@@ -1,6 +1,6 @@
 # ML-TANGO/TANGO
 
-⭐ 159 · Python · NOASSERTION · 推送 2026-06-02 · [GitHub](https://github.com/ML-TANGO/TANGO) · 组织维护
+⭐ 159 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ML-TANGO/TANGO) · 组织维护
 
 **无代码神经网络自动生成与部署框架，面向视觉任务**
 
@@ -45,13 +45,13 @@ TANGO（Target Aware No-code neural network Generation and Operation framework�
 
 ```mermaid
 xychart-beta
-    title "ML-TANGO/TANGO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "ML-TANGO/TANGO 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 156 --> 160
-    line [157, 159]
+    line [157, 159, 159]
 ```
 
-2026-10-18 157 → 2026-10-29 159（+2）
+2026-10-18 157 → 2026-10-30 159（+2）
 
 
 ---

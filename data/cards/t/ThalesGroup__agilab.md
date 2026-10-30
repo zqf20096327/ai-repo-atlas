@@ -1,6 +1,6 @@
 # ThalesGroup/agilab
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/ThalesGroup/agilab) · [官网](https://thalesgroup.github.io/agilab) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ThalesGroup/agilab) · [官网](https://thalesgroup.github.io/agilab) · 组织维护
 
 **面向 AI/ML 工程的可复现工作台：笔记本转可执行应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ThalesGroup/agilab 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

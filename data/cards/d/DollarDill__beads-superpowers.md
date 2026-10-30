@@ -1,6 +1,6 @@
 # DollarDill/beads-superpowers
 
-⭐ 32 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DollarDill/beads-superpowers) · [官网](https://algocents.com/beads-superpowers/) · 个人维护
+⭐ 33 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DollarDill/beads-superpowers) · [官网](https://algocents.com/beads-superpowers/) · 个人维护
 
 **为 AI 编程 agent 提供流程纪律与跨会话任务记忆的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DollarDill/beads-superpowers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-18 31 → 2026-10-29 32（+1）
+2026-10-18 31 → 2026-10-30 33（+2）
 
 
 ---

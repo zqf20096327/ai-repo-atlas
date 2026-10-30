@@ -1,6 +1,6 @@
 # nivu/ai_all_resources
 
-⭐ 1,539 · Jupyter Notebook · 推送 2026-09-19 · [GitHub](https://github.com/nivu/ai_all_resources) · 个人维护
+⭐ 1,538 · Jupyter Notebook · 推送 2026-09-19 · [GitHub](https://github.com/nivu/ai_all_resources) · 个人维护
 
 **面向学习者的数学/机器学习/深度学习资源教程策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nivu/ai_all_resources 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29"]
+    title "nivu/ai_all_resources 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1536 --> 1540
-    line [1538, 1537, 1538, 1539]
+    line [1538, 1537, 1538, 1539, 1538]
 ```
 
-2026-10-18 1,538 → 2026-10-29 1,539（+1）
+2026-10-18 1,538 → 2026-10-30 1,538（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hoplogic/hop3
 
-⭐ 20 · TypeScript · MPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/hoplogic/hop3) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/hoplogic/hop3) · 个人维护 · 中文 README
 
 **面向 LLM Agent 的任务规约语言与执行引擎**
 
@@ -46,12 +46,12 @@ HOP 3.0 由语言层（HopSpec，用 markdown 声明任务结构：步骤、数�
 ```mermaid
 xychart-beta
     title "hoplogic/hop3 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 22]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 22（+4）
 
 
 ---

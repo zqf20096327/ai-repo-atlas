@@ -1,6 +1,6 @@
 # karimknaebel/point2vec
 
-⭐ 102 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/karimknaebel/point2vec) · [官网](https://karimknaebel.github.io/point2vec/) · 个人维护
+⭐ 102 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/karimknaebel/point2vec) · [官网](https://karimknaebel.github.io/point2vec/) · 个人维护
 
 **点云自监督预训练模型：学习点云表征用于分类与分割**
 
@@ -46,12 +46,12 @@ GCPR 2023 论文 point2vec 的官方 PyTorch 实现：在 ShapeNet 上以自监�
 ```mermaid
 xychart-beta
     title "karimknaebel/point2vec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-29 102（+0）
+2026-10-18 102 → 2026-10-30 102（+0）
 
 
 ---

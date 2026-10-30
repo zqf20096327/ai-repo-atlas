@@ -1,6 +1,6 @@
 # aa1143/NamiGPT
 
-⭐ 101 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
+⭐ 130 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
 
 **面向中文零基础读者的手写 GPT-2 教程**
 
@@ -40,6 +40,18 @@
 > L5: **零基础入门大模型（LLM）的基础教程**
 > L21: 不需要大模型基础，会一点 Python、懂矩阵乘法这样的线性代数基础就够了。我们用 PyTorch 从零手写一个 GPT-2，加载 OpenAI 官方权重，跑通推理和文本生成。
 > L49: 15 篇文章，就是这条路上的 15 个台阶。从分词、Embedding、注意力，一直写到加载 OpenAI 的官方权重、让模型真正生成文字。仓库里的每一行代码，我都自己写过、跑过。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aa1143/NamiGPT 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 99 --> 132
+    line [101, 130]
+```
+
+2026-10-29 101 → 2026-10-30 130（+29）
 
 
 ---

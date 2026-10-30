@@ -1,6 +1,6 @@
 # FunplayAI/funplay-godot-mcp
 
-⭐ 47 · GDScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/FunplayAI/funplay-godot-mcp) · 组织维护 · 中文 README
+⭐ 49 · GDScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/FunplayAI/funplay-godot-mcp) · 组织维护 · 中文 README
 
 **Godot 编辑器 MCP 服务器：让 AI 客户端直接操作运行中的项目**
 
@@ -45,12 +45,12 @@ MIT 许可的 Godot 编辑器插件，内置 HTTP MCP 服务器（默认 127.0.0
 ```mermaid
 xychart-beta
     title "FunplayAI/funplay-godot-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 43 --> 48
-    line [44, 45, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 43 --> 50
+    line [44, 45, 46, 47, 49]
 ```
 
-2026-10-18 44 → 2026-10-29 47（+3）
+2026-10-18 44 → 2026-10-30 49（+5）
 
 
 ---

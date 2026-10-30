@@ -1,6 +1,6 @@
 # ailinone/collective-intelligence
 
-⭐ 222 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护 · 中文 README
+⭐ 223 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护 · 中文 README
 
 **让十万级 AI 模型协作的集体智能推理引擎**
 
@@ -44,13 +44,13 @@ Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型
 
 ```mermaid
 xychart-beta
-    title "ailinone/collective-intelligence 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 212 --> 223
-    line [213, 214, 213, 219, 221, 222]
+    title "ailinone/collective-intelligence 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 212 --> 224
+    line [213, 214, 213, 219, 221, 222, 223]
 ```
 
-2026-10-18 213 → 2026-10-29 222（+9）
+2026-10-18 213 → 2026-10-30 223（+10）
 
 
 ---

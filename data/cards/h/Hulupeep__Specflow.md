@@ -1,6 +1,6 @@
 # Hulupeep/Specflow
 
-⭐ 25 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Hulupeep/Specflow) · 个人维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Hulupeep/Specflow) · 个人维护
 
 **把项目规格转成契约测试，拦截 LLM 编码漂移**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hulupeep/Specflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 26（+1）
 
 
 ---

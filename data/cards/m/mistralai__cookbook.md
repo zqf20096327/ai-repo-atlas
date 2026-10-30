@@ -1,6 +1,6 @@
 # mistralai/cookbook
 
-⭐ 2,351 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mistralai/cookbook) · 组织维护
+⭐ 2,353 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mistralai/cookbook) · 组织维护
 
 **Mistral 官方示例集：API、RAG、Agent 等 notebook 教程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "mistralai/cookbook 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2344 --> 2352
-    line [2345, 2346, 2348, 2349, 2350, 2351]
+    title "mistralai/cookbook 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2344 --> 2354
+    line [2345, 2346, 2348, 2349, 2350, 2351, 2353]
 ```
 
-2026-10-18 2,345 → 2026-10-29 2,351（+6）
+2026-10-18 2,345 → 2026-10-30 2,353（+8）
 
 
 ---

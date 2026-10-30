@@ -1,6 +1,6 @@
 # samchon/nestia
 
-⭐ 2,179 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/samchon/nestia) · [官网](https://nestia.io/) · 个人维护
+⭐ 2,178 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/samchon/nestia) · [官网](https://nestia.io/) · 个人维护
 
 **面向 NestJS 开发者的助手库集：装饰器、SDK 生成与 AI Agent 工具链**
 
@@ -45,13 +45,13 @@ Nestia 是一组围绕 NestJS 的辅助库集合：@nestia/core 提供类型化�
 
 ```mermaid
 xychart-beta
-    title "samchon/nestia 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29"]
+    title "samchon/nestia 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2174 --> 2180
-    line [2175, 2176, 2177, 2178, 2179]
+    line [2175, 2176, 2177, 2178, 2179, 2178]
 ```
 
-2026-10-18 2,175 → 2026-10-29 2,179（+4）
+2026-10-18 2,175 → 2026-10-30 2,178（+3）
 
 
 ---

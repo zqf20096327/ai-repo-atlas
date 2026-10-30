@@ -1,6 +1,6 @@
 # Merit-Systems/OpenInstinct
 
-⭐ 479 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Merit-Systems/OpenInstinct) · [官网](https://openinstinct.sh) · 组织维护
+⭐ 478 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Merit-Systems/OpenInstinct) · [官网](https://openinstinct.sh) · 组织维护
 
 **自托管的 iMessage 个人助理：代用户浏览网页办理事务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Merit-Systems/OpenInstinct 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "Merit-Systems/OpenInstinct 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 457 --> 481
-    line [459, 463, 467, 471, 473, 472, 473, 476, 478, 479]
+    line [459, 463, 467, 471, 473, 472, 473, 476, 478, 479, 478]
 ```
 
-2026-10-18 459 → 2026-10-29 479（+20）
+2026-10-18 459 → 2026-10-30 478（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # arthurspk/guiadomaestri
 
-⭐ 33 · Python · 推送 2026-09-09 · [GitHub](https://github.com/arthurspk/guiadomaestri) · 个人维护 · 中文 README
+⭐ 35 · Python · 推送 2026-09-09 · [GitHub](https://github.com/arthurspk/guiadomaestri) · 个人维护 · 中文 README
 
 **Maestri 应用模板指南与生成器：257 个多 agent 编排模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arthurspk/guiadomaestri 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 28 --> 36
+    line [29, 30, 32, 33, 35]
 ```
 
-2026-10-18 29 → 2026-10-29 33（+4）
+2026-10-18 29 → 2026-10-30 35（+6）
 
 
 ---

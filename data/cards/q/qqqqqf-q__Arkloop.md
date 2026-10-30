@@ -1,6 +1,6 @@
 # qqqqqf-q/Arkloop
 
-⭐ 372 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/qqqqqf-q/Arkloop) · [官网](https://arkloop.io) · 个人维护 · 中文 README
+⭐ 373 · Go · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/qqqqqf-q/Arkloop) · [官网](https://arkloop.io) · 个人维护 · 中文 README
 
 **本地优先的对话式 AI Agent 桌面平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qqqqqf-q/Arkloop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 371 --> 374
-    line [373, 372, 372]
+    line [373, 372, 373]
 ```
 
-2026-10-18 373 → 2026-10-29 372（-1）
+2026-10-18 373 → 2026-10-30 373（+0）
 
 
 ---

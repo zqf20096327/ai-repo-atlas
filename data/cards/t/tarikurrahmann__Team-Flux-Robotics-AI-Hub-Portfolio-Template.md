@@ -38,6 +38,18 @@
 
 > L3: A sleek, ultra-modern, and fully responsive portfolio template designed for robotics squads, tech clubs, or AI resea
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Team-Flux-Robotics-AI-Hub-Portfolio-Template 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 low · 依据 README sha `ec5eb2f84c0b` · [字段定义](../../DATASET.md)*

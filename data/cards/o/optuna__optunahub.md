@@ -1,6 +1,6 @@
 # optuna/optunahub
 
-⭐ 65 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/optuna/optunahub) · [官网](https://hub.optuna.org) · 组织维护
+⭐ 65 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/optuna/optunahub) · [官网](https://hub.optuna.org) · 组织维护
 
 **使用与发布 OptunaHub 优化算法包的 Python 客户端库**
 
@@ -44,13 +44,13 @@ OptunaHub 是基于 Optuna 的黑盒优化算法共享平台，本仓库为其�
 
 ```mermaid
 xychart-beta
-    title "optuna/optunahub 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "optuna/optunahub 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 62 --> 66
-    line [63, 64, 65]
+    line [63, 64, 65, 65]
 ```
 
-2026-10-18 63 → 2026-10-29 65（+2）
+2026-10-18 63 → 2026-10-30 65（+2）
 
 
 ---

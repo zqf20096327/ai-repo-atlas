@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MonitSharma/Learn-Quantum-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    title "MonitSharma/Learn-Quantum-Machine-Learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 86 --> 91
-    line [87, 88, 90]
+    line [87, 88, 90, 90]
 ```
 
-2026-10-18 87 → 2026-10-29 90（+3）
+2026-10-18 87 → 2026-10-30 90（+3）
 
 
 ---

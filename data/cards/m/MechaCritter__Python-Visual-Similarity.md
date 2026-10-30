@@ -1,6 +1,6 @@
 # MechaCritter/Python-Visual-Similarity
 
-⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MechaCritter/Python-Visual-Similarity) · [官网](https://mechacritter.github.io/Python-Visual-Similarity/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MechaCritter/Python-Visual-Similarity) · [官网](https://mechacritter.github.io/Python-Visual-Similarity/) · 个人维护
 
 **面向图像检索与聚类的图像相似度计算库（传统+深度方法）**
 
@@ -46,12 +46,12 @@ pyvisim 是一个计算机视觉库，提供从 PSNR、SSIM、Fisher Vectors、V
 ```mermaid
 xychart-beta
     title "MechaCritter/Python-Visual-Similarity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

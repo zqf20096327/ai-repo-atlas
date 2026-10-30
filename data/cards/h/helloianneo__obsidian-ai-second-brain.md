@@ -1,6 +1,6 @@
 # helloianneo/obsidian-ai-second-brain
 
-⭐ 300 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/obsidian-ai-second-brain) · 个人维护 · 中文 README
+⭐ 305 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/obsidian-ai-second-brain) · 个人维护 · 中文 README
 
 **Obsidian+Claude 搭建个人知识库的免代码指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "helloianneo/obsidian-ai-second-brain 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 289 --> 301
-    line [290, 292, 294, 296, 297, 298, 300, 300]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 289 --> 306
+    line [290, 292, 294, 296, 297, 298, 300, 305]
 ```
 
-2026-10-18 290 → 2026-10-29 300（+10）
+2026-10-18 290 → 2026-10-30 305（+15）
 
 
 ---

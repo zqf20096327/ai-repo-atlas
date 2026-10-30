@@ -1,6 +1,6 @@
 # MontrealAI/AGIJobsv0
 
-⭐ 69 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MontrealAI/AGIJobsv0) · [官网](https://montrealai.github.io/AGIJobsv0/) · 组织维护
+⭐ 69 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MontrealAI/AGIJobsv0) · [官网](https://montrealai.github.io/AGIJobsv0/) · 组织维护
 
 **链上可验证 AI 代理任务工作流系统：任务合约、验证与结算**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MontrealAI/AGIJobsv0 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 66 --> 70
     line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-10-29 69（+2）
+2026-10-18 67 → 2026-10-30 69（+2）
 
 
 ---

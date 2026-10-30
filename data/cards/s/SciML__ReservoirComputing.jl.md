@@ -46,12 +46,12 @@ SciML 组织维护的 Julia 储备计算（Reservoir Computing）工具库，提
 ```mermaid
 xychart-beta
     title "SciML/ReservoirComputing.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 232 --> 235
     line [234, 233, 233]
 ```
 
-2026-10-18 234 → 2026-10-29 233（-1）
+2026-10-18 234 → 2026-10-30 233（-1）
 
 
 ---

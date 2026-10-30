@@ -1,6 +1,6 @@
 # yeasy/ai_security_guide
 
-⭐ 123 · Python · 推送 2026-10-14 · [GitHub](https://github.com/yeasy/ai_security_guide) · [官网](https://yeasy.gitbook.io/ai_security_guide) · 个人维护 · 中文 README
+⭐ 124 · Python · 推送 2026-10-14 · [GitHub](https://github.com/yeasy/ai_security_guide) · [官网](https://yeasy.gitbook.io/ai_security_guide) · 个人维护 · 中文 README
 
 **面向工程师的大模型与智能体安全攻防图书（含配套实验）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yeasy/ai_security_guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 114 --> 124
-    line [115, 118, 120, 123, 123]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 114 --> 125
+    line [115, 118, 120, 123, 124]
 ```
 
-2026-10-18 115 → 2026-10-29 123（+8）
+2026-10-18 115 → 2026-10-30 124（+9）
 
 
 ---

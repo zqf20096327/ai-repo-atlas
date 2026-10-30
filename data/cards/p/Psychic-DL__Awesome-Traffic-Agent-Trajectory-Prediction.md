@@ -1,6 +1,6 @@
 # Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction
 
-⭐ 529 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction) · 个人维护 · 中文 README
+⭐ 528 · MIT · 推送 2025-12-30 · [GitHub](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction) · 个人维护 · 中文 README
 
 **交通智能体轨迹预测论文与代码的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 527 --> 530
-    line [529, 528, 529, 529]
+    line [529, 528, 529, 528]
 ```
 
-2026-10-18 529 → 2026-10-29 529（+0）
+2026-10-18 529 → 2026-10-30 528（-1）
 
 
 ---

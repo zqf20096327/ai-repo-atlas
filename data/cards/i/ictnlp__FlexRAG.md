@@ -1,6 +1,6 @@
 # ictnlp/FlexRAG
 
-⭐ 241 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/ictnlp/FlexRAG) · [官网](https://flexrag.readthedocs.io/en/latest) · 组织维护 · 中文 README
+⭐ 240 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/ictnlp/FlexRAG) · [官网](https://flexrag.readthedocs.io/en/latest) · 组织维护 · 中文 README
 
 **面向研究与原型的 RAG 框架：从数据准备到评测的端到端流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ictnlp/FlexRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 240 --> 242
-    line [241, 241]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 239 --> 242
+    line [241, 240]
 ```
 
-2026-10-18 241 → 2026-10-29 241（+0）
+2026-10-18 241 → 2026-10-30 240（-1）
 
 
 ---

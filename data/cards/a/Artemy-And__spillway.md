@@ -1,6 +1,6 @@
 # Artemy-And/spillway
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Artemy-And/spillway) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Artemy-And/spillway) · 个人维护 · 中文 README
 
 **面向小团队的自托管 AI 网关：按人配额、超支转本地模型、PII 脱敏与免费 SSO**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Artemy-And/spillway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-10-29 20（+2）
+2026-10-18 18 → 2026-10-30 21（+3）
 
 
 ---

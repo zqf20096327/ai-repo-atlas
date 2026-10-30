@@ -1,6 +1,6 @@
 # omarqaterge/hermes-mobile-app
 
-⭐ 90 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/omarqaterge/hermes-mobile-app) · 个人维护
+⭐ 90 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/omarqaterge/hermes-mobile-app) · 个人维护
 
 **在 Android 手机上本地运行 Hermes Agent 的原生聊天客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "omarqaterge/hermes-mobile-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "omarqaterge/hermes-mobile-app 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 71 --> 91
-    line [72, 79, 80, 82, 84, 86, 89, 90]
+    line [72, 79, 80, 82, 84, 86, 89, 90, 90]
 ```
 
-2026-10-18 72 → 2026-10-29 90（+18）
+2026-10-18 72 → 2026-10-30 90（+18）
 
 
 ---

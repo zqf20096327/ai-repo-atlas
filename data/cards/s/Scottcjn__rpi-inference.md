@@ -41,6 +41,18 @@
 > L9: RPI replaces matrix multiplication with permutation table lookups and integer accumulation. No floating point. No GE
 > L55: python3 tools/distill_to_rpi.py --teacher tinyllama --output sophia.rpi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/rpi-inference 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
+```
+
+2026-10-29 40 → 2026-10-30 40（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `01637a571d86` · [字段定义](../../DATASET.md)*

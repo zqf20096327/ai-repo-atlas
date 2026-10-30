@@ -45,12 +45,12 @@ PyC（PyTorch Concepts）是构建在 PyTorch 与 PyTorch Lightning 之上的库
 ```mermaid
 xychart-beta
     title "pyc-team/pytorch_concepts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 158 --> 160
     line [159, 159]
 ```
 
-2026-10-18 159 → 2026-10-29 159（+0）
+2026-10-18 159 → 2026-10-30 159（+0）
 
 
 ---

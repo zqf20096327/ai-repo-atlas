@@ -1,6 +1,6 @@
 # microsoft/onnxruntime-genai
 
-⭐ 1,147 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/onnxruntime-genai) · 组织维护
+⭐ 1,147 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/onnxruntime-genai) · 组织维护
 
 **微软的生成式 AI 推理运行时：在设备上运行 LLM**
 
@@ -44,13 +44,13 @@ ONNX Runtime GenAI 提供 Python/C#/C++/Java 等 API，在设备上运行生成�
 
 ```mermaid
 xychart-beta
-    title "microsoft/onnxruntime-genai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "microsoft/onnxruntime-genai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1136 --> 1148
-    line [1137, 1140, 1142, 1143, 1144, 1146, 1147]
+    line [1137, 1140, 1142, 1143, 1144, 1146, 1147, 1147]
 ```
 
-2026-10-18 1,137 → 2026-10-29 1,147（+10）
+2026-10-18 1,137 → 2026-10-30 1,147（+10）
 
 
 ---

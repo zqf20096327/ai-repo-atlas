@@ -1,6 +1,6 @@
 # ovo066/MoRead
 
-⭐ 109 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ovo066/MoRead) · 个人维护 · 中文 README
+⭐ 111 · Kotlin · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/ovo066/MoRead) · 个人维护 · 中文 README
 
 **本地优先的 Android 小说阅读器，可选 BYOK AI 伴读**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ovo066/MoRead 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 99 --> 110
-    line [100, 106, 107, 109]
+    title "ovo066/MoRead 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 99 --> 112
+    line [100, 106, 107, 109, 111]
 ```
 
-2026-10-18 100 → 2026-10-29 109（+9）
+2026-10-18 100 → 2026-10-30 111（+11）
 
 
 ---

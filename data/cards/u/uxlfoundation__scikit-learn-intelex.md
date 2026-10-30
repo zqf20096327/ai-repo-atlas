@@ -1,6 +1,6 @@
 # uxlfoundation/scikit-learn-intelex
 
-⭐ 1,356 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/uxlfoundation/scikit-learn-intelex) · [官网](https://uxlfoundation.github.io/scikit-learn-intelex/) · 组织维护
+⭐ 1,356 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/uxlfoundation/scikit-learn-intelex) · [官网](https://uxlfoundation.github.io/scikit-learn-intelex/) · 组织维护
 
 **scikit-learn 加速扩展：为 CPU/GPU 提速训练与推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "uxlfoundation/scikit-learn-intelex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 1354 --> 1357
     line [1355, 1356, 1356]
 ```
 
-2026-10-18 1,355 → 2026-10-29 1,356（+1）
+2026-10-18 1,355 → 2026-10-30 1,356（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Oeditus/yoke
 
-⭐ 54 · Elixir · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Oeditus/yoke) · [官网](https://yoke.yokerhood.com/) · 个人维护
+⭐ 54 · Elixir · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Oeditus/yoke) · [官网](https://yoke.yokerhood.com/) · 个人维护
 
 **面向开发者的 CLI 编码 agent 终端，原生支持 DeepSeek/OpenRouter/本地模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Oeditus/yoke 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
+    title "Oeditus/yoke 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 50 --> 55
-    line [51, 52, 53, 54]
+    line [51, 52, 53, 54, 54]
 ```
 
-2026-10-18 51 → 2026-10-29 54（+3）
+2026-10-18 51 → 2026-10-30 54（+3）
 
 
 ---

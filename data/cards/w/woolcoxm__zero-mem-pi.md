@@ -1,6 +1,6 @@
 # woolcoxm/zero-mem-pi
 
-⭐ 40 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/woolcoxm/zero-mem-pi) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/woolcoxm/zero-mem-pi) · 个人维护
 
 **pi 编码代理的零 token 长期记忆扩展，跨会话检索注入上下文**
 
@@ -46,12 +46,12 @@ pi coding agent 的记忆扩展，忠实复现论文 Zero-Mem（arXiv:2607.29377
 ```mermaid
 xychart-beta
     title "woolcoxm/zero-mem-pi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 38 --> 41
+    line [40, 39]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 39（-1）
 
 
 ---

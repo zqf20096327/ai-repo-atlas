@@ -1,6 +1,6 @@
 # ashblue/fluid-behavior-tree
 
-⭐ 1,184 · C# · MIT · 推送 2026-05-08 · [GitHub](https://github.com/ashblue/fluid-behavior-tree) · 个人维护
+⭐ 1,185 · C# · MIT · 推送 2026-05-08 · [GitHub](https://github.com/ashblue/fluid-behavior-tree) · 个人维护
 
 **面向 Unity3D 项目的代码驱动行为树库（builder 模式）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ashblue/fluid-behavior-tree 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 1183 --> 1185
-    line [1184, 1184]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 1183 --> 1186
+    line [1184, 1185]
 ```
 
-2026-10-18 1,184 → 2026-10-29 1,184（+0）
+2026-10-18 1,184 → 2026-10-30 1,185（+1）
 
 
 ---

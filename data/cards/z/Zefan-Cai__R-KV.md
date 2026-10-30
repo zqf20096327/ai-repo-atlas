@@ -1,6 +1,6 @@
 # Zefan-Cai/R-KV
 
-⭐ 1,220 · Python · 推送 2026-10-18 · [GitHub](https://github.com/Zefan-Cai/R-KV) · [官网](https://zefan-cai.github.io/R-KV.page/) · 个人维护
+⭐ 1,221 · Python · 推送 2026-10-18 · [GitHub](https://github.com/Zefan-Cai/R-KV) · [官网](https://zefan-cai.github.io/R-KV.page/) · 个人维护
 
 **面向推理模型的冗余感知 KV 缓存压缩方法，降显存提吞吐**
 
@@ -46,12 +46,12 @@ NeurIPS 2025 论文 R-KV 的官方实现：在解码时对新生成的 token 先
 ```mermaid
 xychart-beta
     title "Zefan-Cai/R-KV 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1216 --> 1221
-    line [1217, 1218, 1219, 1220, 1220]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 1216 --> 1222
+    line [1217, 1218, 1219, 1220, 1221]
 ```
 
-2026-10-18 1,217 → 2026-10-29 1,220（+3）
+2026-10-18 1,217 → 2026-10-30 1,221（+4）
 
 
 ---

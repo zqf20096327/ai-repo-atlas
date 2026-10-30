@@ -1,6 +1,6 @@
 # doublewordai/control-layer
 
-⭐ 96 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/doublewordai/control-layer) · [官网](https://doublewordai.github.io/control-layer/) · 组织维护
+⭐ 96 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/doublewordai/control-layer) · [官网](https://doublewordai.github.io/control-layer/) · 组织维护
 
 **AI 模型网关：统一路由、鉴权与管理多端点模型访问**
 
@@ -45,12 +45,12 @@ Doubleword 维护的开源 AI 模型网关（dwctl），为跨模型提供商（
 ```mermaid
 xychart-beta
     title "doublewordai/control-layer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-29 96（+0）
+2026-10-18 96 → 2026-10-30 96（+0）
 
 
 ---

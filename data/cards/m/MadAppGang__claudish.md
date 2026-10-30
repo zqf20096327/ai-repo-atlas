@@ -1,6 +1,6 @@
 # MadAppGang/claudish
 
-⭐ 1,011 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/MadAppGang/claudish) · [官网](https://claudish.com) · 组织维护
+⭐ 1,012 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/MadAppGang/claudish) · [官网](https://claudish.com) · 组织维护
 
 **让 Claude Code 接入任意 AI 模型的本地代理 CLI 工具**
 
@@ -45,13 +45,13 @@ Node.js/Bun 的 CLI 工具，通过本地 Anthropic API 兼容代理服务器，
 
 ```mermaid
 xychart-beta
-    title "MadAppGang/claudish 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1005 --> 1012
-    line [1007, 1006, 1007, 1009, 1010, 1011]
+    title "MadAppGang/claudish 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1005 --> 1013
+    line [1007, 1006, 1007, 1009, 1010, 1011, 1012]
 ```
 
-2026-10-18 1,007 → 2026-10-29 1,011（+4）
+2026-10-18 1,007 → 2026-10-30 1,012（+5）
 
 
 ---

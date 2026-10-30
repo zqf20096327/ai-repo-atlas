@@ -1,6 +1,6 @@
 # ricfanin/netwright
 
-⭐ 20 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ricfanin/netwright) · [官网](https://www.nuget.org/packages/Netwright) · 个人维护
+⭐ 21 · C# · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ricfanin/netwright) · [官网](https://www.nuget.org/packages/Netwright) · 个人维护
 
 **MCP 服务器：让 AI agent 查看并操作 .NET 桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ricfanin/netwright 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21]
 ```
 
-2026-10-18 17 → 2026-10-29 20（+3）
+2026-10-18 17 → 2026-10-30 21（+4）
 
 
 ---

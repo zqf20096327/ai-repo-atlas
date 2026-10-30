@@ -1,6 +1,6 @@
 # doordash-oss/agentic-orchestrator
 
-⭐ 117 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/doordash-oss/agentic-orchestrator) · 组织维护
+⭐ 119 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/doordash-oss/agentic-orchestrator) · 组织维护
 
 **面向工程师的 AI 编码工作流编排器：一个目标变监督式 PR**
 
@@ -45,13 +45,13 @@ DoorDash 开源的桌面应用加 agentico CLI，把高层功能描述转化为�
 
 ```mermaid
 xychart-beta
-    title "doordash-oss/agentic-orchestrator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 113 --> 118
-    line [114, 115, 116, 117]
+    title "doordash-oss/agentic-orchestrator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 113 --> 120
+    line [114, 115, 116, 117, 119]
 ```
 
-2026-10-18 114 → 2026-10-29 117（+3）
+2026-10-18 114 → 2026-10-30 119（+5）
 
 
 ---

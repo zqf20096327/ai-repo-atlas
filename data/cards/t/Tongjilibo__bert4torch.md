@@ -1,6 +1,6 @@
 # Tongjilibo/bert4torch
 
-⭐ 1,326 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Tongjilibo/bert4torch) · [官网](https://bert4torch.readthedocs.io/) · 个人维护 · 中文 README
+⭐ 1,327 · Python · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Tongjilibo/bert4torch) · [官网](https://bert4torch.readthedocs.io/) · 个人维护 · 中文 README
 
 **PyTorch 版 transformers 训练框架：加载预训练权重微调与部署 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tongjilibo/bert4torch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 1324 --> 1327
-    line [1325, 1326, 1326]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 1324 --> 1328
+    line [1325, 1326, 1327]
 ```
 
-2026-10-18 1,325 → 2026-10-29 1,326（+1）
+2026-10-18 1,325 → 2026-10-30 1,327（+2）
 
 
 ---

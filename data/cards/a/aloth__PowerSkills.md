@@ -1,6 +1,6 @@
 # aloth/PowerSkills
 
-⭐ 47 · PowerShell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/aloth/PowerSkills) · [官网](https://github.com/aloth/PowerSkills#readme) · 个人维护
+⭐ 48 · PowerShell · MIT · 推送 2026-09-06 · [GitHub](https://github.com/aloth/PowerSkills) · [官网](https://github.com/aloth/PowerSkills#readme) · 个人维护
 
 **给 AI agent 的 Windows PowerShell 技能工具箱：输出结构化 JSON**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aloth/PowerSkills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
     y-axis "stars" 46 --> 49
-    line [47, 48, 47, 47]
+    line [47, 48, 47, 48]
 ```
 
-2026-10-18 47 → 2026-10-29 47（+0）
+2026-10-18 47 → 2026-10-30 48（+1）
 
 
 ---

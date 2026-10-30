@@ -1,6 +1,6 @@
 # autonomous-ai/lampOS
 
-⭐ 508 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
+⭐ 524 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
 
 **让 AI agent 控制实体机器人的开源操作系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "autonomous-ai/lampOS 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 467 --> 511
-    line [470, 477, 486, 489, 493, 496, 500, 508]
+    title "autonomous-ai/lampOS 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 465 --> 529
+    line [470, 477, 486, 489, 493, 496, 500, 508, 524]
 ```
 
-2026-10-18 470 → 2026-10-29 508（+38）
+2026-10-18 470 → 2026-10-30 524（+54）
 
 
 ---

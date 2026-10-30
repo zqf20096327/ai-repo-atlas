@@ -1,6 +1,6 @@
 # Nicolepcx/transformers-the-definitive-guide
 
-⭐ 474 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Nicolepcx/transformers-the-definitive-guide) · 个人维护
+⭐ 476 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Nicolepcx/transformers-the-definitive-guide) · 个人维护
 
 **《Transformers: The Definitive Guide》一书配套代码仓库**
 
@@ -44,13 +44,13 @@ O'Reilly 图书 Transformers - The Definitive Guide 的官方配套代码库：�
 
 ```mermaid
 xychart-beta
-    title "Nicolepcx/transformers-the-definitive-guide 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 469 --> 475
-    line [470, 471, 472, 473, 474]
+    title "Nicolepcx/transformers-the-definitive-guide 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 469 --> 477
+    line [470, 471, 472, 473, 474, 476]
 ```
 
-2026-10-18 470 → 2026-10-29 474（+4）
+2026-10-18 470 → 2026-10-30 476（+6）
 
 
 ---

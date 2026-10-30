@@ -1,6 +1,6 @@
 # walterwhite-69/Miruro-API
 
-⭐ 73 · Python · 推送 2026-07-03 · [GitHub](https://github.com/walterwhite-69/Miruro-API) · 个人维护
+⭐ 72 · Python · 推送 2026-07-03 · [GitHub](https://github.com/walterwhite-69/Miruro-API) · 个人维护
 
 **绕过 Miruro 加密管道的动漫元数据与 M3U8 流地址 Python API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "walterwhite-69/Miruro-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 71 --> 75
-    line [74, 72, 73, 73]
+    line [74, 72, 73, 72]
 ```
 
-2026-10-18 74 → 2026-10-29 73（-1）
+2026-10-18 74 → 2026-10-30 72（-2）
 
 
 ---

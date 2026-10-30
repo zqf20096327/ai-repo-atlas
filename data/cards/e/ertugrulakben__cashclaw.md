@@ -1,6 +1,6 @@
 # ertugrulakben/cashclaw
 
-⭐ 305 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ertugrulakben/cashclaw) · [官网](https://cashclawai.com) · 个人维护
+⭐ 306 · JavaScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ertugrulakben/cashclaw) · [官网](https://cashclawai.com) · 个人维护
 
 **OpenClaw 技能包：让 AI agent 在 HYRVE 市场上接单赚钱并收款**
 
@@ -45,12 +45,12 @@ CashClaw 是一套 13 个 OpenClaw 兼容技能包，插入任意 OpenClaw 型 a
 ```mermaid
 xychart-beta
     title "ertugrulakben/cashclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 303 --> 306
-    line [304, 305, 305]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 303 --> 307
+    line [304, 305, 306]
 ```
 
-2026-10-18 304 → 2026-10-29 305（+1）
+2026-10-18 304 → 2026-10-30 306（+2）
 
 
 ---

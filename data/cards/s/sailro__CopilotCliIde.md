@@ -46,12 +46,12 @@ Visual Studio 扩展，使 GitHub Copilot CLI 能像在 VS Code 中一样通过 
 ```mermaid
 xychart-beta
     title "sailro/CopilotCliIde 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 23 --> 26
     line [25, 24, 24]
 ```
 
-2026-10-18 25 → 2026-10-29 24（-1）
+2026-10-18 25 → 2026-10-30 24（-1）
 
 
 ---

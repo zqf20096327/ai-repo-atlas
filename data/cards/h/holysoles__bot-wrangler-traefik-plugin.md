@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "holysoles/bot-wrangler-traefik-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
+    title "holysoles/bot-wrangler-traefik-plugin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20]
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-18 17 → 2026-10-29 20（+3）
+2026-10-18 17 → 2026-10-30 20（+3）
 
 
 ---

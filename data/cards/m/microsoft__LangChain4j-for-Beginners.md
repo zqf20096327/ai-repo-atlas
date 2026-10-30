@@ -1,6 +1,6 @@
 # microsoft/LangChain4j-for-Beginners
 
-⭐ 548 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/LangChain4j-for-Beginners) · 组织维护
+⭐ 549 · Java · MIT · 推送 2026-10-08 · [GitHub](https://github.com/microsoft/LangChain4j-for-Beginners) · 组织维护
 
 **微软出品的 LangChain4j 入门课程：从基础聊天到 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/LangChain4j-for-Beginners 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 535 --> 549
-    line [536, 543, 545, 546, 547, 546, 547, 548]
+    title "microsoft/LangChain4j-for-Beginners 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 535 --> 550
+    line [536, 543, 545, 546, 547, 546, 547, 548, 549]
 ```
 
-2026-10-18 536 → 2026-10-29 548（+12）
+2026-10-18 536 → 2026-10-30 549（+13）
 
 
 ---

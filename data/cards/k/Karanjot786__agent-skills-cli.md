@@ -1,6 +1,6 @@
 # Karanjot786/agent-skills-cli
 
-⭐ 195 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Karanjot786/agent-skills-cli) · [官网](https://www.npmjs.com/package/agent-skills-cli) · 个人维护
+⭐ 194 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Karanjot786/agent-skills-cli) · [官网](https://www.npmjs.com/package/agent-skills-cli) · 个人维护
 
 **跨 45 个编码 agent 统一安装管理 AI 技能的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Karanjot786/agent-skills-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 191 --> 196
-    line [192, 194, 195, 195]
+    line [192, 194, 195, 194]
 ```
 
-2026-10-18 192 → 2026-10-29 195（+3）
+2026-10-18 192 → 2026-10-30 194（+2）
 
 
 ---

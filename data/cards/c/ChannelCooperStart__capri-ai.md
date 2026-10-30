@@ -1,6 +1,6 @@
 # ChannelCooperStart/capri-ai
 
-⭐ 382 · 推送 2026-10-27 · [GitHub](https://github.com/ChannelCooperStart/capri-ai) · 个人维护
+⭐ 371 · 推送 2026-10-29 · [GitHub](https://github.com/ChannelCooperStart/capri-ai) · 个人维护
 
 **赛博朋克风格桌面 AI agent 客户端：统一接入 Claude Code 等助手**
 
@@ -40,6 +40,18 @@
 > L17: Under the hood, Capri is a desktop interface and agent layer on top of the AI assistants you already use. It works 
 > L97: 1. **You describe the goal** in plain language.
 > L106: |Claude Code|✅ Supported|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ChannelCooperStart/capri-ai 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 370 --> 383
+    line [382, 371]
+```
+
+2026-10-29 382 → 2026-10-30 371（-11）
 
 
 ---

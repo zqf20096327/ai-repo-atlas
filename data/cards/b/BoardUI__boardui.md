@@ -1,6 +1,6 @@
 # BoardUI/boardui
 
-⭐ 669 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
+⭐ 675 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
 
 **面向 AI 产品的 React 组件设计系统，含自带模型 Key 的聊天应用首页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BoardUI/boardui 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 627 --> 672
-    line [630, 634, 643, 646, 661, 664, 666, 669]
+    title "BoardUI/boardui 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 626 --> 679
+    line [630, 634, 643, 646, 661, 664, 666, 669, 675]
 ```
 
-2026-10-18 630 → 2026-10-29 669（+39）
+2026-10-18 630 → 2026-10-30 675（+45）
 
 
 ---

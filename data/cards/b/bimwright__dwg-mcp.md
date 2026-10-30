@@ -1,6 +1,6 @@
 # bimwright/dwg-mcp
 
-⭐ 20 · C# · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/bimwright/dwg-mcp) · 组织维护 · 中文 README
+⭐ 22 · C# · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/bimwright/dwg-mcp) · 组织维护 · 中文 README
 
 **AutoCAD 2022-2027 的本地 MCP 网关：让 AI 代理读写翻译图纸文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bimwright/dwg-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 13 --> 21
-    line [14, 15, 14, 18, 19, 20]
+    title "bimwright/dwg-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 13 --> 23
+    line [14, 15, 14, 18, 19, 20, 22]
 ```
 
-2026-10-18 14 → 2026-10-29 20（+6）
+2026-10-18 14 → 2026-10-30 22（+8）
 
 
 ---

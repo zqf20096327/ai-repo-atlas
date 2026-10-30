@@ -1,6 +1,6 @@
 # yantrikos/chronicler
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yantrikos/chronicler) · [官网](https://github.com/yantrikos/chronicler) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/yantrikos/chronicler) · [官网](https://github.com/yantrikos/chronicler) · 组织维护
 
 **自托管 AI 角色扮演客户端：带跨会话持久记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yantrikos/chronicler 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 17, 19]
 ```
 
-2026-10-18 15 → 2026-10-29 17（+2）
+2026-10-18 15 → 2026-10-30 19（+4）
 
 
 ---

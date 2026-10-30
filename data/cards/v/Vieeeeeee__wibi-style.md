@@ -1,6 +1,6 @@
 # Vieeeeeee/wibi-style
 
-⭐ 173 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Vieeeeeee/wibi-style) · [官网](https://style.abdc.online) · 个人维护 · 中文 README
+⭐ 180 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Vieeeeeee/wibi-style) · [官网](https://style.abdc.online) · 个人维护 · 中文 README
 
 **给 OpenAI Codex 用户的 41 种照片转艺术画风格技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vieeeeeee/wibi-style 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 165 --> 174
-    line [166, 167, 168, 169, 170, 171, 172, 173, 173]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 165 --> 181
+    line [166, 167, 168, 169, 170, 171, 172, 173, 180]
 ```
 
-2026-10-18 166 → 2026-10-29 173（+7）
+2026-10-18 166 → 2026-10-30 180（+14）
 
 
 ---

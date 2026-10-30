@@ -1,6 +1,6 @@
 # AIPMAndy/PPTskill
 
-⭐ 40 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/PPTskill) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/PPTskill) · 个人维护 · 中文 README
 
 **基于 ppt-master 的 AI 生成原生可编辑 PPTX 技能工具**
 
@@ -46,12 +46,12 @@ hugohe3/ppt-master 的分支，通过 AI 编辑器（Claude Code、Cursor、Open
 ```mermaid
 xychart-beta
     title "AIPMAndy/PPTskill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-10-29 40（+1）
+2026-10-18 39 → 2026-10-30 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ATASTECH/pitroom
 
-⭐ 29 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ATASTECH/pitroom) · [官网](https://www.npmjs.com/package/pitroom) · 组织维护
+⭐ 51 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ATASTECH/pitroom) · [官网](https://www.npmjs.com/package/pitroom) · 组织维护
 
 **给编码 agent 配的并行低成本工作小组：省 token、带审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ATASTECH/pitroom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 22 --> 53
+    line [24, 25, 26, 27, 28, 29, 51]
 ```
 
-2026-10-18 24 → 2026-10-29 29（+5）
+2026-10-18 24 → 2026-10-30 51（+27）
 
 
 ---

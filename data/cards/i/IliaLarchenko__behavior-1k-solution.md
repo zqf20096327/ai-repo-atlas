@@ -1,6 +1,6 @@
 # IliaLarchenko/behavior-1k-solution
 
-⭐ 346 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/IliaLarchenko/behavior-1k-solution) · [官网](https://robot-learning-collective.github.io/winning-behavior-1k-challenge) · 组织维护
+⭐ 347 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/IliaLarchenko/behavior-1k-solution) · [官网](https://robot-learning-collective.github.io/winning-behavior-1k-challenge) · 组织维护
 
 **2025 BEHAVIOR 挑战赛冠军方案：基于 Pi0.5 的机器人操作策略训练与评测代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IliaLarchenko/behavior-1k-solution 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 341 --> 347
-    line [342, 343, 344, 346]
+    title "IliaLarchenko/behavior-1k-solution 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 341 --> 348
+    line [342, 343, 344, 346, 347]
 ```
 
-2026-10-18 342 → 2026-10-29 346（+4）
+2026-10-18 342 → 2026-10-30 347（+5）
 
 
 ---

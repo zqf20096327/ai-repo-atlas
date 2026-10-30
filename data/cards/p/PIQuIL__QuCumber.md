@@ -1,6 +1,6 @@
 # PIQuIL/QuCumber
 
-⭐ 177 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/PIQuIL/QuCumber) · [官网](https://qucumber.readthedocs.io/) · 组织维护
+⭐ 177 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/PIQuIL/QuCumber) · [官网](https://qucumber.readthedocs.io/) · 组织维护
 
 **用受限玻尔兹曼机从测量数据重构多体量子波函数**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PIQuIL/QuCumber 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-10-29 177（+0）
+2026-10-18 177 → 2026-10-30 177（+0）
 
 
 ---

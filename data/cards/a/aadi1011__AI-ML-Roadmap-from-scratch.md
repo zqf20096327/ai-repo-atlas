@@ -1,6 +1,6 @@
 # aadi1011/AI-ML-Roadmap-from-scratch
 
-⭐ 4,277 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) · [官网](https://aadi1011.github.io/AI-ML-Roadmap-from-scratch/) · 个人维护
+⭐ 4,281 · MIT · 推送 2026-08-12 · [GitHub](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch) · [官网](https://aadi1011.github.io/AI-ML-Roadmap-from-scratch/) · 个人维护
 
 **AI/ML 从零到进阶的免费学习资源路线图清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aadi1011/AI-ML-Roadmap-from-scratch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4247 --> 4279
-    line [4249, 4250, 4252, 4261, 4270, 4272, 4273, 4277]
+    title "aadi1011/AI-ML-Roadmap-from-scratch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4246 --> 4284
+    line [4249, 4250, 4252, 4261, 4270, 4272, 4273, 4277, 4281]
 ```
 
-2026-10-18 4,249 → 2026-10-29 4,277（+28）
+2026-10-18 4,249 → 2026-10-30 4,281（+32）
 
 
 ---

@@ -46,12 +46,12 @@ AtlasOmnia Hermes Agent 工具集的一部分，提供三类可审查的自主 a
 ```mermaid
 xychart-beta
     title "AtlasOmnia/hermes-loops 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-28 31 → 2026-10-29 31（+0）
+2026-10-28 31 → 2026-10-30 31（+0）
 
 
 ---

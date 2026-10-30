@@ -1,6 +1,6 @@
 # utkuozdemir/nvidia_gpu_exporter
 
-⭐ 1,575 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/utkuozdemir/nvidia_gpu_exporter) · 个人维护
+⭐ 1,574 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/utkuozdemir/nvidia_gpu_exporter) · 个人维护
 
 **基于 nvidia-smi/NVML 的 NVIDIA GPU Prometheus 指标导出器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "utkuozdemir/nvidia_gpu_exporter 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "utkuozdemir/nvidia_gpu_exporter 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1567 --> 1577
-    line [1568, 1569, 1570, 1571, 1572, 1575, 1576, 1575]
+    line [1568, 1569, 1570, 1571, 1572, 1575, 1576, 1575, 1574]
 ```
 
-2026-10-18 1,568 → 2026-10-29 1,575（+7）
+2026-10-18 1,568 → 2026-10-30 1,574（+6）
 
 
 ---

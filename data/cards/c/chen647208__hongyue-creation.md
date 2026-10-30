@@ -1,6 +1,6 @@
 # chen647208/hongyue-creation
 
-⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/chen647208/hongyue-creation) · [官网](https://chen647208.github.io/hongyue-creation/) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/chen647208/hongyue-creation) · [官网](https://chen647208.github.io/hongyue-creation/) · 个人维护 · 中文 README
 
 **本地优先的小说创作桌面应用：纯写作完整可用，AI 为增强层**
 
@@ -46,12 +46,12 @@ Electron + React + TypeScript 桌面写作工具，覆盖灵感、世界构建�
 ```mermaid
 xychart-beta
     title "chen647208/hongyue-creation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 32（+0）
 
 
 ---

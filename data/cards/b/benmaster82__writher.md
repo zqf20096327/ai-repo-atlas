@@ -1,6 +1,6 @@
 # benmaster82/writher
 
-⭐ 88 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/benmaster82/writher) · [官网](https://getwrither.com/) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/benmaster82/writher) · [官网](https://getwrither.com/) · 个人维护
 
 **Windows 离线语音听写与语音助手：全本地运行，无云无遥测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benmaster82/writher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-29 88（+0）
+2026-10-18 88 → 2026-10-30 89（+1）
 
 
 ---

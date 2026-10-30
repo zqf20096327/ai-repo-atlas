@@ -1,6 +1,6 @@
 # PVRLabs/aibadger
 
-⭐ 78 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/PVRLabs/aibadger) · [官网](https://pvrlabs.xyz/aibadger/) · 组织维护
+⭐ 79 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PVRLabs/aibadger) · [官网](https://pvrlabs.xyz/aibadger/) · 组织维护
 
 **为 AI 聊天准备聚焦仓库上下文的本地 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PVRLabs/aibadger 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 50 --> 80
-    line [52, 71, 76, 77, 78, 77, 78]
+    title "PVRLabs/aibadger 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 50 --> 81
+    line [52, 71, 76, 77, 78, 77, 78, 79]
 ```
 
-2026-10-18 52 → 2026-10-29 78（+26）
+2026-10-18 52 → 2026-10-30 79（+27）
 
 
 ---

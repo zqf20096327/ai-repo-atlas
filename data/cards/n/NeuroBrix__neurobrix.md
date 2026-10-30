@@ -1,6 +1,6 @@
 # NeuroBrix/neurobrix
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NeuroBrix/neurobrix) · [官网](https://neurobrix.es) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NeuroBrix/neurobrix) · [官网](https://neurobrix.es) · 组织维护
 
 **多模态模型推理引擎：一种容器格式运行语言/语音/图像/视频模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NeuroBrix/neurobrix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-29 49（+0）
+2026-10-18 49 → 2026-10-30 49（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # khuyentran1401/awesome-Python-data-science-books
 
-⭐ 440 · 推送 2025-11-02 · [GitHub](https://github.com/khuyentran1401/awesome-Python-data-science-books) · [官网](https://khuyentran1401.github.io/awesome-Python-data-science-books/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Python 数据科学书籍策展清单（awesome-list）**
 

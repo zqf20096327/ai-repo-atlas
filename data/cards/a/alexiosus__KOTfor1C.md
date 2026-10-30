@@ -1,6 +1,6 @@
 # alexiosus/KOTfor1C
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/alexiosus/KOTfor1C) · [官网](https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alexiosus/KOTfor1C) · [官网](https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit) · 个人维护
 
 **1C 自动化测试的 VS Code 扩展，含 AI 辅助功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexiosus/KOTfor1C 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-29 46（+0）
+2026-10-18 46 → 2026-10-30 46（+0）
 
 
 ---

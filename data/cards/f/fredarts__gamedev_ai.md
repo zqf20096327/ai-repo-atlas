@@ -1,6 +1,6 @@
 # fredarts/gamedev_ai
 
-⭐ 41 · GDScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fredarts/gamedev_ai) · [官网](https://fredarts.github.io/gamedev_ai/) · 个人维护
+⭐ 42 · GDScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fredarts/gamedev_ai) · [官网](https://fredarts.github.io/gamedev_ai/) · 个人维护
 
 **Godot 4.7+ 编辑器 AI 编程助手插件，辅助游戏开发**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "fredarts/gamedev_ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 36 --> 42
-    line [37, 38, 40, 41]
+    title "fredarts/gamedev_ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 36 --> 43
+    line [37, 38, 40, 41, 42]
 ```
 
-2026-10-18 37 → 2026-10-29 41（+4）
+2026-10-18 37 → 2026-10-30 42（+5）
 
 
 ---

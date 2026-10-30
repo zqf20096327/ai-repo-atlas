@@ -1,6 +1,6 @@
 # gonnafaraway/kaiban
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/gonnafaraway/kaiban) · 个人维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/gonnafaraway/kaiban) · 个人维护
 
 **面向单人开发者的本地 AI agent 看板：每列一个角色 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gonnafaraway/kaiban 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 15 --> 18
-    line [17, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 15 --> 19
+    line [17, 16, 17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

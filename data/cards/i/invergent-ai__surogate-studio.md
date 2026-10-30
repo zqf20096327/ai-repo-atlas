@@ -1,6 +1,6 @@
 # invergent-ai/surogate-studio
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/invergent-ai/surogate-studio) · [官网](https://www.invergent.ai/surogate) · 组织维护
+⭐ 19 · Java · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/invergent-ai/surogate-studio) · [官网](https://www.invergent.ai/surogate) · 组织维护
 
 **企业级 LLMOps 平台：LLM 部署、微调、评测一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "invergent-ai/surogate-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

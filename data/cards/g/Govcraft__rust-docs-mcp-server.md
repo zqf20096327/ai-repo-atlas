@@ -1,6 +1,6 @@
 # Govcraft/rust-docs-mcp-server
 
-⭐ 299 · Rust · MIT · 推送 2025-11-24 · [GitHub](https://github.com/Govcraft/rust-docs-mcp-server) · 个人维护
+⭐ 300 · Rust · MIT · 推送 2025-11-24 · [GitHub](https://github.com/Govcraft/rust-docs-mcp-server) · 个人维护
 
 **为 Rust crate 提供实时文档问答的 MCP 服务器，供 AI 编码助手调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Govcraft/rust-docs-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 297 --> 300
-    line [298, 299, 299]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 297 --> 301
+    line [298, 299, 300]
 ```
 
-2026-10-18 298 → 2026-10-29 299（+1）
+2026-10-18 298 → 2026-10-30 300（+2）
 
 
 ---

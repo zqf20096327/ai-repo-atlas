@@ -1,6 +1,6 @@
 # Barca0412/Introduction-to-Quantitative-Finance
 
-⭐ 1,845 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) · [官网](https://barca0412.github.io/Introduction-to-Quantitative-Finance/) · 组织维护 · 中文 README
+⭐ 1,848 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) · [官网](https://barca0412.github.io/Introduction-to-Quantitative-Finance/) · 组织维护 · 中文 README
 
 **面向量化学习者的中文知识库：教程、资源地图与 AI+金融论文雷达**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Barca0412/Introduction-to-Quantitative-Finance 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1814 --> 1847
-    line [1816, 1825, 1831, 1834, 1836, 1842, 1845, 1845]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1813 --> 1851
+    line [1816, 1825, 1831, 1834, 1836, 1842, 1845, 1848]
 ```
 
-2026-10-18 1,816 → 2026-10-29 1,845（+29）
+2026-10-18 1,816 → 2026-10-30 1,848（+32）
 
 
 ---

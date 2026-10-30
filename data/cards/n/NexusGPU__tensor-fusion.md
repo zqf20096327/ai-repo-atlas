@@ -1,6 +1,6 @@
 # NexusGPU/tensor-fusion
 
-⭐ 169 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NexusGPU/tensor-fusion) · [官网](https://tensor-fusion.ai) · 组织维护 · 中文 README
+⭐ 170 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NexusGPU/tensor-fusion) · [官网](https://tensor-fusion.ai) · 组织维护 · 中文 README
 
 **面向 Kubernetes 的 GPU 虚拟化与池化调度方案，给运维 GPU 集群的团队**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NexusGPU/tensor-fusion 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 167 --> 170
-    line [168, 169, 169]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 167 --> 171
+    line [168, 169, 170]
 ```
 
-2026-10-18 168 → 2026-10-29 169（+1）
+2026-10-18 168 → 2026-10-30 170（+2）
 
 
 ---

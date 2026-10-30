@@ -1,6 +1,6 @@
 # vicharak-in/Axon-NPU-Guide
 
-⭐ 38 · Shell · 推送 2026-09-24 · [GitHub](https://github.com/vicharak-in/Axon-NPU-Guide) · 组织维护
+⭐ 38 · Shell · 推送 2026-10-29 · [GitHub](https://github.com/vicharak-in/Axon-NPU-Guide) · 组织维护
 
 **在 Axon SBC 的 NPU 上运行 AI 模型的工具链配置指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vicharak-in/Axon-NPU-Guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-29 38（+1）
+2026-10-18 37 → 2026-10-30 38（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hanzohanzhe/Grandet
 
-⭐ 926 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 组织维护 · 中文 README
+⭐ 994 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 组织维护 · 中文 README
 
 **为 AI agent 查找并接入各渠道最低价模型 API 的技能与 MCP 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanzohanzhe/Grandet 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 199 --> 992
-    line [265, 446, 559, 609, 664, 712, 769, 828, 871, 926]
+    title "hanzohanzhe/Grandet 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 193 --> 1066
+    line [265, 446, 559, 609, 664, 712, 769, 828, 871, 926, 994]
 ```
 
-2026-10-18 265 → 2026-10-29 926（+661）
+2026-10-18 265 → 2026-10-30 994（+729）
 
 
 ---

@@ -1,6 +1,6 @@
 # ArcadeAI/arcade-mcp
 
-⭐ 1,061 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ArcadeAI/arcade-mcp) · [官网](https://docs.arcade.dev) · 组织维护
+⭐ 1,065 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ArcadeAI/arcade-mcp) · [官网](https://docs.arcade.dev) · 组织维护
 
 **Python 框架：构建 MCP 服务器与授权工具调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArcadeAI/arcade-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1052 --> 1062
-    line [1053, 1054, 1056, 1058, 1060, 1061]
+    title "ArcadeAI/arcade-mcp 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1052 --> 1066
+    line [1053, 1054, 1056, 1058, 1060, 1061, 1065]
 ```
 
-2026-10-18 1,053 → 2026-10-29 1,061（+8）
+2026-10-18 1,053 → 2026-10-30 1,065（+12）
 
 
 ---

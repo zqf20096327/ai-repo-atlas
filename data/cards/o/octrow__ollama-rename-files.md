@@ -1,6 +1,6 @@
 # octrow/ollama-rename-files
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/octrow/ollama-rename-files) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/octrow/ollama-rename-files) · 个人维护
 
 **用本地 Ollama 模型按内容重命名散乱文本文件的 CLI 与桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "octrow/ollama-rename-files 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 45 --> 48
     line [47, 46, 46]
 ```
 
-2026-10-18 47 → 2026-10-29 46（-1）
+2026-10-18 47 → 2026-10-30 46（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xlang-ai/OpenAgents
 
-⭐ 4,865 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xlang-ai/OpenAgents) · [官网](https://arxiv.org/abs/2310.10634) · 组织维护
+⭐ 4,867 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/xlang-ai/OpenAgents) · [官网](https://arxiv.org/abs/2310.10634) · 组织维护
 
 **面向普通用户的语言 Agent 开放平台：数据分析/插件/浏览网页三类 Agent**
 
@@ -41,6 +41,18 @@ COLM 2024 论文配套的开源平台，实现三个可通过 Chat 网页 UI 直
 > L42: We built OpenAgents, an open platform for using and hosting language agents in the wild of everyday life.
 > L44: We have now implemented three agents in OpenAgents, and we host them on demo for free use!
 > L56: OpenAgents enables general users to interact with agent functionalities through a web UI optimized for swift respon
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xlang-ai/OpenAgents 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 4864 --> 4868
+    line [4865, 4867]
+```
+
+2026-10-29 4,865 → 2026-10-30 4,867（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # steven2358/awesome-blockchain-ai
 
-⭐ 1,158 · 推送 2026-02-06 · [GitHub](https://github.com/steven2358/awesome-blockchain-ai) · 个人维护
+⭐ 1,159 · 推送 2026-02-06 · [GitHub](https://github.com/steven2358/awesome-blockchain-ai) · 个人维护
 
 **区块链×AI 项目策展清单：收录去中心化 AI 相关项目与论文**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "steven2358/awesome-blockchain-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1156 --> 1159
-    line [1157, 1158, 1158]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1156 --> 1160
+    line [1157, 1158, 1159]
 ```
 
-2026-10-18 1,157 → 2026-10-29 1,158（+1）
+2026-10-18 1,157 → 2026-10-30 1,159（+2）
 
 
 ---

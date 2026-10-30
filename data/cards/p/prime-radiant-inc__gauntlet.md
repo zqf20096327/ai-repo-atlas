@@ -45,12 +45,12 @@ AI 驱动的 QA 测试框架：用户以 markdown story card（标题+描述+验
 ```mermaid
 xychart-beta
     title "prime-radiant-inc/gauntlet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-29 60（+0）
+2026-10-18 60 → 2026-10-30 60（+0）
 
 
 ---

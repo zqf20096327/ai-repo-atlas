@@ -1,6 +1,6 @@
 # kaplanelad/shellfirm
 
-⭐ 949 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/kaplanelad/shellfirm) · [官网](https://shellfirm.vercel.app/) · 个人维护
+⭐ 950 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kaplanelad/shellfirm) · [官网](https://shellfirm.vercel.app/) · 个人维护
 
 **终端危险命令拦截工具，同时守护 AI 编码代理与人类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaplanelad/shellfirm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 945 --> 950
-    line [946, 948, 949, 949]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 945 --> 951
+    line [946, 948, 949, 950]
 ```
 
-2026-10-18 946 → 2026-10-29 949（+3）
+2026-10-18 946 → 2026-10-30 950（+4）
 
 
 ---

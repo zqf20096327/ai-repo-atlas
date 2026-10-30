@@ -1,6 +1,6 @@
 # weaviate/weaviate-chaos-engineering
 
-⭐ 22 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/weaviate/weaviate-chaos-engineering) · 组织维护
+⭐ 22 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/weaviate/weaviate-chaos-engineering) · 组织维护
 
 **Weaviate 向量数据库的混沌工程 CI 测试管线**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-chaos-engineering 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

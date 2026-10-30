@@ -1,6 +1,6 @@
 # bandr-ai/vektori
 
-⭐ 137 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/bandr-ai/vektori) · [官网](https://vektori.cloud) · 组织维护
+⭐ 138 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/bandr-ai/vektori) · [官网](https://vektori.cloud) · 组织维护
 
 **给 AI agent 的三层记忆库：事实/情节/原句一层图存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bandr-ai/vektori 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 136 --> 139
+    line [137, 138]
 ```
 
-2026-10-18 137 → 2026-10-29 137（+0）
+2026-10-18 137 → 2026-10-30 138（+1）
 
 
 ---

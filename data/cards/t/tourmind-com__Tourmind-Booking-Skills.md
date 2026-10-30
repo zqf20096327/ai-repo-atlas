@@ -1,6 +1,6 @@
 # tourmind-com/Tourmind-Booking-Skills
 
-⭐ 2,387 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tourmind-com/Tourmind-Booking-Skills) · [官网](https://tourmind.com/skills) · 组织维护 · 中文 README
+⭐ 2,388 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/tourmind-com/Tourmind-Booking-Skills) · [官网](https://tourmind.com/skills) · 组织维护 · 中文 README
 
 **让 AI Agent 完成酒店与机票搜索、比价、预订与支付的技能包**
 
@@ -44,13 +44,13 @@ TourMind 维护的 Agent Skills 仓库：为支持 Skills 的 Agent 客户端（
 
 ```mermaid
 xychart-beta
-    title "tourmind-com/Tourmind-Booking-Skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2048 --> 2417
-    line [2078, 2153, 2223, 2264, 2304, 2336, 2375, 2385, 2387]
+    title "tourmind-com/Tourmind-Booking-Skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2047 --> 2419
+    line [2078, 2153, 2223, 2264, 2304, 2336, 2375, 2385, 2387, 2388]
 ```
 
-2026-10-18 2,078 → 2026-10-29 2,387（+309）
+2026-10-18 2,078 → 2026-10-30 2,388（+310）
 
 
 ---

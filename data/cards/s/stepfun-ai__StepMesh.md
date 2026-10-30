@@ -1,6 +1,6 @@
 # stepfun-ai/StepMesh
 
-⭐ 390 · C++ · Apache-2.0 · 推送 2026-01-28 · [GitHub](https://github.com/stepfun-ai/StepMesh) · 组织维护 · 中文 README
+⭐ 391 · C++ · Apache-2.0 · 推送 2026-01-28 · [GitHub](https://github.com/stepfun-ai/StepMesh) · 组织维护 · 中文 README
 
 **Attention-FFN 分离架构的高性能低延迟通信库**
 
@@ -46,12 +46,12 @@ StepFun 开发的分布式通信库，服务于 Attention-FFN 解耦（分离式
 ```mermaid
 xychart-beta
     title "stepfun-ai/StepMesh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 388 --> 391
-    line [389, 390, 390]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 388 --> 392
+    line [389, 390, 391]
 ```
 
-2026-10-18 389 → 2026-10-29 390（+1）
+2026-10-18 389 → 2026-10-30 391（+2）
 
 
 ---

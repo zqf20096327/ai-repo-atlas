@@ -1,6 +1,6 @@
 # denuwanpro/removebanana
 
-⭐ 44 · JavaScript · MIT · 推送 2026-03-08 · [GitHub](https://github.com/denuwanpro/removebanana) · [官网](https://removebanana.eu.cc) · 个人维护
+⭐ 45 · JavaScript · MIT · 推送 2026-03-08 · [GitHub](https://github.com/denuwanpro/removebanana) · [官网](https://removebanana.eu.cc) · 个人维护
 
 **npm 库：用逆 alpha 混合数学移除 Gemini 图像的 SynthID 水印**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "denuwanpro/removebanana 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45]
 ```
 
-2026-10-18 43 → 2026-10-29 44（+1）
+2026-10-18 43 → 2026-10-30 45（+2）
 
 
 ---

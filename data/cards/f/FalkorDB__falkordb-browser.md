@@ -1,6 +1,6 @@
 # FalkorDB/falkordb-browser
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/FalkorDB/falkordb-browser) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 137 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/FalkorDB/falkordb-browser) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的可视化管理界面（含 AI 修错）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FalkorDB/falkordb-browser 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 133 --> 138
     line [134, 135, 136, 137, 137]
 ```
 
-2026-10-18 134 → 2026-10-29 137（+3）
+2026-10-18 134 → 2026-10-30 137（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-go
 
-⭐ 1,234 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
+⭐ 1,235 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/anthropic-sdk-go) · 组织维护
 
 **Anthropic 官方 Go SDK：从 Go 应用调用 Claude API**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-go 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1222 --> 1235
-    line [1223, 1224, 1230, 1231, 1232, 1233, 1232, 1234]
+    title "anthropics/anthropic-sdk-go 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1222 --> 1236
+    line [1223, 1224, 1230, 1231, 1232, 1233, 1232, 1234, 1235]
 ```
 
-2026-10-18 1,223 → 2026-10-29 1,234（+11）
+2026-10-18 1,223 → 2026-10-30 1,235（+12）
 
 
 ---

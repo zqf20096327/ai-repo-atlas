@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opencoredev/sandbox-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "opencoredev/sandbox-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 77 --> 80
-    line [79, 78]
+    line [79, 78, 78]
 ```
 
-2026-10-18 79 → 2026-10-29 78（-1）
+2026-10-18 79 → 2026-10-30 78（-1）
 
 
 ---

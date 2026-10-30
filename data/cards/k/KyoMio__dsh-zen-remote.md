@@ -1,6 +1,6 @@
 # KyoMio/dsh-zen-remote
 
-⭐ 22 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/KyoMio/dsh-zen-remote) · [官网](https://www.npmjs.com/package/dsh-zen-remote) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/KyoMio/dsh-zen-remote) · [官网](https://www.npmjs.com/package/dsh-zen-remote) · 个人维护 · 中文 README
 
 **让手机与另一台电脑远程使用 DeepSeek Harness 的双角色插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）插件，一个插件两种角色：宿主端将 DSH �
 ```mermaid
 xychart-beta
     title "KyoMio/dsh-zen-remote 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 16 --> 23
-    line [17, 18, 19, 20, 22, 22]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 19, 20, 22, 23]
 ```
 
-2026-10-18 17 → 2026-10-29 22（+5）
+2026-10-18 17 → 2026-10-30 23（+6）
 
 
 ---

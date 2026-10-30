@@ -44,12 +44,12 @@ deepset 维护的 Haystack 集成条目索引：收录社区或 deepset 团队�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-integrations 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-29 115（+0）
+2026-10-18 115 → 2026-10-30 115（+0）
 
 
 ---

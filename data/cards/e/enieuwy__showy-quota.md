@@ -1,6 +1,6 @@
 # enieuwy/showy-quota
 
-⭐ 26 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/enieuwy/showy-quota) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/enieuwy/showy-quota) · 个人维护
 
 **在 SketchyBar/Zellij/tmux 常驻显示 AI 套餐配额的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "enieuwy/showy-quota 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-29 26（+1）
+2026-10-18 25 → 2026-10-30 26（+1）
 
 
 ---

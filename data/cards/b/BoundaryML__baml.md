@@ -1,6 +1,6 @@
 # BoundaryML/baml
 
-⭐ 9,452 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/BoundaryML/baml) · [官网](https://boundaryml.com/explore) · 组织维护
+⭐ 9,453 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/BoundaryML/baml) · [官网](https://boundaryml.com/explore) · 组织维护
 
 **面向 agent 的编程语言，类型系统约束 LLM 输出**
 
@@ -44,13 +44,13 @@ BoundaryML 开发的领域语言，语法类似 TypeScript，用于编写 agent 
 
 ```mermaid
 xychart-beta
-    title "BoundaryML/baml 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 9414 --> 9455
-    line [9417, 9423, 9428, 9430, 9433, 9449, 9451, 9452]
+    title "BoundaryML/baml 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 9414 --> 9456
+    line [9417, 9423, 9428, 9430, 9433, 9449, 9451, 9452, 9453]
 ```
 
-2026-10-18 9,417 → 2026-10-29 9,452（+35）
+2026-10-18 9,417 → 2026-10-30 9,453（+36）
 
 
 ---

@@ -40,6 +40,18 @@
 > L15: TrashClaw is a tool-use agent. You describe a task, the LLM decides what tools to call, sees the results, and itera
 > L97: - **Auto-detects backend**: llama.cpp, Ollama, LM Studio, any OpenAI-compatible
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/trashclaw 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 74 --> 76
+    line [75, 75]
+```
+
+2026-10-29 75 → 2026-10-30 75（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `d072260e460e` · [字段定义](../../DATASET.md)*

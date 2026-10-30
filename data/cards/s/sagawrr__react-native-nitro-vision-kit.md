@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sagawrr/react-native-nitro-vision-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-29 58（+0）
+2026-10-18 58 → 2026-10-30 58（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # amitshekhariitbhu/llm-internals
 
-⭐ 1,771 · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 1,772 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **LLM 内部原理的分步学习资源清单（博客+视频）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/llm-internals 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1755 --> 1772
-    line [1756, 1762, 1767, 1768, 1770, 1771]
+    title "amitshekhariitbhu/llm-internals 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1755 --> 1773
+    line [1756, 1762, 1767, 1768, 1770, 1771, 1772]
 ```
 
-2026-10-18 1,756 → 2026-10-29 1,771（+15）
+2026-10-18 1,756 → 2026-10-30 1,772（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0xchamin/mcptube
 
-⭐ 163 · Python · 推送 2026-04-13 · [GitHub](https://github.com/0xchamin/mcptube) · [官网](https://0xchamin.github.io/mcptube/) · 个人维护
+⭐ 164 · Python · 推送 2026-04-13 · [GitHub](https://github.com/0xchamin/mcptube) · [官网](https://0xchamin.github.io/mcptube/) · 个人维护
 
 **将 YouTube 视频转为可复利积累的知识库的 MCP 服务器**
 
@@ -46,12 +46,12 @@ mcptube-vision 把 YouTube 视频转化为持久化结构化 wiki：摄取时提
 ```mermaid
 xychart-beta
     title "0xchamin/mcptube 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 161 --> 164
-    line [162, 163, 162, 163, 163]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 161 --> 165
+    line [162, 163, 162, 163, 164]
 ```
 
-2026-10-18 162 → 2026-10-29 163（+1）
+2026-10-18 162 → 2026-10-30 164（+2）
 
 
 ---

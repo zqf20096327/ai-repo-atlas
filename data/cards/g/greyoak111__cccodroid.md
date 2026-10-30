@@ -1,6 +1,6 @@
 # greyoak111/cccodroid
 
-⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/greyoak111/cccodroid) · [官网](https://cccodroid.net) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/greyoak111/cccodroid) · [官网](https://cccodroid.net) · 个人维护 · 中文 README
 
 **在 Android 手机上原生运行 Claude Code 的开发启动器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "greyoak111/cccodroid 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 19 --> 29
-    line [20, 23, 24, 26, 28]
+    title "greyoak111/cccodroid 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 31
+    line [20, 23, 24, 26, 28, 30]
 ```
 
-2026-10-25 20 → 2026-10-29 28（+8）
+2026-10-25 20 → 2026-10-30 30（+10）
 
 
 ---

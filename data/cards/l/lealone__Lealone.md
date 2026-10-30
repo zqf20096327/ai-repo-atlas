@@ -1,6 +1,6 @@
 # lealone/Lealone
 
-⭐ 2,588 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/lealone/Lealone) · 组织维护 · 中文 README
+⭐ 2,589 · Java · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/lealone/Lealone) · 组织维护 · 中文 README
 
 **带 AI Agent 的全栈数据库：自然语言生成并运行应用**
 
@@ -45,12 +45,12 @@ Lealone 是一个 NewSQL 数据库项目，8.0 版本加入自进化通用智能
 ```mermaid
 xychart-beta
     title "lealone/Lealone 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 2586 --> 2589
-    line [2588, 2587, 2588, 2588]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 2586 --> 2590
+    line [2588, 2587, 2588, 2589]
 ```
 
-2026-10-18 2,588 → 2026-10-29 2,588（+0）
+2026-10-18 2,588 → 2026-10-30 2,589（+1）
 
 
 ---

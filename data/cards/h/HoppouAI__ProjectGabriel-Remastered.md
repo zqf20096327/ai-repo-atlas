@@ -1,6 +1,6 @@
 # HoppouAI/ProjectGabriel-Remastered
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/HoppouAI/ProjectGabriel-Remastered) · [官网](https://hoppou.ai) · 组织维护
+⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/HoppouAI/ProjectGabriel-Remastered) · [官网](https://hoppou.ai) · 组织维护
 
 **给 VRChat 玩家的开源实时 AI 伴侣，语音对话+视觉+OSC 控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HoppouAI/ProjectGabriel-Remastered 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 24 --> 28
+    line [25, 27]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 27（+2）
 
 
 ---

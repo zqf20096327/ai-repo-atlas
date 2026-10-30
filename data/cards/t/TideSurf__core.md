@@ -1,6 +1,6 @@
 # TideSurf/core
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TideSurf/core) · [官网](https://tidesurf.org) · 组织维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TideSurf/core) · [官网](https://tidesurf.org) · 组织维护
 
 **把 Chromium 网页压缩成 50-200 token 结构文本供 LLM agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TideSurf/core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

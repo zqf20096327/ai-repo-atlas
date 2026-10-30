@@ -46,12 +46,12 @@ ComfyUI 自定义节点集，封装 NVIDIA SoL Refiner（LTX-2.5 MiniMax-H3 检�
 ```mermaid
 xychart-beta
     title "o-l-l-i/ComfyUI-Olm-SoL-Refiner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 8treenet/deeptrade
 
-⭐ 61 · Go · 推送 2026-08-16 · [GitHub](https://github.com/8treenet/deeptrade) · 个人维护 · 中文 README
+⭐ 62 · Go · 推送 2026-08-16 · [GitHub](https://github.com/8treenet/deeptrade) · 个人维护 · 中文 README
 
 **面向 ETH 期货的 LLM 量化交易系统（Go）**
 
@@ -45,12 +45,12 @@ Go 编写的加密货币量化交易 Agent，专用于 ETH 期货：并发获取
 ```mermaid
 xychart-beta
     title "8treenet/deeptrade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 62（+1）
 
 
 ---

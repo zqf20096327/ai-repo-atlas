@@ -45,12 +45,12 @@ Embiggen 是 GRAPE 图处理与嵌入库的图机器学习子模块，提供图�
 ```mermaid
 xychart-beta
     title "monarch-initiative/embiggen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # agent-ix/quoin
 
-⭐ 21 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/agent-ix/quoin) · 组织维护
+⭐ 20 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/agent-ix/quoin) · 组织维护
 
 **面向编码 agent 的规格驱动开发技能包：先写合规规格再开发**
 
@@ -46,12 +46,12 @@ Quoin 是构建在 Quire 文档标准与校验引擎之上的模块、agent 技�
 ```mermaid
 xychart-beta
     title "agent-ix/quoin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 22
+    line [21, 20]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 20（-1）
 
 
 ---

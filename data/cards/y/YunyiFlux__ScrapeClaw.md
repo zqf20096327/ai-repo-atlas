@@ -1,6 +1,6 @@
 # YunyiFlux/ScrapeClaw
 
-⭐ 51 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/YunyiFlux/ScrapeClaw) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/YunyiFlux/ScrapeClaw) · 个人维护 · 中文 README
 
 **自动逆向 SPA 并生成独立 Python 爬虫的 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YunyiFlux/ScrapeClaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 50 --> 54
-    line [51, 52, 53, 52, 51, 51]
+    line [51, 52, 53, 52, 51, 52]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 52（+1）
 
 
 ---

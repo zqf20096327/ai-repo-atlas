@@ -46,12 +46,12 @@ Elastic 官方维护的 .NET 库集合，含两个包：Elastic.SemanticKernel.C
 ```mermaid
 xychart-beta
     title "elastic/ai-dotnet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

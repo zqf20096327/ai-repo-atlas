@@ -1,6 +1,6 @@
 # openSUSE/cavil
 
-⭐ 64 · Perl · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/openSUSE/cavil) · 组织维护
+⭐ 64 · Perl · GPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openSUSE/cavil) · 组织维护
 
 **开源法律审查与 SBOM 系统，供 openSUSE/SUSE 打包合规使用**
 
@@ -47,12 +47,12 @@ Cavil 是被 openSUSE Tumbleweed/Leap 与 SUSE Linux Enterprise 开发使用的�
 ```mermaid
 xychart-beta
     title "openSUSE/cavil 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

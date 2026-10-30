@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinten-ai/ai-agent-agentscope-codereview 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29"]
+    title "kevinten-ai/ai-agent-agentscope-codereview 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 65 --> 70
-    line [66, 67, 68, 69]
+    line [66, 67, 68, 69, 69]
 ```
 
-2026-10-18 66 → 2026-10-29 69（+3）
+2026-10-18 66 → 2026-10-30 69（+3）
 
 
 ---

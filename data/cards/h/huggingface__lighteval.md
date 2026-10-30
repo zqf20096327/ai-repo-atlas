@@ -1,6 +1,6 @@
 # huggingface/lighteval
 
-⭐ 2,572 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/lighteval) · [官网](https://huggingface.co/docs/lighteval/en/index) · 组织维护
+⭐ 2,572 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/lighteval) · [官网](https://huggingface.co/docs/lighteval/en/index) · 组织维护
 
 **Hugging Face 出品的 LLM 多后端评测工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/lighteval 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 2562 --> 2573
     line [2563, 2564, 2565, 2567, 2569, 2570, 2571, 2572, 2572]
 ```
 
-2026-10-18 2,563 → 2026-10-29 2,572（+9）
+2026-10-18 2,563 → 2026-10-30 2,572（+9）
 
 
 ---

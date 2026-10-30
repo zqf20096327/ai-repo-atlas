@@ -1,6 +1,6 @@
 # graphsignal/graphsignal
 
-⭐ 272 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/graphsignal/graphsignal) · [官网](https://graphsignal.com) · 组织维护
+⭐ 273 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/graphsignal/graphsignal) · [官网](https://graphsignal.com) · 组织维护
 
 **GPU 剖析器：让 AI agent 自主测量并优化推理性能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "graphsignal/graphsignal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 266 --> 273
-    line [267, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 266 --> 274
+    line [267, 271, 272, 273]
 ```
 
-2026-10-18 267 → 2026-10-29 272（+5）
+2026-10-18 267 → 2026-10-30 273（+6）
 
 
 ---

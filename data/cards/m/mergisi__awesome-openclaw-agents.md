@@ -1,6 +1,6 @@
 # mergisi/awesome-openclaw-agents
 
-⭐ 4,031 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mergisi/awesome-openclaw-agents) · [官网](https://crewclaw.com) · 个人维护
+⭐ 4,033 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mergisi/awesome-openclaw-agents) · [官网](https://crewclaw.com) · 个人维护
 
 **OpenClaw 生态的 AI agent 模板策展清单（205 个 SOUL.md，多类别）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mergisi/awesome-openclaw-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4005 --> 4033
-    line [4007, 4014, 4020, 4023, 4024, 4023, 4027, 4031]
+    title "mergisi/awesome-openclaw-agents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4005 --> 4035
+    line [4007, 4014, 4020, 4023, 4024, 4023, 4027, 4031, 4033]
 ```
 
-2026-10-18 4,007 → 2026-10-29 4,031（+24）
+2026-10-18 4,007 → 2026-10-30 4,033（+26）
 
 
 ---

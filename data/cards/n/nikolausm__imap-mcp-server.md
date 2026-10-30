@@ -44,13 +44,13 @@ TypeScript 实现的 Model Context Protocol 服务器，把 IMAP/SMTP 邮件能�
 
 ```mermaid
 xychart-beta
-    title "nikolausm/imap-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "nikolausm/imap-mcp-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 110 --> 115
-    line [111, 112, 114]
+    line [111, 112, 114, 114]
 ```
 
-2026-10-18 111 → 2026-10-29 114（+3）
+2026-10-18 111 → 2026-10-30 114（+3）
 
 
 ---

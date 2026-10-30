@@ -1,6 +1,6 @@
 # docsagent/docsagent
 
-⭐ 578 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/docsagent/docsagent) · 组织维护
+⭐ 579 · TypeScript · 推送 2026-09-28 · [GitHub](https://github.com/docsagent/docsagent) · 组织维护
 
 **让 AI agent 私密检索 Zotero/Obsidian/Apple Notes 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "docsagent/docsagent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 573 --> 579
-    line [574, 575, 576, 577, 578, 578]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 573 --> 580
+    line [574, 575, 576, 577, 578, 579]
 ```
 
-2026-10-18 574 → 2026-10-29 578（+4）
+2026-10-18 574 → 2026-10-30 579（+5）
 
 
 ---

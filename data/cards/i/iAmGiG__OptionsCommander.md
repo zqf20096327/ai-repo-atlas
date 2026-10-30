@@ -40,6 +40,18 @@
 > L26: **OptionsCommander** is a research-driven trading platform with a multi-agent AI architecture built on Microsoft Ag
 > L84: - **Natural Language Commands**: GPT-4o-mini parses trade requests
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iAmGiG/OptionsCommander 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-10-29 23 → 2026-10-30 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 mid · 依据 README sha `b1113e33e818` · [字段定义](../../DATASET.md)*

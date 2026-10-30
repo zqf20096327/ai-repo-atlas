@@ -1,6 +1,6 @@
 # diegosouzapw/OmniAntigravityRemoteChat
 
-⭐ 241 · HTML · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/diegosouzapw/OmniAntigravityRemoteChat) · [官网](https://www.npmjs.com/package/omni-antigravity-remote-chat) · 个人维护
+⭐ 242 · HTML · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/diegosouzapw/OmniAntigravityRemoteChat) · [官网](https://www.npmjs.com/package/omni-antigravity-remote-chat) · 个人维护
 
 **手机浏览器远程镜像与操控 Antigravity AI 编程会话的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diegosouzapw/OmniAntigravityRemoteChat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 240 --> 242
-    line [241, 241]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 240 --> 243
+    line [241, 242]
 ```
 
-2026-10-18 241 → 2026-10-29 241（+0）
+2026-10-18 241 → 2026-10-30 242（+1）
 
 
 ---

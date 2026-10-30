@@ -1,6 +1,6 @@
 # shipwords-dev/shipwords
 
-⭐ 63 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
+⭐ 269 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
 
 **新词站群框架：一个关键词一个 AI 图像/视频付费站**
 
@@ -40,6 +40,18 @@ MIT 许可的 Cloudflare 原生开源框架，用于运营新关键词 AI 图像
 > L14: shipwords is a free, MIT-licensed framework for running a fleet of new-keyword AI image and video sites on Cloudfla
 > L24: - **The popular models, built in**: GPT Image, Nano Banana, Seedream, FLUX, Seedance, Veo, Kling, Wan and more, beh
 > L104: |`packages/jobs`|Workflow-based generation runtime with a one-way job state machine and automatic refunds, upstrea
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shipwords-dev/shipwords 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 43 --> 289
+    line [63, 269]
+```
+
+2026-10-29 63 → 2026-10-30 269（+206）
 
 
 ---

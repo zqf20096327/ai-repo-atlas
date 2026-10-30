@@ -1,6 +1,6 @@
 # maplexrain/unyra
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/maplexrain/unyra) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/maplexrain/unyra) · 个人维护 · 中文 README
 
 **本地优先的 AI 探索式学习桌面应用：知识拆成节点由导师教学**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "maplexrain/unyra 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 38 --> 56
-    line [39, 47, 50, 52, 54, 55]
+    title "maplexrain/unyra 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 37 --> 61
+    line [39, 47, 50, 52, 54, 55, 59]
 ```
 
-2026-10-18 39 → 2026-10-29 55（+16）
+2026-10-18 39 → 2026-10-30 59（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # ElectronGirl/ComfyUI-Anima-Ref-Adapter
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter) · 个人维护
+⭐ 155 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ElectronGirl/ComfyUI-Anima-Ref-Adapter) · 个人维护
 
 **ComfyUI 节点包：单参考图保持角色一致性的 Anima 图像生成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ElectronGirl/ComfyUI-Anima-Ref-Adapter 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 26 --> 118
-    line [33, 111]
+    title "ElectronGirl/ComfyUI-Anima-Ref-Adapter 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 167
+    line [33, 111, 155]
 ```
 
-2026-10-28 33 → 2026-10-29 111（+78）
+2026-10-28 33 → 2026-10-30 155（+122）
 
 
 ---

@@ -1,6 +1,6 @@
 # mistralai/mistral-common
 
-⭐ 957 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mistralai/mistral-common) · 组织维护
+⭐ 958 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mistralai/mistral-common) · 组织维护
 
 **Mistral 模型的分词与请求校验预处理库**
 
@@ -46,12 +46,12 @@ Mistral AI 官方开源的推理预处理库：提供文本、图像与工具调
 ```mermaid
 xychart-beta
     title "mistralai/mistral-common 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 949 --> 958
-    line [950, 951, 953, 954, 955, 957, 957]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 949 --> 959
+    line [950, 951, 953, 954, 955, 957, 958]
 ```
 
-2026-10-18 950 → 2026-10-29 957（+7）
+2026-10-18 950 → 2026-10-30 958（+8）
 
 
 ---

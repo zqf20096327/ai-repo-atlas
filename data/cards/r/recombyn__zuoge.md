@@ -1,6 +1,6 @@
 # recombyn/zuoge
 
-⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/recombyn/zuoge) · [官网](https://recombyn.com) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/recombyn/zuoge) · [官网](https://recombyn.com) · 组织维护 · 中文 README
 
 **自托管的开源 AI 设计工作台：无限画布+设计 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "recombyn/zuoge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57]
 ```
 
-2026-10-18 55 → 2026-10-29 56（+1）
+2026-10-18 55 → 2026-10-30 57（+2）
 
 
 ---

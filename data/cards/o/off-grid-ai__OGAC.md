@@ -1,6 +1,6 @@
 # off-grid-ai/OGAC
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/off-grid-ai/OGAC) · [官网](https://onprem-console.getoffgridai.co) · 组织维护
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/off-grid-ai/OGAC) · [官网](https://onprem-console.getoffgridai.co) · 组织维护
 
 **企业自托管 AI 治理平台：统一模型网关与合规流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "off-grid-ai/OGAC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/h-net-dynamic-chunking
 
-⭐ 80 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/lucidrains/h-net-dynamic-chunking) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lucidrains/h-net-dynamic-chunking) · 个人维护
 
 **H-net 动态分块机制的 PyTorch 实现，供序列建模研究**
 
@@ -43,12 +43,12 @@ lucidrains 对 CMU Hwang 等人 H-net 论文中动态分块机制的独立 PyTor
 ```mermaid
 xychart-beta
     title "lucidrains/h-net-dynamic-chunking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-29 80（+0）
+2026-10-18 80 → 2026-10-30 80（+0）
 
 
 ---

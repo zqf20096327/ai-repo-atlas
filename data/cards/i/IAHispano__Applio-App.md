@@ -1,6 +1,6 @@
 # IAHispano/Applio-App
 
-⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/IAHispano/Applio-App) · [官网](applio.org) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/IAHispano/Applio-App) · [官网](applio.org) · 组织维护
 
 **桌面端 AI 语音转换、实时变声、语音合成与模型训练应用**
 
@@ -43,13 +43,13 @@ Applio App 是基于 Tauri（React + Rust）的桌面应用，将语音转换、
 
 ```mermaid
 xychart-beta
-    title "IAHispano/Applio-App 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "IAHispano/Applio-App 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 12 --> 25
-    line [13, 15, 16, 18, 20, 21, 22, 24]
+    line [13, 15, 16, 18, 20, 21, 22, 24, 24]
 ```
 
-2026-10-18 13 → 2026-10-29 24（+11）
+2026-10-18 13 → 2026-10-30 24（+11）
 
 
 ---

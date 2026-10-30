@@ -40,6 +40,18 @@
 > L11: This is a Python re-implementation of the spectral clustering algorithms
 > L66: labels = configs.icassp2018_clusterer.predict(X)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wq2012/SpectralCluster 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 557 --> 559
+    line [558, 558]
+```
+
+2026-10-29 558 → 2026-10-30 558（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `794c7e32688f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # jiemianduan/image-to-prompt
 
-⭐ 33 · MIT · 推送 2026-08-07 · [GitHub](https://github.com/jiemianduan/image-to-prompt) · 个人维护 · 中文 README
+⭐ 34 · MIT · 推送 2026-08-07 · [GitHub](https://github.com/jiemianduan/image-to-prompt) · 个人维护 · 中文 README
 
 **从参考图重建可复用文生图提示词的 Agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiemianduan/image-to-prompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 32, 33]
+    title "jiemianduan/image-to-prompt 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 34]
 ```
 
-2026-10-18 30 → 2026-10-29 33（+3）
+2026-10-18 30 → 2026-10-30 34（+4）
 
 
 ---

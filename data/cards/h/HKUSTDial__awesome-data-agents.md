@@ -1,6 +1,6 @@
 # HKUSTDial/awesome-data-agents
 
-⭐ 790 · Python · 推送 2026-08-05 · [GitHub](https://github.com/HKUSTDial/awesome-data-agents) · [官网](https://arxiv.org/abs/2510.23587) · 组织维护
+⭐ 791 · Python · 推送 2026-08-05 · [GitHub](https://github.com/HKUSTDial/awesome-data-agents) · [官网](https://arxiv.org/abs/2510.23587) · 组织维护
 
 **数据智能体（Data Agents）综述配套论文清单，按自主性分级编目**
 
@@ -45,12 +45,12 @@ HKUSTDial 团队论文《A Survey of Data Agents: Emerging Paradigm or Overstate
 ```mermaid
 xychart-beta
     title "HKUSTDial/awesome-data-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 778 --> 791
-    line [779, 782, 785, 786, 787, 789, 790, 790]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 778 --> 792
+    line [779, 782, 785, 786, 787, 789, 790, 791]
 ```
 
-2026-10-18 779 → 2026-10-29 790（+11）
+2026-10-18 779 → 2026-10-30 791（+12）
 
 
 ---

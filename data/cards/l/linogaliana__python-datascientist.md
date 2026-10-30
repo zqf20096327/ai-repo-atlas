@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "linogaliana/python-datascientist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "linogaliana/python-datascientist 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 183 --> 186
-    line [184, 185]
+    line [184, 185, 185]
 ```
 
-2026-10-18 184 → 2026-10-29 185（+1）
+2026-10-18 184 → 2026-10-30 185（+1）
 
 
 ---

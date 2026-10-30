@@ -1,6 +1,6 @@
 # leandrodaf/3d-new-era-ai
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/leandrodaf/3d-new-era-ai) · [官网](https://leandrodaf.github.io/3d-new-era-ai/) · 个人维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/leandrodaf/3d-new-era-ai) · [官网](https://3dneweraai.com) · 个人维护
 
 **带 MCP 服务器的开源住宅设计与平面图编辑器，让 AI 代你画图布置**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "leandrodaf/3d-new-era-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 19 --> 33
-    line [20, 23, 25, 26, 27, 28, 32]
+    title "leandrodaf/3d-new-era-ai 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 35
+    line [20, 23, 25, 26, 27, 28, 32, 34]
 ```
 
-2026-10-18 20 → 2026-10-29 32（+12）
+2026-10-18 20 → 2026-10-30 34（+14）
 
 
 ---

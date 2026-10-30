@@ -1,6 +1,6 @@
 # geer1895/rfauto
 
-⭐ 22 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
+⭐ 24 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
 
 **RF/微波设计自动化框架，AI agent 经 MCP 驱动全部流程**
 
@@ -40,6 +40,18 @@
 > L12: **rfauto turns RF/microwave design from "draw, wait for the solver, copy
 > L155: **157 MCP tools** and 10 resources: Claude Desktop, Cursor or your own agent can
 > L157: validation gates before touching the workspace; the agent emits typed tool calls
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "geer1895/rfauto 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 25
+    line [22, 24]
+```
+
+2026-10-29 22 → 2026-10-30 24（+2）
 
 
 ---

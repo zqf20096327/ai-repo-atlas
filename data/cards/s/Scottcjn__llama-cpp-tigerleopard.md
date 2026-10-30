@@ -41,6 +41,18 @@
 > L6: This is a working port of llama.cpp for Mac OS X Tiger (10.4) and Leopard (10.5) running on PowerPC G4 and G5 proces
 > L129: gone. The `Makefile` in `llama.cpp_source` is now a deprecation stub, so running
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/llama-cpp-tigerleopard 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 69 --> 71
+    line [70, 70]
+```
+
+2026-10-29 70 → 2026-10-30 70（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3f7b020dbd2d` · [字段定义](../../DATASET.md)*

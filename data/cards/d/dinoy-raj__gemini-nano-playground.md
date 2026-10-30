@@ -1,6 +1,6 @@
 # dinoy-raj/gemini-nano-playground
 
-⭐ 17 · Kotlin · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/dinoy-raj/gemini-nano-playground) · [官网](https://play.google.com/store/apps/details?id=com.dino.nanoplayground) · 个人维护
+⭐ 17 · Kotlin · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dinoy-raj/gemini-nano-playground) · [官网](https://play.google.com/store/apps/details?id=com.dino.nanoplayground) · 个人维护
 
 **在安卓手机上直接试用 Gemini Nano 本地模型的应用**
 
@@ -45,12 +45,12 @@ Android 应用，通过 ML Kit GenAI Prompt API（com.google.mlkit:genai-prompt�
 ```mermaid
 xychart-beta
     title "dinoy-raj/gemini-nano-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

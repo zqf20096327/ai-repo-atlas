@@ -1,6 +1,6 @@
 # TadMSTR/homelab-agent
 
-⭐ 45 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TadMSTR/homelab-agent) · 个人维护
+⭐ 45 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TadMSTR/homelab-agent) · 个人维护
 
 **自托管多 Agent 平台参考构建：单机运行五个 AI Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TadMSTR/homelab-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 42 --> 46
     line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-10-29 45（+2）
+2026-10-18 43 → 2026-10-30 45（+2）
 
 
 ---

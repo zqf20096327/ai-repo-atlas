@@ -1,6 +1,6 @@
 # vortezwohl/Autono
 
-⭐ 213 · Python · GPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/vortezwohl/Autono) · [官网](https://doi.org/10.48550/arXiv.2504.04650) · 个人维护 · 中文 README
+⭐ 214 · Python · GPL-3.0 · 推送 2026-06-23 · [GitHub](https://github.com/vortezwohl/Autono) · [官网](https://doi.org/10.48550/arXiv.2504.04650) · 个人维护 · 中文 README
 
 **基于 ReAct 的多智能体自主执行框架（Python 库）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vortezwohl/Autono 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 212 --> 214
-    line [213, 213]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 212 --> 215
+    line [213, 214]
 ```
 
-2026-10-18 213 → 2026-10-29 213（+0）
+2026-10-18 213 → 2026-10-30 214（+1）
 
 
 ---

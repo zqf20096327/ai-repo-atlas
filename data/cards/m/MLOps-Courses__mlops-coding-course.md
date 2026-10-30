@@ -1,6 +1,6 @@
 # MLOps-Courses/mlops-coding-course
 
-⭐ 745 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/MLOps-Courses/mlops-coding-course) · [官网](https://mlops-coding-course.fmind.dev/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **教你构建与维护 MLOps 代码库的实践课程（教程）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC-BY-4.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

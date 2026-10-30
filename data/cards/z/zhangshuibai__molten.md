@@ -1,6 +1,6 @@
 # zhangshuibai/molten
 
-⭐ 22 · Metal · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/zhangshuibai/molten) · 个人维护
+⭐ 22 · Metal · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/zhangshuibai/molten) · 个人维护
 
 **Apple Silicon 上运行 LFM2.5-24B-A2B 的 Rust+Metal 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhangshuibai/molten 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 18 --> 23
     line [19, 22, 22]
 ```
 
-2026-10-26 19 → 2026-10-29 22（+3）
+2026-10-26 19 → 2026-10-30 22（+3）
 
 
 ---

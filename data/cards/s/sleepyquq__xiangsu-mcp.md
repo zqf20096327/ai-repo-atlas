@@ -1,6 +1,6 @@
 # sleepyquq/xiangsu-mcp
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sleepyquq/xiangsu-mcp) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sleepyquq/xiangsu-mcp) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 MCP 操作抖音像塑 AR 特效编辑器的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sleepyquq/xiangsu-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 13 --> 20
-    line [14, 16, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 13 --> 21
+    line [14, 16, 17, 18, 19, 20]
 ```
 
-2026-10-18 14 → 2026-10-29 19（+5）
+2026-10-18 14 → 2026-10-30 20（+6）
 
 
 ---

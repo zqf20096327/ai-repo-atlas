@@ -1,6 +1,6 @@
 # deathbyknowledge/gsv
 
-⭐ 130 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deathbyknowledge/gsv) · [官网](https://ship.space) · 组织维护
+⭐ 130 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/deathbyknowledge/gsv) · [官网](https://ship.space) · 组织维护
 
 **部署在自有 Cloudflare 账号上的个人 AI 代理平台**
 
@@ -45,13 +45,13 @@ Ship 是开源的个人 AI 代理系统：在用户自己的 Cloudflare 账号�
 
 ```mermaid
 xychart-beta
-    title "deathbyknowledge/gsv 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "deathbyknowledge/gsv 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 124 --> 131
-    line [125, 126, 128, 130]
+    line [125, 126, 128, 130, 130]
 ```
 
-2026-10-25 125 → 2026-10-29 130（+5）
+2026-10-25 125 → 2026-10-30 130（+5）
 
 
 ---

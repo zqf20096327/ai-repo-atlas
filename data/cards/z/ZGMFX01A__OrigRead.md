@@ -1,6 +1,6 @@
 # ZGMFX01A/OrigRead
 
-⭐ 43 · Kotlin · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZGMFX01A/OrigRead) · 个人维护 · 中文 README
+⭐ 44 · Kotlin · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZGMFX01A/OrigRead) · 个人维护 · 中文 README
 
 **带 AI 引用溯源的 Android RSS 全文阅读器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ZGMFX01A/OrigRead 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 38 --> 45
+    line [39, 40, 42, 43, 44]
 ```
 
-2026-10-18 39 → 2026-10-29 43（+4）
+2026-10-18 39 → 2026-10-30 44（+5）
 
 
 ---

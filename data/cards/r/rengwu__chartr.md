@@ -1,6 +1,6 @@
 # rengwu/chartr
 
-⭐ 349 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/rengwu/chartr) · [官网](https://chartr.dev) · 个人维护
+⭐ 350 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/rengwu/chartr) · [官网](https://chartr.dev) · 个人维护
 
 **终端优先的 agentic 工作区：把项目、终端、CLI agent 与插件组织在一处**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rengwu/chartr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 347 --> 350
-    line [348, 349, 349]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 347 --> 351
+    line [348, 349, 350]
 ```
 
-2026-10-18 348 → 2026-10-29 349（+1）
+2026-10-18 348 → 2026-10-30 350（+2）
 
 
 ---

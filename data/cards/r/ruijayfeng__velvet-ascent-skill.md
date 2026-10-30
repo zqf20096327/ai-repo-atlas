@@ -44,13 +44,13 @@ Velvet Ascent 是一个安装到支持 skills 的 AI Agent 中的中文文字游
 
 ```mermaid
 xychart-beta
-    title "ruijayfeng/velvet-ascent-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    title "ruijayfeng/velvet-ascent-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 27 --> 31
-    line [28, 29, 30]
+    line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-10-29 30（+2）
+2026-10-18 28 → 2026-10-30 30（+2）
 
 
 ---

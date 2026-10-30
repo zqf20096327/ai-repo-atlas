@@ -1,6 +1,6 @@
 # Fortemi/fortemi
 
-⭐ 28 · Rust · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Fortemi/fortemi) · 组织维护
+⭐ 28 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Fortemi/fortemi) · 组织维护
 
 **面向 AI 应用的自托管智能知识库，供 RAG 与 agent 记忆使用**
 
@@ -46,12 +46,12 @@ Rust + PostgreSQL 实现的自托管知识库：将笔记、文件与多媒体�
 ```mermaid
 xychart-beta
     title "Fortemi/fortemi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-29 28（+1）
+2026-10-18 27 → 2026-10-30 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sparrow-Co-Ltd/SecLLM-Dataset
 
-⭐ 33 · Python · CC-BY-4.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sparrow-Co-Ltd/SecLLM-Dataset) · 组织维护
+⭐ 34 · Python · CC-BY-4.0 · 推送 2026-10-27 · [GitHub](https://github.com/Sparrow-Co-Ltd/SecLLM-Dataset) · 组织维护
 
 **SAST 产出的安全漏洞数据集：供 LLM 训练检测/解释/修补漏洞**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sparrow-Co-Ltd/SecLLM-Dataset 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 31, 33, 33]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 28 --> 35
+    line [29, 30, 31, 33, 34]
 ```
 
-2026-10-23 29 → 2026-10-29 33（+4）
+2026-10-23 29 → 2026-10-30 34（+5）
 
 
 ---

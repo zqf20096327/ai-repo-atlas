@@ -1,6 +1,6 @@
 # Siddhant-K-code/distill
 
-⭐ 197 · Go · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Siddhant-K-code/distill) · [官网](https://distill.siddhantkhare.com) · 个人维护
+⭐ 198 · Go · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Siddhant-K-code/distill) · [官网](https://distill.siddhantkhare.com) · 个人维护
 
 **给 LLM agent 的持久记忆与上下文去重压缩层**
 
@@ -47,12 +47,12 @@ Go 编写的上下文处理服务，为 LLM agent 提供跨会话持久记忆：
 ```mermaid
 xychart-beta
     title "Siddhant-K-code/distill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 195 --> 198
-    line [196, 197, 197]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 195 --> 199
+    line [196, 197, 198]
 ```
 
-2026-10-18 196 → 2026-10-29 197（+1）
+2026-10-18 196 → 2026-10-30 198（+2）
 
 
 ---

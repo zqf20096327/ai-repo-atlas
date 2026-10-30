@@ -1,6 +1,6 @@
 # hkdb/otui
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hkdb/otui) · [官网](https://hkdb.github.io/otui) · 个人维护
+⭐ 36 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/hkdb/otui) · [官网](https://hkdb.github.io/otui) · 个人维护
 
 **键盘驱动的终端 AI 聊天 TUI，内置 MCP 插件注册表**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hkdb/otui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-29 35（+1）
+2026-10-18 34 → 2026-10-30 36（+2）
 
 
 ---

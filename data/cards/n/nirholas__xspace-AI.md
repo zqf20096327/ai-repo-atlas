@@ -1,6 +1,6 @@
 # nirholas/xspace-AI
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/nirholas/xspace-AI) · [官网](https://nirholas.github.io/xspace-AI/) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/nirholas/xspace-AI) · [官网](https://nirholas.github.io/xspace-AI/) · 个人维护
 
 **构建能自主加入并发言于 X/Twitter Spaces 的 AI 语音 agent 的 SDK/CLI**
 
@@ -46,12 +46,12 @@ TypeScript SDK 与 CLI，用于构建自动加入、监听并参与 X/Twitter Sp
 ```mermaid
 xychart-beta
     title "nirholas/xspace-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 21 --> 26
     line [22, 23, 25, 25]
 ```
 
-2026-10-18 22 → 2026-10-29 25（+3）
+2026-10-18 22 → 2026-10-30 25（+3）
 
 
 ---

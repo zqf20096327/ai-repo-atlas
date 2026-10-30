@@ -45,12 +45,12 @@ Guided Object Inference Slicing（GOIS）研究代码，发表于 Neurocomputing
 ```mermaid
 xychart-beta
     title "MMUZAMMUL/GOIS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kzw-ai/word-learning-system
 
-⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kzw-ai/word-learning-system) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kzw-ai/word-learning-system) · 个人维护 · 中文 README
 
 **面向中级汉语学习者的自适应词汇学习系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kzw-ai/word-learning-system 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-29 26（+0）
+2026-10-18 26 → 2026-10-30 26（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # The-LoomStudio/LoomStudio
 
-⭐ 27 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/The-LoomStudio/LoomStudio) · [官网](https://loomstudio.pages.dev/) · 组织维护 · 中文 README
+⭐ 28 · TypeScript · 推送 2026-10-21 · [GitHub](https://github.com/The-LoomStudio/LoomStudio) · [官网](https://loomstudio.pages.dev/) · 组织维护 · 中文 README
 
 **本地运行的 AI 角色扮演与互动叙事创作工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "The-LoomStudio/LoomStudio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 27]
+    title "The-LoomStudio/LoomStudio 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 27, 28]
 ```
 
-2026-10-18 23 → 2026-10-29 27（+4）
+2026-10-18 23 → 2026-10-30 28（+5）
 
 
 ---

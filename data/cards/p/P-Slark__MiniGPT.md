@@ -1,6 +1,6 @@
 # P-Slark/MiniGPT
 
-⭐ 92 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/P-Slark/MiniGPT) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/P-Slark/MiniGPT) · 个人维护
 
 **从零用 PyTorch 逐模块实现小型 LLM 的学习型代码库与历程记录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "P-Slark/MiniGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 90 --> 93
+    line [92, 91]
 ```
 
-2026-10-18 92 → 2026-10-29 92（+0）
+2026-10-18 92 → 2026-10-30 91（-1）
 
 
 ---

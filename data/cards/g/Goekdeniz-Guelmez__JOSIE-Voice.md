@@ -1,6 +1,6 @@
 # Goekdeniz-Guelmez/JOSIE-Voice
 
-⭐ 51 · 推送 2026-10-26 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice) · [官网](https://goekdeniz-guelmez.github.io/JOSIE-Voice/) · 个人维护
+⭐ 53 · 推送 2026-10-26 · [GitHub](https://github.com/Goekdeniz-Guelmez/JOSIE-Voice) · [官网](https://goekdeniz-guelmez.github.io/JOSIE-Voice/) · 个人维护
 
 **Apple Silicon 上的本地语音助手：对话并操作 Mac 原生应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Goekdeniz-Guelmez/JOSIE-Voice 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 38 --> 52
-    line [39, 47, 49, 50, 51, 51]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 38 --> 54
+    line [39, 47, 49, 50, 51, 53]
 ```
 
-2026-10-19 39 → 2026-10-29 51（+12）
+2026-10-19 39 → 2026-10-30 53（+14）
 
 
 ---

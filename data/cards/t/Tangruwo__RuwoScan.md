@@ -1,6 +1,6 @@
 # Tangruwo/RuwoScan
 
-⭐ 34 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Tangruwo/RuwoScan) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Tangruwo/RuwoScan) · 个人维护 · 中文 README
 
 **多智能体自动化 AI 漏洞扫描工具：自然语言驱动完整渗透测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tangruwo/RuwoScan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
     y-axis "stars" 33 --> 36
-    line [35, 34, 34]
+    line [35, 34, 35]
 ```
 
-2026-10-18 35 → 2026-10-29 34（-1）
+2026-10-18 35 → 2026-10-30 35（+0）
 
 
 ---

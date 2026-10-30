@@ -1,6 +1,6 @@
 # htobty/ReadyLLM
 
-⭐ 101 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/htobty/ReadyLLM) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/htobty/ReadyLLM) · 个人维护 · 中文 README
 
 **通过可视化界面部署、监控与调优本地 LLM 的 Web 工具**
 
@@ -44,13 +44,13 @@ FastAPI + React 构建的本地及局域网 LLM 部署管理工具：以"目标�
 
 ```mermaid
 xychart-beta
-    title "htobty/ReadyLLM 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-29"]
+    title "htobty/ReadyLLM 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 99 --> 104
-    line [103, 100, 101]
+    line [103, 100, 101, 102]
 ```
 
-2026-10-22 103 → 2026-10-29 101（-2）
+2026-10-22 103 → 2026-10-30 102（-1）
 
 
 ---

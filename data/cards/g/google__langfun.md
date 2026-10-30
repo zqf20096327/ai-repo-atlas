@@ -1,6 +1,6 @@
 # google/langfun
 
-⭐ 918 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/google/langfun) · 组织维护
+⭐ 918 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google/langfun) · 组织维护
 
 **面向 LLM 的面向对象提示编程库，用对象与类型构造提示**
 
@@ -45,12 +45,12 @@ Langfun 是基于 PyGlove 的 Python 库，通过 Object-Oriented Prompting 让�
 ```mermaid
 xychart-beta
     title "google/langfun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 915 --> 919
     line [916, 918, 918]
 ```
 
-2026-10-18 916 → 2026-10-29 918（+2）
+2026-10-18 916 → 2026-10-30 918（+2）
 
 
 ---

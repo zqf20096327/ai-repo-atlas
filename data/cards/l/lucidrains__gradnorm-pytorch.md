@@ -45,12 +45,12 @@ GradNorm 论文（Chen 等 2017）的 PyTorch 实用实现：通过梯度归一�
 ```mermaid
 xychart-beta
     title "lucidrains/gradnorm-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 134 --> 136
     line [135, 135]
 ```
 
-2026-10-18 135 → 2026-10-29 135（+0）
+2026-10-18 135 → 2026-10-30 135（+0）
 
 
 ---

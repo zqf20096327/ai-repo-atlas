@@ -1,6 +1,6 @@
 # nicepkg/vsync
 
-⭐ 61 · TypeScript · MIT · 推送 2026-01-27 · [GitHub](https://github.com/nicepkg/vsync) · [官网](https://vsync.xiaominglab.com) · 组织维护 · 中文 README
+⭐ 63 · TypeScript · MIT · 推送 2026-01-27 · [GitHub](https://github.com/nicepkg/vsync) · [官网](https://vsync.xiaominglab.com) · 组织维护 · 中文 README
 
 **AI 编码工具配置同步 CLI：一份配置同步 Skills/MCP/Agents/Commands**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nicepkg/vsync 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 60 --> 64
+    line [61, 63]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 63（+2）
 
 
 ---

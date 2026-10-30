@@ -1,6 +1,6 @@
 # y0sif/whisrs
 
-⭐ 143 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/y0sif/whisrs) · [官网](https://y0sif.github.io/whisrs/) · 个人维护
+⭐ 144 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/y0sif/whisrs) · [官网](https://y0sif.github.io/whisrs/) · 个人维护
 
 **Linux 桌面语音工具：听写、朗读与语音驱动 LLM 命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "y0sif/whisrs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 135 --> 144
-    line [136, 139, 142, 141, 143, 143]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 135 --> 145
+    line [136, 139, 142, 141, 143, 144]
 ```
 
-2026-10-18 136 → 2026-10-29 143（+7）
+2026-10-18 136 → 2026-10-30 144（+8）
 
 
 ---

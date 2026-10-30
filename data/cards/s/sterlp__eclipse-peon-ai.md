@@ -1,6 +1,6 @@
 # sterlp/eclipse-peon-ai
 
-⭐ 30 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sterlp/eclipse-peon-ai) · [官网](https://peon-ai-4e.sterl.org/) · 个人维护
+⭐ 30 · Java · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sterlp/eclipse-peon-ai) · [官网](https://peon-ai-4e.sterl.org/) · 个人维护
 
 **Eclipse IDE 内的 LLM 编程助手插件，支持本地与云端模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sterlp/eclipse-peon-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

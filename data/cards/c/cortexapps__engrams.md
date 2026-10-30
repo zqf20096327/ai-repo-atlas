@@ -1,6 +1,6 @@
 # cortexapps/engrams
 
-⭐ 59 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/cortexapps/engrams) · [官网](https://engramsfactory.com/) · 组织维护
+⭐ 61 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/cortexapps/engrams) · [官网](https://engramsfactory.com/) · 组织维护
 
 **自托管 AI 编码 agent 编排器：Firecracker 微VM 中运行并快照**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cortexapps/engrams 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 55 --> 60
-    line [56, 57, 58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 55 --> 62
+    line [56, 57, 58, 59, 61]
 ```
 
-2026-10-18 56 → 2026-10-29 59（+3）
+2026-10-18 56 → 2026-10-30 61（+5）
 
 
 ---

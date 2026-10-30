@@ -1,6 +1,6 @@
 # yuan240324/workbuddy-openai-proxy
 
-⭐ 43 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yuan240324/workbuddy-openai-proxy) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/yuan240324/workbuddy-openai-proxy) · 个人维护 · 中文 README
 
 **把 WorkBuddy/CodeBuddy 额度转成本机 OpenAI/Anthropic 兼容 API 的代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuan240324/workbuddy-openai-proxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
     y-axis "stars" 40 --> 46
-    line [41, 42, 44, 45, 43, 43]
+    line [41, 42, 44, 45, 43, 44]
 ```
 
-2026-10-18 41 → 2026-10-29 43（+2）
+2026-10-18 41 → 2026-10-30 44（+3）
 
 
 ---

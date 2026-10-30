@@ -1,6 +1,6 @@
 # xiaonancs/claude-code-source-analysis
 
-⭐ 94 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/claude-code-source-analysis) · 个人维护 · 中文 README
+⭐ 95 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/claude-code-source-analysis) · 个人维护 · 中文 README
 
 **Claude Code v2.1.88 源码逆向解析的研究文集（30 篇）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaonancs/claude-code-source-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-18 94 → 2026-10-29 94（+0）
+2026-10-18 94 → 2026-10-30 95（+1）
 
 
 ---

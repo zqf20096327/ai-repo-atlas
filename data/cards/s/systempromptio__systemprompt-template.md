@@ -45,12 +45,12 @@ SystemPrompt 的本地评估模板，由 Core（Rust 编译运行时）加配置
 ```mermaid
 xychart-beta
     title "systempromptio/systemprompt-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-29 29（+0）
+2026-10-18 29 → 2026-10-30 29（+0）
 
 
 ---

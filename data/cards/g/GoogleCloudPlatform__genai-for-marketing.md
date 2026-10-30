@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/genai-for-marketing
 
-⭐ 518 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/GoogleCloudPlatform/genai-for-marketing) · [官网](https://cloud.google.com/vertex-ai/) · 组织维护
+⭐ 519 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/GoogleCloudPlatform/genai-for-marketing) · [官网](https://cloud.google.com/vertex-ai/) · 组织维护
 
 **谷歌云上生成式 AI 营销方案：前端+后端+部署指南**
 
@@ -45,12 +45,12 @@ Google CloudPlatform 官方仓库，提供可经 Terraform 一键部署的营销
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/genai-for-marketing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 516 --> 519
-    line [517, 518, 517, 518, 518]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 516 --> 520
+    line [517, 518, 517, 518, 519]
 ```
 
-2026-10-18 517 → 2026-10-29 518（+1）
+2026-10-18 517 → 2026-10-30 519（+2）
 
 
 ---

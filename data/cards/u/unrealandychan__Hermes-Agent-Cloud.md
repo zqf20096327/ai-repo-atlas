@@ -1,6 +1,6 @@
 # unrealandychan/Hermes-Agent-Cloud
 
-⭐ 29 · Shell · MIT · 推送 2026-07-06 · [GitHub](https://github.com/unrealandychan/Hermes-Agent-Cloud) · [官网](https://hermes-easy-deploy.vercel.app) · 个人维护
+⭐ 30 · Shell · MIT · 推送 2026-07-06 · [GitHub](https://github.com/unrealandychan/Hermes-Agent-Cloud) · [官网](https://hermes-easy-deploy.vercel.app) · 个人维护
 
 **一条命令将 Hermes Agent 部署到 AWS/Azure/GCP 的 CLI 工具**
 
@@ -45,12 +45,12 @@ Bash + Terraform 编写的部署 CLI：通过向导式或 flags 模式将 Hermes
 ```mermaid
 xychart-beta
     title "unrealandychan/Hermes-Agent-Cloud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-29 29（+0）
+2026-10-18 29 → 2026-10-30 30（+1）
 
 
 ---

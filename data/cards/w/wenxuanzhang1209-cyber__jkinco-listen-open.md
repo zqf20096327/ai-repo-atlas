@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/jkinco-listen-open
 
-⭐ 108 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open) · [官网](https://wenxuanzhang1209-cyber.github.io/jkinco-listen-open/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **全本地运行的 AI 会议纪要工作台：录音转写到 DOCX/PDF 导出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

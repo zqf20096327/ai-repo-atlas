@@ -1,6 +1,6 @@
 # Kiemen-Lab/CODAvision
 
-⭐ 21 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Kiemen-Lab/CODAvision) · [官网](https://www.nature.com/articles/s41596-026-01404-3) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/Kiemen-Lab/CODAvision) · [官网](https://www.nature.com/articles/s41596-026-01404-3) · 组织维护
 
 **面向生物医学图像的语义分割标注与训练工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kiemen-Lab/CODAvision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

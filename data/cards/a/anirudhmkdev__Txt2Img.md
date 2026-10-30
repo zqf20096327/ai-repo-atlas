@@ -1,6 +1,6 @@
 # anirudhmkdev/Txt2Img
 
-⭐ 42 · CSS · 推送 2026-05-17 · [GitHub](https://github.com/anirudhmkdev/Txt2Img) · [官网](https://txt2img-one.vercel.app/) · 个人维护
+⭐ 41 · CSS · 推送 2026-05-17 · [GitHub](https://github.com/anirudhmkdev/Txt2Img) · [官网](https://txt2img-one.vercel.app/) · 个人维护
 
 **浏览器端免费 AI 文生图工具，无需 API key**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anirudhmkdev/Txt2Img 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "anirudhmkdev/Txt2Img 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 39 --> 43
-    line [40, 41, 42]
+    line [40, 41, 42, 41]
 ```
 
-2026-10-18 40 → 2026-10-29 42（+2）
+2026-10-18 40 → 2026-10-30 41（+1）
 
 
 ---

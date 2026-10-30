@@ -1,6 +1,6 @@
 # Azure-Samples/azure-openai-rag-workshop
 
-⭐ 153 · Bicep · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Azure-Samples/azure-openai-rag-workshop) · [官网](https://aka.ms/ws/openai-rag) · 组织维护
+⭐ 154 · Bicep · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Azure-Samples/azure-openai-rag-workshop) · [官网](https://aka.ms/ws/openai-rag) · 组织维护
 
 **Azure OpenAI RAG 工作坊示例：Node.js 搭建文档问答聊天应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-openai-rag-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 151 --> 154
-    line [152, 153, 153]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 151 --> 155
+    line [152, 153, 154]
 ```
 
-2026-10-18 152 → 2026-10-29 153（+1）
+2026-10-18 152 → 2026-10-30 154（+2）
 
 
 ---

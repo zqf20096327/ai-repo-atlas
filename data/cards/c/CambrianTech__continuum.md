@@ -1,6 +1,6 @@
 # CambrianTech/continuum
 
-⭐ 37 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/CambrianTech/continuum) · 组织维护
+⭐ 37 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/CambrianTech/continuum) · 组织维护
 
 **本地优先的持续学习 AI agent 社会运行平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CambrianTech/continuum 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    title "CambrianTech/continuum 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37]
+    line [34, 35, 36, 37, 37]
 ```
 
-2026-10-18 34 → 2026-10-29 37（+3）
+2026-10-18 34 → 2026-10-30 37（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mindspore-ai/models
 
-⭐ 367 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mindspore-ai/models) · 组织维护 · 中文 README
+⭐ 367 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mindspore-ai/models) · 组织维护 · 中文 README
 
 **MindSpore 框架的官方模型库：多任务域 SOTA 模型实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mindspore-ai/models 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-23", "2026-10-30"]
     y-axis "stars" 366 --> 368
     line [367, 367]
 ```
 
-2026-10-23 367 → 2026-10-29 367（+0）
+2026-10-23 367 → 2026-10-30 367（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # openml/OpenML
 
-⭐ 760 · PHP · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/openml/OpenML) · [官网](https://openml.org) · 组织维护
+⭐ 761 · PHP · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/openml/OpenML) · [官网](https://openml.org) · 组织维护
 
 **开放科学平台：共享机器学习数据集、算法与实验**
 
@@ -44,13 +44,13 @@ OpenML 是一个在线机器学习平台，用于共享和组织数据集、机�
 
 ```mermaid
 xychart-beta
-    title "openml/OpenML 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 756 --> 761
-    line [757, 758, 760]
+    title "openml/OpenML 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 756 --> 762
+    line [757, 758, 760, 761]
 ```
 
-2026-10-18 757 → 2026-10-29 760（+3）
+2026-10-18 757 → 2026-10-30 761（+4）
 
 
 ---

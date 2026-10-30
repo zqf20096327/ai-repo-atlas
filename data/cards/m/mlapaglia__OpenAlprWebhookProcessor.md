@@ -1,6 +1,6 @@
 # mlapaglia/OpenAlprWebhookProcessor
 
-⭐ 25 · C# · 推送 2026-10-25 · [GitHub](https://github.com/mlapaglia/OpenAlprWebhookProcessor) · [官网](https://ipcamtalk.com/threads/openalpr-webhook-processor-for-ip-cameras.53364/) · 个人维护
+⭐ 25 · C# · 推送 2026-10-29 · [GitHub](https://github.com/mlapaglia/OpenAlprWebhookProcessor) · [官网](https://ipcamtalk.com/threads/openalpr-webhook-processor-for-ip-cameras.53364/) · 个人维护
 
 **处理 OpenALPR webhooks 的车牌检测管理与摄像头叠加系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mlapaglia/OpenAlprWebhookProcessor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

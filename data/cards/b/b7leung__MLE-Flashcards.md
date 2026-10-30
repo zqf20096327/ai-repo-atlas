@@ -1,6 +1,6 @@
 # b7leung/MLE-Flashcards
 
-⭐ 2,516 · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/b7leung/MLE-Flashcards) · 个人维护
+⭐ 2,515 · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/b7leung/MLE-Flashcards) · 个人维护
 
 **250+ 机器学习主题复习用闪卡集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "b7leung/MLE-Flashcards 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 2515 --> 2518
-    line [2517, 2516, 2516]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 2514 --> 2518
+    line [2517, 2516, 2515]
 ```
 
-2026-10-18 2,517 → 2026-10-29 2,516（-1）
+2026-10-18 2,517 → 2026-10-30 2,515（-2）
 
 
 ---

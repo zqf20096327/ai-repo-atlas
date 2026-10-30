@@ -1,6 +1,6 @@
 # microsoft/vscode-websearchforcopilot
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/vscode-websearchforcopilot) · 组织维护
+⭐ 64 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/vscode-websearchforcopilot) · 组织维护
 
 **为 GitHub Copilot 提供网页搜索能力的 VS Code 扩展示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/vscode-websearchforcopilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

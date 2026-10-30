@@ -1,6 +1,6 @@
 # zilliztech/attu
 
-⭐ 3,221 · Shell · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/zilliztech/attu) · [官网](https://github.com/zilliztech/attu) · 组织维护 · 中文 README
+⭐ 3,223 · Shell · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/zilliztech/attu) · [官网](https://github.com/zilliztech/attu) · 组织维护 · 中文 README
 
 **Milvus 向量数据库的图形化管理与监控工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zilliztech/attu 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 3199 --> 3223
-    line [3201, 3206, 3210, 3212, 3213, 3215, 3221]
+    title "zilliztech/attu 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3199 --> 3225
+    line [3201, 3206, 3210, 3212, 3213, 3215, 3221, 3223]
 ```
 
-2026-10-18 3,201 → 2026-10-29 3,221（+20）
+2026-10-18 3,201 → 2026-10-30 3,223（+22）
 
 
 ---

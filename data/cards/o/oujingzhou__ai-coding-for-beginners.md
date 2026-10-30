@@ -1,6 +1,6 @@
 # oujingzhou/ai-coding-for-beginners
 
-⭐ 161 · 推送 2026-03-02 · [GitHub](https://github.com/oujingzhou/ai-coding-for-beginners) · 个人维护 · 中文 README
+⭐ 162 · 推送 2026-03-02 · [GitHub](https://github.com/oujingzhou/ai-coding-for-beginners) · 个人维护 · 中文 README
 
 **Stanford CS146S 现代 AI 软件开发中文教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "oujingzhou/ai-coding-for-beginners 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 156 --> 162
-    line [157, 158, 160, 161, 161]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 156 --> 163
+    line [157, 158, 160, 161, 162]
 ```
 
-2026-10-18 157 → 2026-10-29 161（+4）
+2026-10-18 157 → 2026-10-30 162（+5）
 
 
 ---

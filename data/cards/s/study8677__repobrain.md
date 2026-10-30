@@ -1,6 +1,6 @@
 # study8677/repobrain
 
-⭐ 1,354 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/study8677/repobrain) · [官网](https://deepwiki.com/study8677/antigravity-workspace-template) · 个人维护 · 中文 README
+⭐ 1,356 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/study8677/repobrain) · [官网](https://deepwiki.com/study8677/antigravity-workspace-template) · 个人维护 · 中文 README
 
 **跨 IDE 仓库知识引擎：为代码问答提供带出处上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "study8677/repobrain 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1339 --> 1356
-    line [1340, 1351, 1354, 1355, 1354]
+    title "study8677/repobrain 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1339 --> 1357
+    line [1340, 1351, 1354, 1355, 1354, 1356]
 ```
 
-2026-10-18 1,340 → 2026-10-29 1,354（+14）
+2026-10-18 1,340 → 2026-10-30 1,356（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/MCP-Server-and-PostgreSQL-Sample-Retail
 
-⭐ 22 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/microsoft/MCP-Server-and-PostgreSQL-Sample-Retail) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/MCP-Server-and-PostgreSQL-Sample-Retail) · 组织维护
 
 **微软零售销售 MCP 服务器示例：教开发者构建数据库接入的 MCP 服务**
 
@@ -45,12 +45,12 @@ Microsoft 维护的示例项目，演示如何构建并部署一个 Model Contex
 ```mermaid
 xychart-beta
     title "microsoft/MCP-Server-and-PostgreSQL-Sample-Retail 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-10-18 20 → 2026-10-29 22（+2）
+2026-10-18 20 → 2026-10-30 22（+2）
 
 
 ---

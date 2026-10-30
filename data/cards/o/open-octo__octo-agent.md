@@ -1,6 +1,6 @@
 # open-octo/octo-agent
 
-⭐ 138 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/open-octo/octo-agent) · [官网](https://octo-agent.dev/) · 组织维护 · 中文 README
+⭐ 138 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/open-octo/octo-agent) · [官网](https://octo-agent.dev/) · 组织维护 · 中文 README
 
 **单二进制自托管 AI agent，覆盖八种交互入口**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "open-octo/octo-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 130 --> 139
     line [131, 132, 135, 136, 137, 138, 138]
 ```
 
-2026-10-18 131 → 2026-10-29 138（+7）
+2026-10-18 131 → 2026-10-30 138（+7）
 
 
 ---

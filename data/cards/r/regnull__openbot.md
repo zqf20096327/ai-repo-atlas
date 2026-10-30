@@ -1,6 +1,6 @@
 # regnull/openbot
 
-⭐ 34 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/regnull/openbot) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/regnull/openbot) · 个人维护
 
 **自托管多 AI bot 团队运行平台：持久记忆、工具与相互协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "regnull/openbot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 29 --> 35
     line [30, 31, 33, 34, 34]
 ```
 
-2026-10-18 30 → 2026-10-29 34（+4）
+2026-10-18 30 → 2026-10-30 34（+4）
 
 
 ---

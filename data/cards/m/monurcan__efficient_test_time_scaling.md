@@ -1,6 +1,6 @@
 # monurcan/efficient_test_time_scaling
 
-⭐ 29 · Python · 推送 2025-11-17 · [GitHub](https://github.com/monurcan/efficient_test_time_scaling) · [官网](https://monurcan.github.io/efficient_test_time_scaling) · 组织维护
+⭐ 30 · Python · 推送 2025-11-17 · [GitHub](https://github.com/monurcan/efficient_test_time_scaling) · [官网](https://monurcan.github.io/efficient_test_time_scaling) · 组织维护
 
 **小型 VLM 的测试时扩展官方实现：增强聚合与测试时适应提升推理性能**
 
@@ -46,12 +46,12 @@ ICLR'26 论文 Efficient Test-Time Scaling for Small Vision-Language Models 的�
 ```mermaid
 xychart-beta
     title "monurcan/efficient_test_time_scaling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-29 29（+0）
+2026-10-18 29 → 2026-10-30 30（+1）
 
 
 ---

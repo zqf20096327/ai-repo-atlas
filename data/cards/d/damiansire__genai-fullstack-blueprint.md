@@ -47,12 +47,12 @@ TypeScript monorepo 形式提供的多模态生成式 AI 应用参考蓝图（�
 ```mermaid
 xychart-beta
     title "damiansire/genai-fullstack-blueprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-10-29 93（+0）
+2026-10-18 93 → 2026-10-30 93（+0）
 
 
 ---

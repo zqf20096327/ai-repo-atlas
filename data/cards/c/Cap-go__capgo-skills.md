@@ -1,6 +1,6 @@
 # Cap-go/capgo-skills
 
-⭐ 73 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Cap-go/capgo-skills) · [官网](https://capgo.app) · 组织维护
+⭐ 74 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Cap-go/capgo-skills) · [官网](https://capgo.app) · 组织维护
 
 **面向 AI 编码代理的 Capacitor 移动开发技能库**
 
@@ -46,12 +46,12 @@ Capgo 维护的 agent 技能合集：以打包指令形式扩展 Claude Code、C
 ```mermaid
 xychart-beta
     title "Cap-go/capgo-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 73, 73]
+    line [73, 74, 73, 74]
 ```
 
-2026-10-18 73 → 2026-10-29 73（+0）
+2026-10-18 73 → 2026-10-30 74（+1）
 
 
 ---

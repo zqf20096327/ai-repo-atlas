@@ -1,6 +1,6 @@
 # nWave-ai/nWave
 
-⭐ 625 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/nWave-ai/nWave) · [官网](https://nwave.ai) · 组织维护
+⭐ 626 · Python · MIT · 推送 2026-09-16 · [GitHub](https://github.com/nWave-ai/nWave) · [官网](https://nwave.ai) · 组织维护
 
 **在 Claude Code 内运行的多 agent 分阶段软件开发工作流框架**
 
@@ -46,13 +46,13 @@ nWave 是嵌入 Claude Code 运行的 agentic 开发工作流：将功能交付�
 
 ```mermaid
 xychart-beta
-    title "nWave-ai/nWave 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 619 --> 626
-    line [620, 621, 622, 623, 624, 625]
+    title "nWave-ai/nWave 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 619 --> 627
+    line [620, 621, 622, 623, 624, 625, 626]
 ```
 
-2026-10-18 620 → 2026-10-29 625（+5）
+2026-10-18 620 → 2026-10-30 626（+6）
 
 
 ---

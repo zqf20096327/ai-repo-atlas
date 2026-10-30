@@ -1,6 +1,6 @@
 # MajoorWaldi/ComfyUI-Majoor-OmniCam
 
-⭐ 92 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) · 个人维护
+⭐ 93 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam) · 个人维护
 
 **给 ComfyUI 用户的摄像机布局与动画自定义节点集**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集，含 Director（3D 视口内布置摄像机/物体�
 ```mermaid
 xychart-beta
     title "MajoorWaldi/ComfyUI-Majoor-OmniCam 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 86 --> 93
-    line [87, 89, 90, 91, 92, 92]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 86 --> 94
+    line [87, 89, 90, 91, 92, 93]
 ```
 
-2026-10-18 87 → 2026-10-29 92（+5）
+2026-10-18 87 → 2026-10-30 93（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Manho/Panelize
 
-⭐ 51 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manho/Panelize) · [官网](https://panelize.dev) · 个人维护 · 中文 README
+⭐ 56 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Manho/Panelize) · [官网](https://panelize.dev) · 个人维护 · 中文 README
 
 **浏览器扩展：一条提示词同时发给多个 AI 聊天网站并排对比**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Manho/Panelize 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 40 --> 52
-    line [41, 44, 46, 47, 48, 49, 51]
+    title "Manho/Panelize 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 40 --> 57
+    line [41, 44, 46, 47, 48, 49, 51, 56]
 ```
 
-2026-10-18 41 → 2026-10-29 51（+10）
+2026-10-18 41 → 2026-10-30 56（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # tobilg/ai-observer
 
-⭐ 279 · Go · MIT · 推送 2026-09-15 · [GitHub](https://github.com/tobilg/ai-observer) · 个人维护
+⭐ 280 · Go · MIT · 推送 2026-09-15 · [GitHub](https://github.com/tobilg/ai-observer) · 个人维护
 
 **自托管单二进制的 AI 编程助手可观测性后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tobilg/ai-observer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 278 --> 280
-    line [279, 279]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 278 --> 281
+    line [279, 280]
 ```
 
-2026-10-18 279 → 2026-10-29 279（+0）
+2026-10-18 279 → 2026-10-30 280（+1）
 
 
 ---

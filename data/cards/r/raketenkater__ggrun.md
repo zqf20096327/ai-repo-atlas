@@ -1,6 +1,6 @@
 # raketenkater/ggrun
 
-⭐ 282 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
+⭐ 282 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
 
 **本地 GGUF 模型启动器：按显存/内存精确规划并启动 llama.cpp 后端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raketenkater/ggrun 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 279 --> 283
     line [280, 281, 282, 282]
 ```
 
-2026-10-18 280 → 2026-10-29 282（+2）
+2026-10-18 280 → 2026-10-30 282（+2）
 
 
 ---

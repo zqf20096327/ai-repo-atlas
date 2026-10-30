@@ -1,6 +1,6 @@
 # rakei076/alimama-cli
 
-⭐ 45 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rakei076/alimama-cli) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/rakei076/alimama-cli) · 个人维护 · 中文 README
 
 **读取万相台广告数据的只读 CLI + MCP Skill，供 AI 助手查广告花费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rakei076/alimama-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 45, 45]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 46]
 ```
 
-2026-10-18 43 → 2026-10-29 45（+2）
+2026-10-18 43 → 2026-10-30 46（+3）
 
 
 ---

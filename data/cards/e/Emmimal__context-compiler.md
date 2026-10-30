@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Emmimal/context-compiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "Emmimal/context-compiler 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-10-29 64（+1）
+2026-10-18 63 → 2026-10-30 64（+1）
 
 
 ---

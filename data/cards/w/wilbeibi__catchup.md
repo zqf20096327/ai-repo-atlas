@@ -1,6 +1,6 @@
 # wilbeibi/catchup
 
-⭐ 80 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wilbeibi/catchup) · [官网](https://catchup.pages.dev/) · 个人维护
+⭐ 81 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/wilbeibi/catchup) · [官网](https://catchup.pages.dev/) · 个人维护
 
 **本地 CLI：在多个 AI 编程 agent 间迁移与恢复会话上下文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wilbeibi/catchup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 78 --> 81
-    line [79, 80]
+    title "wilbeibi/catchup 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 78 --> 82
+    line [79, 80, 81]
 ```
 
-2026-10-18 79 → 2026-10-29 80（+1）
+2026-10-18 79 → 2026-10-30 81（+2）
 
 
 ---

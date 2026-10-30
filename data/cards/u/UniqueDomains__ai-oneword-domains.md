@@ -1,6 +1,6 @@
 # UniqueDomains/ai-oneword-domains
 
-⭐ 17 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/UniqueDomains/ai-oneword-domains) · [官网](https://unique.domains/tld/ai) · 组织维护
+⭐ 17 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/UniqueDomains/ai-oneword-domains) · [官网](https://unique.domains/tld/ai) · 组织维护
 
 **给创始人/投资者的 .ai 单词域名公开数据集（1,000 行抽取）**
 
@@ -46,12 +46,12 @@ Unique Domains 维护的 .ai 一词域名公开数据集仓库：发布 1,000 �
 ```mermaid
 xychart-beta
     title "UniqueDomains/ai-oneword-domains 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

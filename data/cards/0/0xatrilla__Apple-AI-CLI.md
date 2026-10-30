@@ -45,12 +45,12 @@ TypeScript 编写的 macOS 命令行代码助手，调用 Apple Intelligence 的
 ```mermaid
 xychart-beta
     title "0xatrilla/Apple-AI-CLI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 35（+0）
 
 
 ---

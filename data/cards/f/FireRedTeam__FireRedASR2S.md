@@ -1,6 +1,6 @@
 # FireRedTeam/FireRedASR2S
 
-⭐ 726 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/FireRedTeam/FireRedASR2S) · 组织维护 · 中文 README
+⭐ 727 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/FireRedTeam/FireRedASR2S) · 组织维护 · 中文 README
 
 **一体化工业级语音识别系统：ASR/VAD/LID/标点四模块**
 
@@ -46,12 +46,12 @@ FireRedTeam 开源的一体式 ASR 系统及模型权重，含四个可独立使
 ```mermaid
 xychart-beta
     title "FireRedTeam/FireRedASR2S 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 714 --> 727
-    line [715, 717, 722, 724, 725, 726, 726]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 714 --> 728
+    line [715, 717, 722, 724, 725, 726, 727]
 ```
 
-2026-10-18 715 → 2026-10-29 726（+11）
+2026-10-18 715 → 2026-10-30 727（+12）
 
 
 ---

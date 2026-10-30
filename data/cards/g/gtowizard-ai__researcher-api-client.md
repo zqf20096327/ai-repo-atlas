@@ -1,6 +1,6 @@
 # gtowizard-ai/researcher-api-client
 
-⭐ 25 · Python · 推送 2026-04-09 · [GitHub](https://github.com/gtowizard-ai/researcher-api-client) · [官网](https://researcher.gtowizard.com/docs) · 组织维护
+⭐ 26 · Python · 推送 2026-04-09 · [GitHub](https://github.com/gtowizard-ai/researcher-api-client) · [官网](https://researcher.gtowizard.com/docs) · 组织维护
 
 **面向研究者的扑克 AI agent 基准评测 API 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gtowizard-ai/researcher-api-client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 26（+2）
 
 
 ---

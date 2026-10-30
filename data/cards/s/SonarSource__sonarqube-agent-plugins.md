@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-agent-plugins
 
-⭐ 114 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/SonarSource/sonarqube-agent-plugins) · 组织维护
+⭐ 114 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/SonarSource/sonarqube-agent-plugins) · 组织维护
 
 **让 AI 编码代理接入 SonarQube 代码质量检查的插件集**
 
@@ -45,13 +45,13 @@ SonarSource 官方发布的多平台代理插件仓库，覆盖 Claude Code、Gi
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-agent-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "SonarSource/sonarqube-agent-plugins 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 111 --> 115
-    line [112, 113, 114]
+    line [112, 113, 114, 114]
 ```
 
-2026-10-18 112 → 2026-10-29 114（+2）
+2026-10-18 112 → 2026-10-30 114（+2）
 
 
 ---

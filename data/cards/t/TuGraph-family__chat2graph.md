@@ -1,6 +1,6 @@
 # TuGraph-family/chat2graph
 
-⭐ 429 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/TuGraph-family/chat2graph) · [官网](https://chat2graph.vercel.app) · 组织维护 · 中文 README
+⭐ 430 · Python · Apache-2.0 · 推送 2026-03-04 · [GitHub](https://github.com/TuGraph-family/chat2graph) · [官网](https://chat2graph.vercel.app) · 组织维护 · 中文 README
 
 **图原生的 Agentic 系统：以图谱+AI 构建智能体应用**
 
@@ -45,12 +45,12 @@ Chat2Graph 自称 Graph Native Agentic System，以 agent 为蓝图探索“图 
 ```mermaid
 xychart-beta
     title "TuGraph-family/chat2graph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 428 --> 431
-    line [430, 429, 429]
+    line [430, 429, 430]
 ```
 
-2026-10-18 430 → 2026-10-29 429（-1）
+2026-10-18 430 → 2026-10-30 430（+0）
 
 
 ---

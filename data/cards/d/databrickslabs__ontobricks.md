@@ -1,6 +1,6 @@
 # databrickslabs/ontobricks
 
-⭐ 448 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/databrickslabs/ontobricks) · 组织维护
+⭐ 452 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/databrickslabs/ontobricks) · 组织维护
 
 **把 Databricks 表转成知识图谱并通过 MCP 发布给 AI agent 的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "databrickslabs/ontobricks 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 413 --> 451
-    line [416, 418, 420, 429, 439, 441, 442, 444, 447, 448]
+    title "databrickslabs/ontobricks 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 413 --> 455
+    line [416, 418, 420, 429, 439, 441, 442, 444, 447, 448, 452]
 ```
 
-2026-10-18 416 → 2026-10-29 448（+32）
+2026-10-18 416 → 2026-10-30 452（+36）
 
 
 ---

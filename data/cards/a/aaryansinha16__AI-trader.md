@@ -1,6 +1,6 @@
 # aaryansinha16/AI-trader
 
-⭐ 80 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/aaryansinha16/AI-trader) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/aaryansinha16/AI-trader) · 个人维护
 
 **面向 NSE F&O 的日内期权算法交易研究平台（NIFTY）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aaryansinha16/AI-trader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 75 --> 81
-    line [76, 77, 79, 80]
+    title "aaryansinha16/AI-trader 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 79, 80, 81]
 ```
 
-2026-10-18 76 → 2026-10-29 80（+4）
+2026-10-18 76 → 2026-10-30 81（+5）
 
 
 ---

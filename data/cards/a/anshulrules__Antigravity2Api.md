@@ -1,6 +1,6 @@
 # anshulrules/Antigravity2Api
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/anshulrules/Antigravity2Api) · [官网](https://anshulrules.github.io) · 个人维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/anshulrules/Antigravity2Api) · [官网](https://anshulrules.github.io) · 个人维护
 
 **将 Antigravity 转换为标准 Claude/Gemini API 的接口转换工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anshulrules/Antigravity2Api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 18 --> 28
+    line [19, 20, 21, 27]
 ```
 
-2026-10-18 19 → 2026-10-29 21（+2）
+2026-10-18 19 → 2026-10-30 27（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelplaneai/modelplane
 
-⭐ 200 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelplaneai/modelplane) · [官网](https://modelplane.ai) · 组织维护
+⭐ 205 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelplaneai/modelplane) · [官网](https://modelplane.ai) · 组织维护
 
 **面向平台团队与开发者的 AI 推理基础设施编排控制平面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelplaneai/modelplane 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 189 --> 201
-    line [190, 191, 195, 196, 198, 200]
+    title "modelplaneai/modelplane 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 189 --> 206
+    line [190, 191, 195, 196, 198, 200, 205]
 ```
 
-2026-10-18 190 → 2026-10-29 200（+10）
+2026-10-18 190 → 2026-10-30 205（+15）
 
 
 ---

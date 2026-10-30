@@ -1,6 +1,6 @@
 # Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2025-11-26 · [GitHub](https://github.com/Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation) · [官网](https://tsi-yoontae.github.io/#home) · 个人维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2025-11-26 · [GitHub](https://github.com/Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation) · [官网](https://tsi-yoontae.github.io/#home) · 个人维护
 
 **论文官方 PyTorch 实现：基于路径签名的 Transformer 资产配置**
 
@@ -45,12 +45,12 @@ SIGNATURE-INFORMED TRANSFORMER FOR ASSET ALLOCATION 论文的原始 PyTorch 实�
 ```mermaid
 xychart-beta
     title "Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 28（+1）
 
 
 ---

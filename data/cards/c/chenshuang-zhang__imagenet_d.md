@@ -44,12 +44,12 @@ CVPR 2024 Highlight 论文的官方代码与数据仓库：ImageNet-D 利用扩�
 ```mermaid
 xychart-beta
     title "chenshuang-zhang/imagenet_d 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-29 47（+0）
+2026-10-18 47 → 2026-10-30 47（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/uplifting-biomolecular-modeling
 
-⭐ 370 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/uplifting-biomolecular-modeling) · 组织维护
+⭐ 371 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/anthropics/uplifting-biomolecular-modeling) · 组织维护
 
 **36 个蛋白质/基因组学 ML 工具的推理加速套件（Anthropic）**
 
@@ -45,13 +45,13 @@ Anthropic 发布的推理优化套件集：为 36 个开源蛋白质与基因组
 
 ```mermaid
 xychart-beta
-    title "anthropics/uplifting-biomolecular-modeling 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 351 --> 371
-    line [352, 354, 364, 365, 366, 367, 368, 370]
+    title "anthropics/uplifting-biomolecular-modeling 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 351 --> 372
+    line [352, 354, 364, 365, 366, 367, 368, 370, 371]
 ```
 
-2026-10-18 352 → 2026-10-29 370（+18）
+2026-10-18 352 → 2026-10-30 371（+19）
 
 
 ---

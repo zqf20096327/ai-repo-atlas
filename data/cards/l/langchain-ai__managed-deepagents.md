@@ -1,6 +1,6 @@
 # langchain-ai/managed-deepagents
 
-⭐ 22 · 推送 2026-10-24 · [GitHub](https://github.com/langchain-ai/managed-deepagents) · [官网](https://docs.langchain.com/langsmith/python/managed-deep-agents-overview) · 组织维护
+⭐ 24 · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/managed-deepagents) · [官网](https://docs.langchain.com/langsmith/python/managed-deep-agents-overview) · 组织维护
 
 **帮助开发者在 LangSmith 托管基础设施上构建与部署深度 agent 的 SDK/CLI**
 
@@ -45,12 +45,12 @@ LangChain 团队提供的 Managed Deep Agents 工具：通过 mda CLI 初始化 
 ```mermaid
 xychart-beta
     title "langchain-ai/managed-deepagents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 24]
 ```
 
-2026-10-18 20 → 2026-10-29 22（+2）
+2026-10-18 20 → 2026-10-30 24（+4）
 
 
 ---

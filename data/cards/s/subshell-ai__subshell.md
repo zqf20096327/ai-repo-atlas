@@ -1,6 +1,6 @@
 # subshell-ai/subshell
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/subshell-ai/subshell) · [官网](https://subshell.sh) · 组织维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/subshell-ai/subshell) · [官网](https://subshell.sh) · 组织维护
 
 **自托管仪表盘：跨设备访问并管理编码 agent CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "subshell-ai/subshell 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
     y-axis "stars" 13 --> 20
     line [14, 17, 19, 19]
 ```
 
-2026-10-18 14 → 2026-10-29 19（+5）
+2026-10-18 14 → 2026-10-30 19（+5）
 
 
 ---

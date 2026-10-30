@@ -1,6 +1,6 @@
 # theo-kirby/ouroboros
 
-⭐ 30 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/theo-kirby/ouroboros) · [官网](https://borris.dev) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/theo-kirby/ouroboros) · [官网](https://borris.dev) · 个人维护
 
 **让 Claude Code/Codex/Pi 长时间自主跑任务的循环框架**
 
@@ -40,6 +40,18 @@
 > L5:  Autonomous framework for long-running agents
 > L17: guides Claude Code, Codex or Pi through a loop that runs for hours: one agent
 > L30: You need Python 3.12+, `uv`, and at least one
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "theo-kirby/ouroboros 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-10-29 30 → 2026-10-30 30（+0）
 
 
 ---

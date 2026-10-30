@@ -1,6 +1,6 @@
 # K-Dense-AI/scientific-agents
 
-⭐ 229 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/K-Dense-AI/scientific-agents) · [官网](https://arxiv.org/abs/2610.00084) · 组织维护
+⭐ 232 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/K-Dense-AI/scientific-agents) · [官网](https://arxiv.org/abs/2610.00084) · 组织维护
 
 **科研/工程专家思维 AGENTS.md 提示词档案合集，供 AI agent 加载**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "K-Dense-AI/scientific-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 213 --> 230
-    line [214, 218, 222, 225, 226, 227, 229, 229]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 213 --> 233
+    line [214, 218, 222, 225, 226, 227, 229, 232]
 ```
 
-2026-10-18 214 → 2026-10-29 229（+15）
+2026-10-18 214 → 2026-10-30 232（+18）
 
 
 ---

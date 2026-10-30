@@ -1,6 +1,6 @@
 # starai-platform/starai
 
-⭐ 46 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/starai-platform/starai) · [官网](https://star-ai.life) · 组织维护 · 中文 README
+⭐ 46 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/starai-platform/starai) · [官网](https://star-ai.life) · 组织维护 · 中文 README
 
 **开源 AI 聚合平台：对话、多媒体生成、智能体与计费一体化建站**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "starai-platform/starai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "starai-platform/starai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 38 --> 47
-    line [39, 40, 41, 42, 43, 46]
+    line [39, 40, 41, 42, 43, 46, 46]
 ```
 
-2026-10-18 39 → 2026-10-29 46（+7）
+2026-10-18 39 → 2026-10-30 46（+7）
 
 
 ---

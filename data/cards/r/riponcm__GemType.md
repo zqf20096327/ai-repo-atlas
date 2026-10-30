@@ -1,6 +1,6 @@
 # riponcm/GemType
 
-⭐ 155 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 个人维护
+⭐ 156 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 个人维护
 
 **自带 Gemini key 的浏览器/桌面语法检查与改写工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "riponcm/GemType 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 150 --> 156
-    line [151, 153, 154, 155, 155]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 150 --> 157
+    line [151, 153, 154, 155, 156]
 ```
 
-2026-10-18 151 → 2026-10-29 155（+4）
+2026-10-18 151 → 2026-10-30 156（+5）
 
 
 ---

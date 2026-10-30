@@ -1,6 +1,6 @@
 # datawhalechina/zero-to-sglang
 
-⭐ 1,643 · Python · 推送 2026-10-28 · [GitHub](https://github.com/datawhalechina/zero-to-sglang) · [官网](https://datawhalechina.github.io/zero-to-sglang/) · 组织维护 · 中文 README
+⭐ 1,653 · Python · 推送 2026-10-29 · [GitHub](https://github.com/datawhalechina/zero-to-sglang) · [官网](https://datawhalechina.github.io/zero-to-sglang/) · 组织维护 · 中文 README
 
 **从零构建 LLM 推理引擎的 SGLang 实战教程课程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/zero-to-sglang 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1483 --> 1657
-    line [1497, 1521, 1550, 1561, 1579, 1586, 1605, 1623, 1632, 1643]
+    title "datawhalechina/zero-to-sglang 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1482 --> 1668
+    line [1497, 1521, 1550, 1561, 1579, 1586, 1605, 1623, 1632, 1643, 1653]
 ```
 
-2026-10-18 1,497 → 2026-10-29 1,643（+146）
+2026-10-18 1,497 → 2026-10-30 1,653（+156）
 
 
 ---

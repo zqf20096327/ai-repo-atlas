@@ -45,12 +45,12 @@ Alias-free Latent Diffusion Models 的官方 PyTorch 实现：针对 LDM 的 VAE
 ```mermaid
 xychart-beta
     title "SingleZombie/AFLDM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-18 108 → 2026-10-29 108（+0）
+2026-10-18 108 → 2026-10-30 108（+0）
 
 
 ---

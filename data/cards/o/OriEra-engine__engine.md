@@ -1,6 +1,6 @@
 # OriEra-engine/engine
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/OriEra-engine/engine) · [官网](https://oriera-engine.github.io/engine/) · 组织维护 · 中文 README
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/OriEra-engine/engine) · [官网](https://oriera-engine.github.io/engine/) · 组织维护 · 中文 README
 
 **AI 原生开放数字世界引擎：自然语言创作与自演化 3D 世界**
 
@@ -46,13 +46,13 @@ Rust 编写的实时 3D 世界运行时，采用 11 层架构，面向 PC/移动
 
 ```mermaid
 xychart-beta
-    title "OriEra-engine/engine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5 --> 22
-    line [6, 11, 16, 17, 20, 21]
+    title "OriEra-engine/engine 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5 --> 23
+    line [6, 11, 16, 17, 20, 21, 22]
 ```
 
-2026-10-18 6 → 2026-10-29 21（+15）
+2026-10-18 6 → 2026-10-30 22（+16）
 
 
 ---

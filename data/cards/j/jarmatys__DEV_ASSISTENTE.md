@@ -1,6 +1,6 @@
 # jarmatys/DEV_ASSISTENTE
 
-⭐ 45 · C# · MIT · 推送 2025-11-19 · [GitHub](https://github.com/jarmatys/DEV_ASSISTENTE) · [官网](https://assistente.dev) · 个人维护
+⭐ 45 · C# · MIT · 推送 2025-11-19 · [GitHub](https://github.com/jarmatys/DEV_ASSISTENTE) · 个人维护
 
 **开发者个人知识库助手：存储笔记/代码片段并生成回答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jarmatys/DEV_ASSISTENTE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

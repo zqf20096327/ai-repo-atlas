@@ -1,6 +1,6 @@
 # BiomedSciAI/causallib
 
-⭐ 834 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/BiomedSciAI/causallib) · 组织维护
+⭐ 835 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/BiomedSciAI/causallib) · 组织维护
 
 **Python 因果推断分析库：从观察数据估计干预的因果效应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BiomedSciAI/causallib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 833 --> 835
-    line [834, 834]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 833 --> 836
+    line [834, 835]
 ```
 
-2026-10-18 834 → 2026-10-29 834（+0）
+2026-10-18 834 → 2026-10-30 835（+1）
 
 
 ---

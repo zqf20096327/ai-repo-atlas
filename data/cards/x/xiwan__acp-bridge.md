@@ -1,6 +1,6 @@
 # xiwan/acp-bridge
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/xiwan/acp-bridge) · [官网](https://aws.amazon.com/cn/blogs/china/enable-kiro-and-claude-code-for-im-with-acp-bridge-async-ai-workflow/) · 个人维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/xiwan/acp-bridge) · [官网](https://aws.amazon.com/cn/blogs/china/enable-kiro-and-claude-code-for-im-with-acp-bridge-async-ai-workflow/) · 个人维护 · 中文 README
 
 **把本地 CLI 编程 agent 暴露为 HTTP 服务的多 agent 编排平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiwan/acp-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 94 --> 98
+    line [95, 96, 97]
 ```
 
-2026-10-18 95 → 2026-10-29 96（+1）
+2026-10-18 95 → 2026-10-30 97（+2）
 
 
 ---

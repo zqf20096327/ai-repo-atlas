@@ -1,6 +1,6 @@
 # online-ml/deep-river
 
-⭐ 177 · Python · BSD-3-Clause · 推送 2026-10-20 · [GitHub](https://github.com/online-ml/deep-river) · [官网](https://online-ml.github.io/deep-river/) · 组织维护
+⭐ 177 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/online-ml/deep-river) · [官网](https://online-ml.github.io/deep-river/) · 组织维护
 
 **给流式数据的在线深度学习库：神经网络增量训练与预测**
 
@@ -45,12 +45,12 @@ Python 库，将 river 的在线机器学习 API 与 PyTorch 的神经网络构�
 ```mermaid
 xychart-beta
     title "online-ml/deep-river 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-18 177 → 2026-10-29 177（+0）
+2026-10-18 177 → 2026-10-30 177（+0）
 
 
 ---

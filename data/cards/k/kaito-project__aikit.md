@@ -46,13 +46,13 @@ AIKit 提供基于 LocalAI 的 OpenAI 兼容推理服务、基于 Unsloth 的微
 
 ```mermaid
 xychart-beta
-    title "kaito-project/aikit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "kaito-project/aikit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 538 --> 541
-    line [539, 540]
+    line [539, 540, 540]
 ```
 
-2026-10-18 539 → 2026-10-29 540（+1）
+2026-10-18 539 → 2026-10-30 540（+1）
 
 
 ---

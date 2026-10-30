@@ -1,6 +1,6 @@
 # Nativu5/Gemini-FastAPI
 
-⭐ 719 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护 · 中文 README
+⭐ 719 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护 · 中文 README
 
 **将 Gemini 网页版封装为 OpenAI 兼容 API 的服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nativu5/Gemini-FastAPI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 716 --> 720
     line [717, 718, 719, 718, 719, 719]
 ```
 
-2026-10-18 717 → 2026-10-29 719（+2）
+2026-10-18 717 → 2026-10-30 719（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dapr/dapr-agents
 
-⭐ 767 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
+⭐ 768 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
 
 **面向开发者的 Dapr 持久化 AI agent 构建框架**
 
@@ -39,6 +39,18 @@
 
 > L11: Dapr Agents is a developer framework designed to build production-grade resilient AI agent systems that operate at 
 > L57: * 🔄 **Durable Workflow**: Defines long-running, persistent workflows that combine deterministic processes with LLM-
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dapr/dapr-agents 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 766 --> 769
+    line [767, 768]
+```
+
+2026-10-29 767 → 2026-10-30 768（+1）
 
 
 ---

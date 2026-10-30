@@ -1,6 +1,6 @@
 # hhopke/intervals-icu-mcp
 
-⭐ 112 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hhopke/intervals-icu-mcp) · 个人维护
+⭐ 114 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hhopke/intervals-icu-mcp) · 个人维护
 
 **通过 Claude/ChatGPT 等读写 Intervals.icu 训练数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hhopke/intervals-icu-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 98 --> 113
-    line [99, 100, 102, 104, 106, 107, 112]
+    title "hhopke/intervals-icu-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 98 --> 115
+    line [99, 100, 102, 104, 106, 107, 112, 114]
 ```
 
-2026-10-18 99 → 2026-10-29 112（+13）
+2026-10-18 99 → 2026-10-30 114（+15）
 
 
 ---

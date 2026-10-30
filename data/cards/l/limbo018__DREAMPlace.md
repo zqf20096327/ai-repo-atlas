@@ -1,6 +1,6 @@
 # limbo018/DREAMPlace
 
-⭐ 1,062 · C++ · BSD-3-Clause · 推送 2026-07-18 · [GitHub](https://github.com/limbo018/DREAMPlace) · 组织维护
+⭐ 1,063 · C++ · BSD-3-Clause · 推送 2026-07-18 · [GitHub](https://github.com/limbo018/DREAMPlace) · 组织维护
 
 **面向VLSI物理设计研究者：深度学习工具链加速的布局工具**
 
@@ -45,13 +45,13 @@ DREAMPlace 是基于深度学习工具链（PyTorch）实现的 VLSI 布局工�
 
 ```mermaid
 xychart-beta
-    title "limbo018/DREAMPlace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1058 --> 1063
-    line [1059, 1061, 1060, 1061, 1062]
+    title "limbo018/DREAMPlace 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1058 --> 1064
+    line [1059, 1061, 1060, 1061, 1062, 1063]
 ```
 
-2026-10-18 1,059 → 2026-10-29 1,062（+3）
+2026-10-18 1,059 → 2026-10-30 1,063（+4）
 
 
 ---

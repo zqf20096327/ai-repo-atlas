@@ -1,6 +1,6 @@
 # gagolews/datawranglingpy
 
-⭐ 84 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/gagolews/datawranglingpy) · [官网](https://datawranglingpy.gagolewski.com/) · 个人维护
+⭐ 83 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/gagolews/datawranglingpy) · [官网](https://datawranglingpy.gagolewski.com/) · 个人维护
 
 **面向学生的 Python 数据科学入门开放教材**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "gagolews/datawranglingpy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 82 --> 85
+    line [84, 83]
 ```
 
-2026-10-18 84 → 2026-10-29 84（+0）
+2026-10-18 84 → 2026-10-30 83（-1）
 
 
 ---

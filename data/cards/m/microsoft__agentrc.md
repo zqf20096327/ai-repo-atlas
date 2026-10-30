@@ -1,6 +1,6 @@
 # microsoft/agentrc
 
-⭐ 1,112 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/agentrc) · 组织维护
+⭐ 1,113 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/agentrc) · 组织维护
 
 **为 AI 编码 agent 生成并维护仓库上下文配置的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentrc 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1099 --> 1113
-    line [1100, 1101, 1107, 1110, 1111, 1112]
+    title "microsoft/agentrc 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1099 --> 1114
+    line [1100, 1101, 1107, 1110, 1111, 1112, 1113]
 ```
 
-2026-10-18 1,100 → 2026-10-29 1,112（+12）
+2026-10-18 1,100 → 2026-10-30 1,113（+13）
 
 
 ---

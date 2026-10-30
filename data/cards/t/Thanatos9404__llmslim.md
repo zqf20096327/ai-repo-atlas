@@ -1,6 +1,6 @@
 # Thanatos9404/llmslim
 
-⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Thanatos9404/llmslim) · [官网](https://www.llmslim.app) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Thanatos9404/llmslim) · [官网](https://www.llmslim.app) · 个人维护
 
 **给 AI agent 的长期记忆与上下文压缩层：无 LLM 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Thanatos9404/llmslim 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 15 --> 24
-    line [16, 17, 20, 21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 15 --> 25
+    line [16, 17, 20, 21, 22, 23, 24]
 ```
 
-2026-10-18 16 → 2026-10-29 23（+7）
+2026-10-18 16 → 2026-10-30 24（+8）
 
 
 ---

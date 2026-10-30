@@ -1,6 +1,6 @@
 # XeldarAlz/everything-claude-unity
 
-⭐ 25 · Shell · MIT · 推送 2026-04-24 · [GitHub](https://github.com/XeldarAlz/everything-claude-unity) · [官网](https://github.com/XeldarAlz/everything-claude-unity#readme) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给独立 Unity 开发者的 Claude Code 工具集：20 个 agent 加安全钩子**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

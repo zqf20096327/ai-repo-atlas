@@ -40,6 +40,18 @@ DataRobot 官方维护的 Apache Airflow provider 包，提供 operators、senso
 > L7: This package provides operators, sensors, and a hook to integrate DataRobot into Apache Airflow.
 > L8: Using these components, you should be able to build the essential DataRobot pipeline - create a project, train model
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datarobot/airflow-provider-datarobot 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-10-29 29 → 2026-10-30 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `f1db03d31ec0` · [字段定义](../../DATASET.md)*

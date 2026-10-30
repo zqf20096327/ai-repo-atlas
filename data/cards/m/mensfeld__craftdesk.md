@@ -1,6 +1,6 @@
 # mensfeld/craftdesk
 
-⭐ 67 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/mensfeld/craftdesk) · [官网](http://craftdesk.ai/) · 个人维护
+⭐ 67 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/mensfeld/craftdesk) · [官网](http://craftdesk.ai/) · 个人维护
 
 **面向 Claude Code 的 AI 技能/Agent 包管理器**
 
@@ -46,12 +46,12 @@ CraftDesk CLI 是一个 Node.js 命令行工具，为 Claude Code 等 AI 开发�
 ```mermaid
 xychart-beta
     title "mensfeld/craftdesk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-18 67 → 2026-10-29 67（+0）
+2026-10-18 67 → 2026-10-30 67（+0）
 
 
 ---

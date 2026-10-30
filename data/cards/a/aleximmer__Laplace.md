@@ -1,6 +1,6 @@
 # aleximmer/Laplace
 
-⭐ 550 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aleximmer/Laplace) · [官网](https://aleximmer.github.io/Laplace) · 组织维护
+⭐ 551 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aleximmer/Laplace) · [官网](https://aleximmer.github.io/Laplace) · 组织维护
 
 **PyTorch 神经网络拉普拉斯近似库：贝叶斯后验与不确定性量化**
 
@@ -45,12 +45,12 @@ laplace-torch 是面向深度学习研究者的 Python 库，对整个神经网�
 ```mermaid
 xychart-beta
     title "aleximmer/Laplace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 549 --> 551
-    line [550, 550]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 549 --> 552
+    line [550, 551]
 ```
 
-2026-10-18 550 → 2026-10-29 550（+0）
+2026-10-18 550 → 2026-10-30 551（+1）
 
 
 ---

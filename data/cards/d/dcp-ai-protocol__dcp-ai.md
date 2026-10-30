@@ -1,6 +1,6 @@
 # dcp-ai-protocol/dcp-ai
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dcp-ai-protocol/dcp-ai) · [官网](https://dcp-ai.org) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dcp-ai-protocol/dcp-ai) · [官网](https://dcp-ai.org) · 组织维护 · 中文 README
 
 **AI agent 问责协议：身份绑定、意图声明与可验证审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dcp-ai-protocol/dcp-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

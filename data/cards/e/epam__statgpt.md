@@ -1,6 +1,6 @@
 # epam/statgpt
 
-⭐ 43 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/epam/statgpt) · [官网](https://statgpt.dialx.ai) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/epam/statgpt) · [官网](https://statgpt.dialx.ai) · 组织维护
 
 **面向官方统计数据的自然语言问答平台（Talk-To-Your-Data）**
 
@@ -45,12 +45,12 @@ EPAM 维护的 AI 数据问答平台：用户以自然语言查询官方统计�
 ```mermaid
 xychart-beta
     title "epam/statgpt 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 41 --> 44
     line [42, 43, 43]
 ```
 
-2026-10-18 42 → 2026-10-29 43（+1）
+2026-10-18 42 → 2026-10-30 43（+1）
 
 
 ---

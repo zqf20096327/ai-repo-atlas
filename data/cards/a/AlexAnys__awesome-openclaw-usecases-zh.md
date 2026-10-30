@@ -1,6 +1,6 @@
 # AlexAnys/awesome-openclaw-usecases-zh
 
-⭐ 4,450 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) · [官网](https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme) · 个人维护 · 中文 README
+⭐ 4,448 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) · [官网](https://github.com/AlexAnys/awesome-openclaw-usecases-zh#readme) · 个人维护 · 中文 README
 
 **面向中文用户的 OpenClaw 50 个真实使用案例合集**
 
@@ -44,13 +44,13 @@ OpenClaw（开源个人 AI 智能体）的中文用例策展仓库：收录 50 �
 
 ```mermaid
 xychart-beta
-    title "AlexAnys/awesome-openclaw-usecases-zh 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "AlexAnys/awesome-openclaw-usecases-zh 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 4443 --> 4451
-    line [4444, 4446, 4447, 4448, 4450, 4449, 4448, 4447, 4448, 4450]
+    line [4444, 4446, 4447, 4448, 4450, 4449, 4448, 4447, 4448, 4450, 4448]
 ```
 
-2026-10-18 4,444 → 2026-10-29 4,450（+6）
+2026-10-18 4,444 → 2026-10-30 4,448（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIPMAndy/dna-memory
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/AIPMAndy/dna-memory) · 个人维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/dna-memory) · [官网](https://github.com/AIPMAndy/dna-memory/blob/main/QUICKSTART.md) · 个人维护 · 中文 README
 
 **给多 AI 客户端共用的本地优先长期记忆 MCP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/dna-memory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30"]
     y-axis "stars" 92 --> 98
     line [93, 95, 96, 97, 97]
 ```
 
-2026-10-18 93 → 2026-10-29 97（+4）
+2026-10-18 93 → 2026-10-30 97（+4）
 
 
 ---

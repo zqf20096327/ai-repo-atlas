@@ -45,12 +45,12 @@ RAPiD-Seg 论文（ECCV 2024 Oral）的官方 PyTorch 实现：提供 RAPiD（Ra
 ```mermaid
 xychart-beta
     title "l1997i/Rapid_Seg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-29 53（+0）
+2026-10-18 53 → 2026-10-30 53（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/AnyLanguageModel
 
-⭐ 966 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
+⭐ 970 · Swift · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
 
 **Apple Foundation Models 的 Swift API 兼容替代库，可接入自选模型后端**
 
@@ -45,13 +45,13 @@ Swift 包形式的框架层封装：保持 Apple Foundation Models API 兼容，
 
 ```mermaid
 xychart-beta
-    title "huggingface/AnyLanguageModel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 951 --> 967
-    line [952, 953, 959, 961, 962, 963, 965, 966]
+    title "huggingface/AnyLanguageModel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 951 --> 971
+    line [952, 953, 959, 961, 962, 963, 965, 966, 970]
 ```
 
-2026-10-18 952 → 2026-10-29 966（+14）
+2026-10-18 952 → 2026-10-30 970（+18）
 
 
 ---

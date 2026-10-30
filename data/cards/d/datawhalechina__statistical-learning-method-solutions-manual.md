@@ -1,6 +1,6 @@
 # datawhalechina/statistical-learning-method-solutions-manual
 
-⭐ 2,094 · Jupyter Notebook · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) · [官网](https://datawhalechina.github.io/statistical-learning-method-solutions-manual) · 组织维护 · 中文 README
+⭐ 2,093 · Jupyter Notebook · NOASSERTION · 推送 2026-05-08 · [GitHub](https://github.com/datawhalechina/statistical-learning-method-solutions-manual) · [官网](https://datawhalechina.github.io/statistical-learning-method-solutions-manual) · 组织维护 · 中文 README
 
 **李航《机器学习方法》全书习题解答与 Python 实现教程**
 
@@ -46,12 +46,12 @@ Datawhale 组织维护的习题解答开源教程：针对李航《机器学习�
 ```mermaid
 xychart-beta
     title "datawhalechina/statistical-learning-method-solutions-manual 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 2092 --> 2096
-    line [2093, 2094, 2095, 2094, 2094]
+    line [2093, 2094, 2095, 2094, 2093]
 ```
 
-2026-10-18 2,093 → 2026-10-29 2,094（+1）
+2026-10-18 2,093 → 2026-10-30 2,093（+0）
 
 
 ---

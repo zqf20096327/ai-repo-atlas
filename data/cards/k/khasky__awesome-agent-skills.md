@@ -1,6 +1,6 @@
 # khasky/awesome-agent-skills
 
-⭐ 22 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/khasky/awesome-agent-skills) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/khasky/awesome-agent-skills) · 个人维护
 
 **AI 编程 agent 技能清单：代码审查、调试、审计等 SKILL.md 集合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "khasky/awesome-agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 13 --> 23
-    line [14, 15, 16, 19, 20, 22]
+    title "khasky/awesome-agent-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 13 --> 25
+    line [14, 15, 16, 19, 20, 22, 24]
 ```
 
-2026-10-18 14 → 2026-10-29 22（+8）
+2026-10-18 14 → 2026-10-30 24（+10）
 
 
 ---

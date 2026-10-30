@@ -1,6 +1,6 @@
 # usestrix/benchmarks
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/usestrix/benchmarks) · [官网](https://strix.ai) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/usestrix/benchmarks) · [官网](https://strix.ai) · 组织维护
 
 **Strix 安全 agent 的基准评测框架**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "usestrix/benchmarks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # w8123/EnterpriseAgentFramework
 
-⭐ 973 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 个人维护 · 中文 README
+⭐ 978 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 个人维护 · 中文 README
 
 **面向 Java 企业系统的智能体开发与运行底座，改造存量 OA/ERP/CRM**
 
@@ -45,13 +45,13 @@ ReachAI 是一个企业智能体开发与运行平台：通过 SDK/扫描将 Jav
 
 ```mermaid
 xychart-beta
-    title "w8123/EnterpriseAgentFramework 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 926 --> 977
-    line [942, 952, 954, 930, 944, 949, 958, 963, 973]
+    title "w8123/EnterpriseAgentFramework 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 926 --> 982
+    line [942, 952, 954, 930, 944, 949, 958, 963, 973, 978]
 ```
 
-2026-10-18 942 → 2026-10-29 973（+31）
+2026-10-18 942 → 2026-10-30 978（+36）
 
 
 ---

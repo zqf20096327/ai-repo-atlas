@@ -1,6 +1,6 @@
 # hiDaDeng/cntext
 
-⭐ 468 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/hiDaDeng/cntext) · [官网](https://textdata.cn/) · 个人维护 · 中文 README
+⭐ 469 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/hiDaDeng/cntext) · [官网](https://textdata.cn/) · 个人维护 · 中文 README
 
 **面向计算社会科学的中英文文本分析与语义投影 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hiDaDeng/cntext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 467 --> 469
-    line [468, 468]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 467 --> 470
+    line [468, 469]
 ```
 
-2026-10-18 468 → 2026-10-29 468（+0）
+2026-10-18 468 → 2026-10-30 469（+1）
 
 
 ---

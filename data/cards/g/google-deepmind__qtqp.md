@@ -1,6 +1,6 @@
 # google-deepmind/qtqp
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/google-deepmind/qtqp) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google-deepmind/qtqp) · 组织维护
 
 **纯 Python 实现的凸二次规划原始-对偶内点求解器**
 
@@ -45,12 +45,12 @@ Google DeepMind 维护的 QP 求解库：以原始-对偶内点法求解带等�
 ```mermaid
 xychart-beta
     title "google-deepmind/qtqp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 38（+0）
 
 
 ---

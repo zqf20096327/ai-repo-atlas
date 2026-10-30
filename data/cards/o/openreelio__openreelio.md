@@ -1,6 +1,6 @@
 # openreelio/openreelio
 
-⭐ 88 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openreelio/openreelio) · [官网](https://openreelio.com) · 组织维护
+⭐ 90 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/openreelio/openreelio) · [官网](https://openreelio.com) · 组织维护
 
 **面向内容创作者的 AI 桌面视频剪辑器，支持自然语言剪辑指令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openreelio/openreelio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 85 --> 89
-    line [86, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 85 --> 91
+    line [86, 87, 88, 90]
 ```
 
-2026-10-18 86 → 2026-10-29 88（+2）
+2026-10-18 86 → 2026-10-30 90（+4）
 
 
 ---

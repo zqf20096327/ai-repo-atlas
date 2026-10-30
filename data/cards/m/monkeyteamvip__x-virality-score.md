@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "monkeyteamvip/x-virality-score 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    title "monkeyteamvip/x-virality-score 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 27 --> 30
-    line [28, 29]
+    line [28, 29, 29]
 ```
 
-2026-10-28 28 → 2026-10-29 29（+1）
+2026-10-28 28 → 2026-10-30 29（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tzachbon/smart-ralph
 
-⭐ 563 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tzachbon/smart-ralph) · 个人维护
+⭐ 564 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tzachbon/smart-ralph) · 个人维护
 
 **面向 Claude Code/Codex 的规格驱动开发插件，逐任务执行特性**
 
@@ -44,13 +44,13 @@ Claude Code 与 OpenAI Codex 的插件，将特性请求转换为 research、req
 
 ```mermaid
 xychart-beta
-    title "tzachbon/smart-ralph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 558 --> 564
-    line [559, 560, 561, 562, 563, 562, 563]
+    title "tzachbon/smart-ralph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 558 --> 565
+    line [559, 560, 561, 562, 563, 562, 563, 564]
 ```
 
-2026-10-18 559 → 2026-10-29 563（+4）
+2026-10-18 559 → 2026-10-30 564（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # zai-org/GLM-ASR
 
-⭐ 859 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/GLM-ASR) · [官网](https://autoglm.zhipuai.cn/autotyper) · 组织维护 · 中文 README
+⭐ 860 · Python · Apache-2.0 · 推送 2026-03-06 · [GitHub](https://github.com/zai-org/GLM-ASR) · [官网](https://autoglm.zhipuai.cn/autotyper) · 组织维护 · 中文 README
 
 **面向终端用户的 1.5B 参数开源语音识别模型**
 
@@ -45,12 +45,12 @@ GLM-ASR-Nano-2512 是 zai-org 发布的 1.5B 参数开源语音识别模型，�
 ```mermaid
 xychart-beta
     title "zai-org/GLM-ASR 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
     y-axis "stars" 857 --> 861
-    line [858, 859, 860, 859, 859]
+    line [858, 859, 860, 859, 860]
 ```
 
-2026-10-18 858 → 2026-10-29 859（+1）
+2026-10-18 858 → 2026-10-30 860（+2）
 
 
 ---

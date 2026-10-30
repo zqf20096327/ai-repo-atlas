@@ -1,6 +1,6 @@
 # smithersai/smithers
 
-⭐ 440 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/smithersai/smithers) · [官网](https://smithers.sh) · 组织维护
+⭐ 440 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/smithersai/smithers) · [官网](https://smithers.sh) · 组织维护
 
 **用 TypeScript 配置定义并可靠执行代码维护 Agent 工作流的框架**
 
@@ -44,12 +44,12 @@ Smithers 是一个 agentic 工作流框架，面向通过 TypeScript 配置文�
 ```mermaid
 xychart-beta
     title "smithersai/smithers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
     y-axis "stars" 437 --> 441
     line [439, 438, 440, 440]
 ```
 
-2026-10-18 439 → 2026-10-29 440（+1）
+2026-10-18 439 → 2026-10-30 440（+1）
 
 
 ---

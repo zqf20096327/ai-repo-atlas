@@ -1,6 +1,6 @@
 # deseven/mod-pbc
 
-⭐ 63 · C++ · Unlicense · 推送 2026-10-04 · [GitHub](https://github.com/deseven/mod-pbc) · 个人维护
+⭐ 64 · C++ · Unlicense · 推送 2026-10-04 · [GitHub](https://github.com/deseven/mod-pbc) · 个人维护
 
 **为 AzerothCore/Playerbots 机器人加 LLM 性格层的模块**
 
@@ -45,12 +45,12 @@ AzerothCore 模块，基于 mod-playerbots 为游戏机器人叠加性格层：�
 ```mermaid
 xychart-beta
     title "deseven/mod-pbc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-10-29 63（+0）
+2026-10-18 63 → 2026-10-30 64（+1）
 
 
 ---

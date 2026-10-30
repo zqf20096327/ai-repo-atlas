@@ -45,13 +45,13 @@ PointCNN 提出对点云先做 X-变换再用卷积（X-Conv/X-DeConv）的通�
 
 ```mermaid
 xychart-beta
-    title "yangyanli/PointCNN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "yangyanli/PointCNN 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1434 --> 1437
-    line [1435, 1436]
+    line [1435, 1436, 1436]
 ```
 
-2026-10-18 1,435 → 2026-10-29 1,436（+1）
+2026-10-18 1,435 → 2026-10-30 1,436（+1）
 
 
 ---

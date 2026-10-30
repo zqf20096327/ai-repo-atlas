@@ -1,6 +1,6 @@
 # aramis-lab/clinicadl
 
-⭐ 191 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aramis-lab/clinicadl) · [官网](https://clinicadl.readthedocs.io/en/stable/) · 组织维护
+⭐ 191 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/aramis-lab/clinicadl) · [官网](https://clinicadl.readthedocs.io/en/stable/) · 组织维护
 
 **神经影像可复现深度学习 Python 库，面向临床研究**
 
@@ -45,12 +45,12 @@ ClinicaDL 是用于构建端到端、可复现神经影像深度学习管线的 
 ```mermaid
 xychart-beta
     title "aramis-lab/clinicadl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 190 --> 192
     line [191, 191]
 ```
 
-2026-10-18 191 → 2026-10-29 191（+0）
+2026-10-18 191 → 2026-10-30 191（+0）
 
 
 ---

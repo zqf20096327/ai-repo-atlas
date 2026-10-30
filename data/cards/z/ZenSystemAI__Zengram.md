@@ -1,6 +1,6 @@
 # ZenSystemAI/Zengram
 
-⭐ 64 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZenSystemAI/Zengram) · [官网](https://zensystem.ai) · 组织维护
+⭐ 64 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ZenSystemAI/Zengram) · [官网](https://zensystem.ai) · 组织维护
 
 **面向多 AI agent 的跨机器共享记忆系统（MCP 记忆服务）**
 
@@ -45,12 +45,12 @@ Zengram 为多个 AI agent 提供跨机器、跨会话的共享记忆后端：�
 ```mermaid
 xychart-beta
     title "ZenSystemAI/Zengram 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 64（+0）
 
 
 ---

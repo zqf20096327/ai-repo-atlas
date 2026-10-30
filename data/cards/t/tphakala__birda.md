@@ -1,6 +1,6 @@
 # tphakala/birda
 
-⭐ 41 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tphakala/birda) · 个人维护
+⭐ 42 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tphakala/birda) · 个人维护
 
 **用 BirdNET/Perch 模型检测鸟类物种的 CLI 工具**
 
@@ -45,12 +45,12 @@ Rust 编写的跨平台命令行工具，读取音频文件，用 BirdNET v2.4/v
 ```mermaid
 xychart-beta
     title "tphakala/birda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-10-29 41（+1）
+2026-10-18 40 → 2026-10-30 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # iziqing/-disk-cleaner
 
-⭐ 40 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/iziqing/-disk-cleaner) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/iziqing/-disk-cleaner) · 个人维护 · 中文 README
 
 **给普通用户的 Claude Code 磁盘清理技能：WizTree 扫描 + AI 分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iziqing/-disk-cleaner 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 35 --> 41
-    line [36, 38, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 35 --> 42
+    line [36, 38, 39, 40, 41]
 ```
 
-2026-10-18 36 → 2026-10-29 40（+4）
+2026-10-18 36 → 2026-10-30 41（+5）
 
 
 ---

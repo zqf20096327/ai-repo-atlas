@@ -1,6 +1,6 @@
 # vesaias/JobNavigator
 
-⭐ 167 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vesaias/JobNavigator) · [官网](https://vesaias.github.io/JobNavigator-demo) · 个人维护
+⭐ 168 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/vesaias/JobNavigator) · [官网](https://vesaias.github.io/JobNavigator-demo) · 个人维护
 
 **自托管求职自动化平台：抓取职位、AI 评分匹配、定制简历、追踪申请**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vesaias/JobNavigator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 157 --> 168
-    line [158, 160, 162, 163, 167]
+    title "vesaias/JobNavigator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 157 --> 169
+    line [158, 160, 162, 163, 167, 168]
 ```
 
-2026-10-18 158 → 2026-10-29 167（+9）
+2026-10-18 158 → 2026-10-30 168（+10）
 
 
 ---

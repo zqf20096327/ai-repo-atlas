@@ -1,6 +1,6 @@
 # reinfer/cli
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/reinfer/cli) · [官网](https://reinfer.io) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/reinfer/cli) · [官网](https://reinfer.io) · 组织维护
 
 **UiPath IXP 平台的官方 CLI 与 Rust API 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "reinfer/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

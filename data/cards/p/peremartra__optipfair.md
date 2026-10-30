@@ -1,6 +1,6 @@
 # peremartra/optipfair
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/peremartra/optipfair) · [官网](https://peremartra.github.io/optipfair/) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/peremartra/optipfair) · [官网](https://peremartra.github.io/optipfair/) · 个人维护
 
 **LLM 结构化剪枝、知识蒸馏与偏见分析 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peremartra/optipfair 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 44（+0）
 
 
 ---

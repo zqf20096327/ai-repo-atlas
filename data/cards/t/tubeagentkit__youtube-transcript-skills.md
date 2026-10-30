@@ -1,6 +1,6 @@
 # tubeagentkit/youtube-transcript-skills
 
-⭐ 79 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-skills) · [官网](https://getyoutubetranscript.com) · 组织维护
+⭐ 80 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/tubeagentkit/youtube-transcript-skills) · [官网](https://getyoutubetranscript.com) · 组织维护
 
 **让 AI agent 获取 YouTube 字幕/搜索/频道数据的 Agent Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tubeagentkit/youtube-transcript-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29"]
+    title "tubeagentkit/youtube-transcript-skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 76 --> 82
-    line [80, 81, 77, 78, 79]
+    line [80, 81, 77, 78, 79, 80]
 ```
 
-2026-10-18 80 → 2026-10-29 79（-1）
+2026-10-18 80 → 2026-10-30 80（+0）
 
 
 ---

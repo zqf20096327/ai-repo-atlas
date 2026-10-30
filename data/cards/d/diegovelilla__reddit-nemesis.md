@@ -43,12 +43,12 @@ Reddit-Nemesis 是一个 Python 编写的 Reddit 机器人：抓取指定 subred
 ```mermaid
 xychart-beta
     title "diegovelilla/reddit-nemesis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-18 54 → 2026-10-29 54（+0）
+2026-10-18 54 → 2026-10-30 54（+0）
 
 
 ---

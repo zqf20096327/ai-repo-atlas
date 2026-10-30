@@ -40,6 +40,18 @@
 > L11: The use of statistics is ubiquitous in astronomy and astrophysics. Modern advances are made possible by the applica
 > L13: ## Lectures
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dgerosa/astrostatistics_bicocca_2025 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-10-29 21 → 2026-10-30 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `29a49a64470d` · [字段定义](../../DATASET.md)*

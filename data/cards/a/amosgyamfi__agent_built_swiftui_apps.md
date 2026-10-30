@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "amosgyamfi/agent_built_swiftui_apps 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-24", "2026-10-30"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-24 63 → 2026-10-29 63（+0）
+2026-10-24 63 → 2026-10-30 63（+0）
 
 
 ---

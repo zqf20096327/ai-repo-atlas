@@ -1,6 +1,6 @@
 # genlayerlabs/subzeroclaw
 
-⭐ 138 · C · MIT · 推送 2026-10-10 · [GitHub](https://github.com/genlayerlabs/subzeroclaw) · [官网](https://subzeroclaw.com) · 组织维护
+⭐ 139 · C · MIT · 推送 2026-10-10 · [GitHub](https://github.com/genlayerlabs/subzeroclaw) · [官网](https://subzeroclaw.com) · 组织维护
 
 **C 编写的极简 agentic 运行时，供开发者在边缘设备运行技能驱动 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "genlayerlabs/subzeroclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 137 --> 140
+    line [138, 139]
 ```
 
-2026-10-18 138 → 2026-10-29 138（+0）
+2026-10-18 138 → 2026-10-30 139（+1）
 
 
 ---

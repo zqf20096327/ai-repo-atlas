@@ -1,6 +1,6 @@
 # decodingai-magazine/llm-twin-course
 
-⭐ 4,399 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/decodingai-magazine/llm-twin-course) · 组织维护
+⭐ 4,400 · Python · MIT · 推送 2026-04-20 · [GitHub](https://github.com/decodingai-magazine/llm-twin-course) · 组织维护
 
 **免费开源课程：教你端到端构建生产级 LLM 与 RAG 系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "decodingai-magazine/llm-twin-course 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4390 --> 4400
-    line [4391, 4392, 4393, 4395, 4396, 4397, 4399]
+    title "decodingai-magazine/llm-twin-course 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4390 --> 4401
+    line [4391, 4392, 4393, 4395, 4396, 4397, 4399, 4400]
 ```
 
-2026-10-18 4,391 → 2026-10-29 4,399（+8）
+2026-10-18 4,391 → 2026-10-30 4,400（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # pluja/whishper
 
-⭐ 3,091 · Svelte · AGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/pluja/whishper) · [官网](https://whishper-docs.pages.dev/) · 个人维护
+⭐ 3,092 · Svelte · AGPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/pluja/whishper) · [官网](https://whishper-docs.pages.dev/) · 个人维护
 
 **本地音频转写与字幕编辑的 Web 套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pluja/whishper 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "pluja/whishper 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3089 --> 3095
-    line [3093, 3094, 3092, 3090, 3091]
+    line [3093, 3094, 3092, 3090, 3091, 3092]
 ```
 
-2026-10-18 3,093 → 2026-10-29 3,091（-2）
+2026-10-18 3,093 → 2026-10-30 3,092（-1）
 
 
 ---

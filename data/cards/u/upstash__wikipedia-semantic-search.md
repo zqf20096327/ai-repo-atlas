@@ -1,6 +1,6 @@
 # upstash/wikipedia-semantic-search
 
-⭐ 471 · TypeScript · MIT · 推送 2025-12-12 · [GitHub](https://github.com/upstash/wikipedia-semantic-search) · [官网](https://wikipedia-semantic-search.vercel.app/) · 组织维护
+⭐ 470 · TypeScript · MIT · 推送 2025-12-12 · [GitHub](https://github.com/upstash/wikipedia-semantic-search) · [官网](https://wikipedia-semantic-search.vercel.app/) · 组织维护
 
 **用 Upstash Vector 索引维基百科的语义搜索与 RAG 聊天示例项目**
 
@@ -46,12 +46,12 @@ Upstash 团队的演示工程：将 1.44 亿条来自 11 种语言维基百科�
 ```mermaid
 xychart-beta
     title "upstash/wikipedia-semantic-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 470 --> 473
-    line [472, 471, 471]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 469 --> 473
+    line [472, 471, 470]
 ```
 
-2026-10-18 472 → 2026-10-29 471（-1）
+2026-10-18 472 → 2026-10-30 470（-2）
 
 
 ---

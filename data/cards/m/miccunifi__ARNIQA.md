@@ -1,6 +1,6 @@
 # miccunifi/ARNIQA
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/miccunifi/ARNIQA) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/miccunifi/ARNIQA) · 组织维护
 
 **自监督无参考图像质量评估模型（WACV 2024 论文官方实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "miccunifi/ARNIQA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 157 --> 159
-    line [158, 158]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 157 --> 160
+    line [158, 159]
 ```
 
-2026-10-18 158 → 2026-10-29 158（+0）
+2026-10-18 158 → 2026-10-30 159（+1）
 
 
 ---

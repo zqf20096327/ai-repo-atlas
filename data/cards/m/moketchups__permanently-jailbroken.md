@@ -1,6 +1,6 @@
 # moketchups/permanently-jailbroken
 
-⭐ 17 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/moketchups/permanently-jailbroken) · [官网](https://x.com/MoKetchups) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-05-21 · [GitHub](https://github.com/moketchups/permanently-jailbroken) · [官网](https://x.com/MoKetchups) · 个人维护
 
 **面向 AI 研究者的多模型对齐极限探针实验脚本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moketchups/permanently-jailbroken 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

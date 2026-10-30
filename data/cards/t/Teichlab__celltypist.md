@@ -1,6 +1,6 @@
 # Teichlab/celltypist
 
-⭐ 516 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Teichlab/celltypist) · [官网](https://www.celltypist.org/) · 组织维护
+⭐ 517 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/Teichlab/celltypist) · [官网](https://www.celltypist.org/) · 组织维护
 
 **scRNA-seq 数据的细胞类型自动注释工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Teichlab/celltypist 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 513 --> 517
-    line [514, 515, 516]
+    title "Teichlab/celltypist 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 513 --> 518
+    line [514, 515, 516, 517]
 ```
 
-2026-10-18 514 → 2026-10-29 516（+2）
+2026-10-18 514 → 2026-10-30 517（+3）
 
 
 ---

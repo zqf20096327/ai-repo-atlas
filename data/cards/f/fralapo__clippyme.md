@@ -1,6 +1,6 @@
 # fralapo/clippyme
 
-⭐ 61 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/fralapo/clippyme) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/fralapo/clippyme) · 个人维护
 
 **自托管 Web 应用：把长视频自动切成竖屏短视频并发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fralapo/clippyme 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 62]
 ```
 
-2026-10-18 60 → 2026-10-29 61（+1）
+2026-10-18 60 → 2026-10-30 62（+2）
 
 
 ---

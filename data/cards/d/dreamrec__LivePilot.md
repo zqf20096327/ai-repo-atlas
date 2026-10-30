@@ -1,6 +1,6 @@
 # dreamrec/LivePilot
 
-⭐ 90 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/dreamrec/LivePilot) · [官网](https://github.com/dreamrec/LivePilot) · 组织维护
+⭐ 90 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/dreamrec/LivePilot) · [官网](https://github.com/dreamrec/LivePilot) · 组织维护
 
 **把 AI 客户端接入 Ableton Live 12 的 MCP 服务器（474 个工具/57 个领域）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dreamrec/LivePilot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 83 --> 91
     line [84, 87, 88, 89, 90, 90]
 ```
 
-2026-10-18 84 → 2026-10-29 90（+6）
+2026-10-18 84 → 2026-10-30 90（+6）
 
 
 ---

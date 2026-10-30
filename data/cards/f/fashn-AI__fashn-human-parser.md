@@ -1,6 +1,6 @@
 # fashn-AI/fashn-human-parser
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/fashn-AI/fashn-human-parser) · [官网](https://fashn.ai/) · 组织维护
+⭐ 61 · Python · NOASSERTION · 推送 2026-01-10 · [GitHub](https://github.com/fashn-AI/fashn-human-parser) · [官网](https://fashn.ai/) · 组织维护
 
 **时尚/虚拟试穿用人体解析库：输出 18 类语义分割掩码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fashn-AI/fashn-human-parser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 61]
 ```
 
-2026-10-18 59 → 2026-10-29 60（+1）
+2026-10-18 59 → 2026-10-30 61（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # loyiv/ITP
 
-⭐ 18 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/loyiv/ITP) · [官网](https://arxiv.org/abs/2601.08955) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/loyiv/ITP) · [官网](https://arxiv.org/abs/2601.08955) · 个人维护
 
 **LLM 智能体自适应前瞻决策框架：世界模型想象后再行动**
 
@@ -46,12 +46,12 @@ EMNLP 2026 论文 Imagine-then-Plan (ITP) 的官方代码库。针对 LLM 智能
 ```mermaid
 xychart-beta
     title "loyiv/ITP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

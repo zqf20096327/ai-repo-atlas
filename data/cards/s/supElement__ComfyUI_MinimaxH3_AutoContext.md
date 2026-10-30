@@ -1,6 +1,6 @@
 # supElement/ComfyUI_MinimaxH3_AutoContext
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/supElement/ComfyUI_MinimaxH3_AutoContext) · 个人维护 · 中文 README
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/supElement/ComfyUI_MinimaxH3_AutoContext) · 个人维护 · 中文 README
 
 **ComfyUI 长视频生成节点：MiniMax H3 分段推理突破显存限制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "supElement/ComfyUI_MinimaxH3_AutoContext 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 35 --> 39
     line [36, 38, 38]
 ```
 
-2026-10-18 36 → 2026-10-29 38（+2）
+2026-10-18 36 → 2026-10-30 38（+2）
 
 
 ---

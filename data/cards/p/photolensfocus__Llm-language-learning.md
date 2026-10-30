@@ -46,12 +46,12 @@ README 以文章形式介绍 AI 口语陪练产品 LingChat：提供 24/7 对话
 ```mermaid
 xychart-beta
     title "photolensfocus/Llm-language-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

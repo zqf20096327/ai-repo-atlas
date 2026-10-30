@@ -1,6 +1,6 @@
 # 0xBallpoint/trapster-community
 
-⭐ 166 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/0xBallpoint/trapster-community) · [官网](https://docs.trapster.cloud/community/) · 组织维护
+⭐ 167 · Python · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/0xBallpoint/trapster-community) · [官网](https://docs.trapster.cloud/community/) · 组织维护
 
 **部署在内网的多协议低交互蜜罐，含 AI 应答生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xBallpoint/trapster-community 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 164 --> 167
-    line [165, 166, 166]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 164 --> 168
+    line [165, 166, 167]
 ```
 
-2026-10-18 165 → 2026-10-29 166（+1）
+2026-10-18 165 → 2026-10-30 167（+2）
 
 
 ---

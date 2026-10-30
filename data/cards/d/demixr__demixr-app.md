@@ -1,6 +1,6 @@
 # demixr/demixr-app
 
-⭐ 95 · Dart · MIT · 推送 2026-07-15 · [GitHub](https://github.com/demixr/demixr-app) · [官网](https://demixr.github.io/) · 组织维护
+⭐ 94 · Dart · MIT · 推送 2026-07-15 · [GitHub](https://github.com/demixr/demixr-app) · [官网](https://demixr.github.io/) · 组织维护
 
 **手机/桌面端本地音乐源分离应用：拆分人声贝斯鼓等音轨**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "demixr/demixr-app 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 92 --> 96
-    line [93, 95, 94, 95, 95]
+    line [93, 95, 94, 95, 94]
 ```
 
-2026-10-18 93 → 2026-10-29 95（+2）
+2026-10-18 93 → 2026-10-30 94（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mediago-dev/mediago-drama
 
-⭐ 98 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mediago-dev/mediago-drama) · [官网](https://mediago.torchstellar.com/) · 组织维护 · 中文 README
+⭐ 97 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mediago-dev/mediago-drama) · [官网](https://mediago.torchstellar.com/) · 组织维护 · 中文 README
 
 **面向漫剧创作的本地 Agent 工作台：小说改短剧全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mediago-dev/mediago-drama 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 92 --> 99
-    line [93, 95, 96, 97, 98, 98]
+    line [93, 95, 96, 97, 98, 97]
 ```
 
-2026-10-18 93 → 2026-10-29 98（+5）
+2026-10-18 93 → 2026-10-30 97（+4）
 
 
 ---

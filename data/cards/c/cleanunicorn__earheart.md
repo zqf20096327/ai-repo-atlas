@@ -44,13 +44,13 @@ Electron 桌面听写应用：按全局热键说话，语音在设备端经 NVID
 
 ```mermaid
 xychart-beta
-    title "cleanunicorn/earheart 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "cleanunicorn/earheart 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 32 --> 35
-    line [33, 34]
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-29 34（+1）
+2026-10-18 33 → 2026-10-30 34（+1）
 
 
 ---

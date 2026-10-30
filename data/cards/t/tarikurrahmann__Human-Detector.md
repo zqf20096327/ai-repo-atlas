@@ -40,6 +40,18 @@
 > L3: **Advanced human detection engine with real-time analytics, CSV telemetry logging, and annotated video export powere
 > L20: **Human Detector** is a cutting-edge real-time person detection system built on YOLOv8. It leverages advanced deep 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Human-Detector 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
+```
+
+2026-10-29 18 → 2026-10-30 18（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 mid · 依据 README sha `28ce98569be7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bjeans/homelab-mcp
 
-⭐ 44 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/bjeans/homelab-mcp) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/bjeans/homelab-mcp) · 个人维护
 
 **通过 Claude Desktop 管理家庭实验室基础设施的 MCP 服务器合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bjeans/homelab-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43]
 ```
 
-2026-10-18 43 → 2026-10-29 44（+1）
+2026-10-18 43 → 2026-10-30 43（+0）
 
 
 ---

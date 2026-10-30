@@ -1,6 +1,6 @@
 # mickyarun/glideship
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mickyarun/glideship) · [官网](https://glideship.ai/) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mickyarun/glideship) · [官网](https://glideship.ai/) · 个人维护
 
 **面向 AI 原生团队的自主托管项目管理平台，替代 Jira/Scrum**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mickyarun/glideship 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-28 28 → 2026-10-29 28（+0）
+2026-10-28 28 → 2026-10-30 28（+0）
 
 
 ---

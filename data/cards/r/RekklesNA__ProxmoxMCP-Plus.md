@@ -1,6 +1,6 @@
 # RekklesNA/ProxmoxMCP-Plus
 
-⭐ 624 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
+⭐ 626 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
 
 **让 LLM 与 AI agent 通过 MCP/OpenAPI 安全操控 Proxmox VE**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RekklesNA/ProxmoxMCP-Plus 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 595 --> 626
-    line [597, 601, 608, 611, 613, 615, 618, 620, 624]
+    title "RekklesNA/ProxmoxMCP-Plus 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 595 --> 628
+    line [597, 601, 608, 611, 613, 615, 618, 620, 624, 626]
 ```
 
-2026-10-18 597 → 2026-10-29 624（+27）
+2026-10-18 597 → 2026-10-30 626（+29）
 
 
 ---

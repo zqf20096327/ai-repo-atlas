@@ -1,6 +1,6 @@
 # Rath-Team/OpenRath
 
-⭐ 960 · Python · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/Rath-Team/OpenRath) · [官网](https://www.openrath.com/) · 组织维护 · 中文 README
+⭐ 959 · Python · BSD-3-Clause · 推送 2026-09-28 · [GitHub](https://github.com/Rath-Team/OpenRath) · [官网](https://www.openrath.com/) · 组织维护 · 中文 README
 
 **多智能体多会话运行时框架：像 PyTorch 一样组合 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rath-Team/OpenRath 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 959 --> 964
-    line [963, 961, 960, 960]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 958 --> 964
+    line [963, 961, 960, 959]
 ```
 
-2026-10-18 963 → 2026-10-29 960（-3）
+2026-10-18 963 → 2026-10-30 959（-4）
 
 
 ---

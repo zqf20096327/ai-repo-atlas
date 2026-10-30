@@ -1,6 +1,6 @@
 # BabitMF/bmf
 
-⭐ 1,035 · C++ · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/BabitMF/bmf) · [官网](https://babitmf.github.io/) · 组织维护 · 中文 README
+⭐ 1,036 · C++ · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/BabitMF/bmf) · [官网](https://babitmf.github.io/) · 组织维护 · 中文 README
 
 **字节跳动开源的跨平台多媒体处理框架，支持 AI 推理集成**
 
@@ -47,12 +47,12 @@ BMF（Babit Multimedia Framework）是字节跳动开发的跨平台多媒体处
 ```mermaid
 xychart-beta
     title "BabitMF/bmf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 1033 --> 1036
-    line [1034, 1035, 1035]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 1033 --> 1037
+    line [1034, 1035, 1036]
 ```
 
-2026-10-18 1,034 → 2026-10-29 1,035（+1）
+2026-10-18 1,034 → 2026-10-30 1,036（+2）
 
 
 ---

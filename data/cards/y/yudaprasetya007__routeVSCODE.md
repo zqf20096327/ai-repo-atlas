@@ -1,6 +1,6 @@
 # yudaprasetya007/routeVSCODE
 
-⭐ 171 · JavaScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/yudaprasetya007/routeVSCODE) · [官网](https://github.com/yudaprasetya007/routeVSCODE#readme) · 个人维护
+⭐ 171 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yudaprasetya007/routeVSCODE) · [官网](https://github.com/yudaprasetya007/routeVSCODE#readme) · 个人维护
 
 **VSCode 扩展：一键零重载切换 Copilot Chat 的 AI 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yudaprasetya007/routeVSCODE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 169 --> 172
     line [170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-10-29 171（+1）
+2026-10-18 170 → 2026-10-30 171（+1）
 
 
 ---

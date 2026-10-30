@@ -1,6 +1,6 @@
 # zjunlp/EasyEdit
 
-⭐ 2,930 · Jupyter Notebook · MIT · 推送 2026-10-04 · [GitHub](https://github.com/zjunlp/EasyEdit) · [官网](https://zjunlp.github.io/project/KnowEdit) · 组织维护 · 中文 README
+⭐ 2,932 · Jupyter Notebook · MIT · 推送 2026-10-04 · [GitHub](https://github.com/zjunlp/EasyEdit) · [官网](https://zjunlp.github.io/project/KnowEdit) · 组织维护 · 中文 README
 
 **面向研究者的 LLM 知识编辑与推理时引导框架**
 
@@ -44,13 +44,13 @@ ACL 2024 系统演示论文对应的开源框架（zjunlp，浙大团队）。Ea
 
 ```mermaid
 xychart-beta
-    title "zjunlp/EasyEdit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 2928 --> 2932
-    line [2931, 2930, 2929, 2930]
+    title "zjunlp/EasyEdit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2928 --> 2933
+    line [2931, 2930, 2929, 2930, 2932]
 ```
 
-2026-10-18 2,931 → 2026-10-29 2,930（-1）
+2026-10-18 2,931 → 2026-10-30 2,932（+1）
 
 
 ---

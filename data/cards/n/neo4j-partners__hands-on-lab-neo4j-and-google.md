@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neo4j-partners/hands-on-lab-neo4j-and-google 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-29 126（+0）
+2026-10-18 126 → 2026-10-30 126（+0）
 
 
 ---

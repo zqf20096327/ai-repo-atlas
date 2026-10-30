@@ -1,6 +1,6 @@
 # Hack23/cia-compliance-manager
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hack23/cia-compliance-manager) · [官网](https://ciacompliancemanager.com/) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Hack23/cia-compliance-manager) · [官网](https://ciacompliancemanager.com/) · 组织维护
 
 **面向企业的 CIA 三性安全评估与多框架合规平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hack23/cia-compliance-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

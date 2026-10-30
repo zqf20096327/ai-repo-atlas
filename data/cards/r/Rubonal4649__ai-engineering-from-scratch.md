@@ -1,6 +1,6 @@
 # Rubonal4649/ai-engineering-from-scratch
 
-⭐ 27 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Rubonal4649/ai-engineering-from-scratch) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Rubonal4649/ai-engineering-from-scratch) · 个人维护
 
 **面向初学者的 Windows AI 工程课程应用，从零学做 AI**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Rubonal4649/ai-engineering-from-scratch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 21 --> 28
-    line [22, 23, 24, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 21 --> 29
+    line [22, 23, 24, 26, 27, 28]
 ```
 
-2026-10-18 22 → 2026-10-29 27（+5）
+2026-10-18 22 → 2026-10-30 28（+6）
 
 
 ---

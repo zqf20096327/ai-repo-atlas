@@ -1,6 +1,6 @@
 # agno-agi/agent-ui
 
-⭐ 1,863 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/agno-agi/agent-ui) · [官网](https://agno-agent-ui.vercel.app) · 组织维护
+⭐ 1,865 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/agno-agi/agent-ui) · [官网](https://agno-agent-ui.vercel.app) · 组织维护
 
 **连接 AgentOS 的 Next.js 聊天界面模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agno-agi/agent-ui 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1856 --> 1864
-    line [1857, 1859, 1858, 1859, 1861, 1862, 1863]
+    title "agno-agi/agent-ui 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1856 --> 1866
+    line [1857, 1859, 1858, 1859, 1861, 1862, 1863, 1865]
 ```
 
-2026-10-18 1,857 → 2026-10-29 1,863（+6）
+2026-10-18 1,857 → 2026-10-30 1,865（+8）
 
 
 ---

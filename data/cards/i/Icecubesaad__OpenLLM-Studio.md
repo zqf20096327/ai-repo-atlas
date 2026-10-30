@@ -1,6 +1,6 @@
 # Icecubesaad/OpenLLM-Studio
 
-⭐ 62 · TypeScript · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/Icecubesaad/OpenLLM-Studio) · [官网](https://openllm-studio.vercel.app/) · 个人维护
+⭐ 63 · TypeScript · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/Icecubesaad/OpenLLM-Studio) · [官网](https://openllm-studio.vercel.app/) · 个人维护
 
 **本地运行 LLM 的桌面客户端：GPU 加速、HuggingFace 下载**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Icecubesaad/OpenLLM-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-18 62 → 2026-10-29 62（+0）
+2026-10-18 62 → 2026-10-30 63（+1）
 
 
 ---

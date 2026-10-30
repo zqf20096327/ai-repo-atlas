@@ -1,6 +1,6 @@
 # any4ai/AnyCrawl
 
-⭐ 3,484 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
+⭐ 3,485 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
 
 **面向 LLM 数据准备的网页抓取与 SERP 采集工具包**
 
@@ -45,13 +45,13 @@ Node.js/TypeScript 编写的抓取工具包，提供三类能力：单页抓取�
 
 ```mermaid
 xychart-beta
-    title "any4ai/AnyCrawl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29"]
+    title "any4ai/AnyCrawl 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3480 --> 3486
-    line [3481, 3482, 3483, 3485, 3484]
+    line [3481, 3482, 3483, 3485, 3484, 3485]
 ```
 
-2026-10-18 3,481 → 2026-10-29 3,484（+3）
+2026-10-18 3,481 → 2026-10-30 3,485（+4）
 
 
 ---

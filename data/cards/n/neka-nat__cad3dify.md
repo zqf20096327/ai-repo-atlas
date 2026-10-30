@@ -1,6 +1,6 @@
 # neka-nat/cad3dify
 
-⭐ 327 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/neka-nat/cad3dify) · 个人维护
+⭐ 328 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/neka-nat/cad3dify) · 个人维护
 
 **用 VLM 从 2D CAD 图像生成 3D CAD 模型（STEP 文件）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neka-nat/cad3dify 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 323 --> 328
-    line [324, 326, 327, 327]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 323 --> 329
+    line [324, 326, 327, 328]
 ```
 
-2026-10-18 324 → 2026-10-29 327（+3）
+2026-10-18 324 → 2026-10-30 328（+4）
 
 
 ---

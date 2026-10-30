@@ -1,6 +1,6 @@
 # lmassaron/gemma_from_scratch
 
-⭐ 37 · Jupyter Notebook · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/lmassaron/gemma_from_scratch) · 个人维护
+⭐ 38 · Jupyter Notebook · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/lmassaron/gemma_from_scratch) · 个人维护
 
 **教学向 Gemma 3 从零实现：PyTorch 训练与推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lmassaron/gemma_from_scratch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 38（+1）
 
 
 ---

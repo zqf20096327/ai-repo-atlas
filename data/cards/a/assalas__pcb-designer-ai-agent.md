@@ -1,6 +1,6 @@
 # assalas/pcb-designer-ai-agent
 
-⭐ 139 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/assalas/pcb-designer-ai-agent) · [官网](https://github.com/assalas/pcb-designer-ai-agent) · 个人维护
+⭐ 141 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/assalas/pcb-designer-ai-agent) · [官网](https://github.com/assalas/pcb-designer-ai-agent) · 个人维护
 
 **LLM 驱动的 PCB 设计助手：自然语言生成原理图与版图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "assalas/pcb-designer-ai-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 134 --> 140
-    line [135, 136, 138, 139, 139]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 134 --> 142
+    line [135, 136, 138, 139, 141]
 ```
 
-2026-10-18 135 → 2026-10-29 139（+4）
+2026-10-18 135 → 2026-10-30 141（+6）
 
 
 ---

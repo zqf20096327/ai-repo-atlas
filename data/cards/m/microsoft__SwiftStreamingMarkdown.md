@@ -1,6 +1,6 @@
 # microsoft/SwiftStreamingMarkdown
 
-⭐ 387 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/SwiftStreamingMarkdown) · 组织维护
+⭐ 386 · Swift · MIT · 推送 2026-10-16 · [GitHub](https://github.com/microsoft/SwiftStreamingMarkdown) · 组织维护
 
 **iOS/macOS 流式 Markdown 渲染库，面向 LLM 输出展示**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/SwiftStreamingMarkdown 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "microsoft/SwiftStreamingMarkdown 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 380 --> 388
-    line [381, 382, 381, 382, 384, 387]
+    line [381, 382, 381, 382, 384, 387, 386]
 ```
 
-2026-10-18 381 → 2026-10-29 387（+6）
+2026-10-18 381 → 2026-10-30 386（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # tiwe0/GeoChat
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/tiwe0/GeoChat) · [官网](https://chat-with-geogebra.com) · 个人维护 · 中文 README
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tiwe0/GeoChat) · [官网](https://chat-with-geogebra.com) · 个人维护 · 中文 README
 
 **让 AI 对话融入 GeoGebra 画板的数学学习桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tiwe0/GeoChat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
+    title "tiwe0/GeoChat 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 120 --> 125
-    line [121, 122, 123, 124]
+    line [121, 122, 123, 124, 124]
 ```
 
-2026-10-18 121 → 2026-10-29 124（+3）
+2026-10-18 121 → 2026-10-30 124（+3）
 
 
 ---

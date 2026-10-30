@@ -1,6 +1,6 @@
 # ag2ai/Agents_Failure_Attribution
 
-⭐ 396 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/ag2ai/Agents_Failure_Attribution) · [官网](https://ag2ai.github.io/Agents_Failure_Attribution/) · 组织维护 · 中文 README
+⭐ 397 · Python · MIT · 推送 2026-02-11 · [GitHub](https://github.com/ag2ai/Agents_Failure_Attribution) · [官网](https://ag2ai.github.io/Agents_Failure_Attribution/) · 组织维护 · 中文 README
 
 **多智能体系统失败归因的评测基准（ICML 2025）**
 
@@ -46,12 +46,12 @@ ICML 2025 Spotlight 论文《Which Agent Causes Task Failures and When?》的实
 ```mermaid
 xychart-beta
     title "ag2ai/Agents_Failure_Attribution 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 395 --> 399
-    line [396, 398, 397, 396, 396]
+    line [396, 398, 397, 396, 397]
 ```
 
-2026-10-18 396 → 2026-10-29 396（+0）
+2026-10-18 396 → 2026-10-30 397（+1）
 
 
 ---

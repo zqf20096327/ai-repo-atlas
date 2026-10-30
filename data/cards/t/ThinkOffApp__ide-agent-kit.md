@@ -1,6 +1,6 @@
 # ThinkOffApp/ide-agent-kit
 
-⭐ 45 · JavaScript · AGPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/ThinkOffApp/ide-agent-kit) · [官网](https://thinkoff.io) · 组织维护
+⭐ 45 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ThinkOffApp/ide-agent-kit) · [官网](https://thinkoff.io) · 组织维护
 
 **让 IDE AI 参与团队协作的多 agent 协调工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThinkOffApp/ide-agent-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

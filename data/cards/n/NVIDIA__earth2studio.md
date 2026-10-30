@@ -1,6 +1,6 @@
 # NVIDIA/earth2studio
 
-⭐ 1,221 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/earth2studio) · [官网](https://nvidia.github.io/earth2studio/) · 组织维护
+⭐ 1,222 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/earth2studio) · [官网](https://nvidia.github.io/earth2studio/) · 组织维护
 
 **构建与部署 AI 天气气候工作流的 Python 推理工具包**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 Python 包，提供统一 API 接入第三方天气/气候 AI �
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/earth2studio 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1197 --> 1223
-    line [1199, 1205, 1207, 1210, 1212, 1213, 1214, 1218, 1221]
+    title "NVIDIA/earth2studio 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1197 --> 1224
+    line [1199, 1205, 1207, 1210, 1212, 1213, 1214, 1218, 1221, 1222]
 ```
 
-2026-10-18 1,199 → 2026-10-29 1,221（+22）
+2026-10-18 1,199 → 2026-10-30 1,222（+23）
 
 
 ---

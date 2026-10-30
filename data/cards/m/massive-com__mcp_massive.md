@@ -1,6 +1,6 @@
 # massive-com/mcp_massive
 
-⭐ 398 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/massive-com/mcp_massive) · 组织维护
+⭐ 399 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/massive-com/mcp_massive) · 组织维护
 
 **面向 LLM 的 Massive.com 金融市场数据 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "massive-com/mcp_massive 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 397 --> 399
-    line [398, 398]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 397 --> 400
+    line [398, 399]
 ```
 
-2026-10-18 398 → 2026-10-29 398（+0）
+2026-10-18 398 → 2026-10-30 399（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # QwenLM/Qwen-RobotNav
 
-⭐ 196 · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Qwen-RobotNav) · 组织维护 · 中文 README
+⭐ 197 · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Qwen-RobotNav) · 组织维护 · 中文 README
 
 **面向具身智能的统一多域机器人导航模型（基于 Qwen3-VL）**
 
@@ -45,13 +45,13 @@ Qwen 团队的可扩展导航模型，基于 Qwen3-VL 骨干并增加 4 层 MLP 
 
 ```mermaid
 xychart-beta
-    title "QwenLM/Qwen-RobotNav 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 189 --> 197
-    line [190, 191, 194, 195, 196]
+    title "QwenLM/Qwen-RobotNav 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 189 --> 198
+    line [190, 191, 194, 195, 196, 197]
 ```
 
-2026-10-18 190 → 2026-10-29 196（+6）
+2026-10-18 190 → 2026-10-30 197（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # SubmitGame/awesome-ai-game-dev-tools
 
-⭐ 65 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/SubmitGame/awesome-ai-game-dev-tools) · [官网](https://submitgame.github.io/awesome-ai-game-dev-tools/) · 组织维护
+⭐ 68 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/SubmitGame/awesome-ai-game-dev-tools) · [官网](https://submitgame.github.io/awesome-ai-game-dev-tools/) · 组织维护
 
 **开源 AI 游戏开发与逆向工具策展清单（150 条活跃工具）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SubmitGame/awesome-ai-game-dev-tools 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 36 --> 67
-    line [38, 40, 43, 45, 47, 54, 59, 62, 65]
+    title "SubmitGame/awesome-ai-game-dev-tools 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 35 --> 71
+    line [38, 40, 43, 45, 47, 54, 59, 62, 65, 68]
 ```
 
-2026-10-18 38 → 2026-10-29 65（+27）
+2026-10-18 38 → 2026-10-30 68（+30）
 
 
 ---

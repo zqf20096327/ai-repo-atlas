@@ -1,6 +1,6 @@
 # JuliaAI/MLJTuning.jl
 
-⭐ 70 · Julia · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JuliaAI/MLJTuning.jl) · 组织维护
+⭐ 71 · Julia · MIT · 推送 2026-10-23 · [GitHub](https://github.com/JuliaAI/MLJTuning.jl) · 组织维护
 
 **MLJ 机器学习框架的超参数优化组件**
 
@@ -46,12 +46,12 @@ MLJTuning 是 Julia MLJ 机器学习平台的超参数优化组件，不面向�
 ```mermaid
 xychart-beta
     title "JuliaAI/MLJTuning.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-10-29 70（+0）
+2026-10-18 70 → 2026-10-30 71（+1）
 
 
 ---

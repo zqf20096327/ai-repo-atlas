@@ -45,12 +45,12 @@ Kerberos.io 生态的存储组件：将 Kerberos Agent 的录像从本地磁盘�
 ```mermaid
 xychart-beta
     title "kerberos-io/vault 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 42（+0）
 
 
 ---

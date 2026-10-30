@@ -1,6 +1,6 @@
 # fangvv/Homepage
 
-⭐ 27 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/fangvv/Homepage) · [官网](https://fangvv.github.io/Homepage/) · 组织维护 · 中文 README
+⭐ 27 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/fangvv/Homepage) · [官网](https://fangvv.github.io/Homepage/) · 组织维护 · 中文 README
 
 **北京交通大学系统与网络实验室主页仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fangvv/Homepage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

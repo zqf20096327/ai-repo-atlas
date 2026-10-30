@@ -1,6 +1,6 @@
 # TaklaXBR/zai-shell
 
-⭐ 44 · Python · AGPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/TaklaXBR/zai-shell) · 个人维护
+⭐ 43 · Python · AGPL-3.0 · 推送 2026-05-19 · [GitHub](https://github.com/TaklaXBR/zai-shell) · 个人维护
 
 **终端自主系统管理 AI Agent：把自然语言意图变成已验证的系统操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TaklaXBR/zai-shell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 43（-1）
 
 
 ---

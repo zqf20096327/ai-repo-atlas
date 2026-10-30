@@ -1,6 +1,6 @@
 # WB2024/Essentia-to-Metadata
 
-⭐ 129 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/WB2024/Essentia-to-Metadata) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/WB2024/Essentia-to-Metadata) · 个人维护
 
 **本地分析音频并自动写入流派/情绪标签的音乐库工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WB2024/Essentia-to-Metadata 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 128, 129, 129]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 128, 129, 130]
 ```
 
-2026-10-18 128 → 2026-10-29 129（+1）
+2026-10-18 128 → 2026-10-30 130（+2）
 
 
 ---

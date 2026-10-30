@@ -1,6 +1,6 @@
 # LonePheasantWarrior/TalkifyTTS
 
-⭐ 380 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
+⭐ 382 · Kotlin · MIT · 推送 2026-10-25 · [GitHub](https://github.com/LonePheasantWarrior/TalkifyTTS) · [官网](https://gitee.com/LonePheasantWarrior/talkify) · 个人维护 · 中文 README
 
 **Android TTS 引擎：聚合云端大模型与离线本地语音合成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LonePheasantWarrior/TalkifyTTS 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 371 --> 381
-    line [372, 373, 375, 377, 376, 377, 380, 380]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 371 --> 383
+    line [372, 373, 375, 377, 376, 377, 380, 382]
 ```
 
-2026-10-18 372 → 2026-10-29 380（+8）
+2026-10-18 372 → 2026-10-30 382（+10）
 
 
 ---

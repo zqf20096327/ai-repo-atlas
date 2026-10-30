@@ -1,6 +1,6 @@
 # VAST-AI-Research/TripoSplat
 
-⭐ 1,408 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
+⭐ 1,410 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
 
 **单张 2D 图像生成可变数量 3D 高斯的推理模型**
 
@@ -39,6 +39,18 @@
 
 > L1: # TripoSplat
 > L13: - **High-quality, versatile generation** that handles a wide range of image styles.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VAST-AI-Research/TripoSplat 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 1407 --> 1411
+    line [1408, 1410]
+```
+
+2026-10-29 1,408 → 2026-10-30 1,410（+2）
 
 
 ---

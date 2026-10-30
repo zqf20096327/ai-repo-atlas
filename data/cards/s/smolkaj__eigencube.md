@@ -1,6 +1,6 @@
 # smolkaj/eigencube
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/smolkaj/eigencube) · [官网](https://youtu.be/kRrK4VJBf2s) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/smolkaj/eigencube) · [官网](https://youtu.be/kRrK4VJBf2s) · 个人维护
 
 **用线性代数求解魔方的 Python 求解器与可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smolkaj/eigencube 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 40 --> 55
-    line [41, 45, 47, 49, 50, 52, 53, 54]
+    title "smolkaj/eigencube 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 40 --> 57
+    line [41, 45, 47, 49, 50, 52, 53, 54, 56]
 ```
 
-2026-10-18 41 → 2026-10-29 54（+13）
+2026-10-18 41 → 2026-10-30 56（+15）
 
 
 ---

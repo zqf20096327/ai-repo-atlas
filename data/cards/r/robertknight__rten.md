@@ -1,6 +1,6 @@
 # robertknight/rten
 
-⭐ 349 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/robertknight/rten) · 个人维护
+⭐ 351 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/robertknight/rten) · 个人维护
 
 **Rust 编写的 ONNX 模型 CPU 推理运行时**
 
@@ -45,12 +45,12 @@ RTen 是用 Rust 实现的机器学习运行时，读取 ONNX 格式模型并在
 ```mermaid
 xychart-beta
     title "robertknight/rten 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 345 --> 350
-    line [346, 347, 348, 349, 349]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 345 --> 352
+    line [346, 347, 348, 349, 351]
 ```
 
-2026-10-18 346 → 2026-10-29 349（+3）
+2026-10-18 346 → 2026-10-30 351（+5）
 
 
 ---

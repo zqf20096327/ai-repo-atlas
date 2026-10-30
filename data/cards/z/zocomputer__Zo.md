@@ -1,6 +1,6 @@
 # zocomputer/Zo
 
-⭐ 64 · 推送 2026-10-21 · [GitHub](https://github.com/zocomputer/Zo) · [官网](https://www.zocomputer.com) · 组织维护
+⭐ 65 · 推送 2026-10-21 · [GitHub](https://github.com/zocomputer/Zo) · [官网](https://www.zocomputer.com) · 组织维护
 
 **带 AI 能力的个人云端电脑：存储文件、连接工具并构建项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zocomputer/Zo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 62 --> 65
-    line [63, 64]
+    title "zocomputer/Zo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 65]
 ```
 
-2026-10-18 63 → 2026-10-29 64（+1）
+2026-10-18 63 → 2026-10-30 65（+2）
 
 
 ---

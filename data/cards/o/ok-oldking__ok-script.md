@@ -1,6 +1,6 @@
 # ok-oldking/ok-script
 
-⭐ 806 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ok-oldking/ok-script) · [官网](https://ok-script.com/) · 个人维护 · 中文 README
+⭐ 810 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ok-oldking/ok-script) · [官网](https://ok-script.com/) · 个人维护 · 中文 README
 
 **Python 桌面/安卓自动化框架，配 MCP 供编程代理开发脚本**
 
@@ -40,6 +40,18 @@
 > L7: 把需求告诉编程代理，通过 MCP 连接 ok-script，让代理观察应用、检查已安装 API、编写并测试 Python 任务。保存成果后，从应用 GUI 或命令行重复运行，无需代理或大模型调用。
 > L25: > 连接这个项目的 ok-script MCP 服务，读取开发技能。检查已安装的截图、匹配和输入 API，给出准确签名和源码位置。开发可复用 Python 任务：打开设置、启用“显示详情”、保存并验证结果。每次尝试前恢复并验证起始
 > L60: 具体 Python API 由代理检查已安装包的源码和签名。MCP 提供开发技能和执行工具，没有单独的 API 查询工具。完成的任务可在无界面模式或桌面 GUI 中运行，详见运行时架构。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ok-oldking/ok-script 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 805 --> 811
+    line [806, 810]
+```
+
+2026-10-29 806 → 2026-10-30 810（+4）
 
 
 ---

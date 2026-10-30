@@ -1,6 +1,6 @@
 # yxw007/vscode-translate-next
 
-⭐ 76 · CSS · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yxw007/vscode-translate-next) · 个人维护 · 中文 README
+⭐ 76 · CSS · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yxw007/vscode-translate-next) · 个人维护 · 中文 README
 
 **面向开发者的多引擎 VS Code 翻译插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yxw007/vscode-translate-next 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 73 --> 78
     line [74, 75, 76, 77, 76, 76]
 ```
 
-2026-10-18 74 → 2026-10-29 76（+2）
+2026-10-18 74 → 2026-10-30 76（+2）
 
 
 ---

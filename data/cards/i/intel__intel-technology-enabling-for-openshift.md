@@ -46,12 +46,12 @@ Intel 维护的 OpenShift/Kubernetes 平台 AI 基础设施项目：通过多个
 ```mermaid
 xychart-beta
     title "intel/intel-technology-enabling-for-openshift 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 20 --> 23
     line [22, 21, 22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Snowflake Labs 维护的 Snowpark for Python 示例仓库，按子目录组织�
 ```mermaid
 xychart-beta
     title "Snowflake-Labs/snowpark-python-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-18 294 → 2026-10-29 294（+0）
+2026-10-18 294 → 2026-10-30 294（+0）
 
 
 ---

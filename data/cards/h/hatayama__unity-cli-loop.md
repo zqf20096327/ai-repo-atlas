@@ -1,6 +1,6 @@
 # hatayama/unity-cli-loop
 
-⭐ 586 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/hatayama/unity-cli-loop) · 个人维护
+⭐ 587 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hatayama/unity-cli-loop) · 个人维护
 
 **让 LLM 工具通过 CLI 驱动 Unity 项目的集成工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hatayama/unity-cli-loop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 580 --> 587
-    line [581, 582, 583, 584, 586, 586]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 580 --> 588
+    line [581, 582, 583, 584, 586, 587]
 ```
 
-2026-10-18 581 → 2026-10-29 586（+5）
+2026-10-18 581 → 2026-10-30 587（+6）
 
 
 ---

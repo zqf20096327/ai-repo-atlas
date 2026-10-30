@@ -46,12 +46,12 @@ ICLR 2025 论文 A Deep Inverse-Mapping Model for a Flapping Robotic Wing 的官
 ```mermaid
 xychart-beta
     title "Hadar933/AdaptiveSpectrumLayer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cdrage/containerfiles
 
-⭐ 41 · Shell · 推送 2026-09-10 · [GitHub](https://github.com/cdrage/containerfiles) · 个人维护
+⭐ 41 · Shell · 推送 2026-10-29 · [GitHub](https://github.com/cdrage/containerfiles) · 个人维护
 
 **个人维护的容器镜像集合：覆盖 Web、游戏服务器、bootc 系统与 AI 等服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cdrage/containerfiles 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-29 41（+0）
+2026-10-18 41 → 2026-10-30 41（+0）
 
 
 ---

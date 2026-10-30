@@ -1,6 +1,6 @@
 # sb-ai-lab/SIRIN
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/sb-ai-lab/SIRIN) · [官网](https://hf.co/spaces/parchiev/SIRIN) · 组织维护
+⭐ 64 · Python · NOASSERTION · 推送 2026-09-28 · [GitHub](https://github.com/sb-ai-lab/SIRIN) · [官网](https://hf.co/spaces/parchiev/SIRIN) · 组织维护
 
 **检测 LLM 输出幻觉与问题可答性的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sb-ai-lab/SIRIN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-18 62 → 2026-10-29 63（+1）
+2026-10-18 62 → 2026-10-30 64（+2）
 
 
 ---

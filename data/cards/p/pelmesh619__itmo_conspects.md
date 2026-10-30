@@ -1,6 +1,6 @@
 # pelmesh619/itmo_conspects
 
-⭐ 212 · Markdown · Unlicense · 推送 2026-10-28 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
+⭐ 212 · Markdown · Unlicense · 推送 2026-10-29 · [GitHub](https://github.com/pelmesh619/itmo_conspects) · [官网](https://pelmesh619.github.io/itmo_conspects/) · 个人维护
 
 **ИТМО大学学生课程笔记汇编（数学到机器学习等多科目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pelmesh619/itmo_conspects 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 208 --> 213
     line [209, 212, 212]
 ```
 
-2026-10-18 209 → 2026-10-29 212（+3）
+2026-10-18 209 → 2026-10-30 212（+3）
 
 
 ---

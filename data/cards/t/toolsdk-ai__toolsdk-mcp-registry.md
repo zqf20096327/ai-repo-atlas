@@ -1,6 +1,6 @@
 # toolsdk-ai/toolsdk-mcp-registry
 
-⭐ 205 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · [官网](https://toolsdk.ai) · 组织维护
+⭐ 206 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · [官网](https://toolsdk.ai) · 组织维护
 
 **MCP 服务器注册表与网关：发现、接入并执行 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "toolsdk-ai/toolsdk-mcp-registry 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 197 --> 206
-    line [198, 199, 201, 202, 204, 205]
+    title "toolsdk-ai/toolsdk-mcp-registry 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 197 --> 207
+    line [198, 199, 201, 202, 204, 205, 206]
 ```
 
-2026-10-18 198 → 2026-10-29 205（+7）
+2026-10-18 198 → 2026-10-30 206（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # ghostsecurity/skills
 
-⭐ 427 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/ghostsecurity/skills) · [官网](https://ghostsecurity.ai) · 组织维护
+⭐ 429 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/ghostsecurity/skills) · [官网](https://ghostsecurity.ai) · 组织维护
 
 **面向 Claude Code 的应用安全插件市场：安全扫描工具+AI 技能层**
 
@@ -44,13 +44,13 @@ Ghost Security 为 Claude Code 发布的插件市场，包含两个插件：AppS
 
 ```mermaid
 xychart-beta
-    title "ghostsecurity/skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 411 --> 428
-    line [413, 412, 417, 418, 423, 425, 426, 427]
+    title "ghostsecurity/skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 411 --> 430
+    line [413, 412, 417, 418, 423, 425, 426, 427, 429]
 ```
 
-2026-10-18 413 → 2026-10-29 427（+14）
+2026-10-18 413 → 2026-10-30 429（+16）
 
 
 ---

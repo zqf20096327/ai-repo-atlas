@@ -1,6 +1,6 @@
 # rom1504/clip-retrieval
 
-⭐ 2,799 · Jupyter Notebook · MIT · 推送 2026-03-28 · [GitHub](https://github.com/rom1504/clip-retrieval) · [官网](https://rom1504.github.io/clip-retrieval/) · 个人维护
+⭐ 2,798 · Jupyter Notebook · MIT · 推送 2026-03-28 · [GitHub](https://github.com/rom1504/clip-retrieval) · [官网](https://rom1504.github.io/clip-retrieval/) · 个人维护
 
 **计算 CLIP 嵌入并构建图文语义检索系统的工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rom1504/clip-retrieval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2798 --> 2801
-    line [2800, 2799, 2800, 2799, 2799]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2797 --> 2801
+    line [2800, 2799, 2800, 2799, 2798]
 ```
 
-2026-10-18 2,800 → 2026-10-29 2,799（-1）
+2026-10-18 2,800 → 2026-10-30 2,798（-2）
 
 
 ---

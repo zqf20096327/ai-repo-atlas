@@ -1,6 +1,6 @@
 # felinics/Autofish
 
-⭐ 119 · Rust · Apache-2.0 · 推送 2026-08-29 · [GitHub](https://github.com/felinics/Autofish) · 个人维护 · 中文 README
+⭐ 120 · Rust · Apache-2.0 · 推送 2026-08-29 · [GitHub](https://github.com/felinics/Autofish) · 个人维护 · 中文 README
 
 **给 AI agent 用的 Android 设备控制执行层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "felinics/Autofish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 118 --> 120
-    line [119, 119]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 118 --> 121
+    line [119, 120]
 ```
 
-2026-10-18 119 → 2026-10-29 119（+0）
+2026-10-18 119 → 2026-10-30 120（+1）
 
 
 ---

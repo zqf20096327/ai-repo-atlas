@@ -1,6 +1,6 @@
 # cubewhy/skid-homework
 
-⭐ 1,771 · TypeScript · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/cubewhy/skid-homework) · [官网](https://skid.cubewhy.dev) · 个人维护 · 中文 README
+⭐ 1,780 · TypeScript · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/cubewhy/skid-homework) · [官网](https://skid.cubewhy.dev) · 个人维护 · 中文 README
 
 **浏览器端 LLM 作业解题平台：拍照/上传题目生成答案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cubewhy/skid-homework 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1746 --> 1775
-    line [1748, 1763, 1773, 1772, 1771, 1771]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1745 --> 1783
+    line [1748, 1763, 1773, 1772, 1771, 1780]
 ```
 
-2026-10-18 1,748 → 2026-10-29 1,771（+23）
+2026-10-18 1,748 → 2026-10-30 1,780（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1adrianb/face-alignment
 
-⭐ 7,549 · Python · BSD-3-Clause · 推送 2026-04-06 · [GitHub](https://github.com/1adrianb/face-alignment) · [官网](https://www.adrianbulat.com) · 个人维护
+⭐ 7,550 · Python · BSD-3-Clause · 推送 2026-04-06 · [GitHub](https://github.com/1adrianb/face-alignment) · [官网](https://www.adrianbulat.com) · 个人维护
 
 **PyTorch 实现的 2D/3D 人脸关键点检测库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "1adrianb/face-alignment 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 7545 --> 7550
-    line [7547, 7546, 7547, 7548, 7549]
+    title "1adrianb/face-alignment 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 7545 --> 7551
+    line [7547, 7546, 7547, 7548, 7549, 7550]
 ```
 
-2026-10-18 7,547 → 2026-10-29 7,549（+2）
+2026-10-18 7,547 → 2026-10-30 7,550（+3）
 
 
 ---

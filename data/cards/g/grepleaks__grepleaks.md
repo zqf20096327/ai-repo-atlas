@@ -1,6 +1,6 @@
 # grepleaks/grepleaks
 
-⭐ 39 · TypeScript · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/grepleaks/grepleaks) · [官网](https://grepleaks.com) · 组织维护
+⭐ 40 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/grepleaks/grepleaks) · [官网](https://grepleaks.com) · 组织维护
 
 **给安全测试人员的终端 AI 渗透测试 agent 与工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "grepleaks/grepleaks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 33 --> 40
-    line [34, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 33 --> 41
+    line [34, 37, 38, 39, 40]
 ```
 
-2026-10-18 34 → 2026-10-29 39（+5）
+2026-10-18 34 → 2026-10-30 40（+6）
 
 
 ---

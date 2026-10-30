@@ -44,13 +44,13 @@ LangChain Crash Course 配套代码仓库，跟随 YouTube 教学视频使用：
 
 ```mermaid
 xychart-beta
-    title "Tahirpathan-AiLab/LangChain_Chat_models 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "Tahirpathan-AiLab/LangChain_Chat_models 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 22
-    line [18, 20, 21]
+    line [18, 20, 21, 21]
 ```
 
-2026-10-18 18 → 2026-10-29 21（+3）
+2026-10-18 18 → 2026-10-30 21（+3）
 
 
 ---

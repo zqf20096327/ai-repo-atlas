@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "salespeak-ai/buyer-eval-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "salespeak-ai/buyer-eval-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 65 --> 69
-    line [66, 67, 68]
+    line [66, 67, 68, 68]
 ```
 
-2026-10-18 66 → 2026-10-29 68（+2）
+2026-10-18 66 → 2026-10-30 68（+2）
 
 
 ---

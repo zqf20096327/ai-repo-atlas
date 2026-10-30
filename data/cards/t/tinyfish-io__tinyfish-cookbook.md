@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-cookbook
 
-⭐ 2,277 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
+⭐ 2,279 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
 
 **TinyFish web agent 的示例应用与配方集合**
 
@@ -45,13 +45,13 @@ TinyFish（面向 AI agent 的 web 层服务）官方社区示例库：每个目
 
 ```mermaid
 xychart-beta
-    title "tinyfish-io/tinyfish-cookbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 2252 --> 2279
-    line [2254, 2260, 2266, 2271, 2273, 2274, 2277]
+    title "tinyfish-io/tinyfish-cookbook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2252 --> 2281
+    line [2254, 2260, 2266, 2271, 2273, 2274, 2277, 2279]
 ```
 
-2026-10-18 2,254 → 2026-10-29 2,277（+23）
+2026-10-18 2,254 → 2026-10-30 2,279（+25）
 
 
 ---

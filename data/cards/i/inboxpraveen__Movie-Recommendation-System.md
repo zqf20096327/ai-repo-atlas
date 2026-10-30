@@ -41,6 +41,18 @@
 > L24: - **A training pipeline** (`training/train.py`) that turns any TMDB-shaped CSV into a small, fast model directory.
 > L54: 4. Fit TF-IDF over one and two word grams, then reduce with truncated SVD to 500 dimensions.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "inboxpraveen/Movie-Recommendation-System 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 245 --> 247
+    line [246, 246]
+```
+
+2026-10-29 246 → 2026-10-30 246（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `5cbd7fb253e2` · [字段定义](../../DATASET.md)*

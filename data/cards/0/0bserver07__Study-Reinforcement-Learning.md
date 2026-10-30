@@ -1,6 +1,6 @@
 # 0bserver07/Study-Reinforcement-Learning
 
-⭐ 167 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/0bserver07/Study-Reinforcement-Learning) · 个人维护
+⭐ 168 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/0bserver07/Study-Reinforcement-Learning) · 个人维护
 
 **强化学习与 LLM 对齐的个人学习笔记库：笔记、讲义、练习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0bserver07/Study-Reinforcement-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 166 --> 169
+    line [167, 168]
 ```
 
-2026-10-18 167 → 2026-10-29 167（+0）
+2026-10-18 167 → 2026-10-30 168（+1）
 
 
 ---

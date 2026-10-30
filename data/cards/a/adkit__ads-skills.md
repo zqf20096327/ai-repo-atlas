@@ -1,6 +1,6 @@
 # adkit/ads-skills
 
-⭐ 34 · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/adkit/ads-skills) · [官网](https://adkit.so) · 个人维护
+⭐ 35 · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/adkit/ads-skills) · [官网](https://adkit.so) · 个人维护
 
 **教 AI agent 做广告投放的技能包：Meta/Google 策略框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adkit/ads-skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-29 34（+1）
+2026-10-18 33 → 2026-10-30 35（+2）
 
 
 ---

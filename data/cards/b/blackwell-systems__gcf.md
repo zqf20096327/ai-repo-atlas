@@ -1,6 +1,6 @@
 # blackwell-systems/gcf
 
-⭐ 61 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/blackwell-systems/gcf) · [官网](http://www.gcformat.com/) · 组织维护
+⭐ 61 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/blackwell-systems/gcf) · [官网](http://www.gcformat.com/) · 组织维护
 
 **面向 LLM/Agent 的结构化数据序列化格式，替代 JSON 降 token**
 
@@ -46,12 +46,12 @@ GCF 是一种文本序列化格式，含通用 profile（表格式数组/嵌套�
 ```mermaid
 xychart-beta
     title "blackwell-systems/gcf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 58 --> 62
     line [59, 60, 61, 61]
 ```
 
-2026-10-18 59 → 2026-10-29 61（+2）
+2026-10-18 59 → 2026-10-30 61（+2）
 
 
 ---

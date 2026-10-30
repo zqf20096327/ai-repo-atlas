@@ -1,6 +1,6 @@
 # DingoOz/llm-visuals
 
-⭐ 151 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/DingoOz/llm-visuals) · 个人维护
+⭐ 151 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DingoOz/llm-visuals) · 个人维护
 
 **本地 LLM 推理服务的真彩色终端实时监控面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DingoOz/llm-visuals 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 148 --> 153
     line [149, 150, 152, 151, 151]
 ```
 
-2026-10-18 149 → 2026-10-29 151（+2）
+2026-10-18 149 → 2026-10-30 151（+2）
 
 
 ---

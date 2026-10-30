@@ -1,6 +1,6 @@
 # codelion/adaptive-classifier
 
-⭐ 576 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/codelion/adaptive-classifier) · 个人维护
+⭐ 577 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/codelion/adaptive-classifier) · 个人维护
 
 **支持持续学习与动态加类的自适应文本分类库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codelion/adaptive-classifier 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 573 --> 577
-    line [574, 575, 576, 576]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 573 --> 578
+    line [574, 575, 576, 577]
 ```
 
-2026-10-18 574 → 2026-10-29 576（+2）
+2026-10-18 574 → 2026-10-30 577（+3）
 
 
 ---

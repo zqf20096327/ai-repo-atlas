@@ -1,6 +1,6 @@
 # InterDigitalInc/CompressAI-Vision
 
-⭐ 131 · Python · BSD-3-Clause-Clear · 推送 2026-10-08 · [GitHub](https://github.com/InterDigitalInc/CompressAI-Vision) · [官网](https://interdigitalinc.github.io/CompressAI-Vision/) · 组织维护
+⭐ 131 · Python · BSD-3-Clause-Clear · 推送 2026-10-29 · [GitHub](https://github.com/InterDigitalInc/CompressAI-Vision) · [官网](https://interdigitalinc.github.io/CompressAI-Vision/) · 组织维护
 
 **面向机器任务的视觉/视频压缩评测框架（VCM/FCM）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InterDigitalInc/CompressAI-Vision 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-18 131 → 2026-10-29 131（+0）
+2026-10-18 131 → 2026-10-30 131（+0）
 
 
 ---

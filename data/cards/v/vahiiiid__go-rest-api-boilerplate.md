@@ -45,13 +45,13 @@ Go 语言 REST API 项目模板（GRAB），提供 Clean Architecture 分层、J
 
 ```mermaid
 xychart-beta
-    title "vahiiiid/go-rest-api-boilerplate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "vahiiiid/go-rest-api-boilerplate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 69 --> 72
-    line [70, 71]
+    line [70, 71, 71]
 ```
 
-2026-10-18 70 → 2026-10-29 71（+1）
+2026-10-18 70 → 2026-10-30 71（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mattral/Research-Search
 
-⭐ 21 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/Mattral/Research-Search) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/Mattral/Research-Search) · 个人维护
 
 **科研文献发现工具：跨 arXiv/S2/OpenAlex 搜索与 AI 摘要比对**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/Research-Search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    line [20, 21, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

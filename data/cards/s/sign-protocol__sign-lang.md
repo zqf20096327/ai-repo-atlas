@@ -45,12 +45,12 @@ SIGN 是一个开放规范（Apache 2.0），定义供 LLM agent 消费的知识
 ```mermaid
 xychart-beta
     title "sign-protocol/sign-lang 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/pi-zero-pytorch
 
-⭐ 589 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lucidrains/pi-zero-pytorch) · 个人维护
+⭐ 589 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lucidrains/pi-zero-pytorch) · 个人维护
 
 **π₀ 机器人基础模型架构的 PyTorch 实现**
 
@@ -45,12 +45,12 @@ Physical Intelligence 提出的机器人基础模型 π₀ 的第三方 PyTorch 
 ```mermaid
 xychart-beta
     title "lucidrains/pi-zero-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 588 --> 590
     line [589, 589]
 ```
 
-2026-10-18 589 → 2026-10-29 589（+0）
+2026-10-18 589 → 2026-10-30 589（+0）
 
 
 ---

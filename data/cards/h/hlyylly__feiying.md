@@ -1,6 +1,6 @@
 # hlyylly/feiying
 
-⭐ 56 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/hlyylly/feiying) · 个人维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/hlyylly/feiying) · 个人维护 · 中文 README
 
 **发片名即从 Telegram 自动搜片入库并流播的自托管工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hlyylly/feiying 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 51 --> 57
-    line [52, 53, 55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 51 --> 59
+    line [52, 53, 55, 56, 58]
 ```
 
-2026-10-18 52 → 2026-10-29 56（+4）
+2026-10-18 52 → 2026-10-30 58（+6）
 
 
 ---

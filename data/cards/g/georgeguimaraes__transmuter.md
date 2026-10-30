@@ -1,6 +1,6 @@
 # georgeguimaraes/transmuter
 
-⭐ 20 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/georgeguimaraes/transmuter) · 个人维护
+⭐ 20 · Elixir · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/georgeguimaraes/transmuter) · 个人维护
 
 **Elixir 库：在任意 Nx 后端直接运行 Hugging Face ONNX 模型**
 
@@ -47,12 +47,12 @@ Transmuter 用 Nx 实现 ONNX 标准算子，按图逐算子执行 ONNX 导出�
 ```mermaid
 xychart-beta
     title "georgeguimaraes/transmuter 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 12 --> 21
     line [13, 17, 20, 20]
 ```
 
-2026-10-23 13 → 2026-10-29 20（+7）
+2026-10-23 13 → 2026-10-30 20（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/conductor
 
-⭐ 483 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/conductor) · 组织维护
+⭐ 483 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/conductor) · 组织维护
 
 **用 YAML 定义并确定性运行多 agent 工作流的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/conductor 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 475 --> 484
     line [476, 478, 479, 481, 482, 483, 483]
 ```
 
-2026-10-18 476 → 2026-10-29 483（+7）
+2026-10-18 476 → 2026-10-30 483（+7）
 
 
 ---

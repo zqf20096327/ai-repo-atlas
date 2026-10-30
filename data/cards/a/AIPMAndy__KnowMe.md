@@ -1,6 +1,6 @@
 # AIPMAndy/KnowMe
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/KnowMe) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AIPMAndy/KnowMe) · 个人维护 · 中文 README
 
 **从 AI 对话与飞书聊天记录做 MBTI 行为分析的本地工具**
 
@@ -46,12 +46,12 @@ Python 命令行分析器，读取 ChatGPT/Claude/OpenClaw 导出的长期对话
 ```mermaid
 xychart-beta
     title "AIPMAndy/KnowMe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

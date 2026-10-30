@@ -45,12 +45,12 @@ npm 发布的 MCP 服务器套件，含四个组件：project-memory（Obsidian 
 ```mermaid
 xychart-beta
     title "verrysimatupang99/codex-dev-mcp-suite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-29 96（+0）
+2026-10-18 96 → 2026-10-30 96（+0）
 
 
 ---

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-constitution 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "anthropics/claude-constitution 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 147 --> 150
-    line [148, 149, 148]
+    line [148, 149, 148, 148]
 ```
 
-2026-10-18 148 → 2026-10-29 148（+0）
+2026-10-18 148 → 2026-10-30 148（+0）
 
 
 ---

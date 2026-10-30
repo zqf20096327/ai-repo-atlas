@@ -1,6 +1,6 @@
 # davidalmeida90/quant-models
 
-⭐ 29 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/davidalmeida90/quant-models) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/davidalmeida90/quant-models) · 个人维护
 
 **量化金融模型的开源 Python 实现集合：期权定价、波动率、组合与蒙特卡洛**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "davidalmeida90/quant-models 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 23 --> 30
-    line [24, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 23 --> 31
+    line [24, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 24 → 2026-10-29 29（+5）
+2026-10-18 24 → 2026-10-30 30（+6）
 
 
 ---

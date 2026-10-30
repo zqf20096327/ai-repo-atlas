@@ -1,6 +1,6 @@
 # heaven-hm/awesome-reverse-engineered-games
 
-⭐ 28 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/heaven-hm/awesome-reverse-engineered-games) · 个人维护
+⭐ 29 · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/heaven-hm/awesome-reverse-engineered-games) · 个人维护
 
 **AI 辅助逆向/重制游戏的策展清单与指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heaven-hm/awesome-reverse-engineered-games 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 25 --> 29
-    line [26, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 25 --> 30
+    line [26, 28, 29]
 ```
 
-2026-10-18 26 → 2026-10-29 28（+2）
+2026-10-18 26 → 2026-10-30 29（+3）
 
 
 ---

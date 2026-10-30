@@ -1,6 +1,6 @@
 # apache/casbin-gateway
 
-⭐ 643 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
+⭐ 644 · Go · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
 
 **本机 AI 编码 agent 的网关：监控、审计与统一接入 44 家模型厂商**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "apache/casbin-gateway 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 641 --> 645
-    line [642, 643, 644, 643, 643]
+    line [642, 643, 644, 643, 644]
 ```
 
-2026-10-18 642 → 2026-10-29 643（+1）
+2026-10-18 642 → 2026-10-30 644（+2）
 
 
 ---

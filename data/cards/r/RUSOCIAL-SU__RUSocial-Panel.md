@@ -43,12 +43,12 @@ README 仅包含 Discord 邀请链接、在线面板地址（panel.rusocial.io�
 ```mermaid
 xychart-beta
     title "RUSOCIAL-SU/RUSocial-Panel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 136 --> 138
     line [137, 137]
 ```
 
-2026-10-18 137 → 2026-10-29 137（+0）
+2026-10-18 137 → 2026-10-30 137（+0）
 
 
 ---

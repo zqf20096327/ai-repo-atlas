@@ -1,6 +1,6 @@
 # glidea/zenfeed
 
-⭐ 1,716 · Go · AGPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/glidea/zenfeed) · [官网](https://zenfeed.xyz) · 个人维护 · 中文 README
+⭐ 1,717 · Go · AGPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/glidea/zenfeed) · [官网](https://zenfeed.xyz) · 个人维护 · 中文 README
 
 **AI 信息中枢：智能 RSS 阅读器、新闻知识库与事件监控简报**
 
@@ -47,12 +47,12 @@ zenfeed 是一个自托管的 AI 信息中枢服务，以 Docker Compose 一键�
 ```mermaid
 xychart-beta
     title "glidea/zenfeed 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 1714 --> 1718
-    line [1715, 1716, 1717, 1716, 1716]
+    line [1715, 1716, 1717, 1716, 1717]
 ```
 
-2026-10-18 1,715 → 2026-10-29 1,716（+1）
+2026-10-18 1,715 → 2026-10-30 1,717（+2）
 
 
 ---

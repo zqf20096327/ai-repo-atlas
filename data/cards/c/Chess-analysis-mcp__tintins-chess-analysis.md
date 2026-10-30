@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chess-analysis-mcp/tintins-chess-analysis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    title "Chess-analysis-mcp/tintins-chess-analysis 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 50 --> 55
-    line [51, 52, 54]
+    line [51, 52, 54, 54]
 ```
 
-2026-10-18 51 → 2026-10-29 54（+3）
+2026-10-18 51 → 2026-10-30 54（+3）
 
 
 ---

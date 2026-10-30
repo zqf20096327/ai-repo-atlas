@@ -1,6 +1,6 @@
 # d9d-project/d9d
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/d9d-project/d9d) · [官网](https://d9d-project.github.io/d9d/) · 组织维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/d9d-project/d9d) · [官网](https://d9d-project.github.io/d9d/) · 组织维护
 
 **可组合的 PyTorch 分布式训练框架，单卡到多机集群**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "d9d-project/d9d 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "d9d-project/d9d 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 37 --> 43
-    line [38, 40, 41, 42]
+    line [38, 40, 41, 42, 42]
 ```
 
-2026-10-18 38 → 2026-10-29 42（+4）
+2026-10-18 38 → 2026-10-30 42（+4）
 
 
 ---

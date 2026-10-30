@@ -1,6 +1,6 @@
 # SenteraLLC/ulabel
 
-⭐ 27 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SenteraLLC/ulabel) · 组织维护
+⭐ 27 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SenteraLLC/ulabel) · 组织维护
 
 **浏览器端图像标注工具，为视觉任务制作训练数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SenteraLLC/ulabel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

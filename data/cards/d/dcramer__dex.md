@@ -1,6 +1,6 @@
 # dcramer/dex
 
-⭐ 390 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/dcramer/dex) · [官网](https://dex.rip) · 个人维护
+⭐ 397 · TypeScript · MIT · 推送 2026-03-02 · [GitHub](https://github.com/dcramer/dex) · [官网](https://dex.rip) · 个人维护
 
 **给 AI agent 的结构化任务追踪工具，提供跨会话持久记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dcramer/dex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 385 --> 391
-    line [386, 390]
+    title "dcramer/dex 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 385 --> 398
+    line [386, 390, 397]
 ```
 
-2026-10-18 386 → 2026-10-29 390（+4）
+2026-10-18 386 → 2026-10-30 397（+11）
 
 
 ---

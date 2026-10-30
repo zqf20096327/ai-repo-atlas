@@ -1,6 +1,6 @@
 # SuperJJ007/CSSwitch
 
-⭐ 487 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/SuperJJ007/CSSwitch) · 个人维护 · 中文 README
+⭐ 486 · Rust · MIT · 推送 2026-08-22 · [GitHub](https://github.com/SuperJJ007/CSSwitch) · 个人维护 · 中文 README
 
 **macOS 菜单栏工具：让 Claude Science 接入第三方模型 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SuperJJ007/CSSwitch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 479 --> 488
-    line [480, 482, 485, 487, 487]
+    line [480, 482, 485, 487, 486]
 ```
 
-2026-10-18 480 → 2026-10-29 487（+7）
+2026-10-18 480 → 2026-10-30 486（+6）
 
 
 ---

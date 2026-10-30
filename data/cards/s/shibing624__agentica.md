@@ -1,6 +1,6 @@
 # shibing624/agentica
 
-⭐ 359 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shibing624/agentica) · [官网](https://shibing624.github.io/agentica/) · 个人维护 · 中文 README
+⭐ 359 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/shibing624/agentica) · [官网](https://shibing624.github.io/agentica/) · 个人维护 · 中文 README
 
 **多终端 AI Agent 框架：CLI/Web/桌面 + Python SDK，支持多会话协作与技能自进化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shibing624/agentica 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
+    title "shibing624/agentica 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 354 --> 360
-    line [355, 356, 357, 358, 359]
+    line [355, 356, 357, 358, 359, 359]
 ```
 
-2026-10-18 355 → 2026-10-29 359（+4）
+2026-10-18 355 → 2026-10-30 359（+4）
 
 
 ---

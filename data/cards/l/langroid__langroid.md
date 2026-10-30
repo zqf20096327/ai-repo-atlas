@@ -1,6 +1,6 @@
 # langroid/langroid
 
-⭐ 4,122 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/langroid/langroid) · [官网](https://langroid.github.io/langroid/) · 组织维护
+⭐ 4,122 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langroid/langroid) · [官网](https://langroid.github.io/langroid/) · 组织维护
 
 **构建 LLM 多智能体应用的 Python 框架，出自 CMU/UW-Madison 研究者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langroid/langroid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    title "langroid/langroid 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 4116 --> 4123
-    line [4117, 4120, 4119, 4120, 4122]
+    line [4117, 4120, 4119, 4120, 4122, 4122]
 ```
 
-2026-10-18 4,117 → 2026-10-29 4,122（+5）
+2026-10-18 4,117 → 2026-10-30 4,122（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # michaelfeil/infinity
 
-⭐ 2,971 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
+⭐ 2,973 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
 
 **面向开发者的文本嵌入/重排/CLIP 等模型的 REST 推理服务引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "michaelfeil/infinity 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2960 --> 2972
-    line [2961, 2962, 2967, 2968, 2970, 2971]
+    title "michaelfeil/infinity 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2960 --> 2974
+    line [2961, 2962, 2967, 2968, 2970, 2971, 2973]
 ```
 
-2026-10-18 2,961 → 2026-10-29 2,971（+10）
+2026-10-18 2,961 → 2026-10-30 2,973（+12）
 
 
 ---

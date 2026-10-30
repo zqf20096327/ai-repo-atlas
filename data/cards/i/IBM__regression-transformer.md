@@ -1,6 +1,6 @@
 # IBM/regression-transformer
 
-⭐ 159 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/IBM/regression-transformer) · [官网](https://www.nature.com/articles/s42256-023-00639-z) · 组织维护
+⭐ 159 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/IBM/regression-transformer) · [官网](https://www.nature.com/articles/s42256-023-00639-z) · 组织维护
 
 **将回归任务化为条件序列建模的多任务 Transformer 模型实现**
 
@@ -46,12 +46,12 @@ Regression Transformer 的官方开发代码库：把回归（属性预测）与
 ```mermaid
 xychart-beta
     title "IBM/regression-transformer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 158 --> 160
     line [159, 159]
 ```
 
-2026-10-18 159 → 2026-10-29 159（+0）
+2026-10-18 159 → 2026-10-30 159（+0）
 
 
 ---

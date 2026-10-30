@@ -1,6 +1,6 @@
 # RelevanceAI/relevanceai
 
-⭐ 285 · Python · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/RelevanceAI/relevanceai) · [官网](https://sdk.relevanceai.com) · 组织维护
+⭐ 286 · Python · Apache-2.0 · 推送 2026-01-15 · [GitHub](https://github.com/RelevanceAI/relevanceai) · [官网](https://sdk.relevanceai.com) · 组织维护
 
 **Relevance AI 平台的 Python SDK，用于构建与管理 AI agent**
 
@@ -45,12 +45,12 @@ Relevance AI 官方 Python SDK：通过客户端接入 Relevance AI 平台（需
 ```mermaid
 xychart-beta
     title "RelevanceAI/relevanceai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 283 --> 286
-    line [284, 285, 285]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 283 --> 287
+    line [284, 285, 286]
 ```
 
-2026-10-18 284 → 2026-10-29 285（+1）
+2026-10-18 284 → 2026-10-30 286（+2）
 
 
 ---

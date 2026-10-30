@@ -1,6 +1,6 @@
 # SaladTechnologies/comfyui-api
 
-⭐ 457 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/SaladTechnologies/comfyui-api) · 组织维护
+⭐ 459 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/SaladTechnologies/comfyui-api) · 组织维护
 
 **把 ComfyUI 包装成无状态、可横向扩展的图像生成 API 服务器**
 
@@ -46,12 +46,12 @@ SaladTechnologies 维护的 ComfyUI API 封装服务器：接收 ComfyUI prompt 
 ```mermaid
 xychart-beta
     title "SaladTechnologies/comfyui-api 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 455 --> 458
-    line [456, 457, 457]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 455 --> 460
+    line [456, 457, 459]
 ```
 
-2026-10-18 456 → 2026-10-29 457（+1）
+2026-10-18 456 → 2026-10-30 459（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sgasser/pasteguard
 
-⭐ 778 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sgasser/pasteguard) · [官网](https://pasteguard.com) · 个人维护
+⭐ 782 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/sgasser/pasteguard) · [官网](https://pasteguard.com) · 个人维护
 
 **本地隐私代理：在请求到达 AI 前掩码 PII 与密钥**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgasser/pasteguard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 765 --> 779
-    line [766, 767, 769, 770, 773, 774, 778]
+    title "sgasser/pasteguard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 765 --> 783
+    line [766, 767, 769, 770, 773, 774, 778, 782]
 ```
 
-2026-10-18 766 → 2026-10-29 778（+12）
+2026-10-18 766 → 2026-10-30 782（+16）
 
 
 ---

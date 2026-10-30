@@ -1,6 +1,6 @@
 # zidniryi/unbagrnd
 
-⭐ 179 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/zidniryi/unbagrnd) · [官网](https://zidniryi.space/unbagrnd/) · 个人维护
+⭐ 178 · Rust · MIT · 推送 2026-10-14 · [GitHub](https://github.com/zidniryi/unbagrnd) · [官网](https://zidniryi.space/unbagrnd/) · 个人维护
 
 **跨平台本地 AI 抠图工具：设备端去除图片背景**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zidniryi/unbagrnd 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
     y-axis "stars" 175 --> 180
-    line [176, 177, 179, 179]
+    line [176, 177, 179, 178]
 ```
 
-2026-10-18 176 → 2026-10-29 179（+3）
+2026-10-18 176 → 2026-10-30 178（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # VolkanSah/AI-API-Security-Best-Practices
 
-⭐ 33 · 推送 2026-10-28 · [GitHub](https://github.com/VolkanSah/AI-API-Security-Best-Practices) · [官网](https://volkansah.github.io/AI-API-Security-Best-Practices/) · 个人维护
+⭐ 33 · 推送 2026-10-29 · [GitHub](https://github.com/VolkanSah/AI-API-Security-Best-Practices) · [官网](https://volkansah.github.io/AI-API-Security-Best-Practices/) · 个人维护
 
 **面向开发者的 LLM API 集成安全最佳实践指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VolkanSah/AI-API-Security-Best-Practices 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 33（+0）
 
 
 ---

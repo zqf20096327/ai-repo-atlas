@@ -1,6 +1,6 @@
 # DiffoHQ/diffo
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/DiffoHQ/diffo) · [官网](https://diffo.io) · 组织维护
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/DiffoHQ/diffo) · [官网](https://diffo.io) · 组织维护
 
 **本地运行的代码审查工具：阅读 agent 代码并让 agent 在行内回应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DiffoHQ/diffo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 39 --> 43
     line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-10-29 42（+2）
+2026-10-18 40 → 2026-10-30 42（+2）
 
 
 ---

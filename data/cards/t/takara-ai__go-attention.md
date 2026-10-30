@@ -46,12 +46,12 @@ takara.ai 前沿研究团队发布的纯 Go 注意力机制与 Transformer 库�
 ```mermaid
 xychart-beta
     title "takara-ai/go-attention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 478 --> 480
     line [479, 479]
 ```
 
-2026-10-18 479 → 2026-10-29 479（+0）
+2026-10-18 479 → 2026-10-30 479（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # aw3703/batchin-public
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/aw3703/batchin-public) · [官网](https://batchin.tech) · 个人维护 · 中文 README
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/aw3703/batchin-public) · [官网](https://batchin.tech) · 个人维护 · 中文 README
 
 **BatchIn 推理网关的客户端开发资源：SDK/CLI/MCP 连接器与凭证核验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aw3703/batchin-public 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 90 --> 102
     line [101, 91, 91]
 ```
 
-2026-10-18 101 → 2026-10-29 91（-10）
+2026-10-18 101 → 2026-10-30 91（-10）
 
 
 ---

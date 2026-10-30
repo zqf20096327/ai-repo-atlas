@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-juridico-brasil
 
-⭐ 121 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DeHor-Labs/mcp-juridico-brasil) · [官网](https://juridico.dehor.dev) · 组织维护
+⭐ 123 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DeHor-Labs/mcp-juridico-brasil) · [官网](https://juridico.dehor.dev) · 组织维护
 
 **MCP 服务器：让 AI 助手接入巴西 DataJud 司法数据查询**
 
@@ -40,6 +40,18 @@
 > L24: `mcp-juridico-brasil` conecta assistentes de IA, escritórios de advocacia e sistemas de gestão processual ao **Data
 > L30: O servidor registra **9 tools** e **1 resource** (ver `src/mcp_juridico_brasil/server.py`).
 > L162: Claude / GPT / Cursor / qualquer cliente MCP
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DeHor-Labs/mcp-juridico-brasil 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 120 --> 124
+    line [121, 123]
+```
+
+2026-10-29 121 → 2026-10-30 123（+2）
 
 
 ---

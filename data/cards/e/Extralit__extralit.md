@@ -1,6 +1,6 @@
 # Extralit/extralit
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Extralit/extralit) · [官网](https://extralit.ai/) · 组织维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Extralit/extralit) · [官网](https://extralit.ai/) · 组织维护
 
 **LLM 辅助的科学文献结构化数据提取与人机协同标注平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Extralit/extralit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-29 48（+0）
+2026-10-18 48 → 2026-10-30 48（+0）
 
 
 ---

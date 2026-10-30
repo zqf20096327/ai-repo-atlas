@@ -1,6 +1,6 @@
 # foryourhealth111-pixel/Vibe-Skills
 
-⭐ 3,776 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · 个人维护 · 中文 README
+⭐ 3,778 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/foryourhealth111-pixel/Vibe-Skills) · 个人维护 · 中文 README
 
 **面向 AI agent 的本地 Skill 路由与工作流编排工具**
 
@@ -44,13 +44,13 @@ VibeSkills 是一个通用 Skill，为 AI agent 提供从接收任务到验收�
 
 ```mermaid
 xychart-beta
-    title "foryourhealth111-pixel/Vibe-Skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3719 --> 3781
-    line [3724, 3729, 3759, 3760, 3764, 3769, 3770, 3772, 3776]
+    title "foryourhealth111-pixel/Vibe-Skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3719 --> 3783
+    line [3724, 3729, 3759, 3760, 3764, 3769, 3770, 3772, 3776, 3778]
 ```
 
-2026-10-18 3,724 → 2026-10-29 3,776（+52）
+2026-10-18 3,724 → 2026-10-30 3,778（+54）
 
 
 ---

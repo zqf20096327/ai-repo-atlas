@@ -1,6 +1,6 @@
 # xianyu110/grokbot
 
-⭐ 43 · 推送 2026-10-26 · [GitHub](https://github.com/xianyu110/grokbot) · [官网](https://grokbotai.asia) · 个人维护 · 中文 README
+⭐ 46 · 推送 2026-10-26 · [GitHub](https://github.com/xianyu110/grokbot) · [官网](https://grokbotai.asia) · 个人维护 · 中文 README
 
 **Grok Bot 使用教程：中文图文指南覆盖开通、配置与定时任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xianyu110/grokbot 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-28", "2026-10-30"]
+    y-axis "stars" 42 --> 47
+    line [43, 46]
 ```
 
-2026-10-28 43 → 2026-10-29 43（+0）
+2026-10-28 43 → 2026-10-30 46（+3）
 
 
 ---

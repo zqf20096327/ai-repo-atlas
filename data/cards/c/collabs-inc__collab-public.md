@@ -1,6 +1,6 @@
 # collabs-inc/collab-public
 
-⭐ 3,074 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/collabs-inc/collab-public) · [官网](https://collaborator.bot/) · 组织维护
+⭐ 3,073 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/collabs-inc/collab-public) · [官网](https://collaborator.bot/) · 组织维护
 
 **在无限画布上与 AI agent 并行开发的桌面环境**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "collabs-inc/collab-public 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 3073 --> 3077
-    line [3075, 3074, 3076, 3074, 3074]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 3072 --> 3077
+    line [3075, 3074, 3076, 3074, 3073]
 ```
 
-2026-10-18 3,075 → 2026-10-29 3,074（-1）
+2026-10-18 3,075 → 2026-10-30 3,073（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelscope/mcore-bridge
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modelscope/mcore-bridge) · [官网](https://swift.readthedocs.io/en/latest/Megatron-SWIFT/Mcore-Bridge.html) · 组织维护 · 中文 README
+⭐ 105 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/modelscope/mcore-bridge) · [官网](https://swift.readthedocs.io/en/latest/Megatron-SWIFT/Mcore-Bridge.html) · 组织维护 · 中文 README
 
 **基于 Megatron-Core 的大模型定义库：让 Megatron 训练像 Transformers 一样简单**
 
@@ -46,12 +46,12 @@ ModelScope 社区开发的模型定义库，构建于 Megatron-Core 生态之上
 ```mermaid
 xychart-beta
     title "modelscope/mcore-bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 103 --> 106
     line [104, 105, 105]
 ```
 
-2026-10-18 104 → 2026-10-29 105（+1）
+2026-10-18 104 → 2026-10-30 105（+1）
 
 
 ---

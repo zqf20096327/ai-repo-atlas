@@ -43,12 +43,12 @@ PyTorch 官方维护的集成测试基础设施：在 PyTorch 发布候选版本
 ```mermaid
 xychart-beta
     title "pytorch/pytorch-integration-testing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

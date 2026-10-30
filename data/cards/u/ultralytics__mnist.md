@@ -44,12 +44,12 @@ Ultralytics 维护的 PyTorch 实验仓库：在 MNIST 手写数字数据集上�
 ```mermaid
 xychart-beta
     title "ultralytics/mnist 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 71（+0）
 
 
 ---

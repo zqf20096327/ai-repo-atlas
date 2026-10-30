@@ -1,6 +1,6 @@
 # pju-hoge/a-letter-to-junior-agents
 
-⭐ 84 · MIT · 推送 2026-10-10 · [GitHub](https://github.com/pju-hoge/a-letter-to-junior-agents) · 个人维护
+⭐ 85 · MIT · 推送 2026-10-10 · [GitHub](https://github.com/pju-hoge/a-letter-to-junior-agents) · 个人维护
 
 **给 Hermes 个人 agent 用的长期记忆/人设/共享工作区引导文档包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pju-hoge/a-letter-to-junior-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 45 --> 87
-    line [48, 49, 66, 79, 82, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 45 --> 88
+    line [48, 49, 66, 79, 82, 83, 84, 85]
 ```
 
-2026-10-18 48 → 2026-10-29 84（+36）
+2026-10-18 48 → 2026-10-30 85（+37）
 
 
 ---

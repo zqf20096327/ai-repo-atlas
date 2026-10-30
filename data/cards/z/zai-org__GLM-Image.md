@@ -1,6 +1,6 @@
 # zai-org/GLM-Image
 
-⭐ 1,069 · Python · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/zai-org/GLM-Image) · [官网](https://z.ai/blog/glm-image) · 组织维护 · 中文 README
+⭐ 1,071 · Python · Apache-2.0 · 推送 2026-03-20 · [GitHub](https://github.com/zai-org/GLM-Image) · [官网](https://z.ai/blog/glm-image) · 组织维护 · 中文 README
 
 **自回归+扩散混合架构的开源文生图/图生图模型（9B+7B）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zai-org/GLM-Image 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1065 --> 1070
-    line [1066, 1067, 1068, 1069]
+    title "zai-org/GLM-Image 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1065 --> 1072
+    line [1066, 1067, 1068, 1069, 1071]
 ```
 
-2026-10-18 1,066 → 2026-10-29 1,069（+3）
+2026-10-18 1,066 → 2026-10-30 1,071（+5）
 
 
 ---

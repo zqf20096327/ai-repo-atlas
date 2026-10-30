@@ -1,6 +1,6 @@
 # LrGenius/LrGeniusAI
 
-⭐ 56 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/LrGenius/LrGeniusAI) · [官网](https://lrgenius.com) · 个人维护
+⭐ 56 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/LrGenius/LrGeniusAI) · [官网](https://lrgenius.com) · 个人维护
 
 **Lightroom Classic 的 AI 插件：打标、描述、语义搜索与照片管理**
 
@@ -46,13 +46,13 @@ Adobe Lightroom Classic 插件加 Rust 后端服务（geniusai-server），功�
 
 ```mermaid
 xychart-beta
-    title "LrGenius/LrGeniusAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "LrGenius/LrGeniusAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 49 --> 57
-    line [50, 51, 52, 53, 55, 56]
+    line [50, 51, 52, 53, 55, 56, 56]
 ```
 
-2026-10-18 50 → 2026-10-29 56（+6）
+2026-10-18 50 → 2026-10-30 56（+6）
 
 
 ---

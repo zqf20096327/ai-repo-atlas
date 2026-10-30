@@ -44,13 +44,13 @@ ClairS 是面向配对样本（主要 ONT 长读长，另支持 PacBio Revio/HiF
 
 ```mermaid
 xychart-beta
-    title "HKU-BAL/ClairS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "HKU-BAL/ClairS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 115 --> 118
-    line [116, 117]
+    line [116, 117, 117]
 ```
 
-2026-10-18 116 → 2026-10-29 117（+1）
+2026-10-18 116 → 2026-10-30 117（+1）
 
 
 ---

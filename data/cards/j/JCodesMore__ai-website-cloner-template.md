@@ -1,6 +1,6 @@
 # JCodesMore/ai-website-cloner-template
 
-⭐ 37,764 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
+⭐ 37,920 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) · [官网](https://dsc.gg/jcodesmore) · 组织维护
 
 **给 AI 编码代理的模板：一条命令把网站复刻为 Next.js 应用**
 
@@ -50,13 +50,13 @@
 
 ```mermaid
 xychart-beta
-    title "JCodesMore/ai-website-cloner-template 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 36840 --> 37848
-    line [36924, 37004, 37097, 37176, 37221, 37276, 37364, 37436, 37483, 37764]
+    title "JCodesMore/ai-website-cloner-template 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 36825 --> 38019
+    line [36924, 37004, 37097, 37176, 37221, 37276, 37364, 37436, 37483, 37764, 37920]
 ```
 
-2026-10-18 36,924 → 2026-10-29 37,764（+840）
+2026-10-18 36,924 → 2026-10-30 37,920（+996）
 
 
 ---

@@ -45,12 +45,12 @@ Bayes@N（ICLR 2026）与 Ranking Reasoning LLMs（ACL 2026）论文的配套实
 ```mermaid
 xychart-beta
     title "mohsenhariri/scorio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-process/ktms
 
-⭐ 18 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ai-process/ktms) · [官网](https://ai-process.dev) · 组织维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ai-process/ktms) · [官网](https://ai-process.dev) · 组织维护
 
 **自托管 LLM 网关：密钥托管、规则路由、降级与限流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-process/ktms 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    title "ai-process/ktms 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 9 --> 19
-    line [10, 17, 18]
+    line [10, 17, 18, 18]
 ```
 
-2026-10-26 10 → 2026-10-29 18（+8）
+2026-10-26 10 → 2026-10-30 18（+8）
 
 
 ---

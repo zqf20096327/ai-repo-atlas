@@ -1,6 +1,6 @@
 # AI-KSK/aiksk-minimax-h3-local-prompt
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt) · 个人维护 · 中文 README
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt) · 个人维护 · 中文 README
 
 **MiniMax H3 视频生成提示词工程 Skill 规范包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-KSK/aiksk-minimax-h3-local-prompt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 29 --> 35
-    line [30, 31, 32, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 29 --> 36
+    line [30, 31, 32, 33, 34, 35]
 ```
 
-2026-10-18 30 → 2026-10-29 34（+4）
+2026-10-18 30 → 2026-10-30 35（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # liquidos-ai/AutoAgents
 
-⭐ 769 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/liquidos-ai/AutoAgents) · [官网](https://liquidos-ai.github.io/AutoAgents/) · 组织维护
+⭐ 770 · Rust · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/liquidos-ai/AutoAgents) · [官网](https://liquidos-ai.github.io/AutoAgents/) · 组织维护
 
 **Rust 多智能体框架：构建、编排与运行多个 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liquidos-ai/AutoAgents 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 761 --> 770
-    line [763, 762, 763, 764, 765, 766, 768, 769, 769]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 761 --> 771
+    line [763, 762, 763, 764, 765, 766, 768, 769, 770]
 ```
 
-2026-10-18 763 → 2026-10-29 769（+6）
+2026-10-18 763 → 2026-10-30 770（+7）
 
 
 ---

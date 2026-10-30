@@ -46,12 +46,12 @@ DIMVA 2026 论文 Whispers in the Machine 的代码仓库：将敏感数据抽�
 ```mermaid
 xychart-beta
     title "LostOxygen/llm-confidentiality 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
     y-axis "stars" 44 --> 48
     line [47, 45, 45]
 ```
 
-2026-10-18 47 → 2026-10-29 45（-2）
+2026-10-18 47 → 2026-10-30 45（-2）
 
 
 ---

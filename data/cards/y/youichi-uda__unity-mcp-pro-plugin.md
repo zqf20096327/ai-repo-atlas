@@ -1,6 +1,6 @@
 # youichi-uda/unity-mcp-pro-plugin
 
-⭐ 82 · C# · MIT · 推送 2026-07-21 · [GitHub](https://github.com/youichi-uda/unity-mcp-pro-plugin) · [官网](https://unity-mcp.abyo.net/) · 个人维护
+⭐ 83 · C# · MIT · 推送 2026-07-21 · [GitHub](https://github.com/youichi-uda/unity-mcp-pro-plugin) · [官网](https://unity-mcp.abyo.net/) · 个人维护
 
 **连接 AI 助手与 Unity 编辑器的 MCP 插件（280+ 工具）**
 
@@ -45,12 +45,12 @@ Unity 编辑器插件，通过 WebSocket 与 Node.js MCP 服务器通信，把�
 ```mermaid
 xychart-beta
     title "youichi-uda/unity-mcp-pro-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-18 82 → 2026-10-29 82（+0）
+2026-10-18 82 → 2026-10-30 83（+1）
 
 
 ---

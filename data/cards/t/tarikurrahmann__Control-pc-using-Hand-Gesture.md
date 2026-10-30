@@ -40,6 +40,18 @@
 > L3: A professional, software-only solution to control your PC mouse, scrolling, and system features using real-time hand
 > L61: * **Pattern**: Raise **Index Finger** ONLY. Keep other fingers curled.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Control-pc-using-Hand-Gesture 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `92651ab0229e` · [字段定义](../../DATASET.md)*

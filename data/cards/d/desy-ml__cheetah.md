@@ -1,6 +1,6 @@
 # desy-ml/cheetah
 
-⭐ 72 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/desy-ml/cheetah) · [官网](https://cheetah-accelerator.readthedocs.io) · 组织维护
+⭐ 72 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/desy-ml/cheetah) · [官网](https://cheetah-accelerator.readthedocs.io) · 组织维护
 
 **加速器光学的高性能可微分仿真库，服务强化学习与优化**
 
@@ -45,12 +45,12 @@ Cheetah 是基于 PyTorch 的可微分束流动力学仿真 Python 库，面向�
 ```mermaid
 xychart-beta
     title "desy-ml/cheetah 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-29 72（+0）
+2026-10-18 72 → 2026-10-30 72（+0）
 
 
 ---

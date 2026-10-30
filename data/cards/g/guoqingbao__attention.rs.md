@@ -1,6 +1,6 @@
 # guoqingbao/attention.rs
 
-⭐ 32 · Cuda · 推送 2026-10-28 · [GitHub](https://github.com/guoqingbao/attention.rs) · 个人维护 · 中文 README
+⭐ 32 · Cuda · 推送 2026-10-29 · [GitHub](https://github.com/guoqingbao/attention.rs) · 个人维护 · 中文 README
 
 **Rust 的 LLM 注意力与算子 CUDA/Metal 内核库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guoqingbao/attention.rs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 32（+0）
 
 
 ---

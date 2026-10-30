@@ -41,6 +41,18 @@
 > L18: could be used for mobile, edge and cloud scenarios. MindSpore is designed to
 > L20: the data scientists and algorithmic engineers, native support for Huawei Ascend AI
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mindspore-ai/mindspore 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 4714 --> 4716
+    line [4715, 4715]
+```
+
+2026-10-29 4,715 → 2026-10-30 4,715（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `efad620fa84d` · [字段定义](../../DATASET.md)*

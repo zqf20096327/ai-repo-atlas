@@ -1,6 +1,6 @@
 # praneybehl/llm-wiki-plugin
 
-⭐ 123 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/praneybehl/llm-wiki-plugin) · [官网](https://praneybehl.github.io/llm-wiki-plugin/) · 个人维护
+⭐ 123 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/praneybehl/llm-wiki-plugin) · [官网](https://praneybehl.github.io/llm-wiki-plugin/) · 个人维护
 
 **把 PDF/文章/笔记变成 AI 代理可共享检索的 Markdown 知识库插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "praneybehl/llm-wiki-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 118 --> 124
     line [119, 121, 122, 123, 123]
 ```
 
-2026-10-18 119 → 2026-10-29 123（+4）
+2026-10-18 119 → 2026-10-30 123（+4）
 
 
 ---

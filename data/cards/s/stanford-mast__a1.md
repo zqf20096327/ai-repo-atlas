@@ -1,6 +1,6 @@
 # stanford-mast/a1
 
-⭐ 60 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/stanford-mast/a1) · [官网](https://a1project.org) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/stanford-mast/a1) · [官网](https://a1project.org) · 组织维护
 
 **将 Agent 编译为可执行代码的 agent 编译框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stanford-mast/a1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-18 60 → 2026-10-29 60（+0）
+2026-10-18 60 → 2026-10-30 61（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Agentic-System-Lab/agent-loop-visualizer
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Agentic-System-Lab/agent-loop-visualizer) · [官网](https://agentic-system-lab.github.io/agent-loop-visualizer/) · 组织维护 · 中文 README
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Agentic-System-Lab/agent-loop-visualizer) · [官网](https://agentic-system-lab.github.io/agent-loop-visualizer/) · 组织维护 · 中文 README
 
 **可视化展示 agent 循环内部机制的教学交互应用**
 
@@ -39,6 +39,18 @@
 
 > L7: This project is for learning: it shows how an agent loop works underneath, in a way more intuitive and visual than r
 > L9: - Models: pick google/gemma-4-E2B-it or Qwen/Qwen3.5-0.8B in the sidebar; they run on your machine with Hugging Face
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Agentic-System-Lab/agent-loop-visualizer 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
+```
+
+2026-10-29 31 → 2026-10-30 32（+1）
 
 
 ---

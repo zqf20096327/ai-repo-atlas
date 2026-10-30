@@ -1,6 +1,6 @@
 # BetterThanTomorrow/calva-backseat-driver
 
-⭐ 64 · Clojure · MIT · 推送 2026-10-18 · [GitHub](https://github.com/BetterThanTomorrow/calva-backseat-driver) · [官网](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-backseat-driver) · 个人维护
+⭐ 65 · Clojure · MIT · 推送 2026-10-18 · [GitHub](https://github.com/BetterThanTomorrow/calva-backseat-driver) · [官网](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-backseat-driver) · 个人维护
 
 **给 VS Code AI 助手提供 Calva Clojure 工具的扩展**
 
@@ -46,12 +46,12 @@ VS Code 扩展，将 Calva 的 Clojure 工具暴露给 VS Code AI agent 框架�
 ```mermaid
 xychart-beta
     title "BetterThanTomorrow/calva-backseat-driver 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 62 --> 65
-    line [64, 63, 64, 64]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 62 --> 66
+    line [64, 63, 64, 65]
 ```
 
-2026-10-18 64 → 2026-10-29 64（+0）
+2026-10-18 64 → 2026-10-30 65（+1）
 
 
 ---

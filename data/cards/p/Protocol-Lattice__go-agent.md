@@ -1,6 +1,6 @@
 # Protocol-Lattice/go-agent
 
-⭐ 261 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Protocol-Lattice/go-agent) · 组织维护
+⭐ 262 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Protocol-Lattice/go-agent) · 组织维护
 
 **Go 语言 AI agent 框架：可插拔 LLM、记忆与多 agent 编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Protocol-Lattice/go-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 258 --> 262
-    line [259, 260, 261, 261]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 258 --> 263
+    line [259, 260, 261, 262]
 ```
 
-2026-10-18 259 → 2026-10-29 261（+2）
+2026-10-18 259 → 2026-10-30 262（+3）
 
 
 ---

@@ -44,13 +44,13 @@ PyTorchKR 维护的社区仓库，将 PyTorch 官方教程（基于 pytorch/tuto
 
 ```mermaid
 xychart-beta
-    title "PyTorchKR/tutorials-kr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "PyTorchKR/tutorials-kr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 372 --> 378
-    line [377, 373]
+    line [377, 373, 373]
 ```
 
-2026-10-18 377 → 2026-10-29 373（-4）
+2026-10-18 377 → 2026-10-30 373（-4）
 
 
 ---

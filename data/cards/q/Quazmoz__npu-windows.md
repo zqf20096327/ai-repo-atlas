@@ -1,6 +1,6 @@
 # Quazmoz/npu-windows
 
-⭐ 29 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Quazmoz/npu-windows) · 个人维护
+⭐ 30 · Python · 推送 2026-09-18 · [GitHub](https://github.com/Quazmoz/npu-windows) · 个人维护
 
 **在 Intel Core Ultra NPU 上本地运行 LLM 的 OpenAI 兼容服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Quazmoz/npu-windows 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-29 29（+0）
+2026-10-18 29 → 2026-10-30 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jghiringhelli/codeseeker
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/jghiringhelli/codeseeker) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/jghiringhelli/codeseeker) · 组织维护
 
 **给 AI 编程助手的代码库混合检索与知识图 MCP 服务器**
 
@@ -47,12 +47,12 @@ CodeSeeker 是一个 TypeScript 编写的 MCP 服务器，面向 Claude Code、G
 ```mermaid
 xychart-beta
     title "jghiringhelli/codeseeker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

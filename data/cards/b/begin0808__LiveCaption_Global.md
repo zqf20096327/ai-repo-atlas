@@ -1,6 +1,6 @@
 # begin0808/LiveCaption_Global
 
-⭐ 40 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/begin0808/LiveCaption_Global) · [官网](https://begin0808.github.io/LiveCaption_Global/) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · 推送 2026-07-31 · [GitHub](https://github.com/begin0808/LiveCaption_Global) · [官网](https://begin0808.github.io/LiveCaption_Global/) · 个人维护 · 中文 README
 
 **为浏览器影片提供本机离线实时双语字幕的 Chrome 扩展系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "begin0808/LiveCaption_Global 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-18 39 → 2026-10-29 40（+1）
+2026-10-18 39 → 2026-10-30 41（+2）
 
 
 ---

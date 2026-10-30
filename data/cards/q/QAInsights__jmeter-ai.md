@@ -1,6 +1,6 @@
 # QAInsights/jmeter-ai
 
-⭐ 65 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/QAInsights/jmeter-ai) · [官网](https://jmeter.ai) · 个人维护
+⭐ 65 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/QAInsights/jmeter-ai) · [官网](https://jmeter.ai) · 个人维护
 
 **Apache JMeter 的 AI 助手插件：聊天、Agent 改测试计划、提取器生成**
 
@@ -46,12 +46,12 @@ Feather Wand 是嵌入 Apache JMeter 的 AI 插件（jmeter-ai），面向性能
 ```mermaid
 xychart-beta
     title "QAInsights/jmeter-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 63 --> 66
     line [64, 65, 65]
 ```
 
-2026-10-18 64 → 2026-10-29 65（+1）
+2026-10-18 64 → 2026-10-30 65（+1）
 
 
 ---

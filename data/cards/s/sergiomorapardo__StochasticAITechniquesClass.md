@@ -1,6 +1,6 @@
 # sergiomorapardo/StochasticAITechniquesClass
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-05-28 · [GitHub](https://github.com/sergiomorapardo/StochasticAITechniquesClass) · [官网](https://sergiomorapardo.github.io/StochasticAITechniquesClass/) · 组织维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sergiomorapardo/StochasticAITechniquesClass) · [官网](https://sergiomorapardo.github.io/StochasticAITechniquesClass/) · 组织维护
 
 **大学课程资料库：AI 统计模型与随机过程教学（西语）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sergiomorapardo/StochasticAITechniquesClass 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

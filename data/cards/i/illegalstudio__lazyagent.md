@@ -45,13 +45,13 @@ Go 编写的编码 agent 监控工具：以终端 UI、macOS/Linux 桌面应用�
 
 ```mermaid
 xychart-beta
-    title "illegalstudio/lazyagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "illegalstudio/lazyagent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 191 --> 194
-    line [192, 193, 192]
+    line [192, 193, 192, 192]
 ```
 
-2026-10-18 192 → 2026-10-29 192（+0）
+2026-10-18 192 → 2026-10-30 192（+0）
 
 
 ---

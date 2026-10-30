@@ -1,6 +1,6 @@
 # WildEyeConservation/TrapTagger
 
-⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/WildEyeConservation/TrapTagger) · 组织维护
+⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/WildEyeConservation/TrapTagger) · 组织维护
 
 **面向生态学家的红外相机图像 AI 标注与管理 Web 应用**
 
@@ -45,12 +45,12 @@ WildEye Conservation 开发的 Web 应用，用 AI 分类配合人工标注处�
 ```mermaid
 xychart-beta
     title "WildEyeConservation/TrapTagger 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

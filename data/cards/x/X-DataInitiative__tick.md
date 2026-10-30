@@ -1,6 +1,6 @@
 # X-DataInitiative/tick
 
-⭐ 604 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/X-DataInitiative/tick) · [官网](https://x-datainitiative.github.io/tick/) · 组织维护
+⭐ 606 · Python · BSD-3-Clause · 推送 2026-06-15 · [GitHub](https://github.com/X-DataInitiative/tick) · [官网](https://x-datainitiative.github.io/tick/) · 组织维护
 
 **面向时序/点过程的 Python 3 统计学习库**
 
@@ -45,13 +45,13 @@ Python 3 机器学习库，聚焦时变系统（如点过程）的统计学习�
 
 ```mermaid
 xychart-beta
-    title "X-DataInitiative/tick 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 554 --> 608
-    line [558, 559, 567, 588, 595, 598, 602, 604]
+    title "X-DataInitiative/tick 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 554 --> 610
+    line [558, 559, 567, 588, 595, 598, 602, 604, 606]
 ```
 
-2026-10-18 558 → 2026-10-29 604（+46）
+2026-10-18 558 → 2026-10-30 606（+48）
 
 
 ---

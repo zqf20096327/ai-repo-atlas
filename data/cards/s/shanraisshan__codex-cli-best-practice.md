@@ -1,6 +1,6 @@
 # shanraisshan/codex-cli-best-practice
 
-⭐ 1,019 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-best-practice) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
+⭐ 1,021 · Python · MIT · 推送 2026-06-04 · [GitHub](https://github.com/shanraisshan/codex-cli-best-practice) · [官网](https://www.linkedin.com/in/shanraisshan/) · 个人维护
 
 **Codex CLI 使用实践与技巧合集：概念、工作流与 50 条提示**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanraisshan/codex-cli-best-practice 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1012 --> 1020
-    line [1013, 1015, 1017, 1018, 1017, 1019]
+    title "shanraisshan/codex-cli-best-practice 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1012 --> 1022
+    line [1013, 1015, 1017, 1018, 1017, 1019, 1021]
 ```
 
-2026-10-18 1,013 → 2026-10-29 1,019（+6）
+2026-10-18 1,013 → 2026-10-30 1,021（+8）
 
 
 ---

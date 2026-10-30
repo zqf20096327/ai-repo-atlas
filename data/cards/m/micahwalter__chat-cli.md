@@ -47,12 +47,12 @@ Go 编写的终端程序，通过 AWS 凭证访问 Amazon Bedrock 上的基础�
 ```mermaid
 xychart-beta
     title "micahwalter/chat-cli 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-28 33 → 2026-10-29 33（+0）
+2026-10-28 33 → 2026-10-30 33（+0）
 
 
 ---

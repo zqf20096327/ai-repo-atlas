@@ -1,6 +1,6 @@
 # zb-ss/servonaut
 
-⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zb-ss/servonaut) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zb-ss/servonaut) · 个人维护
 
 **多云服务器管理 TUI，内置 AI 助手与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zb-ss/servonaut 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 28 --> 32
     line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-29 31（+2）
+2026-10-18 29 → 2026-10-30 31（+2）
 
 
 ---

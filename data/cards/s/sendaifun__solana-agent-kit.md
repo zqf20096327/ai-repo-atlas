@@ -1,6 +1,6 @@
 # sendaifun/solana-agent-kit
 
-⭐ 1,728 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/sendaifun/solana-agent-kit) · [官网](https://kit.sendai.fun) · 组织维护
+⭐ 1,729 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/sendaifun/solana-agent-kit) · [官网](https://kit.sendai.fun) · 组织维护
 
 **将 AI agent 接入 Solana 协议的 TypeScript 工具包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sendaifun/solana-agent-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1720 --> 1729
-    line [1721, 1722, 1724, 1725, 1728]
+    title "sendaifun/solana-agent-kit 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1720 --> 1730
+    line [1721, 1722, 1724, 1725, 1728, 1729]
 ```
 
-2026-10-18 1,721 → 2026-10-29 1,728（+7）
+2026-10-18 1,721 → 2026-10-30 1,729（+8）
 
 
 ---

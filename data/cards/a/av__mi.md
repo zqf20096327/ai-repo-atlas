@@ -1,6 +1,6 @@
 # av/mi
 
-⭐ 102 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/av/mi) · 个人维护
+⭐ 103 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/av/mi) · 个人维护
 
 **约30行代码的沙箱化 agentic 编码 CLI harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "av/mi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-10-18 102 → 2026-10-29 102（+0）
+2026-10-18 102 → 2026-10-30 103（+1）
 
 
 ---

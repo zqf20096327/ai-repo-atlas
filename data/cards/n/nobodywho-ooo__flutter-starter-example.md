@@ -1,6 +1,6 @@
 # nobodywho-ooo/flutter-starter-example
 
-⭐ 18 · Dart · EUPL-1.2 · 推送 2026-10-08 · [GitHub](https://github.com/nobodywho-ooo/flutter-starter-example) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
+⭐ 19 · Dart · EUPL-1.2 · 推送 2026-10-29 · [GitHub](https://github.com/nobodywho-ooo/flutter-starter-example) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
 
 **NobodyWho 本地 LLM 库的 Flutter 示例启动应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nobodywho-ooo/flutter-starter-example 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

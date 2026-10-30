@@ -1,6 +1,6 @@
 # affaan-m/agentshield
 
-⭐ 1,335 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/affaan-m/agentshield) · [官网](https://cerebralvalley.ai/e/claude-code-hackathon) · 个人维护
+⭐ 1,338 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/affaan-m/agentshield) · [官网](https://cerebralvalley.ai/e/claude-code-hackathon) · 个人维护
 
 **AI agent 配置安全扫描器：审计 Claude Code 配置与 MCP 风险**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "affaan-m/agentshield 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1288 --> 1339
-    line [1292, 1302, 1308, 1315, 1319, 1321, 1326, 1329, 1331, 1335]
+    title "affaan-m/agentshield 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1288 --> 1342
+    line [1292, 1302, 1308, 1315, 1319, 1321, 1326, 1329, 1331, 1335, 1338]
 ```
 
-2026-10-18 1,292 → 2026-10-29 1,335（+43）
+2026-10-18 1,292 → 2026-10-30 1,338（+46）
 
 
 ---

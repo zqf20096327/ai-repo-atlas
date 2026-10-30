@@ -1,6 +1,6 @@
 # llm-exe/llm-exe
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 组织维护
+⭐ 136 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 组织维护
 
 **TypeScript/JavaScript 的 LLM 应用构建库**
 
@@ -45,12 +45,12 @@ npm 包形式的 JavaScript/TypeScript 库，提供构建与维护 LLM 应用的
 ```mermaid
 xychart-beta
     title "llm-exe/llm-exe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 135 --> 137
     line [136, 136]
 ```
 
-2026-10-18 136 → 2026-10-29 136（+0）
+2026-10-18 136 → 2026-10-30 136（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
+    title "mozophe/ComfyUI-Qwen-Image-2.1-PromptEnhancer-MTP 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 26 --> 30
-    line [27, 28, 29, 28]
+    line [27, 28, 29, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-29 28（+1）
+2026-10-18 27 → 2026-10-30 28（+1）
 
 
 ---

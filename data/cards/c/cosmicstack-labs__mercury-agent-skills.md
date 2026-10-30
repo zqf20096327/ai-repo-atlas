@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent-skills
 
-⭐ 486 · JavaScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills) · [官网](https://skills.mercuryagent.sh) · 组织维护
+⭐ 487 · JavaScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent-skills) · [官网](https://skills.mercuryagent.sh) · 组织维护
 
 **AI agent 技能清单库：132 个 SKILL.md 供多 agent 安装使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cosmicstack-labs/mercury-agent-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 481 --> 487
-    line [482, 485, 484, 486, 486]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 481 --> 488
+    line [482, 485, 484, 486, 487]
 ```
 
-2026-10-18 482 → 2026-10-29 486（+4）
+2026-10-18 482 → 2026-10-30 487（+5）
 
 
 ---

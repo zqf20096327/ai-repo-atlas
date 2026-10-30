@@ -1,6 +1,6 @@
 # agentic-in/inferoa
 
-⭐ 566 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/agentic-in/inferoa) · [官网](https://inferoa.agentic-in.ai) · 组织维护
+⭐ 567 · TypeScript · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/agentic-in/inferoa) · [官网](https://inferoa.agentic-in.ai) · 组织维护
 
 **面向推理侧优化的 Agent Harness：递归长程循环与 Token 压力控制**
 
@@ -46,12 +46,12 @@ Inferoa 是一个基于 vLLM 生态构建的 Agent Harness 运行时，核心概
 ```mermaid
 xychart-beta
     title "agentic-in/inferoa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 565 --> 567
-    line [566, 566]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 565 --> 568
+    line [566, 567]
 ```
 
-2026-10-18 566 → 2026-10-29 566（+0）
+2026-10-18 566 → 2026-10-30 567（+1）
 
 
 ---

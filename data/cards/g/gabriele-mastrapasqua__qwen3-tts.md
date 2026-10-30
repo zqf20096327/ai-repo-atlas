@@ -1,6 +1,6 @@
 # gabriele-mastrapasqua/qwen3-tts
 
-⭐ 124 · C · MIT · 推送 2026-09-25 · [GitHub](https://github.com/gabriele-mastrapasqua/qwen3-tts) · 个人维护
+⭐ 125 · C · MIT · 推送 2026-09-25 · [GitHub](https://github.com/gabriele-mastrapasqua/qwen3-tts) · 个人维护
 
 **纯 C 实现的 Qwen3-TTS 推理引擎，CPU 上跑文本转语音**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gabriele-mastrapasqua/qwen3-tts 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 117 --> 125
-    line [118, 120, 121, 122, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 117 --> 126
+    line [118, 120, 121, 122, 123, 124, 125]
 ```
 
-2026-10-18 118 → 2026-10-29 124（+6）
+2026-10-18 118 → 2026-10-30 125（+7）
 
 
 ---

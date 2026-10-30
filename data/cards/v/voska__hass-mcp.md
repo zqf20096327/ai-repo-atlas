@@ -1,6 +1,6 @@
 # voska/hass-mcp
 
-⭐ 351 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/voska/hass-mcp) · 个人维护
+⭐ 352 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/voska/hass-mcp) · 个人维护
 
 **让 Claude 等 LLM 控制 Home Assistant 的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "voska/hass-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 346 --> 352
-    line [347, 348, 349, 350, 351]
+    title "voska/hass-mcp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 346 --> 353
+    line [347, 348, 349, 350, 351, 352]
 ```
 
-2026-10-18 347 → 2026-10-29 351（+4）
+2026-10-18 347 → 2026-10-30 352（+5）
 
 
 ---

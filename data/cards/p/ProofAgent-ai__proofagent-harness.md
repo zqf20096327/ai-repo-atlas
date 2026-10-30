@@ -1,6 +1,6 @@
 # ProofAgent-ai/proofagent-harness
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/ProofAgent-ai/proofagent-harness) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/ProofAgent-ai/proofagent-harness) · 组织维护
 
 **AI agent 对抗性评测与治理工具：红队压测、合规映射、发布门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProofAgent-ai/proofagent-harness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 30 --> 36
+    line [31, 35]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 35（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentscope-ai/OpenJudge
 
-⭐ 948 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentscope-ai/OpenJudge) · [官网](https://openjudge.me/) · 组织维护 · 中文 README
+⭐ 984 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/agentscope-ai/OpenJudge) · [官网](https://openjudge.me/) · 组织维护 · 中文 README
 
 **面向 AI 应用与 Agent 的开源评测框架，提供 50+ 评分器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/OpenJudge 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 871 --> 955
-    line [878, 881, 883, 887, 888, 889, 892, 914, 948]
+    title "agentscope-ai/OpenJudge 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 868 --> 994
+    line [878, 881, 883, 887, 888, 889, 892, 914, 948, 984]
 ```
 
-2026-10-18 878 → 2026-10-29 948（+70）
+2026-10-18 878 → 2026-10-30 984（+106）
 
 
 ---

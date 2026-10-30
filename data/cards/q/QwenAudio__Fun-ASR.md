@@ -1,6 +1,6 @@
 # QwenAudio/Fun-ASR
 
-⭐ 1,588 · C · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/QwenAudio/Fun-ASR) · [官网](https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano) · 组织维护 · 中文 README
+⭐ 1,593 · C · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/QwenAudio/Fun-ASR) · [官网](https://huggingface.co/spaces/FunAudioLLM/Fun-ASR-Nano) · 组织维护 · 中文 README
 
 **通义实验室的多语言语音识别模型家族（800M，含中文方言）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenAudio/Fun-ASR 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1575 --> 1589
-    line [1576, 1578, 1583, 1585, 1586, 1588, 1588]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1575 --> 1594
+    line [1576, 1578, 1583, 1585, 1586, 1588, 1593]
 ```
 
-2026-10-18 1,576 → 2026-10-29 1,588（+12）
+2026-10-18 1,576 → 2026-10-30 1,593（+17）
 
 
 ---

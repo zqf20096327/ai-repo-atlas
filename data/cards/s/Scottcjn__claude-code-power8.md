@@ -41,6 +41,18 @@
 > L39: Assumes you have a working `node` and `npm` on PATH. Skip to *Node.js prerequisite* below if you need to build Node
 > L79: |`binaries/ripgrep-ppc64le-linux.tar.gz`|Pre-built ripgrep 15.x for ppc64le (~2 MB). Used by Claude Code's Grep/Glo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/claude-code-power8 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 88 --> 90
+    line [89, 89]
+```
+
+2026-10-29 89 → 2026-10-30 89（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `91320563d37d` · [字段定义](../../DATASET.md)*

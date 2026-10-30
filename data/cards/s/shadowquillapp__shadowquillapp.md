@@ -45,12 +45,12 @@ Electron + Next.js 桌面应用，面向需要编写提示词的用户：将粗�
 ```mermaid
 xychart-beta
     title "shadowquillapp/shadowquillapp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

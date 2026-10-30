@@ -44,13 +44,13 @@ ACL 2026 论文 AMA 的官方代码库：通过 Constructor/Retriever/Judge/Refr
 
 ```mermaid
 xychart-beta
-    title "Sherlockwz/AMA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "Sherlockwz/AMA 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 112 --> 116
-    line [114, 113, 115]
+    line [114, 113, 115, 115]
 ```
 
-2026-10-18 114 → 2026-10-29 115（+1）
+2026-10-18 114 → 2026-10-30 115（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # wan-huiyan/agent-review-panel
 
-⭐ 37 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/wan-huiyan/agent-review-panel) · 个人维护
+⭐ 36 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/wan-huiyan/agent-review-panel) · 个人维护
 
 **Claude Code 插件：4–6 个 AI 评审员对抗式审查代码与方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wan-huiyan/agent-review-panel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 36（-1）
 
 
 ---

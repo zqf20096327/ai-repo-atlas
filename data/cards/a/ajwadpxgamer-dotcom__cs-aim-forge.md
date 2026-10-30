@@ -1,6 +1,6 @@
 # ajwadpxgamer-dotcom/cs-aim-forge
 
-⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/ajwadpxgamer-dotcom/cs-aim-forge) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/ajwadpxgamer-dotcom/cs-aim-forge) · 个人维护
 
 **浏览器端瞄准与反应训练套件，面向 FPS 玩家与研究者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ajwadpxgamer-dotcom/cs-aim-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-29 56（+0）
+2026-10-18 56 → 2026-10-30 56（+0）
 
 
 ---

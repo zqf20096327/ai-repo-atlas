@@ -1,6 +1,6 @@
 # garethbeaumo/originlab-mcp
 
-⭐ 88 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/garethbeaumo/originlab-mcp) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/garethbeaumo/originlab-mcp) · 个人维护 · 中文 README
 
 **通过 MCP 让 AI 客户端用自然语言操控 OriginLab 的桥接服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "garethbeaumo/originlab-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 84 --> 89
-    line [85, 86, 87, 88, 88]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 84 --> 90
+    line [85, 86, 87, 88, 89]
 ```
 
-2026-10-18 85 → 2026-10-29 88（+3）
+2026-10-18 85 → 2026-10-30 89（+4）
 
 
 ---

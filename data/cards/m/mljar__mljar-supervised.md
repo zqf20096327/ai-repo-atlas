@@ -1,6 +1,6 @@
 # mljar/mljar-supervised
 
-⭐ 3,306 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mljar/mljar-supervised) · [官网](https://mljar.com) · 组织维护
+⭐ 3,307 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mljar/mljar-supervised) · [官网](https://mljar.com) · 组织维护
 
 **面向表格数据的 Python AutoML 库：自动建模调参与报告**
 
@@ -46,13 +46,13 @@ mljar-supervised 是处理表格数据的 AutoML Python 包，面向数据科学
 
 ```mermaid
 xychart-beta
-    title "mljar/mljar-supervised 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3300 --> 3307
-    line [3301, 3302, 3303, 3304, 3305, 3306]
+    title "mljar/mljar-supervised 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3300 --> 3308
+    line [3301, 3302, 3303, 3304, 3305, 3306, 3307]
 ```
 
-2026-10-18 3,301 → 2026-10-29 3,306（+5）
+2026-10-18 3,301 → 2026-10-30 3,307（+6）
 
 
 ---

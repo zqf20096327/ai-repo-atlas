@@ -1,6 +1,6 @@
 # google-deepmind/science-skills
 
-⭐ 3,353 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/science-skills) · [官网](https://antigravity.google/use-cases/science) · 组织维护
+⭐ 3,357 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/google-deepmind/science-skills) · [官网](https://antigravity.google/use-cases/science) · 组织维护
 
 **科研任务的 AI agent 技能集合，覆盖基因组学与结构生物学等**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/science-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3271 --> 3360
-    line [3278, 3293, 3304, 3315, 3322, 3327, 3331, 3338, 3345, 3353]
+    title "google-deepmind/science-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3271 --> 3364
+    line [3278, 3293, 3304, 3315, 3322, 3327, 3331, 3338, 3345, 3353, 3357]
 ```
 
-2026-10-18 3,278 → 2026-10-29 3,353（+75）
+2026-10-18 3,278 → 2026-10-30 3,357（+79）
 
 
 ---

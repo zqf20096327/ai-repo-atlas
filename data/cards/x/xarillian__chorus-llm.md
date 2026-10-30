@@ -1,6 +1,6 @@
 # xarillian/chorus-llm
 
-⭐ 20 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xarillian/chorus-llm) · 个人维护
+⭐ 22 · C++ · MIT · 推送 2026-10-23 · [GitHub](https://github.com/xarillian/chorus-llm) · 个人维护
 
 **面向多 agent 应用与游戏的可嵌入本地 LLM 运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xarillian/chorus-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 23
+    line [20, 22]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 22（+2）
 
 
 ---

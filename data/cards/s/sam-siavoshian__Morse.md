@@ -41,6 +41,18 @@
 > L18: Morse has no server and no account. It uses the AI you already have: Claude Code, Codex, or an API key.
 > L52: The Morse app opens your app with one extra setting, so it can connect. When you ask for a change, Morse sends your
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sam-siavoshian/Morse 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-10-29 29 → 2026-10-30 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `1643c52a2149` · [字段定义](../../DATASET.md)*

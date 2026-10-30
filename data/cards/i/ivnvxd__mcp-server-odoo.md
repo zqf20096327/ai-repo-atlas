@@ -1,6 +1,6 @@
 # ivnvxd/mcp-server-odoo
 
-⭐ 407 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ivnvxd/mcp-server-odoo) · 个人维护
+⭐ 409 · Python · MPL-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/ivnvxd/mcp-server-odoo) · 个人维护
 
 **让 AI 助手通过 MCP 安全读写 Odoo ERP 数据的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ivnvxd/mcp-server-odoo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 404 --> 408
-    line [406, 405, 406, 407, 407]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 404 --> 410
+    line [406, 405, 406, 407, 409]
 ```
 
-2026-10-18 406 → 2026-10-29 407（+1）
+2026-10-18 406 → 2026-10-30 409（+3）
 
 
 ---

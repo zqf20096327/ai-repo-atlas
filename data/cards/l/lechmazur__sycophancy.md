@@ -1,6 +1,6 @@
 # lechmazur/sycophancy
 
-⭐ 70 · 推送 2026-08-06 · [GitHub](https://github.com/lechmazur/sycophancy) · 个人维护
+⭐ 71 · 推送 2026-08-06 · [GitHub](https://github.com/lechmazur/sycophancy) · 个人维护
 
 **测量 LLM 迎合倾向的基准与排行榜：同案反视角矛盾检测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lechmazur/sycophancy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 65 --> 71
-    line [66, 68, 70]
+    title "lechmazur/sycophancy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 65 --> 72
+    line [66, 68, 70, 71]
 ```
 
-2026-10-18 66 → 2026-10-29 70（+4）
+2026-10-18 66 → 2026-10-30 71（+5）
 
 
 ---

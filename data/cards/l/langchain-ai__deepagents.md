@@ -1,6 +1,6 @@
 # langchain-ai/deepagents
 
-⭐ 30,685 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
+⭐ 30,755 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
 
 **给开发者的开箱即用 agent harness，构建长程多步 agent**
 
@@ -52,13 +52,13 @@ LangChain 团队开源的 agent harness，基于 LangGraph 构建，提供子代
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/deepagents 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 30333 --> 30717
-    line [30365, 30420, 30476, 30513, 30533, 30551, 30575, 30614, 30652, 30685]
+    title "langchain-ai/deepagents 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 30326 --> 30794
+    line [30365, 30420, 30476, 30513, 30533, 30551, 30575, 30614, 30652, 30685, 30755]
 ```
 
-2026-10-18 30,365 → 2026-10-29 30,685（+320）
+2026-10-18 30,365 → 2026-10-30 30,755（+390）
 
 
 ---

@@ -1,6 +1,6 @@
 # grregis/MuckScraper
 
-⭐ 159 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/grregis/MuckScraper) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/grregis/MuckScraper) · 个人维护
 
 **自托管新闻聚合器：多源归并成故事并用本地 LLM 做摘要与偏向评分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "grregis/MuckScraper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 147 --> 160
-    line [148, 155, 158, 159]
+    title "grregis/MuckScraper 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 147 --> 161
+    line [148, 155, 158, 159, 160]
 ```
 
-2026-10-18 148 → 2026-10-29 159（+11）
+2026-10-18 148 → 2026-10-30 160（+12）
 
 
 ---

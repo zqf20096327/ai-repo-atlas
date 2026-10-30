@@ -1,6 +1,6 @@
 # ndif-team/nnsight
 
-⭐ 1,134 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ndif-team/nnsight) · [官网](https://nnsight.net/) · 组织维护
+⭐ 1,134 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ndif-team/nnsight) · [官网](https://nnsight.net/) · 组织维护
 
 **给科研者：追踪并干预 PyTorch 模型内部机制的库**
 
@@ -45,13 +45,13 @@ nnsight 是一个 Python 库，让研究者在模型前向传播中读写任意�
 
 ```mermaid
 xychart-beta
-    title "ndif-team/nnsight 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "ndif-team/nnsight 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1123 --> 1135
-    line [1124, 1125, 1126, 1129, 1133, 1134]
+    line [1124, 1125, 1126, 1129, 1133, 1134, 1134]
 ```
 
-2026-10-18 1,124 → 2026-10-29 1,134（+10）
+2026-10-18 1,124 → 2026-10-30 1,134（+10）
 
 
 ---

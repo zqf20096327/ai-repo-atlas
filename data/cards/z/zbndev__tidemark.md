@@ -1,6 +1,6 @@
 # zbndev/tidemark
 
-⭐ 63 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zbndev/tidemark) · [官网](https://tidemark.zbndev.com) · 组织维护
+⭐ 63 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zbndev/tidemark) · [官网](https://tidemark.zbndev.com) · 组织维护
 
 **追踪 AI 订阅与 API key 配额余量的桌面应用**
 
@@ -45,12 +45,12 @@ Linux/Windows 桌面应用，用 Rust + Slint 编写，读取用户添加的 AI 
 ```mermaid
 xychart-beta
     title "zbndev/tidemark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-18 62 → 2026-10-29 63（+1）
+2026-10-18 62 → 2026-10-30 63（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbrahamPaulJ/nightmare-mobile
 
-⭐ 140 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/AbrahamPaulJ/nightmare-mobile) · 个人维护
+⭐ 145 · Kotlin · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/AbrahamPaulJ/nightmare-mobile) · 个人维护
 
 **安卓手机上跑图像/视频扩散模型的节点图应用（NPU）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AbrahamPaulJ/nightmare-mobile 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 73 --> 146
-    line [79, 87, 95, 102, 112, 115, 119, 126, 134, 140]
+    title "AbrahamPaulJ/nightmare-mobile 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 73 --> 151
+    line [79, 87, 95, 102, 112, 115, 119, 126, 134, 140, 145]
 ```
 
-2026-10-18 79 → 2026-10-29 140（+61）
+2026-10-18 79 → 2026-10-30 145（+66）
 
 
 ---

@@ -1,6 +1,6 @@
 # geekjourneyx/md2wechat-skill
 
-⭐ 3,769 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [官网](https://md2wechat.cn) · 个人维护 · 中文 README
+⭐ 3,774 · Go · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/geekjourneyx/md2wechat-skill) · [官网](https://md2wechat.cn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的微信公众号排版与发布 CLI**
 
@@ -45,13 +45,13 @@ Go 编写、npm 分发的命令行工具，供 Claude Code、Codex、Kimi Work �
 
 ```mermaid
 xychart-beta
-    title "geekjourneyx/md2wechat-skill 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3703 --> 3775
-    line [3709, 3713, 3717, 3746, 3754, 3757, 3760, 3764, 3765, 3769]
+    title "geekjourneyx/md2wechat-skill 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3703 --> 3780
+    line [3709, 3713, 3717, 3746, 3754, 3757, 3760, 3764, 3765, 3769, 3774]
 ```
 
-2026-10-18 3,709 → 2026-10-29 3,769（+60）
+2026-10-18 3,709 → 2026-10-30 3,774（+65）
 
 
 ---

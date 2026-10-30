@@ -1,6 +1,6 @@
 # narumiruna/mlconfig
 
-⭐ 27 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/narumiruna/mlconfig) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/narumiruna/mlconfig) · 个人维护
 
 **基于 OmegaConf 的 YAML 配置加载与对象实例化 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "narumiruna/mlconfig 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

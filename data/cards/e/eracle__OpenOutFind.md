@@ -1,6 +1,6 @@
 # eracle/OpenOutFind
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/eracle/OpenOutFind) · [官网](https://openoutreach.app) · 个人维护
+⭐ 27 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/eracle/OpenOutFind) · [官网](https://openoutreach.app) · 个人维护
 
 **自托管 CLI：用 LLM 从持牌数据源筛选 B2B 潜客并输出理由**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eracle/OpenOutFind 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 18 --> 28
     line [19, 20, 23, 24, 25, 26, 27, 27]
 ```
 
-2026-10-18 19 → 2026-10-29 27（+8）
+2026-10-18 19 → 2026-10-30 27（+8）
 
 
 ---

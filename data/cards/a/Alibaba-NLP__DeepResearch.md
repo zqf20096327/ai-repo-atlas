@@ -1,6 +1,6 @@
 # Alibaba-NLP/DeepResearch
 
-⭐ 20,090 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
+⭐ 20,091 · Python · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Alibaba-NLP/DeepResearch) · [官网](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) · 组织维护 · 中文 README
 
 **面向长程深度信息检索任务的 30B 级开源 agent 模型**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alibaba-NLP/DeepResearch 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 20045 --> 20094
-    line [20049, 20061, 20066, 20073, 20076, 20079, 20081, 20088, 20090]
+    title "Alibaba-NLP/DeepResearch 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 20045 --> 20095
+    line [20049, 20061, 20066, 20073, 20076, 20079, 20081, 20088, 20090, 20091]
 ```
 
-2026-10-18 20,049 → 2026-10-29 20,090（+41）
+2026-10-18 20,049 → 2026-10-30 20,091（+42）
 
 
 ---

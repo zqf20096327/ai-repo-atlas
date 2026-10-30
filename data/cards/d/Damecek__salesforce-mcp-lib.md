@@ -1,6 +1,6 @@
 # Damecek/salesforce-mcp-lib
 
-⭐ 19 · TypeScript · MIT · 推送 2026-04-14 · [GitHub](https://github.com/Damecek/salesforce-mcp-lib) · [官网](https://context7.com/damecek/salesforce-mcp-lib) · 个人维护
+⭐ 19 · Apex · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Damecek/salesforce-mcp-lib) · [官网](https://context7.com/damecek/salesforce-mcp-lib) · 个人维护
 
 **连接 AI agent 与 Salesforce 的 MCP 桥接与 Apex 框架库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Damecek/salesforce-mcp-lib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

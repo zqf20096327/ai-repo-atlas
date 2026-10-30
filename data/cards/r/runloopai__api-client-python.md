@@ -46,12 +46,12 @@ Runloop 官方 Python SDK，用于创建和管理 Devbox——供 AI 代理和 A
 ```mermaid
 xychart-beta
     title "runloopai/api-client-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-29 28（+0）
+2026-10-18 28 → 2026-10-30 28（+0）
 
 
 ---

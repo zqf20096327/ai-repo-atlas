@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inulute/simplexity-ai-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "inulute/simplexity-ai-app 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 632 --> 635
-    line [633, 634]
+    line [633, 634, 634]
 ```
 
-2026-10-18 633 → 2026-10-29 634（+1）
+2026-10-18 633 → 2026-10-30 634（+1）
 
 
 ---

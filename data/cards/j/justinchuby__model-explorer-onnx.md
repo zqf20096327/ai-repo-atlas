@@ -1,6 +1,6 @@
 # justinchuby/model-explorer-onnx
 
-⭐ 73 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/justinchuby/model-explorer-onnx) · [官网](http://onnxvis.justinchuby.com/) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/justinchuby/model-explorer-onnx) · [官网](http://onnxvis.justinchuby.com/) · 个人维护
 
 **为 Model Explorer 提供 ONNX 模型可视化的适配器**
 
@@ -45,12 +45,12 @@ google-ai-edge/model-explorer 的 ONNX 适配器，以 Python 包发布到 PyPI�
 ```mermaid
 xychart-beta
     title "justinchuby/model-explorer-onnx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-29 73（+0）
+2026-10-18 73 → 2026-10-30 73（+0）
 
 
 ---

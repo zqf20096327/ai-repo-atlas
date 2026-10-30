@@ -1,6 +1,6 @@
 # valentinfrlch/ha-llmvision
 
-⭐ 1,516 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/valentinfrlch/ha-llmvision) · [官网](https://llmvision.org) · 个人维护
+⭐ 1,518 · Python · Apache-2.0 · 推送 2026-09-17 · [GitHub](https://github.com/valentinfrlch/ha-llmvision) · [官网](https://llmvision.org) · 个人维护
 
 **Home Assistant 集成：用多模态大模型分析家庭摄像头画面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "valentinfrlch/ha-llmvision 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1502 --> 1517
-    line [1503, 1506, 1508, 1510, 1512, 1513, 1516]
+    title "valentinfrlch/ha-llmvision 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1502 --> 1519
+    line [1503, 1506, 1508, 1510, 1512, 1513, 1516, 1518]
 ```
 
-2026-10-18 1,503 → 2026-10-29 1,516（+13）
+2026-10-18 1,503 → 2026-10-30 1,518（+15）
 
 
 ---

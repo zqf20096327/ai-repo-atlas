@@ -1,6 +1,6 @@
 # iusztinpaul/designing-real-world-ai-agents-workshop
 
-⭐ 517 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_workshop&utm_id=researchwriter) · 个人维护
+⭐ 518 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/iusztinpaul/designing-real-world-ai-agents-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_workshop&utm_id=researchwriter) · 个人维护
 
 **动手工坊：从零构建深度研究+技术写作多智能体系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iusztinpaul/designing-real-world-ai-agents-workshop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 514 --> 518
-    line [515, 516, 517, 517]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 514 --> 519
+    line [515, 516, 517, 518]
 ```
 
-2026-10-18 515 → 2026-10-29 517（+2）
+2026-10-18 515 → 2026-10-30 518（+3）
 
 
 ---

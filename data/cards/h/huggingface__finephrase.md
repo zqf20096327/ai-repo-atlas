@@ -45,13 +45,13 @@ Hugging Face 维护的合成预训练数据项目：通过对网页语料（Fine
 
 ```mermaid
 xychart-beta
-    title "huggingface/finephrase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "huggingface/finephrase 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-29 44（+1）
+2026-10-18 43 → 2026-10-30 44（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # topoteretes/awesome-ai-memory
 
-⭐ 889 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/topoteretes/awesome-ai-memory) · [官网](https://github.com/topoteretes/cognee) · 组织维护
+⭐ 890 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/topoteretes/awesome-ai-memory) · [官网](https://github.com/topoteretes/cognee) · 组织维护
 
 **为 AI 应用与 agent 提供记忆能力的工具/框架/存储策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "topoteretes/awesome-ai-memory 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 887 --> 892
-    line [890, 891, 890, 889, 888, 889, 889]
+    line [890, 891, 890, 889, 888, 889, 890]
 ```
 
-2026-10-18 890 → 2026-10-29 889（-1）
+2026-10-18 890 → 2026-10-30 890（+0）
 
 
 ---

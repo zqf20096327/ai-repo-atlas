@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT
 
-⭐ 13,420 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
+⭐ 13,422 · C++ · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
 
 **面向开发者的 NVIDIA GPU 深度学习推理 SDK 开源组件仓库**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 13409 --> 13422
-    line [13410, 13411, 13413, 13416, 13420, 13421, 13420]
+    title "NVIDIA/TensorRT 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 13409 --> 13423
+    line [13410, 13411, 13413, 13416, 13420, 13421, 13420, 13422]
 ```
 
-2026-10-18 13,410 → 2026-10-29 13,420（+10）
+2026-10-18 13,410 → 2026-10-30 13,422（+12）
 
 
 ---

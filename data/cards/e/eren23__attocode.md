@@ -1,6 +1,6 @@
 # eren23/attocode
 
-⭐ 17 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eren23/attocode) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/eren23/attocode) · 个人维护
 
 **面向 MCP 编码客户端的代码库理解引擎**
 
@@ -45,12 +45,12 @@ attocode-code-intel 是为 Codex、Claude Code、Cursor 等 MCP 客户端提供�
 ```mermaid
 xychart-beta
     title "eren23/attocode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

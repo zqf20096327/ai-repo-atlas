@@ -1,6 +1,6 @@
 # dustalov/evalica
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dustalov/evalica) · [官网](https://evalica.readthedocs.io/latest/) · 个人维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dustalov/evalica) · [官网](https://evalica.readthedocs.io/latest/) · 个人维护
 
 **成对比较评测工具包：Elo/Bradley-Terry 排名与可靠性计算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dustalov/evalica 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 68（+0）
 
 
 ---

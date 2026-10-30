@@ -1,6 +1,6 @@
 # AI4Science-WestlakeU/RealPDEBench
 
-⭐ 135 · Python · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/AI4Science-WestlakeU/RealPDEBench) · [官网](https://realpdebench.github.io/) · 组织维护 · 中文 README
+⭐ 136 · Python · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/AI4Science-WestlakeU/RealPDEBench) · [官网](https://realpdebench.github.io/) · 组织维护 · 中文 README
 
 **配对真实/仿真数据的复杂物理系统科学 ML 基准（5 场景，700+ 轨迹）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AI4Science-WestlakeU/RealPDEBench 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 129 --> 136
-    line [130, 131, 133, 134, 135, 135]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 129 --> 137
+    line [130, 131, 133, 134, 135, 136]
 ```
 
-2026-10-18 130 → 2026-10-29 135（+5）
+2026-10-18 130 → 2026-10-30 136（+6）
 
 
 ---

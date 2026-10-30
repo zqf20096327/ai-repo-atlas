@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "christiangrey922/multi-agent-workflow-lab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
+    title "christiangrey922/multi-agent-workflow-lab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 84 --> 87
-    line [86, 85, 86, 85]
+    line [86, 85, 86, 85, 85]
 ```
 
-2026-10-18 86 → 2026-10-29 85（-1）
+2026-10-18 86 → 2026-10-30 85（-1）
 
 
 ---

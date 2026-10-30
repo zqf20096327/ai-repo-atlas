@@ -1,6 +1,6 @@
 # parthmax2/ghostrun
 
-⭐ 28 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/parthmax2/ghostrun) · [官网](https://ghostrun.parthmax.tech) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/parthmax2/ghostrun) · [官网](https://ghostrun.parthmax.tech) · 个人维护
 
 **面向 AI 应用的 pytest 测试与提示优化工具，离线免费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "parthmax2/ghostrun 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    line [27, 28, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 28（+1）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

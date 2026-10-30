@@ -1,6 +1,6 @@
 # sichang-ai/awesome-uncensored-ai
 
-⭐ 36 · CC-BY-SA-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/sichang-ai/awesome-uncensored-ai) · [官网](https://sichang.xyz) · 组织维护 · 中文 README
+⭐ 39 · CC-BY-SA-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/sichang-ai/awesome-uncensored-ai) · [官网](https://sichang.xyz) · 组织维护 · 中文 README
 
 **中文视角的无审查 AI 平台横评与本地部署指南清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sichang-ai/awesome-uncensored-ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 29 --> 37
-    line [30, 34, 35, 36, 36]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 29 --> 40
+    line [30, 34, 35, 36, 39]
 ```
 
-2026-10-18 30 → 2026-10-29 36（+6）
+2026-10-18 30 → 2026-10-30 39（+9）
 
 
 ---

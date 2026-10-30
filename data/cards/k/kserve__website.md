@@ -1,6 +1,6 @@
 # kserve/website
 
-⭐ 113 · MDX · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/kserve/website) · [官网](https://kserve.github.io/website/) · 组织维护
+⭐ 113 · MDX · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kserve/website) · [官网](https://kserve.github.io/website/) · 组织维护
 
 **KServe 官方文档网站源码仓库（Docusaurus 构建）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kserve/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-18 113 → 2026-10-29 113（+0）
+2026-10-18 113 → 2026-10-30 113（+0）
 
 
 ---

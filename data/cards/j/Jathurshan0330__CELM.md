@@ -44,13 +44,13 @@ Clinical EEG Language Model（CELM）的官方代码库：将预训练 EEG 基�
 
 ```mermaid
 xychart-beta
-    title "Jathurshan0330/CELM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "Jathurshan0330/CELM 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 17 --> 20
-    line [18, 19]
+    line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 19（+1）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

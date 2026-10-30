@@ -1,6 +1,6 @@
 # nashtech-garage/ntg-agent
 
-⭐ 98 · C# · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nashtech-garage/ntg-agent) · 组织维护
+⭐ 98 · C# · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nashtech-garage/ntg-agent) · 组织维护
 
 **C# 多代理 RAG 聊天机器人示例工程（NashTech 出品）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nashtech-garage/ntg-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-29 98（+0）
+2026-10-18 98 → 2026-10-30 98（+0）
 
 
 ---

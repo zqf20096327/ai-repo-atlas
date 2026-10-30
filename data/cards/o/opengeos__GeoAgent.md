@@ -1,6 +1,6 @@
 # opengeos/GeoAgent
 
-⭐ 518 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 个人维护
+⭐ 522 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 个人维护
 
 **给地理空间库与 QGIS 提供共享 AI agent 层，统一接入 LLM**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "opengeos/GeoAgent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 511 --> 519
-    line [512, 514, 515, 516, 518, 518]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 511 --> 523
+    line [512, 514, 515, 516, 518, 522]
 ```
 
-2026-10-18 512 → 2026-10-29 518（+6）
+2026-10-18 512 → 2026-10-30 522（+10）
 
 
 ---

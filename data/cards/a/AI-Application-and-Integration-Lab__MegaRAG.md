@@ -45,12 +45,12 @@ ACL 2026 论文的配套实现：将 PDF 文档解析后构建多模态知识图
 ```mermaid
 xychart-beta
     title "AI-Application-and-Integration-Lab/MegaRAG 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-25", "2026-10-30"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-25 74 → 2026-10-29 74（+0）
+2026-10-25 74 → 2026-10-30 74（+0）
 
 
 ---

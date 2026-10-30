@@ -1,6 +1,6 @@
 # JeffFessler/book-la-demo
 
-⭐ 84 · HTML · NOASSERTION · 推送 2026-07-05 · [GitHub](https://github.com/JeffFessler/book-la-demo) · [官网](https://jefffessler.github.io/book-la-demo/) · 组织维护
+⭐ 84 · HTML · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/JeffFessler/book-la-demo) · [官网](https://jefffessler.github.io/book-la-demo/) · 组织维护
 
 **《线性代数》教材配套 Julia 演示代码库**
 
@@ -46,12 +46,12 @@ Jeff Fessler 与 Raj Nadakuditi（密歇根大学）所著《Linear Algebra for 
 ```mermaid
 xychart-beta
     title "JeffFessler/book-la-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-18 84 → 2026-10-29 84（+0）
+2026-10-18 84 → 2026-10-30 84（+0）
 
 
 ---

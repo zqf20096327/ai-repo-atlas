@@ -1,6 +1,6 @@
 # uoftcprg/pokerkit
 
-⭐ 515 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/uoftcprg/pokerkit) · [官网](https://pokerkit.readthedocs.io/) · 组织维护
+⭐ 516 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/uoftcprg/pokerkit) · [官网](https://pokerkit.readthedocs.io/) · 组织维护
 
 **纯 Python 扑克游戏模拟与牌力评估库，供扑克 AI 开发使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uoftcprg/pokerkit 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 505 --> 516
-    line [506, 507, 509, 510, 511, 512, 515]
+    title "uoftcprg/pokerkit 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 505 --> 517
+    line [506, 507, 509, 510, 511, 512, 515, 516]
 ```
 
-2026-10-18 506 → 2026-10-29 515（+9）
+2026-10-18 506 → 2026-10-30 516（+10）
 
 
 ---

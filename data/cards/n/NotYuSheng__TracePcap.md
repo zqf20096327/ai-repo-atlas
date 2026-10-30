@@ -1,6 +1,6 @@
 # NotYuSheng/TracePcap
 
-⭐ 54 · Java · MIT · 推送 2026-10-24 · [GitHub](https://github.com/NotYuSheng/TracePcap) · [官网](https://notyusheng.github.io/TracePcap/) · 个人维护
+⭐ 55 · Java · MIT · 推送 2026-10-24 · [GitHub](https://github.com/NotYuSheng/TracePcap) · [官网](https://notyusheng.github.io/TracePcap/) · 个人维护
 
 **自托管黑盒网络流量取证平台：从 PCAP 重建网络与威胁全貌**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NotYuSheng/TracePcap 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 50 --> 55
-    line [51, 52, 53, 54, 54]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 50 --> 56
+    line [51, 52, 53, 54, 55]
 ```
 
-2026-10-18 51 → 2026-10-29 54（+3）
+2026-10-18 51 → 2026-10-30 55（+4）
 
 
 ---

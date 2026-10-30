@@ -44,13 +44,13 @@ Denis Rothman 所著《Context Engineering for Multi-Agent Systems》配套代�
 
 ```mermaid
 xychart-beta
-    title "Denis2054/Context-Engineering-for-Multi-Agent-Systems 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    title "Denis2054/Context-Engineering-for-Multi-Agent-Systems 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 289 --> 293
-    line [290, 291, 292]
+    line [290, 291, 292, 292]
 ```
 
-2026-10-18 290 → 2026-10-29 292（+2）
+2026-10-18 290 → 2026-10-30 292（+2）
 
 
 ---

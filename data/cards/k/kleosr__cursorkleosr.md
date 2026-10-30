@@ -1,6 +1,6 @@
 # kleosr/cursorkleosr
 
-⭐ 325 · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/kleosr/cursorkleosr) · [官网](https://forum.cursor.com/t/guide-a-simpler-more-autonomous-ai-workflow-for-cursor/70688) · 个人维护
+⭐ 324 · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/kleosr/cursorkleosr) · [官网](https://forum.cursor.com/t/guide-a-simpler-more-autonomous-ai-workflow-for-cursor/70688) · 个人维护
 
 **Cursor 常驻规则+Markdown 状态文件实现的 agent 记忆方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kleosr/cursorkleosr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 324 --> 326
-    line [325, 325]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 323 --> 326
+    line [325, 324]
 ```
 
-2026-10-18 325 → 2026-10-29 325（+0）
+2026-10-18 325 → 2026-10-30 324（-1）
 
 
 ---

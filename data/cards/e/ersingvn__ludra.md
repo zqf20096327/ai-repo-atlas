@@ -1,6 +1,6 @@
 # ersingvn/ludra
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ersingvn/ludra) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ersingvn/ludra) · 个人维护
 
 **面向 AI agent 的 2D/3D 游戏引擎：JSON 场景+无头试玩与测试**
 
@@ -46,12 +46,12 @@ TypeScript 游戏引擎，设计目标是被 AI agent（如 Claude Code 插件�
 ```mermaid
 xychart-beta
     title "ersingvn/ludra 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 8 --> 21
     line [9, 20, 20]
 ```
 
-2026-10-26 9 → 2026-10-29 20（+11）
+2026-10-26 9 → 2026-10-30 20（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # SouravBeraAkaSpeed/xiryn
 
-⭐ 375 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SouravBeraAkaSpeed/xiryn) · [官网](https://xiryn.com) · 个人维护
+⭐ 380 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SouravBeraAkaSpeed/xiryn) · [官网](https://xiryn.com) · 个人维护
 
 **本地运行的开源个人 agent：每个 agent 有独立 Docker Linux 桌面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SouravBeraAkaSpeed/xiryn 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 166 --> 394
-    line [185, 191, 199, 287, 305, 309, 339, 361, 373, 375]
+    title "SouravBeraAkaSpeed/xiryn 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 166 --> 399
+    line [185, 191, 199, 287, 305, 309, 339, 361, 373, 375, 380]
 ```
 
-2026-10-18 185 → 2026-10-29 375（+190）
+2026-10-18 185 → 2026-10-30 380（+195）
 
 
 ---

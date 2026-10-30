@@ -1,6 +1,6 @@
 # awesome-deepseekharness/awesome-deepseek-harness
 
-⭐ 29 · JavaScript · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) · [官网](https://awesome-deepseekharness.github.io/awesome-deepseek-harness/) · 组织维护 · 中文 README
+⭐ 31 · JavaScript · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) · [官网](https://awesome-deepseekharness.github.io/awesome-deepseek-harness/) · 组织维护 · 中文 README
 
 **DeepSeek Harness (dsh) 插件与工具的社区精选清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "awesome-deepseekharness/awesome-deepseek-harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 20 --> 30
-    line [22, 21, 23, 25, 27, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 20 --> 32
+    line [22, 21, 23, 25, 27, 29, 31]
 ```
 
-2026-10-18 22 → 2026-10-29 29（+7）
+2026-10-18 22 → 2026-10-30 31（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # apconw/Aix-DB
 
-⭐ 2,256 · JavaScript · 推送 2026-10-10 · [GitHub](https://github.com/apconw/Aix-DB) · [官网](https://db.aixhub.top/) · 个人维护 · 中文 README
+⭐ 2,257 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/apconw/Aix-DB) · [官网](https://db.aixhub.top/) · 个人维护 · 中文 README
 
 **基于 LLM/RAG 的对话式数据分析系统（ChatBI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apconw/Aix-DB 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2252 --> 2257
-    line [2253, 2255, 2254, 2256]
+    title "apconw/Aix-DB 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2252 --> 2258
+    line [2253, 2255, 2254, 2256, 2257]
 ```
 
-2026-10-18 2,253 → 2026-10-29 2,256（+3）
+2026-10-18 2,253 → 2026-10-30 2,257（+4）
 
 
 ---

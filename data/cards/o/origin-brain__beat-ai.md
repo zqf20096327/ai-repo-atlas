@@ -1,6 +1,6 @@
 # origin-brain/beat-ai
 
-⭐ 4,735 · JavaScript · 推送 2026-08-20 · [GitHub](https://github.com/origin-brain/beat-ai) · [官网](https://beatai.org) · 个人维护 · 中文 README
+⭐ 4,736 · JavaScript · 推送 2026-08-20 · [GitHub](https://github.com/origin-brain/beat-ai) · [官网](https://beatai.org) · 个人维护 · 中文 README
 
 **面向学生到工程师的 AI 入门教学内容站（beatai.org）**
 
@@ -44,12 +44,12 @@ BeatAI 是一个发布 AI 学习与工程文章的内容站点，README 以时�
 ```mermaid
 xychart-beta
     title "origin-brain/beat-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4732 --> 4736
-    line [4733, 4734, 4735, 4735]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 4732 --> 4737
+    line [4733, 4734, 4735, 4736]
 ```
 
-2026-10-18 4,733 → 2026-10-29 4,735（+2）
+2026-10-18 4,733 → 2026-10-30 4,736（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # wangxin6x/AutoVideo-Agent
 
-⭐ 90 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/wangxin6x/AutoVideo-Agent) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/wangxin6x/AutoVideo-Agent) · 个人维护 · 中文 README
 
 **给编码 Agent 用的 Markdown 转视频流水线工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wangxin6x/AutoVideo-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 89 --> 92
-    line [91, 90, 90]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 88 --> 92
+    line [91, 90, 89]
 ```
 
-2026-10-18 91 → 2026-10-29 90（-1）
+2026-10-18 91 → 2026-10-30 89（-2）
 
 
 ---

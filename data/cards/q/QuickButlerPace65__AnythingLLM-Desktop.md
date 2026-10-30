@@ -46,12 +46,12 @@ AnythingLLM Desktop 的便携 Windows 分支：打包为免安装的绿色版应
 ```mermaid
 xychart-beta
     title "QuickButlerPace65/AnythingLLM-Desktop 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 35 --> 38
     line [37, 36, 36]
 ```
 
-2026-10-25 37 → 2026-10-29 36（-1）
+2026-10-25 37 → 2026-10-30 36（-1）
 
 
 ---

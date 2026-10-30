@@ -1,6 +1,6 @@
 # 0xethanq/astra-quant-agent
 
-⭐ 403 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/0xethanq/astra-quant-agent) · [官网](https://www.astraquant.tech) · 个人维护 · 中文 README
+⭐ 404 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/0xethanq/astra-quant-agent) · [官网](https://www.astraquant.tech) · 个人维护 · 中文 README
 
 **多 LLM 委员会决策 + Python 风控的自主加密交易系统**
 
@@ -45,13 +45,13 @@ AstraQuant 是运行 15 分钟交易周期的自主加密交易系统：宏观�
 
 ```mermaid
 xychart-beta
-    title "0xethanq/astra-quant-agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 379 --> 405
-    line [381, 388, 390, 393, 396, 399, 401, 402, 403]
+    title "0xethanq/astra-quant-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 379 --> 406
+    line [381, 388, 390, 393, 396, 399, 401, 402, 403, 404]
 ```
 
-2026-10-18 381 → 2026-10-29 403（+22）
+2026-10-18 381 → 2026-10-30 404（+23）
 
 
 ---

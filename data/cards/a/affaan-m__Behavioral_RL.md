@@ -1,6 +1,6 @@
 # affaan-m/Behavioral_RL
 
-⭐ 53 · HTML · 推送 2026-06-04 · [GitHub](https://github.com/affaan-m/Behavioral_RL) · 个人维护
+⭐ 54 · HTML · 推送 2026-06-04 · [GitHub](https://github.com/affaan-m/Behavioral_RL) · 个人维护
 
 **风险敏感强化学习建模 Iowa 赌博任务中的人类决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "affaan-m/Behavioral_RL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-18 52 → 2026-10-29 53（+1）
+2026-10-18 52 → 2026-10-30 54（+2）
 
 
 ---

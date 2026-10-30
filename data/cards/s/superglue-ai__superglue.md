@@ -1,6 +1,6 @@
 # superglue-ai/superglue
 
-⭐ 2,066 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/superglue-ai/superglue) · [官网](https://superglue.ai) · 组织维护
+⭐ 2,067 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/superglue-ai/superglue) · [官网](https://superglue.ai) · 组织维护
 
 **用自然语言构建企业系统集成与工具的 AI agent 平台**
 
@@ -45,13 +45,13 @@ superglue 是面向企业系统集成的 AI agent 平台：通过自然语言描
 
 ```mermaid
 xychart-beta
-    title "superglue-ai/superglue 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2063 --> 2067
-    line [2064, 2065, 2066, 2065, 2066]
+    title "superglue-ai/superglue 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2063 --> 2068
+    line [2064, 2065, 2066, 2065, 2066, 2067]
 ```
 
-2026-10-18 2,064 → 2026-10-29 2,066（+2）
+2026-10-18 2,064 → 2026-10-30 2,067（+3）
 
 
 ---

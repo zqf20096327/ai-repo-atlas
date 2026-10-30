@@ -1,6 +1,6 @@
 # OrlojHQ/orloj
 
-⭐ 124 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OrlojHQ/orloj) · [官网](https://orloj.dev) · 组织维护
+⭐ 125 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OrlojHQ/orloj) · [官网](https://orloj.dev) · 组织维护
 
 **多智能体系统的一体化编排运行时：YAML 声明、调度、治理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OrlojHQ/orloj 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
     y-axis "stars" 123 --> 126
-    line [124, 125, 124, 124]
+    line [124, 125, 124, 125]
 ```
 
-2026-10-18 124 → 2026-10-29 124（+0）
+2026-10-18 124 → 2026-10-30 125（+1）
 
 
 ---

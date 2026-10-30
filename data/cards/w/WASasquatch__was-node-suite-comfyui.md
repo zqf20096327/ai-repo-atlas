@@ -1,6 +1,6 @@
 # WASasquatch/was-node-suite-comfyui
 
-⭐ 1,883 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WASasquatch/was-node-suite-comfyui) · 个人维护
+⭐ 1,886 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/WASasquatch/was-node-suite-comfyui) · 个人维护
 
 **ComfyUI 节点套件：527 个图像处理与工作流扩展节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WASasquatch/was-node-suite-comfyui 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1873 --> 1884
-    line [1875, 1874, 1875, 1877, 1879, 1880, 1881, 1883]
+    title "WASasquatch/was-node-suite-comfyui 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1873 --> 1887
+    line [1875, 1874, 1875, 1877, 1879, 1880, 1881, 1883, 1886]
 ```
 
-2026-10-18 1,875 → 2026-10-29 1,883（+8）
+2026-10-18 1,875 → 2026-10-30 1,886（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # shinpr/rashomon
 
-⭐ 20 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shinpr/rashomon) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/shinpr/rashomon) · 个人维护 · 中文 README
 
 **给 agent 开发者：盲评 A/B 对比检验 skill 与 prompt 改动是否有效**
 
@@ -44,13 +44,13 @@ Rashomon 是一个 Claude Code 插件（Codex 侧仅含 prompt-optimization）�
 
 ```mermaid
 xychart-beta
-    title "shinpr/rashomon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "shinpr/rashomon 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

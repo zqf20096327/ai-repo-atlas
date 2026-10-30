@@ -1,6 +1,6 @@
 # ahkarami/Great-Deep-Learning-Tutorials
 
-⭐ 424 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ahkarami/Great-Deep-Learning-Tutorials) · 个人维护
+⭐ 423 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ahkarami/Great-Deep-Learning-Tutorials) · 个人维护
 
 **深度学习教程与仓库的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ahkarami/Great-Deep-Learning-Tutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
     y-axis "stars" 421 --> 425
-    line [422, 423, 424, 424]
+    line [422, 423, 424, 423]
 ```
 
-2026-10-18 422 → 2026-10-29 424（+2）
+2026-10-18 422 → 2026-10-30 423（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenKore/openkore
 
-⭐ 1,538 · Perl · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OpenKore/openkore) · [官网](https://openkore.com) · 组织维护
+⭐ 1,539 · Perl · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/OpenKore/openkore) · [官网](https://openkore.com) · 组织维护
 
 **仙境传说（RO）的免费开源自定义客户端与自动化挂机工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenKore/openkore 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1531 --> 1540
-    line [1532, 1534, 1537, 1539, 1538, 1538]
+    line [1532, 1534, 1537, 1539, 1538, 1539]
 ```
 
-2026-10-18 1,532 → 2026-10-29 1,538（+6）
+2026-10-18 1,532 → 2026-10-30 1,539（+7）
 
 
 ---

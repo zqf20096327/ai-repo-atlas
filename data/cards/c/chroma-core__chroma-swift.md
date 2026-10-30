@@ -45,12 +45,12 @@ Chroma 官方提供的 Swift 包，将 Chroma 向量数据库引擎嵌入 macOS/
 ```mermaid
 xychart-beta
     title "chroma-core/chroma-swift 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-29 69（+0）
+2026-10-18 69 → 2026-10-30 69（+0）
 
 
 ---

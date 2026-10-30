@@ -1,6 +1,6 @@
 # pytorch/cpuinfo
 
-⭐ 1,189 · C · BSD-2-Clause · 推送 2026-10-27 · [GitHub](https://github.com/pytorch/cpuinfo) · 组织维护
+⭐ 1,189 · C · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/pytorch/cpuinfo) · 组织维护
 
 **跨平台 CPU 信息检测 C/C++ 库：供性能优化读取指令集/缓存/拓扑**
 
@@ -44,12 +44,12 @@ cpuinfo 是一个 C/C++ 库，用于检测主机 CPU 上对性能优化关键的
 ```mermaid
 xychart-beta
     title "pytorch/cpuinfo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 1188 --> 1190
     line [1189, 1189]
 ```
 
-2026-10-18 1,189 → 2026-10-29 1,189（+0）
+2026-10-18 1,189 → 2026-10-30 1,189（+0）
 
 
 ---

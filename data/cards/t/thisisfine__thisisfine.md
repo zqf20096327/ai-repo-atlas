@@ -35,6 +35,18 @@ README 仅两行：仓库名标题与“This readme is fine.”，未说明项�
 > L1: # thisisfine
 > L2: This readme is fine.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thisisfine/thisisfine 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-10-29 22 → 2026-10-30 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 low · 依据 README sha `d670d7038c9b` · [字段定义](../../DATASET.md)*

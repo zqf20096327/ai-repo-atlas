@@ -1,6 +1,6 @@
 # MikkoParkkola/trvl
 
-⭐ 90 · Go · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MikkoParkkola/trvl) · [官网](https://mikkoparkkola.github.io/trvl/) · 个人维护
+⭐ 92 · Go · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MikkoParkkola/trvl) · [官网](https://mikkoparkkola.github.io/trvl/) · 个人维护
 
 **给 AI 助手的旅行搜索 MCP 服务器：机票酒店火车一体的单一二进制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MikkoParkkola/trvl 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 87 --> 91
-    line [88, 89, 90, 90]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 87 --> 93
+    line [88, 89, 90, 92]
 ```
 
-2026-10-18 88 → 2026-10-29 90（+2）
+2026-10-18 88 → 2026-10-30 92（+4）
 
 
 ---

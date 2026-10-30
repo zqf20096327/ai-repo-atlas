@@ -1,6 +1,6 @@
 # jim-schwoebel/awesome_ai_agents
 
-⭐ 2,021 · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/jim-schwoebel/awesome_ai_agents) · [官网](https://agents.blog) · 个人维护
+⭐ 2,022 · Apache-2.0 · 推送 2026-03-28 · [GitHub](https://github.com/jim-schwoebel/awesome_ai_agents) · [官网](https://agents.blog) · 个人维护
 
 **AI agent 工具与资源策展清单（1,500+ 条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jim-schwoebel/awesome_ai_agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2009 --> 2022
-    line [2010, 2011, 2012, 2015, 2019, 2020, 2021]
+    title "jim-schwoebel/awesome_ai_agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2009 --> 2023
+    line [2010, 2011, 2012, 2015, 2019, 2020, 2021, 2022]
 ```
 
-2026-10-18 2,010 → 2026-10-29 2,021（+11）
+2026-10-18 2,010 → 2026-10-30 2,022（+12）
 
 
 ---

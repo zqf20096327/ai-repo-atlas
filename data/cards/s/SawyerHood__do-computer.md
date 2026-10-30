@@ -1,6 +1,6 @@
 # SawyerHood/do-computer
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SawyerHood/do-computer) · [官网](https://do.computer) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SawyerHood/do-computer) · [官网](https://do.computer) · 个人维护
 
 **可自托管的常驻个人 AI agent，每个 agent 拥有自己的电脑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SawyerHood/do-computer 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 17 --> 61
-    line [20, 42, 48, 50, 51, 53, 58, 58]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 16 --> 64
+    line [20, 42, 48, 50, 51, 53, 58, 60]
 ```
 
-2026-10-18 20 → 2026-10-29 58（+38）
+2026-10-18 20 → 2026-10-30 60（+40）
 
 
 ---

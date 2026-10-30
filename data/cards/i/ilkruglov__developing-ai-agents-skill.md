@@ -1,6 +1,6 @@
 # ilkruglov/developing-ai-agents-skill
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/ilkruglov/developing-ai-agents-skill) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/ilkruglov/developing-ai-agents-skill) · 个人维护
 
 **基于 Bojie Li 著作的 AI 代理设计/调试/评测技能插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ilkruglov/developing-ai-agents-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 26 --> 41
-    line [27, 28, 40]
+    title "ilkruglov/developing-ai-agents-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 26 --> 43
+    line [27, 28, 40, 42]
 ```
 
-2026-10-18 27 → 2026-10-29 40（+13）
+2026-10-18 27 → 2026-10-30 42（+15）
 
 
 ---

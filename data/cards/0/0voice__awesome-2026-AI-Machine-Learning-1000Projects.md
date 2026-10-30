@@ -1,6 +1,6 @@
 # 0voice/awesome-2026-AI-Machine-Learning-1000Projects
 
-⭐ 261 · 推送 2026-03-23 · [GitHub](https://github.com/0voice/awesome-2026-AI-Machine-Learning-1000Projects) · 组织维护 · 中文 README
+⭐ 264 · 推送 2026-03-23 · [GitHub](https://github.com/0voice/awesome-2026-AI-Machine-Learning-1000Projects) · 组织维护 · 中文 README
 
 **1000+ 机器学习开源项目策展清单，覆盖入门到面试全场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0voice/awesome-2026-AI-Machine-Learning-1000Projects 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 253 --> 262
-    line [254, 255, 256, 257, 260, 261, 261]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 253 --> 265
+    line [254, 255, 256, 257, 260, 261, 264]
 ```
 
-2026-10-18 254 → 2026-10-29 261（+7）
+2026-10-18 254 → 2026-10-30 264（+10）
 
 
 ---

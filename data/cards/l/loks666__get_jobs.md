@@ -1,6 +1,6 @@
 # loks666/get_jobs
 
-⭐ 9,342 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
+⭐ 9,381 · Java · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
 
 **面向求职者的多平台自动投简历工具，含 AI 岗位匹配与打招呼语生成**
 
@@ -39,6 +39,18 @@
 
 > L48: - **💥 AI 智能匹配**：AI检测岗位匹配度，并根据JD自动撰写个性化的打招呼语（仅限 Boss 直聘）。
 > L108:       BASE_URL=https://api.openai.com
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loks666/get_jobs 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 9339 --> 9384
+    line [9342, 9381]
+```
+
+2026-10-29 9,342 → 2026-10-30 9,381（+39）
 
 
 ---

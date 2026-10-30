@@ -44,12 +44,12 @@ agent 开发工具集，当前包含 agent-debugger：一个基于 Textual 的�
 ```mermaid
 xychart-beta
     title "dkondo/agent-tackle-box 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-29 52（+0）
+2026-10-18 52 → 2026-10-30 52（+0）
 
 
 ---

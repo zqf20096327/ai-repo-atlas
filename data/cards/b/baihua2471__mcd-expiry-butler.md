@@ -1,6 +1,6 @@
 # baihua2471/mcd-expiry-butler
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/baihua2471/mcd-expiry-butler) · [官网](【WorkBuddy】当前有接入麦当劳的MCP吗 ，如果没有，配置下 ardot-design-core ardot-design-router https://workbuddy.link/p/RZciPqwzx2l3LHYKDkrjvE?ext2=copy_link) · 个人维护 · 中文 README
+⭐ 108 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/baihua2471/mcd-expiry-butler) · [官网](【WorkBuddy】当前有接入麦当劳的MCP吗 ，如果没有，配置下 ardot-design-core ardot-design-router https://workbuddy.link/p/RZciPqwzx2l3LHYKDkrjvE?ext2=copy_link) · 个人维护 · 中文 README
 
 **查询麦当劳优惠券与积分到期情况并按预算给方案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "baihua2471/mcd-expiry-butler 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29"]
+    title "baihua2471/mcd-expiry-butler 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 0 --> 217
-    line [7, 85, 198, 7, 58]
+    line [7, 85, 198, 7, 58, 108]
 ```
 
-2026-10-18 7 → 2026-10-29 58（+51）
+2026-10-18 7 → 2026-10-30 108（+101）
 
 
 ---

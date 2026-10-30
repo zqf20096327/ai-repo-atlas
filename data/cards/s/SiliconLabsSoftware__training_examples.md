@@ -45,12 +45,12 @@ Silicon Labs 维护的培训示例仓库，覆盖其 SoC/模块与软件栈：�
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/training_examples 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-22", "2026-10-30"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-22 31 → 2026-10-29 31（+0）
+2026-10-22 31 → 2026-10-30 31（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaonancs/hermes-agent-study
 
-⭐ 42 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/hermes-agent-study) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/hermes-agent-study) · 个人维护 · 中文 README
 
 **Hermes Agent 源码深度研究文集（39 篇/97 图/5 项目对比）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaonancs/hermes-agent-study 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-18 41 → 2026-10-29 42（+1）
+2026-10-18 41 → 2026-10-30 43（+2）
 
 
 ---

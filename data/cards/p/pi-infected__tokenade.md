@@ -1,6 +1,6 @@
 # pi-infected/tokenade
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pi-infected/tokenade) · [官网](https://tokenade.net) · 组织维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/pi-infected/tokenade) · [官网](https://tokenade.net) · 组织维护
 
 **本地拦截 AI 编程代理流量、折叠冗余内容以降低 token 消耗的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pi-infected/tokenade 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 10 --> 21
-    line [11, 13, 15, 16, 20]
+    title "pi-infected/tokenade 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 10 --> 23
+    line [11, 13, 15, 16, 20, 22]
 ```
 
-2026-10-22 11 → 2026-10-29 20（+9）
+2026-10-22 11 → 2026-10-30 22（+11）
 
 
 ---

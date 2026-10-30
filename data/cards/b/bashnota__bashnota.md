@@ -1,6 +1,6 @@
 # bashnota/bashnota
 
-⭐ 68 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/bashnota/bashnota) · [官网](https://www.bashnota.com/) · 个人维护
+⭐ 69 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/bashnota/bashnota) · [官网](https://www.bashnota.com/) · 个人维护
 
 **带 AI 助手与代码执行的富文本笔记应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bashnota/bashnota 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 69（+1）
 
 
 ---

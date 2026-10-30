@@ -1,6 +1,6 @@
 # triton-inference-server/server
 
-⭐ 11,116 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/triton-inference-server/server) · [官网](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html) · 组织维护
+⭐ 11,117 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/triton-inference-server/server) · [官网](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html) · 组织维护
 
 **给开发/运维：部署多框架 AI 模型的开源推理服务软件**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的开源推理服务软件：从模型仓库加载 TensorRT、PyTo
 
 ```mermaid
 xychart-beta
-    title "triton-inference-server/server 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 11091 --> 11118
-    line [11093, 11097, 11100, 11104, 11110, 11109, 11112, 11113, 11115, 11116]
+    title "triton-inference-server/server 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 11091 --> 11119
+    line [11093, 11097, 11100, 11104, 11110, 11109, 11112, 11113, 11115, 11116, 11117]
 ```
 
-2026-10-18 11,093 → 2026-10-29 11,116（+23）
+2026-10-18 11,093 → 2026-10-30 11,117（+24）
 
 
 ---

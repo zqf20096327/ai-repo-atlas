@@ -1,6 +1,6 @@
 # kozistr/pytorch_optimizer
 
-⭐ 432 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/kozistr/pytorch_optimizer) · [官网](https://pytorch-optimizers.readthedocs.io/en/latest/) · 个人维护
+⭐ 433 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kozistr/pytorch_optimizer) · [官网](https://pytorch-optimizers.readthedocs.io/en/latest/) · 个人维护
 
 **PyTorch 优化器/调度器/损失函数合集库，供训练快速实验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kozistr/pytorch_optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 431 --> 433
-    line [432, 432]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 431 --> 434
+    line [432, 433]
 ```
 
-2026-10-18 432 → 2026-10-29 432（+0）
+2026-10-18 432 → 2026-10-30 433（+1）
 
 
 ---

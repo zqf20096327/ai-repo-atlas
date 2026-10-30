@@ -1,6 +1,6 @@
 # GainSec/anti-crime-ecosystem-research
 
-⭐ 247 · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/GainSec/anti-crime-ecosystem-research) · [官网](https://gainsec.com) · 个人维护
+⭐ 246 · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/GainSec/anti-crime-ecosystem-research) · [官网](https://gainsec.com) · 个人维护
 
 **反犯罪技术生态安全研究白皮书：51 项发现、22 个 CVE**
 
@@ -45,12 +45,12 @@ Jon “GainSec” Gaines 发布的独立安全研究白皮书公开仓库，研�
 ```mermaid
 xychart-beta
     title "GainSec/anti-crime-ecosystem-research 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 246 --> 249
-    line [248, 247, 247]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 245 --> 249
+    line [248, 247, 246]
 ```
 
-2026-10-18 248 → 2026-10-29 247（-1）
+2026-10-18 248 → 2026-10-30 246（-2）
 
 
 ---

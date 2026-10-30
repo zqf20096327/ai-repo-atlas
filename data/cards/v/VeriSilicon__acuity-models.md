@@ -46,12 +46,12 @@ VeriSilicon 维护的 Acuity 模型库，收录分类、检测、人脸识别、
 ```mermaid
 xychart-beta
     title "VeriSilicon/acuity-models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-18 163 → 2026-10-29 163（+0）
+2026-10-18 163 → 2026-10-30 163（+0）
 
 
 ---

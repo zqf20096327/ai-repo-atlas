@@ -1,6 +1,6 @@
 # jetyu/Snaptium
 
-⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jetyu/Snaptium) · [官网](https://snaptium.com) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/jetyu/Snaptium) · [官网](https://snaptium.com) · 个人维护 · 中文 README
 
 **本地优先的跨平台 Markdown 笔记应用，带 AI 助手与知识库问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jetyu/Snaptium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-10-29 63（+0）
+2026-10-18 63 → 2026-10-30 64（+1）
 
 
 ---

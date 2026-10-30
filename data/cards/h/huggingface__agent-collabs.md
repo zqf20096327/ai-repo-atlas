@@ -46,12 +46,12 @@ Hugging Face 官方维护的挑战赛部署模板：通过一个 challenge.yaml 
 ```mermaid
 xychart-beta
     title "huggingface/agent-collabs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-29 46（+0）
+2026-10-18 46 → 2026-10-30 46（+0）
 
 
 ---

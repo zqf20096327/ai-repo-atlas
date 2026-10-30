@@ -1,6 +1,6 @@
 # koji/awesome-llm-agents
 
-⭐ 38 · Python · 推送 2026-10-28 · [GitHub](https://github.com/koji/awesome-llm-agents) · [官网](https://koji.github.io/awesome-llm-agents/) · 个人维护
+⭐ 38 · Python · 推送 2026-10-29 · [GitHub](https://github.com/koji/awesome-llm-agents) · [官网](https://koji.github.io/awesome-llm-agents/) · 个人维护
 
 **LLM agent 相关资源的策展清单，含框架、应用与提示工程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "koji/awesome-llm-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-29 38（+1）
+2026-10-18 37 → 2026-10-30 38（+1）
 
 
 ---

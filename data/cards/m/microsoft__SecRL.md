@@ -1,6 +1,6 @@
 # microsoft/SecRL
 
-⭐ 162 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/SecRL) · [官网](https://arxiv.org/abs/2507.14201) · 组织维护
+⭐ 161 · Jupyter Notebook · MIT · 推送 2026-10-14 · [GitHub](https://github.com/microsoft/SecRL) · [官网](https://arxiv.org/abs/2507.14201) · 组织维护
 
 **评测 LLM agent 网络威胁调查能力的基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SecRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 159 --> 163
-    line [160, 162, 162]
+    line [160, 162, 161]
 ```
 
-2026-10-18 160 → 2026-10-29 162（+2）
+2026-10-18 160 → 2026-10-30 161（+1）
 
 
 ---

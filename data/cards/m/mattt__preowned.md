@@ -1,6 +1,6 @@
 # mattt/preowned
 
-⭐ 47 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mattt/preowned) · 个人维护
+⭐ 51 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/mattt/preowned) · 个人维护
 
 **把 macOS 内置模型包装成 OpenAI 兼容 API 的本地服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mattt/preowned 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1 --> 51
-    line [5, 32, 47]
+    title "mattt/preowned 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1 --> 55
+    line [5, 32, 47, 51]
 ```
 
-2026-10-26 5 → 2026-10-29 47（+42）
+2026-10-26 5 → 2026-10-30 51（+46）
 
 
 ---

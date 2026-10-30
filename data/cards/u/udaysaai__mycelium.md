@@ -1,6 +1,6 @@
 # udaysaai/mycelium
 
-⭐ 18 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/udaysaai/mycelium) · [官网](https://mycelium-agents.netlify.app) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/udaysaai/mycelium) · [官网](https://mycelium-agents.netlify.app) · 个人维护
 
 **面向多智能体系统的本地语义路由协议，<10ms 意图发现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "udaysaai/mycelium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

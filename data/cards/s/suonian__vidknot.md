@@ -1,6 +1,6 @@
 # suonian/vidknot
 
-⭐ 27 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/suonian/vidknot) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/suonian/vidknot) · 个人维护 · 中文 README
 
 **从 11+ 视频平台提取转写并生成结构化笔记的命令行工具**
 
@@ -44,13 +44,13 @@ VidkNot 是一个视频知识提取流水线：从 YouTube、B 站、抖音、�
 
 ```mermaid
 xychart-beta
-    title "suonian/vidknot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 25, 26, 27]
+    title "suonian/vidknot 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 25, 26, 27, 28]
 ```
 
-2026-10-18 23 → 2026-10-29 27（+4）
+2026-10-18 23 → 2026-10-30 28（+5）
 
 
 ---

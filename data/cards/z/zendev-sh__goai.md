@@ -1,6 +1,6 @@
 # zendev-sh/goai
 
-⭐ 230 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 组织维护
+⭐ 232 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 组织维护
 
 **Go 语言 AI 应用开发 SDK，统一接口接入 25+ 模型提供商**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zendev-sh/goai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 226 --> 231
-    line [227, 228, 229, 230]
+    title "zendev-sh/goai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 226 --> 233
+    line [227, 228, 229, 230, 232]
 ```
 
-2026-10-18 227 → 2026-10-29 230（+3）
+2026-10-18 227 → 2026-10-30 232（+5）
 
 
 ---

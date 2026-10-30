@@ -1,6 +1,6 @@
 # IdeoaLabs/Open-Sable
 
-⭐ 27 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/IdeoaLabs/Open-Sable) · [官网](https://opensable.com) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/IdeoaLabs/Open-Sable) · [官网](https://opensable.com) · 组织维护
 
 **本地优先的自主 AI agent 框架，长期运行执行真实任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IdeoaLabs/Open-Sable 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-29 27（+1）
+2026-10-18 26 → 2026-10-30 28（+2）
 
 
 ---

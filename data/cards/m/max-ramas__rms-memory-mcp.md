@@ -44,13 +44,13 @@ Rust 实现的 MCP 记忆服务器：以集中式 Markdown vault 为唯一事实
 
 ```mermaid
 xychart-beta
-    title "max-ramas/rms-memory-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    title "max-ramas/rms-memory-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 38 --> 63
-    line [40, 43, 61]
+    line [40, 43, 61, 61]
 ```
 
-2026-10-18 40 → 2026-10-29 61（+21）
+2026-10-18 40 → 2026-10-30 61（+21）
 
 
 ---

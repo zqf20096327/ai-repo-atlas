@@ -1,6 +1,6 @@
 # OutSystems/outsystems11-mcp
 
-⭐ 26 · C# · MIT · 推送 2026-10-13 · [GitHub](https://github.com/OutSystems/outsystems11-mcp) · 组织维护
+⭐ 26 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/OutSystems/outsystems11-mcp) · 组织维护
 
 **让编码 agent 通过 MCP 读写 OutSystems 11 应用的技能包**
 
@@ -46,12 +46,12 @@ OutSystems 官方发布的 MCP 技能仓库：分发 SKILL.md 技能与跨工具
 ```mermaid
 xychart-beta
     title "OutSystems/outsystems11-mcp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 20 --> 27
     line [21, 23, 24, 25, 26, 26]
 ```
 
-2026-10-18 21 → 2026-10-29 26（+5）
+2026-10-18 21 → 2026-10-30 26（+5）
 
 
 ---

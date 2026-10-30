@@ -1,6 +1,6 @@
 # Nixtla/neuralforecast
 
-⭐ 4,299 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nixtla/neuralforecast) · [官网](https://nixtlaverse.nixtla.io/neuralforecast) · 组织维护
+⭐ 4,301 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Nixtla/neuralforecast) · [官网](https://nixtlaverse.nixtla.io/neuralforecast) · 组织维护
 
 **面向开发者的神经预测模型库：30+ 时序预测模型统一接口**
 
@@ -44,13 +44,13 @@ Nixtla 维护的 Python 时间序列预测库，实现 30 余种神经预测模�
 
 ```mermaid
 xychart-beta
-    title "Nixtla/neuralforecast 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4286 --> 4300
-    line [4287, 4288, 4291, 4292, 4293, 4295, 4297, 4299]
+    title "Nixtla/neuralforecast 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4286 --> 4302
+    line [4287, 4288, 4291, 4292, 4293, 4295, 4297, 4299, 4301]
 ```
 
-2026-10-18 4,287 → 2026-10-29 4,299（+12）
+2026-10-18 4,287 → 2026-10-30 4,301（+14）
 
 
 ---

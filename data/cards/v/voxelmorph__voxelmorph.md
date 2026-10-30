@@ -1,6 +1,6 @@
 # voxelmorph/voxelmorph
 
-⭐ 2,757 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/voxelmorph/voxelmorph) · 组织维护
+⭐ 2,758 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/voxelmorph/voxelmorph) · 组织维护
 
 **面向医学影像配准的学习库，供研究者训练/运行形变配准模型**
 
@@ -46,13 +46,13 @@ VoxelMorph 是基于学习的图像对齐/配准通用库，核心为无监督�
 
 ```mermaid
 xychart-beta
-    title "voxelmorph/voxelmorph 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2753 --> 2758
-    line [2756, 2755, 2754, 2755, 2757]
+    title "voxelmorph/voxelmorph 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2753 --> 2759
+    line [2756, 2755, 2754, 2755, 2757, 2758]
 ```
 
-2026-10-18 2,756 → 2026-10-29 2,757（+1）
+2026-10-18 2,756 → 2026-10-30 2,758（+2）
 
 
 ---

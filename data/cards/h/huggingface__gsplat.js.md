@@ -1,6 +1,6 @@
 # huggingface/gsplat.js
 
-⭐ 1,674 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gsplat.js) · 组织维护
+⭐ 1,675 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gsplat.js) · 组织维护
 
 **JavaScript 的 3D Gaussian Splatting 渲染库，面向 Web 开发者**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/gsplat.js 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1669 --> 1675
-    line [1670, 1671, 1670, 1671, 1672, 1673, 1674]
+    title "huggingface/gsplat.js 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1669 --> 1676
+    line [1670, 1671, 1670, 1671, 1672, 1673, 1674, 1675]
 ```
 
-2026-10-18 1,670 → 2026-10-29 1,674（+4）
+2026-10-18 1,670 → 2026-10-30 1,675（+5）
 
 
 ---

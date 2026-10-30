@@ -1,6 +1,6 @@
 # 0xBakeer/TandemLLM
 
-⭐ 65 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/0xBakeer/TandemLLM) · [官网](https://tandemllm.0xbakeer.com) · 个人维护
+⭐ 69 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/0xBakeer/TandemLLM) · [官网](https://tandemllm.0xbakeer.com) · 个人维护
 
 **单台 NVIDIA DGX Spark 上的本地推理引擎：自起草自验证的投机解码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xBakeer/TandemLLM 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 55 --> 66
-    line [56, 57, 58, 61, 62, 63, 64, 65]
+    title "0xBakeer/TandemLLM 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 55 --> 70
+    line [56, 57, 58, 61, 62, 63, 64, 65, 69]
 ```
 
-2026-10-18 56 → 2026-10-29 65（+9）
+2026-10-18 56 → 2026-10-30 69（+13）
 
 
 ---

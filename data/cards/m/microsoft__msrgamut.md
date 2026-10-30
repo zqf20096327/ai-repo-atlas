@@ -45,12 +45,12 @@ Microsoft 发布的设计探针（design probe）原型，用于研究数据科�
 ```mermaid
 xychart-beta
     title "microsoft/msrgamut 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dabit3/react-native-ai
 
-⭐ 1,303 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/dabit3/react-native-ai) · [官网](https://nader.codes) · 个人维护
+⭐ 1,302 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/dabit3/react-native-ai) · [官网](https://nader.codes) · 个人维护
 
 **构建跨平台移动 AI 应用的全栈框架，面向开发者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dabit3/react-native-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1302 --> 1306
-    line [1305, 1304, 1303, 1303]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 1301 --> 1306
+    line [1305, 1304, 1303, 1302]
 ```
 
-2026-10-18 1,305 → 2026-10-29 1,303（-2）
+2026-10-18 1,305 → 2026-10-30 1,302（-3）
 
 
 ---

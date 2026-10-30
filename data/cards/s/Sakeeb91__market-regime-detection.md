@@ -1,6 +1,6 @@
 # Sakeeb91/market-regime-detection
 
-⭐ 17 · 推送 2025-12-31 · [GitHub](https://github.com/Sakeeb91/market-regime-detection) · 个人维护
+⭐ 18 · 推送 2025-12-31 · [GitHub](https://github.com/Sakeeb91/market-regime-detection) · 个人维护
 
 **用隐马尔可夫模型识别市场状态（牛/熊/高波动）的量化系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sakeeb91/market-regime-detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-29 17（+1）
+2026-10-18 16 → 2026-10-30 18（+2）
 
 
 ---

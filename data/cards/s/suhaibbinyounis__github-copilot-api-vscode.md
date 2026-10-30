@@ -1,6 +1,6 @@
 # suhaibbinyounis/github-copilot-api-vscode
 
-⭐ 128 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/suhaibbinyounis/github-copilot-api-vscode) · [官网](https://copilot-api.suhaib.in) · 个人维护
+⭐ 129 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/suhaibbinyounis/github-copilot-api-vscode) · [官网](https://copilot-api.suhaib.in) · 个人维护
 
 **把 GitHub Copilot 等 VS Code AI 变成本地 OpenAI 兼容 API 网关**
 
@@ -46,12 +46,12 @@ VS Code 扩展：在本地 3030 端口启动 OpenAI 兼容 API 服务器，通�
 ```mermaid
 xychart-beta
     title "suhaibbinyounis/github-copilot-api-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 127 --> 129
-    line [128, 128]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 127 --> 130
+    line [128, 129]
 ```
 
-2026-10-18 128 → 2026-10-29 128（+0）
+2026-10-18 128 → 2026-10-30 129（+1）
 
 
 ---

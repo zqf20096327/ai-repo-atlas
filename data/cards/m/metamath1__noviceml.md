@@ -1,6 +1,6 @@
 # metamath1/noviceml
 
-⭐ 42 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/metamath1/noviceml) · 个人维护
+⭐ 41 · Jupyter Notebook · 推送 2026-05-22 · [GitHub](https://github.com/metamath1/noviceml) · 个人维护
 
 **机器学习/深度学习基础数学书籍的示例代码与网页演示仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "metamath1/noviceml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 40 --> 43
+    line [42, 41]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 41（-1）
 
 
 ---

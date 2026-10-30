@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Automodel
 
-⭐ 1,060 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA-NeMo/Automodel) · [官网](https://docs.nvidia.com/nemo/automodel/nightly) · 组织维护
+⭐ 1,061 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA-NeMo/Automodel) · [官网](https://docs.nvidia.com/nemo/automodel/nightly) · 组织维护
 
 **面向 LLM/VLM 等的 PyTorch 分布式训练与微调库**
 
@@ -44,13 +44,13 @@ NVIDIA NeMo 框架下的开源训练库，基于 PyTorch DTensor 原生 SPMD 模
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-NeMo/Automodel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1024 --> 1063
-    line [1027, 1039, 1046, 1047, 1048, 1055, 1058, 1060]
+    title "NVIDIA-NeMo/Automodel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1024 --> 1064
+    line [1027, 1039, 1046, 1047, 1048, 1055, 1058, 1060, 1061]
 ```
 
-2026-10-18 1,027 → 2026-10-29 1,060（+33）
+2026-10-18 1,027 → 2026-10-30 1,061（+34）
 
 
 ---

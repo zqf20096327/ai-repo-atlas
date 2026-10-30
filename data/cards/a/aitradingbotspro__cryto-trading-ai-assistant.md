@@ -1,6 +1,6 @@
 # aitradingbotspro/cryto-trading-ai-assistant
 
-⭐ 108 · Python · 推送 2026-03-14 · [GitHub](https://github.com/aitradingbotspro/cryto-trading-ai-assistant) · 个人维护
+⭐ 107 · Python · 推送 2026-03-14 · [GitHub](https://github.com/aitradingbotspro/cryto-trading-ai-assistant) · 个人维护
 
 **面向手动加密交易者的 AI 风控守卫：监测风险与情绪化交易**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aitradingbotspro/cryto-trading-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-10-29 108（+0）
+2026-10-18 108 → 2026-10-30 107（-1）
 
 
 ---

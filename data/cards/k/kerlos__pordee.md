@@ -46,12 +46,12 @@ pordee（พอดี）是 Claude Code 插件，通过 hooks 机制让 agent �
 ```mermaid
 xychart-beta
     title "kerlos/pordee 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 329 --> 331
     line [330, 330]
 ```
 
-2026-10-18 330 → 2026-10-29 330（+0）
+2026-10-18 330 → 2026-10-30 330（+0）
 
 
 ---

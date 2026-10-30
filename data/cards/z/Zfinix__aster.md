@@ -1,6 +1,6 @@
 # Zfinix/aster
 
-⭐ 133 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Zfinix/aster) · [官网](https://withaster.dev) · 个人维护
+⭐ 134 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Zfinix/aster) · [官网](https://withaster.dev) · 个人维护
 
 **可自托管的开源终端编程 agent，自带模型与密钥**
 
@@ -46,12 +46,12 @@ Rust 编写的终端编程代理（agent）：读取代码、回答问题、编�
 ```mermaid
 xychart-beta
     title "Zfinix/aster 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 128 --> 134
-    line [129, 131, 132, 133, 133]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 128 --> 135
+    line [129, 131, 132, 133, 134]
 ```
 
-2026-10-18 129 → 2026-10-29 133（+4）
+2026-10-18 129 → 2026-10-30 134（+5）
 
 
 ---

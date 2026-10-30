@@ -1,6 +1,6 @@
 # StartLuxLabs/StartLux-Decision
 
-⭐ 1,602 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
+⭐ 1,612 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
 
 **开源决策模型族（0.8B-27B）：一次前向给出每个选项的校准概率**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StartLuxLabs/StartLux-Decision 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 520 --> 1700
-    line [618, 820, 1085, 1201, 1408, 1474, 1547, 1581, 1595, 1602]
+    title "StartLuxLabs/StartLux-Decision 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 519 --> 1711
+    line [618, 820, 1085, 1201, 1408, 1474, 1547, 1581, 1595, 1602, 1612]
 ```
 
-2026-10-18 618 → 2026-10-29 1,602（+984）
+2026-10-18 618 → 2026-10-30 1,612（+994）
 
 
 ---

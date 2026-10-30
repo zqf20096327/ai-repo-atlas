@@ -1,6 +1,6 @@
 # lightseekorg/tokenspeed
 
-⭐ 2,819 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lightseekorg/tokenspeed) · [官网](https://lightseek.org/blog/lightseek-tokenspeed.html) · 组织维护
+⭐ 2,824 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lightseekorg/tokenspeed) · [官网](https://lightseek.org/blog/lightseek-tokenspeed.html) · 组织维护
 
 **面向 agentic 负载的 LLM 推理引擎，C++ 控制面+Python 执行面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lightseekorg/tokenspeed 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2671 --> 2832
-    line [2684, 2712, 2755, 2774, 2779, 2782, 2802, 2814, 2819]
+    title "lightseekorg/tokenspeed 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2670 --> 2838
+    line [2684, 2712, 2755, 2774, 2779, 2782, 2802, 2814, 2819, 2824]
 ```
 
-2026-10-18 2,684 → 2026-10-29 2,819（+135）
+2026-10-18 2,684 → 2026-10-30 2,824（+140）
 
 
 ---

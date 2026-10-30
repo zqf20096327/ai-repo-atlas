@@ -45,12 +45,12 @@ Nyaya-GPT 是一个法律问答应用：用户通过 Streamlit 界面就印度�
 ```mermaid
 xychart-beta
     title "Debapriya-source/nyaya-gpt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-29 83（+0）
+2026-10-18 83 → 2026-10-30 83（+0）
 
 
 ---

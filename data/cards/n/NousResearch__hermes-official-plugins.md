@@ -1,6 +1,6 @@
 # NousResearch/hermes-official-plugins
 
-⭐ 522 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/NousResearch/hermes-official-plugins) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 组织维护
+⭐ 535 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/NousResearch/hermes-official-plugins) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 组织维护
 
 **Hermes Agent 官方插件集：Home Assistant、Spotify、Claude 订阅接入等**
 
@@ -45,13 +45,13 @@ Nous Research 维护的 Hermes Agent 第一方插件仓库，覆盖 Home Assista
 
 ```mermaid
 xychart-beta
-    title "NousResearch/hermes-official-plugins 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 291 --> 543
-    line [312, 325, 354, 376, 390, 461, 489, 510, 518, 522]
+    title "NousResearch/hermes-official-plugins 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 290 --> 557
+    line [312, 325, 354, 376, 390, 461, 489, 510, 518, 522, 535]
 ```
 
-2026-10-18 312 → 2026-10-29 522（+210）
+2026-10-18 312 → 2026-10-30 535（+223）
 
 
 ---

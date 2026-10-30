@@ -45,12 +45,12 @@ SAP Labs 四位研究者发表的 KDD 2025 教程“Evaluation & Benchmarking of
 ```mermaid
 xychart-beta
     title "SAP-samples/llm-agents-eval-tutorial 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

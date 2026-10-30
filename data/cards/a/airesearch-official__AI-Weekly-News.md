@@ -1,6 +1,6 @@
 # airesearch-official/AI-Weekly-News
 
-⭐ 21 · 推送 2026-10-22 · [GitHub](https://github.com/airesearch-official/AI-Weekly-News) · 组织维护
+⭐ 21 · 推送 2026-10-29 · [GitHub](https://github.com/airesearch-official/AI-Weekly-News) · 组织维护
 
 **每周 AI 新闻与开源工具的视频存档清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "airesearch-official/AI-Weekly-News 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

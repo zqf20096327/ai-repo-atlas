@@ -1,6 +1,6 @@
 # lukoplt/AI-notebook
 
-⭐ 19 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lukoplt/AI-notebook) · [官网](https://lukoplt.github.io/AI-notebook/) · 个人维护
+⭐ 20 · Swift · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lukoplt/AI-notebook) · [官网](https://lukoplt.github.io/AI-notebook/) · 个人维护
 
 **本地优先的桌面研究笔记本：与自有文档对话并给出引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lukoplt/AI-notebook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

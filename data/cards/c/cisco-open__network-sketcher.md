@@ -1,6 +1,6 @@
 # cisco-open/network-sketcher
 
-⭐ 415 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/cisco-open/network-sketcher) · [官网](https://github.com/cisco-open/network-sketcher) · 组织维护
+⭐ 416 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cisco-open/network-sketcher) · [官网](https://github.com/cisco-open/network-sketcher) · 组织维护
 
 **面向 LLM 客户端的网络设计与拓扑图生成工具（MCP/Web/桌面三版本）**
 
@@ -45,13 +45,13 @@ Cisco 开源的网络设计与制图工具，含三个版本：Local MCP 版将�
 
 ```mermaid
 xychart-beta
-    title "cisco-open/network-sketcher 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 407 --> 416
-    line [408, 410, 411, 413, 414, 415]
+    title "cisco-open/network-sketcher 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 407 --> 417
+    line [408, 410, 411, 413, 414, 415, 416]
 ```
 
-2026-10-18 408 → 2026-10-29 415（+7）
+2026-10-18 408 → 2026-10-30 416（+8）
 
 
 ---

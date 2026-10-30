@@ -45,12 +45,12 @@ DeepMind 维护的 Python 包，实现 DKS 与 TAT 论文中的激活函数变�
 ```mermaid
 xychart-beta
     title "google-deepmind/dks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-29 82（+0）
+2026-10-18 82 → 2026-10-30 82（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dennynan/quantlab-oss
 
-⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/dennynan/quantlab-oss) · [官网](https://dennynanmac-mini.tail1971a3.ts.net:8444) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/dennynan/quantlab-oss) · [官网](https://dennynanmac-mini.tail1971a3.ts.net:8444) · 个人维护 · 中文 README
 
 **AI 驱动的开源量化分析平台：因子分析/选股/回测/因子挖掘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dennynan/quantlab-oss 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 7 --> 21
-    line [8, 12, 14, 17, 18, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 7 --> 22
+    line [8, 12, 14, 17, 18, 20, 21]
 ```
 
-2026-10-18 8 → 2026-10-29 20（+12）
+2026-10-18 8 → 2026-10-30 21（+13）
 
 
 ---

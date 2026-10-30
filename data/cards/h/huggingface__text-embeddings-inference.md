@@ -1,6 +1,6 @@
 # huggingface/text-embeddings-inference
 
-⭐ 5,090 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/huggingface/text-embeddings-inference) · [官网](https://huggingface.co/docs/text-embeddings-inference/quick_tour) · 组织维护
+⭐ 5,095 · Rust · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/huggingface/text-embeddings-inference) · [官网](https://huggingface.co/docs/text-embeddings-inference/quick_tour) · 组织维护
 
 **文本嵌入模型的高性能推理服务，提供嵌入/重排/分类 API**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的文本嵌入推理服务：以 Docker 镜像或本地二�
 
 ```mermaid
 xychart-beta
-    title "huggingface/text-embeddings-inference 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5081 --> 5091
-    line [5082, 5083, 5084, 5085, 5087, 5088, 5087, 5090]
+    title "huggingface/text-embeddings-inference 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5081 --> 5096
+    line [5082, 5083, 5084, 5085, 5087, 5088, 5087, 5090, 5095]
 ```
 
-2026-10-18 5,082 → 2026-10-29 5,090（+8）
+2026-10-18 5,082 → 2026-10-30 5,095（+13）
 
 
 ---

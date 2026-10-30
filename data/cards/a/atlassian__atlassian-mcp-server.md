@@ -1,6 +1,6 @@
 # atlassian/atlassian-mcp-server
 
-⭐ 1,128 · JavaScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/atlassian/atlassian-mcp-server) · [官网](https://atlassian.com/platform/rovo-mcp) · 组织维护
+⭐ 1,134 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/atlassian/atlassian-mcp-server) · [官网](https://atlassian.com/platform/rovo-mcp) · 组织维护
 
 **官方云托管 MCP 服务器：让 AI 工具安全接入 Atlassian 数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atlassian/atlassian-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1099 --> 1130
-    line [1101, 1107, 1111, 1116, 1119, 1121, 1123, 1128]
+    title "atlassian/atlassian-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1098 --> 1137
+    line [1101, 1107, 1111, 1116, 1119, 1121, 1123, 1128, 1134]
 ```
 
-2026-10-18 1,101 → 2026-10-29 1,128（+27）
+2026-10-18 1,101 → 2026-10-30 1,134（+33）
 
 
 ---

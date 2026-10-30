@@ -1,6 +1,6 @@
 # zmy15/DeepSeek-for-VisualStudio
 
-⭐ 131 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
+⭐ 132 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
 
 **Visual Studio 的 AI 编程助手扩展：对话、行内补全与五个自主 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zmy15/DeepSeek-for-VisualStudio 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 119 --> 132
-    line [120, 122, 124, 126, 127, 129, 130, 131, 131]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 119 --> 133
+    line [120, 122, 124, 126, 127, 129, 130, 131, 132]
 ```
 
-2026-10-18 120 → 2026-10-29 131（+11）
+2026-10-18 120 → 2026-10-30 132（+12）
 
 
 ---

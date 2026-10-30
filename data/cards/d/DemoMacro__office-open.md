@@ -1,6 +1,6 @@
 # DemoMacro/office-open
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/DemoMacro/office-open) · [官网](https://www.office-open.com/) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DemoMacro/office-open) · [官网](https://www.office-open.com/) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Office 文档生成/解析/修补 TypeScript 库**
 
@@ -45,12 +45,12 @@ TypeScript/JavaScript 库集合，从纯 JSON 或全类型 API 生成 Word/Excel
 ```mermaid
 xychart-beta
     title "DemoMacro/office-open 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 39（+1）
 
 
 ---

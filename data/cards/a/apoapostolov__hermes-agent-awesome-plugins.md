@@ -1,6 +1,6 @@
 # apoapostolov/hermes-agent-awesome-plugins
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/apoapostolov/hermes-agent-awesome-plugins) · 个人维护
+⭐ 39 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/apoapostolov/hermes-agent-awesome-plugins) · 个人维护
 
 **Hermesis Agent 桌面端插件包：配额监控、会话管理、记忆审核、RSS 阅读**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "apoapostolov/hermes-agent-awesome-plugins 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 29 --> 39
-    line [30, 35, 36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 29 --> 40
+    line [30, 35, 36, 37, 38, 39]
 ```
 
-2026-10-18 30 → 2026-10-29 38（+8）
+2026-10-18 30 → 2026-10-30 39（+9）
 
 
 ---

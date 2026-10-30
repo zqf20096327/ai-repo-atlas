@@ -1,6 +1,6 @@
 # dengmengmian/CodeLeveler
 
-⭐ 74 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dengmengmian/CodeLeveler) · 个人维护 · 中文 README
+⭐ 83 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dengmengmian/CodeLeveler) · 个人维护 · 中文 README
 
 **本地优先的编码 agent：在仓库中执行任务并留下可审查的变更**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dengmengmian/CodeLeveler 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 5 --> 80
-    line [11, 19, 21, 32, 44, 60, 74]
+    title "dengmengmian/CodeLeveler 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4 --> 90
+    line [11, 19, 21, 32, 44, 60, 74, 83]
 ```
 
-2026-10-23 11 → 2026-10-29 74（+63）
+2026-10-23 11 → 2026-10-30 83（+72）
 
 
 ---

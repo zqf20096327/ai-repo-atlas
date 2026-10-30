@@ -45,12 +45,12 @@ oneAPI Collective Communications Library (oneCCL) 提供深度学习中常用通
 ```mermaid
 xychart-beta
     title "uxlfoundation/oneCCL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 270 --> 273
     line [271, 272, 272]
 ```
 
-2026-10-18 271 → 2026-10-29 272（+1）
+2026-10-18 271 → 2026-10-30 272（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # emlearn/emlearn-micropython
 
-⭐ 167 · C · MIT · 推送 2026-07-30 · [GitHub](https://github.com/emlearn/emlearn-micropython) · [官网](https://emlearn-micropython.readthedocs.io/en/latest/) · 个人维护
+⭐ 168 · C · MIT · 推送 2026-07-30 · [GitHub](https://github.com/emlearn/emlearn-micropython) · [官网](https://emlearn-micropython.readthedocs.io/en/latest/) · 个人维护
 
 **MicroPython 上的 TinyML 与 DSP 模块：微控制器运行 ML 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "emlearn/emlearn-micropython 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 166 --> 169
+    line [167, 168]
 ```
 
-2026-10-18 167 → 2026-10-29 167（+0）
+2026-10-18 167 → 2026-10-30 168（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pswpswpsw/nif
 
-⭐ 76 · Jupyter Notebook · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/pswpswpsw/nif) · [官网](https://pswpswpsw.github.io/nif) · 个人维护
+⭐ 76 · Jupyter Notebook · LGPL-2.1 · 推送 2026-10-29 · [GitHub](https://github.com/pswpswpsw/nif) · [官网](https://pswpswpsw.github.io/nif) · 个人维护
 
 **时空 PDE 数据的网格无关降维库（Neural Implicit Flow）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pswpswpsw/nif 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-29 76（+0）
+2026-10-18 76 → 2026-10-30 76（+0）
 
 
 ---

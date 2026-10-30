@@ -1,6 +1,6 @@
 # mistralai/LeanstralSafeVerify
 
-⭐ 40 · Lean · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/mistralai/LeanstralSafeVerify) · 组织维护
+⭐ 41 · Lean · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/mistralai/LeanstralSafeVerify) · 组织维护
 
 **Lean 代码/证明的安全校验器：核验提交是否匹配规范**
 
@@ -45,12 +45,12 @@ SafeVerify 的 Mistral AI（Leanstral）分支，用于代码 agent 训练与评
 ```mermaid
 xychart-beta
     title "mistralai/LeanstralSafeVerify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 41（+1）
 
 
 ---

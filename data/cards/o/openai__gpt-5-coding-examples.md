@@ -1,6 +1,6 @@
 # openai/gpt-5-coding-examples
 
-⭐ 1,912 · HTML · MIT · 推送 2025-12-11 · [GitHub](https://github.com/openai/gpt-5-coding-examples) · [官网](https://gpt5-coding-examples.vercel.app/) · 组织维护
+⭐ 1,911 · HTML · MIT · 推送 2025-12-11 · [GitHub](https://github.com/openai/gpt-5-coding-examples) · [官网](https://gpt5-coding-examples.vercel.app/) · 组织维护
 
 **GPT-5 单提示生成的编码示例合集，供参考与二次创作**
 
@@ -45,12 +45,12 @@ OpenAI 维护的示例库：收录全部由 GPT-5/GPT-5.2 单次提示生成、�
 ```mermaid
 xychart-beta
     title "openai/gpt-5-coding-examples 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1908 --> 1913
-    line [1909, 1910, 1911, 1912, 1911, 1912, 1912]
+    line [1909, 1910, 1911, 1912, 1911, 1912, 1911]
 ```
 
-2026-10-18 1,909 → 2026-10-29 1,912（+3）
+2026-10-18 1,909 → 2026-10-30 1,911（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # le-liang/Multimodal-Wireless
 
-⭐ 34 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/le-liang/Multimodal-Wireless) · [官网](https://le-liang.github.io/mmw/) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/le-liang/Multimodal-Wireless) · [官网](https://le-liang.github.io/mmw/) · 个人维护 · 中文 README
 
 **多模态无线通信数据集的扩展与重放工具包**
 
@@ -45,12 +45,12 @@ Multimodal-Wireless 数据集配套的 Python 脚本与资产工具包，支持�
 ```mermaid
 xychart-beta
     title "le-liang/Multimodal-Wireless 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

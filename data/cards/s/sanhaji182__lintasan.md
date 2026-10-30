@@ -1,6 +1,6 @@
 # sanhaji182/lintasan
 
-⭐ 18 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sanhaji182/lintasan) · [官网](https://sanhaji182.github.io/lintasan/) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sanhaji182/lintasan) · [官网](https://sanhaji182.github.io/lintasan/) · 个人维护
 
 **Go 编写的自托管 LLM 网关：单一 OpenAI 兼容端点接入多家 AI 提供商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanhaji182/lintasan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

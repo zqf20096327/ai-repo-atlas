@@ -1,6 +1,6 @@
 # DECRUX9812/hermes-plugin-gameforge
 
-⭐ 42 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/DECRUX9812/hermes-plugin-gameforge) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DECRUX9812/hermes-plugin-gameforge) · 个人维护
 
 **Hermes Agent 的游戏开发插件：生成素材、构建与自动化试玩**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DECRUX9812/hermes-plugin-gameforge 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 20 --> 44
-    line [22, 37, 40, 41, 42, 42]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 20 --> 45
+    line [22, 37, 40, 41, 42, 43]
 ```
 
-2026-10-22 22 → 2026-10-29 42（+20）
+2026-10-22 22 → 2026-10-30 43（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # eric-cielo/moflo
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/eric-cielo/moflo) · [官网](https://cielolimitada.com/moflo) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/eric-cielo/moflo) · [官网](https://cielolimitada.com/moflo) · 个人维护
 
 **给 Claude Code 的本地化 AI agent 编排工具包：记忆/路由/门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eric-cielo/moflo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

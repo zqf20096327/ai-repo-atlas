@@ -41,6 +41,18 @@
 > L106: pip install -e ".[llm]"          # openai (zhihu agora ai, zhihu chat bot, crank)
 > L108: pip install -e ".[mcp]"          # mcp (the zhihu-mcp server entry point)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KrisTHL181/zhihu-cli 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-10-29 29 → 2026-10-30 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `022c47fbeab0` · [字段定义](../../DATASET.md)*

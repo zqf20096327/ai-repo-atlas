@@ -1,6 +1,6 @@
 # opea-project/GenAIExamples
 
-⭐ 739 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/opea-project/GenAIExamples) · [官网](https://opea.dev) · 组织维护
+⭐ 739 · Shell · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/opea-project/GenAIExamples) · [官网](https://opea.dev) · 组织维护
 
 **面向开发者的企业级 GenAI 应用示例集，展示 OPEA 流水线部署**
 
@@ -46,12 +46,12 @@ OPEA 项目旗下的生成式 AI 示例合集，收录 ChatQnA（RAG 问答）�
 ```mermaid
 xychart-beta
     title "opea-project/GenAIExamples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
     y-axis "stars" 737 --> 740
     line [739, 738, 739, 739]
 ```
 
-2026-10-18 739 → 2026-10-29 739（+0）
+2026-10-18 739 → 2026-10-30 739（+0）
 
 
 ---

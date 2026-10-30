@@ -39,6 +39,18 @@
 > L5: > A curated list of AI agent platforms, frameworks, protocols, tools, and resources.
 > L7: AI agents are autonomous software entities that perceive their environment, make decisions, and take actions to achi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/awesome-agents 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 103 --> 105
+    line [104, 104]
+```
+
+2026-10-29 104 → 2026-10-30 104（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3b941201707a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ngxson/wllama
 
-⭐ 1,351 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
+⭐ 1,352 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ngxson/wllama) · [官网](https://huggingface.co/spaces/ngxson/wllama) · 个人维护
 
 **llama.cpp 的 WebAssembly 绑定，在浏览器内直接运行 LLM 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ngxson/wllama 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 1339 --> 1352
-    line [1340, 1342, 1349, 1350, 1351, 1351]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 1339 --> 1353
+    line [1340, 1342, 1349, 1350, 1351, 1352]
 ```
 
-2026-10-18 1,340 → 2026-10-29 1,351（+11）
+2026-10-18 1,340 → 2026-10-30 1,352（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # pgEdge/pgedge-postgres-mcp
 
-⭐ 241 · Go · PostgreSQL · 推送 2026-10-27 · [GitHub](https://github.com/pgEdge/pgedge-postgres-mcp) · [官网](https://docs.pgedge.com/pgedge-postgres-mcp-server) · 组织维护
+⭐ 242 · Go · PostgreSQL · 推送 2026-10-29 · [GitHub](https://github.com/pgEdge/pgedge-postgres-mcp) · [官网](https://docs.pgedge.com/pgedge-postgres-mcp-server) · 组织维护
 
 **PostgreSQL MCP 服务器：让 LLM 客户端用自然语言查库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pgEdge/pgedge-postgres-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 236 --> 242
-    line [237, 239, 241, 241]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 236 --> 243
+    line [237, 239, 241, 242]
 ```
 
-2026-10-18 237 → 2026-10-29 241（+4）
+2026-10-18 237 → 2026-10-30 242（+5）
 
 
 ---

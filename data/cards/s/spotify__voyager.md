@@ -1,6 +1,6 @@
 # spotify/voyager
 
-⭐ 1,606 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/spotify/voyager) · [官网](https://spotify.github.io/voyager/) · 组织维护
+⭐ 1,607 · C++ · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/spotify/voyager) · [官网](https://spotify.github.io/voyager/) · 组织维护
 
 **面向向量嵌入的内存近似最近邻搜索库（Python/Java）**
 
@@ -44,13 +44,13 @@ Spotify 开源的近似最近邻搜索库，对内存中的向量集合执行快
 
 ```mermaid
 xychart-beta
-    title "spotify/voyager 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1603 --> 1607
-    line [1605, 1604, 1605, 1606]
+    title "spotify/voyager 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1603 --> 1608
+    line [1605, 1604, 1605, 1606, 1607]
 ```
 
-2026-10-18 1,605 → 2026-10-29 1,606（+1）
+2026-10-18 1,605 → 2026-10-30 1,607（+2）
 
 
 ---

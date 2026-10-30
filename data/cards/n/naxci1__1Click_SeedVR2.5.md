@@ -1,6 +1,6 @@
 # naxci1/1Click_SeedVR2.5
 
-⭐ 24 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/naxci1/1Click_SeedVR2.5) · [官网](https://www.youtube.com/@1Click_SeedVR2.5) · 个人维护
+⭐ 24 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/naxci1/1Click_SeedVR2.5) · [官网](https://www.youtube.com/@1Click_SeedVR2.5) · 个人维护
 
 **给普通用户的 SeedVR2 AI 视频/图像修复放大桌面 GUI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "naxci1/1Click_SeedVR2.5 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 20 --> 25
     line [21, 23, 24, 23, 24, 24]
 ```
 
-2026-10-18 21 → 2026-10-29 24（+3）
+2026-10-18 21 → 2026-10-30 24（+3）
 
 
 ---

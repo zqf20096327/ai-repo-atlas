@@ -1,6 +1,6 @@
 # Vorota-ai/shodan-mcp
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-02-12 · [GitHub](https://github.com/Vorota-ai/shodan-mcp) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-02-12 · [GitHub](https://github.com/Vorota-ai/shodan-mcp) · 组织维护
 
 **让 AI agent 在 IDE 中调用 Shodan 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vorota-ai/shodan-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 23（+1）
 
 
 ---

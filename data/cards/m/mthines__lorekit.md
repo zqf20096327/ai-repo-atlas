@@ -1,6 +1,6 @@
 # mthines/lorekit
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mthines/lorekit) · [官网](https://lorekit.io) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mthines/lorekit) · [官网](https://lorekit.io) · 个人维护
 
 **为 AI 编程 agent 提供本地/远程持久记忆的 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mthines/lorekit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

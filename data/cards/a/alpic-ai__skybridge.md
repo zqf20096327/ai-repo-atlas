@@ -1,6 +1,6 @@
 # alpic-ai/skybridge
 
-⭐ 2,178 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/alpic-ai/skybridge) · [官网](https://skybridge.tech) · 组织维护
+⭐ 2,180 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alpic-ai/skybridge) · [官网](https://skybridge.tech) · 组织维护
 
 **全栈 TypeScript/React 框架：构建 Claude/ChatGPT 的 MCP Apps**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alpic-ai/skybridge 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2160 --> 2179
-    line [2161, 2164, 2171, 2172, 2173, 2177, 2178, 2178]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2160 --> 2181
+    line [2161, 2164, 2171, 2172, 2173, 2177, 2178, 2180]
 ```
 
-2026-10-18 2,161 → 2026-10-29 2,178（+17）
+2026-10-18 2,161 → 2026-10-30 2,180（+19）
 
 
 ---

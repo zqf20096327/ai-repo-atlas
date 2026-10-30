@@ -1,6 +1,6 @@
 # hanssmail/quantQ
 
-⭐ 101 · q · GPL-3.0 · 推送 2026-03-02 · [GitHub](https://github.com/hanssmail/quantQ) · 组织维护
+⭐ 101 · q · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/hanssmail/quantQ) · 组织维护
 
 **kdb+/q 机器学习书籍配套代码库与算法库**
 
@@ -45,12 +45,12 @@ Novotny 等人《Machine Learning and Big Data with kdb+/q》一书的配套仓�
 ```mermaid
 xychart-beta
     title "hanssmail/quantQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-29 101（+0）
+2026-10-18 101 → 2026-10-30 101（+0）
 
 
 ---

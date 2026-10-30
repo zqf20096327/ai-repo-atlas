@@ -44,13 +44,13 @@ pySarah 项目提供手写文本识别（HTR）的完整工作流：数据处理
 
 ```mermaid
 xychart-beta
-    title "arthurflor23/handwritten-text-recognition 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "arthurflor23/handwritten-text-recognition 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 305 --> 309
-    line [306, 307, 308]
+    line [306, 307, 308, 308]
 ```
 
-2026-10-18 306 → 2026-10-29 308（+2）
+2026-10-18 306 → 2026-10-30 308（+2）
 
 
 ---

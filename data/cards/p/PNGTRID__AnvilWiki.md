@@ -1,6 +1,6 @@
 # PNGTRID/AnvilWiki
 
-⭐ 208 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/PNGTRID/AnvilWiki) · [官网](http://anvil.wiki/zh/landing/) · 个人维护 · 中文 README
+⭐ 209 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PNGTRID/AnvilWiki) · [官网](http://anvil.wiki/zh/landing/) · 个人维护 · 中文 README
 
 **面向零基础用户的开源游戏 wiki 站模板，带 AI 产页工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PNGTRID/AnvilWiki 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 199 --> 209
-    line [200, 201, 203, 205, 206, 207, 208]
+    title "PNGTRID/AnvilWiki 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 199 --> 210
+    line [200, 201, 203, 205, 206, 207, 208, 209]
 ```
 
-2026-10-18 200 → 2026-10-29 208（+8）
+2026-10-18 200 → 2026-10-30 209（+9）
 
 
 ---

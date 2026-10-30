@@ -1,6 +1,6 @@
 # MacPaw/OpenAI
 
-⭐ 2,954 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MacPaw/OpenAI) · 组织维护
+⭐ 2,956 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MacPaw/OpenAI) · 组织维护
 
 **Swift 社区维护的 OpenAI API 客户端 SDK，供 iOS/macOS 开发者调用**
 
@@ -45,12 +45,12 @@ MacPaw 维护的 Swift 包，按 OpenAI REST API 文档封装类型与方法，�
 ```mermaid
 xychart-beta
     title "MacPaw/OpenAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2949 --> 2955
-    line [2950, 2951, 2952, 2953, 2954, 2954]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2949 --> 2957
+    line [2950, 2951, 2952, 2953, 2954, 2956]
 ```
 
-2026-10-18 2,950 → 2026-10-29 2,954（+4）
+2026-10-18 2,950 → 2026-10-30 2,956（+6）
 
 
 ---

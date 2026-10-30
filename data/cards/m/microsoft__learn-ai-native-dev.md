@@ -1,6 +1,6 @@
 # microsoft/learn-ai-native-dev
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/learn-ai-native-dev) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/learn-ai-native-dev) · 组织维护
 
 **微软的 agentic coding 实践课程站：学 AI 原生开发直觉**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/learn-ai-native-dev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 22（+2）
 
 
 ---

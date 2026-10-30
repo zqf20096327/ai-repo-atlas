@@ -1,6 +1,6 @@
 # huggingface/swift-transformers
 
-⭐ 1,364 · Swift · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
+⭐ 1,365 · Swift · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
 
 **在 Swift 应用中接入语言模型的工具库**
 
@@ -45,12 +45,12 @@ Hugging Face 维护的 Swift Package，提供与 Python transformers 库风格�
 ```mermaid
 xychart-beta
     title "huggingface/swift-transformers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1359 --> 1365
-    line [1360, 1361, 1363, 1364, 1364]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1359 --> 1366
+    line [1360, 1361, 1363, 1364, 1365]
 ```
 
-2026-10-18 1,360 → 2026-10-29 1,364（+4）
+2026-10-18 1,360 → 2026-10-30 1,365（+5）
 
 
 ---

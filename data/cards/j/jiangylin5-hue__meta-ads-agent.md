@@ -1,6 +1,6 @@
 # jiangylin5-hue/meta-ads-agent
 
-⭐ 76 · Python · 推送 2026-10-19 · [GitHub](https://github.com/jiangylin5-hue/meta-ads-agent) · 个人维护
+⭐ 81 · Python · 推送 2026-10-19 · [GitHub](https://github.com/jiangylin5-hue/meta-ads-agent) · 个人维护
 
 **面向 Meta 广告运营的有界 AI 副驾驶，带审批式草稿工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiangylin5-hue/meta-ads-agent 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8 --> 82
-    line [14, 22, 30, 37, 48, 55, 67, 76]
+    title "jiangylin5-hue/meta-ads-agent 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 8 --> 87
+    line [14, 22, 30, 37, 48, 55, 67, 76, 81]
 ```
 
-2026-10-22 14 → 2026-10-29 76（+62）
+2026-10-22 14 → 2026-10-30 81（+67）
 
 
 ---

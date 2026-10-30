@@ -1,6 +1,6 @@
 # Stanford-Trinity/ARTEMIS
 
-⭐ 547 · Rust · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/Stanford-Trinity/ARTEMIS) · 组织维护
+⭐ 548 · Rust · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/Stanford-Trinity/ARTEMIS) · 组织维护
 
 **自动化漏洞发现的多智能体红队引擎**
 
@@ -44,13 +44,13 @@ Stanford Trinity 项目的自主红队代理：由监督者（supervisor）调�
 
 ```mermaid
 xychart-beta
-    title "Stanford-Trinity/ARTEMIS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29"]
+    title "Stanford-Trinity/ARTEMIS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 546 --> 550
-    line [549, 548, 547, 548, 547]
+    line [549, 548, 547, 548, 547, 548]
 ```
 
-2026-10-18 549 → 2026-10-29 547（-2）
+2026-10-18 549 → 2026-10-30 548（-1）
 
 
 ---

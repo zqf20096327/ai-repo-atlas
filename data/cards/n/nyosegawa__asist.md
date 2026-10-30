@@ -1,6 +1,6 @@
 # nyosegawa/asist
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nyosegawa/asist) · [官网](https://asist-agent.com) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/nyosegawa/asist) · [官网](https://asist-agent.com) · 个人维护 · 中文 README
 
 **Mac/Windows 实时语音助手：对话、日程邮件卡片与代理任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nyosegawa/asist 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 27 --> 31
     line [28, 29, 30, 30]
 ```
 
-2026-10-18 28 → 2026-10-29 30（+2）
+2026-10-18 28 → 2026-10-30 30（+2）
 
 
 ---

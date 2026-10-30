@@ -1,6 +1,6 @@
 # Onenightcarnival/agent-engineering-philosophy
 
-⭐ 124 · Shell · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/Onenightcarnival/agent-engineering-philosophy) · [官网](https://onenightcarnival.github.io/agent-engineering-philosophy/) · 个人维护 · 中文 README
+⭐ 125 · Shell · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/Onenightcarnival/agent-engineering-philosophy) · [官网](https://onenightcarnival.github.io/agent-engineering-philosophy/) · 个人维护 · 中文 README
 
 **把 agent 视作打工人的 AI 工程哲学书籍（写作中）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onenightcarnival/agent-engineering-philosophy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 113 --> 125
-    line [114, 117, 119, 121, 123, 124]
+    title "Onenightcarnival/agent-engineering-philosophy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 113 --> 126
+    line [114, 117, 119, 121, 123, 124, 125]
 ```
 
-2026-10-18 114 → 2026-10-29 124（+10）
+2026-10-18 114 → 2026-10-30 125（+11）
 
 
 ---

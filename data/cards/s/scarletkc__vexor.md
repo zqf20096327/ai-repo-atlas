@@ -1,6 +1,6 @@
 # scarletkc/vexor
 
-⭐ 247 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/scarletkc/vexor) · [官网](https://pypi.org/project/vexor/) · 个人维护 · 中文 README
+⭐ 247 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/scarletkc/vexor) · [官网](https://pypi.org/project/vexor/) · 个人维护 · 中文 README
 
 **面向人类与 AI 助手的文件与代码语义搜索引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scarletkc/vexor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 243 --> 248
     line [244, 245, 246, 247, 247]
 ```
 
-2026-10-18 244 → 2026-10-29 247（+3）
+2026-10-18 244 → 2026-10-30 247（+3）
 
 
 ---

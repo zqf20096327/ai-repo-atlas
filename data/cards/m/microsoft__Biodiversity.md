@@ -1,6 +1,6 @@
 # microsoft/Biodiversity
 
-⭐ 1,087 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Biodiversity) · [官网](https://microsoft.github.io/Biodiversity/) · 组织维护
+⭐ 1,088 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/Biodiversity) · [官网](https://microsoft.github.io/Biodiversity/) · 组织维护
 
 **微软生物多样性 AI 项目集线仓库：聚合各保护 AI 子项目**
 
@@ -43,13 +43,13 @@ Microsoft AI for Good Lab 的生物多样性研究集线仓库：本仓库自身
 
 ```mermaid
 xychart-beta
-    title "microsoft/Biodiversity 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 1083 --> 1088
-    line [1084, 1085, 1086, 1087]
+    title "microsoft/Biodiversity 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1083 --> 1089
+    line [1084, 1085, 1086, 1087, 1088]
 ```
 
-2026-10-18 1,084 → 2026-10-29 1,087（+3）
+2026-10-18 1,084 → 2026-10-30 1,088（+4）
 
 
 ---

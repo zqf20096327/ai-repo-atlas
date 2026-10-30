@@ -1,6 +1,6 @@
 # wppconnect-team/wppconnect
 
-⭐ 3,512 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/wppconnect-team/wppconnect) · [官网](https://wppconnect.io) · 组织维护
+⭐ 3,513 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/wppconnect-team/wppconnect) · [官网](https://wppconnect.io) · 组织维护
 
 **Node.js 库：导出 WhatsApp Web 功能供构建聊天机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wppconnect-team/wppconnect 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 3489 --> 3514
-    line [3491, 3502, 3507, 3508, 3510, 3509, 3512]
+    title "wppconnect-team/wppconnect 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3489 --> 3515
+    line [3491, 3502, 3507, 3508, 3510, 3509, 3512, 3513]
 ```
 
-2026-10-18 3,491 → 2026-10-29 3,512（+21）
+2026-10-18 3,491 → 2026-10-30 3,513（+22）
 
 
 ---

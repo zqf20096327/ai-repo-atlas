@@ -1,6 +1,6 @@
 # bluegalaxy111/awesome-vibe-coding
 
-⭐ 55 · Python · CC0-1.0 · 推送 2026-04-19 · [GitHub](https://github.com/bluegalaxy111/awesome-vibe-coding) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI 编程工具精选清单：300+ 工具平台与选型指南**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # sp-nitech/diffsptk
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sp-nitech/diffsptk) · [官网](http://sp-tk.sourceforge.net) · 组织维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/sp-nitech/diffsptk) · [官网](http://sp-tk.sourceforge.net) · 组织维护
 
 **可微分语音信号处理工具库：SPTK 的 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sp-nitech/diffsptk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 201 --> 203
     line [202, 202]
 ```
 
-2026-10-18 202 → 2026-10-29 202（+0）
+2026-10-18 202 → 2026-10-30 202（+0）
 
 
 ---

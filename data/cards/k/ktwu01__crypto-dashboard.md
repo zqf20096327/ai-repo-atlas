@@ -1,6 +1,6 @@
 # ktwu01/crypto-dashboard
 
-⭐ 24 · TypeScript · 推送 2026-06-30 · [GitHub](https://github.com/ktwu01/crypto-dashboard) · [官网](https://ktwu01.github.io/crypto-dashboard/) · 个人维护
+⭐ 25 · TypeScript · 推送 2026-06-30 · [GitHub](https://github.com/ktwu01/crypto-dashboard) · [官网](https://ktwu01.github.io/crypto-dashboard/) · 个人维护
 
 **加密货币行情与投资组合分析仪表盘，AI 洞察为规划功能**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ktwu01/crypto-dashboard 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

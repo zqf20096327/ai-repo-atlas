@@ -1,6 +1,6 @@
 # zero2005x/ipasAI
 
-⭐ 27 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/zero2005x/ipasAI) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/zero2005x/ipasAI) · 个人维护 · 中文 README
 
 **iPAS AI 应用规划师（中级）备考开源教科书与题库（三册）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zero2005x/ipasAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 28]
 ```
 
-2026-10-18 24 → 2026-10-29 27（+3）
+2026-10-18 24 → 2026-10-30 28（+4）
 
 
 ---

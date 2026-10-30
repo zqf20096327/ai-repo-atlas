@@ -1,6 +1,6 @@
 # chenxiachan/thoughtdag
 
-⭐ 716 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
+⭐ 719 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
 
 **把 LLM 对话组织成无限画布思维图的桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenxiachan/thoughtdag 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 643 --> 722
-    line [649, 656, 671, 677, 683, 693, 696, 703, 712, 716]
+    title "chenxiachan/thoughtdag 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 642 --> 726
+    line [649, 656, 671, 677, 683, 693, 696, 703, 712, 716, 719]
 ```
 
-2026-10-18 649 → 2026-10-29 716（+67）
+2026-10-18 649 → 2026-10-30 719（+70）
 
 
 ---

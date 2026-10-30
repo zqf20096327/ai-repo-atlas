@@ -1,6 +1,6 @@
 # open-mmlab/labelbee
 
-⭐ 304 · TypeScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/open-mmlab/labelbee) · 组织维护 · 中文 README
+⭐ 305 · TypeScript · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/open-mmlab/labelbee) · 组织维护 · 中文 README
 
 **前端标注渲染与组件库，用于快速搭建数据标注应用**
 
@@ -43,12 +43,12 @@ OpenMMLab 维护的标注场景前端库，分为 lb-annotation 渲染库与 lb-
 ```mermaid
 xychart-beta
     title "open-mmlab/labelbee 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 302 --> 305
-    line [303, 304, 304]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 302 --> 306
+    line [303, 304, 305]
 ```
 
-2026-10-18 303 → 2026-10-29 304（+1）
+2026-10-18 303 → 2026-10-30 305（+2）
 
 
 ---

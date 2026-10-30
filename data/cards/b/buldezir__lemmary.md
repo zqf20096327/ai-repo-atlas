@@ -1,6 +1,6 @@
 # buldezir/lemmary
 
-⭐ 85 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/buldezir/lemmary) · [官网](https://lemmary.app) · 个人维护
+⭐ 86 · Go · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/buldezir/lemmary) · [官网](https://lemmary.app) · 个人维护
 
 **自托管文档库：扫描/PDF/办公文件上传、OCR 与 AI 元数据提取、自然语言检索**
 
@@ -45,12 +45,12 @@ Go + PocketBase 后端与 React 前端的自托管文档管理系统。上传 PD
 ```mermaid
 xychart-beta
     title "buldezir/lemmary 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 84, 85, 85]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 84, 85, 86]
 ```
 
-2026-10-18 84 → 2026-10-29 85（+1）
+2026-10-18 84 → 2026-10-30 86（+2）
 
 
 ---

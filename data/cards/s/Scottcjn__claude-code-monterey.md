@@ -40,6 +40,18 @@
 > L1: # Claude Code for macOS Monterey (12.x)
 > L12: ## Installation Steps
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/claude-code-monterey 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 78 --> 80
+    line [79, 79]
+```
+
+2026-10-29 79 → 2026-10-30 79（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `e75cf00079c4` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # RealDealCPA-VR/Iron-Jarvis
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/RealDealCPA-VR/Iron-Jarvis) · [官网](https://www.realdealcpa.ai) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/RealDealCPA-VR/Iron-Jarvis) · [官网](https://www.realdealcpa.ai) · 个人维护
 
 **本地优先的桌面 AI 控制台：统一编排模型、Agent、工具与本机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RealDealCPA-VR/Iron-Jarvis 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-29"]
+    title "RealDealCPA-VR/Iron-Jarvis 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 62 --> 66
-    line [63, 64, 65]
+    line [63, 64, 65, 65]
 ```
 
-2026-10-19 63 → 2026-10-29 65（+2）
+2026-10-19 63 → 2026-10-30 65（+2）
 
 
 ---

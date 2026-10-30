@@ -1,6 +1,6 @@
 # anakin87/llm-rl-environments-lil-course
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/anakin87/llm-rl-environments-lil-course) · 个人维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/anakin87/llm-rl-environments-lil-course) · 个人维护
 
 **面向 LLM 的强化学习环境小课程：构建井字棋环境训练小模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anakin87/llm-rl-environments-lil-course 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 234 --> 240
-    line [235, 236, 237, 239]
+    title "anakin87/llm-rl-environments-lil-course 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 234 --> 242
+    line [235, 236, 237, 239, 241]
 ```
 
-2026-10-18 235 → 2026-10-29 239（+4）
+2026-10-18 235 → 2026-10-30 241（+6）
 
 
 ---

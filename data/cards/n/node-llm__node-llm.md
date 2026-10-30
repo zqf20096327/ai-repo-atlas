@@ -1,6 +1,6 @@
 # node-llm/node-llm
 
-⭐ 40 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/node-llm/node-llm) · [官网](https://nodellm.dev) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/node-llm/node-llm) · [官网](https://nodellm.dev) · 组织维护
 
 **Node.js 的多提供商 LLM 后端编排 SDK，统一 540+ 模型 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "node-llm/node-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-10-29 40（+1）
+2026-10-18 39 → 2026-10-30 40（+1）
 
 
 ---

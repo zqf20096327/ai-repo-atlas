@@ -45,13 +45,13 @@ KodeAgent 是一个基于 Python 3.10+ 的无框架式 AI agent 构建库，定�
 
 ```mermaid
 xychart-beta
-    title "barun-saha/kodeagent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "barun-saha/kodeagent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 42 --> 46
-    line [43, 44, 45]
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-10-29 45（+2）
+2026-10-18 43 → 2026-10-30 45（+2）
 
 
 ---

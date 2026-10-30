@@ -1,6 +1,6 @@
 # FireRedTeam/FireRed-Image-Edit
 
-⭐ 1,381 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/FireRedTeam/FireRed-Image-Edit) · 组织维护 · 中文 README
+⭐ 1,382 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/FireRedTeam/FireRed-Image-Edit) · 组织维护 · 中文 README
 
 **开源图像编辑基础模型：按指令高保真编辑与多元素融合**
 
@@ -46,13 +46,13 @@ FireRedTeam 发布的通用图像编辑扩散模型（1.0/1.1/蒸馏版），基
 
 ```mermaid
 xychart-beta
-    title "FireRedTeam/FireRed-Image-Edit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 1378 --> 1382
-    line [1380, 1379, 1380, 1381]
+    title "FireRedTeam/FireRed-Image-Edit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1378 --> 1383
+    line [1380, 1379, 1380, 1381, 1382]
 ```
 
-2026-10-18 1,380 → 2026-10-29 1,381（+1）
+2026-10-18 1,380 → 2026-10-30 1,382（+2）
 
 
 ---

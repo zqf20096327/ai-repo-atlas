@@ -1,6 +1,6 @@
 # microsoft/cat-agent-skills
 
-⭐ 93 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/cat-agent-skills) · 组织维护
+⭐ 94 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/cat-agent-skills) · 组织维护
 
 **微软维护的 agent 技能社区画廊站点：供 Copilot Studio/Cowork/Scout 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/cat-agent-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 85 --> 94
-    line [86, 89, 90, 93, 93]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 85 --> 95
+    line [86, 89, 90, 93, 94]
 ```
 
-2026-10-18 86 → 2026-10-29 93（+7）
+2026-10-18 86 → 2026-10-30 94（+8）
 
 
 ---

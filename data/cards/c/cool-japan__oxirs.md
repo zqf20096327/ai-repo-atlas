@@ -1,6 +1,6 @@
 # cool-japan/oxirs
 
-⭐ 100 · Rust · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/cool-japan/oxirs) · [官网](https://github.com/cool-japan/oxirs) · 组织维护
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/cool-japan/oxirs) · [官网](https://github.com/cool-japan/oxirs) · 组织维护
 
 **Rust 实现的语义网平台：SPARQL 1.2/GraphQL 服务与 AI 增强推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cool-japan/oxirs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 95 --> 101
-    line [96, 98, 99, 100, 100]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 95 --> 102
+    line [96, 98, 99, 100, 101]
 ```
 
-2026-10-18 96 → 2026-10-29 100（+4）
+2026-10-18 96 → 2026-10-30 101（+5）
 
 
 ---

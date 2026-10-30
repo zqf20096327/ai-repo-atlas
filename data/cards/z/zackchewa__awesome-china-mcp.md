@@ -1,6 +1,6 @@
 # zackchewa/awesome-china-mcp
 
-⭐ 52 · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/zackchewa/awesome-china-mcp) · 个人维护 · 中文 README
+⭐ 56 · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/zackchewa/awesome-china-mcp) · 个人维护 · 中文 README
 
 **面向中国应用与服务的 MCP Server 策展索引（官方优先）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zackchewa/awesome-china-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 26 --> 54
-    line [28, 31, 40, 41, 43, 46, 49, 50, 52]
+    title "zackchewa/awesome-china-mcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 26 --> 58
+    line [28, 31, 40, 41, 43, 46, 49, 50, 52, 56]
 ```
 
-2026-10-18 28 → 2026-10-29 52（+24）
+2026-10-18 28 → 2026-10-30 56（+28）
 
 
 ---

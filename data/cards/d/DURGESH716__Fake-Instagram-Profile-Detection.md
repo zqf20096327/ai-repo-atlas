@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DURGESH716/Fake-Instagram-Profile-Detection 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-24", "2026-10-30"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-24 53 → 2026-10-29 53（+0）
+2026-10-24 53 → 2026-10-30 53（+0）
 
 
 ---

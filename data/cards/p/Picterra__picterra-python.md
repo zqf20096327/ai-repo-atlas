@@ -46,12 +46,12 @@ Picterra 官方维护的 Python 客户端库：通过 APIClient 封装对 Picter
 ```mermaid
 xychart-beta
     title "Picterra/picterra-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

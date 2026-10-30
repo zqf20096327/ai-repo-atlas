@@ -1,6 +1,6 @@
 # open-mmlab/mmengine
 
-⭐ 1,506 · Python · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/open-mmlab/mmengine) · [官网](https://mmengine.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 1,507 · Python · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/open-mmlab/mmengine) · [官网](https://mmengine.readthedocs.io/) · 组织维护 · 中文 README
 
 **基于 PyTorch 的深度学习模型训练基础库**
 
@@ -45,12 +45,12 @@ OpenMMLab 各代码库的统一训练引擎，也可用于非 OpenMMLab 项目�
 ```mermaid
 xychart-beta
     title "open-mmlab/mmengine 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1499 --> 1507
-    line [1500, 1502, 1503, 1505, 1506, 1506]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1499 --> 1508
+    line [1500, 1502, 1503, 1505, 1506, 1507]
 ```
 
-2026-10-18 1,500 → 2026-10-29 1,506（+6）
+2026-10-18 1,500 → 2026-10-30 1,507（+7）
 
 
 ---

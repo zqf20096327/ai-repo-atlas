@@ -1,6 +1,6 @@
 # DocRoms/Kronn
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/DocRoms/Kronn) · 个人维护 · 中文 README
+⭐ 18 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/DocRoms/Kronn) · 个人维护 · 中文 README
 
 **自托管 AI 编程 agent 控制面：统一运行多个 CLI agent 与本地模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DocRoms/Kronn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

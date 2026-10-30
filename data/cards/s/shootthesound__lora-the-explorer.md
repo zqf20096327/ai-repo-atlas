@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shootthesound/lora-the-explorer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-29 59（+0）
+2026-10-18 59 → 2026-10-30 59（+0）
 
 
 ---

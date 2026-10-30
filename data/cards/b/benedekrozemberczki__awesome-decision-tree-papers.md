@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "benedekrozemberczki/awesome-decision-tree-papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    title "benedekrozemberczki/awesome-decision-tree-papers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2476 --> 2480
-    line [2477, 2478, 2479]
+    line [2477, 2478, 2479, 2479]
 ```
 
-2026-10-18 2,477 → 2026-10-29 2,479（+2）
+2026-10-18 2,477 → 2026-10-30 2,479（+2）
 
 
 ---

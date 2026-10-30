@@ -1,6 +1,6 @@
 # Xiaoyangy/novel-studio
 
-⭐ 150 · Go · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/Xiaoyangy/novel-studio) · 个人维护 · 中文 README
+⭐ 151 · Go · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/Xiaoyangy/novel-studio) · 个人维护 · 中文 README
 
 **本地优先的 AI 长篇小说创作引擎：多智能体推演与逐章审核**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xiaoyangy/novel-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 138 --> 151
-    line [139, 143, 145, 146, 148, 149, 150]
+    title "Xiaoyangy/novel-studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 138 --> 152
+    line [139, 143, 145, 146, 148, 149, 150, 151]
 ```
 
-2026-10-18 139 → 2026-10-29 150（+11）
+2026-10-18 139 → 2026-10-30 151（+12）
 
 
 ---

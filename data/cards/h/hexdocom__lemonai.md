@@ -1,6 +1,6 @@
 # hexdocom/lemonai
 
-⭐ 1,571 · JavaScript · NOASSERTION · 推送 2026-02-03 · [GitHub](https://github.com/hexdocom/lemonai) · [官网](https://lemonai.cc) · 组织维护 · 中文 README
+⭐ 1,572 · JavaScript · NOASSERTION · 推送 2026-02-03 · [GitHub](https://github.com/hexdocom/lemonai) · [官网](https://lemonai.cc) · 组织维护 · 中文 README
 
 **本地全栈通用 AI Agent，可替代 Manus/Genspark 类平台**
 
@@ -45,12 +45,12 @@ Lemon AI 是开源全栈通用 AI Agent 平台，面向需要在本地硬件运�
 ```mermaid
 xychart-beta
     title "hexdocom/lemonai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1569 --> 1572
-    line [1571, 1570, 1571, 1571]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1569 --> 1573
+    line [1571, 1570, 1571, 1572]
 ```
 
-2026-10-18 1,571 → 2026-10-29 1,571（+0）
+2026-10-18 1,571 → 2026-10-30 1,572（+1）
 
 
 ---

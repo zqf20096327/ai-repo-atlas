@@ -1,6 +1,6 @@
 # Cassette-Editor/oh-my-cassette
 
-⭐ 128 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Cassette-Editor/oh-my-cassette) · [官网](https://cassette-editor.github.io/oh-my-cassette/) · 组织维护 · 中文 README
+⭐ 144 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Cassette-Editor/oh-my-cassette) · [官网](https://cassette-editor.github.io/oh-my-cassette/) · 组织维护 · 中文 README
 
 **让 Claude Code/Codex 等编码 agent 对话式剪辑视频的 MCP 桥接插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cassette-Editor/oh-my-cassette 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 116 --> 129
-    line [121, 122, 117, 118, 125, 128]
+    title "Cassette-Editor/oh-my-cassette 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 115 --> 146
+    line [121, 122, 117, 118, 125, 128, 144]
 ```
 
-2026-10-18 121 → 2026-10-29 128（+7）
+2026-10-18 121 → 2026-10-30 144（+23）
 
 
 ---

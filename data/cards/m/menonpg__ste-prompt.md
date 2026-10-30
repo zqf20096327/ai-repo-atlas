@@ -1,6 +1,6 @@
 # menonpg/ste-prompt
 
-⭐ 41 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/menonpg/ste-prompt) · 个人维护
+⭐ 43 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/menonpg/ste-prompt) · 个人维护
 
 **让编码 agent 用简化技术英语（ASD-STE100）写作的规则插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "menonpg/ste-prompt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 43]
 ```
 
-2026-10-18 39 → 2026-10-29 41（+2）
+2026-10-18 39 → 2026-10-30 43（+4）
 
 
 ---

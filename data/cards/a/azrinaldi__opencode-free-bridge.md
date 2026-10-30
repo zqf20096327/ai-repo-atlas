@@ -1,6 +1,6 @@
 # azrinaldi/opencode-free-bridge
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/azrinaldi/opencode-free-bridge) · 个人维护
+⭐ 79 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/azrinaldi/opencode-free-bridge) · 个人维护
 
 **把 OpenCode 免费层模型桥接为本地 OpenAI 兼容 API，无需账号**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "azrinaldi/opencode-free-bridge 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 25 --> 81
-    line [29, 61, 68, 69, 70, 73, 75, 77]
+    title "azrinaldi/opencode-free-bridge 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 24 --> 84
+    line [29, 61, 68, 69, 70, 73, 75, 77, 79]
 ```
 
-2026-10-18 29 → 2026-10-29 77（+48）
+2026-10-18 29 → 2026-10-30 79（+50）
 
 
 ---

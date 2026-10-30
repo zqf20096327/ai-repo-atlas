@@ -1,6 +1,6 @@
 # smclab/openk9
 
-⭐ 51 · Java · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/smclab/openk9) · [官网](https://www.openk9.io) · 组织维护
+⭐ 51 · Java · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/smclab/openk9) · [官网](https://www.openk9.io) · 组织维护
 
 **面向企业的开源认知搜索引擎，用 ML 增强非结构化数据检索**
 
@@ -45,12 +45,12 @@ OpenK9 是一个开源认知搜索引擎，采用可扩展微服务架构，用�
 ```mermaid
 xychart-beta
     title "smclab/openk9 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 51（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # orionsheep/wordlink
 
-⭐ 249 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/orionsheep/wordlink) · [官网](https://wordlink.lifeplayertribe.com) · 组织维护 · 中文 README
+⭐ 257 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/orionsheep/wordlink) · [官网](https://wordlink.lifeplayertribe.com) · 组织维护 · 中文 README
 
 **基于 326k 词链图的英语词汇学习工作台，附微调模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "orionsheep/wordlink 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 223 --> 251
-    line [225, 249]
+    title "orionsheep/wordlink 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 222 --> 260
+    line [225, 249, 257]
 ```
 
-2026-10-28 225 → 2026-10-29 249（+24）
+2026-10-28 225 → 2026-10-30 257（+32）
 
 
 ---

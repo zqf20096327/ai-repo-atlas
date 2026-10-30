@@ -1,6 +1,6 @@
 # yeahhe365/Gemini-Nexus
 
-⭐ 1,127 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/yeahhe365/Gemini-Nexus) · 个人维护 · 中文 README
+⭐ 1,125 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/yeahhe365/Gemini-Nexus) · 个人维护 · 中文 README
 
 **浏览器 AI 助手扩展：多模型对话与浏览器自动化控制**
 
@@ -45,13 +45,13 @@ Chrome 扩展（Manifest V3、TypeScript/Vite），把 Gemini Web（逆向 RPC �
 
 ```mermaid
 xychart-beta
-    title "yeahhe365/Gemini-Nexus 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "yeahhe365/Gemini-Nexus 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1122 --> 1128
-    line [1125, 1124, 1125, 1124, 1123, 1125, 1127]
+    line [1125, 1124, 1125, 1124, 1123, 1125, 1127, 1125]
 ```
 
-2026-10-18 1,125 → 2026-10-29 1,127（+2）
+2026-10-18 1,125 → 2026-10-30 1,125（+0）
 
 
 ---

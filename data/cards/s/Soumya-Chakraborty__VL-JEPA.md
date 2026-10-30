@@ -1,6 +1,6 @@
 # Soumya-Chakraborty/VL-JEPA
 
-⭐ 23 · Python · 推送 2026-02-20 · [GitHub](https://github.com/Soumya-Chakraborty/VL-JEPA) · 个人维护
+⭐ 24 · Python · 推送 2026-02-20 · [GitHub](https://github.com/Soumya-Chakraborty/VL-JEPA) · 个人维护
 
 **VL-JEPA 视觉-语言联合嵌入预测架构的论文复现实现**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Soumya-Chakraborty/VL-JEPA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 24（+1）
 
 
 ---

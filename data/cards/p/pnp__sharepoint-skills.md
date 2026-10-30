@@ -1,6 +1,6 @@
 # pnp/sharepoint-skills
 
-⭐ 140 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pnp/sharepoint-skills) · [官网](https://pnp.github.io/sharepoint-skills/) · 组织维护
+⭐ 141 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/pnp/sharepoint-skills) · [官网](https://pnp.github.io/sharepoint-skills/) · 组织维护
 
 **面向 SharePoint Copilot 的 AI 技能策展库，技能可直接安装**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "pnp/sharepoint-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 137 --> 141
-    line [138, 139, 140, 140]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 137 --> 142
+    line [138, 139, 140, 141]
 ```
 
-2026-10-18 138 → 2026-10-29 140（+2）
+2026-10-18 138 → 2026-10-30 141（+3）
 
 
 ---

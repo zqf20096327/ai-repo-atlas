@@ -1,6 +1,6 @@
 # openfactcheck-research/openfactcheck
 
-⭐ 31 · Python · AGPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/openfactcheck-research/openfactcheck) · [官网](https://openfactcheck.com) · 组织维护
+⭐ 32 · Python · AGPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/openfactcheck-research/openfactcheck) · [官网](https://openfactcheck.com) · 组织维护
 
 **LLM 事实性评估的开源演示工具**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "openfactcheck-research/openfactcheck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 32（+1）
 
 
 ---

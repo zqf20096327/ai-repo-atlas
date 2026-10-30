@@ -1,6 +1,6 @@
 # dollarser/kaoyan-199-guanzong-real-exams
 
-⭐ 24 · Python · 推送 2026-09-15 · [GitHub](https://github.com/dollarser/kaoyan-199-guanzong-real-exams) · 个人维护 · 中文 README
+⭐ 25 · Python · 推送 2026-09-15 · [GitHub](https://github.com/dollarser/kaoyan-199-guanzong-real-exams) · 个人维护 · 中文 README
 
 **考研管综 199 历年真题结构化题库，附 RAG 切分库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dollarser/kaoyan-199-guanzong-real-exams 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 10 --> 25
-    line [11, 13, 19, 20, 21, 22, 24]
+    title "dollarser/kaoyan-199-guanzong-real-exams 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 10 --> 26
+    line [11, 13, 19, 20, 21, 22, 24, 25]
 ```
 
-2026-10-18 11 → 2026-10-29 24（+13）
+2026-10-18 11 → 2026-10-30 25（+14）
 
 
 ---

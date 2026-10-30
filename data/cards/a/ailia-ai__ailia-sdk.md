@@ -1,6 +1,6 @@
 # ailia-ai/ailia-sdk
 
-⭐ 41 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/ailia-ai/ailia-sdk) · 组织维护
+⭐ 41 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/ailia-ai/ailia-sdk) · 组织维护
 
 **跨平台 ONNX 推理引擎 SDK，含模型库与多语言绑定**
 
@@ -44,13 +44,13 @@ ailia SDK 是支持跨平台运行的推理引擎：读取 ONNX 模型，经 Met
 
 ```mermaid
 xychart-beta
-    title "ailia-ai/ailia-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "ailia-ai/ailia-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 40 --> 43
-    line [42, 41]
+    line [42, 41, 41]
 ```
 
-2026-10-18 42 → 2026-10-29 41（-1）
+2026-10-18 42 → 2026-10-30 41（-1）
 
 
 ---

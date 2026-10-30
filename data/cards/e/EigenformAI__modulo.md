@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EigenformAI/modulo 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    title "EigenformAI/modulo 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3 --> 19
-    line [4, 18]
+    line [4, 18, 18]
 ```
 
-2026-10-28 4 → 2026-10-29 18（+14）
+2026-10-28 4 → 2026-10-30 18（+14）
 
 
 ---

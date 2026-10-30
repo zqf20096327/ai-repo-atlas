@@ -1,6 +1,6 @@
 # ddxfish/sapphire
 
-⭐ 320 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ddxfish/sapphire) · [官网](https://sapphireblue.dev/) · 个人维护
+⭐ 321 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ddxfish/sapphire) · [官网](https://sapphireblue.dev/) · 个人维护
 
 **自托管的语音 AI 伴侣/agent 框架，可定制人格与长期记忆**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ddxfish/sapphire 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 316 --> 321
-    line [317, 318, 319, 320, 320]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 316 --> 322
+    line [317, 318, 319, 320, 321]
 ```
 
-2026-10-18 317 → 2026-10-29 320（+3）
+2026-10-18 317 → 2026-10-30 321（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # monkey2jack/aiduMEI
 
-⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/monkey2jack/aiduMEI) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/monkey2jack/aiduMEI) · 个人维护 · 中文 README
 
 **给 AI Agent 用的单机自托管长期记忆引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "monkey2jack/aiduMEI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

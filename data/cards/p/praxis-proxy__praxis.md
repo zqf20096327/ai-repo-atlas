@@ -1,6 +1,6 @@
 # praxis-proxy/praxis
 
-⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/praxis-proxy/praxis) · [官网](https://praxis.fast) · 组织维护
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/praxis-proxy/praxis) · [官网](https://praxis.fast) · 组织维护
 
 **Rust 编写的代理服务器构建框架**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "praxis-proxy/praxis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "praxis-proxy/praxis 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 92 --> 102
-    line [93, 95, 96, 97, 98, 100, 101]
+    line [93, 95, 96, 97, 98, 100, 101, 101]
 ```
 
-2026-10-18 93 → 2026-10-29 101（+8）
+2026-10-18 93 → 2026-10-30 101（+8）
 
 
 ---

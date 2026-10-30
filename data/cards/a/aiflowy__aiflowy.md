@@ -1,6 +1,6 @@
 # aiflowy/aiflowy
 
-⭐ 791 · Vue · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/aiflowy/aiflowy) · [官网](https://aiflowy.tech) · 组织维护 · 中文 README
+⭐ 792 · Vue · NOASSERTION · 推送 2026-06-15 · [GitHub](https://github.com/aiflowy/aiflowy) · [官网](https://aiflowy.tech) · 组织维护 · 中文 README
 
 **Java 企业级 AI 应用开发平台：Bot/RAG/工作流一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiflowy/aiflowy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 784 --> 792
-    line [785, 786, 787, 789, 790, 791, 791]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 784 --> 793
+    line [785, 786, 787, 789, 790, 791, 792]
 ```
 
-2026-10-18 785 → 2026-10-29 791（+6）
+2026-10-18 785 → 2026-10-30 792（+7）
 
 
 ---

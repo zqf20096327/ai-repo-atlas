@@ -1,6 +1,6 @@
 # Hermes-Deck/hermes-deck
 
-⭐ 52 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/Hermes-Deck/hermes-deck) · 组织维护
+⭐ 52 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/Hermes-Deck/hermes-deck) · 组织维护
 
 **管理 Hermes agent 的桌面客户端：聊天、监控与控制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hermes-Deck/hermes-deck 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 37 --> 53
     line [38, 45, 47, 50, 51, 52, 52]
 ```
 
-2026-10-18 38 → 2026-10-29 52（+14）
+2026-10-18 38 → 2026-10-30 52（+14）
 
 
 ---

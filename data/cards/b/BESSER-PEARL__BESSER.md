@@ -1,6 +1,6 @@
 # BESSER-PEARL/BESSER
 
-⭐ 199 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BESSER-PEARL/BESSER) · [官网](https://besser.readthedocs.io/en/latest/) · 组织维护
+⭐ 199 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BESSER-PEARL/BESSER) · [官网](https://besser.readthedocs.io/en/latest/) · 组织维护
 
 **画 UML 模型即生成全栈应用的低代码平台**
 
@@ -46,12 +46,12 @@ Python 实现的开源模型驱动低代码平台：在浏览器编辑器或 Pyt
 ```mermaid
 xychart-beta
     title "BESSER-PEARL/BESSER 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 193 --> 200
     line [194, 195, 196, 197, 198, 199, 199]
 ```
 
-2026-10-18 194 → 2026-10-29 199（+5）
+2026-10-18 194 → 2026-10-30 199（+5）
 
 
 ---

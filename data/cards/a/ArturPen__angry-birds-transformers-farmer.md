@@ -1,6 +1,6 @@
 # ArturPen/angry-birds-transformers-farmer
 
-⭐ 23 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/ArturPen/angry-birds-transformers-farmer) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-05-28 · [GitHub](https://github.com/ArturPen/angry-birds-transformers-farmer) · 个人维护
 
 **Angry Birds Transformers 时间跳跃刷资源自动化工具（需模拟器 Root）**
 
@@ -44,12 +44,12 @@ Python tkinter 桌面 GUI 工具，通过 ADB 连接已 Root 的 BlueStacks 5 �
 ```mermaid
 xychart-beta
     title "ArturPen/angry-birds-transformers-farmer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-29 23（+2）
+2026-10-18 21 → 2026-10-30 24（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # xberg-io/liter-llm
 
-⭐ 263 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/xberg-io/liter-llm) · [官网](https://docs.liter-llm.xberg.io) · 组织维护
+⭐ 263 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xberg-io/liter-llm) · [官网](https://docs.liter-llm.xberg.io) · 组织维护
 
 **统一 LLM API 客户端：174 家供应商一套接口，14 种语言绑定**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xberg-io/liter-llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
     y-axis "stars" 260 --> 264
     line [261, 262, 263, 263]
 ```
 
-2026-10-18 261 → 2026-10-29 263（+2）
+2026-10-18 261 → 2026-10-30 263（+2）
 
 
 ---

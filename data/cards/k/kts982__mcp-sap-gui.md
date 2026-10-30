@@ -40,6 +40,18 @@
 > L7: An MCP server that lets AI assistants work in **SAP GUI for Windows**: ask in plain language, and the assistant read
 > L9: It works with any MCP client that can start a local server: Claude Code, GitHub Copilot, Codex, Google Antigravity a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kts982/mcp-sap-gui 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-10-29 41 → 2026-10-30 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `1e857a423d01` · [字段定义](../../DATASET.md)*

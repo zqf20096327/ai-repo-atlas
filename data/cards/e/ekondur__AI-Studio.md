@@ -1,6 +1,6 @@
 # ekondur/AI-Studio
 
-⭐ 51 · C# · MIT · 推送 2026-09-18 · [GitHub](https://github.com/ekondur/AI-Studio) · [官网](https://marketplace.visualstudio.com/items?itemName=ekondur.AI-Studio) · 个人维护
+⭐ 51 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ekondur/AI-Studio) · [官网](https://marketplace.visualstudio.com/items?itemName=ekondur.AI-Studio) · 个人维护
 
 **Visual Studio 扩展：右键调用 AI 完成生成、重构、注释与单元测试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ekondur/AI-Studio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 50 --> 53
     line [52, 51, 51]
 ```
 
-2026-10-18 52 → 2026-10-29 51（-1）
+2026-10-18 52 → 2026-10-30 51（-1）
 
 
 ---

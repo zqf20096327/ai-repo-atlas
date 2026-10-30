@@ -1,6 +1,6 @@
 # habedi/cogitator
 
-⭐ 191 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/habedi/cogitator) · 个人维护
+⭐ 191 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/habedi/cogitator) · [官网](https://habedi.github.io/cogitator/) · 个人维护
 
 **实验链式思考提示策略的 Python 工具库，供研究与集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "habedi/cogitator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 190 --> 192
     line [191, 191]
 ```
 
-2026-10-18 191 → 2026-10-29 191（+0）
+2026-10-18 191 → 2026-10-30 191（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # geekwenjie/SmartJavaAI
 
-⭐ 928 · Java · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/geekwenjie/SmartJavaAI) · [官网](http://smartjavaai.cn) · 个人维护 · 中文 README
+⭐ 929 · Java · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/geekwenjie/SmartJavaAI) · [官网](http://smartjavaai.cn) · 个人维护 · 中文 README
 
 **面向 Java 开发者的离线 AI 算法工具箱：人脸/检测/OCR/语音开箱即用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "geekwenjie/SmartJavaAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 926 --> 929
-    line [927, 928, 928]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 926 --> 930
+    line [927, 928, 929]
 ```
 
-2026-10-18 927 → 2026-10-29 928（+1）
+2026-10-18 927 → 2026-10-30 929（+2）
 
 
 ---

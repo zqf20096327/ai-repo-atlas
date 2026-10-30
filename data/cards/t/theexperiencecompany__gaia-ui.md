@@ -1,6 +1,6 @@
 # theexperiencecompany/gaia-ui
 
-⭐ 223 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/theexperiencecompany/gaia-ui) · [官网](https://ui.heygaia.io) · 组织维护
+⭐ 224 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/theexperiencecompany/gaia-ui) · [官网](https://ui.heygaia.io) · 组织维护
 
 **面向 AI 助手/聊天界面的 React UI 组件注册表**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "theexperiencecompany/gaia-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 222 --> 224
-    line [223, 223]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 222 --> 225
+    line [223, 224]
 ```
 
-2026-10-18 223 → 2026-10-29 223（+0）
+2026-10-18 223 → 2026-10-30 224（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # offbyonebit/arc-llama
 
-⭐ 18 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/offbyonebit/arc-llama) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/offbyonebit/arc-llama) · 个人维护
 
 **Intel Arc GPU 上一键运行的 llama.cpp 运行时与服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "offbyonebit/arc-llama 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 12 --> 19
     line [13, 14, 15, 16, 18, 18]
 ```
 
-2026-10-18 13 → 2026-10-29 18（+5）
+2026-10-18 13 → 2026-10-30 18（+5）
 
 
 ---

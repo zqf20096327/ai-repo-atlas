@@ -1,6 +1,6 @@
 # nageoffer/ai-handbook
 
-⭐ 176 · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/nageoffer/ai-handbook) · [官网](https://nageoffer.com/ai/) · 组织维护 · 中文 README
+⭐ 177 · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/nageoffer/ai-handbook) · [官网](https://nageoffer.com/ai/) · 组织维护 · 中文 README
 
 **程序员转型 AI 工程师的系统化知识手册与面试题库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nageoffer/ai-handbook 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 165 --> 177
-    line [166, 167, 168, 172, 173, 174, 176]
+    title "nageoffer/ai-handbook 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 165 --> 178
+    line [166, 167, 168, 172, 173, 174, 176, 177]
 ```
 
-2026-10-18 166 → 2026-10-29 176（+10）
+2026-10-18 166 → 2026-10-30 177（+11）
 
 
 ---

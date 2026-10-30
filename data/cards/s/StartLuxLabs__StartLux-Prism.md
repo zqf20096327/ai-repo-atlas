@@ -1,6 +1,6 @@
 # StartLuxLabs/StartLux-Prism
 
-⭐ 138 · Python · 推送 2026-10-27 · [GitHub](https://github.com/StartLuxLabs/StartLux-Prism) · [官网](https://huggingface.co/startlux-models) · 组织维护
+⭐ 153 · Python · 推送 2026-10-27 · [GitHub](https://github.com/StartLuxLabs/StartLux-Prism) · [官网](https://huggingface.co/startlux-models) · 组织维护
 
 **StartLux-Decision 决策模型的 GPU 推理服务器：直接运行 GGUF 文件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StartLuxLabs/StartLux-Prism 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 47 --> 146
-    line [55, 62, 70, 89, 117, 138]
+    title "StartLuxLabs/StartLux-Prism 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 46 --> 162
+    line [55, 62, 70, 89, 117, 138, 153]
 ```
 
-2026-10-24 55 → 2026-10-29 138（+83）
+2026-10-24 55 → 2026-10-30 153（+98）
 
 
 ---

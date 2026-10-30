@@ -1,6 +1,6 @@
 # TavernAI/TavernAI-v1
 
-⭐ 2,701 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/TavernAI/TavernAI-v1) · [官网](https://tavernai.net) · 个人维护
+⭐ 2,700 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/TavernAI/TavernAI-v1) · [官网](https://tavernai.net) · 个人维护
 
 **面向用户与 AI 语言模型对话和写作的前端界面**
 
@@ -44,13 +44,13 @@ TavernAI 是一个聊天与故事写作的前端，通过连接多种后端（Ko
 
 ```mermaid
 xychart-beta
-    title "TavernAI/TavernAI-v1 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
+    title "TavernAI/TavernAI-v1 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2696 --> 2702
-    line [2698, 2697, 2698, 2699, 2700, 2701]
+    line [2698, 2697, 2698, 2699, 2700, 2701, 2700]
 ```
 
-2026-10-18 2,698 → 2026-10-29 2,701（+3）
+2026-10-18 2,698 → 2026-10-30 2,700（+2）
 
 
 ---

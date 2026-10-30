@@ -1,6 +1,6 @@
 # jonigl/ollama-mcp-bridge
 
-⭐ 104 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/jonigl/ollama-mcp-bridge) · [官网](https://jonigl.github.io/ollama-mcp-bridge/) · 个人维护
+⭐ 105 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/jonigl/ollama-mcp-bridge) · [官网](https://jonigl.github.io/ollama-mcp-bridge/) · 个人维护
 
 **在 Ollama API 前接入多 MCP 服务器工具的桥接层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jonigl/ollama-mcp-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 103 --> 106
+    line [104, 105]
 ```
 
-2026-10-18 104 → 2026-10-29 104（+0）
+2026-10-18 104 → 2026-10-30 105（+1）
 
 
 ---

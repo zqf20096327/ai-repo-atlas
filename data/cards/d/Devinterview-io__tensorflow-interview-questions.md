@@ -45,12 +45,12 @@ Devinterview.io 维护的 TensorFlow 主题面试问答仓库，收录 70 道题
 ```mermaid
 xychart-beta
     title "Devinterview-io/tensorflow-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

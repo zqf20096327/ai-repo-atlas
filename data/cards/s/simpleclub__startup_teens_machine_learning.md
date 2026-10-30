@@ -43,12 +43,12 @@ StartUp Teens 与 simpleclub 合作的德语视频系列《Wie du deine eigne KI
 ```mermaid
 xychart-beta
     title "simpleclub/startup_teens_machine_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 23（+0）
 
 
 ---

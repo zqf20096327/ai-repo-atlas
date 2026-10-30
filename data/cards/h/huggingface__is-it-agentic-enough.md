@@ -45,12 +45,12 @@ agent-eval 度量编码 agent 使用某个库的方式：不只看答案对错�
 ```mermaid
 xychart-beta
     title "huggingface/is-it-agentic-enough 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

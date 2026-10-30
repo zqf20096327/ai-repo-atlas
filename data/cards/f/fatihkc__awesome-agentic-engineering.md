@@ -1,6 +1,6 @@
 # fatihkc/awesome-agentic-engineering
 
-⭐ 24 · JavaScript · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/fatihkc/awesome-agentic-engineering) · [官网](https://awesomeagenticengineering.com) · 个人维护
+⭐ 25 · JavaScript · CC0-1.0 · 推送 2026-10-25 · [GitHub](https://github.com/fatihkc/awesome-agentic-engineering) · [官网](https://awesomeagenticengineering.com) · 个人维护
 
 **agentic engineering 资源策展清单：指导开发者指挥 AI 编程 agent**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fatihkc/awesome-agentic-engineering 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

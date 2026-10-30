@@ -1,6 +1,6 @@
 # IndelibleVivi/agent-memory-study
 
-⭐ 33 · Python · 推送 2026-10-26 · [GitHub](https://github.com/IndelibleVivi/agent-memory-study) · [官网](https://indeliblevivi.github.io/agent-memory-study/) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-10-29 · [GitHub](https://github.com/IndelibleVivi/agent-memory-study) · [官网](https://indeliblevivi.github.io/agent-memory-study/) · 个人维护 · 中文 README
 
 **agent memory 主题的来源链接式研究阅读库（12 文章/27 札记）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IndelibleVivi/agent-memory-study 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-29 33（+1）
+2026-10-18 32 → 2026-10-30 33（+1）
 
 
 ---

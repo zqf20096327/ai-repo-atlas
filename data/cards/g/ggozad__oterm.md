@@ -1,6 +1,6 @@
 # ggozad/oterm
 
-⭐ 2,446 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ggozad/oterm) · [官网](https://ggozad.github.io/oterm/) · 个人维护
+⭐ 2,445 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ggozad/oterm) · [官网](https://ggozad.github.io/oterm/) · 个人维护
 
 **终端里的 LLM 聊天客户端，接入多家模型服务**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggozad/oterm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29"]
+    title "ggozad/oterm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2444 --> 2449
-    line [2448, 2447, 2445, 2447, 2446]
+    line [2448, 2447, 2445, 2447, 2446, 2445]
 ```
 
-2026-10-18 2,448 → 2026-10-29 2,446（-2）
+2026-10-18 2,448 → 2026-10-30 2,445（-3）
 
 
 ---

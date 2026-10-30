@@ -46,12 +46,12 @@ EntQuant 是面向 LLM 的后训练压缩库：权重保持 Float8/Int8 高精�
 ```mermaid
 xychart-beta
     title "merantix-momentum/entquant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-29 27（+0）
+2026-10-18 27 → 2026-10-30 27（+0）
 
 
 ---

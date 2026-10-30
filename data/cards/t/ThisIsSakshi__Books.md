@@ -1,6 +1,6 @@
 # ThisIsSakshi/Books
 
-⭐ 634 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ThisIsSakshi/Books) · 个人维护
+⭐ 635 · Python · MIT · 推送 2026-02-16 · [GitHub](https://github.com/ThisIsSakshi/Books) · 个人维护
 
 **免费编程/ML/面试书籍资源汇总清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThisIsSakshi/Books 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 627 --> 635
-    line [628, 629, 630, 631, 632, 634]
+    title "ThisIsSakshi/Books 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 627 --> 636
+    line [628, 629, 630, 631, 632, 634, 635]
 ```
 
-2026-10-18 628 → 2026-10-29 634（+6）
+2026-10-18 628 → 2026-10-30 635（+7）
 
 
 ---

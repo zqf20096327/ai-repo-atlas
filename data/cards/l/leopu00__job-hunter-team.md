@@ -1,6 +1,6 @@
 # leopu00/job-hunter-team
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/leopu00/job-hunter-team) · [官网](https://jobhunterteam.ai) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/leopu00/job-hunter-team) · [官网](https://jobhunterteam.ai) · 个人维护
 
 **自托管的 AI agent 团队，自动执行求职全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leopu00/job-hunter-team 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-18 51 → 2026-10-29 52（+1）
+2026-10-18 51 → 2026-10-30 52（+1）
 
 
 ---

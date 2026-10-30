@@ -1,6 +1,6 @@
 # datawhalechina/easy-langent
 
-⭐ 512 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/easy-langent) · [官网](https://datawhalechina.github.io/easy-langent/) · 组织维护 · 中文 README
+⭐ 513 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/easy-langent) · [官网](https://datawhalechina.github.io/easy-langent/) · 组织维护 · 中文 README
 
 **LangChain/LangGraph 智能体开发中文学习教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datawhalechina/easy-langent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 510 --> 513
-    line [511, 512, 512]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 510 --> 514
+    line [511, 512, 513]
 ```
 
-2026-10-18 511 → 2026-10-29 512（+1）
+2026-10-18 511 → 2026-10-30 513（+2）
 
 
 ---

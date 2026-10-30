@@ -1,6 +1,6 @@
 # HoangTheQuyen/think-better
 
-⭐ 125 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/HoangTheQuyen/think-better) · [官网](https://thinkbetter.dev) · 个人维护
+⭐ 125 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/HoangTheQuyen/think-better) · [官网](https://thinkbetter.dev) · 个人维护
 
 **给 AI 编码助手装结构化思维技能的 CLI（3 技能 20 命令）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HoangTheQuyen/think-better 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 122 --> 126
     line [123, 125, 125]
 ```
 
-2026-10-18 123 → 2026-10-29 125（+2）
+2026-10-18 123 → 2026-10-30 125（+2）
 
 
 ---

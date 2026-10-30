@@ -1,6 +1,6 @@
 # GuillaumeMougeot/biom3d
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-03-30 · [GitHub](https://github.com/GuillaumeMougeot/biom3d) · [官网](https://biom3d.readthedocs.io/en/latest/index.html) · 个人维护
+⭐ 32 · Python · GPL-3.0 · 推送 2026-03-30 · [GitHub](https://github.com/GuillaumeMougeot/biom3d) · [官网](https://biom3d.readthedocs.io/en/latest/index.html) · 个人维护
 
 **自动配置 3D U-Net 训练的体积分割工具，面向显微/医学影像**
 
@@ -45,12 +45,12 @@ Biom3d 是用于 3D 图像语义分割的深度学习工具：自动配置 3D U-
 ```mermaid
 xychart-beta
     title "GuillaumeMougeot/biom3d 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 32（+1）
 
 
 ---

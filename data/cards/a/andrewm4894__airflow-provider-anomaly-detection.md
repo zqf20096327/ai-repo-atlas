@@ -45,12 +45,12 @@ Apache Airflow 的异常检测 provider 包：用户用 SQL 查询定义指标�
 ```mermaid
 xychart-beta
     title "andrewm4894/airflow-provider-anomaly-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

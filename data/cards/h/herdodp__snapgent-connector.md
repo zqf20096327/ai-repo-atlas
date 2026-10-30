@@ -1,6 +1,6 @@
 # herdodp/snapgent-connector
 
-⭐ 53 · JavaScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
+⭐ 62 · JavaScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
 
 **让任意 AI 聊天网站直接操作 VS Code 工作区的浏览器扩展**
 
@@ -40,6 +40,18 @@
 > L19: snapgentV3 is a browser extension plus a local bridge that connects a normal AI chat to **VS Code**. It automatical
 > L33: │  AI chat    │ ───  commands  ───▶ │ snapgentV3       │ ──────────────▶ │  Bridge    │ ────────▶ │ Selected MCP   
 > L41: 4. The **bridge** routes it to the VS Code MCP server.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "herdodp/snapgent-connector 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 52 --> 63
+    line [53, 62]
+```
+
+2026-10-29 53 → 2026-10-30 62（+9）
 
 
 ---

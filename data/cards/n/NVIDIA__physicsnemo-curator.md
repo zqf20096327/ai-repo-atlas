@@ -1,6 +1,6 @@
 # NVIDIA/physicsnemo-curator
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/physicsnemo-curator) · [官网](https://nvidia.github.io/physicsnemo-curator/) · 组织维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/physicsnemo-curator) · [官网](https://nvidia.github.io/physicsnemo-curator/) · 组织维护
 
 **构建科学工程领域 AI 就绪数据集的加速 ETL 工具包**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 Python ETL 工具包，用于在 CAE、气象/气候、分子�
 ```mermaid
 xychart-beta
     title "NVIDIA/physicsnemo-curator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-18 65 → 2026-10-29 66（+1）
+2026-10-18 65 → 2026-10-30 67（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # YZXBiz/copytrading
 
-⭐ 100 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/YZXBiz/copytrading) · [官网](https://github.com/YZXBiz/copytrading/releases) · 个人维护 · 中文 README
+⭐ 104 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/YZXBiz/copytrading) · [官网](https://github.com/YZXBiz/copytrading/releases) · 个人维护 · 中文 README
 
 **macOS 跟单应用：读取 Discord 交易信号并限风下单到 Alpaca**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YZXBiz/copytrading 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 0 --> 109
-    line [3, 20, 34, 45, 55, 61, 69, 80, 88, 100]
+    title "YZXBiz/copytrading 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 114
+    line [3, 20, 34, 45, 55, 61, 69, 80, 88, 100, 104]
 ```
 
-2026-10-18 3 → 2026-10-29 100（+97）
+2026-10-18 3 → 2026-10-30 104（+101）
 
 
 ---

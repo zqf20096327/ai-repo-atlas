@@ -1,6 +1,6 @@
 # cporter202/agentic-ai-apis
 
-⭐ 667 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
+⭐ 670 · JavaScript · 推送 2026-10-28 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
 
 **面向 AI agent 开发者的 API 策展清单（2,391 条，3 类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cporter202/agentic-ai-apis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 655 --> 668
-    line [656, 658, 660, 663, 665, 667]
+    title "cporter202/agentic-ai-apis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 655 --> 671
+    line [656, 658, 660, 663, 665, 667, 670]
 ```
 
-2026-10-18 656 → 2026-10-29 667（+11）
+2026-10-18 656 → 2026-10-30 670（+14）
 
 
 ---

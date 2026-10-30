@@ -1,6 +1,6 @@
 # zhinjs/zhin
 
-⭐ 136 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zhinjs/zhin) · [官网](http://zhin.js.org/) · 组织维护 · 中文 README
+⭐ 137 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zhinjs/zhin) · [官网](http://zhin.js.org/) · 组织维护 · 中文 README
 
 **TypeScript 跨平台聊天 bot 框架，一套代码跑 20+ 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhinjs/zhin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 134 --> 137
-    line [136, 135, 136, 136]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 134 --> 138
+    line [136, 135, 136, 137]
 ```
 
-2026-10-18 136 → 2026-10-29 136（+0）
+2026-10-18 136 → 2026-10-30 137（+1）
 
 
 ---

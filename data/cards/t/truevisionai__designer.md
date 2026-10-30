@@ -45,12 +45,12 @@ Truevision Designer 是面向自动驾驶车辆与机器人测试验证的 3D �
 ```mermaid
 xychart-beta
     title "truevisionai/designer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-29 148（+0）
+2026-10-18 148 → 2026-10-30 148（+0）
 
 
 ---

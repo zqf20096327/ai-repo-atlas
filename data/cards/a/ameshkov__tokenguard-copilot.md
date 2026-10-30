@@ -1,6 +1,6 @@
 # ameshkov/tokenguard-copilot
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ameshkov/tokenguard-copilot) · [官网](https://github.com/ameshkov/tokenguard-copilot) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/ameshkov/tokenguard-copilot) · [官网](https://github.com/ameshkov/tokenguard-copilot) · 组织维护
 
 **让 VS Code Copilot Chat 接入第三方 OpenAI 兼容模型的扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ameshkov/tokenguard-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 33（+1）
 
 
 ---

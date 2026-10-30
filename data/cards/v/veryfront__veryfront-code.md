@@ -1,6 +1,6 @@
 # veryfront/veryfront-code
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/veryfront/veryfront-code) · [官网](https://veryfront.com/docs/code) · 组织维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/veryfront/veryfront-code) · [官网](https://veryfront.com/docs/code) · 组织维护
 
 **TypeScript/React 全栈框架：单项目构建 AI 应用与 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "veryfront/veryfront-code 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

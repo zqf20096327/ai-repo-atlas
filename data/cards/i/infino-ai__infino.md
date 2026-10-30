@@ -1,6 +1,6 @@
 # infino-ai/infino
 
-⭐ 139 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/infino-ai/infino) · [官网](http://infino.ai) · 组织维护
+⭐ 140 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/infino-ai/infino) · [官网](http://infino.ai) · 组织维护
 
 **嵌入式检索库：全文、向量、混合与 SQL 存于 Parquet 单表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "infino-ai/infino 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 128 --> 140
-    line [129, 135, 139, 138, 139]
+    title "infino-ai/infino 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 128 --> 141
+    line [129, 135, 139, 138, 139, 140]
 ```
 
-2026-10-18 129 → 2026-10-29 139（+10）
+2026-10-18 129 → 2026-10-30 140（+11）
 
 
 ---

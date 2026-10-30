@@ -1,6 +1,6 @@
 # aaronchong888/DeepFake-Detect
 
-⭐ 162 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/aaronchong888/DeepFake-Detect) · [官网](https://deepfake-detect.com/) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/aaronchong888/DeepFake-Detect) · [官网](https://deepfake-detect.com/) · 个人维护
 
 **开源深度伪造检测训练管线：TensorFlow/Keras/EfficientNet**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaronchong888/DeepFake-Detect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 161 --> 165
+    line [162, 164]
 ```
 
-2026-10-18 162 → 2026-10-29 162（+0）
+2026-10-18 162 → 2026-10-30 164（+2）
 
 
 ---

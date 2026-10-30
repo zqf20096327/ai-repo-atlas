@@ -1,6 +1,6 @@
 # roedyrustam/vibes-plug
 
-⭐ 115 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/roedyrustam/vibes-plug) · [官网](https://www.npmjs.com/package/vibes-plug) · 个人维护
+⭐ 116 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/roedyrustam/vibes-plug) · [官网](https://www.npmjs.com/package/vibes-plug) · 个人维护
 
 **跨 IDE 的 161 技能 AI agent 集合与编排工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "roedyrustam/vibes-plug 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 74 --> 118
-    line [77, 88, 112, 113, 115, 115]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 74 --> 119
+    line [77, 88, 112, 113, 115, 116]
 ```
 
-2026-10-18 77 → 2026-10-29 115（+38）
+2026-10-18 77 → 2026-10-30 116（+39）
 
 
 ---

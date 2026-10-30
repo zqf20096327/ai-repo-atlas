@@ -1,6 +1,6 @@
 # i5ting/learn-claude-code-js
 
-⭐ 99 · JavaScript · 推送 2026-03-15 · [GitHub](https://github.com/i5ting/learn-claude-code-js) · [官网](https://learn.shareai.run/zh/) · 个人维护 · 中文 README
+⭐ 100 · JavaScript · 推送 2026-03-15 · [GitHub](https://github.com/i5ting/learn-claude-code-js) · [官网](https://learn.shareai.run/zh/) · 个人维护 · 中文 README
 
 **Node.js 版 Claude Code 原理学习课程（12 课）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "i5ting/learn-claude-code-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-18 99 → 2026-10-29 99（+0）
+2026-10-18 99 → 2026-10-30 100（+1）
 
 
 ---

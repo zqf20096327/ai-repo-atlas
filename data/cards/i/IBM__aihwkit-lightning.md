@@ -1,6 +1,6 @@
 # IBM/aihwkit-lightning
 
-⭐ 50 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/IBM/aihwkit-lightning) · [官网](https://aihwkit-lightning.readthedocs.io) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/IBM/aihwkit-lightning) · [官网](https://aihwkit-lightning.readthedocs.io) · 组织维护
 
 **面向模拟器的硬件感知训练工具包：在 AIMC 上训练大模型**
 
@@ -44,13 +44,13 @@ IBM Research 开发的工具包，用于在模拟的模拟存内计算（AIMC）
 
 ```mermaid
 xychart-beta
-    title "IBM/aihwkit-lightning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "IBM/aihwkit-lightning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 47 --> 51
-    line [48, 49, 50]
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-10-29 50（+2）
+2026-10-18 48 → 2026-10-30 50（+2）
 
 
 ---

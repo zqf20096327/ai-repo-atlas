@@ -41,6 +41,18 @@ Acemcp 的 Node.js/TypeScript 实现，作为 MCP 服务器向 Claude、GPT 等 
 > L56: - ✅ **search_context 工具** - 语义搜索代码片段
 > L57: - ✅ **stdio 传输** - 标准输入输出通信
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yeuxuan/Ace-Mcp-Node 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 358 --> 360
+    line [359, 359]
+```
+
+2026-10-29 359 → 2026-10-30 359（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `01d0e3acb7fa` · [字段定义](../../DATASET.md)*

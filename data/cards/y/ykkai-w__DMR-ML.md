@@ -1,6 +1,6 @@
 # ykkai-w/DMR-ML
 
-⭐ 20 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ykkai-w/DMR-ML) · [官网](https://dmrml.cn/) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ykkai-w/DMR-ML) · [官网](https://dmrml.cn/) · 个人维护 · 中文 README
 
 **给 A 股投资者的双动量轮动 + 机器学习风控量化系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ykkai-w/DMR-ML 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 9 --> 21
-    line [10, 15, 16, 20]
+    title "ykkai-w/DMR-ML 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 9 --> 26
+    line [10, 15, 16, 20, 25]
 ```
 
-2026-10-26 10 → 2026-10-29 20（+10）
+2026-10-26 10 → 2026-10-30 25（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # serenakeyitan/awesome-notebookLM-prompts
 
-⭐ 4,765 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/serenakeyitan/awesome-notebookLM-prompts) · 个人维护
+⭐ 4,766 · MIT · 推送 2026-06-19 · [GitHub](https://github.com/serenakeyitan/awesome-notebookLM-prompts) · 个人维护
 
 **NotebookLM 幻灯片提示词策展清单，按风格分类**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serenakeyitan/awesome-notebookLM-prompts 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4682 --> 4772
-    line [4689, 4695, 4697, 4699, 4700, 4702, 4743, 4759, 4765]
+    title "serenakeyitan/awesome-notebookLM-prompts 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4682 --> 4773
+    line [4689, 4695, 4697, 4699, 4700, 4702, 4743, 4759, 4765, 4766]
 ```
 
-2026-10-18 4,689 → 2026-10-29 4,765（+76）
+2026-10-18 4,689 → 2026-10-30 4,766（+77）
 
 
 ---

@@ -45,13 +45,13 @@ Distribb 提供的 agent 技能包，可安装到 Claude Code、Codex、OpenClaw
 
 ```mermaid
 xychart-beta
-    title "Bomx/distribb-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "Bomx/distribb-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 199 --> 203
-    line [200, 201, 202]
+    line [200, 201, 202, 202]
 ```
 
-2026-10-18 200 → 2026-10-29 202（+2）
+2026-10-18 200 → 2026-10-30 202（+2）
 
 
 ---

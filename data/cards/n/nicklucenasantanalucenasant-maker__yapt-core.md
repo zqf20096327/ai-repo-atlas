@@ -1,6 +1,6 @@
 # nicklucenasantanalucenasant-maker/yapt-core
 
-⭐ 53 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/nicklucenasantanalucenasant-maker/yapt-core) · 组织维护 · 中文 README
+⭐ 53 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/nicklucenasantanalucenasant-maker/yapt-core) · 组织维护 · 中文 README
 
 **模块化 PyTorch 训练框架：为研究者与团队提供可组合训练循环**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nicklucenasantanalucenasant-maker/yapt-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-29 53（+0）
+2026-10-18 53 → 2026-10-30 53（+0）
 
 
 ---

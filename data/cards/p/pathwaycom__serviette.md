@@ -1,6 +1,6 @@
 # pathwaycom/serviette
 
-⭐ 58,754 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
+⭐ 58,750 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
 
 **面向企业和开发者的零代码文档问答 RAG 服务器，答案随文档实时更新**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "pathwaycom/serviette 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 58751 --> 58795
-    line [58792, 58788, 58781, 58779, 58774, 58769, 58765, 58759, 58756, 58754]
+    title "pathwaycom/serviette 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 58746 --> 58796
+    line [58792, 58788, 58781, 58779, 58774, 58769, 58765, 58759, 58756, 58754, 58750]
 ```
 
-2026-10-18 58,792 → 2026-10-29 58,754（-38）
+2026-10-18 58,792 → 2026-10-30 58,750（-42）
 
 
 ---

@@ -1,6 +1,6 @@
 # PeterGreenAppliedAI/Invarail
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/PeterGreenAppliedAI/Invarail) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PeterGreenAppliedAI/Invarail) · 个人维护
 
 **自托管本地 AI agent 框架：7-30B 模型驱动、权限治理层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PeterGreenAppliedAI/Invarail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 33（+0）
 
 
 ---

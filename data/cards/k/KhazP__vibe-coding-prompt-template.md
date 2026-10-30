@@ -1,6 +1,6 @@
 # KhazP/vibe-coding-prompt-template
 
-⭐ 3,198 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KhazP/vibe-coding-prompt-template) · [官网](https://vibeworkflow.app/) · 个人维护
+⭐ 3,202 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KhazP/vibe-coding-prompt-template) · [官网](https://vibeworkflow.app/) · 个人维护
 
 **用四步提示词模板把想法转为 PRD/技术设计并用 AI 编码助手构建**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KhazP/vibe-coding-prompt-template 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3151 --> 3202
-    line [3155, 3161, 3172, 3177, 3179, 3185, 3190, 3192, 3198]
+    title "KhazP/vibe-coding-prompt-template 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3151 --> 3206
+    line [3155, 3161, 3172, 3177, 3179, 3185, 3190, 3192, 3198, 3202]
 ```
 
-2026-10-18 3,155 → 2026-10-29 3,198（+43）
+2026-10-18 3,155 → 2026-10-30 3,202（+47）
 
 
 ---

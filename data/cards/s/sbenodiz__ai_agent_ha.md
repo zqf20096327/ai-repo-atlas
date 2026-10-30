@@ -46,13 +46,13 @@ Home Assistant 自定义组件，将实例连接到多种 AI 提供商（OpenAI�
 
 ```mermaid
 xychart-beta
-    title "sbenodiz/ai_agent_ha 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "sbenodiz/ai_agent_ha 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 166 --> 169
-    line [167, 168]
+    line [167, 168, 168]
 ```
 
-2026-10-18 167 → 2026-10-29 168（+1）
+2026-10-18 167 → 2026-10-30 168（+1）
 
 
 ---

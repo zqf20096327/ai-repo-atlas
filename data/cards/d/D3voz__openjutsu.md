@@ -1,6 +1,6 @@
 # D3voz/openjutsu
 
-⭐ 117 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/D3voz/openjutsu) · 个人维护
+⭐ 303 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/D3voz/openjutsu) · 个人维护
 
 **本地视频角色/物体替换工具：一键换人并保留运镜与配乐**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "D3voz/openjutsu 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 20 --> 125
-    line [28, 117]
+    title "D3voz/openjutsu 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1 --> 330
+    line [28, 117, 303]
 ```
 
-2026-10-28 28 → 2026-10-29 117（+89）
+2026-10-28 28 → 2026-10-30 303（+275）
 
 
 ---

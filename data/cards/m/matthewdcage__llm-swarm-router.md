@@ -1,6 +1,6 @@
 # matthewdcage/llm-swarm-router
 
-⭐ 26 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/matthewdcage/llm-swarm-router) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/matthewdcage/llm-swarm-router) · 个人维护
 
 **局域网多机本地 LLM 后端的 mesh 路由器：聚合分发推理请求**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matthewdcage/llm-swarm-router 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-29 26（+1）
+2026-10-18 25 → 2026-10-30 26（+1）
 
 
 ---

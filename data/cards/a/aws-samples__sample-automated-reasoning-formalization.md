@@ -1,6 +1,6 @@
 # aws-samples/sample-automated-reasoning-formalization
 
-⭐ 43 · TypeScript · MIT-0 · 推送 2026-09-10 · [GitHub](https://github.com/aws-samples/sample-automated-reasoning-formalization) · [官网](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html) · 组织维护
+⭐ 44 · TypeScript · MIT-0 · 推送 2026-09-10 · [GitHub](https://github.com/aws-samples/sample-automated-reasoning-formalization) · [官网](https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html) · 组织维护
 
 **帮非技术专家把文档形式化为 Bedrock 自动推理策略的桌面应用**
 
@@ -45,12 +45,12 @@ AWS samples 出品的 Electron 桌面应用 ARchitect：面向会计师、HR、�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-automated-reasoning-formalization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-29 43（+0）
+2026-10-18 43 → 2026-10-30 44（+1）
 
 
 ---

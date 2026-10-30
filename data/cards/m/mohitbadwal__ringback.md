@@ -1,6 +1,6 @@
 # mohitbadwal/ringback
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/mohitbadwal/ringback) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-06-23 · [GitHub](https://github.com/mohitbadwal/ringback) · 个人维护
 
 **让 AI agent 通过 SIP 打电话给用户的 MCP 服务器套件**
 
@@ -45,12 +45,12 @@ ringback 提供两个 MCP 服务器：ringback-voice 让 LLM 通过免费 Linpho
 ```mermaid
 xychart-beta
     title "mohitbadwal/ringback 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 24 --> 29
+    line [25, 26, 27, 28]
 ```
 
-2026-10-18 25 → 2026-10-29 27（+2）
+2026-10-18 25 → 2026-10-30 28（+3）
 
 
 ---

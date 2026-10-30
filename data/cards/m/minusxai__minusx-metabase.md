@@ -1,6 +1,6 @@
 # minusxai/minusx-metabase
 
-⭐ 351 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/minusxai/minusx-metabase) · [官网](https://minusx.ai) · 组织维护
+⭐ 351 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/minusxai/minusx-metabase) · [官网](https://minusx.ai) · 组织维护
 
 **嵌入 Metabase 的 AI 数据分析师浏览器扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "minusxai/minusx-metabase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 350 --> 352
     line [351, 351]
 ```
 
-2026-10-18 351 → 2026-10-29 351（+0）
+2026-10-18 351 → 2026-10-30 351（+0）
 
 
 ---

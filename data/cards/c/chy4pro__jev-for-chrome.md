@@ -45,13 +45,13 @@ Manifest V3 Chrome 扩展，把 browser-use/jev-ultrafast 移植到用户自己�
 
 ```mermaid
 xychart-beta
-    title "chy4pro/jev-for-chrome 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    title "chy4pro/jev-for-chrome 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44]
+    line [42, 43, 44, 44]
 ```
 
-2026-10-18 42 → 2026-10-29 44（+2）
+2026-10-18 42 → 2026-10-30 44（+2）
 
 
 ---

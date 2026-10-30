@@ -1,6 +1,6 @@
 # microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator
 
-⭐ 138 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator) · 组织维护
+⭐ 139 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator) · 组织维护
 
 **企业数据上的 Agentic AI 解决方案加速器：Fabric 统一数据 + Agent 自然语言查询**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 136 --> 139
-    line [137, 138]
+    title "microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 136 --> 140
+    line [137, 138, 139]
 ```
 
-2026-10-18 137 → 2026-10-29 138（+1）
+2026-10-18 137 → 2026-10-30 139（+2）
 
 
 ---

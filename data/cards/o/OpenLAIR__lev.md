@@ -1,6 +1,6 @@
 # OpenLAIR/lev
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/OpenLAIR/lev) · [官网](https://openlair.github.io/lev/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/OpenLAIR/lev) · [官网](https://openlair.github.io/lev/) · 组织维护
 
 **单检查点多深度的循环决策模型：对给定选项输出概率**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenLAIR/lev 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2 --> 19
-    line [3, 7, 8, 9, 13, 18, 18]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 2 --> 20
+    line [3, 7, 8, 9, 13, 18, 19]
 ```
 
-2026-10-19 3 → 2026-10-29 18（+15）
+2026-10-19 3 → 2026-10-30 19（+16）
 
 
 ---

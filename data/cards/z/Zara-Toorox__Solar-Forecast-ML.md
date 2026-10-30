@@ -1,6 +1,6 @@
 # Zara-Toorox/Solar-Forecast-ML
 
-⭐ 309 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Zara-Toorox/Solar-Forecast-ML) · [官网](https://solarforecastml.com/en/) · 个人维护
+⭐ 310 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Zara-Toorox/Solar-Forecast-ML) · [官网](https://solarforecastml.com/en/) · 个人维护
 
 **Home Assistant 本地 AI 太阳能发电预测集成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zara-Toorox/Solar-Forecast-ML 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 300 --> 310
-    line [301, 302, 303, 304, 305, 307, 308, 309]
+    title "Zara-Toorox/Solar-Forecast-ML 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 300 --> 311
+    line [301, 302, 303, 304, 305, 307, 308, 309, 310]
 ```
 
-2026-10-18 301 → 2026-10-29 309（+8）
+2026-10-18 301 → 2026-10-30 310（+9）
 
 
 ---

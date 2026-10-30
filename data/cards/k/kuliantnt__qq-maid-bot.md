@@ -1,6 +1,6 @@
 # kuliantnt/qq-maid-bot
 
-⭐ 126 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kuliantnt/qq-maid-bot) · 个人维护 · 中文 README
+⭐ 127 · Rust · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kuliantnt/qq-maid-bot) · 个人维护 · 中文 README
 
 **自托管多入口 AI Agent 聊天机器人（QQ/OneBot/微信）**
 
@@ -45,13 +45,13 @@ Rust 编写的单进程自托管聊天机器人，以 QQ 官方机器人为主�
 
 ```mermaid
 xychart-beta
-    title "kuliantnt/qq-maid-bot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "kuliantnt/qq-maid-bot 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 123 --> 128
-    line [125, 124, 125, 126, 127, 126]
+    line [125, 124, 125, 126, 127, 126, 127]
 ```
 
-2026-10-18 125 → 2026-10-29 126（+1）
+2026-10-18 125 → 2026-10-30 127（+2）
 
 
 ---

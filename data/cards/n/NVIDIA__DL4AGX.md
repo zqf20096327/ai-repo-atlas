@@ -1,6 +1,6 @@
 # NVIDIA/DL4AGX
 
-⭐ 299 · Shell · 推送 2026-03-13 · [GitHub](https://github.com/NVIDIA/DL4AGX) · 组织维护
+⭐ 300 · Shell · 推送 2026-03-13 · [GitHub](https://github.com/NVIDIA/DL4AGX) · 组织维护
 
 **面向 NVIDIA DRIVE AGX 平台的自动驾驶深度学习模型与部署工具集**
 
@@ -42,12 +42,12 @@ NVIDIA 维护的仓库，内容为自动驾驶（AV）应用的模型设计、�
 ```mermaid
 xychart-beta
     title "NVIDIA/DL4AGX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 298 --> 300
-    line [299, 299]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 298 --> 301
+    line [299, 300]
 ```
 
-2026-10-18 299 → 2026-10-29 299（+0）
+2026-10-18 299 → 2026-10-30 300（+1）
 
 
 ---

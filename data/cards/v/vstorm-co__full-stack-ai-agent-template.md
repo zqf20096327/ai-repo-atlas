@@ -1,6 +1,6 @@
 # vstorm-co/full-stack-ai-agent-template
 
-⭐ 1,958 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template) · [官网](https://vstorm-co.github.io/full-stack-ai-agent-template/) · 组织维护
+⭐ 1,960 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template) · [官网](https://vstorm-co.github.io/full-stack-ai-agent-template/) · 组织维护
 
 **生成 FastAPI+Next.js 全栈 AI Agent 应用的项目模板生成器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/full-stack-ai-agent-template 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1950 --> 1959
-    line [1951, 1952, 1953, 1954, 1955, 1957, 1958, 1958]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1950 --> 1961
+    line [1951, 1952, 1953, 1954, 1955, 1957, 1958, 1960]
 ```
 
-2026-10-18 1,951 → 2026-10-29 1,958（+7）
+2026-10-18 1,951 → 2026-10-30 1,960（+9）
 
 
 ---

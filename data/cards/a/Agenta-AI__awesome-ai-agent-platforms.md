@@ -1,6 +1,6 @@
 # Agenta-AI/awesome-ai-agent-platforms
 
-⭐ 671 · Astro · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/Agenta-AI/awesome-ai-agent-platforms) · [官网](https://aiagentplatforms.dev) · 组织维护
+⭐ 673 · Astro · CC0-1.0 · 推送 2026-10-01 · [GitHub](https://github.com/Agenta-AI/awesome-ai-agent-platforms) · [官网](https://aiagentplatforms.dev) · 组织维护
 
 **开源 AI agent 平台策展清单，含许可证与托管信息**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Agenta-AI/awesome-ai-agent-platforms 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 496 --> 803
-    line [521, 593, 732, 778, 667, 669, 671, 671]
+    line [521, 593, 732, 778, 667, 669, 671, 673]
 ```
 
-2026-10-18 521 → 2026-10-29 671（+150）
+2026-10-18 521 → 2026-10-30 673（+152）
 
 
 ---

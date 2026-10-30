@@ -1,6 +1,6 @@
 # huggingface/meshgen
 
-⭐ 938 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/meshgen) · 组织维护
+⭐ 939 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/huggingface/meshgen) · 组织维护
 
 **Blender 插件：用自然语言让 AI Agent 操作 Blender 建模**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/meshgen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 932 --> 939
-    line [933, 934, 935, 936, 937, 938, 938]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 932 --> 940
+    line [933, 934, 935, 936, 937, 938, 939]
 ```
 
-2026-10-18 933 → 2026-10-29 938（+5）
+2026-10-18 933 → 2026-10-30 939（+6）
 
 
 ---

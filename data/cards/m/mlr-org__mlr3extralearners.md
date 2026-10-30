@@ -1,6 +1,6 @@
 # mlr-org/mlr3extralearners
 
-⭐ 115 · R · LGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/mlr-org/mlr3extralearners) · [官网](https://mlr3extralearners.mlr-org.com/) · 组织维护
+⭐ 115 · R · LGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/mlr-org/mlr3extralearners) · [官网](https://mlr3extralearners.mlr-org.com/) · 组织维护
 
 **为 mlr3 机器学习框架提供扩展学习器的 R 包**
 
@@ -45,12 +45,12 @@ mlr3extralearners 收录 mlr3 生态中未被 mlr3learners 及核心包包含的
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3extralearners 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-29 115（+0）
+2026-10-18 115 → 2026-10-30 115（+0）
 
 
 ---

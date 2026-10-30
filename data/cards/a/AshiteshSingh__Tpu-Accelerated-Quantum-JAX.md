@@ -1,6 +1,6 @@
 # AshiteshSingh/Tpu-Accelerated-Quantum-JAX
 
-⭐ 121 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX) · [官网](https://ashitesh.me) · 个人维护
+⭐ 122 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/AshiteshSingh/Tpu-Accelerated-Quantum-JAX) · [官网](https://ashitesh.me) · 个人维护
 
 **纯 JAX 实现的量子电路模拟器，支持 GPU 与 Cloud TPU 集群加速**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AshiteshSingh/Tpu-Accelerated-Quantum-JAX 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "AshiteshSingh/Tpu-Accelerated-Quantum-JAX 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 113 --> 127
-    line [114, 122, 126, 125, 126, 118, 119, 118, 120, 121]
+    line [114, 122, 126, 125, 126, 118, 119, 118, 120, 121, 122]
 ```
 
-2026-10-18 114 → 2026-10-29 121（+7）
+2026-10-18 114 → 2026-10-30 122（+8）
 
 
 ---

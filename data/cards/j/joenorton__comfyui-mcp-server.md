@@ -1,6 +1,6 @@
 # joenorton/comfyui-mcp-server
 
-⭐ 410 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/joenorton/comfyui-mcp-server) · 个人维护
+⭐ 411 · Python · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/joenorton/comfyui-mcp-server) · 个人维护
 
 **让 AI agent 通过 MCP 调用本地 ComfyUI 生成图像音频视频的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joenorton/comfyui-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 409 --> 412
-    line [410, 411, 410, 410]
+    line [410, 411, 410, 411]
 ```
 
-2026-10-18 410 → 2026-10-29 410（+0）
+2026-10-18 410 → 2026-10-30 411（+1）
 
 
 ---

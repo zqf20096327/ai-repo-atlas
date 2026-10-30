@@ -1,6 +1,6 @@
 # yangjian102621/geekai
 
-⭐ 4,722 · Vue · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/yangjian102621/geekai) · [官网](https://chat.geekai.me) · 个人维护 · 中文 README
+⭐ 4,723 · Vue · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/yangjian102621/geekai) · [官网](https://chat.geekai.me) · 个人维护 · 中文 README
 
 **面向创作者与企业的多模态 AI 内容创作平台，含运营后台**
 
@@ -44,13 +44,13 @@ Go + Vue3 + Element Plus 实现的 AI 内容创作与运营平台：集成多款
 
 ```mermaid
 xychart-beta
-    title "yangjian102621/geekai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 4716 --> 4723
-    line [4717, 4719, 4718, 4719, 4721, 4722]
+    title "yangjian102621/geekai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4716 --> 4724
+    line [4717, 4719, 4718, 4719, 4721, 4722, 4723]
 ```
 
-2026-10-18 4,717 → 2026-10-29 4,722（+5）
+2026-10-18 4,717 → 2026-10-30 4,723（+6）
 
 
 ---

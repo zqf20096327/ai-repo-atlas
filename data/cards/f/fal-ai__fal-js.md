@@ -1,6 +1,6 @@
 # fal-ai/fal-js
 
-⭐ 187 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fal-ai/fal-js) · [官网](https://fal.ai) · 组织维护
+⭐ 188 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/fal-ai/fal-js) · [官网](https://fal.ai) · 组织维护
 
 **面向开发者的 fal.ai 模型服务 JavaScript/TypeScript 客户端库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fal-ai/fal-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 186 --> 188
-    line [187, 187]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 186 --> 189
+    line [187, 188]
 ```
 
-2026-10-18 187 → 2026-10-29 187（+0）
+2026-10-18 187 → 2026-10-30 188（+1）
 
 
 ---

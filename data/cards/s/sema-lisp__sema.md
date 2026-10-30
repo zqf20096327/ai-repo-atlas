@@ -1,6 +1,6 @@
 # sema-lisp/sema
 
-⭐ 57 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sema-lisp/sema) · [官网](https://sema-lang.com/) · 组织维护
+⭐ 58 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/sema-lisp/sema) · [官网](https://sema-lang.com/) · 组织维护
 
 **内置 LLM 原语的 Lisp 语言，供开发者构建 agent 脚本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sema-lisp/sema 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 50 --> 58
-    line [51, 53, 54, 55, 56, 57]
+    title "sema-lisp/sema 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 50 --> 59
+    line [51, 53, 54, 55, 56, 57, 58]
 ```
 
-2026-10-18 51 → 2026-10-29 57（+6）
+2026-10-18 51 → 2026-10-30 58（+7）
 
 
 ---

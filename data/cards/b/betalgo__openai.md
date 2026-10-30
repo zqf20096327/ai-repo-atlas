@@ -1,6 +1,6 @@
 # betalgo/openai
 
-⭐ 3,026 · C# · MIT · 推送 2026-03-21 · [GitHub](https://github.com/betalgo/openai) · [官网](https://ranultinga.com/) · 个人维护
+⭐ 3,024 · C# · MIT · 推送 2026-03-21 · [GitHub](https://github.com/betalgo/openai) · [官网](https://ranultinga.com/) · 个人维护
 
 **.NET 社区库：在 .NET 应用中接入 OpenAI API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "betalgo/openai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 3024 --> 3028
-    line [3026, 3025, 3027, 3026, 3026]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 3023 --> 3028
+    line [3026, 3025, 3027, 3026, 3024]
 ```
 
-2026-10-18 3,026 → 2026-10-29 3,026（+0）
+2026-10-18 3,026 → 2026-10-30 3,024（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JaydenCJ/grok-build-desktop
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/JaydenCJ/grok-build-desktop) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/JaydenCJ/grok-build-desktop) · 个人维护 · 中文 README
 
 **Grok CLI 的原生桌面客户端：流式对话、会话与 MCP/Skills 管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JaydenCJ/grok-build-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 26（+1）
 
 
 ---

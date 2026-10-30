@@ -1,6 +1,6 @@
 # gethnet/litellm-connector-copilot
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/gethnet/litellm-connector-copilot) · 个人维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/gethnet/litellm-connector-copilot) · 个人维护
 
 **VS Code 扩展：把 LiteLLM 代理上的多模型接入 Copilot Chat**
 
@@ -45,12 +45,12 @@ VS Code 扩展，将运行中的 LiteLLM 代理注册为 VS Code Language Models
 ```mermaid
 xychart-beta
     title "gethnet/litellm-connector-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

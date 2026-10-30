@@ -1,6 +1,6 @@
 # BuilderIO/agent-native
 
-⭐ 7,541 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/BuilderIO/agent-native) · [官网](https://www.agent-native.com) · 组织维护
+⭐ 7,550 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BuilderIO/agent-native) · [官网](https://www.agent-native.com) · 组织维护
 
 **TypeScript agent 应用框架：同一 action 供 agent 与 UI 共用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BuilderIO/agent-native 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 7394 --> 7554
-    line [7407, 7449, 7471, 7484, 7495, 7506, 7519, 7525, 7532, 7541]
+    title "BuilderIO/agent-native 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 7393 --> 7564
+    line [7407, 7449, 7471, 7484, 7495, 7506, 7519, 7525, 7532, 7541, 7550]
 ```
 
-2026-10-18 7,407 → 2026-10-29 7,541（+134）
+2026-10-18 7,407 → 2026-10-30 7,550（+143）
 
 
 ---

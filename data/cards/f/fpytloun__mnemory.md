@@ -1,6 +1,6 @@
 # fpytloun/mnemory
 
-⭐ 280 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fpytloun/mnemory) · 个人维护
+⭐ 281 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/fpytloun/mnemory) · 个人维护
 
 **给 AI agent 提供自托管长期记忆的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fpytloun/mnemory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 278 --> 281
-    line [280, 279, 280, 280]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 278 --> 282
+    line [280, 279, 280, 281]
 ```
 
-2026-10-18 280 → 2026-10-29 280（+0）
+2026-10-18 280 → 2026-10-30 281（+1）
 
 
 ---

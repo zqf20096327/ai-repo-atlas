@@ -1,6 +1,6 @@
 # yuxin-jiang/Awesome-Anomaly-Generation
 
-⭐ 23 · 推送 2025-12-12 · [GitHub](https://github.com/yuxin-jiang/Awesome-Anomaly-Generation) · 个人维护
+⭐ 22 · 推送 2025-12-12 · [GitHub](https://github.com/yuxin-jiang/Awesome-Anomaly-Generation) · 个人维护
 
 **工业异常生成方法的分层分类论文清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yuxin-jiang/Awesome-Anomaly-Generation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 21 --> 24
+    line [23, 22]
 ```
 
-2026-10-18 23 → 2026-10-29 23（+0）
+2026-10-18 23 → 2026-10-30 22（-1）
 
 
 ---

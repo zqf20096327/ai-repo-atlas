@@ -1,6 +1,6 @@
 # chataize/generative-cs
 
-⭐ 44 · C# · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/chataize/generative-cs) · [官网](https://www.chataize.com) · 组织维护
+⭐ 43 · C# · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/chataize/generative-cs) · [官网](https://www.chataize.com) · 组织维护
 
 **.NET 生成式 AI 库：多厂商模型客户端与反射式函数调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chataize/generative-cs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 43（-1）
 
 
 ---

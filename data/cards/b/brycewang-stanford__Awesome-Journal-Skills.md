@@ -1,6 +1,6 @@
 # brycewang-stanford/Awesome-Journal-Skills
 
-⭐ 1,327 · Stata · MIT · 推送 2026-09-27 · [GitHub](https://github.com/brycewang-stanford/Awesome-Journal-Skills) · [官网](https://www.copaper.ai) · 组织维护 · 中文 README
+⭐ 1,334 · Stata · MIT · 推送 2026-09-27 · [GitHub](https://github.com/brycewang-stanford/Awesome-Journal-Skills) · [官网](https://www.copaper.ai) · 组织维护 · 中文 README
 
 **覆盖 744 期刊/会议的 Claude Code/Codex 学术投稿技能包清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/Awesome-Journal-Skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1263 --> 1332
-    line [1268, 1277, 1288, 1297, 1302, 1303, 1314, 1319, 1327]
+    title "brycewang-stanford/Awesome-Journal-Skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1262 --> 1340
+    line [1268, 1277, 1288, 1297, 1302, 1303, 1314, 1319, 1327, 1334]
 ```
 
-2026-10-18 1,268 → 2026-10-29 1,327（+59）
+2026-10-18 1,268 → 2026-10-30 1,334（+66）
 
 
 ---

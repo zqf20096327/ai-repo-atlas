@@ -1,6 +1,6 @@
 # nuxt-ui-templates/chat
 
-⭐ 378 · Vue · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nuxt-ui-templates/chat) · [官网](https://chat-template.nuxt.dev) · 组织维护
+⭐ 379 · Vue · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nuxt-ui-templates/chat) · [官网](https://chat-template.nuxt.dev) · 组织维护
 
 **Nuxt 全栈 AI 聊天机器人模板，含认证与聊天历史**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nuxt-ui-templates/chat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 377 --> 380
-    line [379, 378, 378]
+    line [379, 378, 379]
 ```
 
-2026-10-18 379 → 2026-10-29 378（-1）
+2026-10-18 379 → 2026-10-30 379（+0）
 
 
 ---

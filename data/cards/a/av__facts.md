@@ -1,6 +1,6 @@
 # av/facts
 
-⭐ 206 · Rust · 推送 2026-06-03 · [GitHub](https://github.com/av/facts) · 个人维护
+⭐ 207 · Rust · 推送 2026-06-03 · [GitHub](https://github.com/av/facts) · 个人维护
 
 **面向 AI agent 的项目事实清单工具：原子声明+命令验证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "av/facts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 205 --> 207
-    line [206, 206]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 205 --> 208
+    line [206, 207]
 ```
 
-2026-10-18 206 → 2026-10-29 206（+0）
+2026-10-18 206 → 2026-10-30 207（+1）
 
 
 ---

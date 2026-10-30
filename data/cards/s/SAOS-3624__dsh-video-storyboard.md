@@ -1,6 +1,6 @@
 # SAOS-3624/dsh-video-storyboard
 
-⭐ 98 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SAOS-3624/dsh-video-storyboard) · [官网](https://github.com/SAOS-3624/dsh-video-storyboard) · 个人维护 · 中文 README
+⭐ 183 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SAOS-3624/dsh-video-storyboard) · [官网](https://github.com/SAOS-3624/dsh-video-storyboard) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把视频压成一张可寻址分镜故事板图供文本 agent 阅读**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SAOS-3624/dsh-video-storyboard 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 32 --> 104
-    line [38, 98]
+    title "SAOS-3624/dsh-video-storyboard 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 24 --> 197
+    line [38, 98, 183]
 ```
 
-2026-10-28 38 → 2026-10-29 98（+60）
+2026-10-28 38 → 2026-10-30 183（+145）
 
 
 ---

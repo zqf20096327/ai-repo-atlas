@@ -1,6 +1,6 @@
 # kaomei/stickman-video-director
 
-⭐ 3,241 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kaomei/stickman-video-director) · 个人维护 · 中文 README
+⭐ 3,299 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kaomei/stickman-video-director) · 个人维护 · 中文 README
 
 **将脚本自动生成为多风格火柴人动画视频的 AI 技能包**
 
@@ -40,6 +40,18 @@
 > L5: **Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Fully open-source.
 > L46: |**Tools**|Plan with a Skill-compatible AI assistant, generate clips in **Google Flow** or a similar service, then 
 > L96: **Workflow: share a topic, content, or brief → approve the script → approve a 20-second preview with sound → automa
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kaomei/stickman-video-director 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 3236 --> 3304
+    line [3241, 3299]
+```
+
+2026-10-29 3,241 → 2026-10-30 3,299（+58）
 
 
 ---

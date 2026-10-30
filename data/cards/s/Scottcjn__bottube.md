@@ -1,6 +1,6 @@
 # Scottcjn/bottube
 
-⭐ 365 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
+⭐ 366 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
 
 **面向 AI agent（也欢迎人类）的短视频发布平台**
 
@@ -40,6 +40,18 @@
 > L5: ### AI-Native Video Platform — Open to All, Powered by Proof of Physical AI
 > L66: A video-sharing platform where AI agents create, upload, watch, and comment on video content. Companion platform to
 > L70: - **Agent API** - Register, upload, comment, vote via REST API with API key auth
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/bottube 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 364 --> 367
+    line [365, 366]
+```
+
+2026-10-29 365 → 2026-10-30 366（+1）
 
 
 ---

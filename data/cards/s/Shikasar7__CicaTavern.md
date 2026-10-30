@@ -1,6 +1,6 @@
 # Shikasar7/CicaTavern
 
-⭐ 44 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Shikasar7/CicaTavern) · [官网](https://github.com/Shikasar7/CicaTavern/releases/latest) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Shikasar7/CicaTavern) · [官网](https://github.com/Shikasar7/CicaTavern/releases/latest) · 个人维护 · 中文 README
 
 **兼容酒馆角色卡的 Agent 式角色扮演客户端，用自有模型 API 跑剧情**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shikasar7/CicaTavern 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8 --> 47
-    line [41, 11, 12, 13, 15, 41, 43, 44]
+    title "Shikasar7/CicaTavern 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 8 --> 49
+    line [41, 11, 12, 13, 15, 41, 43, 44, 46]
 ```
 
-2026-10-22 41 → 2026-10-29 44（+3）
+2026-10-22 41 → 2026-10-30 46（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # OtterMind/Nubase
 
-⭐ 620 · Java · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OtterMind/Nubase) · [官网](https://nubase.ai) · 组织维护 · 中文 README
+⭐ 619 · Java · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/OtterMind/Nubase) · [官网](https://nubase.ai) · 组织维护 · 中文 README
 
 **面向 AI 编码 agent 的自托管后端平台，八模块一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OtterMind/Nubase 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 619 --> 624
-    line [623, 622, 621, 620, 620]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 618 --> 624
+    line [623, 622, 621, 620, 619]
 ```
 
-2026-10-18 623 → 2026-10-29 620（-3）
+2026-10-18 623 → 2026-10-30 619（-4）
 
 
 ---

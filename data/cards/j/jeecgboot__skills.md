@@ -1,6 +1,6 @@
 # jeecgboot/skills
 
-⭐ 244 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/skills) · [官网](https://jeecg.com) · 组织维护 · 中文 README
+⭐ 245 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/jeecgboot/skills) · [官网](https://jeecg.com) · 组织维护 · 中文 README
 
 **给 JeecgBoot 开发者的 Claude Code 技能集：一句话生成全套低代码工件**
 
@@ -46,13 +46,13 @@ JeecgBoot 官方维护的 12 个 Claude Code Skills，覆盖 JeecgBoot 低代码
 
 ```mermaid
 xychart-beta
-    title "jeecgboot/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 241 --> 245
-    line [242, 243, 244]
+    title "jeecgboot/skills 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 241 --> 246
+    line [242, 243, 244, 245]
 ```
 
-2026-10-18 242 → 2026-10-29 244（+2）
+2026-10-18 242 → 2026-10-30 245（+3）
 
 
 ---

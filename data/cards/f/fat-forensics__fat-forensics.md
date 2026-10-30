@@ -46,12 +46,12 @@ FAT Forensics（fatf）是基于 SciPy/NumPy 的 Python 工具箱，针对数据
 ```mermaid
 xychart-beta
     title "fat-forensics/fat-forensics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-18 79 → 2026-10-29 79（+0）
+2026-10-18 79 → 2026-10-30 79（+0）
 
 
 ---

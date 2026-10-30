@@ -1,6 +1,6 @@
 # zylos-ai/zylos-core
 
-⭐ 1,160 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
+⭐ 1,160 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
 
 **开源 AI agent 基础设施：为 Claude Code/Codex 提供持久运行与协作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zylos-ai/zylos-core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1157 --> 1161
     line [1158, 1159, 1160, 1160]
 ```
 
-2026-10-18 1,158 → 2026-10-29 1,160（+2）
+2026-10-18 1,158 → 2026-10-30 1,160（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # yasminefolo/reverse-engineering-is-over
 
-⭐ 114 · Python · 推送 2026-05-25 · [GitHub](https://github.com/yasminefolo/reverse-engineering-is-over) · 个人维护 · 中文 README
+⭐ 112 · Python · 推送 2026-05-25 · [GitHub](https://github.com/yasminefolo/reverse-engineering-is-over) · 个人维护 · 中文 README
 
 **AI 辅助逆向工程案例研究论文：还原抖音签名算法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yasminefolo/reverse-engineering-is-over 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 109 --> 115
-    line [110, 112, 113, 114, 114]
+    line [110, 112, 113, 114, 112]
 ```
 
-2026-10-18 110 → 2026-10-29 114（+4）
+2026-10-18 110 → 2026-10-30 112（+2）
 
 
 ---

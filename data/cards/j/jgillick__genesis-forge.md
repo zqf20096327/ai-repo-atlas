@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jgillick/genesis-forge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "jgillick/genesis-forge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-29 17（+1）
+2026-10-18 16 → 2026-10-30 17（+1）
 
 
 ---

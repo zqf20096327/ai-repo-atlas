@@ -1,6 +1,6 @@
 # Anil-matcha/open-character-ai
 
-⭐ 60 · JavaScript · 推送 2026-09-29 · [GitHub](https://github.com/Anil-matcha/open-character-ai) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=open-character-ai) · 个人维护
+⭐ 61 · JavaScript · 推送 2026-09-29 · [GitHub](https://github.com/Anil-matcha/open-character-ai) · [官网](https://muapi.ai?utm_source=github&utm_medium=about&utm_campaign=open-character-ai) · 个人维护
 
 **自托管的 AI 角色对话门户，可预设或自建角色并按对话调参**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/open-character-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 55 --> 61
-    line [56, 57, 60, 60]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 55 --> 62
+    line [56, 57, 60, 61]
 ```
 
-2026-10-18 56 → 2026-10-29 60（+4）
+2026-10-18 56 → 2026-10-30 61（+5）
 
 
 ---

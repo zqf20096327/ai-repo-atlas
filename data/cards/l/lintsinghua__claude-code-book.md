@@ -1,6 +1,6 @@
 # lintsinghua/claude-code-book
 
-⭐ 4,340 · Python · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/claude-code-book) · [官网](https://lintsinghua.github.io) · 个人维护 · 中文 README
+⭐ 4,342 · Python · 推送 2026-10-16 · [GitHub](https://github.com/lintsinghua/claude-code-book) · [官网](https://lintsinghua.github.io) · 个人维护 · 中文 README
 
 **42万字中文书籍：拆解 Claude Code 的 Agent Harness 架构**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lintsinghua/claude-code-book 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4307 --> 4343
-    line [4310, 4311, 4318, 4321, 4323, 4326, 4333, 4338, 4340]
+    title "lintsinghua/claude-code-book 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4307 --> 4345
+    line [4310, 4311, 4318, 4321, 4323, 4326, 4333, 4338, 4340, 4342]
 ```
 
-2026-10-18 4,310 → 2026-10-29 4,340（+30）
+2026-10-18 4,310 → 2026-10-30 4,342（+32）
 
 
 ---

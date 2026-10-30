@@ -1,6 +1,6 @@
 # FANzR-arch/Numerologist_skills
 
-⭐ 1,515 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
+⭐ 1,527 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
 
 **传统术数 AI skills：用固定排盘脚本与口径约束减少 LLM 幻觉**
 
@@ -39,6 +39,18 @@
 
 > L3: 本项目把传统术数相关的 AI skill 拆成可审计、可复用、可逐步扩展的工程模块。目标不是把模型包装成“更会玄学”，而是尽量减少它在排盘、流派口径、步骤顺序和解释链路上的幻觉。
 > L15: - `SKILL.md`：主技能说明、触发条件、工作流、输出约束
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FANzR-arch/Numerologist_skills 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 1514 --> 1528
+    line [1515, 1527]
+```
+
+2026-10-29 1,515 → 2026-10-30 1,527（+12）
 
 
 ---

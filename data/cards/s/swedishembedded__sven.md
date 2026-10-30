@@ -1,6 +1,6 @@
 # swedishembedded/sven
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/swedishembedded/sven) · [官网](https://agentsven.com) · 组织维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/swedishembedded/sven) · [官网](https://agentsven.com) · 组织维护
 
 **Rust 编写的终端 AI agent：读码、执行命令、完成任务的 TUI 与 CI 运行器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "swedishembedded/sven 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 31 --> 35
     line [32, 33, 34, 34]
 ```
 
-2026-10-18 32 → 2026-10-29 34（+2）
+2026-10-18 32 → 2026-10-30 34（+2）
 
 
 ---

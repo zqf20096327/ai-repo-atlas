@@ -1,6 +1,6 @@
 # theBGuy/GitDesktop
 
-⭐ 238 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/theBGuy/GitDesktop) · [官网](https://gitdesktop.app) · 个人维护
+⭐ 239 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/theBGuy/GitDesktop) · [官网](https://gitdesktop.app) · 个人维护
 
 **键盘优先的 AI 增强型 Git 桌面客户端，覆盖三大平台全 PR 流程**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "theBGuy/GitDesktop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 235 --> 239
-    line [236, 237, 238, 238]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 235 --> 240
+    line [236, 237, 238, 239]
 ```
 
-2026-10-18 236 → 2026-10-29 238（+2）
+2026-10-18 236 → 2026-10-30 239（+3）
 
 
 ---

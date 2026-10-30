@@ -1,6 +1,6 @@
 # garudust-org/garudust-agent
 
-⭐ 30 · Rust · MIT · 推送 2026-07-27 · [GitHub](https://github.com/garudust-org/garudust-agent) · [官网](https://garudust-org.github.io/garudust-agent/) · 组织维护 · 中文 README
+⭐ 31 · Rust · MIT · 推送 2026-07-27 · [GitHub](https://github.com/garudust-org/garudust-agent) · [官网](https://garudust-org.github.io/garudust-agent/) · 组织维护 · 中文 README
 
 **自托管 Rust AI agent 运行时：持久记忆、技能自改进、多平台消息**
 
@@ -45,12 +45,12 @@ Rust 编写的自托管 AI agent 运行时，约 10 MB 单二进制、无运行�
 ```mermaid
 xychart-beta
     title "garudust-org/garudust-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-18 29 → 2026-10-29 30（+1）
+2026-10-18 29 → 2026-10-30 31（+2）
 
 
 ---

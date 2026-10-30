@@ -1,6 +1,6 @@
 # XTmingyue/harnessNovel
 
-⭐ 199 · Python · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/XTmingyue/harnessNovel) · [官网](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) · 个人维护 · 中文 README
+⭐ 200 · Python · GPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/XTmingyue/harnessNovel) · [官网](https://mp.weixin.qq.com/s/_GIBLfxKKc6VyMdx9oWhwA) · 个人维护 · 中文 README
 
 **面向网文作者的「拆书+仿写」长篇小说自动化写作 AI Agent**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "XTmingyue/harnessNovel 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 189 --> 200
-    line [190, 193, 194, 195, 196, 197, 198, 199]
+    title "XTmingyue/harnessNovel 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 189 --> 201
+    line [190, 193, 194, 195, 196, 197, 198, 199, 200]
 ```
 
-2026-10-18 190 → 2026-10-29 199（+9）
+2026-10-18 190 → 2026-10-30 200（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # vstorm-co/pydantic-ai-todo
 
-⭐ 76 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/vstorm-co/pydantic-ai-todo) · [官网](https://vstorm-co.github.io/pydantic-deepagents/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/pydantic-ai-todo) · [官网](https://vstorm-co.github.io/pydantic-deepagents/) · 组织维护
 
 **为 Pydantic AI agent 提供任务规划与跟踪的工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/pydantic-ai-todo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-18 76 → 2026-10-29 76（+0）
+2026-10-18 76 → 2026-10-30 76（+0）
 
 
 ---

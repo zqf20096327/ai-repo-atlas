@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR
 
-⭐ 259 · HTML · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) · [官网](https://datadrivenconstruction.io/) · 组织维护
+⭐ 260 · HTML · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) · [官网](https://datadrivenconstruction.io/) · 组织维护
 
 **面向 AI Agent 的开放多语言工程造价数据库（5.5万+工作项）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 250 --> 260
-    line [251, 252, 253, 255, 257, 258, 259]
+    title "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 250 --> 261
+    line [251, 252, 253, 255, 257, 258, 259, 260]
 ```
 
-2026-10-18 251 → 2026-10-29 259（+8）
+2026-10-18 251 → 2026-10-30 260（+9）
 
 
 ---

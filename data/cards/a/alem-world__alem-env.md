@@ -1,6 +1,6 @@
 # alem-world/alem-env
 
-⭐ 56 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/alem-world/alem-env) · [官网](https://alem-world.github.io) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/alem-world/alem-env) · [官网](https://alem-world.github.io) · 组织维护
 
 **评测 LLM/MARL 智能体长期协调能力的 JAX 基准环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alem-world/alem-env 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 53 --> 57
-    line [54, 55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 53 --> 58
+    line [54, 55, 56, 57]
 ```
 
-2026-10-18 54 → 2026-10-29 56（+2）
+2026-10-18 54 → 2026-10-30 57（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # studeyang/technotes
 
-⭐ 41 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/studeyang/technotes) · [官网](https://studeyang.cn/technotes/) · 个人维护 · 中文 README
+⭐ 41 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/studeyang/technotes) · [官网](https://studeyang.cn/technotes/) · 个人维护 · 中文 README
 
 **互联网技术学习笔记仓库：基础/进阶/架构/AI 等分类文档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "studeyang/technotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-29 41（+0）
+2026-10-18 41 → 2026-10-30 41（+0）
 
 
 ---

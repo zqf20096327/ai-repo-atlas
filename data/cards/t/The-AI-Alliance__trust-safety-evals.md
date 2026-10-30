@@ -44,12 +44,12 @@ The AI Alliance 信任与安全评测倡议的代码与文档仓库：定义 AI 
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/trust-safety-evals 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

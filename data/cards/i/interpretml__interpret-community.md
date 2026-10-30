@@ -1,6 +1,6 @@
 # interpretml/interpret-community
 
-⭐ 444 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/interpretml/interpret-community) · [官网](https://interpret-community.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 444 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/interpretml/interpret-community) · [官网](https://interpret-community.readthedocs.io/en/latest/index.html) · 组织维护
 
 **扩展 Interpret 的表格数据模型可解释性 SDK**
 
@@ -40,6 +40,18 @@
 > L9: Interpret-Community is an experimental repository extending Interpret, with additional interpretability techniques a
 > L15: Interpret-Community extends the Interpret repository and incorporates further community developed and experimental 
 > L46: The explanation functions accept both models and pipelines as input as long as the model or pipeline implements a `
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "interpretml/interpret-community 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 443 --> 445
+    line [444, 444]
+```
+
+2026-10-29 444 → 2026-10-30 444（+0）
 
 
 ---

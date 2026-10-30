@@ -45,12 +45,12 @@ UMAP 算法的 C# 重实现（自 JavaScript 版转写，源自 Python 版），
 ```mermaid
 xychart-beta
     title "curiosity-ai/umap-sharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 51（+0）
 
 
 ---

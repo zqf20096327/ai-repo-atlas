@@ -44,12 +44,12 @@ Awesome Data Contamination 维护大语言模型评测中数据污染问题的�
 ```mermaid
 xychart-beta
     title "lyy1994/awesome-data-contamination 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-29 118（+0）
+2026-10-18 118 → 2026-10-30 118（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # meta-llama/PurpleLlama
 
-⭐ 4,449 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/meta-llama/PurpleLlama) · 组织维护
+⭐ 4,450 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/meta-llama/PurpleLlama) · 组织维护
 
 **Meta 的 LLM 安全评估与防护工具集合**
 
@@ -44,13 +44,13 @@ Meta 维护的 LLM 安全伞形项目，包含两类内容：系统级防护组�
 
 ```mermaid
 xychart-beta
-    title "meta-llama/PurpleLlama 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 4435 --> 4450
-    line [4436, 4440, 4444, 4443, 4447, 4448, 4449]
+    title "meta-llama/PurpleLlama 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4435 --> 4451
+    line [4436, 4440, 4444, 4443, 4447, 4448, 4449, 4450]
 ```
 
-2026-10-18 4,436 → 2026-10-29 4,449（+13）
+2026-10-18 4,436 → 2026-10-30 4,450（+14）
 
 
 ---

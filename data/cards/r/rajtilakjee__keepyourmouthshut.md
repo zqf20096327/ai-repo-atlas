@@ -1,6 +1,6 @@
 # rajtilakjee/keepyourmouthshut
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 75 · Python · GPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/rajtilakjee/keepyourmouthshut) · 个人维护
 
 **面向开发者的 AI 播客生成应用：输入主题产出脚本与配音**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rajtilakjee/keepyourmouthshut 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-18 74 → 2026-10-27 75（+1）
+2026-10-18 74 → 2026-10-30 75（+1）
 
 
 ---

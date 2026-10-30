@@ -1,6 +1,6 @@
 # tara-vision/taracode
 
-⭐ 51 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/tara-vision/taracode) · [官网](https://code.tara.vision) · 组织维护
+⭐ 51 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tara-vision/taracode) · [官网](https://code.tara.vision) · 组织维护
 
 **本地运行的 DevOps/云基础设施 AI 助手 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tara-vision/taracode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 51（+0）
 
 
 ---

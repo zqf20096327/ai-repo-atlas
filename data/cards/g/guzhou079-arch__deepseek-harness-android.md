@@ -1,6 +1,6 @@
 # guzhou079-arch/deepseek-harness-android
 
-⭐ 49 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) · [官网](https://github.com/guzhou079-arch/deepseek-harness-android/releases) · 个人维护 · 中文 README
+⭐ 53 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) · [官网](https://github.com/guzhou079-arch/deepseek-harness-android/releases) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的安卓 APK 移植版，手机上跑 AI 自动化与自编译发版**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guzhou079-arch/deepseek-harness-android 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 21 --> 51
-    line [23, 25, 31, 32, 33, 36, 40, 42, 45, 49]
+    title "guzhou079-arch/deepseek-harness-android 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 20 --> 56
+    line [23, 25, 31, 32, 33, 36, 40, 42, 45, 49, 53]
 ```
 
-2026-10-18 23 → 2026-10-29 49（+26）
+2026-10-18 23 → 2026-10-30 53（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ch1rpys/Mirrai
 
-⭐ 1,266 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ch1rpys/Mirrai) · 个人维护 · 中文 README
+⭐ 1,267 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Ch1rpys/Mirrai) · 个人维护 · 中文 README
 
 **上传真实聊天记录，AI 重建熟人数字分身并陪聊的开源陪伴应用**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Ch1rpys/Mirrai 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1265 --> 1268
-    line [1267, 1266, 1266]
+    line [1267, 1266, 1267]
 ```
 
-2026-10-26 1,267 → 2026-10-29 1,266（-1）
+2026-10-26 1,267 → 2026-10-30 1,267（+0）
 
 
 ---

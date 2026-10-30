@@ -1,6 +1,6 @@
 # SteepMans/ai-sni-proxy
 
-⭐ 26 · Shell · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SteepMans/ai-sni-proxy) · 个人维护
+⭐ 27 · Shell · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SteepMans/ai-sni-proxy) · 个人维护
 
 **让受限地区无需 VPN 访问 Claude/ChatGPT 等 AI 服务的 SNI 代理工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SteepMans/ai-sni-proxy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18 --> 27
-    line [19, 20, 22, 23, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 18 --> 28
+    line [19, 20, 22, 23, 26, 27]
 ```
 
-2026-10-18 19 → 2026-10-29 26（+7）
+2026-10-18 19 → 2026-10-30 27（+8）
 
 
 ---

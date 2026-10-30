@@ -1,6 +1,6 @@
 # vc1492a/PyNomaly
 
-⭐ 330 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/vc1492a/PyNomaly) · 个人维护
+⭐ 331 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/vc1492a/PyNomaly) · 个人维护
 
 **LoOP 局部离群概率异常检测的 Python 实现**
 
@@ -45,12 +45,12 @@ Python 3 库，实现 Kriegel 等人提出的 LoOP（Local Outlier Probabilities
 ```mermaid
 xychart-beta
     title "vc1492a/PyNomaly 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 329 --> 331
-    line [330, 330]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 329 --> 332
+    line [330, 331]
 ```
 
-2026-10-18 330 → 2026-10-29 330（+0）
+2026-10-18 330 → 2026-10-30 331（+1）
 
 
 ---

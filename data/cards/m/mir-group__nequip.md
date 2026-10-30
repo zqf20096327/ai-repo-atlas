@@ -1,6 +1,6 @@
 # mir-group/nequip
 
-⭐ 972 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mir-group/nequip) · [官网](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c) · 组织维护
+⭐ 971 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mir-group/nequip) · [官网](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c) · 组织维护
 
 **构建 E(3)-等变原子间势的深度学习代码，面向分子/材料模拟**
 
@@ -44,13 +44,13 @@ NequIP 是用于训练与运行 E(3)-等变图神经网络原子间势的开源�
 
 ```mermaid
 xychart-beta
-    title "mir-group/nequip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
+    title "mir-group/nequip 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 969 --> 973
-    line [971, 970, 971, 972]
+    line [971, 970, 971, 972, 971]
 ```
 
-2026-10-18 971 → 2026-10-29 972（+1）
+2026-10-18 971 → 2026-10-30 971（+0）
 
 
 ---

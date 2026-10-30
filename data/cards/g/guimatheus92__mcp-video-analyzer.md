@@ -1,6 +1,6 @@
 # guimatheus92/mcp-video-analyzer
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/guimatheus92/mcp-video-analyzer) · [官网](https://glama.ai/mcp/servers/guimatheus92/mcp-video-analyzer) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/guimatheus92/mcp-video-analyzer) · [官网](https://glama.ai/mcp/servers/guimatheus92/mcp-video-analyzer) · 个人维护
 
 **把视频转成转录、关键帧、OCR 与元数据的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guimatheus92/mcp-video-analyzer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 94 --> 105
-    line [95, 98, 102, 104]
+    title "guimatheus92/mcp-video-analyzer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 94 --> 108
+    line [95, 98, 102, 104, 107]
 ```
 
-2026-10-18 95 → 2026-10-29 104（+9）
+2026-10-18 95 → 2026-10-30 107（+12）
 
 
 ---

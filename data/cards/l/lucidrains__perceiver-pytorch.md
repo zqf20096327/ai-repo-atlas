@@ -43,13 +43,13 @@ lucidrains 维护的 Perceiver 论文（General Perception with Iterative Attent
 
 ```mermaid
 xychart-beta
-    title "lucidrains/perceiver-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "lucidrains/perceiver-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1220 --> 1223
-    line [1221, 1222]
+    line [1221, 1222, 1222]
 ```
 
-2026-10-18 1,221 → 2026-10-29 1,222（+1）
+2026-10-18 1,221 → 2026-10-30 1,222（+1）
 
 
 ---

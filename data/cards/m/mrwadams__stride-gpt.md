@@ -1,6 +1,6 @@
 # mrwadams/stride-gpt
 
-⭐ 1,145 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mrwadams/stride-gpt) · [官网](https://stridegpt.streamlit.app) · 个人维护
+⭐ 1,145 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mrwadams/stride-gpt) · [官网](https://stridegpt.streamlit.app) · 个人维护
 
 **用 LLM 按 STRIDE 方法生成威胁模型与攻击树的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrwadams/stride-gpt 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "mrwadams/stride-gpt 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1141 --> 1147
-    line [1142, 1144, 1146, 1145, 1144, 1143, 1144, 1145]
+    line [1142, 1144, 1146, 1145, 1144, 1143, 1144, 1145, 1145]
 ```
 
-2026-10-18 1,142 → 2026-10-29 1,145（+3）
+2026-10-18 1,142 → 2026-10-30 1,145（+3）
 
 
 ---

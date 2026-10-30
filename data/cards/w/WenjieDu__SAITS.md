@@ -1,6 +1,6 @@
 # WenjieDu/SAITS
 
-⭐ 515 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/WenjieDu/SAITS) · [官网](https://doi.org/10.1016/j.eswa.2023.119619) · 个人维护
+⭐ 516 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/WenjieDu/SAITS) · [官网](https://doi.org/10.1016/j.eswa.2023.119619) · 个人维护
 
 **论文 SAITS 官方 PyTorch 实现：自注意力时间序列缺失值插补**
 
@@ -44,13 +44,13 @@ SAITS 论文（发表于 Expert Systems with Applications）的官方代码仓�
 
 ```mermaid
 xychart-beta
-    title "WenjieDu/SAITS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 512 --> 516
-    line [513, 515]
+    title "WenjieDu/SAITS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 512 --> 517
+    line [513, 515, 516]
 ```
 
-2026-10-18 513 → 2026-10-29 515（+2）
+2026-10-18 513 → 2026-10-30 516（+3）
 
 
 ---

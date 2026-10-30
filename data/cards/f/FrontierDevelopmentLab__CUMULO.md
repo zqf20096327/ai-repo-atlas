@@ -40,6 +40,18 @@
 > L1: a benchmark dataset for training and evaluating global cloud classification models.
 > L10: It contains over 300k annotated multispectral images at 1km x 1km resolution, providing daily full coverage of the 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FrontierDevelopmentLab/CUMULO 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-10-29 31 → 2026-10-30 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `5e1c5ea1e5af` · [字段定义](../../DATASET.md)*

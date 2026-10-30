@@ -1,6 +1,6 @@
 # mmnto-ai/totem
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mmnto-ai/totem) · 个人维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mmnto-ai/totem) · 个人维护
 
 **把项目规则与教训固化为可执行 lint 的代码库治理 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mmnto-ai/totem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "mmnto-ai/totem 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 16 --> 19
-    line [17, 18]
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 18（+1）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/prompt-eng-interactive-tutorial
 
-⭐ 38,893 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
+⭐ 38,923 · Jupyter Notebook · 推送 2026-08-28 · [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) · 组织维护
 
 **面向开发者的 Claude 提示词工程交互式教程**
 
@@ -50,13 +50,13 @@ Anthropic 官方的提示词工程交互式课程，共 9 章（初级到高级�
 
 ```mermaid
 xychart-beta
-    title "anthropics/prompt-eng-interactive-tutorial 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 38588 --> 38920
-    line [38615, 38661, 38680, 38698, 38710, 38720, 38739, 38764, 38848, 38893]
+    title "anthropics/prompt-eng-interactive-tutorial 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 38585 --> 38953
+    line [38615, 38661, 38680, 38698, 38710, 38720, 38739, 38764, 38848, 38893, 38923]
 ```
 
-2026-10-18 38,615 → 2026-10-29 38,893（+278）
+2026-10-18 38,615 → 2026-10-30 38,923（+308）
 
 
 ---

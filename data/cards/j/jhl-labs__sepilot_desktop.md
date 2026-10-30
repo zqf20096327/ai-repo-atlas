@@ -45,12 +45,12 @@ Sepilot Desktop 是本地优先 AI 代理 Sepilot 的桌面应用，基于 Elect
 ```mermaid
 xychart-beta
     title "jhl-labs/sepilot_desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-29 50（+0）
+2026-10-18 50 → 2026-10-30 50（+0）
 
 
 ---

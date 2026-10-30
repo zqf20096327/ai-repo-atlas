@@ -45,12 +45,12 @@ MATLAB 实现的多变量时间序列预测研究代码：用 UORO 或 RTRL 在�
 ```mermaid
 xychart-beta
     title "pohl-michel/time-series-forecasting-uoro-rtrl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Evilander/Audrey
 
-⭐ 26 · JavaScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Evilander/Audrey) · [官网](https://www.npmjs.com/package/audrey) · 个人维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Evilander/Audrey) · [官网](https://www.npmjs.com/package/audrey) · 个人维护
 
 **给 Codex 与 Claude Code 加持久记忆与行动前核查的本地引擎**
 
@@ -45,12 +45,12 @@ Audrey 以 npm 包安装在 Codex / Claude Code 旁，通过 hooks 形成记忆�
 ```mermaid
 xychart-beta
     title "Evilander/Audrey 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-29 26（+0）
+2026-10-18 26 → 2026-10-30 26（+0）
 
 
 ---

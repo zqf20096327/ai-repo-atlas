@@ -1,6 +1,6 @@
 # advai-x/helix-work
 
-⭐ 147 · 推送 2026-09-30 · [GitHub](https://github.com/advai-x/helix-work) · [官网](https://helixwork.net) · 组织维护 · 中文 README
+⭐ 150 · 推送 2026-09-30 · [GitHub](https://github.com/advai-x/helix-work) · [官网](https://helixwork.net) · 组织维护 · 中文 README
 
 **macOS 通用 AI 工作台：多模型驱动任务执行与产物审阅**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "advai-x/helix-work 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 132 --> 148
-    line [133, 136, 138, 142, 144, 147]
+    title "advai-x/helix-work 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 132 --> 151
+    line [133, 136, 138, 142, 144, 147, 150]
 ```
 
-2026-10-18 133 → 2026-10-29 147（+14）
+2026-10-18 133 → 2026-10-30 150（+17）
 
 
 ---

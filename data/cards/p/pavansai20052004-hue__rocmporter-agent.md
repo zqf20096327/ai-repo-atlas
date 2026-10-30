@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pavansai20052004-hue/rocmporter-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "pavansai20052004-hue/rocmporter-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 15 --> 20
-    line [16, 19]
+    line [16, 19, 19]
 ```
 
-2026-10-18 16 → 2026-10-29 19（+3）
+2026-10-18 16 → 2026-10-30 19（+3）
 
 
 ---

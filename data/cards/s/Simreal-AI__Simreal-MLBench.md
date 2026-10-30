@@ -1,6 +1,6 @@
 # Simreal-AI/Simreal-MLBench
 
-⭐ 269 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Simreal-AI/Simreal-MLBench) · [官网](https://simreal.co) · 组织维护
+⭐ 268 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Simreal-AI/Simreal-MLBench) · [官网](https://simreal.co) · 组织维护
 
 **面向 ML 研究 agent 的外部打分评测基准（60 任务，双层开放）**
 
@@ -46,12 +46,12 @@ Simreal 公司运营的机器学习研究 agent 评测基准：60 个任务覆�
 ```mermaid
 xychart-beta
     title "Simreal-AI/Simreal-MLBench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 266 --> 304
-    line [301, 269, 269]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 265 --> 304
+    line [301, 269, 268]
 ```
 
-2026-10-18 301 → 2026-10-29 269（-32）
+2026-10-18 301 → 2026-10-30 268（-33）
 
 
 ---

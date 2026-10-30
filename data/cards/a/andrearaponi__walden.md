@@ -1,6 +1,6 @@
 # andrearaponi/walden
 
-⭐ 44 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/andrearaponi/walden) · [官网](https://andrearaponi.github.io/walden/) · 个人维护
+⭐ 52 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/andrearaponi/walden) · [官网](https://andrearaponi.github.io/walden/) · 个人维护
 
 **面向编码代理的规格驱动交付内核 CLI：从意图到可认证发布**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrearaponi/walden 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 30 --> 45
-    line [31, 42, 43, 44]
+    title "andrearaponi/walden 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 29 --> 54
+    line [31, 42, 43, 44, 52]
 ```
 
-2026-10-18 31 → 2026-10-29 44（+13）
+2026-10-18 31 → 2026-10-30 52（+21）
 
 
 ---

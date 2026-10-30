@@ -1,6 +1,6 @@
 # kyegomez/awesome-multi-agent-papers
 
-⭐ 1,706 · TeX · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/kyegomez/awesome-multi-agent-papers) · [官网](https://discord.gg/3keGBK9Pvr) · 组织维护
+⭐ 1,704 · TeX · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/kyegomez/awesome-multi-agent-papers) · [官网](https://discord.gg/3keGBK9Pvr) · 组织维护
 
 **多智能体（Multi-Agent）研究论文策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kyegomez/awesome-multi-agent-papers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29"]
+    title "kyegomez/awesome-multi-agent-papers 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1699 --> 1707
-    line [1700, 1701, 1702, 1705, 1706]
+    line [1700, 1701, 1702, 1705, 1706, 1704]
 ```
 
-2026-10-18 1,700 → 2026-10-29 1,706（+6）
+2026-10-18 1,700 → 2026-10-30 1,704（+4）
 
 
 ---

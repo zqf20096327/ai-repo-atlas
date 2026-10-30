@@ -1,6 +1,6 @@
 # RandyChen1985/nanzi-ai-agent-platform
 
-⭐ 218 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RandyChen1985/nanzi-ai-agent-platform) · 个人维护 · 中文 README
+⭐ 220 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/RandyChen1985/nanzi-ai-agent-platform) · 个人维护 · 中文 README
 
 **面向企业的多智能体编排与 ChatBI 平台，数据直连+RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RandyChen1985/nanzi-ai-agent-platform 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 206 --> 219
-    line [207, 209, 212, 213, 214, 215, 217, 218]
+    title "RandyChen1985/nanzi-ai-agent-platform 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 206 --> 221
+    line [207, 209, 212, 213, 214, 215, 217, 218, 220]
 ```
 
-2026-10-18 207 → 2026-10-29 218（+11）
+2026-10-18 207 → 2026-10-30 220（+13）
 
 
 ---

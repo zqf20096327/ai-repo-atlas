@@ -1,6 +1,6 @@
 # lamalab-org/MatText
 
-⭐ 42 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lamalab-org/MatText) · [官网](https://lamalab-org.github.io/MatText/) · 组织维护
+⭐ 43 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/lamalab-org/MatText) · [官网](https://lamalab-org.github.io/MatText/) · 组织维护
 
 **将晶体结构转为文本并用语言模型建模的材料学框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lamalab-org/MatText 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-29 42（+0）
+2026-10-18 42 → 2026-10-30 43（+1）
 
 
 ---

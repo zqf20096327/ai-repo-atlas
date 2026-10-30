@@ -1,6 +1,6 @@
 # nuwa-skills/wangyangming-skill
 
-⭐ 27 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/wangyangming-skill) · 组织维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/wangyangming-skill) · 组织维护 · 中文 README
 
 **王阳明人格的 Agent Skill：以心学框架进行对话分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nuwa-skills/wangyangming-skill 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 24 --> 31
+    line [25, 26, 27, 30]
 ```
 
-2026-10-19 25 → 2026-10-29 27（+2）
+2026-10-19 25 → 2026-10-30 30（+5）
 
 
 ---

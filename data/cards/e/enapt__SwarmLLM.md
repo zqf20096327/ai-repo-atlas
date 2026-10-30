@@ -1,6 +1,6 @@
 # enapt/SwarmLLM
 
-⭐ 67 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/enapt/SwarmLLM) · [官网](https://enapt.github.io/SwarmLLM/) · 组织维护
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/enapt/SwarmLLM) · [官网](https://enapt.github.io/SwarmLLM/) · 组织维护
 
 **多机协作运行本地大模型的开源应用，兼作 ChatGPT 式聊天**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "enapt/SwarmLLM 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "enapt/SwarmLLM 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 58 --> 68
-    line [59, 60, 61, 62, 63, 65, 66, 67]
+    line [59, 60, 61, 62, 63, 65, 66, 67, 67]
 ```
 
-2026-10-18 59 → 2026-10-29 67（+8）
+2026-10-18 59 → 2026-10-30 67（+8）
 
 
 ---

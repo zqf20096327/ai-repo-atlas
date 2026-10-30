@@ -1,6 +1,6 @@
 # kengio/databricks-certification-study-guide
 
-⭐ 49 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kengio/databricks-certification-study-guide) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kengio/databricks-certification-study-guide) · 个人维护
 
 **Databricks 六项认证的开源社区备考指南（笔记+题库）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kengio/databricks-certification-study-guide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 37 --> 50
-    line [38, 42, 43, 45, 46, 48, 49]
+    title "kengio/databricks-certification-study-guide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 37 --> 51
+    line [38, 42, 43, 45, 46, 48, 49, 50]
 ```
 
-2026-10-18 38 → 2026-10-29 49（+11）
+2026-10-18 38 → 2026-10-30 50（+12）
 
 
 ---

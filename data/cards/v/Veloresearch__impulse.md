@@ -1,6 +1,6 @@
 # Veloresearch/impulse
 
-⭐ 34 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
+⭐ 34 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
 
 **本地运行 GGUF 模型的桌面应用：长记忆、电脑操作与 OpenAI 兼容 API**
 
@@ -41,6 +41,18 @@ Velocity 公司开发的 Windows/Linux 桌面应用，加载任意 GGUF 模型�
 > L52: - **One app for running models locally.** Download or add a GGUF model, and Impulse chooses how it runs on your gra
 > L173:  Connect: the API address copied, the key, and ready-made curl, Python and JavaScript requests Connect : one addre
 > L174:  Apps with opencode and Hermes Agent, then Plugins and the Files preset opening Apps and Plugins : agents in one c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Veloresearch/impulse 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
+```
+
+2026-10-29 34 → 2026-10-30 34（+0）
 
 
 ---

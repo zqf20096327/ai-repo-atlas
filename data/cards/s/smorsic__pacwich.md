@@ -1,6 +1,6 @@
 # smorsic/pacwich
 
-⭐ 70 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/smorsic/pacwich) · [官网](https://pacwich.dev) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/smorsic/pacwich) · [官网](https://pacwich.dev) · 个人维护
 
 **面向 Bun/npm/pnpm workspaces 的零配置 monorepo 工具（CLI+TS API）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "smorsic/pacwich 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "smorsic/pacwich 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 68 --> 71
-    line [69, 70]
+    line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-29 70（+1）
+2026-10-18 69 → 2026-10-30 70（+1）
 
 
 ---

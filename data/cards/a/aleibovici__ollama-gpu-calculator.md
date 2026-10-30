@@ -40,6 +40,18 @@
 > L8: Can your GPU run that Ollama model? This web app estimates the VRAM, KV cache, system RAM, decode speed and power dr
 > L40: These are **estimates**. Real usage depends on the Ollama version, the backend (CUDA, ROCm, Metal, MLX), drivers, f
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aleibovici/ollama-gpu-calculator 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 72 --> 74
+    line [73, 73]
+```
+
+2026-10-29 73 → 2026-10-30 73（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `59b19c6e0b62` · [字段定义](../../DATASET.md)*

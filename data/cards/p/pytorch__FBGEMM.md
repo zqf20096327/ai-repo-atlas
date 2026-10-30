@@ -1,6 +1,6 @@
 # pytorch/FBGEMM
 
-⭐ 1,597 · C++ · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pytorch/FBGEMM) · 组织维护
+⭐ 1,597 · C++ · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/pytorch/FBGEMM) · 组织维护
 
 **低精度矩阵乘与卷积内核库，服务服务器端深度学习推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pytorch/FBGEMM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "pytorch/FBGEMM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1594 --> 1598
-    line [1595, 1597, 1596, 1597]
+    line [1595, 1597, 1596, 1597, 1597]
 ```
 
-2026-10-18 1,595 → 2026-10-29 1,597（+2）
+2026-10-18 1,595 → 2026-10-30 1,597（+2）
 
 
 ---

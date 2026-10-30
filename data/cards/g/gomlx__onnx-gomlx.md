@@ -1,6 +1,6 @@
 # gomlx/onnx-gomlx
 
-⭐ 70 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/gomlx/onnx-gomlx) · 组织维护
+⭐ 70 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/gomlx/onnx-gomlx) · 组织维护
 
 **将 ONNX 模型转换为 GoMLX 以便用 Go 推理与微调的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gomlx/onnx-gomlx 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 68 --> 71
     line [69, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-29 70（+1）
+2026-10-18 69 → 2026-10-30 70（+1）
 
 
 ---

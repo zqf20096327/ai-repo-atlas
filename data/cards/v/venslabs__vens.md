@@ -1,6 +1,6 @@
 # venslabs/vens
 
-⭐ 19 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/venslabs/vens) · 组织维护
+⭐ 19 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/venslabs/vens) · 组织维护
 
 **用 LLM 按系统上下文对 CVE 做风险重评分的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "venslabs/vens 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-29 19（+2）
+2026-10-18 17 → 2026-10-30 19（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # undertheseanlp/underthesea
 
-⭐ 1,812 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/undertheseanlp/underthesea) · [官网](http://undertheseanlp.com) · 组织维护
+⭐ 1,812 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/undertheseanlp/underthesea) · [官网](http://undertheseanlp.com) · 组织维护
 
 **越南语 NLP 工具集 + 多供应商 AI Agent 工具包（Python 库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "undertheseanlp/underthesea 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1805 --> 1813
     line [1807, 1806, 1807, 1808, 1809, 1811, 1810, 1811, 1812, 1812]
 ```
 
-2026-10-18 1,807 → 2026-10-29 1,812（+5）
+2026-10-18 1,807 → 2026-10-30 1,812（+5）
 
 
 ---

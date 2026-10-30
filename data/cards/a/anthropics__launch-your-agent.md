@@ -1,6 +1,6 @@
 # anthropics/launch-your-agent
 
-⭐ 1,100 · HTML · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/anthropics/launch-your-agent) · 组织维护
+⭐ 1,103 · HTML · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/anthropics/launch-your-agent) · 组织维护
 
 **引导技术创始人用 Claude Code 搭建 Claude 托管 Agent 的技能包**
 
@@ -43,13 +43,13 @@ Anthropic 发布的 Claude Code skill 参考实现：面向想在 Claude Managed
 
 ```mermaid
 xychart-beta
-    title "anthropics/launch-your-agent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1059 --> 1103
-    line [1062, 1070, 1071, 1074, 1077, 1080, 1087, 1091, 1097, 1100]
+    title "anthropics/launch-your-agent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1058 --> 1107
+    line [1062, 1070, 1071, 1074, 1077, 1080, 1087, 1091, 1097, 1100, 1103]
 ```
 
-2026-10-18 1,062 → 2026-10-29 1,100（+38）
+2026-10-18 1,062 → 2026-10-30 1,103（+41）
 
 
 ---

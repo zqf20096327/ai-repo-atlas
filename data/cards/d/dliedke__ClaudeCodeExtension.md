@@ -1,6 +1,6 @@
 # dliedke/ClaudeCodeExtension
 
-⭐ 78 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/dliedke/ClaudeCodeExtension) · [官网](https://marketplace.visualstudio.com/items?itemName=dliedke.ClaudeCodeExtension) · 个人维护
+⭐ 78 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dliedke/ClaudeCodeExtension) · [官网](https://marketplace.visualstudio.com/items?itemName=dliedke.ClaudeCodeExtension) · 个人维护
 
 **Visual Studio 扩展：在 IDE 内承载多种 AI 编程代理的统一界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dliedke/ClaudeCodeExtension 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 74 --> 79
     line [75, 76, 77, 78, 78]
 ```
 
-2026-10-18 75 → 2026-10-29 78（+3）
+2026-10-18 75 → 2026-10-30 78（+3）
 
 
 ---

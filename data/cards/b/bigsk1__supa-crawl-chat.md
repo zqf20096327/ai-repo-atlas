@@ -46,12 +46,12 @@ Python 应用，整合 Crawl4AI 爬取网站与 sitemap、Supabase(pgvector/Post
 ```mermaid
 xychart-beta
     title "bigsk1/supa-crawl-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-29 30（+0）
+2026-10-18 30 → 2026-10-30 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rextail-ai/lessloc
 
-⭐ 107 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rextail-ai/lessloc) · [官网](https://lessloc.org) · 组织维护
+⭐ 108 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/rextail-ai/lessloc) · [官网](https://lessloc.org) · 组织维护
 
 **约束 AI 编码代理少写代码的钩子插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rextail-ai/lessloc 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 100 --> 108
-    line [101, 102, 103, 104, 107]
+    title "rextail-ai/lessloc 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 100 --> 109
+    line [101, 102, 103, 104, 107, 108]
 ```
 
-2026-10-24 101 → 2026-10-29 107（+6）
+2026-10-24 101 → 2026-10-30 108（+7）
 
 
 ---

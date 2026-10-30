@@ -1,6 +1,6 @@
 # AutoPTZ/autoptz
 
-⭐ 117 · Python · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AutoPTZ/autoptz) · 组织维护
+⭐ 118 · Python · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/AutoPTZ/autoptz) · 组织维护
 
 **AI 驱动的 PTZ 摄像头自动跟踪桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AutoPTZ/autoptz 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 112 --> 118
-    line [113, 114, 117]
+    title "AutoPTZ/autoptz 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 112 --> 119
+    line [113, 114, 117, 118]
 ```
 
-2026-10-18 113 → 2026-10-29 117（+4）
+2026-10-18 113 → 2026-10-30 118（+5）
 
 
 ---

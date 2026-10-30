@@ -46,12 +46,12 @@ Vibe Science 是构建在 Claude Code 之上的研究运行时插件系统，分
 ```mermaid
 xychart-beta
     title "th3vib3coder/vibe-science 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

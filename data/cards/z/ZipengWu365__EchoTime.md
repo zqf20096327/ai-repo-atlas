@@ -1,6 +1,6 @@
 # ZipengWu365/EchoTime
 
-⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ZipengWu365/EchoTime) · [官网](https://zipengwu365.github.io/EchoTime/) · 个人维护
+⭐ 22 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ZipengWu365/EchoTime) · [官网](https://zipengwu365.github.io/EchoTime/) · 个人维护
 
 **可解释时间序列结构相似度比较库，输出 HTML 报告与 agent JSON**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZipengWu365/EchoTime 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

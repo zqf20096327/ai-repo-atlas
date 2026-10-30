@@ -1,6 +1,6 @@
 # ccch1mneyyy/dsh-go
 
-⭐ 114 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
+⭐ 148 · 推送 2026-10-25 · [GitHub](https://github.com/ccch1mneyyy/dsh-go) · 个人维护 · 中文 README
 
 **手机上运行 DeepSeek Harness 的 Android 非官方客户端**
 
@@ -44,13 +44,13 @@ Flutter 编写的 DeepSeek Harness（DSH）Android 客户端，社区开发、�
 
 ```mermaid
 xychart-beta
-    title "ccch1mneyyy/dsh-go 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 40 --> 120
-    line [46, 68, 90, 114]
+    title "ccch1mneyyy/dsh-go 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 36 --> 158
+    line [46, 68, 90, 114, 148]
 ```
 
-2026-10-26 46 → 2026-10-29 114（+68）
+2026-10-26 46 → 2026-10-30 148（+102）
 
 
 ---

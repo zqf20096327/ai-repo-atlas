@@ -1,6 +1,6 @@
 # neomatrix369/rag-params-finder
 
-⭐ 19 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/neomatrix369/rag-params-finder) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/neomatrix369/rag-params-finder) · 个人维护
 
 **RAG 参数扫描评测工具：在构建应用前找到最优检索配置**
 
@@ -45,12 +45,12 @@ Python/FastAPI 后端加 React 仪表盘的 RAG 参数扫描实验工具：给�
 ```mermaid
 xychart-beta
     title "neomatrix369/rag-params-finder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

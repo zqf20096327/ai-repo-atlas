@@ -1,6 +1,6 @@
 # PurpleDoubleD/locally-uncensored
 
-⭐ 2,914 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
+⭐ 3,016 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) · [官网](https://locallyuncensored.com) · 个人维护
 
 **桌面端一体化本地 AI 工作室：聊天、图像视频生成与编程 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PurpleDoubleD/locally-uncensored 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2283 --> 2971
-    line [2340, 2406, 2447, 2473, 2492, 2521, 2551, 2588, 2672, 2914]
+    title "PurpleDoubleD/locally-uncensored 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2273 --> 3083
+    line [2340, 2406, 2447, 2473, 2492, 2521, 2551, 2588, 2672, 2914, 3016]
 ```
 
-2026-10-18 2,340 → 2026-10-29 2,914（+574）
+2026-10-18 2,340 → 2026-10-30 3,016（+676）
 
 
 ---

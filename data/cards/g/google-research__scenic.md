@@ -1,6 +1,6 @@
 # google-research/scenic
 
-⭐ 3,846 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-research/scenic) · 组织维护
+⭐ 3,845 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-research/scenic) · 组织维护
 
 **基于 JAX/Flax 的注意力视觉模型研究训练库**
 
@@ -46,12 +46,12 @@ Google Research 维护的计算机视觉研究代码库，基于 JAX 与 Flax �
 ```mermaid
 xychart-beta
     title "google-research/scenic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
     y-axis "stars" 3843 --> 3848
-    line [3844, 3845, 3847, 3846, 3846]
+    line [3844, 3845, 3847, 3846, 3845]
 ```
 
-2026-10-18 3,844 → 2026-10-29 3,846（+2）
+2026-10-18 3,844 → 2026-10-30 3,845（+1）
 
 
 ---

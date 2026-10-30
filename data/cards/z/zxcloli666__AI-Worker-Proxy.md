@@ -1,6 +1,6 @@
 # zxcloli666/AI-Worker-Proxy
 
-⭐ 106 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/zxcloli666/AI-Worker-Proxy) · 个人维护
+⭐ 107 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/zxcloli666/AI-Worker-Proxy) · 个人维护
 
 **跑在 Cloudflare Workers 上的 OpenAI 兼容免费 AI 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zxcloli666/AI-Worker-Proxy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 105 --> 108
+    line [106, 107]
 ```
 
-2026-10-18 106 → 2026-10-29 106（+0）
+2026-10-18 106 → 2026-10-30 107（+1）
 
 
 ---

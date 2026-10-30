@@ -1,6 +1,6 @@
 # VelornLabs/velorn
 
-⭐ 514 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/VelornLabs/velorn) · [官网](https://velorn.ai) · 组织维护
+⭐ 517 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/VelornLabs/velorn) · [官网](https://velorn.ai) · 组织维护
 
 **开源桌面 AI 视频工作站：时间线剪辑 + ComfyUI 生成 + 100+ MCP 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VelornLabs/velorn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 502 --> 515
-    line [503, 504, 505, 509, 512, 513, 514]
+    title "VelornLabs/velorn 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 502 --> 518
+    line [503, 504, 505, 509, 512, 513, 514, 517]
 ```
 
-2026-10-18 503 → 2026-10-29 514（+11）
+2026-10-18 503 → 2026-10-30 517（+14）
 
 
 ---

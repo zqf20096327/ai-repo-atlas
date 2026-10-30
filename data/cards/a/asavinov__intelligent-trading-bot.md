@@ -1,6 +1,6 @@
 # asavinov/intelligent-trading-bot
 
-⭐ 1,886 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/asavinov/intelligent-trading-bot) · [官网](https://t.me/intelligent_trading_signals) · 个人维护
+⭐ 1,887 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/asavinov/intelligent-trading-bot) · [官网](https://t.me/intelligent_trading_signals) · 个人维护
 
 **基于机器学习与特征工程的加密货币自动交易与信号机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "asavinov/intelligent-trading-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1882 --> 1887
-    line [1884, 1883, 1884, 1885, 1886, 1885, 1886]
+    title "asavinov/intelligent-trading-bot 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1882 --> 1888
+    line [1884, 1883, 1884, 1885, 1886, 1885, 1886, 1887]
 ```
 
-2026-10-18 1,884 → 2026-10-29 1,886（+2）
+2026-10-18 1,884 → 2026-10-30 1,887（+3）
 
 
 ---

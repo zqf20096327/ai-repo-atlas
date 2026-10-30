@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Troyanovsky/Local-LLM-Comparison-Colab-UI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "Troyanovsky/Local-LLM-Comparison-Colab-UI 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1105 --> 1108
-    line [1107, 1106]
+    line [1107, 1106, 1106]
 ```
 
-2026-10-18 1,107 → 2026-10-29 1,106（-1）
+2026-10-18 1,107 → 2026-10-30 1,106（-1）
 
 
 ---

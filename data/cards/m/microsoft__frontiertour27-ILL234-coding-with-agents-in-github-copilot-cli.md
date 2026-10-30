@@ -1,6 +1,6 @@
 # microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli
 
-⭐ 30 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli) · 组织维护
+⭐ 37 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli) · 组织维护
 
 **Microsoft Frontier Tour 2027 课程仓库：用 Copilot CLI 学 agent 编码**
 
@@ -44,12 +44,12 @@ Microsoft Frontier Tour 2027 的动手实验课程（ILL234）配套仓库：围
 ```mermaid
 xychart-beta
     title "microsoft/frontiertour27-ILL234-coding-with-agents-in-github-copilot-cli 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 18 --> 31
-    line [19, 27, 30, 30]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 18 --> 38
+    line [19, 27, 30, 37]
 ```
 
-2026-10-22 19 → 2026-10-29 30（+11）
+2026-10-22 19 → 2026-10-30 37（+18）
 
 
 ---

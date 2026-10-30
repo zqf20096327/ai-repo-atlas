@@ -41,6 +41,18 @@
 > L11: |Análisis|Python · Ollama · Qwen 3.5|Generar informes a partir de las lecturas|
 > L129: El analizador consulta la API con su certificado, envía únicamente lecturas vigentes a Ollama y valida una respues
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "em4nu3i69dll/service-status-api 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-10-29 33 → 2026-10-30 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `452618962d9e` · [字段定义](../../DATASET.md)*

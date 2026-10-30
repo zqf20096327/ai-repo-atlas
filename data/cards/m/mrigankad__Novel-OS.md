@@ -1,6 +1,6 @@
 # mrigankad/Novel-OS
 
-⭐ 54 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/mrigankad/Novel-OS) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/mrigankad/Novel-OS) · 个人维护
 
 **多智能体小说写作工作室：持久故事状态+连续性检查**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrigankad/Novel-OS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 50 --> 55
-    line [51, 53, 54, 53, 54]
+    title "mrigankad/Novel-OS 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 50 --> 56
+    line [51, 53, 54, 53, 54, 55]
 ```
 
-2026-10-18 51 → 2026-10-29 54（+3）
+2026-10-18 51 → 2026-10-30 55（+4）
 
 
 ---

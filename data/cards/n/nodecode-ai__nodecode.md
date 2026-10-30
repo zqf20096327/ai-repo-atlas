@@ -1,6 +1,6 @@
 # nodecode-ai/nodecode
 
-⭐ 153 · Common Lisp · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
+⭐ 160 · Common Lisp · MIT · 推送 2026-10-29 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
 
 **用 Common Lisp 自我改写的终端编码 agent**
 
@@ -39,6 +39,18 @@ Nodecode 是运行于 SBCL（Common Lisp）单进程中的 agent，终端、浏�
 
 > L19: Nodecode is an agent that rewrites itself. It runs as one process in SBCL, a Common Lisp system, and shells attach 
 > L61: *"Its programs are in the same format as its data."* (John McCarthy, 1984). Code is data, so a program can rewrite 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nodecode-ai/nodecode 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 152 --> 161
+    line [153, 160]
+```
+
+2026-10-29 153 → 2026-10-30 160（+7）
 
 
 ---

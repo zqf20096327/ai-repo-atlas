@@ -1,6 +1,6 @@
 # webpro255/agentlock
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/webpro255/agentlock) · [官网](https://agentlock.dev) · 个人维护
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/webpro255/agentlock) · [官网](https://agentlock.dev) · 个人维护
 
 **LLM 智能体工具调用的来源授权门控库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "webpro255/agentlock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

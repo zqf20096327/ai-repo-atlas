@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasOmnia/hermes-megathreads 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    title "AtlasOmnia/hermes-megathreads 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 58 --> 62
-    line [59, 61]
+    line [59, 61, 61]
 ```
 
-2026-10-28 59 → 2026-10-29 61（+2）
+2026-10-28 59 → 2026-10-30 61（+2）
 
 
 ---

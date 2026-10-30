@@ -1,6 +1,6 @@
 # croit/aiplane
 
-⭐ 29 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/croit/aiplane) · [官网](https://www.croit.io/solutions/aiplane) · 组织维护
+⭐ 29 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/croit/aiplane) · [官网](https://www.croit.io/solutions/aiplane) · 组织维护
 
 **自托管 AI 平台：面向组织的模型网关、工作区与 agent 运行时**
 
@@ -46,12 +46,12 @@ AIplane 是 croit 维护的自托管 AI 基础设施，组合三部分：员工�
 ```mermaid
 xychart-beta
     title "croit/aiplane 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
     y-axis "stars" 24 --> 30
     line [25, 28, 29, 29]
 ```
 
-2026-10-18 25 → 2026-10-29 29（+4）
+2026-10-18 25 → 2026-10-30 29（+4）
 
 
 ---

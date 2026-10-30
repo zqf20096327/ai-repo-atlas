@@ -1,6 +1,6 @@
 # alchaincyf/fanbox
 
-⭐ 1,060 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/alchaincyf/fanbox) · [官网](https://github.com/alchaincyf/fanbox/releases/latest) · 个人维护 · 中文 README
+⭐ 1,062 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/alchaincyf/fanbox) · [官网](https://github.com/alchaincyf/fanbox/releases/latest) · 个人维护 · 中文 README
 
 **给 vibe coding 的本地驾驶舱：文件浏览+内嵌终端+追踪 agent 改动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alchaincyf/fanbox 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1032 --> 1062
-    line [1034, 1037, 1043, 1046, 1049, 1051, 1053, 1055, 1058, 1060]
+    title "alchaincyf/fanbox 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1032 --> 1064
+    line [1034, 1037, 1043, 1046, 1049, 1051, 1053, 1055, 1058, 1060, 1062]
 ```
 
-2026-10-18 1,034 → 2026-10-29 1,060（+26）
+2026-10-18 1,034 → 2026-10-30 1,062（+28）
 
 
 ---

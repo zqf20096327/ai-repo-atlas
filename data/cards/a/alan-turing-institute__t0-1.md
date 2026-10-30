@@ -46,12 +46,12 @@ Alan Turing Institute t0 研究计划的示例仓库：以 NHS A to Z 病症网�
 ```mermaid
 xychart-beta
     title "alan-turing-institute/t0-1 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 35（+0）
 
 
 ---

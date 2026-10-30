@@ -1,6 +1,6 @@
 # MingyiSecLab/Atlas
 
-⭐ 40 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/MingyiSecLab/Atlas) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/MingyiSecLab/Atlas) · 组织维护 · 中文 README
 
 **本地 AI 安全评估智能体桌面应用，带可视化渗透测试工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MingyiSecLab/Atlas 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 34 --> 41
-    line [35, 37, 39, 40, 40]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 34 --> 42
+    line [35, 37, 39, 40, 41]
 ```
 
-2026-10-18 35 → 2026-10-29 40（+5）
+2026-10-18 35 → 2026-10-30 41（+6）
 
 
 ---

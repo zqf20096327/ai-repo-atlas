@@ -1,6 +1,6 @@
 # MinishLab/model2vec
 
-⭐ 2,258 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MinishLab/model2vec) · [官网](https://minish.ai/packages/model2vec/introduction) · 组织维护
+⭐ 2,259 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/MinishLab/model2vec) · [官网](https://minish.ai/packages/model2vec/introduction) · 组织维护
 
 **把 Sentence Transformer 蒸馏成小型快速静态嵌入模型的 Python 库**
 
@@ -46,12 +46,12 @@ Model2Vec 提供一种将任意 sentence transformer 转换为小型静态嵌入
 ```mermaid
 xychart-beta
     title "MinishLab/model2vec 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2245 --> 2259
-    line [2246, 2248, 2251, 2252, 2256, 2257, 2258, 2258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2245 --> 2260
+    line [2246, 2248, 2251, 2252, 2256, 2257, 2258, 2259]
 ```
 
-2026-10-18 2,246 → 2026-10-29 2,258（+12）
+2026-10-18 2,246 → 2026-10-30 2,259（+13）
 
 
 ---

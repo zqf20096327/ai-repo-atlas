@@ -45,12 +45,12 @@ IEEE CIVEMSA 2019 论文的 MATLAB 源码：从单次非接触手掌图像中提
 ```mermaid
 xychart-beta
     title "AngeloUNIMI/FusionNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

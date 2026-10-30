@@ -1,6 +1,6 @@
 # benediktfesl/Diffusion_channel_est
 
-⭐ 88 · Python · BSD-3-Clause · 推送 2026-06-17 · [GitHub](https://github.com/benediktfesl/Diffusion_channel_est) · 个人维护
+⭐ 89 · Python · BSD-3-Clause · 推送 2026-06-17 · [GitHub](https://github.com/benediktfesl/Diffusion_channel_est) · 个人维护
 
 **扩散模型做低复杂度 MIMO 信道估计的论文源码**
 
@@ -45,12 +45,12 @@ IEEE Wireless Communications Letters 2024 论文 'Diffusion-Based Generative Pri
 ```mermaid
 xychart-beta
     title "benediktfesl/Diffusion_channel_est 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-29 88（+0）
+2026-10-18 88 → 2026-10-30 89（+1）
 
 
 ---

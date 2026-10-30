@@ -1,6 +1,6 @@
 # ragleap/ragleap-core
 
-⭐ 19 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ragleap/ragleap-core) · [官网](https://ragleap.com) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ragleap/ragleap-core) · [官网](https://ragleap.com) · 组织维护
 
 **自托管的企业级 AI 员工系统：46 个岗位角色、审批制自主执行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ragleap/ragleap-core 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-19", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-19 19 → 2026-10-29 19（+0）
+2026-10-19 19 → 2026-10-30 19（+0）
 
 
 ---

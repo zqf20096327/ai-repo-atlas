@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "GenRobo/GRID-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "GenRobo/GRID-playground 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 345 --> 348
-    line [346, 347]
+    line [346, 347, 347]
 ```
 
-2026-10-18 346 → 2026-10-29 347（+1）
+2026-10-18 346 → 2026-10-30 347（+1）
 
 
 ---

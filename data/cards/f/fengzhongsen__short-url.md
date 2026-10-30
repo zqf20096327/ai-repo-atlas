@@ -46,12 +46,12 @@ Fork 自 onee-io/short-url 并重构的短链接工具：Monorepo 结构（React
 ```mermaid
 xychart-beta
     title "fengzhongsen/short-url 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

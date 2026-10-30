@@ -1,6 +1,6 @@
 # sidmohan0/tesserack
 
-⭐ 39 · JavaScript · 推送 2026-01-30 · [GitHub](https://github.com/sidmohan0/tesserack) · [官网](https://tesserack.ai) · 个人维护
+⭐ 40 · JavaScript · 推送 2026-01-30 · [GitHub](https://github.com/sidmohan0/tesserack) · [官网](https://tesserack.ai) · 个人维护
 
 **用 LLM 从游戏攻略编译 RL 奖励函数，训练游戏智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sidmohan0/tesserack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 37 --> 40
-    line [38, 39]
+    title "sidmohan0/tesserack 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-10-29 39（+1）
+2026-10-18 38 → 2026-10-30 40（+2）
 
 
 ---

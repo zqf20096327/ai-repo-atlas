@@ -1,6 +1,6 @@
 # SimaDevelopment/opsiforce
 
-⭐ 38 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/SimaDevelopment/opsiforce) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管平台：在自有 Kubernetes 上构建、托管 AI 生成的应用与 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

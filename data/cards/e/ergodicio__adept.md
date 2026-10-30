@@ -1,6 +1,6 @@
 # ergodicio/adept
 
-⭐ 38 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ergodicio/adept) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ergodicio/adept) · 个人维护
 
 **JAX 编写的可微等离子体输运模拟代码**
 
@@ -46,12 +46,12 @@ ADEPT 是基于 JAX 的自动微分等离子体输运仿真代码，用 diffrax 
 ```mermaid
 xychart-beta
     title "ergodicio/adept 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-29 38（+0）
+2026-10-18 38 → 2026-10-30 38（+0）
 
 
 ---

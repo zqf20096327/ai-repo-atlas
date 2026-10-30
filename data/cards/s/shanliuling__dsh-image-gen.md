@@ -1,6 +1,6 @@
 # shanliuling/dsh-image-gen
 
-⭐ 829 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shanliuling/dsh-image-gen) · [官网](https://github.com/shanliuling/dsh-image-gen#readme) · 个人维护 · 中文 README
+⭐ 902 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shanliuling/dsh-image-gen) · [官网](https://github.com/shanliuling/dsh-image-gen#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 AI 图像创作插件：对话生图、画布与多模型对比**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shanliuling/dsh-image-gen 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 602 --> 849
-    line [622, 642, 660, 665, 676, 683, 700, 747, 794, 829]
+    title "shanliuling/dsh-image-gen 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 594 --> 930
+    line [622, 642, 660, 665, 676, 683, 700, 747, 794, 829, 902]
 ```
 
-2026-10-18 622 → 2026-10-29 829（+207）
+2026-10-18 622 → 2026-10-30 902（+280）
 
 
 ---

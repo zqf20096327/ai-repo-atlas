@@ -41,6 +41,18 @@
 > L94: The vcipher prefilter patches `ggml_compute_forward_flash_attn_ext_f16_one_chunk()` in llama.cpp:
 > L177: cd llama.cpp && mkdir build-vcipher && cd build-vcipher
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/pse-vcipher-collapse 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
+```
+
+2026-10-29 40 → 2026-10-30 40（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `3d16b7c5d01a` · [字段定义](../../DATASET.md)*

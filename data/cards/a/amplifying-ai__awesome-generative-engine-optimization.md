@@ -1,6 +1,6 @@
 # amplifying-ai/awesome-generative-engine-optimization
 
-⭐ 533 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
+⭐ 534 · 推送 2026-04-14 · [GitHub](https://github.com/amplifying-ai/awesome-generative-engine-optimization) · 组织维护
 
 **生成式引擎优化（GEO）资源策展清单：指南、工具与研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 525 --> 534
-    line [526, 528, 529, 531, 532, 533]
+    title "amplifying-ai/awesome-generative-engine-optimization 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 525 --> 535
+    line [526, 528, 529, 531, 532, 533, 534]
 ```
 
-2026-10-18 526 → 2026-10-29 533（+7）
+2026-10-18 526 → 2026-10-30 534（+8）
 
 
 ---

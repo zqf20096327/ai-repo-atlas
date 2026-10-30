@@ -1,6 +1,6 @@
 # vstaln/gray
 
-⭐ 24 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstaln/gray) · [官网](https://gray.alignment.id) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstaln/gray) · [官网](https://gray.alignment.id) · 个人维护
 
 **单文件 Rust 编写的常驻 AI agent 运行框架，任意模型可接入**
 
@@ -45,13 +45,13 @@ Gray 是以单个静态 Rust 二进制分发的编码与自动化 agent 框架�
 
 ```mermaid
 xychart-beta
-    title "vstaln/gray 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "vstaln/gray 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 19 --> 25
-    line [20, 21, 22, 23, 24]
+    line [20, 21, 22, 23, 24, 23]
 ```
 
-2026-10-18 20 → 2026-10-29 24（+4）
+2026-10-18 20 → 2026-10-30 23（+3）
 
 
 ---

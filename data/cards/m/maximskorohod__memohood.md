@@ -45,13 +45,13 @@ MemoHood 是面向 hermes-agent 的记忆提供方插件（memory.provider），
 
 ```mermaid
 xychart-beta
-    title "maximskorohod/memohood 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    title "maximskorohod/memohood 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 22 --> 26
-    line [23, 24, 25]
+    line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 25（+2）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

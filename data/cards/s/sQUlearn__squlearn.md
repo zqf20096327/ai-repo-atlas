@@ -45,12 +45,12 @@ sQUlearn 是量子机器学习（QML）Python 库，提供与 scikit-learn 兼�
 ```mermaid
 xychart-beta
     title "sQUlearn/squlearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-29 105（+0）
+2026-10-18 105 → 2026-10-30 105（+0）
 
 
 ---

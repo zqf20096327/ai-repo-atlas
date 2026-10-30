@@ -1,6 +1,6 @@
 # chunkhound/chunkhound
 
-⭐ 1,455 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 组织维护
+⭐ 1,455 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 组织维护
 
 **本地优先的代码库智能检索工具，给 agent 与团队提供带引用的上下文**
 
@@ -46,12 +46,12 @@ ChunkHound 对本地代码库、git 历史与技术网页资料建索引，通�
 ```mermaid
 xychart-beta
     title "chunkhound/chunkhound 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 1450 --> 1456
     line [1451, 1453, 1455, 1455]
 ```
 
-2026-10-18 1,451 → 2026-10-29 1,455（+4）
+2026-10-18 1,451 → 2026-10-30 1,455（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # JingbiaoMei/ATM-Bench
 
-⭐ 71 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/JingbiaoMei/ATM-Bench) · 组织维护 · 中文 README
+⭐ 72 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/JingbiaoMei/ATM-Bench) · 组织维护 · 中文 README
 
 **长期个性化记忆问答基准：约 4 年多模态数据的指代性问答评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JingbiaoMei/ATM-Bench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 69 --> 72
-    line [70, 71, 71]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 69 --> 73
+    line [70, 71, 72]
 ```
 
-2026-10-18 70 → 2026-10-29 71（+1）
+2026-10-18 70 → 2026-10-30 72（+2）
 
 
 ---

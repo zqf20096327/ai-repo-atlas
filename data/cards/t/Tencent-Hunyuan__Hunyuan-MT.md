@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan-MT
 
-⭐ 727 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-MT) · 组织维护 · 中文 README
+⭐ 728 · Python · NOASSERTION · 推送 2025-12-30 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-MT) · 组织维护 · 中文 README
 
 **腾讯混元开源翻译模型：7B 翻译模型与集成模型，33 语言互译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hunyuan-MT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
+    title "Tencent-Hunyuan/Hunyuan-MT 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 725 --> 729
-    line [726, 727, 728, 727]
+    line [726, 727, 728, 727, 728]
 ```
 
-2026-10-18 726 → 2026-10-29 727（+1）
+2026-10-18 726 → 2026-10-30 728（+2）
 
 
 ---

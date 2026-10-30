@@ -1,6 +1,6 @@
 # scallop-lang/scallop
 
-⭐ 521 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scallop-lang/scallop) · [官网](https://www.scallop-lang.org) · 组织维护
+⭐ 522 · Rust · MIT · 推送 2026-06-26 · [GitHub](https://github.com/scallop-lang/scallop) · [官网](https://www.scallop-lang.org) · 组织维护
 
 **面向神经符号编程的 DataLog 语言与框架，支持可微推理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "scallop-lang/scallop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 518 --> 522
-    line [519, 520, 521]
+    title "scallop-lang/scallop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 518 --> 523
+    line [519, 520, 521, 522]
 ```
 
-2026-10-18 519 → 2026-10-29 521（+2）
+2026-10-18 519 → 2026-10-30 522（+3）
 
 
 ---

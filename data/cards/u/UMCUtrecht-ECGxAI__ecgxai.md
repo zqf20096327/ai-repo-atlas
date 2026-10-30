@@ -46,12 +46,12 @@ UMC Utrecht ECGxAI 研究组发布的可安装 Python 包，基于 PyTorch Light
 ```mermaid
 xychart-beta
     title "UMCUtrecht-ECGxAI/ecgxai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-29 102（+0）
+2026-10-18 102 → 2026-10-30 102（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "baifanxxx/awesome-active-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    title "baifanxxx/awesome-active-learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 806 --> 810
-    line [807, 808, 809]
+    line [807, 808, 809, 809]
 ```
 
-2026-10-18 807 → 2026-10-29 809（+2）
+2026-10-18 807 → 2026-10-30 809（+2）
 
 
 ---

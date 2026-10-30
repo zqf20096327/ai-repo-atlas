@@ -1,6 +1,6 @@
 # Kobar-Project/KoBar
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Kobar-Project/KoBar) · [官网](https://kobar.org) · 个人维护
+⭐ 97 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Kobar-Project/KoBar) · [官网](https://kobar.org) · 个人维护
 
 **桌面常驻侧边栏工具条：笔记+插件化的效率工具集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kobar-Project/KoBar 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 94 --> 98
+    line [95, 97]
 ```
 
-2026-10-18 95 → 2026-10-29 95（+0）
+2026-10-18 95 → 2026-10-30 97（+2）
 
 
 ---

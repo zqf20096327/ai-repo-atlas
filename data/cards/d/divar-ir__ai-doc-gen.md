@@ -1,6 +1,6 @@
 # divar-ir/ai-doc-gen
 
-⭐ 767 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/divar-ir/ai-doc-gen) · 组织维护
+⭐ 768 · Python · MIT · 推送 2026-07-21 · [GitHub](https://github.com/divar-ir/ai-doc-gen) · 组织维护
 
 **多 agent 代码库分析与文档生成系统，产出 README 与 AI 助手配置**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "divar-ir/ai-doc-gen 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 766 --> 769
-    line [768, 767, 767]
+    line [768, 767, 768]
 ```
 
-2026-10-18 768 → 2026-10-29 767（-1）
+2026-10-18 768 → 2026-10-30 768（+0）
 
 
 ---

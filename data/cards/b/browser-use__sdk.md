@@ -1,6 +1,6 @@
 # browser-use/sdk
 
-⭐ 28 · Python · 推送 2026-10-24 · [GitHub](https://github.com/browser-use/sdk) · [官网](https://docs.cloud.browser-use.com) · 组织维护
+⭐ 28 · Python · 推送 2026-10-29 · [GitHub](https://github.com/browser-use/sdk) · [官网](https://docs.cloud.browser-use.com) · 组织维护
 
 **Browser Use Cloud 官方多语言 SDK：接入云端浏览器代理与托管浏览器**
 
@@ -44,12 +44,12 @@ Browser Use Cloud 的官方 SDK 集合，提供 Python（PyPI）与 TypeScript�
 ```mermaid
 xychart-beta
     title "browser-use/sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
     y-axis "stars" 24 --> 29
     line [25, 27, 28, 28]
 ```
 
-2026-10-18 25 → 2026-10-29 28（+3）
+2026-10-18 25 → 2026-10-30 28（+3）
 
 
 ---

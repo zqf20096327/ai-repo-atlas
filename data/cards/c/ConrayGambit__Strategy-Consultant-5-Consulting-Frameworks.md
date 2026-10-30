@@ -1,6 +1,6 @@
 # ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks
 
-⭐ 30 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks) · [官网](https://youtube.com/@conraygambit) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks) · [官网](https://youtube.com/@conraygambit) · 个人维护
 
 **把战略咨询五框架打包成 Claude Skills 与通用 LLM 提示词**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30]
+    title "ConrayGambit/Strategy-Consultant-5-Consulting-Frameworks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 31]
 ```
 
-2026-10-18 28 → 2026-10-29 30（+2）
+2026-10-18 28 → 2026-10-30 31（+3）
 
 
 ---

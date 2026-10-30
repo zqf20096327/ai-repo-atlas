@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox
 
-⭐ 16,747 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 16,753 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/googleapis/mcp-toolbox) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **连接 AI agent/IDE 与企业数据库的开源 MCP 服务器**
 
@@ -52,13 +52,13 @@ Google 维护的 Model Context Protocol 服务器，双用途：一是开箱即�
 
 ```mermaid
 xychart-beta
-    title "googleapis/mcp-toolbox 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 16666 --> 16754
-    line [16673, 16684, 16700, 16707, 16713, 16717, 16721, 16729, 16735, 16747]
+    title "googleapis/mcp-toolbox 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 16665 --> 16761
+    line [16673, 16684, 16700, 16707, 16713, 16717, 16721, 16729, 16735, 16747, 16753]
 ```
 
-2026-10-18 16,673 → 2026-10-29 16,747（+74）
+2026-10-18 16,673 → 2026-10-30 16,753（+80）
 
 
 ---

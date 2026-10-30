@@ -1,6 +1,6 @@
 # pymc-devs/pytensor
 
-⭐ 648 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pymc-devs/pytensor) · [官网](https://pytensor.readthedocs.io) · 组织维护
+⭐ 648 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/pymc-devs/pytensor) · [官网](https://pytensor.readthedocs.io) · 组织维护
 
 **多维数组数学表达式的定义、优化与求值 Python 库**
 
@@ -46,12 +46,12 @@ Python 库，用于定义、优化并求值涉及多维数组的数学表达式�
 ```mermaid
 xychart-beta
     title "pymc-devs/pytensor 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 646 --> 649
     line [647, 648, 648]
 ```
 
-2026-10-18 647 → 2026-10-29 648（+1）
+2026-10-18 647 → 2026-10-30 648（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zilliztech/milvus-skill
 
-⭐ 45 · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/zilliztech/milvus-skill) · 组织维护
+⭐ 46 · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/zilliztech/milvus-skill) · 组织维护
 
 **教 LLM 用 pymilvus 操作 Milvus 向量库的 agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zilliztech/milvus-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 46（+1）
 
 
 ---

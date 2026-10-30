@@ -1,6 +1,6 @@
 # ARM-software/CMSIS-DSP
 
-⭐ 1,126 · C · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ARM-software/CMSIS-DSP) · [官网](https://arm-software.github.io/CMSIS-DSP) · 组织维护
+⭐ 1,127 · C · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/ARM-software/CMSIS-DSP) · [官网](https://arm-software.github.io/CMSIS-DSP) · 组织维护
 
 **面向 Cortex-M/A 的嵌入式优化计算内核库（DSP/FFT/ML）**
 
@@ -46,12 +46,12 @@ Arm 维护的嵌入式系统优化计算库，为 Cortex-M 与 Cortex-A 提供�
 ```mermaid
 xychart-beta
     title "ARM-software/CMSIS-DSP 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1115 --> 1127
-    line [1116, 1117, 1119, 1121, 1122, 1124, 1126, 1126]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 1115 --> 1128
+    line [1116, 1117, 1119, 1121, 1122, 1124, 1126, 1127]
 ```
 
-2026-10-18 1,116 → 2026-10-29 1,126（+10）
+2026-10-18 1,116 → 2026-10-30 1,127（+11）
 
 
 ---

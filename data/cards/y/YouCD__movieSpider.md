@@ -1,6 +1,6 @@
 # YouCD/movieSpider
 
-⭐ 24 · Go · 推送 2026-09-29 · [GitHub](https://github.com/YouCD/movieSpider) · 个人维护 · 中文 README
+⭐ 25 · Go · 推送 2026-09-29 · [GitHub](https://github.com/YouCD/movieSpider) · 个人维护 · 中文 README
 
 **自动爬取电影种子并通过 Aria2 下载的爬虫工具**
 
@@ -45,12 +45,12 @@ Go 编写的电影自动化下载爬虫：从十余个 Torrent 站点（如 eztv
 ```mermaid
 xychart-beta
     title "YouCD/movieSpider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 24（+0）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

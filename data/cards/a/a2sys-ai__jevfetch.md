@@ -1,6 +1,6 @@
 # a2sys-ai/jevfetch
 
-⭐ 46 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a2sys-ai/jevfetch) · 组织维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/a2sys-ai/jevfetch) · 组织维护 · 中文 README
 
 **给编码代理的网页读取工具：按问题逐字返回页面相关片段**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "a2sys-ai/jevfetch 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 0 --> 50
-    line [3, 36, 42, 46]
+    title "a2sys-ai/jevfetch 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 53
+    line [3, 36, 42, 46, 49]
 ```
 
-2026-10-24 3 → 2026-10-29 46（+43）
+2026-10-24 3 → 2026-10-30 49（+46）
 
 
 ---

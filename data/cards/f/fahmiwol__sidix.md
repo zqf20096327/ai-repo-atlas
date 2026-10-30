@@ -1,6 +1,6 @@
 # fahmiwol/sidix
 
-⭐ 25 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/fahmiwol/sidix) · [官网](https://sidixlab.com) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fahmiwol/sidix) · [官网](https://sidixlab.com) · 个人维护
 
 **自托管自学习 AI Agent，基于 Qwen2.5-7B+LoRA 与 IHOS 认知架构**
 
@@ -46,12 +46,12 @@ SIDIX 是一个 MIT 许可的开源 AI Agent 研究构建（2026年4-8月），�
 ```mermaid
 xychart-beta
     title "fahmiwol/sidix 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

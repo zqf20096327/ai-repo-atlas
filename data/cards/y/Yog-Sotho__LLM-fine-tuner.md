@@ -1,6 +1,6 @@
 # Yog-Sotho/LLM-fine-tuner
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Yog-Sotho/LLM-fine-tuner) · [官网](https://yog-sotho.github.io/LLM-fine-tuner/) · 个人维护
+⭐ 36 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Yog-Sotho/LLM-fine-tuner) · [官网](https://yog-sotho.github.io/LLM-fine-tuner/) · 个人维护
 
 **无代码 LLM 微调工具：上传数据点击训练得到可导出模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yog-Sotho/LLM-fine-tuner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-18 35 → 2026-10-29 35（+0）
+2026-10-18 35 → 2026-10-30 36（+1）
 
 
 ---

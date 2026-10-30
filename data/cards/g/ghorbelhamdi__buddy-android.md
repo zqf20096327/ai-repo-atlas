@@ -1,6 +1,6 @@
 # ghorbelhamdi/buddy-android
 
-⭐ 138 · Java · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · [官网](https://ghorbelhamdi.github.io/buddy-android/) · 个人维护
+⭐ 141 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ghorbelhamdi/buddy-android) · [官网](https://ghorbelhamdi.github.io/buddy-android/) · 个人维护
 
 **让 Claude Code 等 AI agent 在安卓手机上操作应用的悬浮气泡应用**
 
@@ -45,13 +45,13 @@ Android 悬浮聊天气泡应用，让 Claude Code、Codex、OpenCode 或 Antigr
 
 ```mermaid
 xychart-beta
-    title "ghorbelhamdi/buddy-android 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 70 --> 144
-    line [76, 92, 102, 107, 112, 123, 127, 134, 137, 138]
+    title "ghorbelhamdi/buddy-android 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 70 --> 147
+    line [76, 92, 102, 107, 112, 123, 127, 134, 137, 138, 141]
 ```
 
-2026-10-18 76 → 2026-10-29 138（+62）
+2026-10-18 76 → 2026-10-30 141（+65）
 
 
 ---

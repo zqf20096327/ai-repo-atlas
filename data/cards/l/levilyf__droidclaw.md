@@ -1,6 +1,6 @@
 # levilyf/droidclaw
 
-⭐ 57 · JavaScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/levilyf/droidclaw) · 个人维护
+⭐ 58 · JavaScript · MIT · 推送 2026-07-03 · [GitHub](https://github.com/levilyf/droidclaw) · 个人维护
 
 **运行在 Android Termux 中的个人 AI agent，自然语言操控手机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "levilyf/droidclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-29 57（+1）
+2026-10-18 56 → 2026-10-30 58（+2）
 
 
 ---

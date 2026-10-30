@@ -1,6 +1,6 @@
 # yzhao062/auditable
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/yzhao062/auditable) · [官网](https://auditable-ai.readthedocs.io/) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/yzhao062/auditable) · [官网](https://auditable-ai.readthedocs.io/) · 个人维护
 
 **AI agent 决策审计方法库：运行前/中/后三阶段统一接口**
 
@@ -47,12 +47,12 @@ Python 库，收集在三个时点审计 LLM agent 的方法：运行前的配�
 ```mermaid
 xychart-beta
     title "yzhao062/auditable 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 31, 31]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 31, 32]
 ```
 
-2026-10-18 28 → 2026-10-29 31（+3）
+2026-10-18 28 → 2026-10-30 32（+4）
 
 
 ---

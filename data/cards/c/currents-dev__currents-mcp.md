@@ -1,6 +1,6 @@
 # currents-dev/currents-mcp
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/currents-dev/currents-mcp) · [官网](https://currents.dev) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/currents-dev/currents-mcp) · [官网](https://currents.dev) · 组织维护
 
 **让 AI 编码 agent 读取 CI 测试结果的 MCP 服务器**
 
@@ -46,12 +46,12 @@ Currents 官方的 MCP Server，把 Currents CI 测试平台的能力暴露给 C
 ```mermaid
 xychart-beta
     title "currents-dev/currents-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

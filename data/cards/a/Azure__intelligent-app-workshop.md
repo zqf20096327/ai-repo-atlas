@@ -45,12 +45,12 @@ Azure 官方沉浸式工坊，指导开发者基于微软 Copilot 技术栈（Az
 ```mermaid
 xychart-beta
     title "Azure/intelligent-app-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 207 --> 209
     line [208, 208]
 ```
 
-2026-10-18 208 → 2026-10-29 208（+0）
+2026-10-18 208 → 2026-10-30 208（+0）
 
 
 ---

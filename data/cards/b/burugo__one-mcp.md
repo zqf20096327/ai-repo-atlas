@@ -1,6 +1,6 @@
 # burugo/one-mcp
 
-⭐ 421 · Go · MIT · 推送 2026-09-06 · [GitHub](https://github.com/burugo/one-mcp) · 个人维护 · 中文 README
+⭐ 420 · Go · MIT · 推送 2026-09-06 · [GitHub](https://github.com/burugo/one-mcp) · 个人维护 · 中文 README
 
 **MCP 服务集中反向代理平台：统一管理、分组并导出为 Skills**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "burugo/one-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
+    title "burugo/one-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 417 --> 422
-    line [418, 419, 420, 421]
+    line [418, 419, 420, 421, 420]
 ```
 
-2026-10-18 418 → 2026-10-29 421（+3）
+2026-10-18 418 → 2026-10-30 420（+2）
 
 
 ---

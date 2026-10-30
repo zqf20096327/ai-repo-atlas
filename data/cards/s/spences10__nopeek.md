@@ -1,6 +1,6 @@
 # spences10/nopeek
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/spences10/nopeek) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/spences10/nopeek) · 个人维护
 
 **降低 LLM 编码会话中密钥意外泄露的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spences10/nopeek 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "proyecto26/slides-ai-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "proyecto26/slides-ai-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-10-29 42（+1）
+2026-10-18 41 → 2026-10-30 42（+1）
 
 
 ---

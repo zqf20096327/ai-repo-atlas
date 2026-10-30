@@ -1,6 +1,6 @@
 # AndyShaman/BYDMate
 
-⭐ 453 · Kotlin · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AndyShaman/BYDMate) · [官网](https://ai-handler.com/#bydmate) · 个人维护 · 中文 README
+⭐ 458 · Kotlin · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/AndyShaman/BYDMate) · [官网](https://ai-handler.com/#bydmate) · 个人维护 · 中文 README
 
 **BYD DiLink 车机扩展应用：行程记录、真实能耗与本地 AI 功能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AndyShaman/BYDMate 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 418 --> 456
-    line [421, 426, 432, 436, 439, 442, 444, 447, 449, 453]
+    title "AndyShaman/BYDMate 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 418 --> 461
+    line [421, 426, 432, 436, 439, 442, 444, 447, 449, 453, 458]
 ```
 
-2026-10-18 421 → 2026-10-29 453（+32）
+2026-10-18 421 → 2026-10-30 458（+37）
 
 
 ---

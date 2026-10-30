@@ -1,6 +1,6 @@
 # uzairansaruzi/hermex
 
-⭐ 1,582 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
+⭐ 1,586 · Swift · MIT · 推送 2026-10-29 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
 
 **从 iPhone 控制自托管 Hermes agent 的原生 SwiftUI 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "uzairansaruzi/hermex 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1515 --> 1588
-    line [1521, 1533, 1548, 1553, 1560, 1563, 1567, 1578, 1582]
+    title "uzairansaruzi/hermex 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1515 --> 1592
+    line [1521, 1533, 1548, 1553, 1560, 1563, 1567, 1578, 1582, 1586]
 ```
 
-2026-10-18 1,521 → 2026-10-29 1,582（+61）
+2026-10-18 1,521 → 2026-10-30 1,586（+65）
 
 
 ---

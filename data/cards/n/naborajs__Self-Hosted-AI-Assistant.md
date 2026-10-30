@@ -1,6 +1,6 @@
 # naborajs/Self-Hosted-AI-Assistant
 
-⭐ 17 · Python · 推送 2026-10-18 · [GitHub](https://github.com/naborajs/Self-Hosted-AI-Assistant) · 个人维护
+⭐ 18 · Python · 推送 2026-10-18 · [GitHub](https://github.com/naborajs/Self-Hosted-AI-Assistant) · 个人维护
 
 **自托管的 WhatsApp/Telegram AI 助手平台，本地 Ollama 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naborajs/Self-Hosted-AI-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

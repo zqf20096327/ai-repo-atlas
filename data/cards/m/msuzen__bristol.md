@@ -46,12 +46,12 @@ Python 包，生成 Circular Unitary/Orthogonal/Symplectic Ensemble 随机矩阵
 ```mermaid
 xychart-beta
     title "msuzen/bristol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-29 33（+0）
+2026-10-18 33 → 2026-10-30 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # getsigit/sigit
 
-⭐ 58 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/getsigit/sigit) · [官网](https://zed.dev/acp/agent/sigit) · 组织维护
+⭐ 58 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/getsigit/sigit) · [官网](https://zed.dev/acp/agent/sigit) · 组织维护
 
 **本地优先的设备端 LLM 编程代理，可接入编辑器或终端使用**
 
@@ -45,12 +45,12 @@ siGit Code 是运行在本机的 AI 编程代理，是 siGit Factory 的代理�
 ```mermaid
 xychart-beta
     title "getsigit/sigit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
     y-axis "stars" 54 --> 59
     line [55, 56, 58, 58]
 ```
 
-2026-10-18 55 → 2026-10-29 58（+3）
+2026-10-18 55 → 2026-10-30 58（+3）
 
 
 ---

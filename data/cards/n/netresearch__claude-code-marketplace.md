@@ -1,6 +1,6 @@
 # netresearch/claude-code-marketplace
 
-⭐ 84 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
+⭐ 85 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
 
 **面向 AI 编程 agent 的技能市场：39 个可移植 Agent Skills 目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/claude-code-marketplace 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 62 --> 86
-    line [64, 65, 76, 83, 84, 84]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 62 --> 87
+    line [64, 65, 76, 83, 84, 85]
 ```
 
-2026-10-18 64 → 2026-10-29 84（+20）
+2026-10-18 64 → 2026-10-30 85（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # arthur-ai/arthur-engine
 
-⭐ 93 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/arthur-ai/arthur-engine) · [官网](https://arthur.ai) · 组织维护
+⭐ 93 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/arthur-ai/arthur-engine) · [官网](https://arthur.ai) · 组织维护
 
 **AI/ML 工作负载的开发、监控与治理服务：护栏、评测与追踪**
 
@@ -46,12 +46,12 @@ Arthur Engine 提供面向 LLM 应用与生成式 AI 工作流的完整服务：
 ```mermaid
 xychart-beta
     title "arthur-ai/arthur-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 91 --> 94
     line [92, 93, 93]
 ```
 
-2026-10-18 92 → 2026-10-29 93（+1）
+2026-10-18 92 → 2026-10-30 93（+1）
 
 
 ---

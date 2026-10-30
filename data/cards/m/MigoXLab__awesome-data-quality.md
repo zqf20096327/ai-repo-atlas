@@ -1,6 +1,6 @@
 # MigoXLab/awesome-data-quality
 
-⭐ 32 · CC0-1.0 · 推送 2026-10-23 · [GitHub](https://github.com/MigoXLab/awesome-data-quality) · 组织维护
+⭐ 32 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/MigoXLab/awesome-data-quality) · 组织维护
 
 **数据质量资源策展清单：覆盖传统/LLM/多模态等数据类型**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MigoXLab/awesome-data-quality 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-10-29 32（+1）
+2026-10-18 31 → 2026-10-30 32（+1）
 
 
 ---

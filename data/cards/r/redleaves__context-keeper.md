@@ -1,6 +1,6 @@
 # redleaves/context-keeper
 
-⭐ 155 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/redleaves/context-keeper) · 组织维护 · 中文 README
+⭐ 156 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/redleaves/context-keeper) · 组织维护 · 中文 README
 
 **面向开发者的 LLM 记忆与上下文管理系统，供 AI 助手持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "redleaves/context-keeper 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 153 --> 156
-    line [155, 154, 155, 155]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 153 --> 157
+    line [155, 154, 155, 156]
 ```
 
-2026-10-18 155 → 2026-10-29 155（+0）
+2026-10-18 155 → 2026-10-30 156（+1）
 
 
 ---

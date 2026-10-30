@@ -1,6 +1,6 @@
 # DevEmperor/DictateKeyboard
 
-⭐ 311 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DevEmperor/DictateKeyboard) · [官网](https://dictatekeyboard.com) · 个人维护
+⭐ 313 · Kotlin · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/DevEmperor/DictateKeyboard) · [官网](https://dictatekeyboard.com) · 个人维护
 
 **Android AI 语音听写键盘：多引擎实时转文字**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevEmperor/DictateKeyboard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 302 --> 312
-    line [303, 305, 306, 308, 310, 311]
+    title "DevEmperor/DictateKeyboard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 302 --> 314
+    line [303, 305, 306, 308, 310, 311, 313]
 ```
 
-2026-10-18 303 → 2026-10-29 311（+8）
+2026-10-18 303 → 2026-10-30 313（+10）
 
 
 ---

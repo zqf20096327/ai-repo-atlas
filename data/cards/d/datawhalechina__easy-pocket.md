@@ -1,6 +1,6 @@
 # datawhalechina/easy-pocket
 
-⭐ 34 · 推送 2026-10-12 · [GitHub](https://github.com/datawhalechina/easy-pocket) · [官网](https://datawhalechina.github.io/easy-pocket) · 组织维护 · 中文 README
+⭐ 35 · 推送 2026-10-12 · [GitHub](https://github.com/datawhalechina/easy-pocket) · [官网](https://datawhalechina.github.io/easy-pocket) · 组织维护 · 中文 README
 
 **PocketFlow 框架的交互式中文教程：从零学会构建 LLM 应用**
 
@@ -45,12 +45,12 @@ Datawhale 出品的 PocketFlow 交互式中文教程。PocketFlow 本身是 100 
 ```mermaid
 xychart-beta
     title "datawhalechina/easy-pocket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 35（+1）
 
 
 ---

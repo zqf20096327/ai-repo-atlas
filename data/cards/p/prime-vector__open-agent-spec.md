@@ -1,6 +1,6 @@
 # prime-vector/open-agent-spec
 
-⭐ 20 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/prime-vector/open-agent-spec) · [官网](https://www.openagentspec.dev) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/prime-vector/open-agent-spec) · [官网](https://www.openagentspec.dev) · 组织维护
 
 **YAML 声明式 AI agent 规范与 CLI：一次定义、多引擎运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "prime-vector/open-agent-spec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 21（+1）
 
 
 ---

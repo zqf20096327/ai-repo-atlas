@@ -1,6 +1,6 @@
 # ebibibi/ebi-agent-chat-relay
 
-⭐ 66 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ebibibi/ebi-agent-chat-relay) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ebibibi/ebi-agent-chat-relay) · 个人维护 · 中文 README
 
 **多前端统一驾驶舱：并行运行与监督多个编码 agent CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ebibibi/ebi-agent-chat-relay 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 62 --> 67
     line [63, 64, 65, 66, 66]
 ```
 
-2026-10-18 63 → 2026-10-29 66（+3）
+2026-10-18 63 → 2026-10-30 66（+3）
 
 
 ---

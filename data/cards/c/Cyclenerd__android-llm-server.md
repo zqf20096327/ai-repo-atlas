@@ -45,13 +45,13 @@ Android 应用，基于 Google LiteRT 推理引擎在手机 GPU 上本地运行 
 
 ```mermaid
 xychart-beta
-    title "Cyclenerd/android-llm-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    title "Cyclenerd/android-llm-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29]
+    line [26, 27, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-10-29 29（+3）
+2026-10-18 26 → 2026-10-30 29（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # bagidea/bagidea-office
 
-⭐ 257 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bagidea/bagidea-office) · [官网](https://bagidea.github.io/bagidea-office/) · 组织维护 · 中文 README
+⭐ 259 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/bagidea/bagidea-office) · [官网](https://bagidea.github.io/bagidea-office/) · 组织维护 · 中文 README
 
 **桌面壁纸上运行的多 AI agent 办公室：编排 Claude Code agent 协作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bagidea/bagidea-office 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 249 --> 258
-    line [250, 253, 256, 257]
+    title "bagidea/bagidea-office 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 249 --> 260
+    line [250, 253, 256, 257, 259]
 ```
 
-2026-10-18 250 → 2026-10-29 257（+7）
+2026-10-18 250 → 2026-10-30 259（+9）
 
 
 ---

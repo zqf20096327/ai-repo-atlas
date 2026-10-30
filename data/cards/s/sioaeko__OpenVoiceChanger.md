@@ -1,6 +1,6 @@
 # sioaeko/OpenVoiceChanger
 
-⭐ 116 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sioaeko/OpenVoiceChanger) · 个人维护
+⭐ 117 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/sioaeko/OpenVoiceChanger) · 个人维护
 
 **实时 AI 变声 Web 应用：麦克风经 RVC/ONNX 模型低延迟变声**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "sioaeko/OpenVoiceChanger 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 109 --> 117
-    line [110, 111, 112, 113, 115, 116]
+    title "sioaeko/OpenVoiceChanger 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 109 --> 118
+    line [110, 111, 112, 113, 115, 116, 117]
 ```
 
-2026-10-18 110 → 2026-10-29 116（+6）
+2026-10-18 110 → 2026-10-30 117（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # ROCm/AMDMIGraphX
 
-⭐ 337 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ROCm/AMDMIGraphX) · [官网](https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/) · 组织维护
+⭐ 337 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ROCm/AMDMIGraphX) · [官网](https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/) · 组织维护
 
 **AMD GPU 机器学习模型推理加速的图优化引擎**
 
@@ -45,12 +45,12 @@ AMD MIGraphX 是 AMD 的图推理引擎，用于加速机器学习模型推理�
 ```mermaid
 xychart-beta
     title "ROCm/AMDMIGraphX 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
     y-axis "stars" 336 --> 340
     line [338, 339, 338, 337, 337]
 ```
 
-2026-10-18 338 → 2026-10-29 337（-1）
+2026-10-18 338 → 2026-10-30 337（-1）
 
 
 ---

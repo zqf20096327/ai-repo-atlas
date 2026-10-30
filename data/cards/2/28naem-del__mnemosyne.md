@@ -1,6 +1,6 @@
 # 28naem-del/mnemosyne
 
-⭐ 153 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/28naem-del/mnemosyne) · [官网](https://mnemosy.ai) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/28naem-del/mnemosyne) · [官网](https://mnemosy.ai) · 个人维护
 
 **AI agent 的本地长期记忆：单 SQLite 文件 + 证据溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "28naem-del/mnemosyne 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 149 --> 154
-    line [150, 151, 153]
+    title "28naem-del/mnemosyne 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 149 --> 155
+    line [150, 151, 153, 154]
 ```
 
-2026-10-18 150 → 2026-10-29 153（+3）
+2026-10-18 150 → 2026-10-30 154（+4）
 
 
 ---

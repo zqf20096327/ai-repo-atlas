@@ -1,6 +1,6 @@
 # onehumanbeing/esp32-iphone-agent
 
-⭐ 4,058 · C · MIT · 推送 2026-10-28 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://handsy.tech?ref=github) · 个人维护 · 中文 README
+⭐ 4,094 · C · MIT · 推送 2026-10-28 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://handsy.tech?ref=github) · 个人维护 · 中文 README
 
 **用 ESP32-S3 让视觉模型操控真实 iPhone 的 agent 套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "onehumanbeing/esp32-iphone-agent 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2867 --> 4166
-    line [2975, 3273, 3461, 3549, 3623, 3764, 3867, 3939, 4005, 4058]
+    title "onehumanbeing/esp32-iphone-agent 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2864 --> 4205
+    line [2975, 3273, 3461, 3549, 3623, 3764, 3867, 3939, 4005, 4058, 4094]
 ```
 
-2026-10-18 2,975 → 2026-10-29 4,058（+1,083）
+2026-10-18 2,975 → 2026-10-30 4,094（+1,119）
 
 
 ---

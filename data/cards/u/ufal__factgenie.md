@@ -1,6 +1,6 @@
 # ufal/factgenie
 
-⭐ 44 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/ufal/factgenie) · [官网](https://quest.ms.mff.cuni.cz/nlg/d2t-llm/) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/ufal/factgenie) · [官网](https://quest.ms.mff.cuni.cz/nlg/d2t-llm/) · 组织维护
 
 **自托管 LLM 输出的 span 标注与评估工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ufal/factgenie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 45（+1）
 
 
 ---

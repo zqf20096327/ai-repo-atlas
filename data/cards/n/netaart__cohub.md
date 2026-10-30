@@ -1,6 +1,6 @@
 # netaart/cohub
 
-⭐ 580 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/netaart/cohub) · [官网](https://cohub.live) · 组织维护 · 中文 README
+⭐ 581 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/netaart/cohub) · [官网](https://cohub.live) · 组织维护 · 中文 README
 
 **人与 agent 共同创作、游玩和构建的在线协作空间平台**
 
@@ -44,13 +44,13 @@ Cohub 提供名为 Space 的项目空间：用户在其中结合提示词、文�
 
 ```mermaid
 xychart-beta
-    title "netaart/cohub 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 570 --> 581
-    line [571, 572, 571, 574, 575, 579, 580]
+    title "netaart/cohub 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 570 --> 582
+    line [571, 572, 571, 574, 575, 579, 580, 581]
 ```
 
-2026-10-18 571 → 2026-10-29 580（+9）
+2026-10-18 571 → 2026-10-30 581（+10）
 
 
 ---

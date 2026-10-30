@@ -1,6 +1,6 @@
 # Drix10/ai-resources
 
-⭐ 122 · CC-BY-4.0 · 推送 2026-10-26 · [GitHub](https://github.com/Drix10/ai-resources) · [官网](https://blogs.drix10.com) · 个人维护
+⭐ 122 · JavaScript · CC-BY-4.0 · 推送 2026-10-29 · [GitHub](https://github.com/Drix10/ai-resources) · [官网](https://blogs.drix10.com) · 个人维护
 
 **AI 资讯策展知识库：41 类 10 万+条带来源摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Drix10/ai-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    title "Drix10/ai-resources 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
     y-axis "stars" 119 --> 123
-    line [120, 121, 122]
+    line [120, 121, 122, 122]
 ```
 
-2026-10-18 120 → 2026-10-29 122（+2）
+2026-10-18 120 → 2026-10-30 122（+2）
 
 
 ---

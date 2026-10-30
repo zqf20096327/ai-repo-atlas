@@ -1,6 +1,6 @@
 # RattyDAVE/docker-jupyterhub
 
-⭐ 19 · Python · 推送 2026-10-28 · [GitHub](https://github.com/RattyDAVE/docker-jupyterhub) · 个人维护
+⭐ 19 · Python · 推送 2026-10-29 · [GitHub](https://github.com/RattyDAVE/docker-jupyterhub) · 个人维护
 
 **多用户 JupyterHub Docker 镜像：预装 C++/Java/Python/TensorFlow 等多语言环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RattyDAVE/docker-jupyterhub 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-25", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-10-29 19（+0）
+2026-10-25 19 → 2026-10-30 19（+0）
 
 
 ---

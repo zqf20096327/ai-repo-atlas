@@ -41,6 +41,18 @@ Go 编写的跨平台 SSH 客户端（Windows/Linux/macOS），支持密码、�
 > L24: - MCP tools for SSH execution and SFTP file operations.
 > L84: The Web server exposes MCP Streamable HTTP at:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chuccp/win-sshpass 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-29 20 → 2026-10-30 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `59b8303161f1` · [字段定义](../../DATASET.md)*

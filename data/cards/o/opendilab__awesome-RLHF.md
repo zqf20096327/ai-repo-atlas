@@ -1,6 +1,6 @@
 # opendilab/awesome-RLHF
 
-⭐ 4,438 · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/opendilab/awesome-RLHF) · 组织维护 · 中文 README
+⭐ 4,439 · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/opendilab/awesome-RLHF) · 组织维护 · 中文 README
 
 **RLHF 研究论文策展清单：持续追踪人类反馈强化学习前沿**
 
@@ -44,12 +44,12 @@ opendilab 维护的 RLHF（基于人类反馈的强化学习）研究资源聚�
 ```mermaid
 xychart-beta
     title "opendilab/awesome-RLHF 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 4434 --> 4439
-    line [4435, 4436, 4437, 4438, 4438]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 4434 --> 4440
+    line [4435, 4436, 4437, 4438, 4439]
 ```
 
-2026-10-18 4,435 → 2026-10-29 4,438（+3）
+2026-10-18 4,435 → 2026-10-30 4,439（+4）
 
 
 ---

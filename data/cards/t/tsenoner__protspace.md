@@ -1,6 +1,6 @@
 # tsenoner/protspace
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tsenoner/protspace) · [官网](https://protspace.app/) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tsenoner/protspace) · [官网](https://protspace.app/) · 组织维护
 
 **浏览器中探索蛋白质语言模型嵌入的交互式可视化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tsenoner/protspace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

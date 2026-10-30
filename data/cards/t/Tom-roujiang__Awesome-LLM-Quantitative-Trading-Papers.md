@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 256 --> 259
     line [257, 258, 258]
 ```
 
-2026-10-18 257 → 2026-10-29 258（+1）
+2026-10-18 257 → 2026-10-30 258（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # alibaba/TinyNeuralNetwork
 
-⭐ 879 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/alibaba/TinyNeuralNetwork) · 组织维护 · 中文 README
+⭐ 880 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/alibaba/TinyNeuralNetwork) · 组织维护 · 中文 README
 
 **深度学习模型压缩框架：剪枝、量化、TFLite 转换，面向边缘部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alibaba/TinyNeuralNetwork 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 878 --> 881
-    line [880, 879, 879]
+    line [880, 879, 880]
 ```
 
-2026-10-18 880 → 2026-10-29 879（-1）
+2026-10-18 880 → 2026-10-30 880（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Romelium/mpatch
 
-⭐ 23 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Romelium/mpatch) · [官网](https://docs.rs/mpatch/latest/mpatch/) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Romelium/mpatch) · [官网](https://docs.rs/mpatch/latest/mpatch/) · 个人维护
 
 **按上下文模糊匹配应用 diff 的 CLI，专处理 LLM 生成的补丁**
 
@@ -46,12 +46,12 @@ mpatch 是用 Rust 编写的补丁应用工具，提供 CLI、Rust 库与 Python
 ```mermaid
 xychart-beta
     title "Romelium/mpatch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-18 22 → 2026-10-29 23（+1）
+2026-10-18 22 → 2026-10-30 24（+2）
 
 
 ---

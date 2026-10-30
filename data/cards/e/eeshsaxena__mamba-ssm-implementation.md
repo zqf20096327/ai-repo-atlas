@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "eeshsaxena/mamba-ssm-implementation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-29 16（+0）
+2026-10-18 16 → 2026-10-30 16（+0）
 
 
 ---

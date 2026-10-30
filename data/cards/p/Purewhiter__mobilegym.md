@@ -1,6 +1,6 @@
 # Purewhiter/mobilegym
 
-⭐ 841 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/Purewhiter/mobilegym) · [官网](https://mobilegym.dev) · 组织维护 · 中文 README
+⭐ 841 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Purewhiter/mobilegym) · [官网](https://mobilegym.dev) · 组织维护 · 中文 README
 
 **移动 GUI agent 的可验证高并行浏览器仿真评测与在线 RL 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Purewhiter/mobilegym 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "Purewhiter/mobilegym 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 823 --> 842
-    line [824, 828, 832, 836, 837, 838, 839, 841]
+    line [824, 828, 832, 836, 837, 838, 839, 841, 841]
 ```
 
-2026-10-18 824 → 2026-10-29 841（+17）
+2026-10-18 824 → 2026-10-30 841（+17）
 
 
 ---

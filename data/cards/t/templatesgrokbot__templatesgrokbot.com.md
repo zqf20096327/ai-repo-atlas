@@ -1,6 +1,6 @@
 # templatesgrokbot/templatesgrokbot.com
 
-⭐ 33 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/templatesgrokbot/templatesgrokbot.com) · [官网](https://templatesgrokbot.com/) · 个人维护
+⭐ 32 · MIT · 推送 2026-10-16 · [GitHub](https://github.com/templatesgrokbot/templatesgrokbot.com) · [官网](https://templatesgrokbot.com/) · 个人维护
 
 **10,464 个 Grok Bot 提示词模板库：按职业/工作类型检索安装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "templatesgrokbot/templatesgrokbot.com 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 31 --> 36
-    line [34, 35, 32, 33, 33]
+    line [34, 35, 32, 33, 32]
 ```
 
-2026-10-18 34 → 2026-10-29 33（-1）
+2026-10-18 34 → 2026-10-30 32（-2）
 
 
 ---

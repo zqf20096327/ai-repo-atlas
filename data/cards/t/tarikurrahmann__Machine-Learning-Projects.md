@@ -40,6 +40,18 @@
 > L15:  A curated portfolio of 26 end-to-end machine learning projects — spanning healthcare AI, real-time computer vision
 > L39: |**Brain Tumor Detection**|Detects tumors in MRI scans using a CNN. Upload a scan and get a real-time prediction.|P
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/Machine-Learning-Projects 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `396b65ddf8ee` · [字段定义](../../DATASET.md)*

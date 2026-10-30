@@ -1,6 +1,6 @@
 # ggozad/haiku.rag
 
-⭐ 642 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ggozad/haiku.rag) · [官网](https://ggozad.github.io/haiku.rag/) · 个人维护
+⭐ 642 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ggozad/haiku.rag) · [官网](https://ggozad.github.io/haiku.rag/) · 个人维护
 
 **本地/自托管文档问答的 Agentic RAG 工具，带引用与来源核验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ggozad/haiku.rag 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "ggozad/haiku.rag 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 628 --> 643
-    line [629, 631, 634, 635, 636, 638, 639, 642]
+    line [629, 631, 634, 635, 636, 638, 639, 642, 642]
 ```
 
-2026-10-18 629 → 2026-10-29 642（+13）
+2026-10-18 629 → 2026-10-30 642（+13）
 
 
 ---

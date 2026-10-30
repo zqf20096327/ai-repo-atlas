@@ -1,6 +1,6 @@
 # liujuntao123/smart-excalidraw-next
 
-⭐ 3,547 · JavaScript · 推送 2026-10-12 · [GitHub](https://github.com/liujuntao123/smart-excalidraw-next) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
+⭐ 3,548 · JavaScript · 推送 2026-10-12 · [GitHub](https://github.com/liujuntao123/smart-excalidraw-next) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
 
 **用自然语言生成 Excalidraw 专业图表的 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liujuntao123/smart-excalidraw-next 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29"]
+    title "liujuntao123/smart-excalidraw-next 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3544 --> 3549
-    line [3545, 3546, 3547, 3548, 3547]
+    line [3545, 3546, 3547, 3548, 3547, 3548]
 ```
 
-2026-10-18 3,545 → 2026-10-29 3,547（+2）
+2026-10-18 3,545 → 2026-10-30 3,548（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ducks/claux
 
-⭐ 20 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/ducks/claux) · 个人维护
+⭐ 21 · Rust · 推送 2026-10-25 · [GitHub](https://github.com/ducks/claux) · 个人维护
 
 **Rust 终端 AI 编程助手：多提供商、工具执行与会话管理**
 
@@ -46,12 +46,12 @@ Rust 编写的终端 AI 编程助手（CLI/REPL/TUI）。功能包括流式对�
 ```mermaid
 xychart-beta
     title "ducks/claux 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 21（+2）
 
 
 ---

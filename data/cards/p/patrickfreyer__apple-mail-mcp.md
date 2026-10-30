@@ -1,6 +1,6 @@
 # patrickfreyer/apple-mail-mcp
 
-⭐ 241 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/patrickfreyer/apple-mail-mcp) · 个人维护
+⭐ 243 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/patrickfreyer/apple-mail-mcp) · 个人维护
 
 **让 AI 助手通过自然语言操作 Apple Mail 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patrickfreyer/apple-mail-mcp 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 229 --> 242
-    line [230, 231, 232, 234, 235, 236, 237, 240, 241]
+    title "patrickfreyer/apple-mail-mcp 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 229 --> 244
+    line [230, 231, 232, 234, 235, 236, 237, 240, 241, 243]
 ```
 
-2026-10-18 230 → 2026-10-29 241（+11）
+2026-10-18 230 → 2026-10-30 243（+13）
 
 
 ---

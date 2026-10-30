@@ -1,6 +1,6 @@
 # olivomarco/genai-development-techniques
 
-⭐ 18 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/olivomarco/genai-development-techniques) · [官网](https://olivomarco.github.io/genai-development-techniques/) · 个人维护
+⭐ 19 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/olivomarco/genai-development-techniques) · [官网](https://olivomarco.github.io/genai-development-techniques/) · 个人维护
 
 **AI 辅助开发技术与框架的对比知识站点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "olivomarco/genai-development-techniques 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

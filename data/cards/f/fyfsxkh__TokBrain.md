@@ -1,6 +1,6 @@
 # fyfsxkh/TokBrain
 
-⭐ 94 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/fyfsxkh/TokBrain) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fyfsxkh/TokBrain) · 个人维护 · 中文 README
 
 **把抖音公开作品整理成本地多模态知识库并支持 RAG 问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fyfsxkh/TokBrain 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 89 --> 95
     line [90, 91, 92, 93, 94, 94]
 ```
 
-2026-10-18 90 → 2026-10-29 94（+4）
+2026-10-18 90 → 2026-10-30 94（+4）
 
 
 ---

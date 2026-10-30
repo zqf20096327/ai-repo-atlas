@@ -1,6 +1,6 @@
 # wsmlby/homl
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/wsmlby/homl) · [官网](https://homl.dev/) · 个人维护
+⭐ 89 · Python · Apache-2.0 · 推送 2026-02-23 · [GitHub](https://github.com/wsmlby/homl) · [官网](https://homl.dev/) · 个人维护
 
 **家庭实验室运行 LLM 的工具：Ollama 式 CLI 加 vLLM 推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wsmlby/homl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 88 --> 91
+    line [90, 89]
 ```
 
-2026-10-18 90 → 2026-10-29 90（+0）
+2026-10-18 90 → 2026-10-30 89（-1）
 
 
 ---

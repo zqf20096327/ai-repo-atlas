@@ -1,6 +1,6 @@
 # future-agi/traceAI
 
-⭐ 262 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/future-agi/traceAI) · [官网](https://app.futureagi.com) · 组织维护
+⭐ 262 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/future-agi/traceAI) · [官网](https://app.futureagi.com) · 组织维护
 
 **面向 AI 应用的 OpenTelemetry 埋点追踪框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "future-agi/traceAI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 220 --> 265
     line [223, 224, 250, 260, 261, 262, 262]
 ```
 
-2026-10-18 223 → 2026-10-29 262（+39）
+2026-10-18 223 → 2026-10-30 262（+39）
 
 
 ---

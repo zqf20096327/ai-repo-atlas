@@ -45,12 +45,12 @@ LLMCompiler 是一种 Agent 架构实现：Planner 将用户请求解析为任�
 ```mermaid
 xychart-beta
     title "crazyyanchao/llmcompiler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-18 65 → 2026-10-29 65（+0）
+2026-10-18 65 → 2026-10-30 65（+0）
 
 
 ---

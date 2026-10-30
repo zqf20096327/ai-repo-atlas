@@ -1,6 +1,6 @@
 # Nixtla/mlforecast
 
-⭐ 1,299 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Nixtla/mlforecast) · [官网](https://nixtlaverse.nixtla.io/mlforecast) · 组织维护
+⭐ 1,300 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Nixtla/mlforecast) · [官网](https://nixtlaverse.nixtla.io/mlforecast) · 组织维护
 
 **面向机器学习模型的时间序列预测框架，支持分布式扩展**
 
@@ -45,13 +45,13 @@ mlforecast 是一个用机器学习模型做时间序列预测的 Python 框架�
 
 ```mermaid
 xychart-beta
-    title "Nixtla/mlforecast 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1287 --> 1300
-    line [1288, 1289, 1290, 1291, 1293, 1295, 1297, 1299]
+    title "Nixtla/mlforecast 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1287 --> 1301
+    line [1288, 1289, 1290, 1291, 1293, 1295, 1297, 1299, 1300]
 ```
 
-2026-10-18 1,288 → 2026-10-29 1,299（+11）
+2026-10-18 1,288 → 2026-10-30 1,300（+12）
 
 
 ---

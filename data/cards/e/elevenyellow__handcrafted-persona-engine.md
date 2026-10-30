@@ -1,6 +1,6 @@
 # elevenyellow/handcrafted-persona-engine
 
-⭐ 1,390 · C# · 推送 2026-05-20 · [GitHub](https://github.com/elevenyellow/handcrafted-persona-engine) · 个人维护
+⭐ 1,392 · C# · 推送 2026-05-20 · [GitHub](https://github.com/elevenyellow/handcrafted-persona-engine) · 个人维护
 
 **语音驱动的 Live2D 桌面虚拟角色引擎，面向 VTuber 与虚拟助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "elevenyellow/handcrafted-persona-engine 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1380 --> 1391
-    line [1381, 1383, 1384, 1385, 1387, 1388, 1389, 1390]
+    title "elevenyellow/handcrafted-persona-engine 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1380 --> 1393
+    line [1381, 1383, 1384, 1385, 1387, 1388, 1389, 1390, 1392]
 ```
 
-2026-10-18 1,381 → 2026-10-29 1,390（+9）
+2026-10-18 1,381 → 2026-10-30 1,392（+11）
 
 
 ---

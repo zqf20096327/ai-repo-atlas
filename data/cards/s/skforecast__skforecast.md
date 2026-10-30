@@ -1,6 +1,6 @@
 # skforecast/skforecast
 
-⭐ 1,542 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护
+⭐ 1,542 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护
 
 **Python 时间序列预测库：统一 API 训练/回测机器学习与统计模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skforecast/skforecast 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1536 --> 1543
     line [1537, 1539, 1540, 1541, 1542, 1542]
 ```
 
-2026-10-18 1,537 → 2026-10-29 1,542（+5）
+2026-10-18 1,537 → 2026-10-30 1,542（+5）
 
 
 ---

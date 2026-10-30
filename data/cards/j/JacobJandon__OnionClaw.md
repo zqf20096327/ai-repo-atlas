@@ -1,6 +1,6 @@
 # JacobJandon/OnionClaw
 
-⭐ 85 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JacobJandon/OnionClaw) · [官网](https://github.com/JacobJandon/OnionClaw) · 个人维护
+⭐ 85 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/JacobJandon/OnionClaw) · [官网](https://github.com/JacobJandon/OnionClaw) · 个人维护
 
 **供 AI agent 与终端使用的 Tor 暗网访问与 OSINT 工具集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JacobJandon/OnionClaw 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "JacobJandon/OnionClaw 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 73 --> 86
-    line [74, 76, 77, 78, 80, 81, 83, 85]
+    line [74, 76, 77, 78, 80, 81, 83, 85, 85]
 ```
 
-2026-10-18 74 → 2026-10-29 85（+11）
+2026-10-18 74 → 2026-10-30 85（+11）
 
 
 ---

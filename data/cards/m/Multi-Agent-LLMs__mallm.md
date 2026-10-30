@@ -1,6 +1,6 @@
 # Multi-Agent-LLMs/mallm
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Multi-Agent-LLMs/mallm) · [官网](https://mallm.gipplab.org) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Multi-Agent-LLMs/mallm) · [官网](https://mallm.gipplab.org) · 组织维护
 
 **多智能体 LLM 辩论实验框架：组合人格、讨论范式与决策协议跑实验**
 
@@ -46,12 +46,12 @@ EMNLP 2025 Demo 论文的 Python 框架，用于构建和运行多智能体 LLM 
 ```mermaid
 xychart-beta
     title "Multi-Agent-LLMs/mallm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-10-29 68（+0）
+2026-10-18 68 → 2026-10-30 69（+1）
 
 
 ---

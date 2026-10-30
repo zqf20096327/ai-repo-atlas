@@ -45,13 +45,13 @@ MethodCraft 系列：三个 Skill Creator（learning/design/build），各自通
 
 ```mermaid
 xychart-beta
-    title "balancegsr/skill-creators 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "balancegsr/skill-creators 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 11 --> 21
-    line [12, 16, 18, 19, 20]
+    line [12, 16, 18, 19, 20, 20]
 ```
 
-2026-10-18 12 → 2026-10-29 20（+8）
+2026-10-18 12 → 2026-10-30 20（+8）
 
 
 ---

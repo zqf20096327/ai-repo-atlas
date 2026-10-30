@@ -1,6 +1,6 @@
 # alexeyban/EKOS
 
-⭐ 26 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/alexeyban/EKOS) · [官网](https://ekos.dev) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alexeyban/EKOS) · [官网](https://ekos.dev) · 个人维护
 
 **把企业代码/SQL/文档编译为知识账本供 AI agent 查询的平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexeyban/EKOS 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "alexeyban/EKOS 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 21 --> 27
-    line [22, 23, 24, 25, 26]
+    line [22, 23, 24, 25, 26, 26]
 ```
 
-2026-10-19 22 → 2026-10-29 26（+4）
+2026-10-19 22 → 2026-10-30 26（+4）
 
 
 ---

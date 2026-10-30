@@ -1,6 +1,6 @@
 # microsoft/tui-test
 
-⭐ 296 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/tui-test) · 组织维护
+⭐ 296 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/tui-test) · 组织维护
 
 **控制、录制与测试终端/TUI 应用的跨平台工具，供 AI agent 结构化访问终端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/tui-test 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29"]
+    title "microsoft/tui-test 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
     y-axis "stars" 290 --> 297
-    line [291, 292, 293, 295, 296]
+    line [291, 292, 293, 295, 296, 296]
 ```
 
-2026-10-18 291 → 2026-10-29 296（+5）
+2026-10-18 291 → 2026-10-30 296（+5）
 
 
 ---

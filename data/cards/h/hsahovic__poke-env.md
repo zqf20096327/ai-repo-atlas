@@ -1,6 +1,6 @@
 # hsahovic/poke-env
 
-⭐ 535 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hsahovic/poke-env) · [官网](https://poke-env.readthedocs.io/) · 个人维护
+⭐ 536 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hsahovic/poke-env) · [官网](https://poke-env.readthedocs.io/) · 个人维护
 
 **给开发者的 Pokemon Showdown 对战机器人 Python 接口库**
 
@@ -44,13 +44,13 @@ poke-env 是一个 Python 库，用于在 Pokemon Showdown 平台上构建脚本
 
 ```mermaid
 xychart-beta
-    title "hsahovic/poke-env 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 527 --> 536
-    line [528, 530, 532, 533, 535]
+    title "hsahovic/poke-env 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 527 --> 537
+    line [528, 530, 532, 533, 535, 536]
 ```
 
-2026-10-18 528 → 2026-10-29 535（+7）
+2026-10-18 528 → 2026-10-30 536（+8）
 
 
 ---

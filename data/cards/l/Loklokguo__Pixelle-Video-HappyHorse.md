@@ -1,6 +1,6 @@
 # Loklokguo/Pixelle-Video-HappyHorse
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/Loklokguo/Pixelle-Video-HappyHorse) · [官网](https://dashscope.aliyuncs.com) · 个人维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/Loklokguo/Pixelle-Video-HappyHorse) · [官网](https://dashscope.aliyuncs.com) · 个人维护 · 中文 README
 
 **输入主题一键全自动生成短视频的 AI 引擎（含云端文生视频）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Loklokguo/Pixelle-Video-HappyHorse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57]
+    title "Loklokguo/Pixelle-Video-HappyHorse 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-10-29 57（+2）
+2026-10-18 55 → 2026-10-30 58（+3）
 
 
 ---

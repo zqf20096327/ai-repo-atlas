@@ -1,6 +1,6 @@
 # hank-ai/darknet
 
-⭐ 859 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/hank-ai/darknet) · [官网](https://www.ccoderun.ca/darknet/) · 组织维护
+⭐ 860 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/hank-ai/darknet) · [官网](https://www.ccoderun.ca/darknet/) · 组织维护
 
 **C/C++/CUDA 实现的 Darknet/YOLO 目标检测框架**
 
@@ -46,12 +46,12 @@ Darknet 是用 C、C++ 和 CUDA 编写的开源神经网络框架，运行 YOLO 
 ```mermaid
 xychart-beta
     title "hank-ai/darknet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 856 --> 860
-    line [859, 858, 857, 858, 859, 859]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 856 --> 861
+    line [859, 858, 857, 858, 859, 860]
 ```
 
-2026-10-18 859 → 2026-10-29 859（+0）
+2026-10-18 859 → 2026-10-30 860（+1）
 
 
 ---

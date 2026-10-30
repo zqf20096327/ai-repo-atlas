@@ -1,6 +1,6 @@
 # 99apps-id/termigo
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/99apps-id/termigo) · 组织维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/99apps-id/termigo) · 组织维护
 
 **终端优先的 AI 开发环境：编辑器+终端+SSH+AI Agent 一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "99apps-id/termigo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

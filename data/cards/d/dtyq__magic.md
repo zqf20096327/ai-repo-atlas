@@ -1,6 +1,6 @@
 # dtyq/magic
 
-⭐ 5,058 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dtyq/magic) · [官网](https://www.magicrew.ai/) · 组织维护 · 中文 README
+⭐ 5,062 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/dtyq/magic) · [官网](https://www.magicrew.ai/) · 组织维护 · 中文 README
 
 **面向企业的开源 AI Agent 平台：数字员工+工作流+协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dtyq/magic 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 5049 --> 5059
-    line [5050, 5052, 5053, 5055, 5057, 5058]
+    title "dtyq/magic 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5049 --> 5063
+    line [5050, 5052, 5053, 5055, 5057, 5058, 5062]
 ```
 
-2026-10-18 5,050 → 2026-10-29 5,058（+8）
+2026-10-18 5,050 → 2026-10-30 5,062（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # kWeglinski/OmniPoly
 
-⭐ 118 · HTML · GPL-3.0 · 推送 2026-04-24 · [GitHub](https://github.com/kWeglinski/OmniPoly) · 个人维护
+⭐ 119 · HTML · GPL-3.0 · 推送 2026-04-24 · [GitHub](https://github.com/kWeglinski/OmniPoly) · 个人维护
 
 **自托管翻译与语法检查前端：整合 LibreTranslate/LanguageTool/Ollama**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kWeglinski/OmniPoly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
     y-axis "stars" 117 --> 121
-    line [120, 119, 118, 118]
+    line [120, 119, 118, 119]
 ```
 
-2026-10-18 120 → 2026-10-29 118（-2）
+2026-10-18 120 → 2026-10-30 119（-1）
 
 
 ---

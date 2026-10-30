@@ -43,12 +43,12 @@ VS Code 扩展，将 Perplexity AI 的 API 接入编辑器：提供流式聊天�
 ```mermaid
 xychart-beta
     title "gabrielhutu/perplexity-ext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

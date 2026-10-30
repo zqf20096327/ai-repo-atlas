@@ -1,6 +1,6 @@
 # Rushik-B/Clira
 
-⭐ 20 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/Rushik-B/Clira) · [官网](https://tryclira.com) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-04-25 · [GitHub](https://github.com/Rushik-B/Clira) · [官网](https://tryclira.com) · 个人维护
 
 **开源自托管 AI 行政助理：代管邮件、日历与消息，动作需人工批准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rushik-B/Clira 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 21（+2）
 
 
 ---

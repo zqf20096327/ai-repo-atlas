@@ -1,6 +1,6 @@
 # CorvinLabs/CorvinOS
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/CorvinLabs/CorvinOS) · [官网](https://corvin-labs.com, https://www.youtube.com/@Corvin-Labs) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/CorvinLabs/CorvinOS) · [官网](https://corvin-labs.com, https://www.youtube.com/@Corvin-Labs) · 组织维护
 
 **自托管的 agentic 操作系统：运行并治理团队的 AI 代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CorvinLabs/CorvinOS 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 20, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 22, 23]
 ```
 
-2026-10-18 18 → 2026-10-29 22（+4）
+2026-10-18 18 → 2026-10-30 23（+5）
 
 
 ---

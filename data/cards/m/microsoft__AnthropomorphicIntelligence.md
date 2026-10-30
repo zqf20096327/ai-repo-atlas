@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/AnthropomorphicIntelligence 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29"]
+    title "microsoft/AnthropomorphicIntelligence 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 149 --> 155
-    line [150, 152, 153, 154]
+    line [150, 152, 153, 154, 154]
 ```
 
-2026-10-18 150 → 2026-10-29 154（+4）
+2026-10-18 150 → 2026-10-30 154（+4）
 
 
 ---

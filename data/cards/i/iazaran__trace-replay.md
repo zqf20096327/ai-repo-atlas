@@ -1,6 +1,6 @@
 # iazaran/trace-replay
 
-⭐ 104 · PHP · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iazaran/trace-replay) · [官网](https://iazaran.github.io/trace-replay/) · 个人维护
+⭐ 105 · PHP · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iazaran/trace-replay) · [官网](https://iazaran.github.io/trace-replay/) · 个人维护
 
 **Laravel 执行追踪与 HTTP 重放调试包，附带 AI 修复提示生成**
 
@@ -45,12 +45,12 @@ Laravel Composer 包，以步骤级 instrumentation 追踪业务流程：记录�
 ```mermaid
 xychart-beta
     title "iazaran/trace-replay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 103 --> 106
+    line [104, 105]
 ```
 
-2026-10-18 104 → 2026-10-29 104（+0）
+2026-10-18 104 → 2026-10-30 105（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # simoncorry/foundry
 
-⭐ 47 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/simoncorry/foundry) · [官网](https://simoncorry.com/blog/2026/07/15/design-process-meet-agent-process) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-10-07 · [GitHub](https://github.com/simoncorry/foundry) · [官网](https://simoncorry.com/blog/2026/07/15/design-process-meet-agent-process) · 个人维护
 
 **在现有编码 Agent 工具内运行的软件开发流程命令集**
 
@@ -45,12 +45,12 @@ Foundry 是一套由 20 个 markdown 命令文件组成的 agent 流程，运行
 ```mermaid
 xychart-beta
     title "simoncorry/foundry 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 39 --> 48
-    line [40, 41, 44, 47, 47]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 39 --> 49
+    line [40, 41, 44, 47, 48]
 ```
 
-2026-10-18 40 → 2026-10-29 47（+7）
+2026-10-18 40 → 2026-10-30 48（+8）
 
 
 ---

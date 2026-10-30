@@ -1,6 +1,6 @@
 # Maciek-roboblog/Claude-Code-Usage-Monitor
 
-⭐ 8,780 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) · 个人维护
+⭐ 8,782 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) · 个人维护
 
 **终端里的 Claude Code 用量/限额实时监控工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Maciek-roboblog/Claude-Code-Usage-Monitor 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8743 --> 8783
-    line [8746, 8749, 8754, 8755, 8762, 8764, 8768, 8770, 8780]
+    title "Maciek-roboblog/Claude-Code-Usage-Monitor 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 8743 --> 8785
+    line [8746, 8749, 8754, 8755, 8762, 8764, 8768, 8770, 8780, 8782]
 ```
 
-2026-10-18 8,746 → 2026-10-29 8,780（+34）
+2026-10-18 8,746 → 2026-10-30 8,782（+36）
 
 
 ---

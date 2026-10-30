@@ -1,6 +1,6 @@
 # liu-ziting/what-to-eat
 
-⭐ 3,577 · Vue · 推送 2026-01-12 · [GitHub](https://github.com/liu-ziting/what-to-eat) · [官网](http://eat.lz-t.top) · 个人维护 · 中文 README
+⭐ 3,579 · Vue · 推送 2026-01-12 · [GitHub](https://github.com/liu-ziting/what-to-eat) · [官网](http://eat.lz-t.top) · 个人维护 · 中文 README
 
 **给烹饪用户的 AI 菜谱生成 Web 平台，覆盖八大菜系与国际料理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liu-ziting/what-to-eat 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3566 --> 3578
-    line [3567, 3568, 3571, 3573, 3575, 3577]
+    title "liu-ziting/what-to-eat 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3566 --> 3580
+    line [3567, 3568, 3571, 3573, 3575, 3577, 3579]
 ```
 
-2026-10-22 3,567 → 2026-10-29 3,577（+10）
+2026-10-22 3,567 → 2026-10-30 3,579（+12）
 
 
 ---

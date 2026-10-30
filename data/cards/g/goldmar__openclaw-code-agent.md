@@ -1,6 +1,6 @@
 # goldmar/openclaw-code-agent
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/goldmar/openclaw-code-agent) · [官网](https://www.npmjs.com/package/openclaw-code-agent) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/goldmar/openclaw-code-agent) · [官网](https://www.npmjs.com/package/openclaw-code-agent) · 个人维护
 
 **OpenClaw 插件：把 Claude Code/Codex/OpenCode 变成聊天可控的编码 agent 会话**
 
@@ -45,12 +45,12 @@ openclaw-code-agent（OCA）是 OpenClaw 的有状态编码 agent 插件：将 C
 ```mermaid
 xychart-beta
     title "goldmar/openclaw-code-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 44 --> 50
     line [45, 46, 47, 49, 49]
 ```
 
-2026-10-18 45 → 2026-10-29 49（+4）
+2026-10-18 45 → 2026-10-30 49（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Strata-T8
 
-⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/T8mars/Comfyui-Strata-T8) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/T8mars/Comfyui-Strata-T8) · 个人维护 · 中文 README
 
 **把本地 Strata 语言/视觉推理接入 ComfyUI 的 14 个自定义节点**
 
@@ -46,13 +46,13 @@ ComfyUI 自定义节点集，通过托管或 external 连接方式调用独立�
 
 ```mermaid
 xychart-beta
-    title "T8mars/Comfyui-Strata-T8 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
+    title "T8mars/Comfyui-Strata-T8 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 13 --> 24
-    line [14, 15, 17, 18, 19, 20, 23]
+    line [14, 15, 17, 18, 19, 20, 23, 23]
 ```
 
-2026-10-18 14 → 2026-10-29 23（+9）
+2026-10-18 14 → 2026-10-30 23（+9）
 
 
 ---

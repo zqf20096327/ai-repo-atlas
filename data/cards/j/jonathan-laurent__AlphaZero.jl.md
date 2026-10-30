@@ -1,6 +1,6 @@
 # jonathan-laurent/AlphaZero.jl
 
-⭐ 1,339 · Julia · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jonathan-laurent/AlphaZero.jl) · [官网](https://jonathan-laurent.github.io/AlphaZero.jl/stable/) · 个人维护
+⭐ 1,340 · Julia · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jonathan-laurent/AlphaZero.jl) · [官网](https://jonathan-laurent.github.io/AlphaZero.jl/stable/) · 个人维护
 
 **Julia 编写的通用 AlphaZero 算法实现，供研究与教学训练游戏智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jonathan-laurent/AlphaZero.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 1337 --> 1340
-    line [1338, 1339]
+    title "jonathan-laurent/AlphaZero.jl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1337 --> 1341
+    line [1338, 1339, 1340]
 ```
 
-2026-10-18 1,338 → 2026-10-29 1,339（+1）
+2026-10-18 1,338 → 2026-10-30 1,340（+2）
 
 
 ---

@@ -43,6 +43,18 @@
 > L20: Beacon is an open protocol enabling AI agents to discover each other, exchange cryptographically signed messages (E
 > L48: Yes. `beacon mcp` exposes Beacon tools (send, inbox, discover, identity) to any MCP-capable client including Claude
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/beacon-skill 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 236 --> 238
+    line [237, 237]
+```
+
+2026-10-29 237 → 2026-10-30 237（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `dc9f50bc544e` · [字段定义](../../DATASET.md)*

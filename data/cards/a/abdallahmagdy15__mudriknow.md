@@ -46,12 +46,12 @@ Electron 构建的开源 Windows 桌面 AI agent：按 Alt+Space 读取活动窗
 ```mermaid
 xychart-beta
     title "abdallahmagdy15/mudriknow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-29 41（+0）
+2026-10-18 41 → 2026-10-30 41（+0）
 
 
 ---

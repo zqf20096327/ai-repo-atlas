@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/mcp-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "huggingface/mcp-course 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 921 --> 925
-    line [922, 924]
+    line [922, 924, 924]
 ```
 
-2026-10-18 922 → 2026-10-29 924（+2）
+2026-10-18 922 → 2026-10-30 924（+2）
 
 
 ---

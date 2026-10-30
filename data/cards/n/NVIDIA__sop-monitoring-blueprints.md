@@ -45,13 +45,13 @@ NVIDIA 维护的标准作业程序（SOP）监控蓝图：包含训练微服务�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/sop-monitoring-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "NVIDIA/sop-monitoring-blueprints 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-18 63 → 2026-10-29 64（+1）
+2026-10-18 63 → 2026-10-30 64（+1）
 
 
 ---

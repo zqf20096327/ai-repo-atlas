@@ -1,6 +1,6 @@
 # agentclientprotocol/python-sdk
 
-⭐ 341 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
+⭐ 342 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/agentclientprotocol/python-sdk) · [官网](https://agentclientprotocol.github.io/python-sdk/) · 组织维护
 
 **Agent Client Protocol 的 Python SDK：构建 ACP 客户端与 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentclientprotocol/python-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 338 --> 342
-    line [339, 340, 341, 341]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 338 --> 343
+    line [339, 340, 341, 342]
 ```
 
-2026-10-18 339 → 2026-10-29 341（+2）
+2026-10-18 339 → 2026-10-30 342（+3）
 
 
 ---

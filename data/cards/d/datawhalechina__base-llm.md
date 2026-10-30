@@ -1,6 +1,6 @@
 # datawhalechina/base-llm
 
-⭐ 1,114 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/base-llm) · [官网](https://datawhalechina.github.io/base-llm/) · 组织维护 · 中文 README
+⭐ 1,118 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/datawhalechina/base-llm) · [官网](https://datawhalechina.github.io/base-llm/) · 组织维护 · 中文 README
 
 **面向开发者的 NLP 到 LLM 全栈中文学习教程**
 
@@ -44,13 +44,13 @@ Datawhale 组织维护的算法教程项目，内容按理论篇、实战篇、�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/base-llm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1092 --> 1116
-    line [1094, 1096, 1102, 1106, 1107, 1110, 1112, 1114]
+    title "datawhalechina/base-llm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1092 --> 1120
+    line [1094, 1096, 1102, 1106, 1107, 1110, 1112, 1114, 1118]
 ```
 
-2026-10-18 1,094 → 2026-10-29 1,114（+20）
+2026-10-18 1,094 → 2026-10-30 1,118（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # inercia/mitto
 
-⭐ 34 · Go · 推送 2026-10-26 · [GitHub](https://github.com/inercia/mitto) · 个人维护
+⭐ 34 · Go · 推送 2026-10-29 · [GitHub](https://github.com/inercia/mitto) · 个人维护
 
 **跨设备管理多个 AI 编程 agent 会话的 CLI/Web/macOS 界面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inercia/mitto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

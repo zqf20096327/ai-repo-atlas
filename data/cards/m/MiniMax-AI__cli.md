@@ -1,6 +1,6 @@
 # MiniMax-AI/cli
 
-⭐ 2,209 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/MiniMax-AI/cli) · [官网](https://platform.minimax.io/subscribe/token-plan) · 组织维护 · 中文 README
+⭐ 2,210 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/MiniMax-AI/cli) · [官网](https://platform.minimax.io/subscribe/token-plan) · 组织维护 · 中文 README
 
 **MiniMax 官方 CLI：在终端/Agent 中调用文本、图像、视频、语音生成**
 
@@ -45,13 +45,13 @@ MiniMax 官方命令行工具，面向 AI agent 与终端用户，通过 MiniMax
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/cli 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2192 --> 2210
-    line [2193, 2196, 2200, 2202, 2203, 2206, 2205, 2207, 2209]
+    title "MiniMax-AI/cli 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2192 --> 2211
+    line [2193, 2196, 2200, 2202, 2203, 2206, 2205, 2207, 2209, 2210]
 ```
 
-2026-10-18 2,193 → 2026-10-29 2,209（+16）
+2026-10-18 2,193 → 2026-10-30 2,210（+17）
 
 
 ---

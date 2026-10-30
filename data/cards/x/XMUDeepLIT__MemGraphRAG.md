@@ -1,6 +1,6 @@
 # XMUDeepLIT/MemGraphRAG
 
-⭐ 232 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/XMUDeepLIT/MemGraphRAG) · [官网](https://arxiv.org/pdf/2606.00610) · 组织维护 · 中文 README
+⭐ 233 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/XMUDeepLIT/MemGraphRAG) · [官网](https://arxiv.org/pdf/2606.00610) · 组织维护 · 中文 README
 
 **三层记忆结构的 GraphRAG 框架：连接段落、事实与本体模式**
 
@@ -44,13 +44,13 @@ KDD 2026 论文的配套框架，将非结构化语料组织为本体模式层�
 
 ```mermaid
 xychart-beta
-    title "XMUDeepLIT/MemGraphRAG 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 227 --> 233
-    line [228, 230, 231, 230, 231, 232]
+    title "XMUDeepLIT/MemGraphRAG 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 227 --> 234
+    line [228, 230, 231, 230, 231, 232, 233]
 ```
 
-2026-10-18 228 → 2026-10-29 232（+4）
+2026-10-18 228 → 2026-10-30 233（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # explorium-ai/vibeprospecting-mcp
 
-⭐ 273 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/explorium-ai/vibeprospecting-mcp) · [官网](https://vibeprospecting.ai) · 组织维护
+⭐ 278 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/explorium-ai/vibeprospecting-mcp) · [官网](https://vibeprospecting.ai) · 组织维护
 
 **接入 AI 助手的 B2B 数据 MCP 服务器：建线索名单、查企业、丰富联系人**
 
@@ -44,13 +44,13 @@ Explorium 提供的远程 MCP 服务器，通过单一 URL 与浏览器 OAuth �
 
 ```mermaid
 xychart-beta
-    title "explorium-ai/vibeprospecting-mcp 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 189 --> 280
-    line [196, 211, 230, 238, 243, 249, 254, 261, 268, 273]
+    title "explorium-ai/vibeprospecting-mcp 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 188 --> 286
+    line [196, 211, 230, 238, 243, 249, 254, 261, 268, 273, 278]
 ```
 
-2026-10-18 196 → 2026-10-29 273（+77）
+2026-10-18 196 → 2026-10-30 278（+82）
 
 
 ---

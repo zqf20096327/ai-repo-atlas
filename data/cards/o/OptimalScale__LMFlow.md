@@ -1,6 +1,6 @@
 # OptimalScale/LMFlow
 
-⭐ 8,482 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/OptimalScale/LMFlow) · [官网](https://optimalscale.github.io/LMFlow/) · 组织维护 · 中文 README
+⭐ 8,483 · Python · Apache-2.0 · 推送 2026-08-10 · [GitHub](https://github.com/OptimalScale/LMFlow) · [官网](https://optimalscale.github.io/LMFlow/) · 组织维护 · 中文 README
 
 **面向社区的大模型微调与推理工具箱，支持全量/LoRA/LISA/DPO**
 
@@ -46,12 +46,12 @@ LMFlow 是一个用于大基础模型微调与推理的可扩展工具箱，提�
 ```mermaid
 xychart-beta
     title "OptimalScale/LMFlow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 8480 --> 8484
-    line [8482, 8481, 8482, 8483, 8482, 8482]
+    line [8482, 8481, 8482, 8483, 8482, 8483]
 ```
 
-2026-10-18 8,482 → 2026-10-29 8,482（+0）
+2026-10-18 8,482 → 2026-10-30 8,483（+1）
 
 
 ---

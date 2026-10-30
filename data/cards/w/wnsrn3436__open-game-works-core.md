@@ -1,6 +1,6 @@
 # wnsrn3436/open-game-works-core
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wnsrn3436/open-game-works-core) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wnsrn3436/open-game-works-core) · 个人维护 · 中文 README
 
 **让 AI agent 在预置 core 上开发商业级服务器-客户端游戏的 harness**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wnsrn3436/open-game-works-core 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "wnsrn3436/open-game-works-core 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 5 --> 23
-    line [6, 12, 14, 17, 20, 22]
+    line [6, 12, 14, 17, 20, 22, 22]
 ```
 
-2026-10-24 6 → 2026-10-29 22（+16）
+2026-10-24 6 → 2026-10-30 22（+16）
 
 
 ---

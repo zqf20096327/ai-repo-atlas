@@ -1,6 +1,6 @@
 # tinyhumansai/medulla
 
-⭐ 54 · Rust · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/tinyhumansai/medulla) · [官网](https://tinyhumans.ai/medulla) · 组织维护
+⭐ 55 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/tinyhumansai/medulla) · [官网](https://tinyhumans.ai/medulla) · 组织维护
 
 **单终端并行管理多机器上多个编码 agent 的终端**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinyhumansai/medulla 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 37 --> 55
-    line [38, 40, 44, 48, 50, 51, 54]
+    title "tinyhumansai/medulla 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 37 --> 56
+    line [38, 40, 44, 48, 50, 51, 54, 55]
 ```
 
-2026-10-18 38 → 2026-10-29 54（+16）
+2026-10-18 38 → 2026-10-30 55（+17）
 
 
 ---

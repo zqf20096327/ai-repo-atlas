@@ -1,6 +1,6 @@
 # enguard-ai/awesome-ai-guardrails
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/enguard-ai/awesome-ai-guardrails) · [官网](https://huggingface.co/collections/enguard/) · 组织维护
+⭐ 120 · Python · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/enguard-ai/awesome-ai-guardrails) · [官网](https://huggingface.co/collections/enguard/) · 组织维护
 
 **AI 防护栏资源策展清单：分类收录模型、工具与数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "enguard-ai/awesome-ai-guardrails 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 114 --> 120
-    line [115, 119, 119]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 114 --> 121
+    line [115, 119, 120]
 ```
 
-2026-10-18 115 → 2026-10-29 119（+4）
+2026-10-18 115 → 2026-10-30 120（+5）
 
 
 ---

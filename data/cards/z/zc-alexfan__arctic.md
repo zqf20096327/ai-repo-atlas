@@ -1,6 +1,6 @@
 # zc-alexfan/arctic
 
-⭐ 523 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/zc-alexfan/arctic) · [官网](https://arctic.is.tue.mpg.de) · 组织维护
+⭐ 525 · Python · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/zc-alexfan/arctic) · [官网](https://arctic.is.tue.mpg.de) · 组织维护
 
 **双手灵巧操作数据集 ARCTIC 的下载处理与基线训练代码库**
 
@@ -45,12 +45,12 @@ CVPR 2023 ARCTIC 数据集的官方仓库：提供数据集下载说明、预处
 ```mermaid
 xychart-beta
     title "zc-alexfan/arctic 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 513 --> 525
-    line [514, 516, 517, 521, 522, 524, 523, 523]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 513 --> 526
+    line [514, 516, 517, 521, 522, 524, 523, 525]
 ```
 
-2026-10-18 514 → 2026-10-29 523（+9）
+2026-10-18 514 → 2026-10-30 525（+11）
 
 
 ---

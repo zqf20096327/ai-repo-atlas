@@ -1,6 +1,6 @@
 # tinyfish-io/tinyfish-web-agent-integrations
 
-⭐ 46 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) · [官网](https://docs.tinyfish.ai) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tinyfish-io/tinyfish-web-agent-integrations) · [官网](https://docs.tinyfish.ai) · 组织维护
 
 **将 TinyFish 网页工具接入 AI agent 与工作流平台的集成集合**
 
@@ -46,12 +46,12 @@ TinyFish 官方维护的集成仓库：把托管的网页搜索、页面抓取�
 ```mermaid
 xychart-beta
     title "tinyfish-io/tinyfish-web-agent-integrations 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 19 --> 48
-    line [21, 43, 45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 19 --> 49
+    line [21, 43, 45, 46, 47]
 ```
 
-2026-10-18 21 → 2026-10-29 46（+25）
+2026-10-18 21 → 2026-10-30 47（+26）
 
 
 ---

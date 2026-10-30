@@ -1,6 +1,6 @@
 # morinim/ultra
 
-⭐ 20 · C++ · MPL-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/morinim/ultra) · [官网](https://ultraevolution.org/) · 个人维护
+⭐ 20 · C++ · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/morinim/ultra) · [官网](https://ultraevolution.org/) · 个人维护
 
 **C++23 进化算法框架：遗传编程/遗传算法/差分进化**
 
@@ -45,12 +45,12 @@ Vita 项目的完全重写版，提供遗传编程、遗传算法与差分进化
 ```mermaid
 xychart-beta
     title "morinim/ultra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

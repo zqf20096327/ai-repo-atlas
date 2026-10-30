@@ -1,6 +1,6 @@
 # sakowicz/actual-ai
 
-⭐ 537 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sakowicz/actual-ai) · 个人维护
+⭐ 538 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/sakowicz/actual-ai) · 个人维护
 
 **用 LLM 自动分类 Actual Budget 记账交易的 Docker 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sakowicz/actual-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 531 --> 538
-    line [532, 534, 535, 536, 537, 537]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 531 --> 539
+    line [532, 534, 535, 536, 537, 538]
 ```
 
-2026-10-18 532 → 2026-10-29 537（+5）
+2026-10-18 532 → 2026-10-30 538（+6）
 
 
 ---

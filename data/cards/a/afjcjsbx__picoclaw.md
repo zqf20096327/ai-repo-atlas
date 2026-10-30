@@ -1,6 +1,6 @@
 # afjcjsbx/picoclaw
 
-⭐ 39 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/afjcjsbx/picoclaw) · [官网](https://afjcjsbx.github.io/picoclaw/) · 个人维护 · 中文 README
+⭐ 43 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/afjcjsbx/picoclaw) · [官网](https://afjcjsbx.github.io/picoclaw/) · 个人维护 · 中文 README
 
 **超轻量自托管个人 AI 助手，可在 RISC-V/开发板/嵌入式运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "afjcjsbx/picoclaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 23 --> 40
-    line [24, 32, 34, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 23 --> 44
+    line [24, 32, 34, 37, 38, 39, 43]
 ```
 
-2026-10-18 24 → 2026-10-29 39（+15）
+2026-10-18 24 → 2026-10-30 43（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # perso-ai/perso-dubbing-plugin
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/perso-ai/perso-dubbing-plugin) · [官网](https://perso.ai/dubbing) · 组织维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/perso-ai/perso-dubbing-plugin) · [官网](https://perso.ai/dubbing) · 组织维护
 
 **供编程 Agent 使用的视频配音/字幕/剪辑技能插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "perso-ai/perso-dubbing-plugin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-10-29 40（+1）
+2026-10-18 39 → 2026-10-30 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # clement-tourriere/dbcrust
 
-⭐ 92 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/clement-tourriere/dbcrust) · [官网](https://clement-tourriere.github.io/dbcrust/) · 个人维护
+⭐ 92 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/clement-tourriere/dbcrust) · [官网](https://clement-tourriere.github.io/dbcrust/) · 个人维护
 
 **终端多数据库 CLI/工作台，AI 助手为可选功能**
 
@@ -46,12 +46,12 @@ psql 风格的数据库命令行工具：通过统一 URL 语法连接 PostgreSQ
 ```mermaid
 xychart-beta
     title "clement-tourriere/dbcrust 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-29 92（+0）
+2026-10-18 92 → 2026-10-30 92（+0）
 
 
 ---

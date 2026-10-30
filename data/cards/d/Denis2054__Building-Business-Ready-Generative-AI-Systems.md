@@ -45,13 +45,13 @@ Packt 出版书籍《Building Business-Ready Generative AI Systems》的官方�
 
 ```mermaid
 xychart-beta
-    title "Denis2054/Building-Business-Ready-Generative-AI-Systems 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    title "Denis2054/Building-Business-Ready-Generative-AI-Systems 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 171 --> 175
-    line [172, 173, 174]
+    line [172, 173, 174, 174]
 ```
 
-2026-10-18 172 → 2026-10-29 174（+2）
+2026-10-18 172 → 2026-10-30 174（+2）
 
 
 ---

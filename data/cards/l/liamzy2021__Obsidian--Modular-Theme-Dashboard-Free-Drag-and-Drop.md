@@ -46,12 +46,12 @@ Obsidian 仪表盘插件，提供自由拖拽的绝对定位画布、25 个内�
 ```mermaid
 xychart-beta
     title "liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

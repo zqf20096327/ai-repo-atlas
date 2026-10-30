@@ -1,6 +1,6 @@
 # Ovid/ananta
 
-⭐ 26 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ovid/ananta) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Ovid/ananta) · 个人维护
 
 **让 AI 主动读代码库/文档集并给出带引用回答的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ovid/ananta 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-29 26（+0）
+2026-10-18 26 → 2026-10-30 26（+0）
 
 
 ---

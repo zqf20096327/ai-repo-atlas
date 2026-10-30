@@ -45,13 +45,13 @@ Python 包，供数据科学家探索数据并评估分析机器学习实验：�
 
 ```mermaid
 xychart-beta
-    title "ahmed-mohamed-sn/olliePy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "ahmed-mohamed-sn/olliePy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 52 --> 55
-    line [53, 54]
+    line [53, 54, 54]
 ```
 
-2026-10-18 53 → 2026-10-29 54（+1）
+2026-10-18 53 → 2026-10-30 54（+1）
 
 
 ---

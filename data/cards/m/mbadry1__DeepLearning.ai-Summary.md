@@ -1,6 +1,6 @@
 # mbadry1/DeepLearning.ai-Summary
 
-⭐ 5,357 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/mbadry1/DeepLearning.ai-Summary) · 个人维护
+⭐ 5,356 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/mbadry1/DeepLearning.ai-Summary) · 个人维护
 
 **DeepLearning.ai 五门深度学习课程的个人学习笔记汇总**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "mbadry1/DeepLearning.ai-Summary 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "mbadry1/DeepLearning.ai-Summary 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 5349 --> 5358
-    line [5351, 5350, 5353, 5354, 5355, 5356, 5357]
+    line [5351, 5350, 5353, 5354, 5355, 5356, 5357, 5356]
 ```
 
-2026-10-18 5,351 → 2026-10-29 5,357（+6）
+2026-10-18 5,351 → 2026-10-30 5,356（+5）
 
 
 ---

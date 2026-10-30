@@ -1,6 +1,6 @@
 # getumbrel/murmur
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/getumbrel/murmur) · 组织维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/getumbrel/murmur) · 组织维护
 
 **自托管 Hermes AI agent 的多端聊天界面与客户端**
 
@@ -45,13 +45,13 @@ Umbrel 团队开发的 Hermes Agent 前端应用：用户创建带个性的 agen
 
 ```mermaid
 xychart-beta
-    title "getumbrel/murmur 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 0 --> 61
-    line [5, 19, 38, 39, 42, 46, 50, 54, 56]
+    title "getumbrel/murmur 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 62
+    line [5, 19, 38, 39, 42, 46, 50, 54, 56, 57]
 ```
 
-2026-10-18 5 → 2026-10-29 56（+51）
+2026-10-18 5 → 2026-10-30 57（+52）
 
 
 ---

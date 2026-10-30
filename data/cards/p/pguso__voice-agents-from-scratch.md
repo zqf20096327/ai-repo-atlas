@@ -1,6 +1,6 @@
 # pguso/voice-agents-from-scratch
 
-⭐ 49 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/pguso/voice-agents-from-scratch) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/pguso/voice-agents-from-scratch) · 个人维护
 
 **Python 实时语音 agent 从零构建教程：麦克风→STT→LLM→TTS 全链路**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pguso/voice-agents-from-scratch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-29 49（+0）
+2026-10-18 49 → 2026-10-30 50（+1）
 
 
 ---

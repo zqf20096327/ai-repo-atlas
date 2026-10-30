@@ -46,12 +46,12 @@ TypeScript monorepo，核心为协议无关的能力路由器（CapabilityRouter
 ```mermaid
 xychart-beta
     title "zaber-dev/free-ai-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

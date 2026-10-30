@@ -1,6 +1,6 @@
 # wangzhengpengjay/AI-Health-Steward
 
-⭐ 68 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wangzhengpengjay/AI-Health-Steward) · [官网](https://wangzhengpengjay.github.io/AI-Health-Steward/) · 个人维护 · 中文 README
+⭐ 69 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/wangzhengpengjay/AI-Health-Steward) · [官网](https://wangzhengpengjay.github.io/AI-Health-Steward/) · 个人维护 · 中文 README
 
 **可私有化部署的家庭 AI 健康管家：健康画像 + AI 咨询**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangzhengpengjay/AI-Health-Steward 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 60 --> 69
-    line [61, 64, 65, 67, 68]
+    title "wangzhengpengjay/AI-Health-Steward 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 60 --> 70
+    line [61, 64, 65, 67, 68, 69]
 ```
 
-2026-10-18 61 → 2026-10-29 68（+7）
+2026-10-18 61 → 2026-10-30 69（+8）
 
 
 ---

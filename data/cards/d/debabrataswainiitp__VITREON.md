@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "debabrataswainiitp/VITREON 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    title "debabrataswainiitp/VITREON 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    line [19, 20, 21, 21]
 ```
 
-2026-10-18 19 → 2026-10-29 21（+2）
+2026-10-18 19 → 2026-10-30 21（+2）
 
 
 ---

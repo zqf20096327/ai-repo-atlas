@@ -1,6 +1,6 @@
 # cobriensr/Options-Strike-Calculator
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/cobriensr/Options-Strike-Calculator) · [官网](https://theta-options.com/) · 个人维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/cobriensr/Options-Strike-Calculator) · [官网](https://theta-options.com/) · 个人维护
 
 **0DTE SPX 期权分析平台：定价、策略计算与 AI 图表分析**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -39,6 +39,18 @@
 
 > L3: Production-grade 0DTE SPX options analysis platform: Black-Scholes pricing, AI-powered chart analysis (Claude Opus 4
 > L44: Given a SPY/SPX price, VIX, and time, the calculator produces delta-targeted strike tables, full iron condor / BWB 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cobriensr/Options-Strike-Calculator 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-10-29 22 → 2026-10-30 22（+0）
 
 
 ---

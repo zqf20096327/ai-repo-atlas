@@ -1,6 +1,6 @@
 # PocketLLM/pocketllm-lite
 
-⭐ 26 · Dart · MIT · 推送 2026-10-15 · [GitHub](https://github.com/PocketLLM/pocketllm-lite) · [官网](https://pocketllm-lite.vercel.app/) · 组织维护
+⭐ 27 · Dart · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PocketLLM/pocketllm-lite) · [官网](https://pocketllm-lite.vercel.app/) · 组织维护
 
 **Android 本地优先 AI 聊天应用：设备端跑模型、带 RAG 与隐私审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PocketLLM/pocketllm-lite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 24, 25, 26, 26]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 21 --> 28
+    line [22, 23, 24, 25, 26, 27]
 ```
 
-2026-10-18 22 → 2026-10-29 26（+4）
+2026-10-18 22 → 2026-10-30 27（+5）
 
 
 ---

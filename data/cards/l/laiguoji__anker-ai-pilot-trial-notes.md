@@ -1,6 +1,6 @@
 # laiguoji/anker-ai-pilot-trial-notes
 
-⭐ 18 · 推送 2026-06-27 · [GitHub](https://github.com/laiguoji/anker-ai-pilot-trial-notes) · 个人维护 · 中文 README
+⭐ 19 · 推送 2026-06-27 · [GitHub](https://github.com/laiguoji/anker-ai-pilot-trial-notes) · 个人维护 · 中文 README
 
 **安克创新 AI 飞行员试炼面经：AI 协作测评复盘与对话模板**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "laiguoji/anker-ai-pilot-trial-notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 15 --> 19
-    line [16, 18, 18]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 15 --> 20
+    line [16, 18, 19]
 ```
 
-2026-10-18 16 → 2026-10-29 18（+2）
+2026-10-18 16 → 2026-10-30 19（+3）
 
 
 ---

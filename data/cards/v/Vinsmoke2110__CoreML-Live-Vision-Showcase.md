@@ -1,6 +1,6 @@
 # Vinsmoke2110/CoreML-Live-Vision-Showcase
 
-⭐ 56 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/Vinsmoke2110/CoreML-Live-Vision-Showcase) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Vinsmoke2110/CoreML-Live-Vision-Showcase) · 个人维护
 
 **给 iOS/macOS 开发者的 CoreML+Vision 实时图像识别示例应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vinsmoke2110/CoreML-Live-Vision-Showcase 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-29 56（+0）
+2026-10-18 56 → 2026-10-30 56（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # CodeSoul-co/Hypha
 
-⭐ 449 · TypeScript · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/CodeSoul-co/Hypha) · [官网](https://codesoul-co.github.io/Hypha/) · 组织维护 · 中文 README
+⭐ 450 · TypeScript · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/CodeSoul-co/Hypha) · [官网](https://codesoul-co.github.io/Hypha/) · 组织维护 · 中文 README
 
 **TypeScript LLM agent 框架：Agent Core + 生产级 Harness 与缓存复用层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CodeSoul-co/Hypha 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 447 --> 450
-    line [448, 449, 449]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 447 --> 451
+    line [448, 449, 450]
 ```
 
-2026-10-18 448 → 2026-10-29 449（+1）
+2026-10-18 448 → 2026-10-30 450（+2）
 
 
 ---

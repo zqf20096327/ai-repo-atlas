@@ -1,6 +1,6 @@
 # WikiTeq/mAItion
 
-⭐ 20 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/WikiTeq/mAItion) · [官网](https://maition.com) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/WikiTeq/mAItion) · [官网](https://maition.com) · 组织维护
 
 **面向企业的知识聚合 RAG 对话平台，多源连接器统一问答**
 
@@ -46,12 +46,12 @@ mAItion 是由 WikiTeq 维护的一体化 AI 知识工具：通过 Connectors �
 ```mermaid
 xychart-beta
     title "WikiTeq/mAItion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

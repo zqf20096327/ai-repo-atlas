@@ -1,6 +1,6 @@
 # convex/dryad
 
-⭐ 40 · TypeScript · MIT · 推送 2026-02-06 · [GitHub](https://github.com/convex/dryad) · [官网](https://dryad.gg) · 组织维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/convex/dryad) · [官网](https://dryad.gg) · 组织维护
 
 **面向任意 GitHub 仓库的语义代码搜索示例应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "convex/dryad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-29 40（+0）
+2026-10-18 40 → 2026-10-30 40（+0）
 
 
 ---

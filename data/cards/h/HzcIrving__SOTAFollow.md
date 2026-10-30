@@ -1,6 +1,6 @@
 # HzcIrving/SOTAFollow
 
-⭐ 24 · Python · 推送 2026-06-03 · [GitHub](https://github.com/HzcIrving/SOTAFollow) · 个人维护 · 中文 README
+⭐ 25 · Python · 推送 2026-06-03 · [GitHub](https://github.com/HzcIrving/SOTAFollow) · 个人维护 · 中文 README
 
 **AI/机器人前沿论文追踪笔记库：VLA、世界模型、RL、LLM 分类精读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HzcIrving/SOTAFollow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 24（+1）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

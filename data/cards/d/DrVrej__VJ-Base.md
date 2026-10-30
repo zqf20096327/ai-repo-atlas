@@ -1,6 +1,6 @@
 # DrVrej/VJ-Base
 
-⭐ 124 · Lua · 推送 2026-10-24 · [GitHub](https://github.com/DrVrej/VJ-Base) · [官网](http://steamcommunity.com/sharedfiles/filedetails/?id=131759821) · 个人维护
+⭐ 125 · Lua · 推送 2026-10-29 · [GitHub](https://github.com/DrVrej/VJ-Base) · [官网](http://steamcommunity.com/sharedfiles/filedetails/?id=131759821) · 个人维护
 
 **Garry's Mod 的 Lua 扩展基座，用于开发含 AI 系统的可定制 NPC 等插件**
 
@@ -42,12 +42,12 @@ VJ Base（Vrej Base）是 Garry's Mod 的插件（addon）开发基础框架，2
 ```mermaid
 xychart-beta
     title "DrVrej/VJ-Base 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 123 --> 126
+    line [124, 125]
 ```
 
-2026-10-18 124 → 2026-10-29 124（+0）
+2026-10-18 124 → 2026-10-30 125（+1）
 
 
 ---

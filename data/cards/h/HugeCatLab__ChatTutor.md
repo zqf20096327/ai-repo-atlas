@@ -1,6 +1,6 @@
 # HugeCatLab/ChatTutor
 
-⭐ 1,316 · Vue · AGPL-3.0 · 推送 2026-01-09 · [GitHub](https://github.com/HugeCatLab/ChatTutor) · [官网](https://chattutor.app) · 组织维护 · 中文 README
+⭐ 1,317 · Vue · AGPL-3.0 · 推送 2026-01-09 · [GitHub](https://github.com/HugeCatLab/ChatTutor) · [官网](https://chattutor.app) · 组织维护 · 中文 README
 
 **带电子白板的可视化交互 AI 教师，面向 STEM 学习者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HugeCatLab/ChatTutor 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1312 --> 1317
-    line [1315, 1313, 1314, 1315, 1316]
+    title "HugeCatLab/ChatTutor 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1312 --> 1318
+    line [1315, 1313, 1314, 1315, 1316, 1317]
 ```
 
-2026-10-18 1,315 → 2026-10-29 1,316（+1）
+2026-10-18 1,315 → 2026-10-30 1,317（+2）
 
 
 ---

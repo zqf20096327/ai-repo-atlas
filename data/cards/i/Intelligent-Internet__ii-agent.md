@@ -1,6 +1,6 @@
 # Intelligent-Internet/ii-agent
 
-⭐ 3,391 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Intelligent-Internet/ii-agent) · [官网](https://ii.inc/web/blog/post/ii-agent) · 组织维护
+⭐ 3,390 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/Intelligent-Internet/ii-agent) · [官网](https://ii.inc/web/blog/post/ii-agent) · 组织维护
 
 **开源 AI agent 框架：构建、部署并直接使用多模型智能体**
 
@@ -45,12 +45,12 @@ Apache-2.0 许可的开源 AI agent 项目，提供 Web 应用与框架本体。
 ```mermaid
 xychart-beta
     title "Intelligent-Internet/ii-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
     y-axis "stars" 3389 --> 3393
-    line [3391, 3392, 3390, 3391, 3392, 3391, 3391]
+    line [3391, 3392, 3390, 3391, 3392, 3391, 3390]
 ```
 
-2026-10-18 3,391 → 2026-10-29 3,391（+0）
+2026-10-18 3,391 → 2026-10-30 3,390（-1）
 
 
 ---

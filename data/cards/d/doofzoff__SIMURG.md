@@ -1,6 +1,6 @@
 # doofzoff/SIMURG
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/doofzoff/SIMURG) · 组织维护
+⭐ 104 · Python · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/doofzoff/SIMURG) · 组织维护
 
 **LLM 流式解码损坏检测库：生成中拦截重复/漂移/垃圾输出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "doofzoff/SIMURG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 99 --> 104
-    line [100, 102, 103]
+    title "doofzoff/SIMURG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 99 --> 105
+    line [100, 102, 103, 104]
 ```
 
-2026-10-18 100 → 2026-10-29 103（+3）
+2026-10-18 100 → 2026-10-30 104（+4）
 
 
 ---

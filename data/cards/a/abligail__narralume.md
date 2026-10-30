@@ -1,6 +1,6 @@
 # abligail/narralume
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/abligail/narralume) · [官网](https://app.narralume.me) · 个人维护 · 中文 README
+⭐ 125 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/abligail/narralume) · [官网](https://app.narralume.me) · 个人维护 · 中文 README
 
 **长篇小说写作工作台：故事设定、AI 协作与审稿交付一体化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abligail/narralume 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 122 --> 125
-    line [124, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 122 --> 126
+    line [124, 123, 124, 125]
 ```
 
-2026-10-18 124 → 2026-10-29 124（+0）
+2026-10-18 124 → 2026-10-30 125（+1）
 
 
 ---

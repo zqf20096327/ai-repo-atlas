@@ -1,6 +1,6 @@
 # pymupdf/langchain-pymupdf4llm
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/pymupdf/langchain-pymupdf4llm) · 组织维护
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/pymupdf/langchain-pymupdf4llm) · 组织维护
 
 **将 PyMuPDF4LLM PDF 转 Markdown 能力接入 LangChain 的文档加载器集成包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pymupdf/langchain-pymupdf4llm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-29 23（+2）
+2026-10-18 21 → 2026-10-30 24（+3）
 
 
 ---

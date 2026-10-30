@@ -1,6 +1,6 @@
 # yiheng8023/antigravity-chinese
 
-⭐ 118 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yiheng8023/antigravity-chinese) · 个人维护 · 中文 README
+⭐ 120 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yiheng8023/antigravity-chinese) · 个人维护 · 中文 README
 
 **Google Antigravity 全生态客户端与扩展的中文本地化套件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yiheng8023/antigravity-chinese 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 104 --> 119
-    line [105, 108, 110, 114, 115, 116, 117, 118]
+    title "yiheng8023/antigravity-chinese 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 104 --> 121
+    line [105, 108, 110, 114, 115, 116, 117, 118, 120]
 ```
 
-2026-10-18 105 → 2026-10-29 118（+13）
+2026-10-18 105 → 2026-10-30 120（+15）
 
 
 ---

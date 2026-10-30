@@ -1,6 +1,6 @@
 # justinwetch/SkillEval
 
-⭐ 34 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/justinwetch/SkillEval) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/justinwetch/SkillEval) · 个人维护
 
 **AI Skill 的 A/B 评测工作台：双技能跑批并打分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "justinwetch/SkillEval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-18 33 → 2026-10-29 34（+1）
+2026-10-18 33 → 2026-10-30 35（+2）
 
 
 ---

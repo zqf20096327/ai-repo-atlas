@@ -1,6 +1,6 @@
 # empathic/clash
 
-⭐ 34 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/empathic/clash) · 组织维护
+⭐ 35 · Rust · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/empathic/clash) · 组织维护
 
 **给编码 agent 用户：命令行工具调用的安全策略管控框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "empathic/clash 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 35（+1）
 
 
 ---

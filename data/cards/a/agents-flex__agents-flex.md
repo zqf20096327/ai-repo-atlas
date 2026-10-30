@@ -1,6 +1,6 @@
 # agents-flex/agents-flex
 
-⭐ 1,042 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agents-flex/agents-flex) · [官网](https://agentsflex.com) · 组织维护 · 中文 README
+⭐ 1,043 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/agents-flex/agents-flex) · [官网](https://agentsflex.com) · 组织维护 · 中文 README
 
 **面向 Java 开发者的轻量级 AI Agent 开发框架**
 
@@ -45,13 +45,13 @@ Java 生态的 AI 应用开发框架，将 LLM 调用、Tool Calling、RAG、Emb
 
 ```mermaid
 xychart-beta
-    title "agents-flex/agents-flex 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1033 --> 1043
-    line [1034, 1035, 1036, 1037, 1039, 1041, 1042]
+    title "agents-flex/agents-flex 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1033 --> 1044
+    line [1034, 1035, 1036, 1037, 1039, 1041, 1042, 1043]
 ```
 
-2026-10-18 1,034 → 2026-10-29 1,042（+8）
+2026-10-18 1,034 → 2026-10-30 1,043（+9）
 
 
 ---

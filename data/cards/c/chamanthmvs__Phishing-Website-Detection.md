@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chamanthmvs/Phishing-Website-Detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 208 --> 210
     line [209, 209]
 ```
 
-2026-10-18 209 → 2026-10-29 209（+0）
+2026-10-18 209 → 2026-10-30 209（+0）
 
 
 ---

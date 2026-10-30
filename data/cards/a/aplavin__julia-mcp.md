@@ -1,6 +1,6 @@
 # aplavin/julia-mcp
 
-⭐ 94 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aplavin/julia-mcp) · 个人维护
+⭐ 95 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aplavin/julia-mcp) · 个人维护
 
 **MCP server：为 AI 助手提供持久会话的 Julia 代码执行**
 
@@ -45,12 +45,12 @@ MCP 服务器，通过保持 Julia 会话存活跨调用复用，避免 Julia �
 ```mermaid
 xychart-beta
     title "aplavin/julia-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 91 --> 95
-    line [92, 93, 94, 94]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 94, 95]
 ```
 
-2026-10-18 92 → 2026-10-29 94（+2）
+2026-10-18 92 → 2026-10-30 95（+3）
 
 
 ---

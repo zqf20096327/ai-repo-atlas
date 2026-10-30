@@ -1,6 +1,6 @@
 # Green-PT/honey-for-devs
 
-⭐ 343 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Green-PT/honey-for-devs) · [官网](https://github.com/Green-PT/honey-for-devs) · 个人维护
+⭐ 347 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Green-PT/honey-for-devs) · [官网](https://github.com/Green-PT/honey-for-devs) · 个人维护
 
 **压缩 AI 编程 agent 输出 token 的跨工具编码技能**
 
@@ -45,12 +45,12 @@ GreenPT 开发的跨工具编码技能（skill）：通过三条规则让 AI 编
 ```mermaid
 xychart-beta
     title "Green-PT/honey-for-devs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 336 --> 344
-    line [337, 341, 342, 343, 343]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 336 --> 348
+    line [337, 341, 342, 343, 347]
 ```
 
-2026-10-18 337 → 2026-10-29 343（+6）
+2026-10-18 337 → 2026-10-30 347（+10）
 
 
 ---

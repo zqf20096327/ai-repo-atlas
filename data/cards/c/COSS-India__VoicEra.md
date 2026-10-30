@@ -1,6 +1,6 @@
 # COSS-India/VoicEra
 
-⭐ 316 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
+⭐ 316 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
 
 **自托管实时语音 AI 电话代理平台，可自选模型与运营商**
 
@@ -46,12 +46,12 @@ Apache 2.0 许可的开源语音 AI 基础设施，面向印度语等低资源�
 ```mermaid
 xychart-beta
     title "COSS-India/VoicEra 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 315 --> 319
     line [317, 318, 317, 316, 316]
 ```
 
-2026-10-18 317 → 2026-10-29 316（-1）
+2026-10-18 317 → 2026-10-30 316（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # YoKONCy/Touhou-Isekai-Izakaya
 
-⭐ 51 · HTML · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/YoKONCy/Touhou-Isekai-Izakaya) · [官网](https://touhouisk.cn) · 个人维护 · 中文 README
+⭐ 50 · HTML · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/YoKONCy/Touhou-Isekai-Izakaya) · [官网](https://touhouisk.cn) · 个人维护 · 中文 README
 
 **东方二次创作 Web 游戏：LLM 叙事+居酒屋经营+弹幕战斗**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YoKONCy/Touhou-Isekai-Izakaya 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    line [50, 51, 50]
 ```
 
-2026-10-18 50 → 2026-10-29 51（+1）
+2026-10-18 50 → 2026-10-30 50（+0）
 
 
 ---

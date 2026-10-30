@@ -1,6 +1,6 @@
 # ninedter/pcap-hunter
 
-⭐ 166 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/ninedter/pcap-hunter) · 个人维护 · 中文 README
+⭐ 166 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ninedter/pcap-hunter) · 个人维护 · 中文 README
 
 **面向 SOC/DFIR 分析师的 PCAP 威胁狩猎工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ninedter/pcap-hunter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 165 --> 168
     line [167, 166, 166]
 ```
 
-2026-10-18 167 → 2026-10-29 166（-1）
+2026-10-18 167 → 2026-10-30 166（-1）
 
 
 ---

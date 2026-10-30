@@ -1,6 +1,6 @@
 # dapr/python-sdk
 
-⭐ 274 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/dapr/python-sdk) · [官网](https://docs.dapr.io/developing-applications/sdks/python/) · 组织维护
+⭐ 274 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dapr/python-sdk) · [官网](https://docs.dapr.io/developing-applications/sdks/python/) · 组织维护
 
 **Dapr 的 Python SDK：构建有状态 AI agent 与分布式应用的客户端库**
 
@@ -40,6 +40,18 @@
 > L14: Dapr is a portable, event-driven, serverless runtime for building distributed applications across cloud and edge.
 > L32: * dapr.ext.langgraph: LangGraph checkpoint persistence — `pip install "dapr[langgraph]"`
 > L33: * dapr.ext.strands: Strands agent session management — `pip install "dapr[strands]"`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dapr/python-sdk 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 273 --> 275
+    line [274, 274]
+```
+
+2026-10-29 274 → 2026-10-30 274（+0）
 
 
 ---

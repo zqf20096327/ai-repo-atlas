@@ -1,6 +1,6 @@
 # Ravaelles/Atlantis
 
-⭐ 61 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Ravaelles/Atlantis) · 个人维护
+⭐ 61 · Java · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ravaelles/Atlantis) · 个人维护
 
 **星际争霸母巢之战 AI 机器人开发 Java 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ravaelles/Atlantis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-29 61（+0）
+2026-10-18 61 → 2026-10-30 61（+0）
 
 
 ---

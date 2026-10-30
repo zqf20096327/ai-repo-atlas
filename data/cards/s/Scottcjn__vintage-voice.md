@@ -41,6 +41,18 @@
 > L30: VintageVoice is a fine-tune of F5-TTS (SWivid/F5-TTS)
 > L98: 1. **Voice (this model).** A short text prompt is synthesized into a 5-second
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/vintage-voice 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
+```
+
+2026-10-29 43 → 2026-10-30 43（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `c39f575a20ec` · [字段定义](../../DATASET.md)*

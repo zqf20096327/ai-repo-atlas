@@ -1,6 +1,6 @@
 # mindspore-ai/akg
 
-⭐ 264 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/mindspore-ai/akg) · [官网](https://gitee.com/mindspore/akg) · 组织维护 · 中文 README
+⭐ 264 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mindspore-ai/akg) · [官网](https://gitee.com/mindspore/akg) · 组织维护 · 中文 README
 
 **深度学习算子自动生成与融合的编译器，面向 MindSpore 生态**
 
@@ -45,12 +45,12 @@ AKG 是深度学习编译器，对神经网络算子进行优化并提供特定�
 ```mermaid
 xychart-beta
     title "mindspore-ai/akg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 261 --> 265
     line [262, 263, 264, 264]
 ```
 
-2026-10-18 262 → 2026-10-29 264（+2）
+2026-10-18 262 → 2026-10-30 264（+2）
 
 
 ---

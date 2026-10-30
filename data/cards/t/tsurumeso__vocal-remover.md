@@ -1,6 +1,6 @@
 # tsurumeso/vocal-remover
 
-⭐ 1,764 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/tsurumeso/vocal-remover) · 个人维护
+⭐ 1,763 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/tsurumeso/vocal-remover) · 个人维护
 
 **深度学习人声分离工具：从歌曲中提取伴奏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tsurumeso/vocal-remover 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
+    title "tsurumeso/vocal-remover 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 1761 --> 1765
-    line [1762, 1763, 1764, 1763, 1764]
+    line [1762, 1763, 1764, 1763, 1764, 1763]
 ```
 
-2026-10-18 1,762 → 2026-10-29 1,764（+2）
+2026-10-18 1,762 → 2026-10-30 1,763（+1）
 
 
 ---

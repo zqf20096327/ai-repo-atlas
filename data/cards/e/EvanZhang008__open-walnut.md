@@ -1,6 +1,6 @@
 # EvanZhang008/open-walnut
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EvanZhang008/open-walnut) · [官网](https://openwalnut.dev) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EvanZhang008/open-walnut) · [官网](https://openwalnut.dev) · 个人维护
 
 **自托管网页端管理本机与远程 Claude Code 会话的工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvanZhang008/open-walnut 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 33 --> 38
-    line [34, 35, 37]
+    title "EvanZhang008/open-walnut 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 37, 38]
 ```
 
-2026-10-18 34 → 2026-10-29 37（+3）
+2026-10-18 34 → 2026-10-30 38（+4）
 
 
 ---

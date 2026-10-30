@@ -1,6 +1,6 @@
 # saurav-z/free-image-generation-api
 
-⭐ 312 · HTML · 推送 2026-03-13 · [GitHub](https://github.com/saurav-z/free-image-generation-api) · [官网](https://youtu.be/VliEpQl06pE) · 个人维护
+⭐ 314 · HTML · 推送 2026-03-13 · [GitHub](https://github.com/saurav-z/free-image-generation-api) · [官网](https://youtu.be/VliEpQl06pE) · 个人维护
 
 **部署在 Cloudflare Workers 上的免费文生图 API 模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saurav-z/free-image-generation-api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 300 --> 313
-    line [301, 306, 307, 309, 310, 312, 312]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 300 --> 315
+    line [301, 306, 307, 309, 310, 312, 314]
 ```
 
-2026-10-18 301 → 2026-10-29 312（+11）
+2026-10-18 301 → 2026-10-30 314（+13）
 
 
 ---

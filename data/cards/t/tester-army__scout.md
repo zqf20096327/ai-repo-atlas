@@ -1,6 +1,6 @@
 # tester-army/scout
 
-⭐ 69 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tester-army/scout) · 组织维护
+⭐ 70 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/tester-army/scout) · 组织维护
 
 **面向 AI agent 的 OpenAPI 驱动 API 测试 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tester-army/scout 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 65 --> 70
-    line [66, 69, 69]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 65 --> 71
+    line [66, 69, 70]
 ```
 
-2026-10-18 66 → 2026-10-29 69（+3）
+2026-10-18 66 → 2026-10-30 70（+4）
 
 
 ---

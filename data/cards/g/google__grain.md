@@ -1,6 +1,6 @@
 # google/grain
 
-⭐ 799 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/grain) · [官网](https://google-grain.readthedocs.io) · 组织维护
+⭐ 800 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google/grain) · [官网](https://google-grain.readthedocs.io) · 组织维护
 
 **面向 JAX 模型的确定性数据读取与处理 Python 库**
 
@@ -44,12 +44,12 @@ Grain 是用于训练与评估 JAX 模型的数据读取和处理 Python 库，�
 ```mermaid
 xychart-beta
     title "google/grain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 791 --> 800
-    line [792, 793, 794, 795, 797, 799, 799]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 791 --> 801
+    line [792, 793, 794, 795, 797, 799, 800]
 ```
 
-2026-10-18 792 → 2026-10-29 799（+7）
+2026-10-18 792 → 2026-10-30 800（+8）
 
 
 ---

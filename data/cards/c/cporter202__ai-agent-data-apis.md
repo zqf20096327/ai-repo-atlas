@@ -1,6 +1,6 @@
 # cporter202/ai-agent-data-apis
 
-⭐ 49 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-data-apis) · [官网](https://apify.com?fpr=p2hrc6) · 个人维护
+⭐ 50 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cporter202/ai-agent-data-apis) · [官网](https://apify.com?fpr=p2hrc6) · 个人维护
 
 **面向 AI agent 的数据 API 目录：2,070 个 Apify actor 清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cporter202/ai-agent-data-apis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 0 --> 53
-    line [4, 5, 6, 23, 41, 49]
+    title "cporter202/ai-agent-data-apis 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 54
+    line [4, 5, 6, 23, 41, 49, 50]
 ```
 
-2026-10-18 4 → 2026-10-29 49（+45）
+2026-10-18 4 → 2026-10-30 50（+46）
 
 
 ---

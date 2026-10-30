@@ -1,6 +1,6 @@
 # IDEA-CCNL/Fengshenbang-LM
 
-⭐ 4,118 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/IDEA-CCNL/Fengshenbang-LM) · 组织维护 · 中文 README
+⭐ 4,119 · Python · Apache-2.0 · 推送 2026-06-08 · [GitHub](https://github.com/IDEA-CCNL/Fengshenbang-LM) · 组织维护 · 中文 README
 
 **中文大模型开源体系：预训练模型系列与训练微调框架**
 
@@ -45,13 +45,13 @@ IDEA 研究院 CCNL 中心主导的中文大模型开源体系，包含七个模
 
 ```mermaid
 xychart-beta
-    title "IDEA-CCNL/Fengshenbang-LM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
+    title "IDEA-CCNL/Fengshenbang-LM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 4117 --> 4123
-    line [4122, 4120, 4119, 4118]
+    line [4122, 4120, 4119, 4118, 4119]
 ```
 
-2026-10-18 4,122 → 2026-10-29 4,118（-4）
+2026-10-18 4,122 → 2026-10-30 4,119（-3）
 
 
 ---

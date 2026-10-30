@@ -1,6 +1,6 @@
 # imoonkey/closepaw
 
-⭐ 57 · Kotlin · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/imoonkey/closepaw) · 个人维护
+⭐ 58 · Kotlin · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/imoonkey/closepaw) · 个人维护
 
 **开源 Android 手机使用 agent：用自然语言让手机自动执行任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "imoonkey/closepaw 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 53 --> 58
-    line [54, 55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 53 --> 59
+    line [54, 55, 56, 57, 58]
 ```
 
-2026-10-18 54 → 2026-10-29 57（+3）
+2026-10-18 54 → 2026-10-30 58（+4）
 
 
 ---

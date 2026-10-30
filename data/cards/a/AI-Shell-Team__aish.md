@@ -1,6 +1,6 @@
 # AI-Shell-Team/aish
 
-⭐ 571 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AI-Shell-Team/aish) · [官网](https://www.aishell.ai) · 组织维护 · 中文 README
+⭐ 571 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/AI-Shell-Team/aish) · [官网](https://www.aishell.ai) · 组织维护 · 中文 README
 
 **面向运维排障的 AI Shell：自然语言生成并安全执行命令**
 
@@ -44,13 +44,13 @@ Rust 实现的交互式 AI Shell，提供完整 PTY 支持，可直接运行 vim
 
 ```mermaid
 xychart-beta
-    title "AI-Shell-Team/aish 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "AI-Shell-Team/aish 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 561 --> 572
-    line [562, 566, 564, 565, 566, 568, 570, 571]
+    line [562, 566, 564, 565, 566, 568, 570, 571, 571]
 ```
 
-2026-10-18 562 → 2026-10-29 571（+9）
+2026-10-18 562 → 2026-10-30 571（+9）
 
 
 ---

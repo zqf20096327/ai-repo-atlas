@@ -1,6 +1,6 @@
 # reidjohnson/nn-field-guide
 
-⭐ 22 · Python · CC-BY-SA-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/reidjohnson/nn-field-guide) · [官网](https://reidjohnson.github.io/nn-field-guide/) · 个人维护
+⭐ 23 · Python · CC-BY-SA-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/reidjohnson/nn-field-guide) · [官网](https://reidjohnson.github.io/nn-field-guide/) · 个人维护
 
 **神经网络结构参考图谱：从感知机到扩散 LLM 的可视化图鉴**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "reidjohnson/nn-field-guide 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 13 --> 23
-    line [14, 18, 19, 20, 22, 22]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 13 --> 24
+    line [14, 18, 19, 20, 22, 23]
 ```
 
-2026-10-19 14 → 2026-10-29 22（+8）
+2026-10-19 14 → 2026-10-30 23（+9）
 
 
 ---

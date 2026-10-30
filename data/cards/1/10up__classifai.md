@@ -1,6 +1,6 @@
 # 10up/classifai
 
-⭐ 714 · PHP · GPL-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/10up/classifai) · [官网](https://classifaiplugin.com) · 组织维护
+⭐ 715 · PHP · GPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/10up/classifai) · [官网](https://classifaiplugin.com) · 组织维护
 
 **WordPress 插件：用 AI 自动生成摘要/标题/图片/转录并分类内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "10up/classifai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 712 --> 715
-    line [713, 714, 714]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 712 --> 716
+    line [713, 714, 715]
 ```
 
-2026-10-18 713 → 2026-10-29 714（+1）
+2026-10-18 713 → 2026-10-30 715（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Makhsum/httptrafficmonitr
 
-⭐ 21 · C# · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Makhsum/httptrafficmonitr) · 个人维护
+⭐ 22 · C# · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Makhsum/httptrafficmonitr) · 个人维护
 
 **带 MCP 服务器的 Windows HTTP/HTTPS 抓包调试工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Makhsum/httptrafficmonitr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mcthouacbb/Sirius
 
-⭐ 51 · C++ · 推送 2026-10-16 · [GitHub](https://github.com/mcthouacbb/Sirius) · 个人维护
+⭐ 52 · C++ · 推送 2026-10-16 · [GitHub](https://github.com/mcthouacbb/Sirius) · 个人维护
 
 **C++ 编写的 UCI 国际象棋引擎，供 GUI 对弈使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mcthouacbb/Sirius 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 50 --> 53
+    line [51, 52]
 ```
 
-2026-10-18 51 → 2026-10-29 51（+0）
+2026-10-18 51 → 2026-10-30 52（+1）
 
 
 ---

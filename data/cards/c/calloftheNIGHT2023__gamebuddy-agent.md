@@ -1,6 +1,6 @@
 # calloftheNIGHT2023/gamebuddy-agent
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/calloftheNIGHT2023/gamebuddy-agent) · [官网](http://www.gamebuddyagent.site/) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/calloftheNIGHT2023/gamebuddy-agent) · [官网](http://www.gamebuddyagent.site/) · 个人维护 · 中文 README
 
 **浏览器端游戏分析实验室：可玩沙盒加局势解读与复盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "calloftheNIGHT2023/gamebuddy-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 34 --> 37
     line [35, 36, 36]
 ```
 
-2026-10-18 35 → 2026-10-29 36（+1）
+2026-10-18 35 → 2026-10-30 36（+1）
 
 
 ---

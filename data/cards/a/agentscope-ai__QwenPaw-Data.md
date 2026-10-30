@@ -1,6 +1,6 @@
 # agentscope-ai/QwenPaw-Data
 
-⭐ 179 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw-Data) · 组织维护 · 中文 README
+⭐ 182 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/agentscope-ai/QwenPaw-Data) · 组织维护 · 中文 README
 
 **面向企业数据分析的 agentic 数据系统：事实治理+方法复用+可控执行**
 
@@ -46,13 +46,13 @@ QwenPaw-Data 将企业数据分析组织为三个子系统：DataBridge 把仓�
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/QwenPaw-Data 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 134 --> 183
-    line [138, 145, 168, 172, 173, 174, 177, 179]
+    title "agentscope-ai/QwenPaw-Data 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 134 --> 186
+    line [138, 145, 168, 172, 173, 174, 177, 179, 182]
 ```
 
-2026-10-18 138 → 2026-10-29 179（+41）
+2026-10-18 138 → 2026-10-30 182（+44）
 
 
 ---

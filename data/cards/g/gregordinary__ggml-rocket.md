@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gregordinary/ggml-rocket 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "gregordinary/ggml-rocket 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 23 --> 26
-    line [24, 25]
+    line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

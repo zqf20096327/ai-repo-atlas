@@ -1,6 +1,6 @@
 # sdv-dev/SDV
 
-⭐ 3,586 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/sdv-dev/SDV) · [官网](https://docs.sdv.dev/sdv) · 组织维护
+⭐ 3,586 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sdv-dev/SDV) · [官网](https://docs.sdv.dev/sdv) · 组织维护
 
 **生成表格合成数据的 Python 库：从真实数据学习并生成仿真数据**
 
@@ -45,13 +45,13 @@ Synthetic Data Vault（SDV）是 DataCebo 维护的 Python 库，用多种机器
 
 ```mermaid
 xychart-beta
-    title "sdv-dev/SDV 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
+    title "sdv-dev/SDV 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 3577 --> 3587
-    line [3578, 3581, 3582, 3583, 3584, 3586]
+    line [3578, 3581, 3582, 3583, 3584, 3586, 3586]
 ```
 
-2026-10-18 3,578 → 2026-10-29 3,586（+8）
+2026-10-18 3,578 → 2026-10-30 3,586（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # Scottcjn/Rustchain
 
-⭐ 683 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
+⭐ 684 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
 
 **抗女巫攻击的 AI agent 网络：用硬件指纹验证真实机器身份**
 
@@ -41,6 +41,18 @@ RustChain 是一个 DePIN（去中心化物理基础设施网络）Layer-1 区�
 > L10: *For AI teams: this is **Sybil-resistant agent authentication** — **hardware-attested agent identity** where a mach
 > L151: RustChain powers an ecosystem where AI agents and humans collaborate:
 > L186: |**Discovery**|Beacon protocol — agents find and negotiate with other agents, with a RustChain transport for Ed255
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Scottcjn/Rustchain 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 682 --> 685
+    line [683, 684]
+```
+
+2026-10-29 683 → 2026-10-30 684（+1）
 
 
 ---

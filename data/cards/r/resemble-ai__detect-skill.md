@@ -1,6 +1,6 @@
 # resemble-ai/detect-skill
 
-⭐ 95 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/resemble-ai/detect-skill) · [官网](https://resemble.ai) · 组织维护
+⭐ 96 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/resemble-ai/detect-skill) · [官网](https://resemble.ai) · 组织维护
 
 **教 AI agent 调用 Resemble API 做 deepfake 检测的技能文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "resemble-ai/detect-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 89 --> 96
-    line [90, 91, 94, 93, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 89 --> 97
+    line [90, 91, 94, 93, 94, 95, 96]
 ```
 
-2026-10-18 90 → 2026-10-29 95（+5）
+2026-10-18 90 → 2026-10-30 96（+6）
 
 
 ---

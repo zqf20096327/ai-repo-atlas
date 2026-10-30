@@ -1,6 +1,6 @@
 # Oqura-ai/deepdoc
 
-⭐ 314 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Oqura-ai/deepdoc) · 组织维护
+⭐ 315 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Oqura-ai/deepdoc) · 组织维护
 
 **把本地文件转成结构化 Markdown 研究报告的深度研究工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Oqura-ai/deepdoc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 311 --> 315
-    line [312, 313, 314, 314]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 311 --> 316
+    line [312, 313, 314, 315]
 ```
 
-2026-10-18 312 → 2026-10-29 314（+2）
+2026-10-18 312 → 2026-10-30 315（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # metatensor/metatrain
 
-⭐ 83 · Python · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/metatensor/metatrain) · [官网](http://docs.metatensor.org/metatrain/) · 组织维护
+⭐ 84 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/metatensor/metatrain) · [官网](http://docs.metatensor.org/metatrain/) · 组织维护
 
 **原子体系机器学习势模型的统一训练与评估 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metatensor/metatrain 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84]
 ```
 
-2026-10-18 82 → 2026-10-29 83（+1）
+2026-10-18 82 → 2026-10-30 84（+2）
 
 
 ---

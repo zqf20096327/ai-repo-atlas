@@ -1,6 +1,6 @@
 # wvlet/wvlet
 
-⭐ 158 · Scala · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
+⭐ 158 · Scala · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
 
 **编译到 SQL 的流式查询语言，供数据建模与探索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wvlet/wvlet 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 157 --> 159
     line [158, 158]
 ```
 
-2026-10-28 158 → 2026-10-29 158（+0）
+2026-10-28 158 → 2026-10-30 158（+0）
 
 
 ---

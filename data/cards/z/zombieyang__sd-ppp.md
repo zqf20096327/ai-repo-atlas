@@ -1,6 +1,6 @@
 # zombieyang/sd-ppp
 
-⭐ 2,192 · JavaScript · BSD-3-Clause · 推送 2026-02-05 · [GitHub](https://github.com/zombieyang/sd-ppp) · [官网](https://sdppp.zombee.tech/) · 个人维护 · 中文 README
+⭐ 2,193 · JavaScript · BSD-3-Clause · 推送 2026-02-05 · [GitHub](https://github.com/zombieyang/sd-ppp) · [官网](https://sdppp.zombee.tech/) · 个人维护 · 中文 README
 
 **Photoshop 非官方 AI 插件：在 PS 内调用 ComfyUI 等生成图像**
 
@@ -46,12 +46,12 @@ Adobe Photoshop 的非官方 AI 插件：在 Photoshop 内选取图像/图层/�
 ```mermaid
 xychart-beta
     title "zombieyang/sd-ppp 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2182 --> 2193
-    line [2183, 2188, 2190, 2191, 2192, 2192]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 2182 --> 2194
+    line [2183, 2188, 2190, 2191, 2192, 2193]
 ```
 
-2026-10-18 2,183 → 2026-10-29 2,192（+9）
+2026-10-18 2,183 → 2026-10-30 2,193（+10）
 
 
 ---

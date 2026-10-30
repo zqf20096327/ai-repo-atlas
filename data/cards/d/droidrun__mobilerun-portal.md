@@ -1,6 +1,6 @@
 # droidrun/mobilerun-portal
 
-⭐ 401 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/droidrun/mobilerun-portal) · [官网](https://mobilerun.ai/framework) · 组织维护
+⭐ 400 · Kotlin · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/droidrun/mobilerun-portal) · [官网](https://mobilerun.ai/framework) · 组织维护
 
 **mobilerun 框架的 Android 配套应用：暴露 UI 控制与数据采集接口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "droidrun/mobilerun-portal 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "droidrun/mobilerun-portal 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 391 --> 402
-    line [392, 393, 396, 398, 399, 400, 401]
+    line [392, 393, 396, 398, 399, 400, 401, 400]
 ```
 
-2026-10-18 392 → 2026-10-29 401（+9）
+2026-10-18 392 → 2026-10-30 400（+8）
 
 
 ---

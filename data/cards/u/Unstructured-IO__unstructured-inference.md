@@ -43,13 +43,13 @@ unstructured 生态的托管模型推理库，为 unstructured 包的 partitioni
 
 ```mermaid
 xychart-beta
-    title "Unstructured-IO/unstructured-inference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "Unstructured-IO/unstructured-inference 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 209 --> 212
-    line [210, 211]
+    line [210, 211, 211]
 ```
 
-2026-10-18 210 → 2026-10-29 211（+1）
+2026-10-18 210 → 2026-10-30 211（+1）
 
 
 ---

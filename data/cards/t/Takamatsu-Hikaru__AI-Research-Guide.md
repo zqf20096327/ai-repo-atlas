@@ -1,6 +1,6 @@
 # Takamatsu-Hikaru/AI-Research-Guide
 
-⭐ 193 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/Takamatsu-Hikaru/AI-Research-Guide) · [官网](https://takamatsu-hikaru.github.io/AI-Research-Guide/) · 组织维护 · 中文 README
+⭐ 197 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/Takamatsu-Hikaru/AI-Research-Guide) · [官网](https://takamatsu-hikaru.github.io/AI-Research-Guide/) · 组织维护 · 中文 README
 
 **面向大学新生的 AI 科研入门双语指南与论文卡片库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Takamatsu-Hikaru/AI-Research-Guide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 58 --> 205
-    line [70, 88, 102, 111, 113, 121, 169, 183, 189, 193]
+    title "Takamatsu-Hikaru/AI-Research-Guide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 58 --> 209
+    line [70, 88, 102, 111, 113, 121, 169, 183, 189, 193, 197]
 ```
 
-2026-10-18 70 → 2026-10-29 193（+123）
+2026-10-18 70 → 2026-10-30 197（+127）
 
 
 ---

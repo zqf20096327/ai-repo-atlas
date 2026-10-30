@@ -1,6 +1,6 @@
 # lordx64/phantom-kv
 
-⭐ 274 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lordx64/phantom-kv) · 个人维护
+⭐ 275 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/lordx64/phantom-kv) · 个人维护
 
 **以可加载 KV-cache 移植片移除 LLM 拒答的工具链**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lordx64/phantom-kv 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 172 --> 283
-    line [181, 182, 263, 273, 274]
+    title "lordx64/phantom-kv 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 172 --> 284
+    line [181, 182, 263, 273, 274, 275]
 ```
 
-2026-10-18 181 → 2026-10-29 274（+93）
+2026-10-18 181 → 2026-10-30 275（+94）
 
 
 ---

@@ -1,6 +1,6 @@
 # recommenders-team/recommenders
 
-⭐ 21,969 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
+⭐ 21,972 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
 
 **面向研究者与开发者的推荐系统最佳实践库与示例集**
 
@@ -53,13 +53,13 @@ Recommenders 是 Linux Foundation of AI and Data 旗下的推荐系统项目，�
 
 ```mermaid
 xychart-beta
-    title "recommenders-team/recommenders 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 21954 --> 21970
-    line [21955, 21958, 21960, 21959, 21961, 21964, 21966, 21967, 21969]
+    title "recommenders-team/recommenders 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21954 --> 21973
+    line [21955, 21958, 21960, 21959, 21961, 21964, 21966, 21967, 21969, 21972]
 ```
 
-2026-10-18 21,955 → 2026-10-29 21,969（+14）
+2026-10-18 21,955 → 2026-10-30 21,972（+17）
 
 
 ---

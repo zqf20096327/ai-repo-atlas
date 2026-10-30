@@ -1,6 +1,6 @@
 # aartiq/servicenow-mcp
 
-⭐ 264 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/aartiq/servicenow-mcp) · [官网](https://servicenow-mcp.com) · 组织维护
+⭐ 265 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/aartiq/servicenow-mcp) · [官网](https://servicenow-mcp.com) · 组织维护
 
 **把 Claude/ChatGPT/Cursor 等 AI 客户端接入 ServiceNow 的 MCP 服务器**
 
@@ -45,12 +45,12 @@ ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 
 ```mermaid
 xychart-beta
     title "aartiq/servicenow-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 262 --> 270
-    line [267, 268, 269, 263, 264, 263, 264, 264]
+    line [267, 268, 269, 263, 264, 263, 264, 265]
 ```
 
-2026-10-18 267 → 2026-10-29 264（-3）
+2026-10-18 267 → 2026-10-30 265（-2）
 
 
 ---

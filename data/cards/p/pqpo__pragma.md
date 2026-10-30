@@ -1,6 +1,6 @@
 # pqpo/pragma
 
-⭐ 249 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/pqpo/pragma) · [官网](https://www.pqpo.me/2026/08/16/agent-team-builder-multi-harness-runtime/) · 个人维护 · 中文 README
+⭐ 249 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/pqpo/pragma) · [官网](https://www.pqpo.me/2026/08/16/agent-team-builder-multi-harness-runtime/) · 个人维护 · 中文 README
 
 **跨模型跨 harness 的可移植 Agent Team 构建运行平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pqpo/pragma 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 247 --> 253
     line [251, 252, 248, 249, 249]
 ```
 
-2026-10-18 251 → 2026-10-29 249（-2）
+2026-10-18 251 → 2026-10-30 249（-2）
 
 
 ---

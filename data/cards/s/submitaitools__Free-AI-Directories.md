@@ -1,6 +1,6 @@
 # submitaitools/Free-AI-Directories
 
-⭐ 82 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/submitaitools/Free-AI-Directories) · [官网](https://submitaitools.org) · 组织维护
+⭐ 83 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/submitaitools/Free-AI-Directories) · [官网](https://submitaitools.org) · 组织维护
 
 **免费 AI 工具目录站清单：附 DA 分数与提交链接**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "submitaitools/Free-AI-Directories 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 77 --> 83
-    line [78, 79, 80, 82, 82]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 77 --> 84
+    line [78, 79, 80, 82, 83]
 ```
 
-2026-10-18 78 → 2026-10-29 82（+4）
+2026-10-18 78 → 2026-10-30 83（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # ndom91/llama-dash
 
-⭐ 27 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ndom91/llama-dash) · [官网](https://llama-dash.dev) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ndom91/llama-dash) · [官网](https://llama-dash.dev) · 个人维护
 
 **本地 LLM 推理盒的运维网关：统一代理、观测与策略控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ndom91/llama-dash 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 22 --> 28
-    line [23, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 22 --> 29
+    line [23, 25, 26, 27, 28]
 ```
 
-2026-10-18 23 → 2026-10-29 27（+4）
+2026-10-18 23 → 2026-10-30 28（+5）
 
 
 ---

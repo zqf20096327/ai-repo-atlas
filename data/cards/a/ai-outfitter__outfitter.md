@@ -1,6 +1,6 @@
 # ai-outfitter/outfitter
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/ai-outfitter/outfitter) · 组织维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ai-outfitter/outfitter) · 组织维护
 
 **编码 agent 的配置管理工具链：像 dotfiles 一样切换 agent 配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-outfitter/outfitter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

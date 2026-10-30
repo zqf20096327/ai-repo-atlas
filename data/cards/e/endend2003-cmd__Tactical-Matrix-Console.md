@@ -1,6 +1,6 @@
 # endend2003-cmd/Tactical-Matrix-Console
 
-⭐ 117 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/endend2003-cmd/Tactical-Matrix-Console) · 组织维护
+⭐ 117 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/endend2003-cmd/Tactical-Matrix-Console) · 组织维护
 
 **战术仿真与 AI 指挥控制台，供多方推演与智能体训练**
 
@@ -45,12 +45,12 @@ Sovereign Core 是分布式决策仿真的指挥控制平台：提供后端仿�
 ```mermaid
 xychart-beta
     title "endend2003-cmd/Tactical-Matrix-Console 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
     y-axis "stars" 116 --> 119
     line [118, 117, 117]
 ```
 
-2026-10-18 118 → 2026-10-29 117（-1）
+2026-10-18 118 → 2026-10-30 117（-1）
 
 
 ---

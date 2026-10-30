@@ -1,6 +1,6 @@
 # ythx-101/x-tweet-fetcher
 
-⭐ 994 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ythx-101/x-tweet-fetcher) · [官网](https://github.com/ythx-101/openclaw-qa) · 个人维护 · 中文 README
+⭐ 996 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/ythx-101/x-tweet-fetcher) · [官网](https://github.com/ythx-101/openclaw-qa) · 个人维护 · 中文 README
 
 **给 AI agent 用的 X/Twitter 内容抓取工具，免登录免 API key**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ythx-101/x-tweet-fetcher 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 985 --> 995
-    line [987, 986, 989, 991, 992, 993, 994, 994]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 985 --> 997
+    line [987, 986, 989, 991, 992, 993, 994, 996]
 ```
 
-2026-10-18 987 → 2026-10-29 994（+7）
+2026-10-18 987 → 2026-10-30 996（+9）
 
 
 ---

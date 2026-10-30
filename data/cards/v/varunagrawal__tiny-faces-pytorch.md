@@ -45,12 +45,12 @@ Peiyun Hu CVPR 论文 tiny face detector 的 PyTorch 实现，面向计算机视
 ```mermaid
 xychart-beta
     title "varunagrawal/tiny-faces-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 165 --> 167
     line [166, 166]
 ```
 
-2026-10-18 166 → 2026-10-29 166（+0）
+2026-10-18 166 → 2026-10-30 166（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Windows 平台的 C++ 游戏瞄准辅助程序：通过 DirectX Duplication/WCRT
 
 ```mermaid
 xychart-beta
-    title "ReksarGames/RN_AI_cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "ReksarGames/RN_AI_cpp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 35]
+    line [33, 34, 35, 35]
 ```
 
-2026-10-18 33 → 2026-10-29 35（+2）
+2026-10-18 33 → 2026-10-30 35（+2）
 
 
 ---

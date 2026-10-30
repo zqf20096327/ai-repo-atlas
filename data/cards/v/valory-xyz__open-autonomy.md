@@ -1,6 +1,6 @@
 # valory-xyz/open-autonomy
 
-⭐ 135 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/valory-xyz/open-autonomy) · [官网](https://stack.olas.network/open-autonomy/) · 组织维护
+⭐ 135 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/valory-xyz/open-autonomy) · [官网](https://stack.olas.network/open-autonomy/) · 组织维护
 
 **构建去中心化链上自主 AI agent 服务的开发框架**
 
@@ -45,13 +45,13 @@ Open Autonomy 是用于创建链下自主 AI agent 的框架：agent 以多智�
 
 ```mermaid
 xychart-beta
-    title "valory-xyz/open-autonomy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "valory-xyz/open-autonomy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 129 --> 136
-    line [130, 135]
+    line [130, 135, 135]
 ```
 
-2026-10-18 130 → 2026-10-29 135（+5）
+2026-10-18 130 → 2026-10-30 135（+5）
 
 
 ---

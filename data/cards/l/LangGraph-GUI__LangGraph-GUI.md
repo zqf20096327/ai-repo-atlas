@@ -1,6 +1,6 @@
 # LangGraph-GUI/LangGraph-GUI
 
-⭐ 271 · TypeScript · MIT · 推送 2026-01-24 · [GitHub](https://github.com/LangGraph-GUI/LangGraph-GUI) · [官网](https://langgraph-gui.github.io/) · 组织维护
+⭐ 272 · TypeScript · MIT · 推送 2026-01-24 · [GitHub](https://github.com/LangGraph-GUI/LangGraph-GUI) · [官网](https://langgraph-gui.github.io/) · 组织维护
 
 **LangGraph 可视化节点图编辑器，可接本地或在线 LLM 运行**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "LangGraph-GUI/LangGraph-GUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 269 --> 272
-    line [270, 271, 271]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 269 --> 273
+    line [270, 271, 272]
 ```
 
-2026-10-18 270 → 2026-10-29 271（+1）
+2026-10-18 270 → 2026-10-30 272（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tuanductran/hr-skills
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tuanductran/hr-skills) · [官网](https://hr-skills-web.vercel.app) · 个人维护
+⭐ 75 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tuanductran/hr-skills) · [官网](https://hr-skills-web.vercel.app) · 个人维护
 
 **面向 HR 从业者的 Agent Skills 知识库，覆盖招聘到留任全周期**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tuanductran/hr-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 65 --> 75
-    line [66, 67, 69, 71, 72, 74]
+    title "tuanductran/hr-skills 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 65 --> 76
+    line [66, 67, 69, 71, 72, 74, 75]
 ```
 
-2026-10-18 66 → 2026-10-29 74（+8）
+2026-10-18 66 → 2026-10-30 75（+9）
 
 
 ---

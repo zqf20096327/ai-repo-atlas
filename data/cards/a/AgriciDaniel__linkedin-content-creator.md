@@ -1,6 +1,6 @@
 # AgriciDaniel/linkedin-content-creator
 
-⭐ 100 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/linkedin-content-creator) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 101 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/linkedin-content-creator) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
 
 **面向营销人员的 LinkedIn 帖子 AI 生成与排期工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/linkedin-content-creator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 98 --> 102
+    line [99, 100, 101]
 ```
 
-2026-10-18 99 → 2026-10-29 100（+1）
+2026-10-18 99 → 2026-10-30 101（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AmineDjeghri/generative-ai-project-template
 
-⭐ 118 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AmineDjeghri/generative-ai-project-template) · [官网](http://aminedjeghri.com/generative-ai-project-template/) · 个人维护
+⭐ 118 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AmineDjeghri/generative-ai-project-template) · [官网](http://aminedjeghri.com/generative-ai-project-template/) · 个人维护
 
 **生成式 AI 项目脚手架模板：快速搭建带 LLM、RAG 与评测的工程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmineDjeghri/generative-ai-project-template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-29 118（+0）
+2026-10-18 118 → 2026-10-30 118（+0）
 
 
 ---

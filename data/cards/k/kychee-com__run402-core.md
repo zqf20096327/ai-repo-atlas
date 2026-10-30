@@ -1,6 +1,6 @@
 # kychee-com/run402-core
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/kychee-com/run402-core) · [官网](https://run402.com) · 组织维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kychee-com/run402-core) · [官网](https://run402.com) · 组织维护
 
 **AI agent 的自托管后端运行时核心：数据库/存储/函数/路由**
 
@@ -46,12 +46,12 @@ Run402 托管云的开源自托管切片：为 AI agent 提供 Postgres 数据�
 ```mermaid
 xychart-beta
     title "kychee-com/run402-core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-29 20（+0）
+2026-10-18 20 → 2026-10-30 20（+0）
 
 
 ---

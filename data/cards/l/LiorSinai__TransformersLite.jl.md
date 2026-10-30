@@ -1,6 +1,6 @@
 # LiorSinai/TransformersLite.jl
 
-⭐ 43 · Julia · 推送 2026-10-27 · [GitHub](https://github.com/LiorSinai/TransformersLite.jl) · 个人维护
+⭐ 43 · Julia · 推送 2026-10-29 · [GitHub](https://github.com/LiorSinai/TransformersLite.jl) · 个人维护
 
 **Jula 语言的轻量 Transformer 层与模型教学库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LiorSinai/TransformersLite.jl 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-28 43 → 2026-10-29 43（+0）
+2026-10-28 43 → 2026-10-30 43（+0）
 
 
 ---

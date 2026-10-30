@@ -1,6 +1,6 @@
 # EvoTestOps/AISysRev
 
-⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EvoTestOps/AISysRev) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EvoTestOps/AISysRev) · 组织维护
 
 **面向系统综述的 LLM 题录-摘要筛选 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvoTestOps/AISysRev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

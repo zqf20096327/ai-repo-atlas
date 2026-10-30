@@ -1,6 +1,6 @@
 # camlab-ethz/TensorMesh
 
-⭐ 229 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/camlab-ethz/TensorMesh) · [官网](https://www.tensor-mesh.com/) · 组织维护
+⭐ 233 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/camlab-ethz/TensorMesh) · [官网](https://www.tensor-mesh.com/) · 组织维护
 
 **基于 PyTorch 的可微分有限元库，供科研人员求解 PDE**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "camlab-ethz/TensorMesh 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 226 --> 230
-    line [227, 229, 229]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 226 --> 234
+    line [227, 229, 233]
 ```
 
-2026-10-18 227 → 2026-10-29 229（+2）
+2026-10-18 227 → 2026-10-30 233（+6）
 
 
 ---

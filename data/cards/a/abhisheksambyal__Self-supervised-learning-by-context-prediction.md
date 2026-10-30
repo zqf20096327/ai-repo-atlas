@@ -38,6 +38,18 @@ PyTorch 实现论文《Unsupervised Visual Representation Learning by Context Pr
 > L3: Pytorch Implementation of "Unsupervised Visual Representation Learning by Context Prediction" by C. Doersh, A. Gupta
 > L4: ICCV Paper Link: https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Doersch_Unsupervised_Visual_Repre
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abhisheksambyal/Self-supervised-learning-by-context-prediction 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-10-29 24 → 2026-10-30 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 mid · 依据 README sha `7793c747f48f` · [字段定义](../../DATASET.md)*

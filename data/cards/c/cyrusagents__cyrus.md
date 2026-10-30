@@ -1,6 +1,6 @@
 # cyrusagents/cyrus
 
-⭐ 879 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
+⭐ 879 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
 
 **接入 Linear/GitHub/GitLab/Slack 的后台编码 agent 部署平台**
 
@@ -44,13 +44,13 @@ Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题�
 
 ```mermaid
 xychart-beta
-    title "cyrusagents/cyrus 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "cyrusagents/cyrus 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 854 --> 881
-    line [856, 858, 859, 863, 864, 867, 869, 876, 879]
+    line [856, 858, 859, 863, 864, 867, 869, 876, 879, 879]
 ```
 
-2026-10-18 856 → 2026-10-29 879（+23）
+2026-10-18 856 → 2026-10-30 879（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # lshhhhhhh/ai-school-op
 
-⭐ 81 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lshhhhhhh/ai-school-op) · 个人维护 · 中文 README
+⭐ 82 · Python · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/lshhhhhhh/ai-school-op) · 个人维护 · 中文 README
 
 **AI 翻拍动画 OP 的制作过程开源：分镜、提示词与流水线代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lshhhhhhh/ai-school-op 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 72 --> 82
-    line [73, 75, 78, 79, 80, 81]
+    title "lshhhhhhh/ai-school-op 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 72 --> 83
+    line [73, 75, 78, 79, 80, 81, 82]
 ```
 
-2026-10-18 73 → 2026-10-29 81（+8）
+2026-10-18 73 → 2026-10-30 82（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # marcolardera/chatgpt-cli
 
-⭐ 475 · Python · MIT · 推送 2025-11-02 · [GitHub](https://github.com/marcolardera/chatgpt-cli) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端里与 ChatGPT 对话的 Python 命令行客户端**
 
@@ -11,7 +11,7 @@ Python 编写的命令行 ChatGPT 客户端，通过官方 OpenAI API（或 Azur
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

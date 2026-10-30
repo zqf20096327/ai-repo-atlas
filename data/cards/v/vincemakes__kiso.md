@@ -1,6 +1,6 @@
 # vincemakes/kiso
 
-⭐ 81 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vincemakes/kiso) · [官网](https://kiso.work) · 个人维护 · 中文 README
+⭐ 82 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vincemakes/kiso) · [官网](https://kiso.work) · 个人维护 · 中文 README
 
 **终端编码 agent 与其持久化运行时内核**
 
@@ -44,13 +44,13 @@ kiso 由两部分组成：上限 2,200 行 TypeScript 的持久化 agent 运行�
 
 ```mermaid
 xychart-beta
-    title "vincemakes/kiso 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 72 --> 82
-    line [73, 74, 77, 78, 80, 81]
+    title "vincemakes/kiso 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 72 --> 83
+    line [73, 74, 77, 78, 80, 81, 82]
 ```
 
-2026-10-18 73 → 2026-10-29 81（+8）
+2026-10-18 73 → 2026-10-30 82（+9）
 
 
 ---

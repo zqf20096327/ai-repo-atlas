@@ -1,6 +1,6 @@
 # mixa3607/ML-gfx906
 
-⭐ 361 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/mixa3607/ML-gfx906) · [官网](https://arkprojects.space/wiki/AMD_GFX906) · 个人维护
+⭐ 362 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mixa3607/ML-gfx906) · [官网](https://arkprojects.space/wiki/AMD_GFX906) · 个人维护
 
 **面向 AMD gfx906（Radeon VII/MI50/MI60）的 ML 软件构建仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mixa3607/ML-gfx906 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 352 --> 362
-    line [353, 357, 359, 360, 361, 361]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 352 --> 363
+    line [353, 357, 359, 360, 361, 362]
 ```
 
-2026-10-18 353 → 2026-10-29 361（+8）
+2026-10-18 353 → 2026-10-30 362（+9）
 
 
 ---

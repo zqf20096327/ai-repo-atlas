@@ -1,6 +1,6 @@
 # modu-ai/moai-adk
 
-⭐ 1,246 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护
+⭐ 1,248 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护
 
 **Claude Code 的验证驱动 agent 编排 harness，多会话并行开发**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modu-ai/moai-adk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1234 --> 1247
-    line [1236, 1235, 1236, 1243, 1246]
+    title "modu-ai/moai-adk 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1234 --> 1249
+    line [1236, 1235, 1236, 1243, 1246, 1248]
 ```
 
-2026-10-18 1,236 → 2026-10-29 1,246（+10）
+2026-10-18 1,236 → 2026-10-30 1,248（+12）
 
 
 ---

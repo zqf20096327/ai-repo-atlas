@@ -1,6 +1,6 @@
 # Q-shuang-dot/officeace2api
 
-⭐ 33 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Q-shuang-dot/officeace2api) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Q-shuang-dot/officeace2api) · 个人维护 · 中文 README
 
 **把模型网关反代成 OpenAI 兼容 API 的零依赖 Node 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Q-shuang-dot/officeace2api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "Q-shuang-dot/officeace2api 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 11 --> 35
-    line [13, 21, 26, 28, 27, 28, 33]
+    line [13, 21, 26, 28, 27, 28, 33, 33]
 ```
 
-2026-10-18 13 → 2026-10-29 33（+20）
+2026-10-18 13 → 2026-10-30 33（+20）
 
 
 ---

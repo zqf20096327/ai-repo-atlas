@@ -44,12 +44,12 @@ Spring AI Alibaba 项目官方文档网站的源码仓库，基于 Docusaurus �
 ```mermaid
 xychart-beta
     title "spring-ai-alibaba/website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-29 69（+0）
+2026-10-18 69 → 2026-10-30 69（+0）
 
 
 ---

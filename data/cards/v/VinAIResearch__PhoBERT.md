@@ -45,13 +45,13 @@ VinAI Research 发布的首个公开大规模越南语单语预训练语言模�
 
 ```mermaid
 xychart-beta
-    title "VinAIResearch/PhoBERT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "VinAIResearch/PhoBERT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 808 --> 811
-    line [809, 810]
+    line [809, 810, 810]
 ```
 
-2026-10-18 809 → 2026-10-29 810（+1）
+2026-10-18 809 → 2026-10-30 810（+1）
 
 
 ---

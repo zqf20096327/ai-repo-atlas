@@ -45,12 +45,12 @@ NeurIPS 2025 Spotlight 论文的 PyTorch 实现仓库：端到端流水线覆盖
 ```mermaid
 xychart-beta
     title "khoruzhii/cayleypy-cube 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-18 72 → 2026-10-29 72（+0）
+2026-10-18 72 → 2026-10-30 72（+0）
 
 
 ---

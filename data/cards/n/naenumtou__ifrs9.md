@@ -1,6 +1,6 @@
 # naenumtou/ifrs9
 
-⭐ 133 · Jupyter Notebook · 推送 2025-11-08 · [GitHub](https://github.com/naenumtou/ifrs9) · 个人维护
+⭐ 134 · Jupyter Notebook · 推送 2025-11-08 · [GitHub](https://github.com/naenumtou/ifrs9) · 个人维护
 
 **IFRS 9 减值模型实现：PD/LGD/EAD 与 ECL 计算及分阶**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "naenumtou/ifrs9 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 131 --> 134
-    line [132, 133, 133]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 131 --> 135
+    line [132, 133, 134]
 ```
 
-2026-10-18 132 → 2026-10-29 133（+1）
+2026-10-18 132 → 2026-10-30 134（+2）
 
 
 ---

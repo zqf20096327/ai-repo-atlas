@@ -1,6 +1,6 @@
 # orq-ai/orq-arena
 
-⭐ 25 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/orq-ai/orq-arena) · [官网](https://orq-ai.github.io/orq-arena/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/orq-ai/orq-arena) · [官网](https://orq-ai.github.io/orq-arena/) · 组织维护
 
 **面向自有提示集的 LLM 头对头竞技场评测工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "orq-ai/orq-arena 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 22 --> 26
     line [23, 24, 25, 25]
 ```
 
-2026-10-18 23 → 2026-10-29 25（+2）
+2026-10-18 23 → 2026-10-30 25（+2）
 
 
 ---

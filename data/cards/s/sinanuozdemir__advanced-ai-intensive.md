@@ -1,6 +1,6 @@
 # sinanuozdemir/advanced-ai-intensive
 
-⭐ 41 · Jupyter Notebook · 推送 2026-07-29 · [GitHub](https://github.com/sinanuozdemir/advanced-ai-intensive) · [官网](https://www.oreilly.com/live-events/ai-engineering-intensive/0642572375317/0642572375300/) · 个人维护
+⭐ 42 · Jupyter Notebook · 推送 2026-07-29 · [GitHub](https://github.com/sinanuozdemir/advanced-ai-intensive) · [官网](https://www.oreilly.com/live-events/ai-engineering-intensive/0642572375317/0642572375300/) · 个人维护
 
 **O'Reilly 三周进阶 Agent/AI 工程课程配套代码仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sinanuozdemir/advanced-ai-intensive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-10-29 41（+1）
+2026-10-18 40 → 2026-10-30 42（+2）
 
 
 ---

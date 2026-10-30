@@ -1,6 +1,6 @@
 # nanassound/mnft
 
-⭐ 34 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nanassound/mnft) · 组织维护
+⭐ 35 · Elixir · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nanassound/mnft) · 组织维护
 
 **文本生成 CAD 的 Elixir 工厂线：提示词进，STL/STEP 出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nanassound/mnft 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 21 --> 35
-    line [22, 27, 28, 30, 31, 32, 34]
+    title "nanassound/mnft 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 36
+    line [22, 27, 28, 30, 31, 32, 34, 35]
 ```
 
-2026-10-18 22 → 2026-10-29 34（+12）
+2026-10-18 22 → 2026-10-30 35（+13）
 
 
 ---

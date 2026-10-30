@@ -46,12 +46,12 @@ Neovim 插件，封装 Claude Code CLI 的调用流程：自动收集当前文�
 ```mermaid
 xychart-beta
     title "WTFox/claude-chat.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

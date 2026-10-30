@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imohitmayank/a_lazy_data_science_guide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 140 --> 142
     line [141, 141]
 ```
 
-2026-10-18 141 → 2026-10-29 141（+0）
+2026-10-18 141 → 2026-10-30 141（+0）
 
 
 ---

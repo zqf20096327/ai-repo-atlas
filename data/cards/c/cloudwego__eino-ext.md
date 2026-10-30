@@ -1,6 +1,6 @@
 # cloudwego/eino-ext
 
-⭐ 828 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
+⭐ 828 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
 
 **Eino LLM 框架的官方扩展集合：组件实现、回调、DevOps 工具**
 
@@ -46,12 +46,12 @@ CloudWeGo（字节跳动）维护的 Eino 框架扩展仓库，收录 Eino 各�
 ```mermaid
 xychart-beta
     title "cloudwego/eino-ext 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 823 --> 829
     line [824, 825, 827, 826, 827, 828, 828]
 ```
 
-2026-10-18 824 → 2026-10-29 828（+4）
+2026-10-18 824 → 2026-10-30 828（+4）
 
 
 ---

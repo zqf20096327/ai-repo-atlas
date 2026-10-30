@@ -1,6 +1,6 @@
 # merlinquantum/merlin
 
-⭐ 37 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/merlinquantum/merlin) · [官网](https://merlinquantum.ai/) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/merlinquantum/merlin) · [官网](https://merlinquantum.ai/) · 组织维护
 
 **面向 AI 从业者的光子量子机器学习 PyTorch 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "merlinquantum/merlin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-29 37（+0）
+2026-10-18 37 → 2026-10-30 37（+0）
 
 
 ---

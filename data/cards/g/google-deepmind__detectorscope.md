@@ -1,6 +1,6 @@
 # google-deepmind/detectorscope
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/detectorscope) · [官网](https://aclanthology.org/2026.emnlp-main.762/) · 组织维护
+⭐ 250 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/google-deepmind/detectorscope) · [官网](https://aclanthology.org/2026.emnlp-main.762/) · 组织维护
 
 **可解释 AI 文本检测器：每条预测分解为可读特征**
 
@@ -46,13 +46,13 @@ Google DeepMind 与 Penn NLP 发布的 AI 文本检测库（EMNLP 2026 论文配
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/detectorscope 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2 --> 222
-    line [20, 29, 204]
+    title "google-deepmind/detectorscope 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 0 --> 273
+    line [20, 29, 204, 250]
 ```
 
-2026-10-26 20 → 2026-10-29 204（+184）
+2026-10-26 20 → 2026-10-30 250（+230）
 
 
 ---

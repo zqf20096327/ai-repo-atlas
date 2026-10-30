@@ -1,6 +1,6 @@
 # santifer/cv-santiago
 
-⭐ 858 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/santifer/cv-santiago) · [官网](https://santifer.io) · 个人维护
+⭐ 859 · HTML · 推送 2026-10-26 · [GitHub](https://github.com/santifer/cv-santiago) · [官网](https://santifer.io) · 个人维护
 
 **带文本+语音 AI 聊天机器人的交互式个人作品集网站**
 
@@ -44,13 +44,13 @@ Santiago 的生产级交互式作品集：双模式 AI 聊天机器人 "Santi"�
 
 ```mermaid
 xychart-beta
-    title "santifer/cv-santiago 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
+    title "santifer/cv-santiago 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 855 --> 860
-    line [859, 857, 856, 857, 858]
+    line [859, 857, 856, 857, 858, 859]
 ```
 
-2026-10-18 859 → 2026-10-29 858（-1）
+2026-10-18 859 → 2026-10-30 859（+0）
 
 
 ---

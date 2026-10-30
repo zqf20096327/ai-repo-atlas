@@ -1,6 +1,6 @@
 # yanfei0725/dsh-qwen-paint
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yanfei0725/dsh-qwen-paint) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/yanfei0725/dsh-qwen-paint) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地文生图/图生图插件（经 ComfyUI 调 Qwen-Image）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yanfei0725/dsh-qwen-paint 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 15 --> 24
-    line [16, 18, 21, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 15 --> 25
+    line [16, 18, 21, 23, 24]
 ```
 
-2026-10-18 16 → 2026-10-29 23（+7）
+2026-10-18 16 → 2026-10-30 24（+8）
 
 
 ---

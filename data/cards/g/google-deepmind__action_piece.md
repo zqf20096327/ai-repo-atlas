@@ -1,6 +1,6 @@
 # google-deepmind/action_piece
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/google-deepmind/action_piece) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-07-02 · [GitHub](https://github.com/google-deepmind/action_piece) · 组织维护
 
 **生成式推荐的动作序列上下文化分词方法官方实现**
 
@@ -46,12 +46,12 @@ Google DeepMind 发布的 ICML 2025 Spotlight 论文 ActionPiece 的官方代码
 ```mermaid
 xychart-beta
     title "google-deepmind/action_piece 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 69 --> 72
+    line [71, 70]
 ```
 
-2026-10-18 71 → 2026-10-29 71（+0）
+2026-10-18 71 → 2026-10-30 70（-1）
 
 
 ---

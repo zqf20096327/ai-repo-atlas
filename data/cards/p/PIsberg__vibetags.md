@@ -1,6 +1,6 @@
 # PIsberg/vibetags
 
-⭐ 25 · Java · MIT · 推送 2026-10-27 · [GitHub](https://github.com/PIsberg/vibetags) · 个人维护
+⭐ 25 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PIsberg/vibetags) · 个人维护
 
 **Java 注解处理器：编译期生成 29 个 AI 编码工具的护栏配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PIsberg/vibetags 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # protocorn/clippy-vision
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/protocorn/clippy-vision) · [官网](https://github.com/protocorn/clippy-vision/releases/latest) · 个人维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/protocorn/clippy-vision) · [官网](https://github.com/protocorn/clippy-vision/releases/latest) · 个人维护
 
 **本地屏幕活动记录与检索助手，供 MCP 客户端查询**
 
@@ -46,12 +46,12 @@ Windows 优先的桌面应用（macOS/Linux 支持不完整或实验性）：持
 ```mermaid
 xychart-beta
     title "protocorn/clippy-vision 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-29 20（+1）
+2026-10-18 19 → 2026-10-30 20（+1）
 
 
 ---

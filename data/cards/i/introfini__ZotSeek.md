@@ -1,6 +1,6 @@
 # introfini/ZotSeek
 
-⭐ 236 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/introfini/ZotSeek) · 个人维护 · 中文 README
+⭐ 237 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/introfini/ZotSeek) · 个人维护 · 中文 README
 
 **Zotero 的本地语义检索插件，内置 MCP 服务器供 AI agent 查文献**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "introfini/ZotSeek 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 226 --> 237
-    line [227, 229, 230, 232, 235, 236, 236]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 226 --> 238
+    line [227, 229, 230, 232, 235, 236, 237]
 ```
 
-2026-10-18 227 → 2026-10-29 236（+9）
+2026-10-18 227 → 2026-10-30 237（+10）
 
 
 ---

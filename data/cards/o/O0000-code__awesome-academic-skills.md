@@ -1,6 +1,6 @@
 # O0000-code/awesome-academic-skills
 
-⭐ 52 · Python · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/O0000-code/awesome-academic-skills) · 个人维护 · 中文 README
+⭐ 52 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/O0000-code/awesome-academic-skills) · 个人维护 · 中文 README
 
 **学术研究全流程的 Claude/agent 技能双语索引清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "O0000-code/awesome-academic-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 48 --> 53
     line [49, 50, 51, 52, 52]
 ```
 
-2026-10-18 49 → 2026-10-29 52（+3）
+2026-10-18 49 → 2026-10-30 52（+3）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
     y-axis "stars" 563 --> 567
     line [565, 564, 566, 566]
 ```
 
-2026-10-18 565 → 2026-10-29 566（+1）
+2026-10-18 565 → 2026-10-30 566（+1）
 
 
 ---

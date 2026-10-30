@@ -46,12 +46,12 @@ NeurIPS 2025 论文《Iterative Self-Incentivization Empowers Large Language Mod
 ```mermaid
 xychart-beta
     title "mangopy/SearchLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 215 --> 217
     line [216, 216]
 ```
 
-2026-10-18 216 → 2026-10-29 216（+0）
+2026-10-18 216 → 2026-10-30 216（+0）
 
 
 ---

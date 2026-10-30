@@ -1,6 +1,6 @@
 # nubenetes/awesome-kubernetes
 
-⭐ 676 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nubenetes/awesome-kubernetes) · [官网](https://nubenetes.com) · 个人维护
+⭐ 675 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nubenetes/awesome-kubernetes) · [官网](https://nubenetes.com) · 个人维护
 
 **Kubernetes/云原生/Agentic AI 技术资源策展档案（18,600+ 链接）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nubenetes/awesome-kubernetes 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
+    title "nubenetes/awesome-kubernetes 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 672 --> 677
-    line [673, 674, 675, 674, 675, 676]
+    line [673, 674, 675, 674, 675, 676, 675]
 ```
 
-2026-10-18 673 → 2026-10-29 676（+3）
+2026-10-18 673 → 2026-10-30 675（+2）
 
 
 ---

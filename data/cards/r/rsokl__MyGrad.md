@@ -1,6 +1,6 @@
 # rsokl/MyGrad
 
-⭐ 216 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/rsokl/MyGrad) · [官网](https://rsokl.github.io/MyGrad/) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rsokl/MyGrad) · [官网](https://rsokl.github.io/MyGrad/) · 个人维护
 
 **为 NumPy 补充反向自动微分的轻量张量库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rsokl/MyGrad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 215 --> 217
     line [216, 216]
 ```
 
-2026-10-18 216 → 2026-10-29 216（+0）
+2026-10-18 216 → 2026-10-30 216（+0）
 
 
 ---

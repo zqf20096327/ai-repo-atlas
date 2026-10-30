@@ -1,6 +1,6 @@
 # pbek/QOwnNotes
 
-⭐ 5,932 · C++ · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pbek/QOwnNotes) · [官网](https://www.qownnotes.org/) · 个人维护
+⭐ 5,933 · C++ · GPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pbek/QOwnNotes) · [官网](https://www.qownnotes.org/) · 个人维护
 
 **面向 Nextcloud/ownCloud 的开源纯文本 Markdown 笔记与待办桌面应用**
 
@@ -45,13 +45,13 @@ C++/Qt 编写的跨平台（GNU/Linux、macOS、Windows）笔记应用，笔记�
 
 ```mermaid
 xychart-beta
-    title "pbek/QOwnNotes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 5906 --> 5934
-    line [5908, 5915, 5921, 5923, 5927, 5930, 5932]
+    title "pbek/QOwnNotes 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 5906 --> 5935
+    line [5908, 5915, 5921, 5923, 5927, 5930, 5932, 5933]
 ```
 
-2026-10-18 5,908 → 2026-10-29 5,932（+24）
+2026-10-18 5,908 → 2026-10-30 5,933（+25）
 
 
 ---

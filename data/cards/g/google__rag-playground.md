@@ -46,12 +46,12 @@ GoogleCloudPlatform 维护的 RAG 实验/评测框架：通过统一界面配置
 ```mermaid
 xychart-beta
     title "google/rag-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-29 52（+0）
+2026-10-18 52 → 2026-10-30 52（+0）
 
 
 ---

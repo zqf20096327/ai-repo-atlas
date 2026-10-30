@@ -45,12 +45,12 @@ ICLR 2024 论文 STREAM 的官方实现，Python/PyTorch 库，以 pip 包 v-str
 ```mermaid
 xychart-beta
     title "pro2nit/STREAM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-29 28（+0）
+2026-10-18 28 → 2026-10-30 28（+0）
 
 
 ---

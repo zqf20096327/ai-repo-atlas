@@ -1,6 +1,6 @@
 # openai/openai-cua-sample-app
 
-⭐ 1,913 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-cua-sample-app) · 组织维护
+⭐ 1,914 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/openai/openai-cua-sample-app) · 组织维护
 
 **OpenAI 计算机使用代理（CUA）示例应用集，含浏览器与桌面两种**
 
@@ -45,13 +45,13 @@ OpenAI 官方仓库，演示如何通过 Responses API 构建计算机使用代�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-cua-sample-app 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1900 --> 1914
-    line [1901, 1906, 1907, 1909, 1910, 1911, 1912, 1913]
+    title "openai/openai-cua-sample-app 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1900 --> 1915
+    line [1901, 1906, 1907, 1909, 1910, 1911, 1912, 1913, 1914]
 ```
 
-2026-10-18 1,901 → 2026-10-29 1,913（+12）
+2026-10-18 1,901 → 2026-10-30 1,914（+13）
 
 
 ---

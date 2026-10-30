@@ -1,6 +1,6 @@
 # PaddlePaddle/FastDeploy
 
-⭐ 3,724 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/PaddlePaddle/FastDeploy) · [官网](https://paddlepaddle.github.io/FastDeploy/) · 组织维护 · 中文 README
+⭐ 3,723 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/PaddlePaddle/FastDeploy) · [官网](https://paddlepaddle.github.io/FastDeploy/) · 组织维护 · 中文 README
 
 **基于飞桨的 LLM/VLM 高性能推理与部署工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/FastDeploy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 3720 --> 3725
-    line [3721, 3722, 3723, 3724, 3724]
+    line [3721, 3722, 3723, 3724, 3723]
 ```
 
-2026-10-18 3,721 → 2026-10-29 3,724（+3）
+2026-10-18 3,721 → 2026-10-30 3,723（+2）
 
 
 ---

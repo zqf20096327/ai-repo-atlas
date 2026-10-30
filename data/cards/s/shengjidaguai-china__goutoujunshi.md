@@ -1,6 +1,6 @@
 # shengjidaguai-china/goutoujunshi
 
-⭐ 8,810 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/shengjidaguai-china/goutoujunshi) · 组织维护 · 中文 README
+⭐ 8,857 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/shengjidaguai-china/goutoujunshi) · 组织维护 · 中文 README
 
 **面向个人用户的 AI 恋爱军师 Codex Skill：情绪支持加关系分析与行动策略**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shengjidaguai-china/goutoujunshi 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8002 --> 8883
-    line [8075, 8217, 8363, 8426, 8465, 8501, 8584, 8662, 8758, 8810]
+    title "shengjidaguai-china/goutoujunshi 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 7997 --> 8935
+    line [8075, 8217, 8363, 8426, 8465, 8501, 8584, 8662, 8758, 8810, 8857]
 ```
 
-2026-10-18 8,075 → 2026-10-29 8,810（+735）
+2026-10-18 8,075 → 2026-10-30 8,857（+782）
 
 
 ---

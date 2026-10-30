@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29"]
+    title "ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 212 --> 218
-    line [213, 214, 216, 217]
+    line [213, 214, 216, 217, 217]
 ```
 
-2026-10-18 213 → 2026-10-29 217（+4）
+2026-10-18 213 → 2026-10-30 217（+4）
 
 
 ---

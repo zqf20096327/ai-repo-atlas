@@ -1,6 +1,6 @@
 # codeplea/genann
 
-⭐ 2,303 · C · Zlib · 推送 2026-08-08 · [GitHub](https://github.com/codeplea/genann) · [官网](https://codeplea.com/genann) · 个人维护
+⭐ 2,304 · C · Zlib · 推送 2026-08-08 · [GitHub](https://github.com/codeplea/genann) · [官网](https://codeplea.com/genann) · 个人维护
 
 **面向 C 开发者的单文件前馈神经网络库**
 
@@ -44,13 +44,13 @@ Genann 是用 C99 编写的极简前馈人工神经网络库，全部代码仅�
 
 ```mermaid
 xychart-beta
-    title "codeplea/genann 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 2294 --> 2304
-    line [2295, 2297, 2296, 2297, 2302, 2303]
+    title "codeplea/genann 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2294 --> 2305
+    line [2295, 2297, 2296, 2297, 2302, 2303, 2304]
 ```
 
-2026-10-18 2,295 → 2026-10-29 2,303（+8）
+2026-10-18 2,295 → 2026-10-30 2,304（+9）
 
 
 ---

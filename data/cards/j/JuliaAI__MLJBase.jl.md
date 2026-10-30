@@ -1,6 +1,6 @@
 # JuliaAI/MLJBase.jl
 
-⭐ 163 · Julia · MIT · 推送 2026-10-21 · [GitHub](https://github.com/JuliaAI/MLJBase.jl) · 组织维护
+⭐ 163 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JuliaAI/MLJBase.jl) · 组织维护
 
 **MLJ 机器学习框架的核心功能库，供开发者使用**
 
@@ -46,12 +46,12 @@ Julia 语言 MLJ 机器学习框架的核心功能仓库，面向开发者而非
 ```mermaid
 xychart-beta
     title "JuliaAI/MLJBase.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 162 --> 164
     line [163, 163]
 ```
 
-2026-10-18 163 → 2026-10-29 163（+0）
+2026-10-18 163 → 2026-10-30 163（+0）
 
 
 ---

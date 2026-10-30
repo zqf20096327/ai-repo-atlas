@@ -46,12 +46,12 @@ Agents League @ TechConnect 是微软面向内部员工举办的 2 小时线下 
 ```mermaid
 xychart-beta
     title "microsoft/agentsleague-techconnect 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

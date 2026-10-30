@@ -1,6 +1,6 @@
 # isuzu-shiranui/UnityMCP
 
-⭐ 336 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/isuzu-shiranui/UnityMCP) · [官网](https://unity-mcp.shiranui-isuzu.dev/en/) · 个人维护
+⭐ 338 · C# · MIT · 推送 2026-10-08 · [GitHub](https://github.com/isuzu-shiranui/UnityMCP) · [官网](https://unity-mcp.shiranui-isuzu.dev/en/) · 个人维护
 
 **让 AI agent 与命令行直接操控 Unity Editor 的 MCP 框架**
 
@@ -45,12 +45,12 @@ Unity Editor 插件与配套 CLI：Editor 自身在 127.0.0.1 上以 Streamable 
 ```mermaid
 xychart-beta
     title "isuzu-shiranui/UnityMCP 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 331 --> 337
-    line [332, 335, 336, 335, 336, 336]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 331 --> 339
+    line [332, 335, 336, 335, 336, 338]
 ```
 
-2026-10-18 332 → 2026-10-29 336（+4）
+2026-10-18 332 → 2026-10-30 338（+6）
 
 
 ---

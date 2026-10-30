@@ -1,6 +1,6 @@
 # epam/ai-dial-adapter-openai
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/epam/ai-dial-adapter-openai) · [官网](https://dialx.ai) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/epam/ai-dial-adapter-openai) · [官网](https://dialx.ai) · 组织维护
 
 **将 Azure OpenAI 等上游模型接入 AI DIAL 统一协议的适配器**
 
@@ -45,12 +45,12 @@ AI DIAL 生态的 LLM 适配器之一：把 Azure OpenAI、OpenAI Platform、Ama
 ```mermaid
 xychart-beta
     title "epam/ai-dial-adapter-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

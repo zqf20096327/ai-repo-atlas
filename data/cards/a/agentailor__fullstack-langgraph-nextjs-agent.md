@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentailor/fullstack-langgraph-nextjs-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 133 --> 135
     line [134, 134]
 ```
 
-2026-10-18 134 → 2026-10-29 134（+0）
+2026-10-18 134 → 2026-10-30 134（+0）
 
 
 ---

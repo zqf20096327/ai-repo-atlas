@@ -45,12 +45,12 @@ Apple 研究团队随论文《Matryoshka Diffusion Models》发布的 Python 训
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-mdm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
     y-axis "stars" 514 --> 517
     line [515, 516, 516]
 ```
 
-2026-10-18 515 → 2026-10-29 516（+1）
+2026-10-18 515 → 2026-10-30 516（+1）
 
 
 ---

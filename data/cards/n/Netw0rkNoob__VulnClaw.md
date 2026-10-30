@@ -1,6 +1,6 @@
 # Netw0rkNoob/VulnClaw
 
-⭐ 3,821 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Netw0rkNoob/VulnClaw) · [官网](https://unclecheng-li.github.io/vulnclaw.com) · 个人维护 · 中文 README
+⭐ 3,826 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Netw0rkNoob/VulnClaw) · [官网](https://unclecheng-li.github.io/vulnclaw.com) · 个人维护 · 中文 README
 
 **自然语言驱动的 AI 渗透测试 CLI，自动完成全流程测试**
 
@@ -47,13 +47,13 @@ AI 渗透测试 Agent，以自然语言输入目标后由模型主导自主循�
 
 ```mermaid
 xychart-beta
-    title "Netw0rkNoob/VulnClaw 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 3725 --> 3829
-    line [3733, 3754, 3765, 3773, 3783, 3793, 3800, 3808, 3815, 3821]
+    title "Netw0rkNoob/VulnClaw 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3724 --> 3835
+    line [3733, 3754, 3765, 3773, 3783, 3793, 3800, 3808, 3815, 3821, 3826]
 ```
 
-2026-10-18 3,733 → 2026-10-29 3,821（+88）
+2026-10-18 3,733 → 2026-10-30 3,826（+93）
 
 
 ---

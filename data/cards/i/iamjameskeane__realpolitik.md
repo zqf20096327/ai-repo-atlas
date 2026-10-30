@@ -1,6 +1,6 @@
 # iamjameskeane/realpolitik
 
-⭐ 41 · TypeScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/iamjameskeane/realpolitik) · [官网](https://realpolitik.world) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/iamjameskeane/realpolitik) · [官网](https://realpolitik.world) · 个人维护
 
 **实时地缘政治事件监测仪表盘，AI 增强分析配 3D 地球**
 
@@ -45,12 +45,12 @@ Next.js + Mapbox 构建的实时地缘政治事件监测仪表盘：聚合 NewsA
 ```mermaid
 xychart-beta
     title "iamjameskeane/realpolitik 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42]
 ```
 
-2026-10-18 40 → 2026-10-29 41（+1）
+2026-10-18 40 → 2026-10-30 42（+2）
 
 
 ---

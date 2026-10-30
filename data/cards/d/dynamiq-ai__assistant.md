@@ -45,12 +45,12 @@ dynamiq-assistant 是面向 React 与原生 JavaScript 的聊天挂件库，用�
 ```mermaid
 xychart-beta
     title "dynamiq-ai/assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

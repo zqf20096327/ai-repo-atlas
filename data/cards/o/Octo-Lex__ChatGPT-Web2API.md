@@ -1,6 +1,6 @@
 # Octo-Lex/ChatGPT-Web2API
 
-⭐ 87 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Octo-Lex/ChatGPT-Web2API) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Octo-Lex/ChatGPT-Web2API) · 个人维护
 
 **把 ChatGPT 网页版封装成 OpenAI 兼容 API 与 MCP 服务的代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Octo-Lex/ChatGPT-Web2API 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 78 --> 88
-    line [79, 82, 83, 84, 85, 87, 87]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 78 --> 89
+    line [79, 82, 83, 84, 85, 87, 88]
 ```
 
-2026-10-18 79 → 2026-10-29 87（+8）
+2026-10-18 79 → 2026-10-30 88（+9）
 
 
 ---

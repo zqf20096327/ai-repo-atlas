@@ -1,6 +1,6 @@
 # yokingma/SearChat
 
-⭐ 1,065 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/yokingma/SearChat) · [官网](https://isou.chat) · 个人维护 · 中文 README
+⭐ 1,064 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/yokingma/SearChat) · [官网](https://isou.chat) · 个人维护 · 中文 README
 
 **AI 对话式搜索引擎：多模型接入，带 DeepResearch 报告生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yokingma/SearChat 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1062 --> 1068
-    line [1063, 1064, 1066, 1067, 1066, 1065, 1065]
+    line [1063, 1064, 1066, 1067, 1066, 1065, 1064]
 ```
 
-2026-10-18 1,063 → 2026-10-29 1,065（+2）
+2026-10-18 1,063 → 2026-10-30 1,064（+1）
 
 
 ---

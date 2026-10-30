@@ -1,6 +1,6 @@
 # ZhenHaoFu810/StataFlow
 
-⭐ 167 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ZhenHaoFu810/StataFlow) · [官网](https://pypi.org/project/StataFlow/) · 个人维护 · 中文 README
+⭐ 169 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ZhenHaoFu810/StataFlow) · [官网](https://pypi.org/project/StataFlow/) · 个人维护 · 中文 README
 
 **面向研究者的 Stata 对齐计量经济学 Python 库**
 
@@ -45,12 +45,12 @@ Python 计量经济学库，提供 14 个 Stata 风格估计命令（regress、r
 ```mermaid
 xychart-beta
     title "ZhenHaoFu810/StataFlow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 165 --> 170
-    line [166, 167, 168, 169, 167, 167]
+    line [166, 167, 168, 169, 167, 169]
 ```
 
-2026-10-18 166 → 2026-10-29 167（+1）
+2026-10-18 166 → 2026-10-30 169（+3）
 
 
 ---

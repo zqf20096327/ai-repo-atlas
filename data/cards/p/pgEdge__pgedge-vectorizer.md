@@ -1,6 +1,6 @@
 # pgEdge/pgedge-vectorizer
 
-⭐ 41 · PLpgSQL · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/pgEdge/pgedge-vectorizer) · [官网](https://docs.pgedge.com/pgedge-vectorizer/) · 组织维护
+⭐ 41 · PLpgSQL · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/pgEdge/pgedge-vectorizer) · [官网](https://docs.pgedge.com/pgedge-vectorizer/) · 组织维护
 
 **给开发者的 PostgreSQL 扩展：自动分块并生成向量嵌入**
 
@@ -45,12 +45,12 @@ PostgreSQL 扩展，通过触发器与后台 worker 对已有表的文本列做�
 ```mermaid
 xychart-beta
     title "pgEdge/pgedge-vectorizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-29 41（+0）
+2026-10-18 41 → 2026-10-30 41（+0）
 
 
 ---

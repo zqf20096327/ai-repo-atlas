@@ -1,6 +1,6 @@
 # google-deepmind/clrs
 
-⭐ 550 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/clrs) · 组织维护
+⭐ 551 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/google-deepmind/clrs) · 组织维护
 
 **面向算法推理的基准套件：30 个经典算法数据与评测**
 
@@ -46,12 +46,12 @@ DeepMind 维护的 CLRS 算法推理基准：将《算法导论》第三版中�
 ```mermaid
 xychart-beta
     title "google-deepmind/clrs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29"]
-    y-axis "stars" 546 --> 551
-    line [547, 548, 549, 550, 550]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    y-axis "stars" 546 --> 552
+    line [547, 548, 549, 550, 551]
 ```
 
-2026-10-18 547 → 2026-10-29 550（+3）
+2026-10-18 547 → 2026-10-30 551（+4）
 
 
 ---

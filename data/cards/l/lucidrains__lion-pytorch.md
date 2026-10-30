@@ -1,6 +1,6 @@
 # lucidrains/lion-pytorch
 
-⭐ 2,205 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/lucidrains/lion-pytorch) · 个人维护
+⭐ 2,206 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/lucidrains/lion-pytorch) · 个人维护
 
 **PyTorch 版 Lion 优化器：Google Brain 用遗传算法发现的 Adam 替代**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/lion-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2203 --> 2206
-    line [2205, 2204, 2205]
+    title "lucidrains/lion-pytorch 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2203 --> 2207
+    line [2205, 2204, 2205, 2206]
 ```
 
-2026-10-18 2,205 → 2026-10-29 2,205（+0）
+2026-10-18 2,205 → 2026-10-30 2,206（+1）
 
 
 ---

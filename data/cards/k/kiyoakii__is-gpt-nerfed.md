@@ -1,6 +1,6 @@
 # kiyoakii/is-gpt-nerfed
 
-⭐ 257 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/kiyoakii/is-gpt-nerfed) · 个人维护 · 中文 README
+⭐ 258 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/kiyoakii/is-gpt-nerfed) · 个人维护 · 中文 README
 
 **检测 Codex 实际应答模型是否被偷换的 macOS 工具**
 
@@ -45,12 +45,12 @@ macOS 菜单栏应用加 Codex 插件：读取 Codex 每轮会话记录（请求
 ```mermaid
 xychart-beta
     title "kiyoakii/is-gpt-nerfed 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 250 --> 258
-    line [251, 253, 256, 255, 256, 257, 257]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 250 --> 259
+    line [251, 253, 256, 255, 256, 257, 258]
 ```
 
-2026-10-18 251 → 2026-10-29 257（+6）
+2026-10-18 251 → 2026-10-30 258（+7）
 
 
 ---

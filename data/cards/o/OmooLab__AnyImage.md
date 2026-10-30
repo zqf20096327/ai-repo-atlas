@@ -1,6 +1,6 @@
 # OmooLab/AnyImage
 
-⭐ 266 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OmooLab/AnyImage) · [官网](https://docs.omoolab.xyz/anyimage/latest/) · 组织维护 · 中文 README
+⭐ 270 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OmooLab/AnyImage) · [官网](https://docs.omoolab.xyz/anyimage/latest/) · 组织维护 · 中文 README
 
 **Blender 图像工具包：将粘贴的图像转为场景元素**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OmooLab/AnyImage 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 178 --> 274
-    line [186, 192, 221, 235, 243, 249, 251, 257, 259, 266]
+    title "OmooLab/AnyImage 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 178 --> 278
+    line [186, 192, 221, 235, 243, 249, 251, 257, 259, 266, 270]
 ```
 
-2026-10-18 186 → 2026-10-29 266（+80）
+2026-10-18 186 → 2026-10-30 270（+84）
 
 
 ---

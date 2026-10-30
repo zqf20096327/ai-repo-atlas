@@ -1,6 +1,6 @@
 # ikhsan3adi/gemini-web2api
 
-⭐ 54 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ikhsan3adi/gemini-web2api) · 个人维护 · 中文 README
+⭐ 55 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ikhsan3adi/gemini-web2api) · 个人维护 · 中文 README
 
 **将 Gemini 网页版转为 OpenAI 兼容 API 的 Go 代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ikhsan3adi/gemini-web2api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 42 --> 55
-    line [43, 50, 52, 53, 54]
+    title "ikhsan3adi/gemini-web2api 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 42 --> 56
+    line [43, 50, 52, 53, 54, 55]
 ```
 
-2026-10-18 43 → 2026-10-29 54（+11）
+2026-10-18 43 → 2026-10-30 55（+12）
 
 
 ---

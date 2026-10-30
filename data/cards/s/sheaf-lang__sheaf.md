@@ -1,6 +1,6 @@
 # sheaf-lang/sheaf
 
-⭐ 56 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sheaf-lang/sheaf) · [官网](https://www.sheaf-lang.org) · 组织维护
+⭐ 56 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sheaf-lang/sheaf) · [官网](https://www.sheaf-lang.org) · 组织维护
 
 **面向机器学习的函数式 Lisp 方言，编译到 GPU 运行**
 
@@ -46,12 +46,12 @@ Sheaf 是一门用于机器学习的函数式语言：语法受 Clojure 启发�
 ```mermaid
 xychart-beta
     title "sheaf-lang/sheaf 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-29 56（+0）
+2026-10-18 56 → 2026-10-30 56（+0）
 
 
 ---

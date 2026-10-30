@@ -46,12 +46,12 @@ DevProof 是一个 Web 平台（Next.js 前端 + FastAPI 后端）：粘贴 GitH
 ```mermaid
 xychart-beta
     title "dhruv0206/DevProof 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

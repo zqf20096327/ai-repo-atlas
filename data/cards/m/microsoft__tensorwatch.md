@@ -1,6 +1,6 @@
 # microsoft/tensorwatch
 
-⭐ 3,478 · Jupyter Notebook · MIT · 推送 2026-03-30 · [GitHub](https://github.com/microsoft/tensorwatch) · 组织维护
+⭐ 3,479 · Jupyter Notebook · MIT · 推送 2026-03-30 · [GitHub](https://github.com/microsoft/tensorwatch) · 组织维护
 
 **微软研究院出品的 ML 训练实时调试与可视化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/tensorwatch 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 3476 --> 3480
-    line [3479, 3478, 3477, 3478, 3478]
+    line [3479, 3478, 3477, 3478, 3479]
 ```
 
-2026-10-18 3,479 → 2026-10-29 3,478（-1）
+2026-10-18 3,479 → 2026-10-30 3,479（+0）
 
 
 ---

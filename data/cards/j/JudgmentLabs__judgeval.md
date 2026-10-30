@@ -1,6 +1,6 @@
 # JudgmentLabs/judgeval
 
-⭐ 1,071 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/JudgmentLabs/judgeval) · [官网](https://judgmentlabs.ai/) · 组织维护
+⭐ 1,071 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/JudgmentLabs/judgeval) · [官网](https://judgmentlabs.ai/) · 组织维护
 
 **面向 LLM agent 的持续改进 SDK：tracing 与 agent-judge 评测监控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JudgmentLabs/judgeval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
     y-axis "stars" 1067 --> 1072
     line [1068, 1069, 1070, 1071, 1071]
 ```
 
-2026-10-18 1,068 → 2026-10-29 1,071（+3）
+2026-10-18 1,068 → 2026-10-30 1,071（+3）
 
 
 ---

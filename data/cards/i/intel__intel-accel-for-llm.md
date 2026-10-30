@@ -45,12 +45,12 @@ Intel 维护的 LLM 推理加速库：通过 QAT/IAA 硬件压缩 KV cache（DEF
 ```mermaid
 xychart-beta
     title "intel/intel-accel-for-llm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

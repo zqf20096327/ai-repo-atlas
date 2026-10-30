@@ -1,6 +1,6 @@
 # TingdeLiu/tingdeliu.github.io
 
-⭐ 132 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TingdeLiu/tingdeliu.github.io) · [官网](https://tingdeliu.github.io/) · 个人维护 · 中文 README
+⭐ 136 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/TingdeLiu/tingdeliu.github.io) · [官网](https://tingdeliu.github.io/) · 个人维护 · 中文 README
 
 **具身智能/VLN 研究笔记个人站点（中英双语）**
 
@@ -44,12 +44,12 @@ Tingde Liu 的个人研究笔记站点：内容覆盖具身智能、视觉语言
 ```mermaid
 xychart-beta
     title "TingdeLiu/tingdeliu.github.io 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 120 --> 133
-    line [121, 126, 128, 129, 130, 131, 132, 132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 120 --> 137
+    line [121, 126, 128, 129, 130, 131, 132, 136]
 ```
 
-2026-10-18 121 → 2026-10-29 132（+11）
+2026-10-18 121 → 2026-10-30 136（+15）
 
 
 ---

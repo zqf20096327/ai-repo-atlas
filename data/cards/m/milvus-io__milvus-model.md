@@ -44,12 +44,12 @@ milvus-model 是 Milvus 向量数据库生态的模型集成库，接入 OpenAI�
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-29 62（+0）
+2026-10-18 62 → 2026-10-30 62（+0）
 
 
 ---

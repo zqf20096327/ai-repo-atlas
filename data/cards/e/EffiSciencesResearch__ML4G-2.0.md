@@ -1,6 +1,6 @@
 # EffiSciencesResearch/ML4G-2.0
 
-⭐ 21 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/EffiSciencesResearch/ML4G-2.0) · [官网](https://www.ml4good.org/) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/EffiSciencesResearch/ML4G-2.0) · [官网](https://www.ml4good.org/) · 组织维护
 
 **面向 AI 安全入门者的 10 天训练营课程与练习集**
 
@@ -44,12 +44,12 @@ ML4Good 训练营的教学仓库，收录面向机器学习初学者（也含进
 ```mermaid
 xychart-beta
     title "EffiSciencesResearch/ML4G-2.0 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-29 21（+0）
+2026-10-18 21 → 2026-10-30 21（+0）
 
 
 ---

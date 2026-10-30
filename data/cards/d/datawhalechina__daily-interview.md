@@ -1,6 +1,6 @@
 # datawhalechina/daily-interview
 
-⭐ 3,882 · GPL-3.0 · 推送 2026-07-08 · [GitHub](https://github.com/datawhalechina/daily-interview) · [官网](https://datawhalechina.github.io/daily-interview/) · 组织维护 · 中文 README
+⭐ 3,885 · GPL-3.0 · 推送 2026-07-08 · [GitHub](https://github.com/datawhalechina/daily-interview) · [官网](https://datawhalechina.github.io/daily-interview/) · 组织维护 · 中文 README
 
 **Datawhale 维护的技术面试高频知识点面经合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/daily-interview 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 3867 --> 3883
-    line [3868, 3871, 3875, 3877, 3878, 3881, 3882]
+    title "datawhalechina/daily-interview 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 3867 --> 3886
+    line [3868, 3871, 3875, 3877, 3878, 3881, 3882, 3885]
 ```
 
-2026-10-18 3,868 → 2026-10-29 3,882（+14）
+2026-10-18 3,868 → 2026-10-30 3,885（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # Liquid4All/docs
 
-⭐ 31 · MDX · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Liquid4All/docs) · [官网](https://docs.liquid.ai) · 组织维护
+⭐ 32 · MDX · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Liquid4All/docs) · [官网](https://docs.liquid.ai) · 组织维护
 
 **Liquid AI 官方文档仓库：LFM 模型开发指南与 MCP 接入**
 
@@ -45,12 +45,12 @@ Liquid AI 的官方文档仓库，收录围绕开放权重 LFM 模型在笔记�
 ```mermaid
 xychart-beta
     title "Liquid4All/docs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-29 31（+0）
+2026-10-18 31 → 2026-10-30 32（+1）
 
 
 ---

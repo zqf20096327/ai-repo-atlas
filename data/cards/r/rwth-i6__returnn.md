@@ -1,6 +1,6 @@
 # rwth-i6/returnn
 
-⭐ 377 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/rwth-i6/returnn) · [官网](http://returnn.readthedocs.io/) · 组织维护
+⭐ 377 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/rwth-i6/returnn) · [官网](http://returnn.readthedocs.io/) · 组织维护
 
 **RWTH 大学的循环神经网络训练框架，面向 ASR/MT 研究**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rwth-i6/returnn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 376 --> 378
     line [377, 377]
 ```
 
-2026-10-18 377 → 2026-10-29 377（+0）
+2026-10-18 377 → 2026-10-30 377（+0）
 
 
 ---

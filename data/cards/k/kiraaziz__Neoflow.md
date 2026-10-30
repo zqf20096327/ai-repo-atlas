@@ -1,6 +1,6 @@
 # kiraaziz/Neoflow
 
-⭐ 381 · JavaScript · 推送 2026-03-19 · [GitHub](https://github.com/kiraaziz/Neoflow) · [官网](https://neoflow.rjaziz.com/) · 个人维护
+⭐ 382 · JavaScript · 推送 2026-03-19 · [GitHub](https://github.com/kiraaziz/Neoflow) · [官网](https://neoflow.rjaziz.com/) · 个人维护
 
 **开源白板应用：实时协作与 AI 辅助创作，基于 tldraw**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kiraaziz/Neoflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29"]
-    y-axis "stars" 376 --> 382
-    line [377, 378, 379, 381]
+    title "kiraaziz/Neoflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 376 --> 383
+    line [377, 378, 379, 381, 382]
 ```
 
-2026-10-18 377 → 2026-10-29 381（+4）
+2026-10-18 377 → 2026-10-30 382（+5）
 
 
 ---

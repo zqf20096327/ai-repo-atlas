@@ -46,12 +46,12 @@ Confluent 维护的 AI 技能集合，供 Claude、Cursor 等编程助手加载�
 ```mermaid
 xychart-beta
     title "confluentinc/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-29 59（+0）
+2026-10-18 59 → 2026-10-30 59（+0）
 
 
 ---

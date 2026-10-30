@@ -1,6 +1,6 @@
 # ronitgupta138/BurnRate
 
-⭐ 32 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/ronitgupta138/BurnRate) · 个人维护
+⭐ 32 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ronitgupta138/BurnRate) · 个人维护
 
 **面向 AI 编码代理的终端 HUD 反向代理：硬性预算与缓存泄漏告警**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ronitgupta138/BurnRate 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
     y-axis "stars" 4 --> 35
     line [6, 7, 33, 32, 32]
 ```
 
-2026-10-19 6 → 2026-10-29 32（+26）
+2026-10-19 6 → 2026-10-30 32（+26）
 
 
 ---

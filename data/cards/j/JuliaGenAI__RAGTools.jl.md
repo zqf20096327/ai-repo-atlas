@@ -1,6 +1,6 @@
 # JuliaGenAI/RAGTools.jl
 
-⭐ 34 · Julia · MIT · 推送 2025-11-27 · [GitHub](https://github.com/JuliaGenAI/RAGTools.jl) · [官网](http://juliagenai.github.io/RAGTools.jl/) · 组织维护
+⭐ 34 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JuliaGenAI/RAGTools.jl) · [官网](http://juliagenai.github.io/RAGTools.jl/) · 组织维护
 
 **面向 Julia 开发者的内存 RAG 管线构建工具包**
 
@@ -46,12 +46,12 @@ Julia 语言的 RAG 应用构建包，从 PromptingTools.jl 独立拆分而来�
 ```mermaid
 xychart-beta
     title "JuliaGenAI/RAGTools.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-29 34（+0）
+2026-10-18 34 → 2026-10-30 34（+0）
 
 
 ---

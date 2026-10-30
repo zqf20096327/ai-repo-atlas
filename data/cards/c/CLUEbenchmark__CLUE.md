@@ -45,12 +45,12 @@ CLUE（Chinese Language Understanding Evaluation benchmark）提供中文 NLU �
 ```mermaid
 xychart-beta
     title "CLUEbenchmark/CLUE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
     y-axis "stars" 4286 --> 4289
     line [4287, 4288, 4288]
 ```
 
-2026-10-18 4,287 → 2026-10-29 4,288（+1）
+2026-10-18 4,287 → 2026-10-30 4,288（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vakovalskii/searcharvester
 
-⭐ 282 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/vakovalskii/searcharvester) · [官网](https://github.com/vakovalskii/searcharvester) · 个人维护 · 中文 README
+⭐ 283 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/vakovalskii/searcharvester) · [官网](https://github.com/vakovalskii/searcharvester) · 个人维护 · 中文 README
 
 **面向 AI agent 的自托管搜索/抽取/深度研究服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vakovalskii/searcharvester 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 278 --> 283
-    line [279, 280, 281, 282, 282]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 278 --> 284
+    line [279, 280, 281, 282, 283]
 ```
 
-2026-10-18 279 → 2026-10-29 282（+3）
+2026-10-18 279 → 2026-10-30 283（+4）
 
 
 ---

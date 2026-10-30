@@ -1,6 +1,6 @@
 # amzn/pecos
 
-⭐ 557 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/amzn/pecos) · [官网](https://libpecos.org/) · 组织维护
+⭐ 558 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/amzn/pecos) · [官网](https://libpecos.org/) · 组织维护
 
 **大规模输出空间的机器学习框架：极端多标签分类/排序与 ANN 检索**
 
@@ -44,13 +44,13 @@ Amazon 开源的模块化机器学习框架，面向巨大输出空间问题：X
 
 ```mermaid
 xychart-beta
-    title "amzn/pecos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 555 --> 558
-    line [556, 557]
+    title "amzn/pecos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 555 --> 559
+    line [556, 557, 558]
 ```
 
-2026-10-18 556 → 2026-10-29 557（+1）
+2026-10-18 556 → 2026-10-30 558（+2）
 
 
 ---

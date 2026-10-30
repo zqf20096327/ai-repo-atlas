@@ -1,6 +1,6 @@
 # AlibabaResearch/DAMO-ConvAI
 
-⭐ 1,616 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI) · 组织维护 · 中文 README
+⭐ 1,617 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlibabaResearch/DAMO-ConvAI) · 组织维护 · 中文 README
 
 **阿里达摩院对话式 AI 研究代码库（论文与模型成果集合）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlibabaResearch/DAMO-ConvAI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1606 --> 1617
-    line [1607, 1608, 1611, 1613, 1615, 1616]
+    title "AlibabaResearch/DAMO-ConvAI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1606 --> 1618
+    line [1607, 1608, 1611, 1613, 1615, 1616, 1617]
 ```
 
-2026-10-18 1,607 → 2026-10-29 1,616（+9）
+2026-10-18 1,607 → 2026-10-30 1,617（+10）
 
 
 ---

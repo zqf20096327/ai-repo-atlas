@@ -46,12 +46,12 @@ PiloTY 是一个 MCP server，通过 stdio 由 MCP 客户端启动，为 agent �
 ```mermaid
 xychart-beta
     title "yiwenlu66/PiloTY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-29 45（+0）
+2026-10-18 45 → 2026-10-30 45（+0）
 
 
 ---

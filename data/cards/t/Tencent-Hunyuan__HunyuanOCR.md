@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanOCR
 
-⭐ 2,059 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanOCR) · 组织维护 · 中文 README
+⭐ 2,064 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanOCR) · 组织维护 · 中文 README
 
 **轻量端到端 OCR 视觉语言模型，覆盖文档解析/文本检测/抽取/图文翻译**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanOCR 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 2047 --> 2060
-    line [2048, 2051, 2052, 2053, 2057, 2058, 2059]
+    title "Tencent-Hunyuan/HunyuanOCR 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2047 --> 2065
+    line [2048, 2051, 2052, 2053, 2057, 2058, 2059, 2064]
 ```
 
-2026-10-18 2,048 → 2026-10-29 2,059（+11）
+2026-10-18 2,048 → 2026-10-30 2,064（+16）
 
 
 ---

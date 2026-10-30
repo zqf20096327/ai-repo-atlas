@@ -1,6 +1,6 @@
 # social-media-skills/skills
 
-⭐ 210 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/social-media-skills/skills) · [官网](https://social-media-skills.com) · 组织维护
+⭐ 213 · Shell · MIT · 推送 2026-10-15 · [GitHub](https://github.com/social-media-skills/skills) · [官网](https://social-media-skills.com) · 组织维护
 
 **面向 AI agent 的 106 个社交媒体运营技能集（SKILL.md 格式）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "social-media-skills/skills 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 158 --> 214
-    line [162, 173, 186, 191, 194, 196, 202, 207, 210]
+    title "social-media-skills/skills 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 157 --> 218
+    line [162, 173, 186, 191, 194, 196, 202, 207, 210, 213]
 ```
 
-2026-10-18 162 → 2026-10-29 210（+48）
+2026-10-18 162 → 2026-10-30 213（+51）
 
 
 ---

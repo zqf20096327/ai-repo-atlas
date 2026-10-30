@@ -1,6 +1,6 @@
 # rioX432/CivitDeck
 
-⭐ 18 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rioX432/CivitDeck) · 个人维护
+⭐ 19 · Kotlin · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rioX432/CivitDeck) · 个人维护
 
 **CivitAI 移动客户端：浏览、搜索并桥接本地 ComfyUI 生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rioX432/CivitDeck 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tenstorrent/vllm-tt-plugin
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tenstorrent/vllm-tt-plugin) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tenstorrent/vllm-tt-plugin) · 组织维护
 
 **将 Tenstorrent 硬件接入 vLLM 的后端插件，面向 TT 设备做 LLM 推理**
 
@@ -46,12 +46,12 @@ vLLM TT Plugin 通过 vLLM 标准插件机制把 Tenstorrent 硬件注册为 vLL
 ```mermaid
 xychart-beta
     title "tenstorrent/vllm-tt-plugin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-29 19（+2）
+2026-10-18 17 → 2026-10-30 19（+2）
 
 
 ---

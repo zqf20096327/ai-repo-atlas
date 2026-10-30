@@ -44,12 +44,12 @@ Ultralytics 维护的研究代码库，结合机器学习与 Structure-from-Moti
 ```mermaid
 xychart-beta
     title "ultralytics/velocity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 141 --> 143
     line [142, 142]
 ```
 
-2026-10-18 142 → 2026-10-29 142（+0）
+2026-10-18 142 → 2026-10-30 142（+0）
 
 
 ---

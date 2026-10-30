@@ -1,6 +1,6 @@
 # HCF-STUDIOS/openhermit
 
-⭐ 88 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HCF-STUDIOS/openhermit) · [官网](https://openhermit.ai) · 组织维护
+⭐ 89 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/HCF-STUDIOS/openhermit) · [官网](https://openhermit.ai) · 组织维护
 
 **将 AI agent 集群部署为生产服务的开源平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HCF-STUDIOS/openhermit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-29 88（+0）
+2026-10-18 88 → 2026-10-30 89（+1）
 
 
 ---

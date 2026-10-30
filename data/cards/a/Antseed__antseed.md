@@ -1,6 +1,6 @@
 # Antseed/antseed
 
-⭐ 128 · TypeScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Antseed/antseed) · [官网](https://antseed.com) · 组织维护
+⭐ 129 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Antseed/antseed) · [官网](https://antseed.com) · 组织维护
 
 **P2P AI 推理服务网络：供给方与买方经 DHT 加密直连交易**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Antseed/antseed 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 122 --> 129
-    line [123, 125, 126, 127, 128]
+    title "Antseed/antseed 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 122 --> 130
+    line [123, 125, 126, 127, 128, 129]
 ```
 
-2026-10-18 123 → 2026-10-29 128（+5）
+2026-10-18 123 → 2026-10-30 129（+6）
 
 
 ---

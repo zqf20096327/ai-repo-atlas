@@ -1,6 +1,6 @@
 # ZJU-LLMs/OpenStory
 
-⭐ 436 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ZJU-LLMs/OpenStory) · 组织维护 · 中文 README
+⭐ 437 · Python · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/ZJU-LLMs/OpenStory) · 组织维护 · 中文 README
 
 **LLM 多智能体框架：模拟可交互、可演化的故事世界**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZJU-LLMs/OpenStory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 431 --> 437
-    line [432, 433, 434, 435, 436, 436]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 431 --> 438
+    line [432, 433, 434, 435, 436, 437]
 ```
 
-2026-10-18 432 → 2026-10-29 436（+4）
+2026-10-18 432 → 2026-10-30 437（+5）
 
 
 ---

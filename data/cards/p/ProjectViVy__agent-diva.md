@@ -46,12 +46,12 @@ Rust 编写的多 crate 个人 AI 助手框架：Gateway 进程作为聊天平�
 ```mermaid
 xychart-beta
     title "ProjectViVy/agent-diva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-29 66（+0）
+2026-10-18 66 → 2026-10-30 66（+0）
 
 
 ---

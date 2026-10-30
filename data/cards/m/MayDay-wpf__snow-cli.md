@@ -1,6 +1,6 @@
 # MayDay-wpf/snow-cli
 
-⭐ 1,069 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/MayDay-wpf/snow-cli) · 个人维护 · 中文 README
+⭐ 1,067 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/MayDay-wpf/snow-cli) · 个人维护 · 中文 README
 
 **终端 AI 编程智能体 CLI，兼容多家 LLM 提供商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MayDay-wpf/snow-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
     y-axis "stars" 1066 --> 1070
-    line [1068, 1069, 1067, 1068, 1069, 1069]
+    line [1068, 1069, 1067, 1068, 1069, 1067]
 ```
 
-2026-10-18 1,068 → 2026-10-29 1,069（+1）
+2026-10-18 1,068 → 2026-10-30 1,067（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # numisveinsson/SeqSeg
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/numisveinsson/SeqSeg) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/numisveinsson/SeqSeg) · 个人维护
 
 **从 1–2 个种子点自动分割追踪 CT/MR 血管的深度学习工具**
 
@@ -46,12 +46,12 @@ SeqSeg 对 CT 和 MR 三维医学图像中的血管做顺序分割与追踪：�
 ```mermaid
 xychart-beta
     title "numisveinsson/SeqSeg 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-18 24 → 2026-10-29 26（+2）
+2026-10-18 24 → 2026-10-30 26（+2）
 
 
 ---

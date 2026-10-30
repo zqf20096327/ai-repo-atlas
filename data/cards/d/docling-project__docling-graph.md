@@ -44,13 +44,13 @@ IBM 维护的 Docling 生态工具：将 PDF、Office、markdown 等文档转换
 
 ```mermaid
 xychart-beta
-    title "docling-project/docling-graph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29"]
+    title "docling-project/docling-graph 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30"]
     y-axis "stars" 933 --> 939
-    line [934, 936, 937, 938]
+    line [934, 936, 937, 938, 938]
 ```
 
-2026-10-18 934 → 2026-10-29 938（+4）
+2026-10-18 934 → 2026-10-30 938（+4）
 
 
 ---

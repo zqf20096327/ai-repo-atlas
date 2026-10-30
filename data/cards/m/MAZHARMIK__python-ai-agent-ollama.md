@@ -1,6 +1,6 @@
 # MAZHARMIK/python-ai-agent-ollama
 
-⭐ 34 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MAZHARMIK/python-ai-agent-ollama) · [官网](https://www.youtube.com/watch?v=f0HBW-47wwU&list=PLGSKQmIKK2zQ) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/MAZHARMIK/python-ai-agent-ollama) · [官网](https://www.youtube.com/watch?v=f0HBW-47wwU&list=PLGSKQmIKK2zQ) · 个人维护
 
 **从零实现的本地 Python AI agent：Ollama 对话+多步工具调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MAZHARMIK/python-ai-agent-ollama 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 21 --> 35
-    line [22, 25, 27, 29, 30, 31, 32, 34]
+    title "MAZHARMIK/python-ai-agent-ollama 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 37
+    line [22, 25, 27, 29, 30, 31, 32, 34, 36]
 ```
 
-2026-10-22 22 → 2026-10-29 34（+12）
+2026-10-22 22 → 2026-10-30 36（+14）
 
 
 ---

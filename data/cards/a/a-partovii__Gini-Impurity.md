@@ -1,6 +1,6 @@
 # a-partovii/Gini-Impurity
 
-⭐ 80 · Python · 推送 2025-11-02 · [GitHub](https://github.com/a-partovii/Gini-Impurity) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **计算关系型数据各特征基尼不纯度的 Python 教学脚本**
 

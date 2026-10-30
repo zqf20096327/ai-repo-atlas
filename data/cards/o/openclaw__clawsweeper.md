@@ -1,6 +1,6 @@
 # openclaw/clawsweeper
 
-⭐ 2,004 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/openclaw/clawsweeper) · [官网](https://clawsweeper.bot) · 组织维护
+⭐ 2,005 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/openclaw/clawsweeper) · [官网](https://clawsweeper.bot) · 组织维护
 
 **面向 OpenClaw 仓库的议题/PR 保守审阅机器人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openclaw/clawsweeper 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
+    title "openclaw/clawsweeper 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
     y-axis "stars" 2000 --> 2007
-    line [2001, 2004, 2005, 2006, 2004, 2003, 2006, 2004]
+    line [2001, 2004, 2005, 2006, 2004, 2003, 2006, 2004, 2005]
 ```
 
-2026-10-18 2,001 → 2026-10-29 2,004（+3）
+2026-10-18 2,001 → 2026-10-30 2,005（+4）
 
 
 ---

@@ -45,12 +45,12 @@ WordPress 插件，面向 WordPress 站点使用者：输入标题即可生成�
 ```mermaid
 xychart-beta
     title "HandyPlugins/handywriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

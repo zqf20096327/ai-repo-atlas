@@ -1,6 +1,6 @@
 # yliang725/Anomaly-Detection-IoT23
 
-⭐ 112 · Jupyter Notebook · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/yliang725/Anomaly-Detection-IoT23) · 个人维护
+⭐ 113 · Jupyter Notebook · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/yliang725/Anomaly-Detection-IoT23) · 个人维护
 
 **IoT-23 数据集网络流量异常检测研究：ML/DL 模型实现与对比**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yliang725/Anomaly-Detection-IoT23 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 111 --> 114
+    line [112, 113]
 ```
 
-2026-10-18 112 → 2026-10-29 112（+0）
+2026-10-18 112 → 2026-10-30 113（+1）
 
 
 ---

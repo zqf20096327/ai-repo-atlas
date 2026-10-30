@@ -1,6 +1,6 @@
 # ericrisco/rsc-harness
 
-⭐ 365 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ericrisco/rsc-harness) · [官网](https://ericrisco.github.io/rsc-harness/) · 个人维护
+⭐ 388 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ericrisco/rsc-harness) · [官网](https://ericrisco.github.io/rsc-harness/) · 个人维护
 
 **为 AI 编码助手装配记忆/工具/技能/hook 的元 harness**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ericrisco/rsc-harness 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 211 --> 379
-    line [225, 228, 238, 240, 261, 276, 305, 329, 365]
+    title "ericrisco/rsc-harness 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 209 --> 404
+    line [225, 228, 238, 240, 261, 276, 305, 329, 365, 388]
 ```
 
-2026-10-18 225 → 2026-10-29 365（+140）
+2026-10-18 225 → 2026-10-30 388（+163）
 
 
 ---

@@ -1,6 +1,6 @@
 # tristmeister/HEISS-UI
 
-⭐ 73 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tristmeister/HEISS-UI) · [官网](https://heiss-ui.vercel.app/) · 个人维护
+⭐ 74 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/tristmeister/HEISS-UI) · [官网](https://heiss-ui.vercel.app/) · 个人维护
 
 **ComfyUI 的本地简洁前端：免节点图写提示词生成图像/视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tristmeister/HEISS-UI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 61 --> 74
-    line [62, 63, 66, 68, 69, 71, 73]
+    title "tristmeister/HEISS-UI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 61 --> 75
+    line [62, 63, 66, 68, 69, 71, 73, 74]
 ```
 
-2026-10-18 62 → 2026-10-29 73（+11）
+2026-10-18 62 → 2026-10-30 74（+12）
 
 
 ---

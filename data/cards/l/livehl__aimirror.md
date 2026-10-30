@@ -1,6 +1,6 @@
 # livehl/aimirror
 
-⭐ 216 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/livehl/aimirror) · 个人维护 · 中文 README
+⭐ 217 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/livehl/aimirror) · 个人维护 · 中文 README
 
 **给 AI 工程师的多源下载镜像加速代理服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "livehl/aimirror 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
     y-axis "stars" 215 --> 218
-    line [216, 217, 216, 216]
+    line [216, 217, 216, 217]
 ```
 
-2026-10-18 216 → 2026-10-29 216（+0）
+2026-10-18 216 → 2026-10-30 217（+1）
 
 
 ---

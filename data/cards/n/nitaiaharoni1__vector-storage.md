@@ -45,12 +45,12 @@ TypeScript/npm 包，在浏览器 IndexedDB 中存储文档向量，支持基于
 ```mermaid
 xychart-beta
     title "nitaiaharoni1/vector-storage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 248 --> 250
     line [249, 249]
 ```
 
-2026-10-18 249 → 2026-10-29 249（+0）
+2026-10-18 249 → 2026-10-30 249（+0）
 
 
 ---

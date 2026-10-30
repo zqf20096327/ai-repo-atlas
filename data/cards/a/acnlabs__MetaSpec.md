@@ -1,6 +1,6 @@
 # acnlabs/MetaSpec
 
-⭐ 53 · Jinja · MIT · 推送 2025-11-22 · [GitHub](https://github.com/acnlabs/MetaSpec) · [官网](https://mataspec.figma.site/) · 组织维护
+⭐ 54 · Jinja · MIT · 推送 2025-11-22 · [GitHub](https://github.com/acnlabs/MetaSpec) · [官网](https://mataspec.figma.site/) · 组织维护
 
 **为 AI Agent 生成规格驱动工具包的元规格框架**
 
@@ -46,12 +46,12 @@ MetaSpec 是一个 Python 元规格框架，用于自动生成生产可用的 sp
 ```mermaid
 xychart-beta
     title "acnlabs/MetaSpec 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-29 53（+0）
+2026-10-18 53 → 2026-10-30 54（+1）
 
 
 ---

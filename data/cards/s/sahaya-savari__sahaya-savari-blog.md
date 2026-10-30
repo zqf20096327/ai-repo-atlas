@@ -1,6 +1,6 @@
 # sahaya-savari/sahaya-savari-blog
 
-⭐ 60 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/sahaya-savari/sahaya-savari-blog) · [官网](https://blog.sahayasavari.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人技术博客与作品集网站（React/Vite 静态站）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

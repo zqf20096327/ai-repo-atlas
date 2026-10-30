@@ -1,6 +1,6 @@
 # faucetdb/faucet
 
-⭐ 166 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/faucetdb/faucet) · [官网](https://www.faucetdb.ai) · 组织维护
+⭐ 167 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/faucetdb/faucet) · [官网](https://www.faucetdb.ai) · 组织维护
 
 **把任意 SQL 数据库变成带 RBAC 的 REST API 和 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "faucetdb/faucet 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 158 --> 167
-    line [159, 163, 164, 165, 166, 166]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 158 --> 168
+    line [159, 163, 164, 165, 166, 167]
 ```
 
-2026-10-18 159 → 2026-10-29 166（+7）
+2026-10-18 159 → 2026-10-30 167（+8）
 
 
 ---

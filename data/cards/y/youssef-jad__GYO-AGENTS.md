@@ -1,6 +1,6 @@
 # youssef-jad/GYO-AGENTS
 
-⭐ 33 · TypeScript · 推送 2026-07-03 · [GitHub](https://github.com/youssef-jad/GYO-AGENTS) · [官网](https://github.com/youssef-jad/GYO-AGENTS#readme) · 个人维护
+⭐ 34 · TypeScript · 推送 2026-07-03 · [GitHub](https://github.com/youssef-jad/GYO-AGENTS) · [官网](https://github.com/youssef-jad/GYO-AGENTS#readme) · 个人维护
 
 **MCP 服务器+提示词：为 AI 编码代理生成 AGENTS.md 与共享持久记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "youssef-jad/GYO-AGENTS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 30 --> 34
-    line [31, 33]
+    title "youssef-jad/GYO-AGENTS 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 30 --> 35
+    line [31, 33, 34]
 ```
 
-2026-10-18 31 → 2026-10-29 33（+2）
+2026-10-18 31 → 2026-10-30 34（+3）
 
 
 ---

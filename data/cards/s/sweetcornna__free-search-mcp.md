@@ -1,6 +1,6 @@
 # sweetcornna/free-search-mcp
 
-⭐ 165 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护 · 中文 README
+⭐ 166 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护 · 中文 README
 
 **本地优先、免 API key 的网页搜索/抓取/文档阅读 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sweetcornna/free-search-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 142 --> 167
-    line [144, 148, 154, 156, 159, 161, 165]
+    title "sweetcornna/free-search-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 142 --> 168
+    line [144, 148, 154, 156, 159, 161, 165, 166]
 ```
 
-2026-10-18 144 → 2026-10-29 165（+21）
+2026-10-18 144 → 2026-10-30 166（+22）
 
 
 ---

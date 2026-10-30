@@ -1,6 +1,6 @@
 # Yusuke710/manim-skill
 
-⭐ 184 · HTML · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Yusuke710/manim-skill) · [官网](https://manimate.ai) · 个人维护
+⭐ 185 · HTML · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Yusuke710/manim-skill) · [官网](https://manimate.ai) · 个人维护
 
 **让编程 Agent 自动生成 3Blue1Brown 风格动画视频的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yusuke710/manim-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 172 --> 185
-    line [173, 178, 179, 180, 181, 182, 184]
+    title "Yusuke710/manim-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 172 --> 186
+    line [173, 178, 179, 180, 181, 182, 184, 185]
 ```
 
-2026-10-18 173 → 2026-10-29 184（+11）
+2026-10-18 173 → 2026-10-30 185（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Burakkylmz/tokenizer-workshop
 
-⭐ 24 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Burakkylmz/tokenizer-workshop) · 个人维护
+⭐ 25 · Python · 推送 2026-10-27 · [GitHub](https://github.com/Burakkylmz/tokenizer-workshop) · 个人维护
 
 **教学型 Python 项目：从零实现字符/字节/BPE 分词器学习分词原理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Burakkylmz/tokenizer-workshop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 14 --> 25
-    line [16, 15, 20, 24]
+    title "Burakkylmz/tokenizer-workshop 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 14 --> 26
+    line [16, 15, 20, 24, 25]
 ```
 
-2026-10-18 16 → 2026-10-29 24（+8）
+2026-10-18 16 → 2026-10-30 25（+9）
 
 
 ---

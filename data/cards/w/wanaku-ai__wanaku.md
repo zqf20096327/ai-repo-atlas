@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku
 
-⭐ 134 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
+⭐ 134 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
 
 **面向 AI agent 的受管动作代理：拦截并治理工具调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wanaku-ai/wanaku 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 133 --> 135
     line [134, 134]
 ```
 
-2026-10-18 134 → 2026-10-29 134（+0）
+2026-10-18 134 → 2026-10-30 134（+0）
 
 
 ---

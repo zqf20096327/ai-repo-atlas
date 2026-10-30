@@ -46,12 +46,12 @@ Azure-Samples 出品的演示项目，展示如何通过 MCP 协议与 OpenAI、
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-container-apps-ai-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 32（+0）
 
 
 ---

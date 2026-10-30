@@ -1,6 +1,6 @@
 # Open-LLM-VTuber/Open-LLM-VTuber
 
-⭐ 14,441 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
+⭐ 14,462 · Python · NOASSERTION · 推送 2026-05-15 · [GitHub](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) · [官网](https://open-llm-vtuber.github.io/) · 组织维护 · 中文 README
 
 **本地运行的语音交互 AI 陪伴：Live2D 形象+免手操作对话**
 
@@ -51,13 +51,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-LLM-VTuber/Open-LLM-VTuber 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 14119 --> 14470
-    line [14148, 14188, 14227, 14315, 14344, 14356, 14382, 14403, 14420, 14441]
+    title "Open-LLM-VTuber/Open-LLM-VTuber 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 14117 --> 14493
+    line [14148, 14188, 14227, 14315, 14344, 14356, 14382, 14403, 14420, 14441, 14462]
 ```
 
-2026-10-18 14,148 → 2026-10-29 14,441（+293）
+2026-10-18 14,148 → 2026-10-30 14,462（+314）
 
 
 ---

@@ -1,6 +1,6 @@
 # yeahhe365/Dual-AI-Chat
 
-⭐ 349 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yeahhe365/Dual-AI-Chat) · [官网](https://c3d98006.dual-ai-chat-dvb.pages.dev/) · 个人维护 · 中文 README
+⭐ 348 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/yeahhe365/Dual-AI-Chat) · [官网](https://c3d98006.dual-ai-chat-dvb.pages.dev/) · 个人维护 · 中文 README
 
 **双 AI 角色辩论后综合作答的 React 聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yeahhe365/Dual-AI-Chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 348 --> 350
-    line [349, 349]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 347 --> 350
+    line [349, 348]
 ```
 
-2026-10-18 349 → 2026-10-29 349（+0）
+2026-10-18 349 → 2026-10-30 348（-1）
 
 
 ---

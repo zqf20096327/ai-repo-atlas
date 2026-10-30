@@ -1,6 +1,6 @@
 # openai/openai-knowledge-retrieval
 
-⭐ 106 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/openai/openai-knowledge-retrieval) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-01-13 · [GitHub](https://github.com/openai/openai-knowledge-retrieval) · 组织维护
 
 **OpenAI 官方知识检索 RAG 起步套件：几条命令搭起问答应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openai/openai-knowledge-retrieval 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 101 --> 107
-    line [102, 104, 105, 106, 106]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 101 --> 108
+    line [102, 104, 105, 106, 107]
 ```
 
-2026-10-18 102 → 2026-10-29 106（+4）
+2026-10-18 102 → 2026-10-30 107（+5）
 
 
 ---

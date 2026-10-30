@@ -1,6 +1,6 @@
 # JPeetz/Hermes-Studio
 
-⭐ 398 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
+⭐ 401 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/JPeetz/Hermes-Studio) · [官网](https://github.com/JPeetz/Hermes-Studio) · 个人维护
 
 **本地 Hermes Agent 的自托管 Web 管理面板与多代理编排工作台**
 
@@ -45,13 +45,13 @@ Hermes Studio 是面向 NousResearch Hermes Agent 的开源自托管 Web UI 与�
 
 ```mermaid
 xychart-beta
-    title "JPeetz/Hermes-Studio 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 379 --> 399
-    line [380, 387, 389, 391, 392, 393, 394, 396, 397, 398]
+    title "JPeetz/Hermes-Studio 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 378 --> 403
+    line [380, 387, 389, 391, 392, 393, 394, 396, 397, 398, 401]
 ```
 
-2026-10-18 380 → 2026-10-29 398（+18）
+2026-10-18 380 → 2026-10-30 401（+21）
 
 
 ---

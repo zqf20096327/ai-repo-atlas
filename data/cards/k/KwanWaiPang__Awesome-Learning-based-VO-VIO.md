@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KwanWaiPang/Awesome-Learning-based-VO-VIO 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 217 --> 219
     line [218, 218]
 ```
 
-2026-10-18 218 → 2026-10-29 218（+0）
+2026-10-18 218 → 2026-10-30 218（+0）
 
 
 ---

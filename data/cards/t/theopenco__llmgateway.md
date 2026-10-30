@@ -1,6 +1,6 @@
 # theopenco/llmgateway
 
-⭐ 1,715 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/theopenco/llmgateway) · [官网](https://llmgateway.io) · 组织维护
+⭐ 1,717 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/theopenco/llmgateway) · [官网](https://llmgateway.io) · 组织维护
 
 **统一 API 接口的 LLM 网关：多供应商路由与用量分析**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "theopenco/llmgateway 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1689 --> 1717
-    line [1691, 1693, 1702, 1706, 1705, 1707, 1710, 1713, 1715]
+    title "theopenco/llmgateway 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1689 --> 1719
+    line [1691, 1693, 1702, 1706, 1705, 1707, 1710, 1713, 1715, 1717]
 ```
 
-2026-10-18 1,691 → 2026-10-29 1,715（+24）
+2026-10-18 1,691 → 2026-10-30 1,717（+26）
 
 
 ---

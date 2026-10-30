@@ -1,6 +1,6 @@
 # Aryan-0001/Jarvis-AI
 
-⭐ 131 · Dart · MIT · 推送 2026-01-27 · [GitHub](https://github.com/Aryan-0001/Jarvis-AI) · [官网](https://aryan-0001.github.io/Jarvis-AI/) · 个人维护
+⭐ 131 · Dart · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Aryan-0001/Jarvis-AI) · [官网](https://aryan-0001.github.io/Jarvis-AI/) · 个人维护
 
 **语音激活的个人 AI 助手应用：Flutter Android 版与 Windows Python 版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aryan-0001/Jarvis-AI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
     y-axis "stars" 121 --> 132
     line [122, 125, 126, 128, 130, 131, 131]
 ```
 
-2026-10-18 122 → 2026-10-29 131（+9）
+2026-10-18 122 → 2026-10-30 131（+9）
 
 
 ---

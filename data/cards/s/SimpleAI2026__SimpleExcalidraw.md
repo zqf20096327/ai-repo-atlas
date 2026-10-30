@@ -1,6 +1,6 @@
 # SimpleAI2026/SimpleExcalidraw
 
-⭐ 36 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SimpleAI2026/SimpleExcalidraw) · [官网](https://excalidraw-phi-woad.vercel.app) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SimpleAI2026/SimpleExcalidraw) · [官网](https://excalidraw-phi-woad.vercel.app) · 个人维护 · 中文 README
 
 **Excalidraw 中文 fork：加 AI 生成、多画布与绘图动画回放**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SimpleAI2026/SimpleExcalidraw 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-28", "2026-10-30"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-28 36 → 2026-10-29 36（+0）
+2026-10-28 36 → 2026-10-30 36（+0）
 
 
 ---

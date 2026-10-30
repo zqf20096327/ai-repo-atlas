@@ -1,6 +1,6 @@
 # antvis/mcp-server-chart
 
-⭐ 4,406 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/antvis/mcp-server-chart) · [官网](https://github.com/antvis/mcp-server-chart) · 组织维护 · 中文 README
+⭐ 4,408 · TypeScript · MIT · 推送 2026-08-27 · [GitHub](https://github.com/antvis/mcp-server-chart) · [官网](https://github.com/antvis/mcp-server-chart) · 组织维护 · 中文 README
 
 **给 LLM/MCP 客户端的图表生成服务器：26+ 种可视化**
 
@@ -45,12 +45,12 @@ AntV 团队维护的 TypeScript MCP 服务器，通过 MCP 工具提供 26+ 种�
 ```mermaid
 xychart-beta
     title "antvis/mcp-server-chart 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4400 --> 4407
-    line [4401, 4403, 4402, 4403, 4405, 4406, 4406]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 4400 --> 4409
+    line [4401, 4403, 4402, 4403, 4405, 4406, 4408]
 ```
 
-2026-10-18 4,401 → 2026-10-29 4,406（+5）
+2026-10-18 4,401 → 2026-10-30 4,408（+7）
 
 
 ---

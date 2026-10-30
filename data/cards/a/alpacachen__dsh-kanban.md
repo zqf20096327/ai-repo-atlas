@@ -1,6 +1,6 @@
 # alpacachen/dsh-kanban
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/alpacachen/dsh-kanban) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/alpacachen/dsh-kanban) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的共享看板插件：人与 AI agent 协同管理任务**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 的插件，在 DSH 工作区内置协作看板：用户通过 
 ```mermaid
 xychart-beta
     title "alpacachen/dsh-kanban 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-18 15 → 2026-10-29 17（+2）
+2026-10-18 15 → 2026-10-30 18（+3）
 
 
 ---

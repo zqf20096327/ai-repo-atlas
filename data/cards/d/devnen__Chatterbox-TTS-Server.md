@@ -1,6 +1,6 @@
 # devnen/Chatterbox-TTS-Server
 
-⭐ 1,483 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/devnen/Chatterbox-TTS-Server) · [官网](https://colab.research.google.com/github/devnen/Chatterbox-TTS-Server/blob/main/Chatterbox_TTS_Colab_Demo.ipynb) · 个人维护
+⭐ 1,485 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/devnen/Chatterbox-TTS-Server) · [官网](https://colab.research.google.com/github/devnen/Chatterbox-TTS-Server/blob/main/Chatterbox_TTS_Colab_Demo.ipynb) · 个人维护
 
 **自托管 Chatterbox TTS 的 OpenAI 兼容 API 服务器与 Web UI**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "devnen/Chatterbox-TTS-Server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 1471 --> 1484
-    line [1472, 1478, 1480, 1482, 1483, 1482, 1483]
+    title "devnen/Chatterbox-TTS-Server 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1471 --> 1486
+    line [1472, 1478, 1480, 1482, 1483, 1482, 1483, 1485]
 ```
 
-2026-10-18 1,472 → 2026-10-29 1,483（+11）
+2026-10-18 1,472 → 2026-10-30 1,485（+13）
 
 
 ---

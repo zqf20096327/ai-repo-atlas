@@ -1,6 +1,6 @@
 # preloop/preloop
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/preloop/preloop) · [官网](https://preloop.ai) · 组织维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/preloop/preloop) · [官网](https://preloop.ai) · 组织维护
 
 **自托管 AI agent 控制平面与软件工厂：治理每次工具与模型调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "preloop/preloop 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 77 --> 82
-    line [78, 80, 79, 80, 81, 81]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 77 --> 83
+    line [78, 80, 79, 80, 81, 82]
 ```
 
-2026-10-18 78 → 2026-10-29 81（+3）
+2026-10-18 78 → 2026-10-30 82（+4）
 
 
 ---

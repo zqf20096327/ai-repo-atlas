@@ -1,6 +1,6 @@
 # vlinx-io/VelaTerm
 
-⭐ 314 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护 · 中文 README
+⭐ 319 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护 · 中文 README
 
 **面向 AI 编程 Agent 的原生开发环境终端（ADE）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vlinx-io/VelaTerm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 301 --> 315
-    line [302, 306, 309, 312, 313, 312, 310, 314]
+    title "vlinx-io/VelaTerm 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 301 --> 320
+    line [302, 306, 309, 312, 313, 312, 310, 314, 319]
 ```
 
-2026-10-18 302 → 2026-10-29 314（+12）
+2026-10-18 302 → 2026-10-30 319（+17）
 
 
 ---

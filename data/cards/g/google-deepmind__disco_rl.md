@@ -45,12 +45,12 @@ Google DeepMind 发布的 Nature 论文《Discovering State-of-the-art Reinforce
 ```mermaid
 xychart-beta
     title "google-deepmind/disco_rl 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 743 --> 749
     line [744, 745, 747, 748, 748]
 ```
 
-2026-10-18 744 → 2026-10-29 748（+4）
+2026-10-18 744 → 2026-10-30 748（+4）
 
 
 ---

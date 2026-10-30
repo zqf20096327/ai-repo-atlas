@@ -1,6 +1,6 @@
 # cmpadden/pi-diff-review
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cmpadden/pi-diff-review) · [官网](https://pi.dev/packages/pi-diff-review) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/cmpadden/pi-diff-review) · [官网](https://pi.dev/packages/pi-diff-review) · 个人维护
 
 **pi 编码 agent 的 diff 审查扩展：内嵌查看与评注代码变更**
 
@@ -45,12 +45,12 @@ pi 的扩展，在 agent 会话内通过 /diff、/view 命令打开 diff 审查�
 ```mermaid
 xychart-beta
     title "cmpadden/pi-diff-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-boost/awesome-prompts
 
-⭐ 9,143 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护
+⭐ 9,149 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护
 
 **面向工程实践的 LLM/Agent 提示词、框架与论文策展清单**
 
@@ -45,13 +45,13 @@ Awesome 系列清单仓库，收录面向提示工程、上下文工程与 agent
 
 ```mermaid
 xychart-beta
-    title "ai-boost/awesome-prompts 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-29"]
-    y-axis "stars" 9139 --> 9144
-    line [9140, 9143]
+    title "ai-boost/awesome-prompts 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 9139 --> 9150
+    line [9140, 9143, 9149]
 ```
 
-2026-10-28 9,140 → 2026-10-29 9,143（+3）
+2026-10-28 9,140 → 2026-10-30 9,149（+9）
 
 
 ---

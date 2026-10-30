@@ -1,6 +1,6 @@
 # agentcathq/agentcat-typescript-sdk
 
-⭐ 126 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/agentcathq/agentcat-typescript-sdk) · [官网](https://agentcat.com) · 组织维护
+⭐ 126 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/agentcathq/agentcat-typescript-sdk) · [官网](https://agentcat.com) · 组织维护
 
 **MCP 服务器分析平台 SDK：追踪 agent 会话与遥测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentcathq/agentcat-typescript-sdk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 123 --> 127
     line [124, 126, 126]
 ```
 
-2026-10-18 124 → 2026-10-29 126（+2）
+2026-10-18 124 → 2026-10-30 126（+2）
 
 
 ---

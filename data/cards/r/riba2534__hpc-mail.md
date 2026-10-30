@@ -1,6 +1,6 @@
 # riba2534/hpc-mail
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/riba2534/hpc-mail) · [官网](https://hpc.email) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/riba2534/hpc-mail) · [官网](https://hpc.email) · 个人维护 · 中文 README
 
 **跑在 Cloudflare Workers 上的多域名多用户邮箱系统，AI Agent 可直接收发邮件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "riba2534/hpc-mail 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 21 --> 34
-    line [22, 28, 29, 30, 31, 33]
+    title "riba2534/hpc-mail 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 21 --> 35
+    line [22, 28, 29, 30, 31, 33, 34]
 ```
 
-2026-10-18 22 → 2026-10-29 33（+11）
+2026-10-18 22 → 2026-10-30 34（+12）
 
 
 ---

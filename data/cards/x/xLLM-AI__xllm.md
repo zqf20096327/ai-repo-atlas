@@ -1,6 +1,6 @@
 # xLLM-AI/xllm
 
-⭐ 1,609 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/xLLM-AI/xllm) · [官网](https://xllm-ai.com/) · 组织维护 · 中文 README
+⭐ 1,611 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/xLLM-AI/xllm) · [官网](https://xllm-ai.com/) · 组织维护 · 中文 README
 
 **面向国产 AI 加速器优化的 LLM/VLM/DiT/REC 推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xLLM-AI/xllm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 1601 --> 1610
-    line [1602, 1603, 1604, 1606, 1609]
+    title "xLLM-AI/xllm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1601 --> 1612
+    line [1602, 1603, 1604, 1606, 1609, 1611]
 ```
 
-2026-10-18 1,602 → 2026-10-29 1,609（+7）
+2026-10-18 1,602 → 2026-10-30 1,611（+9）
 
 
 ---

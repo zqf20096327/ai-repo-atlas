@@ -1,6 +1,6 @@
 # zgornel/DataLinter
 
-⭐ 19 · Julia · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zgornel/DataLinter) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 ML 工作流的数据与代码 linting 库与工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -45,12 +45,12 @@ Canonical Voting（CVPR 2022）的官方 PyTorch 实现。方法将 Hough 投票
 ```mermaid
 xychart-beta
     title "qq456cvb/CanonicalVoting 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-18 49 → 2026-10-29 49（+0）
+2026-10-18 49 → 2026-10-30 49（+0）
 
 
 ---

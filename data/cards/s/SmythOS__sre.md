@@ -1,6 +1,6 @@
 # SmythOS/sre
 
-⭐ 1,303 · TypeScript · MIT · 推送 2026-04-03 · [GitHub](https://github.com/SmythOS/sre) · [官网](https://smythos.com) · 组织维护
+⭐ 1,304 · TypeScript · MIT · 推送 2026-04-03 · [GitHub](https://github.com/SmythOS/sre) · [官网](https://smythos.com) · 组织维护
 
 **面向生产环境 AI agent 的开源运行时与 SDK**
 
@@ -45,12 +45,12 @@ SmythOS Runtime Environment（SRE）是运行 AI agent 的核心运行时，配�
 ```mermaid
 xychart-beta
     title "SmythOS/sre 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 1301 --> 1304
-    line [1303, 1302, 1303, 1303]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    y-axis "stars" 1301 --> 1305
+    line [1303, 1302, 1303, 1304]
 ```
 
-2026-10-18 1,303 → 2026-10-29 1,303（+0）
+2026-10-18 1,303 → 2026-10-30 1,304（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/nvidia-kaggle
 
-⭐ 342 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/NVIDIA/nvidia-kaggle) · 组织维护
+⭐ 343 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/NVIDIA/nvidia-kaggle) · 组织维护
 
 **给 agent 的 Kaggle 竞赛全流程技能插件（单一 skill）**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的 agent 技能插件，通过单一 skill `nvidia-kaggle-skill` �
 ```mermaid
 xychart-beta
     title "NVIDIA/nvidia-kaggle 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
     y-axis "stars" 338 --> 344
-    line [340, 339, 341, 342, 343, 342, 342]
+    line [340, 339, 341, 342, 343, 342, 343]
 ```
 
-2026-10-18 340 → 2026-10-29 342（+2）
+2026-10-18 340 → 2026-10-30 343（+3）
 
 
 ---

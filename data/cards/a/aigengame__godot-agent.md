@@ -1,6 +1,6 @@
 # aigengame/godot-agent
 
-⭐ 55 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aigengame/godot-agent) · [官网](https://aigengame.xyz/) · 组织维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/aigengame/godot-agent) · [官网](https://aigengame.xyz/) · 组织维护 · 中文 README
 
 **面向 AI agent 的 Godot 自动化 CLI：无头构建验证与运行时控制**
 
@@ -47,12 +47,12 @@ gda 是一个 Python 编写的 Godot 引擎自动化工具链，供 AI 编码 ag
 ```mermaid
 xychart-beta
     title "aigengame/godot-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
     y-axis "stars" 50 --> 56
     line [51, 53, 54, 55, 55]
 ```
 
-2026-10-18 51 → 2026-10-29 55（+4）
+2026-10-18 51 → 2026-10-30 55（+4）
 
 
 ---

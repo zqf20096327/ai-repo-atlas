@@ -1,6 +1,6 @@
 # jy-yuan/KIVI
 
-⭐ 437 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/jy-yuan/KIVI) · [官网](https://arxiv.org/abs/2402.02750) · 组织维护
+⭐ 438 · Python · MIT · 推送 2025-11-20 · [GitHub](https://github.com/jy-yuan/KIVI) · [官网](https://arxiv.org/abs/2402.02750) · 组织维护
 
 **免调参的 KV Cache 2bit 非对称量化算法实现，降显存提吞吐**
 
@@ -45,12 +45,12 @@ ICML 2024 论文 KIVI 的官方实现：即插即用的 2bit KV cache 量化算�
 ```mermaid
 xychart-beta
     title "jy-yuan/KIVI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29"]
-    y-axis "stars" 434 --> 438
-    line [435, 436, 437, 437]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
+    y-axis "stars" 434 --> 439
+    line [435, 436, 437, 438]
 ```
 
-2026-10-18 435 → 2026-10-29 437（+2）
+2026-10-18 435 → 2026-10-30 438（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # wkentaro/osam
 
-⭐ 96 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/wkentaro/osam) · 个人维护
+⭐ 96 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wkentaro/osam) · 个人维护
 
 **本地运行可提示视觉模型（SAM 系列/YOLO-World）的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wkentaro/osam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-18 96 → 2026-10-29 96（+0）
+2026-10-18 96 → 2026-10-30 96（+0）
 
 
 ---

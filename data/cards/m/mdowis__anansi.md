@@ -1,6 +1,6 @@
 # mdowis/anansi
 
-⭐ 118 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/mdowis/anansi) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/mdowis/anansi) · 个人维护
 
 **自愈式网页爬虫：选择器自修复、隐身浏览器与反检测身份层，附 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mdowis/anansi 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    line [117, 118, 117]
 ```
 
-2026-10-18 117 → 2026-10-29 118（+1）
+2026-10-18 117 → 2026-10-30 117（+0）
 
 
 ---

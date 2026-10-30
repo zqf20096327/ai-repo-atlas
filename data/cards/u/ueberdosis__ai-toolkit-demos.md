@@ -1,6 +1,6 @@
 # ueberdosis/ai-toolkit-demos
 
-⭐ 25 · TypeScript · 推送 2026-10-23 · [GitHub](https://github.com/ueberdosis/ai-toolkit-demos) · [官网](https://tiptap.dev/docs/content-ai/capabilities/ai-toolkit/overview) · 组织维护
+⭐ 25 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/ueberdosis/ai-toolkit-demos) · [官网](https://tiptap.dev/docs/content-ai/capabilities/ai-toolkit/overview) · 组织维护
 
 **Tiptap AI Toolkit 功能演示集：AI 读写文档的示例工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ueberdosis/ai-toolkit-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

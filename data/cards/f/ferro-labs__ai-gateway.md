@@ -1,6 +1,6 @@
 # ferro-labs/ai-gateway
 
-⭐ 272 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ferro-labs/ai-gateway) · [官网](https://docs.ferrolabs.ai) · 组织维护 · 中文 README
+⭐ 273 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ferro-labs/ai-gateway) · [官网](https://docs.ferrolabs.ai) · 组织维护 · 中文 README
 
 **Go 编写的 OpenAI 兼容 LLM 网关：30 家提供商统一路由**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ferro-labs/ai-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 268 --> 273
-    line [269, 272, 271, 272]
+    title "ferro-labs/ai-gateway 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 268 --> 274
+    line [269, 272, 271, 272, 273]
 ```
 
-2026-10-18 269 → 2026-10-29 272（+3）
+2026-10-18 269 → 2026-10-30 273（+4）
 
 
 ---

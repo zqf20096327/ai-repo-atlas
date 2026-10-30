@@ -45,12 +45,12 @@ TypeScript 编写的自主 AI agent 运行框架：将自然语言经 INTENT→P
 ```mermaid
 xychart-beta
     title "DosukaSOL/paw-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

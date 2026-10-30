@@ -1,6 +1,6 @@
 # MiniMax-AI/minimax_search
 
-⭐ 59 · Python · 推送 2025-11-03 · [GitHub](https://github.com/MiniMax-AI/minimax_search) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ 61 · Python · 推送 2025-11-03 · [GitHub](https://github.com/MiniMax-AI/minimax_search) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
 
 **为 Agent 提供网页搜索与批量浏览能力的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/minimax_search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 57 --> 61
-    line [58, 60, 59]
+    title "MiniMax-AI/minimax_search 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 57 --> 62
+    line [58, 60, 59, 61]
 ```
 
-2026-10-18 58 → 2026-10-29 59（+1）
+2026-10-18 58 → 2026-10-30 61（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/DocAtlas-Harness
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/DocAtlas-Harness) · 组织维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/DocAtlas-Harness) · 组织维护 · 中文 README
 
 **面向长篇多模态文档理解的开源 agent harness，供模型接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/DocAtlas-Harness 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 22, 23]
 ```
 
-2026-10-18 19 → 2026-10-29 22（+3）
+2026-10-18 19 → 2026-10-30 23（+4）
 
 
 ---

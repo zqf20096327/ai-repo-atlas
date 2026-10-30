@@ -1,6 +1,6 @@
 # openai/simple-evals
 
-⭐ 4,682 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/openai/simple-evals) · 组织维护
+⭐ 4,686 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/openai/simple-evals) · 组织维护
 
 **OpenAI 的轻量级语言模型评测库：跑 MMLU/MATH 等基准**
 
@@ -44,13 +44,13 @@ OpenAI 开源的 LLM 评测库，提供 MMLU、MATH、GPQA、DROP、MGSM、Human
 
 ```mermaid
 xychart-beta
-    title "openai/simple-evals 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 4665 --> 4683
-    line [4666, 4668, 4670, 4672, 4673, 4674, 4678, 4682]
+    title "openai/simple-evals 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 4664 --> 4688
+    line [4666, 4668, 4670, 4672, 4673, 4674, 4678, 4682, 4686]
 ```
 
-2026-10-18 4,666 → 2026-10-29 4,682（+16）
+2026-10-18 4,666 → 2026-10-30 4,686（+20）
 
 
 ---

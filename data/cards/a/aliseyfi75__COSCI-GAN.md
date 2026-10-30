@@ -45,12 +45,12 @@ NeurIPS 2022 论文《Generating multivariate time series with COmmon Source Coo
 ```mermaid
 xychart-beta
     title "aliseyfi75/COSCI-GAN 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-29 39（+0）
+2026-10-18 39 → 2026-10-30 39（+0）
 
 
 ---

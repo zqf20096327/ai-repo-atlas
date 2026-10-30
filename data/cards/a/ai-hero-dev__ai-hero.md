@@ -1,6 +1,6 @@
 # ai-hero-dev/ai-hero
 
-⭐ 1,898 · TypeScript · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/ai-hero-dev/ai-hero) · [官网](https://www.aihero.dev/) · 个人维护
+⭐ 1,901 · TypeScript · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/ai-hero-dev/ai-hero) · [官网](https://www.aihero.dev/) · 个人维护
 
 **AI 工程课程的开源示例与练习代码仓库**
 
@@ -44,12 +44,12 @@ AI Hero 课程的配套开源仓库，面向想从前端/后端/全栈转入 AI 
 ```mermaid
 xychart-beta
     title "ai-hero-dev/ai-hero 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1886 --> 1899
-    line [1887, 1890, 1893, 1897, 1898, 1898]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 1886 --> 1902
+    line [1887, 1890, 1893, 1897, 1898, 1901]
 ```
 
-2026-10-18 1,887 → 2026-10-29 1,898（+11）
+2026-10-18 1,887 → 2026-10-30 1,901（+14）
 
 
 ---

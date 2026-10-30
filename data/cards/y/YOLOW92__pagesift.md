@@ -1,6 +1,6 @@
 # YOLOW92/pagesift
 
-⭐ 122 · Rust · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/YOLOW92/pagesift) · 个人维护 · 中文 README
+⭐ 156 · Rust · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/YOLOW92/pagesift) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Rust 网页抓取与内容提取引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YOLOW92/pagesift 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 36 --> 129
-    line [43, 57, 59, 97, 113, 122]
+    title "YOLOW92/pagesift 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 32 --> 167
+    line [43, 57, 59, 97, 113, 122, 156]
 ```
 
-2026-10-24 43 → 2026-10-29 122（+79）
+2026-10-24 43 → 2026-10-30 156（+113）
 
 
 ---

@@ -1,6 +1,6 @@
 # fiorastudio/buddy
 
-⭐ 116 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/fiorastudio/buddy) · 组织维护
+⭐ 116 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fiorastudio/buddy) · 组织维护
 
 **给 AI 编程 CLI 养的 MCP 虚拟宠物伴侣，含推理审查与代码反馈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fiorastudio/buddy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
     y-axis "stars" 114 --> 117
     line [115, 116, 116]
 ```
 
-2026-10-18 115 → 2026-10-29 116（+1）
+2026-10-18 115 → 2026-10-30 116（+1）
 
 
 ---

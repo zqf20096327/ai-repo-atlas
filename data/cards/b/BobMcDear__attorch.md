@@ -45,12 +45,12 @@ attorch 是用纯 Python 与 OpenAI Triton 编写的 PyTorch nn 模块子集，�
 ```mermaid
 xychart-beta
     title "BobMcDear/attorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 604 --> 606
     line [605, 605]
 ```
 
-2026-10-18 605 → 2026-10-29 605（+0）
+2026-10-18 605 → 2026-10-30 605（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers
 
-⭐ 38 · Python · 推送 2026-05-25 · [GitHub](https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers) · 组织维护 · 中文 README
+⭐ 39 · Python · 推送 2026-05-25 · [GitHub](https://github.com/BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers) · 组织维护 · 中文 README
 
 **将图结构数据转为 token 序列以接入标准 Transformer 的研究框架**
 
@@ -45,12 +45,12 @@ ICLR 2026 论文的官方实现：把任意带标签图经结构引导的可逆�
 ```mermaid
 xychart-beta
     title "BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-18 36 → 2026-10-29 38（+2）
+2026-10-18 36 → 2026-10-30 39（+3）
 
 
 ---

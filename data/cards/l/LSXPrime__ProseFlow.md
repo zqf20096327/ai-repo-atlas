@@ -1,6 +1,6 @@
 # LSXPrime/ProseFlow
 
-⭐ 76 · C# · AGPL-3.0 · 推送 2025-11-09 · [GitHub](https://github.com/LSXPrime/ProseFlow) · [官网](https://lsxprime.github.io/proseflow-web/) · 组织维护
+⭐ 77 · C# · AGPL-3.0 · 推送 2025-11-09 · [GitHub](https://github.com/LSXPrime/ProseFlow) · [官网](https://lsxprime.github.io/proseflow-web/) · 组织维护
 
 **跨平台桌面 AI 文本处理器：任意应用中热键调用 LLM 处理文本**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "LSXPrime/ProseFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-10-29 76（+0）
+2026-10-18 76 → 2026-10-30 77（+1）
 
 
 ---

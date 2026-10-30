@@ -1,6 +1,6 @@
 # Dreamer-Toby/STEPQuant
 
-⭐ 101 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Dreamer-Toby/STEPQuant) · [官网](https://arxiv.org/abs/2609.38169) · 组织维护
+⭐ 102 · Python · 推送 2026-10-23 · [GitHub](https://github.com/Dreamer-Toby/STEPQuant) · [官网](https://arxiv.org/abs/2609.38169) · 组织维护
 
 **Delta-rule 模型循环状态的后训练量化压缩方法（论文官方代码）**
 
@@ -44,13 +44,13 @@ STEPQuant 是针对 Delta-rule 线性注意力模型（Qwen、Kimi-Linear 等）
 
 ```mermaid
 xychart-beta
-    title "Dreamer-Toby/STEPQuant 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 94 --> 102
-    line [101, 95, 97, 98, 99, 101]
+    title "Dreamer-Toby/STEPQuant 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 94 --> 103
+    line [101, 95, 97, 98, 99, 101, 102]
 ```
 
-2026-10-18 101 → 2026-10-29 101（+0）
+2026-10-18 101 → 2026-10-30 102（+1）
 
 
 ---

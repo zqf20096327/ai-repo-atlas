@@ -1,6 +1,6 @@
 # systempromptio/awesome-ai-agent-governance
 
-⭐ 55 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/systempromptio/awesome-ai-agent-governance) · [官网](https://systemprompt.io) · 组织维护
+⭐ 55 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/systempromptio/awesome-ai-agent-governance) · [官网](https://systemprompt.io) · 组织维护
 
 **面向生产环境 AI agent 治理的工具、标准与资源策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "systempromptio/awesome-ai-agent-governance 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "systempromptio/awesome-ai-agent-governance 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 51 --> 56
-    line [52, 53, 54, 55]
+    line [52, 53, 54, 55, 55]
 ```
 
-2026-10-18 52 → 2026-10-29 55（+3）
+2026-10-18 52 → 2026-10-30 55（+3）
 
 
 ---

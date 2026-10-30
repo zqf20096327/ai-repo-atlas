@@ -45,13 +45,13 @@ macOS（Apple Silicon）本地优先的开源桌面应用，集成 DeepSeek V4�
 
 ```mermaid
 xychart-beta
-    title "sk8erboi17/DStudio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    title "sk8erboi17/DStudio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
     y-axis "stars" 30 --> 33
-    line [32, 31]
+    line [32, 31, 31]
 ```
 
-2026-10-18 32 → 2026-10-29 31（-1）
+2026-10-18 32 → 2026-10-30 31（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Avtr99/antidote
 
-⭐ 25 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Avtr99/antidote) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Avtr99/antidote) · 个人维护
 
 **约束 AI 编码代理修复根因而非打补丁的 Agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Avtr99/antidote 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-29 25（+1）
+2026-10-18 24 → 2026-10-30 25（+1）
 
 
 ---

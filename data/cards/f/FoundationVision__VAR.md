@@ -1,6 +1,6 @@
 # FoundationVision/VAR
 
-⭐ 8,761 · Jupyter Notebook · MIT · 推送 2025-11-10 · [GitHub](https://github.com/FoundationVision/VAR) · 组织维护
+⭐ 8,763 · Jupyter Notebook · MIT · 推送 2025-11-10 · [GitHub](https://github.com/FoundationVision/VAR) · 组织维护
 
 **视觉自回归图像生成模型的官方实现与训练代码**
 
@@ -46,12 +46,12 @@ NeurIPS 2024 最佳论文《Visual Autoregressive Modeling: Scalable Image Gener
 ```mermaid
 xychart-beta
     title "FoundationVision/VAR 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 8756 --> 8763
-    line [8758, 8757, 8759, 8761, 8760, 8762, 8761, 8761]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 8756 --> 8764
+    line [8758, 8757, 8759, 8761, 8760, 8762, 8761, 8763]
 ```
 
-2026-10-18 8,758 → 2026-10-29 8,761（+3）
+2026-10-18 8,758 → 2026-10-30 8,763（+5）
 
 
 ---

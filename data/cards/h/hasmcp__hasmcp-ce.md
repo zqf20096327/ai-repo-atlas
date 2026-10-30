@@ -1,6 +1,6 @@
 # hasmcp/hasmcp-ce
 
-⭐ 62 · Go · AGPL-3.0 · 推送 2026-06-06 · [GitHub](https://github.com/hasmcp/hasmcp-ce) · [官网](https://hasmcp.com) · 组织维护
+⭐ 63 · Go · AGPL-3.0 · 推送 2026-06-06 · [GitHub](https://github.com/hasmcp/hasmcp-ce) · [官网](https://hasmcp.com) · 组织维护
 
 **免代码把 API 端点转成 MCP Server 的网关工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hasmcp/hasmcp-ce 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-18 62 → 2026-10-29 62（+0）
+2026-10-18 62 → 2026-10-30 63（+1）
 
 
 ---

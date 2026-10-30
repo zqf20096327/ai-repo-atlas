@@ -1,6 +1,6 @@
 # o19s/elasticsearch-learning-to-rank
 
-⭐ 1,520 · Java · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/o19s/elasticsearch-learning-to-rank) · [官网](http://opensourceconnections.com/blog/2017/02/14/elasticsearch-learning-to-rank/) · 组织维护
+⭐ 1,521 · Java · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/o19s/elasticsearch-learning-to-rank) · [官网](http://opensourceconnections.com/blog/2017/02/14/elasticsearch-learning-to-rank/) · 组织维护
 
 **给搜索工程师的 Elasticsearch 插件：用机器学习模型重排搜索结果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "o19s/elasticsearch-learning-to-rank 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 1519 --> 1521
-    line [1520, 1520]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 1519 --> 1522
+    line [1520, 1521]
 ```
 
-2026-10-18 1,520 → 2026-10-29 1,520（+0）
+2026-10-18 1,520 → 2026-10-30 1,521（+1）
 
 
 ---

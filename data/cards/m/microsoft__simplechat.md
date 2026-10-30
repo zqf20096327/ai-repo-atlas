@@ -1,6 +1,6 @@
 # microsoft/simplechat
 
-⭐ 157 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/simplechat) · 组织维护
+⭐ 157 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/simplechat) · 组织维护
 
 **面向企业的安全 RAG 对话平台：基于 Azure 的文档/音视频 AI 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/simplechat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 156 --> 158
     line [157, 157]
 ```
 
-2026-10-18 157 → 2026-10-29 157（+0）
+2026-10-18 157 → 2026-10-30 157（+0）
 
 
 ---

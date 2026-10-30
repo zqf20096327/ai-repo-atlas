@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyber-immortal/cyber-figures 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29"]
+    title "cyber-immortal/cyber-figures 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
     y-axis "stars" 72 --> 76
-    line [73, 74, 75]
+    line [73, 74, 75, 75]
 ```
 
-2026-10-18 73 → 2026-10-29 75（+2）
+2026-10-18 73 → 2026-10-30 75（+2）
 
 
 ---

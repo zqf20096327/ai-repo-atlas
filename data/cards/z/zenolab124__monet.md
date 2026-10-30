@@ -1,6 +1,6 @@
 # zenolab124/monet
 
-⭐ 285 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zenolab124/monet) · [官网](https://github.com/zenolab124/monet/releases) · 个人维护 · 中文 README
+⭐ 285 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zenolab124/monet) · [官网](https://github.com/zenolab124/monet/releases) · 个人维护 · 中文 README
 
 **管理 Claude Code/Codex 等编码代理会话的桌面指挥台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenolab124/monet 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "zenolab124/monet 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 280 --> 286
-    line [281, 282, 283, 284, 285]
+    line [281, 282, 283, 284, 285, 285]
 ```
 
-2026-10-18 281 → 2026-10-29 285（+4）
+2026-10-18 281 → 2026-10-30 285（+4）
 
 
 ---

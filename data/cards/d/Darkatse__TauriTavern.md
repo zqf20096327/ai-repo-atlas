@@ -1,6 +1,6 @@
 # Darkatse/TauriTavern
 
-⭐ 2,106 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Darkatse/TauriTavern) · [官网](https://tauritavern.github.io) · 组织维护 · 中文 README
+⭐ 2,117 · JavaScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Darkatse/TauriTavern) · [官网](https://tauritavern.github.io) · 组织维护 · 中文 README
 
 **SillyTavern 的 Tauri/Rust 原生桌面与移动客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Darkatse/TauriTavern 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 1950 --> 2120
-    line [1964, 1987, 2021, 2034, 2049, 2066, 2078, 2089, 2106]
+    title "Darkatse/TauriTavern 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 1949 --> 2132
+    line [1964, 1987, 2021, 2034, 2049, 2066, 2078, 2089, 2106, 2117]
 ```
 
-2026-10-18 1,964 → 2026-10-29 2,106（+142）
+2026-10-18 1,964 → 2026-10-30 2,117（+153）
 
 
 ---

@@ -1,6 +1,6 @@
 # fugue-project/fugue
 
-⭐ 2,166 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/fugue-project/fugue) · [官网](https://fugue-tutorials.readthedocs.io/) · 组织维护
+⭐ 2,165 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/fugue-project/fugue) · [官网](https://fugue-tutorials.readthedocs.io/) · 组织维护
 
 **分布式计算统一接口：Python/Pandas/SQL 代码在 Spark/Dask/Ray 上运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fugue-project/fugue 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 2165 --> 2167
-    line [2166, 2166]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 2164 --> 2167
+    line [2166, 2165]
 ```
 
-2026-10-18 2,166 → 2026-10-29 2,166（+0）
+2026-10-18 2,166 → 2026-10-30 2,165（-1）
 
 
 ---

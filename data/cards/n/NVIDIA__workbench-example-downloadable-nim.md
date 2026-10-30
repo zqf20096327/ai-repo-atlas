@@ -45,12 +45,12 @@ NVIDIA AI Workbench 官方示例项目：一个 Streamlit 聊天应用，可切�
 ```mermaid
 xychart-beta
     title "NVIDIA/workbench-example-downloadable-nim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-29 18（+0）
+2026-10-18 18 → 2026-10-30 18（+0）
 
 
 ---

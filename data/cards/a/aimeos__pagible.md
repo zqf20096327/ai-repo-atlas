@@ -1,6 +1,6 @@
 # aimeos/pagible
 
-⭐ 600 · PHP · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aimeos/pagible) · [官网](https://pagible.com) · 组织维护
+⭐ 600 · PHP · MIT · 推送 2026-10-29 · [GitHub](https://github.com/aimeos/pagible) · [官网](https://pagible.com) · 组织维护
 
 **可装入 Laravel 应用的 AI 驱动无头 CMS 包**
 
@@ -47,12 +47,12 @@ API 优先的 Laravel CMS 扩展包，可安装到已有 Laravel 应用中：提
 ```mermaid
 xychart-beta
     title "aimeos/pagible 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
     y-axis "stars" 595 --> 601
     line [596, 597, 598, 599, 600, 600]
 ```
 
-2026-10-18 596 → 2026-10-29 600（+4）
+2026-10-18 596 → 2026-10-30 600（+4）
 
 
 ---

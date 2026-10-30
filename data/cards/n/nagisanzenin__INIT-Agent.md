@@ -1,6 +1,6 @@
 # nagisanzenin/INIT-Agent
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nagisanzenin/INIT-Agent) · [官网](https://initlabs.si) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nagisanzenin/INIT-Agent) · [官网](https://initlabs.si) · 个人维护
 
 **可改写自身 harness 的自修改编码 agent（研究预览版）**
 
@@ -40,6 +40,18 @@ Rust 编写的编码 agent，允许模型在任务中修改自己的 harness—�
 > L3: INIT is a coding agent that rewrites its own harness while it works. The harness is everything around the model: pro
 > L55: INIT 0.5 is a research preview.
 > L57: - **Tested:** DeepSeek (deepseek-flash, deepseek-v4-pro) on the live API. At $0 on a mock model, the v0.5.2 bundles
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nagisanzenin/INIT-Agent 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-29 20 → 2026-10-30 20（+0）
 
 
 ---

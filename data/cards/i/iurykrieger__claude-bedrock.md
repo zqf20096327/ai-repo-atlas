@@ -1,6 +1,6 @@
 # iurykrieger/claude-bedrock
 
-⭐ 108 · HTML · MIT · 推送 2026-05-05 · [GitHub](https://github.com/iurykrieger/claude-bedrock) · [官网](https://claude-bedrock.vercel.app) · 个人维护
+⭐ 109 · HTML · MIT · 推送 2026-05-05 · [GitHub](https://github.com/iurykrieger/claude-bedrock) · [官网](https://claude-bedrock.vercel.app) · 个人维护
 
 **把 Obsidian 仓库变成 AI 管理的 Second Brain 的 Claude Code 插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "iurykrieger/claude-bedrock 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 105 --> 110
+    line [106, 107, 108, 109]
 ```
 
-2026-10-18 106 → 2026-10-29 108（+2）
+2026-10-18 106 → 2026-10-30 109（+3）
 
 
 ---

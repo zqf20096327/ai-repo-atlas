@@ -1,6 +1,6 @@
 # XiaoTongYuCode/CornAgent
 
-⭐ 22 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/XiaoTongYuCode/CornAgent) · [官网](https://cornagent.xiaotongyu.com) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/XiaoTongYuCode/CornAgent) · [官网](https://cornagent.xiaotongyu.com) · 个人维护 · 中文 README
 
 **可自托管、可嵌入的全栈 AI agent 应用与运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "XiaoTongYuCode/CornAgent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

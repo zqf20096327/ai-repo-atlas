@@ -1,6 +1,6 @@
 # jfrog/boost
 
-⭐ 541 · Shell · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/jfrog/boost) · [官网](https://boost.jfrog.com/) · 组织维护
+⭐ 541 · Shell · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/jfrog/boost) · [官网](https://boost.jfrog.com/) · 组织维护
 
 **给编码 agent 瘦身上下文的本地 CLI/桌面工具，减少 token 消耗**
 
@@ -44,13 +44,13 @@ JFrog 出品的本地优先工具，置于编码 agent（Claude Code、Cursor、
 
 ```mermaid
 xychart-beta
-    title "jfrog/boost 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    title "jfrog/boost 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
     y-axis "stars" 526 --> 542
-    line [527, 533, 537, 539, 540, 541]
+    line [527, 533, 537, 539, 540, 541, 541]
 ```
 
-2026-10-18 527 → 2026-10-29 541（+14）
+2026-10-18 527 → 2026-10-30 541（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # smaharx/Finova
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/smaharx/Finova) · 个人维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-09-14 · [GitHub](https://github.com/smaharx/Finova) · 个人维护
 
 **个人财务追踪应用：NLP 分类、异常检测与支出预测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smaharx/Finova 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 23]
 ```
 
-2026-10-18 20 → 2026-10-29 21（+1）
+2026-10-18 20 → 2026-10-30 23（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pinecone-io/terraform-provider-pinecone
 
-⭐ 32 · Go · MPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/pinecone-io/terraform-provider-pinecone) · 组织维护
+⭐ 32 · Go · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pinecone-io/terraform-provider-pinecone) · 组织维护
 
 **Pinecone 官方 Terraform Provider：以 IaC 管理向量库资源**
 
@@ -46,12 +46,12 @@ Pinecone 官方维护的 Terraform Provider 插件，用 Go 编写，允许通�
 ```mermaid
 xychart-beta
     title "pinecone-io/terraform-provider-pinecone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-29 32（+0）
+2026-10-18 32 → 2026-10-30 32（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # floneum/kalosm
 
-⭐ 2,228 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/floneum/kalosm) · [官网](http://floneum.com/kalosm) · 个人维护
+⭐ 2,232 · Rust · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/floneum/kalosm) · [官网](http://floneum.com/kalosm) · 个人维护
 
 **Rust 本地/远程预训练模型接口与推理运行时生态**
 
@@ -44,13 +44,13 @@ Kalosm 是一个 Rust crate 集合，为开发者提供访问本地或远程预�
 
 ```mermaid
 xychart-beta
-    title "floneum/kalosm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 2225 --> 2229
-    line [2226, 2227, 2228, 2227, 2228]
+    title "floneum/kalosm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 2225 --> 2233
+    line [2226, 2227, 2228, 2227, 2228, 2232]
 ```
 
-2026-10-18 2,226 → 2026-10-29 2,228（+2）
+2026-10-18 2,226 → 2026-10-30 2,232（+6）
 
 
 ---

@@ -44,12 +44,12 @@ IEEE TCSVT'26 综述 AceVFI 的配套资源库，按方法类别（运动补偿�
 ```mermaid
 xychart-beta
     title "CMLab-Korea/Awesome-Video-Frame-Interpolation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 168 --> 170
     line [169, 169]
 ```
 
-2026-10-18 169 → 2026-10-29 169（+0）
+2026-10-18 169 → 2026-10-30 169（+0）
 
 
 ---

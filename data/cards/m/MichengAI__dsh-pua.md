@@ -1,6 +1,6 @@
 # MichengAI/dsh-pua
 
-⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MichengAI/dsh-pua) · [官网](dsh-codex-desktop.micheng.dev) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/MichengAI/dsh-pua) · [官网](dsh-codex-desktop.micheng.dev) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：用 PUA 提示与验收循环推进 agent 任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MichengAI/dsh-pua 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 19 --> 48
-    line [21, 26, 30, 33, 37, 38, 41, 43, 44, 46]
+    title "MichengAI/dsh-pua 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 19 --> 50
+    line [21, 26, 30, 33, 37, 38, 41, 43, 44, 46, 48]
 ```
 
-2026-10-18 21 → 2026-10-29 46（+25）
+2026-10-18 21 → 2026-10-30 48（+27）
 
 
 ---

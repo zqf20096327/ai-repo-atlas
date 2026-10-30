@@ -1,6 +1,6 @@
 # vixl-ai/vixl
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vixl-ai/vixl) · [官网](https://vixl.app/) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vixl-ai/vixl) · [官网](https://vixl.app/) · 组织维护
 
 **本地优先、自带 API key 的桌面编程 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vixl-ai/vixl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-29 22（+0）
+2026-10-18 22 → 2026-10-30 22（+0）
 
 
 ---

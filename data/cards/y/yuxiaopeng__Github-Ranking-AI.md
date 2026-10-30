@@ -1,6 +1,6 @@
 # yuxiaopeng/Github-Ranking-AI
 
-⭐ 583 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [官网](https://yuxiaopeng.com/Github-Ranking-AI/) · 个人维护 · 中文 README
+⭐ 584 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yuxiaopeng/Github-Ranking-AI) · [官网](https://yuxiaopeng.com/Github-Ranking-AI/) · 个人维护 · 中文 README
 
 **AI 主题 GitHub 仓库星标排名清单，按主题每日自动更新**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuxiaopeng/Github-Ranking-AI 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 574 --> 584
-    line [575, 576, 578, 577, 578, 580, 583, 583]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    y-axis "stars" 574 --> 585
+    line [575, 576, 578, 577, 578, 580, 583, 584]
 ```
 
-2026-10-18 575 → 2026-10-29 583（+8）
+2026-10-18 575 → 2026-10-30 584（+9）
 
 
 ---

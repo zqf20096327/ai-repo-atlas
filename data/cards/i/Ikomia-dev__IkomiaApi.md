@@ -45,12 +45,12 @@ Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab
 ```mermaid
 xychart-beta
     title "Ikomia-dev/IkomiaApi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 246 --> 248
     line [247, 247]
 ```
 
-2026-10-18 247 → 2026-10-29 247（+0）
+2026-10-18 247 → 2026-10-30 247（+0）
 
 
 ---

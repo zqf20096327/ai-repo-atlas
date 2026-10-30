@@ -44,13 +44,13 @@ Packt 出版图书的官方代码仓库，提供全部章节的 Jupyter notebook
 
 ```mermaid
 xychart-beta
-    title "stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29"]
+    title "stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
     y-axis "stars" 734 --> 740
-    line [735, 736, 737, 739]
+    line [735, 736, 737, 739, 739]
 ```
 
-2026-10-18 735 → 2026-10-29 739（+4）
+2026-10-18 735 → 2026-10-30 739（+4）
 
 
 ---

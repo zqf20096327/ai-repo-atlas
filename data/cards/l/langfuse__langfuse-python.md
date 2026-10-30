@@ -1,6 +1,6 @@
 # langfuse/langfuse-python
 
-⭐ 503 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langfuse/langfuse-python) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 506 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langfuse/langfuse-python) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **Langfuse 平台的 Python SDK：LLM 应用追踪与评测接入**
 
@@ -45,12 +45,12 @@ Langfuse 官方 Python SDK，覆盖平台全部功能：基于 OpenTelemetry 的
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-python 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29"]
-    y-axis "stars" 499 --> 504
-    line [501, 500, 502, 501, 503, 503]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
+    y-axis "stars" 499 --> 507
+    line [501, 500, 502, 501, 503, 506]
 ```
 
-2026-10-18 501 → 2026-10-29 503（+2）
+2026-10-18 501 → 2026-10-30 506（+5）
 
 
 ---

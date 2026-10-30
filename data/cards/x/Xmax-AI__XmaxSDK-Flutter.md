@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Flutter
 
-⭐ 40 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Flutter) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 42 · Dart · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Flutter) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **接入 Xmax 实时交互式视频生成云服务的 Flutter SDK**
 
@@ -46,12 +46,12 @@ Xmax 官方提供的 Flutter SDK，供开发者将 Xmax 云端实时视频生成
 ```mermaid
 xychart-beta
     title "Xmax-AI/XmaxSDK-Flutter 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
     y-axis "stars" 38 --> 58
-    line [54, 57, 39, 40, 40]
+    line [54, 57, 39, 40, 42]
 ```
 
-2026-10-19 54 → 2026-10-29 40（-14）
+2026-10-19 54 → 2026-10-30 42（-12）
 
 
 ---

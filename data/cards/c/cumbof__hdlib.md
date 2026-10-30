@@ -45,12 +45,12 @@ hdlib 是用于设计 Vector-Symbolic Architectures（VSA，又称超维计算�
 ```mermaid
 xychart-beta
     title "cumbof/hdlib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-29 44（+0）
+2026-10-18 44 → 2026-10-30 44（+0）
 
 
 ---

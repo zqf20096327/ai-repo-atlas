@@ -1,6 +1,6 @@
 # rekursiv-ai/configgle
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rekursiv-ai/configgle) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rekursiv-ai/configgle) · [官网](https://rekursiv.ai) · 组织维护
 
 **面向 ML 实验的类型安全分层配置库（dataclass 工厂+依赖注入）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rekursiv-ai/configgle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-29 19（+0）
+2026-10-18 19 → 2026-10-30 19（+0）
 
 
 ---

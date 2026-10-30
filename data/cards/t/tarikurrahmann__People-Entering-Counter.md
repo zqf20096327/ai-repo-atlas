@@ -40,6 +40,18 @@
 > L25: `people_entering_counter` tracks individuals crossing a virtual boundary line and computes live IN and OUT tallies 
 > L42: - Ultralytics YOLOv8
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tarikurrahmann/People-Entering-Counter 星数(近 2 点)"
+    x-axis ["2026-10-29", "2026-10-30"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-29 17 → 2026-10-30 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `94ec85a53026` · [字段定义](../../DATASET.md)*

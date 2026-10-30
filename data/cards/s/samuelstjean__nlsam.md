@@ -46,12 +46,12 @@ Non Local Spatial and Angular Matching (NLSAM) 去噪算法的参考实现，面
 ```mermaid
 xychart-beta
     title "samuelstjean/nlsam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-29 25（+0）
+2026-10-18 25 → 2026-10-30 25（+0）
 
 
 ---

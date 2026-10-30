@@ -1,6 +1,6 @@
 # ml-energy/zeus
 
-⭐ 384 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ml-energy/zeus) · [官网](https://ml.energy/zeus) · 组织维护
+⭐ 385 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ml-energy/zeus) · [官网](https://ml.energy/zeus) · 组织维护
 
 **深度学习工作负载的能耗测量与优化库**
 
@@ -44,13 +44,13 @@ Zeus 是一个 Python 库（含 zeusd Rust 守护进程），用于测量与优�
 
 ```mermaid
 xychart-beta
-    title "ml-energy/zeus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29"]
-    y-axis "stars" 379 --> 385
-    line [380, 381, 383, 384]
+    title "ml-energy/zeus 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 379 --> 386
+    line [380, 381, 383, 384, 385]
 ```
 
-2026-10-18 380 → 2026-10-29 384（+4）
+2026-10-18 380 → 2026-10-30 385（+5）
 
 
 ---

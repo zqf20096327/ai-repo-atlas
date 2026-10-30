@@ -45,12 +45,12 @@ DeepSeek Harness 的非官方社区 fork，保留上游插件架构与真实 age
 ```mermaid
 xychart-beta
     title "xinyuquan985-coder/deepseek-harness-neon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
+    x-axis ["2026-10-18", "2026-10-30"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-29 17（+0）
+2026-10-18 17 → 2026-10-30 17（+0）
 
 
 ---

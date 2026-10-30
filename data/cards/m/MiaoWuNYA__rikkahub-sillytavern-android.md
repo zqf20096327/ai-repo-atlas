@@ -1,6 +1,6 @@
 # MiaoWuNYA/rikkahub-sillytavern-android
 
-⭐ 144 · Kotlin · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) · [官网](https://rikkahub.luoca.cn) · 个人维护 · 中文 README
+⭐ 146 · Kotlin · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) · [官网](https://rikkahub.luoca.cn) · 个人维护 · 中文 README
 
 **安卓 AI 聊天客户端，深度兼容 SillyTavern 卡片与预设**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiaoWuNYA/rikkahub-sillytavern-android 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 98 --> 148
-    line [102, 113, 121, 128, 130, 134, 136, 137, 139, 144]
+    title "MiaoWuNYA/rikkahub-sillytavern-android 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 98 --> 150
+    line [102, 113, 121, 128, 130, 134, 136, 137, 139, 144, 146]
 ```
 
-2026-10-18 102 → 2026-10-29 144（+42）
+2026-10-18 102 → 2026-10-30 146（+44）
 
 
 ---

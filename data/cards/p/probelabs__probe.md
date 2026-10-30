@@ -1,6 +1,6 @@
 # probelabs/probe
 
-⭐ 734 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/probelabs/probe) · [官网](https://probelabs.com/probe) · 组织维护
+⭐ 735 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/probelabs/probe) · [官网](https://probelabs.com/probe) · 组织维护
 
 **面向 AI 编程助手的语义代码搜索引擎与上下文引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "probelabs/probe 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29"]
-    y-axis "stars" 727 --> 735
-    line [728, 730, 732, 731, 733, 734]
+    title "probelabs/probe 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    y-axis "stars" 727 --> 736
+    line [728, 730, 732, 731, 733, 734, 735]
 ```
 
-2026-10-18 728 → 2026-10-29 734（+6）
+2026-10-18 728 → 2026-10-30 735（+7）
 
 
 ---

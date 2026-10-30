@@ -1,6 +1,6 @@
 # reid41/QA-Pilot
 
-⭐ 330 · Svelte · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/reid41/QA-Pilot) · 个人维护 · 中文 README
+⭐ 329 · Svelte · Apache-2.0 · 推送 2026-09-14 · [GitHub](https://github.com/reid41/QA-Pilot) · 个人维护 · 中文 README
 
 **基于在线/本地 LLM 的 GitHub 代码库问答聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "reid41/QA-Pilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-29"]
-    y-axis "stars" 329 --> 331
-    line [330, 330]
+    x-axis ["2026-10-18", "2026-10-30"]
+    y-axis "stars" 328 --> 331
+    line [330, 329]
 ```
 
-2026-10-18 330 → 2026-10-29 330（+0）
+2026-10-18 330 → 2026-10-30 329（-1）
 
 
 ---
