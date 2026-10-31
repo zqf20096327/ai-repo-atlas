@@ -33,7 +33,7 @@ TypeScript 编写的 OpenClaw 渠道插件，把 OpenClaw 代理接入 SeaTalk �
 
 ## 场景标签
 
- · 领域:消息平台/Agent 集成
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 

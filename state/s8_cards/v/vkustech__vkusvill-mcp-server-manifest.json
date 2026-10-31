@@ -1,1 +1,74 @@
-{"fn": "vkustech/vkusvill-mcp-server-manifest", "sha": "2ff0f5cdcb15", "source": "readme", "identity": {"one_liner": "ВкусВилл 官方购物 MCP 服务器，供 AI 助手代选代购食品", "review": "俄罗斯食品零售商 ВкусВилл 官方发布的托管 MCP 服务器，终端地址 mcp.vkusvill.ru/mcp，用户将其接入 AI 助手后可委派 AI 搜索商品、查看详情/成分/КБЖУ、找类似商品与折扣、查门店与食谱、创建购物车链接等。1.0 版引入 OAuth 2.0 + PKCE 授权，使搜索基于用户个性化目录，并支持订单历史、个人折扣、refresh token 与更高速率限制。作为远程托管服务提供，README 未给出本地安装方式。", "highlights": ["托管的官方 MCP 服务器，含商品搜索、详情、购物车链接等 13+ 个工具", "1.0 版支持 OAuth 2.0 + PKCE 授权与个性化目录搜索", "商品响应含成分、КБЖУ、类别分面与门店信息", "订单历史与个人折扣工具（需授权）"], "use_cases": ["让 AI 助手代替我在 ВкусВилл 挑选和下单食品", "授权后按个人目录与折扣做购物决策", "按条码或类别检索商品并生成购物车链接"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://mcp.vkusvill.ru/mcp", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "电商/食品零售", "AI助手工具接入", "托管服务"], "domain": "电商/食品零售", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L4: Это официальный MCP-сервер ВкусВилла. Подключите его своему ИИ-помощнику, чтобы делегировать ему выбор и заказ продуктов", "L2: ### https://mcp.vkusvill.ru/mcp"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "vkustech/vkusvill-mcp-server-manifest",
+ "sha": "2ff0f5cdcb15",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ВкусВилл 官方购物 MCP 服务器，供 AI 助手代选代购食品",
+  "review": "俄罗斯食品零售商 ВкусВилл 官方发布的托管 MCP 服务器，终端地址 mcp.vkusvill.ru/mcp，用户将其接入 AI 助手后可委派 AI 搜索商品、查看详情/成分/КБЖУ、找类似商品与折扣、查门店与食谱、创建购物车链接等。1.0 版引入 OAuth 2.0 + PKCE 授权，使搜索基于用户个性化目录，并支持订单历史、个人折扣、refresh token 与更高速率限制。作为远程托管服务提供，README 未给出本地安装方式。",
+  "highlights": [
+   "托管的官方 MCP 服务器，含商品搜索、详情、购物车链接等 13+ 个工具",
+   "1.0 版支持 OAuth 2.0 + PKCE 授权与个性化目录搜索",
+   "商品响应含成分、КБЖУ、类别分面与门店信息",
+   "订单历史与个人折扣工具（需授权）"
+  ],
+  "use_cases": [
+   "让 AI 助手代替我在 ВкусВилл 挑选和下单食品",
+   "授权后按个人目录与折扣做购物决策",
+   "按条码或类别检索商品并生成购物车链接"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://mcp.vkusvill.ru/mcp",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "电商/食品零售",
+   "AI助手工具接入",
+   "托管服务"
+  ],
+  "domain": "电商/食品零售",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L4: Это официальный MCP-сервер ВкусВилла. Подключите его своему ИИ-помощнику, чтобы делегировать ему выбор и заказ продуктов",
+   "L2: ### https://mcp.vkusvill.ru/mcp"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

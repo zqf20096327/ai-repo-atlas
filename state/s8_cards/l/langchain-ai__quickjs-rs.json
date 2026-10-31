@@ -1,1 +1,76 @@
-{"fn": "langchain-ai/quickjs-rs", "sha": "a97b9cc5bca8", "source": "readme", "identity": {"one_liner": "在 WebAssembly 沙箱中执行 JavaScript 的 Python 库", "review": "纯 Python 包，将 quickjs-ng 经 rquickjs 编译为 wasm32-wasip1，由 wasmtime 驱动，在 WebAssembly 线性内存沙箱内执行不可信 JS：引擎无法访问宿主指针。支持宿主 loader 回调解析 ES 模块、OXC 转换剥离内联 TypeScript、整堆快照保存/恢复、内存上限与超时中断等资源限制。单一通用 wheel，唯一运行时依赖 wasmtime，需 Python 3.11+。README 自声明为实验性，投产前需阅读安全指南。", "highlights": ["quickjs-ng 编译为 wasm 由 wasmtime 驱动，沙箱内执行不可信 JS", "宿主 loader 回调解析 ES 模块，normalize 返回 None 拒绝加载", "TypeScript 类型剥离（OXC 转换 .wasm），无类型检查", "整堆快照与恢复（含 build_id 校验）、内存上限与超时中断"], "use_cases": ["在 Python 服务中安全执行不可信 JavaScript 代码", "为 agent/工具调用提供隔离的 JS 运行环境", "需要快照/恢复 JS 执行状态的场景"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [8]}}, "links": {"scenario_tags": ["代码沙箱", "JavaScript运行时", "WebAssembly", "Python库"], "domain": "开发工具/沙箱运行时", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: Sandboxed JavaScript execution for Python.", "L5: JS runs inside a WebAssembly sandbox: quickjs-ng (a QuickJS fork) via rquickjs is compiled to `wasm32-wasip1` and driven"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "langchain-ai/quickjs-rs",
+ "sha": "a97b9cc5bca8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "在 WebAssembly 沙箱中执行 JavaScript 的 Python 库",
+  "review": "纯 Python 包，将 quickjs-ng 经 rquickjs 编译为 wasm32-wasip1，由 wasmtime 驱动，在 WebAssembly 线性内存沙箱内执行不可信 JS：引擎无法访问宿主指针。支持宿主 loader 回调解析 ES 模块、OXC 转换剥离内联 TypeScript、整堆快照保存/恢复、内存上限与超时中断等资源限制。单一通用 wheel，唯一运行时依赖 wasmtime，需 Python 3.11+。README 自声明为实验性，投产前需阅读安全指南。",
+  "highlights": [
+   "quickjs-ng 编译为 wasm 由 wasmtime 驱动，沙箱内执行不可信 JS",
+   "宿主 loader 回调解析 ES 模块，normalize 返回 None 拒绝加载",
+   "TypeScript 类型剥离（OXC 转换 .wasm），无类型检查",
+   "整堆快照与恢复（含 build_id 校验）、内存上限与超时中断"
+  ],
+  "use_cases": [
+   "在 Python 服务中安全执行不可信 JavaScript 代码",
+   "为 agent/工具调用提供隔离的 JS 运行环境",
+   "需要快照/恢复 JS 执行状态的场景"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    8
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "代码沙箱",
+   "JavaScript运行时",
+   "WebAssembly",
+   "Python库"
+  ],
+  "domain": "开发工具/沙箱运行时",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: Sandboxed JavaScript execution for Python.",
+   "L5: JS runs inside a WebAssembly sandbox: quickjs-ng (a QuickJS fork) via rquickjs is compiled to `wasm32-wasip1` and driven"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

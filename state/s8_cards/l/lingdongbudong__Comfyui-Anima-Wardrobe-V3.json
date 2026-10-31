@@ -1,1 +1,81 @@
-{"fn": "lingdongbudong/Comfyui-Anima-Wardrobe-V3", "sha": "48a6552765f5", "source": "readme", "identity": {"one_liner": "ComfyUI 节点：ANIMA3 提示词随机生成器，五级 NSFW 闸门", "review": "面向 ComfyUI 用户与 ANIMA3 出图工作流的自定义节点插件：从内置词库（987 词条）与角色库（2383 位女性角色、288 个 IP）随机组合完整提示词正文，STRING 直出可复现、可批量。核心机制为 0–4 五级 NSFW 档位闸门（候选池先按档位收敛、抽完体检回滚）与段/字段/选项三层权重（0=关闭，3.0=必现）。另提供分级审查、拼接、检查修复三个辅助节点。纯 Python + 原生 JS，零第三方依赖，git clone 到 custom_nodes 即装。词库含成人内容，限 18 岁以上，默认 SFW 档。", "highlights": ["五级 NSFW 档位闸门：低档先从候选池排除，抽完超档回滚", "三层权重体系：段 / 字段 / 选项，0=关闭、3.0=必现", "2383 位女性角色库（288 个 IP），支持角色选择 / 随机池 / 巨乳开关", "零第三方依赖，纯本地运行，STRING 输出可复现可批量"], "use_cases": ["ANIMA3 出图工作流中自动生成随机提示词", "按 NSFW 档位控制生成内容的露骨程度", "指定作品 IP 或角色批量出图"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI节点", "提示词生成", "stable diffusion", "NSFW分级", "角色库"], "domain": "AI 图像生成/ComfyUI 插件", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "界面中文（locales/zh，en 目录也放中文）", "角色中文名一律简体（zhconv 转换）"]}, "trust": {"confidence": "high", "evidence": ["L8: > ANIMA3 提示词随机生成插件 —— 按五级 NSFW 档位随机组合一段完整正文，", "L72: |`AnimaV3RandomPrompt` **Anima 提示词随机生成（V3）**|AnimaWardrobeV3|`nsfw_level` 档位 `seed` -1=每次重抽 `tag_cap` 标签数上限 `base_prob` "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lingdongbudong/Comfyui-Anima-Wardrobe-V3",
+ "sha": "48a6552765f5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "ComfyUI 节点：ANIMA3 提示词随机生成器，五级 NSFW 闸门",
+  "review": "面向 ComfyUI 用户与 ANIMA3 出图工作流的自定义节点插件：从内置词库（987 词条）与角色库（2383 位女性角色、288 个 IP）随机组合完整提示词正文，STRING 直出可复现、可批量。核心机制为 0–4 五级 NSFW 档位闸门（候选池先按档位收敛、抽完体检回滚）与段/字段/选项三层权重（0=关闭，3.0=必现）。另提供分级审查、拼接、检查修复三个辅助节点。纯 Python + 原生 JS，零第三方依赖，git clone 到 custom_nodes 即装。词库含成人内容，限 18 岁以上，默认 SFW 档。",
+  "highlights": [
+   "五级 NSFW 档位闸门：低档先从候选池排除，抽完超档回滚",
+   "三层权重体系：段 / 字段 / 选项，0=关闭、3.0=必现",
+   "2383 位女性角色库（288 个 IP），支持角色选择 / 随机池 / 巨乳开关",
+   "零第三方依赖，纯本地运行，STRING 输出可复现可批量"
+  ],
+  "use_cases": [
+   "ANIMA3 出图工作流中自动生成随机提示词",
+   "按 NSFW 档位控制生成内容的露骨程度",
+   "指定作品 IP 或角色批量出图"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI节点",
+   "提示词生成",
+   "stable diffusion",
+   "NSFW分级",
+   "角色库"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "界面中文（locales/zh，en 目录也放中文）",
+   "角色中文名一律简体（zhconv 转换）"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L8: > ANIMA3 提示词随机生成插件 —— 按五级 NSFW 档位随机组合一段完整正文，",
+   "L72: |`AnimaV3RandomPrompt` **Anima 提示词随机生成（V3）**|AnimaWardrobeV3|`nsfw_level` 档位 `seed` -1=每次重抽 `tag_cap` 标签数上限 `base_prob` "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

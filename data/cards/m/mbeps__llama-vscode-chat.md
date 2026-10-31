@@ -32,7 +32,7 @@ TypeScript 编写的 VS Code 扩展，作为 Llama.cpp provider 接入 VS Code �
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 接入
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 

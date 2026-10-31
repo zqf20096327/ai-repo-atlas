@@ -33,7 +33,7 @@ TrustStrike Labs 维护的故意脆弱的 MCP 服务器集合，按 OWASP MCP To
 
 ## 场景标签
 
- · 领域:AI 安全/靶场
+`网络安全` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 

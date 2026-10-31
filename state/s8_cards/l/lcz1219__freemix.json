@@ -1,1 +1,83 @@
-{"fn": "lcz1219/freemix", "sha": "3035df7639fe", "source": "readme", "identity": {"one_liner": "带 AI 助手的全栈目标管理应用，覆盖 Web/桌面/移动端", "review": "全栈目标管理系统：后端 Java/Spring Boot + MongoDB + Redis，前端 Vue 3，通过 Electron 与 Capacitor 打包为桌面（macOS/Windows/Linux）和移动端（iOS/Android）应用。功能包括树形目标 CRUD、循环目标（Cron 定时）、协作分享、好友私信、成就系统、LogicFlow 目标结构图与数据可视化。AI 部分基于 DeepSeek API：流式对话、自然语言生成结构化目标、AI 晨报与数据洞察。本地运行需 JDK 17、MongoDB、Redis。", "highlights": ["Web/Electron 桌面端/Capacitor 移动端三端发布", "基于 DeepSeek 的 AI 目标生成与流式对话、AI 晨报、智能洞察", "循环目标支持 Cron 表达式与子目标模板", "数据导出支持 CSV/Excel/JSON/XML/SQL/DMP 六种格式"], "use_cases": ["个人或团队管理目标并追踪进度", "用自然语言让 AI 自动生成结构化目标", "通过目标广场、评论与站内私信与他人协作"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["目标管理", "效率工具", "全栈应用", "AI助手", "跨平台桌面应用"], "domain": "效率/目标管理", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "QQ OAuth2 登录"]}, "trust": {"confidence": "high", "evidence": ["L7: 核心思路是帮助个人或团队管理目标、追踪进度，并提供 AI 辅助来提高效率。除了常规的目标 CRUD 和子任务管理外，还内置了数据可视化、循环任务、协作分享、成就系统等功能。", "L52: ### AI 助手", "L53: - 基于 DeepSeek 的流式对话"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "lcz1219/freemix",
+ "sha": "3035df7639fe",
+ "source": "readme",
+ "identity": {
+  "one_liner": "带 AI 助手的全栈目标管理应用，覆盖 Web/桌面/移动端",
+  "review": "全栈目标管理系统：后端 Java/Spring Boot + MongoDB + Redis，前端 Vue 3，通过 Electron 与 Capacitor 打包为桌面（macOS/Windows/Linux）和移动端（iOS/Android）应用。功能包括树形目标 CRUD、循环目标（Cron 定时）、协作分享、好友私信、成就系统、LogicFlow 目标结构图与数据可视化。AI 部分基于 DeepSeek API：流式对话、自然语言生成结构化目标、AI 晨报与数据洞察。本地运行需 JDK 17、MongoDB、Redis。",
+  "highlights": [
+   "Web/Electron 桌面端/Capacitor 移动端三端发布",
+   "基于 DeepSeek 的 AI 目标生成与流式对话、AI 晨报、智能洞察",
+   "循环目标支持 Cron 表达式与子目标模板",
+   "数据导出支持 CSV/Excel/JSON/XML/SQL/DMP 六种格式"
+  ],
+  "use_cases": [
+   "个人或团队管理目标并追踪进度",
+   "用自然语言让 AI 自动生成结构化目标",
+   "通过目标广场、评论与站内私信与他人协作"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "目标管理",
+   "效率工具",
+   "全栈应用",
+   "AI助手",
+   "跨平台桌面应用"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ OAuth2 登录"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: 核心思路是帮助个人或团队管理目标、追踪进度，并提供 AI 辅助来提高效率。除了常规的目标 CRUD 和子任务管理外，还内置了数据可视化、循环任务、协作分享、成就系统等功能。",
+   "L52: ### AI 助手",
+   "L53: - 基于 DeepSeek 的流式对话"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

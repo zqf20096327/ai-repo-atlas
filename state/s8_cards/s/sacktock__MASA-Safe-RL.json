@@ -1,1 +1,79 @@
-{"fn": "sacktock/MASA-Safe-RL", "sha": "700fe4c386d2", "source": "readme", "identity": {"one_liner": "安全强化学习研究库：统一约束与环境接口", "review": "面向多智能体与单智能体安全强化学习（Safe RL）研究的 Python 库，基于 Gymnasium 接口构建，覆盖 CMDP、概率约束、Reach-Avoid 与 LTL-Safety（DFA）等属性，并依赖 JAX 提供 GPU 加速。当前提供一组表格型安全 RL 算法，以及模块化可复用的算法与约束开发框架，附带 CLI（如 masa run）与示例。处于早期开发阶段，维护者来自帝国理工学院，Apache 2.0 许可。", "highlights": ["基于 Gymnasium 接口的统一约束与环境 API", "覆盖 CMDP、概率约束、Reach-Avoid、LTL-Safety(DFA)", "预置 CLI 与示例（masa run / masa example）", "JAX GPU 加速支持（CUDA 12/13 可选依赖组）"], "use_cases": ["在统一接口下对比不同约束类型的安全 RL 算法", "开发更复杂的安全 RL 算法与约束形式", "在论文研究中复用并可引用的安全 RL 基准环境"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [9]}}, "links": {"scenario_tags": ["强化学习", "安全约束", "研究库", "多智能体", "JAX"], "domain": "强化学习/AI 研究工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "university", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: Welcome to MASA-Safe-RL, the Multi and Single Agent (MASA) Safe Reinforcement Learning library. The primary goal of this", "L9: The library is in very early stage development and we greatly appreciate and encourage feedback from the community about"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sacktock/MASA-Safe-RL",
+ "sha": "700fe4c386d2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "安全强化学习研究库：统一约束与环境接口",
+  "review": "面向多智能体与单智能体安全强化学习（Safe RL）研究的 Python 库，基于 Gymnasium 接口构建，覆盖 CMDP、概率约束、Reach-Avoid 与 LTL-Safety（DFA）等属性，并依赖 JAX 提供 GPU 加速。当前提供一组表格型安全 RL 算法，以及模块化可复用的算法与约束开发框架，附带 CLI（如 masa run）与示例。处于早期开发阶段，维护者来自帝国理工学院，Apache 2.0 许可。",
+  "highlights": [
+   "基于 Gymnasium 接口的统一约束与环境 API",
+   "覆盖 CMDP、概率约束、Reach-Avoid、LTL-Safety(DFA)",
+   "预置 CLI 与示例（masa run / masa example）",
+   "JAX GPU 加速支持（CUDA 12/13 可选依赖组）"
+  ],
+  "use_cases": [
+   "在统一接口下对比不同约束类型的安全 RL 算法",
+   "开发更复杂的安全 RL 算法与约束形式",
+   "在论文研究中复用并可引用的安全 RL 基准环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "强化学习",
+   "安全约束",
+   "研究库",
+   "多智能体",
+   "JAX"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "university",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: Welcome to MASA-Safe-RL, the Multi and Single Agent (MASA) Safe Reinforcement Learning library. The primary goal of this",
+   "L9: The library is in very early stage development and we greatly appreciate and encourage feedback from the community about"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -33,7 +33,7 @@ LangChain 官方示例项目：用 LangGraph 构建的虚构健身房客服智�
 
 ## 场景标签
 
- · 领域:LLM 应用/语音智能体示例
+`多智能体` `语音 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

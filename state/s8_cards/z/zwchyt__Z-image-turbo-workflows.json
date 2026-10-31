@@ -1,1 +1,79 @@
-{"fn": "zwchyt/Z-image-turbo-workflows", "sha": "3d9b897299cd", "source": "readme", "identity": {"one_liner": "Z-Image-Turbo 文生图 ComfyUI 工作流配置与安装指南", "review": "面向 ComfyUI 用户的 Z-Image-Turbo 文生图工作流仓库：提供 z-image.json 工作流文件，配套说明 UNet/CLIP(Qwen3-4B)/VAE 三类模型的手动放置路径与 Hugging Face 下载链接，列举 Efficiency Nodes、Easy-Use 等可选插件节点包及其 git clone 或 ComfyUI-Manager 安装方式。工作流支持图片反推中文提示词、生成结果保存至 output 目录，并附注意力加速（flash-attn2 等）、LoRA、缓存加速推荐与预设采样参数（4-8 步、CFG 1）。", "highlights": ["提供 z-image.json 可拖入 ComfyUI 的完整工作流", "列出 UNet/CLIP/VAE 模型放置路径与下载链接", "含 7 个可选插件节点包及两种安装方式说明", "附注意力加速、LoRA 与缓存加速推荐及预设参数"], "use_cases": ["在 ComfyUI 中跑通 Z-Image-Turbo 文生图", "上传人像图反推中文提示词再生成图片", "按清单准备模型与插件环境"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["ComfyUI工作流", "文生图", "Z-Image-Turbo", "图像生成"], "domain": "图像生成/工作流配置", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "插件推荐中提及百度、智谱提示词反推（L22）"]}, "trust": {"confidence": "mid", "evidence": ["L29: 1. 将本仓库中的 `z-image.json` 拖入 ComfyUI 界面", "L7: |UNet模型加载器|`z_image_turbo_bf16.safetensors/z-image-turbo-fp8-e4m3fn.safetensors`|`ComfyUI\\models\\diffusion_models\\`|http"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "zwchyt/Z-image-turbo-workflows",
+ "sha": "3d9b897299cd",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Z-Image-Turbo 文生图 ComfyUI 工作流配置与安装指南",
+  "review": "面向 ComfyUI 用户的 Z-Image-Turbo 文生图工作流仓库：提供 z-image.json 工作流文件，配套说明 UNet/CLIP(Qwen3-4B)/VAE 三类模型的手动放置路径与 Hugging Face 下载链接，列举 Efficiency Nodes、Easy-Use 等可选插件节点包及其 git clone 或 ComfyUI-Manager 安装方式。工作流支持图片反推中文提示词、生成结果保存至 output 目录，并附注意力加速（flash-attn2 等）、LoRA、缓存加速推荐与预设采样参数（4-8 步、CFG 1）。",
+  "highlights": [
+   "提供 z-image.json 可拖入 ComfyUI 的完整工作流",
+   "列出 UNet/CLIP/VAE 模型放置路径与下载链接",
+   "含 7 个可选插件节点包及两种安装方式说明",
+   "附注意力加速、LoRA 与缓存加速推荐及预设参数"
+  ],
+  "use_cases": [
+   "在 ComfyUI 中跑通 Z-Image-Turbo 文生图",
+   "上传人像图反推中文提示词再生成图片",
+   "按清单准备模型与插件环境"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "ComfyUI工作流",
+   "文生图",
+   "Z-Image-Turbo",
+   "图像生成"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "image-generation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "插件推荐中提及百度、智谱提示词反推（L22）"
+  ]
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L29: 1. 将本仓库中的 `z-image.json` 拖入 ComfyUI 界面",
+   "L7: |UNet模型加载器|`z_image_turbo_bf16.safetensors/z-image-turbo-fp8-e4m3fn.safetensors`|`ComfyUI\\models\\diffusion_models\\`|http"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

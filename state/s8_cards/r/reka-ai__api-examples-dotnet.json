@@ -1,1 +1,76 @@
-{"fn": "reka-ai/api-examples-dotnet", "sha": "5c549ef3062d", "source": "readme", "identity": {"one_liner": "Reka API 的 .NET (C#) 示例集合：教学如何接入 Research/Vision", "review": "Reka 官方维护的 C#/.NET 示例仓库，演示通过原生 HTTP 请求与 OpenAI 兼容 SDK 调用 Reka Research 与 Reka Vision，涵盖带引用来源的逐步推理 agent、response_format 结构化输出、web_search 域名范围控制，以及跨视频检索分析。示例包括 C# 10 脚本三用法、餐厅深搜、技术活动检索与视频分析四个工程，另有 Python 与 TypeScript 版本仓库。面向学习集成 Reka API 的 .NET 开发者。", "highlights": ["原生 HTTP 与 OpenAI 兼容 SDK 两种调用方式示例", "response_format 结构化输出与 web_search 域名控制示例", "覆盖 Reka Research（带引用推理）与 Reka Vision（视频分析）"], "use_cases": ["学习在 .NET 中接入 Reka Research/Vision API", "参考带引用来源的搜索 agent 与结构化输出实现", "基于示例改造视频分析或研究类应用"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["API示例", "dotnet/C#", "LLM应用开发", "教程"], "domain": "LLM 应用开发/示例代码", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L1: # Reka API Examples with .NET C#", "L7: This repository showcases how to use **Reka Research** and **Reka Vision** to build intelligent apps that can search the", "L14: ## 📚 What's in this repo"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "reka-ai/api-examples-dotnet",
+ "sha": "5c549ef3062d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Reka API 的 .NET (C#) 示例集合：教学如何接入 Research/Vision",
+  "review": "Reka 官方维护的 C#/.NET 示例仓库，演示通过原生 HTTP 请求与 OpenAI 兼容 SDK 调用 Reka Research 与 Reka Vision，涵盖带引用来源的逐步推理 agent、response_format 结构化输出、web_search 域名范围控制，以及跨视频检索分析。示例包括 C# 10 脚本三用法、餐厅深搜、技术活动检索与视频分析四个工程，另有 Python 与 TypeScript 版本仓库。面向学习集成 Reka API 的 .NET 开发者。",
+  "highlights": [
+   "原生 HTTP 与 OpenAI 兼容 SDK 两种调用方式示例",
+   "response_format 结构化输出与 web_search 域名控制示例",
+   "覆盖 Reka Research（带引用推理）与 Reka Vision（视频分析）"
+  ],
+  "use_cases": [
+   "学习在 .NET 中接入 Reka Research/Vision API",
+   "参考带引用来源的搜索 agent 与结构化输出实现",
+   "基于示例改造视频分析或研究类应用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "API示例",
+   "dotnet/C#",
+   "LLM应用开发",
+   "教程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L1: # Reka API Examples with .NET C#",
+   "L7: This repository showcases how to use **Reka Research** and **Reka Vision** to build intelligent apps that can search the",
+   "L14: ## 📚 What's in this repo"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

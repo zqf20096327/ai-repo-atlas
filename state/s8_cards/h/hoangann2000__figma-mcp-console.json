@@ -1,1 +1,78 @@
-{"fn": "hoangann2000/figma-mcp-console", "sha": "cbeac866ea70", "source": "readme", "identity": {"one_liner": "让 AI 助手通过 MCP 实时读写 Figma 的本地服务器", "review": "MCP 服务器，通过本地桥接（端口 2000）与 Figma Desktop 开发插件通信，使 AI 客户端无需 Figma API token 即可读写设计文件。功能包括：按 Figma 链接实现界面并导出图标/图片到代码项目、按需求描述在 Figma 中绘制界面并截图自检、设计 token 同步、批量图层编辑。支持 Claude、Cursor、Copilot、Codex 等 MCP 客户端，通过 npx 运行，需 Node.js 18+、Figma Desktop 与手动导入插件。多个 Figma 文件与多个项目会话可共享同一本地桥。", "highlights": ["免 Figma API token、无速率限制的本地桥接架构", "Figma→Code 按链接实现界面并导出真实图标与图片", "Requirement→Figma 按需求绘制界面并截图自检修正", "单桥多文件/多项目：通过 file 参数跨文件操作"], "use_cases": ["把 Figma 设计稿交给 AI 在代码项目中实现", "让 AI 根据需求描述直接在 Figma 里画界面", "在 Figma 与代码之间同步设计 token / 设计系统"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP", "Figma", "设计转代码", "AI编程工具集成", "前端开发"], "domain": "开发工具/设计-代码集成", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: > **Let your AI assistant design in Figma — no API token, no rate limits.**", "L12: - 🖥️ **Figma → Code** — paste a link to a Figma frame, and the AI implements that exact screen in your codebase, exporti", "L119: Standard MCP stdio transport — any client works. Set the command to `npx` with args `[\"-y\", \"figma-mcp-console@latest\"]`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-10-31", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "hoangann2000/figma-mcp-console",
+ "sha": "cbeac866ea70",
+ "source": "readme",
+ "identity": {
+  "one_liner": "让 AI 助手通过 MCP 实时读写 Figma 的本地服务器",
+  "review": "MCP 服务器，通过本地桥接（端口 2000）与 Figma Desktop 开发插件通信，使 AI 客户端无需 Figma API token 即可读写设计文件。功能包括：按 Figma 链接实现界面并导出图标/图片到代码项目、按需求描述在 Figma 中绘制界面并截图自检、设计 token 同步、批量图层编辑。支持 Claude、Cursor、Copilot、Codex 等 MCP 客户端，通过 npx 运行，需 Node.js 18+、Figma Desktop 与手动导入插件。多个 Figma 文件与多个项目会话可共享同一本地桥。",
+  "highlights": [
+   "免 Figma API token、无速率限制的本地桥接架构",
+   "Figma→Code 按链接实现界面并导出真实图标与图片",
+   "Requirement→Figma 按需求绘制界面并截图自检修正",
+   "单桥多文件/多项目：通过 file 参数跨文件操作"
+  ],
+  "use_cases": [
+   "把 Figma 设计稿交给 AI 在代码项目中实现",
+   "让 AI 根据需求描述直接在 Figma 里画界面",
+   "在 Figma 与代码之间同步设计 token / 设计系统"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP",
+   "Figma",
+   "设计转代码",
+   "AI编程工具集成",
+   "前端开发"
+  ],
+  "domain": "开发工具/设计-代码集成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: > **Let your AI assistant design in Figma — no API token, no rate limits.**",
+   "L12: - 🖥️ **Figma → Code** — paste a link to a Figma frame, and the AI implements that exact screen in your codebase, exporti",
+   "L119: Standard MCP stdio transport — any client works. Set the command to `npx` with args `[\"-y\", \"figma-mcp-console@latest\"]`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-10-31",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

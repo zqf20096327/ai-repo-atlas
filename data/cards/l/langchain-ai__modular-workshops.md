@@ -33,7 +33,7 @@ LangChain 官方团队维护的动手教程仓库，是 LangChain Academy 的精
 
 ## 场景标签
 
- · 领域:LLM 应用开发教程
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
