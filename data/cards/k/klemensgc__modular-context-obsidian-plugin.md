@@ -1,6 +1,6 @@
 # klemensgc/modular-context-obsidian-plugin
 
-⭐ 99 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/klemensgc/modular-context-obsidian-plugin) · 个人维护
+⭐ 100 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/klemensgc/modular-context-obsidian-plugin) · 个人维护
 
 **Obsidian 插件：把 vault 变成 LLM 知识库并暴露 25 个 Google Workspace MCP 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "klemensgc/modular-context-obsidian-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-18 99 → 2026-10-30 99（+0）
+2026-10-18 99 → 2026-10-31 100（+1）
 
 
 ---

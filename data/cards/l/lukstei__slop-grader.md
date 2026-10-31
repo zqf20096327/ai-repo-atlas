@@ -1,6 +1,6 @@
 # lukstei/slop-grader
 
-⭐ 37 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lukstei/slop-grader) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lukstei/slop-grader) · 个人维护
 
 **用 Jev 概率模型逐行检测 AI 写作套路的文本规则评分 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lukstei/slop-grader 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31"]
     y-axis "stars" 34 --> 38
     line [35, 36, 37, 37]
 ```
 
-2026-10-18 35 → 2026-10-30 37（+2）
+2026-10-18 35 → 2026-10-31 37（+2）
 
 
 ---

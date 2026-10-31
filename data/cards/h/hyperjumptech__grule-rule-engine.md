@@ -1,6 +1,6 @@
 # hyperjumptech/grule-rule-engine
 
-⭐ 2,534 · Go · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/hyperjumptech/grule-rule-engine) · 组织维护
+⭐ 2,533 · Go · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/hyperjumptech/grule-rule-engine) · 组织维护
 
 **Go 语言的规则引擎库：以 DSL 声明业务规则并执行推理**
 
@@ -46,12 +46,12 @@ Grule 是用 Go 编写的规则引擎库，受 JBOSS Drools 启发但更简化�
 ```mermaid
 xychart-beta
     title "hyperjumptech/grule-rule-engine 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
     y-axis "stars" 2530 --> 2535
-    line [2531, 2532, 2533, 2532, 2533, 2534, 2534]
+    line [2531, 2532, 2533, 2532, 2533, 2534, 2533]
 ```
 
-2026-10-18 2,531 → 2026-10-30 2,534（+3）
+2026-10-18 2,531 → 2026-10-31 2,533（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AnotiaWang/awesome-decision-models
 
-⭐ 676 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护 · 中文 README
+⭐ 680 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护 · 中文 README
 
 **决策模型（System One）生态策展清单：API、模型、运行时与论文**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnotiaWang/awesome-decision-models 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 648 --> 678
-    line [650, 655, 657, 659, 660, 662, 665, 666, 667, 672, 676]
+    title "AnotiaWang/awesome-decision-models 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 647 --> 683
+    line [650, 655, 657, 659, 660, 662, 665, 666, 667, 672, 676, 680]
 ```
 
-2026-10-18 650 → 2026-10-30 676（+26）
+2026-10-18 650 → 2026-10-31 680（+30）
 
 
 ---

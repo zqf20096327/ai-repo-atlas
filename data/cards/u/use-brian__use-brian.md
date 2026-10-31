@@ -1,6 +1,6 @@
 # use-brian/use-brian
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
 
 **自托管的公司大脑：为独立创始人与小团队记录与执行工作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "use-brian/use-brian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

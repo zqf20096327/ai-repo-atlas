@@ -1,6 +1,6 @@
 # twsl/whos-there
 
-⭐ 78 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/twsl/whos-there) · [官网](https://twsl.github.io/whos-there/) · 个人维护
+⭐ 78 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/twsl/whos-there) · [官网](https://twsl.github.io/whos-there/) · 个人维护
 
 **PyTorch Lightning 训练通知回调：训练结束或崩溃时推送通知**
 
@@ -44,12 +44,12 @@ knockknock 的后继项目，以单个回调（NotificationCallback）集成到 
 ```mermaid
 xychart-beta
     title "twsl/whos-there 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-30 78（+0）
+2026-10-18 78 → 2026-10-31 78（+0）
 
 
 ---

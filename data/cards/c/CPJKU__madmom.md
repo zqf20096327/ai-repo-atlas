@@ -1,6 +1,6 @@
 # CPJKU/madmom
 
-⭐ 1,733 · Python · NOASSERTION · 推送 2026-03-20 · [GitHub](https://github.com/CPJKU/madmom) · [官网](https://madmom.readthedocs.io) · 组织维护
+⭐ 1,734 · Python · NOASSERTION · 推送 2026-03-20 · [GitHub](https://github.com/CPJKU/madmom) · [官网](https://madmom.readthedocs.io) · 组织维护
 
 **面向音乐信息检索的 Python 音频信号处理库**
 
@@ -45,13 +45,13 @@ Python 编写的音频信号处理库，聚焦音乐信息检索（MIR）任务�
 
 ```mermaid
 xychart-beta
-    title "CPJKU/madmom 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1726 --> 1734
-    line [1727, 1729, 1731, 1732, 1733]
+    title "CPJKU/madmom 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1726 --> 1735
+    line [1727, 1729, 1731, 1732, 1733, 1734]
 ```
 
-2026-10-18 1,727 → 2026-10-30 1,733（+6）
+2026-10-18 1,727 → 2026-10-31 1,734（+7）
 
 
 ---

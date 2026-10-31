@@ -1,6 +1,6 @@
 # prompt-security/RAG_Poisoning_POC
 
-⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/prompt-security/RAG_Poisoning_POC) · [官网](https://prompt.security) · 组织维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/prompt-security/RAG_Poisoning_POC) · [官网](https://prompt.security) · 组织维护
 
 **RAG 语料投毒（间接提示注入）的可复现教学演示 POC**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prompt-security/RAG_Poisoning_POC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-30 36（+0）
+2026-10-18 36 → 2026-10-31 36（+0）
 
 
 ---

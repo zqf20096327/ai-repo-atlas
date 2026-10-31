@@ -1,6 +1,6 @@
 # tommasocarraro/LTNtorch
 
-⭐ 164 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tommasocarraro/LTNtorch) · [官网](https://tommasocarraro.github.io/LTNtorch/) · 个人维护
+⭐ 165 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/tommasocarraro/LTNtorch) · [官网](https://tommasocarraro.github.io/LTNtorch/) · 个人维护
 
 **Logic Tensor Networks 的 PyTorch 实现：用逻辑公理指导神经网络训练**
 
@@ -45,12 +45,12 @@ LTNtorch 是逻辑张量网络（LTN）的 PyTorch 实现。LTN 是神经-符号
 ```mermaid
 xychart-beta
     title "tommasocarraro/LTNtorch 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 162 --> 165
-    line [163, 164, 164]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 162 --> 166
+    line [163, 164, 165]
 ```
 
-2026-10-23 163 → 2026-10-30 164（+1）
+2026-10-23 163 → 2026-10-31 165（+2）
 
 
 ---

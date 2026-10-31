@@ -1,6 +1,6 @@
 # data-privacy-stack/presidio-research
 
-⭐ 318 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/data-privacy-stack/presidio-research) · [官网](https://data-privacy-stack.github.io/presidio-research/) · 组织维护
+⭐ 319 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/data-privacy-stack/presidio-research) · [官网](https://data-privacy-stack.github.io/presidio-research/) · 组织维护
 
 **PII 检测模型的评测与合成数据生成工具包**
 
@@ -45,12 +45,12 @@ Presidio 生态的数据科学配套包（PyPI 包名 presidio-evaluator）：�
 ```mermaid
 xychart-beta
     title "data-privacy-stack/presidio-research 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 317 --> 319
-    line [318, 318]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 317 --> 320
+    line [318, 319]
 ```
 
-2026-10-18 318 → 2026-10-30 318（+0）
+2026-10-18 318 → 2026-10-31 319（+1）
 
 
 ---

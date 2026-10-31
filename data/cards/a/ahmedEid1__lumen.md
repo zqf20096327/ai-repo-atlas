@@ -1,6 +1,6 @@
 # ahmedEid1/lumen
 
-⭐ 91 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/ahmedEid1/lumen) · [官网](https://lumen.ahmedhobeishy.tech) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ahmedEid1/lumen) · [官网](https://github.com/ahmedEid1/lumen/tree/main/docs/demo/2026-10-30) · 个人维护
 
 **面向学习者的 AI 课程生成与 RAG 导师平台（自托管）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ahmedEid1/lumen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 88 --> 92
-    line [89, 90, 91, 91]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 88 --> 93
+    line [89, 90, 91, 92]
 ```
 
-2026-10-18 89 → 2026-10-30 91（+2）
+2026-10-18 89 → 2026-10-31 92（+3）
 
 
 ---

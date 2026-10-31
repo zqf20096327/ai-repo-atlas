@@ -1,6 +1,6 @@
 # splx-ai/agentic-radar
 
-⭐ 1,062 · Python · Apache-2.0 · 推送 2025-11-27 · [GitHub](https://github.com/splx-ai/agentic-radar) · [官网](https://splx.ai) · 组织维护
+⭐ 1,063 · Python · Apache-2.0 · 推送 2025-11-27 · [GitHub](https://github.com/splx-ai/agentic-radar) · [官网](https://splx.ai) · 组织维护
 
 **LLM Agent 工作流安全扫描器：扫描代码生成安全报告**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "splx-ai/agentic-radar 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1057 --> 1063
-    line [1059, 1058, 1059, 1060, 1062]
+    title "splx-ai/agentic-radar 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1057 --> 1064
+    line [1059, 1058, 1059, 1060, 1062, 1063]
 ```
 
-2026-10-18 1,059 → 2026-10-30 1,062（+3）
+2026-10-18 1,059 → 2026-10-31 1,063（+4）
 
 
 ---

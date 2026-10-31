@@ -1,6 +1,6 @@
 # rdh9616/ComfyUI-Open-H3-Regenerate
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rdh9616/ComfyUI-Open-H3-Regenerate) · 个人维护
 
 **ComfyUI 节点包：把低分辨率视频草稿三步重生成至 768P–4K**
 
@@ -39,6 +39,18 @@
 
 > L3: ComfyUI nodes and workflows for NVIDIA's **Open-H3-Regenerate-2K**,
 > L5: a 384P–576P clip from LTX, Wan, SANA-Video…) and regenerates it **natively at 768P, 1080P, 2K or 4K in three diffusi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rdh9616/ComfyUI-Open-H3-Regenerate 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 31
+    line [17, 30]
+```
+
+2026-10-30 17 → 2026-10-31 30（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # fahadshamshad/awesome-transformers-in-medical-imaging
 
-⭐ 1,297 · 推送 2026-06-21 · [GitHub](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) · 组织维护
+⭐ 1,298 · 推送 2026-06-21 · [GitHub](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) · 组织维护
 
 **医学影像 Transformer 论文与代码实现策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fahadshamshad/awesome-transformers-in-medical-imaging 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 1296 --> 1299
-    line [1298, 1297, 1297]
+    line [1298, 1297, 1298]
 ```
 
-2026-10-18 1,298 → 2026-10-30 1,297（-1）
+2026-10-18 1,298 → 2026-10-31 1,298（+0）
 
 
 ---

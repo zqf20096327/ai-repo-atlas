@@ -1,6 +1,6 @@
 # intentee/paddler
 
-⭐ 1,685 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/intentee/paddler) · [官网](https://paddler.intentee.com) · 组织维护
+⭐ 1,685 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/intentee/paddler) · [官网](https://paddler.intentee.com) · 组织维护
 
 **自托管 LLM/VLM 负载均衡与服务平台，内置 llama.cpp 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "intentee/paddler 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "intentee/paddler 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1678 --> 1686
-    line [1679, 1681, 1682, 1684, 1685]
+    line [1679, 1681, 1682, 1684, 1685, 1685]
 ```
 
-2026-10-18 1,679 → 2026-10-30 1,685（+6）
+2026-10-18 1,679 → 2026-10-31 1,685（+6）
 
 
 ---

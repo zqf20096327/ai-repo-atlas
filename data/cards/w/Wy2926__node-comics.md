@@ -1,6 +1,6 @@
 # Wy2926/node-comics
 
-⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Wy2926/node-comics) · [官网](https://comics.nodelane.net/) · 组织维护 · 中文 README
+⭐ 18 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Wy2926/node-comics) · [官网](https://comics.nodelane.net/) · 组织维护 · 中文 README
 
 **带 AI 图片翻译的漫画阅读浏览器插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wy2926/node-comics 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 13, 16, 17]
+    title "Wy2926/node-comics 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 13, 16, 17, 18]
 ```
 
-2026-10-22 11 → 2026-10-30 17（+6）
+2026-10-22 11 → 2026-10-31 18（+7）
 
 
 ---

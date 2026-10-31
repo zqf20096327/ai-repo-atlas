@@ -1,6 +1,6 @@
 # niaka3dayo/agent-skills-vrc-udon
 
-⭐ 341 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护 · 中文 README
+⭐ 341 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护 · 中文 README
 
 **教 AI 编程代理正确生成 UdonSharp 代码的技能与规则知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "niaka3dayo/agent-skills-vrc-udon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 335 --> 342
     line [336, 337, 338, 339, 341, 341]
 ```
 
-2026-10-18 336 → 2026-10-30 341（+5）
+2026-10-18 336 → 2026-10-31 341（+5）
 
 
 ---

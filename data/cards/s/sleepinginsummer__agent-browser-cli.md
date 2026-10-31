@@ -1,6 +1,6 @@
 # sleepinginsummer/agent-browser-cli
 
-⭐ 639 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sleepinginsummer/agent-browser-cli) · [官网](https://www.npmjs.com/package/@sleepinsummer/agent-browser-cli) · 个人维护 · 中文 README
+⭐ 640 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sleepinginsummer/agent-browser-cli) · [官网](https://www.npmjs.com/package/@sleepinsummer/agent-browser-cli) · 个人维护 · 中文 README
 
 **面向 AI Agent 的浏览器感知与控制 CLI，复用 Chrome 登录态**
 
@@ -46,12 +46,12 @@ Rust 实现的命令行工具，通过 Chrome 扩展（tmwd_cdp_bridge）连接�
 ```mermaid
 xychart-beta
     title "sleepinginsummer/agent-browser-cli 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 634 --> 640
-    line [635, 636, 637, 638, 637, 638, 639, 639]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 634 --> 641
+    line [635, 636, 637, 638, 637, 638, 639, 640]
 ```
 
-2026-10-19 635 → 2026-10-30 639（+4）
+2026-10-19 635 → 2026-10-31 640（+5）
 
 
 ---

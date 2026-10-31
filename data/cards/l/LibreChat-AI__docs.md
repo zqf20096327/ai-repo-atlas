@@ -1,6 +1,6 @@
 # LibreChat-AI/docs
 
-⭐ 686 · MDX · MIT · 推送 2026-10-29 · [GitHub](https://github.com/LibreChat-AI/docs) · [官网](https://www.librechat.ai) · 组织维护
+⭐ 685 · MDX · MIT · 推送 2026-10-30 · [GitHub](https://github.com/LibreChat-AI/docs) · [官网](https://www.librechat.ai) · 组织维护
 
 **LibreChat 官方文档站：覆盖安装、配置与版本变更日志**
 
@@ -45,13 +45,13 @@ LibreChat（开源自托管 AI 聊天平台）的官方文档、博客与变更�
 
 ```mermaid
 xychart-beta
-    title "LibreChat-AI/docs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
+    title "LibreChat-AI/docs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 680 --> 688
-    line [681, 682, 684, 685, 686, 687, 686]
+    line [681, 682, 684, 685, 686, 687, 686, 685]
 ```
 
-2026-10-18 681 → 2026-10-30 686（+5）
+2026-10-18 681 → 2026-10-31 685（+4）
 
 
 ---

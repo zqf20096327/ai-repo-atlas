@@ -46,12 +46,12 @@ ACL'24 Findings 论文 Teaching Large Language Models an Unseen Language on the 
 ```mermaid
 xychart-beta
     title "luciusssss/ZhuangBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 30（+0）
 
 
 ---

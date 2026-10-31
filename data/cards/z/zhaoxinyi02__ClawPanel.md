@@ -1,6 +1,6 @@
 # zhaoxinyi02/ClawPanel
 
-⭐ 853 · Go · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/zhaoxinyi02/ClawPanel) · [官网](https://clawpanel.cc) · 个人维护 · 中文 README
+⭐ 855 · Go · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/zhaoxinyi02/ClawPanel) · [官网](https://clawpanel.cc) · 个人维护 · 中文 README
 
 **OpenClaw AI 助手的可视化管理面板：单二进制管理多通道运行时**
 
@@ -46,12 +46,12 @@ Go 单二进制 + React 18 的 Web 管理面板，用于安装、接管与观测
 ```mermaid
 xychart-beta
     title "zhaoxinyi02/ClawPanel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31"]
     y-axis "stars" 852 --> 856
-    line [855, 854, 855, 853, 853]
+    line [855, 854, 855, 853, 855]
 ```
 
-2026-10-18 855 → 2026-10-30 853（-2）
+2026-10-18 855 → 2026-10-31 855（+0）
 
 
 ---

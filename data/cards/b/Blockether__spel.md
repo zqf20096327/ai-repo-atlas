@@ -1,6 +1,6 @@
 # Blockether/spel
 
-⭐ 71 · Clojure · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Blockether/spel) · [官网](https://blockether.github.io/spel/) · 组织维护
+⭐ 71 · Clojure · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Blockether/spel) · [官网](https://blockether.github.io/spel/) · 组织维护
 
 **终端控制真实浏览器的 CLI 工具：自动化、抓取与 E2E 测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Blockether/spel 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 66 --> 72
     line [67, 71, 71]
 ```
 
-2026-10-18 67 → 2026-10-30 71（+4）
+2026-10-18 67 → 2026-10-31 71（+4）
 
 
 ---

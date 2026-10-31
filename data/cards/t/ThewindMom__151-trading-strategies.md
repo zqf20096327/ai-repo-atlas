@@ -1,6 +1,6 @@
 # ThewindMom/151-trading-strategies
 
-⭐ 23 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ThewindMom/151-trading-strategies) · 个人维护
+⭐ 24 · Python · 推送 2026-10-24 · [GitHub](https://github.com/ThewindMom/151-trading-strategies) · 个人维护
 
 **面向量化开发者的 151 交易策略 FastAPI 实现（68 个非期权策略）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThewindMom/151-trading-strategies 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 16 --> 24
-    line [17, 19, 20, 22, 23]
+    title "ThewindMom/151-trading-strategies 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 25
+    line [17, 19, 20, 22, 23, 24]
 ```
 
-2026-10-18 17 → 2026-10-30 23（+6）
+2026-10-18 17 → 2026-10-31 24（+7）
 
 
 ---

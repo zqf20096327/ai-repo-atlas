@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "gagolews/datawranglingpy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "gagolews/datawranglingpy 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 82 --> 85
-    line [84, 83]
+    line [84, 83, 83]
 ```
 
-2026-10-18 84 → 2026-10-30 83（-1）
+2026-10-18 84 → 2026-10-31 83（-1）
 
 
 ---

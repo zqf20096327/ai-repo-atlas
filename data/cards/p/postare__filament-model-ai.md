@@ -44,12 +44,12 @@ Laravel/FilamentPHP 的 Composer 包，封装 OpenAI API 调用：用户在面�
 ```mermaid
 xychart-beta
     title "postare/filament-model-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Miguelgbastos/Kommo-MCP
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Miguelgbastos/Kommo-MCP) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Miguelgbastos/Kommo-MCP) · 个人维护
 
 **将 Cursor、Claude 等 MCP 客户端接入 Kommo CRM 的服务器**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 MCP (Model Context Protocol) 服务器，通过 23 个 tool
 ```mermaid
 xychart-beta
     title "Miguelgbastos/Kommo-MCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

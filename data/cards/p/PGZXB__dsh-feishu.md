@@ -1,6 +1,6 @@
 # PGZXB/dsh-feishu
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/PGZXB/dsh-feishu) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/PGZXB/dsh-feishu) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的飞书 UI 插件：卡片按钮控制 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PGZXB/dsh-feishu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 30 --> 37
-    line [31, 36, 35, 33, 34, 34]
+    line [31, 36, 35, 33, 34, 35]
 ```
 
-2026-10-18 31 → 2026-10-30 34（+3）
+2026-10-18 31 → 2026-10-31 35（+4）
 
 
 ---

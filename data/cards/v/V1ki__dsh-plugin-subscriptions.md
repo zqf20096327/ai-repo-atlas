@@ -1,6 +1,6 @@
 # V1ki/dsh-plugin-subscriptions
 
-⭐ 531 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护 · 中文 README
+⭐ 537 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护 · 中文 README
 
 **DSH 插件：用 ChatGPT/Claude/Grok 等订阅作为 LLM 提供方，免 API key**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（DSH）的 TypeScript 插件，把 ChatGPT (Codex)、Claude、
 
 ```mermaid
 xychart-beta
-    title "V1ki/dsh-plugin-subscriptions 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 469 --> 536
-    line [474, 480, 489, 493, 499, 504, 507, 509, 518, 527, 531]
+    title "V1ki/dsh-plugin-subscriptions 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 468 --> 543
+    line [474, 480, 489, 493, 499, 504, 507, 509, 518, 527, 531, 537]
 ```
 
-2026-10-18 474 → 2026-10-30 531（+57）
+2026-10-18 474 → 2026-10-31 537（+63）
 
 
 ---

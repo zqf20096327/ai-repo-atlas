@@ -1,6 +1,6 @@
 # juliangeymonat-jpg/mothrag
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/juliangeymonat-jpg/mothrag) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/juliangeymonat-jpg/mothrag) · 个人维护
 
 **确定性多跳 RAG 框架：纯商用 API 实现，无 GPU，答案附带证明树**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "juliangeymonat-jpg/mothrag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    line [35, 36, 35]
 ```
 
-2026-10-18 35 → 2026-10-30 36（+1）
+2026-10-18 35 → 2026-10-31 35（+0）
 
 
 ---

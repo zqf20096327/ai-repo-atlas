@@ -1,6 +1,6 @@
 # microsoft/skills-for-copilot-studio
 
-⭐ 484 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/skills-for-copilot-studio) · 组织维护
+⭐ 485 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/skills-for-copilot-studio) · 组织维护
 
 **让 AI 编码工具以 YAML 编写/管理 Copilot Studio agent 的插件**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/skills-for-copilot-studio 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 472 --> 485
-    line [473, 474, 475, 478, 482, 483, 484]
+    title "microsoft/skills-for-copilot-studio 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 472 --> 486
+    line [473, 474, 475, 478, 482, 483, 484, 485]
 ```
 
-2026-10-18 473 → 2026-10-30 484（+11）
+2026-10-18 473 → 2026-10-31 485（+12）
 
 
 ---

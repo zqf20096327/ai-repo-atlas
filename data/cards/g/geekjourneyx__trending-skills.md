@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geekjourneyx/trending-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "geekjourneyx/trending-skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-10-30 67（+1）
+2026-10-18 66 → 2026-10-31 67（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eastriverlee/LLM.swift
 
-⭐ 882 · Swift · MIT · 推送 2026-07-19 · [GitHub](https://github.com/eastriverlee/LLM.swift) · 个人维护
+⭐ 883 · Swift · MIT · 推送 2026-07-19 · [GitHub](https://github.com/eastriverlee/LLM.swift) · 个人维护
 
 **苹果全平台本地 LLM 推理的 Swift 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eastriverlee/LLM.swift 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 880 --> 883
-    line [882, 881, 882, 882]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 880 --> 884
+    line [882, 881, 882, 883]
 ```
 
-2026-10-18 882 → 2026-10-30 882（+0）
+2026-10-18 882 → 2026-10-31 883（+1）
 
 
 ---

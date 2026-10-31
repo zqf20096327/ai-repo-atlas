@@ -45,12 +45,12 @@ MLCommons 的 MLPerf Client 基准：在 Windows/macOS 个人电脑上测量 LLM
 ```mermaid
 xychart-beta
     title "mlcommons/mlperf_client 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 93 --> 96
     line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-10-30 95（+1）
+2026-10-18 94 → 2026-10-31 95（+1）
 
 
 ---

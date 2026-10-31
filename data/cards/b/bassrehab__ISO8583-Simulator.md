@@ -1,6 +1,6 @@
 # bassrehab/ISO8583-Simulator
 
-⭐ 57 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/bassrehab/ISO8583-Simulator) · [官网](https://iso8583sim.com/) · 个人维护
+⭐ 58 · Python · AGPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/bassrehab/ISO8583-Simulator) · [官网](https://iso8583sim.com/) · 个人维护
 
 **给支付开发者的 ISO 8583 报文解析/构建/校验与发卡行模拟工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "bassrehab/ISO8583-Simulator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 55 --> 58
-    line [56, 57]
+    title "bassrehab/ISO8583-Simulator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-30 57（+1）
+2026-10-18 56 → 2026-10-31 58（+2）
 
 
 ---

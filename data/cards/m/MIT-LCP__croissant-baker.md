@@ -1,6 +1,6 @@
 # MIT-LCP/croissant-baker
 
-⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MIT-LCP/croissant-baker) · [官网](https://lcp.mit.edu/croissant-baker/) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MIT-LCP/croissant-baker) · [官网](https://lcp.mit.edu/croissant-baker/) · 组织维护
 
 **从数据集文件目录自动生成 Croissant 元数据的命令行工具**
 
@@ -46,12 +46,12 @@ MIT-LCP 维护的 Python CLI 工具：扫描本地数据集目录，读取 20 �
 ```mermaid
 xychart-beta
     title "MIT-LCP/croissant-baker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

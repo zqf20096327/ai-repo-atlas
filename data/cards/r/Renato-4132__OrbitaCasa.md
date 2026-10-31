@@ -1,6 +1,6 @@
 # Renato-4132/OrbitaCasa
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Renato-4132/OrbitaCasa) · [官网](https://renato-4132.github.io/OrbitaCasa/) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Renato-4132/OrbitaCasa) · [官网](https://renato-4132.github.io/OrbitaCasa/) · 个人维护
 
 **本地优先的家庭财务全功能管理软件（含 AI 分析）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Renato-4132/OrbitaCasa 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [15, 14, 15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

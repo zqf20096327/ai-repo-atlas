@@ -45,12 +45,12 @@ CompleteTech LLC 发布的 Jupyter 教学课程（29 个 cell），演示一套�
 ```mermaid
 xychart-beta
     title "CompleteTech-LLC/build-ai-workflows-in-5-steps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

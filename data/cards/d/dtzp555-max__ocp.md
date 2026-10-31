@@ -1,6 +1,6 @@
 # dtzp555-max/ocp
 
-⭐ 131 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dtzp555-max/ocp) · 个人维护
+⭐ 132 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dtzp555-max/ocp) · 个人维护
 
 **把 Claude Pro/Max 订阅转成 OpenAI 兼容 API 的本地代理**
 
@@ -45,12 +45,12 @@ OCP 在 localhost:3456 起代理，将 OpenAI 兼容的 /v1/chat/completions 请
 ```mermaid
 xychart-beta
     title "dtzp555-max/ocp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 125 --> 132
-    line [126, 128, 130, 131, 131]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 125 --> 133
+    line [126, 128, 130, 131, 132]
 ```
 
-2026-10-18 126 → 2026-10-30 131（+5）
+2026-10-18 126 → 2026-10-31 132（+6）
 
 
 ---

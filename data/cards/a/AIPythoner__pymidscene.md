@@ -46,12 +46,12 @@ Midscene.js 的 Python 实现：以自然语言描述代替 CSS 选择器/XPath 
 ```mermaid
 xychart-beta
     title "AIPythoner/pymidscene 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

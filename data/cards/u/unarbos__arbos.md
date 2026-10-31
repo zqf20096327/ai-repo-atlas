@@ -1,6 +1,6 @@
 # unarbos/arbos
 
-⭐ 32 · Rust · 推送 2026-10-29 · [GitHub](https://github.com/unarbos/arbos) · [官网](https://arbos.life) · 个人维护
+⭐ 32 · Rust · 推送 2026-10-30 · [GitHub](https://github.com/unarbos/arbos) · [官网](https://arbos.life) · 个人维护
 
 **自托管的 AI agent 工作台：Mac/iPhone/终端与项目 agent 对话协作**
 
@@ -45,12 +45,12 @@ Arbos 是面向单用户的 AI agent 协作平台，自称可自托管的 Grokbo
 ```mermaid
 xychart-beta
     title "unarbos/arbos 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 29 --> 33
     line [30, 31, 32, 32]
 ```
 
-2026-10-18 30 → 2026-10-30 32（+2）
+2026-10-18 30 → 2026-10-31 32（+2）
 
 
 ---

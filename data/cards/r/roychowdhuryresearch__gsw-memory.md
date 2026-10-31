@@ -45,12 +45,12 @@ AAAI-26 与 ICML 2026 两篇论文的官方代码库，以 pip 包形式提供�
 ```mermaid
 xychart-beta
     title "roychowdhuryresearch/gsw-memory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

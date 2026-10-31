@@ -44,13 +44,13 @@ TypeScript 实现的 OpenAI 兼容 API 网关，将 Groq、Gemini、Mistral、Ce
 
 ```mermaid
 xychart-beta
-    title "Devansh-365/freellm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "Devansh-365/freellm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 63 --> 69
-    line [64, 66, 68]
+    line [64, 66, 68, 68]
 ```
 
-2026-10-18 64 → 2026-10-30 68（+4）
+2026-10-18 64 → 2026-10-31 68（+4）
 
 
 ---

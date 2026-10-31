@@ -1,6 +1,6 @@
 # AutoShiftOps/querytuner
 
-⭐ 39 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AutoShiftOps/querytuner) · [官网](https://querytuner.com) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/AutoShiftOps/querytuner) · [官网](https://querytuner.com) · 组织维护
 
 **免连库的 SQL 查询诊断工具：粘贴即分析性能问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AutoShiftOps/querytuner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 40（+1）
 
 
 ---

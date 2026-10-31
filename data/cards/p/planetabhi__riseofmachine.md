@@ -1,6 +1,6 @@
 # planetabhi/riseofmachine
 
-⭐ 114 · Astro · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/planetabhi/riseofmachine) · [官网](https://riseofmachine.com) · 个人维护
+⭐ 115 · Astro · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/planetabhi/riseofmachine) · [官网](https://riseofmachine.com) · 个人维护
 
 **AI agent 策展的工具目录站：面向开发者与中小企业**
 
@@ -45,12 +45,12 @@ Rise of Machine 是一个 AI 工具目录网站，其收录由自主 AI agent �
 ```mermaid
 xychart-beta
     title "planetabhi/riseofmachine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 113 --> 115
-    line [114, 114]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 113 --> 116
+    line [114, 115]
 ```
 
-2026-10-18 114 → 2026-10-30 114（+0）
+2026-10-18 114 → 2026-10-31 115（+1）
 
 
 ---

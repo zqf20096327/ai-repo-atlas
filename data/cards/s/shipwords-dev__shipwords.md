@@ -1,6 +1,6 @@
 # shipwords-dev/shipwords
 
-⭐ 269 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
+⭐ 295 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
 
 **新词站群框架：一个关键词一个 AI 图像/视频付费站**
 
@@ -45,13 +45,13 @@ MIT 许可的 Cloudflare 原生开源框架，用于运营新关键词 AI 图像
 
 ```mermaid
 xychart-beta
-    title "shipwords-dev/shipwords 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 43 --> 289
-    line [63, 269]
+    title "shipwords-dev/shipwords 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 40 --> 318
+    line [63, 269, 295]
 ```
 
-2026-10-29 63 → 2026-10-30 269（+206）
+2026-10-29 63 → 2026-10-31 295（+232）
 
 
 ---

@@ -1,6 +1,6 @@
 # perazz/fortran-lapack
 
-⭐ 42 · Fortran · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/perazz/fortran-lapack) · [官网](https://perazz.github.io/fortran-lapack/) · 个人维护
+⭐ 42 · Fortran · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/perazz/fortran-lapack) · [官网](https://perazz.github.io/fortran-lapack/) · 个人维护
 
 **现代 Fortran 线性代数库：Cholesky 分解与特征值求解等 NumPy 风格 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "perazz/fortran-lapack 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-18 41 → 2026-10-30 42（+1）
+2026-10-18 41 → 2026-10-31 42（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Reyzowter/Hello-Agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Reyzowter/Hello-Agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 123 --> 126
-    line [124, 125]
+    line [124, 125, 125]
 ```
 
-2026-10-18 124 → 2026-10-30 125（+1）
+2026-10-18 124 → 2026-10-31 125（+1）
 
 
 ---

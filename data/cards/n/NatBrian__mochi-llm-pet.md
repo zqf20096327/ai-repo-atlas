@@ -1,6 +1,6 @@
 # NatBrian/mochi-llm-pet
 
-⭐ 22 · Python · 推送 2026-06-11 · [GitHub](https://github.com/NatBrian/mochi-llm-pet) · 个人维护
+⭐ 23 · Python · 推送 2026-06-11 · [GitHub](https://github.com/NatBrian/mochi-llm-pet) · 个人维护
 
 **Windows 桌面 AI 宠物：像素猫由多模态 LLM 驱动，看屏幕并拟猫反应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NatBrian/mochi-llm-pet 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23]
 ```
 
-2026-10-18 20 → 2026-10-30 22（+2）
+2026-10-18 20 → 2026-10-31 23（+3）
 
 
 ---

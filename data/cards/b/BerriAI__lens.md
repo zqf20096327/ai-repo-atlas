@@ -1,6 +1,6 @@
 # BerriAI/lens
 
-⭐ 19 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/BerriAI/lens) · 组织维护
+⭐ 21 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/BerriAI/lens) · 组织维护
 
 **AI agent 的追踪与调查平台，可独立或嵌入 LiteLLM**
 
@@ -45,13 +45,13 @@ BerriAI 维护的追踪与调查平台：agent 运行经 LiteLLM 网关汇成每
 
 ```mermaid
 xychart-beta
-    title "BerriAI/lens 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 9 --> 20
-    line [10, 11, 13, 15, 16, 17, 19]
+    title "BerriAI/lens 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9 --> 22
+    line [10, 11, 13, 15, 16, 17, 19, 21]
 ```
 
-2026-10-18 10 → 2026-10-30 19（+9）
+2026-10-18 10 → 2026-10-31 21（+11）
 
 
 ---

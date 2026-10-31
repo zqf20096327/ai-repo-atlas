@@ -1,6 +1,6 @@
 # GML-MMGroup/GMTalker
 
-⭐ 1,245 · Python · NOASSERTION · 推送 2026-01-08 · [GitHub](https://github.com/GML-MMGroup/GMTalker) · 组织维护 · 中文 README
+⭐ 1,246 · Python · NOASSERTION · 推送 2026-01-08 · [GitHub](https://github.com/GML-MMGroup/GMTalker) · 组织维护 · 中文 README
 
 **UE5 渲染的 3D 数字人系统：语音识别/合成/NLU/嘴型驱动一体化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GML-MMGroup/GMTalker 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 1236 --> 1246
-    line [1237, 1239, 1241, 1243, 1244, 1245]
+    title "GML-MMGroup/GMTalker 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1236 --> 1247
+    line [1237, 1239, 1241, 1243, 1244, 1245, 1246]
 ```
 
-2026-10-18 1,237 → 2026-10-30 1,245（+8）
+2026-10-18 1,237 → 2026-10-31 1,246（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/rlax
 
-⭐ 1,450 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/google-deepmind/rlax) · [官网](https://rlax.readthedocs.io) · 组织维护
+⭐ 1,451 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/google-deepmind/rlax) · [官网](https://rlax.readthedocs.io) · 组织维护
 
 **给研究者的 JAX 强化学习算子库，供构建学习型 agent**
 
@@ -45,13 +45,13 @@ DeepMind 维护的基于 JAX 的库，提供实现强化学习智能体所需的
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/rlax 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 1447 --> 1451
-    line [1449, 1448, 1449, 1450]
+    title "google-deepmind/rlax 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1447 --> 1452
+    line [1449, 1448, 1449, 1450, 1451]
 ```
 
-2026-10-18 1,449 → 2026-10-30 1,450（+1）
+2026-10-18 1,449 → 2026-10-31 1,451（+2）
 
 
 ---

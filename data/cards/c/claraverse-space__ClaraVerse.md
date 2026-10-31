@@ -1,6 +1,6 @@
 # claraverse-space/ClaraVerse
 
-⭐ 3,900 · TypeScript · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/claraverse-space/ClaraVerse) · [官网](https://claraverse.space) · 组织维护
+⭐ 3,902 · TypeScript · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/claraverse-space/ClaraVerse) · [官网](https://claraverse.space) · 组织维护
 
 **自托管的私有 AI 工作台：聊天、多 Agent 团队与工作流**
 
@@ -46,13 +46,13 @@ ClaraVerse 是一个开源自托管 AI 工作区，聚合聊天、Crew 多 Agent
 
 ```mermaid
 xychart-beta
-    title "claraverse-space/ClaraVerse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "claraverse-space/ClaraVerse 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 3899 --> 3903
-    line [3902, 3900, 3901, 3900]
+    line [3902, 3900, 3901, 3900, 3902]
 ```
 
-2026-10-18 3,902 → 2026-10-30 3,900（-2）
+2026-10-18 3,902 → 2026-10-31 3,902（+0）
 
 
 ---

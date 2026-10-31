@@ -1,6 +1,6 @@
 # dahlia/yoyak
 
-⭐ 84 · TypeScript · GPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/dahlia/yoyak) · [官网](https://jsr.io/@hongminhee/yoyak) · 个人维护
+⭐ 83 · TypeScript · GPL-3.0 · 推送 2026-03-23 · [GitHub](https://github.com/dahlia/yoyak) · [官网](https://jsr.io/@hongminhee/yoyak) · 个人维护
 
 **给终端用户的 LLM 网页摘要与翻译 CLI 工具**
 
@@ -46,12 +46,12 @@ Yoyak 是一个使用 LLM 对网页进行摘要与翻译的命令行工具：用
 ```mermaid
 xychart-beta
     title "dahlia/yoyak 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 83 --> 85
-    line [84, 84]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 82 --> 85
+    line [84, 83]
 ```
 
-2026-10-18 84 → 2026-10-30 84（+0）
+2026-10-18 84 → 2026-10-31 83（-1）
 
 
 ---

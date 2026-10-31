@@ -1,6 +1,6 @@
 # AttackIQ/SigmAIQ
 
-⭐ 98 · Python · LGPL-2.1 · 推送 2025-11-03 · [GitHub](https://github.com/AttackIQ/SigmAIQ) · [官网](https://attackiq.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给检测工程师的 pySigma 封装：Sigma 规则自动转换与 LLM 生成**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | LGPL-2.1 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

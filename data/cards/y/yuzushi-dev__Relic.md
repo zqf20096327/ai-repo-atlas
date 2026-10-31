@@ -1,6 +1,6 @@
 # yuzushi-dev/Relic
 
-⭐ 46 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/yuzushi-dev/Relic) · [官网](https://yuzushi-dev.github.io/Relic/) · 组织维护
+⭐ 47 · Python · AGPL-3.0 · 推送 2026-07-28 · [GitHub](https://github.com/yuzushi-dev/Relic) · [官网](https://yuzushi-dev.github.io/Relic/) · 组织维护
 
 **为反思型 agent 提供纵向关系建模与运行时治理层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuzushi-dev/Relic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 45 --> 48
+    line [46, 47]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 47（+1）
 
 
 ---

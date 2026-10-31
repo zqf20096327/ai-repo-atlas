@@ -1,6 +1,6 @@
 # xsoway/codebase-graph-prd-rules
 
-⭐ 41 · HTML · MIT · 推送 2026-09-24 · [GitHub](https://github.com/xsoway/codebase-graph-prd-rules) · [官网](https://xsoway.github.io/codebase-graph-prd-rules/) · 个人维护 · 中文 README
+⭐ 44 · HTML · MIT · 推送 2026-09-24 · [GitHub](https://github.com/xsoway/codebase-graph-prd-rules) · [官网](https://xsoway.github.io/codebase-graph-prd-rules/) · 个人维护 · 中文 README
 
 **把代码库转成可溯源业务规则文档的两个 AI-agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xsoway/codebase-graph-prd-rules 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 31 --> 42
-    line [32, 34, 36, 37, 38, 39, 41]
+    title "xsoway/codebase-graph-prd-rules 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 31 --> 45
+    line [32, 34, 36, 37, 38, 39, 41, 44]
 ```
 
-2026-10-18 32 → 2026-10-30 41（+9）
+2026-10-18 32 → 2026-10-31 44（+12）
 
 
 ---

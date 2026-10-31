@@ -1,6 +1,6 @@
 # goat-sdk/goat
 
-⭐ 1,014 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/goat-sdk/goat) · 组织维护
+⭐ 1,015 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/goat-sdk/goat) · 组织维护
 
 **面向 AI agent 的链上金融工具包：200+ 区块链支付/交易/投资工具**
 
@@ -46,12 +46,12 @@ GOAT 是一个 TypeScript 与 Python 工具包，用于让 AI agent 具备链上
 ```mermaid
 xychart-beta
     title "goat-sdk/goat 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1008 --> 1015
-    line [1009, 1010, 1011, 1014, 1014]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1008 --> 1016
+    line [1009, 1010, 1011, 1014, 1015]
 ```
 
-2026-10-18 1,009 → 2026-10-30 1,014（+5）
+2026-10-18 1,009 → 2026-10-31 1,015（+6）
 
 
 ---

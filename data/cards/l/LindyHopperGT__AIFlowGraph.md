@@ -43,12 +43,12 @@ AI Flow 是 Unreal Engine Flow 插件的扩展插件，在 Flow 图编辑器基�
 ```mermaid
 xychart-beta
     title "LindyHopperGT/AIFlowGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

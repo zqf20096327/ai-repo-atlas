@@ -1,6 +1,6 @@
 # supermemoryai/memorybench
 
-⭐ 332 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/supermemoryai/memorybench) · [官网](https://supermemory.ai/docs/memorybench/overview) · 组织维护
+⭐ 333 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/supermemoryai/memorybench) · [官网](https://supermemory.ai/docs/memorybench/overview) · 组织维护
 
 **可插拔评测框架：横向评测记忆/上下文系统与 RAG 表现**
 
@@ -45,13 +45,13 @@ supermemoryai 维护的评测基准框架，面向评估对话记忆与 RAG 系�
 
 ```mermaid
 xychart-beta
-    title "supermemoryai/memorybench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 329 --> 333
-    line [330, 331, 332]
+    title "supermemoryai/memorybench 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 329 --> 334
+    line [330, 331, 332, 333]
 ```
 
-2026-10-18 330 → 2026-10-30 332（+2）
+2026-10-18 330 → 2026-10-31 333（+3）
 
 
 ---

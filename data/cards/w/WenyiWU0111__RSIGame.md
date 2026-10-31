@@ -1,6 +1,6 @@
 # WenyiWU0111/RSIGame
 
-⭐ 168 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
+⭐ 169 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
 
 **自主 agentic 游戏开发框架：递归自改进生成游戏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WenyiWU0111/RSIGame 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 165 --> 169
-    line [166, 168]
+    title "WenyiWU0111/RSIGame 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 165 --> 170
+    line [166, 168, 169]
 ```
 
-2026-10-29 166 → 2026-10-30 168（+2）
+2026-10-29 166 → 2026-10-31 169（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws-samples/sample-ai-agent-accelerator
 
-⭐ 30 · HCL · MIT-0 · 推送 2025-11-03 · [GitHub](https://github.com/aws-samples/sample-ai-agent-accelerator) · [官网](https://builder.aws.com/content/31Z6LBVoHw6xLCzPnYDGUVjwVj1/exploring-bedrock-agentcore-building-an-ai-agent-accelerator-reference-implementation) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 AWS 上快速部署 Bedrock AgentCore AI Agent 的参考实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT-0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

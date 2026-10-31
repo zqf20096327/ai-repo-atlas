@@ -1,6 +1,6 @@
 # Azzurroooo/rind
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Azzurroooo/rind) · [官网](https://rindai.dev) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Azzurroooo/rind) · [官网](https://rindai.dev) · 个人维护 · 中文 README
 
 **多 agent 协作 CLI：把文件夹变成各有工作区的 teammate**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Azzurroooo/rind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

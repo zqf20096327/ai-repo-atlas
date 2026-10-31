@@ -46,12 +46,12 @@ Recap 是面向学生的 iOS/Android 应用：用户输入笔记、图片、URL�
 ```mermaid
 xychart-beta
     title "Visual-Studio-Coder/Recap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

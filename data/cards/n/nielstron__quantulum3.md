@@ -45,12 +45,12 @@ quantulum3 是 quantulum 的 Python 3 兼容分支，提供从非结构化文本
 ```mermaid
 xychart-beta
     title "nielstron/quantulum3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-10-18 149 → 2026-10-30 149（+0）
+2026-10-18 149 → 2026-10-31 149（+0）
 
 
 ---

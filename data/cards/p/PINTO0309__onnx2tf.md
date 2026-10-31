@@ -1,6 +1,6 @@
 # PINTO0309/onnx2tf
 
-⭐ 1,001 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/PINTO0309/onnx2tf) · 个人维护
+⭐ 1,000 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/PINTO0309/onnx2tf) · 个人维护
 
 **把 ONNX/LiteRT 模型转换为 TFLite、TensorFlow 与 PyTorch 格式的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PINTO0309/onnx2tf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 999 --> 1002
-    line [1000, 1001, 1001]
+    line [1000, 1001, 1000]
 ```
 
-2026-10-18 1,000 → 2026-10-30 1,001（+1）
+2026-10-18 1,000 → 2026-10-31 1,000（+0）
 
 
 ---

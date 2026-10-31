@@ -1,6 +1,6 @@
 # IvanMurzak/ReflectorNet
 
-⭐ 16 · C# · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/IvanMurzak/ReflectorNet) · 个人维护
+⭐ 16 · C# · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/IvanMurzak/ReflectorNet) · 个人维护
 
 **.NET 反射工具库：面向 AI 场景的动态调用与类型保持序列化**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "IvanMurzak/ReflectorNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

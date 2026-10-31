@@ -44,13 +44,13 @@ Rust 编写的自托管 AI agent 运行时，约 10 MB 单二进制、无运行�
 
 ```mermaid
 xychart-beta
-    title "garudust-org/garudust-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "garudust-org/garudust-agent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-30 31（+2）
+2026-10-18 29 → 2026-10-31 31（+2）
 
 
 ---

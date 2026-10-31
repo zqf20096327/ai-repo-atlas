@@ -1,6 +1,6 @@
 # ezesubu/VERA
 
-⭐ 21 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ezesubu/VERA) · [官网](https://www.patreon.com/maVERAick) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/ezesubu/VERA) · [官网](https://www.patreon.com/maVERAick) · 个人维护
 
 **给 Unreal 开发者的编辑器内 AI Agent 副驾驶**
 
@@ -46,12 +46,12 @@ Unreal Engine 编辑器内运行的 AI Agent 插件：用自然语言下达指�
 ```mermaid
 xychart-beta
     title "ezesubu/VERA 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 20, 21, 23]
 ```
 
-2026-10-18 19 → 2026-10-30 21（+2）
+2026-10-18 19 → 2026-10-31 23（+4）
 
 
 ---

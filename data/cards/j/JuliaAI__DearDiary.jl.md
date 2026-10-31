@@ -1,6 +1,6 @@
 # JuliaAI/DearDiary.jl
 
-⭐ 25 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JuliaAI/DearDiary.jl) · [官网](https://juliaai.github.io/DearDiary.jl/) · 组织维护
+⭐ 25 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JuliaAI/DearDiary.jl) · [官网](https://juliaai.github.io/DearDiary.jl/) · 组织维护
 
 **Julia 编写的 ML 实验跟踪器：记录实验环境与指标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JuliaAI/DearDiary.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

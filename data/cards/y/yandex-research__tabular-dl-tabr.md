@@ -45,12 +45,12 @@ Yandex Research 发布的论文《TabR: Unlocking the Power of Retrieval-Augment
 ```mermaid
 xychart-beta
     title "yandex-research/tabular-dl-tabr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 331 --> 333
     line [332, 332]
 ```
 
-2026-10-18 332 → 2026-10-30 332（+0）
+2026-10-18 332 → 2026-10-31 332（+0）
 
 
 ---

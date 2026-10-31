@@ -1,6 +1,6 @@
 # DeepMyst/Mysti
 
-⭐ 1,151 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/DeepMyst/Mysti) · [官网](https://www.deepmyst.com) · 组织维护
+⭐ 1,152 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/DeepMyst/Mysti) · [官网](https://www.deepmyst.com) · 组织维护
 
 **VS Code 多智能体编码工作区：让 Claude Code、Codex 等协作**
 
@@ -45,13 +45,13 @@ VS Code 扩展，把多个编码 agent（Claude Code、OpenAI Codex 等 CLI agen
 
 ```mermaid
 xychart-beta
-    title "DeepMyst/Mysti 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1141 --> 1152
-    line [1142, 1144, 1145, 1144, 1150, 1151]
+    title "DeepMyst/Mysti 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1141 --> 1153
+    line [1142, 1144, 1145, 1144, 1150, 1151, 1152]
 ```
 
-2026-10-18 1,142 → 2026-10-30 1,151（+9）
+2026-10-18 1,142 → 2026-10-31 1,152（+10）
 
 
 ---

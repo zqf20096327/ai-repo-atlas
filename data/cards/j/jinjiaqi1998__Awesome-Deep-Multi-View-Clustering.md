@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinjiaqi1998/Awesome-Deep-Multi-View-Clustering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    title "jinjiaqi1998/Awesome-Deep-Multi-View-Clustering 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18]
+    line [17, 18, 17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 18（+1）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

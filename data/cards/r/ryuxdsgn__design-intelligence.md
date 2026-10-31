@@ -1,6 +1,6 @@
 # ryuxdsgn/design-intelligence
 
-⭐ 68 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 组织维护
+⭐ 76 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 组织维护
 
 **给 AI 编码/设计 agent 的设计决策技能包**
 
@@ -45,13 +45,13 @@ RYUX 是一套安装到 AI agent 中的设计智能技能：包含路由器 SKIL
 
 ```mermaid
 xychart-beta
-    title "ryuxdsgn/design-intelligence 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 32 --> 71
-    line [35, 47, 49, 51, 54, 61, 64, 68]
+    title "ryuxdsgn/design-intelligence 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 31 --> 80
+    line [35, 47, 49, 51, 54, 61, 64, 68, 76]
 ```
 
-2026-10-18 35 → 2026-10-30 68（+33）
+2026-10-18 35 → 2026-10-31 76（+41）
 
 
 ---

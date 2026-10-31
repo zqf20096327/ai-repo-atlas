@@ -1,6 +1,6 @@
 # mesa/mesa-llm
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mesa/mesa-llm) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/mesa/mesa-llm) · 组织维护
 
 **Mesa 框架扩展：将 LLM 接入 ABM 智能体做决策**
 
@@ -45,12 +45,12 @@ Mesa-LLM 是 Mesa 元胞/智能体建模（ABM）框架的扩展库，将大语�
 ```mermaid
 xychart-beta
     title "mesa/mesa-llm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 75 --> 81
-    line [76, 78, 79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 75 --> 82
+    line [76, 78, 79, 80, 81]
 ```
 
-2026-10-18 76 → 2026-10-30 80（+4）
+2026-10-18 76 → 2026-10-31 81（+5）
 
 
 ---

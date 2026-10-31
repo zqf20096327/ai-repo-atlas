@@ -45,12 +45,12 @@ Python 框架，面向基于多光谱卫星影像（NASA HLS、Sentinel-2/1）�
 ```mermaid
 xychart-beta
     title "instadeepai/InstaGeo-E2E-Geospatial-ML 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-18 89 → 2026-10-30 89（+0）
+2026-10-18 89 → 2026-10-31 89（+0）
 
 
 ---

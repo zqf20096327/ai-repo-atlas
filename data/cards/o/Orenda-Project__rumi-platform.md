@@ -1,6 +1,6 @@
 # Orenda-Project/rumi-platform
 
-⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Orenda-Project/rumi-platform) · [官网](https://hellorumi.ai) · 组织维护
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Orenda-Project/rumi-platform) · [官网](https://hellorumi.ai) · 组织维护
 
 **运行在 WhatsApp 上的开源 AI 教学助手：辅导、阅读测评与备课**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Orenda-Project/rumi-platform 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

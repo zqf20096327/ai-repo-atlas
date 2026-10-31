@@ -1,6 +1,6 @@
 # pytorch/ci-infra
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/pytorch/ci-infra) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/pytorch/ci-infra) · 组织维护
 
 **PyTorch 项目 CI 基础设施：EC2 自动扩缩容的 Terraform 配置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pytorch/ci-infra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

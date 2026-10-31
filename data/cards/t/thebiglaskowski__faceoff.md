@@ -1,6 +1,6 @@
 # thebiglaskowski/faceoff
 
-⭐ 43 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/thebiglaskowski/faceoff) · [官网](https://thebiglaskowski.com/) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/thebiglaskowski/faceoff) · [官网](https://thebiglaskowski.com/) · 个人维护
 
 **本地 GPU 加速的 AI 换脸工具：图片/GIF/视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thebiglaskowski/faceoff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 41 --> 44
+    line [43, 42]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 42（-1）
 
 
 ---

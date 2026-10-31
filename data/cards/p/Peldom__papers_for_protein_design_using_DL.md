@@ -1,6 +1,6 @@
 # Peldom/papers_for_protein_design_using_DL
 
-⭐ 1,982 · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/Peldom/papers_for_protein_design_using_DL) · 个人维护
+⭐ 1,981 · GPL-3.0 · 推送 2026-08-15 · [GitHub](https://github.com/Peldom/papers_for_protein_design_using_DL) · 个人维护
 
 **深度学习蛋白质设计论文清单，按任务与模型分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Peldom/papers_for_protein_design_using_DL 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1980 --> 1984
-    line [1982, 1983, 1982, 1981, 1982, 1982]
+    line [1982, 1983, 1982, 1981, 1982, 1981]
 ```
 
-2026-10-18 1,982 → 2026-10-30 1,982（+0）
+2026-10-18 1,982 → 2026-10-31 1,981（-1）
 
 
 ---

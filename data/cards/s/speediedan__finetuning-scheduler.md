@@ -1,6 +1,6 @@
 # speediedan/finetuning-scheduler
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/speediedan/finetuning-scheduler) · [官网](https://finetuning-scheduler.readthedocs.io) · 个人维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/speediedan/finetuning-scheduler) · [官网](https://finetuning-scheduler.readthedocs.io) · 个人维护
 
 **PyTorch Lightning 扩展：用分阶段微调计划表加速模型实验**
 
@@ -46,12 +46,12 @@ Fine-Tuning Scheduler（FTS）是 PyTorch Lightning 的回调扩展，供研究�
 ```mermaid
 xychart-beta
     title "speediedan/finetuning-scheduler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-30 69（+0）
+2026-10-18 69 → 2026-10-31 69（+0）
 
 
 ---

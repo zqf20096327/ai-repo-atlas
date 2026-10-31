@@ -1,6 +1,6 @@
 # lennix1337/Genexus18MCP
 
-⭐ 40 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lennix1337/Genexus18MCP) · [官网](https://www.npmjs.com/package/genexus-mcp) · 个人维护
+⭐ 40 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lennix1337/Genexus18MCP) · [官网](https://www.npmjs.com/package/genexus-mcp) · 个人维护
 
 **GeneXus MCP 服务器：让 AI 代理读写重构 GeneXus 知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lennix1337/Genexus18MCP 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 36 --> 41
     line [37, 38, 39, 40, 40]
 ```
 
-2026-10-18 37 → 2026-10-30 40（+3）
+2026-10-18 37 → 2026-10-31 40（+3）
 
 
 ---

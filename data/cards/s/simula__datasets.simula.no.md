@@ -1,6 +1,6 @@
 # simula/datasets.simula.no
 
-⭐ 24 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/simula/datasets.simula.no) · [官网](https://datasets.simula.no) · 组织维护
+⭐ 24 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/simula/datasets.simula.no) · [官网](https://datasets.simula.no) · 组织维护
 
 **Simula 发布的开放数据集目录（医学/体育等约 50 个）**
 
@@ -44,13 +44,13 @@ Simula Research Laboratory 与 SimulaMet 发布的开放数据集聚合目录，
 
 ```mermaid
 xychart-beta
-    title "simula/datasets.simula.no 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "simula/datasets.simula.no 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 22 --> 25
-    line [23, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 24（+1）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

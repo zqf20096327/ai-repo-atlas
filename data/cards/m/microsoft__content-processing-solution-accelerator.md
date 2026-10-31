@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/content-processing-solution-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "microsoft/content-processing-solution-accelerator 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 251 --> 254
-    line [252, 253]
+    line [252, 253, 253]
 ```
 
-2026-10-18 252 → 2026-10-30 253（+1）
+2026-10-18 252 → 2026-10-31 253（+1）
 
 
 ---

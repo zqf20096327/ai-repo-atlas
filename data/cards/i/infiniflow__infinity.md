@@ -1,6 +1,6 @@
 # infiniflow/infinity
 
-⭐ 4,748 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/infiniflow/infinity) · [官网](https://infiniflow.org) · 组织维护
+⭐ 4,751 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/infiniflow/infinity) · [官网](https://infiniflow.org) · 组织维护
 
 **面向 LLM 应用的 AI 原生数据库，提供向量/全文混合检索**
 
@@ -44,13 +44,13 @@ Infinity 是用 C++20 编写的数据库，面向 LLM 与 RAG 应用场景，支
 
 ```mermaid
 xychart-beta
-    title "infiniflow/infinity 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4739 --> 4749
-    line [4740, 4742, 4744, 4746, 4747, 4748]
+    title "infiniflow/infinity 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4739 --> 4752
+    line [4740, 4742, 4744, 4746, 4747, 4748, 4751]
 ```
 
-2026-10-18 4,740 → 2026-10-30 4,748（+8）
+2026-10-18 4,740 → 2026-10-31 4,751（+11）
 
 
 ---

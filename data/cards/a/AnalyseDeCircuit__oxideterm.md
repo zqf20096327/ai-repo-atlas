@@ -1,6 +1,6 @@
 # AnalyseDeCircuit/oxideterm
 
-⭐ 1,746 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 组织维护 · 中文 README
+⭐ 1,751 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 组织维护 · 中文 README
 
 **带 BYOK AI 助手的原生 SSH 客户端与远程运维工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnalyseDeCircuit/oxideterm 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1677 --> 1752
-    line [1683, 1697, 1707, 1716, 1724, 1730, 1731, 1741, 1744, 1746]
+    title "AnalyseDeCircuit/oxideterm 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1677 --> 1757
+    line [1683, 1697, 1707, 1716, 1724, 1730, 1731, 1741, 1744, 1746, 1751]
 ```
 
-2026-10-18 1,683 → 2026-10-30 1,746（+63）
+2026-10-18 1,683 → 2026-10-31 1,751（+68）
 
 
 ---

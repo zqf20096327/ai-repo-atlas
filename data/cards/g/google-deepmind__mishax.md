@@ -1,6 +1,6 @@
 # google-deepmind/mishax
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-09-16 · [GitHub](https://github.com/google-deepmind/mishax) · 组织维护
+⭐ 158 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google-deepmind/mishax) · 组织维护
 
 **机制可解释性研究工具库：对深度学习代码做源码级插桩**
 
@@ -45,12 +45,12 @@ DeepMind 维护的机制可解释性研究辅助库，含两个模块：ast_patc
 ```mermaid
 xychart-beta
     title "google-deepmind/mishax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 157 --> 159
     line [158, 158]
 ```
 
-2026-10-18 158 → 2026-10-30 158（+0）
+2026-10-18 158 → 2026-10-31 158（+0）
 
 
 ---

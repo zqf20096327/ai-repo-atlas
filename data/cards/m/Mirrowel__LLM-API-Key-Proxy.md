@@ -1,6 +1,6 @@
 # Mirrowel/LLM-API-Key-Proxy
 
-⭐ 557 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Mirrowel/LLM-API-Key-Proxy) · 个人维护
+⭐ 558 · Python · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Mirrowel/LLM-API-Key-Proxy) · 个人维护
 
 **自托管通用 LLM 代理：统一 OpenAI/Anthropic 兼容端点与密钥轮换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mirrowel/LLM-API-Key-Proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 556 --> 559
-    line [558, 557, 557]
+    line [558, 557, 558]
 ```
 
-2026-10-18 558 → 2026-10-30 557（-1）
+2026-10-18 558 → 2026-10-31 558（+0）
 
 
 ---

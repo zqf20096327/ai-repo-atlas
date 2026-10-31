@@ -1,6 +1,6 @@
 # jeikl/JeikCode
 
-⭐ 57 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/jeikl/JeikCode) · [官网](https://jeikcode.top) · 个人维护 · 中文 README
+⭐ 58 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/jeikl/JeikCode) · [官网](https://jeikcode.top) · 个人维护 · 中文 README
 
 **Rust 编写的跨平台 AI 编码 Agent（TUI/WebUI/桌面/OpenWrt）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jeikl/JeikCode 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 38 --> 58
-    line [39, 43, 45, 46, 47, 50, 52, 54, 56, 57]
+    title "jeikl/JeikCode 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 38 --> 59
+    line [39, 43, 45, 46, 47, 50, 52, 54, 56, 57, 58]
 ```
 
-2026-10-18 39 → 2026-10-30 57（+18）
+2026-10-18 39 → 2026-10-31 58（+19）
 
 
 ---

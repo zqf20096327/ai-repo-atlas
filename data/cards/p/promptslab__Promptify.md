@@ -1,6 +1,6 @@
 # promptslab/Promptify
 
-⭐ 4,643 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/promptslab/Promptify) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
+⭐ 4,644 · Python · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/promptslab/Promptify) · [官网](https://discord.gg/m88xfYMbK6) · 组织维护
 
 **任务化 NLP 引擎：几行代码用 LLM 得到结构化输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "promptslab/Promptify 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
     y-axis "stars" 4642 --> 4647
-    line [4643, 4644, 4646, 4644, 4643, 4643]
+    line [4643, 4644, 4646, 4644, 4643, 4644]
 ```
 
-2026-10-18 4,643 → 2026-10-30 4,643（+0）
+2026-10-18 4,643 → 2026-10-31 4,644（+1）
 
 
 ---

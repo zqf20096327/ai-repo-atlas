@@ -1,6 +1,6 @@
 # ondeinference/onde
 
-⭐ 31 · Rust · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/ondeinference/onde) · [官网](https://ondeinference.com/sdk) · 组织维护
+⭐ 31 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ondeinference/onde) · [官网](https://ondeinference.com/sdk) · 组织维护
 
 **面向 Apple silicon 等设备的端侧 LLM 推理 SDK，支持多平台接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ondeinference/onde 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-30 31（+1）
+2026-10-18 30 → 2026-10-31 31（+1）
 
 
 ---

@@ -44,12 +44,12 @@ Hugging Face 官方维护的 VS Code 扩展，将 Hugging Face Inference Provide
 ```mermaid
 xychart-beta
     title "huggingface/huggingface-vscode-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-18 98 → 2026-10-30 98（+0）
+2026-10-18 98 → 2026-10-31 98（+0）
 
 
 ---

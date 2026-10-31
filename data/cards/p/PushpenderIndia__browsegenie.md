@@ -1,6 +1,6 @@
 # PushpenderIndia/browsegenie
 
-⭐ 53 · Python · GPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/PushpenderIndia/browsegenie) · [官网](https://pypi.org/project/browsegenie) · 个人维护
+⭐ 52 · Python · GPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/PushpenderIndia/browsegenie) · [官网](https://pypi.org/project/browsegenie) · 个人维护
 
 **用一句提示词完成浏览器自动化与网页抓取的 AI Agent**
 
@@ -46,12 +46,12 @@ Python 包，提供两种能力：AI 抓取器——分析页面压缩快照后�
 ```mermaid
 xychart-beta
     title "PushpenderIndia/browsegenie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 51 --> 54
+    line [53, 52]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 52（-1）
 
 
 ---

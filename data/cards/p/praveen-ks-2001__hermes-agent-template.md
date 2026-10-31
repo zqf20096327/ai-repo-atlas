@@ -1,6 +1,6 @@
 # praveen-ks-2001/hermes-agent-template
 
-⭐ 325 · Python · 推送 2026-10-21 · [GitHub](https://github.com/praveen-ks-2001/hermes-agent-template) · [官网](https://railway.com/deploy/hermes-agent-ai?referralCode=QXdhdr) · 个人维护
+⭐ 326 · Python · 推送 2026-10-21 · [GitHub](https://github.com/praveen-ks-2001/hermes-agent-template) · [官网](https://railway.com/deploy/hermes-agent-ai?referralCode=QXdhdr) · 个人维护
 
 **在 Railway 一键部署 Hermes Agent 并通过 Web 管理面板运维**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "praveen-ks-2001/hermes-agent-template 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 321 --> 326
-    line [322, 324, 323, 324, 325]
+    title "praveen-ks-2001/hermes-agent-template 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 321 --> 327
+    line [322, 324, 323, 324, 325, 326]
 ```
 
-2026-10-18 322 → 2026-10-30 325（+3）
+2026-10-18 322 → 2026-10-31 326（+4）
 
 
 ---

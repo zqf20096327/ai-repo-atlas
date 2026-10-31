@@ -1,6 +1,6 @@
 # censgate/redact
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/censgate/redact) · [官网](https://censgate.com) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/censgate/redact) · [官网](https://censgate.com) · 组织维护
 
 **Rust 实现的 PII/密钥检测与脱敏引擎，含网关与证据链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "censgate/redact 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 23（+1）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

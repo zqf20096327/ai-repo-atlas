@@ -1,6 +1,6 @@
 # Abruptive/Ankh.md
 
-⭐ 75 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Abruptive/Ankh.md) · [官网](https://www.ankh.md) · 组织维护
+⭐ 76 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/Abruptive/Ankh.md) · [官网](https://www.ankh.md) · 组织维护
 
 **为 Hermes Agent 提供按项目作用域的多 agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Abruptive/Ankh.md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 74 --> 76
-    line [75, 75]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 74 --> 77
+    line [75, 76]
 ```
 
-2026-10-18 75 → 2026-10-30 75（+0）
+2026-10-18 75 → 2026-10-31 76（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # keithhb33/AI-Movie-Shorts
 
-⭐ 72 · C · 推送 2025-12-15 · [GitHub](https://github.com/keithhb33/AI-Movie-Shorts) · 个人维护
+⭐ 73 · C · 推送 2025-12-15 · [GitHub](https://github.com/keithhb33/AI-Movie-Shorts) · 个人维护
 
 **将整部电影自动转成 AI 解说回顾短视频的桌面工具**
 
@@ -46,12 +46,12 @@ C 编写的桌面应用（raylib UI）：读取 movies/ 目录下的 .mp4 影片
 ```mermaid
 xychart-beta
     title "keithhb33/AI-Movie-Shorts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 71 --> 74
+    line [72, 73]
 ```
 
-2026-10-18 72 → 2026-10-30 72（+0）
+2026-10-18 72 → 2026-10-31 73（+1）
 
 
 ---

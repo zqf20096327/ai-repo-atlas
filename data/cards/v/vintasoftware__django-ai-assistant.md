@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "vintasoftware/django-ai-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "vintasoftware/django-ai-assistant 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 429 --> 432
-    line [431, 430]
+    line [431, 430, 430]
 ```
 
-2026-10-18 431 → 2026-10-30 430（-1）
+2026-10-18 431 → 2026-10-31 430（-1）
 
 
 ---

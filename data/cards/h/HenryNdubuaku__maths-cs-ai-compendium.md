@@ -1,6 +1,6 @@
 # HenryNdubuaku/maths-cs-ai-compendium
 
-⭐ 7,678 · TypeScript · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) · 个人维护
+⭐ 7,682 · TypeScript · Apache-2.0 · 推送 2026-07-18 · [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) · 个人维护
 
 **覆盖数学、计算机与 AI 的开放教科书，供深入学习用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HenryNdubuaku/maths-cs-ai-compendium 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7658 --> 7679
-    line [7659, 7662, 7668, 7669, 7673, 7671, 7674, 7676, 7678]
+    title "HenryNdubuaku/maths-cs-ai-compendium 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7657 --> 7684
+    line [7659, 7662, 7668, 7669, 7673, 7671, 7674, 7676, 7678, 7682]
 ```
 
-2026-10-18 7,659 → 2026-10-30 7,678（+19）
+2026-10-18 7,659 → 2026-10-31 7,682（+23）
 
 
 ---

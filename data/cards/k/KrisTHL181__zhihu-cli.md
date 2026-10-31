@@ -1,6 +1,6 @@
 # KrisTHL181/zhihu-cli
 
-⭐ 29 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KrisTHL181/zhihu-cli) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KrisTHL181/zhihu-cli) · 个人维护 · 中文 README
 
 **知乎非官方命令行客户端：终端内浏览、下载、发布与分析知乎内容**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KrisTHL181/zhihu-cli 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-29 29 → 2026-10-30 29（+0）
+2026-10-29 29 → 2026-10-31 29（+0）
 
 
 ---

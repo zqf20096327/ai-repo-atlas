@@ -1,6 +1,6 @@
 # darshankerkar/Recrify
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/darshankerkar/Recrify) · [官网](https://recrify.co) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/darshankerkar/Recrify) · [官网](https://recrify.co) · 个人维护
 
 **面向招聘方与候选人的 AI 辅助招聘平台**
 
@@ -39,6 +39,18 @@
 
 > L26: - **AI Resume Analyzer** - Candidates can receive role-based feedback, score-oriented analysis, and resume improvem
 > L27: - **AI Chat Assistant** - Embedded assistant for platform guidance and hiring-related interactions.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "darshankerkar/Recrify 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 22
+    line [17, 21]
+```
+
+2026-10-30 17 → 2026-10-31 21（+4）
 
 
 ---

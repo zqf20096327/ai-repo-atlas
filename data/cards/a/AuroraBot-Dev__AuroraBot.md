@@ -45,13 +45,13 @@ AuroraBot 是一个以 Bot 为主体设计的 Agent 运行框架：Bot 持有自
 
 ```mermaid
 xychart-beta
-    title "AuroraBot-Dev/AuroraBot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "AuroraBot-Dev/AuroraBot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 16 --> 19
-    line [17, 18]
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 18（+1）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

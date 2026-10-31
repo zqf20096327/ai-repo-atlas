@@ -1,6 +1,6 @@
 # autohandai/code-cli
 
-⭐ 211 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/autohandai/code-cli) · [官网](https://www.autohand.ai/code/) · 组织维护
+⭐ 212 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/autohandai/code-cli) · [官网](https://www.autohand.ai/code/) · 组织维护
 
 **终端原生 AI 编程代理：多模型接入下自动规划并改代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "autohandai/code-cli 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 204 --> 212
-    line [205, 206, 208, 209, 210, 211, 211]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 204 --> 213
+    line [205, 206, 208, 209, 210, 211, 212]
 ```
 
-2026-10-18 205 → 2026-10-30 211（+6）
+2026-10-18 205 → 2026-10-31 212（+7）
 
 
 ---

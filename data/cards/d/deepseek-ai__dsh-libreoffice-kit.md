@@ -1,6 +1,6 @@
 # deepseek-ai/dsh-libreoffice-kit
 
-⭐ 203 · JavaScript · MPL-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/dsh-libreoffice-kit) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
+⭐ 205 · JavaScript · MPL-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/deepseek-ai/dsh-libreoffice-kit) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
 
 **给 Node.js 开发者的 Office→PDF/PNG 转换库（预编译 LibreOffice 引擎）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/dsh-libreoffice-kit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 179 --> 205
-    line [181, 185, 191, 195, 196, 199, 201, 203]
+    title "deepseek-ai/dsh-libreoffice-kit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 179 --> 207
+    line [181, 185, 191, 195, 196, 199, 201, 203, 205]
 ```
 
-2026-10-18 181 → 2026-10-30 203（+22）
+2026-10-18 181 → 2026-10-31 205（+24）
 
 
 ---

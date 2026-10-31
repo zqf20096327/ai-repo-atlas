@@ -1,6 +1,6 @@
 # vbszbdrup/Pose-Angle-Coach
 
-⭐ 56 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/vbszbdrup/Pose-Angle-Coach) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/vbszbdrup/Pose-Angle-Coach) · 个人维护
 
 **基于 OpenCV 姿态估计的实时动作姿态分析与反馈工具**
 
@@ -46,12 +46,12 @@ FormForge 是一个 Python + OpenCV 的实时姿态分析引擎：在普通 CPU 
 ```mermaid
 xychart-beta
     title "vbszbdrup/Pose-Angle-Coach 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-30 56（+0）
+2026-10-18 56 → 2026-10-31 56（+0）
 
 
 ---

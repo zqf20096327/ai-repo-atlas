@@ -1,6 +1,6 @@
 # daisybio/drevalpy
 
-⭐ 48 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/daisybio/drevalpy) · [官网](https://www.nature.com/articles/s41467-026-72903-w) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/daisybio/drevalpy) · [官网](https://www.nature.com/articles/s41467-026-72903-w) · 组织维护
 
 **癌症细胞系药物响应预测模型的评测与基准工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daisybio/drevalpy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-30 48（+0）
+2026-10-18 48 → 2026-10-31 48（+0）
 
 
 ---

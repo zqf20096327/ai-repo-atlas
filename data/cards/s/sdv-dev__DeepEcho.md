@@ -1,6 +1,6 @@
 # sdv-dev/DeepEcho
 
-⭐ 126 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sdv-dev/DeepEcho) · 组织维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/sdv-dev/DeepEcho) · 组织维护
 
 **混合类型多变量时间序列的合成数据生成 Python 库**
 
@@ -45,12 +45,12 @@ DeepEcho 是 SDV（Synthetic Data Vault）项目的组成部分，由 DataCebo �
 ```mermaid
 xychart-beta
     title "sdv-dev/DeepEcho 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-18 126 → 2026-10-30 126（+0）
+2026-10-18 126 → 2026-10-31 126（+0）
 
 
 ---

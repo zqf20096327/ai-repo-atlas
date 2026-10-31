@@ -1,6 +1,6 @@
 # feder-cr/invisible_dots
 
-⭐ 32,300 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
+⭐ 32,312 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/feder-cr/invisible_dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
 
 **自托管的个人 AI 智能体：给每个用户一台带反检测浏览器的 VM**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "feder-cr/invisible_dots 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 32108 --> 32317
-    line [32125, 32171, 32199, 32212, 32225, 32222, 32241, 32258, 32270, 32288, 32300]
+    title "feder-cr/invisible_dots 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 32107 --> 32330
+    line [32125, 32171, 32199, 32212, 32225, 32222, 32241, 32258, 32270, 32288, 32300, 32312]
 ```
 
-2026-10-18 32,125 → 2026-10-30 32,300（+175）
+2026-10-18 32,125 → 2026-10-31 32,312（+187）
 
 
 ---

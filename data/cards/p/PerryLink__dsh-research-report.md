@@ -1,6 +1,6 @@
 # PerryLink/dsh-research-report
 
-⭐ 212 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://perrylink.github.io/plugins/dsh-research-report/) · 个人维护 · 中文 README
+⭐ 213 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://perrylink.github.io/plugins/dsh-research-report/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：生成逐条声明可验证的密封研究报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-research-report 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 211 --> 215
-    line [213, 214, 213, 212, 212]
+    line [213, 214, 213, 212, 213]
 ```
 
-2026-10-18 213 → 2026-10-30 212（-1）
+2026-10-18 213 → 2026-10-31 213（+0）
 
 
 ---

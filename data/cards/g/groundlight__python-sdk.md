@@ -1,6 +1,6 @@
 # groundlight/python-sdk
 
-⭐ 57 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/groundlight/python-sdk) · [官网](https://code.groundlight.ai) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/groundlight/python-sdk) · [官网](https://code.groundlight.ai) · 组织维护
 
 **访问 Groundlight 云端视觉问答 API 的 Python SDK**
 
@@ -44,12 +44,12 @@ Groundlight 公司的官方 Python SDK，用于接入其计算机视觉服务：
 ```mermaid
 xychart-beta
     title "groundlight/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-30 57（+0）
+2026-10-18 57 → 2026-10-31 57（+0）
 
 
 ---

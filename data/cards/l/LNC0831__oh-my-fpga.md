@@ -1,6 +1,6 @@
 # LNC0831/oh-my-fpga
 
-⭐ 22 · JavaScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/LNC0831/oh-my-fpga) · [官网](https://synthpilot.dev) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/LNC0831/oh-my-fpga) · [官网](https://synthpilot.dev) · 个人维护 · 中文 README
 
 **给 Claude Code 的 FPGA 方法论 skill 包：13 个工作流编排 SynthPilot 工具**
 
@@ -47,12 +47,12 @@ SynthPilot MCP 服务器的开源配套 skill 包：SynthPilot 向 AI 暴露约 
 ```mermaid
 xychart-beta
     title "LNC0831/oh-my-fpga 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

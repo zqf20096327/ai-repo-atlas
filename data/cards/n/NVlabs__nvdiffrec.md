@@ -1,6 +1,6 @@
 # NVlabs/nvdiffrec
 
-⭐ 2,300 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/NVlabs/nvdiffrec) · 组织维护
+⭐ 2,299 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/NVlabs/nvdiffrec) · 组织维护
 
 **CVPR 2022 论文官方代码：从多视角图像重建三角网格 3D 模型、材质与光照**
 
@@ -45,12 +45,12 @@ NVIDIA 实验室发布的论文官方实现，通过联合优化拓扑、材质�
 ```mermaid
 xychart-beta
     title "NVlabs/nvdiffrec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 2299 --> 2302
-    line [2301, 2300, 2300]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 2298 --> 2302
+    line [2301, 2300, 2299]
 ```
 
-2026-10-18 2,301 → 2026-10-30 2,300（-1）
+2026-10-18 2,301 → 2026-10-31 2,299（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # lokikill123/codex-token-skills
 
-⭐ 118 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/lokikill123/codex-token-skills) · 个人维护 · 中文 README
+⭐ 117 · MIT · 推送 2026-06-15 · [GitHub](https://github.com/lokikill123/codex-token-skills) · 个人维护 · 中文 README
 
 **为 Codex CLI 提供省 token 与持久记忆的两个 skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lokikill123/codex-token-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 116 --> 119
+    line [118, 117]
 ```
 
-2026-10-18 118 → 2026-10-30 118（+0）
+2026-10-18 118 → 2026-10-31 117（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlc-ai/web-llm-chat
 
-⭐ 1,132 · TypeScript · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/mlc-ai/web-llm-chat) · [官网](https://chat.webllm.ai/) · 组织维护
+⭐ 1,133 · TypeScript · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/mlc-ai/web-llm-chat) · [官网](https://chat.webllm.ai/) · 组织维护
 
 **浏览器内本地运行 LLM 的隐私聊天界面**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlc-ai/web-llm-chat 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1122 --> 1133
-    line [1123, 1125, 1126, 1129, 1131, 1132]
+    title "mlc-ai/web-llm-chat 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1122 --> 1134
+    line [1123, 1125, 1126, 1129, 1131, 1132, 1133]
 ```
 
-2026-10-18 1,123 → 2026-10-30 1,132（+9）
+2026-10-18 1,123 → 2026-10-31 1,133（+10）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juanmanueldaza/linkedin2md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "juanmanueldaza/linkedin2md 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 46 --> 50
-    line [47, 49]
+    line [47, 49, 49]
 ```
 
-2026-10-18 47 → 2026-10-30 49（+2）
+2026-10-18 47 → 2026-10-31 49（+2）
 
 
 ---

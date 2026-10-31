@@ -45,13 +45,13 @@ AirLLM 的 fork，以 Python 库（pip 安装）形式提供：将 HuggingFace c
 
 ```mermaid
 xychart-beta
-    title "ManuelSLemos/RabbitLLM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    title "ManuelSLemos/RabbitLLM 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 85 --> 90
-    line [86, 87, 88, 89]
+    line [86, 87, 88, 89, 89]
 ```
 
-2026-10-18 86 → 2026-10-30 89（+3）
+2026-10-18 86 → 2026-10-31 89（+3）
 
 
 ---

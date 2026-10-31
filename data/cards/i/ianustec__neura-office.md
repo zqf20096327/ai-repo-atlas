@@ -1,6 +1,6 @@
 # ianustec/neura-office
 
-⭐ 86 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ianustec/neura-office) · [官网](https://ianustec.com) · 组织维护
+⭐ 87 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ianustec/neura-office) · [官网](https://ianustec.com) · 组织维护
 
 **Open WebUI 的 Office 文件生成工具套件：聊天产出可编辑 docx/pptx/xlsx**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ianustec/neura-office 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 78 --> 87
-    line [79, 81, 83, 84, 86]
+    title "ianustec/neura-office 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 78 --> 88
+    line [79, 81, 83, 84, 86, 87]
 ```
 
-2026-10-18 79 → 2026-10-30 86（+7）
+2026-10-18 79 → 2026-10-31 87（+8）
 
 
 ---

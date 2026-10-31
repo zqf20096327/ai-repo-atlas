@@ -1,6 +1,6 @@
 # lds051332/OptionTradingAgent
 
-⭐ 32 · Python · 推送 2026-10-26 · [GitHub](https://github.com/lds051332/OptionTradingAgent) · [官网](https://option.xdashan.top/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **美股短周期轮式策略（卖put/covered call）决策建议台，只给建议不下单**
 

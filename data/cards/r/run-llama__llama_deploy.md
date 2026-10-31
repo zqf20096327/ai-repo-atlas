@@ -1,6 +1,6 @@
 # run-llama/llama_deploy
 
-⭐ 2,067 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/run-llama/llama_deploy) · [官网](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/) · 组织维护
+⭐ 2,066 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/run-llama/llama_deploy) · [官网](https://docs.llamaindex.ai/en/stable/module_guides/llama_deploy/) · 组织维护
 
 **将 LlamaIndex agent 工作流部署到生产环境的框架（已弃用）**
 
@@ -43,12 +43,12 @@ LlamaDeploy 是 LlamaIndex 团体的项目，用于把 agentic workflows 部署�
 ```mermaid
 xychart-beta
     title "run-llama/llama_deploy 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 2065 --> 2069
-    line [2066, 2067, 2068, 2067, 2067]
+    line [2066, 2067, 2068, 2067, 2066]
 ```
 
-2026-10-18 2,066 → 2026-10-30 2,067（+1）
+2026-10-18 2,066 → 2026-10-31 2,066（+0）
 
 
 ---

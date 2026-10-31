@@ -1,6 +1,6 @@
 # Agent-Field/reels-af
 
-⭐ 122 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/Agent-Field/reels-af) · 组织维护
+⭐ 123 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/Agent-Field/reels-af) · 组织维护
 
 **面向内容创作者的 AI 多智能体短视频生成器：URL/主题→竖版 reel**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Agent-Field/reels-af 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 116 --> 123
-    line [117, 120, 121, 122, 122]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 116 --> 124
+    line [117, 120, 121, 122, 123]
 ```
 
-2026-10-18 117 → 2026-10-30 122（+5）
+2026-10-18 117 → 2026-10-31 123（+6）
 
 
 ---

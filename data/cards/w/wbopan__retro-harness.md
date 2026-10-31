@@ -1,6 +1,6 @@
 # wbopan/retro-harness
 
-⭐ 68 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/wbopan/retro-harness) · [官网](https://paper-rho.wenbo.io) · 组织维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wbopan/retro-harness) · [官网](https://paper-rho.wenbo.io) · 组织维护 · 中文 README
 
 **无标注优化 LLM agent 技能与工作流的研究框架**
 
@@ -45,12 +45,12 @@ RHO（Retrospective Harness Optimization）研究代码库：利用 agent 自身
 ```mermaid
 xychart-beta
     title "wbopan/retro-harness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 60 --> 69
     line [61, 62, 64, 65, 67, 68, 68]
 ```
 
-2026-10-18 61 → 2026-10-30 68（+7）
+2026-10-18 61 → 2026-10-31 68（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # sonirico/mcp-shell
 
-⭐ 108 · Go · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sonirico/mcp-shell) · [官网](https://sonirico.dev/posts/the-allowlist-that-runs-anything/) · 个人维护
+⭐ 109 · Go · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sonirico/mcp-shell) · [官网](https://sonirico.dev/posts/the-allowlist-that-runs-anything/) · 个人维护
 
 **MCP 服务器：让 LLM 以受控、可审计方式运行 shell 与文件/git 操作**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sonirico/mcp-shell 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 107 --> 110
+    line [108, 109]
 ```
 
-2026-10-18 108 → 2026-10-30 108（+0）
+2026-10-18 108 → 2026-10-31 109（+1）
 
 
 ---

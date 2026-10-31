@@ -1,6 +1,6 @@
 # bieniu/ha-perplexity
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bieniu/ha-perplexity) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bieniu/ha-perplexity) · 个人维护
 
 **在 Home Assistant 中接入 Perplexity 的对话助手集成**
 
@@ -45,13 +45,13 @@ Home Assistant 自定义集成，通过 Perplexity Agent API 将 Perplexity 接�
 
 ```mermaid
 xychart-beta
-    title "bieniu/ha-perplexity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "bieniu/ha-perplexity 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 32 --> 35
-    line [33, 34]
+    line [33, 34, 34]
 ```
 
-2026-10-18 33 → 2026-10-30 34（+1）
+2026-10-18 33 → 2026-10-31 34（+1）
 
 
 ---

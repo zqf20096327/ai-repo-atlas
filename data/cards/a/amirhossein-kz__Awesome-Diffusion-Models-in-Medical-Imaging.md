@@ -1,6 +1,6 @@
 # amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging
 
-⭐ 2,112 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) · [官网](https://www.sciencedirect.com/science/article/pii/S1361841523001068) · 组织维护
+⭐ 2,113 · MIT · 推送 2025-11-17 · [GitHub](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) · [官网](https://www.sciencedirect.com/science/article/pii/S1361841523001068) · 组织维护
 
 **医学影像扩散模型论文清单：配套 MedIA 综述的持续整理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 2110 --> 2114
-    line [2112, 2111, 2112, 2113, 2112, 2111, 2112]
+    line [2112, 2111, 2112, 2113, 2112, 2111, 2112, 2113]
 ```
 
-2026-10-18 2,112 → 2026-10-30 2,112（+0）
+2026-10-18 2,112 → 2026-10-31 2,113（+1）
 
 
 ---

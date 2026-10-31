@@ -1,6 +1,6 @@
 # wildminder/awesome-qwen-image
 
-⭐ 158 · 推送 2026-10-19 · [GitHub](https://github.com/wildminder/awesome-qwen-image) · 个人维护 · 中文 README
+⭐ 159 · 推送 2026-10-19 · [GitHub](https://github.com/wildminder/awesome-qwen-image) · 个人维护 · 中文 README
 
 **Qwen-Image 2.1 模型资源策展清单：权重、量化、提示引擎与工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wildminder/awesome-qwen-image 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 153 --> 159
-    line [154, 156, 157, 158, 158]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 153 --> 160
+    line [154, 156, 157, 158, 159]
 ```
 
-2026-10-18 154 → 2026-10-30 158（+4）
+2026-10-18 154 → 2026-10-31 159（+5）
 
 
 ---

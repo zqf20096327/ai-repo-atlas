@@ -46,12 +46,12 @@ AI Engineer World's Fair 2026 工作坊材料：以真实 Rust 代码库 qdrant 
 ```mermaid
 xychart-beta
     title "bcallender/agent-context-workshop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

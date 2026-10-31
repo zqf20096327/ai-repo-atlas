@@ -1,6 +1,6 @@
 # jennyzzt/awesome-open-ended
 
-⭐ 479 · 推送 2026-10-21 · [GitHub](https://github.com/jennyzzt/awesome-open-ended) · 个人维护
+⭐ 479 · 推送 2026-10-30 · [GitHub](https://github.com/jennyzzt/awesome-open-ended) · 个人维护
 
 **开放式学习（open-ended）AI 研究论文与资源策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jennyzzt/awesome-open-ended 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31"]
     y-axis "stars" 474 --> 480
     line [475, 476, 477, 478, 479, 479]
 ```
 
-2026-10-18 475 → 2026-10-30 479（+4）
+2026-10-18 475 → 2026-10-31 479（+4）
 
 
 ---

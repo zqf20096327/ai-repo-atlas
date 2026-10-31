@@ -1,6 +1,6 @@
 # Kreuzhofen/hk-npu-studio
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/Kreuzhofen/hk-npu-studio) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Kreuzhofen/hk-npu-studio) · 个人维护
 
 **Snapdragon PC 上本地 NPU 图像生成桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kreuzhofen/hk-npu-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 15 --> 18
     line [16, 17, 16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

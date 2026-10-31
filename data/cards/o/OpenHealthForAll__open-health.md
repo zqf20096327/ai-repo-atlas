@@ -1,6 +1,6 @@
 # OpenHealthForAll/open-health
 
-⭐ 3,967 · TypeScript · AGPL-3.0 · 推送 2026-01-06 · [GitHub](https://github.com/OpenHealthForAll/open-health) · [官网](https://www.open-health.me) · 组织维护 · 中文 README
+⭐ 3,966 · TypeScript · AGPL-3.0 · 推送 2026-01-06 · [GitHub](https://github.com/OpenHealthForAll/open-health) · [官网](https://www.open-health.me) · 组织维护 · 中文 README
 
 **本地运行的 AI 个人健康助手：解析你的健康数据并提供对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenHealthForAll/open-health 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 3960 --> 3968
-    line [3961, 3962, 3963, 3966, 3965, 3967, 3967]
+    line [3961, 3962, 3963, 3966, 3965, 3967, 3966]
 ```
 
-2026-10-18 3,961 → 2026-10-30 3,967（+6）
+2026-10-18 3,961 → 2026-10-31 3,966（+5）
 
 
 ---

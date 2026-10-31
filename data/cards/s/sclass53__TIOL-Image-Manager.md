@@ -1,6 +1,6 @@
 # sclass53/TIOL-Image-Manager
 
-⭐ 15 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sclass53/TIOL-Image-Manager) · [官网](https://tiol.netlify.app) · 个人维护 · 中文 README
+⭐ 16 · Rust · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/sclass53/TIOL-Image-Manager) · [官网](https://tiol.netlify.app) · 个人维护 · 中文 README
 
 **本地离线 AI 照片管理器：自动打标并按语义描述搜图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sclass53/TIOL-Image-Manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 12 --> 16
-    line [13, 15, 15]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 16]
 ```
 
-2026-10-18 13 → 2026-10-30 15（+2）
+2026-10-18 13 → 2026-10-31 16（+3）
 
 
 ---

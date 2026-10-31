@@ -1,6 +1,6 @@
 # feldroy/air
 
-⭐ 920 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/feldroy/air) · [官网](https://airwebframework.org) · 个人维护
+⭐ 921 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/feldroy/air) · [官网](https://airwebframework.org) · 个人维护
 
 **面向 AI 编写的 Web 框架，基于 FastAPI/Pydantic/HTMX**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "feldroy/air 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 917 --> 921
-    line [918, 919, 920, 920]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 917 --> 922
+    line [918, 919, 920, 921]
 ```
 
-2026-10-18 918 → 2026-10-30 920（+2）
+2026-10-18 918 → 2026-10-31 921（+3）
 
 
 ---

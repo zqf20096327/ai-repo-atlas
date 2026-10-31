@@ -1,6 +1,6 @@
 # KenKaiii/gg-framework
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://skool.com/kenkai) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://skool.com/kenkai) · 个人维护
 
 **桌面 AI 编程与聊天应用，支持多模型接入与视频生成**
 
@@ -46,12 +46,12 @@ GG Coder 是面向开发者的桌面 AI 应用（macOS/Windows），提供编程
 ```mermaid
 xychart-beta
     title "KenKaiii/gg-framework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

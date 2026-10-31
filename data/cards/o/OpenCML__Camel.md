@@ -1,6 +1,6 @@
 # OpenCML/Camel
 
-⭐ 21 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/OpenCML/Camel) · 组织维护 · 中文 README
+⭐ 21 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/OpenCML/Camel) · 组织维护 · 中文 README
 
 **面向 AI 的图原生编程语言，程序即计算图，支持多后端执行**
 
@@ -46,12 +46,12 @@ Camel 是图原生的通用编程语言，以 AI（模型训练与部署）为�
 ```mermaid
 xychart-beta
     title "OpenCML/Camel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

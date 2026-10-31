@@ -1,6 +1,6 @@
 # mmethodz/dreamgraph
 
-⭐ 127 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/mmethodz/dreamgraph) · 个人维护
+⭐ 128 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/mmethodz/dreamgraph) · 个人维护
 
 **面向开发者的图治理架构认知层：把项目知识固化为持久认知图**
 
@@ -45,12 +45,12 @@ DreamGraph 是一个 MCP 项目治理与架构认知环境，由实例级 daemon
 ```mermaid
 xychart-beta
     title "mmethodz/dreamgraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 126 --> 129
+    line [127, 128]
 ```
 
-2026-10-18 127 → 2026-10-30 127（+0）
+2026-10-18 127 → 2026-10-31 128（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # CMGS/gua
 
-⭐ 40 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CMGS/gua) · 个人维护 · 中文 README
+⭐ 41 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/CMGS/gua) · 个人维护 · 中文 README
 
 **多租户 AI agent 服务器：把微信/Telegram 接到 AI agent CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CMGS/gua 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-18 40 → 2026-10-30 40（+0）
+2026-10-18 40 → 2026-10-31 41（+1）
 
 
 ---

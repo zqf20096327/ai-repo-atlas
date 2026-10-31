@@ -1,6 +1,6 @@
 # mbzuai-oryx/groundingLMM
 
-⭐ 969 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/mbzuai-oryx/groundingLMM) · [官网](https://grounding-anything.com) · 组织维护
+⭐ 968 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/mbzuai-oryx/groundingLMM) · [官网](https://grounding-anything.com) · 组织维护
 
 **像素级视觉定位大模型：生成对话并输出分割掩码**
 
@@ -45,12 +45,12 @@ CVPR 2024 论文 GLaMM 的官方代码库，由 MBZUAI 等机构团队维护。G
 ```mermaid
 xychart-beta
     title "mbzuai-oryx/groundingLMM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 968 --> 970
-    line [969, 969]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 967 --> 970
+    line [969, 968]
 ```
 
-2026-10-18 969 → 2026-10-30 969（+0）
+2026-10-18 969 → 2026-10-31 968（-1）
 
 
 ---

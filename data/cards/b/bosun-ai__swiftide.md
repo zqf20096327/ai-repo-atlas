@@ -1,6 +1,6 @@
 # bosun-ai/swiftide
 
-⭐ 800 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/bosun-ai/swiftide) · [官网](https://swiftide.rs) · 组织维护
+⭐ 800 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bosun-ai/swiftide) · [官网](https://swiftide.rs) · 组织维护
 
 **Rust 框架：为开发者构建 LLM agent、任务图与流式 RAG 管道**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bosun-ai/swiftide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "bosun-ai/swiftide 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 791 --> 801
-    line [792, 793, 794, 795, 796, 798, 800]
+    line [792, 793, 794, 795, 796, 798, 800, 800]
 ```
 
-2026-10-18 792 → 2026-10-30 800（+8）
+2026-10-18 792 → 2026-10-31 800（+8）
 
 
 ---

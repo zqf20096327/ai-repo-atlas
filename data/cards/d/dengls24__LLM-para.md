@@ -1,6 +1,6 @@
 # dengls24/LLM-para
 
-⭐ 22 · Python · 推送 2026-04-16 · [GitHub](https://github.com/dengls24/LLM-para) · [官网](https://llm-para.onrender.com) · 组织维护
+⭐ 23 · Python · 推送 2026-04-16 · [GitHub](https://github.com/dengls24/LLM-para) · [官网](https://llm-para.onrender.com) · 组织维护
 
 **LLM 推理性能分析框架：FLOPs、访存与 Roofline 建模**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dengls24/LLM-para 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

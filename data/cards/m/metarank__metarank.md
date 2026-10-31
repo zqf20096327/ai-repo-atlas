@@ -1,6 +1,6 @@
 # metarank/metarank
 
-⭐ 2,456 · Scala · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/metarank/metarank) · [官网](https://metarank.ai) · 组织维护
+⭐ 2,455 · Scala · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/metarank/metarank) · [官网](https://metarank.ai) · 组织维护
 
 **开源实时个性化排序服务：为搜索与推荐做 Learning-to-Rank 重排**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metarank/metarank 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 2452 --> 2457
-    line [2453, 2454, 2455, 2456, 2456]
+    line [2453, 2454, 2455, 2456, 2455]
 ```
 
-2026-10-18 2,453 → 2026-10-30 2,456（+3）
+2026-10-18 2,453 → 2026-10-31 2,455（+2）
 
 
 ---

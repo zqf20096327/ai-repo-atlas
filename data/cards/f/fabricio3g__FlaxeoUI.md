@@ -1,6 +1,6 @@
 # fabricio3g/FlaxeoUI
 
-⭐ 52 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fabricio3g/FlaxeoUI) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/fabricio3g/FlaxeoUI) · 个人维护
 
 **给本地用户的 stable-diffusion.cpp 桌面图像生成工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fabricio3g/FlaxeoUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 51 --> 54
-    line [53, 52, 52]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 50 --> 54
+    line [53, 52, 51]
 ```
 
-2026-10-18 53 → 2026-10-30 52（-1）
+2026-10-18 53 → 2026-10-31 51（-2）
 
 
 ---

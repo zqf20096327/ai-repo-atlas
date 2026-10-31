@@ -1,6 +1,6 @@
 # instadeepai/nucleotide-transformer
 
-⭐ 928 · Jupyter Notebook · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/instadeepai/nucleotide-transformer) · 组织维护
+⭐ 933 · Jupyter Notebook · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/instadeepai/nucleotide-transformer) · 组织维护
 
 **基因组学 AI 基础模型集合：DNA/RNA 序列预测与嵌入**
 
@@ -47,12 +47,12 @@ InstaDeep 维护的基因组学深度学习模型仓库，收录 Nucleotide Tran
 ```mermaid
 xychart-beta
     title "instadeepai/nucleotide-transformer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 925 --> 929
-    line [926, 927, 928, 928]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 925 --> 934
+    line [926, 927, 928, 933]
 ```
 
-2026-10-18 926 → 2026-10-30 928（+2）
+2026-10-18 926 → 2026-10-31 933（+7）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModelTC/LightCompress 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ModelTC/LightCompress 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 750 --> 754
-    line [751, 753]
+    line [751, 753, 753]
 ```
 
-2026-10-18 751 → 2026-10-30 753（+2）
+2026-10-18 751 → 2026-10-31 753（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # stasstepv/hermes-pwa
 
-⭐ 35 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/stasstepv/hermes-pwa) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/stasstepv/hermes-pwa) · 个人维护
 
 **Hermes Agent 的非官方手机 PWA 客户端插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stasstepv/hermes-pwa 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 31 --> 36
-    line [32, 33, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 31 --> 38
+    line [32, 33, 34, 35, 37]
 ```
 
-2026-10-18 32 → 2026-10-30 35（+3）
+2026-10-18 32 → 2026-10-31 37（+5）
 
 
 ---

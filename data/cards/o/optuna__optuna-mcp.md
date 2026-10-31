@@ -1,6 +1,6 @@
 # optuna/optuna-mcp
 
-⭐ 88 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/optuna/optuna-mcp) · 组织维护
+⭐ 89 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/optuna/optuna-mcp) · 组织维护
 
 **让 LLM 通过 MCP 调用 Optuna 做超参优化的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "optuna/optuna-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-30 88（+0）
+2026-10-18 88 → 2026-10-31 89（+1）
 
 
 ---

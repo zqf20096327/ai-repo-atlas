@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-agent-apis
 
-⭐ 1,063 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Anil-matcha/awesome-agent-apis) · [官网](https://muapi.ai/agent-skills) · 组织维护
+⭐ 1,065 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Anil-matcha/awesome-agent-apis) · [官网](https://muapi.ai/agent-skills) · 组织维护
 
 **面向 agent 的 API 工具目录：660+ 生成媒体模型与第三方工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-agent-apis 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 1056 --> 1064
-    line [1057, 1058, 1060, 1061, 1063, 1063]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 1056 --> 1066
+    line [1057, 1058, 1060, 1061, 1063, 1065]
 ```
 
-2026-10-18 1,057 → 2026-10-30 1,063（+6）
+2026-10-18 1,057 → 2026-10-31 1,065（+8）
 
 
 ---

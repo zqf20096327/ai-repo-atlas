@@ -1,6 +1,6 @@
 # Notchly/Notchly
 
-⭐ 57 · Swift · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Notchly/Notchly) · [官网](https://notchly.xyz) · 组织维护
+⭐ 58 · Swift · MIT · 推送 2026-08-11 · [GitHub](https://github.com/Notchly/Notchly) · [官网](https://notchly.xyz) · 组织维护
 
 **将 MacBook 刘海变为控制面的 macOS 应用，含 Codex AI 提醒**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Notchly/Notchly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-10-30 57（+2）
+2026-10-18 55 → 2026-10-31 58（+3）
 
 
 ---

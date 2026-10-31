@@ -1,6 +1,6 @@
 # doem97/cvsm
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/doem97/cvsm) · [官网](https://doem97.github.io/cvsm/) · 个人维护 · 中文 README
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/doem97/cvsm) · [官网](https://doem97.github.io/cvsm/) · 个人维护 · 中文 README
 
 **用编码代理做受控 ML 实验的状态机协议（复制文件即用）**
 
@@ -45,12 +45,12 @@ CVSM 是一套复制进研究仓库的协议文件而非服务：研究者编写
 ```mermaid
 xychart-beta
     title "doem97/cvsm 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31"]
     y-axis "stars" 12 --> 24
     line [13, 22, 23, 23]
 ```
 
-2026-10-19 13 → 2026-10-30 23（+10）
+2026-10-19 13 → 2026-10-31 23（+10）
 
 
 ---

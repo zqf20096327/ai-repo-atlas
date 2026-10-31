@@ -1,6 +1,6 @@
 # madebyzan/knovum
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/madebyzan/knovum) · [官网](https://github.com/madebyzan/knovum) · 个人维护 · 中文 README
+⭐ 16 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/madebyzan/knovum) · [官网](https://github.com/madebyzan/knovum) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识工作台：无限画布+设备端 AI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madebyzan/knovum 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 2 --> 16
-    line [3, 11, 13, 15, 15]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 2 --> 17
+    line [3, 11, 13, 15, 16]
 ```
 
-2026-10-24 3 → 2026-10-30 15（+12）
+2026-10-24 3 → 2026-10-31 16（+13）
 
 
 ---

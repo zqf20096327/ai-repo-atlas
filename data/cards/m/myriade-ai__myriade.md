@@ -1,6 +1,6 @@
 # myriade-ai/myriade
 
-⭐ 62 · Shell · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/myriade-ai/myriade) · [官网](https://www.myriade.ai) · 组织维护
+⭐ 62 · Shell · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/myriade-ai/myriade) · [官网](https://www.myriade.ai) · 组织维护
 
 **面向企业数据仓库的 AI 分析师：自然语言查询与数据治理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "myriade-ai/myriade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-30 62（+0）
+2026-10-18 62 → 2026-10-31 62（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/langchain-neo4j
 
-⭐ 40 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/langchain-neo4j) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/langchain-neo4j) · 组织维护
 
 **LangChain 的 Neo4j 集成包**
 
@@ -42,12 +42,12 @@ langchain-ai 维护的官方集成仓库，包含单一包 langchain-neo4j，用
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-neo4j 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 39 --> 42
     line [41, 40, 40]
 ```
 
-2026-10-18 41 → 2026-10-30 40（-1）
+2026-10-18 41 → 2026-10-31 40（-1）
 
 
 ---

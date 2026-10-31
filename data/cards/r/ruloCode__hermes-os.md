@@ -1,6 +1,6 @@
 # ruloCode/hermes-os
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ruloCode/hermes-os) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ruloCode/hermes-os) · 个人维护
 
 **本地优先的个人 AI 操作系统：语音、Agent 执行与会议助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruloCode/hermes-os 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

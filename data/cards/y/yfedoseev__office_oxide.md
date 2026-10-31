@@ -1,6 +1,6 @@
 # yfedoseev/office_oxide
 
-⭐ 161 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/yfedoseev/office_oxide) · [官网](https://office.oxide.fyi) · 个人维护
+⭐ 161 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/yfedoseev/office_oxide) · [官网](https://office.oxide.fyi) · 个人维护
 
 **多语言 Office 文档解析库：6 种格式提取文本/Markdown**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yfedoseev/office_oxide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "yfedoseev/office_oxide 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 153 --> 162
-    line [154, 155, 157, 158, 159, 161]
+    line [154, 155, 157, 158, 159, 161, 161]
 ```
 
-2026-10-18 154 → 2026-10-30 161（+7）
+2026-10-18 154 → 2026-10-31 161（+7）
 
 
 ---

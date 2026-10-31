@@ -1,6 +1,6 @@
 # nagisanzenin/INIT-Agent
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nagisanzenin/INIT-Agent) · [官网](https://initlabs.si) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/nagisanzenin/INIT-Agent) · [官网](https://initlabs.si) · 个人维护
 
 **可改写自身 harness 的自修改编码 agent（研究预览版）**
 
@@ -46,12 +46,12 @@ Rust 编写的编码 agent，允许模型在任务中修改自己的 harness—�
 ```mermaid
 xychart-beta
     title "nagisanzenin/INIT-Agent 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-29 20 → 2026-10-30 20（+0）
+2026-10-29 20 → 2026-10-31 20（+0）
 
 
 ---

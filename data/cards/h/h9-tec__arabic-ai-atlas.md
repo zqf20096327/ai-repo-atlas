@@ -1,6 +1,6 @@
 # h9-tec/arabic-ai-atlas
 
-⭐ 43 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/h9-tec/arabic-ai-atlas) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/h9-tec/arabic-ai-atlas) · 个人维护
 
 **阿拉伯语 AI 生态地图与清单，可装成 agent 技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "h9-tec/arabic-ai-atlas 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    title "h9-tec/arabic-ai-atlas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 37 --> 44
-    line [38, 40, 41, 42, 43]
+    line [38, 40, 41, 42, 43, 43]
 ```
 
-2026-10-18 38 → 2026-10-30 43（+5）
+2026-10-18 38 → 2026-10-31 43（+5）
 
 
 ---

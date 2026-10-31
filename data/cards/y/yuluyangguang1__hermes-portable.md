@@ -1,6 +1,6 @@
 # yuluyangguang1/hermes-portable
 
-⭐ 62 · HTML · MIT · 推送 2026-09-16 · [GitHub](https://github.com/yuluyangguang1/hermes-portable) · 个人维护 · 中文 README
+⭐ 63 · HTML · MIT · 推送 2026-09-16 · [GitHub](https://github.com/yuluyangguang1/hermes-portable) · 个人维护 · 中文 README
 
 **Hermes Agent 便携打包：解压到 U 盘即用的零安装运行环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuluyangguang1/hermes-portable 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 59 --> 64
+    line [60, 61, 62, 63]
 ```
 
-2026-10-18 60 → 2026-10-30 62（+2）
+2026-10-18 60 → 2026-10-31 63（+3）
 
 
 ---

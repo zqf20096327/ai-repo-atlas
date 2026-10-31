@@ -47,12 +47,12 @@ agentsync 是一个零依赖的 npm CLI 工具，解决多个 AI 编码代理规
 ```mermaid
 xychart-beta
     title "PanisHandsome/ai-rules-sync 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-30 101（+0）
+2026-10-18 101 → 2026-10-31 101（+0）
 
 
 ---

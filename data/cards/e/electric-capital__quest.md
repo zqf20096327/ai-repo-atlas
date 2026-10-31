@@ -1,6 +1,6 @@
 # electric-capital/quest
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/electric-capital/quest) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/electric-capital/quest) · 组织维护
 
 **自托管 AI agent 工作台：让非工程师安全地用 LLM 处理敏感数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "electric-capital/quest 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 72 --> 81
-    line [73, 74, 78, 79, 80, 80]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 72 --> 82
+    line [73, 74, 78, 79, 80, 81]
 ```
 
-2026-10-18 73 → 2026-10-30 80（+7）
+2026-10-18 73 → 2026-10-31 81（+8）
 
 
 ---

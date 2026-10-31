@@ -46,12 +46,12 @@ Sinapsis 生态下的多目标跟踪 mono repo，含三个 Python 包：sinapsis
 ```mermaid
 xychart-beta
     title "Sinapsis-AI/sinapsis-trackers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

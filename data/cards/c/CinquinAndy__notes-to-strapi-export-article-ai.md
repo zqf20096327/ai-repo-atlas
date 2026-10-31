@@ -1,6 +1,6 @@
 # CinquinAndy/notes-to-strapi-export-article-ai
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai) · 个人维护
 
 **将 Obsidian 笔记导出到 Strapi 的插件，带 AI frontmatter 与 SEO 处理**
 
@@ -46,12 +46,12 @@ Obsidian 社区插件，用于把 Markdown 笔记通过 Strapi API 导出为 CMS
 ```mermaid
 xychart-beta
     title "CinquinAndy/notes-to-strapi-export-article-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

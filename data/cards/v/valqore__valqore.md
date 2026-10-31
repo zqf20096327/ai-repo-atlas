@@ -1,6 +1,6 @@
 # valqore/valqore
 
-⭐ 1,873 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
+⭐ 1,870 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
 
 **面向 Kubernetes 与云资源的基础设施治理引擎，输出评分与准入裁决**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "valqore/valqore 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 1871 --> 1899
-    line [1897, 1884, 1886, 1873, 1873]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 1868 --> 1899
+    line [1897, 1884, 1886, 1873, 1870]
 ```
 
-2026-10-18 1,897 → 2026-10-30 1,873（-24）
+2026-10-18 1,897 → 2026-10-31 1,870（-27）
 
 
 ---

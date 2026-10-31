@@ -1,6 +1,6 @@
 # i-dot-ai/lex
 
-⭐ 76 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/i-dot-ai/lex) · [官网](https://lex.lab.i.ai.gov.uk/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/i-dot-ai/lex) · [官网](https://lex.lab.i.ai.gov.uk/) · 组织维护
 
 **英国立法数据 API：面向 AI agent 与法律研究者提供语义检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "i-dot-ai/lex 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 74 --> 77
     line [75, 76, 76]
 ```
 
-2026-10-18 75 → 2026-10-30 76（+1）
+2026-10-18 75 → 2026-10-31 76（+1）
 
 
 ---

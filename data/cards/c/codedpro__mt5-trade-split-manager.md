@@ -45,12 +45,12 @@ MetaTrader 5 Expert Advisor，将单笔订单拆分为 1-10 个仓位（默认 5
 ```mermaid
 xychart-beta
     title "codedpro/mt5-trade-split-manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 85 --> 88
     line [86, 87, 87]
 ```
 
-2026-10-18 86 → 2026-10-30 87（+1）
+2026-10-18 86 → 2026-10-31 87（+1）
 
 
 ---

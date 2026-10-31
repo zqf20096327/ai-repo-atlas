@@ -44,13 +44,13 @@ SAITS 论文（发表于 Expert Systems with Applications）的官方代码仓�
 
 ```mermaid
 xychart-beta
-    title "WenjieDu/SAITS 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "WenjieDu/SAITS 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 512 --> 517
-    line [513, 515, 516]
+    line [513, 515, 516, 516]
 ```
 
-2026-10-18 513 → 2026-10-30 516（+3）
+2026-10-18 513 → 2026-10-31 516（+3）
 
 
 ---

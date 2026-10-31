@@ -1,6 +1,6 @@
 # spring-petclinic/spring-petclinic-ai
 
-⭐ 38 · Java · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-ai) · 组织维护
+⭐ 39 · Java · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-ai) · 组织维护
 
 **Spring PetClinic 示例应用的 AI 聊天助手分支**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spring-petclinic/spring-petclinic-ai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 37 --> 40
-    line [39, 38, 38]
+    line [39, 38, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 38（-1）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # awslabs/fullstack-solution-template-for-agentcore
 
-⭐ 600 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [官网](https://aws.amazon.com/bedrock/agentcore/) · 组织维护
+⭐ 600 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/awslabs/fullstack-solution-template-for-agentcore) · [官网](https://aws.amazon.com/bedrock/agentcore/) · 组织维护
 
 **AWS 官方的 AgentCore 全栈应用部署模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "awslabs/fullstack-solution-template-for-agentcore 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 598 --> 601
     line [599, 600, 600]
 ```
 
-2026-10-18 599 → 2026-10-30 600（+1）
+2026-10-18 599 → 2026-10-31 600（+1）
 
 
 ---

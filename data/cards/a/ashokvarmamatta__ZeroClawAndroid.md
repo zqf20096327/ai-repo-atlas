@@ -1,6 +1,6 @@
 # ashokvarmamatta/ZeroClawAndroid
 
-⭐ 15 · Kotlin · MIT · 推送 2026-05-04 · [GitHub](https://github.com/ashokvarmamatta/ZeroClawAndroid) · 个人维护
+⭐ 16 · Kotlin · MIT · 推送 2026-05-04 · [GitHub](https://github.com/ashokvarmamatta/ZeroClawAndroid) · 个人维护
 
 **Android 常驻 AI agent 应用：手机 24/7 连接聊天平台与多 LLM**
 
@@ -46,12 +46,12 @@ Kotlin/Compose 编写的 Android 前台服务应用，后台 24/7 运行 AI agen
 ```mermaid
 xychart-beta
     title "ashokvarmamatta/ZeroClawAndroid 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

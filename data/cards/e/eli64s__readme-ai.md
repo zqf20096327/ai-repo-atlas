@@ -1,6 +1,6 @@
 # eli64s/readme-ai
 
-⭐ 3,004 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eli64s/readme-ai) · [官网](https://eli64s.github.io/readme-ai/) · 个人维护
+⭐ 3,005 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/eli64s/readme-ai) · [官网](https://eli64s.github.io/readme-ai/) · 个人维护
 
 **面向开发者的 README 自动生成 CLI 工具**
 
@@ -44,13 +44,13 @@ ReadmeAI 是一个命令行开发工具：提供仓库 URL 或本地路径，经
 
 ```mermaid
 xychart-beta
-    title "eli64s/readme-ai 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    title "eli64s/readme-ai 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 3002 --> 3008
-    line [3003, 3005, 3006, 3007, 3006, 3004]
+    line [3003, 3005, 3006, 3007, 3006, 3004, 3005]
 ```
 
-2026-10-18 3,003 → 2026-10-30 3,004（+1）
+2026-10-18 3,003 → 2026-10-31 3,005（+2）
 
 
 ---

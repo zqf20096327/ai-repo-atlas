@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/AutoSwarm-Shadow-Adapter
 
-⭐ 4,467 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
+⭐ 4,677 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AhmadHassan-BTed/AutoSwarm-Shadow-Adapter) · [官网](https://pypi.org/project/AutoSwarm-shadow-adapter/) · 个人维护
 
 **为 AutoSwarm 提供 HITL 与远程算力接入的非侵入适配器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2547 --> 4641
-    line [2721, 2983, 3186, 3410, 3692, 3947, 4208, 4467]
+    title "AhmadHassan-BTed/AutoSwarm-Shadow-Adapter 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2526 --> 4872
+    line [2721, 2983, 3186, 3410, 3692, 3947, 4208, 4467, 4677]
 ```
 
-2026-10-23 2,721 → 2026-10-30 4,467（+1,746）
+2026-10-23 2,721 → 2026-10-31 4,677（+1,956）
 
 
 ---

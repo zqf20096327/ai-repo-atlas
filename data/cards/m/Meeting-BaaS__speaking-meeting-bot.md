@@ -1,6 +1,6 @@
 # Meeting-BaaS/speaking-meeting-bot
 
-⭐ 61 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Meeting-BaaS/speaking-meeting-bot) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Meeting-BaaS/speaking-meeting-bot) · 组织维护
 
 **可加入 Google Meet/Teams 会议的 AI 语音机器人，基于 Pipecat**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Meeting-BaaS/speaking-meeting-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 60 --> 63
     line [62, 61, 61]
 ```
 
-2026-10-18 62 → 2026-10-30 61（-1）
+2026-10-18 62 → 2026-10-31 61（-1）
 
 
 ---

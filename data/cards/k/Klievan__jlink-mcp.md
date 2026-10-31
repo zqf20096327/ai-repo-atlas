@@ -1,6 +1,6 @@
 # Klievan/jlink-mcp
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Klievan/jlink-mcp) · [官网](https://marketplace.visualstudio.com/items?itemName=Klievan.jlink-mcp) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Klievan/jlink-mcp) · [官网](https://marketplace.visualstudio.com/items?itemName=Klievan.jlink-mcp) · 个人维护
 
 **让 LLM 通过 MCP 直接操作 J-Link 等调试探针调试嵌入式设备**
 
@@ -47,12 +47,12 @@ TypeScript 实现的 MCP 服务器，把 SEGGER J-Link 调试探针（另支持 
 ```mermaid
 xychart-beta
     title "Klievan/jlink-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 35 --> 41
+    line [36, 37, 38, 39, 40]
 ```
 
-2026-10-18 36 → 2026-10-30 39（+3）
+2026-10-18 36 → 2026-10-31 40（+4）
 
 
 ---

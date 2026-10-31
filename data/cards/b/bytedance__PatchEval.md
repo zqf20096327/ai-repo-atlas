@@ -1,6 +1,6 @@
 # bytedance/PatchEval
 
-⭐ 234 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/PatchEval) · [官网](https://patcheval.github.io/) · 组织维护 · 中文 README
+⭐ 235 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/bytedance/PatchEval) · [官网](https://patcheval.github.io/) · 组织维护 · 中文 README
 
 **评测 LLM/Agent 修复真实漏洞能力的基准（230 个 CVE）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bytedance/PatchEval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 232 --> 235
-    line [233, 234, 234]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 232 --> 236
+    line [233, 234, 235]
 ```
 
-2026-10-18 233 → 2026-10-30 234（+1）
+2026-10-18 233 → 2026-10-31 235（+2）
 
 
 ---

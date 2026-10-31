@@ -1,6 +1,6 @@
 # Cattmonkey/ChaosIntelligence
 
-⭐ 204 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Cattmonkey/ChaosIntelligence) · 个人维护 · 中文 README
+⭐ 205 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/Cattmonkey/ChaosIntelligence) · 个人维护 · 中文 README
 
 **把智能体作为可调用值的函数式编程语言，附 CLI 与网页 IDE**
 
@@ -45,13 +45,13 @@ Chaos 是一门以函数为基础、将智能体作为可调用值纳入程序�
 
 ```mermaid
 xychart-beta
-    title "Cattmonkey/ChaosIntelligence 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 198 --> 205
-    line [199, 202, 203, 204]
+    title "Cattmonkey/ChaosIntelligence 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 198 --> 206
+    line [199, 202, 203, 204, 205]
 ```
 
-2026-10-26 199 → 2026-10-30 204（+5）
+2026-10-26 199 → 2026-10-31 205（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/agent-learning
 
-⭐ 16 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/agent-learning) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/agent-learning) · 组织维护
 
 **给 agent 开发者的可复用决策学习层，用反馈改进任务决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agent-learning 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 12 --> 17
     line [13, 14, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-10-30 16（+3）
+2026-10-18 13 → 2026-10-31 16（+3）
 
 
 ---

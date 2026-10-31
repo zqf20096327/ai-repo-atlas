@@ -1,6 +1,6 @@
 # BerriAI/litellm-skills
 
-⭐ 103 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/BerriAI/litellm-skills) · [官网](https://github.com/BerriAI/litellm-skills) · 组织维护
+⭐ 104 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/BerriAI/litellm-skills) · [官网](https://github.com/BerriAI/litellm-skills) · 组织维护
 
 **管理 LiteLLM 代理部署的 Agent Skills 集合**
 
@@ -44,12 +44,12 @@ BerriAI 维护的 Agent Skills 集合，用于管理运行中的 LiteLLM proxy �
 ```mermaid
 xychart-beta
     title "BerriAI/litellm-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 98 --> 104
-    line [99, 100, 102, 103, 103]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 98 --> 105
+    line [99, 100, 102, 103, 104]
 ```
 
-2026-10-18 99 → 2026-10-30 103（+4）
+2026-10-18 99 → 2026-10-31 104（+5）
 
 
 ---

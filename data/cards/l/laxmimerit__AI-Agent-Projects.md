@@ -45,12 +45,12 @@ KGP Talkie 维护的 Udemy 课程目录仓库，按 LLM 与 AI Agent 开发、�
 ```mermaid
 xychart-beta
     title "laxmimerit/AI-Agent-Projects 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-30 30（+1）
+2026-10-18 29 → 2026-10-31 30（+1）
 
 
 ---

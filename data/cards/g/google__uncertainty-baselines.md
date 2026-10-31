@@ -1,6 +1,6 @@
 # google/uncertainty-baselines
 
-⭐ 1,603 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/uncertainty-baselines) · 组织维护
+⭐ 1,602 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/google/uncertainty-baselines) · 组织维护
 
 **深度学习不确定性与鲁棒性基准方法实现库，面向科研者**
 
@@ -45,12 +45,12 @@ Google 维护的不确定性与鲁棒性基准集合：提供标准与先进方�
 ```mermaid
 xychart-beta
     title "google/uncertainty-baselines 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-31"]
     y-axis "stars" 1600 --> 1604
-    line [1601, 1602, 1601, 1603, 1603]
+    line [1601, 1602, 1601, 1603, 1602]
 ```
 
-2026-10-18 1,601 → 2026-10-30 1,603（+2）
+2026-10-18 1,601 → 2026-10-31 1,602（+1）
 
 
 ---

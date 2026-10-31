@@ -1,6 +1,6 @@
 # durable-streams/durable-streams
 
-⭐ 1,714 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/durable-streams/durable-streams) · [官网](https://durablestreams.com) · 组织维护
+⭐ 1,713 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/durable-streams/durable-streams) · [官网](https://durablestreams.com) · 组织维护
 
 **面向 agent 会话的持久化、可重放实时流数据原语**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "durable-streams/durable-streams 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
     y-axis "stars" 1708 --> 1715
-    line [1709, 1710, 1711, 1712, 1714, 1714]
+    line [1709, 1710, 1711, 1712, 1714, 1713]
 ```
 
-2026-10-18 1,709 → 2026-10-30 1,714（+5）
+2026-10-18 1,709 → 2026-10-31 1,713（+4）
 
 
 ---

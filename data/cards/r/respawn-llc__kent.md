@@ -1,6 +1,6 @@
 # respawn-llc/kent
 
-⭐ 83 · Go · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/respawn-llc/kent) · [官网](https://kent.sh) · 组织维护
+⭐ 84 · Go · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/respawn-llc/kent) · [官网](https://kent.sh) · 组织维护
 
 **面向专业工程师的终端编码 Agent，主打长任务输出质量**
 
@@ -45,13 +45,13 @@ Kent 是运行于终端的编码 agent 框架，为专业软件工程师设计�
 
 ```mermaid
 xychart-beta
-    title "respawn-llc/kent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 77 --> 84
-    line [78, 79, 81, 82, 83]
+    title "respawn-llc/kent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 77 --> 85
+    line [78, 79, 81, 82, 83, 84]
 ```
 
-2026-10-18 78 → 2026-10-30 83（+5）
+2026-10-18 78 → 2026-10-31 84（+6）
 
 
 ---

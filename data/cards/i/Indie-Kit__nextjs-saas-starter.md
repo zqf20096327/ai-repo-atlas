@@ -45,12 +45,12 @@ Indie Kit Pro 的开源/Lite 版本：基于 Next.js 16 (App Router)、TypeScrip
 ```mermaid
 xychart-beta
     title "Indie-Kit/nextjs-saas-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

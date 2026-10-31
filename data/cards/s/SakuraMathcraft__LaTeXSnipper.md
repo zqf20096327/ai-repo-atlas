@@ -1,6 +1,6 @@
 # SakuraMathcraft/LaTeXSnipper
 
-⭐ 1,061 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SakuraMathcraft/LaTeXSnipper) · [官网](https://latexsnipper.interknot.dpdns.org/) · 个人维护 · 中文 README
+⭐ 1,062 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/SakuraMathcraft/LaTeXSnipper) · [官网](https://latexsnipper.interknot.dpdns.org/) · 个人维护 · 中文 README
 
 **桌面公式识别与编辑工具：截图/PDF/手写转 LaTeX**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SakuraMathcraft/LaTeXSnipper 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1038 --> 1063
-    line [1040, 1042, 1048, 1050, 1051, 1056, 1058, 1056, 1058, 1060, 1061]
+    title "SakuraMathcraft/LaTeXSnipper 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1038 --> 1064
+    line [1040, 1042, 1048, 1050, 1051, 1056, 1058, 1056, 1058, 1060, 1061, 1062]
 ```
 
-2026-10-18 1,040 → 2026-10-30 1,061（+21）
+2026-10-18 1,040 → 2026-10-31 1,062（+22）
 
 
 ---

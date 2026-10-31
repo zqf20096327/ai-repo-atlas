@@ -1,6 +1,6 @@
 # zyx0814/FilePress
 
-⭐ 1,124 · PHP · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/zyx0814/FilePress) · [官网](https://filepress.cn) · 个人维护 · 中文 README
+⭐ 1,125 · PHP · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/zyx0814/FilePress) · [官网](https://filepress.cn) · 个人维护 · 中文 README
 
 **文件驱动型建站系统：网盘管理与文件发布网站，带 AI 标注**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zyx0814/FilePress 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 1121 --> 1125
-    line [1123, 1122, 1123, 1124]
+    title "zyx0814/FilePress 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1121 --> 1126
+    line [1123, 1122, 1123, 1124, 1125]
 ```
 
-2026-10-18 1,123 → 2026-10-30 1,124（+1）
+2026-10-18 1,123 → 2026-10-31 1,125（+2）
 
 
 ---

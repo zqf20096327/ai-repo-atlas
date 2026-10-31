@@ -1,6 +1,6 @@
 # WuliRuler/AutorizePro
 
-⭐ 625 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/WuliRuler/AutorizePro) · 个人维护 · 中文 README
+⭐ 626 · Python · Apache-2.0 · 推送 2026-01-18 · [GitHub](https://github.com/WuliRuler/AutorizePro) · 个人维护 · 中文 README
 
 **内置 AI 分析的 Burp 越权检测插件，降低误报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WuliRuler/AutorizePro 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 622 --> 626
-    line [623, 624, 623, 624, 625, 625]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 622 --> 627
+    line [623, 624, 623, 624, 625, 626]
 ```
 
-2026-10-18 623 → 2026-10-30 625（+2）
+2026-10-18 623 → 2026-10-31 626（+3）
 
 
 ---

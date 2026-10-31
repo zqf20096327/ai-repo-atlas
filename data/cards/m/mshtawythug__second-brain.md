@@ -1,6 +1,6 @@
 # mshtawythug/second-brain
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mshtawythug/second-brain) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mshtawythug/second-brain) · 个人维护
 
 **本地优先的个人知识库 CLI，供人与 AI agent 查询笔记与通信记录**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mshtawythug/second-brain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "mshtawythug/second-brain 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 16（+1）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/SkillSpector
 
-⭐ 23,332 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
+⭐ 23,513 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/SkillSpector) · [官网](https://docs.nvidia.com/skills/scanning-agent-skills) · 组织维护
 
 **AI agent 技能安装前安全扫描器：检测漏洞与恶意模式**
 
@@ -51,13 +51,13 @@ NVIDIA 维护的 agent 技能安全扫描工具：在安装 Claude Code、Codex 
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/SkillSpector 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 20129 --> 23623
-    line [20420, 20578, 20783, 20960, 21074, 21227, 21571, 22025, 22704, 23038, 23332]
+    title "NVIDIA/SkillSpector 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 20111 --> 23822
+    line [20420, 20578, 20783, 20960, 21074, 21227, 21571, 22025, 22704, 23038, 23332, 23513]
 ```
 
-2026-10-18 20,420 → 2026-10-30 23,332（+2,912）
+2026-10-18 20,420 → 2026-10-31 23,513（+3,093）
 
 
 ---

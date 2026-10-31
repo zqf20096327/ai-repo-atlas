@@ -1,6 +1,6 @@
 # bkd3sign/kleinanzeigen-bot-ui
 
-⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/bkd3sign/kleinanzeigen-bot-ui) · 个人维护
+⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-08-04 · [GitHub](https://github.com/bkd3sign/kleinanzeigen-bot-ui) · 个人维护
 
 ** kleinanzeigen-bot 的自托管 Web 管理面板，含 AI 广告生成与自动回复**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bkd3sign/kleinanzeigen-bot-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 18（+2）
 
 
 ---

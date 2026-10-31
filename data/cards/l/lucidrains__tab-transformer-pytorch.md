@@ -43,13 +43,13 @@ lucidrains 维护的 PyTorch 模型实现库，复现 TabTransformer——一种
 
 ```mermaid
 xychart-beta
-    title "lucidrains/tab-transformer-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "lucidrains/tab-transformer-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1097 --> 1100
-    line [1099, 1098]
+    line [1099, 1098, 1098]
 ```
 
-2026-10-18 1,099 → 2026-10-30 1,098（-1）
+2026-10-18 1,099 → 2026-10-31 1,098（-1）
 
 
 ---

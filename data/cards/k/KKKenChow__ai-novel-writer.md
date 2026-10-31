@@ -1,6 +1,6 @@
 # KKKenChow/ai-novel-writer
 
-⭐ 35 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/KKKenChow/ai-novel-writer) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-09-09 · [GitHub](https://github.com/KKKenChow/ai-novel-writer) · 个人维护 · 中文 README
 
 **面向个人作者的 AI 全流程小说创作 Web 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KKKenChow/ai-novel-writer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 34 --> 37
-    line [35, 36, 35, 35]
+    line [35, 36, 35, 36]
 ```
 
-2026-10-18 35 → 2026-10-30 35（+0）
+2026-10-18 35 → 2026-10-31 36（+1）
 
 
 ---

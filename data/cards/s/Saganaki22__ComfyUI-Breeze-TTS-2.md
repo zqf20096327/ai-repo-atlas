@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Breeze-TTS-2
 
-⭐ 137 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
+⭐ 138 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Saganaki22/ComfyUI-Breeze-TTS-2) · [官网](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) · 个人维护 · 中文 README
 
 **ComfyUI 的 Breeze TTS 2 语音合成节点包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-Breeze-TTS-2 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 93 --> 141
-    line [97, 98, 99, 100, 101, 105, 121, 125, 129, 137]
+    title "Saganaki22/ComfyUI-Breeze-TTS-2 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 93 --> 142
+    line [97, 98, 99, 100, 101, 105, 121, 125, 129, 137, 138]
 ```
 
-2026-10-18 97 → 2026-10-30 137（+40）
+2026-10-18 97 → 2026-10-31 138（+41）
 
 
 ---

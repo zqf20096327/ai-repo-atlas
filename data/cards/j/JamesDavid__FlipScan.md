@@ -1,6 +1,6 @@
 # JamesDavid/FlipScan
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/JamesDavid/FlipScan) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/JamesDavid/FlipScan) · 个人维护
 
 **把翻书视频/照片/PDF 转成校对过的电子书与有声书的本地工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JamesDavid/FlipScan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

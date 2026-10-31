@@ -1,6 +1,6 @@
 # wangyongpeng90/cuckoo-code
 
-⭐ 289 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/wangyongpeng90/cuckoo-code) · 个人维护 · 中文 README
+⭐ 291 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/wangyongpeng90/cuckoo-code) · 个人维护 · 中文 README
 
 **零 Token 成本的 AI Agent 桌面端：网页版账号驱动本地工具执行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangyongpeng90/cuckoo-code 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 256 --> 292
-    line [259, 263, 267, 272, 274, 275, 279, 280, 283, 289]
+    title "wangyongpeng90/cuckoo-code 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 256 --> 294
+    line [259, 263, 267, 272, 274, 275, 279, 280, 283, 289, 291]
 ```
 
-2026-10-18 259 → 2026-10-30 289（+30）
+2026-10-18 259 → 2026-10-31 291（+32）
 
 
 ---

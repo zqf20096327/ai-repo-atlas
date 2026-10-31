@@ -1,6 +1,6 @@
 # tdavidson/portfolio
 
-⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tdavidson/portfolio) · [官网](https://hemrock.com/portfolio) · 个人维护
+⭐ 73 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tdavidson/portfolio) · [官网](https://hemrock.com/portfolio) · 个人维护
 
 **自托管的风险投资机构运营平台：投前到 LP 报告全流程，接入自有 AI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tdavidson/portfolio 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 70 --> 74
     line [71, 73, 73]
 ```
 
-2026-10-18 71 → 2026-10-30 73（+2）
+2026-10-18 71 → 2026-10-31 73（+2）
 
 
 ---

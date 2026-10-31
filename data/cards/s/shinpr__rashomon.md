@@ -45,12 +45,12 @@ Rashomon 是一个 Claude Code 插件（Codex 侧仅含 prompt-optimization）�
 ```mermaid
 xychart-beta
     title "shinpr/rashomon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

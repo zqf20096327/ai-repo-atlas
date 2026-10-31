@@ -1,6 +1,6 @@
 # hotchpotch/openai-api-server-via-codex
 
-⭐ 87 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/hotchpotch/openai-api-server-via-codex) · [官网]( ) · 个人维护
+⭐ 88 · Go · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/hotchpotch/openai-api-server-via-codex) · [官网]( ) · 个人维护
 
 **将 ChatGPT/Codex 登录封装为本地 OpenAI 兼容 API 的 Go 代理服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hotchpotch/openai-api-server-via-codex 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 81 --> 88
-    line [82, 83, 84, 85, 86, 87]
+    title "hotchpotch/openai-api-server-via-codex 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 81 --> 89
+    line [82, 83, 84, 85, 86, 87, 88]
 ```
 
-2026-10-18 82 → 2026-10-30 87（+5）
+2026-10-18 82 → 2026-10-31 88（+6）
 
 
 ---

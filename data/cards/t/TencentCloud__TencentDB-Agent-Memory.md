@@ -1,6 +1,6 @@
 # TencentCloud/TencentDB-Agent-Memory
 
-⭐ 30,104 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
+⭐ 30,258 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
 
 **给 AI Agent 团队用的共享记忆中枢，沉淀可复用资产**
 
@@ -52,13 +52,13 @@
 
 ```mermaid
 xychart-beta
-    title "TencentCloud/TencentDB-Agent-Memory 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 29426 --> 30165
-    line [29487, 29633, 29737, 29808, 29863, 29888, 29915, 29982, 30022, 30058, 30104]
+    title "TencentCloud/TencentDB-Agent-Memory 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 29410 --> 30335
+    line [29487, 29633, 29737, 29808, 29863, 29888, 29915, 29982, 30022, 30058, 30104, 30258]
 ```
 
-2026-10-18 29,487 → 2026-10-30 30,104（+617）
+2026-10-18 29,487 → 2026-10-31 30,258（+771）
 
 
 ---

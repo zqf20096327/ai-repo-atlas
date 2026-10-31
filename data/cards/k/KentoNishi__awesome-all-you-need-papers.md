@@ -1,6 +1,6 @@
 # KentoNishi/awesome-all-you-need-papers
 
-⭐ 162 · Python · 推送 2026-10-27 · [GitHub](https://github.com/KentoNishi/awesome-all-you-need-papers) · [官网](https://kentonishi.github.io/awesome-all-you-need-papers/) · 个人维护
+⭐ 162 · Python · 推送 2026-10-30 · [GitHub](https://github.com/KentoNishi/awesome-all-you-need-papers) · [官网](https://kentonishi.github.io/awesome-all-you-need-papers/) · 个人维护
 
 **每日自动更新的「all you need」论文清单（arXiv API 抓取）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KentoNishi/awesome-all-you-need-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-18 162 → 2026-10-30 162（+0）
+2026-10-18 162 → 2026-10-31 162（+0）
 
 
 ---

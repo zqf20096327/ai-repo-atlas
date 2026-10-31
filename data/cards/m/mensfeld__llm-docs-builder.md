@@ -1,6 +1,6 @@
 # mensfeld/llm-docs-builder
 
-⭐ 95 · Ruby · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mensfeld/llm-docs-builder) · 个人维护
+⭐ 95 · Ruby · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mensfeld/llm-docs-builder) · 个人维护
 
 **为 LLM/RAG 优化 Markdown 文档并生成 llms.txt 的 Ruby 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mensfeld/llm-docs-builder 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-10-30 95（+0）
+2026-10-18 95 → 2026-10-31 95（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # haoyu-haoyu/stata-ai-fusion
 
-⭐ 44 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/haoyu-haoyu/stata-ai-fusion) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/haoyu-haoyu/stata-ai-fusion) · 个人维护 · 中文 README
 
 **让 AI 助手直接执行 Stata 的 MCP Server + 技能库 + VS Code 扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haoyu-haoyu/stata-ai-fusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 45（+1）
 
 
 ---

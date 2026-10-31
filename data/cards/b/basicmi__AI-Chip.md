@@ -1,6 +1,6 @@
 # basicmi/AI-Chip
 
-⭐ 1,712 · PHP · 推送 2026-07-16 · [GitHub](https://github.com/basicmi/AI-Chip) · [官网](https://basicmi.github.io/AI-Chip/) · 个人维护 · 中文 README
+⭐ 1,713 · PHP · 推送 2026-07-16 · [GitHub](https://github.com/basicmi/AI-Chip) · [官网](https://basicmi.github.io/AI-Chip/) · 个人维护 · 中文 README
 
 **AI/ML/DL 芯片与 IP 的新闻链接策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "basicmi/AI-Chip 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1711 --> 1713
-    line [1712, 1712]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1711 --> 1714
+    line [1712, 1713]
 ```
 
-2026-10-18 1,712 → 2026-10-30 1,712（+0）
+2026-10-18 1,712 → 2026-10-31 1,713（+1）
 
 
 ---

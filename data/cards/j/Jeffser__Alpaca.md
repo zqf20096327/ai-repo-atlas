@@ -1,6 +1,6 @@
 # Jeffser/Alpaca
 
-⭐ 1,657 · Python · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Jeffser/Alpaca) · [官网](https://jeffser.com/alpaca) · 个人维护
+⭐ 1,658 · Python · GPL-3.0 · 推送 2026-10-02 · [GitHub](https://github.com/Jeffser/Alpaca) · [官网](https://jeffser.com/alpaca) · 个人维护
 
 **GNOME 桌面的 Ollama 客户端：本地/云端模型聊天界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jeffser/Alpaca 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 1650 --> 1658
-    line [1651, 1653, 1654, 1655, 1657, 1657]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 1650 --> 1659
+    line [1651, 1653, 1654, 1655, 1657, 1658]
 ```
 
-2026-10-18 1,651 → 2026-10-30 1,657（+6）
+2026-10-18 1,651 → 2026-10-31 1,658（+7）
 
 
 ---

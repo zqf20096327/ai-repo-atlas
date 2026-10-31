@@ -45,12 +45,12 @@ Python 实现的 MCP 服务器（Kotlin 版 mcp-bsl-platform-context 的移植�
 ```mermaid
 xychart-beta
     title "Desko77/mcp-bsl-platform-help-context 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

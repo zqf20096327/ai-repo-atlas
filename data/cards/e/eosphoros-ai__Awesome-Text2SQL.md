@@ -1,6 +1,6 @@
 # eosphoros-ai/Awesome-Text2SQL
 
-⭐ 3,776 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/eosphoros-ai/Awesome-Text2SQL) · 组织维护 · 中文 README
+⭐ 3,779 · MIT · 推送 2026-01-26 · [GitHub](https://github.com/eosphoros-ai/Awesome-Text2SQL) · 组织维护 · 中文 README
 
 **LLM+Text2SQL 论文与资源策展清单，含评测榜单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "eosphoros-ai/Awesome-Text2SQL 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 3768 --> 3778
-    line [3769, 3770, 3775, 3776, 3777, 3776]
+    title "eosphoros-ai/Awesome-Text2SQL 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3768 --> 3780
+    line [3769, 3770, 3775, 3776, 3777, 3776, 3779]
 ```
 
-2026-10-18 3,769 → 2026-10-30 3,776（+7）
+2026-10-18 3,769 → 2026-10-31 3,779（+10）
 
 
 ---

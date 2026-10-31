@@ -45,12 +45,12 @@ AWS Solutions Library 的部署指南（Guidance），在 Amazon EKS 上构建�
 ```mermaid
 xychart-beta
     title "aws-solutions-library-samples/guidance-for-scalable-model-inference-and-agentic-ai-on-amazon-eks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 17 --> 21
     line [19, 18, 19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

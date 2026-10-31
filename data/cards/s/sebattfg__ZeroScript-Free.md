@@ -1,6 +1,6 @@
 # sebattfg/ZeroScript-Free
 
-⭐ 382 · JavaScript · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sebattfg/ZeroScript-Free) · [官网](https://discord.gg/D5G2HAzX8z) · 个人维护
+⭐ 386 · JavaScript · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/sebattfg/ZeroScript-Free) · [官网](https://discord.gg/D5G2HAzX8z) · 个人维护
 
 **把网页版 AI 聊天变成 Roblox Studio 代理的浏览器扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sebattfg/ZeroScript-Free 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 341 --> 385
-    line [344, 352, 357, 361, 362, 366, 369, 370, 373, 377, 382]
+    title "sebattfg/ZeroScript-Free 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 340 --> 390
+    line [344, 352, 357, 361, 362, 366, 369, 370, 373, 377, 382, 386]
 ```
 
-2026-10-18 344 → 2026-10-30 382（+38）
+2026-10-18 344 → 2026-10-31 386（+42）
 
 
 ---

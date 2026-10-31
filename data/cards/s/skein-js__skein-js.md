@@ -1,6 +1,6 @@
 # skein-js/skein-js
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/skein-js/skein-js) · [官网](https://skein-js.github.io/skein-js/) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/skein-js/skein-js) · [官网](https://skein-js.github.io/skein-js/) · 组织维护
 
 **自托管 LangGraph.js agent 的 TypeScript 运行时服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skein-js/skein-js 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 20, 21]
 ```
 
-2026-10-18 16 → 2026-10-30 20（+4）
+2026-10-18 16 → 2026-10-31 21（+5）
 
 
 ---

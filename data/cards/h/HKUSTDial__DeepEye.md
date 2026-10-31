@@ -1,6 +1,6 @@
 # HKUSTDial/DeepEye
 
-⭐ 256 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/HKUSTDial/DeepEye) · [官网](http://deepeye.hk) · 组织维护
+⭐ 257 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/HKUSTDial/DeepEye) · [官网](http://deepeye.hk) · 组织维护
 
 **自驱动数据 Agent 系统：从异构数据自动生成视频、看板与报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HKUSTDial/DeepEye 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 252 --> 257
-    line [253, 254, 255, 256]
+    title "HKUSTDial/DeepEye 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 252 --> 258
+    line [253, 254, 255, 256, 257]
 ```
 
-2026-10-18 253 → 2026-10-30 256（+3）
+2026-10-18 253 → 2026-10-31 257（+4）
 
 
 ---

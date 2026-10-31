@@ -1,6 +1,6 @@
 # google/scaaml
 
-⭐ 208 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google/scaaml) · [官网](https://google.github.io/scaaml/) · 组织维护
+⭐ 209 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google/scaaml) · [官网](https://google.github.io/scaaml/) · 组织维护
 
 **面向侧信道攻击的深度学习框架，含教程/模型/数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/scaaml 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 207 --> 209
-    line [208, 208]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 207 --> 210
+    line [208, 209]
 ```
 
-2026-10-18 208 → 2026-10-30 208（+0）
+2026-10-18 208 → 2026-10-31 209（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # pungme/superagent-desktop
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pungme/superagent-desktop) · [官网](https://superagent.computer) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pungme/superagent-desktop) · [官网](https://superagent.computer) · 个人维护
 
 **macOS 桌面工作台：为 Claude Code/Codex 等编码代理提供运行环境**
 
@@ -46,12 +46,12 @@ Electron/macOS 桌面应用，作为 Claude Code、Codex 与 Antigravity 编码�
 ```mermaid
 xychart-beta
     title "pungme/superagent-desktop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-30 33（+1）
+2026-10-18 32 → 2026-10-31 33（+1）
 
 
 ---

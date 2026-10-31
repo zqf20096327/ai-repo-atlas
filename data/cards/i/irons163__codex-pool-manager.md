@@ -1,6 +1,6 @@
 # irons163/codex-pool-manager
 
-⭐ 48 · Swift · 推送 2026-10-23 · [GitHub](https://github.com/irons163/codex-pool-manager) · 个人维护 · 中文 README
+⭐ 49 · Swift · 推送 2026-10-23 · [GitHub](https://github.com/irons163/codex-pool-manager) · 个人维护 · 中文 README
 
 **macOS 应用：集中管理与轮换多个 Codex/OpenAI 账户**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "irons163/codex-pool-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-18 48 → 2026-10-30 48（+0）
+2026-10-18 48 → 2026-10-31 49（+1）
 
 
 ---

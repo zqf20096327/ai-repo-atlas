@@ -1,6 +1,6 @@
 # FalkorDB/JFalkorDB
 
-⭐ 23 · Java · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/FalkorDB/JFalkorDB) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 23 · Java · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/FalkorDB/JFalkorDB) · [官网](https://www.falkordb.com/) · 组织维护
 
 **FalkorDB 图数据库的 Java 客户端库**
 
@@ -45,12 +45,12 @@ FalkorDB（基于 Redis 协议的图数据库）的官方 Java 客户端：提�
 ```mermaid
 xychart-beta
     title "FalkorDB/JFalkorDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

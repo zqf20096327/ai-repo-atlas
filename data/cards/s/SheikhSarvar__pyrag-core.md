@@ -1,6 +1,6 @@
 # SheikhSarvar/pyrag-core
 
-⭐ 20 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SheikhSarvar/pyrag-core) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/SheikhSarvar/pyrag-core) · 个人维护
 
 **生产级 RAG 平台：FastAPI API 与可插拔向量存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SheikhSarvar/pyrag-core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 21（+2）
 
 
 ---

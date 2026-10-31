@@ -40,6 +40,18 @@ STARCOP 是用于高光谱（AVIRIS-NG、EMIT）与多光谱（WorldView-3 模�
 > L6:  We introduce the STARCOP system, a lightweight model for methane plume detection in hyperspectral (AVIRIS-NG and EM
 > L19: Methane is the second most important greenhouse gas contributor to climate change; at the same time its reduction h
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "spaceml-org/STARCOP 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 73 --> 75
+    line [74, 74]
+```
+
+2026-10-30 74 → 2026-10-31 74（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `49954a21a50a` · [字段定义](../../DATASET.md)*

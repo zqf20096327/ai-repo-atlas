@@ -1,6 +1,6 @@
 # l-wn/ClusterChat
 
-⭐ 23 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/l-wn/ClusterChat) · [官网](https://clusterchat.io) · 个人维护
+⭐ 39 · JavaScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/l-wn/ClusterChat) · [官网](https://clusterchat.io) · 个人维护
 
 **浏览器内多人拼 GPU 分布式运行 27B 大模型的群聊应用**
 
@@ -40,6 +40,18 @@
 > L4: Cluster the graphics cards you already have to run a 27B model in the browser.
 > L29: ClusterChat turns those machines into one model that the whole group uses at
 > L83: |**ClusterChat**|browser tab (WebGPU)|yes, over WebRTC through a relay|none, open a link|yes, each person has their
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "l-wn/ClusterChat 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 22 --> 40
+    line [23, 39]
+```
+
+2026-10-30 23 → 2026-10-31 39（+16）
 
 
 ---

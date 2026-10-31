@@ -1,6 +1,6 @@
 # wanshuiyin/Anti-Autoresearch
 
-⭐ 172 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) · 个人维护 · 中文 README
+⭐ 172 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wanshuiyin/Anti-Autoresearch) · 个人维护 · 中文 README
 
 **审稿人侧的论文诚信取证工具：审计自洽性与编造并出确定性裁决**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wanshuiyin/Anti-Autoresearch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 163 --> 173
     line [164, 165, 166, 168, 169, 171, 172, 172]
 ```
 
-2026-10-18 164 → 2026-10-30 172（+8）
+2026-10-18 164 → 2026-10-31 172（+8）
 
 
 ---

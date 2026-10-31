@@ -1,6 +1,6 @@
 # hyperspaceai/agi
 
-⭐ 2,071 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hyperspaceai/agi) · [官网](https://agents.hyper.space/) · 组织维护
+⭐ 2,072 · JavaScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/hyperspaceai/agi) · [官网](https://agents.hyper.space/) · 组织维护
 
 **P2P 去中心化 AGI 网络：节点贡献算力运行自主研究 AI 代理**
 
@@ -47,12 +47,12 @@ Hyperspace 构建的完全对等网络：任何设备（浏览器标签页、笔
 ```mermaid
 xychart-beta
     title "hyperspaceai/agi 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2070 --> 2074
-    line [2072, 2073, 2072, 2071, 2073, 2071, 2071]
+    line [2072, 2073, 2072, 2071, 2073, 2071, 2072]
 ```
 
-2026-10-18 2,072 → 2026-10-30 2,071（-1）
+2026-10-18 2,072 → 2026-10-31 2,072（+0）
 
 
 ---

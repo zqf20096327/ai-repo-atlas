@@ -1,6 +1,6 @@
 # Knuckles-Team/vector-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Knuckles-Team/vector-mcp) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Knuckles-Team/vector-mcp) · 组织维护
 
 **面向 AI agent 的向量数据库 MCP 服务器，支持多后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Knuckles-Team/vector-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 16（+1）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

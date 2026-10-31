@@ -42,12 +42,12 @@ Weaviate 官方为其播客节目构建的 MCP 服务器项目，使 MCP 客户�
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-podcast-MCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-30 58（+0）
+2026-10-18 58 → 2026-10-31 58（+0）
 
 
 ---

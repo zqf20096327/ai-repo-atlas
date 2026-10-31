@@ -1,6 +1,6 @@
 # conorbronsdon/avoid-ai-writing
 
-⭐ 5,321 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
+⭐ 5,339 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
 
 **供 AI agent 使用的技能包：检测并改写文中的 AI 写作痕迹**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "conorbronsdon/avoid-ai-writing 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 5034 --> 5347
-    line [5060, 5101, 5173, 5209, 5222, 5236, 5254, 5278, 5296, 5321]
+    title "conorbronsdon/avoid-ai-writing 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 5033 --> 5366
+    line [5060, 5101, 5173, 5209, 5222, 5236, 5254, 5278, 5296, 5321, 5339]
 ```
 
-2026-10-18 5,060 → 2026-10-30 5,321（+261）
+2026-10-18 5,060 → 2026-10-31 5,339（+279）
 
 
 ---

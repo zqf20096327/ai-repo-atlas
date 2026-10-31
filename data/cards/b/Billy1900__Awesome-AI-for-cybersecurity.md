@@ -1,6 +1,6 @@
 # Billy1900/Awesome-AI-for-cybersecurity
 
-⭐ 275 · 推送 2026-10-02 · [GitHub](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) · 个人维护
+⭐ 276 · 推送 2026-10-02 · [GitHub](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) · 个人维护
 
 **AI 网络安全应用策展清单：覆盖五层安全场景的论文与工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Billy1900/Awesome-AI-for-cybersecurity 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 271 --> 276
-    line [272, 273, 274, 275, 275]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 271 --> 277
+    line [272, 273, 274, 275, 276]
 ```
 
-2026-10-18 272 → 2026-10-30 275（+3）
+2026-10-18 272 → 2026-10-31 276（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # chorus-codes/chorus
 
-⭐ 534 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/chorus-codes/chorus) · [官网](https://chorus.codes) · 组织维护
+⭐ 533 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/chorus-codes/chorus) · [官网](https://chorus.codes) · 组织维护
 
 **多 LLM 交叉评审工具：多厂商 AI 并行审查代码后才放行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chorus-codes/chorus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 533 --> 535
-    line [534, 534]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 532 --> 535
+    line [534, 533]
 ```
 
-2026-10-18 534 → 2026-10-30 534（+0）
+2026-10-18 534 → 2026-10-31 533（-1）
 
 
 ---

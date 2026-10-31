@@ -1,6 +1,6 @@
 # PAGF188/RAXO
 
-⭐ 16 · Python · 推送 2025-11-03 · [GitHub](https://github.com/PAGF188/RAXO) · [官网](https://arxiv.org/abs/2503.17071) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **免训练框架：将 RGB 开放词汇检测器迁移到 X 射线安检场景**
 

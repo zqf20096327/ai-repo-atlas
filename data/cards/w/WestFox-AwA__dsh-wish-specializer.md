@@ -1,6 +1,6 @@
 # WestFox-AwA/dsh-wish-specializer
 
-⭐ 141 · JavaScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/WestFox-AwA/dsh-wish-specializer) · 个人维护 · 中文 README
+⭐ 142 · JavaScript · BSD-3-Clause · 推送 2026-10-27 · [GitHub](https://github.com/WestFox-AwA/dsh-wish-specializer) · 个人维护 · 中文 README
 
 **DSH 插件：发送前为你的愿望补全方向性要求**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的 Web 插件：在用户按下发送之前，不改�
 
 ```mermaid
 xychart-beta
-    title "WestFox-AwA/dsh-wish-specializer 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "WestFox-AwA/dsh-wish-specializer 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 129 --> 144
-    line [130, 133, 135, 136, 137, 138, 140, 143, 141]
+    line [130, 133, 135, 136, 137, 138, 140, 143, 141, 142]
 ```
 
-2026-10-19 130 → 2026-10-30 141（+11）
+2026-10-19 130 → 2026-10-31 142（+12）
 
 
 ---

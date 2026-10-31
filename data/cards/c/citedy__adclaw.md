@@ -1,6 +1,6 @@
 # citedy/adclaw
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/citedy/adclaw) · [官网](https://pypi.org/project/adclaw/) · 组织维护 · 中文 README
+⭐ 49 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/citedy/adclaw) · [官网](https://pypi.org/project/adclaw/) · 组织维护 · 中文 README
 
 **面向营销场景的多 agent AI 团队：人格分工+技能+共享记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "citedy/adclaw 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 41 --> 49
-    line [42, 43, 45, 47, 48, 48]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 41 --> 50
+    line [42, 43, 45, 47, 48, 49]
 ```
 
-2026-10-18 42 → 2026-10-30 48（+6）
+2026-10-18 42 → 2026-10-31 49（+7）
 
 
 ---

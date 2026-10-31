@@ -1,6 +1,6 @@
 # mmlong818/skillforge
 
-⭐ 88 · TypeScript · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/mmlong818/skillforge) · 个人维护 · 中文 README
+⭐ 89 · TypeScript · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/mmlong818/skillforge) · 个人维护 · 中文 README
 
 **用 AI 生成符合规范 Agent Skills 的 Web 应用**
 
@@ -46,12 +46,12 @@ SkillForge 是一个 Web 应用，内置 4 步生成引擎，用于从名称和�
 ```mermaid
 xychart-beta
     title "mmlong818/skillforge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-30 88（+0）
+2026-10-18 88 → 2026-10-31 89（+1）
 
 
 ---

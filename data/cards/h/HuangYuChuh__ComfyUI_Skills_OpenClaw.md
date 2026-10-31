@@ -1,6 +1,6 @@
 # HuangYuChuh/ComfyUI_Skills_OpenClaw
 
-⭐ 421 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw) · [官网](https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/) · 个人维护 · 中文 README
+⭐ 422 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw) · [官网](https://huangyuchuh.github.io/ComfyUI_Skills_OpenClaw/) · 个人维护 · 中文 README
 
 **将 ComfyUI 工作流封装为 AI agent 可调用技能的 CLI 桥接层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HuangYuChuh/ComfyUI_Skills_OpenClaw 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 413 --> 422
-    line [414, 415, 417, 418, 419, 420, 421, 421]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 413 --> 423
+    line [414, 415, 417, 418, 419, 420, 421, 422]
 ```
 
-2026-10-18 414 → 2026-10-30 421（+7）
+2026-10-18 414 → 2026-10-31 422（+8）
 
 
 ---

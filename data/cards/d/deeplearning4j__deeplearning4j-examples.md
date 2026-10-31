@@ -1,6 +1,6 @@
 # deeplearning4j/deeplearning4j-examples
 
-⭐ 2,505 · Java · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/deeplearning4j/deeplearning4j-examples) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
+⭐ 2,504 · Java · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/deeplearning4j/deeplearning4j-examples) · [官网](http://deeplearning4j.konduit.ai) · 组织维护
 
 **Eclipse DL4J 官方示例集：演示 JVM 深度学习全流程用法**
 
@@ -44,12 +44,12 @@ Eclipse Deeplearning4J 生态的官方示例仓库，由多个独立 Maven Java 
 ```mermaid
 xychart-beta
     title "deeplearning4j/deeplearning4j-examples 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 2504 --> 2507
-    line [2505, 2506, 2505, 2505]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 2503 --> 2507
+    line [2505, 2506, 2505, 2504]
 ```
 
-2026-10-18 2,505 → 2026-10-30 2,505（+0）
+2026-10-18 2,505 → 2026-10-31 2,504（-1）
 
 
 ---

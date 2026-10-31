@@ -1,6 +1,6 @@
 # brycewang-stanford/Auto-Empirical-Research-Skills
 
-⭐ 4,831 · Stata · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) · [官网](https://copaper.ai) · 组织维护 · 中文 README
+⭐ 4,842 · Stata · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) · [官网](https://copaper.ai) · 组织维护 · 中文 README
 
 **社科实证研究 Agent 技能策展库：77 合集 1,107 个 skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/Auto-Empirical-Research-Skills 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4644 --> 4848
-    line [4661, 4683, 4706, 4729, 4743, 4757, 4775, 4785, 4795, 4808, 4831]
+    title "brycewang-stanford/Auto-Empirical-Research-Skills 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4643 --> 4860
+    line [4661, 4683, 4706, 4729, 4743, 4757, 4775, 4785, 4795, 4808, 4831, 4842]
 ```
 
-2026-10-18 4,661 → 2026-10-30 4,831（+170）
+2026-10-18 4,661 → 2026-10-31 4,842（+181）
 
 
 ---

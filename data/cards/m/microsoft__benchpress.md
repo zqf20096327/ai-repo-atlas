@@ -46,12 +46,12 @@ Microsoft Research 发布的基准分数补全工具：整理 84 个前沿模型
 ```mermaid
 xychart-beta
     title "microsoft/benchpress 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-30 34（+0）
+2026-10-18 34 → 2026-10-31 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # liveblocks/liveblocks-mcp-server
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/liveblocks/liveblocks-mcp-server) · [官网](https://liveblocks.io/docs/tools/mcp-server) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/liveblocks/liveblocks-mcp-server) · [官网](https://liveblocks.io/docs/tools/mcp-server) · 组织维护
 
 **让 AI 通过 MCP 操作 Liveblocks 协作平台的服务器**
 
@@ -44,12 +44,12 @@ Liveblocks 官方发布的 MCP server：把 Liveblocks REST API 的功能暴露�
 ```mermaid
 xychart-beta
     title "liveblocks/liveblocks-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

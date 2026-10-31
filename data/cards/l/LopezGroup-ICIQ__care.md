@@ -1,6 +1,6 @@
 # LopezGroup-ICIQ/care
 
-⭐ 95 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/LopezGroup-ICIQ/care) · [官网](https://doi.org/10.1038/s44286-026-00361-8) · 组织维护
+⭐ 96 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/LopezGroup-ICIQ/care) · [官网](https://doi.org/10.1038/s44286-026-00361-8) · 组织维护
 
 **多相催化反应网络自动构建与微动力学模拟框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LopezGroup-ICIQ/care 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 92 --> 96
-    line [93, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 95, 96]
 ```
 
-2026-10-18 93 → 2026-10-30 95（+2）
+2026-10-18 93 → 2026-10-31 96（+3）
 
 
 ---

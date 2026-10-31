@@ -1,6 +1,6 @@
 # lexlex47/game-art-prompt-kit
 
-⭐ 61 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/lexlex47/game-art-prompt-kit) · 个人维护 · 中文 README
+⭐ 62 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/lexlex47/game-art-prompt-kit) · 个人维护 · 中文 README
 
 **游戏美术提示词模板库：像素精灵图/角色概念/2D 环境生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lexlex47/game-art-prompt-kit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 58 --> 62
-    line [59, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 58 --> 63
+    line [59, 60, 61, 62]
 ```
 
-2026-10-18 59 → 2026-10-30 61（+2）
+2026-10-18 59 → 2026-10-31 62（+3）
 
 
 ---

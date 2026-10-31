@@ -46,12 +46,12 @@ SharpAPI 官方 Laravel 客户端包，接入 SharpAPI 的 AI API，覆盖电商
 ```mermaid
 xychart-beta
     title "sharpapi/sharpapi-laravel-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 43（+0）
 
 
 ---

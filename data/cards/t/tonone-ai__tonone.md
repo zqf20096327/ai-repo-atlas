@@ -1,6 +1,6 @@
 # tonone-ai/tonone
 
-⭐ 76 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
+⭐ 77 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
 
 **给 Claude Code 安装的 100 专家 agent 团队插件（10 团队 + 431 技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tonone-ai/tonone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-10-30 76（+0）
+2026-10-18 76 → 2026-10-31 77（+1）
 
 
 ---

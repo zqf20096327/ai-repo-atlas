@@ -1,6 +1,6 @@
 # piyushagni5/langgraph-ai
 
-⭐ 113 · Jupyter Notebook · MIT · 推送 2026-01-11 · [GitHub](https://github.com/piyushagni5/langgraph-ai) · [官网](https://medium.com/@piyushagni5) · 个人维护
+⭐ 114 · Jupyter Notebook · MIT · 推送 2026-01-11 · [GitHub](https://github.com/piyushagni5/langgraph-ai) · [官网](https://medium.com/@piyushagni5) · 个人维护
 
 **LangGraph 实现与教程合集：Agentic RAG、MCP、工作流模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "piyushagni5/langgraph-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 112 --> 114
-    line [113, 113]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 112 --> 115
+    line [113, 114]
 ```
 
-2026-10-18 113 → 2026-10-30 113（+0）
+2026-10-18 113 → 2026-10-31 114（+1）
 
 
 ---

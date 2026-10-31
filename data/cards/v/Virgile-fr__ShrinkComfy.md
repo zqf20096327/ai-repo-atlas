@@ -1,6 +1,6 @@
 # Virgile-fr/ShrinkComfy
 
-⭐ 19 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Virgile-fr/ShrinkComfy) · 个人维护
+⭐ 20 · Python · 推送 2026-05-02 · [GitHub](https://github.com/Virgile-fr/ShrinkComfy) · 个人维护
 
 **Windows 小工具：把 ComfyUI PNG 压缩为 WEBP/JPG 并保留工作流元数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Virgile-fr/ShrinkComfy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/minGRU-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "lucidrains/minGRU-pytorch 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 326 --> 329
-    line [327, 328]
+    line [327, 328, 328]
 ```
 
-2026-10-18 327 → 2026-10-30 328（+1）
+2026-10-18 327 → 2026-10-31 328（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # qdrant/qdrant-helm
 
-⭐ 196 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
+⭐ 196 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/qdrant/qdrant-helm) · 组织维护
 
 **Qdrant 向量数据库的 Helm Chart 仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-helm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 194 --> 197
     line [195, 196, 196]
 ```
 
-2026-10-18 195 → 2026-10-30 196（+1）
+2026-10-18 195 → 2026-10-31 196（+1）
 
 
 ---

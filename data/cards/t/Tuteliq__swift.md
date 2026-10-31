@@ -1,6 +1,6 @@
 # Tuteliq/swift
 
-⭐ 18 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Tuteliq/swift) · [官网](https://tuteliq.ai) · 组织维护
+⭐ 18 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Tuteliq/swift) · [官网](https://tuteliq.ai) · 组织维护
 
 **Tuteliq 儿童安全检测 API 的官方 Swift SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tuteliq/swift 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 17 --> 20
     line [19, 18, 18]
 ```
 
-2026-10-18 19 → 2026-10-30 18（-1）
+2026-10-18 19 → 2026-10-31 18（-1）
 
 
 ---

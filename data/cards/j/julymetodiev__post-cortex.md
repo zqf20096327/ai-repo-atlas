@@ -45,12 +45,12 @@ Post-Cortex 是一个用 Rust 编写的 MCP 服务器，为 AI 助手（如 Clau
 ```mermaid
 xychart-beta
     title "julymetodiev/post-cortex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

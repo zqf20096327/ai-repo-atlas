@@ -1,6 +1,6 @@
 # ucsandman/DashClaw
 
-⭐ 313 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ucsandman/DashClaw) · [官网](https://www.dashclaw.io/) · 个人维护
+⭐ 313 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ucsandman/DashClaw) · [官网](https://www.dashclaw.io/) · 个人维护
 
 **无人值守 AI agent 的远程审批与执行治理层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ucsandman/DashClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 312 --> 314
     line [313, 313]
 ```
 
-2026-10-18 313 → 2026-10-30 313（+0）
+2026-10-18 313 → 2026-10-31 313（+0）
 
 
 ---

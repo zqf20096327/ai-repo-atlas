@@ -1,6 +1,6 @@
 # GoSlowPoke168/hermes-openrouter-free-rotator
 
-⭐ 16 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/GoSlowPoke168/hermes-openrouter-free-rotator) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/GoSlowPoke168/hermes-openrouter-free-rotator) · 个人维护
 
 **Hermes Agent 插件：自动轮换 OpenRouter 免费模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GoSlowPoke168/hermes-openrouter-free-rotator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 17（+3）
 
 
 ---

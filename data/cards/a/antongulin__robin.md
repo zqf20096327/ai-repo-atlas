@@ -1,6 +1,6 @@
 # antongulin/robin
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/antongulin/robin) · [官网](https://www.robinreview.dev) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/antongulin/robin) · [官网](https://www.robinreview.dev) · 个人维护
 
 **自托管 GitHub Action AI 代码审查机器人，自带 API key**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "antongulin/robin 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 40 --> 50
     line [41, 42, 43, 44, 45, 48, 49, 49]
 ```
 
-2026-10-18 41 → 2026-10-30 49（+8）
+2026-10-18 41 → 2026-10-31 49（+8）
 
 
 ---

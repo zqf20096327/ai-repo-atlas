@@ -45,13 +45,13 @@ deepset 维护的 Haystack 管线服务化工具：开发者编写 Python wrappe
 
 ```mermaid
 xychart-beta
-    title "deepset-ai/hayhooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    title "deepset-ai/hayhooks 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 153 --> 157
-    line [154, 155, 156]
+    line [154, 155, 156, 156]
 ```
 
-2026-10-18 154 → 2026-10-30 156（+2）
+2026-10-18 154 → 2026-10-31 156（+2）
 
 
 ---

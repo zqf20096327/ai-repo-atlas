@@ -1,6 +1,6 @@
 # pacphi/agentic-kit
 
-⭐ 61 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pacphi/agentic-kit) · 个人维护
+⭐ 61 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pacphi/agentic-kit) · 个人维护
 
 **一条命令安装、修复并验证 ruflo/agentic-qe 的多主机 agent 工具箱**
 
@@ -46,12 +46,12 @@ npm 包形式的 agent CLI 安装与维护工具箱：一条 ak setup 命令全�
 ```mermaid
 xychart-beta
     title "pacphi/agentic-kit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 59 --> 62
     line [60, 61, 61]
 ```
 
-2026-10-18 60 → 2026-10-30 61（+1）
+2026-10-18 60 → 2026-10-31 61（+1）
 
 
 ---

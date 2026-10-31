@@ -1,6 +1,6 @@
 # 1sh1ro/ai-api-zhongzhuan
 
-⭐ 70 · CSS · 推送 2026-10-19 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://1sh1ro.github.io/ai-api-zhongzhuan/) · 个人维护 · 中文 README
+⭐ 71 · CSS · 推送 2026-10-19 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://1sh1ro.github.io/ai-api-zhongzhuan/) · 个人维护 · 中文 README
 
 **AI API 公益站与 Token 中转站导航清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1sh1ro/ai-api-zhongzhuan 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 61 --> 71
-    line [62, 64, 65, 67, 68, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 61 --> 72
+    line [62, 64, 65, 67, 68, 70, 71]
 ```
 
-2026-10-18 62 → 2026-10-30 70（+8）
+2026-10-18 62 → 2026-10-31 71（+9）
 
 
 ---

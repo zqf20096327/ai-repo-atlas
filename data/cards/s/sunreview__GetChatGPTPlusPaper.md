@@ -1,6 +1,6 @@
 # sunreview/GetChatGPTPlusPaper
 
-⭐ 321 · 推送 2026-10-26 · [GitHub](https://github.com/sunreview/GetChatGPTPlusPaper) · [官网](https://recharge.aigc248.com/) · 个人维护 · 中文 README
+⭐ 323 · 推送 2026-10-30 · [GitHub](https://github.com/sunreview/GetChatGPTPlusPaper) · [官网](https://oksub.net/) · 个人维护 · 中文 README
 
 **国内用户免国际信用卡充值 ChatGPT Plus 的图文视频教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunreview/GetChatGPTPlusPaper 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "sunreview/GetChatGPTPlusPaper 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 312 --> 343
-    line [319, 327, 341, 314, 319, 320, 321, 322, 321]
+    line [319, 327, 341, 314, 319, 320, 321, 322, 321, 323]
 ```
 
-2026-10-18 319 → 2026-10-30 321（+2）
+2026-10-18 319 → 2026-10-31 323（+4）
 
 
 ---

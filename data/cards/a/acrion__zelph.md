@@ -1,6 +1,6 @@
 # acrion/zelph
 
-⭐ 16 · C++ · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/acrion/zelph) · [官网](https://zelph.org) · 组织维护
+⭐ 17 · C++ · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/acrion/zelph) · [官网](https://zelph.org) · 组织维护
 
 **C++ 语义网络与推理引擎：规则、事实与数均为图中节点**
 
@@ -45,12 +45,12 @@ zelph 是以 C++ 编写、内嵌 Janet 脚本层的语义网络系统与推理�
 ```mermaid
 xychart-beta
     title "acrion/zelph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

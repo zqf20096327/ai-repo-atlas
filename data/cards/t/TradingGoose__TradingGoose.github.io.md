@@ -46,12 +46,12 @@ TradingGoose 是开源的 AI 交易工作流平台：多个专业 Agent（宏观
 ```mermaid
 xychart-beta
     title "TradingGoose/TradingGoose.github.io 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 79 --> 82
     line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-10-30 81（+1）
+2026-10-18 80 → 2026-10-31 81（+1）
 
 
 ---

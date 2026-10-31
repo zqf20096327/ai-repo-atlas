@@ -1,6 +1,6 @@
 # liyupi/free-programming-resources
 
-⭐ 3,792 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
+⭐ 3,797 · HTML · MIT · 推送 2026-03-23 · [GitHub](https://github.com/liyupi/free-programming-resources) · [官网](http://dogyupi.com) · 个人维护 · 中文 README
 
 **免费编程学习资源导航清单：学习路线、项目教程、面试题与 AI 资源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/free-programming-resources 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3768 --> 3794
-    line [3770, 3774, 3780, 3783, 3784, 3785, 3788, 3789, 3791, 3792]
+    title "liyupi/free-programming-resources 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3768 --> 3799
+    line [3770, 3774, 3780, 3783, 3784, 3785, 3788, 3789, 3791, 3792, 3797]
 ```
 
-2026-10-18 3,770 → 2026-10-30 3,792（+22）
+2026-10-18 3,770 → 2026-10-31 3,797（+27）
 
 
 ---

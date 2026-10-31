@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "datasifaw/dataiku-fx-api-analytics-ml 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-30"]
+    title "datasifaw/dataiku-fx-api-analytics-ml 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 5 --> 24
-    line [6, 7, 23]
+    line [6, 7, 23, 23]
 ```
 
-2026-10-22 6 → 2026-10-30 23（+17）
+2026-10-22 6 → 2026-10-31 23（+17）
 
 
 ---

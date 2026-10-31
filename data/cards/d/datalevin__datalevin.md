@@ -1,6 +1,6 @@
 # datalevin/datalevin
 
-⭐ 1,490 · Clojure · EPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
+⭐ 1,490 · Clojure · EPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
 
 **给开发者的多范式 Datalog 数据库，内嵌向量搜索与本地 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datalevin/datalevin 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    title "datalevin/datalevin 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1484 --> 1491
-    line [1485, 1486, 1488, 1490]
+    line [1485, 1486, 1488, 1490, 1490]
 ```
 
-2026-10-18 1,485 → 2026-10-30 1,490（+5）
+2026-10-18 1,485 → 2026-10-31 1,490（+5）
 
 
 ---

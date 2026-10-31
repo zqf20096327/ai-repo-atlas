@@ -1,6 +1,6 @@
 # mpaymenremora/CacheCraft
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/mpaymenremora/CacheCraft) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/mpaymenremora/CacheCraft) · 个人维护
 
 **语义缓存策略基准工具：回放请求日志测各缓存策略收益**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mpaymenremora/CacheCraft 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 22 --> 31
-    line [30, 23, 23]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 21 --> 31
+    line [30, 23, 22]
 ```
 
-2026-10-18 30 → 2026-10-30 23（-7）
+2026-10-18 30 → 2026-10-31 22（-8）
 
 
 ---

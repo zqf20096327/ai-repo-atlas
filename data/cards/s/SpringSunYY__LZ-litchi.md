@@ -1,6 +1,6 @@
 # SpringSunYY/LZ-litchi
 
-⭐ 204 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SpringSunYY/LZ-litchi) · [官网](https://www.litchi.work) · 个人维护 · 中文 README
+⭐ 205 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SpringSunYY/LZ-litchi) · [官网](https://www.litchi.work) · 个人维护 · 中文 README
 
 **基于芋道二次开发的企业级低代码平台，含 AI 模块与以图搜图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SpringSunYY/LZ-litchi 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 193 --> 205
-    line [194, 196, 195, 196, 195, 202, 204, 204]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 193 --> 206
+    line [194, 196, 195, 196, 195, 202, 204, 205]
 ```
 
-2026-10-18 194 → 2026-10-30 204（+10）
+2026-10-18 194 → 2026-10-31 205（+11）
 
 
 ---

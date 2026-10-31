@@ -1,6 +1,6 @@
 # DoRmAmMu1997/My-Algo-Trading-Code
 
-⭐ 15 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DoRmAmMu1997/My-Algo-Trading-Code) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/DoRmAmMu1997/My-Algo-Trading-Code) · 个人维护
 
 **印度指数期权个人算法交易套件：信号、回测、纸面/实盘与可选 AI 代理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DoRmAmMu1997/My-Algo-Trading-Code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

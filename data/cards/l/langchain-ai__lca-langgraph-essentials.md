@@ -40,12 +40,12 @@ README 仅含一行标题 "lca-langgraphV1-essentials"，无其他可验证内�
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-langgraph-essentials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 66 --> 70
     line [67, 68, 69, 69]
 ```
 
-2026-10-18 67 → 2026-10-30 69（+2）
+2026-10-18 67 → 2026-10-31 69（+2）
 
 
 ---

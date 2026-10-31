@@ -1,6 +1,6 @@
 # PacktPublishing/LLM-Engineers-Handbook
 
-⭐ 5,404 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/PacktPublishing/LLM-Engineers-Handbook) · [官网](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) · 组织维护
+⭐ 5,408 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/PacktPublishing/LLM-Engineers-Handbook) · [官网](https://www.amazon.com/LLM-Engineers-Handbook-engineering-production/dp/1836200072/) · 组织维护
 
 **LLM 工程书籍配套代码库：端到端 LLM/RAG 系统与 AWS 部署**
 
@@ -45,13 +45,13 @@ Packt 出版的《LLM Engineer's Handbook》官方仓库，含可运行的完整
 
 ```mermaid
 xychart-beta
-    title "PacktPublishing/LLM-Engineers-Handbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 5380 --> 5406
-    line [5382, 5390, 5394, 5396, 5398, 5399, 5401, 5403, 5404]
+    title "PacktPublishing/LLM-Engineers-Handbook 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 5380 --> 5410
+    line [5382, 5390, 5394, 5396, 5398, 5399, 5401, 5403, 5404, 5408]
 ```
 
-2026-10-18 5,382 → 2026-10-30 5,404（+22）
+2026-10-18 5,382 → 2026-10-31 5,408（+26）
 
 
 ---

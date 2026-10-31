@@ -1,6 +1,6 @@
 # inmve/awesome-ai-coding-techniques
 
-⭐ 349 · 推送 2025-11-26 · [GitHub](https://github.com/inmve/awesome-ai-coding-techniques) · [官网](https://coding-with-ai.dev) · 个人维护
+⭐ 350 · 推送 2025-11-26 · [GitHub](https://github.com/inmve/awesome-ai-coding-techniques) · [官网](https://coding-with-ai.dev) · 个人维护
 
 **AI 编程助手实用技巧合集：按开发阶段组织的实践清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inmve/awesome-ai-coding-techniques 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 347 --> 350
-    line [348, 349, 349]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 347 --> 351
+    line [348, 349, 350]
 ```
 
-2026-10-18 348 → 2026-10-30 349（+1）
+2026-10-18 348 → 2026-10-31 350（+2）
 
 
 ---

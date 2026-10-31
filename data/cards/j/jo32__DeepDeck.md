@@ -1,6 +1,6 @@
 # jo32/DeepDeck
 
-⭐ 25 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jo32/DeepDeck) · [官网](https://deepdeck.getmegaportal.com/) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/jo32/DeepDeck) · [官网](https://deepdeck.getmegaportal.com/) · 个人维护
 
 **macOS 桌面端 DeepSeek Harness 工作台：构建复用网站 WebMCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jo32/DeepDeck 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 24 --> 28
-    line [27, 26, 25, 25]
+    line [27, 26, 25, 26]
 ```
 
-2026-10-18 27 → 2026-10-30 25（-2）
+2026-10-18 27 → 2026-10-31 26（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jkawamoto/ctranslate2-rs
 
-⭐ 63 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jkawamoto/ctranslate2-rs) · [官网](https://docs.rs/ct2rs) · 个人维护
+⭐ 63 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jkawamoto/ctranslate2-rs) · [官网](https://docs.rs/ct2rs) · 个人维护
 
 **CTranslate2 的 Rust 绑定库：在 Rust 中运行推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jkawamoto/ctranslate2-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 60 --> 64
     line [61, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-10-30 63（+2）
+2026-10-18 61 → 2026-10-31 63（+2）
 
 
 ---

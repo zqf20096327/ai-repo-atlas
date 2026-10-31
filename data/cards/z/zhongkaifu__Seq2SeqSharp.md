@@ -1,6 +1,6 @@
 # zhongkaifu/Seq2SeqSharp
 
-⭐ 215 · C# · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/zhongkaifu/Seq2SeqSharp) · 个人维护
+⭐ 214 · C# · NOASSERTION · 推送 2026-03-18 · [GitHub](https://github.com/zhongkaifu/Seq2SeqSharp) · 个人维护
 
 **.NET 编写的张量式序列到序列深度神经网络框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhongkaifu/Seq2SeqSharp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 214 --> 216
-    line [215, 215]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 213 --> 216
+    line [215, 214]
 ```
 
-2026-10-18 215 → 2026-10-30 215（+0）
+2026-10-18 215 → 2026-10-31 214（-1）
 
 
 ---

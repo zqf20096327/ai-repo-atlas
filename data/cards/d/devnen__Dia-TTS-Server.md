@@ -1,6 +1,6 @@
 # devnen/Dia-TTS-Server
 
-⭐ 355 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/devnen/Dia-TTS-Server) · 个人维护
+⭐ 356 · Python · MIT · 推送 2026-03-28 · [GitHub](https://github.com/devnen/Dia-TTS-Server) · 个人维护
 
 **自托管 Dia TTS 模型的 FastAPI 服务器，含 Web UI 与 OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devnen/Dia-TTS-Server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 354 --> 356
-    line [355, 355]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 354 --> 357
+    line [355, 356]
 ```
 
-2026-10-18 355 → 2026-10-30 355（+0）
+2026-10-18 355 → 2026-10-31 356（+1）
 
 
 ---

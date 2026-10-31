@@ -1,6 +1,6 @@
 # KusionStack/kusion
 
-⭐ 1,325 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/KusionStack/kusion) · [官网](https://kusionstack.io) · 组织维护 · 中文 README
+⭐ 1,325 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/KusionStack/kusion) · [官网](https://kusionstack.io) · 组织维护 · 中文 README
 
 **面向内部开发者平台的意图驱动应用交付编排器**
 
@@ -45,12 +45,12 @@ Kusion 是位于内部开发者平台（IDP）核心的意图驱动平台编排�
 ```mermaid
 xychart-beta
     title "KusionStack/kusion 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1322 --> 1326
     line [1323, 1324, 1325, 1325]
 ```
 
-2026-10-18 1,323 → 2026-10-30 1,325（+2）
+2026-10-18 1,323 → 2026-10-31 1,325（+2）
 
 
 ---

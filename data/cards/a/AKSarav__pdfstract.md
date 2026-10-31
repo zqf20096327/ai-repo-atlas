@@ -1,6 +1,6 @@
 # AKSarav/pdfstract
 
-⭐ 155 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/AKSarav/pdfstract) · [官网](https://pdfstract.com) · 个人维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/AKSarav/pdfstract) · [官网](https://pdfstract.com) · 个人维护
 
 **面向 RAG 流水线的 PDF 抽取/分块/嵌入统一层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AKSarav/pdfstract 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 154 --> 156
-    line [155, 155]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 154 --> 157
+    line [155, 156]
 ```
 
-2026-10-18 155 → 2026-10-30 155（+0）
+2026-10-18 155 → 2026-10-31 156（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # yashab-cyber/hackbot
 
-⭐ 63 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/yashab-cyber/hackbot) · [官网](https://hackbot.co.in) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/yashab-cyber/hackbot) · [官网](https://hackbot.co.in) · 个人维护
 
 **AI 渗透测试助手：Agent/聊天/规划三模式驱动安全测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yashab-cyber/hackbot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 56 --> 64
-    line [57, 59, 60, 61, 63, 62, 63, 63]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 56 --> 66
+    line [57, 59, 60, 61, 63, 62, 63, 65]
 ```
 
-2026-10-18 57 → 2026-10-30 63（+6）
+2026-10-18 57 → 2026-10-31 65（+8）
 
 
 ---

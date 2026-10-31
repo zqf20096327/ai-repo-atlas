@@ -1,6 +1,6 @@
 # MikkoParkkola/mcp-gateway
 
-⭐ 85 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/MikkoParkkola/mcp-gateway) · [官网](https://crates.io/crates/mcp-gateway) · 个人维护
+⭐ 85 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/MikkoParkkola/mcp-gateway) · [官网](https://crates.io/crates/mcp-gateway) · 个人维护
 
 **自托管 MCP 网关：把大量 MCP 服务器与 API 聚合到少量工具面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MikkoParkkola/mcp-gateway 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 82 --> 86
     line [83, 84, 85, 85]
 ```
 
-2026-10-18 83 → 2026-10-30 85（+2）
+2026-10-18 83 → 2026-10-31 85（+2）
 
 
 ---

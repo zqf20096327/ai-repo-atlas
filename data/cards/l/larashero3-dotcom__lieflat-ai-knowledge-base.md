@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "larashero3-dotcom/lieflat-ai-knowledge-base 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    title "larashero3-dotcom/lieflat-ai-knowledge-base 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 14 --> 20
-    line [15, 16, 18, 19]
+    line [15, 16, 18, 19, 19]
 ```
 
-2026-10-18 15 → 2026-10-30 19（+4）
+2026-10-18 15 → 2026-10-31 19（+4）
 
 
 ---

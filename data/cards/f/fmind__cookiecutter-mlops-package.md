@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fmind/cookiecutter-mlops-package 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "fmind/cookiecutter-mlops-package 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 441 --> 444
-    line [442, 443]
+    line [442, 443, 443]
 ```
 
-2026-10-18 442 → 2026-10-30 443（+1）
+2026-10-18 442 → 2026-10-31 443（+1）
 
 
 ---

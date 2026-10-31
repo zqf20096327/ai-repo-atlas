@@ -1,6 +1,6 @@
 # zillionare/zillionare
 
-⭐ 327 · Python · 推送 2026-10-28 · [GitHub](https://github.com/zillionare/zillionare) · [官网](http://ke.quantide.cn) · 组织维护 · 中文 README
+⭐ 327 · Python · 推送 2026-10-30 · [GitHub](https://github.com/zillionare/zillionare) · [官网](http://ke.quantide.cn) · 组织维护 · 中文 README
 
 **量化投资研究与 Python 量化实战的博客文章聚合站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zillionare/zillionare 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 323 --> 328
     line [324, 325, 326, 327, 327]
 ```
 
-2026-10-18 324 → 2026-10-30 327（+3）
+2026-10-18 324 → 2026-10-31 327（+3）
 
 
 ---

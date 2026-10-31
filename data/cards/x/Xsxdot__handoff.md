@@ -1,6 +1,6 @@
 # Xsxdot/handoff
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Xsxdot/handoff) · [官网](https://handoff.gosuper.dev) · 个人维护 · 中文 README
+⭐ 25 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Xsxdot/handoff) · [官网](https://handoff.gosuper.dev) · 个人维护 · 中文 README
 
 **CLI 两角色协作工具：把实现计划派给其他 AI 执行，人只负责审**
 
@@ -47,12 +47,12 @@ Go 编写的纯 CLI 协调者/执行者协作工具：协调者（人或 Claude 
 ```mermaid
 xychart-beta
     title "Xsxdot/handoff 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-18 24 → 2026-10-30 25（+1）
+2026-10-18 24 → 2026-10-31 25（+1）
 
 
 ---

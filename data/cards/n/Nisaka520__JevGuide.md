@@ -1,6 +1,6 @@
 # Nisaka520/JevGuide
 
-⭐ 47 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Nisaka520/JevGuide) · [官网](https://nisaka520.github.io/JevGuide/) · 个人维护 · 中文 README
+⭐ 48 · Kotlin · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Nisaka520/JevGuide) · [官网](https://nisaka520.github.io/JevGuide/) · 个人维护 · 中文 README
 
 **微信聊天关系进展助手：读屏判读+攻略度+3条候选回复**
 
@@ -46,12 +46,12 @@ Android 无障碍应用，面向微信用户：通过无障碍树或截屏+视�
 ```mermaid
 xychart-beta
     title "Nisaka520/JevGuide 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 40 --> 48
-    line [41, 43, 44, 46, 47, 47]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 40 --> 49
+    line [41, 43, 44, 46, 47, 48]
 ```
 
-2026-10-18 41 → 2026-10-30 47（+6）
+2026-10-18 41 → 2026-10-31 48（+7）
 
 
 ---

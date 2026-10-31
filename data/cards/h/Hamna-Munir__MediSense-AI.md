@@ -45,12 +45,12 @@ MediSense AI 是一个单文件 HTML 应用，供社区卫生工作者（CHW）�
 ```mermaid
 xychart-beta
     title "Hamna-Munir/MediSense-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

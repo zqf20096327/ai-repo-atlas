@@ -1,6 +1,6 @@
 # ahang008/ah-douyin-clean-downloader
 
-⭐ 252 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ahang008/ah-douyin-clean-downloader) · 个人维护 · 中文 README
+⭐ 253 · Python · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ahang008/ah-douyin-clean-downloader) · 个人维护 · 中文 README
 
 **Codex 技能：下载抖音原视频、转写归档与批量改写口播稿**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahang008/ah-douyin-clean-downloader 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 241 --> 253
-    line [242, 245, 246, 249, 250, 251, 252]
+    title "ahang008/ah-douyin-clean-downloader 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 241 --> 254
+    line [242, 245, 246, 249, 250, 251, 252, 253]
 ```
 
-2026-10-18 242 → 2026-10-30 252（+10）
+2026-10-18 242 → 2026-10-31 253（+11）
 
 
 ---

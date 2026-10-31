@@ -1,6 +1,6 @@
 # aymericdamien/TopDeepLearning
 
-⭐ 6,396 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/aymericdamien/TopDeepLearning) · 个人维护 · 中文 README
+⭐ 6,399 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/aymericdamien/TopDeepLearning) · 个人维护 · 中文 README
 
 **按 star 排名的深度学习 GitHub 项目榜单清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "aymericdamien/TopDeepLearning 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 6363 --> 6399
-    line [6366, 6371, 6374, 6379, 6381, 6384, 6390, 6393, 6395, 6396]
+    title "aymericdamien/TopDeepLearning 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 6363 --> 6402
+    line [6366, 6371, 6374, 6379, 6381, 6384, 6390, 6393, 6395, 6396, 6399]
 ```
 
-2026-10-18 6,366 → 2026-10-30 6,396（+30）
+2026-10-18 6,366 → 2026-10-31 6,399（+33）
 
 
 ---

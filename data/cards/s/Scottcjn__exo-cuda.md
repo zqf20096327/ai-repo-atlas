@@ -46,12 +46,12 @@ exo 的社区分支，通过 tinygrad 后端恢复对 NVIDIA CUDA 的支持，�
 ```mermaid
 xychart-beta
     title "Scottcjn/exo-cuda 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 93 --> 95
     line [94, 94]
 ```
 
-2026-10-29 94 → 2026-10-30 94（+0）
+2026-10-29 94 → 2026-10-31 94（+0）
 
 
 ---

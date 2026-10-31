@@ -1,6 +1,6 @@
 # YogurtJ/OhMyBuddy
 
-⭐ 61 · JavaScript · ISC · 推送 2026-10-29 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
+⭐ 62 · JavaScript · ISC · 推送 2026-10-30 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
 
 **自托管个人 AI 助理：带可见长期记忆，浏览器/手机/微信可用**
 
@@ -40,6 +40,18 @@
 > L5: **A self-hosted AI buddy that remembers you and gets real work done, from any browser, your phone or WeChat.**
 > L30: - **Buddy: a personal assistant that knows you.** A Buddy has a name, a look and a personality. It keeps one ongoin
 > L38: - **Your models, your keys, your machine.** Use any provider Pi supports, including Anthropic, OpenAI, Google Gemin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YogurtJ/OhMyBuddy 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
+```
+
+2026-10-30 61 → 2026-10-31 62（+1）
 
 
 ---

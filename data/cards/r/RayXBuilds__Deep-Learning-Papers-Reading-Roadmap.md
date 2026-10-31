@@ -1,6 +1,6 @@
 # RayXBuilds/Deep-Learning-Papers-Reading-Roadmap
 
-⭐ 342 · Python · 推送 2026-10-29 · [GitHub](https://github.com/RayXBuilds/Deep-Learning-Papers-Reading-Roadmap) · 个人维护 · 中文 README
+⭐ 342 · Python · 推送 2026-10-30 · [GitHub](https://github.com/RayXBuilds/Deep-Learning-Papers-Reading-Roadmap) · 个人维护 · 中文 README
 
 **深度学习经典论文中文精读路线图与配套实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RayXBuilds/Deep-Learning-Papers-Reading-Roadmap 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-28", "2026-10-31"]
     y-axis "stars" 341 --> 343
     line [342, 342]
 ```
 
-2026-10-28 342 → 2026-10-30 342（+0）
+2026-10-28 342 → 2026-10-31 342（+0）
 
 
 ---

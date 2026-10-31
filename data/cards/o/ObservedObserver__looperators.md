@@ -1,6 +1,6 @@
 # ObservedObserver/looperators
 
-⭐ 49 · TypeScript · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/ObservedObserver/looperators) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/ObservedObserver/looperators) · 个人维护 · 中文 README
 
 **把 AI 编程 agent 放上画布并连成自动循环的 macOS 工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ObservedObserver/looperators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-18 49 → 2026-10-30 49（+0）
+2026-10-18 49 → 2026-10-31 50（+1）
 
 
 ---

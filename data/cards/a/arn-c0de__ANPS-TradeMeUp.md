@@ -1,6 +1,6 @@
 # arn-c0de/ANPS-TradeMeUp
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/arn-c0de/ANPS-TradeMeUp) · 个人维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/arn-c0de/ANPS-TradeMeUp) · 个人维护
 
 **LLM 驱动的新闻-市场预测系统，含 Dash 仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arn-c0de/ANPS-TradeMeUp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 40 --> 46
     line [41, 42, 43, 45, 45]
 ```
 
-2026-10-18 41 → 2026-10-30 45（+4）
+2026-10-18 41 → 2026-10-31 45（+4）
 
 
 ---

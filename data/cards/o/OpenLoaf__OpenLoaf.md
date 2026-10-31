@@ -1,6 +1,6 @@
 # OpenLoaf/OpenLoaf
 
-⭐ 112 · TypeScript · AGPL-3.0 · 推送 2026-05-14 · [GitHub](https://github.com/OpenLoaf/OpenLoaf) · [官网](https://openloaf-website.hexems.com/) · 组织维护 · 中文 README
+⭐ 113 · TypeScript · AGPL-3.0 · 推送 2026-05-14 · [GitHub](https://github.com/OpenLoaf/OpenLoaf) · [官网](https://openloaf-website.hexems.com/) · 组织维护 · 中文 README
 
 **本地优先的项目式 AI 生产力桌面应用，多代理+文档+邮件日历**
 
@@ -46,12 +46,12 @@ OpenLoaf 是以项目为独立工作区的本地优先 AI 桌面应用（Electro
 ```mermaid
 xychart-beta
     title "OpenLoaf/OpenLoaf 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 109 --> 113
-    line [110, 111, 112, 112]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 109 --> 114
+    line [110, 111, 112, 113]
 ```
 
-2026-10-18 110 → 2026-10-30 112（+2）
+2026-10-18 110 → 2026-10-31 113（+3）
 
 
 ---

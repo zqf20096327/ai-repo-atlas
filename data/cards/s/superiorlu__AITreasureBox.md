@@ -1,6 +1,6 @@
 # superiorlu/AITreasureBox
 
-⭐ 878 · Ruby · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/superiorlu/AITreasureBox) · 个人维护 · 中文 README
+⭐ 878 · Ruby · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/superiorlu/AITreasureBox) · 个人维护 · 中文 README
 
 **AI 百宝箱：自动采集并排名 AI 仓库/工具/论文/教程清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "superiorlu/AITreasureBox 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "superiorlu/AITreasureBox 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 872 --> 879
-    line [873, 874, 875, 876, 877, 878]
+    line [873, 874, 875, 876, 877, 878, 878]
 ```
 
-2026-10-18 873 → 2026-10-30 878（+5）
+2026-10-18 873 → 2026-10-31 878（+5）
 
 
 ---

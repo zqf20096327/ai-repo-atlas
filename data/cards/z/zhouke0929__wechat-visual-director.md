@@ -1,6 +1,6 @@
 # zhouke0929/wechat-visual-director
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/zhouke0929/wechat-visual-director) · [官网](https://zhouke0929.github.io/wechat-visual-director/) · 个人维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/zhouke0929/wechat-visual-director) · [官网](https://zhouke0929.github.io/wechat-visual-director/) · 个人维护 · 中文 README
 
 **微信公众号 AI 排版 Skill：Agent 把选题或 Markdown 做成可发布的推文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhouke0929/wechat-visual-director 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # baiibayu/srouter
 
-⭐ 49 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/baiibayu/srouter) · [官网](https://github.com/baiibayu/srouter) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/baiibayu/srouter) · [官网](https://github.com/baiibayu/srouter) · 个人维护 · 中文 README
 
 **自托管 AI 网关：统一 OpenAI 兼容端点聚合 60+ 提供商**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baiibayu/srouter 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 11 --> 52
-    line [14, 17, 22, 23, 24, 25, 26, 27, 49]
+    title "baiibayu/srouter 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 66
+    line [14, 17, 22, 23, 24, 25, 26, 27, 49, 62]
 ```
 
-2026-10-18 14 → 2026-10-30 49（+35）
+2026-10-18 14 → 2026-10-31 62（+48）
 
 
 ---

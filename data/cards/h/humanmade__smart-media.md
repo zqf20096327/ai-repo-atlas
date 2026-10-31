@@ -1,6 +1,6 @@
 # humanmade/smart-media
 
-⭐ 88 · PHP · 推送 2026-10-26 · [GitHub](https://github.com/humanmade/smart-media) · 组织维护
+⭐ 88 · PHP · 推送 2026-10-30 · [GitHub](https://github.com/humanmade/smart-media) · 组织维护
 
 **WordPress 媒体库增强插件：改进图片浏览与裁剪编辑体验**
 
@@ -44,12 +44,12 @@ Human Made 维护的 WordPress 插件，为媒体库提供增强功能：保持�
 ```mermaid
 xychart-beta
     title "humanmade/smart-media 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-18 88 → 2026-10-30 88（+0）
+2026-10-18 88 → 2026-10-31 88（+0）
 
 
 ---

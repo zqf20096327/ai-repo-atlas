@@ -1,6 +1,6 @@
 # qingchencloud/clawpanel
 
-⭐ 2,938 · JavaScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
+⭐ 2,937 · JavaScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
 
 **多 AI Agent 框架的可视化管理桌面面板，内置可操作系统级 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qingchencloud/clawpanel 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "qingchencloud/clawpanel 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 2932 --> 2939
-    line [2934, 2933, 2936, 2937, 2938, 2937, 2935, 2937, 2938]
+    line [2934, 2933, 2936, 2937, 2938, 2937, 2935, 2937, 2938, 2937]
 ```
 
-2026-10-18 2,934 → 2026-10-30 2,938（+4）
+2026-10-18 2,934 → 2026-10-31 2,937（+3）
 
 
 ---

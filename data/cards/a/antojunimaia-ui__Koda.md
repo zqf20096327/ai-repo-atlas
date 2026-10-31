@@ -46,12 +46,12 @@ Koda 是开源的 Electron 桌面应用，定位为 Agent Development Environmen
 ```mermaid
 xychart-beta
     title "antojunimaia-ui/Koda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 32（+1）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

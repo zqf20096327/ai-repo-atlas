@@ -1,6 +1,6 @@
 # Umair/stalemap
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Umair/stalemap) · [官网](https://stalemap.com) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Umair/stalemap) · [官网](https://stalemap.com) · 个人维护
 
 **告知编码代理依赖在训练截止后变化的工具，写入 AGENTS.md**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Umair/stalemap 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 92 --> 105
-    line [93, 99, 100, 102, 103, 104, 104]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 92 --> 106
+    line [93, 99, 100, 102, 103, 104, 105]
 ```
 
-2026-10-22 93 → 2026-10-30 104（+11）
+2026-10-22 93 → 2026-10-31 105（+12）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yzr278892/arxiv-daily-researcher 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "yzr278892/arxiv-daily-researcher 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 317 --> 320
-    line [318, 319]
+    line [318, 319, 319]
 ```
 
-2026-10-18 318 → 2026-10-30 319（+1）
+2026-10-18 318 → 2026-10-31 319（+1）
 
 
 ---

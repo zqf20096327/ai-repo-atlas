@@ -1,6 +1,6 @@
 # rtrelease/Jetson-Symbolics-Neuromorphics
 
-⭐ 17 · 推送 2026-10-28 · [GitHub](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics) · 个人维护
+⭐ 17 · 推送 2026-10-30 · [GitHub](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics) · 个人维护
 
 **面向 Jetson 边缘实验室的神经符号/神经形态 AI 实验笔记合集（60+ 篇）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rtrelease/Jetson-Symbolics-Neuromorphics 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

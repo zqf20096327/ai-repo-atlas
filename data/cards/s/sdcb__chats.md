@@ -1,6 +1,6 @@
 # sdcb/chats
 
-⭐ 616 · C# · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/sdcb/chats) · [官网](https://sdcb.ai/chats) · 个人维护 · 中文 README
+⭐ 617 · C# · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/sdcb/chats) · [官网](https://sdcb.ai/chats) · 个人维护 · 中文 README
 
 **支持 22+ 模型服务商的 LLM 前端与 API 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sdcb/chats 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 612 --> 617
-    line [613, 616, 616]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 612 --> 618
+    line [613, 616, 617]
 ```
 
-2026-10-18 613 → 2026-10-30 616（+3）
+2026-10-18 613 → 2026-10-31 617（+4）
 
 
 ---

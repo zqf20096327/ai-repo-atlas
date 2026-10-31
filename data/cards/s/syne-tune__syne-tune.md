@@ -1,6 +1,6 @@
 # syne-tune/syne-tune
 
-⭐ 426 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/syne-tune/syne-tune) · [官网](https://syne-tune.readthedocs.io) · 组织维护
+⭐ 426 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/syne-tune/syne-tune) · [官网](https://syne-tune.readthedocs.io) · 组织维护
 
 **大规模超参数优化库：本地与 SLURM 集群上运行 HPO**
 
@@ -46,12 +46,12 @@ Syne Tune 是一个 Python 超参数优化（HPO）库，面向机器学习开�
 ```mermaid
 xychart-beta
     title "syne-tune/syne-tune 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 424 --> 427
     line [425, 426, 426]
 ```
 
-2026-10-18 425 → 2026-10-30 426（+1）
+2026-10-18 425 → 2026-10-31 426（+1）
 
 
 ---

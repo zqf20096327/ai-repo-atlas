@@ -1,6 +1,6 @@
 # Blackwellboy/model-serving-minefield
 
-⭐ 156 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blackwellboy/model-serving-minefield) · 组织维护
+⭐ 162 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Blackwellboy/model-serving-minefield) · 组织维护
 
 **LLM 服务路径陷阱登记库：166 条症状优先的度量错误诊断条目**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blackwellboy/model-serving-minefield 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 139 --> 157
-    line [140, 141, 156]
+    title "Blackwellboy/model-serving-minefield 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 138 --> 164
+    line [140, 141, 156, 162]
 ```
 
-2026-10-18 140 → 2026-10-30 156（+16）
+2026-10-18 140 → 2026-10-31 162（+22）
 
 
 ---

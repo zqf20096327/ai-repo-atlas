@@ -1,6 +1,6 @@
 # unchase/antigravity-storage-manager
 
-⭐ 113 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护 · 中文 README
+⭐ 114 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护 · 中文 README
 
 **VS Code 扩展：AI 网关代理、配额监控与对话同步管理**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "unchase/antigravity-storage-manager 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 110 --> 114
-    line [111, 112, 113, 113]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 110 --> 115
+    line [111, 112, 113, 114]
 ```
 
-2026-10-18 111 → 2026-10-30 113（+2）
+2026-10-18 111 → 2026-10-31 114（+3）
 
 
 ---

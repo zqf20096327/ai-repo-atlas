@@ -1,6 +1,6 @@
 # Zhanli-Li/DeepRead
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Zhanli-Li/DeepRead) · [官网](https://arxiv.org/abs/2602.05014) · 个人维护 · 中文 README
+⭐ 64 · Python · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/Zhanli-Li/DeepRead) · [官网](https://arxiv.org/abs/2602.05014) · 个人维护 · 中文 README
 
 **文档结构感知的 RAG 代理：解析 PDF/Markdown 并回答问题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zhanli-Li/DeepRead 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-10-30 63（+0）
+2026-10-18 63 → 2026-10-31 64（+1）
 
 
 ---

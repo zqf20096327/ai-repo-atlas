@@ -1,6 +1,6 @@
 # dreadnode/burpference
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/dreadnode/burpference) · [官网](https://dreadnode.io) · 组织维护
+⭐ 214 · Python · Apache-2.0 · 推送 2026-02-16 · [GitHub](https://github.com/dreadnode/burpference) · [官网](https://dreadnode.io) · 组织维护
 
 **Burp Suite 扩展：将代理流量发送给 LLM 做攻击性安全分析**
 
@@ -45,12 +45,12 @@ Jython 编写的 Burp Suite 扩展，捕获 Burp 代理历史中符合作用域�
 ```mermaid
 xychart-beta
     title "dreadnode/burpference 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
     y-axis "stars" 212 --> 216
-    line [215, 214, 213, 213]
+    line [215, 214, 213, 214]
 ```
 
-2026-10-18 215 → 2026-10-30 213（-2）
+2026-10-18 215 → 2026-10-31 214（-1）
 
 
 ---

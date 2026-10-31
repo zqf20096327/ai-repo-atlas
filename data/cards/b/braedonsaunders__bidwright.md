@@ -1,6 +1,6 @@
 # braedonsaunders/bidwright
 
-⭐ 77 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/braedonsaunders/bidwright) · [官网](https://demo.bidwright.app) · 个人维护
+⭐ 78 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/braedonsaunders/bidwright) · [官网](https://demo.bidwright.app) · 个人维护
 
 **面向建筑投标的 AI 代理估价平台：从标书接收到报价交付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "braedonsaunders/bidwright 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 63 --> 78
-    line [64, 66, 73, 74, 75, 76, 77]
+    title "braedonsaunders/bidwright 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 63 --> 79
+    line [64, 66, 73, 74, 75, 76, 77, 78]
 ```
 
-2026-10-18 64 → 2026-10-30 77（+13）
+2026-10-18 64 → 2026-10-31 78（+14）
 
 
 ---

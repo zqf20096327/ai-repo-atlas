@@ -1,6 +1,6 @@
 # LiuMengxuan04/shushu-internship-tool
 
-⭐ 2,146 · Python · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/LiuMengxuan04/shushu-internship-tool) · 个人维护 · 中文 README
+⭐ 2,147 · Python · NOASSERTION · 推送 2026-06-24 · [GitHub](https://github.com/LiuMengxuan04/shushu-internship-tool) · 个人维护 · 中文 README
 
 **帮低经验求职者把 JD 转成可面试项目的 AI 技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LiuMengxuan04/shushu-internship-tool 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2102 --> 2150
-    line [2106, 2111, 2117, 2121, 2122, 2126, 2130, 2133, 2143, 2146]
+    title "LiuMengxuan04/shushu-internship-tool 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2102 --> 2151
+    line [2106, 2111, 2117, 2121, 2122, 2126, 2130, 2133, 2143, 2146, 2147]
 ```
 
-2026-10-18 2,106 → 2026-10-30 2,146（+40）
+2026-10-18 2,106 → 2026-10-31 2,147（+41）
 
 
 ---

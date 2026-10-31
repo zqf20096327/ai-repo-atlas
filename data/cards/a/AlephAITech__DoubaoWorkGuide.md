@@ -1,6 +1,6 @@
 # AlephAITech/DoubaoWorkGuide
 
-⭐ 225 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/DoubaoWorkGuide) · [官网](https://doubaowork.homes/) · 组织维护 · 中文 README
+⭐ 227 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/DoubaoWorkGuide) · [官网](https://doubaowork.homes/) · 组织维护 · 中文 README
 
 **豆包工作的中文实践指南网站：49 篇教程与 31 个真实任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AlephAITech/DoubaoWorkGuide 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 214 --> 226
-    line [215, 218, 220, 221, 222, 223, 224, 225, 225]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 214 --> 228
+    line [215, 218, 220, 221, 222, 223, 224, 225, 227]
 ```
 
-2026-10-18 215 → 2026-10-30 225（+10）
+2026-10-18 215 → 2026-10-31 227（+12）
 
 
 ---

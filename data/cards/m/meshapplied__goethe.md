@@ -1,6 +1,6 @@
 # meshapplied/goethe
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/meshapplied/goethe) · [官网](https://meshapplied.com) · 组织维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/meshapplied/goethe) · [官网](https://meshapplied.com) · 组织维护
 
 **自托管 GPU 模型推理服务：把 Linux 机器变成兼容 OpenAI 的 API**
 
@@ -44,13 +44,13 @@ Goethe 是用 Rust 编写的自托管推理服务，将带 NVIDIA GPU 的 Linux 
 
 ```mermaid
 xychart-beta
-    title "meshapplied/goethe 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7 --> 44
-    line [10, 25, 32, 41]
+    title "meshapplied/goethe 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7 --> 45
+    line [10, 25, 32, 41, 42]
 ```
 
-2026-10-25 10 → 2026-10-30 41（+31）
+2026-10-25 10 → 2026-10-31 42（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # NVIDIA/DALI
 
-⭐ 5,789 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/DALI) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
+⭐ 5,788 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/DALI) · [官网](https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html) · 组织维护
 
 **面向深度学习训练与推理的 GPU 加速数据加载与预处理库**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 GPU 加速数据处理库：提供加载、解码、裁剪、�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/DALI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "NVIDIA/DALI 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 5775 --> 5790
-    line [5776, 5780, 5783, 5784, 5785, 5786, 5789]
+    line [5776, 5780, 5783, 5784, 5785, 5786, 5789, 5788]
 ```
 
-2026-10-18 5,776 → 2026-10-30 5,789（+13）
+2026-10-18 5,776 → 2026-10-31 5,788（+12）
 
 
 ---

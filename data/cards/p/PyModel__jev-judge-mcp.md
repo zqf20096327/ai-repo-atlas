@@ -46,12 +46,12 @@ MCP 服务器，向 Claude Code、Codex、Cursor、OpenCode、Pi 等编码 agent
 ```mermaid
 xychart-beta
     title "PyModel/jev-judge-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 47 --> 50
     line [48, 49, 49]
 ```
 
-2026-10-18 48 → 2026-10-30 49（+1）
+2026-10-18 48 → 2026-10-31 49（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # verygoodplugins/automem
 
-⭐ 824 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/verygoodplugins/automem) · [官网](https://automem.ai/) · 组织维护
+⭐ 825 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/verygoodplugins/automem) · [官网](https://automem.ai/) · 组织维护
 
 **给 AI 助手的长期记忆服务：图谱+向量跨会话召回上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "verygoodplugins/automem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 821 --> 825
-    line [822, 823, 824, 824]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 821 --> 826
+    line [822, 823, 824, 825]
 ```
 
-2026-10-18 822 → 2026-10-30 824（+2）
+2026-10-18 822 → 2026-10-31 825（+3）
 
 
 ---

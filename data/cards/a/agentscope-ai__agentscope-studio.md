@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-studio
 
-⭐ 662 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
+⭐ 663 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
 
 **面向 AgentScope 开发者的多智能体应用本地可视化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentscope-ai/agentscope-studio 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 656 --> 663
-    line [657, 658, 660, 659, 662, 662]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 656 --> 664
+    line [657, 658, 660, 659, 662, 663]
 ```
 
-2026-10-18 657 → 2026-10-30 662（+5）
+2026-10-18 657 → 2026-10-31 663（+6）
 
 
 ---

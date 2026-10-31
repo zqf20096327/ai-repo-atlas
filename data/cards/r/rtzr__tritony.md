@@ -1,6 +1,6 @@
 # rtzr/tritony
 
-⭐ 46 · Python · BSD-3-Clause · 推送 2026-10-01 · [GitHub](https://github.com/rtzr/tritony) · 组织维护
+⭐ 46 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/rtzr/tritony) · 组织维护
 
 **简化 Triton Inference Server 客户端配置的 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rtzr/tritony 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 46（+0）
 
 
 ---

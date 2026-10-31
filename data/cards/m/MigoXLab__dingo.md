@@ -1,6 +1,6 @@
 # MigoXLab/dingo
 
-⭐ 763 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MigoXLab/dingo) · [官网](https://dingo.openxlab.org.cn/) · 组织维护 · 中文 README
+⭐ 763 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/MigoXLab/dingo) · [官网](https://dingo.openxlab.org.cn/) · 组织维护 · 中文 README
 
 **AI 数据/模型/应用质量评测工具：数据质量、幻觉检测、RAG 评估**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MigoXLab/dingo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 757 --> 764
     line [758, 759, 761, 762, 763, 763]
 ```
 
-2026-10-18 758 → 2026-10-30 763（+5）
+2026-10-18 758 → 2026-10-31 763（+5）
 
 
 ---

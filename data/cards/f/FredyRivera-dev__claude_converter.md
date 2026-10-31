@@ -1,6 +1,6 @@
 # FredyRivera-dev/claude_converter
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/FredyRivera-dev/claude_converter) · 个人维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/FredyRivera-dev/claude_converter) · 个人维护
 
 **零依赖 Python 库：把编程 agent 会话 JSONL 转为 Hugging Face messages 格式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FredyRivera-dev/claude_converter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-18 49 → 2026-10-30 49（+0）
+2026-10-18 49 → 2026-10-31 48（-1）
 
 
 ---

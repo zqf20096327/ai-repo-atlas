@@ -1,6 +1,6 @@
 # noddle-dev/noddle-draw
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/noddle-dev/noddle-draw) · [官网](https://draw.noddle.dev) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/noddle-dev/noddle-draw) · [官网](https://draw.noddle.dev) · 组织维护
 
 **匿名协作画板：无需登录即画，AI 可代改图（BYOK）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "noddle-dev/noddle-draw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

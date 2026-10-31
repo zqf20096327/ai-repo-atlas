@@ -1,6 +1,6 @@
 # avikalpg/byok-relay
 
-⭐ 57 · JavaScript · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/avikalpg/byok-relay) · [官网](https://byokrelay.com) · 个人维护
+⭐ 58 · JavaScript · Apache-2.0 · 推送 2026-09-20 · [GitHub](https://github.com/avikalpg/byok-relay) · [官网](https://byokrelay.com) · 个人维护
 
 **BYOK 中继服务：让浏览器前端用用户自己的 AI 密钥直连 LLM，绕开 CORS**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "avikalpg/byok-relay 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-10-30 57（+2）
+2026-10-18 55 → 2026-10-31 58（+3）
 
 
 ---

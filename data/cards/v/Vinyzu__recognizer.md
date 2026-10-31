@@ -1,6 +1,6 @@
 # Vinyzu/recognizer
 
-⭐ 263 · Python · GPL-3.0 · 推送 2026-03-29 · [GitHub](https://github.com/Vinyzu/recognizer) · 个人维护
+⭐ 264 · Python · GPL-3.0 · 推送 2026-03-29 · [GitHub](https://github.com/Vinyzu/recognizer) · 个人维护
 
 **用 YOLO 与 CLIP 模型自动解 reCAPTCHA 验证码的 Python 库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Vinyzu/recognizer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 262 --> 266
-    line [265, 264, 263, 263]
+    line [265, 264, 263, 264]
 ```
 
-2026-10-18 265 → 2026-10-30 263（-2）
+2026-10-18 265 → 2026-10-31 264（-1）
 
 
 ---

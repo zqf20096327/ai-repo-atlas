@@ -1,6 +1,6 @@
 # PM-Shawn/Abu-Cowork
 
-⭐ 412 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
+⭐ 413 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 桌面办公助理：自然语言驱动读写文件、执行命令与自动化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "PM-Shawn/Abu-Cowork 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 397 --> 413
-    line [398, 400, 401, 402, 403, 404, 407, 412]
+    title "PM-Shawn/Abu-Cowork 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 397 --> 414
+    line [398, 400, 401, 402, 403, 404, 407, 412, 413]
 ```
 
-2026-10-18 398 → 2026-10-30 412（+14）
+2026-10-18 398 → 2026-10-31 413（+15）
 
 
 ---

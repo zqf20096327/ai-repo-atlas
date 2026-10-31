@@ -1,6 +1,6 @@
 # little51/agent-dev
 
-⭐ 159 · Python · 推送 2026-03-26 · [GitHub](https://github.com/little51/agent-dev) · [官网](https://aliendao.cn) · 个人维护 · 中文 README
+⭐ 158 · Python · 推送 2026-03-26 · [GitHub](https://github.com/little51/agent-dev) · [官网](https://aliendao.cn) · 个人维护 · 中文 README
 
 **《大模型项目实战：Agent开发与应用》图书配套资源仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "little51/agent-dev 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 157 --> 160
-    line [158, 159, 159]
+    line [158, 159, 158]
 ```
 
-2026-10-18 158 → 2026-10-30 159（+1）
+2026-10-18 158 → 2026-10-31 158（+0）
 
 
 ---

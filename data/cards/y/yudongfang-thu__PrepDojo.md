@@ -1,6 +1,6 @@
 # yudongfang-thu/PrepDojo
 
-⭐ 31 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/yudongfang-thu/PrepDojo) · [官网]( ) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/yudongfang-thu/PrepDojo) · [官网]( ) · 个人维护 · 中文 README
 
 **本地优先的秋招刷题工具：本地沙箱判题+AI教练点评+八股陪练**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yudongfang-thu/PrepDojo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

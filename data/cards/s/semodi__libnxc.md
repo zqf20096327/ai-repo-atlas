@@ -45,12 +45,12 @@ Libnxc 提供 C++ 库、Fortran 绑定与 Python 实现（pylibnxc），用于�
 ```mermaid
 xychart-beta
     title "semodi/libnxc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

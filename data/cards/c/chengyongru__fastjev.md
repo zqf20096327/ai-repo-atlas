@@ -1,6 +1,6 @@
 # chengyongru/fastjev
 
-⭐ 23 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chengyongru/fastjev) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/chengyongru/fastjev) · 个人维护 · 中文 README
 
 **自托管语义决策 SDK：多运行时运行固定版本开源模型输出选择/布尔/评分**
 
@@ -45,12 +45,12 @@ SemIf 的独立维护分支，提供 Python SDK 将 Jev 式语义决策部署到
 ```mermaid
 xychart-beta
     title "chengyongru/fastjev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 20 --> 26
+    line [21, 22, 23, 25]
 ```
 
-2026-10-18 21 → 2026-10-30 23（+2）
+2026-10-18 21 → 2026-10-31 25（+4）
 
 
 ---

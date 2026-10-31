@@ -1,6 +1,6 @@
 # neuron-core/neuron-laravel
 
-⭐ 122 · PHP · MIT · 推送 2026-09-30 · [GitHub](https://github.com/neuron-core/neuron-laravel) · [官网](https://docs.neuron-ai.dev/) · 组织维护
+⭐ 123 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/neuron-core/neuron-laravel) · [官网](https://docs.neuron-ai.dev/) · 组织维护
 
 **Neuron AI 框架的 Laravel 集成 SDK，简化 PHP AI agent 开发**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "neuron-core/neuron-laravel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 121 --> 123
-    line [122, 122]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 121 --> 124
+    line [122, 123]
 ```
 
-2026-10-18 122 → 2026-10-30 122（+0）
+2026-10-18 122 → 2026-10-31 123（+1）
 
 
 ---

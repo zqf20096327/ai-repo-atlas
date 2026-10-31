@@ -1,6 +1,6 @@
 # build-arena/BuildArena-2.0
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/build-arena/BuildArena-2.0) · [官网](https://build-arena.github.io/ConstructionChallenge/) · 组织维护 · 中文 README
+⭐ 37 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/build-arena/BuildArena-2.0) · [官网](https://build-arena.github.io/ConstructionChallenge/) · 组织维护 · 中文 README
 
 **让 LLM agent 在 Besiege 中造机器并闭环控制的工程竞技场**
 
@@ -46,12 +46,12 @@ BuildArena 2.0 是面向 AI agent 的工程建造环境：在物理沙盒游戏 
 ```mermaid
 xychart-beta
     title "build-arena/BuildArena-2.0 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 37]
 ```
 
-2026-10-18 34 → 2026-10-30 35（+1）
+2026-10-18 34 → 2026-10-31 37（+3）
 
 
 ---

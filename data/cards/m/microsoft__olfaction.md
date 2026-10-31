@@ -1,6 +1,6 @@
 # microsoft/olfaction
 
-⭐ 19 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/olfaction) · [官网](https://microsoft.github.io/olfaction/) · 组织维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-06 · [GitHub](https://github.com/microsoft/olfaction) · [官网](https://microsoft.github.io/olfaction/) · 组织维护
 
 **论文代码：深度学习建模嗅觉受体与气味感知的组合编码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/olfaction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

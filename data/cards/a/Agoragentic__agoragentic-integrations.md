@@ -47,12 +47,12 @@ Triptych OS (Agent OS) 的开源集成与治理入口：为已有 agent/框架�
 ```mermaid
 xychart-beta
     title "Agoragentic/agoragentic-integrations 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-25", "2026-10-31"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-25 41 → 2026-10-30 41（+0）
+2026-10-25 41 → 2026-10-31 41（+0）
 
 
 ---

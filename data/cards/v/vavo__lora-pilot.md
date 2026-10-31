@@ -1,6 +1,6 @@
 # vavo/lora-pilot
 
-⭐ 89 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vavo/lora-pilot) · [官网](https://www.lorapilot.com) · 个人维护
+⭐ 89 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vavo/lora-pilot) · [官网](https://www.lorapilot.com) · 个人维护
 
 **一体化 Docker 镜像：LoRA 训练到图像/视频生成的浏览器工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vavo/lora-pilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-10-18 89 → 2026-10-30 89（+0）
+2026-10-18 89 → 2026-10-31 89（+0）
 
 
 ---

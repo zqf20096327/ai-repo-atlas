@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "heaven-hm/awesome-reverse-engineered-games 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "heaven-hm/awesome-reverse-engineered-games 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 25 --> 30
-    line [26, 28, 29]
+    line [26, 28, 29, 29]
 ```
 
-2026-10-18 26 → 2026-10-30 29（+3）
+2026-10-18 26 → 2026-10-31 29（+3）
 
 
 ---

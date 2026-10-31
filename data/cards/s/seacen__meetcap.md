@@ -1,6 +1,6 @@
 # seacen/meetcap
 
-⭐ 298 · Shell · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/seacen/meetcap) · [官网](https://meetcap.seacen.dev) · 个人维护 · 中文 README
+⭐ 300 · Shell · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/seacen/meetcap) · [官网](https://meetcap.seacen.dev) · 个人维护 · 中文 README
 
 **Mac 端本地转录会议并生成纪要的会议助手**
 
@@ -46,13 +46,13 @@ macOS 桌面应用：录制任意会议（应用/浏览器标签/会议室/已�
 
 ```mermaid
 xychart-beta
-    title "seacen/meetcap 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 99 --> 316
-    line [117, 146, 168, 196, 244, 279, 296, 298]
+    title "seacen/meetcap 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 99 --> 318
+    line [117, 146, 168, 196, 244, 279, 296, 298, 300]
 ```
 
-2026-10-19 117 → 2026-10-30 298（+181）
+2026-10-19 117 → 2026-10-31 300（+183）
 
 
 ---

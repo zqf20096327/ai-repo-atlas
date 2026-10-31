@@ -47,12 +47,12 @@ PIX 是 DeepMind JAX Ecosystem 中的纯 Python 图像处理库，构建于 JAX 
 ```mermaid
 xychart-beta
     title "google-deepmind/dm_pix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 451 --> 453
     line [452, 452]
 ```
 
-2026-10-18 452 → 2026-10-30 452（+0）
+2026-10-18 452 → 2026-10-31 452（+0）
 
 
 ---

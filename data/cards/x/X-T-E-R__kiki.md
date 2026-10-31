@@ -1,6 +1,6 @@
 # X-T-E-R/kiki
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
 
 **多模型 AI agent 工作台：桌面/TUI/Web 三端调度子代理完成任务**
 
@@ -39,6 +39,18 @@
 
 > L8: Hand Kiki a folder and a task: map an unfamiliar codebase, work through a stack of PDFs and spreadsheets, finish a d
 > L14: - **Several models in one dispatch tree**: a strong model plans, cheaper models run routine work, and a review on a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "X-T-E-R/kiki 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 30 --> 38
+    line [31, 37]
+```
+
+2026-10-30 31 → 2026-10-31 37（+6）
 
 
 ---

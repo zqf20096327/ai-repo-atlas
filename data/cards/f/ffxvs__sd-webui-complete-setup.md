@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ffxvs/sd-webui-complete-setup 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ffxvs/sd-webui-complete-setup 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 49 --> 52
-    line [51, 50]
+    line [51, 50, 50]
 ```
 
-2026-10-18 51 → 2026-10-30 50（-1）
+2026-10-18 51 → 2026-10-31 50（-1）
 
 
 ---

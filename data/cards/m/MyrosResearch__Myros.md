@@ -45,12 +45,12 @@ Node.js 应用，为 Telegram 部署知识感知 AI agent：管理员通过 Tele
 ```mermaid
 xychart-beta
     title "MyrosResearch/Myros 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 22（+0）
 
 
 ---

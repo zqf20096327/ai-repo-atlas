@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Signal-Drifts/AI-History 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Signal-Drifts/AI-History 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 37 --> 40
-    line [39, 38]
+    line [39, 38, 38]
 ```
 
-2026-10-18 39 → 2026-10-30 38（-1）
+2026-10-18 39 → 2026-10-31 38（-1）
 
 
 ---

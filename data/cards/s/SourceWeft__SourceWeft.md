@@ -1,6 +1,6 @@
 # SourceWeft/SourceWeft
 
-⭐ 339 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/SourceWeft/SourceWeft) · [官网](https://SourceWeft.com/) · 组织维护 · 中文 README
+⭐ 350 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/SourceWeft/SourceWeft) · [官网](https://SourceWeft.com/) · 组织维护 · 中文 README
 
 **可自托管的开源 AI 工作站：多 agent、知识与引用一体化**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SourceWeft/SourceWeft 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 248 --> 347
-    line [256, 271, 287, 298, 308, 315, 321, 328, 330, 335, 339]
+    title "SourceWeft/SourceWeft 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 247 --> 359
+    line [256, 271, 287, 298, 308, 315, 321, 328, 330, 335, 339, 350]
 ```
 
-2026-10-18 256 → 2026-10-30 339（+83）
+2026-10-18 256 → 2026-10-31 350（+94）
 
 
 ---

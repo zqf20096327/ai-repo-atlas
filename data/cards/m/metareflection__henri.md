@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metareflection/henri 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "metareflection/henri 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

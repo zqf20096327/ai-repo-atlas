@@ -1,6 +1,6 @@
 # TsinghuaC3I/MedXpertQA
 
-⭐ 184 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/TsinghuaC3I/MedXpertQA) · [官网](https://medxpertqa.github.io) · 组织维护 · 中文 README
+⭐ 185 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/TsinghuaC3I/MedXpertQA) · [官网](https://medxpertqa.github.io) · 组织维护 · 中文 README
 
 **专家级医学推理与理解能力的评测基准数据集**
 
@@ -45,12 +45,12 @@ MedXpertQA 是 ICML 2025 论文发布的医学评测基准，含 4,460 道题目
 ```mermaid
 xychart-beta
     title "TsinghuaC3I/MedXpertQA 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 182 --> 186
+    line [183, 184, 185]
 ```
 
-2026-10-18 183 → 2026-10-30 184（+1）
+2026-10-18 183 → 2026-10-31 185（+2）
 
 
 ---

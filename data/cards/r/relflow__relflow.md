@@ -45,12 +45,12 @@ relflow 从经 Apache Arrow 流式输入的嵌套记录构建 PyTorch/Lightning 
 ```mermaid
 xychart-beta
     title "relflow/relflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

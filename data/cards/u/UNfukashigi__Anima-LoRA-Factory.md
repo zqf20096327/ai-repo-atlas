@@ -1,6 +1,6 @@
 # UNfukashigi/Anima-LoRA-Factory
 
-⭐ 84 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/UNfukashigi/Anima-LoRA-Factory) · 个人维护 · 中文 README
+⭐ 86 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/UNfukashigi/Anima-LoRA-Factory) · 个人维护 · 中文 README
 
 **无需编程知识、训练 Anima 扩散模型 LoRA 的 GUI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "UNfukashigi/Anima-LoRA-Factory 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 79 --> 85
-    line [80, 82, 84, 84]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 79 --> 87
+    line [80, 82, 84, 86]
 ```
 
-2026-10-18 80 → 2026-10-30 84（+4）
+2026-10-18 80 → 2026-10-31 86（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/MInference
 
-⭐ 1,230 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/MInference) · [官网](https://aka.ms/MInference) · 组织维护
+⭐ 1,231 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/microsoft/MInference) · [官网](https://aka.ms/MInference) · 组织维护
 
 **长上下文 LLM 预填充加速库：动态稀疏注意力降低推理延迟**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/MInference 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1228 --> 1231
-    line [1229, 1230, 1229, 1230]
+    title "microsoft/MInference 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1228 --> 1232
+    line [1229, 1230, 1229, 1230, 1231]
 ```
 
-2026-10-18 1,229 → 2026-10-30 1,230（+1）
+2026-10-18 1,229 → 2026-10-31 1,231（+2）
 
 
 ---

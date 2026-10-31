@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HowProgrammingWorks/Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "HowProgrammingWorks/Agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 44 --> 47
-    line [45, 46]
+    line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-30 46（+1）
+2026-10-18 45 → 2026-10-31 46（+1）
 
 
 ---

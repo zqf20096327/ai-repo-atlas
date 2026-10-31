@@ -1,6 +1,6 @@
 # woniu9524/open-web-bridge
 
-⭐ 114 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/woniu9524/open-web-bridge) · [官网](https://www.npmjs.com/package/open-web-bridge) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/woniu9524/open-web-bridge) · [官网](https://www.npmjs.com/package/open-web-bridge) · 个人维护 · 中文 README
 
 **让任意 AI agent 驱动你真实 Chrome 的 CLI 桥接工具**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "woniu9524/open-web-bridge 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
+    title "woniu9524/open-web-bridge 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 113 --> 123
-    line [121, 122, 114, 115, 114]
+    line [121, 122, 114, 115, 114, 115]
 ```
 
-2026-10-18 121 → 2026-10-30 114（-7）
+2026-10-18 121 → 2026-10-31 115（-6）
 
 
 ---

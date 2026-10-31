@@ -45,12 +45,12 @@ Go 语言编写的网关：通过 gRPC reflection 或 FileDescriptorSet 文件�
 ```mermaid
 xychart-beta
     title "aalobaidi/ggRMCP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-30 35（+0）
+2026-10-18 35 → 2026-10-31 35（+0）
 
 
 ---

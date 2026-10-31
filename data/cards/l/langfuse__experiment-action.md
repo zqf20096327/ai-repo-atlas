@@ -45,12 +45,12 @@ Langfuse 官方维护的 GitHub Action：在 CI 流水线中加载用户的实�
 ```mermaid
 xychart-beta
     title "langfuse/experiment-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

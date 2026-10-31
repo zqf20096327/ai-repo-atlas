@@ -46,12 +46,12 @@ Agent Identity & Discovery (AID) 是一个开放标准：在域名下发布一�
 ```mermaid
 xychart-beta
     title "agentcommunity/agent-identity-discovery 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-30 48（+0）
+2026-10-18 48 → 2026-10-31 48（+0）
 
 
 ---

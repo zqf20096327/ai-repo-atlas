@@ -1,6 +1,6 @@
 # xushengfeng/lime
 
-⭐ 905 · TypeScript · GPL-3.0 · 推送 2026-06-30 · [GitHub](https://github.com/xushengfeng/lime) · 个人维护 · 中文 README
+⭐ 905 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/xushengfeng/lime) · 个人维护 · 中文 README
 
 **LLM 驱动的拼音输入法引擎，以 Rime 为前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xushengfeng/lime 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 892 --> 906
     line [893, 895, 900, 901, 905, 905]
 ```
 
-2026-10-18 893 → 2026-10-30 905（+12）
+2026-10-18 893 → 2026-10-31 905（+12）
 
 
 ---

@@ -44,13 +44,13 @@ Python 库 sec-parser，将 SEC EDGAR 的 10-Q、10-K 等 HTML 财报文档解�
 
 ```mermaid
 xychart-beta
-    title "alphanome-ai/sec-parser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "alphanome-ai/sec-parser 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 294 --> 298
-    line [295, 296, 297]
+    line [295, 296, 297, 297]
 ```
 
-2026-10-18 295 → 2026-10-30 297（+2）
+2026-10-18 295 → 2026-10-31 297（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jamailar/OPG
 
-⭐ 170 · TypeScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/Jamailar/OPG) · [官网](https://opg.ceo/) · 个人维护 · 中文 README
+⭐ 171 · TypeScript · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/Jamailar/OPG) · [官网](https://opg.ceo/) · 个人维护 · 中文 README
 
 **面向一人公司的多 app 后端控制平面，统一 AI 网关与运营能力**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jamailar/OPG 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 165 --> 171
-    line [166, 167, 169, 168, 169, 170, 170]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 165 --> 172
+    line [166, 167, 169, 168, 169, 170, 171]
 ```
 
-2026-10-18 166 → 2026-10-30 170（+4）
+2026-10-18 166 → 2026-10-31 171（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # TimeCyber/MCP-X-web
 
-⭐ 98 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/TimeCyber/MCP-X-web) · [官网](https://www.mcp-x.com) · 组织维护 · 中文 README
+⭐ 99 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/TimeCyber/MCP-X-web) · [官网](https://www.mcp-x.com) · 组织维护 · 中文 README
 
 **企业级 AIGC 工作台前端：对话/生图/生视频/应用构建/MCP市场**
 
@@ -44,13 +44,13 @@ MCP-X 的 Web 前端（React 18 + TypeScript + Vite），对接 mcp-x.com 后端
 
 ```mermaid
 xychart-beta
-    title "TimeCyber/MCP-X-web 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 96, 97, 98]
+    title "TimeCyber/MCP-X-web 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 95 --> 100
+    line [96, 97, 96, 97, 98, 99]
 ```
 
-2026-10-18 96 → 2026-10-30 98（+2）
+2026-10-18 96 → 2026-10-31 99（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # yl365/MoneyPrinterTurboEasy
 
-⭐ 272 · QMake · 推送 2026-07-10 · [GitHub](https://github.com/yl365/MoneyPrinterTurboEasy) · 个人维护 · 中文 README
+⭐ 273 · QMake · 推送 2026-07-10 · [GitHub](https://github.com/yl365/MoneyPrinterTurboEasy) · 个人维护 · 中文 README
 
 **一句话主题词生成带配音短视频的 Windows 绿色版工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yl365/MoneyPrinterTurboEasy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 266 --> 273
-    line [267, 269, 270, 271, 272, 272]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 266 --> 274
+    line [267, 269, 270, 271, 272, 273]
 ```
 
-2026-10-18 267 → 2026-10-30 272（+5）
+2026-10-18 267 → 2026-10-31 273（+6）
 
 
 ---

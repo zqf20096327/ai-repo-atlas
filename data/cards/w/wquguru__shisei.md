@@ -1,6 +1,6 @@
 # wquguru/shisei
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
+⭐ 148 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
 
 **CC0 人偶姿势参考图库：280 姿势×5 角度，供 AI 绘图工具使用**
 
@@ -40,6 +40,18 @@
 > L5: **A free (CC0) mannequin pose reference library: 280 poses in four series × 5 camera angles, drawn as clean line art
 > L26: Shisei is a self-made pose reference library. Every pose is a faceless mannequin drawn from five angles — front,
 > L58: Upload a view as the pose or composition reference in your image tool. Using several angles of the same pose keeps
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wquguru/shisei 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 13 --> 160
+    line [25, 148]
+```
+
+2026-10-30 25 → 2026-10-31 148（+123）
 
 
 ---

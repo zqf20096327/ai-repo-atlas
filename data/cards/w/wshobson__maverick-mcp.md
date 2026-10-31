@@ -1,6 +1,6 @@
 # wshobson/maverick-mcp
 
-⭐ 714 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wshobson/maverick-mcp) · [官网](https://sethhobson.com) · 个人维护
+⭐ 715 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/wshobson/maverick-mcp) · [官网](https://sethhobson.com) · 个人维护
 
 **本地运行的股票市场 MCP 服务器：行情、技术分析、组合与回测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wshobson/maverick-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 704 --> 715
-    line [705, 707, 709, 710, 711, 712, 714]
+    title "wshobson/maverick-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 704 --> 716
+    line [705, 707, 709, 710, 711, 712, 714, 715]
 ```
 
-2026-10-18 705 → 2026-10-30 714（+9）
+2026-10-18 705 → 2026-10-31 715（+10）
 
 
 ---

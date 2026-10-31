@@ -1,6 +1,6 @@
 # run-house/kubetorch
 
-⭐ 1,228 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/run-house/kubetorch) · [官网](https://run.house) · 组织维护
+⭐ 1,229 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/run-house/kubetorch) · [官网](https://run.house) · 组织维护
 
 **在 Python 中把 ML 工作负载部署到 Kubernetes 的接口**
 
@@ -45,12 +45,12 @@ Kubetorch 提供一个 Pythonic 的"无服务器"接口，让开发者从本地 
 ```mermaid
 xychart-beta
     title "run-house/kubetorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1227 --> 1229
-    line [1228, 1228]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1227 --> 1230
+    line [1228, 1229]
 ```
 
-2026-10-18 1,228 → 2026-10-30 1,228（+0）
+2026-10-18 1,228 → 2026-10-31 1,229（+1）
 
 
 ---

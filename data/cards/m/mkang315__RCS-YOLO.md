@@ -45,12 +45,12 @@ MICCAI 2023 论文《RCS-YOLO: A Fast and High-Accuracy Object Detector for Brai
 ```mermaid
 xychart-beta
     title "mkang315/RCS-YOLO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 100 --> 103
     line [101, 102, 102]
 ```
 
-2026-10-18 101 → 2026-10-30 102（+1）
+2026-10-18 101 → 2026-10-31 102（+1）
 
 
 ---

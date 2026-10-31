@@ -1,6 +1,6 @@
 # Verenu/Verenu
 
-⭐ 18 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Verenu/Verenu) · [官网](https://verenu.com) · 组织维护
+⭐ 18 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Verenu/Verenu) · [官网](https://verenu.com) · 组织维护
 
 **跨平台开源 AI 听写桌面应用：按住热键说话即得整理文本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Verenu/Verenu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

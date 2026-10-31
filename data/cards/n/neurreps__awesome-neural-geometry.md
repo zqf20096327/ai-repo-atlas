@@ -1,6 +1,6 @@
 # neurreps/awesome-neural-geometry
 
-⭐ 1,085 · 推送 2026-02-24 · [GitHub](https://github.com/neurreps/awesome-neural-geometry) · [官网](https://neurreps.org) · 组织维护
+⭐ 1,087 · 推送 2026-02-24 · [GitHub](https://github.com/neurreps/awesome-neural-geometry) · [官网](https://neurreps.org) · 组织维护
 
 **神经表示几何研究的资源与文献策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neurreps/awesome-neural-geometry 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1084 --> 1087
-    line [1086, 1085, 1085]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1084 --> 1088
+    line [1086, 1085, 1087]
 ```
 
-2026-10-18 1,086 → 2026-10-30 1,085（-1）
+2026-10-18 1,086 → 2026-10-31 1,087（+1）
 
 
 ---

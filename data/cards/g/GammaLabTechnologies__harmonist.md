@@ -1,6 +1,6 @@
 # GammaLabTechnologies/harmonist
 
-⭐ 2,252 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/GammaLabTechnologies/harmonist) · [官网](https://gammalab.ae) · 组织维护 · 中文 README
+⭐ 2,244 · Python · MIT · 推送 2026-06-09 · [GitHub](https://github.com/GammaLabTechnologies/harmonist) · [官网](https://gammalab.ae) · 组织维护 · 中文 README
 
 **面向 AI 编码助手的多 agent 编排框架，钩子强制执行协议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GammaLabTechnologies/harmonist 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 2250 --> 2256
-    line [2254, 2255, 2254, 2255, 2251, 2252]
+    title "GammaLabTechnologies/harmonist 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2243 --> 2256
+    line [2254, 2255, 2254, 2255, 2251, 2252, 2244]
 ```
 
-2026-10-18 2,254 → 2026-10-30 2,252（-2）
+2026-10-18 2,254 → 2026-10-31 2,244（-10）
 
 
 ---

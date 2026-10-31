@@ -1,6 +1,6 @@
 # pwillia7/sorant
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pwillia7/sorant) · [官网](https://github.com/pwillia7/sorant/blob/main/docs/setup.md) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pwillia7/sorant) · [官网](https://github.com/pwillia7/sorant/blob/main/docs/setup.md) · 个人维护
 
 **基于自有 ComfyUI 的文生视频/音乐 Web 前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pwillia7/sorant 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-10-19 12 → 2026-10-30 15（+3）
+2026-10-19 12 → 2026-10-31 15（+3）
 
 
 ---

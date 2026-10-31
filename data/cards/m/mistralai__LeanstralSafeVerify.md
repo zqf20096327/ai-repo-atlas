@@ -44,13 +44,13 @@ SafeVerify 的 Mistral AI（Leanstral）分支，用于代码 agent 训练与评
 
 ```mermaid
 xychart-beta
-    title "mistralai/LeanstralSafeVerify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "mistralai/LeanstralSafeVerify 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 39 --> 42
-    line [40, 41]
+    line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-10-30 41（+1）
+2026-10-18 40 → 2026-10-31 41（+1）
 
 
 ---

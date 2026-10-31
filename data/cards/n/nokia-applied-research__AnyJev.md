@@ -1,6 +1,6 @@
 # nokia-applied-research/AnyJev
 
-⭐ 1,535 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nokia-applied-research/AnyJev) · [官网](https://pypi.org/project/anyjev/) · 组织维护 · 中文 README
+⭐ 1,541 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/nokia-applied-research/AnyJev) · [官网](https://pypi.org/project/anyjev/) · 组织维护 · 中文 README
 
 **把任意 LLM 变成带概率的类型化决策模型（免训练/自蒸馏）**
 
@@ -45,13 +45,13 @@ Python 库，提供两条路径：训练免费的 Decider 从任意开放因果 
 
 ```mermaid
 xychart-beta
-    title "nokia-applied-research/AnyJev 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1364 --> 1550
-    line [1379, 1435, 1465, 1470, 1473, 1474, 1480, 1489, 1497, 1518, 1535]
+    title "nokia-applied-research/AnyJev 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1363 --> 1557
+    line [1379, 1435, 1465, 1470, 1473, 1474, 1480, 1489, 1497, 1518, 1535, 1541]
 ```
 
-2026-10-18 1,379 → 2026-10-30 1,535（+156）
+2026-10-18 1,379 → 2026-10-31 1,541（+162）
 
 
 ---

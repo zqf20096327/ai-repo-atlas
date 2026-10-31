@@ -1,6 +1,6 @@
 # diegovasquez-ai/builder-crm
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/diegovasquez-ai/builder-crm) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/diegovasquez-ai/builder-crm) · 个人维护
 
 **给代理机构的多渠道 CRM：每客户一实例，内置 AI 销售代理**
 
@@ -45,12 +45,12 @@ Next.js + TypeScript 自托管 CRM，将 WhatsApp、Instagram、Messenger 消息
 ```mermaid
 xychart-beta
     title "diegovasquez-ai/builder-crm 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 4 --> 21
     line [5, 10, 11, 12, 17, 20, 20]
 ```
 
-2026-10-24 5 → 2026-10-30 20（+15）
+2026-10-24 5 → 2026-10-31 20（+15）
 
 
 ---

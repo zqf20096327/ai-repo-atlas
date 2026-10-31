@@ -1,6 +1,6 @@
 # ZhuLinsen/MiniAgent
 
-⭐ 216 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZhuLinsen/MiniAgent) · 个人维护 · 中文 README
+⭐ 215 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ZhuLinsen/MiniAgent) · 个人维护 · 中文 README
 
 **超轻量 Python Agent/Harness 框架：核心 591 行，多模型+MCP+插件**
 
@@ -45,13 +45,13 @@ MiniAgent 是一个可运行、可二次开发的 Python Agent 框架：核心�
 
 ```mermaid
 xychart-beta
-    title "ZhuLinsen/MiniAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "ZhuLinsen/MiniAgent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 211 --> 217
-    line [212, 215, 216]
+    line [212, 215, 216, 215]
 ```
 
-2026-10-18 212 → 2026-10-30 216（+4）
+2026-10-18 212 → 2026-10-31 215（+3）
 
 
 ---

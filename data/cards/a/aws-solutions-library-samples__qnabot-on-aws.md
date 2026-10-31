@@ -46,12 +46,12 @@ QnABot on AWS 是部署在 AWS 账户内的对话式问答方案：通过 CloudF
 ```mermaid
 xychart-beta
     title "aws-solutions-library-samples/qnabot-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 447 --> 449
     line [448, 448]
 ```
 
-2026-10-18 448 → 2026-10-30 448（+0）
+2026-10-18 448 → 2026-10-31 448（+0）
 
 
 ---

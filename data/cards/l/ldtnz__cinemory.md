@@ -1,6 +1,6 @@
 # ldtnz/cinemory
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ldtnz/cinemory) · 个人维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/ldtnz/cinemory) · 个人维护
 
 **个人观影目录 PWA：导入流媒体观看历史并追踪管理**
 
@@ -40,6 +40,18 @@
 > L11: A personal catalog for everything you have watched on Netflix, Prime Video,
 > L71: - **AI recommendations** *(optional)* — Claude suggests titles to watch next
 > L15: Optionally, Claude looks at your catalog
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ldtnz/cinemory 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
+```
+
+2026-10-30 31 → 2026-10-31 30（-1）
 
 
 ---

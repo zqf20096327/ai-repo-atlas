@@ -45,12 +45,12 @@ PowerElyan Linux 是一个多架构 Linux 发行版，声称针对 AI 推理、�
 ```mermaid
 xychart-beta
     title "Scottcjn/power8-projects 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-29 59 → 2026-10-30 59（+0）
+2026-10-29 59 → 2026-10-31 59（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # johndotpub/DiscordianAI
 
-⭐ 26 · Python · Unlicense · 推送 2026-10-29 · [GitHub](https://github.com/johndotpub/DiscordianAI) · [官网](https://github.com/johndotpub/DiscordianAI) · 个人维护
+⭐ 26 · Python · Unlicense · 推送 2026-10-30 · [GitHub](https://github.com/johndotpub/DiscordianAI) · [官网](https://github.com/johndotpub/DiscordianAI) · 个人维护
 
 **Discord AI 聊天机器人：OpenAI GPT-5 与 Perplexity 双后端混合路由**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "johndotpub/DiscordianAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

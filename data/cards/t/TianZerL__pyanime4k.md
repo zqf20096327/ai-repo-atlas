@@ -1,6 +1,6 @@
 # TianZerL/pyanime4k
 
-⭐ 121 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/TianZerL/pyanime4k) · 个人维护
+⭐ 122 · Python · MIT · 推送 2025-11-10 · [GitHub](https://github.com/TianZerL/pyanime4k) · 个人维护
 
 **Python 封装 Anime4KCPP 的动漫图像超分辨率库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TianZerL/pyanime4k 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-18 121 → 2026-10-30 121（+0）
+2026-10-18 121 → 2026-10-31 122（+1）
 
 
 ---

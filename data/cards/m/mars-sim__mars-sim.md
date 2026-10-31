@@ -1,6 +1,6 @@
 # mars-sim/mars-sim
 
-⭐ 171 · Java · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/mars-sim/mars-sim) · [官网](https://marssim.space) · 组织维护
+⭐ 171 · Java · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/mars-sim/mars-sim) · [官网](https://marssim.space) · 组织维护
 
 **火星定居点运行模拟器：Java 编写的多智能体定居仿真**
 
@@ -45,12 +45,12 @@ mars-sim 是一个 Java 开源项目，用于模拟火星早期定居者的任�
 ```mermaid
 xychart-beta
     title "mars-sim/mars-sim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 169 --> 172
     line [170, 171, 171]
 ```
 
-2026-10-18 170 → 2026-10-30 171（+1）
+2026-10-18 170 → 2026-10-31 171（+1）
 
 
 ---

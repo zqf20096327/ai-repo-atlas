@@ -1,6 +1,6 @@
 # google-deepmind/iris
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/google-deepmind/iris) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google-deepmind/iris) · 组织维护
 
 **分布式黑盒优化库：大规模进化方法训练神经网络**
 
@@ -44,12 +44,12 @@ Google DeepMind 开源的同步分布式零阶（黑盒）优化库，主要用�
 ```mermaid
 xychart-beta
     title "google-deepmind/iris 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 23（+1）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

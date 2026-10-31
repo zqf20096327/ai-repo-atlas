@@ -1,6 +1,6 @@
 # StigLidu/AdaExplore
 
-⭐ 23 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/StigLidu/AdaExplore) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/StigLidu/AdaExplore) · 组织维护
 
 **LLM 驱动 GPU kernel 生成的论文官方实现**
 
@@ -45,12 +45,12 @@ COLM-LLA 2026 论文 AdaExplore 的研究代码库，面向 LLM 驱动的 GPU ke
 ```mermaid
 xychart-beta
     title "StigLidu/AdaExplore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

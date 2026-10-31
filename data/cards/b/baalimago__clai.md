@@ -1,6 +1,6 @@
 # baalimago/clai
 
-⭐ 150 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/baalimago/clai) · 个人维护
+⭐ 150 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/baalimago/clai) · 个人维护
 
 **命令行 AI 上下文工具：向任意 LLM 查询并注入 shell 上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baalimago/clai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31"]
     y-axis "stars" 147 --> 151
     line [148, 149, 150, 150]
 ```
 
-2026-10-18 148 → 2026-10-30 150（+2）
+2026-10-18 148 → 2026-10-31 150（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Ambar 是 Premiere Pro 的 UXP+CEP 混合插件，面向口播/vlog 剪辑流程
 ```mermaid
 xychart-beta
     title "Robelob/Ambar-AI-Video-Editor-Plugin-For-Premiere-Pro 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 16（+1）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

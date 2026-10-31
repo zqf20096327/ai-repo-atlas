@@ -1,6 +1,6 @@
 # EnragedAntelope/comfyui-identity-forge
 
-⭐ 28 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/EnragedAntelope/comfyui-identity-forge) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/EnragedAntelope/comfyui-identity-forge) · 个人维护
 
 **ComfyUI 角色生成节点组：下拉菜单生成连贯可复现的角色提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EnragedAntelope/comfyui-identity-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-10-30 28（+1）
+2026-10-18 27 → 2026-10-31 29（+2）
 
 
 ---

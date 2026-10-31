@@ -45,12 +45,12 @@ UC Berkeley D-Lab 出品的六小时 R 深度学习教学材料库：以 TensorF
 ```mermaid
 xychart-beta
     title "dlab-berkeley/R-Deep-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-30 124（+0）
+2026-10-18 124 → 2026-10-31 124（+0）
 
 
 ---

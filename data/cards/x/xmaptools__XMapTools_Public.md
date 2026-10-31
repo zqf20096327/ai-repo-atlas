@@ -45,12 +45,12 @@ XMapTools 4 的公开稳定版仓库：提供源码以及 macOS 与 Windows 二�
 ```mermaid
 xychart-beta
     title "xmaptools/XMapTools_Public 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

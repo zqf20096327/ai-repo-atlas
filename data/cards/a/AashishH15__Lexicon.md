@@ -1,6 +1,6 @@
 # AashishH15/Lexicon
 
-⭐ 222 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AashishH15/Lexicon) · [官网](https://lexicon-writer.pages.dev/) · 个人维护
+⭐ 222 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AashishH15/Lexicon) · [官网](https://lexicon-writer.pages.dev/) · 个人维护
 
 **离线优先的本地写作助手：校对、改写与语气调整全在本机**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AashishH15/Lexicon 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 218 --> 223
     line [220, 219, 220, 221, 222, 222]
 ```
 
-2026-10-18 220 → 2026-10-30 222（+2）
+2026-10-18 220 → 2026-10-31 222（+2）
 
 
 ---

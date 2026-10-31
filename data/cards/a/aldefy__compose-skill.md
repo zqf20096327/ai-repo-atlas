@@ -1,6 +1,6 @@
 # aldefy/compose-skill
 
-⭐ 599 · Kotlin · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/aldefy/compose-skill) · 组织维护
+⭐ 598 · Kotlin · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/aldefy/compose-skill) · 组织维护
 
 **给 AI 编码工具的 Jetpack Compose 知识技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aldefy/compose-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "aldefy/compose-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 595 --> 600
-    line [597, 596, 597, 596, 597, 598, 599]
+    line [597, 596, 597, 596, 597, 598, 599, 598]
 ```
 
-2026-10-18 597 → 2026-10-30 599（+2）
+2026-10-18 597 → 2026-10-31 598（+1）
 
 
 ---

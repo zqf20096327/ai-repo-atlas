@@ -1,6 +1,6 @@
 # mindspore-ai/mindspore
 
-⭐ 4,715 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mindspore-ai/mindspore) · [官网](https://gitee.com/mindspore/mindspore) · 组织维护 · 中文 README
+⭐ 4,714 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/mindspore-ai/mindspore) · [官网](https://gitee.com/mindspore/mindspore) · 组织维护 · 中文 README
 
 **华为开源的深度学习训练/推理框架，覆盖端边云**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mindspore-ai/mindspore 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 4714 --> 4716
-    line [4715, 4715]
+    x-axis ["2026-10-29", "2026-10-31"]
+    y-axis "stars" 4713 --> 4716
+    line [4715, 4714]
 ```
 
-2026-10-29 4,715 → 2026-10-30 4,715（+0）
+2026-10-29 4,715 → 2026-10-31 4,714（-1）
 
 
 ---

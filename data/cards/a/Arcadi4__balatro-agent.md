@@ -45,12 +45,12 @@ Balatro 游戏模组（依赖 Lovely Injector 与 Steamodded）加原生 MCP 服
 ```mermaid
 xychart-beta
     title "Arcadi4/balatro-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

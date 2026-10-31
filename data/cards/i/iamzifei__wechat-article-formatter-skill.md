@@ -1,6 +1,6 @@
 # iamzifei/wechat-article-formatter-skill
 
-⭐ 76 · CSS · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/wechat-article-formatter-skill) · 个人维护 · 中文 README
+⭐ 77 · CSS · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/wechat-article-formatter-skill) · 个人维护 · 中文 README
 
 **将 Markdown 排版为微信公众号 HTML 的 Claude Code 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamzifei/wechat-article-formatter-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-10-30 76（+0）
+2026-10-18 76 → 2026-10-31 77（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0xheycat/isometric-game-skills
 
-⭐ 42 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
 
 **等距游戏开发 AI agent 技能集（21 个 SKILL.md，覆盖美术到引擎）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xheycat/isometric-game-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 33 --> 43
-    line [34, 36, 38, 39, 40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 33 --> 44
+    line [34, 36, 38, 39, 40, 41, 42, 43]
 ```
 
-2026-10-18 34 → 2026-10-30 42（+8）
+2026-10-18 34 → 2026-10-31 43（+9）
 
 
 ---

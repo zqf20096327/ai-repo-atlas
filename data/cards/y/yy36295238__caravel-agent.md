@@ -1,6 +1,6 @@
 # yy36295238/caravel-agent
 
-⭐ 29 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/yy36295238/caravel-agent) · [官网](https://caravel-site.pages.dev/) · 个人维护 · 中文 README
+⭐ 30 · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/yy36295238/caravel-agent) · [官网](https://caravel-site.pages.dev/) · 个人维护 · 中文 README
 
 **本地优先的多 AI 编码 Agent 并行派发与代码验收工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yy36295238/caravel-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29]
+    title "yy36295238/caravel-agent 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 28, 29, 30]
 ```
 
-2026-10-18 26 → 2026-10-30 29（+3）
+2026-10-18 26 → 2026-10-31 30（+4）
 
 
 ---

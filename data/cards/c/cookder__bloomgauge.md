@@ -1,6 +1,6 @@
 # cookder/bloomgauge
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/cookder/bloomgauge) · [官网](https://bloomgauge.io) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/cookder/bloomgauge) · [官网](https://bloomgauge.io) · 个人维护
 
 **面向 Mac 上 Darkbloom 供给者的免费收益面板与模型管理器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cookder/bloomgauge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 13 --> 20
-    line [14, 15, 16, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 13 --> 21
+    line [14, 15, 16, 18, 19, 20]
 ```
 
-2026-10-18 14 → 2026-10-30 19（+5）
+2026-10-18 14 → 2026-10-31 20（+6）
 
 
 ---

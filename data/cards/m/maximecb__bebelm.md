@@ -1,6 +1,6 @@
 # maximecb/bebelm
 
-⭐ 69 · Rust · MIT · 推送 2026-06-16 · [GitHub](https://github.com/maximecb/bebelm) · 个人维护
+⭐ 70 · Rust · MIT · 推送 2026-06-16 · [GitHub](https://github.com/maximecb/bebelm) · 个人维护
 
 **纯 Rust CPU 推理库：本地运行 LFM2.5-8B-A1B 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maximecb/bebelm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-30 69（+0）
+2026-10-18 69 → 2026-10-31 70（+1）
 
 
 ---

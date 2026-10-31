@@ -44,12 +44,12 @@ MongoDB 官方维护的开发者日活动仓库，收录活动现场交付的全
 ```mermaid
 xychart-beta
     title "mongodb-developer/genai-devday-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-18 118 → 2026-10-30 118（+0）
+2026-10-18 118 → 2026-10-31 118（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hamzafer/cursor-commands
 
-⭐ 672 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
+⭐ 673 · MIT · 推送 2026-04-07 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
 
 **Cursor IDE 的斜杠命令提示词集合，供团队复用 AI 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hamzafer/cursor-commands 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 671 --> 675
-    line [673, 674, 673, 672, 673, 672, 672]
+    line [673, 674, 673, 672, 673, 672, 673]
 ```
 
-2026-10-18 673 → 2026-10-30 672（-1）
+2026-10-18 673 → 2026-10-31 673（+0）
 
 
 ---

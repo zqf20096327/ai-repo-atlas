@@ -1,6 +1,6 @@
 # trekhleb/nano-neuron
 
-⭐ 2,274 · JavaScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/nano-neuron) · 个人维护
+⭐ 2,273 · JavaScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/nano-neuron) · 个人维护
 
 **7 个纯 JavaScript 函数演示机器学习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "trekhleb/nano-neuron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 2272 --> 2275
-    line [2273, 2274, 2274]
+    line [2273, 2274, 2273]
 ```
 
-2026-10-18 2,273 → 2026-10-30 2,274（+1）
+2026-10-18 2,273 → 2026-10-31 2,273（+0）
 
 
 ---

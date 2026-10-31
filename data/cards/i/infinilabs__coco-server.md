@@ -1,6 +1,6 @@
 # infinilabs/coco-server
 
-⭐ 148 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/infinilabs/coco-server) · [官网](https://coco.rs/) · 组织维护
+⭐ 148 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/infinilabs/coco-server) · [官网](https://coco.rs/) · 组织维护
 
 **企业统一搜索与协作平台 Coco AI 的服务端组件**
 
@@ -47,12 +47,12 @@ Coco AI 项目（coco.rs）的服务端核心组件，定位为连接与协作�
 ```mermaid
 xychart-beta
     title "infinilabs/coco-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-18 148 → 2026-10-30 148（+0）
+2026-10-18 148 → 2026-10-31 148（+0）
 
 
 ---

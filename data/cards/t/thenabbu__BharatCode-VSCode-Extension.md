@@ -1,6 +1,6 @@
 # thenabbu/BharatCode-VSCode-Extension
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/thenabbu/BharatCode-VSCode-Extension) · [官网](https://bharatcode.ai) · 个人维护
+⭐ 30 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/thenabbu/BharatCode-VSCode-Extension) · [官网](https://bharatcode.ai) · 个人维护
 
 **面向 bharatcode.ai 的开源 VS Code AI 编程助手扩展**
 
@@ -44,13 +44,13 @@ Kilo Code（v7.8.8）的 fork，重新配置为接入 bharatcode.ai 提供商。
 
 ```mermaid
 xychart-beta
-    title "thenabbu/BharatCode-VSCode-Extension 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 5 --> 29
-    line [7, 8, 9, 12, 13, 19, 27]
+    title "thenabbu/BharatCode-VSCode-Extension 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 5 --> 32
+    line [7, 8, 9, 12, 13, 19, 27, 30]
 ```
 
-2026-10-18 7 → 2026-10-30 27（+20）
+2026-10-18 7 → 2026-10-31 30（+23）
 
 
 ---

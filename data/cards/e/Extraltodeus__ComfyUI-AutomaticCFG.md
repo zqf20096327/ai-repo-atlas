@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Extraltodeus/ComfyUI-AutomaticCFG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "Extraltodeus/ComfyUI-AutomaticCFG 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 431 --> 434
-    line [432, 433, 432]
+    line [432, 433, 432, 432]
 ```
 
-2026-10-18 432 → 2026-10-30 432（+0）
+2026-10-18 432 → 2026-10-31 432（+0）
 
 
 ---

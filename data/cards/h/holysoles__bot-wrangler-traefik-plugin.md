@@ -1,6 +1,6 @@
 # holysoles/bot-wrangler-traefik-plugin
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/holysoles/bot-wrangler-traefik-plugin) · 个人维护
+⭐ 21 · Go · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/holysoles/bot-wrangler-traefik-plugin) · 个人维护
 
 **管理 LLM 爬虫流量的 Traefik 中间件插件：统一 robots.txt 并处置恶意 bot**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "holysoles/bot-wrangler-traefik-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21]
 ```
 
-2026-10-18 17 → 2026-10-30 20（+3）
+2026-10-18 17 → 2026-10-31 21（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # datawhalechina/llm-universe
 
-⭐ 14,230 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
+⭐ 14,235 · Jupyter Notebook · 推送 2026-08-27 · [GitHub](https://github.com/datawhalechina/llm-universe) · [官网](https://datawhalechina.github.io/llm-universe/) · 组织维护 · 中文 README
 
 **面向小白的中文大模型应用开发教程：RAG 知识库助手**
 
@@ -51,13 +51,13 @@ Datawhale 出品的中文开源教程，以个人知识库助手项目为主线�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/llm-universe 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 14152 --> 14237
-    line [14159, 14164, 14180, 14190, 14196, 14200, 14204, 14207, 14212, 14219, 14230]
+    title "datawhalechina/llm-universe 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 14152 --> 14242
+    line [14159, 14164, 14180, 14190, 14196, 14200, 14204, 14207, 14212, 14219, 14230, 14235]
 ```
 
-2026-10-18 14,159 → 2026-10-30 14,230（+71）
+2026-10-18 14,159 → 2026-10-31 14,235（+76）
 
 
 ---

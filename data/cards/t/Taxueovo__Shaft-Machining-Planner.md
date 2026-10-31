@@ -1,6 +1,6 @@
 # Taxueovo/Shaft-Machining-Planner
 
-⭐ 37 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Taxueovo/Shaft-Machining-Planner) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Taxueovo/Shaft-Machining-Planner) · 个人维护
 
 **电机轴加工工艺规划工具：输入几何生成工艺路线并导出工艺卡**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Taxueovo/Shaft-Machining-Planner 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 35 --> 38
-    line [37, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 35 --> 39
+    line [37, 36, 37, 38]
 ```
 
-2026-10-18 37 → 2026-10-30 37（+0）
+2026-10-18 37 → 2026-10-31 38（+1）
 
 
 ---

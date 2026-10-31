@@ -46,12 +46,12 @@ SAP 开源的 TED（Talk, Evaluate, Diagnose）实现：以自然语言子目标
 ```mermaid
 xychart-beta
     title "SAP/agent-quality-inspect 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 77 --> 80
     line [79, 78, 78]
 ```
 
-2026-10-18 79 → 2026-10-30 78（-1）
+2026-10-18 79 → 2026-10-31 78（-1）
 
 
 ---

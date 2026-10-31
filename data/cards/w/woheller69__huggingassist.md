@@ -1,6 +1,6 @@
 # woheller69/huggingassist
 
-⭐ 158 · Java · GPL-3.0 · 推送 2025-11-03 · [GitHub](https://github.com/woheller69/huggingassist) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Android 上访问 HuggingChat 的 WebView 封装应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # loganthorneloe/ai-for-software-engineers
 
-⭐ 1,375 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/loganthorneloe/ai-for-software-engineers) · [官网](http://learn.aiforswes.com) · 个人维护
+⭐ 1,376 · MIT · 推送 2026-08-26 · [GitHub](https://github.com/loganthorneloe/ai-for-software-engineers) · [官网](http://learn.aiforswes.com) · 个人维护
 
 **面向软件工程师的 AI 学习资源清单（书籍/教程）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "loganthorneloe/ai-for-software-engineers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1373 --> 1376
-    line [1374, 1375]
+    title "loganthorneloe/ai-for-software-engineers 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1373 --> 1377
+    line [1374, 1375, 1376]
 ```
 
-2026-10-18 1,374 → 2026-10-30 1,375（+1）
+2026-10-18 1,374 → 2026-10-31 1,376（+2）
 
 
 ---

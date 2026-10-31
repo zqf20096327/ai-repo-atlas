@@ -1,6 +1,6 @@
 # Enriquefft/openclaw-kapso-whatsapp
 
-⭐ 212 · Go · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Enriquefft/openclaw-kapso-whatsapp) · 个人维护
+⭐ 211 · Go · MIT · 推送 2026-03-29 · [GitHub](https://github.com/Enriquefft/openclaw-kapso-whatsapp) · 个人维护
 
 **给 OpenClaw AI agent 接入 WhatsApp 号码的 Go 桥接服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Enriquefft/openclaw-kapso-whatsapp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 209 --> 213
-    line [210, 211, 212, 212]
+    line [210, 211, 212, 211]
 ```
 
-2026-10-18 210 → 2026-10-30 212（+2）
+2026-10-18 210 → 2026-10-31 211（+1）
 
 
 ---

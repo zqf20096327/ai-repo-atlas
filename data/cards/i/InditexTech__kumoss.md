@@ -1,6 +1,6 @@
 # InditexTech/kumoss
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/InditexTech/kumoss) · [官网](https://inditextech.github.io/kumoss) · 组织维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/InditexTech/kumoss) · [官网](https://inditextech.github.io/kumoss) · 组织维护
 
 **面向平台工程师：自然语言生成合规 Terraform/OpenTofu PR 的 agentic IaC 工具**
 
@@ -39,6 +39,18 @@
 
 > L27: Kumoss turns **natural-language requests into reviewed, compliant Infrastructure as Code (IaC)**. Platform engineer
 > L67: |**Model**|—|Any LiteLLM-supported model, including self-hosted ones, with web search included;|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "InditexTech/kumoss 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
+```
+
+2026-10-30 94 → 2026-10-31 95（+1）
 
 
 ---

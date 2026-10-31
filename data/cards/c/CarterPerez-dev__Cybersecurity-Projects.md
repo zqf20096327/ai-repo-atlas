@@ -1,6 +1,6 @@
 # CarterPerez-dev/Cybersecurity-Projects
 
-⭐ 8,688 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://angelamos.com) · 个人维护
+⭐ 8,736 · Go · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://angelamos.com) · 个人维护
 
 **网络安全学习项目清单：70 个分级实战项目与认证路线图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CarterPerez-dev/Cybersecurity-Projects 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 8246 --> 8728
-    line [8286, 8349, 8430, 8455, 8496, 8524, 8569, 8611, 8643, 8670, 8688]
+    title "CarterPerez-dev/Cybersecurity-Projects 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 8241 --> 8781
+    line [8286, 8349, 8430, 8455, 8496, 8524, 8569, 8611, 8643, 8670, 8688, 8736]
 ```
 
-2026-10-18 8,286 → 2026-10-30 8,688（+402）
+2026-10-18 8,286 → 2026-10-31 8,736（+450）
 
 
 ---

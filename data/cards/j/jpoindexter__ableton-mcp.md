@@ -1,6 +1,6 @@
 # jpoindexter/ableton-mcp
 
-⭐ 59 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/jpoindexter/ableton-mcp) · [官网](https://github.com/jpoindexter/ableton-mcp) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-05-01 · [GitHub](https://github.com/jpoindexter/ableton-mcp) · [官网](https://github.com/jpoindexter/ableton-mcp) · 个人维护
 
 **让 LLM 通过 MCP/REST 控制 Ableton Live 的工具集成（200+ 工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jpoindexter/ableton-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 57 --> 61
-    line [58, 59, 60, 59, 59]
+    line [58, 59, 60, 59, 60]
 ```
 
-2026-10-18 58 → 2026-10-30 59（+1）
+2026-10-18 58 → 2026-10-31 60（+2）
 
 
 ---

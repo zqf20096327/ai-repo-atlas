@@ -41,6 +41,18 @@
 > L9: Agent Skills are specialized context or instructions that you can load into your AI assistant. Each skill is a folde
 > L13: Each skill derives from one chapter of the MLOps Coding Course:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fmind/mlops-coding-skills 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-10-30 23 → 2026-10-31 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `9769c41afc9a` · [字段定义](../../DATASET.md)*

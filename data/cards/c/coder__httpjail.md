@@ -1,6 +1,6 @@
 # coder/httpjail
 
-⭐ 961 · Rust · CC0-1.0 · 推送 2026-09-24 · [GitHub](https://github.com/coder/httpjail) · 组织维护
+⭐ 960 · Rust · CC0-1.0 · 推送 2026-09-24 · [GitHub](https://github.com/coder/httpjail) · 组织维护
 
 **进程级 HTTP/HTTPS 请求过滤工具：默认拒绝、按规则放行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coder/httpjail 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 960 --> 962
-    line [961, 961]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 959 --> 962
+    line [961, 960]
 ```
 
-2026-10-18 961 → 2026-10-30 961（+0）
+2026-10-18 961 → 2026-10-31 960（-1）
 
 
 ---

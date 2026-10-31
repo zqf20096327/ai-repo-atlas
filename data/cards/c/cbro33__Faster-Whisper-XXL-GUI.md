@@ -1,6 +1,6 @@
 # cbro33/Faster-Whisper-XXL-GUI
 
-⭐ 135 · Python · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/cbro33/Faster-Whisper-XXL-GUI) · [官网](https://cbro33.github.io/faster-whisper-xxl-gui-site) · 个人维护
+⭐ 136 · Python · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/cbro33/Faster-Whisper-XXL-GUI) · [官网](https://cbro33.github.io/faster-whisper-xxl-gui-site) · 个人维护
 
 **Faster-Whisper-XXL 转录引擎的桌面 GUI：本地文件与 YouTube 语音转文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cbro33/Faster-Whisper-XXL-GUI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 133 --> 137
+    line [134, 135, 136]
 ```
 
-2026-10-18 134 → 2026-10-30 135（+1）
+2026-10-18 134 → 2026-10-31 136（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Invariant Gateway 是一个零配置的 LLM 代理服务，部署在 AI Agent �
 ```mermaid
 xychart-beta
     title "invariantlabs-ai/invariant-gateway 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-18 82 → 2026-10-30 82（+0）
+2026-10-18 82 → 2026-10-31 82（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-⭐ 3,164 · Python · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
+⭐ 3,167 · Python · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
 
 **ElevenLabs 官方 Python SDK：文本转语音与对话式语音 Agent 接入**
 
@@ -44,13 +44,13 @@ ElevenLabs API 的官方 Python 客户端库，覆盖 TTS 主模型（Eleven v3�
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/elevenlabs-python 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3144 --> 3165
-    line [3145, 3147, 3148, 3150, 3151, 3154, 3156, 3159, 3161, 3164]
+    title "elevenlabs/elevenlabs-python 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3143 --> 3169
+    line [3145, 3147, 3148, 3150, 3151, 3154, 3156, 3159, 3161, 3164, 3167]
 ```
 
-2026-10-18 3,145 → 2026-10-30 3,164（+19）
+2026-10-18 3,145 → 2026-10-31 3,167（+22）
 
 
 ---

@@ -1,6 +1,6 @@
 # MIO-456/Lumi_Nox
 
-⭐ 242 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/MIO-456/Lumi_Nox) · [官网](https://space.bilibili.com/544387533) · 个人维护 · 中文 README
+⭐ 244 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/MIO-456/Lumi_Nox) · [官网](https://space.bilibili.com/544387533) · 个人维护 · 中文 README
 
 **双 AI 虚拟主播联合直播的实时引擎与编排系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MIO-456/Lumi_Nox 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 237 --> 243
-    line [238, 239, 241, 242, 242]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 237 --> 245
+    line [238, 239, 241, 242, 244]
 ```
 
-2026-10-18 238 → 2026-10-30 242（+4）
+2026-10-18 238 → 2026-10-31 244（+6）
 
 
 ---

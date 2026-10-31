@@ -1,6 +1,6 @@
 # anthropics/commerce-agents
 
-⭐ 3,377 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/anthropics/commerce-agents) · [官网](https://claude.com/solutions/commerce) · 组织维护
+⭐ 3,383 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/anthropics/commerce-agents) · [官网](https://claude.com/solutions/commerce) · 组织维护
 
 **给开发者：基于 Claude 构建购物与商户 agent 的参考蓝图**
 
@@ -45,13 +45,13 @@ Anthropic 发布的商业 agent 参考实现：包含面向顾客的 shopping ag
 
 ```mermaid
 xychart-beta
-    title "anthropics/commerce-agents 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3249 --> 3388
-    line [3260, 3279, 3295, 3305, 3325, 3329, 3340, 3350, 3359, 3368, 3377]
+    title "anthropics/commerce-agents 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3248 --> 3395
+    line [3260, 3279, 3295, 3305, 3325, 3329, 3340, 3350, 3359, 3368, 3377, 3383]
 ```
 
-2026-10-18 3,260 → 2026-10-30 3,377（+117）
+2026-10-18 3,260 → 2026-10-31 3,383（+123）
 
 
 ---

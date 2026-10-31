@@ -45,12 +45,12 @@ Electron 桌面应用，定位为 Claude Code 与 Codex CLI 的交互与管理�
 ```mermaid
 xychart-beta
     title "heyallencao/OpenTailor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

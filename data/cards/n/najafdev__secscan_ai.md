@@ -1,6 +1,6 @@
 # najafdev/secscan_ai
 
-⭐ 1,291 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/najafdev/secscan_ai) · [官网](https://najafdev.github.io/secscan_ai/) · 个人维护
+⭐ 1,292 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/najafdev/secscan_ai) · [官网](https://najafdev.github.io/secscan_ai/) · 个人维护
 
 **面向企业安全团队的 AI 驱动渗透测试平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "najafdev/secscan_ai 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1288 --> 1292
-    line [1289, 1291, 1291]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1288 --> 1293
+    line [1289, 1291, 1292]
 ```
 
-2026-10-28 1,289 → 2026-10-30 1,291（+2）
+2026-10-28 1,289 → 2026-10-31 1,292（+3）
 
 
 ---

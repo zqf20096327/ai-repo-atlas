@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaryansamanta/aaryansamanta.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 320 --> 322
     line [321, 321]
 ```
 
-2026-10-18 321 → 2026-10-30 321（+0）
+2026-10-18 321 → 2026-10-31 321（+0）
 
 
 ---

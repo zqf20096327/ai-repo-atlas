@@ -45,12 +45,12 @@ LSE 是在 Linux、macOS 和 iPadOS 上为 AMD GPU 运行 LLM 推理的引擎：
 ```mermaid
 xychart-beta
     title "Geramy/LSE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

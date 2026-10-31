@@ -1,6 +1,6 @@
 # kontext-security/kontext
 
-⭐ 234 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kontext-security/kontext) · [官网](https://app.kontext.security) · 组织维护
+⭐ 234 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kontext-security/kontext) · [官网](https://app.kontext.security) · 组织维护
 
 **为 AI agent 提供本地策略拦截与授权审计的安全运行时**
 
@@ -44,13 +44,13 @@ Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之�
 
 ```mermaid
 xychart-beta
-    title "kontext-security/kontext 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "kontext-security/kontext 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 221 --> 235
-    line [222, 226, 227, 228, 231, 232, 233, 234]
+    line [222, 226, 227, 228, 231, 232, 233, 234, 234]
 ```
 
-2026-10-18 222 → 2026-10-30 234（+12）
+2026-10-18 222 → 2026-10-31 234（+12）
 
 
 ---

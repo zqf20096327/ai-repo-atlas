@@ -1,6 +1,6 @@
 # dondai1234/master-fetch
 
-⭐ 897 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/dondai1234/master-fetch) · [官网](https://hound-mcp.pages.dev) · 个人维护
+⭐ 899 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/dondai1234/master-fetch) · [官网](https://hound-mcp.pages.dev) · 个人维护
 
 **给 AI agent 用的本地网页抓取与搜索 MCP 服务器**
 
@@ -45,13 +45,13 @@ Hound 是一个自托管的 MCP 服务器，让任何支持 MCP 的 AI 客户端
 
 ```mermaid
 xychart-beta
-    title "dondai1234/master-fetch 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 888 --> 898
-    line [889, 890, 889, 890, 891, 893, 896, 897]
+    title "dondai1234/master-fetch 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 888 --> 900
+    line [889, 890, 889, 890, 891, 893, 896, 897, 899]
 ```
 
-2026-10-18 889 → 2026-10-30 897（+8）
+2026-10-18 889 → 2026-10-31 899（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # Aquiles-ai/Aquiles-Image
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Aquiles-ai/Aquiles-Image) · [官网](https://aquiles-ai.vercel.app) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Aquiles-ai/Aquiles-Image) · [官网](https://aquiles-ai.vercel.app) · 组织维护
 
 **自托管扩散模型图像/视频生成推理服务器，OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aquiles-ai/Aquiles-Image 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
     y-axis "stars" 27 --> 30
     line [28, 29, 28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

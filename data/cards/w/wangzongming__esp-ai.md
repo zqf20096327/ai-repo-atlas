@@ -1,6 +1,6 @@
 # wangzongming/esp-ai
 
-⭐ 855 · C · MIT · 推送 2026-01-09 · [GitHub](https://github.com/wangzongming/esp-ai) · [官网](https://espai.fun) · 个人维护 · 中文 README
+⭐ 856 · C · MIT · 推送 2026-01-09 · [GitHub](https://github.com/wangzongming/esp-ai) · [官网](https://espai.fun) · 个人维护 · 中文 README
 
 **ESP32 等开发板接入 ASR+LLM+TTS 对话的 Node.js 服务框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wangzongming/esp-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    title "wangzongming/esp-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 854 --> 858
-    line [856, 857, 856, 855]
+    line [856, 857, 856, 855, 856]
 ```
 
-2026-10-18 856 → 2026-10-30 855（-1）
+2026-10-18 856 → 2026-10-31 856（+0）
 
 
 ---

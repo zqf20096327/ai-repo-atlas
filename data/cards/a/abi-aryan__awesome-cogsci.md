@@ -1,6 +1,6 @@
 # abi-aryan/awesome-cogsci
 
-⭐ 134 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/abi-aryan/awesome-cogsci) · [官网](https://abi-aryan.github.io/awesome-cogsci/) · 个人维护
+⭐ 135 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/abi-aryan/awesome-cogsci) · [官网](https://abi-aryan.github.io/awesome-cogsci/) · 个人维护
 
 **认知科学交叉领域学习资源清单：书、课程、实验室与研究者**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "abi-aryan/awesome-cogsci 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 132 --> 135
-    line [133, 134, 134]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 132 --> 136
+    line [133, 134, 135]
 ```
 
-2026-10-18 133 → 2026-10-30 134（+1）
+2026-10-18 133 → 2026-10-31 135（+2）
 
 
 ---

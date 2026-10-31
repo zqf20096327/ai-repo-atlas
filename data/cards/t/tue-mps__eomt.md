@@ -1,6 +1,6 @@
 # tue-mps/eomt
 
-⭐ 639 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tue-mps/eomt) · [官网](https://www.tue-mps.org/eomt/) · 组织维护
+⭐ 640 · Jupyter Notebook · MIT · 推送 2026-10-12 · [GitHub](https://github.com/tue-mps/eomt) · [官网](https://www.tue-mps.org/eomt/) · 组织维护
 
 **CVPR 2025 图像分割模型：用纯 ViT 做全景/实例/语义分割**
 
@@ -45,12 +45,12 @@ Eindhoven 理工、都灵理工与 RWTH 联合发布的 Encoder-only Mask Transf
 ```mermaid
 xychart-beta
     title "tue-mps/eomt 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 631 --> 640
-    line [632, 633, 634, 635, 637, 638, 639, 639]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 631 --> 641
+    line [632, 633, 634, 635, 637, 638, 639, 640]
 ```
 
-2026-10-18 632 → 2026-10-30 639（+7）
+2026-10-18 632 → 2026-10-31 640（+8）
 
 
 ---

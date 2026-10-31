@@ -1,6 +1,6 @@
 # neuralnet-cpp-dev/neuralnet.cpp
 
-⭐ 16 · C++ · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/neuralnet-cpp-dev/neuralnet.cpp) · 个人维护 · 中文 README
+⭐ 16 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/neuralnet-cpp-dev/neuralnet.cpp) · 个人维护 · 中文 README
 
 **从零实现的 C++26 神经网络库：CPU/GPU 双后端训练推理**
 
@@ -46,12 +46,12 @@ LGPL-3.0 许可的 C++ 神经网络框架，以 nn:: 命名空间提供矩阵、
 ```mermaid
 xychart-beta
     title "neuralnet-cpp-dev/neuralnet.cpp 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-26", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-26 16 → 2026-10-30 16（+0）
+2026-10-26 16 → 2026-10-31 16（+0）
 
 
 ---

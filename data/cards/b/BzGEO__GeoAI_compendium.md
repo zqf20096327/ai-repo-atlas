@@ -1,6 +1,6 @@
 # BzGEO/GeoAI_compendium
 
-⭐ 18 · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/BzGEO/GeoAI_compendium) · 个人维护
+⭐ 18 · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/BzGEO/GeoAI_compendium) · 个人维护
 
 **GeoAI/GeoML 参考资源汇编：聚焦土地覆盖监测的机器学习教程清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BzGEO/GeoAI_compendium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

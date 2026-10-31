@@ -1,6 +1,6 @@
 # rawsun007/claude-notch
 
-⭐ 57 · Swift · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/rawsun007/claude-notch) · [官网](https://rawsun007.github.io/claude-notch/) · 个人维护
+⭐ 59 · Swift · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/rawsun007/claude-notch) · [官网](https://rawsun007.github.io/claude-notch/) · 个人维护
 
 **在 Mac 刘海区审批 Claude Code 权限请求的菜单栏应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rawsun007/claude-notch 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 52 --> 58
-    line [53, 54, 55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 55, 56, 57, 59]
 ```
 
-2026-10-18 53 → 2026-10-30 57（+4）
+2026-10-18 53 → 2026-10-31 59（+6）
 
 
 ---

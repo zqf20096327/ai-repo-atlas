@@ -45,12 +45,12 @@ ICLR 2018 论文《Go for a Walk and Arrive at the Answer》的官方代码与�
 ```mermaid
 xychart-beta
     title "shehzaadzd/MINERVA 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 321 --> 323
     line [322, 322]
 ```
 
-2026-10-29 322 → 2026-10-30 322（+0）
+2026-10-29 322 → 2026-10-31 322（+0）
 
 
 ---

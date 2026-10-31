@@ -1,6 +1,6 @@
 # hfgwygey/yu-ai-agent
 
-⭐ 96 · Java · 推送 2026-10-12 · [GitHub](https://github.com/hfgwygey/yu-ai-agent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Java 开发者的 AI 实战教程项目：AI 恋爱大师与 YuManus 智能体**
 

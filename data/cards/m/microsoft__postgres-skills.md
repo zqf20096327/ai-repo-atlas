@@ -1,6 +1,6 @@
 # microsoft/postgres-skills
 
-⭐ 44 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
 
 **面向 AI 编码代理的 PostgreSQL 专家技能插件（33 个子技能）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/postgres-skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    title "microsoft/postgres-skills 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 30 --> 45
-    line [31, 32, 36, 38, 40, 42, 43, 44]
+    line [31, 32, 36, 38, 40, 42, 43, 44, 44]
 ```
 
-2026-10-18 31 → 2026-10-30 44（+13）
+2026-10-18 31 → 2026-10-31 44（+13）
 
 
 ---

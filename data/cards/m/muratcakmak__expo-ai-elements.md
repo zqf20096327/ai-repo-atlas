@@ -45,12 +45,12 @@ Vercel AI Elements 的 React Native 移植版，提供 25 个可复制的 AI 聊
 ```mermaid
 xychart-beta
     title "muratcakmak/expo-ai-elements 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-30 30（+1）
+2026-10-18 29 → 2026-10-31 30（+1）
 
 
 ---

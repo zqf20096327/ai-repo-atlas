@@ -45,12 +45,12 @@ CLI + bridge 守护进程 + Unity 插件三层架构：CLI 经 HTTP 连接 bridg
 ```mermaid
 xychart-beta
     title "DirtybitGames/unityctl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

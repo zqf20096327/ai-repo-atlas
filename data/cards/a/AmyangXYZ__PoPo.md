@@ -1,6 +1,6 @@
 # AmyangXYZ/PoPo
 
-⭐ 281 · TypeScript · GPL-3.0 · 推送 2026-02-10 · [GitHub](https://github.com/AmyangXYZ/PoPo) · [官网](https://popo-topaz-five.vercel.app) · 个人维护
+⭐ 283 · TypeScript · GPL-3.0 · 推送 2026-02-10 · [GitHub](https://github.com/AmyangXYZ/PoPo) · [官网](https://popo-topaz-five.vercel.app) · 个人维护
 
 **用自然语言生成 MMD 角色姿势与动画的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmyangXYZ/PoPo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 279 --> 282
-    line [280, 281, 281]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 279 --> 284
+    line [280, 281, 283]
 ```
 
-2026-10-18 280 → 2026-10-30 281（+1）
+2026-10-18 280 → 2026-10-31 283（+3）
 
 
 ---

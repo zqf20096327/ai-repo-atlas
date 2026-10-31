@@ -1,6 +1,6 @@
 # idavidov13/agentic-playwright
 
-⭐ 247 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/idavidov13/agentic-playwright) · 个人维护
+⭐ 248 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/idavidov13/agentic-playwright) · 个人维护
 
 **供 AI 编程助手使用的 Playwright+TypeScript 测试脚手架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "idavidov13/agentic-playwright 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 233 --> 248
-    line [234, 235, 236, 239, 241, 242, 245, 247]
+    title "idavidov13/agentic-playwright 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 233 --> 249
+    line [234, 235, 236, 239, 241, 242, 245, 247, 248]
 ```
 
-2026-10-18 234 → 2026-10-30 247（+13）
+2026-10-18 234 → 2026-10-31 248（+14）
 
 
 ---

@@ -44,12 +44,12 @@ Hugging Face 维护的 Discord 机器人代码合集，涵盖 CodeLlama 13B、De
 ```mermaid
 xychart-beta
     title "huggingface/discord-bots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 53（+0）
 
 
 ---

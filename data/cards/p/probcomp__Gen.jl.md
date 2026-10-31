@@ -1,6 +1,6 @@
 # probcomp/Gen.jl
 
-⭐ 1,854 · Julia · Apache-2.0 · 推送 2026-06-09 · [GitHub](https://github.com/probcomp/Gen.jl) · [官网](https://gen.dev) · 组织维护
+⭐ 1,854 · Julia · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/probcomp/Gen.jl) · [官网](https://gen.dev) · 组织维护
 
 **Julia 嵌入的通用概率编程系统，支持可编程推断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "probcomp/Gen.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 1853 --> 1855
     line [1854, 1854]
 ```
 
-2026-10-18 1,854 → 2026-10-30 1,854（+0）
+2026-10-18 1,854 → 2026-10-31 1,854（+0）
 
 
 ---

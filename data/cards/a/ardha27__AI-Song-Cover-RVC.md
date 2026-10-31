@@ -1,6 +1,6 @@
 # ardha27/AI-Song-Cover-RVC
 
-⭐ 1,230 · Jupyter Notebook · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ardha27/AI-Song-Cover-RVC) · [官网](https://ko-fi.com/ardhach) · 个人维护
+⭐ 1,231 · Jupyter Notebook · MIT · 推送 2026-05-31 · [GitHub](https://github.com/ardha27/AI-Song-Cover-RVC) · [官网](https://ko-fi.com/ardhach) · 个人维护
 
 **在 Colab/Kaggle 上制作 RVC 歌曲翻唱的一体化工具包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ardha27/AI-Song-Cover-RVC 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 1222 --> 1231
-    line [1223, 1225, 1227, 1228, 1230]
+    title "ardha27/AI-Song-Cover-RVC 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1222 --> 1232
+    line [1223, 1225, 1227, 1228, 1230, 1231]
 ```
 
-2026-10-18 1,223 → 2026-10-30 1,230（+7）
+2026-10-18 1,223 → 2026-10-31 1,231（+8）
 
 
 ---

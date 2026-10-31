@@ -1,6 +1,6 @@
 # Fr0zenWatter/latex-in-ai-sidebar
 
-⭐ 40 · Python · 推送 2026-10-28 · [GitHub](https://github.com/Fr0zenWatter/latex-in-ai-sidebar) · 个人维护 · 中文 README
+⭐ 40 · Python · 推送 2026-10-30 · [GitHub](https://github.com/Fr0zenWatter/latex-in-ai-sidebar) · 个人维护 · 中文 README
 
 **在 Codex/DeepSeek 侧边栏中编辑 LaTeX 论文并审阅 AI 修改**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fr0zenWatter/latex-in-ai-sidebar 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 34 --> 42
     line [41, 35, 37, 40, 40]
 ```
 
-2026-10-22 41 → 2026-10-30 40（-1）
+2026-10-22 41 → 2026-10-31 40（-1）
 
 
 ---

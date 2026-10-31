@@ -1,6 +1,6 @@
 # yuc16/PatentRadar
 
-⭐ 66 · Python · 推送 2026-08-29 · [GitHub](https://github.com/yuc16/PatentRadar) · 个人维护 · 中文 README
+⭐ 67 · Python · 推送 2026-08-29 · [GitHub](https://github.com/yuc16/PatentRadar) · 个人维护 · 中文 README
 
 **输入专利公开号，自动产出竞品侵权分析报告的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuc16/PatentRadar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 63 --> 67
-    line [64, 65, 66, 66]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 63 --> 68
+    line [64, 65, 66, 67]
 ```
 
-2026-10-18 64 → 2026-10-30 66（+2）
+2026-10-18 64 → 2026-10-31 67（+3）
 
 
 ---

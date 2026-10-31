@@ -1,6 +1,6 @@
 # timtoole02/Camelid
 
-⭐ 220 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/timtoole02/Camelid) · 个人维护
+⭐ 221 · Rust · MIT · 推送 2026-10-16 · [GitHub](https://github.com/timtoole02/Camelid) · 个人维护
 
 **Rust 本地推理后端：桌面/浏览器/终端运行 GGUF 模型，OpenAI 兼容 API**
 
@@ -47,12 +47,12 @@ Rust 单二进制的本地推理引擎（内嵌 Web UI），在自有硬件上�
 ```mermaid
 xychart-beta
     title "timtoole02/Camelid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 217 --> 221
-    line [218, 219, 220, 220]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 217 --> 222
+    line [218, 219, 220, 221]
 ```
 
-2026-10-18 218 → 2026-10-30 220（+2）
+2026-10-18 218 → 2026-10-31 221（+3）
 
 
 ---

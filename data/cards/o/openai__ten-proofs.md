@@ -1,6 +1,6 @@
 # openai/ten-proofs
 
-⭐ 216 · Lean · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/openai/ten-proofs) · 组织维护
+⭐ 217 · Lean · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/openai/ten-proofs) · 组织维护
 
 **十项数学与理论计算机科学结果的 Lean 4 形式化证明仓库**
 
@@ -44,13 +44,13 @@ OpenAI 发布的论文《Ten advances in mathematics and theoretical computer sc
 
 ```mermaid
 xychart-beta
-    title "openai/ten-proofs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    title "openai/ten-proofs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 213 --> 218
-    line [214, 216, 217, 216]
+    line [214, 216, 217, 216, 217]
 ```
 
-2026-10-18 214 → 2026-10-30 216（+2）
+2026-10-18 214 → 2026-10-31 217（+3）
 
 
 ---

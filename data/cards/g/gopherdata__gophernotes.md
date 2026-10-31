@@ -1,6 +1,6 @@
 # gopherdata/gophernotes
 
-⭐ 3,969 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/gopherdata/gophernotes) · 组织维护
+⭐ 3,970 · Go · MIT · 推送 2026-09-23 · [GitHub](https://github.com/gopherdata/gophernotes) · 组织维护
 
 **在 Jupyter/nteract 中交互式运行 Go 代码的内核**
 
@@ -45,13 +45,13 @@ gophernotes 是一个 Jupyter 内核，让用户在浏览器 notebook 或 nterac
 
 ```mermaid
 xychart-beta
-    title "gopherdata/gophernotes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 3967 --> 3970
-    line [3968, 3969]
+    title "gopherdata/gophernotes 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3967 --> 3971
+    line [3968, 3969, 3970]
 ```
 
-2026-10-18 3,968 → 2026-10-30 3,969（+1）
+2026-10-18 3,968 → 2026-10-31 3,970（+2）
 
 
 ---

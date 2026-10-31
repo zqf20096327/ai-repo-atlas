@@ -1,6 +1,6 @@
 # peace-orefejo/attest
 
-⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/peace-orefejo/attest) · [官网](https://pypi.org/project/agent-attest/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/peace-orefejo/attest) · [官网](https://pypi.org/project/agent-attest/) · 个人维护
 
 **基于工具真实输出的 AI agent 评测库，逐条核验答案声明**
 
@@ -46,12 +46,12 @@ Python 评测库（pip 包 agent-attest），面向开发 AI agent 的开发者�
 ```mermaid
 xychart-beta
     title "peace-orefejo/attest 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

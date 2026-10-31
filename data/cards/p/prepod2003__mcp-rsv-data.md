@@ -1,6 +1,6 @@
 # prepod2003/mcp-rsv-data
 
-⭐ 67 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/prepod2003/mcp-rsv-data) · [官网](https://prepod2003.github.io/rsv-data-pro/) · 个人维护
+⭐ 68 · Go · MIT · 推送 2026-09-07 · [GitHub](https://github.com/prepod2003/mcp-rsv-data) · [官网](https://prepod2003.github.io/rsv-data-pro/) · 个人维护
 
 **免费 MCP 服务器：让 AI 代理用自然语言只读访问 1C 数据库与元数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prepod2003/mcp-rsv-data 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 61 --> 68
-    line [62, 64, 65, 67, 67]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 61 --> 69
+    line [62, 64, 65, 67, 68]
 ```
 
-2026-10-18 62 → 2026-10-30 67（+5）
+2026-10-18 62 → 2026-10-31 68（+6）
 
 
 ---

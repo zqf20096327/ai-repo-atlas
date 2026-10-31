@@ -1,6 +1,6 @@
 # sahibzada-allahyar/Formal-Verification-RSI
 
-⭐ 2,863 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · [官网](https://sahibzada-allahyar.github.io) · 个人维护
+⭐ 2,864 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sahibzada-allahyar/Formal-Verification-RSI) · [官网](https://sahibzada-allahyar.github.io) · 个人维护
 
 **Lean 4/Dafny 证明检查器：拦截 AI 假证明并支持验证式自改进**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sahibzada-allahyar/Formal-Verification-RSI 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2851 --> 2864
-    line [2852, 2854, 2856, 2857, 2860, 2863]
+    title "sahibzada-allahyar/Formal-Verification-RSI 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2851 --> 2865
+    line [2852, 2854, 2856, 2857, 2860, 2863, 2864]
 ```
 
-2026-10-23 2,852 → 2026-10-30 2,863（+11）
+2026-10-23 2,852 → 2026-10-31 2,864（+12）
 
 
 ---

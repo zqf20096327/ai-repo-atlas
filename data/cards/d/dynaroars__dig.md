@@ -1,6 +1,6 @@
 # dynaroars/dig
 
-⭐ 59 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/dynaroars/dig) · [官网](https://dig.roars.dev/) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/dynaroars/dig) · [官网](https://dig.roars.dev/) · 个人维护
 
 **数值程序不变式生成工具：从 C 程序或执行轨迹推断程序性质**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dynaroars/dig 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
     y-axis "stars" 56 --> 60
     line [57, 58, 59, 59]
 ```
 
-2026-10-18 57 → 2026-10-30 59（+2）
+2026-10-18 57 → 2026-10-31 59（+2）
 
 
 ---

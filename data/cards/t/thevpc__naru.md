@@ -1,6 +1,6 @@
 # thevpc/naru
 
-⭐ 16 · Java · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/thevpc/naru) · 个人维护
+⭐ 16 · Java · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/thevpc/naru) · 个人维护
 
 **面向 JVM 的持久化 actor 式 AI agent 运行时**
 
@@ -46,12 +46,12 @@ NARU 是基于 Java 的通用 agent 运行时与微内核式平台，可作为�
 ```mermaid
 xychart-beta
     title "thevpc/naru 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # thesysdev/open-intelligent-ui
 
-⭐ 874 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/thesysdev/open-intelligent-ui) · [官网](https://www.openui.com/demo/intelligent-ui) · 组织维护
+⭐ 884 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/thesysdev/open-intelligent-ui) · [官网](https://www.openui.com/demo/intelligent-ui) · 组织维护
 
 **开源复刻 ChatGPT Intelligent UI 的生成式界面示例应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thesysdev/open-intelligent-ui 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 481 --> 909
-    line [516, 625, 746, 770, 791, 807, 822, 846, 853, 867, 874]
+    title "thesysdev/open-intelligent-ui 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 480 --> 920
+    line [516, 625, 746, 770, 791, 807, 822, 846, 853, 867, 874, 884]
 ```
 
-2026-10-18 516 → 2026-10-30 874（+358）
+2026-10-18 516 → 2026-10-31 884（+368）
 
 
 ---

@@ -45,12 +45,12 @@ Cognis 是自托管的云原生 Agent 操作系统，采用 controller/executors
 ```mermaid
 xychart-beta
     title "fpytloun/cognis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

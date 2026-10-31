@@ -46,12 +46,12 @@ NVIDIA 维护的 JAX 扩展库，通过 mark_stage_end(layer) 注解与 @mpmd_ji
 ```mermaid
 xychart-beta
     title "NVIDIA/jaxpp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-18 83 → 2026-10-30 83（+0）
+2026-10-18 83 → 2026-10-31 83（+0）
 
 
 ---

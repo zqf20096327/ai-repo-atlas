@@ -1,6 +1,6 @@
 # RohitAg13/openWispr
 
-⭐ 29 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/RohitAg13/openWispr) · [官网](https://www.openwispr.dev) · 个人维护
+⭐ 31 · C++ · MIT · 推送 2026-10-13 · [GitHub](https://github.com/RohitAg13/openWispr) · [官网](https://www.openwispr.dev) · 个人维护
 
 **本地优先的语音听写应用：说话即转文字并插入当前输入框**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RohitAg13/openWispr 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 24 --> 30
-    line [25, 27, 29, 29]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 24 --> 32
+    line [25, 27, 29, 31]
 ```
 
-2026-10-18 25 → 2026-10-30 29（+4）
+2026-10-18 25 → 2026-10-31 31（+6）
 
 
 ---

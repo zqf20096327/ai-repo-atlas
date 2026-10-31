@@ -1,6 +1,6 @@
 # anantdark/FitBuddy
 
-⭐ 35 · Kotlin · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/anantdark/FitBuddy) · [官网](https://anantdark.github.io/FitBuddy/) · 个人维护
+⭐ 36 · Kotlin · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/anantdark/FitBuddy) · [官网](https://anantdark.github.io/FitBuddy/) · 个人维护
 
 **Android 健身与卡路里追踪应用，拍照或文字由 LLM 估算热量**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anantdark/FitBuddy 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 29 --> 36
-    line [30, 31, 32, 33, 34, 35]
+    title "anantdark/FitBuddy 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 29 --> 37
+    line [30, 31, 32, 33, 34, 35, 36]
 ```
 
-2026-10-18 30 → 2026-10-30 35（+5）
+2026-10-18 30 → 2026-10-31 36（+6）
 
 
 ---

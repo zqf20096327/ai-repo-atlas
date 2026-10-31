@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "VincentGranville/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 123 --> 125
     line [124, 124]
 ```
 
-2026-10-18 124 → 2026-10-30 124（+0）
+2026-10-18 124 → 2026-10-31 124（+0）
 
 
 ---

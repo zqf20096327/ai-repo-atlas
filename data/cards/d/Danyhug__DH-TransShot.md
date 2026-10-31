@@ -1,6 +1,6 @@
 # Danyhug/DH-TransShot
 
-⭐ 16 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Danyhug/DH-TransShot) · [官网](https://danyhug.github.io/DH-TransShot/) · 个人维护 · 中文 README
+⭐ 16 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Danyhug/DH-TransShot) · [官网](https://danyhug.github.io/DH-TransShot/) · 个人维护 · 中文 README
 
 **截屏标注 + OCR 翻译二合一桌面工具（macOS/Windows）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Danyhug/DH-TransShot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

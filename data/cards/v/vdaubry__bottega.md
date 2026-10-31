@@ -1,6 +1,6 @@
 # vdaubry/bottega
 
-⭐ 88 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/vdaubry/bottega) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/vdaubry/bottega) · 个人维护
 
 **面向工程团队的多 agent 编排工具：规格+参考实现**
 
@@ -46,12 +46,12 @@ Bottega 以"AI 三明治"模式编排开发工作流：人定义任务，规划�
 ```mermaid
 xychart-beta
     title "vdaubry/bottega 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 87 --> 89
-    line [88, 88]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 87 --> 90
+    line [88, 89]
 ```
 
-2026-10-18 88 → 2026-10-30 88（+0）
+2026-10-18 88 → 2026-10-31 89（+1）
 
 
 ---

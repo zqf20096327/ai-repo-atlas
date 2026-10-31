@@ -1,6 +1,6 @@
 # shenyangs/Guanlan
 
-⭐ 56 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/shenyangs/Guanlan) · [官网](https://Guanlan.xin) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/shenyangs/Guanlan) · [官网](https://Guanlan.xin) · 个人维护 · 中文 README
 
 **给 AI Agent 的中文互联网研究与信源路由 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shenyangs/Guanlan 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 54 --> 57
-    line [55, 56, 56]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57]
 ```
 
-2026-10-18 55 → 2026-10-30 56（+1）
+2026-10-18 55 → 2026-10-31 57（+2）
 
 
 ---

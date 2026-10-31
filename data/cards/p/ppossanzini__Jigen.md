@@ -1,6 +1,6 @@
 # ppossanzini/Jigen
 
-⭐ 17 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ppossanzini/Jigen) · 个人维护
+⭐ 16 · C# · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ppossanzini/Jigen) · 个人维护
 
 **C#/.NET 从零实现的向量数据库，可嵌入也可独立服务器运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ppossanzini/Jigen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [17, 16]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 16（-1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "darwinworks/DangForge 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    title "darwinworks/DangForge 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-28 19 → 2026-10-30 20（+1）
+2026-10-28 19 → 2026-10-31 20（+1）
 
 
 ---

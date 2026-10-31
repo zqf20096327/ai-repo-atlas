@@ -1,6 +1,6 @@
 # codiceSpaghetti/numpyGPT
 
-⭐ 20 · Python · 推送 2025-11-23 · [GitHub](https://github.com/codiceSpaghetti/numpyGPT) · 个人维护
+⭐ 21 · Python · 推送 2025-11-23 · [GitHub](https://github.com/codiceSpaghetti/numpyGPT) · 个人维护
 
 **仅用 NumPy 从零实现 GPT 的教育性项目：手写前向/反向传播**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codiceSpaghetti/numpyGPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

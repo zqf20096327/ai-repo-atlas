@@ -1,6 +1,6 @@
 # replicate/cog-comfyui
 
-⭐ 769 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/replicate/cog-comfyui) · [官网](https://replicate.com/fofr/any-comfyui-workflow) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 Replicate 上运行 ComfyUI 工作流的 Cog 模板仓库**
 
@@ -11,7 +11,7 @@ Replicate 官方维护的 ComfyUI 封装仓库：预置主流模型权重与自�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

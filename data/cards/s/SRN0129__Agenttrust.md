@@ -1,6 +1,6 @@
 # SRN0129/Agenttrust
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/SRN0129/Agenttrust) · 个人维护
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/SRN0129/Agenttrust) · 个人维护
 
 **给企业开发者的 AI agent 零信任安全网关与审计基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SRN0129/Agenttrust 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "SRN0129/Agenttrust 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20]
+    line [17, 18, 19, 20, 20]
 ```
 
-2026-10-26 17 → 2026-10-30 20（+3）
+2026-10-26 17 → 2026-10-31 20（+3）
 
 
 ---

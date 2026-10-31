@@ -1,6 +1,6 @@
 # KalarisLabs/research-agent-skills
 
-⭐ 76 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/KalarisLabs/research-agent-skills) · [官网](https://docs.kalarislabs.com/research-agent-skills) · 组织维护
+⭐ 79 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/KalarisLabs/research-agent-skills) · [官网](https://docs.kalarislabs.com/research-agent-skills) · 组织维护
 
 **面向科研的 280+ 开源 agent 技能库，覆盖文献到投稿全流程**
 
@@ -45,13 +45,13 @@ Kalaris Labs 维护的开源科研 agent 技能库：280+ 个技能以含 SKILL.
 
 ```mermaid
 xychart-beta
-    title "KalarisLabs/research-agent-skills 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 20 --> 81
-    line [25, 47, 50, 53, 58, 61, 66, 69, 73, 76]
+    title "KalarisLabs/research-agent-skills 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 20 --> 84
+    line [25, 47, 50, 53, 58, 61, 66, 69, 73, 76, 79]
 ```
 
-2026-10-18 25 → 2026-10-30 76（+51）
+2026-10-18 25 → 2026-10-31 79（+54）
 
 
 ---

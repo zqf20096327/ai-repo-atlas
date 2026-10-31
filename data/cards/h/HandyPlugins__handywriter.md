@@ -1,6 +1,6 @@
 # HandyPlugins/handywriter
 
-⭐ 18 · PHP · 推送 2026-10-21 · [GitHub](https://github.com/HandyPlugins/handywriter) · [官网](https://handyplugins.co/handywriter/) · 组织维护
+⭐ 18 · PHP · 推送 2026-10-30 · [GitHub](https://github.com/HandyPlugins/handywriter) · [官网](https://handyplugins.co/handywriter/) · 组织维护
 
 **WordPress AI 写作助手插件：生成文章、图片与语音**
 
@@ -45,12 +45,12 @@ WordPress 插件，面向 WordPress 站点使用者：输入标题即可生成�
 ```mermaid
 xychart-beta
     title "HandyPlugins/handywriter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

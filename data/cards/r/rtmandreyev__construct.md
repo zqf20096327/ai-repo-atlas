@@ -1,6 +1,6 @@
 # rtmandreyev/construct
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
 
 **让任意 AI agent 从自然语言生成全息 3D 模型及部件的技能与 MCP 工具**
 
@@ -41,6 +41,18 @@
 > L35: - **Any agent, any model.** Claude Code, Hermes, any MCP client or any OpenAI-compatible endpoint, or by hand.
 > L134: |Any MCP client|Add `{"mcpServers": {"construct": {"command": "python3", "args": ["/path/to/construct/construct_ho
 > L61: 3. **The agent writes a scene.** A scene is a short text file that says what the thing is: the
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rtmandreyev/construct 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 44
+    line [18, 42]
+```
+
+2026-10-30 18 → 2026-10-31 42（+24）
 
 
 ---

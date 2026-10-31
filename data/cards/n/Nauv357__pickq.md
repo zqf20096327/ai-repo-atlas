@@ -1,6 +1,6 @@
 # Nauv357/pickq
 
-⭐ 23 · Java · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nauv357/pickq) · [官网](https://pickq.cn/) · 个人维护 · 中文 README
+⭐ 24 · Java · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nauv357/pickq) · [官网](https://pickq.cn/) · 个人维护 · 中文 README
 
 **把试卷与笔记变成本机题库并间隔复习的 Windows 桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nauv357/pickq 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 24]
 ```
 
-2026-10-18 20 → 2026-10-30 23（+3）
+2026-10-18 20 → 2026-10-31 24（+4）
 
 
 ---

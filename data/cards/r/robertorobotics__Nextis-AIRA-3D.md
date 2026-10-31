@@ -1,6 +1,6 @@
 # robertorobotics/Nextis-AIRA-3D
 
-⭐ 265 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/robertorobotics/Nextis-AIRA-3D) · [官网](https://www.nextis.tech/hardware) · 组织维护
+⭐ 266 · Python · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/robertorobotics/Nextis-AIRA-3D) · [官网](https://www.nextis.tech/hardware) · 组织维护
 
 **3D 打印 7 自由度机械臂，原生接入 LeRobot 做模仿学习**
 
@@ -45,12 +45,12 @@ Nextis 开发的可 3D 打印 7 自由度（6+夹爪）机械臂，作为 LeRobo
 ```mermaid
 xychart-beta
     title "robertorobotics/Nextis-AIRA-3D 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 263 --> 266
-    line [264, 265, 265]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 263 --> 267
+    line [264, 265, 266]
 ```
 
-2026-10-18 264 → 2026-10-30 265（+1）
+2026-10-18 264 → 2026-10-31 266（+2）
 
 
 ---

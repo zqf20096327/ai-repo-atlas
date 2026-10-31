@@ -1,6 +1,6 @@
 # Natfii/ue5-mcp-bridge
 
-⭐ 64 · JavaScript · NOASSERTION · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/ue5-mcp-bridge) · 个人维护
+⭐ 66 · JavaScript · NOASSERTION · 推送 2026-06-26 · [GitHub](https://github.com/Natfii/ue5-mcp-bridge) · 个人维护
 
 **连接 AI 助手与 UE5 编辑器的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Natfii/ue5-mcp-bridge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 63 --> 66
-    line [64, 65, 64, 64]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 63 --> 67
+    line [64, 65, 64, 66]
 ```
 
-2026-10-18 64 → 2026-10-30 64（+0）
+2026-10-18 64 → 2026-10-31 66（+2）
 
 
 ---

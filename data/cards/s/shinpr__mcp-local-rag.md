@@ -1,6 +1,6 @@
 # shinpr/mcp-local-rag
 
-⭐ 425 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shinpr/mcp-local-rag) · 个人维护 · 中文 README
+⭐ 426 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shinpr/mcp-local-rag) · 个人维护 · 中文 README
 
 **本地优先的 RAG 搜索服务器：为 MCP 客户端与 CLI 检索私有文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shinpr/mcp-local-rag 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 413 --> 426
-    line [414, 415, 416, 419, 421, 425, 425]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 413 --> 427
+    line [414, 415, 416, 419, 421, 425, 426]
 ```
 
-2026-10-18 414 → 2026-10-30 425（+11）
+2026-10-18 414 → 2026-10-31 426（+12）
 
 
 ---

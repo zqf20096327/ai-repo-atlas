@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MagentaHokageType/ollama-windows-model-library-manager 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-31"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-19 20 → 2026-10-30 21（+1）
+2026-10-19 20 → 2026-10-31 21（+1）
 
 
 ---

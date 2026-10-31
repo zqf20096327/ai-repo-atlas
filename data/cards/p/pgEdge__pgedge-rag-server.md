@@ -1,6 +1,6 @@
 # pgEdge/pgedge-rag-server
 
-⭐ 58 · Go · PostgreSQL · 推送 2026-10-29 · [GitHub](https://github.com/pgEdge/pgedge-rag-server) · [官网](https://docs.pgedge.com/pgedge-rag-server/) · 组织维护
+⭐ 58 · Go · PostgreSQL · 推送 2026-10-30 · [GitHub](https://github.com/pgEdge/pgedge-rag-server) · [官网](https://docs.pgedge.com/pgedge-rag-server/) · 组织维护
 
 **基于 PostgreSQL+pgvector 的 RAG API 服务器，服务开发者**
 
@@ -44,13 +44,13 @@ pgEdge 公司用 Go 编写的 RAG API 服务器：从安装了 pgvector 的 Post
 
 ```mermaid
 xychart-beta
-    title "pgEdge/pgedge-rag-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "pgEdge/pgedge-rag-server 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 56 --> 59
-    line [57, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-18 57 → 2026-10-30 58（+1）
+2026-10-18 57 → 2026-10-31 58（+1）
 
 
 ---

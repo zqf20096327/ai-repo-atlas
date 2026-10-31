@@ -1,6 +1,6 @@
 # Pradumnasaraf/gencli
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Pradumnasaraf/gencli) · [官网](https://pkg.go.dev/github.com/Pradumnasaraf/gencli) · 个人维护
+⭐ 35 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Pradumnasaraf/gencli) · [官网](https://pkg.go.dev/github.com/Pradumnasaraf/gencli) · 个人维护
 
 **Go 编写的命令行工具：调用 Google Gemini API 回答问题与分析图片**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Pradumnasaraf/gencli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-30 35（+0）
+2026-10-18 35 → 2026-10-31 35（+0）
 
 
 ---

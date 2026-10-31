@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "whoisqwerz/pocket_disasm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "whoisqwerz/pocket_disasm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 40 --> 44
-    line [41, 43]
+    line [41, 43, 43]
 ```
 
-2026-10-18 41 → 2026-10-30 43（+2）
+2026-10-18 41 → 2026-10-31 43（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # georgedouzas/sports-betting
 
-⭐ 824 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/georgedouzas/sports-betting) · [官网](https://georgedouzas.github.io/sports-betting) · 个人维护
+⭐ 826 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/georgedouzas/sports-betting) · [官网](https://georgedouzas.github.io/sports-betting) · 个人维护
 
 **体育博彩建模工具库：构建、回测与执行投注策略**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "georgedouzas/sports-betting 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 819 --> 825
-    line [820, 821, 822, 823, 824, 824]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 819 --> 827
+    line [820, 821, 822, 823, 824, 826]
 ```
 
-2026-10-18 820 → 2026-10-30 824（+4）
+2026-10-18 820 → 2026-10-31 826（+6）
 
 
 ---

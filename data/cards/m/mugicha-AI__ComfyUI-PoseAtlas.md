@@ -1,6 +1,6 @@
 # mugicha-AI/ComfyUI-PoseAtlas
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/mugicha-AI/ComfyUI-PoseAtlas) · 个人维护 · 中文 README
+⭐ 35 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/mugicha-AI/ComfyUI-PoseAtlas) · 个人维护 · 中文 README
 
 **ComfyUI 姿态参考图库节点：288 组多角度人台线稿可视化选用**
 
@@ -40,6 +40,18 @@
 > L3: 把 RuiC-PoseAtlas 的 **288 组人体姿态 / 1439 张多角度人台线稿** 做成了 ComfyUI 节点。
 > L96: 拖一个 **PoseAtlas 姿态图库**，点「打开图库」选一张，`image` 输出接到任何吃 `IMAGE` 的节点。
 > L155: 这个节点本身很轻（只读图，不跑模型），但配套的 ControlNet / 编辑模型需要显存。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mugicha-AI/ComfyUI-PoseAtlas 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 19 --> 36
+    line [20, 35]
+```
+
+2026-10-30 20 → 2026-10-31 35（+15）
 
 
 ---

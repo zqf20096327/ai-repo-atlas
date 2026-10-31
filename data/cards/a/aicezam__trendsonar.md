@@ -1,6 +1,6 @@
 # aicezam/trendsonar
 
-⭐ 46 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aicezam/trendsonar) · [官网](https://ainews.izam.cn) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/aicezam/trendsonar) · [官网](https://ainews.izam.cn) · 个人维护 · 中文 README
 
 **新闻热点聚合与舆情分析系统，自动聚类去重生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aicezam/trendsonar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-18 45 → 2026-10-30 46（+1）
+2026-10-18 45 → 2026-10-31 47（+2）
 
 
 ---

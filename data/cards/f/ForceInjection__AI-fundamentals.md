@@ -1,6 +1,6 @@
 # ForceInjection/AI-fundamentals
 
-⭐ 3,224 · HTML · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
+⭐ 3,237 · HTML · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
 
 **AI 基础设施与 LLM 全栈知识仓库：硬件/CUDA/训练/推理学习资源合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ForceInjection/AI-fundamentals 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3046 --> 3240
-    line [3062, 3082, 3114, 3132, 3147, 3149, 3156, 3175, 3190, 3203, 3224]
+    title "ForceInjection/AI-fundamentals 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3045 --> 3254
+    line [3062, 3082, 3114, 3132, 3147, 3149, 3156, 3175, 3190, 3203, 3224, 3237]
 ```
 
-2026-10-18 3,062 → 2026-10-30 3,224（+162）
+2026-10-18 3,062 → 2026-10-31 3,237（+175）
 
 
 ---

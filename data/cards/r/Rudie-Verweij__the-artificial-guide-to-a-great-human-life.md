@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rudie-Verweij/the-artificial-guide-to-a-great-human-life 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 18 --> 21
     line [20, 19, 19]
 ```
 
-2026-10-18 20 → 2026-10-30 19（-1）
+2026-10-18 20 → 2026-10-31 19（-1）
 
 
 ---

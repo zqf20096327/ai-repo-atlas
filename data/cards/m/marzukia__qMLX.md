@@ -1,6 +1,6 @@
 # marzukia/qMLX
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/marzukia/qMLX) · [官网](https://qmlx.mrzk.io) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/marzukia/qMLX) · [官网](https://qmlx.mrzk.io) · 个人维护
 
 **面向 Apple Silicon 的 Qwen3.5-122B 专用推理引擎，磁盘 KV 缓存复用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marzukia/qMLX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 32 --> 37
     line [33, 34, 36, 36]
 ```
 
-2026-10-18 33 → 2026-10-30 36（+3）
+2026-10-18 33 → 2026-10-31 36（+3）
 
 
 ---

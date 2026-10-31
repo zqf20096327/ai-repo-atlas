@@ -1,6 +1,6 @@
 # h2oai/h2o4gpu
 
-⭐ 468 · C++ · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/h2oai/h2o4gpu) · 组织维护
+⭐ 468 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/h2oai/h2o4gpu) · 组织维护
 
 **H2O.ai 的 GPU 机器学习求解器库，可替换 scikit-learn**
 
@@ -45,12 +45,12 @@ H2O4GPU 是 H2O.ai 维护的 GPU 求解器集合，提供 Python 与 R 两种 AP
 ```mermaid
 xychart-beta
     title "h2oai/h2o4gpu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 467 --> 469
     line [468, 468]
 ```
 
-2026-10-18 468 → 2026-10-30 468（+0）
+2026-10-18 468 → 2026-10-31 468（+0）
 
 
 ---

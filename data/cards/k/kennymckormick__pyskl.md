@@ -1,6 +1,6 @@
 # kennymckormick/pyskl
 
-⭐ 1,269 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/kennymckormick/pyskl) · 个人维护
+⭐ 1,268 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/kennymckormick/pyskl) · 个人维护
 
 **基于 PyTorch 的骨架动作识别工具箱**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kennymckormick/pyskl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1268 --> 1271
-    line [1270, 1269]
+    title "kennymckormick/pyskl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1267 --> 1271
+    line [1270, 1269, 1268]
 ```
 
-2026-10-18 1,270 → 2026-10-30 1,269（-1）
+2026-10-18 1,270 → 2026-10-31 1,268（-2）
 
 
 ---

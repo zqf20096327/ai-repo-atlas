@@ -1,6 +1,6 @@
 # lrusso/llama3pure
 
-⭐ 26 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lrusso/llama3pure) · [官网](https://lrusso.github.io/llama3pure) · 个人维护
+⭐ 26 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lrusso/llama3pure) · [官网](https://lrusso.github.io/llama3pure) · 个人维护
 
 **纯 C/JS 实现的 Llama 3 与 Gemma 推理引擎，覆盖桌面/Node/浏览器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lrusso/llama3pure 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

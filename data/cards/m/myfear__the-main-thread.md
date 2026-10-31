@@ -45,12 +45,12 @@ The Main Thread（Substack 出版物）的源码仓库：每个文件夹对应�
 ```mermaid
 xychart-beta
     title "myfear/the-main-thread 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

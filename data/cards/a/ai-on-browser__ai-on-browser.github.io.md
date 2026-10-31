@@ -1,6 +1,6 @@
 # ai-on-browser/ai-on-browser.github.io
 
-⭐ 19 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ai-on-browser/ai-on-browser.github.io) · [官网](https://ai-on-browser.github.io/) · 组织维护
+⭐ 19 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ai-on-browser/ai-on-browser.github.io) · [官网](https://ai-on-browser.github.io/) · 组织维护
 
 **纯 JavaScript 的教育向 ML 算法库，浏览器内运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-on-browser/ai-on-browser.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lhh737/KnowledgeBase-RAG-LLM-System
 
-⭐ 293 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) · 个人维护 · 中文 README
+⭐ 294 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) · 个人维护 · 中文 README
 
 **本地知识库 RAG 问答学习项目：上传 txt 后检索增强问答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lhh737/KnowledgeBase-RAG-LLM-System 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 285 --> 294
-    line [286, 288, 289, 292, 293]
+    title "lhh737/KnowledgeBase-RAG-LLM-System 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 285 --> 295
+    line [286, 288, 289, 292, 293, 294]
 ```
 
-2026-10-18 286 → 2026-10-30 293（+7）
+2026-10-18 286 → 2026-10-31 294（+8）
 
 
 ---

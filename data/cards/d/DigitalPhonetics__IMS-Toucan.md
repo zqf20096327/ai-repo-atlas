@@ -1,6 +1,6 @@
 # DigitalPhonetics/IMS-Toucan
 
-⭐ 2,213 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/DigitalPhonetics/IMS-Toucan) · 组织维护
+⭐ 2,212 · Python · Apache-2.0 · 推送 2026-01-25 · [GitHub](https://github.com/DigitalPhonetics/IMS-Toucan) · 组织维护
 
 **覆盖7000+语言的文本转语音（TTS）工具包，支持训练与推理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DigitalPhonetics/IMS-Toucan 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    title "DigitalPhonetics/IMS-Toucan 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 2209 --> 2214
-    line [2211, 2210, 2211, 2213]
+    line [2211, 2210, 2211, 2213, 2212]
 ```
 
-2026-10-18 2,211 → 2026-10-30 2,213（+2）
+2026-10-18 2,211 → 2026-10-31 2,212（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # plmbr/notebook-intelligence
 
-⭐ 348 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 组织维护
+⭐ 349 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 组织维护
 
 **JupyterLab 的 AI 编码助手扩展与可扩展 AI 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "plmbr/notebook-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 346 --> 349
-    line [347, 348, 348]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 346 --> 350
+    line [347, 348, 349]
 ```
 
-2026-10-18 347 → 2026-10-30 348（+1）
+2026-10-18 347 → 2026-10-31 349（+2）
 
 
 ---

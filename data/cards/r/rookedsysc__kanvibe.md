@@ -1,6 +1,6 @@
 # rookedsysc/kanvibe
 
-⭐ 148 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/rookedsysc/kanvibe) · 个人维护 · 中文 README
+⭐ 148 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/rookedsysc/kanvibe) · 个人维护 · 中文 README
 
 **键盘优先的桌面看板工作台：集中管理 AI 编码 agent 任务与终端会话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rookedsysc/kanvibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 146 --> 149
     line [147, 148, 148]
 ```
 
-2026-10-18 147 → 2026-10-30 148（+1）
+2026-10-18 147 → 2026-10-31 148（+1）
 
 
 ---

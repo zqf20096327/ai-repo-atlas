@@ -1,6 +1,6 @@
 # mldsveda/PyScrappy
 
-⭐ 264 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mldsveda/PyScrappy) · [官网](https://pyscrappy.vercel.app) · 个人维护
+⭐ 265 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/mldsveda/PyScrappy) · [官网](https://pyscrappy.vercel.app) · 个人维护
 
 **自愈式 Python 爬虫工具包兼 MCP 服务器：给 AI agent 供给结构化网页数据**
 
@@ -47,12 +47,12 @@ Python 网页抓取工具包（需 Python 3.9+），可将任意 URL 转为结�
 ```mermaid
 xychart-beta
     title "mldsveda/PyScrappy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 261 --> 265
-    line [262, 263, 264, 264]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 261 --> 266
+    line [262, 263, 264, 265]
 ```
 
-2026-10-18 262 → 2026-10-30 264（+2）
+2026-10-18 262 → 2026-10-31 265（+3）
 
 
 ---

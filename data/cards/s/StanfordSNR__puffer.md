@@ -1,6 +1,6 @@
 # StanfordSNR/puffer
 
-⭐ 919 · C++ · 推送 2025-11-07 · [GitHub](https://github.com/StanfordSNR/puffer) · [官网](https://puffer.stanford.edu) · 组织维护
+⭐ 920 · C++ · 推送 2025-11-07 · [GitHub](https://github.com/StanfordSNR/puffer) · [官网](https://puffer.stanford.edu) · 组织维护
 
 **斯坦福研究项目：免费直播电视流媒体网站，用 ML 改进视频流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "StanfordSNR/puffer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 918 --> 921
-    line [920, 919, 919]
+    line [920, 919, 920]
 ```
 
-2026-10-18 920 → 2026-10-30 919（-1）
+2026-10-18 920 → 2026-10-31 920（+0）
 
 
 ---

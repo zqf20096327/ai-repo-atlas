@@ -1,6 +1,6 @@
 # ethen8181/machine-learning
 
-⭐ 3,501 · HTML · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ethen8181/machine-learning) · 个人维护
+⭐ 3,500 · HTML · MIT · 推送 2026-10-05 · [GitHub](https://github.com/ethen8181/machine-learning) · 个人维护
 
 **机器学习教程 Jupyter Notebook 合集，含从零实现与开源库用法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ethen8181/machine-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 3500 --> 3503
-    line [3502, 3501]
+    title "ethen8181/machine-learning 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3499 --> 3503
+    line [3502, 3501, 3500]
 ```
 
-2026-10-18 3,502 → 2026-10-30 3,501（-1）
+2026-10-18 3,502 → 2026-10-31 3,500（-2）
 
 
 ---

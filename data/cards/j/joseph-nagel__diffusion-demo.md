@@ -1,6 +1,6 @@
 # joseph-nagel/diffusion-demo
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-08-31 · [GitHub](https://github.com/joseph-nagel/diffusion-demo) · 个人维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/joseph-nagel/diffusion-demo) · 个人维护
 
 **DDPM/DDIM 去噪扩散模型的 PyTorch 教学演示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joseph-nagel/diffusion-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pifferologo/ai-agent-video-editor
 
-⭐ 161 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pifferologo/ai-agent-video-editor) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **供 AI agent 使用的对话式视频剪辑 CLI 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

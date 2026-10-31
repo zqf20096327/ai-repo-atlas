@@ -1,6 +1,6 @@
 # StarlightSearch/EmbedAnything
 
-⭐ 1,321 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/StarlightSearch/EmbedAnything) · [官网](https://embed-anything.com/) · 组织维护
+⭐ 1,322 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/StarlightSearch/EmbedAnything) · [官网](https://embed-anything.com/) · 组织维护
 
 **Rust 编写的多模态嵌入推理与索引流水线库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "StarlightSearch/EmbedAnything 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1312 --> 1322
-    line [1313, 1316, 1318, 1319, 1320, 1321, 1321]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1312 --> 1323
+    line [1313, 1316, 1318, 1319, 1320, 1321, 1322]
 ```
 
-2026-10-18 1,313 → 2026-10-30 1,321（+8）
+2026-10-18 1,313 → 2026-10-31 1,322（+9）
 
 
 ---

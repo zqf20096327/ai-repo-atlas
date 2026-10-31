@@ -1,6 +1,6 @@
 # cnjack/jcode
 
-⭐ 41 · Go · MIT · 推送 2026-10-18 · [GitHub](https://github.com/cnjack/jcode) · [官网](https://www.j-code.net) · 个人维护
+⭐ 41 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/cnjack/jcode) · [官网](https://www.j-code.net) · 个人维护
 
 **开发者用终端 AI 编码代理，可经 SSH/Docker 远程改代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cnjack/jcode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-10-30 41（+1）
+2026-10-18 40 → 2026-10-31 41（+1）
 
 
 ---

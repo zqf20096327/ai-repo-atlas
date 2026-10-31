@@ -1,6 +1,6 @@
 # vfaraji89/tokalator
 
-⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/vfaraji89/tokalator) · [官网](https://tokalator.ai) · 个人维护
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/vfaraji89/tokalator) · [官网](https://tokalator.ai) · 个人维护
 
 **计量 AI 编程工具 token 消耗与成本的 VS Code 扩展及配套**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vfaraji89/tokalator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

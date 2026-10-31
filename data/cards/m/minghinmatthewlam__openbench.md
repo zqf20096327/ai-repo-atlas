@@ -1,6 +1,6 @@
 # minghinmatthewlam/openbench
 
-⭐ 138 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/minghinmatthewlam/openbench) · 个人维护
+⭐ 137 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/minghinmatthewlam/openbench) · 个人维护
 
 **对比 coding-agent harness 性能的评测基准框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "minghinmatthewlam/openbench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 136 --> 139
-    line [137, 138, 138]
+    line [137, 138, 137]
 ```
 
-2026-10-18 137 → 2026-10-30 138（+1）
+2026-10-18 137 → 2026-10-31 137（+0）
 
 
 ---

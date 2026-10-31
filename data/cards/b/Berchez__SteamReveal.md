@@ -1,6 +1,6 @@
 # Berchez/SteamReveal
 
-⭐ 27 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/Berchez/SteamReveal) · [官网](https://steam-reveal.vercel.app) · 个人维护
+⭐ 28 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/Berchez/SteamReveal) · [官网](https://steam-reveal.vercel.app) · 个人维护
 
 **分析 Steam 玩家公开数据，推断其可能位置与密友圈，并给出 CS 作弊概率**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Berchez/SteamReveal 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    line [28, 27, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 27（-1）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

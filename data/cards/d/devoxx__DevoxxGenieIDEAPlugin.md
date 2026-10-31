@@ -1,6 +1,6 @@
 # devoxx/DevoxxGenieIDEAPlugin
 
-⭐ 686 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
+⭐ 686 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
 
 **IntelliJ IDEA 的 Java 版 LLM 代码助手插件，接入本地与云端模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devoxx/DevoxxGenieIDEAPlugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-31"]
     y-axis "stars" 684 --> 688
     line [685, 686, 687, 686, 686]
 ```
 
-2026-10-18 685 → 2026-10-30 686（+1）
+2026-10-18 685 → 2026-10-31 686（+1）
 
 
 ---

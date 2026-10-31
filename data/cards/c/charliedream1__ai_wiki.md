@@ -1,6 +1,6 @@
 # charliedream1/ai_wiki
 
-⭐ 747 · Jupyter Notebook · 推送 2026-10-10 · [GitHub](https://github.com/charliedream1/ai_wiki) · 个人维护 · 中文 README
+⭐ 748 · Jupyter Notebook · 推送 2026-10-10 · [GitHub](https://github.com/charliedream1/ai_wiki) · 个人维护 · 中文 README
 
 **覆盖 AI 全栈的工程实践知识库与资源搜集站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "charliedream1/ai_wiki 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 740 --> 748
-    line [741, 744, 745, 746, 747, 747]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 740 --> 749
+    line [741, 744, 745, 746, 747, 748]
 ```
 
-2026-10-18 741 → 2026-10-30 747（+6）
+2026-10-18 741 → 2026-10-31 748（+7）
 
 
 ---

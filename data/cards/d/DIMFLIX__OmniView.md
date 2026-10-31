@@ -1,6 +1,6 @@
 # DIMFLIX/OmniView
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/DIMFLIX/OmniView) · [官网](https://pypi.org/project/omniview/) · 个人维护 · 中文 README
+⭐ 31 · Python · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/DIMFLIX/OmniView) · [官网](https://pypi.org/project/omniview/) · 个人维护 · 中文 README
 
 **多摄像头视频流采集与多路显示库，供计算机视觉接入**
 
@@ -45,12 +45,12 @@ Python 库，用于同时接收和处理多路 USB 与 IP（RTSP）摄像头视�
 ```mermaid
 xychart-beta
     title "DIMFLIX/OmniView 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 31（+1）
 
 
 ---

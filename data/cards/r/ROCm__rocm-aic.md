@@ -1,6 +1,6 @@
 # ROCm/rocm-aic
 
-⭐ 19 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ROCm/rocm-aic) · [官网](https://rocm.github.io/rocm-aic/) · 组织维护
+⭐ 19 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ROCm/rocm-aic) · [官网](https://rocm.github.io/rocm-aic/) · 组织维护
 
 **AMD Instinct GPU 上的分离式 KV Cache LLM 推理栈**
 
@@ -45,12 +45,12 @@ ROCm 官方维护的分布式 KV-cache 推理栈：将 LLM 服务框架（源码
 ```mermaid
 xychart-beta
     title "ROCm/rocm-aic 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-18 18 → 2026-10-30 19（+1）
+2026-10-18 18 → 2026-10-31 19（+1）
 
 
 ---

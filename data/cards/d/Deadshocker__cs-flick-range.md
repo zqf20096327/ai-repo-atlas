@@ -1,6 +1,6 @@
 # Deadshocker/cs-flick-range
 
-⭐ 56 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Deadshocker/cs-flick-range) · 个人维护
+⭐ 56 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/Deadshocker/cs-flick-range) · 个人维护
 
 **浏览器端 FPS 瞄准训练工具，含自适应难度与练习遥测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Deadshocker/cs-flick-range 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-30 56（+0）
+2026-10-18 56 → 2026-10-31 56（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Acellera/moleculekit
 
-⭐ 249 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/Acellera/moleculekit) · 组织维护
+⭐ 250 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Acellera/moleculekit) · 组织维护
 
 **分子操作 Python 库：读取、查看与处理蛋白质等分子结构**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Acellera/moleculekit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 248 --> 250
-    line [249, 249]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 248 --> 251
+    line [249, 250]
 ```
 
-2026-10-18 249 → 2026-10-30 249（+0）
+2026-10-18 249 → 2026-10-31 250（+1）
 
 
 ---

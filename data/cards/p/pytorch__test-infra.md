@@ -1,6 +1,6 @@
 # pytorch/test-infra
 
-⭐ 114 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/pytorch/test-infra) · [官网](https://hud.pytorch.org/) · 组织维护
+⭐ 114 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/pytorch/test-infra) · [官网](https://hud.pytorch.org/) · 组织维护
 
 **支撑 PyTorch CI/CD 系统的测试基础设施代码集合**
 
@@ -45,12 +45,12 @@ PyTorch 组织的测试基础设施仓库：包含追踪禁用测试与慢测试
 ```mermaid
 xychart-beta
     title "pytorch/test-infra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 112 --> 115
     line [113, 114, 114]
 ```
 
-2026-10-18 113 → 2026-10-30 114（+1）
+2026-10-18 113 → 2026-10-31 114（+1）
 
 
 ---

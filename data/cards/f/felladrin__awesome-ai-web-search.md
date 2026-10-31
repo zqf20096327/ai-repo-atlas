@@ -1,6 +1,6 @@
 # felladrin/awesome-ai-web-search
 
-⭐ 1,501 · HTML · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护 · 中文 README
+⭐ 1,503 · HTML · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护 · 中文 README
 
 **AI 网络搜索软件策展清单：按时间线收录开源与闭源产品**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "felladrin/awesome-ai-web-search 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1483 --> 1502
-    line [1484, 1486, 1490, 1492, 1493, 1494, 1497, 1498, 1499, 1501]
+    title "felladrin/awesome-ai-web-search 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1483 --> 1504
+    line [1484, 1486, 1490, 1492, 1493, 1494, 1497, 1498, 1499, 1501, 1503]
 ```
 
-2026-10-18 1,484 → 2026-10-30 1,501（+17）
+2026-10-18 1,484 → 2026-10-31 1,503（+19）
 
 
 ---

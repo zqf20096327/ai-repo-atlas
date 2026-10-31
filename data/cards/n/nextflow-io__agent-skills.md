@@ -1,6 +1,6 @@
 # nextflow-io/agent-skills
 
-⭐ 25 · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/nextflow-io/agent-skills) · [官网](https://nextflow.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向编码 agent 的 Nextflow 流程构建技能包**
 
@@ -11,7 +11,7 @@ Nextflow 官方组织提供的 Agent Skills 集合，包含 5 个技能：安装
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

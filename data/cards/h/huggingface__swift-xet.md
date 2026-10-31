@@ -44,13 +44,13 @@ Hugging Face 官方维护的 Swift 库，实现 Xet 协议的下载路径，供 
 
 ```mermaid
 xychart-beta
-    title "huggingface/swift-xet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "huggingface/swift-xet 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 30 --> 33
-    line [31, 32]
+    line [31, 32, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 32（+1）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

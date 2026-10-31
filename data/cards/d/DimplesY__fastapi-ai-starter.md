@@ -1,6 +1,6 @@
 # DimplesY/fastapi-ai-starter
 
-⭐ 33 · Python · 推送 2026-07-31 · [GitHub](https://github.com/DimplesY/fastapi-ai-starter) · 个人维护 · 中文 README
+⭐ 34 · Python · 推送 2026-07-31 · [GitHub](https://github.com/DimplesY/fastapi-ai-starter) · 个人维护 · 中文 README
 
 **构建 AI 应用的 FastAPI 后端项目模板（Celery+pgvector+Redis）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DimplesY/fastapi-ai-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 34（+1）
 
 
 ---

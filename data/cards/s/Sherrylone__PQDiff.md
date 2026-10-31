@@ -46,12 +46,12 @@ PQDiff 是论文 Continuous-Multiple Image Outpainting in One-Step via Positiona
 ```mermaid
 xychart-beta
     title "Sherrylone/PQDiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-30 92（+0）
+2026-10-18 92 → 2026-10-31 92（+0）
 
 
 ---

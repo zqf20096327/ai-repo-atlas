@@ -1,6 +1,6 @@
 # houseworthe/house-agents
 
-⭐ 42 · MIT · 推送 2025-11-03 · [GitHub](https://github.com/houseworthe/house-agents) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Claude Code 专用子代理集合：隔离高开销操作，保持主对话上下文**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

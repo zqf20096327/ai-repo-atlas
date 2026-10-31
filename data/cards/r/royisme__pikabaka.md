@@ -1,6 +1,6 @@
 # royisme/pikabaka
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/royisme/pikabaka) · [官网](https://github.com/royisme/pikabaka) · 个人维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/royisme/pikabaka) · [官网](https://github.com/royisme/pikabaka) · 个人维护
 
 **开源桌面 AI 面试助手与会议助手：实时转写+AI提示**
 
@@ -47,12 +47,12 @@ Electron 桌面应用，在用户本机运行：双通道捕获系统音频与�
 ```mermaid
 xychart-beta
     title "royisme/pikabaka 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31"]
     y-axis "stars" 26 --> 31
     line [27, 28, 30, 30]
 ```
 
-2026-10-18 27 → 2026-10-30 30（+3）
+2026-10-18 27 → 2026-10-31 30（+3）
 
 
 ---

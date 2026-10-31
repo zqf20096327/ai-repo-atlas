@@ -1,6 +1,6 @@
 # kengio/dp-800-study-guide
 
-⭐ 28 · JavaScript · MIT · 推送 2026-07-11 · [GitHub](https://github.com/kengio/dp-800-study-guide) · 个人维护
+⭐ 29 · JavaScript · MIT · 推送 2026-07-11 · [GitHub](https://github.com/kengio/dp-800-study-guide) · 个人维护
 
 **Microsoft DP-800 认证备考社区学习指南，含题库与模拟考**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kengio/dp-800-study-guide 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-18 27 → 2026-10-30 28（+1）
+2026-10-18 27 → 2026-10-31 29（+2）
 
 
 ---

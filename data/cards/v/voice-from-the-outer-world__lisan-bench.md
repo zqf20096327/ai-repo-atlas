@@ -1,6 +1,6 @@
 # voice-from-the-outer-world/lisan-bench
 
-⭐ 67 · Python · 推送 2026-05-31 · [GitHub](https://github.com/voice-from-the-outer-world/lisan-bench) · 个人维护
+⭐ 68 · Python · 推送 2026-05-31 · [GitHub](https://github.com/voice-from-the-outer-world/lisan-bench) · 个人维护
 
 **轻量 LLM 基准：词链变换任务同时考察规划、词汇与长输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voice-from-the-outer-world/lisan-bench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 67, 67]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 67, 68]
 ```
 
-2026-10-18 65 → 2026-10-30 67（+2）
+2026-10-18 65 → 2026-10-31 68（+3）
 
 
 ---

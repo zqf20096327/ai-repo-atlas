@@ -43,12 +43,12 @@ MagikaNet 是 Google Magika 文件类型检测库的 .NET 封装，通过 magika
 ```mermaid
 xychart-beta
     title "arthrp/MagikaNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

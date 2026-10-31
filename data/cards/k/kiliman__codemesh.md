@@ -1,6 +1,6 @@
 # kiliman/codemesh
 
-⭐ 26 · TypeScript · MIT · 推送 2025-11-03 · [GitHub](https://github.com/kiliman/codemesh) · [官网](https://codemeshmcp.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 agent 写 TypeScript 代码编排多个 MCP 服务器的 MCP 服务器**
 
@@ -11,7 +11,7 @@ CodeMesh 是一个 MCP 服务器，向 AI agent 只暴露 3 个工具（discover
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # 199-biotechnologies/gemma-4-abliterated
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/199-biotechnologies/gemma-4-abliterated) · [官网](https://paperfoot.com) · 组织维护
+⭐ 23 · Python · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/199-biotechnologies/gemma-4-abliterated) · [官网](https://paperfoot.com) · 组织维护
 
 **Gemma 4 31B 的去拒答权重编辑模型（MLX 4-bit）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "199-biotechnologies/gemma-4-abliterated 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-10-31 23（+2）
 
 
 ---

@@ -45,13 +45,13 @@ Delphi IDE 插件，接入 OpenAI、Gemini、Mistral、Groq API，并支持通�
 
 ```mermaid
 xychart-beta
-    title "Code4Delphi/Delphi-AI-Developer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Code4Delphi/Delphi-AI-Developer 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 314 --> 317
-    line [315, 316]
+    line [315, 316, 316]
 ```
 
-2026-10-18 315 → 2026-10-30 316（+1）
+2026-10-18 315 → 2026-10-31 316（+1）
 
 
 ---

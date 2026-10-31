@@ -43,13 +43,13 @@ Devinterview.io 维护的 SQL 面试问答仓库，收录 100 道 2026 年口径
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/sql-interview-questions 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
+    title "Devinterview-io/sql-interview-questions 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 427 --> 433
-    line [428, 429, 431, 432]
+    line [428, 429, 431, 432, 432]
 ```
 
-2026-10-18 428 → 2026-10-30 432（+4）
+2026-10-18 428 → 2026-10-31 432（+4）
 
 
 ---

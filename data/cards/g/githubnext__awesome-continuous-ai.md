@@ -46,12 +46,12 @@ GitHub Next 维护的 awesome 清单，围绕"Continuous AI"概念——用自�
 ```mermaid
 xychart-beta
     title "githubnext/awesome-continuous-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 497 --> 499
     line [498, 498]
 ```
 
-2026-10-18 498 → 2026-10-30 498（+0）
+2026-10-18 498 → 2026-10-31 498（+0）
 
 
 ---

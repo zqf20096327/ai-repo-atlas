@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "claude-did-this/MCPControl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "claude-did-this/MCPControl 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 330 --> 333
-    line [331, 332]
+    line [331, 332, 332]
 ```
 
-2026-10-18 331 → 2026-10-30 332（+1）
+2026-10-18 331 → 2026-10-31 332（+1）
 
 
 ---

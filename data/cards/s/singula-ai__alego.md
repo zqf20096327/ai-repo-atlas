@@ -44,13 +44,13 @@ Singula AI 开源的 agent harness，为构建 AI agent 应用提供基础底座
 
 ```mermaid
 xychart-beta
-    title "singula-ai/alego 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "singula-ai/alego 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 108 --> 111
-    line [109, 110]
+    line [109, 110, 110]
 ```
 
-2026-10-18 109 → 2026-10-30 110（+1）
+2026-10-18 109 → 2026-10-31 110（+1）
 
 
 ---

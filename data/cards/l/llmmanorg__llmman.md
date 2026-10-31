@@ -1,6 +1,6 @@
 # llmmanorg/llmman
 
-⭐ 573 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 组织维护
+⭐ 575 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 组织维护
 
 **本地/托管模型上运行各类 AI agent 的 CLI 与推理服务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "llmmanorg/llmman 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 557 --> 574
-    line [558, 563, 565, 569, 571, 572, 573]
+    title "llmmanorg/llmman 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 557 --> 576
+    line [558, 563, 565, 569, 571, 572, 573, 575]
 ```
 
-2026-10-18 558 → 2026-10-30 573（+15）
+2026-10-18 558 → 2026-10-31 575（+17）
 
 
 ---

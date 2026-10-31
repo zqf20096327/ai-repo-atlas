@@ -1,6 +1,6 @@
 # zhoujinjian/ai-testing-guide
 
-⭐ 150 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/zhoujinjian/ai-testing-guide) · [官网](https://ai.testfather.cn/) · 个人维护 · 中文 README
+⭐ 152 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/zhoujinjian/ai-testing-guide) · [官网](https://ai.testfather.cn/) · 个人维护 · 中文 README
 
 **测试工程师的 AI 时代学习路线与面试资源合集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhoujinjian/ai-testing-guide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 131 --> 151
-    line [132, 136, 139, 140, 142, 143, 147, 148, 149, 150]
+    title "zhoujinjian/ai-testing-guide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 130 --> 154
+    line [132, 136, 139, 140, 142, 143, 147, 148, 149, 150, 152]
 ```
 
-2026-10-18 132 → 2026-10-30 150（+18）
+2026-10-18 132 → 2026-10-31 152（+20）
 
 
 ---

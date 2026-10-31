@@ -46,12 +46,12 @@ PULSE 是一套 AI 辅助开发的方法论与工具包，包含 pulse CLI（13 
 ```mermaid
 xychart-beta
     title "manuelfussTC/PulseFramework 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

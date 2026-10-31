@@ -46,12 +46,12 @@ AEON Protocol 的开源实现，围绕 FCA Core（多层认知架构）构建：
 ```mermaid
 xychart-beta
     title "openaeon/OpenAEON 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 89 --> 91
     line [90, 90]
 ```
 
-2026-10-18 90 → 2026-10-30 90（+0）
+2026-10-18 90 → 2026-10-31 90（+0）
 
 
 ---

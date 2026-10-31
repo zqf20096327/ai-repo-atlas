@@ -1,6 +1,6 @@
 # bytedance/video-SALMONN-2
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/bytedance/video-SALMONN-2) · 组织维护 · 中文 README
+⭐ 223 · Python · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/bytedance/video-SALMONN-2) · 组织维护 · 中文 README
 
 **音视频大语言模型：为视频生成含音频理解的字幕描述**
 
@@ -45,12 +45,12 @@ video-SALMONN 2 是由清华大学电子工程系与字节跳动开发的音视�
 ```mermaid
 xychart-beta
     title "bytedance/video-SALMONN-2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 220 --> 223
-    line [221, 222, 222]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 220 --> 224
+    line [221, 222, 223]
 ```
 
-2026-10-18 221 → 2026-10-30 222（+1）
+2026-10-18 221 → 2026-10-31 223（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Rust 编写的本地 CLI（九 crate 工作区），在 Claude Code、Codex、Cu
 ```mermaid
 xychart-beta
     title "007M7/Sego-Agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

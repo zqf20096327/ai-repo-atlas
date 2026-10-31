@@ -45,12 +45,12 @@ FastAPI + LangGraph 后端与 Next.js 聊天界面构成的本地 agent 工作�
 ```mermaid
 xychart-beta
     title "iam-xiaofeng/SlotFlow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

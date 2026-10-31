@@ -1,6 +1,6 @@
 # erfnzdeh/Divar-AI-Contest
 
-⭐ 146 · Python · 推送 2026-08-08 · [GitHub](https://github.com/erfnzdeh/Divar-AI-Contest) · [官网](https://quera.org/events/divar-0404) · 个人维护 · 中文 README
+⭐ 147 · Python · 推送 2026-08-08 · [GitHub](https://github.com/erfnzdeh/Divar-AI-Contest) · [官网](https://quera.org/events/divar-0404) · 个人维护 · 中文 README
 
 **Divar AI 竞赛冠军 LLM Agent 解题方案合集（CTF 形式）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "erfnzdeh/Divar-AI-Contest 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 142 --> 147
-    line [143, 146, 146]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 142 --> 148
+    line [143, 146, 147]
 ```
 
-2026-10-18 143 → 2026-10-30 146（+3）
+2026-10-18 143 → 2026-10-31 147（+4）
 
 
 ---

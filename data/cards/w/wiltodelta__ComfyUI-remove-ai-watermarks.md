@@ -1,6 +1,6 @@
 # wiltodelta/ComfyUI-remove-ai-watermarks
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/wiltodelta/ComfyUI-remove-ai-watermarks) · 个人维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wiltodelta/ComfyUI-remove-ai-watermarks) · 个人维护
 
 **ComfyUI 自定义节点集：检测并移除图像中的可见/不可见 AI 水印**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wiltodelta/ComfyUI-remove-ai-watermarks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
     y-axis "stars" 27 --> 34
     line [28, 29, 30, 33, 33]
 ```
 
-2026-10-18 28 → 2026-10-30 33（+5）
+2026-10-18 28 → 2026-10-31 33（+5）
 
 
 ---

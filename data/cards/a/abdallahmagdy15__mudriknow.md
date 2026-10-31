@@ -1,6 +1,6 @@
 # abdallahmagdy15/mudriknow
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/abdallahmagdy15/mudriknow) · [官网](https://abdallahmagdy15.github.io/mudriknow/) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/abdallahmagdy15/mudriknow) · [官网](https://abdallahmagdy15.github.io/mudriknow/) · 个人维护
 
 **读屏桌面 AI 代理：快捷键捕获窗口上下文，回答/操作/分步引导**
 
@@ -46,12 +46,12 @@ Electron 构建的开源 Windows 桌面 AI agent：按 Alt+Space 读取活动窗
 ```mermaid
 xychart-beta
     title "abdallahmagdy15/mudriknow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 40 --> 44
+    line [41, 43]
 ```
 
-2026-10-18 41 → 2026-10-30 41（+0）
+2026-10-18 41 → 2026-10-31 43（+2）
 
 
 ---

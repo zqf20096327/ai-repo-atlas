@@ -46,12 +46,12 @@ ICML 2026 论文的参考实现仓库：通过组合现成的 LLM、视觉、ASR
 ```mermaid
 xychart-beta
     title "MAC-AutoML/Trainingfree-LLM-Orchestration 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

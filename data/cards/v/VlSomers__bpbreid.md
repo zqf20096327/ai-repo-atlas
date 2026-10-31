@@ -1,6 +1,6 @@
 # VlSomers/bpbreid
 
-⭐ 262 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/VlSomers/bpbreid) · 个人维护
+⭐ 263 · Python · NOASSERTION · 推送 2025-11-05 · [GitHub](https://github.com/VlSomers/bpbreid) · 个人维护
 
 **基于身体部位特征的行人重识别（含遮挡）PyTorch 基线**
 
@@ -46,12 +46,12 @@ WACV23 论文官方代码库，提出 BPBReID：为每个输入样本输出多�
 ```mermaid
 xychart-beta
     title "VlSomers/bpbreid 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 259 --> 263
-    line [260, 261, 262, 262]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 259 --> 264
+    line [260, 261, 262, 263]
 ```
 
-2026-10-18 260 → 2026-10-30 262（+2）
+2026-10-18 260 → 2026-10-31 263（+3）
 
 
 ---

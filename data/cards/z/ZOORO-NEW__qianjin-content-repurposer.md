@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZOORO-NEW/qianjin-content-repurposer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    title "ZOORO-NEW/qianjin-content-repurposer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 18]
+    line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-10-30 18（+2）
+2026-10-18 16 → 2026-10-31 18（+2）
 
 
 ---

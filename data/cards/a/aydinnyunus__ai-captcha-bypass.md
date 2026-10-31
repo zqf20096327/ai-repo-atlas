@@ -1,6 +1,6 @@
 # aydinnyunus/ai-captcha-bypass
 
-⭐ 1,230 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/aydinnyunus/ai-captcha-bypass) · 个人维护
+⭐ 1,231 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/aydinnyunus/ai-captcha-bypass) · 个人维护
 
 **用 GPT-4o/Gemini 自动求解多种 CAPTCHA 的命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aydinnyunus/ai-captcha-bypass 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1224 --> 1231
-    line [1225, 1226, 1227, 1230, 1230]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 1224 --> 1232
+    line [1225, 1226, 1227, 1230, 1231]
 ```
 
-2026-10-18 1,225 → 2026-10-30 1,230（+5）
+2026-10-18 1,225 → 2026-10-31 1,231（+6）
 
 
 ---

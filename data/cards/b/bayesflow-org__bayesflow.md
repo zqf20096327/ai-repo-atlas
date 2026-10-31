@@ -1,6 +1,6 @@
 # bayesflow-org/bayesflow
 
-⭐ 783 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
+⭐ 783 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
 
 **基于深度学习的摊销贝叶斯推断 Python 库，面向科研用户**
 
@@ -45,12 +45,12 @@ BayesFlow 是用于仿真推断（simulation-based inference）的 Python 库：
 ```mermaid
 xychart-beta
     title "bayesflow-org/bayesflow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 779 --> 784
     line [780, 781, 782, 783, 783]
 ```
 
-2026-10-18 780 → 2026-10-30 783（+3）
+2026-10-18 780 → 2026-10-31 783（+3）
 
 
 ---

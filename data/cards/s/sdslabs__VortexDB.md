@@ -1,6 +1,6 @@
 # sdslabs/VortexDB
 
-⭐ 46 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sdslabs/VortexDB) · [官网](https://vortex-db.sdslabs.co/) · 组织维护
+⭐ 46 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/sdslabs/VortexDB) · [官网](https://vortex-db.sdslabs.co/) · 组织维护
 
 **Rust 编写的轻量向量数据库，为 AI 应用提供相似度检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sdslabs/VortexDB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 46（+0）
 
 
 ---

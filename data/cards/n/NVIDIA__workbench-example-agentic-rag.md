@@ -45,13 +45,13 @@ NVIDIA AI Workbench 的示例项目：在 RAG 上叠加 agent 层，先判断上
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/workbench-example-agentic-rag 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "NVIDIA/workbench-example-agentic-rag 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 173 --> 177
-    line [174, 175, 176]
+    line [174, 175, 176, 176]
 ```
 
-2026-10-18 174 → 2026-10-30 176（+2）
+2026-10-18 174 → 2026-10-31 176（+2）
 
 
 ---

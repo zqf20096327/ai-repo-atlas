@@ -1,6 +1,6 @@
 # iver56/audiomentations
 
-⭐ 2,326 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/iver56/audiomentations) · [官网](https://iver56.github.io/audiomentations/) · 个人维护
+⭐ 2,323 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/iver56/audiomentations) · [官网](https://iver56.github.io/audiomentations/) · 个人维护
 
 **Python 音频数据增强库：为音频 ML 训练提供变换**
 
@@ -45,12 +45,12 @@ Audiomentations 是一个 Python 音频数据增强库，API 设计参考 albume
 ```mermaid
 xychart-beta
     title "iver56/audiomentations 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2322 --> 2327
-    line [2323, 2324, 2325, 2326, 2326]
+    line [2323, 2324, 2325, 2326, 2323]
 ```
 
-2026-10-18 2,323 → 2026-10-30 2,326（+3）
+2026-10-18 2,323 → 2026-10-31 2,323（+0）
 
 
 ---

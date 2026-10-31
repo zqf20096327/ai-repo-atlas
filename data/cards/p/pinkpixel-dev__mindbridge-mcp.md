@@ -45,12 +45,12 @@ Model Context Protocol (MCP) 服务器，使 MCP 兼容应用（如 Claude Deskt
 ```mermaid
 xychart-beta
     title "pinkpixel-dev/mindbridge-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

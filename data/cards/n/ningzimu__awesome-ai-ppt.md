@@ -1,6 +1,6 @@
 # ningzimu/awesome-ai-ppt
 
-⭐ 174 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ningzimu/awesome-ai-ppt) · [官网](https://ningzimu.github.io/awesome-ai-ppt/) · 个人维护 · 中文 README
+⭐ 174 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ningzimu/awesome-ai-ppt) · [官网](https://ningzimu.github.io/awesome-ai-ppt/) · 个人维护 · 中文 README
 
 **AI PPT 工具精选清单：收录演示文稿生成/编辑/转换项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ningzimu/awesome-ai-ppt 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "ningzimu/awesome-ai-ppt 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 165 --> 175
-    line [166, 168, 170, 169, 171, 172, 173, 174]
+    line [166, 168, 170, 169, 171, 172, 173, 174, 174]
 ```
 
-2026-10-18 166 → 2026-10-30 174（+8）
+2026-10-18 166 → 2026-10-31 174（+8）
 
 
 ---

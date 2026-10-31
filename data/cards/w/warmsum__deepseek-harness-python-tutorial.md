@@ -1,6 +1,6 @@
 # warmsum/deepseek-harness-python-tutorial
 
-⭐ 143 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/warmsum/deepseek-harness-python-tutorial) · 个人维护 · 中文 README
+⭐ 144 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/warmsum/deepseek-harness-python-tutorial) · 个人维护 · 中文 README
 
 **用 Python 从零实现 DeepSeek Harness 核心机制的 17 章中文教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "warmsum/deepseek-harness-python-tutorial 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 135 --> 144
-    line [136, 137, 138, 139, 142, 143, 143]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 135 --> 145
+    line [136, 137, 138, 139, 142, 143, 144]
 ```
 
-2026-10-18 136 → 2026-10-30 143（+7）
+2026-10-18 136 → 2026-10-31 144（+8）
 
 
 ---

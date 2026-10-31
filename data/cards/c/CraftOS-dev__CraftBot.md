@@ -1,6 +1,6 @@
 # CraftOS-dev/CraftBot
 
-⭐ 401 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/CraftOS-dev/CraftBot) · [官网](https://craftbot.live/) · 组织维护 · 中文 README
+⭐ 402 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CraftOS-dev/CraftBot) · [官网](https://craftbot.live/) · 组织维护 · 中文 README
 
 **通用 AI agent 平台：可自建并运行 SaaS 工具的智能体框架**
 
@@ -45,12 +45,12 @@ CraftBot 是一个自托管的通用 AI agent 框架，定位为像远程员工�
 ```mermaid
 xychart-beta
     title "CraftOS-dev/CraftBot 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 394 --> 402
-    line [395, 396, 399, 400, 399, 400, 401, 401]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 394 --> 403
+    line [395, 396, 399, 400, 399, 400, 401, 402]
 ```
 
-2026-10-18 395 → 2026-10-30 401（+6）
+2026-10-18 395 → 2026-10-31 402（+7）
 
 
 ---

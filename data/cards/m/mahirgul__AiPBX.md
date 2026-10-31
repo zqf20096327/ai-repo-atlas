@@ -1,6 +1,6 @@
 # mahirgul/AiPBX
 
-⭐ 64 · PHP · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/mahirgul/AiPBX) · [官网](https://aipbx.bid) · 个人维护
+⭐ 65 · PHP · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mahirgul/AiPBX) · [官网](https://aipbx.bid) · 个人维护
 
 **开源 IP PBX 管理门户：Asterisk 22 电话/聊天/传真/呼叫中心一体化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahirgul/AiPBX 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 24 --> 67
-    line [27, 32, 34, 50, 54, 61, 64]
+    title "mahirgul/AiPBX 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 24 --> 68
+    line [27, 32, 34, 50, 54, 61, 64, 65]
 ```
 
-2026-10-18 27 → 2026-10-30 64（+37）
+2026-10-18 27 → 2026-10-31 65（+38）
 
 
 ---

@@ -44,13 +44,13 @@ AWS samples 出品的 Electron 桌面应用 ARchitect：面向会计师、HR、�
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-automated-reasoning-formalization 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "aws-samples/sample-automated-reasoning-formalization 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 44（+1）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

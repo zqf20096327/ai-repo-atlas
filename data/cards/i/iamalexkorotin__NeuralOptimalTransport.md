@@ -1,6 +1,6 @@
 # iamalexkorotin/NeuralOptimalTransport
 
-⭐ 240 · Jupyter Notebook · MIT · 推送 2026-05-04 · [GitHub](https://github.com/iamalexkorotin/NeuralOptimalTransport) · [官网](https://openreview.net/forum?id=d8CBRlWNkqH) · 个人维护
+⭐ 239 · Jupyter Notebook · MIT · 推送 2026-05-04 · [GitHub](https://github.com/iamalexkorotin/NeuralOptimalTransport) · [官网](https://openreview.net/forum?id=d8CBRlWNkqH) · 个人维护
 
 **ICLR 2023 论文 Neural Optimal Transport 的 PyTorch 官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamalexkorotin/NeuralOptimalTransport 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 238 --> 241
-    line [239, 240, 240]
+    line [239, 240, 239]
 ```
 
-2026-10-18 239 → 2026-10-30 240（+1）
+2026-10-18 239 → 2026-10-31 239（+0）
 
 
 ---

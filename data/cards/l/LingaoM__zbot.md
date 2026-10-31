@@ -1,6 +1,6 @@
 # LingaoM/zbot
 
-⭐ 34 · C · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LingaoM/zbot) · 个人维护
+⭐ 35 · C · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LingaoM/zbot) · 个人维护
 
 **运行在 Zephyr RTOS 上的嵌入式 AI agent，用 LLM 控制硬件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LingaoM/zbot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-18 34 → 2026-10-30 34（+0）
+2026-10-18 34 → 2026-10-31 35（+1）
 
 
 ---

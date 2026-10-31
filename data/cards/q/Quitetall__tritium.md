@@ -1,6 +1,6 @@
 # Quitetall/tritium
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Quitetall/tritium) · [官网](https://docs.rs/tritium-core) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Quitetall/tritium) · [官网](https://docs.rs/tritium-core) · 个人维护
 
 **三值（{-1,0,+1}）模型的训练与推理基础设施库**
 
@@ -46,12 +46,12 @@ Apache-2.0 许可的 Rust 基础设施库，把稠密神经网络转换为紧凑
 ```mermaid
 xychart-beta
     title "Quitetall/tritium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

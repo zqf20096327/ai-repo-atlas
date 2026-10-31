@@ -1,6 +1,6 @@
 # Neuro-OJ/neuro-oj
 
-⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Neuro-OJ/neuro-oj) · [官网](https://neuro-oj.icu) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Neuro-OJ/neuro-oj) · [官网](https://neuro-oj.icu) · 组织维护 · 中文 README
 
 **面向 AI 认证与竞赛的开源在线评测平台（类 OJ）**
 
@@ -45,12 +45,12 @@ Neuro OJ 是独立社区开发的开源在线评测与竞赛平台，覆盖注�
 ```mermaid
 xychart-beta
     title "Neuro-OJ/neuro-oj 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31"]
     y-axis "stars" 24 --> 27
     line [25, 26, 25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

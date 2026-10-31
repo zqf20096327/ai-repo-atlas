@@ -1,6 +1,6 @@
 # intel/openvino-plugins-ai-audacity
 
-⭐ 2,149 · C++ · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/intel/openvino-plugins-ai-audacity) · 组织维护
+⭐ 2,150 · C++ · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/intel/openvino-plugins-ai-audacity) · 组织维护
 
 **给 Audacity 用户的本地 AI 音频效果、生成与分析插件集**
 
@@ -44,12 +44,12 @@ Intel 维护的 Audacity 插件集，提供六类 AI 音频功能：音轨分离
 ```mermaid
 xychart-beta
     title "intel/openvino-plugins-ai-audacity 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 2141 --> 2150
-    line [2142, 2145, 2146, 2147, 2148, 2149, 2149]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 2141 --> 2151
+    line [2142, 2145, 2146, 2147, 2148, 2149, 2150]
 ```
 
-2026-10-18 2,142 → 2026-10-30 2,149（+7）
+2026-10-18 2,142 → 2026-10-31 2,150（+8）
 
 
 ---

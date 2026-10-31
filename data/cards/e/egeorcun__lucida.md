@@ -1,6 +1,6 @@
 # egeorcun/lucida
 
-⭐ 175 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/egeorcun/lucida) · [官网](https://huggingface.co/egeorcun/lucida) · 个人维护
+⭐ 176 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/egeorcun/lucida) · [官网](https://huggingface.co/egeorcun/lucida) · 个人维护
 
 **面向玻璃/迷彩/文字等难例的 BiRefNet 背景去除模型**
 
@@ -45,12 +45,12 @@ Lucida 是基于 BiRefNet_HR 微调（MIT）的图像抠图/背景去除模型�
 ```mermaid
 xychart-beta
     title "egeorcun/lucida 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 173 --> 176
-    line [175, 174, 175, 175]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 173 --> 177
+    line [175, 174, 175, 176]
 ```
 
-2026-10-18 175 → 2026-10-30 175（+0）
+2026-10-18 175 → 2026-10-31 176（+1）
 
 
 ---

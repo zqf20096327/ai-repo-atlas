@@ -1,6 +1,6 @@
 # aiconnai/agentshield
 
-⭐ 21 · Rust · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/aiconnai/agentshield) · [官网](https://aiconnai.github.io/agentshield/) · 组织维护
+⭐ 21 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/aiconnai/agentshield) · [官网](https://aiconnai.github.io/agentshield/) · 组织维护
 
 **给 AI agent/MCP 开发团队的离线 Rust 安全扫描引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aiconnai/agentshield 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

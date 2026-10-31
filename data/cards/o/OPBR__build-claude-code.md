@@ -1,6 +1,6 @@
 # OPBR/build-claude-code
 
-⭐ 138 · TypeScript · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/OPBR/build-claude-code) · [官网](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3MDgxMjA2MA==&action=getalbum&album_id=4480744185632391171#wechat_redirect) · 个人维护 · 中文 README
+⭐ 139 · TypeScript · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/OPBR/build-claude-code) · [官网](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU3MDgxMjA2MA==&action=getalbum&album_id=4480744185632391171#wechat_redirect) · 个人维护 · 中文 README
 
 **用 TypeScript 从零构建 Claude Code 式编程代理的渐进教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "OPBR/build-claude-code 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 134 --> 139
-    line [135, 136, 137, 138, 138]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 134 --> 140
+    line [135, 136, 137, 138, 139]
 ```
 
-2026-10-18 135 → 2026-10-30 138（+3）
+2026-10-18 135 → 2026-10-31 139（+4）
 
 
 ---

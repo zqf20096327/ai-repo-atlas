@@ -1,6 +1,6 @@
 # OthmanAdi/langsmith-fetch-skill
 
-⭐ 28 · MIT · 推送 2026-04-06 · [GitHub](https://github.com/OthmanAdi/langsmith-fetch-skill) · 个人维护
+⭐ 27 · MIT · 推送 2026-04-06 · [GitHub](https://github.com/OthmanAdi/langsmith-fetch-skill) · 个人维护
 
 **Claude Code 技能：在终端拉取 LangSmith 追踪调试 LangChain/LangGraph agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OthmanAdi/langsmith-fetch-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

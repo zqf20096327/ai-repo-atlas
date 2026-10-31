@@ -1,6 +1,6 @@
 # canivel/dynolab
 
-⭐ 155 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/canivel/dynolab) · [官网](https://dynolab.dev) · 个人维护
+⭐ 155 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/canivel/dynolab) · [官网](https://dynolab.dev) · 个人维护
 
 **面向 Apple Silicon 的本地 AI 安全与可解释性研究工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "canivel/dynolab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 154 --> 164
     line [163, 161, 155, 155]
 ```
 
-2026-10-18 163 → 2026-10-30 155（-8）
+2026-10-18 163 → 2026-10-31 155（-8）
 
 
 ---

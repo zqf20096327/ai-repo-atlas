@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "tarunnegi196/100-Days-of-ML-Handwritten-Notes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "tarunnegi196/100-Days-of-ML-Handwritten-Notes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 42 --> 46
-    line [43, 44, 45]
+    line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-10-30 45（+2）
+2026-10-18 43 → 2026-10-31 45（+2）
 
 
 ---

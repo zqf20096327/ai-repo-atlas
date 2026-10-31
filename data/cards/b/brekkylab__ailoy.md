@@ -1,6 +1,6 @@
 # brekkylab/ailoy
 
-⭐ 156 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/brekkylab/ailoy) · [官网](https://brekkylab.github.io/ailoy/) · 组织维护
+⭐ 156 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/brekkylab/ailoy) · [官网](https://brekkylab.github.io/ailoy/) · 组织维护
 
 **给每个 AI agent 配 microVM 沙箱的 agent 构建库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brekkylab/ailoy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "brekkylab/ailoy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 153 --> 157
-    line [154, 155, 156]
+    line [154, 155, 156, 156]
 ```
 
-2026-10-18 154 → 2026-10-30 156（+2）
+2026-10-18 154 → 2026-10-31 156（+2）
 
 
 ---

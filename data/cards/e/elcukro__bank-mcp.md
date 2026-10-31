@@ -1,6 +1,6 @@
 # elcukro/bank-mcp
 
-⭐ 51 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/elcukro/bank-mcp) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/elcukro/bank-mcp) · 个人维护
 
 **让 AI 助手安全只读访问银行账户的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elcukro/bank-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-18 50 → 2026-10-30 51（+1）
+2026-10-18 50 → 2026-10-31 52（+2）
 
 
 ---

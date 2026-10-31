@@ -1,6 +1,6 @@
 # ainto-labs/ainto-app
 
-⭐ 31 · Swift · GPL-3.0 · 推送 2026-09-18 · [GitHub](https://github.com/ainto-labs/ainto-app) · [官网](https://ainto.app) · 组织维护 · 中文 README
+⭐ 32 · Swift · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ainto-labs/ainto-app) · [官网](https://ainto.app) · 组织维护 · 中文 README
 
 **macOS 原生启动器：应用搜索、剪贴板历史、文本扩展与内置 AI 命令**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ainto-labs/ainto-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

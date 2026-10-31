@@ -1,6 +1,6 @@
 # dusty-nv/jetson-containers
 
-⭐ 4,892 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dusty-nv/jetson-containers) · 个人维护
+⭐ 4,893 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/dusty-nv/jetson-containers) · 个人维护
 
 **给 Jetson 开发者的 AI/ML Docker 容器构建与运行工具集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dusty-nv/jetson-containers 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 4886 --> 4893
-    line [4887, 4888, 4890, 4891, 4892, 4892]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 4886 --> 4894
+    line [4887, 4888, 4890, 4891, 4892, 4893]
 ```
 
-2026-10-18 4,887 → 2026-10-30 4,892（+5）
+2026-10-18 4,887 → 2026-10-31 4,893（+6）
 
 
 ---

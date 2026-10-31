@@ -1,6 +1,6 @@
 # qsumm/TestOPS
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/qsumm/TestOPS) · 个人维护 · 中文 README
+⭐ 31 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/qsumm/TestOPS) · 个人维护 · 中文 README
 
 **开源自托管 AI 运维监控平台：告警收敛后 AI 带证据链诊断根因**
 
@@ -39,6 +39,18 @@
 
 > L123: 浏览器打开 `http://127.0.0.1:8848`，用日志里打印的管理员账号登录（**首登先改口令**）。此时平台在跑，但 **AI 功能还没有模型**——去「系统设置 → LLM 配置」填一个 OpenAI 兼容端点（
 > L45: **AI 诊断** — ReAct 多步自主排查（每步查什么由上一步结果决定，全程留痕可逐帧回放）· **结论必须引用证据**（每条带 step 引用，可点回原始取证）· 置信度三档（**查不出也是合法结论**）· not_che
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qsumm/TestOPS 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 27 --> 32
+    line [28, 31]
+```
+
+2026-10-30 28 → 2026-10-31 31（+3）
 
 
 ---

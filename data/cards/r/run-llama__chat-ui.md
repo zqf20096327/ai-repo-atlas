@@ -1,6 +1,6 @@
 # run-llama/chat-ui
 
-⭐ 598 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/run-llama/chat-ui) · [官网](https://ui.llamaindex.ai/) · 组织维护
+⭐ 597 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/run-llama/chat-ui) · [官网](https://ui.llamaindex.ai/) · 组织维护
 
 **为 LLM 应用开发者提供 React 聊天界面组件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "run-llama/chat-ui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
     y-axis "stars" 595 --> 599
-    line [596, 597, 598, 598]
+    line [596, 597, 598, 597]
 ```
 
-2026-10-18 596 → 2026-10-30 598（+2）
+2026-10-18 596 → 2026-10-31 597（+1）
 
 
 ---

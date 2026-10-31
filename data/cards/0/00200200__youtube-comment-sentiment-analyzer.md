@@ -46,12 +46,12 @@ Emotube 是实验性全栈 Web 应用：通过 YouTube Data API 拉取视频元�
 ```mermaid
 xychart-beta
     title "00200200/youtube-comment-sentiment-analyzer 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-29 39 → 2026-10-30 39（+0）
+2026-10-29 39 → 2026-10-31 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq
 
-⭐ 15 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq) · 组织维护
 
 **微软 Frontier Tour 实验：用 IQ 服务构建 agent 就绪知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
     y-axis "stars" 9 --> 16
     line [10, 12, 13, 15, 15]
 ```
 
-2026-10-22 10 → 2026-10-30 15（+5）
+2026-10-22 10 → 2026-10-31 15（+5）
 
 
 ---

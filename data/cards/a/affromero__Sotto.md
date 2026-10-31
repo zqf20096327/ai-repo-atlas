@@ -1,6 +1,6 @@
 # affromero/Sotto
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/affromero/Sotto) · 个人维护
+⭐ 28 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/affromero/Sotto) · 个人维护
 
 **自托管开源 AI 语言学习平台：围绕个人语境的 CEFR 课程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "affromero/Sotto 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 19 --> 28
-    line [20, 22, 23, 24, 25, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 19 --> 29
+    line [20, 22, 23, 24, 25, 27, 28]
 ```
 
-2026-10-18 20 → 2026-10-30 27（+7）
+2026-10-18 20 → 2026-10-31 28（+8）
 
 
 ---

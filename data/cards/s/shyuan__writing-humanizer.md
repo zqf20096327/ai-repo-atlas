@@ -1,6 +1,6 @@
 # shyuan/writing-humanizer
 
-⭐ 29 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/shyuan/writing-humanizer) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-06-21 · [GitHub](https://github.com/shyuan/writing-humanizer) · 个人维护 · 中文 README
 
 **去除中文文章 AI 寫作痕跡的 agent skill，供七種 CLI host 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shyuan/writing-humanizer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 26 --> 30
-    line [27, 28, 29]
+    title "shyuan/writing-humanizer 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 26 --> 31
+    line [27, 28, 29, 30]
 ```
 
-2026-10-18 27 → 2026-10-30 29（+2）
+2026-10-18 27 → 2026-10-31 30（+3）
 
 
 ---

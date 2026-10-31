@@ -45,13 +45,13 @@ ClearML Agent 是监听 ClearML 任务队列、拉取实验、构建执行环境
 
 ```mermaid
 xychart-beta
-    title "clearml/clearml-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "clearml/clearml-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 313 --> 316
-    line [314, 315]
+    line [314, 315, 315]
 ```
 
-2026-10-18 314 → 2026-10-30 315（+1）
+2026-10-18 314 → 2026-10-31 315（+1）
 
 
 ---

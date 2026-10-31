@@ -46,12 +46,12 @@ Udacity 自动驾驶汽车工程师纳米学位的 Advanced Lane Finding 课程�
 ```mermaid
 xychart-beta
     title "Ayanzadeh93/Udacity-Advance-Lane-detection-of-the-road 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-30 56（+0）
+2026-10-18 56 → 2026-10-31 56（+0）
 
 
 ---

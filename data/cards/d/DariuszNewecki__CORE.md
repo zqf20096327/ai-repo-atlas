@@ -1,6 +1,6 @@
 # DariuszNewecki/CORE
 
-⭐ 39 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DariuszNewecki/CORE) · [官网](https://dariusznewecki.github.io/CORE/) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/DariuszNewecki/CORE) · [官网](https://dariusznewecki.github.io/CORE/) · 个人维护
 
 **AI 辅助开发的宪法治理运行时：审计代码、人工批准变更**
 
@@ -46,12 +46,12 @@ CORE 是面向 AI 辅助软件开发的治理运行时：仓库内以 .intent/ �
 ```mermaid
 xychart-beta
     title "DariuszNewecki/CORE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

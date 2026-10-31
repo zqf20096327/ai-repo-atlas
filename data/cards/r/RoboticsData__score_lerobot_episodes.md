@@ -1,6 +1,6 @@
 # RoboticsData/score_lerobot_episodes
 
-⭐ 78 · Python · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/RoboticsData/score_lerobot_episodes) · 组织维护
+⭐ 79 · Python · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/RoboticsData/score_lerobot_episodes) · 组织维护
 
 **给机器人学习研究者的 LeRobot 数据集质量评分与过滤工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RoboticsData/score_lerobot_episodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 77 --> 80
+    line [78, 79]
 ```
 
-2026-10-18 78 → 2026-10-30 78（+0）
+2026-10-18 78 → 2026-10-31 79（+1）
 
 
 ---

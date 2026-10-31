@@ -1,6 +1,6 @@
 # pytorch/devlogs
 
-⭐ 22 · CSS · 推送 2026-09-30 · [GitHub](https://github.com/pytorch/devlogs) · [官网](https://docs.pytorch.org/devlogs/) · 组织维护
+⭐ 23 · CSS · 推送 2026-09-30 · [GitHub](https://github.com/pytorch/devlogs) · [官网](https://docs.pytorch.org/devlogs/) · 组织维护
 
 **PyTorch 开发者技术笔记库：可检索、机器可索引的开发文档**
 
@@ -46,12 +46,12 @@ PyTorch 官方开发者博客仓库，收录关于设计决策、性能分析与
 ```mermaid
 xychart-beta
     title "pytorch/devlogs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-10-31 23（+2）
 
 
 ---

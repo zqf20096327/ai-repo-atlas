@@ -44,12 +44,12 @@ Home Assistant 自定义组件，通过 HA 的 AI Task 平台 Generate Image 动
 ```mermaid
 xychart-beta
     title "Incipiens/ComfyUI-Home-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

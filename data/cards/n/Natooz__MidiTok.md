@@ -44,13 +44,13 @@ Python 库，将 MIDI 与 abc 文件转换为可输入 Transformer 等模型的 
 
 ```mermaid
 xychart-beta
-    title "Natooz/MidiTok 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Natooz/MidiTok 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 903 --> 907
-    line [904, 906]
+    line [904, 906, 906]
 ```
 
-2026-10-18 904 → 2026-10-30 906（+2）
+2026-10-18 904 → 2026-10-31 906（+2）
 
 
 ---

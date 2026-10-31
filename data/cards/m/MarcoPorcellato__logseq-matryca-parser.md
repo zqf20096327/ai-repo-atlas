@@ -1,6 +1,6 @@
 # MarcoPorcellato/logseq-matryca-parser
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MarcoPorcellato/logseq-matryca-parser) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/MarcoPorcellato/logseq-matryca-parser) · 组织维护
 
 **确定性 Logseq Markdown 解析库：保留父子层级供 RAG 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarcoPorcellato/logseq-matryca-parser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "MarcoPorcellato/logseq-matryca-parser 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 27 --> 30
-    line [28, 29]
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 29（+1）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

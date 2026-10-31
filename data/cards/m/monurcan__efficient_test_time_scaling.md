@@ -45,13 +45,13 @@ ICLR'26 论文 Efficient Test-Time Scaling for Small Vision-Language Models 的�
 
 ```mermaid
 xychart-beta
-    title "monurcan/efficient_test_time_scaling 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "monurcan/efficient_test_time_scaling 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 28 --> 31
-    line [29, 30]
+    line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-30 30（+1）
+2026-10-18 29 → 2026-10-31 30（+1）
 
 
 ---

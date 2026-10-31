@@ -1,6 +1,6 @@
 # IvanMurzak/Unity-AI-ParticleSystem
 
-⭐ 58 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-ParticleSystem) · [官网](https://ai-game.dev) · 个人维护
+⭐ 59 · C# · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IvanMurzak/Unity-AI-ParticleSystem) · [官网](https://ai-game.dev) · 个人维护
 
 **Unity 粒子系统 MCP 工具：让 AI 通过自然语言编辑粒子特效**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanMurzak/Unity-AI-ParticleSystem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 54 --> 59
-    line [55, 56, 58]
+    title "IvanMurzak/Unity-AI-ParticleSystem 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 54 --> 60
+    line [55, 56, 58, 59]
 ```
 
-2026-10-18 55 → 2026-10-30 58（+3）
+2026-10-18 55 → 2026-10-31 59（+4）
 
 
 ---

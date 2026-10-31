@@ -1,6 +1,6 @@
 # wisnuwiry/padu
 
-⭐ 19 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/wisnuwiry/padu) · [官网](https://padu.dev) · 个人维护
+⭐ 19 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/wisnuwiry/padu) · [官网](https://padu.dev) · 个人维护
 
 **本地 AI 编程 Agent 统一编排的原生桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wisnuwiry/padu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 18, 19, 19]
 ```
 
-2026-10-18 17 → 2026-10-30 19（+2）
+2026-10-18 17 → 2026-10-31 19（+2）
 
 
 ---

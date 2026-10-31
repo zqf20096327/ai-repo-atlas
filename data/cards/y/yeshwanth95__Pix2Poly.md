@@ -1,6 +1,6 @@
 # yeshwanth95/Pix2Poly
 
-⭐ 134 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/yeshwanth95/Pix2Poly) · 个人维护
+⭐ 135 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/yeshwanth95/Pix2Poly) · 个人维护
 
 **从遥感影像端到端提取建筑物多边形轮廓的深度学习模型**
 
@@ -45,12 +45,12 @@ WACV 2025 论文 Pix2Poly 的官方 PyTorch 实现：基于编码器-解码器 t
 ```mermaid
 xychart-beta
     title "yeshwanth95/Pix2Poly 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 131 --> 135
-    line [132, 133, 134, 134]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 131 --> 136
+    line [132, 133, 134, 135]
 ```
 
-2026-10-18 132 → 2026-10-30 134（+2）
+2026-10-18 132 → 2026-10-31 135（+3）
 
 
 ---

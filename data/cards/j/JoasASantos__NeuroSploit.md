@@ -1,6 +1,6 @@
 # JoasASantos/NeuroSploit
 
-⭐ 1,487 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JoasASantos/NeuroSploit) · [官网](https://neurosploitai.github.io/) · 组织维护
+⭐ 1,492 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/JoasASantos/NeuroSploit) · [官网](https://neurosploitai.github.io/) · 组织维护
 
 **面向授权测试的自主多模型渗透测试工具，Rust 驱动**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoasASantos/NeuroSploit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1457 --> 1489
-    line [1459, 1465, 1477, 1478, 1479, 1481, 1483, 1487]
+    title "JoasASantos/NeuroSploit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1456 --> 1495
+    line [1459, 1465, 1477, 1478, 1479, 1481, 1483, 1487, 1492]
 ```
 
-2026-10-18 1,459 → 2026-10-30 1,487（+28）
+2026-10-18 1,459 → 2026-10-31 1,492（+33）
 
 
 ---

@@ -44,12 +44,12 @@ FINOS 毕业项目，为 JupyterLab 提供笔记本模板功能的 server/lab �
 ```mermaid
 xychart-beta
     title "finos/jupyterlab_templates 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 412 --> 414
     line [413, 413]
 ```
 
-2026-10-18 413 → 2026-10-30 413（+0）
+2026-10-18 413 → 2026-10-31 413（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nikopueringer/CorridorKey2.0
 
-⭐ 1,867 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) · [官网](https://corridorkey.com) · 个人维护
+⭐ 1,900 · Python · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) · [官网](https://corridorkey.com) · 个人维护
 
 **面向绿幕/蓝幕抠像的 AI 视频 matte 生成工具，供 VFX 艺术家使用**
 
@@ -44,13 +44,13 @@ CorridorKey 2.0 是由 Zachary Harris 与 Corridor Digital 合作设计训练的
 
 ```mermaid
 xychart-beta
-    title "nikopueringer/CorridorKey2.0 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 0 --> 2049
-    line [47, 872, 1164, 1328, 1441, 1567, 1730, 1814, 1867]
+    title "nikopueringer/CorridorKey2.0 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 2085
+    line [47, 872, 1164, 1328, 1441, 1567, 1730, 1814, 1867, 1900]
 ```
 
-2026-10-22 47 → 2026-10-30 1,867（+1,820）
+2026-10-22 47 → 2026-10-31 1,900（+1,853）
 
 
 ---

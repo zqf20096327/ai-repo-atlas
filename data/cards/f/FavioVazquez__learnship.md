@@ -46,12 +46,12 @@ learnship 是一个安装在 AI 编程 agent（Claude Code、Cursor、Windsurf�
 ```mermaid
 xychart-beta
     title "FavioVazquez/learnship 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 60 --> 63
     line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-10-30 62（+1）
+2026-10-18 61 → 2026-10-31 62（+1）
 
 
 ---

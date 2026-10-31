@@ -1,6 +1,6 @@
 # FlaxXTT/Typeleast
 
-⭐ 33 · Swift · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/FlaxXTT/Typeleast) · [官网](https://typeleast.promptking.workers.dev) · 个人维护 · 中文 README
+⭐ 45 · Swift · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/FlaxXTT/Typeleast) · [官网](https://typeleast.promptking.workers.dev) · 个人维护 · 中文 README
 
 **桌面语音听写工具：本机识别语音，AI 整理后写入光标处**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlaxXTT/Typeleast 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 18 --> 34
-    line [20, 19, 32, 33]
+    title "FlaxXTT/Typeleast 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 17 --> 47
+    line [20, 19, 32, 33, 45]
 ```
 
-2026-10-26 20 → 2026-10-30 33（+13）
+2026-10-26 20 → 2026-10-31 45（+25）
 
 
 ---

@@ -1,6 +1,6 @@
 # mjrusso/wingman
 
-⭐ 44 · Emacs Lisp · GPL-3.0 · 推送 2026-05-22 · [GitHub](https://github.com/mjrusso/wingman) · 个人维护
+⭐ 45 · Emacs Lisp · GPL-3.0 · 推送 2026-05-22 · [GitHub](https://github.com/mjrusso/wingman) · 个人维护
 
 **给 Emacs 用户的 LLM 行内代码/文本补全包**
 
@@ -46,12 +46,12 @@ Emacs 次要模式包，提供 GitHub Copilot 风格的缓冲区内“幽灵文�
 ```mermaid
 xychart-beta
     title "mjrusso/wingman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 45（+1）
 
 
 ---

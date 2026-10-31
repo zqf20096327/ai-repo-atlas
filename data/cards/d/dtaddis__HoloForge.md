@@ -1,6 +1,6 @@
 # dtaddis/HoloForge
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dtaddis/HoloForge) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dtaddis/HoloForge) · 个人维护
 
 **本地将单张照片转为 Looking Glass 光场全息图的转换器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dtaddis/HoloForge 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 13 --> 23
-    line [14, 22]
+    title "dtaddis/HoloForge 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 13 --> 29
+    line [14, 22, 28]
 ```
 
-2026-10-29 14 → 2026-10-30 22（+8）
+2026-10-29 14 → 2026-10-31 28（+14）
 
 
 ---

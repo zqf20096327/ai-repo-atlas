@@ -1,6 +1,6 @@
 # kennethleungty/Finance-LLMs
 
-⭐ 144 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/kennethleungty/Finance-LLMs) · [官网](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd) · 个人维护
+⭐ 145 · MIT · 推送 2026-08-25 · [GitHub](https://github.com/kennethleungty/Finance-LLMs) · [官网](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd) · 个人维护
 
 **金融服务业 LLM 与 AI Agent 实际落地案例汇编清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kennethleungty/Finance-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 143 --> 146
+    line [144, 145]
 ```
 
-2026-10-18 144 → 2026-10-30 144（+0）
+2026-10-18 144 → 2026-10-31 145（+1）
 
 
 ---

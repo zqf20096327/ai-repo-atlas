@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdamPlatin123/Open-Deep-Research-workflow-on-Dify 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 319 --> 321
     line [320, 320]
 ```
 
-2026-10-18 320 → 2026-10-30 320（+0）
+2026-10-18 320 → 2026-10-31 320（+0）
 
 
 ---

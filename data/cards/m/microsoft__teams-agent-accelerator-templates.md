@@ -1,6 +1,6 @@
 # microsoft/teams-agent-accelerator-templates
 
-⭐ 95 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/teams-agent-accelerator-templates) · 组织维护
+⭐ 95 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/teams-agent-accelerator-templates) · 组织维护
 
 **微软 Teams 与各类 AI agent 范式集成的模板集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/teams-agent-accelerator-templates 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 93 --> 96
     line [94, 95, 95]
 ```
 
-2026-10-18 94 → 2026-10-30 95（+1）
+2026-10-18 94 → 2026-10-31 95（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xaboy/form-create-designer
 
-⭐ 2,377 · Vue · MIT · 推送 2026-09-16 · [GitHub](https://github.com/xaboy/form-create-designer) · [官网](https://view.form-create.com/) · 个人维护 · 中文 README
+⭐ 2,379 · Vue · MIT · 推送 2026-09-16 · [GitHub](https://github.com/xaboy/form-create-designer) · [官网](https://view.form-create.com/) · 个人维护 · 中文 README
 
 **Vue 低代码可视化表单设计器组件，含 AI 表单助理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xaboy/form-create-designer 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2368 --> 2378
-    line [2369, 2370, 2372, 2371, 2372, 2374, 2376, 2377]
+    title "xaboy/form-create-designer 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2368 --> 2380
+    line [2369, 2370, 2372, 2371, 2372, 2374, 2376, 2377, 2379]
 ```
 
-2026-10-18 2,369 → 2026-10-30 2,377（+8）
+2026-10-18 2,369 → 2026-10-31 2,379（+10）
 
 
 ---

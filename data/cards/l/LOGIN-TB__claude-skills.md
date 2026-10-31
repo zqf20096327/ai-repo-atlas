@@ -1,6 +1,6 @@
 # LOGIN-TB/claude-skills
 
-⭐ 80 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/LOGIN-TB/claude-skills) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/LOGIN-TB/claude-skills) · 组织维护
 
 **德语 Claude Agent Skills 集合：写作、邮件送达与 DACH 营销技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LOGIN-TB/claude-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-30 80（+0）
+2026-10-18 80 → 2026-10-31 80（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Vstorm 开发的开源 AI 调试分析工具：以 Chrome 扩展形式嵌入 Log
 ```mermaid
 xychart-beta
     title "vstorm-co/logfire-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

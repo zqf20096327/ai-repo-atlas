@@ -1,6 +1,6 @@
 # elixir-nx/axon
 
-⭐ 1,696 · Elixir · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/elixir-nx/axon) · 组织维护
+⭐ 1,697 · Elixir · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/elixir-nx/axon) · 组织维护
 
 **Elixir 语言神经网络库：基于 Nx 构建与训练深度学习模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elixir-nx/axon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1692 --> 1697
-    line [1693, 1694, 1696, 1696]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 1692 --> 1698
+    line [1693, 1694, 1696, 1697]
 ```
 
-2026-10-18 1,693 → 2026-10-30 1,696（+3）
+2026-10-18 1,693 → 2026-10-31 1,697（+4）
 
 
 ---

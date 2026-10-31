@@ -1,6 +1,6 @@
 # specstoryai/getspecstory
 
-⭐ 1,360 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/specstoryai/getspecstory) · [官网](https://specstory.com/) · 组织维护
+⭐ 1,363 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/specstoryai/getspecstory) · [官网](https://specstory.com/) · 组织维护
 
 **为 AI 编程助手保存、检索会话并生成可复用技能的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "specstoryai/getspecstory 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1354 --> 1361
-    line [1355, 1356, 1358, 1356, 1358, 1360, 1360]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1354 --> 1364
+    line [1355, 1356, 1358, 1356, 1358, 1360, 1363]
 ```
 
-2026-10-18 1,355 → 2026-10-30 1,360（+5）
+2026-10-18 1,355 → 2026-10-31 1,363（+8）
 
 
 ---

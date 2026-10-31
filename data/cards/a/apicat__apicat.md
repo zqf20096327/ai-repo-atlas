@@ -1,6 +1,6 @@
 # apicat/apicat
 
-⭐ 289 · Go · 推送 2026-10-29 · [GitHub](https://github.com/apicat/apicat) · [官网](https://apicat.ai) · 组织维护 · 中文 README
+⭐ 289 · Go · 推送 2026-10-30 · [GitHub](https://github.com/apicat/apicat) · [官网](https://apicat.ai) · 组织维护 · 中文 README
 
 **兼容 OpenAPI 的 API 文档管理工具，内置 LLM 生成能力**
 
@@ -43,13 +43,13 @@ ApiCat 是一个完全兼容 OpenAPI 规范的 API 文档管理工具，面向�
 
 ```mermaid
 xychart-beta
-    title "apicat/apicat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "apicat/apicat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 288 --> 291
-    line [290, 289]
+    line [290, 289, 289]
 ```
 
-2026-10-18 290 → 2026-10-30 289（-1）
+2026-10-18 290 → 2026-10-31 289（-1）
 
 
 ---

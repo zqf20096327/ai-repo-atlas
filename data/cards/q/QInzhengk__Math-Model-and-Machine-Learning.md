@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QInzhengk/Math-Model-and-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "QInzhengk/Math-Model-and-Machine-Learning 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 655 --> 659
-    line [656, 657, 658]
+    line [656, 657, 658, 658]
 ```
 
-2026-10-18 656 → 2026-10-30 658（+2）
+2026-10-18 656 → 2026-10-31 658（+2）
 
 
 ---

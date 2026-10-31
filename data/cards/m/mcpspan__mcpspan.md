@@ -1,6 +1,6 @@
 # mcpspan/mcpspan
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mcpspan/mcpspan) · [官网](https://mcpspan.com) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mcpspan/mcpspan) · [官网](https://mcpspan.com) · 组织维护
 
 **面向 MCP 服务器的自托管开源调用分析平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mcpspan/mcpspan 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31"]
     y-axis "stars" 18 --> 22
     line [19, 20, 21, 21]
 ```
 
-2026-10-22 19 → 2026-10-30 21（+2）
+2026-10-22 19 → 2026-10-31 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # devoidfury/hotdog
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/devoidfury/hotdog) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/devoidfury/hotdog) · 个人维护
 
 **零依赖的本地开源权重 AI agent 运行框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "devoidfury/hotdog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-10-31 23（+2）
 
 
 ---

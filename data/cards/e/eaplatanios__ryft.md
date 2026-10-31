@@ -1,6 +1,6 @@
 # eaplatanios/ryft
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/eaplatanios/ryft) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/eaplatanios/ryft) · 个人维护
 
 **Rust 的 ML 系统构建框架：追踪、自动微分与 JIT 编译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eaplatanios/ryft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

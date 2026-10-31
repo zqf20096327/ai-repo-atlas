@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArchieIndian/openclaw-superpowers 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "ArchieIndian/openclaw-superpowers 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 71 --> 75
-    line [72, 73, 74]
+    line [72, 73, 74, 74]
 ```
 
-2026-10-18 72 → 2026-10-30 74（+2）
+2026-10-18 72 → 2026-10-31 74（+2）
 
 
 ---

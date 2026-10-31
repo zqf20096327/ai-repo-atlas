@@ -1,6 +1,6 @@
 # AEON-7/Aeon-Bench-Pod
 
-⭐ 25 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/Aeon-Bench-Pod) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/AEON-7/Aeon-Bench-Pod) · 组织维护
 
 **本地 LLM 基准测试套件：自硬件评测并签名提交排行榜**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AEON-7/Aeon-Bench-Pod 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 24 --> 27
-    line [26, 25, 25]
+    line [26, 25, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 25（-1）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

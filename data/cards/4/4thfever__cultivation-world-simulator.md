@@ -1,6 +1,6 @@
 # 4thfever/cultivation-world-simulator
 
-⭐ 2,131 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/4thfever/cultivation-world-simulator) · 个人维护 · 中文 README
+⭐ 2,136 · Python · NOASSERTION · 推送 2026-08-16 · [GitHub](https://github.com/4thfever/cultivation-world-simulator) · 个人维护 · 中文 README
 
 **LLM 驱动全员 NPC 的修仙世界模拟器游戏**
 
@@ -45,13 +45,13 @@ AI 驱动的修仙世界模拟游戏：每个修士 NPC 是独立 LLM Agent，�
 
 ```mermaid
 xychart-beta
-    title "4thfever/cultivation-world-simulator 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2112 --> 2132
-    line [2113, 2115, 2117, 2120, 2121, 2124, 2126, 2128, 2130, 2131]
+    title "4thfever/cultivation-world-simulator 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2111 --> 2138
+    line [2113, 2115, 2117, 2120, 2121, 2124, 2126, 2128, 2130, 2131, 2136]
 ```
 
-2026-10-18 2,113 → 2026-10-30 2,131（+18）
+2026-10-18 2,113 → 2026-10-31 2,136（+23）
 
 
 ---

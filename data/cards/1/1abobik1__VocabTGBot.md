@@ -1,6 +1,6 @@
 # 1abobik1/VocabTGBot
 
-⭐ 34 · Python · 推送 2026-10-15 · [GitHub](https://github.com/1abobik1/VocabTGBot) · 个人维护
+⭐ 35 · Python · 推送 2026-10-15 · [GitHub](https://github.com/1abobik1/VocabTGBot) · 个人维护
 
 **免费 Telegram 英语背单词机器人，AI 生成例句与语音识别**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "1abobik1/VocabTGBot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 33 --> 40
-    line [36, 39, 34, 34]
+    line [36, 39, 34, 35]
 ```
 
-2026-10-18 36 → 2026-10-30 34（-2）
+2026-10-18 36 → 2026-10-31 35（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # designcomputer/mysql_mcp_server
 
-⭐ 1,403 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/designcomputer/mysql_mcp_server) · [官网](https://designcomputer.com) · 个人维护
+⭐ 1,405 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/designcomputer/mysql_mcp_server) · [官网](https://designcomputer.com) · 个人维护
 
 **让 AI 应用安全访问 MySQL 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "designcomputer/mysql_mcp_server 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1398 --> 1404
-    line [1399, 1400, 1402, 1403, 1402, 1403, 1403]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 1398 --> 1406
+    line [1399, 1400, 1402, 1403, 1402, 1403, 1405]
 ```
 
-2026-10-18 1,399 → 2026-10-30 1,403（+4）
+2026-10-18 1,399 → 2026-10-31 1,405（+6）
 
 
 ---

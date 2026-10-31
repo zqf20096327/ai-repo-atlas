@@ -1,6 +1,6 @@
 # Zsh123456-BOOP/stardew-together
 
-⭐ 194 · C# · 推送 2026-09-23 · [GitHub](https://github.com/Zsh123456-BOOP/stardew-together) · 组织维护 · 中文 README
+⭐ 195 · C# · 推送 2026-09-23 · [GitHub](https://github.com/Zsh123456-BOOP/stardew-together) · 组织维护 · 中文 README
 
 **星露谷物玩 AI Agent：自主经营农场并推进任务与全成就**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zsh123456-BOOP/stardew-together 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "Zsh123456-BOOP/stardew-together 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 189 --> 207
-    line [205, 206, 190, 191, 192, 194]
+    line [205, 206, 190, 191, 192, 194, 195]
 ```
 
-2026-10-18 205 → 2026-10-30 194（-11）
+2026-10-18 205 → 2026-10-31 195（-10）
 
 
 ---

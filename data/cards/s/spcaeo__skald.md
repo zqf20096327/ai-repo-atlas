@@ -1,6 +1,6 @@
 # spcaeo/skald
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/spcaeo/skald) · [官网](https://skaldanalytics.com) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/spcaeo/skald) · [官网](https://skaldanalytics.com) · 组织维护
 
 **基于服务器访问日志的自托管网站分析与安全监控工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spcaeo/skald 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 15 --> 22
-    line [16, 18, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 15 --> 23
+    line [16, 18, 19, 20, 21, 22]
 ```
 
-2026-10-18 16 → 2026-10-30 21（+5）
+2026-10-18 16 → 2026-10-31 22（+6）
 
 
 ---

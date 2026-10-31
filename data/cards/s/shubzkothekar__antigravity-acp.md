@@ -1,6 +1,6 @@
 # shubzkothekar/antigravity-acp
 
-⭐ 84 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/shubzkothekar/antigravity-acp) · 个人维护
+⭐ 85 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/shubzkothekar/antigravity-acp) · 个人维护
 
 **让 ACP 兼容编辑器驱动 Google Antigravity `agy` CLI 的协议服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "shubzkothekar/antigravity-acp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 81 --> 85
-    line [82, 83, 82, 83, 84]
+    title "shubzkothekar/antigravity-acp 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 81 --> 86
+    line [82, 83, 82, 83, 84, 85]
 ```
 
-2026-10-18 82 → 2026-10-30 84（+2）
+2026-10-18 82 → 2026-10-31 85（+3）
 
 
 ---

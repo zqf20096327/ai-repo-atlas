@@ -1,6 +1,6 @@
 # CodefyUI/CodefyUI
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/CodefyUI/CodefyUI) · [官网](http://docs.codefyui.com/) · 组织维护 · 中文 README
+⭐ 18 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/CodefyUI/CodefyUI) · [官网](http://docs.codefyui.com/) · 组织维护 · 中文 README
 
 **面向教育的可视化深度学习流水线搭建器：拖拽节点构建网络**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CodefyUI/CodefyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

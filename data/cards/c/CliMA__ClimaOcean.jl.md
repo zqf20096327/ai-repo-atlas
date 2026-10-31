@@ -1,6 +1,6 @@
 # CliMA/ClimaOcean.jl
 
-⭐ 66 · Julia · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/CliMA/ClimaOcean.jl) · [官网](https://clima.github.io/ClimaOceanDocumentation/stable/) · 组织维护
+⭐ 66 · Julia · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/CliMA/ClimaOcean.jl) · [官网](https://clima.github.io/ClimaOceanDocumentation/stable/) · 组织维护
 
 **给气候研究者的区域到全球海洋与海冰耦合模拟框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CliMA/ClimaOcean.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-30 66（+0）
+2026-10-18 66 → 2026-10-31 66（+0）
 
 
 ---

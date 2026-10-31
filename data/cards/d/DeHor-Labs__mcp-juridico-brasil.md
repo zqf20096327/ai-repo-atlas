@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DeHor-Labs/mcp-juridico-brasil 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    title "DeHor-Labs/mcp-juridico-brasil 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 120 --> 124
-    line [121, 123]
+    line [121, 123, 123]
 ```
 
-2026-10-29 121 → 2026-10-30 123（+2）
+2026-10-29 121 → 2026-10-31 123（+2）
 
 
 ---

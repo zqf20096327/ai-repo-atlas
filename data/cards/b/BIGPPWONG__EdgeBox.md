@@ -1,6 +1,6 @@
 # BIGPPWONG/EdgeBox
 
-⭐ 211 · TypeScript · GPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/BIGPPWONG/EdgeBox) · 个人维护 · 中文 README
+⭐ 212 · TypeScript · GPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/BIGPPWONG/EdgeBox) · 个人维护 · 中文 README
 
 **本地运行的 LLM Agent 桌面沙箱：GUI+CLI，MCP 协议全支持**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BIGPPWONG/EdgeBox 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 210 --> 213
-    line [212, 211, 211]
+    line [212, 211, 212]
 ```
 
-2026-10-18 212 → 2026-10-30 211（-1）
+2026-10-18 212 → 2026-10-31 212（+0）
 
 
 ---

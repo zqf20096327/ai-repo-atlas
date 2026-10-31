@@ -45,12 +45,12 @@ Python 编写的本地桌面工具，基于 Tkinter 构建 GUI。用户输入自
 ```mermaid
 xychart-beta
     title "SagarBiswas-MultiHAT/BlackHAT-AI-Assistant 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 20 --> 31
     line [30, 21, 21]
 ```
 
-2026-10-18 30 → 2026-10-30 21（-9）
+2026-10-18 30 → 2026-10-31 21（-9）
 
 
 ---

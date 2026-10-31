@@ -1,6 +1,6 @@
 # blazickjp/arxiv-mcp-server
 
-⭐ 3,239 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blazickjp/arxiv-mcp-server) · [官网](https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server) · 个人维护
+⭐ 3,244 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blazickjp/arxiv-mcp-server) · [官网](https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server) · 个人维护
 
 **本地 MCP 服务器：为 agent 提供 arXiv 文献阅读与引文工作流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "blazickjp/arxiv-mcp-server 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3221 --> 3240
-    line [3222, 3224, 3228, 3229, 3230, 3231, 3232, 3235, 3236, 3238, 3239]
+    title "blazickjp/arxiv-mcp-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3220 --> 3246
+    line [3222, 3224, 3228, 3229, 3230, 3231, 3232, 3235, 3236, 3238, 3239, 3244]
 ```
 
-2026-10-18 3,222 → 2026-10-30 3,239（+17）
+2026-10-18 3,222 → 2026-10-31 3,244（+22）
 
 
 ---

@@ -46,12 +46,12 @@ thingctx 读取 W3C WoT Thing Description（JSON 文件，可从 OpenAPI 3.x 编
 ```mermaid
 xychart-beta
     title "thingctx/thingctx 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

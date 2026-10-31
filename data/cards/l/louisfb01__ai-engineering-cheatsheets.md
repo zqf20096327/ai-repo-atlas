@@ -1,6 +1,6 @@
 # louisfb01/ai-engineering-cheatsheets
 
-⭐ 358 · 推送 2026-10-21 · [GitHub](https://github.com/louisfb01/ai-engineering-cheatsheets) · [官网](https://academy.towardsai.net/?ref=1f9b29) · 个人维护
+⭐ 359 · 推送 2026-10-21 · [GitHub](https://github.com/louisfb01/ai-engineering-cheatsheets) · [官网](https://academy.towardsai.net/?ref=1f9b29) · 个人维护
 
 **AI 工程常见问题的决策参考速查表合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "louisfb01/ai-engineering-cheatsheets 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 353 --> 359
-    line [354, 355, 356, 357, 358]
+    title "louisfb01/ai-engineering-cheatsheets 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 353 --> 360
+    line [354, 355, 356, 357, 358, 359]
 ```
 
-2026-10-18 354 → 2026-10-30 358（+4）
+2026-10-18 354 → 2026-10-31 359（+5）
 
 
 ---

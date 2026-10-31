@@ -1,6 +1,6 @@
 # lizhiyao/oh-my-knowledge
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lizhiyao/oh-my-knowledge) · [官网](https://oh-my-knowledge.pages.dev) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lizhiyao/oh-my-knowledge) · [官网](https://oh-my-knowledge.pages.dev) · 个人维护 · 中文 README
 
 **面向 agent 用户与 AI 应用开发者的评测与知识维护工具**
 
@@ -46,12 +46,12 @@ OMK 以 npm CLI 与本地 Studio 形式提供：从真实工作记录（如 Code
 ```mermaid
 xychart-beta
     title "lizhiyao/oh-my-knowledge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

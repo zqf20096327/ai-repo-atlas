@@ -1,6 +1,6 @@
 # ainoya/chrome-extension-web-distiller-ai
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ainoya/chrome-extension-web-distiller-ai) · [官网](https://chromewebstore.google.com/detail/web-distiller-ai/ooaogogbdciochplilffdihffdijakfk) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ainoya/chrome-extension-web-distiller-ai) · [官网](https://chromewebstore.google.com/detail/web-distiller-ai/ooaogogbdciochplilffdihffdijakfk) · 个人维护
 
 **用 Chrome 内置 Gemini Nano 网页摘要的浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ainoya/chrome-extension-web-distiller-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

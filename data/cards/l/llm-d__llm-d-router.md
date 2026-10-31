@@ -1,6 +1,6 @@
 # llm-d/llm-d-router
 
-⭐ 435 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/llm-d/llm-d-router) · [官网](https://llm-d.ai/docs/architecture/core/router) · 组织维护
+⭐ 437 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/llm-d/llm-d-router) · [官网](https://llm-d.ai/docs/architecture/core/router) · 组织维护
 
 **Kubernetes 上的 LLM 推理流量智能路由网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "llm-d/llm-d-router 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 417 --> 436
-    line [418, 422, 428, 430, 431, 432, 433, 435]
+    title "llm-d/llm-d-router 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 417 --> 438
+    line [418, 422, 428, 430, 431, 432, 433, 435, 437]
 ```
 
-2026-10-18 418 → 2026-10-30 435（+17）
+2026-10-18 418 → 2026-10-31 437（+19）
 
 
 ---

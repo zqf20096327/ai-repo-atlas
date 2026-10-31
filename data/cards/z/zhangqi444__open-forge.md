@@ -1,6 +1,6 @@
 # zhangqi444/open-forge
 
-⭐ 97 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/zhangqi444/open-forge) · 个人维护
+⭐ 98 · Shell · MIT · 推送 2026-06-03 · [GitHub](https://github.com/zhangqi444/open-forge) · 个人维护
 
 **让 AI 编程助手自托管开源应用的技能与配方库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhangqi444/open-forge 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 95 --> 98
-    line [97, 96, 97, 97]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 95 --> 99
+    line [97, 96, 97, 98]
 ```
 
-2026-10-18 97 → 2026-10-30 97（+0）
+2026-10-18 97 → 2026-10-31 98（+1）
 
 
 ---

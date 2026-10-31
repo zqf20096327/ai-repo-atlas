@@ -1,6 +1,6 @@
 # mxliu/ACTION-Software
 
-⭐ 28 · Python · 推送 2025-11-03 · [GitHub](https://github.com/mxliu/ACTION-Software) · [官网](https://mingxia.web.unc.edu/action/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **脑科研者用的 fMRI 分析工具箱：数据增强、脑网络构建与 AI 建模**
 

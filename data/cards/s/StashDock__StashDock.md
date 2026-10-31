@@ -1,6 +1,6 @@
 # StashDock/StashDock
 
-⭐ 51 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
+⭐ 59 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
 
 **本地优先的个人上下文库：收集、组织并在 AI 对话中复用资料**
 
@@ -39,6 +39,18 @@
 
 > L7:  An AI-native, local personal context library.
 > L44: Through MCP and its included skill, StashDock gives AI a useful role on both
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "StashDock/StashDock 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 50 --> 60
+    line [51, 59]
+```
+
+2026-10-30 51 → 2026-10-31 59（+8）
 
 
 ---

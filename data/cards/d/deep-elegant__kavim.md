@@ -1,6 +1,6 @@
 # deep-elegant/kavim
 
-⭐ 43 · TypeScript · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/deep-elegant/kavim) · [官网](https://kavim.deepelegant.com/) · 组织维护
+⭐ 44 · TypeScript · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/deep-elegant/kavim) · [官网](https://kavim.deepelegant.com/) · 组织维护
 
 **本地优先的私密多人实时头脑风暴画布，可接入自有 AI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deep-elegant/kavim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

@@ -42,13 +42,13 @@ AstrBot 机器人框架的插件合集仓库，原用于聚合社区插件。REA
 
 ```mermaid
 xychart-beta
-    title "AstrBotDevs/AstrBot_Plugins_Collection 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    title "AstrBotDevs/AstrBot_Plugins_Collection 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 117 --> 122
-    line [118, 119, 120, 121]
+    line [118, 119, 120, 121, 121]
 ```
 
-2026-10-18 118 → 2026-10-30 121（+3）
+2026-10-18 118 → 2026-10-31 121（+3）
 
 
 ---

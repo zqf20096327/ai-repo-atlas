@@ -1,6 +1,6 @@
 # lemayian23/tuk-convosearch
 
-⭐ 19 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lemayian23/tuk-convosearch) · [官网](https://lemayian.com) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/lemayian23/tuk-convosearch) · [官网](https://lemayian.com) · 个人维护
 
 **面向肯尼亚理工大学学生的本地化 RAG 问答平台**
 
@@ -46,12 +46,12 @@ FastAPI 服务 + React 学生界面 + 管理面板，基于官方 TU-K 文档（
 ```mermaid
 xychart-beta
     title "lemayian23/tuk-convosearch 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 18 --> 24
-    line [23, 22, 23, 21, 19, 19]
+    line [23, 22, 23, 21, 19, 20]
 ```
 
-2026-10-22 23 → 2026-10-30 19（-4）
+2026-10-22 23 → 2026-10-31 20（-3）
 
 
 ---

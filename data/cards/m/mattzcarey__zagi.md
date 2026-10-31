@@ -1,6 +1,6 @@
 # mattzcarey/zagi
 
-⭐ 289 · Zig · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/mattzcarey/zagi) · [官网](https://zagi.sh) · 个人维护
+⭐ 288 · Zig · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/mattzcarey/zagi) · [官网](https://zagi.sh) · 个人维护
 
 **面向 AI agent 的 git 命令行替代品，输出精简省 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mattzcarey/zagi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 288 --> 290
-    line [289, 289]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 287 --> 290
+    line [289, 288]
 ```
 
-2026-10-18 289 → 2026-10-30 289（+0）
+2026-10-18 289 → 2026-10-31 288（-1）
 
 
 ---

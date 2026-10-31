@@ -44,13 +44,13 @@ pi 的扩展，在 agent 会话内通过 /diff、/view 命令打开 diff 审查�
 
 ```mermaid
 xychart-beta
-    title "cmpadden/pi-diff-review 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "cmpadden/pi-diff-review 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 16 --> 19
-    line [17, 18]
+    line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 18（+1）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

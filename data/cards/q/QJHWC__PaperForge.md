@@ -1,6 +1,6 @@
 # QJHWC/PaperForge
 
-⭐ 638 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/QJHWC/PaperForge) · 个人维护 · 中文 README
+⭐ 637 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/QJHWC/PaperForge) · 个人维护 · 中文 README
 
 **以证据为中心的端到端 AI 论文写作与实验系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QJHWC/PaperForge 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "QJHWC/PaperForge 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 635 --> 640
-    line [636, 637, 638, 639, 638, 639, 638]
+    line [636, 637, 638, 639, 638, 639, 638, 637]
 ```
 
-2026-10-18 636 → 2026-10-30 638（+2）
+2026-10-18 636 → 2026-10-31 637（+1）
 
 
 ---

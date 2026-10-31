@@ -1,6 +1,6 @@
 # kevins981/Socratic
 
-⭐ 81 · JavaScript · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/kevins981/Socratic) · 个人维护
+⭐ 83 · JavaScript · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/kevins981/Socratic) · 个人维护
 
 **让专家通过人机交互构建垂直领域知识库的 KnowledgeOps 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kevins981/Socratic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 80 --> 84
+    line [81, 83]
 ```
 
-2026-10-18 81 → 2026-10-30 81（+0）
+2026-10-18 81 → 2026-10-31 83（+2）
 
 
 ---

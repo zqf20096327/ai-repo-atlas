@@ -1,6 +1,6 @@
 # subodhkc/llmverify-npm
 
-⭐ 18 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/subodhkc/llmverify-npm) · [官网](https://www.npmjs.com/package/llmverify) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/subodhkc/llmverify-npm) · [官网](https://www.npmjs.com/package/llmverify) · 个人维护
 
 **LLM 应用运行时安全校验库：幻觉风险/PII/注入/漂移检测**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "subodhkc/llmverify-npm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 19（+1）
 
 
 ---

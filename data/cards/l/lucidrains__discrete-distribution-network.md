@@ -45,12 +45,12 @@ lucidrains 对 Lei Yang（北京）提出的 Discrete Distribution Network 的�
 ```mermaid
 xychart-beta
     title "lucidrains/discrete-distribution-network 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

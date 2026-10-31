@@ -1,6 +1,6 @@
 # hotchpotch/bekko-system-one
 
-⭐ 37 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/hotchpotch/bekko-system-one) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/hotchpotch/bekko-system-one) · 个人维护
 
 **17M–400M 小型决策模型套件：选择/判否/打分/重排及训练工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hotchpotch/bekko-system-one 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-30"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-19", "2026-10-31"]
+    y-axis "stars" 36 --> 40
+    line [37, 39]
 ```
 
-2026-10-19 37 → 2026-10-30 37（+0）
+2026-10-19 37 → 2026-10-31 39（+2）
 
 
 ---

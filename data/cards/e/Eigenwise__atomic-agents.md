@@ -1,6 +1,6 @@
 # Eigenwise/atomic-agents
 
-⭐ 6,312 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Eigenwise/atomic-agents) · [官网](https://eigenwise.github.io/atomic-agents/) · 组织维护
+⭐ 6,314 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Eigenwise/atomic-agents) · [官网](https://eigenwise.github.io/atomic-agents/) · 组织维护
 
 **面向开发者的轻量模块化 Python Agent 构建框架**
 
@@ -45,13 +45,13 @@ Atomic Agents 是一个基于 Instructor 与 Pydantic 的 Python 框架，以原
 
 ```mermaid
 xychart-beta
-    title "Eigenwise/atomic-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 6286 --> 6314
-    line [6288, 6289, 6294, 6303, 6308, 6309, 6311, 6312]
+    title "Eigenwise/atomic-agents 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 6286 --> 6316
+    line [6288, 6289, 6294, 6303, 6308, 6309, 6311, 6312, 6314]
 ```
 
-2026-10-18 6,288 → 2026-10-30 6,312（+24）
+2026-10-18 6,288 → 2026-10-31 6,314（+26）
 
 
 ---

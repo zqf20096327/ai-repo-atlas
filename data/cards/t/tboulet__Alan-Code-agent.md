@@ -1,6 +1,6 @@
 # tboulet/Alan-Code-agent
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tboulet/Alan-Code-agent) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tboulet/Alan-Code-agent) · 个人维护
 
 **开源 Python 编码 agent，类 Claude Code，支持本地模型**
 
@@ -40,6 +40,18 @@ Alan Code 是用 Python 实现的终端编码 agent，功能含异步 agent 循�
 > L11: An open-source python coding agent, inspired by Claude Code. Usable in CLI, GUI, or as a Python library to build up
 > L26: - **Broad model support** - Anthropic direct, any LiteLLM backend (OpenAI, OpenRouter, Gemini, ...), or local model
 > L120: Alan Code can also be used as a Python library using the `AlanCodeAgent` class, allowing you to build agents or or
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tboulet/Alan-Code-agent 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-10-30 25 → 2026-10-31 25（+0）
 
 
 ---

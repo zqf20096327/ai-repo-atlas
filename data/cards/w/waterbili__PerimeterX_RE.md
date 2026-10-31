@@ -1,6 +1,6 @@
 # waterbili/PerimeterX_RE
 
-⭐ 18 · JavaScript · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/waterbili/PerimeterX_RE) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/waterbili/PerimeterX_RE) · 个人维护 · 中文 README
 
 **PerimeterX 反爬 SDK 的纯算法逆向重建，生成 _px3/_px2 cookie**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waterbili/PerimeterX_RE 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 10 --> 19
-    line [12, 11, 12, 13, 15, 17, 18]
+    title "waterbili/PerimeterX_RE 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 20
+    line [12, 11, 12, 13, 15, 17, 18, 19]
 ```
 
-2026-10-19 12 → 2026-10-30 18（+6）
+2026-10-19 12 → 2026-10-31 19（+7）
 
 
 ---

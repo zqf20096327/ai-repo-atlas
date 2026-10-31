@@ -1,6 +1,6 @@
 # Mnemosyne-OS/Mnemosyne-Neural-OS
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS) · [官网](https://mnemosyne-os.io) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Mnemosyne-OS/Mnemosyne-Neural-OS) · [官网](https://mnemosyne-os.io) · 组织维护
 
 **本地优先的 AI 记忆操作系统：统一管理文件与对话形成可检索记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mnemosyne-OS/Mnemosyne-Neural-OS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Priyanshu-byte-coder/contextrot
 
-⭐ 86 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Priyanshu-byte-coder/contextrot) · [官网](https://priyanshu-byte-coder.github.io/contextrot/) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Priyanshu-byte-coder/contextrot) · [官网](https://priyanshu-byte-coder.github.io/contextrot/) · 个人维护
 
 **本地分析 coding agent 会话日志，检测上下文退化趋势**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Priyanshu-byte-coder/contextrot 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 62 --> 88
-    line [64, 66, 72, 75, 77, 81, 82, 86, 86]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 62 --> 93
+    line [64, 66, 72, 75, 77, 81, 82, 86, 91]
 ```
 
-2026-10-18 64 → 2026-10-30 86（+22）
+2026-10-18 64 → 2026-10-31 91（+27）
 
 
 ---

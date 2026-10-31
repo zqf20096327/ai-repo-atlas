@@ -45,12 +45,12 @@ ICML 2025 论文 Time-Aware World Model 的官方代码：一种模型无关的�
 ```mermaid
 xychart-beta
     title "anh-nn01/Time-Aware-World-Model 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

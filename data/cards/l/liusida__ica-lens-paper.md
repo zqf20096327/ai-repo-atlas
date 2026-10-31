@@ -1,6 +1,6 @@
 # liusida/ica-lens-paper
 
-⭐ 57 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liusida/ica-lens-paper) · [官网](https://liusida.github.io/ica-lens-paper/) · 组织维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liusida/ica-lens-paper) · [官网](https://liusida.github.io/ica-lens-paper/) · 组织维护 · 中文 README
 
 **用 ICA 解释语言模型激活的可解释性工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liusida/ica-lens-paper 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 46 --> 58
-    line [47, 52, 54, 55, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 46 --> 59
+    line [47, 52, 54, 55, 56, 57, 58]
 ```
 
-2026-10-18 47 → 2026-10-30 57（+10）
+2026-10-18 47 → 2026-10-31 58（+11）
 
 
 ---

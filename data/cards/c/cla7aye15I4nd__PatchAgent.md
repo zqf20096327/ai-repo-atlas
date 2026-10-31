@@ -1,6 +1,6 @@
 # cla7aye15I4nd/PatchAgent
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/cla7aye15I4nd/PatchAgent) · [官网](https://www.dataisland.org/patchagent) · 组织维护
+⭐ 126 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/cla7aye15I4nd/PatchAgent) · [官网](https://www.dataisland.org/patchagent) · 组织维护
 
 **面向真实漏洞的 LLM 自动程序修复 agent（USENIX Sec 25）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cla7aye15I4nd/PatchAgent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
     y-axis "stars" 124 --> 128
-    line [127, 126, 125, 125]
+    line [127, 126, 125, 126]
 ```
 
-2026-10-18 127 → 2026-10-30 125（-2）
+2026-10-18 127 → 2026-10-31 126（-1）
 
 
 ---

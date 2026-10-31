@@ -1,6 +1,6 @@
 # xunbu/docutranslate
 
-⭐ 1,351 · Python · MPL-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/xunbu/docutranslate) · 个人维护 · 中文 README
+⭐ 1,353 · Python · MPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/xunbu/docutranslate) · 个人维护 · 中文 README
 
 **基于 LLM 的本地文档翻译工具：pdf/word/excel/字幕等格式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xunbu/docutranslate 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1341 --> 1352
-    line [1342, 1344, 1345, 1346, 1348, 1349, 1351]
+    title "xunbu/docutranslate 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1341 --> 1354
+    line [1342, 1344, 1345, 1346, 1348, 1349, 1351, 1353]
 ```
 
-2026-10-18 1,342 → 2026-10-30 1,351（+9）
+2026-10-18 1,342 → 2026-10-31 1,353（+11）
 
 
 ---

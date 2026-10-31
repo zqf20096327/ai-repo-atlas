@@ -1,6 +1,6 @@
 # feimacode/open-design-agent-kit
 
-⭐ 418 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/feimacode/open-design-agent-kit) · [官网](https://marketplace.visualstudio.com/items?itemName=feima.open-design-agent-kit) · 组织维护 · 中文 README
+⭐ 544 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/feimacode/open-design-agent-kit) · [官网](https://marketplace.visualstudio.com/items?itemName=feima.open-design-agent-kit) · 组织维护 · 中文 README
 
 **给编码 agent 注入专业 UI 设计能力的技能包与 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "feimacode/open-design-agent-kit 星数(近 5 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 0 --> 459
-    line [3, 4, 8, 182, 418]
+    title "feimacode/open-design-agent-kit 星数(近 6 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 598
+    line [3, 4, 8, 182, 418, 544]
 ```
 
-2026-10-19 3 → 2026-10-30 418（+415）
+2026-10-19 3 → 2026-10-31 544（+541）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fly143/ultimate-novel-creation-skill
 
-⭐ 53 · PowerShell · 推送 2026-10-22 · [GitHub](https://github.com/Fly143/ultimate-novel-creation-skill) · 个人维护 · 中文 README
+⭐ 56 · PowerShell · 推送 2026-10-30 · [GitHub](https://github.com/Fly143/ultimate-novel-creation-skill) · 个人维护 · 中文 README
 
 **AI Agent 长篇小说创作技能包：从立项到千章完稿全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fly143/ultimate-novel-creation-skill 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 49 --> 54
-    line [51, 50, 51, 52, 53]
+    title "Fly143/ultimate-novel-creation-skill 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 49 --> 57
+    line [51, 50, 51, 52, 53, 56]
 ```
 
-2026-10-23 51 → 2026-10-30 53（+2）
+2026-10-23 51 → 2026-10-31 56（+5）
 
 
 ---

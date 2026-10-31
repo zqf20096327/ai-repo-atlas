@@ -1,6 +1,6 @@
 # huggingface/lerobot-humanoid
 
-⭐ 264 · 推送 2026-08-10 · [GitHub](https://github.com/huggingface/lerobot-humanoid) · 个人维护
+⭐ 265 · 推送 2026-08-10 · [GitHub](https://github.com/huggingface/lerobot-humanoid) · 个人维护
 
 **低成本开源人形机器人全流程工作区：设计到部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/lerobot-humanoid 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 258 --> 265
-    line [259, 261, 262, 263, 264, 264]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 258 --> 266
+    line [259, 261, 262, 263, 264, 265]
 ```
 
-2026-10-18 259 → 2026-10-30 264（+5）
+2026-10-18 259 → 2026-10-31 265（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # talhapythoneer/anti-sycophancy-prompt
 
-⭐ 20 · MIT · 推送 2026-09-16 · [GitHub](https://github.com/talhapythoneer/anti-sycophancy-prompt) · 个人维护
+⭐ 21 · MIT · 推送 2026-09-16 · [GitHub](https://github.com/talhapythoneer/anti-sycophancy-prompt) · 个人维护
 
 **抑制 AI 谄媚行为的系统提示词，附 42 条来源文献**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "talhapythoneer/anti-sycophancy-prompt 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 18, 19, 20, 21]
 ```
 
-2026-10-18 15 → 2026-10-30 20（+5）
+2026-10-18 15 → 2026-10-31 21（+6）
 
 
 ---

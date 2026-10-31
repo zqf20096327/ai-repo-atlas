@@ -1,6 +1,6 @@
 # arcadelab/deepdrr
 
-⭐ 283 · Python · GPL-3.0 · 推送 2026-01-07 · [GitHub](https://github.com/arcadelab/deepdrr) · 组织维护
+⭐ 284 · Python · GPL-3.0 · 推送 2026-01-07 · [GitHub](https://github.com/arcadelab/deepdrr) · 组织维护
 
 **从 CT 与网格仿真 X 光影像（DRR）的 GPU 框架，供合成训练数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arcadelab/deepdrr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 282 --> 284
-    line [283, 283]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 282 --> 285
+    line [283, 284]
 ```
 
-2026-10-18 283 → 2026-10-30 283（+0）
+2026-10-18 283 → 2026-10-31 284（+1）
 
 
 ---

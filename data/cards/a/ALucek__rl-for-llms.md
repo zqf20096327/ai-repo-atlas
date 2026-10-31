@@ -1,6 +1,6 @@
 # ALucek/rl-for-llms
 
-⭐ 23 · Jupyter Notebook · 推送 2025-11-03 · [GitHub](https://github.com/ALucek/rl-for-llms) · [官网](https://lucek.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 LLM 后训练的强化学习（RLVR）教程笔记本**
 

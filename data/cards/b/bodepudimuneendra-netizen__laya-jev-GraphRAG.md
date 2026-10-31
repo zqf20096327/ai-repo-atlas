@@ -1,6 +1,6 @@
 # bodepudimuneendra-netizen/laya-jev-GraphRAG
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) · 个人维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) · 个人维护
 
 **数据库无关的 Agentic GraphRAG 框架，可切换本地/云决策模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bodepudimuneendra-netizen/laya-jev-GraphRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 50 --> 54
+    line [51, 53]
 ```
 
-2026-10-18 51 → 2026-10-30 51（+0）
+2026-10-18 51 → 2026-10-31 53（+2）
 
 
 ---

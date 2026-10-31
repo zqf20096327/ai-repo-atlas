@@ -1,6 +1,6 @@
 # Sev7eEn7/dsh-sieve
 
-⭐ 106 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Sev7eEn7/dsh-sieve) · [官网](https://www.npmjs.com/package/dsh-sieve) · 个人维护 · 中文 README
+⭐ 108 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Sev7eEn7/dsh-sieve) · [官网](https://www.npmjs.com/package/dsh-sieve) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的上下文工程与 token 优化插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sev7eEn7/dsh-sieve 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 102 --> 111
-    line [110, 109, 110, 103, 104, 105, 106, 106]
+    line [110, 109, 110, 103, 104, 105, 106, 108]
 ```
 
-2026-10-18 110 → 2026-10-30 106（-4）
+2026-10-18 110 → 2026-10-31 108（-2）
 
 
 ---

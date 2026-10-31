@@ -1,6 +1,6 @@
 # SonderSaid/ComfyUI-Sonder-Editor
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-10-14 · [GitHub](https://github.com/SonderSaid/ComfyUI-Sonder-Editor) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/SonderSaid/ComfyUI-Sonder-Editor) · 个人维护
 
 **ComfyUI 的时间线视频编辑器自定义节点，支持长视频迭代生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SonderSaid/ComfyUI-Sonder-Editor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

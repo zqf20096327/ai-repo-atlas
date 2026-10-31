@@ -1,6 +1,6 @@
 # bandinopla/three-mediapipe-rig
 
-⭐ 143 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/bandinopla/three-mediapipe-rig) · [官网](https://bandinopla.github.io/three-mediapipe-rig/) · 个人维护
+⭐ 144 · TypeScript · 推送 2026-04-10 · [GitHub](https://github.com/bandinopla/three-mediapipe-rig) · [官网](https://bandinopla.github.io/three-mediapipe-rig/) · 个人维护
 
 **用摄像头驱动 Three.js 骨骼的 MediaPipe 动作捕捉模块**
 
@@ -46,12 +46,12 @@ npm 安装的 Three.js 模块，封装 Google MediaPipe 的 face/body/hands 三�
 ```mermaid
 xychart-beta
     title "bandinopla/three-mediapipe-rig 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 140 --> 144
-    line [141, 143, 143]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 140 --> 145
+    line [141, 143, 144]
 ```
 
-2026-10-18 141 → 2026-10-30 143（+2）
+2026-10-18 141 → 2026-10-31 144（+3）
 
 
 ---

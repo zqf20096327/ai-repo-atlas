@@ -1,6 +1,6 @@
 # guangxiangdebizi/FinanceMCP
 
-⭐ 866 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guangxiangdebizi/FinanceMCP) · 个人维护 · 中文 README
+⭐ 868 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guangxiangdebizi/FinanceMCP) · 个人维护 · 中文 README
 
 **为 AI Agent 提供多市场金融数据的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guangxiangdebizi/FinanceMCP 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 861 --> 867
-    line [862, 864, 865, 866, 865, 864, 865, 866]
+    title "guangxiangdebizi/FinanceMCP 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 861 --> 869
+    line [862, 864, 865, 866, 865, 864, 865, 866, 868]
 ```
 
-2026-10-18 862 → 2026-10-30 866（+4）
+2026-10-18 862 → 2026-10-31 868（+6）
 
 
 ---

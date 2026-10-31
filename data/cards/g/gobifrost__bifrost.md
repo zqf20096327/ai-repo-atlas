@@ -1,6 +1,6 @@
 # gobifrost/bifrost
 
-⭐ 72 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gobifrost/bifrost) · [官网](https://gobifrost.com) · 个人维护
+⭐ 73 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/gobifrost/bifrost) · [官网](https://gobifrost.com) · 个人维护
 
 **面向 MSP 集成服务的开源自托管自动化平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gobifrost/bifrost 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 63 --> 73
-    line [64, 65, 66, 68, 71, 72]
+    title "gobifrost/bifrost 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 63 --> 74
+    line [64, 65, 66, 68, 71, 72, 73]
 ```
 
-2026-10-18 64 → 2026-10-30 72（+8）
+2026-10-18 64 → 2026-10-31 73（+9）
 
 
 ---

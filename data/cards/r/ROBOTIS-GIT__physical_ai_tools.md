@@ -1,6 +1,6 @@
 # ROBOTIS-GIT/physical_ai_tools
 
-⭐ 147 · JavaScript · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/ROBOTIS-GIT/physical_ai_tools) · [官网](https://ai.robotis.com/) · 组织维护
+⭐ 147 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ROBOTIS-GIT/physical_ai_tools) · [官网](https://ai.robotis.com/) · 组织维护
 
 **基于 LeRobot 与 ROS 2 的物理 AI 应用开发接口**
 
@@ -45,12 +45,12 @@ ROBOTIS 维护的仓库，提供使用 LeRobot 和 ROS 2 开发物理 AI 应用�
 ```mermaid
 xychart-beta
     title "ROBOTIS-GIT/physical_ai_tools 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 145 --> 148
     line [146, 147, 147]
 ```
 
-2026-10-18 146 → 2026-10-30 147（+1）
+2026-10-18 146 → 2026-10-31 147（+1）
 
 
 ---

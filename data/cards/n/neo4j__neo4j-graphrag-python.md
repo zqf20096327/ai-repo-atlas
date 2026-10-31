@@ -1,6 +1,6 @@
 # neo4j/neo4j-graphrag-python
 
-⭐ 1,325 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/neo4j/neo4j-graphrag-python) · [官网](https://neo4j.com/docs/neo4j-graphrag-python/current/) · 组织维护
+⭐ 1,326 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/neo4j/neo4j-graphrag-python) · [官网](https://neo4j.com/docs/neo4j-graphrag-python/current/) · 组织维护
 
 **Neo4j 官方 Python 库：构建 GraphRAG 应用与知识图谱**
 
@@ -45,12 +45,12 @@ Neo4j 第一方 Python 包，供开发者在 Neo4j 图数据库之上构建图�
 ```mermaid
 xychart-beta
     title "neo4j/neo4j-graphrag-python 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1312 --> 1326
-    line [1313, 1315, 1316, 1317, 1318, 1319, 1320, 1325, 1325]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1312 --> 1327
+    line [1313, 1315, 1316, 1317, 1318, 1319, 1320, 1325, 1326]
 ```
 
-2026-10-18 1,313 → 2026-10-30 1,325（+12）
+2026-10-18 1,313 → 2026-10-31 1,326（+13）
 
 
 ---

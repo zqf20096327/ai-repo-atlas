@@ -1,6 +1,6 @@
 # sjmsltx/deepseek-desktop-pet
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sjmsltx/deepseek-desktop-pet) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sjmsltx/deepseek-desktop-pet) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 桌宠：聊天、长期记忆、工具调用（DeepSeek）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjmsltx/deepseek-desktop-pet 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "sjmsltx/deepseek-desktop-pet 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 12 --> 17
-    line [13, 15, 16]
+    line [13, 15, 16, 16]
 ```
 
-2026-10-18 13 → 2026-10-30 16（+3）
+2026-10-18 13 → 2026-10-31 16（+3）
 
 
 ---

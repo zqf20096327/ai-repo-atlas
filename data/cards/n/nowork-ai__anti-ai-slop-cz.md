@@ -1,6 +1,6 @@
 # nowork-ai/anti-ai-slop-cz
 
-⭐ 35 · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nowork-ai/anti-ai-slop-cz) · 个人维护
+⭐ 36 · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/nowork-ai/anti-ai-slop-cz) · 个人维护
 
 **让 AI 用捷克语写出像人写的文本的规则包与 agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nowork-ai/anti-ai-slop-cz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 32 --> 37
+    line [33, 34, 35, 36]
 ```
 
-2026-10-18 33 → 2026-10-30 35（+2）
+2026-10-18 33 → 2026-10-31 36（+3）
 
 
 ---

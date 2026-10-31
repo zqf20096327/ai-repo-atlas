@@ -1,6 +1,6 @@
 # fsdatalab/quail
 
-⭐ 174 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/fsdatalab/quail) · [官网](https://fsdatalab.github.io/quail) · 组织维护
+⭐ 176 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fsdatalab/quail) · [官网](https://fsdatalab.github.io/quail) · 组织维护
 
 **面向开发者的 AI-SQL 执行引擎，SQL 中嵌入自然语言指令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fsdatalab/quail 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 167 --> 175
-    line [168, 169, 173, 174, 174]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 167 --> 177
+    line [168, 169, 173, 174, 176]
 ```
 
-2026-10-18 168 → 2026-10-30 174（+6）
+2026-10-18 168 → 2026-10-31 176（+8）
 
 
 ---

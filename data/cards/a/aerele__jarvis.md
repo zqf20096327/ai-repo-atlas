@@ -1,6 +1,6 @@
 # aerele/jarvis
 
-⭐ 108 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/aerele/jarvis) · [官网](jarvis.aerele.in) · 组织维护
+⭐ 108 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/aerele/jarvis) · [官网](jarvis.aerele.in) · 组织维护
 
 **嵌入 ERPNext 的 AI 队友：用自然语言问询与审核业务**
 
@@ -46,12 +46,12 @@ Frappe/ERPNext 应用（app），在企业 ERP 内提供对话式问询、单据
 ```mermaid
 xychart-beta
     title "aerele/jarvis 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 104 --> 109
     line [105, 106, 105, 106, 107, 108, 108]
 ```
 
-2026-10-18 105 → 2026-10-30 108（+3）
+2026-10-18 105 → 2026-10-31 108（+3）
 
 
 ---

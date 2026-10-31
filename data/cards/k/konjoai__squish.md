@@ -1,6 +1,6 @@
 # konjoai/squish
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/konjoai/squish) · [官网](https://squish.run) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/konjoai/squish) · [官网](https://squish.run) · 组织维护
 
 **Apple Silicon 上的本地 LLM 推理守护进程，兼容 OpenAI/Ollama API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "konjoai/squish 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

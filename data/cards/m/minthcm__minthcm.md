@@ -1,6 +1,6 @@
 # minthcm/minthcm
 
-⭐ 438 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/minthcm/minthcm) · [官网](https://minthcm.org/) · 组织维护
+⭐ 437 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/minthcm/minthcm) · [官网](https://minthcm.org/) · 组织维护
 
 **开源 AI 原生 HCM 平台：面向企业用 AI agent 管理 HR 流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "minthcm/minthcm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 437 --> 440
-    line [439, 438, 439, 438]
+    title "minthcm/minthcm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 436 --> 440
+    line [439, 438, 439, 438, 437]
 ```
 
-2026-10-18 439 → 2026-10-30 438（-1）
+2026-10-18 439 → 2026-10-31 437（-2）
 
 
 ---

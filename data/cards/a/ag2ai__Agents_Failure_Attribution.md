@@ -45,13 +45,13 @@ ICML 2025 Spotlight 论文《Which Agent Causes Task Failures and When?》的实
 
 ```mermaid
 xychart-beta
-    title "ag2ai/Agents_Failure_Attribution 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    title "ag2ai/Agents_Failure_Attribution 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 395 --> 399
-    line [396, 398, 397, 396, 397]
+    line [396, 398, 397, 396, 397, 397]
 ```
 
-2026-10-18 396 → 2026-10-30 397（+1）
+2026-10-18 396 → 2026-10-31 397（+1）
 
 
 ---

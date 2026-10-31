@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/meetdo
 
-⭐ 208 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
+⭐ 259 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
 
 **自托管的会议转行动 AI：本地 ASR/LLM 生成结构化纪要并导出 DOCX/PDF**
 
@@ -41,6 +41,18 @@
 > L11: self-hosted media, watch captions stream from a local ASR model, and finish with structured
 > L116: - **Local LLM** — scene detection, minutes generation, quality review, and meeting Q&A run
 > L117:  against a model you host (Ollama, or any OpenAI-compatible endpoint).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wenxuanzhang1209-cyber/meetdo 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 203 --> 264
+    line [208, 259]
+```
+
+2026-10-30 208 → 2026-10-31 259（+51）
 
 
 ---

@@ -1,6 +1,6 @@
 # dlp3d-ai/dlp3d.ai
 
-⭐ 374 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/dlp3d-ai/dlp3d.ai) · [官网](https://dlp3d.readthedocs.io) · 组织维护 · 中文 README
+⭐ 375 · TypeScript · MIT · 推送 2026-05-25 · [GitHub](https://github.com/dlp3d-ai/dlp3d.ai) · [官网](https://dlp3d.readthedocs.io) · 组织维护 · 中文 README
 
 **开源实时框架：通过3D数字人形象与LLM进行语音对话**
 
@@ -46,12 +46,12 @@ Digital Life Project 2 (DLP3D) 是开源实时框架，将大语言模型与可�
 ```mermaid
 xychart-beta
     title "dlp3d-ai/dlp3d.ai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 368 --> 375
-    line [369, 371, 372, 374, 374]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 368 --> 376
+    line [369, 371, 372, 374, 375]
 ```
 
-2026-10-18 369 → 2026-10-30 374（+5）
+2026-10-18 369 → 2026-10-31 375（+6）
 
 
 ---

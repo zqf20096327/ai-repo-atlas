@@ -1,6 +1,6 @@
 # ptduy14/movie-web
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ptduy14/movie-web) · [官网](https://movie-web-seven-beta.vercel.app) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ptduy14/movie-web) · [官网](https://movie-web-seven-beta.vercel.app) · 个人维护
 
 **Next.js 影视流媒体站点：AI 批量翻译补全多语言简介**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ptduy14/movie-web 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 21（+1）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

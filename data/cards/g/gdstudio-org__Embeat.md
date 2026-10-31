@@ -1,6 +1,6 @@
 # gdstudio-org/Embeat
 
-⭐ 449 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/gdstudio-org/Embeat) · [官网](https://music.gdstudio.xyz) · 组织维护 · 中文 README
+⭐ 452 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/gdstudio-org/Embeat) · [官网](https://music.gdstudio.xyz) · 组织维护 · 中文 README
 
 **基于声学特征的歌曲相似推荐系统（Spotify 曲库）**
 
@@ -44,13 +44,13 @@ Embeat 是 item-to-item 音乐推荐系统：自研 EmbeatMLP 将 Spotify 音频
 
 ```mermaid
 xychart-beta
-    title "gdstudio-org/Embeat 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 424 --> 451
-    line [426, 432, 439, 440, 441, 442, 445, 447, 449]
+    title "gdstudio-org/Embeat 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 424 --> 454
+    line [426, 432, 439, 440, 441, 442, 445, 447, 449, 452]
 ```
 
-2026-10-18 426 → 2026-10-30 449（+23）
+2026-10-18 426 → 2026-10-31 452（+26）
 
 
 ---

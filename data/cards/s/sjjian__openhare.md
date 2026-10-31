@@ -1,6 +1,6 @@
 # sjjian/openhare
 
-⭐ 816 · Dart · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/sjjian/openhare) · [官网](https://sjjian.github.io/openhare/) · 个人维护 · 中文 README
+⭐ 817 · Dart · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/sjjian/openhare) · [官网](https://sjjian.github.io/openhare/) · 个人维护 · 中文 README
 
 **带 AI 辅助的跨平台开源桌面 SQL 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sjjian/openhare 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 814 --> 817
-    line [816, 815, 816, 816]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 814 --> 818
+    line [816, 815, 816, 817]
 ```
 
-2026-10-18 816 → 2026-10-30 816（+0）
+2026-10-18 816 → 2026-10-31 817（+1）
 
 
 ---

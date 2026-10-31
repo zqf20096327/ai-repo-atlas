@@ -1,6 +1,6 @@
 # tinyhumansai/opencompany
 
-⭐ 322 · Rust · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/tinyhumansai/opencompany) · [官网](https://tinyhumans.ai/opencompany) · 组织维护
+⭐ 323 · Rust · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/tinyhumansai/opencompany) · [官网](https://tinyhumans.ai/opencompany) · 组织维护
 
 **一人公司的多智能体运行时：让 agent 群组代跑各项业务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinyhumansai/opencompany 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 303 --> 323
-    line [304, 306, 313, 315, 316, 318, 319, 322, 322]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 303 --> 324
+    line [304, 306, 313, 315, 316, 318, 319, 322, 323]
 ```
 
-2026-10-18 304 → 2026-10-30 322（+18）
+2026-10-18 304 → 2026-10-31 323（+19）
 
 
 ---

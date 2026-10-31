@@ -1,6 +1,6 @@
 # chrisx599/Video-Browser
 
-⭐ 28 · Python · 推送 2026-01-19 · [GitHub](https://github.com/chrisx599/Video-Browser) · [官网](https://arxiv.org/abs/2512.23044) · 组织维护
+⭐ 29 · Python · 推送 2026-01-19 · [GitHub](https://github.com/chrisx599/Video-Browser) · [官网](https://arxiv.org/abs/2512.23044) · 组织维护
 
 **自主检索、观看并分析视频以回答复杂问题的 AI agent**
 
@@ -45,12 +45,12 @@ VideoBrowser 是研究型开源代码仓库的官方实现，对应论文《Vide
 ```mermaid
 xychart-beta
     title "chrisx599/Video-Browser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

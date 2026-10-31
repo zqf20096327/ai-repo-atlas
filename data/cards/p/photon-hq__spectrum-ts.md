@@ -1,6 +1,6 @@
 # photon-hq/spectrum-ts
 
-⭐ 2,170 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
+⭐ 2,177 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
 
 **多渠道 agent 框架：让 AI agent 运行在 iMessage/SMS 等真实通讯界面**
 
@@ -43,13 +43,13 @@ Photon 公司开源的多渠道 agent 框架（TypeScript，npm 包 spectrum-ts�
 
 ```mermaid
 xychart-beta
-    title "photon-hq/spectrum-ts 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2052 --> 2180
-    line [2062, 2080, 2102, 2109, 2117, 2127, 2134, 2143, 2157, 2164, 2170]
+    title "photon-hq/spectrum-ts 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2051 --> 2188
+    line [2062, 2080, 2102, 2109, 2117, 2127, 2134, 2143, 2157, 2164, 2170, 2177]
 ```
 
-2026-10-18 2,062 → 2026-10-30 2,170（+108）
+2026-10-18 2,062 → 2026-10-31 2,177（+115）
 
 
 ---

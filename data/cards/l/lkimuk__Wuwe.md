@@ -1,6 +1,6 @@
 # lkimuk/Wuwe
 
-⭐ 88 · C++ · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/lkimuk/Wuwe) · 个人维护
+⭐ 88 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lkimuk/Wuwe) · 个人维护
 
 **C++20 原生应用构建工具调用型 AI agent 的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lkimuk/Wuwe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
+    title "lkimuk/Wuwe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 83 --> 89
-    line [84, 86, 87, 88]
+    line [84, 86, 87, 88, 88]
 ```
 
-2026-10-18 84 → 2026-10-30 88（+4）
+2026-10-18 84 → 2026-10-31 88（+4）
 
 
 ---

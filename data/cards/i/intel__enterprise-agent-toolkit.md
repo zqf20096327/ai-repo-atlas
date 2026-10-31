@@ -1,6 +1,6 @@
 # intel/enterprise-agent-toolkit
 
-⭐ 46 · Shell · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/intel/enterprise-agent-toolkit) · 组织维护
+⭐ 46 · Shell · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/intel/enterprise-agent-toolkit) · 组织维护
 
 **面向企业部署 Agentic AI 的 Kubernetes 平台工具包（Intel Xeon 优化）**
 
@@ -46,13 +46,13 @@ Intel 维护的企业级 Agentic AI 部署工具包：在 Intel Xeon 与 Intel �
 
 ```mermaid
 xychart-beta
-    title "intel/enterprise-agent-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    title "intel/enterprise-agent-toolkit 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 40 --> 47
-    line [41, 43, 44, 46]
+    line [41, 43, 44, 46, 46]
 ```
 
-2026-10-18 41 → 2026-10-30 46（+5）
+2026-10-18 41 → 2026-10-31 46（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # defilantech/LLMKube
 
-⭐ 247 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/defilantech/LLMKube) · [官网](https://llmkube.com) · 组织维护
+⭐ 248 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/defilantech/LLMKube) · [官网](https://llmkube.com) · 组织维护
 
 **面向异构 GPU 集群的自托管 LLM 推理 Kubernetes operator**
 
@@ -45,13 +45,13 @@ Kubernetes operator，通过 Model 与 InferenceService 两类 CRD 管理 LLM �
 
 ```mermaid
 xychart-beta
-    title "defilantech/LLMKube 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 233 --> 248
-    line [234, 236, 241, 243, 244, 245, 246, 247]
+    title "defilantech/LLMKube 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 233 --> 249
+    line [234, 236, 241, 243, 244, 245, 246, 247, 248]
 ```
 
-2026-10-18 234 → 2026-10-30 247（+13）
+2026-10-18 234 → 2026-10-31 248（+14）
 
 
 ---

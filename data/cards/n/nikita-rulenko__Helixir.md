@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "nikita-rulenko/Helixir 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "nikita-rulenko/Helixir 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 87 --> 90
-    line [88, 89]
+    line [88, 89, 89]
 ```
 
-2026-10-18 88 → 2026-10-30 89（+1）
+2026-10-18 88 → 2026-10-31 89（+1）
 
 
 ---

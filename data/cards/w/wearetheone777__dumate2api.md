@@ -1,6 +1,6 @@
 # wearetheone777/dumate2api
 
-⭐ 18 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wearetheone777/dumate2api) · [官网](https://github.com/wearetheone777/dumate2api#readme) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wearetheone777/dumate2api) · [官网](https://github.com/wearetheone777/dumate2api#readme) · 个人维护 · 中文 README
 
 **把四个国内上游转成三协议 OpenAI 兼容网关，供 CLI 编程客户端使用**
 
@@ -46,12 +46,12 @@ Node.js 实现的 API 网关：将百度搭子（DuMate）、千问办公、TRAE
 ```mermaid
 xychart-beta
     title "wearetheone777/dumate2api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 6 --> 19
     line [7, 10, 12, 14, 15, 18, 18]
 ```
 
-2026-10-18 7 → 2026-10-30 18（+11）
+2026-10-18 7 → 2026-10-31 18（+11）
 
 
 ---

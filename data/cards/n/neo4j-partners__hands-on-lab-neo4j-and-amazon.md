@@ -46,12 +46,12 @@ Neo4j 合作方维护的动手实验（Hands-On Lab）教程仓库，主题为�
 ```mermaid
 xychart-beta
     title "neo4j-partners/hands-on-lab-neo4j-and-amazon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-18 59 → 2026-10-30 59（+0）
+2026-10-18 59 → 2026-10-31 59（+0）
 
 
 ---

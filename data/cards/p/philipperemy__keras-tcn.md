@@ -1,6 +1,6 @@
 # philipperemy/keras-tcn
 
-⭐ 2,012 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/philipperemy/keras-tcn) · 个人维护
+⭐ 2,013 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/philipperemy/keras-tcn) · 个人维护
 
 **给开发者的 Keras 时间卷积网络（TCN）层实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "philipperemy/keras-tcn 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 2010 --> 2013
-    line [2012, 2011, 2012, 2012]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 2010 --> 2014
+    line [2012, 2011, 2012, 2013]
 ```
 
-2026-10-18 2,012 → 2026-10-30 2,012（+0）
+2026-10-18 2,012 → 2026-10-31 2,013（+1）
 
 
 ---

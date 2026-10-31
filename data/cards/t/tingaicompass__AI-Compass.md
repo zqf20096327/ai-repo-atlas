@@ -1,6 +1,6 @@
 # tingaicompass/AI-Compass
 
-⭐ 992 · Python · 推送 2026-10-26 · [GitHub](https://github.com/tingaicompass/AI-Compass) · [官网](https://blog.csdn.net/sinat_39620217?spm=1011.2124.3001.5343) · 个人维护 · 中文 README
+⭐ 994 · Python · 推送 2026-10-30 · [GitHub](https://github.com/tingaicompass/AI-Compass) · [官网](https://blog.csdn.net/sinat_39620217?spm=1011.2124.3001.5343) · 个人维护 · 中文 README
 
 **面向 AI 学习者的技术知识库与每周 AI 前沿速览合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tingaicompass/AI-Compass 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 981 --> 993
-    line [982, 985, 987, 988, 989, 991, 992]
+    title "tingaicompass/AI-Compass 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 981 --> 995
+    line [982, 985, 987, 988, 989, 991, 992, 994]
 ```
 
-2026-10-18 982 → 2026-10-30 992（+10）
+2026-10-18 982 → 2026-10-31 994（+12）
 
 
 ---

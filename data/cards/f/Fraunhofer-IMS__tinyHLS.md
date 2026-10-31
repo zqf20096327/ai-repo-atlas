@@ -46,12 +46,12 @@ Fraunhofer IMS 开发的紧凑型硬件编译器：读取 tensorflow.keras 神�
 ```mermaid
 xychart-beta
     title "Fraunhofer-IMS/tinyHLS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

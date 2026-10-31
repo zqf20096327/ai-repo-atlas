@@ -1,6 +1,6 @@
 # bytedance/agentkit-samples
 
-⭐ 479 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bytedance/agentkit-samples) · 组织维护 · 中文 README
+⭐ 480 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/bytedance/agentkit-samples) · 组织维护 · 中文 README
 
 **火山引擎 AgentKit 平台的示例与教程集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/agentkit-samples 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 472 --> 480
-    line [474, 473, 474, 476, 477, 479]
+    title "bytedance/agentkit-samples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 472 --> 481
+    line [474, 473, 474, 476, 477, 479, 480]
 ```
 
-2026-10-18 474 → 2026-10-30 479（+5）
+2026-10-18 474 → 2026-10-31 480（+6）
 
 
 ---

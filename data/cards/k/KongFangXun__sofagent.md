@@ -1,6 +1,6 @@
 # KongFangXun/sofagent
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KongFangXun/sofagent) · [官网](https://www.npmjs.com/package/@sofagent/audit) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KongFangXun/sofagent) · [官网](https://www.npmjs.com/package/@sofagent/audit) · 个人维护 · 中文 README
 
 **给 AI coding agent 加治理层：按冻结规则审计每次变更**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KongFangXun/sofagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 52 --> 56
     line [53, 54, 55, 55]
 ```
 
-2026-10-18 53 → 2026-10-30 55（+2）
+2026-10-18 53 → 2026-10-31 55（+2）
 
 
 ---

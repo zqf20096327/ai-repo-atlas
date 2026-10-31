@@ -1,6 +1,6 @@
 # attalla1/photopea-mcp-server
 
-⭐ 47 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/attalla1/photopea-mcp-server) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/attalla1/photopea-mcp-server) · 个人维护
 
 **让 AI agent 通过 MCP 操控 Photopea 编辑图片的 TypeScript 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "attalla1/photopea-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 42 --> 48
-    line [43, 44, 45, 46, 47]
+    title "attalla1/photopea-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 42 --> 49
+    line [43, 44, 45, 46, 47, 48]
 ```
 
-2026-10-18 43 → 2026-10-30 47（+4）
+2026-10-18 43 → 2026-10-31 48（+5）
 
 
 ---

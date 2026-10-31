@@ -1,6 +1,6 @@
 # shinzo-labs/shinzo
 
-⭐ 32 · TypeScript · NOASSERTION · 推送 2026-02-06 · [GitHub](https://github.com/shinzo-labs/shinzo) · [官网](https://shinzo.ai) · 组织维护
+⭐ 33 · TypeScript · NOASSERTION · 推送 2026-02-06 · [GitHub](https://github.com/shinzo-labs/shinzo) · [官网](https://shinzo.ai) · 组织维护
 
 **AI agent 与 MCP 服务器的可观测性平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shinzo-labs/shinzo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 33（+1）
 
 
 ---

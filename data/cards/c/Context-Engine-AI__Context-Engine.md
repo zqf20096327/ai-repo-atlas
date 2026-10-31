@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Context-Engine-AI/Context-Engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Context-Engine-AI/Context-Engine 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 399 --> 402
-    line [401, 400]
+    line [401, 400, 400]
 ```
 
-2026-10-18 401 → 2026-10-30 400（-1）
+2026-10-18 401 → 2026-10-31 400（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ElodineOfficial/GobboNet
 
-⭐ 178 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ElodineOfficial/GobboNet) · [官网](https://goblincorps.com/gobbonet) · 组织维护
+⭐ 177 · JavaScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/ElodineOfficial/GobboNet) · [官网](https://goblincorps.com/gobbonet) · 组织维护
 
 **本地离线运行的 AI 角色扮演聊天前端，Windows 一键安装**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ElodineOfficial/GobboNet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 168 --> 179
-    line [169, 175, 176, 177, 176, 178, 178]
+    line [169, 175, 176, 177, 176, 178, 177]
 ```
 
-2026-10-18 169 → 2026-10-30 178（+9）
+2026-10-18 169 → 2026-10-31 177（+8）
 
 
 ---

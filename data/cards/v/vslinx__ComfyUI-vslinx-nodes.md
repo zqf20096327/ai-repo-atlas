@@ -1,6 +1,6 @@
 # vslinx/ComfyUI-vslinx-nodes
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/vslinx/ComfyUI-vslinx-nodes) · 个人维护
+⭐ 28 · Python · GPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/vslinx/ComfyUI-vslinx-nodes) · 个人维护
 
 **面向 ComfyUI 工作流的自定义节点集合：图像加载、分支控制与实用工具**
 
@@ -46,12 +46,12 @@ ComfyUI 插件形式的节点合集：图像方面提供多选批量/列表加�
 ```mermaid
 xychart-beta
     title "vslinx/ComfyUI-vslinx-nodes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 28（+1）
 
 
 ---

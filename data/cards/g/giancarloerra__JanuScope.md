@@ -1,6 +1,6 @@
 # giancarloerra/JanuScope
 
-⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/giancarloerra/JanuScope) · [官网](https://januscope.com) · 个人维护
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/giancarloerra/JanuScope) · [官网](https://januscope.com) · 个人维护
 
 **本地 MCP 策略代理：用一份 YAML 给任意 MCP 服务器加安全护栏**
 
@@ -46,12 +46,12 @@ JanuScope 是运行在本地的 MCP 策略代理：通过一份 YAML 配置（Le
 ```mermaid
 xychart-beta
     title "giancarloerra/JanuScope 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

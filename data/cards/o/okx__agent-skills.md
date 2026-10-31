@@ -1,6 +1,6 @@
 # okx/agent-skills
 
-⭐ 197 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/okx/agent-skills) · 组织维护 · 中文 README
+⭐ 199 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/okx/agent-skills) · 组织维护 · 中文 README
 
 **面向 LLM agent 的 OKX 交易所操作技能集**
 
@@ -45,12 +45,12 @@ OKX 官方维护的 AI agent 技能集合：每个技能是带 YAML frontmatter 
 ```mermaid
 xychart-beta
     title "okx/agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 191 --> 198
-    line [192, 193, 194, 195, 197, 197]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 191 --> 200
+    line [192, 193, 194, 195, 197, 199]
 ```
 
-2026-10-18 192 → 2026-10-30 197（+5）
+2026-10-18 192 → 2026-10-31 199（+7）
 
 
 ---

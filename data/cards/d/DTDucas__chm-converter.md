@@ -45,12 +45,12 @@ Python 编写的 Compiled HTML Help（.chm）转换工具：通过 7-Zip 解包 
 ```mermaid
 xychart-beta
     title "DTDucas/chm-converter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 104 --> 106
     line [105, 105]
 ```
 
-2026-10-18 105 → 2026-10-30 105（+0）
+2026-10-18 105 → 2026-10-31 105（+0）
 
 
 ---

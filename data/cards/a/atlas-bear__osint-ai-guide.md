@@ -1,6 +1,6 @@
 # atlas-bear/osint-ai-guide
 
-⭐ 95 · Python · CC-BY-4.0 · 推送 2026-10-14 · [GitHub](https://github.com/atlas-bear/osint-ai-guide) · [官网](https://library.ab-labs.io/osint-ai-guide/) · 组织维护
+⭐ 96 · Python · CC-BY-4.0 · 推送 2026-10-14 · [GitHub](https://github.com/atlas-bear/osint-ai-guide) · [官网](https://library.ab-labs.io/osint-ai-guide/) · 组织维护
 
 **AI 应用于 OSINT 情报工作的实践指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "atlas-bear/osint-ai-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 93 --> 96
-    line [95, 94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 93 --> 97
+    line [95, 94, 95, 96]
 ```
 
-2026-10-18 95 → 2026-10-30 95（+0）
+2026-10-18 95 → 2026-10-31 96（+1）
 
 
 ---

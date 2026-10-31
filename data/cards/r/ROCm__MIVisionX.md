@@ -1,6 +1,6 @@
 # ROCm/MIVisionX
 
-⭐ 218 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ROCm/MIVisionX) · [官网](https://rocm.docs.amd.com/projects/MIVisionX/en/latest/) · 组织维护
+⭐ 218 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ROCm/MIVisionX) · [官网](https://rocm.docs.amd.com/projects/MIVisionX/en/latest/) · 组织维护
 
 **AMD 计算机视觉工具包：OpenVX 引擎、RPP 扩展与 RunVX 执行器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ROCm/MIVisionX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 217 --> 219
     line [218, 218]
 ```
 
-2026-10-18 218 → 2026-10-30 218（+0）
+2026-10-18 218 → 2026-10-31 218（+0）
 
 
 ---

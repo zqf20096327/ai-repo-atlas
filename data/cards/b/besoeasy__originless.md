@@ -40,6 +40,18 @@
 
 > L105: |**AI agents and LLM workflows**|Give agents stable URLs for context files, datasets, screenshots, and outputs. Ha
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "besoeasy/originless 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 87 --> 89
+    line [88, 88]
+```
+
+2026-10-30 88 → 2026-10-31 88（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `f4e23681bf72` · [字段定义](../../DATASET.md)*

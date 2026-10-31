@@ -1,6 +1,6 @@
 # dnv2003/v100-skinny
 
-⭐ 176 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/dnv2003/v100-skinny) · 个人维护
+⭐ 178 · Python · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/dnv2003/v100-skinny) · 个人维护
 
 **手写 NVFP4/FP8 CUDA 内核，让 V100 四卡推理 Qwen3.8**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dnv2003/v100-skinny 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 173 --> 177
-    line [174, 175, 176, 176]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 173 --> 179
+    line [174, 175, 176, 178]
 ```
 
-2026-10-18 174 → 2026-10-30 176（+2）
+2026-10-18 174 → 2026-10-31 178（+4）
 
 
 ---

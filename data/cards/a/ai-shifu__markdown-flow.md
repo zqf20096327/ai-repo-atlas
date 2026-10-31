@@ -1,6 +1,6 @@
 # ai-shifu/markdown-flow
 
-⭐ 86 · JavaScript · CC0-1.0 · 推送 2026-10-24 · [GitHub](https://github.com/ai-shifu/markdown-flow) · [官网](https://markdownflow.ai/) · 组织维护
+⭐ 86 · JavaScript · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/ai-shifu/markdown-flow) · [官网](https://markdownflow.ai/) · 组织维护
 
 **扩展 Markdown 的 AI 个性化交互文档规范与配套库**
 
@@ -45,12 +45,12 @@ MarkdownFlow 在标准 Markdown 之上定义语法扩展：?[选项] 交互元�
 ```mermaid
 xychart-beta
     title "ai-shifu/markdown-flow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-18 86 → 2026-10-30 86（+0）
+2026-10-18 86 → 2026-10-31 86（+0）
 
 
 ---

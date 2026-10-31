@@ -1,6 +1,6 @@
 # aiagenta2z/HealthcareAgent
 
-⭐ 31 · Python · 推送 2026-03-19 · [GitHub](https://github.com/aiagenta2z/HealthcareAgent) · [官网](http://www.deepnlp.org/search/agent) · 个人维护
+⭐ 31 · Python · 推送 2026-10-30 · [GitHub](https://github.com/aiagenta2z/HealthcareAgent) · [官网](http://www.deepnlp.org/search/agent) · 个人维护
 
 **医疗健康 AI Agent 项目清单与常用 Agentic API 接口包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aiagenta2z/HealthcareAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-30 31（+1）
+2026-10-18 30 → 2026-10-31 31（+1）
 
 
 ---

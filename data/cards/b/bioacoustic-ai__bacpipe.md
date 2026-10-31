@@ -1,6 +1,6 @@
 # bioacoustic-ai/bacpipe
 
-⭐ 78 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/bioacoustic-ai/bacpipe) · [官网](https://bacpipe.readthedocs.io) · 组织维护
+⭐ 78 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bioacoustic-ai/bacpipe) · [官网](https://bacpipe.readthedocs.io) · 组织维护
 
 **生物声学深度学习管线：批量生成音频嵌入并评估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bioacoustic-ai/bacpipe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-31"]
     y-axis "stars" 75 --> 79
     line [76, 77, 78, 78]
 ```
 
-2026-10-18 76 → 2026-10-30 78（+2）
+2026-10-18 76 → 2026-10-31 78（+2）
 
 
 ---

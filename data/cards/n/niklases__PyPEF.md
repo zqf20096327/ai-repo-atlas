@@ -1,6 +1,6 @@
 # niklases/PyPEF
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/niklases/PyPEF) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/niklases/PyPEF) · 个人维护
 
 **面向蛋白质工程的序列机器学习框架，从序列预测蛋白适应度**
 
@@ -46,12 +46,12 @@ Python 3 编写的序列级机器学习辅助蛋白质工程框架：输入野�
 ```mermaid
 xychart-beta
     title "niklases/PyPEF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Prism-Shadow/awesome-rsi
 
-⭐ 536 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
+⭐ 548 · JavaScript · 推送 2026-10-30 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
 
 **递归自我改进（RSI）论文与系统索引清单（113 方法+33 基准+3 系统）**
 
@@ -39,6 +39,18 @@
 
 > L29: Awesome RSI collects **benchmarks, methods, and systems for Recursive Self-Improvement**. We follow the loop: an ag
 > L31: **113 method papers · 33 benchmark papers · 3 systems**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Prism-Shadow/awesome-rsi 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 535 --> 549
+    line [536, 548]
+```
+
+2026-10-30 536 → 2026-10-31 548（+12）
 
 
 ---

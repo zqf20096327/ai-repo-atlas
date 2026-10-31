@@ -1,6 +1,6 @@
 # louisfb01/start-machine-learning
 
-⭐ 5,308 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-machine-learning) · [官网](https://www.louisbouchard.ai/learnai/) · 个人维护
+⭐ 5,309 · MIT · 推送 2026-01-23 · [GitHub](https://github.com/louisfb01/start-machine-learning) · [官网](https://www.louisbouchard.ai/learnai/) · 个人维护
 
 **面向零基础者的机器学习/AI 自学资源导航清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "louisfb01/start-machine-learning 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "louisfb01/start-machine-learning 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 5303 --> 5311
-    line [5304, 5305, 5306, 5309, 5310, 5309, 5308]
+    line [5304, 5305, 5306, 5309, 5310, 5309, 5308, 5309]
 ```
 
-2026-10-18 5,304 → 2026-10-30 5,308（+4）
+2026-10-18 5,304 → 2026-10-31 5,309（+5）
 
 
 ---

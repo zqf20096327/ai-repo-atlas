@@ -1,6 +1,6 @@
 # sebastienrousseau/dotfiles
 
-⭐ 82 · Shell · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/sebastienrousseau/dotfiles) · [官网](https://doc.dotfiles.io/) · 个人维护
+⭐ 82 · Shell · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/sebastienrousseau/dotfiles) · [官网](https://doc.dotfiles.io/) · 个人维护
 
 **面向开发者的跨平台声明式 dotfiles 工作站控制平面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sebastienrousseau/dotfiles 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 80 --> 83
     line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-10-30 82（+1）
+2026-10-18 81 → 2026-10-31 82（+1）
 
 
 ---

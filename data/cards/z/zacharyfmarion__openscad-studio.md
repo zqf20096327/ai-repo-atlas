@@ -1,6 +1,6 @@
 # zacharyfmarion/openscad-studio
 
-⭐ 246 · TypeScript · GPL-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/zacharyfmarion/openscad-studio) · [官网](https://openscad-studio.pages.dev/) · 个人维护
+⭐ 247 · TypeScript · GPL-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/zacharyfmarion/openscad-studio) · [官网](https://openscad-studio.pages.dev/) · 个人维护
 
 **带 AI 助手的 OpenSCAD 代码编辑器（Web 与 macOS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zacharyfmarion/openscad-studio 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 242 --> 247
-    line [243, 245, 246, 246]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 242 --> 248
+    line [243, 245, 246, 247]
 ```
 
-2026-10-18 243 → 2026-10-30 246（+3）
+2026-10-18 243 → 2026-10-31 247（+4）
 
 
 ---

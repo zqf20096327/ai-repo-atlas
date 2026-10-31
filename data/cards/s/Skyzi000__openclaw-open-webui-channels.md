@@ -45,12 +45,12 @@ OpenClaw 的连接插件：通过 REST API 与 Socket.IO 将 OpenClaw 接入 Ope
 ```mermaid
 xychart-beta
     title "Skyzi000/openclaw-open-webui-channels 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-30 57（+0）
+2026-10-18 57 → 2026-10-31 57（+0）
 
 
 ---

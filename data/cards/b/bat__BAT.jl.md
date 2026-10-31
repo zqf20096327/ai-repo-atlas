@@ -1,6 +1,6 @@
 # bat/BAT.jl
 
-⭐ 229 · Julia · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/bat/BAT.jl) · 组织维护
+⭐ 229 · Julia · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/bat/BAT.jl) · 组织维护
 
 **Julia 贝叶斯分析工具包：后验采样、众数估计与积分**
 
@@ -44,12 +44,12 @@ BAT.jl 是用 Julia 编写的贝叶斯分析工具包，提供多种后验采样
 ```mermaid
 xychart-beta
     title "bat/BAT.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 228 --> 230
     line [229, 229]
 ```
 
-2026-10-18 229 → 2026-10-30 229（+0）
+2026-10-18 229 → 2026-10-31 229（+0）
 
 
 ---

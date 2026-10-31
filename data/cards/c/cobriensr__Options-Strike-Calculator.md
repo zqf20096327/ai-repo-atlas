@@ -1,6 +1,6 @@
 # cobriensr/Options-Strike-Calculator
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/cobriensr/Options-Strike-Calculator) · [官网](https://theta-options.com/) · 个人维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/cobriensr/Options-Strike-Calculator) · [官网](https://theta-options.com/) · 个人维护
 
 **0DTE SPX 期权分析平台：定价、策略计算与 AI 图表分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cobriensr/Options-Strike-Calculator 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-29 22 → 2026-10-30 22（+0）
+2026-10-29 22 → 2026-10-31 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # woheller69/whoBIRD
 
-⭐ 922 · Kotlin · GPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/woheller69/whoBIRD) · 个人维护
+⭐ 923 · Kotlin · GPL-3.0 · 推送 2026-08-02 · [GitHub](https://github.com/woheller69/whoBIRD) · 个人维护
 
 **安卓实时鸟鸣识别应用，覆盖 6000+ 鸟种**
 
@@ -45,12 +45,12 @@ Android 端鸟鸣识别应用，基于 BirdNET 模型实时识别全球 6,000 �
 ```mermaid
 xychart-beta
     title "woheller69/whoBIRD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
     y-axis "stars" 921 --> 924
-    line [922, 923, 922, 922]
+    line [922, 923, 922, 923]
 ```
 
-2026-10-18 922 → 2026-10-30 922（+0）
+2026-10-18 922 → 2026-10-31 923（+1）
 
 
 ---

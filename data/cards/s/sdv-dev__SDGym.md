@@ -1,6 +1,6 @@
 # sdv-dev/SDGym
 
-⭐ 312 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sdv-dev/SDGym) · 组织维护
+⭐ 312 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/sdv-dev/SDGym) · 组织维护
 
 **合成数据生成方法基准评测框架，测性能/内存/质量**
 
@@ -44,12 +44,12 @@ DataCebo 维护的 Synthetic Data Vault 生态组成部分，用于对多种合�
 ```mermaid
 xychart-beta
     title "sdv-dev/SDGym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 311 --> 313
     line [312, 312]
 ```
 
-2026-10-18 312 → 2026-10-30 312（+0）
+2026-10-18 312 → 2026-10-31 312（+0）
 
 
 ---

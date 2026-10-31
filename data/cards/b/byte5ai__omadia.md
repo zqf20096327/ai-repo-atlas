@@ -1,6 +1,6 @@
 # byte5ai/omadia
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/byte5ai/omadia) · [官网](https://omadia.ai) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/byte5ai/omadia) · [官网](https://omadia.ai) · 组织维护
 
 **自托管多智能体 OS：构建、运行与审计 AI agent 团队**
 
@@ -46,12 +46,12 @@ TypeScript 编写的自托管 agentic OS，供团队在自有基础设施上运�
 ```mermaid
 xychart-beta
     title "byte5ai/omadia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 31（+0）
 
 
 ---

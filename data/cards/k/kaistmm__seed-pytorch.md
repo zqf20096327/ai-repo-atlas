@@ -1,6 +1,6 @@
 # kaistmm/seed-pytorch
 
-⭐ 62 · Python · 推送 2025-11-03 · [GitHub](https://github.com/kaistmm/seed-pytorch) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向科研的说话人嵌入扩散增强框架，提升恶劣声学下的鲁棒性**
 

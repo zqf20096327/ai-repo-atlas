@@ -1,6 +1,6 @@
 # meetbryce/open-source-slack-ai
 
-⭐ 192 · Python · GPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/meetbryce/open-source-slack-ai) · [官网](https://opensourceslackai.com) · 个人维护
+⭐ 192 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/meetbryce/open-source-slack-ai) · [官网](https://opensourceslackai.com) · 个人维护
 
 **自托管 Slack AI 替代：按需生成频道与线程摘要**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meetbryce/open-source-slack-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-18 192 → 2026-10-30 192（+0）
+2026-10-18 192 → 2026-10-31 192（+0）
 
 
 ---

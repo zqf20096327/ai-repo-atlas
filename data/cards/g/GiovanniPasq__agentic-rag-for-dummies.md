@@ -1,6 +1,6 @@
 # GiovanniPasq/agentic-rag-for-dummies
 
-⭐ 4,302 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GiovanniPasq/agentic-rag-for-dummies) · 个人维护
+⭐ 4,304 · Jupyter Notebook · MIT · 推送 2026-10-17 · [GitHub](https://github.com/GiovanniPasq/agentic-rag-for-dummies) · 个人维护
 
 **面向学习者的 Agentic RAG 教学项目：用 LangGraph 搭建多智能体检索问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GiovanniPasq/agentic-rag-for-dummies 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4258 --> 4306
-    line [4262, 4267, 4274, 4279, 4281, 4282, 4284, 4289, 4293, 4297, 4302]
+    title "GiovanniPasq/agentic-rag-for-dummies 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4258 --> 4308
+    line [4262, 4267, 4274, 4279, 4281, 4282, 4284, 4289, 4293, 4297, 4302, 4304]
 ```
 
-2026-10-18 4,262 → 2026-10-30 4,302（+40）
+2026-10-18 4,262 → 2026-10-31 4,304（+42）
 
 
 ---

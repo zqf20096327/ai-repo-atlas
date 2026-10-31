@@ -1,6 +1,6 @@
 # liuyueyi/spring-ai-demo
 
-⭐ 146 · Java · 推送 2026-07-31 · [GitHub](https://github.com/liuyueyi/spring-ai-demo) · [官网](https://ppai.top) · 个人维护 · 中文 README
+⭐ 147 · Java · 推送 2026-07-31 · [GitHub](https://github.com/liuyueyi/spring-ai-demo) · [官网](https://ppai.top) · 个人维护 · 中文 README
 
 **Java 开发者的 SpringAI 大模型应用与 Agent 示例工程集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liuyueyi/spring-ai-demo 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 140 --> 147
-    line [141, 144, 145, 146, 146]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 140 --> 148
+    line [141, 144, 145, 146, 147]
 ```
 
-2026-10-18 141 → 2026-10-30 146（+5）
+2026-10-18 141 → 2026-10-31 147（+6）
 
 
 ---

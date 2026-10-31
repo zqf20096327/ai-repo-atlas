@@ -1,6 +1,6 @@
 # ScanNet/ScanNet
 
-⭐ 2,361 · C · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/ScanNet/ScanNet) · [官网](http://www.scan-net.org/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **室内场景 RGB-D 3D 数据集：250 万视图、1500+ 扫描及语义标注**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

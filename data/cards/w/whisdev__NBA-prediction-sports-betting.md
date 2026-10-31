@@ -1,6 +1,6 @@
 # whisdev/NBA-prediction-sports-betting
 
-⭐ 90 · TypeScript · 推送 2026-09-14 · [GitHub](https://github.com/whisdev/NBA-prediction-sports-betting) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **NBA 博彩研究 CLI：XGBoost 模型预测胜负并对比盘口计算期望值**
 

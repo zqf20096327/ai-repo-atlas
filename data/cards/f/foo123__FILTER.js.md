@@ -1,6 +1,6 @@
 # foo123/FILTER.js
 
-⭐ 400 · JavaScript · 推送 2026-09-21 · [GitHub](https://github.com/foo123/FILTER.js) · [官网](https://foo123.github.io/examples/filter/) · 个人维护
+⭐ 400 · JavaScript · 推送 2026-10-30 · [GitHub](https://github.com/foo123/FILTER.js) · [官网](https://foo123.github.io/examples/filter/) · 个人维护
 
 **纯 JavaScript 图像/视频处理与计算机视觉库（浏览器/Node.js）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "foo123/FILTER.js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 399 --> 401
     line [400, 400]
 ```
 
-2026-10-18 400 → 2026-10-30 400（+0）
+2026-10-18 400 → 2026-10-31 400（+0）
 
 
 ---

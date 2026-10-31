@@ -1,6 +1,6 @@
 # liugangcode/torch-molecule
 
-⭐ 333 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/liugangcode/torch-molecule) · 组织维护
+⭐ 333 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/liugangcode/torch-molecule) · 组织维护
 
 **分子发现深度学习库：sklearn 风格接口做性质预测与生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liugangcode/torch-molecule 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 331 --> 334
     line [332, 333, 333]
 ```
 
-2026-10-18 332 → 2026-10-30 333（+1）
+2026-10-18 332 → 2026-10-31 333（+1）
 
 
 ---

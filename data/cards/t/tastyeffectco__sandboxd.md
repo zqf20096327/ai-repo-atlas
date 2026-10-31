@@ -1,6 +1,6 @@
 # tastyeffectco/sandboxd
 
-⭐ 976 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tastyeffectco/sandboxd) · [官网](https://sandboxd.io/) · 组织维护
+⭐ 978 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tastyeffectco/sandboxd) · [官网](https://sandboxd.io/) · 组织维护
 
 **自托管 AI 应用构建引擎：在隔离沙箱中由 agent 生成并运行应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tastyeffectco/sandboxd 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 970 --> 977
-    line [971, 972, 973, 976, 976]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 970 --> 979
+    line [971, 972, 973, 976, 978]
 ```
 
-2026-10-18 971 → 2026-10-30 976（+5）
+2026-10-18 971 → 2026-10-31 978（+7）
 
 
 ---

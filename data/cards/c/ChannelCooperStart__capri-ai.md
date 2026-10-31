@@ -1,6 +1,6 @@
 # ChannelCooperStart/capri-ai
 
-⭐ 371 · 推送 2026-10-29 · [GitHub](https://github.com/ChannelCooperStart/capri-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **赛博朋克风格桌面 AI agent 客户端：统一接入 Claude Code 等助手**
 

@@ -1,6 +1,6 @@
 # RightNow-AI/auto
 
-⭐ 129 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/RightNow-AI/auto) · [官网](https://runinfra.ai/) · 组织维护
+⭐ 130 · Rust · Apache-2.0 · 推送 2026-07-07 · [GitHub](https://github.com/RightNow-AI/auto) · [官网](https://runinfra.ai/) · 组织维护
 
 **把记录的 LLM agent 行为编译为经验证的 wasm 二进制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/auto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 128 --> 131
+    line [129, 130]
 ```
 
-2026-10-18 129 → 2026-10-30 129（+0）
+2026-10-18 129 → 2026-10-31 130（+1）
 
 
 ---

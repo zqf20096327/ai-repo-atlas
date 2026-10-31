@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "willynikes2/knowledge-base-server 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "willynikes2/knowledge-base-server 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 188 --> 192
-    line [189, 190, 191]
+    line [189, 190, 191, 191]
 ```
 
-2026-10-18 189 → 2026-10-30 191（+2）
+2026-10-18 189 → 2026-10-31 191（+2）
 
 
 ---

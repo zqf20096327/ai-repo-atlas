@@ -1,6 +1,6 @@
 # rickytang666/yapdraw
 
-⭐ 17 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/rickytang666/yapdraw) · [官网](https://yapdraw.vercel.app) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-03-24 · [GitHub](https://github.com/rickytang666/yapdraw) · [官网](https://yapdraw.vercel.app) · 个人维护
 
 **语音描述生成 Excalidraw 图表的网页应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rickytang666/yapdraw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 18（+2）
 
 
 ---

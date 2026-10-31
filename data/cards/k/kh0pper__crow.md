@@ -1,6 +1,6 @@
 # kh0pper/crow
 
-⭐ 26 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kh0pper/crow) · [官网](https://maestro.press/software/crow/) · 组织维护
+⭐ 26 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kh0pper/crow) · [官网](https://maestro.press/software/crow/) · 组织维护
 
 **自托管的模块化 Agent 框架与 MCP 平台，连接自有 AI 客户端**
 
@@ -47,12 +47,12 @@ Crow 是可自托管的开源 agentic 框架兼 MCP 平台，基于 Model Contex
 ```mermaid
 xychart-beta
     title "kh0pper/crow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

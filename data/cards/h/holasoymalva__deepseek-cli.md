@@ -1,6 +1,6 @@
 # holasoymalva/deepseek-cli
 
-⭐ 325 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/holasoymalva/deepseek-cli) · [官网](https://deepseek-cli.vercel.app/) · 个人维护
+⭐ 324 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/holasoymalva/deepseek-cli) · [官网](https://deepseek-cli.vercel.app/) · 个人维护
 
 **调用 DeepSeek Coder 模型的命令行 AI 编程助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "holasoymalva/deepseek-cli 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 319 --> 326
-    line [320, 321, 322, 323, 324, 325, 325]
+    line [320, 321, 322, 323, 324, 325, 324]
 ```
 
-2026-10-18 320 → 2026-10-30 325（+5）
+2026-10-18 320 → 2026-10-31 324（+4）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AboutRSS/rsshub-route-authoring-skill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "AboutRSS/rsshub-route-authoring-skill 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 22 --> 28
-    line [23, 24, 26, 27]
+    line [23, 24, 26, 27, 27]
 ```
 
-2026-10-18 23 → 2026-10-30 27（+4）
+2026-10-18 23 → 2026-10-31 27（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Projects-Developer/50-Final-Year-Projects-with-Source-Code
 
-⭐ 1,181 · 推送 2026-01-22 · [GitHub](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) · [官网](https://www.finalproject.in) · 个人维护
+⭐ 1,183 · 推送 2026-01-22 · [GitHub](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) · [官网](https://www.finalproject.in) · 个人维护
 
 **面向学生的 50 个毕业设计项目合集（源码+文档+视频）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Projects-Developer/50-Final-Year-Projects-with-Source-Code 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1171 --> 1182
-    line [1172, 1173, 1174, 1175, 1174, 1176, 1180, 1181, 1181]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1171 --> 1184
+    line [1172, 1173, 1174, 1175, 1174, 1176, 1180, 1181, 1183]
 ```
 
-2026-10-18 1,172 → 2026-10-30 1,181（+9）
+2026-10-18 1,172 → 2026-10-31 1,183（+11）
 
 
 ---

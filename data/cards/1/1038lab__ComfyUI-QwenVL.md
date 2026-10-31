@@ -1,6 +1,6 @@
 # 1038lab/ComfyUI-QwenVL
 
-⭐ 921 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/1038lab/ComfyUI-QwenVL) · 个人维护 · 中文 README
+⭐ 922 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/1038lab/ComfyUI-QwenVL) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：在 ComfyUI 中运行 Qwen-VL 视觉语言模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1038lab/ComfyUI-QwenVL 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 915 --> 922
-    line [916, 917, 918, 919, 921, 921]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 915 --> 923
+    line [916, 917, 918, 919, 921, 922]
 ```
 
-2026-10-18 916 → 2026-10-30 921（+5）
+2026-10-18 916 → 2026-10-31 922（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # LeanModels/DFloat11
 
-⭐ 663 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/LeanModels/DFloat11) · 组织维护
+⭐ 664 · Python · Apache-2.0 · 推送 2025-11-24 · [GitHub](https://github.com/LeanModels/DFloat11) · 组织维护
 
 **LLM 与扩散模型的无损压缩推理框架，省约30%显存**
 
@@ -46,12 +46,12 @@ DFloat11 是面向 LLM 与扩散模型（FLUX.1、Qwen-Image、Wan2.1 等）的�
 ```mermaid
 xychart-beta
     title "LeanModels/DFloat11 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 661 --> 664
-    line [662, 663, 663]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 661 --> 665
+    line [662, 663, 664]
 ```
 
-2026-10-18 662 → 2026-10-30 663（+1）
+2026-10-18 662 → 2026-10-31 664（+2）
 
 
 ---

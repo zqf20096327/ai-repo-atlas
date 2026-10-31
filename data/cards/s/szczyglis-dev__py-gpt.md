@@ -1,6 +1,6 @@
 # szczyglis-dev/py-gpt
 
-⭐ 2,006 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/szczyglis-dev/py-gpt) · [官网](https://pygpt.net) · 个人维护
+⭐ 2,008 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/szczyglis-dev/py-gpt) · [官网](https://pygpt.net) · 个人维护
 
 **跨平台桌面 AI 助手：聚合多厂商模型，聊天/Agent/RAG/语音一体**
 
@@ -46,13 +46,13 @@ PyGPT 是面向 Linux/Windows/macOS 的开源桌面 AI 助手，以 Python 编�
 
 ```mermaid
 xychart-beta
-    title "szczyglis-dev/py-gpt 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1993 --> 2008
-    line [1994, 1996, 1998, 2001, 2002, 2003, 2005, 2007, 2006]
+    title "szczyglis-dev/py-gpt 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1993 --> 2009
+    line [1994, 1996, 1998, 2001, 2002, 2003, 2005, 2007, 2006, 2008]
 ```
 
-2026-10-18 1,994 → 2026-10-30 2,006（+12）
+2026-10-18 1,994 → 2026-10-31 2,008（+14）
 
 
 ---

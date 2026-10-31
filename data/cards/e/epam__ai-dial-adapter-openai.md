@@ -45,12 +45,12 @@ AI DIAL 生态的 LLM 适配器之一：把 Azure OpenAI、OpenAI Platform、Ama
 ```mermaid
 xychart-beta
     title "epam/ai-dial-adapter-openai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

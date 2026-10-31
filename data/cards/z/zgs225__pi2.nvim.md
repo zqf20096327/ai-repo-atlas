@@ -1,6 +1,6 @@
 # zgs225/pi2.nvim
 
-⭐ 23 · Lua · MIT · 推送 2026-10-28 · [GitHub](https://github.com/zgs225/pi2.nvim) · 个人维护
+⭐ 23 · Lua · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zgs225/pi2.nvim) · 个人维护
 
 **在 Neovim 内使用 pi 编码 agent 的插件（pi.nvim 深度扩展 fork）**
 
@@ -45,12 +45,12 @@ Neovim 插件，后台运行 `pi --mode rpc`，在编辑器内提供项目感知
 ```mermaid
 xychart-beta
     title "zgs225/pi2.nvim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

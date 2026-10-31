@@ -1,6 +1,6 @@
 # fastmachinelearning/hls4ml
 
-⭐ 2,196 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/fastmachinelearning/hls4ml) · [官网](https://fastmachinelearning.org/hls4ml) · 组织维护
+⭐ 2,196 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/fastmachinelearning/hls4ml) · [官网](https://fastmachinelearning.org/hls4ml) · 组织维护
 
 **将 Keras/PyTorch/ONNX 模型转为 FPGA 上运行的 HLS 固件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fastmachinelearning/hls4ml 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "fastmachinelearning/hls4ml 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 2188 --> 2197
-    line [2189, 2191, 2192, 2193, 2195, 2196]
+    line [2189, 2191, 2192, 2193, 2195, 2196, 2196]
 ```
 
-2026-10-18 2,189 → 2026-10-30 2,196（+7）
+2026-10-18 2,189 → 2026-10-31 2,196（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # TOMOSIA-VIETNAM/open-pr
 
-⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TOMOSIA-VIETNAM/open-pr) · [官网](https://open-pr.vercel.app) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/TOMOSIA-VIETNAM/open-pr) · [官网](https://open-pr.vercel.app) · 组织维护
 
 **把 AI 代码审查直接落到 PR 上的自托管插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TOMOSIA-VIETNAM/open-pr 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 44（+1）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

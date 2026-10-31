@@ -1,6 +1,6 @@
 # zzzlip/langraph-AI-Accompany-Agent
 
-⭐ 22 · Python · 推送 2025-11-03 · [GitHub](https://github.com/zzzlip/langraph-AI-Accompany-Agent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 角色扮演陪伴应用：持久记忆的对话与社交生成**
 

@@ -1,6 +1,6 @@
 # multimindlab/multimind-sdk
 
-⭐ 97 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/multimindlab/multimind-sdk) · [官网](https://www.multimind.dev) · 组织维护
+⭐ 97 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/multimindlab/multimind-sdk) · [官网](https://www.multimind.dev) · 组织维护
 
 **面向开发者的合规优先 AI agent 框架：统一接入多模型并内置治理**
 
@@ -47,12 +47,12 @@ MultiMind SDK 是一个 Python AI agent 框架，以单一异步接口接入 Ope
 ```mermaid
 xychart-beta
     title "multimindlab/multimind-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 96 --> 98
     line [97, 97]
 ```
 
-2026-10-18 97 → 2026-10-30 97（+0）
+2026-10-18 97 → 2026-10-31 97（+0）
 
 
 ---

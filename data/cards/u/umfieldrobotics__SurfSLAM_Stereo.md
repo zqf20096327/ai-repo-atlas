@@ -1,0 +1,58 @@
+# umfieldrobotics/SurfSLAM_Stereo
+
+⭐ 14 · Python · 推送 2026-09-18 · [GitHub](https://github.com/umfieldrobotics/SurfSLAM_Stereo) · [官网](https://umfieldrobotics.github.io/SurfSLAM/) · 组织维护
+
+**水下双目深度估计与实时 SLAM 的训练推理代码（科研论文配套）**
+
+SurfSLAM 论文的立体视觉训练与推理代码：用仿真数据加自监督微调实现水下双目视差估计的 sim-to-real 训练，融合双目相机与 IMU、气压计、DVL 测量做实时水下 SLAM。提供 Docker 环境（官方声明不显式支持非 Docker 环境）、子模块补丁安装脚本、命令行与浏览器双入口的 demo、训练与三段式评测流程（推理/评分/重建）。另发布含 24,000 余对立体图像的沉船勘测数据集。训练依赖多 GPU，代码基于 FoundationStereo、DEFOM-Stereo、IGEV++ 等子模块（各自保留上游许可证）。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `none` | — |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- sim-to-real 训练框架：仿真数据预训练 + 自监督微调的水下立体视差估计
+- 融合立体相机、IMU、气压计与 DVL 的实时水下 SLAM
+- 配套真实沉船勘测数据集：超 24,000 对立体图像、稠密摄影测量模型与参考轨迹
+- 提供 CLI 与浏览器 demo（内置 6 组沉船样本对），推理/评分/重建三段评测流程
+
+## 适用场景
+
+- 水下机器人研究者复现论文的水下深度估计与 SLAM 实验
+- 在自有立体图像对上运行已发布模型做视差与度量深度推理
+- 用仿真与自监督微调方法训练水下场景立体匹配网络
+- 以稠密摄影测量模型为真值评测 3D 重建质量
+
+## 场景标签
+
+`科研工具` `模型训练` · 领域:学习与行业
+
+## 证据(README 行号)
+
+> L33: Localization and mapping are core perceptual capabilities for underwater robots. Stereo cameras provide a low-cost 
+> L74: Run a released model on a stereo pair, from the command line or in a browser. Six example pairs from our shipwreck 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "umfieldrobotics/SurfSLAM_Stereo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
+```
+
+2026-10-18 13 → 2026-10-31 14（+1）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `e36a6ef517b6` · [字段定义](../../DATASET.md)*

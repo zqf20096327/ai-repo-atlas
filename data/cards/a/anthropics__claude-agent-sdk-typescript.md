@@ -1,6 +1,6 @@
 # anthropics/claude-agent-sdk-typescript
 
-⭐ 1,845 · Shell · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/claude-agent-sdk-typescript) · 组织维护
+⭐ 1,850 · Shell · 推送 2026-10-30 · [GitHub](https://github.com/anthropics/claude-agent-sdk-typescript) · 组织维护
 
 **Anthropic 官方 TypeScript SDK：编程构建具备 Claude Code 能力的 AI agent**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-agent-sdk-typescript 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1816 --> 1847
-    line [1818, 1823, 1828, 1830, 1831, 1833, 1835, 1837, 1841, 1845]
+    title "anthropics/claude-agent-sdk-typescript 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1815 --> 1853
+    line [1818, 1823, 1828, 1830, 1831, 1833, 1835, 1837, 1841, 1845, 1850]
 ```
 
-2026-10-18 1,818 → 2026-10-30 1,845（+27）
+2026-10-18 1,818 → 2026-10-31 1,850（+32）
 
 
 ---

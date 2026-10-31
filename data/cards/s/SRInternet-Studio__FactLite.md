@@ -1,6 +1,6 @@
 # SRInternet-Studio/FactLite
 
-⭐ 15 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/SRInternet-Studio/FactLite) · 组织维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/SRInternet-Studio/FactLite) · 组织维护 · 中文 README
 
 **给 LLM 调用加事实核查装饰器的 Python 微框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SRInternet-Studio/FactLite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

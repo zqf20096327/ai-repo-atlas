@@ -1,6 +1,6 @@
 # Hosseinghorbani0/ask-ai
 
-⭐ 15 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Hosseinghorbani0/ask-ai) · [官网](https://hosseinghorbani0.ir) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Hosseinghorbani0/ask-ai) · [官网](https://hosseinghorbani0.ir) · 个人维护
 
 **一行代码切换 LLM 供应商的极简 Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hosseinghorbani0/ask-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

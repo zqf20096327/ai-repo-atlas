@@ -44,13 +44,13 @@ Unity 编辑器插件，通过 WebSocket 与 Node.js MCP 服务器通信，把�
 
 ```mermaid
 xychart-beta
-    title "youichi-uda/unity-mcp-pro-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "youichi-uda/unity-mcp-pro-plugin 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 81 --> 84
-    line [82, 83]
+    line [82, 83, 83]
 ```
 
-2026-10-18 82 → 2026-10-30 83（+1）
+2026-10-18 82 → 2026-10-31 83（+1）
 
 
 ---

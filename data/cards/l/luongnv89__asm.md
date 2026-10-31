@@ -1,6 +1,6 @@
 # luongnv89/asm
 
-⭐ 959 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/luongnv89/asm) · [官网](https://luongnv.com/asm) · 个人维护
+⭐ 961 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/luongnv89/asm) · [官网](https://luongnv.com/asm) · 个人维护
 
 **AI 编码代理的技能管理 CLI：跨 21 种工具安装/审计技能**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luongnv89/asm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 955 --> 961
-    line [956, 959, 960, 959]
+    title "luongnv89/asm 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 955 --> 962
+    line [956, 959, 960, 959, 961]
 ```
 
-2026-10-18 956 → 2026-10-30 959（+3）
+2026-10-18 956 → 2026-10-31 961（+5）
 
 
 ---

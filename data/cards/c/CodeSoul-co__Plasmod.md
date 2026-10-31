@@ -1,6 +1,6 @@
 # CodeSoul-co/Plasmod
 
-⭐ 25 · Go · MIT · 推送 2026-10-28 · [GitHub](https://github.com/CodeSoul-co/Plasmod) · [官网](https://plasmod.code-soul.com/) · 组织维护 · 中文 README
+⭐ 26 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CodeSoul-co/Plasmod) · [官网](https://plasmod.code-soul.com/) · 组织维护 · 中文 README
 
 **面向 AI agent 的原生数据库：记忆/状态/事件的一等对象与证据检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CodeSoul-co/Plasmod 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # double-k-3033/Legal-AI-project
 
-⭐ 27 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/double-k-3033/Legal-AI-project) · 个人维护
+⭐ 28 · TypeScript · 推送 2025-11-24 · [GitHub](https://github.com/double-k-3033/Legal-AI-project) · 个人维护
 
 **面向用户的法律文档自动分析 Web 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "double-k-3033/Legal-AI-project 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-18 26 → 2026-10-30 27（+1）
+2026-10-18 26 → 2026-10-31 28（+2）
 
 
 ---

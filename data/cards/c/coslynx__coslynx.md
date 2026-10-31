@@ -46,12 +46,12 @@ Coslynx 的组织主页：核心产品 Content Factory 在用户本机与其自�
 ```mermaid
 xychart-beta
     title "coslynx/coslynx 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-25", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-10-30 17（+0）
+2026-10-25 17 → 2026-10-31 17（+0）
 
 
 ---

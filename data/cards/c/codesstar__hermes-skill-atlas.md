@@ -1,6 +1,6 @@
 # codesstar/hermes-skill-atlas
 
-⭐ 97 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codesstar/hermes-skill-atlas) · [官网](https://codesstar.github.io/hermes-skill-atlas/) · 个人维护 · 中文 README
+⭐ 98 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/codesstar/hermes-skill-atlas) · [官网](https://codesstar.github.io/hermes-skill-atlas/) · 个人维护 · 中文 README
 
 **Hermes Agent 技能目录：单文件 HTML 浏览 70+ 精选 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codesstar/hermes-skill-atlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 96 --> 99
-    line [97, 98, 97, 97]
+    line [97, 98, 97, 98]
 ```
 
-2026-10-18 97 → 2026-10-30 97（+0）
+2026-10-18 97 → 2026-10-31 98（+1）
 
 
 ---

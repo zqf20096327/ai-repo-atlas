@@ -1,6 +1,6 @@
 # smigolsmigol/llmkit
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/smigolsmigol/llmkit) · [官网](https://llmkit.sh) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/smigolsmigol/llmkit) · [官网](https://llmkit.sh) · 个人维护
 
 **面向 AI agent 的成本网关与 SDK 套件：预算准入与费用归因**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smigolsmigol/llmkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 14 --> 17
     line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-10-30 15（-1）
+2026-10-18 16 → 2026-10-31 15（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shcherbak-ai/contextgem
 
-⭐ 2,038 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
+⭐ 2,041 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
 
 **用 LLM 与决策模型从文档抽取结构化数据的 Python 框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shcherbak-ai/contextgem 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2009 --> 2040
-    line [2011, 2012, 2014, 2013, 2012, 2013, 2025, 2033, 2038]
+    title "shcherbak-ai/contextgem 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2008 --> 2044
+    line [2011, 2012, 2014, 2013, 2012, 2013, 2025, 2033, 2038, 2041]
 ```
 
-2026-10-18 2,011 → 2026-10-30 2,038（+27）
+2026-10-18 2,011 → 2026-10-31 2,041（+30）
 
 
 ---

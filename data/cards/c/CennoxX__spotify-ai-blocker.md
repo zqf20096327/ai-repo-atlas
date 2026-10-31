@@ -1,6 +1,6 @@
 # CennoxX/spotify-ai-blocker
 
-⭐ 147 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/CennoxX/spotify-ai-blocker) · 个人维护
+⭐ 147 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CennoxX/spotify-ai-blocker) · 个人维护
 
 **浏览器用户脚本：自动屏蔽 Spotify 上的 AI 生成音乐艺人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CennoxX/spotify-ai-blocker 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 144 --> 148
     line [145, 146, 147, 147]
 ```
 
-2026-10-18 145 → 2026-10-30 147（+2）
+2026-10-18 145 → 2026-10-31 147（+2）
 
 
 ---

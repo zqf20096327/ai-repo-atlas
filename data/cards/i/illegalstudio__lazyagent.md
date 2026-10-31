@@ -1,6 +1,6 @@
 # illegalstudio/lazyagent
 
-⭐ 192 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/illegalstudio/lazyagent) · [官网](https://lazyagent.dev/) · 组织维护
+⭐ 193 · Go · MIT · 推送 2026-10-16 · [GitHub](https://github.com/illegalstudio/lazyagent) · [官网](https://lazyagent.dev/) · 组织维护
 
 **单一终端监控 9 种编码 agent 的 TUI/桌面应用/HTTP API 工具**
 
@@ -46,12 +46,12 @@ Go 编写的编码 agent 监控工具：以终端 UI、macOS/Linux 桌面应用�
 ```mermaid
 xychart-beta
     title "illegalstudio/lazyagent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 191 --> 194
-    line [192, 193, 192, 192]
+    line [192, 193, 192, 193]
 ```
 
-2026-10-18 192 → 2026-10-30 192（+0）
+2026-10-18 192 → 2026-10-31 193（+1）
 
 
 ---

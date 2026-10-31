@@ -1,6 +1,6 @@
 # airmang/hwpx-plugins
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/airmang/hwpx-plugins) · [官网](https://airmang.github.io/python-hwpx/) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/airmang/hwpx-plugins) · [官网](https://airmang.github.io/python-hwpx/) · 个人维护
 
 **让 AI 代理用自然语言处理韩文 HWPX 文档的技能插件包**
 
@@ -46,12 +46,12 @@ python-hwpx 项目维护的第一方 agent 技能包：通过 SKILL.md 决策树
 ```mermaid
 xychart-beta
     title "airmang/hwpx-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 31 --> 35
     line [32, 34, 34]
 ```
 
-2026-10-18 32 → 2026-10-30 34（+2）
+2026-10-18 32 → 2026-10-31 34（+2）
 
 
 ---

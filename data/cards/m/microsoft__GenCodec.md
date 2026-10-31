@@ -1,6 +1,6 @@
 # microsoft/GenCodec
 
-⭐ 55 · C++ · MIT · 推送 2026-09-18 · [GitHub](https://github.com/microsoft/GenCodec) · 组织维护
+⭐ 56 · C++ · MIT · 推送 2026-09-18 · [GitHub](https://github.com/microsoft/GenCodec) · 组织维护
 
 **微软亚洲研究院生成式图像视频压缩研究项目集合**
 
@@ -46,12 +46,12 @@ Microsoft Research Asia 的研究计划仓库，托管生成式与实用神经�
 ```mermaid
 xychart-beta
     title "microsoft/GenCodec 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 50 --> 56
-    line [51, 52, 53, 55, 55]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 50 --> 57
+    line [51, 52, 53, 55, 56]
 ```
 
-2026-10-18 51 → 2026-10-30 55（+4）
+2026-10-18 51 → 2026-10-31 56（+5）
 
 
 ---

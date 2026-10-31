@@ -1,6 +1,6 @@
 # 0xarkstar/awesome-hermes-agent
 
-⭐ 57 · CC0-1.0 · 推送 2026-03-24 · [GitHub](https://github.com/0xarkstar/awesome-hermes-agent) · 个人维护
+⭐ 58 · CC0-1.0 · 推送 2026-03-24 · [GitHub](https://github.com/0xarkstar/awesome-hermes-agent) · 个人维护
 
 **Hermes Agent 周边资源策展清单：模型/部署/技能/教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "0xarkstar/awesome-hermes-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-30 57（+1）
+2026-10-18 56 → 2026-10-31 58（+2）
 
 
 ---

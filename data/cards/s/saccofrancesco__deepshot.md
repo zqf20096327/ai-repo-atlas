@@ -1,6 +1,6 @@
 # saccofrancesco/deepshot
 
-⭐ 174 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/saccofrancesco/deepshot) · 个人维护
+⭐ 174 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/saccofrancesco/deepshot) · 个人维护
 
 **基于机器学习与滚动统计的 NBA 比赛胜负预测应用**
 
@@ -45,12 +45,12 @@ DeepShot 是一个用机器学习预测 NBA 比赛结果的应用：从 Basketba
 ```mermaid
 xychart-beta
     title "saccofrancesco/deepshot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 171 --> 176
     line [172, 174, 175, 174, 174]
 ```
 
-2026-10-18 172 → 2026-10-30 174（+2）
+2026-10-18 172 → 2026-10-31 174（+2）
 
 
 ---

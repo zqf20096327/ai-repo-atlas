@@ -1,6 +1,6 @@
 # entity12208/EditorAI
 
-⭐ 43 · C++ · MIT · 推送 2026-10-04 · [GitHub](https://github.com/entity12208/EditorAI) · [官网](https://editorai.pages.dev) · 个人维护
+⭐ 43 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/entity12208/EditorAI) · [官网](https://editorai.pages.dev) · 个人维护
 
 **让 AI 按自然语言描述在 Geometry Dash 编辑器中自动搭建关卡**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "entity12208/EditorAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
     y-axis "stars" 40 --> 44
     line [41, 42, 43, 43]
 ```
 
-2026-10-18 41 → 2026-10-30 43（+2）
+2026-10-18 41 → 2026-10-31 43（+2）
 
 
 ---

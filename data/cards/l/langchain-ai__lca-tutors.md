@@ -43,12 +43,12 @@ langchain-ai 维护的仓库，为 LangChain Academy 课程提供基于技能（
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-tutors 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 22（+0）
 
 
 ---

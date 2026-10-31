@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/apps-agents-workshop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    title "microsoft/apps-agents-workshop 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 49 --> 54
-    line [50, 51, 53]
+    line [50, 51, 53, 53]
 ```
 
-2026-10-18 50 → 2026-10-30 53（+3）
+2026-10-18 50 → 2026-10-31 53（+3）
 
 
 ---

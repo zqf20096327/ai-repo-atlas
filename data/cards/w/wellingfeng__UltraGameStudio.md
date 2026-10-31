@@ -1,6 +1,6 @@
 # wellingfeng/UltraGameStudio
 
-⭐ 327 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wellingfeng/UltraGameStudio) · 个人维护 · 中文 README
+⭐ 328 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/wellingfeng/UltraGameStudio) · 个人维护 · 中文 README
 
 **面向游戏开发的 AI 编程 agent，含全类游戏资产生成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wellingfeng/UltraGameStudio 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 321 --> 328
-    line [322, 324, 326, 327, 327]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 321 --> 329
+    line [322, 324, 326, 327, 328]
 ```
 
-2026-10-18 322 → 2026-10-30 327（+5）
+2026-10-18 322 → 2026-10-31 328（+6）
 
 
 ---

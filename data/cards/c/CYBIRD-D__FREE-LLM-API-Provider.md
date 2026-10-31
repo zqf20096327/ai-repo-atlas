@@ -1,6 +1,6 @@
 # CYBIRD-D/FREE-LLM-API-Provider
 
-⭐ 117 · 推送 2026-10-23 · [GitHub](https://github.com/CYBIRD-D/FREE-LLM-API-Provider) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-10-30 · [GitHub](https://github.com/CYBIRD-D/FREE-LLM-API-Provider) · 个人维护 · 中文 README
 
 **免费 LLM API 平台清单：汇总各平台免费额度与速率限制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CYBIRD-D/FREE-LLM-API-Provider 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 111 --> 118
     line [112, 114, 115, 116, 117, 117]
 ```
 
-2026-10-18 112 → 2026-10-30 117（+5）
+2026-10-18 112 → 2026-10-31 117（+5）
 
 
 ---

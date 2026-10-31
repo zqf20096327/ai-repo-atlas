@@ -1,6 +1,6 @@
 # lmk123568/PyVideoProc
 
-⭐ 244 · C++ · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/lmk123568/PyVideoProc) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Python 多路视频流解码-推理-跟踪的 CUDA 框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-2-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

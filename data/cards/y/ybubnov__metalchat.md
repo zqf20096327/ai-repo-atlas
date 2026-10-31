@@ -1,6 +1,6 @@
 # ybubnov/metalchat
 
-⭐ 23 · C++ · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ybubnov/metalchat) · [官网](https://metalchat.readthedocs.io) · 个人维护
+⭐ 23 · C++ · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ybubnov/metalchat) · [官网](https://metalchat.readthedocs.io) · 个人维护
 
 **Apple Silicon 上 Metal 加速的 C++ LLM 推理框架与命令行解释器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ybubnov/metalchat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

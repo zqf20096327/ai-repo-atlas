@@ -1,6 +1,6 @@
 # majiayu000/harness
 
-⭐ 87 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/majiayu000/harness) · 个人维护
+⭐ 88 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/majiayu000/harness) · 个人维护
 
 **并行 AI 编码 agent 舰队的 Rust 控制平面：编排、策略与审计**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "majiayu000/harness 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 84 --> 88
-    line [85, 86, 87]
+    title "majiayu000/harness 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 84 --> 89
+    line [85, 86, 87, 88]
 ```
 
-2026-10-18 85 → 2026-10-30 87（+2）
+2026-10-18 85 → 2026-10-31 88（+3）
 
 
 ---

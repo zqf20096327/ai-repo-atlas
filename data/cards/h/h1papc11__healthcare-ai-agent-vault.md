@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "h1papc11/healthcare-ai-agent-vault 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "h1papc11/healthcare-ai-agent-vault 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 139 --> 142
-    line [140, 141]
+    line [140, 141, 141]
 ```
 
-2026-10-18 140 → 2026-10-30 141（+1）
+2026-10-18 140 → 2026-10-31 141（+1）
 
 
 ---

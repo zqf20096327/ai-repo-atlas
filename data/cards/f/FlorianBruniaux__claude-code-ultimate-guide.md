@@ -1,6 +1,6 @@
 # FlorianBruniaux/claude-code-ultimate-guide
 
-⭐ 6,290 · Python · CC-BY-SA-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
+⭐ 6,296 · Python · CC-BY-SA-4.0 · 推送 2026-10-28 · [GitHub](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) · [官网](https://cc.bruniaux.com/) · 个人维护
 
 **Claude Code 工程实践指南：教开发者构建与规模化 agent 使用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlorianBruniaux/claude-code-ultimate-guide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 6179 --> 6300
-    line [6189, 6202, 6223, 6230, 6238, 6250, 6256, 6270, 6278, 6290]
+    title "FlorianBruniaux/claude-code-ultimate-guide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 6179 --> 6306
+    line [6189, 6202, 6223, 6230, 6238, 6250, 6256, 6270, 6278, 6290, 6296]
 ```
 
-2026-10-18 6,189 → 2026-10-30 6,290（+101）
+2026-10-18 6,189 → 2026-10-31 6,296（+107）
 
 
 ---

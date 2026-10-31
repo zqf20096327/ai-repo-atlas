@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/amplio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "google-deepmind/amplio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 97 --> 100
-    line [98, 99]
+    line [98, 99, 99]
 ```
 
-2026-10-18 98 → 2026-10-30 99（+1）
+2026-10-18 98 → 2026-10-31 99（+1）
 
 
 ---

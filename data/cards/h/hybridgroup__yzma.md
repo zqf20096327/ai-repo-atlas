@@ -1,6 +1,6 @@
 # hybridgroup/yzma
 
-⭐ 663 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hybridgroup/yzma) · [官网](https://yzma.ai) · 组织维护
+⭐ 663 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/hybridgroup/yzma) · [官网](https://yzma.ai) · 组织维护
 
 **Go 库：在 Go 应用中直接集成 llama.cpp 做本地推理**
 
@@ -45,13 +45,13 @@ Go 语言库，通过 purego/ffi 在无需 CGo 与 C 编译器的情况下直接
 
 ```mermaid
 xychart-beta
-    title "hybridgroup/yzma 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "hybridgroup/yzma 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 653 --> 664
-    line [654, 655, 657, 658, 660, 661, 663]
+    line [654, 655, 657, 658, 660, 661, 663, 663]
 ```
 
-2026-10-18 654 → 2026-10-30 663（+9）
+2026-10-18 654 → 2026-10-31 663（+9）
 
 
 ---

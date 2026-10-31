@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ameshkov/tokenguard-copilot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ameshkov/tokenguard-copilot 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 31 --> 34
-    line [32, 33]
+    line [32, 33, 33]
 ```
 
-2026-10-18 32 → 2026-10-30 33（+1）
+2026-10-18 32 → 2026-10-31 33（+1）
 
 
 ---

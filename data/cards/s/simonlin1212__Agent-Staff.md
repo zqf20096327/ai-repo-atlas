@@ -1,6 +1,6 @@
 # simonlin1212/Agent-Staff
 
-⭐ 47 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/simonlin1212/Agent-Staff) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/simonlin1212/Agent-Staff) · 个人维护 · 中文 README
 
 **按公司组织架构在飞书内为每个部门配 AI agent 的经营班子**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonlin1212/Agent-Staff 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 35 --> 48
-    line [36, 40, 41, 42, 44, 45, 47]
+    title "simonlin1212/Agent-Staff 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 35 --> 49
+    line [36, 40, 41, 42, 44, 45, 47, 48]
 ```
 
-2026-10-18 36 → 2026-10-30 47（+11）
+2026-10-18 36 → 2026-10-31 48（+12）
 
 
 ---

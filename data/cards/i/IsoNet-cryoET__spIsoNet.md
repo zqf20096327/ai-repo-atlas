@@ -1,6 +1,6 @@
 # IsoNet-cryoET/spIsoNet
 
-⭐ 39 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/IsoNet-cryoET/spIsoNet) · [官网](https://www.nature.com/articles/s41592-024-02505-1) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/IsoNet-cryoET/spIsoNet) · [官网](https://www.nature.com/articles/s41592-024-02505-1) · 组织维护
 
 **自监督深度学习修正 cryoEM 优势取向问题的软件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IsoNet-cryoET/spIsoNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

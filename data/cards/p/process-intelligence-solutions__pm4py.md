@@ -1,6 +1,6 @@
 # process-intelligence-solutions/pm4py
 
-⭐ 1,072 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/process-intelligence-solutions/pm4py) · [官网](https://processintelligence.solutions/pm4py) · 组织维护
+⭐ 1,073 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/process-intelligence-solutions/pm4py) · [官网](https://processintelligence.solutions/pm4py) · 组织维护
 
 **Python 过程挖掘库：读取事件日志做过程发现与分析**
 
@@ -45,13 +45,13 @@ PM4Py 是由 PIS（Fraunhofer FIT 衍生公司）维护的开源 Python 过程�
 
 ```mermaid
 xychart-beta
-    title "process-intelligence-solutions/pm4py 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1058 --> 1073
-    line [1059, 1064, 1067, 1068, 1069, 1070, 1072]
+    title "process-intelligence-solutions/pm4py 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1058 --> 1074
+    line [1059, 1064, 1067, 1068, 1069, 1070, 1072, 1073]
 ```
 
-2026-10-18 1,059 → 2026-10-30 1,072（+13）
+2026-10-18 1,059 → 2026-10-31 1,073（+14）
 
 
 ---

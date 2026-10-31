@@ -1,6 +1,6 @@
 # 3IVIS/buildaharness
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/3IVIS/buildaharness) · [官网](https://buildaharness.com) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/3IVIS/buildaharness) · [官网](https://buildaharness.com) · 个人维护 · 中文 README
 
 **开源 11 层 agent 治理控制层与可视化画布，及参考助手 Aielia**
 
@@ -46,12 +46,12 @@ Build A Harness 是围绕自主 agent 的治理与可靠性控制平面：提供
 ```mermaid
 xychart-beta
     title "3IVIS/buildaharness 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

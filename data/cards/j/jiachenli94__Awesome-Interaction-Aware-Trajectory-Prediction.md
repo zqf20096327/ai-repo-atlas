@@ -1,6 +1,6 @@
 # jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction
 
-⭐ 1,694 · TeX · MIT · 推送 2026-08-24 · [GitHub](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) · 组织维护
+⭐ 1,695 · TeX · MIT · 推送 2026-08-24 · [GitHub](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) · 组织维护
 
 **交互感知轨迹预测研究资料清单（数据集/论文/代码）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    title "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1692 --> 1696
-    line [1693, 1694, 1695, 1694]
+    line [1693, 1694, 1695, 1694, 1695]
 ```
 
-2026-10-18 1,693 → 2026-10-30 1,694（+1）
+2026-10-18 1,693 → 2026-10-31 1,695（+2）
 
 
 ---

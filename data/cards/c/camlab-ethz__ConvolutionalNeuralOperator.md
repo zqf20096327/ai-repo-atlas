@@ -45,13 +45,13 @@ NeurIPS 2023 论文 Convolutional Neural Operators for robust and accurate learn
 
 ```mermaid
 xychart-beta
-    title "camlab-ethz/ConvolutionalNeuralOperator 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    title "camlab-ethz/ConvolutionalNeuralOperator 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 232 --> 236
-    line [234, 233, 234, 235]
+    line [234, 233, 234, 235, 235]
 ```
 
-2026-10-18 234 → 2026-10-30 235（+1）
+2026-10-18 234 → 2026-10-31 235（+1）
 
 
 ---

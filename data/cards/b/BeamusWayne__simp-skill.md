@@ -1,6 +1,6 @@
 # BeamusWayne/simp-skill
 
-⭐ 330 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/BeamusWayne/simp-skill) · 个人维护 · 中文 README
+⭐ 331 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/BeamusWayne/simp-skill) · 个人维护 · 中文 README
 
 **面向 Claude Code 的恋爱追求辅助 skill，分析聊天记录并生成策略**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BeamusWayne/simp-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 323 --> 331
-    line [324, 325, 328, 327, 328, 330, 330]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 323 --> 332
+    line [324, 325, 328, 327, 328, 330, 331]
 ```
 
-2026-10-18 324 → 2026-10-30 330（+6）
+2026-10-18 324 → 2026-10-31 331（+7）
 
 
 ---

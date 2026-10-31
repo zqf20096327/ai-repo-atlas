@@ -45,12 +45,12 @@ ThinkAI 是一个 AI 学习与挑战平台，用于帮助学生和团队围绕 A
 ```mermaid
 xychart-beta
     title "1337-Artificial-Intelligence/hackai_app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

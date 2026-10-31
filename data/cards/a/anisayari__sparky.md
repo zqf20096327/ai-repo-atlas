@@ -1,6 +1,6 @@
 # anisayari/sparky
 
-⭐ 62 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/anisayari/sparky) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/anisayari/sparky) · 个人维护
 
 **Windows 全本地 AI 助手：聊天/RAG/图像视频生成/语音/工具一体**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "anisayari/sparky 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 42 --> 63
-    line [43, 46, 55, 61, 62]
+    title "anisayari/sparky 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 41 --> 65
+    line [43, 46, 55, 61, 62, 63]
 ```
 
-2026-10-18 43 → 2026-10-30 62（+19）
+2026-10-18 43 → 2026-10-31 63（+20）
 
 
 ---

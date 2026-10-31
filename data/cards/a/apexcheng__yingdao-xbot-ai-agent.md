@@ -1,6 +1,6 @@
 # apexcheng/yingdao-xbot-ai-agent
 
-⭐ 45 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/apexcheng/yingdao-xbot-ai-agent) · [官网](https://github.com/apexcheng/yingdao-xbot-ai-agent/tree/main/docs) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/apexcheng/yingdao-xbot-ai-agent) · [官网](https://github.com/apexcheng/yingdao-xbot-ai-agent/tree/main/docs) · 个人维护 · 中文 README
 
 **影刀 xbot/RPA 开发的中文 AI Agent 知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apexcheng/yingdao-xbot-ai-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 36 --> 46
-    line [37, 40, 42, 43, 44, 45]
+    title "apexcheng/yingdao-xbot-ai-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 36 --> 47
+    line [37, 40, 42, 43, 44, 45, 46]
 ```
 
-2026-10-18 37 → 2026-10-30 45（+8）
+2026-10-18 37 → 2026-10-31 46（+9）
 
 
 ---

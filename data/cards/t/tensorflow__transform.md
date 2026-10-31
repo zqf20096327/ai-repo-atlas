@@ -46,12 +46,12 @@ TensorFlow Transform（tf.Transform）是用于 TensorFlow 数据预处理的 Py
 ```mermaid
 xychart-beta
     title "tensorflow/transform 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 989 --> 992
     line [990, 991, 991]
 ```
 
-2026-10-18 990 → 2026-10-30 991（+1）
+2026-10-18 990 → 2026-10-31 991（+1）
 
 
 ---

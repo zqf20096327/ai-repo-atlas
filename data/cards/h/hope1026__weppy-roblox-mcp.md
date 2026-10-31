@@ -1,6 +1,6 @@
 # hope1026/weppy-roblox-mcp
 
-⭐ 69 · PowerShell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hope1026/weppy-roblox-mcp) · [官网](https://weppyai.com) · 个人维护
+⭐ 70 · PowerShell · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/hope1026/weppy-roblox-mcp) · [官网](https://weppyai.com) · 个人维护
 
 **让 AI agent 直接操作 Roblox Studio 的 MCP 服务器与插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hope1026/weppy-roblox-mcp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 65 --> 70
-    line [66, 67, 68, 69, 69]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 65 --> 71
+    line [66, 67, 68, 69, 70]
 ```
 
-2026-10-18 66 → 2026-10-30 69（+3）
+2026-10-18 66 → 2026-10-31 70（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # PortPy-Project/PortPy
 
-⭐ 196 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/PortPy-Project/PortPy) · 组织维护
+⭐ 196 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/PortPy-Project/PortPy) · 组织维护
 
 **面向科研的癌症放疗计划优化 Python 库与基准数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PortPy-Project/PortPy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 195 --> 198
     line [197, 196, 196]
 ```
 
-2026-10-18 197 → 2026-10-30 196（-1）
+2026-10-18 197 → 2026-10-31 196（-1）
 
 
 ---

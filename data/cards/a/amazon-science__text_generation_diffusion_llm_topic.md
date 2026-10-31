@@ -1,6 +1,6 @@
 # amazon-science/text_generation_diffusion_llm_topic
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/amazon-science/text_generation_diffusion_llm_topic) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/amazon-science/text_generation_diffusion_llm_topic) · 组织维护
 
 **EMNLP 2023 论文 DeTiME 官方实现：扩散增强的主题建模与文本生成**
 
@@ -45,12 +45,12 @@ amazon-science 发布的 DeTiME（Accepted by EMNLP 2023 Findings）官方代码
 ```mermaid
 xychart-beta
     title "amazon-science/text_generation_diffusion_llm_topic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

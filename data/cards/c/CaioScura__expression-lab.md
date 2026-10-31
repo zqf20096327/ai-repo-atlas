@@ -1,6 +1,6 @@
 # CaioScura/expression-lab
 
-⭐ 21 · Python · 推送 2026-10-10 · [GitHub](https://github.com/CaioScura/expression-lab) · 个人维护
+⭐ 23 · Python · 推送 2026-10-10 · [GitHub](https://github.com/CaioScura/expression-lab) · 个人维护
 
 **实时识别手势与面部表情并显示对应梗图的摄像头应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "CaioScura/expression-lab 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 19, 20, 21, 23]
 ```
 
-2026-10-18 16 → 2026-10-30 21（+5）
+2026-10-18 16 → 2026-10-31 23（+7）
 
 
 ---

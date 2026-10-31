@@ -1,6 +1,6 @@
 # mekedron/ClipSlop
 
-⭐ 37 · Swift · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mekedron/ClipSlop) · [官网](https://mekedron.github.io/ClipSlop/) · 个人维护
+⭐ 38 · Swift · MIT · 推送 2026-07-28 · [GitHub](https://github.com/mekedron/ClipSlop) · [官网](https://mekedron.github.io/ClipSlop/) · 个人维护
 
 **macOS 全局快捷键 AI 文本改写工具：选中文本一键修语法/翻译/排版**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mekedron/ClipSlop 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 38]
 ```
 
-2026-10-18 35 → 2026-10-30 37（+2）
+2026-10-18 35 → 2026-10-31 38（+3）
 
 
 ---

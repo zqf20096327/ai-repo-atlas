@@ -1,6 +1,6 @@
 # jagoff/memo
 
-⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jagoff/memo) · [官网](https://memo-web-sigma.vercel.app) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jagoff/memo) · [官网](https://memo-web-sigma.vercel.app) · 个人维护
 
 **给编码 agent 用的本地持久记忆：MCP 服务，Markdown 为真源**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jagoff/memo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 21 --> 25
     line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-10-30 24（+2）
+2026-10-18 22 → 2026-10-31 24（+2）
 
 
 ---

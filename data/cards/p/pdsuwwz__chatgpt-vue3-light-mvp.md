@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pdsuwwz/chatgpt-vue3-light-mvp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "pdsuwwz/chatgpt-vue3-light-mvp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 581 --> 584
-    line [582, 583]
+    line [582, 583, 583]
 ```
 
-2026-10-18 582 → 2026-10-30 583（+1）
+2026-10-18 582 → 2026-10-31 583（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # tninja/aider.el
 
-⭐ 683 · Emacs Lisp · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/tninja/aider.el) · 个人维护 · 中文 README
+⭐ 684 · Emacs Lisp · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/tninja/aider.el) · 个人维护 · 中文 README
 
 **在 Emacs 中使用 Aider 进行 AI 辅助编程的界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tninja/aider.el 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 681 --> 684
-    line [682, 683, 683]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 681 --> 685
+    line [682, 683, 684]
 ```
 
-2026-10-18 682 → 2026-10-30 683（+1）
+2026-10-18 682 → 2026-10-31 684（+2）
 
 
 ---

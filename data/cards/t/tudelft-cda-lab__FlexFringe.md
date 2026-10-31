@@ -1,6 +1,6 @@
 # tudelft-cda-lab/FlexFringe
 
-⭐ 26 · C++ · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/tudelft-cda-lab/FlexFringe) · 组织维护
+⭐ 26 · C++ · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/tudelft-cda-lab/FlexFringe) · 组织维护
 
 **从轨迹学习确定性状态机的 C++ 状态合并框架**
 
@@ -45,12 +45,12 @@ FlexFringe（原 DFASAT）是 C++ 编写的灵活状态合并框架，用于从�
 ```mermaid
 xychart-beta
     title "tudelft-cda-lab/FlexFringe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

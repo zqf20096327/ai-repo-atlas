@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "desertmoosespindle/windows-local-ai-one-click-runtime 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-10-30 20（+0）
+2026-10-19 20 → 2026-10-31 20（+0）
 
 
 ---

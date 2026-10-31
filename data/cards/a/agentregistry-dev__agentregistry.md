@@ -1,6 +1,6 @@
 # agentregistry-dev/agentregistry
 
-⭐ 533 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentregistry-dev/agentregistry) · [官网](https://aregistry.ai) · 组织维护
+⭐ 534 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentregistry-dev/agentregistry) · [官网](https://aregistry.ai) · 组织维护
 
 **集中注册、治理与部署 MCP 服务器、AI agent 与技能的开源注册平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentregistry-dev/agentregistry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 523 --> 534
-    line [524, 525, 527, 530, 531, 532, 533]
+    title "agentregistry-dev/agentregistry 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 523 --> 535
+    line [524, 525, 527, 530, 531, 532, 533, 534]
 ```
 
-2026-10-18 524 → 2026-10-30 533（+9）
+2026-10-18 524 → 2026-10-31 534（+10）
 
 
 ---

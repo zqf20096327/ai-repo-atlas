@@ -1,6 +1,6 @@
 # cszach/awesome-muse
 
-⭐ 20 · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/cszach/awesome-muse) · 个人维护
+⭐ 22 · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/cszach/awesome-muse) · 个人维护
 
 **Meta Muse 个人 AI 助手的社区策展资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cszach/awesome-muse 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 12 --> 21
-    line [13, 16, 18, 20, 20]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 12 --> 23
+    line [13, 16, 18, 20, 22]
 ```
 
-2026-10-18 13 → 2026-10-30 20（+7）
+2026-10-18 13 → 2026-10-31 22（+9）
 
 
 ---

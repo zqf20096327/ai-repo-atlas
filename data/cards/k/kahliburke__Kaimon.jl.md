@@ -1,6 +1,6 @@
 # kahliburke/Kaimon.jl
 
-⭐ 63 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kahliburke/Kaimon.jl) · [官网](https://kahliburke.github.io/Kaimon.jl/dev/) · 个人维护
+⭐ 63 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kahliburke/Kaimon.jl) · [官网](https://kahliburke.github.io/Kaimon.jl/dev/) · 个人维护
 
 **让 AI agent 通过 MCP 全面操作 Julia 运行时的服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kahliburke/Kaimon.jl 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "kahliburke/Kaimon.jl 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 54 --> 64
-    line [55, 56, 58, 59, 60, 61, 63]
+    line [55, 56, 58, 59, 60, 61, 63, 63]
 ```
 
-2026-10-18 55 → 2026-10-30 63（+8）
+2026-10-18 55 → 2026-10-31 63（+8）
 
 
 ---

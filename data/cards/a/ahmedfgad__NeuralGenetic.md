@@ -1,6 +1,6 @@
 # ahmedfgad/NeuralGenetic
 
-⭐ 254 · Python · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/NeuralGenetic) · [官网](https://pygad.readthedocs.io) · 个人维护
+⭐ 255 · Python · 推送 2026-10-17 · [GitHub](https://github.com/ahmedfgad/NeuralGenetic) · [官网](https://pygad.readthedocs.io) · 个人维护
 
 **用遗传算法训练神经网络的 Python 库（PyGAD 的 gann 模块源码仓库）**
 
@@ -44,12 +44,12 @@ NeuralGenetic 是 PyGAD 库的 pygad.gann 模块源码仓库，用于以遗传�
 ```mermaid
 xychart-beta
     title "ahmedfgad/NeuralGenetic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 253 --> 255
-    line [254, 254]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 253 --> 256
+    line [254, 255]
 ```
 
-2026-10-18 254 → 2026-10-30 254（+0）
+2026-10-18 254 → 2026-10-31 255（+1）
 
 
 ---

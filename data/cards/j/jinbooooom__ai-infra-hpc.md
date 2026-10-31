@@ -1,6 +1,6 @@
 # jinbooooom/ai-infra-hpc
 
-⭐ 776 · Cuda · MIT · 推送 2026-04-27 · [GitHub](https://github.com/jinbooooom/ai-infra-hpc) · [官网](https://github.com/jinbooooom/ai-infra-hpc) · 个人维护 · 中文 README
+⭐ 779 · Cuda · MIT · 推送 2026-04-27 · [GitHub](https://github.com/jinbooooom/ai-infra-hpc) · [官网](https://github.com/jinbooooom/ai-infra-hpc) · 个人维护 · 中文 README
 
 **AI-Infra/HPC 底层技术学习笔记：CUDA、NCCL、RDMA、并行训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jinbooooom/ai-infra-hpc 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 765 --> 777
-    line [766, 768, 769, 770, 773, 775, 776]
+    title "jinbooooom/ai-infra-hpc 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 765 --> 780
+    line [766, 768, 769, 770, 773, 775, 776, 779]
 ```
 
-2026-10-18 766 → 2026-10-30 776（+10）
+2026-10-18 766 → 2026-10-31 779（+13）
 
 
 ---

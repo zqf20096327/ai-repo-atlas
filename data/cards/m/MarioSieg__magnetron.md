@@ -1,6 +1,6 @@
 # MarioSieg/magnetron
 
-⭐ 708 · C · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/MarioSieg/magnetron) · 个人维护
+⭐ 708 · C · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/MarioSieg/magnetron) · 个人维护
 
 **零依赖 C 实现的紧凑 ML 运行时，附带 Python API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MarioSieg/magnetron 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 707 --> 710
     line [709, 708, 708]
 ```
 
-2026-10-18 709 → 2026-10-30 708（-1）
+2026-10-18 709 → 2026-10-31 708（-1）
 
 
 ---

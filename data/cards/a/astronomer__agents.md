@@ -1,6 +1,6 @@
 # astronomer/agents
 
-⭐ 458 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/astronomer/agents) · [官网](https://astronomer.io) · 组织维护
+⭐ 459 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/astronomer/agents) · [官网](https://astronomer.io) · 组织维护
 
 **为数据工程工作流提供 Airflow MCP 服务器、CLI 与 AI 编码代理技能**
 
@@ -45,13 +45,13 @@ Astronomer 维护的数据工程 AI 代理工具集：包含面向 Airflow 的 M
 
 ```mermaid
 xychart-beta
-    title "astronomer/agents 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 452 --> 459
-    line [453, 454, 455, 456, 457, 458]
+    title "astronomer/agents 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 452 --> 460
+    line [453, 454, 455, 456, 457, 458, 459]
 ```
 
-2026-10-18 453 → 2026-10-30 458（+5）
+2026-10-18 453 → 2026-10-31 459（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # zjunlp/SciAtlas
 
-⭐ 165 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zjunlp/SciAtlas) · [官网](http://sciatlas.openkg.cn/) · 组织维护 · 中文 README
+⭐ 166 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/zjunlp/SciAtlas) · [官网](http://sciatlas.openkg.cn/) · 组织维护 · 中文 README
 
 **科研知识图谱及其客户端：文献检索与科研工作流自动化**
 
@@ -46,13 +46,13 @@ SciAtlas 提供连接论文、作者、机构、引文与四级研究分类体�
 
 ```mermaid
 xychart-beta
-    title "zjunlp/SciAtlas 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 161 --> 166
-    line [162, 163, 164, 165]
+    title "zjunlp/SciAtlas 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 161 --> 167
+    line [162, 163, 164, 165, 166]
 ```
 
-2026-10-18 162 → 2026-10-30 165（+3）
+2026-10-18 162 → 2026-10-31 166（+4）
 
 
 ---

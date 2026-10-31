@@ -1,6 +1,6 @@
 # Superior-Trade/trading-terminal
 
-⭐ 1,004 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/Superior-Trade/trading-terminal) · [官网](https://terminal.superior.trade) · 组织维护
+⭐ 1,006 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Superior-Trade/trading-terminal) · [官网](https://terminal.superior.trade) · 组织维护
 
 **面向 Hyperliquid 的自托管 AI 交易终端：图表手绘预测生成可执行策略**
 
@@ -45,13 +45,13 @@ AI 交易终端，面向 Hyperliquid 交易者。用户在图表上绘制趋势�
 
 ```mermaid
 xychart-beta
-    title "Superior-Trade/trading-terminal 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 803 --> 1023
-    line [821, 910, 977, 1005, 1004, 1003, 1004]
+    title "Superior-Trade/trading-terminal 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 803 --> 1024
+    line [821, 910, 977, 1005, 1004, 1003, 1004, 1006]
 ```
 
-2026-10-18 821 → 2026-10-30 1,004（+183）
+2026-10-18 821 → 2026-10-31 1,006（+185）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/ai-desktop-outfit-video
 
-⭐ 54 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/liyupi/ai-desktop-outfit-video) · 个人维护 · 中文 README
+⭐ 55 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/liyupi/ai-desktop-outfit-video) · 个人维护 · 中文 README
 
 **AI 桌面换装视频的提示词模板与 Agent Skill 教程仓库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/ai-desktop-outfit-video 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 51 --> 56
-    line [52, 55, 54, 54]
+    line [52, 55, 54, 55]
 ```
 
-2026-10-18 52 → 2026-10-30 54（+2）
+2026-10-18 52 → 2026-10-31 55（+3）
 
 
 ---

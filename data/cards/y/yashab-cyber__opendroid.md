@@ -1,6 +1,6 @@
 # yashab-cyber/opendroid
 
-⭐ 1,219 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/yashab-cyber/opendroid) · [官网](https://yashab-cyber.github.io/opendroid/) · 个人维护
+⭐ 1,225 · Kotlin · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/yashab-cyber/opendroid) · [官网](https://yashab-cyber.github.io/opendroid/) · 个人维护
 
 **运行在 Android 手机上的自主 AI 代理应用，替用户执行任务**
 
@@ -45,13 +45,13 @@ OpenDroid 是一个 Android 原生应用（Kotlin/Jetpack Compose，Dagger-Hilt 
 
 ```mermaid
 xychart-beta
-    title "yashab-cyber/opendroid 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1155 --> 1224
-    line [1160, 1176, 1184, 1189, 1193, 1197, 1202, 1203, 1206, 1212, 1219]
+    title "yashab-cyber/opendroid 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1154 --> 1231
+    line [1160, 1176, 1184, 1189, 1193, 1197, 1202, 1203, 1206, 1212, 1219, 1225]
 ```
 
-2026-10-18 1,160 → 2026-10-30 1,219（+59）
+2026-10-18 1,160 → 2026-10-31 1,225（+65）
 
 
 ---

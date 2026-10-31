@@ -44,12 +44,12 @@ Gemini CLI 扩展：将 CLI 连接到 GitLab 官方托管的 MCP 服务器（git
 ```mermaid
 xychart-beta
     title "GitLab-Ecosystem/Gemini-CLI-Extensions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

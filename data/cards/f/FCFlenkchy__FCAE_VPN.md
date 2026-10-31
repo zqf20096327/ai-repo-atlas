@@ -1,6 +1,6 @@
 # FCFlenkchy/FCAE_VPN
 
-⭐ 68 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/FCFlenkchy/FCAE_VPN) · [官网](https://fcaevpn.fluxcast.dev/) · 个人维护 · 中文 README
+⭐ 69 · Rust · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/FCFlenkchy/FCAE_VPN) · [官网](https://fcaevpn.fluxcast.dev/) · 个人维护 · 中文 README
 
 **多平台翻墙 VPN 客户端，经 Cloudflare WARP 建加密隧道**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FCFlenkchy/FCAE_VPN 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 63 --> 69
-    line [64, 65, 66, 67, 68, 68]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 63 --> 70
+    line [64, 65, 66, 67, 68, 69]
 ```
 
-2026-10-18 64 → 2026-10-30 68（+4）
+2026-10-18 64 → 2026-10-31 69（+5）
 
 
 ---

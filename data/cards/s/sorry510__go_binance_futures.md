@@ -1,6 +1,6 @@
 # sorry510/go_binance_futures
 
-⭐ 254 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sorry510/go_binance_futures) · 个人维护 · 中文 README
+⭐ 254 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sorry510/go_binance_futures) · 个人维护 · 中文 README
 
 **面向个人用户的币安合约量化交易机器人，内置 AI 分析与受控交易**
 
@@ -45,13 +45,13 @@ Go 编写的币安 U 本位合约交易程序，提供 Web UI 管理按币种配
 
 ```mermaid
 xychart-beta
-    title "sorry510/go_binance_futures 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30"]
+    title "sorry510/go_binance_futures 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 250 --> 255
-    line [252, 251, 252, 253, 254]
+    line [252, 251, 252, 253, 254, 254]
 ```
 
-2026-10-18 252 → 2026-10-30 254（+2）
+2026-10-18 252 → 2026-10-31 254（+2）
 
 
 ---

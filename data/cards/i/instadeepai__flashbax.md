@@ -44,13 +44,13 @@ InstaDeep 维护的 Python 库，为强化学习提供可在 jax.jit/jax.pmap �
 
 ```mermaid
 xychart-beta
-    title "instadeepai/flashbax 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "instadeepai/flashbax 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 280 --> 283
-    line [281, 282]
+    line [281, 282, 282]
 ```
 
-2026-10-18 281 → 2026-10-30 282（+1）
+2026-10-18 281 → 2026-10-31 282（+1）
 
 
 ---

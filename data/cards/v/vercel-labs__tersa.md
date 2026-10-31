@@ -1,6 +1,6 @@
 # vercel-labs/tersa
 
-⭐ 1,044 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/vercel-labs/tersa) · [官网](https://tersa-phi.vercel.app) · 组织维护
+⭐ 1,045 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/vercel-labs/tersa) · [官网](https://tersa-phi.vercel.app) · 组织维护
 
 **可视化拖拽画布，用于搭建和运行 AI 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vercel-labs/tersa 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1041 --> 1045
-    line [1043, 1042, 1044, 1043, 1044, 1044]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 1041 --> 1046
+    line [1043, 1042, 1044, 1043, 1044, 1045]
 ```
 
-2026-10-18 1,043 → 2026-10-30 1,044（+1）
+2026-10-18 1,043 → 2026-10-31 1,045（+2）
 
 
 ---

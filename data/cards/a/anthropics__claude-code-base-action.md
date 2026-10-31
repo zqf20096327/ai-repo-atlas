@@ -1,6 +1,6 @@
 # anthropics/claude-code-base-action
 
-⭐ 1,022 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/anthropics/claude-code-base-action) · 组织维护
+⭐ 1,024 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/anthropics/claude-code-base-action) · 组织维护
 
 **在 GitHub Actions 中运行 Claude Code 的基础 Action**
 
@@ -44,13 +44,13 @@ anthropics/claude-code-action 仓库 base-action 目录的自动镜像，不接�
 
 ```mermaid
 xychart-beta
-    title "anthropics/claude-code-base-action 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1004 --> 1023
-    line [1005, 1008, 1013, 1015, 1014, 1016, 1017, 1020, 1021, 1022]
+    title "anthropics/claude-code-base-action 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1004 --> 1025
+    line [1005, 1008, 1013, 1015, 1014, 1016, 1017, 1020, 1021, 1022, 1024]
 ```
 
-2026-10-18 1,005 → 2026-10-30 1,022（+17）
+2026-10-18 1,005 → 2026-10-31 1,024（+19）
 
 
 ---

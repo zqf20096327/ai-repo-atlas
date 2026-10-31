@@ -1,6 +1,6 @@
 # sourcery-ai/sourcery
 
-⭐ 1,877 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sourcery-ai/sourcery) · [官网](https://sourcery.ai) · 组织维护
+⭐ 1,879 · MIT · 推送 2026-10-22 · [GitHub](https://github.com/sourcery-ai/sourcery) · [官网](https://sourcery.ai) · 组织维护
 
 **面向 GitHub 仓库的 AI 自动代码审查服务，另含 IDE 助手**
 
@@ -44,12 +44,12 @@ Sourcery 是由 Sourcery 团队提供的自动化代码审查服务：对任意 
 ```mermaid
 xychart-beta
     title "sourcery-ai/sourcery 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1876 --> 1879
-    line [1877, 1878, 1877, 1877]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 1876 --> 1880
+    line [1877, 1878, 1877, 1879]
 ```
 
-2026-10-18 1,877 → 2026-10-30 1,877（+0）
+2026-10-18 1,877 → 2026-10-31 1,879（+2）
 
 
 ---

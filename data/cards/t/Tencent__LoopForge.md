@@ -1,6 +1,6 @@
 # Tencent/LoopForge
 
-⭐ 71 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
+⭐ 73 · Go · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
 
 **自托管平台：将编码 Agent、脚本与人工审批编排为交付工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent/LoopForge 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 56 --> 72
-    line [57, 61, 63, 64, 68, 69, 71, 71]
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 56 --> 74
+    line [57, 61, 63, 64, 68, 69, 71, 73]
 ```
 
-2026-10-19 57 → 2026-10-30 71（+14）
+2026-10-19 57 → 2026-10-31 73（+16）
 
 
 ---

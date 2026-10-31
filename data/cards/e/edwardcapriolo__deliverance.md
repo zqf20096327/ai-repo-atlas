@@ -1,6 +1,6 @@
 # edwardcapriolo/deliverance
 
-⭐ 41 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/edwardcapriolo/deliverance) · 个人维护
+⭐ 41 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/edwardcapriolo/deliverance) · 个人维护
 
 **Java 编写的 LLM 推理引擎，本地运行生成/嵌入/分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edwardcapriolo/deliverance 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-18 40 → 2026-10-30 41（+1）
+2026-10-18 40 → 2026-10-31 41（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Solana Mobile Hackathon 获奖项目：在 Android 应用内嵌 Node.js 运行�
 ```mermaid
 xychart-beta
     title "sepivip/SeekerClaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 318 --> 320
     line [319, 319]
 ```
 
-2026-10-18 319 → 2026-10-30 319（+0）
+2026-10-18 319 → 2026-10-31 319（+0）
 
 
 ---

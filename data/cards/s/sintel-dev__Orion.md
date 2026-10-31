@@ -1,6 +1,6 @@
 # sintel-dev/Orion
 
-⭐ 1,373 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/sintel-dev/Orion) · [官网](https://sintel.dev/Orion/) · 组织维护
+⭐ 1,374 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/sintel-dev/Orion) · [官网](https://sintel.dev/Orion/) · 组织维护
 
 **MIT 实验库：无监督时间序列异常检测**
 
@@ -45,12 +45,12 @@ Data to AI Lab at MIT 开发的 Python 机器学习库，面向无监督时间�
 ```mermaid
 xychart-beta
     title "sintel-dev/Orion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1372 --> 1374
-    line [1373, 1373]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1372 --> 1375
+    line [1373, 1374]
 ```
 
-2026-10-18 1,373 → 2026-10-30 1,373（+0）
+2026-10-18 1,373 → 2026-10-31 1,374（+1）
 
 
 ---

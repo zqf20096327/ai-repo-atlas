@@ -1,6 +1,6 @@
 # atharvotech/FreeDeepseekAPI-EN
 
-⭐ 62 · JavaScript · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/atharvotech/FreeDeepseekAPI-EN) · [官网](https://instagram.com/atharvotech) · 组织维护 · 中文 README
+⭐ 63 · JavaScript · NOASSERTION · 推送 2026-09-06 · [GitHub](https://github.com/atharvotech/FreeDeepseekAPI-EN) · [官网](https://instagram.com/atharvotech) · 组织维护 · 中文 README
 
 **将 DeepSeek 网页聊天封装为本地 OpenAI 兼容 API 的代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atharvotech/FreeDeepseekAPI-EN 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 50 --> 63
-    line [51, 52, 53, 55, 57, 59, 60, 61, 62]
+    title "atharvotech/FreeDeepseekAPI-EN 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 50 --> 64
+    line [51, 52, 53, 55, 57, 59, 60, 61, 62, 63]
 ```
 
-2026-10-18 51 → 2026-10-30 62（+11）
+2026-10-18 51 → 2026-10-31 63（+12）
 
 
 ---

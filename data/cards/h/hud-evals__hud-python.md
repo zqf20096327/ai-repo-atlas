@@ -1,6 +1,6 @@
 # hud-evals/hud-python
 
-⭐ 320 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/hud-evals/hud-python) · [官网](https://www.hud.ai) · 组织维护
+⭐ 321 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hud-evals/hud-python) · [官网](https://www.hud.ai) · 组织维护
 
 **AI agent 的 RL 环境与评测平台：一次定义，跨模型训练评测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hud-evals/hud-python 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 312 --> 321
-    line [313, 314, 315, 320, 320]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 312 --> 322
+    line [313, 314, 315, 320, 321]
 ```
 
-2026-10-18 313 → 2026-10-30 320（+7）
+2026-10-18 313 → 2026-10-31 321（+8）
 
 
 ---

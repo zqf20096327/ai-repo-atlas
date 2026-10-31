@@ -1,6 +1,6 @@
 # modal-labs/modal-examples
 
-⭐ 1,288 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/modal-labs/modal-examples) · [官网](https://modal.com/docs) · 组织维护
+⭐ 1,288 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/modal-labs/modal-examples) · [官网](https://modal.com/docs) · 组织维护
 
 **Modal 云平台的官方示例程序集合**
 
@@ -42,13 +42,13 @@ Modal 官方维护的示例代码库，按类别组织为编号文件夹（01_ge
 
 ```mermaid
 xychart-beta
-    title "modal-labs/modal-examples 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "modal-labs/modal-examples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1281 --> 1289
-    line [1282, 1283, 1284, 1285, 1287, 1288]
+    line [1282, 1283, 1284, 1285, 1287, 1288, 1288]
 ```
 
-2026-10-18 1,282 → 2026-10-30 1,288（+6）
+2026-10-18 1,282 → 2026-10-31 1,288（+6）
 
 
 ---

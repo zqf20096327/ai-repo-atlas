@@ -1,6 +1,6 @@
 # lucidrains/robo_ttt
 
-⭐ 107 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/lucidrains/robo_ttt) · 个人维护
+⭐ 108 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/lucidrains/robo_ttt) · 个人维护
 
 **RoboTTT 论文的 PyTorch 实现：机器人策略的测试时训练**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/robo_ttt 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 101 --> 108
-    line [102, 103, 105, 107, 107]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 101 --> 109
+    line [102, 103, 105, 107, 108]
 ```
 
-2026-10-18 102 → 2026-10-30 107（+5）
+2026-10-18 102 → 2026-10-31 108（+6）
 
 
 ---

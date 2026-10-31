@@ -1,6 +1,6 @@
 # loadkpi/simplified-technical-russian-skill
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-08-11 · [GitHub](https://github.com/loadkpi/simplified-technical-russian-skill) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-08-11 · [GitHub](https://github.com/loadkpi/simplified-technical-russian-skill) · 个人维护
 
 **让 AI 编程代理按 ГОСТ Р 58049—2017 写简化俄语技术文本的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "loadkpi/simplified-technical-russian-skill 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 14, 15]
+    title "loadkpi/simplified-technical-russian-skill 星数(近 5 点)"
+    x-axis ["2026-10-19", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 14, 15, 16]
 ```
 
-2026-10-19 11 → 2026-10-30 15（+4）
+2026-10-19 11 → 2026-10-31 16（+5）
 
 
 ---

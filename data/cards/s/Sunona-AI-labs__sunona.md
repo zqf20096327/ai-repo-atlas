@@ -1,6 +1,6 @@
 # Sunona-AI-labs/sunona
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Sunona-AI-labs/sunona) · [官网](https://sunona-twilio.onrender.com) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Sunona-AI-labs/sunona) · [官网](https://sunona-twilio.onrender.com) · 组织维护
 
 **语音 AI 平台：编排 STT+LLM+TTS 构建电话/语音助手**
 
@@ -46,12 +46,12 @@ Python 语音 AI 平台，将实时语音转写、LLM 与语音合成串联为�
 ```mermaid
 xychart-beta
     title "Sunona-AI-labs/sunona 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

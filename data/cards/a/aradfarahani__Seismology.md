@@ -1,6 +1,6 @@
 # aradfarahani/Seismology
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aradfarahani/Seismology) · 个人维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aradfarahani/Seismology) · 个人维护
 
 **面向地震学的机器学习工具集合：地震数据预处理、检测与可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aradfarahani/Seismology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 31（+0）
 
 
 ---

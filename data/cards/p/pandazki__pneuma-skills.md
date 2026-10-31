@@ -1,6 +1,6 @@
 # pandazki/pneuma-skills
 
-⭐ 161 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pandazki/pneuma-skills) · 个人维护 · 中文 README
+⭐ 161 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pandazki/pneuma-skills) · 个人维护 · 中文 README
 
 **人与代码 agent 协作的内容创作基础设施，含可视化环境与技能模式**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pandazki/pneuma-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 160 --> 162
     line [161, 161]
 ```
 
-2026-10-18 161 → 2026-10-30 161（+0）
+2026-10-18 161 → 2026-10-31 161（+0）
 
 
 ---

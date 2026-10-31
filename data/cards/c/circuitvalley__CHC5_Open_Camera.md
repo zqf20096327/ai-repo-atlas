@@ -1,6 +1,6 @@
 # circuitvalley/CHC5_Open_Camera
 
-⭐ 120 · C · 推送 2026-10-20 · [GitHub](https://github.com/circuitvalley/CHC5_Open_Camera) · [官网](https://www.circuitvalley.com) · 个人维护
+⭐ 122 · C · 推送 2026-10-20 · [GitHub](https://github.com/circuitvalley/CHC5_Open_Camera) · [官网](https://www.circuitvalley.com) · 个人维护
 
 **开源机器视觉相机：FPGA ISP、可换镜头、多 Sony 传感器**
 
@@ -45,12 +45,12 @@ CircuitValley 开发的开源机器视觉相机系统，采用 FPGA 实现 ISP�
 ```mermaid
 xychart-beta
     title "circuitvalley/CHC5_Open_Camera 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 114 --> 121
-    line [115, 118, 119, 120, 120]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 114 --> 123
+    line [115, 118, 119, 120, 122]
 ```
 
-2026-10-18 115 → 2026-10-30 120（+5）
+2026-10-18 115 → 2026-10-31 122（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/copilot-alm-starter
 
-⭐ 70 · PowerShell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/copilot-alm-starter) · 组织维护
+⭐ 71 · PowerShell · MIT · 推送 2026-10-19 · [GitHub](https://github.com/microsoft/copilot-alm-starter) · 组织维护
 
 **Copilot Studio agent 的 ALM 模板：CI/CD 工作流与部署指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/copilot-alm-starter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-18 70 → 2026-10-30 70（+0）
+2026-10-18 70 → 2026-10-31 71（+1）
 
 
 ---

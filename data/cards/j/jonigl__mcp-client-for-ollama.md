@@ -1,6 +1,6 @@
 # jonigl/mcp-client-for-ollama
 
-⭐ 834 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/jonigl/mcp-client-for-ollama) · 个人维护 · 中文 README
+⭐ 835 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/jonigl/mcp-client-for-ollama) · 个人维护 · 中文 README
 
 **连接本地 Ollama 与 MCP 服务器的终端客户端**
 
@@ -46,12 +46,12 @@ Python 编写的交互式终端应用（TUI），将本地 Ollama 模型连接�
 ```mermaid
 xychart-beta
     title "jonigl/mcp-client-for-ollama 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 830 --> 835
-    line [831, 832, 833, 832, 833, 834, 834]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 830 --> 836
+    line [831, 832, 833, 832, 833, 834, 835]
 ```
 
-2026-10-18 831 → 2026-10-30 834（+3）
+2026-10-18 831 → 2026-10-31 835（+4）
 
 
 ---

@@ -46,12 +46,12 @@ Node.js/TypeScript 编写的桥接程序：通过 WebSocket 连接飞书机器�
 ```mermaid
 xychart-beta
     title "Blackman99/agent-feishu-channel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-18 48 → 2026-10-30 48（+0）
+2026-10-18 48 → 2026-10-31 48（+0）
 
 
 ---

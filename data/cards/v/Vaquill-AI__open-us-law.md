@@ -1,6 +1,6 @@
 # Vaquill-AI/open-us-law
 
-⭐ 88 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Vaquill-AI/open-us-law) · [官网](https://huggingface.co/datasets/vaquill/open-us-law) · 组织维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Vaquill-AI/open-us-law) · [官网](https://huggingface.co/datasets/vaquill/open-us-law) · 组织维护
 
 **美国成文法结构化开放语料库：509万条法条及采集管线**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vaquill-AI/open-us-law 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 78 --> 89
-    line [79, 81, 82, 84, 86, 87, 88]
+    title "Vaquill-AI/open-us-law 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 78 --> 91
+    line [79, 81, 82, 84, 86, 87, 88, 90]
 ```
 
-2026-10-18 79 → 2026-10-30 88（+9）
+2026-10-18 79 → 2026-10-31 90（+11）
 
 
 ---

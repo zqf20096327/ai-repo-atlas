@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ThomasTartrau/n8n-nodes-claude-code-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-30 77（+0）
+2026-10-18 77 → 2026-10-31 77（+0）
 
 
 ---

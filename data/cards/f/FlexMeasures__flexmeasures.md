@@ -1,6 +1,6 @@
 # FlexMeasures/flexmeasures
 
-⭐ 212 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/FlexMeasures/flexmeasures) · [官网](https://flexmeasures.io) · 组织维护
+⭐ 214 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/FlexMeasures/flexmeasures) · [官网](https://flexmeasures.io) · 组织维护
 
 **能源柔性资产的实时调度与预测优化平台（EMS 后端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FlexMeasures/flexmeasures 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 211 --> 213
-    line [212, 212]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 211 --> 215
+    line [212, 214]
 ```
 
-2026-10-18 212 → 2026-10-30 212（+0）
+2026-10-18 212 → 2026-10-31 214（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jtablesaw/tablesaw
 
-⭐ 3,767 · Java · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/jtablesaw/tablesaw) · [官网](https://jtablesaw.github.io/tablesaw/) · 组织维护
+⭐ 3,768 · Java · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/jtablesaw/tablesaw) · [官网](https://jtablesaw.github.io/tablesaw/) · 组织维护
 
 **Java 数据处理与可视化库：加载、清洗、变换、汇总数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jtablesaw/tablesaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3763 --> 3768
-    line [3765, 3764, 3765, 3766, 3767, 3766, 3767]
+    title "jtablesaw/tablesaw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3763 --> 3769
+    line [3765, 3764, 3765, 3766, 3767, 3766, 3767, 3768]
 ```
 
-2026-10-18 3,765 → 2026-10-30 3,767（+2）
+2026-10-18 3,765 → 2026-10-31 3,768（+3）
 
 
 ---

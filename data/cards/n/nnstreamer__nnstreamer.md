@@ -1,6 +1,6 @@
 # nnstreamer/nnstreamer
 
-⭐ 800 · C++ · LGPL-2.1 · 推送 2026-10-29 · [GitHub](https://github.com/nnstreamer/nnstreamer) · [官网](https://nnstreamer.ai) · 组织维护
+⭐ 800 · C++ · LGPL-2.1 · 推送 2026-10-30 · [GitHub](https://github.com/nnstreamer/nnstreamer) · [官网](https://nnstreamer.ai) · 组织维护
 
 **把神经网络模型接入 GStreamer 流水线的插件集，面向嵌入式/边缘设备**
 
@@ -46,12 +46,12 @@ NNStreamer 是一组 GStreamer 插件，使 GStreamer 开发者能在媒体流�
 ```mermaid
 xychart-beta
     title "nnstreamer/nnstreamer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
     y-axis "stars" 799 --> 802
     line [800, 801, 800, 800]
 ```
 
-2026-10-18 800 → 2026-10-30 800（+0）
+2026-10-18 800 → 2026-10-31 800（+0）
 
 
 ---

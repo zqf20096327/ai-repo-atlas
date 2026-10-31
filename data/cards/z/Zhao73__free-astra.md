@@ -1,6 +1,6 @@
 # Zhao73/free-astra
 
-⭐ 28 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Zhao73/free-astra) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Zhao73/free-astra) · 个人维护
 
 **把 Prism 网页会话桥接进本地 Codex 免费用 GPT-6-Astra 的适配器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zhao73/free-astra 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 28, 28]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 26 --> 30
+    line [28, 29, 28, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

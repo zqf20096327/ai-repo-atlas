@@ -1,6 +1,6 @@
 # EricTechPro/super-board
 
-⭐ 552 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
+⭐ 560 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
 
 **Claude Code 的自主看板流水线：任务卡自动构建→QA→审查→合并 PR**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EricTechPro/super-board 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 332 --> 572
-    line [352, 401, 431, 457, 473, 478, 494, 510, 527, 543, 552]
+    title "EricTechPro/super-board 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 332 --> 580
+    line [352, 401, 431, 457, 473, 478, 494, 510, 527, 543, 552, 560]
 ```
 
-2026-10-18 352 → 2026-10-30 552（+200）
+2026-10-18 352 → 2026-10-31 560（+208）
 
 
 ---

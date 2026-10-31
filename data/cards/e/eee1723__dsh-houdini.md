@@ -1,6 +1,6 @@
 # eee1723/dsh-houdini
 
-⭐ 15 · Python · 推送 2026-10-29 · [GitHub](https://github.com/eee1723/dsh-houdini) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-10-30 · [GitHub](https://github.com/eee1723/dsh-houdini) · 个人维护 · 中文 README
 
 **让 AI Agent 用自然语言操作 Houdini 工程的 DSH 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eee1723/dsh-houdini 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 9 --> 16
-    line [10, 12, 13, 14, 15]
+    title "eee1723/dsh-houdini 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9 --> 18
+    line [10, 12, 13, 14, 15, 17]
 ```
 
-2026-10-22 10 → 2026-10-30 15（+5）
+2026-10-22 10 → 2026-10-31 17（+7）
 
 
 ---

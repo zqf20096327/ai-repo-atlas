@@ -1,6 +1,6 @@
 # khakhasshi/LLM_QUANT_FACTORY
 
-⭐ 70 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/khakhasshi/LLM_QUANT_FACTORY) · 个人维护 · 中文 README
+⭐ 72 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/khakhasshi/LLM_QUANT_FACTORY) · 个人维护 · 中文 README
 
 **A 股多因子研究工作台：LLM 辅助因子发现与受约束组合回测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "khakhasshi/LLM_QUANT_FACTORY 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 69 --> 73
+    line [70, 72]
 ```
 
-2026-10-18 70 → 2026-10-30 70（+0）
+2026-10-18 70 → 2026-10-31 72（+2）
 
 
 ---

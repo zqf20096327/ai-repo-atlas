@@ -1,6 +1,6 @@
 # AlbertTan404/AI-PhD.SKILL
 
-⭐ 26 · 推送 2026-10-28 · [GitHub](https://github.com/AlbertTan404/AI-PhD.SKILL) · [官网](https://www.xiaohongshu.com/user/profile/673b4c44000000001d02d37e) · 个人维护 · 中文 README
+⭐ 29 · 推送 2026-10-28 · [GitHub](https://github.com/AlbertTan404/AI-PhD.SKILL) · [官网](https://www.xiaohongshu.com/user/profile/673b4c44000000001d02d37e) · 个人维护 · 中文 README
 
 **面向 AI 博士生的科研经验与技术开放笔记集**
 
@@ -39,6 +39,18 @@
 
 > L9: AI-PhD.SKILL 是一份面向 AI 博士生和研究者的开放笔记：从选题、读论文、做实验，到写作、交流、研究判断，以及 RL 和软件工程。既有个人经历与观察，也有可以跟着推导的技术内容。希望它能帮助你进入一个领域，把问题想清楚，
 > L19: AI-PhD.SKILL is a collection of open notes designed for AI PhD students and researchers. It covers a wide range of 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlbertTan404/AI-PhD.SKILL 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 25 --> 30
+    line [26, 29]
+```
+
+2026-10-30 26 → 2026-10-31 29（+3）
 
 
 ---

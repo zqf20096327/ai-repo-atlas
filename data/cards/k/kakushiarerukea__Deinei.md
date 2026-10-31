@@ -1,6 +1,6 @@
 # kakushiarerukea/Deinei
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kakushiarerukea/Deinei) · [官网](https://x.com/DeineiDev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kakushiarerukea/Deinei) · [官网](https://x.com/DeineiDev) · 个人维护
 
 **全本地 AI 陪伴应用：长期记忆 RAG + 3D/Live2D 形象 + 实时语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kakushiarerukea/Deinei 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 7 --> 18
-    line [8, 17]
+    title "kakushiarerukea/Deinei 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7 --> 19
+    line [8, 17, 18]
 ```
 
-2026-10-29 8 → 2026-10-30 17（+9）
+2026-10-29 8 → 2026-10-31 18（+10）
 
 
 ---

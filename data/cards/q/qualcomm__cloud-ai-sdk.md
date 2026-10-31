@@ -1,6 +1,6 @@
 # qualcomm/cloud-ai-sdk
 
-⭐ 85 · Jupyter Notebook · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/qualcomm/cloud-ai-sdk) · [官网](https://quic.github.io/cloud-ai-sdk-pages/latest/) · 组织维护
+⭐ 85 · Jupyter Notebook · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/qualcomm/cloud-ai-sdk) · [官网](https://quic.github.io/cloud-ai-sdk-pages/latest/) · 组织维护
 
 **高通 Cloud AI 100 加速器的模型部署教程与示例资源库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qualcomm/cloud-ai-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-18 85 → 2026-10-30 85（+0）
+2026-10-18 85 → 2026-10-31 85（+0）
 
 
 ---

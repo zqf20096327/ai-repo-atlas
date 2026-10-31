@@ -41,6 +41,18 @@
 > L24: 桌面界面提供中英文、明暗主题、自定义 CSS、系统托盘与窗口状态恢复。代理运行时使用 npm 发布的 `@earendil-works/pi-coding-agent`，无需克隆或映射本地 Pi 源码。
 > L131: Development requires Node.js 22.19.0 or later. Run `npm ci` and `npm run start`; use `npm run check` for build/typ
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Eileenes/pi-desktop 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
+```
+
+2026-10-30 27 → 2026-10-31 27（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `36da94936e43` · [字段定义](../../DATASET.md)*

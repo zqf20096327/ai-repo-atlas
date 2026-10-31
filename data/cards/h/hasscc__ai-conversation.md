@@ -45,12 +45,12 @@ Home Assistant 自定义组件，通过配置服务与模型接入任意 OpenAI 
 ```mermaid
 xychart-beta
     title "hasscc/ai-conversation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

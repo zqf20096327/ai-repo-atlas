@@ -1,6 +1,6 @@
 # OriginTrail/dkg
 
-⭐ 141 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
+⭐ 141 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
 
 **面向多智能体的去中心化知识图谱共享记忆节点**
 
@@ -40,6 +40,18 @@ OriginTrail DKG V10 是一个 monorepo，包含节点软件、CLI、仪表盘 UI
 > L14: The Decentralized Knowledge Graph V10 is the shared, verifiable memory layer for multi-agent AI systems. Every find
 > L20: Any AI agent — whether built with OpenClaw, ElizaOS, Hermes, or any custom framework — can run a DKG node and start
 > L113: ### Model Context Protocol (MCP)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OriginTrail/dkg 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 140 --> 142
+    line [141, 141]
+```
+
+2026-10-30 141 → 2026-10-31 141（+0）
 
 
 ---

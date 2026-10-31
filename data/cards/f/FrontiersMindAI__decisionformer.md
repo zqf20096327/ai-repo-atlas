@@ -45,13 +45,13 @@ Python 库与 CLI：将 Hugging Face transformers 的各类骨干（解码器、
 
 ```mermaid
 xychart-beta
-    title "FrontiersMindAI/decisionformer 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "FrontiersMindAI/decisionformer 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 26 --> 42
-    line [27, 34, 38, 39, 41]
+    line [27, 34, 38, 39, 41, 41]
 ```
 
-2026-10-25 27 → 2026-10-30 41（+14）
+2026-10-25 27 → 2026-10-31 41（+14）
 
 
 ---

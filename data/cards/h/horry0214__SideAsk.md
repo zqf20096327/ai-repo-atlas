@@ -1,6 +1,6 @@
 # horry0214/SideAsk
 
-⭐ 54 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/horry0214/SideAsk) · 个人维护 · 中文 README
+⭐ 55 · JavaScript · MIT · 推送 2026-08-29 · [GitHub](https://github.com/horry0214/SideAsk) · 个人维护 · 中文 README
 
 **浏览器即选即问的 AI 释义层：划词提问不切页**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "horry0214/SideAsk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 49 --> 55
-    line [50, 51, 53, 54, 54]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 49 --> 56
+    line [50, 51, 53, 54, 55]
 ```
 
-2026-10-18 50 → 2026-10-30 54（+4）
+2026-10-18 50 → 2026-10-31 55（+5）
 
 
 ---

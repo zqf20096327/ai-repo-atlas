@@ -45,12 +45,12 @@ Facebook Research Segment Anything 2 的浏览器端 WebGPU 实现，基于 ONNX
 ```mermaid
 xychart-beta
     title "lucasgelfond/webgpu-sam2 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 183 --> 186
     line [184, 185, 185]
 ```
 
-2026-10-18 184 → 2026-10-30 185（+1）
+2026-10-18 184 → 2026-10-31 185（+1）
 
 
 ---

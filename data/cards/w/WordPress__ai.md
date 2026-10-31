@@ -1,6 +1,6 @@
 # WordPress/ai
 
-⭐ 375 · PHP · GPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/WordPress/ai) · [官网](https://wordpress.org/plugins/ai/) · 组织维护
+⭐ 378 · PHP · GPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/WordPress/ai) · [官网](https://wordpress.org/plugins/ai/) · 组织维护
 
 **WordPress 官方 AI 插件：为编辑与管理员提供一系列可选 AI 功能**
 
@@ -45,13 +45,13 @@ WordPress 官方 AI 团队维护的实验性插件，作为 AI Building Blocks �
 
 ```mermaid
 xychart-beta
-    title "WordPress/ai 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 363 --> 376
-    line [364, 366, 367, 366, 368, 369, 371, 375]
+    title "WordPress/ai 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 363 --> 379
+    line [364, 366, 367, 366, 368, 369, 371, 375, 378]
 ```
 
-2026-10-18 364 → 2026-10-30 375（+11）
+2026-10-18 364 → 2026-10-31 378（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/clarity-agent
 
-⭐ 274 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/clarity-agent) · 组织维护
+⭐ 274 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/clarity-agent) · 组织维护
 
 **微软出品的 AI 思考伙伴：通过追问澄清意图并沉淀决策文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/clarity-agent 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    title "microsoft/clarity-agent 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 271 --> 277
-    line [272, 273, 275, 276, 274]
+    line [272, 273, 275, 276, 274, 274]
 ```
 
-2026-10-18 272 → 2026-10-30 274（+2）
+2026-10-18 272 → 2026-10-31 274（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # OnPoint-Dev-Tools/crewcode
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/OnPoint-Dev-Tools/crewcode) · [官网](https://crewcode.logixhub.icu/) · 组织维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/OnPoint-Dev-Tools/crewcode) · [官网](https://crewcode.logixhub.icu/) · 组织维护
 
 **多 AI 编码代理的桌面控制中心：并行运行与审查代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OnPoint-Dev-Tools/crewcode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # oliverames/ynab-mcp-server
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/oliverames/ynab-mcp-server) · [官网](https://www.npmjs.com/package/@oliverames/mcp-server-for-ynab) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/oliverames/ynab-mcp-server) · [官网](https://www.npmjs.com/package/@oliverames/mcp-server-for-ynab) · 个人维护
 
 **YNAB 的本地 MCP 服务器：让 AI 助手安全读写预算数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oliverames/ynab-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-30 40（+0）
+2026-10-18 40 → 2026-10-31 40（+0）
 
 
 ---

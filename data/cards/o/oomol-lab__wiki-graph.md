@@ -1,6 +1,6 @@
 # oomol-lab/wiki-graph
 
-⭐ 406 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/oomol-lab/wiki-graph) · [官网](https://pdfcraft.ai/download/sdpub) · 组织维护 · 中文 README
+⭐ 407 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/oomol-lab/wiki-graph) · [官网](https://pdfcraft.ai/download/sdpub) · 组织维护 · 中文 README
 
 **长文本知识库 CLI：把书和文档提炼为可溯源知识图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oomol-lab/wiki-graph 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 401 --> 407
-    line [404, 403, 402, 403, 404, 405, 406]
+    title "oomol-lab/wiki-graph 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 401 --> 408
+    line [404, 403, 402, 403, 404, 405, 406, 407]
 ```
 
-2026-10-18 404 → 2026-10-30 406（+2）
+2026-10-18 404 → 2026-10-31 407（+3）
 
 
 ---

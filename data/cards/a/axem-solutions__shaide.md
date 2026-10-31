@@ -1,6 +1,6 @@
 # axem-solutions/shaide
 
-⭐ 42 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/axem-solutions/shaide) · [官网](https://www.axem.dev/) · 组织维护
+⭐ 42 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/axem-solutions/shaide) · [官网](https://www.axem.dev/) · 组织维护
 
 **面向企业的自托管分布式多模型 LLM 推理平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "axem-solutions/shaide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-30 42（+0）
+2026-10-18 42 → 2026-10-31 42（+0）
 
 
 ---

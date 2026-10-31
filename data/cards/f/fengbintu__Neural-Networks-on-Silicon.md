@@ -1,6 +1,6 @@
 # fengbintu/Neural-Networks-on-Silicon
 
-⭐ 2,134 · 推送 2026-03-30 · [GitHub](https://github.com/fengbintu/Neural-Networks-on-Silicon) · 个人维护
+⭐ 2,135 · 推送 2026-03-30 · [GitHub](https://github.com/fengbintu/Neural-Networks-on-Silicon) · 个人维护
 
 **AI 芯片与体系结构方向的研究论文收集清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "fengbintu/Neural-Networks-on-Silicon 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 2131 --> 2135
-    line [2132, 2133, 2134, 2134]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 2131 --> 2136
+    line [2132, 2133, 2134, 2135]
 ```
 
-2026-10-18 2,132 → 2026-10-30 2,134（+2）
+2026-10-18 2,132 → 2026-10-31 2,135（+3）
 
 
 ---

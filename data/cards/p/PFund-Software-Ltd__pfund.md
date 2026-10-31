@@ -1,6 +1,6 @@
 # PFund-Software-Ltd/pfund
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/PFund-Software-Ltd/pfund) · [官网](https://pfund.ai) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/PFund-Software-Ltd/pfund) · [官网](https://pfund.ai) · 组织维护
 
 **面向散户的 Python 算法交易框架：回测/训练/实盘/监控一体化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PFund-Software-Ltd/pfund 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-30 68（+0）
+2026-10-18 68 → 2026-10-31 68（+0）
 
 
 ---

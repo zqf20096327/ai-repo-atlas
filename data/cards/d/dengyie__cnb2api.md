@@ -1,6 +1,6 @@
 # dengyie/cnb2api
 
-⭐ 89 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/dengyie/cnb2api) · [官网](https://github.com/dengyie/cnb2api#readme) · 个人维护 · 中文 README
+⭐ 90 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/dengyie/cnb2api) · [官网](https://github.com/dengyie/cnb2api#readme) · 个人维护 · 中文 README
 
 **把 CNB 云工作区内网 AI 转成 OpenAI/Anthropic 兼容 API 网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dengyie/cnb2api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 75 --> 90
-    line [76, 78, 80, 82, 86, 87, 89]
+    title "dengyie/cnb2api 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 75 --> 91
+    line [76, 78, 80, 82, 86, 87, 89, 90]
 ```
 
-2026-10-18 76 → 2026-10-30 89（+13）
+2026-10-18 76 → 2026-10-31 90（+14）
 
 
 ---

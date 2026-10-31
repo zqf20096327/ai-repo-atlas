@@ -1,6 +1,6 @@
 # subnetmarco/pgmcp
 
-⭐ 540 · Go · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/subnetmarco/pgmcp) · 个人维护
+⭐ 541 · Go · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/subnetmarco/pgmcp) · 个人维护
 
 **用自然语言查询任意 PostgreSQL 数据库的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "subnetmarco/pgmcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
     y-axis "stars" 539 --> 543
-    line [542, 541, 540, 540]
+    line [542, 541, 540, 541]
 ```
 
-2026-10-18 542 → 2026-10-30 540（-2）
+2026-10-18 542 → 2026-10-31 541（-1）
 
 
 ---

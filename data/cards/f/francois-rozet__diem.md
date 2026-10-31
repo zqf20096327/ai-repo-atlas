@@ -45,12 +45,12 @@ DiEM 论文（Learning Diffusion Priors from Observations by Expectation Maximiz
 ```mermaid
 xychart-beta
     title "francois-rozet/diem 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 36 --> 39
     line [37, 38, 38]
 ```
 
-2026-10-18 37 → 2026-10-30 38（+1）
+2026-10-18 37 → 2026-10-31 38（+1）
 
 
 ---

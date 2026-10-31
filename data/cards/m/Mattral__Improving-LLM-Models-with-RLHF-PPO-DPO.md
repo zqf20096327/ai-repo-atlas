@@ -1,6 +1,6 @@
 # Mattral/Improving-LLM-Models-with-RLHF-PPO-DPO
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/Mattral/Improving-LLM-Models-with-RLHF-PPO-DPO) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从零实现的 RLHF 对齐训练框架，覆盖 PPO 与 DPO 全流程**
 
@@ -11,7 +11,7 @@ Python 编写的模块化 RLHF 训练框架，实现 SFT→奖励模型→PPO/DP
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

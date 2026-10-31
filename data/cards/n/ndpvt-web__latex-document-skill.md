@@ -1,6 +1,6 @@
 # ndpvt-web/latex-document-skill
 
-⭐ 804 · TeX · 推送 2026-10-29 · [GitHub](https://github.com/ndpvt-web/latex-document-skill) · [官网](https://happycapy.ai/?via=gh) · 组织维护
+⭐ 805 · TeX · 推送 2026-10-29 · [GitHub](https://github.com/ndpvt-web/latex-document-skill) · [官网](https://happycapy.ai/?via=gh) · 组织维护
 
 **Claude Code 的 LaTeX 文档技能：自然语言生成排版 PDF**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ndpvt-web/latex-document-skill 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 787 --> 805
-    line [788, 790, 792, 794, 795, 798, 799, 801, 803, 804]
+    title "ndpvt-web/latex-document-skill 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 787 --> 806
+    line [788, 790, 792, 794, 795, 798, 799, 801, 803, 804, 805]
 ```
 
-2026-10-18 788 → 2026-10-30 804（+16）
+2026-10-18 788 → 2026-10-31 805（+17）
 
 
 ---

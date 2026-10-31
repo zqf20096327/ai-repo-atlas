@@ -1,6 +1,6 @@
 # Xilinx/brevitas
 
-⭐ 1,591 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Xilinx/brevitas) · [官网](https://xilinx.github.io/brevitas/) · 组织维护
+⭐ 1,593 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Xilinx/brevitas) · [官网](https://xilinx.github.io/brevitas/) · 组织维护
 
 **PyTorch 神经网络量化库，支持 PTQ 与 QAT**
 
@@ -44,13 +44,13 @@ Xilinx（AMD）名下的 PyTorch 量化研究库，支持训练后量化（PTQ�
 
 ```mermaid
 xychart-beta
-    title "Xilinx/brevitas 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 1585 --> 1592
-    line [1586, 1588, 1589, 1590, 1591]
+    title "Xilinx/brevitas 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1585 --> 1594
+    line [1586, 1588, 1589, 1590, 1591, 1593]
 ```
 
-2026-10-18 1,586 → 2026-10-30 1,591（+5）
+2026-10-18 1,586 → 2026-10-31 1,593（+7）
 
 
 ---

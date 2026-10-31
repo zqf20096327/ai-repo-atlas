@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ashblue/fluid-behavior-tree 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ashblue/fluid-behavior-tree 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1183 --> 1186
-    line [1184, 1185]
+    line [1184, 1185, 1185]
 ```
 
-2026-10-18 1,184 → 2026-10-30 1,185（+1）
+2026-10-18 1,184 → 2026-10-31 1,185（+1）
 
 
 ---

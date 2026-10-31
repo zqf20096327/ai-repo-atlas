@@ -1,6 +1,6 @@
 # medevs/smart-portfolio
 
-⭐ 45 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/medevs/smart-portfolio) · [官网](https://medevsmaker.vercel.app) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/medevs/smart-portfolio) · [官网](https://medevsmaker.vercel.app) · 个人维护
 
 **带 AI 聊天机器人的终端风格个人作品集网站模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "medevs/smart-portfolio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dolev31/lasagna
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dolev31/lasagna) · [官网](https://dolev31.github.io/lasagna/) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/dolev31/lasagna) · [官网](https://dolev31.github.io/lasagna/) · 组织维护
 
 **RAG 组件对照评测框架：只换一个阶段、固定其余并测显著性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dolev31/lasagna 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7 --> 24
-    line [8, 14, 17, 19, 21, 23, 23]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 7 --> 26
+    line [8, 14, 17, 19, 21, 23, 25]
 ```
 
-2026-10-23 8 → 2026-10-30 23（+15）
+2026-10-23 8 → 2026-10-31 25（+17）
 
 
 ---

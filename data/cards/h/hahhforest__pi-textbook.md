@@ -1,6 +1,6 @@
 # hahhforest/pi-textbook
 
-⭐ 1,419 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/hahhforest/pi-textbook) · [官网](https://build-your-own-pi-cn.enochzhang.chatgpt.site) · 个人维护 · 中文 README
+⭐ 1,420 · TypeScript · MIT · 推送 2026-07-23 · [GitHub](https://github.com/hahhforest/pi-textbook) · [官网](https://build-your-own-pi-cn.enochzhang.chatgpt.site) · 个人维护 · 中文 README
 
 **中文教材：沿 15 个 checkpoint 从零实现 Pi-style coding agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hahhforest/pi-textbook 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1404 --> 1420
-    line [1405, 1408, 1411, 1412, 1413, 1412, 1417, 1419]
+    title "hahhforest/pi-textbook 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1404 --> 1421
+    line [1405, 1408, 1411, 1412, 1413, 1412, 1417, 1419, 1420]
 ```
 
-2026-10-18 1,405 → 2026-10-30 1,419（+14）
+2026-10-18 1,405 → 2026-10-31 1,420（+15）
 
 
 ---

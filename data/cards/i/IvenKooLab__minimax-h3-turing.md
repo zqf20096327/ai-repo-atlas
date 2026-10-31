@@ -1,6 +1,6 @@
 # IvenKooLab/minimax-h3-turing
 
-⭐ 21 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IvenKooLab/minimax-h3-turing) · 组织维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/IvenKooLab/minimax-h3-turing) · 组织维护 · 中文 README
 
 **在 2080Ti（Turing）上本地运行 MiniMax H3 视频生成的实测手册与工作流套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IvenKooLab/minimax-h3-turing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 22]
 ```
 
-2026-10-18 18 → 2026-10-30 21（+3）
+2026-10-18 18 → 2026-10-31 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # kennethlaw325/awesome-llm-knowledge-systems
 
-⭐ 95 · HTML · MIT · 推送 2026-09-15 · [GitHub](https://github.com/kennethlaw325/awesome-llm-knowledge-systems) · 个人维护 · 中文 README
+⭐ 95 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kennethlaw325/awesome-llm-knowledge-systems) · 个人维护 · 中文 README
 
 **LLM 知识工程统一知识地图：串联 RAG、记忆、技能系统与 MCP 等概念**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kennethlaw325/awesome-llm-knowledge-systems 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
     y-axis "stars" 92 --> 96
     line [93, 94, 95, 95]
 ```
 
-2026-10-18 93 → 2026-10-30 95（+2）
+2026-10-18 93 → 2026-10-31 95（+2）
 
 
 ---

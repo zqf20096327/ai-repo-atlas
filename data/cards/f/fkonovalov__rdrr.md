@@ -1,6 +1,6 @@
 # fkonovalov/rdrr
 
-⭐ 194 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fkonovalov/rdrr) · [官网](https://rdrr.app) · 个人维护
+⭐ 195 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fkonovalov/rdrr) · [官网](https://rdrr.app) · 个人维护
 
 **把网页转为干净 Markdown 供 AI agent 阅读的 CLI/库/MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fkonovalov/rdrr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 193 --> 195
-    line [194, 194]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 193 --> 196
+    line [194, 195]
 ```
 
-2026-10-18 194 → 2026-10-30 194（+0）
+2026-10-18 194 → 2026-10-31 195（+1）
 
 
 ---

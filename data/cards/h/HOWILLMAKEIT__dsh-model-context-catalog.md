@@ -1,6 +1,6 @@
 # HOWILLMAKEIT/dsh-model-context-catalog
 
-⭐ 30 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) · [官网](https://www.npmjs.com/package/dsh-model-context-catalog) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/HOWILLMAKEIT/dsh-model-context-catalog) · [官网](https://www.npmjs.com/package/dsh-model-context-catalog) · 个人维护 · 中文 README
 
 **DSH 插件：一键匹配模型上下文窗口并批量配置**
 
@@ -45,12 +45,12 @@ dsh-model-context-catalog 是 DSH 的模型上下文配置插件：扫描 DSH �
 ```mermaid
 xychart-beta
     title "HOWILLMAKEIT/dsh-model-context-catalog 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 29 --> 35
     line [34, 30, 30]
 ```
 
-2026-10-18 34 → 2026-10-30 30（-4）
+2026-10-18 34 → 2026-10-31 30（-4）
 
 
 ---

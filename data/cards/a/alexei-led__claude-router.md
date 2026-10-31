@@ -1,6 +1,6 @@
 # alexei-led/claude-router
 
-⭐ 35 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/alexei-led/claude-router) · 个人维护
+⭐ 36 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/alexei-led/claude-router) · 个人维护
 
 **Claude Code 插件：按轮次自动选择模型与 effort 档位**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexei-led/claude-router 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 28 --> 36
-    line [29, 31, 33, 34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 28 --> 37
+    line [29, 31, 33, 34, 35, 36]
 ```
 
-2026-10-18 29 → 2026-10-30 35（+6）
+2026-10-18 29 → 2026-10-31 36（+7）
 
 
 ---

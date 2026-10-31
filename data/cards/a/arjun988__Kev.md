@@ -1,6 +1,6 @@
 # arjun988/Kev
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/arjun988/Kev) · [官网](https://kev-notjev.vercel.app/) · 个人维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/arjun988/Kev) · [官网](https://kev-notjev.vercel.app/) · 个人维护
 
 **自托管的 System One 决策引擎：把 LLM 变成带校准概率的类型化判定 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arjun988/Kev 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
     y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    line [21, 22, 23, 22]
 ```
 
-2026-10-18 21 → 2026-10-30 23（+2）
+2026-10-18 21 → 2026-10-31 22（+1）
 
 
 ---

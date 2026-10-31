@@ -1,6 +1,6 @@
 # FrigadeHQ/hob
 
-⭐ 366 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/FrigadeHQ/hob) · [官网](https://hob.chat) · 组织维护
+⭐ 394 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/FrigadeHQ/hob) · [官网](https://hob.chat) · 组织维护
 
 **本地运行开源权重模型的桌面 AI 聊天助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FrigadeHQ/hob 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 0 --> 402
-    line [3, 251, 326, 366]
+    title "FrigadeHQ/hob 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 433
+    line [3, 251, 326, 366, 394]
 ```
 
-2026-10-26 3 → 2026-10-30 366（+363）
+2026-10-26 3 → 2026-10-31 394（+391）
 
 
 ---

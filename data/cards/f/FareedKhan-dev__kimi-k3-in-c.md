@@ -1,6 +1,6 @@
 # FareedKhan-dev/kimi-k3-in-c
 
-⭐ 9,231 · C · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) · [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · 个人维护
+⭐ 9,251 · C · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) · [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · 个人维护
 
 **纯 C99 在单 CPU/8GB 内存上运行 Kimi K3 的推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/kimi-k3-in-c 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 9071 --> 9245
-    line [9085, 9109, 9140, 9157, 9168, 9178, 9185, 9191, 9199, 9217, 9231]
+    title "FareedKhan-dev/kimi-k3-in-c 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9069 --> 9267
+    line [9085, 9109, 9140, 9157, 9168, 9178, 9185, 9191, 9199, 9217, 9231, 9251]
 ```
 
-2026-10-18 9,085 → 2026-10-30 9,231（+146）
+2026-10-18 9,085 → 2026-10-31 9,251（+166）
 
 
 ---

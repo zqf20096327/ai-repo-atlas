@@ -1,6 +1,6 @@
 # hecrj/icebreaker
 
-⭐ 469 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/hecrj/icebreaker) · 个人维护
+⭐ 468 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/hecrj/icebreaker) · 个人维护
 
 **本地运行的桌面 AI 聊天应用，基于 Rust 与 llama.cpp**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "hecrj/icebreaker 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 466 --> 470
-    line [468, 467, 468, 469, 469]
+    line [468, 467, 468, 469, 468]
 ```
 
-2026-10-18 468 → 2026-10-30 469（+1）
+2026-10-18 468 → 2026-10-31 468（+0）
 
 
 ---

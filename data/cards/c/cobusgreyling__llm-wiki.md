@@ -1,6 +1,6 @@
 # cobusgreyling/llm-wiki
 
-⭐ 44 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/cobusgreyling/llm-wiki) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/cobusgreyling/llm-wiki) · 个人维护
 
 **LLM agent 自维护个人知识库的模板与工具包**
 
@@ -46,12 +46,12 @@ Karpathy LLM Wiki 模式的参考实现：以 GitHub 模板形式提供脚手架
 ```mermaid
 xychart-beta
     title "cobusgreyling/llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 45（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jim-jimu/mabe-behavior-recognition
 
-⭐ 5 · Python · 推送 2026-09-19 · [GitHub](https://github.com/Jim-jimu/mabe-behavior-recognition) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **从姿态轨迹识别小鼠行为并定位起止时间区间的科研项目**
 

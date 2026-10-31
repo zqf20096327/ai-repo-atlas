@@ -1,6 +1,6 @@
 # NVIDIA/cuvs
 
-⭐ 881 · Cuda · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/cuvs) · [官网](https://docs.nvidia.com/cuvs/) · 组织维护
+⭐ 882 · Cuda · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/cuvs) · [官网](https://docs.nvidia.com/cuvs/) · 组织维护
 
 **面向开发者的 GPU 向量搜索与聚类库（C++/Python/C/Rust）**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的 GPU 加速库，提供近似最近邻搜索（如 CAGRA、IVF-R
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cuvs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 869 --> 882
-    line [871, 870, 871, 873, 874, 877, 881]
+    title "NVIDIA/cuvs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 869 --> 883
+    line [871, 870, 871, 873, 874, 877, 881, 882]
 ```
 
-2026-10-18 871 → 2026-10-30 881（+10）
+2026-10-18 871 → 2026-10-31 882（+11）
 
 
 ---

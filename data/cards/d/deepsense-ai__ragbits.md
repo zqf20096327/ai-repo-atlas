@@ -1,6 +1,6 @@
 # deepsense-ai/ragbits
 
-⭐ 1,681 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/deepsense-ai/ragbits) · [官网](https://ragbits.deepsense.ai) · 组织维护
+⭐ 1,680 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/deepsense-ai/ragbits) · [官网](https://ragbits.deepsense.ai) · 组织维护
 
 **面向开发者的 GenAI 应用构建模块库（LLM/RAG/Agent/评测）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepsense-ai/ragbits 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1676 --> 1682
-    line [1677, 1678, 1677, 1679, 1681, 1681]
+    line [1677, 1678, 1677, 1679, 1681, 1680]
 ```
 
-2026-10-18 1,677 → 2026-10-30 1,681（+4）
+2026-10-18 1,677 → 2026-10-31 1,680（+3）
 
 
 ---

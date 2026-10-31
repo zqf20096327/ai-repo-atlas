@@ -1,6 +1,6 @@
 # snowdreamtech/template
 
-⭐ 16 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/snowdreamtech/template) · [官网](https://snowdreamtech.github.io/template/) · 组织维护 · 中文 README
+⭐ 16 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/snowdreamtech/template) · [官网](https://snowdreamtech.github.io/template/) · 组织维护 · 中文 README
 
 **面向多 AI IDE 协作的企业级项目基础模板（50+ IDE 规则统一）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "snowdreamtech/template 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -44,13 +44,13 @@ Disentangled RNN（DisRNN）是一种循环神经网络架构，用于发现与�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/disentangled_rnns 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "google-deepmind/disentangled_rnns 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-10-30 47（+1）
+2026-10-18 46 → 2026-10-31 47（+1）
 
 
 ---

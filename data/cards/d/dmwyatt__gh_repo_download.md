@@ -46,12 +46,12 @@ Django 网页应用：输入 GitHub 仓库 URL 或上传 ZIP 文件，抽取其�
 ```mermaid
 xychart-beta
     title "dmwyatt/gh_repo_download 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-26", "2026-10-31"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-26 44 → 2026-10-30 44（+0）
+2026-10-26 44 → 2026-10-31 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Witek902/Caissa
 
-⭐ 118 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Witek902/Caissa) · 个人维护
+⭐ 119 · C++ · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Witek902/Caissa) · 个人维护
 
 **C++ 编写的 UCI 国际象棋引擎，NNUE 神经网络评估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Witek902/Caissa 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 116 --> 120
+    line [117, 118, 119]
 ```
 
-2026-10-18 117 → 2026-10-30 118（+1）
+2026-10-18 117 → 2026-10-31 119（+2）
 
 
 ---

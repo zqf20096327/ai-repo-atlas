@@ -1,6 +1,6 @@
 # Quazmoz/InferBridge
 
-⭐ 52 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Quazmoz/InferBridge) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Quazmoz/InferBridge) · 个人维护
 
 **Windows 本地 LLM 服务器：OpenVINO GenAI 驱动 Intel CPU/GPU/NPU**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Quazmoz/InferBridge 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 46 --> 53
-    line [47, 48, 49, 50, 51, 52]
+    title "Quazmoz/InferBridge 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 46 --> 54
+    line [47, 48, 49, 50, 51, 52, 53]
 ```
 
-2026-10-18 47 → 2026-10-30 52（+5）
+2026-10-18 47 → 2026-10-31 53（+6）
 
 
 ---

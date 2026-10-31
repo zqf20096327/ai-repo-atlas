@@ -1,6 +1,6 @@
 # mljs/matrix
 
-⭐ 401 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mljs/matrix) · [官网](https://mljs.github.io/matrix/) · 组织维护
+⭐ 402 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mljs/matrix) · [官网](https://mljs.github.io/matrix/) · 组织维护
 
 **面向 JavaScript/Node.js 的矩阵运算与线性代数库**
 
@@ -45,12 +45,12 @@ mljs 生态下的矩阵操作与计算库，以 npm 包 ml-matrix 提供：支�
 ```mermaid
 xychart-beta
     title "mljs/matrix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 399 --> 402
-    line [401, 400, 401, 401]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 399 --> 403
+    line [401, 400, 401, 402]
 ```
 
-2026-10-18 401 → 2026-10-30 401（+0）
+2026-10-18 401 → 2026-10-31 402（+1）
 
 
 ---

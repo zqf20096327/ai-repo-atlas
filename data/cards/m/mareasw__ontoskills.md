@@ -1,6 +1,6 @@
 # mareasw/ontoskills
 
-⭐ 23 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/mareasw/ontoskills) · [官网](https://ontoskills.sh) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/mareasw/ontoskills) · [官网](https://ontoskills.sh) · 组织维护 · 中文 README
 
 **将 SKILL.md 编译为 OWL 2 本体的神经符号技能编译器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mareasw/ontoskills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

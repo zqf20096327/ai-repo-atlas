@@ -43,12 +43,12 @@ Symfony 官方组织的集成 Bundle，用于将 Symfony AI 组件接入 Symfony
 ```mermaid
 xychart-beta
     title "symfony/ai-bundle 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

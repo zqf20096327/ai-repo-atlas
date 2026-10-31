@@ -45,12 +45,12 @@ MNRAS Letters 论文的官方 PyTorch 实现，提出展开的 Plug-and-Play ADM
 ```mermaid
 xychart-beta
     title "Lukeli0425/Galaxy-Deconv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-18 63 → 2026-10-30 63（+0）
+2026-10-18 63 → 2026-10-31 63（+0）
 
 
 ---

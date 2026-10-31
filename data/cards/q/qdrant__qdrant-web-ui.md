@@ -1,6 +1,6 @@
 # qdrant/qdrant-web-ui
 
-⭐ 437 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/qdrant/qdrant-web-ui) · 组织维护
+⭐ 436 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/qdrant/qdrant-web-ui) · 组织维护
 
 **Qdrant 向量检索引擎的自托管 Web 管理界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-web-ui 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 435 --> 438
-    line [436, 437, 437]
+    line [436, 437, 436]
 ```
 
-2026-10-18 436 → 2026-10-30 437（+1）
+2026-10-18 436 → 2026-10-31 436（+0）
 
 
 ---

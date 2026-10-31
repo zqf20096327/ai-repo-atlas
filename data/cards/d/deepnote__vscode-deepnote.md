@@ -1,6 +1,6 @@
 # deepnote/vscode-deepnote
 
-⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/deepnote/vscode-deepnote) · [官网](https://marketplace.visualstudio.com/items?itemName=Deepnote.vscode-deepnote) · 组织维护
+⭐ 47 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/deepnote/vscode-deepnote) · [官网](https://marketplace.visualstudio.com/items?itemName=Deepnote.vscode-deepnote) · 组织维护
 
 **在 VS Code 等编辑器中运行 Deepnote AI 笔记本的扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deepnote/vscode-deepnote 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-18 47 → 2026-10-30 47（+0）
+2026-10-18 47 → 2026-10-31 47（+0）
 
 
 ---

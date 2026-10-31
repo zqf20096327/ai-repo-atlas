@@ -1,6 +1,6 @@
 # lhh737/LangChain-ReAct-Agent
 
-⭐ 398 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/LangChain-ReAct-Agent) · 个人维护 · 中文 README
+⭐ 399 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/lhh737/LangChain-ReAct-Agent) · 个人维护 · 中文 README
 
 **LangChain/LangGraph 的 ReAct Agent 客服系统，含 RAG 与工具调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lhh737/LangChain-ReAct-Agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 391 --> 399
-    line [392, 394, 395, 397, 398, 398]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 391 --> 400
+    line [392, 394, 395, 397, 398, 399]
 ```
 
-2026-10-18 392 → 2026-10-30 398（+6）
+2026-10-18 392 → 2026-10-31 399（+7）
 
 
 ---

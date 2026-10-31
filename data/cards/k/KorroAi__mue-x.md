@@ -1,6 +1,6 @@
 # KorroAi/mue-x
 
-⭐ 279 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/mue-x) · [官网](https://korrocorp.com) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/KorroAi/mue-x) · [官网](https://korrocorp.com) · 组织维护
 
 **自我改写源码的自进化 AI agent，跨平台 CLI 运行**
 
@@ -46,12 +46,12 @@ MUE-X 是一个在运行中持续改写自身 Python 源码的 agent：扫描自
 ```mermaid
 xychart-beta
     title "KorroAi/mue-x 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 278 --> 282
-    line [281, 280, 279, 279]
+    line [281, 280, 279, 280]
 ```
 
-2026-10-18 281 → 2026-10-30 279（-2）
+2026-10-18 281 → 2026-10-31 280（-1）
 
 
 ---

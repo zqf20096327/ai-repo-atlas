@@ -1,6 +1,6 @@
 # cool-japan/scirs
 
-⭐ 304 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/cool-japan/scirs) · [官网](https://github.com/cool-japan/scirs) · 组织维护
+⭐ 305 · Rust · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/cool-japan/scirs) · [官网](https://github.com/cool-japan/scirs) · 组织维护
 
 **纯 Rust 科学计算与 AI/ML 基础设施库，提供 SciPy 兼容 API**
 
@@ -44,13 +44,13 @@ SciRS2 是以纯 Rust 编写的科学计算与机器学习基础设施库，目�
 
 ```mermaid
 xychart-beta
-    title "cool-japan/scirs 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 297 --> 305
-    line [298, 300, 301, 302, 304]
+    title "cool-japan/scirs 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 297 --> 306
+    line [298, 300, 301, 302, 304, 305]
 ```
 
-2026-10-18 298 → 2026-10-30 304（+6）
+2026-10-18 298 → 2026-10-31 305（+7）
 
 
 ---

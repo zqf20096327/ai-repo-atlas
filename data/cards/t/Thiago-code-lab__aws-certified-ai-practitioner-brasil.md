@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thiago-code-lab/aws-certified-ai-practitioner-brasil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "Thiago-code-lab/aws-certified-ai-practitioner-brasil 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 462 --> 465
-    line [463, 464, 463]
+    line [463, 464, 463, 463]
 ```
 
-2026-10-18 463 → 2026-10-30 463（+0）
+2026-10-18 463 → 2026-10-31 463（+0）
 
 
 ---

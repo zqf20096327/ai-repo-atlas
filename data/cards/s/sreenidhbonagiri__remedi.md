@@ -1,6 +1,6 @@
 # sreenidhbonagiri/remedi
 
-⭐ 39 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/sreenidhbonagiri/remedi) · [官网](https://remedi-copilot.onrender.com) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/sreenidhbonagiri/remedi) · [官网](https://remedi-copilot.onrender.com) · 个人维护
 
 **帮助患者查找平价仿制药与药企援助项目的 Web 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sreenidhbonagiri/remedi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 38, 37, 38, 39]
+    title "sreenidhbonagiri/remedi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 38, 37, 38, 39, 41]
 ```
 
-2026-10-18 36 → 2026-10-30 39（+3）
+2026-10-18 36 → 2026-10-31 41（+5）
 
 
 ---

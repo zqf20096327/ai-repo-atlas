@@ -1,6 +1,6 @@
 # qdrant/skills
 
-⭐ 266 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/skills) · [官网](https://skills.qdrant.tech) · 组织维护
+⭐ 267 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/qdrant/skills) · [官网](https://skills.qdrant.tech) · 组织维护
 
 **Qdrant 官方维护的向量数据库 agent 技能集：覆盖部署调优决策知识**
 
@@ -44,13 +44,13 @@ Qdrant 公司发布的编码 agent 技能（skills）合集：以解决方案架
 
 ```mermaid
 xychart-beta
-    title "qdrant/skills 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 258 --> 267
-    line [259, 260, 261, 263, 264, 265, 266]
+    title "qdrant/skills 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 258 --> 268
+    line [259, 260, 261, 263, 264, 265, 266, 267]
 ```
 
-2026-10-18 259 → 2026-10-30 266（+7）
+2026-10-18 259 → 2026-10-31 267（+8）
 
 
 ---

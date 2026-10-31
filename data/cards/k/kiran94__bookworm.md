@@ -1,6 +1,6 @@
 # kiran94/bookworm
 
-⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kiran94/bookworm) · [官网](https://pypi.org/project/bookworm_genai/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kiran94/bookworm) · [官网](https://pypi.org/project/bookworm_genai/) · 个人维护
 
 **用自然语言搜索本地浏览器书签的 LLM 命令行工具**
 
@@ -45,12 +45,12 @@ Python CLI 工具，通过 OpenAI 嵌入将本地浏览器书签向量化存入�
 ```mermaid
 xychart-beta
     title "kiran94/bookworm 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-28", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-28 31 → 2026-10-30 31（+0）
+2026-10-28 31 → 2026-10-31 32（+1）
 
 
 ---

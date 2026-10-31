@@ -1,6 +1,6 @@
 # EliHei2/segger_dev
 
-⭐ 90 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/EliHei2/segger_dev) · [官网](https://elihei2.github.io/segger_dev/) · 个人维护
+⭐ 91 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/EliHei2/segger_dev) · [官网](https://elihei2.github.io/segger_dev/) · 个人维护
 
 **GNN 细胞分割模型：处理图像型空间转录组学数据**
 
@@ -45,12 +45,12 @@ segger_dev 是 segger 的开发版仓库：基于图神经网络的空间转录�
 ```mermaid
 xychart-beta
     title "EliHei2/segger_dev 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-18 90 → 2026-10-30 90（+0）
+2026-10-18 90 → 2026-10-31 91（+1）
 
 
 ---

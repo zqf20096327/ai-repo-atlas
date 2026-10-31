@@ -1,6 +1,6 @@
 # yyxcnasd/amadeus-for-dsh
 
-⭐ 45 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yyxcnasd/amadeus-for-dsh) · 个人维护 · 中文 README
+⭐ 47 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yyxcnasd/amadeus-for-dsh) · 个人维护 · 中文 README
 
 **命运石之门0红莉栖 AI 助手插件：给 DSH 加 Live2D 聊天伴侣**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yyxcnasd/amadeus-for-dsh 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 39 --> 46
-    line [40, 41, 42, 44, 45]
+    title "yyxcnasd/amadeus-for-dsh 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 39 --> 48
+    line [40, 41, 42, 44, 45, 47]
 ```
 
-2026-10-18 40 → 2026-10-30 45（+5）
+2026-10-18 40 → 2026-10-31 47（+7）
 
 
 ---

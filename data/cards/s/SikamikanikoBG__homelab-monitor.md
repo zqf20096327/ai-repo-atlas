@@ -1,6 +1,6 @@
 # SikamikanikoBG/homelab-monitor
 
-⭐ 229 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
+⭐ 229 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
 
 **自托管家庭实验室监控面板：GPU/容器/成本/AI 模型一页掌握**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SikamikanikoBG/homelab-monitor 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "SikamikanikoBG/homelab-monitor 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 218 --> 230
-    line [219, 220, 222, 224, 225, 226, 227, 229]
+    line [219, 220, 222, 224, 225, 226, 227, 229, 229]
 ```
 
-2026-10-18 219 → 2026-10-30 229（+10）
+2026-10-18 219 → 2026-10-31 229（+10）
 
 
 ---

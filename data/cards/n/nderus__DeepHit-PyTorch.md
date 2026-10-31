@@ -1,6 +1,6 @@
 # nderus/DeepHit-PyTorch
 
-⭐ 16 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/nderus/DeepHit-PyTorch) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-07-02 · [GitHub](https://github.com/nderus/DeepHit-PyTorch) · 个人维护
 
 **DeepHit 生存分析模型的 PyTorch 非官方实现**
 
@@ -45,12 +45,12 @@ Lee 等人 DeepHit 模型的 PyTorch 移植版：深度神经网络处理带竞�
 ```mermaid
 xychart-beta
     title "nderus/DeepHit-PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # virelay/virelay
 
-⭐ 31 · Python · AGPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/virelay/virelay) · 组织维护
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/virelay/virelay) · 组织维护
 
 **可视化 CoRelAy 生成的谱相关性分析结果的 Web 工具**
 
@@ -45,12 +45,12 @@ XAI 可视化工具，以小型 Web 应用的形式查看、浏览和交互分�
 ```mermaid
 xychart-beta
     title "virelay/virelay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 29 --> 32
+    line [31, 30]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 30（-1）
 
 
 ---

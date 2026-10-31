@@ -1,6 +1,6 @@
 # emarco177/langchain-course
 
-⭐ 1,753 · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/emarco177/langchain-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 1,754 · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/emarco177/langchain-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **基于项目的 LangChain/LangGraph AI agent 开发课程仓库**
 
@@ -44,13 +44,13 @@ Eden Marco 维护的 Udemy 配套课程仓库：通过 7 个端到端项目教�
 
 ```mermaid
 xychart-beta
-    title "emarco177/langchain-course 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1716 --> 1756
-    line [1719, 1724, 1730, 1732, 1734, 1738, 1744, 1746, 1748, 1753]
+    title "emarco177/langchain-course 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1716 --> 1757
+    line [1719, 1724, 1730, 1732, 1734, 1738, 1744, 1746, 1748, 1753, 1754]
 ```
 
-2026-10-18 1,719 → 2026-10-30 1,753（+34）
+2026-10-18 1,719 → 2026-10-31 1,754（+35）
 
 
 ---

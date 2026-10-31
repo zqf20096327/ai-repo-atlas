@@ -1,6 +1,6 @@
 # guywaldman/magic-cli
 
-⭐ 745 · Rust · MIT · 推送 2026-04-21 · [GitHub](https://github.com/guywaldman/magic-cli) · [官网](https://guywaldman.com/posts/introducing-magic-cli) · 个人维护
+⭐ 744 · Rust · MIT · 推送 2026-04-21 · [GitHub](https://github.com/guywaldman/magic-cli) · [官网](https://guywaldman.com/posts/introducing-magic-cli) · 个人维护
 
 **用 LLM 帮你在终端生成与搜索命令的 CLI 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具，借助 LLM 提供三类功能：按自然语言�
 ```mermaid
 xychart-beta
     title "guywaldman/magic-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 744 --> 746
-    line [745, 745]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 743 --> 746
+    line [745, 744]
 ```
 
-2026-10-18 745 → 2026-10-30 745（+0）
+2026-10-18 745 → 2026-10-31 744（-1）
 
 
 ---

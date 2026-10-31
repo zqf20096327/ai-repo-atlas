@@ -1,6 +1,6 @@
 # agenticfabriq/mnemiq
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/agenticfabriq/mnemiq) · [官网](https://www.agenticfabriq.com/mnemiq) · 组织维护
+⭐ 112 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/agenticfabriq/mnemiq) · [官网](https://www.agenticfabriq.com/mnemiq) · 组织维护
 
 **可在自有数据库上调参与评测的开源 text-to-SQL 引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agenticfabriq/mnemiq 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 44 --> 117
-    line [50, 51, 81, 108, 111, 111]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 44 --> 118
+    line [50, 51, 81, 108, 111, 112]
 ```
 
-2026-10-18 50 → 2026-10-30 111（+61）
+2026-10-18 50 → 2026-10-31 112（+62）
 
 
 ---

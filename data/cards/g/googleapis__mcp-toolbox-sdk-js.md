@@ -1,6 +1,6 @@
 # googleapis/mcp-toolbox-sdk-js
 
-⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-js) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/googleapis/mcp-toolbox-sdk-js) · [官网](https://mcp-toolbox.dev/documentation/introduction/) · 组织维护
 
 **在 JS Agent 应用中加载 MCP Toolbox 工具的 SDK**
 
@@ -43,12 +43,12 @@ Google 维护的 JavaScript/TypeScript SDK 集合，用于连接运行中的 MCP
 ```mermaid
 xychart-beta
     title "googleapis/mcp-toolbox-sdk-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-18 77 → 2026-10-30 77（+0）
+2026-10-18 77 → 2026-10-31 77（+0）
 
 
 ---

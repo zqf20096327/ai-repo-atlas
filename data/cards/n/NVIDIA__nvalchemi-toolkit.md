@@ -1,6 +1,6 @@
 # NVIDIA/nvalchemi-toolkit
 
-⭐ 201 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/nvalchemi-toolkit) · [官网](https://nvidia.github.io/nvalchemi-toolkit/) · 组织维护
+⭐ 202 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/nvalchemi-toolkit) · [官网](https://nvidia.github.io/nvalchemi-toolkit/) · 组织维护
 
 **化学与材料科学 AI 原子模拟的 GPU 加速 Python 框架**
 
@@ -45,13 +45,13 @@ NVIDIA 开发的 GPU-first Python 框架，面向化学与材料科学的机器�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nvalchemi-toolkit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 190 --> 202
-    line [191, 192, 195, 197, 199, 201]
+    title "NVIDIA/nvalchemi-toolkit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 190 --> 203
+    line [191, 192, 195, 197, 199, 201, 202]
 ```
 
-2026-10-18 191 → 2026-10-30 201（+10）
+2026-10-18 191 → 2026-10-31 202（+11）
 
 
 ---

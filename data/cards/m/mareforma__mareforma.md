@@ -1,6 +1,6 @@
 # mareforma/mareforma
 
-⭐ 15 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mareforma/mareforma) · [官网](https://www.mareforma.com/) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mareforma/mareforma) · [官网](https://www.mareforma.com/) · 组织维护
 
 **记录并核验 AI 科学发现的数据依据的本地优先库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mareforma/mareforma 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

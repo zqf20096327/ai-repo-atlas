@@ -1,6 +1,6 @@
 # openai/terraform-provider-openai
 
-⭐ 41 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openai/terraform-provider-openai) · 组织维护
+⭐ 41 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openai/terraform-provider-openai) · 组织维护
 
 **官方 Terraform Provider，管理 OpenAI 组织与项目 webhook 资源**
 
@@ -44,13 +44,13 @@ OpenAI 官方维护的 Terraform Provider，通过 OpenAI Administration API 管
 
 ```mermaid
 xychart-beta
-    title "openai/terraform-provider-openai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "openai/terraform-provider-openai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 35 --> 42
-    line [36, 39, 41]
+    line [36, 39, 41, 41]
 ```
 
-2026-10-18 36 → 2026-10-30 41（+5）
+2026-10-18 36 → 2026-10-31 41（+5）
 
 
 ---

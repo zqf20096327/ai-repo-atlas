@@ -1,6 +1,6 @@
 # anira-project/anira
 
-⭐ 235 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 组织维护
+⭐ 236 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 组织维护
 
 **面向实时音频应用的神经网络推理集成 C++ 库**
 
@@ -45,12 +45,12 @@ C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成�
 ```mermaid
 xychart-beta
     title "anira-project/anira 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 233 --> 236
-    line [234, 235, 235]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 233 --> 237
+    line [234, 235, 236]
 ```
 
-2026-10-18 234 → 2026-10-30 235（+1）
+2026-10-18 234 → 2026-10-31 236（+2）
 
 
 ---

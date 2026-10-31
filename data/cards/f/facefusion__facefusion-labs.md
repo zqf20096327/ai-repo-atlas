@@ -1,6 +1,6 @@
 # facefusion/facefusion-labs
 
-⭐ 154 · Python · 推送 2026-10-09 · [GitHub](https://github.com/facefusion/facefusion-labs) · [官网](https://facefusion.io) · 组织维护
+⭐ 153 · Python · 推送 2026-10-09 · [GitHub](https://github.com/facefusion/facefusion-labs) · [官网](https://facefusion.io) · 组织维护
 
 **人脸替换/操纵平台 FaceFusion Labs**
 
@@ -42,12 +42,12 @@ FaceFusion Labs 是一个人脸操纵（face manipulation）平台，为人脸�
 ```mermaid
 xychart-beta
     title "facefusion/facefusion-labs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 152 --> 155
-    line [153, 154, 154]
+    line [153, 154, 153]
 ```
 
-2026-10-18 153 → 2026-10-30 154（+1）
+2026-10-18 153 → 2026-10-31 153（+0）
 
 
 ---

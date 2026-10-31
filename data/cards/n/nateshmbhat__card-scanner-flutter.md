@@ -1,6 +1,6 @@
 # nateshmbhat/card-scanner-flutter
 
-⭐ 137 · Swift · GPL-3.0 · 推送 2026-04-09 · [GitHub](https://github.com/nateshmbhat/card-scanner-flutter) · [官网](https://pub.dev/packages/card_scanner) · 个人维护
+⭐ 138 · Swift · GPL-3.0 · 推送 2026-04-09 · [GitHub](https://github.com/nateshmbhat/card-scanner-flutter) · [官网](https://pub.dev/packages/card_scanner) · 个人维护
 
 **Flutter 离线银行卡扫描插件，识别卡号/有效期/持卡人**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "nateshmbhat/card-scanner-flutter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 136 --> 138
-    line [137, 137]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 136 --> 139
+    line [137, 138]
 ```
 
-2026-10-18 137 → 2026-10-30 137（+0）
+2026-10-18 137 → 2026-10-31 138（+1）
 
 
 ---

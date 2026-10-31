@@ -1,6 +1,6 @@
 # Aspirin0000/zhouli-translator
 
-⭐ 321 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Aspirin0000/zhouli-translator) · [官网](https://hehuzhouli.com/) · 个人维护 · 中文 README
+⭐ 321 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Aspirin0000/zhouli-translator) · [官网](https://hehuzhouli.com/) · 个人维护 · 中文 README
 
 **中文梗文案生成器：普通话↔周礼体双向翻译 Web 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aspirin0000/zhouli-translator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "Aspirin0000/zhouli-translator 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 319 --> 323
-    line [321, 320, 321, 322, 321]
+    line [321, 320, 321, 322, 321, 321]
 ```
 
-2026-10-18 321 → 2026-10-30 321（+0）
+2026-10-18 321 → 2026-10-31 321（+0）
 
 
 ---

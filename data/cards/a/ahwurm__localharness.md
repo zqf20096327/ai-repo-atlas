@@ -1,6 +1,6 @@
 # ahwurm/localharness
 
-⭐ 55 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ahwurm/localharness) · [官网](https://localharness.dev) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ahwurm/localharness) · [官网](https://localharness.dev) · 个人维护
 
 **面向本地 LLM 的自托管 agent harness，含工具/权限门/插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahwurm/localharness 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 47 --> 56
-    line [48, 49, 50, 52, 53, 54, 55]
+    title "ahwurm/localharness 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 47 --> 57
+    line [48, 49, 50, 52, 53, 54, 55, 56]
 ```
 
-2026-10-18 48 → 2026-10-30 55（+7）
+2026-10-18 48 → 2026-10-31 56（+8）
 
 
 ---

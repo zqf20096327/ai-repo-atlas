@@ -45,12 +45,12 @@ Python 编写的 Telegram 聊天机器人：通过 Google Generative AI（Gemini
 ```mermaid
 xychart-beta
     title "benincasantonio/gemini-ai-telegram-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

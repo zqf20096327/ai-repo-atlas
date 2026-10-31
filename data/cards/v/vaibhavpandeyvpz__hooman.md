@@ -46,12 +46,12 @@ MIT 许可的全栈 agent 运行时，提供 CLI（有状态 TUI、一次性 exe
 ```mermaid
 xychart-beta
     title "vaibhavpandeyvpz/hooman 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

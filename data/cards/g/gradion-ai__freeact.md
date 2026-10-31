@@ -1,6 +1,6 @@
 # gradion-ai/freeact
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/gradion-ai/freeact) · [官网](https://gradion-ai.github.io/freeact/) · 组织维护
+⭐ 131 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/gradion-ai/freeact) · [官网](https://gradion-ai.github.io/freeact/) · 组织维护
 
 **通过代码动作执行的通用 AI agent，支持 CLI 与 Python SDK**
 
@@ -45,12 +45,12 @@ Freeact 是一个通用 AI agent，在 ipybox 提供的有状态执行环境中�
 ```mermaid
 xychart-beta
     title "gradion-ai/freeact 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 129 --> 131
-    line [130, 130]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 129 --> 132
+    line [130, 131]
 ```
 
-2026-10-18 130 → 2026-10-30 130（+0）
+2026-10-18 130 → 2026-10-31 131（+1）
 
 
 ---

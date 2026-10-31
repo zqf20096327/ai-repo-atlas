@@ -1,6 +1,6 @@
 # rasbt/python-machine-learning-book
 
-⭐ 12,663 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/rasbt/python-machine-learning-book) · 个人维护
+⭐ 12,664 · Jupyter Notebook · MIT · 推送 2026-07-18 · [GitHub](https://github.com/rasbt/python-machine-learning-book) · 个人维护
 
 **《Python Machine Learning》(第1版)一书的配套代码与资料仓库**
 
@@ -45,13 +45,13 @@ Sebastian Raschka 所著《Python Machine Learning》第1版（Packt，2015年9�
 
 ```mermaid
 xychart-beta
-    title "rasbt/python-machine-learning-book 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "rasbt/python-machine-learning-book 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 12658 --> 12665
-    line [12659, 12660, 12661, 12663, 12664, 12662, 12663]
+    line [12659, 12660, 12661, 12663, 12664, 12662, 12663, 12664]
 ```
 
-2026-10-18 12,659 → 2026-10-30 12,663（+4）
+2026-10-18 12,659 → 2026-10-31 12,664（+5）
 
 
 ---

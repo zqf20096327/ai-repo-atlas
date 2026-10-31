@@ -1,6 +1,6 @@
 # kamranbekirovyz/skills
 
-⭐ 130 · 推送 2026-08-02 · [GitHub](https://github.com/kamranbekirovyz/skills) · [官网](https://flutterskills.md) · 个人维护
+⭐ 131 · 推送 2026-08-02 · [GitHub](https://github.com/kamranbekirovyz/skills) · [官网](https://flutterskills.md) · 个人维护
 
 **面向 AI 编程 agent 的 Flutter 应用开发技能包**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "kamranbekirovyz/skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 127 --> 131
-    line [128, 129, 128, 129, 130]
+    title "kamranbekirovyz/skills 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 127 --> 132
+    line [128, 129, 128, 129, 130, 131]
 ```
 
-2026-10-18 128 → 2026-10-30 130（+2）
+2026-10-18 128 → 2026-10-31 131（+3）
 
 
 ---

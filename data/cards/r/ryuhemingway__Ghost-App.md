@@ -1,6 +1,6 @@
 # ryuhemingway/Ghost-App
 
-⭐ 19 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ryuhemingway/Ghost-App) · [官网](https://integratedagentics.com/ghost) · 个人维护
+⭐ 20 · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ryuhemingway/Ghost-App) · [官网](https://integratedagentics.com/ghost) · 个人维护
 
 **macOS 刘海区菜单栏 AI 工作台：八家模型、本地 RAG 与 Mac 自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ryuhemingway/Ghost-App 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

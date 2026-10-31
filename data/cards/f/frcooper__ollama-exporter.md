@@ -41,6 +41,18 @@
 > L8: Application -> Exporter :8000 -> Ollama :11434
 > L9: Prometheus  -> Exporter :8000/metrics
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "frcooper/ollama-exporter 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-10-30 48 → 2026-10-31 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `64eb935574cb` · [字段定义](../../DATASET.md)*

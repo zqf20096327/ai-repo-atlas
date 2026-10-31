@@ -46,12 +46,12 @@ ClearML 官方提供的 Helm chart 仓库，用于在 Kubernetes 集群上部署
 ```mermaid
 xychart-beta
     title "clearml/clearml-helm-charts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-30 50（+0）
+2026-10-18 50 → 2026-10-31 50（+0）
 
 
 ---

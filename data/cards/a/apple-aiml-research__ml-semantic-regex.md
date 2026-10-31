@@ -45,12 +45,12 @@ Apple AIML Research 的语义正则（semantic regexes）方法配套仓库：�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-semantic-regex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

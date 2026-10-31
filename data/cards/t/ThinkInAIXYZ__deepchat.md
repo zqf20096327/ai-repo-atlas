@@ -1,6 +1,6 @@
 # ThinkInAIXYZ/deepchat
 
-⭐ 6,381 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [官网](https://deepchat.thinkinai.xyz/) · 组织维护 · 中文 README
+⭐ 6,383 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/ThinkInAIXYZ/deepchat) · [官网](https://deepchat.thinkinai.xyz/) · 组织维护 · 中文 README
 
 **开源本地优先的 AI Agent 桌面客户端，聚合多云与本地模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThinkInAIXYZ/deepchat 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 6366 --> 6382
-    line [6367, 6371, 6373, 6372, 6371, 6372, 6374, 6378, 6379, 6381]
+    title "ThinkInAIXYZ/deepchat 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 6366 --> 6384
+    line [6367, 6371, 6373, 6372, 6371, 6372, 6374, 6378, 6379, 6381, 6383]
 ```
 
-2026-10-18 6,367 → 2026-10-30 6,381（+14）
+2026-10-18 6,367 → 2026-10-31 6,383（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # peterfei/ifai
 
-⭐ 100 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/peterfei/ifai) · [官网](https://docs.ifai.today) · 个人维护 · 中文 README
+⭐ 101 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/peterfei/ifai) · [官网](https://docs.ifai.today) · 个人维护 · 中文 README
 
 **面向开发者的 AI Agent 编排助手与代码编辑器（Tauri 2.0）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peterfei/ifai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 98 --> 101
-    line [100, 99, 100, 100]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 98 --> 102
+    line [100, 99, 100, 101]
 ```
 
-2026-10-18 100 → 2026-10-30 100（+0）
+2026-10-18 100 → 2026-10-31 101（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SuperGODOG/ai-agent-interview-240
 
-⭐ 67 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SuperGODOG/ai-agent-interview-240) · 个人维护 · 中文 README
+⭐ 69 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SuperGODOG/ai-agent-interview-240) · 个人维护 · 中文 README
 
 **AI Agent 岗面试题库：477 道真题 + 语言八股 + 项目档案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SuperGODOG/ai-agent-interview-240 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 55 --> 68
-    line [56, 58, 60, 61, 63, 64, 67]
+    title "SuperGODOG/ai-agent-interview-240 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 55 --> 70
+    line [56, 58, 60, 61, 63, 64, 67, 69]
 ```
 
-2026-10-18 56 → 2026-10-30 67（+11）
+2026-10-18 56 → 2026-10-31 69（+13）
 
 
 ---

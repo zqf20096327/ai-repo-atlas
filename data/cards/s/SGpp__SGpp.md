@@ -1,6 +1,6 @@
 # SGpp/SGpp
 
-⭐ 81 · C++ · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/SGpp/SGpp) · [官网](https://sgpp.sparsegrids.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **稀疏网格数值库：提供插值、求积、优化与机器学习算法**
 
@@ -11,7 +11,7 @@ C++ 编写并绑定 Python/Java/MATLAB 的稀疏网格（sparse grids）数值�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

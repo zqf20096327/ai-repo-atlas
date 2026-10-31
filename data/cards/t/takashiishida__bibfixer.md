@@ -1,6 +1,6 @@
 # takashiishida/bibfixer
 
-⭐ 187 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/takashiishida/bibfixer) · 个人维护
+⭐ 186 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/takashiishida/bibfixer) · 个人维护
 
 **用 LLM+网络搜索自动清洗补全 BibTeX 条目的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "takashiishida/bibfixer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 185 --> 188
-    line [186, 187, 187]
+    line [186, 187, 186]
 ```
 
-2026-10-18 186 → 2026-10-30 187（+1）
+2026-10-18 186 → 2026-10-31 186（+0）
 
 
 ---

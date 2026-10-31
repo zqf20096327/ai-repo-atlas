@@ -1,6 +1,6 @@
 # SkyworkAI/Skywork-R1V
 
-⭐ 3,174 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SkyworkAI/Skywork-R1V) · [官网](https://arxiv.org/abs/2504.05599) · 组织维护
+⭐ 3,173 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/SkyworkAI/Skywork-R1V) · [官网](https://arxiv.org/abs/2504.05599) · 组织维护
 
 **开源多模态推理模型系列（38B），视觉-语言思维链推理**
 
@@ -45,12 +45,12 @@ Skywork AI 开发的多模态推理模型系列仓库，提供模型权重与推
 ```mermaid
 xychart-beta
     title "SkyworkAI/Skywork-R1V 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 3171 --> 3176
-    line [3172, 3173, 3175, 3174, 3174]
+    line [3172, 3173, 3175, 3174, 3173]
 ```
 
-2026-10-18 3,172 → 2026-10-30 3,174（+2）
+2026-10-18 3,172 → 2026-10-31 3,173（+1）
 
 
 ---

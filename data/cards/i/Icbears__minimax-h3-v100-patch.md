@@ -46,12 +46,12 @@ ComfyUI 自定义节点（ZIP 解压至 custom_nodes），为 MiniMax H3 在 CUD
 ```mermaid
 xychart-beta
     title "Icbears/minimax-h3-v100-patch 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-10-30 40（+1）
+2026-10-18 39 → 2026-10-31 40（+1）
 
 
 ---

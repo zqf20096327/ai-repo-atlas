@@ -1,6 +1,6 @@
 # enmanuelmag/agent-harness-kit
 
-⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/enmanuelmag/agent-harness-kit) · [官网](https://stack.cardor.dev/ahk) · 个人维护
+⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/enmanuelmag/agent-harness-kit) · [官网](https://stack.cardor.dev/ahk) · 个人维护
 
 **给 AI 编码工具的多 agent 工作流脚手架与任务记录工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "enmanuelmag/agent-harness-kit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "enmanuelmag/agent-harness-kit 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 182 --> 185
-    line [183, 184]
+    line [183, 184, 184]
 ```
 
-2026-10-18 183 → 2026-10-30 184（+1）
+2026-10-18 183 → 2026-10-31 184（+1）
 
 
 ---

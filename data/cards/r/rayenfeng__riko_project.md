@@ -1,6 +1,6 @@
 # rayenfeng/riko_project
 
-⭐ 1,178 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rayenfeng/riko_project) · 个人维护
+⭐ 1,181 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/rayenfeng/riko_project) · 个人维护
 
 **本地运行的开源动漫 AI 语音陪伴助手，含 3D 口型同步虚拟形象**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rayenfeng/riko_project 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1170 --> 1179
-    line [1173, 1171, 1172, 1175, 1178]
+    title "rayenfeng/riko_project 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1170 --> 1182
+    line [1173, 1171, 1172, 1175, 1178, 1181]
 ```
 
-2026-10-25 1,173 → 2026-10-30 1,178（+5）
+2026-10-25 1,173 → 2026-10-31 1,181（+8）
 
 
 ---

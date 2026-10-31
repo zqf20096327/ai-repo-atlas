@@ -44,12 +44,12 @@ Chrome 扩展，在 Spotify Web Player 页面显示歌曲由 Suno/Udio 等 AI �
 ```mermaid
 xychart-beta
     title "QosmoInc/Spot-if-AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-30 29（+0）
+2026-10-18 29 → 2026-10-31 29（+0）
 
 
 ---

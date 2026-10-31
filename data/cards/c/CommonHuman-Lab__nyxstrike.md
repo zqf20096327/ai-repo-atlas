@@ -1,6 +1,6 @@
 # CommonHuman-Lab/nyxstrike
 
-⭐ 156 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/CommonHuman-Lab/nyxstrike) · [官网](https://discord.gg/aC8Q2xJFgp) · 组织维护
+⭐ 156 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/CommonHuman-Lab/nyxstrike) · [官网](https://discord.gg/aC8Q2xJFgp) · 组织维护
 
 **把 LLM agent 接入 200+ 攻击工具的渗透测试编排引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CommonHuman-Lab/nyxstrike 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "CommonHuman-Lab/nyxstrike 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 153 --> 157
-    line [155, 156, 155, 154, 155, 156]
+    line [155, 156, 155, 154, 155, 156, 156]
 ```
 
-2026-10-18 155 → 2026-10-30 156（+1）
+2026-10-18 155 → 2026-10-31 156（+1）
 
 
 ---

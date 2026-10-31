@@ -1,6 +1,6 @@
 # SteelUnion/dsh-confirm-gate
 
-⭐ 15 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SteelUnion/dsh-confirm-gate) · [官网](https://github.com/SteelUnion/dsh-confirm-gate#readme) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/SteelUnion/dsh-confirm-gate) · [官网](https://github.com/SteelUnion/dsh-confirm-gate#readme) · 个人维护 · 中文 README
 
 **DSH 插件：按回合计数持久操作，超限提醒并要求确认**
 
@@ -39,6 +39,18 @@ DeepSeek Harness（DSH）的运行时插件，对每回合的持久化操作（�
 
 > L89: A runtime plugin for DeepSeek Harness. It keeps a **per-turn counter of persistent operations**, injects a stop ins
 > L53: npx -p @deepseek-ai/dsh dsh plugin --profile web add github:SteelUnion/dsh-confirm-gate
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SteelUnion/dsh-confirm-gate 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 14 --> 23
+    line [15, 22]
+```
+
+2026-10-30 15 → 2026-10-31 22（+7）
 
 
 ---

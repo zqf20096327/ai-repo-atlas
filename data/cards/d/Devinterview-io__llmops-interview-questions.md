@@ -45,12 +45,12 @@ Devinterview.io 维护的 LLMOps 面试准备知识仓库：以问答形式覆�
 ```mermaid
 xychart-beta
     title "Devinterview-io/llmops-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

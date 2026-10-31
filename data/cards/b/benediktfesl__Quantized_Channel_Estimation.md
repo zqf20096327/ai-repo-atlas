@@ -45,12 +45,12 @@ TUM 团队 IEEE TSP 2024 论文的官方代码实现，面向无线通信与信�
 ```mermaid
 xychart-beta
     title "benediktfesl/Quantized_Channel_Estimation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

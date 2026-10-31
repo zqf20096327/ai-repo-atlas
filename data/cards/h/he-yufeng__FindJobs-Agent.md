@@ -1,6 +1,6 @@
 # he-yufeng/FindJobs-Agent
 
-⭐ 243 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/FindJobs-Agent) · 个人维护 · 中文 README
+⭐ 242 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/FindJobs-Agent) · 个人维护 · 中文 README
 
 **求职者用的全栈求职助手：爬岗位、LLM 分析、简历匹配与 AI 模拟面试**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "he-yufeng/FindJobs-Agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 241 --> 245
-    line [243, 244, 243, 242, 243, 243]
+    line [243, 244, 243, 242, 243, 242]
 ```
 
-2026-10-18 243 → 2026-10-30 243（+0）
+2026-10-18 243 → 2026-10-31 242（-1）
 
 
 ---

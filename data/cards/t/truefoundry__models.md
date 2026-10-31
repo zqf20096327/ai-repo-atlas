@@ -1,6 +1,6 @@
 # truefoundry/models
 
-⭐ 45 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/truefoundry/models) · [官网](https://www.truefoundry.com/models) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/truefoundry/models) · [官网](https://www.truefoundry.com/models) · 组织维护
 
 **社区维护的 AI/LLM 模型元数据注册表：24 家提供商的定价与限制**
 
@@ -45,12 +45,12 @@ TrueFoundry 维护的社区注册表，收录 LLM Gateway 已接入提供商的�
 ```mermaid
 xychart-beta
     title "truefoundry/models 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-31"]
     y-axis "stars" 42 --> 46
     line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-10-30 45（+2）
+2026-10-18 43 → 2026-10-31 45（+2）
 
 
 ---

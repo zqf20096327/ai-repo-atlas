@@ -45,12 +45,12 @@ Carpentries 风格的英文机器学习入门课程，内容覆盖回归、分�
 ```mermaid
 xychart-beta
     title "carpentries-incubator/machine-learning-novice-sklearn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 31（+0）
 
 
 ---

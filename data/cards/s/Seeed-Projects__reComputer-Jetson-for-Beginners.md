@@ -1,6 +1,6 @@
 # Seeed-Projects/reComputer-Jetson-for-Beginners
 
-⭐ 189 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) · 组织维护
+⭐ 188 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) · 组织维护
 
 **面向初学者的 Jetson Orin 边缘 AI 教学课程（10 个模块）**
 
@@ -45,12 +45,12 @@ Seeed 维护的 reComputer Jetson Orin 入门教程仓库：以 10 个模块覆�
 ```mermaid
 xychart-beta
     title "Seeed-Projects/reComputer-Jetson-for-Beginners 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 184 --> 190
-    line [185, 186, 189, 189]
+    line [185, 186, 189, 188]
 ```
 
-2026-10-18 185 → 2026-10-30 189（+4）
+2026-10-18 185 → 2026-10-31 188（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs4anki
 
-⭐ 4,119 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs4anki) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护 · 中文 README
+⭐ 4,118 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/open-spaced-repetition/fsrs4anki) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护 · 中文 README
 
 **基于 FSRS 算法的 Anki 记忆卡片间隔重复调度器与优化器**
 
@@ -45,12 +45,12 @@ FSRS4Anki 由两部分组成：调度器（scheduler）替换 Anki 内置调度�
 ```mermaid
 xychart-beta
     title "open-spaced-repetition/fsrs4anki 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 4108 --> 4120
-    line [4109, 4110, 4111, 4113, 4116, 4117, 4118, 4117, 4119, 4119]
+    line [4109, 4110, 4111, 4113, 4116, 4117, 4118, 4117, 4119, 4118]
 ```
 
-2026-10-18 4,109 → 2026-10-30 4,119（+10）
+2026-10-18 4,109 → 2026-10-31 4,118（+9）
 
 
 ---

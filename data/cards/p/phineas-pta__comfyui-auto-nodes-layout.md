@@ -39,6 +39,18 @@ ComfyUI 自定义节点扩展：针对工作流（有向无环图）应用分层
 > L3: a ComfyUI extension that applies an improved node layout algorithm to ComfyUI workflows, primarily for better visual
 > L48: requirements: ComfyUI version ≥ 0.12.3
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "phineas-pta/comfyui-auto-nodes-layout 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 73 --> 75
+    line [74, 74]
+```
+
+2026-10-30 74 → 2026-10-31 74（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `ef7569d0cefd` · [字段定义](../../DATASET.md)*

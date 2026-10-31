@@ -1,6 +1,6 @@
 # CacinieP/TeXada-the-Math-Agent
 
-⭐ 40 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/CacinieP/TeXada-the-Math-Agent) · 个人维护 · 中文 README
+⭐ 41 · Python · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/CacinieP/TeXada-the-Math-Agent) · 个人维护 · 中文 README
 
 **本地数学公式转 LaTeX 的桌面 AI 代理：自然语言/图片/残缺 TeX→有效 LaTeX**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CacinieP/TeXada-the-Math-Agent 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-30"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-22", "2026-10-31"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-22 40 → 2026-10-30 40（+0）
+2026-10-22 40 → 2026-10-31 41（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HASHIRU-AI/HASHIRU
 
-⭐ 20 · Python · 推送 2026-10-29 · [GitHub](https://github.com/HASHIRU-AI/HASHIRU) · [官网](https://helloparthshah-hashiruai.hf.space) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/HASHIRU-AI/HASHIRU) · 组织维护
 
 **带预算管理的企业级多智能体框架：CEO agent 调度 agent 与工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -39,6 +39,18 @@
 
 > L17: This project provides a framework for creating and managing AI agents and tools. It includes features for managing 
 > L19: The architecture consists of a hierarchical system where a CEO agent manages a set of employee agents and tools. Bo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HASHIRU-AI/HASHIRU 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-10-30 20 → 2026-10-31 20（+0）
 
 
 ---

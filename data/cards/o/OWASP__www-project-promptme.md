@@ -44,13 +44,13 @@ OWASP 维护的教育项目：基于 Python 与 Ollama 框架和开源模型（m
 
 ```mermaid
 xychart-beta
-    title "OWASP/www-project-promptme 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "OWASP/www-project-promptme 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 42 --> 45
-    line [43, 44]
+    line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 44（+1）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

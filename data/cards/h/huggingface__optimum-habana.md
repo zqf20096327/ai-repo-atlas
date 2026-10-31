@@ -46,12 +46,12 @@ Optimum for Intel Gaudi（optimum-habana）是 Hugging Face Optimum 系列中面
 ```mermaid
 xychart-beta
     title "huggingface/optimum-habana 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 211 --> 214
     line [212, 213, 212, 212]
 ```
 
-2026-10-18 212 → 2026-10-30 212（+0）
+2026-10-18 212 → 2026-10-31 212（+0）
 
 
 ---

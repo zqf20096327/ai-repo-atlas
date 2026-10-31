@@ -1,6 +1,6 @@
 # SingleZombie/AFLDM
 
-⭐ 108 · Python · NOASSERTION · 推送 2025-12-09 · [GitHub](https://github.com/SingleZombie/AFLDM) · [官网](https://zhouyifan.net/AF-LDM-Page/) · 组织维护 · 中文 README
+⭐ 107 · Python · NOASSERTION · 推送 2025-12-09 · [GitHub](https://github.com/SingleZombie/AFLDM) · [官网](https://zhouyifan.net/AF-LDM-Page/) · 组织维护 · 中文 README
 
 **CVPR 2025 论文官方实现：改善 LDM 分数平移等变性的免混叠框架**
 
@@ -45,12 +45,12 @@ Alias-free Latent Diffusion Models 的官方 PyTorch 实现：针对 LDM 的 VAE
 ```mermaid
 xychart-beta
     title "SingleZombie/AFLDM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-10-30 108（+0）
+2026-10-18 108 → 2026-10-31 107（-1）
 
 
 ---

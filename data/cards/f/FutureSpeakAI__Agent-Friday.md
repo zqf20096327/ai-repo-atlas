@@ -1,6 +1,6 @@
 # FutureSpeakAI/Agent-Friday
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FutureSpeakAI/Agent-Friday) · [官网](https://futurespeak.ai) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/FutureSpeakAI/Agent-Friday) · [官网](https://futurespeak.ai) · 组织维护
 
 **本地优先的 Windows 私人 AI 语音助手，行动前需用户批准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FutureSpeakAI/Agent-Friday 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

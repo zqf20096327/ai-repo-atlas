@@ -1,6 +1,6 @@
 # aliammari1/awesome-ai-tools
 
-⭐ 108 · JavaScript · CC0-1.0 · 推送 2026-10-28 · [GitHub](https://github.com/aliammari1/awesome-ai-tools) · [官网](https://docs.aliammari.dev) · 个人维护
+⭐ 108 · JavaScript · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/aliammari1/awesome-ai-tools) · [官网](https://docs.aliammari.dev) · 个人维护
 
 **按任务分类的 384 个 AI 工具策展清单（19 类）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aliammari1/awesome-ai-tools 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 104 --> 109
     line [105, 106, 105, 106, 107, 108, 108]
 ```
 
-2026-10-18 105 → 2026-10-30 108（+3）
+2026-10-18 105 → 2026-10-31 108（+3）
 
 
 ---

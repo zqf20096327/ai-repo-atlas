@@ -1,6 +1,6 @@
 # yanhua1010/dsh-harness-tutorial
 
-⭐ 84 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/yanhua1010/dsh-harness-tutorial) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · MIT · 推送 2026-08-13 · [GitHub](https://github.com/yanhua1010/dsh-harness-tutorial) · 个人维护 · 中文 README
 
 **DeepSeek Harness 中文教程站：原理讲解 + 8 个 Demo + mini-harness 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yanhua1010/dsh-harness-tutorial 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 80 --> 86
-    line [81, 85, 84, 84]
+    line [81, 85, 84, 85]
 ```
 
-2026-10-18 81 → 2026-10-30 84（+3）
+2026-10-18 81 → 2026-10-31 85（+4）
 
 
 ---

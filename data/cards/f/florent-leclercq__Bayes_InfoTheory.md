@@ -44,12 +44,12 @@ Florent Leclercq 在贝叶斯统计与信息论授课中使用的 Jupyter notebo
 ```mermaid
 xychart-beta
     title "florent-leclercq/Bayes_InfoTheory 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

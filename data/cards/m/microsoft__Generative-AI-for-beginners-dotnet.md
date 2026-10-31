@@ -1,6 +1,6 @@
 # microsoft/Generative-AI-for-beginners-dotnet
 
-⭐ 3,172 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护
+⭐ 3,175 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) · [官网](https://aka.ms/genainet) · 组织维护
 
 **微软面向 .NET 开发者的生成式 AI 入门课程（5 课）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3126 --> 3176
-    line [3130, 3136, 3142, 3150, 3154, 3156, 3157, 3163, 3166, 3172]
+    title "microsoft/Generative-AI-for-beginners-dotnet 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3126 --> 3179
+    line [3130, 3136, 3142, 3150, 3154, 3156, 3157, 3163, 3166, 3172, 3175]
 ```
 
-2026-10-18 3,130 → 2026-10-30 3,172（+42）
+2026-10-18 3,130 → 2026-10-31 3,175（+45）
 
 
 ---

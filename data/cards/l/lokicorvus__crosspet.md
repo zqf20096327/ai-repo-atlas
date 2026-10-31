@@ -1,6 +1,6 @@
 # lokicorvus/crosspet
 
-⭐ 368 · C# · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/lokicorvus/crosspet) · [官网](https://github.com/lokicorvus/crosspet/releases/latest) · 个人维护 · 中文 README
+⭐ 375 · C# · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/lokicorvus/crosspet) · [官网](https://github.com/lokicorvus/crosspet/releases/latest) · 个人维护 · 中文 README
 
 **跨 AI 桌宠：随所用 AI 切换形象、跟随 AI 工作状态做动作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lokicorvus/crosspet 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 194 --> 383
-    line [209, 239, 268, 286, 303, 312, 323, 344, 351, 362, 368]
+    title "lokicorvus/crosspet 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 193 --> 391
+    line [209, 239, 268, 286, 303, 312, 323, 344, 351, 362, 368, 375]
 ```
 
-2026-10-18 209 → 2026-10-30 368（+159）
+2026-10-18 209 → 2026-10-31 375（+166）
 
 
 ---

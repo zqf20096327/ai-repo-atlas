@@ -1,6 +1,6 @@
 # SlavaSexton/ComfyUI-Agent-Kit
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) · [官网](https://aivfxnews.com/) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) · [官网](https://aivfxnews.com/) · 组织维护
 
 **让 AI 编码代理驱动本地 ComfyUI 的技能与 MCP 工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "SlavaSexton/ComfyUI-Agent-Kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 105 --> 113
-    line [106, 107, 108, 110, 111, 112]
+    title "SlavaSexton/ComfyUI-Agent-Kit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 105 --> 114
+    line [106, 107, 108, 110, 111, 112, 113]
 ```
 
-2026-10-18 106 → 2026-10-30 112（+6）
+2026-10-18 106 → 2026-10-31 113（+7）
 
 
 ---

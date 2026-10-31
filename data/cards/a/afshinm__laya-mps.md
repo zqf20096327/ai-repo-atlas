@@ -1,6 +1,6 @@
 # afshinm/laya-mps
 
-⭐ 24 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/afshinm/laya-mps) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/afshinm/laya-mps) · 个人维护
 
 **在 Mac 本地运行 Jev 式类型化决策模型的服务器与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "afshinm/laya-mps 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-10-30 24（+2）
+2026-10-18 22 → 2026-10-31 25（+3）
 
 
 ---

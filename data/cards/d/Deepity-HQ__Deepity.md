@@ -1,6 +1,6 @@
 # Deepity-HQ/Deepity
 
-⭐ 23 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Deepity-HQ/Deepity) · [官网](deepity.dev) · 个人维护
+⭐ 23 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Deepity-HQ/Deepity) · [官网](deepity.dev) · 个人维护
 
 **C++/CUDA 实现的预测编码网络训练引擎库**
 
@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "Deepity-HQ/Deepity 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 23（+1）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

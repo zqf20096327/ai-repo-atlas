@@ -1,6 +1,6 @@
 # lWoHvYe/unicorn
 
-⭐ 47 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/lWoHvYe/unicorn) · [官网](https://lwohvye.github.io/unicorn/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 Java 25/Spring Boot 4 的前后端分离脚手架，含 Spring AI 示例模块**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

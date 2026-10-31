@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/ML-Playground-Autodetect
 
-⭐ 22 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/AmirhosseinHonardoust/ML-Playground-Autodetect) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器内自动识别分类/回归并交互训练模型的 ML 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

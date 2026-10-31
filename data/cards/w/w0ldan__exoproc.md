@@ -1,6 +1,6 @@
 # w0ldan/exoproc
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/w0ldan/exoproc) · [官网](exoproc.woldan.me) · 个人维护
+⭐ 87 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/w0ldan/exoproc) · [官网](exoproc.woldan.me) · 个人维护
 
 **面向 AI agent 的 Windows x64 进程逆向与插桩 MCP 工具集**
 
@@ -40,6 +40,18 @@ TypeScript 编写的统一 CLI 与 MCP 服务器（stdio），把 Claude Code、
 > L3: ### One unified CLI and Model Context Protocol (MCP) server for Windows x64 reverse engineering, thread hijacking, f
 > L27: **Exoproc connects your AI coding agent directly to Windows x64 process internals.** It equips agents (Claude Code,
 > L219: Exoproc exposes **22 high-performance tools** over standard Model Context Protocol (stdio):
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "w0ldan/exoproc 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 73 --> 88
+    line [74, 87]
+```
+
+2026-10-30 74 → 2026-10-31 87（+13）
 
 
 ---

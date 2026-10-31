@@ -1,6 +1,6 @@
 # OuincheWinch/DiffusionBear
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
 
 **Apple Silicon Mac 本地 AI 图像生成工作室应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OuincheWinch/DiffusionBear 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 7 --> 24
     line [8, 9, 16, 21, 23, 23]
 ```
 
-2026-10-18 8 → 2026-10-30 23（+15）
+2026-10-18 8 → 2026-10-31 23（+15）
 
 
 ---

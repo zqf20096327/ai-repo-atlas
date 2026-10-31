@@ -1,6 +1,6 @@
 # CherryHQ/cherry-studio
 
-⭐ 53,086 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **多模型桌面 AI 客户端：统一接入云/本地 LLM 与助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

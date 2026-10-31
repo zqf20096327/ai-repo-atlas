@@ -1,6 +1,6 @@
 # modelscope/ms-cookbook
 
-⭐ 509 · HTML · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/modelscope/ms-cookbook) · [官网](https://modelscope.cn/active/ms-cookbook) · 组织维护 · 中文 README
+⭐ 509 · HTML · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/modelscope/ms-cookbook) · [官网](https://modelscope.cn/active/ms-cookbook) · 组织维护 · 中文 README
 
 **开源模型应用实战指南（魔搭紫皮书）：38 章覆盖选型到落地**
 
@@ -45,12 +45,12 @@ ModelScope 团队维护的开源教程书（魔搭紫皮书），面向开发者
 ```mermaid
 xychart-beta
     title "modelscope/ms-cookbook 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 485 --> 511
     line [487, 496, 500, 503, 504, 506, 507, 509, 509]
 ```
 
-2026-10-18 487 → 2026-10-30 509（+22）
+2026-10-18 487 → 2026-10-31 509（+22）
 
 
 ---

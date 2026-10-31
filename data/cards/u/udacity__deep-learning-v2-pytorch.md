@@ -1,6 +1,6 @@
 # udacity/deep-learning-v2-pytorch
 
-⭐ 5,523 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/udacity/deep-learning-v2-pytorch) · 组织维护
+⭐ 5,524 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/udacity/deep-learning-v2-pytorch) · 组织维护
 
 **Udacity 深度学习纳米学位的 PyTorch 教程与项目笔记本集**
 
@@ -45,12 +45,12 @@ Udacity Deep Learning Nanodegree (ND101 v7) 配套仓库，提供覆盖神经网
 ```mermaid
 xychart-beta
     title "udacity/deep-learning-v2-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
-    y-axis "stars" 5522 --> 5524
-    line [5523, 5523]
+    x-axis ["2026-10-28", "2026-10-31"]
+    y-axis "stars" 5522 --> 5525
+    line [5523, 5524]
 ```
 
-2026-10-28 5,523 → 2026-10-30 5,523（+0）
+2026-10-28 5,523 → 2026-10-31 5,524（+1）
 
 
 ---

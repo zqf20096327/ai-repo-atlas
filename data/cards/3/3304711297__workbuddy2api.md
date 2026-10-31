@@ -1,6 +1,6 @@
 # 3304711297/workbuddy2api
 
-⭐ 16 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/3304711297/workbuddy2api) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/3304711297/workbuddy2api) · 个人维护 · 中文 README
 
 **把腾讯 WorkBuddy 订阅转为本地三协议 API 网关的桌面端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "3304711297/workbuddy2api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 14, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 16, 17]
 ```
 
-2026-10-18 12 → 2026-10-30 16（+4）
+2026-10-18 12 → 2026-10-31 17（+5）
 
 
 ---

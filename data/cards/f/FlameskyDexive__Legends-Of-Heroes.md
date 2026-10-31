@@ -1,6 +1,6 @@
 # FlameskyDexive/Legends-Of-Heroes
 
-⭐ 932 · C# · MIT · 推送 2026-09-22 · [GitHub](https://github.com/FlameskyDexive/Legends-Of-Heroes) · 个人维护 · 中文 README
+⭐ 933 · C# · MIT · 推送 2026-09-22 · [GitHub](https://github.com/FlameskyDexive/Legends-Of-Heroes) · 个人维护 · 中文 README
 
 **ET 框架双端 C# 游戏框架，含战斗系统与 AI 辅助开发工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlameskyDexive/Legends-Of-Heroes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 929 --> 933
-    line [930, 931, 932]
+    title "FlameskyDexive/Legends-Of-Heroes 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 929 --> 934
+    line [930, 931, 932, 933]
 ```
 
-2026-10-18 930 → 2026-10-30 932（+2）
+2026-10-18 930 → 2026-10-31 933（+3）
 
 
 ---

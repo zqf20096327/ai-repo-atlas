@@ -1,6 +1,6 @@
 # ChatAnyTeam/ChatAny
 
-⭐ 6,483 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ChatAnyTeam/ChatAny) · 个人维护 · 中文 README
+⭐ 6,484 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/ChatAnyTeam/ChatAny) · 个人维护 · 中文 README
 
 **一键部署的 ChatGPT 聚合网页服务，附 AI 绘画能力**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ChatAnyTeam/ChatAny 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 6482 --> 6487
-    line [6486, 6485, 6484, 6483, 6483]
+    line [6486, 6485, 6484, 6483, 6484]
 ```
 
-2026-10-18 6,486 → 2026-10-30 6,483（-3）
+2026-10-18 6,486 → 2026-10-31 6,484（-2）
 
 
 ---

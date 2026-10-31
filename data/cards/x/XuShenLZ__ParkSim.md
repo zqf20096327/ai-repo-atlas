@@ -1,6 +1,6 @@
 # XuShenLZ/ParkSim
 
-⭐ 72 · Jupyter Notebook · GPL-3.0 · 推送 2025-11-12 · [GitHub](https://github.com/XuShenLZ/ParkSim) · 组织维护
+⭐ 73 · Jupyter Notebook · GPL-3.0 · 推送 2025-11-12 · [GitHub](https://github.com/XuShenLZ/ParkSim) · 组织维护
 
 **停车场车辆仿真与行为预测研究工具集**
 
@@ -45,12 +45,12 @@ Berkeley 团队维护的 monorepo，含两个子项目：ParkPredict+ 用 CNN �
 ```mermaid
 xychart-beta
     title "XuShenLZ/ParkSim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 71 --> 74
+    line [72, 73]
 ```
 
-2026-10-18 72 → 2026-10-30 72（+0）
+2026-10-18 72 → 2026-10-31 73（+1）
 
 
 ---

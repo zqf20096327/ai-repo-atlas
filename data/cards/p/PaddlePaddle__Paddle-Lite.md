@@ -1,6 +1,6 @@
 # PaddlePaddle/Paddle-Lite
 
-⭐ 7,289 · C++ · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/PaddlePaddle/Paddle-Lite) · [官网](https://www.paddlepaddle.org.cn/lite) · 组织维护 · 中文 README
+⭐ 7,288 · C++ · Apache-2.0 · 推送 2026-04-27 · [GitHub](https://github.com/PaddlePaddle/Paddle-Lite) · [官网](https://www.paddlepaddle.org.cn/lite) · 组织维护 · 中文 README
 
 **面向移动/嵌入式/边缘端多硬件的深度学习推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/Paddle-Lite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 7285 --> 7290
-    line [7289, 7286, 7287, 7288, 7289, 7289]
+    line [7289, 7286, 7287, 7288, 7289, 7288]
 ```
 
-2026-10-18 7,289 → 2026-10-30 7,289（+0）
+2026-10-18 7,289 → 2026-10-31 7,288（-1）
 
 
 ---

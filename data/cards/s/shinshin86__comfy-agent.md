@@ -1,6 +1,6 @@
 # shinshin86/comfy-agent
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shinshin86/comfy-agent) · [官网](https://www.npmjs.com/package/comfy-agent) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shinshin86/comfy-agent) · [官网](https://www.npmjs.com/package/comfy-agent) · 个人维护
 
 **无 GPU 创作者通过 CLI 将图像/视频/音乐生成委托给远程 ComfyUI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shinshin86/comfy-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # rmcmillan34/algorithmic-trading-learning-roadmap
 
-⭐ 257 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
+⭐ 256 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
 
 **面向独立算法交易者的自学路线图与资源模板库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rmcmillan34/algorithmic-trading-learning-roadmap 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 252 --> 258
-    line [253, 254, 255, 256, 257, 257]
+    line [253, 254, 255, 256, 257, 256]
 ```
 
-2026-10-18 253 → 2026-10-30 257（+4）
+2026-10-18 253 → 2026-10-31 256（+3）
 
 
 ---

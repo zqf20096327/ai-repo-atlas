@@ -1,6 +1,6 @@
 # sno-ai/mda
 
-⭐ 613 · TypeScript · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sno-ai/mda) · [官网](https://mda.sno.dev) · 个人维护 · 中文 README
+⭐ 614 · TypeScript · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/sno-ai/mda) · [官网](https://mda.sno.dev) · 个人维护 · 中文 README
 
 **给 agent 文档作者：一份 .mda 源编译为多运行时可加载的 .md 工件**
 
@@ -44,13 +44,13 @@ MDA 是一个开放规范加 TypeScript 参考实现（npm 包 @markdown-ai/cli�
 
 ```mermaid
 xychart-beta
-    title "sno-ai/mda 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    title "sno-ai/mda 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 612 --> 623
-    line [621, 622, 613]
+    line [621, 622, 613, 614]
 ```
 
-2026-10-18 621 → 2026-10-30 613（-8）
+2026-10-18 621 → 2026-10-31 614（-7）
 
 
 ---

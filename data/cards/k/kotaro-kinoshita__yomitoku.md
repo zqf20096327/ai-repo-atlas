@@ -1,6 +1,6 @@
 # kotaro-kinoshita/yomitoku
 
-⭐ 1,660 · Python · 推送 2026-10-22 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 组织维护
+⭐ 1,662 · Python · 推送 2026-10-22 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 组织维护
 
 **日本語特化の文書画像 AI 解析引擎：OCR 与布局/表格解析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kotaro-kinoshita/yomitoku 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1621 --> 1663
-    line [1624, 1648, 1652, 1653, 1654, 1655, 1657, 1658, 1659, 1660]
+    title "kotaro-kinoshita/yomitoku 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1621 --> 1665
+    line [1624, 1648, 1652, 1653, 1654, 1655, 1657, 1658, 1659, 1660, 1662]
 ```
 
-2026-10-18 1,624 → 2026-10-30 1,660（+36）
+2026-10-18 1,624 → 2026-10-31 1,662（+38）
 
 
 ---

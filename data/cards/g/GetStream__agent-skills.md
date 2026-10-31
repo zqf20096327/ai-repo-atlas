@@ -1,6 +1,6 @@
 # GetStream/agent-skills
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/GetStream/agent-skills) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/GetStream/agent-skills) · 组织维护
 
 **让 AI 编码代理构建、查询、管理 Stream 产品的技能包**
 
@@ -45,12 +45,12 @@ Stream 官方发布的 agent 技能仓库：以 SKILL.md 形式提供路由技�
 ```mermaid
 xychart-beta
     title "GetStream/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

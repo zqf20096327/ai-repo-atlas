@@ -1,6 +1,6 @@
 # royshil/obs-localvocal
 
-⭐ 1,653 · C++ · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/royshil/obs-localvocal) · [官网](https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/) · 个人维护
+⭐ 1,656 · C++ · GPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/royshil/obs-localvocal) · [官网](https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/) · 个人维护
 
 **OBS 本地语音转写与实时字幕/翻译插件**
 
@@ -45,13 +45,13 @@ OBS Studio 源/滤镜插件：在本地机器上用 OpenAI Whisper（经 Whisper
 
 ```mermaid
 xychart-beta
-    title "royshil/obs-localvocal 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1637 --> 1654
-    line [1638, 1642, 1645, 1647, 1648, 1649, 1651, 1653]
+    title "royshil/obs-localvocal 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1637 --> 1657
+    line [1638, 1642, 1645, 1647, 1648, 1649, 1651, 1653, 1656]
 ```
 
-2026-10-18 1,638 → 2026-10-30 1,653（+15）
+2026-10-18 1,638 → 2026-10-31 1,656（+18）
 
 
 ---

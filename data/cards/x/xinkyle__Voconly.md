@@ -1,6 +1,6 @@
 # xinkyle/Voconly
 
-⭐ 150 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xinkyle/Voconly) · [官网](https://voconly.vercel.app) · 个人维护 · 中文 README
+⭐ 150 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/xinkyle/Voconly) · [官网](https://voconly.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的 AI 语音输入工具：说话即得润色后的文字**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xinkyle/Voconly 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "xinkyle/Voconly 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 144 --> 151
-    line [145, 146, 147, 148, 149, 150]
+    line [145, 146, 147, 148, 149, 150, 150]
 ```
 
-2026-10-18 145 → 2026-10-30 150（+5）
+2026-10-18 145 → 2026-10-31 150（+5）
 
 
 ---

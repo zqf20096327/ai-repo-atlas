@@ -1,6 +1,6 @@
 # pescheckit/python-gpt-po
 
-⭐ 48 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/pescheckit/python-gpt-po) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/pescheckit/python-gpt-po) · 组织维护
 
 **用 AI 模型批量翻译 gettext .po 文件的 Python 工具**
 
@@ -45,12 +45,12 @@ Python 包与 CLI 工具，读取 gettext .po 本地化文件并调用 LLM 生�
 ```mermaid
 xychart-beta
     title "pescheckit/python-gpt-po 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 50]
 ```
 
-2026-10-18 47 → 2026-10-30 48（+1）
+2026-10-18 47 → 2026-10-31 50（+3）
 
 
 ---

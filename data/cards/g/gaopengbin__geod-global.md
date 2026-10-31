@@ -1,6 +1,6 @@
 # gaopengbin/geod-global
 
-⭐ 73 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gaopengbin/geod-global) · [官网](https://geod-global.laogao.xyz) · 个人维护 · 中文 README
+⭐ 75 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/gaopengbin/geod-global) · [官网](https://geod-global.laogao.xyz) · 个人维护 · 中文 README
 
 **Windows 桌面遥感与地理空间数据聚合下载工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaopengbin/geod-global 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 66 --> 74
-    line [67, 68, 69, 71, 72, 73]
+    title "gaopengbin/geod-global 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 66 --> 76
+    line [67, 68, 69, 71, 72, 73, 75]
 ```
 
-2026-10-23 67 → 2026-10-30 73（+6）
+2026-10-23 67 → 2026-10-31 75（+8）
 
 
 ---

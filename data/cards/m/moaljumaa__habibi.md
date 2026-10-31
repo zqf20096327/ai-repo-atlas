@@ -1,6 +1,6 @@
 # moaljumaa/habibi
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/moaljumaa/habibi) · [官网](https://opsily.com/hosting/habibi?utm_source=github&utm_medium=readme&utm_campaign=habibi) · 个人维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-08-09 · [GitHub](https://github.com/moaljumaa/habibi) · [官网](https://opsily.com/hosting/habibi?utm_source=github&utm_medium=readme&utm_campaign=habibi) · 个人维护
 
 **自托管的品牌 AI 可见性与引用追踪器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moaljumaa/habibi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

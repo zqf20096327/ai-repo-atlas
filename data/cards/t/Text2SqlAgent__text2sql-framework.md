@@ -1,6 +1,6 @@
 # Text2SqlAgent/text2sql-framework
 
-⭐ 162 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Text2SqlAgent/text2sql-framework) · 组织维护
+⭐ 163 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Text2SqlAgent/text2sql-framework) · 组织维护
 
 **Agentic text-to-SQL SDK：给 LLM 一个 execute_sql 工具自主探索模式并写 SQL**
 
@@ -46,12 +46,12 @@ Python SDK：不预做模式检索、不用 RAG 或语义层，将单个 execute
 ```mermaid
 xychart-beta
     title "Text2SqlAgent/text2sql-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 159 --> 163
-    line [160, 162, 162]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 159 --> 164
+    line [160, 162, 163]
 ```
 
-2026-10-18 160 → 2026-10-30 162（+2）
+2026-10-18 160 → 2026-10-31 163（+3）
 
 
 ---

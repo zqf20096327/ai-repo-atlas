@@ -1,6 +1,6 @@
 # zslucky/awesome-AI-books
 
-⭐ 1,833 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zslucky/awesome-AI-books) · 个人维护 · 中文 README
+⭐ 1,834 · Jupyter Notebook · MIT · 推送 2026-07-07 · [GitHub](https://github.com/zslucky/awesome-AI-books) · 个人维护 · 中文 README
 
 **AI 学习书籍与 PDF 清单：按领域分类并附训练环境**
 
@@ -46,12 +46,12 @@ AI 相关学习资源的聚合清单：收录数学、机器学习、数据挖�
 ```mermaid
 xychart-beta
     title "zslucky/awesome-AI-books 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1826 --> 1834
-    line [1827, 1830, 1831, 1832, 1833, 1833]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 1826 --> 1835
+    line [1827, 1830, 1831, 1832, 1833, 1834]
 ```
 
-2026-10-18 1,827 → 2026-10-30 1,833（+6）
+2026-10-18 1,827 → 2026-10-31 1,834（+7）
 
 
 ---

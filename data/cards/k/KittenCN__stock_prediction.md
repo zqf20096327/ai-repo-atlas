@@ -1,6 +1,6 @@
 # KittenCN/stock_prediction
 
-⭐ 388 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/KittenCN/stock_prediction) · [官网](https://www.coderfan.com) · 个人维护 · 中文 README
+⭐ 389 · Python · GPL-3.0 · 推送 2026-09-28 · [GitHub](https://github.com/KittenCN/stock_prediction) · [官网](https://www.coderfan.com) · 个人维护 · 中文 README
 
 **基于 PyTorch 的股票时间序列预测实验项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KittenCN/stock_prediction 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 382 --> 389
-    line [383, 385, 386, 388, 388]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 382 --> 390
+    line [383, 385, 386, 388, 389]
 ```
 
-2026-10-18 383 → 2026-10-30 388（+5）
+2026-10-18 383 → 2026-10-31 389（+6）
 
 
 ---

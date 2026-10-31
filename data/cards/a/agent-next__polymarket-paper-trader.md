@@ -1,6 +1,6 @@
 # agent-next/polymarket-paper-trader
 
-⭐ 493 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
+⭐ 494 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/agent-next/polymarket-paper-trader) · [官网](https://polymarket-leaderboard.com) · 组织维护
 
 **面向 AI agent 的 Polymarket 模拟盘交易环境与评测工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agent-next/polymarket-paper-trader 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 491 --> 504
-    line [501, 503, 492, 493, 493]
+    line [501, 503, 492, 493, 494]
 ```
 
-2026-10-18 501 → 2026-10-30 493（-8）
+2026-10-18 501 → 2026-10-31 494（-7）
 
 
 ---

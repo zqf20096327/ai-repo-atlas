@@ -1,6 +1,6 @@
 # visibl-ai/visibl-audiobooks
 
-⭐ 73 · JavaScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/visibl-ai/visibl-audiobooks) · [官网](https://visibl.ai) · 组织维护
+⭐ 74 · JavaScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/visibl-ai/visibl-audiobooks) · [官网](https://visibl.ai) · 组织维护
 
 **把小说自动转成图像小说的 iPhone 有声书播放器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "visibl-ai/visibl-audiobooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 72 --> 75
+    line [73, 74]
 ```
 
-2026-10-18 73 → 2026-10-30 73（+0）
+2026-10-18 73 → 2026-10-31 74（+1）
 
 
 ---

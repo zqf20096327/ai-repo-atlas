@@ -1,6 +1,6 @@
 # karayaman/lichess-mcp
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/karayaman/lichess-mcp) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/karayaman/lichess-mcp) · 个人维护
 
 **让 Claude Desktop 用自然语言操作 Lichess 国际象棋平台的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karayaman/lichess-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 19（+1）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

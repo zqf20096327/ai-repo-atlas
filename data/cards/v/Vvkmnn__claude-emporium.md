@@ -1,6 +1,6 @@
 # Vvkmnn/claude-emporium
 
-⭐ 81 · JavaScript · 推送 2026-03-05 · [GitHub](https://github.com/Vvkmnn/claude-emporium) · 个人维护
+⭐ 80 · JavaScript · 推送 2026-03-05 · [GitHub](https://github.com/Vvkmnn/claude-emporium) · 个人维护
 
 **面向 Claude Code 的插件市场：六个包装 MCP 服务器的自动化插件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Vvkmnn/claude-emporium 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    line [80, 81, 80]
 ```
 
-2026-10-18 80 → 2026-10-30 81（+1）
+2026-10-18 80 → 2026-10-31 80（+0）
 
 
 ---

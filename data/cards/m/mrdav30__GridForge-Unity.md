@@ -1,6 +1,6 @@
 # mrdav30/GridForge-Unity
 
-⭐ 18 · C# · MIT · 推送 2026-08-11 · [GitHub](https://github.com/mrdav30/GridForge-Unity) · 个人维护
+⭐ 19 · C# · MIT · 推送 2026-08-11 · [GitHub](https://github.com/mrdav30/GridForge-Unity) · 个人维护
 
 **确定性空间网格库 GridForge 的 Unity 宿主适配包**
 
@@ -45,12 +45,12 @@ Unity 包，为引擎无关的确定性体素世界库 GridForge 提供宿主层
 ```mermaid
 xychart-beta
     title "mrdav30/GridForge-Unity 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 19（+1）
 
 
 ---

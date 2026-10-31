@@ -1,6 +1,6 @@
 # mfoud444/ollamafreeapi
 
-⭐ 332 · Python · 推送 2026-10-06 · [GitHub](https://github.com/mfoud444/ollamafreeapi) · 个人维护
+⭐ 333 · Python · 推送 2026-10-06 · [GitHub](https://github.com/mfoud444/ollamafreeapi) · 个人维护
 
 **免费访问托管 Ollama 服务器的 LLM API 客户端库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mfoud444/ollamafreeapi 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 322 --> 333
-    line [323, 325, 328, 329, 330, 332]
+    title "mfoud444/ollamafreeapi 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 322 --> 334
+    line [323, 325, 328, 329, 330, 332, 333]
 ```
 
-2026-10-18 323 → 2026-10-30 332（+9）
+2026-10-18 323 → 2026-10-31 333（+10）
 
 
 ---

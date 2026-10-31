@@ -1,6 +1,6 @@
 # liangdabiao/perler-beads-ai
 
-⭐ 339 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/liangdabiao/perler-beads-ai) · [官网](https://pindou.348349.xyz/) · 个人维护 · 中文 README
+⭐ 340 · TypeScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/liangdabiao/perler-beads-ai) · [官网](https://pindou.348349.xyz/) · 个人维护 · 中文 README
 
 **拼豆图纸生成网站：AI 辅助优化图片并一键生成拼豆底稿**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liangdabiao/perler-beads-ai 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 330 --> 340
-    line [332, 331, 332, 335, 337, 339, 339]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 330 --> 341
+    line [332, 331, 332, 335, 337, 339, 340]
 ```
 
-2026-10-18 332 → 2026-10-30 339（+7）
+2026-10-18 332 → 2026-10-31 340（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # hollobit/ai-native
 
-⭐ 67 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/hollobit/ai-native) · 个人维护
+⭐ 71 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/hollobit/ai-native) · 个人维护
 
 **韩文电子书《AI 原生手册 2026》：以电力比喻讲解 AI 原生时代**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hollobit/ai-native 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 28 --> 70
-    line [31, 36, 40, 55, 63, 66, 67]
+    title "hollobit/ai-native 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 27 --> 75
+    line [31, 36, 40, 55, 63, 66, 67, 71]
 ```
 
-2026-10-24 31 → 2026-10-30 67（+36）
+2026-10-24 31 → 2026-10-31 71（+40）
 
 
 ---

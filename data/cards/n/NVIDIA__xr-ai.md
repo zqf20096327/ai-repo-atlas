@@ -1,6 +1,6 @@
 # NVIDIA/xr-ai
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NVIDIA/xr-ai) · [官网](https://nvidia.github.io/xr-ai/) · 组织维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/xr-ai) · [官网](https://nvidia.github.io/xr-ai/) · 组织维护
 
 **面向 XR 的多模态实时对话 AI agent 开源基础框架**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的 XR AI 框架：将 Web、Android、iOS/visionOS 与原生客户
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/xr-ai 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 96 --> 101
-    line [97, 98, 99, 100]
+    title "NVIDIA/xr-ai 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 96 --> 102
+    line [97, 98, 99, 100, 101]
 ```
 
-2026-10-18 97 → 2026-10-30 100（+3）
+2026-10-18 97 → 2026-10-31 101（+4）
 
 
 ---

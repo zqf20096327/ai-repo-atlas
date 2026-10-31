@@ -1,6 +1,6 @@
 # mikjee/warpdrv
 
-⭐ 141 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mikjee/warpdrv) · 个人维护
+⭐ 140 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mikjee/warpdrv) · 个人维护
 
 **本地 LLM 服务器管理与聊天工具箱：管理 llama.cpp 后端并对话**
 
@@ -46,12 +46,12 @@ Tauri 桌面应用（Rust 壳 + Node.js 服务端 + React 前端），用于启�
 ```mermaid
 xychart-beta
     title "mikjee/warpdrv 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 140 --> 142
-    line [141, 141]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 139 --> 142
+    line [141, 140]
 ```
 
-2026-10-18 141 → 2026-10-30 141（+0）
+2026-10-18 141 → 2026-10-31 140（-1）
 
 
 ---

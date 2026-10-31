@@ -1,6 +1,6 @@
 # Rafaelpta/dupehound
 
-⭐ 99 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Rafaelpta/dupehound) · 个人维护
+⭐ 100 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Rafaelpta/dupehound) · 个人维护
 
 **离线重复代码检测器：发现 AI 生成的重复函数并做 CI 门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rafaelpta/dupehound 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 96 --> 100
-    line [98, 97, 98, 99, 99]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 96 --> 101
+    line [98, 97, 98, 99, 100]
 ```
 
-2026-10-18 98 → 2026-10-30 99（+1）
+2026-10-18 98 → 2026-10-31 100（+2）
 
 
 ---

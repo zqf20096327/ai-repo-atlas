@@ -44,12 +44,12 @@ Crystalline Society 社区维护的 CS Internship 项目规范仓库：定义项
 ```mermaid
 xychart-beta
     title "cs-internship/cs-internship-spec 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 85 --> 88
     line [87, 86, 86]
 ```
 
-2026-10-18 87 → 2026-10-30 86（-1）
+2026-10-18 87 → 2026-10-31 86（-1）
 
 
 ---

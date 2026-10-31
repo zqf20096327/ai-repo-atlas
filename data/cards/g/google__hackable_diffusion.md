@@ -1,6 +1,6 @@
 # google/hackable_diffusion
 
-⭐ 170 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/hackable_diffusion) · 组织维护
+⭐ 171 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google/hackable_diffusion) · 组织维护
 
 **JAX 扩散模型实验与教学模块化工具箱**
 
@@ -46,12 +46,12 @@ Google 开发者维护的 JAX 扩散建模工具箱，面向扩散模型研究�
 ```mermaid
 xychart-beta
     title "google/hackable_diffusion 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 169 --> 172
+    line [170, 171]
 ```
 
-2026-10-18 170 → 2026-10-30 170（+0）
+2026-10-18 170 → 2026-10-31 171（+1）
 
 
 ---

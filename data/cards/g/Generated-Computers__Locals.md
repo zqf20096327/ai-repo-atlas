@@ -1,6 +1,6 @@
 # Generated-Computers/Locals
 
-⭐ 437 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
+⭐ 441 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
 
 **在 Apple Silicon Mac 上本地运行多 AI agent 的推理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Generated-Computers/Locals 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 0 --> 477
-    line [28, 29, 33, 262, 307, 311, 346, 354, 356, 414, 437]
+    title "Generated-Computers/Locals 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 482
+    line [28, 29, 33, 262, 307, 311, 346, 354, 356, 414, 437, 441]
 ```
 
-2026-10-18 28 → 2026-10-30 437（+409）
+2026-10-18 28 → 2026-10-31 441（+413）
 
 
 ---

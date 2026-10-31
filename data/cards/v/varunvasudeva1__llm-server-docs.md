@@ -1,6 +1,6 @@
 # varunvasudeva1/llm-server-docs
 
-⭐ 848 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/varunvasudeva1/llm-server-docs) · 个人维护
+⭐ 849 · MIT · 推送 2026-06-30 · [GitHub](https://github.com/varunvasudeva1/llm-server-docs) · 个人维护
 
 **Debian 本地私有 LLM 服务器的端到端搭建教程文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "varunvasudeva1/llm-server-docs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 845 --> 849
-    line [846, 847, 846, 847, 848, 848]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 845 --> 850
+    line [846, 847, 846, 847, 848, 849]
 ```
 
-2026-10-18 846 → 2026-10-30 848（+2）
+2026-10-18 846 → 2026-10-31 849（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # realasfngl/Grok-Api
 
-⭐ 315 · Python · 推送 2026-08-18 · [GitHub](https://github.com/realasfngl/Grok-Api) · 个人维护
+⭐ 314 · Python · 推送 2026-08-18 · [GitHub](https://github.com/realasfngl/Grok-Api) · 个人维护
 
 **无需官方 API/账号的 Grok 逆向访问 Python 包装器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "realasfngl/Grok-Api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    title "realasfngl/Grok-Api 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 313 --> 316
-    line [314, 315, 314, 315]
+    line [314, 315, 314, 315, 314]
 ```
 
-2026-10-18 314 → 2026-10-30 315（+1）
+2026-10-18 314 → 2026-10-31 314（+0）
 
 
 ---

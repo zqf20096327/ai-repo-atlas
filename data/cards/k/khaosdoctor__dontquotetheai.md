@@ -1,6 +1,6 @@
 # khaosdoctor/dontquotetheai
 
-⭐ 171 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/khaosdoctor/dontquotetheai) · [官网](https://dontquotetheai.com) · 个人维护
+⭐ 172 · HTML · MIT · 推送 2026-09-27 · [GitHub](https://github.com/khaosdoctor/dontquotetheai) · [官网](https://dontquotetheai.com) · 个人维护
 
 **讽刺网站：发给直接粘贴 AI 长回答而不读的人**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "khaosdoctor/dontquotetheai 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 163 --> 172
-    line [164, 165, 166, 170, 171]
+    title "khaosdoctor/dontquotetheai 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 163 --> 173
+    line [164, 165, 166, 170, 171, 172]
 ```
 
-2026-10-18 164 → 2026-10-30 171（+7）
+2026-10-18 164 → 2026-10-31 172（+8）
 
 
 ---

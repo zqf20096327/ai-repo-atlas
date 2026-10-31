@@ -1,6 +1,6 @@
 # acoyfellow/coil
 
-⭐ 41 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/acoyfellow/coil) · [官网](https://coil.coey.dev) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/acoyfellow/coil) · [官网](https://coil.coey.dev) · 个人维护
 
 **在 Cloudflare 上为每个 agent 线程配备独立云电脑的平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acoyfellow/coil 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31"]
     y-axis "stars" 26 --> 43
-    line [27, 30, 40, 41, 42, 41, 41]
+    line [27, 30, 40, 41, 42, 41, 42]
 ```
 
-2026-10-18 27 → 2026-10-30 41（+14）
+2026-10-18 27 → 2026-10-31 42（+15）
 
 
 ---

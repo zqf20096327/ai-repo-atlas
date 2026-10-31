@@ -1,6 +1,6 @@
 # brycewang-stanford/StatsPAI
 
-⭐ 358 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · 组织维护
+⭐ 359 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · 组织维护
 
 **Python 因果推断与计量经济学库，供 AI agent 调用 Stata/R 式工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/StatsPAI 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 340 --> 359
-    line [341, 342, 343, 345, 348, 353, 352, 354, 357, 358]
+    title "brycewang-stanford/StatsPAI 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 340 --> 360
+    line [341, 342, 343, 345, 348, 353, 352, 354, 357, 358, 359]
 ```
 
-2026-10-18 341 → 2026-10-30 358（+17）
+2026-10-18 341 → 2026-10-31 359（+18）
 
 
 ---

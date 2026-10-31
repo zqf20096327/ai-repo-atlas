@@ -45,12 +45,12 @@ Vowpal Wabbit 生态的交互侧集成库，为在线强化学习回路提供 Pr
 ```mermaid
 xychart-beta
     title "VowpalWabbit/reinforcement_learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-18 73 → 2026-10-30 73（+0）
+2026-10-18 73 → 2026-10-31 73（+0）
 
 
 ---

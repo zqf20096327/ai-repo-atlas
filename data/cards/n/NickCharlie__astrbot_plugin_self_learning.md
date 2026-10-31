@@ -1,6 +1,6 @@
 # NickCharlie/astrbot_plugin_self_learning
 
-⭐ 445 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
+⭐ 447 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
 
 **AstrBot 自主学习插件：让聊天 Bot 学习对话风格与群组黑话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NickCharlie/astrbot_plugin_self_learning 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 414 --> 447
-    line [416, 420, 422, 424, 426, 429, 433, 435, 441, 442, 445]
+    title "NickCharlie/astrbot_plugin_self_learning 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 413 --> 450
+    line [416, 420, 422, 424, 426, 429, 433, 435, 441, 442, 445, 447]
 ```
 
-2026-10-18 416 → 2026-10-30 445（+29）
+2026-10-18 416 → 2026-10-31 447（+31）
 
 
 ---

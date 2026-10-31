@@ -1,6 +1,6 @@
 # orhun/voff
 
-⭐ 80 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/orhun/voff) · 个人维护
+⭐ 84 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/orhun/voff) · 个人维护
 
 **Rust TUI 的编码 agent 团队编排工具：自动组队并行执行任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "orhun/voff 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3 --> 87
-    line [10, 47, 80]
+    title "orhun/voff 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3 --> 91
+    line [10, 47, 80, 84]
 ```
 
-2026-10-24 10 → 2026-10-30 80（+70）
+2026-10-24 10 → 2026-10-31 84（+74）
 
 
 ---

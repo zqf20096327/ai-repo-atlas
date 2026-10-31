@@ -1,6 +1,6 @@
 # deepmodeling/DeePTB
 
-⭐ 124 · Python · LGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/deepmodeling/DeePTB) · [官网](https://deepmodeling.github.io/DeePTB/) · 组织维护 · 中文 README
+⭐ 125 · Python · LGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/deepmodeling/DeePTB) · [官网](https://deepmodeling.github.io/DeePTB/) · 组织维护 · 中文 README
 
 **深度学习预测紧束缚哈密顿量的第一性原理精度模拟包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deepmodeling/DeePTB 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 123 --> 125
-    line [124, 124]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 123 --> 126
+    line [124, 125]
 ```
 
-2026-10-18 124 → 2026-10-30 124（+0）
+2026-10-18 124 → 2026-10-31 125（+1）
 
 
 ---

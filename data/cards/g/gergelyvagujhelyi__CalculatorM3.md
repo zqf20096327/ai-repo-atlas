@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gergelyvagujhelyi/CalculatorM3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "gergelyvagujhelyi/CalculatorM3 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 33 --> 37
-    line [34, 36]
+    line [34, 36, 36]
 ```
 
-2026-10-18 34 → 2026-10-30 36（+2）
+2026-10-18 34 → 2026-10-31 36（+2）
 
 
 ---

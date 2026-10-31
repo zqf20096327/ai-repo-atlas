@@ -1,6 +1,6 @@
 # qualcomm/aimet
 
-⭐ 2,737 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://quic.github.io/aimet-pages/index.html) · 组织维护
+⭐ 2,737 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://quic.github.io/aimet-pages/index.html) · 组织维护
 
 **面向已训练 ML 模型的量化与压缩工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qualcomm/aimet 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2727 --> 2738
     line [2728, 2731, 2732, 2733, 2734, 2735, 2737, 2737]
 ```
 
-2026-10-18 2,728 → 2026-10-30 2,737（+9）
+2026-10-18 2,728 → 2026-10-31 2,737（+9）
 
 
 ---

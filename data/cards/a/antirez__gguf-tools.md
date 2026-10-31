@@ -1,6 +1,6 @@
 # antirez/gguf-tools
 
-⭐ 372 · C · MIT · 推送 2026-05-16 · [GitHub](https://github.com/antirez/gguf-tools) · 个人维护
+⭐ 373 · C · MIT · 推送 2026-05-16 · [GitHub](https://github.com/antirez/gguf-tools) · 个人维护
 
 **C 语言 GGUF 文件操作库与 CLI 工具：解析/比较/检查模型文件**
 
@@ -46,12 +46,12 @@ antirez 用 C 编写的 GGUF 文件操作库（gguflib）及配套 CLI（gguf-to
 ```mermaid
 xychart-beta
     title "antirez/gguf-tools 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 368 --> 373
-    line [369, 370, 371, 372, 372]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 368 --> 374
+    line [369, 370, 371, 372, 373]
 ```
 
-2026-10-18 369 → 2026-10-30 372（+3）
+2026-10-18 369 → 2026-10-31 373（+4）
 
 
 ---

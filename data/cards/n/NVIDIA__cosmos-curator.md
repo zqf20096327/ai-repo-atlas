@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-curator
 
-⭐ 298 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA/cosmos-curator) · 组织维护
+⭐ 299 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/NVIDIA/cosmos-curator) · 组织维护
 
 **物理 AI 训练数据治理工具包：视频切分、标注、过滤、去重**
 
@@ -45,13 +45,13 @@ NVIDIA 维护的物理 AI 训练数据治理工具包，面向构建数据流水
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos-curator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 290 --> 299
-    line [291, 293, 295, 296, 297, 298]
+    title "NVIDIA/cosmos-curator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 290 --> 300
+    line [291, 293, 295, 296, 297, 298, 299]
 ```
 
-2026-10-18 291 → 2026-10-30 298（+7）
+2026-10-18 291 → 2026-10-31 299（+8）
 
 
 ---

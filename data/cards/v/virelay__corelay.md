@@ -1,6 +1,6 @@
 # virelay/corelay
 
-⭐ 32 · Python · LGPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/virelay/corelay) · 组织维护
+⭐ 30 · Python · LGPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/virelay/corelay) · 组织维护
 
 **单机 XAI 分析流水线组合库，产出可视化用结果**
 
@@ -45,12 +45,12 @@ Python 库，用于组合单机数据处理与分析流水线，主要面向可�
 ```mermaid
 xychart-beta
     title "virelay/corelay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 29 --> 33
+    line [32, 30]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 30（-2）
 
 
 ---

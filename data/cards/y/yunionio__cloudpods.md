@@ -1,6 +1,6 @@
 # yunionio/cloudpods
 
-⭐ 2,964 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/yunionio/cloudpods) · [官网](https://www.cloudpods.org) · 组织维护 · 中文 README
+⭐ 2,964 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/yunionio/cloudpods) · [官网](https://www.cloudpods.org) · 组织维护 · 中文 README
 
 **开源云原生多云/混合云统一管理平台，含 LLM 推理调度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yunionio/cloudpods 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2957 --> 2965
     line [2958, 2959, 2962, 2963, 2964, 2964]
 ```
 
-2026-10-18 2,958 → 2026-10-30 2,964（+6）
+2026-10-18 2,958 → 2026-10-31 2,964（+6）
 
 
 ---

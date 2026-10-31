@@ -1,6 +1,6 @@
 # melly-lgtm/inplan
 
-⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/melly-lgtm/inplan) · [官网](https://inplan.ai) · 个人维护
+⭐ 24 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/melly-lgtm/inplan) · [官网](https://inplan.ai) · 个人维护
 
 **人机共同编写计划文档的 Markdown 编辑器（CLI+桌面端），面向编码 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "melly-lgtm/inplan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

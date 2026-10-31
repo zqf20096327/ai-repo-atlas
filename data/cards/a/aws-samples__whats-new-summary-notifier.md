@@ -44,12 +44,12 @@ AWS 官方 samples 提供的示例实现：监控 AWS What's New 等网页更新
 ```mermaid
 xychart-beta
     title "aws-samples/whats-new-summary-notifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-30 50（+0）
+2026-10-18 50 → 2026-10-31 50（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SrsBlack/ict-knowledge-library
 
-⭐ 70 · Python · 推送 2026-10-09 · [GitHub](https://github.com/SrsBlack/ict-knowledge-library) · 个人维护
+⭐ 71 · Python · 推送 2026-10-09 · [GitHub](https://github.com/SrsBlack/ict-knowledge-library) · 个人维护
 
 **ICT 交易概念的 LLM 可维护知识库（226 个概念文件）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SrsBlack/ict-knowledge-library 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 62 --> 71
-    line [63, 67, 68, 69, 70]
+    title "SrsBlack/ict-knowledge-library 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 62 --> 72
+    line [63, 67, 68, 69, 70, 71]
 ```
 
-2026-10-18 63 → 2026-10-30 70（+7）
+2026-10-18 63 → 2026-10-31 71（+8）
 
 
 ---

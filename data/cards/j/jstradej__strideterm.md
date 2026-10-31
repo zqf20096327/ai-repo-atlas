@@ -1,6 +1,6 @@
 # jstradej/strideterm
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jstradej/strideterm) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jstradej/strideterm) · 个人维护
 
 **把终端、AI 编码代理、Git、Docker 组织进工作区的桌面终端管理器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jstradej/strideterm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

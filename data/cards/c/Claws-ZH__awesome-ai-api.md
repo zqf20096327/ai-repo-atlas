@@ -1,6 +1,6 @@
 # Claws-ZH/awesome-ai-api
 
-⭐ 83 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Claws-ZH/awesome-ai-api) · [官网](https://claws-zh.github.io/awesome-ai-api/) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Claws-ZH/awesome-ai-api) · [官网](https://claws-zh.github.io/awesome-ai-api/) · 个人维护 · 中文 README
 
 **AI API 网关/中转站清单：185 家每日探测与排名**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Claws-ZH/awesome-ai-api 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 77 --> 84
-    line [78, 81, 82, 83, 83]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 77 --> 85
+    line [78, 81, 82, 83, 84]
 ```
 
-2026-10-18 78 → 2026-10-30 83（+5）
+2026-10-18 78 → 2026-10-31 84（+6）
 
 
 ---

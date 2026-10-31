@@ -1,6 +1,6 @@
 # RevolutionLA/awesome-YuE
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/RevolutionLA/awesome-YuE) · [官网](https://github.com/RevolutionLA/awesome-YuE) · 个人维护 · 中文 README
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/RevolutionLA/awesome-YuE) · [官网](https://github.com/RevolutionLA/awesome-YuE) · 个人维护 · 中文 README
 
 **YuE/YuE2 开源音乐生成生态精选清单（99 条，78 个项目）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RevolutionLA/awesome-YuE 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 15 --> 23
-    line [16, 17, 18, 19, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 19, 20, 21, 22, 23]
 ```
 
-2026-10-18 16 → 2026-10-30 22（+6）
+2026-10-18 16 → 2026-10-31 23（+7）
 
 
 ---

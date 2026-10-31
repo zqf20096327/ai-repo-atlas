@@ -1,6 +1,6 @@
 # microsoft/agent-framework
 
-⭐ 14,374 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/agent-framework) · [官网](https://aka.ms/agent-framework) · 组织维护
+⭐ 14,391 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/agent-framework) · [官网](https://aka.ms/agent-framework) · 组织维护
 
 **面向团队构建生产级 AI agent 与多 agent 工作流的多语言框架**
 
@@ -53,13 +53,13 @@ Microsoft Agent Framework（MAF）是支持 Python、.NET 与 Go 的多语言开
 
 ```mermaid
 xychart-beta
-    title "microsoft/agent-framework 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 14160 --> 14393
-    line [14179, 14210, 14248, 14273, 14295, 14304, 14313, 14328, 14342, 14363, 14374]
+    title "microsoft/agent-framework 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 14158 --> 14412
+    line [14179, 14210, 14248, 14273, 14295, 14304, 14313, 14328, 14342, 14363, 14374, 14391]
 ```
 
-2026-10-18 14,179 → 2026-10-30 14,374（+195）
+2026-10-18 14,179 → 2026-10-31 14,391（+212）
 
 
 ---

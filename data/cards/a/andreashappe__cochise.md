@@ -1,6 +1,6 @@
 # andreashappe/cochise
 
-⭐ 150 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/andreashappe/cochise) · 个人维护
+⭐ 152 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/andreashappe/cochise) · 个人维护
 
 **LLM 驱动的自主渗透测试原型：攻陷 Active Directory 域**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andreashappe/cochise 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 146 --> 151
-    line [147, 149, 150, 149, 150, 150]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 146 --> 153
+    line [147, 149, 150, 149, 150, 152]
 ```
 
-2026-10-18 147 → 2026-10-30 150（+3）
+2026-10-18 147 → 2026-10-31 152（+5）
 
 
 ---

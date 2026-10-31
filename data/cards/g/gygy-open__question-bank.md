@@ -1,6 +1,6 @@
 # gygy-open/question-bank
 
-⭐ 79 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/gygy-open/question-bank) · [官网](https://gygy-open.github.io/question-bank/) · 组织维护 · 中文 README
+⭐ 81 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/gygy-open/question-bank) · [官网](https://gygy-open.github.io/question-bank/) · 组织维护 · 中文 README
 
 **面向教师与教研团队的 AI 原生题库与组稿系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gygy-open/question-bank 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 71 --> 80
-    line [72, 73, 74, 75, 77, 78, 79]
+    title "gygy-open/question-bank 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 71 --> 82
+    line [72, 73, 74, 75, 77, 78, 79, 81]
 ```
 
-2026-10-18 72 → 2026-10-30 79（+7）
+2026-10-18 72 → 2026-10-31 81（+9）
 
 
 ---

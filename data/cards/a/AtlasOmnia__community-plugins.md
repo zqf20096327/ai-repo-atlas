@@ -1,6 +1,6 @@
 # AtlasOmnia/community-plugins
 
-⭐ 54 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/community-plugins) · [官网](https://hermesagenttools.com/) · 组织维护
+⭐ 55 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/community-plugins) · [官网](https://hermesagenttools.com/) · 组织维护
 
 **Hermes 桌面客户端社区插件策展清单（仅列举、未经审计）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AtlasOmnia/community-plugins 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-28", "2026-10-31"]
+    y-axis "stars" 53 --> 56
+    line [54, 55]
 ```
 
-2026-10-28 54 → 2026-10-30 54（+0）
+2026-10-28 54 → 2026-10-31 55（+1）
 
 
 ---

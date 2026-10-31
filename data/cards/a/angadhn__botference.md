@@ -1,6 +1,6 @@
 # angadhn/botference
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/angadhn/botference) · [官网](https://botference.com) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/angadhn/botference) · [官网](https://botference.com) · 个人维护
 
 **终端多 LLM 规划议事厅：用户与 Claude Code、Codex 协作产出实施方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "angadhn/botference 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tugcantopaloglu/openclaw-dashboard
 
-⭐ 701 · HTML · 推送 2026-10-09 · [GitHub](https://github.com/tugcantopaloglu/openclaw-dashboard) · [官网](https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0) · 个人维护
+⭐ 700 · HTML · 推送 2026-10-09 · [GitHub](https://github.com/tugcantopaloglu/openclaw-dashboard) · [官网](https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0) · 个人维护
 
 **OpenClaw AI agent 的实时监控面板：会话/成本/内存/系统健康一站式查看**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tugcantopaloglu/openclaw-dashboard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "tugcantopaloglu/openclaw-dashboard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 699 --> 703
-    line [702, 701, 700, 701, 700, 701]
+    line [702, 701, 700, 701, 700, 701, 700]
 ```
 
-2026-10-18 702 → 2026-10-30 701（-1）
+2026-10-18 702 → 2026-10-31 700（-2）
 
 
 ---

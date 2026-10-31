@@ -1,6 +1,6 @@
 # Reza-Zhu/SUES-200-Benchmark
 
-⭐ 95 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/Reza-Zhu/SUES-200-Benchmark) · 个人维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-09-08 · [GitHub](https://github.com/Reza-Zhu/SUES-200-Benchmark) · 个人维护 · 中文 README
 
 **无人机与卫星跨视角图像匹配基准数据集与评测流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Reza-Zhu/SUES-200-Benchmark 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 93 --> 96
-    line [94, 95, 95]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 93 --> 97
+    line [94, 95, 96]
 ```
 
-2026-10-18 94 → 2026-10-30 95（+1）
+2026-10-18 94 → 2026-10-31 96（+2）
 
 
 ---

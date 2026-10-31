@@ -1,6 +1,6 @@
 # datamllab/HarborRL
 
-⭐ 46 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/datamllab/HarborRL) · 组织维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/datamllab/HarborRL) · 组织维护 · 中文 README
 
 **端到端 Agentic 强化学习框架：训练工具使用智能体**
 
@@ -44,13 +44,13 @@ HarborRL 是一个轻量级 agentic 强化学习训练框架，面向研究者�
 
 ```mermaid
 xychart-beta
-    title "datamllab/HarborRL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4 --> 49
-    line [7, 14, 15, 16, 21, 23, 46]
+    title "datamllab/HarborRL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3 --> 58
+    line [7, 14, 15, 16, 21, 23, 46, 54]
 ```
 
-2026-10-18 7 → 2026-10-30 46（+39）
+2026-10-18 7 → 2026-10-31 54（+47）
 
 
 ---

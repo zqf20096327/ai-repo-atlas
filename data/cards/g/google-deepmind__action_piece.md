@@ -45,13 +45,13 @@ Google DeepMind 发布的 ICML 2025 Spotlight 论文 ActionPiece 的官方代码
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/action_piece 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "google-deepmind/action_piece 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 69 --> 72
-    line [71, 70]
+    line [71, 70, 70]
 ```
 
-2026-10-18 71 → 2026-10-30 70（-1）
+2026-10-18 71 → 2026-10-31 70（-1）
 
 
 ---

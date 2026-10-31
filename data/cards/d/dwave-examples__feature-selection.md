@@ -46,12 +46,12 @@ D-Wave 官方示例仓库：基于 Stride 混合求解器或 CQM 求解器，通
 ```mermaid
 xychart-beta
     title "dwave-examples/feature-selection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

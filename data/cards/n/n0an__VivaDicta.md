@@ -1,6 +1,6 @@
 # n0an/VivaDicta
 
-⭐ 138 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/n0an/VivaDicta) · [官网](https://vivadicta.com/ios) · 个人维护
+⭐ 139 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/n0an/VivaDicta) · [官网](https://vivadicta.com/ios) · 个人维护
 
 **iOS/watchOS 语音转文字应用，含 AI 语音键盘与本地 RAG 笔记问答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "n0an/VivaDicta 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 132 --> 139
-    line [134, 133, 135, 136, 137, 138]
+    title "n0an/VivaDicta 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 132 --> 140
+    line [134, 133, 135, 136, 137, 138, 139]
 ```
 
-2026-10-18 134 → 2026-10-30 138（+4）
+2026-10-18 134 → 2026-10-31 139（+5）
 
 
 ---

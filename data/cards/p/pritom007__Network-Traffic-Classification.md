@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pritom007/Network-Traffic-Classification 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-30 42（+0）
+2026-10-18 42 → 2026-10-31 42（+0）
 
 
 ---

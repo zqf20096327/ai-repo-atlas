@@ -46,12 +46,12 @@ Go 编写的 CLI（CAM），外加 Tauri 桌面壳与 Go sidecar API，用于在
 ```mermaid
 xychart-beta
     title "Chat2AnyLLM/code-agent-manager 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-30 51（+0）
+2026-10-18 51 → 2026-10-31 51（+0）
 
 
 ---

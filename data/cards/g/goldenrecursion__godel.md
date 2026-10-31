@@ -45,12 +45,12 @@ Golden 协议的开源 Python SDK，为开发者与 agent 提供构建应用、�
 ```mermaid
 xychart-beta
     title "goldenrecursion/godel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

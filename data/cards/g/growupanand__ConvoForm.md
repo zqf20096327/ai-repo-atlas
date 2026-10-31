@@ -1,6 +1,6 @@
 # growupanand/ConvoForm
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/growupanand/ConvoForm) · [官网](https://convoform.com) · 个人维护
+⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/growupanand/ConvoForm) · [官网](https://convoform.com) · 个人维护
 
 **把传统表单转成 AI 对话式数据收集的开源表单工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "growupanand/ConvoForm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-18 102 → 2026-10-30 102（+0）
+2026-10-18 102 → 2026-10-31 102（+0）
 
 
 ---

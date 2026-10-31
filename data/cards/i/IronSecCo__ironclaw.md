@@ -45,13 +45,13 @@ Go 编写的自托管 AI agent 平台：agent 以编译后二进制运行在 gVi
 
 ```mermaid
 xychart-beta
-    title "IronSecCo/ironclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "IronSecCo/ironclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

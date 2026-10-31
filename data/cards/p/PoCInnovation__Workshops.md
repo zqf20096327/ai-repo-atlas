@@ -42,12 +42,12 @@ PoC Innovation 组织维护的研讨会（Workshop）主题与材料仓库，覆
 ```mermaid
 xychart-beta
     title "PoCInnovation/Workshops 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 389 --> 391
     line [390, 390]
 ```
 
-2026-10-18 390 → 2026-10-30 390（+0）
+2026-10-18 390 → 2026-10-31 390（+0）
 
 
 ---

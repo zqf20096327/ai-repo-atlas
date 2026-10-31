@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dralgorhythm/claude-agentic-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "dralgorhythm/claude-agentic-framework 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 125 --> 130
-    line [126, 128, 129]
+    line [126, 128, 129, 129]
 ```
 
-2026-10-18 126 → 2026-10-30 129（+3）
+2026-10-18 126 → 2026-10-31 129（+3）
 
 
 ---

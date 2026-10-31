@@ -45,13 +45,13 @@ Anchor 是一个 Python 命令行工具，通过 WhisperX（或可选的 NVIDIA 
 
 ```mermaid
 xychart-beta
-    title "ellite/anchor-sub-sync 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    title "ellite/anchor-sub-sync 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 24 --> 28
-    line [25, 26, 27]
+    line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-10-30 27（+2）
+2026-10-18 25 → 2026-10-31 27（+2）
 
 
 ---

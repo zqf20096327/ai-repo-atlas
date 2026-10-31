@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ubc-provenance/PIDSMaker 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ubc-provenance/PIDSMaker 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 140 --> 144
-    line [141, 143]
+    line [141, 143, 143]
 ```
 
-2026-10-18 141 → 2026-10-30 143（+2）
+2026-10-18 141 → 2026-10-31 143（+2）
 
 
 ---

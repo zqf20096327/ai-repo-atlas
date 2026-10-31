@@ -1,6 +1,6 @@
 # ohad6k/emulo
 
-⭐ 301 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ohad6k/emulo) · [官网](https://emulo.vercel.app) · 个人维护
+⭐ 302 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/ohad6k/emulo) · [官网](https://emulo.vercel.app) · 个人维护
 
 **从你的 AI 编程代理会话日志挖掘生成 you.md 个人画像**
 
@@ -44,13 +44,13 @@ Python 编写的本地工具，读取 Claude Code、Codex、Copilot CLI、OpenCo
 
 ```mermaid
 xychart-beta
-    title "ohad6k/emulo 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 295 --> 302
-    line [296, 297, 298, 299, 300, 301]
+    title "ohad6k/emulo 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 295 --> 303
+    line [296, 297, 298, 299, 300, 301, 302]
 ```
 
-2026-10-18 296 → 2026-10-30 301（+5）
+2026-10-18 296 → 2026-10-31 302（+6）
 
 
 ---

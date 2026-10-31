@@ -1,6 +1,6 @@
 # islamAndAi/QURAN-NLP
 
-⭐ 149 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/islamAndAi/QURAN-NLP) · [官网](https://www.kaggle.com/datasets/alizahidraja/quran-nlp) · 组织维护
+⭐ 150 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/islamAndAi/QURAN-NLP) · [官网](https://www.kaggle.com/datasets/alizahidraja/quran-nlp) · 组织维护
 
 **面向《古兰经》与圣训的 NLP 数据集与 Python 工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "islamAndAi/QURAN-NLP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 148 --> 150
-    line [149, 149]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 148 --> 151
+    line [149, 150]
 ```
 
-2026-10-18 149 → 2026-10-30 149（+0）
+2026-10-18 149 → 2026-10-31 150（+1）
 
 
 ---

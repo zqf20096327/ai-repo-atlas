@@ -46,12 +46,12 @@ Niantic Spatial 发布的 ICCV 2025 论文《Scene Coordinate Reconstruction Pri
 ```mermaid
 xychart-beta
     title "nianticspatial/scr-priors 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 22（+0）
 
 
 ---

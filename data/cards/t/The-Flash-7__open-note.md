@@ -1,6 +1,6 @@
 # The-Flash-7/open-note
 
-⭐ 60 · Dart · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/The-Flash-7/open-note) · [官网](https://opennote.zsdn.net) · 个人维护 · 中文 README
+⭐ 60 · Dart · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/The-Flash-7/open-note) · [官网](https://opennote.zsdn.net) · 个人维护 · 中文 README
 
 **带 AI 助手与本地知识库的跨平台智能笔记应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "The-Flash-7/open-note 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 58 --> 61
     line [60, 59, 60, 60]
 ```
 
-2026-10-18 60 → 2026-10-30 60（+0）
+2026-10-18 60 → 2026-10-31 60（+0）
 
 
 ---

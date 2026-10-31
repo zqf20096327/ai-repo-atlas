@@ -1,6 +1,6 @@
 # ErickWendel/neo4j-ai-experiments
 
-⭐ 80 · JavaScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/neo4j-ai-experiments) · [官网](https://ewbr.cc/rag-ai-neo4j) · 个人维护
+⭐ 81 · JavaScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/neo4j-ai-experiments) · [官网](https://ewbr.cc/rag-ai-neo4j) · 个人维护
 
 **视频教程源码：用本地模型将自然语言转为 Neo4j Cypher 查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ErickWendel/neo4j-ai-experiments 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-18 80 → 2026-10-30 80（+0）
+2026-10-18 80 → 2026-10-31 81（+1）
 
 
 ---

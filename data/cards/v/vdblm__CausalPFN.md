@@ -1,6 +1,6 @@
 # vdblm/CausalPFN
 
-⭐ 135 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/vdblm/CausalPFN) · 组织维护
+⭐ 136 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/vdblm/CausalPFN) · 组织维护
 
 **基于 Transformer 上下文学习的因果效应估计库**
 
@@ -46,12 +46,12 @@ Python 库，利用 transformer 架构的 in-context learning 实现摊销式因
 ```mermaid
 xychart-beta
     title "vdblm/CausalPFN 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 133 --> 137
+    line [134, 135, 136]
 ```
 
-2026-10-18 134 → 2026-10-30 135（+1）
+2026-10-18 134 → 2026-10-31 136（+2）
 
 
 ---

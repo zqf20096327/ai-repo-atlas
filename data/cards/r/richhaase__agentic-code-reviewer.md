@@ -1,6 +1,6 @@
 # richhaase/agentic-code-reviewer
 
-⭐ 19 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/richhaase/agentic-code-reviewer) · 个人维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/richhaase/agentic-code-reviewer) · 个人维护
 
 **并行运行多个 LLM agent CLI 做代码评审并聚合结果的 CLI 工具**
 
@@ -45,12 +45,12 @@ ACR 是 Go 编写的命令行工具：对 Git diff 生成多个并行评审者�
 ```mermaid
 xychart-beta
     title "richhaase/agentic-code-reviewer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 19（+1）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

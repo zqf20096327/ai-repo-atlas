@@ -1,6 +1,6 @@
 # MiniMax-AI/minimax_search
 
-⭐ 61 · Python · 推送 2025-11-03 · [GitHub](https://github.com/MiniMax-AI/minimax_search) · [官网](https://www.minimax.io/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **为 Agent 提供网页搜索与批量浏览能力的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # opentikz/opentikz
 
-⭐ 232 · TeX · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/opentikz/opentikz) · [官网](https://opentikz.org/) · 组织维护
+⭐ 233 · TeX · NOASSERTION · 推送 2026-07-12 · [GitHub](https://github.com/opentikz/opentikz) · [官网](https://opentikz.org/) · 组织维护
 
 **学术论文 TikZ 图示资源库：图标/模板 + AI agent 技能，免手写 TikZ**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "opentikz/opentikz 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 225 --> 233
-    line [226, 227, 229, 230, 231, 232]
+    title "opentikz/opentikz 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 225 --> 234
+    line [226, 227, 229, 230, 231, 232, 233]
 ```
 
-2026-10-18 226 → 2026-10-30 232（+6）
+2026-10-18 226 → 2026-10-31 233（+7）
 
 
 ---

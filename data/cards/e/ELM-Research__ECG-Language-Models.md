@@ -46,12 +46,12 @@ ECG-语言模型（ELM）的训练与评测研究框架：支持 Llava 式投影
 ```mermaid
 xychart-beta
     title "ELM-Research/ECG-Language-Models 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

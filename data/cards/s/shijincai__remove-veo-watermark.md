@@ -1,6 +1,6 @@
 # shijincai/remove-veo-watermark
 
-⭐ 18 · 推送 2025-11-05 · [GitHub](https://github.com/shijincai/remove-veo-watermark) · [官网](https://sora2watermarkremover.net/remove-veo-watermark) · 组织维护 · 中文 README
+⭐ 19 · 推送 2025-11-05 · [GitHub](https://github.com/shijincai/remove-veo-watermark) · [官网](https://sora2watermarkremover.net/remove-veo-watermark) · 组织维护 · 中文 README
 
 **在线去除 Google Veo AI 视频水印的网页工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shijincai/remove-veo-watermark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 19（+1）
 
 
 ---

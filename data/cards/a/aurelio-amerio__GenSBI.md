@@ -1,6 +1,6 @@
 # aurelio-amerio/GenSBI
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/aurelio-amerio/GenSBI) · [官网](https://gensbi.com) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/aurelio-amerio/GenSBI) · [官网](https://gensbi.com) · 个人维护
 
 **JAX 的仿真推断生成式方法库：流匹配/扩散/归一化流做后验推断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aurelio-amerio/GenSBI 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-26", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-26 20 → 2026-10-30 20（+0）
+2026-10-26 20 → 2026-10-31 21（+1）
 
 
 ---

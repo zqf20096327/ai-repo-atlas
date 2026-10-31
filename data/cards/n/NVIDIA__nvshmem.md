@@ -1,6 +1,6 @@
 # NVIDIA/nvshmem
 
-⭐ 599 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
+⭐ 600 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
 
 **面向 NVIDIA GPU 集群的一侧通信并行编程库（OpenSHMEM 风格）**
 
@@ -46,12 +46,12 @@ NVSHMEM 是基于 OpenSHMEM 的并行编程接口，在多块 NVIDIA GPU 之间�
 ```mermaid
 xychart-beta
     title "NVIDIA/nvshmem 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 594 --> 600
-    line [597, 596, 595, 596, 599, 599]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 594 --> 601
+    line [597, 596, 595, 596, 599, 600]
 ```
 
-2026-10-18 597 → 2026-10-30 599（+2）
+2026-10-18 597 → 2026-10-31 600（+3）
 
 
 ---

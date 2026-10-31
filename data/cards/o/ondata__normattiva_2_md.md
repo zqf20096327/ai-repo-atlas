@@ -1,6 +1,6 @@
 # ondata/normattiva_2_md
 
-⭐ 22 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/ondata/normattiva_2_md) · [官网](https://ondata.github.io/normattiva_2_md/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ondata/normattiva_2_md) · [官网](https://ondata.github.io/normattiva_2_md/) · 组织维护
 
 **把意大利法律 Akoma Ntoso XML 转成 Markdown 供 LLM 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ondata/normattiva_2_md 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 22（+0）
 
 
 ---

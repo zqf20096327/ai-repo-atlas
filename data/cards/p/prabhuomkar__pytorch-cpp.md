@@ -1,6 +1,6 @@
 # prabhuomkar/pytorch-cpp
 
-⭐ 2,141 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/prabhuomkar/pytorch-cpp) · 个人维护
+⭐ 2,142 · C++ · MIT · 推送 2026-09-13 · [GitHub](https://github.com/prabhuomkar/pytorch-cpp) · 个人维护
 
 **PyTorch 官方教程的 C++/LibTorch 实现合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prabhuomkar/pytorch-cpp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2140 --> 2144
-    line [2143, 2142, 2141, 2141]
+    line [2143, 2142, 2141, 2142]
 ```
 
-2026-10-18 2,143 → 2026-10-30 2,141（-2）
+2026-10-18 2,143 → 2026-10-31 2,142（-1）
 
 
 ---

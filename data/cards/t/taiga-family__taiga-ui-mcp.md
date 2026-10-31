@@ -44,12 +44,12 @@ Taiga UI 家族维护的 Model Context Protocol 服务器，面向使用 Taiga U
 ```mermaid
 xychart-beta
     title "taiga-family/taiga-ui-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

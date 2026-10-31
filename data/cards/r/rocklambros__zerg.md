@@ -45,12 +45,12 @@ ZERG 是 Python CLI 工具，用于编排多个 Claude Code 实例（zergling）
 ```mermaid
 xychart-beta
     title "rocklambros/zerg 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-30 35（+0）
+2026-10-18 35 → 2026-10-31 35（+0）
 
 
 ---

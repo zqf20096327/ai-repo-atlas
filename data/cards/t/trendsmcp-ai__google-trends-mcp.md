@@ -45,12 +45,12 @@ Trends MCP 是一个托管在 trendsmcp.ai 的 MCP 服务器，向 Claude、Curs
 ```mermaid
 xychart-beta
     title "trendsmcp-ai/google-trends-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

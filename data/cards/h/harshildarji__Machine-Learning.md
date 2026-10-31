@@ -1,6 +1,6 @@
 # harshildarji/Machine-Learning
 
-⭐ 16 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/harshildarji/Machine-Learning) · 个人维护
+⭐ 17 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/harshildarji/Machine-Learning) · 个人维护
 
 **机器学习练习集：Jupyter notebook 实现的分类/识别/预测教程合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harshildarji/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

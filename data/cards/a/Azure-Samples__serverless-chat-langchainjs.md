@@ -1,6 +1,6 @@
 # Azure-Samples/serverless-chat-langchainjs
 
-⭐ 865 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs) · 组织维护
+⭐ 866 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Azure-Samples/serverless-chat-langchainjs) · 组织维护
 
 **Azure 官方的 Serverless RAG 聊天应用示例模板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Azure-Samples/serverless-chat-langchainjs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 861 --> 866
-    line [863, 862, 864, 865]
+    title "Azure-Samples/serverless-chat-langchainjs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 861 --> 867
+    line [863, 862, 864, 865, 866]
 ```
 
-2026-10-18 863 → 2026-10-30 865（+2）
+2026-10-18 863 → 2026-10-31 866（+3）
 
 
 ---

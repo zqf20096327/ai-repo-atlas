@@ -1,6 +1,6 @@
 # geminik23/ai-agents
 
-⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/geminik23/ai-agents) · [官网](https://ai-agents.rs) · 个人维护
+⭐ 38 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/geminik23/ai-agents) · [官网](https://ai-agents.rs) · 个人维护
 
 **Rust 声明式 AI agent 框架：一份 YAML 定义并运行 agent**
 
@@ -45,12 +45,12 @@ Rust 编写的 AI agent 构建框架，通过单一 YAML 规范定义 agent，�
 ```mermaid
 xychart-beta
     title "geminik23/ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

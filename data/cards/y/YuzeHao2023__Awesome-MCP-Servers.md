@@ -1,6 +1,6 @@
 # YuzeHao2023/Awesome-MCP-Servers
 
-⭐ 1,081 · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/YuzeHao2023/Awesome-MCP-Servers) · 个人维护 · 中文 README
+⭐ 1,082 · Apache-2.0 · 推送 2026-08-07 · [GitHub](https://github.com/YuzeHao2023/Awesome-MCP-Servers) · 个人维护 · 中文 README
 
 **MCP 服务器与工具的社区策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YuzeHao2023/Awesome-MCP-Servers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1074 --> 1082
-    line [1075, 1077, 1079, 1081, 1081]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 1074 --> 1083
+    line [1075, 1077, 1079, 1081, 1082]
 ```
 
-2026-10-18 1,075 → 2026-10-30 1,081（+6）
+2026-10-18 1,075 → 2026-10-31 1,082（+7）
 
 
 ---

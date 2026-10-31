@@ -1,6 +1,6 @@
 # huggingface/funes
 
-⭐ 581 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/funes) · 组织维护
+⭐ 581 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/funes) · 组织维护
 
 **AI 编码代理的持久会话记忆：跨代理索引并可发布到 Hub**
 
@@ -45,13 +45,13 @@ Rust 编写的 CLI 工具，将 Claude Code、Codex、pi、Hermes 等编码代�
 
 ```mermaid
 xychart-beta
-    title "huggingface/funes 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "huggingface/funes 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 568 --> 582
-    line [569, 570, 574, 577, 579, 580, 581]
+    line [569, 570, 574, 577, 579, 580, 581, 581]
 ```
 
-2026-10-18 569 → 2026-10-30 581（+12）
+2026-10-18 569 → 2026-10-31 581（+12）
 
 
 ---

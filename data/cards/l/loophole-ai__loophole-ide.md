@@ -1,6 +1,6 @@
 # loophole-ai/loophole-ide
 
-⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/loophole-ai/loophole-ide) · [官网](https://www.loopholeeditor.in) · 组织维护
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/loophole-ai/loophole-ide) · [官网](https://www.loopholeeditor.in) · 组织维护
 
 **开源 AI 代码编辑器：VS Code 分支内嵌 Agent 与补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "loophole-ai/loophole-ide 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

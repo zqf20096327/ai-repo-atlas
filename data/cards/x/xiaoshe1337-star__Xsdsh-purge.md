@@ -1,6 +1,6 @@
 # xiaoshe1337-star/Xsdsh-purge
 
-⭐ 92 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xiaoshe1337-star/Xsdsh-purge) · [官网](https://官方q群：1109345306) · 个人维护 · 中文 README
+⭐ 95 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/xiaoshe1337-star/Xsdsh-purge) · [官网](https://官方q群：1109345306) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方客户端的红队安全评估插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaoshe1337-star/Xsdsh-purge 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 21 --> 98
-    line [27, 52, 60, 69, 74, 80, 84, 91, 92]
+    title "xiaoshe1337-star/Xsdsh-purge 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 21 --> 101
+    line [27, 52, 60, 69, 74, 80, 84, 91, 92, 95]
 ```
 
-2026-10-22 27 → 2026-10-30 92（+65）
+2026-10-22 27 → 2026-10-31 95（+68）
 
 
 ---

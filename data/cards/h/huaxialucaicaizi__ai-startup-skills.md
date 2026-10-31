@@ -1,6 +1,6 @@
 # huaxialucaicaizi/ai-startup-skills
 
-⭐ 553 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
+⭐ 579 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
 
 **一人公司做 AI 产品的 7 步 Agent Skill 合集：验证到注册**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huaxialucaicaizi/ai-startup-skills 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 260 --> 579
-    line [286, 389, 484, 553]
+    title "huaxialucaicaizi/ai-startup-skills 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 257 --> 608
+    line [286, 389, 484, 553, 579]
 ```
 
-2026-10-26 286 → 2026-10-30 553（+267）
+2026-10-26 286 → 2026-10-31 579（+293）
 
 
 ---

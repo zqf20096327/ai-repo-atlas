@@ -1,6 +1,6 @@
 # Ouru77/ev-assistant
 
-⭐ 61 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Ouru77/ev-assistant) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/Ouru77/ev-assistant) · 个人维护
 
 **本地离线语音助手：Whisper+Ollama 驱动，可控制 PC 并记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ouru77/ev-assistant 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-10-18 61 → 2026-10-30 61（+0）
+2026-10-18 61 → 2026-10-31 62（+1）
 
 
 ---

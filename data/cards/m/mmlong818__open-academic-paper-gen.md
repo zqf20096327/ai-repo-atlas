@@ -1,6 +1,6 @@
 # mmlong818/open-academic-paper-gen
 
-⭐ 70 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/mmlong818/open-academic-paper-gen) · 个人维护 · 中文 README
+⭐ 71 · Python · AGPL-3.0 · 推送 2026-10-07 · [GitHub](https://github.com/mmlong818/open-academic-paper-gen) · 个人维护 · 中文 README
 
 **从研究题目生成引文可核验的学术论文草稿的多 agent 流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mmlong818/open-academic-paper-gen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 62 --> 72
-    line [63, 65, 68, 69, 71, 70, 70]
+    line [63, 65, 68, 69, 71, 70, 71]
 ```
 
-2026-10-18 63 → 2026-10-30 70（+7）
+2026-10-18 63 → 2026-10-31 71（+8）
 
 
 ---

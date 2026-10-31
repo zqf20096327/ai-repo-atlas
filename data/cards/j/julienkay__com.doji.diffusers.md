@@ -45,12 +45,12 @@ Doji 维护的 Unity 包，将 Hugging Face diffusers 库移植到 Unity Sentis 
 ```mermaid
 xychart-beta
     title "julienkay/com.doji.diffusers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-18 66 → 2026-10-30 66（+0）
+2026-10-18 66 → 2026-10-31 66（+0）
 
 
 ---

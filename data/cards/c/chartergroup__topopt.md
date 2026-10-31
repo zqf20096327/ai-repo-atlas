@@ -1,6 +1,6 @@
 # chartergroup/topopt
 
-⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chartergroup/topopt) · [官网](https://topopt.ai) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chartergroup/topopt) · [官网](https://topopt.ai) · 组织维护
 
 **供 AI agent 调用的拓扑优化 MCP 服务器：输入载荷与区域，输出可打印 STL**
 
@@ -39,6 +39,18 @@
 
 > L10:  topopt is an MCP server for topology optimization that works with Claude, Codex, Cursor and other AI agents.
 > L12: It gives your AI agent a topology optimizer that sets itself up and runs on your own computer. The start part can b
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chartergroup/topopt 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 17 --> 24
+    line [18, 23]
+```
+
+2026-10-30 18 → 2026-10-31 23（+5）
 
 
 ---

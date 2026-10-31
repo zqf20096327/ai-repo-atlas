@@ -1,6 +1,6 @@
 # bpwhelan/GameSentenceMiner
 
-⭐ 895 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
+⭐ 897 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
 
 **游戏中自动挖句制 Anki 卡的语言沉浸工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bpwhelan/GameSentenceMiner 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 877 --> 896
-    line [878, 879, 880, 881, 885, 886, 889, 892, 894, 895]
+    title "bpwhelan/GameSentenceMiner 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 877 --> 898
+    line [878, 879, 880, 881, 885, 886, 889, 892, 894, 895, 897]
 ```
 
-2026-10-18 878 → 2026-10-30 895（+17）
+2026-10-18 878 → 2026-10-31 897（+19）
 
 
 ---

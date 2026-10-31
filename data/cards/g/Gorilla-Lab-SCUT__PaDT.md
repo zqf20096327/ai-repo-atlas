@@ -1,6 +1,6 @@
 # Gorilla-Lab-SCUT/PaDT
 
-⭐ 166 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/Gorilla-Lab-SCUT/PaDT) · [官网](https://arxiv.org/abs/2510.01954) · 组织维护 · 中文 README
+⭐ 167 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/Gorilla-Lab-SCUT/PaDT) · [官网](https://arxiv.org/abs/2510.01954) · 组织维护 · 中文 README
 
 **MLLM 统一视觉任务范式：视觉 patch 作为可解码 token 输出定位与分割**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文官方实现。提出 Patch-as-Decodable-Token（PaDT）范式�
 ```mermaid
 xychart-beta
     title "Gorilla-Lab-SCUT/PaDT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 165 --> 167
-    line [166, 166]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 165 --> 168
+    line [166, 167]
 ```
 
-2026-10-18 166 → 2026-10-30 166（+0）
+2026-10-18 166 → 2026-10-31 167（+1）
 
 
 ---

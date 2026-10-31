@@ -45,13 +45,13 @@ Electron 桌面应用，将已安装并登录的官方 Grok CLI 的 agent 能力
 
 ```mermaid
 xychart-beta
-    title "xiaokaige1130-maker/grok-desktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "xiaokaige1130-maker/grok-desktop 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 21 --> 24
-    line [23, 22]
+    line [23, 22, 22]
 ```
 
-2026-10-18 23 → 2026-10-30 22（-1）
+2026-10-18 23 → 2026-10-31 22（-1）
 
 
 ---

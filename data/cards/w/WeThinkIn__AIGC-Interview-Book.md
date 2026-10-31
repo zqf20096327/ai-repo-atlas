@@ -1,6 +1,6 @@
 # WeThinkIn/AIGC-Interview-Book
 
-⭐ 5,102 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
+⭐ 5,113 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/WeThinkIn/AIGC-Interview-Book) · [官网](https://wethinkin.github.io/AIGC-Interview-Book/) · 组织维护 · 中文 README
 
 **AIGC/LLM/AI Agent 算法岗面试求职与职业成长知识平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WeThinkIn/AIGC-Interview-Book 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4980 --> 5113
-    line [4991, 5011, 5036, 5044, 5050, 5055, 5059, 5071, 5080, 5091, 5102]
+    title "WeThinkIn/AIGC-Interview-Book 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4979 --> 5125
+    line [4991, 5011, 5036, 5044, 5050, 5055, 5059, 5071, 5080, 5091, 5102, 5113]
 ```
 
-2026-10-18 4,991 → 2026-10-30 5,102（+111）
+2026-10-18 4,991 → 2026-10-31 5,113（+122）
 
 
 ---

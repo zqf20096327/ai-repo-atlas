@@ -1,6 +1,6 @@
 # open-net-worth-ai/open-net-worth
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/open-net-worth-ai/open-net-worth) · [官网](https://opennetworth.ai) · 组织维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/open-net-worth-ai/open-net-worth) · [官网](https://opennetworth.ai) · 组织维护
 
 **自托管个人记账/预算/投资应用，AI Agent 通过工具直接操作账本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-net-worth-ai/open-net-worth 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 3 --> 17
-    line [4, 7, 10, 12, 13, 14, 16]
+    title "open-net-worth-ai/open-net-worth 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3 --> 18
+    line [4, 7, 10, 12, 13, 14, 16, 17]
 ```
 
-2026-10-18 4 → 2026-10-30 16（+12）
+2026-10-18 4 → 2026-10-31 17（+13）
 
 
 ---

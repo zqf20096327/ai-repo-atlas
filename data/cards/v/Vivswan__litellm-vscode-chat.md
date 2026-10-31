@@ -1,6 +1,6 @@
 # Vivswan/litellm-vscode-chat
 
-⭐ 70 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Vivswan/litellm-vscode-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=vivswan.litellm-vscode-chat) · 个人维护
+⭐ 71 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Vivswan/litellm-vscode-chat) · [官网](https://marketplace.visualstudio.com/items?itemName=vivswan.litellm-vscode-chat) · 个人维护
 
 **让 GitHub Copilot Chat 通过 LiteLLM 使用 100+ LLM 的 VS Code 扩展**
 
@@ -46,12 +46,12 @@ VS Code 扩展，为 GitHub Copilot Chat 接入 LiteLLM 代理服务器，使聊
 ```mermaid
 xychart-beta
     title "Vivswan/litellm-vscode-chat 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 67 --> 72
+    line [68, 69, 70, 71]
 ```
 
-2026-10-18 68 → 2026-10-30 70（+2）
+2026-10-18 68 → 2026-10-31 71（+3）
 
 
 ---

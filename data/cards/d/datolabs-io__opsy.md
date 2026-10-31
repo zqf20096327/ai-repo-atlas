@@ -1,6 +1,6 @@
 # datolabs-io/opsy
 
-⭐ 206 · Go · Apache-2.0 · 推送 2026-04-20 · [GitHub](https://github.com/datolabs-io/opsy) · 组织维护
+⭐ 206 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/datolabs-io/opsy) · 组织维护
 
 **面向 SRE/DevOps 的 AI 命令行运维助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "datolabs-io/opsy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 204 --> 207
     line [205, 206, 206]
 ```
 
-2026-10-18 205 → 2026-10-30 206（+1）
+2026-10-18 205 → 2026-10-31 206（+1）
 
 
 ---

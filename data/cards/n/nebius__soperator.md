@@ -1,6 +1,6 @@
 # nebius/soperator
 
-⭐ 456 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nebius/soperator) · 组织维护
+⭐ 456 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/nebius/soperator) · 组织维护
 
 **在 Kubernetes 上运行 Slurm 集群的开源 operator，面向 AI 训练与 HPC**
 
@@ -45,13 +45,13 @@ Nebius 维护的 Kubernetes operator：将单个 SlurmCluster 自定义资源转
 
 ```mermaid
 xychart-beta
-    title "nebius/soperator 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "nebius/soperator 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 447 --> 457
-    line [448, 451, 453, 454, 455, 456]
+    line [448, 451, 453, 454, 455, 456, 456]
 ```
 
-2026-10-18 448 → 2026-10-30 456（+8）
+2026-10-18 448 → 2026-10-31 456（+8）
 
 
 ---

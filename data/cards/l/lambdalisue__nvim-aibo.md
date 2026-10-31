@@ -1,6 +1,6 @@
 # lambdalisue/nvim-aibo
 
-⭐ 87 · Lua · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lambdalisue/nvim-aibo) · 个人维护
+⭐ 86 · Lua · MIT · 推送 2026-07-07 · [GitHub](https://github.com/lambdalisue/nvim-aibo) · 个人维护
 
 **Neovim 插件：在编辑器内集成并编排 AI CLI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lambdalisue/nvim-aibo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 86 --> 88
-    line [87, 87]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 85 --> 88
+    line [87, 86]
 ```
 
-2026-10-18 87 → 2026-10-30 87（+0）
+2026-10-18 87 → 2026-10-31 86（-1）
 
 
 ---

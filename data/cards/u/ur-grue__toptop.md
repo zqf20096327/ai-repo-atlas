@@ -1,6 +1,6 @@
 # ur-grue/toptop
 
-⭐ 19 · Rust · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/ur-grue/toptop) · [官网](https://github.com/ur-grue/toptop#readme) · 个人维护
+⭐ 20 · Rust · GPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/ur-grue/toptop) · [官网](https://github.com/ur-grue/toptop#readme) · 个人维护
 
 **终端本地推理观测与系统监视器（htop/btop 级）**
 
@@ -46,12 +46,12 @@ Rust 编写的单二进制终端系统监视器，同时提供本地 LLM 推理�
 ```mermaid
 xychart-beta
     title "ur-grue/toptop 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 19（+1）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

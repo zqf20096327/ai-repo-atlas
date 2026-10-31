@@ -1,6 +1,6 @@
 # juanmc2005/diart
 
-⭐ 2,045 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/juanmc2005/diart) · [官网](https://diart.readthedocs.io) · 组织维护
+⭐ 2,046 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/juanmc2005/diart) · [官网](https://diart.readthedocs.io) · 组织维护
 
 **实时说话人分离 Python 框架：流式识别音频中不同说话人**
 
@@ -46,12 +46,12 @@ Python 框架 diart，核心能力是实时流式说话人分离（speaker diari
 ```mermaid
 xychart-beta
     title "juanmc2005/diart 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 2040 --> 2046
-    line [2041, 2043, 2044, 2045, 2045]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 2040 --> 2047
+    line [2041, 2043, 2044, 2045, 2046]
 ```
 
-2026-10-18 2,041 → 2026-10-30 2,045（+4）
+2026-10-18 2,041 → 2026-10-31 2,046（+5）
 
 
 ---

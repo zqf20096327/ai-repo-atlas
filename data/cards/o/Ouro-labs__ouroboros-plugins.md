@@ -1,6 +1,6 @@
 # Ouro-labs/ouroboros-plugins
 
-⭐ 16 · JavaScript · MIT · 推送 2026-08-15 · [GitHub](https://github.com/Ouro-labs/ouroboros-plugins) · 组织维护
+⭐ 16 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Ouro-labs/ouroboros-plugins) · 组织维护
 
 **Agent OS Ouroboros 的 23 个参考插件与 UserLevel 插件契约**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ouro-labs/ouroboros-plugins 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # midspiral/LemmaScript
 
-⭐ 128 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/midspiral/LemmaScript) · [官网](https://lemmascript.org) · 组织维护
+⭐ 128 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/midspiral/LemmaScript) · [官网](https://lemmascript.org) · 组织维护
 
 **带规范注解的 TypeScript 形式化验证工具链**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "midspiral/LemmaScript 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "midspiral/LemmaScript 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 118 --> 129
-    line [119, 120, 121, 122, 124, 125, 126, 128]
+    line [119, 120, 121, 122, 124, 125, 126, 128, 128]
 ```
 
-2026-10-18 119 → 2026-10-30 128（+9）
+2026-10-18 119 → 2026-10-31 128（+9）
 
 
 ---

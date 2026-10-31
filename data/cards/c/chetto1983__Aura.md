@@ -1,6 +1,6 @@
 # chetto1983/Aura
 
-⭐ 33 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chetto1983/Aura) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chetto1983/Aura) · 个人维护
 
 **自托管多用户 AI agent 平台：工具、时序记忆、定时任务与多渠道**
 
@@ -46,12 +46,12 @@ Go 编写的自托管 AI agent 平台，单二进制承载运行时、CLI、Tele
 ```mermaid
 xychart-beta
     title "chetto1983/Aura 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-22 33 → 2026-10-30 33（+0）
+2026-10-22 33 → 2026-10-31 33（+0）
 
 
 ---

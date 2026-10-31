@@ -1,6 +1,6 @@
 # leenkcool/humanasllm
 
-⭐ 29 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/leenkcool/humanasllm) · [官网](https://humanasllm.anytd.com/landing/) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/leenkcool/humanasllm) · [官网](https://humanasllm.anytd.com/landing/) · 个人维护 · 中文 README
 
 **Human-as-LLM 人工代理网关：把工程师接入 Agent 调度池**
 
@@ -45,13 +45,13 @@ OpenAI 兼容的 /v1 网关，把真实工程师作为「human-llm」模型路�
 
 ```mermaid
 xychart-beta
-    title "leenkcool/humanasllm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "leenkcool/humanasllm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 27 --> 30
-    line [28, 29]
+    line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 29（+1）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

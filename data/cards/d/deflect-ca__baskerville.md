@@ -46,12 +46,12 @@ Deflect 生态的分析引擎组件，针对 Layer 7 DDoS 攻击：将进入的 
 ```mermaid
 xychart-beta
     title "deflect-ca/baskerville 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 31（+0）
 
 
 ---

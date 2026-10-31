@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习面试准备资料仓库，收录 70 道 SV
 ```mermaid
 xychart-beta
     title "Devinterview-io/svm-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

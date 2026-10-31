@@ -1,6 +1,6 @@
 # microsoft/Orchard-Agentic
 
-⭐ 554 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/microsoft/Orchard-Agentic) · [官网](https://microsoft.github.io/Orchard-Agentic/) · 组织维护
+⭐ 555 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/microsoft/Orchard-Agentic) · [官网](https://microsoft.github.io/Orchard-Agentic/) · 组织维护
 
 **开源智能体建模研究集合：沙箱环境服务+评测+RL训练配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Orchard-Agentic 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 550 --> 555
-    line [551, 552, 553, 554, 554]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 550 --> 556
+    line [551, 552, 553, 554, 555]
 ```
 
-2026-10-18 551 → 2026-10-30 554（+3）
+2026-10-18 551 → 2026-10-31 555（+4）
 
 
 ---

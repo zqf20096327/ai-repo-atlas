@@ -1,6 +1,6 @@
 # Avarok-Cybersecurity/atlas
 
-⭐ 712 · Rust · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Avarok-Cybersecurity/atlas) · [官网](https://atlasinference.io) · 组织维护
+⭐ 712 · Rust · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Avarok-Cybersecurity/atlas) · [官网](https://atlasinference.io) · 组织维护
 
 **纯 Rust 编写的 LLM 推理引擎，面向 DGX Spark 等硬件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Avarok-Cybersecurity/atlas 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "Avarok-Cybersecurity/atlas 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 708 --> 714
-    line [709, 710, 712, 713, 712, 713, 711, 712]
+    line [709, 710, 712, 713, 712, 713, 711, 712, 712]
 ```
 
-2026-10-18 709 → 2026-10-30 712（+3）
+2026-10-18 709 → 2026-10-31 712（+3）
 
 
 ---

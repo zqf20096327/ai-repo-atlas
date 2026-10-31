@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "freeman42x/awesome-artificial-general-intelligence 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 331 --> 333
     line [332, 332]
 ```
 
-2026-10-18 332 → 2026-10-30 332（+0）
+2026-10-18 332 → 2026-10-31 332（+0）
 
 
 ---

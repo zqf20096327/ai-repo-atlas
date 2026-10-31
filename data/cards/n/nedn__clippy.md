@@ -1,6 +1,6 @@
 # nedn/clippy
 
-⭐ 41 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/nedn/clippy) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端里直接调用多模型 AI 的 CLI 工具，附代码打包脚本**
 
@@ -11,7 +11,7 @@ Python 编写的命令行工具 clippy 及配套 pack 脚本：在终端向 Open
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

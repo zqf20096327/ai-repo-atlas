@@ -1,6 +1,6 @@
 # Playa-Cyrene/Cyrene-Agent
 
-⭐ 765 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 组织维护 · 中文 README
+⭐ 767 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 组织维护 · 中文 README
 
 **以《崩坏：星穹铁道》昔涟为角色的 Windows Live2D AI 桌面伴侣**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Playa-Cyrene/Cyrene-Agent 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 709 --> 770
-    line [714, 723, 731, 739, 743, 746, 750, 754, 759, 763, 765]
+    title "Playa-Cyrene/Cyrene-Agent 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 709 --> 772
+    line [714, 723, 731, 739, 743, 746, 750, 754, 759, 763, 765, 767]
 ```
 
-2026-10-18 714 → 2026-10-30 765（+51）
+2026-10-18 714 → 2026-10-31 767（+53）
 
 
 ---

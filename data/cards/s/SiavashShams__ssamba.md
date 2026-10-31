@@ -45,12 +45,12 @@ SLT 2024 论文 SSAMBA 的 PyTorch 官方实现：以 Mamba 状态空间模型�
 ```mermaid
 xychart-beta
     title "SiavashShams/ssamba 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 143 --> 145
     line [144, 144]
 ```
 
-2026-10-18 144 → 2026-10-30 144（+0）
+2026-10-18 144 → 2026-10-31 144（+0）
 
 
 ---

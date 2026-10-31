@@ -1,6 +1,6 @@
 # Vincentwei1021/video-talkcraft
 
-⭐ 1,947 · HTML · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/Vincentwei1021/video-talkcraft) · [官网](https://vincentwei1021.github.io/video-talkcraft/) · 个人维护 · 中文 README
+⭐ 1,969 · HTML · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/Vincentwei1021/video-talkcraft) · [官网](https://vincentwei1021.github.io/video-talkcraft/) · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 变成口播视频动效工作室的 agent skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vincentwei1021/video-talkcraft 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1592 --> 1979
-    line [1624, 1659, 1684, 1710, 1723, 1740, 1768, 1787, 1813, 1901, 1947]
+    title "Vincentwei1021/video-talkcraft 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1590 --> 2003
+    line [1624, 1659, 1684, 1710, 1723, 1740, 1768, 1787, 1813, 1901, 1947, 1969]
 ```
 
-2026-10-18 1,624 → 2026-10-30 1,947（+323）
+2026-10-18 1,624 → 2026-10-31 1,969（+345）
 
 
 ---

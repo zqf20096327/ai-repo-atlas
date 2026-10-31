@@ -1,6 +1,6 @@
 # o-l-l-i/ComfyUI-Olm-SoL-Refiner
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/o-l-l-i/ComfyUI-Olm-SoL-Refiner) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/o-l-l-i/ComfyUI-Olm-SoL-Refiner) · 个人维护
 
 **在 ComfyUI 中运行 NVIDIA SoL Refiner 的视频精修放大节点**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点集，封装 NVIDIA SoL Refiner（LTX-2.5 MiniMax-H3 检�
 ```mermaid
 xychart-beta
     title "o-l-l-i/ComfyUI-Olm-SoL-Refiner 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

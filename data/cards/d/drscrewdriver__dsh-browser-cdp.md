@@ -1,6 +1,6 @@
 # drscrewdriver/dsh-browser-cdp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/drscrewdriver/dsh-browser-cdp) · [官网](https://www.npmjs.com/package/dsh-browser-cdp) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/drscrewdriver/dsh-browser-cdp) · [官网](https://www.npmjs.com/package/dsh-browser-cdp) · 个人维护 · 中文 README
 
 **让 Agent 通过 CDP 接入真实 Chrome 的 DSH 插件，附实时观察窗**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的浏览器插件（原 dsh-ego-browser）：内置 eg
 ```mermaid
 xychart-beta
     title "drscrewdriver/dsh-browser-cdp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 2 --> 19
-    line [3, 7, 13, 15, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 2 --> 22
+    line [3, 7, 13, 15, 17, 18, 21]
 ```
 
-2026-10-18 3 → 2026-10-30 18（+15）
+2026-10-18 3 → 2026-10-31 21（+18）
 
 
 ---

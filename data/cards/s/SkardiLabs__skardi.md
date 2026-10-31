@@ -1,6 +1,6 @@
 # SkardiLabs/skardi
 
-⭐ 109 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/SkardiLabs/skardi) · [官网](https://skardi.ai) · 组织维护
+⭐ 109 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/SkardiLabs/skardi) · [官网](https://skardi.ai) · 组织维护
 
 **面向 AI agent 的自进化上下文框架：记录查询意图并固化为工具**
 
@@ -46,12 +46,12 @@ Rust 编写的上下文服务框架：通过一个 DataFusion 进程将 Postgres
 ```mermaid
 xychart-beta
     title "SkardiLabs/skardi 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 105 --> 110
     line [106, 108, 109, 109]
 ```
 
-2026-10-18 106 → 2026-10-30 109（+3）
+2026-10-18 106 → 2026-10-31 109（+3）
 
 
 ---

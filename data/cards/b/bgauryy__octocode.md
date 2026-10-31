@@ -1,6 +1,6 @@
 # bgauryy/octocode
 
-⭐ 956 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/bgauryy/octocode) · [官网](https://octocode.ai/) · 个人维护
+⭐ 956 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bgauryy/octocode) · [官网](https://octocode.ai/) · 个人维护
 
 **面向 AI 代理与开发者的代码研究工具集（CLI/MCP）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bgauryy/octocode 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 949 --> 957
     line [950, 951, 952, 955, 956, 956]
 ```
 
-2026-10-18 950 → 2026-10-30 956（+6）
+2026-10-18 950 → 2026-10-31 956（+6）
 
 
 ---

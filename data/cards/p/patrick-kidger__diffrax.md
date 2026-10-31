@@ -1,6 +1,6 @@
 # patrick-kidger/diffrax
 
-⭐ 2,119 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/patrick-kidger/diffrax) · 个人维护
+⭐ 2,120 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/patrick-kidger/diffrax) · 个人维护
 
 **JAX 上的可微分数值微分方程求解器库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patrick-kidger/diffrax 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2113 --> 2120
-    line [2114, 2115, 2117, 2119, 2119]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 2113 --> 2121
+    line [2114, 2115, 2117, 2119, 2120]
 ```
 
-2026-10-18 2,114 → 2026-10-30 2,119（+5）
+2026-10-18 2,114 → 2026-10-31 2,120（+6）
 
 
 ---

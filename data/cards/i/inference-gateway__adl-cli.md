@@ -1,6 +1,6 @@
 # inference-gateway/adl-cli
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/inference-gateway/adl-cli) · [官网](https://github.com/inference-gateway) · 组织维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/inference-gateway/adl-cli) · [官网](https://github.com/inference-gateway) · 组织维护
 
 **从 YAML 定义生成 A2A 协议 Agent 服务端脚手架的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inference-gateway/adl-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kentucky-ai/opentakeoff
 
-⭐ 716 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护 · 中文 README
+⭐ 725 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护 · 中文 README
 
 **面向 AI agent（MCP）与人工的浏览器端施工图纸算量引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kentucky-ai/opentakeoff 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 590 --> 727
-    line [601, 621, 638, 650, 656, 667, 678, 698, 709, 714, 716]
+    title "Kentucky-ai/opentakeoff 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 589 --> 737
+    line [601, 621, 638, 650, 656, 667, 678, 698, 709, 714, 716, 725]
 ```
 
-2026-10-18 601 → 2026-10-30 716（+115）
+2026-10-18 601 → 2026-10-31 725（+124）
 
 
 ---

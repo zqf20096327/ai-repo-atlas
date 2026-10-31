@@ -1,6 +1,6 @@
 # Yashwanth-pilli/ILLIP
 
-⭐ 27 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Yashwanth-pilli/ILLIP) · 个人维护
+⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Yashwanth-pilli/ILLIP) · 个人维护
 
 **本地优先的个人 AI 平台：多 agent、记忆与本地模型商店**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yashwanth-pilli/ILLIP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

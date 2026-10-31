@@ -1,6 +1,6 @@
 # Aryamirsepasi/ProseKeyAI
 
-⭐ 36 · Swift · GPL-3.0 · 推送 2026-03-01 · [GitHub](https://github.com/Aryamirsepasi/ProseKeyAI) · [官网](https://aryamirsepasi.com/prosekey) · 个人维护
+⭐ 35 · Swift · GPL-3.0 · 推送 2026-03-01 · [GitHub](https://github.com/Aryamirsepasi/ProseKeyAI) · [官网](https://aryamirsepasi.com/prosekey) · 个人维护
 
 **接入多家 AI 服务的 iOS 第三方键盘，做校对与改写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aryamirsepasi/ProseKeyAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 34 --> 37
+    line [36, 35]
 ```
 
-2026-10-18 36 → 2026-10-30 36（+0）
+2026-10-18 36 → 2026-10-31 35（-1）
 
 
 ---

@@ -45,13 +45,13 @@ Datawhale 组织维护的习题解答开源教程：针对李航《机器学习�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/statistical-learning-method-solutions-manual 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "datawhalechina/statistical-learning-method-solutions-manual 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 2092 --> 2096
-    line [2093, 2094, 2095, 2094, 2093]
+    line [2093, 2094, 2095, 2094, 2093, 2093]
 ```
 
-2026-10-18 2,093 → 2026-10-30 2,093（+0）
+2026-10-18 2,093 → 2026-10-31 2,093（+0）
 
 
 ---

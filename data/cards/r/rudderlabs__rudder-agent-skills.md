@@ -1,6 +1,6 @@
 # rudderlabs/rudder-agent-skills
 
-⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rudderlabs/rudder-agent-skills) · [官网](https://www.rudderstack.com/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rudderlabs/rudder-agent-skills) · [官网](https://www.rudderstack.com/) · 组织维护
 
 **教 AI 编程代理操作 RudderStack 的技能与插件集合**
 
@@ -45,12 +45,12 @@ RudderStack 官方维护的 Claude Code 插件市场与 Agent Skills 集合，�
 ```mermaid
 xychart-beta
     title "rudderlabs/rudder-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

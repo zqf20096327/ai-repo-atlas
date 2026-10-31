@@ -1,6 +1,6 @@
 # dominikjung42/AIAlgorithmsAndApplications
 
-⭐ 60 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/dominikjung42/AIAlgorithmsAndApplications) · 组织维护
+⭐ 60 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/dominikjung42/AIAlgorithmsAndApplications) · 组织维护
 
 **面向硕士生的 Python AI 算法课程教学材料（两学期）**
 
@@ -45,12 +45,12 @@ Darmstadt 理工大学自 2019 年开设的硕士课程教学仓库，为无或�
 ```mermaid
 xychart-beta
     title "dominikjung42/AIAlgorithmsAndApplications 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 58 --> 61
     line [59, 60, 60]
 ```
 
-2026-10-18 59 → 2026-10-30 60（+1）
+2026-10-18 59 → 2026-10-31 60（+1）
 
 
 ---

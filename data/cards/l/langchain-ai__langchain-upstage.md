@@ -43,12 +43,12 @@ langchain-ai 组织下的集成仓库，包含单一 Python 包 langchain-upstag
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-upstage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 15 --> 18
     line [17, 16, 16]
 ```
 
-2026-10-18 17 → 2026-10-30 16（-1）
+2026-10-18 17 → 2026-10-31 16（-1）
 
 
 ---

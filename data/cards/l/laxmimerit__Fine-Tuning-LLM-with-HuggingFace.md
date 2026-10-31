@@ -1,6 +1,6 @@
 # laxmimerit/Fine-Tuning-LLM-with-HuggingFace
 
-⭐ 61 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Fine-Tuning-LLM-with-HuggingFace) · [官网](https://kgptalkie.com/fine-tuning-llm) · 个人维护
+⭐ 62 · Jupyter Notebook · 推送 2026-06-18 · [GitHub](https://github.com/laxmimerit/Fine-Tuning-LLM-with-HuggingFace) · [官网](https://kgptalkie.com/fine-tuning-llm) · 个人维护
 
 **机器学习课程资源清单仓库，含 HuggingFace LLM 微调教程**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "laxmimerit/Fine-Tuning-LLM-with-HuggingFace 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 52 --> 62
-    line [53, 54, 57, 58, 59, 60, 61, 61]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 52 --> 63
+    line [53, 54, 57, 58, 59, 60, 61, 62]
 ```
 
-2026-10-18 53 → 2026-10-30 61（+8）
+2026-10-18 53 → 2026-10-31 62（+9）
 
 
 ---

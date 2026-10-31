@@ -1,6 +1,6 @@
 # microsoft/OdysseyBench
 
-⭐ 19 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/microsoft/OdysseyBench) · 组织维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/microsoft/OdysseyBench) · 组织维护
 
 **评测 LLM agent 长程办公工作流记忆能力的基准套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/OdysseyBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 17 --> 21
-    line [18, 20, 19, 19]
+    line [18, 20, 19, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 19（+1）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

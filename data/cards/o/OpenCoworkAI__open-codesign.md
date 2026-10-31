@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-codesign
 
-⭐ 8,132 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [官网](https://opencoworkai.github.io/open-codesign/) · 组织维护 · 中文 README
+⭐ 8,134 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [官网](https://opencoworkai.github.io/open-codesign/) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 设计桌面应用：提示词生成原型/幻灯/PDF**
 
@@ -45,13 +45,13 @@ MIT 许可的 Electron 桌面应用，将提示词转化为原型、幻灯片、
 
 ```mermaid
 xychart-beta
-    title "OpenCoworkAI/open-codesign 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 8066 --> 8138
-    line [8072, 8081, 8091, 8098, 8101, 8104, 8112, 8122, 8127, 8132]
+    title "OpenCoworkAI/open-codesign 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 8066 --> 8140
+    line [8072, 8081, 8091, 8098, 8101, 8104, 8112, 8122, 8127, 8132, 8134]
 ```
 
-2026-10-18 8,072 → 2026-10-30 8,132（+60）
+2026-10-18 8,072 → 2026-10-31 8,134（+62）
 
 
 ---

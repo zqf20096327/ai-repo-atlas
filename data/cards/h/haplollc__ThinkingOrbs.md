@@ -1,6 +1,6 @@
 # haplollc/ThinkingOrbs
 
-⭐ 282 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haplollc/ThinkingOrbs) · 组织维护
+⭐ 283 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/haplollc/ThinkingOrbs) · 组织维护
 
 **给 SwiftUI AI/Agent 界面用的 3D 点阵加载指示器组件库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "haplollc/ThinkingOrbs 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 270 --> 283
-    line [271, 273, 275, 277, 278, 279, 282]
+    title "haplollc/ThinkingOrbs 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 270 --> 284
+    line [271, 273, 275, 277, 278, 279, 282, 283]
 ```
 
-2026-10-18 271 → 2026-10-30 282（+11）
+2026-10-18 271 → 2026-10-31 283（+12）
 
 
 ---

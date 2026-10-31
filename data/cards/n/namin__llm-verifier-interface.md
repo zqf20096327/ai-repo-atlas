@@ -44,12 +44,12 @@ FoPSS 2026 暑期学校课程配套仓库，围绕 LLM 与验证器（Verifier�
 ```mermaid
 xychart-beta
     title "namin/llm-verifier-interface 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

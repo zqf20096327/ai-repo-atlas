@@ -44,13 +44,13 @@ Rust 编写的 Model Context Protocol 服务器，连接 Odoo ERP 实例：支�
 
 ```mermaid
 xychart-beta
-    title "rachmataditiya/odoo-rust-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    title "rachmataditiya/odoo-rust-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # geekjourneyx/agora
 
-⭐ 169 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/geekjourneyx/agora) · 个人维护 · 中文 README
+⭐ 170 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/geekjourneyx/agora) · 个人维护 · 中文 README
 
 **面向 Claude Code 的多 Agent 审议技能集，31 位思想家辩证决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geekjourneyx/agora 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 168 --> 170
-    line [169, 169]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 168 --> 171
+    line [169, 170]
 ```
 
-2026-10-18 169 → 2026-10-30 169（+0）
+2026-10-18 169 → 2026-10-31 170（+1）
 
 
 ---

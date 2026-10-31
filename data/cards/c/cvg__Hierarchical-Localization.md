@@ -1,6 +1,6 @@
 # cvg/Hierarchical-Localization
 
-⭐ 4,255 · Python · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/cvg/Hierarchical-Localization) · 组织维护
+⭐ 4,257 · Python · Apache-2.0 · 推送 2025-12-10 · [GitHub](https://github.com/cvg/Hierarchical-Localization) · 组织维护
 
 **分层视觉定位工具箱：结合图像检索与特征匹配的 6-DoF 定位**
 
@@ -45,13 +45,13 @@ hloc 是用于 6-DoF 视觉定位的模块化工具箱，实现结合图像检�
 
 ```mermaid
 xychart-beta
-    title "cvg/Hierarchical-Localization 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 4242 --> 4256
-    line [4243, 4244, 4246, 4248, 4250, 4253, 4255]
+    title "cvg/Hierarchical-Localization 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4242 --> 4258
+    line [4243, 4244, 4246, 4248, 4250, 4253, 4255, 4257]
 ```
 
-2026-10-18 4,243 → 2026-10-30 4,255（+12）
+2026-10-18 4,243 → 2026-10-31 4,257（+14）
 
 
 ---

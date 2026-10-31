@@ -1,6 +1,6 @@
 # Lightning-AI/LitServe
 
-⭐ 3,957 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Lightning-AI/LitServe) · [官网](https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme) · 组织维护
+⭐ 3,958 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Lightning-AI/LitServe) · [官网](https://lightning.ai/litserve?utm_source=litserve_readme&utm_medium=referral&utm_campaign=litserve_readme) · 组织维护
 
 **用纯 Python 构建自定义 AI 推理服务器的轻量框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lightning-AI/LitServe 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3954 --> 3958
-    line [3955, 3957, 3955, 3956, 3957, 3957]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 3954 --> 3959
+    line [3955, 3957, 3955, 3956, 3957, 3958]
 ```
 
-2026-10-18 3,955 → 2026-10-30 3,957（+2）
+2026-10-18 3,955 → 2026-10-31 3,958（+3）
 
 
 ---

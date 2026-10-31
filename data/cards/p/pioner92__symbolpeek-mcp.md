@@ -46,12 +46,12 @@ SymbolPeek 是一个 stdio MCP 服务器，为 AI 编程 agent 提供代码库�
 ```mermaid
 xychart-beta
     title "pioner92/symbolpeek-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

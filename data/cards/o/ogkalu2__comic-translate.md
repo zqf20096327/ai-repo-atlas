@@ -1,6 +1,6 @@
 # ogkalu2/comic-translate
 
-⭐ 2,989 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ogkalu2/comic-translate) · [官网](https://comic-translate.com) · 个人维护 · 中文 README
+⭐ 2,991 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ogkalu2/comic-translate) · [官网](https://comic-translate.com) · 个人维护 · 中文 README
 
 **自动翻译漫画/BD等漫画类作品的桌面应用与浏览器扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ogkalu2/comic-translate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2973 --> 2990
-    line [2974, 2976, 2979, 2980, 2985, 2986, 2987, 2989]
+    title "ogkalu2/comic-translate 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2973 --> 2992
+    line [2974, 2976, 2979, 2980, 2985, 2986, 2987, 2989, 2991]
 ```
 
-2026-10-18 2,974 → 2026-10-30 2,989（+15）
+2026-10-18 2,974 → 2026-10-31 2,991（+17）
 
 
 ---

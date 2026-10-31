@@ -1,6 +1,6 @@
 # andykr1k/OpenComputer
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/andykr1k/OpenComputer) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/andykr1k/OpenComputer) · 个人维护
 
 **本地优先的开源 computer-use 桌面操作 Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "andykr1k/OpenComputer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 16 --> 24
-    line [17, 19, 22, 23]
+    title "andykr1k/OpenComputer 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 25
+    line [17, 19, 22, 23, 24]
 ```
 
-2026-10-18 17 → 2026-10-30 23（+6）
+2026-10-18 17 → 2026-10-31 24（+7）
 
 
 ---

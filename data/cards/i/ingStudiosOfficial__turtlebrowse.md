@@ -1,6 +1,6 @@
 # ingStudiosOfficial/turtlebrowse
 
-⭐ 27 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/ingStudiosOfficial/turtlebrowse) · [官网](https://turtlebrowse.ingstudios.dev) · 组织维护
+⭐ 27 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ingStudiosOfficial/turtlebrowse) · [官网](https://turtlebrowse.ingstudios.dev) · 组织维护
 
 **JVM 桌面浏览器，内置本地 agentic AI 与隐私功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ingStudiosOfficial/turtlebrowse 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-31"]
     y-axis "stars" 23 --> 28
     line [24, 25, 27, 27]
 ```
 
-2026-10-18 24 → 2026-10-30 27（+3）
+2026-10-18 24 → 2026-10-31 27（+3）
 
 
 ---

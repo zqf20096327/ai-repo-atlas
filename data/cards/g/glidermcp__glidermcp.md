@@ -45,12 +45,12 @@ GliderMCP 是一组通过 MCP 协议接入编码 agent 的本地代码工具：G
 ```mermaid
 xychart-beta
     title "glidermcp/glidermcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

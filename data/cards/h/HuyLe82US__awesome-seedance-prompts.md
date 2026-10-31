@@ -1,6 +1,6 @@
 # HuyLe82US/awesome-seedance-prompts
 
-⭐ 69 · MIT · 推送 2026-02-26 · [GitHub](https://github.com/HuyLe82US/awesome-seedance-prompts) · 个人维护 · 中文 README
+⭐ 70 · MIT · 推送 2026-02-26 · [GitHub](https://github.com/HuyLe82US/awesome-seedance-prompts) · 个人维护 · 中文 README
 
 **Seedance 2.0 AI 视频生成提示词策展库，含效果片段与来源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HuyLe82US/awesome-seedance-prompts 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-30 69（+0）
+2026-10-18 69 → 2026-10-31 70（+1）
 
 
 ---

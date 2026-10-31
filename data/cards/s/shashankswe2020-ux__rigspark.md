@@ -1,6 +1,6 @@
 # shashankswe2020-ux/rigspark
 
-⭐ 20 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/shashankswe2020-ux/rigspark) · [官网](https://www.rigspark.si/) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shashankswe2020-ux/rigspark) · [官网](https://www.rigspark.si/) · 个人维护
 
 **硬件感知的本地 LLM 选型与运行工具：判定能否运行并管理服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shashankswe2020-ux/rigspark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Don-Uwe/video-editor-ai-agent
 
-⭐ 145 · TypeScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Don-Uwe/video-editor-ai-agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **输入素材与创意简报、由 agent 流水线自动剪辑成片的视频编辑器**
 
@@ -11,7 +11,7 @@ TypeScript monorepo 形式的 AI 视频编辑工具：CLI 为主接口，输入�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

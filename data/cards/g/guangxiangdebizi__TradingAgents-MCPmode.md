@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "guangxiangdebizi/TradingAgents-MCPmode 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
+    title "guangxiangdebizi/TradingAgents-MCPmode 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 337 --> 340
-    line [338, 339, 338, 339]
+    line [338, 339, 338, 339, 339]
 ```
 
-2026-10-18 338 → 2026-10-30 339（+1）
+2026-10-18 338 → 2026-10-31 339（+1）
 
 
 ---

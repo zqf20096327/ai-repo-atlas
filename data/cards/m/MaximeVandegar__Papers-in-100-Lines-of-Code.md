@@ -1,6 +1,6 @@
 # MaximeVandegar/Papers-in-100-Lines-of-Code
 
-⭐ 2,909 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) · 个人维护
+⭐ 2,910 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) · 个人维护
 
 **用约百行代码复现经典深度学习论文的代码合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaximeVandegar/Papers-in-100-Lines-of-Code 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 2903 --> 2910
-    line [2906, 2904, 2905, 2906, 2908, 2909]
+    title "MaximeVandegar/Papers-in-100-Lines-of-Code 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2903 --> 2911
+    line [2906, 2904, 2905, 2906, 2908, 2909, 2910]
 ```
 
-2026-10-18 2,906 → 2026-10-30 2,909（+3）
+2026-10-18 2,906 → 2026-10-31 2,910（+4）
 
 
 ---

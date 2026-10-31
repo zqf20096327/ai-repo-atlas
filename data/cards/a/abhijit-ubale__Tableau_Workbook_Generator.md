@@ -1,6 +1,6 @@
 # abhijit-ubale/Tableau_Workbook_Generator
 
-⭐ 31 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/abhijit-ubale/Tableau_Workbook_Generator) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-02-17 · [GitHub](https://github.com/abhijit-ubale/Tableau_Workbook_Generator) · 个人维护
 
 **上传数据自动生成 Tableau 工作簿的 AI 网页应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abhijit-ubale/Tableau_Workbook_Generator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 26 --> 32
+    line [31, 27]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 27（-4）
 
 
 ---

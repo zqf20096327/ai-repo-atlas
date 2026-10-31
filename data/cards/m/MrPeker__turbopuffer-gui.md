@@ -1,6 +1,6 @@
 # MrPeker/turbopuffer-gui
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MrPeker/turbopuffer-gui) · [官网](https://mrpeker.github.io/turbopuffer-gui/) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MrPeker/turbopuffer-gui) · [官网](https://mrpeker.github.io/turbopuffer-gui/) · 个人维护
 
 **Turbopuffer 向量数据库的第三方桌面 GUI 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MrPeker/turbopuffer-gui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # feiskyer/claude-code-settings
 
-⭐ 1,667 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/feiskyer/claude-code-settings) · [官网](https://feisky.xyz/claude-code-settings/) · 个人维护 · 中文 README
+⭐ 1,668 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/feiskyer/claude-code-settings) · [官网](https://feisky.xyz/claude-code-settings/) · 个人维护 · 中文 README
 
 **Claude Code 的技能、子代理与配置模板集合，开箱即用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "feiskyer/claude-code-settings 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 1660 --> 1668
-    line [1661, 1663, 1662, 1664, 1665, 1667]
+    title "feiskyer/claude-code-settings 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1660 --> 1669
+    line [1661, 1663, 1662, 1664, 1665, 1667, 1668]
 ```
 
-2026-10-18 1,661 → 2026-10-30 1,667（+6）
+2026-10-18 1,661 → 2026-10-31 1,668（+7）
 
 
 ---

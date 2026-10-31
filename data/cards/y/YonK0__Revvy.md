@@ -1,6 +1,6 @@
 # YonK0/Revvy
 
-⭐ 31 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/YonK0/Revvy) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/YonK0/Revvy) · 个人维护
 
 **VS Code 扩展：用 YAML 团队规则做结构化 AI 代码审查**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YonK0/Revvy 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 31, 32]
 ```
 
-2026-10-18 29 → 2026-10-30 31（+2）
+2026-10-18 29 → 2026-10-31 32（+3）
 
 
 ---

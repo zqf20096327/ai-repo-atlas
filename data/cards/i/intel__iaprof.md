@@ -1,6 +1,6 @@
 # intel/iaprof
 
-⭐ 261 · C++ · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/intel/iaprof) · 组织维护
+⭐ 262 · C++ · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/intel/iaprof) · 组织维护
 
 **面向 Intel Xe GPU 的性能剖析器，生成 AI 火焰图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "intel/iaprof 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 260 --> 262
-    line [261, 261]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 260 --> 263
+    line [261, 262]
 ```
 
-2026-10-18 261 → 2026-10-30 261（+0）
+2026-10-18 261 → 2026-10-31 262（+1）
 
 
 ---

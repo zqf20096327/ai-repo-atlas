@@ -1,6 +1,6 @@
 # aws-samples/sample-agentic-attack-tree-generator
 
-⭐ 81 · TypeScript · MIT-0 · 推送 2026-08-01 · [GitHub](https://github.com/aws-samples/sample-agentic-attack-tree-generator) · [官网](http://aws-samples.github.io/sample-agentic-attack-tree-generator/) · 组织维护
+⭐ 81 · TypeScript · MIT-0 · 推送 2026-10-30 · [GitHub](https://github.com/aws-samples/sample-agentic-attack-tree-generator) · [官网](http://aws-samples.github.io/sample-agentic-attack-tree-generator/) · 组织维护
 
 **基于多 Agent 的威胁建模平台：从代码库自动生成攻击树**
 
@@ -45,12 +45,12 @@ ThreatForest 是构建在 Strands agent 框架之上的威胁建模平台：指�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-agentic-attack-tree-generator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 79 --> 82
     line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-10-30 81（+1）
+2026-10-18 80 → 2026-10-31 81（+1）
 
 
 ---

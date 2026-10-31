@@ -1,6 +1,6 @@
 # fkiene/llmtrim
 
-⭐ 258 · Rust · MPL-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/fkiene/llmtrim) · [官网](https://www.npmjs.com/package/@llmtrim/cli) · 个人维护
+⭐ 261 · Rust · MPL-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/fkiene/llmtrim) · [官网](https://www.npmjs.com/package/@llmtrim/cli) · 个人维护
 
 **本地代理：压缩 LLM API 请求以降低 token 费用，回答不变**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fkiene/llmtrim 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 246 --> 259
-    line [247, 250, 254, 255, 256, 257, 258, 258]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 246 --> 262
+    line [247, 250, 254, 255, 256, 257, 258, 261]
 ```
 
-2026-10-18 247 → 2026-10-30 258（+11）
+2026-10-18 247 → 2026-10-31 261（+14）
 
 
 ---

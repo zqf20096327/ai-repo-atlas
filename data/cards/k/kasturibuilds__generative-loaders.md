@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kasturibuilds/generative-loaders 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "kasturibuilds/generative-loaders 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 210 --> 214
-    line [211, 212, 213]
+    line [211, 212, 213, 213]
 ```
 
-2026-10-18 211 → 2026-10-30 213（+2）
+2026-10-18 211 → 2026-10-31 213（+2）
 
 
 ---

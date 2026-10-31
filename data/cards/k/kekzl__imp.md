@@ -1,6 +1,6 @@
 # kekzl/imp
 
-⭐ 124 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kekzl/imp) · 个人维护
+⭐ 124 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kekzl/imp) · 个人维护
 
 **面向 NVIDIA Blackwell GPU 的专用 LLM 推理服务器**
 
@@ -45,13 +45,13 @@ C++23 编写的本地推理服务器，仅针对 Blackwell sm_120a 架构（RTX 
 
 ```mermaid
 xychart-beta
-    title "kekzl/imp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    title "kekzl/imp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 38 --> 131
-    line [45, 47, 79, 124]
+    line [45, 47, 79, 124, 124]
 ```
 
-2026-10-18 45 → 2026-10-30 124（+79）
+2026-10-18 45 → 2026-10-31 124（+79）
 
 
 ---

@@ -1,6 +1,6 @@
 # taylorwilsdon/google_workspace_mcp
 
-⭐ 3,437 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
+⭐ 3,444 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
 
 **让 AI 助手通过 MCP 操控 12 项 Google Workspace 服务的服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "taylorwilsdon/google_workspace_mcp 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3347 --> 3445
-    line [3355, 3376, 3393, 3398, 3404, 3407, 3411, 3417, 3423, 3430, 3437]
+    title "taylorwilsdon/google_workspace_mcp 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3347 --> 3452
+    line [3355, 3376, 3393, 3398, 3404, 3407, 3411, 3417, 3423, 3430, 3437, 3444]
 ```
 
-2026-10-18 3,355 → 2026-10-30 3,437（+82）
+2026-10-18 3,355 → 2026-10-31 3,444（+89）
 
 
 ---

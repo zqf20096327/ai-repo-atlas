@@ -1,6 +1,6 @@
 # Harvey-Will/workbuddy-tools
 
-⭐ 31 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Harvey-Will/workbuddy-tools) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Harvey-Will/workbuddy-tools) · 个人维护 · 中文 README
 
 **WorkBuddy 多账号本地管理工具：账号切换、数据迁移与 Token 统计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Harvey-Will/workbuddy-tools 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 21 --> 32
-    line [22, 23, 25, 27, 28, 29, 31, 31]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 21 --> 33
+    line [22, 23, 25, 27, 28, 29, 31, 32]
 ```
 
-2026-10-18 22 → 2026-10-30 31（+9）
+2026-10-18 22 → 2026-10-31 32（+10）
 
 
 ---

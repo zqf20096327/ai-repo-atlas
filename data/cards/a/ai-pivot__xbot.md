@@ -1,6 +1,6 @@
 # ai-pivot/xbot
 
-⭐ 15 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ai-pivot/xbot) · [官网](https://ai-pivot.github.io/xbot/) · 组织维护 · 中文 README
+⭐ 15 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ai-pivot/xbot) · [官网](https://ai-pivot.github.io/xbot/) · 组织维护 · 中文 README
 
 **自托管多渠道 AI Agent 服务器：浏览器/飞书/终端共用一个 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-pivot/xbot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

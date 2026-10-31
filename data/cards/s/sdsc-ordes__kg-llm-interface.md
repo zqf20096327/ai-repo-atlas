@@ -1,6 +1,6 @@
 # sdsc-ordes/kg-llm-interface
 
-⭐ 17 · Python · Apache-2.0 · 推送 2025-11-03 · [GitHub](https://github.com/sdsc-ordes/kg-llm-interface) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 RDF 知识图谱的自然语言问答接口**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # foldl/chatllm.cpp
 
-⭐ 937 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/foldl/chatllm.cpp) · 个人维护 · 中文 README
+⭐ 938 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/foldl/chatllm.cpp) · 个人维护 · 中文 README
 
 **纯 C++ 的本地 LLM 推理与实时对话框架（CPU/GPU）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "foldl/chatllm.cpp 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 931 --> 938
-    line [932, 933, 935, 937, 937]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 931 --> 939
+    line [932, 933, 935, 937, 938]
 ```
 
-2026-10-18 932 → 2026-10-30 937（+5）
+2026-10-18 932 → 2026-10-31 938（+6）
 
 
 ---

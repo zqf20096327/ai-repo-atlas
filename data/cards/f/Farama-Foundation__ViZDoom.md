@@ -1,6 +1,6 @@
 # Farama-Foundation/ViZDoom
 
-⭐ 2,104 · C++ · 推送 2026-10-29 · [GitHub](https://github.com/Farama-Foundation/ViZDoom) · [官网](https://vizdoom.farama.org/) · 组织维护
+⭐ 2,105 · C++ · 推送 2026-10-29 · [GitHub](https://github.com/Farama-Foundation/ViZDoom) · [官网](https://vizdoom.farama.org/) · 组织维护
 
 **基于 Doom 的视觉强化学习研究环境平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Farama-Foundation/ViZDoom 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2097 --> 2105
-    line [2098, 2101, 2102, 2103, 2104]
+    title "Farama-Foundation/ViZDoom 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2097 --> 2106
+    line [2098, 2101, 2102, 2103, 2104, 2105]
 ```
 
-2026-10-18 2,098 → 2026-10-30 2,104（+6）
+2026-10-18 2,098 → 2026-10-31 2,105（+7）
 
 
 ---

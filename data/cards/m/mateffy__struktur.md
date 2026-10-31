@@ -1,6 +1,6 @@
 # mateffy/struktur
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/mateffy/struktur) · [官网](https://struktur.sh) · 个人维护
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mateffy/struktur) · [官网](https://struktur.sh) · 个人维护
 
 **用 LLM 从文档抽取验证后 JSON 的 CLI/SDK 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mateffy/struktur 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tensorflow/fairness-indicators
 
-⭐ 357 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/tensorflow/fairness-indicators) · 组织维护
+⭐ 358 · Python · Apache-2.0 · 推送 2026-07-10 · [GitHub](https://github.com/tensorflow/fairness-indicators) · 组织维护
 
 **评估二分类/多分类模型公平性指标的 TensorFlow 工具包**
 
@@ -45,12 +45,12 @@ TensorFlow 生态下的模型公平性评测与可视化工具：面向二分类
 ```mermaid
 xychart-beta
     title "tensorflow/fairness-indicators 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 356 --> 358
-    line [357, 357]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 356 --> 359
+    line [357, 358]
 ```
 
-2026-10-18 357 → 2026-10-30 357（+0）
+2026-10-18 357 → 2026-10-31 358（+1）
 
 
 ---

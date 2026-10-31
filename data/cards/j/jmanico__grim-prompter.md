@@ -1,6 +1,6 @@
 # jmanico/grim-prompter
 
-⭐ 138 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
+⭐ 234 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
 
 **面向 AI 编码代理的威胁建模技能库：36 架构、29 方法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jmanico/grim-prompter 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 32 --> 147
-    line [41, 138]
+    title "jmanico/grim-prompter 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 22 --> 253
+    line [41, 138, 234]
 ```
 
-2026-10-29 41 → 2026-10-30 138（+97）
+2026-10-29 41 → 2026-10-31 234（+193）
 
 
 ---

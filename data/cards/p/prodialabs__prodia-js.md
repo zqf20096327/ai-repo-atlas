@@ -1,6 +1,6 @@
 # prodialabs/prodia-js
 
-⭐ 29 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/prodialabs/prodia-js) · [官网](https://prodia.com) · 组织维护
+⭐ 30 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/prodialabs/prodia-js) · [官网](https://prodia.com) · 组织维护
 
 **Prodia AI 图像生成 API 的官方 TypeScript SDK**
 
@@ -43,12 +43,12 @@ Prodia 官方 TypeScript 库，封装其 AI 推理 API（txt2img 等），支持
 ```mermaid
 xychart-beta
     title "prodialabs/prodia-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-18 29 → 2026-10-30 29（+0）
+2026-10-18 29 → 2026-10-31 30（+1）
 
 
 ---

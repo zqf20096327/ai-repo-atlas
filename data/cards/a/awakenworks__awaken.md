@@ -1,6 +1,6 @@
 # awakenworks/awaken
 
-⭐ 98 · Rust · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/awakenworks/awaken) · [官网](https://awakenworks.github.io/awaken/) · 组织维护 · 中文 README
+⭐ 99 · Rust · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/awakenworks/awaken) · [官网](https://awakenworks.github.io/awaken/) · 组织维护 · 中文 README
 
 **Rust 编写的 AI agent 运行时：多协议服务与在线调优**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "awakenworks/awaken 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 99]
 ```
 
-2026-10-18 97 → 2026-10-30 98（+1）
+2026-10-18 97 → 2026-10-31 99（+2）
 
 
 ---

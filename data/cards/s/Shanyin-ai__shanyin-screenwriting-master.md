@@ -1,6 +1,6 @@
 # Shanyin-ai/shanyin-screenwriting-master
 
-⭐ 1,418 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master) · 个人维护 · 中文 README
+⭐ 1,421 · MIT · 推送 2026-04-01 · [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master) · 个人维护 · 中文 README
 
 **面向 Claude 等 AI 工具的全格式影视编剧 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shanyin-ai/shanyin-screenwriting-master 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1335 --> 1425
-    line [1342, 1354, 1367, 1373, 1378, 1382, 1388, 1395, 1401, 1407, 1418]
+    title "Shanyin-ai/shanyin-screenwriting-master 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1335 --> 1428
+    line [1342, 1354, 1367, 1373, 1378, 1382, 1388, 1395, 1401, 1407, 1418, 1421]
 ```
 
-2026-10-18 1,342 → 2026-10-30 1,418（+76）
+2026-10-18 1,342 → 2026-10-31 1,421（+79）
 
 
 ---

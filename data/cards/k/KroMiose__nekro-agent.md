@@ -1,6 +1,6 @@
 # KroMiose/nekro-agent
 
-⭐ 1,161 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KroMiose/nekro-agent) · [官网](https://nekro.ai) · 个人维护 · 中文 README
+⭐ 1,163 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KroMiose/nekro-agent) · [官网](https://nekro.ai) · 个人维护 · 中文 README
 
 **多平台 AI 聊天与代理执行 Bot 框架，供群聊场景部署**
 
@@ -45,12 +45,12 @@ NekroAgent 是面向多人互动场景的 Python Agent 框架：通过提示词�
 ```mermaid
 xychart-beta
     title "KroMiose/nekro-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1147 --> 1162
-    line [1148, 1149, 1153, 1156, 1157, 1159, 1161, 1161]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1147 --> 1164
+    line [1148, 1149, 1153, 1156, 1157, 1159, 1161, 1163]
 ```
 
-2026-10-18 1,148 → 2026-10-30 1,161（+13）
+2026-10-18 1,148 → 2026-10-31 1,163（+15）
 
 
 ---

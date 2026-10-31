@@ -1,6 +1,6 @@
 # cdcailf/cjkfold
 
-⭐ 189 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cdcailf/cjkfold) · 个人维护 · 中文 README
+⭐ 190 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/cdcailf/cjkfold) · 个人维护 · 中文 README
 
 **折叠 PDF 提取中文里的形近异码字符，让文本重新可匹配**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cdcailf/cjkfold 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "cdcailf/cjkfold 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 185 --> 204
-    line [203, 186, 189]
+    line [203, 186, 189, 190]
 ```
 
-2026-10-18 203 → 2026-10-30 189（-14）
+2026-10-18 203 → 2026-10-31 190（-13）
 
 
 ---

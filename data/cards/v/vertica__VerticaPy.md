@@ -1,6 +1,6 @@
 # vertica/VerticaPy
 
-⭐ 227 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/vertica/VerticaPy) · [官网](https://www.vertica.com/python/) · 组织维护
+⭐ 227 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vertica/VerticaPy) · [官网](https://www.vertica.com/python/) · 组织维护
 
 **面向 Vertica 数据库的 scikit-learn 风格 Python 数据科学库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vertica/VerticaPy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 226 --> 228
     line [227, 227]
 ```
 
-2026-10-18 227 → 2026-10-30 227（+0）
+2026-10-18 227 → 2026-10-31 227（+0）
 
 
 ---

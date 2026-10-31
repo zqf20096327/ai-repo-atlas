@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GalaxyXieyu/Awesome-Langgraph-Learn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-18 78 → 2026-10-30 78（+0）
+2026-10-18 78 → 2026-10-31 78（+0）
 
 
 ---

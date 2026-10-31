@@ -1,6 +1,6 @@
 # mlflow/mlflow-website
 
-⭐ 22 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/mlflow/mlflow-website) · 组织维护
+⭐ 22 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/mlflow/mlflow-website) · 组织维护
 
 **MLflow 官网源码仓库：基于 Docusaurus 的文档与博客站点**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "mlflow/mlflow-website 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 22（+0）
 
 
 ---

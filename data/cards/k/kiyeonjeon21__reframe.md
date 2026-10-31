@@ -1,6 +1,6 @@
 # kiyeonjeon21/reframe
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/kiyeonjeon21/reframe) · [官网](https://docs.reframe-video.com) · 个人维护
+⭐ 25 · TypeScript · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/kiyeonjeon21/reframe) · [官网](https://docs.reframe-video.com) · 个人维护
 
 **声明式动效视频引擎：AI 写场景、人工微调可存活于再生成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kiyeonjeon21/reframe 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 25（+1）
 
 
 ---

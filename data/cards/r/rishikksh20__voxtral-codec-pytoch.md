@@ -46,12 +46,12 @@ Mistral AI Voxtral TTS 论文中 codec 组件的 PyTorch 实现：将 24 kHz 单
 ```mermaid
 xychart-beta
     title "rishikksh20/voxtral-codec-pytoch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

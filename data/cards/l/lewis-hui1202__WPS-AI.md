@@ -1,6 +1,6 @@
 # lewis-hui1202/WPS-AI
 
-⭐ 81 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lewis-hui1202/WPS-AI) · [官网](https://wps-ai.llteac.cn/) · 个人维护 · 中文 README
+⭐ 82 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lewis-hui1202/WPS-AI) · [官网](https://wps-ai.llteac.cn/) · 个人维护 · 中文 README
 
 **WPS Office 四端（文字/表格/演示/PDF）统一 AI 助手插件**
 
@@ -45,12 +45,12 @@ WPS 桌面客户端的 TaskPane 加载项：文字/表格/演示/PDF 四宿主�
 ```mermaid
 xychart-beta
     title "lewis-hui1202/WPS-AI 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 72 --> 82
-    line [73, 74, 77, 78, 79, 81, 81]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 72 --> 83
+    line [73, 74, 77, 78, 79, 81, 82]
 ```
 
-2026-10-18 73 → 2026-10-30 81（+8）
+2026-10-18 73 → 2026-10-31 82（+9）
 
 
 ---

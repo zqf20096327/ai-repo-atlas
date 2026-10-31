@@ -1,6 +1,6 @@
 # msmarkgu/RelayFreeLLM
 
-⭐ 179 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/msmarkgu/RelayFreeLLM) · [官网](https://gemlight.42web.io) · 个人维护
+⭐ 178 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/msmarkgu/RelayFreeLLM) · [官网](https://gemlight.42web.io) · 个人维护
 
 **聚合多家免费 AI 额度的 OpenAI 兼容网关，自动故障转移**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "msmarkgu/RelayFreeLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 178 --> 180
-    line [179, 179]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 177 --> 180
+    line [179, 178]
 ```
 
-2026-10-18 179 → 2026-10-30 179（+0）
+2026-10-18 179 → 2026-10-31 178（-1）
 
 
 ---

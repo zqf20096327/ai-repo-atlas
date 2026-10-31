@@ -1,6 +1,6 @@
 # QuickButlerPace65/AnythingLLM-Desktop
 
-⭐ 36 · 推送 2026-10-23 · [GitHub](https://github.com/QuickButlerPace65/AnythingLLM-Desktop) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **便携版一体化 AI 桌面应用：连接任意 LLM 与文档对话**
 

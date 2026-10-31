@@ -1,6 +1,6 @@
 # tryAGI/OpenAI
 
-⭐ 37 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/tryAGI/OpenAI) · [官网](https://tryagi.github.io/OpenAI/) · 组织维护
+⭐ 37 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tryAGI/OpenAI) · [官网](https://tryagi.github.io/OpenAI/) · 组织维护
 
 **基于官方 OpenAPI 规范生成的 OpenAI C#/.NET SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tryAGI/OpenAI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 35 --> 38
     line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-10-30 37（+1）
+2026-10-18 36 → 2026-10-31 37（+1）
 
 
 ---

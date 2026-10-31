@@ -46,12 +46,12 @@ MCP2Lambda 是一个 MCP 服务器，作为 MCP 客户端与 AWS Lambda 之间�
 ```mermaid
 xychart-beta
     title "danilop/MCP2Lambda 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-28", "2026-10-31"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-28 109 → 2026-10-30 109（+0）
+2026-10-28 109 → 2026-10-31 109（+0）
 
 
 ---

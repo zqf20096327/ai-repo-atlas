@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shukur-alom/leaf-diseases-detect 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "shukur-alom/leaf-diseases-detect 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 151 --> 154
-    line [153, 152, 153]
+    line [153, 152, 153, 153]
 ```
 
-2026-10-18 153 → 2026-10-30 153（+0）
+2026-10-18 153 → 2026-10-31 153（+0）
 
 
 ---

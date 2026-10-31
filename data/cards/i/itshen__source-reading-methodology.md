@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itshen/source-reading-methodology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "itshen/source-reading-methodology 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 138 --> 141
-    line [139, 140]
+    line [139, 140, 140]
 ```
 
-2026-10-18 139 → 2026-10-30 140（+1）
+2026-10-18 139 → 2026-10-31 140（+1）
 
 
 ---

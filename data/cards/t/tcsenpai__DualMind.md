@@ -44,13 +44,13 @@ Python 编写的命令行 AI 对话模拟器：通过 Ollama API 让两个可配
 
 ```mermaid
 xychart-beta
-    title "tcsenpai/DualMind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "tcsenpai/DualMind 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 59 --> 62
-    line [61, 60]
+    line [61, 60, 60]
 ```
 
-2026-10-18 61 → 2026-10-30 60（-1）
+2026-10-18 61 → 2026-10-31 60（-1）
 
 
 ---

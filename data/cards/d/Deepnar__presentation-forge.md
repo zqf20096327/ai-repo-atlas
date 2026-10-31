@@ -1,6 +1,6 @@
 # Deepnar/presentation-forge
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Deepnar/presentation-forge) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Deepnar/presentation-forge) · 个人维护
 
 **本地自托管的 AI 学术演示文稿与报告生成器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Deepnar/presentation-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

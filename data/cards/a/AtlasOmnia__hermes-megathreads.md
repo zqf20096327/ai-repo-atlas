@@ -1,6 +1,6 @@
 # AtlasOmnia/hermes-megathreads
 
-⭐ 61 · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/hermes-megathreads) · [官网](https://www.reddit.com/r/hermesagent/) · 组织维护
+⭐ 62 · 推送 2026-10-26 · [GitHub](https://github.com/AtlasOmnia/hermes-megathreads) · [官网](https://www.reddit.com/r/hermesagent/) · 组织维护
 
 **Hermes Agent 社区维护的 Reddit 超级帖 Markdown 参考汇编**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AtlasOmnia/hermes-megathreads 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 58 --> 62
-    line [59, 61, 61]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 58 --> 63
+    line [59, 61, 62]
 ```
 
-2026-10-28 59 → 2026-10-30 61（+2）
+2026-10-28 59 → 2026-10-31 62（+3）
 
 
 ---

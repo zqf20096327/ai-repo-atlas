@@ -1,6 +1,6 @@
 # alexc-MSFT/m365-insider
 
-⭐ 76 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/alexc-MSFT/m365-insider) · 个人维护
+⭐ 77 · MIT · 推送 2026-07-21 · [GitHub](https://github.com/alexc-MSFT/m365-insider) · 个人维护
 
 **供 Microsoft 365 Copilot 使用的路线图查询声明式 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexc-MSFT/m365-insider 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-18 76 → 2026-10-30 76（+0）
+2026-10-18 76 → 2026-10-31 77（+1）
 
 
 ---

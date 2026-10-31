@@ -47,12 +47,12 @@ Python CLI 工具，面向使用 OpenCode 的开发者：将开发流程组织�
 ```mermaid
 xychart-beta
     title "devcristianlopez/lemoria 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-26", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-26 17 → 2026-10-30 17（+0）
+2026-10-26 17 → 2026-10-31 17（+0）
 
 
 ---

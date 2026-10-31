@@ -1,6 +1,6 @@
 # ronak-create/FableCut
 
-⭐ 770 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护 · 中文 README
+⭐ 771 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护 · 中文 README
 
 **浏览器非线性视频编辑器，可由 AI agent 经 MCP/REST 驱动剪辑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ronak-create/FableCut 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 729 --> 773
-    line [732, 734, 738, 740, 744, 746, 748, 763, 767, 770]
+    title "ronak-create/FableCut 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 729 --> 774
+    line [732, 734, 738, 740, 744, 746, 748, 763, 767, 770, 771]
 ```
 
-2026-10-18 732 → 2026-10-30 770（+38）
+2026-10-18 732 → 2026-10-31 771（+39）
 
 
 ---

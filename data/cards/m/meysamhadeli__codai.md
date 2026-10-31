@@ -1,6 +1,6 @@
 # meysamhadeli/codai
 
-⭐ 373 · C# · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/meysamhadeli/codai) · 个人维护
+⭐ 373 · C# · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/meysamhadeli/codai) · 个人维护
 
 **开源终端 AI 编程 Agent：在终端里探索代码、计划并跨文件修改**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meysamhadeli/codai 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31"]
     y-axis "stars" 372 --> 375
     line [374, 373, 373]
 ```
 
-2026-10-24 374 → 2026-10-30 373（-1）
+2026-10-24 374 → 2026-10-31 373（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cohere-ai/human-feedback-paper
 
-⭐ 20 · Jupyter Notebook · 推送 2026-08-09 · [GitHub](https://github.com/cohere-ai/human-feedback-paper) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-08-09 · [GitHub](https://github.com/cohere-ai/human-feedback-paper) · 组织维护
 
 **论文《Human Feedback is not Gold Standard》代码与标注数据仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cohere-ai/human-feedback-paper 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

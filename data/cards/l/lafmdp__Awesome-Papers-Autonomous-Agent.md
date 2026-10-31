@@ -1,6 +1,6 @@
 # lafmdp/Awesome-Papers-Autonomous-Agent
 
-⭐ 759 · 推送 2026-04-23 · [GitHub](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) · 个人维护
+⭐ 758 · 推送 2026-04-23 · [GitHub](https://github.com/lafmdp/Awesome-Papers-Autonomous-Agent) · 个人维护
 
 **自主智能体（RL/LLM 两类）研究论文策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lafmdp/Awesome-Papers-Autonomous-Agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 757 --> 760
-    line [758, 759, 759]
+    line [758, 759, 758]
 ```
 
-2026-10-18 758 → 2026-10-30 759（+1）
+2026-10-18 758 → 2026-10-31 758（+0）
 
 
 ---

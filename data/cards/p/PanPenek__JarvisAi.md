@@ -1,6 +1,6 @@
 # PanPenek/JarvisAi
 
-⭐ 19 · Python · 推送 2026-03-01 · [GitHub](https://github.com/PanPenek/JarvisAi) · 个人维护
+⭐ 20 · Python · 推送 2026-03-01 · [GitHub](https://github.com/PanPenek/JarvisAi) · 个人维护
 
 **全离线的本地 AI 语音助手：唤醒词、屏幕视觉与 31 个桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PanPenek/JarvisAi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 15 --> 21
+    line [16, 17, 18, 19, 20]
 ```
 
-2026-10-18 16 → 2026-10-30 19（+3）
+2026-10-18 16 → 2026-10-31 20（+4）
 
 
 ---

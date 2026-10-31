@@ -1,6 +1,6 @@
 # mlcommons/ck
 
-⭐ 650 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mlcommons/ck) · [官网](https://cTuning.ai/project/cmeta) · 组织维护
+⭐ 650 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/mlcommons/ck) · [官网](https://cTuning.ai/project/cmeta) · 组织维护
 
 **MLCommons 维护的 ML/MLOps 自动化框架，自动化运行与基准测试**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mlcommons/ck 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 648 --> 651
     line [649, 650, 650]
 ```
 
-2026-10-18 649 → 2026-10-30 650（+1）
+2026-10-18 649 → 2026-10-31 650（+1）
 
 
 ---

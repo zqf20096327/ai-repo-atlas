@@ -1,6 +1,6 @@
 # neochoon/agenthud
 
-⭐ 18 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/neochoon/agenthud) · [官网](https://www.npmjs.com/package/agenthud) · 个人维护
+⭐ 18 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/neochoon/agenthud) · [官网](https://www.npmjs.com/package/agenthud) · 个人维护
 
 **AI 编码 agent 的 TUI 监控面板：实时查看多 agent 会话与子 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neochoon/agenthud 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 14 --> 19
     line [15, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-10-30 18（+3）
+2026-10-18 15 → 2026-10-31 18（+3）
 
 
 ---

@@ -44,13 +44,13 @@ VideoDB 官方的 Agent 工具包，将 VideoDB 的 SDK 结构、文档摘要与
 
 ```mermaid
 xychart-beta
-    title "video-db/agent-toolkit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "video-db/agent-toolkit 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 47 --> 51
-    line [48, 49, 50]
+    line [48, 49, 50, 50]
 ```
 
-2026-10-18 48 → 2026-10-30 50（+2）
+2026-10-18 48 → 2026-10-31 50（+2）
 
 
 ---

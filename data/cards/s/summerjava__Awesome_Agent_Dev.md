@@ -1,6 +1,6 @@
 # summerjava/Awesome_Agent_Dev
 
-⭐ 268 · Python · 推送 2026-05-05 · [GitHub](https://github.com/summerjava/Awesome_Agent_Dev) · 个人维护 · 中文 README
+⭐ 269 · Python · 推送 2026-05-05 · [GitHub](https://github.com/summerjava/Awesome_Agent_Dev) · 个人维护 · 中文 README
 
 **AI Agent 开发学习路线与面试准备的中文资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "summerjava/Awesome_Agent_Dev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 263 --> 269
-    line [264, 265, 266, 268, 268]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 263 --> 270
+    line [264, 265, 266, 268, 269]
 ```
 
-2026-10-18 264 → 2026-10-30 268（+4）
+2026-10-18 264 → 2026-10-31 269（+5）
 
 
 ---

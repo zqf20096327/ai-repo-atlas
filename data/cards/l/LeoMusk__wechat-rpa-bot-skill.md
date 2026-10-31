@@ -1,6 +1,6 @@
 # LeoMusk/wechat-rpa-bot-skill
 
-⭐ 103 · 推送 2026-10-27 · [GitHub](https://github.com/LeoMusk/wechat-rpa-bot-skill) · [官网](https://yobot.yokoagi.com) · 个人维护 · 中文 README
+⭐ 104 · 推送 2026-10-27 · [GitHub](https://github.com/LeoMusk/wechat-rpa-bot-skill) · [官网](https://yobot.yokoagi.com) · 个人维护 · 中文 README
 
 **给 AI 智能体用的微信 RPA 技能：本地 MCP 服务暴露微信操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoMusk/wechat-rpa-bot-skill 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 93 --> 104
-    line [94, 95, 96, 100, 101, 103]
+    title "LeoMusk/wechat-rpa-bot-skill 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 93 --> 105
+    line [94, 95, 96, 100, 101, 103, 104]
 ```
 
-2026-10-18 94 → 2026-10-30 103（+9）
+2026-10-18 94 → 2026-10-31 104（+10）
 
 
 ---

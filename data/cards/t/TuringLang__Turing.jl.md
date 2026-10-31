@@ -1,6 +1,6 @@
 # TuringLang/Turing.jl
 
-⭐ 2,262 · Julia · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TuringLang/Turing.jl) · [官网](https://turinglang.org) · 组织维护
+⭐ 2,263 · Julia · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TuringLang/Turing.jl) · [官网](https://turinglang.org) · 组织维护
 
 **Julia 概率编程包，做贝叶斯与似然推断**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TuringLang/Turing.jl 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 2259 --> 2263
-    line [2260, 2261, 2262, 2261, 2262, 2262]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 2259 --> 2264
+    line [2260, 2261, 2262, 2261, 2262, 2263]
 ```
 
-2026-10-18 2,260 → 2026-10-30 2,262（+2）
+2026-10-18 2,260 → 2026-10-31 2,263（+3）
 
 
 ---

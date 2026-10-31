@@ -43,13 +43,13 @@ OpenDataLab 维护的 MinerU 训练营课程材料合集，内容覆盖 MinerU �
 
 ```mermaid
 xychart-beta
-    title "opendatalab/mineru-tutorials 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    title "opendatalab/mineru-tutorials 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 30 --> 35
-    line [31, 32, 33, 34]
+    line [31, 32, 33, 34, 34]
 ```
 
-2026-10-18 31 → 2026-10-30 34（+3）
+2026-10-18 31 → 2026-10-31 34（+3）
 
 
 ---

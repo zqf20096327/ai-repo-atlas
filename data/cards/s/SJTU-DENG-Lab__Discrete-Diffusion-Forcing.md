@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SJTU-DENG-Lab/Discrete-Diffusion-Forcing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 262 --> 264
     line [263, 263]
 ```
 
-2026-10-18 263 → 2026-10-30 263（+0）
+2026-10-18 263 → 2026-10-31 263（+0）
 
 
 ---

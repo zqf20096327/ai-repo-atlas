@@ -44,13 +44,13 @@ lartpang 维护的数据集聚合清单，按 RGB 显著性等类别组织分割
 
 ```mermaid
 xychart-beta
-    title "lartpang/awesome-segmentation-saliency-dataset 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    title "lartpang/awesome-segmentation-saliency-dataset 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 644 --> 648
-    line [646, 647, 646, 645]
+    line [646, 647, 646, 645, 645]
 ```
 
-2026-10-18 646 → 2026-10-30 645（-1）
+2026-10-18 646 → 2026-10-31 645（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # engeldlgado/toshllm
 
-⭐ 227 · Swift · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/engeldlgado/toshllm) · [官网](https://toshllm.com) · 个人维护
+⭐ 228 · Swift · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/engeldlgado/toshllm) · [官网](https://toshllm.com) · 个人维护
 
 **在 Intel Mac/AMD GPU 上本地运行 LLM 的原生 macOS 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "engeldlgado/toshllm 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 215 --> 228
-    line [216, 218, 219, 222, 223, 225, 227, 227]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 215 --> 229
+    line [216, 218, 219, 222, 223, 225, 227, 228]
 ```
 
-2026-10-18 216 → 2026-10-30 227（+11）
+2026-10-18 216 → 2026-10-31 228（+12）
 
 
 ---

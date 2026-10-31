@@ -1,6 +1,6 @@
 # ultralytics/yolo26
 
-⭐ 151 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo26) · [官网](https://platform.ultralytics.com/ultralytics/yolo26) · 组织维护 · 中文 README
+⭐ 152 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo26) · [官网](https://platform.ultralytics.com/ultralytics/yolo26) · 组织维护 · 中文 README
 
 **Ultralytics YOLO26：多任务视觉模型，覆盖检测/分割/深度/姿态等**
 
@@ -46,12 +46,12 @@ Ultralytics YOLO26 官方发现页仓库：通过 ultralytics Python 包提供�
 ```mermaid
 xychart-beta
     title "ultralytics/yolo26 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 131 --> 152
-    line [132, 136, 146, 147, 149, 150, 151, 151]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 130 --> 154
+    line [132, 136, 146, 147, 149, 150, 151, 152]
 ```
 
-2026-10-18 132 → 2026-10-30 151（+19）
+2026-10-18 132 → 2026-10-31 152（+20）
 
 
 ---

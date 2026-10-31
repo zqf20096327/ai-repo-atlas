@@ -1,6 +1,6 @@
 # microsoft/azure-agents-control-plane
 
-⭐ 24 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/azure-agents-control-plane) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/azure-agents-control-plane) · 组织维护
 
 **微软的 AI agent 全生命周期企业治理控制平面参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/azure-agents-control-plane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # meain/yap
 
-⭐ 20 · Emacs Lisp · 推送 2026-03-11 · [GitHub](https://github.com/meain/yap) · 个人维护
+⭐ 21 · Emacs Lisp · 推送 2026-03-11 · [GitHub](https://github.com/meain/yap) · 个人维护
 
 **Emacs 包：用模板向 LLM 提问并按回复改写缓冲区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "meain/yap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

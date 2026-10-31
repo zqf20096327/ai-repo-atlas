@@ -1,6 +1,6 @@
 # hellosunghyun/Startidy
 
-⭐ 70 · TypeScript · 推送 2026-02-03 · [GitHub](https://github.com/hellosunghyun/Startidy) · 个人维护 · 中文 README
+⭐ 71 · TypeScript · 推送 2026-02-03 · [GitHub](https://github.com/hellosunghyun/Startidy) · 个人维护 · 中文 README
 
 **用 Gemini 自动把 GitHub Stars 归类到 Lists 的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hellosunghyun/Startidy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70]
+    title "hellosunghyun/Startidy 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 67 --> 72
+    line [68, 69, 70, 71]
 ```
 
-2026-10-18 68 → 2026-10-30 70（+2）
+2026-10-18 68 → 2026-10-31 71（+3）
 
 
 ---

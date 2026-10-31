@@ -1,6 +1,6 @@
 # MaoXiaoYuZ/Long-Novel-GPT
 
-⭐ 1,247 · Python · 推送 2025-11-05 · [GitHub](https://github.com/MaoXiaoYuZ/Long-Novel-GPT) · 个人维护 · 中文 README
+⭐ 1,251 · Python · 推送 2025-11-05 · [GitHub](https://github.com/MaoXiaoYuZ/Long-Novel-GPT) · 个人维护 · 中文 README
 
 **基于 LLM+RAG 的长篇小说生成器，供网文创作者使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaoXiaoYuZ/Long-Novel-GPT 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1246 --> 1250
-    line [1247, 1248, 1249, 1248, 1247, 1247]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1246 --> 1252
+    line [1247, 1248, 1249, 1248, 1247, 1251]
 ```
 
-2026-10-18 1,247 → 2026-10-30 1,247（+0）
+2026-10-18 1,247 → 2026-10-31 1,251（+4）
 
 
 ---

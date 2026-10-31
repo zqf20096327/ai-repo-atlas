@@ -1,6 +1,6 @@
 # endymecy/awesome-deeplearning-resources
 
-⭐ 3,029 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/endymecy/awesome-deeplearning-resources) · 个人维护 · 中文 README
+⭐ 3,030 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/endymecy/awesome-deeplearning-resources) · 个人维护 · 中文 README
 
 **深度学习与深度强化学习论文及资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "endymecy/awesome-deeplearning-resources 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 3028 --> 3031
-    line [3030, 3029, 3029]
+    line [3030, 3029, 3030]
 ```
 
-2026-10-18 3,030 → 2026-10-30 3,029（-1）
+2026-10-18 3,030 → 2026-10-31 3,030（+0）
 
 
 ---

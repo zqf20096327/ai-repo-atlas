@@ -1,6 +1,6 @@
 # dnotitia/akb
 
-⭐ 164 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/dnotitia/akb) · 组织维护
+⭐ 164 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/dnotitia/akb) · 组织维护
 
 **面向 AI agent 的组织知识库服务，经 MCP 读写文档/表格/文件**
 
@@ -45,13 +45,13 @@ PostgreSQL 原生的知识库服务，通过 Model Context Protocol（MCP Stream
 
 ```mermaid
 xychart-beta
-    title "dnotitia/akb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "dnotitia/akb 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 162 --> 165
-    line [163, 164]
+    line [163, 164, 164]
 ```
 
-2026-10-18 163 → 2026-10-30 164（+1）
+2026-10-18 163 → 2026-10-31 164（+1）
 
 
 ---

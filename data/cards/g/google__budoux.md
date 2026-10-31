@@ -1,6 +1,6 @@
 # google/budoux
 
-⭐ 1,809 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google/budoux) · [官网](https://google.github.io/budoux/) · 组织维护
+⭐ 1,809 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google/budoux) · [官网](https://google.github.io/budoux/) · 组织维护
 
 **CJK/泰文按语义短语的换行组织器，独立内置机器学习模型**
 
@@ -45,12 +45,12 @@ BudouX 是 Budou 的后继项目，用机器学习（AdaBoost 二分类）将句
 ```mermaid
 xychart-beta
     title "google/budoux 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1805 --> 1810
     line [1806, 1807, 1808, 1809, 1809]
 ```
 
-2026-10-18 1,806 → 2026-10-30 1,809（+3）
+2026-10-18 1,806 → 2026-10-31 1,809（+3）
 
 
 ---

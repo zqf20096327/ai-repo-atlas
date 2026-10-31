@@ -1,6 +1,6 @@
 # ctrf-io/ai-test-reporter
 
-⭐ 61 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ctrf-io/ai-test-reporter) · [官网](https://ctrf.io) · 组织维护
+⭐ 61 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ctrf-io/ai-test-reporter) · [官网](https://ctrf.io) · 组织维护
 
 **给 CI/测试开发者的 AI 测试失败摘要报告工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctrf-io/ai-test-reporter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-30 61（+0）
+2026-10-18 61 → 2026-10-31 61（+0）
 
 
 ---

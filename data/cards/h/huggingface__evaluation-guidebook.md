@@ -1,6 +1,6 @@
 # huggingface/evaluation-guidebook
 
-⭐ 2,160 · Jupyter Notebook · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/huggingface/evaluation-guidebook) · 组织维护 · 中文 README
+⭐ 2,162 · Jupyter Notebook · NOASSERTION · 推送 2025-12-03 · [GitHub](https://github.com/huggingface/evaluation-guidebook) · 组织维护 · 中文 README
 
 **LLM 评测方法指南书：面向各层次用户的评测教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/evaluation-guidebook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 2156 --> 2161
-    line [2157, 2158, 2159, 2160, 2160]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 2156 --> 2163
+    line [2157, 2158, 2159, 2160, 2162]
 ```
 
-2026-10-18 2,157 → 2026-10-30 2,160（+3）
+2026-10-18 2,157 → 2026-10-31 2,162（+5）
 
 
 ---

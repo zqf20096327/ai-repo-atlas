@@ -1,6 +1,6 @@
 # KylinMountain/TradingAgents-AShare
 
-⭐ 882 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/KylinMountain/TradingAgents-AShare) · [官网](https://app.510168.xyz) · 个人维护 · 中文 README
+⭐ 885 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/KylinMountain/TradingAgents-AShare) · [官网](https://app.510168.xyz) · 个人维护 · 中文 README
 
 **A股多智能体投研系统：14个AI Agent辩论生成结构化交易建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KylinMountain/TradingAgents-AShare 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 866 --> 883
-    line [867, 872, 875, 879, 881, 882]
+    title "KylinMountain/TradingAgents-AShare 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 866 --> 886
+    line [867, 872, 875, 879, 881, 882, 885]
 ```
 
-2026-10-18 867 → 2026-10-30 882（+15）
+2026-10-18 867 → 2026-10-31 885（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # kongusen/loom-agent
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/kongusen/loom-agent) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/kongusen/loom-agent) · 个人维护 · 中文 README
 
 **可嵌入的 Python Agent SDK：构建有状态 agent 运行时内核**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kongusen/loom-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 25（+1）
 
 
 ---

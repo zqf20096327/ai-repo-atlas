@@ -1,6 +1,6 @@
 # cloudflare/partykit
 
-⭐ 1,302 · TypeScript · ISC · 推送 2026-08-03 · [GitHub](https://github.com/cloudflare/partykit) · 组织维护
+⭐ 1,304 · TypeScript · ISC · 推送 2026-08-03 · [GitHub](https://github.com/cloudflare/partykit) · 组织维护
 
 **基于 Cloudflare Durable Objects 的实时应用构建库集合**
 
@@ -44,13 +44,13 @@ Cloudflare 维护的 PartyServer 主仓库，提供一组包：核心库 PartySe
 
 ```mermaid
 xychart-beta
-    title "cloudflare/partykit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1294 --> 1303
-    line [1295, 1296, 1299, 1300, 1301, 1302]
+    title "cloudflare/partykit 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1294 --> 1305
+    line [1295, 1296, 1299, 1300, 1301, 1302, 1304]
 ```
 
-2026-10-18 1,295 → 2026-10-30 1,302（+7）
+2026-10-18 1,295 → 2026-10-31 1,304（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Evovest/EvoTrees.jl
 
-⭐ 201 · Julia · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Evovest/EvoTrees.jl) · [官网](https://evovest.github.io/EvoTrees.jl/dev/) · 组织维护
+⭐ 201 · Julia · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Evovest/EvoTrees.jl) · [官网](https://evovest.github.io/EvoTrees.jl/dev/) · 组织维护
 
 **Julia 实现的梯度提升树库，支持 CPU/GPU 训练**
 
@@ -45,12 +45,12 @@ EvoTrees.jl 是用 Julia 编写的梯度提升树机器学习库，采用基于�
 ```mermaid
 xychart-beta
     title "Evovest/EvoTrees.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 200 --> 202
     line [201, 201]
 ```
 
-2026-10-18 201 → 2026-10-30 201（+0）
+2026-10-18 201 → 2026-10-31 201（+0）
 
 
 ---

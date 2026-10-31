@@ -1,6 +1,6 @@
 # guilyx/grip
 
-⭐ 429 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/guilyx/grip) · [官网](https://guilyx.github.io/grip/) · 个人维护
+⭐ 437 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/guilyx/grip) · [官网](https://guilyx.github.io/grip/) · 个人维护
 
 **推送前拷问开发者的 git hook：用模型就 diff 出题并打分**
 
@@ -44,13 +44,13 @@ grip 是一个 git pre-push 钩子工具：读取本次变更的 diff，生成�
 
 ```mermaid
 xychart-beta
-    title "guilyx/grip 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 0 --> 470
-    line [11, 10, 205, 216, 429]
+    title "guilyx/grip 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 479
+    line [11, 10, 205, 216, 429, 437]
 ```
 
-2026-10-22 11 → 2026-10-30 429（+418）
+2026-10-22 11 → 2026-10-31 437（+426）
 
 
 ---

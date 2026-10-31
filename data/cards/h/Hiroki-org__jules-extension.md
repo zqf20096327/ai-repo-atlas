@@ -45,12 +45,12 @@ VSCode 扩展，通过 Jules API 连接 Google 的 AI 编程代理 Jules：设�
 ```mermaid
 xychart-beta
     title "Hiroki-org/jules-extension 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 21（+1）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

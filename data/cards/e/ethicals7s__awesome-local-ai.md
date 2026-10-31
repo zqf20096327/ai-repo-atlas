@@ -1,6 +1,6 @@
 # ethicals7s/awesome-local-ai
 
-⭐ 115 · CC0-1.0 · 推送 2025-11-30 · [GitHub](https://github.com/ethicals7s/awesome-local-ai) · 个人维护
+⭐ 116 · CC0-1.0 · 推送 2025-11-30 · [GitHub](https://github.com/ethicals7s/awesome-local-ai) · 个人维护
 
 **本地运行 LLM 的开源工具策展清单（152 个工具，7 类）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ethicals7s/awesome-local-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 114 --> 116
-    line [115, 115]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 114 --> 117
+    line [115, 116]
 ```
 
-2026-10-18 115 → 2026-10-30 115（+0）
+2026-10-18 115 → 2026-10-31 116（+1）
 
 
 ---

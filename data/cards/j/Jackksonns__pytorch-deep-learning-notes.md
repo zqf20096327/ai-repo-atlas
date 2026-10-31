@@ -1,6 +1,6 @@
 # Jackksonns/pytorch-deep-learning-notes
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Jackksonns/pytorch-deep-learning-notes) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Jackksonns/pytorch-deep-learning-notes) · 个人维护 · 中文 README
 
 **面向新手的 PyTorch 深度学习学习笔记与可运行代码集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Jackksonns/pytorch-deep-learning-notes 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

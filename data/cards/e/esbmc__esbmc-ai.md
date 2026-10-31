@@ -1,6 +1,6 @@
 # esbmc/esbmc-ai
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/esbmc/esbmc-ai) · [官网](https://byterepair.io/products/entoli) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向自动程序修复研究的 LLM 集成工作流平台**
 
@@ -11,7 +11,7 @@ ESBMC-AI 是围绕有界模型检测器 ESBMC 构建的 LLM 集成工作流平�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

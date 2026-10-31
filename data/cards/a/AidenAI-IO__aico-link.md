@@ -1,6 +1,6 @@
 # AidenAI-IO/aico-link
 
-⭐ 68 · C · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/AidenAI-IO/aico-link) · [官网](https://aico.link/) · 组织维护
+⭐ 68 · C · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/AidenAI-IO/aico-link) · [官网](https://aico.link/) · 组织维护
 
 **让 AI Agent 通过 HDMI 采集与 USB HID 操控手机/电脑的开发板固件**
 
@@ -45,13 +45,13 @@ Aico Link 是一块自组装开发板（Luckfox Pico Zero + RK628D HDMI-CSI 桥 
 
 ```mermaid
 xychart-beta
-    title "AidenAI-IO/aico-link 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "AidenAI-IO/aico-link 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 65 --> 70
-    line [66, 67, 69, 68]
+    line [66, 67, 69, 68, 68]
 ```
 
-2026-10-26 66 → 2026-10-30 68（+2）
+2026-10-26 66 → 2026-10-31 68（+2）
 
 
 ---

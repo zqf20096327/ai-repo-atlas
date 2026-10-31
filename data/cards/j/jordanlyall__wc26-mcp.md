@@ -1,6 +1,6 @@
 # jordanlyall/wc26-mcp
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jordanlyall/wc26-mcp) · [官网](https://wc26.ai) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jordanlyall/wc26-mcp) · [官网](https://wc26.ai) · 个人维护
 
 **2026 世界杯数据的 MCP 服务器：18 个查询工具供 AI 客户端调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jordanlyall/wc26-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-30 34（+0）
+2026-10-18 34 → 2026-10-31 34（+0）
 
 
 ---

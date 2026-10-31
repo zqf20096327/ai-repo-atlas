@@ -1,6 +1,6 @@
 # Secure-Vector/securevector-ai-threat-monitor
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Secure-Vector/securevector-ai-threat-monitor) · [官网](https://securevector.io) · 组织维护
+⭐ 15 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Secure-Vector/securevector-ai-threat-monitor) · [官网](https://securevector.io) · 组织维护
 
 **AI Agent 安全与可观测平台：审计每次工具调用并执行允许/阻断策略**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Secure-Vector/securevector-ai-threat-monitor 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

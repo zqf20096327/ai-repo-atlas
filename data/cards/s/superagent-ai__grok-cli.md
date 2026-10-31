@@ -1,6 +1,6 @@
 # superagent-ai/grok-cli
 
-⭐ 3,502 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/superagent-ai/grok-cli) · 组织维护
+⭐ 3,503 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/superagent-ai/grok-cli) · 组织维护
 
 **面向开发者的终端 AI 编程代理，接入 xAI Grok API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "superagent-ai/grok-cli 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 3495 --> 3503
-    line [3496, 3497, 3498, 3499, 3502, 3502]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 3495 --> 3504
+    line [3496, 3497, 3498, 3499, 3502, 3503]
 ```
 
-2026-10-18 3,496 → 2026-10-30 3,502（+6）
+2026-10-18 3,496 → 2026-10-31 3,503（+7）
 
 
 ---

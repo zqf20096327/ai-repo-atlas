@@ -1,6 +1,6 @@
 # edouard-claude/snip
 
-⭐ 472 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/edouard-claude/snip) · [官网](https://edouard-claude.github.io/snip/) · 个人维护
+⭐ 473 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/edouard-claude/snip) · [官网](https://edouard-claude.github.io/snip/) · 个人维护
 
 **过滤 shell 输出以减少 AI 编码助手 token 消耗的 CLI 代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edouard-claude/snip 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 466 --> 473
-    line [467, 469, 470, 472, 472]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 466 --> 474
+    line [467, 469, 470, 472, 473]
 ```
 
-2026-10-18 467 → 2026-10-30 472（+5）
+2026-10-18 467 → 2026-10-31 473（+6）
 
 
 ---

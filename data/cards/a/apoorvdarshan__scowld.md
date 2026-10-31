@@ -1,6 +1,6 @@
 # apoorvdarshan/scowld
 
-⭐ 31 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apoorvdarshan/scowld) · [官网](https://apps.apple.com/in/app/scowld-ai-voice-companion/id6760672848) · 个人维护
+⭐ 32 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/apoorvdarshan/scowld) · [官网](https://apps.apple.com/in/app/scowld-ai-voice-companion/id6760672848) · 个人维护
 
 **iOS 语音 AI 伴侣应用：VRM 虚拟角色实时对话**
 
@@ -45,12 +45,12 @@ SwiftUI 编写的 iOS 应用，提供带 VRM 动画角色的实时语音对话�
 ```mermaid
 xychart-beta
     title "apoorvdarshan/scowld 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 27 --> 32
-    line [29, 28, 29, 30, 31, 31]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 27 --> 33
+    line [29, 28, 29, 30, 31, 32]
 ```
 
-2026-10-18 29 → 2026-10-30 31（+2）
+2026-10-18 29 → 2026-10-31 32（+3）
 
 
 ---

@@ -43,12 +43,12 @@ PyTorch 实现论文《Unsupervised Visual Representation Learning by Context Pr
 ```mermaid
 xychart-beta
     title "abhisheksambyal/Self-supervised-learning-by-context-prediction 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-29 24 → 2026-10-30 24（+0）
+2026-10-29 24 → 2026-10-31 24（+0）
 
 
 ---

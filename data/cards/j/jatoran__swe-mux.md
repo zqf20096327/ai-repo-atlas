@@ -1,6 +1,6 @@
 # jatoran/swe-mux
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/jatoran/swe-mux) · [官网](https://swemux.dev) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/jatoran/swe-mux) · [官网](https://swemux.dev) · 个人维护
 
 **终端多路复用器与编码 agent 控制台，手机经 Tailscale 远程操控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jatoran/swe-mux 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 9 --> 25
-    line [10, 12, 13, 14, 24]
+    title "jatoran/swe-mux 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9 --> 29
+    line [10, 12, 13, 14, 24, 28]
 ```
 
-2026-10-18 10 → 2026-10-30 24（+14）
+2026-10-18 10 → 2026-10-31 28（+18）
 
 
 ---

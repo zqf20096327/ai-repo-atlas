@@ -1,6 +1,6 @@
 # savvina-ai/savvina
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/savvina-ai/savvina) · 组织维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/savvina-ai/savvina) · 组织维护
 
 **自托管自然语言查数据库工具：英文提问生成 SQL 与结果**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "savvina-ai/savvina 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cyptnpassira/PromptLedger
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/cyptnpassira/PromptLedger) · [官网](https://rustdesk.com) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/cyptnpassira/PromptLedger) · [官网](https://rustdesk.com) · 个人维护
 
 **提示词版本管理与确定性评测工具：模板指纹、快照对比、报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyptnpassira/PromptLedger 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 23 --> 30
-    line [29, 24, 24]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 21 --> 30
+    line [29, 24, 22]
 ```
 
-2026-10-18 29 → 2026-10-30 24（-5）
+2026-10-18 29 → 2026-10-31 22（-7）
 
 
 ---

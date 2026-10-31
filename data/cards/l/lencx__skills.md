@@ -1,6 +1,6 @@
 # lencx/skills
 
-⭐ 196 · Shell · MIT · 推送 2026-08-21 · [GitHub](https://github.com/lencx/skills) · [官网](https://skills.lencx.me) · 个人维护 · 中文 README
+⭐ 197 · Shell · MIT · 推送 2026-08-21 · [GitHub](https://github.com/lencx/skills) · [官网](https://skills.lencx.me) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的个人技能库：架构治理与编码协议**
 
@@ -46,12 +46,12 @@ lencx 维护的 agent 技能集合，含两个技能：keel（系统的承重架
 ```mermaid
 xychart-beta
     title "lencx/skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 195 --> 197
-    line [196, 196]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 195 --> 198
+    line [196, 197]
 ```
 
-2026-10-18 196 → 2026-10-30 196（+0）
+2026-10-18 196 → 2026-10-31 197（+1）
 
 
 ---

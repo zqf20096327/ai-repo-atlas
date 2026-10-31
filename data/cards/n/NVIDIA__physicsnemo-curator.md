@@ -45,13 +45,13 @@ NVIDIA 维护的 Python ETL 工具包，用于在 CAE、气象/气候、分子�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/physicsnemo-curator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "NVIDIA/physicsnemo-curator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 64 --> 68
-    line [65, 66, 67]
+    line [65, 66, 67, 67]
 ```
 
-2026-10-18 65 → 2026-10-30 67（+2）
+2026-10-18 65 → 2026-10-31 67（+2）
 
 
 ---

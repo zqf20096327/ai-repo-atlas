@@ -1,6 +1,6 @@
 # hcmlab/nova
 
-⭐ 195 · C# · GPL-3.0 · 推送 2026-03-18 · [GitHub](https://github.com/hcmlab/nova) · [官网](http://openssi.net/) · 组织维护
+⭐ 196 · C# · GPL-3.0 · 推送 2026-03-18 · [GitHub](https://github.com/hcmlab/nova) · [官网](http://openssi.net/) · 组织维护
 
 **社交互动行为标注与分析工具：标注过程中提供机器学习辅助**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hcmlab/nova 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 194 --> 196
-    line [195, 195]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 194 --> 197
+    line [195, 196]
 ```
 
-2026-10-18 195 → 2026-10-30 195（+0）
+2026-10-18 195 → 2026-10-31 196（+1）
 
 
 ---

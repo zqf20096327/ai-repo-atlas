@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BiomedSciAI/causallib 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "BiomedSciAI/causallib 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 833 --> 836
-    line [834, 835]
+    line [834, 835, 835]
 ```
 
-2026-10-18 834 → 2026-10-30 835（+1）
+2026-10-18 834 → 2026-10-31 835（+1）
 
 
 ---

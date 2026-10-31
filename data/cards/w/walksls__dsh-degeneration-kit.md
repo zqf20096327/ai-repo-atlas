@@ -1,6 +1,6 @@
 # walksls/dsh-degeneration-kit
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/walksls/dsh-degeneration-kit) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/walksls/dsh-degeneration-kit) · 个人维护 · 中文 README
 
 **DSH 插件套件：折叠退化思考块并按水位自动压缩上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "walksls/dsh-degeneration-kit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 7 --> 17
-    line [8, 9, 11, 12, 13, 14, 16, 16]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 7 --> 18
+    line [8, 9, 11, 12, 13, 14, 16, 17]
 ```
 
-2026-10-18 8 → 2026-10-30 16（+8）
+2026-10-18 8 → 2026-10-31 17（+9）
 
 
 ---

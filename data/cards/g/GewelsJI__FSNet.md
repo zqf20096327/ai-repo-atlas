@@ -45,12 +45,12 @@ FSNet（Full-duplex Strategy Network）的官方实现仓库，发表于 ICCV 20
 ```mermaid
 xychart-beta
     title "GewelsJI/FSNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-30 68（+0）
+2026-10-18 68 → 2026-10-31 68（+0）
 
 
 ---

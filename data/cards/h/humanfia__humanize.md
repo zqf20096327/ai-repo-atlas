@@ -1,6 +1,6 @@
 # humanfia/humanize
 
-⭐ 368 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://docs.humanfia.ai/humanize/) · 组织维护
+⭐ 372 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://docs.humanfia.ai/humanize/) · 组织维护
 
 **让多 CLI 编码 agent 按流程编排运行的系统**
 
@@ -44,13 +44,13 @@ Python 实现的 agent flow 系统：用户在终端（hmz）、浏览器（hmz 
 
 ```mermaid
 xychart-beta
-    title "humanfia/humanize 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 312 --> 373
-    line [317, 324, 340, 345, 347, 349, 354, 359, 362, 368]
+    title "humanfia/humanize 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 312 --> 377
+    line [317, 324, 340, 345, 347, 349, 354, 359, 362, 368, 372]
 ```
 
-2026-10-18 317 → 2026-10-30 368（+51）
+2026-10-18 317 → 2026-10-31 372（+55）
 
 
 ---

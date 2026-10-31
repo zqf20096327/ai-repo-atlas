@@ -45,12 +45,12 @@ Quarkus 生态的 Dev Mode 专用扩展：为开发者提供 AI 辅助，包括�
 ```mermaid
 xychart-beta
     title "quarkiverse/quarkus-chappie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

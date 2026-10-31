@@ -1,6 +1,6 @@
 # tanviet12/chat-quality-agent
 
-⭐ 311 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/tanviet12/chat-quality-agent) · [官网](https://tanviet12.github.io/chat-quality-agent/) · 个人维护
+⭐ 313 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/tanviet12/chat-quality-agent) · [官网](https://tanviet12.github.io/chat-quality-agent/) · 个人维护
 
 **用 AI 评估客服聊天质量的系统：同步 Zalo/FB 消息并打分告警**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tanviet12/chat-quality-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 309 --> 312
-    line [310, 311, 311]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 309 --> 314
+    line [310, 311, 313]
 ```
 
-2026-10-18 310 → 2026-10-30 311（+1）
+2026-10-18 310 → 2026-10-31 313（+3）
 
 
 ---

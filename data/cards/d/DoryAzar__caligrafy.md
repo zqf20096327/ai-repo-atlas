@@ -43,12 +43,12 @@ Caligrafy 是一个 PHP MVC Web 应用框架，按 Model/View/Controller 组织�
 ```mermaid
 xychart-beta
     title "DoryAzar/caligrafy 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-26", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-26 15 → 2026-10-30 15（+0）
+2026-10-26 15 → 2026-10-31 15（+0）
 
 
 ---

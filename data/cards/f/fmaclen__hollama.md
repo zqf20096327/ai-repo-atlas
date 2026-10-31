@@ -1,6 +1,6 @@
 # fmaclen/hollama
 
-⭐ 1,191 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/fmaclen/hollama) · [官网](https://hollama.fernando.is) · 个人维护
+⭐ 1,191 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/fmaclen/hollama) · [官网](https://hollama.fernando.is) · 个人维护
 
 **浏览器内运行的极简 LLM 聊天客户端，连接 Ollama/OpenAI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fmaclen/hollama 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "fmaclen/hollama 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1188 --> 1193
-    line [1191, 1189, 1190, 1192, 1191]
+    line [1191, 1189, 1190, 1192, 1191, 1191]
 ```
 
-2026-10-18 1,191 → 2026-10-30 1,191（+0）
+2026-10-18 1,191 → 2026-10-31 1,191（+0）
 
 
 ---

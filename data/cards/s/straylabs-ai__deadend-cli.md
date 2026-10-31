@@ -1,6 +1,6 @@
 # straylabs-ai/deadend-cli
 
-⭐ 319 · Python · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/straylabs-ai/deadend-cli) · 组织维护
+⭐ 320 · Python · AGPL-3.0 · 推送 2026-08-07 · [GitHub](https://github.com/straylabs-ai/deadend-cli) · 组织维护
 
 **自主 Web 渗透测试 agent：反馈驱动迭代生成漏洞利用 payload**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "straylabs-ai/deadend-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 315 --> 321
-    line [316, 318, 320, 319, 319]
+    line [316, 318, 320, 319, 320]
 ```
 
-2026-10-18 316 → 2026-10-30 319（+3）
+2026-10-18 316 → 2026-10-31 320（+4）
 
 
 ---

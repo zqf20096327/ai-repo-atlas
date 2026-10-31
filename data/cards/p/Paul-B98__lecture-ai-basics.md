@@ -1,6 +1,6 @@
 # Paul-B98/lecture-ai-basics
 
-⭐ 16 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/Paul-B98/lecture-ai-basics) · 个人维护
+⭐ 16 · Jupyter Notebook · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/Paul-B98/lecture-ai-basics) · 个人维护
 
 **AI 入门课程的讲义与实践内容仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Paul-B98/lecture-ai-basics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

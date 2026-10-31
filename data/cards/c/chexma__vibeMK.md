@@ -1,6 +1,6 @@
 # chexma/vibeMK
 
-⭐ 20 · Python · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/chexma/vibeMK) · 个人维护
+⭐ 21 · Python · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/chexma/vibeMK) · 个人维护
 
 **通过 LLM 自然语言管理 CheckMK 监控环境的 MCP 服务器**
 
@@ -46,12 +46,12 @@ Python 实现的 MCP 服务器，将 CheckMK 2.3+ 的监控操作暴露给 LLM �
 ```mermaid
 xychart-beta
     title "chexma/vibeMK 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 20, 21]
 ```
 
-2026-10-18 18 → 2026-10-30 20（+2）
+2026-10-18 18 → 2026-10-31 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aws/deep-learning-containers
 
-⭐ 1,200 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
+⭐ 1,200 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
 
 **AWS 的深度学习预构建 Docker 镜像集合，用于运行 AI/ML 工作负载**
 
@@ -45,12 +45,12 @@ AWS 维护的预构建 Docker 镜像仓库，覆盖 PyTorch、TensorFlow、vLLM�
 ```mermaid
 xychart-beta
     title "aws/deep-learning-containers 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 1195 --> 1201
     line [1196, 1198, 1199, 1200, 1200]
 ```
 
-2026-10-18 1,196 → 2026-10-30 1,200（+4）
+2026-10-18 1,196 → 2026-10-31 1,200（+4）
 
 
 ---

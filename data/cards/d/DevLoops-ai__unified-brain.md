@@ -44,13 +44,13 @@ unified-brain 是一个接入各类编码 agent（Cursor、Claude Code、OpenCod
 
 ```mermaid
 xychart-beta
-    title "DevLoops-ai/unified-brain 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "DevLoops-ai/unified-brain 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 8 --> 20
-    line [9, 10, 15, 19]
+    line [9, 10, 15, 19, 19]
 ```
 
-2026-10-26 9 → 2026-10-30 19（+10）
+2026-10-26 9 → 2026-10-31 19（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # vector-index-bench/vibe
 
-⭐ 79 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/vector-index-bench/vibe) · [官网](https://vector-index-bench.github.io) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/vector-index-bench/vibe) · [官网](https://vector-index-bench.github.io) · 组织维护
 
 **向量索引（ANN 检索）算法的可扩展基准测试框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vector-index-bench/vibe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 77 --> 81
+    line [78, 79, 80]
 ```
 
-2026-10-18 78 → 2026-10-30 79（+1）
+2026-10-18 78 → 2026-10-31 80（+2）
 
 
 ---

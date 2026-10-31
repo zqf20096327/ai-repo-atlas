@@ -1,6 +1,6 @@
 # xcisxc29/dsh-qq-plugin
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-qq-plugin) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/xcisxc29/dsh-qq-plugin) · 个人维护 · 中文 README
 
 **在 QQ 中远程驱动本机 DeepSeek Harness agent 的插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xcisxc29/dsh-qq-plugin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 14 --> 45
-    line [16, 29, 34, 37, 38, 40, 43]
+    title "xcisxc29/dsh-qq-plugin 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 14 --> 46
+    line [16, 29, 34, 37, 38, 40, 43, 44]
 ```
 
-2026-10-18 16 → 2026-10-30 43（+27）
+2026-10-18 16 → 2026-10-31 44（+28）
 
 
 ---

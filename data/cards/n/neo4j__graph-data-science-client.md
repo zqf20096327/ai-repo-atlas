@@ -1,6 +1,6 @@
 # neo4j/graph-data-science-client
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/neo4j/graph-data-science-client) · [官网](https://neo4j.com/product/graph-data-science/) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/neo4j/graph-data-science-client) · [官网](https://neo4j.com/product/graph-data-science/) · 组织维护
 
 **Neo4j 图数据科学库的 Python 客户端：Python 代码操作图算法**
 
@@ -45,12 +45,12 @@ Neo4j 官方提供的 graphdatascience Python 客户端，让用户以纯 Python
 ```mermaid
 xychart-beta
     title "neo4j/graph-data-science-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 247 --> 249
     line [248, 248]
 ```
 
-2026-10-18 248 → 2026-10-30 248（+0）
+2026-10-18 248 → 2026-10-31 248（+0）
 
 
 ---

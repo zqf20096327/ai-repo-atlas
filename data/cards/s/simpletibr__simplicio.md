@@ -1,6 +1,6 @@
 # simpletibr/simplicio
 
-⭐ 29 · Python · 推送 2026-10-28 · [GitHub](https://github.com/simpletibr/simplicio) · [官网](https://simpleti.com.br/simplicio) · 组织维护 · 中文 README
+⭐ 29 · Python · 推送 2026-10-30 · [GitHub](https://github.com/simpletibr/simplicio) · [官网](https://simpleti.com.br/simplicio) · 组织维护 · 中文 README
 
 **Rust 单二进制 AI 编程 agent：本地映射/原子编辑/多 agent 编排**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "simpletibr/simplicio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-30 29（+0）
+2026-10-18 29 → 2026-10-31 29（+0）
 
 
 ---

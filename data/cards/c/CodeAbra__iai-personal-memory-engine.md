@@ -1,6 +1,6 @@
 # CodeAbra/iai-personal-memory-engine
 
-⭐ 916 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CodeAbra/iai-personal-memory-engine) · 个人维护 · 中文 README
+⭐ 917 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CodeAbra/iai-personal-memory-engine) · 个人维护 · 中文 README
 
 **给 AI 编程助手装本地长期记忆的 MCP 服务器**
 
@@ -45,12 +45,12 @@ iai-memory 是运行在本地、通过 MCP 协议服务的个人记忆引擎：�
 ```mermaid
 xychart-beta
     title "CodeAbra/iai-personal-memory-engine 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 910 --> 917
-    line [911, 912, 911, 912, 914, 915, 916, 916]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 910 --> 918
+    line [911, 912, 911, 912, 914, 915, 916, 917]
 ```
 
-2026-10-18 911 → 2026-10-30 916（+5）
+2026-10-18 911 → 2026-10-31 917（+6）
 
 
 ---

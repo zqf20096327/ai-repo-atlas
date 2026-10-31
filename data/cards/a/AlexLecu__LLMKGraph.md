@@ -1,6 +1,6 @@
 # AlexLecu/LLMKGraph
 
-⭐ 37 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AlexLecu/LLMKGraph) · [官网](https://llmkgraph.utcluj.ro) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AlexLecu/LLMKGraph) · [官网](https://llmkgraph.utcluj.ro) · 个人维护
 
 **AMD 医学文献知识图谱构建与 Graph-RAG 问答系统（论文官方代码）**
 
@@ -46,12 +46,12 @@ IEEE Access 2025 论文的官方实现：用 LLM（GPT-3.5/GPT-4o-mini/Mistral/D
 ```mermaid
 xychart-beta
     title "AlexLecu/LLMKGraph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-30 37（+0）
+2026-10-18 37 → 2026-10-31 37（+0）
 
 
 ---

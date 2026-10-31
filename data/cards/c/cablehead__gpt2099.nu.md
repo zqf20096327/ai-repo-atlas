@@ -1,6 +1,6 @@
 # cablehead/gpt2099.nu
 
-⭐ 26 · Nushell · 推送 2026-03-17 · [GitHub](https://github.com/cablehead/gpt2099.nu) · [官网](https://cablehead.github.io/gpt2099.nu) · 个人维护
+⭐ 27 · Nushell · 推送 2026-03-17 · [GitHub](https://github.com/cablehead/gpt2099.nu) · [官网](https://cablehead.github.io/gpt2099.nu) · 个人维护
 
 **Nushell 终端中可脚本化的 LLM 与 MCP 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cablehead/gpt2099.nu 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 27（+1）
 
 
 ---

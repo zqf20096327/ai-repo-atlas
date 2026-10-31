@@ -1,6 +1,6 @@
 # aahl/skills
 
-⭐ 164 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/aahl/skills) · [官网](https://skills.sh/aahl/skills) · 个人维护 · 中文 README
+⭐ 165 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/aahl/skills) · [官网](https://skills.sh/aahl/skills) · 个人维护 · 中文 README
 
 **个人智能体技能集合：智能家居、TTS、搜索、飞书等工具技能**
 
@@ -45,12 +45,12 @@ AAHL 维护的 agent 技能仓库，收录十余个 SKILL 类技能：通过 MCP
 ```mermaid
 xychart-beta
     title "aahl/skills 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 162 --> 165
-    line [163, 164, 164]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 162 --> 166
+    line [163, 164, 165]
 ```
 
-2026-10-18 163 → 2026-10-30 164（+1）
+2026-10-18 163 → 2026-10-31 165（+2）
 
 
 ---

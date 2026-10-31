@@ -1,6 +1,6 @@
 # PaddlePaddle/PARL
 
-⭐ 3,458 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/PaddlePaddle/PARL) · [官网](https://parl.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 3,457 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/PaddlePaddle/PARL) · [官网](https://parl.readthedocs.io/) · 组织维护 · 中文 README
 
 **分布式强化学习训练框架：并行化与算法复用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PARL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 3457 --> 3460
-    line [3459, 3458, 3458]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 3456 --> 3460
+    line [3459, 3458, 3457]
 ```
 
-2026-10-18 3,459 → 2026-10-30 3,458（-1）
+2026-10-18 3,459 → 2026-10-31 3,457（-2）
 
 
 ---

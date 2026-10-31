@@ -1,6 +1,6 @@
 # sleepinginsummer/agent-ssh-cli
 
-⭐ 86 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/sleepinginsummer/agent-ssh-cli) · [官网](https://www.npmjs.com/package/agent-ssh-cli) · 个人维护 · 中文 README
+⭐ 86 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sleepinginsummer/agent-ssh-cli) · [官网](https://www.npmjs.com/package/agent-ssh-cli) · 个人维护 · 中文 README
 
 **给 Agent 调用的 SSH 命令行工具：远程执行与文件传输**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sleepinginsummer/agent-ssh-cli 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-28", "2026-10-31"]
     y-axis "stars" 84 --> 87
     line [85, 86, 86]
 ```
 
-2026-10-19 85 → 2026-10-30 86（+1）
+2026-10-19 85 → 2026-10-31 86（+1）
 
 
 ---

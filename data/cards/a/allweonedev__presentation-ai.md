@@ -1,6 +1,6 @@
 # allweonedev/presentation-ai
 
-⭐ 3,067 · TypeScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/allweonedev/presentation-ai) · [官网](https://presentation.allweone.com) · 组织维护
+⭐ 3,068 · TypeScript · MIT · 推送 2026-06-05 · [GitHub](https://github.com/allweonedev/presentation-ai) · [官网](https://presentation.allweone.com) · 组织维护
 
 **开源自托管 AI 演示文稿生成器，Gamma 替代**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "allweonedev/presentation-ai 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3042 --> 3069
-    line [3044, 3050, 3055, 3057, 3059, 3061, 3063, 3065, 3067, 3067]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 3042 --> 3070
+    line [3044, 3050, 3055, 3057, 3059, 3061, 3063, 3065, 3067, 3068]
 ```
 
-2026-10-18 3,044 → 2026-10-30 3,067（+23）
+2026-10-18 3,044 → 2026-10-31 3,068（+24）
 
 
 ---

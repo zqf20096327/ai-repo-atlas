@@ -1,6 +1,6 @@
 # HelloRuru/claude-memory-engine
 
-⭐ 133 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/HelloRuru/claude-memory-engine) · 个人维护 · 中文 README
+⭐ 134 · JavaScript · MIT · 推送 2026-05-11 · [GitHub](https://github.com/HelloRuru/claude-memory-engine) · 个人维护 · 中文 README
 
 **Claude Code 的长期记忆与学习系统（hooks + markdown，零依赖）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HelloRuru/claude-memory-engine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 132 --> 135
-    line [134, 133, 133]
+    line [134, 133, 134]
 ```
 
-2026-10-18 134 → 2026-10-30 133（-1）
+2026-10-18 134 → 2026-10-31 134（+0）
 
 
 ---

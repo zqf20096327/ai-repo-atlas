@@ -1,6 +1,6 @@
 # GrayboxTech/weightslab
 
-⭐ 175 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/GrayboxTech/weightslab) · [官网](https://www.graybx.com) · 组织维护
+⭐ 176 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/GrayboxTech/weightslab) · [官网](https://www.graybx.com) · 组织维护
 
 **面向 ML 团队的训练监控与数据治理平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GrayboxTech/weightslab 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 167 --> 176
-    line [168, 169, 170, 175]
+    title "GrayboxTech/weightslab 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 167 --> 177
+    line [168, 169, 170, 175, 176]
 ```
 
-2026-10-18 168 → 2026-10-30 175（+7）
+2026-10-18 168 → 2026-10-31 176（+8）
 
 
 ---

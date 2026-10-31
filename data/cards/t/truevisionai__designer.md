@@ -1,6 +1,6 @@
 # truevisionai/designer
 
-⭐ 148 · TypeScript · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/truevisionai/designer) · [官网](https://www.truevision.ai/designer) · 组织维护
+⭐ 149 · TypeScript · NOASSERTION · 推送 2026-02-02 · [GitHub](https://github.com/truevisionai/designer) · [官网](https://www.truevision.ai/designer) · 组织维护
 
 **设计道路与环境场景的 3D 工具，用于自动驾驶测试验证**
 
@@ -45,12 +45,12 @@ Truevision Designer 是面向自动驾驶车辆与机器人测试验证的 3D �
 ```mermaid
 xychart-beta
     title "truevisionai/designer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 147 --> 149
-    line [148, 148]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 147 --> 150
+    line [148, 149]
 ```
 
-2026-10-18 148 → 2026-10-30 148（+0）
+2026-10-18 148 → 2026-10-31 149（+1）
 
 
 ---

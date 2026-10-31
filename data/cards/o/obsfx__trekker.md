@@ -1,6 +1,6 @@
 # obsfx/trekker
 
-⭐ 84 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/obsfx/trekker) · [官网](https://omercan.io/trekker) · 个人维护
+⭐ 84 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/obsfx/trekker) · [官网](https://omercan.io/trekker) · 个人维护
 
 **面向 AI 编程代理的本地 CLI 任务跟踪器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "obsfx/trekker 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-10-30 84（+1）
+2026-10-18 83 → 2026-10-31 84（+1）
 
 
 ---

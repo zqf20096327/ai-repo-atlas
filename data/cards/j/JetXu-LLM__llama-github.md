@@ -45,12 +45,12 @@ Python 库，供 LLM Chatbot、AI Agent 和 Auto-dev 方案从 GitHub 公开项�
 ```mermaid
 xychart-beta
     title "JetXu-LLM/llama-github 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 289 --> 292
     line [291, 290, 290]
 ```
 
-2026-10-18 291 → 2026-10-30 290（-1）
+2026-10-18 291 → 2026-10-31 290（-1）
 
 
 ---

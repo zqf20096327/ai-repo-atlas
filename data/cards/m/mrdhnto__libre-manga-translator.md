@@ -1,6 +1,6 @@
 # mrdhnto/libre-manga-translator
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mrdhnto/libre-manga-translator) · [官网](https://libre.mangatl.asia) · 个人维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/mrdhnto/libre-manga-translator) · [官网](https://libre.mangatl.asia) · 个人维护
 
 **浏览器内本地/云端漫画翻译扩展：气泡检测+OCR+翻译+嵌字**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrdhnto/libre-manga-translator 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 8 --> 35
-    line [10, 12, 17, 24, 27, 31, 32, 33]
+    title "mrdhnto/libre-manga-translator 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 8 --> 36
+    line [10, 12, 17, 24, 27, 31, 32, 33, 34]
 ```
 
-2026-10-22 10 → 2026-10-30 33（+23）
+2026-10-22 10 → 2026-10-31 34（+24）
 
 
 ---

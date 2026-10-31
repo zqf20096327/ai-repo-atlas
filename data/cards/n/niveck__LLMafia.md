@@ -46,12 +46,12 @@ EMNLP 2025 Findings 论文 "Time to Talk" 的开源代码与数据：构建一�
 ```mermaid
 xychart-beta
     title "niveck/LLMafia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

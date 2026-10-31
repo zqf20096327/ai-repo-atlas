@@ -1,6 +1,6 @@
 # caiopizzol/brand.md
 
-⭐ 35 · HTML · MIT · 推送 2026-08-05 · [GitHub](https://github.com/caiopizzol/brand.md) · [官网](https://thebrand.md) · 个人维护
+⭐ 36 · HTML · MIT · 推送 2026-08-05 · [GitHub](https://github.com/caiopizzol/brand.md) · [官网](https://thebrand.md) · 个人维护
 
 **面向 AI 工具的品牌身份文件开放标准与 Claude Code 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "caiopizzol/brand.md 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-18 34 → 2026-10-30 35（+1）
+2026-10-18 34 → 2026-10-31 36（+2）
 
 
 ---

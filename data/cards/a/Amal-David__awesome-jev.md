@@ -1,6 +1,6 @@
 # Amal-David/awesome-jev
 
-⭐ 243 · Python · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/Amal-David/awesome-jev) · 个人维护
+⭐ 243 · Python · CC0-1.0 · 推送 2026-10-30 · [GitHub](https://github.com/Amal-David/awesome-jev) · 个人维护
 
 **Jev 生态策展清单：模型演示、SDK、技能与项目聚合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Amal-David/awesome-jev 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30"]
+    title "Amal-David/awesome-jev 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 237 --> 244
-    line [238, 240, 241, 242, 243]
+    line [238, 240, 241, 242, 243, 243]
 ```
 
-2026-10-18 238 → 2026-10-30 243（+5）
+2026-10-18 238 → 2026-10-31 243（+5）
 
 
 ---

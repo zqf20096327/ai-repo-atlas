@@ -1,6 +1,6 @@
 # milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow
 
-⭐ 48 · Shell · GPL-3.0 · 推送 2026-03-26 · [GitHub](https://github.com/milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow) · 个人维护
+⭐ 47 · Shell · GPL-3.0 · 推送 2026-03-26 · [GitHub](https://github.com/milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow) · 个人维护
 
 **Helix+Zellij/Tmux 的 AI 补全与 REPL 工作流脚本集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    line [47, 48, 47]
 ```
 
-2026-10-18 47 → 2026-10-30 48（+1）
+2026-10-18 47 → 2026-10-31 47（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhuzhangxue/wechat-chat-export
 
-⭐ 110 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/zhuzhangxue/wechat-chat-export) · 个人维护 · 中文 README
+⭐ 112 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/zhuzhangxue/wechat-chat-export) · 个人维护 · 中文 README
 
 **Windows 微信聊天记录本地导出工具，产出面向 LLM 的文本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhuzhangxue/wechat-chat-export 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 69 --> 113
-    line [72, 73, 90, 94, 95, 97, 102, 107, 108, 110]
+    title "zhuzhangxue/wechat-chat-export 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 68 --> 116
+    line [72, 73, 90, 94, 95, 97, 102, 107, 108, 110, 112]
 ```
 
-2026-10-18 72 → 2026-10-30 110（+38）
+2026-10-18 72 → 2026-10-31 112（+40）
 
 
 ---

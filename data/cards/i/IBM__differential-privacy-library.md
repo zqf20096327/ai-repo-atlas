@@ -1,6 +1,6 @@
 # IBM/differential-privacy-library
 
-⭐ 919 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/IBM/differential-privacy-library) · [官网](https://diffprivlib.readthedocs.io) · 组织维护
+⭐ 920 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/IBM/differential-privacy-library) · [官网](https://diffprivlib.readthedocs.io) · 组织维护
 
 **差分隐私通用 Python 库：含 sklearn 风格的隐私保护机器学习**
 
@@ -45,12 +45,12 @@ IBM 维护的通用差分隐私库，面向希望实验差分隐私、研究其�
 ```mermaid
 xychart-beta
     title "IBM/differential-privacy-library 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 918 --> 921
-    line [920, 919, 919]
+    line [920, 919, 920]
 ```
 
-2026-10-18 920 → 2026-10-30 919（-1）
+2026-10-18 920 → 2026-10-31 920（+0）
 
 
 ---

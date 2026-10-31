@@ -45,12 +45,12 @@ apcore 是一个 schema 驱动的 Python 模块开发与治理运行时：开发
 ```mermaid
 xychart-beta
     title "aiperceivable/apcore-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

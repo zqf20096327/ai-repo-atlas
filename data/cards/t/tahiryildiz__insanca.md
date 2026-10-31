@@ -1,6 +1,6 @@
 # tahiryildiz/insanca
 
-⭐ 30 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/tahiryildiz/insanca) · 个人维护
+⭐ 31 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/tahiryildiz/insanca) · 个人维护
 
 **清除土耳其语 AI 写作痕迹的 agent 技能，重写为自然人类文风**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tahiryildiz/insanca 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30]
+    title "tahiryildiz/insanca 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 30, 31]
 ```
 
-2026-10-18 28 → 2026-10-30 30（+2）
+2026-10-18 28 → 2026-10-31 31（+3）
 
 
 ---

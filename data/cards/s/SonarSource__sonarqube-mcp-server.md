@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-mcp-server
 
-⭐ 676 · Java · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
+⭐ 677 · Java · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
 
 **官方 SonarQube MCP 服务器：让 AI agent 接入代码质量与安全分析**
 
@@ -44,13 +44,13 @@ SonarSource 官方维护的 Model Context Protocol 服务器，使 Claude Code�
 
 ```mermaid
 xychart-beta
-    title "SonarSource/sonarqube-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 664 --> 677
-    line [665, 667, 669, 670, 671, 673, 675, 676]
+    title "SonarSource/sonarqube-mcp-server 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 664 --> 678
+    line [665, 667, 669, 670, 671, 673, 675, 676, 677]
 ```
 
-2026-10-18 665 → 2026-10-30 676（+11）
+2026-10-18 665 → 2026-10-31 677（+12）
 
 
 ---

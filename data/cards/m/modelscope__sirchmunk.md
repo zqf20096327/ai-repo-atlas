@@ -1,6 +1,6 @@
 # modelscope/sirchmunk
 
-⭐ 1,383 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/sirchmunk) · [官网](https://modelscope.github.io/sirchmunk-web/) · 组织维护 · 中文 README
+⭐ 1,385 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/modelscope/sirchmunk) · [官网](https://modelscope.github.io/sirchmunk-web/) · 组织维护 · 中文 README
 
 **面向本地海量数据的免向量库实时检索与聊天引擎**
 
@@ -45,13 +45,13 @@ Sirchmunk 提供无需向量数据库的直接检索方案：对原始文件即�
 
 ```mermaid
 xychart-beta
-    title "modelscope/sirchmunk 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1374 --> 1384
-    line [1375, 1376, 1377, 1379, 1380, 1381, 1383]
+    title "modelscope/sirchmunk 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1374 --> 1386
+    line [1375, 1376, 1377, 1379, 1380, 1381, 1383, 1385]
 ```
 
-2026-10-18 1,375 → 2026-10-30 1,383（+8）
+2026-10-18 1,375 → 2026-10-31 1,385（+10）
 
 
 ---

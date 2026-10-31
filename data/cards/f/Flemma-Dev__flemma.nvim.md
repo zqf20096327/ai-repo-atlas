@@ -1,6 +1,6 @@
 # Flemma-Dev/flemma.nvim
 
-⭐ 57 · Lua · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Flemma-Dev/flemma.nvim) · 组织维护
+⭐ 58 · Lua · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Flemma-Dev/flemma.nvim) · 组织维护
 
 **Neovim 的纯文本 AI 知识工作台：以 .chat 文件承载对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Flemma-Dev/flemma.nvim 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 57]
+    line [58, 57, 58]
 ```
 
-2026-10-18 58 → 2026-10-30 57（-1）
+2026-10-18 58 → 2026-10-31 58（+0）
 
 
 ---

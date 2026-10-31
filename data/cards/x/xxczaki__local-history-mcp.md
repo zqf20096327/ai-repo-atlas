@@ -1,6 +1,6 @@
 # xxczaki/local-history-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xxczaki/local-history-mcp) · [官网](https://www.npmjs.com/package/local-history-mcp) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/xxczaki/local-history-mcp) · [官网](https://www.npmjs.com/package/local-history-mcp) · 个人维护
 
 **让 AI 助手读取 VS Code/Cursor 本地历史的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xxczaki/local-history-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

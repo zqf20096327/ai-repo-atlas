@@ -1,6 +1,6 @@
 # agentistics/agentistics
 
-⭐ 46 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/agentistics/agentistics) · [官网](https://agentistics.com.br) · 组织维护
+⭐ 46 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/agentistics/agentistics) · [官网](https://agentistics.com.br) · 组织维护
 
 **本地优先的 AI 编码助手用量分析工具：读取六种 CLI 的数据算 token 与成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentistics/agentistics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 46（+0）
 
 
 ---

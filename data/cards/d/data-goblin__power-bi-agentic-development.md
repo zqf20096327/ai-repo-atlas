@@ -1,6 +1,6 @@
 # data-goblin/power-bi-agentic-development
 
-⭐ 1,074 · C# · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
+⭐ 1,076 · C# · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
 
 **Power BI/Fabric 的 Claude Code 与 Copilot 插件市场：技能、子代理与钩子**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "data-goblin/power-bi-agentic-development 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1051 --> 1076
-    line [1053, 1060, 1061, 1062, 1066, 1065, 1066, 1070, 1072, 1073, 1074]
+    title "data-goblin/power-bi-agentic-development 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1051 --> 1078
+    line [1053, 1060, 1061, 1062, 1066, 1065, 1066, 1070, 1072, 1073, 1074, 1076]
 ```
 
-2026-10-18 1,053 → 2026-10-30 1,074（+21）
+2026-10-18 1,053 → 2026-10-31 1,076（+23）
 
 
 ---

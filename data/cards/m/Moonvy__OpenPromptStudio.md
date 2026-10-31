@@ -1,6 +1,6 @@
 # Moonvy/OpenPromptStudio
 
-⭐ 6,717 · Vue · 推送 2026-10-21 · [GitHub](https://github.com/Moonvy/OpenPromptStudio) · [官网](https://moonvy.com/apps/ops/) · 组织维护 · 中文 README
+⭐ 6,718 · Vue · 推送 2026-10-21 · [GitHub](https://github.com/Moonvy/OpenPromptStudio) · [官网](https://moonvy.com/apps/ops/) · 组织维护 · 中文 README
 
 **面向 Midjourney 用户的 AIGC 提示词可视化编辑器**
 
@@ -45,12 +45,12 @@ Web 端提示词编辑工具：将英文提示词可视化并支持编辑，提�
 ```mermaid
 xychart-beta
     title "Moonvy/OpenPromptStudio 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 6706 --> 6718
-    line [6707, 6710, 6711, 6716, 6717, 6717]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 6706 --> 6719
+    line [6707, 6710, 6711, 6716, 6717, 6718]
 ```
 
-2026-10-22 6,707 → 2026-10-30 6,717（+10）
+2026-10-22 6,707 → 2026-10-31 6,718（+11）
 
 
 ---

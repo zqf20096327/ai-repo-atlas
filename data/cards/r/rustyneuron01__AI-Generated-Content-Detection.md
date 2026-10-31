@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rustyneuron01/AI-Generated-Content-Detection 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "rustyneuron01/AI-Generated-Content-Detection 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 88 --> 92
-    line [89, 90, 91]
+    line [89, 90, 91, 91]
 ```
 
-2026-10-18 89 → 2026-10-30 91（+2）
+2026-10-18 89 → 2026-10-31 91（+2）
 
 
 ---

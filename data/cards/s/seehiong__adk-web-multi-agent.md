@@ -1,6 +1,6 @@
 # seehiong/adk-web-multi-agent
 
-⭐ 38 · Jupyter Notebook · 推送 2025-11-03 · [GitHub](https://github.com/seehiong/adk-web-multi-agent) · [官网](https://seehiong.github.io/posts/2025/11/adk-web-multi-agent-system/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 Google ADK 与 OpenRouter 模型构建的多 Agent 数据查询示例系统**
 

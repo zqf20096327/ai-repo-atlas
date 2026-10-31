@@ -1,6 +1,6 @@
 # Justin0504/Aegis
 
-⭐ 525 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Justin0504/Aegis) · [官网](https://aegistraces.com) · 个人维护
+⭐ 525 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Justin0504/Aegis) · [官网](https://aegistraces.com) · 个人维护
 
 **AI agent 的预执行防火墙：拦截、审计并管控每个工具调用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Justin0504/Aegis 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    title "Justin0504/Aegis 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 521 --> 545
-    line [542, 543, 523, 524, 525]
+    line [542, 543, 523, 524, 525, 525]
 ```
 
-2026-10-18 542 → 2026-10-30 525（-17）
+2026-10-18 542 → 2026-10-31 525（-17）
 
 
 ---

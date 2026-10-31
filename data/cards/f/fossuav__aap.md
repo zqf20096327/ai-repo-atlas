@@ -1,6 +1,6 @@
 # fossuav/aap
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/fossuav/aap) · 组织维护
+⭐ 19 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/fossuav/aap) · 组织维护
 
 **ArduPilot 平台的 LLM 代码生成规则手册与技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fossuav/aap 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # fxai666/fxai-toolkit
 
-⭐ 45 · Python · 推送 2026-10-29 · [GitHub](https://github.com/fxai666/fxai-toolkit) · [官网](http://www.fxai.site) · 个人维护 · 中文 README
+⭐ 45 · Python · 推送 2026-10-30 · [GitHub](https://github.com/fxai666/fxai-toolkit) · [官网](http://www.fxai.site) · 个人维护 · 中文 README
 
 **面向低配设备的 ComfyUI AI 长视频全流程节点包**
 
@@ -46,12 +46,12 @@ ComfyUI 生态的自研节点合集，核心通过长视频分段拆解、循环
 ```mermaid
 xychart-beta
     title "fxai666/fxai-toolkit 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
     y-axis "stars" 42 --> 46
     line [43, 44, 45, 45]
 ```
 
-2026-10-18 43 → 2026-10-30 45（+2）
+2026-10-18 43 → 2026-10-31 45（+2）
 
 
 ---

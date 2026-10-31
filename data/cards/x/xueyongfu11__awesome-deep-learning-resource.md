@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xueyongfu11/awesome-deep-learning-resource 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-18 71 → 2026-10-30 71（+0）
+2026-10-18 71 → 2026-10-31 71（+0）
 
 
 ---

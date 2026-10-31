@@ -1,6 +1,6 @@
 # willsurpass/WSARTEX
 
-⭐ 20 · Go · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/willsurpass/WSARTEX) · [官网](https://willsurpass.com) · 个人维护 · 中文 README
+⭐ 21 · Go · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/willsurpass/WSARTEX) · [官网](https://willsurpass.com) · 个人维护 · 中文 README
 
 **本地隔离环境用的 AI 自主渗透测试系统，多 Agent 协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "willsurpass/WSARTEX 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 2 --> 21
-    line [3, 4, 9, 13, 16, 19, 20, 20]
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 2 --> 22
+    line [3, 4, 9, 13, 16, 19, 20, 21]
 ```
 
-2026-10-19 3 → 2026-10-30 20（+17）
+2026-10-19 3 → 2026-10-31 21（+18）
 
 
 ---

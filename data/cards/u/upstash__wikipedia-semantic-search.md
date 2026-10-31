@@ -45,13 +45,13 @@ Upstash 团队的演示工程：将 1.44 亿条来自 11 种语言维基百科�
 
 ```mermaid
 xychart-beta
-    title "upstash/wikipedia-semantic-search 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    title "upstash/wikipedia-semantic-search 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 469 --> 473
-    line [472, 471, 470]
+    line [472, 471, 470, 470]
 ```
 
-2026-10-18 472 → 2026-10-30 470（-2）
+2026-10-18 472 → 2026-10-31 470（-2）
 
 
 ---

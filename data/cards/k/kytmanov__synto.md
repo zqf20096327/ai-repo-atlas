@@ -1,6 +1,6 @@
 # kytmanov/synto
 
-⭐ 265 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/kytmanov/synto) · 个人维护
+⭐ 266 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/kytmanov/synto) · 个人维护
 
 **把 Markdown 笔记经本地 LLM 编译成互链 Obsidian wiki 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kytmanov/synto 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 261 --> 266
-    line [262, 263, 264, 265, 265]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 261 --> 267
+    line [262, 263, 264, 265, 266]
 ```
 
-2026-10-18 262 → 2026-10-30 265（+3）
+2026-10-18 262 → 2026-10-31 266（+4）
 
 
 ---

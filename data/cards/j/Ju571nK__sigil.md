@@ -1,6 +1,6 @@
 # Ju571nK/sigil
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Ju571nK/sigil) · [官网](https://sigilworks.net) · 个人维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Ju571nK/sigil) · [官网](https://sigilworks.net) · 个人维护
 
 **扫描并评分 AI 编码代理配置的安全暴露面，支持车队级管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ju571nK/sigil 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

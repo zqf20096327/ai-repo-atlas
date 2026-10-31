@@ -1,6 +1,6 @@
 # harumiWeb/exstruct
 
-⭐ 204 · Python · BSD-3-Clause · 推送 2026-10-04 · [GitHub](https://github.com/harumiWeb/exstruct) · [官网](https://harumiweb.github.io/exstruct/) · 个人维护
+⭐ 203 · Python · BSD-3-Clause · 推送 2026-10-04 · [GitHub](https://github.com/harumiWeb/exstruct) · [官网](https://harumiweb.github.io/exstruct/) · 个人维护
 
 **Excel 转 JSON 的结构化提取与补丁式编辑工具，服务 LLM/RAG 流水线**
 
@@ -46,12 +46,12 @@ Python 库 + CLI + MCP 服务器三形态：将 Excel 工作簿读取为结构�
 ```mermaid
 xychart-beta
     title "harumiWeb/exstruct 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 202 --> 205
-    line [203, 204, 204]
+    line [203, 204, 203]
 ```
 
-2026-10-18 203 → 2026-10-30 204（+1）
+2026-10-18 203 → 2026-10-31 203（+0）
 
 
 ---

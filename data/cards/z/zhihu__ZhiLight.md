@@ -1,6 +1,6 @@
 # zhihu/ZhiLight
 
-⭐ 907 · C++ · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/zhihu/ZhiLight) · 组织维护 · 中文 README
+⭐ 906 · C++ · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/zhihu/ZhiLight) · 组织维护 · 中文 README
 
 **知乎与面壁开发的 LLM 推理加速引擎，面向 PCIe GPU**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhihu/ZhiLight 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 906 --> 908
-    line [907, 907]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 905 --> 908
+    line [907, 906]
 ```
 
-2026-10-18 907 → 2026-10-30 907（+0）
+2026-10-18 907 → 2026-10-31 906（-1）
 
 
 ---

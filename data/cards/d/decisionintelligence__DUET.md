@@ -45,12 +45,12 @@ DUET 是 KDD 2025 论文《Dual Clustering Enhanced Multivariate Time Series For
 ```mermaid
 xychart-beta
     title "decisionintelligence/DUET 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31"]
     y-axis "stars" 295 --> 300
     line [296, 297, 298, 299, 299]
 ```
 
-2026-10-18 296 → 2026-10-30 299（+3）
+2026-10-18 296 → 2026-10-31 299（+3）
 
 
 ---

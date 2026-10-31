@@ -46,12 +46,12 @@ PAR6 是一个 3D 打印的协作机械臂开源项目，提供可打印的 STL 
 ```mermaid
 xychart-beta
     title "Source-Robotics/PAR6-Collaborative-Robot-Arm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

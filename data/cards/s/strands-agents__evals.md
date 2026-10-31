@@ -1,6 +1,6 @@
 # strands-agents/evals
 
-⭐ 249 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
 
 **AI agent 与 LLM 应用的评测框架**
 
@@ -46,13 +46,13 @@ Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输�
 
 ```mermaid
 xychart-beta
-    title "strands-agents/evals 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "strands-agents/evals 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 236 --> 250
-    line [237, 238, 239, 241, 242, 244, 246, 247, 248, 249]
+    line [237, 238, 239, 241, 242, 244, 246, 247, 248, 249, 249]
 ```
 
-2026-10-18 237 → 2026-10-30 249（+12）
+2026-10-18 237 → 2026-10-31 249（+12）
 
 
 ---

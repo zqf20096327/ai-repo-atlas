@@ -1,6 +1,6 @@
 # ibm-client-engineering/output-drift-financial-llms
 
-⭐ 20 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/ibm-client-engineering/output-drift-financial-llms) · [官网](https://ibm-client-engineering.github.io/output-drift-financial-llms/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ibm-client-engineering/output-drift-financial-llms) · [官网](https://ibm-client-engineering.github.io/output-drift-financial-llms/) · 个人维护
 
 **金融场景 LLM 输出漂移与 agent 回放稳定性的可复现基准（DFAH-Bench）**
 
@@ -46,12 +46,12 @@ DFAH-Bench 是一个金融 AI 研究工件与 alpha 阶段 Python 包（dfah-ben
 ```mermaid
 xychart-beta
     title "ibm-client-engineering/output-drift-financial-llms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 20（+2）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

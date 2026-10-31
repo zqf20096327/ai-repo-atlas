@@ -1,6 +1,6 @@
 # drawthingsai/local-code-community
 
-⭐ 23 · C · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
+⭐ 48 · C · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
 
 **Mac/iPad/iPhone 上的本地 AI 编码代理应用**
 
@@ -39,6 +39,18 @@
 
 > L3: Local Code is a private AI agent for Mac, iPad and iPhone, written mostly in Swift. It puts three things in one app:
 > L5: With an on-device quasi-frontier model, such as DeepSeek 4.1 Flash 1017, inference runs on your device and works off
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "drawthingsai/local-code-community 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 21 --> 50
+    line [23, 48]
+```
+
+2026-10-30 23 → 2026-10-31 48（+25）
 
 
 ---

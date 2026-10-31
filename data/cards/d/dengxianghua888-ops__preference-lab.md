@@ -1,6 +1,6 @@
 # dengxianghua888-ops/preference-lab
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dengxianghua888-ops/preference-lab) · 个人维护 · 中文 README
+⭐ 50 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dengxianghua888-ops/preference-lab) · 个人维护 · 中文 README
 
 **把内容审核策略转成可溯源偏好数据集的工具，供 ML/数据团队使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dengxianghua888-ops/preference-lab 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 49 --> 56
     line [55, 50, 50]
 ```
 
-2026-10-19 55 → 2026-10-30 50（-5）
+2026-10-19 55 → 2026-10-31 50（-5）
 
 
 ---

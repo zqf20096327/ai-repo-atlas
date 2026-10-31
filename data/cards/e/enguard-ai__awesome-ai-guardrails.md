@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "enguard-ai/awesome-ai-guardrails 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "enguard-ai/awesome-ai-guardrails 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 114 --> 121
-    line [115, 119, 120]
+    line [115, 119, 120, 120]
 ```
 
-2026-10-18 115 → 2026-10-30 120（+5）
+2026-10-18 115 → 2026-10-31 120（+5）
 
 
 ---

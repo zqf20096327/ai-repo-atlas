@@ -1,6 +1,6 @@
 # przeprogramowani/10x-bench
 
-⭐ 15 · Astro · MIT · 推送 2026-10-09 · [GitHub](https://github.com/przeprogramowani/10x-bench) · [官网](https://10xbench.ai/) · 组织维护
+⭐ 15 · Astro · MIT · 推送 2026-10-30 · [GitHub](https://github.com/przeprogramowani/10x-bench) · [官网](https://10xbench.ai/) · 组织维护
 
 **LLM 一次性网站生成基准：多模型结果与评分看板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "przeprogramowani/10x-bench 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    title "przeprogramowani/10x-bench 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15]
+    line [11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 11 → 2026-10-30 15（+4）
+2026-10-18 11 → 2026-10-31 15（+4）
 
 
 ---

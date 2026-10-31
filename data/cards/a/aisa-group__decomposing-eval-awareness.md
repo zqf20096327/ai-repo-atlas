@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aisa-group/decomposing-eval-awareness 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "aisa-group/decomposing-eval-awareness 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 19 --> 22
-    line [20, 21]
+    line [20, 21, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 21（+1）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ntakouris/awesome-dronecraft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ntakouris/awesome-dronecraft 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 236 --> 239
-    line [237, 238]
+    line [237, 238, 238]
 ```
 
-2026-10-18 237 → 2026-10-30 238（+1）
+2026-10-18 237 → 2026-10-31 238（+1）
 
 
 ---

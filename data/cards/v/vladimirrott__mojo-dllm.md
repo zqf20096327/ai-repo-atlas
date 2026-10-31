@@ -1,6 +1,6 @@
 # vladimirrott/mojo-dllm
 
-⭐ 54 · Mojo · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vladimirrott/mojo-dllm) · [官网](https://vladimirrott.github.io/mojo-dllm/) · 个人维护
+⭐ 87 · Mojo · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vladimirrott/mojo-dllm) · [官网](https://vladimirrott.github.io/mojo-dllm/) · 个人维护
 
 **Mojo 编写的扩散语言模型本地推理运行时（LLaDA/Dream）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vladimirrott/mojo-dllm 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
-    y-axis "stars" 0 --> 59
-    line [3, 54]
+    title "vladimirrott/mojo-dllm 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 0 --> 95
+    line [3, 54, 87]
 ```
 
-2026-10-28 3 → 2026-10-30 54（+51）
+2026-10-28 3 → 2026-10-31 87（+84）
 
 
 ---

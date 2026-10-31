@@ -1,6 +1,6 @@
 # johnsellin93/trace
 
-⭐ 28 · Shell · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/johnsellin93/trace) · 个人维护
+⭐ 27 · Shell · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/johnsellin93/trace) · 个人维护
 
 **终端代码调查工具：为 AI 渐进采集代码证据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "johnsellin93/trace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

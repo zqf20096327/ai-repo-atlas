@@ -1,6 +1,6 @@
 # Perruer/keelflow
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Perruer/keelflow) · [官网](https://github.com/Perruer/keelflow#quick-start) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/Perruer/keelflow) · [官网](https://github.com/Perruer/keelflow#quick-start) · 个人维护 · 中文 README
 
 **Flowise 的安全维护分支：可视化构建 AI agent 与 LLM 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Perruer/keelflow 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 42, 43]
 ```
 
-2026-10-18 39 → 2026-10-30 42（+3）
+2026-10-18 39 → 2026-10-31 43（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # RubricLab/create-rubric-app
 
-⭐ 151 · TypeScript · NOASSERTION · 推送 2026-01-14 · [GitHub](https://github.com/RubricLab/create-rubric-app) · [官网](https://todo.rubric.sh) · 组织维护
+⭐ 150 · TypeScript · NOASSERTION · 推送 2026-01-14 · [GitHub](https://github.com/RubricLab/create-rubric-app) · [官网](https://todo.rubric.sh) · 组织维护
 
 **脚手架 CLI：快速初始化全栈 AI 聊天应用项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "RubricLab/create-rubric-app 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 149 --> 152
+    line [151, 150]
 ```
 
-2026-10-18 151 → 2026-10-30 151（+0）
+2026-10-18 151 → 2026-10-31 150（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # FareedKhan-dev/train-llm-from-scratch
 
-⭐ 12,938 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
+⭐ 13,029 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch) · [官网](https://fareedkhan-dev.github.io/train-llm-from-scratch/) · 个人维护
 
 **从零手写 PyTorch 训练 LLM 的教学仓库：数据到推理全流程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "FareedKhan-dev/train-llm-from-scratch 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 12088 --> 13015
-    line [12165, 12341, 12410, 12444, 12481, 12489, 12495, 12506, 12610, 12817, 12938]
+    title "FareedKhan-dev/train-llm-from-scratch 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 12079 --> 13115
+    line [12165, 12341, 12410, 12444, 12481, 12489, 12495, 12506, 12610, 12817, 12938, 13029]
 ```
 
-2026-10-18 12,165 → 2026-10-30 12,938（+773）
+2026-10-18 12,165 → 2026-10-31 13,029（+864）
 
 
 ---

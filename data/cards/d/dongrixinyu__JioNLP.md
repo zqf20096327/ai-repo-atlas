@@ -1,6 +1,6 @@
 # dongrixinyu/JioNLP
 
-⭐ 3,875 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/dongrixinyu/JioNLP) · [官网](https://www.jionlp.com/) · 个人维护 · 中文 README
+⭐ 3,876 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/dongrixinyu/JioNLP) · [官网](https://www.jionlp.com/) · 个人维护 · 中文 README
 
 **面向中文 NLP 开发者的预处理与解析 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dongrixinyu/JioNLP 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3872 --> 3876
-    line [3873, 3874, 3875, 3875]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 3872 --> 3877
+    line [3873, 3874, 3875, 3876]
 ```
 
-2026-10-18 3,873 → 2026-10-30 3,875（+2）
+2026-10-18 3,873 → 2026-10-31 3,876（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ccq1/awsome_kali_MCPServers
 
-⭐ 108 · Python · Apache-2.0 · 推送 2025-11-16 · [GitHub](https://github.com/ccq1/awsome_kali_MCPServers) · 个人维护
+⭐ 110 · Python · Apache-2.0 · 推送 2025-11-16 · [GitHub](https://github.com/ccq1/awsome_kali_MCPServers) · 个人维护
 
 **面向 Kali Linux 的 MCP 服务器集合：为安全测试提供工具接入**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ccq1/awsome_kali_MCPServers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108, 108]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 105 --> 111
+    line [106, 107, 108, 110]
 ```
 
-2026-10-18 106 → 2026-10-30 108（+2）
+2026-10-18 106 → 2026-10-31 110（+4）
 
 
 ---

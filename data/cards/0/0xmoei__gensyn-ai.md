@@ -1,6 +1,6 @@
 # 0xmoei/gensyn-ai
 
-⭐ 186 · MIT · 推送 2025-11-21 · [GitHub](https://github.com/0xmoei/gensyn-ai) · 个人维护
+⭐ 185 · MIT · 推送 2025-11-21 · [GitHub](https://github.com/0xmoei/gensyn-ai) · 个人维护
 
 **Gensyn RL-Swarm 测试网节点搭建教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xmoei/gensyn-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 185 --> 187
-    line [186, 186]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 184 --> 187
+    line [186, 185]
 ```
 
-2026-10-18 186 → 2026-10-30 186（+0）
+2026-10-18 186 → 2026-10-31 185（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # creatis-myriad/creatis-myriad.github.io
 
-⭐ 21 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/creatis-myriad/creatis-myriad.github.io) · [官网](https://creatis-myriad.github.io/) · 组织维护
+⭐ 21 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/creatis-myriad/creatis-myriad.github.io) · [官网](https://creatis-myriad.github.io/) · 组织维护
 
 **CREATIS 实验室 MYRIAD 医学影像研究团队官网**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "creatis-myriad/creatis-myriad.github.io 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

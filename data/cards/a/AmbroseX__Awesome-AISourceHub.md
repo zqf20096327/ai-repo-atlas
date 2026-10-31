@@ -1,6 +1,6 @@
 # AmbroseX/Awesome-AISourceHub
 
-⭐ 1,790 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub) · [官网](https://aiguanchao.com) · 个人维护 · 中文 README
+⭐ 1,791 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub) · [官网](https://aiguanchao.com) · 个人维护 · 中文 README
 
 **AI 科技领域信息源策展清单：聚合推特/公众号/知乎等渠道账号**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmbroseX/Awesome-AISourceHub 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1780 --> 1791
-    line [1781, 1783, 1784, 1785, 1786, 1787, 1789, 1790]
+    title "AmbroseX/Awesome-AISourceHub 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1780 --> 1792
+    line [1781, 1783, 1784, 1785, 1786, 1787, 1789, 1790, 1791]
 ```
 
-2026-10-19 1,781 → 2026-10-30 1,790（+9）
+2026-10-19 1,781 → 2026-10-31 1,791（+10）
 
 
 ---

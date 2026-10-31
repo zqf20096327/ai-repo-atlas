@@ -45,13 +45,13 @@ Python 教学项目，通过三条路径讲解 LLM 采样：用 Groq Chat Comple
 
 ```mermaid
 xychart-beta
-    title "Burakkylmz/llm-sampling-lab 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
+    title "Burakkylmz/llm-sampling-lab 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 6 --> 18
-    line [7, 15, 17]
+    line [7, 15, 17, 17]
 ```
 
-2026-10-28 7 → 2026-10-30 17（+10）
+2026-10-28 7 → 2026-10-31 17（+10）
 
 
 ---

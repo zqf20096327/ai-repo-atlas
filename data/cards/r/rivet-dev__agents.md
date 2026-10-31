@@ -1,6 +1,6 @@
 # rivet-dev/agents
 
-⭐ 1,616 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rivet-dev/agents) · [官网](https://rivet.dev/agents/docs) · 组织维护
+⭐ 1,617 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/rivet-dev/agents) · [官网](https://rivet.dev/agents/docs) · 组织维护
 
 **Rivet 出品的 agent 基础设施：以持久 Actor 运行 agent**
 
@@ -42,13 +42,13 @@ Rivet 维护的 monorepo，含两个项目：Rivet Agents 将 Pi 等 agent 作�
 
 ```mermaid
 xychart-beta
-    title "rivet-dev/agents 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1607 --> 1617
-    line [1608, 1610, 1609, 1608, 1612, 1614, 1616]
+    title "rivet-dev/agents 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1607 --> 1618
+    line [1608, 1610, 1609, 1608, 1612, 1614, 1616, 1617]
 ```
 
-2026-10-18 1,608 → 2026-10-30 1,616（+8）
+2026-10-18 1,608 → 2026-10-31 1,617（+9）
 
 
 ---

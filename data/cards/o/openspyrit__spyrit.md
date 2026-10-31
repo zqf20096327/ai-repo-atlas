@@ -1,6 +1,6 @@
 # openspyrit/spyrit
 
-⭐ 67 · Python · LGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openspyrit/spyrit) · [官网](https://spyrit.readthedocs.io/en/) · 组织维护
+⭐ 68 · Python · LGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/openspyrit/spyrit) · [官网](https://spyrit.readthedocs.io/en/) · 组织维护
 
 **单像素成像的 PyTorch 深度图像重建工具箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openspyrit/spyrit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 66 --> 68
-    line [67, 67]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 66 --> 69
+    line [67, 68]
 ```
 
-2026-10-18 67 → 2026-10-30 67（+0）
+2026-10-18 67 → 2026-10-31 68（+1）
 
 
 ---

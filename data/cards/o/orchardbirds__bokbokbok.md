@@ -44,12 +44,12 @@ Python 包 bokbokbok，面向使用 XGBoost 和 LightGBM 的机器学习开发�
 ```mermaid
 xychart-beta
     title "orchardbirds/bokbokbok 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-18 39 → 2026-10-30 39（+0）
+2026-10-18 39 → 2026-10-31 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hasandeveloper/chat-bot
 
-⭐ 20 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/hasandeveloper/chat-bot) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/hasandeveloper/chat-bot) · 个人维护 · 中文 README
 
 **带记忆与 RAG 的可部署 AI 聊天机器人后端服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hasandeveloper/chat-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 19（-1）
 
 
 ---

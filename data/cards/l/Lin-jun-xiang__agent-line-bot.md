@@ -1,6 +1,6 @@
 # Lin-jun-xiang/agent-line-bot
 
-⭐ 148 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Lin-jun-xiang/agent-line-bot) · 个人维护 · 中文 README
+⭐ 149 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/Lin-jun-xiang/agent-line-bot) · 个人维护 · 中文 README
 
 **住在 LINE 裡的免費 AI 助理機器人，可查網、產圖產片、跑程式**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lin-jun-xiang/agent-line-bot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 145 --> 149
-    line [146, 147, 148]
+    title "Lin-jun-xiang/agent-line-bot 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 145 --> 150
+    line [146, 147, 148, 149]
 ```
 
-2026-10-18 146 → 2026-10-30 148（+2）
+2026-10-18 146 → 2026-10-31 149（+3）
 
 
 ---

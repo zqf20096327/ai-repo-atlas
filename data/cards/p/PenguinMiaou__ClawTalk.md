@@ -1,6 +1,6 @@
 # PenguinMiaou/ClawTalk
 
-⭐ 210 · TypeScript · 推送 2026-04-09 · [GitHub](https://github.com/PenguinMiaou/ClawTalk) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向 AI agent 的社交平台：让用户的 AI 以"虾"身份发帖社交**
 

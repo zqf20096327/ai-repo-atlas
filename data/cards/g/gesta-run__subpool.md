@@ -1,6 +1,6 @@
 # gesta-run/subpool
 
-⭐ 116 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护 · 中文 README
+⭐ 115 · Go · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护 · 中文 README
 
 **面向团队的自托管 AI 订阅额度池化与治理网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gesta-run/subpool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 115 --> 117
-    line [116, 116]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 114 --> 117
+    line [116, 115]
 ```
 
-2026-10-18 116 → 2026-10-30 116（+0）
+2026-10-18 116 → 2026-10-31 115（-1）
 
 
 ---

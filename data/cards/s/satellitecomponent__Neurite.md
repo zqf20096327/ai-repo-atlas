@@ -1,6 +1,6 @@
 # satellitecomponent/Neurite
 
-⭐ 2,158 · JavaScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/satellitecomponent/Neurite) · [官网](https://neurite.network/) · 组织维护
+⭐ 2,161 · JavaScript · MIT · 推送 2026-03-16 · [GitHub](https://github.com/satellitecomponent/Neurite) · [官网](https://neurite.network/) · 组织维护
 
 **在曼德博分形集中做思维导图并嵌入 AI agent 的知识工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "satellitecomponent/Neurite 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2152 --> 2159
-    line [2153, 2154, 2155, 2156, 2157, 2158, 2157, 2158, 2158]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 2152 --> 2162
+    line [2153, 2154, 2155, 2156, 2157, 2158, 2157, 2158, 2161]
 ```
 
-2026-10-18 2,153 → 2026-10-30 2,158（+5）
+2026-10-18 2,153 → 2026-10-31 2,161（+8）
 
 
 ---

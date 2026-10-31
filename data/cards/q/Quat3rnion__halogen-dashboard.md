@@ -1,6 +1,6 @@
 # Quat3rnion/halogen-dashboard
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Quat3rnion/halogen-dashboard) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/Quat3rnion/halogen-dashboard) · 个人维护
 
 **Halogen LLM 推理服务器的实时监控仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Quat3rnion/halogen-dashboard 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 8 --> 17
-    line [9, 11, 13, 14, 15, 16]
+    title "Quat3rnion/halogen-dashboard 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 8 --> 19
+    line [9, 11, 13, 14, 15, 16, 18]
 ```
 
-2026-10-22 9 → 2026-10-30 16（+7）
+2026-10-22 9 → 2026-10-31 18（+9）
 
 
 ---

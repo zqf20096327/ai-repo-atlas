@@ -1,6 +1,6 @@
 # HyeonjeongHa/MM-PoisonRAG
 
-⭐ 19 · Python · 推送 2025-12-04 · [GitHub](https://github.com/HyeonjeongHa/MM-PoisonRAG) · 个人维护
+⭐ 20 · Python · 推送 2025-12-04 · [GitHub](https://github.com/HyeonjeongHa/MM-PoisonRAG) · 个人维护
 
 **针对多模态 RAG 的知识投毒攻击框架官方实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HyeonjeongHa/MM-PoisonRAG 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

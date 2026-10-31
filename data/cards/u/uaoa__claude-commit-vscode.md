@@ -1,6 +1,6 @@
 # uaoa/claude-commit-vscode
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/uaoa/claude-commit-vscode) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **VS Code 扩展：用 Claude 读取 git diff 自动生成提交信息**
 
@@ -11,7 +11,7 @@ Commit Pen 是一个 VS Code 扩展，读取工作区 Git 仓库的 diff，通�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

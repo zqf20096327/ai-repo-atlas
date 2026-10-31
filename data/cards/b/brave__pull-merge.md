@@ -1,6 +1,6 @@
 # brave/pull-merge
 
-⭐ 23 · JavaScript · MPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/brave/pull-merge) · 组织维护
+⭐ 23 · JavaScript · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/brave/pull-merge) · 组织维护
 
 **为 GitHub pull request 添加 LLM 能力的 GitHub Action**
 
@@ -44,12 +44,12 @@ puLL-Merge 是一个 GitHub Action，在 pull request 工作流中调用 LLM 对
 ```mermaid
 xychart-beta
     title "brave/pull-merge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

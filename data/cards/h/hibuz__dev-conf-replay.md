@@ -1,6 +1,6 @@
 # hibuz/dev-conf-replay
 
-⭐ 1,167 · 推送 2026-09-09 · [GitHub](https://github.com/hibuz/dev-conf-replay) · 个人维护 · 中文 README
+⭐ 1,166 · 推送 2026-09-09 · [GitHub](https://github.com/hibuz/dev-conf-replay) · 个人维护 · 中文 README
 
 **韩国 IT 技术大会与开发者聚会视频回放链接汇总清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "hibuz/dev-conf-replay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1166 --> 1168
-    line [1167, 1167]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1165 --> 1168
+    line [1167, 1166]
 ```
 
-2026-10-18 1,167 → 2026-10-30 1,167（+0）
+2026-10-18 1,167 → 2026-10-31 1,166（-1）
 
 
 ---

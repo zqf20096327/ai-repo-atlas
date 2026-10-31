@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-js
 
-⭐ 448 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/elevenlabs-js) · [官网](https://elevenlabs.io) · 组织维护
+⭐ 449 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/elevenlabs/elevenlabs-js) · [官网](https://elevenlabs.io) · 组织维护
 
 **ElevenLabs 官方 Node.js SDK：接入其文本转语音与语音 Agent API**
 
@@ -44,13 +44,13 @@ ElevenLabs 官方 TypeScript/Node SDK，封装其 HTTP API：文本转语音（�
 
 ```mermaid
 xychart-beta
-    title "elevenlabs/elevenlabs-js 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 445 --> 449
-    line [446, 447, 446, 447, 448]
+    title "elevenlabs/elevenlabs-js 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 445 --> 450
+    line [446, 447, 446, 447, 448, 449]
 ```
 
-2026-10-18 446 → 2026-10-30 448（+2）
+2026-10-18 446 → 2026-10-31 449（+3）
 
 
 ---

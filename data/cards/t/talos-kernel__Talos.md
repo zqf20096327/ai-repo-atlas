@@ -1,0 +1,58 @@
+# talos-kernel/Talos
+
+⭐ 14 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/talos-kernel/Talos) · [官网](https://talos-agent.ch) · 组织维护
+
+**自托管 AI agent：以确定性权限内核约束终端/Telegram 上的模型操作**
+
+Talos 是面向 macOS/Linux（含树莓派）的自托管 AI agent，通过终端与 Telegram 交互，可搜索、写文件、运行工具。核心机制是确定性权限内核：模型只能提议，每个副作用需绑定精确参数的一次性 30 秒令牌授权，shell 强制沙箱（Linux bubblewrap / macOS sandbox-exec），并有只追加审计日志。支持本地 Ollama、Claude Code CLI 或 API key 接入模型。当前为 release candidate 阶段；不防御恶意模型，非多租户边界。安装需 Python 3.11+，git clone 源码或安装脚本/Homebrew CLI。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | `idea` | |
+
+## 能力要点
+
+- 权限令牌绑定精确参数，一次性、30 秒有效，原始 runner 无令牌不可达
+- shell 强制沙箱（bubblewrap/sandbox-exec），无沙箱则拒绝执行
+- 277 个对抗场景在每次变更时运行（redteam.py）
+- faster-whisper 本地转写、piper 离线语音、只读浏览器等本地能力
+
+## 适用场景
+
+- 在自有硬件上跑带权限审批的终端/Telegram AI 助手
+- 让 agent 执行 shell 与文件操作但保留逐项审批与审计
+- 树莓派等本地设备上运行 local-first 的私人 agent
+
+## 场景标签
+
+`AI 助手` · 领域:对话与助手
+
+## 证据(README 行号)
+
+> L24: Talos is an **open-source, self-hosted AI agent for terminal and Telegram** on macOS
+> L26: the Claude Code CLI, or a configured API provider. Talos searches, writes and runs
+> L27: tools — but only after a deterministic permission kernel has ruled on the action.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "talos-kernel/Talos 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14, 14]
+```
+
+2026-10-18 11 → 2026-10-31 14（+3）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 mid · 依据 README sha `4f9a5d3e027d` · [字段定义](../../DATASET.md)*

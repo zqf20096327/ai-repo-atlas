@@ -46,13 +46,13 @@ GitHub Copilot CLI 的插件，以多 agent 编排（orchestrator→coordinator�
 
 ```mermaid
 xychart-beta
-    title "microsoft/github-copilot-modernization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    title "microsoft/github-copilot-modernization 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 52 --> 56
-    line [53, 54, 55]
+    line [53, 54, 55, 55]
 ```
 
-2026-10-18 53 → 2026-10-30 55（+2）
+2026-10-18 53 → 2026-10-31 55（+2）
 
 
 ---

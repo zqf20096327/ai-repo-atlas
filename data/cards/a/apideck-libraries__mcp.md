@@ -1,6 +1,6 @@
 # apideck-libraries/mcp
 
-⭐ 20 · Dockerfile · MIT · 推送 2026-10-22 · [GitHub](https://github.com/apideck-libraries/mcp) · [官网](https://mcp.apideck.dev/mcp) · 组织维护
+⭐ 20 · Dockerfile · MIT · 推送 2026-10-30 · [GitHub](https://github.com/apideck-libraries/mcp) · [官网](https://mcp.apideck.dev/mcp) · 组织维护
 
 **连接 200+ SaaS 连接器的 Apideck MCP 服务器，供 agent 调用**
 
@@ -45,12 +45,12 @@ Apideck Unified API 的 Model Context Protocol 服务器：向任意 MCP 兼容 
 ```mermaid
 xychart-beta
     title "apideck-libraries/mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

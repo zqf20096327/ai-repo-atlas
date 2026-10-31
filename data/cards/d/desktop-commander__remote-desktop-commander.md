@@ -1,6 +1,6 @@
 # desktop-commander/remote-desktop-commander
 
-⭐ 201 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/desktop-commander/remote-desktop-commander) · [官网](https://mcp.desktopcommander.app) · 组织维护
+⭐ 203 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/desktop-commander/remote-desktop-commander) · [官网](https://mcp.desktopcommander.app) · 组织维护
 
 **远程 MCP 服务器：让 AI 应用经 OAuth 控制你的电脑**
 
@@ -43,13 +43,13 @@ Desktop Commander 的官方远程 MCP 服务器（托管服务，非开源），
 
 ```mermaid
 xychart-beta
-    title "desktop-commander/remote-desktop-commander 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 173 --> 203
-    line [175, 181, 187, 189, 190, 191, 192, 193, 196, 199, 201]
+    title "desktop-commander/remote-desktop-commander 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 173 --> 205
+    line [175, 181, 187, 189, 190, 191, 192, 193, 196, 199, 201, 203]
 ```
 
-2026-10-18 175 → 2026-10-30 201（+26）
+2026-10-18 175 → 2026-10-31 203（+28）
 
 
 ---

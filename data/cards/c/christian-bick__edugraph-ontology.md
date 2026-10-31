@@ -1,6 +1,6 @@
 # christian-bick/edugraph-ontology
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/christian-bick/edugraph-ontology) · [官网](https://www.edugraph.io) · 组织维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/christian-bick/edugraph-ontology) · [官网](https://www.edugraph.io) · 组织维护
 
 **开放教育能力本体：用可互操作术语标注学习内容**
 
@@ -45,12 +45,12 @@ EduGraph 是一个描述学习内容的开放能力本体，聚焦中小学教�
 ```mermaid
 xychart-beta
     title "christian-bick/edugraph-ontology 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

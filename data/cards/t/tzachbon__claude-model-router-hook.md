@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tzachbon/claude-model-router-hook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "tzachbon/claude-model-router-hook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 104 --> 107
-    line [105, 106]
+    line [105, 106, 106]
 ```
 
-2026-10-18 105 → 2026-10-30 106（+1）
+2026-10-18 105 → 2026-10-31 106（+1）
 
 
 ---

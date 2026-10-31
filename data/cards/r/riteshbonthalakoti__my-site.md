@@ -45,12 +45,12 @@ Ritesh Bonthalakoti 的个人作品集网站，以技术专著（monograph）的
 ```mermaid
 xychart-beta
     title "riteshbonthalakoti/my-site 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-23", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-10-30 19（+0）
+2026-10-23 19 → 2026-10-31 19（+0）
 
 
 ---

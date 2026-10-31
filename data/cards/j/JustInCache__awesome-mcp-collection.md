@@ -1,6 +1,6 @@
 # JustInCache/awesome-mcp-collection
 
-⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JustInCache/awesome-mcp-collection) · [官网](https://github.com/JustInCache/awesome-mcp-collection) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/JustInCache/awesome-mcp-collection) · [官网](https://github.com/JustInCache/awesome-mcp-collection) · 个人维护
 
 **MCP 服务器策展清单：按类别/技术栈组织并附配置**
 
@@ -45,12 +45,12 @@ Model Context Protocol 服务器的策展清单：收录官方参考实现与社
 ```mermaid
 xychart-beta
     title "JustInCache/awesome-mcp-collection 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 14 --> 19
     line [15, 16, 17, 18, 18]
 ```
 
-2026-10-18 15 → 2026-10-30 18（+3）
+2026-10-18 15 → 2026-10-31 18（+3）
 
 
 ---

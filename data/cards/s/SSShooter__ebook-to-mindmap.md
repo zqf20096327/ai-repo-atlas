@@ -1,6 +1,6 @@
 # SSShooter/ebook-to-mindmap
 
-⭐ 1,396 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SSShooter/ebook-to-mindmap) · [官网](https://app.mind-elixir.com/ebook-to-mindmap) · 个人维护 · 中文 README
+⭐ 1,397 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SSShooter/ebook-to-mindmap) · [官网](https://app.mind-elixir.com/ebook-to-mindmap) · 个人维护 · 中文 README
 
 **把 EPUB/PDF 电子书转成 AI 总结与思维导图的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SSShooter/ebook-to-mindmap 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1327 --> 1402
-    line [1333, 1348, 1374, 1386, 1385, 1387, 1391, 1392, 1393, 1395, 1396]
+    title "SSShooter/ebook-to-mindmap 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1327 --> 1403
+    line [1333, 1348, 1374, 1386, 1385, 1387, 1391, 1392, 1393, 1395, 1396, 1397]
 ```
 
-2026-10-18 1,333 → 2026-10-30 1,396（+63）
+2026-10-18 1,333 → 2026-10-31 1,397（+64）
 
 
 ---

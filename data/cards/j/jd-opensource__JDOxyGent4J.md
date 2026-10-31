@@ -45,12 +45,12 @@ OxyGent 的 Java 版本，将 Agent/LLM/Tool 统一为可组合的 Oxy 组件，
 ```mermaid
 xychart-beta
     title "jd-opensource/JDOxyGent4J 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-18 107 → 2026-10-30 107（+0）
+2026-10-18 107 → 2026-10-31 107（+0）
 
 
 ---

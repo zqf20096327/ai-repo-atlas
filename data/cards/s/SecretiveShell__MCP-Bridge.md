@@ -1,6 +1,6 @@
 # SecretiveShell/MCP-Bridge
 
-⭐ 923 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/SecretiveShell/MCP-Bridge) · 个人维护
+⭐ 922 · Python · MIT · 推送 2025-12-08 · [GitHub](https://github.com/SecretiveShell/MCP-Bridge) · 个人维护
 
 **中间件：为 OpenAI 兼容端点接入 MCP 工具调用**
 
@@ -45,12 +45,12 @@ MCP-Bridge 部署在 OpenAI API 客户端与推理引擎之间：将请求改写
 ```mermaid
 xychart-beta
     title "SecretiveShell/MCP-Bridge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 922 --> 925
-    line [924, 923, 923]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 921 --> 925
+    line [924, 923, 922]
 ```
 
-2026-10-18 924 → 2026-10-30 923（-1）
+2026-10-18 924 → 2026-10-31 922（-2）
 
 
 ---

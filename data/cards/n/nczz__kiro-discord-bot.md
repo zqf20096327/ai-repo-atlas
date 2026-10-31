@@ -1,6 +1,6 @@
 # nczz/kiro-discord-bot
 
-⭐ 44 · Go · MIT · 推送 2026-10-13 · [GitHub](https://github.com/nczz/kiro-discord-bot) · [官网](https://nczz.github.io/kiro-discord-bot/) · 个人维护
+⭐ 44 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nczz/kiro-discord-bot) · [官网](https://nczz.github.io/kiro-discord-bot/) · 个人维护
 
 **把 Discord 频道接入项目绑定 ACP 编程代理的控制平面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nczz/kiro-discord-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuniko-software/minecraft-mcp-server
 
-⭐ 799 · TypeScript · Apache-2.0 · 推送 2026-04-04 · [GitHub](https://github.com/yuniko-software/minecraft-mcp-server) · [官网](https://yuniko.software/mcp-server/) · 组织维护
+⭐ 801 · TypeScript · Apache-2.0 · 推送 2026-04-04 · [GitHub](https://github.com/yuniko-software/minecraft-mcp-server) · [官网](https://yuniko.software/mcp-server/) · 组织维护
 
 **MCP 服务器：让 Claude 等 AI 通过自然语言控制 Minecraft 角色**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuniko-software/minecraft-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 782 --> 800
-    line [783, 787, 790, 791, 793, 797, 799, 799]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 782 --> 802
+    line [783, 787, 790, 791, 793, 797, 799, 801]
 ```
 
-2026-10-18 783 → 2026-10-30 799（+16）
+2026-10-18 783 → 2026-10-31 801（+18）
 
 
 ---

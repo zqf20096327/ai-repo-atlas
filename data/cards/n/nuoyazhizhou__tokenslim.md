@@ -1,6 +1,6 @@
 # nuoyazhizhou/tokenslim
 
-⭐ 26 · Rust · MIT · 推送 2026-09-11 · [GitHub](https://github.com/nuoyazhizhou/tokenslim) · [官网](https://www.npmjs.com/package/tokenslim) · 个人维护 · 中文 README
+⭐ 25 · Rust · MIT · 推送 2026-09-11 · [GitHub](https://github.com/nuoyazhizhou/tokenslim) · [官网](https://www.npmjs.com/package/tokenslim) · 个人维护 · 中文 README
 
 **面向 LLM 输入的 Rust token 压缩引擎，含 CLI/服务器/SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nuoyazhizhou/tokenslim 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [26, 25]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 25（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # secmate-ai/CyberSecurity-MCPs
 
-⭐ 16 · JavaScript · 推送 2026-02-04 · [GitHub](https://github.com/secmate-ai/CyberSecurity-MCPs) · 组织维护 · 中文 README
+⭐ 17 · JavaScript · 推送 2026-02-04 · [GitHub](https://github.com/secmate-ai/CyberSecurity-MCPs) · 组织维护 · 中文 README
 
 **面向网络安全领域的 9 个 MCP 服务器集合，供 AI 助手调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "secmate-ai/CyberSecurity-MCPs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

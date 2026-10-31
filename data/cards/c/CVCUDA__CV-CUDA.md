@@ -1,6 +1,6 @@
 # CVCUDA/CV-CUDA
 
-⭐ 2,730 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/CVCUDA/CV-CUDA) · [官网](https://cvcuda.github.io) · 组织维护 · 中文 README
+⭐ 2,731 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/CVCUDA/CV-CUDA) · [官网](https://cvcuda.github.io) · 组织维护 · 中文 README
 
 **GPU 加速的计算机视觉算子库：为 AI 流水线做高速图像/视频处理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CVCUDA/CV-CUDA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 2728 --> 2732
-    line [2729, 2731, 2730, 2730]
+    line [2729, 2731, 2730, 2731]
 ```
 
-2026-10-18 2,729 → 2026-10-30 2,730（+1）
+2026-10-18 2,729 → 2026-10-31 2,731（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # intel/intel-ai-builder
 
-⭐ 259 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/intel/intel-ai-builder) · 组织维护
+⭐ 259 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/intel/intel-ai-builder) · 组织维护
 
 **Intel 的 Gen-AI 参考设计平台，含本地优先 Agent 方案 SuperClaw**
 
@@ -46,12 +46,12 @@ Intel 官方的 Gen-AI 参考设计平台，面向定制行业 AI 助手与 Agen
 ```mermaid
 xychart-beta
     title "intel/intel-ai-builder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
     y-axis "stars" 256 --> 260
     line [257, 258, 259, 259]
 ```
 
-2026-10-18 257 → 2026-10-30 259（+2）
+2026-10-18 257 → 2026-10-31 259（+2）
 
 
 ---

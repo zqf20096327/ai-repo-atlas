@@ -1,6 +1,6 @@
 # ustc-ai4science/PaperArena
 
-⭐ 18 · Python · 推送 2025-11-03 · [GitHub](https://github.com/ustc-ai4science/PaperArena) · [官网](https://paperarena-ai.github.io/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **科学文献工具增强 agent 的评测基准与平台**
 

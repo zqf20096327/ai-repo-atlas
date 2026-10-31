@@ -1,6 +1,6 @@
 # Mitchell-Mirano/sorix
 
-⭐ 18 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Mitchell-Mirano/sorix) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Mitchell-Mirano/sorix) · 个人维护
 
 **基于 NumPy/CuPy 的轻量深度学习库，PyTorch 风格 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mitchell-Mirano/sorix 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Open Memory Protocol Initiative（OMPI）由 AI Disclosures Project 主办、IBM
 ```mermaid
 xychart-beta
     title "The-AI-Disclosures-Project/Open-Memory-Protocol 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-29 25 → 2026-10-30 25（+0）
+2026-10-29 25 → 2026-10-31 25（+0）
 
 
 ---

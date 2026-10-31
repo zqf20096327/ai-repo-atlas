@@ -45,13 +45,13 @@ Rust 编写、CLI 与 Web UI 双形态的 LLM token 流查看/拦截工具：自
 
 ```mermaid
 xychart-beta
-    title "Mattbusel/Every-Other-Token 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Mattbusel/Every-Other-Token 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 25 --> 28
-    line [26, 27]
+    line [26, 27, 27]
 ```
 
-2026-10-18 26 → 2026-10-30 27（+1）
+2026-10-18 26 → 2026-10-31 27（+1）
 
 
 ---

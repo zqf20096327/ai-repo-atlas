@@ -1,6 +1,6 @@
 # qualcomm/ai-hub-models
 
-⭐ 1,244 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/qualcomm/ai-hub-models) · [官网](https://aihub.qualcomm.com/models) · 组织维护
+⭐ 1,244 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/qualcomm/ai-hub-models) · [官网](https://aihub.qualcomm.com/models) · 组织维护
 
 **Qualcomm 设备用的优化模型库：浏览、导出并部署 ML 模型**
 
@@ -45,13 +45,13 @@ Qualcomm 维护的机器学习模型集合与配套 Python CLI：收录生成式
 
 ```mermaid
 xychart-beta
-    title "qualcomm/ai-hub-models 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "qualcomm/ai-hub-models 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1228 --> 1245
-    line [1229, 1230, 1233, 1234, 1235, 1239, 1241, 1243, 1244]
+    line [1229, 1230, 1233, 1234, 1235, 1239, 1241, 1243, 1244, 1244]
 ```
 
-2026-10-18 1,229 → 2026-10-30 1,244（+15）
+2026-10-18 1,229 → 2026-10-31 1,244（+15）
 
 
 ---

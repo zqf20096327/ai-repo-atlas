@@ -1,6 +1,6 @@
 # huggingface/smolagents
 
-⭐ 30,136 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
+⭐ 30,149 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
 
 **面向开发者的极简 Agent 库：以代码片段作为行动形式**
 
@@ -51,13 +51,13 @@ Hugging Face 维护的 Python Agent 库，核心是 CodeAgent——LLM 以 Pytho
 
 ```mermaid
 xychart-beta
-    title "huggingface/smolagents 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 29871 --> 30160
-    line [29895, 29931, 29960, 29989, 30014, 30029, 30046, 30078, 30099, 30122, 30136]
+    title "huggingface/smolagents 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 29870 --> 30174
+    line [29895, 29931, 29960, 29989, 30014, 30029, 30046, 30078, 30099, 30122, 30136, 30149]
 ```
 
-2026-10-18 29,895 → 2026-10-30 30,136（+241）
+2026-10-18 29,895 → 2026-10-31 30,149（+254）
 
 
 ---

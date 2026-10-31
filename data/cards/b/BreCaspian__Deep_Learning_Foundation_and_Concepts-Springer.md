@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    title "BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 116 --> 122
-    line [117, 118, 119, 120, 121]
+    line [117, 118, 119, 120, 121, 121]
 ```
 
-2026-10-18 117 → 2026-10-30 121（+4）
+2026-10-18 117 → 2026-10-31 121（+4）
 
 
 ---

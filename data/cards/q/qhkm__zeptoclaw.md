@@ -1,6 +1,6 @@
 # qhkm/zeptoclaw
 
-⭐ 651 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/qhkm/zeptoclaw) · [官网](https://zeptoclaw.com/) · 组织维护
+⭐ 652 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/qhkm/zeptoclaw) · [官网](https://zeptoclaw.com/) · 组织维护
 
 **单个 Rust 二进制的本地优先个人 AI 助手基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qhkm/zeptoclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 649 --> 652
-    line [651, 650, 651]
+    title "qhkm/zeptoclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 649 --> 653
+    line [651, 650, 651, 652]
 ```
 
-2026-10-18 651 → 2026-10-30 651（+0）
+2026-10-18 651 → 2026-10-31 652（+1）
 
 
 ---

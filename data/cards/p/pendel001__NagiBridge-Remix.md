@@ -1,6 +1,6 @@
 # pendel001/NagiBridge-Remix
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pendel001/NagiBridge-Remix) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/pendel001/NagiBridge-Remix) · 个人维护 · 中文 README
 
 **让外部 AI 通过 MCP 操控星露谷角色的 SMAPI mod + MCP 服务器**
 
@@ -45,13 +45,13 @@ NagiBridge 二改版由两部分组成：装入游戏的 C# SMAPI mod（在 :784
 
 ```mermaid
 xychart-beta
-    title "pendel001/NagiBridge-Remix 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 3 --> 22
-    line [4, 7, 8, 14, 15, 16, 18, 21]
+    title "pendel001/NagiBridge-Remix 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3 --> 23
+    line [4, 7, 8, 14, 15, 16, 18, 21, 22]
 ```
 
-2026-10-18 4 → 2026-10-30 21（+17）
+2026-10-18 4 → 2026-10-31 22（+18）
 
 
 ---

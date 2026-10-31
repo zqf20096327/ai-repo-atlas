@@ -1,6 +1,6 @@
 # SCIR-HI/Huatuo-Llama-Med-Chinese
 
-⭐ 5,000 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) · 组织维护 · 中文 README
+⭐ 4,999 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) · 组织维护 · 中文 README
 
 **中文医学指令微调大模型集（本草/华驼），供医学问答研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SCIR-HI/Huatuo-Llama-Med-Chinese 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 4999 --> 5004
-    line [5001, 5003, 5002, 5000]
+    title "SCIR-HI/Huatuo-Llama-Med-Chinese 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4998 --> 5004
+    line [5001, 5003, 5002, 5000, 4999]
 ```
 
-2026-10-18 5,001 → 2026-10-30 5,000（-1）
+2026-10-18 5,001 → 2026-10-31 4,999（-2）
 
 
 ---

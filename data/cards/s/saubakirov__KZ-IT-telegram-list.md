@@ -1,6 +1,6 @@
 # saubakirov/KZ-IT-telegram-list
 
-⭐ 146 · Python · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/saubakirov/KZ-IT-telegram-list) · [官网](https://saubakirov.github.io/KZ-IT-telegram-list/) · 个人维护
+⭐ 147 · Python · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/saubakirov/KZ-IT-telegram-list) · [官网](https://saubakirov.github.io/KZ-IT-telegram-list/) · 个人维护
 
 **哈萨克斯坦 IT 与创业 Telegram 社区名录（42群·36频道·4机器人）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "saubakirov/KZ-IT-telegram-list 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 145 --> 147
-    line [146, 146]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 145 --> 148
+    line [146, 147]
 ```
 
-2026-10-18 146 → 2026-10-30 146（+0）
+2026-10-18 146 → 2026-10-31 147（+1）
 
 
 ---

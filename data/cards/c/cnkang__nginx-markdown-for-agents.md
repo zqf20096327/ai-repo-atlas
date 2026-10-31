@@ -1,6 +1,6 @@
 # cnkang/nginx-markdown-for-agents
 
-⭐ 25 · Python · BSD-2-Clause · 推送 2026-10-29 · [GitHub](https://github.com/cnkang/nginx-markdown-for-agents) · 个人维护 · 中文 README
+⭐ 25 · Python · BSD-2-Clause · 推送 2026-10-30 · [GitHub](https://github.com/cnkang/nginx-markdown-for-agents) · 个人维护 · 中文 README
 
 **NGINX 模块：通过 Accept 协商向 AI agent 返回 Markdown**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cnkang/nginx-markdown-for-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

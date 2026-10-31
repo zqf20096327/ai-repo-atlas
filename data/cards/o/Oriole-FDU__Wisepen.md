@@ -41,6 +41,18 @@
 > L88: |AI Agent|Beta|支持多轮问答、当前资源问答、站内与互联网检索、网页阅读、文件解析、内容创作和资源读写；Agent 还可以调用 MCP 与自定义工具，并在隔离沙箱中执行 Shell 和代码任务。|
 > L21: 可以把 WisePen 理解为面向高校的 **“开源 Notion + 在线化、面向知识工作的 OpenCode”**：Notion 式知识空间负责内容组织与团队协作，Work Agent 则在权限边界内读取资源、调用 Skill
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Oriole-FDU/Wisepen 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 121 --> 123
+    line [122, 122]
+```
+
+2026-10-30 122 → 2026-10-31 122（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `c703d603cdcd` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ LucaVirus 是面向病毒序列的统一核酸-蛋白语言模型，基于 LucaO
 
 ```mermaid
 xychart-beta
-    title "LucaOne/LucaVirus 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "LucaOne/LucaVirus 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 80 --> 83
-    line [81, 82]
+    line [81, 82, 82]
 ```
 
-2026-10-18 81 → 2026-10-30 82（+1）
+2026-10-18 81 → 2026-10-31 82（+1）
 
 
 ---

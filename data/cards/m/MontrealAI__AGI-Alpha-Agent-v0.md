@@ -1,6 +1,6 @@
 # MontrealAI/AGI-Alpha-Agent-v0
 
-⭐ 306 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
+⭐ 307 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
 
 **面向开发者的 agentic 工作框架：机会发现到执行与留痕**
 
@@ -46,12 +46,12 @@ Montreal.AI 旗舰仓库，围绕 'Find your Alpha → Build SUCCESSOR Ω' 的�
 ```mermaid
 xychart-beta
     title "MontrealAI/AGI-Alpha-Agent-v0 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 292 --> 307
-    line [293, 294, 299, 302, 303, 304, 305, 306, 306]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 292 --> 308
+    line [293, 294, 299, 302, 303, 304, 305, 306, 307]
 ```
 
-2026-10-18 293 → 2026-10-30 306（+13）
+2026-10-18 293 → 2026-10-31 307（+14）
 
 
 ---

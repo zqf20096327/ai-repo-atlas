@@ -1,6 +1,6 @@
 # aksika/abmind
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/aksika/abmind) · [官网](https://aksika.github.io/) · 个人维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/aksika/abmind) · [官网](https://aksika.github.io/) · 个人维护
 
 **面向 AI agent 的持久记忆与 RAG 引擎：存储、召回、整理、遗忘**
 
@@ -47,12 +47,12 @@ SQLite 存储的 agent 记忆系统，提供 4 层召回（FTS5 全文检索、t
 ```mermaid
 xychart-beta
     title "aksika/abmind 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

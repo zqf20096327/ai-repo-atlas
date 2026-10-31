@@ -46,12 +46,12 @@ Manifesto 是一个语义操作层 TypeScript 框架：应用以声明式方式�
 ```mermaid
 xychart-beta
     title "manifesto-ai/core-legacy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

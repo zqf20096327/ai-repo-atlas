@@ -1,6 +1,6 @@
 # nette/agent-plugins
 
-⭐ 46 · PHP · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nette/agent-plugins) · [官网](https://ai.nette.org/en/agent-plugins) · 组织维护
+⭐ 46 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nette/agent-plugins) · [官网](https://ai.nette.org/en/agent-plugins) · 组织维护
 
 **面向 Claude Code 与 Codex 的 Nette 框架开发插件集**
 
@@ -46,12 +46,12 @@ Nette 官方为 Claude Code 和 Codex 提供的插件包，两客户端共用同
 ```mermaid
 xychart-beta
     title "nette/agent-plugins 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-30 46（+1）
+2026-10-18 45 → 2026-10-31 46（+1）
 
 
 ---

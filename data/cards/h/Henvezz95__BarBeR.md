@@ -1,6 +1,6 @@
 # Henvezz95/BarBeR
 
-⭐ 33 · C++ · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/Henvezz95/BarBeR) · 组织维护
+⭐ 34 · C++ · AGPL-3.0 · 推送 2025-11-25 · [GitHub](https://github.com/Henvezz95/BarBeR) · 组织维护
 
 **1D/2D 条码定位算法的基准测试仓库与工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Henvezz95/BarBeR 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-18 32 → 2026-10-30 33（+1）
+2026-10-18 32 → 2026-10-31 34（+2）
 
 
 ---

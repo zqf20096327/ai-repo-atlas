@@ -45,13 +45,13 @@ Kotlin/Jetpack Compose 编写的 Android 客户端：用户以语音或文字描
 
 ```mermaid
 xychart-beta
-    title "vvtech-ai/PhoneAgent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "vvtech-ai/PhoneAgent 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 30 --> 34
-    line [31, 32, 33]
+    line [31, 32, 33, 33]
 ```
 
-2026-10-18 31 → 2026-10-30 33（+2）
+2026-10-18 31 → 2026-10-31 33（+2）
 
 
 ---

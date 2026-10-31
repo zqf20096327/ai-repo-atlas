@@ -1,6 +1,6 @@
 # lavinal712/AutoencoderKL
 
-⭐ 92 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/lavinal712/AutoencoderKL) · 个人维护 · 中文 README
+⭐ 92 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lavinal712/AutoencoderKL) · 个人维护 · 中文 README
 
 **训练/微调/评测 Stable Diffusion 与 FLUX VAE 的 PyTorch Lightning 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lavinal712/AutoencoderKL 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-18 92 → 2026-10-30 92（+0）
+2026-10-18 92 → 2026-10-31 92（+0）
 
 
 ---

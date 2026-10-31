@@ -1,6 +1,6 @@
 # nutriandrea/adobe-indesign-mcp
 
-⭐ 39 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nutriandrea/adobe-indesign-mcp) · [官网](https://github.com/nutriandrea/adobe-indesign-mcp) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/nutriandrea/adobe-indesign-mcp) · [官网](https://github.com/nutriandrea/adobe-indesign-mcp) · 个人维护
 
 **让 AI agent 通过自然语言驱动 Adobe InDesign 排版的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nutriandrea/adobe-indesign-mcp 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 27 --> 40
-    line [28, 30, 34, 35, 36, 37, 38, 39]
+    title "nutriandrea/adobe-indesign-mcp 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 27 --> 41
+    line [28, 30, 34, 35, 36, 37, 38, 39, 40]
 ```
 
-2026-10-18 28 → 2026-10-30 39（+11）
+2026-10-18 28 → 2026-10-31 40（+12）
 
 
 ---

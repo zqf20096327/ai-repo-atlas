@@ -1,6 +1,6 @@
 # bansky-cl/diffusion-nlp-paper-arxiv
 
-⭐ 317 · Python · 推送 2026-10-29 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
+⭐ 317 · Python · 推送 2026-10-30 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
 
 **自动抓取 arXiv 扩散 NLP 论文的月度追踪清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bansky-cl/diffusion-nlp-paper-arxiv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 315 --> 318
     line [316, 317, 317]
 ```
 
-2026-10-18 316 → 2026-10-30 317（+1）
+2026-10-18 316 → 2026-10-31 317（+1）
 
 
 ---

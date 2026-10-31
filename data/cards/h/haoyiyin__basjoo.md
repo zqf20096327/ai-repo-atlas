@@ -1,6 +1,6 @@
 # haoyiyin/basjoo
 
-⭐ 164 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/haoyiyin/basjoo) · [官网](https://basjoo.de) · 个人维护 · 中文 README
+⭐ 164 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/haoyiyin/basjoo) · [官网](https://basjoo.de) · 个人维护 · 中文 README
 
 **面向客服场景的开源 AI 客服平台：RAG 知识库+多供应商 LLM+可嵌入聊天挂件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haoyiyin/basjoo 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 161 --> 165
     line [162, 163, 164, 164]
 ```
 
-2026-10-18 162 → 2026-10-30 164（+2）
+2026-10-18 162 → 2026-10-31 164（+2）
 
 
 ---

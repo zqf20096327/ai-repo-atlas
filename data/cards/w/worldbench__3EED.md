@@ -45,12 +45,12 @@ NeurIPS 2025 Dataset & Benchmark Track 论文 3EED 的官方仓库：发布首�
 ```mermaid
 xychart-beta
     title "worldbench/3EED 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-18 212 → 2026-10-30 212（+0）
+2026-10-18 212 → 2026-10-31 212（+0）
 
 
 ---

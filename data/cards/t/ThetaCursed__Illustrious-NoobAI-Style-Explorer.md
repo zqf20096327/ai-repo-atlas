@@ -1,6 +1,6 @@
 # ThetaCursed/Illustrious-NoobAI-Style-Explorer
 
-⭐ 90 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/ThetaCursed/Illustrious-NoobAI-Style-Explorer) · [官网](https://xlstyles.thetacursed.com/) · 个人维护
+⭐ 91 · JavaScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/ThetaCursed/Illustrious-NoobAI-Style-Explorer) · [官网](https://xlstyles.thetacursed.com/) · 个人维护
 
 **面向 Illustrious XL/NoobAI-XL 用户的 16,000+ 画师风格视觉参考库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThetaCursed/Illustrious-NoobAI-Style-Explorer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 90]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 91]
 ```
 
-2026-10-18 89 → 2026-10-30 90（+1）
+2026-10-18 89 → 2026-10-31 91（+2）
 
 
 ---

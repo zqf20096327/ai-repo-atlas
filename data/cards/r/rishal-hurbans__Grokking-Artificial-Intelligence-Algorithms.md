@@ -46,12 +46,12 @@ Manning 出版书籍《Grokking Artificial Intelligence Algorithms》（作者 R
 ```mermaid
 xychart-beta
     title "rishal-hurbans/Grokking-Artificial-Intelligence-Algorithms 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 433 --> 440
     line [434, 435, 436, 437, 438, 439, 439]
 ```
 
-2026-10-18 434 → 2026-10-30 439（+5）
+2026-10-18 434 → 2026-10-31 439（+5）
 
 
 ---

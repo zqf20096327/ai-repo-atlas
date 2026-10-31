@@ -1,6 +1,6 @@
 # TarsLab/obsidian-tars
 
-⭐ 333 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/TarsLab/obsidian-tars) · 个人维护 · 中文 README
+⭐ 334 · TypeScript · MIT · 推送 2026-08-28 · [GitHub](https://github.com/TarsLab/obsidian-tars) · 个人维护 · 中文 README
 
 **Obsidian 标签触发多模型对话插件：#标签即问 AI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TarsLab/obsidian-tars 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 330 --> 335
-    line [331, 332, 334, 333, 333]
+    line [331, 332, 334, 333, 334]
 ```
 
-2026-10-18 331 → 2026-10-30 333（+2）
+2026-10-18 331 → 2026-10-31 334（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # runpod-workers/worker-vllm
 
-⭐ 474 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/runpod-workers/worker-vllm) · 组织维护
+⭐ 474 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/runpod-workers/worker-vllm) · 组织维护
 
 **在 Runpod Serverless 上部署 vLLM 推理端点的 worker 模板**
 
@@ -46,12 +46,12 @@ Runpod 官方 worker 模板，将 vLLM 推理引擎封装为 OpenAI 兼容的 Se
 ```mermaid
 xychart-beta
     title "runpod-workers/worker-vllm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 471 --> 475
     line [472, 473, 474, 474]
 ```
 
-2026-10-18 472 → 2026-10-30 474（+2）
+2026-10-18 472 → 2026-10-31 474（+2）
 
 
 ---

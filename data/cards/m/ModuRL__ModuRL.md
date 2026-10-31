@@ -1,6 +1,6 @@
 # ModuRL/ModuRL
 
-⭐ 29 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ModuRL/ModuRL) · [官网](https://modurl.github.io/ModuRL/) · 组织维护
+⭐ 31 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ModuRL/ModuRL) · [官网](https://modurl.github.io/ModuRL/) · 组织维护
 
 **面向 Rust 的深度强化学习框架，提供训练与环境集成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ModuRL/ModuRL 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 23 --> 30
-    line [24, 28, 29]
+    title "ModuRL/ModuRL 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 23 --> 32
+    line [24, 28, 29, 31]
 ```
 
-2026-10-18 24 → 2026-10-30 29（+5）
+2026-10-18 24 → 2026-10-31 31（+7）
 
 
 ---

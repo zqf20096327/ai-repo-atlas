@@ -1,6 +1,6 @@
 # tsensei/OpenReels
 
-⭐ 225 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/tsensei/OpenReels) · [官网](http://openreels.tsensei.dev/) · 个人维护
+⭐ 226 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/tsensei/OpenReels) · [官网](http://openreels.tsensei.dev/) · 个人维护
 
 **一条命令把任意主题生成为可发布的竖屏短视频的 AI 流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tsensei/OpenReels 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 216 --> 226
-    line [217, 218, 221, 223, 225, 225]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 216 --> 227
+    line [217, 218, 221, 223, 225, 226]
 ```
 
-2026-10-18 217 → 2026-10-30 225（+8）
+2026-10-18 217 → 2026-10-31 226（+9）
 
 
 ---

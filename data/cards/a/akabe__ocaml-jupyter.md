@@ -45,12 +45,12 @@ OCaml Jupyter 是一个 Jupyter notebook 内核，将 OCaml REPL 接入 Jupyter 
 ```mermaid
 xychart-beta
     title "akabe/ocaml-jupyter 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 318 --> 320
     line [319, 319]
 ```
 
-2026-10-18 319 → 2026-10-30 319（+0）
+2026-10-18 319 → 2026-10-31 319（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # coder/hnsw
 
-⭐ 241 · Go · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/coder/hnsw) · 组织维护
+⭐ 242 · Go · CC0-1.0 · 推送 2026-06-22 · [GitHub](https://github.com/coder/hnsw) · 组织维护
 
 **Go 语言的内存态 HNSW 向量索引库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coder/hnsw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 239 --> 242
-    line [240, 241, 241]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 239 --> 243
+    line [240, 241, 242]
 ```
 
-2026-10-18 240 → 2026-10-30 241（+1）
+2026-10-18 240 → 2026-10-31 242（+2）
 
 
 ---

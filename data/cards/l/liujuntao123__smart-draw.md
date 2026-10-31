@@ -1,6 +1,6 @@
 # liujuntao123/smart-draw
 
-⭐ 431 · JavaScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/liujuntao123/smart-draw) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
+⭐ 430 · JavaScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/liujuntao123/smart-draw) · [官网](https://ai-draw-nexus.aizhi.site) · 个人维护 · 中文 README
 
 **自然语言生成图表的 Web 应用，支持 Draw.io 与 Excalidraw**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liujuntao123/smart-draw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 430 --> 433
-    line [432, 431, 431]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 429 --> 433
+    line [432, 431, 430]
 ```
 
-2026-10-18 432 → 2026-10-30 431（-1）
+2026-10-18 432 → 2026-10-31 430（-2）
 
 
 ---

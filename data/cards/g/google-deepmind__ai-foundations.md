@@ -1,6 +1,6 @@
 # google-deepmind/ai-foundations
 
-⭐ 323 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/ai-foundations) · 组织维护
+⭐ 327 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/google-deepmind/ai-foundations) · 组织维护
 
 **现代 AI 八门课程配套实验代码库：面向教学**
 
@@ -44,12 +44,12 @@ Google DeepMind 发布的 AI Research Foundations 八门在线课程配套代码
 ```mermaid
 xychart-beta
     title "google-deepmind/ai-foundations 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 319 --> 324
-    line [320, 321, 323, 323]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 319 --> 328
+    line [320, 321, 323, 327]
 ```
 
-2026-10-18 320 → 2026-10-30 323（+3）
+2026-10-18 320 → 2026-10-31 327（+7）
 
 
 ---

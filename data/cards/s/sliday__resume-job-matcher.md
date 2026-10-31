@@ -1,6 +1,6 @@
 # sliday/resume-job-matcher
 
-⭐ 274 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/sliday/resume-job-matcher) · 个人维护
+⭐ 275 · TypeScript · 推送 2026-08-31 · [GitHub](https://github.com/sliday/resume-job-matcher) · 个人维护
 
 **AI 简历筛选 CLI：硬性门槛先淘汰，每项评分引用简历原文**
 
@@ -46,12 +46,12 @@ TypeScript 命令行工具，将一个文件夹内的简历 PDF 与职位描述�
 ```mermaid
 xychart-beta
     title "sliday/resume-job-matcher 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 272 --> 275
-    line [273, 274, 274]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 272 --> 276
+    line [273, 274, 275]
 ```
 
-2026-10-18 273 → 2026-10-30 274（+1）
+2026-10-18 273 → 2026-10-31 275（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # KazKozDev/NovelGenerator
 
-⭐ 156 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KazKozDev/NovelGenerator) · 个人维护
+⭐ 155 · TypeScript · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/KazKozDev/NovelGenerator) · 个人维护
 
 **本地 AI 长篇小说生成器：从一段前提逐章写出全书**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KazKozDev/NovelGenerator 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-31"]
     y-axis "stars" 152 --> 157
-    line [153, 154, 155, 156, 156]
+    line [153, 154, 155, 156, 155]
 ```
 
-2026-10-18 153 → 2026-10-30 156（+3）
+2026-10-18 153 → 2026-10-31 155（+2）
 
 
 ---

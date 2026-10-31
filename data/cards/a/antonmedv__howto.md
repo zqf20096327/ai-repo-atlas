@@ -1,6 +1,6 @@
 # antonmedv/howto
 
-⭐ 122 · Go · MIT · 推送 2026-01-29 · [GitHub](https://github.com/antonmedv/howto) · 个人维护
+⭐ 123 · Go · MIT · 推送 2026-01-29 · [GitHub](https://github.com/antonmedv/howto) · 个人维护
 
 **终端助手：按键调用 LLM 生成并填入正确命令**
 
@@ -45,12 +45,12 @@ Go 编写的终端辅助工具：用户在 shell 中写下不完整或错误的�
 ```mermaid
 xychart-beta
     title "antonmedv/howto 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 120 --> 123
-    line [121, 122, 122]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 120 --> 124
+    line [121, 122, 123]
 ```
 
-2026-10-18 121 → 2026-10-30 122（+1）
+2026-10-18 121 → 2026-10-31 123（+2）
 
 
 ---

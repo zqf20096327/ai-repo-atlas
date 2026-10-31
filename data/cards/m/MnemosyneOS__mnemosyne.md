@@ -1,6 +1,6 @@
 # MnemosyneOS/mnemosyne
 
-⭐ 39 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MnemosyneOS/mnemosyne) · [官网](https://ai-memory.net) · 组织维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MnemosyneOS/mnemosyne) · [官网](https://ai-memory.net) · 组织维护 · 中文 README
 
 **本地优先的 MCP 记忆服务器，供 AI agent 存取长期记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MnemosyneOS/mnemosyne 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-24 38 → 2026-10-30 39（+1）
+2026-10-24 38 → 2026-10-31 39（+1）
 
 
 ---

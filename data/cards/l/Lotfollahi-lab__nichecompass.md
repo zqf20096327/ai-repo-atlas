@@ -1,6 +1,6 @@
 # Lotfollahi-lab/nichecompass
 
-⭐ 133 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/Lotfollahi-lab/nichecompass) · [官网](https://nichecompass.readthedocs.io/) · 组织维护
+⭐ 134 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/Lotfollahi-lab/nichecompass) · [官网](https://nichecompass.readthedocs.io/) · 组织维护
 
 **空间多组学数据端到端分析包：空间图谱构建与微环境识别**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Lotfollahi-lab/nichecompass 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 130 --> 134
-    line [131, 132, 133, 133]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 133, 134]
 ```
 
-2026-10-18 131 → 2026-10-30 133（+2）
+2026-10-18 131 → 2026-10-31 134（+3）
 
 
 ---

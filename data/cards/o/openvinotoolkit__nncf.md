@@ -1,6 +1,6 @@
 # openvinotoolkit/nncf
 
-⭐ 1,215 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openvinotoolkit/nncf) · 组织维护
+⭐ 1,215 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openvinotoolkit/nncf) · 组织维护
 
 **面向 OpenVINO 推理的神经网络压缩框架，服务开发者优化模型**
 
@@ -44,13 +44,13 @@ OpenVINO 工具套件配套的 Python 压缩框架，提供训练后量化、权
 
 ```mermaid
 xychart-beta
-    title "openvinotoolkit/nncf 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "openvinotoolkit/nncf 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1208 --> 1216
-    line [1209, 1211, 1212, 1213, 1215]
+    line [1209, 1211, 1212, 1213, 1215, 1215]
 ```
 
-2026-10-18 1,209 → 2026-10-30 1,215（+6）
+2026-10-18 1,209 → 2026-10-31 1,215（+6）
 
 
 ---

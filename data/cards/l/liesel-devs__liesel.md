@@ -1,6 +1,6 @@
 # liesel-devs/liesel
 
-⭐ 45 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/liesel-devs/liesel) · [官网](https://liesel-project.org) · 组织维护
+⭐ 45 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/liesel-devs/liesel) · [官网](https://liesel-project.org) · 组织维护
 
 **面向半参数回归的概率编程框架，供统计建模与 MCMC 推断**
 
@@ -46,12 +46,12 @@ Python 概率编程框架，含三个部分：Liesel 以概率图模型（PGM）
 ```mermaid
 xychart-beta
     title "liesel-devs/liesel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ronitgupta138/Vectra-Core
 
-⭐ 64 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ronitgupta138/Vectra-Core) · 个人维护
+⭐ 64 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ronitgupta138/Vectra-Core) · 个人维护
 
 **Java 21 实现的内存向量搜索引擎与 HNSW ANN 图索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ronitgupta138/Vectra-Core 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 40 --> 66
     line [42, 43, 64, 64]
 ```
 
-2026-10-18 42 → 2026-10-30 64（+22）
+2026-10-18 42 → 2026-10-31 64（+22）
 
 
 ---

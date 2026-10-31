@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb-server
 
-⭐ 177 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 组织维护
+⭐ 178 · Rust · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 组织维护
 
 **面向 AI agent 的认知记忆数据库：遗忘、合并、矛盾检测**
 
@@ -46,12 +46,12 @@ Rust 编写的记忆数据库，以 Python/Rust 嵌入库、单二进制 HTTP �
 ```mermaid
 xychart-beta
     title "yantrikos/yantrikdb-server 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 175 --> 178
-    line [176, 177, 176, 177, 177]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 175 --> 179
+    line [176, 177, 176, 177, 178]
 ```
 
-2026-10-18 176 → 2026-10-30 177（+1）
+2026-10-18 176 → 2026-10-31 178（+2）
 
 
 ---

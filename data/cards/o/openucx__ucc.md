@@ -1,6 +1,6 @@
 # openucx/ucc
 
-⭐ 319 · C · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/openucx/ucc) · [官网](https://openucx.github.io/ucc/) · 组织维护
+⭐ 320 · C · BSD-3-Clause · 推送 2026-10-26 · [GitHub](https://github.com/openucx/ucc) · [官网](https://openucx.github.io/ucc/) · 组织维护
 
 **面向 HPC/AI/ML 负载的集合通信操作 API 与库**
 
@@ -45,12 +45,12 @@ UCC 提供非阻塞集合通信操作 API 与库，设计目标覆盖高可扩�
 ```mermaid
 xychart-beta
     title "openucx/ucc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 316 --> 320
-    line [317, 318, 319, 319]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 316 --> 321
+    line [317, 318, 319, 320]
 ```
 
-2026-10-18 317 → 2026-10-30 319（+2）
+2026-10-18 317 → 2026-10-31 320（+3）
 
 
 ---

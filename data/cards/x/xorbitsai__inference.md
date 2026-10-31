@@ -1,6 +1,6 @@
 # xorbitsai/inference
 
-⭐ 9,633 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/xorbitsai/inference) · [官网](https://inference.readthedocs.io) · 组织维护 · 中文 README
+⭐ 9,635 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/xorbitsai/inference) · [官网](https://inference.readthedocs.io) · 组织维护 · 中文 README
 
 **统一推理平台：一行命令部署语言/语音/多模态模型**
 
@@ -44,13 +44,13 @@ Xinference（Xorbits Inference）是面向研究人员、开发者与数据科�
 
 ```mermaid
 xychart-beta
-    title "xorbitsai/inference 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 9611 --> 9635
-    line [9613, 9616, 9622, 9623, 9625, 9627, 9629, 9630, 9633]
+    title "xorbitsai/inference 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9611 --> 9637
+    line [9613, 9616, 9622, 9623, 9625, 9627, 9629, 9630, 9633, 9635]
 ```
 
-2026-10-18 9,613 → 2026-10-30 9,633（+20）
+2026-10-18 9,613 → 2026-10-31 9,635（+22）
 
 
 ---

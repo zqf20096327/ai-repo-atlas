@@ -1,6 +1,6 @@
 # IvenKooLab/comfy-agent
 
-⭐ 31 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/IvenKooLab/comfy-agent) · [官网](https://github.com/IvenKooLab/comfy-agent/releases/latest) · 组织维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/IvenKooLab/comfy-agent) · [官网](https://github.com/IvenKooLab/comfy-agent/releases/latest) · 组织维护 · 中文 README
 
 **ComfyUI 本地桌面工作台：创作、模板、模型管理与短剧批量流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IvenKooLab/comfy-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-31"]
     y-axis "stars" 28 --> 32
     line [29, 30, 31, 31]
 ```
 
-2026-10-18 29 → 2026-10-30 31（+2）
+2026-10-18 29 → 2026-10-31 31（+2）
 
 
 ---

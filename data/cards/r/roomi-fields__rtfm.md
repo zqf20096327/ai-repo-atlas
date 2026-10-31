@@ -1,6 +1,6 @@
 # roomi-fields/rtfm
 
-⭐ 27 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/roomi-fields/rtfm) · [官网](https://rtfm.roomi-fields.com/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/roomi-fields/rtfm) · [官网](https://rtfm.roomi-fields.com/) · 个人维护
 
 **给 AI 编程 agent 的本地检索层：索引代码/文档/法律/研究资料并经 MCP 提供上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "roomi-fields/rtfm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 24 --> 28
     line [25, 26, 27, 27]
 ```
 
-2026-10-18 25 → 2026-10-30 27（+2）
+2026-10-18 25 → 2026-10-31 27（+2）
 
 
 ---

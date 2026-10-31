@@ -1,6 +1,6 @@
 # wolfenazz/YzPzCode
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/wolfenazz/YzPzCode) · [官网](www.yzpzcode.site) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/wolfenazz/YzPzCode) · [官网](www.yzpzcode.site) · 个人维护
 
 **面向 AI 编码代理的统一原生工作区：终端网格、扩展、文档与设备窗口集成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wolfenazz/YzPzCode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 17 --> 21
     line [18, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 20（+2）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

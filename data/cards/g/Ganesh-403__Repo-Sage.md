@@ -1,6 +1,6 @@
 # Ganesh-403/Repo-Sage
 
-⭐ 27 · Python · 推送 2026-07-13 · [GitHub](https://github.com/Ganesh-403/Repo-Sage) · 个人维护
+⭐ 26 · Python · 推送 2026-07-13 · [GitHub](https://github.com/Ganesh-403/Repo-Sage) · 个人维护
 
 **面向开发者的本地 Agentic GraphRAG 代码库问答系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ganesh-403/Repo-Sage 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    line [26, 27, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 27（+1）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

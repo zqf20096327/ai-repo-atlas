@@ -1,6 +1,6 @@
 # fuzzylite/fuzzylite
 
-⭐ 328 · C++ · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/fuzzylite/fuzzylite) · [官网](https://fuzzylite.com) · 组织维护
+⭐ 329 · C++ · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/fuzzylite/fuzzylite) · [官网](https://fuzzylite.com) · 组织维护
 
 **C++ 模糊逻辑控制库：设计并运行模糊控制器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fuzzylite/fuzzylite 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 326 --> 329
-    line [327, 328, 328]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 326 --> 330
+    line [327, 328, 329]
 ```
 
-2026-10-18 327 → 2026-10-30 328（+1）
+2026-10-18 327 → 2026-10-31 329（+2）
 
 
 ---

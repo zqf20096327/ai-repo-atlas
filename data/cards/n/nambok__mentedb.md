@@ -1,6 +1,6 @@
 # nambok/mentedb
 
-⭐ 122 · Rust · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/nambok/mentedb) · [官网](https://mentedb.com) · 个人维护
+⭐ 122 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/nambok/mentedb) · [官网](https://mentedb.com) · 个人维护
 
 **面向 AI agent 记忆的 Rust 数据库引擎：存储、检索与上下文预组装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nambok/mentedb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
     y-axis "stars" 118 --> 123
     line [119, 120, 121, 122, 122]
 ```
 
-2026-10-18 119 → 2026-10-30 122（+3）
+2026-10-18 119 → 2026-10-31 122（+3）
 
 
 ---

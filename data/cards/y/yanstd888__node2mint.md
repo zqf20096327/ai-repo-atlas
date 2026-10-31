@@ -41,6 +41,18 @@
 > L62:  OpenAI-Compatible <code>/v1/chat/completions</code>: Serves upstream models to client apps, SDKs, Cursor, and Clin
 > L172: |`POST`|`/v1/chat/completions`|Bearer API Key|OpenAI-compatible chat completions with failover|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yanstd888/node2mint 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
+```
+
+2026-10-30 32 → 2026-10-31 32（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `c9d7b3a792d5` · [字段定义](../../DATASET.md)*

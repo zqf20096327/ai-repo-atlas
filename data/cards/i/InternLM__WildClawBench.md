@@ -1,6 +1,6 @@
 # InternLM/WildClawBench
 
-⭐ 534 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护 · 中文 README
+⭐ 535 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护 · 中文 README
 
 **AI agent 端到端实战基准：60 个真实任务 + 四种 harness 对比评测**
 
@@ -45,13 +45,13 @@ InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw
 
 ```mermaid
 xychart-beta
-    title "InternLM/WildClawBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 530 --> 535
-    line [533, 531, 532, 534]
+    title "InternLM/WildClawBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 530 --> 536
+    line [533, 531, 532, 534, 535]
 ```
 
-2026-10-18 533 → 2026-10-30 534（+1）
+2026-10-18 533 → 2026-10-31 535（+2）
 
 
 ---

@@ -43,12 +43,12 @@ Marmara 大学与 Yıldız Technical 大学课程『生成式 AI 辅助聊天机
 ```mermaid
 xychart-beta
     title "KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-30 62（+0）
+2026-10-18 62 → 2026-10-31 62（+0）
 
 
 ---

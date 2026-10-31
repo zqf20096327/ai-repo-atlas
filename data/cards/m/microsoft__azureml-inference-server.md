@@ -1,6 +1,6 @@
 # microsoft/azureml-inference-server
 
-⭐ 28 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/azureml-inference-server) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/azureml-inference-server) · 组织维护
 
 **微软 AzureML 的推理 HTTP 服务器包，将模型暴露为 HTTP 端点**
 
@@ -43,12 +43,12 @@ azureml-inference-server-http Python 包封装了基于 Flask 或 Sanic 的 HTTP
 ```mermaid
 xychart-beta
     title "microsoft/azureml-inference-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

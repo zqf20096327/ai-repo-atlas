@@ -1,6 +1,6 @@
 # yagudaev/voiceclaw
 
-⭐ 25 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/yagudaev/voiceclaw) · [官网](https://getvoiceclaw.com) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/yagudaev/voiceclaw) · [官网](https://getvoiceclaw.com) · 个人维护
 
 **给已有 AI agent 加实时语音的客户端：手机/桌面对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yagudaev/voiceclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

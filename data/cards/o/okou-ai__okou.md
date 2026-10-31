@@ -1,6 +1,6 @@
 # okou-ai/okou
 
-⭐ 1,162 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/okou-ai/okou) · [官网](https://www.okou.ai) · 组织维护
+⭐ 1,162 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/okou-ai/okou) · [官网](https://www.okou.ai) · 组织维护
 
 **团队工作流 AI agent 平台：接入现有工具代为完成工作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "okou-ai/okou 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1157 --> 1163
     line [1158, 1160, 1161, 1162, 1162]
 ```
 
-2026-10-18 1,158 → 2026-10-30 1,162（+4）
+2026-10-18 1,158 → 2026-10-31 1,162（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ryanpmcintire/nfl_py3
 
-⭐ 16 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ryanpmcintire/nfl_py3) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ryanpmcintire/nfl_py3) · 个人维护
 
 **预测 NFL 让分盘（ATS）胜负的可复现机器学习研究管线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ryanpmcintire/nfl_py3 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

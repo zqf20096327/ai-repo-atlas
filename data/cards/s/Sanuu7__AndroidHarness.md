@@ -1,6 +1,6 @@
 # Sanuu7/AndroidHarness
 
-⭐ 124 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Sanuu7/AndroidHarness) · [官网](https://androidharness.pages.dev/) · 个人维护 · 中文 README
+⭐ 126 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Sanuu7/AndroidHarness) · [官网](https://androidharness.pages.dev/) · 个人维护 · 中文 README
 
 **安卓手机上的 AI 编程 Agent 原生应用，免 Root 免 PC**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sanuu7/AndroidHarness 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 69 --> 129
-    line [74, 76, 82, 85, 90, 96, 99, 106, 112, 117, 124]
+    title "Sanuu7/AndroidHarness 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 69 --> 131
+    line [74, 76, 82, 85, 90, 96, 99, 106, 112, 117, 124, 126]
 ```
 
-2026-10-18 74 → 2026-10-30 124（+50）
+2026-10-18 74 → 2026-10-31 126（+52）
 
 
 ---

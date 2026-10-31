@@ -1,6 +1,6 @@
 # nyaomaru/changelog-bot
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/nyaomaru/changelog-bot) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nyaomaru/changelog-bot) · 个人维护
 
 **用 LLM 从 Git 历史与 PR 自动生成 changelog 的 CLI/GitHub Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nyaomaru/changelog-bot 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 28 --> 33
     line [29, 30, 31, 32, 32]
 ```
 
-2026-10-18 29 → 2026-10-30 32（+3）
+2026-10-18 29 → 2026-10-31 32（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # touchine-ojo/OJO-Design-Skills
 
-⭐ 167 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/touchine-ojo/OJO-Design-Skills) · [官网](https://ojo.art) · 组织维护 · 中文 README
+⭐ 169 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/touchine-ojo/OJO-Design-Skills) · [官网](https://ojo.art) · 组织维护 · 中文 README
 
 **给 AI 编码 agent 的可复用 UI/UX 设计技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "touchine-ojo/OJO-Design-Skills 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 162 --> 168
-    line [163, 164, 165, 164, 165, 166, 167, 167]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 162 --> 170
+    line [163, 164, 165, 164, 165, 166, 167, 169]
 ```
 
-2026-10-18 163 → 2026-10-30 167（+4）
+2026-10-18 163 → 2026-10-31 169（+6）
 
 
 ---

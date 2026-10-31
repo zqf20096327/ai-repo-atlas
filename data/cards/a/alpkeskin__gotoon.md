@@ -45,12 +45,12 @@ TOON（Token-Oriented Object Notation）格式的 Go 实现：将结构体、map
 ```mermaid
 xychart-beta
     title "alpkeskin/gotoon 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 239 --> 242
     line [240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-10-30 241（+1）
+2026-10-18 240 → 2026-10-31 241（+1）
 
 
 ---

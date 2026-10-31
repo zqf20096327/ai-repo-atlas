@@ -1,6 +1,6 @@
 # phanii9/MeowLLM
 
-⭐ 42 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/phanii9/MeowLLM) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/phanii9/MeowLLM) · 个人维护
 
 **从零训练的 3.5M 参数猫咪角色语言模型（含完整训练管线）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phanii9/MeowLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-18 42 → 2026-10-30 42（+0）
+2026-10-18 42 → 2026-10-31 43（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # argoproj-labs/hera
 
-⭐ 947 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/argoproj-labs/hera) · [官网](https://hera.rtfd.io) · 组织维护
+⭐ 947 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/argoproj-labs/hera) · [官网](https://hera.rtfd.io) · 组织维护
 
 **在 Python 中构建与提交 Argo Workflows 的原生 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "argoproj-labs/hera 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
     y-axis "stars" 944 --> 948
     line [945, 946, 947, 947]
 ```
 
-2026-10-18 945 → 2026-10-30 947（+2）
+2026-10-18 945 → 2026-10-31 947（+2）
 
 
 ---

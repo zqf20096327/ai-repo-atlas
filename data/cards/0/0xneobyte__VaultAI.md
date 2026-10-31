@@ -1,6 +1,6 @@
 # 0xneobyte/VaultAI
 
-⭐ 72 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/0xneobyte/VaultAI) · 个人维护
+⭐ 73 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/0xneobyte/VaultAI) · 个人维护
 
 **Obsidian 的 Gemini 聊天插件：笔记摘要、内容生成与全库 RAG 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xneobyte/VaultAI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 71 --> 74
+    line [72, 73]
 ```
 
-2026-10-18 72 → 2026-10-30 72（+0）
+2026-10-18 72 → 2026-10-31 73（+1）
 
 
 ---

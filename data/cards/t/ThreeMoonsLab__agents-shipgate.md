@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThreeMoonsLab/agents-shipgate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "ThreeMoonsLab/agents-shipgate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 87 --> 91
-    line [90, 88]
+    line [90, 88, 88]
 ```
 
-2026-10-18 90 → 2026-10-30 88（-2）
+2026-10-18 90 → 2026-10-31 88（-2）
 
 
 ---

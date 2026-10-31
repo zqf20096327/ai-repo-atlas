@@ -45,12 +45,12 @@ Next.js 16 全栈邮件客户端示例：Better Auth 邮箱密码登录、Nylas 
 ```mermaid
 xychart-beta
     title "TheNeovimmer/AI-Email-SaaS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

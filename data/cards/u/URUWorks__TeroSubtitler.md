@@ -1,6 +1,6 @@
 # URUWorks/TeroSubtitler
 
-⭐ 470 · Pascal · MPL-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/URUWorks/TeroSubtitler) · [官网](https://uruworks.net) · 组织维护
+⭐ 470 · Pascal · MPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/URUWorks/TeroSubtitler) · [官网](https://uruworks.net) · 组织维护
 
 **跨平台开源字幕编辑软件，含自动转录与翻译**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "URUWorks/TeroSubtitler 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 469 --> 473
     line [470, 472, 471, 470, 470]
 ```
 
-2026-10-18 470 → 2026-10-30 470（+0）
+2026-10-18 470 → 2026-10-31 470（+0）
 
 
 ---

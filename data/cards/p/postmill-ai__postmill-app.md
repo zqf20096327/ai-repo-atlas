@@ -1,6 +1,6 @@
 # postmill-ai/postmill-app
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/postmill-ai/postmill-app) · [官网](https://postmill.ai) · 组织维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/postmill-ai/postmill-app) · [官网](https://postmill.ai) · 组织维护
 
 **自托管的多品牌社交媒体管理与排期平台，内嵌 BYOK AI 层**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "postmill-ai/postmill-app 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "postmill-ai/postmill-app 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 23 --> 32
-    line [24, 26, 27, 28, 29, 31]
+    line [24, 26, 27, 28, 29, 31, 31]
 ```
 
-2026-10-18 24 → 2026-10-30 31（+7）
+2026-10-18 24 → 2026-10-31 31（+7）
 
 
 ---

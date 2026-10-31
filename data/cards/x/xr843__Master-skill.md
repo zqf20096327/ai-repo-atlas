@@ -1,6 +1,6 @@
 # xr843/Master-skill
 
-⭐ 476 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/xr843/Master-skill) · [官网](https://fojin.app/chat) · 个人维护 · 中文 README
+⭐ 478 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/xr843/Master-skill) · [官网](https://fojin.app/chat) · 个人维护 · 中文 README
 
 **佛教 AI 祖师人格框架：16 位祖师对话，回答附原典出处**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xr843/Master-skill 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 463 --> 477
-    line [464, 469, 470, 471, 472, 474, 476]
+    title "xr843/Master-skill 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 463 --> 479
+    line [464, 469, 470, 471, 472, 474, 476, 478]
 ```
 
-2026-10-18 464 → 2026-10-30 476（+12）
+2026-10-18 464 → 2026-10-31 478（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # docker/portcullis
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/docker/portcullis) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/docker/portcullis) · 组织维护
 
 **检测并脱敏文本中 API 令牌与云凭据的 Go 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "docker/portcullis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 13 --> 16
-    line [14, 15]
+    title "docker/portcullis 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

@@ -45,12 +45,12 @@ HARP-NeXt 是一个用于 3D LiDAR 点云语义分割的深度学习网络，IRO
 ```mermaid
 xychart-beta
     title "SamirAbouHaidar/HARP-NeXt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

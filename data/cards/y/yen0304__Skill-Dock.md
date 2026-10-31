@@ -45,12 +45,12 @@ VS Code / Cursor 扩展，用于在本地（默认 ~/.skilldock/skills/）创建
 ```mermaid
 xychart-beta
     title "yen0304/Skill-Dock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

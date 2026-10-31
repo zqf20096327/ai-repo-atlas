@@ -1,6 +1,6 @@
 # project-codeguard/rules
 
-⭐ 426 · Python · NOASSERTION · 推送 2026-01-29 · [GitHub](https://github.com/project-codeguard/rules) · [官网](https://project-codeguard.org) · 组织维护
+⭐ 427 · Python · NOASSERTION · 推送 2026-01-29 · [GitHub](https://github.com/project-codeguard/rules) · [官网](https://project-codeguard.org) · 组织维护
 
 **面向 AI 编码工作流的安全规则框架，已移交 CoSAI 维护**
 
@@ -42,12 +42,12 @@ Project CodeGuard 是模型无关的安全框架与规则集，将默认安全�
 ```mermaid
 xychart-beta
     title "project-codeguard/rules 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 424 --> 427
-    line [425, 426, 426]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 424 --> 428
+    line [425, 426, 427]
 ```
 
-2026-10-18 425 → 2026-10-30 426（+1）
+2026-10-18 425 → 2026-10-31 427（+2）
 
 
 ---

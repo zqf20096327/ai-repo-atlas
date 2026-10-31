@@ -1,6 +1,6 @@
 # antvis/GPT-Vis
 
-⭐ 794 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/antvis/GPT-Vis) · [官网](https://gpt-vis.antv.vision) · 组织维护 · 中文 README
+⭐ 794 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/antvis/GPT-Vis) · [官网](https://gpt-vis.antv.vision) · 组织维护 · 中文 README
 
 **面向 LLM 场景的可视化库：渲染 LLM 生成的图表语法**
 
@@ -45,12 +45,12 @@ AntV 的 GPT-Vis 是面向 LLM 时代的可视化库，框架无关，支持原�
 ```mermaid
 xychart-beta
     title "antvis/GPT-Vis 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-31"]
     y-axis "stars" 791 --> 795
     line [792, 793, 794, 794]
 ```
 
-2026-10-18 792 → 2026-10-30 794（+2）
+2026-10-18 792 → 2026-10-31 794（+2）
 
 
 ---

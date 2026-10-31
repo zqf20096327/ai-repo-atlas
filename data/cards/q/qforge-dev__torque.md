@@ -46,12 +46,12 @@ TypeScript 库，以类 React 组件的方式声明式组合对话 schema，生�
 ```mermaid
 xychart-beta
     title "qforge-dev/torque 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-18 95 → 2026-10-30 95（+0）
+2026-10-18 95 → 2026-10-31 95（+0）
 
 
 ---

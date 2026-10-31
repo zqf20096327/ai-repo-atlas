@@ -1,6 +1,6 @@
 # nicedreamzapp/claude-code-local
 
-⭐ 3,394 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://www.youtube.com/@nicedreamzapps) · 个人维护
+⭐ 3,398 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://www.youtube.com/@nicedreamzapps) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行开源模型驱动 Claude Code 的 MLX 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicedreamzapp/claude-code-local 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3361 --> 3397
-    line [3364, 3372, 3375, 3378, 3377, 3378, 3380, 3382, 3388, 3389, 3394]
+    title "nicedreamzapp/claude-code-local 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3361 --> 3401
+    line [3364, 3372, 3375, 3378, 3377, 3378, 3380, 3382, 3388, 3389, 3394, 3398]
 ```
 
-2026-10-18 3,364 → 2026-10-30 3,394（+30）
+2026-10-18 3,364 → 2026-10-31 3,398（+34）
 
 
 ---

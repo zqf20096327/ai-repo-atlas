@@ -1,6 +1,6 @@
 # jiangenjing/anker-OntoCare
 
-⭐ 15 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/jiangenjing/anker-OntoCare) · [官网](https://web-production-195cd.up.railway.app/) · 个人维护 · 中文 README
+⭐ 16 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/jiangenjing/anker-OntoCare) · [官网](https://web-production-195cd.up.railway.app/) · 个人维护 · 中文 README
 
 **本体驱动的售后智能客服与经营归因工作台（黑客松项目）**
 
@@ -46,13 +46,13 @@ Anker 首届黑客松智能服务赛道冠军项目归档：面向复杂售后�
 
 ```mermaid
 xychart-beta
-    title "jiangenjing/anker-OntoCare 星数(近 6 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4 --> 16
-    line [5, 7, 10, 12, 14, 15]
+    title "jiangenjing/anker-OntoCare 星数(近 7 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4 --> 17
+    line [5, 7, 10, 12, 14, 15, 16]
 ```
 
-2026-10-19 5 → 2026-10-30 15（+10）
+2026-10-19 5 → 2026-10-31 16（+11）
 
 
 ---

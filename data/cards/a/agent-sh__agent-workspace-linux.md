@@ -1,6 +1,6 @@
 # agent-sh/agent-workspace-linux
 
-⭐ 200 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/agent-sh/agent-workspace-linux) · 个人维护
+⭐ 203 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/agent-sh/agent-workspace-linux) · 个人维护
 
 **给 AI agent 的隔离 Linux 桌面与浏览器 MCP 工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agent-sh/agent-workspace-linux 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 185 --> 201
-    line [186, 191, 194, 195, 197, 198, 199, 200]
+    title "agent-sh/agent-workspace-linux 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 185 --> 204
+    line [186, 191, 194, 195, 197, 198, 199, 200, 203]
 ```
 
-2026-10-18 186 → 2026-10-30 200（+14）
+2026-10-18 186 → 2026-10-31 203（+17）
 
 
 ---

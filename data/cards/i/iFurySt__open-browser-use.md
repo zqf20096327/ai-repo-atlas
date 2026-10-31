@@ -1,6 +1,6 @@
 # iFurySt/open-browser-use
 
-⭐ 405 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/iFurySt/open-browser-use) · [官网](https://www.ifuryst.com/en/blog/2026/open-browser-use/) · 个人维护 · 中文 README
+⭐ 406 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/iFurySt/open-browser-use) · [官网](https://www.ifuryst.com/en/blog/2026/open-browser-use/) · 个人维护 · 中文 README
 
 **面向 AI agent 的平台中立浏览器自动化层（CLI+SDK+扩展）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iFurySt/open-browser-use 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 372 --> 408
-    line [375, 381, 384, 390, 394, 396, 397, 398, 399, 403, 405]
+    title "iFurySt/open-browser-use 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 372 --> 409
+    line [375, 381, 384, 390, 394, 396, 397, 398, 399, 403, 405, 406]
 ```
 
-2026-10-18 375 → 2026-10-30 405（+30）
+2026-10-18 375 → 2026-10-31 406（+31）
 
 
 ---

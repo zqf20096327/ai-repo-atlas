@@ -1,6 +1,6 @@
 # AliAkhtari78/SpotifyScraper
 
-⭐ 322 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/AliAkhtari78/SpotifyScraper) · [官网](https://spotifyscraper.readthedocs.io/en/latest) · 个人维护
+⭐ 323 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/AliAkhtari78/SpotifyScraper) · [官网](https://spotifyscraper.readthedocs.io/en/latest) · 个人维护
 
 **免 API key 抓取 Spotify 公开数据的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AliAkhtari78/SpotifyScraper 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 320 --> 323
-    line [321, 322, 322]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 320 --> 324
+    line [321, 322, 323]
 ```
 
-2026-10-18 321 → 2026-10-30 322（+1）
+2026-10-18 321 → 2026-10-31 323（+2）
 
 
 ---

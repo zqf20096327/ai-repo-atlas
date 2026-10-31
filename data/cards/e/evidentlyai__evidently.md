@@ -1,6 +1,6 @@
 # evidentlyai/evidently
 
-⭐ 8,023 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
+⭐ 8,024 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/evidentlyai/evidently) · [官网](https://discord.gg/xZjKRaNp8b) · 组织维护
 
 **开源 ML/LLM 系统评测、测试与监控框架（100+ 指标）**
 
@@ -46,13 +46,13 @@ Python 库，用于评估、测试和监控 ML 与 LLM 系统，覆盖表格数�
 
 ```mermaid
 xychart-beta
-    title "evidentlyai/evidently 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7992 --> 8025
-    line [7994, 7998, 7999, 8000, 8004, 8007, 8012, 8016, 8019, 8023]
+    title "evidentlyai/evidently 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7991 --> 8027
+    line [7994, 7998, 7999, 8000, 8004, 8007, 8012, 8016, 8019, 8023, 8024]
 ```
 
-2026-10-18 7,994 → 2026-10-30 8,023（+29）
+2026-10-18 7,994 → 2026-10-31 8,024（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # Kernel-Hunter/mudroom
 
-⭐ 15 · Swift · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Kernel-Hunter/mudroom) · [官网](https://kernel-hunter.github.io/mudroom/) · 个人维护
+⭐ 15 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Kernel-Hunter/mudroom) · [官网](https://kernel-hunter.github.io/mudroom/) · 个人维护
 
 **在 Linux 微型 VM 沙箱中运行编码代理并按 PR 方式审查变更**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kernel-Hunter/mudroom 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "Kernel-Hunter/mudroom 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 10 --> 16
-    line [11, 13, 15]
+    line [11, 13, 15, 15]
 ```
 
-2026-10-18 11 → 2026-10-30 15（+4）
+2026-10-18 11 → 2026-10-31 15（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # norviq-dev/norviq
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/norviq-dev/norviq) · [官网](https://norviq.dev) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/norviq-dev/norviq) · [官网](https://norviq.dev) · 组织维护
 
 **Kubernetes 上 LLM agent 工具调用的运行时策略执行点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "norviq-dev/norviq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 27（+1）
 
 
 ---

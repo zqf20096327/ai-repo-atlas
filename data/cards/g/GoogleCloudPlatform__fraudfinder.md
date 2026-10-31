@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/fraudfinder
 
-⭐ 251 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/GoogleCloudPlatform/fraudfinder) · 组织维护
+⭐ 252 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-20 · [GitHub](https://github.com/GoogleCloudPlatform/fraudfinder) · 组织维护
 
 **Google Cloud 实时欺诈检测端到端实验室教程系列**
 
@@ -45,12 +45,12 @@ Google Cloud 官方的 Data to AI 实验室系列，以实时交易欺诈检测�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/fraudfinder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 249 --> 252
-    line [250, 251, 251]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 249 --> 253
+    line [250, 251, 252]
 ```
 
-2026-10-18 250 → 2026-10-30 251（+1）
+2026-10-18 250 → 2026-10-31 252（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/openai-dotnet
 
-⭐ 2,717 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/openai/openai-dotnet) · [官网](https://www.nuget.org/packages/OpenAI) · 组织维护
+⭐ 2,718 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/openai/openai-dotnet) · [官网](https://www.nuget.org/packages/OpenAI) · 组织维护
 
 **OpenAI 官方 .NET SDK：.NET 应用调用 OpenAI REST API**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-dotnet 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 2711 --> 2718
-    line [2712, 2713, 2715, 2716, 2715, 2716, 2717]
+    title "openai/openai-dotnet 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2711 --> 2719
+    line [2712, 2713, 2715, 2716, 2715, 2716, 2717, 2718]
 ```
 
-2026-10-18 2,712 → 2026-10-30 2,717（+5）
+2026-10-18 2,712 → 2026-10-31 2,718（+6）
 
 
 ---

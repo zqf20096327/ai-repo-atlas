@@ -44,13 +44,13 @@ Manim Community 维护的 Manim 插件：在 Python 中直接为 Manim 视频添
 
 ```mermaid
 xychart-beta
-    title "ManimCommunity/manim-voiceover 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    title "ManimCommunity/manim-voiceover 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 319 --> 324
-    line [320, 321, 322, 323]
+    line [320, 321, 322, 323, 323]
 ```
 
-2026-10-18 320 → 2026-10-30 323（+3）
+2026-10-18 320 → 2026-10-31 323（+3）
 
 
 ---

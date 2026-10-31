@@ -1,6 +1,6 @@
 # kris-hansen/comanda
 
-⭐ 331 · Go · MIT · 推送 2026-10-20 · [GitHub](https://github.com/kris-hansen/comanda) · [官网](https://comanda.sh) · 个人维护
+⭐ 331 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kris-hansen/comanda) · [官网](https://comanda.sh) · 个人维护
 
 **终端原生的 AI agent 工作流编排运行时，用 YAML 编排编码代理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kris-hansen/comanda 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 328 --> 332
     line [330, 329, 331, 331]
 ```
 
-2026-10-18 330 → 2026-10-30 331（+1）
+2026-10-18 330 → 2026-10-31 331（+1）
 
 
 ---

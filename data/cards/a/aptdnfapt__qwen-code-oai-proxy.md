@@ -1,6 +1,6 @@
 # aptdnfapt/qwen-code-oai-proxy
 
-⭐ 171 · TypeScript · 推送 2026-04-16 · [GitHub](https://github.com/aptdnfapt/qwen-code-oai-proxy) · 个人维护
+⭐ 172 · TypeScript · 推送 2026-04-16 · [GitHub](https://github.com/aptdnfapt/qwen-code-oai-proxy) · 个人维护
 
 **将 Qwen 模型转成 OpenAI 兼容 API 的本地代理服务器（已停止维护）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aptdnfapt/qwen-code-oai-proxy 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 170 --> 173
-    line [172, 171, 171]
+    line [172, 171, 172]
 ```
 
-2026-10-18 172 → 2026-10-30 171（-1）
+2026-10-18 172 → 2026-10-31 172（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MuzeAnisichael/agent-skill-factory 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-23", "2026-10-31"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-23 37 → 2026-10-30 37（+0）
+2026-10-23 37 → 2026-10-31 37（+0）
 
 
 ---

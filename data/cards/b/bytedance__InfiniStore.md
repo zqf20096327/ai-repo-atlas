@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bytedance/InfiniStore 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "bytedance/InfiniStore 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 448 --> 452
-    line [449, 451]
+    line [449, 451, 451]
 ```
 
-2026-10-18 449 → 2026-10-30 451（+2）
+2026-10-18 449 → 2026-10-31 451（+2）
 
 
 ---

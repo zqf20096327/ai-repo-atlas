@@ -1,6 +1,6 @@
 # NeuroDiffGym/neurodiffeq
 
-⭐ 790 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/NeuroDiffGym/neurodiffeq) · [官网](http://pypi.org/project/neurodiffeq/) · 组织维护
+⭐ 791 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/NeuroDiffGym/neurodiffeq) · [官网](http://pypi.org/project/neurodiffeq/) · 组织维护
 
 **用神经网络求解微分方程的 PyTorch 库，供科研计算**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NeuroDiffGym/neurodiffeq 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 789 --> 791
-    line [790, 790]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 789 --> 792
+    line [790, 791]
 ```
 
-2026-10-18 790 → 2026-10-30 790（+0）
+2026-10-18 790 → 2026-10-31 791（+1）
 
 
 ---

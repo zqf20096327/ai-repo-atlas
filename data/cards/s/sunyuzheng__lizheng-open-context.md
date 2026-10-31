@@ -1,6 +1,6 @@
 # sunyuzheng/lizheng-open-context
 
-⭐ 154 · Python · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/sunyuzheng/lizheng-open-context) · [官网](https://www.superlinear.academy/community) · 个人维护 · 中文 README
+⭐ 155 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/sunyuzheng/lizheng-open-context) · [官网](https://www.superlinear.academy/community) · 个人维护 · 中文 README
 
 **立正公开资料库：原文/字幕/提炼的可检索引用数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sunyuzheng/lizheng-open-context 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 146 --> 155
-    line [147, 150, 151, 152, 154, 154]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 146 --> 156
+    line [147, 150, 151, 152, 154, 155]
 ```
 
-2026-10-18 147 → 2026-10-30 154（+7）
+2026-10-18 147 → 2026-10-31 155（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # thiswillbeyourgithub/wdoc
 
-⭐ 546 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/thiswillbeyourgithub/wdoc) · [官网](https://wdoc.readthedocs.io/en/stable/) · 个人维护
+⭐ 548 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/thiswillbeyourgithub/wdoc) · [官网](https://wdoc.readthedocs.io/en/stable/) · 个人维护
 
 **对海量异构文档做检索问答与摘要的 RAG 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thiswillbeyourgithub/wdoc 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 543 --> 547
-    line [544, 545, 544, 545, 546]
+    title "thiswillbeyourgithub/wdoc 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 543 --> 549
+    line [544, 545, 544, 545, 546, 548]
 ```
 
-2026-10-18 544 → 2026-10-30 546（+2）
+2026-10-18 544 → 2026-10-31 548（+4）
 
 
 ---

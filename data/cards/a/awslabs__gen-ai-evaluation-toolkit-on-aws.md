@@ -1,6 +1,6 @@
 # awslabs/gen-ai-evaluation-toolkit-on-aws
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/awslabs/gen-ai-evaluation-toolkit-on-aws) · [官网](https://awslabs.github.io/gen-ai-evaluation-toolkit-on-aws/) · 组织维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/awslabs/gen-ai-evaluation-toolkit-on-aws) · [官网](https://awslabs.github.io/gen-ai-evaluation-toolkit-on-aws/) · 组织维护
 
 **AWS 上的生成式 AI 应用评测工具包：测试用例生成与质量评估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "awslabs/gen-ai-evaluation-toolkit-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

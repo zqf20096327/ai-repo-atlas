@@ -1,6 +1,6 @@
 # Hash-7777/HashCortX
 
-⭐ 168 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hash-7777/HashCortX) · [官网](https://hashcortx.com/) · 个人维护
+⭐ 169 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Hash-7777/HashCortX) · [官网](https://hashcortx.com/) · 个人维护
 
 **本地优先 AI 桌面工作台：多模型对话、编码 agent 与本地 RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Hash-7777/HashCortX 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
     y-axis "stars" 167 --> 171
-    line [170, 169, 168, 168]
+    line [170, 169, 168, 169]
 ```
 
-2026-10-18 170 → 2026-10-30 168（-2）
+2026-10-18 170 → 2026-10-31 169（-1）
 
 
 ---

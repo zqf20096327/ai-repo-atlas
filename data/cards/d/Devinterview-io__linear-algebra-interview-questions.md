@@ -44,12 +44,12 @@ Devinterview.io 维护的线性代数面试题仓库：收录 70 道核心问题
 ```mermaid
 xychart-beta
     title "Devinterview-io/linear-algebra-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

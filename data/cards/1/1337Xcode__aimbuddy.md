@@ -1,6 +1,6 @@
 # 1337Xcode/aimbuddy
 
-⭐ 70 · C++ · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/AimBuddy) · 个人维护
+⭐ 72 · C++ · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/aimbuddy) · 个人维护
 
 **Android 端到设备瞄准辅助：视觉检测+辅助转向（aimbot 类）**
 
@@ -39,6 +39,18 @@
 
 > L18: AimBuddy is built for players with low vision or motor impairments, for whom fast, precise aiming on a touchscreen 
 > L25: |Sees with|An NCNN model on the CPU or through Vulkan, or an experimental colour matcher that needs no model|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1337Xcode/aimbuddy 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 69 --> 73
+    line [70, 72]
+```
+
+2026-10-30 70 → 2026-10-31 72（+2）
 
 
 ---

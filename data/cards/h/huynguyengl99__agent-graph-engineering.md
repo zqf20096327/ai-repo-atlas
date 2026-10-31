@@ -1,6 +1,6 @@
 # huynguyengl99/agent-graph-engineering
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/huynguyengl99/agent-graph-engineering) · [官网](https://huynguyengl99.github.io/series/agent-graph-engineering/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/huynguyengl99/agent-graph-engineering) · [官网](https://huynguyengl99.github.io/series/agent-graph-engineering/) · 个人维护
 
 **面向开发者的 LLM 客服 agent 生产级参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huynguyengl99/agent-graph-engineering 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 16（+2）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

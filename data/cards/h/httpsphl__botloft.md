@@ -1,6 +1,6 @@
 # httpsphl/botloft
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/httpsphl/botloft) · [官网](https://github.com/httpsphl/botloft/releases/latest) · 个人维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/httpsphl/botloft) · [官网](https://github.com/httpsphl/botloft/releases/latest) · 个人维护
 
 **本地常驻多 AI 编码 agent 编排桌面应用（Claude Code/Antigravity/Codex）**
 
@@ -45,12 +45,12 @@ Tauri+React 桌面应用配合 Rust 守护进程 botloftd，在用户电脑上�
 ```mermaid
 xychart-beta
     title "httpsphl/botloft 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

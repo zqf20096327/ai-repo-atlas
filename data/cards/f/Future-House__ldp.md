@@ -1,6 +1,6 @@
 # Future-House/ldp
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Future-House/ldp) · [官网](https://edisonscientific.gitbook.io/edison-cookbook/ldp-language-decision-processes) · 组织维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Future-House/ldp) · [官网](https://edisonscientific.gitbook.io/edison-cookbook/ldp-language-decision-processes) · 组织维护
 
 **语言智能体模块化框架：可互换组合智能体、环境与优化器**
 
@@ -45,12 +45,12 @@ Future-House 维护的 Python 框架，将语言智能体交互形式化为语�
 ```mermaid
 xychart-beta
     title "Future-House/ldp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 137 --> 140
     line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-10-30 139（+1）
+2026-10-18 138 → 2026-10-31 139（+1）
 
 
 ---

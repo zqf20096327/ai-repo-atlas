@@ -1,6 +1,6 @@
 # keith-yan/vibe-service-guardian
 
-⭐ 108 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/keith-yan/vibe-service-guardian) · 个人维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/keith-yan/vibe-service-guardian) · 个人维护 · 中文 README
 
 **本机开发服务溯源与本地 AI 运行时监控/容量规划工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "keith-yan/vibe-service-guardian 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "keith-yan/vibe-service-guardian 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 107 --> 110
-    line [109, 108]
+    line [109, 108, 108]
 ```
 
-2026-10-18 109 → 2026-10-30 108（-1）
+2026-10-18 109 → 2026-10-31 108（-1）
 
 
 ---

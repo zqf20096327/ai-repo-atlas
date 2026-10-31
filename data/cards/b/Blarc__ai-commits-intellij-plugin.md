@@ -1,6 +1,6 @@
 # Blarc/ai-commits-intellij-plugin
 
-⭐ 870 · Kotlin · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [官网](https://plugins.jetbrains.com/plugin/21335-ai-commits) · 个人维护
+⭐ 871 · Kotlin · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Blarc/ai-commits-intellij-plugin) · [官网](https://plugins.jetbrains.com/plugin/21335-ai-commits) · 个人维护
 
 **JetBrains IDE 插件：用 LLM 从 git diff 生成提交信息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blarc/ai-commits-intellij-plugin 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 865 --> 871
-    line [866, 867, 869, 868, 869, 870, 870]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 865 --> 872
+    line [866, 867, 869, 868, 869, 870, 871]
 ```
 
-2026-10-18 866 → 2026-10-30 870（+4）
+2026-10-18 866 → 2026-10-31 871（+5）
 
 
 ---

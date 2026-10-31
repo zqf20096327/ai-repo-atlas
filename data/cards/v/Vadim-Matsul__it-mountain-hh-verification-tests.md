@@ -1,6 +1,6 @@
 # Vadim-Matsul/it-mountain-hh-verification-tests
 
-⭐ 113 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Vadim-Matsul/it-mountain-hh-verification-tests) · [官网](https://it-mountain.ru/hh-tests) · 个人维护
+⭐ 114 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Vadim-Matsul/it-mountain-hh-verification-tests) · [官网](https://it-mountain.ru/hh-tests) · 个人维护
 
 **hh.ru 技能测验答案合集：21 个主题 827 题供备考**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vadim-Matsul/it-mountain-hh-verification-tests 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 93 --> 114
-    line [94, 95, 96, 97, 98, 99, 112, 113]
+    title "Vadim-Matsul/it-mountain-hh-verification-tests 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 92 --> 116
+    line [94, 95, 96, 97, 98, 99, 112, 113, 114]
 ```
 
-2026-10-18 94 → 2026-10-30 113（+19）
+2026-10-18 94 → 2026-10-31 114（+20）
 
 
 ---

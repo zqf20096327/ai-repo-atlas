@@ -1,6 +1,6 @@
 # llm-jp/awesome-japanese-llm
 
-⭐ 1,442 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [官网](https://llm-jp.github.io/awesome-japanese-llm) · 组织维护
+⭐ 1,442 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/llm-jp/awesome-japanese-llm) · [官网](https://llm-jp.github.io/awesome-japanese-llm) · 组织维护
 
 **日本語 LLM 模型与评测基准的策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "llm-jp/awesome-japanese-llm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 1440 --> 1443
     line [1441, 1442, 1442]
 ```
 
-2026-10-18 1,441 → 2026-10-30 1,442（+1）
+2026-10-18 1,441 → 2026-10-31 1,442（+1）
 
 
 ---

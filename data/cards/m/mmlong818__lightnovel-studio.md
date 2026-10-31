@@ -1,6 +1,6 @@
 # mmlong818/lightnovel-studio
 
-⭐ 50 · TypeScript · GPL-3.0 · 推送 2026-06-08 · [GitHub](https://github.com/mmlong818/lightnovel-studio) · 个人维护 · 中文 README
+⭐ 51 · TypeScript · GPL-3.0 · 推送 2026-06-08 · [GitHub](https://github.com/mmlong818/lightnovel-studio) · 个人维护 · 中文 README
 
 **纯前端中日双语 AI 轻小说生成器，一句话生成全稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mmlong818/lightnovel-studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-18 50 → 2026-10-30 50（+0）
+2026-10-18 50 → 2026-10-31 51（+1）
 
 
 ---

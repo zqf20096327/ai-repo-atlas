@@ -1,6 +1,6 @@
 # teilomillet/retrain
 
-⭐ 43 · Python · 推送 2026-07-12 · [GitHub](https://github.com/teilomillet/retrain) · [官网](https://retrain.readthedocs.io/en/latest/) · 个人维护
+⭐ 44 · Python · 推送 2026-07-12 · [GitHub](https://github.com/teilomillet/retrain) · [官网](https://retrain.readthedocs.io/en/latest/) · 个人维护
 
 **TOML 配置驱动的 LLM 强化学习（RLVR）训练框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teilomillet/retrain 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

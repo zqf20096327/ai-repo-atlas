@@ -1,6 +1,6 @@
 # 0xblewalker/dayflow
 
-⭐ 47 · JavaScript · AGPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/0xblewalker/dayflow) · 个人维护 · 中文 README
+⭐ 49 · JavaScript · AGPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/0xblewalker/dayflow) · 个人维护 · 中文 README
 
 **面向日常陪伴聊天的缓存感知上下文压缩与遗忘层库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xblewalker/dayflow 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 18 --> 49
-    line [20, 36, 45, 47]
+    title "0xblewalker/dayflow 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 18 --> 51
+    line [20, 36, 45, 47, 49]
 ```
 
-2026-10-18 20 → 2026-10-30 47（+27）
+2026-10-18 20 → 2026-10-31 49（+29）
 
 
 ---

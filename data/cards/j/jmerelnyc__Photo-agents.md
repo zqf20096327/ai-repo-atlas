@@ -1,6 +1,6 @@
 # jmerelnyc/Photo-agents
 
-⭐ 666 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/jmerelnyc/Photo-agents) · 组织维护
+⭐ 665 · Python · MIT · 推送 2026-07-03 · [GitHub](https://github.com/jmerelnyc/Photo-agents) · 组织维护
 
 **视觉感知驱动的自主 LLM agent 运行时框架**
 
@@ -46,12 +46,12 @@ Photo Agents 是一个 Python 包形式的 agent 运行时，实现感知→推�
 ```mermaid
 xychart-beta
     title "jmerelnyc/Photo-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 665 --> 677
-    line [676, 666, 666]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 664 --> 677
+    line [676, 666, 665]
 ```
 
-2026-10-18 676 → 2026-10-30 666（-10）
+2026-10-18 676 → 2026-10-31 665（-11）
 
 
 ---

@@ -1,6 +1,6 @@
 # kubeflow/blog
 
-⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/kubeflow/blog) · [官网](https://blog.kubeflow.org) · 组织维护
+⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/kubeflow/blog) · [官网](https://blog.kubeflow.org) · 组织维护
 
 **Kubeflow 官方博客：基于 fastpages 的社区博客仓库**
 
@@ -44,12 +44,12 @@ Kubeflow 社区的官方博客站点（blog.kubeflow.org）内容仓库，基于
 ```mermaid
 xychart-beta
     title "kubeflow/blog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Azure DevOps 流水线任务，封装专有工具 trustabl：下载其官方发�
 ```mermaid
 xychart-beta
     title "trustabl/trustabl-azure-devops 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-23", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-10-30 19（+0）
+2026-10-23 19 → 2026-10-31 19（+0）
 
 
 ---

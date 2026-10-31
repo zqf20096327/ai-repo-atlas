@@ -1,6 +1,6 @@
 # bostrot/wslmanager
 
-⭐ 4,041 · Dart · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护 · 中文 README
+⭐ 4,044 · Dart · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护 · 中文 README
 
 **WSL 与 macOS 虚拟机的图形化管理器，AI 层为付费功能**
 
@@ -46,12 +46,12 @@ Flutter 编写的开源 GUI：在 Windows 上安装、复制、迁移、备份 W
 ```mermaid
 xychart-beta
     title "bostrot/wslmanager 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4030 --> 4042
-    line [4031, 4033, 4032, 4033, 4037, 4035, 4041, 4041]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 4030 --> 4045
+    line [4031, 4033, 4032, 4033, 4037, 4035, 4041, 4044]
 ```
 
-2026-10-18 4,031 → 2026-10-30 4,041（+10）
+2026-10-18 4,031 → 2026-10-31 4,044（+13）
 
 
 ---

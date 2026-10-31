@@ -1,6 +1,6 @@
 # Choeng-Rayu/rayu-cli
 
-⭐ 42 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Choeng-Rayu/rayu-cli) · [官网](https://rayucode.com) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Choeng-Rayu/rayu-cli) · [官网](https://rayucode.com) · 个人维护
 
 **终端 AI 编程 agent CLI，多提供商接入与本地模型支持**
 
@@ -45,12 +45,12 @@ npm 分发的命令行 AI 编程 agent：通过 BYOK 自带 API key 接入 Anthr
 ```mermaid
 xychart-beta
     title "Choeng-Rayu/rayu-cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-30 42（+0）
+2026-10-18 42 → 2026-10-31 42（+0）
 
 
 ---

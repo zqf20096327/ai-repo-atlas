@@ -1,6 +1,6 @@
 # uaanchorage/GSoC
 
-⭐ 110 · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/uaanchorage/GSoC) · [官网](https://www.uaa.alaska.edu/research) · 组织维护
+⭐ 109 · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/uaanchorage/GSoC) · [官网](https://www.uaa.alaska.edu/research) · 组织维护
 
 **阿拉斯加大学团队的 GSoC 2027 项目创意清单（4 个课题）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "uaanchorage/GSoC 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 108 --> 111
-    line [110, 109, 110, 110]
+    line [110, 109, 110, 109]
 ```
 
-2026-10-18 110 → 2026-10-30 110（+0）
+2026-10-18 110 → 2026-10-31 109（-1）
 
 
 ---

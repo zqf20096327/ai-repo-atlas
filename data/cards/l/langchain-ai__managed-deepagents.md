@@ -44,13 +44,13 @@ LangChain 团队提供的 Managed Deep Agents 工具：通过 mda CLI 初始化 
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/managed-deepagents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    title "langchain-ai/managed-deepagents 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 19 --> 25
-    line [20, 21, 22, 24]
+    line [20, 21, 22, 24, 24]
 ```
 
-2026-10-18 20 → 2026-10-30 24（+4）
+2026-10-18 20 → 2026-10-31 24（+4）
 
 
 ---

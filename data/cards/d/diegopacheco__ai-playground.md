@@ -46,12 +46,12 @@ Diego Pacheco 维护的个人 AI 实验仓库，覆盖 ML、NLP、LLM、视觉�
 ```mermaid
 xychart-beta
     title "diegopacheco/ai-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

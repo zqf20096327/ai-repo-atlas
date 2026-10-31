@@ -1,6 +1,6 @@
 # luhengshiwo/LLMForEverybody
 
-⭐ 7,508 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/luhengshiwo/LLMForEverybody) · [官网](https://www.learnllm.ai) · 组织维护 · 中文 README
+⭐ 7,511 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/luhengshiwo/LLMForEverybody) · [官网](https://www.learnllm.ai) · 组织维护 · 中文 README
 
 **面向求职者的大模型中文知识库与面试题库**
 
@@ -45,13 +45,13 @@ LearnLLM.AI 团队维护的大模型中文学习内容合集：包含按时间�
 
 ```mermaid
 xychart-beta
-    title "luhengshiwo/LLMForEverybody 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7453 --> 7513
-    line [7458, 7464, 7470, 7477, 7480, 7483, 7486, 7492, 7497, 7503, 7508]
+    title "luhengshiwo/LLMForEverybody 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7453 --> 7516
+    line [7458, 7464, 7470, 7477, 7480, 7483, 7486, 7492, 7497, 7503, 7508, 7511]
 ```
 
-2026-10-18 7,458 → 2026-10-30 7,508（+50）
+2026-10-18 7,458 → 2026-10-31 7,511（+53）
 
 
 ---

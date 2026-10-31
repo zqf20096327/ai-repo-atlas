@@ -1,6 +1,6 @@
 # Vepricov/claude-brainlab
 
-⭐ 35 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Vepricov/claude-brainlab) · [官网](https://vepricov.github.io/claude-brainlab/lab-showcase/) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Vepricov/claude-brainlab) · [官网](https://vepricov.github.io/claude-brainlab/lab-showcase/) · 组织维护
 
 **研究实验室的 Claude Code 配置包：67 个技能+钩子+git 知识库**
 
@@ -45,13 +45,13 @@ BRAIn 实验室在用的 Claude Code 工作台配置，打包供其他实验室�
 
 ```mermaid
 xychart-beta
-    title "Vepricov/claude-brainlab 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    title "Vepricov/claude-brainlab 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-28 34 → 2026-10-30 35（+1）
+2026-10-28 34 → 2026-10-31 35（+1）
 
 
 ---

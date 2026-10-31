@@ -1,6 +1,6 @@
 # youpele52/bigbud
 
-⭐ 33 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/youpele52/bigbud) · [官网](https://bigbud.app) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/youpele52/bigbud) · [官网](https://bigbud.app) · 个人维护
 
 **自带多 AI 编码代理的统一工作台：研究/写作/编码/文件一站式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "youpele52/bigbud 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 34（+1）
 
 
 ---

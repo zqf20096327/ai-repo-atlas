@@ -1,6 +1,6 @@
 # 0-to-1-Labs/claude-code-prompt-optimizer
 
-⭐ 48 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/0-to-1-Labs/claude-code-prompt-optimizer) · 组织维护
+⭐ 49 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/0-to-1-Labs/claude-code-prompt-optimizer) · 组织维护
 
 **Claude Code 钩子：把简短提示词扩写为结构化指令**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "0-to-1-Labs/claude-code-prompt-optimizer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-18 48 → 2026-10-30 48（+0）
+2026-10-18 48 → 2026-10-31 49（+1）
 
 
 ---

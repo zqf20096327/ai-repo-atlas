@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliivaezii/weld-anomaly-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "aliivaezii/weld-anomaly-classifier 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 26 --> 29
-    line [28, 27]
+    line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 27（-1）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

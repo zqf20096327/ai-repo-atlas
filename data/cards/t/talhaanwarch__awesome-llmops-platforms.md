@@ -1,6 +1,6 @@
 # talhaanwarch/awesome-llmops-platforms
 
-⭐ 40 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/talhaanwarch/awesome-llmops-platforms) · 个人维护
+⭐ 39 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/talhaanwarch/awesome-llmops-platforms) · 个人维护
 
 **开源 LLMOps 工具策展清单：144 个可自托管工具按周刷新**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "talhaanwarch/awesome-llmops-platforms 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
     y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    line [38, 39, 40, 39]
 ```
 
-2026-10-18 38 → 2026-10-30 40（+2）
+2026-10-18 38 → 2026-10-31 39（+1）
 
 
 ---

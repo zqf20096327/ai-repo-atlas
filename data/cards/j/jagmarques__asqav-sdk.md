@@ -1,6 +1,6 @@
 # jagmarques/asqav-sdk
 
-⭐ 631 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/jagmarques/asqav-sdk) · [官网](https://asqav.com) · 组织维护
+⭐ 644 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/jagmarques/asqav-sdk) · [官网](https://asqav.com) · 组织维护
 
 **为 AI agent 行为签发可验证合规回执的 Python/TS SDK**
 
@@ -44,13 +44,13 @@ asqav.com 的 Python 与 TypeScript 客户端 SDK：为 agent 每个动作签发
 
 ```mermaid
 xychart-beta
-    title "jagmarques/asqav-sdk 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 503 --> 642
-    line [514, 541, 569, 591, 605, 570, 584, 595, 607, 619, 631]
+    title "jagmarques/asqav-sdk 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 501 --> 657
+    line [514, 541, 569, 591, 605, 570, 584, 595, 607, 619, 631, 644]
 ```
 
-2026-10-18 514 → 2026-10-30 631（+117）
+2026-10-18 514 → 2026-10-31 644（+130）
 
 
 ---

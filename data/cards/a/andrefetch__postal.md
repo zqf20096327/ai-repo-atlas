@@ -1,6 +1,6 @@
 # andrefetch/postal
 
-⭐ 166 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/andrefetch/postal) · [官网](https://postalcli.vercel.app) · 个人维护
+⭐ 172 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/andrefetch/postal) · [官网](https://postalcli.vercel.app) · 个人维护
 
 **终端 AI 编程 agent：通过 OpenRouter 调任意模型读写代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andrefetch/postal 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 120 --> 170
-    line [124, 132, 141, 147, 152, 153, 156, 162, 166]
+    title "andrefetch/postal 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 120 --> 176
+    line [124, 132, 141, 147, 152, 153, 156, 162, 166, 172]
 ```
 
-2026-10-18 124 → 2026-10-30 166（+42）
+2026-10-18 124 → 2026-10-31 172（+48）
 
 
 ---

@@ -46,12 +46,12 @@ Rust 编写的双 crate 工具：odw 负责编排，运行 agent()/parallel()/pi
 ```mermaid
 xychart-beta
     title "ChaosRealmsAI/open-dynamic-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

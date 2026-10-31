@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "truthofmatthew/persian-license-plate-recognition 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-28", "2026-10-31"]
     y-axis "stars" 449 --> 451
     line [450, 450]
 ```
 
-2026-10-28 450 → 2026-10-30 450（+0）
+2026-10-28 450 → 2026-10-31 450（+0）
 
 
 ---

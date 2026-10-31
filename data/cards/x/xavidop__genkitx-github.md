@@ -1,6 +1,6 @@
 # xavidop/genkitx-github
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/xavidop/genkitx-github) · [官网](https://xavidop.github.io/genkitx-github/) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/xavidop/genkitx-github) · [官网](https://xavidop.github.io/genkitx-github/) · 个人维护
 
 **Firebase Genkit 的 GitHub Models 社区插件：接入 GitHub Models API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xavidop/genkitx-github 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # graphersal/graphersal
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/graphersal/graphersal) · [官网](https://graphersal.dev) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/graphersal/graphersal) · [官网](https://graphersal.dev) · 个人维护
 
 **Rust 内存图数据库与 Gremlin/GQL 遍历引擎，含向量检索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "graphersal/graphersal 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 14 --> 20
-    line [15, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 14 --> 21
+    line [15, 18, 19, 20]
 ```
 
-2026-10-18 15 → 2026-10-30 19（+4）
+2026-10-18 15 → 2026-10-31 20（+5）
 
 
 ---

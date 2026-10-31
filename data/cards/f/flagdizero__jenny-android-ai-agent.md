@@ -1,6 +1,6 @@
 # flagdizero/jenny-android-ai-agent
 
-⭐ 116 · Python · AGPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/flagdizero/jenny-android-ai-agent) · [官网](https://jenny.flagdizero.com) · 个人维护
+⭐ 117 · Python · AGPL-3.0 · 推送 2026-10-04 · [GitHub](https://github.com/flagdizero/jenny-android-ai-agent) · [官网](https://jenny.flagdizero.com) · 个人维护
 
 **运行在 Android 手机上的本地优先个人 AI agent 应用**
 
@@ -45,13 +45,13 @@ Android 应用（内嵌 CPython 3.11/Chaquopy），以持续前台服务运行�
 
 ```mermaid
 xychart-beta
-    title "flagdizero/jenny-android-ai-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 105 --> 117
-    line [106, 108, 109, 113, 115, 116]
+    title "flagdizero/jenny-android-ai-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 105 --> 118
+    line [106, 108, 109, 113, 115, 116, 117]
 ```
 
-2026-10-18 106 → 2026-10-30 116（+10）
+2026-10-18 106 → 2026-10-31 117（+11）
 
 
 ---

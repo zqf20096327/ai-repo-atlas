@@ -1,6 +1,6 @@
 # KERNlang/agon
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/KERNlang/agon) · [官网](https://kernlang.com/agon) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KERNlang/agon) · [官网](https://kernlang.com/agon) · 个人维护
 
 **多 AI 引擎竞争协作编排 CLI：竞速写码、合议决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KERNlang/agon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

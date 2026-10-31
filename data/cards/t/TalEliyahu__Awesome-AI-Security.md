@@ -1,6 +1,6 @@
 # TalEliyahu/Awesome-AI-Security
 
-⭐ 884 · MIT · 推送 2026-07-18 · [GitHub](https://github.com/TalEliyahu/Awesome-AI-Security) · [官网](https://www.awesomeaisecurity.com/) · 组织维护
+⭐ 886 · MIT · 推送 2026-07-18 · [GitHub](https://github.com/TalEliyahu/Awesome-AI-Security) · [官网](https://www.awesomeaisecurity.com/) · 组织维护
 
 **AI 安全资源策展清单：框架、指南与工具的聚合目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TalEliyahu/Awesome-AI-Security 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 879 --> 885
-    line [882, 880, 881, 882, 883, 884, 884]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 879 --> 887
+    line [882, 880, 881, 882, 883, 884, 886]
 ```
 
-2026-10-18 882 → 2026-10-30 884（+2）
+2026-10-18 882 → 2026-10-31 886（+4）
 
 
 ---

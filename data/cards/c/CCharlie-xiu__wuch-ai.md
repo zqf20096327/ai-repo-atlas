@@ -1,6 +1,6 @@
 # CCharlie-xiu/wuch-ai
 
-⭐ 49 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CCharlie-xiu/wuch-ai) · [官网](https://wuch-ai.net) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/CCharlie-xiu/wuch-ai) · [官网](https://wuch-ai.net) · 个人维护 · 中文 README
 
 **对话生成可交互画布 UI 的 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CCharlie-xiu/wuch-ai 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 10 --> 52
-    line [13, 17, 20, 28, 39, 49]
+    title "CCharlie-xiu/wuch-ai 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 8 --> 69
+    line [13, 17, 20, 28, 39, 49, 64]
 ```
 
-2026-10-25 13 → 2026-10-30 49（+36）
+2026-10-25 13 → 2026-10-31 64（+51）
 
 
 ---

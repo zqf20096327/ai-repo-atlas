@@ -44,13 +44,13 @@ AGB Cloud 的客户端 SDK，提供 Python 与 TypeScript 库，用于接入 AGB
 
 ```mermaid
 xychart-beta
-    title "agbcloud/agbcloud-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "agbcloud/agbcloud-sdk 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 205 --> 208
-    line [207, 206]
+    line [207, 206, 206]
 ```
 
-2026-10-18 207 → 2026-10-30 206（-1）
+2026-10-18 207 → 2026-10-31 206（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # hirotomasato/duckapi
 
-⭐ 42 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/hirotomasato/duckapi) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/hirotomasato/duckapi) · 个人维护
 
 **把 Duck.ai 网页封装成 OpenAI/Anthropic 兼容 API 的自托管代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hirotomasato/duckapi 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 38 --> 44
+    line [39, 40, 41, 42, 43]
 ```
 
-2026-10-18 39 → 2026-10-30 42（+3）
+2026-10-18 39 → 2026-10-31 43（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # wieslawsoltes/development-plugin-for-avalonia
 
-⭐ 89 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/wieslawsoltes/development-plugin-for-avalonia) · [官网](https://wieslawsoltes.github.io/development-plugin-for-avalonia/) · 个人维护
+⭐ 91 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/wieslawsoltes/development-plugin-for-avalonia) · [官网](https://wieslawsoltes.github.io/development-plugin-for-avalonia/) · 个人维护
 
 **面向 Codex 的 Avalonia 开发技能插件：构建/迁移/设计等专项技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wieslawsoltes/development-plugin-for-avalonia 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 88 --> 92
+    line [89, 91]
 ```
 
-2026-10-18 89 → 2026-10-30 89（+0）
+2026-10-18 89 → 2026-10-31 91（+2）
 
 
 ---

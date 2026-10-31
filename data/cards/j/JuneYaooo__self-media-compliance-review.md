@@ -1,6 +1,6 @@
 # JuneYaooo/self-media-compliance-review
 
-⭐ 114 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/JuneYaooo/self-media-compliance-review) · 个人维护 · 中文 README
+⭐ 115 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/JuneYaooo/self-media-compliance-review) · 个人维护 · 中文 README
 
 **自媒体视频发布前违规风险审核 Skill：输出五级风险报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JuneYaooo/self-media-compliance-review 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 102 --> 115
-    line [103, 106, 107, 108, 109, 110, 112, 114, 114]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 102 --> 116
+    line [103, 106, 107, 108, 109, 110, 112, 114, 115]
 ```
 
-2026-10-18 103 → 2026-10-30 114（+11）
+2026-10-18 103 → 2026-10-31 115（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # zoharbabin/web-researcher-mcp
 
-⭐ 74 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zoharbabin/web-researcher-mcp) · [官网](https://zoharbabin.com/web-researcher-mcp/) · 个人维护
+⭐ 75 · Go · MIT · 推送 2026-10-27 · [GitHub](https://github.com/zoharbabin/web-researcher-mcp) · [官网](https://zoharbabin.com/web-researcher-mcp/) · 个人维护
 
 **给 AI 助手提供带真实引用的网络研究能力的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoharbabin/web-researcher-mcp 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 69 --> 75
-    line [70, 71, 72, 74]
+    title "zoharbabin/web-researcher-mcp 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 69 --> 76
+    line [70, 71, 72, 74, 75]
 ```
 
-2026-10-18 70 → 2026-10-30 74（+4）
+2026-10-18 70 → 2026-10-31 75（+5）
 
 
 ---

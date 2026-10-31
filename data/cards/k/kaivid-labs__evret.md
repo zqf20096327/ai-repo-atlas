@@ -1,6 +1,6 @@
 # kaivid-labs/evret
 
-⭐ 19 · Python · MIT · 推送 2026-07-19 · [GitHub](https://github.com/kaivid-labs/evret) · [官网](https://kaivid-labs.github.io/evret/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kaivid-labs/evret) · [官网](https://kaivid-labs.github.io/evret/) · 个人维护
 
 **检索系统评测框架：为推荐/RAG/搜索计算标准 IR 指标**
 
@@ -45,12 +45,12 @@ Python 检索评测框架，面向推荐、RAG 与搜索系统的检索器评估
 ```mermaid
 xychart-beta
     title "kaivid-labs/evret 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Parad0x-Labs/vool
 
-⭐ 17 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Parad0x-Labs/vool) · [官网](https://vool.dev) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Parad0x-Labs/vool) · [官网](https://vool.dev) · 组织维护
 
 **本地优先的个人 agent 运行时：本地模型执行任务并留存记忆**
 
@@ -46,12 +46,12 @@ Parad0x Labs 开发的桌面端个人 agent 应用：连接本地 LLM（通过 O
 ```mermaid
 xychart-beta
     title "Parad0x-Labs/vool 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

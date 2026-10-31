@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SJTU-DMTai/awesome-ml-data-quality-papers 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-18 132 → 2026-10-30 132（+0）
+2026-10-18 132 → 2026-10-31 132（+0）
 
 
 ---

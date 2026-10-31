@@ -1,6 +1,6 @@
 # T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8
 
-⭐ 20 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8) · [官网](https://registry.comfy.org/nodes/qwen-image-2-1-fun-controlnet-union-t8) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8) · [官网](https://registry.comfy.org/nodes/qwen-image-2-1-fun-controlnet-union-t8) · 个人维护 · 中文 README
 
 **ComfyUI 原生节点：为 Qwen Image 2.1 提供 Union ControlNet 控制生图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "T8mars/Comfyui-Qwen-Image-2.1-Fun-Controlnet-Union-T8 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    line [18, 19, 20, 19]
 ```
 
-2026-10-18 18 → 2026-10-30 20（+2）
+2026-10-18 18 → 2026-10-31 19（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 18534516725/llm-api-setup-guides
 
-⭐ 57 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/18534516725/llm-api-setup-guides) · [官网](https://18534516725.github.io/llm-api-setup-guides/) · 组织维护 · 中文 README
+⭐ 58 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/18534516725/llm-api-setup-guides) · [官网](https://18534516725.github.io/llm-api-setup-guides/) · 组织维护 · 中文 README
 
 **139 篇中文教程：教你在各类工具中配置 AI API 中转与接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "18534516725/llm-api-setup-guides 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31"]
     y-axis "stars" 48 --> 125
-    line [119, 116, 114, 54, 56, 57, 57]
+    line [119, 116, 114, 54, 56, 57, 58]
 ```
 
-2026-10-18 119 → 2026-10-30 57（-62）
+2026-10-18 119 → 2026-10-31 58（-61）
 
 
 ---

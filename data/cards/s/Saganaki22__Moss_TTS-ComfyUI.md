@@ -1,6 +1,6 @@
 # Saganaki22/Moss_TTS-ComfyUI
 
-⭐ 30 · Python · 推送 2026-06-28 · [GitHub](https://github.com/Saganaki22/Moss_TTS-ComfyUI) · [官网](https://github.com/OpenMOSS/MOSS-TTS) · 个人维护 · 中文 README
+⭐ 31 · Python · 推送 2026-06-28 · [GitHub](https://github.com/Saganaki22/Moss_TTS-ComfyUI) · [官网](https://github.com/OpenMOSS/MOSS-TTS) · 个人维护 · 中文 README
 
 **MOSS-TTS v1.5 的 ComfyUI 节点包：本地 48kHz 立体声语音生成与克隆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/Moss_TTS-ComfyUI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 31（+1）
 
 
 ---

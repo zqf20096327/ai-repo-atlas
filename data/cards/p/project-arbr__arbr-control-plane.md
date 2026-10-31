@@ -1,6 +1,6 @@
 # project-arbr/arbr-control-plane
 
-⭐ 29 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/project-arbr/arbr-control-plane) · [官网](https://projectarbr.org/) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/project-arbr/arbr-control-plane) · [官网](https://projectarbr.org/) · 组织维护
 
 **自托管 LLM 网关与治理控制平面：观测调用、推荐可审批回滚的路由优化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "project-arbr/arbr-control-plane 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-30 29（+0）
+2026-10-18 29 → 2026-10-31 29（+0）
 
 
 ---

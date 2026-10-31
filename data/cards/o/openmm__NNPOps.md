@@ -1,6 +1,6 @@
 # openmm/NNPOps
 
-⭐ 102 · C++ · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/openmm/NNPOps) · 组织维护
+⭐ 101 · C++ · NOASSERTION · 推送 2026-06-09 · [GitHub](https://github.com/openmm/NNPOps) · 组织维护
 
 **神经网络势能瓶颈算子的高性能实现库，面向分子模拟推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openmm/NNPOps 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 100 --> 103
+    line [102, 101]
 ```
 
-2026-10-18 102 → 2026-10-30 102（+0）
+2026-10-18 102 → 2026-10-31 101（-1）
 
 
 ---

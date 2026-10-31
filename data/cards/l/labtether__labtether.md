@@ -1,6 +1,6 @@
 # labtether/labtether
 
-⭐ 233 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/labtether/labtether) · [官网](https://labtether.com) · 组织维护
+⭐ 233 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/labtether/labtether) · [官网](https://labtether.com) · 组织维护
 
 **自托管家庭实验室统一管控面板，内置 MCP 供 AI agent 运维**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "labtether/labtether 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    title "labtether/labtether 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 232 --> 253
-    line [250, 252, 234, 233, 234, 233]
+    line [250, 252, 234, 233, 234, 233, 233]
 ```
 
-2026-10-18 250 → 2026-10-30 233（-17）
+2026-10-18 250 → 2026-10-31 233（-17）
 
 
 ---

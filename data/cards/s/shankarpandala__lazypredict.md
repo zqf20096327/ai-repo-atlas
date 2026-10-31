@@ -1,6 +1,6 @@
 # shankarpandala/lazypredict
 
-⭐ 3,348 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/shankarpandala/lazypredict) · 个人维护
+⭐ 3,349 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shankarpandala/lazypredict) · 个人维护
 
 **Python AutoML 基准工具：批量训练并对比分类/回归/时序模型**
 
@@ -45,13 +45,13 @@ LazyPredict 以少量代码同时训练 40+ 内置机器学习模型并输出指
 
 ```mermaid
 xychart-beta
-    title "shankarpandala/lazypredict 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    title "shankarpandala/lazypredict 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 3347 --> 3351
-    line [3350, 3348, 3349, 3348]
+    line [3350, 3348, 3349, 3348, 3349]
 ```
 
-2026-10-18 3,350 → 2026-10-30 3,348（-2）
+2026-10-18 3,350 → 2026-10-31 3,349（-1）
 
 
 ---

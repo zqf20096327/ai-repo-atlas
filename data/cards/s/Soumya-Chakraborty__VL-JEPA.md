@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Soumya-Chakraborty/VL-JEPA 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Soumya-Chakraborty/VL-JEPA 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 22 --> 25
-    line [23, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 24（+1）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

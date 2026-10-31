@@ -44,13 +44,13 @@ OpenAI Agents Python SDK 的 Go 语言移植版，提供构建多 Agent 工作�
 
 ```mermaid
 xychart-beta
-    title "nlpodyssey/openai-agents-go 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    title "nlpodyssey/openai-agents-go 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 271 --> 275
-    line [272, 273, 274]
+    line [272, 273, 274, 274]
 ```
 
-2026-10-18 272 → 2026-10-30 274（+2）
+2026-10-18 272 → 2026-10-31 274（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cordum-io/cordum
 
-⭐ 510 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
+⭐ 509 · Go · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
 
 **AI agent 治理控制平面：在风险操作前强制策略与人工审批**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cordum-io/cordum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 509 --> 512
-    line [511, 510, 510]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 508 --> 512
+    line [511, 510, 509]
 ```
 
-2026-10-18 511 → 2026-10-30 510（-1）
+2026-10-18 511 → 2026-10-31 509（-2）
 
 
 ---

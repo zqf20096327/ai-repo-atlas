@@ -1,6 +1,6 @@
 # yoanbernabeu/grepai-skills
 
-⭐ 20 · MIT · 推送 2026-02-01 · [GitHub](https://github.com/yoanbernabeu/grepai-skills) · [官网](https://github.com/yoanbernabeu/grepai) · 个人维护
+⭐ 20 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/yoanbernabeu/grepai-skills) · [官网](https://github.com/yoanbernabeu/grepai) · 个人维护
 
 **GrepAI 语义代码搜索工具的 27 条 AI agent 技能合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yoanbernabeu/grepai-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
     y-axis "stars" 19 --> 23
     line [22, 21, 20, 20]
 ```
 
-2026-10-18 22 → 2026-10-30 20（-2）
+2026-10-18 22 → 2026-10-31 20（-2）
 
 
 ---

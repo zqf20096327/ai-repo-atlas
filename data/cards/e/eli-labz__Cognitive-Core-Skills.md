@@ -1,6 +1,6 @@
 # eli-labz/Cognitive-Core-Skills
 
-⭐ 150 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/eli-labz/Cognitive-Core-Skills) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/eli-labz/Cognitive-Core-Skills) · 个人维护
 
 **面向 LLM/Agent 的认知核心技能分类体系（159 张技能卡）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eli-labz/Cognitive-Core-Skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 149 --> 159
-    line [158, 151, 150, 150]
+    line [158, 151, 150, 151]
 ```
 
-2026-10-18 158 → 2026-10-30 150（-8）
+2026-10-18 158 → 2026-10-31 151（-7）
 
 
 ---

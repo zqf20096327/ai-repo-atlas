@@ -1,6 +1,6 @@
 # sutro-sh/sutro
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/sutro-sh/sutro) · [官网](https://sutro.sh) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/sutro-sh/sutro) · [官网](https://sutro.sh) · 组织维护
 
 **构建与运行 LLM 判分/分类/抽取任务的 Python SDK 与批量推理平台**
 
@@ -45,12 +45,12 @@ Sutro 提供 Python SDK 与 CLI，面向团队构建基于偏好的 LLM 判分�
 ```mermaid
 xychart-beta
     title "sutro-sh/sutro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

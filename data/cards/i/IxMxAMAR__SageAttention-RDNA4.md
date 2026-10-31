@@ -46,12 +46,12 @@ sageattention 包的 drop-in 替换构建：底层为 SageAttention 2.2 与其 P
 ```mermaid
 xychart-beta
     title "IxMxAMAR/SageAttention-RDNA4 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 12 --> 16
     line [13, 15, 15]
 ```
 
-2026-10-18 13 → 2026-10-30 15（+2）
+2026-10-18 13 → 2026-10-31 15（+2）
 
 
 ---

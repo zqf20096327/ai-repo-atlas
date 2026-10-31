@@ -45,12 +45,12 @@ TypeScript CLI 工具，在仓库内生成可审查的 Markdown 与 JSON 产物�
 ```mermaid
 xychart-beta
     title "RavByte-AI/agent-memory-system 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

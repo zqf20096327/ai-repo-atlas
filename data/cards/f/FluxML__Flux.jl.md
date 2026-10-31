@@ -1,6 +1,6 @@
 # FluxML/Flux.jl
 
-⭐ 4,755 · Julia · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/FluxML/Flux.jl) · [官网](https://fluxml.ai/) · 组织维护
+⭐ 4,755 · Julia · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/FluxML/Flux.jl) · [官网](https://fluxml.ai/) · 组织维护
 
 **纯 Julia 的深度学习库，提供轻量抽象与 GPU/AD 支持**
 
@@ -45,12 +45,12 @@ Flux 是 100% 纯 Julia 实现的机器学习库，在 Julia 原生 GPU 支持�
 ```mermaid
 xychart-beta
     title "FluxML/Flux.jl 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 4753 --> 4758
     line [4754, 4755, 4756, 4757, 4756, 4755, 4755]
 ```
 
-2026-10-18 4,754 → 2026-10-30 4,755（+1）
+2026-10-18 4,754 → 2026-10-31 4,755（+1）
 
 
 ---

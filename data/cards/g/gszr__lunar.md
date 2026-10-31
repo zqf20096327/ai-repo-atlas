@@ -1,6 +1,6 @@
 # gszr/lunar
 
-⭐ 17 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/gszr/lunar) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gszr/lunar) · 个人维护
 
 **Lua 配置的终端编码 harness：连接模型读写执行代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gszr/lunar 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-10-30 17（+2）
+2026-10-18 15 → 2026-10-31 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # jeremylongshore/cad-ai-agent
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/jeremylongshore/cad-ai-agent) · 个人维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/jeremylongshore/cad-ai-agent) · 个人维护
 
 **面向 AEC 专业人员的 DXF/PDF 图纸自然语言编辑与审查平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jeremylongshore/cad-ai-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 44 --> 52
     line [45, 46, 48, 49, 51, 51]
 ```
 
-2026-10-18 45 → 2026-10-30 51（+6）
+2026-10-18 45 → 2026-10-31 51（+6）
 
 
 ---

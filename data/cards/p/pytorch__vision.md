@@ -1,6 +1,6 @@
 # pytorch/vision
 
-⭐ 17,973 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
+⭐ 17,978 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/pytorch/vision) · [官网](https://pytorch.org/vision) · 组织维护
 
 **给 CV 开发者提供数据集、模型架构与图像变换的 PyTorch 库**
 
@@ -50,13 +50,13 @@ torchvision 是 PyTorch 官方的计算机视觉库，提供三部分内容：�
 
 ```mermaid
 xychart-beta
-    title "pytorch/vision 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 17957 --> 17974
-    line [17958, 17960, 17965, 17967, 17969, 17971, 17973]
+    title "pytorch/vision 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 17956 --> 17980
+    line [17958, 17960, 17965, 17967, 17969, 17971, 17973, 17978]
 ```
 
-2026-10-18 17,958 → 2026-10-30 17,973（+15）
+2026-10-18 17,958 → 2026-10-31 17,978（+20）
 
 
 ---

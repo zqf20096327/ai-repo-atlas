@@ -44,13 +44,13 @@ AWS samples 出品的样例仓库，包含两部分：基准测试 harness 驱�
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-agentic-coding-harness-benchmarks 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    title "aws-samples/sample-agentic-coding-harness-benchmarks 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 14 --> 21
-    line [15, 16, 17, 18, 20]
+    line [15, 16, 17, 18, 20, 20]
 ```
 
-2026-10-18 15 → 2026-10-30 20（+5）
+2026-10-18 15 → 2026-10-31 20（+5）
 
 
 ---

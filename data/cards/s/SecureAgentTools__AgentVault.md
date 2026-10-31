@@ -43,12 +43,12 @@ AgentVault 是面向 AI agent 相互发现、可靠通信与安全协作（Agent
 ```mermaid
 xychart-beta
     title "SecureAgentTools/AgentVault 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-25", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-25 21 → 2026-10-30 21（+0）
+2026-10-25 21 → 2026-10-31 21（+0）
 
 
 ---

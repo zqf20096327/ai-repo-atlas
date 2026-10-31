@@ -1,6 +1,6 @@
 # limecloud/lime
 
-⭐ 1,491 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
+⭐ 1,492 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
 
 **开源全栈 AI Agent：桌面与 CLI/TUI 中完成编码、研究与内容交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "limecloud/lime 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 1485 --> 1492
-    line [1487, 1486, 1488, 1490, 1491, 1491]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 1485 --> 1493
+    line [1487, 1486, 1488, 1490, 1491, 1492]
 ```
 
-2026-10-18 1,487 → 2026-10-30 1,491（+4）
+2026-10-18 1,487 → 2026-10-31 1,492（+5）
 
 
 ---

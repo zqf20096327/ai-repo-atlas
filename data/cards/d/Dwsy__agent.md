@@ -1,6 +1,6 @@
 # Dwsy/agent
 
-⭐ 24 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Dwsy/agent) · [官网](https://dwsy.github.io/agent/) · 个人维护 · 中文 README
+⭐ 24 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/Dwsy/agent) · [官网](https://dwsy.github.io/agent/) · 个人维护 · 中文 README
 
 **面向软件开发的自主 AI 编排系统（monorepo：网关+技能+子代理）**
 
@@ -46,12 +46,12 @@ Pi Agent 是一个 monorepo 形态的 AI 编码代理系统，包含代理核心
 ```mermaid
 xychart-beta
     title "Dwsy/agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # NadirRouter/NadirClaw
 
-⭐ 660 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NadirRouter/NadirClaw) · [官网](https://getnadir.com) · 组织维护
+⭐ 661 · Python · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/NadirRouter/NadirClaw) · [官网](https://getnadir.com) · 组织维护
 
 **自托管 LLM 路由代理：按提示复杂度路由到不同价位模型并验证升级**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NadirRouter/NadirClaw 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
     y-axis "stars" 659 --> 662
-    line [660, 661, 660, 660]
+    line [660, 661, 660, 661]
 ```
 
-2026-10-18 660 → 2026-10-30 660（+0）
+2026-10-18 660 → 2026-10-31 661（+1）
 
 
 ---

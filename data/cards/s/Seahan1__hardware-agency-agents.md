@@ -1,6 +1,6 @@
 # Seahan1/hardware-agency-agents
 
-⭐ 29 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Seahan1/hardware-agency-agents) · 个人维护 · 中文 README
+⭐ 30 · Shell · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Seahan1/hardware-agency-agents) · 个人维护 · 中文 README
 
 **面向硬件工程师角色的 AI agent 技能文档库（47+16 条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Seahan1/hardware-agency-agents 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 22 --> 30
-    line [23, 24, 25, 26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 22 --> 31
+    line [23, 24, 25, 26, 27, 28, 29, 30]
 ```
 
-2026-10-18 23 → 2026-10-30 29（+6）
+2026-10-18 23 → 2026-10-31 30（+7）
 
 
 ---

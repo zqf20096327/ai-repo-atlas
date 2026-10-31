@@ -44,12 +44,12 @@ MRI 超分辨率深度学习综述（arXiv）的官方配套资源仓库，由 H
 ```mermaid
 xychart-beta
     title "mkhateri/Awesome-MRI-Super-Resolution 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-30 40（+0）
+2026-10-18 40 → 2026-10-31 40（+0）
 
 
 ---

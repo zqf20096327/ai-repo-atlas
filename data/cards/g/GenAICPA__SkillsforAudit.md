@@ -1,6 +1,6 @@
 # GenAICPA/SkillsforAudit
 
-⭐ 17 · Python · NOASSERTION · 推送 2025-11-03 · [GitHub](https://github.com/GenAICPA/SkillsforAudit) · [官网](http://www,computercpa.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向会计教育的 Claude Skills 财务审计教学课程与示例库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # secretflow/serving
 
-⭐ 16 · C++ · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/secretflow/serving) · [官网](https://www.secretflow.org.cn/en/docs/serving) · 组织维护
+⭐ 16 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/secretflow/serving) · [官网](https://www.secretflow.org.cn/en/docs/serving) · 组织维护
 
 **面向隐私计算机器学习模型的隐私保护推理服务系统**
 
@@ -43,12 +43,12 @@ SecretFlow 生态的模型服务系统，用于部署和提供隐私保护机器
 ```mermaid
 xychart-beta
     title "secretflow/serving 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

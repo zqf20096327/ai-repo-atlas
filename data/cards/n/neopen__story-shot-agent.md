@@ -1,6 +1,6 @@
 # neopen/story-shot-agent
 
-⭐ 233 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/neopen/story-shot-agent) · [官网](https://shot.helpenx.com/) · 个人维护 · 中文 README
+⭐ 234 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/neopen/story-shot-agent) · [官网](https://shot.helpenx.com/) · 个人维护 · 中文 README
 
 **剧本转分镜智能体：任意剧本拆分为视频模型提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "neopen/story-shot-agent 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 224 --> 234
-    line [225, 228, 229, 230, 231, 233]
+    title "neopen/story-shot-agent 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 224 --> 235
+    line [225, 228, 229, 230, 231, 233, 234]
 ```
 
-2026-10-18 225 → 2026-10-30 233（+8）
+2026-10-18 225 → 2026-10-31 234（+9）
 
 
 ---

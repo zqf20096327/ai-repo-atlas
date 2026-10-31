@@ -1,6 +1,6 @@
 # braindecode/braindecode
 
-⭐ 1,336 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/braindecode/braindecode) · [官网](https://braindecode.org/) · 组织维护
+⭐ 1,337 · Python · BSD-3-Clause · 推送 2026-10-29 · [GitHub](https://github.com/braindecode/braindecode) · [官网](https://braindecode.org/) · 组织维护
 
 **用深度学习解码 EEG/ECoG/MEG 脑电信号的 Python 工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "braindecode/braindecode 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1331 --> 1338
-    line [1332, 1333, 1334, 1335, 1336, 1337, 1336, 1336]
+    line [1332, 1333, 1334, 1335, 1336, 1337, 1336, 1337]
 ```
 
-2026-10-18 1,332 → 2026-10-30 1,336（+4）
+2026-10-18 1,332 → 2026-10-31 1,337（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # yoheinakajima/activegraph
 
-⭐ 708 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/yoheinakajima/activegraph) · [官网](https://activegraph.ai) · 个人维护
+⭐ 707 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/yoheinakajima/activegraph) · [官网](https://activegraph.ai) · 个人维护
 
 **事件溯源图运行时：为长时运行、可审计的 agent 提供框架**
 
@@ -45,12 +45,12 @@ Python 编写的反应式图运行时与 agent 构建框架：以对象+类型�
 ```mermaid
 xychart-beta
     title "yoheinakajima/activegraph 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-31"]
     y-axis "stars" 705 --> 709
-    line [706, 707, 708, 708]
+    line [706, 707, 708, 707]
 ```
 
-2026-10-18 706 → 2026-10-30 708（+2）
+2026-10-18 706 → 2026-10-31 707（+1）
 
 
 ---

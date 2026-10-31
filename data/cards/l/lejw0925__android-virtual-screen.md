@@ -1,6 +1,6 @@
 # lejw0925/android-virtual-screen
 
-⭐ 28 · Kotlin · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/lejw0925/android-virtual-screen) · 个人维护 · 中文 README
+⭐ 31 · Kotlin · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/lejw0925/android-virtual-screen) · 个人维护 · 中文 README
 
 **给 AI Agent 用的 Android 独立虚拟屏与认证 MCP 控制服务**
 
@@ -45,13 +45,13 @@ Android 应用：为本机 AI Agent 创建独立虚拟显示，Agent 可在虚�
 
 ```mermaid
 xychart-beta
-    title "lejw0925/android-virtual-screen 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1 --> 30
-    line [3, 7, 10, 13, 14, 15, 17, 20, 22, 23, 28]
+    title "lejw0925/android-virtual-screen 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1 --> 33
+    line [3, 7, 10, 13, 14, 15, 17, 20, 22, 23, 28, 31]
 ```
 
-2026-10-18 3 → 2026-10-30 28（+25）
+2026-10-18 3 → 2026-10-31 31（+28）
 
 
 ---

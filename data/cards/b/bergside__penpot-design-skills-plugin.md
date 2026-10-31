@@ -1,6 +1,6 @@
 # bergside/penpot-design-skills-plugin
 
-⭐ 15 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/bergside/penpot-design-skills-plugin) · [官网](https://penpot.app/penpothub/plugins/design-md-skills) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/bergside/penpot-design-skills-plugin) · [官网](https://penpot.app/penpothub/plugins/design-md-skills) · 组织维护
 
 **Penpot 插件：基于 TypeUI 生成设计系统 skill.md 文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bergside/penpot-design-skills-plugin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

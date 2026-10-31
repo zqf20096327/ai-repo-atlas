@@ -1,6 +1,6 @@
 # 3ALLBUY14/h3-prompt-builder
 
-⭐ 18 · MIT · 推送 2026-10-11 · [GitHub](https://github.com/3ALLBUY14/h3-prompt-builder) · 个人维护 · 中文 README
+⭐ 18 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/3ALLBUY14/h3-prompt-builder) · 个人维护 · 中文 README
 
 **MiniMax H3 视频提示词编写 skill，供 AI agent 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "3ALLBUY14/h3-prompt-builder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 18（+1）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

@@ -45,12 +45,12 @@ NotebookLM MCP 服务器（PleasePrompto/notebooklm-mcp 的安全加固分支，
 ```mermaid
 xychart-beta
     title "Pantheon-Security/notebooklm-mcp-secure 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 85 --> 89
     line [86, 87, 88, 88]
 ```
 
-2026-10-18 86 → 2026-10-30 88（+2）
+2026-10-18 86 → 2026-10-31 88（+2）
 
 
 ---

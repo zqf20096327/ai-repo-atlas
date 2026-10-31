@@ -1,6 +1,6 @@
 # pagraf/MagicBathyNet
 
-⭐ 53 · Jupyter Notebook · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/pagraf/MagicBathyNet) · [官网](https://www.magicbathy.eu) · 组织维护
+⭐ 54 · Jupyter Notebook · NOASSERTION · 推送 2026-03-02 · [GitHub](https://github.com/pagraf/MagicBathyNet) · [官网](https://www.magicbathy.eu) · 组织维护
 
 **浅水区多模态遥感基准数据集及水深预测与底质分类代码**
 
@@ -45,12 +45,12 @@ MagicBathyNet 是由 MagicBathy 项目（欧盟 HORIZON Europe 资助）发布�
 ```mermaid
 xychart-beta
     title "pagraf/MagicBathyNet 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 54（+1）
 
 
 ---

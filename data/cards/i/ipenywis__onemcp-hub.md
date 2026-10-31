@@ -44,12 +44,12 @@ OneMCP Hub 是 OneMCP 桌面应用（AI/MCP 相关主题）的社区中心仓库
 ```mermaid
 xychart-beta
     title "ipenywis/onemcp-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 79 --> 81
     line [80, 80]
 ```
 
-2026-10-18 80 → 2026-10-30 80（+0）
+2026-10-18 80 → 2026-10-31 80（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LNC0831/SynthPilot
 
-⭐ 56 · 推送 2026-08-17 · [GitHub](https://github.com/LNC0831/SynthPilot) · [官网](https://synthpilot.dev) · 个人维护 · 中文 README
+⭐ 57 · 推送 2026-08-17 · [GitHub](https://github.com/LNC0831/SynthPilot) · [官网](https://synthpilot.dev) · 个人维护 · 中文 README
 
 **让 AI 客户端接入 Vivado/TD/Quartus 的 FPGA 开发 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LNC0831/SynthPilot 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 55 --> 58
-    line [57, 56, 56]
+    line [57, 56, 57]
 ```
 
-2026-10-18 57 → 2026-10-30 56（-1）
+2026-10-18 57 → 2026-10-31 57（+0）
 
 
 ---

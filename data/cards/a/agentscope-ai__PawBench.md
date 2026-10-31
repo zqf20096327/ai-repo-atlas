@@ -1,6 +1,6 @@
 # agentscope-ai/PawBench
 
-⭐ 123 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/agentscope-ai/PawBench) · [官网](https://agentscope-ai.github.io/PawBench/) · 组织维护 · 中文 README
+⭐ 124 · Python · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/agentscope-ai/PawBench) · [官网](https://agentscope-ai.github.io/PawBench/) · 组织维护 · 中文 README
 
 **评测 LLM×harness 联合性能的 agent 基准（150 任务×9 模型×3 harness）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/PawBench 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 117 --> 124
-    line [118, 121, 122, 123]
+    title "agentscope-ai/PawBench 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 117 --> 125
+    line [118, 121, 122, 123, 124]
 ```
 
-2026-10-18 118 → 2026-10-30 123（+5）
+2026-10-18 118 → 2026-10-31 124（+6）
 
 
 ---

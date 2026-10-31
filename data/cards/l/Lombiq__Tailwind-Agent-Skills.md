@@ -44,13 +44,13 @@ Lombiq 维护的 Tailwind v4 开发 agent 技能仓库，含 tailwind-4-docs 技
 
 ```mermaid
 xychart-beta
-    title "Lombiq/Tailwind-Agent-Skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Lombiq/Tailwind-Agent-Skills 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 76 --> 79
-    line [77, 78]
+    line [77, 78, 78]
 ```
 
-2026-10-18 77 → 2026-10-30 78（+1）
+2026-10-18 77 → 2026-10-31 78（+1）
 
 
 ---

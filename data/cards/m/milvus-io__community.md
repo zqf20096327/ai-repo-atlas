@@ -1,6 +1,6 @@
 # milvus-io/community
 
-⭐ 37 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/milvus-io/community) · [官网](https://milvus-io.github.io/community/) · 组织维护
+⭐ 37 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/milvus-io/community) · [官网](https://milvus-io.github.io/community/) · 组织维护
 
 **Milvus 向量数据库的社区贡献与治理文档仓库**
 
@@ -45,12 +45,12 @@ Milvus 官方社区仓库，存放社区相关文档：说明贡献方式（改�
 ```mermaid
 xychart-beta
     title "milvus-io/community 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-30 37（+0）
+2026-10-18 37 → 2026-10-31 37（+0）
 
 
 ---

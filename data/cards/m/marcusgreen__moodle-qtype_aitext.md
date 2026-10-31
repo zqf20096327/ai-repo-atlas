@@ -1,6 +1,6 @@
 # marcusgreen/moodle-qtype_aitext
 
-⭐ 33 · PHP · 推送 2026-10-25 · [GitHub](https://github.com/marcusgreen/moodle-qtype_aitext) · [官网](https://moodle.org/plugins/qtype_aitext) · 个人维护
+⭐ 33 · PHP · 推送 2026-10-29 · [GitHub](https://github.com/marcusgreen/moodle-qtype_aitext) · [官网](https://moodle.org/plugins/qtype_aitext) · 个人维护
 
 **Moodle 题型插件：用远程 LLM 批改自由文本答案**
 
@@ -45,12 +45,12 @@ Moodle 4.5+ 的自由文本问答题型，将学生答案提交给外部 LLM（�
 ```mermaid
 xychart-beta
     title "marcusgreen/moodle-qtype_aitext 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # fajarhide/contexere
 
-⭐ 375 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
+⭐ 375 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
 
 **给编程 agent 的上下文/令牌压缩层，降噪减 token 且不丢数据**
 
@@ -40,6 +40,18 @@ Contexere（原 OMNI）是插在编码 agent 工具输出与模型读取之间�
 > L5:  The context and token layer for coding agents. It shrinks noisy tool output, folds what an agent already read, and 
 > L25: Contexere takes out what the model does not need, before the model reads it. Nothing is deleted: whatever it remove
 > L73: |**Full** (rewrites tool output before the model reads it)|Claude Code, Codex CLI, Gemini CLI, OpenClaw, Hermes, Pi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fajarhide/contexere 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 374 --> 376
+    line [375, 375]
+```
+
+2026-10-30 375 → 2026-10-31 375（+0）
 
 
 ---

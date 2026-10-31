@@ -1,6 +1,6 @@
 # lorenzozanizz/rendersynth
 
-⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lorenzozanizz/rendersynth) · [官网](https://lorenzozanizz.github.io/rendersynth/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/lorenzozanizz/rendersynth) · [官网](https://lorenzozanizz.github.io/rendersynth/) · 个人维护
 
 **Blender 扩展：无代码生成计算机视觉合成图像数据集**
 
@@ -45,12 +45,12 @@ Blender 4.5+ 扩展，通过程序化随机化与批量渲染生成带标注的�
 ```mermaid
 xychart-beta
     title "lorenzozanizz/rendersynth 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 27, 28]
 ```
 
-2026-10-18 24 → 2026-10-30 27（+3）
+2026-10-18 24 → 2026-10-31 28（+4）
 
 
 ---

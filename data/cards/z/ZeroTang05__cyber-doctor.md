@@ -1,6 +1,6 @@
 # ZeroTang05/cyber-doctor
 
-⭐ 511 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ZeroTang05/cyber-doctor) · 组织维护 · 中文 README
+⭐ 510 · Python · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/ZeroTang05/cyber-doctor) · 组织维护 · 中文 README
 
 **给关心健康的用户：可本地搭建的多模态医疗问答智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeroTang05/cyber-doctor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
+    title "ZeroTang05/cyber-doctor 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 506 --> 512
-    line [507, 508, 510, 511]
+    line [507, 508, 510, 511, 510]
 ```
 
-2026-10-18 507 → 2026-10-30 511（+4）
+2026-10-18 507 → 2026-10-31 510（+3）
 
 
 ---

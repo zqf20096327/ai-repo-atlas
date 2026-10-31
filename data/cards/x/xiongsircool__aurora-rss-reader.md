@@ -1,6 +1,6 @@
 # xiongsircool/aurora-rss-reader
 
-⭐ 132 · Dart · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/xiongsircool/aurora-rss-reader) · [官网](https://rss.526339.xyz) · 个人维护 · 中文 README
+⭐ 134 · Dart · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/xiongsircool/aurora-rss-reader) · [官网](https://rss.526339.xyz) · 个人维护 · 中文 README
 
 **AI 增强的跨平台 RSS 阅读器，支持摘要与多语言翻译**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiongsircool/aurora-rss-reader 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 130 --> 133
-    line [131, 132, 132]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 134]
 ```
 
-2026-10-18 131 → 2026-10-30 132（+1）
+2026-10-18 131 → 2026-10-31 134（+3）
 
 
 ---

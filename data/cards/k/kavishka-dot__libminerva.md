@@ -1,6 +1,6 @@
 # kavishka-dot/libminerva
 
-⭐ 59 · C · 推送 2026-05-13 · [GitHub](https://github.com/kavishka-dot/libminerva) · 个人维护
+⭐ 58 · C · 推送 2026-05-13 · [GitHub](https://github.com/kavishka-dot/libminerva) · 个人维护
 
 **面向 MCU 的加密验证神经网络推理库，最小支持 ATmega328P**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kavishka-dot/libminerva 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 57 --> 60
+    line [59, 58]
 ```
 
-2026-10-18 59 → 2026-10-30 59（+0）
+2026-10-18 59 → 2026-10-31 58（-1）
 
 
 ---

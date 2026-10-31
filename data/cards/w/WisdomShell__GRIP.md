@@ -46,12 +46,12 @@ ACL 2026 Main Conference 论文的官方代码库，发布 GRIP（Generation-gui
 ```mermaid
 xychart-beta
     title "WisdomShell/GRIP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

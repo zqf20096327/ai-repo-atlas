@@ -43,13 +43,13 @@ Hugging Face 维护的 Python 库，用于创建、保存和共享面向智能�
 
 ```mermaid
 xychart-beta
-    title "huggingface/simulate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "huggingface/simulate 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 195 --> 198
-    line [196, 197]
+    line [196, 197, 197]
 ```
 
-2026-10-18 196 → 2026-10-30 197（+1）
+2026-10-18 196 → 2026-10-31 197（+1）
 
 
 ---

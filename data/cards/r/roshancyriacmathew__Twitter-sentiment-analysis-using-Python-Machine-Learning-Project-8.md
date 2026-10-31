@@ -1,6 +1,6 @@
 # roshancyriacmathew/Twitter-sentiment-analysis-using-Python-Machine-Learning-Project-8
 
-⭐ 68 · Jupyter Notebook · 推送 2026-07-26 · [GitHub](https://github.com/roshancyriacmathew/Twitter-sentiment-analysis-using-Python-Machine-Learning-Project-8) · 个人维护
+⭐ 69 · Jupyter Notebook · 推送 2026-07-26 · [GitHub](https://github.com/roshancyriacmathew/Twitter-sentiment-analysis-using-Python-Machine-Learning-Project-8) · 个人维护
 
 **用 Python 对辉瑞疫苗推文做情感分析的教学项目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "roshancyriacmathew/Twitter-sentiment-analysis-using-Python-Machine-Learning-Project-8 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-18 68 → 2026-10-30 68（+0）
+2026-10-18 68 → 2026-10-31 69（+1）
 
 
 ---

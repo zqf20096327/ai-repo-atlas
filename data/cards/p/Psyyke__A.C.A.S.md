@@ -1,6 +1,6 @@
 # Psyyke/A.C.A.S
 
-⭐ 182 · JavaScript · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](https://psyyke.github.io) · 个人维护
+⭐ 183 · JavaScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](https://psyyke.github.io) · 个人维护
 
 **浏览器国际象棋辅助系统：多引擎实时给出走子建议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Psyyke/A.C.A.S 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 178 --> 183
-    line [179, 181, 180, 181, 182]
+    title "Psyyke/A.C.A.S 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 178 --> 184
+    line [179, 181, 180, 181, 182, 183]
 ```
 
-2026-10-18 179 → 2026-10-30 182（+3）
+2026-10-18 179 → 2026-10-31 183（+4）
 
 
 ---

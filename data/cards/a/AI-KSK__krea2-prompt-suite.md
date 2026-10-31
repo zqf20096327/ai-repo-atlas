@@ -1,6 +1,6 @@
 # AI-KSK/krea2-prompt-suite
 
-⭐ 18 · Python · 推送 2026-07-20 · [GitHub](https://github.com/AI-KSK/krea2-prompt-suite) · 组织维护 · 中文 README
+⭐ 19 · Python · 推送 2026-07-20 · [GitHub](https://github.com/AI-KSK/krea2-prompt-suite) · 组织维护 · 中文 README
 
 **面向 Krea 2 文生图的 Codex 技能：提示词创建、反推与修复**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AI-KSK/krea2-prompt-suite 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 17, 18, 19]
 ```
 
-2026-10-18 14 → 2026-10-30 18（+4）
+2026-10-18 14 → 2026-10-31 19（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # xiaonancs/openclaw-study
 
-⭐ 22 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/openclaw-study) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · NOASSERTION · 推送 2026-05-27 · [GitHub](https://github.com/xiaonancs/openclaw-study) · 个人维护 · 中文 README
 
 **OpenClaw 源码深度研究：27 章技术分析与生态调研文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaonancs/openclaw-study 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-10-31 23（+2）
 
 
 ---

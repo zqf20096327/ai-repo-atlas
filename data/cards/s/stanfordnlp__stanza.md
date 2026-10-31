@@ -1,6 +1,6 @@
 # stanfordnlp/stanza
 
-⭐ 7,905 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/stanfordnlp/stanza) · [官网](https://stanfordnlp.github.io/stanza/) · 组织维护
+⭐ 7,904 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/stanfordnlp/stanza) · [官网](https://stanfordnlp.github.io/stanza/) · 组织维护
 
 **面向 60+ 语言的多语言 NLP 工具库：分词、命名实体识别、句法分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stanfordnlp/stanza 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "stanfordnlp/stanza 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 7902 --> 7906
-    line [7905, 7904, 7905, 7903, 7904, 7903, 7904, 7905]
+    line [7905, 7904, 7905, 7903, 7904, 7903, 7904, 7905, 7904]
 ```
 
-2026-10-18 7,905 → 2026-10-30 7,905（+0）
+2026-10-18 7,905 → 2026-10-31 7,904（-1）
 
 
 ---

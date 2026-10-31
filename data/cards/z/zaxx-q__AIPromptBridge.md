@@ -1,6 +1,6 @@
 # zaxx-q/AIPromptBridge
 
-⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zaxx-q/AIPromptBridge) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/zaxx-q/AIPromptBridge) · 个人维护
 
 **系统级 AI 助手托盘应用：全局热键编辑文本、截屏识别、音频转写、TTS**
 
@@ -46,12 +46,12 @@ Windows/Linux 系统托盘应用，通过全局热键在任意应用中调用 AI
 ```mermaid
 xychart-beta
     title "zaxx-q/AIPromptBridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

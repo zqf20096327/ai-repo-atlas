@@ -1,6 +1,6 @@
 # langchain-ai/langmem
 
-⭐ 1,732 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/langchain-ai/langmem) · [官网](https://langchain-ai.github.io/langmem/) · 组织维护
+⭐ 1,736 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/langmem) · [官网](https://langchain-ai.github.io/langmem/) · 组织维护
 
 **让 LLM agent 从对话中提取并维护长期记忆的 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langmem 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1706 --> 1734
-    line [1708, 1713, 1716, 1719, 1722, 1726, 1727, 1732]
+    title "langchain-ai/langmem 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1706 --> 1738
+    line [1708, 1713, 1716, 1719, 1722, 1726, 1727, 1732, 1736]
 ```
 
-2026-10-18 1,708 → 2026-10-30 1,732（+24）
+2026-10-18 1,708 → 2026-10-31 1,736（+28）
 
 
 ---

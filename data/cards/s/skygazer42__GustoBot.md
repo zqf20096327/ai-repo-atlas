@@ -1,6 +1,6 @@
 # skygazer42/GustoBot
 
-⭐ 414 · Python · Apache-2.0 · 推送 2026-08-29 · [GitHub](https://github.com/skygazer42/GustoBot) · 组织维护 · 中文 README
+⭐ 413 · Python · Apache-2.0 · 推送 2026-08-29 · [GitHub](https://github.com/skygazer42/GustoBot) · 组织维护 · 中文 README
 
 **中华菜谱领域的 Multi-Agent 智能客服系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skygazer42/GustoBot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
     y-axis "stars" 409 --> 415
-    line [410, 411, 412, 413, 414, 414]
+    line [410, 411, 412, 413, 414, 413]
 ```
 
-2026-10-18 410 → 2026-10-30 414（+4）
+2026-10-18 410 → 2026-10-31 413（+3）
 
 
 ---

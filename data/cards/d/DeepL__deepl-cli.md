@@ -1,6 +1,6 @@
 # DeepL/deepl-cli
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/DeepL/deepl-cli) · [官网](https://www.deepl.com) · 组织维护
+⭐ 50 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/DeepL/deepl-cli) · [官网](https://www.deepl.com) · 组织维护
 
 **面向开发者的 DeepL 翻译/写作 API 命令行客户端**
 
@@ -45,12 +45,12 @@ DeepL 官方用 TypeScript 编写的 CLI 工具，封装 DeepL 翻译、Write �
 ```mermaid
 xychart-beta
     title "DeepL/deepl-cli 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 45 --> 51
+    line [46, 47, 48, 50]
 ```
 
-2026-10-18 46 → 2026-10-30 48（+2）
+2026-10-18 46 → 2026-10-31 50（+4）
 
 
 ---

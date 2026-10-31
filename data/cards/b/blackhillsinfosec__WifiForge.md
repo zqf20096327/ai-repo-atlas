@@ -1,6 +1,6 @@
 # blackhillsinfosec/WifiForge
 
-⭐ 1,224 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blackhillsinfosec/WifiForge) · 组织维护
+⭐ 1,226 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/blackhillsinfosec/WifiForge) · 组织维护
 
 **给渗透测试学习者的全虚拟 WiFi 攻击训练沙盒**
 
@@ -44,13 +44,13 @@ Black Hills InfoSec 开发的终端驱动框架，用 mininet-wifi 虚拟接口�
 
 ```mermaid
 xychart-beta
-    title "blackhillsinfosec/WifiForge 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "blackhillsinfosec/WifiForge 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1219 --> 1228
-    line [1220, 1223, 1226, 1227, 1226, 1225, 1223, 1225, 1224]
+    line [1220, 1223, 1226, 1227, 1226, 1225, 1223, 1225, 1224, 1226]
 ```
 
-2026-10-18 1,220 → 2026-10-30 1,224（+4）
+2026-10-18 1,220 → 2026-10-31 1,226（+6）
 
 
 ---

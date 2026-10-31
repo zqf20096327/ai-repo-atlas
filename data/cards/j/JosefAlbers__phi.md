@@ -1,6 +1,6 @@
 # JosefAlbers/phi
 
-⭐ 279 · Jupyter Notebook · MIT · 推送 2026-07-31 · [GitHub](https://github.com/JosefAlbers/phi) · [官网](https://medium.com/@albersj66) · 个人维护
+⭐ 280 · Jupyter Notebook · MIT · 推送 2026-07-31 · [GitHub](https://github.com/JosefAlbers/phi) · [官网](https://medium.com/@albersj66) · 个人维护
 
 **在 Apple Silicon 上本地运行 Phi 系列视觉与语言模型的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JosefAlbers/phi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 278 --> 280
-    line [279, 279]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 278 --> 281
+    line [279, 280]
 ```
 
-2026-10-18 279 → 2026-10-30 279（+0）
+2026-10-18 279 → 2026-10-31 280（+1）
 
 
 ---

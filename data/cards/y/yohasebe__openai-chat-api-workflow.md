@@ -45,12 +45,12 @@ Alfred 5 Powerpack 的付费扩展工作流，通过 OpenAI API 提供 GPT 对�
 ```mermaid
 xychart-beta
     title "yohasebe/openai-chat-api-workflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 317 --> 319
     line [318, 318]
 ```
 
-2026-10-18 318 → 2026-10-30 318（+0）
+2026-10-18 318 → 2026-10-31 318（+0）
 
 
 ---

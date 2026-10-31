@@ -46,13 +46,13 @@ sparks-baird 团队维护的自驱动实验室演示项目，覆盖三个教学�
 
 ```mermaid
 xychart-beta
-    title "sparks-baird/self-driving-lab-demo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "sparks-baird/self-driving-lab-demo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 88 --> 91
-    line [89, 90]
+    line [89, 90, 90]
 ```
 
-2026-10-18 89 → 2026-10-30 90（+1）
+2026-10-18 89 → 2026-10-31 90（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deepseek-php/deepseek-php-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "deepseek-php/deepseek-php-client 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 472 --> 475
-    line [473, 474]
+    line [473, 474, 474]
 ```
 
-2026-10-18 473 → 2026-10-30 474（+1）
+2026-10-18 473 → 2026-10-31 474（+1）
 
 
 ---

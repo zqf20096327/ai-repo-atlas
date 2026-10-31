@@ -1,6 +1,6 @@
 # howie6879/mlhub123
 
-⭐ 1,148 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/howie6879/mlhub123) · [官网](https://www.mlhub123.com/) · 个人维护 · 中文 README
+⭐ 1,148 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/howie6879/mlhub123) · [官网](https://www.mlhub123.com/) · 个人维护 · 中文 README
 
 **机器学习与深度学习网站资源汇总导航清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "howie6879/mlhub123 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1146 --> 1149
     line [1147, 1148, 1148]
 ```
 
-2026-10-18 1,147 → 2026-10-30 1,148（+1）
+2026-10-18 1,147 → 2026-10-31 1,148（+1）
 
 
 ---

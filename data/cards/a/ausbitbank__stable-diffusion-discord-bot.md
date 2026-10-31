@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ausbitbank/stable-diffusion-discord-bot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 210 --> 212
     line [211, 211]
 ```
 
-2026-10-18 211 → 2026-10-30 211（+0）
+2026-10-18 211 → 2026-10-31 211（+0）
 
 
 ---

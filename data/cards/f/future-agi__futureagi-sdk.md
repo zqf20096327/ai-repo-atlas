@@ -1,6 +1,6 @@
 # future-agi/futureagi-sdk
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/future-agi/futureagi-sdk) · [官网](https://app.futureagi.com) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/future-agi/futureagi-sdk) · [官网](https://app.futureagi.com) · 组织维护
 
 **面向开发者的 AI 评测、护栏与提示词管理 SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "future-agi/futureagi-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-30 52（+0）
+2026-10-18 52 → 2026-10-31 52（+0）
 
 
 ---

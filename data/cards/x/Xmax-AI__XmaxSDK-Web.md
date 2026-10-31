@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Web
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Web) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 65 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Web) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **接入 Xmax 视频生成服务的 JavaScript Web SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xmax-AI/XmaxSDK-Web 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "Xmax-AI/XmaxSDK-Web 星数(近 10 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 40 --> 70
-    line [58, 68, 42, 56, 61, 62, 63, 65, 64]
+    line [58, 68, 42, 56, 61, 62, 63, 65, 64, 65]
 ```
 
-2026-10-19 58 → 2026-10-30 64（+6）
+2026-10-19 58 → 2026-10-31 65（+7）
 
 
 ---

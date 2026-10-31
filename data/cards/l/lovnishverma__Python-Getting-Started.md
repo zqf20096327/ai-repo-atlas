@@ -1,6 +1,6 @@
 # lovnishverma/Python-Getting-Started
 
-⭐ 52 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/lovnishverma/Python-Getting-Started) · 个人维护
+⭐ 49 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/lovnishverma/Python-Getting-Started) · 个人维护
 
 **面向学习者的 Python 数据科学/ML/DL 实践笔记本合集（50+）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lovnishverma/Python-Getting-Started 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 48 --> 53
+    line [52, 49]
 ```
 
-2026-10-18 52 → 2026-10-30 52（+0）
+2026-10-18 52 → 2026-10-31 49（-3）
 
 
 ---

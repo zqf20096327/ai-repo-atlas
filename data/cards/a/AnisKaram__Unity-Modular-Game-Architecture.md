@@ -1,6 +1,6 @@
 # AnisKaram/Unity-Modular-Game-Architecture
 
-⭐ 16 · C# · 推送 2026-10-03 · [GitHub](https://github.com/AnisKaram/Unity-Modular-Game-Architecture) · 个人维护
+⭐ 17 · C# · 推送 2026-10-03 · [GitHub](https://github.com/AnisKaram/Unity-Modular-Game-Architecture) · 个人维护
 
 **Unity 6 模块化游戏架构示例框架，含 MVP/FSM/Utility AI 等多个系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AnisKaram/Unity-Modular-Game-Architecture 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-18 15 → 2026-10-30 16（+1）
+2026-10-18 15 → 2026-10-31 17（+2）
 
 
 ---

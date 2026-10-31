@@ -1,6 +1,6 @@
 # mantzaris/KeemenaLM.jl
 
-⭐ 16 · Julia · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mantzaris/KeemenaLM.jl) · [官网](https://mantzaris.github.io/KeemenaLM.jl/) · 个人维护
+⭐ 16 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mantzaris/KeemenaLM.jl) · [官网](https://mantzaris.github.io/KeemenaLM.jl/) · 个人维护
 
 **Julia 语言从零构建/训练/运行 GPT 式解码器模型的研究包**
 
@@ -46,12 +46,12 @@ Julia 语言的 GPT 风格解码器语言模型研究工具：覆盖语料准备
 ```mermaid
 xychart-beta
     title "mantzaris/KeemenaLM.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sinanuozdemir/advanced-ai-intensive 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "sinanuozdemir/advanced-ai-intensive 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 39 --> 43
-    line [40, 41, 42]
+    line [40, 41, 42, 42]
 ```
 
-2026-10-18 40 → 2026-10-30 42（+2）
+2026-10-18 40 → 2026-10-31 42（+2）
 
 
 ---

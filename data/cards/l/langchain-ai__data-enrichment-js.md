@@ -1,6 +1,6 @@
 # langchain-ai/data-enrichment-js
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/data-enrichment-js) · 组织维护
+⭐ 28 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/data-enrichment-js) · 组织维护
 
 **LangGraph 数据富集 agent 模板：开放式网络调研生成结构化 JSON**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/data-enrichment-js 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

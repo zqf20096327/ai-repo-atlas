@@ -1,6 +1,6 @@
 # Signal-Execution-Labs/mexc-future-agent
 
-⭐ 87 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Signal-Execution-Labs/mexc-future-agent) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **MEXC USDT 永续合约规则化交易机器人（Node CLI）**
 
@@ -11,7 +11,7 @@ TypeScript Node 命令行程序，面向 MEXC USDT 本位永续合约（contract
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

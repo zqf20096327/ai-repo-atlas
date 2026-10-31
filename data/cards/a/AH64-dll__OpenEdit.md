@@ -1,6 +1,6 @@
 # AH64-dll/OpenEdit
 
-⭐ 53 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AH64-dll/OpenEdit) · [官网](https://ah64-dll.github.io/OpenEdit/) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/AH64-dll/OpenEdit) · [官网](https://ah64-dll.github.io/OpenEdit/) · 个人维护
 
 **AI 原生本地视频编辑器，通过 MCP 供 agent 驱动剪辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AH64-dll/OpenEdit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 48 --> 54
-    line [49, 50, 51, 52, 53, 53]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 48 --> 56
+    line [49, 50, 51, 52, 53, 55]
 ```
 
-2026-10-18 49 → 2026-10-30 53（+4）
+2026-10-18 49 → 2026-10-31 55（+6）
 
 
 ---

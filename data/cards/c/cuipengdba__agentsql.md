@@ -1,6 +1,6 @@
 # cuipengdba/agentsql
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cuipengdba/agentsql) · [官网](https://agentsql.cn) · 个人维护 · 中文 README
+⭐ 15 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/cuipengdba/agentsql) · [官网](https://agentsql.cn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的数据库安全网关与生产级 MCP Server**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cuipengdba/agentsql 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
     y-axis "stars" 8 --> 16
     line [9, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 9 → 2026-10-30 15（+6）
+2026-10-18 9 → 2026-10-31 15（+6）
 
 
 ---

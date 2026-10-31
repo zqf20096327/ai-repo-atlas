@@ -1,6 +1,6 @@
 # taoAIGC/AICompare
 
-⭐ 128 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/taoAIGC/AICompare) · 个人维护 · 中文 README
+⭐ 129 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/taoAIGC/AICompare) · 个人维护 · 中文 README
 
 **一键在多标签内打开多个 AI 站点并排对比回答的浏览器扩展**
 
@@ -44,13 +44,13 @@ Chrome/Edge 浏览器扩展（原名 AI Shortcuts）：在单页内以 iframe �
 
 ```mermaid
 xychart-beta
-    title "taoAIGC/AICompare 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 125 --> 129
-    line [126, 127, 128]
+    title "taoAIGC/AICompare 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 125 --> 130
+    line [126, 127, 128, 129]
 ```
 
-2026-10-18 126 → 2026-10-30 128（+2）
+2026-10-18 126 → 2026-10-31 129（+3）
 
 
 ---

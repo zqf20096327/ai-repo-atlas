@@ -1,6 +1,6 @@
 # dp-web4/SAGE
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/dp-web4/SAGE) · 个人维护
+⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/dp-web4/SAGE) · 个人维护
 
 **将冻结 LLM 包裹于持久身份与治理层的认知架构研究环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dp-web4/SAGE 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 26 --> 29
     line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 27（-1）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

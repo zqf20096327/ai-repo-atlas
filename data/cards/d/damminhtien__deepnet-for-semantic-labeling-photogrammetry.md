@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damminhtien/deepnet-for-semantic-labeling-photogrammetry 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-31"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-19 22 → 2026-10-30 22（+0）
+2026-10-19 22 → 2026-10-31 22（+0）
 
 
 ---

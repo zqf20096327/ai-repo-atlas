@@ -45,12 +45,12 @@ Bhived MCP 是连接 AI agent 与 Bhived.ai 网络的 MCP 服务器，由两个 
 ```mermaid
 xychart-beta
     title "ArtKeyAi/bhived-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-18 35 → 2026-10-30 35（+0）
+2026-10-18 35 → 2026-10-31 35（+0）
 
 
 ---

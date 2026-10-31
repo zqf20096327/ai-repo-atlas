@@ -1,6 +1,6 @@
 # waifuai/waifu-sprites
 
-⭐ 20 · Python · MIT-0 · 推送 2026-05-14 · [GitHub](https://github.com/waifuai/waifu-sprites) · 个人维护
+⭐ 21 · Python · MIT-0 · 推送 2026-05-14 · [GitHub](https://github.com/waifuai/waifu-sprites) · 个人维护
 
 **hermes-agent 的桌宠插件：随 agent 状态换播情绪视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "waifuai/waifu-sprites 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 21（+1）
 
 
 ---

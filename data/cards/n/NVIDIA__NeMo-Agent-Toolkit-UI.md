@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Agent-Toolkit-UI
 
-⭐ 110 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) · 组织维护
+⭐ 109 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) · 组织维护
 
 **NeMo Agent Toolkit 的官方 Web 前端：聊天界面运行 agent 工作流**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的开源 Web UI，作为 NeMo Agent Toolkit（构建 AI agent 与�
 ```mermaid
 xychart-beta
     title "NVIDIA/NeMo-Agent-Toolkit-UI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 108 --> 111
+    line [110, 109]
 ```
 
-2026-10-18 110 → 2026-10-30 110（+0）
+2026-10-18 110 → 2026-10-31 109（-1）
 
 
 ---

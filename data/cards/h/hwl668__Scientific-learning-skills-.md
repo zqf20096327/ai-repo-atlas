@@ -1,6 +1,6 @@
 # hwl668/Scientific-learning-skills-
 
-⭐ 15 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/hwl668/Scientific-learning-skills-) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hwl668/Scientific-learning-skills-) · 个人维护 · 中文 README
 
 **面向学生的 Agent 技能包：让 AI 先诊断卡点再讲解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hwl668/Scientific-learning-skills- 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thomaszhou22/prompt-optimizer-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "Thomaszhou22/prompt-optimizer-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 15 --> 20
-    line [16, 17, 19]
+    line [16, 17, 19, 19]
 ```
 
-2026-10-18 16 → 2026-10-30 19（+3）
+2026-10-18 16 → 2026-10-31 19（+3）
 
 
 ---

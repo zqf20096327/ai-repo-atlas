@@ -46,12 +46,12 @@ AUTOMATIC1111 Stable Diffusion WebUI 的扩展，安装后在 WebUI 中增加一
 ```mermaid
 xychart-beta
     title "imrayya/stable-diffusion-webui-Prompt_Generator 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-28", "2026-10-31"]
     y-axis "stars" 242 --> 244
     line [243, 243]
 ```
 
-2026-10-28 243 → 2026-10-30 243（+0）
+2026-10-28 243 → 2026-10-31 243（+0）
 
 
 ---

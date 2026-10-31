@@ -1,6 +1,6 @@
 # ServiceNow/eva
 
-⭐ 232 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ServiceNow/eva) · [官网](https://servicenow.github.io/eva/) · 组织维护
+⭐ 233 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/ServiceNow/eva) · [官网](https://servicenow.github.io/eva/) · 组织维护
 
 **给语音 Agent 开发者与研究者：端到端评测多轮语音对话的开源框架**
 
@@ -45,12 +45,12 @@ EVA 是 ServiceNow 开源的对话式语音 Agent 评测框架：用 bot-to-bot 
 ```mermaid
 xychart-beta
     title "ServiceNow/eva 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 228 --> 233
-    line [229, 230, 231, 230, 231, 232, 232]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 228 --> 234
+    line [229, 230, 231, 230, 231, 232, 233]
 ```
 
-2026-10-18 229 → 2026-10-30 232（+3）
+2026-10-18 229 → 2026-10-31 233（+4）
 
 
 ---

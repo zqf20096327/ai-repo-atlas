@@ -44,12 +44,12 @@ Windows 桌面小工具（单文件 exe，从 GitHub Releases 下载 ZIP 运行�
 ```mermaid
 xychart-beta
     title "ChaserMeadowlark/local-ai-api-endpoint-manager-windows 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-19 20 → 2026-10-30 20（+0）
+2026-10-19 20 → 2026-10-31 20（+0）
 
 
 ---

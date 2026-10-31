@@ -1,6 +1,6 @@
 # hovanhoa/cursor-free-vip
 
-⭐ 723 · Python · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/hovanhoa/cursor-free-vip) · 个人维护 · 中文 README
+⭐ 724 · Python · NOASSERTION · 推送 2026-01-05 · [GitHub](https://github.com/hovanhoa/cursor-free-vip) · 个人维护 · 中文 README
 
 **自动注册 Cursor 账号并重置机器 ID 以绕过试用限制的工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hovanhoa/cursor-free-vip 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 707 --> 724
-    line [709, 708, 710, 714, 715, 716, 717, 722, 723]
+    title "hovanhoa/cursor-free-vip 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 707 --> 725
+    line [709, 708, 710, 714, 715, 716, 717, 722, 723, 724]
 ```
 
-2026-10-18 709 → 2026-10-30 723（+14）
+2026-10-18 709 → 2026-10-31 724（+15）
 
 
 ---

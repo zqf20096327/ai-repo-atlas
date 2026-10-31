@@ -45,12 +45,12 @@ Go 编写的 Kubernetes Operator，通过单个 Instance 自定义资源（CRD�
 ```mermaid
 xychart-beta
     title "stubbi/paperclip-operator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

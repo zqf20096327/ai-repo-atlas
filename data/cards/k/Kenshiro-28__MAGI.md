@@ -1,6 +1,6 @@
 # Kenshiro-28/MAGI
 
-⭐ 40 · Python · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/Kenshiro-28/MAGI) · 个人维护
+⭐ 40 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Kenshiro-28/MAGI) · 个人维护
 
 **本地开源 LLM 驱动的自主 AI 助手，含工具链与长期记忆**
 
@@ -45,12 +45,12 @@ MAGI 是基于开源大模型（GGUF，经 llama-cpp-python 运行）的对话�
 ```mermaid
 xychart-beta
     title "Kenshiro-28/MAGI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-18 40 → 2026-10-30 40（+0）
+2026-10-18 40 → 2026-10-31 40（+0）
 
 
 ---

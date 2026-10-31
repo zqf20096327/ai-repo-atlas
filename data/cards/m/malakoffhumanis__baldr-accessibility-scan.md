@@ -1,6 +1,6 @@
 # malakoffhumanis/baldr-accessibility-scan
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/malakoffhumanis/baldr-accessibility-scan) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/malakoffhumanis/baldr-accessibility-scan) · 组织维护
 
 **给开发与合规团队的 RGAA/WCAG 网页无障碍自动审计工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "malakoffhumanis/baldr-accessibility-scan 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

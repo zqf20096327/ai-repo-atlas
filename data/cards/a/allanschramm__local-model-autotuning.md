@@ -1,6 +1,6 @@
 # allanschramm/local-model-autotuning
 
-⭐ 25 · Python · 推送 2026-10-17 · [GitHub](https://github.com/allanschramm/local-model-autotuning) · [官网](https://ailocal.com.br/) · 个人维护 · 中文 README
+⭐ 26 · Python · 推送 2026-10-30 · [GitHub](https://github.com/allanschramm/local-model-autotuning) · [官网](https://ailocal.com.br/) · 个人维护 · 中文 README
 
 **llama.cpp 本地模型运行时参数的自动调优工具（爬山循环）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "allanschramm/local-model-autotuning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

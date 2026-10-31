@@ -44,12 +44,12 @@ Clarifai 官方维护的 Node.js gRPC 客户端库，用于访问 Clarifai 平�
 ```mermaid
 xychart-beta
     title "Clarifai/clarifai-nodejs-grpc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-18 50 → 2026-10-30 50（+0）
+2026-10-18 50 → 2026-10-31 50（+0）
 
 
 ---

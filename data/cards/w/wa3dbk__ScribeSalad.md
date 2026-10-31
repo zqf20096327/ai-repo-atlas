@@ -1,6 +1,6 @@
 # wa3dbk/ScribeSalad
 
-⭐ 90 · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/wa3dbk/ScribeSalad) · 个人维护
+⭐ 91 · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/wa3dbk/ScribeSalad) · 个人维护
 
 **94 万+条 YouTube 视频转录文本开放数据集，多语言多主题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wa3dbk/ScribeSalad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-18 90 → 2026-10-30 90（+0）
+2026-10-18 90 → 2026-10-31 91（+1）
 
 
 ---

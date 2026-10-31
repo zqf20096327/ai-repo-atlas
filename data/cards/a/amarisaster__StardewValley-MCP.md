@@ -1,6 +1,6 @@
 # amarisaster/StardewValley-MCP
 
-⭐ 39 · C# · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/amarisaster/StardewValley-MCP) · 个人维护
+⭐ 40 · C# · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/amarisaster/StardewValley-MCP) · 个人维护
 
 **让 AI 陪伴角色通过 MCP 操作星露谷物语的模组+服务端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amarisaster/StardewValley-MCP 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 31 --> 40
-    line [32, 34, 36, 37, 38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 31 --> 41
+    line [32, 34, 36, 37, 38, 39, 40]
 ```
 
-2026-10-18 32 → 2026-10-30 39（+7）
+2026-10-18 32 → 2026-10-31 40（+8）
 
 
 ---

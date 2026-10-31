@@ -45,12 +45,12 @@ Python 编写的通用知识库（knowledge bank）系统，为 LLM 应用提供
 ```mermaid
 xychart-beta
     title "OoriData/OgbujiPT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 114 --> 116
     line [115, 115]
 ```
 
-2026-10-18 115 → 2026-10-30 115（+0）
+2026-10-18 115 → 2026-10-31 115（+0）
 
 
 ---

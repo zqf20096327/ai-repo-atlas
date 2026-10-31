@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DataVyn-labs/DataVyn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "DataVyn-labs/DataVyn 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 24 --> 27
-    line [25, 26]
+    line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 26（+1）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

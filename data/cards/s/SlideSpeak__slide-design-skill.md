@@ -1,6 +1,6 @@
 # SlideSpeak/slide-design-skill
 
-⭐ 31 · TypeScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/SlideSpeak/slide-design-skill) · [官网](https://slidespeak.co) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/SlideSpeak/slide-design-skill) · [官网](https://slidespeak.co) · 组织维护
 
 **为 agent 提供的 AI 演示文稿引擎：从简报生成 1920×1080 HTML 幻灯片**
 
@@ -44,13 +44,13 @@ SlideSpeak 开发的演示文稿生成引擎，以 agent skill 形式发布：�
 
 ```mermaid
 xychart-beta
-    title "SlideSpeak/slide-design-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 31]
+    title "SlideSpeak/slide-design-skill 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 27 --> 34
+    line [28, 29, 31, 33]
 ```
 
-2026-10-18 28 → 2026-10-30 31（+3）
+2026-10-18 28 → 2026-10-31 33（+5）
 
 
 ---

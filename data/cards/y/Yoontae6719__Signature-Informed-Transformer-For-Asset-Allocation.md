@@ -44,13 +44,13 @@ SIGNATURE-INFORMED TRANSFORMER FOR ASSET ALLOCATION 论文的原始 PyTorch 实�
 
 ```mermaid
 xychart-beta
-    title "Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-30 28（+1）
+2026-10-18 27 → 2026-10-31 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pushkinist/rMLX
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Pushkinist/rMLX) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Pushkinist/rMLX) · 个人维护
 
 **Apple Silicon 上的 Rust 单二进制 MLX 推理服务器，OpenAI/Anthropic 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pushkinist/rMLX 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

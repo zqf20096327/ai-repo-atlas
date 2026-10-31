@@ -1,6 +1,6 @@
 # cohere-ai/cohere-go
 
-⭐ 69 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cohere-ai/cohere-go) · 组织维护
+⭐ 70 · Go · MIT · 推送 2026-10-21 · [GitHub](https://github.com/cohere-ai/cohere-go) · 组织维护
 
 **官方 Go SDK：在 Go 程序中调用 Cohere API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-18 69 → 2026-10-30 69（+0）
+2026-10-18 69 → 2026-10-31 70（+1）
 
 
 ---

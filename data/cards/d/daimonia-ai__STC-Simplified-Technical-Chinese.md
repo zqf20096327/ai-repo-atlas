@@ -1,6 +1,6 @@
 # daimonia-ai/STC-Simplified-Technical-Chinese
 
-⭐ 115 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
+⭐ 114 · JavaScript · CC-BY-4.0 · 推送 2026-10-20 · [GitHub](https://github.com/daimonia-ai/STC-Simplified-Technical-Chinese) · [官网](https://daimonia.ai/open-source/stc/?utm_source=github&utm_medium=repository&utm_campaign=stc) · 组织维护 · 中文 README
 
 **给 AI 用的开源中文写作规范：规则、词表与检查工具**
 
@@ -45,13 +45,13 @@ STC 提供中文表达规则（通用规则加对话、文档、产品界面、A
 
 ```mermaid
 xychart-beta
-    title "daimonia-ai/STC-Simplified-Technical-Chinese 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "daimonia-ai/STC-Simplified-Technical-Chinese 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 66 --> 119
-    line [70, 81, 89, 93, 97, 100, 103, 106, 112, 115]
+    line [70, 81, 89, 93, 97, 100, 103, 106, 112, 115, 114]
 ```
 
-2026-10-18 70 → 2026-10-30 115（+45）
+2026-10-18 70 → 2026-10-31 114（+44）
 
 
 ---

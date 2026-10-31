@@ -1,6 +1,6 @@
 # repotracer/repotracer
 
-⭐ 38 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/repotracer/repotracer) · [官网](https://repotracer.tech) · 组织维护
+⭐ 37 · Rust · MIT · 推送 2026-10-08 · [GitHub](https://github.com/repotracer/repotracer) · [官网](https://repotracer.tech) · 组织维护
 
 **为 Claude Code / Codex 分流代码库调查的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "repotracer/repotracer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 37（-1）
 
 
 ---

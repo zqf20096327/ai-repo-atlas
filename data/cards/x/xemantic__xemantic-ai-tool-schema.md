@@ -45,12 +45,12 @@ Kotlin 多平台库，从标记 @Serializable 的 Kotlin 类（基于 kotlinx.se
 ```mermaid
 xychart-beta
     title "xemantic/xemantic-ai-tool-schema 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-18 52 → 2026-10-30 52（+0）
+2026-10-18 52 → 2026-10-31 52（+0）
 
 
 ---

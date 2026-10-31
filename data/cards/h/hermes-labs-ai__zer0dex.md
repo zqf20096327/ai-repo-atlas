@@ -1,6 +1,6 @@
 # hermes-labs-ai/zer0dex
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hermes-labs-ai/zer0dex) · [官网](https://hermes-labs.ai) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/hermes-labs-ai/zer0dex) · [官网](https://hermes-labs.ai) · 组织维护
 
 **AI agent 双层长期记忆参考实现：可读索引+本地向量检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hermes-labs-ai/zer0dex 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 62 --> 65
+    line [63, 64]
 ```
 
-2026-10-18 63 → 2026-10-30 63（+0）
+2026-10-18 63 → 2026-10-31 64（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gregordinary/rocket-userspace
 
-⭐ 23 · C · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/gregordinary/rocket-userspace) · 个人维护
+⭐ 23 · C · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/gregordinary/rocket-userspace) · 个人维护
 
 **面向 Rockchip NPU 的用户态驱动与 matmul/算子库（RK3588/RK3576）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gregordinary/rocket-userspace 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 19 --> 24
     line [20, 21, 22, 23, 23]
 ```
 
-2026-10-18 20 → 2026-10-30 23（+3）
+2026-10-18 20 → 2026-10-31 23（+3）
 
 
 ---

@@ -1,0 +1,45 @@
+# uaoa/commit-pen
+
+⭐ 19 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/uaoa/commit-pen) · 个人维护
+
+**VS Code 扩展：调用 Claude 为 Git 变更生成 commit 信息**
+
+Commit Pen 是一个 VS Code 扩展，读取仓库 diff 后发送给 Claude，将生成的 commit 信息填入源代码管理输入框，由用户审阅修改后提交。后端优先使用本地 Claude Code CLI（无需单独 API key），可回退到 Anthropic API；支持自动发现 CLI 路径（PATH、VS Code 扩展内二进制、shell 配置、常见安装目录），并兼容 WSL、Remote-SSH 与 dev containers。支持 Conventional Commits 等多种风格、自定义提示模板、Haiku/Sonnet/Opus 或精确模型 ID、四种输出语言及多仓库工作区。API key 存于系统密钥库。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | locked-api |  |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 读取 diff 经 Claude Code CLI 或 Anthropic API 生成 commit 信息
+- CLI 自动发现（PATH/VS Code 扩展/shell 配置/常见路径），支持 WSL/Remote-SSH/dev containers
+- Conventional Commits、前缀、纯描述或自定义提示模板等多种风格
+- 可选 Haiku/Sonnet/Opus 或精确模型 ID，支持英/韩/乌/中四种语言
+
+## 适用场景
+
+- 在 VS Code 中一键为当前改动生成 commit 信息
+- 按团队规范（Conventional Commits 或自定义模板）批量撰写提交说明
+- 多仓库工作区中为指定仓库生成提交信息
+
+## 场景标签
+
+ · 领域:开发者工具/Git
+
+## 证据(README 行号)
+
+> L10: Commit Pen writes Git commit messages for you. It reads the diff of your repository, sends it to Claude through the
+> L19: - **CLI first, API as a fallback.** Uses the local Claude Code CLI when it is available, so no separate API key is 
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `7549d8198b0d` · [字段定义](../../DATASET.md)*

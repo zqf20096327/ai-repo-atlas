@@ -1,6 +1,6 @@
 # jackwener/DeepseekHarness-Android
 
-⭐ 182 · Kotlin · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/jackwener/DeepseekHarness-Android) · 个人维护 · 中文 README
+⭐ 496 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/jackwener/DeepseekHarness-Android) · 个人维护 · 中文 README
 
 **安卓手机免 ROOT 运行 DeepSeek Harness 的手机 Agent 应用**
 
@@ -39,6 +39,18 @@
 
 > L5: 在安卓手机上运行 DeepSeek Harness（dsh）：用一句话让它整理文件、操作 App、修改系统设置，或者设置自动执行的任务。
 > L40: - **完整的 dsh**：dsh 原样运行（没有 fork），技能、MCP、子 agent、网页搜索都能用。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jackwener/DeepseekHarness-Android 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 151 --> 527
+    line [182, 496]
+```
+
+2026-10-30 182 → 2026-10-31 496（+314）
 
 
 ---

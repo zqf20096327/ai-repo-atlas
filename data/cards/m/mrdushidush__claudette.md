@@ -1,6 +1,6 @@
 # mrdushidush/claudette
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mrdushidush/claudette) · [官网](https://github.com/mrdushidush/claudette) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/mrdushidush/claudette) · [官网](https://github.com/mrdushidush/claudette) · 个人维护
 
 **单文件 Rust 离线 AI 编程代理，驱动本地模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrdushidush/claudette 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

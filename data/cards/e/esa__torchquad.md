@@ -1,6 +1,6 @@
 # esa/torchquad
 
-⭐ 229 · Python · GPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/esa/torchquad) · [官网](https://www.esa.int/gsp/ACT/open_source/torchquad/) · 组织维护
+⭐ 229 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/esa/torchquad) · [官网](https://www.esa.int/gsp/ACT/open_source/torchquad/) · 组织维护
 
 **面向科研与 ML 社区的 GPU 高维数值积分库**
 
@@ -45,12 +45,12 @@ ESA 维护的 Python 数值积分模块，基于 autoray 构建，支持 PyTorch
 ```mermaid
 xychart-beta
     title "esa/torchquad 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 228 --> 230
     line [229, 229]
 ```
 
-2026-10-18 229 → 2026-10-30 229（+0）
+2026-10-18 229 → 2026-10-31 229（+0）
 
 
 ---

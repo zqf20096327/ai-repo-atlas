@@ -1,6 +1,6 @@
 # mlr-org/mlr3torch
 
-⭐ 56 · R · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/mlr-org/mlr3torch) · [官网](https://mlr3torch.mlr-org.com) · 组织维护
+⭐ 56 · R · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mlr-org/mlr3torch) · [官网](https://mlr3torch.mlr-org.com) · 组织维护
 
 **R 语言的深度学习框架，基于 torch 并融入 mlr3 生态**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlr-org/mlr3torch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-18 56 → 2026-10-30 56（+0）
+2026-10-18 56 → 2026-10-31 56（+0）
 
 
 ---

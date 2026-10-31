@@ -1,6 +1,6 @@
 # Guang000/Awesome-Dataset-Distillation
 
-⭐ 1,980 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 组织维护
+⭐ 1,979 · HTML · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation) · [官网](https://guang000.github.io/Awesome-Dataset-Distillation/) · 组织维护
 
 **数据集蒸馏领域论文策展清单，按方法类别组织**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Guang000/Awesome-Dataset-Distillation 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31"]
     y-axis "stars" 1974 --> 1981
-    line [1975, 1977, 1978, 1979, 1980, 1980]
+    line [1975, 1977, 1978, 1979, 1980, 1979]
 ```
 
-2026-10-18 1,975 → 2026-10-30 1,980（+5）
+2026-10-18 1,975 → 2026-10-31 1,979（+4）
 
 
 ---

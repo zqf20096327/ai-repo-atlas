@@ -45,12 +45,12 @@ OpenAI 发布的两个安全推理模型 gpt-oss-safeguard-120b 与 gpt-oss-safe
 ```mermaid
 xychart-beta
     title "openai/gpt-oss-safeguard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 60 --> 63
     line [61, 62, 62]
 ```
 
-2026-10-18 61 → 2026-10-30 62（+1）
+2026-10-18 61 → 2026-10-31 62（+1）
 
 
 ---

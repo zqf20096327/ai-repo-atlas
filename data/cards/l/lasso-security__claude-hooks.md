@@ -46,12 +46,12 @@ Lasso Security 维护的 Claude Code hooks 集合，核心为 Prompt Injection D
 ```mermaid
 xychart-beta
     title "lasso-security/claude-hooks 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 266 --> 270
     line [267, 269, 269]
 ```
 
-2026-10-18 267 → 2026-10-30 269（+2）
+2026-10-18 267 → 2026-10-31 269（+2）
 
 
 ---

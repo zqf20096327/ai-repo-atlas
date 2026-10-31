@@ -1,6 +1,6 @@
 # TheDesignFounder/DreamLayer-Eval
 
-⭐ 412 · Python · GPL-3.0 · 推送 2026-09-09 · [GitHub](https://github.com/TheDesignFounder/DreamLayer-Eval) · [官网](https://dreamlayer.io/opensource) · 组织维护
+⭐ 412 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/TheDesignFounder/DreamLayer-Eval) · [官网](https://dreamlayer.io/opensource) · 组织维护
 
 **图像/视频扩散模型的开源基准评测平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TheDesignFounder/DreamLayer-Eval 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 411 --> 414
     line [413, 412, 412]
 ```
 
-2026-10-18 413 → 2026-10-30 412（-1）
+2026-10-18 413 → 2026-10-31 412（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # johnsonlee/graphite
 
-⭐ 15 · Kotlin · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/johnsonlee/graphite) · [官网](https://johnsonlee.io/graphite/) · 个人维护 · 中文 README
+⭐ 15 · Kotlin · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/johnsonlee/graphite) · [官网](https://johnsonlee.io/graphite/) · 个人维护 · 中文 README
 
 **把 JVM 字节码转为可查询程序图，为 LLM 提供代码库上下文**
 
@@ -47,12 +47,12 @@ Graphite 从 JVM/Android 编译产物（JAR/APK）构建程序图：节点为程
 ```mermaid
 xychart-beta
     title "johnsonlee/graphite 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

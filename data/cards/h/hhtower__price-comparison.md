@@ -1,6 +1,6 @@
 # hhtower/price-comparison
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
+⭐ 78 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
 
 **自部署的 AI 商品比价站：采集、归类与跨商铺价格比较**
 
@@ -39,6 +39,18 @@
 
 > L7: 一个自部署的 AI 商品比价站，支持商铺采集、报价比较、标准商品归类、价格历史和管理后台。使用 React、NestJS / Fastify、PostgreSQL 和 Redis；AI 自动化流程将采集后的商品依次进行身份识别、独立
 > L30: 开发模式运行 `npm run dev`，访问终端显示的前端地址。配置项见 .env.example，worker 和部署说明见 WORKFLOW.md。AI 默认关闭，启用后会向配置的模型服务发送商品证据并可能产生费用。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hhtower/price-comparison 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 15 --> 83
+    line [20, 78]
+```
+
+2026-10-30 20 → 2026-10-31 78（+58）
 
 
 ---

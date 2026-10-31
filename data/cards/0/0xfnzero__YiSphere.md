@@ -1,6 +1,6 @@
 # 0xfnzero/YiSphere
 
-⭐ 16 · Python · 推送 2026-10-22 · [GitHub](https://github.com/0xfnzero/YiSphere) · [官网](https://fnzero.dev/) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-10-22 · [GitHub](https://github.com/0xfnzero/YiSphere) · [官网](https://fnzero.dev/) · 个人维护 · 中文 README
 
 **面向用户的 AI 传统术数对话应用：易经占卜、八字排盘、择日取名**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0xfnzero/YiSphere 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

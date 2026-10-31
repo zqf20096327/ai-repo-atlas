@@ -1,6 +1,6 @@
 # langchain-ai/chat-langchain
 
-⭐ 6,472 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
+⭐ 6,472 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
 
 **回答 LangChain 系列文档问题的生产级文档助手 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/chat-langchain 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "langchain-ai/chat-langchain 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 6465 --> 6473
-    line [6466, 6469, 6471, 6472, 6470, 6471, 6472]
+    line [6466, 6469, 6471, 6472, 6470, 6471, 6472, 6472]
 ```
 
-2026-10-18 6,466 → 2026-10-30 6,472（+6）
+2026-10-18 6,466 → 2026-10-31 6,472（+6）
 
 
 ---

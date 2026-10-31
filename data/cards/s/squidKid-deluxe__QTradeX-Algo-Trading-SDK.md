@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "squidKid-deluxe/QTradeX-Algo-Trading-SDK 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    title "squidKid-deluxe/QTradeX-Algo-Trading-SDK 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 87 --> 91
-    line [88, 89, 90]
+    line [88, 89, 90, 90]
 ```
 
-2026-10-18 88 → 2026-10-30 90（+2）
+2026-10-18 88 → 2026-10-31 90（+2）
 
 
 ---

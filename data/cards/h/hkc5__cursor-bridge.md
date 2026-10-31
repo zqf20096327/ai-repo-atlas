@@ -1,6 +1,6 @@
 # hkc5/cursor-bridge
 
-⭐ 71 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/hkc5/cursor-bridge) · 个人维护
+⭐ 70 · Rust · MIT · 推送 2026-10-10 · [GitHub](https://github.com/hkc5/cursor-bridge) · 个人维护
 
 **用 Cursor 订阅后端运行 Claude Code 的 Rust 单二进制代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hkc5/cursor-bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 69 --> 72
+    line [71, 70]
 ```
 
-2026-10-18 71 → 2026-10-30 71（+0）
+2026-10-18 71 → 2026-10-31 70（-1）
 
 
 ---

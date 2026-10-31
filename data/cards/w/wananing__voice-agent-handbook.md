@@ -1,6 +1,6 @@
 # wananing/voice-agent-handbook
 
-⭐ 18 · Python · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/wananing/voice-agent-handbook) · 个人维护 · 中文 README
+⭐ 19 · Python · CC-BY-4.0 · 推送 2026-10-23 · [GitHub](https://github.com/wananing/voice-agent-handbook) · 个人维护 · 中文 README
 
 **实时语音 agent 架构手册：四种链路形态与七个机制的选型参考**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wananing/voice-agent-handbook 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 9 --> 19
-    line [10, 13, 16, 17, 18]
+    title "wananing/voice-agent-handbook 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 9 --> 20
+    line [10, 13, 16, 17, 18, 19]
 ```
 
-2026-10-18 10 → 2026-10-30 18（+8）
+2026-10-18 10 → 2026-10-31 19（+9）
 
 
 ---

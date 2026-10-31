@@ -1,6 +1,6 @@
 # rasbt/mini-coding-agent
 
-⭐ 1,218 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/rasbt/mini-coding-agent) · [官网](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent) · 个人维护
+⭐ 1,220 · Python · Apache-2.0 · 推送 2026-04-07 · [GitHub](https://github.com/rasbt/mini-coding-agent) · [官网](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent) · 个人维护
 
 **教学用极简编码代理实现，解释 coding agent 核心组件**
 
@@ -45,13 +45,13 @@ Sebastian Raschka 维护的独立编码代理（单文件 Python 脚本 + mini-c
 
 ```mermaid
 xychart-beta
-    title "rasbt/mini-coding-agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1202 --> 1219
-    line [1203, 1204, 1209, 1210, 1211, 1212, 1216, 1217, 1218]
+    title "rasbt/mini-coding-agent 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1202 --> 1221
+    line [1203, 1204, 1209, 1210, 1211, 1212, 1216, 1217, 1218, 1220]
 ```
 
-2026-10-18 1,203 → 2026-10-30 1,218（+15）
+2026-10-18 1,203 → 2026-10-31 1,220（+17）
 
 
 ---

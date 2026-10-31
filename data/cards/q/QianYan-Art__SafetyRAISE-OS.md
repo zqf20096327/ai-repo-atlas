@@ -1,6 +1,6 @@
 # QianYan-Art/SafetyRAISE-OS
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/QianYan-Art/SafetyRAISE-OS) · [官网](https://safetyraise.cn) · 组织维护 · 中文 README
+⭐ 43 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/QianYan-Art/SafetyRAISE-OS) · [官网](https://safetyraise.cn) · 组织维护 · 中文 README
 
 **道路交通事故分析报告生成系统：从影像材料到文书导出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QianYan-Art/SafetyRAISE-OS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 43（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # b-data/jupyterlab-python-docker-stack
 
-⭐ 41 · Dockerfile · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/b-data/jupyterlab-python-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/python/docker-stack) · 组织维护
+⭐ 41 · Dockerfile · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/b-data/jupyterlab-python-docker-stack) · [官网](https://gitlab.com/b-data/jupyterlab/python/docker-stack) · 组织维护
 
 **面向 Python 数据科学的 JupyterLab 多架构 Docker 镜像栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "b-data/jupyterlab-python-docker-stack 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-30 41（+0）
+2026-10-18 41 → 2026-10-31 41（+0）
 
 
 ---

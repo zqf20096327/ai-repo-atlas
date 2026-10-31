@@ -1,6 +1,6 @@
 # mosesman831/PolyGnosis
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-07-16 · [GitHub](https://github.com/mosesman831/PolyGnosis) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-07-16 · [GitHub](https://github.com/mosesman831/PolyGnosis) · 个人维护
 
 **Hermes Agent 的多模型对抗共识协议：多模型独立解题+批判评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mosesman831/PolyGnosis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 15（-1）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

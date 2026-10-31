@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LSTM-Kirigaya/DiskRookie 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "LSTM-Kirigaya/DiskRookie 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 79 --> 82
-    line [80, 81]
+    line [80, 81, 81]
 ```
 
-2026-10-18 80 → 2026-10-30 81（+1）
+2026-10-18 80 → 2026-10-31 81（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Deno2026/comfyui-deno-custom-nodes
 
-⭐ 196 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Deno2026/comfyui-deno-custom-nodes) · [官网](https://github.com/Deno2026/comfyui-deno-custom-nodes#readme) · 个人维护 · 中文 README
+⭐ 197 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Deno2026/comfyui-deno-custom-nodes) · [官网](https://github.com/Deno2026/comfyui-deno-custom-nodes#readme) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点包：媒体加载/比较与生成工作流辅助工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Deno2026/comfyui-deno-custom-nodes 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 191 --> 197
-    line [192, 193, 194, 196, 196]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 191 --> 198
+    line [192, 193, 194, 196, 197]
 ```
 
-2026-10-18 192 → 2026-10-30 196（+4）
+2026-10-18 192 → 2026-10-31 197（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # siliconflow/onediff
 
-⭐ 1,963 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/siliconflow/onediff) · [官网](https://github.com/siliconflow/onediff/wiki) · 组织维护 · 中文 README
+⭐ 1,962 · Jupyter Notebook · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/siliconflow/onediff) · [官网](https://github.com/siliconflow/onediff/wiki) · 组织维护 · 中文 README
 
 **扩散模型推理加速库：一行代码加速 SD/SDXL/SVD 等生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "siliconflow/onediff 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 1961 --> 1964
-    line [1962, 1963, 1963]
+    line [1962, 1963, 1962]
 ```
 
-2026-10-18 1,962 → 2026-10-30 1,963（+1）
+2026-10-18 1,962 → 2026-10-31 1,962（+0）
 
 
 ---

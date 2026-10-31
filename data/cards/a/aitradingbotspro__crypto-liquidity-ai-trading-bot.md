@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aitradingbotspro/crypto-liquidity-ai-trading-bot 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    title "aitradingbotspro/crypto-liquidity-ai-trading-bot 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 68 --> 72
-    line [69, 70, 71, 70]
+    line [69, 70, 71, 70, 70]
 ```
 
-2026-10-18 69 → 2026-10-30 70（+1）
+2026-10-18 69 → 2026-10-31 70（+1）
 
 
 ---

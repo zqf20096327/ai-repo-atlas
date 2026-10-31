@@ -1,6 +1,6 @@
 # voygr-tech/placecall
 
-⭐ 109 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/voygr-tech/placecall) · [官网](https://voygr.tech/placecall/) · 组织维护
+⭐ 110 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/voygr-tech/placecall) · [官网](https://voygr.tech/placecall/) · 组织维护
 
 **让 AI agent 电话致电美国商户的 API/MCP 服务，含通话结果与转录**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "voygr-tech/placecall 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 90 --> 110
-    line [91, 96, 103, 104, 105, 107, 109]
+    title "voygr-tech/placecall 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 90 --> 111
+    line [91, 96, 103, 104, 105, 107, 109, 110]
 ```
 
-2026-10-18 91 → 2026-10-30 109（+18）
+2026-10-18 91 → 2026-10-31 110（+19）
 
 
 ---

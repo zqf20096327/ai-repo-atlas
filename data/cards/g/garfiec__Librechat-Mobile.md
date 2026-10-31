@@ -1,6 +1,6 @@
 # garfiec/Librechat-Mobile
 
-⭐ 127 · Kotlin · MIT · 推送 2026-10-29 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
+⭐ 130 · Kotlin · MIT · 推送 2026-10-30 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
 
 **LibreChat 的第三方原生移动客户端（Android/iOS）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "garfiec/Librechat-Mobile 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 115 --> 128
-    line [116, 118, 119, 120, 123, 125, 126, 125, 127]
+    title "garfiec/Librechat-Mobile 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 115 --> 131
+    line [116, 118, 119, 120, 123, 125, 126, 125, 127, 130]
 ```
 
-2026-10-18 116 → 2026-10-30 127（+11）
+2026-10-18 116 → 2026-10-31 130（+14）
 
 
 ---

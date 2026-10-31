@@ -1,6 +1,6 @@
 # Sorbh/interview-me
 
-⭐ 57 · MIT · 推送 2026-07-25 · [GitHub](https://github.com/Sorbh/interview-me) · 个人维护
+⭐ 58 · MIT · 推送 2026-07-25 · [GitHub](https://github.com/Sorbh/interview-me) · 个人维护
 
 **Claude Code 技能：以架构师式访谈把模糊需求转为规范文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sorbh/interview-me 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 57]
+    line [58, 57, 58]
 ```
 
-2026-10-18 58 → 2026-10-30 57（-1）
+2026-10-18 58 → 2026-10-31 58（+0）
 
 
 ---

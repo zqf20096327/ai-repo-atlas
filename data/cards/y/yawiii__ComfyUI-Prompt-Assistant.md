@@ -1,6 +1,6 @@
 # yawiii/ComfyUI-Prompt-Assistant
 
-⭐ 2,472 · JavaScript · GPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/yawiii/ComfyUI-Prompt-Assistant) · [官网](https://space.bilibili.com/520680644) · 个人维护 · 中文 README
+⭐ 2,474 · JavaScript · GPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/yawiii/ComfyUI-Prompt-Assistant) · [官网](https://space.bilibili.com/520680644) · 个人维护 · 中文 README
 
 **ComfyUI 提示词插件：调用云端/本地大模型做翻译、扩写与图像反推**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yawiii/ComfyUI-Prompt-Assistant 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2434 --> 2475
-    line [2437, 2442, 2445, 2448, 2452, 2456, 2458, 2463, 2466, 2470, 2472]
+    title "yawiii/ComfyUI-Prompt-Assistant 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2434 --> 2477
+    line [2437, 2442, 2445, 2448, 2452, 2456, 2458, 2463, 2466, 2470, 2472, 2474]
 ```
 
-2026-10-18 2,437 → 2026-10-30 2,472（+35）
+2026-10-18 2,437 → 2026-10-31 2,474（+37）
 
 
 ---

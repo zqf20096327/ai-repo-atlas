@@ -1,6 +1,6 @@
 # sgfsd/game-russificator
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/sgfsd/game-russificator) · [官网](https://t.me/TRAPYCHINO) · 个人维护 · 中文 README
+⭐ 17 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/sgfsd/game-russificator) · [官网](https://t.me/TRAPYCHINO) · 个人维护 · 中文 README
 
 **自动将 Unity/Ren'Py/RPG Maker 游戏俄化的桌面工具**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgfsd/game-russificator 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 10 --> 17
-    line [11, 13, 16]
+    title "sgfsd/game-russificator 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 10 --> 18
+    line [11, 13, 16, 17]
 ```
 
-2026-10-18 11 → 2026-10-30 16（+5）
+2026-10-18 11 → 2026-10-31 17（+6）
 
 
 ---

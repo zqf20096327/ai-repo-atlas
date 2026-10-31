@@ -42,13 +42,13 @@ wsidata 为全切片图像（WSI）分析提供高效数据结构与输入输出
 
 ```mermaid
 xychart-beta
-    title "rendeirolab/wsidata 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "rendeirolab/wsidata 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-18 34 → 2026-10-30 35（+1）
+2026-10-18 34 → 2026-10-31 35（+1）
 
 
 ---

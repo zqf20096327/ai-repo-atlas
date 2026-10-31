@@ -1,6 +1,6 @@
 # microsoft/Memora
 
-⭐ 261 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/Memora) · 组织维护
+⭐ 262 · Python · MIT · 推送 2026-06-16 · [GitHub](https://github.com/microsoft/Memora) · 组织维护
 
 **给 AI agent 的记忆管理框架：统一存储、组织与检索记忆**
 
@@ -45,12 +45,12 @@ Microsoft 开源的 agent 记忆管理库，配套论文。核心机制是调和
 ```mermaid
 xychart-beta
     title "microsoft/Memora 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 257 --> 262
-    line [258, 259, 260, 261, 261]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 257 --> 263
+    line [258, 259, 260, 261, 262]
 ```
 
-2026-10-18 258 → 2026-10-30 261（+3）
+2026-10-18 258 → 2026-10-31 262（+4）
 
 
 ---

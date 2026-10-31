@@ -1,6 +1,6 @@
 # EPFLiGHT/LiGHT-Conferences-Calendar
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar) · [官网](https://conferences.light-laboratory.org/) · 组织维护
+⭐ 17 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/EPFLiGHT/LiGHT-Conferences-Calendar) · [官网](https://conferences.light-laboratory.org/) · 组织维护
 
 **全球健康领域学术会议截止日期追踪日历与 Slack 提醒机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EPFLiGHT/LiGHT-Conferences-Calendar 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

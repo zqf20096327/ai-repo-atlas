@@ -1,6 +1,6 @@
 # sublang-ai/slc
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/sublang-ai/slc) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/sublang-ai/slc) · 组织维护 · 中文 README
 
 **自然语言到状态机的编译器：一段散文生成可运行多 agent 程序**
 
@@ -46,12 +46,12 @@ SubLang Compiler（slc）把一段英文或中文散文描述的工作流编译�
 ```mermaid
 xychart-beta
     title "sublang-ai/slc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-18 41 → 2026-10-30 41（+0）
+2026-10-18 41 → 2026-10-31 41（+0）
 
 
 ---

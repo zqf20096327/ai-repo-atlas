@@ -1,6 +1,6 @@
 # abuiles/codex-whatsapp-relay
 
-⭐ 47 · JavaScript · 推送 2026-03-31 · [GitHub](https://github.com/abuiles/codex-whatsapp-relay) · 个人维护
+⭐ 48 · JavaScript · 推送 2026-03-31 · [GitHub](https://github.com/abuiles/codex-whatsapp-relay) · 个人维护
 
 **把 Codex 接入 WhatsApp 的插件：手机扫码聊天控制 Codex**
 
@@ -44,13 +44,13 @@ Codex 插件，通过一次 QR 扫描将本地 WhatsApp 账号接入 Codex：Cod
 
 ```mermaid
 xychart-beta
-    title "abuiles/codex-whatsapp-relay 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 45 --> 48
-    line [46, 47]
+    title "abuiles/codex-whatsapp-relay 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 48]
 ```
 
-2026-10-18 46 → 2026-10-30 47（+1）
+2026-10-18 46 → 2026-10-31 48（+2）
 
 
 ---

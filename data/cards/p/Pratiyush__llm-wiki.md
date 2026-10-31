@@ -1,6 +1,6 @@
 # Pratiyush/llm-wiki
 
-⭐ 401 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Pratiyush/llm-wiki) · 个人维护
+⭐ 400 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/Pratiyush/llm-wiki) · 个人维护
 
 **把 AI 编码会话记录转成可检索知识库的本地 CLI 工具**
 
@@ -45,13 +45,13 @@ Python CLI 工具 llmwiki，读取 Claude Code、Codex CLI、Copilot、Cursor、
 
 ```mermaid
 xychart-beta
-    title "Pratiyush/llm-wiki 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "Pratiyush/llm-wiki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 396 --> 402
-    line [397, 398, 399, 400, 401]
+    line [397, 398, 399, 400, 401, 400]
 ```
 
-2026-10-18 397 → 2026-10-30 401（+4）
+2026-10-18 397 → 2026-10-31 400（+3）
 
 
 ---

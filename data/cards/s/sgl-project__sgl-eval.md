@@ -45,13 +45,13 @@ sgl-eval 是一个 Python CLI 评测工具，用于对任意 OpenAI 兼容端点
 
 ```mermaid
 xychart-beta
-    title "sgl-project/sgl-eval 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "sgl-project/sgl-eval 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-10-18 21 → 2026-10-30 22（+1）
+2026-10-18 21 → 2026-10-31 22（+1）
 
 
 ---

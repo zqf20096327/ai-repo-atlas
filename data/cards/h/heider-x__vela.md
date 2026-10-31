@@ -1,6 +1,6 @@
 # heider-x/vela
 
-⭐ 585 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/heider-x/vela) · [官网](https://github.com/heider-x/vela) · 个人维护 · 中文 README
+⭐ 586 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/heider-x/vela) · [官网](https://github.com/heider-x/vela) · 个人维护 · 中文 README
 
 **面向网文与小说作者的本地优先 AI 写作 IDE**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heider-x/vela 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 581 --> 586
-    line [582, 583, 584, 585, 585]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 581 --> 587
+    line [582, 583, 584, 585, 586]
 ```
 
-2026-10-18 582 → 2026-10-30 585（+3）
+2026-10-18 582 → 2026-10-31 586（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Scottcjn/Rustchain
 
-⭐ 684 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
+⭐ 684 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
 
 **抗女巫攻击的 AI agent 网络：用硬件指纹验证真实机器身份**
 
@@ -46,13 +46,13 @@ RustChain 是一个 DePIN（去中心化物理基础设施网络）Layer-1 区�
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/Rustchain 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    title "Scottcjn/Rustchain 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 682 --> 685
-    line [683, 684]
+    line [683, 684, 684]
 ```
 
-2026-10-29 683 → 2026-10-30 684（+1）
+2026-10-29 683 → 2026-10-31 684（+1）
 
 
 ---

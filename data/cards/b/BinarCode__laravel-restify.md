@@ -1,6 +1,6 @@
 # BinarCode/laravel-restify
 
-⭐ 683 · PHP · MIT · 推送 2026-10-24 · [GitHub](https://github.com/BinarCode/laravel-restify) · [官网](https://laravel-restify.com) · 组织维护
+⭐ 683 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BinarCode/laravel-restify) · [官网](https://laravel-restify.com) · 组织维护
 
 **Laravel API 框架：一套代码同时输出 JSON:API 与 MCP 接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BinarCode/laravel-restify 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 681 --> 684
     line [683, 682, 683, 683]
 ```
 
-2026-10-18 683 → 2026-10-30 683（+0）
+2026-10-18 683 → 2026-10-31 683（+0）
 
 
 ---

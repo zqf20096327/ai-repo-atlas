@@ -46,12 +46,12 @@ ARIA 将因果知识图谱（DAG 表示合成-性质关系）与 LLM 机制解�
 ```mermaid
 xychart-beta
     title "yicao-elina/LLM4Chem-Explainable-synthesis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

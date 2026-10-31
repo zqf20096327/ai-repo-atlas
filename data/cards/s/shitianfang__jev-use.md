@@ -1,6 +1,6 @@
 # shitianfang/jev-use
 
-⭐ 65 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/shitianfang/jev-use) · [官网](https://www.npmjs.com/package/jev-use) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/shitianfang/jev-use) · [官网](https://www.npmjs.com/package/jev-use) · 个人维护 · 中文 README
 
 **让 Claude Code/Codex/pi 把无需文本输出的步骤交给 Jev 判决模型的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shitianfang/jev-use 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-31"]
     y-axis "stars" 60 --> 66
-    line [61, 64, 65, 65]
+    line [61, 64, 65, 64]
 ```
 
-2026-10-18 61 → 2026-10-30 65（+4）
+2026-10-18 61 → 2026-10-31 64（+3）
 
 
 ---

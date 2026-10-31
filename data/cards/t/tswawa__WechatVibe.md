@@ -1,6 +1,6 @@
 # tswawa/WechatVibe
 
-⭐ 295 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/tswawa/WechatVibe) · [官网](https://github.com/tswawa/WechatVibe/releases/latest) · 个人维护 · 中文 README
+⭐ 299 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/tswawa/WechatVibe) · [官网](https://github.com/tswawa/WechatVibe/releases/latest) · 个人维护 · 中文 README
 
 **Windows 微信聊天情感分析客户端：情绪意图识别与人物画像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tswawa/WechatVibe 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 269 --> 297
-    line [271, 276, 283, 285, 287, 291, 292, 294, 295, 295]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 269 --> 301
+    line [271, 276, 283, 285, 287, 291, 292, 294, 295, 299]
 ```
 
-2026-10-18 271 → 2026-10-30 295（+24）
+2026-10-18 271 → 2026-10-31 299（+28）
 
 
 ---

@@ -1,6 +1,6 @@
 # notque/vexjoy-agent
 
-⭐ 443 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/notque/vexjoy-agent) · [官网](https://vexjoy.com) · 个人维护
+⭐ 443 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/notque/vexjoy-agent) · [官网](https://vexjoy.com) · 个人维护
 
 **面向多 AI 编码运行时的 agent/技能/工作流工具箱与路由器**
 
@@ -47,12 +47,12 @@ VexJoy Agent 是一套可安装进 Claude Code、Codex、Factory、Reasonix 等�
 ```mermaid
 xychart-beta
     title "notque/vexjoy-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 441 --> 444
     line [442, 443, 443]
 ```
 
-2026-10-18 442 → 2026-10-30 443（+1）
+2026-10-18 442 → 2026-10-31 443（+1）
 
 
 ---

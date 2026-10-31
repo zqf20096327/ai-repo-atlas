@@ -1,6 +1,6 @@
 # Nuo27/Potplayer-Ollama-Translate
 
-⭐ 52 · AngelScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nuo27/Potplayer-Ollama-Translate) · 个人维护 · 中文 README
+⭐ 51 · AngelScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Nuo27/Potplayer-Ollama-Translate) · 个人维护 · 中文 README
 
 **PotPlayer 字幕实时翻译插件，接 Ollama/自定义 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nuo27/Potplayer-Ollama-Translate 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-31"]
     y-axis "stars" 49 --> 53
-    line [50, 51, 52, 52]
+    line [50, 51, 52, 51]
 ```
 
-2026-10-18 50 → 2026-10-30 52（+2）
+2026-10-18 50 → 2026-10-31 51（+1）
 
 
 ---

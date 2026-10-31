@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vishwanathakuthota/openvals 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    title "vishwanathakuthota/openvals 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 41 --> 49
-    line [42, 47, 48]
+    line [42, 47, 48, 48]
 ```
 
-2026-10-18 42 → 2026-10-30 48（+6）
+2026-10-18 42 → 2026-10-31 48（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # mart337i/odoo-skills
 
-⭐ 60 · JavaScript · 推送 2026-10-01 · [GitHub](https://github.com/mart337i/odoo-skills) · 个人维护
+⭐ 61 · JavaScript · 推送 2026-10-01 · [GitHub](https://github.com/mart337i/odoo-skills) · 个人维护
 
 **面向 AI 编码 agent 的 Odoo 开发技能包（21 个技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mart337i/odoo-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 53 --> 61
-    line [54, 56, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 53 --> 62
+    line [54, 56, 59, 60, 61]
 ```
 
-2026-10-18 54 → 2026-10-30 60（+6）
+2026-10-18 54 → 2026-10-31 61（+7）
 
 
 ---

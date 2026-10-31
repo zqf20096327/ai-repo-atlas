@@ -1,6 +1,6 @@
 # CopilotKit/open-research-ANA
 
-⭐ 426 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/CopilotKit/open-research-ANA) · [官网](https://open-research-ana.vercel.app) · 组织维护
+⭐ 427 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/CopilotKit/open-research-ANA) · [官网](https://open-research-ana.vercel.app) · 组织维护
 
 **演示用 AI 研究画布应用：实时搜索加人机协同**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "CopilotKit/open-research-ANA 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 419 --> 427
-    line [420, 422, 423, 422, 423, 424, 425, 426]
+    title "CopilotKit/open-research-ANA 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 419 --> 428
+    line [420, 422, 423, 422, 423, 424, 425, 426, 427]
 ```
 
-2026-10-18 420 → 2026-10-30 426（+6）
+2026-10-18 420 → 2026-10-31 427（+7）
 
 
 ---

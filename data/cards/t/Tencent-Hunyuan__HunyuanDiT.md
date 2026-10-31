@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanDiT
 
-⭐ 4,290 · Jupyter Notebook · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [官网](https://dit.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 4,291 · Jupyter Notebook · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [官网](https://dit.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **腾讯开源的中英双语文生图扩散 Transformer 模型及训练推理代码**
 
@@ -46,12 +46,12 @@ Hunyuan-DiT 仓库提供 PyTorch 模型定义、预训练权重与推理/采样�
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/HunyuanDiT 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 4288 --> 4291
-    line [4290, 4289, 4290, 4290]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 4288 --> 4292
+    line [4290, 4289, 4290, 4291]
 ```
 
-2026-10-18 4,290 → 2026-10-30 4,290（+0）
+2026-10-18 4,290 → 2026-10-31 4,291（+1）
 
 
 ---

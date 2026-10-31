@@ -1,6 +1,6 @@
 # padreati/rapaio
 
-⭐ 78 · Java · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/padreati/rapaio) · 个人维护
+⭐ 79 · Java · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/padreati/rapaio) · 个人维护
 
 **纯 Java 编写的统计、数据挖掘与机器学习库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "padreati/rapaio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "padreati/rapaio 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 77 --> 80
-    line [79, 78]
+    line [79, 78, 79]
 ```
 
-2026-10-18 79 → 2026-10-30 78（-1）
+2026-10-18 79 → 2026-10-31 79（+0）
 
 
 ---

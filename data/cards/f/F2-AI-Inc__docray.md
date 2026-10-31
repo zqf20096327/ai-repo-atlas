@@ -1,6 +1,6 @@
 # F2-AI-Inc/docray
 
-⭐ 23 · HTML · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/F2-AI-Inc/docray) · [官网](https://f2-ai-inc.github.io/docray/try/) · 组织维护
+⭐ 23 · HTML · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/F2-AI-Inc/docray) · [官网](https://f2-ai-inc.github.io/docray/try/) · 组织维护
 
 **PDF/PPTX/DOCX 无损解析为带坐标 JSON 的文档抽取工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "F2-AI-Inc/docray 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

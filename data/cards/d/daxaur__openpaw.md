@@ -1,6 +1,6 @@
 # daxaur/openpaw
 
-⭐ 174 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/daxaur/openpaw) · [官网](https://www.npmjs.com/package/pawmode) · 个人维护
+⭐ 175 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/daxaur/openpaw) · [官网](https://www.npmjs.com/package/pawmode) · 个人维护
 
 **将 Claude Code 配置为个人助理的安装向导（38 个技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daxaur/openpaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 172 --> 175
-    line [173, 174, 174]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 172 --> 176
+    line [173, 174, 175]
 ```
 
-2026-10-18 173 → 2026-10-30 174（+1）
+2026-10-18 173 → 2026-10-31 175（+2）
 
 
 ---

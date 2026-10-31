@@ -1,6 +1,6 @@
 # grc-iit/chronolog
 
-⭐ 15 · C++ · BSD-2-Clause · 推送 2026-10-15 · [GitHub](https://github.com/grc-iit/chronolog) · [官网](https://chronolog.dev) · 组织维护
+⭐ 15 · C++ · BSD-2-Clause · 推送 2026-10-30 · [GitHub](https://github.com/grc-iit/chronolog) · [官网](https://chronolog.dev) · 组织维护
 
 **面向日志与活动负载的分布式分层共享日志存储系统**
 
@@ -45,12 +45,12 @@ ChronoLog 是 Gnosis Research Center（伊利诺伊理工）开发的分布式�
 ```mermaid
 xychart-beta
     title "grc-iit/chronolog 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

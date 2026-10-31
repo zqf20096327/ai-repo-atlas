@@ -1,6 +1,6 @@
 # CCMu04/DSHDesktop
 
-⭐ 18 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/CCMu04/DSHDesktop) · [官网](https://github.com/CCMu04/DSHDesktop/releases) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/CCMu04/DSHDesktop) · [官网](https://github.com/CCMu04/DSHDesktop/releases) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方 Web UI 的 Windows 非官方桌面封装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CCMu04/DSHDesktop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 17（-1）
 
 
 ---

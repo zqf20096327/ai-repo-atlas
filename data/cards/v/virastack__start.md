@@ -1,6 +1,6 @@
 # virastack/start
 
-⭐ 104 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/virastack/start) · [官网](https://virastack.com/start) · 个人维护
+⭐ 103 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/virastack/start) · [官网](https://virastack.com/start) · 个人维护
 
 **为 Next.js/TanStack Start 生成项目脚手架并配置 AI 编码规则**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "virastack/start 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 103 --> 105
-    line [104, 104]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 102 --> 105
+    line [104, 103]
 ```
 
-2026-10-18 104 → 2026-10-30 104（+0）
+2026-10-18 104 → 2026-10-31 103（-1）
 
 
 ---

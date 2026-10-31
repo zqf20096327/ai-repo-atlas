@@ -1,6 +1,6 @@
 # theprototype-app/core
 
-⭐ 36 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/theprototype-app/core) · [官网](https://theprototype.app) · 组织维护
+⭐ 36 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/theprototype-app/core) · [官网](https://theprototype.app) · 组织维护
 
 **浏览器端 P2P 协作 3D 原型编辑器，含可选 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theprototype-app/core 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 32 --> 37
     line [33, 34, 35, 36, 36]
 ```
 
-2026-10-18 33 → 2026-10-30 36（+3）
+2026-10-18 33 → 2026-10-31 36（+3）
 
 
 ---

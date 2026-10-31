@@ -1,6 +1,6 @@
 # MrForExample/ComfyUI-3D-Pack
 
-⭐ 3,896 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/MrForExample/ComfyUI-3D-Pack) · 个人维护
+⭐ 3,897 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/MrForExample/ComfyUI-3D-Pack) · 个人维护
 
 **ComfyUI 的 3D 资产生成节点套件（图生 3D 模型）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MrForExample/ComfyUI-3D-Pack 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3885 --> 3897
-    line [3886, 3889, 3888, 3889, 3891, 3893, 3896]
+    title "MrForExample/ComfyUI-3D-Pack 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3885 --> 3898
+    line [3886, 3889, 3888, 3889, 3891, 3893, 3896, 3897]
 ```
 
-2026-10-18 3,886 → 2026-10-30 3,896（+10）
+2026-10-18 3,886 → 2026-10-31 3,897（+11）
 
 
 ---

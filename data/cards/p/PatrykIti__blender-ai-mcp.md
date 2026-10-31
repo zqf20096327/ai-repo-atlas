@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PatrykIti/blender-ai-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "PatrykIti/blender-ai-mcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 64 --> 67
-    line [65, 66]
+    line [65, 66, 66]
 ```
 
-2026-10-18 65 → 2026-10-30 66（+1）
+2026-10-18 65 → 2026-10-31 66（+1）
 
 
 ---

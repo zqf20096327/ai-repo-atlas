@@ -1,6 +1,6 @@
 # orvi2014/Baar-Core
 
-⭐ 20 · Python · MIT · 推送 2026-05-20 · [GitHub](https://github.com/orvi2014/Baar-Core) · [官网](https://noburn.dev) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/orvi2014/Baar-Core) · [官网](https://noburn.dev) · 个人维护
 
 **给 LLM agent 的预算路由治理库：调用前本地拦截超支请求**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "orvi2014/Baar-Core 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

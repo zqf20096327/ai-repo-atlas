@@ -1,6 +1,6 @@
 # Charlie85270/Dorothy
 
-⭐ 355 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Charlie85270/Dorothy) · [官网](https://dorothyai.app) · 个人维护
+⭐ 356 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Charlie85270/Dorothy) · [官网](https://dorothyai.app) · 个人维护
 
 **编排 Claude Code/Codex/Gemini/Grok 等 AI CLI 代理的桌面应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Charlie85270/Dorothy 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 349 --> 356
-    line [350, 351, 352, 353, 354, 355, 355]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 349 --> 357
+    line [350, 351, 352, 353, 354, 355, 356]
 ```
 
-2026-10-18 350 → 2026-10-30 355（+5）
+2026-10-18 350 → 2026-10-31 356（+6）
 
 
 ---

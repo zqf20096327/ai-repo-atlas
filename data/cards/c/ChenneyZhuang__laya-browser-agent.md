@@ -1,6 +1,6 @@
 # ChenneyZhuang/laya-browser-agent
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/ChenneyZhuang/laya-browser-agent) · [官网](https://github.com/ChenneyZhuang/laya-browser-agent#readme) · 个人维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/ChenneyZhuang/laya-browser-agent) · [官网](https://github.com/ChenneyZhuang/laya-browser-agent#readme) · 个人维护 · 中文 README
 
 **本地运行 Laya 决策模型驱动浏览器 agent 的中立接入框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChenneyZhuang/laya-browser-agent 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 23, 24]
 ```
 
-2026-10-18 21 → 2026-10-30 23（+2）
+2026-10-18 21 → 2026-10-31 24（+3）
 
 
 ---

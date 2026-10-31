@@ -1,6 +1,6 @@
 # snowmountainAi/webdevbench
 
-⭐ 15 · TypeScript · 推送 2026-05-07 · [GitHub](https://github.com/snowmountainAi/webdevbench) · [官网](https://webdevbench.com) · 组织维护
+⭐ 16 · TypeScript · 推送 2026-05-07 · [GitHub](https://github.com/snowmountainAi/webdevbench) · [官网](https://webdevbench.com) · 组织维护
 
 **评测 AI 应用生成平台的基准：按软件代理角色打分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "snowmountainAi/webdevbench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

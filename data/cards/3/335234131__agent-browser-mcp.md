@@ -1,6 +1,6 @@
 # 335234131/agent-browser-mcp
 
-⭐ 245 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/335234131/agent-browser-mcp) · 个人维护 · 中文 README
+⭐ 244 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/335234131/agent-browser-mcp) · 个人维护 · 中文 README
 
 **让 Agent 操作真实 Chrome 的 MCP 服务（CDP、截图、物理输入）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "335234131/agent-browser-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 244 --> 246
-    line [245, 245]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 243 --> 246
+    line [245, 244]
 ```
 
-2026-10-18 245 → 2026-10-30 245（+0）
+2026-10-18 245 → 2026-10-31 244（-1）
 
 
 ---

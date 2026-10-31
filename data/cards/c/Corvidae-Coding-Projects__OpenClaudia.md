@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Corvidae-Coding-Projects/OpenClaudia 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "Corvidae-Coding-Projects/OpenClaudia 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 95 --> 99
-    line [96, 97, 98]
+    line [96, 97, 98, 98]
 ```
 
-2026-10-18 96 → 2026-10-30 98（+2）
+2026-10-18 96 → 2026-10-31 98（+2）
 
 
 ---

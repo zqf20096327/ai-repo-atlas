@@ -1,6 +1,6 @@
 # BorisPolonsky/dify-helm
 
-⭐ 677 · Go Template · MIT · 推送 2026-10-29 · [GitHub](https://github.com/BorisPolonsky/dify-helm) · 个人维护
+⭐ 677 · Go Template · MIT · 推送 2026-10-30 · [GitHub](https://github.com/BorisPolonsky/dify-helm) · 个人维护
 
 **在 Kubernetes 上用 Helm 部署 Dify LLM 应用的 Chart**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BorisPolonsky/dify-helm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "BorisPolonsky/dify-helm 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 674 --> 678
-    line [675, 676, 677]
+    line [675, 676, 677, 677]
 ```
 
-2026-10-18 675 → 2026-10-30 677（+2）
+2026-10-18 675 → 2026-10-31 677（+2）
 
 
 ---

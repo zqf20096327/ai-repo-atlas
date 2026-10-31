@@ -1,6 +1,6 @@
 # CoderLuii/HolyCode
 
-⭐ 70 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CoderLuii/HolyCode) · [官网](https://holycode.cloud) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/CoderLuii/HolyCode) · [官网](https://holycode.cloud) · 个人维护
 
 **容器化 AI 编码工作站：打包 OpenCode 与 50+ 开发工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CoderLuii/HolyCode 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 64 --> 71
-    line [65, 67, 68, 70, 70]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 64 --> 72
+    line [65, 67, 68, 70, 71]
 ```
 
-2026-10-18 65 → 2026-10-30 70（+5）
+2026-10-18 65 → 2026-10-31 71（+6）
 
 
 ---

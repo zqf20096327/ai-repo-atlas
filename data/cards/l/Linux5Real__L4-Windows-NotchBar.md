@@ -1,6 +1,6 @@
 # Linux5Real/L4-Windows-NotchBar
 
-⭐ 33 · TypeScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Linux5Real/L4-Windows-NotchBar) · 个人维护
+⭐ 34 · TypeScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Linux5Real/L4-Windows-NotchBar) · 个人维护
 
 **Windows 的 Dynamic Island 式刘海工具栏，聚合快捷工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Linux5Real/L4-Windows-NotchBar 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 25 --> 34
-    line [26, 29, 31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 25 --> 35
+    line [26, 29, 31, 32, 33, 34]
 ```
 
-2026-10-18 26 → 2026-10-30 33（+7）
+2026-10-18 26 → 2026-10-31 34（+8）
 
 
 ---

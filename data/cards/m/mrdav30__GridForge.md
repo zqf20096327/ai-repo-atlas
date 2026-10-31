@@ -1,6 +1,6 @@
 # mrdav30/GridForge
 
-⭐ 21 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mrdav30/GridForge) · 个人维护
+⭐ 22 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mrdav30/GridForge) · 个人维护
 
 **.NET 确定性体素网格库，用于空间划分与游戏开发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mrdav30/GridForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 22（+1）
 
 
 ---

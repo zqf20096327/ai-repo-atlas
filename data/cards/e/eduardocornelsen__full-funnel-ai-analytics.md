@@ -1,6 +1,6 @@
 # eduardocornelsen/full-funnel-ai-analytics
 
-⭐ 25 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/eduardocornelsen/full-funnel-ai-analytics) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/eduardocornelsen/full-funnel-ai-analytics) · 个人维护
 
 **全漏斗营销分析平台：自然语言查询 + 语义层治理 + ML 评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eduardocornelsen/full-funnel-ai-analytics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

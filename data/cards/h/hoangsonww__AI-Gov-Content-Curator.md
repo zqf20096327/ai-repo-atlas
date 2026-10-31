@@ -46,12 +46,12 @@ monorepo 多服务系统：爬虫定时抓取政府网站与公共 API 的文章
 ```mermaid
 xychart-beta
     title "hoangsonww/AI-Gov-Content-Curator 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 30（+0）
 
 
 ---

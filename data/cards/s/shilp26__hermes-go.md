@@ -1,6 +1,6 @@
 # shilp26/hermes-go
 
-⭐ 43 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shilp26/hermes-go) · [官网](https://shilp26.github.io/hermes-go/) · 个人维护
+⭐ 44 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/shilp26/hermes-go) · [官网](https://shilp26.github.io/hermes-go/) · 个人维护
 
 **自托管 Hermes Agent 的原生 Android 移动客户端**
 
@@ -45,12 +45,12 @@ Android 原生应用，作为 Hermes Agent（自托管或 Hermes Cloud）的移�
 ```mermaid
 xychart-beta
     title "shilp26/hermes-go 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 39 --> 44
-    line [40, 41, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 42, 43, 44]
 ```
 
-2026-10-18 40 → 2026-10-30 43（+3）
+2026-10-18 40 → 2026-10-31 44（+4）
 
 
 ---

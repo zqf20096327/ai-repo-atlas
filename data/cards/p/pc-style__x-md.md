@@ -1,6 +1,6 @@
 # pc-style/x-md
 
-⭐ 169 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pc-style/x-md) · [官网](https://mdfromx.com) · 个人维护
+⭐ 184 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/pc-style/x-md) · [官网](https://mdfromx.com) · 个人维护
 
 **把公开 X 帖子/主页/搜索转为 Markdown/JSON 的 API 服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pc-style/x-md 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 161 --> 170
-    line [162, 165, 167, 168, 169]
+    title "pc-style/x-md 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 160 --> 186
+    line [162, 165, 167, 168, 169, 184]
 ```
 
-2026-10-18 162 → 2026-10-30 169（+7）
+2026-10-18 162 → 2026-10-31 184（+22）
 
 
 ---

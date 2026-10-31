@@ -1,6 +1,6 @@
 # guwidoe/pi-prompt-suggester
 
-⭐ 53 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/guwidoe/pi-prompt-suggester) · [官网](https://www.npmjs.com/package/@guwidoe/pi-prompt-suggester) · 个人维护
+⭐ 54 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/guwidoe/pi-prompt-suggester) · [官网](https://www.npmjs.com/package/@guwidoe/pi-prompt-suggester) · 个人维护
 
 **pi 编码助手的扩展：在每次回答后建议下一条提示词**
 
@@ -46,12 +46,12 @@ pi-prompt-suggester 是 pi coding agent 的扩展：在每次 assistant 回答�
 ```mermaid
 xychart-beta
     title "guwidoe/pi-prompt-suggester 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 54（+1）
 
 
 ---

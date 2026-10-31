@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xia-Ataraxia/obsidian-metadata-auto-classifier 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Xia-Ataraxia/obsidian-metadata-auto-classifier 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 57 --> 60
-    line [58, 59]
+    line [58, 59, 59]
 ```
 
-2026-10-18 58 → 2026-10-30 59（+1）
+2026-10-18 58 → 2026-10-31 59（+1）
 
 
 ---

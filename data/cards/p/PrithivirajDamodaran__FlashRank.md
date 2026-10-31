@@ -1,6 +1,6 @@
 # PrithivirajDamodaran/FlashRank
 
-⭐ 1,011 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/PrithivirajDamodaran/FlashRank) · 个人维护
+⭐ 1,012 · Python · Apache-2.0 · 推送 2026-07-11 · [GitHub](https://github.com/PrithivirajDamodaran/FlashRank) · 个人维护
 
 **为检索管线添加轻量重排序的 Python 库**
 
@@ -45,12 +45,12 @@ Python 库，在既有搜索与检索管线中对候选段落做重排序，再�
 ```mermaid
 xychart-beta
     title "PrithivirajDamodaran/FlashRank 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-31"]
     y-axis "stars" 1008 --> 1013
-    line [1009, 1010, 1012, 1011, 1011]
+    line [1009, 1010, 1012, 1011, 1012]
 ```
 
-2026-10-18 1,009 → 2026-10-30 1,011（+2）
+2026-10-18 1,009 → 2026-10-31 1,012（+3）
 
 
 ---

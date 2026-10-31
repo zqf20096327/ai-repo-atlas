@@ -1,6 +1,6 @@
 # microsoft/eval-guide
 
-⭐ 140 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/microsoft/eval-guide) · 组织维护
+⭐ 139 · HTML · MIT · 推送 2026-06-24 · [GitHub](https://github.com/microsoft/eval-guide) · 组织维护
 
 **面向 Copilot Studio agent 的评测插件：规划、生成用例、解读结果**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/eval-guide 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    title "microsoft/eval-guide 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 136 --> 141
-    line [138, 137, 139, 140]
+    line [138, 137, 139, 140, 139]
 ```
 
-2026-10-18 138 → 2026-10-30 140（+2）
+2026-10-18 138 → 2026-10-31 139（+1）
 
 
 ---

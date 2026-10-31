@@ -1,6 +1,6 @@
 # vanyu0710/Varen-AI-CAD
 
-⭐ 64 · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/vanyu0710/Varen-AI-CAD) · [官网](https://vanyu0710.github.io/Varen-AI-CAD/) · 个人维护 · 中文 README
+⭐ 65 · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/vanyu0710/Varen-AI-CAD) · [官网](https://vanyu0710.github.io/Varen-AI-CAD/) · 个人维护 · 中文 README
 
 **AI CAD 建模 Agent：一句话需求产出可复核的参数化装配**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vanyu0710/Varen-AI-CAD 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 51 --> 65
-    line [52, 55, 59, 60, 61, 62, 64, 64]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 51 --> 66
+    line [52, 55, 59, 60, 61, 62, 64, 65]
 ```
 
-2026-10-18 52 → 2026-10-30 64（+12）
+2026-10-18 52 → 2026-10-31 65（+13）
 
 
 ---

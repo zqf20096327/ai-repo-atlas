@@ -1,6 +1,6 @@
 # fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops
 
-⭐ 16 · 推送 2026-10-28 · [GitHub](https://github.com/fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 26 · 推送 2026-10-28 · [GitHub](https://github.com/fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海团队的 Visa/Mastercard 虚拟卡发卡服务推广页**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 3 --> 17
-    line [4, 16]
+    title "fgsdg7590-sys/-CoreGold---Enterprise-Virtual-Visa-Mastercard-Infrastructure-for-Ad-Scaling-Cross-Border-Ops 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2 --> 28
+    line [4, 16, 26]
 ```
 
-2026-10-29 4 → 2026-10-30 16（+12）
+2026-10-29 4 → 2026-10-31 26（+22）
 
 
 ---

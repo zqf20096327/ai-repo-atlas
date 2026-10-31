@@ -1,6 +1,6 @@
 # Marvy101/reader-source
 
-⭐ 58 · Swift · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Marvy101/reader-source) · [官网](https://reader.marvy101.com) · 个人维护
+⭐ 58 · Swift · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Marvy101/reader-source) · [官网](https://reader.marvy101.com) · 个人维护
 
 **macOS 原生 AI 阅读工作台：读书、笔记与全书对话**
 
@@ -46,12 +46,12 @@ Swift/SwiftUI 构建的开源 macOS 原生阅读应用，导入 PDF/EPUB/TXT 后
 ```mermaid
 xychart-beta
     title "Marvy101/reader-source 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-18 58 → 2026-10-30 58（+0）
+2026-10-18 58 → 2026-10-31 58（+0）
 
 
 ---

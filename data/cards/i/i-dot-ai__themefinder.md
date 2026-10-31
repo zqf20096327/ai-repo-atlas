@@ -1,6 +1,6 @@
 # i-dot-ai/themefinder
 
-⭐ 96 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/i-dot-ai/themefinder) · [官网](https://i-dot-ai.github.io/themefinder/) · 组织维护
+⭐ 96 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/i-dot-ai/themefinder) · [官网](https://i-dot-ai.github.io/themefinder/) · 组织维护
 
 **分析一对多问答数据（问卷/公共咨询）的主题建模 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "i-dot-ai/themefinder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 94 --> 97
     line [95, 96, 96]
 ```
 
-2026-10-18 95 → 2026-10-30 96（+1）
+2026-10-18 95 → 2026-10-31 96（+1）
 
 
 ---

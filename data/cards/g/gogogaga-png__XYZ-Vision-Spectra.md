@@ -1,6 +1,6 @@
 # gogogaga-png/XYZ-Vision-Spectra
 
-⭐ 53 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/gogogaga-png/XYZ-Vision-Spectra) · 个人维护
+⭐ 53 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/gogogaga-png/XYZ-Vision-Spectra) · 个人维护
 
 **跨平台实时视觉检测工具包：图像/视频/摄像头/屏幕检测**
 
@@ -48,12 +48,12 @@ XYZ-Vision-Aura 提供图像、视频文件、摄像头直播流与屏幕内容�
 ```mermaid
 xychart-beta
     title "gogogaga-png/XYZ-Vision-Spectra 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 53（+0）
 
 
 ---

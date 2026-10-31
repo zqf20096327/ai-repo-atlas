@@ -45,12 +45,12 @@ DataRobot 官方维护的 Apache Airflow provider 包，提供 operators、senso
 ```mermaid
 xychart-beta
     title "datarobot/airflow-provider-datarobot 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-29 29 → 2026-10-30 29（+0）
+2026-10-29 29 → 2026-10-31 29（+0）
 
 
 ---

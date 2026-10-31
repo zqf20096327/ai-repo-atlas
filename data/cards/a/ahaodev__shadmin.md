@@ -1,6 +1,6 @@
 # ahaodev/shadmin
 
-⭐ 174 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ahaodev/shadmin) · [官网](https://shadmin.ahaodev.com) · 个人维护 · 中文 README
+⭐ 174 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ahaodev/shadmin) · [官网](https://shadmin.ahaodev.com) · 个人维护 · 中文 README
 
 **Go+React 全栈 RBAC 权限管理系统模板，含面向 AI Agent 的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahaodev/shadmin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 172 --> 175
     line [173, 174, 174]
 ```
 
-2026-10-18 173 → 2026-10-30 174（+1）
+2026-10-18 173 → 2026-10-31 174（+1）
 
 
 ---

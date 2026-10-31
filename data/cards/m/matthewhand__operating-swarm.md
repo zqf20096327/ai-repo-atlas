@@ -1,6 +1,6 @@
 # matthewhand/operating-swarm
 
-⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/matthewhand/operating-swarm) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/matthewhand/operating-swarm) · 个人维护
 
 **提供商无关的 agent 运行层与工作流 harness，供开发者运行多 agent 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matthewhand/operating-swarm 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

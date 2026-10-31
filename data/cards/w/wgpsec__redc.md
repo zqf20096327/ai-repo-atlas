@@ -1,6 +1,6 @@
 # wgpsec/redc
 
-⭐ 198 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/wgpsec/redc) · [官网](https://redc.wgpsec.org) · 组织维护 · 中文 README
+⭐ 199 · Go · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/wgpsec/redc) · [官网](https://redc.wgpsec.org) · 组织维护 · 中文 README
 
 **红队多云基础设施自动化部署工具，带 GUI 与 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wgpsec/redc 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 197 --> 200
-    line [198, 199, 198, 198]
+    line [198, 199, 198, 199]
 ```
 
-2026-10-18 198 → 2026-10-30 198（+0）
+2026-10-18 198 → 2026-10-31 199（+1）
 
 
 ---

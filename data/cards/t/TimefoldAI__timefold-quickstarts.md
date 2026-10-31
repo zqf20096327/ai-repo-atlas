@@ -1,6 +1,6 @@
 # TimefoldAI/timefold-quickstarts
 
-⭐ 601 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
+⭐ 602 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/TimefoldAI/timefold-quickstarts) · [官网](https://solver.timefold.ai) · 组织维护
 
 **Timefold Solver 的入门示例集：15 个规划优化用例实现**
 
@@ -45,12 +45,12 @@ TimefoldAI 维护的快速上手代码仓库，为 Timefold Solver（Java/Kotlin
 ```mermaid
 xychart-beta
     title "TimefoldAI/timefold-quickstarts 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 594 --> 602
-    line [595, 597, 598, 599, 598, 599, 600, 601, 601]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 594 --> 603
+    line [595, 597, 598, 599, 598, 599, 600, 601, 602]
 ```
 
-2026-10-18 595 → 2026-10-30 601（+6）
+2026-10-18 595 → 2026-10-31 602（+7）
 
 
 ---

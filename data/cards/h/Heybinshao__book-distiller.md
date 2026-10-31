@@ -1,6 +1,6 @@
 # Heybinshao/book-distiller
 
-⭐ 22 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
 
 **面向非技术用户的 AI 拆书 Skill：epub/pdf/md 拆成结构化知识**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Heybinshao/book-distiller 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 16 --> 23
-    line [17, 18, 19, 20, 21, 22, 22]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 16 --> 24
+    line [17, 18, 19, 20, 21, 22, 23]
 ```
 
-2026-10-18 17 → 2026-10-30 22（+5）
+2026-10-18 17 → 2026-10-31 23（+6）
 
 
 ---

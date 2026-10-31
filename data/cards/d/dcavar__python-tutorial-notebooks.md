@@ -44,12 +44,12 @@ Damir Cavar 自 2016 年起在印第安纳大学计算语言学、NLP、ML、AI 
 ```mermaid
 xychart-beta
     title "dcavar/python-tutorial-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 165 --> 167
     line [166, 166]
 ```
 
-2026-10-18 166 → 2026-10-30 166（+0）
+2026-10-18 166 → 2026-10-31 166（+0）
 
 
 ---

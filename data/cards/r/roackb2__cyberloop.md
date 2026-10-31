@@ -45,12 +45,12 @@ CyberLoop 是用 TypeScript 编写的 agent 中间件框架：将任意 agent �
 ```mermaid
 xychart-beta
     title "roackb2/cyberloop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

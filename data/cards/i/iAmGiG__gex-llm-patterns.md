@@ -1,6 +1,6 @@
 # iAmGiG/gex-llm-patterns
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/iAmGiG/gex-llm-patterns) · 个人维护
+⭐ 33 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/iAmGiG/gex-llm-patterns) · 个人维护
 
 **博士研究：用时间混淆测试验证 LLM 对期权 GEX 结构的推理能力**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iAmGiG/gex-llm-patterns 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

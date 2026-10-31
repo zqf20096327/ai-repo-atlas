@@ -1,6 +1,6 @@
 # vladimirrott/maintainer-agent
 
-⭐ 44 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vladimirrott/maintainer-agent) · [官网](https://vladimirrott.github.io/maintainer-agent/) · 个人维护
+⭐ 44 · Shell · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vladimirrott/maintainer-agent) · [官网](https://vladimirrott.github.io/maintainer-agent/) · 个人维护
 
 **无人值守的开源仓库维护 agent：审 PR、发 issue、修剪分支**
 
@@ -39,6 +39,18 @@
 
 > L13: An unattended maintainer for an open-source repository. It runs Claude Code (or
 > L70: So `gh pr merge` stays denied and `maintainer-merge` is the only path. It
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vladimirrott/maintainer-agent 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 43 --> 45
+    line [44, 44]
+```
+
+2026-10-30 44 → 2026-10-31 44（+0）
 
 
 ---

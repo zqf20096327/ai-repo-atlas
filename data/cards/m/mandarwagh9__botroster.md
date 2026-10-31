@@ -1,6 +1,6 @@
 # mandarwagh9/botroster
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/mandarwagh9/botroster) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/mandarwagh9/botroster) · 个人维护
 
 **自托管持久 AI 队友：具名长驻 agent 共享一台可用浏览器/shell 的电脑**
 
@@ -46,12 +46,12 @@ Rust + Tauri 桌面应用与 CLI：用户创建具名 Bot（有固定简报、�
 ```mermaid
 xychart-beta
     title "mandarwagh9/botroster 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 9 --> 19
-    line [10, 11, 17, 18, 18]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 9 --> 20
+    line [10, 11, 17, 18, 19]
 ```
 
-2026-10-18 10 → 2026-10-30 18（+8）
+2026-10-18 10 → 2026-10-31 19（+9）
 
 
 ---

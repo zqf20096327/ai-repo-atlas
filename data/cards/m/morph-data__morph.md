@@ -1,6 +1,6 @@
 # morph-data/morph
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/morph-data/morph) · [官网](https://www.morph-data.io/) · 组织维护
+⭐ 113 · Python · Apache-2.0 · 推送 2026-06-05 · [GitHub](https://github.com/morph-data/morph) · [官网](https://www.morph-data.io/) · 组织维护
 
 **Python+Markdown 全栈框架，用于构建和部署 AI 内部应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "morph-data/morph 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 111 --> 113
-    line [112, 112]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 111 --> 114
+    line [112, 113]
 ```
 
-2026-10-18 112 → 2026-10-30 112（+0）
+2026-10-18 112 → 2026-10-31 113（+1）
 
 
 ---

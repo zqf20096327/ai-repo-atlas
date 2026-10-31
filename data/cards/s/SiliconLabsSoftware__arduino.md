@@ -1,6 +1,6 @@
 # SiliconLabsSoftware/arduino
 
-⭐ 167 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SiliconLabsSoftware/arduino) · 组织维护
+⭐ 166 · C · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/SiliconLabsSoftware/arduino) · 组织维护
 
 **让 Silicon Labs MCU 开发板接入 Arduino 生态的板级核心包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SiliconLabsSoftware/arduino 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-10-30"]
-    y-axis "stars" 166 --> 168
-    line [167, 167]
+    x-axis ["2026-10-22", "2026-10-31"]
+    y-axis "stars" 165 --> 168
+    line [167, 166]
 ```
 
-2026-10-22 167 → 2026-10-30 167（+0）
+2026-10-22 167 → 2026-10-31 166（-1）
 
 
 ---

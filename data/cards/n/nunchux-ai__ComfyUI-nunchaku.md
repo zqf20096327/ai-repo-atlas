@@ -1,6 +1,6 @@
 # nunchux-ai/ComfyUI-nunchaku
 
-⭐ 2,931 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/ComfyUI-nunchaku) · [官网](https://nunchaku.tech/docs/ComfyUI-nunchaku/) · 组织维护 · 中文 README
+⭐ 2,929 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/nunchux-ai/ComfyUI-nunchaku) · [官网](https://nunchaku.tech/docs/ComfyUI-nunchaku/) · 组织维护 · 中文 README
 
 **Nunchaku 4-bit 推理引擎的 ComfyUI 插件，低显存跑图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nunchux-ai/ComfyUI-nunchaku 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 2930 --> 2935
-    line [2933, 2934, 2933, 2931, 2932, 2931, 2931]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 2928 --> 2935
+    line [2933, 2934, 2933, 2931, 2932, 2931, 2929]
 ```
 
-2026-10-18 2,933 → 2026-10-30 2,931（-2）
+2026-10-18 2,933 → 2026-10-31 2,929（-4）
 
 
 ---

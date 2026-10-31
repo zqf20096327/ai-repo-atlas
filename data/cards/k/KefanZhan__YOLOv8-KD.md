@@ -1,6 +1,6 @@
 # KefanZhan/YOLOv8-KD
 
-⭐ 33 · Python · 推送 2026-05-14 · [GitHub](https://github.com/KefanZhan/YOLOv8-KD) · 个人维护
+⭐ 34 · Python · 推送 2026-05-14 · [GitHub](https://github.com/KefanZhan/YOLOv8-KD) · 个人维护
 
 **在 YOLOv8 上实现多种知识蒸馏与混合量化方法的训练代码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "KefanZhan/YOLOv8-KD 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 34（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emlearn/emlearn-micropython 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "emlearn/emlearn-micropython 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 166 --> 169
-    line [167, 168]
+    line [167, 168, 168]
 ```
 
-2026-10-18 167 → 2026-10-30 168（+1）
+2026-10-18 167 → 2026-10-31 168（+1）
 
 
 ---

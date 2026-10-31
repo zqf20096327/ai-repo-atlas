@@ -1,6 +1,6 @@
 # Lourdle/cosyvoice.cpp
 
-⭐ 57 · C++ · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Lourdle/cosyvoice.cpp) · 个人维护 · 中文 README
+⭐ 57 · C++ · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Lourdle/cosyvoice.cpp) · 个人维护 · 中文 README
 
 **CosyVoice3 语音合成的 C++/GGML 本地推理工具链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lourdle/cosyvoice.cpp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 55 --> 58
     line [56, 57, 57]
 ```
 
-2026-10-18 56 → 2026-10-30 57（+1）
+2026-10-18 56 → 2026-10-31 57（+1）
 
 
 ---

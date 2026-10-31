@@ -1,6 +1,6 @@
 # PicartaAI/Picarta-API
 
-⭐ 100 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/PicartaAI/Picarta-API) · [官网](https://picarta.ai/api) · 组织维护
+⭐ 101 · MIT · 推送 2026-09-28 · [GitHub](https://github.com/PicartaAI/Picarta-API) · [官网](https://picarta.ai/api) · 组织维护
 
 **图像地理定位 API 客户端：预测照片拍摄地点**
 
@@ -44,13 +44,13 @@ Picarta.ai 图像地理定位 API 的 Python 客户端包：上传本地图片�
 
 ```mermaid
 xychart-beta
-    title "PicartaAI/Picarta-API 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 96 --> 101
-    line [97, 98, 99, 100]
+    title "PicartaAI/Picarta-API 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 96 --> 102
+    line [97, 98, 99, 100, 101]
 ```
 
-2026-10-18 97 → 2026-10-30 100（+3）
+2026-10-18 97 → 2026-10-31 101（+4）
 
 
 ---

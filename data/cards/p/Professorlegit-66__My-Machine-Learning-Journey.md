@@ -1,6 +1,6 @@
 # Professorlegit-66/My-Machine-Learning-Journey
 
-⭐ 16 · Jupyter Notebook · 推送 2026-10-29 · [GitHub](https://github.com/Professorlegit-66/My-Machine-Learning-Journey) · 个人维护
+⭐ 16 · Jupyter Notebook · 推送 2026-10-30 · [GitHub](https://github.com/Professorlegit-66/My-Machine-Learning-Journey) · 个人维护
 
 **个人机器学习学习记录仓库：笔记本、实验与从零实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Professorlegit-66/My-Machine-Learning-Journey 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-31"]
     y-axis "stars" 11 --> 17
     line [12, 16, 16]
 ```
 
-2026-10-22 12 → 2026-10-30 16（+4）
+2026-10-22 12 → 2026-10-31 16（+4）
 
 
 ---

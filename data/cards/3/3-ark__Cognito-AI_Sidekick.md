@@ -1,6 +1,6 @@
 # 3-ark/Cognito-AI_Sidekick
 
-⭐ 57 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/3-ark/Cognito-AI_Sidekick) · [官网](https://chromewebstore.google.com/detail/cognito/pphjdjdoclkedgiaahmiahladgcpohca?authuser=0&hl=en) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/3-ark/Cognito-AI_Sidekick) · [官网](https://chromewebstore.google.com/detail/cognito/pphjdjdoclkedgiaahmiahladgcpohca?authuser=0&hl=en) · 个人维护
 
 **带 RAG 与笔记功能的 Chrome 浏览器 AI 侧边栏助手**
 
@@ -45,12 +45,12 @@ Chrome 扩展形态的侧边栏 AI 助手：支持网页/维基搜索摘要、�
 ```mermaid
 xychart-beta
     title "3-ark/Cognito-AI_Sidekick 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-30 57（+0）
+2026-10-18 57 → 2026-10-31 57（+0）
 
 
 ---

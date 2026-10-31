@@ -1,6 +1,6 @@
 # respanai/respan-gateway
 
-⭐ 394 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/respanai/respan-gateway) · [官网](https://respan.ai) · 组织维护
+⭐ 408 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/respanai/respan-gateway) · [官网](https://respan.ai) · 组织维护
 
 **统一接入各家 LLM API 的 Rust 网关：任意 SDK 调任意模型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "respanai/respan-gateway 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 74 --> 423
-    line [103, 135, 165, 217, 293, 342, 351, 368, 394]
+    title "respanai/respan-gateway 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 73 --> 438
+    line [103, 135, 165, 217, 293, 342, 351, 368, 394, 408]
 ```
 
-2026-10-22 103 → 2026-10-30 394（+291）
+2026-10-22 103 → 2026-10-31 408（+305）
 
 
 ---

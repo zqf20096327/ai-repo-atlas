@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    title "Gilzone/Installing-a-LLM-on-Raspberry-Pi-Zero-2-W 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50]
+    line [47, 48, 49, 50, 50]
 ```
 
-2026-10-18 47 → 2026-10-30 50（+3）
+2026-10-18 47 → 2026-10-31 50（+3）
 
 
 ---

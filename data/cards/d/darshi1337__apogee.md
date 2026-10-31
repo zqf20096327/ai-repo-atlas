@@ -1,6 +1,6 @@
 # darshi1337/apogee
 
-⭐ 99 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/darshi1337/apogee) · [官网](https://darshi1337.github.io/apogee/) · 个人维护
+⭐ 100 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/darshi1337/apogee) · [官网](https://darshi1337.github.io/apogee/) · 个人维护
 
 **浏览器本地 AI 摘要扩展：离线总结网页/视频/PDF**
 
@@ -45,13 +45,13 @@ Chrome/Firefox 浏览器扩展，在本地对文章、YouTube/Bilibili 视频、
 
 ```mermaid
 xychart-beta
-    title "darshi1337/apogee 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 91 --> 100
-    line [92, 94, 95, 96, 95, 96, 98, 99]
+    title "darshi1337/apogee 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 91 --> 101
+    line [92, 94, 95, 96, 95, 96, 98, 99, 100]
 ```
 
-2026-10-18 92 → 2026-10-30 99（+7）
+2026-10-18 92 → 2026-10-31 100（+8）
 
 
 ---

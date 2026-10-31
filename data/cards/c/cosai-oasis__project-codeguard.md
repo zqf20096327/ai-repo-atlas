@@ -1,6 +1,6 @@
 # cosai-oasis/project-codeguard
 
-⭐ 359 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/cosai-oasis/project-codeguard) · [官网](https://project-codeguard.org/) · 组织维护
+⭐ 360 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/cosai-oasis/project-codeguard) · [官网](https://project-codeguard.org/) · 组织维护
 
 **面向 AI 编程 agent 的模型无关安全规则与技能框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cosai-oasis/project-codeguard 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 352 --> 360
-    line [353, 354, 355, 356, 357, 359]
+    title "cosai-oasis/project-codeguard 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 352 --> 361
+    line [353, 354, 355, 356, 357, 359, 360]
 ```
 
-2026-10-18 353 → 2026-10-30 359（+6）
+2026-10-18 353 → 2026-10-31 360（+7）
 
 
 ---

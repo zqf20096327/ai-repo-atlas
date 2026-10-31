@@ -1,6 +1,6 @@
 # Arize-ai/openinference
 
-⭐ 1,295 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Arize-ai/openinference) · [官网](https://arize-ai.github.io/openinference/) · 组织维护
+⭐ 1,295 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Arize-ai/openinference) · [官网](https://arize-ai.github.io/openinference/) · 组织维护
 
 **为 AI 应用提供 OpenTelemetry 兼容追踪规范的插桩库集合**
 
@@ -46,13 +46,13 @@ OpenInference 提供一套与 OpenTelemetry 互补的约定（规范）和插桩
 
 ```mermaid
 xychart-beta
-    title "Arize-ai/openinference 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "Arize-ai/openinference 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1264 --> 1297
-    line [1266, 1271, 1274, 1278, 1282, 1284, 1288, 1291, 1294, 1295]
+    line [1266, 1271, 1274, 1278, 1282, 1284, 1288, 1291, 1294, 1295, 1295]
 ```
 
-2026-10-18 1,266 → 2026-10-30 1,295（+29）
+2026-10-18 1,266 → 2026-10-31 1,295（+29）
 
 
 ---

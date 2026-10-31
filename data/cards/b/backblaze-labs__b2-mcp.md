@@ -45,12 +45,12 @@ Backblaze Labs 维护的 Model Context Protocol 服务器，让 Claude 等 MCP �
 ```mermaid
 xychart-beta
     title "backblaze-labs/b2-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-18 45 → 2026-10-30 46（+1）
+2026-10-18 45 → 2026-10-31 46（+1）
 
 
 ---

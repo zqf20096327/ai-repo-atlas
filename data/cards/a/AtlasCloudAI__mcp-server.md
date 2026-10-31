@@ -1,6 +1,6 @@
 # AtlasCloudAI/mcp-server
 
-⭐ 17 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/AtlasCloudAI/mcp-server) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 18 · TypeScript · 推送 2026-10-30 · [GitHub](https://github.com/AtlasCloudAI/mcp-server) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **让 AI 编程助手通过 MCP 调用 Atlas Cloud 510+ 生成模型的服务器**
 
@@ -47,12 +47,12 @@ Atlas Cloud 官方维护的 MCP server，把其平台上 510+ 图像/视频/3D/L
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 12 --> 18
-    line [13, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 12 --> 19
+    line [13, 16, 17, 18]
 ```
 
-2026-10-18 13 → 2026-10-30 17（+4）
+2026-10-18 13 → 2026-10-31 18（+5）
 
 
 ---

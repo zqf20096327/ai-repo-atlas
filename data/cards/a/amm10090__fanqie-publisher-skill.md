@@ -1,6 +1,6 @@
 # amm10090/fanqie-publisher-skill
 
-⭐ 23 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amm10090/fanqie-publisher-skill) · [官网](https://github.com/amm10090/fanqie-publisher-skill#readme) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amm10090/fanqie-publisher-skill) · [官网](https://github.com/amm10090/fanqie-publisher-skill#readme) · 个人维护 · 中文 README
 
 **AI Agent 用的番茄小说章节自动发布技能（Playwright）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amm10090/fanqie-publisher-skill 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    line [24, 23, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 23（-1）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

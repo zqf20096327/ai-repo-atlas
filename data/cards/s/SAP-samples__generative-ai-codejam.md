@@ -45,12 +45,12 @@ SAP 开发者布道团队维护的 CodeJam 课程仓库，内容为在 SAP AI Co
 ```mermaid
 xychart-beta
     title "SAP-samples/generative-ai-codejam 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-18 60 → 2026-10-30 60（+0）
+2026-10-18 60 → 2026-10-31 60（+0）
 
 
 ---

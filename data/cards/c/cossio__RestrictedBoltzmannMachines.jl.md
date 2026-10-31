@@ -1,6 +1,6 @@
 # cossio/RestrictedBoltzmannMachines.jl
 
-⭐ 24 · Julia · MIT · 推送 2026-10-19 · [GitHub](https://github.com/cossio/RestrictedBoltzmannMachines.jl) · 个人维护
+⭐ 24 · Julia · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cossio/RestrictedBoltzmannMachines.jl) · 个人维护
 
 **Julia 语言受限玻尔兹曼机（RBM）训练与采样库**
 
@@ -46,12 +46,12 @@ Julia 包，用于训练与采样受限玻尔兹曼机（RBM）这类概率生�
 ```mermaid
 xychart-beta
     title "cossio/RestrictedBoltzmannMachines.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 24（+0）
 
 
 ---

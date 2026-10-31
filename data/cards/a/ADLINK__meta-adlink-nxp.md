@@ -44,12 +44,12 @@ ADLINK 维护的单一 Yocto 层，为旗下全部 NXP i.MX 模组（LEC-IMX8MM�
 ```mermaid
 xychart-beta
     title "ADLINK/meta-adlink-nxp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

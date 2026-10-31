@@ -46,12 +46,12 @@ Wicara 是从零在 PyTorch 中实现的印尼语小型语言模型（Llama 风�
 ```mermaid
 xychart-beta
     title "bagusardin25/WicaraLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

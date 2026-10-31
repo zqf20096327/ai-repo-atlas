@@ -1,6 +1,6 @@
 # Ta0p1/ResolveLab
 
-⭐ 51 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Ta0p1/ResolveLab) · 个人维护 · 中文 README
+⭐ 80 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Ta0p1/ResolveLab) · 个人维护 · 中文 README
 
 **注入故障的工具环境：评测并后训练 LLM agent 的恢复能力**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ta0p1/ResolveLab 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 10 --> 54
-    line [13, 33, 41, 51]
+    title "Ta0p1/ResolveLab 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7 --> 86
+    line [13, 33, 41, 51, 80]
 ```
 
-2026-10-26 13 → 2026-10-30 51（+38）
+2026-10-26 13 → 2026-10-31 80（+67）
 
 
 ---

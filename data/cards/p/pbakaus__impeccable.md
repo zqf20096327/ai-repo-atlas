@@ -1,6 +1,6 @@
 # pbakaus/impeccable
 
-⭐ 94,976 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护 · 中文 README
+⭐ 96,794 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护 · 中文 README
 
 **给 AI 编码 agent 的前端设计技能包：24 条命令与设计检测规则**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pbakaus/impeccable 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
-    y-axis "stars" 91981 --> 95248
-    line [92253, 94976]
+    title "pbakaus/impeccable 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 91799 --> 97248
+    line [92253, 94976, 96794]
 ```
 
-2026-10-29 92,253 → 2026-10-30 94,976（+2,723）
+2026-10-29 92,253 → 2026-10-31 96,794（+4,541）
 
 
 ---

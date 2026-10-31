@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RectangleStory/Superpowers_Multi_AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "RectangleStory/Superpowers_Multi_AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 74 --> 78
-    line [75, 76, 77]
+    line [75, 76, 77, 77]
 ```
 
-2026-10-18 75 → 2026-10-30 77（+2）
+2026-10-18 75 → 2026-10-31 77（+2）
 
 
 ---

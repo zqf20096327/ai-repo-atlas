@@ -1,6 +1,6 @@
 # pirua-game/ai_game_base_analysis_cli_mcp_tool
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-04-12 · [GitHub](https://github.com/pirua-game/ai_game_base_analysis_cli_mcp_tool) · 组织维护
 
 **Unity/UE5/Axmol 游戏代码库分析 CLI 与 MCP 工具，供 AI 读取真实代码**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "pirua-game/ai_game_base_analysis_cli_mcp_tool 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 71]
 ```
 
-2026-10-18 69 → 2026-10-30 70（+1）
+2026-10-18 69 → 2026-10-31 71（+2）
 
 
 ---

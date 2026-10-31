@@ -1,6 +1,6 @@
 # guess-js/guess
 
-⭐ 7,120 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guess-js/guess) · [官网](https://guess-js.github.io/) · 组织维护
+⭐ 7,119 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/guess-js/guess) · [官网](https://guess-js.github.io/) · 组织维护
 
 **为 Web 开发者提供数据/ML 驱动的预测性预取工具库**
 
@@ -45,12 +45,12 @@ Guess.js 提供一组库与工具，用于在 Web 站点中实现预测性数据
 ```mermaid
 xychart-beta
     title "guess-js/guess 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7119 --> 7123
-    line [7121, 7122, 7121, 7120, 7120]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 7118 --> 7123
+    line [7121, 7122, 7121, 7120, 7119]
 ```
 
-2026-10-18 7,121 → 2026-10-30 7,120（-1）
+2026-10-18 7,121 → 2026-10-31 7,119（-2）
 
 
 ---

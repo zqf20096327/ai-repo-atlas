@@ -1,6 +1,6 @@
 # mit-ll-responsible-ai/equine
 
-⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mit-ll-responsible-ai/equine) · [官网](https://mit-ll-responsible-ai.github.io/equine/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mit-ll-responsible-ai/equine) · [官网](https://mit-ll-responsible-ai.github.io/equine/) · 组织维护
 
 **为监督分类模型提供校准概率与分布外评分的 PyTorch 库**
 
@@ -44,12 +44,12 @@ MIT Lincoln Laboratory 开发的 PyTorch 扩展库，面向监督标注问题的
 ```mermaid
 xychart-beta
     title "mit-ll-responsible-ai/equine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

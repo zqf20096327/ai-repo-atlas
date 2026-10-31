@@ -1,6 +1,6 @@
 # MurthiNext/ScriptDirector
 
-⭐ 55 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/MurthiNext/ScriptDirector) · [官网](https://www.bilibili.com/video/BV1mzXVBmE9J) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/MurthiNext/ScriptDirector) · [官网](https://www.bilibili.com/video/BV1mzXVBmE9J) · 个人维护 · 中文 README
 
 **把音频与台本自动对齐，生成带时间戳字幕的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MurthiNext/ScriptDirector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 53 --> 56
+    line [55, 54]
 ```
 
-2026-10-18 55 → 2026-10-30 55（+0）
+2026-10-18 55 → 2026-10-31 54（-1）
 
 
 ---

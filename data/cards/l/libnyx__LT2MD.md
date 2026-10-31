@@ -1,6 +1,6 @@
 # libnyx/LT2MD
 
-⭐ 98 · Python · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/libnyx/LT2MD) · 个人维护 · 中文 README
+⭐ 99 · Python · AGPL-3.0 · 推送 2026-08-23 · [GitHub](https://github.com/libnyx/LT2MD) · 个人维护 · 中文 README
 
 **给 AI agent 用的技能：把 PDF 转成可溯源 Markdown 并修复旧转换**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "libnyx/LT2MD 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 97 --> 111
-    line [109, 110, 98, 98]
+    line [109, 110, 98, 99]
 ```
 
-2026-10-18 109 → 2026-10-30 98（-11）
+2026-10-18 109 → 2026-10-31 99（-10）
 
 
 ---

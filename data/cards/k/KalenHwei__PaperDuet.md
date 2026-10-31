@@ -1,6 +1,6 @@
 # KalenHwei/PaperDuet
 
-⭐ 35 · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/KalenHwei/PaperDuet) · [官网](https://paperduet.com) · 个人维护 · 中文 README
+⭐ 35 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/KalenHwei/PaperDuet) · [官网](https://paperduet.com) · 个人维护 · 中文 README
 
 **面向科研人员的本地 AI 论文翻译器，原文与译文镜像对照**
 
@@ -45,13 +45,13 @@ Mac/Windows 桌面应用，将 PDF 论文原文与译文左右镜像排版，公
 
 ```mermaid
 xychart-beta
-    title "KalenHwei/PaperDuet 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "KalenHwei/PaperDuet 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 4 --> 37
-    line [6, 7, 13, 21, 28, 35]
+    line [6, 7, 13, 21, 28, 35, 35]
 ```
 
-2026-10-24 6 → 2026-10-30 35（+29）
+2026-10-24 6 → 2026-10-31 35（+29）
 
 
 ---

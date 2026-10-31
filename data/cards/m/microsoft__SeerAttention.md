@@ -1,6 +1,6 @@
 # microsoft/SeerAttention
 
-⭐ 222 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/SeerAttention) · 组织维护
+⭐ 223 · Python · MIT · 推送 2026-07-10 · [GitHub](https://github.com/microsoft/SeerAttention) · 组织维护
 
 **可训练稀疏注意力机制：通过自蒸馏加速 LLM 长上下文推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SeerAttention 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 221 --> 224
+    line [222, 223]
 ```
 
-2026-10-18 222 → 2026-10-30 222（+0）
+2026-10-18 222 → 2026-10-31 223（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-forever/gigachat
 
-⭐ 172 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/ai-forever/gigachat) · 组织维护
+⭐ 172 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ai-forever/gigachat) · 组织维护
 
 **Sber GigaChat 大模型 REST API 的官方 Python SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-forever/gigachat 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 170 --> 173
     line [171, 172, 172]
 ```
 
-2026-10-18 171 → 2026-10-30 172（+1）
+2026-10-18 171 → 2026-10-31 172（+1）
 
 
 ---

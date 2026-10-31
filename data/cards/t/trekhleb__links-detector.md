@@ -1,6 +1,6 @@
 # trekhleb/links-detector
 
-⭐ 185 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/links-detector) · [官网](https://trekhleb.dev/links-detector/) · 个人维护
+⭐ 186 · TypeScript · MIT · 推送 2025-11-23 · [GitHub](https://github.com/trekhleb/links-detector) · [官网](https://trekhleb.dev/links-detector/) · 个人维护
 
 **用手机摄像头识别印刷链接并转为可点击的 Web 应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "trekhleb/links-detector 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 183 --> 186
-    line [184, 185, 185]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 183 --> 187
+    line [184, 185, 186]
 ```
 
-2026-10-18 184 → 2026-10-30 185（+1）
+2026-10-18 184 → 2026-10-31 186（+2）
 
 
 ---

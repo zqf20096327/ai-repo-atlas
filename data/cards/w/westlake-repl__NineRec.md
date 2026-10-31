@@ -42,6 +42,18 @@
 > L7: Recommendation
 > L33: - Google Drive: Source Datasets, Downstream Datasets
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "westlake-repl/NineRec 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 112 --> 114
+    line [113, 113]
+```
+
+2026-10-30 113 → 2026-10-31 113（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `1d07a03124cc` · [字段定义](../../DATASET.md)*

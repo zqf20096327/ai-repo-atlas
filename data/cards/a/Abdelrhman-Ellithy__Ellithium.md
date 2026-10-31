@@ -1,6 +1,6 @@
 # Abdelrhman-Ellithy/Ellithium
 
-⭐ 33 · Java · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/Abdelrhman-Ellithy/Ellithium) · [官网](https://abdelrhman-ellithy.github.io/ellithium.github.io/) · 个人维护
+⭐ 33 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Abdelrhman-Ellithy/Ellithium) · [官网](https://abdelrhman-ellithy.github.io/ellithium.github.io/) · 个人维护
 
 **面向 SDET 的 Java 统一测试自动化框架，含 AI 自愈与 LLM 生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Abdelrhman-Ellithy/Ellithium 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

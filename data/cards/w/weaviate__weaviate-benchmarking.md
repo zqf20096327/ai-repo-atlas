@@ -1,6 +1,6 @@
 # weaviate/weaviate-benchmarking
 
-⭐ 32 · Go · BSD-3-Clause · 推送 2026-08-19 · [GitHub](https://github.com/weaviate/weaviate-benchmarking) · 组织维护
+⭐ 32 · Go · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/weaviate/weaviate-benchmarking) · 组织维护
 
 **Weaviate 向量数据库的性能基准测试工具（Go 实现）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-benchmarking 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

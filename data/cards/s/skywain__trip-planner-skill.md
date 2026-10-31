@@ -1,6 +1,6 @@
 # skywain/trip-planner-skill
 
-⭐ 45 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/skywain/trip-planner-skill) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/skywain/trip-planner-skill) · 个人维护 · 中文 README
 
 **旅行规划 Agent 技能：一句话生成逐小时可预订行程页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skywain/trip-planner-skill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 43, 44, 45]
+    title "skywain/trip-planner-skill 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 43, 44, 45, 47]
 ```
 
-2026-10-18 43 → 2026-10-30 45（+2）
+2026-10-18 43 → 2026-10-31 47（+4）
 
 
 ---

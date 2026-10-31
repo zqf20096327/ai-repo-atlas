@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-java
 
-⭐ 6,181 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/agentscope-ai/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
+⭐ 6,198 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/agentscope-ai/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
 
 **面向 Java 开发者的分布式生产级 Agent 构建框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentscope-ai/agentscope-java 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 6004 --> 6197
-    line [6020, 6045, 6070, 6085, 6098, 6102, 6109, 6126, 6138, 6161, 6181]
+    title "agentscope-ai/agentscope-java 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 6003 --> 6215
+    line [6020, 6045, 6070, 6085, 6098, 6102, 6109, 6126, 6138, 6161, 6181, 6198]
 ```
 
-2026-10-18 6,020 → 2026-10-30 6,181（+161）
+2026-10-18 6,020 → 2026-10-31 6,198（+178）
 
 
 ---

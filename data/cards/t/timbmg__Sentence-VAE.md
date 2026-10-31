@@ -1,6 +1,6 @@
 # timbmg/Sentence-VAE
 
-⭐ 593 · Python · 推送 2026-06-10 · [GitHub](https://github.com/timbmg/Sentence-VAE) · 个人维护
+⭐ 594 · Python · 推送 2026-06-10 · [GitHub](https://github.com/timbmg/Sentence-VAE) · 个人维护
 
 **Bowman 等 2015 句子 VAE 论文的 PyTorch 复现实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "timbmg/Sentence-VAE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 592 --> 594
-    line [593, 593]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 592 --> 595
+    line [593, 594]
 ```
 
-2026-10-18 593 → 2026-10-30 593（+0）
+2026-10-18 593 → 2026-10-31 594（+1）
 
 
 ---

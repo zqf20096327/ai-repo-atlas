@@ -45,12 +45,12 @@ Python 编写的求职自动化 agent：每日抓取 Greenhouse/Lever/Ashby 公�
 ```mermaid
 xychart-beta
     title "hardenbr-personal/JobScoutPublic 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

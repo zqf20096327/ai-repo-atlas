@@ -46,12 +46,12 @@ ComfyUI 自定义节点，封装 DreamScene360（ECCV 2024）的全景转 3D 路
 ```mermaid
 xychart-beta
     title "jfirma1/ComfyUI-DreamScene360 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

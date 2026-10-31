@@ -1,6 +1,6 @@
 # opencoredev/agent-drop
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opencoredev/agent-drop) · [官网](https://www.agent-drop.co/) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/opencoredev/agent-drop) · [官网](https://www.agent-drop.co/) · 组织维护
 
 **为 AI agent 提供静态站点托管的 MCP/API 服务**
 
@@ -46,12 +46,12 @@ AgentDrop 是一个面向 AI agent 的静态页面托管服务：通过一次 HT
 ```mermaid
 xychart-beta
     title "opencoredev/agent-drop 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

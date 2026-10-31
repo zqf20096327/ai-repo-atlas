@@ -1,6 +1,6 @@
 # mikahama/uralicNLP
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/mikahama/uralicNLP) · [官网](http://uralicnlp.com/) · 个人维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/mikahama/uralicNLP) · [官网](http://uralicnlp.com/) · 个人维护
 
 **面向乌拉尔语系及多语的形态学 NLP Python 库**
 
@@ -46,12 +46,12 @@ Python 库，为芬兰语、斯科尔特萨米语、莫克沙语等乌拉尔语�
 ```mermaid
 xychart-beta
     title "mikahama/uralicNLP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-18 101 → 2026-10-30 101（+0）
+2026-10-18 101 → 2026-10-31 101（+0）
 
 
 ---

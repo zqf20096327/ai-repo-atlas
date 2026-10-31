@@ -1,6 +1,6 @@
 # imbutus/ComfyUI-MiniMaxDirector
 
-⭐ 69 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/imbutus/ComfyUI-MiniMaxDirector) · 个人维护 · 中文 README
+⭐ 71 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/imbutus/ComfyUI-MiniMaxDirector) · 个人维护 · 中文 README
 
 **ComfyUI 时间轴导演插件：为 MiniMax H3 视频模型编排镜头并编译结构化提示词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "imbutus/ComfyUI-MiniMaxDirector 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 65 --> 70
-    line [66, 67, 68, 69]
+    title "imbutus/ComfyUI-MiniMaxDirector 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 65 --> 72
+    line [66, 67, 68, 69, 71]
 ```
 
-2026-10-18 66 → 2026-10-30 69（+3）
+2026-10-18 66 → 2026-10-31 71（+5）
 
 
 ---

@@ -45,13 +45,13 @@ Electron + React + TypeScript 桌面应用：在屏幕上叠加对屏幕共享�
 
 ```mermaid
 xychart-beta
-    title "umairinayat/Specter-AI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "umairinayat/Specter-AI 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    line [18, 19, 20, 20]
 ```
 
-2026-10-18 18 → 2026-10-30 20（+2）
+2026-10-18 18 → 2026-10-31 20（+2）
 
 
 ---

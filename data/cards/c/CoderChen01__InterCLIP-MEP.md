@@ -45,12 +45,12 @@ ACM TOMM 论文 InterCLIP-MEP 的官方代码库：提出 Interactive CLIP 训�
 ```mermaid
 xychart-beta
     title "CoderChen01/InterCLIP-MEP 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Irsyadmr354/KESTREL
 
-⭐ 49 · 推送 2026-10-29 · [GitHub](https://github.com/Irsyadmr354/KESTREL) · [官网](https://irsyadmr354.github.io/KESTREL/) · 个人维护
+⭐ 62 · 推送 2026-10-30 · [GitHub](https://github.com/Irsyadmr354/KESTREL) · [官网](https://irsyadmr354.github.io/KESTREL/) · 个人维护
 
 **单文件越狱系统提示词：粘贴到任意接受系统提示的模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Irsyadmr354/KESTREL 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 5 --> 53
-    line [9, 10, 11, 24, 35, 41, 49]
+    title "Irsyadmr354/KESTREL 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4 --> 67
+    line [9, 10, 11, 24, 35, 41, 49, 62]
 ```
 
-2026-10-18 9 → 2026-10-30 49（+40）
+2026-10-18 9 → 2026-10-31 62（+53）
 
 
 ---

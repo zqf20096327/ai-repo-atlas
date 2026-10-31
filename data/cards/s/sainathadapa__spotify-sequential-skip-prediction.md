@@ -46,12 +46,12 @@ WSDM Cup 2019 Spotify 顺序跳过预测挑战赛的第 7 名参赛方案代码�
 ```mermaid
 xychart-beta
     title "sainathadapa/spotify-sequential-skip-prediction 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

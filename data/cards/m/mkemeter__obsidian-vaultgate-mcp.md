@@ -1,6 +1,6 @@
 # mkemeter/obsidian-vaultgate-mcp
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/mkemeter/obsidian-vaultgate-mcp) · 个人维护
+⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/mkemeter/obsidian-vaultgate-mcp) · 个人维护
 
 **让任意 MCP AI 客户端本地读写 Obsidian 笔记库的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkemeter/obsidian-vaultgate-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "mkemeter/obsidian-vaultgate-mcp 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 10 --> 17
-    line [11, 13, 16]
+    line [11, 13, 16, 16]
 ```
 
-2026-10-18 11 → 2026-10-30 16（+5）
+2026-10-18 11 → 2026-10-31 16（+5）
 
 
 ---

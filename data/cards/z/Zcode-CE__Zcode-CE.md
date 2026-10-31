@@ -1,6 +1,6 @@
 # Zcode-CE/Zcode-CE
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Zcode-CE/Zcode-CE) · 组织维护 · 中文 README
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Zcode-CE/Zcode-CE) · 组织维护 · 中文 README
 
 **AI 编程工作台 ZCode 的开源社区版：桌面/Web/终端三种形态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zcode-CE/Zcode-CE 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    title "Zcode-CE/Zcode-CE 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 36 --> 43
-    line [37, 38, 40, 41, 42]
+    line [37, 38, 40, 41, 42, 42]
 ```
 
-2026-10-18 37 → 2026-10-30 42（+5）
+2026-10-18 37 → 2026-10-31 42（+5）
 
 
 ---

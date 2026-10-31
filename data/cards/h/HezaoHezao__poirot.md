@@ -1,6 +1,6 @@
 # HezaoHezao/poirot
 
-⭐ 257 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/HezaoHezao/poirot) · 个人维护 · 中文 README
+⭐ 258 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/HezaoHezao/poirot) · 个人维护 · 中文 README
 
 **面向架构研究者的深度研究 Agent 内核，含五层长期记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HezaoHezao/poirot 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 250 --> 258
-    line [251, 252, 255, 256, 257, 257]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 250 --> 259
+    line [251, 252, 255, 256, 257, 258]
 ```
 
-2026-10-18 251 → 2026-10-30 257（+6）
+2026-10-18 251 → 2026-10-31 258（+7）
 
 
 ---

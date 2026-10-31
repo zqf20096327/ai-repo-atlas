@@ -1,6 +1,6 @@
 # TransformerOptimus/SuperCoder
 
-⭐ 999 · Rust · MIT · 推送 2026-07-07 · [GitHub](https://github.com/TransformerOptimus/SuperCoder) · [官网](https://superagi.com) · 个人维护
+⭐ 1,000 · Rust · MIT · 推送 2026-07-07 · [GitHub](https://github.com/TransformerOptimus/SuperCoder) · [官网](https://superagi.com) · 个人维护
 
 **本地优先的开源桌面 AI 编程助手，自带 LLM key 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TransformerOptimus/SuperCoder 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 998 --> 1001
-    line [1000, 999, 999]
+    line [1000, 999, 1000]
 ```
 
-2026-10-18 1,000 → 2026-10-30 999（-1）
+2026-10-18 1,000 → 2026-10-31 1,000（+0）
 
 
 ---

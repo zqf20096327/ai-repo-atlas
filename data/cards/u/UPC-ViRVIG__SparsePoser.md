@@ -45,12 +45,12 @@ ACM TOG 论文 SparsePoser 的官方实现：用 PyTorch 网络从稀疏追踪�
 ```mermaid
 xychart-beta
     title "UPC-ViRVIG/SparsePoser 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-30 51（+0）
+2026-10-18 51 → 2026-10-31 51（+0）
 
 
 ---

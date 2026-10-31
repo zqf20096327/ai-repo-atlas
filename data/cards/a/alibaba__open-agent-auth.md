@@ -1,6 +1,6 @@
 # alibaba/open-agent-auth
 
-⭐ 86 · Java · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/alibaba/open-agent-auth) · [官网](https://alibaba.github.io/open-agent-auth/) · 组织维护 · 中文 README
+⭐ 87 · Java · Apache-2.0 · 推送 2026-03-15 · [GitHub](https://github.com/alibaba/open-agent-auth) · [官网](https://alibaba.github.io/open-agent-auth/) · 组织维护 · 中文 README
 
 **企业级 AI Agent 操作授权框架，实现身份绑定与细粒度鉴权**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alibaba/open-agent-auth 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 80 --> 87
-    line [81, 82, 83, 85, 86, 86]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 80 --> 88
+    line [81, 82, 83, 85, 86, 87]
 ```
 
-2026-10-18 81 → 2026-10-30 86（+5）
+2026-10-18 81 → 2026-10-31 87（+6）
 
 
 ---

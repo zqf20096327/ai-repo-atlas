@@ -1,6 +1,6 @@
 # ethiack/ethibench
 
-⭐ 107 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/ethiack/ethibench) · [官网](https://ethiack.com) · 组织维护
+⭐ 108 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/ethiack/ethibench) · [官网](https://ethiack.com) · 组织维护
 
 **AI 渗透测试 agent 的评测框架：按漏洞发现打分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ethiack/ethibench 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 106 --> 109
-    line [108, 107, 107]
+    line [108, 107, 108]
 ```
 
-2026-10-18 108 → 2026-10-30 107（-1）
+2026-10-18 108 → 2026-10-31 108（+0）
 
 
 ---

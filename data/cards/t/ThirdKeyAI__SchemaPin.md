@@ -45,12 +45,12 @@ SchemaPin 是一套防止 MCP/AI agent 工具供应链攻击（如 MCP Rug Pull�
 ```mermaid
 xychart-beta
     title "ThirdKeyAI/SchemaPin 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

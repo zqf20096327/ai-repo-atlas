@@ -1,6 +1,6 @@
 # molecule-dev/molecule
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/molecule-dev/molecule) · [官网](https://www.molecule.dev/) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/molecule-dev/molecule) · [官网](https://www.molecule.dev/) · 组织维护
 
 **AI 可正确组装的开源全栈 TypeScript 包生态与脚手架工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "molecule-dev/molecule 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 44（+0）
 
 
 ---

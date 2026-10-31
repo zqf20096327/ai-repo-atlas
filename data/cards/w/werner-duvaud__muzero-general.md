@@ -1,6 +1,6 @@
 # werner-duvaud/muzero-general
 
-⭐ 2,877 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 组织维护
+⭐ 2,878 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 组织维护
 
 **面向教学的 MuZero 通用实现：在自定义环境中训练规划智能体**
 
@@ -39,6 +39,18 @@
 
 > L6: An educational and commented implementation of MuZero, based on DeepMind's 2019 paper and original pseudocode, built
 > L8: MuZero builds on AlphaZero by learning the dynamics used for planning from experience. Its network represents observ
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "werner-duvaud/muzero-general 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 2876 --> 2879
+    line [2877, 2878]
+```
+
+2026-10-30 2,877 → 2026-10-31 2,878（+1）
 
 
 ---

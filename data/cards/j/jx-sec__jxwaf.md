@@ -1,6 +1,6 @@
 # jx-sec/jxwaf
 
-⭐ 1,229 · Go Template · GPL-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/jx-sec/jxwaf) · [官网](https://www.jxwaf.com/) · 组织维护 · 中文 README
+⭐ 1,229 · Go Template · GPL-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/jx-sec/jxwaf) · [官网](https://www.jxwaf.com/) · 组织维护 · 中文 README
 
 **基于 AI 大模型的 Web 应用防火墙，清洗恶意流量后转发业务服务器**
 
@@ -46,12 +46,12 @@ JXWAF 是一款反向代理式 Web 应用防火墙，实时分析检测 Web 流�
 ```mermaid
 xychart-beta
     title "jx-sec/jxwaf 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1227 --> 1230
     line [1228, 1229, 1229]
 ```
 
-2026-10-18 1,228 → 2026-10-30 1,229（+1）
+2026-10-18 1,228 → 2026-10-31 1,229（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # greenfield-inc/Pane
 
-⭐ 586 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/greenfield-inc/Pane) · [官网](https://runpane.com/) · 组织维护
+⭐ 591 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/greenfield-inc/Pane) · [官网](https://runpane.com/) · 组织维护
 
 **跨平台终端优先的 AI 编码 agent 管理器**
 
@@ -45,13 +45,13 @@ Pixel-art 风格的终端工作台，用于并行运行和管理多个 CLI 编�
 
 ```mermaid
 xychart-beta
-    title "greenfield-inc/Pane 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 550 --> 589
-    line [553, 562, 569, 575, 580, 581, 582, 584, 586]
+    title "greenfield-inc/Pane 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 550 --> 594
+    line [553, 562, 569, 575, 580, 581, 582, 584, 586, 591]
 ```
 
-2026-10-18 553 → 2026-10-30 586（+33）
+2026-10-18 553 → 2026-10-31 591（+38）
 
 
 ---

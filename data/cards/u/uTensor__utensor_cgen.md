@@ -45,12 +45,12 @@ uTensor 生态的 Python 命令行工具：读取 TensorFlow pb 文件或 Keras 
 ```mermaid
 xychart-beta
     title "uTensor/utensor_cgen 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-18 53 → 2026-10-30 53（+0）
+2026-10-18 53 → 2026-10-31 53（+0）
 
 
 ---

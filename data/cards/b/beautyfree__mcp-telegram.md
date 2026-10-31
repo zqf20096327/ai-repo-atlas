@@ -1,6 +1,6 @@
 # beautyfree/mcp-telegram
 
-⭐ 33 · TypeScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/beautyfree/mcp-telegram) · [官网](https://npmjs.com/mcp-telegram) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/beautyfree/mcp-telegram) · [官网](https://npmjs.com/mcp-telegram) · 个人维护
 
 **把 Telegram 真人账号接入 MCP 客户端的工具服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "beautyfree/mcp-telegram 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 30 --> 34
-    line [31, 32, 33, 33]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 30 --> 35
+    line [31, 32, 33, 34]
 ```
 
-2026-10-18 31 → 2026-10-30 33（+2）
+2026-10-18 31 → 2026-10-31 34（+3）
 
 
 ---

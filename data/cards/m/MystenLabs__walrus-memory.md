@@ -1,6 +1,6 @@
 # MystenLabs/walrus-memory
 
-⭐ 129 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
+⭐ 131 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
 
 **可移植的 AI agent 长期记忆层，跨应用跨会话持久化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MystenLabs/walrus-memory 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 123 --> 130
-    line [124, 125, 126, 127, 128, 129]
+    title "MystenLabs/walrus-memory 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 123 --> 132
+    line [124, 125, 126, 127, 128, 129, 131]
 ```
 
-2026-10-23 124 → 2026-10-30 129（+5）
+2026-10-23 124 → 2026-10-31 131（+7）
 
 
 ---

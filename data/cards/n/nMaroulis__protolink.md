@@ -1,6 +1,6 @@
 # nMaroulis/protolink
 
-⭐ 86 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nMaroulis/protolink) · [官网](https://nmaroulis.github.io/protolink/) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/nMaroulis/protolink) · [官网](https://nmaroulis.github.io/protolink/) · 个人维护
 
 **A2A 优先的 Python 多智能体框架，构建可插拔自治 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nMaroulis/protolink 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-31"]
     y-axis "stars" 85 --> 89
-    line [87, 88, 87, 86, 86]
+    line [87, 88, 87, 86, 87]
 ```
 
-2026-10-18 87 → 2026-10-30 86（-1）
+2026-10-18 87 → 2026-10-31 87（+0）
 
 
 ---

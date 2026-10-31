@@ -44,13 +44,13 @@ ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei �
 
 ```mermaid
 xychart-beta
-    title "projectdiscovery/openrisk 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    title "projectdiscovery/openrisk 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
     y-axis "stars" 179 --> 183
-    line [182, 181, 180]
+    line [182, 181, 180, 180]
 ```
 
-2026-10-18 182 → 2026-10-30 180（-2）
+2026-10-18 182 → 2026-10-31 180（-2）
 
 
 ---

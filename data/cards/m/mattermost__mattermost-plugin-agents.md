@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-agents
 
-⭐ 256 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://docs.mattermost.com/administration-guide/configure/agents-admin-guide) · 组织维护
+⭐ 256 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://mattermost.com/copilot) · 组织维护
 
 **Mattermost 的 AI 助手插件：接入本地或云端 LLM**
 
@@ -45,13 +45,13 @@ Mattermost 官方团队的 AI 插件，将 LLM 能力集成到 Mattermost 工作
 
 ```mermaid
 xychart-beta
-    title "mattermost/mattermost-plugin-agents 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "mattermost/mattermost-plugin-agents 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 254 --> 257
-    line [256, 255, 256]
+    line [256, 255, 256, 256]
 ```
 
-2026-10-18 256 → 2026-10-30 256（+0）
+2026-10-18 256 → 2026-10-31 256（+0）
 
 
 ---

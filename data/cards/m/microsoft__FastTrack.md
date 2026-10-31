@@ -1,6 +1,6 @@
 # microsoft/FastTrack
 
-⭐ 230 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
+⭐ 230 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
 
 **微软 FastTrack 的 M365 Copilot 部署指南、代理与脚本资源库**
 
@@ -40,6 +40,18 @@ Microsoft FastTrack 团队开源的资源目录仓库，收录规划指南、决
 > L5: **Field-tested guides, agents, scripts, and analytics from Microsoft FastTrack to plan, deploy, govern, and measure 
 > L19: |Guides & planning|Interactive implementation guides, decision guides, calculators, and planning templates for Copi
 > L20: |Agents|Ready-to-use agents for Copilot Studio, Agent Builder, and GitHub Copilot, plus Employee Self-Service exten
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/FastTrack 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 229 --> 231
+    line [230, 230]
+```
+
+2026-10-30 230 → 2026-10-31 230（+0）
 
 
 ---

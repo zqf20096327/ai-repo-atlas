@@ -1,6 +1,6 @@
 # LehaoLin/hermes-gate
 
-⭐ 28 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LehaoLin/hermes-gate) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LehaoLin/hermes-gate) · 个人维护 · 中文 README
 
 **远程管理云服务器上 Hermes Agent 会话的终端 TUI 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LehaoLin/hermes-gate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

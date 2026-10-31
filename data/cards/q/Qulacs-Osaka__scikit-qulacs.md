@@ -45,12 +45,12 @@ scikit-qulacs 是用于量子神经网络的 Python 库，基于量子电路模�
 ```mermaid
 xychart-beta
     title "Qulacs-Osaka/scikit-qulacs 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

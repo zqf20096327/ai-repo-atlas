@@ -1,6 +1,6 @@
 # Duragraph/duragraph
 
-⭐ 162 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Duragraph/duragraph) · [官网](https://duragraph.ai) · 组织维护
+⭐ 161 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/Duragraph/duragraph) · [官网](https://duragraph.ai) · 组织维护
 
 **面向 AI agent 的自托管持久化工作流编排引擎（事件溯源）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Duragraph/duragraph 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    title "Duragraph/duragraph 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 160 --> 163
-    line [162, 161, 162]
+    line [162, 161, 162, 161]
 ```
 
-2026-10-18 162 → 2026-10-30 162（+0）
+2026-10-18 162 → 2026-10-31 161（-1）
 
 
 ---

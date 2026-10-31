@@ -1,6 +1,6 @@
 # KhiopsML/khiops-python
 
-⭐ 19 · Python · BSD-3-Clause-Clear · 推送 2026-10-28 · [GitHub](https://github.com/KhiopsML/khiops-python) · [官网](https://khiops.org) · 组织维护
+⭐ 19 · Python · BSD-3-Clause-Clear · 推送 2026-10-30 · [GitHub](https://github.com/KhiopsML/khiops-python) · [官网](https://khiops.org) · 组织维护
 
 **Khiops AutoML 套件的 Python 接口库**
 
@@ -45,12 +45,12 @@ Orange Innovation 的 Khiops 团队开发的 Python 库，封装 Khiops AutoML �
 ```mermaid
 xychart-beta
     title "KhiopsML/khiops-python 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

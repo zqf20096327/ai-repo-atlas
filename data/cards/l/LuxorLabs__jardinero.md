@@ -1,6 +1,6 @@
 # LuxorLabs/jardinero
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/LuxorLabs/jardinero) · [官网](https://jardinero.dev) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/LuxorLabs/jardinero) · [官网](https://jardinero.dev) · 组织维护
 
 **常驻自主 AI 工程师：看日志、做工单、维护 PR，产出均回 Pull Request**
 
@@ -46,12 +46,12 @@ Jardinero 是一个自托管的 AI 编排服务，面向希望代理持续维护
 ```mermaid
 xychart-beta
     title "LuxorLabs/jardinero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

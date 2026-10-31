@@ -1,6 +1,6 @@
 # hawkli-1994/deerflow-book
 
-⭐ 570 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/hawkli-1994/deerflow-book) · [官网](https://hawkli-1994.github.io/deerflow-book) · 个人维护 · 中文 README
+⭐ 573 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hawkli-1994/deerflow-book) · [官网](https://hawkli-1994.github.io/deerflow-book) · 个人维护 · 中文 README
 
 **DeerFlow 2.0 框架的中文源码剖析与二次开发技术书**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hawkli-1994/deerflow-book 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 554 --> 571
-    line [555, 556, 558, 561, 564, 565, 568, 570]
+    title "hawkli-1994/deerflow-book 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 554 --> 574
+    line [555, 556, 558, 561, 564, 565, 568, 570, 573]
 ```
 
-2026-10-18 555 → 2026-10-30 570（+15）
+2026-10-18 555 → 2026-10-31 573（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # clouatre-labs/setup-kiro-action
 
-⭐ 16 · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/clouatre-labs/setup-kiro-action) · [官网](https://github.com/clouatre-labs/setup-kiro-action) · 个人维护
+⭐ 16 · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/clouatre-labs/setup-kiro-action) · [官网](https://github.com/clouatre-labs/setup-kiro-action) · 个人维护
 
 **在 CI/CD 中安装并缓存 Kiro CLI 的 GitHub Action**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "clouatre-labs/setup-kiro-action 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

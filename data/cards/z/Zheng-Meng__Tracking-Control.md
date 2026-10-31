@@ -45,12 +45,12 @@ Nature Communications 论文（Zhai 等 2023）的配套代码，实现基于机
 ```mermaid
 xychart-beta
     title "Zheng-Meng/Tracking-Control 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-18 34 → 2026-10-30 34（+0）
+2026-10-18 34 → 2026-10-31 34（+0）
 
 
 ---

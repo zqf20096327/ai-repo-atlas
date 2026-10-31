@@ -1,6 +1,6 @@
 # imlewc/video-to-subtitle-summary-skill
 
-⭐ 238 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/imlewc/video-to-subtitle-summary-skill) · [官网](https://top9.cc) · 个人维护 · 中文 README
+⭐ 240 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/imlewc/video-to-subtitle-summary-skill) · [官网](https://top9.cc) · 个人维护 · 中文 README
 
 **视频转字幕并生成 AI 摘要的 Codex/Claude Code Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "imlewc/video-to-subtitle-summary-skill 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 224 --> 239
-    line [225, 229, 230, 232, 234, 236, 237, 238]
+    title "imlewc/video-to-subtitle-summary-skill 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 224 --> 241
+    line [225, 229, 230, 232, 234, 236, 237, 238, 240]
 ```
 
-2026-10-18 225 → 2026-10-30 238（+13）
+2026-10-18 225 → 2026-10-31 240（+15）
 
 
 ---

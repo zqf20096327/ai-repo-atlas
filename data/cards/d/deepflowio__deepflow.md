@@ -1,6 +1,6 @@
 # deepflowio/deepflow
 
-⭐ 4,310 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/deepflowio/deepflow) · [官网](https://deepflow.io) · 组织维护 · 中文 README
+⭐ 4,310 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/deepflowio/deepflow) · [官网](https://deepflow.io) · 组织维护 · 中文 README
 
 **给 DevOps/SRE 的 eBPF 零侵扰全栈可观测性平台（指标/追踪/剖析）**
 
@@ -44,13 +44,13 @@ DeepFlow 是开源可观测性平台，面向云原生与 AI 应用的 DevOps/SR
 
 ```mermaid
 xychart-beta
-    title "deepflowio/deepflow 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "deepflowio/deepflow 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 4297 --> 4311
-    line [4298, 4300, 4305, 4306, 4307, 4308, 4309, 4310]
+    line [4298, 4300, 4305, 4306, 4307, 4308, 4309, 4310, 4310]
 ```
 
-2026-10-18 4,298 → 2026-10-30 4,310（+12）
+2026-10-18 4,298 → 2026-10-31 4,310（+12）
 
 
 ---

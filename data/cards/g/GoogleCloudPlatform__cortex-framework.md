@@ -46,12 +46,12 @@ Google Cloud 维护的企业数据框架 v7：基于 BigQuery、Dataform 与 Kno
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/cortex-framework 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

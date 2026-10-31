@@ -1,6 +1,6 @@
 # openai/community-plugins
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/openai/community-plugins) · 组织维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openai/community-plugins) · 组织维护
 
 **面向 Codex 的社区插件市场仓库，供检视后安装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openai/community-plugins 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-10-30 17（+2）
+2026-10-18 15 → 2026-10-31 17（+2）
 
 
 ---

@@ -44,12 +44,12 @@ IBM 维护的 watsonx Developer Hub，收录使用 watsonx API 构建与部署�
 ```mermaid
 xychart-beta
     title "IBM/watsonx-developer-hub 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-30 51（+0）
+2026-10-18 51 → 2026-10-31 51（+0）
 
 
 ---

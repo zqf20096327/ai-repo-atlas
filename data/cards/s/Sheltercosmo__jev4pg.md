@@ -1,6 +1,6 @@
 # Sheltercosmo/jev4pg
 
-⭐ 259 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Sheltercosmo/jev4pg) · [官网](https://jev4pg.com) · 个人维护 · 中文 README
+⭐ 260 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Sheltercosmo/jev4pg) · [官网](https://jev4pg.com) · 个人维护 · 中文 README
 
 **面向 PostgreSQL 的自然语言转 SQL 与语义算子工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sheltercosmo/jev4pg 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 255 --> 281
-    line [278, 279, 257, 258, 259, 259]
+    line [278, 279, 257, 258, 259, 260]
 ```
 
-2026-10-18 278 → 2026-10-30 259（-19）
+2026-10-18 278 → 2026-10-31 260（-18）
 
 
 ---

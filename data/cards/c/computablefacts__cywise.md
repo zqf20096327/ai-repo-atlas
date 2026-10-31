@@ -1,6 +1,6 @@
 # computablefacts/cywise
 
-⭐ 20 · PHP · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/computablefacts/cywise) · [官网](https://cywise.io) · 组织维护
+⭐ 20 · PHP · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/computablefacts/cywise) · [官网](https://cywise.io) · 组织维护
 
 **面向中小企业/团队的自托管开源网络安全平台（漏洞扫描、加固、AI 助手）**
 
@@ -47,12 +47,12 @@ Cywise 的自托管开源版本，为中小企业提供漏洞扫描（5 万+漏�
 ```mermaid
 xychart-beta
     title "computablefacts/cywise 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

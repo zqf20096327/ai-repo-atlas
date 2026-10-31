@@ -1,6 +1,6 @@
 # lee-to/ai-workspace
 
-⭐ 61 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/lee-to/ai-workspace) · 个人维护
+⭐ 61 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/lee-to/ai-workspace) · 个人维护
 
 **跨项目共享上下文的 CLI + MCP 服务器，给 AI 编码代理记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lee-to/ai-workspace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-18 61 → 2026-10-30 61（+0）
+2026-10-18 61 → 2026-10-31 61（+0）
 
 
 ---

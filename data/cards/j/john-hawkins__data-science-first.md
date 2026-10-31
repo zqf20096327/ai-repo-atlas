@@ -45,12 +45,12 @@ John Hawkins 所著 Data Science First 一书的配套代码仓库，以 Python 
 ```mermaid
 xychart-beta
     title "john-hawkins/data-science-first 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

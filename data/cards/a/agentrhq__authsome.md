@@ -1,6 +1,6 @@
 # agentrhq/authsome
 
-⭐ 101 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/agentrhq/authsome) · [官网](https://authsome.ai/docs) · 组织维护
+⭐ 102 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/agentrhq/authsome) · [官网](https://authsome.ai/docs) · 组织维护
 
 **AI agent 的凭证网关：一次登录，代理注入凭证**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentrhq/authsome 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 96 --> 102
-    line [97, 98, 97, 98, 99, 100, 101]
+    title "agentrhq/authsome 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 96 --> 103
+    line [97, 98, 97, 98, 99, 100, 101, 102]
 ```
 
-2026-10-18 97 → 2026-10-30 101（+4）
+2026-10-18 97 → 2026-10-31 102（+5）
 
 
 ---

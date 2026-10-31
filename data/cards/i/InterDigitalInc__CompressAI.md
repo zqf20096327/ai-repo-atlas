@@ -1,6 +1,6 @@
 # InterDigitalInc/CompressAI
 
-⭐ 1,654 · Python · BSD-3-Clause-Clear · 推送 2026-10-29 · [GitHub](https://github.com/InterDigitalInc/CompressAI) · [官网](https://interdigitalinc.github.io/CompressAI/) · 组织维护
+⭐ 1,653 · Python · BSD-3-Clause-Clear · 推送 2026-10-29 · [GitHub](https://github.com/InterDigitalInc/CompressAI) · [官网](https://interdigitalinc.github.io/CompressAI/) · 组织维护
 
 **基于 PyTorch 的端到端压缩研究库与评测平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "InterDigitalInc/CompressAI 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1647 --> 1655
-    line [1648, 1651, 1652, 1654, 1654]
+    line [1648, 1651, 1652, 1654, 1653]
 ```
 
-2026-10-18 1,648 → 2026-10-30 1,654（+6）
+2026-10-18 1,648 → 2026-10-31 1,653（+5）
 
 
 ---

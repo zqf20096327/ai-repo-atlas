@@ -1,6 +1,6 @@
 # microsoft/agent-forge
 
-⭐ 90 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/microsoft/agent-forge) · 组织维护
+⭐ 91 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/microsoft/agent-forge) · 组织维护
 
 **为 VS Code 项目生成 GitHub Copilot 定制配置文件的多智能体工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agent-forge 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 88 --> 91
-    line [89, 90, 90]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 88 --> 92
+    line [89, 90, 91]
 ```
 
-2026-10-18 89 → 2026-10-30 90（+1）
+2026-10-18 89 → 2026-10-31 91（+2）
 
 
 ---

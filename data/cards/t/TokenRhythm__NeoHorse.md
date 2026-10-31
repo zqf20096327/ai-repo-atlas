@@ -1,6 +1,6 @@
 # TokenRhythm/NeoHorse
 
-⭐ 1,692 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/TokenRhythm/NeoHorse) · 组织维护 · 中文 README
+⭐ 1,694 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/TokenRhythm/NeoHorse) · 组织维护 · 中文 README
 
 **开源权重 agent 语言模型系列（4B/9B）及结构化决策模型**
 
@@ -44,13 +44,13 @@ TokenRhythm 发布的开放权重模型家族：NeoHorse-1 提供 4B/9B 因果�
 
 ```mermaid
 xychart-beta
-    title "TokenRhythm/NeoHorse 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "TokenRhythm/NeoHorse 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1685 --> 1745
-    line [1735, 1740, 1691, 1690, 1691, 1690, 1692]
+    line [1735, 1740, 1691, 1690, 1691, 1690, 1692, 1694]
 ```
 
-2026-10-18 1,735 → 2026-10-30 1,692（-43）
+2026-10-18 1,735 → 2026-10-31 1,694（-41）
 
 
 ---

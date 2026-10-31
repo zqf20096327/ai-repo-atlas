@@ -1,6 +1,6 @@
 # modelscope/easydistill
 
-⭐ 483 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/modelscope/easydistill) · 组织维护 · 中文 README
+⭐ 484 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/modelscope/easydistill) · 组织维护 · 中文 README
 
 **面向 LLM 的配置驱动知识蒸馏工具包：把黑盒教师模型变成训练数据**
 
@@ -46,12 +46,12 @@ ModelScope 维护的配置驱动知识蒸馏工具包，把生成、评估、过
 ```mermaid
 xychart-beta
     title "modelscope/easydistill 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 480 --> 484
-    line [481, 482, 483, 483]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 480 --> 485
+    line [481, 482, 483, 484]
 ```
 
-2026-10-18 481 → 2026-10-30 483（+2）
+2026-10-18 481 → 2026-10-31 484（+3）
 
 
 ---

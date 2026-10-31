@@ -1,6 +1,6 @@
 # lucidrains/mmdit
 
-⭐ 562 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lucidrains/mmdit) · 个人维护
+⭐ 563 · Python · MIT · 推送 2026-01-18 · [GitHub](https://github.com/lucidrains/mmdit) · 个人维护
 
 **PyTorch 实现的 MMDiT 层，出自 Stable Diffusion 3**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/mmdit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-31"]
     y-axis "stars" 561 --> 565
-    line [563, 564, 563, 562, 562]
+    line [563, 564, 563, 562, 563]
 ```
 
-2026-10-18 563 → 2026-10-30 562（-1）
+2026-10-18 563 → 2026-10-31 563（+0）
 
 
 ---

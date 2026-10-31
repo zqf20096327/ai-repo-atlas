@@ -1,6 +1,6 @@
 # teixeirazeus/fablize-for-hermes
 
-⭐ 16 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/teixeirazeus/fablize-for-hermes) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/teixeirazeus/fablize-for-hermes) · 个人维护
 
 **把 fablize 验证式工作流程移植为 Hermes Agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teixeirazeus/fablize-for-hermes 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 15 --> 18
-    line [17, 16, 16]
+    line [17, 16, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 16（-1）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

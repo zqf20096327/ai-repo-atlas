@@ -1,6 +1,6 @@
 # juspay/xyne-spaces
 
-⭐ 827 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/juspay/xyne-spaces) · [官网](https://xyne.ai) · 组织维护
+⭐ 827 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/juspay/xyne-spaces) · [官网](https://xyne.ai) · 组织维护
 
 **人与 agent 协作的组织上下文平台（自托管 Org OS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "juspay/xyne-spaces 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "juspay/xyne-spaces 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 811 --> 828
-    line [812, 817, 820, 821, 823, 825, 827]
+    line [812, 817, 820, 821, 823, 825, 827, 827]
 ```
 
-2026-10-18 812 → 2026-10-30 827（+15）
+2026-10-18 812 → 2026-10-31 827（+15）
 
 
 ---

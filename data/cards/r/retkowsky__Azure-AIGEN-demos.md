@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "retkowsky/Azure-AIGEN-demos 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "retkowsky/Azure-AIGEN-demos 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 753 --> 756
-    line [754, 755]
+    line [754, 755, 755]
 ```
 
-2026-10-18 754 → 2026-10-30 755（+1）
+2026-10-18 754 → 2026-10-31 755（+1）
 
 
 ---

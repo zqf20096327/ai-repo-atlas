@@ -1,6 +1,6 @@
 # LLM-Coding/Semantic-Anchors
 
-⭐ 528 · HTML · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
+⭐ 528 · HTML · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
 
 **230+ 语义锚点策展清单：用术语激活 LLM 深层知识**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLM-Coding/Semantic-Anchors 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "LLM-Coding/Semantic-Anchors 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 519 --> 529
-    line [520, 521, 522, 524, 525, 526, 527, 528]
+    line [520, 521, 522, 524, 525, 526, 527, 528, 528]
 ```
 
-2026-10-23 520 → 2026-10-30 528（+8）
+2026-10-23 520 → 2026-10-31 528（+8）
 
 
 ---

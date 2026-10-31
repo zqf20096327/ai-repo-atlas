@@ -1,6 +1,6 @@
 # Sujal-142/ai-image-clean-eraser
 
-⭐ 119 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Sujal-142/ai-image-clean-eraser) · 个人维护
+⭐ 119 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/Sujal-142/ai-image-clean-eraser) · 个人维护
 
 **文档真伪核验平台：哈希+区块链存证+AI 篡改检测**
 
@@ -46,12 +46,12 @@ CertiSwap 将 PDF、图片等文档计算 Merkle 哈希并写入 Ethereum/Polygo
 ```mermaid
 xychart-beta
     title "Sujal-142/ai-image-clean-eraser 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 118 --> 121
     line [120, 119, 119]
 ```
 
-2026-10-18 120 → 2026-10-30 119（-1）
+2026-10-18 120 → 2026-10-31 119（-1）
 
 
 ---

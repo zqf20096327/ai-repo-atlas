@@ -1,6 +1,6 @@
 # xai-org/xai-proto
 
-⭐ 153 · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/xai-org/xai-proto) · 组织维护
+⭐ 154 · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/xai-org/xai-proto) · 组织维护
 
 **xAI gRPC API 的公开 protobuf 定义，用于生成客户端 SDK**
 
@@ -44,13 +44,13 @@ xAI 官方发布的 gRPC API Protocol Buffer 定义文件，描述服务接口�
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-proto 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 150 --> 154
-    line [151, 152, 153]
+    title "xai-org/xai-proto 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 150 --> 155
+    line [151, 152, 153, 154]
 ```
 
-2026-10-18 151 → 2026-10-30 153（+2）
+2026-10-18 151 → 2026-10-31 154（+3）
 
 
 ---

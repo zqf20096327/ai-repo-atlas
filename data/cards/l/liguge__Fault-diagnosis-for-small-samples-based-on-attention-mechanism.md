@@ -45,13 +45,13 @@ PyTorch 实现的论文代码库 DCA-BiGRU，对应论文《基于注意力机�
 
 ```mermaid
 xychart-beta
-    title "liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    title "liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 292 --> 296
-    line [293, 294, 295]
+    line [293, 294, 295, 295]
 ```
 
-2026-10-18 293 → 2026-10-30 295（+2）
+2026-10-18 293 → 2026-10-31 295（+2）
 
 
 ---

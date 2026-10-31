@@ -1,6 +1,6 @@
 # flairNLP/flair
 
-⭐ 14,396 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
+⭐ 14,395 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/flairNLP/flair) · [官网](https://flairnlp.github.io/flair/) · 组织维护
 
 **面向开发者的 NLP 任务库：NER、情感分析、词性标注与文本嵌入**
 
@@ -53,12 +53,12 @@
 ```mermaid
 xychart-beta
     title "flairNLP/flair 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-31"]
     y-axis "stars" 14391 --> 14397
-    line [14392, 14394, 14395, 14396, 14396]
+    line [14392, 14394, 14395, 14396, 14395]
 ```
 
-2026-10-18 14,392 → 2026-10-30 14,396（+4）
+2026-10-18 14,392 → 2026-10-31 14,395（+3）
 
 
 ---

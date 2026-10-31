@@ -1,6 +1,6 @@
 # chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing
 
-⭐ 92 · Jupyter Notebook · 推送 2026-03-21 · [GitHub](https://github.com/chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing) · [官网](http://chaklam.com) · 组织维护
+⭐ 93 · Jupyter Notebook · 推送 2026-03-21 · [GitHub](https://github.com/chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing) · [官网](http://chaklam.com) · 组织维护
 
 **AIT 自然语言处理课程的配套代码与讲义仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "chaklam-silpasuwanchai/Python-fo-Natural-Language-Processing 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 91 --> 93
-    line [92, 92]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 91 --> 94
+    line [92, 93]
 ```
 
-2026-10-18 92 → 2026-10-30 92（+0）
+2026-10-18 92 → 2026-10-31 93（+1）
 
 
 ---

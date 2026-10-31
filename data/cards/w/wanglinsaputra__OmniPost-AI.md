@@ -44,13 +44,13 @@ Chrome 扩展（MV3，Vite+CRXJS 构建，TypeScript）：用户描述主题后�
 
 ```mermaid
 xychart-beta
-    title "wanglinsaputra/OmniPost-AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30"]
+    title "wanglinsaputra/OmniPost-AI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 49 --> 54
-    line [50, 51, 52, 53]
+    line [50, 51, 52, 53, 53]
 ```
 
-2026-10-18 50 → 2026-10-30 53（+3）
+2026-10-18 50 → 2026-10-31 53（+3）
 
 
 ---

@@ -41,12 +41,12 @@ langchain-ai 组织维护的 LangChain 与 Pinecone 集成包，仓库内含单�
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-pinecone 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 26 --> 29
     line [28, 27, 27]
 ```
 
-2026-10-18 28 → 2026-10-30 27（-1）
+2026-10-18 28 → 2026-10-31 27（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AtlasCloudAI/atlas-cloud-skills
 
-⭐ 43 · JavaScript · 推送 2026-10-29 · [GitHub](https://github.com/AtlasCloudAI/atlas-cloud-skills) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 43 · JavaScript · 推送 2026-10-30 · [GitHub](https://github.com/AtlasCloudAI/atlas-cloud-skills) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **让编码 Agent 调用 Atlas Cloud 300+ 模型的技能包**
 
@@ -46,12 +46,12 @@ Atlas Cloud 官方维护的 agent 技能包，供 Claude Code、Codex、Gemini C
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/atlas-cloud-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 37 --> 44
     line [38, 39, 40, 41, 43, 43]
 ```
 
-2026-10-18 38 → 2026-10-30 43（+5）
+2026-10-18 38 → 2026-10-31 43（+5）
 
 
 ---

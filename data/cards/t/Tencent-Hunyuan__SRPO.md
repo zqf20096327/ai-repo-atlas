@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/SRPO
 
-⭐ 1,280 · Python · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/Tencent-Hunyuan/SRPO) · [官网](https://tencent.github.io/srpo-project-page/) · 组织维护 · 中文 README
+⭐ 1,281 · Python · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/Tencent-Hunyuan/SRPO) · [官网](https://tencent.github.io/srpo-project-page/) · 组织维护 · 中文 README
 
 **按细粒度人类偏好对齐扩散模型全轨迹的训练方法与代码**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/SRPO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    title "Tencent-Hunyuan/SRPO 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1278 --> 1282
-    line [1279, 1281, 1280]
+    line [1279, 1281, 1280, 1281]
 ```
 
-2026-10-18 1,279 → 2026-10-30 1,280（+1）
+2026-10-18 1,279 → 2026-10-31 1,281（+2）
 
 
 ---

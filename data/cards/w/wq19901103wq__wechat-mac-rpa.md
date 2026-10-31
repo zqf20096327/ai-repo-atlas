@@ -1,6 +1,6 @@
 # wq19901103wq/wechat-mac-rpa
 
-⭐ 131 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/wq19901103wq/wechat-mac-rpa) · [官网](https://wq19901103wq.github.io/wechat-mac-rpa/) · 个人维护 · 中文 README
+⭐ 132 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/wq19901103wq/wechat-mac-rpa) · [官网](https://wq19901103wq.github.io/wechat-mac-rpa/) · 个人维护 · 中文 README
 
 **macOS 微信自动回复框架：视觉感知 + LLM Agent 读屏操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wq19901103wq/wechat-mac-rpa 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 121 --> 132
-    line [122, 123, 125, 126, 127, 128, 129, 131]
+    title "wq19901103wq/wechat-mac-rpa 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 121 --> 133
+    line [122, 123, 125, 126, 127, 128, 129, 131, 132]
 ```
 
-2026-10-18 122 → 2026-10-30 131（+9）
+2026-10-18 122 → 2026-10-31 132（+10）
 
 
 ---

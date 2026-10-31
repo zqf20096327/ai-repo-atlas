@@ -1,6 +1,6 @@
 # tap222/assay-evals
 
-⭐ 23 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/tap222/assay-evals) · [官网](https://docai-eval.vercel.app) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/tap222/assay-evals) · [官网](https://docai-eval.vercel.app) · 个人维护
 
 **面向 AI 应用与 agent 的行为回归测试框架（pytest 插件）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tap222/assay-evals 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 15 --> 24
     line [16, 18, 23, 23]
 ```
 
-2026-10-18 16 → 2026-10-30 23（+7）
+2026-10-18 16 → 2026-10-31 23（+7）
 
 
 ---

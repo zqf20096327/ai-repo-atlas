@@ -44,13 +44,13 @@ Analog Devices 维护的深度学习模型训练仓库，面向 MAX78000/MAX7800
 
 ```mermaid
 xychart-beta
-    title "analogdevicesinc/ai8x-training 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    title "analogdevicesinc/ai8x-training 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 114 --> 118
-    line [115, 116, 117]
+    line [115, 116, 117, 117]
 ```
 
-2026-10-18 115 → 2026-10-30 117（+2）
+2026-10-18 115 → 2026-10-31 117（+2）
 
 
 ---

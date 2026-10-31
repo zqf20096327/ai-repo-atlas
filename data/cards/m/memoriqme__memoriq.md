@@ -46,12 +46,12 @@ Laravel+Vue 的 Web 应用，配套 Chrome 扩展从 ChatGPT、Claude、Gemini�
 ```mermaid
 xychart-beta
     title "memoriqme/memoriq 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 14 --> 17
     line [16, 15, 15]
 ```
 
-2026-10-18 16 → 2026-10-30 15（-1）
+2026-10-18 16 → 2026-10-31 15（-1）
 
 
 ---

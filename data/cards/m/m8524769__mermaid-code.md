@@ -1,6 +1,6 @@
 # m8524769/mermaid-code
 
-⭐ 16 · Svelte · MIT · 推送 2026-10-29 · [GitHub](https://github.com/m8524769/mermaid-code) · [官网](https://mermaid-code.com) · 个人维护 · 中文 README
+⭐ 16 · Svelte · MIT · 推送 2026-10-30 · [GitHub](https://github.com/m8524769/mermaid-code) · [官网](https://mermaid-code.com) · 个人维护 · 中文 README
 
 **本地优先的 Mermaid 图表编辑器，内置 AI Agent 面板与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "m8524769/mermaid-code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

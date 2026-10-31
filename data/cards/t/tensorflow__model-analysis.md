@@ -45,12 +45,12 @@ TensorFlow Model Analysis (TFMA) 是用于评估 TensorFlow 模型的 Python 库
 ```mermaid
 xychart-beta
     title "tensorflow/model-analysis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 1269 --> 1271
     line [1270, 1270]
 ```
 
-2026-10-18 1,270 → 2026-10-30 1,270（+0）
+2026-10-18 1,270 → 2026-10-31 1,270（+0）
 
 
 ---

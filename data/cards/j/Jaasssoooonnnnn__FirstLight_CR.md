@@ -1,6 +1,6 @@
 # Jaasssoooonnnnn/FirstLight_CR
 
-⭐ 201 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight_CR) · 个人维护 · 中文 README
+⭐ 205 · Python · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight_CR) · 个人维护 · 中文 README
 
 **离线训练与评测 Clash Royale AI agent 的研究框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jaasssoooonnnnn/FirstLight_CR 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 166 --> 204
-    line [169, 174, 180, 181, 180, 188, 192, 195, 198, 201]
+    title "Jaasssoooonnnnn/FirstLight_CR 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 166 --> 208
+    line [169, 174, 180, 181, 180, 188, 192, 195, 198, 201, 205]
 ```
 
-2026-10-18 169 → 2026-10-30 201（+32）
+2026-10-18 169 → 2026-10-31 205（+36）
 
 
 ---

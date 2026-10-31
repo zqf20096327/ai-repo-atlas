@@ -1,6 +1,6 @@
 # master/tensorflow-riemopt
 
-⭐ 111 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/master/tensorflow-riemopt) · [官网](https://tensorflow-riemopt.readthedocs.io/en/latest/) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/master/tensorflow-riemopt) · [官网](https://tensorflow-riemopt.readthedocs.io/en/latest/) · 个人维护
 
 **面向 TensorFlow 的黎曼流形约束优化库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "master/tensorflow-riemopt 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 110 --> 112
     line [111, 111]
 ```
 
-2026-10-18 111 → 2026-10-30 111（+0）
+2026-10-18 111 → 2026-10-31 111（+0）
 
 
 ---

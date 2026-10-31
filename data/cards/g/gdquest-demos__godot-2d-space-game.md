@@ -1,6 +1,6 @@
 # gdquest-demos/godot-2d-space-game
 
-⭐ 1,111 · GDScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/gdquest-demos/godot-2d-space-game) · 组织维护
+⭐ 1,110 · GDScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/gdquest-demos/godot-2d-space-game) · 组织维护
 
 **Godot 制作的俯视角太空采矿开源游戏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gdquest-demos/godot-2d-space-game 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
     y-axis "stars" 1107 --> 1112
-    line [1108, 1110, 1111, 1111]
+    line [1108, 1110, 1111, 1110]
 ```
 
-2026-10-18 1,108 → 2026-10-30 1,111（+3）
+2026-10-18 1,108 → 2026-10-31 1,110（+2）
 
 
 ---

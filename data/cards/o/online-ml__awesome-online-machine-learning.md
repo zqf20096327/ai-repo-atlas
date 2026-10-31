@@ -46,12 +46,12 @@ Awesome 系列的在线机器学习（online machine learning）资源清单：�
 ```mermaid
 xychart-beta
     title "online-ml/awesome-online-machine-learning 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 632 --> 635
     line [633, 634, 634]
 ```
 
-2026-10-18 633 → 2026-10-30 634（+1）
+2026-10-18 633 → 2026-10-31 634（+1）
 
 
 ---

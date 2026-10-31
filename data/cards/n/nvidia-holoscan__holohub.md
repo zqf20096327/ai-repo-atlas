@@ -1,6 +1,6 @@
 # nvidia-holoscan/holohub
 
-⭐ 244 · Python · 推送 2026-10-29 · [GitHub](https://github.com/nvidia-holoscan/holohub) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
+⭐ 244 · Python · 推送 2026-10-30 · [GitHub](https://github.com/nvidia-holoscan/holohub) · [官网](https://nvidia-holoscan.github.io/) · 组织维护
 
 **NVIDIA Holoscan 生态的中央注册中心与项目枢纽**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nvidia-holoscan/holohub 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
+    title "nvidia-holoscan/holohub 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 238 --> 246
-    line [239, 241, 242, 245, 244]
+    line [239, 241, 242, 245, 244, 244]
 ```
 
-2026-10-18 239 → 2026-10-30 244（+5）
+2026-10-18 239 → 2026-10-31 244（+5）
 
 
 ---

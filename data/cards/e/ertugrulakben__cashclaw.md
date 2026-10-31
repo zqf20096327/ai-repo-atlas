@@ -44,13 +44,13 @@ CashClaw 是一套 13 个 OpenClaw 兼容技能包，插入任意 OpenClaw 型 a
 
 ```mermaid
 xychart-beta
-    title "ertugrulakben/cashclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "ertugrulakben/cashclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 303 --> 307
-    line [304, 305, 306]
+    line [304, 305, 306, 306]
 ```
 
-2026-10-18 304 → 2026-10-30 306（+2）
+2026-10-18 304 → 2026-10-31 306（+2）
 
 
 ---

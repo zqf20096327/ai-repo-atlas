@@ -1,6 +1,6 @@
 # extropic-ai/thrml
 
-⭐ 1,169 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/extropic-ai/thrml) · [官网](https://docs.thrml.ai/en/latest/) · 组织维护
+⭐ 1,168 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/extropic-ai/thrml) · [官网](https://docs.thrml.ai/en/latest/) · 组织维护
 
 **JAX 概率图模型构建与采样库，支持块 Gibbs 采样**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "extropic-ai/thrml 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31"]
     y-axis "stars" 1166 --> 1171
-    line [1167, 1168, 1169, 1170, 1169, 1169]
+    line [1167, 1168, 1169, 1170, 1169, 1168]
 ```
 
-2026-10-18 1,167 → 2026-10-30 1,169（+2）
+2026-10-18 1,167 → 2026-10-31 1,168（+1）
 
 
 ---

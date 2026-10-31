@@ -1,6 +1,6 @@
 # FireRedTeam/FireRedASR
 
-⭐ 2,010 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/FireRedTeam/FireRedASR) · 组织维护 · 中文 README
+⭐ 2,012 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/FireRedTeam/FireRedASR) · 组织维护 · 中文 README
 
 **开源工业级中英及方言语音识别模型（AED 与 LLM 两版本）**
 
@@ -44,13 +44,13 @@ FireRedASR 提供两个开源 ASR 模型变体：FireRedASR-LLM（8.3B，Encoder
 
 ```mermaid
 xychart-beta
-    title "FireRedTeam/FireRedASR 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 2005 --> 2012
-    line [2006, 2007, 2008, 2009, 2011, 2010]
+    title "FireRedTeam/FireRedASR 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2005 --> 2013
+    line [2006, 2007, 2008, 2009, 2011, 2010, 2012]
 ```
 
-2026-10-18 2,006 → 2026-10-30 2,010（+4）
+2026-10-18 2,006 → 2026-10-31 2,012（+6）
 
 
 ---

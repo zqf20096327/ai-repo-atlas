@@ -1,6 +1,6 @@
 # undsky/doudou
 
-⭐ 15 · JavaScript · 推送 2026-09-28 · [GitHub](https://github.com/undsky/doudou) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · 推送 2026-09-28 · [GitHub](https://github.com/undsky/doudou) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
 
 **集成 AI 智能体与画布等功能的 Chrome 日常工具箱扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "undsky/doudou 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 14（-1）
 
 
 ---

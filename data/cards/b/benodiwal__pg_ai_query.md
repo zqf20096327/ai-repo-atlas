@@ -45,12 +45,12 @@ C++ 编写的 PostgreSQL 扩展，提供 generate_query 与 explain_query 函数
 ```mermaid
 xychart-beta
     title "benodiwal/pg_ai_query 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
     y-axis "stars" 246 --> 249
     line [247, 248, 248]
 ```
 
-2026-10-18 247 → 2026-10-30 248（+1）
+2026-10-18 247 → 2026-10-31 248（+1）
 
 
 ---

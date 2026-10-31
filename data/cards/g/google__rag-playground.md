@@ -1,6 +1,6 @@
 # google/rag-playground
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/google/rag-playground) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/google/rag-playground) · 组织维护
 
 **在自有数据上对比实验 RAG 检索方法与 LLM 的平台**
 
@@ -46,12 +46,12 @@ GoogleCloudPlatform 维护的 RAG 实验/评测框架：通过统一界面配置
 ```mermaid
 xychart-beta
     title "google/rag-playground 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-18 52 → 2026-10-30 52（+0）
+2026-10-18 52 → 2026-10-31 53（+1）
 
 
 ---

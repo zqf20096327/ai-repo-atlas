@@ -1,6 +1,6 @@
 # vllm-project/vllm-sail
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/vllm-project/vllm-sail) · 组织维护 · 中文 README
+⭐ 17 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/vllm-project/vllm-sail) · 组织维护 · 中文 README
 
 **让 vLLM 在 T-Head 真武 AI 芯片上运行推理与服务的硬件插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-sail 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 16, 17]
 ```
 
-2026-10-23 14 → 2026-10-30 16（+2）
+2026-10-23 14 → 2026-10-31 17（+3）
 
 
 ---

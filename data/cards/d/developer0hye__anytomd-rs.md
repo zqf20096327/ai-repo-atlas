@@ -1,6 +1,6 @@
 # developer0hye/anytomd-rs
 
-⭐ 58 · Rust · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/developer0hye/anytomd-rs) · 个人维护
+⭐ 59 · Rust · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/developer0hye/anytomd-rs) · 个人维护
 
 **纯 Rust 文档转 Markdown 工具/库，面向 LLM 输入场景**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "developer0hye/anytomd-rs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 58, 59]
 ```
 
-2026-10-18 56 → 2026-10-30 58（+2）
+2026-10-18 56 → 2026-10-31 59（+3）
 
 
 ---

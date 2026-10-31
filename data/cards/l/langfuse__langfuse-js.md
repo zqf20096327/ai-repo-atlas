@@ -1,6 +1,6 @@
 # langfuse/langfuse-js
 
-⭐ 175 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 175 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **Langfuse 官方 JS/TS SDK 集合：LLM 应用的可观测性接入**
 
@@ -45,12 +45,12 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-js 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 172 --> 176
     line [175, 174, 173, 174, 175, 175]
 ```
 
-2026-10-18 175 → 2026-10-30 175（+0）
+2026-10-18 175 → 2026-10-31 175（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L43: Mirage takes a different approach: **embed `stable-diffusion.cpp` + `ggml-metal`** into a clean Swift package. Anyt
 > L233: - **Public Swift API** is one `actor Engine` + `Engine.generate(_:)` returning `CGImage`. Actor isolation serializ
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "haplollc/Mirage 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-10-30 21 → 2026-10-31 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `db1c211aa6f8` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # CoWork-OS/CoWork-OS
 
-⭐ 515 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/CoWork-OS/CoWork-OS) · [官网](https://coworkosapp.com) · 组织维护 · 中文 README
+⭐ 517 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/CoWork-OS/CoWork-OS) · [官网](https://coworkosapp.com) · 组织维护 · 中文 README
 
 **给个人用户的可视化审批 AI 桌面代理：处理文件/收件箱/浏览器/定时任务**
 
@@ -46,13 +46,13 @@ macOS/Windows 桌面应用（Electron），AI agent 替用户完成实际工作�
 
 ```mermaid
 xychart-beta
-    title "CoWork-OS/CoWork-OS 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 487 --> 517
-    line [489, 491, 496, 504, 509, 511, 512, 514, 515]
+    title "CoWork-OS/CoWork-OS 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 487 --> 519
+    line [489, 491, 496, 504, 509, 511, 512, 514, 515, 517]
 ```
 
-2026-10-18 489 → 2026-10-30 515（+26）
+2026-10-18 489 → 2026-10-31 517（+28）
 
 
 ---

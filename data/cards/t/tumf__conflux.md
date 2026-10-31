@@ -1,6 +1,6 @@
 # tumf/conflux
 
-⭐ 27 · Rust · 推送 2026-10-29 · [GitHub](https://github.com/tumf/conflux) · [官网](https://dev.to/tumf/conflux-release-a-spec-driven-orchestrator-for-parallel-ai-development-2gbc) · 个人维护 · 中文 README
+⭐ 28 · Rust · 推送 2026-10-29 · [GitHub](https://github.com/tumf/conflux) · [官网](https://dev.to/tumf/conflux-release-a-spec-driven-orchestrator-for-parallel-ai-development-2gbc) · 个人维护 · 中文 README
 
 **编排 AI 编码代理做规格驱动自主开发的 Rust 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tumf/conflux 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 28（+1）
 
 
 ---

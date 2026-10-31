@@ -1,6 +1,6 @@
 # Anil-matcha/AI-Youtube-Shorts-Generator
 
-⭐ 5,652 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
+⭐ 5,672 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
 
 **将长视频自动切成竖版短视频的 CLI/库，LLM 选段+Whisper 转录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/AI-Youtube-Shorts-Generator 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 5417 --> 5673
-    line [5438, 5505, 5552, 5571, 5583, 5594, 5611, 5628, 5641, 5652]
+    title "Anil-matcha/AI-Youtube-Shorts-Generator 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 5415 --> 5695
+    line [5438, 5505, 5552, 5571, 5583, 5594, 5611, 5628, 5641, 5652, 5672]
 ```
 
-2026-10-18 5,438 → 2026-10-30 5,652（+214）
+2026-10-18 5,438 → 2026-10-31 5,672（+234）
 
 
 ---

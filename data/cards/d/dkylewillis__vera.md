@@ -1,6 +1,6 @@
 # dkylewillis/vera
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/dkylewillis/vera) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dkylewillis/vera) · 个人维护
 
 **把文档转成可搜索 .vera 文件的本地检索归档工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dkylewillis/vera 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

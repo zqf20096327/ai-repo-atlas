@@ -1,6 +1,6 @@
 # sanic732/P2P
 
-⭐ 24 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/sanic732/P2P) · [官网](https://sanic732.github.io/P2P/) · 个人维护
+⭐ 25 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/sanic732/P2P) · [官网](https://sanic732.github.io/P2P/) · 个人维护
 
 **为使用者的任务生成适配目标模型语法的提示词的 Claude 插件**
 
@@ -46,12 +46,12 @@ P2P 是以纯文本 Markdown 组织的提示词生成系统，以 Claude 插件�
 ```mermaid
 xychart-beta
     title "sanic732/P2P 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 21 --> 25
-    line [22, 24, 24]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 21 --> 26
+    line [22, 24, 25]
 ```
 
-2026-10-18 22 → 2026-10-30 24（+2）
+2026-10-18 22 → 2026-10-31 25（+3）
 
 
 ---

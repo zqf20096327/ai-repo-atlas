@@ -1,6 +1,6 @@
 # somastllc/nlp-for-machine-learning-bootcamp
 
-⭐ 32 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
+⭐ 41 · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
 
 **面向有 ML 基础学员的 NLP 训练营课程仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "somastllc/nlp-for-machine-learning-bootcamp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 13 --> 33
-    line [14, 25, 31, 32, 32]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 12 --> 43
+    line [14, 25, 31, 32, 41]
 ```
 
-2026-10-25 14 → 2026-10-30 32（+18）
+2026-10-25 14 → 2026-10-31 41（+27）
 
 
 ---

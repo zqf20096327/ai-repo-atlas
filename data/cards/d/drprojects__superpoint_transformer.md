@@ -1,6 +1,6 @@
 # drprojects/superpoint_transformer
 
-⭐ 1,068 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/drprojects/superpoint_transformer) · 组织维护
+⭐ 1,066 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/drprojects/superpoint_transformer) · 组织维护
 
 **大规模 3D 点云语义/全景分割的 PyTorch 官方实现（三篇论文）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "drprojects/superpoint_transformer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-31"]
     y-axis "stars" 1062 --> 1069
-    line [1063, 1065, 1068, 1067, 1068, 1068]
+    line [1063, 1065, 1068, 1067, 1068, 1066]
 ```
 
-2026-10-18 1,063 → 2026-10-30 1,068（+5）
+2026-10-18 1,063 → 2026-10-31 1,066（+3）
 
 
 ---

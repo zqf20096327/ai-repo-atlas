@@ -1,6 +1,6 @@
 # Tenney95/AI-Canvas-tauri
 
-⭐ 294 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Tenney95/AI-Canvas-tauri) · [官网](https://tenney95.github.io/AI-Canvas-tauri/) · 个人维护 · 中文 README
+⭐ 298 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tenney95/AI-Canvas-tauri) · [官网](https://tenney95.github.io/AI-Canvas-tauri/) · 个人维护 · 中文 README
 
 **面向 AI 短剧与分镜创作的本地优先多模态画布桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tenney95/AI-Canvas-tauri 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 230 --> 299
-    line [235, 243, 255, 258, 265, 267, 272, 276, 283, 289, 294]
+    title "Tenney95/AI-Canvas-tauri 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 229 --> 304
+    line [235, 243, 255, 258, 265, 267, 272, 276, 283, 289, 294, 298]
 ```
 
-2026-10-18 235 → 2026-10-30 294（+59）
+2026-10-18 235 → 2026-10-31 298（+63）
 
 
 ---

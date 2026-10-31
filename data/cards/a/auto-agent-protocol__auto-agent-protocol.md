@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "auto-agent-protocol/auto-agent-protocol 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-18 110 → 2026-10-30 110（+0）
+2026-10-18 110 → 2026-10-31 110（+0）
 
 
 ---

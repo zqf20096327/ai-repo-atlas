@@ -1,6 +1,6 @@
 # dai-chao/Agent-Guard
 
-⭐ 17 · 推送 2026-08-25 · [GitHub](https://github.com/dai-chao/Agent-Guard) · [官网](https://www.safeclaude.net/#) · 个人维护 · 中文 README
+⭐ 18 · 推送 2026-08-25 · [GitHub](https://github.com/dai-chao/Agent-Guard) · [官网](https://www.safeclaude.net/#) · 个人维护 · 中文 README
 
 **本机 AI Agent 环境合规扫描与修复桌面应用，降低账号封禁风险**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dai-chao/Agent-Guard 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17]
+    title "dai-chao/Agent-Guard 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 17, 18]
 ```
 
-2026-10-18 14 → 2026-10-30 17（+3）
+2026-10-18 14 → 2026-10-31 18（+4）
 
 
 ---

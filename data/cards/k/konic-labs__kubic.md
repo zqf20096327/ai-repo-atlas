@@ -1,6 +1,6 @@
 # konic-labs/kubic
 
-⭐ 64 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
+⭐ 70 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/konic-labs/kubic) · [官网](https://konic.io) · 组织维护
 
 **面向团队/企业的终端 AI 编程代理，可控可撤销**
 
@@ -44,13 +44,13 @@ Konic 开源的终端编码代理（TUI，Node 22.19+）：用户自选模型（
 
 ```mermaid
 xychart-beta
-    title "konic-labs/kubic 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 34 --> 66
-    line [36, 44, 49, 56, 64]
+    title "konic-labs/kubic 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 33 --> 73
+    line [36, 44, 49, 56, 64, 70]
 ```
 
-2026-10-26 36 → 2026-10-30 64（+28）
+2026-10-26 36 → 2026-10-31 70（+34）
 
 
 ---

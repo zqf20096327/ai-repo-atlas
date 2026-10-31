@@ -1,6 +1,6 @@
 # EKKOLearnAI/ekko-studio
 
-⭐ 11,603 · TypeScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/EKKOLearnAI/ekko-studio) · [官网](https://ekkostudio.xyz) · 组织维护 · 中文 README
+⭐ 11,610 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/EKKOLearnAI/ekko-studio) · [官网](https://ekkostudio.xyz) · 组织维护 · 中文 README
 
 **本地优先的多 Agent 聊天、编程与可视化工作流 AI 工作台**
 
@@ -45,13 +45,13 @@ Ekko Studio 是 local-first 的 AI 工作区，提供桌面应用（Windows/macO
 
 ```mermaid
 xychart-beta
-    title "EKKOLearnAI/ekko-studio 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 11435 --> 11618
-    line [11450, 11471, 11499, 11510, 11523, 11531, 11544, 11566, 11578, 11593, 11603]
+    title "EKKOLearnAI/ekko-studio 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 11434 --> 11626
+    line [11450, 11471, 11499, 11510, 11523, 11531, 11544, 11566, 11578, 11593, 11603, 11610]
 ```
 
-2026-10-18 11,450 → 2026-10-30 11,603（+153）
+2026-10-18 11,450 → 2026-10-31 11,610（+160）
 
 
 ---

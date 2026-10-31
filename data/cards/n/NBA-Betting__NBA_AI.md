@@ -1,6 +1,6 @@
 # NBA-Betting/NBA_AI
 
-⭐ 126 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/NBA-Betting/NBA_AI) · [官网](https://nba-ai.us) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/NBA-Betting/NBA_AI) · [官网](https://nba-ai.us) · 个人维护
 
 **用深度学习与传统 ML 预测 NBA 比赛让分与胜负的系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NBA-Betting/NBA_AI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 123 --> 127
-    line [124, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 123 --> 128
+    line [124, 125, 126, 127]
 ```
 
-2026-10-18 124 → 2026-10-30 126（+2）
+2026-10-18 124 → 2026-10-31 127（+3）
 
 
 ---

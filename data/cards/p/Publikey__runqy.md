@@ -1,6 +1,6 @@
 # Publikey/runqy
 
-⭐ 25 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Publikey/runqy) · [官网](https://runqy.com) · 组织维护
+⭐ 25 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Publikey/runqy) · [官网](https://runqy.com) · 组织维护
 
 **面向 AI 工作负载的开源分布式任务队列**
 
@@ -46,12 +46,12 @@ Go 服务器 + Python SDK 的分布式任务队列系统：以 YAML 定义队列
 ```mermaid
 xychart-beta
     title "Publikey/runqy 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # stepfun-ai/Step-5-Preview
 
-⭐ 75 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/stepfun-ai/Step-5-Preview) · 组织维护 · 中文 README
+⭐ 76 · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/stepfun-ai/Step-5-Preview) · 组织维护 · 中文 README
 
 **StepFun 面向 agentic 任务的旗舰大模型（600B MoE）**
 
@@ -45,12 +45,12 @@ StepFun 发布的 Step 5 Preview 预览版模型权重仓库：稀疏 MoE 架构
 ```mermaid
 xychart-beta
     title "stepfun-ai/Step-5-Preview 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 60 --> 76
-    line [61, 63, 69, 71, 72, 74, 75, 75]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 60 --> 77
+    line [61, 63, 69, 71, 72, 74, 75, 76]
 ```
 
-2026-10-18 61 → 2026-10-30 75（+14）
+2026-10-18 61 → 2026-10-31 76（+15）
 
 
 ---

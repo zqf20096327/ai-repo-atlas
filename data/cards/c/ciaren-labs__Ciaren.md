@@ -1,6 +1,6 @@
 # ciaren-labs/Ciaren
 
-⭐ 37 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/ciaren-labs/Ciaren) · [官网](https://ciaren.com) · 个人维护
+⭐ 37 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/ciaren-labs/Ciaren) · [官网](https://ciaren.com) · 个人维护
 
 **本地优先的可视化 ETL 与数据/ML 流水线构建器，可导出 Python 代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ciaren-labs/Ciaren 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 35 --> 38
     line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-10-30 37（+1）
+2026-10-18 36 → 2026-10-31 37（+1）
 
 
 ---

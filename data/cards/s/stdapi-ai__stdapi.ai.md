@@ -1,6 +1,6 @@
 # stdapi-ai/stdapi.ai
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/stdapi-ai/stdapi.ai) · [官网](https://stdapi.ai/?utm_source=github-readme&utm_medium=repo&utm_campaign=owned-surfaces) · 组织维护
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-09-30 · [GitHub](https://github.com/stdapi-ai/stdapi.ai) · [官网](https://stdapi.ai/?utm_source=github-readme&utm_medium=repo&utm_campaign=owned-surfaces) · 组织维护
 
 **面向 Amazon Bedrock 的自托管 AI API 网关，兼容多种主流 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stdapi-ai/stdapi.ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 25（+0）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eric861129/Workflow-skill-router
 
-⭐ 17 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/eric861129/Workflow-skill-router) · [官网](https://huangchiyu.com/Workflow-skill-router/) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/eric861129/Workflow-skill-router) · [官网](https://huangchiyu.com/Workflow-skill-router/) · 个人维护 · 中文 README
 
 **为 Codex agent 做 Skill 路由与阶段化工作流编排的插件**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "eric861129/Workflow-skill-router 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "eric861129/Workflow-skill-router 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

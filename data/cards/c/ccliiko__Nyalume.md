@@ -1,6 +1,6 @@
 # ccliiko/Nyalume
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/ccliiko/Nyalume) · [官网](https://t.bilibili.com/1246772664677171207) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/ccliiko/Nyalume) · [官网](https://t.bilibili.com/1246772664677171207) · 个人维护 · 中文 README
 
 **Windows 个人 AI 助手与二次元桌宠，带长期记忆与工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ccliiko/Nyalume 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-18 13 → 2026-10-30 15（+2）
+2026-10-18 13 → 2026-10-31 15（+2）
 
 
 ---

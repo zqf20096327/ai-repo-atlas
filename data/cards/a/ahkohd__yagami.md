@@ -1,6 +1,6 @@
 # ahkohd/yagami
 
-⭐ 30 · TypeScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/ahkohd/yagami) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-06-20 · [GitHub](https://github.com/ahkohd/yagami) · 个人维护
 
 **本地优先的 Agentic 网络搜索代理（CLI + 本地 HTTP 守护进程）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ahkohd/yagami 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 29（-1）
 
 
 ---

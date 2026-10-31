@@ -1,6 +1,6 @@
 # opktunme/XTLLM
 
-⭐ 17 · C++ · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/opktunme/XTLLM) · 个人维护
+⭐ 18 · C++ · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/opktunme/XTLLM) · 个人维护
 
 **Windows 上用 Vulkan 在消费级 AMD GPU 跑超大 MoE 模型的推理引擎**
 
@@ -45,12 +45,12 @@ C++ 编写的实验性纯文本 Vulkan 推理引擎，面向在消费级 AMD 显
 ```mermaid
 xychart-beta
     title "opktunme/XTLLM 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Whq02/MercuryCLI
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Whq02/MercuryCLI) · [官网](https://mercury-cli.ai) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Whq02/MercuryCLI) · [官网](https://mercury-cli.ai) · 个人维护 · 中文 README
 
 **终端原生的 AI 编码代理环境：多会话多模型并行开发**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Whq02/MercuryCLI 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "Whq02/MercuryCLI 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 17 --> 28
-    line [18, 20, 21, 24, 26, 27]
+    line [18, 20, 21, 24, 26, 27, 27]
 ```
 
-2026-10-18 18 → 2026-10-30 27（+9）
+2026-10-18 18 → 2026-10-31 27（+9）
 
 
 ---

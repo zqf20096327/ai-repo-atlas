@@ -1,6 +1,6 @@
 # dwnmf/KOMPAS-3D-MCP-bin
 
-⭐ 39 · Python · 推送 2026-08-22 · [GitHub](https://github.com/dwnmf/KOMPAS-3D-MCP-bin) · 个人维护
+⭐ 40 · Python · 推送 2026-08-22 · [GitHub](https://github.com/dwnmf/KOMPAS-3D-MCP-bin) · 个人维护
 
 **把 КОМПАС-3D 接入 MCP 客户端的 Windows 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dwnmf/KOMPAS-3D-MCP-bin 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-18 38 → 2026-10-30 39（+1）
+2026-10-18 38 → 2026-10-31 40（+2）
 
 
 ---

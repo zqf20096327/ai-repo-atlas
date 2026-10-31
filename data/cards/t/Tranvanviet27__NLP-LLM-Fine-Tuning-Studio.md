@@ -1,6 +1,6 @@
 # Tranvanviet27/NLP-LLM-Fine-Tuning-Studio
 
-⭐ 57 · HTML · 推送 2026-10-29 · [GitHub](https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-30 · [GitHub](https://github.com/Tranvanviet27/NLP-LLM-Fine-Tuning-Studio) · 个人维护
 
 **面向多语言场景的 LLM 微调训练框架与评测工具集**
 
@@ -45,12 +45,12 @@ PolyglotMind 提供模块化的 LLM 有监督微调编排层：包含训练调�
 ```mermaid
 xychart-beta
     title "Tranvanviet27/NLP-LLM-Fine-Tuning-Studio 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-18 57 → 2026-10-30 57（+0）
+2026-10-18 57 → 2026-10-31 57（+0）
 
 
 ---

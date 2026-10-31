@@ -1,6 +1,6 @@
 # kibotu/karpathy-microgpt
 
-⭐ 60 · Python · 推送 2026-02-12 · [GitHub](https://github.com/kibotu/karpathy-microgpt) · 个人维护
+⭐ 61 · Python · 推送 2026-02-12 · [GitHub](https://github.com/kibotu/karpathy-microgpt) · 个人维护
 
 **243 行无依赖 Python 从零实现并训练 GPT 的教学项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kibotu/karpathy-microgpt 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 60, 60]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 61]
 ```
 
-2026-10-18 58 → 2026-10-30 60（+2）
+2026-10-18 58 → 2026-10-31 61（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # StuMason/coolify-mcp
 
-⭐ 618 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/StuMason/coolify-mcp) · [官网](https://coolify-mcp.stumason.dev) · 个人维护
+⭐ 617 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/StuMason/coolify-mcp) · [官网](https://coolify-mcp.stumason.dev) · 个人维护
 
 **MCP server：通过 AI 客户端用自然语言管理 Coolify 自托管 PaaS**
 
@@ -44,13 +44,13 @@ TypeScript 实现的 MCP 服务器，通过 46 个工具让 Claude、Cursor 等 
 
 ```mermaid
 xychart-beta
-    title "StuMason/coolify-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "StuMason/coolify-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 609 --> 619
-    line [610, 615, 616, 615, 616, 617, 618]
+    line [610, 615, 616, 615, 616, 617, 618, 617]
 ```
 
-2026-10-18 610 → 2026-10-30 618（+8）
+2026-10-18 610 → 2026-10-31 617（+7）
 
 
 ---

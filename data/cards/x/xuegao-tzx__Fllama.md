@@ -1,6 +1,6 @@
 # xuegao-tzx/Fllama
 
-⭐ 37 · C++ · MIT · 推送 2026-10-16 · [GitHub](https://github.com/xuegao-tzx/Fllama) · [官网](https://pub.dev/packages/fcllama) · 个人维护 · 中文 README
+⭐ 36 · C++ · MIT · 推送 2026-10-16 · [GitHub](https://github.com/xuegao-tzx/Fllama) · [官网](https://pub.dev/packages/fcllama) · 个人维护 · 中文 README
 
 **llama.cpp 的 Flutter/鸿蒙 绑定库：移动端本地跑 LLaMA 模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xuegao-tzx/Fllama 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-18 37 → 2026-10-30 37（+0）
+2026-10-18 37 → 2026-10-31 36（-1）
 
 
 ---

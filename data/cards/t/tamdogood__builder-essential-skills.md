@@ -1,6 +1,6 @@
 # tamdogood/builder-essential-skills
 
-⭐ 225 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tamdogood/builder-essential-skills) · [官网](https://www.npmjs.com/package/@tamng0905/builder-essential-skills) · 个人维护
+⭐ 226 · Python · MIT · 推送 2026-08-16 · [GitHub](https://github.com/tamdogood/builder-essential-skills) · [官网](https://www.npmjs.com/package/@tamng0905/builder-essential-skills) · 个人维护
 
 **面向 Claude Code / Codex 的可复用 agent 技能集合（18 个工作流）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tamdogood/builder-essential-skills 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 223 --> 227
-    line [224, 225, 226, 225, 225]
+    line [224, 225, 226, 225, 226]
 ```
 
-2026-10-18 224 → 2026-10-30 225（+1）
+2026-10-18 224 → 2026-10-31 226（+2）
 
 
 ---

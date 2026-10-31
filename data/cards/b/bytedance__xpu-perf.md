@@ -1,6 +1,6 @@
 # bytedance/xpu-perf
 
-⭐ 396 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/bytedance/xpu-perf) · [官网](https://xpu-perf.ai/) · 组织维护 · 中文 README
+⭐ 397 · Python · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/bytedance/xpu-perf) · [官网](https://xpu-perf.ai/) · 组织维护 · 中文 README
 
 **面向生产的 AI 加速器评测基准，覆盖算子到业务层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bytedance/xpu-perf 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 392 --> 397
-    line [393, 394, 393, 394, 396, 396]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 392 --> 398
+    line [393, 394, 393, 394, 396, 397]
 ```
 
-2026-10-18 393 → 2026-10-30 396（+3）
+2026-10-18 393 → 2026-10-31 397（+4）
 
 
 ---

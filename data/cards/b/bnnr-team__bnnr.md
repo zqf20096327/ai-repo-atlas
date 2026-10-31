@@ -46,12 +46,12 @@ PyTorch 计算机视觉工具包：`bnrr analyze` 对已训练 checkpoint 无需
 ```mermaid
 xychart-beta
     title "bnnr-team/bnnr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-18 36 → 2026-10-30 36（+0）
+2026-10-18 36 → 2026-10-31 36（+0）
 
 
 ---

@@ -46,12 +46,12 @@ RecallEngine 是一个 Python 库，同时提供 CLI 与 FastAPI HTTP API：指�
 ```mermaid
 xychart-beta
     title "Shub3am/RecallEngine 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-31"]
     y-axis "stars" 16 --> 20
     line [19, 17, 17]
 ```
 
-2026-10-18 19 → 2026-10-30 17（-2）
+2026-10-18 19 → 2026-10-31 17（-2）
 
 
 ---

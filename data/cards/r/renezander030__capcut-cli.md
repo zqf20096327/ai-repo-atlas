@@ -1,6 +1,6 @@
 # renezander030/capcut-cli
 
-⭐ 1,058 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/renezander030/capcut-cli) · [官网](https://renezander.com/projects/capcut-cli) · 个人维护 · 中文 README
+⭐ 1,069 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/renezander030/capcut-cli) · [官网](https://renezander.com/projects/capcut-cli) · 个人维护 · 中文 README
 
 **LLM agent 可调用的 CapCut/剪映草稿本地编辑 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "renezander030/capcut-cli 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 898 --> 1072
-    line [912, 923, 929, 936, 943, 949, 951, 956, 972, 1039, 1058]
+    title "renezander030/capcut-cli 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 897 --> 1084
+    line [912, 923, 929, 936, 943, 949, 951, 956, 972, 1039, 1058, 1069]
 ```
 
-2026-10-18 912 → 2026-10-30 1,058（+146）
+2026-10-18 912 → 2026-10-31 1,069（+157）
 
 
 ---

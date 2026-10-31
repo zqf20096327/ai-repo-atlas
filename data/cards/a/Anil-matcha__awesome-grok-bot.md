@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-grok-bot
 
-⭐ 41 · 推送 2026-09-20 · [GitHub](https://github.com/Anil-matcha/awesome-grok-bot) · 个人维护
+⭐ 42 · 推送 2026-09-20 · [GitHub](https://github.com/Anil-matcha/awesome-grok-bot) · 个人维护
 
 **面向 Grok 的即用型机器人提示词模板清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-grok-bot 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 27 --> 42
-    line [28, 29, 30, 32, 38, 41, 41]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 27 --> 43
+    line [28, 29, 30, 32, 38, 41, 42]
 ```
 
-2026-10-18 28 → 2026-10-30 41（+13）
+2026-10-18 28 → 2026-10-31 42（+14）
 
 
 ---

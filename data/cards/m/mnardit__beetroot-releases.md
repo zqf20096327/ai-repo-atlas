@@ -1,6 +1,6 @@
 # mnardit/beetroot-releases
 
-⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/mnardit/beetroot-releases) · [官网](https://max.nardit.com/beetroot) · 个人维护
+⭐ 223 · TypeScript · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/mnardit/beetroot-releases) · [官网](https://max.nardit.com/beetroot) · 个人维护
 
 **Windows 剪贴板管理器：AI 文本变换、OCR 与模糊搜索**
 
@@ -47,12 +47,12 @@ Tauri/Rust 编写的 Windows 桌面剪贴板管理器：不限量且重启后保
 ```mermaid
 xychart-beta
     title "mnardit/beetroot-releases 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 222 --> 229
-    line [226, 228, 224, 223, 224, 224]
+    line [226, 228, 224, 223, 224, 223]
 ```
 
-2026-10-18 226 → 2026-10-30 224（-2）
+2026-10-18 226 → 2026-10-31 223（-3）
 
 
 ---

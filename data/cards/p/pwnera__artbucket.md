@@ -1,6 +1,6 @@
 # pwnera/artbucket
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pwnera/artbucket) · [官网](https://artbucket.io) · 组织维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/pwnera/artbucket) · [官网](https://artbucket.io) · 组织维护
 
 **自托管开源品牌资产管理系统，供团队与 AI agent 统一读取**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pwnera/artbucket 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29, 29]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 28, 29, 30]
 ```
 
-2026-10-18 26 → 2026-10-30 29（+3）
+2026-10-18 26 → 2026-10-31 30（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # suitedaces/computer-agent
 
-⭐ 708 · Rust · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/suitedaces/computer-agent) · 个人维护
+⭐ 710 · Rust · NOASSERTION · 推送 2026-08-13 · [GitHub](https://github.com/suitedaces/computer-agent) · 个人维护
 
 **本地桌面 AI agent：用自然语言指令控制终端、浏览器与键鼠**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "suitedaces/computer-agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 704 --> 709
-    line [705, 706, 707, 706, 707, 708, 708]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 704 --> 711
+    line [705, 706, 707, 706, 707, 708, 710]
 ```
 
-2026-10-18 705 → 2026-10-30 708（+3）
+2026-10-18 705 → 2026-10-31 710（+5）
 
 
 ---

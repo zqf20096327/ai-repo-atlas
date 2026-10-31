@@ -1,6 +1,6 @@
 # pinecone-io/go-pinecone
 
-⭐ 68 · Go · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/pinecone-io/go-pinecone) · [官网](https://pkg.go.dev/github.com/pinecone-io/go-pinecone/v5/pinecone) · 组织维护
+⭐ 68 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pinecone-io/go-pinecone) · [官网](https://pkg.go.dev/github.com/pinecone-io/go-pinecone/v5/pinecone) · 组织维护
 
 **Pinecone 向量数据库的官方 Go 客户端 SDK**
 
@@ -45,12 +45,12 @@ Pinecone 官方维护的 Go SDK，覆盖 Pinecone API 2026-07 版本的控制面
 ```mermaid
 xychart-beta
     title "pinecone-io/go-pinecone 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-30 68（+0）
+2026-10-18 68 → 2026-10-31 68（+0）
 
 
 ---

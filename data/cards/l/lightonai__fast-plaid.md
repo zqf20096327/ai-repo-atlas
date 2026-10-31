@@ -1,6 +1,6 @@
 # lightonai/fast-plaid
 
-⭐ 283 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lightonai/fast-plaid) · [官网](https://github.com/lightonai/fast-plaid) · 组织维护
+⭐ 284 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/lightonai/fast-plaid) · [官网](https://github.com/lightonai/fast-plaid) · 组织维护
 
 **面向 ColBERT/ColPali 的多向量检索引擎（Rust/GPU）**
 
@@ -46,12 +46,12 @@ FastPlaid 是用 Rust 编写、通过 PyO3 提供 Python 接口的多向量（pe
 ```mermaid
 xychart-beta
     title "lightonai/fast-plaid 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 281 --> 284
-    line [282, 283, 283]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 281 --> 285
+    line [282, 283, 284]
 ```
 
-2026-10-18 282 → 2026-10-30 283（+1）
+2026-10-18 282 → 2026-10-31 284（+2）
 
 
 ---

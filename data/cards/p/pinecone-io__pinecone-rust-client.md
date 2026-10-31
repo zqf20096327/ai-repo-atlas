@@ -44,12 +44,12 @@ Pinecone 官方维护的 Rust SDK，供 Rust 开发者以代码方式访问 Pine
 ```mermaid
 xychart-beta
     title "pinecone-io/pinecone-rust-client 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

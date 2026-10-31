@@ -1,6 +1,6 @@
 # kubeopencode/kubeopencode
 
-⭐ 119 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kubeopencode/kubeopencode) · [官网](https://kubeopencode.github.io/kubeopencode/) · 组织维护
+⭐ 120 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kubeopencode/kubeopencode) · [官网](https://kubeopencode.github.io/kubeopencode/) · 组织维护
 
 **在 Kubernetes 上运行 OpenCode AI agent 的企业级平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kubeopencode/kubeopencode 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120]
 ```
 
-2026-10-18 118 → 2026-10-30 119（+1）
+2026-10-18 118 → 2026-10-31 120（+2）
 
 
 ---

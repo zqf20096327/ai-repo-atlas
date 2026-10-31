@@ -1,6 +1,6 @@
 # csr1010/whatsapp-ai-agent-sdk
 
-⭐ 195 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/csr1010/whatsapp-ai-agent-sdk) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
+⭐ 204 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/csr1010/whatsapp-ai-agent-sdk) · [官网](https://github.com/csr1010/wappy-kit#readme) · 个人维护
 
 **在本地构建和运行 WhatsApp AI agent 的开源 SDK**
 
@@ -45,13 +45,13 @@ TypeScript SDK，用于在开发者自己的机器上构建、定制和部署 Wh
 
 ```mermaid
 xychart-beta
-    title "csr1010/whatsapp-ai-agent-sdk 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 158 --> 198
-    line [161, 178, 195]
+    title "csr1010/whatsapp-ai-agent-sdk 星数(近 4 点)"
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 157 --> 208
+    line [161, 178, 195, 204]
 ```
 
-2026-10-28 161 → 2026-10-30 195（+34）
+2026-10-28 161 → 2026-10-31 204（+43）
 
 
 ---

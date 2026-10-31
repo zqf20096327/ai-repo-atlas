@@ -1,6 +1,6 @@
 # OMerkel/UCThello
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/OMerkel/UCThello) · [官网](http://omerkel.github.io/UCThello/html5/src) · 个人维护
+⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/OMerkel/UCThello) · [官网](http://omerkel.github.io/UCThello/html5/src) · 个人维护
 
 **演示 UCT/MCTS 算法的黑白棋（Othello 变体）网页与安卓游戏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OMerkel/UCThello 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-18 26 → 2026-10-30 26（+0）
+2026-10-18 26 → 2026-10-31 26（+0）
 
 
 ---

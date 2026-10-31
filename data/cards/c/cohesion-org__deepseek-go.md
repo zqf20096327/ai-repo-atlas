@@ -1,6 +1,6 @@
 # cohesion-org/deepseek-go
 
-⭐ 346 · Go · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cohesion-org/deepseek-go) · 组织维护
+⭐ 347 · Go · MIT · 推送 2026-05-30 · [GitHub](https://github.com/cohesion-org/deepseek-go) · 组织维护
 
 **Go 开发者调用 DeepSeek V4 API 及多家外部推理服务的 SDK**
 
@@ -45,12 +45,12 @@ Go 语言编写的 DeepSeek 平台 API 客户端库：提供类型安全的接�
 ```mermaid
 xychart-beta
     title "cohesion-org/deepseek-go 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 345 --> 347
-    line [346, 346]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 345 --> 348
+    line [346, 347]
 ```
 
-2026-10-18 346 → 2026-10-30 346（+0）
+2026-10-18 346 → 2026-10-31 347（+1）
 
 
 ---

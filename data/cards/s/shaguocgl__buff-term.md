@@ -1,6 +1,6 @@
 # shaguocgl/buff-term
 
-⭐ 21 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shaguocgl/buff-term) · [官网](https://buffterm.com) · 个人维护 · 中文 README
+⭐ 20 · Rust · MIT · 推送 2026-10-27 · [GitHub](https://github.com/shaguocgl/buff-term) · [官网](https://buffterm.com) · 个人维护 · 中文 README
 
 **带 AI Agent 与 MCP 服务器能力的桌面 SSH 运维工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shaguocgl/buff-term 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30"]
+    title "shaguocgl/buff-term 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 16 --> 22
-    line [17, 18, 19, 20, 21]
+    line [17, 18, 19, 20, 21, 20]
 ```
 
-2026-10-18 17 → 2026-10-30 21（+4）
+2026-10-18 17 → 2026-10-31 20（+3）
 
 
 ---

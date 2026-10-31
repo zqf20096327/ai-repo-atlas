@@ -1,6 +1,6 @@
 # cyberagiinc/DevDocs
 
-⭐ 2,108 · TypeScript · Apache-2.0 · 推送 2026-02-04 · [GitHub](https://github.com/cyberagiinc/DevDocs) · [官网](https://www.cyberagi.ai) · 组织维护
+⭐ 2,105 · TypeScript · Apache-2.0 · 推送 2026-02-04 · [GitHub](https://github.com/cyberagiinc/DevDocs) · [官网](https://www.cyberagi.ai) · 组织维护
 
 **面向开发者的免费自托管技术文档爬取与 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberagiinc/DevDocs 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
     y-axis "stars" 2104 --> 2110
-    line [2109, 2107, 2105, 2107, 2108, 2108]
+    line [2109, 2107, 2105, 2107, 2108, 2105]
 ```
 
-2026-10-18 2,109 → 2026-10-30 2,108（-1）
+2026-10-18 2,109 → 2026-10-31 2,105（-4）
 
 
 ---

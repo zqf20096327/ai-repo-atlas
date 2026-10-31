@@ -42,13 +42,13 @@ Microsoft 维护的动手实验（lab）仓库，教授如何基于 Microsoft Fo
 
 ```mermaid
 xychart-beta
-    title "microsoft/TWL300-AI-Apps-and-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "microsoft/TWL300-AI-Apps-and-agents 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-10-30 47（+1）
+2026-10-18 46 → 2026-10-31 47（+1）
 
 
 ---

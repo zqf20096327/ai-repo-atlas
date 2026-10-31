@@ -1,6 +1,6 @@
 # primaprashant/awesome-voice-typing
 
-⭐ 209 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
+⭐ 209 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
 
 **开源语音输入/听写工具策展清单（桌面、移动、CLI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "primaprashant/awesome-voice-typing 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 205 --> 210
     line [206, 207, 208, 209, 209]
 ```
 
-2026-10-18 206 → 2026-10-30 209（+3）
+2026-10-18 206 → 2026-10-31 209（+3）
 
 
 ---

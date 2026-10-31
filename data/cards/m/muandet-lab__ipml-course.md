@@ -1,6 +1,6 @@
 # muandet-lab/ipml-course
 
-⭐ 147 · SCSS · MIT · 推送 2026-10-28 · [GitHub](https://github.com/muandet-lab/ipml-course) · 组织维护
+⭐ 148 · SCSS · MIT · 推送 2026-10-30 · [GitHub](https://github.com/muandet-lab/ipml-course) · 组织维护
 
 **不精确概率机器学习课程的课程网站与教学资料仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "muandet-lab/ipml-course 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 146 --> 148
-    line [147, 147]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 146 --> 149
+    line [147, 148]
 ```
 
-2026-10-18 147 → 2026-10-30 147（+0）
+2026-10-18 147 → 2026-10-31 148（+1）
 
 
 ---

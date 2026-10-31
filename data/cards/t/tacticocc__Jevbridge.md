@@ -45,13 +45,13 @@ Node 22 零依赖库，附带 MCP 与 ACP stdio 二进制。它把 TypeSafe Jev�
 
 ```mermaid
 xychart-beta
-    title "tacticocc/Jevbridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "tacticocc/Jevbridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 46 --> 49
-    line [48, 47]
+    line [48, 47, 47]
 ```
 
-2026-10-18 48 → 2026-10-30 47（-1）
+2026-10-18 48 → 2026-10-31 47（-1）
 
 
 ---

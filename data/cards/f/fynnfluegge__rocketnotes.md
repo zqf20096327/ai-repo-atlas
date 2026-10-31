@@ -1,6 +1,6 @@
 # fynnfluegge/rocketnotes
 
-⭐ 1,494 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/fynnfluegge/rocketnotes) · 个人维护
+⭐ 1,495 · TypeScript · Apache-2.0 · 推送 2026-04-23 · [GitHub](https://github.com/fynnfluegge/rocketnotes) · 个人维护
 
 **带原生 AI 功能的 Web/Electron Markdown 笔记应用，可全本地运行**
 
@@ -46,12 +46,12 @@ Web 端与 Electron 桌面端的 Markdown 笔记应用，面向个人知识管�
 ```mermaid
 xychart-beta
     title "fynnfluegge/rocketnotes 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1493 --> 1498
-    line [1496, 1497, 1496, 1495, 1494, 1495, 1494, 1494]
+    line [1496, 1497, 1496, 1495, 1494, 1495, 1494, 1495]
 ```
 
-2026-10-18 1,496 → 2026-10-30 1,494（-2）
+2026-10-18 1,496 → 2026-10-31 1,495（-1）
 
 
 ---

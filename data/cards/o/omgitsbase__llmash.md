@@ -1,6 +1,6 @@
 # omgitsbase/llmash
 
-⭐ 37 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/omgitsbase/llmash) · 个人维护
+⭐ 37 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/omgitsbase/llmash) · 个人维护
 
 **Ollama 兼容的本地 LLM 服务器与命令行，基于调优 llama.cpp 分叉**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omgitsbase/llmash 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 13 --> 39
     line [15, 30, 33, 36, 37, 37]
 ```
 
-2026-10-18 15 → 2026-10-30 37（+22）
+2026-10-18 15 → 2026-10-31 37（+22）
 
 
 ---

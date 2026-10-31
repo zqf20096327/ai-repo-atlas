@@ -1,6 +1,6 @@
 # TestSprite/testsprite-cli
 
-⭐ 5,117 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
+⭐ 5,130 · TypeScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
 
 **TestSprite 官方 CLI：让编码 agent 用自然语言计划生成并运行测试**
 
@@ -45,13 +45,13 @@ TestSprite AI 测试平台的官方命令行客户端，面向使用编码 agent
 
 ```mermaid
 xychart-beta
-    title "TestSprite/testsprite-cli 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4702 --> 5154
-    line [4739, 4789, 4874, 4900, 4922, 4955, 4976, 5011, 5052, 5099, 5117]
+    title "TestSprite/testsprite-cli 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4700 --> 5169
+    line [4739, 4789, 4874, 4900, 4922, 4955, 4976, 5011, 5052, 5099, 5117, 5130]
 ```
 
-2026-10-18 4,739 → 2026-10-30 5,117（+378）
+2026-10-18 4,739 → 2026-10-31 5,130（+391）
 
 
 ---

@@ -44,13 +44,13 @@ Universal Tool Calling Protocol 的官方 Go 客户端库：在 HTTP、gRPC、Gr
 
 ```mermaid
 xychart-beta
-    title "universal-tool-calling-protocol/go-utcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "universal-tool-calling-protocol/go-utcp 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 124 --> 127
-    line [125, 126]
+    line [125, 126, 126]
 ```
 
-2026-10-18 125 → 2026-10-30 126（+1）
+2026-10-18 125 → 2026-10-31 126（+1）
 
 
 ---

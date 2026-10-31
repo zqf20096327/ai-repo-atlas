@@ -1,6 +1,6 @@
 # pinecone-io/python-sdk
 
-⭐ 456 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/pinecone-io/python-sdk) · [官网](https://pinecone-io.github.io/python-sdk/) · 组织维护
+⭐ 456 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pinecone-io/python-sdk) · [官网](https://pinecone-io.github.io/python-sdk/) · 组织维护
 
 **Pinecone 向量数据库的官方 Python SDK**
 
@@ -45,12 +45,12 @@ Pinecone 官方 Python 客户端库，用于创建与管理向量索引、upsert
 ```mermaid
 xychart-beta
     title "pinecone-io/python-sdk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-28", "2026-10-31"]
     y-axis "stars" 452 --> 457
     line [453, 454, 456, 456]
 ```
 
-2026-10-18 453 → 2026-10-30 456（+3）
+2026-10-18 453 → 2026-10-31 456（+3）
 
 
 ---

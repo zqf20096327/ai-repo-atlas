@@ -1,6 +1,6 @@
 # srk0102/AnimTOON
 
-⭐ 22 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/srk0102/AnimTOON) · [官网](https://huggingface.co/srk0102200/AnimTOON-3B) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/srk0102/AnimTOON) · [官网](https://huggingface.co/srk0102200/AnimTOON-3B) · 个人维护
 
 **将 SVG 动画化为 Lottie 的 3B 文本格式模型与工具链**
 
@@ -46,12 +46,12 @@ AnimTOON 是一种面向 LLM 的纯文本动画格式及配套 3B 模型（Qwen2
 ```mermaid
 xychart-beta
     title "srk0102/AnimTOON 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

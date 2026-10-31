@@ -1,6 +1,6 @@
 # askimo-ai/askimo
 
-⭐ 539 · Kotlin · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/askimo-ai/askimo) · [官网](https://askimo.chat) · 组织维护 · 中文 README
+⭐ 540 · Kotlin · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/askimo-ai/askimo) · [官网](https://askimo.chat) · 组织维护 · 中文 README
 
 **桌面 AI 工具箱：多模型聊天、本地 RAG、技能与 Agent 委派**
 
@@ -46,13 +46,13 @@ Compose Multiplatform 构建的桌面应用（macOS/Windows/Linux），面向终
 
 ```mermaid
 xychart-beta
-    title "askimo-ai/askimo 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 527 --> 540
-    line [528, 532, 534, 535, 536, 537, 538, 539]
+    title "askimo-ai/askimo 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 527 --> 541
+    line [528, 532, 534, 535, 536, 537, 538, 539, 540]
 ```
 
-2026-10-18 528 → 2026-10-30 539（+11）
+2026-10-18 528 → 2026-10-31 540（+12）
 
 
 ---

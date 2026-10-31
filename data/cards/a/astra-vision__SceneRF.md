@@ -1,6 +1,6 @@
 # astra-vision/SceneRF
 
-⭐ 381 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/SceneRF) · [官网](https://astra-vision.github.io/SceneRF/)
+⭐ 380 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/SceneRF) · [官网](https://astra-vision.github.io/SceneRF/)
 
 **自监督单目 3D 场景重建的官方 PyTorch 实现**
 
@@ -46,12 +46,12 @@ ICCV 2023 论文 SceneRF 的官方代码：用辐射场（NeRF）从单张图像
 ```mermaid
 xychart-beta
     title "astra-vision/SceneRF 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 380 --> 382
-    line [381, 381]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 379 --> 382
+    line [381, 380]
 ```
 
-2026-10-18 381 → 2026-10-30 381（+0）
+2026-10-18 381 → 2026-10-31 380（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # piotrostr/listen
 
-⭐ 1,092 · TypeScript · AGPL-3.0 · 推送 2025-11-05 · [GitHub](https://github.com/piotrostr/listen) · [官网](https://listen-rs.com) · 个人维护
+⭐ 1,091 · TypeScript · AGPL-3.0 · 推送 2025-11-05 · [GitHub](https://github.com/piotrostr/listen) · [官网](https://listen-rs.com) · 个人维护
 
 **Solana 链上交易工具框架：供 AI 代理执行跨链组合管理**
 
@@ -46,12 +46,12 @@ Rust 编写的 Solana 算法交易工具集，功能包括实时交易监控、�
 ```mermaid
 xychart-beta
     title "piotrostr/listen 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 1091 --> 1095
-    line [1094, 1093, 1092, 1092]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 1090 --> 1095
+    line [1094, 1093, 1092, 1091]
 ```
 
-2026-10-18 1,094 → 2026-10-30 1,092（-2）
+2026-10-18 1,094 → 2026-10-31 1,091（-3）
 
 
 ---

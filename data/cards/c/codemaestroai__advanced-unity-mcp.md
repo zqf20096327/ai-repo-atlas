@@ -1,6 +1,6 @@
 # codemaestroai/advanced-unity-mcp
 
-⭐ 94 · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/codemaestroai/advanced-unity-mcp) · 组织维护
+⭐ 95 · NOASSERTION · 推送 2026-03-30 · [GitHub](https://github.com/codemaestroai/advanced-unity-mcp) · 组织维护
 
 **让 AI 助手通过自然语言控制 Unity 编辑器的 MCP 桥接工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "codemaestroai/advanced-unity-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-18 94 → 2026-10-30 94（+0）
+2026-10-18 94 → 2026-10-31 95（+1）
 
 
 ---

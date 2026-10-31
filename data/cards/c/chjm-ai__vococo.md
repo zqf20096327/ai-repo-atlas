@@ -1,6 +1,6 @@
 # chjm-ai/vococo
 
-⭐ 42 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/chjm-ai/vococo) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/chjm-ai/vococo) · 个人维护 · 中文 README
 
 **基于 Claude 订阅的单用户常驻个人 AI 助理**
 
@@ -46,12 +46,12 @@ Python 实现的单用户、常驻进程、语音优先的个人 AI 助理，基
 ```mermaid
 xychart-beta
     title "chjm-ai/vococo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-18 42 → 2026-10-30 42（+0）
+2026-10-18 42 → 2026-10-31 42（+0）
 
 
 ---

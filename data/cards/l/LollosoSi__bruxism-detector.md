@@ -1,6 +1,6 @@
 # LollosoSi/bruxism-detector
 
-⭐ 45 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/LollosoSi/bruxism-detector) · [官网](https://lollososi.github.io/bruxism-detector/) · 个人维护
+⭐ 46 · C++ · GPL-3.0 · 推送 2026-09-25 · [GitHub](https://github.com/LollosoSi/bruxism-detector) · [官网](https://lollososi.github.io/bruxism-detector/) · 个人维护
 
 **自制 Arduino EMG 设备：监测磨牙并给出生物反馈**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LollosoSi/bruxism-detector 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MIV-XJTU/JanusVLN
 
-⭐ 602 · Python · 推送 2026-08-17 · [GitHub](https://github.com/MIV-XJTU/JanusVLN) · [官网](https://miv-xjtu.github.io/JanusVLN.github.io/) · 组织维护 · 中文 README
+⭐ 603 · Python · 推送 2026-08-17 · [GitHub](https://github.com/MIV-XJTU/JanusVLN) · [官网](https://miv-xjtu.github.io/JanusVLN.github.io/) · 组织维护 · 中文 README
 
 **视觉语言导航框架：双隐式记忆解耦语义与空间认知**
 
@@ -45,12 +45,12 @@ ICLR 2026 论文的官方实现：JanusVLN 是视觉语言导航（VLN）框架�
 ```mermaid
 xychart-beta
     title "MIV-XJTU/JanusVLN 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 598 --> 603
-    line [599, 601, 602, 602]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 598 --> 604
+    line [599, 601, 602, 603]
 ```
 
-2026-10-18 599 → 2026-10-30 602（+3）
+2026-10-18 599 → 2026-10-31 603（+4）
 
 
 ---

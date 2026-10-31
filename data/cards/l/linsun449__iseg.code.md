@@ -1,6 +1,6 @@
 # linsun449/iseg.code
 
-⭐ 43 · Python · 推送 2026-05-25 · [GitHub](https://github.com/linsun449/iseg.code) · [官网](https://linsun449.github.io/iSeg/) · 个人维护 · 中文 README
+⭐ 42 · Python · 推送 2026-05-25 · [GitHub](https://github.com/linsun449/iseg.code) · [官网](https://linsun449.github.io/iSeg/) · 个人维护 · 中文 README
 
 **基于 Stable Diffusion 自注意力的免训练图像分割框架**
 
@@ -45,13 +45,13 @@ T-PAMI2026 论文 iSeg 的官方实现：利用 Stable Diffusion 2.1-base 的自
 
 ```mermaid
 xychart-beta
-    title "linsun449/iseg.code 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "linsun449/iseg.code 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 41 --> 44
-    line [42, 43]
+    line [42, 43, 42]
 ```
 
-2026-10-18 42 → 2026-10-30 43（+1）
+2026-10-18 42 → 2026-10-31 42（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # signerlabs/Klee
 
-⭐ 1,771 · Swift · 推送 2026-03-20 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://shipswift.app) · 组织维护
+⭐ 1,770 · Swift · 推送 2026-03-20 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://shipswift.app) · 组织维护
 
 **Apple Silicon 本地运行的 macOS 原生 AI 聊天应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "signerlabs/Klee 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30"]
+    title "signerlabs/Klee 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1768 --> 1773
-    line [1769, 1770, 1771, 1772, 1771]
+    line [1769, 1770, 1771, 1772, 1771, 1770]
 ```
 
-2026-10-18 1,769 → 2026-10-30 1,771（+2）
+2026-10-18 1,769 → 2026-10-31 1,770（+1）
 
 
 ---

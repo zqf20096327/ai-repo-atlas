@@ -44,13 +44,13 @@ STAR-Bench 是一个评测音频模型时空推理能力（audio 4D intelligence
 
 ```mermaid
 xychart-beta
-    title "InternLM/StarBench 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "InternLM/StarBench 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-18 46 → 2026-10-30 47（+1）
+2026-10-18 46 → 2026-10-31 47（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # glossyio/traffic-monitor
 
-⭐ 131 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/glossyio/traffic-monitor) · [官网](https://www.trafficmonitor.ai) · 组织维护
+⭐ 131 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/glossyio/traffic-monitor) · [官网](https://www.trafficmonitor.ai) · 组织维护
 
 **边缘 ML+多普勒雷达的道路交通监测软硬件方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "glossyio/traffic-monitor 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
     y-axis "stars" 127 --> 132
     line [128, 130, 131, 131]
 ```
 
-2026-10-18 128 → 2026-10-30 131（+3）
+2026-10-18 128 → 2026-10-31 131（+3）
 
 
 ---

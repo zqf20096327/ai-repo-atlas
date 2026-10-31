@@ -1,6 +1,6 @@
 # microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry
 
-⭐ 23 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry) · 组织维护
 
 **微软 Frontier Tour 2027 动手实验：用 Foundry 构建部署 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
+    title "microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 14 --> 24
-    line [15, 19, 21, 22, 23]
+    line [15, 19, 21, 22, 23, 23]
 ```
 
-2026-10-22 15 → 2026-10-30 23（+8）
+2026-10-22 15 → 2026-10-31 23（+8）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
+    title "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 398 --> 403
-    line [399, 400, 401, 402]
+    line [399, 400, 401, 402, 402]
 ```
 
-2026-10-18 399 → 2026-10-30 402（+3）
+2026-10-18 399 → 2026-10-31 402（+3）
 
 
 ---

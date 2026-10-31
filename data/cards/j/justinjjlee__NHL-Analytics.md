@@ -1,6 +1,6 @@
 # justinjjlee/NHL-Analytics
 
-⭐ 30 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/justinjjlee/NHL-Analytics) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/justinjjlee/NHL-Analytics) · 个人维护
 
 **NHL 冰球数据端到端分析平台与公开数据湖仓**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "justinjjlee/NHL-Analytics 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-18 30 → 2026-10-30 30（+0）
+2026-10-18 30 → 2026-10-31 30（+0）
 
 
 ---

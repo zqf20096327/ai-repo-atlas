@@ -1,6 +1,6 @@
 # yzonur/sap-adt-mcp
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/yzonur/sap-adt-mcp) · [官网](https://github.com/yzonur/claude-for-abap) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/yzonur/sap-adt-mcp) · [官网](https://github.com/yzonur/claude-for-abap) · 个人维护
 
 **MCP 服务器：让 Claude 等 AI 客户端经 ADT 直接操作 SAP 系统**
 
@@ -47,12 +47,12 @@ Node.js 实现的 MCP server，封装 50 余个 ADT HTTP API 工具，供 Claude
 ```mermaid
 xychart-beta
     title "yzonur/sap-adt-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-18 19 → 2026-10-30 20（+1）
+2026-10-18 19 → 2026-10-31 20（+1）
 
 
 ---

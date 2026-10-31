@@ -1,6 +1,6 @@
 # Xwh630/ai-agent-handbook
 
-⭐ 67 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xwh630/ai-agent-handbook) · [官网](https://xwh630.github.io/ai-agent-handbook/) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Xwh630/ai-agent-handbook) · [官网](https://xwh630.github.io/ai-agent-handbook/) · 个人维护 · 中文 README
 
 **中文 AI Agent 系统学习手册：29 章教程+CLI 工具+Skill 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xwh630/ai-agent-handbook 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "Xwh630/ai-agent-handbook 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 55 --> 68
-    line [56, 59, 60, 61, 62, 65, 66, 67]
+    line [56, 59, 60, 61, 62, 65, 66, 67, 67]
 ```
 
-2026-10-18 56 → 2026-10-30 67（+11）
+2026-10-18 56 → 2026-10-31 67（+11）
 
 
 ---

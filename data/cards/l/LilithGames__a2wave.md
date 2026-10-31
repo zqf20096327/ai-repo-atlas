@@ -1,6 +1,6 @@
 # LilithGames/a2wave
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/LilithGames/a2wave) · [官网](https://a2wave.ai) · 组织维护 · 中文 README
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/LilithGames/a2wave) · [官网](https://a2wave.ai) · 组织维护 · 中文 README
 
 **把既有 agent CLI 变成团队共享服务的编排平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LilithGames/a2wave 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

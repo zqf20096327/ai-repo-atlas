@@ -1,6 +1,6 @@
 # valmishq/valmis
 
-⭐ 108 · TypeScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/valmishq/valmis) · [官网](https://docs.valm.is) · 组织维护
+⭐ 107 · TypeScript · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/valmishq/valmis) · [官网](https://docs.valm.is) · 组织维护
 
 **面向生产工作的云端 AI Agent 平台，强调安全隔离**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "valmishq/valmis 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 107 --> 109
-    line [108, 108]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 106 --> 109
+    line [108, 107]
 ```
 
-2026-10-18 108 → 2026-10-30 108（+0）
+2026-10-18 108 → 2026-10-31 107（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # langchain-ai/agentevals
 
-⭐ 754 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/langchain-ai/agentevals) · 组织维护
+⭐ 755 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/langchain-ai/agentevals) · 组织维护
 
 **面向开发者的 agent 轨迹评测库：现成评估器打分**
 
@@ -45,12 +45,12 @@ LangChain 团队维护的 Python/TypeScript 库，提供针对 agent 执行轨�
 ```mermaid
 xychart-beta
     title "langchain-ai/agentevals 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 749 --> 755
-    line [752, 751, 750, 751, 752, 753, 754, 754]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 749 --> 756
+    line [752, 751, 750, 751, 752, 753, 754, 755]
 ```
 
-2026-10-18 752 → 2026-10-30 754（+2）
+2026-10-18 752 → 2026-10-31 755（+3）
 
 
 ---

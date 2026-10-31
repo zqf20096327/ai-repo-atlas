@@ -46,13 +46,13 @@ Sinew 是基于 Tauri 2 + React + Rust 的桌面 AI 编程 harness，面向希�
 
 ```mermaid
 xychart-beta
-    title "Paseru/sinew 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Paseru/sinew 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-18 66 → 2026-10-30 67（+1）
+2026-10-18 66 → 2026-10-31 67（+1）
 
 
 ---

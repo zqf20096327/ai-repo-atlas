@@ -1,6 +1,6 @@
 # langchain-ai/text-to-sql-agent
 
-⭐ 44 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/text-to-sql-agent) · 个人维护
+⭐ 45 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/langchain-ai/text-to-sql-agent) · 个人维护
 
 **自然语言查询数据库的 Text-to-SQL Agent 示例工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/text-to-sql-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 45（+1）
 
 
 ---

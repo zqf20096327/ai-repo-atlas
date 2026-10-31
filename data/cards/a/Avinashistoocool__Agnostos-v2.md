@@ -1,6 +1,6 @@
 # Avinashistoocool/Agnostos-v2
 
-⭐ 26 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Avinashistoocool/Agnostos-v2) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Avinashistoocool/Agnostos-v2) · [官网](https://avinashistoocool.github.io/Agnostos-v2/) · 个人维护
 
 **面向学生的科研实习套磁 CLI：匹配教授、代拟并分批发送邮件**
 
@@ -46,12 +46,12 @@ Python 命令行工具，面向寻找科研实习的学生。读取用户简历�
 ```mermaid
 xychart-beta
     title "Avinashistoocool/Agnostos-v2 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 17 --> 34
     line [18, 28, 33, 32, 28, 26, 26]
 ```
 
-2026-10-18 18 → 2026-10-30 26（+8）
+2026-10-18 18 → 2026-10-31 26（+8）
 
 
 ---

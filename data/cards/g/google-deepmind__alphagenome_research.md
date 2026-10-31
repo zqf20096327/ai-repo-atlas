@@ -1,6 +1,6 @@
 # google-deepmind/alphagenome_research
 
-⭐ 913 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/alphagenome_research) · 组织维护
+⭐ 917 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/google-deepmind/alphagenome_research) · 组织维护
 
 **面向科研的 AlphaGenome DNA 序列模型研究代码（JAX 实现）**
 
@@ -45,12 +45,12 @@ Google DeepMind 发布的 AlphaGenome 研究代码：提供用 JAX 编写的模�
 ```mermaid
 xychart-beta
     title "google-deepmind/alphagenome_research 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 904 --> 914
-    line [905, 907, 908, 909, 912, 913, 913]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 904 --> 918
+    line [905, 907, 908, 909, 912, 913, 917]
 ```
 
-2026-10-18 905 → 2026-10-30 913（+8）
+2026-10-18 905 → 2026-10-31 917（+12）
 
 
 ---

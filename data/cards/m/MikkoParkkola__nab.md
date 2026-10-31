@@ -1,6 +1,6 @@
 # MikkoParkkola/nab
 
-⭐ 17 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MikkoParkkola/nab) · [官网](https://crates.io/crates/nab) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MikkoParkkola/nab) · [官网](https://crates.io/crates/nab) · 个人维护
 
 **面向 LLM agent 的本地网页抓取/ASR 工具：URL 转干净 markdown**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MikkoParkkola/nab 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-18 16 → 2026-10-30 17（+1）
+2026-10-18 16 → 2026-10-31 18（+2）
 
 
 ---

@@ -44,13 +44,13 @@ ICLR 2026 论文的官方实现：把任意带标签图经结构引导的可逆�
 
 ```mermaid
 xychart-beta
-    title "BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30"]
+    title "BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-10-18 36 → 2026-10-30 39（+3）
+2026-10-18 36 → 2026-10-31 39（+3）
 
 
 ---

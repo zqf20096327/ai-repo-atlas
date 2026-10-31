@@ -1,6 +1,6 @@
 # zgsm-ai/costrict
 
-⭐ 4,457 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/zgsm-ai/costrict) · [官网](https://costrict.ai) · 组织维护 · 中文 README
+⭐ 4,459 · TypeScript · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/zgsm-ai/costrict) · [官网](https://costrict.ai) · 组织维护 · 中文 README
 
 **面向企业的 AI 编码助手：严格模式、代码审查与补全**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zgsm-ai/costrict 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 4450 --> 4458
-    line [4451, 4452, 4453, 4455, 4457, 4457]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 4450 --> 4460
+    line [4451, 4452, 4453, 4455, 4457, 4459]
 ```
 
-2026-10-18 4,451 → 2026-10-30 4,457（+6）
+2026-10-18 4,451 → 2026-10-31 4,459（+8）
 
 
 ---

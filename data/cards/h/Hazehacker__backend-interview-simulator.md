@@ -1,6 +1,6 @@
 # Hazehacker/backend-interview-simulator
 
-⭐ 231 · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Hazehacker/backend-interview-simulator) · 个人维护 · 中文 README
+⭐ 232 · MIT · 推送 2026-07-31 · [GitHub](https://github.com/Hazehacker/backend-interview-simulator) · 个人维护 · 中文 README
 
 **模拟中国大厂后端面试的 AI 面试官 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hazehacker/backend-interview-simulator 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 221 --> 232
-    line [222, 223, 225, 228, 229, 231, 231]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 221 --> 233
+    line [222, 223, 225, 228, 229, 231, 232]
 ```
 
-2026-10-18 222 → 2026-10-30 231（+9）
+2026-10-18 222 → 2026-10-31 232（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # DyNooob/OpenClaw-Guard
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/DyNooob/OpenClaw-Guard) · 个人维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-06-29 · [GitHub](https://github.com/DyNooob/OpenClaw-Guard) · 个人维护 · 中文 README
 
 **OpenClaw 非侵入式安全客户端：Hook 审批、基线扫描与审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DyNooob/OpenClaw-Guard 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60]
 ```
 
-2026-10-18 58 → 2026-10-30 59（+1）
+2026-10-18 58 → 2026-10-31 60（+2）
 
 
 ---

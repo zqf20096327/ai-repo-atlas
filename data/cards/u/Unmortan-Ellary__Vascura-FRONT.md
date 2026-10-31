@@ -1,6 +1,6 @@
 # Unmortan-Ellary/Vascura-FRONT
 
-⭐ 23 · HTML · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/Unmortan-Ellary/Vascura-FRONT) · 个人维护
+⭐ 23 · HTML · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Unmortan-Ellary/Vascura-FRONT) · 个人维护
 
 **单 HTML 文件的无依赖 LLM 聊天前端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Unmortan-Ellary/Vascura-FRONT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

@@ -46,12 +46,12 @@ VUDA 是一个基于 Playwright 的 Model Context Protocol (MCP) 服务器，通
 ```mermaid
 xychart-beta
     title "samihalawa/visual-ui-debug-agent-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-18 83 → 2026-10-30 84（+1）
+2026-10-18 83 → 2026-10-31 84（+1）
 
 
 ---

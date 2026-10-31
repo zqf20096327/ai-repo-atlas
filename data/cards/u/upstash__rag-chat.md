@@ -44,13 +44,13 @@ Upstash 社区维护的 TypeScript SDK（@upstash/rag-chat），用于以少量�
 
 ```mermaid
 xychart-beta
-    title "upstash/rag-chat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "upstash/rag-chat 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 255 --> 258
-    line [257, 256]
+    line [257, 256, 256]
 ```
 
-2026-10-18 257 → 2026-10-30 256（-1）
+2026-10-18 257 → 2026-10-31 256（-1）
 
 
 ---

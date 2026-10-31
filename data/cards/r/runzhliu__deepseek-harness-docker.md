@@ -1,6 +1,6 @@
 # runzhliu/deepseek-harness-docker
 
-⭐ 137 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/runzhliu/deepseek-harness-docker) · 个人维护 · 中文 README
+⭐ 139 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/runzhliu/deepseek-harness-docker) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的社区 Docker/K8s 封装：双架构镜像与多方式部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "runzhliu/deepseek-harness-docker 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 113 --> 139
-    line [115, 116, 120, 122, 123, 125, 128, 132, 135, 137]
+    title "runzhliu/deepseek-harness-docker 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 113 --> 141
+    line [115, 116, 120, 122, 123, 125, 128, 132, 135, 137, 139]
 ```
 
-2026-10-18 115 → 2026-10-30 137（+22）
+2026-10-18 115 → 2026-10-31 139（+24）
 
 
 ---

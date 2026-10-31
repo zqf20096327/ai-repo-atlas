@@ -1,6 +1,6 @@
 # starling-build/starling
 
-⭐ 413 · Swift · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/starling-build/starling) · [官网](https://starling.build) · 组织维护
+⭐ 413 · Swift · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/starling-build/starling) · [官网](https://starling.build) · 组织维护
 
 **Swift 编写的 Linux 桌面环境：自带 Wayland 合成器与终端/办公套件**
 
@@ -44,13 +44,13 @@ Starling 是一个围绕 Swift 语言构建的 Linux 桌面环境及应用工厂
 
 ```mermaid
 xychart-beta
-    title "starling-build/starling 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
+    title "starling-build/starling 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 383 --> 415
-    line [385, 402, 404, 405, 408, 410, 413]
+    line [385, 402, 404, 405, 408, 410, 413, 413]
 ```
 
-2026-10-18 385 → 2026-10-30 413（+28）
+2026-10-18 385 → 2026-10-31 413（+28）
 
 
 ---

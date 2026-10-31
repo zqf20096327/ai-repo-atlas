@@ -1,6 +1,6 @@
 # PocketRisu/PocketRisu
 
-⭐ 419 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PocketRisu/PocketRisu) · [官网](https://pocketrisu.com/) · 组织维护 · 中文 README
+⭐ 420 · TypeScript · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/PocketRisu/PocketRisu) · [官网](https://pocketrisu.com/) · 组织维护 · 中文 README
 
 **自托管 AI 角色扮演聊天平台，PC/手机浏览器访问**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PocketRisu/PocketRisu 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 388 --> 421
-    line [390, 405, 407, 412, 415, 416, 417, 419]
+    title "PocketRisu/PocketRisu 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 387 --> 423
+    line [390, 405, 407, 412, 415, 416, 417, 419, 420]
 ```
 
-2026-10-18 390 → 2026-10-30 419（+29）
+2026-10-18 390 → 2026-10-31 420（+30）
 
 
 ---

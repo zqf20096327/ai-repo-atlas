@@ -1,6 +1,6 @@
 # ilastik/ilastik
 
-⭐ 414 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/ilastik/ilastik) · [官网](https://ilastik.org) · 组织维护
+⭐ 415 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/ilastik/ilastik) · [官网](https://ilastik.org) · 组织维护
 
 **交互式机器学习工具：生物图像的分割、分类、追踪与计数**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ilastik/ilastik 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 409 --> 415
-    line [410, 411, 412, 413, 414, 414]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 409 --> 416
+    line [410, 411, 412, 413, 414, 415]
 ```
 
-2026-10-18 410 → 2026-10-30 414（+4）
+2026-10-18 410 → 2026-10-31 415（+5）
 
 
 ---

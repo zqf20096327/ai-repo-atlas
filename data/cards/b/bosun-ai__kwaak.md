@@ -1,6 +1,6 @@
 # bosun-ai/kwaak
 
-⭐ 336 · Rust · MIT · 推送 2026-01-27 · [GitHub](https://github.com/bosun-ai/kwaak) · [官网](https://bosun.ai) · 组织维护
+⭐ 337 · Rust · MIT · 推送 2026-01-27 · [GitHub](https://github.com/bosun-ai/kwaak) · [官网](https://bosun.ai) · 组织维护
 
 **终端中并行运行多 AI 编码 agent 的 Rust 工具（已停止维护）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bosun-ai/kwaak 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 333 --> 337
-    line [334, 335, 336, 336]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 333 --> 338
+    line [334, 335, 336, 337]
 ```
 
-2026-10-18 334 → 2026-10-30 336（+2）
+2026-10-18 334 → 2026-10-31 337（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-deep-learning
 
-⭐ 18 · 推送 2026-10-28 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-deep-learning) · 个人维护
+⭐ 18 · 推送 2026-10-30 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-deep-learning) · 个人维护
 
 **深度学习教程、论文与社区资源的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-awesome-deep-learning 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

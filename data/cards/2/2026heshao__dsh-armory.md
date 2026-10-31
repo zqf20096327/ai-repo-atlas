@@ -1,6 +1,6 @@
 # 2026heshao/dsh-armory
 
-⭐ 51 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/2026heshao/dsh-armory) · [官网](https://github.com/2026heshao/dsh-armory#readme) · 个人维护 · 中文 README
+⭐ 53 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/2026heshao/dsh-armory) · [官网](https://github.com/2026heshao/dsh-armory#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：MCP/技能/专家/市场一体化管理看板**
 
@@ -46,13 +46,13 @@ DeepSeek Harness（DSH）的 Web 端管理插件，fork 自 dsh-mcp-manager-ui�
 
 ```mermaid
 xychart-beta
-    title "2026heshao/dsh-armory 星数(近 8 点)"
-    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2 --> 55
-    line [6, 19, 21, 24, 29, 36, 44, 51]
+    title "2026heshao/dsh-armory 星数(近 9 点)"
+    x-axis ["2026-10-19", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2 --> 57
+    line [6, 19, 21, 24, 29, 36, 44, 51, 53]
 ```
 
-2026-10-19 6 → 2026-10-30 51（+45）
+2026-10-19 6 → 2026-10-31 53（+47）
 
 
 ---

@@ -1,6 +1,6 @@
 # TaegyuJEONG/ftja
 
-⭐ 21 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/TaegyuJEONG/ftja) · [官网](https://ftja.vercel.app) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/TaegyuJEONG/ftja) · [官网](https://ftja.vercel.app) · 个人维护
 
 **运行在 Claude Code 内的求职筛选 agent：读 LinkedIn 公开职位并给出理由**
 
@@ -46,12 +46,12 @@ FTJA 是一套部署在用户本地 Claude Code 会话中的求职筛选技能�
 ```mermaid
 xychart-beta
     title "TaegyuJEONG/ftja 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31"]
     y-axis "stars" 2 --> 22
     line [3, 17, 18, 20, 21, 21]
 ```
 
-2026-10-18 3 → 2026-10-30 21（+18）
+2026-10-18 3 → 2026-10-31 21（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # openai/openai-ruby
 
-⭐ 472 · Ruby · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openai/openai-ruby) · 组织维护
+⭐ 472 · Ruby · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openai/openai-ruby) · 组织维护
 
 **OpenAI API 官方 Ruby SDK，供 Ruby 应用接入**
 
@@ -45,13 +45,13 @@ OpenAI 官方维护的 Ruby 3.3.0+ 客户端库，通过 Gemfile/Bundler 安装�
 
 ```mermaid
 xychart-beta
-    title "openai/openai-ruby 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
+    title "openai/openai-ruby 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31"]
     y-axis "stars" 467 --> 473
-    line [469, 468, 470, 471, 472]
+    line [469, 468, 470, 471, 472, 472]
 ```
 
-2026-10-18 469 → 2026-10-30 472（+3）
+2026-10-18 469 → 2026-10-31 472（+3）
 
 
 ---

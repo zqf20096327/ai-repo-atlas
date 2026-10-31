@@ -1,6 +1,6 @@
 # datawhalechina/hello-agents
 
-⭐ 85,284 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
+⭐ 85,424 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/datawhalechina/hello-agents) · [官网](https://hello-agents.datawhale.cc) · 组织维护 · 中文 README
 
 **面向开发者的从零构建智能体系统开源教程**
 
@@ -53,13 +53,13 @@ Datawhale 社区出品的系统性智能体学习教程，共 16 章，覆盖智
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/hello-agents 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 83321 --> 85462
-    line [83499, 83745, 84055, 84201, 84333, 84422, 84533, 84747, 84965, 85122, 85284]
+    title "datawhalechina/hello-agents 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 83307 --> 85616
+    line [83499, 83745, 84055, 84201, 84333, 84422, 84533, 84747, 84965, 85122, 85284, 85424]
 ```
 
-2026-10-18 83,499 → 2026-10-30 85,284（+1,785）
+2026-10-18 83,499 → 2026-10-31 85,424（+1,925）
 
 
 ---

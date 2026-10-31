@@ -1,6 +1,6 @@
 # h7lu/RiMCP_hybrid
 
-⭐ 44 · C# · MIT · 推送 2026-02-19 · [GitHub](https://github.com/h7lu/RiMCP_hybrid) · 个人维护 · 中文 README
+⭐ 45 · C# · MIT · 推送 2026-02-19 · [GitHub](https://github.com/h7lu/RiMCP_hybrid) · 个人维护 · 中文 README
 
 **RimWorld 源码与 XML 定义的混合检索 MCP 服务器，供 AI 助手调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "h7lu/RiMCP_hybrid 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 45（+1）
 
 
 ---

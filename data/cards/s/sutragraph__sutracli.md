@@ -46,12 +46,12 @@ Python 编写的命令行工具（PyPI 包名 sutrakit），对项目进行 AST 
 ```mermaid
 xychart-beta
     title "sutragraph/sutracli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-18 29 → 2026-10-30 29（+0）
+2026-10-18 29 → 2026-10-31 29（+0）
 
 
 ---

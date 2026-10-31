@@ -1,6 +1,6 @@
 # mohammedelahmar/tiktok-agent
 
-⭐ 31 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/mohammedelahmar/tiktok-agent) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/mohammedelahmar/tiktok-agent) · 个人维护
 
 **AI 自动从长视频中截取热门片段并转成竖屏短视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohammedelahmar/tiktok-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

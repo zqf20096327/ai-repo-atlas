@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FrankS-IntelLab/agentic-kaggle-skill 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 188 --> 190
     line [189, 189]
 ```
 
-2026-10-18 189 → 2026-10-30 189（+0）
+2026-10-18 189 → 2026-10-31 189（+0）
 
 
 ---

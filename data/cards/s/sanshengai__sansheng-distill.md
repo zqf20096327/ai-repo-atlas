@@ -1,6 +1,6 @@
 # sanshengai/sansheng-distill
 
-⭐ 58 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sanshengai/sansheng-distill) · 个人维护 · 中文 README
+⭐ 61 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/sanshengai/sansheng-distill) · 个人维护 · 中文 README
 
 **把书/视频/人物资料蒸成单文件 HTML 知识地图的 Claude Code skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sanshengai/sansheng-distill 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 54 --> 59
-    line [55, 56, 57, 58, 58]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 54 --> 62
+    line [55, 56, 57, 58, 61]
 ```
 
-2026-10-18 55 → 2026-10-30 58（+3）
+2026-10-18 55 → 2026-10-31 61（+6）
 
 
 ---

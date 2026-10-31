@@ -45,12 +45,12 @@ SmartKNN 是基于最近邻的 Python 学习库，提供回归与分类能力。
 ```mermaid
 xychart-beta
     title "thatipamula-jashwanth/smart-knn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

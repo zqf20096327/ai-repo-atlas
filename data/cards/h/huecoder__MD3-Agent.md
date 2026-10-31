@@ -1,6 +1,6 @@
 # huecoder/MD3-Agent
 
-⭐ 19 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/huecoder/MD3-Agent) · 个人维护
+⭐ 20 · Kotlin · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/huecoder/MD3-Agent) · 个人维护
 
 **开源 Android 手机 AI 助手应用：自带 API key 读屏控机**
 
@@ -46,12 +46,12 @@ Kotlin/Jetpack Compose 编写的 Android 端 LLM 助手客户端，定位为 Gem
 ```mermaid
 xychart-beta
     title "huecoder/MD3-Agent 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 11 --> 20
-    line [12, 13, 14, 15, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 11 --> 21
+    line [12, 13, 14, 15, 18, 19, 20]
 ```
 
-2026-10-18 12 → 2026-10-30 19（+7）
+2026-10-18 12 → 2026-10-31 20（+8）
 
 
 ---

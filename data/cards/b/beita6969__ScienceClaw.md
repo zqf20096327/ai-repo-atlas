@@ -1,6 +1,6 @@
 # beita6969/ScienceClaw
 
-⭐ 1,021 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/beita6969/ScienceClaw) · [官网](https://scienceclaw.science) · 个人维护
+⭐ 1,022 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/beita6969/ScienceClaw) · [官网](https://scienceclaw.science) · 个人维护
 
 **可验证程序级自我进化的科研 agent 系统（Skill–Operator）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beita6969/ScienceClaw 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1013 --> 1022
-    line [1014, 1015, 1016, 1018, 1019, 1020, 1021]
+    title "beita6969/ScienceClaw 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1013 --> 1023
+    line [1014, 1015, 1016, 1018, 1019, 1020, 1021, 1022]
 ```
 
-2026-10-18 1,014 → 2026-10-30 1,021（+7）
+2026-10-18 1,014 → 2026-10-31 1,022（+8）
 
 
 ---

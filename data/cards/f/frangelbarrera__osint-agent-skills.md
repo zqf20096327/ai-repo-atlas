@@ -1,6 +1,6 @@
 # frangelbarrera/osint-agent-skills
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/frangelbarrera/osint-agent-skills) · [官网](https://www.npmjs.com/package/@frangelbarrera/osint-agent-skills) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/frangelbarrera/osint-agent-skills) · [官网](https://www.npmjs.com/package/@frangelbarrera/osint-agent-skills) · 个人维护
 
 **把任意 AI agent 变成资深 OSINT 分析员的结构化知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "frangelbarrera/osint-agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 35 --> 44
-    line [36, 37, 38, 42, 43, 43]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 35 --> 45
+    line [36, 37, 38, 42, 43, 44]
 ```
 
-2026-10-18 36 → 2026-10-30 43（+7）
+2026-10-18 36 → 2026-10-31 44（+8）
 
 
 ---

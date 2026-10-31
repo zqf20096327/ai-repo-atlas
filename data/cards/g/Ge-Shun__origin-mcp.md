@@ -1,6 +1,6 @@
 # Ge-Shun/origin-mcp
 
-⭐ 142 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ge-Shun/origin-mcp) · 个人维护 · 中文 README
+⭐ 143 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Ge-Shun/origin-mcp) · 个人维护 · 中文 README
 
 **让 AI 助手通过 MCP 操控 Origin/OriginPro 的本地服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ge-Shun/origin-mcp 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 126 --> 143
-    line [127, 131, 132, 136, 138, 140, 142]
+    title "Ge-Shun/origin-mcp 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 126 --> 144
+    line [127, 131, 132, 136, 138, 140, 142, 143]
 ```
 
-2026-10-18 127 → 2026-10-30 142（+15）
+2026-10-18 127 → 2026-10-31 143（+16）
 
 
 ---

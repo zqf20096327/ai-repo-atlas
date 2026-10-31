@@ -1,6 +1,6 @@
 # damione1/souffle
 
-⭐ 20 · Rust · GPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/damione1/souffle) · [官网](usesouffle.app) · 个人维护
+⭐ 20 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/damione1/souffle) · [官网](usesouffle.app) · 个人维护
 
 **macOS 全本地会议转录与听写应用，录音不离开本机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damione1/souffle 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 18 --> 23
     line [21, 22, 20, 19, 20, 20]
 ```
 
-2026-10-18 21 → 2026-10-30 20（-1）
+2026-10-18 21 → 2026-10-31 20（-1）
 
 
 ---

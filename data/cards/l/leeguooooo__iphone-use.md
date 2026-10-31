@@ -1,6 +1,6 @@
 # leeguooooo/iphone-use
 
-⭐ 400 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
+⭐ 409 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
 
 **让 AI agent 操作真实 iPhone 的 MCP 工具：读屏、点击、输入、滑动**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leeguooooo/iphone-use 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 282 --> 410
-    line [292, 310, 323, 333, 337, 345, 357, 369, 384, 392, 400]
+    title "leeguooooo/iphone-use 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 281 --> 420
+    line [292, 310, 323, 333, 337, 345, 357, 369, 384, 392, 400, 409]
 ```
 
-2026-10-18 292 → 2026-10-30 400（+108）
+2026-10-18 292 → 2026-10-31 409（+117）
 
 
 ---

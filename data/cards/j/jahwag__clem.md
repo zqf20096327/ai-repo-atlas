@@ -45,12 +45,12 @@ clem 以 systemd + tmux 为每个 agent 建立独立 Linux 用户并持续运行
 ```mermaid
 xychart-beta
     title "jahwag/clem 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

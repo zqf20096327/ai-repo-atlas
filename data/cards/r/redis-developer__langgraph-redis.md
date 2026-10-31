@@ -1,6 +1,6 @@
 # redis-developer/langgraph-redis
 
-⭐ 241 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
+⭐ 241 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
 
 **LangGraph 的 Redis 检查点存储与中间件库，供开发者持久化 agent 状态**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "redis-developer/langgraph-redis 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 239 --> 242
     line [240, 241, 241]
 ```
 
-2026-10-18 240 → 2026-10-30 241（+1）
+2026-10-18 240 → 2026-10-31 241（+1）
 
 
 ---

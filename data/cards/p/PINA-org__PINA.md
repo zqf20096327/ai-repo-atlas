@@ -1,6 +1,6 @@
 # PINA-org/PINA
 
-⭐ 800 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
+⭐ 800 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
 
 **科学机器学习 Python 库：用 PINN 与神经算子求解微分方程**
 
@@ -46,12 +46,12 @@ PINA 是基于 PyTorch、PyTorch Lightning 与 PyTorch Geometric 的开源 Pytho
 ```mermaid
 xychart-beta
     title "PINA-org/PINA 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
     y-axis "stars" 797 --> 801
     line [798, 799, 800, 800]
 ```
 
-2026-10-18 798 → 2026-10-30 800（+2）
+2026-10-18 798 → 2026-10-31 800（+2）
 
 
 ---

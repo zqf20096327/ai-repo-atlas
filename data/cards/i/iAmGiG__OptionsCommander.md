@@ -1,6 +1,6 @@
 # iAmGiG/OptionsCommander
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/iAmGiG/OptionsCommander) · [官网](https://github.com/iAmGiG/OptionsCommander/wiki) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/iAmGiG/OptionsCommander) · [官网](https://github.com/iAmGiG/OptionsCommander/wiki) · 个人维护
 
 **Alpaca 模拟账户上的多 agent 期权/股票交易研究平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iAmGiG/OptionsCommander 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-29", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-29 23 → 2026-10-30 23（+0）
+2026-10-29 23 → 2026-10-31 23（+0）
 
 
 ---

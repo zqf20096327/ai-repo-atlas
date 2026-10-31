@@ -1,6 +1,6 @@
 # Leading-AI-IO/the-silence-of-intelligence
 
-⭐ 26 · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) · [官网](https://www.leading-ai.io/) · 个人维护
+⭐ 26 · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) · [官网](https://www.leading-ai.io/) · 个人维护
 
 **解读 Anthropic CEO Amodei 思想的 OSS 日/英电子书**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Leading-AI-IO/the-silence-of-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-31"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 26（+1）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

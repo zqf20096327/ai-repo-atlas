@@ -1,6 +1,6 @@
 # bd4sur/Nano
 
-⭐ 297 · C · 推送 2026-10-29 · [GitHub](https://github.com/bd4sur/Nano) · [官网](https://bd4sur.com/Nano/infer/web) · 个人维护 · 中文 README
+⭐ 297 · C · 推送 2026-10-30 · [GitHub](https://github.com/bd4sur/Nano) · [官网](https://bd4sur.com/Nano/infer/web) · 个人维护 · 中文 README
 
 **从零实现的 Transformer 语言模型训练与多端推理项目，供个人研究赏玩**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bd4sur/Nano 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 296 --> 298
     line [297, 297]
 ```
 
-2026-10-18 297 → 2026-10-30 297（+0）
+2026-10-18 297 → 2026-10-31 297（+0）
 
 
 ---

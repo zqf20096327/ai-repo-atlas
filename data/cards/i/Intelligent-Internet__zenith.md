@@ -1,6 +1,6 @@
 # Intelligent-Internet/zenith
 
-⭐ 384 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Intelligent-Internet/zenith) · 组织维护
+⭐ 387 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/Intelligent-Internet/zenith) · 组织维护
 
 **长时任务的持续改进型 agent 编排框架（harness）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Intelligent-Internet/zenith 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 366 --> 385
-    line [367, 372, 374, 375, 378, 380, 382, 383, 384]
+    title "Intelligent-Internet/zenith 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 365 --> 389
+    line [367, 372, 374, 375, 378, 380, 382, 383, 384, 387]
 ```
 
-2026-10-18 367 → 2026-10-30 384（+17）
+2026-10-18 367 → 2026-10-31 387（+20）
 
 
 ---

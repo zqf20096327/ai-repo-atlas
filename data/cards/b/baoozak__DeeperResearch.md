@@ -1,6 +1,6 @@
 # baoozak/DeeperResearch
 
-⭐ 43 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/baoozak/DeeperResearch) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/baoozak/DeeperResearch) · 个人维护 · 中文 README
 
 **多智能体协作的深度研究系统：自动拆解课题并行检索并生成研报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baoozak/DeeperResearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 43（+0）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

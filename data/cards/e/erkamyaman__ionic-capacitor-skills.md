@@ -1,6 +1,6 @@
 # erkamyaman/ionic-capacitor-skills
 
-⭐ 16 · MIT · 推送 2026-10-20 · [GitHub](https://github.com/erkamyaman/ionic-capacitor-skills) · [官网](https://www.skills.sh/erkamyaman/ionic-capacitor-skills) · 个人维护
+⭐ 16 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/erkamyaman/ionic-capacitor-skills) · [官网](https://www.skills.sh/erkamyaman/ionic-capacitor-skills) · 个人维护
 
 **面向 AI 编码 agent 的 Ionic/Capacitor 移动应用技能集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erkamyaman/ionic-capacitor-skills 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

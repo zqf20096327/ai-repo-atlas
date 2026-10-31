@@ -1,6 +1,6 @@
 # AI-PM-Wiki/AIPM
 
-⭐ 50 · JavaScript · 推送 2026-10-23 · [GitHub](https://github.com/AI-PM-Wiki/AIPM) · [官网](https://aipm.ac/) · 组织维护 · 中文 README
+⭐ 51 · JavaScript · 推送 2026-10-23 · [GitHub](https://github.com/AI-PM-Wiki/AIPM) · [官网](https://aipm.ac/) · 组织维护 · 中文 README
 
 **面向 AI 产品经理的知识整合 wiki 站点**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AI-PM-Wiki/AIPM 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 44 --> 51
-    line [45, 47, 50, 50]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 44 --> 52
+    line [45, 47, 50, 51]
 ```
 
-2026-10-18 45 → 2026-10-30 50（+5）
+2026-10-18 45 → 2026-10-31 51（+6）
 
 
 ---

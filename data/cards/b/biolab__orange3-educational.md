@@ -44,12 +44,12 @@ biolab 维护的 Orange 3 教育扩展插件（add-on），提供一组教学用
 ```mermaid
 xychart-beta
     title "biolab/orange3-educational 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

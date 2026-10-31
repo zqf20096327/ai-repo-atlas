@@ -1,6 +1,6 @@
 # a2aproject/a2a-go
 
-⭐ 495 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/a2aproject/a2a-go) · [官网](https://a2a-protocol.org/) · 组织维护
+⭐ 496 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/a2aproject/a2a-go) · [官网](https://a2a-protocol.org/) · 组织维护
 
 **A2A 协议的 Go SDK：构建与调用 agent 服务端和客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a2aproject/a2a-go 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 485 --> 496
-    line [486, 489, 490, 491, 495, 495]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 485 --> 497
+    line [486, 489, 490, 491, 495, 496]
 ```
 
-2026-10-18 486 → 2026-10-30 495（+9）
+2026-10-18 486 → 2026-10-31 496（+10）
 
 
 ---

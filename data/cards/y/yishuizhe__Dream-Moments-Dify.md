@@ -1,6 +1,6 @@
 # yishuizhe/Dream-Moments-Dify
 
-⭐ 56 · Python · NOASSERTION · 推送 2026-10-04 · [GitHub](https://github.com/yishuizhe/Dream-Moments-Dify) · 个人维护 · 中文 README
+⭐ 56 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/yishuizhe/Dream-Moments-Dify) · 个人维护 · 中文 README
 
 **面向个人用户的 Windows 微信 4 情感陪伴聊天机器人，接入 Dify/OpenAI 兼容 API**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "yishuizhe/Dream-Moments-Dify 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
     y-axis "stars" 52 --> 57
     line [53, 54, 55, 56, 56]
 ```
 
-2026-10-18 53 → 2026-10-30 56（+3）
+2026-10-18 53 → 2026-10-31 56（+3）
 
 
 ---

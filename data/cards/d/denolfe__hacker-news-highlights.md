@@ -1,6 +1,6 @@
 # denolfe/hacker-news-highlights
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/denolfe/hacker-news-highlights) · [官网](https://hacker-news-highlights.transistor.fm/) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/denolfe/hacker-news-highlights) · [官网](https://hacker-news-highlights.transistor.fm/) · 个人维护
 
 **每日将 Hacker News 前 10 帖生成 AI 摘要播客**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "denolfe/hacker-news-highlights 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

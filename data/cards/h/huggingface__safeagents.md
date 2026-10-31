@@ -1,6 +1,6 @@
 # huggingface/safeagents
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
 
 **本地代理：在编码 agent 执行前检查并拦截危险工具调用**
 
@@ -39,6 +39,18 @@
 
 > L3: A lightweight local proxy between your agent and its model server. It checks every tool call the model makes before 
 > L70: 1. **Request-only checks.** A call is blocked if it uses a tool the request never declared, or if its arguments con
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/safeagents 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 23 --> 49
+    line [25, 47]
+```
+
+2026-10-30 25 → 2026-10-31 47（+22）
 
 
 ---

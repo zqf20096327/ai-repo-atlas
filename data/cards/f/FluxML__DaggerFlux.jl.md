@@ -44,12 +44,12 @@ Dagger.jl 与 Flux.jl 的早期集成包，通过 Dagger 的任务图调度将 F
 ```mermaid
 xychart-beta
     title "FluxML/DaggerFlux.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-18 68 → 2026-10-30 68（+0）
+2026-10-18 68 → 2026-10-31 68（+0）
 
 
 ---

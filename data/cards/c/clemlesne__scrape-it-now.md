@@ -1,6 +1,6 @@
 # clemlesne/scrape-it-now
 
-⭐ 543 · Python · Apache-2.0 · 推送 2025-11-03 · [GitHub](https://github.com/clemlesne/scrape-it-now) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI 管线的可并行网页爬虫 CLI，输出 markdown 并建立语义索引**
 
@@ -11,7 +11,7 @@ Python CLI 网页爬虫，分 scrape 与 index 两阶段：爬取阶段用 Playw
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

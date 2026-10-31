@@ -46,12 +46,12 @@ Devinterview.io 维护的 PCA（主成分分析）面试题库：收录 48 道�
 ```mermaid
 xychart-beta
     title "Devinterview-io/pca-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

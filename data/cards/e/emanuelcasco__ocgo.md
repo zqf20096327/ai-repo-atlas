@@ -1,6 +1,6 @@
 # emanuelcasco/ocgo
 
-⭐ 101 · Go · MIT · 推送 2026-06-04 · [GitHub](https://github.com/emanuelcasco/ocgo) · 个人维护
+⭐ 100 · Go · MIT · 推送 2026-06-04 · [GitHub](https://github.com/emanuelcasco/ocgo) · 个人维护
 
 **让 Claude Code / Codex CLI 使用 OpenCode Go 订阅的本地代理 CLI**
 
@@ -46,12 +46,12 @@ Go 编写的命令行工具：在本地 127.0.0.1:3456 启动兼容代理，将 
 ```mermaid
 xychart-beta
     title "emanuelcasco/ocgo 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 100 --> 104
-    line [103, 101, 101]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 99 --> 104
+    line [103, 101, 100]
 ```
 
-2026-10-18 103 → 2026-10-30 101（-2）
+2026-10-18 103 → 2026-10-31 100（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuanzui0728/Enclave
 
-⭐ 191 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yuanzui0728/Enclave) · [官网](http://enclaveai.top/) · 个人维护 · 中文 README
+⭐ 192 · TypeScript · MIT · 推送 2026-06-26 · [GitHub](https://github.com/yuanzui0728/Enclave) · [官网](http://enclaveai.top/) · 个人维护 · 中文 README
 
 **自部署的 AI 私人助手世界：AI 角色社交+知识库+代办**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuanzui0728/Enclave 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 186 --> 192
-    line [187, 189, 191, 191]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 186 --> 193
+    line [187, 189, 191, 192]
 ```
 
-2026-10-18 187 → 2026-10-30 191（+4）
+2026-10-18 187 → 2026-10-31 192（+5）
 
 
 ---

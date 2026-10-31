@@ -1,6 +1,6 @@
 # floomhq/moto
 
-⭐ 32 · Shell · MIT · 推送 2026-06-10 · [GitHub](https://github.com/floomhq/moto) · [官网](https://github.com/floomhq/moto#readme) · 组织维护
+⭐ 33 · Shell · MIT · 推送 2026-06-10 · [GitHub](https://github.com/floomhq/moto) · [官网](https://github.com/floomhq/moto#readme) · 组织维护
 
 **面向 Claude Code/Codex 的终端 AI agent 运行环境与安全框架**
 
@@ -46,12 +46,12 @@ Floom 从 500+ 真实会话中提取的终端 AI agent 操作环境：以 Claude
 ```mermaid
 xychart-beta
     title "floomhq/moto 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 33（+1）
 
 
 ---

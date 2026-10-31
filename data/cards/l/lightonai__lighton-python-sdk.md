@@ -1,6 +1,6 @@
 # lightonai/lighton-python-sdk
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/lightonai/lighton-python-sdk) · [官网](https://lighton.ai) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/lightonai/lighton-python-sdk) · [官网](https://lighton.ai) · 组织维护
 
 **LightOn 检索/RAG 平台的官方 Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lightonai/lighton-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

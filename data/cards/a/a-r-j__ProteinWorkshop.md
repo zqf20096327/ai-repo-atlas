@@ -1,6 +1,6 @@
 # a-r-j/ProteinWorkshop
 
-⭐ 279 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
+⭐ 279 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
 
 **面向蛋白质结构表征学习的基准评测框架（ICLR 2024）**
 
@@ -39,6 +39,18 @@
 
 > L15: This repository provides the code for the protein structure representation learning benchmark detailed in the paper
 > L19: The benchmark can be used as a working template for a protein representation learning research project, a library o
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "a-r-j/ProteinWorkshop 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 278 --> 280
+    line [279, 279]
+```
+
+2026-10-30 279 → 2026-10-31 279（+0）
 
 
 ---

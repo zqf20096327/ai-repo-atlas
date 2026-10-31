@@ -1,6 +1,6 @@
 # AstralBeamAI/astralbeam
 
-⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/AstralBeamAI/astralbeam) · [官网](https://astralbeam.ai) · 组织维护
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/AstralBeamAI/astralbeam) · [官网](https://astralbeam.ai) · 组织维护
 
 **嵌入式 AI agent SDK：给 Web 应用添加 Cursor 风格助手**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "AstralBeamAI/astralbeam 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    title "AstralBeamAI/astralbeam 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30]
+    line [27, 28, 29, 30, 30]
 ```
 
-2026-10-18 27 → 2026-10-30 30（+3）
+2026-10-18 27 → 2026-10-31 30（+3）
 
 
 ---

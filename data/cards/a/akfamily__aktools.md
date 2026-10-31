@@ -1,6 +1,6 @@
 # akfamily/aktools
 
-⭐ 1,503 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
+⭐ 1,503 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
 
 **把 AKShare 千余财经数据接口封装为 HTTP API 与 MCP 服务**
 
@@ -39,6 +39,18 @@
 
 > L17: AKTools 把开源财经数据接口库 AKShare 的一千多个接口变成两种开箱即用的服务：
 > L20: - **MCP 服务**：在 Claude、Cursor 等 AI 助手中直接用自然语言提问，助手会自己查找接口、填写参数并取回数据。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "akfamily/aktools 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 1502 --> 1504
+    line [1503, 1503]
+```
+
+2026-10-30 1,503 → 2026-10-31 1,503（+0）
 
 
 ---

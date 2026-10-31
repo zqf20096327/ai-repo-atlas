@@ -1,6 +1,6 @@
 # bubbuild/republic
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/bubbuild/republic) · [官网](https://getrepublic.org) · 组织维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bubbuild/republic) · [官网](https://getrepublic.org) · 组织维护
 
 **跨 AI 提供商的统一 Python SDK：聊天/流式/工具调用/结构化输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bubbuild/republic 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 67 --> 83
     line [69, 68, 78, 80, 81, 82, 82]
 ```
 
-2026-10-18 69 → 2026-10-30 82（+13）
+2026-10-18 69 → 2026-10-31 82（+13）
 
 
 ---

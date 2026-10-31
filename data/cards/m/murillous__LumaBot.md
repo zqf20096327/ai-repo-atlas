@@ -1,6 +1,6 @@
 # murillous/LumaBot
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/murillous/LumaBot) · 个人维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/murillous/LumaBot) · 个人维护
 
 **基于 Bridger 的 WhatsApp 个人助理机器人：多模型对话与群聊工具**
 
@@ -40,6 +40,18 @@
 > L10: Bot de WhatsApp com a **Luma**, assistente virtual com personalidade: conversa por IA (Gemini,
 > L11: OpenAI, Claude, DeepSeek), faz figurinhas, transcreve áudio, resume a conversa, agenda lembretes e
 > L196: |`ai`|Cadeia de modelos (Gemini, OpenAI, Claude, DeepSeek) com fallback, tool calling e busca nativa. Oferece o se
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "murillous/LumaBot 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
+```
+
+2026-10-30 27 → 2026-10-31 27（+0）
 
 
 ---

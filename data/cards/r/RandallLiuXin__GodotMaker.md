@@ -1,6 +1,6 @@
 # RandallLiuXin/GodotMaker
 
-⭐ 557 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RandallLiuXin/GodotMaker) · [官网](https://randallliuxin.github.io/GodotMaker/) · 个人维护 · 中文 README
+⭐ 558 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RandallLiuXin/GodotMaker) · [官网](https://randallliuxin.github.io/GodotMaker/) · 个人维护 · 中文 README
 
 **文本到可玩游戏的自动化流水线，产出本地 Godot 工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RandallLiuXin/GodotMaker 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 553 --> 558
-    line [554, 555, 554, 555, 557, 557]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 553 --> 559
+    line [554, 555, 554, 555, 557, 558]
 ```
 
-2026-10-18 554 → 2026-10-30 557（+3）
+2026-10-18 554 → 2026-10-31 558（+4）
 
 
 ---

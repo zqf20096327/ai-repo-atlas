@@ -1,6 +1,6 @@
 # Detrol/quorum-cli
 
-⭐ 124 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/Detrol/quorum-cli) · 个人维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/Detrol/quorum-cli) · 个人维护
 
 **让多个 LLM 在终端进行结构化辩论的多智能体 CLI**
 
@@ -45,12 +45,12 @@ Quorum 是终端多智能体 AI 讨论系统：向多个模型（Claude、GPT、
 ```mermaid
 xychart-beta
     title "Detrol/quorum-cli 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 120 --> 125
-    line [121, 122, 123, 124, 124]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 120 --> 127
+    line [121, 122, 123, 124, 126]
 ```
 
-2026-10-18 121 → 2026-10-30 124（+3）
+2026-10-18 121 → 2026-10-31 126（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # PerryLink/dsh-plugin-guide
 
-⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-plugin-guide) · [官网](https://perrylink.github.io/plugins/dsh-plugin-guide/) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/PerryLink/dsh-plugin-guide) · [官网](https://perrylink.github.io/plugins/dsh-plugin-guide/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件开发知识库与 CLI 工具链，装为 agent 技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-plugin-guide 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 50 --> 63
-    line [51, 56, 57, 59, 61, 62, 62]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 50 --> 65
+    line [51, 56, 57, 59, 61, 62, 64]
 ```
 
-2026-10-18 51 → 2026-10-30 62（+11）
+2026-10-18 51 → 2026-10-31 64（+13）
 
 
 ---

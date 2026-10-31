@@ -1,6 +1,6 @@
 # ant-design/x
 
-⭐ 4,823 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/ant-design/x) · [官网](https://x.ant.design) · 组织维护 · 中文 README
+⭐ 4,825 · TypeScript · 推送 2026-10-29 · [GitHub](https://github.com/ant-design/x) · [官网](https://x.ant.design) · 组织维护 · 中文 README
 
 **蚂蚁开源的 React AI 聊天界面组件库**
 
@@ -46,13 +46,13 @@ Ant Design X 提供面向 LLM 应用的 React 组件体系，包含 @ant-design/
 
 ```mermaid
 xychart-beta
-    title "ant-design/x 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4812 --> 4824
-    line [4813, 4815, 4817, 4819, 4820, 4823]
+    title "ant-design/x 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4812 --> 4826
+    line [4813, 4815, 4817, 4819, 4820, 4823, 4825]
 ```
 
-2026-10-18 4,813 → 2026-10-30 4,823（+10）
+2026-10-18 4,813 → 2026-10-31 4,825（+12）
 
 
 ---

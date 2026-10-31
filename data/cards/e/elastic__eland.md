@@ -45,12 +45,12 @@ Elastic 官方维护的 Python 客户端：以 Pandas 兼容的 DataFrame API �
 ```mermaid
 xychart-beta
     title "elastic/eland 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 692 --> 694
     line [693, 693]
 ```
 
-2026-10-18 693 → 2026-10-30 693（+0）
+2026-10-18 693 → 2026-10-31 693（+0）
 
 
 ---

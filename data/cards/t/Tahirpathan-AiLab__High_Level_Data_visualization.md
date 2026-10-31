@@ -45,12 +45,12 @@ Python 脚本集合，处理 MetaMotion 可穿戴设备的加速度计与陀螺�
 ```mermaid
 xychart-beta
     title "Tahirpathan-AiLab/High_Level_Data_visualization 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 24（+1）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

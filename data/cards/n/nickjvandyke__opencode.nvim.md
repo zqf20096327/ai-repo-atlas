@@ -1,6 +1,6 @@
 # nickjvandyke/opencode.nvim
 
-⭐ 3,901 · Lua · MIT · 推送 2026-10-24 · [GitHub](https://github.com/nickjvandyke/opencode.nvim) · 个人维护
+⭐ 3,903 · Lua · MIT · 推送 2026-10-30 · [GitHub](https://github.com/nickjvandyke/opencode.nvim) · 个人维护
 
 **在 Neovim 中接入 OpenCode AI 编程助手的插件**
 
@@ -45,12 +45,12 @@ Neovim 插件，通过 OpenCode 的 TUI 与 API 将其接入编辑器：自动�
 ```mermaid
 xychart-beta
     title "nickjvandyke/opencode.nvim 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3890 --> 3903
-    line [3891, 3894, 3897, 3899, 3900, 3902, 3901, 3901]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 3890 --> 3904
+    line [3891, 3894, 3897, 3899, 3900, 3902, 3901, 3903]
 ```
 
-2026-10-18 3,891 → 2026-10-30 3,901（+10）
+2026-10-18 3,891 → 2026-10-31 3,903（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # pinkpixel-dev/mem0-mcp
 
-⭐ 96 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pinkpixel-dev/mem0-mcp) · [官网](https://pinkpixel.dev) · 组织维护
+⭐ 96 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/pinkpixel-dev/mem0-mcp) · [官网](https://pinkpixel.dev) · 组织维护
 
 **为 AI agent 提供跨会话长期记忆的 Mem0 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pinkpixel-dev/mem0-mcp 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 95 --> 98
     line [97, 96, 96]
 ```
 
-2026-10-18 97 → 2026-10-30 96（-1）
+2026-10-18 97 → 2026-10-31 96（-1）
 
 
 ---

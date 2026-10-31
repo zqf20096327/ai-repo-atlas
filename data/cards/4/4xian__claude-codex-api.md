@@ -1,6 +1,6 @@
 # 4xian/claude-codex-api
 
-⭐ 210 · JavaScript · 推送 2026-06-16 · [GitHub](https://github.com/4xian/claude-codex-api) · 个人维护 · 中文 README
+⭐ 211 · JavaScript · 推送 2026-06-16 · [GitHub](https://github.com/4xian/claude-codex-api) · 个人维护 · 中文 README
 
 **Claude Code / Codex API 配置切换管理 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "4xian/claude-codex-api 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 208 --> 211
-    line [210, 209, 210, 210]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 208 --> 212
+    line [210, 209, 210, 211]
 ```
 
-2026-10-18 210 → 2026-10-30 210（+0）
+2026-10-18 210 → 2026-10-31 211（+1）
 
 
 ---

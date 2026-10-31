@@ -1,6 +1,6 @@
 # medhiclb/HelixAI
 
-⭐ 28 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/medhiclb/HelixAI) · [官网](https://helix-agence.fr) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/medhiclb/HelixAI) · [官网](https://helix-agence.fr) · 个人维护 · 中文 README
 
 **本地优先的开源 AI 工作台：聊天/Agent/编码/RAG/微调**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "medhiclb/HelixAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 21 --> 29
-    line [22, 23, 26, 28]
+    title "medhiclb/HelixAI 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 21 --> 31
+    line [22, 23, 26, 28, 30]
 ```
 
-2026-10-18 22 → 2026-10-30 28（+6）
+2026-10-18 22 → 2026-10-31 30（+8）
 
 
 ---

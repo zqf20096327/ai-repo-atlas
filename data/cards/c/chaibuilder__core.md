@@ -1,6 +1,6 @@
 # chaibuilder/core
 
-⭐ 487 · TypeScript · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/chaibuilder/core) · [官网](https://chaibuilder.com) · 组织维护
+⭐ 488 · TypeScript · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/chaibuilder/core) · [官网](https://chaibuilder.com) · 组织维护
 
 **面向 Next.js 的开源可视化建站器，含 AI 辅助编辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chaibuilder/core 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 485 --> 488
-    line [486, 487, 487]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 485 --> 489
+    line [486, 487, 488]
 ```
 
-2026-10-18 486 → 2026-10-30 487（+1）
+2026-10-18 486 → 2026-10-31 488（+2）
 
 
 ---

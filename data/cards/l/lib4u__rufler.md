@@ -1,6 +1,6 @@
 # lib4u/rufler
 
-⭐ 24 · Python · 推送 2026-04-21 · [GitHub](https://github.com/lib4u/rufler) · 个人维护
+⭐ 25 · Python · 推送 2026-04-21 · [GitHub](https://github.com/lib4u/rufler) · 个人维护
 
 **把 ruflo 多命令引导封装为单个 YAML 的 Claude 群集编排工具**
 
@@ -45,12 +45,12 @@ rufler 是围绕 TypeScript 编排 CLI ruflo（claude-flow 家族）的 Python �
 ```mermaid
 xychart-beta
     title "lib4u/rufler 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-18 24 → 2026-10-30 24（+0）
+2026-10-18 24 → 2026-10-31 25（+1）
 
 
 ---

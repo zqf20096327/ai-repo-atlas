@@ -1,6 +1,6 @@
 # richarvey/OmniMem
 
-⭐ 63 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/richarvey/OmniMem) · [官网](https://omnimem.org) · 个人维护
+⭐ 63 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/richarvey/OmniMem) · [官网](https://omnimem.org) · 个人维护
 
 **给 AI agent 用的自托管跨会话语义记忆，经 MCP 提供服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "richarvey/OmniMem 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 60 --> 64
     line [61, 62, 63, 63]
 ```
 
-2026-10-18 61 → 2026-10-30 63（+2）
+2026-10-18 61 → 2026-10-31 63（+2）
 
 
 ---

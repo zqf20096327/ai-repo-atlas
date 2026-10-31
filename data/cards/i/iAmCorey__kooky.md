@@ -1,6 +1,6 @@
 # iAmCorey/kooky
 
-⭐ 654 · Swift · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iAmCorey/kooky) · 个人维护 · 中文 README
+⭐ 655 · Swift · MIT · 推送 2026-10-12 · [GitHub](https://github.com/iAmCorey/kooky) · 个人维护 · 中文 README
 
 **面向 AI 编码的 macOS 极简终端，一键启动并追踪编码 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iAmCorey/kooky 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
-    y-axis "stars" 651 --> 655
-    line [652, 654, 654]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
+    y-axis "stars" 651 --> 656
+    line [652, 654, 655]
 ```
 
-2026-10-18 652 → 2026-10-30 654（+2）
+2026-10-18 652 → 2026-10-31 655（+3）
 
 
 ---

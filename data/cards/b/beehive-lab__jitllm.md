@@ -1,6 +1,6 @@
 # beehive-lab/jitllm
 
-⭐ 292 · Java · MIT · 推送 2026-10-29 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
+⭐ 292 · Java · MIT · 推送 2026-10-30 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
 
 **JVM 上的 LLM 推理与服务引擎：纯 Java 经 TornadoVM JIT 到任意 GPU**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beehive-lab/jitllm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30"]
+    title "beehive-lab/jitllm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 288 --> 293
-    line [290, 289, 290, 291, 292]
+    line [290, 289, 290, 291, 292, 292]
 ```
 
-2026-10-18 290 → 2026-10-30 292（+2）
+2026-10-18 290 → 2026-10-31 292（+2）
 
 
 ---

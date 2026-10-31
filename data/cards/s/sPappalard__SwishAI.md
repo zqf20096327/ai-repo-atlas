@@ -1,6 +1,6 @@
 # sPappalard/SwishAI
 
-⭐ 107 · Python · AGPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/sPappalard/SwishAI) · 个人维护
+⭐ 108 · Python · AGPL-3.0 · 推送 2026-08-16 · [GitHub](https://github.com/sPappalard/SwishAI) · 个人维护
 
 **篮球投篮视频分析应用：YOLOv11 检测球员与球并统计命中率**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sPappalard/SwishAI 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 104 --> 108
-    line [105, 106, 107, 107]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 104 --> 109
+    line [105, 106, 107, 108]
 ```
 
-2026-10-18 105 → 2026-10-30 107（+2）
+2026-10-18 105 → 2026-10-31 108（+3）
 
 
 ---

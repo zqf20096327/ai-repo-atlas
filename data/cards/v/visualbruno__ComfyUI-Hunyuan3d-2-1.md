@@ -1,6 +1,6 @@
 # visualbruno/ComfyUI-Hunyuan3d-2-1
 
-⭐ 391 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/visualbruno/ComfyUI-Hunyuan3d-2-1) · 个人维护
+⭐ 392 · Python · NOASSERTION · 推送 2026-09-08 · [GitHub](https://github.com/visualbruno/ComfyUI-Hunyuan3d-2-1) · 个人维护
 
 **ComfyUI 中运行腾讯 Hunyuan3D-2.1 的图生 3D 自定义节点封装**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "visualbruno/ComfyUI-Hunyuan3d-2-1 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 387 --> 393
-    line [388, 389, 390, 391, 392, 391, 391]
+    line [388, 389, 390, 391, 392, 391, 392]
 ```
 
-2026-10-18 388 → 2026-10-30 391（+3）
+2026-10-18 388 → 2026-10-31 392（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # RiccardoBiosas/awesome-MLSecOps
 
-⭐ 482 · Astro · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RiccardoBiosas/awesome-MLSecOps) · [官网](https://awesomemlsecops.com/) · 个人维护
+⭐ 483 · Astro · MIT · 推送 2026-10-27 · [GitHub](https://github.com/RiccardoBiosas/awesome-MLSecOps) · [官网](https://awesomemlsecops.com/) · 个人维护
 
 **面向安全工程师的 MLSecOps 开源工具与研究策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RiccardoBiosas/awesome-MLSecOps 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 476 --> 483
-    line [477, 480, 481, 482, 482]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 476 --> 484
+    line [477, 480, 481, 482, 483]
 ```
 
-2026-10-18 477 → 2026-10-30 482（+5）
+2026-10-18 477 → 2026-10-31 483（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # nudgebee/nudgebee
 
-⭐ 519 · Go · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/nudgebee/nudgebee) · [官网](https://nudgebee.com/) · 组织维护
+⭐ 520 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/nudgebee/nudgebee) · [官网](https://nudgebee.com/) · 组织维护
 
 **开源 SRE 副驾驶平台：跨 K8s 与多云的可观测、FinOps 与事件响应**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nudgebee/nudgebee 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    title "nudgebee/nudgebee 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 387 --> 533
-    line [399, 400, 402, 520, 521, 519]
+    line [399, 400, 402, 520, 521, 519, 520]
 ```
 
-2026-10-18 399 → 2026-10-30 519（+120）
+2026-10-18 399 → 2026-10-31 520（+121）
 
 
 ---

@@ -1,6 +1,6 @@
 # sammcj/agentic-coding
 
-⭐ 167 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/sammcj/agentic-coding) · [官网](https://smcleod.net) · 个人维护
+⭐ 167 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/sammcj/agentic-coding) · [官网](https://smcleod.net) · 个人维护
 
 **agentic 编程的规则、技能与模板合集，供编码 agent 复用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sammcj/agentic-coding 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 163 --> 168
     line [164, 165, 166, 167, 167]
 ```
 
-2026-10-18 164 → 2026-10-30 167（+3）
+2026-10-18 164 → 2026-10-31 167（+3）
 
 
 ---

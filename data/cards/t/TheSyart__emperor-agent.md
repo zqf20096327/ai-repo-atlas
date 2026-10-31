@@ -1,6 +1,6 @@
 # TheSyart/emperor-agent
 
-⭐ 209 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
+⭐ 212 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
 
 **本地运行的个人桌面 Agent 工作台（对话/项目工作/规划/持续任务）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TheSyart/emperor-agent 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 197 --> 210
-    line [198, 200, 202, 203, 204, 207, 209, 209]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 197 --> 213
+    line [198, 200, 202, 203, 204, 207, 209, 212]
 ```
 
-2026-10-18 198 → 2026-10-30 209（+11）
+2026-10-18 198 → 2026-10-31 212（+14）
 
 
 ---

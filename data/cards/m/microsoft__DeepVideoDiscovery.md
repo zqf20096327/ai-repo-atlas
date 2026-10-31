@@ -1,6 +1,6 @@
 # microsoft/DeepVideoDiscovery
 
-⭐ 426 · Python · MIT · 推送 2025-11-03 · [GitHub](https://github.com/microsoft/DeepVideoDiscovery) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向超长视频理解与问答的深度研究式 agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

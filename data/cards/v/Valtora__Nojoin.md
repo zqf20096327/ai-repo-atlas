@@ -1,6 +1,6 @@
 # Valtora/Nojoin
 
-⭐ 86 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/Valtora/Nojoin) · [官网](https://www.nojoin.co.uk) · 个人维护
+⭐ 86 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Valtora/Nojoin) · [官网](https://www.nojoin.co.uk) · 个人维护
 
 **自托管会议记录工具：浏览器录音、本地转写、AI 客户端经 MCP 读写笔记库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Valtora/Nojoin 星数(近 4 点)"
-    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-27", "2026-10-31"]
     y-axis "stars" 83 --> 87
     line [84, 85, 86, 86]
 ```
 
-2026-10-19 84 → 2026-10-30 86（+2）
+2026-10-19 84 → 2026-10-31 86（+2）
 
 
 ---

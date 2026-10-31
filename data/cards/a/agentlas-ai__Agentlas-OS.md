@@ -1,6 +1,6 @@
 # agentlas-ai/Agentlas-OS
 
-⭐ 1,589 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
+⭐ 1,590 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
 
 **在 Claude Code/Codex/Cursor 等宿主内组建专家 agent 团队的开源路由引擎**
 
@@ -45,12 +45,12 @@ Agentlas OS（Hephaestus）是运行在 CLI agent 宿主（Claude Code、Codex�
 ```mermaid
 xychart-beta
     title "agentlas-ai/Agentlas-OS 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1579 --> 1616
-    line [1601, 1613, 1587, 1588, 1582, 1584, 1583, 1587, 1589, 1589]
+    line [1601, 1613, 1587, 1588, 1582, 1584, 1583, 1587, 1589, 1590]
 ```
 
-2026-10-18 1,601 → 2026-10-30 1,589（-12）
+2026-10-18 1,601 → 2026-10-31 1,590（-11）
 
 
 ---

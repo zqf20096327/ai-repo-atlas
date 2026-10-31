@@ -1,6 +1,6 @@
 # Practice019/multi2api
 
-⭐ 28 · Go · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Practice019/multi2api) · 个人维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Practice019/multi2api) · 个人维护 · 中文 README
 
 **聚合 13 个 AI 上游账号为 OpenAI 兼容 API 的网关**
 
@@ -48,12 +48,12 @@ Go 编写的多上游聚合反向代理网关：把腾讯 CodeBuddy/WorkBuddy、
 ```mermaid
 xychart-beta
     title "Practice019/multi2api 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 18 --> 29
     line [19, 21, 24, 25, 26, 28, 28]
 ```
 
-2026-10-18 19 → 2026-10-30 28（+9）
+2026-10-18 19 → 2026-10-31 28（+9）
 
 
 ---

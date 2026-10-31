@@ -1,6 +1,6 @@
 # ikokkari/AI
 
-⭐ 16 · Java · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/ikokkari/AI) · 个人维护
+⭐ 17 · Java · GPL-3.0 · 推送 2026-04-06 · [GitHub](https://github.com/ikokkari/AI) · 个人维护
 
 **大学 AI 课程的教学材料集：讲义、阅读与 Prolog/Java/Python 代码**
 
@@ -43,12 +43,12 @@ Ryerson University（Chang School）CCPS 721 Artificial Intelligence I 课程资
 ```mermaid
 xychart-beta
     title "ikokkari/AI 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 17（+1）
 
 
 ---

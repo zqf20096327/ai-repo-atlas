@@ -1,6 +1,6 @@
 # johannships/reels-engine
 
-⭐ 15 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/johannships/reels-engine) · [官网](https://johann.fyi) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/johannships/reels-engine) · [官网](https://johann.fyi) · 个人维护
 
 **用 AI agent 把真人原始素材自动剪辑成短视频的引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "johannships/reels-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 16（+1）
 
 
 ---

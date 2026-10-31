@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "theexperiencecompany/gaia-ui 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "theexperiencecompany/gaia-ui 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 222 --> 225
-    line [223, 224]
+    line [223, 224, 224]
 ```
 
-2026-10-18 223 → 2026-10-30 224（+1）
+2026-10-18 223 → 2026-10-31 224（+1）
 
 
 ---

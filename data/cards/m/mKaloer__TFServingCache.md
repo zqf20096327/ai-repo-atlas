@@ -1,6 +1,6 @@
 # mKaloer/TFServingCache
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/mKaloer/TFServingCache) · 个人维护
+⭐ 24 · Go · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/mKaloer/TFServingCache) · 个人维护
 
 **TF Serving 的分布式模型缓存与负载均衡器，按需加载卸载模型**
 
@@ -39,6 +39,18 @@
 
 > L3: TF Serving load balancer/model cache that dynamically loads and unloads models into TensorFlow Serving services on d
 > L19: TF Serving Cache distributes the models among a number of TensorFlow Serving services, each providing at most `N` m
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mKaloer/TFServingCache 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-10-30 24 → 2026-10-31 24（+0）
 
 
 ---

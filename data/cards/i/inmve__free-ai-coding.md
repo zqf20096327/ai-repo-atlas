@@ -1,6 +1,6 @@
 # inmve/free-ai-coding
 
-⭐ 767 · 推送 2026-09-26 · [GitHub](https://github.com/inmve/free-ai-coding) · 个人维护
+⭐ 766 · 推送 2026-09-26 · [GitHub](https://github.com/inmve/free-ai-coding) · 个人维护
 
 **追踪 AI 编码工具额度重置与额外用量的信息清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inmve/free-ai-coding 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 765 --> 768
-    line [767, 766, 767, 767]
+    line [767, 766, 767, 766]
 ```
 
-2026-10-18 767 → 2026-10-30 767（+0）
+2026-10-18 767 → 2026-10-31 766（-1）
 
 
 ---

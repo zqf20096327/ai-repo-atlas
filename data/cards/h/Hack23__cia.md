@@ -1,6 +1,6 @@
 # Hack23/cia
 
-⭐ 241 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Hack23/cia) · [官网](https://hack23.com/cia-docs.html) · 组织维护
+⭐ 241 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Hack23/cia) · [官网](https://hack23.com/cia-docs.html) · 组织维护
 
 **瑞典政治OSINT分析平台：追踪议会、政府与公共机构数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hack23/cia 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-29", "2026-10-31"]
     y-axis "stars" 240 --> 243
     line [241, 242, 241, 241]
 ```
 
-2026-10-18 241 → 2026-10-30 241（+0）
+2026-10-18 241 → 2026-10-31 241（+0）
 
 
 ---

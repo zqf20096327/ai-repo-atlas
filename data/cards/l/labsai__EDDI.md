@@ -1,6 +1,6 @@
 # labsai/EDDI
 
-⭐ 387 · Java · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/labsai/EDDI) · [官网](https://eddi.technology) · 组织维护
+⭐ 387 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/labsai/EDDI) · [官网](https://eddi.technology) · 组织维护
 
 **面向生产环境的对话式 AI 多智能体编排中间件**
 
@@ -47,12 +47,12 @@ EDDI 是用 Java 25 与 Quarkus 构建的配置驱动多智能体编排中间件
 ```mermaid
 xychart-beta
     title "labsai/EDDI 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 384 --> 388
     line [385, 387, 387]
 ```
 
-2026-10-18 385 → 2026-10-30 387（+2）
+2026-10-18 385 → 2026-10-31 387（+2）
 
 
 ---

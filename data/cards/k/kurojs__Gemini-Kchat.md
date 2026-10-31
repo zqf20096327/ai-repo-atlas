@@ -1,6 +1,6 @@
 # kurojs/Gemini-Kchat
 
-⭐ 20 · QML · LGPL-2.1 · 推送 2026-10-28 · [GitHub](https://github.com/kurojs/Gemini-Kchat) · [官网](https://www.pling.com/p/2327619/) · 个人维护
+⭐ 20 · QML · LGPL-2.1 · 推送 2026-10-30 · [GitHub](https://github.com/kurojs/Gemini-Kchat) · [官网](https://www.pling.com/p/2327619/) · 个人维护
 
 **KDE Plasma 桌面聊天挂件：在面板中直接使用 Google Gemini**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kurojs/Gemini-Kchat 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

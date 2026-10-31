@@ -1,6 +1,6 @@
 # FirePlank/infinite-chess-engine
 
-⭐ 28 · Rust · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/FirePlank/infinite-chess-engine) · 个人维护
+⭐ 28 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/FirePlank/infinite-chess-engine) · 个人维护
 
 **为 Infinite Chess 网站编写的无限棋盘 Rust 国际象棋引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FirePlank/infinite-chess-engine 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

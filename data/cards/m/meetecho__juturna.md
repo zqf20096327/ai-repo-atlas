@@ -46,12 +46,12 @@ Juturna 是 Meetecho 维护的 Python 数据管线库，面向快速原型开发
 ```mermaid
 xychart-beta
     title "meetecho/juturna 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---

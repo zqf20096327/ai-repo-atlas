@@ -1,6 +1,6 @@
 # vailsen/paperless-brain
 
-⭐ 31 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vailsen/paperless-brain) · [官网](https://github.com/vailsen/paperless-brain#quick-start-docker) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vailsen/paperless-brain) · [官网](https://github.com/vailsen/paperless-brain#quick-start-docker) · 个人维护
 
 **面向 Paperless-ngx 用户：用本地或云端 LLM 与文档档案对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vailsen/paperless-brain 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-31"]
     y-axis "stars" 29 --> 33
     line [30, 32, 31, 31]
 ```
 
-2026-10-18 30 → 2026-10-30 31（+1）
+2026-10-18 30 → 2026-10-31 31（+1）
 
 
 ---

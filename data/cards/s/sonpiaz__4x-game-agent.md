@@ -45,13 +45,13 @@ Python 框架，用于构建自动游玩 4X 移动策略游戏（Kingshot、Rise
 
 ```mermaid
 xychart-beta
-    title "sonpiaz/4x-game-agent 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "sonpiaz/4x-game-agent 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 20 --> 24
-    line [21, 23]
+    line [21, 23, 23]
 ```
 
-2026-10-18 21 → 2026-10-30 23（+2）
+2026-10-18 21 → 2026-10-31 23（+2）
 
 
 ---

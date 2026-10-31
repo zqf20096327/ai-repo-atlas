@@ -1,6 +1,6 @@
 # TaterTotterson/Tater
 
-⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/TaterTotterson/Tater) · [官网](https://taterassistant.com) · 个人维护
+⭐ 44 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/TaterTotterson/Tater) · [官网](https://taterassistant.com) · 个人维护
 
 **本地自托管的个人 AI 助手平台，替代 Siri/Alexa**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TaterTotterson/Tater 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-18 43 → 2026-10-30 44（+1）
+2026-10-18 43 → 2026-10-31 44（+1）
 
 
 ---

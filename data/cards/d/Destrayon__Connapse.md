@@ -1,6 +1,6 @@
 # Destrayon/Connapse
 
-⭐ 20 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Destrayon/Connapse) · 个人维护
+⭐ 21 · C# · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Destrayon/Connapse) · 个人维护
 
 **给 AI agent 用的自托管知识后端：持久记忆+混合检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Destrayon/Connapse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    line [21, 20, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 20（-1）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

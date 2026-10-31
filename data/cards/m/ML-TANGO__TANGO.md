@@ -46,12 +46,12 @@ TANGO（Target Aware No-code neural network Generation and Operation framework�
 ```mermaid
 xychart-beta
     title "ML-TANGO/TANGO 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 156 --> 160
     line [157, 159, 159]
 ```
 
-2026-10-18 157 → 2026-10-30 159（+2）
+2026-10-18 157 → 2026-10-31 159（+2）
 
 
 ---

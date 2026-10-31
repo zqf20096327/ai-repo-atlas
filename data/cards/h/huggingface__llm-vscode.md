@@ -1,6 +1,6 @@
 # huggingface/llm-vscode
 
-⭐ 1,314 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-vscode) · 组织维护
+⭐ 1,315 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/llm-vscode) · 组织维护
 
 **Hugging Face 的 VSCode LLM 代码补全扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/llm-vscode 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1313 --> 1315
-    line [1314, 1314]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1313 --> 1316
+    line [1314, 1315]
 ```
 
-2026-10-18 1,314 → 2026-10-30 1,314（+0）
+2026-10-18 1,314 → 2026-10-31 1,315（+1）
 
 
 ---

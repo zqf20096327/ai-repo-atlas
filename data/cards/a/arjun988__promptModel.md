@@ -1,6 +1,6 @@
 # arjun988/promptModel
 
-⭐ 32 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/arjun988/promptModel) · 个人维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-08-30 · [GitHub](https://github.com/arjun988/promptModel) · 个人维护
 
 **本地提示词质量评分与重写工具，七维度打分并优化弱提示词**
 
@@ -47,12 +47,12 @@ PromptForge（PyPI 包名 tuneprompt）对 LLM 提示词从清晰度、具体性
 ```mermaid
 xychart-beta
     title "arjun988/promptModel 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [32, 31]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 31（-1）
 
 
 ---

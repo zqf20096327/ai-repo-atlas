@@ -45,12 +45,12 @@ CC0 许可的策展清单（awesome list），收录 AI agent 框架、编程与
 ```mermaid
 xychart-beta
     title "frangelbarrera/awesome-ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

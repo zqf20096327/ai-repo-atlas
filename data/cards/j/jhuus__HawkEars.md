@@ -1,6 +1,6 @@
 # jhuus/HawkEars
 
-⭐ 15 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/jhuus/HawkEars) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jhuus/HawkEars) · 个人维护
 
 **音频鸟类与两栖类声音识别的桌面/CLI 分析工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jhuus/HawkEars 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

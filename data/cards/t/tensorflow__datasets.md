@@ -1,6 +1,6 @@
 # tensorflow/datasets
 
-⭐ 4,608 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tensorflow/datasets) · [官网](https://www.tensorflow.org/datasets) · 组织维护
+⭐ 4,609 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/tensorflow/datasets) · [官网](https://www.tensorflow.org/datasets) · 组织维护
 
 **面向 ML 开发者的公共数据集下载与准备库**
 
@@ -44,13 +44,13 @@ TensorFlow 官方团队维护的数据集工具库：将众多公共数据集以
 
 ```mermaid
 xychart-beta
-    title "tensorflow/datasets 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4600 --> 4609
-    line [4601, 4602, 4604, 4605, 4607, 4608]
+    title "tensorflow/datasets 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4600 --> 4610
+    line [4601, 4602, 4604, 4605, 4607, 4608, 4609]
 ```
 
-2026-10-18 4,601 → 2026-10-30 4,608（+7）
+2026-10-18 4,601 → 2026-10-31 4,609（+8）
 
 
 ---

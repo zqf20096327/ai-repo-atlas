@@ -1,6 +1,6 @@
 # fpgmaas/pyatlas
 
-⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/fpgmaas/pyatlas) · [官网](https://fpgmaas.github.io/pyatlas/) · 个人维护
+⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-03-18 · [GitHub](https://github.com/fpgmaas/pyatlas) · [官网](https://fpgmaas.github.io/pyatlas/) · 个人维护
 
 **PyPI 前 1 万 Python 包的交互式向量嵌入地图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fpgmaas/pyatlas 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-18 94 → 2026-10-30 94（+0）
+2026-10-18 94 → 2026-10-31 95（+1）
 
 
 ---

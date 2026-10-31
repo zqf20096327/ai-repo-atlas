@@ -1,6 +1,6 @@
 # thoughtbot/top_secret
 
-⭐ 420 · Ruby · MIT · 推送 2026-05-14 · [GitHub](https://github.com/thoughtbot/top_secret) · [官网](https://thoughtbot.com/blog/top-secret) · 组织维护
+⭐ 421 · Ruby · MIT · 推送 2026-05-14 · [GitHub](https://github.com/thoughtbot/top_secret) · [官网](https://thoughtbot.com/blog/top-secret) · 组织维护
 
 **Ruby 库：发送文本给 LLM 前过滤 PII 并可还原**
 
@@ -46,12 +46,12 @@ Ruby gem，在自由文本发送到外部服务（如聊天机器人、LLM）前
 ```mermaid
 xychart-beta
     title "thoughtbot/top_secret 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 418 --> 421
-    line [419, 420, 420]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 418 --> 422
+    line [419, 420, 421]
 ```
 
-2026-10-18 419 → 2026-10-30 420（+1）
+2026-10-18 419 → 2026-10-31 421（+2）
 
 
 ---

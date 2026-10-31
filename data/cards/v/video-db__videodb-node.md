@@ -44,12 +44,12 @@ VideoDB 官方 Node.js SDK，用于连接其 serverless 视频数据库服务：
 ```mermaid
 xychart-beta
     title "video-db/videodb-node 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

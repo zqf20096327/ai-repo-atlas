@@ -1,6 +1,6 @@
 # signerlabs/ShipSwift
 
-⭐ 3,248 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/signerlabs/ShipSwift) · [官网](https://shipswift.app) · 组织维护
+⭐ 3,251 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/signerlabs/ShipSwift) · [官网](https://shipswift.app) · 组织维护
 
 **供 LLM 使用的 SwiftUI 组件库与配方案例，经 MCP/Skills 接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "signerlabs/ShipSwift 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3241 --> 3249
-    line [3243, 3242, 3243, 3244, 3245, 3244, 3246, 3248]
+    title "signerlabs/ShipSwift 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3241 --> 3252
+    line [3243, 3242, 3243, 3244, 3245, 3244, 3246, 3248, 3251]
 ```
 
-2026-10-18 3,243 → 2026-10-30 3,248（+5）
+2026-10-18 3,243 → 2026-10-31 3,251（+8）
 
 
 ---

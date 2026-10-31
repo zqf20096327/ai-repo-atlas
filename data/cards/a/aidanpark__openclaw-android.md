@@ -1,6 +1,6 @@
 # aidanpark/openclaw-android
 
-⭐ 1,796 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/aidanpark/openclaw-android) · 个人维护 · 中文 README
+⭐ 1,797 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/aidanpark/openclaw-android) · 个人维护 · 中文 README
 
 **在 Android 上免 proot 一条命令安装运行 OpenClaw 的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aidanpark/openclaw-android 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1779 --> 1797
-    line [1780, 1784, 1788, 1791, 1790, 1792, 1793, 1794, 1796]
+    title "aidanpark/openclaw-android 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1779 --> 1798
+    line [1780, 1784, 1788, 1791, 1790, 1792, 1793, 1794, 1796, 1797]
 ```
 
-2026-10-18 1,780 → 2026-10-30 1,796（+16）
+2026-10-18 1,780 → 2026-10-31 1,797（+17）
 
 
 ---

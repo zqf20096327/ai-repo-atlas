@@ -1,6 +1,6 @@
 # Don-Uwe/ai-healthcare-agent-app
 
-⭐ 134 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Don-Uwe/ai-healthcare-agent-app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **健康资讯与播客的移动应用，含 AI 健康问答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

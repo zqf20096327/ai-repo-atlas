@@ -1,6 +1,6 @@
 # Hardik-369/ROADMAP
 
-⭐ 21 · 推送 2026-08-13 · [GitHub](https://github.com/Hardik-369/ROADMAP) · 个人维护
+⭐ 22 · 推送 2026-08-13 · [GitHub](https://github.com/Hardik-369/ROADMAP) · 个人维护
 
 **零成本求职路线图合集：AI 工程师等 6 个科技岗位从入门到入职**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hardik-369/ROADMAP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-18 20 → 2026-10-30 21（+1）
+2026-10-18 20 → 2026-10-31 22（+2）
 
 
 ---

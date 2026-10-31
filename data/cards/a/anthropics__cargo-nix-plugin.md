@@ -1,6 +1,6 @@
 # anthropics/cargo-nix-plugin
 
-⭐ 72 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/anthropics/cargo-nix-plugin) · 组织维护
+⭐ 73 · Rust · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/anthropics/cargo-nix-plugin) · 组织维护
 
 **Nix 插件：原生解析 Cargo workspace，按 crate 构建 Rust 项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anthropics/cargo-nix-plugin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 64 --> 73
-    line [65, 68, 71, 72, 72]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 64 --> 74
+    line [65, 68, 71, 72, 73]
 ```
 
-2026-10-18 65 → 2026-10-30 72（+7）
+2026-10-18 65 → 2026-10-31 73（+8）
 
 
 ---

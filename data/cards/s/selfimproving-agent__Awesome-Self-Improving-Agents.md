@@ -1,6 +1,6 @@
 # selfimproving-agent/Awesome-Self-Improving-Agents
 
-⭐ 597 · TeX · MIT · 推送 2026-10-28 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
+⭐ 597 · TeX · MIT · 推送 2026-10-30 · [GitHub](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) · [官网](https://selfimproving-agent.github.io/) · 组织维护
 
 **自我改进智能体系统论文与资源的策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "selfimproving-agent/Awesome-Self-Improving-Agents 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 567 --> 599
-    line [569, 574, 584, 586, 589, 592, 593, 594, 595, 597]
+    line [569, 574, 584, 586, 589, 592, 593, 594, 595, 597, 597]
 ```
 
-2026-10-18 569 → 2026-10-30 597（+28）
+2026-10-18 569 → 2026-10-31 597（+28）
 
 
 ---

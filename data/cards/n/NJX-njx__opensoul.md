@@ -1,6 +1,6 @@
 # NJX-njx/opensoul
 
-⭐ 59 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/NJX-njx/opensoul) · [官网](https://opensoul-web.vercel.app/) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/NJX-njx/opensoul) · [官网](https://opensoul-web.vercel.app/) · 个人维护
 
 **自托管跨渠道 AI agent 运行时，支持任务跨界面延续**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NJX-njx/opensoul 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-31"]
     y-axis "stars" 57 --> 61
-    line [58, 60, 59, 59]
+    line [58, 60, 59, 60]
 ```
 
-2026-10-18 58 → 2026-10-30 59（+1）
+2026-10-18 58 → 2026-10-31 60（+2）
 
 
 ---

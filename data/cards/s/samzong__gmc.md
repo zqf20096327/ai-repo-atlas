@@ -1,6 +1,6 @@
 # samzong/gmc
 
-⭐ 28 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/samzong/gmc) · [官网](https://gmc.samzong.me) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/samzong/gmc) · [官网](https://gmc.samzong.me) · 个人维护
 
 **面向 AI 编码时代的 Git worktree 工作流 CLI，支持并行 agent 与 AI 提交信息**
 
@@ -45,12 +45,12 @@ Go 编写的 Git 工作流命令行工具：以 `.bare/` + worktree 布局管理
 ```mermaid
 xychart-beta
     title "samzong/gmc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

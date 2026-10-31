@@ -1,6 +1,6 @@
 # MoonshotAI/kimi-agent-sdk
 
-⭐ 581 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/MoonshotAI/kimi-agent-sdk) · 组织维护
+⭐ 580 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/MoonshotAI/kimi-agent-sdk) · 组织维护
 
 **在应用中接入 Kimi CLI agent 运行时的多语言 SDK**
 
@@ -45,12 +45,12 @@ MoonshotAI 提供的 Go/Node.js/Python 三语言 SDK，将 Kimi Code（Kimi CLI�
 ```mermaid
 xychart-beta
     title "MoonshotAI/kimi-agent-sdk 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 576 --> 582
-    line [577, 578, 579, 580, 581, 581]
+    line [577, 578, 579, 580, 581, 580]
 ```
 
-2026-10-18 577 → 2026-10-30 581（+4）
+2026-10-18 577 → 2026-10-31 580（+3）
 
 
 ---

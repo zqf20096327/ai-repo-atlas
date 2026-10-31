@@ -1,6 +1,6 @@
 # datajuicer/data-juicer
 
-⭐ 7,198 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/datajuicer/data-juicer) · [官网](https://datajuicer.github.io/data-juicer/) · 组织维护 · 中文 README
+⭐ 7,204 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/datajuicer/data-juicer) · [官网](https://datajuicer.github.io/data-juicer/) · 组织维护 · 中文 README
 
 **面向基础模型的数据处理系统：清洗/合成/分析训练数据**
 
@@ -46,13 +46,13 @@ Data-Juicer (DJ) 是面向基础模型全生命周期的数据处理系统，提
 
 ```mermaid
 xychart-beta
-    title "datajuicer/data-juicer 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7148 --> 7202
-    line [7152, 7160, 7178, 7181, 7182, 7183, 7187, 7189, 7193, 7198]
+    title "datajuicer/data-juicer 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 7147 --> 7209
+    line [7152, 7160, 7178, 7181, 7182, 7183, 7187, 7189, 7193, 7198, 7204]
 ```
 
-2026-10-18 7,152 → 2026-10-30 7,198（+46）
+2026-10-18 7,152 → 2026-10-31 7,204（+52）
 
 
 ---

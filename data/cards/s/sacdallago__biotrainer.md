@@ -1,6 +1,6 @@
 # sacdallago/biotrainer
 
-⭐ 55 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/sacdallago/biotrainer) · [官网](https://biocentral.cloud/app) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sacdallago/biotrainer) · [官网](https://biocentral.cloud/app) · 个人维护
 
 **蛋白质机器学习框架：简化蛋白质预测模型训练与评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sacdallago/biotrainer 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-18 55 → 2026-10-30 55（+0）
+2026-10-18 55 → 2026-10-31 55（+0）
 
 
 ---

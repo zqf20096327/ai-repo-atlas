@@ -1,6 +1,6 @@
 # Xustalis/OpenPanda
 
-⭐ 15 · Go · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/Xustalis/OpenPanda) · [官网](https://xustalis.github.io/OpenPanda/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的多智能体编排器：跨设备调度终端 AI 编码代理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

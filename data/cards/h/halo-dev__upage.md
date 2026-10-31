@@ -1,6 +1,6 @@
 # halo-dev/upage
 
-⭐ 555 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/halo-dev/upage) · [官网](https://upage.cn) · 组织维护 · 中文 README
+⭐ 556 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/halo-dev/upage) · [官网](https://upage.cn) · 组织维护 · 中文 README
 
 **自然语言生成网页的可视化构建平台，代码可导出**
 
@@ -46,12 +46,12 @@ UPage 是基于大语言模型的可视化网页构建平台：用户以自然�
 ```mermaid
 xychart-beta
     title "halo-dev/upage 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 554 --> 556
-    line [555, 555]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 554 --> 557
+    line [555, 556]
 ```
 
-2026-10-18 555 → 2026-10-30 555（+0）
+2026-10-18 555 → 2026-10-31 556（+1）
 
 
 ---

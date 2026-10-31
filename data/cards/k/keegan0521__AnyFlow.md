@@ -1,6 +1,6 @@
 # keegan0521/AnyFlow
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/keegan0521/AnyFlow) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/keegan0521/AnyFlow) · 组织维护
 
 **任意步数视频扩散框架：文生视频/图生视频训练与推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "keegan0521/AnyFlow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-30"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-23", "2026-10-31"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-23 15 → 2026-10-30 15（+0）
+2026-10-23 15 → 2026-10-31 14（-1）
 
 
 ---

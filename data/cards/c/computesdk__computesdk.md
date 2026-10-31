@@ -1,6 +1,6 @@
 # computesdk/computesdk
 
-⭐ 285 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/computesdk/computesdk) · [官网](https://computesdk.com) · 组织维护
+⭐ 286 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/computesdk/computesdk) · [官网](https://computesdk.com) · 组织维护
 
 **给开发者的多云端沙箱统一 SDK 与基准评测工具**
 
@@ -45,12 +45,12 @@ TypeScript SDK，通过统一 API 在 40 余个云端沙箱提供商（E2B、Mod
 ```mermaid
 xychart-beta
     title "computesdk/computesdk 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 280 --> 286
-    line [281, 282, 283, 285, 285]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 280 --> 287
+    line [281, 282, 283, 285, 286]
 ```
 
-2026-10-18 281 → 2026-10-30 285（+4）
+2026-10-18 281 → 2026-10-31 286（+5）
 
 
 ---

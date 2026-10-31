@@ -1,6 +1,6 @@
 # GiacomoSaccaggi/scomp_link
 
-⭐ 15 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GiacomoSaccaggi/scomp_link) · [官网](https://giacomosaccaggi.github.io/scomp_link/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/GiacomoSaccaggi/scomp_link) · [官网](https://giacomosaccaggi.github.io/scomp_link/) · 个人维护
 
 **端到端 ML 工具包：零代码完成训练、评估、解释与监控**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GiacomoSaccaggi/scomp_link 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 15（+1）
 
 
 ---

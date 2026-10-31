@@ -1,6 +1,6 @@
 # alibaba/pipcook
 
-⭐ 2,594 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/alibaba/pipcook) · [官网](https://alibaba.github.io/pipcook/) · 组织维护 · 中文 README
+⭐ 2,594 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/alibaba/pipcook) · [官网](https://alibaba.github.io/pipcook/) · 组织维护 · 中文 README
 
 **面向 Web 工程师的 JavaScript 机器学习应用框架**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "alibaba/pipcook 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2592 --> 2595
     line [2594, 2593, 2594, 2594]
 ```
 
-2026-10-18 2,594 → 2026-10-30 2,594（+0）
+2026-10-18 2,594 → 2026-10-31 2,594（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bluewings1211/codebase-RAG
 
-⭐ 16 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/bluewings1211/codebase-RAG) · 个人维护
+⭐ 15 · Python · MIT · 推送 2025-12-11 · [GitHub](https://github.com/bluewings1211/codebase-RAG) · 个人维护
 
 **帮助 AI agent 与开发者理解和检索代码库的 RAG MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bluewings1211/codebase-RAG 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    line [15, 16, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 16（+1）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

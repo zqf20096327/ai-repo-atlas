@@ -1,6 +1,6 @@
 # TirendazAcademy/Awesome-Data-Science-Resources
 
-⭐ 121 · 推送 2026-08-17 · [GitHub](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources) · 个人维护
+⭐ 121 · 推送 2026-10-30 · [GitHub](https://github.com/TirendazAcademy/Awesome-Data-Science-Resources) · 个人维护
 
 **数据科学与机器学习学习资源清单（书籍/课程/工具/项目）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TirendazAcademy/Awesome-Data-Science-Resources 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-18 121 → 2026-10-30 121（+0）
+2026-10-18 121 → 2026-10-31 121（+0）
 
 
 ---

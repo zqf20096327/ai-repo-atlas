@@ -1,6 +1,6 @@
 # gwittebolle/claude-carbon
 
-⭐ 232 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gwittebolle/claude-carbon) · [官网](https://tokenclimate.com) · 个人维护
+⭐ 233 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/gwittebolle/claude-carbon) · [官网](https://tokenclimate.com) · 个人维护
 
 **追踪 Claude Code 会话碳排放的插件：终端与桌面端实时 CO2**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gwittebolle/claude-carbon 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 215 --> 233
-    line [216, 226, 227, 229, 232]
+    title "gwittebolle/claude-carbon 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 215 --> 234
+    line [216, 226, 227, 229, 232, 233]
 ```
 
-2026-10-18 216 → 2026-10-30 232（+16）
+2026-10-18 216 → 2026-10-31 233（+17）
 
 
 ---

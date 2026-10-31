@@ -45,12 +45,12 @@ EdgeVox 提供本地运行的语音 agent 框架：用 Python 编写 @tool/@skil
 ```mermaid
 xychart-beta
     title "nrl-ai/edgevox 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-18 18 → 2026-10-30 18（+0）
+2026-10-18 18 → 2026-10-31 18（+0）
 
 
 ---

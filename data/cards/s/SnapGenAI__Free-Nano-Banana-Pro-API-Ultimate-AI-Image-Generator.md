@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SnapGenAI/Free-Nano-Banana-Pro-API-Ultimate-AI-Image-Generator 星数(近 3 点)"
-    x-axis ["2026-10-19", "2026-10-25", "2026-10-30"]
+    title "SnapGenAI/Free-Nano-Banana-Pro-API-Ultimate-AI-Image-Generator 星数(近 4 点)"
+    x-axis ["2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 80 --> 84
-    line [81, 82, 83]
+    line [81, 82, 83, 83]
 ```
 
-2026-10-19 81 → 2026-10-30 83（+2）
+2026-10-19 81 → 2026-10-31 83（+2）
 
 
 ---

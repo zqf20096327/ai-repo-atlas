@@ -1,6 +1,6 @@
 # aallan/vera
 
-⭐ 420 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/aallan/vera) · [官网](https://veralang.dev/) · 个人维护
+⭐ 420 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aallan/vera) · [官网](https://veralang.dev/) · 个人维护
 
 **面向 LLM 编程设计的验证型编程语言（编译到 WebAssembly）**
 
@@ -47,12 +47,12 @@ Vera 是一种以 LLM 为主要作者设计的编程语言：无变量名，改�
 ```mermaid
 xychart-beta
     title "aallan/vera 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-28", "2026-10-31"]
     y-axis "stars" 417 --> 421
     line [418, 419, 420, 420]
 ```
 
-2026-10-18 418 → 2026-10-30 420（+2）
+2026-10-18 418 → 2026-10-31 420（+2）
 
 
 ---

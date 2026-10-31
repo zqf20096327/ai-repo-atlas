@@ -1,6 +1,6 @@
 # coledd/nn
 
-⭐ 38 · C++ · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/coledd/nn) · 组织维护
+⭐ 38 · C · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/coledd/nn) · 组织维护
 
 **面向微控制器与嵌入式系统的轻量级神经网络 C 库**
 
@@ -45,12 +45,12 @@ Apache-2.0 许可的 C 语言神经网络库，核心为可直接嵌入固件的
 ```mermaid
 xychart-beta
     title "coledd/nn 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

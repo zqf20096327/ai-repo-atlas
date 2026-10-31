@@ -1,6 +1,6 @@
 # calico88x/DGX-Model-Manager
 
-⭐ 57 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/calico88x/DGX-Model-Manager) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/calico88x/DGX-Model-Manager) · 个人维护
 
 **面向 DGX Spark 的模型与推理部署管理 Web 控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "calico88x/DGX-Model-Manager 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-18 56 → 2026-10-30 57（+1）
+2026-10-18 56 → 2026-10-31 58（+2）
 
 
 ---

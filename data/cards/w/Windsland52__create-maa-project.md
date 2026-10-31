@@ -1,6 +1,6 @@
 # Windsland52/create-maa-project
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/Windsland52/create-maa-project) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Windsland52/create-maa-project) · 个人维护 · 中文 README
 
 **MaaFW 项目脚手架 CLI 与 MCP Server，生成并维护 Pipeline/Agent 项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Windsland52/create-maa-project 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

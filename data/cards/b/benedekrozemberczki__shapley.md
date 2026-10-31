@@ -44,12 +44,12 @@ CIKM 2021 论文 "The Shapley Value of Classifiers in Ensemble Games" 的官方�
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/shapley 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 227 --> 229
     line [228, 228]
 ```
 
-2026-10-18 228 → 2026-10-30 228（+0）
+2026-10-18 228 → 2026-10-31 228（+0）
 
 
 ---

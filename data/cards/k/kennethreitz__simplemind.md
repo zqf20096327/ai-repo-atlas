@@ -1,6 +1,6 @@
 # kennethreitz/simplemind
 
-⭐ 537 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/kennethreitz/simplemind) · [官网](https://pypi.org/project/simplemind/) · 个人维护
+⭐ 537 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/kennethreitz/simplemind) · [官网](https://pypi.org/project/simplemind/) · 个人维护
 
 **给开发者的多 AI 供应商统一 Python 客户端库**
 
@@ -40,6 +40,18 @@ Python 库，为多家 AI 提供商（Anthropic Claude、Amazon Bedrock、Deepse
 > L19: The APIs remain identical between all supported providers / models:
 > L62: To specify a specific provider or model, you can use the `llm_provider` and `llm_model` parameters when calling: `g
 > L71: $ pip install 'simplemind[full]'
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kennethreitz/simplemind 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 536 --> 538
+    line [537, 537]
+```
+
+2026-10-30 537 → 2026-10-31 537（+0）
 
 
 ---

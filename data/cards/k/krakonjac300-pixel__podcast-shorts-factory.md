@@ -1,6 +1,6 @@
 # krakonjac300-pixel/podcast-shorts-factory
 
-⭐ 131 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/krakonjac300-pixel/podcast-shorts-factory) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/krakonjac300-pixel/podcast-shorts-factory) · 个人维护
 
 **十个协作 AI agent 把长播客自动切成竖屏短视频并发布**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "krakonjac300-pixel/podcast-shorts-factory 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 125 --> 132
-    line [126, 127, 129, 130, 131, 131]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 125 --> 133
+    line [126, 127, 129, 130, 131, 132]
 ```
 
-2026-10-18 126 → 2026-10-30 131（+5）
+2026-10-18 126 → 2026-10-31 132（+6）
 
 
 ---

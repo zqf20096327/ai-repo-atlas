@@ -1,6 +1,6 @@
 # spring-ai-alibaba/examples
 
-⭐ 2,924 · Java · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/spring-ai-alibaba/examples) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 2,925 · Java · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/spring-ai-alibaba/examples) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
 **Spring AI Alibaba 官方示例集：演示框架各类用法**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spring-ai-alibaba/examples 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2913 --> 2925
-    line [2914, 2917, 2918, 2917, 2918, 2924]
+    title "spring-ai-alibaba/examples 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2913 --> 2926
+    line [2914, 2917, 2918, 2917, 2918, 2924, 2925]
 ```
 
-2026-10-18 2,914 → 2026-10-30 2,924（+10）
+2026-10-18 2,914 → 2026-10-31 2,925（+11）
 
 
 ---

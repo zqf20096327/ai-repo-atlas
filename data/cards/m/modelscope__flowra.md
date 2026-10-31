@@ -1,6 +1,6 @@
 # modelscope/flowra
 
-⭐ 73 · Python · NOASSERTION · 推送 2025-11-24 · [GitHub](https://github.com/modelscope/flowra) · 组织维护 · 中文 README
+⭐ 74 · Python · NOASSERTION · 推送 2025-11-24 · [GitHub](https://github.com/modelscope/flowra) · 组织维护 · 中文 README
 
 **FlowBench 的图执行引擎与节点包开发工具链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/flowra 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 72 --> 75
-    line [74, 73, 73]
+    line [74, 73, 74]
 ```
 
-2026-10-18 74 → 2026-10-30 73（-1）
+2026-10-18 74 → 2026-10-31 74（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TreeAI-Lab/Awesome-KV-Cache-Management
 
-⭐ 367 · 推送 2026-07-16 · [GitHub](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) · 组织维护
+⭐ 368 · 推送 2026-07-16 · [GitHub](https://github.com/TreeAI-Lab/Awesome-KV-Cache-Management) · 组织维护
 
 **LLM KV Cache 管理加速方向的论文综述清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TreeAI-Lab/Awesome-KV-Cache-Management 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 363 --> 368
-    line [364, 365, 366, 367]
+    title "TreeAI-Lab/Awesome-KV-Cache-Management 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 363 --> 369
+    line [364, 365, 366, 367, 368]
 ```
 
-2026-10-18 364 → 2026-10-30 367（+3）
+2026-10-18 364 → 2026-10-31 368（+4）
 
 
 ---

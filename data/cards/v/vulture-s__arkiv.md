@@ -1,6 +1,6 @@
 # vulture-s/arkiv
 
-⭐ 77 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/vulture-s/arkiv) · [官网](https://vulture-s.github.io/arkiv/) · 个人维护 · 中文 README
+⭐ 77 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/vulture-s/arkiv) · [官网](https://vulture-s.github.io/arkiv/) · 个人维护 · 中文 README
 
 **给独立 DIT 与小团队的本地优先媒体资产管理器，AI 元数据与语义搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vulture-s/arkiv 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
     y-axis "stars" 76 --> 79
     line [78, 77, 77]
 ```
 
-2026-10-18 78 → 2026-10-30 77（-1）
+2026-10-18 78 → 2026-10-31 77（-1）
 
 
 ---

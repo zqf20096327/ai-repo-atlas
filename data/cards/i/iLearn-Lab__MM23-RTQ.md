@@ -45,12 +45,12 @@ ACM Multimedia 2023 论文 RTQ 的官方代码：提出 Refine、Temporal model�
 ```mermaid
 xychart-beta
     title "iLearn-Lab/MM23-RTQ 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/regress-lm
 
-⭐ 367 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/regress-lm) · 组织维护
+⭐ 368 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/google-deepmind/regress-lm) · 组织维护
 
 **序列到序列数值预测库：从可分词输入预测浮点数**
 
@@ -45,12 +45,12 @@ DeepMind 开源的机器学习库，实现 sequence-to-sequence 数值回归：�
 ```mermaid
 xychart-beta
     title "google-deepmind/regress-lm 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 360 --> 368
-    line [362, 361, 365, 366, 367, 367]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 360 --> 369
+    line [362, 361, 365, 366, 367, 368]
 ```
 
-2026-10-18 362 → 2026-10-30 367（+5）
+2026-10-18 362 → 2026-10-31 368（+6）
 
 
 ---

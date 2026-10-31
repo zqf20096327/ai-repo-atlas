@@ -1,6 +1,6 @@
 # ai-dvps/comate
 
-⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ai-dvps/comate) · [官网](https://ai-dvps.github.io/comate/) · 组织维护 · 中文 README
+⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/ai-dvps/comate) · [官网](https://ai-dvps.github.io/comate/) · 组织维护 · 中文 README
 
 **把 Claude Code 等 Agent 装进桌面的通用任务工作台**
 
@@ -45,12 +45,12 @@ Electron 桌面应用，将 Agent 会话、本地项目文件、浏览器辅助�
 ```mermaid
 xychart-beta
     title "ai-dvps/comate 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-18 69 → 2026-10-30 69（+0）
+2026-10-18 69 → 2026-10-31 69（+0）
 
 
 ---

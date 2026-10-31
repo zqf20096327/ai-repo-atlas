@@ -44,13 +44,13 @@ TimeDiff 论文（JAMIA 接收）的官方代码实现：训练扩散模型生�
 
 ```mermaid
 xychart-beta
-    title "MuhangTian/TimeDiff 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "MuhangTian/TimeDiff 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 35 --> 38
-    line [36, 37]
+    line [36, 37, 37]
 ```
 
-2026-10-18 36 → 2026-10-30 37（+1）
+2026-10-18 36 → 2026-10-31 37（+1）
 
 
 ---

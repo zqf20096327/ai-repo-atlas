@@ -1,6 +1,6 @@
 # hooosberg/AgentLimb
 
-⭐ 57 · JavaScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
+⭐ 58 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
 
 **让任意 MCP AI agent 操控本机 Chrome 的浏览器控制扩展**
 
@@ -46,12 +46,12 @@ Chrome 扩展加本地 MCP host 的组合：MCP 客户端经 stdio 连接本地 
 ```mermaid
 xychart-beta
     title "hooosberg/AgentLimb 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 54 --> 58
-    line [55, 57, 56, 57, 57]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 54 --> 59
+    line [55, 57, 56, 57, 58]
 ```
 
-2026-10-18 55 → 2026-10-30 57（+2）
+2026-10-18 55 → 2026-10-31 58（+3）
 
 
 ---

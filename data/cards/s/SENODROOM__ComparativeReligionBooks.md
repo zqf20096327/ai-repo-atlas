@@ -1,6 +1,6 @@
 # SENODROOM/ComparativeReligionBooks
 
-⭐ 16 · JavaScript · 推送 2026-08-02 · [GitHub](https://github.com/SENODROOM/ComparativeReligionBooks) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **伊斯兰视角的比较宗教学术书籍 PDF 策展图书馆**
 

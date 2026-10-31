@@ -1,6 +1,6 @@
 # llm-d/llm-d-kv-cache
 
-⭐ 187 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/llm-d/llm-d-kv-cache) · [官网](https://www.llm-d.ai) · 组织维护
+⭐ 188 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/llm-d/llm-d-kv-cache) · [官网](https://www.llm-d.ai) · 组织维护
 
 **vLLM 平台的分布式 KV 缓存调度与卸载库**
 
@@ -45,12 +45,12 @@ llm-d 项目下的可插拔库集合，面向基于 vLLM 的推理服务平台�
 ```mermaid
 xychart-beta
     title "llm-d/llm-d-kv-cache 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 185 --> 188
-    line [186, 187, 187]
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 185 --> 189
+    line [186, 187, 188]
 ```
 
-2026-10-18 186 → 2026-10-30 187（+1）
+2026-10-18 186 → 2026-10-31 188（+2）
 
 
 ---

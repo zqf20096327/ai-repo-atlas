@@ -1,6 +1,6 @@
 # EilinLux/adk2.0-medium
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/EilinLux/adk2.0-medium) · [官网](https://medium.com/@ailluzdatascience/list/agent-developer-kit-adk-5d957c62e9a9 ) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/EilinLux/adk2.0-medium) · [官网](https://medium.com/@ailluzdatascience/list/agent-developer-kit-adk-5d957c62e9a9 ) · 个人维护
 
 **Google ADK 2.0 教程系列的配套实现仓库（SostaApp 示例）**
 
@@ -40,6 +40,18 @@ Medium 上 ADK 2.0 教程系列的代码实现仓库，每篇文章对应一个 
 > L3: This repository contains the codebase and architecture blueprints for the **ADK 101** tutorial series published on M
 > L8: The project demonstrates how to move away from fragile, notebook-bound AI prototypes and build production-grade, eve
 > L44: To keep the codebase clean, isolated, and easy to follow, **each article in the Medium series corresponds to a dedi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EilinLux/adk2.0-medium 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 14 --> 18
+    line [15, 17]
+```
+
+2026-10-30 15 → 2026-10-31 17（+2）
 
 
 ---

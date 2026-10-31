@@ -1,6 +1,6 @@
 # mensfeld/pocketrb
 
-⭐ 38 · Ruby · MIT · 推送 2026-10-29 · [GitHub](https://github.com/mensfeld/pocketrb) · 个人维护
+⭐ 38 · Ruby · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mensfeld/pocketrb) · 个人维护
 
 **面向 Ruby 开发者的轻量多 LLM agent 框架与助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mensfeld/pocketrb 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-18 38 → 2026-10-30 38（+0）
+2026-10-18 38 → 2026-10-31 38（+0）
 
 
 ---

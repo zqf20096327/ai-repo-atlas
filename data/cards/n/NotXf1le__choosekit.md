@@ -1,6 +1,6 @@
 # NotXf1le/choosekit
 
-⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NotXf1le/choosekit) · 个人维护
+⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NotXf1le/choosekit) · 个人维护
 
 **给开发者的类型化选择评分库：从文本/图像返回概率分布决策**
 
@@ -46,12 +46,12 @@ TypeScript 库，对有限选项集合打分并返回带概率分布的类型化
 ```mermaid
 xychart-beta
     title "NotXf1le/choosekit 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 24（+1）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

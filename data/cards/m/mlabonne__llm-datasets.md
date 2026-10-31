@@ -1,6 +1,6 @@
 # mlabonne/llm-datasets
 
-⭐ 4,822 · 推送 2026-04-29 · [GitHub](https://github.com/mlabonne/llm-datasets) · [官网](https://mlabonne.github.io/blog) · 个人维护
+⭐ 4,825 · 推送 2026-04-29 · [GitHub](https://github.com/mlabonne/llm-datasets) · [官网](https://mlabonne.github.io/blog) · 个人维护
 
 **面向 LLM 后训练的精选数据集与工具清单，按任务领域分类**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlabonne/llm-datasets 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4811 --> 4823
-    line [4812, 4817, 4820, 4821, 4822, 4821, 4822]
+    title "mlabonne/llm-datasets 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4811 --> 4826
+    line [4812, 4817, 4820, 4821, 4822, 4821, 4822, 4825]
 ```
 
-2026-10-18 4,812 → 2026-10-30 4,822（+10）
+2026-10-18 4,812 → 2026-10-31 4,825（+13）
 
 
 ---

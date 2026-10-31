@@ -1,6 +1,6 @@
 # CJackHwang/AIstudioProxyAPI
 
-⭐ 2,520 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/CJackHwang/AIstudioProxyAPI) · [官网](https://linux.do/u/cjackhwang) · 个人维护 · 中文 README
+⭐ 2,522 · Python · AGPL-3.0 · 推送 2026-04-22 · [GitHub](https://github.com/CJackHwang/AIstudioProxyAPI) · [官网](https://linux.do/u/cjackhwang) · 个人维护 · 中文 README
 
 **将 Google AI Studio 网页转换为 OpenAI 兼容 API 的代理服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CJackHwang/AIstudioProxyAPI 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2514 --> 2521
-    line [2515, 2518, 2517, 2518, 2517, 2519, 2518, 2517, 2520]
+    title "CJackHwang/AIstudioProxyAPI 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2514 --> 2523
+    line [2515, 2518, 2517, 2518, 2517, 2519, 2518, 2517, 2520, 2522]
 ```
 
-2026-10-18 2,515 → 2026-10-30 2,520（+5）
+2026-10-18 2,515 → 2026-10-31 2,522（+7）
 
 
 ---

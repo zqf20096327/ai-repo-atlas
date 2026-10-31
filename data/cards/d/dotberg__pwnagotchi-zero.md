@@ -1,6 +1,6 @@
 # dotberg/pwnagotchi-zero
 
-⭐ 17 · Java · MIT · 推送 2026-10-12 · [GitHub](https://github.com/dotberg/pwnagotchi-zero) · 个人维护
+⭐ 18 · Java · MIT · 推送 2026-10-12 · [GitHub](https://github.com/dotberg/pwnagotchi-zero) · 个人维护
 
 **把 root 安卓手机变为自主 WiFi 安全测试平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dotberg/pwnagotchi-zero 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 18（+1）
 
 
 ---

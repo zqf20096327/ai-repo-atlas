@@ -1,6 +1,6 @@
 # sgaofen/humanizer-local-model
 
-⭐ 608 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
+⭐ 632 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/sgaofen/humanizer-local-model) · [官网](https://huggingface.co/jialinyyzz/humanizer) · 个人维护 · 中文 README
 
 **本地运行的 12B 模型：把 AI 草稿改写得像人写的**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sgaofen/humanizer-local-model 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 318 --> 634
-    line [344, 395, 451, 475, 496, 510, 523, 546, 574, 593, 608]
+    title "sgaofen/humanizer-local-model 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 316 --> 660
+    line [344, 395, 451, 475, 496, 510, 523, 546, 574, 593, 608, 632]
 ```
 
-2026-10-18 344 → 2026-10-30 608（+264）
+2026-10-18 344 → 2026-10-31 632（+288）
 
 
 ---

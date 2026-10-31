@@ -1,6 +1,6 @@
 # hybroai/a2a-adapter
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/hybroai/a2a-adapter) · [官网](https://pypi.org/project/a2a-adapter/) · 组织维护
+⭐ 103 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/hybroai/a2a-adapter) · [官网](https://pypi.org/project/a2a-adapter/) · 组织维护
 
 **把各类 AI agent 封装为 A2A 协议服务器的 Python SDK/CLI**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hybroai/a2a-adapter 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    title "hybroai/a2a-adapter 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-10-31"]
     y-axis "stars" 100 --> 104
-    line [101, 102, 103]
+    line [101, 102, 103, 103]
 ```
 
-2026-10-18 101 → 2026-10-30 103（+2）
+2026-10-18 101 → 2026-10-31 103（+2）
 
 
 ---

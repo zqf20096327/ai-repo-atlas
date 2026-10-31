@@ -1,6 +1,6 @@
 # footprintjs/agentfootprint
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/footprintjs/agentfootprint) · [官网](https://footprintjs.github.io/agentfootprint/) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/footprintjs/agentfootprint) · [官网](https://footprintjs.github.io/agentfootprint/) · 组织维护
 
 **面向开发者的 TypeScript agent 框架：让回答可追溯到执行证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "footprintjs/agentfootprint 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

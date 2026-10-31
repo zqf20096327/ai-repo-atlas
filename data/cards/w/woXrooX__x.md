@@ -1,6 +1,6 @@
 # woXrooX/x
 
-⭐ 17 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/woXrooX/x) · [官网](https://www.woXrooX.com/developer/tools/x) · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/woXrooX/x) · [官网](https://www.woXrooX.com/developer/tools/x) · 个人维护
 
 **加速 Web 应用创建初始阶段的开发工具**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "woXrooX/x 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-18 17 → 2026-10-30 17（+0）
+2026-10-18 17 → 2026-10-31 17（+0）
 
 
 ---

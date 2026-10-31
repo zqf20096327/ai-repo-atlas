@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "oxbshw/Open-Workflow-Library 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "oxbshw/Open-Workflow-Library 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 556 --> 559
-    line [557, 558]
+    line [557, 558, 558]
 ```
 
-2026-10-18 557 → 2026-10-30 558（+1）
+2026-10-18 557 → 2026-10-31 558（+1）
 
 
 ---

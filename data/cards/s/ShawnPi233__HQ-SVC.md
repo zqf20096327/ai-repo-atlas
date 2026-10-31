@@ -1,6 +1,6 @@
 # ShawnPi233/HQ-SVC
 
-⭐ 126 · Python · 推送 2026-06-17 · [GitHub](https://github.com/ShawnPi233/HQ-SVC) · 组织维护 · 中文 README
+⭐ 127 · Python · 推送 2026-06-17 · [GitHub](https://github.com/ShawnPi233/HQ-SVC) · 组织维护 · 中文 README
 
 **零样本歌声转换与语音超分框架（AAAI 2026 论文）**
 
@@ -46,12 +46,12 @@ HQ-SVC 是面向低资源场景的零样本歌声转换（SVC）框架，配套 
 ```mermaid
 xychart-beta
     title "ShawnPi233/HQ-SVC 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 123 --> 127
-    line [124, 125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 123 --> 128
+    line [124, 125, 126, 127]
 ```
 
-2026-10-18 124 → 2026-10-30 126（+2）
+2026-10-18 124 → 2026-10-31 127（+3）
 
 
 ---

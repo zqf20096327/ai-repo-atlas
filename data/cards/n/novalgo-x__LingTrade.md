@@ -1,6 +1,6 @@
 # novalgo-x/LingTrade
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/novalgo-x/LingTrade) · 组织维护 · 中文 README
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-09-22 · [GitHub](https://github.com/novalgo-x/LingTrade) · 组织维护 · 中文 README
 
 **面向个人的 A 股 AI 投研工作站：多智能体分析与模拟交易**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "novalgo-x/LingTrade 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-18 31 → 2026-10-30 31（+0）
+2026-10-18 31 → 2026-10-31 32（+1）
 
 
 ---

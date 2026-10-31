@@ -1,6 +1,6 @@
 # deepseek-ai/dsh-node-addon-require-builtin
 
-⭐ 19 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/deepseek-ai/dsh-node-addon-require-builtin) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
+⭐ 20 · C++ · MIT · 推送 2026-10-12 · [GitHub](https://github.com/deepseek-ai/dsh-node-addon-require-builtin) · [官网](https://deepseek.com/harness/) · 组织维护 · 中文 README
 
 **Node 原生扩展库：免 --expose-internals 获取 Node 内部 requireBuiltin**
 
@@ -45,12 +45,12 @@ deepseek-ai 维护、DeepSeek Harness 使用的内部组件：以 Node-API v9 �
 ```mermaid
 xychart-beta
     title "deepseek-ai/dsh-node-addon-require-builtin 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 13 --> 20
-    line [14, 17, 18, 19, 19]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 13 --> 21
+    line [14, 17, 18, 19, 20]
 ```
 
-2026-10-18 14 → 2026-10-30 19（+5）
+2026-10-18 14 → 2026-10-31 20（+6）
 
 
 ---

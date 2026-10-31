@@ -1,6 +1,6 @@
 # openai/sign-in-with-chatgpt-devkit
 
-⭐ 64 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/openai/sign-in-with-chatgpt-devkit) · 组织维护
+⭐ 65 · TypeScript · NOASSERTION · 推送 2026-10-07 · [GitHub](https://github.com/openai/sign-in-with-chatgpt-devkit) · 组织维护
 
 **让用户用 ChatGPT 账号登录本地开源应用的集成开发包**
 
@@ -44,13 +44,13 @@ OpenAI 提供的 Sign in with ChatGPT 开发套件：包含本地 Node.js SDK（
 
 ```mermaid
 xychart-beta
-    title "openai/sign-in-with-chatgpt-devkit 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 50 --> 65
-    line [51, 53, 56, 58, 61, 62, 63, 64]
+    title "openai/sign-in-with-chatgpt-devkit 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 50 --> 66
+    line [51, 53, 56, 58, 61, 62, 63, 64, 65]
 ```
 
-2026-10-18 51 → 2026-10-30 64（+13）
+2026-10-18 51 → 2026-10-31 65（+14）
 
 
 ---

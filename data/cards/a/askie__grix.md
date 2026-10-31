@@ -1,6 +1,6 @@
 # askie/grix
 
-⭐ 156 · Go · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/askie/grix) · [官网](https://grix.im/) · 组织维护 · 中文 README
+⭐ 156 · Go · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/askie/grix) · [官网](https://grix.im/) · 组织维护 · 中文 README
 
 **跨平台即时通讯应用：把编码 agent 当联系人沟通协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "askie/grix 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30"]
+    title "askie/grix 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 152 --> 157
-    line [153, 154, 155, 156]
+    line [153, 154, 155, 156, 156]
 ```
 
-2026-10-18 153 → 2026-10-30 156（+3）
+2026-10-18 153 → 2026-10-31 156（+3）
 
 
 ---

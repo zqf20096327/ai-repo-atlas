@@ -43,12 +43,12 @@ OpenSource Connections 维护的 Ranklib 学习排序（learning to rank）库�
 ```mermaid
 xychart-beta
     title "o19s/RankyMcRankFace 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 46（+0）
 
 
 ---

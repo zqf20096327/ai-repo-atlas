@@ -1,6 +1,6 @@
 # nitrosend/cli
 
-⭐ 118 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nitrosend/cli) · [官网](https://www.npmjs.com/package/@nitrosend/cli) · 组织维护
+⭐ 117 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/nitrosend/cli) · [官网](https://www.npmjs.com/package/@nitrosend/cli) · 组织维护
 
 **Nitrosend 营销平台的命令行客户端：终端发送邮件短信、跑流程、调 MCP 工具**
 
@@ -46,12 +46,12 @@ Nitrosend（邮件/短信营销自动化服务）的官方 CLI：从终端或 CI
 ```mermaid
 xychart-beta
     title "nitrosend/cli 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 46 --> 125
-    line [52, 99, 115, 117, 119, 118, 118]
+    line [52, 99, 115, 117, 119, 118, 117]
 ```
 
-2026-10-22 52 → 2026-10-30 118（+66）
+2026-10-22 52 → 2026-10-31 117（+65）
 
 
 ---

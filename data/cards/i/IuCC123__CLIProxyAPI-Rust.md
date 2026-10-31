@@ -1,6 +1,6 @@
 # IuCC123/CLIProxyAPI-Rust
 
-⭐ 36 · Rust · Unlicense · 推送 2026-10-13 · [GitHub](https://github.com/IuCC123/CLIProxyAPI-Rust) · 个人维护
+⭐ 37 · Rust · Unlicense · 推送 2026-10-13 · [GitHub](https://github.com/IuCC123/CLIProxyAPI-Rust) · 个人维护
 
 **把多家 AI 订阅账号聚合为一个兼容 API 的 Rust 单二进制网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IuCC123/CLIProxyAPI-Rust 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30"]
+    title "IuCC123/CLIProxyAPI-Rust 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 35 --> 39
-    line [37, 38, 37, 36]
+    line [37, 38, 37, 36, 37]
 ```
 
-2026-10-18 37 → 2026-10-30 36（-1）
+2026-10-18 37 → 2026-10-31 37（+0）
 
 
 ---

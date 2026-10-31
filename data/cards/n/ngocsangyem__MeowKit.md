@@ -46,12 +46,12 @@ MeowKit 通过 npm CLI 或 Claude Code 插件市场安装一个 .claude/ 目录�
 ```mermaid
 xychart-beta
     title "ngocsangyem/MeowKit 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hubooooooo/ai-product-starter-kit
 
-⭐ 17 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hubooooooo/ai-product-starter-kit) · 个人维护 · 中文 README
+⭐ 18 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/hubooooooo/ai-product-starter-kit) · 个人维护 · 中文 README
 
 **不懂代码的人用编码 AI 把 AI 产品从想法做到上线的工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hubooooooo/ai-product-starter-kit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 8 --> 18
-    line [9, 11, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 8 --> 19
+    line [9, 11, 15, 16, 17, 18]
 ```
 
-2026-10-18 9 → 2026-10-30 17（+8）
+2026-10-18 9 → 2026-10-31 18（+9）
 
 
 ---

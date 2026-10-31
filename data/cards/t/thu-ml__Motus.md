@@ -1,6 +1,6 @@
 # thu-ml/Motus
 
-⭐ 1,316 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/thu-ml/Motus) · [官网](https://motus-robotics.github.io/motus) · 组织维护 · 中文 README
+⭐ 1,317 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/thu-ml/Motus) · [官网](https://motus-robotics.github.io/motus) · 组织维护 · 中文 README
 
 **统一潜动作世界模型：机器人的视频生成与视觉-语言-动作预测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thu-ml/Motus 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1310 --> 1317
-    line [1311, 1312, 1313, 1315, 1316, 1316]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 1310 --> 1318
+    line [1311, 1312, 1313, 1315, 1316, 1317]
 ```
 
-2026-10-18 1,311 → 2026-10-30 1,316（+5）
+2026-10-18 1,311 → 2026-10-31 1,317（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # xai-org/grok-build-plugin-cc
 
-⭐ 269 · JavaScript · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/xai-org/grok-build-plugin-cc) · 组织维护
+⭐ 270 · JavaScript · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/xai-org/grok-build-plugin-cc) · 组织维护
 
 **把 Grok CLI 桥接进 Claude Code 的插件：委派审查与导入会话**
 
@@ -44,13 +44,13 @@ Claude Code marketplace 插件，通过 shell 调用真实 `grok` CLI，将 Grok
 
 ```mermaid
 xychart-beta
-    title "xai-org/grok-build-plugin-cc 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 262 --> 270
-    line [263, 264, 265, 266, 265, 267, 269]
+    title "xai-org/grok-build-plugin-cc 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 262 --> 271
+    line [263, 264, 265, 266, 265, 267, 269, 270]
 ```
 
-2026-10-18 263 → 2026-10-30 269（+6）
+2026-10-18 263 → 2026-10-31 270（+7）
 
 
 ---

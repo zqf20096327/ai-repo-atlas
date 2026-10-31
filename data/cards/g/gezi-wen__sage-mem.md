@@ -1,6 +1,6 @@
 # gezi-wen/sage-mem
 
-⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/gezi-wen/sage-mem) · [官网](https://www.npmjs.com/package/sage-mem) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/gezi-wen/sage-mem) · [官网](https://www.npmjs.com/package/sage-mem) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的跨会话记忆插件：纯 Markdown 文件存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gezi-wen/sage-mem 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 10 --> 24
     line [11, 15, 16, 18, 19, 21, 22, 23, 23]
 ```
 
-2026-10-18 11 → 2026-10-30 23（+12）
+2026-10-18 11 → 2026-10-31 23（+12）
 
 
 ---

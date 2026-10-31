@@ -1,6 +1,6 @@
 # SikamikanikoBG/patzer
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SikamikanikoBG/patzer) · [官网](https://sikamikanikobg.github.io/patzer/) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/SikamikanikoBG/patzer) · [官网](https://sikamikanikobg.github.io/patzer/) · 个人维护
 
 **自托管的私有国际象棋平台：复盘、对弈与本地 LLM 教练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SikamikanikoBG/patzer 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 40 --> 56
-    line [41, 42, 46, 47, 48, 50, 52, 53, 54, 55]
+    title "SikamikanikoBG/patzer 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 40 --> 57
+    line [41, 42, 46, 47, 48, 50, 52, 53, 54, 55, 56]
 ```
 
-2026-10-18 41 → 2026-10-30 55（+14）
+2026-10-18 41 → 2026-10-31 56（+15）
 
 
 ---

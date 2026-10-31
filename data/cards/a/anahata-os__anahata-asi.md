@@ -1,6 +1,6 @@
 # anahata-os/anahata-asi
 
-⭐ 28 · Java · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/anahata-os/anahata-asi) · [官网](http://asi.anahata.uno) · 个人维护
+⭐ 28 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/anahata-os/anahata-asi) · [官网](http://asi.anahata.uno) · 个人维护
 
 **纯 Java 的气隙 ASI/AGI 容器与 agent 运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anahata-os/anahata-asi 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 28（+0）
 
 
 ---

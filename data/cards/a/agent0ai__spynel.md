@@ -1,6 +1,6 @@
 # agent0ai/spynel
 
-⭐ 211 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agent0ai/spynel) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 212 · Go · MIT · 推送 2026-10-25 · [GitHub](https://github.com/agent0ai/spynel) · [官网](https://agent-zero.ai) · 组织维护
 
 **单聊天界面的 agent 编排工具：统一协调已有编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agent0ai/spynel 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 204 --> 212
-    line [205, 208, 209, 211, 211]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 204 --> 213
+    line [205, 208, 209, 211, 212]
 ```
 
-2026-10-18 205 → 2026-10-30 211（+6）
+2026-10-18 205 → 2026-10-31 212（+7）
 
 
 ---

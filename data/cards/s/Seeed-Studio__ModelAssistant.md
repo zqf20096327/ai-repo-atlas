@@ -1,6 +1,6 @@
 # Seeed-Studio/ModelAssistant
 
-⭐ 449 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
+⭐ 448 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Seeed-Studio/ModelAssistant) · [官网](https://sensecraftma.seeed.cc/) · 组织维护 · 中文 README
 
 **面向嵌入式设备的 AI 模型训练与部署开源工具链**
 
@@ -46,12 +46,12 @@ Seeed Studio 维护的嵌入式 AI 项目：将 OpenMMLab 等来源的算法（�
 ```mermaid
 xychart-beta
     title "Seeed-Studio/ModelAssistant 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31"]
     y-axis "stars" 447 --> 451
-    line [448, 449, 450, 449, 449]
+    line [448, 449, 450, 449, 448]
 ```
 
-2026-10-18 448 → 2026-10-30 449（+1）
+2026-10-18 448 → 2026-10-31 448（+0）
 
 
 ---

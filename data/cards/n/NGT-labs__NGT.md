@@ -1,6 +1,6 @@
 # NGT-labs/NGT
 
-⭐ 1,376 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/NGT-labs/NGT) · 组织维护
+⭐ 1,376 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/NGT-labs/NGT) · 组织维护
 
 **面向高维向量的近似最近邻搜索库与命令行工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NGT-labs/NGT 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "NGT-labs/NGT 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1374 --> 1377
-    line [1375, 1376]
+    line [1375, 1376, 1376]
 ```
 
-2026-10-18 1,375 → 2026-10-30 1,376（+1）
+2026-10-18 1,375 → 2026-10-31 1,376（+1）
 
 
 ---

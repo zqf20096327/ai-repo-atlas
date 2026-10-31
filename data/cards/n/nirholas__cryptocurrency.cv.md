@@ -1,6 +1,6 @@
 # nirholas/cryptocurrency.cv
 
-⭐ 326 · TypeScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [官网](https://cryptocurrency.cv) · 个人维护
+⭐ 329 · TypeScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/nirholas/cryptocurrency.cv) · [官网](https://cryptocurrency.cv) · 个人维护
 
 **免费加密货币新闻聚合 API：450+ 端点，无需 API key**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/cryptocurrency.cv 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 320 --> 327
-    line [321, 322, 323, 324, 326, 326]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 320 --> 330
+    line [321, 322, 323, 324, 326, 329]
 ```
 
-2026-10-18 321 → 2026-10-30 326（+5）
+2026-10-18 321 → 2026-10-31 329（+8）
 
 
 ---

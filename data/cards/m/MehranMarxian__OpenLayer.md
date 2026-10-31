@@ -1,6 +1,6 @@
 # MehranMarxian/OpenLayer
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/MehranMarxian/OpenLayer) · [官网](https://mehran-ahmadi.com/OpenLayer/) · 个人维护
 
 **面向 Photoshop 的 ComfyUI 插件：本地生成 AI 图层并返回可编辑图层**
 
@@ -45,12 +45,12 @@ Adobe UXP 面板，嵌入 Photoshop 后连接本地 ComfyUI 服务器，提供 1
 ```mermaid
 xychart-beta
     title "MehranMarxian/OpenLayer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-30"]
-    y-axis "stars" 40 --> 45
-    line [42, 41, 42, 43, 44, 44]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-31"]
+    y-axis "stars" 40 --> 46
+    line [42, 41, 42, 43, 44, 45]
 ```
 
-2026-10-18 42 → 2026-10-30 44（+2）
+2026-10-18 42 → 2026-10-31 45（+3）
 
 
 ---

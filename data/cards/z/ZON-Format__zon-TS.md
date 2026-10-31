@@ -46,12 +46,12 @@ Zero Overhead Notation（ZON）是一种紧凑的数据序列化格式，以表�
 ```mermaid
 xychart-beta
     title "ZON-Format/zon-TS 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-18 51 → 2026-10-30 51（+0）
+2026-10-18 51 → 2026-10-31 51（+0）
 
 
 ---

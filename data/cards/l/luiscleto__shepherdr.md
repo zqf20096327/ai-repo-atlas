@@ -1,6 +1,6 @@
 # luiscleto/shepherdr
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/luiscleto/shepherdr) · 个人维护
+⭐ 17 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/luiscleto/shepherdr) · 个人维护
 
 **手机网页端监控与操作 Herdr 编码 agent 的界面**
 
@@ -45,13 +45,13 @@ Go 编写的 Web 界面，连接本地运行的 Herdr（0.9.0+），面向从手
 
 ```mermaid
 xychart-beta
-    title "luiscleto/shepherdr 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 12 --> 17
-    line [13, 16]
+    title "luiscleto/shepherdr 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 12 --> 18
+    line [13, 16, 17]
 ```
 
-2026-10-18 13 → 2026-10-30 16（+3）
+2026-10-18 13 → 2026-10-31 17（+4）
 
 
 ---

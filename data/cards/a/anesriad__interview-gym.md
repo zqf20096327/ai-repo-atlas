@@ -46,12 +46,12 @@ LeetCode 风格的本地练习应用，覆盖 SQL、Python/DSA、应用 ML、系
 ```mermaid
 xychart-beta
     title "anesriad/interview-gym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

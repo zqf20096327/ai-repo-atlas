@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DolbyUUU/Cheat-Sheet-for-NVIDIA-Certified-Associate-Generative-AI-LLMs-NCA-GENL- 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-26", "2026-10-31"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-18 15 → 2026-10-30 17（+2）
+2026-10-18 15 → 2026-10-31 17（+2）
 
 
 ---

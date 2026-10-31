@@ -1,6 +1,6 @@
 # JustVugg/nanoeuler
 
-⭐ 126 · Cuda · MIT · 推送 2026-06-18 · [GitHub](https://github.com/JustVugg/nanoeuler) · 个人维护
+⭐ 127 · Cuda · MIT · 推送 2026-06-18 · [GitHub](https://github.com/JustVugg/nanoeuler) · 个人维护
 
 **从零手写 C/CUDA 实现的 GPT-2 级 LLM 训练管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JustVugg/nanoeuler 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
-    y-axis "stars" 124 --> 127
-    line [125, 126, 126]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
+    y-axis "stars" 124 --> 128
+    line [125, 126, 127]
 ```
 
-2026-10-18 125 → 2026-10-30 126（+1）
+2026-10-18 125 → 2026-10-31 127（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hijkzzz/Awesome-LLM-Strawberry
 
-⭐ 6,902 · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/hijkzzz/Awesome-LLM-Strawberry) · 个人维护 · 中文 README
+⭐ 6,901 · Apache-2.0 · 推送 2025-12-17 · [GitHub](https://github.com/hijkzzz/Awesome-LLM-Strawberry) · 个人维护 · 中文 README
 
 **LLM 推理研究论文/博客/开源项目策展清单（聚焦 OpenAI o1）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hijkzzz/Awesome-LLM-Strawberry 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31"]
     y-axis "stars" 6900 --> 6905
-    line [6904, 6903, 6901, 6902, 6903, 6902, 6902]
+    line [6904, 6903, 6901, 6902, 6903, 6902, 6901]
 ```
 
-2026-10-18 6,904 → 2026-10-30 6,902（-2）
+2026-10-18 6,904 → 2026-10-31 6,901（-3）
 
 
 ---

@@ -1,6 +1,6 @@
 # KMnO4-zx/paper-insight
 
-⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/KMnO4-zx/paper-insight) · [官网](https://paper-insight.herobase.tech/) · 个人维护 · 中文 README
+⭐ 140 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/KMnO4-zx/paper-insight) · [官网](https://paper-insight.herobase.tech/) · 个人维护 · 中文 README
 
 **帮研究者快速初筛 AI 会议论文并管理精读候选的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KMnO4-zx/paper-insight 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 137 --> 140
-    line [138, 139, 139]
+    x-axis ["2026-10-18", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 137 --> 141
+    line [138, 139, 140]
 ```
 
-2026-10-18 138 → 2026-10-30 139（+1）
+2026-10-18 138 → 2026-10-31 140（+2）
 
 
 ---

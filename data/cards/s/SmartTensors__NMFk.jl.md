@@ -46,12 +46,12 @@ SmartTensors 框架的 Julia 模块，实现带 k-means 聚类与物理约束的
 ```mermaid
 xychart-beta
     title "SmartTensors/NMFk.jl 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-18 20 → 2026-10-30 20（+0）
+2026-10-18 20 → 2026-10-31 20（+0）
 
 
 ---

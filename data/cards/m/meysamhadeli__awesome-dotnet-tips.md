@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "meysamhadeli/awesome-dotnet-tips 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "meysamhadeli/awesome-dotnet-tips 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 1306 --> 1309
-    line [1307, 1308]
+    line [1307, 1308, 1308]
 ```
 
-2026-10-18 1,307 → 2026-10-30 1,308（+1）
+2026-10-18 1,307 → 2026-10-31 1,308（+1）
 
 
 ---

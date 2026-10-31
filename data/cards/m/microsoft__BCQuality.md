@@ -1,6 +1,6 @@
 # microsoft/BCQuality
 
-⭐ 237 · AL · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/BCQuality) · 组织维护
+⭐ 238 · AL · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/BCQuality) · 组织维护
 
 **面向 Business Central 开发的 AI 质量知识与技能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/BCQuality 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 229 --> 238
-    line [230, 232, 233, 236, 237]
+    title "microsoft/BCQuality 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 229 --> 239
+    line [230, 232, 233, 236, 237, 238]
 ```
 
-2026-10-18 230 → 2026-10-30 237（+7）
+2026-10-18 230 → 2026-10-31 238（+8）
 
 
 ---

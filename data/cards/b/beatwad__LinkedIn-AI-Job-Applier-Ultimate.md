@@ -1,6 +1,6 @@
 # beatwad/LinkedIn-AI-Job-Applier-Ultimate
 
-⭐ 181 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
+⭐ 182 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/beatwad/LinkedIn-AI-Job-Applier-Ultimate) · 个人维护
 
 **求职者自动化投递机器人：AI 定制简历并自动申请 LinkedIn/Indeed 职位**
 
@@ -46,12 +46,12 @@ AIHawk 项目的活跃 fork，用 Python 编写。基于 Patchright（Playwright
 ```mermaid
 xychart-beta
     title "beatwad/LinkedIn-AI-Job-Applier-Ultimate 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 175 --> 182
-    line [176, 177, 176, 177, 179, 180, 181, 181]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 175 --> 183
+    line [176, 177, 176, 177, 179, 180, 181, 182]
 ```
 
-2026-10-18 176 → 2026-10-30 181（+5）
+2026-10-18 176 → 2026-10-31 182（+6）
 
 
 ---

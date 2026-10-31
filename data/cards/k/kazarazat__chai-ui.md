@@ -1,6 +1,6 @@
 # kazarazat/chai-ui
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/kazarazat/chai-ui) · [官网](https://chai-ui.com) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kazarazat/chai-ui) · [官网](https://chai-ui.com) · 个人维护
 
 **面向 AI 应用的设计系统组件库，统一界面操控多种生成模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kazarazat/chai-ui 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31"]
     y-axis "stars" 8 --> 17
     line [9, 10, 12, 13, 15, 16, 16]
 ```
 
-2026-10-18 9 → 2026-10-30 16（+7）
+2026-10-18 9 → 2026-10-31 16（+7）
 
 
 ---

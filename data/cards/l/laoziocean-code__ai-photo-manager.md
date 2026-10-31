@@ -1,6 +1,6 @@
 # laoziocean-code/ai-photo-manager
 
-⭐ 34 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laoziocean-code/ai-photo-manager) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/laoziocean-code/ai-photo-manager) · 个人维护 · 中文 README
 
 **从海量照片中自动精选好照片的 AI 摄影管理工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "laoziocean-code/ai-photo-manager 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 28 --> 35
-    line [29, 30, 31, 32, 33, 34]
+    title "laoziocean-code/ai-photo-manager 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 28 --> 36
+    line [29, 30, 31, 32, 33, 34, 35]
 ```
 
-2026-10-18 29 → 2026-10-30 34（+5）
+2026-10-18 29 → 2026-10-31 35（+6）
 
 
 ---

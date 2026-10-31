@@ -1,6 +1,6 @@
 # PCDCK/ozon-mcp
 
-⭐ 23 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/PCDCK/ozon-mcp) · [官网](https://github.com/PCDCK/ozon-mcp) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/PCDCK/ozon-mcp) · [官网](https://github.com/PCDCK/ozon-mcp) · 个人维护
 
 **连接 AI 代理与 Ozon 卖家后台的 MCP 服务器（15 个工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PCDCK/ozon-mcp 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 24（+1）
 
 
 ---

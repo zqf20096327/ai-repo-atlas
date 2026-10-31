@@ -1,6 +1,6 @@
 # worldbench/awesome-ai-auto-research
 
-⭐ 570 · HTML · MIT · 推送 2026-10-28 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
+⭐ 570 · HTML · MIT · 推送 2026-10-30 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
 
 **AI 自动科研综述配套论文清单：覆盖科研全生命周期**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-ai-auto-research 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30"]
+    title "worldbench/awesome-ai-auto-research 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 550 --> 571
-    line [551, 558, 560, 563, 564, 565, 568, 570]
+    line [551, 558, 560, 563, 564, 565, 568, 570, 570]
 ```
 
-2026-10-18 551 → 2026-10-30 570（+19）
+2026-10-18 551 → 2026-10-31 570（+19）
 
 
 ---

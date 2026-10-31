@@ -1,6 +1,6 @@
 # xcosmosbox/Cairn
 
-⭐ 44 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xcosmosbox/Cairn) · 个人维护 · 中文 README
+⭐ 54 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/xcosmosbox/Cairn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的领域知识图谱层：蒸馏 Skill 文档并以 MCP 交付**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xcosmosbox/Cairn 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 16 --> 46
-    line [18, 19, 24, 28, 37, 41, 44]
+    title "xcosmosbox/Cairn 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 15 --> 57
+    line [18, 19, 24, 28, 37, 41, 44, 54]
 ```
 
-2026-10-18 18 → 2026-10-30 44（+26）
+2026-10-18 18 → 2026-10-31 54（+36）
 
 
 ---

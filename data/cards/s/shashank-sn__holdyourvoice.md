@@ -1,6 +1,6 @@
 # shashank-sn/holdyourvoice
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/shashank-sn/holdyourvoice) · 个人维护
+⭐ 32 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/shashank-sn/holdyourvoice) · 个人维护
 
 **本地校验写作风格的 CLI/MCP 工具，保作者声线于 AI 编辑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shashank-sn/holdyourvoice 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-18 32 → 2026-10-30 32（+0）
+2026-10-18 32 → 2026-10-31 32（+0）
 
 
 ---

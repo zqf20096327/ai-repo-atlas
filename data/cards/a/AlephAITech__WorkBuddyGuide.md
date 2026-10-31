@@ -1,6 +1,6 @@
 # AlephAITech/WorkBuddyGuide
 
-⭐ 3,653 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/WorkBuddyGuide) · [官网](https://workbuddy.homes/) · 组织维护 · 中文 README
+⭐ 3,661 · TypeScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AlephAITech/WorkBuddyGuide) · [官网](https://workbuddy.homes/) · 组织维护 · 中文 README
 
 **社区维护的 WorkBuddy 实战教程与案例知识库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlephAITech/WorkBuddyGuide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3466 --> 3670
-    line [3483, 3527, 3578, 3589, 3600, 3606, 3615, 3632, 3638, 3653]
+    title "AlephAITech/WorkBuddyGuide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3466 --> 3678
+    line [3483, 3527, 3578, 3589, 3600, 3606, 3615, 3632, 3638, 3653, 3661]
 ```
 
-2026-10-18 3,483 → 2026-10-30 3,653（+170）
+2026-10-18 3,483 → 2026-10-31 3,661（+178）
 
 
 ---

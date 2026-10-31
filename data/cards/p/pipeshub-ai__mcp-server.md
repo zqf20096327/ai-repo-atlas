@@ -1,6 +1,6 @@
 # pipeshub-ai/mcp-server
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/pipeshub-ai/mcp-server) · [官网](https://pipeshub.com/) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/pipeshub-ai/mcp-server) · [官网](https://pipeshub.com/) · 组织维护
 
 **PipesHub 的远程 MCP 服务器：让 MCP 客户端接入企业搜索与 RAG**
 
@@ -45,12 +45,12 @@ PipesHub 官方的本地/远程 MCP 服务器组件包，通过 Streamable HTTP 
 ```mermaid
 xychart-beta
     title "pipeshub-ai/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-25", "2026-10-31"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-10-30 17（+0）
+2026-10-25 17 → 2026-10-31 17（+0）
 
 
 ---

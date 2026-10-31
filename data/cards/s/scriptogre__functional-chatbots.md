@@ -45,12 +45,12 @@ Django + htmx 技术栈的演示应用：聊天接口一次往返返回聊天消
 ```mermaid
 xychart-beta
     title "scriptogre/functional-chatbots 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

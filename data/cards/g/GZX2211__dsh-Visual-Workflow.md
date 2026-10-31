@@ -1,6 +1,6 @@
 # GZX2211/dsh-Visual-Workflow
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/GZX2211/dsh-Visual-Workflow) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/GZX2211/dsh-Visual-Workflow) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的可视化 Agent 编排插件平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GZX2211/dsh-Visual-Workflow 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 50 --> 59
-    line [51, 52, 53, 54, 56, 58]
+    title "GZX2211/dsh-Visual-Workflow 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 50 --> 60
+    line [51, 52, 53, 54, 56, 58, 59]
 ```
 
-2026-10-18 51 → 2026-10-30 58（+7）
+2026-10-18 51 → 2026-10-31 59（+8）
 
 
 ---

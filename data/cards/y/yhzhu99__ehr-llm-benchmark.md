@@ -46,12 +46,12 @@ npj Digital Medicine 2026 论文 ClinicRealm 的官方代码仓库：在 MIMIC-I
 ```mermaid
 xychart-beta
     title "yhzhu99/ehr-llm-benchmark 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-18 15 → 2026-10-30 15（+0）
+2026-10-18 15 → 2026-10-31 15（+0）
 
 
 ---

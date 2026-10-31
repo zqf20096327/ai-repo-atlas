@@ -1,6 +1,6 @@
 # PySymGym/PySymGym
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/PySymGym/PySymGym) · [官网](https://pysymgym.github.io/PySymGym/) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/PySymGym/PySymGym) · [官网](https://pysymgym.github.io/PySymGym/) · 组织维护
 
 **训练符号执行引擎路径选择器的 Python 基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PySymGym/PySymGym 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Isaac ROS Freespace Segmentation 提供 ROS 2 包 isaac_ros_bi3d_freespace，基
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_freespace_segmentation 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 44（+0）
 
 
 ---

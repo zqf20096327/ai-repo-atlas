@@ -45,12 +45,12 @@ Python x402 支付协议扩展的 TypeScript 完整实现，用于 A2A（Agent-t
 ```mermaid
 xychart-beta
     title "dabit3/a2a-x402-typescript 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-18 104 → 2026-10-30 104（+0）
+2026-10-18 104 → 2026-10-31 104（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Meliwat/awesome-ios-design-md
 
-⭐ 629 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Meliwat/awesome-ios-design-md) · [官网](https://www.spectr.to/gallery) · 个人维护
+⭐ 630 · MIT · 推送 2026-05-21 · [GitHub](https://github.com/Meliwat/awesome-ios-design-md) · [官网](https://www.spectr.to/gallery) · 个人维护
 
 **给 AI 编码代理的 200 个真实 App 设计系统文档库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Meliwat/awesome-ios-design-md 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 600 --> 631
-    line [602, 608, 614, 616, 617, 621, 627, 629]
+    title "Meliwat/awesome-ios-design-md 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 600 --> 632
+    line [602, 608, 614, 616, 617, 621, 627, 629, 630]
 ```
 
-2026-10-18 602 → 2026-10-30 629（+27）
+2026-10-18 602 → 2026-10-31 630（+28）
 
 
 ---

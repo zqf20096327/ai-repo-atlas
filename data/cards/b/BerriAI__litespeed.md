@@ -45,12 +45,12 @@ Litespeed 是运行在本地的 coding agent，提供终端 CLI、Apple silicon 
 ```mermaid
 xychart-beta
     title "BerriAI/litespeed 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-31"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 29（+1）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

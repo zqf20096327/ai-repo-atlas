@@ -1,6 +1,6 @@
 # alibaba/ServeGen
 
-⭐ 188 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/alibaba/ServeGen) · 组织维护 · 中文 README
+⭐ 189 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/alibaba/ServeGen) · 组织维护 · 中文 README
 
 **面向 LLM 推理服务的真实工作负载生成框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alibaba/ServeGen 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 179 --> 189
-    line [180, 183, 184, 185, 187, 188]
+    title "alibaba/ServeGen 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 179 --> 190
+    line [180, 183, 184, 185, 187, 188, 189]
 ```
 
-2026-10-18 180 → 2026-10-30 188（+8）
+2026-10-18 180 → 2026-10-31 189（+9）
 
 
 ---

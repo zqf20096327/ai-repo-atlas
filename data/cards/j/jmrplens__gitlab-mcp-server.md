@@ -1,6 +1,6 @@
 # jmrplens/gitlab-mcp-server
 
-⭐ 45 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/jmrplens/gitlab-mcp-server) · [官网](https://docs.jmrp.io/gitlab-mcp-server/) · 个人维护
+⭐ 45 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/jmrplens/gitlab-mcp-server) · [官网](https://docs.jmrp.io/gitlab-mcp-server/) · 个人维护
 
 **把 1,103 个 GitLab API 操作接入 AI 助手的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Go 编写的自包含单二进制 MCP 服务器，将 GitLab REST/GraphQL API �
 ```mermaid
 xychart-beta
     title "jmrplens/gitlab-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # FURUYAN1234/nano-banana-pro
 
-⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/FURUYAN1234/nano-banana-pro) · [官网](https://furuyan1234.github.io/nano-banana-pro/) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/FURUYAN1234/nano-banana-pro) · [官网](https://furuyan1234.github.io/nano-banana-pro/) · 个人维护 · 中文 README
 
 **调用 OpenAI/Gemini API 自动生成 4~8 格漫画的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FURUYAN1234/nano-banana-pro 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-18 19 → 2026-10-30 19（+0）
+2026-10-18 19 → 2026-10-31 19（+0）
 
 
 ---

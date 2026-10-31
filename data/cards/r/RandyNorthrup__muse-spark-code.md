@@ -1,6 +1,6 @@
 # RandyNorthrup/muse-spark-code
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RandyNorthrup/muse-spark-code) · [官网](https://github.com/RandyNorthrup/muse-spark-code#install-in-your-editor) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RandyNorthrup/muse-spark-code) · [官网](https://github.com/RandyNorthrup/muse-spark-code#install-in-your-editor) · 个人维护
 
 **把 Meta Muse Spark 模型接入编辑器的编码 agent 扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RandyNorthrup/muse-spark-code 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 12 --> 18
-    line [13, 14, 15, 17]
+    title "RandyNorthrup/muse-spark-code 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 17, 18]
 ```
 
-2026-10-18 13 → 2026-10-30 17（+4）
+2026-10-18 13 → 2026-10-31 18（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # amitray007/headroom
 
-⭐ 77 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/amitray007/headroom) · [官网](https://headroom.theblank.club) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/amitray007/headroom) · [官网](https://headroom.theblank.club) · 个人维护
 
 **自托管仪表盘：统一追踪多个 AI 订阅的额度与花费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amitray007/headroom 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30"]
-    y-axis "stars" 66 --> 78
-    line [67, 71, 74, 75, 76, 77, 77]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31"]
+    y-axis "stars" 66 --> 79
+    line [67, 71, 74, 75, 76, 77, 78]
 ```
 
-2026-10-18 67 → 2026-10-30 77（+10）
+2026-10-18 67 → 2026-10-31 78（+11）
 
 
 ---

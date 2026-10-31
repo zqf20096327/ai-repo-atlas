@@ -1,6 +1,6 @@
 # Syenzzz/mcd-coupon-strategist
 
-⭐ 993 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Syenzzz/mcd-coupon-strategist) · [官网](https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md) · 个人维护 · 中文 README
+⭐ 994 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Syenzzz/mcd-coupon-strategist) · [官网](https://github.com/Ayzzz123/mcd-coupon-strategist/blob/main/MCP_INTEGRATION.md) · 个人维护 · 中文 README
 
 **基于麦当劳中国 MCP 的点餐省钱技能：算最省方案与券流失**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Syenzzz/mcd-coupon-strategist 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 989 --> 994
-    line [990, 992, 993, 993]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 989 --> 995
+    line [990, 992, 993, 994]
 ```
 
-2026-10-26 990 → 2026-10-30 993（+3）
+2026-10-26 990 → 2026-10-31 994（+4）
 
 
 ---

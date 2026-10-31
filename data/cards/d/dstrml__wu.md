@@ -1,6 +1,6 @@
 # dstrml/wu
 
-⭐ 207 · Rust · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护
+⭐ 209 · Rust · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护
 
 **Rust 编写的原生代码编辑器，内置 coding agent 工作区**
 
@@ -44,13 +44,13 @@ Wu 是用 Rust 编写的原生代码编辑器，是 Zed 的 fork 但已大幅分
 
 ```mermaid
 xychart-beta
-    title "dstrml/wu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 196 --> 208
-    line [197, 200, 202, 203, 204, 207]
+    title "dstrml/wu 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 196 --> 210
+    line [197, 200, 202, 203, 204, 207, 209]
 ```
 
-2026-10-18 197 → 2026-10-30 207（+10）
+2026-10-18 197 → 2026-10-31 209（+12）
 
 
 ---

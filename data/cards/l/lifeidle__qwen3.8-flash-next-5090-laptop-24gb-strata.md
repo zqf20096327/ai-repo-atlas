@@ -1,6 +1,6 @@
 # lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata
 
-⭐ 23 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata) · [官网](https://chat.specul.com) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata) · [官网](https://chat.specul.com) · 个人维护 · 中文 README
 
 **在 RTX 5090 笔记本上自托管 Qwen3.8-Flash-Next 177B 的调优实录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lifeidle/qwen3.8-flash-next-5090-laptop-24gb-strata 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 23]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 24]
 ```
 
-2026-10-18 20 → 2026-10-30 23（+3）
+2026-10-18 20 → 2026-10-31 24（+4）
 
 
 ---

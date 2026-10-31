@@ -1,6 +1,6 @@
 # s87343472/awesome-ai-hardware
 
-⭐ 15 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/s87343472/awesome-ai-hardware) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/s87343472/awesome-ai-hardware) · 个人维护 · 中文 README
 
 **开源 AI 硬件项目策展清单：AI/LLM 与实体硬件结合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "s87343472/awesome-ai-hardware 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-18 14 → 2026-10-30 15（+1）
+2026-10-18 14 → 2026-10-31 16（+2）
 
 
 ---

@@ -45,12 +45,12 @@ ACL 2025 Findings 论文 Autonomous Data Selection 的官方实现，同时发�
 ```mermaid
 xychart-beta
     title "yifanzhang-pro/AutoMathText 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-18 93 → 2026-10-30 93（+0）
+2026-10-18 93 → 2026-10-31 93（+0）
 
 
 ---

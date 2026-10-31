@@ -1,6 +1,6 @@
 # attevon-llc/OpenTranscribe
 
-⭐ 103 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/attevon-llc/OpenTranscribe) · [官网](http://docs.opentranscribe.app) · 组织维护
+⭐ 104 · Python · AGPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/attevon-llc/OpenTranscribe) · [官网](http://docs.opentranscribe.app) · 组织维护
 
 **自托管 AI 转录平台：语音转文字、说话人分离与全文检索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "attevon-llc/OpenTranscribe 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 100 --> 104
-    line [101, 102, 103]
+    title "attevon-llc/OpenTranscribe 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 100 --> 105
+    line [101, 102, 103, 104]
 ```
 
-2026-10-18 101 → 2026-10-30 103（+2）
+2026-10-18 101 → 2026-10-31 104（+3）
 
 
 ---

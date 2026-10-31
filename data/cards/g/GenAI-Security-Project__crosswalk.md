@@ -1,6 +1,6 @@
 # GenAI-Security-Project/crosswalk
 
-⭐ 34 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/GenAI-Security-Project/crosswalk) · [官网](https://genai-security-project.github.io/crosswalk/) · 组织维护
+⭐ 35 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/GenAI-Security-Project/crosswalk) · [官网](https://genai-security-project.github.io/crosswalk/) · 组织维护
 
 **OWASP GenAI 安全风险到 26 个合规框架的控件映射知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GenAI-Security-Project/crosswalk 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 30 --> 35
-    line [31, 33, 34, 34]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 30 --> 36
+    line [31, 33, 34, 35]
 ```
 
-2026-10-18 31 → 2026-10-30 34（+3）
+2026-10-18 31 → 2026-10-31 35（+4）
 
 
 ---

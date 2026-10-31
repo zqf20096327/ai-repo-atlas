@@ -1,6 +1,6 @@
 # BBuf/how-to-optim-algorithm-in-cuda
 
-⭐ 3,335 · Cuda · 推送 2026-10-11 · [GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · 个人维护 · 中文 README
+⭐ 3,337 · Cuda · 推送 2026-10-11 · [GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · 个人维护 · 中文 README
 
 **CUDA/GPU 内核与 LLM 推理优化的学习笔记仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BBuf/how-to-optim-algorithm-in-cuda 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 3316 --> 3336
-    line [3317, 3329, 3333, 3334, 3333, 3335]
+    title "BBuf/how-to-optim-algorithm-in-cuda 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3315 --> 3339
+    line [3317, 3329, 3333, 3334, 3333, 3335, 3337]
 ```
 
-2026-10-18 3,317 → 2026-10-30 3,335（+18）
+2026-10-18 3,317 → 2026-10-31 3,337（+20）
 
 
 ---

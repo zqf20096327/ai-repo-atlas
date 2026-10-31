@@ -1,6 +1,6 @@
 # rednafi/rexdiff
 
-⭐ 18 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/rednafi/rexdiff) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rednafi/rexdiff) · 个人维护
 
 **在 Rex 终端内查看 AI 编码代理改动差异的 CLI 工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "rednafi/rexdiff 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "rednafi/rexdiff 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 11 --> 19
-    line [12, 13, 16, 18]
+    line [12, 13, 16, 18, 18]
 ```
 
-2026-10-26 12 → 2026-10-30 18（+6）
+2026-10-26 12 → 2026-10-31 18（+6）
 
 
 ---

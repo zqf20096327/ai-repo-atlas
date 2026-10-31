@@ -43,12 +43,12 @@ Hugging Face Optimum 的硬件后端扩展：将 Transformers 模型加载到 Fu
 ```mermaid
 xychart-beta
     title "huggingface/optimum-furiosa 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-18 27 → 2026-10-30 27（+0）
+2026-10-18 27 → 2026-10-31 27（+0）
 
 
 ---

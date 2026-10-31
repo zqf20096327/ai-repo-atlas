@@ -1,6 +1,6 @@
 # Calix-L/awesome-latex-skills
 
-⭐ 184 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Calix-L/awesome-latex-skills) · 个人维护 · 中文 README
+⭐ 185 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/Calix-L/awesome-latex-skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 的五个 LaTeX 论文工作流 agent 技能工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Calix-L/awesome-latex-skills 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 181 --> 185
-    line [182, 183, 184, 184]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 181 --> 186
+    line [182, 183, 184, 185]
 ```
 
-2026-10-18 182 → 2026-10-30 184（+2）
+2026-10-18 182 → 2026-10-31 185（+3）
 
 
 ---

@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/awesome-community-detection 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 2453 --> 2455
     line [2454, 2454]
 ```
 
-2026-10-18 2,454 → 2026-10-30 2,454（+0）
+2026-10-18 2,454 → 2026-10-31 2,454（+0）
 
 
 ---

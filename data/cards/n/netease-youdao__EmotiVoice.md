@@ -1,6 +1,6 @@
 # netease-youdao/EmotiVoice
 
-⭐ 8,539 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/netease-youdao/EmotiVoice) · 组织维护 · 中文 README
+⭐ 8,541 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/netease-youdao/EmotiVoice) · 组织维护 · 中文 README
 
 **面向开发者的中英双语多音色情感 TTS 引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "netease-youdao/EmotiVoice 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    title "netease-youdao/EmotiVoice 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
     y-axis "stars" 8536 --> 8543
-    line [8541, 8542, 8540, 8539, 8537, 8538, 8539]
+    line [8541, 8542, 8540, 8539, 8537, 8538, 8539, 8541]
 ```
 
-2026-10-18 8,541 → 2026-10-30 8,539（-2）
+2026-10-18 8,541 → 2026-10-31 8,541（+0）
 
 
 ---

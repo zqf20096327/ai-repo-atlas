@@ -1,6 +1,6 @@
 # linxule/openinterviewer
 
-⭐ 30 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/linxule/openinterviewer) · [官网](https://openinterviewer.vercel.app) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/linxule/openinterviewer) · [官网](https://openinterviewer.vercel.app) · 个人维护 · 中文 README
 
 **给研究者的开源 AI 定性访谈平台：AI 主持访谈并生成分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "linxule/openinterviewer 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-18 29 → 2026-10-30 30（+1）
+2026-10-18 29 → 2026-10-31 30（+1）
 
 
 ---

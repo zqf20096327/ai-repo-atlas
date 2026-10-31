@@ -46,12 +46,12 @@ ADMIXTURE 算法的 CPU/GPU 实现，用 Python 编写，面向处理生物库�
 ```mermaid
 xychart-beta
     title "AI-sandbox/ADAMIXTURE 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-18 37 → 2026-10-30 37（+0）
+2026-10-18 37 → 2026-10-31 37（+0）
 
 
 ---

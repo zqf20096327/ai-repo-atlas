@@ -1,6 +1,6 @@
 # nshntarora/guidedreview
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nshntarora/guidedreview) · [官网](https://guidedreview.dev) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/nshntarora/guidedreview) · [官网](https://guidedreview.dev) · 个人维护
 
 **把 git diff / GitHub PR 变成有序 AI 代码走查的开发者工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nshntarora/guidedreview 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 18, 20, 21, 21]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 15 --> 26
+    line [16, 17, 18, 20, 21, 25]
 ```
 
-2026-10-18 16 → 2026-10-30 21（+5）
+2026-10-18 16 → 2026-10-31 25（+9）
 
 
 ---

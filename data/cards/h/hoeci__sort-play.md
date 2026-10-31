@@ -1,6 +1,6 @@
 # hoeci/sort-play
 
-⭐ 165 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/hoeci/sort-play) · 个人维护
+⭐ 165 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hoeci/sort-play) · 个人维护
 
 **给 Spotify 用户的桌面客户端增强扩展：排序/过滤/歌单生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hoeci/sort-play 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31"]
     y-axis "stars" 161 --> 166
     line [162, 163, 164, 165, 165]
 ```
 
-2026-10-18 162 → 2026-10-30 165（+3）
+2026-10-18 162 → 2026-10-31 165（+3）
 
 
 ---

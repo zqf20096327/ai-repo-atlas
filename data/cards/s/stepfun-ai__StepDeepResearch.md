@@ -45,12 +45,12 @@ StepFun（阶跃星辰）发布的深度研究 agent 模型，基于 ReAct 单 a
 ```mermaid
 xychart-beta
     title "stepfun-ai/StepDeepResearch 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 574 --> 576
     line [575, 575]
 ```
 
-2026-10-18 575 → 2026-10-30 575（+0）
+2026-10-18 575 → 2026-10-31 575（+0）
 
 
 ---

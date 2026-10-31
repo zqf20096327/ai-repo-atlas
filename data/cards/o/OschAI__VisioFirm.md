@@ -1,6 +1,6 @@
 # OschAI/VisioFirm
 
-⭐ 441 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/OschAI/VisioFirm) · [官网](https://arxiv.org/abs/2509.04180) · 个人维护
+⭐ 442 · Python · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/OschAI/VisioFirm) · [官网](https://arxiv.org/abs/2509.04180) · 个人维护
 
 **面向计算机视觉的 AI 辅助图像/视频标注工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OschAI/VisioFirm 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 438 --> 442
-    line [439, 440, 441, 441]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 438 --> 443
+    line [439, 440, 441, 442]
 ```
 
-2026-10-18 439 → 2026-10-30 441（+2）
+2026-10-18 439 → 2026-10-31 442（+3）
 
 
 ---

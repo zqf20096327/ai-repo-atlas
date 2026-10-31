@@ -1,6 +1,6 @@
 # NanoNets/docext
 
-⭐ 2,089 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/NanoNets/docext) · [官网](https://nanonets.com/document-parsing-and-extraction) · 组织维护
+⭐ 2,088 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/NanoNets/docext) · [官网](https://nanonets.com/document-parsing-and-extraction) · 组织维护
 
 **本地部署的 OCR-free 文档信息抽取与 Markdown 转换工具包**
 
@@ -46,12 +46,12 @@ Nanonets 开发的本地部署文档智能工具包，基于视觉语言模型�
 ```mermaid
 xychart-beta
     title "NanoNets/docext 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 2082 --> 2090
-    line [2083, 2084, 2086, 2088, 2089, 2089]
+    line [2083, 2084, 2086, 2088, 2089, 2088]
 ```
 
-2026-10-18 2,083 → 2026-10-30 2,089（+6）
+2026-10-18 2,083 → 2026-10-31 2,088（+5）
 
 
 ---

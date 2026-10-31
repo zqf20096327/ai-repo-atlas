@@ -45,12 +45,12 @@ PHP Composer 包，实现朴素贝叶斯文本分类：通过 learn 方法传入
 ```mermaid
 xychart-beta
     title "Assisted-Mindfulness/naive-bayes 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-18 45 → 2026-10-30 45（+0）
+2026-10-18 45 → 2026-10-31 45（+0）
 
 
 ---

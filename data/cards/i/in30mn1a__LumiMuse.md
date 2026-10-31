@@ -1,6 +1,6 @@
 # in30mn1a/LumiMuse
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/in30mn1a/LumiMuse) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/in30mn1a/LumiMuse) · 个人维护 · 中文 README
 
 **本地自部署的 AI 角色扮演/陪伴应用，带长期记忆与生图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "in30mn1a/LumiMuse 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-18 27 → 2026-10-30 28（+1）
+2026-10-18 27 → 2026-10-31 28（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Sumanth077/Hands-On-AI-Engineering
 
-⭐ 4,063 · Python · 推送 2026-10-29 · [GitHub](https://github.com/Sumanth077/Hands-On-AI-Engineering) · [官网](https://aiengineering.beehiiv.com) · 个人维护
+⭐ 4,067 · Python · 推送 2026-10-29 · [GitHub](https://github.com/Sumanth077/Hands-On-AI-Engineering) · [官网](https://aiengineering.beehiiv.com) · 个人维护
 
 **实践型 AI 工程项目合集：覆盖 Agent、OCR、RAG、音频等多模态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sumanth077/Hands-On-AI-Engineering 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 3990 --> 4069
-    line [3996, 4009, 4028, 4037, 4039, 4042, 4049, 4051, 4053, 4056, 4063]
+    title "Sumanth077/Hands-On-AI-Engineering 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 3989 --> 4074
+    line [3996, 4009, 4028, 4037, 4039, 4042, 4049, 4051, 4053, 4056, 4063, 4067]
 ```
 
-2026-10-18 3,996 → 2026-10-30 4,063（+67）
+2026-10-18 3,996 → 2026-10-31 4,067（+71）
 
 
 ---

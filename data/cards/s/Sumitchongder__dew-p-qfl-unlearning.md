@@ -41,6 +41,18 @@
 > L58: retained clients. We implement the full pipeline in Qiskit for a
 > L59: four-qubit data-re-uploading ansatz trained with FedAvg across five
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sumitchongder/dew-p-qfl-unlearning 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-30 17 → 2026-10-31 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `aac0b6cbaa96` · [字段定义](../../DATASET.md)*

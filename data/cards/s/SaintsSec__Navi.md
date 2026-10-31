@@ -1,6 +1,6 @@
 # SaintsSec/Navi
 
-⭐ 96 · Python · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/SaintsSec/Navi) · [官网](https://www.saintssec.org/) · 组织维护
+⭐ 97 · Python · AGPL-3.0 · 推送 2026-10-06 · [GitHub](https://github.com/SaintsSec/Navi) · [官网](https://www.saintssec.org/) · 组织维护
 
 **面向网络安全从业者的 AI 命令行聊天界面**
 
@@ -45,12 +45,12 @@ Python 编写的 CLI 工具，为网络安全从业者提供 AI 对话界面。�
 ```mermaid
 xychart-beta
     title "SaintsSec/Navi 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-10-30"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-10-23", "2026-10-31"]
+    y-axis "stars" 95 --> 98
+    line [96, 97]
 ```
 
-2026-10-23 96 → 2026-10-30 96（+0）
+2026-10-23 96 → 2026-10-31 97（+1）
 
 
 ---

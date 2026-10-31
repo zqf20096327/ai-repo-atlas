@@ -1,6 +1,6 @@
 # steel-dev/cli
 
-⭐ 33 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/steel-dev/cli) · 组织维护
+⭐ 33 · Rust · MIT · 推送 2026-10-30 · [GitHub](https://github.com/steel-dev/cli) · 组织维护
 
 **给 AI agent 用的云端/自托管浏览器基础设施 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "steel-dev/cli 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

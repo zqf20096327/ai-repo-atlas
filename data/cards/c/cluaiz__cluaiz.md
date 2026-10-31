@@ -1,6 +1,6 @@
 # cluaiz/cluaiz
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/cluaiz/cluaiz) · [官网](https://cluaiz.com) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/cluaiz/cluaiz) · [官网](https://cluaiz.com) · 个人维护
 
 **Rust 本地 AI 运行时引擎：本地推理与 agent 工作流编排**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cluaiz/cluaiz 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30"]
+    title "cluaiz/cluaiz 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 23 --> 29
-    line [24, 25, 27, 28]
+    line [24, 25, 27, 28, 28]
 ```
 
-2026-10-18 24 → 2026-10-30 28（+4）
+2026-10-18 24 → 2026-10-31 28（+4）
 
 
 ---

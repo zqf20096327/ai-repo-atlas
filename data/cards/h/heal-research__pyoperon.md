@@ -1,6 +1,6 @@
 # heal-research/pyoperon
 
-⭐ 83 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/heal-research/pyoperon) · 组织维护
+⭐ 84 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/heal-research/pyoperon) · 组织维护
 
 **符号回归 C++ 框架 Operon 的 Python 绑定与 sklearn 接口**
 
@@ -45,12 +45,12 @@ Operon 是 Heal-Research（奥地利上奥地利应用科学大学）开发的 C
 ```mermaid
 xychart-beta
     title "heal-research/pyoperon 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 82 --> 84
-    line [83, 83]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 82 --> 85
+    line [83, 84]
 ```
 
-2026-10-18 83 → 2026-10-30 83（+0）
+2026-10-18 83 → 2026-10-31 84（+1）
 
 
 ---

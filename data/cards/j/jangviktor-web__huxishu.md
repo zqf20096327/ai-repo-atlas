@@ -1,6 +1,6 @@
 # jangviktor-web/huxishu
 
-⭐ 47 · HTML · 推送 2026-08-23 · [GitHub](https://github.com/jangviktor-web/huxishu) · [官网](https://jangviktor-web.github.io/huxishu/) · 个人维护 · 中文 README
+⭐ 48 · HTML · 推送 2026-08-23 · [GitHub](https://github.com/jangviktor-web/huxishu) · [官网](https://jangviktor-web.github.io/huxishu/) · 个人维护 · 中文 README
 
 **将胡希恕六经八纲经方辨证体系注入 AI Agent 的技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangviktor-web/huxishu 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 39 --> 48
-    line [40, 41, 42, 44, 46, 47]
+    title "jangviktor-web/huxishu 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 39 --> 49
+    line [40, 41, 42, 44, 46, 47, 48]
 ```
 
-2026-10-18 40 → 2026-10-30 47（+7）
+2026-10-18 40 → 2026-10-31 48（+8）
 
 
 ---

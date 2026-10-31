@@ -1,6 +1,6 @@
 # google/xrblocks
 
-⭐ 495 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/google/xrblocks) · [官网](https://xrblocks.github.io) · 组织维护
+⭐ 498 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/google/xrblocks) · [官网](https://xrblocks.github.io) · 组织维护
 
 **面向开发者的 WebXR + AI 原型库：快速搭建沉浸式 AI 体验**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "google/xrblocks 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 485 --> 496
-    line [486, 487, 488, 489, 490, 495]
+    title "google/xrblocks 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 485 --> 499
+    line [486, 487, 488, 489, 490, 495, 498]
 ```
 
-2026-10-18 486 → 2026-10-30 495（+9）
+2026-10-18 486 → 2026-10-31 498（+12）
 
 
 ---

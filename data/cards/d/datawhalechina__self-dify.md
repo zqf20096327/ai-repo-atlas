@@ -1,6 +1,6 @@
 # datawhalechina/self-dify
 
-⭐ 634 · CC-BY-SA-4.0 · 推送 2025-12-21 · [GitHub](https://github.com/datawhalechina/self-dify) · 组织维护 · 中文 README
+⭐ 635 · CC-BY-SA-4.0 · 推送 2025-12-21 · [GitHub](https://github.com/datawhalechina/self-dify) · 组织维护 · 中文 README
 
 **基于 Dify 的大模型应用开发中文教程（11 个实战项目）**
 
@@ -46,12 +46,12 @@ Datawhale 社区出品的《Dify 应用开发指南》教程仓库：从 Docker 
 ```mermaid
 xychart-beta
     title "datawhalechina/self-dify 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31"]
     y-axis "stars" 626 --> 637
-    line [627, 629, 632, 635, 636, 634, 634]
+    line [627, 629, 632, 635, 636, 634, 635]
 ```
 
-2026-10-18 627 → 2026-10-30 634（+7）
+2026-10-18 627 → 2026-10-31 635（+8）
 
 
 ---

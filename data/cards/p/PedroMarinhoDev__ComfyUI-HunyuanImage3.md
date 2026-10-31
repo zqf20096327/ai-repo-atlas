@@ -45,13 +45,13 @@ ComfyUI 自定义节点包，将腾讯 80B MoE 文生图模型 HunyuanImage-3.0�
 
 ```mermaid
 xychart-beta
-    title "PedroMarinhoDev/ComfyUI-HunyuanImage3 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30"]
+    title "PedroMarinhoDev/ComfyUI-HunyuanImage3 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 40 --> 46
-    line [41, 42, 43, 44, 45]
+    line [41, 42, 43, 44, 45, 45]
 ```
 
-2026-10-18 41 → 2026-10-30 45（+4）
+2026-10-18 41 → 2026-10-31 45（+4）
 
 
 ---

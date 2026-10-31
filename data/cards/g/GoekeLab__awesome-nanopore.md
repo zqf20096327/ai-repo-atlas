@@ -1,6 +1,6 @@
 # GoekeLab/awesome-nanopore
 
-⭐ 337 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/GoekeLab/awesome-nanopore) · 组织维护
+⭐ 338 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/GoekeLab/awesome-nanopore) · 组织维护
 
 **纳米孔测序数据分析软件包策展清单（basecall 到转录组学）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GoekeLab/awesome-nanopore 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 333 --> 338
-    line [334, 335, 337, 337]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 333 --> 339
+    line [334, 335, 337, 338]
 ```
 
-2026-10-18 334 → 2026-10-30 337（+3）
+2026-10-18 334 → 2026-10-31 338（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # edmozley/freeitsm
 
-⭐ 118 · PHP · MIT · 推送 2026-10-29 · [GitHub](https://github.com/edmozley/freeitsm) · [官网](https://freeitsm.co.uk) · 个人维护
+⭐ 118 · PHP · MIT · 推送 2026-10-30 · [GitHub](https://github.com/edmozley/freeitsm) · [官网](https://freeitsm.co.uk) · 个人维护
 
 **免费自托管、内置 AI 的开源 ITSM 服务平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "edmozley/freeitsm 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "edmozley/freeitsm 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 108 --> 119
-    line [109, 112, 115, 117, 118]
+    line [109, 112, 115, 117, 118, 118]
 ```
 
-2026-10-18 109 → 2026-10-30 118（+9）
+2026-10-18 109 → 2026-10-31 118（+9）
 
 
 ---

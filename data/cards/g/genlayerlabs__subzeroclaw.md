@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "genlayerlabs/subzeroclaw 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "genlayerlabs/subzeroclaw 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 137 --> 140
-    line [138, 139]
+    line [138, 139, 139]
 ```
 
-2026-10-18 138 → 2026-10-30 139（+1）
+2026-10-18 138 → 2026-10-31 139（+1）
 
 
 ---

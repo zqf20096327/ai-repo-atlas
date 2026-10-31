@@ -1,6 +1,6 @@
 # daedalus/misc
 
-⭐ 22 · Python · 推送 2026-10-20 · [GitHub](https://github.com/daedalus/misc) · 个人维护
+⭐ 23 · Python · 推送 2026-10-20 · [GitHub](https://github.com/daedalus/misc) · 个人维护
 
 **密码学/比特币/安全研究的杂项脚本集合，供授权安全测试与学习**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "daedalus/misc 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-18 22 → 2026-10-30 22（+0）
+2026-10-18 22 → 2026-10-31 23（+1）
 
 
 ---

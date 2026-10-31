@@ -45,13 +45,13 @@ EMNLP 2025 Demo 论文的 Python 框架，用于构建和运行多智能体 LLM 
 
 ```mermaid
 xychart-beta
-    title "Multi-Agent-LLMs/mallm 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    title "Multi-Agent-LLMs/mallm 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
     y-axis "stars" 67 --> 70
-    line [68, 69]
+    line [68, 69, 69]
 ```
 
-2026-10-18 68 → 2026-10-30 69（+1）
+2026-10-18 68 → 2026-10-31 69（+1）
 
 
 ---

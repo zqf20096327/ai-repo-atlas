@@ -1,6 +1,6 @@
 # KempnerInstitute/KempnerForge
 
-⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/KempnerInstitute/KempnerForge) · [官网](https://kempnerinstitute.github.io/KempnerForge/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KempnerInstitute/KempnerForge) · [官网](https://kempnerinstitute.github.io/KempnerForge/) · 组织维护
 
 **面向 AI 集群的基础模型容错分布式训练框架**
 
@@ -47,12 +47,12 @@ Kempner Institute 维护的 PyTorch 原生训练框架：通过 TOML 配置切�
 ```mermaid
 xychart-beta
     title "KempnerInstitute/KempnerForge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

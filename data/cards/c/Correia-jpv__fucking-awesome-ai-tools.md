@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-ai-tools
 
-⭐ 29 · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-ai-tools) · 个人维护
+⭐ 29 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-ai-tools) · 个人维护
 
 **AI 工具精选清单：按类别收录模型、聊天、写作等工具及星标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-10-31"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-18 27 → 2026-10-30 29（+2）
+2026-10-18 27 → 2026-10-31 29（+2）
 
 
 ---

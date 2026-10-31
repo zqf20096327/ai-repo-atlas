@@ -45,12 +45,12 @@ Julia 编写的通用蒙特卡洛模拟框架：提供 Metropolis-Hastings 等�
 ```mermaid
 xychart-beta
     title "TheDisorderedOrganization/Arianna.jl 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-10-31"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-18 39 → 2026-10-30 40（+1）
+2026-10-18 39 → 2026-10-31 40（+1）
 
 
 ---

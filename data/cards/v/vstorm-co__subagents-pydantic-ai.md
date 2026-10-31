@@ -1,6 +1,6 @@
 # vstorm-co/subagents-pydantic-ai
 
-⭐ 62 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/vstorm-co/subagents-pydantic-ai) · [官网](https://vstorm-co.github.io/subagents-pydantic-ai/) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/vstorm-co/subagents-pydantic-ai) · [官网](https://vstorm-co.github.io/subagents-pydantic-ai/) · 组织维护
 
 **给开发者的 Pydantic AI 多智能体委派框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/subagents-pydantic-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-18 62 → 2026-10-30 62（+0）
+2026-10-18 62 → 2026-10-31 62（+0）
 
 
 ---

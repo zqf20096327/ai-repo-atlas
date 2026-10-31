@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/multi-agent-marketplace 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-10-30"]
+    title "microsoft/multi-agent-marketplace 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-10-30", "2026-10-31"]
     y-axis "stars" 191 --> 196
-    line [192, 193, 195]
+    line [192, 193, 195, 195]
 ```
 
-2026-10-18 192 → 2026-10-30 195（+3）
+2026-10-18 192 → 2026-10-31 195（+3）
 
 
 ---

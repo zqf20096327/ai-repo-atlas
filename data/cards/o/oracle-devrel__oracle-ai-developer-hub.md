@@ -1,6 +1,6 @@
 # oracle-devrel/oracle-ai-developer-hub
 
-⭐ 4,461 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/oracle-devrel/oracle-ai-developer-hub) · [官网](https://oracle-devrel.github.io/oracle-ai-developer-hub/) · 组织维护
+⭐ 4,462 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/oracle-devrel/oracle-ai-developer-hub) · [官网](https://oracle-devrel.github.io/oracle-ai-developer-hub/) · 组织维护
 
 **Oracle 官方 AI 开发者资源库：示例应用、教程笔记本与架构指南**
 
@@ -45,13 +45,13 @@ Oracle DevRel 维护的技术资源集合，面向基于 Oracle AI Database 与 
 
 ```mermaid
 xychart-beta
-    title "oracle-devrel/oracle-ai-developer-hub 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4426 --> 4464
-    line [4429, 4439, 4444, 4445, 4447, 4448, 4452, 4456, 4461]
+    title "oracle-devrel/oracle-ai-developer-hub 星数(近 10 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4426 --> 4465
+    line [4429, 4439, 4444, 4445, 4447, 4448, 4452, 4456, 4461, 4462]
 ```
 
-2026-10-18 4,429 → 2026-10-30 4,461（+32）
+2026-10-18 4,429 → 2026-10-31 4,462（+33）
 
 
 ---

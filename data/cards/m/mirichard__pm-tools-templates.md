@@ -1,6 +1,6 @@
 # mirichard/pm-tools-templates
 
-⭐ 24 · HTML · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mirichard/pm-tools-templates) · [官网](https://mirichard.github.io/pm-tools-templates) · 个人维护
+⭐ 24 · HTML · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mirichard/pm-tools-templates) · [官网](https://mirichard.github.io/pm-tools-templates) · 个人维护
 
 **项目经理可用的开源模板与指南库（139 个模板，六大领域）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mirichard/pm-tools-templates 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
     y-axis "stars" 21 --> 25
     line [22, 23, 24, 24]
 ```
 
-2026-10-18 22 → 2026-10-30 24（+2）
+2026-10-18 22 → 2026-10-31 24（+2）
 
 
 ---

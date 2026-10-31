@@ -1,6 +1,6 @@
 # atliq/guardex-ai
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/atliq/guardex-ai) · [官网](https://pypi.org/project/guardex-ai/) · 组织维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/atliq/guardex-ai) · [官网](https://pypi.org/project/guardex-ai/) · 组织维护
 
 **本地运行的 LLM 输入输出安全防护 Python SDK**
 
@@ -45,12 +45,12 @@ Python SDK，在 LLM 调用前后拦截内容：毒性二分类（ONNX 快速门
 ```mermaid
 xychart-beta
     title "atliq/guardex-ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-18 28 → 2026-10-30 28（+0）
+2026-10-18 28 → 2026-10-31 29（+1）
 
 
 ---

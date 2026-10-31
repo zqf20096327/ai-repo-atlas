@@ -1,6 +1,6 @@
 # Allenpandas/BJTU-CS-Notebook
 
-⭐ 393 · Jupyter Notebook · NOASSERTION · 推送 2025-12-23 · [GitHub](https://github.com/Allenpandas/BJTU-CS-Notebook) · 个人维护 · 中文 README
+⭐ 394 · Jupyter Notebook · NOASSERTION · 推送 2025-12-23 · [GitHub](https://github.com/Allenpandas/BJTU-CS-Notebook) · 个人维护 · 中文 README
 
 **北交大计算机学院研究生课程资料与考试整理合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Allenpandas/BJTU-CS-Notebook 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 390 --> 394
-    line [391, 393]
+    title "Allenpandas/BJTU-CS-Notebook 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 390 --> 395
+    line [391, 393, 394]
 ```
 
-2026-10-18 391 → 2026-10-30 393（+2）
+2026-10-18 391 → 2026-10-31 394（+3）
 
 
 ---

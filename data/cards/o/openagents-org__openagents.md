@@ -1,6 +1,6 @@
 # openagents-org/openagents
 
-⭐ 4,285 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
+⭐ 4,291 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
 **开源多 AI agent 协作工作区与启动器**
 
@@ -45,13 +45,13 @@ OpenAgents Workspace 提供一个统一工作区（workspace），将运行在�
 
 ```mermaid
 xychart-beta
-    title "openagents-org/openagents 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4221 --> 4290
-    line [4226, 4237, 4243, 4247, 4250, 4253, 4258, 4262, 4271, 4277, 4285]
+    title "openagents-org/openagents 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 4220 --> 4297
+    line [4226, 4237, 4243, 4247, 4250, 4253, 4258, 4262, 4271, 4277, 4285, 4291]
 ```
 
-2026-10-18 4,226 → 2026-10-30 4,285（+59）
+2026-10-18 4,226 → 2026-10-31 4,291（+65）
 
 
 ---

@@ -44,13 +44,13 @@ DeepMind 发布的研究参考实现，含两部分：HOPE 将 ImageNet 预训�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/hope 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-10-30"]
+    title "google-deepmind/hope 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 21 --> 27
-    line [22, 26]
+    line [22, 26, 26]
 ```
 
-2026-10-29 22 → 2026-10-30 26（+4）
+2026-10-29 22 → 2026-10-31 26（+4）
 
 
 ---

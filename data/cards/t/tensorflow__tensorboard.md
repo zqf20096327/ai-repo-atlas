@@ -1,6 +1,6 @@
 # tensorflow/tensorboard
 
-⭐ 7,244 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tensorflow/tensorboard) · 组织维护
+⭐ 7,243 · TypeScript · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tensorflow/tensorboard) · 组织维护
 
 **给 TensorFlow 用户的训练可视化工具：检查运行与计算图**
 
@@ -45,13 +45,13 @@ TensorBoard 是一组 Web 应用，用于检查和理解 TensorFlow 的运行记
 
 ```mermaid
 xychart-beta
-    title "tensorflow/tensorboard 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
+    title "tensorflow/tensorboard 星数(近 9 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
     y-axis "stars" 7238 --> 7246
-    line [7239, 7240, 7241, 7242, 7243, 7244, 7245, 7244]
+    line [7239, 7240, 7241, 7242, 7243, 7244, 7245, 7244, 7243]
 ```
 
-2026-10-18 7,239 → 2026-10-30 7,244（+5）
+2026-10-18 7,239 → 2026-10-31 7,243（+4）
 
 
 ---

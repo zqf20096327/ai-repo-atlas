@@ -1,6 +1,6 @@
 # benfred/implicit
 
-⭐ 3,833 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/benfred/implicit) · [官网](https://benfred.github.io/implicit/) · 个人维护
+⭐ 3,834 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/benfred/implicit) · [官网](https://benfred.github.io/implicit/) · 个人维护
 
 **隐式反馈数据集的 Python 协同过滤推荐算法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benfred/implicit 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30"]
-    y-axis "stars" 3829 --> 3834
-    line [3831, 3830, 3831, 3832, 3833, 3833]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31"]
+    y-axis "stars" 3829 --> 3835
+    line [3831, 3830, 3831, 3832, 3833, 3834]
 ```
 
-2026-10-18 3,831 → 2026-10-30 3,833（+2）
+2026-10-18 3,831 → 2026-10-31 3,834（+3）
 
 
 ---

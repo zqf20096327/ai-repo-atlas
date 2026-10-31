@@ -40,6 +40,18 @@
 > L5: This repository features a minimal implementation of the (Branch) Expressive Leaky Memory neuron in PyTorch.
 > L6: Notebooks to train and evaluate on NeuronIO are provided, as well as pre-trained models of various sizes.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AaronSpieler/elmneuron 星数(近 2 点)"
+    x-axis ["2026-10-30", "2026-10-31"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-10-30 17 → 2026-10-31 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `63a43efb4876` · [字段定义](../../DATASET.md)*

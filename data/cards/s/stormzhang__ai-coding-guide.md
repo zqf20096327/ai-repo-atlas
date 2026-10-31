@@ -1,6 +1,6 @@
 # stormzhang/ai-coding-guide
 
-⭐ 2,001 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/stormzhang/ai-coding-guide) · [官网](https://coding.stormzhang.ai) · 个人维护 · 中文 README
+⭐ 2,005 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/stormzhang/ai-coding-guide) · [官网](https://coding.stormzhang.ai) · 个人维护 · 中文 README
 
 **面向小白的 AI 编程 CLI 中文教程：Codex 39 篇 + Claude Code 53 篇**
 
@@ -44,13 +44,13 @@ stormzhang 维护的简体中文教程仓库，共 92 篇、约 52 万字，覆�
 
 ```mermaid
 xychart-beta
-    title "stormzhang/ai-coding-guide 星数(近 10 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1951 --> 2005
-    line [1955, 1960, 1973, 1980, 1982, 1984, 1990, 1998, 1999, 2001]
+    title "stormzhang/ai-coding-guide 星数(近 11 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1950 --> 2010
+    line [1955, 1960, 1973, 1980, 1982, 1984, 1990, 1998, 1999, 2001, 2005]
 ```
 
-2026-10-18 1,955 → 2026-10-30 2,001（+46）
+2026-10-18 1,955 → 2026-10-31 2,005（+50）
 
 
 ---

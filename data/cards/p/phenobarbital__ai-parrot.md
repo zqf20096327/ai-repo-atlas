@@ -1,6 +1,6 @@
 # phenobarbital/ai-parrot
 
-⭐ 33 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/phenobarbital/ai-parrot) · [官网](https://phenobarbital.github.io/ai-parrot/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/phenobarbital/ai-parrot) · [官网](https://phenobarbital.github.io/ai-parrot/) · 个人维护
 
 **面向多供应商的异步 Python AI Agent 构建与编排框架**
 
@@ -47,12 +47,12 @@ AI-Parrot 是一个 async-first、vendor-agnostic 的 Python 框架，用于构�
 ```mermaid
 xychart-beta
     title "phenobarbital/ai-parrot 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-18 33 → 2026-10-30 33（+0）
+2026-10-18 33 → 2026-10-31 33（+0）
 
 
 ---

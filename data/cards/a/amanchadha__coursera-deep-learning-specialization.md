@@ -1,6 +1,6 @@
 # amanchadha/coursera-deep-learning-specialization
 
-⭐ 4,408 · Jupyter Notebook · 推送 2026-06-10 · [GitHub](https://github.com/amanchadha/coursera-deep-learning-specialization) · 个人维护
+⭐ 4,410 · Jupyter Notebook · 推送 2026-06-10 · [GitHub](https://github.com/amanchadha/coursera-deep-learning-specialization) · 个人维护
 
 **deeplearning.ai 深度学习专项课程的作业与测验解答合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amanchadha/coursera-deep-learning-specialization 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 4401 --> 4410
-    line [4402, 4403, 4404, 4406, 4407, 4409, 4408, 4408]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 4401 --> 4411
+    line [4402, 4403, 4404, 4406, 4407, 4409, 4408, 4410]
 ```
 
-2026-10-18 4,402 → 2026-10-30 4,408（+6）
+2026-10-18 4,402 → 2026-10-31 4,410（+8）
 
 
 ---

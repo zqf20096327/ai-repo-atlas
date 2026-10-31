@@ -46,12 +46,12 @@ Node.js 编写的 CLI 工具，在用户代码库上运行一组分工 AI agent�
 ```mermaid
 xychart-beta
     title "aiagentflow/aiagentflow 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-18 44 → 2026-10-30 44（+0）
+2026-10-18 44 → 2026-10-31 44（+0）
 
 
 ---

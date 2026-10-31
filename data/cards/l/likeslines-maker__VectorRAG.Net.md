@@ -1,6 +1,6 @@
 # likeslines-maker/VectorRAG.Net
 
-⭐ 164 · C# · 推送 2026-08-23 · [GitHub](https://github.com/likeslines-maker/VectorRAG.Net) · [官网](https://principium.pro) · 个人维护
+⭐ 163 · C# · 推送 2026-08-23 · [GitHub](https://github.com/likeslines-maker/VectorRAG.Net) · [官网](https://principium.pro) · 个人维护
 
 **.NET 8 进程内嵌入式向量数据库，面向语义搜索与 RAG**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "likeslines-maker/VectorRAG.Net 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 161 --> 165
-    line [163, 162, 164, 164]
+    line [163, 162, 164, 163]
 ```
 
-2026-10-18 163 → 2026-10-30 164（+1）
+2026-10-18 163 → 2026-10-31 163（+0）
 
 
 ---

@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习模型评估主题面试问答集，覆盖 
 ```mermaid
 xychart-beta
     title "Devinterview-io/model-evaluation-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-18 21 → 2026-10-30 21（+0）
+2026-10-18 21 → 2026-10-31 21（+0）
 
 
 ---

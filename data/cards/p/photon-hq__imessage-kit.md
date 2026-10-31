@@ -1,6 +1,6 @@
 # photon-hq/imessage-kit
 
-⭐ 1,478 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/photon-hq/imessage-kit) · [官网](https://photon.codes) · 组织维护
+⭐ 1,479 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/photon-hq/imessage-kit) · [官网](https://photon.codes) · 组织维护
 
 **macOS 上的类型安全 iMessage SDK，供 AI agent 读写与自动回复消息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "photon-hq/imessage-kit 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30"]
-    y-axis "stars" 1474 --> 1479
-    line [1475, 1476, 1477, 1478, 1478]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-31"]
+    y-axis "stars" 1474 --> 1480
+    line [1475, 1476, 1477, 1478, 1479]
 ```
 
-2026-10-18 1,475 → 2026-10-30 1,478（+3）
+2026-10-18 1,475 → 2026-10-31 1,479（+4）
 
 
 ---

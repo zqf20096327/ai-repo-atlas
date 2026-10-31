@@ -44,13 +44,13 @@ Relevance AI 官方 Python SDK：通过客户端接入 Relevance AI 平台（需
 
 ```mermaid
 xychart-beta
-    title "RelevanceAI/relevanceai 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    title "RelevanceAI/relevanceai 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-30", "2026-10-31"]
     y-axis "stars" 283 --> 287
-    line [284, 285, 286]
+    line [284, 285, 286, 286]
 ```
 
-2026-10-18 284 → 2026-10-30 286（+2）
+2026-10-18 284 → 2026-10-31 286（+2）
 
 
 ---

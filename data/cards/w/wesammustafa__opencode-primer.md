@@ -1,6 +1,6 @@
 # wesammustafa/opencode-primer
 
-⭐ 403 · JavaScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/wesammustafa/opencode-primer) · 个人维护
+⭐ 404 · JavaScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/wesammustafa/opencode-primer) · 个人维护
 
 **社区维护的 OpenCode（开源 AI 编程 agent）使用指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wesammustafa/opencode-primer 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-30"]
-    y-axis "stars" 400 --> 404
-    line [402, 401, 403, 403]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-31"]
+    y-axis "stars" 400 --> 405
+    line [402, 401, 403, 404]
 ```
 
-2026-10-18 402 → 2026-10-30 403（+1）
+2026-10-18 402 → 2026-10-31 404（+2）
 
 
 ---

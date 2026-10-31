@@ -1,6 +1,6 @@
 # nirholas/LooK
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/nirholas/LooK) · [官网](https://loook-production.up.railway.app/) · 个人维护
+⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/nirholas/LooK) · [官网](https://loook-production.up.railway.app/) · 个人维护
 
 **把网站自动生成带 AI 解说的产品演示视频的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/LooK 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-31"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-18 25 → 2026-10-30 26（+1）
+2026-10-18 25 → 2026-10-31 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Seanium/FeedMe
 
-⭐ 747 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
+⭐ 747 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Seanium/FeedMe) · [官网](http://seanium.github.io/FeedMe/) · 个人维护 · 中文 README
 
 **AI 自动摘要的轻量自托管 RSS 阅读器，静态页面多平台部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Seanium/FeedMe 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30"]
+    title "Seanium/FeedMe 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 744 --> 748
-    line [746, 745, 746, 747]
+    line [746, 745, 746, 747, 747]
 ```
 
-2026-10-18 746 → 2026-10-30 747（+1）
+2026-10-18 746 → 2026-10-31 747（+1）
 
 
 ---

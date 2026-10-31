@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anipottsbuilds/imessage-mcp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-10-30"]
+    title "anipottsbuilds/imessage-mcp 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31"]
     y-axis "stars" 27 --> 30
-    line [28, 29]
+    line [28, 29, 29]
 ```
 
-2026-10-25 28 → 2026-10-30 29（+1）
+2026-10-25 28 → 2026-10-31 29（+1）
 
 
 ---

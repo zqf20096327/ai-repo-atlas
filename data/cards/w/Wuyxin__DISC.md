@@ -45,12 +45,12 @@ DISC 是 ICML 2023 论文 Discover and Cure 的 PyTorch 官方实现：在图像
 ```mermaid
 xychart-beta
     title "Wuyxin/DISC 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-18 46 → 2026-10-30 46（+0）
+2026-10-18 46 → 2026-10-31 46（+0）
 
 
 ---

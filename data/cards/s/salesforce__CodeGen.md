@@ -1,6 +1,6 @@
 # salesforce/CodeGen
 
-⭐ 5,186 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeGen) · 组织维护
+⭐ 5,184 · Python · Apache-2.0 · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/CodeGen) · 组织维护
 
 **Salesforce 开源程序合成代码模型（CodeGen1/2/2.5）**
 
@@ -45,12 +45,12 @@ Salesforce AI Research 发布的程序合成模型系列 CodeGen1、CodeGen2 与
 ```mermaid
 xychart-beta
     title "salesforce/CodeGen 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31"]
     y-axis "stars" 5181 --> 5188
-    line [5182, 5184, 5185, 5186, 5187, 5186, 5186]
+    line [5182, 5184, 5185, 5186, 5187, 5186, 5184]
 ```
 
-2026-10-18 5,182 → 2026-10-30 5,186（+4）
+2026-10-18 5,182 → 2026-10-31 5,184（+2）
 
 
 ---

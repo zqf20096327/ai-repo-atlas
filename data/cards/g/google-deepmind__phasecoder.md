@@ -1,6 +1,6 @@
 # google-deepmind/phasecoder
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/google-deepmind/phasecoder) · 组织维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/google-deepmind/phasecoder) · 组织维护
 
 **麦克风阵列几何无关的空间音频定位编码器（多模态 LLM 用）**
 
@@ -46,12 +46,12 @@ Google DeepMind 发布的 transformer 空间音频编码器：输入原始多通
 ```mermaid
 xychart-beta
     title "google-deepmind/phasecoder 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-28", "2026-10-31"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-18 22 → 2026-10-30 24（+2）
+2026-10-18 22 → 2026-10-31 25（+3）
 
 
 ---

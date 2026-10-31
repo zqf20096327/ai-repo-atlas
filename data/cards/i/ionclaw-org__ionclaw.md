@@ -1,6 +1,6 @@
 # ionclaw-org/ionclaw
 
-⭐ 91 · C++ · MIT · 推送 2026-08-05 · [GitHub](https://github.com/ionclaw-org/ionclaw) · [官网](https://ionclaw.com) · 个人维护
+⭐ 92 · C++ · MIT · 推送 2026-08-05 · [GitHub](https://github.com/ionclaw-org/ionclaw) · [官网](https://ionclaw.com) · 个人维护
 
 **C++ 编写的跨平台多智能体编排器，手机/服务器均可原生运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ionclaw-org/ionclaw 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-28", "2026-10-30"]
-    y-axis "stars" 88 --> 92
-    line [89, 90, 91]
+    title "ionclaw-org/ionclaw 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-10-28", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 88 --> 93
+    line [89, 90, 91, 92]
 ```
 
-2026-10-18 89 → 2026-10-30 91（+2）
+2026-10-18 89 → 2026-10-31 92（+3）
 
 
 ---

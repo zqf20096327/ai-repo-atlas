@@ -1,6 +1,6 @@
 # MehmetGoekce/llm-wiki
 
-⭐ 150 · Shell · MIT · 推送 2026-10-11 · [GitHub](https://github.com/MehmetGoekce/llm-wiki) · 个人维护
+⭐ 151 · Shell · MIT · 推送 2026-10-11 · [GitHub](https://github.com/MehmetGoekce/llm-wiki) · 个人维护
 
 **用 Claude Code 维护个人 LLM 知识库 Wiki 的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MehmetGoekce/llm-wiki 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30"]
+    title "MehmetGoekce/llm-wiki 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31"]
     y-axis "stars" 147 --> 152
-    line [148, 149, 150, 151, 150]
+    line [148, 149, 150, 151, 150, 151]
 ```
 
-2026-10-18 148 → 2026-10-30 150（+2）
+2026-10-18 148 → 2026-10-31 151（+3）
 
 
 ---

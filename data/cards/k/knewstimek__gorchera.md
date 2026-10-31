@@ -45,12 +45,12 @@ Go 编写的有状态多智能体编排引擎，按 director->executor->evaluato
 ```mermaid
 xychart-beta
     title "knewstimek/gorchera 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-18 16 → 2026-10-30 16（+0）
+2026-10-18 16 → 2026-10-31 16（+0）
 
 
 ---

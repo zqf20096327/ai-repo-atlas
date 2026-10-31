@@ -1,6 +1,6 @@
 # peonist-ai/halogen-flash-server
 
-⭐ 1,137 · Shell · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://peonist.ai/halogen/) · 组织维护
+⭐ 1,144 · Shell · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://peonist.ai/halogen/) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-Flash-Next 的专用推理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peonist-ai/halogen-flash-server 星数(近 11 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 1002 --> 1149
-    line [1014, 1035, 1055, 1071, 1080, 1084, 1099, 1111, 1123, 1131, 1137]
+    title "peonist-ai/halogen-flash-server 星数(近 12 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 1001 --> 1157
+    line [1014, 1035, 1055, 1071, 1080, 1084, 1099, 1111, 1123, 1131, 1137, 1144]
 ```
 
-2026-10-18 1,014 → 2026-10-30 1,137（+123）
+2026-10-18 1,014 → 2026-10-31 1,144（+130）
 
 
 ---

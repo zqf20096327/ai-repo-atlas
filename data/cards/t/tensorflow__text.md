@@ -1,6 +1,6 @@
 # tensorflow/text
 
-⭐ 1,295 · C++ · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/tensorflow/text) · [官网](https://www.tensorflow.org/beta/tutorials/tensorflow_text/intro) · 组织维护
+⭐ 1,296 · C++ · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/tensorflow/text) · [官网](https://www.tensorflow.org/beta/tutorials/tensorflow_text/intro) · 组织维护
 
 **TensorFlow 官方文本预处理算子库，供 TF2 文本模型使用**
 
@@ -46,12 +46,12 @@ TensorFlow 团队维护的 Python 库，提供在 TensorFlow 图内执行的文�
 ```mermaid
 xychart-beta
     title "tensorflow/text 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
-    y-axis "stars" 1294 --> 1296
-    line [1295, 1295]
+    x-axis ["2026-10-18", "2026-10-31"]
+    y-axis "stars" 1294 --> 1297
+    line [1295, 1296]
 ```
 
-2026-10-18 1,295 → 2026-10-30 1,295（+0）
+2026-10-18 1,295 → 2026-10-31 1,296（+1）
 
 
 ---

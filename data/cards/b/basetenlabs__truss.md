@@ -1,6 +1,6 @@
 # basetenlabs/truss
 
-⭐ 1,226 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/basetenlabs/truss) · [官网](https://truss.baseten.co) · 组织维护
+⭐ 1,226 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/basetenlabs/truss) · [官网](https://truss.baseten.co) · 组织维护
 
 **部署 ML 模型到生产的 CLI：打包、容器化与 GPU 配置**
 
@@ -45,12 +45,12 @@ Baseten 维护的模型部署命令行工具：将模型的 Python 服务逻辑�
 ```mermaid
 xychart-beta
     title "basetenlabs/truss 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
     y-axis "stars" 1218 --> 1227
     line [1219, 1220, 1223, 1224, 1225, 1226, 1226]
 ```
 
-2026-10-18 1,219 → 2026-10-30 1,226（+7）
+2026-10-18 1,219 → 2026-10-31 1,226（+7）
 
 
 ---

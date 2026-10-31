@@ -1,6 +1,6 @@
 # 0xCoach/TaoSheng
 
-⭐ 17 · Kotlin · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/0xCoach/TaoSheng) · 个人维护 · 中文 README
+⭐ 21 · Kotlin · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/0xCoach/TaoSheng) · 个人维护 · 中文 README
 
 **安卓全天录音转写认人并整理成待办与记忆的个人应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xCoach/TaoSheng 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 2 --> 18
-    line [3, 11, 13, 17]
+    title "0xCoach/TaoSheng 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31"]
+    y-axis "stars" 2 --> 22
+    line [3, 11, 13, 17, 21]
 ```
 
-2026-10-26 3 → 2026-10-30 17（+14）
+2026-10-26 3 → 2026-10-31 21（+18）
 
 
 ---

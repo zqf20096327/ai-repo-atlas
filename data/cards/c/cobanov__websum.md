@@ -1,6 +1,6 @@
 # cobanov/websum
 
-⭐ 127 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/cobanov/websum) · [官网](https://pypi.org/project/websum/) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cobanov/websum) · [官网](https://pypi.org/project/websum/) · 个人维护
 
 **网页与 YouTube 视频摘要工具，可插拔 LLM 后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cobanov/websum 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-31"]
     y-axis "stars" 125 --> 128
     line [126, 127, 127]
 ```
 
-2026-10-18 126 → 2026-10-30 127（+1）
+2026-10-18 126 → 2026-10-31 127（+1）
 
 
 ---

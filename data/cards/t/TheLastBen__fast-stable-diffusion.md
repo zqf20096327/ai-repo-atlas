@@ -1,6 +1,6 @@
 # TheLastBen/fast-stable-diffusion
 
-⭐ 7,910 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/TheLastBen/fast-stable-diffusion) · 个人维护
+⭐ 7,908 · Python · MIT · 推送 2025-11-29 · [GitHub](https://github.com/TheLastBen/fast-stable-diffusion) · 个人维护
 
 **Colab 上的 Stable Diffusion / DreamBooth 训练笔记本集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheLastBen/fast-stable-diffusion 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30"]
-    y-axis "stars" 7909 --> 7917
-    line [7915, 7914, 7916, 7913, 7911, 7912, 7911, 7910, 7910]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31"]
+    y-axis "stars" 7907 --> 7917
+    line [7915, 7914, 7916, 7913, 7911, 7912, 7911, 7910, 7908]
 ```
 
-2026-10-18 7,915 → 2026-10-30 7,910（-5）
+2026-10-18 7,915 → 2026-10-31 7,908（-7）
 
 
 ---

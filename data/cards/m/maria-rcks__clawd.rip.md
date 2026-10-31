@@ -1,6 +1,6 @@
 # maria-rcks/clawd.rip
 
-⭐ 254 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/maria-rcks/clawd.rip) · [官网](https://clawd.rip) · 个人维护
+⭐ 253 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/maria-rcks/clawd.rip) · [官网](https://clawd.rip) · 个人维护
 
 **与 Claude 相关的独立 Web 项目，内容仅见免责声明**
 
@@ -40,12 +40,12 @@ README 仅包含预览标题与免责声明：声明该项目为独立项目，�
 ```mermaid
 xychart-beta
     title "maria-rcks/clawd.rip 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-23", "2026-10-24", "2026-10-31"]
     y-axis "stars" 252 --> 255
-    line [254, 253, 254, 254]
+    line [254, 253, 254, 253]
 ```
 
-2026-10-18 254 → 2026-10-30 254（+0）
+2026-10-18 254 → 2026-10-31 253（-1）
 
 
 ---

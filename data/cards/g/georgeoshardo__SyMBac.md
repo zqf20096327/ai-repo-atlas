@@ -45,12 +45,12 @@ SyMBac 通过细菌生长的 segment-chain 物理模型、3D 细胞几何与相�
 ```mermaid
 xychart-beta
     title "georgeoshardo/SyMBac 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-10-30"]
+    x-axis ["2026-10-18", "2026-10-31"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-18 23 → 2026-10-30 23（+0）
+2026-10-18 23 → 2026-10-31 23（+0）
 
 
 ---
