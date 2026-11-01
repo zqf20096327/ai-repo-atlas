@@ -1,1 +1,77 @@
-{"fn": "nobodywho-ooo/react-native-starter-example", "sha": "0670f855de5d", "source": "readme", "identity": {"one_liner": "演示 NobodyWho 本地 LLM 库的 React Native 入门示例应用", "review": "面向开发者的 React Native 启动示例，展示 NobodyWho 库在移动端本地运行 LLM 的能力：流式聊天、工具调用、多模态图像与音频输入、嵌入与 RAG（含 cross-encoder 重排序）、语音转文字与文字转语音。模型从 Hugging Face 下载 .gguf 文件或以 hf:// URL 直接加载并本地缓存；兼容多数 GGUF 模型，建议移动端使用 1GB 以下模型且可用 RAM 至少为模型体积两倍。TTS 支持 Kokoro、Pocket TTS、Supertonic 3，STT 支持 Whisper。", "highlights": ["本地 LLM 流式聊天与工具调用", "多模态图像/音频输入与嵌入+重排序 RAG", "支持 hf:// URL 与 HTTP 下载 GGUF 模型并本地缓存", "TTS（Kokoro/Pocket TTS/Supertonic 3）与 STT（Whisper）"], "use_cases": ["我想快速搭建一个带本地 LLM 的 React Native 应用", "在手机上试验离线聊天、语音输入与语音合成", "学习如何按需下载并缓存端侧模型"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "viral", "deploy": "library", "model_dep": "local-ok", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["端侧推理", "React Native", "多模态", "STT/TTS", "示例项目"], "domain": "移动端/端侧 AI 开发", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["llama.cpp"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L10: This starter app demonstrates the capabilities of **NobodyWho**, a library designed to run LLMs locally and efficiently ", "L14: - **Chat** — stream responses from a local LLM"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "nobodywho-ooo/react-native-starter-example",
+ "sha": "0670f855de5d",
+ "source": "readme",
+ "identity": {
+  "one_liner": "演示 NobodyWho 本地 LLM 库的 React Native 入门示例应用",
+  "review": "面向开发者的 React Native 启动示例，展示 NobodyWho 库在移动端本地运行 LLM 的能力：流式聊天、工具调用、多模态图像与音频输入、嵌入与 RAG（含 cross-encoder 重排序）、语音转文字与文字转语音。模型从 Hugging Face 下载 .gguf 文件或以 hf:// URL 直接加载并本地缓存；兼容多数 GGUF 模型，建议移动端使用 1GB 以下模型且可用 RAM 至少为模型体积两倍。TTS 支持 Kokoro、Pocket TTS、Supertonic 3，STT 支持 Whisper。",
+  "highlights": [
+   "本地 LLM 流式聊天与工具调用",
+   "多模态图像/音频输入与嵌入+重排序 RAG",
+   "支持 hf:// URL 与 HTTP 下载 GGUF 模型并本地缓存",
+   "TTS（Kokoro/Pocket TTS/Supertonic 3）与 STT（Whisper）"
+  ],
+  "use_cases": [
+   "我想快速搭建一个带本地 LLM 的 React Native 应用",
+   "在手机上试验离线聊天、语音输入与语音合成",
+   "学习如何按需下载并缓存端侧模型"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "viral",
+  "deploy": "library",
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "端侧推理",
+   "React Native",
+   "多模态",
+   "STT/TTS",
+   "示例项目"
+  ],
+  "domain": "移动端/端侧 AI 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "llama.cpp"
+  ],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L10: This starter app demonstrates the capabilities of **NobodyWho**, a library designed to run LLMs locally and efficiently ",
+   "L14: - **Chat** — stream responses from a local LLM"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

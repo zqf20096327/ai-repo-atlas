@@ -1,1 +1,82 @@
-{"fn": "dongsheng123132/u-hermes", "sha": "1d6cdd617f54", "source": "readme", "identity": {"one_liner": "便携 AI 编程 Agent U 盘：Windows 成品与开源 Linux Live 启动盘方案", "review": "基于 NousResearch hermes-agent 打包的便携 AI Agent 环境分发项目：商业版为 Windows 便携 U 盘，内置 U-Claw（通用 AI + IM 机器人）与 U-Hermes（编程 Agent），带 Electron 图形启动器与账户激活体系，¥199 起售；开源部分仅含官网源码、Linux Live USB 刻盘脚本与文档，可自行刻盘搭建，但缺少 U-Claw 集成、图形启动器与一键化体验。关键词提及 DeepSeek、通义千问、ollama 等模型来源。", "highlights": ["同一 U 盘内置 U-Claw 与 U-Hermes 双产品，Windows 成品免安装即用", "开源 Linux Live USB 四步刻盘脚本（PowerShell）", "支持离线使用，随身携带 AI Agent 工作环境", "代码 MIT，品牌商标保留"], "use_cases": ["随身携带可离线使用的 AI 编程 Agent 环境", "用开源脚本自制 Linux Live AI 启动盘", "不想折腾的 Windows 用户购买成品 U 盘开箱即用"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://www.u-hermes.org/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI Agent", "便携/移动环境", "Linux Live USB", "离线 AI", "编程助手"], "domain": "AI 编程助手/便携环境", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "淘宝/拼多多/抖音销售渠道", "通义千问关键词", "『马盘』中文品牌命名"]}, "trust": {"confidence": "high", "evidence": ["L5: U-Hermes 马盘是即插即用的 AI U 盘成品：同一张 Windows 便携 U 盘内置 U-Claw（通用 AI + IM 机器人）和 U-Hermes（编程 Agent）。U-Hermes 基于 Nous Research her", "L14: |**U-Hermes 马盘 Windows 便携 U 盘**|成品 U 盘开箱即用，内置 U-Claw + U-Hermes|¥199 起 / 淘宝 / 拼多多|所有 Windows 用户|"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "dongsheng123132/u-hermes",
+ "sha": "1d6cdd617f54",
+ "source": "readme",
+ "identity": {
+  "one_liner": "便携 AI 编程 Agent U 盘：Windows 成品与开源 Linux Live 启动盘方案",
+  "review": "基于 NousResearch hermes-agent 打包的便携 AI Agent 环境分发项目：商业版为 Windows 便携 U 盘，内置 U-Claw（通用 AI + IM 机器人）与 U-Hermes（编程 Agent），带 Electron 图形启动器与账户激活体系，¥199 起售；开源部分仅含官网源码、Linux Live USB 刻盘脚本与文档，可自行刻盘搭建，但缺少 U-Claw 集成、图形启动器与一键化体验。关键词提及 DeepSeek、通义千问、ollama 等模型来源。",
+  "highlights": [
+   "同一 U 盘内置 U-Claw 与 U-Hermes 双产品，Windows 成品免安装即用",
+   "开源 Linux Live USB 四步刻盘脚本（PowerShell）",
+   "支持离线使用，随身携带 AI Agent 工作环境",
+   "代码 MIT，品牌商标保留"
+  ],
+  "use_cases": [
+   "随身携带可离线使用的 AI 编程 Agent 环境",
+   "用开源脚本自制 Linux Live AI 启动盘",
+   "不想折腾的 Windows 用户购买成品 U 盘开箱即用"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://www.u-hermes.org/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI Agent",
+   "便携/移动环境",
+   "Linux Live USB",
+   "离线 AI",
+   "编程助手"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "淘宝/拼多多/抖音销售渠道",
+   "通义千问关键词",
+   "『马盘』中文品牌命名"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L5: U-Hermes 马盘是即插即用的 AI U 盘成品：同一张 Windows 便携 U 盘内置 U-Claw（通用 AI + IM 机器人）和 U-Hermes（编程 Agent）。U-Hermes 基于 Nous Research her",
+   "L14: |**U-Hermes 马盘 Windows 便携 U 盘**|成品 U 盘开箱即用，内置 U-Claw + U-Hermes|¥199 起 / 淘宝 / 拼多多|所有 Windows 用户|"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

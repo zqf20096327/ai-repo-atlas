@@ -1,1 +1,74 @@
-{"fn": "OMerkel/Oware", "sha": "df1d6e2166a2", "source": "readme", "identity": {"one_liner": "传统非洲 Mancala 棋类 Oware/Ouril 的 HTML5 网页对弈实现", "review": "以 HTML5/Javascript/CSS 实现加纳 Oware 与佛得角 Ouril 两种传统 Mancala 棋类的双人完备信息策略棋盘游戏。默认双人本地对弈，可在选项菜单中为一方或双方启用电脑 AI 玩家，其算法为带 UCB 的蒙特卡洛树搜索（UCT）。支持在桌面与移动浏览器在线游玩，并提供 Android APK（最低 Android 4.4.2/API-19）；README 同时内嵌完整 Oware 规则说明。", "highlights": ["实现 Oware 与 Ouril 两套规则，可在选项菜单切换", "电脑 AI 玩家采用 MCTS+UCT 算法，可执一方或双方", "HTML5 跨平台：桌面与移动浏览器均可运行", "提供 Android APK（最低 Android 4.4.2）"], "use_cases": ["在浏览器或手机上玩传统非洲 Mancala 棋类", "与 MCTS 电脑 AI 对弈或观察 AI 自对弈", "学习 Oware/Ouril 的完整规则"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "http://omerkel.github.io/Oware/html5/src", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["棋盘游戏", "MCTS 博弈 AI", "HTML5 游戏", "传统游戏数字化"], "domain": "游戏/娱乐", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L15: Via options menu the computer players can be activated playing one or both sides.", "L16: The computer AI player has a Monte-Carlo Tree Search (MCTS) algorithm implemented."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "OMerkel/Oware",
+ "sha": "df1d6e2166a2",
+ "source": "readme",
+ "identity": {
+  "one_liner": "传统非洲 Mancala 棋类 Oware/Ouril 的 HTML5 网页对弈实现",
+  "review": "以 HTML5/Javascript/CSS 实现加纳 Oware 与佛得角 Ouril 两种传统 Mancala 棋类的双人完备信息策略棋盘游戏。默认双人本地对弈，可在选项菜单中为一方或双方启用电脑 AI 玩家，其算法为带 UCB 的蒙特卡洛树搜索（UCT）。支持在桌面与移动浏览器在线游玩，并提供 Android APK（最低 Android 4.4.2/API-19）；README 同时内嵌完整 Oware 规则说明。",
+  "highlights": [
+   "实现 Oware 与 Ouril 两套规则，可在选项菜单切换",
+   "电脑 AI 玩家采用 MCTS+UCT 算法，可执一方或双方",
+   "HTML5 跨平台：桌面与移动浏览器均可运行",
+   "提供 Android APK（最低 Android 4.4.2）"
+  ],
+  "use_cases": [
+   "在浏览器或手机上玩传统非洲 Mancala 棋类",
+   "与 MCTS 电脑 AI 对弈或观察 AI 自对弈",
+   "学习 Oware/Ouril 的完整规则"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "http://omerkel.github.io/Oware/html5/src",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "棋盘游戏",
+   "MCTS 博弈 AI",
+   "HTML5 游戏",
+   "传统游戏数字化"
+  ],
+  "domain": "游戏/娱乐",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": []
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L15: Via options menu the computer players can be activated playing one or both sides.",
+   "L16: The computer AI player has a Monte-Carlo Tree Search (MCTS) algorithm implemented."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

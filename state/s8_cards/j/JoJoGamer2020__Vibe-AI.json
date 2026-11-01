@@ -1,1 +1,77 @@
-{"fn": "JoJoGamer2020/Vibe-AI", "sha": "545d98edada8", "source": "readme", "identity": {"one_liner": "单文件网页聊天客户端，连接任意 OpenAI 兼容 API", "review": "一个纯 HTML/CSS/JavaScript 的单文件聊天前端，通过标准 /models 与 /chat/completions 端点连接任意 OpenAI 兼容后端（如 OpenAI、Ollama、LM Studio、Groq 等）。零安装、零构建：下载 index.html 后在浏览器打开即可使用。功能包括动态拉取模型列表、系统提示词、图片上传的多模态视觉对话、消息内联编辑、重新生成与中断请求，数据（含 API key 与聊天记录）仅存于浏览器 LocalStorage。MIT 许可。", "highlights": ["单文件 index.html，无安装与构建步骤", "连接任意 OpenAI 兼容 API（/models 与 /chat/completions）", "内联编辑、重新生成、可取消请求", "图片上传与视觉模型对话"], "use_cases": ["为本地 Ollama/LM Studio 模型配一个即开即用的聊天界面", "不想安装应用、直接在浏览器里对接云端 LLM API", "需要可内联编辑消息、调试提示词的轻量对话前端"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["聊天客户端", "单文件应用", "OpenAI兼容API", "本地模型"], "domain": "LLM 前端/聊天客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: **Vibe AI** is a sleek, lightning-fast, single-file web interface for interacting with any standard OpenAI-compatible AP", "L14: * **Bring Your Own API:** Connect seamlessly to any backend that supports standard `/models` and `/chat/completions` end", "L41: * An active API endpoint (e.g., OpenAI, Ollama, LM Studio, Groq, Anthropic via proxy, etc.)."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "JoJoGamer2020/Vibe-AI",
+ "sha": "545d98edada8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "单文件网页聊天客户端，连接任意 OpenAI 兼容 API",
+  "review": "一个纯 HTML/CSS/JavaScript 的单文件聊天前端，通过标准 /models 与 /chat/completions 端点连接任意 OpenAI 兼容后端（如 OpenAI、Ollama、LM Studio、Groq 等）。零安装、零构建：下载 index.html 后在浏览器打开即可使用。功能包括动态拉取模型列表、系统提示词、图片上传的多模态视觉对话、消息内联编辑、重新生成与中断请求，数据（含 API key 与聊天记录）仅存于浏览器 LocalStorage。MIT 许可。",
+  "highlights": [
+   "单文件 index.html，无安装与构建步骤",
+   "连接任意 OpenAI 兼容 API（/models 与 /chat/completions）",
+   "内联编辑、重新生成、可取消请求",
+   "图片上传与视觉模型对话"
+  ],
+  "use_cases": [
+   "为本地 Ollama/LM Studio 模型配一个即开即用的聊天界面",
+   "不想安装应用、直接在浏览器里对接云端 LLM API",
+   "需要可内联编辑消息、调试提示词的轻量对话前端"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "聊天客户端",
+   "单文件应用",
+   "OpenAI兼容API",
+   "本地模型"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: **Vibe AI** is a sleek, lightning-fast, single-file web interface for interacting with any standard OpenAI-compatible AP",
+   "L14: * **Bring Your Own API:** Connect seamlessly to any backend that supports standard `/models` and `/chat/completions` end",
+   "L41: * An active API endpoint (e.g., OpenAI, Ollama, LM Studio, Groq, Anthropic via proxy, etc.)."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

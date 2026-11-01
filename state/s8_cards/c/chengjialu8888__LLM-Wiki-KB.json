@@ -1,1 +1,85 @@
-{"fn": "chengjialu8888/LLM-Wiki-KB", "sha": "8961f063d811", "source": "readme", "identity": {"one_liner": "把 Karpathy 的 LLM Wiki 蓝图实现为 LLM Agent 可用的知识库工具链", "review": "基于 Andrej Karpathy 2025 年 LLM Wiki Gist 的实现项目：提供 5 个 Python CLI 工具（init/ingest/query/search/lint），将 URL 或本地文件转为 Markdown 原始素材，由 LLM Agent 按 5 种结构化页面类型（Source/Entity/Concept/Comparison/Synthesis）编译为持续积累的 Wiki 知识库，并支持导出 Markdown、Marp 幻灯片、飞书文档和图表。适配 Claude Code、OpenCode、字节内部 Mira 三套平台，深度集成 Obsidian。带 35 项端到端测试。面向使用 LLM Agent 做知识管理的研究者与开发者。", "highlights": ["5 个 Python CLI 工具：init / ingest / query / search / lint", "5 种结构化页面类型及 YAML frontmatter 模板", "3 套平台适配器（Claude Code / OpenCode / Mira）与 Obsidian 深度集成", "导出飞书文档 / Marp 幻灯片 / 研究报告 / Matplotlib 图表"], "use_cases": ["让 Claude Code / OpenCode 等 Agent 把网页和文献沉淀为个人 Wiki 知识库", "研究者长期积累领域知识并导出幻灯片或飞书文档分享", "通过 /wiki lint 维护知识库健康度（死链接、孤儿页面）"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["知识管理", "LLM Agent 技能", "Wiki/第二大脑", "Obsidian", "个人知识库"], "domain": "知识管理/LLM Agent 工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "飞书文档导出适配", "适配字节跳动内部 Mira 平台"]}, "trust": {"confidence": "high", "evidence": ["L41: **LLM Wiki KB 把 Karpathy 的蓝图变成了一套即插即用的工具链。**", "L157: │                   Your LLM Agent                     │", "L165: 2. **Wiki（知识编译）** — LLM 阅读原始素材，按 5 种页面类型模板编写 Wiki 页面，存入 `wiki/`，更新 `index.md` 和 `log.md`"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "chengjialu8888/LLM-Wiki-KB",
+ "sha": "8961f063d811",
+ "source": "readme",
+ "identity": {
+  "one_liner": "把 Karpathy 的 LLM Wiki 蓝图实现为 LLM Agent 可用的知识库工具链",
+  "review": "基于 Andrej Karpathy 2025 年 LLM Wiki Gist 的实现项目：提供 5 个 Python CLI 工具（init/ingest/query/search/lint），将 URL 或本地文件转为 Markdown 原始素材，由 LLM Agent 按 5 种结构化页面类型（Source/Entity/Concept/Comparison/Synthesis）编译为持续积累的 Wiki 知识库，并支持导出 Markdown、Marp 幻灯片、飞书文档和图表。适配 Claude Code、OpenCode、字节内部 Mira 三套平台，深度集成 Obsidian。带 35 项端到端测试。面向使用 LLM Agent 做知识管理的研究者与开发者。",
+  "highlights": [
+   "5 个 Python CLI 工具：init / ingest / query / search / lint",
+   "5 种结构化页面类型及 YAML frontmatter 模板",
+   "3 套平台适配器（Claude Code / OpenCode / Mira）与 Obsidian 深度集成",
+   "导出飞书文档 / Marp 幻灯片 / 研究报告 / Matplotlib 图表"
+  ],
+  "use_cases": [
+   "让 Claude Code / OpenCode 等 Agent 把网页和文献沉淀为个人 Wiki 知识库",
+   "研究者长期积累领域知识并导出幻灯片或飞书文档分享",
+   "通过 /wiki lint 维护知识库健康度（死链接、孤儿页面）"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "知识管理",
+   "LLM Agent 技能",
+   "Wiki/第二大脑",
+   "Obsidian",
+   "个人知识库"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "knowledge-base",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "飞书文档导出适配",
+   "适配字节跳动内部 Mira 平台"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L41: **LLM Wiki KB 把 Karpathy 的蓝图变成了一套即插即用的工具链。**",
+   "L157: │                   Your LLM Agent                     │",
+   "L165: 2. **Wiki（知识编译）** — LLM 阅读原始素材，按 5 种页面类型模板编写 Wiki 页面，存入 `wiki/`，更新 `index.md` 和 `log.md`"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

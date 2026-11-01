@@ -1,1 +1,77 @@
-{"fn": "DjibrilM/langgraph-starbucks-agent", "sha": "f635444df82e", "source": "readme", "identity": {"one_liner": "用对话订购星巴克饮品的 NestJS AI Agent", "review": "基于 NestJS 的对话式下单服务：用户以自然语言点星巴克饮品，Agent 由 LangGraph 状态机编排对话流程，接入 Google Generative AI 模型；缺少尺寸、加料等信息时追问，确认后调用 create_order 工具将订单写入 MongoDB（Zod 校验），并用 MongoDBSaver 保存和恢复会话状态。响应固定包含 message、current_order、suggestions、progress 的结构化 JSON。通过 git clone 源码安装，需配置 GOOGLE_API_KEY 与 MONGO_URI。", "highlights": ["LangGraph 状态机管理多轮订购对话流程", "create_order 工具将订单写入 MongoDB，插入前经 Zod 校验", "MongoDBSaver 持久化会话状态，支持恢复对话", "响应含结构化 JSON：message / current_order / suggestions / progress"], "use_cases": ["通过自然语言对话完成星巴克饮品下单", "为点单类业务搭建可持久化会话的 AI Agent 服务", "参考 LangGraph + NestJS + MongoDB 的 Agent 工程实现"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["对话式Agent", "订单/点单", "LangGraph", "Node.js后端"], "domain": "对话式应用/电商点单", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3: This project implements a **NestJS-based conversational AI agent** that allows users to order drinks from Starbucks.", "L4: The AI agent is powered by **LangChain's LangGraph** framework, connected to a **MongoDB** database, and enhanced with G", "L26: 1. User sends a **query** (e.g., \"I want a latte with almond milk\")."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "DjibrilM/langgraph-starbucks-agent",
+ "sha": "f635444df82e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "用对话订购星巴克饮品的 NestJS AI Agent",
+  "review": "基于 NestJS 的对话式下单服务：用户以自然语言点星巴克饮品，Agent 由 LangGraph 状态机编排对话流程，接入 Google Generative AI 模型；缺少尺寸、加料等信息时追问，确认后调用 create_order 工具将订单写入 MongoDB（Zod 校验），并用 MongoDBSaver 保存和恢复会话状态。响应固定包含 message、current_order、suggestions、progress 的结构化 JSON。通过 git clone 源码安装，需配置 GOOGLE_API_KEY 与 MONGO_URI。",
+  "highlights": [
+   "LangGraph 状态机管理多轮订购对话流程",
+   "create_order 工具将订单写入 MongoDB，插入前经 Zod 校验",
+   "MongoDBSaver 持久化会话状态，支持恢复对话",
+   "响应含结构化 JSON：message / current_order / suggestions / progress"
+  ],
+  "use_cases": [
+   "通过自然语言对话完成星巴克饮品下单",
+   "为点单类业务搭建可持久化会话的 AI Agent 服务",
+   "参考 LangGraph + NestJS + MongoDB 的 Agent 工程实现"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "对话式Agent",
+   "订单/点单",
+   "LangGraph",
+   "Node.js后端"
+  ],
+  "domain": "对话与助手",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "chatbot"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: This project implements a **NestJS-based conversational AI agent** that allows users to order drinks from Starbucks.",
+   "L4: The AI agent is powered by **LangChain's LangGraph** framework, connected to a **MongoDB** database, and enhanced with G",
+   "L26: 1. User sends a **query** (e.g., \"I want a latte with almond milk\")."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

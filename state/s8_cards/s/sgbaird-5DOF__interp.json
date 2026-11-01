@@ -1,1 +1,81 @@
-{"fn": "sgbaird-5DOF/interp", "sha": "0018ff380897", "source": "readme", "identity": {"one_liner": "MATLAB 晶界五自由度属性插值库（GPR/NN/IDW）", "review": "面向材料科研的 MATLAB 代码库：将晶界 5 自由度表示为晶界八元数（GBO）并映射到 Voronoi 基本区（VFZ），通过自定义距离度量实现晶界能/迁移率等属性的连续插值。高层函数 interp5DOF.m 支持 GPR、重心坐标、最近邻与逆距离加权插值；另提供 VFZ 距离计算、数据格式转换、绘图复现脚本与测试函数。要求 MATLAB R2019b+ 及 Statistics and Machine Learning Toolbox；作者标注代码库正在重构修正中。", "highlights": ["将晶界 5DOF 表示为八元数并映射至 Voronoi 基本区", "interp5DOF.m 支持 GPR/重心/最近邻/IDW 四种插值方案", "VFZ 距离计算（GBdist4、ensembleGBdist 向量化并行实现）", "提供数据转换函数、figshare 论文数据与 parfor 并行支持"], "use_cases": ["对晶界能、迁移率等属性在 5DOF 空间做连续插值预测", "计算晶界八元数在 VFZ 意义下的距离矩阵", "复现论文图表或对自有无文献晶界数据做转换与建模"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "desktop", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": "https://doi.org/10.1016/j.commatsci.2021.110756", "demo_url": null, "self_declared_early": {"flag": true, "lines": [9], "note": "作者声明正在重构并修正某转换脚本"}}, "links": {"scenario_tags": ["材料科学", "晶界", "高斯过程回归", "插值", "MATLAB"], "domain": "计算材料科学", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L11:  Code related to meshing, interpolation, and distance calculations of grain boundaries by representing 5DOF of grain bou", "L27: - Statistics and Machine Learning Toolbox (for Gaussian Process Regression: fitrgp(), fitrgp.predict())", "L39: See interp5DOF.m, which is a high-level function for Gaussian Process Regression (GPR), barycentric, nearest neighbor (N"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "sgbaird-5DOF/interp",
+ "sha": "0018ff380897",
+ "source": "readme",
+ "identity": {
+  "one_liner": "MATLAB 晶界五自由度属性插值库（GPR/NN/IDW）",
+  "review": "面向材料科研的 MATLAB 代码库：将晶界 5 自由度表示为晶界八元数（GBO）并映射到 Voronoi 基本区（VFZ），通过自定义距离度量实现晶界能/迁移率等属性的连续插值。高层函数 interp5DOF.m 支持 GPR、重心坐标、最近邻与逆距离加权插值；另提供 VFZ 距离计算、数据格式转换、绘图复现脚本与测试函数。要求 MATLAB R2019b+ 及 Statistics and Machine Learning Toolbox；作者标注代码库正在重构修正中。",
+  "highlights": [
+   "将晶界 5DOF 表示为八元数并映射至 Voronoi 基本区",
+   "interp5DOF.m 支持 GPR/重心/最近邻/IDW 四种插值方案",
+   "VFZ 距离计算（GBdist4、ensembleGBdist 向量化并行实现）",
+   "提供数据转换函数、figshare 论文数据与 parfor 并行支持"
+  ],
+  "use_cases": [
+   "对晶界能、迁移率等属性在 5DOF 空间做连续插值预测",
+   "计算晶界八元数在 VFZ 意义下的距离矩阵",
+   "复现论文图表或对自有无文献晶界数据做转换与建模"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": "https://doi.org/10.1016/j.commatsci.2021.110756",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    9
+   ],
+   "note": "作者声明正在重构并修正某转换脚本"
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "材料科学",
+   "晶界",
+   "高斯过程回归",
+   "插值",
+   "MATLAB"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L11:  Code related to meshing, interpolation, and distance calculations of grain boundaries by representing 5DOF of grain bou",
+   "L27: - Statistics and Machine Learning Toolbox (for Gaussian Process Regression: fitrgp(), fitrgp.predict())",
+   "L39: See interp5DOF.m, which is a high-level function for Gaussian Process Regression (GPR), barycentric, nearest neighbor (N"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

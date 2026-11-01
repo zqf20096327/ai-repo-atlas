@@ -33,7 +33,7 @@ Node.js/TypeScript 编写的 CLI 编排工具，将 AI 代理组织为敏捷开�
 
 ## 场景标签
 
- · 领域:AI 代理编排/软件开发自动化
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

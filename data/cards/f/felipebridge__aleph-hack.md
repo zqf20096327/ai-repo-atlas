@@ -33,7 +33,7 @@ Aleph Hackathon 2026 的参赛项目（Tether QVAC 赛道）：自动将客户�
 
 ## 场景标签
 
- · 领域:金融/会计自动化
+`OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 

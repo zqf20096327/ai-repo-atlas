@@ -1,1 +1,85 @@
-{"fn": "jjy1000/MiroFish-Explorer", "sha": "d219d83aa1ef", "source": "readme", "identity": {"one_liner": "群体智能推演引擎探索版：数字世界仿真+命令工作流", "review": "MiroFish 的 fork 扩展版本：基于 OASIS 多智能体引擎，上传种子材料后构建智能体数字世界进行推演。本 fork 在上游核心之上新增圆桌推演、政策推演、因果推断（DoWhy/EconML）、多种博弈论求解器、Tauri 2 桌面端（macOS/Windows，内嵌 Neo4j+JRE）及 Explorer 分支独有的 Command Workflow（结构化命令驱动推演，支持 reset/inject/sweep 等命令）。技术栈为 Vue 3 + Flask 3 + Neo4j，支持源码部署与 Docker Compose 一键部署，AGPL v3 协议，项目自述处于加速开发中。", "highlights": ["Command Workflow：结构化命令编排推演流程（参数扫描、快照导出）", "圆桌推演、政策推演、智能体辩论等推演模式，token 级 SSE 流式输出", "因果推断（DoWhy/EconML）与多种博弈论求解器（Gambit/OpenSpiel 等）", "Tauri 2 桌面端（macOS/Windows），内嵌 Neo4j + JRE，可离线运行"], "use_cases": ["用命令式指令批量推演、参数扫描、复现论文", "构建智能体数字世界观察群体演化与意见动力学", "在桌面端离线运行政策推演与因果分析"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": "idea"}, "eval": {"target_user": "科研", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": true, "lines": [14, 223]}}, "links": {"scenario_tags": ["社会仿真", "多智能体", "群体智能", "推演/模拟", "桌面应用"], "domain": "社会仿真/多智能体系统", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["中英双语 README", "上游项目由盛大集团孵化"]}, "trust": {"confidence": "high", "evidence": ["L28: MiroFish 是一个简洁通用的群体智能引擎：上传种子材料（新闻、报告、小说等）后，它会**自动构建一个高保真的平行数字世界**，让成千上万具备独立人格、长期记忆和行为逻辑的智能体在其中自由交互和演化，从而推演未来的轨迹。", "L45: |🟡 **本 fork 自行扩展**（**非上游提供**）|上游没有，本 fork 自行开发|圆桌推演、政策推演、因果推断（DoWhy / EconML）、博弈论求解器（Gambit / OpenSpiel / Network Game）、", "L189: - **OASIS**（camel-ai/oasis）多智能体仿真"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-01", "softened": null, "model_harness": {"model": "glm-5.3", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "jjy1000/MiroFish-Explorer",
+ "sha": "d219d83aa1ef",
+ "source": "readme",
+ "identity": {
+  "one_liner": "群体智能推演引擎探索版：数字世界仿真+命令工作流",
+  "review": "MiroFish 的 fork 扩展版本：基于 OASIS 多智能体引擎，上传种子材料后构建智能体数字世界进行推演。本 fork 在上游核心之上新增圆桌推演、政策推演、因果推断（DoWhy/EconML）、多种博弈论求解器、Tauri 2 桌面端（macOS/Windows，内嵌 Neo4j+JRE）及 Explorer 分支独有的 Command Workflow（结构化命令驱动推演，支持 reset/inject/sweep 等命令）。技术栈为 Vue 3 + Flask 3 + Neo4j，支持源码部署与 Docker Compose 一键部署，AGPL v3 协议，项目自述处于加速开发中。",
+  "highlights": [
+   "Command Workflow：结构化命令编排推演流程（参数扫描、快照导出）",
+   "圆桌推演、政策推演、智能体辩论等推演模式，token 级 SSE 流式输出",
+   "因果推断（DoWhy/EconML）与多种博弈论求解器（Gambit/OpenSpiel 等）",
+   "Tauri 2 桌面端（macOS/Windows），内嵌 Neo4j + JRE，可离线运行"
+  ],
+  "use_cases": [
+   "用命令式指令批量推演、参数扫描、复现论文",
+   "构建智能体数字世界观察群体演化与意见动力学",
+   "在桌面端离线运行政策推演与因果分析"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": "idea"
+ },
+ "eval": {
+  "target_user": "科研",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": true,
+   "lines": [
+    14,
+    223
+   ]
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "社会仿真",
+   "多智能体",
+   "群体智能",
+   "推演/模拟",
+   "桌面应用"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "research-tools"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "中英双语 README",
+   "上游项目由盛大集团孵化"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: MiroFish 是一个简洁通用的群体智能引擎：上传种子材料（新闻、报告、小说等）后，它会**自动构建一个高保真的平行数字世界**，让成千上万具备独立人格、长期记忆和行为逻辑的智能体在其中自由交互和演化，从而推演未来的轨迹。",
+   "L45: |🟡 **本 fork 自行扩展**（**非上游提供**）|上游没有，本 fork 自行开发|圆桌推演、政策推演、因果推断（DoWhy / EconML）、博弈论求解器（Gambit / OpenSpiel / Network Game）、",
+   "L189: - **OASIS**（camel-ai/oasis）多智能体仿真"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-01",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}
