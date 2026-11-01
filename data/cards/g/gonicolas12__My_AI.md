@@ -1,0 +1,58 @@
+# gonicolas12/My_AI
+
+⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gonicolas12/My_AI) · 个人维护
+
+**本地离线桌面 AI 助手：聊天、9 个 agent 与文档/图像/语音生成**
+
+基于 Ollama 的桌面端私人 AI 助手：对话含推理模式与带引用的 DuckDuckGo 搜索、9 个专用 agent 与可视化工作流（n8n 风格）、Word/PDF/Excel/PPT 生成（python-docx/reportlab/python-pptx/openpyxl）、本地文生图（自动安装便携 ComfyUI，可选 AUTOMATIC1111/Forge/diffusers）、faster-whisper 语音输入与朗读、ChromaDB+SQLite 向量记忆及 @codebase 项目级 RAG。首次启动向导按 RAM/GPU 检测并下载 2-9B 参数模型。支持 12 种界面与输出语言；手机经端到端加密中继访问。数据存储在本地，下载模型后除搜索与移动访问外可离线运行。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | local-ok | 支持本地模型 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 9 个专用 agent 与可视化工作流画布（顺序/并行/DAG 执行）
+- 首次启动向导检测硬件并自动选择下载 2-9B 参数模型
+- Office 文档生成与编辑（原文档不被修改，副本写入 outputs/）
+- ChromaDB+SQLite 向量记忆，可查看/编辑/删除的记忆面板
+
+## 适用场景
+
+- 在本机运行 LLM 对话并生成 Word/PDF/Excel/PPT 文档
+- 用专用 agent 或工作流处理代码、数据分析与安全审计任务
+- 把整个代码库文件夹挂入工作区做持续项目问答
+- 离线语音输入与朗读，手机经加密中继远程使用
+
+## 场景标签
+
+`AI 助手` `工作流自动化` `图像生成` `语音识别` · 领域:效率与自动化
+
+## 证据(README 行号)
+
+> L9: Chat, agents, documents, images and voice, powered by Ollama.
+> L27: - 🔒 **Private by design.** The model runs on your PC through Ollama. Conversations, documents and memory are stored
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gonicolas12/My_AI 星数(近 2 点)"
+    x-axis ["2026-10-18", "2026-11-01"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-10-18 12 → 2026-11-01 12（+0）
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 mid · 依据 README sha `7cb2644556a8` · [字段定义](../../DATASET.md)*
